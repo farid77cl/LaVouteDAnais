@@ -1,15 +1,25 @@
 # Temas Explorados en Detalle
 
-Aquí desglosaremos los fetiches y temas centrales con más profundidad.
+Este archivo sirve como un catálogo de los fetiches y temas centrales de nuestro universo, haciendo referencia directa a las definiciones detalladas en `03_GlossarioDelDeseo/fetiches_clave.md`.
 
-## Humillación Pública
-- *Definición:* El placer derivado de actos humillantes que ocurren a la vista de otros, reales o imaginarios.
-- *Psicología:* La pérdida del anonimato, la vergüenza convertida en un espectáculo, el miedo al juicio social como afrodisíaco.
+## Temas Principales
 
-## Adicción Forzada
-- *Definición:* El proceso de condicionar a un personaje para que se vuelva física y mentalmente dependiente de una sustancia, una persona o un acto.
-- *Psicología:* La erosión de la voluntad, la búsqueda desesperada de la siguiente "dosis", la rendición total a la necesidad.
+### Bimbofication (El Espectro Completo)
+- **Aplicación:** Explorar la transformación en una "bimbo" a través de todo el espectro, desde la elección gozosa y liberadora hasta la imposición coercitiva. Ver `Bimbofication Feliz` y `Bimbofication Coercitiva` en el glosario.
 
-## Transformación Permanente
-- *Definición:* Cambios físicos o psicológicos que son irreversibles, sellando el nuevo estado del personaje.
-- *Psicología:* El punto de no retorno, la aceptación de la nueva identidad como la única realidad posible.
+### Feminización y Sissification
+- **Aplicación:** El proceso de obligar o guiar a un hombre a adoptar roles, ropa y comportamientos femeninos. Se enfoca en la pérdida del estatus masculino y la adopción de una nueva identidad sumisa.
+
+### Control Mental y Reprogramación
+- **Aplicación:** El uso de técnicas (hipnosis, condicionamiento, drogas, triggers) para borrar la voluntad y la identidad originales. Ver `Reprogramación Mental` y `Reprogramación Lingüística` en el glosario.
+
+### Humillación y Degradación
+- **Aplicación:** Obtención de placer a través de actos que humillan, degradan o avergüenzan al personaje sumiso. La vergüenza se convierte en la fuente principal de la excitación.
+
+### Corrupción y Ruinación
+- **Aplicación:** El proceso de guiar o forzar a un personaje a la ruina moral, psicológica o a través de la adicción. Ver `Corrupción y Ruinación Autoimpuesta` en el glosario.
+
+## Conceptos de Apoyo
+
+- **Ritual y Símbolo:** El uso de objetos y acciones recurrentes (collares, colores, frases) para marcar los hitos de la transformación.
+- **Estética de la Transformación:** La moda, el maquillaje y la apariencia como herramientas activas en el proceso de cambio.
