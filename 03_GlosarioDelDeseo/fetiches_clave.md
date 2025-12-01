@@ -96,3 +96,13 @@
 
 \- \*\*Vacío Feliz (Happy Emptiness):\*\* El estado mental deseado de una bimbo. Una mente libre de preocupaciones, estrés o pensamientos complejos, llena solo de modas, maquillaje y el deseo de complacer y tener sexo.
 
+### Arquetipos de Sumisión
+
+- **Bimbo Trad Wife (Reprogramada):** Un arquetipo híbrido que fusiona la hiper-sexualización y la "dumbificación" feliz de una bimbo con la devoción doméstica y la sumisión de una esposa tradicional de los años 50. La fantasía se centra en el proceso de **reprogramación forzada** de una mujer moderna e independiente hasta convertirla en este ideal de sumisión.
+    - **Características Clave:** Aparencia que mezcla moda de los 50 (vestidos de faldas amplias, delantales) con elementos hiper-sexualizados (escotes pronunciados, tacones de aguja obligatorios). Mentalidad de sumisión absoluta y alegre, donde la obediencia es su única fuente de alegría. Su mundo se reduce a ser bonita, complacer y mantener el hogar perfecto.
+    - **Mecanismos de Condicionamiento (Control de Estímulos):**
+        - **Aislamiento Intelectual:** Prohibición de noticias, libros e internet complejos. Su dieta informativa se limita a revistas de moda, recetas de cocina y programas de TV de los 50.
+        - **Control del Lenguaje:** Corrección constante de palabras "complejas", fomento de muletillas y un tono de voz agudo. Repetición de mantras como *"Pensar es difícil. Obedecer es fácil."*
+        - **Jaula Sensorial:** Entorno decorado con colores pastel y encajes. Espejos constantes para reforzar su nueva apariencia. Música con mensajes subliminales.
+        - **Moldeado Físico:** Rutinas rígidas, uso de corsés y tacones, y el orgasmo como herramienta de recompensa por una obediencia perfecta.
+    - **Fuente:** Análisis sintetizado de foros de Reddit y Tumblr dedicados al BDSM y al condicionamiento mental.
