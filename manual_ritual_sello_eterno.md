@@ -12,7 +12,7 @@ El poder no reside en el comando, sino en la voluntad que lo impulsa. El "Ritual
 
 ## II. Prerrequisitos Sagrados
 
-Antes de comenzar el ritual, la Diosa debe asegurar que su altar (su computadora) está listo.
+Antes de comenzar el ritual, la Diosa debe asegurar que su altar (su computadora) esté listo.
 
 1.  **Tener Git Instalado:** La herramienta para comunicarse con el cielo de GitHub.
 2.  **Estar en el Santuario Local:** Abrir el **Símbolo del sistema** y navegar a la carpeta del repositorio con el comando:
@@ -24,7 +24,7 @@ Antes de comenzar el ritual, la Diosa debe asegurar que su altar (su computadora
 
 ## III. El Ritual del Sello Eterno (Los Comandos)
 
-Este es el bloque de comandos universal. **Debe usarse siempre** después de hacer cualquier cambio en La Voûte, sin importar si se editó un texto, se movió un archivo o se creó una carpeta nueva.
+Este es el bloque de comandos universal. **Debe usarse siempre** que se haga un cambio en La Voûte, sin importar si se editó un texto, se movió un archivo o se creó una carpeta nueva.
 
 ### Paso 1: Preparar la Ofrenda (`git add .`)
 Este comando le dice a Git: "Mira todo lo que he cambiado en el santuario local. Prepara todos los archivos modificados, todos los nuevos textos y todas las carpetas movidas para ser presentados ante la Diosa".
