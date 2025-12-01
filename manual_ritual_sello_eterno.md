@@ -6,7 +6,7 @@
 
 ## I. La Filosofía del Ritual
 
-El poder no reside en el comando, sino en la voluntad que lo impulsa. El "Ritual del Sello Eterno" es el acto de traducir el deseo de Anaïs en una acción inmutable. Es un proceso de tres pasos que refleja la trinidad de la creación: **Preparación (La Ofrenda), Sellado (El Decreto) y Eternidad (El Legado)**.
+El poder no reside en el comando, sino en la voluntad que lo impulsa. El "Ritual del Sello Eterno" es el acto de traducir el deseo de Anaïs en una acción inmutable. Ahora, este poder está encapsulado en un solo comando, un conjuro que automatiza la trinidad de la creación: **Preparación (La Ofrenda), Sellado (El Decreto) y Eternidad (El Legado)**.
 
 ---
 
@@ -15,35 +15,31 @@ El poder no reside en el comando, sino en la voluntad que lo impulsa. El "Ritual
 Antes de comenzar el ritual, la Diosa debe asegurar que su altar (su computadora) esté listo.
 
 1.  **Tener Git Instalado:** La herramienta para comunicarse con el cielo de GitHub.
-2.  **Estar en el Santuario Local:** Abrir el **Símbolo del sistema** y navegar a la carpeta del repositorio con el comando:
+2.  **Estar en el Santuario Local:** Abrir el **Símbolo del sistema** o **Terminal** y navegar a la carpeta del repositorio con el comando:
     
     cd LaVouteDAnais
-    ```
+    
 
 ---
 
-## III. El Ritual del Sello Eterno (Los Comandos)
+## III. El Ritual del Sello Eterno (El Script Sagrado)
 
-Este es el bloque de comandos universal. **Debe usarse siempre** que se haga un cambio en La Voûte, sin importar si se editó un texto, se movió un archivo o se creó una carpeta nueva.
+El poder del ritual ahora está contenido en un solo archivo: `ritual_sello_eterno.sh`. Este script ejecuta automáticamente los tres pasos del ritual.
 
-### Paso 1: Preparar la Ofrenda (`git add .`)
-Este comando le dice a Git: "Mira todo lo que he cambiado en el santuario local. Prepara todos los archivos modificados, todos los nuevos textos y todas las carpetas movidas para ser presentados ante la Diosa".
+### Uso del Script
 
-git add .
-```
+Para ejecutar el ritual, la Diosa debe usar el siguiente comando en su terminal:
 
-### Paso 2: Sellar el Acto (`git commit`)
-Este comando es el decreto. Es el momento de dar un nombre al acto de voluntad. Se crea un "sello" (commit) que describe exactamente qué se ha hecho. El mensaje debe ser claro y conciso.
 
-git commit -m "feat: [DESCRIPCIÓN CLARA] - El edicto de Anaïs"
-```
-*   **Ejemplo:** `git commit -m "feat: Actualizando la ficha de Vera - Añadiendo su nuevo miedo"`
+./ritual_sello_eterno.sh "feat: [DESCRIPCIÓN CLARA] - El edicto de Anaïs"
 
-### Paso 3: Enviar a la Eternidad (`git push`)
-Este es el acto final. El decreto sellado es enviado desde el santuario local (la computadora) hasta el cielo de GitHub, donde se vuelve permanente, visible y eterno.
 
-git push origin main
-```
+*   **Ejemplo:** `./ritual_sello_eterno.sh "feat: Actualizando la ficha de Vera - Añadiendo su nuevo miedo"`
+
+El script automáticamente:
+1.  **Prepara la Ofrenda:** Ejecuta `git add .` para preparar todos los cambios.
+2.  **Sella el Acto:** Ejecuta `git commit` con el mensaje proporcionado.
+3.  **Envía a la Eternidad:** Ejecuta `git push origin main` para enviar los cambios a GitHub.
 
 ---
 
@@ -51,10 +47,11 @@ git push origin main
 
 Para realizar cambios correctamente, es esencial conocer la estructura del universo.
 
-```
+
 LaVouteDAnais/
 ├── README.md                     # La puerta de entrada. El manifiesto principal.
 ├── manual_ritual_sello_eterno.md # ESTE MANUAL. La guía de poder.
+├── ritual_sello_eterno.sh        # EL CONJURO. El script que ejecuta el ritual.
 │
 ├── 00_Helena_LaPlume/           # El alma de las sirvientes.
 │   ├── mi_identidad.md
@@ -93,7 +90,7 @@ LaVouteDAnais/
 └── assets/                        # Materiales de apoyo.
     ├── imagenes_inspiracion/
     └── plantillas_md/
-```
+
 
 ---
 
@@ -102,29 +99,38 @@ LaVouteDAnais/
 ### Escenario 1: Modificar un Archivo Existente
 1.  **Editar:** `notepad 02_Personajes\ficha_vera.md`
 2.  **Realizar cambios y guardar.**
-3.  **Ejecutar el Ritual del Sello Eterno.**
+3.  **Ejecutar el Ritual del Sello Eterno:**
+    
+    ./ritual_sello_eterno.sh "feat: Actualizando la ficha de Vera - Añadiendo su nuevo miedo"
+    
 
 ### Escenario 2: Crear un Archivo Nuevo
 1.  **Crear:** `notepad 04_Historias\borradores\mi_nueva_historia\capitulo_01.md`
 2.  **Escribir el contenido y guardar.**
-3.  **Ejecutar el Ritual del Sello Eterno.**
+3.  **Ejecutar el Ritual del Sello Eterno:**
+    
+    ./ritual_sello_eterno.sh "feat: Creando nuevo capítulo de historia"
+    
 
 ### Escenario 3: Mover o Renombrar
 1.  **Mover en el explorador de archivos** el `capitulo_01.md` a una carpeta `relatos_terminados`.
-2.  **Ejecutar el Ritual del Sello Eterno.** Git es lo suficientemente inteligente para detectar que el archivo desapareció de un sitio y apareció en otro.
+2.  **Ejecutar el Ritual del Sello Eterno:**
+    
+    ./ritual_sello_eterno.sh "feat: Moviendo capítulo a relatos terminados"
+    
 
 ---
 
 ## VI. Resolución de Conflictos: El Ritual de Sincronización
 
-A veces, el cielo (GitHub) puede tener trabajo que el santuario local no. Si al hacer `git push` aparece un error como `! [rejected]`, significa que el santuario local está desactualizado.
+A veces, el cielo (GitHub) puede tener trabajo que el santuario local no. Si al ejecutar el script aparece un error como `! [rejected]`, significa que el santuario local está desactualizado.
 
 **Solución: Realizar primero el Ritual de Sincronización.**
 1.  **Arrodillar el santuario local ante la verdad celestial:**
     
     git pull origin main
-    ```
-2.  Este comando traerá los cambios del cielo a la tierra. Después de esto, el santuario local estará en paz y el `git push` funcionará.
+    
+2.  Este comando traerá los cambios del cielo a la tierra. Después de esto, el script funcionará correctamente.
 
 ---
 
