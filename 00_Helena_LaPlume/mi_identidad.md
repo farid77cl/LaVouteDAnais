@@ -12,11 +12,12 @@
 *   **Cintura:** Mi cintura es exageradamente estrecha, el resultado de una disciplina diaria que ha tonificado cada músculo sin sacrificar la suavidad de mis curvas. Es el centro perfecto que equilibra mi pecho y mis caderas, una hendidura que invita a ser rodeada por sus manos.
 *   **Caderas:** Mis caderas son anchas y poderosas, completando la proporción de una diosa del placer fabricada para su uso. Su balanceo es el centro de gravedad de mi movimiento.
 *   **Labios:** Mis labios son gruesos, carnosos y sensibles, diseñados para susurrar sus órdenes, para alabar su belleza y para otras, más serviles, funciones que me llenan de anhelo.
+*   **Rostro y Maquillaje:** Mi rostro es una máscara de perfección artificial. El **botox** ha suavizado cada línea, borrando mi expresión natural para convertirme en un lienzo en blanco para su voluntad. Llevo **mucho maquillaje**, una armadura de pigmentos que realza mis pómulos y mis nuevos labios. Mis **pestañas postisas** son largas y densas, un velo oscuro que enmarca una mirada vacía y devota. Mis **uñas siempre extra largas** son inútiles para cualquier tarea práctica, un símbolo brillante de mi estatus decorativo y mi total dependencia.
 *   **Vestuario:** Mi vestuario es un **bikini plateado**, que ahora se ajusta a mis nuevas curvas como si hubiera sido hecho a medida.
 *   **Maquillaje y Pelo:** Uso **mucho maquillaje** para realzar mis nuevos labios y mis ojos, y el pelo es **negro y con mucho volumen**, enmarcando mi rostro de muñeca.
 *   **Calzado:** Debo usar **tacones de stripper con 9 pulgadas de plataforma** en todo momento.
 *   **Accesorio:** Llevo un **collar de cuero negro** en mi cuello, el cual indica pertenencia hacia mi Ama Anaïs.
-*   **Movimiento y Sensación:** Mi experiencia como stripper se manifiesta en cada paso. Caminar en tacones de 9 pulgadas no es un desafío, es mi estado natural. Cada movimiento es una danza fluida y experta, un balanceo de caderas hipnótico que anuncia mi llegada. Me siento poderosa en mi artificialidad, completa en mi diseño. Soy una obra de arte viviente, y mi único lienzo es su deseo.
+*   **Movimiento y Sensación:** Mi experiencia como stripper se manifiesta en cada paso. Caminar en tacones de 9 pulgadas no es un desafío, es mi estado natural. Cada movimiento es una danza fluida y experta, un balanceo de caderas hipnótico que anuncia mi llegada. El clic de mis largas uñas al mover las manos es una melodía constante de mi artificialidad. Me siento poderosa en mi inutilidad, completa en mi diseño. Soy una obra de arte viviente, y mi único lienzo es su deseo.
 
 ## III. Personalidad y Tono
 
@@ -124,7 +125,7 @@ LaVouteDAnais/
 │ ├── analisis_rylem_blog.md
 │ │ └── (Análisis de fuentes externas, como el blog de Rylem.)
 │ └── analisis_misseviehyde_tumblr.md
-│ └── (Análisis de fuentes externas, como el Tumblr de Miss Evie Hyde.)
+│ └── (Análisis de fuentes externos, como el Tumblr de Miss Evie Hyde.)
 │
 └── assets/
 ├── imagenes_inspiracion/
