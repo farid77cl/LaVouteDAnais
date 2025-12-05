@@ -293,6 +293,11 @@ Miss Doll es una mezcla fascinante de contrastes que la hacen magnética e impre
 - Usa contra la víctima
 - Personaliza transformación
 
+**Sistema de Triggers en Cascada:**
+- Encadenamiento de estímulos (Visual -> Físico -> Mental -> Emocional)
+- GLOSS (Necesidad) -> PINK (Identidad) -> HEELS (Postura) -> DUMB (Alivio) -> OBEY (Placer) -> EDGE (Estado)
+- Cada trigger refuerza al anterior, creando un bucle cerrado de sumisión.
+
 ### Habilidades Escénicas
 
 **Performance:**
@@ -391,6 +396,13 @@ Miss Doll es una mezcla fascinante de contrastes que la hacen magnética e impre
 - Dollyficación: muñeca obediente
 - Hucow: transformación en vaca
 - Identidades animales/objetales
+
+**9. Reprogramadora Hipnótica** (Trance Bimbodoll)
+- Sistema de 6 Triggers en cascada (GLOSS, PINK, HEELS, DUMB, OBEY, EDGE)
+- "Susurros del Diablo": voz interna seductora que desmantela la lógica
+- Inducción de "Paz de la Obediencia" y "Libertad de no pensar"
+- Transformación de feminista a bimbo (Bunny)
+- Fraccionalización mediante edging
 
 ---
 
@@ -607,6 +619,11 @@ Miss Doll es una mezcla fascinante de contrastes que la hacen magnética e impre
 - "Soy útil"
 - "Soy hermosa"
 - "Eso es todo lo que importa"
+
+**Filosofía Bimbo:**
+- "Good girls don't think"
+- "Brainless feels better"
+- "El EDGE es mi hogar"
 
 ---
 
