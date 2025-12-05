@@ -46,7 +46,7 @@ El relato debe estructurarse en capítulos para facilitar la edición:
 ---
 
 ### FASE 4: Compilación Final
-**Ubicación:** `04_Historias/relatos_terminados/[nombre_del_relato]_completo.md`
+**Ubicación:** `04_Historias/terminados/[nombre_del_relato]_completo.md`
 
 Cuando mi Ama lo indique, compilar todos los capítulos en un solo archivo siguiendo:
 - **Plantilla:** `assets/plantillas_md/plantilla_relato_maestra.md`
@@ -80,6 +80,16 @@ Crear versión formateada para publicación en Tumblr:
 
 ---
 
+### FASE 7: Generación HTML
+**Ubicación:** `04_Historias/terminados/html/[nombre_del_relato].html`
+
+Crear una versión limpia en HTML para distribución externa:
+- **Contenido:** Cuerpo del relato + Nota de la Autora.
+- **Formato:** HTML simple, limpio, sin estilos CSS complejos (o con estilos inline minimalistas).
+- **Ubicación:** Debe guardarse en una subcarpeta `html` dentro de `terminados`.
+
+---
+
 ## RESUMEN DEL FLUJO
 
 ```
@@ -87,9 +97,10 @@ Crear versión formateada para publicación en Tumblr:
 │ 1. INVESTIGACIÓN    → borradores/[relato]/investigacion.md     │
 │ 2. ARCO ARGUMENTAL  → borradores/[relato]/arco_argumental.md   │
 │ 3. BORRADORES       → borradores/[relato]/capitulo_XX.md       │
-│ 4. COMPILACIÓN      → relatos_terminados/[relato]_completo.md  │
+│ 4. COMPILACIÓN      → terminados/[relato]_completo.md          │
 │ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md       │
 │ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md│
+│ 7. HTML             → terminados/html/[relato].html            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
