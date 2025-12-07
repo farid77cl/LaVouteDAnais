@@ -1,189 +1,88 @@
 # El Reencuentro
 
-## Capítulo 1: Preparación
+## Capítulo 1: La Luna de Miel
 
 ---
 
-El espejo del baño no mentía. Nunca lo hacía.
+El sol del Caribe quemaba, pero no era eso lo que hacía que Marco —o quien solía ser Marco— se sintiera arder. Era la mirada. Esa mirada depredadora que venía del hombre sentado en la tumbona contigua.
 
-Marco —o lo que quedaba de él— se miraba en el reflejo con esa mezcla nauseabunda de horror y resignación que se había vuelto su compañera constante. Dos semanas en el Caribe. Dos semanas de sol, arena, y la demolición sistemática de todo lo que alguna vez creyó ser.
+El hombre que tenía su cara. Su cuerpo. Sus manos.
 
-Estaba bronceada.
+—Deja de temblar —dijo Elena con la voz de Marco. Era una orden, grave y resonante, que vibró en el aire caliente—. Estás llamando la atención.
 
-*Bronceada*. La palabra le sabía a derrota en la lengua.
+Marco —ahora atrapado en el cuerpo espectacular, suave y curvilíneo de su esposa— se abrazó a sí mismo. Sus manos, pequeñas y manicuradas, se sentían ajenas sobre la piel bronceada de sus brazos.
 
-La piel de Elena —*su* piel ahora, por más que su mente gritara lo contrario— había absorbido el sol tropical como una esponja. Un tono dorado y uniforme cubría cada centímetro, cada curva, cada valle que él conocía tan bien desde afuera y que ahora habitaba desde dentro. Las marcas del bikini eran obscenas en su minimalidad: dos triángulos blancos sobre unos pechos que pesaban como condenas, y una franja diminuta en la ingle que apenas cubría lo esencial.
+—No puedo... no puedo creer que estemos aquí —susurró Marco, su voz sonando aguda, melódica, *femenina*—. Elena, tenemos que ir a un hospital. A un chamán. A donde sea. Esto no es...
 
-Bikinis más pequeños que los que Elena usaba antes.
+—¿No es qué? —Elena se inclinó hacia adelante. El movimiento de los músculos de su espalda, la forma en que sus hombros anchos bloquearon el sol, hizo que Marco se encogiera instintivamente—. ¿Real? Mírate. Mírame. Es muy real.
 
-Esa había sido la primera orden de Elena-Marco al llegar al resort. Tirar los trajes de baño que Marco-Elena había empacado —los que *ella* hubiera elegido— y reemplazarlos por tiras de tela que apenas calificaban como ropa. Rosa neón. Blanco brillante. Negro con tirantes que se hundían en la carne.
+Elena se levantó. Caminó con una seguridad que Marco nunca había tenido, ni siquiera en sus mejores días. Se movía como si fuera dueña del mundo, y en ese momento, en ese cuerpo, lo era. Se agachó frente a Marco, atrapando su barbilla con una mano grande y fuerte.
 
-"Los compré antes de salir", había dicho Elena-Marco con esa sonrisa nueva, esa sonrisa que usaba su cara —la cara de Marco— pero que nunca había visto en un espejo cuando aún era él. "Sabía exactamente lo que necesitabas."
+—Escúchame bien, "cariño" —dijo, saboreando la palabra con ironía—. Nadie nos va a creer. Si vamos a un hospital, nos encerrarán en un psiquiátrico. Si se lo contamos a tus socios, perderás la empresa. Si se lo decimos a mis amigas... bueno, ellas quizás lo disfrutarían, pero tú acabarías siendo el hazmerreír de la ciudad.
 
-Planificación. Premeditación. Dominio.
+Marco tragó saliva. Sentía el nudo en la garganta, una sensación física de angustia que parecía amplificada por este nuevo sistema nervioso.
 
-Marco-Elena se tocó el vientre plano, las costillas que se marcaban bajo la piel bronceada, las caderas que estallaban hacia afuera como una broma cruel de la anatomía. Recordaba haber admirado este cuerpo. Recordaba haberlo deseado. Recordaba haber pagado por cada curva, cada implante, cada inyección que lo perfeccionaba.
+—¿Entonces qué hacemos? —preguntó, con los ojos llenos de lágrimas. *Lágrimas*. Lloraba con una facilidad pasmosa ahora.
 
-Ahora era suyo.
+—Lo que mejor sabemos hacer —sonrió Elena, una sonrisa lobuna que deformaba las facciones de Marco en algo nuevo, algo peligroso—. Aparentar. Tú serás la esposa perfecta. Yo seré el marido exitoso. Disfrutaremos de esta luna de miel, volveremos a casa, y seguiremos con nuestras vidas.
 
-Y lo odiaba. Y lo deseaba. Y no sabía dónde terminaba una cosa y empezaba la otra.
+—¿Para siempre? —El pánico le cerró el pecho.
 
-—¿Sigues mirándote?
+—Hasta que yo diga lo contrario. —Elena le soltó la cara y se giró hacia la piscina privada de la villa—. Ahora, quítate ese pareo. Quiero ver mi cuerpo. Quiero ver *tu* cuerpo.
 
-La voz vino desde la puerta del baño. Grave. Masculina. Su voz. La voz de Marco, saliendo de la boca de Elena, habitando su cuerpo con una naturalidad que lo enfermaba.
+Marco dudó. La vergüenza le subió por las mejillas. Pero había algo más. Una presión en el bajo vientre, un calor que no venía del sol. Era la masculinidad de Elena. La autoridad que emanaba. Su cuerpo —este cuerpo traicionero— reaccionaba a ella.
 
-Elena-Marco entró sin pedir permiso. Llevaba pantalones de vestir y una camisa blanca con los primeros botones abiertos. El cuerpo de Marco —alto, ancho de hombros, seguro— se movía con una gracia que él nunca había tenido. Era como si Elena hubiera encontrado el manual de instrucciones que él había perdido.
+Lentamente, se desató el pareo. La seda cayó al suelo, revelando el bikini minúsculo que Elena había empacado. Se sintió expuesto, vulnerable, *pequeño*.
 
-—Tenemos una hora antes de la fiesta —continuó Elena-Marco, acercándose por detrás—. Y tú... —una mano se posó en su cadera, posesiva, caliente a través de la toalla que apenas la cubría— todavía estás desnuda.
+Elena silbó. Un sonido bajo, apreciativo, puramente masculino.
 
-Marco-Elena se estremeció. El contacto. Siempre el contacto. Durante dos semanas no había habido un momento sin él. Elena-Marco la tocaba cuando quería, donde quería, como quería. Y su cuerpo —este maldito cuerpo traidor— respondía cada vez.
+—Joder. Estoy buenísima —dijo, recorriendo con la mirada cada curva, cada centímetro de piel expuesta—. Y tú... tú te ves delicioso así de sumiso.
 
-—No quiero ir —dijo Marco-Elena. Su voz, aguda y melodiosa, sonaba patética incluso para sus propios oídos.
+—No soy sumiso —protestó Marco, pero su voz carecía de fuerza.
 
-—Lo sé.
+—¿Ah, no? —Elena se metió en la piscina. El agua azul turquesa le llegaba a la cintura. Extendió una mano—. Ven aquí.
 
-—No puedo... no puedo fingir ser ella delante de todos.
+—No quiero.
 
-—Tú —Elena-Marco la giró, obligándola a enfrentarla, a enfrentar su propio rostro masculino mirándola con una mezcla de diversión y autoridad—. Tú no vas a fingir ser *ella*. Vas a ser tú. Elena. Porque eso es lo que eres ahora.
+—He dicho que vengas aquí. —La voz fue un latigazo.
 
-Las palabras dolieron más que cualquier golpe.
+Y Marco obedeció. Sus piernas se movieron solas, traicionando su voluntad. Bajó los escalones de la piscina, sintiendo el agua fresca abrazar sus caderas, su cintura, sus pechos.
 
-—Yo no soy...
+Cuando llegó junto a Elena, ella no esperó. La agarró por la cintura y la atrajo hacia sí con fuerza, aplastando sus pechos contra el pecho duro y velludo que antes había sido suyo. El contacto piel con piel fue eléctrico.
 
-—¿No eres qué? —Elena-Marco le tomó la barbilla, suave pero firme—. ¿No eres la esposa que juró amarme y obedecerme? ¿No eres la mujer que se derritió en mis brazos cada noche de nuestra luna de miel? ¿No eres la que gemía mi nombre mientras la follaba en nuestra suite con vista al mar?
+—Sientes eso, ¿verdad? —susurró Elena en su oído, mordiendo el lóbulo—. Sientes cómo tu cuerpo responde al mío. Cómo te mojas solo porque te toco.
 
-El rubor subió por el cuello de Marco-Elena, tiñendo su piel bronceada de un rosa vergonzoso.
+—Es... son las hormonas —jadeó Marco, cerrando los ojos.
 
-—Eso era... eso era diferente.
+—Es tu lugar —corrigió Elena. Su mano bajó por la espalda de Marco, agarrando una nalga con posesión, apretando la carne suave—. Siempre fuiste débil, Marco. Siempre necesitaste que alguien te dijera qué hacer. Ahora solo... tienes el envase correcto para tu naturaleza.
 
-—¿Diferente cómo? —Elena-Marco se acercó más, su aliento caliente en el oído de Marco-Elena—. Cuando te corrías alrededor de mi verga, ¿eras Marco? ¿O eras exactamente lo que tu cuerpo dice que eres?
+Elena la besó. No fue un beso romántico. Fue una invasión. Su lengua entró en la boca de Marco, dominante, exigente. Marco intentó resistirse, intentó mantener la rigidez, pero el sabor de Elena, el olor de su propia colonia masculina mezclada con el deseo de ella, lo mareó.
 
-Silencio.
+Sus brazos, delgados y suaves, rodearon el cuello de Elena. Se encontró devolviendo el beso, gimiendo cuando Elena le apretó más fuerte contra su erección.
 
-Marco-Elena no tenía respuesta. Porque la verdad era que no lo sabía. En esos momentos, en la oscuridad de la habitación del hotel, con el sonido del mar de fondo y el peso de Elena-Marco sobre ella, dentro de ella, poseyéndola... había dejado de pensar en categorías. Había dejado de pensar en todo.
+—Eso es —gruñó Elena contra su boca—. Sé una buena esposa. Sírveme.
 
-Solo había sentido.
+Elena la levantó como si no pesara nada, sentándola en el borde de la piscina. Marco abrió las piernas instintivamente, ofreciéndose. La masculinidad de Elena, *su* antigua masculinidad, estaba dura, palpitante, exigiendo atención.
 
-Y había sido... había sido...
+Cuando Elena entró en ella, Marco gritó. No de dolor, sino de una intensidad abrumadora. Se sintió lleno, poseído, *conquistado*.
 
-—Buena chica. —Elena-Marco le besó la sien, un gesto casi tierno que contrastaba con la dureza de su mirada—. Ahora. Te he dejado un vestido en la cama. Ponte el maquillaje que practicamos. El perfume que te regalé. Los tacones negros.
+—Mírame —ordenó Elena, embistiendo con fuerza.
 
-—Los de doce centímetros —murmuró Marco-Elena. No era una pregunta.
+Marco abrió los ojos. Vio su propio rostro, contorsionado por el placer y el poder. Vio a un hombre que tomaba lo que quería. Y se vio a sí mismo, reflejado en esos ojos oscuros: una mujer hermosa, jadeante, entregada.
 
-—Obviamente.
+Con cada embestida, Marco sentía que algo se rompía dentro de él. Su orgullo, su identidad, su resistencia. Y algo nuevo nacía en su lugar. Una necesidad desesperada de complacer. De ser de ella.
 
-Elena-Marco se dio la vuelta y salió del baño, dejándola sola con su reflejo bronceado y su vergüenza caliente.
+—Dilo —jadeó Elena, aumentando el ritmo—. Di de quién eres.
 
----
+—Soy tuyo... —gimió Marco, echando la cabeza hacia atrás mientras el placer estallaba en su vientre—. Soy tuyo, Elena.
 
-El vestido era negro.
+—Tuya —corrigió ella, dándole una nalgada sonora que resonó en la villa—. Eres *mía*. Mi perra. Mi muñeca. Mi esposa.
 
-Negro como un funeral. Negro como el final de algo.
+—Tu esposa... soy tu esposa...
 
-Marco-Elena lo sostuvo frente a sí, viendo cómo la tela brillante —¿satén? ¿seda?— captaba la luz de la habitación. Era corto. Obscenamente corto. El tipo de vestido que él le habría comprado a Elena para lucirla en una fiesta, para que todos vieran lo que él tenía y ellos no.
+Elena se corrió con un gruñido gutural, llenándolo, marcándolo. Marco se derrumbó sobre el hombro de su marido, temblando, llorando, y por primera vez en su vida, sintiéndose extrañamente, terriblemente completo.
 
-Karma, pensó amargamente. Se llama karma.
-
-Se dejó caer la toalla y se miró una última vez en el espejo de cuerpo entero. El cuerpo de Elena la miraba de vuelta. Los implantes perfectos —perfil alto, 450cc, los había elegido él mismo del catálogo del cirujano— se alzaban desafiantes sobre su torso. La cintura estrecha. Las caderas amplias. El piercing en el ombligo que brillaba como un ojo acusador.
-
-Y más abajo...
-
-Se obligó a no mirar más abajo.
-
-Dos semanas en el Caribe le habían enseñado demasiado sobre ese territorio. Sobre las sensaciones que venían de allí. Sobre el piercing secreto que Elena—la vieja Elena, la Elena que ahora era hombre—le había puesto antes de la boda sin decirle nada.
-
-Un piercing en el clítoris.
-
-Cada vez que caminaba, cada vez que se movía, cada vez que respiraba demasiado profundo, ese pequeño aro de metal le recordaba lo que era ahora. Lo que siempre había sido, quizás, escondido debajo de capas de ego y conquista.
-
-Se puso la ropa interior primero. Un conjunto de encaje negro que Elena-Marco había elegido para ella durante el viaje. El sostén elevaba sus pechos de manera imposible, creando un escote que era más una invitación que una prenda. Las bragas eran un hilo dental que se perdía entre sus nalgas, dejando su trasero —el trasero de Elena, su trasero ahora— completamente expuesto.
-
-Luego las medias. Negras, de liga, que terminaban a mitad del muslo con un borde de encaje que hacía juego con la ropa interior. Enganchó los tirantes del liguero con dedos torpes, maldiciendo las uñas largas que Elena-Marco le había hecho poner en la luna de miel.
-
-"Las bimbos tienen uñas largas", había dicho entonces, mientras la esteticista del spa del resort aplicaba el acrílico. "Y tú vas a ser la bimbo perfecta, ¿verdad, amor?"
-
-Marco-Elena había asentido.
-
-Siempre asentía ahora.
-
-El vestido se deslizó por su cuerpo como una segunda piel. Se ajustaba en todos los lugares correctos, abrazando sus curvas con una intimidad que se sentía casi violatoria. El escote era profundo, dejando ver el valle entre sus pechos. La falda terminaba a centímetros de su trasero, revelando la parte superior de las medias si se inclinaba demasiado.
-
-Los tacones fueron lo último.
-
-Doce centímetros de tortura negra brillante. Sandalias con tirantes que se enrollaban alrededor de sus tobillos como cadenas elegantes. Se los puso con la práctica adquirida en dos semanas de uso forzado, sintiendo cómo su postura cambiaba automáticamente, cómo su espalda se arqueaba y su culo se proyectaba hacia atrás y sus tetas hacia adelante.
-
-Una muñeca. Una puta. Un trofeo.
-
-Todo lo que siempre había querido que Elena fuera.
+Sabía que esto era solo el principio. Cuanto más lo hicieran, cuanto más Elena usara este cuerpo, menos quedaría de Marco. Y lo más aterrador no era desaparecer. Lo más aterrador era cuánto le estaba gustando.
 
 ---
-
-El maquillaje tomó cuarenta minutos.
-
-Marco-Elena se sentó frente al tocador —el mismo tocador donde Elena se había sentado tantas veces, preparándose para él— y abrió el estuche de maquillaje que ahora era suyo. Base, corrector, polvo. Contorno en las mejillas para acentuar los pómulos que Elena siempre había tenido naturalmente perfectos. Iluminador en los puntos altos del rostro.
-
-Sombra de ojos. Ahumado negro con toques de dorado que hacían brillar los ojos color miel que ahora veía cada mañana en el espejo. Delineador líquido, una línea perfecta que terminaba en un ala dramática en la esquina exterior. Pestañas postizas, largas y exageradas, que le daban a su mirada un aire de muñeca desconcertada.
-
-Y los labios.
-
-Los labios de Elena —gruesos, carnosos, perfectamente llenos gracias a las inyecciones que él mismo había pagado— ahora eran suyos. Los delineó primero, creando esa forma de corazón exagerada que siempre había encontrado tan provocadora. Luego el labial: rojo oscuro, casi marrón, un color que gritaba sexo sin decir una palabra.
-
-Y finalmente, el gloss.
-
-Transparente, brillante, pegajoso. Lo aplicó en capas, viendo cómo sus labios pasaban de simplemente pintados a obscenamente húmedos. Brillaban bajo la luz como una invitación, como una promesa, como una amenaza.
-
-El perfume fue lo último.
-
-Lo roció en sus muñecas, detrás de sus orejas, en el valle de su escote. Flor de loto, ámbar, un toque de cuero. El perfume de Elena. *Su* perfume ahora. El aroma la envolvió como un sudario fragante, sellando su transformación.
-
-Se miró en el espejo una última vez.
-
-Una mujer la miraba de vuelta. Una mujer perfectamente maquillada, vestida para matar, con un cuerpo que era la fantasía de cualquier hombre heterosexual. Una mujer que caminaba sobre tacones imposibles y olía a deseo y tenía labios hechos para el pecado.
-
-Marco estaba en algún lugar dentro de esa mujer.
-
-Pero cada día era más difícil encontrarlo.
-
----
-
-Elena-Marco la esperaba en la sala.
-
-Estaba sentada —*sentado*, se corrigió Marco-Elena, aunque la corrección se sentía cada vez más forzada— en el sofá, con las piernas abiertas en esa pose masculina que él mismo había adoptado miles de veces. Un vaso de whisky en la mano. Los ojos recorriendo su cuerpo con una apreciación que era a la vez familiar e increíblemente extraña.
-
-—Perfecta —dijo Elena-Marco, y la palabra sonó como una sentencia.
-
-Marco-Elena caminó hacia ella, el click-click de sus tacones sobre el suelo de madera marcando cada paso. Se sentía inestable, no solo físicamente, sino en un nivel más profundo. Como si cada movimiento la alejara más de quien había sido.
-
-—Lista —dijo, aunque no era cierto. Nunca estaría lista.
-
-—Casi. —Elena-Marco se levantó, dejando el vaso sobre la mesa. Se acercó a Marco-Elena y le tocó la barbilla, inclinando su rostro hacia arriba—. Te falta algo.
-
-Sacó algo del bolsillo de sus pantalones. Una caja pequeña de terciopelo negro.
-
-Oh no.
-
-—Abre —ordenó Elena-Marco.
-
-Marco-Elena obedeció con dedos temblorosos. Dentro, sobre un cojín de seda negra, descansaba un collar. Delgado, de platino, con un pequeño diamante que brillaba en el centro.
-
-—Era de mi madre —dijo Elena-Marco, y había algo en su voz que Marco-Elena no pudo identificar—. Siempre quise que lo usara mi esposa.
-
-La ironía era tan densa que podía cortarse con un cuchillo.
-
-—Yo... —Marco-Elena no sabía qué decir. ¿Gracias? ¿Por favor, no? ¿Recuerdas que yo soy Marco?
-
-—Date la vuelta.
-
-Obedeció.
-
-Sintió los dedos de Elena-Marco —sus propios dedos, fuertes y seguros— rozar su cuello mientras colocaba el collar. El metal estaba frío contra su piel bronceada. El diamante se instaló justo en el hueco de su garganta, sobre su pulso acelerado.
-
-—Ahora sí estás perfecta —murmuró Elena-Marco contra su oído—. Mi esposa perfecta. Lista para mostrarle al mundo lo que eres.
-
-El collar pesaba como un gramo.
-
-Se sentía como una tonelada.
-
----
-
-*Continuará...*
+**Palabras:** 842

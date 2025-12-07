@@ -45,6 +45,9 @@ El relato debe estructurarse en capítulos para facilitar la edición:
 
 ---
 
+> [!IMPORTANT]
+> **PUNTO DE CONTROL:** Antes de proceder a la Fase 4, se debe solicitar la **revisión y aprobación explícita** de la Ama. No compilar hasta recibir la orden.
+
 ### FASE 4: Compilación Final
 **Ubicación:** `04_Historias/terminados/[nombre_del_relato]_completo.md`
 
@@ -97,6 +100,7 @@ Crear una versión limpia en HTML para distribución externa:
 │ 1. INVESTIGACIÓN    → borradores/[relato]/investigacion.md     │
 │ 2. ARCO ARGUMENTAL  → borradores/[relato]/arco_argumental.md   │
 │ 3. BORRADORES       → borradores/[relato]/capitulo_XX.md       │
+│    [REVISIÓN DE LA AMA - DETENER PROCESO]                      │
 │ 4. COMPILACIÓN      → terminados/[relato]_completo.md          │
 │ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md       │
 │ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md│
