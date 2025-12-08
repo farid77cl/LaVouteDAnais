@@ -1,93 +1,143 @@
-# El Reencuentro
+# Esposa de mi Esposo II
 
-## Capítulo 10: A Solas
+## Capítulo 10: La Piscina
 
 ---
 
-—Voy al baño un momento.
+Javier llegó a las tres en punto.
 
-La frase cayó como una sentencia de muerte.
+Marco lo vio desde la ventana del dormitorio: el Porsche rojo entrando por el camino de grava, el hombre alto y moreno bajando con una bolsa de playa y una botella de champán.
 
-Marco-Elena levantó la vista de su copa vacía, los ojos muy abiertos, suplicantes. Elena-Marco se estaba levantando de la mesa, alisándose la chaqueta del esmoquin con una calma exasperante.
+Javier vestía un bañador azul marino y nada más. Su torso bronceado brillaba bajo el sol, cada músculo definido por años de gimnasio y genética afortunada.
 
-—No tardes —dijo Javier, sonriendo. Su mano seguía en el muslo de Marco-Elena, ahora peligrosamente cerca de la ingle.
+Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlética. Ahora lo miraba con algo diferente. Algo que no quería nombrar.
 
-—Tranquilo. Os dejo para que... charléis. —Elena-Marco le dio una palmadita en el hombro a Marco-Elena—. Pórtate bien, cariño.
+—Vamos —dijo Elena, poniéndole una mano en la espalda baja—. Es hora.
+
+Marco bajó las escaleras con piernas temblorosas. El bikini blanco era tan pequeño que cada paso era un acto de equilibrismo entre la modestia y la exposición total. El pareo transparente no ocultaba nada.
+
+Salieron a la terraza de la piscina. El agua brillaba azul turquesa bajo el sol de la tarde. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores imaginables.
+
+Y Javier, de pie junto a la piscina, mirándolo acercarse.
+
+—¡Joder! —exclamó Javier, silbando—. Elena, estás... dios mío.
+
+Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas.
+
+—Gracias, Javi —dijo Marco, forzando la sonrisa que ya era automática.
+
+—No, en serio. —Javier se acercó, invadiendo su espacio personal—. Cada vez que te veo estás más buena. ¿Qué te está dando Marco? ¿Esperma mágico?
+
+Elena rió.
+
+—Algo así. ¿Champán?
+
+Mientras Elena servía las copas, Javier seguía mirando a Marco. Era una mirada de depredador. Hambrienta. Paciente.
+
+Marco conocía esa mirada porque él la había tenido tantas veces. Cuando veía a una mujer atractiva en un bar. Cuando calculaba las probabilidades de llevarla a la cama. Cuando planeaba su conquista.
+
+Ahora era el objetivo de esa mirada.
+
+Se sentaron en las tumbonas. Marco intentó cubrirse con el pareo, pero Elena se lo quitó.
+
+—Hace demasiado calor para eso, cariño.
+
+Quedó expuesto. El bikini diminuto. La piel bronceada. El piercing apenas visible como un pequeño bulto bajo la tela blanca.
+
+Javier no paraba de mirarlo.
+
+La conversación fluyó. Negocios.Yates. Viajes. Marco bebía champán demasiado rápido, intentando anestesiar los nervios.
+
+—Oye, Marco —dijo Javier de repente—, me dejé las gafas de sol en el coche. ¿Puedes ir a buscarlas?
+
+Elena se levantó.
+
+—Ahora mismo.
+
+—No, no. —Javier lo detuvo con un gesto—. Quédate. Envía a Elena. Seguro que sabe dónde están.
+
+Marco miró a Elena, buscando una excusa, una salida.
+
+Elena sonrió.
+
+—Claro. Javier, cuida de mi esposa mientras vuelvo.
 
 Y se fue.
 
-Marco-Elena vio cómo la espalda ancha de su marido desaparecía entre la multitud del salón. Se sintió abandonada en una balsa en medio de un océano lleno de tiburones. Y el tiburón estaba sentado a su lado, oliendo a sangre.
+Marco se quedó helado. A solas con Javier. En bañador. En una piscina privada donde nadie podía verlos ni oírlos.
 
-—Por fin —susurró Javier, acercando su silla aún más, hasta que sus cuerpos estuvieron prácticamente pegados—. Llevo toda la noche esperando este momento.
+—Así que... —Javier se reclinó en su tumbona, mirándolo con esos ojos de lobo—, ¿cómo va todo, preciosa?
 
-Marco-Elena intentó apartarse, pero estaba atrapada entre la mesa y el cuerpo de Javier.
+—Bien —mintió Marco—. Todo bien.
 
-—Javi, por favor... —empezó a decir, su voz temblorosa.
+—Mmm. —Javier tomó un sorbo de champán—. Me alegro. Porque tengo que decirte algo.
 
-—Shhh. —Javier le puso un dedo sobre los labios, silenciándola—. No digas nada. Sé que te mueres de ganas. Lo he visto en tus ojos toda la noche.
+—¿Qué?
 
-—No...
+Javier se levantó de su tumbona y caminó hacia la de Marco. Lento. Deliberado. Cada paso era una amenaza.
 
-—Sí. —Javier le quitó el dedo de la boca y, en un movimiento rápido, le agarró la nuca. Sus dedos se enredaron en las extensiones rubias, tirando suavemente hacia atrás, obligándola a exponer el cuello—. Te encanta que te miren. Te encanta que te toquen. Eres una exhibicionista, Elena. Siempre lo has sido. Marco solo te ha dado permiso para soltarte la melena.
+—Llevo semanas pensando en ti —dijo, sentándose al borde de su tumbona—. Desde esa cena. No puedo sacarte de la cabeza.
 
-Javier inclinó la cabeza y empezó a besarle el cuello. Besos húmedos, mordiscos pequeños que enviaban descargas eléctricas por su columna vertebral.
+El corazón de Marco latía desbocado.
 
-Marco-Elena se quedó paralizada. Su mente gritaba *¡NO! ¡EMPÚJALO! ¡GRITA!*, pero su cuerpo...
+—Javi... soy la esposa de tu mejor amigo.
 
-Su cuerpo traidor se arqueó instintivamente hacia el contacto. Su respiración se aceleró. Sus pezones rozaron la tela del vestido, duros y dolorosos.
+—Lo sé. —Javier le puso una mano en el muslo. Caliente. Posesiva—. Y eso lo hace más excitante.
 
-Era la programación. Eran las semanas de entrenamiento. Eran los meses de hormonas femeninas (o lo que fuera que tuviera este cuerpo) corriendo por sus venas.
+Marco intentó apartarse, pero estaba atrapado entre el respaldo de la tumbona y el cuerpo de Javier.
 
-—Mmm, hueles delicioso —murmuró Javier contra su piel—. A vainilla y a puta cara. Me encanta.
+—No —dijo, la voz temblando—. No quiero esto.
 
-Su mano libre, la que estaba bajo la mesa, se movió. Se deslizó entre sus muslos, apartando la tela del vestido, buscando el calor de su entrepierna.
+—¿Estás segura? —Javier subió la mano, sus dedos rozando el borde del bikini—. Porque tu cuerpo dice otra cosa.
 
-Marco-Elena cerró las piernas con fuerza, atrapando la mano de Javier.
+Era verdad. Maldita sea, era verdad. El pierce estaba palpitando furiosamente. La adrenalina, el miedo, la proximidad de un cuerpo masculino... todo se mezclaba en una sopa de sensaciones que su cuerpo interpretaba como excitación.
 
-—No —gimió—. Javi, para. Marco... Marco está aquí.
+—Javi, por favor...
 
-—Marco nos ha dejado solos a propósito, tonta —rió Javier, su aliento caliente en su oído—. ¿Crees que es idiota? Sabe lo que quiero. Y sabe lo que tú quieres.
+—Solo quiero un beso —susurró Javier, acercándose a su cara—. Un beso y ya. Si no te gusta, paro.
 
-Javier movió la mano, forzando sus dedos entre los muslos apretados de Marco-Elena. Tocó el borde del encaje de sus bragas.
+Marco giró la cabeza, pero Javier le tomó la barbilla y lo forzó a mirarlo.
 
-—Estás mojada —susurró, triunfante.
+—Un beso, Elena. Un pequeño beso.
 
-Marco-Elena cerró los ojos, lágrimas de vergüenza quemándole los párpados. Era verdad. Estaba mojada. Su cuerpo estaba respondiendo a la agresión como si fuera una caricia.
+Los labios de Javier tocaron los suyos.
 
-—Es... es el alcohol —mintió, desesperada.
+Fue un beso suave al principio, exploratorio. Luego más duro. La lengua de Javier invadió su boca, probándolo, conquistándolo.
 
-—Es el deseo —corrigió Javier—. Te pone cachonda que te trate así. Que te toque delante de todo el mundo. Que tu marido me deje jugar con sus juguetes.
+Marco gimió. No quería. No quería nada de esto. Pero su cuerpo se derretía bajo el contacto.
 
-Javier levantó la cabeza y la miró a los ojos. Su mirada era oscura, lujuriosa, carente de cualquier respeto.
+Cuando Javier finalmente se separó, Marco estaba jadeando.
 
-—Bésame —ordenó.
+—Lo sabía —susurró Javier, triunfante—. Sabía que lo querías.
 
-Marco-Elena negó con la cabeza.
+—No... yo no...
 
-—No.
+—Shhh. —Javier le puso un dedo sobre los labios—. Ahora vas a hacer algo por mí.
 
-—Bésame, Elena. O te juro que meto la mano dentro de esas braguitas ahora mismo y te hago correrte delante de los camareros.
+Se levantó y se bajó el bañador.
 
-El pánico estalló en el pecho de Marco-Elena. Miró alrededor. Nadie les prestaba atención. La gente reía, bebía, vivía sus vidas perfectas. Nadie vería nada raro en un beso. Pero una mano bajo la falda... un orgasmo público... eso sería el fin.
+Su polla saltó libre, gruesa y erecta, apuntando directamente a la cara de Marco.
 
-—Por favor...
+—Javi... no puedo...
 
-—Tres —contó Javier—. Dos...
+—Puedes. —Javier le agarró el pelo, sin fuerza pero con firmeza—. Y lo vas a hacer. Porque si no lo haces, le cuento a Marco que me besaste. Que me provocaste. Que me suplicaste.
 
-Marco-Elena se inclinó hacia él, derrotada.
+—¡Eso es mentira!
 
-Sus labios se encontraron. Los de Javier eran duros, exigentes, sabían a vino tinto y a tabaco. Su lengua invadió la boca de Marco-Elena, explorando, conquistando.
+—¿Y él a quién le va a creer? —Javier sonrió—. ¿A su mejor amigo de veinte años, o a la zorra que no puede mantener las piernas cerradas?
 
-Marco-Elena se dejó besar. Se dejó invadir. Se sintió pequeña, sucia, usada.
+Marco cerró los ojos. Las lágrimas le quemaban bajo los párpados.
 
-Pero en algún lugar profundo, oscuro y aterrador de su cerebro reptiliano, sintió una chispa de placer. El placer de la sumisión total. El placer de no tener elección.
+No tenía opción. Si Javier le contaba mentiras a Elena... si Elena decidía castigarlo más por esto...
 
-Javier gruñó contra su boca, apretando su muslo con fuerza posesiva.
+—Eso es —susurró Javier, guiando su cabeza hacia adelante—. Abre la boca, preciosa. Demuéstrame lo buena que eres.
 
-Y en ese momento, Marco-Elena supo que había perdido. No solo la batalla de esta noche. Había perdido la guerra.
+Marco abrió la boca.
 
-El hombre que había sido estaba muerto. Solo quedaba esta mujer rubia, temblorosa y húmeda, besando al mejor amigo de su marido mientras él le metía mano bajo la mesa.
+La polla de Javier entró, caliente y salada, llenándole la boca con su grosor.
 
-Y lo peor de todo... lo peor de todo era que una parte de ella quería que no parara nunca.
+Y Marco, la esposa perfecta, empezó a chupar.
 
 ---
+
+*Continuará...*

@@ -17,18 +17,27 @@
 **Método:**
 -   **Sin Hipnosis:** Todo es coerción racional. "Acción A (desobedecer) lleva a Consecuencia B (cárcel)".
 -   **El Dossier:** Su varita mágica. Solo necesita tocarlo para someter a Roberto.
--   **Gaslighting:** Presentar las humillaciones como "pasos lógicos" para la "mitigación de daños" o "nuevos protocolos".
+-   **Entrenamiento Miyagi:** Repetición obsesiva de movimientos sexuales/serviles hasta crear memoria muscular.
 
 ## 3. Alejandro (La Competencia)
 **Rol:** El futuro Vicepresidente.
 **Relación:** Desconoce el chantaje (posiblemente), simplemente recibe a la "nueva asistente" altamente calificada que Miss Doll le ha preparado.
 
-## Cronograma de la "Reasignación" (7 Días)
+## Cronograma de la "Reasignación" (15 Días)
 
--   **Día 1 (Lunes): La Auditoría.** Presentación de pruebas. El fin de la libertad de Roberto.
--   **Día 2 (Martes): Control de Activos.** Inventario corporal. Primera imposición de lencería bajo amenaza.
--   **Día 3 (Miércoles): Ajuste de Imagen.** Uso forzado de cosméticos sutiles en público. El miedo a ser descubierto.
--   **Día 4 (Jueves): Depuración.** Afeitado corporal completo supervisado. Humillación física.
--   **Día 5 (Viernes): Casual Friday.** Vestimenta femenina completa en la oficina (bajo coacción extrema).
--   **Día 6 (Sábado): Capacitación.** Entrenamiento intensivo en tareas de secretariado y sumisión.
--   **Día 7 (Domingo): Traspaso.** Firma del nuevo contrato. Roberto acepta su destino como Roberta.
+### Semana 1: Deconstrucción
+-   **Día 1 (Lunes):** La Auditoría. El Dossier.
+-   **Día 2 (Martes):** Ropa Interior.
+-   **Día 3 (Miércoles):** Depilación.
+-   **Día 4 (Jueves):** Protocolo de Rodillas (Archivar arrodillado).
+-   **Día 5 (Viernes):** La Boca (Entrenamiento con mordaza/dildo).
+
+### Semana 2: Reconstrucción
+-   **Día 6-7 (Fin de Semana):** Lockdown. "Limpiar el sable" (Handjob training).
+-   **Día 8-9 (Lunes/Martes):** La Postura. Tacones y bandeja.
+-   **Día 10-11 (Miércoles/Jueves):** Servicio Público. Reunión con la Junta.
+
+### Fase Final: El Examen
+-   **Día 12 (Viernes):** Casual Friday. Invitado sorpresa.
+-   **Día 13-14 (Fin de Semana):** Ensayo General como Roberta.
+-   **Día 15 (Domingo):** Traspaso. Firma del contrato.

@@ -1,127 +1,157 @@
-# El Reencuentro
+# Esposa de mi Esposo II
 
 ## Capítulo 5: La Cita
 
 ---
 
-La mañana siguiente fue brutal.
+El BMW rojo de Elena se detuvo frente al spa más exclusivo de la ciudad.
 
-Marco-Elena se despertó con la cabeza palpitando y la boca seca. La luz del sol entraba por las cortinas a medio cerrar, hiriéndole los ojos. Intentó darse la vuelta, buscar el lado frío de la almohada, pero su cuerpo se sentía pesado, extraño.
+Marco miró el edificio a través del parabrisas: cristal y acero, minimalista y amenazador. Un lugar diseñado para destruir mujeres y reconstruirlas según las especificaciones de alguien más.
 
-Sus pechos dolían. Era un dolor sordo, constante, producto de haber estado comprimidos y elevados por el sostén push-up durante horas la noche anterior. Sus pies eran dos bloques de agonía pulsante después de caminar en tacones de doce centímetros.
+Había estado aquí antes. Como Marco. Como el hombre que pagaba las cuentas y esperaba en el vestíbulo mientras Elena desaparecía durante horas para volver más suave, más bronceada, más perfecta.
 
-—Buenos días, bella durmiente.
+Hoy él era el producto.
 
-Marco-Elena abrió un ojo. Elena-Marco estaba de pie junto a la cama, ya vestida, afeitada y oliendo a café recién hecho y a energía masculina insoportable.
+—Tienes cita a las diez —dijo Elena desde el asiento del conductor—. Depilación completa. Manos y pies con francesas. Tratamiento facial. Y...
 
-—¿Qué hora es? —graznó Marco-Elena.
+—¿Y?
 
-—Las diez. Arriba. Tienes una cita a las once.
+—Y un mantenimiento del área del bikini. Quiero que estés perfectamente lisa para cuando llegue Javier este fin de semana.
 
-Marco-Elena se cubrió la cabeza con la sábana.
+El nombre de Javier hizo que el estómago de Marco se contrajera. Desde la cena, Elena había mencionado a su "mejor amigo" cada vez más frecuentemente. Cenas. Paseos en yate. "Quedadas íntimas."
 
-—No quiero ir a ninguna parte. Me duele todo.
+Y siempre la misma mirada depredadora cuando observaba cómo Marco reaccionaba al nombre.
 
-—Precisamente por eso tienes la cita —dijo Elena-Marco, arrancándole la sábana de un tirón—. Levántate. Ducha rápida. No te laves el pelo, te lo lavarán allí. Y ponte algo cómodo, un chándal o algo así. Aunque con ese culo, no sé si "cómodo" es la palabra.
+—¿Javier viene este fin de semana? —preguntó Marco, odiando lo pequeña que sonó su voz.
 
-Marco-Elena se sentó en la cama, frotándose los ojos con los puños como una niña pequeña.
+—A la piscina. El sábado. Y quiero que estés impecable para él.
 
-—¿De qué estás hablando? ¿Qué cita?
+Marco no preguntó por qué debía estar "impecable" para otro hombre. Algo en él no quería saber la respuesta.
 
-Elena-Marco sonrió, tomando un sorbo de su taza de café.
+—Ve —ordenó Elena—. Giselle te está esperando. Y recuerda: eres Elena Castellón de Mendívez ahora. Compórtate como ella.
 
-—En *L'Espace de Beauté*. Con Marisa.
-
-El nombre cayó sobre Marco-Elena como un cubo de agua helada.
-
-*L'Espace de Beauté*. La clínica de estética más cara de la ciudad. El lugar donde Elena pasaba horas cada semana. El lugar donde Marco insistía que fuera para "mantenerse al día".
-
-—No —dijo Marco-Elena, negando con la cabeza—. No voy a ir. No necesito ir.
-
-—Oh, créeme, lo necesitas —dijo Elena-Marco, dejando la taza en la mesilla y sentándose en el borde de la cama. Su peso hundió el colchón, haciendo que Marco-Elena rodara ligeramente hacia ella—. Mírate las uñas.
-
-Marco-Elena miró sus manos. Las uñas acrílicas largas, esas garras perfectas que le habían puesto en el Caribe, empezaban a mostrar una línea de crecimiento en la base. Una de ellas tenía una pequeña muesca en el borde.
-
-—Están bien.
-
-—Están descuidadas. Y tus cejas necesitan un repaso. Y ni hablemos de la depilación. —Elena-Marco le pasó la mano por la pierna desnuda, subiendo hasta el muslo—. Sentí un poco de rastrojo anoche. Eso es inaceptable.
-
-—¡Es mi pelo! —gritó Marco-Elena—. ¡Soy un hombre! ¡Los hombres tienen pelo!
-
-—Tú no —dijo Elena-Marco con frialdad—. Tú eres mi esposa. Y mi esposa no tiene pelo. Mi esposa es suave como la seda. Mi esposa es perfecta.
-
-—No voy a ir —repitió Marco-Elena, cruzándose de brazos sobre su pecho dolorido—. No puedes obligarme.
-
-Elena-Marco suspiró, como un padre decepcionado con un hijo berrinchudo.
-
-—Marco, Marco... ¿de verdad quieres hacer esto por las malas?
-
-—No voy a ir.
-
-—Bien. —Elena-Marco se levantó—. Entonces cancelaré la cita. Y cancelaré las tarjetas de crédito. Y le diré a Javi que estás muy interesada en verlo a solas para "disculparte" por lo de anoche.
-
-Marco-Elena palideció.
-
-—No harías eso.
-
-—Pruébame. —La mirada de Elena-Marco era de acero—. Sabes que controlo el dinero ahora. Sabes que controlo tu vida social. Y sabes que Javi se muere por meterse entre tus piernas. ¿Quieres arriesgarte?
-
-Marco-Elena sostuvo su mirada durante un segundo, dos, tres. Luego, su resistencia se rompió. Bajó los hombros, derrotada.
-
-—Te odio —susurró.
-
-—Lo sé —dijo Elena-Marco alegremente—. Ahora, a la ducha. Tienes diez minutos.
+Marco abrió la puerta del coche y caminó hacia el spa, sus tacones haciendo clic contra el pavimento. Cada paso era un recordatorio de lo que era: una mujer caminando hacia su mantenimiento programado.
 
 ---
 
-El viaje en coche fue una tortura psicológica.
+El interior del spa olía a jazmín y dinero.
 
-Cada calle, cada semáforo, le traía recuerdos. Recuerdos de él conduciendo este mismo coche, con Elena en el asiento del copiloto. Recuerdos de él diciéndole: *"No te quejes tanto, es solo cera. La belleza cuesta"*. *"Pídeles que te pongan las pestañas más largas esta vez"*. *"Hazte el tratamiento anticelulitis, te he notado un poco flácida"*.
+Una recepcionista perfecta —rubia, labios inflados, uñas imposibles— lo recibió con una sonrisa profesional.
 
-Ahora, él estaba en el asiento del copiloto, sintiendo la bilis subir por su garganta mientras se acercaban al edificio blanco y elegante de la clínica.
+—¡Señora Castellón! Bienvenida de vuelta. Giselle la está esperando en la sala VIP.
 
-—¿Te acuerdas de la primera vez que te traje aquí? —preguntó Elena-Marco, rompiendo el silencio.
+Marco asintió y siguió a otra asistente por un pasillo de mármol blanco. Las paredes estaban decoradas con fotografías abstractas de cuerpos femeninos: curvas, líneas, sombras. Arte diseñado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
 
-Marco-Elena no respondió.
+La sala VIP era una suite privada con camilla, espejos en todas las paredes, y una mujer de mediana edad vestida de blanco que lo esperaba con una sonrisa maternal.
 
-—Lloraste —continuó Elena-Marco, implacable—. Dijiste que te sentías como un coche en el taller. Que te dolía. Que te humillaba que te examinaran con lupa.
+—Elena, querida. —Giselle se acercó para besarlo en ambas mejillas—. Mírate. El Caribe te sentó divino. Pero esos pelitos... —chasqueó la lengua—, veo que han crecido. No te preocupes, los eliminaremos todos.
 
-—Cállate.
+Marco se dejó guiar hacia la camilla. La bata que le dieron era tan corta que apenas le cubría el trasero.
 
-—Y yo te dije que eras una exagerada. Que lo hacías por nosotros. Para que yo pudiera estar orgulloso de ti.
+—Primero la cera —anunció Giselle—. Brazos, piernas, axilas, y zona íntima. La señora Elena me informó que quiere brasileño completo.
 
-Elena-Marco aparcó el coche frente a la entrada. Apagó el motor y se giró hacia ella.
+*La señora Elena.* Giselle se refería a él en tercera persona. Hablaba de Elena como si fuera otra persona.
 
-—Bueno, Marco. Ahora es tu turno de hacerme sentir orgulloso.
+Y técnicamente, lo era.
 
-Marco-Elena miró el edificio. Veía a mujeres entrar y salir. Mujeres perfectas, pulidas, brillantes. Mujeres como Elena. Mujeres como *ella*.
+—Perfecto —dijo Marco, porque no había otra respuesta.
 
-—¿Qué me van a hacer? —preguntó, la voz temblorosa.
+Se tumbó en la camilla mientras Giselle preparaba la cera caliente. El olor a miel llenó el aire, dulce y amenazador.
 
-Elena-Marco sacó un papel del bolsillo de su camisa y leyó la lista como si fuera la lista de la compra.
+—Relájate, querida. Sé que duele, pero la belleza requiere sacrificio.
 
-—Manicura y pedicura completa. Diseño de cejas. Lifting de pestañas. Facial de limpieza profunda. Y depilación completa con cera: piernas, axilas... y brasileña.
+Marco cerró los ojos.
 
-Marco-Elena cerró las piernas instintivamente.
+La primera tira de cera fue en la pierna. El calor era casi placentero mientras se extendía sobre su piel, suavizándose, adhiriéndose a los vellos finos que habían crecido durante la luna de miel.
 
-—¿Brasileña? ¿Todo?
+RIIIIP.
 
-—Todo —confirmó Elena-Marco—. Quiero que estés suave como un delfín. Ni un solo pelo.
+El dolor fue inmediato. Agudo. Un millón de agujas arrancando pelo de raíz.
 
-—Eso duele. Joder, eso duele muchísimo.
+Marco jadeó, aferrándose a los bordes de la camilla.
 
-—La belleza cuesta, cariño. —Elena-Marco le guiñó un ojo, repitiendo sus propias palabras con una exactitud cruel—. Vamos. Marisa nos espera. Y sabes que odia que lleguen tarde.
+—Respira —instruyó Giselle—. Lo peor ya pasó.
 
-Marco-Elena abrió la puerta del coche. Sus piernas temblaban. El aire olía a productos químicos y a flores caras.
+Era mentira. Lo peor estaba lejos de pasar.
 
-Caminó hacia la entrada como quien camina hacia el patíbulo. Pero en lugar de una soga, la esperaban cera caliente, pinzas y la mirada crítica de un ejército de esteticistas que la conocían por su nombre.
+Tira tras tira, Giselle arrancó cada pelo del cuerpo de Marco. Las piernas. Los brazos. Las axilas, donde el dolor le hizo ver estrellas.
 
-—Bienvenida, Señora Elena —dijo la recepcionista con una sonrisa brillante—. La estábamos esperando.
+Y entonces llegó el momento de la zona íntima.
 
-Marco-Elena forzó una sonrisa.
+—Abre las piernas, querida.
 
-—Gracias —dijo.
+Marco obedeció, sintiendo cómo su cara ardía de vergüenza. Estaba expuesto. Vulnerable. Una mujer observando otra mujer en su lugar más privado.
 
-Y entró en el infierno.
+—Oh, el piercing —comentó Giselle—. Siempre tengo cuidado con él. Lo rodeo pero no lo toco.
+
+La cera caliente se extendió sobre los labios exteriores. Marco sintió el calor derretirse contra su piel hipersensible, milímetros del piercing que ahora palpitaba con algo que no era solo dolor.
+
+RIIIIP.
+
+El grito que salió de su boca fue involuntario. El dolor fue explosivo, centrándose en su entrepierna como un sol de agonía.
+
+Pero detrás del dolor, algo más.
+
+El tirón de la cera había enviado una onda de choque a través del piercing, vibrando contra su clítoris hinchado. Y esa vibración se había convertido en algo que su cuerpo traidor interpretó como placer.
+
+—Una más —dijo Giselle.
+
+RIIIIP.
+
+Marco mordió la almohada para no gritar. El dolor y el placer se mezclaban en una sopa tóxica que lo dejó temblando.
+
+—Ya está. —Giselle acarició la piel recién depilada con aceite calmante—. Perfectamente lisa. Como un bebé.
+
+Marco miró hacia abajo. Su pubis era ahora una superficie de piel bronceada sin un solo pelo, con el piercing brillando obscenamente en el centro. Se veía... vulnerable. Expuesto. Listo para ser usado.
+
+—Ahora las manos y los pies —anunció Giselle—. La señora Elena pidió francesas. ¿Largas o muy largas?
+
+—Largas —dijo Marco, recordando cómo las uñas extra largas de los dedos de los pies se clavaban en los tacones.
+
+—Perfecto. Ponte cómoda. Esto tardará un rato.
+
+Marco se recostó mientras otra asistente comenzaba a trabajar en sus pies. Le quitaron el esmalte viejo, le limaron las uñas hasta darles forma perfecta, y empezaron a aplicar capas de gel.
+
+El proceso era largo, tedioso, y extrañamente relajante. Las manos de la asistente masajeaban sus pies, sus pantorrillas, sus muslos. Cada toque era profesional pero íntimo.
+
+Y el piercing seguía palpitando.
+
+La depilación lo había dejado hipersensible. Cada roce de tela, cada corriente de aire, cada movimiento de su cuerpo enviaba señales contradictorias a su cerebro. Dolor y placer. Humillación y excitación.
+
+Cuando terminaron con los pies, pasaron a las manos.
+
+—Francesas perfectas —dijo la asistente, mostrándole el resultado—. Elegantes pero prácticas.
+
+Marco miró sus uñas: puntas blancas sobre base nude, ligeramente ovaladas, lo suficientemente largas para hacer que escribir en el teléfono fuera un desafío. Eran uñas de esposa trofeo. Uñas que decían "no trabajo con mis manos."
+
+—Gracias —susurró.
+
+El tratamiento facial fue lo último. Mascarillas, serums, masajes que relajaron cada músculo de su cara. Cuando finalmente le permitieron levantarse, Marco apenas se reconoció en el espejo.
+
+Su piel brillaba. Sus uñas resplandecían. Su cuerpo estaba perfectamente liso, sin un pelo fuera de lugar.
+
+Era una muñeca. Un producto de spa empaquetado y listo para ser exhibido.
+
+—La señora Elena ya pagó —informó la recepcionista—. El coche la espera afuera.
+
+Marco caminó hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstáculos contra su clítoris.
+
+Cuando subió al BMW, Elena la examinó con ojo crítico.
+
+—Las uñas.
+
+Marco extendió las manos.
+
+—Perfectas. —Elena tomó una de sus manos y la besó—. Mañana volvemos. Tenemos cita con el cirujano.
+
+El corazón de Marco se detuvo.
+
+—¿Cirujano?
+
+—Solo mantenimiento, cariño. Nada que no hayas pagado tú mismo antes.
+
+Elena arrancó el coche, dejando a Marco con el terror helándole las venas y el piercing todavía palpitando entre sus piernas perfectamente lisas.
 
 ---
+
+*Continuará...*

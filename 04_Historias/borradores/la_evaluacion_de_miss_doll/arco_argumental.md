@@ -1,49 +1,60 @@
-# Fase 2: Arco Argumental - La Evaluación de Miss Doll (Enfoque Chantaje)
+# Fase 2: Arco Argumental - La Evaluación de Miss Doll (Edición Extendida "Sexual Miyagi")
 
 ## Premisa
-Roberto, un ejecutivo corrupto, es chantajeado por la consultora Miss Doll con pruebas de su desfalco. Para evitar la cárcel, debe aceptar un "Programa de Reasignación" de una semana que lo transforma, paso a paso y mediante coerción pura, en la secretaria de su rival.
+Roberto, un ejecutivo corrupto, es chantajeado por Miss Doll. Para evitar la cárcel, acepta un "Programa de Reasignación" de 15 días. La transformación es un condicionamiento físico y sexual profundo ("Miyagi Style") donde la repetición de tareas sexuales reprograma sus instintos.
 
-## Personajes
-- **Roberto:** Acorralado. Su motivación es el miedo puro que evoluciona hacia una sumisión masoquista.
-- **Miss Doll:** La Ejecutora. No usa magia, usa documentos legales y fotos comprometedoras. Es fría, burocrática y sádica.
-- **Alejandro:** El beneficiario ignorante (o cómplice tácito).
+## Estructura por Capítulos (La Quincena de la "Reasignación")
 
-## Estructura por Capítulos (La Semana de la "Reasignación")
+### Semana 1: Deconstrucción (Días 1-5)
+*El objetivo es romper el ego y establecer la obediencia básica.*
 
-### Capítulo 1: La Auditoría (Lunes)
-- **El Gancho:** Miss Doll entra y cierra la puerta. Pone el "Dossier Azul" sobre la mesa.
-- **El Chantaje:** No hay negociación. "Cárcel federal o sigues mis instrucciones al pie de la letra".
-- **La Primera Orden:** Roberto debe firmar su propia carta de renuncia (sin fecha) usando un bolígrafo rosa, mientras se arrodilla. Establecimiento de la dinámica de poder.
+- **Capítulo 1: La Auditoría (Día 1 - Lunes)** [YA ESCRITO]
+    - El Dossier Azul. La renuncia firmada.
+- **Capítulo 2: Ropa Interior y Protocolo (Día 2 - Martes)** [YA ESCRITO]
+    - Lencería bajo el traje. La llamada con la esposa.
+- **Capítulo 3: La Depilación (Día 3 - Miércoles)** [YA ESCRITO]
+    - Exposición física. "Bonito".
+- **Capítulo 4: Protocolo de Rodillas (Día 4 - Jueves)** [NUEVO]
+    - **Entrenamiento:** Archivar documentos arrodillado.
+    - **Miyagi:** "Baja. Arrodíllate. Abre las piernas. Archiva. Repite."
+    - **Sexualización:** Se le enseña que su posición natural es de rodillas, con las nalgas expuestas.
+- **Capítulo 5: La Boca (Día 5 - Viernes)** [NUEVO]
+    - **Entrenamiento:** Uso de mordaza de bola y dildo para "entrenar la mandíbula".
+    - **Miyagi:** "Abre. Relaja la garganta. Succiona. Mantén. Repite."
+    - **Objetivo:** Eliminar el reflejo nauseoso y sexualizar su boca como herramienta de servicio.
 
-### Capítulo 2: Ropa Interior y Protocolo (Martes)
-- **La Escalada:** Miss Doll revisa su "cumplimiento". Le entrega una caja: bragas de encaje y medias.
-- **La Coerción:** "Si no te las pones, envío el PDF a la junta directiva ahora mismo".
-- **La Escena:** Roberto tiene que atender una llamada con su esposa mientras Miss Doll verifica que lleve puesta la lencería, tocándolo fríamente como quien inspecciona ganado.
+### Semana 2: Reconstrucción Sexual (Días 6-12)
+*El objetivo es convertirlo en un objeto sexual funcional.*
 
-### Capítulo 3: Imagen Corporativa (Miércoles)
-- **La Humillación Pública (Sutil):** Miss Doll le ordena usar brillo de labios transparente ("Gloss") en una reunión de presupuesto.
-- **La Amenaza:** "Si te lo quitas o te lames los labios, te denuncio".
-- **Reacción:** Roberto suda, aterrorizado de ser descubierto, pero la adrenalina le provoca una erección dolorosa bajo el escritorio.
+- **Capítulo 6: Lockdown de Fin de Semana (Día 6-7)** [NUEVO]
+    - **Entrenamiento:** "Limpiar el sable".
+    - **Miyagi:** Simulación de handjobs a objetos inanimados durante horas.
+    - **Castigo:** Orgasmo denegado (Chastity). Solo puede tocar para dar placer, no para recibir.
+- **Capítulo 7: La Silueta (Día 8-9)** [NUEVO - MODIFICADO]
+    - **Elemento Clave:** **Breast Plate de Silicona (Copa D).**
+    - **Entrenamiento:** Roberto debe llevar los senos falsos bajo la ropa ajustada. El peso cambia su centro de gravedad.
+    - **Miyagi:** Caminar con tacones y senos, aprendiendo a "ofrecer el pecho" al entrar en una habitación.
+    - **Sensación:** La silicona se siente como parte de él. La disociación corporal aumenta.
+- **Capítulo 8: Servicio Público (Día 10-11)** [NUEVO]
+    - **La Reunión:** Roberto sirve café a la Junta usando el breast plate y tacones.
+    - **Humillación:** Debe pasar por espacios estrechos entre las sillas y la pared, rozando sus senos y trasero contra los directivos, quienes lo ignoran o lo tocan "accidentalmente".
+- **Capítulo 9: El Invitado (Día 12 - Viernes)** [NUEVO - MODIFICADO]
+    - **Casual Friday:** Vestida de "puta de oficina" (minifalda, escote profundo).
+    - **El Invitado:** **Ramón, el conserje** (a quien Roberto solía ignorar o regañar).
+    - **La Prueba:** Roberto debe servir a Ramón. Limpiarle las botas, servirle café de rodillas, y finalmente, practicar su "entrenamiento oral" con él mientras Miss Doll califica su técnica.
+    - **Humillación Extra:** Ramón le deja una propina de un dólar en el escote.
 
-### Capítulo 4: La Depilación (Jueves)
-- **El Quiebre:** Miss Doll le informa que su "imagen" no cumple los estándares.
-- **La Acción:** Lo obliga a depilarse el cuerpo entero en el baño de la oficina. Ella supervisa.
-- **Psicología:** Roberto se ve en el espejo, suave y expuesto. Se siente menos hombre, y por primera vez, siente alivio de no tener que fingir ser fuerte.
+### Fase Final: El Examen y La Práctica (Días 13-15+)
+*La prueba de que Roberto ha muerto y Roberta es funcional.*
 
-### Capítulo 5: Casual Friday (Viernes)
-- **El Ultimátum:** "Hoy vienes como Roberta. O no vienes y vas a la policía".
-- **La Transformación:** Roberto llega vestido de secretaria (falda, tacones). La oficina está vacía (o eso cree él) o Miss Doll ha arreglado que nadie entre.
-- **Entrenamiento:** Miss Doll lo trata como a una empleada torpe. Lo regaña, lo corrige, lo hace caminar una y otra vez. Roberto se esfuerza por *complacerla* para evitar el castigo, entrando en el "space" de sumisión por puro terror/necesidad.
+- **Capítulo 10: La Firma Final (Día 15 - Domingo)** [YA ESCRITO - A MODIFICAR]
+    - La entrega a Alejandro. La quema del dossier.
+    - Alejandro recibe el "manual de usuario" de Roberta.
+- **Capítulo 11: En Funciones (Epílogo Extendido)** [NUEVO]
+    - **Lunes por la mañana:** El primer día real de trabajo.
+    - **La Práctica:** Roberta gestiona la agenda de Alejandro, le sirve café, y luego, cuando él cierra la puerta, se mete debajo del escritorio automáticamente.
+    - **Cierre:** Roberta atiende una llamada de un cliente mientras da servicio oral a su jefe, demostrando que el entrenamiento Miyagi ha sido un éxito total.
 
-### Capítulo 6: La Firma Final (Sábado/Domingo)
-- **El Desenlace:** Alejandro es nombrado VP. Miss Doll le entrega el contrato de "Roberta".
-- **La Elección:** Miss Doll le da a elegir: "El Dossier a la policía o el contrato de secretaria".
-- **El Final:** Roberto firma como Roberta. Su vida anterior termina. Se sirve café a sí misma y espera a su nuevo jefe.
-
-## Puntos de Inflexión (Chantaje)
-1.  **El Dossier:** La materialización del fin de su vida.
-2.  **La Primera Erección de Miedo:** Cuando descubre que el peligro lo excita.
-3.  **La Rendición:** Cuando deja de pelear y simplemente pregunta: "¿Qué quiere que haga, Señora?".
-
-## Resolución
-No hay lavado de cerebro, hay una *rotura* de voluntad. Roberto acepta ser Roberta porque es la única forma de sobrevivir, y en esa supervivencia encuentra su nuevo lugar.
+## Puntos de Inflexión (Miyagi Sexual)
+1.  **Memoria Muscular:** La boca de Roberto se abre sola al ver una bragueta. Sus rodillas caen al suelo al escuchar un chasquido.
+2.  **El Placer de la Degradación:** Servir a Ramón (el conserje) rompe su último vestigio de orgullo de clase. Si puede servir al conserje, puede servir a cualquiera.

@@ -1,111 +1,93 @@
-# El Reencuentro
+# Esposa de mi Esposo II
 
-## Capítulo 9: La Transformación
-
----
-
-Pasaron tres semanas. O quizás tres años. El tiempo se había vuelto una sustancia viscosa y extraña, medida no en horas, sino en citas de belleza, eventos sociales y noches de obediencia.
-
-Marco-Elena se miró en el espejo del recibidor antes de salir.
-
-La mujer que le devolvía la mirada era una extraña. Una extraña espectacular, sí, pero una extraña.
-
-Su pelo, antes castaño y brillante, ahora era una cascada de platino casi blanco que le caía hasta la cintura (gracias a las extensiones que Elena-Marco había insistido en poner). Sus labios, ya curados de las inyecciones, eran dos almohadas carnosas y permanentemente fruncidas en un puchero provocativo. Sus pómulos estaban tan afilados que parecían cortar el aire.
-
-Llevaba un vestido rojo. Rojo sangre. Rojo peligro. Era tan ajustado que apenas podía respirar, y tan corto que cada paso era un riesgo calculado.
-
-—Estás increíble, muñeca.
-
-Marco-Elena no se sobresaltó. Ya no se sobresaltaba por nada. Se giró lentamente, sus movimientos restringidos por la ropa y los tacones, y miró a su marido.
-
-Elena-Marco llevaba un esmoquin negro hecho a medida. Se veía poderoso. Se veía como el hombre que Marco siempre había querido ser, pero con una confianza relajada que Marco nunca había tenido.
-
-—Gracias —dijo Marco-Elena. Su voz sonó automática, vacía.
-
-—¿Lista para la cena de la fundación?
-
-—Lista.
-
-Elena-Marco se acercó y le pasó un dedo por la mejilla, admirando el maquillaje perfecto.
-
-—Me encanta cómo te queda el rubio. Te hace parecer más... divertida. Más accesible.
-
-—Más puta —pensó Marco-Elena, pero no lo dijo. Había aprendido a callar. Había aprendido que el silencio era más seguro que la protesta.
-
-—Vamos. Javi nos ha guardado sitio en su mesa.
-
-El nombre de Javier provocó una pequeña chispa de miedo en su estómago, pero Marco-Elena la sofocó rápidamente. Javier era inevitable. Como la depilación. Como los tacones. Como la vida.
+## Capítulo 9: La Mañana del Sábado
 
 ---
 
-La cena de la fundación era en el hotel más lujoso de la ciudad. Candelabros de cristal, camareros de guante blanco, la élite de la sociedad local bebiendo champán y fingiendo que les importaban los niños pobres o las ballenas o lo que fuera que estuvieran salvando esa noche.
+El sábado amaneció brillante y caluroso.
 
-Marco-Elena caminó del brazo de Elena-Marco, sintiendo las miradas como un tacto físico. Ya no le quemaban. Simplemente las registraba. *Mirada de deseo del hombre de la mesa 4. Mirada de envidia de la mujer del vestido verde. Mirada de evaluación del camarero.*
+Marco se despertó primero, lo cual era raro. Normalmente Elena lo despertaba con alguna exigencia: sexo oral, café, o simplemente la orden de levantarse y empezar su rutina de feminidad.
 
-Se sentaron en la mesa de Javier. Él ya estaba allí, por supuesto, con una copa en la mano y esa sonrisa de tiburón que nunca descansaba.
+Pero hoy el despertar fue suave. Luz dorada filtrándose por las cortinas. El canto de los pájaros. Y el peso del cuerpo de Elena todavía dormido a su lado.
 
-—¡La pareja del año! —gritó Javier, levantándose para saludarlos.
+Por un momento —solo un momento— Marco olvidó lo que era.
 
-Abrazó a Elena-Marco con fuerza y luego se giró hacia Marco-Elena.
+Luego movió las piernas y sintió la suavidad sedosa de la piel recién depilada. Luego respiró profundo y sintió el peso de los implantes comprimiendo sus pulmones. Luego se estiró y sus uñas francesas arañaron las sábanas.
 
-—Y la rubia más explosiva de la ciudad. —Javier la tomó de la cintura con una familiaridad que ya ni siquiera disimulaba y le plantó dos besos sonoros, uno en cada mejilla, demorándose peligrosamente cerca de la comisura de sus labios—. Joder, Elena. Cada vez que te veo estás mejor. Ese cirujano tuyo es un artista.
+Y el piercing, por supuesto. Ese maldito piercing que pulsaba suavemente contra el algodón de sus bragas, recordándole que su cuerpo nunca dormía del todo.
 
-—Gracias, Javi —dijo Marco-Elena, con su sonrisa de muñeca activada.
+Marco se levantó con cuidado para no despertar a Elena y caminó hacia el baño.
 
-—Siéntate aquí, a mi lado —ordenó Javier, apartando la silla para ella.
+El espejo le devolvió una imagen que, después de semanas, empezaba a parecerle... familiar.
 
-Marco-Elena miró a Elena-Marco. Su marido asintió levemente. *Obedece.*
+Una mujer rubia con labios de escándalo lo miraba desde el cristal. Piel bronceada. Pechos imposibles. Cintura estrecha. Caderas anchas. Era el cuerpo que él mismo había encargado, como quien encarga un mueble a medida.
 
-Se sentó. Javier acercó su silla hasta que sus muslos se tocaron bajo el mantel. Marco-Elena no se apartó. Sabía que no serviría de nada.
+Pero ahora era SU cuerpo. Y esa realización ya no golpeaba tan fuerte como al principio.
 
-La cena transcurrió entre platos diminutos y vinos caros. Elena-Marco y Javier hablaban de negocios, de inversiones, de viajes. Marco-Elena comía en silencio, masticando despacio para no estropear su labial, asintiendo cuando era necesario, riendo suavemente cuando todos reían.
+*¿Me estoy acostumbrando?*, pensó con horror. *¿Me estoy acostumbrando a esto?*
 
-Era una espectadora de su propia vida. Una figurante con frase.
+Empezó su rutina de mañana. Elena había establecido un protocolo estricto desde el primer día: limpieza facial en tres pasos, crema hidratante, sérum de vitamina C, protector solar. Luego el pelo: cepillado, desenredante, un poco de aceite de argán para las puntas.
 
-—Oye, Marco —dijo Javier de repente, girándose hacia Elena-Marco—. Estaba pensando... el fin de semana que viene voy a la casa de la playa. Deberíais veniros. Haremos una fiesta pequeña. Íntima.
+Sus manos se movían con automatismo ahora. Ya no luchaba contra cada producto. Ya no maldecía cada minuto frente al espejo. Simplemente... lo hacía.
 
-Elena-Marco sonrió, limpiándose la boca con la servilleta de lino.
+Cuando volvió al dormitorio, Elena estaba despierto.
 
-—Suena bien. ¿Qué dices, cariño? ¿Te apetece un poco de playa?
+—Buenos días —dijo Elena, estirándose—. ¿Lista para hoy?
 
-Marco-Elena sintió el pánico arañando su garganta. La casa de la playa de Javier. "Fiesta íntima". Sabía lo que eso significaba. Drogas, alcohol, y límites difusos.
+El estómago de Marco se contrajo.
 
-—No sé si... —empezó a decir.
+—Javier.
 
-—Le encantará —la interrumpió Elena-Marco—. Además, tiene unos bikinis nuevos que se muere por estrenar. Unos dorados, muy pequeños.
+—Javier. —Elena sonrió—. Viene a las tres. Quiero que lleves el bikini blanco.
 
-Javier soltó un silbido apreciativo.
+Marco parpadeó.
 
-—Eso tengo que verlo.
+—¿El blanco? Es el más... pequeño.
 
-Bajo la mesa, la mano de Javier se posó en la rodilla de Marco-Elena. Y empezó a subir.
+—Lo sé. Por eso lo elegí.
 
-Lento. Deliberado.
-
-Marco-Elena se quedó rígida, con el tenedor a medio camino de su boca. Miró a Javier. Él la miraba fijamente, desafiante, sonriendo.
-
-Miró a Elena-Marco. Su marido estaba mirando la mano de Javier bajo el mantel. Lo estaba viendo. Estaba viendo cómo su mejor amigo manoseaba a su esposa.
-
-Y no hizo nada.
-
-No, peor que nada.
-
-Elena-Marco levantó su copa y le guiñó un ojo a Marco-Elena.
-
-*Déjalo.*
-
-La mano de Javier llegó a la parte interior de su muslo. El calor de su palma quemaba a través de las medias finas.
-
-—Tienes la piel muy suave, Elena —susurró Javier, inclinándose hacia ella—. Como la seda.
-
-Marco-Elena sintió que se rompía algo más por dentro. La última barrera de dignidad. La última ilusión de que Elena-Marco la protegía, aunque fuera como propiedad.
-
-No era propiedad. Era moneda de cambio. Era entretenimiento.
-
-—Gracias —susurró, bajando la mirada al plato.
-
-La mano de Javier siguió subiendo.
-
-Y Marco-Elena, la rubia platino, la bimbo perfecta, la esposa trofeo, no hizo nada para detenerlo.
+No había discusión. Nunca la había.
 
 ---
+
+Las siguientes horas fueron de preparación.
+
+Primero el bikini. Era obsceno: dos triángulos diminutos que apenas cubrían sus pezones, unidos por cuerdas que se ataban en la nuca y la espalda. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía completamente entre sus nalgas.
+
+Cuando Marco se lo puso frente al espejo, casi no reconoció su cuerpo.
+
+Parecía una modelo de Pornhub. No, peor. Parecía algo que Marco habría guardado en su carpeta secreta de fantasías cuando era hombre.
+
+—No puedo salir así —dijo, la voz temblándole—. Elena, esto es...
+
+—Es exactamente lo que le hacías usar a mi cuerpo. —Elena apareció detrás de él, ya vestido con un bañador de hombre y camiseta abierta—. ¿Recuerdas los bikinis que me comprabas? "Son de moda", decías. "Todas las chicas los usan en Miami."
+
+Marco recordaba. Por supuesto que recordaba.
+
+*"No seas mojigata, Elena. Es solo piel."*
+
+Solo piel. Y ahora esa piel era la suya, expuesta para el ojo hambriento de Javier.
+
+—Estás precioso —dijo Elena, besándole el cuello—. Ahora maquíllate. Algo ligero, de piscina. Pero que tu boca destaque.
+
+Marco obedeció.
+
+Frente al espejo del tocador, aplicó hidratante con color, corrector bajo las ojeras, un poco de bronceador en polvo para resaltar los pómulos. Rímel waterproof para que sus pestañas aguantaran el agua. Y un gloss rosa brillante que hacía que sus labios recién rellenados parecieran dos golosinas listas para ser comidas.
+
+Sus uñas francesas brillaban mientras trabajaba. Eran tan largas que cada tarea costaba el doble, pero ya había aprendido a adaptarse.
+
+Cuando terminó, parecía lo que era: una esposa trofeo preparada para ser exhibida en la piscina.
+
+Elena le puso un pareo transparente alrededor de las caderas y sandalias de tacón bajo.
+
+—Perfecta —dictaminó—. Javier va a estar muy impresionado.
+
+Marco quería preguntar qué significaba eso exactamente. Por qué importaba tanto impresionar a Javier. Por qué Elena insistía en mencionar su nombre con esa sonrisa específica.
+
+Pero no preguntó.
+
+Algo le decía que iba a averiguarlo pronto.
+
+---
+
+*Continuará...*

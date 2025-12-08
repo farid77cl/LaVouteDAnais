@@ -1,117 +1,181 @@
-# El Reencuentro
+# Esposa de mi Esposo II
 
-## Capítulo 4: El Contraste
-
----
-
-La noche se convirtió en un borrón de luces, risas y tocamientos no deseados.
-
-Marco-Elena había perdido la cuenta de cuántas veces Javier le había rozado el brazo, la cintura o la cadera "accidentalmente". Cada toque era una quemadura. Cada comentario de doble sentido era una bofetada.
-
-—¿Te acuerdas de aquella vez en Ibiza? —Javier estaba contando una historia al grupo, con un brazo apoyado en el respaldo de la silla de Marco-Elena, sus dedos jugando con un mechón de su pelo suelto—. Cuando Marco se ligó a las dos suecas en la misma noche. ¡Qué leyenda!
-
-Todos rieron. Elena-Marco, sentada frente a ellos, sonrió con esa suficiencia masculina que ahora le era tan natural.
-
-—Buenos tiempos —dijo Elena-Marco, levantando su copa—. Aunque ahora prefiero la calidad a la cantidad. ¿Verdad, cariño?
-
-Marco-Elena forzó una sonrisa. Sentía el estómago revuelto. Recordaba esa noche. Recordaba haber dejado a Elena sola en el hotel con una excusa barata para irse de fiesta con Javier. Recordaba haber vuelto al amanecer, oliendo a alcohol y a perfume barato, y haberle dicho a Elena que estaba "paranoica" cuando ella le preguntó dónde había estado.
-
-—Elena siempre ha sido muy comprensiva —siguió Javier, inclinándose hacia ella. Su rodilla chocó contra la de Marco-Elena bajo la mesa. No se apartó—. Una santa, aguantarnos a nosotros.
-
-—Una santa con un cuerpo de pecadora —añadió Roberto, desde el otro lado de la mesa.
-
-Más risas.
-
-Marco-Elena sintió que se asfixiaba. El corset invisible de la expectativa social le apretaba más que la ropa interior de encaje. Quería gritarles. Quería decirles que eran unos cerdos. Quería decirles que *él* había sido uno de ellos, el peor de todos, y que ahora entendía.
-
-Ahora entendía por qué Elena a veces volvía de estas cenas callada, con la mirada perdida. Por qué se frotaba la piel en la ducha como si quisiera arrancársela.
-
-—¿Estás bien? —La voz de Elena-Marco cortó sus pensamientos.
-
-Marco-Elena levantó la vista. Su marido la miraba fijamente, con esa intensidad que desnudaba el alma.
-
-—Estoy cansada —susurró.
-
-—Javi, creo que estás agobiando a mi chica —dijo Elena-Marco, pero no había enfado en su voz. Solo diversión.
-
-—¿Yo? ¡Si solo la estoy entreteniendo! —Javier le guiñó un ojo a Marco-Elena—. ¿Te estoy molestando, preciosa?
-
-Marco-Elena abrió la boca para decir "sí". Para decir "déjame en paz".
-
-Pero entonces sintió la vibración de su móvil en el bolso. O quizás fue solo un fantasma, un recuerdo. Recordó una cena hace años. Elena se había quejado de que un socio de Marco la estaba mirando demasiado.
-
-*"No seas histérica, Elena. Solo está siendo amable. Es un cliente importante. Sonríe y no me jodas el negocio."*
-
-Las palabras de su yo pasado resonaron en su cabeza con la claridad de una sentencia.
-
-—No —dijo Marco-Elena, la voz saliendo como un susurro estrangulado—. No me molestas, Javi. Solo... me duele un poco la cabeza.
-
-—Pobrecita. —Javier le pasó el brazo por los hombros y la atrajo hacia sí en un abrazo lateral—. ¿Quieres que te dé un masaje? Tengo manos mágicas.
-
-Marco-Elena se puso rígida. El olor a alcohol de Javier era insoportable.
-
-—Creo que mejor nos vamos —dijo Elena-Marco, poniéndose de pie.
-
-Por un segundo, Marco-Elena sintió una oleada de gratitud. *Me saca de aquí. Se ha dado cuenta.*
-
-Pero entonces Elena-Marco rodeó la mesa y se acercó a ella. Le tendió la mano —la mano de Marco, grande, fuerte, con el reloj que ella le había regalado en su aniversario— y la ayudó a levantarse.
-
-—Despídete de Javi como corresponde, cariño —dijo Elena-Marco.
-
-Marco-Elena la miró, horrorizada.
-
-—¿Qué?
-
-—Dale dos besos. Y un abrazo. Ha sido muy amable contigo toda la noche.
-
-Javier ya estaba de pie, esperando con los brazos abiertos y esa sonrisa de suficiencia.
-
-—Venga, Elena. No seas tímida.
-
-Marco-Elena sintió que las piernas le temblaban sobre los tacones de doce centímetros. Miró a Elena-Marco, buscando piedad. No encontró ninguna. Solo encontró un espejo de su propia crueldad pasada.
-
-Se acercó a Javier. Él la envolvió en sus brazos, apretándola contra su cuerpo. Marco-Elena sintió la dureza de su erección contra su vientre. Javier aprovechó el abrazo para bajar las manos hasta su culo y darle un apretón descarado, posesivo, humillante.
-
-—Estás increíble, Elena —le susurró al oído, húmedo y sucio—. Si alguna vez te cansas de Marco... ya sabes dónde estoy.
-
-Marco-Elena se separó de un empujón, con la cara ardiendo.
-
-—Adiós, Javi —dijo, casi corriendo hacia la salida.
-
-Elena-Marco se quedó atrás un momento, riendo con Javier, dándole una palmada en la espalda. Despidiéndose de los hombres como uno de ellos. Luego caminó hacia Marco-Elena con paso tranquilo, como si nada hubiera pasado.
+## Capítulo 4: Las Amigas
 
 ---
 
-En el coche, el silencio fue diferente. Ya no era ansiedad. Era una mezcla espesa de vergüenza y rabia.
+Dos días después de la cena con Javier, Elena le dio una nueva orden.
 
-Marco-Elena se abrazaba a sí misma, mirando por la ventana, viendo pasar las luces de la ciudad borrosas por las lágrimas que se negaba a derramar.
+—Vas a reunirte con tus amigas.
 
-—Lo has hecho bien —dijo Elena-Marco después de un rato.
+Marco levantó la vista del café que estaba bebiendo. Estaba sentado en el desayunador de la cocina, vestido con un camisón de seda que apenas le cubría los muslos. El sol de la mañana entraba por las ventanas, calentándole la piel bronceada.
 
-—Eres un monstruo —escupió Marco-Elena.
+—¿Mis amigas?
 
-Elena-Marco frenó en un semáforo rojo y se giró hacia ella.
+—Las amigas de Elena. —Elena tomó un sorbo de su propio café, mirándolo por encima del borde de la taza—. Lucía, Carmen y Andrea. Almuerzo a las dos en Casa Lucía.
 
-—¿Yo? —preguntó, genuinamente sorprendida—. Yo solo te he pedido que fueras educada con mi mejor amigo. Tú eras el que le decía a Elena que era una exagerada. Tú eras el que decía que los piropos de Javi eran "inofensivos".
+El estómago de Marco cayó.
 
-—¡Me ha tocado el culo! —gritó Marco-Elena—. ¡Me ha restregado la polla!
+Lucía, Carmen y Andrea. Las tres mejores amigas de Elena. Las había conocido en cenas de compromiso y fiestas de cumpleaños, pero siempre desde la distancia cómoda del esposo. Ahora se suponía que debía sentarse con ellas. Como una de ellas.
 
-—Y tú no has hecho nada —dijo Elena-Marco con calma—. Te has dejado. Has sonreído. Has sido una buena chica.
+—No... no puedo hacer eso —tartamudeó—. No sé nada de sus vidas. Van a notar que algo está mal.
 
-—¡Porque tú me has obligado!
+—No van a notar nada —dijo Elena con calma—. Porque vas a comportarte exactamente como Elena se comportaría. Vas a sonreír. Vas a cotillear. Y cuando te pregunten sobre la luna de miel... —una sonrisa lenta se extendió por su cara—, vas a contarles la verdad.
 
-—No, Marco. —Elena-Marco se inclinó hacia ella, su rostro invadiendo su espacio personal—. Porque en el fondo, sabes que te lo mereces. Sabes que esto es lo que tú creaste. Este mundo, estas reglas, estos hombres... son tu obra. Tú construiste la jaula. Yo solo te he metido dentro.
+—¿La verdad?
 
-El semáforo cambió a verde. Elena-Marco volvió a arrancar, dejando a Marco-Elena sin palabras, ahogada en la verdad de su propia creación.
+—Toda la verdad. Cada detalle sucio y vergonzoso. Qué posiciones. Cuántas veces. Cómo te sentiste. —Elena se inclinó hacia adelante—. Vas a ser la esposa recién casada que presume de su vida sexual. Y vas a excitarte mientras lo haces.
 
-—Además —añadió Elena-Marco, con una sonrisa cruel en la voz—, vi cómo te temblaban las piernas cuando te abrazó. Y noté que estabas húmeda cuando te subiste al coche.
-
-—¡Es mentira! —protestó Marco-Elena, aunque sabía que no lo era. Su cuerpo —el cuerpo de Elena— había reaccionado. La humillación, el miedo, la sumisión... todo se había traducido en una respuesta física traidora que no podía controlar.
-
-—El cuerpo no miente, Marco. Nunca miente. —Elena-Marco puso una mano sobre su muslo, apretando—. Y tu cuerpo dice que te encanta ser una puta para mis amigos.
-
-Marco-Elena cerró los ojos y apoyó la cabeza contra el cristal frío.
-
-El contraste entre lo que su mente gritaba y lo que su cuerpo sentía era la verdadera tortura. Y sabía, con una certeza aterradora, que esto era solo el principio.
+Marco abrió la boca para protestar, pero el piercing entre sus piernas palpitó como si ya supiera lo que iba a pasar.
 
 ---
+
+Casa Lucía era un restaurante encantador en el centro de la ciudad, con manteles florales y luz natural que entraba por amplios ventanales. El tipo de lugar donde las mujeres ricas almorzaban para discutir sus matrimonios, sus cirugías y sus frustaciones.
+
+Marco llegó a las dos en punto, vestido exactamente como Elena le había ordenado: un vestido de verano blanco que contrastaba con su bronceado, sandalias de tacón bajo, y ningún sostén debajo de la tela fina.
+
+Podía sentir sus pezones rozando la tela con cada movimiento. Erectos por el aire acondicionado. O por el nerviosismo. O por ambos.
+
+Las tres mujeres ya estaban sentadas en una mesa cerca de la ventana.
+
+—¡Elena! —gritó Lucía, levantándose para abrazarlo—. ¡Mírate! ¡Estás radiante!
+
+Lucía era rubia, de cuarenta y tantos, con la piel estirada por botox y los labios inflados por rellenos. Carmen era morena, más natural, con unos pechos enormes que Marco solía mirar cuando creía que nadie lo veía. Y Andrea era la más joven, pelirroja, con una risa escandalosa y una lengua afilada.
+
+—El Caribe te sentó de maravilla —dijo Carmen, examinándolo de arriba abajo—. ¿Engordaste? Tienes las tetas más grandes.
+
+Marco sintió el rubor subirle por el cuello.
+
+—Es el... el bronceado. Hace que todo parezca más...
+
+—No, no. Definitivamente estás más rellena. —Carmen asintió—. Seguro es todo el sexo. Cuando te cogen bien, el cuerpo retiene todo diferente.
+
+Las tres mujeres rieron.
+
+Marco se sentó, intentando acomodarse en la silla sin que el piercing rozara demasiado. Era imposible. Cada movimiento enviaba pequeñas chispas desde su clítoris hasta su columna vertebral.
+
+Ordenaron ensaladas y prosecco. La conversación comenzó con los temas habituales: la nueva línea de bolsos de Hermès, el escándalo de la esposa del alcalde, el hijo adolescente de Lucía que había sido atrapado con drogas.
+
+Pero Marco sabía que el verdadero tema estaba acercándose como un tiburón en aguas oscuras.
+
+—Bueno, suficiente de nuestras vidas aburridas —dijo Andrea, inclinándose hacia adelante con ojos brillantes—. Cuéntanos de la luna de miel. Y no dejes fuera ningún detalle.
+
+Ahí estaba.
+
+Marco tomó un largo trago de prosecco.
+
+—Fue... increíble.
+
+—"Increíble" no dice nada —interrumpió Carmen—. Queremos detalles. ¿Cuántas veces al día?
+
+—Carmen... —intentó evadir Marco.
+
+—¿Qué? Todas queremos saber. Lucía no ha cogido en seis meses. Andrea está saliendo con ese idiota que no la satisface. Y yo... bueno, David tiene disfunción eréctil desde hace un año. Necesitamos vivir vicariosamente a través de ti.
+
+Las tres mujeres lo miraban expectantes. Tres pares de ojos hambrientos de información sexual.
+
+Y Marco recordó la orden de Elena: *Vas a contarles la verdad. Cada detalle.*
+
+—Cuatro veces al día —dijo finalmente, su voz apenas un susurro—. A veces cinco.
+
+Un silencio de asombro.
+
+—Cuatro... —Lucía casi se atragantó con su ensalada—. ¡Cuatro veces!
+
+—Cinco cuando... cuando Marco estaba especialmente... —Marco buscó la palabra—, inspirado.
+
+—Dios mío. —Andrea se abanicó con la mano—. ¿Y cómo? ¿Qué posiciones? ¿Era romántico o sucio?
+
+El calor subió por las mejillas de Marco. El piercing palpitó con más fuerza.
+
+—Ambos. A veces... a veces era romántico. En la playa. Al atardecer. Pero otras veces... —tomó otro trago de prosecco—, otras veces era... muy sucio.
+
+—Define "muy sucio" —exigió Carmen, sus ojos brillando.
+
+Marco cerró los ojos por un momento. Recordó las noches en el resort. Elena sobre él. Elena dentro de él. La primera vez que había sido penetrado, el dolor mezclándose con algo que no quería admitir que era placer.
+
+—Me... me tomaba cuando él quería. Como él quería. A veces me despertaba en mitad de la noche con él ya... —se mordió el labio—, ya dentro de mí.
+
+—¡Oh, Dios mío! —gritó Andrea—. ¡Eso es tan caliente!
+
+—¿Y tú? —preguntó Lucía—. ¿Le hacías cosas a él?
+
+La pregunta golpeó a Marco como un puñetazo. Recordó las mañanas. Recordó arrodillarse. Recordó la polla que había sido suya llenándole la boca.
+
+—Le... le hacía cosas con la boca —admitió, y su voz sonó patéticamente pequeña—. Él decía que nunca había tenido mejores...
+
+—Mejor oral —completó Carmen con una sonrisa—. Chica, eso es todo lo que los hombres quieren. Una boca que sepa trabajar y un coño que esté siempre dispuesto. Si les das eso, te adoran.
+
+Marco quería vomitar. Quería gritar que él *era* uno de esos hombres. Que él *había sido* uno de esos hombres. Que sabía exactamente lo que los hombres querían porque lo había querido toda su vida.
+
+Pero no podía decir nada.
+
+—¿Y el piercing? —preguntó Andrea de repente—. ¿Le gusta a Marco?
+
+Marco parpadeó.
+
+—¿El... piercing?
+
+—El del clítoris, boba. —Andrea rió—. Te lo pusiste hace dos años, ¿recuerdas? Dijiste que te hacía más sensible.
+
+*Oh, Dios.* El piercing había sido idea de Elena. No, espera. Había sido idea *suya*. Marco había sido quien sugirió que Elena se perforara el clítoris. "Te hará más sensible", le había dicho. "Podrás correrte más fácil."
+
+Y ahora él cargaba con ese piercing. Sintiéndolo cada segundo de cada día.
+
+—Sí —dijo Marco, y su voz tembló—. Le encanta. Y... y tiene razón. Me hace muy sensible.
+
+—Lo sabía. —Andrea sonrió—. Deberías conseguirle uno a Lucía. Quizás eso haga que Carlos se interese de nuevo.
+
+Las mujeres rieron. Marco intentó reír con ellas, pero el sonido que salió de su boca fue más cercano a un gemido.
+
+Porque debajo de la mesa, el piercing estaba palpitando furiosamente. Hablar de sexo —revivir los recuerdos de su propia sumisión— había encendido algo en su cuerpo que no podía apagar.
+
+Estaba mojado otra vez. Mojado y caliente y desesperadamente excitado mientras hablaba de cómo su marido lo usaba.
+
+—¿Estás bien, cariño? —preguntó Lucía, notando su rubor—. Estás muy roja.
+
+—Es el... el prosecco —mintió Marco—. Me afecta rápido.
+
+—Mmm. —Carmen lo miró con ojos entrecerrados—. O es que hablar de todo ese sexo te ha puesto cachonda. ¿Marco te deja tocarte cuando estás fuera?
+
+La pregunta era tan obscena que Marco casi se atragantó.
+
+—Yo... yo...
+
+—Seguro que no. —Carmen asintió—. Los hombres como Marco quieren control total. Apuesto a que solo te deja correrte cuando él lo decide.
+
+Era verdad. Completamente verdad. Elena decidía cuándo, cómo, y si Marco tenía permiso de correrse. A veces lo llevaba al borde durante horas solo para dejarlo ahí, temblando y suplicando.
+
+—Es... es complicado —murmuró Marco.
+
+Las mujeres intercambiaron miradas cómplices.
+
+—Querida —dijo Lucía, poniendo una mano sobre la de Marco—, no hay nada complicado. Tienes un marido que te desea, que te usa bien, y que te mantiene hambrienta de él. Eso es lo que todas queremos.
+
+Marco asintió, porque era lo único que podía hacer.
+
+Y mientras las amigas de Elena seguían cotilleando sobre sus propias vidas sexuales vacías, Marco se quedó sentado en silencio, con las piernas apretadas bajo la mesa, intentando ignorar el pulso constante del piercing y la humedad que le empapaba el vestido blanco por dentro.
+
+Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prácticamente corrió hacia el coche.
+
+Se subió al asiento del conductor —todavía le permitían manejar, aunque Elena controlaba todo lo demás— y se quedó quieto por un momento, respirando.
+
+Su teléfono vibró. Un mensaje de Elena.
+
+*"¿Les contaste todo?"*
+
+Marco tecleó con dedos temblorosos: *"Sí."*
+
+*"¿Estás mojada?"*
+
+Marco miró hacia abajo. La mancha oscura en la entrepierna de su vestido blanco era visible incluso en la luz tenue del garaje.
+
+*"Sí."*
+
+*"No te toques. Maneja a casa. Te necesito."*
+
+Marco encendió el coche y condujo hacia su prisión de lujo, con el piercing palpitando al ritmo de su corazón traidor.
+
+---
+
+*Continuará...*

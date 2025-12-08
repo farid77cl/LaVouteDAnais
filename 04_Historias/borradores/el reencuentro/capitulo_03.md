@@ -1,129 +1,125 @@
-# El Reencuentro
+# Esposa de mi Esposo II
 
 ## Capítulo 3: Javier
 
 ---
 
-Javier Mendoza.
+El restaurante era una catedral de pretensión y dinero.
 
-Marco lo conocía desde la universidad. Habían compartido piso, resacas, secretos y mujeres. Era su mejor amigo. Su hermano. El tipo con el que se reía de todo, con el que comentaba culos en la calle, con el que intercambiaba memes sexistas en el grupo de WhatsApp.
+Candelabros de cristal colgaban del techo abovedado, derramando luz dorada sobre mesas vestidas de lino blanco. El murmullo de conversaciones refinadas flotaba en el aire junto con el aroma a trufas y champán.
 
-Javier era un depredador encantador. Alto, guapo de una manera descuidada, con esa sonrisa de medio lado que desarmaba defensas. Marco siempre había admirado su "éxito" con las mujeres. Su capacidad para insistir hasta que el "no" se convertía en un "bueno, vale".
+Marco caminaba del brazo de Elena, cada paso una tortura exquisita. Los tacones le ponían el trasero en pompa. El vestido se ajustaba a cada curva. Y el piercing, Dios, el maldito piercing seguía palpitando entre sus piernas, recordándole que acababa de tener una polla en la garganta hace menos de diez minutos.
 
-Ahora, viendo esa sonrisa dirigida hacia él —hacia *ella*—, Marco sintió una náusea profunda y helada en el estómago.
+Todavía podía sentir el peso del semen en su estómago. Espeso. Caliente. La prueba de que ahora era la receptora, no el dador.
 
-—Javier —dijo Marco-Elena, su voz temblando ligeramente.
+—Sonríe —susurró Elena—. Javier nos está mirando.
 
-—¡Elena, preciosa! —Javier abrió los brazos y se lanzó sobre ella.
+El nombre cayó como un balde de agua helada.
 
-El abrazo fue excesivo. Demasiado apretado. Demasiado largo. Marco-Elena sintió el pecho de Javier aplastando sus senos —esos senos sensibles y dolorosamente grandes— contra su torso duro. Olió su colonia cara mezclada con el olor a tabaco y alcohol.
+*Javier.*
 
-Y sintió las manos.
+Javier Mendoza. El mejor amigo de Marco. Su compañero de negocios. El hombre con quien había compartido cientos de noches de whisky, puros y conversaciones sobre coños y tetas.
 
-Las manos de Javier bajaron por su espalda, supuestamente en un gesto amistoso, pero no se detuvieron en la cintura. Siguieron bajando, milímetro a milímetro, hasta posarse con una familiaridad asquerosa en la curva de su trasero.
+Y ahora Javier estaba mirando las *suyas*.
 
-—Mmm... —Javier le susurró al oído, su aliento caliente erizándole la piel—. Estás increíble, nena. Ese bronceado te queda... comestible.
+El hombre se levantó de la mesa cuando los vio acercarse. Era alto, moreno, con ese atractivo depredador que siempre había hecho que las mujeres cayeran rendidas. Marco sabía exactamente lo que Javier veía: una rubia espectacular caminando hacia él, con un escote que prometía paraísos y una boca que todavía tenía restos de carmín corrido.
 
-Marco-Elena se tensó, intentando apartarse, pero Javier la mantuvo sujeta un segundo más de lo socialmente aceptable antes de soltarla.
+—¡Marco, hijo de puta! —gritó Javier, abriendo los brazos para abrazar a Elena—. ¡Mírate! El matrimonio te sienta de puta madre.
 
-—Gracias —dijo ella, dando un paso atrás instintivo. Sus tacones se clavaron en el césped.
+—Gracias, Javi. —Elena le devolvió el abrazo con esa familiaridad masculina que ahora le pertenecía—. La luna de miel fue... reveladora.
 
-—¿Dónde está ese cabrón de marido tuyo? —preguntó Javier, escaneándola de arriba abajo con una descaro que hizo que Marco-Elena quisiera cubrirse con los brazos—. Me dijo que te habías puesto más buena en el viaje, pero no pensé que fuera para tanto.
+—Me imagino, me imagino. —Los ojos de Javier se deslizaron hacia Marco, y su sonrisa se volvió hambrienta—. Y tú, preciosa... estás absolutamente increíble.
 
-Marco-Elena parpadeó. ¿Marco le había dicho eso? No. *Elena-Marco* le había dicho eso.
+Marco sintió cómo la mirada de Javier le recorría el cuerpo. De arriba abajo. Deteniéndose en los pechos. En las caderas. En las piernas que los tacones alargaban obscenamente.
 
-—Está por ahí —señaló vagamente hacia el grupo de hombres.
+Era la misma mirada que él había visto cientos de veces. La misma mirada que *él* había dado cientos de veces.
 
-—Ya veo. Dejando a la joya de la corona sola, ¿eh? —Javier dio un paso hacia ella, invadiendo su espacio personal. Marco-Elena retrocedió otro paso, chocando con una mesa alta—. Mal hecho. Con un vestido así, alguien podría intentar robarte.
+Ahora estaba del otro lado.
 
-Su mirada se clavó en el escote de Marco-Elena. No disimulaba. No tenía por qué. Marco recordaba haber hecho lo mismo mil veces. Recordaba haber mirado a las mujeres de sus amigos así, como si fueran ganado de primera calidad expuesto en una feria.
+—Gracias, Javi —dijo Marco, y su voz salió aguda, suave, femenina. La voz de Elena. La voz que ahora era suya.
 
-*Es solo un cumplido*, se dijo a sí misma, repitiendo las palabras que él mismo había usado tantas veces cuando Elena se quejaba de Javier. *Javi es así, es cariñoso. No seas exagerada.*
+Javier dio un paso adelante y le besó ambas mejillas, demorándose más de lo necesario. Marco pudo oler su colonia —Bleu de Chanel, el mismo que él usaba— y sentir el calor de su cuerpo masculino peligrosamente cerca.
 
-Pero ahora, siendo el objeto de ese "cariño", se sentía sucio. Se sentía como una amenaza.
+—Dos semanas en el Caribe y pareces una diosa del sexo —susurró Javier cerca de su oído—. ¿Qué te ha hecho Marco? ¿Te ha tenido encerrada en la habitación cogiendo sin parar?
 
-—Javier, por favor... —empezó a decir, sin saber muy bien qué pedir.
+Marco se estremeció. La pregunta pretendía ser un halago vulgar entre amigos, pero ahora aterrizó diferente. Ahora era una invasión. Una violación verbal.
 
-—¿Qué pasa? —Javier sonrió, esa sonrisa de lobo—. ¿Te pongo nerviosa, Elena? Siempre has sido un poco estirada, pero pensé que después de dos semanas de sol y sexo con Marco estarías más... relajada.
+—Algo así —respondió, forzando una sonrisa.
 
-Levantó una mano y, con un dedo, trazó la línea del tirante de su vestido sobre su hombro desnudo.
+Se sentaron a la mesa. Javier había pedido champán, y pronto les sirvieron copas burbujeantes que Marco bebió demasiado rápido. El alcohol le quemó la garganta que todavía recordaba otra cosa quemándola minutos antes.
 
-Marco-Elena se congeló. El toque fue eléctrico, pero no de placer. Fue una invasión. Quiso gritarle. Quiso darle un puñetazo en la cara con su mano de manicura perfecta. Quiso decirle: *¡Soy yo, imbécil! ¡Soy Marco! ¡Quita tus sucias manos de encima!*
+—Entonces, ¿cómo va todo? —preguntó Elena, recostándose en su silla como el dueño del mundo—. ¿Los negocios? ¿Las mujeres?
 
-Pero no podía.
+—Los negocios van de puta madre. Las mujeres... —Javier se encogió de hombros—, ya sabes cómo es. Una tras otra. Pero ninguna que valga la pena.
 
-—¡Javi! —La voz de Elena-Marco resonó como un látigo.
+Su mirada volvió a posarse en Marco. Directa. Descarada.
 
-Marco-Elena suspiró de alivio. *Gracias a Dios. Viene a salvarme.*
+—Tienes suerte, cabrón —le dijo a Elena—. Si Elena fuera mi mujer, no la dejaría salir de la cama ni para respirar.
 
-Elena-Marco se acercó a ellos, con su vaso de whisky en la mano y esa sonrisa de dueño del mundo. Pasó un brazo por los hombros de Javier y le dio una palmada en la espalda.
+Marco sintió un rubor de vergüenza subirle por el cuello. El cumplido —porque se suponía que lo era— le hizo sentir como mercancía exhibida.
 
-—Veo que ya has saludado a mi mujer —dijo Elena-Marco, mirando a Marco-Elena con una expresión indescifrable.
+—Créeme, no la dejo —rió Elena—. Pero a veces hay que sacarla a pasear. ¿Verdad, cariño?
 
-—Saludado y admirado, tío —dijo Javier, riendo—. Joder, Marco, te has lucido. Está espectacular. Ese vestido es un crimen.
+Una mano de Elena se posó sobre su muslo debajo del mantel. Cálida. Posesiva. Subió unos centímetros, rozando el borde de su media.
 
-—Lo elegí yo —dijo Elena-Marco, orgullosa.
+Marco asintió, sin confiar en su voz.
 
-—Tienes buen ojo. —Javier volvió a mirar a Marco-Elena, lamiéndose los labios inconscientemente—. Y ella lo lleva de maravilla. Mira esas piernas.
+La conversación continuó. Negocios. Inversiones. El nuevo yate de Javier. La casa de campo que estaba renovando. Marco intentaba seguir el hilo, pero su mente estaba fragmentada entre el roce constante del piercing, la mano de Elena en su muslo, y las miradas cada vez más descaradas de Javier.
 
-Marco-Elena sintió que se encogía. Estaban hablando de ella como si no estuviera allí. Como si fuera un coche nuevo o un reloj caro.
+—¿Y tú, Elena? —Javier se inclinó hacia él—. ¿Qué tal la vida de casada? ¿Marco te trata bien?
 
-—Dile algo —pensó Marco-Elena, mirando a su marido con súplica—. Dile que pare. Dile que me respete.
+La pregunta era inocente. La intención, no.
 
-Pero Elena-Marco no dijo nada de eso.
+—Marco me trata... exactamente como merezco —respondió Marco, eligiendo cada palabra con cuidado.
 
-En su lugar, Elena-Marco soltó a Javier y caminó hacia Marco-Elena. Se colocó detrás de ella, pegando su cuerpo masculino a su espalda femenina, y rodeó su cintura con ambos brazos, sus manos grandes posándose posesivamente sobre su vientre plano.
+—Eso espero. Porque si alguna vez te trata mal, sabes que puedes venir a llorar a mi hombro. —Javier sonrió, mostrando dientes blancos perfectos—. O a cualquier otra parte de mi anatomía.
 
-—Es verdad —susurró Elena-Marco contra su oído, lo suficientemente alto para que Javier escuchara—. Tiene unas piernas increíbles. Y deberías ver lo que sabe hacer con ellas ahora.
+El doble sentido fue tan obvio que hasta Elena rió.
 
-Javier soltó una carcajada grosera.
+Pero Marco no encontró humor en ninguna parte. Solo encontró miedo. Y, enterrado debajo del miedo, algo más oscuro.
 
-—¡Ese es mi chico! —brindó con su cerveza—. Me alegra ver que por fin la has domado. Siempre dije que a Elena le faltaba un poco de... motivación.
+El piercing palpitó.
 
-—Solo necesitaba la guía adecuada —dijo Elena-Marco, apretando la cintura de Marco-Elena hasta que dolió—. ¿Verdad, cariño?
+Su cuerpo estaba respondiendo a la amenaza implícita de Javier como si fuera una promesa. Como si la idea de ser "consolado" por ese hombre enviara señales contradictorias a través de su sistema nervioso.
 
-Marco-Elena sintió las lágrimas picando detrás de sus ojos. La humillación era total. Su mejor amigo y su esposa (en su cuerpo) compartiendo chistes a su costa, reduciéndola a un pedazo de carne decorativa.
+*No*, pensó Marco. *No puedo estar...*
 
-—Sí —susurró, porque no tenía otra opción.
+Pero la humedad entre sus piernas decía otra cosa.
 
-—No te oigo —dijo Elena-Marco.
+—Baño —murmuró, levantándose de la mesa—. Si me disculpan.
 
-—Sí —dijo más alto, la voz quebrada.
+Marco caminó hacia los baños, sintiendo los ojos de Javier clavados en su trasero con cada paso. El movimiento de sus caderas —exagerado por los tacones— era un espectáculo involuntario.
 
-—Así me gusta. —Elena-Marco le besó el cuello, un beso húmedo y sonoro que hizo que Javier vitoreara—. Javi, ¿por qué no le traes otra copa a mi mujer? Parece que se le ha secado la garganta.
+Se encerró en uno de los cubículos del baño de mujeres y se dejó caer sobre el inodoro, temblando.
 
-—A la orden, capitán. —Javier le guiñó un ojo a Marco-Elena—. No te muevas, preciosa. Vuelvo enseguida para seguir... admirando.
+¿Qué le estaba pasando? ¿Por qué su cuerpo reaccionaba así? ¿Por qué la mirada hambrienta de Javier encendía algo en su nuevo sistema nervioso?
 
-Javier se alejó hacia la barra. Elena-Marco se quedó pegada a su espalda, su erección presionando sutilmente contra las nalgas de Marco-Elena a través de la tela del vestido.
+Se llevó una mano entre las piernas y tocó la tela húmeda del tanga.
 
-—¿Ves? —susurró Elena-Marco, su voz goteando veneno dulce—. Les encantas. Eres el centro de atención.
+Empapado.
 
-—Me está tocando —siseó Marco-Elena, temblando—. Me está mirando como si quisiera follarme. Es asqueroso. Es Javier, por Dios.
+Estaba empapado.
 
-—Es un hombre —corrigió Elena-Marco—. Y tú eres una mujer increíblemente sexy que prácticamente está pidiendo guerra con ese vestido. ¿No era eso lo que tú decías siempre? "Si se visten así, es porque quieren que las miren".
+Javier lo estaba mirando como carne, y Marco estaba mojado como una perra en celo.
 
-Marco-Elena cerró los ojos. Sus propias palabras. Su propia filosofía de vestuario, lanzada de vuelta a su cara como un bumerán envenenado.
+—No... —gimió, apoyando la frente contra la pared fría—. No, no, no...
 
-—Yo no... yo no sabía...
+Pero los hechos eran los hechos. Su cuerpo había sido entrenado durante dos semanas para asociar la sumisión con el placer. Y ahora, en presencia de otro depredador masculino, ese entrenamiento estaba tomando el control.
 
-—Ahora sabes —la cortó Elena-Marco—. Y te vas a aguantar. Vas a ser amable con Javi. Vas a dejar que te mire. Vas a dejar que te toque un poquito, si eso lo hace feliz. Porque eres la esposa del anfitrión, y una buena esposa hace que los amigos de su marido se sientan bienvenidos.
+Cuando volvió a la mesa, con el maquillaje retocado y una sonrisa plástica en la cara, Javier y Elena estaban riendo de algo.
 
-—No puedes pedirme eso.
+—Ahí está nuestra chica —dijo Javier, levantando su copa—. ¿Todo bien, preciosa?
 
-Elena-Marco le mordió el lóbulo de la oreja, fuerte.
+—Perfecto —mintió Marco, sentándose otra vez.
 
-—No te lo estoy pidiendo, Marco. Te lo estoy ordenando. Si Javi quiere coquetear, tú coqueteas. Si te dice una guarrada, te ríes y te sonrojas. Y si me entero de que le haces un desplante... te juro que te quitaré este vestido delante de todos y dejaré que vean la lencería de puta que llevas debajo.
+Debajo del mantel, la mano de Elena volvió a posarse en su muslo.
 
-Marco-Elena sollozó, un sonido pequeño y patético que se perdió en la música de la fiesta.
+Esta vez, subió hasta tocar la tela mojada del tanga.
 
-—Entendido —dijo.
+Elena no dijo nada. Solo sonrió y siguió conversando con Javier.
 
-—Bien. —Elena-Marco la soltó y le dio una palmada en el culo que resonó con un chasquido húmedo—. Ahora sonríe. Ahí viene Javi con tu copa.
-
-Marco-Elena abrió los ojos. Javier se acercaba, con dos copas en la mano y esa sonrisa depredadora clavada en ella.
-
-Marco-Elena respiró hondo, tragándose su orgullo, su asco y su identidad masculina. Y sonrió.
-
-Una sonrisa de muñeca. Vacía. Brillante. Aterrorizada.
+Pero su pulgar empezó a trazar círculos sobre el encaje empapado, rozando el piercing a través de la tela, mientras Marco se aferraba al borde de la mesa e intentaba no correrse delante de los dos hombres que ahora controlaban su destino.
 
 ---
+
+*Continuará...*
