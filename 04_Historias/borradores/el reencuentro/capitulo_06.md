@@ -12,21 +12,35 @@ Había diseñado este cuerpo.
 
 Y ahora estaba atrapado dentro de él, sentado en la sala de espera como una paciente más.
 
+Pero antes de llegar, había tenido que pasar por el ritual.
+
+—Hoy vamos a ver al doctor —había dicho Elena esa mañana, sacando un vestido azul del armario—. Necesitas algo que le dé fácil acceso, pero que le recuerde quién es el dueño.
+
+El vestido era un tubo de licra azul eléctrico que terminaba a mitad del muslo. No tenía tirantes, lo que significaba que Marco tenía que usar un sujetador strapless que se clavaba en sus costillas y empujaba sus pechos hacia arriba como dos ofrendas.
+
+—Y los zapatos —Elena señaló un par de stilettos negros de charol, de doce centímetros, con una punta tan afilada que parecía un arma—. Quiero que seas la mujer más alta de la sala de espera.
+
+Marco se había vestido con resignación. Subirse el vestido ajustado. Acomodarse los pechos. Y luego, la tortura de los zapatos.
+
+Cuando se puso de pie, sus pies gritaron. El arco era tan pronunciado que sentía que estaba caminando de puntillas. Sus pantorrillas se tensaron como cuerdas de violín.
+
+—Perfecta —había dicho Elena, dándole una nalgada que resonó en la habitación—. Ahora vamos. No quiero que el doctor espere.
+
+Y ahora estaba aquí, cruzando las piernas en la sala de espera, sintiendo cómo el vestido se subía peligrosamente y cómo los tacones clavaban sus puntas en la alfombra.
+
 —Señora Castellón —llamó la recepcionista—. El doctor la espera.
 
-Marco se levantó, sintiendo cómo la falda de su vestido se ajustaba a sus muslos. Había elegido algo conservador por la naturaleza de la visita, pero Elena había rechazado su primera opción y le había ordenado ponerse un vestido azul que terminaba a mitad del muslo.
-
-"Quiero que el doctor vea exactamente lo que tiene que mantener," había dicho.
+Marco se levantó, tambaleándose ligeramente sobre los zancos de charol. Caminó hacia el consultorio, sintiendo las miradas de las otras pacientes en su espalda. Envidia. Juicio. Curiosidad.
 
 El consultorio del Doctor Valladares era blanco, minimalista, lleno de certificados enmarcados y fotos de "transformaciones exitosas." Mujeres antes y después. Narices estrechas donde había habido bultos. Pechos enormes donde había habido nada. Labios gordos donde había habido líneas.
 
 El arte de fabricar feminidad.
 
-—¡Elena, querida! —El doctor se levantó de su escritorio para recibirlo. Era un hombre de sesenta años, canoso y distinguido, con manos de pianista que habían cortado y cosido cientos de cuerpos femeninos—. Mírate. El bronceado te sienta divino. ¿Cómo estuvo la luna de miel?
+—¡Elena, querida! —El doctor se levantó de su escritorio para recibirlo. Era un hombre de sesenta años, canoso y distinguido, con manos de pianista que habían cortado y cosido cientos de cuerpos femeninos—. Mírate. El bronceado te sienta divino. Y esos zapatos... —miró los tacones de doce centímetros—, muy elegantes.
 
-—Perfecta —mintió Marco.
+—Gracias —murmuró Marco, sintiendo el rubor.
 
-—Me alegro, me alegro. —El doctor lo guió hacia una silla frente a su escritorio—. Marco me llamó para programar tu cita de mantenimiento. ¿Sabes por qué estás aquí?
+—Marco me llamó para programar tu cita de mantenimiento. ¿Sabes por qué estás aquí?
 
 *Marco.* El doctor hablaba de Elena como si fuera otra persona. Porque para el mundo, lo era.
 
@@ -44,29 +58,29 @@ Marco tocó sus labios instintivamente. Los labios que Elena había llenado de c
 
 La sala de examen era fría y clínica. Paredes blancas. Luces brillantes. Una camilla de vinilo negro que parecía diseñada para procedimientos médicos o sesiones de tortura.
 
-—Quítate el vestido, por favor —pidió el doctor—. Puedes dejar la ropa interior.
+—Quítate el vestido, por favor —pidió el doctor—. Puedes dejar la ropa interior y los zapatos.
 
 Marco se congeló.
 
-—¿Todo el vestido?
+—¿Los zapatos?
 
-—Necesito examinar los implantes, Elena. No puedo hacerlo a través de la tela.
+—Me gusta ver la postura. Los tacones acentúan la curva de la columna y la proyección del pecho. Ayuda a evaluar la simetría.
 
-Por supuesto que no podía.
+Por supuesto que sí.
 
-Con manos temblorosas, Marco se bajó la cremallera lateral del vestido. La tela cayó al suelo, dejándolo en nada más que un conjunto de encaje negro: sostén de media copa que apenas contenía sus pechos y un tanga que se hundía entre sus nalgas.
+Con manos temblorosas, Marco se bajó el vestido tubo. La tela azul cayó al suelo, dejándolo en nada más que un conjunto de encaje negro y los tacones de charol de doce centímetros.
 
-El doctor no mostró ninguna reacción. Para él, era un cuerpo femenino más. Otro proyecto que había ayudado a construir.
+Se sentía ridículo. Vulnerable. Una muñeca semidesnuda en zapatos de fetiche, parada frente a un hombre vestido con bata blanca.
 
-—Acuéstate en la camilla —ordenó—. Boca arriba.
+—Acuéstate en la camilla —ordenó el doctor—. Boca arriba.
 
-Marco obedeció. El vinilo estaba frío contra su espalda desnuda. Las luces le daban directamente en los ojos, obligándolo a cerrarlos.
+Marco obedeció. Subirse a la camilla con los tacones puestos fue una maniobra torpe y humillante. Tuvo que abrir las piernas para mantener el equilibrio.
 
 —Voy a palpar los implantes ahora —anunció el doctor—. Dime si sientes algo fuera de lo normal.
 
 Las manos del doctor tocaron sus pechos.
 
-Marco se estremeció. El contacto era clínico, profesional, pero su cuerpo no lo entendía. Los nervios de sus pezones enviaron señales confusas a su cerebro: frío, presión, y algo que bordeaba el placer.
+Marco se estremeció. El contacto era clínico, profesional, pero su cuerpo no lo entendía. Los nervios de sus pezones enviaron señales confusas a su cerebro: frío, presión, y algo que bordeaba el placer. Y el piercing, rozando contra el vinilo de la camilla con cada movimiento, añadía su propia nota de excitación no deseada.
 
 —Interesante —murmuró el doctor, masajeando el implante izquierdo—. Hay algo de contractura capsular. Nada preocupante, pero deberíamos monitorearlo.
 
@@ -98,11 +112,11 @@ Marco resistió la urgencia de gritar que NO conocía el proceso. Que nunca hab�
 
 La aguja entró.
 
-El dolor fue inmediato, agudo, concentrado en el centro de su labio superior. Marco gimió mientras el líquido se esparcía bajo su piel, estirándola, inflándola.
+El dolor fue inmediato, agudo, concentrado en el centro de su labio superior. Marco gimió mientras el líquido se esparcía bajo su piel, estirándola, inflándola. Sus manos se aferraron a los bordes de la camilla, sus tacones golpearon el aire en un reflejo de dolor.
 
 —Uno más —dijo el doctor, moviéndose al labio inferior.
 
-Otra pinchazo. Otro géiser de dolor. Marco agarró los bordes de la camilla mientras sentía sus labios crecer, inflarse, volverse más pesados.
+Otra pinchazo. Otro géiser de dolor. Marco sintió sus labios crecer, inflarse, volverse más pesados.
 
 —Perfecto. —El doctor retrocedió para admirar su trabajo—. Mírate.
 
@@ -116,7 +130,9 @@ Karma poético.
 
 —Elena estará encantado —dijo el doctor, quitándose los guantes—. Puedes vestirte. La enfermera te dará instrucciones de cuidado posterior.
 
-Marco se vistió mecánicamente, sintiendo el peso nuevo de sus labios con cada movimiento. Cuando salió de la clínica, Elena lo esperaba en el vestíbulo.
+Marco se vistió mecánicamente. Subirse el vestido azul. Acomodarse el pelo. Todo mientras sus labios palpitaban y sus pies ardían en los tacones que nunca se había quitado.
+
+Cuando salió de la clínica, Elena lo esperaba en el vestíbulo.
 
 —Mírate —susurró Elena, tomándole la barbilla—. Perfectos. Más grandes que antes.
 
@@ -126,7 +142,7 @@ Marco se vistió mecánicamente, sintiendo el peso nuevo de sus labios con cada 
 
 Otra vez Javier.
 
-Marco dejó que Elena lo guiara hacia el coche, con los labios palpitando al ritmo de su corazón y el piercing entre sus piernas respondiendo a cada ola de humillación como si fuera una caricia.
+Marco dejó que Elena lo guiara hacia el coche, caminando con cuidado sobre sus tacones de aguja, con los labios palpitando al ritmo de su corazón y el piercing entre sus piernas respondiendo a cada ola de humillación como si fuera una caricia.
 
 ---
 

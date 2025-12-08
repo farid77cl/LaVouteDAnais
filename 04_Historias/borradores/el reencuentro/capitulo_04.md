@@ -30,11 +30,43 @@ Marco abrió la boca para protestar, pero el piercing entre sus piernas palpitó
 
 ---
 
+El ritual de preparación para el almuerzo fue tan exhaustivo como para una gala nocturna. Elena no permitía "looks casuales".
+
+—Hoy quiero algo inocente pero sucio —anunció Elena, abriendo el armario—. Blanco. Encaje. Transparencias.
+
+Eligió un vestido de verano blanco, de estilo ibicenco, que a primera vista parecía recatado. Pero cuando Marco lo sostuvo contra la luz, vio la verdad: la tela era tan fina que era prácticamente transparente.
+
+—Ropa interior —ordenó Elena.
+
+Marco abrió el cajón de la lencería. Elena eligió un conjunto de encaje blanco que hacía juego con el vestido. El sujetador era de media copa, diseñado para empujar los pechos hacia arriba y hacia afuera. Las bragas eran minúsculas, apenas un triángulo de encaje sobre el pubis y una tira dental en la parte trasera.
+
+Marco se vistió lentamente, sintiendo cada textura.
+
+Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilación perfecta. Al subirlas, la tela rozó directamente contra el piercing, enviando esa descarga eléctrica familiar.
+
+Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. Se sentía... contenido. Empaquetado.
+
+El vestido cayó sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. Podía ver el contorno de sus pezones endurecidos a través de la tela. Podía ver la sombra oscura de su vello púbico inexistente.
+
+—Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos.
+
+Sandalias de tacón. Blancas. De tiras finas que se ataban alrededor del tobillo. Y el tacón... Marco tragó saliva. Eran de aguja, de al menos doce centímetros.
+
+—Elena, es un almuerzo. No puedo caminar con esto a las dos de la tarde.
+
+—Puedes y lo harás. —Elena se arrodilló para ponérselas—. Una mujer como tú nunca baja de los diez centímetros. Estiliza las piernas. Levanta el culo. Te hace caminar... vulnerable.
+
+Elena ató las cintas alrededor de sus tobillos con fuerza, asegurándose de que no se movieran. Cuando Marco se puso de pie, el mundo cambió de perspectiva. Su centro de gravedad se desplazó. Sus pantorrillas se tensaron. Su culo se proyectó hacia atrás automáticamente.
+
+Se miró en el espejo. Parecía una muñeca de porcelana lista para romperse. O para ser rota.
+
+—Perfecta —dijo Elena, admirando cómo el vestido se transparentaba bajo la luz del sol—. Ahora ve. Y recuerda: cada detalle.
+
+---
+
 Casa Lucía era un restaurante encantador en el centro de la ciudad, con manteles florales y luz natural que entraba por amplios ventanales. El tipo de lugar donde las mujeres ricas almorzaban para discutir sus matrimonios, sus cirugías y sus frustaciones.
 
-Marco llegó a las dos en punto, vestido exactamente como Elena le había ordenado: un vestido de verano blanco que contrastaba con su bronceado, sandalias de tacón bajo, y ningún sostén debajo de la tela fina.
-
-Podía sentir sus pezones rozando la tela con cada movimiento. Erectos por el aire acondicionado. O por el nerviosismo. O por ambos.
+Marco llegó a las dos en punto. El sonido de sus tacones de doce centímetros contra el suelo de madera hizo que varias cabezas se giraran. Se sentía desnudo bajo el vestido transparente, expuesto a cada mirada.
 
 Las tres mujeres ya estaban sentadas en una mesa cerca de la ventana.
 
@@ -116,11 +148,17 @@ Marco parpadeó.
 
 —¿El... piercing?
 
-—El del clítoris, boba. —Andrea rió—. Te lo pusiste hace dos años, ¿recuerdas? Dijiste que te hacía más sensible.
+—El del clítoris, boba. —Andrea rió—. Recuerdo cuando Elena te lo regaló antes de la boda. Fue su sorpresa para ti, ¿verdad? Dijiste que querías volverte loca en la noche de bodas.
 
-*Oh, Dios.* El piercing había sido idea de Elena. No, espera. Había sido idea *suya*. Marco había sido quien sugirió que Elena se perforara el clítoris. "Te hará más sensible", le había dicho. "Podrás correrte más fácil."
+Marco se quedó helado.
 
-Y ahora él cargaba con ese piercing. Sintiéndolo cada segundo de cada día.
+*Cierto.*
+
+No había sido idea suya. En esta realidad retorcida, o quizás en la memoria de estas mujeres, había sido Elena —la Elena original— quien había planeado el piercing.
+
+*"Para ti, mi amor,"* recordaba haber oído en algún momento, quizás en un sueño, quizás en un recuerdo implantado. *"Para que sientas cada segundo de nuestra unión."*
+
+Pero Marco sabía la verdad. Él lo había pagado. Él lo había exigido. Y ahora él lo sufría.
 
 —Sí —dijo Marco, y su voz tembló—. Le encanta. Y... y tiene razón. Me hace muy sensible.
 
@@ -156,7 +194,7 @@ Marco asintió, porque era lo único que podía hacer.
 
 Y mientras las amigas de Elena seguían cotilleando sobre sus propias vidas sexuales vacías, Marco se quedó sentado en silencio, con las piernas apretadas bajo la mesa, intentando ignorar el pulso constante del piercing y la humedad que le empapaba el vestido blanco por dentro.
 
-Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prácticamente corrió hacia el coche.
+Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prácticamente corrió hacia el coche, sus tacones de doce centímetros resonando como una cuenta atrás.
 
 Se subió al asiento del conductor —todavía le permitían manejar, aunque Elena controlaba todo lo demás— y se quedó quieto por un momento, respirando.
 

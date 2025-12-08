@@ -12,43 +12,61 @@ Había estado aquí antes. Como Marco. Como el hombre que pagaba las cuentas y e
 
 Hoy él era el producto.
 
-—Tienes cita a las diez —dijo Elena desde el asiento del conductor—. Depilación completa. Manos y pies con francesas. Tratamiento facial. Y...
+Pero antes de bajar, Elena lo detuvo.
 
-—¿Y?
+—Espera. —Su mirada recorrió el cuerpo de Marco con ojo crítico—. No vas a entrar así.
 
-—Y un mantenimiento del área del bikini. Quiero que estés perfectamente lisa para cuando llegue Javier este fin de semana.
+Marco miró su atuendo: un vestido de verano ligero y unas cuñas de ocho centímetros. Era lo más bajo que podía usar; sus tendones, acortados por semanas de uso continuo de tacones extremos, ya no le permitían apoyar el talón en el suelo sin un dolor agudo.
 
-El nombre de Javier hizo que el estómago de Marco se contrajera. Desde la cena, Elena había mencionado a su "mejor amigo" cada vez más frecuentemente. Cenas. Paseos en yate. "Quedadas íntimas."
+—Son cómodos —se defendió Marco—. Y mis pantorrillas me duelen.
 
-Y siempre la misma mirada depredadora cuando observaba cómo Marco reaccionaba al nombre.
+—Son de abuela. Y tú no eres una abuela. —Elena sacó una bolsa del asiento trasero—. Ponte esto.
 
-—¿Javier viene este fin de semana? —preguntó Marco, odiando lo pequeña que sonó su voz.
+Marco abrió la bolsa. Dentro había un minivestido de licra rosa chicle, tan corto que parecía una camiseta larga, y un par de sandalias de tacón de corcho de doce centímetros.
 
-—A la piscina. El sábado. Y quiero que estés impecable para él.
+—Elena, es un spa. Voy a quitarme la ropa en cinco minutos.
 
-Marco no preguntó por qué debía estar "impecable" para otro hombre. Algo en él no quería saber la respuesta.
+—Exacto. Y quiero que las esteticistas vean lo que se están perdiendo cuando te desnudes. Quiero que vean las piernas, el culo, la actitud. —Elena señaló los zapatos—. Póntelos. Ahora.
 
-—Ve —ordenó Elena—. Giselle te está esperando. Y recuerda: eres Elena Castellón de Mendívez ahora. Compórtate como ella.
+Marco suspiró y obedeció. El ritual de vestirse en el espacio confinado del coche fue una humillación en sí misma. Quitarse el vestido cómodo. Luchar para meterse en la licra ajustada que marcaba cada curva de su cuerpo, incluyendo los pezones que se endurecieron instantáneamente por el roce.
 
-Marco abrió la puerta del coche y caminó hacia el spa, sus tacones haciendo clic contra el pavimento. Cada paso era un recordatorio de lo que era: una mujer caminando hacia su mantenimiento programado.
+Y luego los zapatos.
+
+Doce centímetros de plataforma. Sus pies se arquearon en esa posición antinatural que ya empezaba a sentirse dolorosamente familiar. Sus pantorrillas se tensaron. Su trasero se levantó.
+
+—Mucho mejor —dijo Elena, admirando cómo el vestido apenas cubría la curva de sus nalgas—. Ahora pareces una muñeca Barbie yendo a su mantenimiento.
+
+—Me siento ridícula —murmuró Marco.
+
+—Te ves deliciosa. —Elena le dio una palmada en el muslo—. Ahora ve. Giselle te está esperando. Y recuerda: eres Elena Castellón de Mendívez. Camina como si fueras dueña del lugar.
+
+Marco abrió la puerta del coche y caminó hacia el spa, sus tacones haciendo un eco rítmico y autoritario contra el pavimento. *Clic-clic-clic*. Cada paso era un recordatorio de su nueva realidad: una mujer diseñada para ser mirada, incluso cuando iba a depilarse.
 
 ---
 
 El interior del spa olía a jazmín y dinero.
 
-Una recepcionista perfecta —rubia, labios inflados, uñas imposibles— lo recibió con una sonrisa profesional.
+Una recepcionista perfecta —rubia, labios inflados, uñas imposibles— lo recibió con una sonrisa profesional que vaciló por un segundo al ver su atuendo.
 
-—¡Señora Castellón! Bienvenida de vuelta. Giselle la está esperando en la sala VIP.
+—¡Señora Castellón! —Sus ojos bajaron a los zapatos de plataforma y subieron al vestido minúsculo—. Bienvenida de vuelta. Giselle la está esperando en la sala VIP.
 
-Marco asintió y siguió a otra asistente por un pasillo de mármol blanco. Las paredes estaban decoradas con fotografías abstractas de cuerpos femeninos: curvas, líneas, sombras. Arte diseñado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
+Marco asintió, sintiendo el rubor subirle a las mejillas. Sabía lo que la recepcionista estaba pensando: *mira a esa zorra, vestida como una puta a las diez de la mañana.*
+
+Siguió a otra asistente por un pasillo de mármol blanco. Las paredes estaban decoradas con fotografías abstractas de cuerpos femeninos: curvas, líneas, sombras. Arte diseñado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
 
 La sala VIP era una suite privada con camilla, espejos en todas las paredes, y una mujer de mediana edad vestida de blanco que lo esperaba con una sonrisa maternal.
 
-—Elena, querida. —Giselle se acercó para besarlo en ambas mejillas—. Mírate. El Caribe te sentó divino. Pero esos pelitos... —chasqueó la lengua—, veo que han crecido. No te preocupes, los eliminaremos todos.
+—Elena, querida. —Giselle se acercó para besarlo en ambas mejillas—. Mírate. El Caribe te sentó divino. Y ese vestido... —chasqueó la lengua—, muy atrevido. Me encanta.
 
-Marco se dejó guiar hacia la camilla. La bata que le dieron era tan corta que apenas le cubría el trasero.
+Marco se dejó guiar hacia la camilla.
 
-—Primero la cera —anunció Giselle—. Brazos, piernas, axilas, y zona íntima. La señora Elena me informó que quiere brasileño completo.
+—Puedes desvestirte aquí —dijo Giselle—. La bata está en el gancho.
+
+El proceso de quitarse la ropa frente a Giselle fue otra capa de vergüenza. Bajarse la cremallera del vestido. Deslizarlo por sus caderas, revelando que no llevaba sujetador (el vestido no lo permitía) y que su tanga era un hilo dental rosa neón.
+
+Y luego los zapatos. Tuvo que sentarse para desabrochar las correas de los tobillos. Sus pies, liberados de la prisión de doce centímetros, latieron con alivio.
+
+—Primero la cera —anunció Giselle cuando Marco estuvo en la camilla, cubierto apenas por la bata corta—. Brazos, piernas, axilas, y zona íntima. La señora Elena me informó que quiere brasileño completo.
 
 *La señora Elena.* Giselle se refería a él en tercera persona. Hablaba de Elena como si fuera otra persona.
 
@@ -134,7 +152,9 @@ Era una muñeca. Un producto de spa empaquetado y listo para ser exhibido.
 
 —La señora Elena ya pagó —informó la recepcionista—. El coche la espera afuera.
 
-Marco caminó hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstáculos contra su clítoris.
+Marco tuvo que volver a ponerse el vestido minúsculo y los tacones de plataforma. El proceso fue aún más difícil ahora, con la piel sensible y las uñas largas. Pero cuando finalmente salió, caminando con cuidado sobre sus zancos de corcho, se sintió extrañamente poderosa.
+
+Caminó hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstáculos contra su clítoris.
 
 Cuando subió al BMW, Elena la examinó con ojo crítico.
 
@@ -142,7 +162,11 @@ Cuando subió al BMW, Elena la examinó con ojo crítico.
 
 Marco extendió las manos.
 
-—Perfectas. —Elena tomó una de sus manos y la besó—. Mañana volvemos. Tenemos cita con el cirujano.
+—Perfectas. —Elena tomó una de sus manos y la besó—. Y me encanta cómo te queda ese vestido. Deberías usarlo más seguido.
+
+—Es demasiado corto —protestó Marco.
+
+—Es perfecto. —Elena le puso una mano en el muslo desnudo—. Mañana volvemos. Tenemos cita con el cirujano.
 
 El corazón de Marco se detuvo.
 

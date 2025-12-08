@@ -8,7 +8,25 @@ Esa noche, Marco no pudo dormir.
 
 Estaba acostado en la cama matrimonial, mirando el techo, con los labios todavía palpitando del relleno y el cuerpo entero vibrando de sensaciones no deseadas.
 
-Elena dormía a su lado, ocupando la mayor parte del espacio. Había follado a Marco durante una hora antes de quedarse dormido, usándolo de todas las formas posibles, hasta dejarlo temblando y vacío.
+Incluso en la cama, no había descanso de la humillación.
+
+Elena había establecido una regla estricta para dormir: nada de pijamas cómodos. Nada de camisetas viejas.
+
+*"Una esposa debe ser hermosa las veinticuatro horas,"* había dicho.
+
+Así que Marco estaba embutido en un babydoll de seda negra con encaje en el busto. La tela era suave, pero el diseño era cruel: los tirantes finos se clavaban en sus hombros, el encaje picaba en sus pezones sensibles, y la falda corta se subía con cada movimiento, dejándolo expuesto.
+
+Y, por supuesto, no podía quitarse los zapatos.
+
+Elena le permitía quitarse los tacones de calle, pero exigía que usara "mules de alcoba". Zapatillas de tacón alto con plumas de marabú, diseñadas para caminar desde el tocador hasta la cama y nada más.
+
+Marco movió los pies bajo las sábanas. Los tacones de ocho centímetros rozaban contra la tela de algodón egipcio. Era absurdo. Era ridículo. Dormir con tacones.
+
+Pero cada vez que intentaba quitárselos, Elena se despertaba.
+
+*"Zapatos, Marco,"* murmuraba, medio dormido pero completamente autoritario. *"No quiero ver esos pies planos tocando mis sábanas."*
+
+Elena dormía a su lado, desnudo, ocupando la mayor parte del espacio. Había follado a Marco durante una hora antes de quedarse dormido, usándolo de todas las formas posibles, hasta dejarlo temblando y vacío.
 
 Marco había tenido tres orgasmos. Tres. Sin siquiera quererlos. Su cuerpo había traicionado cada gramo de resistencia mental, corriéndose alrededor de la polla de Elena como si estuviera diseñado para ello.
 
@@ -48,7 +66,7 @@ Marco parpadeó, volviendo al presente. Las lágrimas le corrían por las sienes
 
 Había construido esta prisión con sus propias manos. Había diseñado cada tortura. Cada procedimiento que lo humillaba había sido pagado por él, ejecutado bajo sus órdenes, aplicado a la mujer que ahora controlaba todo.
 
-Los implantes que le pesaban en el pecho. Los labios que le palpitaban de silicona. El piercing que lo mantenía perpetuamente al borde. Las uñas ridículas que hacían imposible cualquier tarea práctica.
+Los implantes que le pesaban en el pecho. Los labios que le palpitaban de silicona. El piercing que lo mantenía perpetuamente al borde. Las uñas ridículas que hacían imposible cualquier tarea práctica. Y ahora, esta obsesión con los tacones y la lencería que él mismo había fomentado.
 
 Todo había sido idea suya.
 
@@ -64,7 +82,7 @@ Karma.
 
 La palabra resonaba en su mente como una campana funeral.
 
-Se giró en la cama, intentando encontrar una posición cómoda. Los implantes se aplastaron contra el colchón, incómodos y pesados. Su cadera chocó contra la de Elena.
+Se giró en la cama, intentando encontrar una posición cómoda. Los implantes se aplastaron contra el colchón, incómodos y pesados. Su cadera chocó contra la de Elena. Sus tacones de plumas se enredaron en las sábanas.
 
 Elena gruñó en sueños y pasó un brazo pesado sobre su cintura, atrayéndolo hacia atrás.
 
@@ -84,7 +102,7 @@ Fue una emboscada de placer. Sin previo aviso, sin negociación, simplemente la 
 
 Marco gimió. No podía formar palabras. La lengua de Elena era experta —había tenido acceso a este cuerpo durante años, después de todo— y sabía exactamente dónde presionar, dónde lamer, dónde succionar.
 
-El orgasmo llegó en menos de dos minutos. Marco se arqueó sobre las sábanas, gritando algo que podría haber sido el nombre de Elena o podría haber sido una súplica de piedad.
+El orgasmo llegó en menos de dos minutos. Marco se arqueó sobre las sábanas, gritando algo que podría haber sido el nombre de Elena o podría haber sido una súplica de piedad. Sus tacones de plumas golpearon el colchón en un ritmo frenético.
 
 —Eso es —ronroneó Elena, limpiándose la boca—. Ahora estás despierta de verdad.
 

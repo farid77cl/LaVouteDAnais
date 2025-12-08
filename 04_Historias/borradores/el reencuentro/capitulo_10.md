@@ -16,13 +16,19 @@ Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlé
 
 Marco bajó las escaleras con piernas temblorosas. El bikini blanco era tan pequeño que cada paso era un acto de equilibrismo entre la modestia y la exposición total. El pareo transparente no ocultaba nada.
 
-Salieron a la terraza de la piscina. El agua brillaba azul turquesa bajo el sol de la tarde. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores imaginables.
+Y los tacones.
+
+Dios, los tacones.
+
+El sonido de sus plataformas transparentes resonaba en el mármol del vestíbulo. *Clic-clic-clic*. Cada paso era inestable, precario. Sentía que en cualquier momento se torcería un tobillo y caería al suelo como una muñeca rota.
+
+Salieron a la terraza de la piscina. El calor golpeó a Marco como una bofetada. El agua brillaba azul turquesa bajo el sol de la tarde. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores imaginables.
 
 Y Javier, de pie junto a la piscina, mirándolo acercarse.
 
 —¡Joder! —exclamó Javier, silbando—. Elena, estás... dios mío.
 
-Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas.
+Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas que parecían interminables gracias a los doce centímetros de acrílico transparente.
 
 —Gracias, Javi —dijo Marco, forzando la sonrisa que ya era automática.
 
@@ -42,11 +48,17 @@ Se sentaron en las tumbonas. Marco intentó cubrirse con el pareo, pero Elena se
 
 —Hace demasiado calor para eso, cariño.
 
-Quedó expuesto. El bikini diminuto. La piel bronceada. El piercing apenas visible como un pequeño bulto bajo la tela blanca.
+Quedó expuesto. El bikini diminuto. La piel bronceada. El piercing apenas visible como un pequeño bulto bajo la tela blanca. Y los zapatos, todavía puestos, brillando bajo el sol.
 
-Javier no paraba de mirarlo.
+—¿No te quitas los zapatos? —preguntó Javier, mirando sus pies con fascinación.
 
-La conversación fluyó. Negocios.Yates. Viajes. Marco bebía champán demasiado rápido, intentando anestesiar los nervios.
+—A Elena le gusta que los lleve puestos —respondió Marco, repitiendo la línea que le habían enseñado.
+
+—Y tiene razón. —Javier sonrió—. Hacen que tus piernas se vean increíbles. Y me gusta cómo arquean tu pie. Muy sexy.
+
+Marco sintió el rubor subirle por el cuello.
+
+La conversación fluyó. Negocios. Yates. Viajes. Marco bebía champán demasiado rápido, intentando anestesiar los nervios.
 
 —Oye, Marco —dijo Javier de repente—, me dejé las gafas de sol en el coche. ¿Puedes ir a buscarlas?
 
@@ -56,7 +68,7 @@ Elena se levantó.
 
 —No, no. —Javier lo detuvo con un gesto—. Quédate. Envía a Elena. Seguro que sabe dónde están.
 
-Marco miró a Elena, buscando una excusa, una salida.
+Marco miró a Elena, buscando una excusa, una salida. Caminar hasta el coche con esos tacones...
 
 Elena sonrió.
 
@@ -64,7 +76,7 @@ Elena sonrió.
 
 Y se fue.
 
-Marco se quedó helado. A solas con Javier. En bañador. En una piscina privada donde nadie podía verlos ni oírlos.
+Marco se quedó helado. A solas con Javier. En bikini y tacones de stripper. En una piscina privada donde nadie podía verlos ni oírlos.
 
 —Así que... —Javier se reclinó en su tumbona, mirándolo con esos ojos de lobo—, ¿cómo va todo, preciosa?
 
@@ -82,15 +94,15 @@ El corazón de Marco latía desbocado.
 
 —Javi... soy la esposa de tu mejor amigo.
 
-—Lo sé. —Javier le puso una mano en el muslo. Caliente. Posesiva—. Y eso lo hace más excitante.
+—Lo sabía. —Javier le puso una mano en el muslo. Caliente. Posesiva—. Y eso lo hace más excitante.
 
-Marco intentó apartarse, pero estaba atrapado entre el respaldo de la tumbona y el cuerpo de Javier.
+Marco intentó apartarse, pero estaba atrapado entre el respaldo de la tumbona y el cuerpo de Javier. Sus tacones resbalaron en el cojín de la tumbona, dejándolo en una posición vulnerable, con las piernas abiertas.
 
 —No —dijo, la voz temblando—. No quiero esto.
 
 —¿Estás segura? —Javier subió la mano, sus dedos rozando el borde del bikini—. Porque tu cuerpo dice otra cosa.
 
-Era verdad. Maldita sea, era verdad. El pierce estaba palpitando furiosamente. La adrenalina, el miedo, la proximidad de un cuerpo masculino... todo se mezclaba en una sopa de sensaciones que su cuerpo interpretaba como excitación.
+Era verdad. Maldita sea, era verdad. El piercing estaba palpitando furiosamente. La adrenalina, el miedo, la proximidad de un cuerpo masculino... todo se mezclaba en una sopa de sensaciones que su cuerpo interpretaba como excitación.
 
 —Javi, por favor...
 
@@ -136,7 +148,7 @@ Marco abrió la boca.
 
 La polla de Javier entró, caliente y salada, llenándole la boca con su grosor.
 
-Y Marco, la esposa perfecta, empezó a chupar.
+Y Marco, la esposa perfecta, empezó a chupar, con sus tacones transparentes brillando bajo el sol como testigos mudos de su caída final.
 
 ---
 

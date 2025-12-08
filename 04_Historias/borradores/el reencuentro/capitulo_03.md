@@ -102,23 +102,75 @@ Estaba empapado.
 
 Javier lo estaba mirando como carne, y Marco estaba mojado como una perra en celo.
 
-—No... —gimió, apoyando la frente contra la pared fría—. No, no, no...
+Se retocó el maquillaje con manos temblorosas, aplicándose más gloss en los labios para ocultar su nerviosismo. Respiró hondo tres veces. *Eres Marco Castellón*, se dijo a sí mismo. *Eres un hombre. No te dejes intimidar.*
 
-Pero los hechos eran los hechos. Su cuerpo había sido entrenado durante dos semanas para asociar la sumisión con el placer. Y ahora, en presencia de otro depredador masculino, ese entrenamiento estaba tomando el control.
+Pero cuando salió del baño, la realidad lo golpeó de frente.
 
-Cuando volvió a la mesa, con el maquillaje retocado y una sonrisa plástica en la cara, Javier y Elena estaban riendo de algo.
+Javier estaba allí.
 
-—Ahí está nuestra chica —dijo Javier, levantando su copa—. ¿Todo bien, preciosa?
+Estaba apoyado en la pared del pasillo estrecho que llevaba a los baños, bloqueando el camino. Tenía una mano en el bolsillo y la otra sosteniendo un cigarrillo apagado.
 
-—Perfecto —mintió Marco, sentándose otra vez.
+—Javi... —Marco se detuvo en seco.
+
+—Te tardaste, preciosa —dijo Javier, enderezándose. Su cuerpo llenaba el pasillo, grande, masculino, amenazante.
+
+—Solo estaba... retocándome.
+
+—No necesitas retoques. —Javier dio un paso hacia él. Marco retrocedió hasta que su espalda chocó contra la puerta del baño—. Estás perfecta. Jodidamente perfecta.
+
+Javier se acercó más, invadiendo su espacio personal hasta que Marco pudo oler el alcohol y el tabaco en su aliento. Puso una mano en la pared, justo al lado de la cabeza de Marco, acorralándolo.
+
+—Javi, por favor... Marco está esperando.
+
+—Marco está ocupado pidiendo otra botella —susurró Javier, bajando la mirada hacia el escote de Marco—. Y además... creo que a Marco no le importaría si su mejor amigo admira su propiedad.
+
+—Soy su esposa, Javier. No su propiedad.
+
+—¿Ah, no? —Javier sonrió, y fue una sonrisa cruel—. Porque la forma en que te mira... la forma en que te toca... dice otra cosa. Y la forma en que tú lo miras a él... —Javier se inclinó hasta que sus labios rozaron la oreja de Marco—, es la mirada de una mujer que sabe exactamente a quién pertenece.
+
+Marco se estremeció. El aliento caliente de Javier en su cuello envió una descarga eléctrica directa a su entrepierna. El piercing vibró violentamente.
+
+—Estás temblando —notó Javier, su voz bajando una octava—. ¿Te pongo nerviosa, Elena?
+
+—No...
+
+—Mentirosa. —La mano libre de Javier bajó y rozó la cadera de Marco. Solo un roce, pero fue suficiente para que las rodillas de Marco flaquearan—. Puedo olerte, ¿sabes? Hueles a sexo. Hueles a deseo.
+
+Javier presionó su cuerpo contra el de Marco. Marco pudo sentir la dureza en los pantalones de Javier. Una erección clara, innegable, presionando contra su vientre.
+
+—Javi... —gimió Marco, atrapado entre el miedo y una excitación traidora.
+
+—Dime que no te gusta —desafió Javier—. Dime que no te moja tener a dos hombres peleando por ti. Dime que no estás pensando en cómo se sentiría mi polla dentro de ti.
+
+Marco quería negarlo. Quería empujarlo y salir corriendo. Pero su cuerpo no le respondía. Sus pezones estaban duros contra el encaje del sostén. Su coño estaba palpitando.
+
+—No puedo... —susurró.
+
+Javier se separó lentamente, pero mantuvo la mirada clavada en los ojos de Marco.
+
+—Lo sabía. —Sonrió con satisfacción—. Eres una zorra, Elena. Una zorra preciosa y caliente. Y tarde o temprano... vas a ser mía también.
+
+Javier se dio la vuelta y caminó de regreso al comedor, dejando a Marco temblando en el pasillo, con el corazón desbocado y el piercing ardiendo entre las piernas.
+
+Cuando Marco finalmente logró recomponerse y volver a la mesa, Javier ya estaba sentado, riendo con Elena.
+
+—Ahí está nuestra chica —dijo Javier, levantando su copa—. ¿Todo bien, preciosa? Pareces un poco... acalorada.
+
+—Perfecto —mintió Marco, sentándose con las piernas temblorosas.
 
 Debajo del mantel, la mano de Elena volvió a posarse en su muslo.
 
 Esta vez, subió hasta tocar la tela mojada del tanga.
 
-Elena no dijo nada. Solo sonrió y siguió conversando con Javier.
+Elena no dijo nada. Solo sonrió y siguió conversando con Javier. Pero su pulgar empezó a trazar círculos sobre el encaje empapado, rozando el piercing a través de la tela.
 
-Pero su pulgar empezó a trazar círculos sobre el encaje empapado, rozando el piercing a través de la tela, mientras Marco se aferraba al borde de la mesa e intentaba no correrse delante de los dos hombres que ahora controlaban su destino.
+Y Marco se dio cuenta, con un horror absoluto, de que Elena sabía. Sabía lo que había pasado en el pasillo. O al menos, sabía que Javier lo había excitado.
+
+Y no le importaba.
+
+De hecho, parecía disfrutarlo.
+
+Marco se aferró al borde de la mesa, atrapado entre dos depredadores, intentando no correrse delante de los hombres que ahora controlaban su destino.
 
 ---
 

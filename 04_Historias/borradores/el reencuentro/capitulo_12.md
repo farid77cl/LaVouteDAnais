@@ -70,7 +70,25 @@ Marco no tenía respuesta para eso. Era verdad. Había sentido algo durante la d
 
 —¿Y qué soy?
 
-Elena se inclinó y lo besó en los labios, suave pero firme.
+Elena se levantó y caminó hacia el armario. Sacó algo.
+
+—Levántate —ordenó.
+
+Marco se levantó de la cama, desnudo, vulnerable.
+
+—Ponte esto.
+
+Era un vestido de ama de casa de los años 50. Falda amplia, cintura ajustada, estampado floral. Pero el escote era profundo, diseñado para mostrar el valle de sus pechos operados.
+
+Y los zapatos.
+
+Stilettos blancos de charol. Diez centímetros. Clásicos. Femeninos. Sumisos.
+
+Marco se vistió en silencio. El vestido se ajustó a su cintura como un guante. Los zapatos elevaron sus talones, forzando su postura a esa curva sumisa que ya era su segunda naturaleza.
+
+Se miró en el espejo. Parecía la esposa perfecta de un anuncio antiguo, pero con la sexualidad moderna y operada de una estrella porno.
+
+Elena se acercó por detrás, rodeando su cintura.
 
 —Eres mi esposa. Eres mía. Y vas a servir como yo diga, cuando yo diga, con quien yo diga. Esa es la nueva realidad.
 
@@ -92,18 +110,6 @@ Elena sonrió. No una sonrisa de victoria cruel, sino algo más suave. Algo casi
 
 —Eso es, mi amor. Eso es lo que quería oír.
 
-Se acostó a su lado y lo abrazó. Marco se acurrucó contra su pecho, sintiendo el calor masculino del cuerpo que había sido suyo, dejando que las lágrimas cayeran silenciosamente sobre la piel de Elena.
-
-—Javier viene de nuevo el próximo fin de semana —dijo Elena contra su pelo—. Y había pensado invitar a un par de amigos más.
-
-Marco cerró los ojos. El miedo seguía ahí. La vergüenza también. Pero debajo de todo, había algo nuevo.
-
-Aceptación.
-
-—Está bien —susurró.
-
-Y lo decía en serio.
-
 ---
 
 El espejo del baño reflejaba una mujer diferente.
@@ -118,7 +124,7 @@ Elena entró en el baño, ya vestido para el trabajo.
 
 —¿Lista para hoy?
 
-—¿Qué hay hoy? —preguntó Marco, aplicándose el labial.
+—¿Qué hay hoy? —preguntó Marco, terminando de aplicar su labial rojo perfecto.
 
 —Cena con Javier y los Fernández. Los de la constructora. Eduardo tiene curiosidad por conocer a mi esposa.
 
@@ -130,13 +136,17 @@ Eduardo Fernández. Otro tiburón empresarial. Otro hombre que miraría a Marco 
 
 —El que no cubre nada.
 
-—Exactamente. —Elena le besó el cuello—. Quiero que estés lista para cualquier cosa.
+—Exactamente. —Elena le besó el cuello—. Y los tacones de aguja negros. Los de catorce centímetros.
 
-Marco asintió. Sabía lo que "cualquier cosa" significaba. Había aprendido en los últimos meses.
+—Son muy altos para cenar —comentó Marco, pero ya estaba caminando hacia el armario.
 
-Pero ya no temblaba. Ya no lloraba. Simplemente... aceptaba.
+—Son perfectos para que no puedas correr.
 
-Cuando terminó de maquillarse, se miró una última vez en el espejo. La mujer que le devolvía la mirada era hermosa, sumisa y completamente rendida.
+Marco asintió. Sabía lo que eso significaba.
+
+Se vistió con la eficiencia de quien ha aceptado su destino. El vestido rojo se adhirió a su piel como una segunda capa. Los tacones elevaron su cuerpo, tensando cada músculo, preparándolo para ser admirado.
+
+Cuando terminó, se miró una última vez en el espejo. La mujer que le devolvía la mirada era hermosa, sumisa y completamente rendida.
 
 El hombre que había sido Marco Castellón había muerto en algún lugar entre el Caribe y esa piscina.
 

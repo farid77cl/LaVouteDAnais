@@ -16,7 +16,7 @@ Intentó levantar la cabeza, pero Javier lo mantuvo en su lugar con una mano en 
 
 Elena.
 
-Marco sintió que el mundo se derrumbaba. Intentó apartarse, pero Javier no lo soltó.
+Marco sintió que el mundo se derrumbaba. Intentó apartarse, pero Javier no lo soltó. Sus tacones transparentes resbalaron en el suelo de piedra, haciéndolo tambalearse.
 
 —Marco, tío —rió Javier, sin soltar la cabeza de Marco—. Tu mujer es una puta increíble. No pude resistirme.
 
@@ -46,15 +46,15 @@ Marco miró de uno a otro, paralizado de terror. ¿Qué estaba pasando? ¿Qué p
 
 Marco obedeció con piernas temblorosas. Las lágrimas le corrían por las mejillas, arruinando el maquillaje waterproof que había aplicado con tanto cuidado.
 
-—Quítate el bikini.
+—Quítate el bikini. Pero déjate los zapatos.
 
 Las manos de Marco temblaban mientras desataba las cuerdas. El top cayó, liberando sus pechos. El bottom siguió, dejando expuesto el piercing brillante entre sus piernas perfectamente depiladas.
 
-Estaba completamente desnudo frente a dos hombres que lo miraban como un pedazo de carne.
+Estaba completamente desnudo, excepto por los tacones de doce centímetros que brillaban bajo el sol.
 
-—Joder —susurró Javier, acariciándose la polla—. Mira ese cuerpo. Es perfecto.
+—Joder —susurró Javier, acariciándose la polla—. Mira ese cuerpo. Y esos zapatos... la hacen parecer una muñeca porno.
 
-—Lo diseñé yo —dijo Elena con orgullo—. Cada centímetro.
+—Lo diseñé yo —dijo Elena con orgullo—. Cada centímetro. Incluyendo el gusto por el calzado.
 
 Elena se acercó a Marco y lo besó profundamente. Su lengua invadió su boca mientras sus manos agarraban sus nalgas, apretándolas, separándolas.
 
@@ -64,7 +64,7 @@ Marco asintió, incapaz de formar palabras.
 
 —A cuatro patas —ordenó Elena—. En la tumbona.
 
-Marco obedeció. Se arrodilló en la tumbona, las manos apoyadas en el borde, el culo expuesto hacia los dos hombres.
+Marco obedeció. Se subió a la tumbona, sus tacones hundiéndose en el cojín blando, haciendo que su equilibrio fuera precario. Se puso a cuatro patas, el culo expuesto hacia los dos hombres, la espalda arqueada por la altura de los zapatos.
 
 Sintió una mano acariciándole la espalda. Luego otra en su cadera. No sabía cuál era de quién.
 
@@ -86,7 +86,7 @@ Marco gimió alrededor de la polla de Javier, un sonido que era mitad protesta y
 
 Y entonces Elena empujó.
 
-El dolor fue explosivo. Marco gritó —o intentó gritar, pero la polla de Javier ahogó el sonido— mientras sentía cómo su ano se estiraba alrededor de la polla de Elena.
+El dolor fue explosivo. Marco gritó —o intentó gritar, pero la polla de Javier ahogó el sonido— mientras sentía cómo su ano se estiraba alrededor de la polla de Elena. Sus manos se aferraron al borde de la tumbona, sus uñas francesas clavándose en la tela. Sus tacones patearon el aire inútilmente.
 
 —Mierda, qué apretada está —gruñó Elena, hundiéndose más profundo.
 
@@ -98,7 +98,7 @@ Y lo peor —lo más horrible de todo— era que el piercing seguía palpitando.
 
 —Nació para ello —rió Elena, aumentando el ritmo—. Yo me aseguré de eso.
 
-Marco perdió la noción del tiempo. Solo había sensaciones: la polla de Javier entrando y saliendo de su garganta, la polla de Elena martilleando su culo, el piercing vibrando sin descanso.
+Marco perdió la noción del tiempo. Solo había sensaciones: la polla de Javier entrando y saliendo de su garganta, la polla de Elena martilleando su culo, el piercing vibrando sin descanso, y la presión constante de los tacones que mantenían su cuerpo en esa posición de sumisión absoluta.
 
 En algún momento —no supo cuándo— empezó a correrse.
 
@@ -114,7 +114,7 @@ Elena se corrió primero, llenando el culo de Marco con chorros calientes de sem
 
 Javier siguió segundos después, inundando su garganta por segunda vez ese día.
 
-Marco se derrumbó sobre la tumbona, temblando, llorando, completamente destruido.
+Marco se derrumbó sobre la tumbona, temblando, llorando, completamente destruido. Sus tacones colgaban del borde, todavía brillantes, todavía perfectos.
 
 Cuando finalmente pudo enfocar la vista, vio a Elena y Javier chocando los puños sobre su cuerpo usado.
 

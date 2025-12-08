@@ -52,33 +52,39 @@ No había discusión. Nunca la había.
 
 Las siguientes horas fueron de preparación.
 
-Primero el bikini. Era obsceno: dos triángulos diminutos que apenas cubrían sus pezones, unidos por cuerdas que se ataban en la nuca y la espalda. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía completamente entre sus nalgas.
+El ritual de vestirse para la piscina fue tan elaborado como para una boda.
 
-Cuando Marco se lo puso frente al espejo, casi no reconoció su cuerpo.
+—Primero esto —dijo Elena, lanzándole el bikini.
 
-Parecía una modelo de Pornhub. No, peor. Parecía algo que Marco habría guardado en su carpeta secreta de fantasías cuando era hombre.
+Era obsceno: dos triángulos diminutos de tela blanca que apenas cubrían sus pezones, unidos por cuerdas que se ataban en la nuca y la espalda. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía completamente entre sus nalgas.
 
-—No puedo salir así —dijo, la voz temblándole—. Elena, esto es...
+Marco se lo puso con manos temblorosas. La tela blanca contrastaba violentamente con su piel bronceada. El piercing brillaba a través de la tela fina, marcando un bulto metálico en su entrepierna.
 
-—Es exactamente lo que le hacías usar a mi cuerpo. —Elena apareció detrás de él, ya vestido con un bañador de hombre y camiseta abierta—. ¿Recuerdas los bikinis que me comprabas? "Son de moda", decías. "Todas las chicas los usan en Miami."
+—Ahora el maquillaje —ordenó Elena.
 
-Marco recordaba. Por supuesto que recordaba.
+—¿Maquillaje para la piscina?
 
-*"No seas mojigata, Elena. Es solo piel."*
+—Siempre. Quiero que estés perfecta incluso bajo el agua.
 
-Solo piel. Y ahora esa piel era la suya, expuesta para el ojo hambriento de Javier.
-
-—Estás precioso —dijo Elena, besándole el cuello—. Ahora maquíllate. Algo ligero, de piscina. Pero que tu boca destaque.
-
-Marco obedeció.
-
-Frente al espejo del tocador, aplicó hidratante con color, corrector bajo las ojeras, un poco de bronceador en polvo para resaltar los pómulos. Rímel waterproof para que sus pestañas aguantaran el agua. Y un gloss rosa brillante que hacía que sus labios recién rellenados parecieran dos golosinas listas para ser comidas.
+Marco se sentó frente al tocador. Aplicó una base ligera pero cubriente, corrector bajo las ojeras, bronceador en polvo para resaltar los pómulos afilados. Rímel waterproof para que sus pestañas aguantaran el agua. Y un gloss rosa brillante que hacía que sus labios recién rellenados parecieran dos golosinas listas para ser comidas.
 
 Sus uñas francesas brillaban mientras trabajaba. Eran tan largas que cada tarea costaba el doble, pero ya había aprendido a adaptarse.
 
-Cuando terminó, parecía lo que era: una esposa trofeo preparada para ser exhibida en la piscina.
+—Y ahora, lo más importante —dijo Elena, sacando una caja del armario.
 
-Elena le puso un pareo transparente alrededor de las caderas y sandalias de tacón bajo.
+Tacones.
+
+Sandalias de tacón transparente, de doce centímetros, con plataforma de acrílico. Las mismas que había usado en la luna de miel. Las mismas que habían acortado sus tendones hasta hacer imposible caminar descalza.
+
+—Elena, vamos a estar en el jardín. Los tacones se van a hundir en el césped.
+
+—Entonces caminarás con cuidado. O te quedarás en el borde de la piscina. Pero no vas a recibir a Javier descalza como una campesina.
+
+Marco se sentó en la cama para ponérselas. Deslizó sus pies en el plástico transparente. Ajustó las correas. Se puso de pie.
+
+Su altura cambió. Su postura cambió. Su trasero se levantó, su pecho se proyectó hacia adelante. Era la postura de una muñeca sexual, lista para ser usada.
+
+Elena le puso un pareo transparente alrededor de las caderas, que no ocultaba nada pero añadía una capa de "modestia" irónica.
 
 —Perfecta —dictaminó—. Javier va a estar muy impresionado.
 
@@ -87,6 +93,8 @@ Marco quería preguntar qué significaba eso exactamente. Por qué importaba tan
 Pero no preguntó.
 
 Algo le decía que iba a averiguarlo pronto.
+
+Salió al jardín, sus tacones haciendo *clic-clic-clic* en las baldosas de la terraza, sintiendo el sol en su piel expuesta y el piercing palpitando con anticipación nerviosa.
 
 ---
 
