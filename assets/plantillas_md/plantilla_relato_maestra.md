@@ -58,7 +58,7 @@ EJEMPLOS DE MAL RESUMEN:
 
 
 ═══════════════════════════════════════════════════════════════════════════════
-                            NOTA DE LA AUTORA
+                           
 ═══════════════════════════════════════════════════════════════════════════════
 
 [INSTRUCCIONES: Esta nota debe ser ÚNICA para cada relato. Varía el tono y el 
