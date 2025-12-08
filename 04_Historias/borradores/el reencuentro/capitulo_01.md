@@ -4,151 +4,171 @@
 
 ---
 
-El espejo del baño no mentía. Nunca lo hacía.
+El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
 
-Marco se miraba en el reflejo con esa mezcla nauseabunda de horror y resignación que se había vuelto su compañera constante. Dos semanas en el Caribe. Dos semanas de sol, arena, y la demolición sistemática de todo lo que alguna vez creyó ser.
+O lo que ahora era Marco.
 
-Estaba bronceado.
+Se miraba las manos —manos pequeñas, manicuradas, con un anillo de diamantes en el dedo anular— y luego miraba al hombre sentado frente a él. El hombre que tenía su cara, sus hombros, sus manos.
 
-*Bronceado*. La palabra le sabía a derrota en la lengua.
+—No... no puede ser —susurró Marco, y su voz fue ese tono suave y femenino que odiaba—. Tenemos que ir al hospital. O a la policía. O...
 
-La piel que ahora habitaba había absorbido el sol tropical como una esponja. Un tono dorado y uniforme cubría cada centímetro, cada curva, cada valle. Las marcas del bikini eran obscenas en su minimalidad: dos triángulos blancos sobre unos pechos que pesaban como condenas, y una franja diminuta en la ingle que apenas cubría lo esencial.
+—¿Y decirles qué? —La voz de Elena era grave, tranquila, terroríficamente suya—. ¿"Hola, oficial, mi esposo y yo cambiamos de cuerpo mágicamente durante la noche de bodas"? Nos encerrarían en un psiquiátrico, Marco. A los dos.
 
-Y más abajo, donde la tela había protegido la piel del sol, el piercing en su clítoris brillaba como un pequeño ojo acusador.
+Elena se levantó y caminó hacia el espejo. Se tocó la cara —la cara de Marco— con una fascinación narcisista. Se pasó la mano por el pecho, por los abdominales, y luego bajó hacia la entrepierna, ajustándose el bulto que ahora tenía allí.
 
-Cada vez que se movía —cada maldito paso, cada giro de cadera— ese pequeño aro de metal rozaba la carne hipersensible y enviaba una descarga eléctrica desde su entrepierna hasta la base de su cráneo. Era imposible escapar. Era imposible olvidar lo que era ahora. El placer no deseado era una tortura constante, un recordatorio carnal de que este cuerpo respondía a estímulos que su mente masculina rechazaba.
+—Además... —Elena sonrió, y fue una sonrisa que Marco nunca había visto en su propia cara—, no estoy segura de querer arreglarlo.
 
-Y luego estaban los tacones.
+—¿Qué? —Marco sintió un frío helado en el estómago—. ¿De qué estás hablando? ¡Tenemos que volver! ¡Yo tengo una empresa! ¡Tengo una vida!
 
-Desde el primer día del intercambio, Elena le había prohibido usar zapatos planos.
+—Teníamos una vida —corrigió Elena—. Y ahora tenemos otra.
 
-*"Este cuerpo fue diseñado para tacones,"* había dicho Elena aquella primera mañana terrible. *"Tú te aseguraste de eso. Todo: la postura, las pantorrillas, el arco de los pies. Se ve mal en planos. Así que vas a usar tacones. Siempre. En la piscina. En la playa. En el supermercado. Siempre."*
+Se giró hacia Marco, irradiando una autoridad nueva, amplificada por la testosterona que ahora corría por sus venas.
 
-Los tacones actuales eran de cuatro pulgadas, transparentes como el cristal, con plataforma de acrílico que hacían que sus pies parecieran flotar. Tacones de stripper. Tacones diseñados para que las miradas subieran por sus piernas interminables hasta detenerse en su trasero respingón.
+—Escúchame bien, Marco. Nadie nos va a creer. Nadie va a entenderlo. La única opción que tenemos es seguir adelante. Vamos a ir a nuestra luna de miel. Vamos a sonreír. Vamos a fingir que somos la pareja perfecta que todos creen que somos.
 
-No podía caminar sin ellos. Literalmente. Después de dos semanas de uso constante, sus tendones se habían acortado. Cuando intentaba dar un paso descalzo, el dolor en las pantorrillas era insoportable.
+—¿Fingir? ¿Cómo voy a fingir ser tú? ¡No sé ser una mujer!
 
-Estaba físicamente atrapado en zapatos de puta.
+Elena se acercó a él. La diferencia de altura era intimidante. Marco se sintió pequeño, frágil, ridículamente vulnerable en su camisón de seda.
 
-Marco recordó el primer día en el resort, cuando Elena le mostró los bikinis y estableció las reglas.
-
----
-
-*Elena había abierto la maleta sobre la cama de la suite de luna de miel. Dentro, perfectamente doblados, había seis bikinis. Seis. Cada uno más pequeño y escandaloso que el anterior.*
-
-*"Mira lo que te compré," dijo Elena, sacándolos uno por uno y extendiéndolos sobre la colcha blanca.*
-
-*Plateado brillante. Dorado metálico. Rosa neón. Rojo sangre. Blanco virginal. Negro azabache.*
-
-*Cada uno era básicamente tres triángulos unidos por cuerdas. Ninguno cubría más que lo estrictamente necesario.*
-
-*"Yo... Elena, estos son..." Marco no encontraba las palabras.*
-
-*"Son tus nuevos trajes de baño," dijo Elena con calma letal. "Los elegí especialmente para ti. Pasé horas buscando los más pequeños, los más reveladores, los más humillantes."*
-
-*"Pero Elena usaba bikinis más grandes que esto."*
-
-*"Exacto." Elena sonrió. "Elena usaba bikinis normales porque Elena tenía vergüenza, tenía pudor, tenía dignidad. Tú me quitaste todo eso a lo largo de los años, obligándome a usar cosas cada vez más reveladoras. 'Tienes un cuerpo increíble, muéstralo. No seas mojigata.' ¿Recuerdas eso?"*
-
-*Marco recordaba. Cada palabra.*
-
-*"Bueno, ahora estos son TUS bikinis." Elena tomó el plateado y lo sostuvo frente a él. "Este te lo pondrás mañana. Y vas a caminar hasta la piscina con él, en tacones transparentes de cuatro pulgadas, completamente maquillada, como si fueras a una sesión de fotos."*
-
-*"¿Maquillada? ¿A la piscina?"*
-
-*"A la piscina. Al desayuno. A la cena. A todas partes." Elena dejó el bikini y se acercó a él, invadiendo su espacio. "Voy a decirte exactamente cómo vestir. Qué ponerte. Cuánto maquillaje usar. Cómo caminar. Cómo sentarte. Cómo sonreír cuando los hombres te miren."*
-
-*"No puedes..."*
-
-*"Sí puedo. Y lo voy a hacer." Elena le tomó la barbilla con fuerza. "Porque eso es lo que tú me hacías a mí. Cada mañana me decías qué ponerme. Cada noche me criticabas si no estaba 'suficientemente arreglada'. Me convertiste en tu muñeca. Ahora es tu turno."*
-
-*Marco sintió un escalofrío recorrerle la espalda. Y luego, para su horror absoluto, sintió otra cosa: el piercing en su clítoris palpitó, enviando una ola de calor húmedo entre sus piernas.*
-
-*"Estás mojado," observó Elena, su sonrisa ensanchándose. "Lo huelo. El cuerpo que robaste está mojándose porque te estoy humillando."*
-
-*"No... no es..."*
-
-*"Cada mañana te voy a decir exactamente cómo quiero que te veas. Qué bikini usar. Qué tacones. Cuánto brillo en los labios. Y tú vas a obedecer sin cuestionar. ¿Entendido?"*
-
-*Marco asintió, incapaz de resistir.*
-
-*"Y cuando estemos en público, vas a actuar exactamente como yo te diga. Vas a sonreír cuando te lo ordene. Vas a reír de los chistes malos cuando te lo ordene. Vas a cruzar las piernas, acomodarte el pelo, morderte el labio... todo cuando yo te lo ordene. Vas a ser la esposa trofeo perfecta que siempre quisiste que yo fuera."*
-
-*Las lágrimas empezaron a caer por las mejillas de Marco.*
-
-*"Y lo peor de todo, cariño..." Elena se inclinó hasta que sus labios rozaron su oído, "es que vas a empezar a disfrutarlo. Tu cuerpo te va a traicionar. Cada mirada de deseo, cada silbido, cada mano que te roce 'accidentalmente'... va a mojarte más. Y yo voy a estar ahí para verlo."*
+—Vas a aprender —dijo Elena, tomándole la barbilla—. Yo te voy a enseñar. Te voy a enseñar a caminar, a hablar, a vestirte. Vas a ser la esposa perfecta que siempre quisiste que yo fuera. Y yo... —Elena se miró las manos grandes y fuertes—, yo voy a ser el hombre que tú nunca supiste ser del todo.
 
 ---
 
-Y había sido exactamente así.
+Dos días después, en el resort de Punta Cana, la educación había comenzado.
 
-Dos semanas de bikinis microscópicos, rotando entre el plateado, el dorado, el rosa, el rojo, el blanco y el negro según el antojo de Elena cada mañana. Dos semanas de tacones transparentes en la arena, en las baldosas de la piscina, en el mármol del restaurante del resort. Dos semanas de maquillaje completo a las ocho de la mañana solo para ir a desayunar.
+Y era brutal.
 
-Elena le decía todo. *"Usa el dorado hoy, combina con tus pendientes." "Más brillo en los labios." "Cuando ese hombre te mire, le sonríes y te acomodas el pelo." "Cruza las piernas así, no así." "Cuando te sientes, arquea la espalda para que tus tetas se noten más."*
+—Más alto —ordenó Elena desde la tumbona.
 
-Y Marco obedecía. A cada orden. A cada instrucción.
+Marco estaba de pie en la arena, bajo el sol abrasador del mediodía. Llevaba el bikini dorado: tres triángulos de tela metálica que brillaban como espejos, atados con hilos dentales que se clavaban en sus caderas.
 
-Las miradas habían sido constantes. Implacables.
+Y los tacones.
 
-Hombres que lo devoraban con los ojos mientras caminaba hacia la tumbona, sus tacones haciendo clic-clic-clic contra las baldosas, su trasero moviéndose como un metrónomo hipnótico. Mujeres que lo juzgaban con desprecio, susurrando "puta" y "desesperada" cuando creían que no podía oírlas.
+Tacones transparentes de cuatro pulgadas. En la arena.
 
-Y Marco no podía hacer nada. Cada vez que intentaba cubrirse un poco más —un pareo, una camiseta— Elena se lo quitaba.
+—Me hundo —gimió Marco, tratando de mantener el equilibrio. Sus pantorrillas ardían. Sus tobillos temblaban.
 
-*"Te dije que usaras solo el bikini negro hoy. ¿Dónde está el pareo?"*
+—Ese es el punto —dijo Elena, bebiendo su mojito—. Tienes que aprender a caminar sobre cualquier superficie sin perder la elegancia. Arquea la espalda. Saca el culo. Quiero ver esas tetas apuntando al cielo.
 
-*"Hace frío..."*
+Marco obedeció. Arqueó la espalda hasta que le dolió. Sus pechos —esos implantes pesados que él mismo había pagado— se proyectaron hacia adelante, ofreciéndose a la vista de todos.
 
-*"Dame el pareo. Ahora."*
+Podía sentir las miradas. Hombres en otras tumbonas bajando sus gafas de sol. Camareros deteniéndose con bandejas en la mano. Mujeres susurrando detrás de sus manos.
 
-Y Marco se lo daba. Porque la alternativa era peor. Porque Elena controlaba todo. Y porque, muy en el fondo, el piercing seguía palpitando cada vez que obedecía.
+—Todo el mundo mira —susurró Marco, sintiendo la vergüenza quemarle la cara bajo la capa de maquillaje perfecto que Elena le había obligado a aplicar antes de salir.
 
-Ahora, de vuelta en casa después de la luna de miel, nada había cambiado.
+—Por supuesto que miran. —Elena se levantó y caminó hacia él. Su cuerpo masculino era imponente en bañador—. Eres espectacular. Eres una muñeca sexual de tamaño real caminando por la playa. ¿Por qué no mirarían?
 
-Marco se tocó el vientre plano, las costillas que se marcaban bajo la piel bronceada, las caderas que estallaban hacia afuera. Recordaba haber admirado este cuerpo. Recordaba haberlo deseado. Recordaba haber pagado por cada curva, cada implante, cada inyección.
+Elena le pasó un brazo por la cintura, posesiva, marcando territorio. Su mano grande bajó hasta apretar una de las nalgas de Marco, hundiendo los dedos en la carne expuesta por el tanga minúsculo.
 
-Ahora era suyo.
+—Y lo mejor de todo —susurró Elena en su oído—, es que te gusta.
 
-Y lo odiaba. Y lo deseaba. Y no sabía dónde terminaba una cosa y empezaba la otra.
+—No... no me gusta.
 
-La sensibilidad de esta piel era abrumadora. Cada textura era amplificada: la suavidad de las sábanas contra sus muslos desnudos, el roce del agua tibia en la ducha deslizándose entre sus pechos, el peso constante de esos implantes de silicona tirando de su espalda. Todo era más intenso de lo que recordaba ser como hombre. Como si alguien hubiera subido el volumen de cada nervio.
+—Mentirosa. —Elena movió la mano hacia adelante, rozando la entrepierna del bikini—. ¿Qué es esto entonces?
 
-Y los tacones. Dios, los tacones.
+Marco cerró los ojos. El piercing. El maldito piercing del clítoris estaba palpitando contra la tela mojada por su propia excitación.
 
-Incluso ahora, de pie frente al espejo del baño, los llevaba puestos. Cuatro pulgadas de plástico transparente que arqueaban su espalda, levantaban su culo, y mantenían sus pantorrillas en tensión permanente.
+—Es... es el roce...
 
-Ya no recordaba cómo se sentía caminar sin ellos.
+—Es sumisión, Marco. Tu cuerpo sabe quién manda ahora.
 
-—¿Sigues mirándote?
+---
 
-La voz vino desde la puerta del baño. Grave. Masculina. Su voz. La voz de Marco, saliendo de la boca de Elena, habitando su cuerpo con una naturalidad que lo enfermaba.
+Esa noche, en la suite, la lección continuó.
 
-Elena entró sin pedir permiso. Llevaba pantalones de vestir y una camisa blanca con los primeros botones abiertos. El cuerpo de Marco —alto, ancho de hombros, seguro— se movía con una gracia que él nunca había tenido.
+Elena lo había obligado a ponerse el conjunto negro: liguero, medias, y unos tacones de charol de seis pulgadas que hacían que caminar fuera un acto de fe.
 
-—Tenemos una hora antes de la fiesta —continuó Elena, acercándose por detrás—. Y tú... —una mano se posó en su cadera, caliente a través de la toalla—, todavía estás desnuda.
+—A la cama —ordenó Elena.
 
-Marco se estremeció. El contacto. Siempre el contacto. Durante dos semanas no había habido un momento sin él. Elena lo tocaba cuando quería, donde quería, como quería. Y su cuerpo respondía cada vez.
+Marco se tumbó boca arriba, esperando lo inevitable. Esperando que Elena se subiera encima y terminara rápido.
 
-La mano de Elena subió por su costado, rozando la curva de su pecho, y Marco sintió cómo sus pezones se endurecían instantáneamente contra la toalla. La sensación fue eléctrica, vergonzosa, involuntaria.
+Pero Elena tenía otros planes.
 
-—Tan sensible —murmuró Elena contra su oído—. Me encanta lo rápido que reacciona tu cuerpo. ¿Sientes el piercing?
+—Boca abajo.
 
-Como si lo invocaran, el pequeño aro de metal palpitó con el latido de su corazón, enviando otra ola de calor húmedo entre sus piernas.
+Marco se giró. Enterró la cara en la almohada, sintiendo el aire acondicionado frío en su espalda desnuda y en su culo expuesto.
 
-—Sí —admitió Marco, derrotada.
+Sintió el peso de Elena sobre la cama. Luego, sus manos. Manos fuertes, masculinas, separando sus nalgas sin ninguna delicadeza.
 
-—Bien. Eso te mantendrá... alerta durante la fiesta. —Elena le mordió el lóbulo de la oreja—. Ahora vístete. Te he dejado el conjunto en la cama. Y escúchame bien: esta noche llevarás el vestido negro, el tanga de encaje, los tacones de charol de seis pulgadas. Te maquillarás con labios rojos y ojos ahumados. Y cuando entremos al restaurante, vas a caminar dos pasos detrás de mí, con la espalda recta y la sonrisa perfecta. ¿Entendido?
+—Tienes un culo precioso, esposa mía —murmuró Elena—. Siempre me gustó. Pero ahora... ahora es mío de una forma que nunca imaginé.
 
-—Entendido —susurró Marco.
+Un dedo, lubricado con aceite, presionó contra su entrada.
 
-—Así me gusta. —Elena le dio una palmada en el trasero—. Ahora muévete. No quiero llegar tarde.
+Marco se tensó.
 
-Marco caminó hacia el dormitorio en sus tacones transparentes, sintiendo cada paso en el balanceo de sus caderas, en el peso de sus pechos, en el roce del piercing contra su carne hinchada. Se sentía como un animal en celo, perpetuamente excitado y perpetuamente avergonzado de estarlo.
+—Relájate —ordenó Elena, y no fue una sugerencia. Fue un comando—. O te dolerá.
 
-Y mientras se maquillaba frente al espejo, siguiendo las instrucciones exactas de Elena, se dio cuenta de que ya no se preguntaba si esto terminaría algún día.
+Marco intentó respirar. Intentó relajar los músculos que se cerraban por instinto. El dedo entró. Lento. Invasivo. Estirándolo.
 
-Porque sabía la respuesta.
+—Eso es. —Elena empezó a bombear con el dedo, preparando el camino—. Eres tan estrecha. Tan... femenina.
 
-Y su cuerpo, traidor y mojado y palpitante, estaba empezando a aceptarla.
+—Elena, por favor... —gimió Marco.
+
+—¿Por favor qué? ¿Por favor para? ¿O por favor fóllame?
+
+Marco no respondió. No podía.
+
+Elena retiró el dedo. Hubo un momento de pausa, solo el sonido de un envoltorio rasgándose. Y luego, la presión de algo mucho más grande.
+
+La polla. Su polla. La carne que había sido su orgullo, su símbolo de poder, ahora convertida en el instrumento de su propia dominación.
+
+—Voy a entrar —avisó Elena.
+
+Y empujó.
+
+Marco gritó contra la almohada. El dolor fue agudo, desgarrador. Se sintió lleno, estirado más allá de lo posible.
+
+—Joder —gruñó Elena—. Joder, qué apretada.
+
+Elena empezó a moverse. Embestidas largas, profundas, implacables.
+
+Marco se aferró a las sábanas, sus uñas francesas —recién hechas esa mañana en el spa del resort— clavándose en la tela.
+
+Y entonces, sucedió.
+
+Con cada embestida de Elena, el cuerpo de Marco se sacudía. Y con cada sacudida, sus muslos rozaban, la cama rozaba, todo rozaba contra el piercing.
+
+El dolor en su culo se mezcló con la electricidad en su clítoris.
+
+—Ah... ah... —los gritos de dolor se convirtieron en gemidos confusos.
+
+Elena lo notó. Por supuesto que lo notó.
+
+—¿Te gusta, perra? —Elena le agarró el pelo, tirando de su cabeza hacia atrás, obligándolo a arquearse más—. ¿Te gusta que tu marido te use como a una puta?
+
+—Sí... —sollozó Marco, porque era la verdad. Su cuerpo estaba en llamas. Su mente estaba rota. Solo existía esto: la polla dentro de él, el piercing vibrando, la voz de Elena en su oído.
+
+—Dilo. Di "soy tu puta".
+
+—Soy... soy tu puta...
+
+—Di "me encanta tu polla en mi culo".
+
+—Me encanta... ah, Dios... me encanta tu polla...
+
+Elena aumentó el ritmo. Brutal. Animal. Reclamando su propiedad con cada golpe de cadera.
+
+Marco sentía cómo su resistencia se desmoronaba. Ya no era Marco Castellón, el empresario exitoso. Era este cuerpo. Era estos agujeros. Era esta necesidad desesperada de ser llenado y poseído.
+
+El orgasmo lo golpeó de repente. Sin que nadie lo tocara. Solo por la fricción interna, por la humillación, por la intensidad absoluta del momento.
+
+Se corrió gritando, su cuerpo convulsionando alrededor de la polla de Elena.
+
+Y segundos después, Elena lo siguió, gruñendo su nombre —"Elena"— mientras se vaciaba dentro de él.
+
+Cuando terminaron, Marco quedó tendido en la cama, temblando, con el maquillaje corrido y el semen goteando de su interior.
+
+Elena se dejó caer a su lado, sudoroso y satisfecho.
+
+—¿Ves? —dijo, pasándole un brazo por los hombros—. Te dije que te gustaría.
+
+Marco no dijo nada. Solo cerró los ojos y sintió cómo el piercing, todavía sensible, pulsaba suavemente entre sus piernas.
+
+Sabía que esto era solo el principio.
+
+Quedaban diez días de luna de miel. Diez días de bikinis, tacones, maquillaje y lecciones.
+
+Y por primera vez, Marco no estaba seguro de querer que terminaran.
 
 ---
 
