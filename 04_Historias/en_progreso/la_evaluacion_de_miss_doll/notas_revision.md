@@ -1,3 +1,4 @@
 # Notas de Revisión - La Evaluación de Miss Doll
 
 capitulo 2, miss doll hace que use durante la noche la lencería, y que pasa con la esposa? ya se estableció que Roberto tiene una esposa, debe presentar resistencia y luego en la depilación también debe haber resistencia dónde miss doll lo extorsiona y va agregando la nueva información sobre la lencería 
+capítulo 3, le falta las tensión psicológica, Roberto está avanzando muy rápido y está aceptando todo muy fácilmente, debe haber tensión, miss doll lo debe quebrar paso a paso. tampoco hay preocupaciones de Roberto por el que dirán, si lo descubren, depilado y lencería, se supone que está en la oficina, debe interactuar con sus compañeros y lo pueden descubrir, esa tensión debe existir. recuerda que es un thriller 
