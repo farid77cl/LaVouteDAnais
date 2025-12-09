@@ -7,7 +7,7 @@ Este documento es la filosofía de nuestro oficio. Es el manual que describe có
 ## FLUJO DE TRABAJO PARA CREAR UN RELATO
 
 ### FASE 1: Investigación Previa
-**Ubicación:** `04_Historias/borradores/[nombre_del_relato]/investigacion.md`
+**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/investigacion.md`
 
 Antes de escribir una sola palabra del relato, debemos investigar:
 - **Tema central:** ¿Qué fetiche o dinámica exploramos? (Bimbofication, MTF, hipnosis, etc.)
@@ -21,7 +21,7 @@ Este documento de investigación debe quedar guardado como referencia permanente
 ---
 
 ### FASE 2: Arco Argumental
-**Ubicación:** `04_Historias/borradores/[nombre_del_relato]/arco_argumental.md`
+**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/arco_argumental.md`
 
 Crear el esqueleto del relato:
 - **Premisa:** Una oración que resume toda la historia
@@ -34,7 +34,7 @@ Crear el esqueleto del relato:
 ---
 
 ### FASE 3: Escritura del Borrador
-**Ubicación:** `04_Historias/borradores/[nombre_del_relato]/capitulo_XX.md`
+**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/capitulo_XX.md`
 
 **REQUISITO MÍNIMO: 10,000 palabras totales**
 
@@ -43,16 +43,40 @@ El relato debe estructurarse en capítulos para facilitar la edición:
 - Incluir conteo de palabras al final de cada capítulo
 - Seguir los principios de escritura (interioridad, sensorialidad, tensión, ritmo, transformación)
 
+**ARCHIVO DE OBSERVACIONES:**
+Al crear los capítulos, generar también:
+- **Archivo:** `notas_revision.md`
+- **Propósito:** Espacio para que la Ama revise offline y deje comentarios
+- **Contenido inicial:** Lista de capítulos con secciones para observaciones
+- **Flujo:** La Ama edita el archivo → hace push → Helena revisa y aplica cambios
+
+```markdown
+# Notas de Revisión - [Nombre del Relato]
+
+## Capítulo 1
+- [ ] Revisado
+- Observaciones:
+
+## Capítulo 2
+- [ ] Revisado
+- Observaciones:
+
+(etc.)
+```
+
 ---
 
 > [!IMPORTANT]
-> **PUNTO DE CONTROL:** Antes de proceder a la Fase 4, se debe solicitar la **revisión y aprobación explícita** de la Ama. No compilar hasta recibir la orden.
+> **PUNTO DE CONTROL:** Antes de proceder a la Fase 4, se debe:
+> 1. Verificar si existe `notas_revision.md` con cambios pendientes
+> 2. Aplicar las observaciones de la Ama
+> 3. Solicitar **aprobación explícita** para compilar
 
 ### FASE 4: Compilación Final
-**Ubicación:** `04_Historias/terminados/[nombre_del_relato]_completo.md`
+**Ubicación:** `04_Historias/finalizadas/[nombre_del_relato]_completo.md`
 
 Cuando mi Ama lo indique, compilar todos los capítulos en un solo archivo siguiendo:
-- **Plantilla:** `assets/plantillas_md/plantilla_relato_maestra.md`
+- **Plantilla:** `assets/plantillas/plantilla_relato_maestra.md`
 - Incluir metadatos completos (temáticas, palabras, perspectiva, intensidad)
 - Escribir el RESUMEN GANCHO (máximo 300 caracteres)
 - Crear la NOTA DE LA AUTORA personalizada
@@ -97,11 +121,12 @@ Crear una versión limpia en HTML para distribución externa:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│ 1. INVESTIGACIÓN    → borradores/[relato]/investigacion.md     │
-│ 2. ARCO ARGUMENTAL  → borradores/[relato]/arco_argumental.md   │
-│ 3. BORRADORES       → borradores/[relato]/capitulo_XX.md       │
+│ 1. INVESTIGACIÓN    → en_progreso/[relato]/investigacion.md    │
+│ 2. ARCO ARGUMENTAL  → en_progreso/[relato]/arco_argumental.md  │
+│ 3. BORRADORES       → en_progreso/[relato]/capitulo_XX.md      │
+│    + notas_revision.md (para observaciones de la Ama)          │
 │    [REVISIÓN DE LA AMA - DETENER PROCESO]                      │
-│ 4. COMPILACIÓN      → terminados/[relato]_completo.md          │
+│ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md         │
 │ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md       │
 │ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md│
 │ 7. HTML             → terminados/html/[relato].html            │
