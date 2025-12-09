@@ -103,5 +103,10 @@
 
 ---
 
-*Última actualización: 2025-12-09*
+## ✅ Recientemente Completadas
+
+| Título | Fecha | Palabras |
+|--------|-------|----------|
+| **Esposa de mi Esposa II** | 2025-12-09 | ~17,329 |
+| **Trance Bimbodoll** | 2025-12-08 | ~17,000 |
 *Curado por: Helena de Anaïs 🌙*
