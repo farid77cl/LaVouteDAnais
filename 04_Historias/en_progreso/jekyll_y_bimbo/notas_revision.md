@@ -48,7 +48,7 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ### Capítulo 1: El Experimento
 - [ ] Revisado
-- Observaciones:
+- Observaciones: me faltan más detalles de la primera penetración de lo que siente, de lo que hace. las consecuencias de la noche anterior, anda de vestido y tacones? cómo vuelve
 
 ### Capítulo 2: La Adicción
 - [ ] Revisado
