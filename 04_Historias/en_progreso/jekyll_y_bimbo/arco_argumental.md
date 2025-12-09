@@ -14,11 +14,19 @@ Un científico que experimenta con nanobots de transformación corporal tiene se
 - **Motivación inicial:** Curiosidad científica + deseo reprimido
 - **Arco:** Control total → sexo catalizador → pérdida gradual → horror → ¿aceptación?
 
-### La Bimbo: [NOMBRE - por definir]
+### La Bimbo: SCARLETT
+- **Nombre:** Ella lo elige: "Scarlett... como mis labios. Como el fuego."
 - **Apariencia:** Pelirroja voluptuosa estilo Jessica Rabbit - cabello rojo fuego ondulado cayendo sobre un hombro, curvas imposibles de reloj de arena, labios carmesí gruesos, ojos felinos con delineado dramático, vestidos rojos ajustados, tacones de vértigo
 - **Personalidad:** Inteligente, manipuladora, insaciable, hedonista, voz ronca y seductora
 - **Objetivo:** Existir permanentemente para follar, sentir placer, ser deseada
 - **Método:** Sabotear la vida del hombre, seducir a todos, hacerlo adicto al placer que ella siente
+
+### Antagonista: DR. MARCUS VANCE → "MARCY"
+- **Rol inicial:** Científico rival que descubre los nanobots, quiere robarlos
+- **Amenaza:** Exponer al protagonista, vender la tecnología
+- **Destino:** Scarlett lo seduce y le inyecta nanobots "especiales"
+- **Transformación sissy:** Cuerpo masculino semi-feminizado (caderas anchas, piel suave, pezones sensibles, polla inútil sin estimulación anal)
+- **Final:** Termina como juguete de Scarlett, rebautizado "Marcy"
 
 ---
 

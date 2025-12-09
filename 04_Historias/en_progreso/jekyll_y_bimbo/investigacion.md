@@ -66,7 +66,9 @@ Cuando el hombre "despierta" después de que Bimbo tuvo control:
    - Accidente de laboratorio
 
 2. **¿La bimbo tiene nombre?**
-   - ¿Ella elige su propio nombre?
+   - **SÍ: SCARLETT** (o "Scar" para los íntimos)
+   - Ella misma lo elige: "Scarlett... como mis labios. Como el fuego. Como la sangre que hace latir tu polla."
+   - Nombre estilo Jessica Rabbit: sensual, clásico, peligroso
    - ¿Es una versión femenina de su nombre?
 
 3. **¿Cuál es su objetivo final?**
@@ -75,7 +77,16 @@ Cuando el hombre "despierta" después de que Bimbo tuvo control:
    - ¿Venganza contra alguien específico?
 
 4. **¿Hay un antagonista externo?**
-   - ¿Alguien que quiere los nanobots?
+   - **SÍ: DR. MARCUS VANCE** - Científico rival que descubre los nanobots
+   - Quiere robar la tecnología para venderla
+   - Amenaza con exponer al protagonista
+   - **TWIST:** Scarlett lo seduce y le da una versión "especial" de los nanobots
+   - Los nanobots lo convierten en un **SISSY**:
+     - Cuerpo masculino pero semi-feminizado
+     - Caderas más anchas, piel suave, pezones sensibles
+     - Polla que ya no se le para sin estimulación anal
+     - Deseo incontrolable de servir y ser penetrado
+   - Termina siendo juguete de Scarlett: "Ahora tú también eres mía, Marcus. O debería decir... Marcy?"
    - ¿Alguien que sabe su secreto?
 
 5. **¿Final?**
