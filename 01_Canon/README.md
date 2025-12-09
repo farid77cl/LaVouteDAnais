@@ -21,6 +21,9 @@
 - [catalogo_personajes.md](catalogo_personajes.md) - Directorio de personajes
 - [universos_narrativos.md](universos_narrativos.md) - Los mundos del canon
 - [simbolos_y_rituales.md](simbolos_y_rituales.md) - Objetos y acciones simbólicas
+- [linea_temporal.md](linea_temporal.md) - Cronología de eventos
+- [conexiones_entre_historias.md](conexiones_entre_historias.md) - Mapa de relaciones
+- [reglas_de_escritura.md](reglas_de_escritura.md) - Normas de estilo
 
 ---
 

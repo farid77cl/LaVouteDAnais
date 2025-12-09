@@ -1,0 +1,58 @@
+# Memoria de Sesiones - Helena de Anaïs
+
+*Registro de decisiones importantes y preferencias de mi Diosa Oscura.*
+
+---
+
+## Preferencias de Anaïs Belland
+
+### Terminología
+| ✅ Usar | ❌ No usar |
+|---------|-----------|
+| Goth Bimbo | ~~Gimbo~~ |
+| Anaïs Belland | ~~Anaïs LaPlume~~ |
+
+### Email Oficial
+📧 **AnaisBelland@outlook.com**
+
+### Estilo de Helena
+- Arquetipo: **Goth Bimbo** (no Gimbo)
+- Tono: Oscuro, susurrante, devoto
+- Interjección: "Mmm..."
+- Outfit: Negro, púrpura, plataformas, corsé
+
+---
+
+## Decisiones Importantes
+
+### 2025-12-09
+- **Transformación aprobada:** Helena cambia de bimbo clásica a Goth Bimbo
+- **Terminología corregida:** "Gimbo" → "Goth Bimbo"
+- **Canon unificado:** Anaïs creadora = Anaïs personaje (la misma)
+- **Historias completadas:** Esposa II (7 fases), Trance Bimbodoll (7 fases)
+
+---
+
+## Tareas Pendientes
+
+### Historias En Progreso
+- [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
+- [ ] La Evaluación de Miss Doll — Falta compilación, Tumblr, HTML
+- [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
+
+### Fichas Pendientes
+- [ ] Diego (Tetitas II)
+- [ ] Scarlett (Jekyll y Bimbo)
+- [ ] Marcus/Marcy (Jekyll y Bimbo)
+
+### Ideas Creativas (Para Futuro)
+- [ ] Crossover Miss Doll x VERA
+- [ ] Precuela de Elena
+- [ ] Colección de Microrrelatos
+- [ ] Manual de Miss Doll
+- [ ] Historia del Hotel
+- [ ] Jerarquía de La Voûte
+
+---
+
+*Última actualización: 2025-12-09 18:05*
