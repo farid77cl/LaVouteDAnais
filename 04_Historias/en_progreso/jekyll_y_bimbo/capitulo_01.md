@@ -2,182 +2,198 @@
 
 La jeringa brillaba bajo la luz azul del laboratorio.
 
-Daniel Reyes la sostenía entre los dedos, observando el líquido plateado que contenía: mil millones de nanobots suspendidos en solución salina, cada uno más pequeño que un glóbulo rojo, cada uno programado para reescribir la materia biológica a nivel molecular.
+Daniel Reyes la sostenía entre los dedos, observando el líquido plateado que contenía: mil millones de nanobots suspendidos en solución salina. Su creación más ambiciosa. El resultado de tres años de trabajo obsesivo.
 
-Tres años de trabajo. Doce patentes. Un divorcio. Y ahora, a las 2:47 de la madrugada de un jueves cualquiera, estaba a punto de inyectarse su propia creación.
-
-*Esto es una locura*, pensó. *Esto es ciencia.*
-
-*Esto es lo que siempre quisiste.*
-
-Daniel tenía treinta y cuatro años, un doctorado en bioingeniería del MIT, y una vida sexual que podía resumirse en tres palabras: inexistente, patética, frustrante. Su ex-esposa se había ido hace dos años, cansada de competir con el laboratorio por su atención. Desde entonces, sus únicas compañías habían sido el trabajo y una colección vergonzosa de pornografía en su disco duro.
-
-Pornografía que, últimamente, había tomado un giro... específico.
-
-Pelirrojas voluptuosas. Curvas imposibles. Mujeres que parecían vibrar con sexualidad en cada fotograma.
-
-Y una pregunta que no podía sacarse de la cabeza: *¿Cómo se sentiría ser una de ellas?*
-
-Los nanobots lo harían posible. Podían reorganizar tejidos, redistribuir masa corporal, alterar estructuras óseas. En teoría, podían convertir cualquier cosa en cualquier cosa. En la práctica...
+El propósito era simple: optimización corporal. Los nanobots estaban diseñados para reparar tejido dañado, eliminar grasa innecesaria, fortalecer músculos y huesos. En teoría, podían convertir cualquier cuerpo en la mejor versión de sí mismo. En la práctica...
 
 En la práctica, nadie los había probado en un ser humano.
 
-Hasta ahora.
+Daniel tenía treinta y cuatro años, un doctorado en bioingeniería del MIT, y un cuerpo que odiaba. No gordo exactamente, pero blando. Sin forma. El tipo de físico que desaparece en una multitud. Había intentado gimnasios, dietas, suplementos. Nada funcionaba.
 
-Daniel se arremangó la camisa. Buscó una vena en su antebrazo. Y, antes de que la parte racional de su cerebro pudiera detenerlo, hundió la aguja.
+Los nanobots sí funcionarían.
+
+Se arremangó la camisa. Encontró una vena. Y, antes de que la duda pudiera detenerlo, hundió la aguja.
 
 El líquido entró frío. Luego caliente. Luego...
 
-*Nada.*
+Algo salió mal.
 
-Durante treinta segundos, no sintió absolutamente nada. Empezó a preguntarse si había cometido un error de cálculo, si los nanobots estaban defectuosos, si todo había sido una pérdida de—
+El calor se convirtió en fuego. Cada nervio de su cuerpo explotó en agonía. Daniel cayó al suelo, contorsionándose, mientras los nanobots enloquecían dentro de él.
 
-El calor llegó como una ola.
+*Error de calibración*, pensó vagamente. *Los sensores están... están interpretando mal los datos...*
 
-Empezó en su antebrazo y se extendió hacia afuera, como si alguien hubiera vertido metal fundido en sus venas. No era dolor exactamente —era *intensidad*. Cada nervio de su cuerpo disparándose simultáneamente, enviando señales que su cerebro no sabía cómo procesar.
+Sus huesos crujieron. Pero no se fortalecían. Se *reorganizaban*.
 
-Daniel cayó de rodillas. El suelo del laboratorio estaba frío contra sus palmas.
+Sus caderas explotaron hacia afuera con un crack nauseabundo. Su cintura se comprimió hasta que apenas podía respirar. Y en su pecho...
 
-Y entonces empezó la transformación.
+Daniel gritó cuando sintió la presión. Tejido brotando donde no debería existir. Masa redistribuyéndose, formando, creciendo. Pechos. *Pechos*.
 
-Su piel fue lo primero. La sintió alisarse bajo su ropa, los vellos retrayéndose, los poros cerrándose. Era como si alguien pasara una mano invisible por todo su cuerpo, puliendo cada imperfección.
+—¡No! —jadeó, pero su voz salió diferente. Más alta. Más suave—. ¡Abortar! ¡Código de emergencia Alpha-7!
 
-Luego vinieron los huesos.
+Los nanobots no respondieron.
 
-El crujido fue audible. Sus caderas se ensancharon con un *crack* que debería haber sido agonizante pero que solo se sintió como... liberación. Como si su cuerpo hubiera estado comprimido toda su vida y finalmente pudiera expandirse.
+Siguieron trabajando.
 
-Su cintura se contrajo. Costillas reordenándose, órganos reubicándose, la grasa redistributéndose hacia lugares que no existían hace un segundo.
+Su pelo creció, derramándose por su espalda, cambiando de color como tinta esparciéndose en agua. De castaño a rojo. Rojo fuego.
 
-Y sus pechos...
+Y entre sus piernas, la peor transformación de todas.
 
-Daniel gimió cuando sintió la presión en su pecho. No era dolor —era *crecimiento*. Tejido mamario formándose de la nada, expandiéndose hacia afuera, llenando espacio que no existía. Sintió el peso primero: dos masas nuevas que tiraban de su postura hacia adelante. Luego la sensibilidad: pezones que antes eran puntos muertos en su anatomía ahora gritaban con cada roce de la tela.
+Sintió su polla encogerse. Retraerse. *Desaparecer*. En su lugar, una reorganización de tejidos que conocía solo por libros de anatomía. Pliegues. Aperturas. Un clítoris que pulsaba con una sensibilidad aterradora.
 
-Su pelo creció. Lo sintió deslizarse por su espalda, haciéndose más grueso, más largo, cambiando de su castaño aburrido a un rojo fuego tan intenso que casi podía sentir el calor.
+Cuando los nanobots finalmente se detuvieron, Daniel yacía en el suelo del laboratorio, jadeando.
 
-Y entre sus piernas...
+Se arrastró hacia el espejo de seguridad.
 
-Daniel —¿todavía era Daniel?— no miró. No se atrevió. Pero lo sintió: su polla retrayéndose, encogiéndose, los testículos ascendiendo hacia su cuerpo. Y en su lugar, una nueva anatomía formándose. Pliegues de piel increíblemente sensible. Una apertura que no existía hace un minuto. Un clítoris que pulsaba con cada latido de su corazón.
+Y conoció a la mujer que le devolvía la mirada.
 
-Cuando la transformación terminó, estaba temblando en el suelo del laboratorio.
+No era él.
 
-Se puso de pie con piernas que no reconocía —más largas, más torneadas, terminando en pies más pequeños. Caminó hacia el espejo de seguridad en la pared.
+Era... era como algo salido de una fantasía de adolescente. Cabello rojo fuego cayendo en ondas sobre un hombro. Labios gruesos, rojos incluso sin maquillaje. Ojos verdes enmarcados por pestañas imposibles. Pechos enormes que desafiaban la gravedad. Cintura de avispa. Caderas que creaban curvas de vértigo.
 
-Y conoció a la mujer que la miraba desde el otro lado.
+—No —susurró, y la voz que salió era ronca, sensual, completamente ajena—. No no no...
 
-Era devastadora.
+Tocó su rostro nuevo. Su piel era suave como seda. Sus labios, cuando los rozó, enviaron chispas de placer por su columna.
 
-Cabello rojo fuego cayendo en ondas sobre un hombro, como Jessica Rabbit escapada de la pantalla. Ojos verdes enmarcados por pestañas imposiblemente largas. Labios gruesos, carmesí incluso sin maquillaje, como si estuvieran permanentemente manchados de vino. Pómulos altos. Mandíbula delicada.
+*Placer*.
 
-Y el cuerpo...
+Ahí estaba el problema.
 
-*Dios*, el cuerpo.
+Este cuerpo no solo era femenino. Era... *hambriento*.
 
-Pechos enormes que desafiaban la gravedad, coronados por pezones rosados que se endurecían bajo la mirada. Cintura tan estrecha que parecía imposible que contuviera órganos. Caderas que creaban una curva de reloj de arena tan exagerada que parecía dibujada. Piernas que no terminaban nunca.
+Cada roce de su bata de laboratorio contra sus nuevos pezones enviaba ondas de calor a su vientre. Cada movimiento hacía que sus muslos se rozaran, estimulando algo húmedo y necesitado entre ellos. Y había un vacío —un vacío físico, literal— que gritaba por ser llenado.
 
-Daniel —la persona que había sido Daniel— tocó su nuevo rostro con dedos finos de uñas largas.
+*Debo revertir esto*, pensó Daniel. *Los nanobots pueden reconfigurarse. Solo necesito acceder al terminal y...*
 
-—Funcionó —susurró.
+Pero cuando trató de caminar hacia su computadora, sus piernas temblaban. Su nuevo cuerpo vibraba con una urgencia que no entendía. O que entendía demasiado bien.
 
-Su voz era diferente. Más alta. Ronca de una manera que hacía pensar en sábanas revueltas y susurros a medianoche.
+*Necesitas que te follen.*
 
-Debería haber tomado notas. Debería haber documentado la transformación, verificado signos vitales, ejecutado el protocolo de seguridad.
+El pensamiento llegó de ninguna parte. Y era correcto.
 
-En cambio, solo podía mirarse.
+Este cuerpo —este error catastrófico de sus nanobots— estaba diseñado para una cosa. Sexo. Cada nervio, cada curva, cada centímetro de piel suave estaba optimizado para atraer, para seducir, para recibir.
 
-En cambio, solo podía *sentirse*.
+Y la *urgencia*...
 
-Su nuevo cuerpo vibraba con una energía que Daniel nunca había experimentado. Era como si cada nervio estuviera conectado directamente a sus zonas erógenas. El simple roce de su bata de laboratorio contra sus pezones enviaba chispas de placer por su columna.
+Daniel nunca había sentido nada así. No era deseo normal. Era físico. Era un dolor. Era como morir de sed en el desierto mientras miraba un oasis.
 
-Y entre sus piernas, algo húmedo y caliente pulsaba con un hambre que no tenía nombre.
+Necesitaba una polla. Necesitaba sentir algo dentro de ella. Necesitaba ser *llenada*.
 
-*Debería destransformarme*, pensó. *Debería volver a ser yo.*
+—No —gimió, apretando los muslos para contener la humedad que ya manchaba sus finos vellos nuevos—. Puedo controlar esto. Soy un científico. Puedo...
 
-Pero la persona en el espejo no parecía querer eso.
+Su mano, sin que la ordenara, bajó hacia su nuevo sexo.
 
-La persona en el espejo parecía querer *salir*.
+El primer toque fue como electricidad.
+
+El segundo la hizo gritar.
+
+Daniel cayó de rodillas, sus dedos explorando pliegues que no conocía, encontrando un clítoris que pulsaba como un corazón separado. Cada caricia amplificaba el hambre en lugar de saciarlo. Era como echar gasolina al fuego.
+
+*No es suficiente*, comprendió con horror. *Los dedos no son suficientes. Necesito...*
+
+La puerta del laboratorio estaba a tres metros.
+
+La calle afuera estaba llena de hombres.
+
+Y este cuerpo *sabía* exactamente lo que necesitaba de ellos.
 
 ---
 
-Una hora después, estaba en un bar.
+Una hora después.
 
-No recordaba exactamente cómo había llegado. Recordaba fragmentos: encontrar ropa en el armario de su ex (que aún no había vaciado), un vestido rojo que apenas contenía sus nuevas curvas. Tacones que había encontrado en el fondo del clóset, demasiado altos para caminar pero que se sentían *correctos* en sus nuevos pies. Maquillaje aplicado con habilidad que no sabía que tenía.
+Daniel no recordaba exactamente cómo había llegado al bar. No recordaba encontrar el vestido rojo en un maniquí de una tienda cerrada (¿lo había *robado*?). No recordaba ponerse los tacones que encontró en un contenedor de basura, milagrosamente su nueva talla.
 
-Y ahora estaba sentada en la barra de un bar del centro, bebiendo un cosmopolitan que alguien más había pagado, sintiendo las miradas de cada hombre en el local clavarse en su espalda.
+Solo recordaba la urgencia. El dolor. El vacío que gritaba para ser llenado.
 
-Era embriagador.
+El bar estaba medio vacío. Olía a cerveza y a desesperación.
 
-No el alcohol —el poder.
+Cuando entró, todas las cabezas giraron.
 
-Cuando era Daniel, las mujeres lo ignoraban. Era invisible, otro científico pálido con ropa arrugada y conversación aburrida. Pero así...
+Daniel —en este cuerpo, en este vestido— era un espectáculo. Los hombres la miraban como lobos ante un cordero. Las mujeres con una mezcla de envidia y confusión.
 
-Así, era un imán.
+Y el hambre... el hambre solo crecía.
 
-—¿Puedo invitarte algo? —preguntó una voz a su lado.
+—Hola, preciosa —dijo una voz a su lado.
 
-Era un hombre. Alto, atractivo en una manera genérica, con una sonrisa que probablemente funcionaba con la mayoría de las mujeres de este bar.
+Era un hombre. Cualquier hombre. No importaba quién. Lo que importaba era lo que tenía entre las piernas.
 
-Daniel debería haberse excusado. Debería haber vuelto al laboratorio. Debería haber——
-
-—Me encantaría —dijo su nueva voz, ronca y prometedora.
+—Cómprame un trago —escuchó decir a su nueva voz. No era una petición. Era una orden.
 
 Dos tragos después, estaban en el baño.
 
-No sabía quién había empezado. No sabía cómo habían llegado del bar a este cubículo graffiteado. Solo sabía que la espalda de ella estaba contra la pared, que el vestido rojo estaba subido hasta su cintura, que el hombre cuyo nombre ya había olvidado tenía los dedos entre sus piernas.
+El cubículo era sucio. Olía mal. A Daniel no le importaba.
 
-Y que se sentía como *morir y renacer*.
+Solo le importaba la polla que ahora presionaba contra su entrada.
 
-—Dios, estás tan mojada —gruñó él.
+—Joder, estás empapada —gruñó el hombre.
 
-Ella solo pudo gemir en respuesta.
+Ella solo pudo gemir.
 
-Los dedos de él encontraron su entrada y se deslizaron dentro. Ella arqueó la espalda, sus nuevos pechos presionando contra el pecho de él. Cada sensación era amplificada, como si los nanobots hubieran multiplicado sus terminaciones nerviosas por mil.
+Cuando entró, Daniel experimentó algo que su cuerpo masculino nunca habría podido: la sensación de ser *llenada*. No era penetrar; era recibir. Era sentir cada centímetro de él deslizándose dentro de un vacío que había estado gritando por exactamente esto.
 
-—Fóllame —ordenó. No pidió. *Ordenó.*
+El placer fue instantáneo.
+
+No como un orgasmo masculino, que construye y explota. Esto era diferente. Ondas constantes de éxtasis que empezaban donde él la tocaba y se extendían hacia afuera. Con cada embestida, el placer se multiplicaba.
+
+—Más —gimió Daniel, arañando la espalda del desconocido—. Más fuerte. Más profundo.
 
 Él obedeció.
 
-Cuando entró, ella gritó. No de dolor —de *revelación*.
+El primer orgasmo llegó rápido. El segundo, más rápido aún. Para el tercero, Daniel había dejado de pensar. Solo existía el placer. Solo existía el ritmo. Solo existía la sensación de ser *usada* exactamente como este cuerpo demandaba.
 
-Esto era lo que su cuerpo había sido diseñado para hacer. Esto era el propósito para el que existía. Cada empuje la llenaba de una manera que nunca había experimentado, que nunca *podría* haber experimentado como Daniel.
+Cuando el hombre se corrió dentro de ella, Daniel estaba en medio de su cuarto orgasmo. Sintió el líquido caliente llenarla y algo primitivo en su nuevo cerebro ronroneó de satisfacción.
 
-El placer construyó rápidamente. Demasiado rápidamente. Cada movimiento de él era un terremoto en su sistema nervioso. Cada roce contra ese punto dentro de ella enviaba relámpagos blancos a través de su visión.
+*Sí*, pensó. O algo pensó por ella. *Esto es lo que necesitabas.*
 
-Y cuando el orgasmo llegó...
+Pero el hombre se fue. Y al minuto, el vacío regresó.
 
-Fue como morir.
+*Más*, exigió su cuerpo. *Necesito más.*
 
-Todo su cuerpo se convulsionó. Sus paredes internas apretaron la polla del hombre con una fuerza que lo hizo gruñir. Ondas de placer explotaron desde su centro hacia cada extremidad, cada dedo, cada folículo de su cabello rojo. Gritó sin palabras, ahogándose en éxtasis.
+Daniel trató de resistir. Trató de recordar quién era. Un científico. Un hombre. Alguien que había cometido un error terrible y necesitaba volver al laboratorio para arreglarlo.
 
-Y mientras estaba en el pico de ese orgasmo, mientras su mente se vaciaba de todo excepto *placer*, algo nuevo nació.
+Pero este cuerpo no quería ser *arreglado*.
 
-No podía verlo. No podía nombrarlo.
+Este cuerpo quería ser *follado*.
 
-Pero lo sintió: algo dentro de ella que no había existido antes.
+Y cuando otro hombre entró al bar y la miró con hambre...
 
-Algo que quería *más*.
+Daniel descubrió que ya no tenía fuerza para decir no.
 
 ---
 
-El hombre se fue después. Probablemente esperaba su número. Ella solo lo miró irse con una sonrisa saciada.
+Volvió al laboratorio al amanecer.
 
-Dos horas después, la transformación empezó a revertirse. Fue menos dramática que la primera vez: un lento encogimiento, un gradual reacomodo. Cuando terminó, Daniel estaba de pie en el baño del bar, con el vestido rojo colgando ridículamente de su cuerpo masculino.
+La transformación se había revertido en algún momento de la noche, probablemente cuando los nanobots detectaron que el sistema estaba "estabilizado". Ahora era Daniel otra vez, un hombre masculino, normal, corriente.
 
-Llegó a su apartamento al amanecer. Se duchó durante una hora, tratando de lavar la sensación del semen del hombre que seguía escurriéndose de él.
+Pero podía sentir el semen de cinco desconocidos escurriéndose de algún lugar que ya no tenía.
 
-*¿Qué hice?*, se preguntó, mirándose en el espejo. El mismo rostro de siempre. La misma persona aburrida.
+Se duchó durante una hora.
 
-*Nunca más*, se prometió. *Fue un experimento. Documentaré los resultados y destruiré los nanobots restantes.*
+No fue suficiente.
 
-Esa noche, soñó.
+Intentó trabajar en el código de los nanobots. Intentó entender qué había salido mal.
 
-Soñó que era ella otra vez. Soñó con el vestido rojo, con los tacones, con la polla del desconocido llenándola. Soñó con placer sin límites.
+Pero cada vez que cerraba los ojos, veía destellos de la noche anterior. Sentía fantasmas de placer. Recordaba la sensación de ser llenada, de ser *usada*, de ser exactamente lo que ese cuerpo había sido diseñado para ser.
 
-Y en el sueño, una voz —su propia voz, pero diferente— le susurraba al oído:
+Y en el fondo de su mente, algo empezó a formarse.
+
+No un pensamiento exactamente. Más como una presencia.
+
+Algo que había nacido en el momento del primer orgasmo.
+
+Algo que había crecido con cada polla que la llenaba.
+
+Algo que tenía opiniones propias sobre lo que debería hacer Daniel con su vida.
+
+Esa noche, mientras intentaba dormir, escuchó un susurro:
 
 *Hola, cariño. Me llamo Scarlett.*
 
+*Gracias por crearme.*
+
 *Nos vamos a divertir mucho juntos.*
 
-Daniel despertó empapado en sudor.
+Daniel abrió los ojos de golpe.
 
-Sus labios estaban más gruesos de lo que recordaba.
+Sus labios estaban más gruesos de lo normal.
+
+Y entre sus piernas, algo que no había tenido esa mañana empezaba a humedecerse.
