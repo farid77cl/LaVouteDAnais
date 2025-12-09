@@ -16,7 +16,7 @@ Pero cuando lo sacó, vio los zapatos que venían con él.
 
 Sandalias de tacón de cristal. Diez centímetros. Con plumas blancas en la punta.
 
-—Es el conjunto que usé en nuestra noche de bodas —dijo Elena suavemente—. ¿Te acuerdas?
+—Es el conjunto que tenía preparado para nuestra noche de bodas —dijo Elena suavemente—. Lo compré semanas antes. ¿Te acuerdas?
 
 Marco asintió. Recordaba haber arrancado ese camisón del cuerpo de Elena con impaciencia. Recordaba haberle dicho que los zapatos eran "sexys" y haberle prohibido quitárselos mientras la follaba.
 

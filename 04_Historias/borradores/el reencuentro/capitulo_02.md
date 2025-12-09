@@ -96,7 +96,7 @@ Y se suponía que debía meterla en su boca.
 
 —Marco. —Elena enredó los dedos en su pelo más fuerte—. No tenemos toda la noche.
 
-Marco inclinó la cabeza. Sus labios rojos, perfectamente pintados, rozaron la punta.
+Marco inclinó la cabeza. Recordó la noche de bodas, cuando Elena lo había forzado a hacer esto por primera vez. Entonces había sido en privado, en la suite nupcial, y el terror había sido diferente. Ahora estaban en un coche en movimiento, con un chofer a metros de distancia, y la humillación tenía un sabor más amargo. Sus labios rojos, perfectamente pintados, rozaron la punta.
 
 El sabor era salado, almizclado, innegablemente masculino. Sacó la lengua —pequeña ahora, diferente— y lamió desde la base hasta la punta, sintiendo cada vena pulsar bajo su boca.
 

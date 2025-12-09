@@ -8,6 +8,66 @@ Marco no sabía cuánto tiempo había pasado.
 
 Estaba arrodillado junto a la tumbona, con la polla de Javier enterrada en su garganta, cuando oyó pasos.
 
+Pero antes de ese momento —antes de que Elena apareciera y lo viera así, de rodillas, con la boca llena de su mejor amigo— había habido una progresión. Una caída lenta y terrible que Marco reviviría en su mente por el resto de su vida.
+
+---
+
+*Había empezado con el beso.*
+
+*Los labios de Javier contra los suyos. El sabor a champán y a algo más oscuro, más peligroso. Marco había intentado apartarse, pero Javier lo sujetaba con una mano en la nuca, con la otra aferrando su cadera.*
+
+*"Solo un beso," había dicho Javier. Pero no había sido solo un beso.*
+
+*Había sido una invasión. La lengua de Javier había explorado su boca con la seguridad de un conquistador, y Marco —para su horror absoluto— había sentido cómo su cuerpo respondía. El piercing había empezado a pulsar. Sus pezones se habían endurecido contra el bikini. Una humedad traicionera había comenzado a formarse entre sus piernas.*
+
+*"Lo sabía," había susurrado Javier contra sus labios. "Sabía que lo querías."*
+
+*"No... yo no..."*
+
+*"Shhh." Javier le había puesto un dedo sobre los labios. "Ahora vas a hacer algo por mí."*
+
+*Y entonces se había bajado el bañador.*
+
+*La polla de Javier había aparecido ante sus ojos: gruesa, erecta, goteando una perla de líquido preseminal en la punta. Era diferente a la de Elena —a la que había sido suya—. Más corta pero más gruesa, ligeramente curvada hacia arriba.*
+
+*"Javi... no puedo..."*
+
+*"Puedes." Javier le había agarrado el pelo —las extensiones rubio platino que él mismo había ordenado para Elena— y lo había guiado hacia abajo. "Y lo vas a hacer. Porque si no lo haces, le cuento a Marco que me besaste. Que me provocaste. Que me suplicaste."*
+
+*"¡Eso es mentira!"*
+
+*"¿Y él a quién le va a creer?" Javier había sonreído. "¿A su mejor amigo de veinte años, o a la zorra que no puede mantener las piernas cerradas?"*
+
+*Marco había cerrado los ojos. Las lágrimas le quemaban bajo los párpados.*
+
+*Y entonces había abierto la boca.*
+
+*El primer contacto había sido eléctrico. La cabeza de la polla de Javier, caliente y lisa, rozando sus labios. El olor almizclado llenando su nariz. Marco había sentido cada detalle con una claridad aterradora: la textura de la piel, el peso sobre su lengua, el sabor salado que se mezclaba con su propia saliva.*
+
+*"Eso es..." Javier había gemido. "Abre más. Más profundo."*
+
+*Marco había obedecido. La polla se había deslizado más adentro, presionando contra el fondo de su boca, rozando la entrada de su garganta. El reflejo de arcada había venido inmediatamente —ese espasmo involuntario que le decía que algo estaba MAL, que no debería estar ahí— pero lo había reprimido. Había respirado por la nariz, como Elena le había enseñado, y había relajado los músculos de su garganta.*
+
+*"Joder, qué buena eres..." Javier había empezado a mover las caderas, follandole la boca con embestidas lentas. "¿Quién te enseñó a chupar así, preciosa?"*
+
+*Elena, había pensado Marco con amargura. Elena me enseñó. Usando la misma polla que yo usaba para someterla.*
+
+*Cada embestida enviaba nuevas sensaciones por su sistema nervioso. El roce de la polla contra su lengua. La presión en su garganta. El tirón del pelo cuando Javier lo sujetaba con más fuerza. Y debajo de todo eso, el piercing pulsando sin cesar, traduciendo cada humillación en una corriente de placer no deseado.*
+
+*Marco se había encontrado moviendo la cabeza por su cuenta, anticipando el ritmo de Javier, succionando cuando él retrocedía, abriendo más cuando él empujaba. Sus manos, con las uñas francesas brillantes e inútiles, se habían apoyado en los muslos de Javier para mantener el equilibrio. Sus tacones de nueve pulgadas resbalaban en el suelo de piedra.*
+
+*"Mírame," había ordenado Javier.*
+
+*Marco había levantado la vista sin soltar la polla. Sus ojos —los ojos grandes y almendrados de Elena, ahora llenos de lágrimas— habían encontrado los de Javier.*
+
+*"Eso es. Mírame mientras me la chupas. Quiero ver esa cara de puta cuando me corra en tu boca."*
+
+*La humillación había sido tan intensa que Marco había gemido alrededor de la polla. El sonido había viajado por la carne, haciendo que Javier gruñera de placer. Y Marco, para su absoluto horror, había sentido un pequeño orgasmo sacudir su cuerpo —un clímax diminuto pero innegable, arrancado solo por la humillación de estar arrodillado, en bikini y tacones, chupando la polla del mejor amigo de su antiguo yo.*
+
+---
+
+Y ahí estaba cuando oyó los pasos.
+
 Intentó levantar la cabeza, pero Javier lo mantuvo en su lugar con una mano en la nuca.
 
 —Sigue —gruñó Javier—. No pares.
@@ -16,7 +76,7 @@ Intentó levantar la cabeza, pero Javier lo mantuvo en su lugar con una mano en 
 
 Elena.
 
-Marco sintió que el mundo se derrumbaba. Intentó apartarse, pero Javier no lo soltó. Sus tacones transparentes resbalaron en el suelo de piedra, haciéndolo tambalearse.
+Marco sintió que el mundo se derrumbaba. Intentó apartarse, pero Javier no lo soltó. Sus tacones de nueve pulgadas resbalaron en el suelo de piedra, haciéndolo tambalearse.
 
 —Marco, tío —rió Javier, sin soltar la cabeza de Marco—. Tu mujer es una puta increíble. No pude resistirme.
 
@@ -50,7 +110,7 @@ Marco obedeció con piernas temblorosas. Las lágrimas le corrían por las mejil
 
 Las manos de Marco temblaban mientras desataba las cuerdas. El top cayó, liberando sus pechos. El bottom siguió, dejando expuesto el piercing brillante entre sus piernas perfectamente depiladas.
 
-Estaba completamente desnudo, excepto por los tacones de doce centímetros que brillaban bajo el sol.
+Estaba completamente desnudo, excepto por los tacones de nueve pulgadas que brillaban bajo el sol.
 
 —Joder —susurró Javier, acariciándose la polla—. Mira ese cuerpo. Y esos zapatos... la hacen parecer una muñeca porno.
 

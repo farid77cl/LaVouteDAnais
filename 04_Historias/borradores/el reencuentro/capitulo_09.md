@@ -70,23 +70,47 @@ Marco se sentó frente al tocador. Aplicó una base ligera pero cubriente, corre
 
 Sus uñas francesas brillaban mientras trabajaba. Eran tan largas que cada tarea costaba el doble, pero ya había aprendido a adaptarse.
 
-—Y ahora, lo más importante —dijo Elena, sacando una caja del armario.
+—Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos nueva, una caja que Marco nunca había visto.
 
 Tacones.
 
-Sandalias de tacón transparente, de doce centímetros, con plataforma de acrílico. Las mismas que había usado en la luna de miel. Las mismas que habían acortado sus tendones hasta hacer imposible caminar descalza.
+Pero no eran los tacones habituales. Eran sandalias de plataforma, con la base de acrílico transparente y un tacón de aguja que parecía desafiar las leyes de la física.
 
-—Elena, vamos a estar en el jardín. Los tacones se van a hundir en el césped.
+—Nueve pulgadas —anunció Elena con orgullo—. Casi veintitrés centímetros. Las compré especialmente para hoy.
 
-—Entonces caminarás con cuidado. O te quedarás en el borde de la piscina. Pero no vas a recibir a Javier descalza como una campesina.
+Marco se quedó helado mirando los zapatos. Había usado tacones de doce centímetros. Había sufrido con los de quince. Pero esto... esto era otro nivel. Eran tacones de stripper, de bailarina de pole dance, de prostituta de carretera.
 
-Marco se sentó en la cama para ponérselas. Deslizó sus pies en el plástico transparente. Ajustó las correas. Se puso de pie.
+—Elena, no puedo... no puedo usar eso. Es imposible.
 
-Su altura cambió. Su postura cambió. Su trasero se levantó, su pecho se proyectó hacia adelante. Era la postura de una muñeca sexual, lista para ser usada.
+—Todo es posible con práctica. —Elena se arrodilló para ponérselos—. Y tú has tenido semanas de práctica. Tu cuerpo ya se adaptó. Tus tendones ya se acortaron. Esto es solo el siguiente paso.
 
-Elena le puso un pareo transparente alrededor de las caderas, que no ocultaba nada pero añadía una capa de "modestia" irónica.
+Marco sintió cómo Elena deslizaba sus pies en las plataformas. El acrílico era frío, resbaladizo. Ajustó las correas alrededor de sus tobillos con la precisión de un carcelero.
 
-—Perfecta —dictaminó—. Javier va a estar muy impresionado.
+—Levántate.
+
+Marco se puso de pie.
+
+El mundo cambió de golpe.
+
+Nunca había estado tan alto. La plataforma frontal añadía varios centímetros, pero el tacón trasero era una aguja vertical que lo empujaba hacia adelante a una inclinación casi imposible. Sus pantorrillas ardían inmediatamente. Sus muslos temblaban. Su culo se proyectó hacia atrás en un ángulo obsceno, como si estuviera constantemente ofreciéndose.
+
+Dio un paso y casi cayó.
+
+—Despacio —instruyó Elena—. Pasos cortos. Caderas primero.
+
+Marco dio otro paso. Luego otro. El sonido era diferente: un *clic-clic* más agudo, más resonante. Y la sensación... era como caminar sobre zancos de sexo. Cada paso era precario, cada movimiento una negociación entre el equilibrio y la caída.
+
+Se miró en el espejo.
+
+Ya no parecía una esposa trofeo. Parecía una stripper.
+
+Una stripper de club de carretera, con tacones imposibles, bikini mínimo, y una postura que gritaba "disponible". El pensamiento debería haberlo horrorizado. Pero el piercing pulsó con algo diferente. Algo que se parecía demasiado a la excitación.
+
+*Me veo como una puta de alto standing*, pensó. *Y me gusta cómo me veo.*
+
+La revelación fue devastadora. No solo estaba aceptando esta feminización. La estaba disfrutando.
+
+—Perfecta —dictaminó Elena—. Javier va a estar muy impresionado.
 
 Marco quería preguntar qué significaba eso exactamente. Por qué importaba tanto impresionar a Javier. Por qué Elena insistía en mencionar su nombre con esa sonrisa específica.
 
@@ -94,7 +118,7 @@ Pero no preguntó.
 
 Algo le decía que iba a averiguarlo pronto.
 
-Salió al jardín, sus tacones haciendo *clic-clic-clic* en las baldosas de la terraza, sintiendo el sol en su piel expuesta y el piercing palpitando con anticipación nerviosa.
+Salió al jardín, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en las baldosas de la terraza, sintiendo el sol en su piel expuesta y el piercing palpitando con anticipación nerviosa.
 
 ---
 

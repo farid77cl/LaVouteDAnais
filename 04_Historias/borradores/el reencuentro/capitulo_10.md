@@ -28,7 +28,7 @@ Y Javier, de pie junto a la piscina, mirándolo acercarse.
 
 —¡Joder! —exclamó Javier, silbando—. Elena, estás... dios mío.
 
-Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas que parecían interminables gracias a los doce centímetros de acrílico transparente.
+Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas que parecían interminables gracias a los tacones de nueve pulgadas.
 
 —Gracias, Javi —dijo Marco, forzando la sonrisa que ya era automática.
 
@@ -58,7 +58,33 @@ Quedó expuesto. El bikini diminuto. La piel bronceada. El piercing apenas visib
 
 Marco sintió el rubor subirle por el cuello.
 
-La conversación fluyó. Negocios. Yates. Viajes. Marco bebía champán demasiado rápido, intentando anestesiar los nervios.
+—Cariño —dijo Elena, con esa voz de orden disfrazada de sugerencia—, ¿por qué no nos traes unos cócteles del bar? Prepara unos mojitos.
+
+Marco miró hacia la barra, al otro lado de la piscina. Tendría que caminar todo el trayecto con esos tacones de nueve pulgadas, en ese bikini diminuto, mientras Javier lo observaba.
+
+—Claro —dijo Marco, porque no había otra opción.
+
+Se levantó de la tumbona con cuidado, sintiendo inmediatamente cómo sus pantorrillas protestaban por el esfuerzo. Los tacones de plataforma se hundieron ligeramente en el césped artificial que bordeaba la piscina. Cada paso era una negociación entre el equilibrio y la gravedad.
+
+Y Javier miraba. Marco podía sentir sus ojos recorriendo cada centímetro de su cuerpo mientras caminaba hacia el bar. El bikini se movía con cada paso, la tela ajustándose y desajustándose sobre sus nalgas. El piercing pulsaba con cada movimiento de sus caderas.
+
+Preparó los mojitos con manos temblorosas, las uñas francesas haciendo que cada tarea fuera más difícil. Aplastar la menta. Exprimir la lima. Añadir el ron. Sus pechos se balanceaban ligeramente cada vez que agitaba la coctelera.
+
+Cuando regresó con la bandeja, tuvo que concentrarse intensamente para no derramar nada. El camino de vuelta fue aún peor. Ahora caminaba hacia Javier, y podía ver exactamente cómo sus ojos estaban fijos en el movimiento de su escote, en el vaivén de sus caderas, en las piernas arqueadas sobre los tacones imposibles.
+
+—Gracias, preciosa —dijo Javier cuando Marco le entregó su copa, rozando deliberadamente sus dedos.
+
+El contacto envió un escalofrío por el brazo de Marco.
+
+Elena sonrió.
+
+—Ahora trae las aceitunas. Y luego el hielo extra. Y después... quizás unos aperitivos.
+
+Marco entendió. Elena lo estaba haciendo ir y venir a propósito. Un espectáculo para Javier. Una exhibición de su esposa cosificada, desfilando en bikini y tacones de stripper como una camarera de club nocturno.
+
+Y lo peor era que cada viaje, cada mirada de Javier, hacía que el piercing pulsara más fuerte.
+
+La conversación fluyó mientras Marco iba y venía. Negocios. Yates. Viajes. Y entre cada tema, otro viaje al bar, otra caminata exhibicionista, otra dosis de la mirada hambrienta de Javier.
 
 —Oye, Marco —dijo Javier de repente—, me dejé las gafas de sol en el coche. ¿Puedes ir a buscarlas?
 

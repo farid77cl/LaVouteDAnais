@@ -32,6 +32,32 @@ Marco abrió la boca para protestar, pero el piercing entre sus piernas palpitó
 
 El ritual de preparación para el almuerzo fue tan exhaustivo como para una gala nocturna. Elena no permitía "looks casuales".
 
+Pero antes del vestido, vino el maquillaje.
+
+—Siéntate —ordenó Elena, señalando el tocador.
+
+Marco obedeció. El espejo le devolvía una imagen que aún lo perturbaba: el rostro de una mujer hermosa, con labios carnosos y pómulos afilados. Pero hoy había algo diferente. Los labios tenían un color rosado permanente, un tono que no recordaba de antes.
+
+—¿Te gusta? —preguntó Elena, notando su mirada—. Micropigmentación. Lo hicimos mientras dormías después de la sesión de botox. Tatuaje permanente de labios y delineado. Ya nunca tendrás que preocuparte por el labial corrido.
+
+El horror serpenteó por el estómago de Marco. *Permanente*. Un tatuaje. En su cara. Elena había marcado este cuerpo de forma irreversible, sin siquiera preguntarle. Y lo peor era la sensación extraña de... ¿alivio? Una parte de él, la parte que odiaba, se sintió liberada de la responsabilidad de mantener el maquillaje perfecto. Ahora estaba *incorporado* en su piel.
+
+Elena le aplicó las pestañas postizas, unas tiras largas y dramáticas que pesaban en sus párpados como pequeñas cortinas de pelo. Marco sintió el pegamento frío, luego el tirón suave mientras Elena las presionaba contra su línea natural.
+
+—Parpadea.
+
+Marco parpadeó. El mundo se veía diferente a través de ese bosque de pestañas. Cada vez que cerraba los ojos, sentía el roce sedoso contra sus mejillas. Era como mirar a través de un velo permanente.
+
+—Y ahora el pelo —dijo Elena.
+
+Marco tocó su cabello. Ya lo habían teñido rubio platino artificial en el spa, un tono tan claro que casi era blanco bajo ciertas luces. Las extensiones habían añadido volumen y longitud hasta la mitad de su espalda. El resultado era el pelo de una muñeca Barbie, artificial y magnifico.
+
+—Me siento... —empezó Marco, pero no encontraba las palabras.
+
+—¿Falsa? —Elena sonrió—. Bueno. Ahora eres la versión mejorada. La versión que siempre quisiste que yo fuera.
+
+La verdad de esas palabras golpeó a Marco como un puño. Él había pagado por todas estas mejoras. Las extensiones. El rubio platino. Las pestañas dramáticas. Todo lo había exigido para Elena, y ahora lo sufría en carne propia. Debería sentir solo horror, pero había algo más. Una satisfacción perversa de verse tan... perfecta. Tan irresistiblemente femenina. Y esa satisfacción lo llenaba de vergüenza.
+
 —Hoy quiero algo inocente pero sucio —anunció Elena, abriendo el armario—. Blanco. Encaje. Transparencias.
 
 Eligió un vestido de verano blanco, de estilo ibicenco, que a primera vista parecía recatado. Pero cuando Marco lo sostuvo contra la luz, vio la verdad: la tela era tan fina que era prácticamente transparente.
@@ -40,13 +66,13 @@ Eligió un vestido de verano blanco, de estilo ibicenco, que a primera vista par
 
 Marco abrió el cajón de la lencería. Elena eligió un conjunto de encaje blanco que hacía juego con el vestido. El sujetador era de media copa, diseñado para empujar los pechos hacia arriba y hacia afuera. Las bragas eran minúsculas, apenas un triángulo de encaje sobre el pubis y una tira dental en la parte trasera.
 
-Marco se vistió lentamente, sintiendo cada textura.
+Marco se vistió lentamente, sintiendo cada textura con una conciencia agudizada.
 
-Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilación perfecta. Al subirlas, la tela rozó directamente contra el piercing, enviando esa descarga eléctrica familiar.
+Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilación perfecta. Al subirlas, la tela rozó directamente contra el piercing, enviando esa descarga eléctrica familiar. *Soy un hombre*, se recordó mientras ajustaba el elástico sobre sus caderas femeninas. *Un hombre poniéndose bragas de encaje*. La humillación quemaba, pero el piercing pulsaba con algo que no era solo incomodidad.
 
-Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. Se sentía... contenido. Empaquetado.
+Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. El peso de los implantes se redistribuyó, elevándose y proyectándose hacia adelante como ofrendas. *Yo pagué por estos*, pensó Marco mientras sentía cómo el sujetador los empujaba hacia arriba, creando un escote verdaderamente obsceno. *Los compré para mi placer. Ahora los cargo yo*. Y a pesar de la vergüenza, había algo reconfortante en sentirlos... contenidos. Empaquetados. Como si pertenecieran ahí.
 
-El vestido cayó sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. Podía ver el contorno de sus pezones endurecidos a través de la tela. Podía ver la sombra oscura de su vello púbico inexistente.
+El vestido cayó sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. Podía ver el contorno de sus pezones endurecidos a través de la tela. Podía ver la sombra de su pubis perfectamente liso. *Parezco una puta cara*, pensó. Y la vergüenza se mezcló con algo parecido al orgullo.
 
 —Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos.
 
@@ -56,9 +82,11 @@ Sandalias de tacón. Blancas. De tiras finas que se ataban alrededor del tobillo
 
 —Puedes y lo harás. —Elena se arrodilló para ponérselas—. Una mujer como tú nunca baja de los diez centímetros. Estiliza las piernas. Levanta el culo. Te hace caminar... vulnerable.
 
-Elena ató las cintas alrededor de sus tobillos con fuerza, asegurándose de que no se movieran. Cuando Marco se puso de pie, el mundo cambió de perspectiva. Su centro de gravedad se desplazó. Sus pantorrillas se tensaron. Su culo se proyectó hacia atrás automáticamente.
+Elena ató las cintas alrededor de sus tobillos con fuerza, asegurándose de que no se movieran. Cuando Marco se puso de pie, el mundo cambió de perspectiva. Su centro de gravedad se desplazó. Sus pantorrillas se tensaron. Su culo se proyectó hacia atrás automáticamente. Y, para su horror, le gustó. Le gustó cómo sus piernas parecían kilométricas. Le gustó cómo el tacón lo obligaba a caminar con un balanceo de caderas hipnótico. Le gustó sentirse alto, elegante, poderoso en su vulnerabilidad.
 
-Se miró en el espejo. Parecía una muñeca de porcelana lista para romperse. O para ser rota.
+Se miró en el espejo. Ya no parecía una muñeca de porcelana. Parecía una diosa. Una diosa con labios tatuados, pestañas postizas, pelo de platino artificial, pechos imposibles, y tacones de prostituta de lujo. Todo lo que había exigido en una esposa. Todo lo que ahora era.
+
+Y lo más aterrador de todo: le gustaba lo que veía.
 
 —Perfecta —dijo Elena, admirando cómo el vestido se transparentaba bajo la luz del sol—. Ahora ve. Y recuerda: cada detalle.
 

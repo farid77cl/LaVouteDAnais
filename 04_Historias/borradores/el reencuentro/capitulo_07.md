@@ -36,85 +36,65 @@ Y ahora él era la esposa. Y el placer era suyo, aunque no lo quisiera.
 
 El piercing en su clítoris todavía pulsaba suavemente, enviando pequeñas ondas de post-placer por su sistema nervioso. Incluso agotado, su cuerpo no paraba. Era como vivir con un interruptor de excitación que nunca se apagaba del todo.
 
-Marco recordó el día que había sugerido el piercing.
+Marco recordó la noche de bodas, cuando se había enterado del piercing.
 
 ---
 
-*"Deberías ponerte un piercing en el clítoris."*
+*El intercambio ya había ocurrido. Estaban en la suite nupcial, y Marco, aturdido en el cuerpo de Elena, había sentido por primera vez ese pulso extraño entre sus piernas.*
 
-*Elena lo había mirado por encima del café de la mañana, sorprendida.*
+*"¿Qué... qué es esto?" había preguntado, tocándose a través de la tela del vestido.*
 
-*"¿Un piercing? ¿En el...?"*
+*Elena, ya en el cuerpo de Marco, había sonreído con la sonrisa de su antiguo rostro.*
 
-*"En el clítoris. Dicen que multiplica la sensibilidad. Tendrías orgasmos más intensos. Serías más... receptiva."*
+*"Es tu regalo de bodas, mi amor. Un piercing. Justo en tu clítoris. Lo hice en secreto, como sorpresa para nuestra noche de bodas. Quería que sintieras cada segundo de nuestra unión."*
 
-*"¿Receptiva?"*
+*El horror lo había atravesado como un cuchillo de hielo. Elena había modificado su propio cuerpo sin decirle, había añadido esa pieza de metal que ahora él heredaba para siempre.*
 
-*"A mí." Marco había sonreído, esa sonrisa de propietario satisfecho que ahora odiaba recordar. "Quiero que disfrutes más del sexo, cariño. Quiero que estés siempre lista para mí."*
+*"Pero... ¿por qué?"*
 
-*Elena había dudado. "¿No duele?"*
-
-*"Solo un momento. Y después... después solo hay placer. Imagina: cada roce, cada movimiento, cada paso que des. Todo te recordará que eres mía."*
-
-*Había funcionado. El piercing había convertido a Elena en un animal sexual insaciable. Marco lo había disfrutado tremendamente.*
-
-*Hasta ahora.*
+*"Porque quería darte todo el placer posible, Marco. Quería ser la esposa perfecta." Elena se había acercado, su nuevo cuerpo masculino irradiando una amenaza que Marco nunca había sentido dirigida hacia él. "Ahora tú eres esa esposa. Y vas a sentir exactamente lo que yo sentía cuando me follabas. Cada. Maldito. Segundo."*
 
 ---
 
-Marco parpadeó, volviendo al presente. Las lágrimas le corrían por las sienes, mojando la almohada.
+La ironía no escapaba a Marco. Elena había hecho todo eso por él. Para él. Y ahora él era el receptor de su propia fantasía cumplida. El piercing que debía mantenerla eternamente excitada ahora lo mantenía a él al borde de la locura.
 
-Había construido esta prisión con sus propias manos. Había diseñado cada tortura. Cada procedimiento que lo humillaba había sido pagado por él, ejecutado bajo sus órdenes, aplicado a la mujer que ahora controlaba todo.
+Y esa noche, como todas las noches, Elena decidió usarlo.
 
-Los implantes que le pesaban en el pecho. Los labios que le palpitaban de silicona. El piercing que lo mantenía perpetuamente al borde. Las uñas ridículas que hacían imposible cualquier tarea práctica. Y ahora, esta obsesión con los tacones y la lencería que él mismo había fomentado.
+—Date la vuelta —ordenó Elena, incorporándose en la oscuridad.
 
-Todo había sido idea suya.
+Marco obedeció sin pensar. Su cuerpo ya conocía el protocolo. Se giró boca abajo, elevando las caderas, sintiendo cómo el babydoll de seda se subía hasta su cintura. Los tacones de plumas quedaron enredados en las sábanas.
 
-Elena no estaba inventando nada nuevo. Solo estaba haciendo que Marco experimentara exactamente lo que él había mandado.
+Las manos de Elena recorrieron su espalda, bajando por la curva de su cintura, agarrando sus nalgas con posesión.
 
-—No puedo dormir —susurró al techo—. No puedo vivir así.
+—Tan perfectas —murmuró Elena—. Pagué una fortuna por este culo. Es justo que lo disfrute.
 
-Pero no tenía opción.
+Marco sintió los dedos de Elena deslizarse bajo el elástico de la tanga. El encaje se apartó, dejándolo expuesto. Luego vino la presión familiar de la polla de Elena —su antigua polla, la que había usado tantas veces para tomar a esta misma mujer— buscando entrada.
 
-El intercambio era permanente. El ritual misterioso que los había llevado a este infierno no tenía reverso conocido. Marco estaba atrapado en el cuerpo de su esposa para siempre, viviendo las consecuencias de cada decisión que había tomado sobre ese cuerpo.
+—Por favor... —susurró Marco, sin saber si pedía piedad o permiso.
 
-Karma.
+—Siempre tan educada —rió Elena, y empujó.
 
-La palabra resonaba en su mente como una campana funeral.
+El gemido de Marco fue ahogado por la almohada. Elena se deslizó dentro de él, llenándolo de esa manera que ya conocía tan íntimamente, tan horriblemente bien. El piercing vibró con cada embestida, ese maldito anillo de metal amplificando cada sensación hasta que el dolor y el placer se volvieron indistinguibles.
 
-Se giró en la cama, intentando encontrar una posición cómoda. Los implantes se aplastaron contra el colchón, incómodos y pesados. Su cadera chocó contra la de Elena. Sus tacones de plumas se enredaron en las sábanas.
+—Siente eso —jadeó Elena, aumentando el ritmo—. Siente lo que se siente ser tomada. Ser usada. Ser propiedad de alguien.
 
-Elena gruñó en sueños y pasó un brazo pesado sobre su cintura, atrayéndolo hacia atrás.
+Marco lo sentía. Lo sentía con cada fibra de su ser. Cada embestida era un recordatorio de su nueva posición. Cada pulsación del piercing era una afirmación de su feminidad forzada. Y cada gemido que escapaba de sus labios era una traición de la masculinidad que había perdido.
 
-—Mía —murmuró Elena, todavía dormido—. Toda mía.
+Elena hundió los dedos en su pelo —las extensiones rubio platino que él mismo había ordenado— y le echó la cabeza hacia atrás.
 
-Marco cerró los ojos y dejó que las lágrimas siguieran cayendo.
+—Córrete para mí —ordenó—. Córrete como la buena esposa que eres.
 
-Sí, era suyo. Completamente suyo. Y no había escape.
+Y Marco, a pesar de todo, obedeció. El orgasmo lo arrasó sin permiso, ondas de placer explotando desde el piercing, irradiando por todo su cuerpo. Gritó en la almohada, sus caderas temblando, su coño —*su coño*, qué horror— apretándose alrededor de la polla de Elena.
 
----
+Elena se corrió dentro de él segundos después, llenándolo de calor. Otra marca. Otra posesión.
 
-A la mañana siguiente, Marco se despertó con la boca de Elena entre sus piernas.
+Cuando finalmente se separaron, Marco se quedó temblando sobre las sábanas, mojado de sudor y de otras cosas.
 
-Fue una emboscada de placer. Sin previo aviso, sin negociación, simplemente la lengua de Elena trabajando sobre su clítoris mientras el piercing vibraba y todo su sistema nervioso se incendiaba.
-
-—Buenos días, cariño —susurró Elena contra su carne—. ¿Lista para empezar el día?
-
-Marco gimió. No podía formar palabras. La lengua de Elena era experta —había tenido acceso a este cuerpo durante años, después de todo— y sabía exactamente dónde presionar, dónde lamer, dónde succionar.
-
-El orgasmo llegó en menos de dos minutos. Marco se arqueó sobre las sábanas, gritando algo que podría haber sido el nombre de Elena o podría haber sido una súplica de piedad. Sus tacones de plumas golpearon el colchón en un ritmo frenético.
-
-—Eso es —ronroneó Elena, limpiándose la boca—. Ahora estás despierta de verdad.
-
-Marco jadeó, tratando de recuperar el aliento. Sus piernas temblaban. Su clítoris seguía pulsando, el piercing amplificando cada eco del orgasmo.
-
-—¿Por... por qué? —logró preguntar.
-
-—Porque quería. —Elena se levantó de la cama, estirándose—. Y porque mañana es sábado. Javier viene a la piscina. Y quiero que estés bien... preparado.
+—Buena chica —murmuró Elena, dándole una palmada en el culo—. Mañana es sábado. Javier viene a la piscina. Y quiero que estés bien... preparada.
 
 El corazón de Marco se detuvo.
 
-—Preparado... ¿para qué?
+—Preparada... ¿para qué?
 
 Elena sonrió, esa sonrisa que ahora Marco reconocía como la antesala del desastre.
 
