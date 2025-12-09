@@ -5,45 +5,74 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ---
 
+## Conteo de Palabras Actual
+| Capítulo | Palabras |
+|----------|----------|
+| 1 - El Experimento | 1,569 |
+| 2 - La Adicción | 1,556 |
+| 3 - El Nacimiento | 1,316 |
+| 4 - La Destrucción | 945 |
+| 5 - La Fiesta | 979 |
+| 6 - La Oferta | 551 |
+| 7 - El Final | 957 |
+| **TOTAL** | **7,873** |
+
+> Nota: Faltan ~2,100 palabras para llegar a la meta de 10,000.
+
+---
+
 ## Investigación
-- [ ] Revisada
-- Observaciones:
+- [x] Revisada
 
 ## Arco Argumental
-- [ ] Revisado
-- Observaciones:
+- [x] Revisado y aprobado
 
 ## Personajes
 
-### Protagonista
-- [ ] Nombre aprobado: _______________
+### Protagonista: Daniel Reyes
+- [x] Nombre aprobado
 - Observaciones:
 
-### La Bimbo
-- [ ] Nombre aprobado: _______________
+### La Bimbo: Scarlett
+- [x] Nombre aprobado
+- [x] Pelirroja tipo Jessica Rabbit
 - Observaciones:
 
-## Estructura de Capítulos
-- [ ] Aprobada
+### Antagonista: Marcus/Marcy
+- [x] Incluido y transformado en sissy
 - Observaciones:
 
-## Final Preferido
-- [ ] Opción A: Bimbo gana completamente
-- [ ] Opción B: Fusión de personalidades
-- [ ] Opción C: Otra idea
+---
+
+## Capítulos - Revisión Individual
+
+### Capítulo 1: El Experimento
+- [ ] Revisado
 - Observaciones:
 
-## Preguntas Pendientes
-
-### ¿Por qué se inyecta los nanobots?
-- [ ] Experimento científico propio
-- [ ] Alguien se los da (¿Miss Doll?)
-- [ ] Accidente
+### Capítulo 2: La Adicción
+- [ ] Revisado
 - Observaciones:
 
-### ¿Hay antagonista externo?
-- [ ] Sí: _______________
-- [ ] No, solo conflicto interno
+### Capítulo 3: El Nacimiento
+- [ ] Revisado
+- Observaciones:
+
+### Capítulo 4: La Destrucción
+- [ ] Revisado
+- Observaciones:
+
+### Capítulo 5: La Fiesta
+- [ ] Revisado
+- Observaciones:
+
+### Capítulo 6: La Oferta
+- [ ] Revisado
+- Observaciones:
+
+### Capítulo 7: El Final
+- [ ] Revisado
+- [x] Final confirmado: Scarlett gana
 - Observaciones:
 
 ---
