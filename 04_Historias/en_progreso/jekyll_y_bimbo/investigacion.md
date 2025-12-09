@@ -97,12 +97,15 @@ Cuando el hombre "despierta" después de que Bimbo tuvo control:
 - Caderas ensanchándose
 - Voz subiendo de tono
 
-### Estética Bimbo (ella)
-- Rubia platino, labios gruesos brillantes
-- Curvas exageradas pero "posibles"
-- Tacones imposibles de stripper
-- Ropa mínima, rosa, brillante
-- Maquillaje perfecto siempre
+### Estética Bimbo (ella) - Tipo Jessica Rabbit
+- Pelirroja voluptuosa: cabello rojo fuego ondulado
+- Curvas de reloj de arena imposibles
+- Labios carmesí, siempre húmedos
+- Ojos felinos con delineado dramático
+- Vestidos rojos ajustados que dejan poco a la imaginación
+- Guantes largos de satén (opcionales)
+- Tacones rojos de vértigo
+- Voz ronca, susurrante, seductora
 
 ### El Horror del Despertar (él)
 - Desorientación temporal

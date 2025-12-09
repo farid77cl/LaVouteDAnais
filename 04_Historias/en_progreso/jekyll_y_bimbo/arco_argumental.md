@@ -15,8 +15,8 @@ Un científico que experimenta con nanobots de transformación corporal tiene se
 - **Arco:** Control total → sexo catalizador → pérdida gradual → horror → ¿aceptación?
 
 ### La Bimbo: [NOMBRE - por definir]
-- **Apariencia:** Rubia platino, curvas exageradas, labios gruesos, tacones imposibles
-- **Personalidad:** Inteligente, manipuladora, insaciable, hedonista
+- **Apariencia:** Pelirroja voluptuosa estilo Jessica Rabbit - cabello rojo fuego ondulado cayendo sobre un hombro, curvas imposibles de reloj de arena, labios carmesí gruesos, ojos felinos con delineado dramático, vestidos rojos ajustados, tacones de vértigo
+- **Personalidad:** Inteligente, manipuladora, insaciable, hedonista, voz ronca y seductora
 - **Objetivo:** Existir permanentemente para follar, sentir placer, ser deseada
 - **Método:** Sabotear la vida del hombre, seducir a todos, hacerlo adicto al placer que ella siente
 
