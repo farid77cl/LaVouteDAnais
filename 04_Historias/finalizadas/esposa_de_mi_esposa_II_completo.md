@@ -1,4 +1,30 @@
-﻿El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
+﻿╔══════════════════════════════════════════════════════════════════════════════╗
+║                        ESPOSA DE MI ESPOSA II                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ METADATOS DEL RELATO                                                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+**Temáticas:** #BodySwap #ForcedFeminization #Femdom #TrophyWife #Humiliation #Piercings #Submission #LoveInD/s
+
+**Palabras:** ~17,329
+
+**Perspectiva:** Tercera Persona (focalización en Marco)
+
+**Intensidad:** Extrema
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ RESUMEN GANCHO                                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+La noche de bodas, Marco despierta en el cuerpo de su esposa. Elena, ahora en el suyo, no tiene intención de volver. Piercings, tacones imposibles y la mirada hambrienta de otro hombre lo llevarán a descubrir que la rendición total puede ser el único camino hacia el amor verdadero.
+
+═══════════════════════════════════════════════════════════════════════════════
+                              CUERPO DEL RELATO
+═══════════════════════════════════════════════════════════════════════════════
+
+El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
 
 O lo que ahora era Marco.
 
@@ -2134,5 +2160,19 @@ El hombre que había sido Marco Castellón no había muerto. Se había transform
 
 Salieron juntos hacia la cena, hacia Eduardo, hacia lo que fuera que el futuro les deparara. Unidos. Enamorados. Completos.
 
-
 # FIN
+
+═══════════════════════════════════════════════════════════════════════════════
+                            NOTA DE LA AUTORA
+═══════════════════════════════════════════════════════════════════════════════
+
+Si esta historia resonó en ti, si reconociste algo de ti mismo en Marco —esa parte que secretamente anhela soltar el control, que se pregunta cómo sería rendirse por completo a alguien que te ama en tu forma más vulnerable—, quiero saberlo.
+
+No te juzgo. Estas fantasías existen porque tocan algo real, algo profundo. Y si mis palabras encontraron eco en ti, si te dejaron con el corazón acelerado y la mente vagando hacia lugares que no sueles visitar... cuéntamelo.
+
+Escríbeme a: **lavoutedanais@gmail.com**
+
+Con devoción oscura,
+*Anaïs LaPlume* 🖤
+
+───────────────────────────────────────────────────────────────────────────────
