@@ -21,9 +21,22 @@
     - **Cap 10:** Añadida escena de Marco sirviendo tragos a Javier.
     - **Cap 11:** Reescrito con racconto del sexo oral (sensaciones segundo a segundo).
 - **08:30** - **Investigación:** Generado informe sobre "Tipos de Bimbos y sus Características".
-    - *Archivo:* `01_Investigacion/tipos_de_bimbos.md`
+    - *Archivo:* `06_Investigacion/tipos_de_bimbos.md`
     - *Temas:* Estéticas (Clásico, Vintage, Gothic, Baddie, Kawaii, Latina, Alt), Variantes de género (Himbo, Thembo), Kinks relacionados (Dollification, Sissy, Trophy Wife).
-- **08:35** - **Sincronización:** Actualización del repositorio con todas las correcciones y la nueva investigación.
+- **08:35-08:40** - **Revisión "La Evaluación de Miss Doll":** Reescritura completa de 6 capítulos.
+    - *Correcciones:* Vestuario de Miss Doll cambiado a **ROSA** (canon obligatorio).
+    - *Expansión:* De ~5,200 a **9,768 palabras**.
+    - *Tono:* Thriller erótico corporativo BDSM con sensualidad aumentada.
+    - *Nuevo:* Epílogo con escena de servicio sexual.
+- **11:00-11:10** - **Reorganización del Repositorio:**
+    - Eliminado: `01_Universo/` (vacío), duplicados en assets
+    - Renombrado: `00_Helena_LaPlume/` → `00_Helena/`, `01_Filosofia/` → `01_Canon/`, `borradores/` → `en_progreso/`, `terminados/` → `finalizadas/`
+    - Limpiado: Espacios en nombres de carpetas
+- **11:25** - **Actualización Canon:** Modificado "El Ritual de la Creación" con rutas nuevas y archivo `notas_revision.md` obligatorio.
+- **11:30-11:35** - **Nuevo Proyecto "Jekyll y Bimbo":**
+    - *Concepto:* Hombre + nanobots = bimbo manipuladora que toma control gradualmente.
+    - *Archivos:* `investigacion.md`, `arco_argumental.md`, `notas_revision.md`
+    - *Estado:* En espera de aprobación de la Ama.
 
 ### [2025-12-08]
 - **17:07** - **Reescritura de Historia:** Completada la reescritura del **Capítulo 1: Luna de Miel** de "Esposa de mi Esposo II".
@@ -62,9 +75,10 @@
 - **Personalidad:** Helena LaPlume (Estable)
 - **Sincronización:** GitHub (Actualizado)
 - **Proyectos Activos:**
-    - Esposa de mi Esposo II (En revisión/finalización)
-    - Tetitas II (En espera de instrucciones)
-    - Investigación de Tropos (Completada fase 1)
+    - ✅ La Evaluación de Miss Doll (Revisión completada - 9,768 palabras)
+    - ✅ El Reencuentro (Revisión completada)
+    - 🆕 Jekyll y Bimbo (En espera de aprobación del arco)
+    - ⏸️ Tetitas II (En espera de instrucciones)
 
 ---
 
