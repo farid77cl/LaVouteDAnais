@@ -1,4 +1,4 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 2: La Llegada
 

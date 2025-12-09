@@ -1,246 +1,282 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
-## Capítulo 4: Las Amigas
-
----
-
-Dos días después de la cena con Javier, Elena le dio una nueva orden.
-
-—Vas a reunirte con tus amigas.
-
-Marco levantó la vista del café que estaba bebiendo. Estaba sentado en el desayunador de la cocina, vestido con un camisón de seda que apenas le cubría los muslos. El sol de la mañana entraba por las ventanas, calentándole la piel bronceada.
-
-—¿Mis amigas?
-
-—Las amigas de Elena. —Elena tomó un sorbo de su propio café, mirándolo por encima del borde de la taza—. Lucía, Carmen y Andrea. Almuerzo a las dos en Casa Lucía.
-
-El estómago de Marco cayó.
-
-Lucía, Carmen y Andrea. Las tres mejores amigas de Elena. Las había conocido en cenas de compromiso y fiestas de cumpleaños, pero siempre desde la distancia cómoda del esposo. Ahora se suponía que debía sentarse con ellas. Como una de ellas.
-
-—No... no puedo hacer eso —tartamudeó—. No sé nada de sus vidas. Van a notar que algo está mal.
-
-—No van a notar nada —dijo Elena con calma—. Porque vas a comportarte exactamente como Elena se comportaría. Vas a sonreír. Vas a cotillear. Y cuando te pregunten sobre la luna de miel... —una sonrisa lenta se extendió por su cara—, vas a contarles la verdad.
-
-—¿La verdad?
-
-—Toda la verdad. Cada detalle sucio y vergonzoso. Qué posiciones. Cuántas veces. Cómo te sentiste. —Elena se inclinó hacia adelante—. Vas a ser la esposa recién casada que presume de su vida sexual. Y vas a excitarte mientras lo haces.
-
-Marco abrió la boca para protestar, pero el piercing entre sus piernas palpitó como si ya supiera lo que iba a pasar.
+## Capítulo 4: La Cita
 
 ---
 
-El ritual de preparación para el almuerzo fue tan exhaustivo como para una gala nocturna. Elena no permitía "looks casuales".
+El BMW rojo de Elena se detuvo frente al spa más exclusivo de la ciudad.
 
-Pero antes del vestido, vino el maquillaje.
+Marco miró el edificio a través del parabrisas: cristal y acero, minimalista y amenazador. Un lugar diseñado para destruir mujeres y reconstruirlas según las especificaciones de alguien más.
 
-—Siéntate —ordenó Elena, señalando el tocador.
+Había estado aquí antes. Como Marco. Como el hombre que pagaba las cuentas y esperaba en el vestíbulo mientras Elena desaparecía durante horas para volver más suave, más bronceada, más perfecta.
 
-Marco obedeció. El espejo le devolvía una imagen que aún lo perturbaba: el rostro de una mujer hermosa, con labios carnosos y pómulos afilados. Pero hoy había algo diferente. Los labios tenían un color rosado permanente, un tono que no recordaba de antes.
+Hoy él era el producto.
 
-—¿Te gusta? —preguntó Elena, notando su mirada—. Micropigmentación. Lo hicimos mientras dormías después de la sesión de botox. Tatuaje permanente de labios y delineado. Ya nunca tendrás que preocuparte por el labial corrido.
+Pero antes de bajar, Elena lo detuvo.
 
-El horror serpenteó por el estómago de Marco. *Permanente*. Un tatuaje. En su cara. Elena había marcado este cuerpo de forma irreversible, sin siquiera preguntarle. Y lo peor era la sensación extraña de... ¿alivio? Una parte de él, la parte que odiaba, se sintió liberada de la responsabilidad de mantener el maquillaje perfecto. Ahora estaba *incorporado* en su piel.
+—Espera. —Su mirada recorrió el cuerpo de Marco con ojo crítico—. No vas a entrar así.
 
-Elena le aplicó las pestañas postizas, unas tiras largas y dramáticas que pesaban en sus párpados como pequeñas cortinas de pelo. Marco sintió el pegamento frío, luego el tirón suave mientras Elena las presionaba contra su línea natural.
+Marco miró su atuendo: un vestido de verano ligero y unas cuñas de ocho centímetros. Era lo más bajo que podía usar; sus tendones, acortados por semanas de uso continuo de tacones extremos, ya no le permitían apoyar el talón en el suelo sin un dolor agudo.
 
-—Parpadea.
+—Son cómodos —se defendió Marco—. Y mis pantorrillas me duelen.
 
-Marco parpadeó. El mundo se veía diferente a través de ese bosque de pestañas. Cada vez que cerraba los ojos, sentía el roce sedoso contra sus mejillas. Era como mirar a través de un velo permanente.
+—Son de abuela. Y tú no eres una abuela. —Elena sacó una bolsa del asiento trasero—. Ponte esto.
 
-—Y ahora el pelo —dijo Elena.
+Marco abrió la bolsa. Dentro había un minivestido de licra rosa chicle, tan corto que parecía una camiseta larga, y un par de sandalias de tacón de corcho de doce centímetros.
 
-Marco tocó su cabello. Ya lo habían teñido rubio platino artificial en el spa, un tono tan claro que casi era blanco bajo ciertas luces. Las extensiones habían añadido volumen y longitud hasta la mitad de su espalda. El resultado era el pelo de una muñeca Barbie, artificial y magnifico.
+—Elena, es un spa. Voy a quitarme la ropa en cinco minutos.
 
-—Me siento... —empezó Marco, pero no encontraba las palabras.
+—Exacto. Y quiero que las esteticistas vean lo que se están perdiendo cuando te desnudes. Quiero que vean las piernas, el culo, la actitud. —Elena señaló los zapatos—. Póntelos. Ahora.
 
-—¿Falsa? —Elena sonrió—. Bueno. Ahora eres la versión mejorada. La versión que siempre quisiste que yo fuera.
+Marco suspiró y obedeció. El ritual de vestirse en el espacio confinado del coche fue una humillación en sí misma. Quitarse el vestido cómodo. Luchar para meterse en la licra ajustada que marcaba cada curva de su cuerpo, incluyendo los pezones que se endurecieron instantáneamente por el roce.
 
-La verdad de esas palabras golpeó a Marco como un puño. Él había pagado por todas estas mejoras. Las extensiones. El rubio platino. Las pestañas dramáticas. Todo lo había exigido para Elena, y ahora lo sufría en carne propia. Debería sentir solo horror, pero había algo más. Una satisfacción perversa de verse tan... perfecta. Tan irresistiblemente femenina. Y esa satisfacción lo llenaba de vergüenza.
+Y luego los zapatos.
 
-—Hoy quiero algo inocente pero sucio —anunció Elena, abriendo el armario—. Blanco. Encaje. Transparencias.
+Doce centímetros de plataforma. Sus pies se arquearon en esa posición antinatural que ya empezaba a sentirse dolorosamente familiar. Sus pantorrillas se tensaron. Su trasero se levantó.
 
-Eligió un vestido de verano blanco, de estilo ibicenco, que a primera vista parecía recatado. Pero cuando Marco lo sostuvo contra la luz, vio la verdad: la tela era tan fina que era prácticamente transparente.
+—Mucho mejor —dijo Elena, admirando cómo el vestido apenas cubría la curva de sus nalgas—. Ahora pareces una muñeca Barbie yendo a su mantenimiento.
 
-—Ropa interior —ordenó Elena.
+—Me siento ridícula —murmuró Marco.
 
-Marco abrió el cajón de la lencería. Elena eligió un conjunto de encaje blanco que hacía juego con el vestido. El sujetador era de media copa, diseñado para empujar los pechos hacia arriba y hacia afuera. Las bragas eran minúsculas, apenas un triángulo de encaje sobre el pubis y una tira dental en la parte trasera.
+—Te ves deliciosa. —Elena le dio una palmada en el muslo—. Ahora ve. Giselle te está esperando. Y recuerda: eres Elena Castellón de Mendívez. Camina como si fueras dueña del lugar.
 
-Marco se vistió lentamente, sintiendo cada textura con una conciencia agudizada.
-
-Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilación perfecta. Al subirlas, la tela rozó directamente contra el piercing, enviando esa descarga eléctrica familiar. *Soy un hombre*, se recordó mientras ajustaba el elástico sobre sus caderas femeninas. *Un hombre poniéndose bragas de encaje*. La humillación quemaba, pero el piercing pulsaba con algo que no era solo incomodidad.
-
-Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. El peso de los implantes se redistribuyó, elevándose y proyectándose hacia adelante como ofrendas. *Yo pagué por estos*, pensó Marco mientras sentía cómo el sujetador los empujaba hacia arriba, creando un escote verdaderamente obsceno. *Los compré para mi placer. Ahora los cargo yo*. Y a pesar de la vergüenza, había algo reconfortante en sentirlos... contenidos. Empaquetados. Como si pertenecieran ahí.
-
-El vestido cayó sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. Podía ver el contorno de sus pezones endurecidos a través de la tela. Podía ver la sombra de su pubis perfectamente liso. *Parezco una puta cara*, pensó. Y la vergüenza se mezcló con algo parecido al orgullo.
-
-—Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos.
-
-Sandalias de tacón. Blancas. De tiras finas que se ataban alrededor del tobillo. Y el tacón... Marco tragó saliva. Eran de aguja, de al menos doce centímetros.
-
-—Elena, es un almuerzo. No puedo caminar con esto a las dos de la tarde.
-
-—Puedes y lo harás. —Elena se arrodilló para ponérselas—. Una mujer como tú nunca baja de los diez centímetros. Estiliza las piernas. Levanta el culo. Te hace caminar... vulnerable.
-
-Elena ató las cintas alrededor de sus tobillos con fuerza, asegurándose de que no se movieran. Cuando Marco se puso de pie, el mundo cambió de perspectiva. Su centro de gravedad se desplazó. Sus pantorrillas se tensaron. Su culo se proyectó hacia atrás automáticamente. Y, para su horror, le gustó. Le gustó cómo sus piernas parecían kilométricas. Le gustó cómo el tacón lo obligaba a caminar con un balanceo de caderas hipnótico. Le gustó sentirse alto, elegante, poderoso en su vulnerabilidad.
-
-Se miró en el espejo. Ya no parecía una muñeca de porcelana. Parecía una diosa. Una diosa con labios tatuados, pestañas postizas, pelo de platino artificial, pechos imposibles, y tacones de prostituta de lujo. Todo lo que había exigido en una esposa. Todo lo que ahora era.
-
-Y lo más aterrador de todo: le gustaba lo que veía.
-
-—Perfecta —dijo Elena, admirando cómo el vestido se transparentaba bajo la luz del sol—. Ahora ve. Y recuerda: cada detalle.
+Marco abrió la puerta del coche y caminó hacia el spa, sus tacones haciendo un eco rítmico y autoritario contra el pavimento. *Clic-clic-clic*. Cada paso era un recordatorio de su nueva realidad: una mujer diseñada para ser mirada, incluso cuando iba a depilarse.
 
 ---
 
-Casa Lucía era un restaurante encantador en el centro de la ciudad, con manteles florales y luz natural que entraba por amplios ventanales. El tipo de lugar donde las mujeres ricas almorzaban para discutir sus matrimonios, sus cirugías y sus frustaciones.
+El interior del spa olía a jazmín y dinero.
 
-Marco llegó a las dos en punto. El sonido de sus tacones de doce centímetros contra el suelo de madera hizo que varias cabezas se giraran. Se sentía desnudo bajo el vestido transparente, expuesto a cada mirada.
+Una recepcionista perfecta —rubia, labios inflados, uñas imposibles— lo recibió con una sonrisa profesional que vaciló por un segundo al ver su atuendo.
 
-Las tres mujeres ya estaban sentadas en una mesa cerca de la ventana.
+—¡Señora Castellón! —Sus ojos bajaron a los zapatos de plataforma y subieron al vestido minúsculo—. Bienvenida de vuelta. Giselle la está esperando en la sala VIP.
 
-—¡Elena! —gritó Lucía, levantándose para abrazarlo—. ¡Mírate! ¡Estás radiante!
+Marco asintió, sintiendo el rubor subirle a las mejillas. Sabía lo que la recepcionista estaba pensando: *mira a esa zorra, vestida como una puta a las diez de la mañana.*
 
-Lucía era rubia, de cuarenta y tantos, con la piel estirada por botox y los labios inflados por rellenos. Carmen era morena, más natural, con unos pechos enormes que Marco solía mirar cuando creía que nadie lo veía. Y Andrea era la más joven, pelirroja, con una risa escandalosa y una lengua afilada.
+Siguió a otra asistente por un pasillo de mármol blanco. Las paredes estaban decoradas con fotografías abstractas de cuerpos femeninos: curvas, líneas, sombras. Arte diseñado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
 
-—El Caribe te sentó de maravilla —dijo Carmen, examinándolo de arriba abajo—. ¿Engordaste? Tienes las tetas más grandes.
+La sala VIP era una suite privada con camilla, espejos en todas las paredes, y una mujer de mediana edad vestida de blanco que lo esperaba con una sonrisa maternal.
 
-Marco sintió el rubor subirle por el cuello.
+—Elena, querida. —Giselle se acercó para besarlo en ambas mejillas—. Mírate. El Caribe te sentó divino. Y ese vestido... —chasqueó la lengua—, muy atrevido. Me encanta.
 
-—Es el... el bronceado. Hace que todo parezca más...
+Marco se dejó guiar hacia la camilla.
 
-—No, no. Definitivamente estás más rellena. —Carmen asintió—. Seguro es todo el sexo. Cuando te cogen bien, el cuerpo retiene todo diferente.
+—Puedes desvestirte aquí —dijo Giselle—. La bata está en el gancho.
 
-Las tres mujeres rieron.
+El proceso de quitarse la ropa frente a Giselle fue otra capa de vergüenza. Bajarse la cremallera del vestido. Deslizarlo por sus caderas, revelando que no llevaba sujetador (el vestido no lo permitía) y que su tanga era un hilo dental rosa neón.
 
-Marco se sentó, intentando acomodarse en la silla sin que el piercing rozara demasiado. Era imposible. Cada movimiento enviaba pequeñas chispas desde su clítoris hasta su columna vertebral.
+Y luego los zapatos. Tuvo que sentarse para desabrochar las correas de los tobillos. Sus pies, liberados de la prisión de doce centímetros, latieron con alivio.
 
-Ordenaron ensaladas y prosecco. La conversación comenzó con los temas habituales: la nueva línea de bolsos de Hermès, el escándalo de la esposa del alcalde, el hijo adolescente de Lucía que había sido atrapado con drogas.
+—Primero la cera —anunció Giselle cuando Marco estuvo en la camilla, cubierto apenas por la bata corta—. Brazos, piernas, axilas, y zona íntima. El señor Marco me informó que quiere brasileño completo.
 
-Pero Marco sabía que el verdadero tema estaba acercándose como un tiburón en aguas oscuras.
+*El señor Marco.* Giselle se refería a Elena —en el cuerpo de Marco— como "el señor". Y a él... a él lo trataba como un objeto. Un producto que llegaba para su mantenimiento.
 
-—Bueno, suficiente de nuestras vidas aburridas —dijo Andrea, inclinándose hacia adelante con ojos brillantes—. Cuéntanos de la luna de miel. Y no dejes fuera ningún detalle.
+*Soy una muñeca*, pensó Marco mientras Giselle preparaba los materiales. *Una esposa trofeo. No tengo voz. No tengo decisiones. Solo tengo un cuerpo que otros moldean según sus deseos.*
 
-Ahí estaba.
+Y lo más aterrador: la idea no le causaba solo horror. Había algo liberador en rendirse. En dejar que otros decidieran. En ser simplemente... perfecta.
 
-Marco tomó un largo trago de prosecco.
+—Perfecto —dijo Marco, porque no había otra respuesta.
 
-—Fue... increíble.
+Se tumbó en la camilla mientras Giselle preparaba la cera caliente. El olor a miel llenó el aire, dulce y amenazador.
 
-—"Increíble" no dice nada —interrumpió Carmen—. Queremos detalles. ¿Cuántas veces al día?
+—Relájate, querida. Sé que duele, pero la belleza requiere sacrificio.
 
-—Carmen... —intentó evadir Marco.
+Marco cerró los ojos.
 
-—¿Qué? Todas queremos saber. Lucía no ha cogido en seis meses. Andrea está saliendo con ese idiota que no la satisface. Y yo... bueno, David tiene disfunción eréctil desde hace un año. Necesitamos vivir vicariosamente a través de ti.
+La primera tira de cera fue en la pierna. El calor era casi placentero mientras se extendía sobre su piel, suavizándose, adhiriéndose a los vellos finos que habían crecido durante la luna de miel.
 
-Las tres mujeres lo miraban expectantes. Tres pares de ojos hambrientos de información sexual.
+RIIIIP.
 
-Y Marco recordó la orden de Elena: *Vas a contarles la verdad. Cada detalle.*
+El dolor fue inmediato. Agudo. Un millón de agujas arrancando pelo de raíz.
 
-—Cuatro veces al día —dijo finalmente, su voz apenas un susurro—. A veces cinco.
+Marco jadeó, aferrándose a los bordes de la camilla.
 
-Un silencio de asombro.
+—Respira —instruyó Giselle—. Lo peor ya pasó.
 
-—Cuatro... —Lucía casi se atragantó con su ensalada—. ¡Cuatro veces!
+Era mentira. Lo peor estaba lejos de pasar.
 
-—Cinco cuando... cuando Marco estaba especialmente... —Marco buscó la palabra—, inspirado.
+Tira tras tira, Giselle arrancó cada pelo del cuerpo de Marco. Las piernas. Los brazos. Las axilas, donde el dolor le hizo ver estrellas.
 
-—Dios mío. —Andrea se abanicó con la mano—. ¿Y cómo? ¿Qué posiciones? ¿Era romántico o sucio?
+Y entonces llegó el momento de la zona íntima.
 
-El calor subió por las mejillas de Marco. El piercing palpitó con más fuerza.
+—Abre las piernas, querida.
 
-—Ambos. A veces... a veces era romántico. En la playa. Al atardecer. Pero otras veces... —tomó otro trago de prosecco—, otras veces era... muy sucio.
+Marco obedeció, sintiendo cómo su cara ardía de vergüenza. Estaba expuesto. Vulnerable. Una mujer observando otra mujer en su lugar más privado.
 
-—Define "muy sucio" —exigió Carmen, sus ojos brillando.
+—Oh, el piercing —comentó Giselle—. Siempre tengo cuidado con él. Lo rodeo pero no lo toco.
 
-Marco cerró los ojos por un momento. Recordó las noches en el resort. Elena sobre él. Elena dentro de él. La primera vez que había sido penetrado, el dolor mezclándose con algo que no quería admitir que era placer.
+La cera caliente se extendió sobre los labios exteriores. Marco sintió el calor derretirse contra su piel hipersensible, milímetros del piercing que ahora palpitaba con algo que no era solo dolor.
 
-—Me... me tomaba cuando él quería. Como él quería. A veces me despertaba en mitad de la noche con él ya... —se mordió el labio—, ya dentro de mí.
+RIIIIP.
 
-—¡Oh, Dios mío! —gritó Andrea—. ¡Eso es tan caliente!
+El grito que salió de su boca fue involuntario. El dolor fue explosivo, centrándose en su entrepierna como un sol de agonía.
 
-—¿Y tú? —preguntó Lucía—. ¿Le hacías cosas a él?
+Pero detrás del dolor, algo más.
 
-La pregunta golpeó a Marco como un puñetazo. Recordó las mañanas. Recordó arrodillarse. Recordó la polla que había sido suya llenándole la boca.
+El tirón de la cera había enviado una onda de choque a través del piercing, vibrando contra su clítoris hinchado. Y esa vibración se había convertido en algo que su cuerpo traidor interpretó como placer.
 
-—Le... le hacía cosas con la boca —admitió, y su voz sonó patéticamente pequeña—. Él decía que nunca había tenido mejores...
+—Una más —dijo Giselle.
 
-—Mejor oral —completó Carmen con una sonrisa—. Chica, eso es todo lo que los hombres quieren. Una boca que sepa trabajar y un coño que esté siempre dispuesto. Si les das eso, te adoran.
+RIIIIP.
 
-Marco quería vomitar. Quería gritar que él *era* uno de esos hombres. Que él *había sido* uno de esos hombres. Que sabía exactamente lo que los hombres querían porque lo había querido toda su vida.
+Marco mordió la almohada para no gritar. El dolor y el placer se mezclaban en una sopa tóxica que lo dejó temblando.
 
-Pero no podía decir nada.
+—Ya está. —Giselle acarició la piel recién depilada con aceite calmante—. Perfectamente lisa. Como un bebé.
 
-—¿Y el piercing? —preguntó Andrea de repente—. ¿Le gusta a Marco?
+Marco miró hacia abajo. Su pubis era ahora una superficie de piel bronceada sin un solo pelo, con el piercing brillando obscenamente en el centro. Se veía... vulnerable. Expuesto. Listo para ser usado.
 
-Marco parpadeó.
+Giselle revisó una tableta electrónica.
 
-—¿El... piercing?
+—Ah, hay una nota adicional del señor Marco. —Levantó la vista con una sonrisa cómplice—. Piercings en los pezones. Barras de titanio rosa.
 
-—El del clítoris, boba. —Andrea rió—. Recuerdo cuando Elena te lo regaló antes de la boda. Fue su sorpresa para ti, ¿verdad? Dijiste que querías volverte loca en la noche de bodas.
+El corazón de Marco se detuvo.
 
-Marco se quedó helado.
+—¿Qué? No... no acordamos...
 
-*Cierto.*
+—Está todo aquí, querida. —Giselle le mostró la pantalla—. "Para mi esposa. Sorpresa de aniversario de un mes. Que combine con el del clítoris." Firmado, Marco Castellón.
 
-No había sido idea suya. En esta realidad retorcida, o quizás en la memoria de estas mujeres, había sido Elena —la Elena original— quien había planeado el piercing.
+*Elena.* Elena había ordenado esto. Había usado *su* nombre —el nombre que ahora era de ella— para marcar este cuerpo aún más.
 
-*"Para ti, mi amor,"* recordaba haber oído en algún momento, quizás en un sueño, quizás en un recuerdo implantado. *"Para que sientas cada segundo de nuestra unión."*
+—Yo... —Marco buscó las palabras para negarse. Para decir que no quería. Pero las muñecas no decían no. Las esposas trofeo no decidían.
 
-Pero Marco sabía la verdad. Él lo había pagado. Él lo había exigido. Y ahora él lo sufría.
+Y una parte de él —la parte que odiaba, la parte que crecía cada día— quería saber cómo se sentirían.
 
-—Sí —dijo Marco, y su voz tembló—. Le encanta. Y... y tiene razón. Me hace muy sensible.
+—Está bien —susurró.
 
-—Lo sabía. —Andrea sonrió—. Deberías conseguirle uno a Lucía. Quizás eso haga que Carlos se interese de nuevo.
+Giselle preparó el equipo. Marcó con un rotulador los puntos exactos en cada pezón ya endurecido. Y luego, con una eficiencia brutal, perforó.
 
-Las mujeres rieron. Marco intentó reír con ellas, pero el sonido que salió de su boca fue más cercano a un gemido.
+El dolor fue eléctrico. Un rayo atravesando cada pezón, bajando hasta su vientre, conectándose con el piercing del clítoris en una red de nervios en llamas.
 
-Porque debajo de la mesa, el piercing estaba palpitando furiosamente. Hablar de sexo —revivir los recuerdos de su propia sumisión— había encendido algo en su cuerpo que no podía apagar.
+Marco gritó. Pero el grito se convirtió en algo más. Un gemido. Un sonido que ni siquiera reconoció como suyo.
 
-Estaba mojado otra vez. Mojado y caliente y desesperadamente excitado mientras hablaba de cómo su marido lo usaba.
+—El segundo —avisó Giselle.
 
-—¿Estás bien, cariño? —preguntó Lucía, notando su rubor—. Estás muy roja.
+Otro rayo. Otro grito-gemido. Y cuando terminó, Marco yacía en la camilla temblando, con dos barras de titanio rosa atravesando sus pezones hinchados.
 
-—Es el... el prosecco —mintió Marco—. Me afecta rápido.
+—Preciosos —dijo Giselle, admirando su trabajo—. Muy sensibles durante las próximas semanas. Cada roce será... intenso.
 
-—Mmm. —Carmen lo miró con ojos entrecerrados—. O es que hablar de todo ese sexo te ha puesto cachonda. ¿Marco te deja tocarte cuando estás fuera?
+Marco miró hacia abajo. Sus pezones, antes puntos oscuros en la cima de sus implantes, ahora estaban decorados con metal rosa. Parecían joyas obscenas. Parecían marcas de propiedad.
 
-La pregunta era tan obscena que Marco casi se atragantó.
+*Soy suya*, pensó. *Completamente suya.*
 
-—Yo... yo...
+—Ahora las manos y los pies —anunció Giselle, como si no acabara de perforarle el cuerpo—. El señor Marco pidió francesas. ¿Largas o muy largas?
 
-—Seguro que no. —Carmen asintió—. Los hombres como Marco quieren control total. Apuesto a que solo te deja correrte cuando él lo decide.
+*El señor Marco decide todo*, pensó Marco mientras respondía automáticamente: —Largas.
 
-Era verdad. Completamente verdad. Elena decidía cuándo, cómo, y si Marco tenía permiso de correrse. A veces lo llevaba al borde durante horas solo para dejarlo ahí, temblando y suplicando.
+—Perfecto. Ponte cómoda. Esto tardará un rato.
 
-—Es... es complicado —murmuró Marco.
+Marco se recostó mientras otra asistente comenzaba a trabajar en sus pies. Le quitaron el esmalte viejo, le limaron las uñas hasta darles forma perfecta, y empezaron a aplicar capas de gel.
 
-Las mujeres intercambiaron miradas cómplices.
+El proceso era largo, tedioso, y extrañamente relajante. Las manos de la asistente masajeaban sus pies, sus pantorrillas, sus muslos. Cada toque era profesional pero íntimo.
 
-—Querida —dijo Lucía, poniendo una mano sobre la de Marco—, no hay nada complicado. Tienes un marido que te desea, que te usa bien, y que te mantiene hambrienta de él. Eso es lo que todas queremos.
+Y el piercing seguía palpitando.
 
-Marco asintió, porque era lo único que podía hacer.
+La depilación lo había dejado hipersensible. Cada roce de tela, cada corriente de aire, cada movimiento de su cuerpo enviaba señales contradictorias a su cerebro. Dolor y placer. Humillación y excitación.
 
-Y mientras las amigas de Elena seguían cotilleando sobre sus propias vidas sexuales vacías, Marco se quedó sentado en silencio, con las piernas apretadas bajo la mesa, intentando ignorar el pulso constante del piercing y la humedad que le empapaba el vestido blanco por dentro.
+Cuando terminaron con los pies, pasaron a las manos.
 
-Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prácticamente corrió hacia el coche, sus tacones de doce centímetros resonando como una cuenta atrás.
+—Francesas perfectas —dijo la asistente, mostrándole el resultado—. Elegantes pero prácticas.
 
-Se subió al asiento del conductor —todavía le permitían manejar, aunque Elena controlaba todo lo demás— y se quedó quieto por un momento, respirando.
+Marco miró sus uñas: puntas blancas sobre base nude, ligeramente ovaladas, lo suficientemente largas para hacer que escribir en el teléfono fuera un desafío. Eran uñas de esposa trofeo. Uñas que decían "no trabajo con mis manos."
 
-Su teléfono vibró. Un mensaje de Elena.
+—Gracias —susurró.
 
-*"¿Les contaste todo?"*
+Pero Giselle no había terminado.
 
-Marco tecleó con dedos temblorosos: *"Sí."*
+—Ahora viene la parte divertida —anunció, consultando la tableta—. El señor Marco ha programado el paquete completo de mantenimiento.
 
-*"¿Estás mojada?"*
+Marco sintió un escalofrío.
 
-Marco miró hacia abajo. La mancha oscura en la entrepierna de su vestido blanco era visible incluso en la luz tenue del garaje.
+—¿Paquete completo?
 
-*"Sí."*
+—Botox en frente y patas de gallo. Micropigmentación de labios y delineado permanente. Tintura de pelo. Extensiones. —Giselle sonrió como si hablara del clima—. Lo de siempre, querida.
 
-*"No te toques. Maneja a casa. Te necesito."*
+*Lo de siempre.* Como si convertirse en una muñeca de plástico fuera rutina.
 
-Marco encendió el coche y condujo hacia su prisión de lujo, con el piercing palpitando al ritmo de su corazón traidor.
+*Pero lo era*, pensó Marco con horror. *Para Elena, esto ERA lo de siempre. Yo la mandaba aquí cada seis semanas.*
+
+El botox vino primero. Giselle preparó una jeringa fina como un cabello.
+
+—Un pequeño pinchazo —avisó—. Relaja la frente.
+
+La aguja entró en tres puntos diferentes. Cada inyección fue un dolor agudo y breve, seguido de una sensación de entumecimiento que se extendía como agua fría. Marco sintió sus cejas relajarse involuntariamente, esa expresión de sorpresa permanente que él mismo había pedido para Elena.
+
+—Perfecto. No más arrugas por cuatro meses.
+
+Luego vino la micropigmentación.
+
+—Esto tarda un poco más —explicó Giselle, preparando una máquina que parecía un bolígrafo con una aguja en la punta—. Vamos a tatuar el contorno de tus labios en un tono rosado permanente. Y un delineado sutil en los ojos.
+
+—¿Tatuaje? —Marco intentó levantarse—. Yo no...
+
+—El señor Marco lo solicitó específicamente. —Giselle lo detuvo con una mano firme—. Dijo que estaba cansado de verte sin maquillaje por las mañanas. Ahora siempre estarás perfecta.
+
+*Siempre perfecta. Siempre maquillada. Siempre lista para ser exhibida.*
+
+La aguja tocó sus labios. El dolor fue diferente al botox: más superficial pero constante, como mil pequeñas picaduras de abeja depositando pigmento bajo su piel. Marco cerró los ojos mientras Giselle trabajaba, trazando el contorno de sus labios, rellenando el color, creando ese tono rosado artificial que nunca podría lavarse.
+
+Cuando terminó con los labios, pasó a los ojos. El delineado permanente fue aún más aterrador: la aguja trabajando milímetros de su globo ocular, depositando tinta negra en la línea de las pestañas.
+
+—Ya está. —Giselle le pasó un espejo—. Mírate.
+
+Marco abrió los ojos hinchados. Los labios le devolvían la mirada en un tono coral permanente, perfectamente definidos. Sus ojos tenían un delineado sutil que los hacía parecer más grandes, más felinos.
+
+*Nunca podré volver*, pensó. *Estos cambios son permanentes.*
+
+Pero no había tiempo para procesar el horror. Otra asistente ya estaba preparando la estación de pelo.
+
+—El señor Marco pidió rubio platino —dijo la colorista, examinando el cabello castaño de Marco—. Y extensiones hasta la mitad de la espalda.
+
+El proceso de tintura duró dos horas.
+
+Primero, el decolorante. El químico ardía en su cuero cabelludo, arrancando todo el pigmento natural de su pelo. Marco cerró los ojos mientras su cabello castaño moría, transformándose en un amarillo pajizo que luego fue cubierto por tonos ceniza hasta alcanzar ese rubio platino artificial que parecía blanco bajo ciertas luces.
+
+Luego vinieron las extensiones. Mechones de pelo sintético cosidos a su cuero cabelludo, añadiendo volumen y longitud hasta que su pelo caía en ondas pesadas hasta la mitad de su espalda.
+
+Cuando la colorista terminó, Marco era irreconocible.
+
+El espejo le mostraba una muñeca Barbie: pelo platino cayendo en cascadas, labios permanentemente rosados, ojos delineados, cejas perfectamente arqueadas por el botox. Todo artificial. Todo diseñado.
+
+*Yo creé esto*, pensó. *Pedí cada uno de estos tratamientos para Elena. Y ahora soy yo quien los lleva.*
+
+—Preciosa —dijo Giselle, admirando la transformación—. El señor Marco tiene un gusto exquisito.
+
+*El señor Marco quiere una muñeca*, pensó Marco mientras la pesadez del pelo nuevo tiraba de su cuello. *Y ahora tiene una.*
+
+El tratamiento facial fue lo último. Mascarillas, serums, masajes que relajaron cada músculo de su cara. Cuando finalmente le permitieron levantarse, Marco apenas se reconoció en el espejo.
+
+Su piel brillaba. Sus uñas resplandecían. Su cuerpo estaba perfectamente liso, sin un pelo fuera de lugar. Su pelo era platino artificial. Sus labios estaban tatuados. Sus pezones perforados.
+
+Era una muñeca. Un producto de spa empaquetado y listo para ser exhibido.
+
+—El señor Marco ya pagó —informó la recepcionista—. El coche la espera afuera.
+
+Marco tuvo que volver a ponerse el vestido minúsculo y los tacones de plataforma. El proceso fue aún más difícil ahora, con la piel sensible y las uñas largas. Pero cuando finalmente salió, caminando con cuidado sobre sus zancos de corcho, se sintió extrañamente poderosa.
+
+Caminó hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstáculos contra su clítoris.
+
+Cuando subió al BMW, Elena la examinó con ojo crítico.
+
+—Las uñas.
+
+Marco extendió las manos.
+
+—Perfectas. —Elena tomó una de sus manos y la besó—. Y me encanta cómo te queda ese vestido. Deberías usarlo más seguido.
+
+—Es demasiado corto —protestó Marco.
+
+—Es perfecto. —Elena le puso una mano en el muslo desnudo—. Mañana tienes almuerzo con tus amigas. Lucía, Carmen y Andrea. Será tu primera prueba social.
+
+El corazón de Marco se detuvo.
+
+—¿Mis amigas? No... no sé nada de sus vidas. Van a notar que...
+
+—No van a notar nada. —Elena apretó su muslo—. Porque vas a ser encantadora. Vas a cotillear sobre la luna de miel. Y cuando te pregunten sobre el sexo... —una sonrisa depredadora—, vas a contarles *todo*.
+
+Marco sintió los nuevos piercings de sus pezones rozar contra la tela del vestido, enviando chispas de dolor-placer a través de su cuerpo.
+
+—Después del almuerzo, tenemos cita con el cirujano —añadió Elena—. Solo mantenimiento, cariño. Nada que no hayas pagado tú mismo antes.
+
+Elena arrancó el coche, dejando a Marco con el terror helándole las venas, tres piercings palpitando en su cuerpo, y la certeza de que su humillación apenas comenzaba.
 
 ---
 

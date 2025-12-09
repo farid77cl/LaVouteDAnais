@@ -1,4 +1,4 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 10: La Piscina
 
@@ -10,171 +10,177 @@ Marco lo vio desde la ventana del dormitorio: el Porsche rojo entrando por el ca
 
 Javier vestía un bañador azul marino y nada más. Su torso bronceado brillaba bajo el sol, cada músculo definido por años de gimnasio y genética afortunada.
 
-Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlética. Ahora lo miraba con algo diferente. Algo que no quería nombrar.
+Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlética. Ahora lo miraba con algo diferente. Algo que hacía que los tres piercings palpitaran suavemente.
 
 —Vamos —dijo Elena, poniéndole una mano en la espalda baja—. Es hora.
 
-Marco bajó las escaleras con piernas temblorosas. El bikini blanco era tan pequeño que cada paso era un acto de equilibrismo entre la modestia y la exposición total. El pareo transparente no ocultaba nada.
+Marco bajó las escaleras con gracia aprendida. El bikini blanco era diminuto, pero ya no le causaba el pánico de antes. El pareo transparente flotaba sobre sus caderas como un susurro de seda.
 
-Y los tacones.
+Y los tacones de nueve pulgadas sonaban con autoridad en el mármol. *Clic-clic-clic*. Ya no tambaleaba. Había aprendido.
 
-Dios, los tacones.
+Su pelo rubio platino caía sobre un hombro mientras bajaba, brillando bajo la luz del sol que entraba por los ventanales.
 
-El sonido de sus plataformas transparentes resonaba en el mármol del vestíbulo. *Clic-clic-clic*. Cada paso era inestable, precario. Sentía que en cualquier momento se torcería un tobillo y caería al suelo como una muñeca rota.
-
-Salieron a la terraza de la piscina. El calor golpeó a Marco como una bofetada. El agua brillaba azul turquesa bajo el sol de la tarde. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores imaginables.
+Salieron a la terraza de la piscina. El calor golpeó a Marco, pero fue bienvenido. El agua brillaba azul turquesa. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores.
 
 Y Javier, de pie junto a la piscina, mirándolo acercarse.
 
 —¡Joder! —exclamó Javier, silbando—. Elena, estás... dios mío.
 
-Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en los pechos que desbordaban el bikini. En la cintura. En las caderas. En las piernas bronceadas que parecían interminables gracias a los tacones de nueve pulgadas.
+Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en el pelo platino brillante. En los pechos que desbordaban el bikini. En las piernas bronceadas que parecían interminables gracias a los tacones imposibles.
 
-—Gracias, Javi —dijo Marco, forzando la sonrisa que ya era automática.
+Y entonces, Javier se detuvo. Frunció el ceño ligeramente, entrecerrando los ojos.
 
-—No, en serio. —Javier se acercó, invadiendo su espacio personal—. Cada vez que te veo estás más buena. ¿Qué te está dando Marco? ¿Esperma mágico?
+—Espera... ¿qué es eso?
 
-Elena rió.
+Marco sintió el corazón acelerarse. Sabía exactamente qué había visto Javier.
 
-—Algo así. ¿Champán?
+—¿Qué es qué? —preguntó, fingiendo inocencia.
 
-Mientras Elena servía las copas, Javier seguía mirando a Marco. Era una mirada de depredador. Hambrienta. Paciente.
+—Eso. —Javier señaló su pecho—. Bajo el bikini. Parece...
 
-Marco conocía esa mirada porque él la había tenido tantas veces. Cuando veía a una mujer atractiva en un bar. Cuando calculaba las probabilidades de llevarla a la cama. Cuando planeaba su conquista.
+Se acercó un paso, invadiendo su espacio personal. Sus ojos se fijaron en los triángulos de tela blanca, donde las barras de titanio rosa de los piercings se marcaban claramente como líneas horizontales, las bolitas creando pequeños bultos obscenos a cada lado de los pezones.
 
-Ahora era el objetivo de esa mirada.
+—¿Tienes piercings en los pezones? —La voz de Javier era de pura incredulidad fascinada—. Hostia puta, Elena. ¿En serio?
+
+El rubor subió por el cuello de Marco como una ola de fuego. Ahí estaba. El momento que había temido. Javier lo sabía. Veía las marcas de su sumisión atravesando la tela.
+
+—Fueron... fueron idea de Marco —logró decir, usando la excusa que Elena le había dado.
+
+—¿Marco te hizo perforarte los pezones? —Javier rió, pero no era una risa burlona. Era admiración—. Joder, tío. Siempre supe que Marco era un cabrón con suerte, pero esto... esto es otro nivel.
+
+Miró a Elena con una sonrisa cómplice.
+
+—Tu esposa es una obra de arte, cabrón.
+
+—Lo sé —dijo Elena, pasando un brazo posesivo alrededor de la cintura de Marco—. Por eso la cuido tanto.
+
+Pero Marco apenas escuchaba. Estaba demasiado ocupado procesando lo que sentía.
+
+Javier había visto los piercings. Sabía que era una mujer marcada, perforada, entrenada. Y esa mirada de admiración hambrienta... los tres piercings palpitaron al unísono, enviando ondas de algo que no era solo vergüenza.
+
+Era excitación.
+
+*La humillación te excita*, le había dicho Elena. *Ya lo aprendiste*.
+
+Era verdad. Y ahora, bajo la mirada depredadora de Javier, lo sentía más que nunca.
+
+---
 
 Se sentaron en las tumbonas. Marco intentó cubrirse con el pareo, pero Elena se lo quitó.
 
 —Hace demasiado calor para eso, cariño.
 
-Quedó expuesto. El bikini diminuto. La piel bronceada. El piercing apenas visible como un pequeño bulto bajo la tela blanca. Y los zapatos, todavía puestos, brillando bajo el sol.
+Quedó expuesto. El bikini diminuto. La piel bronceada. Los piercings de pezones visibles a través de la tela. El piercing del clítoris creando su propio bulto distintivo. Y los tacones de nueve pulgadas, todavía puestos, brillando bajo el sol.
 
-—¿No te quitas los zapatos? —preguntó Javier, mirando sus pies con fascinación.
+—¿No te quitas los zapatos? —preguntó Javier, sus ojos moviéndose entre los tacones y los pezones perforados con fascinación.
 
-—A Elena le gusta que los lleve puestos —respondió Marco, repitiendo la línea que le habían enseñado.
+—A Marco le gusta que los lleve puestos —respondió Marco.
 
-—Y tiene razón. —Javier sonrió—. Hacen que tus piernas se vean increíbles. Y me gusta cómo arquean tu pie. Muy sexy.
+—Y tiene razón. —Javier sonrió, su mirada deteniéndose nuevamente en los bultos de los piercings—. Hacen que todo tu cuerpo se vea... disponible.
 
-Marco sintió el rubor subirle por el cuello.
+Marco sintió un escalofrío. Javier había dicho "disponible". No "sexy". No "hermosa". *Disponible*.
 
-—Cariño —dijo Elena, con esa voz de orden disfrazada de sugerencia—, ¿por qué no nos traes unos cócteles del bar? Prepara unos mojitos.
+Y los piercings respondieron, pulsando con anticipación.
 
-Marco miró hacia la barra, al otro lado de la piscina. Tendría que caminar todo el trayecto con esos tacones de nueve pulgadas, en ese bikini diminuto, mientras Javier lo observaba.
+—Cariño —dijo Elena—, ¿por qué no nos traes unos cócteles del bar?
 
-—Claro —dijo Marco, porque no había otra opción.
+Marco entendió. Iba a tener que caminar todo el trayecto con el bikini que mostraba sus piercings, mientras Javier observaba cada paso.
 
-Se levantó de la tumbona con cuidado, sintiendo inmediatamente cómo sus pantorrillas protestaban por el esfuerzo. Los tacones de plataforma se hundieron ligeramente en el césped artificial que bordeaba la piscina. Cada paso era una negociación entre el equilibrio y la gravedad.
+—Claro —dijo, levantándose con gracia.
 
-Y Javier miraba. Marco podía sentir sus ojos recorriendo cada centímetro de su cuerpo mientras caminaba hacia el bar. El bikini se movía con cada paso, la tela ajustándose y desajustándose sobre sus nalgas. El piercing pulsaba con cada movimiento de sus caderas.
+Caminó hacia el bar sintiendo la mirada de Javier recorriendo su cuerpo. Sabía que estaba mirando los piercings. Sabía que estaba imaginando qué más tenía perforado. Y esa certeza hacía que los tres piercings cantaran en armonía.
 
-Preparó los mojitos con manos temblorosas, las uñas francesas haciendo que cada tarea fuera más difícil. Aplastar la menta. Exprimir la lima. Añadir el ron. Sus pechos se balanceaban ligeramente cada vez que agitaba la coctelera.
+Preparó los mojitos con manos que ya no temblaban de terror, sino de anticipación. Sus pechos perforados se balanceaban ligeramente con cada movimiento de la coctelera.
 
-Cuando regresó con la bandeja, tuvo que concentrarse intensamente para no derramar nada. El camino de vuelta fue aún peor. Ahora caminaba hacia Javier, y podía ver exactamente cómo sus ojos estaban fijos en el movimiento de su escote, en el vaivén de sus caderas, en las piernas arqueadas sobre los tacones imposibles.
+Cuando regresó, Javier lo miraba con ojos de lobo.
 
-—Gracias, preciosa —dijo Javier cuando Marco le entregó su copa, rozando deliberadamente sus dedos.
+—Eres increíble —dijo, tomando su copa—. Absolutamente increíble. Marco es el hombre más afortunado del mundo.
 
-El contacto envió un escalofrío por el brazo de Marco.
+—Lo soy —confirmó Elena.
 
-Elena sonrió.
+Y Marco, entregando las copas con sus tacones imposibles y sus piercings visibles, descubrió que una parte de él estaba de acuerdo.
 
-—Ahora trae las aceitunas. Y luego el hielo extra. Y después... quizás unos aperitivos.
+---
 
-Marco entendió. Elena lo estaba haciendo ir y venir a propósito. Un espectáculo para Javier. Una exhibición de su esposa cosificada, desfilando en bikini y tacones de stripper como una camarera de club nocturno.
+Elena inventó excusas para hacer que Marco fuera y viniera, un espectáculo ambulante de sumisión exhibida. Cada viaje era otra oportunidad para que Javier admirara los piercings, los tacones, el cuerpo entero.
 
-Y lo peor era que cada viaje, cada mirada de Javier, hacía que el piercing pulsara más fuerte.
+Y Marco lo disfrutaba. Lo odiaba disfrutarlo. Pero lo disfrutaba.
 
-La conversación fluyó mientras Marco iba y venía. Negocios. Yates. Viajes. Y entre cada tema, otro viaje al bar, otra caminata exhibicionista, otra dosis de la mirada hambrienta de Javier.
+Cuando Elena se fue a buscar las gafas de sol del coche, Marco se quedó a solas con Javier.
 
-—Oye, Marco —dijo Javier de repente—, me dejé las gafas de sol en el coche. ¿Puedes ir a buscarlas?
+—Así que... —Javier se reclinó en su tumbona—. ¿Puedo preguntarte algo personal?
 
-Elena se levantó.
+—Supongo.
 
-—Ahora mismo.
+—Los piercings. —Javier señaló su pecho—. ¿Duelen?
 
-—No, no. —Javier lo detuvo con un gesto—. Quédate. Envía a Elena. Seguro que sabe dónde están.
+Marco se miró los pezones. Las barras eran claramente visibles bajo la tela mojada del bikini.
 
-Marco miró a Elena, buscando una excusa, una salida. Caminar hasta el coche con esos tacones...
+—Ya no. Pero son... sensibles.
 
-Elena sonrió.
+—¿Sensibles cómo?
 
-—Claro. Javier, cuida de mi esposa mientras vuelvo.
+—Cada roce se siente... amplificado.
 
-Y se fue.
+Javier asintió lentamente, sus ojos brillando.
 
-Marco se quedó helado. A solas con Javier. En bikini y tacones de stripper. En una piscina privada donde nadie podía verlos ni oírlos.
+—¿Y el de abajo? —preguntó, bajando la mirada hacia la entrepierna de Marco—. Porque apuesto a que también tienes uno ahí.
 
-—Así que... —Javier se reclinó en su tumbona, mirándolo con esos ojos de lobo—, ¿cómo va todo, preciosa?
+Marco sintió el rubor explotar en su cara.
 
-—Bien —mintió Marco—. Todo bien.
+—Eso es... privado.
 
-—Mmm. —Javier tomó un sorbo de champán—. Me alegro. Porque tengo que decirte algo.
+—Eso es un sí. —Javier sonrió—. Joder, Elena. Eres la mujer más sexy que he conocido.
 
-—¿Qué?
+Se levantó y caminó hacia la tumbona de Marco. Lento. Deliberado.
 
-Javier se levantó de su tumbona y caminó hacia la de Marco. Lento. Deliberado. Cada paso era una amenaza.
+—Llevo semanas pensando en ti —dijo, sentándose al borde—. Desde esa cena. No puedo sacarte de la cabeza. Y ahora que sé lo de los piercings...
 
-—Llevo semanas pensando en ti —dijo, sentándose al borde de su tumbona—. Desde esa cena. No puedo sacarte de la cabeza.
-
-El corazón de Marco latía desbocado.
+Le puso una mano en el muslo. Caliente. Posesiva.
 
 —Javi... soy la esposa de tu mejor amigo.
 
-—Lo sabía. —Javier le puso una mano en el muslo. Caliente. Posesiva—. Y eso lo hace más excitante.
+—Lo sé. —La mano subió—. Y eso lo hace más excitante.
 
-Marco intentó apartarse, pero estaba atrapado entre el respaldo de la tumbona y el cuerpo de Javier. Sus tacones resbalaron en el cojín de la tumbona, dejándolo en una posición vulnerable, con las piernas abiertas.
+Marco debería haberse apartado. Debería haber gritado. Pero los tres piercings estaban cantando, y su cuerpo —ese cuerpo entrenado para responder a la humillación con placer— se estaba derritiendo.
 
-—No —dijo, la voz temblando—. No quiero esto.
+—Solo quiero un beso —susurró Javier—. Un beso y ya.
 
-—¿Estás segura? —Javier subió la mano, sus dedos rozando el borde del bikini—. Porque tu cuerpo dice otra cosa.
+Los labios de Javier tocaron los suyos. Fue un beso suave al principio, exploratorio. Luego más duro. La lengua de Javier invadió su boca.
 
-Era verdad. Maldita sea, era verdad. El piercing estaba palpitando furiosamente. La adrenalina, el miedo, la proximidad de un cuerpo masculino... todo se mezclaba en una sopa de sensaciones que su cuerpo interpretaba como excitación.
+Marco gimió. Una parte de él lo odiaba. Otra parte —la parte que Elena había despertado— se rendía.
 
-—Javi, por favor...
+Cuando Javier finalmente se separó, Marco estaba jadeando. Los piercings de sus pezones estaban tan duros que dolía. El del clítoris palpitaba con necesidad.
 
-—Solo quiero un beso —susurró Javier, acercándose a su cara—. Un beso y ya. Si no te gusta, paro.
-
-Marco giró la cabeza, pero Javier le tomó la barbilla y lo forzó a mirarlo.
-
-—Un beso, Elena. Un pequeño beso.
-
-Los labios de Javier tocaron los suyos.
-
-Fue un beso suave al principio, exploratorio. Luego más duro. La lengua de Javier invadió su boca, probándolo, conquistándolo.
-
-Marco gimió. No quería. No quería nada de esto. Pero su cuerpo se derretía bajo el contacto.
-
-Cuando Javier finalmente se separó, Marco estaba jadeando.
-
-—Lo sabía —susurró Javier, triunfante—. Sabía que lo querías.
-
-—No... yo no...
-
-—Shhh. —Javier le puso un dedo sobre los labios—. Ahora vas a hacer algo por mí.
+—Lo sabía —susurró Javier—. Sabía que lo querías.
 
 Se levantó y se bajó el bañador.
 
-Su polla saltó libre, gruesa y erecta, apuntando directamente a la cara de Marco.
+Su polla saltó libre, gruesa y erecta.
 
-—Javi... no puedo...
+—Ahora vas a demostrarme lo buena que eres.
 
-—Puedes. —Javier le agarró el pelo, sin fuerza pero con firmeza—. Y lo vas a hacer. Porque si no lo haces, le cuento a Marco que me besaste. Que me provocaste. Que me suplicaste.
+Marco miró la polla frente a él. Miró a Javier. Y tomó una decisión que lo sorprendió a sí mismo.
 
-—¡Eso es mentira!
+—Si hago esto —dijo, su voz firme a pesar de todo—, Elena tiene que saberlo.
 
-—¿Y él a quién le va a creer? —Javier sonrió—. ¿A su mejor amigo de veinte años, o a la zorra que no puede mantener las piernas cerradas?
+Javier parpadeó.
 
-Marco cerró los ojos. Las lágrimas le quemaban bajo los párpados.
+—¿Qué?
 
-No tenía opción. Si Javier le contaba mentiras a Elena... si Elena decidía castigarlo más por esto...
+—No voy a mentirle a mi... marido. Si quieres esto, Elena tiene que aprobarlo.
 
-—Eso es —susurró Javier, guiando su cabeza hacia adelante—. Abre la boca, preciosa. Demuéstrame lo buena que eres.
+Era una jugada arriesgada. Pero Marco conocía a Elena ahora. Conocía sus juegos. Y apostaba a que esto —exactamente esto— era lo que Elena había planeado desde el principio.
 
-Marco abrió la boca.
+Javier frunció el ceño. Luego rió.
 
-La polla de Javier entró, caliente y salada, llenándole la boca con su grosor.
+—Eres increíble, ¿lo sabes? Incluso ahora, incluso así... eres leal.
 
-Y Marco, la esposa perfecta, empezó a chupar, con sus tacones transparentes brillando bajo el sol como testigos mudos de su caída final.
+Se subió el bañador.
+
+—Está bien. Lo hablaremos con Marco cuando vuelva.
+
+Y Marco, todavía temblando de excitación no liberada, esperó a que Elena regresara, sabiendo que el verdadero juego apenas comenzaba.
 
 ---
 

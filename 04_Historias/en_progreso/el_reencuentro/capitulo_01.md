@@ -1,4 +1,4 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 1: Luna de Miel
 
@@ -76,9 +76,27 @@ Marco cerró los ojos. El piercing. El maldito piercing del clítoris estaba pal
 
 Esa noche, en la suite, la lección continuó.
 
-Elena lo había obligado a ponerse el conjunto negro: liguero, medias, y unos tacones de charol de seis pulgadas que hacían que caminar fuera un acto de fe.
+Elena lo había obligado a ponerse el conjunto negro.
 
-—A la cama —ordenó Elena.
+Marco se miró en el espejo del baño mientras sus dedos torpes —dedos finos, de uñas perfectas— abrochaban el liguero de encaje alrededor de su cintura. El corsé era implacable: varillas de acero comprimían su cintura, empujando sus pechos hacia arriba hasta crear un escote que parecía imposible. Las medias negras de seda subían por sus piernas recién depiladas, enganchándose a los tirantes del liguero con pequeños broches de metal frío.
+
+Y los tacones.
+
+Charol negro. Seis pulgadas de altura. Una plataforma mínima que no aliviaba el ángulo imposible de sus pies. Caminar en ellos era un acto de fe ciega: cada paso exigía que arqueara la espalda, proyectara las caderas, contoneara el trasero. No podía evitarlo. El diseño de los zapatos lo *obligaba* a moverse como una stripper.
+
+*He visto este conjunto antes*, pensó Marco, y el recuerdo lo golpeó como una ola.
+
+Lo había visto en Elena. Hace cuatro años, cuando todavía eran novios. Ella se lo había puesto para su cumpleaños: el corsé apretando su cintura, las medias susurrando cuando cruzaba las piernas, los tacones haciéndola caminar diferente. Marco recordaba haberse quedado sin palabras. Recordaba la urgencia animal de arrancarle todo y tomarla contra la pared.
+
+Y ahora él era quien lo usaba.
+
+Algo se movió entre sus piernas. No quería admitirlo, pero podía sentir la humedad formándose. El maldito piercing del clítoris pulsaba contra el encaje de las bragas minúsculas que completaban el conjunto. Su cuerpo —el cuerpo de Elena— *respondía* a la imagen en el espejo.
+
+No era excitante. No podía serlo. Él era un hombre.
+
+Pero el reflejo que le devolvía la mirada no era un hombre. Era una muñeca sexual de fantasía, curvas imposibles envueltas en encaje negro, piernas kilométricas en tacones de stripper, labios gruesos entreabiertos en algo que parecía... anticipación.
+
+—A la cama —ordenó Elena desde la habitación.
 
 Marco se tumbó boca arriba, esperando lo inevitable. Esperando que Elena se subiera encima y terminara rápido.
 

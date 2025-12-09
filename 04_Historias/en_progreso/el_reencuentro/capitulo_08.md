@@ -1,4 +1,4 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 8: Más Recuerdos
 
@@ -6,11 +6,13 @@
 
 El viernes por la noche, el ritual de preparación para la cama fue diferente.
 
-Elena no le ordenó ponerse el babydoll negro. En su lugar, sacó una caja de seda blanca del fondo del armario.
+Algo había cambiado entre ellos después de la confesión de anoche. El "te amo" susurrado en la oscuridad flotaba en el aire como una promesa. Marco lo sentía en la forma en que Elena lo miraba: ya no solo con posesión, sino con algo más tierno.
 
-—Ponte esto —dijo, entregándosela.
+Pero la humillación no se detuvo. Solo se transformó.
 
-Marco abrió la caja. Dentro había un camisón de seda color marfil, largo hasta el suelo, con encaje delicado en el escote y la espalda. Era hermoso. Elegante. Casi... respetuoso.
+—Tengo algo especial para ti —dijo Elena, sacando una caja de seda blanca del fondo del armario.
+
+Marco abrió la caja. Dentro había un camisón de seda color marfil, largo hasta el suelo, con encaje delicado en el escote. Era hermoso. Elegante.
 
 Pero cuando lo sacó, vio los zapatos que venían con él.
 
@@ -18,85 +20,109 @@ Sandalias de tacón de cristal. Diez centímetros. Con plumas blancas en la punt
 
 —Es el conjunto que tenía preparado para nuestra noche de bodas —dijo Elena suavemente—. Lo compré semanas antes. ¿Te acuerdas?
 
-Marco asintió. Recordaba haber arrancado ese camisón del cuerpo de Elena con impaciencia. Recordaba haberle dicho que los zapatos eran "sexys" y haberle prohibido quitárselos mientras la follaba.
+Marco recordaba. Recordaba haber arrancado ese camisón del cuerpo de Elena con impaciencia. Los zapatos eran "sexys" y le había prohibido quitárselos mientras la follaba.
 
-Se vistió en silencio. La seda se deslizó sobre su piel bronceada como agua fresca. El encaje rozó sus pezones sensibles. Y los zapatos... los zapatos elevaron sus talones, tensaron sus pantorrillas y cambiaron su postura instantáneamente.
+Se vistió en silencio, consciente de la mirada de Elena sobre él. La seda se deslizó sobre su piel como agua fresca. El encaje rozó los piercings de sus pezones, arrancándole un pequeño gemido. Y los zapatos de cristal elevaron sus talones, tensaron sus pantorrillas y arquearon su espalda automáticamente.
 
-Se miró en el espejo. Parecía una novia. Una novia triste, atrapada en el cuerpo que ella misma había esculpido para el placer de otro.
+Su pelo rubio platino cayó sobre un hombro cuando giró hacia el espejo.
 
-Elena se acercó por detrás, rodeando su cintura con brazos fuertes.
+Parecía una novia. Una novia de fantasía, toda seda y cristal y curvas imposibles.
 
-—Mira —dijo Elena, pasándole el teléfono—. ¿Recuerdas esto?
+Y por primera vez, Marco sintió un destello de orgullo en lugar de solo horror.
 
-Era una carpeta de fotos. Digital. Llena de imágenes del pasado.
+*Me veo... hermosa*, pensó, y la idea ya no lo asustaba tanto.
 
-Marco miró la pantalla. La primera foto era Elena —su Elena, la original, en su propio cuerpo— sentada en una silla de peluquería. Su pelo estaba cubierto de papel de aluminio. Sus ojos estaban rojos de llorar.
+Elena lo observaba con una sonrisa que conocía demasiado bien.
 
-—El día que te obligué a teñirte de rubia —recordó Marco, sintiendo el peso del pasado.
+—Te gusta —dijo, no como pregunta.
 
-—Peróxido. — Elena asintió—. Dijiste que preferías las rubias. Que las rubias se divertían más. Que querías que yo fuera rubia aunque me gustara mi castaño natural.
+Marco bajó la mirada, avergonzado de que su excitación fuera tan obvia.
 
-Marco recordaba. Recordaba exactamente lo que había dicho.
+—No... yo no...
 
-*"Solo es pelo, Elena. ¿Qué más da? Además, te verás más sexy. Los hombres prefieren las rubias. ¿No quieres que te desee más?"*
+—No mientas. —Elena se acercó por detrás, rodeando su cintura—. Puedo ver cómo te brillan los ojos. Puedo sentir cómo respira tu cuerpo. La humillación te excita. Ya lo aprendiste.
 
-—Lloraste durante todo el proceso —continuó Elena—. Dijiste que el peróxido te quemaba el cuero cabelludo. Pero yo no te dejé parar.
+Era verdad. Marco lo había aprendido en el almuerzo con las amigas, cuando hablar de su propia sumisión lo había dejado empapado. Lo había confirmado en la clínica del doctor, cuando los procedimientos invasivos habían encendido algo oscuro en su interior.
 
-Pasó a la siguiente foto. Elena con el pelo recién rubio, los ojos todavía hinchados, una sonrisa forzada para la cámara.
+La humillación era excitante. Y Elena lo sabía.
 
-—Esta fue el día después. Cuando dijiste que valía la pena porque ahora eras "perfecta."
+—Ven —dijo Elena, guiándolo hacia la cama—. Tengo algo que mostrarte.
 
-Marco miraba las fotos en silencio. Cada imagen era una acusación. Cada recuerdo era una prueba de los crímenes que había cometido contra la mujer que amaba.
+Le pasó el teléfono. Una carpeta de fotos. Digital. Llena de imágenes del pasado.
 
-Siguiente foto: Elena después de la rinoplastia. La nariz vendada, moretes bajo los ojos.
+La primera foto era Elena —la Elena original, en su propio cuerpo— sentada en una silla de peluquería. Su pelo estaba cubierto de papel de aluminio. Sus ojos estaban rojos de llorar.
 
-—Tu nariz era demasiado "étnica" —dijo Elena, citando entre comillas—. Dijiste que necesitaba algo más "clásico."
+—El día que me obligaste a teñirme de rubia —dijo Elena—. ¿Recuerdas lo que dijiste?
 
-Siguiente: Elena después de los implantes de labios. La boca hinchada y morada.
+Marco recordaba. Las palabras le quemaban la garganta.
 
-—"Labios de mamadora" fue tu término exacto, creo.
+*"Solo es pelo, Elena. Los hombres prefieren las rubias. ¿No quieres que te desee más?"*
 
-Siguiente: Elena después de la aumentación de pechos. Los vendajes cubrían su torso como una armadura de dolor.
+—Lloraste durante todo el proceso —continuó Elena—. El peróxido quemaba. Pero yo no te dejé parar.
 
-—Querías que destacaran. Que todos los hombres me miraran. Que todos supieran que eras el dueño de un par de tetas enormes.
+Pasó a la siguiente foto. Elena con el pelo recién rubio, los ojos todavía hinchados, una sonrisa forzada.
 
-Marco cerró los ojos.
+—Y ahora tú llevas ese rubio platino —señaló Elena—. ¿Cómo se siente?
 
-—Para —susurró—. Por favor, para.
+Marco tocó su propio pelo. Las extensiones pesaban. El cuero cabelludo todavía recordaba el ardor de la tintura.
 
-—¿Por qué? —La voz de Elena era suave, casi tierna—. ¿Te duele verlo?
+—Se siente... —buscó las palabras—. Se siente como karma.
 
-—Sí.
+—¿Te excita?
 
-—Bien. —Elena le quitó el teléfono—. Porque a mí me dolió vivirlo. Cada procedimiento. Cada recuperación. Cada momento de sentirme inadecuada porque mi cuerpo natural no era suficiente para ti.
+La pregunta era directa. Marco cerró los ojos.
 
-Marco abrió los ojos. Las lágrimas borraban todo.
+—Sí —admitió en un susurro—. No debería, pero... sí.
 
-—Lo siento —gimió—. Elena, lo siento tanto. No sabía...
+Elena sonrió. No con crueldad. Con satisfacción.
 
-—No sabías cómo se sentía. —Elena le acarició la mejilla—. Ahora lo sabes.
+—Buena chica. Estás aprendiendo.
 
-Se inclinó y besó los labios hinchados de Marco, esos labios que acababan de ser rellenados de ácido hialurónico.
+Pasó a más fotos. Elena después de la rinoplastia, los moretes bajo los ojos. Elena después de los implantes de labios, la boca hinchada. Elena después de la aumentación de pechos, vendada como una momia.
 
-—Y ahora vas a vivir todo lo que yo viví. No porque te odie. Porque te amo lo suficiente como para enseñarte.
+Cada imagen era una acusación. Cada recuerdo era un crimen.
 
-Marco sollozó contra los labios de Elena.
+Pero ahora, Marco los veía de otra forma.
 
-—No puedo... no puedo más...
+—Hiciste todo esto... ¿por mí? —preguntó, mirando las fotos con ojos nuevos.
 
-—Sí puedes. —Elena lo abrazó, un abrazo cálido que se sentía a la vez como consuelo y como prisión—. Porque yo pude. Y tú eres más fuerte de lo que crees.
+—Por ti. Para ti. —Elena le acarició el pelo—. Y tú nunca lo apreciaste. Dabas todo por hecho.
 
-Esa noche hicieron el amor suavemente. Sin agresión. Sin dominación extrema. Solo los cuerpos moviéndose juntos, buscando algo que se parecía a la redención.
+—Lo sé. —Las lágrimas empezaron a rodar—. Lo siento, Elena. Lo siento tanto.
 
-Pero Marco no se quitó los zapatos.
+—Ya lo sé, cariño. —Elena lo besó suavemente—. Por eso estamos aquí. Para que entiendas. Para que *sientas*.
 
-Incluso mientras Elena lo amaba, incluso mientras sus cuerpos se fusionaban, los tacones de cristal seguían en sus pies, brillando en la oscuridad, recordándole que su penitencia era permanente.
+Lo recostó en la cama, el camisón de seda extendiéndose como un mar blanco alrededor de su cuerpo.
 
-Cuando Marco finalmente se corrió, llorando contra el pecho de Elena, supo que algo había cambiado.
+—Ahora voy a mostrarte cómo me hacías sentir —susurró Elena, posicionándose entre sus piernas—. Y tú vas a dejar que te excite. Porque ya aprendiste que la humillación y el placer son lo mismo.
 
-No el horror de su situación. Eso seguía igual.
+Marco asintió, abriendo las piernas. Los tacones de cristal brillaron en la luz tenue.
 
-Pero algo dentro de él, algo duro y resistente, había empezado a quebrarse. Y no estaba seguro de si eso era bueno o malo.
+Elena entró lentamente, observando cada reacción en el rostro de Marco.
+
+—Cada vez que te teñía el pelo —una embestida suave—, sentía esto. Humillación. —Otra embestida—. Pero también excitación. —Más profundo—. Porque te amaba lo suficiente para transformarme en lo que querías.
+
+Marco gimió, los tres piercings vibrando en armonía.
+
+—Y tú me amas lo suficiente para transformarte en lo que yo quiero —continuó Elena, aumentando el ritmo—. ¿Verdad?
+
+—Sí —jadeó Marco—. Sí, te amo.
+
+—Entonces córrete para mí. Córrete sabiendo que esto es lo que siempre debió ser.
+
+El orgasmo llegó como una revelación. Marco gritó mientras su cuerpo convulsionaba, los tacones de cristal golpeando las sábanas, el pelo platino extendiéndose sobre la almohada, cada piercing cantando su nota de placer.
+
+Elena lo siguió, llenándolo, marcándolo, amándolo.
+
+Cuando terminaron, quedaron enredados en seda y sudor.
+
+—Mañana viene Javier —susurró Elena—. Y quiero que estés perfecta.
+
+Marco asintió contra su pecho.
+
+—Estaré perfecta. Para ti.
+
+Era una promesa. Y ambos sabían que la cumpliría.
 
 ---
 

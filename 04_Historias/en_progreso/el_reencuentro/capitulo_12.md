@@ -1,162 +1,150 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 12: El Nuevo Orden
 
 ---
 
-Marco no recordaba cómo había llegado a la cama.
+Marco despertó envuelto en los brazos de Elena.
 
-En algún momento entre la piscina y el dormitorio, alguien lo había cargado. Alguien lo había limpiado. Alguien lo había metido entre las sábanas.
+La luz de la mañana entraba suave por las cortinas. Su cuerpo todavía vibraba con los ecos de la noche anterior —los tres con Javier, la intensidad, la rendición— pero no dolía como esperaba. Se sentía... satisfecho. Completo de una manera que no había experimentado antes.
 
-Cuando abrió los ojos, la luz de la mañana entraba por las cortinas. Estaba solo en la cama. El cuerpo le dolía en lugares que no sabía que existían.
+Los tres piercings palpitaban suavemente: los de los pezones contra las sábanas de seda, el del clítoris respondiendo al calor del cuerpo de Elena contra su espalda.
 
-Su culo palpitaba con el eco de la invasión de Elena. Su mandíbula estaba rígida por el esfuerzo de contener a Javier. Y el piercing... el maldito piercing seguía vibrando suavemente, como si su cuerpo no entendiera que el sexo había terminado.
+Se tocó el pelo rubio platino, ahora desordenado sobre la almohada. Recordó haberse llamado "puta" la noche anterior. Recordó haberlo gritado frente a Javier. Recordó haberse corrido mientras lo decía.
 
-Se tocó el vientre, las caderas, los pechos pesados. Todo seguía igual. Todo seguía siendo este cuerpo. Este cuerpo que ahora había sido usado por dos hombres simultáneamente.
+Y en lugar de horror, sintió un calor extraño en el vientre.
 
-Las lágrimas llegaron sin previo aviso.
+Elena se movió detrás de él, despertando.
 
-—Buenos días.
+—Buenos días, hermosa —murmuró contra su cuello.
 
-Elena estaba de pie en la puerta, sosteniendo una taza de café. Vestía pantalones de pijama y nada más, su torso masculino bronceado ligeramente cubierto de vello.
+—Buenos días —respondió Marco, girándose para mirarlo.
 
-—¿Cómo te sientes? —preguntó, acercándose a la cama.
+—¿Cómo te sientes?
 
-—Roto —susurró Marco.
+Marco consideró la pregunta. ¿Cómo se sentía? Después de todo lo que había pasado —el intercambio, las transformaciones, Javier, los piercings, la humillación constante— ¿cómo se sentía?
 
-Elena se sentó a su lado y le acarició el pelo.
+—Bien —dijo, sorprendiéndose a sí mismo—. Me siento... bien.
 
-—Lo sé. Fue intenso.
+Elena sonrió, acariciándole la mejilla.
 
-—Fue... —Marco buscó las palabras— ... ¿por qué? ¿Por qué hiciste eso?
+—Me alegro. Anoche fue intenso.
 
-—¿Compartirte con Javier?
+—Anoche fue... —Marco buscó las palabras—. Anoche me rendí completamente. Y me gustó.
 
-Marco asintió.
+—Lo sé. —Elena lo besó suavemente—. Lo vi en tu cara. En cómo te movías. En cómo gritabas mi nombre.
 
-Elena suspiró, dejando la taza en la mesita de noche.
+—El tuyo actual —corrigió Marco—. Grité "Marco".
+
+—Técnicamente, sí. —Elena rió—. Pero sabías a quién te referías.
+
+Se quedaron en silencio un momento, enredados en las sábanas.
+
+—¿Por qué Javier? —preguntó Marco finalmente—. ¿Por qué quisiste compartirme con él?
+
+Elena suspiró.
 
 —¿Recuerdas la despedida de soltero? ¿La que tuviste antes de casarnos?
 
-El estómago de Marco se contrajo. La despedida. La había olvidado, o había querido olvidarla.
+El estómago de Marco se contrajo. La despedida. Había intentado olvidarla.
 
-—Recuerdas a las strippers —continuó Elena—. Las tres que Javier contrató. ¿Recuerdas lo que pasó?
+—Tú y Javier compartieron a una stripper esa noche —dijo Elena, sin acusación—. Los dos. En el cuarto de atrás. Vi la foto en el teléfono de Javier después.
 
-Marco recordaba. Demasiado bien.
-
-—Tú y Javier... compartieron a una de ellas. En el cuarto de atrás del club. Los dos. Al mismo tiempo.
-
-—No sabía que tú sabías eso —susurró Marco.
-
-—Lo supe siempre. —La voz de Elena era tranquila, sin acusación—. Vi la foto en el teléfono de Javier. Los dos de pie, con ella arrodillada entre ustedes. Sonriendo como campeones.
-
-Marco cerró los ojos. La vergüenza lo quemaba por dentro.
+Marco cerró los ojos. La vergüenza lo quemaba.
 
 —Lo siento...
 
-—No te pedí disculpas. Te pedí que entendieras. —Elena le tomó la barbilla, obligándolo a mirar—. Ayer, en la piscina, no fue un castigo. Fue una lección. Ahora sabes cómo se siente ser compartido. Ser usado por dos hombres que te ven como carne. Ser reducido a un cuerpo con agujeros.
+—No quiero disculpas. —Elena le tomó la barbilla—. Quería que entendieras cómo se siente. Pero más importante... quería ver si podías disfrutarlo.
 
-—Lo entiendo —gimió Marco—. Lo entiendo, Elena. Por favor...
+—¿Disfrutarlo?
 
-—No he terminado. —Elena le besó la frente—. Ayer también fue algo más. Fue una liberación.
+—La humillación. Ser compartida. Ser usada mientras yo miraba. —Elena lo miraba intensamente—. Y lo disfrutaste, Marco. Te corriste gritando que eras mi puta. Sin que nadie te tocara el clítoris.
 
-—¿Liberación?
+Era verdad. Marco lo recordaba con claridad ahora. El orgasmo había llegado solo de la humillación, de las palabras, de la rendición.
 
-—Dejaste de pelear, Marco. Dejaste de resistir. Por primera vez desde el intercambio, te rendiste completamente. Y cuando lo hiciste... —Elena sonrió—, te corriste sin siquiera ser tocado. Tu cuerpo aceptó su papel antes de que tu mente lo hiciera.
+—Lo disfruté —admitió en voz baja—. Y eso me asusta.
 
-Marco no tenía respuesta para eso. Era verdad. Había sentido algo durante la degradación de ayer, algo más allá del terror y la humillación. Había sentido... rendición. Placer oscuro. Una especie de paz retorcida al dejar de luchar.
+—¿Por qué te asusta?
 
-—No te estoy pidiendo que me perdones —dijo Elena—. No te estoy pidiendo que esto te guste. Solo te estoy pidiendo que aceptes lo que eres ahora.
+—Porque significa que... que realmente me he convertido en esto. En lo que tú querías.
 
-—¿Y qué soy?
+Elena lo abrazó con fuerza.
 
-Elena se levantó y caminó hacia el armario. Sacó algo.
+—No te convertí en nada que no estuviera ya dentro de ti, Marco. Solo te di permiso para explorarlo. —Le besó la frente—. Te amo. No a pesar de esto. Por esto. Por cómo te rindes. Por cómo confías en mí.
 
-—Levántate —ordenó.
+Las lágrimas rodaron por las mejillas de Marco. Pero no eran lágrimas de dolor.
 
-Marco se levantó de la cama, desnudo, vulnerable.
+—También te amo —susurró—. Y quiero... quiero seguir siendo tuya.
 
-—Ponte esto.
+Elena sonrió, esa sonrisa que ahora Marco reconocía como amor puro.
 
-Era un vestido de ama de casa de los años 50. Falda amplia, cintura ajustada, estampado floral. Pero el escote era profundo, diseñado para mostrar el valle de sus pechos operados.
-
-Y los zapatos.
-
-Stilettos blancos de charol. Diez centímetros. Clásicos. Femeninos. Sumisos.
-
-Marco se vistió en silencio. El vestido se ajustó a su cintura como un guante. Los zapatos elevaron sus talones, forzando su postura a esa curva sumisa que ya era su segunda naturaleza.
-
-Se miró en el espejo. Parecía la esposa perfecta de un anuncio antiguo, pero con la sexualidad moderna y operada de una estrella porno.
-
-Elena se acercó por detrás, rodeando su cintura.
-
-—Eres mi esposa. Eres mía. Y vas a servir como yo diga, cuando yo diga, con quien yo diga. Esa es la nueva realidad.
-
-Marco sintió cómo algo dentro de él se rendía. No con un estallido dramático, sino con un suspiro lento, como un globo desinflándose.
-
-Ya no valía la pena pelear.
-
-Ya no tenía sentido resistir.
-
-Estaba atrapado en este cuerpo para siempre. Y podía pasarse el resto de su vida luchando contra cada humillación... o podía aceptar su lugar y encontrar paz en la rendición.
-
-—Está bien —susurró.
-
-—¿Está bien qué?
-
-—Está bien. Acepto. Soy... soy tuya.
-
-Elena sonrió. No una sonrisa de victoria cruel, sino algo más suave. Algo casi parecido al amor.
-
-—Eso es, mi amor. Eso es lo que quería oír.
+—Siempre lo serás.
 
 ---
 
-El espejo del baño reflejaba una mujer diferente.
+Tres meses después.
 
-Tres meses después de la piscina, Marco ya no buscaba al hombre que había sido. Simplemente veía lo que era ahora: una rubia espectacular con labios de silicona, pechos imposibles, y un cuerpo diseñado para el placer de otros.
+El espejo del baño reflejaba una mujer espectacular.
 
-Su pelo ahora era más largo, con extensiones que le llegaban hasta la cintura. Sus uñas siempre perfectas. Su maquillaje impecable.
+Marco ya no buscaba al hombre que había sido. Veía lo que era ahora: pelo rubio platino cayendo en ondas hasta la cintura, labios permanentemente rosados por la micropigmentación, ojos delineados con tinta que nunca se borraba. Pechos perfectos con piercings de titanio rosa que brillaban a la luz del baño. Y entre sus piernas, el piercing del clítoris que Elena le había regalado sin saberlo la noche de bodas.
 
-Y el piercing seguía ahí, palpitando suavemente, recordándole que el placer era su nueva moneda de cambio.
+Tres marcas de propiedad. Tres recordatorios constantes de a quién pertenecía.
 
-Elena entró en el baño, ya vestido para el trabajo.
+Y le encantaba cada uno.
 
-—¿Lista para hoy?
+—¿Lista para hoy? —preguntó Elena, entrando al baño ya vestido para el trabajo.
 
-—¿Qué hay hoy? —preguntó Marco, terminando de aplicar su labial rojo perfecto.
+—¿Qué hay hoy?
 
-—Cena con Javier y los Fernández. Los de la constructora. Eduardo tiene curiosidad por conocer a mi esposa.
+—Cena con Javier y los Fernández. Eduardo tiene curiosidad por conocer a mi esposa.
 
-Eduardo Fernández. Otro tiburón empresarial. Otro hombre que miraría a Marco con ojos hambrientos.
+Eduardo Fernández. Otro tiburón empresarial. Otro hombre que lo miraría con ojos hambrientos.
+
+Los tres piercings palpitaron con anticipación.
 
 —¿Qué debo llevar?
 
-—El vestido rojo. El ajustado. Y el tanga negro.
+—El vestido rojo. El ajustado. Y el tanga negro que no cubre nada.
 
-—El que no cubre nada.
+—Perfecto. —Marco sonrió—. ¿Y los tacones?
 
-—Exactamente. —Elena le besó el cuello—. Y los tacones de aguja negros. Los de catorce centímetros.
+—Los de catorce centímetros. Los de aguja.
 
-—Son muy altos para cenar —comentó Marco, pero ya estaba caminando hacia el armario.
+—Son muy altos para cenar.
 
-—Son perfectos para que no puedas correr.
+—Son perfectos para que no puedas huir cuando Eduardo te mire el escote.
 
-Marco asintió. Sabía lo que eso significaba.
+Marco rió. Antes, esa frase lo habría llenado de terror. Ahora solo sentía excitación.
 
-Se vistió con la eficiencia de quien ha aceptado su destino. El vestido rojo se adhirió a su piel como una segunda capa. Los tacones elevaron su cuerpo, tensando cada músculo, preparándolo para ser admirado.
+—¿Vas a compartirme con Eduardo también?
 
-Cuando terminó, se miró una última vez en el espejo. La mujer que le devolvía la mirada era hermosa, sumisa y completamente rendida.
+Elena lo miró, evaluando.
 
-El hombre que había sido Marco Castellón había muerto en algún lugar entre el Caribe y esa piscina.
+—¿Quieres que lo haga?
 
-Lo que quedaba era Elena.
+Era una pregunta real. Como todas las preguntas importantes entre ellos ahora.
 
-La esposa perfecta.
+Marco pensó. Eduardo era atractivo. La idea de ser exhibida, admirada, quizás usada mientras Elena miraba...
 
-Propiedad de su marido.
+—Si tú quieres —dijo finalmente—. Si te excita verme así.
 
-Lista para servir.
+—Me excita todo de ti. —Elena lo besó profundamente—. Pero solo haremos lo que tú también quieras. ¿Entendido?
+
+—Entendido.
+
+Se vistió con la eficiencia de quien ha aceptado su destino con alegría. El vestido rojo se adhirió a cada curva. Los tacones de catorce centímetros arquearon su cuerpo en esa postura que ahora era natural. Los piercings de los pezones se marcaban sutilmente a través de la tela.
+
+Cuando terminó, se miró una última vez en el espejo.
+
+La mujer que le devolvía la mirada era hermosa, sumisa y completamente enamorada de su vida.
+
+El hombre que había sido Marco Castellón no había muerto. Se había transformado. Había encontrado en la rendición lo que nunca había encontrado en el control: paz, placer y amor verdadero.
+
+—Estoy lista —anunció, tomando la mano de Elena.
+
+—Siempre lo estás, mi amor. Siempre lo estás.
+
+Salieron juntos hacia la cena, hacia Eduardo, hacia lo que fuera que el futuro les deparara. Unidos. Enamorados. Completos.
 
 ---
 

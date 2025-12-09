@@ -1,4 +1,4 @@
-# Esposa de mi Esposo II
+# Esposa de mi Esposa II
 
 ## Capítulo 9: La Mañana del Sábado
 
@@ -6,119 +6,145 @@
 
 El sábado amaneció brillante y caluroso.
 
-Marco se despertó primero, lo cual era raro. Normalmente Elena lo despertaba con alguna exigencia: sexo oral, café, o simplemente la orden de levantarse y empezar su rutina de feminidad.
+Marco se despertó primero, lo cual era raro. Normalmente Elena lo despertaba con alguna exigencia. Pero después de la noche anterior —después del "te amo" susurrado entre sábanas de seda— el despertar fue suave.
 
-Pero hoy el despertar fue suave. Luz dorada filtrándose por las cortinas. El canto de los pájaros. Y el peso del cuerpo de Elena todavía dormido a su lado.
+Luz dorada filtrándose por las cortinas. El canto de los pájaros. Y el peso del cuerpo de Elena todavía dormido a su lado.
 
-Por un momento —solo un momento— Marco olvidó lo que era.
+Por un momento, Marco se permitió simplemente *estar*.
 
-Luego movió las piernas y sintió la suavidad sedosa de la piel recién depilada. Luego respiró profundo y sintió el peso de los implantes comprimiendo sus pulmones. Luego se estiró y sus uñas francesas arañaron las sábanas.
+Luego su cuerpo le recordó quién era ahora. Las piernas suaves de piel recién depilada. El peso de los implantes comprimiendo sus pulmones. Los tres piercings despertando junto con él: los de titanio rosa en sus pezones rozando contra el encaje del babydoll, y el del clítoris pulsando suavemente contra el algodón de sus bragas.
 
-Y el piercing, por supuesto. Ese maldito piercing que pulsaba suavemente contra el algodón de sus bragas, recordándole que su cuerpo nunca dormía del todo.
+Una sinfonía matutina de sensaciones que ya empezaba a sentirse... normal.
 
-Marco se levantó con cuidado para no despertar a Elena y caminó hacia el baño.
+Marco se levantó con cuidado para no despertar a Elena y caminó hacia el baño. El espejo le devolvió esa imagen que, después de semanas, reconocía como *suya*.
 
-El espejo le devolvió una imagen que, después de semanas, empezaba a parecerle... familiar.
+El pelo rubio platino cayó sobre sus hombros como una cascada de plata. Las extensiones añadían peso y volumen, transformando lo que había sido castaño aburrido en algo dramático, artificial, espectacular. Los labios tatuados por la micropigmentación brillaban en un tono coral permanente, incluso sin maquillaje. Los ojos delineados con tinta eterna le daban una mirada felina las veinticuatro horas.
 
-Una mujer rubia con labios de escándalo lo miraba desde el cristal. Piel bronceada. Pechos imposibles. Cintura estrecha. Caderas anchas. Era el cuerpo que él mismo había encargado, como quien encarga un mueble a medida.
+Era el cuerpo que él mismo había encargado. Pero ahora era SU cuerpo.
 
-Pero ahora era SU cuerpo. Y esa realización ya no golpeaba tan fuerte como al principio.
+Y esa realización ya no dolía tanto.
 
-*¿Me estoy acostumbrando?*, pensó con horror. *¿Me estoy acostumbrando a esto?*
+*Me estoy acostumbrando*, pensó. Pero esta vez, el pensamiento no vino con horror. Vino con algo parecido a la paz.
 
-Empezó su rutina de mañana. Elena había establecido un protocolo estricto desde el primer día: limpieza facial en tres pasos, crema hidratante, sérum de vitamina C, protector solar. Luego el pelo: cepillado, desenredante, un poco de aceite de argán para las puntas.
-
-Sus manos se movían con automatismo ahora. Ya no luchaba contra cada producto. Ya no maldecía cada minuto frente al espejo. Simplemente... lo hacía.
+Empezó su rutina de mañana: limpieza facial en tres pasos, crema hidratante, sérum, protector solar. Luego el pelo platino: cepillado, desenredante, aceite de argán para las puntas. Todo con la fluidez de quien ha aceptado su nueva vida.
 
 Cuando volvió al dormitorio, Elena estaba despierto.
 
-—Buenos días —dijo Elena, estirándose—. ¿Lista para hoy?
+—Buenos días, hermosa —dijo Elena, y había ternura en la palabra.
 
-El estómago de Marco se contrajo.
+Marco sintió un calor en el pecho que no tenía nada que ver con el sol.
+
+—Buenos días.
+
+—¿Lista para hoy?
+
+El estómago de Marco se contrajo. Pero también sintió algo más. Anticipación.
 
 —Javier.
 
 —Javier. —Elena sonrió—. Viene a las tres. Quiero que lleves el bikini blanco.
 
-Marco parpadeó.
-
 —¿El blanco? Es el más... pequeño.
 
-—Lo sé. Por eso lo elegí.
+—Lo sé. —Elena se acercó y le acarició la mejilla—. Por eso lo elegí. Quiero que te vea como yo te veo: perfecta.
 
-No había discusión. Nunca la había.
+No era solo una orden. Era una declaración de orgullo.
 
 ---
 
 Las siguientes horas fueron de preparación.
 
-El ritual de vestirse para la piscina fue tan elaborado como para una boda.
+El ritual de vestirse para la piscina fue tan elaborado como para una gala. Pero ahora, Marco participaba activamente en lugar de solo sufrir.
 
 —Primero esto —dijo Elena, lanzándole el bikini.
 
-Era obsceno: dos triángulos diminutos de tela blanca que apenas cubrían sus pezones, unidos por cuerdas que se ataban en la nuca y la espalda. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía completamente entre sus nalgas.
+Era obsceno: dos triángulos diminutos de tela blanca que apenas cubrían sus pezones perforados, unidos por cuerdas delicadas. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía entre sus nalgas.
 
-Marco se lo puso con manos temblorosas. La tela blanca contrastaba violentamente con su piel bronceada. El piercing brillaba a través de la tela fina, marcando un bulto metálico en su entrepierna.
+Marco se lo puso, observando su reflejo mientras lo hacía. La tela blanca contrastaba violentamente con su piel bronceada. A través del material fino, los piercings de sus pezones eran *claramente* visibles: las barras de titanio rosa se marcaban como dos líneas horizontales bajo los triángulos de tela, y las bolitas de los extremos creaban pequeños bultos obscenos. No había forma de ocultarlos.
 
-—Ahora el maquillaje —ordenó Elena.
+Marco sintió un escalofrío de preocupación.
 
-—¿Maquillaje para la piscina?
+—Elena... los piercings se ven. —Se tocó los pezones a través del bikini—. Cualquiera que me mire va a notarlos.
 
-—Siempre. Quiero que estés perfecta incluso bajo el agua.
+Elena se encogió de hombros.
 
-Marco se sentó frente al tocador. Aplicó una base ligera pero cubriente, corrector bajo las ojeras, bronceador en polvo para resaltar los pómulos afilados. Rímel waterproof para que sus pestañas aguantaran el agua. Y un gloss rosa brillante que hacía que sus labios recién rellenados parecieran dos golosinas listas para ser comidas.
+—¿Y?
 
-Sus uñas francesas brillaban mientras trabajaba. Eran tan largas que cada tarea costaba el doble, pero ya había aprendido a adaptarse.
+—Y... Javier va a verlos. Va a saber que tengo los pezones perforados.
 
-—Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos nueva, una caja que Marco nunca había visto.
+—Exactamente. —Elena sonrió—. Ese es el punto.
 
-Tacones.
+—Pero...
 
-Pero no eran los tacones habituales. Eran sandalias de plataforma, con la base de acrílico transparente y un tacón de aguja que parecía desafiar las leyes de la física.
+—Marco. —Elena se acercó y le acarició la mejilla—. Quiero que Javier vea exactamente lo que eres. Una mujer que lleva los piercings que su marido le ordenó. Una esposa que obedece. Que se deja marcar.
 
-—Nueve pulgadas —anunció Elena con orgullo—. Casi veintitrés centímetros. Las compré especialmente para hoy.
+Marco bajó la mirada. Entre sus piernas, el brillo metálico del piercing del clítoris también creaba un bulto distintivo a través de la tela.
 
-Marco se quedó helado mirando los zapatos. Había usado tacones de doce centímetros. Había sufrido con los de quince. Pero esto... esto era otro nivel. Eran tacones de stripper, de bailarina de pole dance, de prostituta de carretera.
+—Javier va a pensar que soy una...
 
-—Elena, no puedo... no puedo usar eso. Es imposible.
+—¿Una qué? ¿Una puta? —Elena rió—. Javier va a pensar que eres exactamente lo que eres: una esposa trofeo perfectamente entrenada. Y eso te va a excitar.
 
-—Todo es posible con práctica. —Elena se arrodilló para ponérselos—. Y tú has tenido semanas de práctica. Tu cuerpo ya se adaptó. Tus tendones ya se acortaron. Esto es solo el siguiente paso.
+Era verdad. Ya podía sentirlo. La idea de ser exhibida, de ser *vista*, de que un hombre notara las marcas de su sumisión... los tres piercings palpitaron al unísono.
 
-Marco sintió cómo Elena deslizaba sus pies en las plataformas. El acrílico era frío, resbaladizo. Ajustó las correas alrededor de sus tobillos con la precisión de un carcelero.
+*Parezco una pornstar*, pensó. Y sintió un pulso de excitación ante esa idea.
+
+—Me da vergüenza que me guste —admitió Marco.
+
+—Eso lo hace mejor. —Elena lo besó suavemente—. La vergüenza y el placer juntos. Ya lo aprendiste.
+
+Marco asintió. Lo había aprendido.
+
+Siguió el maquillaje: base ligera, bronceador, rímel waterproof, gloss rosa brillante que hacía que sus labios tatuados parecieran aún más exagerados.
+
+Y finalmente, los zapatos.
+
+Elena sacó una caja que Marco nunca había visto.
+
+—Nueve pulgadas —anunció—. Casi veintitrés centímetros. Las compré especialmente para hoy.
+
+Eran sandalias de plataforma con base de acrílico transparente y un tacón de aguja que desafiaba la física. Tacones de stripper. De bailarina de pole dance. De fantasía sexual andante.
+
+Marco las miró. El viejo Marco habría protestado. Habría suplicado.
+
+Pero el nuevo Marco sintió los tres piercings pulsar con anticipación.
+
+—¿Me ayudas a ponérmelos? —preguntó, extendiendo el pie.
+
+La sonrisa de Elena fue de pura satisfacción.
+
+Le deslizó los pies en las plataformas, ajustando las correas alrededor de los tobillos con cuidado. El acrílico era frío, pero la mirada de Elena era cálida.
 
 —Levántate.
 
 Marco se puso de pie.
 
-El mundo cambió de golpe.
-
-Nunca había estado tan alto. La plataforma frontal añadía varios centímetros, pero el tacón trasero era una aguja vertical que lo empujaba hacia adelante a una inclinación casi imposible. Sus pantorrillas ardían inmediatamente. Sus muslos temblaban. Su culo se proyectó hacia atrás en un ángulo obsceno, como si estuviera constantemente ofreciéndose.
+El mundo cambió de golpe. Nunca había estado tan alto. El tacón trasero era una aguja vertical que lo empujaba hacia adelante a una inclinación casi imposible. Sus pantorrillas ardían. Sus muslos temblaban. Su culo se proyectó hacia atrás en un ángulo obsceno.
 
 Dio un paso y casi cayó.
 
-—Despacio —instruyó Elena—. Pasos cortos. Caderas primero.
+—Despacio —instruyó Elena, sosteniéndolo—. Pasos cortos. Caderas primero.
 
-Marco dio otro paso. Luego otro. El sonido era diferente: un *clic-clic* más agudo, más resonante. Y la sensación... era como caminar sobre zancos de sexo. Cada paso era precario, cada movimiento una negociación entre el equilibrio y la caída.
+Marco dio otro paso. Luego otro. El sonido era diferente: un *clic-clic* más agudo, más resonante. Y la sensación... era como caminar sobre zancos de sexo.
 
 Se miró en el espejo.
 
-Ya no parecía una esposa trofeo. Parecía una stripper.
+Ya no parecía una esposa trofeo. Parecía una stripper de alto standing. Pelo platino cayendo sobre hombros bronceados. Bikini mínimo mostrando cada curva. Tacones imposibles arqueando su cuerpo en una postura que gritaba "disponible". Tres piercings brillando a través de la tela y el sol.
 
-Una stripper de club de carretera, con tacones imposibles, bikini mínimo, y una postura que gritaba "disponible". El pensamiento debería haberlo horrorizado. Pero el piercing pulsó con algo diferente. Algo que se parecía demasiado a la excitación.
+*Me veo como una fantasía sexual*, pensó. *Y me encanta.*
 
-*Me veo como una puta de alto standing*, pensó. *Y me gusta cómo me veo.*
+La revelación ya no era devastadora. Era liberadora.
 
-La revelación fue devastadora. No solo estaba aceptando esta feminización. La estaba disfrutando.
+—Perfecta —dictaminó Elena, rodeándolo con los brazos—. Eres absolutamente perfecta. Y eres mía.
 
-—Perfecta —dictaminó Elena—. Javier va a estar muy impresionado.
+—Soy tuya —confirmó Marco, y lo dijo en serio.
 
-Marco quería preguntar qué significaba eso exactamente. Por qué importaba tanto impresionar a Javier. Por qué Elena insistía en mencionar su nombre con esa sonrisa específica.
+—Javier va a estar muy impresionado.
 
-Pero no preguntó.
+Esta vez, Marco no sintió solo nervios. Sintió curiosidad. ¿Qué tenía planeado Elena? ¿Por qué importaba tanto impresionar a este hombre?
 
-Algo le decía que iba a averiguarlo pronto.
+Salió al jardín, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en las baldosas de la terraza. El sol calentaba su piel expuesta. El pelo platino brillaba. Los tres piercings palpitaban con una mezcla de anticipación y excitación que ya había aprendido a reconocer como *correcta*.
 
-Salió al jardín, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en las baldosas de la terraza, sintiendo el sol en su piel expuesta y el piercing palpitando con anticipación nerviosa.
+Fuera lo que fuera lo que venía, estaba lista.
 
 ---
 
