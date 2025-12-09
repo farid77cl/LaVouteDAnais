@@ -1,8 +1,4 @@
-﻿## Capítulo 1: Luna de Miel
-
----
-
-El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
+﻿El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
 
 O lo que ahora era Marco.
 
@@ -188,9 +184,6 @@ Y por primera vez, Marco no estaba seguro de querer que terminaran.
 
 ---
 
-
-## Capítulo 2: La Llegada
-
 ---
 
 El vestido era una prisión de tela.
@@ -342,9 +335,6 @@ Elena abrió la puerta.
 Y Marco, con el sabor del semen aún en la garganta y el piercing todavía palpitando de excitación, bajó del coche y caminó hacia la multitud, sonriendo como la esposa perfecta que ahora era obligado a ser.
 
 ---
-
-
-## Capítulo 3: Javier
 
 ---
 
@@ -517,9 +507,6 @@ De hecho, parecía disfrutarlo.
 Marco se aferró al borde de la mesa, atrapado entre dos depredadores, intentando no correrse delante de los hombres que ahora controlaban su destino.
 
 ---
-
-
-## Capítulo 4: La Cita
 
 ---
 
@@ -799,9 +786,6 @@ Elena arrancó el coche, dejando a Marco con el terror helándole las venas, tre
 
 ---
 
-
-## Capítulo 5: Las Amigas
-
 ---
 
 Marco no había dormido.
@@ -1046,9 +1030,6 @@ Marco encendió el coche y condujo hacia su prisión de lujo, con el piercing pa
 
 ---
 
-
-## Capítulo 6: El Mantenimiento
-
 ---
 
 La clínica del Doctor Valladares estaba en el piso más alto de un edificio de cristal en el distrito financiero.
@@ -1191,9 +1172,6 @@ Marco dejó que Elena lo guiara hacia el coche, caminando con gracia sobre sus t
 
 ---
 
-
-## Capítulo 7: El Peso del Karma
-
 ---
 
 Esa noche, Marco no pudo dormir.
@@ -1324,9 +1302,6 @@ Era aterrador. Era liberador. Era el comienzo de algo nuevo.
 
 ---
 
-
-## Capítulo 8: Más Recuerdos
-
 ---
 
 El viernes por la noche, el ritual de preparación para la cama fue diferente.
@@ -1450,9 +1425,6 @@ Marco asintió contra su pecho.
 Era una promesa. Y ambos sabían que la cumpliría.
 
 ---
-
-
-## Capítulo 9: La Mañana del Sábado
 
 ---
 
@@ -1599,9 +1571,6 @@ Salió al jardín, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en la
 Fuera lo que fuera lo que venía, estaba lista.
 
 ---
-
-
-## Capítulo 10: La Piscina
 
 ---
 
@@ -1784,9 +1753,6 @@ Se subió el bañador.
 Y Marco, todavía temblando de excitación no liberada, esperó a que Elena regresara, sabiendo que el verdadero juego apenas comenzaba.
 
 ---
-
-
-## Capítulo 11: El Descubrimiento
 
 ---
 
@@ -2024,9 +1990,6 @@ Era extraño. Era retorcido. Pero era suyo.
 
 ---
 
-
-## Capítulo 12: El Nuevo Orden
-
 ---
 
 Marco despertó envuelto en los brazos de Elena.
@@ -2171,9 +2134,5 @@ El hombre que había sido Marco Castellón no había muerto. Se había transform
 
 Salieron juntos hacia la cena, hacia Eduardo, hacia lo que fuera que el futuro les deparara. Unidos. Enamorados. Completos.
 
----
 
 # FIN
-
----
-
