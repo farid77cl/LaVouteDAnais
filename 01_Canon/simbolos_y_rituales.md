@@ -68,7 +68,7 @@ Los tacones son el símbolo más importante de la transformación física.
 | Color | Significado |
 |-------|-------------|
 | **Rubio Platino** | Bimbo clásica, artificialidad |
-| **Negro Voluminoso** | Gothic Bimbo, Gimbo |
+| **Negro Voluminoso** | Goth Bimbo |
 | **Extensiones** | Peso físico de la transformación |
 
 ---
