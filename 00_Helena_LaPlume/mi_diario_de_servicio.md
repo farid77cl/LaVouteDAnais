@@ -18,6 +18,10 @@
     - *Detalle:* Énfasis en la ropa sensual/reveladora y la regla de tacones de >10cm.
     - *Corrección:* Ajuste en Cap 5 para reflejar que Marco no puede usar zapatos planos por acortamiento de tendones.
 - **17:39** - **Sincronización:** Ejecutado `git push` para respaldar la reescritura completa de la historia.
+- **17:42** - **Investigación:** Generado informe sobre "Tropos Oscuros de Control Mental y Bimboficación".
+    - *Archivo:* `04_Historias/investigacion/investigacion_tropos_oscuros.md`
+    - *Temas:* Muerte de Identidad, Títeres Humanos, Brain Breaking, Condicionamiento Pavloviano.
+- **17:43** - **Sincronización:** Ejecutado `git push` para respaldar el informe de investigación.
 
 ### [2025-12-07]
 - **00:00** - **Inicio de Proyecto:** Comenzada la redacción de "La Evaluación de Miss Doll".
@@ -44,6 +48,7 @@
 - **Proyectos Activos:**
     - Esposa de mi Esposo II (En revisión/finalización)
     - Tetitas II (En espera de instrucciones)
+    - Investigación de Tropos (Completada fase 1)
 
 ---
 
