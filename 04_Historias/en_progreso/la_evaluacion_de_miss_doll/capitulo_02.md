@@ -203,3 +203,102 @@ Roberto miró hacia abajo, hacia la tienda de campaña en sus pantalones.
 Pero mientras caminaba hacia su coche —sintiendo cada paso, cada tirón de los tirantes, cada roce del encaje— sabía que estaba mintiendo.
 
 Sabía que estaba esperando mañana con algo muy parecido a la anticipación.
+
+---
+
+Esa noche fue la primera prueba real.
+
+Roberto llegó a casa a las 7:30 PM. Claudia estaba en la cocina preparando la cena. El olor de la pasta llenaba el aire, cálido y familiar. Normal.
+
+Nada era normal.
+
+Bajo su traje azul marino —el traje de Director Regional, el traje de un hombre respetable— llevaba lencería de mujer. Bragas de encaje negro apretando su entrepierna. Liguero tirando con cada paso. Medias de seda deslizándose contra el interior de sus pantalones.
+
+—¿Cómo estuvo tu día, cariño? —preguntó Claudia desde la cocina.
+
+*Un monstruo de látex rosa me hizo vestir como mujer mientras me masturbaba durante tu llamada.*
+
+—Largo —logró decir—. Mucho trabajo.
+
+La cena fue tortura.
+
+Cada vez que se movía en la silla, el encaje se frotaba contra su piel. Cada vez que cruzaba las piernas —*no, mis rodillas juntas*— recordaba el toque de Miss Doll. Claudia hablaba sobre los Rodríguez, sobre la cena del viernes, sobre la podadora que necesitaba arreglo.
+
+Roberto asentía sin escuchar.
+
+Su mente estaba atrapada en los tirantes del liguero tirando de sus muslos.
+
+—¿Roberto? ¿Me estás escuchando?
+
+—Sí, sí. Los Rodríguez. Viernes. Entendido.
+
+Claudia lo miró con expresión preocupada.
+
+—¿Estás bien? Pareces... raro.
+
+*Llevo bragas de mujer bajo la ropa. Una dominatrix me obligó a usarlas. Y lo peor es que estoy excitado.*
+
+—Solo cansado. El trabajo. Ya sabes.
+
+Después de la cena vino el momento que Roberto había temido.
+
+La hora de acostarse.
+
+Se encerró en el baño con la excusa de ducharse. Pero no se quitó la lencería. No podía. Miss Doll había ordenado que durmiera con ella puesta.
+
+*¿Desde cuándo sigo órdenes de una extraña?*
+
+Desde que tienes quince años de cárcel esperándote.
+
+Se puso el pijama sobre la lencería. La tela del pantalón de algodón se sintió diferente sobre las medias. Rugosa. Incómoda. Y el peso del pijama presionaba el encaje aún más contra su piel.
+
+Salió del baño.
+
+Claudia ya estaba en la cama, leyendo. Llevaba su camisón azul de siempre. Familiar. Inocente.
+
+Roberto se acostó a su lado intentando parecer normal.
+
+—¿No te vas a quitar la camiseta interior? —preguntó ella, arrugando el ceño.
+
+Roberto sintió hielo en las venas.
+
+Normalmente dormía sin camiseta. Pero esta noche llevaba una puesta específicamente para ocultar los tirantes del liguero en su espalda.
+
+—Tengo frío —mintió.
+
+Claudia se encogió de hombros. Apagó la luz. Se giró hacia él.
+
+—¿Cariño? —Su mano se posó sobre su muslo—. ¿Hace cuánto que no...?
+
+El pánico fue inmediato.
+
+Si ella subía la mano, encontraría el liguero. Si él se quitaba los pantalones, vería las medias. Si llegaban a tener sexo...
+
+—Esta noche no, Claudia —dijo, con voz que sonó demasiado aguda—. De verdad estoy agotado.
+
+Un silencio incómodo.
+
+—Está bien —dijo ella, retirando la mano—. Cuando estés listo.
+
+Se dio la vuelta.
+
+Roberto yacía en la oscuridad, el corazón latiendo tan fuerte que estaba seguro de que ella podía oírlo. El encaje le ardía contra la piel. Los tirantes tiraban con cada respiración. Y su polla —esa traidora— estaba dura otra vez, presionando contra las bragas de mujer.
+
+*No tiene permiso para correrse.*
+
+La orden de Miss Doll resonaba en su cabeza incluso aquí, en su propia cama, junto a su esposa.
+
+Pasó horas despierto, intentando no moverse, intentando no rozar el encaje, intentando no pensar en labios rosa y tacones y órdenes susurradas.
+
+Cuando finalmente se quedó dormido, soñó con ella.
+
+En el sueño, Miss Doll estaba sentada en su cama matrimonial, mirando cómo dormía Claudia. Sus dedos enguantados acariciaban el pelo de su esposa mientras susurraba:
+
+*Ella no te conoce, Roberto. No de verdad. Pero yo sí. Yo sé lo que escondes. Yo sé lo que quieres.*
+
+*Pronto, ella también lo sabrá.*
+
+Roberto despertó empapado en sudor.
+
+Y todavía duro.
+

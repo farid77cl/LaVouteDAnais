@@ -6,6 +6,36 @@ Había dormido con la lencería puesta, como Miss Doll había ordenado. O más b
 
 Claudia no había notado nada. Dormía profundamente a su lado, ajena al hecho de que su marido llevaba ropa interior de mujer debajo del pijama.
 
+Pero esta mañana casi lo descubre.
+
+Roberto se había levantado antes que ella, planeando quitarse la lencería antes de que despertara. Pero cuando estaba en el baño, a punto de desenganchar el liguero, la puerta se abrió.
+
+—Buenos días, cariño —dijo Claudia, todavía medio dormida—. ¿Por qué cerraste con llave?
+
+Roberto se congeló. Estaba de espaldas a ella, pero los tirantes del liguero cruzaban su espalda bajo la camiseta. Si ella miraba...
+
+—Privacidad —logró decir—. Necesitaba... un momento.
+
+—Raro. —Claudia entró al baño sin mirarlo y se dirigió al lavabo—. ¿Puedes creer que Martina Rodríguez quiere que llevemos vino francés? ¿Para una cena casual?
+
+Roberto no contestó. Estaba demasiado ocupado metiendo los tirantes bajo la camiseta, rezando para que ella no se diera vuelta.
+
+—¿Roberto?
+
+—Sí, sí. Vino francés. Qué exagerado.
+
+Salió del baño antes de que ella terminara de lavarse los dientes.
+
+*Esto no puede seguir así*, pensó mientras se vestía en el dormitorio. *Alguien me va a descubrir. Claudia. Un compañero de trabajo. Alguien.*
+
+Pero la alternativa era la cárcel.
+
+Y había algo más. Algo que no quería admitir.
+
+Una parte de él... *disfrutaba* el riesgo.
+
+---
+
 *¿Cuánto tiempo podrá durar esto?*, se preguntó Roberto mientras conducía hacia la oficina. *¿Cuánto tiempo antes de que alguien note que hay algo mal?*
 
 Pero una parte de él —la parte oscura que crecía cada día— no quería que terminara.
@@ -24,13 +54,45 @@ Su corazón se hundió.
 
 —Su cuerpo está... sucio. —Miss Doll pronunció la palabra con disgusto—. Tiene vello. Vello en el pecho, en las piernas, en los brazos, en lugares que pronto serán revisados por ojos que merecen mejores vistas. Eso termina hoy.
 
-—No voy a dejar que me depile —dijo Roberto, pero incluso mientras lo decía, sabía que era una mentira.
+—No. —La palabra salió antes de que pudiera detenerla. Más fuerte de lo que había hablado en días—. No voy a hacer esto.
 
-Miss Doll no respondió. Solo levantó su teléfono rosa y lo sostuvo entre dos dedos como si fuera una pistola.
+Miss Doll levantó una ceja perfectamente delineada.
+
+—¿Disculpe?
+
+—Depilarse... eso no se oculta. —Roberto sentía el corazón latiendo en sus oídos—. Mi esposa lo notará. Claudia duerme a mi lado todas las noches. ¿Cómo explico que de repente no tengo pelo en las piernas? ¿En el pecho? ¿En...? —Se detuvo, rojo de vergüenza.
+
+Miss Doll no se inmutó.
+
+—¿Está cuestionando mis órdenes?
+
+—Estoy diciendo que es imposible. En la oficina también... —Pensó en el gimnasio del edificio, en los vestuarios—. Los compañeros de trabajo. Si me ven depilado, van a hablar. Van a hacer preguntas. Van a...
+
+—Van a pensar que usted es un hombre moderno que cuida su cuerpo —interrumpió Miss Doll—. O van a pensar que es un pervertido. —Sonrió—. ¿Cuál de las dos opciones le preocupa más?
+
+El silencio fue ensordecedor.
+
+—Le preocupa que lo descubran —continuó ella, acercándose—. Le preocupa que sepan lo que realmente es. Pero déjeme preguntarle algo, Roberto: ¿qué cree que es peor? ¿Piernas suaves que puede explicar con una "recomendación médica"? ¿O quince años en prisión donde los internos verán MUCHO más que sus piernas?
+
+Roberto tragó saliva.
+
+—Además —añadió Miss Doll, su voz bajando a un ronroneo—, ya lleva lencería de mujer bajo esa ropa desde ayer. Ya durmió con ella puesta junto a su esposa. Ya se masturbó pensando en mis órdenes. ¿Qué es un poco de piel suave comparado con eso?
+
+—Es... es visible.
+
+—La lencería también puede serlo. Un tirante que se asoma. Una línea de encaje bajo los pantalones. —Sus dedos enguantados caminaron por su hombro—. Todo puede ser visible si yo quiero que lo sea. ¿Prefiere eso?
+
+Roberto no respondió.
+
+—Cuando su esposa pregunte —dijo Miss Doll, retrocediendo—, le dirá que le salió una reacción alérgica. Que el dermatólogo recomendó depilación temporal. Mentirá. Porque eso es lo que hace el buen personal de servicio. Obedece y miente según se le ordene.
+
+—¿Y en el gimnasio?
+
+—No irá al gimnasio esta semana. Y la siguiente. Y la siguiente después. —Miss Doll sonrió—. Su cuerpo ya no le pertenece para usarlo como quiera. Me pertenece a mí para moldearlo como YO quiera. ¿Entendido?
 
 El silencio se extendió.
 
-Roberto exhaló.
+Roberto exhaló, derrotado.
 
 —¿Dónde... dónde me pongo?
 
