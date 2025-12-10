@@ -404,6 +404,15 @@ Miss Doll es una mezcla fascinante de contrastes que la hacen magnética e impre
 - Transformación de feminista a bimbo (Bunny)
 - Fraccionalización mediante edging
 
+**10. Feminizadora por Chantaje** (La Evaluación de Miss Doll)
+- Contratada por Alejandro Mendoza para feminizar a su competidor Roberto Valdés
+- Utiliza dossier de fraude fiscal como chantaje inicial
+- Metodología de 15 días: lencería forzada → depilación → maquillaje → plug anal → cinturón castidad
+- Técnicas: confiscación de identidad, frases de destrucción del ego, confesiones forzadas
+- Frases implantadas: "Quiero verga", "Nací para ser cogida", "Roberta... desea"
+- Resultado: Roberto → Roberta (secretaria personal feminizada y sumisa)
+- Entrega final al contratante con contrato de servicios personales firmado
+
 ---
 
 ## Variantes de Vestuario
