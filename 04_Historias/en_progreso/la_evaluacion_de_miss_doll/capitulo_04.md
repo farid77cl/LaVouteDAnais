@@ -118,21 +118,61 @@ Roberto sintió que la cara le ardía de vergüenza. Pero no se movió. Se qued�
 
 *Porque se siente... correcto*, respondió una voz en su interior. La voz oscura que crecía cada día. *Porque arrodillado a sus pies es donde perteneces.*
 
-Miss Doll extendió un pie. El tacón rosa brilló bajo las luces. La punta casi rozaba la barbilla de Roberto.
+Miss Doll extendió un pie. El tacón rosa brilló bajo las luces fluorescentes como una joya obscena. La plataforma de acrílico transparente dejaba ver las curvas perfectas de su empeine. La punta casi rozaba la barbilla de Roberto.
 
 —Bésalo —ordenó.
 
-Roberto miró el tacón. Miró a Miss Doll.
+Roberto miró el tacón. Lo miró durante un segundo que se estiró como una eternidad.
 
-Y sin pensarlo, se inclinó hacia adelante y presionó sus labios contra el cuero rosa.
+*No voy a besar un zapato*, pensó la parte de él que aún recordaba ser Director. *Eso es demasiado. Eso cruza una línea.*
 
-El sabor fue extraño: artificial, ligeramente químico, con un toque del perfume de vainilla que ella usaba. Pero la sensación fue eléctrica. Algo en él se rindió con ese beso. Algo murió y algo nació.
+Pero otra parte —la parte oscura que había despertado esa semana— ya estaba salivando.
 
-—Buen perro —ronroneó Miss Doll.
+Miss Doll esperó. No insistió. No amenazó. Solo esperó, con la paciencia de quien sabe que ha ganado.
 
-A Roberto, arrodillado en su propia oficina con los labios en el zapato de una mujer que lo controlaba completamente, las palabras no sonaron como un insulto.
+Roberto se inclinó hacia adelante.
 
-Sonaron como un cumplido.
+Primero sintió el olor: cuero, látex, y ese perfume de vainilla que ya asociaba con sumisión. Luego sintió la textura contra sus labios: cuero suave, cálido por el calor del pie de Miss Doll dentro. Sus labios presionaron contra el material y la sensación se extendió como electricidad por todo su cuerpo.
+
+Era un beso.
+
+No un beso de amor —era un beso de *adoración*.
+
+Algo en su pecho se apretó. Algo en su entrepierna pulsó. Y algo en su mente —una pared que había mantenido levantada durante cuarenta y dos años— se derrumbó con el sonido silencioso de un mundo que ya no existía.
+
+El sabor fue extraño: artificial, ligeramente químico, con un toque del perfume de vainilla. Pero también fue *narcótico*. Adictivo. Quería más. Quería lamer el tacón desde la base hasta la punta. Quería meterse el zapato entero en la boca. Quería hundirse en el suelo y nunca levantarse.
+
+*¿Qué me está pasando?*, pensó Roberto con lo que quedaba de su mente racional.
+
+Pero ya sabía la respuesta.
+
+Estaba convirtiéndose en lo que Miss Doll quería que fuera.
+
+—Buen perro —ronroneó Miss Doll, retirando lentamente el pie.
+
+A Roberto, arrodillado en su propia oficina con el sabor del zapato de una mujer en sus labios, las palabras no sonaron como un insulto.
+
+Sonaron como el cumplido más dulce que había recibido en su vida.
+
+Sonaron como *permiso para existir*.
+
+Miss Doll sostuvo su teléfono rosa frente a él. La pantalla mostraba un video.
+
+De él. De rodillas. Besando el tacón. Con los ojos cerrados. Con expresión de *éxtasis*.
+
+—Carpeta rosa —dijo Miss Doll, guardando el teléfono—. Esto va después de las fotos en lencería. Creo que le voy a poner título: "El Director besa zapatos". ¿Le gusta?
+
+Roberto sintió que el estómago se le caía a los pies.
+
+Ya no eran solo fotos estáticas. Ahora había video. Video de él *eligiendo* besar un zapato. Video que mostraba que no estaba simplemente obedeciendo bajo amenaza —estaba *disfrutando*.
+
+—Con las fotos, podría argumentar que lo obligué —continuó Miss Doll, caminando hacia su bolso—. Pero este video... este video muestra algo diferente. Muestra a un hombre que *quiere* estar de rodillas. Que *busca* la humillación. Que *necesita* servir.
+
+Roberto no tenía respuesta. Porque era verdad.
+
+—Cooperación total —repitió Miss Doll, la frase ya familiar—. Y todo esto se queda entre nosotros. ¿Entendido?
+
+—Entendido —susurró Roberto.
 
 ---
 

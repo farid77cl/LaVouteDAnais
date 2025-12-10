@@ -8,7 +8,7 @@ Claudia no había notado nada. Dormía profundamente a su lado, ajena al hecho d
 
 Pero esta mañana casi lo descubre.
 
-Roberto se había levantado antes que ella, planeando quitarse la lencería antes de que despertara. Pero cuando estaba en el baño, a punto de desenganchar el liguero, la puerta se abrió.
+Roberto se había levantado antes que ella para vestirse sin que lo viera. No se le ocurría ya quitarse la lencería —el recuerdo del mensaje de Miss Doll en la oscuridad, la cuenta regresiva, la foto casi enviada a Claudia, le había curado de cualquier tentación de desobedecer. Pero aún necesitaba ocultar los tirantes bajo la ropa de trabajo. Estaba en el baño, ajustándose la camiseta sobre el liguero, cuando la puerta se abrió.
 
 —Buenos días, cariño —dijo Claudia, todavía medio dormida—. ¿Por qué cerraste con llave?
 
@@ -76,11 +76,19 @@ El silencio fue ensordecedor.
 
 Roberto tragó saliva.
 
-—Además —añadió Miss Doll, su voz bajando a un ronroneo—, ya lleva lencería de mujer bajo esa ropa desde ayer. Ya durmió con ella puesta junto a su esposa. Ya se masturbó pensando en mis órdenes. ¿Qué es un poco de piel suave comparado con eso?
+—Además... —Miss Doll se movió hacia él con la gracia sinuosa de una serpiente. Su voz bajó a un ronroneo que era casi una caricia física. Se inclinó cerca de su oído, tan cerca que él podía oler su perfume de vainilla, tan cerca que sus labios rosa casi rozaban su piel— ...ya lleva lencería de mujer bajo esa ropa desde ayer. Ya durmió con ella puesta junto a su esposa. Ya se excitó pensando en mis órdenes.
+
+Sus dedos enguantados subieron lentamente por su brazo. El tacto fue eléctrico incluso a través de la camisa.
+
+—¿Qué es un poco de piel suave... —su aliento cálido contra su cuello— ...comparado con todo lo que ya ha hecho por mí?
 
 —Es... es visible.
 
-—La lencería también puede serlo. Un tirante que se asoma. Una línea de encaje bajo los pantalones. —Sus dedos enguantados caminaron por su hombro—. Todo puede ser visible si yo quiero que lo sea. ¿Prefiere eso?
+—La lencería también puede serlo. Un tirante que se asoma... —Sus dedos caminaron por su hombro con la lentitud de una depredadora—. Una línea de encaje bajo los pantalones... —Bajaron por su espalda, trazando la línea del liguero que sabía exactamente dónde estaba—. Todo puede ser visible si yo quiero que lo sea.
+
+Se detuvo frente a él. Sus ojos —grandes, perfectamente delineados, hipnóticos— lo sostenían como una cobra sostiene a su presa.
+
+—¿Prefiere eso?
 
 Roberto no respondió.
 
@@ -88,7 +96,17 @@ Roberto no respondió.
 
 —¿Y en el gimnasio?
 
-—No irá al gimnasio esta semana. Y la siguiente. Y la siguiente después. —Miss Doll sonrió—. Su cuerpo ya no le pertenece para usarlo como quiera. Me pertenece a mí para moldearlo como YO quiera. ¿Entendido?
+—No irá al gimnasio esta semana. —Miss Doll pronunció cada palabra como una sentencia—. Y la siguiente. Y la siguiente después.
+
+Se acercó hasta que sus labios rosa brillante estaban a centímetros de los suyos.
+
+—Su cuerpo ya no le pertenece, Roberto. Ya no es suyo para usarlo como quiera. Me pertenece a MÍ. Para moldearlo. Para modificarlo. Para convertirlo en lo que YO quiera que sea.
+
+Su mano enguantada tomó su barbilla, obligándolo a mirarla a los ojos.
+
+—Y esto —sus uñas rosa presionaron ligeramente su mentón— es solo el comienzo. Hoy es el vello. Mañana será otra cosa. Y el día después, otra. Hasta que no quede nada del hombre que era. ¿Entendido?
+
+No era una pregunta. Era un hecho. Una sentencia de muerte lenta para Roberto.
 
 El silencio se extendió.
 
@@ -170,25 +188,47 @@ El dolor fue tan intenso que vio estrellas. Pero duró solo un segundo. Y cuando
 
 Miss Doll continuó. Trabajó con la precisión de una artista, depilando cada centímetro de vello de su entrepierna, dejando su polla y sus testículos completamente lisos, completamente expuestos.
 
-Cuando terminó, tomó un frasco de aceite rosa y empezó a aplicarlo sobre su piel.
+Cuando terminó, algo cambió.
+
+Miss Doll dejó las herramientas a un lado. Tomó un frasco de aceite rosa —el líquido brillaba como miel— y se quitó los guantes de látex.
+
+Por primera vez, Roberto vio sus manos desnudas. Dedos largos, uñas perfectas pintadas de rosa, piel que parecía porcelana.
+
+—Ahora —dijo ella, vertiendo el aceite en sus palmas— viene la recompensa.
 
 El contraste fue devastador.
 
-Después del dolor, el aceite fue como seda líquida. Las manos de Miss Doll —enguantadas pero expertas— se deslizaron por su pecho recién depilado, por su estómago, por sus piernas. Cada caricia enviaba descargas de placer a través de su sistema nervioso hipersensibilizado.
+Después del dolor, el aceite fue como seda líquida. Pero no fueron las manos enguantadas de antes. Fueron sus manos *desnudas*. Su piel tocando la suya por primera vez.
+
+Miss Doll se movió con la lentitud de una boa constrictor, sus palmas deslizándose por su pecho recién depilado. Con cada caricia, apretaba un poco más. No físicamente —era algo peor. Apretaba su mente.
+
+—Qué suave —susurró ella, su voz como terciopelo—. Qué *bonita* está quedando su piel.
+
+Sus manos bajaron por su estómago. Lentas. Hipnóticas. Como serpientes deslizándose hacia su presa.
+
+—¿Ve lo fácil que es esto? —Su aliento cálido rozó su oreja—. Usted sufre un momento... y luego viene la recompensa. El dolor... y luego el placer. Eso es lo que yo le ofrezco, Roberto. Un intercambio justo.
+
+Sus dedos —desnudos, cálidos, expertos— bajaron por sus muslos, trazando líneas de fuego sobre la piel hipersensible.
+
+—Confíe en mí —murmuró, su voz tan suave como una canción de cuna—. Entréguese a mí. Yo sé lo que es mejor para usted.
 
 Y cuando sus manos llegaron a su entrepierna...
 
 Roberto gimió. No pudo evitarlo.
 
-Sus dedos rozaron su polla —ahora completamente lisa, rodeada de piel suave como la de un bebé— y la tocaron con la misma eficiencia clínica con que habían aplicado la cera. Pero el efecto fue muy diferente.
+Sus dedos rozaron su polla —ahora completamente lisa, rodeada de piel suave como la de un bebé— con una intimidad que ninguna esposa podría igualar. Cada toque era preciso. Cada caricia, calculada. No era placer gratuito. Era condicionamiento.
 
-Roberto estaba duro. Completamente, dolorosamente duro.
+*Dolor y luego placer. Obediencia y luego recompensa.*
 
-—Interesante —murmuró Miss Doll—. El dolor lo excita. O quizás es la transformación. —Sus dedos rodearon su polla y la acariciaron experimentalmente—. Quizás es que está empezando a disfrutar de volverse... bonito.
+La serpiente apretaba más y más. Y Roberto, sin darse cuenta, se dejaba apretar.
 
-—No... —gimió Roberto, pero su cuerpo decía otra cosa.
+—Interesante —murmuró Miss Doll, sus dedos rodeando su erección con la naturalidad de quien posee algo—. El dolor lo excita. O quizás es la transformación. —Lo acarició experimentalmente, observando cómo su cuerpo respondía—. Quizás es que está empezando a *disfrutar* de volverse... bonito.
 
-Miss Doll retiró la mano.
+—No... —gimió Roberto, pero su cuerpo decía otra cosa. Su polla pulsaba en la mano de Miss Doll como si le perteneciera.
+
+Y en cierto modo, ya le pertenecía.
+
+Miss Doll retiró la mano con un movimiento lento, dejándolo al borde.
 
 —Levántese. Mírese en el espejo.
 
@@ -253,3 +293,63 @@ Sentía... curiosidad.
 Y la pregunta, por primera vez, no lo llenó de terror.
 
 Lo llenó de anticipación.
+
+---
+
+Pero la anticipación se convirtió en terror esa misma tarde.
+
+Roberto estaba en el baño de la oficina, lavándose las manos después de una reunión particularmente larga. Se había arremangado la camisa sin pensar —un gesto automático, algo que había hecho miles de veces.
+
+La puerta se abrió.
+
+Fernando Ruiz, de Contabilidad, entró silbando.
+
+Roberto se congeló.
+
+Sus brazos —sus brazos completamente, obscenamente depilados— estaban expuestos. La piel suave brillaba bajo la luz fluorescente. No había forma de que Fernando no lo notara.
+
+Fernando caminó hacia el lavabo contiguo. Lo miró.
+
+Sus ojos bajaron hacia los brazos de Roberto.
+
+Se quedaron allí.
+
+—Oye, Roberto... —Fernando frunció el ceño—. ¿Te depilaste los brazos?
+
+El silencio fue ensordecedor.
+
+La mente de Roberto corría frenéticamente buscando una explicación. *Di algo. Di lo que sea. Di—*
+
+—Natación —soltó.
+
+Fernando arqueó las cejas. —¿Natación?
+
+—Sí. —Roberto bajó las mangas con movimientos demasiado rápidos, demasiado nerviosos—. Aerodinámica. He empezado a entrenar para un triatlón.
+
+—¿Tú? —Fernando no ocultó su escepticismo—. ¿El hombre que sudaba subiendo las escaleras?
+
+—Cambio de vida. —Roberto se secó las manos, evitando el contacto visual—. Ya sabes cómo es. Crisis de los cuarenta. Hay que mantenerse en forma.
+
+Fernando lo miró durante un segundo que pareció una eternidad.
+
+—Claro. Natación. —Su tono decía que no creía ni una palabra—. Buena suerte con el triatlón, entonces.
+
+Salió del baño.
+
+Roberto se apoyó contra el lavabo, el corazón latiendo tan fuerte que podía escucharlo en sus oídos.
+
+*Natación. Le dije que era natación.*
+
+Pero Fernando no era idiota. Y en una oficina como esta, los rumores viajaban más rápido que los emails.
+
+Si Fernando hablaba... si otros empezaban a hacer preguntas... si alguien conectaba los puntos entre los brazos depilados y las visitas diarias de Miss Doll...
+
+Roberto miró su reflejo en el espejo.
+
+El hombre que le devolvía la mirada tenía los ojos de alguien atrapado.
+
+*¿Cuánto tiempo antes de que la mentira se derrumbe?*, se preguntó.
+
+Y la respuesta que vino fue aterradora:
+
+*Menos del que crees.*

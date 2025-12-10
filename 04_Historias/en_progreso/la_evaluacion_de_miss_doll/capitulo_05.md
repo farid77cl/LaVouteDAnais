@@ -22,11 +22,25 @@ Y tacones negros de charol. De aguja. De al menos doce centímetros.
 
 Se vistió lentamente, con manos que temblaban.
 
-La blusa de seda se deslizó sobre su piel depilada como una caricia de agua. El material era frío al principio pero se calentó rápidamente, moldeándose a su cuerpo, acariciando sus pezones —ahora sensibles después de días de roce del encaje— con cada movimiento.
+Primero, se quitó el traje de hombre. La chaqueta. La camisa. La corbata. Cada prenda que cayó al suelo fue como desprenderse de una capa de armadura. Cuando quedó en ropa interior —las braguitas rosa, el liguero, las medias que ya no se quitaba ni para dormir— se miró en el espejo.
 
-La falda fue un desafío. Era tan estrecha que tuvo que subírsela por las piernas enrolladas y luego ajustarla en su lugar. Cuando finalmente la cerró, descubrió que apenas podía separar las rodillas. Caminar iba a ser un problema.
+El hombre que devolvía la mirada ya parecía incompleto. Medio vestido. Esperando.
 
-Las medias fueron ya familiares. Las enrolló, las deslizó por sus piernas lisas, las enganchó al liguero rosa que llevaba debajo de todo.
+La blusa de seda fue primero.
+
+Deslizó los brazos por las mangas y el material lo envolvió como agua tibia. Frío al principio pero calentándose rápidamente contra su piel depilada. La textura era diferente a cualquier cosa que hubiera usado como hombre: ligera, fluida, *viva*. Cada movimiento hacía que la seda se deslizara sobre sus pezones —ahora sensibles después de días de roce constante del encaje— enviando pequeñas descargas de placer por su columna.
+
+Abotonó la blusa con dedos torpes. El lazo del cuello fue un desafío; tardó tres intentos en hacerlo presentable. Pero cuando finalmente lo logró, algo cambió en su reflejo. El cuello enmarcado por el lazo ya no parecía el cuello de Roberto. Parecía el cuello de alguien más suave. Más femenino.
+
+La falda fue el verdadero ritual.
+
+Era imposiblemente estrecha. Roberto —*¿o ya era Roberta?*— tuvo que subírsela enrollada por las piernas, centímetro a centímetro, sintiendo cómo la tela se ajustaba contra sus muslos como un abrazo restrictivo. Cuando finalmente la cerró, descubrió que apenas podía separar las rodillas.
+
+La restricción debería haber sido incómoda. En cambio, era *tranquilizadora*. Como un corsé para las piernas. Como una promesa de que no podría huir aunque quisiera.
+
+Se miró en el espejo. La falda transformaba su silueta. Con la cintura marcada y las caderas sugeridas por el corte, ya no tenía cuerpo de hombre. Tenía cuerpo de *secretaria*.
+
+Las medias fueron familiares, casi reconfortantes. Las enrolló como Miss Doll le había enseñado, las deslizó por sus piernas, las enganchó al liguero. El clic de los broches fue como pequeños candados cerrándose. Otro paso. Otro eslabón en la cadena.
 
 Y los tacones...
 
@@ -34,11 +48,13 @@ Roberto nunca había usado tacones en su vida. Ni siquiera los había probado co
 
 Se sentó en el borde del lavabo y deslizó los pies en los zapatos negros. El tacón era estrecho como una aguja, la punta tan afilada que parecía un arma. El arco de su pie se forzó hacia abajo en un ángulo que parecía antinatural.
 
+La primera sensación fue de *trampa*. Sus pies quedaron atrapados en una prisión de cuero que no permitía movimiento natural. Los tendones de sus pantorrillas se tensaron automáticamente. Su postura cambió, obligándolo a sacar el pecho, a curvar la espalda, a convertirse en algo diseñado para ser mirado.
+
 Se puso de pie.
 
 Y casi cayó inmediatamente.
 
-El mundo giró. Su centro de gravedad se desplazó hacia adelante. Sus pantorrillas se tensaron hasta gritar. Sus pies protestaron contra la prisión de cuero.
+El mundo giró. Su centro de gravedad se desplazó hacia adelante. Sus pantorrillas se tensaron hasta gritar. Todo su cuerpo buscó un nuevo equilibrio, un nuevo modo de existir.
 
 Se agarró del lavabo, respirando agitadamente.
 
@@ -46,19 +62,27 @@ Se agarró del lavabo, respirando agitadamente.
 
 Pero millones de mujeres lo hacían todos los días. *Él* había exigido que sus secretarias lo hicieran. Y ahora...
 
+Ahora entendía. Los tacones no eran un accesorio. Eran una *transformación*. Cambiaban cómo caminabas. Cómo te sostenías. Cómo el mundo te veía. Cómo te veías a ti mismo.
+
+Con los tacones puestos, Roberto ya no podía moverse como un hombre.
+
+Solo podía moverse como... ella.
+
 Dio un paso experimental. Luego otro. El sonido de los tacones contra el suelo de baldosas fue obscenamente fuerte: *clic, clic*.
+
+El sonido de una mujer caminando.
 
 Se miró en el espejo del baño.
 
 La persona que le devolvía la mirada era un extraño.
 
-Un extraño con piernas que parecían kilométricas en las medias brillantes. Un extraño con cintura marcada por la falda ajustada. Un extraño con el pecho sugerido por los pliegues de la blusa de seda.
+Un extraño con piernas que parecían kilométricas en las medias brillantes. Un extraño con cintura marcada por la falda ajustada. Un extraño con el pecho sugerido por los pliegues de la blusa de seda. Un extraño cuyos labios —todavía sin pintar— ya parecían más suaves, más llenos, como si el cuerpo supiera lo que venía.
 
 Un extraño que se veía... correcto.
 
 *Dios mío*, pensó Roberto. *Parezco una secretaria. Una secretaria de verdad.*
 
-Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas rosa.
+Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas rosa. Pulsando contra el encaje. Mojando la tela con anticipación.
 
 ---
 
@@ -113,6 +137,52 @@ Sus pasos se acortaron naturalmente. Sus caderas empezaron a oscilar para manten
 Dejó de pensar en "soy un hombre caminando raro".
 
 Empezó a pensar en mantener el equilibrio. En no caerse. En complacer a Miss Doll.
+
+Y entonces la puerta se abrió.
+
+Sin aviso. Sin llamar. La puerta simplemente se abrió y un hombre entró con un carrito de limpieza.
+
+Era mayor, quizás sesenta años. Uniforme gris de limpieza. Nombre bordado en el pecho: "Gonzalo".
+
+Roberta —porque en ese momento, vestida de mujer, ya no podía pensar en sí misma como Roberto— se congeló en medio del paso.
+
+Había estado caminando con las caderas oscilando. Con los tacones resonando. Con la falda ajustándose a cada movimiento.
+
+Gonzalo la miró.
+
+La miró de arriba abajo. Sus ojos recorrieron los tacones, las medias, la falda, la blusa, la peluca rubia que Miss Doll le había puesto esa mañana para "completar el look".
+
+El silencio fue eterno.
+
+—Ah —dijo Gonzalo finalmente—. Disculpe. Creí que no había nadie.
+
+Su voz era neutral. Su expresión, ilegible.
+
+Dio un paso atrás. Cerró la puerta.
+
+Se fue.
+
+Roberta se quedó inmóvil durante varios segundos, el corazón latiendo tan fuerte que podía sentirlo en la garganta.
+
+*Me vio.*
+
+Alguien la había visto. Un empleado. Alguien que conocía esta oficina, que conocía al Director Roberto Valdés, que podía —en cualquier momento— conectar los puntos.
+
+Miss Doll apareció detrás de ella. Sus manos se posaron sobre los hombros de Roberta.
+
+—Respira —dijo, su voz sorprendentemente suave—. Los limpiadores han visto cosas peores en estas oficinas. Aventuras. Drogas. Directores llorando en el suelo. Una ejecutiva aprendiendo a caminar en tacones no es lo más escandaloso.
+
+—Pero él me vio... él sabe...
+
+—Él vio a una mujer —corrigió Miss Doll—. Una mujer ensayando algo en una oficina vacía. Nada más. A menos que tú misma le digas que eras Roberto, él nunca lo sabrá.
+
+Roberta no estaba tan segura.
+
+Pero Miss Doll continuó con el entrenamiento como si nada hubiera pasado.
+
+Y Roberta, con las piernas temblando y el corazón acelerado, siguió caminando.
+
+Porque ¿qué otra opción tenía?
 
 Hacia el mediodía, logró cruzar la habitación sin tropezar, con un leve balanceo de caderas que casi parecía natural.
 

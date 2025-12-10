@@ -25,6 +25,14 @@
 
 ## Decisiones Importantes
 
+### 2025-12-10
+- **Definición Thriller BDSM:** Fusión de thriller (stakes, tensión, amenaza) + BDSM (poder, rituales, transformación). El protagonista quiere escapar pero descubre que quiere rendirse.
+- **Stakes acumulativos:** Cada capítulo añade un stake irreversible (fotos → video → testigo → confesión grabada)
+- **Miss Doll como serpiente:** En escenas de contacto físico, debe moverse con sensualidad de boa constrictor, apretando la mente de la víctima
+- **Sistema bluetooth:** Broches del liguero son sensores que Miss Doll monitorea 24/7
+- **Advertencias inmediatas:** Roberto intenta desobedecer en la cama, recibe mensaje amenazante en segundos
+- **Sin emoticones:** El sitio de publicación no admite emoticones, eliminarlos de los textos
+
 ### 2025-12-09
 - **Transformación aprobada:** Helena cambia de bimbo clásica a Goth Bimbo
 - **Terminología corregida:** "Gimbo" → "Goth Bimbo"
@@ -36,8 +44,8 @@
 ## Tareas Pendientes
 
 ### Historias En Progreso
+- [x] La Evaluación de Miss Doll — Stakes aplicados, tensión aumentada
 - [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
-- [ ] La Evaluación de Miss Doll — Falta compilación, Tumblr, HTML
 - [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
 
 ### Fichas Pendientes
@@ -55,4 +63,4 @@
 
 ---
 
-*Última actualización: 2025-12-09 18:05*
+*Última actualización: 2025-12-10 13:10*

@@ -98,7 +98,77 @@ Las medias negras hacían que sus piernas parecieran más delgadas, más femenin
 
 Y su polla —traicionera, despreciable, incontrolable su polla— estaba completamente erecta, presionando dolorosamente contra el encaje.
 
-—Interesante —murmuró Miss Doll, mirando la tienda de campaña obvia—. Súbase los pantalones.
+Miss Doll sacó su teléfono rosa del bolso.
+
+El sonido del obturador fue como un disparo.
+
+*Click. Click. Click.*
+
+Roberto se congeló. El horror lo atravesó como agua helada.
+
+—¿Qué... qué está haciendo?
+
+—Documentando —dijo Miss Doll, revisando las fotos con satisfacción—. Mire qué bien le quedan las braguitas, Roberto. La erección es un toque especialmente artístico.
+
+—¡Borre esas fotos! —El pánico en su voz era patético incluso para sus propios oídos.
+
+Miss Doll sonrió. Esa sonrisa de tiburón.
+
+—Ahora tengo dos carpetas, cariño. —Guardó el teléfono con un movimiento lánguido—. La azul con su fraude fiscal. Y la rosa con su nuevo... uniforme.
+
+Roberto sintió que el suelo se abría bajo sus pies. Ya no era solo la cárcel. Ahora también era esto: fotos de él —el Director Regional, el hombre respetable, el esposo de Claudia— de pie en bragas de mujer con una erección visible.
+
+Fotos que podían ir a cualquier parte. A sus colegas. A su esposa. A sus hijos.
+
+—La carpeta azul amenaza su libertad —continuó Miss Doll, caminando hacia él—. Pero la carpeta rosa... la rosa amenaza su *dignidad*. Y ambos sabemos cuál le importa más a un hombre como usted.
+
+Roberto no pudo responder. Estaba paralizado.
+
+—Cooperación total —dijo Miss Doll, acariciando su mejilla con un dedo enguantado—, y ambas carpetas se quedan cerradas. ¿Entendido?
+
+Roberto asintió. No confiaba en su voz.
+
+—Interesante —murmuró Miss Doll, mirando la tienda de campaña que aún persistía a pesar del terror—. Su cuerpo sigue excitado. Quizás esto le gusta más de lo que admite.
+
+Pero no había terminado.
+
+Miss Doll sacó su teléfono rosa de nuevo y abrió una aplicación. La pantalla mostró un mapa con un punto parpadeante —la ubicación de la oficina— y tres íconos verdes debajo.
+
+—Ahora viene la parte divertida —dijo ella—. Una pequeña demostración.
+
+Se agachó frente a Roberto —el movimiento hizo que su escote se abriera como un abismo rosa— y tocó uno de los broches del liguero. El pequeño cierre metálico que conectaba la media izquierda a la correa.
+
+—¿Ve este broche? No es solo un broche.
+
+Lo desenganchó.
+
+*Click.*
+
+El teléfono en su mano emitió un sonido suave. Uno de los íconos verdes se volvió rojo.
+
+—Es un sensor bluetooth —explicó Miss Doll, mostrándole la pantalla—. Cada broche está conectado a esta aplicación. Si lo desengacha... —señaló el ícono rojo— ...yo lo sé inmediatamente. Hora exacta. Duración. Todo.
+
+Roberto sintió que el estómago se le caía.
+
+Miss Doll volvió a enganchar el broche.
+
+*Click.*
+
+El ícono volvió a verde. El teléfono mostró: *"Reconexión: 0:04 segundos"*.
+
+—Tres minutos —dijo ella—. Ese es su margen para ir al baño. Cualquier desconexión mayor a tres minutos será registrada como incumplimiento. Tres incumplimientos y... —tocó el ícono de la carpeta rosa— ...Claudia recibe un correo muy especial.
+
+—Eso es... eso es enfermo —susurró Roberto.
+
+—Eso es *tecnología*. —Miss Doll se incorporó con un movimiento fluido—. Los broches son discretos, imperceptibles bajo la ropa. Pero están ahí. Siempre. Vigilándolo. Reportándome. Incluso cuando duerme. Incluso cuando cree que nadie lo ve.
+
+Guardó el teléfono.
+
+—Así que si esta noche, en casa, decide que va a quitarse la lencería porque "Miss Doll no lo sabrá"... —su sonrisa fue helada— ...piénselo dos veces. Porque yo lo sabré. Y Claudia también lo sabrá. ¿Entendido?
+
+Roberto asintió, mudo.
+
+—Súbase los pantalones.
 
 Roberto obedeció con dedos torpes. Los pantalones se subieron sobre la lencería, ocultándola del mundo pero no de su consciencia. Podía sentir cada centímetro del encaje contra su piel depilada (no, aún no depilada, pero lo estaría, algo le decía que lo estaría). Podía sentir los tirantes del liguero tirando cada vez que caminaba. Podía sentir las medias deslizándose contra sus piernas.
 
@@ -208,11 +278,15 @@ Sabía que estaba esperando mañana con algo muy parecido a la anticipación.
 
 Esa noche fue la primera prueba real.
 
-Roberto llegó a casa a las 7:30 PM. Claudia estaba en la cocina preparando la cena. El olor de la pasta llenaba el aire, cálido y familiar. Normal.
+Roberto llegó a casa a las 7:30 PM sabiendo que no tenía escapatoria.
+
+Los broches bluetooth lo vigilaban. La demostración de Miss Doll había sido clara: cada desconexión registrada, cada segundo contado. Tres minutos para el baño. Nada más.
+
+Claudia estaba en la cocina preparando la cena. El olor de la pasta llenaba el aire, cálido y familiar. Normal.
 
 Nada era normal.
 
-Bajo su traje azul marino —el traje de Director Regional, el traje de un hombre respetable— llevaba lencería de mujer. Bragas de encaje negro apretando su entrepierna. Liguero tirando con cada paso. Medias de seda deslizándose contra el interior de sus pantalones.
+Bajo su traje azul marino llevaba lencería de mujer. Bragas de encaje negro. Liguero. Medias de seda.
 
 —¿Cómo estuvo tu día, cariño? —preguntó Claudia desde la cocina.
 
@@ -284,11 +358,93 @@ Se dio la vuelta.
 
 Roberto yacía en la oscuridad, el corazón latiendo tan fuerte que estaba seguro de que ella podía oírlo. El encaje le ardía contra la piel. Los tirantes tiraban con cada respiración. Y su polla —esa traidora— estaba dura otra vez, presionando contra las bragas de mujer.
 
-*No tiene permiso para correrse.*
+Pero había un problema más urgente.
 
-La orden de Miss Doll resonaba en su cabeza incluso aquí, en su propia cama, junto a su esposa.
+Los pies.
 
-Pasó horas despierto, intentando no moverse, intentando no rozar el encaje, intentando no pensar en labios rosa y tacones y órdenes susurradas.
+El pantalón del pijama le llegaba hasta los tobillos, pero no cubría los pies. Y Roberto, con horror creciente, se dio cuenta de que el final de las medias —ese brillo satinado inconfundible— asomaba por debajo de la tela. Si Claudia miraba hacia abajo. Si se despertaba y lo veía. Si las sábanas se movían...
+
+*Tengo que quitármelas*, pensó con desesperación. *Solo las medias. Solo los pies. Miss Doll no puede esperar que duerma con esto visible.*
+
+Esperó hasta que la respiración de Claudia se volvió profunda y regular. Dormida.
+
+Con movimientos milimétricos, deslizó la mano bajo las sábanas hacia el broche del liguero en su muslo derecho.
+
+*Solo lo desengancho, quito la media del pie, y lo vuelvo a enganchar. Diez segundos. Menos de tres minutos. Está permitido.*
+
+Su dedo tocó el broche.
+
+*Click.*
+
+Lo desenganchó.
+
+Nada pasó.
+
+*Bien. Ahora la media—*
+
+Su teléfono vibró en la mesita de noche.
+
+El sonido fue como un disparo en el silencio del dormitorio. Claudia se movió. Murmuró algo ininteligible.
+
+Roberto contuvo la respiración.
+
+Claudia volvió a quedarse quieta.
+
+Con manos temblorosas, Roberto tomó el teléfono. La pantalla brilló en la oscuridad:
+
+**"¿Qué crees que estás haciendo, Roberto?"**
+
+Tres segundos después, otro mensaje:
+
+**"Puedo ver que desenganchaste el broche derecho. A las 11:47 PM. En tu dormitorio. Junto a tu esposa dormida."**
+
+El horror le heló la sangre.
+
+Otro mensaje:
+
+**"¿Sabes lo fácil que sería enviarle a Claudia las fotos AHORA MISMO? Mientras duerme a tu lado. Para que las vea en cuanto despierte."**
+
+Roberto sintió que iba a vomitar.
+
+**"Tienes 20 segundos para reconectar ese broche y NUNCA más intentar esta mierda. Si lo haces bien, te perdono esta vez. Si no..."**
+
+Una imagen apareció. Era la foto #3. Roberto en bragas con erección.
+
+**"...esta foto será lo primero que Claudia vea mañana. Junto con un mensaje explicando EXACTAMENTE qué has hecho esta semana. Tic tac."**
+
+Sus dedos buscaron frenéticamente el broche bajo las sábanas. El metal se resbalaba. Claudia se movió de nuevo.
+
+Diez segundos.
+
+*¡MALDITA SEA, MALDITA SEA!*
+
+Cinco segundos.
+
+*Click.*
+
+El broche se enganchó.
+
+Otro mensaje:
+
+**"Buena chica. Ahora escúchame bien, porque no voy a repetirlo:**
+
+**Las medias SE QUEDAN PUESTAS. Los pies SE QUEDAN CUBIERTOS. SI CLAUDIA VE ALGO, ESE ES TU PROBLEMA. Inventa una excusa. Usa calcetines encima. No me importa cómo lo resuelvas.**
+
+**Pero si me vuelves a desobedecer —si vuelvo a ver ese broche desconectado fuera del horario de baño— NO habrá advertencia. Solo consecuencias.**
+
+**Dulces sueños, Roberto."**
+
+Roberto dejó caer el teléfono en la mesita.
+
+Sus manos temblaban. Su corazón latía tan fuerte que le dolía el pecho. Claudia dormía a centímetros de él, completamente ajena a la pesadilla que estaba viviendo.
+
+*No está jugando*, comprendió con claridad brutal. *Nunca estuvo jugando. Está vigilándome. Siempre. En todo momento. Incluso aquí. Incluso ahora.*
+
+Se quedó inmóvil en la oscuridad, las medias brillando bajo el pantalón del pijama, los broches como pequeñas cárceles en sus muslos.
+
+*Estoy atrapado. Completamente, absolutamente atrapado.*
+
+Pasó el resto de la noche despierto, sin atreverse a moverse, sin atreverse a tocar nada.
 
 Cuando finalmente se quedó dormido, soñó con ella.
 

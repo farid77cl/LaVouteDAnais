@@ -134,6 +134,50 @@ Roberta observó cómo las pruebas del fraude —la evidencia de su vida anterio
 
 Miss Doll dejó caer los restos ardientes en la papelera de metal. Ambas observaron hasta que solo quedaron cenizas grises.
 
+Pero Miss Doll no había terminado.
+
+Sacó su teléfono rosa. Lo encendió. Apuntó la cámara hacia Roberta.
+
+—Una última cosa —dijo—. Para cerrar el ciclo correctamente.
+
+Roberta sintió que el estómago se le retorcía.
+
+—Repita después de mí. En voz alta. Mirando a la cámara.
+
+El LED rojo parpadeó. Estaba grabando.
+
+—"Yo, Roberto Valdés..." —Miss Doll hizo una pausa, esperando.
+
+Roberta tragó saliva. Su voz salió ronca, casi inaudible.
+
+—Yo, Roberto Valdés...
+
+—"...estoy muerto."
+
+Un escalofrío recorrió su columna.
+
+—...estoy muerto.
+
+—"Nunca existí."
+
+—Nunca existí.
+
+—"Soy Roberta. Lo acepto. Lo elijo. Lo deseo."
+
+Roberta sintió que las palabras le quemaban la garganta. Pero también sintió... algo más. Algo parecido al alivio.
+
+—Soy Roberta. Lo acepto. Lo elijo. Lo deseo.
+
+Miss Doll sonrió. Detuvo la grabación.
+
+—Perfecto. Este video va a un lugar muy especial. Un lugar donde solo yo puedo acceder. —Guardó el teléfono—. Si algún día decides que quieres volver a ser Roberto... si decides traicionarme, o huir, o confesarle a alguien quién eras... este video aparecerá en el escritorio de Claudia. En la bandeja de entrada de tus hijos. En el perfil de LinkedIn de cada persona que te conoció.
+
+Roberta cerró los ojos.
+
+La última puerta de escape acababa de cerrarse. No con un golpe, sino con un *clic* suave.
+
+El *clic* de una grabación que la ataba para siempre.
+
 —Adiós, Roberto —dijo Miss Doll.
 
 —Adiós —susurró Roberta. Y lo decía en serio.
@@ -196,35 +240,67 @@ Alejandro la miró.
 
 Roberta cerró la puerta.
 
-Alejandro se levantó. Caminó hacia ella. Sus manos encontraron su cintura, la atrajeron hacia él.
+El clic de la cerradura fue como el toque de una campana en una iglesia. Un ritual que ambos conocían.
 
-—Has sido muy útil este mes, Roberta —murmuró contra su oído—. Muy, muy útil.
+Alejandro se levantó de su silla. Era más alto que ella incluso con tacones —algo que Roberto habría resentido, pero que Roberta encontraba *reconfortante*. Seguro. Correcto.
 
-Roberta sintió sus manos bajando por sus caderas. Sintió su erección presionando contra ella a través de los pantalones.
+Caminó hacia ella con la confianza de alguien que sabe exactamente lo que quiere y sabe que lo va a obtener.
+
+—Has sido muy útil este mes, Roberta —murmuró, sus manos encontrando su cintura, atrayéndola hacia él—. Muy, muy útil.
+
+Roberta sintió el calor de sus palmas a través de la tela de la falda. Sintió cómo sus dedos se curvaban alrededor de sus caderas, posesivos, demandantes. Sintió su erección presionando contra su vientre a través de los pantalones de ejecutivo.
 
 *Una vez fui su igual*, pensó. *Una vez competíamos por poder.*
 
 Ahora ella era su secretaria. Su juguete. Su Roberta.
 
-—¿En qué puedo servirle hoy, Señor? —preguntó, con la voz que Miss Doll le había enseñado: suave, sumisa, servicial.
+Y la idea que antes habría causado furia ahora solo causaba *mojadura*.
 
-Alejandro sonrió.
+—¿En qué puedo servirle hoy, Señor? —preguntó, con la voz que Miss Doll le había enseñado: suave, sumisa, servicial. Una voz que invitaba. Una voz que prometía.
+
+Alejandro sonrió. Sus dedos subieron por su espalda, encontraron la cremallera de la blusa.
 
 —De rodillas, Roberta.
 
-Y Roberta, sin dudarlo —sin pensarlo, sin resistir— se arrodilló.
+Y Roberta —sin dudarlo, sin pensarlo, sin resistir— se arrodilló.
 
-Sus rodillas tocaron la alfombra.
+Sus rodillas tocaron la alfombra. La misma alfombra persa que Roberto había comprado cuando era Director. La misma alfombra donde Miss Doll lo había hecho arrodillarse por primera vez, hacía solo seis días que parecían una eternidad.
 
-Sus manos encontraron el cinturón de Alejandro.
+Sus manos encontraron el cinturón de Alejandro. El cuero era cálido. La hebilla hizo un clic familiar cuando la abrió. El sonido del cierre bajando fue obscenamente fuerte en el silencio de la oficina.
+
+Liberó su polla.
+
+Era grande. Gruesa. Demandante. La polla de un hombre que esperaba ser servido.
+
+*La polla de mi jefe*, pensó Roberta.
+
+Y algo en ella —algo que Roberto habría encontrado repugnante pero que Roberta encontraba natural— se humedeció aún más dentro de las braguitas rosa.
+
+Abrió la boca.
+
+La primera sensación fue de *llenura*. De tener un propósito que encajaba perfectamente. De estar exactamente donde debía estar, haciendo exactamente lo que debía hacer.
+
+Su lengua encontró la base. Subió lentamente, saboreando. La textura de su piel era diferente a cualquier cosa que Roberto hubiera imaginado —más suave, más caliente, más *correcta*.
+
+Alejandro gimió.
+
+—Buena chica.
+
+Las palabras fueron como una caricia. Como permiso para existir. Como validación.
+
+Roberta tomó más. Y más. Y más. Dejando que él le llenara la boca, dejando que él le agarrara el pelo —la peluca rubia, que sin embargo se sentía como *suyo*—, dejando que él marcara el ritmo.
 
 Y mientras trabajaba —mientras servía, mientras daba, mientras era útil— Roberta sonrió.
+
+No con la boca, que estaba ocupada.
+
+Con el alma.
 
 Porque ya no era Roberto.
 
 Roberto era un recuerdo. Un fantasma. Un error que había sido corregido.
 
-Roberta era real. Roberta era útil. Roberta era exactamente lo que debía ser.
+Roberta era real. Roberta era útil. Roberta estaba de rodillas sirviendo a su jefe, con las braguitas empapadas y el corazón lleno.
 
 Y eso, descubrió, era todo lo que importaba.
 
