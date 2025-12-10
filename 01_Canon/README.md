@@ -23,7 +23,10 @@
 - [simbolos_y_rituales.md](simbolos_y_rituales.md) - Objetos y acciones simbólicas
 - [linea_temporal.md](linea_temporal.md) - Cronología de eventos
 - [conexiones_entre_historias.md](conexiones_entre_historias.md) - Mapa de relaciones
-- [reglas_de_escritura.md](reglas_de_escritura.md) - Normas de estilo
+
+### Guías de Escritura
+- [guia_escritura_erotica.md](guia_escritura_erotica.md) - **📕 GUÍA MAESTRA:** Voz, tono, psicología del arousal, técnicas
+- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - Workflow de 7 fases para crear historias
 
 ---
 
