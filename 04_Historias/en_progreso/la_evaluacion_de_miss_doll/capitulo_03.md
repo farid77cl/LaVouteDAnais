@@ -230,6 +230,10 @@ Y en cierto modo, ya le pertenecía.
 
 Miss Doll retiró la mano con un movimiento lento, dejándolo al borde.
 
+Roberto jadeaba. Su cuerpo, recién depilado y cubierto de aceite, brillaba bajo las luces de la oficina. Había pasado de ser el Director Regional a ser... esto. Un hombre desnudo, liso, excitado, temblando bajo las manos de una extraña.
+
+Y lo peor era que había disfrutado cada segundo.
+
 —Levántese. Mírese en el espejo.
 
 Roberto se bajó del escritorio con piernas temblorosas. Caminó hacia el espejo de cuerpo entero que había en la esquina de la oficina.
@@ -264,13 +268,29 @@ Era rosa neón.
 
 El mismo rosa brillante de sus tacones. Un conjunto chillón que gritaba "mírame" con cada fibra de su ser.
 
-—El negro es para ejecutivas que aún creen tener dignidad —dijo Miss Doll, extendiéndole las prendas—. El rosa es para el personal de apoyo. Para quienes han aceptado su lugar. Vístase.
+—El negro es para ejecutivas que aún creen tener dignidad —dijo Miss Doll, extendiéndole las prendas—. El rosa es para el personal de apoyo. Para quienes han aceptado su lugar.
+
+Señaló los broches del liguero.
+
+—Los sensores ya están instalados. Los mismos que en el conjunto anterior. Mismo sistema, mismas reglas. Tres minutos para el baño. Si intenta quitarse esta lencería... —Dejó la amenaza flotar en el aire—. Ya sabe lo que pasa. Vístase.
 
 Roberto tomó la lencería rosa. Las bragas eran diminutas, apenas un triángulo de encaje. El liguero era más elaborado que el anterior, con decoraciones de lazos. Las medias eran rosa claro, casi color piel pero con un brillo que gritaba artificial.
 
 Se las puso.
 
 El encaje rosa se sintió diferente contra su piel depilada. Más íntimo. Más presente. Cada textura era amplificada por la sensibilidad de su piel recién desnudada.
+
+Miss Doll sacó su teléfono rosa.
+
+*Click. Click. Click.*
+
+Roberto ya no se sorprendió. Ya sabía lo que venía.
+
+—Carpeta rosa, sección dos —dijo Miss Doll, revisando las fotos con satisfacción—. Roberto Valdés, Director Regional, cuerpo depilado, lencería rosa de muñeca. —Giró el teléfono para mostrarle la pantalla—. ¿No es hermoso?
+
+La imagen era obscena. Roberto, liso y brillante, enfundado en encaje rosa, con una erección visible presionando contra las bragas diminutas.
+
+—Estas fotos van con las demás —continuó Miss Doll, guardando el teléfono—. Y este conjunto se queda puesto hasta mañana. Dormirá con él. Irá a trabajar con él. Y cuando llegue a casa, su esposa lo verá con él... aunque ella no lo sepa.
 
 Se miró en el espejo.
 

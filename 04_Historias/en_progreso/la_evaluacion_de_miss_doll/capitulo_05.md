@@ -4,6 +4,12 @@ El viernes, Roberto no entró por la puerta principal.
 
 Siguiendo las instrucciones de Miss Doll, llegó a las 6:15 AM —quince minutos antes de lo ordenado, porque la ansiedad no lo había dejado dormir— y se deslizó por la puerta de servicio como un ladrón. O como algo peor que un ladrón.
 
+La confrontación con Claudia la noche anterior lo había dejado destruido. Ella sospechaba. No sabía qué, pero sabía que *algo* estaba pasando. El pelo rubio de Miss Doll en su camisa había sido un descuido estúpido. Y rechazarla cuatro noches seguidas... ningún marido hacía eso sin razón.
+
+*¿Cuánto tiempo antes de que me descubra?*, pensó mientras caminaba por el pasillo oscuro. *¿Cuánto tiempo antes de que encuentre la lencería? ¿O peor, antes de que Miss Doll decida contarle ella misma?*
+
+Bajo su traje gris, el conjunto coral brillaba invisible. Los cristales del liguero rozaban su piel con cada paso. Los broches bluetooth vigilaban. Y su polla, traidora como siempre, estaba medio dura ante la anticipación de lo que venía.
+
 En el baño de servicio, encontró una bolsa rosa esperándolo sobre el lavabo.
 
 Dentro había su uniforme.
@@ -22,7 +28,7 @@ Y tacones negros de charol. De aguja. De al menos doce centímetros.
 
 Se vistió lentamente, con manos que temblaban.
 
-Primero, se quitó el traje de hombre. La chaqueta. La camisa. La corbata. Cada prenda que cayó al suelo fue como desprenderse de una capa de armadura. Cuando quedó en ropa interior —las braguitas rosa, el liguero, las medias que ya no se quitaba ni para dormir— se miró en el espejo.
+Primero, se quitó el traje de hombre. La chaqueta. La camisa. La corbata. Cada prenda que cayó al suelo fue como desprenderse de una capa de armadura. Cuando quedó en lencería coral —los cristales brillando bajo la luz fluorescente del baño— se miró en el espejo.
 
 El hombre que devolvía la mirada ya parecía incompleto. Medio vestido. Esperando.
 
@@ -96,7 +102,39 @@ Miró a Roberto de arriba abajo.
 
 Roberto se quedó quieto, sintiéndose expuesto de maneras que nunca había experimentado. La falda de repente parecía demasiado corta. La blusa demasiado transparente. Los tacones demasiado altos.
 
-—Hoy no hay reuniones —dijo Miss Doll finalmente—. Hoy hay entrenamiento intensivo.
+—Hoy no hay reuniones —dijo Miss Doll finalmente—. Hoy hay entrenamiento intensivo. Pero primero...
+
+Sacó un neceser rosa de su bolso. Lo abrió sobre el escritorio.
+
+Maquillaje. Base, corrector, polvo. Sombras de ojos en tonos neutros. Rímel. Delineador. Labial rosa brillante. Rubor.
+
+Y más.
+
+Una peluca negra estilo bob con chasquilla recta. Brillante, sintética pero de buena calidad.
+
+Uñas postizas rosa almendra, no tan largas como las de Miss Doll pero definitivamente femeninas.
+
+Y un frasco de perfume rosa. Vainilla y flores. Suave pero inconfundible.
+
+—Siéntate —ordenó Miss Doll, señalando la silla—. Voy a enseñarte cómo ser presentable.
+
+Durante la siguiente hora, Miss Doll trabajó en su rostro con la precisión de una artista. Aplicó base para ocultar la sombra de barba. Puso corrector bajo los ojos. Pasó rímel por las pestañas con movimientos expertos.
+
+—Si alguien te mira de cerca —dijo mientras aplicaba el labial—, notará que no eres mujer. Pero nadie mira de cerca a una secretaria. Miran las piernas, el culo, los labios. Y tú tendrás todo eso.
+
+La peluca fue lo siguiente. Miss Doll la ajustó sobre su cabeza, ocultando completamente su pelo corto. El bob negro con chasquilla enmarcaba su rostro, suavizando sus rasgos.
+
+Las uñas postizas fueron un desafío. Roberto no sabía cómo usar las manos con ellas. Cada movimiento se sentía torpe, forzado.
+
+—Te acostumbrarás —dijo Miss Doll—. O sufrirás. Tu elección.
+
+Finalmente, el perfume. Miss Doll lo roció en su cuello, en sus muñecas, detrás de las orejas.
+
+—Ahora hueles como una mujer —dijo—. Ya no hueles a Director Regional. Hueles a sirvienta.
+
+Roberto se miró en el espejo.
+
+La persona que le devolvía la mirada era... otra persona. No él. No completamente ella todavía. Pero algo intermedio. Algo que dolía mirar.
 
 —¿Entrenamiento para qué? —preguntó Roberto, intentando no tambalear mientras ajustaba su peso de un pie al otro.
 
@@ -112,23 +150,53 @@ Fue un desastre.
 
 Sus pasos eran demasiado largos, demasiado masculinos. Sus hombros se movían demasiado. Sus caderas permanecían rígidas. Cada paso era una batalla contra la gravedad.
 
-—¡Mal! —gritó Miss Doll. Golpeó el escritorio con una regla rosa. El sonido hizo saltar a Roberto—. Estás caminando como un hombre con falda. Eso es patético. Eso es visible a kilómetros. Así te descubrirían en segundos.
+—¡MAL! —La voz de Miss Doll cortó el aire como un látigo. No gritó. Fue peor: pronunció la palabra con un desprecio helado que hizo que Roberto se encogiera automáticamente.
+
+Golpeó el escritorio con una regla de metal rosa. El sonido fue como un disparo.
+
+—Estás caminando como un hombre con falda. Eso es *patético*. Eso es visible a kilómetros. Así te descubrirían en segundos.
 
 —¡No sé cómo...!
+
+*CRACK.*
+
+La regla golpeó sus nudillos. El dolor fue agudo, instantáneo.
+
+—No me interrumpas —dijo Miss Doll, su voz un hielo puro—. Cuando yo hablo, tú escuchas. Cuando yo ordeno, tú obedeces. Cuando yo corrijo, tú agradeces. ¿Entendido?
+
+Roberto asintió, frotándose los nudillos.
 
 —Pasos cortos. Un pie delante del otro, como si caminaras sobre una línea. Hombros atrás. Pecho fuera. Culo fuera. Las caderas deben moverse como un péndulo. ¡Otra vez!
 
 Roberto lo intentó de nuevo.
 
-—¡Mal! Pareces un pato borracho. ¡Otra vez!
+*CRACK.* La regla en su muslo.
 
-Y de nuevo.
+—¡Pareces un pato borracho! ¡Otra vez!
+
+Y de nuevo. *CRACK.* En la espalda.
 
 —¡Los hombros, inútil! ¡Los hombros quietos, las caderas en movimiento!
 
-Y de nuevo.
+Y de nuevo. *CRACK.* En las nalgas.
+
+—¡Más lento! ¡Una mujer no tiene prisa! ¡Una sirvienta espera a ser llamada!
 
 Durante cuatro horas, Miss Doll lo hizo caminar. De un lado a otro de la oficina. Ida y vuelta. Ida y vuelta. Lo corrigió con palabras. Lo corrigió con la regla. Lo insultó, lo humilló, le gritó.
+
+Y entre golpe y golpe, entre corrección y corrección, le repetía:
+
+—Eres un objeto. Camina como un objeto. Los objetos no tienen prisa. Los objetos no tienen voluntad. Los objetos existen para ser usados.
+
+—Entre paso y paso:
+
+—Tu cuerpo no te pertenece. Cada paso que das es un paso que YO permito. Cada movimiento es un regalo MÍO.
+
+Y cada vez que Roberto fallaba:
+
+—Agradece la corrección. Di "Gracias, Miss Doll, por enseñarme".
+
+Y Roberto lo decía. Una y otra vez. Hasta que las palabras perdieron significado. Hasta que solo quedaba el sonido, el dolor, y el deseo desesperado de complacerla.
 
 El dolor en sus pies era insoportable. Sus pantorrillas ardían como si estuvieran en llamas. Ampollas empezaban a formarse en sus talones. Pero con cada repetición, algo cambiaba.
 
@@ -236,6 +304,62 @@ Vio a Roberta.
 
 Roberta era útil. Roberta era bonita. Roberta estaba aprendiendo a servir.
 
+—Pero tu entrenamiento no está completo —dijo Miss Doll—. Hay un aspecto que hemos descuidado.
+
+Roberta la miró, confundida.
+
+Miss Doll caminó hacia su bolso y sacó otra caja rosa. Esta era más pequeña. Más íntima.
+
+La abrió.
+
+Dentro había un plug anal de silicona rosa. No era grande —quizás del tamaño de un pulgar— pero tenía una base con un cristal rosa que brillaba bajo la luz.
+
+—Tu nuevo jefe va a esperarciertas... habilidades —dijo Miss Doll, sosteniendo el plug entre sus dedos enguantados—. Habilidades que no se aprenden en un día. Esto es el comienzo de tu preparación.
+
+Roberta sintió que el corazón se le aceleraba. Su mente —lo que quedaba de la mente de Roberto— gritaba en pánico. Pero su cuerpo ya se estaba inclinando hacia adelante. Curioso. Expectante.
+
+—No... no he hecho nada así —susurró.
+
+—Lo sé. —Miss Doll sonrió—. Por eso empezamos con algo pequeño. Para cuando conozcas a tu jefe, estarás lista para cosas mucho más grandes.
+
+Sacó un tubo de lubricante rosa del bolso.
+
+—Súbete la falda. Baja las braguitas. Inclínate sobre el escritorio.
+
+Roberta obedeció. Los movimientos fueron automáticos. La falda subió, las braguitas coral bajaron, y su cuerpo depilado quedó expuesto bajo las luces fluorescentes de la oficina.
+
+El lubricante fue frío al principio. Los dedos enguantados de Miss Doll —eficientes, clínicos, pero de alguna manera también íntimos— prepararon la zona con movimientos circulares.
+
+—Relájate —ordenó Miss Doll—. Si te tensas, dolerá más.
+
+El plug entró lentamente.
+
+La sensación fue... extraña. Invasiva. Pero también, de alguna manera, *correcta*. Como si hubiera un espacio dentro de ella que siempre había estado vacío y ahora estaba siendo llenado.
+
+Roberta jadeó.
+
+—Bien —dijo Miss Doll, ajustando la base con el cristal—. Ahora, durante las próximas horas, tu cuerpo se acostumbrará. Mañana usarás uno más grande. Y el día siguiente, otro. Y así, hasta que estés lista para servir... completamente.
+
+La palabra "completamente" flotó en el aire como una promesa.
+
+—Este plug se queda puesto —continuó Miss Doll—. Dormirás con él. Lo sentirás cada vez que te muevas. Cada vez que te sientes. Cada vez que camines con esos tacones. —Sus dedos rozaron la base del plug—. Es un recordatorio constante de para qué estás siendo entrenada.
+
+Roberta se irguió lentamente. El plug se movió dentro de ella con cada movimiento, una presencia constante, imposible de ignorar.
+
+Bajó las braguitas. Bajó la falda.
+
+Caminar fue diferente ahora. Cada paso hacía que el plug se moviera ligeramente, enviando pequeñas ondas de sensación a través de su cuerpo. Sus caderas oscilaban no solo por el entrenamiento, sino porque era la única manera de caminar cómodamente con algo dentro de ella.
+
+—Perfecta —dijo Miss Doll, observándola—. Ya caminas como una mujer que está lista para servir.
+
+Roberta se miró en el espejo una última vez. La persona que le devolvía la mirada era irreconocible. Maquillada, con peluca negra, en tacones y falda, con un plug anal oculto bajo la ropa...
+
+*¿Quién soy?*, se preguntó.
+
+*Soy Roberta*, respondió una voz en su interior. *Y estoy aprendiendo a servir.*
+
+---
+
 —¿Estás lista para tu nuevo trabajo? —preguntó Miss Doll, de pie detrás de ella.
 
 Roberta asintió. Su voz salió diferente. Más suave. Más sumisa.
@@ -244,18 +368,64 @@ Roberta asintió. Su voz salió diferente. Más suave. Más sumisa.
 
 Miss Doll la besó en la mejilla. Sus labios dejaron una marca rosa brillante.
 
-—Mañana es la presentación formal. Descansa esta noche. Viste algo bonito para dormir. Y Roberta...
+—Todavía nos quedan diez días de entrenamiento —dijo—. Pero mañana es la presentación preliminar. Alejandro te verá por primera vez. Después, seguiremos refinándote hasta que seas perfecta. Descansa esta noche. Viste algo bonito para dormir. Mantén el plug puesto. Y Roberta...
 
 Roberta se giró para mirarla.
 
-—Mañana conoces a tu nuevo jefe.
+—Mañana conoces a tu nuevo jefe. Y él va a querer... probarte.
 
-*Jefe.*
+*Probarte.*
 
-La palabra debería haber provocado pánico. Pero Roberta solo sintió curiosidad.
+La palabra debería haber provocado pánico. Pero Roberta sintió algo diferente. Anticipación. Curiosidad. Y, muy en el fondo, debajo de los restos de Roberto, algo que se parecía mucho al deseo.
 
-*¿A quién voy a servir?*, se preguntó.
+*¿Voy a servirlo... así?*, se preguntó.
 
-Y mientras caminaba hacia su coche —tacones todavía puestos porque Miss Doll no le había dado zapatos de hombre— se dio cuenta de que ya no importaba quién.
+Y mientras caminaba hacia su coche —tacones todavía puestos, plug todavía dentro, cada paso un recordatorio de su nueva realidad— se dio cuenta de que ya no importaba cómo.
 
 Solo importaba que serviría bien.
+
+---
+
+**Esa noche, 11:47 PM.**
+
+Roberto estaba en la cama junto a Claudia, rígido como una tabla, cuando su teléfono vibró.
+
+El mensaje era de un número desconocido. Pero Roberto sabía exactamente quién era.
+
+**"Sal de la casa. Ahora. Tienes 10 minutos."**
+
+El pánico fue instantáneo. Claudia dormía a su lado. El plug todavía estaba dentro de él, una presencia imposible de olvidar.
+
+**"Inventa una excusa. Emergencia de trabajo. Lo que sea. Pero sal. Si no estás afuera en 10 minutos, Claudia recibe la carpeta rosa completa. Fotos, videos, y un mensaje explicando exactamente qué has hecho esta semana."**
+
+Roberto se levantó con el corazón latiendo en la garganta.
+
+—¿Roberto? —murmuró Claudia, medio dormida—. ¿Qué pasa?
+
+—Emergencia en la oficina —susurró él, vistiéndose en la oscuridad—. Un problema con los servidores. Tengo que ir.
+
+—¿A esta hora?
+
+—Es urgente. Volveré mañana.
+
+Claudia se giró, demasiado dormida para discutir.
+
+—Ten cuidado.
+
+Roberto salió de la habitación. Cada paso con el plug dentro era un recordatorio. Cada escalón que bajaba era un paso más lejos de su vida anterior.
+
+Afuera, un coche rosa neón lo esperaba.
+
+Miss Doll estaba al volante, su sonrisa de tiburón visible bajo las luces del tablero.
+
+—Súbete —ordenó—. Tu entrenamiento intensivo comienza ahora.
+
+Roberto subió.
+
+La puerta del coche se cerró.
+
+Y Roberto Valdés, Director Regional de Ventas, marido de Claudia, padre de familia... empezó a desaparecer.
+
+Solo quedaba Roberta.
+
+Y ella estaba lista para servir.

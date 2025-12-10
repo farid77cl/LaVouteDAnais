@@ -25,7 +25,19 @@
 
 ## Decisiones Importantes
 
-### 2025-12-10
+### 2025-12-10 (Sesión Tarde)
+- **Historia completada:** "La Evaluación de Miss Doll" - 10 capítulos, 15 días
+- **Estructura final:** Caps 1-5 (semana 1), Caps 6-10 (semana 2 comprimida 1-3 días/cap)
+- **Elementos segunda semana:**
+    - Cinturón de castidad con plug integrado
+    - Entrenamiento oral/anal progresivo
+    - Uñas acrílicas permanentes
+    - Salida en público como prueba
+    - Revelación: Alejandro planeó todo desde el inicio
+    - Claudia, colegas y amigos descubren la verdad (carpeta rosa enviada)
+- **Timeline:** 15 días (confirmado con cap 1)
+
+### 2025-12-10 (Sesión Mañana)
 - **Definición Thriller BDSM:** Fusión de thriller (stakes, tensión, amenaza) + BDSM (poder, rituales, transformación). El protagonista quiere escapar pero descubre que quiere rendirse.
 - **Stakes acumulativos:** Cada capítulo añade un stake irreversible (fotos → video → testigo → confesión grabada)
 - **Miss Doll como serpiente:** En escenas de contacto físico, debe moverse con sensualidad de boa constrictor, apretando la mente de la víctima
@@ -43,8 +55,10 @@
 
 ## Tareas Pendientes
 
+### Historias Completadas
+- [x] La Evaluación de Miss Doll — 10 capítulos, historia terminada
+
 ### Historias En Progreso
-- [x] La Evaluación de Miss Doll — Stakes aplicados, tensión aumentada
 - [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
 - [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
 
