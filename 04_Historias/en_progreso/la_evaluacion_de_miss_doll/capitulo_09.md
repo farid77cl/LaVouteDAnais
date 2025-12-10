@@ -68,25 +68,57 @@ Roberta lo sacó lentamente. El plug salió con un sonido húmedo, dejándola va
 
 Alejandro se desabrochó el cinturón.
 
-—Vamos a probar la mercancía.
+El sonido del cuero pasando por las presillas fue como un disparo en el silencio. Roberta sintió que el corazón se le aceleraba. Este era el momento. Todo el entrenamiento, toda la transformación, culminaba aquí.
+
+—Vamos a probar la mercancía —dijo Alejandro, bajándose los pantalones.
+
+Su polla era... real. No un dildo de silicona. No un arnés. Era carne caliente, dura, esperando ser servida.
+
+*Esto es*, pensó Roberta. *Esto es lo que soy ahora. Una boca. Un agujero. Un objeto para ser usado.*
+
+Y, para su propia sorpresa, la idea no le causó horror.
+
+La llenó de... anticipación.
 
 ---
 
-Lo que siguió fue exactamente lo que Roberta había practicado.
+Lo que siguió fue exactamente lo que Roberta había practicado, pero intensificado por la realidad del momento.
 
-Primero, la boca. Alejandro la usó sin delicadeza, empujando hasta el fondo mientras ella luchaba por respirar. Todo lo que Miss Doll le había enseñado sirvió: la técnica, la relajación, la mirada sumisa hacia arriba.
+Primero, la boca.
 
-—Buena boca —gruñó Alejandro—. Miss Doll no mentía.
+Alejandro enredó sus dedos en su pelo —su pelo real, negro azabache, cortado en bob— y la guío hacia su polla. El olor era diferente al de la silicona: almizclado, masculino, *vivo*. El sabor fue salado, un poco amargo, completamente humano.
+
+Roberta abrió la boca y lo tomó.
+
+Alejandro no fue delicado. La usó con la autoridad de alguien que sabe que posee lo que está usando. Empujó hasta el fondo, haciéndola luchar por respirar, haciéndola sentir cada centímetro de su control.
+
+Pero todo lo que Miss Doll le había enseñado sirvió: la técnica para relajar la garganta, la respiración por la nariz, la mirada sumisa hacia arriba. Roberta mantuvo los ojos abiertos, mirando a su nuevo dueño mientras él usaba su boca.
+
+—Buena boca —gruñó Alejandro, su voz ronca de placer—. Miss Doll no mentía.
 
 Después, el trasero.
 
-Alejandro la hizo inclinarse sobre el escritorio —el mismo escritorio donde Roberto había firmado contratos millonarios— y la tomó sin preguntar. El dolor inicial fue intenso, pero pasó rápido. Los días de preparación habían funcionado.
+Alejandro la hizo inclinarse sobre el escritorio —el mismo escritorio donde Roberto había firmado contratos millonarios, donde había despedido empleados, donde había sentido el poder de ser Director— y le subió la falda hasta la cintura.
 
-—Apretada pero flexible —dijo Alejandro, moviéndose dentro de ella—. Perfecta para el uso diario.
+Roberta sintió el aire frío contra su piel expuesta. Sintió sus propias braguitas siendo bajadas. Sintió la punta de su polla presionando contra su entrada.
 
-Roberta no respondió. Solo gimió suavemente, como Miss Doll le había enseñado.
+Y luego la tomó.
 
-Cuando Alejandro terminó —dentro de ella, marcándola como suya— se apartó y se abrochó los pantalones.
+El dolor inicial fue intenso —más que con el dildo, más que con el plug— pero pasó rápido. Los días de preparación habían funcionado. Su cuerpo sabía cómo recibir.
+
+Alejandro se movió dentro de ella con un ritmo constante, posesivo. Cada empuje la hacía jadear. Cada movimiento la recordaba quién era ahora: un objeto diseñado para el placer de otro.
+
+—Apretada pero flexible —dijo Alejandro, su voz entrecortada—. Perfecta para el uso diario.
+
+*Uso diario.* Las palabras resonaron en la mente de Roberta. Esto no era una vez. Esto era su nueva vida. Todos los días. Todas las veces que él quisiera.
+
+Y mientras Alejandro la usaba —mientras su cuerpo era tomado, penetrado, poseido— Roberta sintió algo inesperado.
+
+Paz.
+
+*Esto es lo que soy*, pensó. *Esto es lo que siempre fui. Solo necesitaba a alguien que me mostrara.*
+
+Cuando Alejandro terminó —dentro de ella, marcándola como suya con su semen— se apartó y se abrochó los pantalones como si nada hubiera pasado.
 
 —La compro —dijo simplemente—. ¿Dónde firmo?
 

@@ -16,37 +16,67 @@ Y sonrió.
 
 —Hoy empezamos con el anal —dijo Miss Doll, como quien anuncia el menú del desayuno.
 
-Roberta sintió un escalofrío.
+Roberta sintió que el estómago se le caía. El plug era una cosa. Algo pasivo, que solo estaba ahí. Pero *esto*...
+
+*Esto es diferente*, pensó. *Esto es... práctica para ser usada. Práctica para que un hombre me...*
+
+No podía terminar el pensamiento. Pero su cuerpo ya estaba reaccionando: el pulso acelarándose, la piel erizándose, el plug dentro de ella sintiéndose de repente más presente.
 
 —Creí que los plugs eran...
 
-—Los plugs son preparación. Esto es práctica.
+—Los plugs son preparación. Esto es práctica. —Miss Doll sacó un dildo diferente del armario rosa. Más largo que el de práctica oral, pero más delgado. Diseñado específicamente para penetrar—. Este es tu entrenador.
 
-Miss Doll sacó un dildo diferente. Más largo que el de práctica oral, pero más delgado. Diseñado para otra cosa.
+Roberta miró el objeto con una mezcla de horror y... ¿anticipación?
 
-—Alejandro va a querer usar todos tus agujeros —explicó Miss Doll, con la frialdad de una profesora—. Tu boca, tu culo. Y eventualmente, si es que decides aceptar la hormona que él te ofrezca, quizás algo más. Pero por ahora, empezamos con lo básico.
+*¿Qué me está pasando?*, se preguntó. *¿Por qué una parte de mí quiere saber cómo se siente?*
 
-La práctica fue... más fácil de lo que Roberta esperaba.
+—Alejandro va a querer usar todos tus agujeros —explicó Miss Doll, con la frialdad de una profesora—. Tu boca, tu culo. Y eventualmente, si es que decides aceptar las hormonas que él te ofrezca, quizás algo más. Pero por ahora, empezamos con lo básico.
 
-Los días de plugs habían preparado su cuerpo. El lubricante era abundante. Y Miss Doll era sorprendentemente paciente, guiándola con palabras suaves y manos firmes.
+—¿Hormonas? —La palabra salió como un susurro.
 
-—Relaja los músculos. Respira. Empuja hacia afuera cuando entre.
+—Alejandro tiene... gustos específicos. Pero eso es conversación para otro día. Hoy, te enfocas en aprender a recibir. Bocabajo sobre la cama. Almohada bajo las caderas.
+
+Roberta obedeció. La posición la dejaba completamente expuesta, su trasero elevado, su rostro hundido en las sábanas rosas. Podía sentir el aire frío contra la piel de sus nalgas, podía sentir su propia vulnerabilidad como algo físico.
+
+*Esto es humillante*, pensó. *Esto es degradante.*
+
+*Entonces, ¿por qué estoy mojando?*
+
+Miss Doll retiró el plug lentamente. La sensación de vacío fue instantánea, casi dolorosa. Roberta se había acostumbrado tanto a estar llena que la ausencia se sentía mal.
+
+Luego vino el lubricante. Frío al principio, luego tibio bajo los dedos expertos de Miss Doll.
+
+—Los días de plugs han preparado tu cuerpo —dijo Miss Doll, sus dedos trabajando en círculos lentos—. Ya sabes cómo relajarte. Ya sabes cómo recibir. Esto es solo... más.
+
+La punta del dildo tocó su entrada.
+
+Roberta contuvo el aliento.
+
+—Respira —ordenó Miss Doll—. Empuja hacia afuera cuando entre. Deja que tu cuerpo lo acepte.
 
 El dildo entró.
 
 La sensación fue intensa —más que los dedos de Miss Doll arreglando su maquillaje, más que el plug constante— pero también, de alguna manera, *correcta*. Como si su cuerpo hubiera sido diseñado para esto y solo ahora lo estuviera descubriendo.
 
+Roberta gimió contra las sábanas.
+
 —Bien —dijo Miss Doll—. Ahora muévete. Encuentra el ritmo.
 
-Roberta se movió.
+Roberta se movió. Lento al principio, torpe. Pero sus caderas encontraron el ángulo correcto, y de repente la sensación cambió. Ya no era solo presión. Era *placer*.
 
-Durante la siguiente hora, aprendió a moverse con algo dentro de ella. A ajustar el ángulo. A encontrar los puntos que la hacían jadear.
+Placer en un lugar donde nunca había esperado sentirlo.
 
-Y cuando terminaron, Miss Doll le sonrió.
+*Dios mío*, pensó, *esto es... esto es...*
 
-—Eres natural —dijo—. Algunos tardan días en aceptar esto. Tú lo has aceptado en una hora.
+No tenía palabras. Solo sensaciones. El dildo moviéndose dentro de ella. Sus caderas encontrando el ritmo. Sus gemidos escapando sin permiso. Y, debajo de todo, la jaula de castidad recordandole que su placer ya no le pertenecía.
 
-*Porque ya no soy Roberto*, pensó Roberta. *Roberto habría luchado. Roberta solo obedece.*
+Cuando terminaron, Miss Doll le sonrió.
+
+—Eres natural —dijo—. Algunos tardan días en aceptar esto. Tú lo has aceptado en una hora. —Sus dedos acariciaron su espalda—. Es porque tu cuerpo sabía la verdad antes que tu mente. Tu cuerpo sabía que estaba hecho para esto.
+
+*Porque ya no soy Roberto*, pensó Roberta, el eco del placer todavía resonando en su cuerpo. *Roberto habría luchado. Roberta solo obedece.*
+
+*Y Roberta... disfruta.*
 
 ---
 

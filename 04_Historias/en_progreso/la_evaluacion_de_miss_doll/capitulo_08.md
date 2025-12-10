@@ -64,19 +64,47 @@ El vestido era rosa pálido, casi blush, ajustado en la cintura y corto en las p
 
 —Una cosa más —dijo Miss Doll.
 
-Sacó un collar.
+Sacó una caja pequeña del armario. Rosa, por supuesto. Con un lazo de satén.
 
-Era fino, de cuero rosa, con un pequeño corazón de plata que colgaba del frente. Discreto a primera vista, pero inconfundiblemente un collar de sumisión.
+Roberta la miró con curiosidad. ¿Qué más podía quedar? Ya tenía el vestuario, el maquillaje, el cinturón de castidad, el plug...
 
-—Esto muestra que tienes dueño —dijo Miss Doll, abrochándolo alrededor de su cuello—. Que no estás disponible para nadie más. Que le perteneces a Alejandro.
+Miss Doll abrió la caja.
 
-El collar se cerró con un pequeño click.
+Dentro, sobre terciopelo rosa, descansaba un collar.
 
-Roberta se miró en el espejo.
+Era fino, de cuero rosa suave, con un pequeño corazón de plata que colgaba del frente. Discreto a primera vista —podría pasar por una gargantilla de moda— pero para alguien que supiera mirar, era inconfundiblemente un collar de sumisión.
 
-Vio a una mujer hermosa, maquillada, con un collar que la marcaba como propiedad.
+Roberta sintió que el corazón se le aceleraba.
 
-Y sonrió.
+*Un collar. Un collar de verdad.*
+
+No era como la lencería, que podía ocultarse bajo la ropa. No era como el plug, invisible para el mundo. El collar era público. El collar era una declaración.
+
+*Este collar dice que soy propiedad de alguien.*
+
+—Esto muestra que tienes dueño —dijo Miss Doll, levantando el collar—. Que no estás disponible para nadie más. Que le perteneces a Alejandro. —Sus ojos encontraron los de Roberta—. ¿Estás lista para llevarlo?
+
+Roberta debería haber dudado. Debería haber protestado. Pero las palabras que salieron fueron:
+
+—Sí, Señora.
+
+Miss Doll sonrió. Se acercó por detrás y pasó el collar alrededor de su cuello. El cuero fue frío al principio, luego tibio contra su piel. El corazón de plata descansó justo sobre su clavicular, visible a cualquiera que mirara.
+
+*Click.*
+
+El broche se cerró.
+
+Y algo dentro de Roberta también se cerró. Algo que había estado resistiendo, luchando, esperando escapar.
+
+*Ya no hay vuelta atrás*, pensó. *Este collar es público. Este collar es permanente. Este collar es... quien soy.*
+
+Se miró en el espejo.
+
+Vio a una mujer hermosa, maquillada con perfección, con un collar que la marcaba como propiedad. Vio el corazón de plata brillando contra su piel. Vio los tacones que la hacían caminar diferente. Vio el vestido que la hacía moverse diferente.
+
+Vio a Roberta.
+
+Y por primera vez, sonrió no porque se lo ordenaran, sino porque lo sentía.
 
 ---
 

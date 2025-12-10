@@ -1,18 +1,18 @@
 # Capítulo 6: El Fin de Semana (Días 6-7)
 
-El apartamento de Miss Doll era exactamente como Roberto había imaginado: rosa, brillante, y absolutamente aterrador.
+El apartamento de Miss Doll era exactamente como Roberta había imaginado: rosa, brillante, y absolutamente aterrador.
 
 Las paredes eran rosa pálido. Los muebles, rosa fucsia. Las cortinas, rosa satén. Incluso la luz que entraba por las ventanas parecía teñida de rosa, como si el edificio entero existiera en otra dimensión donde el color había sido reinventado.
 
 —Este será tu hogar durante los próximos diez días —dijo Miss Doll, colgando su bolso en un perchero en forma de tacón—. Bueno, no *tu* hogar. El mío. Tú solo eres una visitante temporal.
 
-Roberto miró a su alrededor. En las paredes había fotografías enmarcadas de mujeres —o lo que parecían mujeres— en diversas poses de sumisión. Arrodilladas. Inclinadas. Sirviendo.
+Roberta miró a su alrededor. En las paredes había fotografías enmarcadas de mujeres —o lo que parecían mujeres— en diversas poses de sumisión. Arrodilladas. Inclinadas. Sirviendo.
 
 *¿Esas son... sus otras obras?*, pensó con horror.
 
 —Quítate la ropa —ordenó Miss Doll—. Toda la ropa de hombre. A partir de ahora, solo usarás lo que yo te dé.
 
-Roberto obedeció. La camisa cayó. Los pantalones cayeron. Los zapatos fueron pateados hacia un rincón.
+Roberta obedeció. La camisa cayó. Los pantalones cayeron. Los zapatos fueron pateados hacia un rincón.
 
 Quedó en lencería coral, el plug todavía en su lugar.
 
@@ -26,33 +26,53 @@ Era un camisón de satén rosa, corto, con encaje en el escote y la baja.
 
 Del cajón inferior sacó otra cosa.
 
-Roberto sintió que el estómago se le helaba.
+Roberta sintió que el estómago se le helaba.
 
 Era un cinturón de castidad.
 
 No el tipo medieval de metal —era moderno, de silicona rosa con detalles de encaje, aparentemente diseñado para verse "bonito". Pero la función era clara: una jaula flexible que envolvería sus genitales, un candado pequeño que Miss Doll haría clic, y la llave... la llave que desaparecería en su bolso.
 
-—A partir de ahora —dijo Miss Doll, arrodillándose frente a él—, tu placer me pertenece. No te tocarás. No te masturbarás. No tendrás erecciones sin mi permiso. Tu polla es un ornamento, no una herramienta.
+Roberta sintió que el aire se le escapaba de los pulmones.
 
-—No puede... —empezó Roberto.
+*Eso no. Cualquier cosa menos eso.*
+
+Pero incluso mientras su mente rechazaba la idea, sintió algo más. Un cosquilleo de... ¿curiosidad? ¿Anticipación? La idea de no tener control sobre su propio placer debería horrorizarla. En cambio, una parte oscura de ella preguntaba: *¿Cómo se sentirá no poder tocarse? ¿Cómo se sentirá que alguien más decida cuándo —y si— puede correrse?*
+
+—A partir de ahora —dijo Miss Doll, arrodillándose frente a ella. Sus dedos enguantados tomaron la polla de Roberta con una naturalidad que la hizo jadear—, tu placer me pertenece. No te tocarás. No te masturbarás. No tendrás erecciones sin mi permiso.
+
+Sus dedos masajearon la base, y Roberta sintió cómo su polla respondía, traicionera, endureciéndose en la mano que pronto la enjaularía.
+
+—Tu polla es un ornamento, no una herramienta —continuó Miss Doll, su voz baja y casi hipnótica—. Es algo bonito para mostrar, no algo que uses. ¿Entiendes la diferencia?
+
+—No puede... —empezó Roberta.
 
 *Click.*
 
 El candado se cerró.
 
-La sensación fue inmediata: presión, restricción, *posesión*. Su polla quedó atrapada en la jaula rosa, visible a través del material pero completamente inaccesible.
+La sensación fue inmediata y devastadora: presión constante, restricción total, *posesión*. Su polla quedó atrapada en la jaula rosa, visible a través del material pero completamente inaccesible. Cada latido de su corazón la hacía pulsar contra las paredes de silicona. Cada intento de ereción era contenido, frustrado, convertido en una presión que no podía aliviarse.
+
+*Esto es... esto es...*
+
+No tenía palabras. Era como si una parte de ella hubiera sido robada. Pero también, de alguna manera, *liberada*. Ya no tenía que preocuparse por su polla. Ya no tenía que pensar en ella. Era responsabilidad de Miss Doll ahora.
+
+—¿Cómo se siente? —preguntó Miss Doll, sus ojos brillando con interés clínico.
+
+—Se siente... —Roberta tragó saliva—. Se siente como si ya no fuera mía.
+
+—Exactamente. —Miss Doll sonrió—. Porque ya no lo es.
 
 —Quítate el plug —ordenó Miss Doll—. Es hora de uno más grande.
 
-Roberto obedeció con manos temblorosas. El plug salió con un sonido húmedo que lo hizo enrojecer de vergüenza.
+Roberta obedeció con manos temblorosas. El plug salió con un sonido húmedo que la hizo enrojecer de vergüenza. Se sintió vacía, incompleta. Ya se había acostumbrado a la sensación de tener algo dentro.
 
 Miss Doll le entregó el reemplazo. Este era del tamaño de dos dedos juntos. Todavía pequeño comparado con... otras cosas. Pero definitivamente más grande que el anterior.
 
-—Mañana será más grande —dijo ella—. Y el día siguiente. Hasta que estés lista.
+—Mañana será más grande —dijo ella—. Y el día siguiente. Hasta que estés lista para recibir algo real.
 
-El plug entró. La sensación de *lleno* fue más intensa que antes.
+El plug entró. La sensación de *lleno* fue más intensa que antes, casi abrumadora. Roberta jadeó, sus caderas moviéndose involuntariamente, buscando el ángulo correcto.
 
-—Ahora, a la cama. Mañana empezamos temprano.
+—Ahora, a la cama —ordenó Miss Doll—. Mañana empezamos temprano.
 
 ---
 

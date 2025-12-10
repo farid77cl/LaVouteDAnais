@@ -130,7 +130,17 @@ Roberto asintió. No confiaba en su voz.
 
 —Interesante —murmuró Miss Doll, mirando la tienda de campaña que aún persistía a pesar del terror—. Su cuerpo sigue excitado. Quizás esto le gusta más de lo que admite.
 
-Pero no había terminado.
+Se inclinó hacia él, su voz bajando a un susurro íntimo.
+
+—¿Sabe qué creo, Roberto? Creo que ha pasado cuarenta y dos años fingiendo ser alguien que no es. El Director. El Esposo. El Hombre. —Sus dedos rozaron su mejilla—. Pero debajo de todo eso... debajo del traje y la arrogancia... hay algo más suave. Algo que quiere rendirse. Algo que quiere que alguien más tome las decisiones.
+
+—Eso no es... —empezó Roberto.
+
+—Su polla dice lo contrario. —Miss Doll señaló hacia abajo—. Su polla me dice que esto es exactamente lo que necesita. Que cada vez que alguien le da una orden, una parte de usted se relaja. Que cuando yo lo miro con desprecio, una parte de usted se siente... vista.
+
+Roberto no pudo responder porque era verdad.
+
+Miss Doll se alejó, satisfecha.
 
 Miss Doll sacó su teléfono rosa de nuevo y abrió una aplicación. La pantalla mostró un mapa con un punto parpadeante —la ubicación de la oficina— y tres íconos verdes debajo.
 
@@ -243,6 +253,14 @@ Miss Doll retiró la mano inmediatamente. Se llevó los dedos enguantados —man
 —No... —gimió Roberto, temblando en su silla, al borde del orgasmo sin poder alcanzarlo—. Eso no es...
 
 —Sí. Acéptelo. Es el primer paso hacia su nueva función. —Miss Doll regresó a su lugar en el sofá como si nada hubiera pasado—. Mantenga las rodillas juntas, Roberto. Aún le quedan cuatro horas. Y no tiene permiso para correrse.
+
+Se detuvo en el camino y añadió:
+
+—¿Sabe por qué su vida es tan miserable, Roberto? Porque pasa todo el día tomando decisiones. Qué hacer. Qué decir. Cómo actuar. Es agotador, ¿verdad? —Su voz se volvió casi compasiva—. Pero cuando está conmigo... cuando lleva mi lencería debajo de su traje... ya no tiene que decidir nada. Solo tiene que obedecer. Y eso es *liberador*.
+
+—Eso no es...
+
+—Piénselo esta noche, mientras está en la cama con Claudia, sin poder tocarse, sintiendo el encaje contra su piel. Piense en cómo se sintió cuando le di esa orden. Cuando no tuvo que pensar. Cuando solo tuvo que *hacer*. —Ella sonrió—. Y mañana me dirá cómo durmió.
 
 Roberto pasó el resto del día en un estado de desesperación agónica. Cada Email que escribía era interrumpido por pulsaciones de placer en su entrepierna. Cada llamada que atendía era acompañada por la presencia fantasma de la mano de Miss Doll.
 

@@ -88,7 +88,7 @@ Un extraño que se veía... correcto.
 
 *Dios mío*, pensó Roberto. *Parezco una secretaria. Una secretaria de verdad.*
 
-Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas rosa. Pulsando contra el encaje. Mojando la tela con anticipación.
+Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas coral. Pulsando contra el encaje. Mojando la tela con anticipación.
 
 ---
 
@@ -218,7 +218,7 @@ Había estado caminando con las caderas oscilando. Con los tacones resonando. Co
 
 Gonzalo la miró.
 
-La miró de arriba abajo. Sus ojos recorrieron los tacones, las medias, la falda, la blusa, la peluca rubia que Miss Doll le había puesto esa mañana para "completar el look".
+La miró de arriba abajo. Sus ojos recorrieron los tacones, las medias, la falda, la blusa, la peluca negra que Miss Doll le había puesto esa mañana para "completar el look".
 
 El silencio fue eterno.
 
@@ -306,57 +306,125 @@ Roberta era útil. Roberta era bonita. Roberta estaba aprendiendo a servir.
 
 —Pero tu entrenamiento no está completo —dijo Miss Doll—. Hay un aspecto que hemos descuidado.
 
-Roberta la miró, confundida.
+Roberta la miró, confundida. ¿Qué más quedaba? Ya vestía como mujer. Caminaba como mujer. Pensaba como... ¿qué? ¿Como sirvienta? ¿Como propiedad?
 
-Miss Doll caminó hacia su bolso y sacó otra caja rosa. Esta era más pequeña. Más íntima.
+Miss Doll caminó hacia su bolso con pasos lentos, deliberados. Sus tacones resonaron como un metrónomo, marcando el ritmo de lo que venía. Sacó una caja rosa. Más pequeña que las anteriores. Más íntima.
 
-La abrió.
+El corazón de Roberta se aceleró antes de ver el contenido. *¿Qué más puede pedirme?*, pensó. *¿Qué queda por tomar?*
 
-Dentro había un plug anal de silicona rosa. No era grande —quizás del tamaño de un pulgar— pero tenía una base con un cristal rosa que brillaba bajo la luz.
+Miss Doll abrió la caja.
 
-—Tu nuevo jefe va a esperarciertas... habilidades —dijo Miss Doll, sosteniendo el plug entre sus dedos enguantados—. Habilidades que no se aprenden en un día. Esto es el comienzo de tu preparación.
+Dentro, sobre terciopelo rosa, descansaba un plug anal de silicona. Era del mismo rosa que los labios de Miss Doll, suave y brillante bajo las luces fluorescentes. No era grande —quizás del tamaño de un pulgar, con una forma que se curvaba suavemente— pero tenía una base decorada con un cristal rosa que atrapaba la luz como un pequeño diamante.
 
-Roberta sintió que el corazón se le aceleraba. Su mente —lo que quedaba de la mente de Roberto— gritaba en pánico. Pero su cuerpo ya se estaba inclinando hacia adelante. Curioso. Expectante.
+Un objeto hermoso. Obsceno. Ineludible.
 
-—No... no he hecho nada así —susurró.
+Roberta sintió que el aire se escapaba de sus pulmones. *No. Eso no. Cualquier cosa menos eso.*
 
-—Lo sé. —Miss Doll sonrió—. Por eso empezamos con algo pequeño. Para cuando conozcas a tu jefe, estarás lista para cosas mucho más grandes.
+Pero incluso mientras su mente rechazaba la idea, sintió algo más. Un tirón en el bajo vientre. Una curiosidad oscura que no quería examinar.
 
-Sacó un tubo de lubricante rosa del bolso.
+*¿Cómo se sentirá?*
+
+El pensamiento llegó sin permiso, traicionero y caliente.
+
+—Tu nuevo jefe va a esperar ciertas... habilidades —dijo Miss Doll, levantando el plug entre sus dedos enguantados. El látex rosa brillaba contra la silicona rosa, haciendo que el objeto pareciera una extensión de ella misma—. Habilidades que no se aprenden en un día. Esto es el comienzo de tu preparación.
+
+*Preparación.* La palabra flotó en el aire, cargada de promesas que Roberta no quería examinar.
+
+—No... no he hecho nada así —susurró. Su voz salió ronca, temblorosa. *Nunca nadie me ha tocado ahí. Nunca he considerado...* Pero mientras pensaba en ello, imágenes no invitadas inundaron su mente. Hombres. Hombres que esperarían que ella...
+
+—Lo sé —Miss Doll sonrió, y la sonrisa fue casi tierna—. Por eso empezamos con algo pequeño. Tu cuerpo necesita tiempo para aprender. Para abrirse. Para aceptar.
+
+*Aceptar.* 
+
+¿Cuántas cosas había aceptado ya? La lencería. Las medias. El maquillaje. Los tacones. Cada paso había parecido imposible al principio, y ahora...
+
+Ahora no podía imaginar no llevar encaje contra su piel.
+
+Miss Doll sacó un tubo de lubricante rosa del bolso. El sonido de la tapa abriéndose fue obscenamente fuerte en el silencio de la oficina.
 
 —Súbete la falda. Baja las braguitas. Inclínate sobre el escritorio.
 
-Roberta obedeció. Los movimientos fueron automáticos. La falda subió, las braguitas coral bajaron, y su cuerpo depilado quedó expuesto bajo las luces fluorescentes de la oficina.
+*Esto es. Este es el momento en que digo que no. En que recupero algo de dignidad. En que demuestro que todavía soy...*
 
-El lubricante fue frío al principio. Los dedos enguantados de Miss Doll —eficientes, clínicos, pero de alguna manera también íntimos— prepararon la zona con movimientos circulares.
+Pero las manos de Roberta ya se estaban moviendo. Subiendo la falda. Bajando las braguitas coral. Inclinándose sobre la superficie de caoba que antes había sido su símbolo de poder.
 
-—Relájate —ordenó Miss Doll—. Si te tensas, dolerá más.
+El aire frío de la oficina golpeó su piel expuesta. Sintió su propia vulnerabilidad como si fuera tangible: su trasero al aire, sus piernas abiertas, su cuerpo ofrecido para lo que viniera.
 
-El plug entró lentamente.
+*Esto es humillante*, pensó. *Esto es degradante.*
 
-La sensación fue... extraña. Invasiva. Pero también, de alguna manera, *correcta*. Como si hubiera un espacio dentro de ella que siempre había estado vacío y ahora estaba siendo llenado.
+*Entonces, ¿por qué estoy mojando las braguitas?*
 
-Roberta jadeó.
+El lubricante fue frío al principio —un shock que la hizo jadear— pero se calentó rápidamente bajo el roce de los dedos enguantados de Miss Doll. Eran dedos expertos, que sabían exactamente dónde tocar, cuánta presión aplicar. Movimientos circulares alrededor de la entrada. Preparando. Relajando.
 
-—Bien —dijo Miss Doll, ajustando la base con el cristal—. Ahora, durante las próximas horas, tu cuerpo se acostumbrará. Mañana usarás uno más grande. Y el día siguiente, otro. Y así, hasta que estés lista para servir... completamente.
+—Tu cuerpo es inteligente —murmuró Miss Doll, su voz baja y casi hipnótica—. Sabe lo que quiere aunque tu mente no lo admita. Mira cómo se abre para mí. Mira cómo te relajas sin que yo te lo pida.
 
-La palabra "completamente" flotó en el aire como una promesa.
+Era verdad. Roberta podía sentirlo: sus músculos cediendo, su cuerpo rindiéndose ante la invasión inminente.
 
-—Este plug se queda puesto —continuó Miss Doll—. Dormirás con él. Lo sentirás cada vez que te muevas. Cada vez que te sientes. Cada vez que camines con esos tacones. —Sus dedos rozaron la base del plug—. Es un recordatorio constante de para qué estás siendo entrenada.
+*No. Esto no soy yo. Esto no es lo que quiero.*
 
-Roberta se irguió lentamente. El plug se movió dentro de ella con cada movimiento, una presencia constante, imposible de ignorar.
+Pero su espalda se arqueó, buscando más contacto. Sus caderas se movieron hacia atrás, hacia los dedos de Miss Doll.
 
-Bajó las braguitas. Bajó la falda.
+—Eso es —ronroneó Miss Doll—. Buena chica. Ahora, voy a introducirlo. Lentamente. Respira.
 
-Caminar fue diferente ahora. Cada paso hacía que el plug se moviera ligeramente, enviando pequeñas ondas de sensación a través de su cuerpo. Sus caderas oscilaban no solo por el entrenamiento, sino porque era la única manera de caminar cómodamente con algo dentro de ella.
+La punta del plug tocó su entrada. La presión fue suave al principio, casi una caricia. Luego aumentó gradualmente, insistente, inevitable.
+
+*No puedo... no puedo hacer esto...*
+
+—Relájate —ordenó Miss Doll—. Empuja hacia afuera, no hacia adentro. Tu cuerpo sabe cómo recibir. Confía en él.
+
+La parte más ancha del plug presionó contra ella. Por un momento, pareció imposible. Demasiado grande. Demasiado invasivo.
+
+Y entonces...
+
+Entró.
+
+La sensación fue... indescriptible. Roberta sintió cómo su cuerpo se cerraba alrededor de la base del plug, atrapándolo dentro. La presión era constante, omnipresente. Podía sentir el objeto ocupando un espacio que nunca había sabido que existía.
+
+Un gemido escapó de sus labios. No de dolor. De algo más complejo.
+
+—Bien —dijo Miss Doll, y su voz contenía satisfacción—. Muy bien.
+
+Sus dedos ajustaron la base del plug, haciendo que el cristal rosa brillara hacia afuera. Roberta sintió el movimiento como si fuera una onda de calor que subía por su columna.
+
+*Tengo algo dentro de mí*, pensó, aturdida. *Algo que Miss Doll puso ahí. Algo que no puedo quitarme sin su permiso.*
+
+La idea debería haber sido aterradora. En cambio, era... liberadora.
+
+—Durante las próximas horas, tu cuerpo se acostumbrará —explicó Miss Doll, acariciando la base del plug con un dedo—. Mañana usarás uno más grande. Y el día siguiente, otro. Y así, hasta que estés lista para servir... completamente.
+
+*Completamente.* La palabra resonó en la mente de Roberta. Sabía lo que significaba. Sabía para qué la estaban preparando.
+
+Y por primera vez, no sintió terror.
+
+Sintió anticipación.
+
+—Este plug se queda puesto —continuó Miss Doll—. Dormirás con él. Lo sentirás cada vez que te muevas. —Sus dedos rozaron la base, enviando otra onda de sensación a través del cuerpo de Roberta—. Cada vez que te sientes. Cada vez que camines. Cada vez que pienses en quitártelo... recordarás para qué estás siendo entrenada. Para quién estás siendo preparada.
+
+Roberta se irguió lentamente. El plug se movió dentro de ella con cada movimiento, una presencia constante, imposible de ignorar. Era como tener un secreto dentro de su cuerpo. Un secreto que solo ella y Miss Doll conocían.
+
+Subió las braguitas coral sobre el plug. Bajó la falda.
+
+Dio un paso experimental.
+
+El plug se movió.
+
+Apenas un centímetro, pero suficiente para enviar una descarga de sensación a través de su pelvis. Sus caderas oscilaron automáticamente, buscando el ángulo que minimizara —o maximizara— el movimiento interno.
+
+Otro paso. Otra onda de sensación.
+
+*Dios mío*, pensó Roberta. *Voy a sentir esto con cada paso. Cada vez que camine. Cada vez que me siente. Es como... es como si Miss Doll estuviera dentro de mí. Controlándome desde dentro.*
 
 —Perfecta —dijo Miss Doll, observándola—. Ya caminas como una mujer que está lista para servir.
 
-Roberta se miró en el espejo una última vez. La persona que le devolvía la mirada era irreconocible. Maquillada, con peluca negra, en tacones y falda, con un plug anal oculto bajo la ropa...
+Roberta se miró en el espejo una última vez. La persona que le devolvía la mirada era irreconocible. Maquillada con precisión. Peluca negra enmarcando un rostro que ya no parecía masculino. Vestida de secretaria, con tacones imposibles y una falda que restringía sus movimientos.
+
+Y debajo de todo eso, invisible pero omnipresente, un plug rosa que la recordaba con cada paso que su cuerpo ya no le pertenecía.
 
 *¿Quién soy?*, se preguntó.
 
-*Soy Roberta*, respondió una voz en su interior. *Y estoy aprendiendo a servir.*
+Pero ya conocía la respuesta.
+
+*Soy Roberta. Soy una sirvienta. Y estoy aprendiendo a servir... de todas las maneras posibles.*
 
 ---
 

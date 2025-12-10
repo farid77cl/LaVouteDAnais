@@ -146,7 +146,11 @@ Roberto obedeció. La superficie era firme pero las toallas estaban calientes, c
 
 Miss Doll se puso guantes nuevos —rosa claro, más finos que los habituales— y tomó una espátula del recipiente de cera. El líquido era rosa oscuro, casi coral, y humeaba ligeramente.
 
-—Esto va a doler —dijo ella, sin disculparse—. El dolor es parte del proceso. El dolor le enseñará que la belleza tiene un precio. Que la transformación requiere sacrificio.
+—El dolor es parte del proceso —dijo ella, sin disculparse—. El dolor le enseñará que la belleza tiene un precio. Que la transformación requiere sacrificio.
+
+Se inclinó sobre él, su rostro a centímetros del suyo.
+
+—Y va a aprender algo más hoy, Roberto. Va a aprender que el viejo usted era innecesario. El vello, la arrogancia, la ilusión de control... todo eso era armadura. Armadura contra lo que realmente es. —Sus ojos azul hielo lo atravesaron—. Hoy le quito la armadura. Y lo que quede... eso es lo que vamos a trabajar.
 
 La primera aplicación fue en su pecho.
 
@@ -257,6 +261,16 @@ Roberto miró su reflejo. Su polla seguía erecta, sobresaliendo obscenamente de
 Y, para su horror, entendió lo que Miss Doll quería decir.
 
 Se veía... mejor así.
+
+—¿Ve? —Miss Doll apareció detrás de él en el espejo—. Su cuerpo siempre supo la verdad. Solo su mente se resistía. —Sus manos enguantadas recorrieron sus costados—. El pelo era una mentira, Roberto. Era la mentira de que usted era un hombre como los demás. Pero usted no es como los demás. Usted es... especial.
+
+—¿Especial?
+
+—Especialmente fácil de moldear. —Su sonrisa fue casi afectuosa—. Especialmente receptivo. Especialmente *necesitado* de alguien que le diga qué hacer. La mayoría de los hombres luchan durante semanas. Usted... usted ya está cediendo. Ya está *disfrutando* de ceder.
+
+—Eso no es...
+
+—Su erección no miente. —Miss Doll bajó la mirada hacia su entrepierna—. Su erección me dice que esta es la vida que siempre quiso. Una vida donde alguien más toma las decisiones. Donde solo tiene que obedecer y ser bonito. —Sus dedos rozaron su mandibúla—. Y yo voy a darle esa vida. Aunque usted llore. Aunque usted suplique. Aunque una parte de usted todavía quiera escapar. Porque YO sé lo que necesita mejor que usted mismo.
 
 —A partir de hoy, mantendrá este estado —ordenó Miss Doll—. Si veo un solo pelo creciendo, lo arrancaré con pinzas. Uno por uno. Mientras usted cuenta cada tirón en voz alta.
 

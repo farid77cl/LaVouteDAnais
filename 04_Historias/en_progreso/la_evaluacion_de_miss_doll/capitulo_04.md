@@ -242,6 +242,18 @@ Sonaron como el cumplido más dulce que había recibido en su vida.
 
 Sonaron como *permiso para existir*.
 
+Miss Doll lo miró con algo parecido al orgullo.
+
+—¿Ve lo fácil que fue? —dijo suavemente—. Ayer habría muerto antes de hacer esto. Hoy... hoy lo deseaba. —Se inclinó hacia él—. Eso es porque está dejando de pelear. Está dejando que su verdadero yo emerja. El ser que siempre quiso arrodillarse. Que siempre quiso servir. Que siempre supo que la libertad era una carga demasiado pesada.
+
+—Yo no... —empezó Roberto, pero su voz murió.
+
+—No mienta. No a mí. —Miss Doll alzó su mentón—. Acaba de besar mi zapato con más pasión de la que ha besado a Claudia en años. Acaba de temblar de placer al obedecerme. Su cuerpo ha elegido, Roberto. Su mente solo tiene que aceptarlo.
+
+Y mientras hablaba, Roberto sintió que algo se rompía. No dolorosamente. Más como un alivio. Como cuando finalmente sueltas algo que has estado cargando durante demasiado tiempo.
+
+*Ella tiene razón*, susurró la voz oscura. *Esto es más fácil. Esto es mejor. Esto es... casa.*
+
 Miss Doll sostuvo su teléfono rosa frente a él. La pantalla mostraba un video.
 
 De él. De rodillas. Besando el tacón. Con los ojos cerrados. Con expresión de *éxtasis*.
