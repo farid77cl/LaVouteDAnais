@@ -56,7 +56,7 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ### Capítulo 3: El Nacimiento
 - [ ] Revisado
-- Observaciones:
+- Observaciones: me falta motivación para atraer al científico enemigo, Scarlett podría quedarse con el dinero o buscar algo mas
 
 ### Capítulo 4: La Destrucción
 - [ ] Revisado
