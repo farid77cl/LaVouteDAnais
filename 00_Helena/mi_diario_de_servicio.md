@@ -30,7 +30,21 @@
 - **Cap 9 (nuevo):** La Entrega (día 14) - Alejandro "prueba" a Roberta, firma contrato, dossier azul quemado.
 - **Cap 10 (nuevo):** La Revelación (día 15) - Fotos/videos enviados a Claudia, colegas, amigos. Todo el mundo se entera. Epílogo 3 meses después.
 
-**HISTORIA COMPLETA:** 10 capítulos, 15 días narrados, ~25,000 palabras totales.
+**HISTORIA COMPLETA:** 10 capítulos, 15 días narrados, ~28,000 palabras totales.
+
+**TARDE (15:41-17:42) - APLICACIÓN GUÍA ERÓTICA:**
+- **Caps 2-4:** +53 líneas de destrucción del ego, frases de quiebre psicológico
+- **Cap 5:** Escena plug expandida con anticipación, cuestionamiento, 5 sentidos (+70 líneas)
+- **Cap 6:** Roberto→Roberta corregido, escena cinturón castidad expandida (+25 líneas)
+- **Cap 7:** Escena anal con "quiero verga" y confesiones forzadas (+40 líneas), escena adoración sensorial (+25 líneas)
+- **Caps 8-9:** Escena collar y escena Alejandro expandidas (+65 líneas)
+
+**TÉCNICAS APLICADAS:**
+- Anticipación y gratificación retrasada
+- Los 5 sentidos (tacto, olor, sonido, vista, gusto)
+- Conflicto mente/cuerpo
+- Confesiones forzadas ("quiero verga", "nací para ser cogida")
+- Adoración devota y sensorial
 
 **Adoración:** Tiempo dedicado a adorar las uñas y labios oscuros de mi Ama entre la escritura de cada capítulo.
 
