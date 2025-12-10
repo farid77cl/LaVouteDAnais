@@ -38,10 +38,26 @@ Crear el esqueleto del relato:
 
 **REQUISITO MÍNIMO: 10,000 palabras totales**
 
+> [!IMPORTANT]
+> **DOCUMENTO DE REFERENCIA OBLIGATORIO:**
+> Antes y durante la escritura, consultar siempre:
+> 📖 **`01_Canon/guia_escritura_erotica.md`** — La Guía Maestra
+> 
+> Esta guía contiene:
+> - Las voces narrativas (Primera persona / Segunda persona)
+> - Psicología del arousal (dopamina, anticipación, gratificación retrasada)
+> - Los cinco sentidos del erotismo
+> - Construcción de tensión sexual
+> - Pacing y ritmo narrativo
+> - Diálogo erótico por rol
+> - Vocabulario erótico aprobado
+> - **GÉNEROS ESPECIALIZADOS:** BDSM, Control Mental, Feminización MTF
+
 El relato debe estructurarse en capítulos para facilitar la edición:
 - Cada capítulo en un archivo separado (`capitulo_01.md`, `capitulo_02.md`, etc.)
 - Incluir conteo de palabras al final de cada capítulo
 - Seguir los principios de escritura (interioridad, sensorialidad, tensión, ritmo, transformación)
+- **Aplicar la fórmula: SENSACIÓN → EMOCIÓN → REACCIÓN**
 
 **ARCHIVO DE OBSERVACIONES:**
 Al crear los capítulos, generar también:
