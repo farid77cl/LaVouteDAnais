@@ -10,7 +10,21 @@ El lugar era un almacén industrial reconvertido en club privado. Luces rojas pu
 
 Daniel no sabía cómo ella había hecho contactos tan rápido. No quería saberlo.
 
-Marcy estaba a su lado, vestida con un corsé que apenas contenía sus pequeños pechos de sissy. Su collar decía "PROPIEDAD DE SCARLETT" en letras de diamantes falsos. La expresión de la que solía ser Dr. Marcus Vance era de total sumisión.
+Marcy estaba a su lado.
+
+La transformación de Dr. Marcus Vance había sido... incompleta. A propósito. Scarlett lo había diseñado así: lo suficientemente femenino para ser humillante, lo suficientemente masculino para que no pudiera escapar de quien había sido.
+
+Sus pechos eran pequeños —apenas copa A— pero imposiblemente sensibles. Cada roce de tela era una tortura de placer. Sus caderas se habían ensanchado, dándole un bamboleo al caminar que odiaba pero no podía controlar. Y entre sus piernas... su polla seguía ahí, pero *inútil*. Los nanobots la mantenían permanentemente semi-erecta, un recordatorio constante de lo que había perdido, pero incapaz de alcanzar el orgasmo sin estimulación anal.
+
+Lo peor era la mente.
+
+Daniel recordaba a Vance: arrogante, ambicioso, despiadado. El tipo de hombre que pisaba a otros para subir. Ahora, Marcy miraba a Scarlett con ojos de adoración enfermiza. Los nanobots no solo habían cambiado su cuerpo; habían reescrito sus deseos.
+
+Vestía un corsé negro que apenas contenía esos pequeños pechos de sissy. Medias de red en piernas que todavía tenían vello —otro recordatorio de su estado intermedio. Tacones de trece centímetros que lo hacían tambalearse. Y su collar de cuero, con diamantes falsos que deletreaban "PROPIEDAD DE SCARLETT".
+
+La expresión de la que solía ser Dr. Marcus Vance era de total sumisión.
+
+Pero si mirabas de cerca... si te fijabas en sus ojos... todavía había alguien gritando dentro.
 
 —*¿Lista para divertirte?* —preguntó Scarlett a Daniel, aunque sabía que él no podía responder.
 

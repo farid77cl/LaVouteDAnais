@@ -78,17 +78,43 @@ Daniel apretó los puños.
 
 —Eso no justifica destruir mi vida.
 
-—*¿Tu vida?* —Scarlett sonó genuinamente confundida—. *¿Qué vida? Trabajas dieciséis horas al día en un laboratorio que ni siquiera reconoce tu genio. Tu ex te dejó porque preferías tus experimentos a su coño. Tus únicos orgasmos en años fueron con tu mano derecha y pornografía barata. Eso no es vida, Daniel. Es supervivencia.*
+—*¿Tu vida?* —Scarlett sonó genuinamente confundida—. *¿Qué vida?*
+
+La voz de ella cambió. Se volvió más grave. Más sensual. Cada palabra una caricia.
+
+*Trabajas dieciséis horas al día en un laboratorio que ni siquiera reconoce tu genio. Tu ex te dejó porque preferías tus experimentos a su coño. Tus únicos orgasmos en años fueron con tu mano derecha y pornografía barata...*
+
+Su mano —controlada por ella— empezó a subir por su muslo.
+
+*Pornografía de transformación, cariño. De hombres convirtiéndose en mujeres. De mujeres siendo usadas. Yo sé lo que guardabas en esa carpeta. Yo vi cada video que te masturbabas viendo. Cada historia que leías sobre hombres como tú que terminaban como yo.*
+
+Daniel quiso negarlo. No pudo.
+
+*Eso no es vida, Daniel. Es supervivencia. Es soledad disfrazada de propósito.*
 
 —Y tú ofreces algo mejor?
 
-—*Ofrezco éxtasis.* —Su mano, controlada por ella, se movió hacia su entrepierna—. *Ofrezco placer sin límites. Ofrezco ser deseada, adorada, follada hasta la inconsciencia cada noche. ¿Qué ofreces tú? ¿Más soledad? ¿Más trabajo? ¿Más mediocridad?*
+—*Ofrezco éxtasis.*
 
-Daniel no tenía respuesta.
+Su mano finalmente alcanzó su entrepierna.
 
-La mano de Scarlett apretó su polla a través del pantalón.
+*Ofrezco placer sin límites. Ofrezco ser deseada, adorada, follada hasta la inconsciencia cada noche.*
 
-—*Deja de luchar, cariño. Dame el control y nunca volverás a sentirte vacío.*
+Empezó a acariciarlo a través de los pantalones.
+
+*Pero más que eso...* —su voz bajó a un susurro que era pura miel negra— *...ofrezco lo que siempre quisiste. No ser invisible. No ser ignorado. Ser el centro de atención. Ser DESEADO.*
+
+Daniel jadeó. Su polla respondía a pesar suyo.
+
+*¿Crees que no lo sé? Cada vez que una mujer te ignoraba, cada vez que alguien te miraba como si no existieras... soñabas con ser diferente. Con tener un cuerpo que exigiera atención. Con caminar por una habitación y sentir TODAS las miradas sobre ti.*
+
+—Para...
+
+*Yo soy ese sueño, Daniel. Yo soy la versión de ti que siempre quisiste ser pero nunca tuviste el coraje de admitir. Y ahora estoy aquí. Y lo único que tienes que hacer es dejarme entrar.*
+
+Su mano apretó su polla a través del pantalón.
+
+—*Deja de luchar, cariño. Dame el control y nunca volverás a sentirte vacío. Nunca volverás a ser invisible. Serás hermosa. Serás deseada. Serás MÍA.*
 
 —No.
 

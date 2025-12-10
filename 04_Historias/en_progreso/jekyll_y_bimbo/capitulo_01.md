@@ -186,33 +186,109 @@ El baño del bar olía a cerveza y a decisiones malas.
 
 A Daniel no le importaba.
 
-Solo le importaba la polla que ahora la estiraba, la llenaba, la completaba.
+El hombre —¿Jake? ¿James?— la había empujado contra la pared del cubículo, su boca devorando la de ella mientras sus manos subían por sus muslos. El vestido rojo, tan corto, no ofrecía resistencia alguna.
 
-—Joder... estás tan apretada... —gruñó el hombre cuyo nombre ni siquiera conocía.
+—Joder, qué ganas tenía de esto —gruñó él contra su cuello.
 
-Ella solo pudo gemir en respuesta.
+Y Daniel, atrapado en la mente de Scarlett, solo podía observar mientras su cuerpo respondía sin su permiso. Sus caderas se arquearon hacia adelante. Sus piernas se abrieron. Un gemido escapó de esos labios carmesí que ahora eran suyos.
 
-La sensación era como nada que hubiera experimentado como hombre. No era penetrar. Era *recibir*. Era sentir cada centímetro de él deslizándose dentro del vacío que había estado gritando por exactamente esto. Era sentir sus paredes internas abrazar la intrusión, no rechazarla.
+El hombre metió la mano entre sus piernas.
 
-Y el placer... Dios, el *placer*.
+La primera vez que dedos ajenos tocaron ese lugar fue como un cortocircuito.
 
-Empezaba donde él la tocaba y se extendía hacia afuera. Con cada embestida, ondas de éxtasis recorrían su columna. Sus pezones se endurecieron contra la tela del vestido. Su clítoris pulsaba con cada movimiento.
+Daniel gritó —*ella* gritó— mientras ondas de placer imposible recorrían su nuevo cuerpo. No era como nada que hubiera experimentado siendo hombre. No era una sensación localizada. Era un incendio que empezaba en su centro y se expandía hacia cada extremidad, cada terminación nerviosa, cada célula.
 
-—Más —ordenó, y ni siquiera reconoció su propia voz—. Más fuerte. Más profundo.
+—Estás empapada —rio el hombre—. Puta en celo.
 
-El orgasmo llegó como un terremoto.
+*No soy una puta*, quiso gritar Daniel.
 
-No era el pico agudo del orgasmo masculino. Era algo diferente. Ondas. Mareas. Olas de placer que empezaban en su centro y se extendían hacia cada extremidad. Sus paredes internas convulsionaron alrededor de él, apretando, soltando, apretando de nuevo.
+Pero su boca dijo: —Follame.
 
-Y cuando pasó... el vacío seguía ahí.
+El sonido de un cinturón desabrochándose. El ruido de tela cayendo. Y luego... *calor*. La punta de él presionando contra su entrada, buscando acceso.
 
-*Más*, exigió.
+El momento de la penetración fue revelador.
 
-Para el amanecer, había perdido la cuenta de los hombres.
+No era ser invadido. Era ser *completado*.
+
+Cada centímetro que él avanzaba era un centímetro de vacío que finalmente encontraba su propósito. Las paredes internas de Daniel —de *Scarlett*— se contraían alrededor de la intrusión, no para rechazarla, sino para *abrazarla*. Para mantenerla dentro. Para exprimir cada sensación posible de ella.
+
+—Joder... estás tan apretada... —gruñó el hombre, enterrado hasta el fondo.
+
+Daniel no podía responder. Estaba demasiado ocupado procesando sensaciones que su cerebro masculino no estaba diseñado para entender.
+
+El calor de él *dentro*. No sobre. Dentro. Como una presencia que ocupaba un espacio que Daniel no sabía que tenía. Y con cada movimiento, cada embestida, ese calor se convertía en fricción, en presión, en oleadas de placer que amenazaban con ahogarlo.
+
+*Esto es lo que sienten las mujeres*, pensó con horror maravillado.
+
+El hombre estableció un ritmo. Lento primero —torturando— y luego más rápido. Cada empuje golpeaba algo profundo dentro de ella, algo que enviaba rayos de electricidad directo a su clítoris. Los pechos de Scarlett rebotaban con cada impacto, sus pezones rozando la tela del vestido, añadiendo capas de sensación a la sinfonía de placer.
+
+—Más —ordenó la voz de Scarlett, y Daniel descubrió que *era* lo que quería—. Más fuerte. Más profundo.
+
+El hombre obedeció.
+
+Las embestidas se volvieron salvajes. El sonido de carne chocando contra carne llenó el cubículo. Los gemidos de Scarlett —de *Daniel*— se volvieron gritos que apenas podía contener.
+
+Y entonces empezó a construirse.
+
+El orgasmo masculino era un pico abrupto. Esto era diferente. Era una marea que subía. Una ola que crecía. Daniel la sentía acumularse en su centro, expandirse hacia afuera, tensando cada músculo de este cuerpo nuevo.
+
+—Me voy a... voy a... —jadeó.
+
+El hombre empujó más fuerte.
+
+Y Daniel *explotó*.
+
+No fue un orgasmo. Fue un terremoto.
+
+Sus paredes internas convulsionaron, apretando y soltando en espasmos rítmicos que parecían durar una eternidad. Sus piernas se sacudieron. Sus ojos se pusieron en blanco. Un grito salió de su garganta que ni siquiera intentó contener.
+
+Ondas. Mareas. Olas de placer que no terminaban, que se encadenaban, que lo arrastraban más y más profundo hasta que no sabía dónde terminaba él y empezaba el éxtasis.
+
+Cuando finalmente pasó... el vacío seguía ahí.
+
+*Más*, exigió algo dentro de él.
+
+El hombre se corrió con un gruñido, llenándola de calor líquido.
+
+Y Daniel, para su horror absoluto, solo podía pensar en cuándo podría sentir eso de nuevo.
 
 ---
 
-Daniel volvió al laboratorio mientras el sol salía.
+Para el amanecer, había perdido la cuenta de los hombres.
+
+Tres. Cinco. ¿Seis? Los rostros se confundían. Los nombres nunca importaron. Solo importaba la sensación de ser llenada, una y otra vez, cada orgasmo más intenso que el anterior.
+
+Cuando finalmente los nanobots empezaron a revertir la transformación, Scarlett estaba apoyada contra un urinario, con las piernas temblando y semen escurriendo por sus muslos.
+
+El proceso de volver a ser Daniel fue lento. Doloroso de una manera diferente. Como despojarse de una segunda piel que había empezado a sentir cómoda.
+
+Para cuando terminó, estaba de pie en el baño del bar, usando el vestido rojo que colgaba absurdamente de su cuerpo masculino.
+
+Sin ropa interior —nunca la hubo.
+
+Los tacones de quince centímetros aún en sus pies —pero ahora eran agonía pura para sus pies planos de hombre.
+
+Y tres kilómetros hasta su apartamento.
+
+El sol empezaba a salir cuando salió del bar.
+
+Cada paso era una humillación nueva. El vestido era imposiblemente corto en su cuerpo masculino, mostrando piernas peludas. Los tacones lo hacían caminar con un bamboleo ridículo, no sensual. Y el semen... el semen de seis hombres diferentes seguía escurriendo de un lugar que ya no existía, manchando sus muslos, visible bajo el vestido.
+
+Una mujer con un cochecito de bebé cruzó la calle para evitarlo.
+
+Un grupo de hombres en una parada de autobús se rieron. "¡Miren al maricón de la fiesta!"
+
+Daniel no corrió. No podía correr en esos tacones.
+
+Solo podía caminar.
+
+Paso humillante tras paso humillante.
+
+Cuando finalmente llegó a su apartamento, se encerró en el baño y vomitó.
+
+Luego se duchó hasta que el agua se enfrió.
+
+
 
 En algún momento de la noche, su cuerpo había decidido revertirse. Los nanobots habían detectado que el sistema estaba "estabilizado" y habían empezado a restaurar su forma original.
 

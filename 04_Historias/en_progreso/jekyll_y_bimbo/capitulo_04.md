@@ -66,17 +66,63 @@ Marcy apareció de entre las sombras, tambaleándose en tacones demasiado altos,
 
 Lo que siguió fue un borrón de sensaciones que Daniel no pudo —no *quiso*— procesar completamente.
 
-Scarlett fue el centro de atención. Tres, cuatro, cinco personas usándola simultáneamente. Pollas en cada agujero. Lenguas y dedos en cada centímetro de piel. Y ella gimiendo, gritando, corriéndose una y otra vez mientras Daniel sentía *todo*.
+Pero Scarlett lo forzó a sentir *todo*.
 
-Porque ese era el verdadero castigo.
+*Presta atención*, ronroneó ella mientras el primer hombre se acercaba. *Esto es lo que somos*.
 
-No solo veía. *Sentía*. Cada penetración. Cada caricia. Cada orgasmo explosivo. El placer era tan intenso que amenazaba con ahogarlo, con borrar los límites entre lo que era él y lo que era ella.
+Empezó con besos. Un hombre alto, de hombros anchos, tomó su rostro entre las manos y devoró su boca. El sabor de whisky y deseo. La presión de sus labios. La invasión de su lengua.
 
-*¿Ves?* —susurró Scarlett entre embestidas—. *Esto es lo que podemos tener para siempre. Solo tienes que... dejar... de... luchar...*
+Daniel quiso resistir.
 
-Cada palabra puntuada por un empuje.
+Pero Scarlett gimió contra esos labios, *su* cuerpo respondiendo, *su* sexo humedeciéndose.
 
-Cada empuje llevándolo más cerca del borde.
+Luego vinieron las manos.
+
+No una. Docenas. Manos recorriendo cada centímetro de su piel. Manos en sus pechos —apretando, amasando, haciendo que sus pezones se endurecieran hasta doler. Manos en su cintura. Manos separando sus muslos. Manos deslizándose hacia su sexo húmedo.
+
+*¿Sientes eso?* susurró Scarlett. *Cada toque. Cada caricia. Cada dedo que me explora.*
+
+Daniel lo sentía. No podía NO sentirlo.
+
+Alguien la giró. La puso en cuatro. Y antes de que pudiera procesar, una polla se deslizó dentro de ella desde atrás.
+
+El gemido que salió de su garganta fue obsceno.
+
+Era diferente a la primera vez. Era... más. Más profundo. Más urgente. Y no era solo una polla. Otra se presentó frente a su rostro, y Scarlett abrió la boca sin dudar.
+
+Doble. La llenaban por ambos extremos.
+
+*¿Ves?* jadeó Scarlett entre embestidas. *Esto es lo que podemos tener para siempre.*
+
+El hombre detrás de ella estableció un ritmo brutal. Cada embestida la empujaba hacia adelante, forzando la polla más profundo en su garganta. Cada retroceso la dejaba vacía por un segundo antes de volver a llenarla.
+
+Era demasiado.
+
+No era suficiente.
+
+Luego llegó el tercero. Se deslizó debajo de ellos, y Daniel sintió presión en un lugar nuevo. Nunca penetrado. Nunca imaginado.
+
+*Relájate*, ordenó Scarlett. *Esto te va a gustar*.
+
+El tercer hombre la penetró por atrás.
+
+Triple penetración.
+
+Daniel gritó alrededor de la polla en su boca. El dolor era real —breve, agudo— pero los nanobots lo convirtieron en placer antes de que pudiera registrarlo. Cada agujero lleno. Cada nervio encendido. Cada centímetro de su cuerpo siendo *usado*.
+
+Y el placer...
+
+Oh, el *placer*.
+
+Empezó en su centro y se expandió como una supernova. No era un orgasmo. Era una explosión continua, cada embestida añadiendo combustible al fuego. Sus paredes internas se contraían compulsivamente. Su clítoris pulsaba contra el pubis del hombre debajo. Sus pezones, aplastados contra otro pecho, enviaban rayos de sensación adicionales.
+
+*Esto*, jadeó Scarlett entre gemidos, *es lo que el placer puede ser. Sin vergüenza. Sin límites. Sin esa estúpida moralidad que te mantiene encerrado.*
+
+Duraron horas.
+
+Los hombres rotaron. Algunos acabaron en ella. Otros sobre ella. Mujeres también se unieron —lenguas en su clítoris mientras pollas la llenaban, dedos en lugares que no sabía que podían dar placer.
+
+Daniel perdió la cuenta de los orgasmos. Perdió la noción de dónde terminaba él y empezaba Scarlett. Perdió todo excepto la sensación de ser el centro de un universo de placer.
 
 Y cuando el orgasmo final llegó —un maremoto de placer que duró minutos enteros— Daniel sintió algo dentro de él *quebrarse*.
 

@@ -154,13 +154,77 @@ Daniel no dormía. Cada vez que cerraba los ojos, Scarlett estaba ahí. En sus s
 
 Y durante el día, las *transformaciones involuntarias* empezaron.
 
-Pequeñas al principio. Sus labios hinchándose en una reunión. Sus caderas ensanchándose mientras conducía. Una vez, en medio de un experimento, sus pechos empezaron a crecer y tuvo que correr al baño antes de que sus colegas lo notaran.
+La primera fue durante una reunión.
+
+Daniel estaba presentando datos sobre síntesis proteica cuando sintió el cosquilleo familiar. Sus labios empezaron a hincharse *en medio de una oración*.
+
+—Las enzimas reactivas muestran un incremento del cuarenta por... por ciento... —Su voz cambió de tono, volviéndose más aguda. Una colega levantó la ceja.
+
+Daniel tosió, fingiendo un ataque de tos para cubrir el cambio. Corrió al baño con excusas apresuradas. Cuando llegó al espejo, sus labios eran los de Scarlett: llenos, carmesí naturalmente, obscenamente sensuales en su rostro masculino.
+
+Tardaron veinte minutos en revertir.
+
+La segunda vez fue peor.
+
+Conducía hacia el laboratorio cuando sus caderas empezaron a ensancharse. El dolor de sus huesos crujiendo mientras manejaba lo hizo desviarse bruscamente. Un taxi tocó la bocina. Daniel apenas logró estacionarse antes de sentir su pelvis *expandirse* contra el asiento del conductor.
+
+Pasó una hora en el auto, respirando agitadamente, mientras su cuerpo oscilaba entre masculino y femenino. Un policía golpeó la ventana.
+
+—¿Señor? ¿Está bien?
+
+Daniel asintió con la cabeza, sin atreverse a hablar. Su Nuez de Adán había desaparecido.
+
+La tercera vez casi lo destruyó.
+
+Reunión con el comité de ética universitaria. La investigación sobre los nanobots estaba bajo escrutinio. Daniel necesitaba parecer profesional, competente, *normal*.
+
+Duró quince minutos.
+
+Sintió sus pechos empezar a crecer mientras el Dr. Harrison revisaba sus notas. Al principio fue sutil —una presión detrás de sus pezones. Luego no tan sutil. Su camisa empezó a tensarse.
+
+—Dr. Reyes, ¿está sintiendo algo...? —preguntó una colega, mirando su pecho con expresión confundida.
+
+—Estoy... estoy bien. Solo... necesito ir al baño.
+
+No llegó.
+
+A medio camino del pasillo, sus pechos alcanzaron una copa C. Su camisa se desabotonó sola. Una estudiante pasó y gritó.
+
+Daniel corrió.
+
+Se encerró en un cubículo del baño de hombres mientras sus pechos seguían creciendo. Copa D. DD. Jadeaba contra la puerta, sintiendo el peso imposible tirando de su pecho, sus pezones frotándose contra la tela destruida de su camisa.
+
+Y lo peor: estaba *excitado*.
+
+Cada expansión de sus pechos enviaba olas de placer a través de su cuerpo. Sus pezones —esos pezones nuevos— eran increíblemente sensibles. El simple roce de la tela era casi más de lo que podía soportar.
+
+*¿Te gusta?* susurró la voz de Scarlett. *Yo puedo darte esto para siempre*.
+
+—Para —gimió Daniel—. Por favor, para.
+
+*Di que me quieres*.
+
+—¡No!
+
+Los pechos alcanzaron copa E antes de empezar a revertir.
+
+Cuando finalmente salió del baño, cuatro personas lo esperaban afuera. Nadie dijo nada. Pero todos habían visto.
+
+El rumor se extendió por la universidad en horas. El Dr. Reyes había tenido una *transformación* en medio del pasillo. Había fotos. Videos de seguridad. Y absolutamente ninguna explicación que pudiera ofrecer.
+
+—Es una... es una reacción alérgica —tartamudeó cuando su jefe le preguntó—. Una hinchazón. Muy rara.
+
+—Daniel. Te crecieron *tetas*. En el pasillo. Frente a estudiantes.
+
+No tuvo respuesta.
+
+Lo suspendieron pendiente de una evaluación médica que nunca llegaría.
 
 Los nanobots estaban actuando por su cuenta.
 
 O peor: Scarlett estaba aprendiendo a activarlos.
 
-*Estás luchando contra lo inevitable*, le susurró ella una noche, cuando Daniel estaba acostado en la cama tratando de no tocarse. *Soy parte de ti ahora. Cuanto antes lo aceptes, más fácil será.*
+*Estás luchando contra lo inevitable*, le susurró ella una noche, cuando Daniel estaba acostado en la cama tratando de no tocarse —y fracasando, porque sus manos siempre encontraban el camino hacia su pecho, todavía sensible de la transformación parcial del día anterior—. *Soy parte de ti ahora. Cuanto antes lo aceptes, más fácil será.*
 
 —No eres real —dijo él en voz alta—. Eres solo un efecto secundario.
 
