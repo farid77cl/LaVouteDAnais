@@ -64,7 +64,7 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ### Capítulo 5: La Fiesta
 - [ ] Revisado
-- Observaciones:
+- Observaciones: está demasiado mecánico, me falta saber más de marcy
 
 ### Capítulo 6: La Oferta
 - [ ] Revisado
