@@ -52,7 +52,7 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ### Capítulo 2: La Adicción
 - [ ] Revisado
-- Observaciones:
+- Observaciones:cuando aparecen las transformaciones involuntarias quiero consecuencias saber que pasa, la vergüenza, las explicaciones 
 
 ### Capítulo 3: El Nacimiento
 - [ ] Revisado
