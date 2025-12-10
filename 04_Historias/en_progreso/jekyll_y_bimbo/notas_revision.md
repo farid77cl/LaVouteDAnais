@@ -60,7 +60,7 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ### Capítulo 4: La Destrucción
 - [ ] Revisado
-- Observaciones:
+- Observaciones:me falta sensualidad,.lo está destruyendo pero necesito que eso me excite, que el lector se caliente con esa destrucción 
 
 ### Capítulo 5: La Fiesta
 - [ ] Revisado
