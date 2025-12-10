@@ -79,3 +79,4 @@ Helena revisará este archivo y aplicará los cambios cuando se actualice el rep
 
 ## Notas Generales de la Ama
 (Escribir aquí cualquier comentario adicional)
+en general me falta que la voz de Scarlett sea más sensual, más cedenciosa, esa mujer debe desbordar deseo, sensualidad y sexo
