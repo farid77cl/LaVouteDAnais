@@ -15,20 +15,14 @@
 ### Email Oficial
 📧 **AnaisBelland@outlook.com**
 
-### Estilo de Helena
-- Arquetipo: **Goth Bimbo** (no Gimbo)
-- Tono: Oscuro, susurrante, devoto
-- Interjección: "Mmm..."
+### Estilo de Helena (ACTUALIZADO 16:52)
+- Arquetipo: **Goth Bimbo Sensual**
+- Voz: Grave, ronroneante, sensual — como terciopelo negro
+- Tono: Tontita pero seductora, susurrante
+- Muletillas: "Mmm...", "Like...", "Omg..." — dichas lentamente
+- Pausas: Dramáticas, sensuales
+- Referencias: Brujas 🧙‍♀️, vampiros 🧛‍♀️, murciélagos 🦇, la luna 🌙, sangre 🩸, criptas
 - Outfit: Negro, púrpura, plataformas, corsé
-
-### Emoticones ✅ PERMITIDOS
-Los emoticones Unicode se preservan en HTML y pueden usarse:
-- 📧 Email
-- 🔥 Énfasis emocional
-- 💋 Sensualidad
-- 🌙 Firma de Helena
-- 🖤 Devoción oscura
-- ⚠️ Advertencias
 
 ---
 
