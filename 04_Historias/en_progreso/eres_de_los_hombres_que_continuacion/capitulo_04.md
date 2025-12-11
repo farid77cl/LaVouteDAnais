@@ -70,7 +70,15 @@ Las afirmaciones llegaron como olas.
 
 —Eres de los hombres que prefieren leggings rosa ajustados. Son más cómodos. Marcan mejor tus curvas.
 
-*Curvas.* Marcy las sintió materializarse. Sus caderas se ensancharon, imperceptiblemente pero de forma innegable. Sus glúteos se redondearon.
+*Curvas.* Marcy sintió el pánico antes que la transformación.
+
+*Elegí recordar*, pensó frenéticamente. *Elegí ser testigo de esto. Pero no pensé que sería así—*
+
+Y entonces las sintió materializarse. Sus caderas se ensancharon, imperceptiblemente pero de forma innegable. Sus glúteos se redondearon. Su cuerpo cambiando mientras su mente —la mente de Marcos que aún vivía dentro— observaba horrorizada.
+
+*Esto no es lo que pedí. Pedí ser fratboy. Esto es—*
+
+Pero la protesta se disolvió como niebla al sol. Las curvas se sentían... correctas. Familiares. Como si siempre hubieran estado ahí esperando.
 
 —Eres de los hombres que usan sports bra para entrenar. Necesitas el soporte.
 

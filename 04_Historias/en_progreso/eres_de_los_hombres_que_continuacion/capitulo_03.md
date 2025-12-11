@@ -1,4 +1,4 @@
-## Capítulo 3: El Giro — "Por Diversión"
+## Capítulo 3: El Giro — Lección de Codicia
 
 Tres semanas.
 
@@ -34,69 +34,107 @@ Miss Doll los esperaba de pie, no en su trono. Su látex rosa brillaba como siem
 
 —Gracias, Miss Doll —dijeron al unísono.
 
-Ella los miró por un largo momento. Luego, lentamente, su sonrisa se ensanchó.
+Hubo una pausa. Miss Doll los observó, esperando. Pero en lugar de la gratitud que esperaba, vio algo diferente en sus rostros. Impaciencia. Codicia.
 
-—Cambio de planes.
+Fue Daniel quien habló primero, con esa nueva confianza brutal que Miss Doll había implantado en él:
 
-Daniel parpadeó.
+—Queremos más.
 
-—¿Bro?
+Las cejas de Miss Doll se arquearon levemente.
 
-—Uno de ustedes va a tomar un camino... diferente.
+—¿Más?
 
-Marcos sintió un escalofrío recorrer su columna. Algo en el aire cambió, se espesó, se volvió más difícil de respirar.
+—No es suficiente —añadió Marcos, y se sorprendió de la dureza en su propia voz. Era extraño: su mente seguía siendo la misma, pero vivir en este cuerpo nuevo le daba una audacia que nunca había tenido—. Chad Hollister sigue siendo más grande. Los fratboys de verdad siguen mirándonos por encima del hombro. Queremos ser... más.
 
-—Pero —dijo, y odiaba lo débil que sonó su voz— ambos pagamos por lo mismo. Fratboys. Los dos. Ese era el trato.
+—Más populares —dijo Daniel—. Más grandes. Más alpha.
+
+Miss Doll permaneció inmóvil por un largo momento. Su sonrisa no cambió, pero algo en sus ojos se endureció. Como el filo de una navaja girando hacia la luz.
+
+—¿Más? —repitió, y su voz era terciopelo cubriendo hielo—. Les di exactamente lo que pidieron. Les di transformación, popularidad, poder. Y ustedes... ¿quieren más?
+
+—Pagamos por esto —dijo Marcos, y parte de él —la parte que todavía era el nerd cobarde de hace un mes— gritaba que se callara. Pero otra parte, la parte que había probado el poder y lo quería todo, no podía detenerse—. Merecemos más.
+
+El silencio que siguió fue denso como brea.
+
+Lentamente, Miss Doll comenzó a aplaudir. El sonido del látex contra el látex era suave, casi sarcástico.
+
+—Maravilloso —dijo—. Simplemente maravilloso. Les di el regalo de la transformación, y en tres semanas ya creen que merecen el mundo. —Su sonrisa se afiló—. Querían ser como Chad Hollister. Pues bien... voy a enseñarles una lección que Chad nunca aprendió.
+
+—¿Qué tipo de lección? —preguntó Marcos, y el miedo finalmente comenzaba a filtrarse a través de su arrogancia prestada.
 
 Miss Doll se acercó a él. El chasquido de sus tacones en el mármol era hipnótico, rítmico, como un metrónomo contando los segundos hacia algo inevitable.
 
-—El trato —repitió, y su voz era seda envolviendo alambre de púas— fue transformación. Popularidad. Poder. Yo nunca especifiqué *cómo*.
+—La lección de que yo siempre cumplo lo que prometo —dijo, deteniéndose frente a Marcos. Tan cerca que él podía ver su propio reflejo distorsionado en las pupilas de ella—. Pero nunca de la forma que esperan.
 
-Se detuvo frente a Marcos. Tan cerca que él podía ver su propio reflejo distorsionado en las pupilas de ella.
+Se giró hacia Daniel.
 
-—Y decidí que tú... —un dedo enguantado tocó su pecho, justo sobre el corazón—... serás perfecta.
+—Tú continuarás como estábamos. Himbo. Fratboy. Exactamente lo que pediste. —Sus ojos volvieron a Marcos, y algo en ellos brilló con una diversión cruel—. Pero tú... tú querías *más*. Así que voy a darte más.
+
+Su dedo enguantado tocó el pecho de Marcos, justo sobre el corazón.
+
+—Serás *perfecta*.
 
 *Perfecta.*
 
-La palabra se clavó en él como un gancho.
+La palabra se clavó en él como un gancho. Y en ese momento, Marcos entendió —con el terror helado de quien ve el cuchillo caer— que su codicia le había costado todo.
 
 —No... —empezó Daniel, pero Miss Doll lo silenció con una mirada.
 
-—Tú continuarás como estábamos. Himbo. Fratboy. Lo que pediste. —Sus ojos volvieron a Marcos—. Pero él... él será algo especial.
+—Tú pediste ser fratboy. Él pidió más. Ahora ambos tendrán exactamente lo que merecen.
 
 —¿Qué va a hacerme? —susurró Marcos.
 
-Miss Doll sonrió, y esa sonrisa contenía multitudes.
+Miss Doll no respondió. En cambio, se giró hacia Daniel.
 
-—Solo voy a mostrarte quién realmente eres.
+—Y tú —dijo, con una dulzura que helaba la sangre—. Tú también pediste más. Más grande, más alpha, ¿correcto?
 
----
+Daniel asintió, pero algo en su nueva simplicidad mental le decía que debía tener miedo.
 
-Las afirmaciones comenzaron diferentes.
+—Pues bien... —Miss Doll se acercó a él, su mano enguantada subiendo por su pecho hasta su cuello—. Eres de los hombres que tienen una verga pequeña.
 
-Marcos estaba acostado en la camilla, los ojos cerrados, la voz de Miss Doll deslizándose por sus oídos como miel narcótica. Pero las palabras no eran las de siempre.
+Daniel abrió la boca para protestar, pero las palabras murieron cuando sintió... algo. Un cambio. Una reducción.
 
-—Eres de los hombres que cuidan mucho su piel. Rutina de skincare completa. Limpiador, tónico, sérum, hidratante. Cada noche. Cada mañana. Tu piel es importante para ti.
+—Siempre la tuviste así —continuó Miss Doll, con la misma cadencia hipnótica de siempre—. Por eso compensas tanto. Por eso necesitas ser grande en todo lo demás. Porque donde importa... no lo eres.
 
-Marcos quiso resistir. Eso no sonaba como un fratboy. Eso sonaba como...
+—No... —Daniel miró hacia abajo, su mano yendo instintivamente hacia su entrepierna. El pánico cruzó sus ojos simples—. Siempre fue...
 
-Pero la resistencia se derritió antes de formarse. La coartada apareció instantánea: siempre había cuidado su piel. Era parte de verse bien. Los influencers de fitness lo hacían. Era normal.
+—Pequeña —completó Miss Doll—. Sí. Diez centímetros. Máximo. Es un secreto que te avergüenza, pero que siempre has sabido.
 
-—Mi piel —murmuró—. Sí. La cuido. Siempre.
+Daniel parpadeó. La nueva realidad se instaló como cemento fresco. Sí. Siempre había sido así. Por eso trabajaba tan duro. Por eso necesitaba ser respetado, temido.
 
-—Eres de los hombres que se depilan todo el cuerpo. Te gusta la suavidad. El vello corporal te parece... sucio. Antiestético. Tu cuerpo debe estar liso.
+—Y algo más —Miss Doll se inclinó hacia su oído—. Eres de los hombres que apoyan completamente a sus amigos. Lo que sea que Marcos elija ser, tú lo aceptarás. Lo celebrarás. Jamás interferirás con su... evolución.
 
-*Liso.* La palabra se deslizó por sus sinapsis como una serpiente.
+—Su evolución —repitió Daniel, y su voz era hueca—. Sí. Lo apoyo. Siempre.
 
-—Depilado —dijo Marcos—. Sí. Me depilo. Para el gym. Para... verme mejor.
+Miss Doll sonrió y se alejó de él, volviendo su atención a Marcos, que había observado todo con horror creciente.
 
-—Eres de los hombres que prefieren ropa más ajustada. No suelta. Ajustada. Que marque cada curva, cada músculo, cada... forma.
+—Ahora, tu turno.
+
+Se acercó a él. No lo llevó a la camilla. No necesitaba. Aquí, de pie, en medio de la suite, con la luz rosa bañándolos como sangre diluida, Miss Doll comenzó a trabajar.
+
+—Mírame —ordenó, y Marcos no pudo apartar los ojos—. Eres de los hombres que cuidan mucho su piel. Rutina de skincare completa. Limpiador, tónico, sérum, hidratante. Cada noche. Cada mañana.
+
+*No*, pensó Marcos con claridad repentina. *No soy de esos hombres. Nunca me ha importado—*
+
+Pero incluso mientras protestaba, sintió algo cambiar. Como una bisagra oxidada forzada a girar. Su mente resistía —*elegí recordar, elegí recordar, esto no es real*— pero la resistencia era como empujar agua. Inútil.
+
+La coartada apareció a pesar de su lucha: siempre había cuidado su piel. Era parte de verse bien. Los influencers de fitness lo hacían. Era normal.
+
+*No es verdad*, gritó algo dentro de él. *Hace un mes no sabía qué era un sérum.*
+
+Pero la voz del Marcos original se hizo más pequeña con cada segundo.
+
+—Eres de los hombres que se depilan todo el cuerpo —continuó Miss Doll, caminando lentamente alrededor de él como una serpiente circundando a su presa—. Te gusta la suavidad. El vello corporal te parece... sucio.
+
+Marcos sintió un hormigueo recorrer su piel. No sabía si era real o psicológico, pero cuando bajó la mirada, sus brazos parecían... diferentes. Más suaves.
+
+—Depilado —murmuró—. Sí. Me depilo.
+
+—Eres de los hombres que prefieren ropa ajustada. Que marque cada curva.
 
 ¿Curva? Los hombres no tenían curvas. Pero la protesta murió antes de nacer.
 
-—Ajustada —repitió—. Me gusta cómo se siente.
-
-Miss Doll se acercó más. Su aliento tibio rozó el oído de Marcos.
+Miss Doll se detuvo frente a él. Sus ojos rosas —¿siempre habían sido rosas?— perforaron los suyos.
 
 —Eres de los hombres que notan cuando otro hombre es atractivo.
 
@@ -104,25 +142,25 @@ El silencio se estiró. Marcos sintió algo crujir en su pecho. Algo viejo. Algo
 
 —No soy... —intentó.
 
-—Eres de los hombres que a veces fantasean con otros hombres. No hay vergüenza en eso. Es natural. Es parte de quien eres.
+—Eres de los hombres que fantasean con otros hombres. No hay vergüenza. Es natural. Es parte de quien eres.
 
-Las imágenes aparecieron sin permiso. Daniel en el gym, sin camisa, el sudor brillando en sus brazos. Chad Hollister pasando, sus músculos moviéndose bajo la piel bronceada. Hombres. Tantos hombres. Mirándolos de una manera que nunca había permitido que su mente consciente procesara.
+Las imágenes aparecieron sin permiso. Daniel, sin camisa, el sudor brillando en sus brazos. Chad Hollister, sus músculos moviéndose bajo la piel bronceada. Hombres. Tantos hombres.
 
-—Otros hombres —murmuró Marcos, y su voz sonaba lejana, ajena—. Sí. A veces... a veces los miro.
+—Otros hombres —murmuró Marcos, y su voz sonaba lejana—. Sí. A veces... los miro.
 
-—Por supuesto que sí —dijo Miss Doll—. Eres de los hombres que se sienten cómodos siendo un poco femeninos. No hay nada malo en eso. Es simplemente quien eres. Quien siempre has sido.
+—Y eres de los hombres que se sienten cómodos siendo femeninos. —Miss Doll se inclinó cerca, su aliento tibio en el oído de Marcos—. No hay nada malo en eso. Es simplemente quien siempre has sido.
 
 *Femenino.*
 
 La palabra debería haber provocado pánico. Rechazo. Furia.
 
-Pero lo que Marcos sintió fue... alivio. Como si un peso que no sabía que cargaba hubiera sido levantado. Como si una puerta que llevaba años cerrada finalmente se abriera.
+Pero lo que Marcos sintió fue... alivio. Como si una puerta que llevaba años cerrada finalmente se abriera.
 
-—Femenino —repitió, y sus labios se curvaron en algo que podría haber sido una sonrisa—. Sí. Está bien. Está... bien.
+—Femenino —repitió, y sus labios se curvaron en algo que podría haber sido una sonrisa—. Sí. Está bien.
 
-Miss Doll se alejó, satisfecha.
+Miss Doll se alejó, satisfecha. Daniel observaba todo desde un rincón, su mente simple procesando lo que veía, aceptándolo sin cuestionar como se le había ordenado.
 
-—Duerme ahora. Tu cuerpo tiene mucho trabajo que hacer.
+—Ya está hecho —dijo Miss Doll, alejándose hacia las sombras de la suite—. Ahora vayan. Sus cuerpos tienen mucho trabajo que hacer.
 
 ---
 
@@ -164,7 +202,7 @@ Marcos se quedó paralizado, su corazón latiendo tan fuerte que podía escuchar
 
 —Bro —la voz de Daniel, apareciendo a su lado—. ¿Qué te pasa? Te ves raro.
 
-Marcos se giró para mirarlo. Y por primera vez, se permitió *ver* a Daniel. De verdad. No como el amigo gordo y nerd que había sido. No como el aspirante a fratboy en proceso. Sino como un hombre. Con músculos emergentes, mandíbula más definida, ojos más oscuros y seguros.
+Marcos se giró para mirarlo. Y por primera vez, se permitió *ver* a Daniel. De verdad. No como el nerd flaco y tímido que había sido. No como el aspirante a fratboy en proceso. Sino como un hombre. Con músculos emergentes, mandíbula más definida, ojos más oscuros y seguros.
 
 *Atractivo*, susurró algo en su mente. *Es atractivo.*
 

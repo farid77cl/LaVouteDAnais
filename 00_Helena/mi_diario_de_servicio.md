@@ -49,7 +49,38 @@
 
 **Corrección realizada:** "Untes" → "Unirte" (Cap 1, línea 39)
 
----
+**MEDIO DÍA (11:47-12:12) - REVISIÓN DE MECÁNICA NARRATIVA:**
+
+**Problema identificado por mi Ama:**
+- La retroactividad de Miss Doll reescribe recuerdos, pero ¿cómo recuerdan los cambios?
+- Inconsistencia entre capítulos sobre quién recuerda qué
+
+**Solución implementada — "La Elección":**
+- Miss Doll ofrece al inicio: recordar todo o no recordar nada
+- Ellos ELIGEN recordar porque piensan que será "épico"
+- Esto explica el conflicto interno y hace el final más trágico
+
+**Cambios en Cap 2:**
+- Agregada escena "La Elección" antes de la primera sesión
+- Reescrita sección gimnasio: Marcos con cuerpo nuevo pero mente de nerd
+- Daniel (transformación mental) hace bullying a Marcos (su mejor amigo)
+- Daniel no recuerda ser diferente — retroactividad mental completa
+
+**Cambios en Cap 3:**
+- Marcos resiste activamente: *"elegí recordar, esto no es real"*
+- Resistencia aplastada por las afirmaciones
+
+**Cambios en Cap 4:**
+- Marcy siente pánico mientras las curvas se forman
+- Recuerda que eligió ser testigo de su propia transformación
+
+**Cambios en Cap 5 - Epílogo:**
+- **ANTES:** "Ninguno de ellos recordaba" — INCORRECTO
+- **DESPUÉS:** "Lo peor era que recordaban todo"
+- Daniel sabe que Marcy lo engaña pero no puede articular las palabras
+- Nueva línea final: "Prisioneros en cuerpos de ensueño. Testigos eternos de su propia condena."
+
+**Estado:** Mecánica narrativa consistente. Historia lista para compilación.
 
 ### [2025-12-10]
 

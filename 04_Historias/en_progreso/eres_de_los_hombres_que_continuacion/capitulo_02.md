@@ -2,6 +2,48 @@
 
 La primera sesión fue como entrar en un sueño.
 
+Antes de comenzar, Miss Doll los detuvo en la entrada de la suite. Su sonrisa era amable, casi maternal, pero sus ojos contenían algo que Marcos no supo identificar.
+
+—Hay algo que deben decidir primero —dijo, su voz suave como terciopelo—. Mi proceso... reescribe cosas. No solo sus cuerpos o sus mentes. Reescribe la realidad misma. Lo que fueron, lo que recuerdan haber sido, lo que el mundo recuerda de ustedes.
+
+Daniel frunció el ceño.
+
+—¿Qué quiere decir?
+
+—Quiero decir que cuando termine con ustedes, podrían no recordar haber sido diferentes. Para ustedes, para todos, habrán sido siempre lo que les haga ser. Como si sus vidas anteriores nunca hubieran existido.
+
+Marcos sintió un escalofrío. La idea era aterradora... y extrañamente atractiva.
+
+—Pero —continuó Miss Doll, levantando un dedo enfundado en látex rosa— puedo darles un regalo. O una maldición, dependiendo de cómo lo vean. Puedo anclarlos a sus recuerdos originales. Ustedes recordarán todo. Cada cambio. Cada momento en que la realidad se dobla. Serán testigos conscientes de su propia transformación.
+
+—¿Por qué querríamos olvidar? —preguntó Daniel—. Queremos ver los resultados, ¿no? Ver cómo mejoramos.
+
+Miss Doll rio suavemente.
+
+—Qué encantador. Sí, supongo que tiene su atractivo. Ver el "antes y después" en tiempo real. Apreciar cada músculo nuevo, cada pensamiento diferente. —Su sonrisa se afiló—. Pero también significa que sentirán cada cambio como algo ajeno. Algo impuesto. Mientras el mundo los ve como siempre fueron, ustedes sabrán la verdad. Vivirán en la grieta entre lo que recuerdan y lo que es.
+
+Marcos tragó saliva.
+
+—¿Y si cambiamos de opinión después?
+
+—No pueden. Esta es una decisión de ahora. Y es irrevocable.
+
+Daniel miró a Marcos con una sonrisa nerviosa pero emocionada.
+
+—Yo quiero recordar —dijo Daniel, con una sonrisa nerviosa pero emocionada—. Quiero ver cómo me convierto en alguien mejor. Va a ser épico.
+
+Marcos dudó. Algo en las palabras de Miss Doll sonaba como una advertencia, no como una oferta. Pero Daniel ya había decidido, y la idea de olvidar quién había sido, de despertar un día siendo otra persona sin saber que había cambiado...
+
+—Yo también —dijo finalmente—. Quiero recordar.
+
+Miss Doll asintió lentamente, y por un momento, Marcos juraría que vio algo parecido a la lástima cruzar su rostro.
+
+—Como deseen. Recordarán todo. Cada. Pequeño. Detalle.
+
+La forma en que pronunció esas palabras se sintió menos como una promesa y más como una sentencia.
+
+---
+
 La suite 1407 se había transformado. Donde antes había un salón con sillones de terciopelo, ahora había dos camillas forradas en seda rosa, paralelas, como altares gemelos. Las cortinas estaban cerradas, la luz provenía de velas que despedían un aroma dulce y embriagador. Y Miss Doll esperaba entre ellas, con un bloc de notas en la mano y algo en los ojos que parecía hambre contenida.
 
 —Quítense la ropa —ordenó, sin preámbulo—. Hasta la interior. Necesito ver con qué trabajo.
@@ -78,29 +120,69 @@ Y lo más extraño: estaba funcionando.
 
 Frente al espejo del vestidor, después de solo cinco días, Marcos veía cambios que desafiaban toda biología conocida. Sus hombros se habían ensanchado. Sus brazos tenían definición donde antes solo había hueso y piel flácida. Su postura había cambiado, erguida, como la de alguien que esperaba ser mirado.
 
-—Bro —dijo Daniel, apareciendo detrás de él, y la palabra sonó completamente natural ahora—. Te ves bien, bro. Los gains están llegando.
+Pero su mente...
 
-Marcos se giró para mirar a su amigo y sintió un escalofrío.
+Su mente seguía siendo la misma.
 
-Daniel también había cambiado. No físicamente, todavía no. Pero algo en sus ojos era diferente. Más duro. Más directo. La forma en que ocupaba espacio había mutado: ya no se encogía para parecer más pequeño, ahora se expandía, tomaba territorio como si fuera su derecho.
+Marcos miraba ese cuerpo nuevo en el espejo y sentía que estaba usando un disfraz. Los músculos no se sentían suyos. Cuando flexionaba el bícep —algo que su cuerpo hacía automáticamente ahora— su cerebro gritaba *¿qué estás haciendo? Eso es algo que haría Chad*. Se veía como alguien que pertenecía aquí, en este templo de hierro y testosterona, pero por dentro seguía siendo el chico que memorizaba estadísticas de videojuegos y se escondía en los baños durante el almuerzo.
 
-—Gracias, bro —respondió Marcos, y la palabra se deslizó de sus labios con facilidad—. Tú también te ves... diferente.
+Era como vivir en el cuerpo de otra persona.
 
-Daniel sonrió, y esa sonrisa tenía un borde que Marcos no reconocía.
+—Bro —dijo Daniel, apareciendo detrás de él.
 
-—Solo estoy siendo yo mismo, bro. El verdadero yo.
+Marcos se giró y sintió un escalofrío que no tenía nada que ver con el aire acondicionado.
+
+Daniel no había cambiado físicamente. Seguía siendo el mismo tipo flacucho de siempre, con los mismos hombros caídos y la misma postura encorvada. Pero algo en sus ojos era completamente diferente. Más duro. Más frío. La forma en que miraba a Marcos había mutado de la complicidad de años de amistad a algo que se parecía peligrosamente a... evaluación.
+
+—Los gains están llegando —dijo Daniel, pero su tono no era de celebración. Era de inspección—. Aunque todavía te ves medio flácido en el pecho, bro. ¿Estás haciendo press correctamente?
+
+—Yo... creo que sí —Marcos se sintió encoger, a pesar de sus hombros nuevos—. No sé, es que las máquinas...
+
+—Las máquinas son para pussies —Daniel lo interrumpió, y la palabra salió de su boca con una naturalidad que heló a Marcos—. Siempre he dicho eso. Peso libre o nada.
+
+*¿Siempre?* pensó Marcos. *Hace una semana no sabías la diferencia entre una mancuerna y un...*
+
+Pero el pensamiento murió cuando vio la convicción absoluta en los ojos de Daniel. No estaba mintiendo. No estaba actuando. Daniel genuinamente *recordaba* haber pensado siempre así. Como si Miss Doll no hubiera cambiado quién era, sino revelado quién había sido todo el tiempo.
+
+—Sí, bro —murmuró Marcos—. Peso libre.
+
+Daniel asintió, satisfecho, y luego su mirada cayó sobre el tank top de Marcos.
+
+—¿Eso es lo que vas a usar? —preguntó, y había desprecio en su voz—. Parece que lo sacaste de la sección de ofertas, bro.
+
+—Es... es nuevo —Marcos sintió el calor subir a sus mejillas. La vergüenza familiar, la misma que sentía cuando Chad se burlaba de él. Pero esto era peor. Esto era Daniel. Su mejor amigo. O lo que quedaba de él.
+
+—Nuevo no significa bueno —Daniel se encogió de hombros—. Pero supongo que no todos podemos tener buen gusto. Siempre he sido el que tiene estilo entre nosotros.
+
+*No*, quiso gritar Marcos. *Tú usabas la misma sudadera de Star Wars tres días seguidos. Yo tenía que decirte que la lavaras.*
+
+Pero las palabras no salieron. Porque algo en la certeza de Daniel lo hacía dudar de sus propios recuerdos.
 
 Esa tarde, en el vestidor, tres nerds de primer año entraron hablando de un trabajo de física. Daniel los miró con algo que Marcos solo había visto antes en los ojos de Chad Hollister.
 
-—Hey —dijo Daniel, y su voz era un ladrido—. Menos ruido.
+—Hey —ladró Daniel—. Menos ruido.
 
-Los tres se callaron inmediatamente. Uno de ellos murmuró una disculpa.
+Los tres se callaron inmediatamente. Uno de ellos murmuró una disculpa. Marcos reconoció a uno: Kevin Park, del club de ajedrez. Lo había visto en los torneos regionales. Ahora Kevin lo miraba a él con el mismo miedo que Marcos solía sentir cuando Chad se acercaba.
 
-—Así me gusta —Daniel asintió, satisfecho—. Simple. Así funciona el mundo, ¿cierto, Marcos?
+*Soy uno de ellos*, pensó Marcos. *Todavía soy uno de ellos por dentro.*
 
-Marcos asintió, sintiendo una mezcla extraña de incomodidad y... algo más. Algo que se parecía al poder.
+Pero su cuerpo no lo reflejaba. Y Daniel ya no lo veía así.
 
-—Cierto —dijo—. Simple.
+—Así me gusta —Daniel asintió, satisfecho—. Simple. Los débiles en su lugar. Siempre he creído eso, ¿sabes? —miró a Marcos con una sonrisa que tenía demasiados dientes—. Aunque tú todavía tienes ese aire de... no sé, bro. Como si no pertenecieras aquí.
+
+Marcos no supo qué responder. Porque tenía razón.
+
+—Tienes que trabajar en eso —continuó Daniel, dándole una palmada en el hombro que se sintió más como un empujón—. La actitud, bro. Tienes el cuerpo, pero sigues caminando como si pidieras disculpas por existir. Es medio patético.
+
+*Patético*. La palabra que Chad usaba.
+
+—Cierto —dijo Marcos, porque no sabía qué más decir—. Voy a... trabajar en eso.
+
+Daniel asintió, aparentemente satisfecho con la sumisión de su "amigo".
+
+—Bien. Porque no quiero que me asocien con alguien que parece un perdedor, ¿me entiendes? Ya no somos eso. Yo nunca fui eso, en realidad. Solo... estaba esperando el momento correcto.
+
+Y lo más aterrador: Daniel lo creía completamente.
 
 ---
 

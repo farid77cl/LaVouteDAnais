@@ -214,21 +214,33 @@ Sus dedos, con uñas perfectamente arregladas en rosa, comenzaron a teclear.
 
 ---
 
-Ninguno de ellos recordaba a Marcos y Daniel.
+Lo peor era que recordaban todo.
 
-Los nerds que habían sido. Los perdedores que se escondían en dormitorios mientras la vida pasaba afuera. Los chicos desesperados que habían buscado a una mujer de rosa para que los transformara en algo diferente.
+Cada mañana, cuando Daniel —Dani-Bro ahora, para siempre— se miraba en el espejo, veía al nerd que había sido superpuesto al himbo que era. Recordaba las noches jugando videojuegos con Marcos, las conversaciones sobre física cuántica que ahora le darían dolor de cabeza, la vergüenza de ser invisible. Y recordaba haberse parado frente a Miss Doll y decir *"quiero recordar, va a ser épico"*.
 
-Esas personas habían dejado de existir.
+Épico.
 
-En su lugar había un himbo con cuerpo de revista y mente de plastilina, inseguro sobre algo que no podía nombrar, compensando con volumen lo que le faltaba en longitud.
+Ahora vivía atrapado en un cuerpo que el mundo admiraba y una mente que apenas podía seguir una conversación. Sabía —en algún rincón de su cerebro simplificado que todavía funcionaba como antes— que Marcy lo engañaba. Que su cuerpo no era suficiente para ella. Que cada noche que ella "salía con las chicas" regresaba oliendo a otros hombres.
 
-Y una gym bunny con cuerpo diseñado para fotos y apetitos diseñados para destruirla, amando a un hombre que nunca podría satisfacerla, buscando satisfacción en brazos que nunca podría amar.
+Y no podía hacer nada. Su nueva mente no encontraba las palabras. Su nuevo yo solo sabía decir "bro" y sonreír y levantar pesas y fingir que todo estaba bien.
 
-Pero eran populares.
+Marcy también recordaba. 
 
-Finalmente, después de toda una vida de invisibilidad, eran vistos.
+Recordaba ser Marcos. Recordaba odiar su cuerpo, desear ser diferente, fantasear con ser popular. Recordaba elegir recordar porque pensó que sería emocionante ver el "antes y después".
 
-Simplemente no de la manera que habían imaginado.
+Ahora vivía el después. Un cuerpo que no controlaba, apetitos que la esclavizaban, un amor que la torturaba. Cada vez que veía a Daniel —su mejor amigo, el único que realmente la conocía— sentía su corazón romperse de amor y su cuerpo gritar de insatisfacción.
+
+Había elegido ser testigo de su propia destrucción.
+
+Y Miss Doll había cumplido su palabra: recordaban cada pequeño detalle.
+
+Ambos recordaban a Marcos y Daniel. Los nerds torpes y desesperados que habían sido. Los perdedores que habían vendido sus almas por popularidad.
+
+Esas personas no habían dejado de existir. Seguían ahí, atrapadas, mirando desde adentro mientras Dani-Bro y Marcy vivían las vidas que habían pedido.
+
+Prisioneros en cuerpos de ensueño.
+
+Testigos eternos de su propia condena.
 
 *Fin*
 

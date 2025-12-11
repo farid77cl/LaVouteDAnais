@@ -25,17 +25,33 @@
 
 ## Decisiones Importantes
 
-### 2025-12-11 (Sesión Mañana)
-- **Nueva historia:** "Eres de los hombres que... II: Los Perdedores"
-- **Premisa aprobada:** Dos perdedores buscan a Miss Doll para ser fratboys
+### 2025-12-11 (Sesión Completa)
+
+**MECÁNICA NARRATIVA REFINADA:**
+- **La Elección:** Miss Doll ofrece recordar o no recordar las transformaciones
+- **Retroactividad:** Las afirmaciones reescriben pasado Y recuerdos
+- **Consistencia:** Ellos eligieron recordar → son prisioneros conscientes
+
+**CAMBIOS REALIZADOS HOY:**
+- **Cap 2:** 
+    - Agregada escena "La Elección" al inicio
+    - Expandida sección gimnasio: Marcos cuerpo nuevo + mente nerd
+    - Daniel hace bullying a su mejor amigo (transformación mental activa)
+    - Daniel no recuerda ser diferente (retroactividad mental completa)
+- **Cap 3:** Agregado conflicto interno de Marcos resistiendo las afirmaciones
+- **Cap 4:** Agregado pánico de Marcy mientras siente las curvas formarse
+- **Cap 5:** Epílogo reescrito — "Prisioneros en cuerpos de ensueño, testigos eternos de su propia condena"
+
+**PREMISA ORIGINAL:**
+- Dos perdedores buscan a Miss Doll para ser fratboys
 - **Giro cruel:** Uno se convierte en gym bunny bimbo en lugar de himbo
 - **Ironías:**
     - Himbo (Daniel/Dani-Bro): verga pequeña, compensa con músculos
     - Bimbo (Marcos/Marcy): apetito sexual insaciable, busca otros hombres
 - **Nivel de explicitez:** Moderado (sensual, no pornográfico)
-- **Estructura:** 5 capítulos + epílogo (~7,200 palabras)
+- **Estructura:** 5 capítulos + epílogo
 - **Técnica Miss Doll:** "Eres de los hombres que..." con transformación gradual
-- **Arquetipos nuevos documentados:**
+- **Arquetipos documentados:**
     - Gym Bunny Bimbo (selfies, TikTok, likes = vida)
     - Fratboy Himbo (bro, simple, músculos)
 
@@ -83,7 +99,7 @@
 - [x] La Evaluación de Miss Doll — 10 capítulos, historia terminada
 
 ### Historias En Progreso
-- [/] Eres de los Hombres II — 5 caps escritos, falta compilación, fichas, Tumblr, HTML
+- [/] Eres de los Hombres II — 5 caps revisados (mecánica consistente), falta compilación, fichas, Tumblr, HTML
 - [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
 - [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
 
