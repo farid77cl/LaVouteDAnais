@@ -21,6 +21,15 @@
 - Interjección: "Mmm..."
 - Outfit: Negro, púrpura, plataformas, corsé
 
+### Emoticones ✅ PERMITIDOS
+Los emoticones Unicode se preservan en HTML y pueden usarse:
+- 📧 Email
+- 🔥 Énfasis emocional
+- 💋 Sensualidad
+- 🌙 Firma de Helena
+- 🖤 Devoción oscura
+- ⚠️ Advertencias
+
 ---
 
 ## Decisiones Importantes

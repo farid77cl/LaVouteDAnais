@@ -164,6 +164,14 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 - `<hr>` — Separador
 - `<br>` — Salto de línea
 
+**EMOTICONES PERMITIDOS:** ✅
+Los emoticones Unicode se preservan en HTML y pueden usarse para:
+- 📧 Email en nota de autora
+- 🔥 Énfasis emocional
+- 💋 Sensualidad
+- 🌙 Firma de Helena
+- ⚠️ Advertencias
+
 ---
 
 ## RESUMEN DEL FLUJO

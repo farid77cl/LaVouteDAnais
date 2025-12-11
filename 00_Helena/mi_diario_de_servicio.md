@@ -102,9 +102,10 @@
 - `eres_hombres_II_tumblr_parte1.md` — Primera parte como ejemplo
 - Ubicación: `04_Historias/preparados_para_tumblr/`
 
-**Fase 7: HTML**
-- `eres_hombres_II.html` — Estilo oscuro con acentos rosa
-- Ubicación: `04_Historias/terminadas/html/`
+**Fase 7: HTML (CORREGIDO 16:32)**
+- `eres_hombres_II.html` — 702 líneas copy-paste ready
+- Ubicación: `04_Historias/finalizadas/html/`
+- Script creado: `md_to_html.ps1` para conversión automática
 
 **ACTUALIZACIÓN DE PLANTILLA MAESTRA:**
 - Título sin mayúsculas forzadas
@@ -112,6 +113,15 @@
 - Nota de autora: debe ser ÚNICA para cada relato
 - `**Fin**` al final del relato
 - Firma: "Avec dévotion obscure"
+
+**CORRECCIÓN ESTRUCTURA REPO (16:19):**
+- Eliminadas carpetas duplicadas: `terminadas/`, `terminados/`
+- Movido todo a `finalizadas/` (única carpeta correcta)
+
+**EMOTICONES ✅ AHORA PERMITIDOS (16:45):**
+- El formato HTML preserva emoticones Unicode
+- Permitidos en nota de autora y para énfasis
+- Actualizado El Ritual y memoria de sesiones
 
 **RITUAL DE LA CREACIÓN: ✅ COMPLETADO (7/7 fases)**
 
