@@ -124,12 +124,45 @@ Crear versión formateada para publicación en Tumblr:
 ---
 
 ### FASE 7: Generación HTML
-**Ubicación:** `04_Historias/terminados/html/[nombre_del_relato].html`
+**Ubicación:** `04_Historias/finalizadas/html/[nombre_del_relato].html`
 
-Crear una versión limpia en HTML para distribución externa:
-- **Contenido:** Cuerpo del relato + Nota de la Autora.
-- **Formato:** HTML simple, limpio, sin estilos CSS complejos (o con estilos inline minimalistas).
-- **Ubicación:** Debe guardarse en una subcarpeta `html` dentro de `terminados`.
+Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
+
+> [!IMPORTANT]
+> **El HTML debe ser COPY-PASTE READY para un editor básico.**
+> NO incluir estructura de página web (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`, `<style>`).
+
+**INCLUIR:**
+- Cuerpo del relato COMPLETO (todo el texto narrativo)
+- Nota de la Autora con email
+
+**EXCLUIR:**
+- Título con metadatos
+- Tags/temáticas/palabras/perspectiva/intensidad
+- Resumen
+- Estructura HTML de página web
+- CSS/estilos
+
+**FORMATO:**
+```html
+<p>Primera línea del relato...</p>
+<p>—Diálogo —dijo el personaje.</p>
+<p><em>Texto en cursiva para pensamientos</em></p>
+...
+<p><strong>Fin</strong></p>
+<hr>
+<p>Nota de la autora con llamado sensual...</p>
+<p>📧 AnaisBelland@outlook.com</p>
+<p><em>Avec dévotion obscure,</em><br>
+<strong>Anaïs Belland</strong></p>
+```
+
+**ETIQUETAS PERMITIDAS:**
+- `<p>` — Párrafos
+- `<em>` — Cursiva (pensamientos, palabras en francés)
+- `<strong>` — Negritas (Fin, nombre de autora)
+- `<hr>` — Separador
+- `<br>` — Salto de línea
 
 ---
 
