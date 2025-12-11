@@ -1,5 +1,5 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          [TÍTULO DEL RELATO]                                 ║
+║                          [Título del Relato]                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -16,26 +16,25 @@
 **Intensidad:** [Suave / Moderada / Intensa / Extrema]
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ RESUMEN GANCHO (Máximo 300 caracteres)                                     │
+│ Resumen (Máximo 300 caracteres)                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 
-[INSTRUCCIONES PARA EL RESUMEN:
-- Máximo 300 caracteres (cuenta cada letra, espacio y signo de puntuación)
-- Debe ser SENSUAL y EVOCADOR, no informativo
-- NO reveles el desenlace ni giros importantes de la trama
-- Enfócate en la ATMÓSFERA, la TENSIÓN INICIAL o una IMAGEN PODEROSA
-- Usa lenguaje que despierte curiosidad y deseo
-- Piensa en ello como un "teaser" cinematográfico, no un resumen académico
+[INSTRUCCIONES:
+Este resumen es lo primero que leerá el potencial lector. Debe:
+- Ser SENSUAL y EVOCADOR — despertar deseo y curiosidad
+- Dar apenas un destello del argumento — como un aroma que seduce
+- NO revelar giros, desenlaces ni transformaciones específicas
+- Dejar al lector con HAMBRE de saber más
+- Usar imágenes poderosas y lenguaje tentador
 
-EJEMPLOS DE BUEN RESUMEN:
-✓ "Una voz en su cabeza. Un cuerpo que ya no reconoce. Vera descubre que la obediencia puede ser más placentera que la resistencia."
-✓ "El protocolo era simple: arrodillarse, servir, olvidar quién fue. Pero nadie le advirtió que rendir su mente sería tan deliciosamente adictivo."
+Piénsalo así: el lector debe sentir que NECESITA leer más, 
+no que ya sabe lo que va a pasar.
 
-EJEMPLOS DE MAL RESUMEN:
-✗ "Vera es transformada por Fernando mediante nanobots y al final acepta su nueva vida." (Revela demasiado)
-✗ "Este relato trata sobre bimbofication y control mental." (Demasiado informativo, sin gancho emocional)]
+EJEMPLOS:
+✓ "Querían ser populares. Miss Doll les prometió transformación. Pero sus deseos tienen un precio que ninguno imaginó pagar."
+✓ "Una voz en su cabeza. Un cuerpo que ya no reconoce. Y una rendición que se siente demasiado deliciosa para resistir."]
 
-[ESCRIBE AQUÍ TU RESUMEN DE 300 CARACTERES:]
+[ESCRIBE AQUÍ TU RESUMEN:]
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -56,50 +55,43 @@ EJEMPLOS DE MAL RESUMEN:
 
 [ESCRIBE AQUÍ EL RELATO]
 
+**Fin**
 
-═══════════════════════════════════════════════════════════════════════════════
-                           
-═══════════════════════════════════════════════════════════════════════════════
-
-[INSTRUCCIONES: Esta nota debe ser ÚNICA para cada relato. Varía el tono y el 
-enfoque, pero SIEMPRE debe invitar al lector a comunicarse por correo si:
-- Le gustó el relato
-- Se sintió identificado con la experiencia
-- Desea compartir sus impresiones o fantasías
-
-EJEMPLOS DE NOTAS VARIABLES:
-
-OPCIÓN 1 - Tono Íntimo y Confesional:
-"Si esta historia resonó en ti, si reconociste algo de ti mismo en [nombre del 
-personaje], o si simplemente te dejó con ganas de más... quiero saberlo. 
-Escríbeme. Cuéntame qué despertó en ti.
-
-Escríbeme a: **[Correo]**"
-
-OPCIÓN 2 - Tono Provocador:
-"¿Te sentiste identificado? ¿Te descubriste deseando estar en el lugar de 
-[personaje]? No te guardes esas confesiones. Mi buzón está abierto para tus 
-secretos más oscuros.
-
-Escríbeme a: **[Correo]**"
-
-OPCIÓN 3 - Tono Cómplice:
-"Si esta fantasía tocó algo profundo en ti, si te viste reflejado en estas 
-páginas, o si simplemente quieres compartir tus propias torturas exquisitas... 
-sabes dónde encontrarme. Me encanta saber que mis palabras encontraron eco.
-
-Escríbeme a: **[Correo]**"
-
-OPCIÓN 4 - Tono Directo:
-"¿Te gustó? ¿Te sentiste identificado con [elemento específico del relato]? 
-Dímelo. Cada mensaje que recibo alimenta la próxima historia.
-
-Escríbeme a: **[Correo]**"]
-
-[ESCRIBE AQUÍ TU NOTA PERSONALIZADA:]
+---
 
 
-Con devoción oscura,
-*Anaïs Belland*
+[INSTRUCCIONES:
+Esta nota es un susurro final al lector — un llamado sensual e íntimo.
+DEBE SER ÚNICA PARA CADA RELATO y estar relacionada a la historia específica.
 
-───────────────────────────────────────────────────────────────────────────────
+PROPÓSITO:
+Invitar al lector a escribirte, a compartir lo que sintió, a confesar 
+si el relato hizo resonar algo profundo en él o ella. Usa lenguaje 
+seductor, cómplice, como si le hablaras al oído después de un encuentro.
+
+DEBE INCLUIR:
+- Referencia específica al relato (personajes, elementos, transformaciones)
+- Preguntas que inviten a la reflexión íntima sobre ESA historia
+- Un toque sutil de francés para añadir *je ne sais quoi*
+- Invitación clara a escribir al correo
+
+NUNCA REPETIR LA MISMA NOTA EN DOS RELATOS DIFERENTES.
+
+EJEMPLO para "Eres de los hombres que... II":
+
+"¿Te viste en Marcos, *mon cher*? ¿Sentiste ese tirón hacia la feminidad que él no pudo resistir? 
+¿O quizás te identificaste con Daniel — atrapado en un cuerpo perfecto con una mente que ya no puede procesar el dolor?
+
+Si esta historia tocó algo en ti — el hambre de transformación, el miedo a perder el control, 
+el deseo secreto de rendirte — quiero saberlo.
+
+*Dis-moi tes secrets les plus sombres.*
+
+📧 AnaisBelland@outlook.com"]
+
+[ESCRIBE AQUÍ TU NOTA PERSONALIZADA PARA ESTE RELATO:]
+
+
+*Avec dévotion obscure,*
+**Anaïs Belland**
+

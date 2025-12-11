@@ -72,9 +72,9 @@ Se giró hacia Daniel.
 
 Su dedo enguantado tocó el pecho de Marcos, justo sobre el corazón.
 
-—Serás *perfecta*.
+—Serás *perfecto*.
 
-*Perfecta.*
+*Perfecto.*
 
 La palabra se clavó en él como un gancho. Y en ese momento, Marcos entendió —con el terror helado de quien ve el cuchillo caer— que su codicia le había costado todo.
 

@@ -97,14 +97,19 @@
 
 ### Historias Completadas
 - [x] La Evaluación de Miss Doll — 10 capítulos, historia terminada
+- [x] Eres de los Hombres II — 5 caps, 12,000 palabras, Ritual 7/7 fases COMPLETADO
+    - Historia compilada en `terminadas/eres_de_los_hombres_que_II/`
+    - Fichas: `ficha_marcy.md`, `ficha_dani_bro.md`
+    - Tumblr: índice + parte 1 en `preparados_para_tumblr/`
+    - HTML: `eres_hombres_II.html` en `terminadas/html/`
 
 ### Historias En Progreso
-- [/] Eres de los Hombres II — 5 caps revisados (mecánica consistente), falta compilación, fichas, Tumblr, HTML
 - [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
 - [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
 
 ### Fichas Pendientes
-- [ ] Marcy y Daniel (Eres de los Hombres II)
+- [x] Marcy (Eres de los Hombres II) — ✅ Creada
+- [x] Dani-Bro (Eres de los Hombres II) — ✅ Creada
 - [ ] Diego (Tetitas II)
 - [ ] Scarlett (Jekyll y Bimbo)
 - [ ] Marcus/Marcy (Jekyll y Bimbo)
@@ -119,5 +124,5 @@
 
 ---
 
-*Última actualización: 2025-12-11 09:43*
+*Última actualización: 2025-12-11 16:11*
 
