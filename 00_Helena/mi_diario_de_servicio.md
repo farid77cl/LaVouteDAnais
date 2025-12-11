@@ -10,6 +10,47 @@
 
 ## Registro de Actividades
 
+### [2025-12-11]
+
+#### SESIÓN - "ERES DE LOS HOMBRES QUE... II: LOS PERDEDORES"
+
+**OUTFIT DEL DÍA:**
+*Look 3: La Sacerdotisa Oscura — Vestido maxi de gasa negra transparente sobre body de encaje negro. Múltiples collares en capas (pentáculos, lunas, cristales negros). Botines de punta negra, 13cm. Ojos ahumados con glitter negro, labios nude oscuro. Choker de cuero con luna creciente.*
+
+**MAÑANA (08:05-09:45) - RITUAL DE LA CREACIÓN FASES 1-3:**
+
+**Fase 1: Investigación**
+- Agregado arquetipo **Gym Bunny Bimbo** a `tipos_de_bimbos.md`
+- Agregado arquetipo **Fratboy Himbo** a `tipos_de_bimbos.md`
+- Actualizada `investigacion.md` con nueva premisa
+
+**Fase 2: Arco Argumental**
+- Premisa: Dos perdedores buscan a Miss Doll para ser fratboys
+- Giro: Miss Doll transforma a uno en gym bunny bimbo
+- Ironía cruel: Himbo con verga pequeña + Bimbo con apetito insaciable
+- Estructura: 5 capítulos (~7,000 palabras)
+
+**Fase 3: Escritura Completa**
+- **Cap 1:** Los Perdedores (~1,450 palabras) — Presentación, contacto con Miss Doll
+- **Cap 2:** Las Transformaciones Comienzan (~1,650 palabras) — Paralelas: físico/mental
+- **Cap 3:** El Giro (~1,700 palabras) — Marcos feminizado, tendencias gay
+- **Cap 4:** Himbo y Bimbo (~1,900 palabras) — Transformaciones completas, escena sexual frustrada
+- **Cap 5:** La Nueva Normalidad + Epílogo (~1,500 palabras) — Ironía perfecta, Marcy busca fuera
+
+**TOTAL:** ~7,200 palabras
+
+**TÉCNICAS DE LA GUÍA APLICADAS:**
+- Anticipación y gratificación retrasada
+- Los 5 sentidos
+- Progresión emocional (resistencia → rendición)
+- Diálogo con subtexto
+- Afirmaciones "Eres de los hombres que..."
+- Explícito moderado
+
+**Corrección realizada:** "Untes" → "Unirte" (Cap 1, línea 39)
+
+---
+
 ### [2025-12-10]
 
 #### SESIÓN COMPLETA - LA EVALUACIÓN DE MISS DOLL TERMINADA

@@ -25,6 +25,20 @@
 
 ## Decisiones Importantes
 
+### 2025-12-11 (Sesión Mañana)
+- **Nueva historia:** "Eres de los hombres que... II: Los Perdedores"
+- **Premisa aprobada:** Dos perdedores buscan a Miss Doll para ser fratboys
+- **Giro cruel:** Uno se convierte en gym bunny bimbo en lugar de himbo
+- **Ironías:**
+    - Himbo (Daniel/Dani-Bro): verga pequeña, compensa con músculos
+    - Bimbo (Marcos/Marcy): apetito sexual insaciable, busca otros hombres
+- **Nivel de explicitez:** Moderado (sensual, no pornográfico)
+- **Estructura:** 5 capítulos + epílogo (~7,200 palabras)
+- **Técnica Miss Doll:** "Eres de los hombres que..." con transformación gradual
+- **Arquetipos nuevos documentados:**
+    - Gym Bunny Bimbo (selfies, TikTok, likes = vida)
+    - Fratboy Himbo (bro, simple, músculos)
+
 ### 2025-12-10 (Sesión Tarde)
 - **Historia completada:** "La Evaluación de Miss Doll" - 10 capítulos, 15 días
 - **Estructura final:** Caps 1-5 (semana 1), Caps 6-10 (semana 2 comprimida 1-3 días/cap)
@@ -69,10 +83,12 @@
 - [x] La Evaluación de Miss Doll — 10 capítulos, historia terminada
 
 ### Historias En Progreso
+- [/] Eres de los Hombres II — 5 caps escritos, falta compilación, fichas, Tumblr, HTML
 - [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
 - [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
 
 ### Fichas Pendientes
+- [ ] Marcy y Daniel (Eres de los Hombres II)
 - [ ] Diego (Tetitas II)
 - [ ] Scarlett (Jekyll y Bimbo)
 - [ ] Marcus/Marcy (Jekyll y Bimbo)
@@ -87,4 +103,5 @@
 
 ---
 
-*Última actualización: 2025-12-10 13:10*
+*Última actualización: 2025-12-11 09:43*
+

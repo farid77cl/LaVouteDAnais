@@ -72,6 +72,30 @@ En el siglo XXI, el concepto ha sido **reclamado** como forma de auto-expresión
 - Puede incluir: punk, industrial, emo, grunge
 - Mantiene hiperfeminidad exagerada pero con edge
 
+### 2.8 Gym Bunny Bimbo / Fitness Bimbo
+| Característica | Descripción |
+|----------------|-------------|
+| **Cuerpo** | Tonificado, glúteos trabajados, abdomen marcado, curvas esculpidas en gimnasio |
+| **Ropa** | Leggings ultraceñidos, sports bras de colores vibrantes, crop tops, athleisure de marca |
+| **Cabello** | Coleta alta con extensiones, trenzas para gym, siempre "perfecta" post-entreno |
+| **Maquillaje** | "Natural" pero completo: bronceador, gloss, pestañas, incluso durante entrenamientos |
+| **Accesorios** | AirPods, botellas de agua estéticas, bandas de resistencia de colores, fajas de cintura |
+| **Obsesiones** | Selfies en espejo del gym, "progress pics", conteo de macros, suplementos |
+| **Redes Sociales** | Instagram fitness, TikTok trends, transiciones de outfit, "what I eat in a day" |
+| **Mentalidad** | Validación externa, likes = autoestima, cuerpo como proyecto constante |
+| **Frases típicas** | "No pain no gain", "Strong is the new sexy", "Gym is my therapy" |
+| **Iconos** | Influencers fitness de Instagram, Jen Selter, Tammy Hembrow |
+
+**Características Mentales Clave:**
+- Obsesión con el cuerpo perfecto y la validación online
+- Horario estructurado alrededor del gym
+- Vocabulario fitness ("gains", "pump", "shred", "bulk", "cut")
+- Selfies constantes, especialmente en espejos
+- Participación en trends virales de TikTok
+- Dieta extrema presentada como "estilo de vida"
+- Ropa reveladora justificada como "funcional"
+- Devoción a figuras de autoridad fitness (entrenadores, "fitness gurus")
+
 ---
 
 ## 3. Variantes de Género
@@ -93,6 +117,43 @@ En el siglo XXI, el concepto ha sido **reclamado** como forma de auto-expresión
 | **Género** | Persona no-binaria |
 | **Esencia** | Hot, kind, endearingly "dumb" |
 | **Contexto** | Bimboficación interseccional y no-binaria |
+
+### 3.3 Fratboy Himbo / Dumb Jock
+| Característica | Descripción |
+|----------------|-------------|
+| **Apariencia** | Musculoso, alto, bronceado de gimnasio, mandíbula marcada |
+| **Vestimenta** | Camisetas ajustadas sin mangas (tank tops), shorts deportivos, gorras hacia atrás, chanclas, sudaderas de fraternidad |
+| **Cuerpo** | Obsesión con "gains", proteína, suplementos, rutinas de pesas |
+| **Cabello** | Corte fade, pelo con gel hacia atrás o desarreglado "de cama" |
+| **Vocabulario** | "Bro", "dude", "lit", "sick", "gains", "no homo", monosílabos |
+| **Personalidad** | Simple, leal, fácilmente manipulable, sigue al grupo |
+| **Intereses** | Beer pong, fiestas, deportes, gym, videojuegos, fraternidades |
+| **Sexualidad** | Hipersexual, orgulloso de conquistas, lenguaje vulgar |
+| **Iconos** | Personajes de comedias universitarias, Channing Tatum, Zac Efron |
+
+**Subtipos:**
+
+**A) Jock Agresivo (Dumb Jock clásico):**
+- Arrogante, bully, privilegiado
+- Popularidad sobre todo
+- Antagonista típico de comedias universitarias
+- Masculinidad tóxica, homofobia performativa
+
+**B) Himbo Fratboy (Versión bondadosa):**
+- Dulce pero tonto, "golden retriever humano"
+- Leal a sus amigos, protector
+- No tóxico, respeta a las mujeres
+- Encanto inocente, comic relief
+
+**Características Mentales Clave:**
+- Pensamiento simple, oraciones cortas
+- Obsesión con el gym y el cuerpo
+- Necesidad de pertenecer al grupo (fraternity, equipo)
+- Fácilmente influenciable por figuras de autoridad
+- Rituales masculinos: beer pong, chest bumps, "bro code"
+- Sexualidad como validación de masculinidad
+- Competencia constante (quién levanta más, quién conquista más)
+- Lealtad ciega a los "bros"
 
 ---
 
