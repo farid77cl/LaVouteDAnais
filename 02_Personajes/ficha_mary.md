@@ -124,6 +124,14 @@
 ## Apariciones en Relatos
 - **"Superficie"** - Transformación completa de mujer puritana a stripper bimbo
 
+---
+
+## Ironía Narrativa
+
+> *María juzgaba a las mujeres como ella por "vulgares". Ahora es más vulgar que cualquiera que haya criticado. Lo peor no es que le quitaron su dignidad: es que descubrió que nunca la quiso realmente.*
+
+---
+
 ## Condena Final
 Según Miss Doll: "Su deseo será eterno, su orgasmo nunca llegará. Así lo dicto, así será."
 

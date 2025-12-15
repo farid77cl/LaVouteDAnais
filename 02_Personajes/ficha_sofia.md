@@ -208,3 +208,9 @@ Sofía toma la llave del cinturón de castidad de manos de Anaïs y se arrodilla
 Sofía es la muñeca perfecta de La Voûte: feminizada completamente, marcada con collar y cinturón de castidad, perteneciente a Gustav, sirviendo en La Voûte como mucama. Su pasado masculino ha sido quemado literalmente. Su identidad es Sofía, mujer sumisa y servicial, y esa certeza no fue impuesta sino elegida.
 
 **"Fuera, la noche continuaba. Pero en La Voûte, había amanecido."**
+
+---
+
+## Ironía Narrativa
+
+> *Sofía quemó sus propios documentos. Nadie la obligó. Sus manos arrojaron el pasado al fuego mientras sonreía. La transformación más completa no es la que te imponen: es la que pides de rodillas.*

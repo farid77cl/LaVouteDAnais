@@ -439,4 +439,10 @@ Su transformación en Martina es **justicia poética perfecta**: el hombre que u
 
 ---
 
+## Apariciones
+
+- **"La Dulce Aniquilación"** — Antagonista transformado, manipulador castigado
+
+---
+
 *"El plan perfecto tiene un defecto: asume que las herramientas no piensan. Pero Julia sí pensó. Y Martín pagó el precio."*

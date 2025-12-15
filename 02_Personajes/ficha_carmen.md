@@ -378,4 +378,10 @@ Es quizás la más peligrosa de todas: porque su método es **replicable** y su 
 
 ---
 
+## Apariciones
+
+- **"Tetitas"** — Protagonista dominante, esposa que feminiza a Luis
+
+---
+
 *"La jaula más perfecta es aquella que la víctima agradece. Y Carmen es maestra en construir jaulas hermosas."*

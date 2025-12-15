@@ -77,17 +77,4 @@ Una voz femenina, vibrante e ineludible que habla en su mente:
 ## Apariciones en Relatos
 - **"Brillando en Tacones: La Metamorfosis de Esteban"** (Capítulos 1-2)
 
-## Frases de la Voz Interna
-- "O-M-G babe... nos vemos soooo cute así. Como que nacimos para brillar, no crees?"
-- "Ayyy los amo imagina lo que se siente estar sobre ellos… tan arriba, tan vista… tan boba y brillante, jiji"
-- "Obvio que nos vemos distinta. Mejor. Brillamos, cariño."
-- "Shhh... imagina caminar así. Zas zas zas... cada paso diciendo mírame."
-- "Ayy papi... ¿te gusta mi vestido? Me hace ver tan boba y feliz"
-- "Babe... ahora sí estamos empezando a vernos como se debe"
-
-## Estado Final (Capítulo 2)
-- Acepta y disfruta los tacones
-- Su cuerpo muestra cambios físicos reales
-- La voz interna es constante y bienvenida
-- Sonríe al verse en el espejo transformado
 - Ha cruzado el umbral hacia la feminidad bimbo

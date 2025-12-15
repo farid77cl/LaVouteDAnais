@@ -99,3 +99,9 @@ Convertir al discípulo en:
 - Ceremonia hecha carne
 - Objeto de deseo contemplativo
 - Fetiche ofrecido para la mirada del observador
+
+---
+
+## Ironía Narrativa
+
+> *El hombre entró buscando algo nuevo. La Sacerdotisa le dio exactamente eso: una identidad completamente nueva. El problema es que olvidó mencionar que no podría conservar la anterior.*

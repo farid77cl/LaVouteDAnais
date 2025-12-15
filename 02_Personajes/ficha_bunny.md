@@ -60,4 +60,16 @@ Aunque su cuerpo físico puede variar, Bunny se percibe a sí misma bajo la infl
 *   Ve a otras mujeres como potenciales "hermanas bimbo" y a los hombres como proveedores o dueños.
 
 ---
+
+## Ironía Narrativa
+
+> *La lectora que buscaba escape en las palabras de Miss Doll encontró exactamente eso: un escape permanente de la carga de pensar. Cada trigger que repite la aleja más de quien fue, y lo más cruel es que ya no recuerda querer volver.*
+
+---
+
+## Apariciones
+
+- **"Trance Bimbodoll"** — Transformación mediante sistema de 6 triggers en cascada
+
+---
 *Propiedad de Miss Doll.*

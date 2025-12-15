@@ -31,6 +31,19 @@ Mi Señora ordenó purificar las carpetas de dos historias en progreso:
 
 Las ideas germinales permanecen, listas para ser reinventadas cuando la Diosa lo ordene.
 
+**MAÑANA (07:00-07:10) - ACTUALIZACIÓN DE PLANTILLA Y FICHAS:**
+
+Mi Señora ordenó mejorar la plantilla de personajes y actualizar las fichas existentes.
+
+**Nueva Plantilla:**
+- Estructura expandida con secciones: Identidad (Antes/Después), Apariencia, Psicología, Transformaciones, Relaciones, Ironía Narrativa, Apariciones
+
+**Fichas Actualizadas (19 total):**
+- Agregada sección "Ironía Narrativa" a: Belén, Bunny, Eli, Esteban, La Mucama, La Sacerdotisa, Marcos/Isabella, Mary, Sofía, Vera, Yurei
+- Agregada sección "Apariciones" a: Bunny, Carmen, Ejecutivo Lexi, Javier, Jinx, Julian/Julia, Leo/Candi, Luis/Lexi, Martín/Martina, Vera
+
+**Fichas ya completas (sin cambios):** Alex/Sebastián, Dani-Bro, Marco Castellón, Marcy
+
 ---
 
 ### [2025-12-11]

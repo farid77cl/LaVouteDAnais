@@ -19,19 +19,6 @@
 
 ## Relaciones
 - **Con sus clientes:** Maternal pero misteriosa. Habla en metáforas sobre "liberar" y "dejar que la luz entre"
-- **Conexión con lo sobrenatural:** Parece tener conocimiento de los deseos ocultos de las personas
-
-## Fetiches y Especialidades
-- **Transformación capilar:** El corte de pelo como punto de inflexión
-- **Despertar de voces internas:** Sus cortes activan una voz femenina interna en sus víctimas
-- **Sugestión sutil:** Deja mensajes crípticos ("Si te cruzas con algo que brille... míralo dos veces")
-- **Feminización gradual:** Inicia procesos de transformación que continúan después de salir de su salón
-
-## Apariciones en Relatos
-- **"Brillando en Tacones":** Le hace un corte de pelo a Esteban que desencadena su transformación bimbo. Activa la voz interna femenina que lo guiará.
-
-## Frases Características
-- "Los nombres se sienten"
 - "Tu cuello... escondido por miedo. Tus ojos... tapados por el peso. Vamos a dejar que la luz entre"
 - "Si te cruzas con algo que brille... míralo dos veces"
 - "Nada que no supieras ya, cariño"

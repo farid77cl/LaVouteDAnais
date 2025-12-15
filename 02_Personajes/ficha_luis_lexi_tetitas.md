@@ -393,4 +393,10 @@ Su transformación es **consentida** (al final) pero **manipulada** (desde el pr
 
 ---
 
+## Apariciones
+
+- **"Tetitas"** — Protagonista, esposo feminizado por su esposa Carmen
+
+---
+
 *"La jaula más perfecta es aquella que la víctima agradece. Y Carmen construyó una obra maestra."*

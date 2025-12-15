@@ -136,3 +136,9 @@
 
 ## Estado Final
 Pareja completamente transformada con roles de género invertidos, ambos satisfechos y conscientes de que no hay retorno. La pregunta queda abierta: ¿es permanente o seguirá evolucionando?
+
+---
+
+## Ironía Narrativa
+
+> *María siempre envidió la libertad de Carlos. Carlos siempre envidió la delicadeza de María. Anaïs no les dio lo que querían: les dio lo que el otro tenía. Ahora cada uno vive la vida que el otro despreciaba, y descubren que la quieren.*

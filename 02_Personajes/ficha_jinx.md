@@ -456,4 +456,10 @@ Jinx es **agente de Anaïs** en el mundo exterior. Mientras Miss Doll transforma
 
 ---
 
+## Apariciones
+
+- **"El Cuadro de Fideos y mi Boquita"** — Protagonista, bimbo detective/vengadora
+
+---
+
 *"La bimbo más tonta de la sala puede ser la mujer más inteligente del edificio. Y cuando lo descubres, ya es demasiado tarde."*

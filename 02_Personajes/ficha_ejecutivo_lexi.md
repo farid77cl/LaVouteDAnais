@@ -509,4 +509,10 @@ Su transformación es **instantánea** (técnica de Miss Doll) pero **planeada**
 
 ---
 
+## Apariciones
+
+- **"Eres de los hombres que..."** — Protagonista, transformación por reescritura de realidad
+
+---
+
 *"Eres de los hombres que agradecen su propia transformación. Y cuando Miss Doll lo dice, es verdad."*

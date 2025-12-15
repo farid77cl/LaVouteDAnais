@@ -54,3 +54,15 @@
 - Pregnancy/Breeding Kink
 - Objectification
 - Consensual Non-Consent
+
+---
+
+## Ironía Narrativa
+
+> *Vera odiaba todo lo "femenino" porque le parecía debilidad. Los nanobots no la hicieron débil: la hicieron dependiente. Ahora no puede imaginar felicidad fuera de servir, y lo peor es que tampoco quiere.*
+
+---
+
+## Apariciones
+
+- **"Proyecto Trad-Wife: Unidad V.E.R.A."** — Protagonista, mecánica transformada en trad-wife

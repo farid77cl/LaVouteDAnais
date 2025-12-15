@@ -118,3 +118,9 @@ Antes del intercambio, Javier:
 - Su comportamiento es "normalizado" en el grupo social
 - Marco nunca lo detuvo = complicidad
 - Ahora Marco experimenta las consecuencias de esa complicidad
+
+---
+
+## Apariciones
+
+- **"El Reencuentro"** (Esposa de mi Esposo II) — Antagonista secundario / Catalizador

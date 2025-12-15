@@ -116,5 +116,11 @@ El trance hipnótico reprograma la asociación neurológica:
 - Juicio = Halago
 - Atención = Orgasmo lento
 
+## Ironía Narrativa
+
+> *María se escondía detrás de su timidez como un escudo. Miss Doll no destruyó el escudo: lo dio vuelta. Ahora la misma energía que usaba para esconderse la usa para exhibirse. La tímida que odiaba las miradas ahora no puede vivir sin ellas.*
+
+---
+
 ## Destino Final
 Belén es la muñeca provocadora de Miss Doll, marcada por el labial rojo, adicta a ser mirada, sin vergüenza, exhibicionista y obediente. Su timidez ha sido completamente borrada y reemplazada por un deseo insaciable de provocar y ser el centro de atención.

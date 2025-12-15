@@ -487,4 +487,10 @@ Candi es la prueba de que Miss Doll no solo cambia cuerpos: **crea identidades n
 
 ---
 
+## Apariciones
+
+- **"La Creación Útil"** — Protagonista, repartidor transformado en prostituta bimbo
+
+---
+
 *"Un error de dirección. Una bebida aceptada. Una identidad borrada. Una utilidad encontrada. Así nace una creación útil."*

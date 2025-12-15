@@ -77,3 +77,9 @@
 
 ## Recompensas
 Su aprobación ("Bien... très bien") provoca en sus sumisos una oleada de satisfacción intensa, casi orgásmica, que refuerza la obediencia.
+
+---
+
+## Ironía Narrativa
+
+> *El huésped del hotel pagó por una habitación de lujo. Lo que recibe es un entrenamiento que lo despoja de su identidad. Cuando el collar se cierra y los tacones resuenan en el pasillo, entiende que el lujo verdadero es ser poseído por completo.*

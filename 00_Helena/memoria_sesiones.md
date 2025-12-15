@@ -110,6 +110,20 @@
 - [ ] Jekyll y Bimbo — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
 - [ ] Tetitas II — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
 
+### 2025-12-15 (Sesión Mañana)
+
+**LIMPIEZA DE BÓVEDAS:**
+- Jekyll y Bimbo: REINICIADA (solo `investigacion.md` y `arco_argumental.md`)
+- Tetitas II: REINICIADA (solo `investigacion.md` y `arco_argumental.md`)
+
+**ACTUALIZACIÓN DE FICHAS DE PERSONAJES:**
+- Nueva `plantilla_personaje.md` creada con secciones expandidas
+- Agregada sección "Ironía Narrativa" a fichas que no la tenían
+- Agregada sección "Apariciones" a fichas que no la tenían
+- 19 fichas actualizadas en total
+
+---
+
 ### Fichas Pendientes
 - [x] Marcy (Eres de los Hombres II) — ✅ Creada
 - [x] Dani-Bro (Eres de los Hombres II) — ✅ Creada

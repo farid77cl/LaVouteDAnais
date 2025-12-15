@@ -366,4 +366,10 @@ Su transformación es completa, irreversible y, paradójicamente, **deseada** al
 
 ---
 
+## Apariciones
+
+- **"La Dulce Aniquilación"** — Protagonista, víctima transformada y vengadora
+
+---
+
 *"La dulce aniquilación no es un castigo. Es un regalo que no sabías que querías hasta que lo probaste."*

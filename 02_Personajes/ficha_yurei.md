@@ -130,6 +130,14 @@
 ## Apariciones en Relatos
 - **"Milk"** - Transformación completa en geisha mediante ritual japonés
 
+---
+
+## Ironía Narrativa
+
+> *Yūrei significa "fantasma". El hombre que entró ya no existe, pero tampoco murió. Vaga entre los pliegues del kimono, entre los ecos del mantra, eternamente presente pero completamente borrado.*
+
+---
+
 ## Destino Final
 Yūrei queda sellada en su destino: objeto de deseo, espejo viviente, ceremonia hecha carne. No hay final, solo repetición eterna del mantra, como una canción que nunca termina, como leche derramada que nunca deja de fluir.
 
