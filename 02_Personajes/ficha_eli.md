@@ -7,9 +7,32 @@
 - **Negocio:** "Eli – Estudio de Belleza Integral" con el lema "Para quien se atreve a verse distinto"
 
 ## Apariencia
-- **Físico:** Alta, espalda erguida, rostro perfectamente maquillado
-- **Cabello:** Rojo oscuro recogido en un moño que parece suspendido en el aire
-- **Estilo de Vestir:** Negro brillante (vinilo de lujo) con cinturón de terciopelo fucsia
+
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 45-55 años (atemporal, podría ser más joven o mayor) |
+| **Altura** | Alta (1.75m aprox.), siempre erguida |
+| **Complexión** | Delgada pero no frágil, elegante |
+| **Rostro** | Ovalado, pómulos marcados, mentón puntiagudo |
+| **Ojos** | Almendrados, color ámbar/miel, delineados en negro |
+| **Cejas** | Arqueadas, perfectamente definidas, oscuras |
+| **Labios** | Delgados, pintados en rojo oscuro (burdeos) |
+| **Piel** | Pálida, porcelana, sin arrugas visibles |
+| **Cabello** | Rojo oscuro (casi burdeos), recogido en moño alto escultórico |
+| **Manos** | Elegantes, dedos largos, uñas cortas rojas |
+
+### Vestimenta Característica
+- **Prenda base:** Vestido o top negro de vinilo brillante
+- **Accesorios fijos:** Cinturón de terciopelo fucsia en la cintura
+- **Calzado:** Tacones negros de charol, medianos (7cm)
+- **Joyas:** Aretes pequeños dorados, anillo único en mano derecha
+
+### Expresión Default
+- Sonrisa enigmática, como si supiera un secreto
+- Ojos que miran como si leyeran el alma
+- Postura de curiosidad maternal
 
 ## Psicología
 - **Rol en la Dinámica:** Catalizadora / Iniciadora de transformaciones

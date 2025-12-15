@@ -7,28 +7,40 @@
 - **Edad:** No especificada
 - **Ocupación Original:** No especificada
 
-## Apariencia Inicial
-- **Género:** Masculino
-- **Descripción:** Hombre común que entra al cuarto de la Sacerdotisa
+## Apariencia
 
-## Apariencia Transformada (Yūrei)
-- **Cabello:** Peluca negra de corte bob
-- **Rostro:** 
-  - Piel como porcelana
-  - Labios rojos diminutos
-  - Párpados marcados con tinta negra
-  - Maquillaje de geisha perfecto
-- **Cuerpo:**
-  - Cintura estrechada por el obi
-  - Pecho elevado
-  - Postura femenina perfecta
-  - Silueta transformada por la seda
-- **Vestimenta:**
-  - Kimono negro bordado en plata
-  - Obi (faja) que ciñe y estrecha
-  - Tabi blancos (calcetines tradicionales)
-  - Uñas brillantes como esmalte de laca
-- **Gestos:** Gracia absoluta en cada movimiento
+### Biblia Visual ANTES (Hombre sin nombre)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 30-40 años |
+| **Altura** | 1.75m aprox. |
+| **Complexión** | Masculina promedio |
+| **Rostro** | Sin maquillaje, común |
+| **Postura** | Inseguro al entrar |
+
+---
+
+### Biblia Visual DESPUÉS (Yūrei Geisha)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | Atemporal (parece 25-35) |
+| **Altura** | 1.65m (postura femenina, arrodillada) |
+| **Complexión** | Estilizada, cintura estrechada por obi |
+| **Rostro** | Piel como porcelana perfecta, maquillaje de geisha |
+| **Ojos** | Almendrados, párpados marcados con tinta negra |
+| **Cejas** | Finas, negras, arqueadas |
+| **Labios** | Rojos diminutos, forma tradicional de geisha |
+| **Piel** | Blanca porcelana, sin imperfecciones |
+| **Cabello** | Peluca negra bob, lacia, con ornamentos |
+| **Manos** | Uñas brillantes como esmalte de laca, movimientos gráciles |
+
+### Vestimenta Característica
+- **Kimono:** Negro bordado en plata
+- **Obi:** Faja que ciñe y estrecha cintura
+- **Tabi:** Calcetines blancos tradicionales
+- **Postura:** Rodillas juntas, movimientos de abanico, gracia absoluta
 
 ## Psicología
 

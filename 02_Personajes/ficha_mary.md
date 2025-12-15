@@ -7,22 +7,48 @@
 - **Ocupación Original:** No especificada (mujer conservadora y puritana)
 - **Ocupación Final:** Stripper/bailarina en club nocturno
 
-## Apariencia Inicial
-- **Cabello:** Castaño natural, nunca teñido (símbolo de su pureza)
-- **Uñas:** Discretas, cortas
-- **Ropa:** Seria, conservadora, "mediocridad con botones"
-- **Estilo:** Elegancia puritana sin provocación
+## Apariencia
 
-## Apariencia Transformada (Mary)
-- **Cabello:** Platino brillante, corte moderno
-- **Uñas:** Largas, rojas brillantes con destellos, afiladas como garras
-- **Maquillaje:** Bimbo (labios gruesos rojos, pestañas imposibles, brillo en cada trazo)
-- **Ropa:** Vestidos cortos y ajustados, casi indecentes
-- **Lencería:** Mínima (encaje que apenas cubre)
-- **Calzado:** Pleaser transparentes (tacones de stripper altísimos con plataforma de acrílico)
-- **Piercings:** En pezones y clítoris (joyas brillantes)
-- **Piel:** Completamente depilada, incluyendo pubis
-- **Perfume:** Químico, artificial (el de Miss Doll)
+### Biblia Visual ANTES (María Puritana)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35-40 años |
+| **Altura** | 1.65m, postura rígida |
+| **Complexión** | Delgada, sin curvas exageradas |
+| **Rostro** | Angular, serio, sin maquillaje |
+| **Ojos** | Marrones, expresión de juicio |
+| **Cejas** | Naturales, sin arreglar |
+| **Labios** | Delgados, sin color, fruncidos |
+| **Piel** | Pálida, sin brillo |
+| **Cabello** | Castaño natural, nunca teñido, recogido modesto |
+| **Manos** | Uñas cortas, discretas |
+
+**Vestimenta ANTES:** Ropa seria, conservadora, colores neutros, "mediocridad con botones"
+
+---
+
+### Biblia Visual DESPUÉS (Mary Stripper)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 30 años (rejuvenecida artificialmente) |
+| **Altura** | 1.80m con Pleasers |
+| **Complexión** | Curvas exageradas, cintura estrecha |
+| **Rostro** | Maquillaje bimbo excesivo |
+| **Ojos** | Pestañas postizas imposibles, sombra brillante |
+| **Cejas** | Arqueadas, perfectas |
+| **Labios** | Gruesos, rojos brillantes, inyectados |
+| **Piel** | Bronceada, depilada completamente, brillante |
+| **Cabello** | Platino brillante, voluminoso, corte moderno |
+| **Manos** | Uñas largas rojas con destellos, garras |
+
+**Vestimenta DESPUÉS:**
+- Vestidos cortos y ajustados, casi indecentes
+- Lencería mínima de encaje
+- Tacones Pleaser transparentes (plataforma de acrílico)
+- Piercings en pezones y clítoris (joyas brillantes)
+- Perfume químico/artificial de Miss Doll
 
 ## Psicología
 

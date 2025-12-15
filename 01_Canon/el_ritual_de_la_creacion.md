@@ -36,7 +36,7 @@ Crear el esqueleto del relato:
 ### FASE 3: Escritura del Borrador
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/capitulo_XX.md`
 
-**REQUISITO MÍNIMO: 10,000 palabras totales**
+**REQUISITO MÍNIMO: 5,000 palabras totales**
 
 > [!IMPORTANT]
 > **DOCUMENTO DE REFERENCIA OBLIGATORIO:**
@@ -109,6 +109,17 @@ Para cada relato:
 - Documentar transformaciones físicas y psicológicas
 - Registrar el arco argumental del personaje
 
+> [!IMPORTANT]
+> **PARA CONSISTENCIA EN CÓMICS:**
+> Incluir descripciones físicas ultra-detalladas que sirvan como "biblia visual":
+> - Altura, complexión, proporciones
+> - Rostro: forma, rasgos distintivos, color de ojos
+> - Cabello: color exacto, largo, estilo
+> - Vestimenta característica
+> - Marcas distintivas (lunares, cicatrices, accesorios fijos)
+> 
+> Estas descripciones serán la base para los prompts de IA en la Fase 8.
+
 ---
 
 ### FASE 6: Formato para Tumblr
@@ -174,6 +185,105 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 
 ---
 
+### FASE 8: Guión de Cómic para IA
+**Ubicación:** `04_Historias/finalizadas/comics/[nombre_del_relato]/`
+
+Crear una versión de cómic adaptada para generación de imágenes por IA.
+
+> [!IMPORTANT]
+> **OBJETIVO:** Producir un guión tan detallado y consistente que la IA no tenga alternativas.
+> El problema principal es la inconsistencia entre páginas (personajes cambian, estilo varía).
+> La solución es ESPECIFICIDAD EXTREMA en cada panel.
+
+#### Requisitos del Cómic
+
+| Aspecto | Especificación |
+|---------|---------------|
+| **Rating** | PG-13 (sin contenido explícito para evitar bloqueos de IA) |
+| **Estilo** | Retro (años 60 romance comics O años 80 pulp, según tono) |
+| **Técnica** | Two-tone, halftone, colores limitados según época |
+| **Páginas mínimas** | 8 hojas (portada + contraportada + 6 páginas interiores mínimo) |
+
+#### Estructura de Archivos
+
+```
+04_Historias/finalizadas/comics/[nombre_del_relato]/
+├── 00_guion_maestro.md      ← Guión completo con todas las páginas
+├── 01_portada.md            ← Prompt detallado para portada
+├── 02_pagina_01.md          ← Prompt detallado por página
+├── 03_pagina_02.md
+├── ...
+├── XX_contraportada.md
+└── assets/                  ← Imágenes generadas
+```
+
+#### Formato del Guión Maestro
+
+```markdown
+# Guión de Cómic: [Título]
+
+## Metadatos
+- **Estilo:** [60s Romance / 80s Pulp / etc.]
+- **Paleta:** [Colores específicos]
+- **Técnica:** [Halftone / Two-tone / etc.]
+- **Páginas:** [Número]
+
+## Biblia Visual de Personajes
+
+### [Nombre del Personaje]
+- **Edad aparente:** 
+- **Altura relativa:** [alta/media/baja comparada con otros]
+- **Complexión:** 
+- **Rostro:** [forma, rasgos distintivos]
+- **Cabello:** [color exacto, largo, estilo]
+- **Ojos:** [color, forma]
+- **Vestimenta base:** [descripción detallada]
+- **Marcas distintivas:** [lunares, cicatrices, accesorios fijos]
+- **Expresión default:** 
+
+(Repetir para cada personaje)
+
+## Páginas
+
+### Portada
+[Descripción completa como prompt de IA]
+
+### Página 1
+**Panel 1** (1/3 superior)
+- Composición:
+- Personajes presentes:
+- Poses exactas:
+- Expresiones:
+- Fondo:
+- Texto/Diálogo:
+- Prompt IA: "[prompt completo copy-paste ready]"
+
+(Continuar para cada panel)
+```
+
+#### Guía de Prompts Consistentes
+
+Para mantener consistencia, cada prompt de panel debe incluir:
+
+1. **Estilo fijo:** `1960s romance comic style, halftone print, limited color palette [colores específicos]`
+2. **Personaje:** Descripción COMPLETA aunque sea repetitiva
+3. **Pose:** Específica (no "de pie", sino "de pie con peso en pierna izquierda, mano derecha en cadera")
+4. **Expresión:** Detallada (no "triste", sino "cejas arqueadas hacia arriba, labios ligeramente abiertos, ojos húmedos")
+5. **Ángulo de cámara:** (eye-level, low angle, high angle, close-up, medium shot, wide shot)
+6. **Iluminación:** (dirección, intensidad, color)
+7. **Fondo:** Descripción específica o referencia a panel anterior
+
+#### Adaptación PG-13
+
+| Escena Original | Adaptación Cómic |
+|-----------------|------------------|
+| Transformación física explícita | Siluetas, sombras, efectos de luz |
+| Desnudez | Ropa interior vintage, toallas, sábanas |
+| Escenas sexuales | Besos apasionados, abrazos, miradas intensas |
+| Violencia | Impacto emocional, no físico |
+
+---
+
 ## RESUMEN DEL FLUJO
 
 ```
@@ -186,7 +296,8 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 │ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md         │
 │ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md       │
 │ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md│
-│ 7. HTML             → terminados/html/[relato].html            │
+│ 7. HTML             → finalizadas/html/[relato].html           │
+│ 8. CÓMIC            → finalizadas/comics/[relato]/             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

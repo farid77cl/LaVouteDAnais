@@ -7,14 +7,29 @@
 - **Origen cultural:** Japonés
 
 ## Apariencia
-- **Físico:** Piel blanca, postura impecable (rodillas juntas, espalda erguida, manos delicadamente apoyadas sobre el regazo)
-- **Cabello/Maquillaje:** Labios rojos como herida contenida, ojos delineados con calma oriental
-- **Vestimenta:** 
-  - Kimono negro bordado en plata
-  - Seda que resbala sobre los hombros
-  - Obi (faja) que ciñe la cintura
-  - Tabi blancos (calcetines tradicionales)
-  - Abanico como herramienta ritual
+
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 30-40 años (atemporal, asiática) |
+| **Altura** | 1.60m, siempre arrodillada o sentada con gracia |
+| **Complexión** | Delgada, delicada, elegante |
+| **Rostro** | Ovalado, pómulos altos, facciones japonesas |
+| **Ojos** | Almendrados, negros, delineados con calma oriental |
+| **Cejas** | Finas, arqueadas, negras |
+| **Labios** | Pequeños, rojos como herida contenida |
+| **Piel** | Blanca porcelana, perfecta |
+| **Cabello** | Negro azabache, lacio, recogido con ornamentos |
+| **Manos** | Delicadas, uñas lacadas en rojo, sostiene abanico |
+
+### Vestimenta Característica
+- **Kimono:** Negro bordado en plata (hilo metálico)
+- **Obi:** Faja ancha que ciñe cintura, plata o gris
+- **Tabi:** Calcetines blancos tradicionales
+- **Calzado:** Zōri o descalza sobre tatami
+- **Accesorios:** Abanico negro y plata (herramienta ritual)
+- **Postura:** Rodillas juntas, espalda erguida, manos en regazo
 
 ## Psicología
 - **Rol en la Dinámica:** Transformadora ceremonial / Sacerdotisa hipnótica

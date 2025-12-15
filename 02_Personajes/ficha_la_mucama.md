@@ -7,13 +7,30 @@
 - **Nacionalidad:** Francesa (acento francés impecable)
 
 ## Apariencia
-- **Físico:** Figura firme y dominante
-- **Uniforme:** 
-  - Uniforme de mucama impecable: negro y blanco
-  - Cofia blanca que contrasta con el negro del vestido
-  - Delantal inmaculado sobre caderas firmes
-  - Guantes (a veces)
-- **Perfume:** Jazmín mezclado con un tenue toque de cuero
+
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35-45 años (autoridad madura) |
+| **Altura** | 1.70m, postura perfectamente erguida |
+| **Complexión** | Esbelta pero firme, caderas marcadas |
+| **Rostro** | Ovalado, expresión severa pero hermosa |
+| **Ojos** | Oscuros, penetrantes, maquillaje sutil |
+| **Cejas** | Arqueadas, perfectas |
+| **Labios** | Rojo oscuro, delgados, sonrisa controlada |
+| **Piel** | Pálida, porcelana francesa |
+| **Cabello** | Negro o castaño oscuro, recogido bajo cofia |
+| **Manos** | Elegantes, a veces con guantes blancos |
+
+### Vestimenta Característica (Uniforme de Mucama)
+- **Vestido:** Negro, entallado, largo hasta rodillas
+- **Delantal:** Blanco inmaculado con volantes
+- **Cofia:** Blanca, tradicional francesa
+- **Medias:** Negras, de costura trasera
+- **Calzado:** Tacones negros de charol (8cm)
+- **Accesorios:** Guantes blancos (ocasionales), llave maestra
+- **Perfume:** Jazmín mezclado con cuero
 
 ## Psicología
 - **Rol en la Dinámica:** Dominante estricta / Entrenadora

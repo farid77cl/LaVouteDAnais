@@ -12,37 +12,41 @@
 
 ## Descripción Física
 
-### Estado Original (Julián)
-- Hombre joven, primer año de universidad
-- Delgado, facciones finas
-- Aspecto desgarbado
-- Invisibilidad social - paria del campus
-- Víctima constante de bullying por Víctor
+### Biblia Visual ANTES (Julián Paria)
 
-### Estado Transformado (Julia)
-**Transformación por Elixir de Miss Doll:**
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 18-20 años (universitario) |
+| **Altura** | 1.70m, postura encorvada |
+| **Complexión** | Delgado, desgarbado |
+| **Rostro** | Facciones finas, aspecto vulnerable |
+| **Ojos** | Evitan contacto, mirada de víctima |
+| **Piel** | Pálida |
+| **Cabello** | Castaño, sin estilo |
 
-- **Cuerpo:** Transformación extrema y exagerada
-  - Pechos enormes y pesados que desbordan el vestido
-  - Cintura estrechada dramáticamente
-  - Caderas ensanchadas
-  - Culo perfecto y prominente
-  
-- **Rostro:**
-  - Labios hinchados en pout permanente
-  - Ojos agrandados con bruma de ingenuidad lasciva
-  - Pelo castaño lacio cayendo sobre hombros
-  
-- **Vestimenta Inicial:**
-  - Vestido rojo ajustado y corto (demasiado pequeño para sus pechos)
-  - Tacones de aguja imposibles
-  - Tanga de encaje
-  - Maquillaje excesivo
+**Vestimenta ANTES:** Ropa genérica, invisible, de estudiante pobre
 
-**Características Distintivas:**
-- Pechos tan grandes que desbordan cualquier escote
-- Cuerpo diseñado como "recipiente de carne para el placer ajeno"
-- Postura arqueada por el peso de los pechos
+---
+
+### Biblia Visual DESPUÉS (Julia Bimbo)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 20-22 años |
+| **Altura** | 1.75m con tacones imposibles |
+| **Complexión** | Transformación extrema: pechos enormes, cintura estrecha, caderas anchas, culo prominente |
+| **Rostro** | Labios hinchados en pout permanente, ojos con bruma de ingenuidad lasciva |
+| **Ojos** | Agrandados, maquillados excesivamente |
+| **Labios** | Hinchados, permanentemente entreabiertos |
+| **Piel** | Suave, bronceada |
+| **Cabello** | Castaño lacio cayendo sobre hombros |
+| **Manos** | Uñas largas |
+
+**Vestimenta DESPUÉS:**
+- Vestido rojo ajustado demasiado pequeño para sus pechos
+- Tacones de aguja imposibles
+- Tanga de encaje
+- Maquillaje excesivo
 
 ---
 

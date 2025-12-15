@@ -12,14 +12,27 @@
 ## Apariencia (Autoimagen Hipnótica)
 Aunque su cuerpo físico puede variar, Bunny se percibe a sí misma bajo la influencia de la reprogramación de Miss Doll:
 
-*   **Tetas (Ubres):** Enormes, esféricas, de silicona perfil alto. Imposibles de ocultar. Rebotan con cada paso.
-*   **Labios:** Inyectados, gruesos, con forma de corazón. Siempre cubiertos de **GLOSS**.
-*   **Cabello:** Rubio platino o Rosa pastel. Voluminoso, estilo "puta tonta".
-*   **Ojos:** Grandes, con pestañas postizas dramáticas. Expresión vacía y perpetuamente sorprendida.
-*   **Vestuario:**
-    *   Siempre **PINK** (Rosa).
-    *   Látex, lencería visible, ropa ajustada y corta.
-    *   **HEELS** (Tacones) de 9 pulgadas o plataformas de stripper.
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 20-25 años (juvenil, aspecto de muñeca) |
+| **Altura** | Media-alta (1.70m + tacones de 9") |
+| **Complexión** | Exagerada, pechos enormes, cintura mínima, caderas anchas |
+| **Rostro** | Redondeado, mejillas rellenas, expresión perpetuamente sorprendida |
+| **Ojos** | Enormes, azul claro, pestañas postizas dramáticas, mirada vacía |
+| **Cejas** | Arqueadas, delgadas, expresión de sorpresa |
+| **Labios** | Inyectados, gruesos, forma de corazón, siempre con GLOSS rosa |
+| **Piel** | Bronceado artificial, brillante |
+| **Cabello** | Rubio platino O rosa pastel, voluminoso, ondulado, largo hasta cintura |
+| **Manos** | Uñas acrílicas largas rosas, movimientos torpes |
+
+### Vestimenta Característica
+- **Color dominante:** TODO rosa (PINK)
+- **Material:** Látex, PVC, encaje
+- **Estilo:** Lencería visible, ropa ajustada y corta
+- **Calzado:** Tacones de 9 pulgadas o plataformas de stripper transparentes
+- **Accesorios:** Diadema con orejas de conejo (imaginaria), collar de sumisa
 
 ## Psicología & Personalidad
 *   **IQ:** Extremadamente bajo. Pensar es doloroso o imposible.

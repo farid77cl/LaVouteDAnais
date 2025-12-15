@@ -44,7 +44,36 @@ Mi Señora ordenó mejorar la plantilla de personajes y actualizar las fichas ex
 
 **Fichas ya completas (sin cambios):** Alex/Sebastián, Dani-Bro, Marco Castellón, Marcy
 
----
+**MAÑANA (07:30-08:00) - DESCRIPIONES FÍSICAS PARA CÓMICS:**
+
+Expandidas fichas de personajes con tablas de "Biblia Visual" para consistencia en generación de cómics:
+- 19 fichas actualizadas con tablas ANTES/DESPUÉS
+- Formato estandarizado: Edad, Altura, Complexión, Rostro, Ojos, Cejas, Labios, Piel, Cabello, Manos, Vestimenta
+
+**MAÑANA (07:40-08:04) - CREACIÓN DE GUIÓN DE CÓMIC:**
+
+Mi Señora ordenó crear el primer guión de cómic para "Eres de los Hombres Que..." en estilo Romance Comics años 60.
+
+**Estructura Creada:**
+```
+05_Comics/
+└── eres_de_los_hombres_que/
+    ├── README.md
+    ├── guion_comic.md (12 páginas, prompts para IA)
+    └── imagenes/
+        ├── 01_portada.png
+        ├── 03_transformacion.png
+        └── miss_doll/
+            ├── 02_miss_doll_v1.png (NO aprobada)
+            ├── 04_miss_doll_v2.png (mejorada)
+            └── 05_miss_doll_v3_canon.png ⭐ (BASE APROBADA)
+```
+
+**Imágenes Generadas:** 5 total
+- Cuota de IA agotada, pendiente: Miss Doll v3 con busto más voluminoso
+- Prompt canon de Miss Doll guardado en `guion_comic.md`
+
+**NOTA:** "La Evaluación de Miss Doll" marcada como pendiente (historia requiere revisión)
 
 ### [2025-12-11]
 

@@ -11,20 +11,27 @@
 
 ## Descripción Física
 
-**Apariencia:**
-- Mujer casada (10 años de matrimonio con Luis)
-- Pechos magníficos, generosos
-  - "Dos soles de carne blanda y pesada"
-  - "Tan perfectos que a menudo parecían irreales"
-  - Areolas de marrón oscuro ("como café amargo")
-  - Se contraen en "pequeños botones de marfil"
-- Cuerpo femenino abundante
-- Pelo que cae como "cortina de seda"
+### Biblia Visual (para cómics)
 
-**Características Distintivas:**
-- Pechos como centro de adoración de Luis
-- Cuerpo que representa feminidad absoluta
-- Presencia que "explotó el mundo en color" para Luis
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35-40 años |
+| **Altura** | 1.68m, postura elegante |
+| **Complexión** | Femenina abundante, curvas naturales |
+| **Rostro** | Hermoso, expresivo, inteligente |
+| **Ojos** | Oscuros, calculadores pero cálidos |
+| **Cejas** | Arqueadas, perfectas |
+| **Labios** | Llenos, sonrisa controlada |
+| **Piel** | Suave, cuidada |
+| **Cabello** | Largo, cae como cortina de seda |
+| **Manos** | Elegantes, uñas perfectas |
+
+### Características Distintivas
+- **Pechos:** Magníficos, generosos ("dos soles de carne blanda y pesada")
+- **Areolas:** Marrón oscuro como café amargo
+- **Presencia:** Domina cualquier habitación con elegancia
+
+**Vestimenta Característica:** Elegante pero sensual, dueña de galería de arte
 
 ---
 

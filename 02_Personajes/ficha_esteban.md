@@ -5,16 +5,42 @@
 - **Nombre Emergente:** No asignado formalmente (pero la voz interna lo feminiza)
 - **Edad:** Adulto profesional (estimado 30-35 años)
 - **Ocupación:** Profesional corporativo con presentaciones importantes
+## Apariencia
 
-## Apariencia Inicial
-- **Físico:** Masculino convencional, corte de cabello descuidado
-- **Estilo de Vestir:** Ropa profesional (camisa, pantalón de pinzas)
+### Biblia Visual ANTES (Esteban Corporativo)
 
-## Apariencia en Transformación
-- **Cabello:** Corte despejado, fresco, suave (realizado por Eli)
-- **Piel:** Más suave, pecho más sensible y marcado
-- **Cuerpo:** Pecho que parece más lleno, cintura que parece más estrecha
-- **Vestimenta deseada:** Tacones transparentes de 9 pulgadas, ropa femenina brillante
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 30-35 años |
+| **Altura** | 1.78m, postura ansiosa |
+| **Complexión** | Masculina promedio, ligeramente blando |
+| **Rostro** | Angular, tenso, sin maquillaje |
+| **Ojos** | Marrones, preocupados |
+| **Cejas** | Gruesas, sin arreglar |
+| **Labios** | Delgados, secos |
+| **Piel** | Pálida de oficina, sin brillo |
+| **Cabello** | Castaño, corte descuidado, opaco |
+| **Manos** | Masculinas, sin cuidado |
+
+**Vestimenta ANTES:** Camisa de vestir, pantalón de pinzas, zapatos de oficina
+
+---
+
+### Biblia Visual EN TRANSFORMACIÓN
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Cabello** | Corte despejado por Eli, fresco, suave, con brillo |
+| **Piel** | Más suave, luminosa |
+| **Pecho** | Más sensible y marcado bajo la camisa |
+| **Cuerpo** | Cintura aparentemente más estrecha |
+
+**Vestimenta DESEADA (visión interna):**
+- Tacones transparentes de 9 pulgadas (Pleaser)
+- Vestidos brillantes que hacen ver "boba y feliz"
+- Cabello larguísimo
+- Labios ultra brillantes con gloss
+- Pestañas como plumas
 
 ## Psicología
 

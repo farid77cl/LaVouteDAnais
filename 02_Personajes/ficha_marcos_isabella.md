@@ -62,19 +62,45 @@
 
 ## Apariencia Transformada
 
-### Marcos (ex-María)
-- **Físico:** Músculos definidos, torso marcado, hombros anchos, mandíbula con vello
-- **Voz:** Más grave
-- **Comportamiento:** Dominante, directo, ocupa espacio sin pedir permiso
-- **Vestimenta:** Ropa masculina, estilo gym
-- **Rol social:** Acepta ser llamado "Marcos" en el gimnasio
+### Marcos (ex-María) - Biblia Visual
 
-### Isabella (ex-Carlos)
-- **Físico:** Pechos incipientes, cintura marcada, caderas con curva, piel más suave
-- **Voz:** Más clara, menos tensa
-- **Comportamiento:** Sumisa, obediente, busca agradar
-- **Vestimenta:** Lencería (corset, tanga, medias con liga), vestidos, tacones, maquillaje (labios rojos oscuros)
-- **Cuidado personal:** Depilación completa, peluca o cabello peinado femenino, perfume, cremas
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 40-45 años |
+| **Altura** | 1.72m, postura dominante |
+| **Complexión** | Músculos definidos, torso marcado, hombros anchos |
+| **Rostro** | Mandíbula con vello, rasgos más angulares |
+| **Ojos** | Directos, dominantes |
+| **Cejas** | Más gruesas |
+| **Labios** | Sin maquillaje |
+| **Piel** | Más gruesa, menos suave |
+| **Cabello** | Corto, práctico, masculino |
+| **Voz** | Más grave |
+
+**Vestimenta:** Ropa masculina, estilo gym, sin adornos
+
+---
+
+### Isabella (ex-Carlos) - Biblia Visual
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 40-45 años (rejuvenecido por feminización) |
+| **Altura** | 1.78m con tacones |
+| **Complexión** | Pechos incipientes, cintura marcada, caderas con curva |
+| **Rostro** | Suavizado, maquillaje sutil |
+| **Ojos** | Sombra suave, expresión sumisa |
+| **Cejas** | Depiladas, femeninas |
+| **Labios** | Rojos oscuros |
+| **Piel** | Más suave, depilada |
+| **Cabello** | Peluca o peinado femenino |
+| **Manos** | Uñas arregladas |
+
+**Vestimenta:**
+- Lencería: corset, tanga, medias con liga
+- Vestidos femeninos
+- Tacones altos
+- Maquillaje completo
 
 ## Psicología Transformada
 

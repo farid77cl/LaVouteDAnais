@@ -11,53 +11,39 @@
 
 ## Descripción Física
 
-### Apariencia de Bimbo
+### Biblia Visual (para cómics)
 
-**Cuerpo:**
-- Silueta exagerada y artificial
-- Enormes pechos de silicona con anillos de platino en pezones
-- Cintura imposiblemente estrecha
-- Caderas amplias
-- Culo perfecto y prominente
-- Piernas largas y tonificadas
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años |
+| **Altura** | 1.75m + Pleasers de 8 pulgadas |
+| **Complexión** | Exagerada: pechos enormes de silicona, cintura imposible, caderas amplias, culo prominente |
+| **Rostro** | Maquillaje excesivo, expresión de "boba" (cuando actúa) |
+| **Ojos** | Grandes, maquillados exageradamente, pueden volverse fríos |
+| **Cejas** | Perfectamente arqueadas |
+| **Labios** | Rojos brillantes, hinchados |
+| **Piel** | Bronceado spray dorado profundo, brilla artificialmente |
+| **Cabello** | Rubio, voluminoso, perfecto |
+| **Manos** | Uñas largas perfectas |
 
-**Piel:**
-- Bronceado spray perfecto (dorado profundo, sin líneas)
-- "Color que la naturaleza nunca podría crear"
-- Brilla bajo luz artificial
+### Cuerpo Detallado
+- **Pechos:** Silicona con anillos de platino en pezones
+- **Piernas:** Largas, tonificadas
+- **Estómago:** Tableta de chocolate
+- **Ombligo:** Piercing con diamante de imitación
+- **Cintura:** Cadena de oro falso en V hacia el tanga
+- **Espalda baja:** Tatuaje de alas de hada
+- **Vello púbico:** Depilado con precisión quirúrgica
+- **Uñas pies:** Rojo brillante
 
-**Rostro:**
-- Labios rojos brillantes, hinchados
-- Maquillaje excesivo y perfecto
-- Expresión de ingenuidad vacía (cuando actúa)
+### Vestimenta Característica (Galería de Arte)
+- **Vestido:** PVC fluorescente verde lima nuclear
+- **Estilo:** Minidress adherido como pintura, escote profundo
+- **Calzado:** Pleaser Flamingo-808 (8" plataforma transparente, stiletto cromo)
 
-**Cabello:**
-- Rubio (no especificado si platino o dorado)
-- Voluminoso y perfecto
-
-**Vestimenta (Galería de Arte):**
-- Vestido de PVC fluorescente verde lima nuclear
-- Material adherido como pintura
-- Minidress que revela inferior de nalgas
-- Escote profundo mostrando valle entre pechos
-- **Calzado:** Pleaser Flamingo-808
-  - 8 pulgadas de plataforma transparente
-  - Stiletto de cromo afilado como aguja
-
-**Cuerpo Desnudo (Sala Privada):**
-- Tanga de encaje negro (mínimo, casi invisible)
-- Piercing de ombligo con diamante de imitación
-- Cadena de oro falso en cintura (V hacia el tanga)
-- Tatuaje lumbar: alas de hada (diseño genérico)
-- Vello púbico depilado con precisión quirúrgica
-- Uñas de pies: rojo brillante
-- Estómago: tableta de chocolate (horas de gimnasio)
-
-**Características Distintivas:**
-- Cada centímetro es "una mentira hermosa"
-- "Inversión en la fantasía"
-- Perfección obsesiva en cada detalle
-- Cuerpo como arma y disfraz
+### Vestimenta Mínima (Sala Privada)
+- Tanga de encaje negro mínimo
+- Cadena de oro falso en cintura
 
 ---
 

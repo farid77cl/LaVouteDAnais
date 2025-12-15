@@ -13,14 +13,56 @@
 
 ## Transformación
 
-### Física
-- **Piel:** De áspera y con cicatrices a suave como satén, auto-limpiante y perfumada (vainilla)
-- **Cuerpo:** Reconfigurado a proporciones de "reloj de arena" extremo (ratio cintura-cadera 0.6)
-- **Pechos:** Aumentados a copa E, hipersensibles
-- **Caderas y Nalgas:** Ensanchadas, suaves y pesadas
-- **Pies:** Modificados permanentemente para tacones altos (tendones acortados)
-- **Uñas:** Largas, brillantes, inútiles para trabajo manual
-- **Cabello:** Ondas suaves y brillantes
+### Apariencia ANTES (Vera Mecánica)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 30 años |
+| **Altura** | 1.68m, postura encorvada de trabajo manual |
+| **Complexión** | Atlética, musculosa, hombros anchos |
+| **Rostro** | Angular, mandíbula marcada, sin maquillaje |
+| **Ojos** | Marrones oscuros, expresión dura |
+| **Cejas** | Gruesas, sin arreglar |
+| **Labios** | Naturales, agrietados |
+| **Piel** | Bronceada por sol, cicatrices en manos, grasa de motor |
+| **Cabello** | Castaño oscuro, corto, desordenado, práctico |
+| **Manos** | Callosas, uñas rotas, grasa bajo las uñas |
+
+**Vestimenta característica ANTES:**
+- Overol de trabajo azul manchado
+- Camiseta vieja sin forma
+- Botas de seguridad
+- Sin joyas ni accesorios
+
+---
+
+### Apariencia DESPUÉS (Unidad V.E.R.A.)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25 años (rejuvenecida) |
+| **Altura** | 1.75m con tacones permanentes |
+| **Complexión** | Reloj de arena extremo (ratio 0.6), curvas exageradas |
+| **Rostro** | Suavizado, femenino, pómulos rellenos |
+| **Ojos** | Azul claro (cambiados), pestañas largas, sombra rosa |
+| **Cejas** | Finas, arqueadas, perfectas |
+| **Labios** | Llenos, rellenos, siempre rosa brillante |
+| **Piel** | Perfecta como porcelana, auto-limpiante, aroma a vainilla |
+| **Cabello** | Rubio platino, ondas suaves y brillantes, largo hasta cintura |
+| **Manos** | Suaves, uñas largas rosa, inútiles para trabajo |
+
+**Vestimenta característica DESPUÉS:**
+- Vestido estilo años 50 (falda campana, cintura marcada)
+- Delantal de cocina con volantes
+- Tacones altos de aguja (siempre)
+- Collar de perlas
+- Labial rosa perfectamente aplicado
+
+**Cuerpo transformado:**
+- **Pechos:** Copa E, hipersensibles
+- **Caderas/Nalgas:** Ensanchadas, suaves, pesadas
+- **Pies:** Tendones acortados (solo puede usar tacones)
+- **Uñas:** Largas, brillantes, rosa
 
 ### Mental
 - **Proceso:** Gradual (7 días) con "glitches" progresivos

@@ -1,18 +1,50 @@
 # Ficha de Personaje: Alex y Sebastián
 
-## Identidad
+## Identidad y Apariencia
 
 ### Alex
-- **Nombre:** Alex
-- **Edad:** No especificada (adulta joven)
-- **Apariencia Inicial:** Cabello rubio natural en coleta baja sin brillo, jeans sencillos, polera sin forma, postura encogida
-- **Personalidad Inicial:** Invisible, apagada, silenciosa, sumisa de forma destructiva
+
+#### Biblia Visual ANTES (Invisible)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años |
+| **Altura** | 1.65m, postura encogida |
+| **Complexión** | Delgada, sin presencia |
+| **Rostro** | Apagado, sin maquillaje, mirada baja |
+| **Ojos** | Grises o marrones claros, sin brillo |
+| **Labios** | Pálidos, delgados |
+| **Piel** | Sin brillo, sin cuidado |
+| **Cabello** | Rubio natural, coleta baja sin brillo |
+| **Manos** | Sin arreglar |
+
+**Vestimenta ANTES:** Jeans sencillos, polera sin forma, ropa para esconderse
+
+#### Apariencia EN DESPERTAR
+- Ojos que empiezan a brillar
+- Postura que comienza a erguirse
+- Voz más firme
+
+---
 
 ### Sebastián
-- **Nombre:** Sebastián
-- **Edad:** 32 años
-- **Apariencia:** Barba delineada al milímetro, polo ajustado, abdomen trabajado, reloj dorado (probablemente falso)
-- **Personalidad:** Cripto bro arrogante, machista, narcisista, explotador
+
+#### Biblia Visual
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 32 años |
+| **Altura** | 1.80m, postura arrogante |
+| **Complexión** | Atlético, abdomen trabajado |
+| **Rostro** | Arrogante, barba delineada al milímetro |
+| **Ojos** | Oscuros, mirada condescendiente |
+| **Cejas** | Arregladas, masculinas |
+| **Labios** | Sonrisa de vendedor |
+| **Piel** | Bronceada artificial |
+| **Cabello** | Oscuro, peinado con gel, "casual estudiado" |
+| **Manos** | Reloj dorado (probablemente falso) |
+
+**Vestimenta:** Polo ajustado de marca, ropa cara sin gusto, colonia excesiva
 
 ## Relación Inicial
 

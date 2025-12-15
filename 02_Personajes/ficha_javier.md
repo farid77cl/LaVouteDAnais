@@ -25,11 +25,28 @@
 
 ## Apariencia Física
 
-- Alto, atlético pero con principios de barriga cervecera
-- Cabello oscuro, algo despeinado "casual"
-- Sonrisa de vendedor, demasiado blanca
-- Ropa de marca pero sin buen gusto
-- Usa demasiada colonia
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 32 años |
+| **Altura** | 1.85m, postura de "dueño del lugar" |
+| **Complexión** | Atlético pero con barriga cervecera incipiente |
+| **Rostro** | Cuadrado, mandíbula marcada, arrogante |
+| **Ojos** | Marrones, mirada invasiva |
+| **Cejas** | Gruesas, masculinas |
+| **Labios** | Sonrisa de vendedor, dientes demasiado blancos |
+| **Piel** | Bronceada artificial (cama solar) |
+| **Cabello** | Oscuro, despeinado "casual" con gel |
+| **Manos** | Grandes, siempre tocando a alguien |
+
+### Vestimenta Característica
+- **Estilo:** Ropa de marca pero sin gusto
+- **Camisa:** Polo de marca con logo visible
+- **Pantalón:** Chinos ajustados
+- **Calzado:** Mocasines sin calcetines
+- **Accesorios:** Reloj ostentoso, pulsera de cuero
+- **Perfume:** Demasiada colonia cara
 
 ---
 

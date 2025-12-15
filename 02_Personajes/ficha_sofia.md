@@ -124,15 +124,33 @@ Sofía toma la llave del cinturón de castidad de manos de Anaïs y se arrodilla
 
 ## Apariencia Final (Sofía)
 
-- **Cabello:** Peluca bob negro con flequillo recto
-- **Rostro:** Maquillaje dramático, labios rojos, pestañas largas
-- **Cuerpo:** Depilado completamente, piel suave y perfumada
-- **Pecho:** Pechos incipientes realzados por corset
-- **Manos:** Uñas francesas medianas
-- **Orejas:** Aros de plata
-- **Cuello:** Collar de cuero con candado (llave con Anaïs)
-- **Cintura:** Cinturón de castidad (llave con Gustav)
-- **Vestimenta:** Uniforme de mucama
+### Biblia Visual (para cómics)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años (indefinida, feminizada) |
+| **Altura** | 1.70m con tacones vertiginosos |
+| **Complexión** | Estilizada, pechos incipientes realzados por corset |
+| **Rostro** | Maquillaje dramático, pómulos definidos |
+| **Ojos** | Delineado alado, sombras carbón y ocre, iluminador plateado |
+| **Cejas** | Perfiladas con arco femenino |
+| **Labios** | Rojo carmesí, llenos |
+| **Piel** | Depilada, suave, perfumada, brillante porcelana |
+| **Cabello** | Peluca bob negro con flequillo recto |
+| **Manos** | Uñas acrílicas francesas medianas |
+
+### Vestimenta Característica (Uniforme de Mucama)
+- **Uniforme:** Mucama en microfibra satén negro
+- **Interior:** Medias negras, tanga de satén, sujetador push-up, ligas de seda
+- **Corset:** Estructurado, cuero forrado en tafetán
+- **Calzado:** Tacones de charol vertiginosos (10cm+)
+- **Cofia:** Discreta, blanca
+- **Delantal:** Blanco
+
+### Marcas de Propiedad
+- **Cuello:** Collar de cuero negro con argolla plateada, candado cerrado
+- **Cintura:** Cinturón de castidad de acero pulido
+- **Orejas:** Aros de plata en ambas
 
 ## Psicología Transformada
 

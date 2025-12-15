@@ -1,21 +1,47 @@
 # Ficha de Personaje: Belén
 
-## Identidad
-- **Nombre Original:** No revelado
-- **Nombre Transformado:** Belén
-- **Edad:** No especificada (adulta joven)
-- **Apariencia:** Mujer de piel blanca, cabello castaño, ojos verdes, caderas definidas, busto firme
+## Apariencia
 
-## Apariencia Inicial
-- **Personalidad:** Tímida, vergonzosa, ruborizada
-- **Comportamiento:** Insegura, evita ser mirada, se esconde
-- **Autoconcepto:** Mujer que se protege con la timidez
+### Biblia Visual ANTES (Mujer Tímida)
 
-## Apariencia Transformada (Belén)
-- **Labios:** Rojo putón (labial rojo como marca permanente)
-- **Actitud:** Provocadora, descarada, sin vergüenza
-- **Comportamiento:** Exhibicionista, busca ser mirada
-- **Vestimenta:** Tacones altos, uñas largas, abdomen descubierto
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años |
+| **Altura** | 1.65m, postura encogida |
+| **Complexión** | Curvilínea pero oculta bajo ropa holgada |
+| **Rostro** | Ovalado, mejillas que se ruborizan fácil |
+| **Ojos** | Verdes, evitan contacto visual |
+| **Cejas** | Naturales, sin arreglar |
+| **Labios** | Naturales, sin color |
+| **Piel** | Blanca, sonrojada en cuello y mejillas |
+| **Cabello** | Castaño, largo, sin estilo particular |
+| **Manos** | Uñas cortas, sin esmalte |
+
+**Vestimenta ANTES:** Ropa holgada, colores neutros, escotes altos
+
+---
+
+### Biblia Visual DESPUÉS (Belén Provocadora)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años (misma, pero con actitud diferente) |
+| **Altura** | 1.75m con tacones altos |
+| **Complexión** | Curvas exhibidas, caderas definidas, busto firme |
+| **Rostro** | Mismo rostro, pero maquillaje dramático |
+| **Ojos** | Verdes, contacto visual intenso, sombra oscura |
+| **Cejas** | Arqueadas, definidas |
+| **Labios** | ROJOS (labial putón), brillantes, llenos |
+| **Piel** | Blanca, abdomen descubierto con orgullo |
+| **Cabello** | Castaño, peinado con volumen, movimiento |
+| **Manos** | Uñas largas rojas, gestos provocadores |
+
+**Vestimenta DESPUÉS:**
+- Tacones altos (siempre)
+- Abdomen siempre descubierto (crop tops)
+- Faldas o pantalones ajustados
+- Escotes pronunciados
+- Labial rojo putón (marca de Miss Doll)
 
 ## Psicología
 

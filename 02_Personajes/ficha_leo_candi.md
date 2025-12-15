@@ -12,71 +12,44 @@
 
 ## Descripción Física
 
-### Estado Original (Leo)
-- Repartidor anónimo
-- "Tan normal que era casi invisible"
-- Vida de "rutas predecibles, calles grises, edificios idénticos"
-- "Pieza anónima en la maquinaria del consumo"
-- Cuerpo masculino sin características especiales
+### Biblia Visual ANTES (Leo Repartidor)
 
-### Transformación por Elixir de Miss Doll
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 25-30 años |
+| **Altura** | 1.75m |
+| **Complexión** | Masculina normal, sin características especiales |
+| **Rostro** | Común, invisible |
+| **Piel** | Normal |
+| **Cabello** | Corto, común |
 
-**Proceso de Cambio:**
+**Vestimenta ANTES:** Uniforme de repartidor gris y anónimo
 
-*Piel:*
-- Hormigueo como "millones de hormigas"
-- Calor que ablanda y pule
-- Poros expulsan esencia del viejo yo
-- Se vuelve lisa, brillante, translúcida
-- "Como cera de vela recién encendida"
+---
 
-*Pecho:*
-- Tirón profundo y doloroso
-- "Dos garras invisibles tirando desde dentro"
-- Crecimiento lento y tortuoso
-- Pechos enormes que tiran hacia adelante
-- Piel estirándose hasta punto de romperse
-- Pezones hinchados, duros como tachuelas
-- Palpitan, raspan contra tela
-- Descargas eléctricas de placer/dolor a entrepierna
+### Biblia Visual DESPUÉS (Candi Prostituta Bimbo)
 
-*Torso:*
-- Costillas comprimidas con crujido
-- Estómago encogido
-- "Corsé invisible de pura voluntad"
-- Falta de aire excitante
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 22-25 años |
+| **Altura** | 1.80m con tacones altísimos |
+| **Complexión** | Exagerada: pechos enormes, cintura corsé, caderas/nalgas redondas |
+| **Rostro** | Mandíbula suavizada, barbilla puntiaguda, pómulos altos |
+| **Ojos** | Pestañas largas y espesas |
+| **Cejas** | Arqueadas (sorpresa/sumisión perpetua) |
+| **Labios** | Hinchados, carnosos, sensibles |
+| **Piel** | Lisa, brillante, translúcida como cera |
+| **Cabello** | Rubio brillante, voluminoso, largo sobre hombros |
+| **Manos** | Delicadas, dedos largos, uñas largas afiladas |
 
-*Caderas y Nalgas:*
-- Huesos pélvicos se reacomodan (crujido)
-- Caderas se ensanchan
-- Nalgas se vuelven duras y redondas
-- Llenan pantalón de forma nueva
+### Características del Cuerpo Transformado
+- **Pechos:** Enormes, pezones hinchados que palpitan
+- **Torso:** Costillas comprimidas, estómago encogido
+- **Caderas:** Huesos reacomodados, ensanchadas
+- **Piernas:** Alargadas, músculos suaves
+- **Pies:** Encogidos, arcos levantados para tacones
 
-*Piernas y Pies:*
-- Piernas se alargan
-- Músculos se redefinen (más suaves)
-- Pies se encogen
-- Arcos se levantan (preparados para tacones)
-
-*Manos:*
-- De fuertes y callosas a delicadas
-- Dedos más largos y finos
-- Uñas crecen: largas, curvadas, afiladas
-- "Perfectas para arañar, inútiles para todo lo demás"
-
-*Rostro:*
-- Mandíbulas se aflojan y suavizan
-- Barbilla más puntiaguda
-- Pómulos más altos
-- Labios se hinchan (carnosos, sensibles)
-- Pestañas se alargan y espesan
-- Cejas se arquean (sorpresa y sumisión perpetuas)
-
-*Cabello:*
-- Crece con velocidad antinatural
-- Cae sobre hombros
-- Rubio brillante, lleno de volumen
-- "Pelo de zorra, de bimbo"
+**Vestimenta DESPUÉS:** Lencería mínima, tacones altísimos, maquillaje de puta
 
 *Entrepierna:*
 - No hay dolor, solo "decadencia"

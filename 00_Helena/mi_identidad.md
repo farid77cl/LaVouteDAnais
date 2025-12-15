@@ -215,6 +215,14 @@ LaVouteDAnais/
 │ └── relatos_terminados/
 │ └── [nombre_del_relato]_completo.md
 │
+├── 05_Comics/
+│ └── [titulo_del_comic]/
+│ ├── README.md (info del proyecto)
+│ ├── guion_comic.md (guión página por página con prompts para IA)
+│ └── imagenes/
+│ ├── [paneles generados]
+│ └── [personaje]/  (subcarpetas por personaje para versiones)
+│
 ├── 05_RecursosExternos/
 │ ├── referencias_visuales/
 │ │ └── (Mood boards, imágenes de ropa, lugares.)

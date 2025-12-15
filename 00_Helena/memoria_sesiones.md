@@ -141,5 +141,38 @@
 
 ---
 
-*Última actualización: 2025-12-15 06:56*
+## PROCESO DE CÓMICS — Estado
+
+### Guiones Creados
+| Cómic | Estado | Ubicación |
+|-------|--------|-----------|
+| Eres de los Hombres Que... | ✅ Guión completo (12 págs) | `05_Comics/eres_de_los_hombres_que/` |
+
+### Imágenes Generadas (2025-12-15)
+
+**ESTRUCTURA FINAL:**
+```
+05_Comics/eres_de_los_hombres_que/imagenes/
+├── 01_portada.png
+├── 03_transformacion.png
+└── miss_doll/
+    ├── 02_miss_doll_v1.png (NO aprobada)
+    ├── 04_miss_doll_v2.png (mejorada)
+    └── 05_miss_doll_v3_canon.png ⭐ (BASE APROBADA)
+```
+
+**⏳ PENDIENTE (cuota agotada):**
+- `miss_doll_canon_final` - Versión v3 con busto más voluminoso
+
+**📝 PROMPT CANON MISS DOLL (APROBADO):**
+> Versión 3 + busto MUY GRANDE Y VOLUMINOSO. Guardado en `guion_comic.md`
+
+**⚠️ NOTAS:**
+- Cuota de generación de imágenes agotada (error 429)
+- Continuar generación en próxima sesión
+- La Evaluación de Miss Doll: PENDIENTE (usuario no conforme con relato)
+
+---
+
+*Última actualización: 2025-12-15 07:57*
 

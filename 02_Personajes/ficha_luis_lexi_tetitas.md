@@ -12,34 +12,46 @@
 
 ## Descripción Física
 
-### Estado Original (Luis)
-- Hombre casado, 10 años de matrimonio
-- Cuerpo masculino normal
-- Pecho plano con pectorales definidos
-- Aspecto convencional y correcto
+### Biblia Visual ANTES (Luis Esposo)
 
-### Transformación Gradual (por Carmen)
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35-40 años |
+| **Altura** | 1.78m |
+| **Complexión** | Masculina normal, pecho plano con pectorales |
+| **Rostro** | Convencional, serio |
+| **Ojos** | Contenidos |
+| **Piel** | Normal masculina |
+| **Cabello** | Corto, convencional |
 
-**Cambios Físicos Implantados:**
-- **Piel:** Completamente depilada, suave y pulida
-- **Pecho:** Sensibilidad extrema en pezones, sensación fantasma de pechos grandes
-- **Uñas:** Largas, francesas, brillantes
-- **Cejas:** Perfiladas, arco limpio, look andrógino-femenino
-- **Pelo:** Más largo, corte andrógino, raya al costado
-- **Cuerpo:** Postura feminizada, gestos suaves
+**Vestimenta ANTES:** Ropa masculina corriente
 
-**Vestimenta Transformada:**
-- Bralette de encaje (puntilla rosa flúor, sin aro, tirantes delicados)
-- Tanga de encaje (raso rojo, hilo fino)
+---
+
+### Biblia Visual DESPUÉS (Lexi Feminizado)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35-40 años (misma, pero aspecto andrógino) |
+| **Altura** | 1.78m |
+| **Complexión** | Feminizada, piel suave, gestos delicados |
+| **Rostro** | Andrógino-femenino, rasgos suavizados |
+| **Ojos** | Más expresivos |
+| **Cejas** | Perfiladas, arco limpio |
+| **Labios** | Con gloss sutil |
+| **Piel** | Completamente depilada, suave, pulida |
+| **Cabello** | Más largo, corte andrógino, raya al costado |
+| **Manos** | Uñas largas francesas brillantes |
+
+**Vestimenta DESPUÉS:**
+- Bralette de encaje (puntilla rosa flúor)
+- Tanga de encaje (raso rojo)
 - Lencería femenina completa
-- Conjunto negro y rojo de seda al final
+- Perfume dulce
 
-**Características Distintivas:**
+### Características Distintivas
 - Pezones extremadamente sensibles (centro de placer)
-- Piel depilada con crema corporal diaria
-- Perfume dulce (regalo de Carmen)
-- Uñas impecables con top coat
-- Gestos femeninos naturalizados
+- Sensación fantasma de pechos grandes
 
 ---
 

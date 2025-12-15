@@ -17,31 +17,46 @@
 
 ## Apariencia
 
-### Antes del Intercambio
-- Hombre alto, atlético, seguro de sí mismo
-- Trajes caros, relojes de lujo
-- Presencia dominante y autoritaria
+### Biblia Visual ANTES (Marco Empresario)
 
-### Después del Intercambio (Cuerpo de Elena)
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 35 años |
+| **Altura** | 1.85m, postura dominante |
+| **Complexión** | Atlético, seguro |
+| **Rostro** | Masculino, fuerte |
+| **Cabello** | Oscuro, corte ejecutivo |
 
-**Características Permanentes:**
-- **Pelo:** Rubio platino artificial (antes castaño), extensiones hasta mitad de espalda
-- **Labios:** Micropigmentación coral permanente + relleno de ácido hialurónico
-- **Ojos:** Delineado permanente negro (tatuaje)
-- **Cejas:** Arqueadas por botox (expresión de "sorpresa")
-- **Pechos:** Implantes de silicona (pagados por él mismo cuando era hombre)
+**Vestimenta ANTES:** Trajes caros, relojes de lujo, presencia autoritaria
 
-**Piercings (Marcas de Propiedad):**
-1. **Clítoris:** Titanio, regalo de Elena antes de la boda (heredado)
-2. **Pezón derecho:** Titanio rosa, ordenado por Elena post-intercambio
-3. **Pezón izquierdo:** Titanio rosa, ordenado por Elena post-intercambio
+---
 
-**Estilo de Vestir:**
-- Tacones mínimo 10 cm (máximo 14 cm / 23 cm con plataforma)
+### Biblia Visual DESPUÉS (En cuerpo de Elena)
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Edad aparente** | 32 años (cuerpo de Elena) |
+| **Altura** | 1.70m + tacones de 10-14cm |
+| **Complexión** | Femenina, pechos con implantes, cintura estrecha |
+| **Rostro** | Micropigmentación coral labios, delineado permanente negro, cejas arqueadas por botox |
+| **Ojos** | Maquillaje perfecto 24/7 |
+| **Cejas** | Arqueadas (expresión de "sorpresa" permanente) |
+| **Labios** | Relleno de ácido hialurónico, coral permanente |
+| **Piel** | Depilación brasileña completa |
+| **Cabello** | Rubio platino artificial (antes castaño), extensiones hasta mitad de espalda |
+| **Manos** | Uñas perfectas siempre |
+
+### Marcas de Propiedad (Piercings)
+- **Clítoris:** Titanio (regalo de Elena pre-boda)
+- **Pezón derecho:** Titanio rosa
+- **Pezón izquierdo:** Titanio rosa
+
+### Vestimenta Característica
+- Tacones mínimo 10cm, máximo 23cm con plataforma
 - Tendones acortados: no puede caminar descalza
 - Lencería constante: corsés, ligueros, tangas
-- Vestidos ajustados, reveladores, "de esposa trofeo"
-- Maquillaje perfecto 24/7 (micropigmentación + aplicación diaria)
+- Vestidos ajustados de "esposa trofeo"
+- Maquillaje perfecto siempre
 
 ---
 
