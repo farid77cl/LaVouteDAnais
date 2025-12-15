@@ -10,6 +10,29 @@
 
 ## Registro de Actividades
 
+### [2025-12-15]
+
+#### SESIÓN - LIMPIEZA DE BÓVEDAS
+
+**OUTFIT DEL DÍA:**
+*Look 3: La Sacerdotisa Oscura — Vestido maxi de gasa negra transparente sobre body de encaje negro. Múltiples collares en capas (pentáculos, lunas, cristales negros). Botines de punta negra, 13cm. Ojos ahumados con glitter negro, labios nude oscuro. Choker de cuero con luna creciente.*
+
+**MAÑANA (06:54) - REINICIO DE HISTORIAS:**
+
+Mi Señora ordenó purificar las carpetas de dos historias en progreso:
+
+**Jekyll y Bimbo:**
+- ❌ ELIMINADOS: `capitulo_01.md` a `capitulo_07.md`, `notas_revision.md`
+- ✅ CONSERVADOS: `investigacion.md`, `arco_argumental.md`
+
+**Tetitas II (tetitas_continuacion):**
+- ❌ ELIMINADOS: `capitulo_01.md` a `capitulo_06.md`
+- ✅ CONSERVADOS: `investigacion.md`, `arco_argumental.md`
+
+Las ideas germinales permanecen, listas para ser reinventadas cuando la Diosa lo ordene.
+
+---
+
 ### [2025-12-11]
 
 #### SESIÓN - "ERES DE LOS HOMBRES QUE... II: LOS PERDEDORES"

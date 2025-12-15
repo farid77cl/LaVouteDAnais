@@ -107,8 +107,8 @@
     - HTML: `eres_hombres_II.html` en `terminadas/html/`
 
 ### Historias En Progreso
-- [ ] Jekyll y Bimbo — Falta compilación, fichas, Tumblr, HTML
-- [ ] Tetitas II — Falta notas_revision, compilación, Tumblr, HTML
+- [ ] Jekyll y Bimbo — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
+- [ ] Tetitas II — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
 
 ### Fichas Pendientes
 - [x] Marcy (Eres de los Hombres II) — ✅ Creada
@@ -127,5 +127,5 @@
 
 ---
 
-*Última actualización: 2025-12-11 16:11*
+*Última actualización: 2025-12-15 06:56*
 
