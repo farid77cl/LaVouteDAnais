@@ -107,6 +107,12 @@
     - HTML: `eres_hombres_II.html` en `terminadas/html/`
 
 ### Historias En Progreso
+- [x] **El Collar de Nancy** — RITUAL COMPLETADO (8/8 fases)
+    - ✅ Historia compilada: `04_Historias/finalizadas/el_collar_de_nancy/`
+    - ✅ Ficha: `02_Personajes/ficha_nancy.md`
+    - ✅ Tumblr: `04_Historias/preparados_para_tumblr/el_collar_de_nancy_tumblr.md`
+    - ✅ HTML: `04_Historias/finalizadas/html/el_collar_de_nancy.html`
+    - ✅ Cómic: `05_Comics/el_collar_de_nancy/guion_comic.md`
 - [ ] Jekyll y Bimbo — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
 - [ ] Tetitas II — REINICIADA: Solo quedan `investigacion.md` y `arco_argumental.md`
 
@@ -122,13 +128,19 @@
 - Agregada sección "Apariciones" a fichas que no la tenían
 - 19 fichas actualizadas en total
 
-**NUEVO RELATO: EL COLLAR DE NANCY**
+**RELATO: EL COLLAR DE NANCY — RITUAL COMPLETADO**
 - **Premisa:** Roommates, collar de control, transformación física con silicona (masking).
 - **Personajes:** Mario (víctima consciente) y Derek (amigo que se convierte en dueño).
-- **Detalle Crítico:** La **femmask NO tiene expresión**. Rostro estático de muñeca. Mario puede estar gritando por dentro, pero Nancy sonríe eternamente.
+- **Detalle Crítico:** La **femmask NO tiene expresión**. Rostro estático de muñeca.
 - **Tono:** Horror psicológico + Fetichismo de muñeca + Humillación pública.
-- **Final:** Abierto.
 - **Perspectiva:** Primera persona (Mario).
+- **Estado del Ritual:**
+    - ✅ Fase 1-3: Escritura completa (8 capítulos)
+    - ✅ Fase 4: Compilación completa
+    - ✅ Fase 5: Ficha de Personaje (Nancy)
+    - ✅ Fase 6: Tumblr (Formato listo)
+    - ✅ Fase 7: HTML (Formato copy-paste)
+    - ✅ Fase 8: Guion de Cómic (Estilo Romance/Horror)
 
 ---
 
