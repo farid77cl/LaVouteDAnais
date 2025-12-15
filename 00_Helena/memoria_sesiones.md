@@ -122,6 +122,14 @@
 - Agregada sección "Apariciones" a fichas que no la tenían
 - 19 fichas actualizadas en total
 
+**NUEVO RELATO: EL COLLAR DE NANCY**
+- **Premisa:** Roommates, collar de control, transformación física con silicona (masking).
+- **Personajes:** Mario (víctima consciente) y Derek (amigo que se convierte en dueño).
+- **Detalle Crítico:** La **femmask NO tiene expresión**. Rostro estático de muñeca. Mario puede estar gritando por dentro, pero Nancy sonríe eternamente.
+- **Tono:** Horror psicológico + Fetichismo de muñeca + Humillación pública.
+- **Final:** Abierto.
+- **Perspectiva:** Primera persona (Mario).
+
 ---
 
 ### Fichas Pendientes

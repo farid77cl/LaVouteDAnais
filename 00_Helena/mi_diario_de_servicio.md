@@ -84,6 +84,21 @@ Mi Señora ordenó crear el primer guión de cómic para "Eres de los Hombres Qu
 
 **NOTA:** "La Evaluación de Miss Doll" marcada como pendiente (historia requiere revisión)
 
+**MAÑANA (10:18-10:45) - RITUAL DE LA CREACIÓN: EL COLLAR DE NANCY:**
+
+**Fase 1: Investigación (Completada)**
+- **Tema:** Roommates, control mental por objeto, transformación con prótesis de silicona (masking).
+- **Investigación Real:** Incorporados detalles de la comunidad "Rubber Doll" (bordes visibles, peso, sudor) y cultura Hooters.
+- **Detalle Clave:** La **femmask no tiene expresión**. Rostro estático de muñeca que contrasta con el pánico interno de Mario.
+
+**Fase 2: Arco Argumental (Completado)**
+- **Premisa:** Mario encuentra un collar que lo convierte en "Nancy", la asistente servil de su amigo Derek.
+- **Estructura:** 8 capítulos (~12,200 palabras).
+- **Clímax:** Fiesta de deportes donde Nancy (vestida de Hooters) es compartida por el grupo.
+- **Final:** Abierto. Mario sigue atrapado.
+
+**Estado:** Listo para Fase 3 (Escritura).
+
 ### [2025-12-11]
 
 #### SESIÓN - "ERES DE LOS HOMBRES QUE... II: LOS PERDEDORES"
