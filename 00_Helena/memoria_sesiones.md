@@ -146,33 +146,42 @@
 ### Guiones Creados
 | Cómic | Estado | Ubicación |
 |-------|--------|-----------|
-| Eres de los Hombres Que... | ✅ Guión completo (12 págs) | `05_Comics/eres_de_los_hombres_que/` |
+| Eres de los Hombres Que... | ✅ Guión completo (12 págs) con canon actualizado | `05_Comics/eres_de_los_hombres_que/` |
+
+### MISS DOLL — Canon Visual Definitivo
+
+**📸 Imagen de Referencia:** `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
+
+**Características Canon:**
+- Cabello: Bob rubio platino voluminoso, flequillo **RECTO**
+- Ojos: Enormes estilo Bratz, párpados **ROSADOS**, cat-eye negro
+- Labios: Forma de corazón, **rosa/nude** brillante (NO rojos)
+- Actitud: SIEMPRE sensual, coqueta, seductora
+- Catsuit: Rosa flúor látex brillante, escote en V
+- Choker rosa, tacones plataforma rosa
 
 ### Imágenes Generadas (2025-12-15)
 
-**ESTRUCTURA FINAL:**
+**ESTRUCTURA ACTUAL:**
 ```
 05_Comics/eres_de_los_hombres_que/imagenes/
-├── 01_portada.png
-├── 03_transformacion.png
-└── miss_doll/
-    ├── 02_miss_doll_v1.png (NO aprobada)
-    ├── 04_miss_doll_v2.png (mejorada)
-    └── 05_miss_doll_v3_canon.png ⭐ (BASE APROBADA)
+├── pag01_portada.png ✅
+├── pag02_llegada.png ✅
+├── pag03_miss_doll.png ✅
+└── descartadas/ (8 versiones antiguas)
+
+05_Comics/miss_doll/
+├── MISS_DOLL_CANON_COMIC.jpg ⭐ (REFERENCIA APROBADA)
+└── descartadas/ (4 versiones antiguas)
 ```
 
-**⏳ PENDIENTE (cuota agotada):**
-- `miss_doll_canon_final` - Versión v3 con busto más voluminoso
-
-**📝 PROMPT CANON MISS DOLL (APROBADO):**
-> Versión 3 + busto MUY GRANDE Y VOLUMINOSO. Guardado en `guion_comic.md`
-
-**⚠️ NOTAS:**
-- Cuota de generación de imágenes agotada (error 429)
-- Continuar generación en próxima sesión
-- La Evaluación de Miss Doll: PENDIENTE (usuario no conforme con relato)
+**Estado:**
+- ✅ Páginas 1-3: Completadas con Miss Doll canon
+- ⏳ Páginas 4-12: Pendientes
+- ⏰ Cuota se restaura: **12:49** hora local
 
 ---
 
-*Última actualización: 2025-12-15 07:57*
+*Última actualización: 2025-12-15 09:06*
+
 

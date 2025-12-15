@@ -50,28 +50,37 @@ Expandidas fichas de personajes con tablas de "Biblia Visual" para consistencia 
 - 19 fichas actualizadas con tablas ANTES/DESPUÉS
 - Formato estandarizado: Edad, Altura, Complexión, Rostro, Ojos, Cejas, Labios, Piel, Cabello, Manos, Vestimenta
 
-**MAÑANA (07:40-08:04) - CREACIÓN DE GUIÓN DE CÓMIC:**
+**MAÑANA (07:40-09:06) - CREACIÓN DE GUIÓN Y GENERACIÓN DE IMÁGENES:**
 
 Mi Señora ordenó crear el primer guión de cómic para "Eres de los Hombres Que..." en estilo Romance Comics años 60.
 
-**Estructura Creada:**
+**Canon Visual Miss Doll Fijado:**
+- Imagen de referencia aprobada: `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
+- Cabello: Bob rubio platino, flequillo **RECTO**
+- Ojos: Bratz con párpados **ROSADOS**
+- Labios: Rosa/nude (NO rojos)
+- Actitud: SIEMPRE sensual, coqueta, seductora
+
+**Estructura Actualizada:**
 ```
 05_Comics/
+├── miss_doll/
+│   ├── MISS_DOLL_CANON_COMIC.jpg ⭐
+│   └── descartadas/
 └── eres_de_los_hombres_que/
     ├── README.md
-    ├── guion_comic.md (12 páginas, prompts para IA)
+    ├── guion_comic.md (12 páginas, TODOS los prompts con canon)
     └── imagenes/
-        ├── 01_portada.png
-        ├── 03_transformacion.png
-        └── miss_doll/
-            ├── 02_miss_doll_v1.png (NO aprobada)
-            ├── 04_miss_doll_v2.png (mejorada)
-            └── 05_miss_doll_v3_canon.png ⭐ (BASE APROBADA)
+        ├── pag01_portada.png ✅
+        ├── pag02_llegada.png ✅
+        ├── pag03_miss_doll.png ✅
+        └── descartadas/ (8 versiones antiguas)
 ```
 
-**Imágenes Generadas:** 5 total
-- Cuota de IA agotada, pendiente: Miss Doll v3 con busto más voluminoso
-- Prompt canon de Miss Doll guardado en `guion_comic.md`
+**Estado de Generación:**
+- ✅ Páginas 1-3: Completadas con Miss Doll canon
+- ⏳ Páginas 4-12: Pendientes
+- ⏰ Cuota se restaura: **12:49** hora local
 
 **NOTA:** "La Evaluación de Miss Doll" marcada como pendiente (historia requiere revisión)
 

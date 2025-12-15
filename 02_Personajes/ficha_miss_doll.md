@@ -17,6 +17,42 @@
 
 ## Descripción Física
 
+### 🎨 BIBLIA VISUAL PARA CÓMIC (CANON DEFINITIVO)
+
+> **Referencia Visual:** `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
+
+#### Prompt Definitivo para IA (usar SIEMPRE)
+
+```
+Estilo cómic romance años 60, textura halftone puntos Ben-Day. Miss Doll: mujer con apariencia de muñeca viviente. Cabello bob rubio platino voluminoso con flequillo recto. Ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados. Cejas altas arqueadas. Labios forma de corazón color rosa/nude brillante. Expresión coqueta y seductora. Piel rosada artificial sin poros, textura plástica. Figura de reloj de arena: busto grande y redondeado, cintura muy estrecha, caderas curvilíneas. Vistiendo catsuit rosa flúor látex brillante ajustado que cubre todo el cuerpo (escote en V), choker rosa. Tacones plataforma rosa altísimos. Pose elegante y sensual. Fondo con textura halftone rosa pastel y crema. Líneas negras limpias estilo cómic vintage. Paleta monocromo rosa.
+```
+
+#### Tabla de Referencia Visual
+
+| Elemento | Descripción Canon para Cómic |
+|----------|------------------------------|
+| **Estilo** | Cómic romance años 60, halftone Ben-Day dots |
+| **Cabello** | Bob rubio platino voluminoso, flequillo recto, brillo artificial |
+| **Ojos** | Enormes estilo Bratz, pestañas largas, cat-eye negro, párpados rosados |
+| **Cejas** | Altas, arqueadas, finas |
+| **Labios** | Forma de corazón, rosa/nude brillante, pequeña sonrisa coqueta |
+| **Piel** | Rosada artificial, textura plástica, sin poros |
+| **Busto** | Grande y redondeado, enfatizado por catsuit |
+| **Cintura** | Muy estrecha, proporción exagerada |
+| **Caderas** | Curvilíneas, silueta de reloj de arena |
+| **Vestimenta** | Catsuit rosa flúor látex brillante, escote en V |
+| **Cuello** | Choker rosa liso |
+| **Calzado** | Tacones plataforma rosa altísimos |
+| **Paleta** | Monocromo rosa (flúor, pastel, crema) |
+| **Fondo** | Textura halftone rosa pastel y crema |
+
+#### ⚠️ Reglas de Consistencia
+
+1. **SIEMPRE usar el prompt completo** en cualquier panel donde aparezca Miss Doll
+2. **NO simplificar** la descripción en prompts de páginas
+3. **Verificar visualmente** que coincida con la referencia antes de aprobar
+4. **Mantener paleta monocromo rosa** en todos los elementos
+
 ### Silueta y Proporciones
 
 Miss Doll adopta una **silueta de reloj de arena hiperbólica** que desafía la anatomía humana:

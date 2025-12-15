@@ -19,25 +19,31 @@
 
 ## BIBLIA VISUAL DE PERSONAJES
 
-### MISS DOLL (Catalizadora) — PROMPT CANON APROBADO
+### MISS DOLL (Catalizadora) — CANON VISUAL DEFINITIVO
 
-> **PROMPT CANON PARA IA (usar en todas las páginas donde aparezca Miss Doll):**
+> **Referencia Visual:** `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
+> 
+> **PROMPT CANON PARA IA (usar SIEMPRE en TODOS los paneles donde aparezca):**
 > 
 > ```
-> Vintage 1960s romance comic book illustration style with halftone dots. Character: Miss Doll - hypnotic dominatrix. Platinum blonde bob haircut with asymmetric bangs (shorter on sides, longer in center). Impossibly perfect hourglass figure with VERY LARGE VOLUMINOUS BUST (exaggerated XL breasts), extremely narrow waist, wide hips - exaggerated proportions like a living doll. Plastic-looking flawless skin with artificial shine, no pores visible like silicone. Large doll-like eyes with heavy cat-eye makeup, extremely arched brows (almost inhuman), glossy red heart-shaped lips always wet and shiny. Wearing skin-tight hot pink/fuchsia latex catsuit covering her body that emphasizes her massive bust, very high platform stiletto heels (16-18cm). Extra long pink stiletto fingernails (XXXL). Pink choker on neck. Everything is monochrome pink palette. Expression: seductive, knowing smile, commanding gaze. She looks like a Bratz doll come to life with huge breasts. Retro comic art style with clean black outlines, Ben-Day dots for shading, pastel and hot pink colors. Glamorous and slightly unsettling beauty.
+> MISS DOLL: mujer con apariencia de muñeca viviente sensual. Cabello bob rubio platino voluminoso con flequillo recto. Ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados. Cejas altas arqueadas. Labios forma de corazón color rosa/nude brillante, expresión coqueta y seductora. Piel rosada artificial sin poros, textura plástica brillante. Figura de reloj de arena: busto grande y redondeado, cintura muy estrecha, caderas curvilíneas. Catsuit rosa flúor látex brillante ajustado que cubre todo el cuerpo (escote en V), choker rosa. Tacones plataforma rosa altísimos. Poses sensuales y elegantes. Paleta monocromo rosa.
 > ```
 
-| Aspecto | Descripción Canon |
-|---------|-------------------|
-| **Rostro** | Estilo "Bratz Realista": ojos enormes con cat-eye dramático, cejas muy altas y arqueadas (casi inhumanas), labios rojos de vinilo en forma de corazón siempre húmedos y brillantes |
-| **Cabello** | Bob rubio platino con chasquilla asimétrica (más corta en laterales, más larga al centro), brillo artificial perfecto |
-| **Cuerpo** | Silueta de reloj de arena hiperbólica: **BUSTO MUY GRANDE Y VOLUMINOSO (XL exagerado)**, cintura imposiblemente estrecha (reducción 25-30%), caderas amplificadas |
-| **Piel** | Textura plástica tipo silicona, sin poros visibles, semi-gloss controlado |
-| **Vestimenta** | Catsuit látex rosa flúor con guantes integrados, monocromo rosa siempre |
-| **Calzado** | Pumps de plataforma rosa (tacón 16-18cm) |
-| **Uñas** | XXXL stiletto baby-pink gloss |
-| **Accesorios** | Choker rosa liso sin adornos |
-| **Expresiones** | Sonrisa seductora y enigmática, mirada dominante que ordena sin palabras |
+| Elemento | Descripción Canon |
+|----------|-------------------|
+| **Cabello** | Bob rubio platino voluminoso, flequillo RECTO, brillo artificial |
+| **Ojos** | Enormes estilo Bratz, pestañas largas, cat-eye negro, párpados rosados |
+| **Cejas** | Altas, arqueadas, finas |
+| **Labios** | Forma de corazón, rosa/nude brillante, sonrisa coqueta sensual |
+| **Piel** | Rosada artificial, textura plástica, sin poros, brillante |
+| **Busto** | Grande y redondeado, enfatizado por catsuit |
+| **Cintura** | Muy estrecha, proporción exagerada |
+| **Caderas** | Curvilíneas, silueta de reloj de arena |
+| **Vestimenta** | Catsuit rosa flúor látex brillante, escote en V |
+| **Cuello** | Choker rosa liso |
+| **Calzado** | Tacones plataforma rosa altísimos |
+| **Actitud** | SIEMPRE sensual, seductora, coqueta |
+| **Paleta** | Monocromo rosa (flúor, pastel, crema) |
 
 ### PROTAGONISTA (Antes: Ejecutivo / Después: Lexi)
 
@@ -89,7 +95,7 @@
 
 **PROMPT VISUAL:**
 ```
-1960s romance comic book cover, vintage illustration style, halftone dots texture, pastel colors with hot pink accents. Title "ERES DE LOS HOMBRES QUE..." in dramatic hand-lettered font at top. Central image: glamorous platinum blonde woman in elegant hot pink dress (Miss Doll) standing over seated nervous businessman in gray suit. She holds a perfume bottle that emits swirling pink mist. His reflection in a mirror behind them shows a more feminine version of himself with longer hair and softer features. Background: geometric patterns in pink and cream. Starbursts and hearts around the edges. Bottom text: "Una Historia de Imagen Ejecutiva". Professional comic illustration, clean lines, vintage 1960s aesthetic.
+Portada de cómic romance años 60, textura halftone puntos Ben-Day, colores rosa pastel y crema. Título superior "ERES DE LOS HOMBRES QUE..." en fuente dramática hand-lettered. MISS DOLL (canon): cabello bob rubio platino voluminoso con flequillo recto, ojos enormes Bratz con pestañas largas y cat-eye negro, párpados rosados, cejas altas arqueadas, labios forma de corazón rosa brillante, expresión sensual coqueta, piel rosada artificial brillante, catsuit rosa flúor látex brillante escote en V, choker rosa, tacones plataforma rosa altísimos, pose sensual. Ella de pie sobre hombre de negocios nervioso sentado en traje gris. Sostiene frasco de perfume emitiendo niebla rosa. Espejo detrás mostrando reflejo más femenino de él. Fondo: patrones geométricos rosa y crema. Destellos y corazones en bordes. Texto inferior: "Una Historia de Imagen Ejecutiva". Líneas negras limpias.
 ```
 
 **TEXTO DE PORTADA:**
@@ -103,20 +109,20 @@
 
 **PANEL 1 (1/3 superior - establecimiento):**
 ```
-1960s romance comic style, halftone texture, pastel colors. Wide shot of elegant hotel conference room with crystal chandeliers, plush carpet, chairs arranged in rows. Sign reads "IMAGEN EJECUTIVA". Empty room, morning light through tall windows. Vintage illustration, clean lines, 1960s aesthetic.
+Estilo cómic romance años 60, textura halftone, colores rosa pastel. Plano general de elegante salón de conferencias de hotel con candelabros de cristal, alfombra mullida, sillas en filas. Letrero "IMAGEN EJECUTIVA". Sala vacía, luz matutina por ventanas altas. Ilustración vintage, líneas limpias.
 ```
 - **NARRACIÓN (caja rectangular arriba):** "Hotel Excelsior. Salón de Conferencias. Un taller de 'Imagen Ejecutiva' que cambiaría todo..."
 
 **PANEL 2 (1/3 medio - protagonista):**
 ```
-1960s romance comic style, halftone texture. Medium shot of nervous businessman in his 30s, dark gray suit, conservative tie, dark circles under eyes, tense posture. He sits at edge of chair in third row, clutching a golden-edged notebook. Conference room background. Worried expression. Vintage illustration style, clean lines.
+Estilo cómic romance años 60, textura halftone. Plano medio de hombre de negocios nervioso de unos 30 años, traje gris oscuro, corbata conservadora, ojeras, postura tensa. Sentado al borde de silla en tercera fila, aferrando libreta con bordes dorados. Expresión preocupada. Ilustración vintage, líneas limpias.
 ```
 - **PENSAMIENTO (burbuja de nube):** "Mi jefe me envió aquí. Dijo que me falta 'presencia'. Que mi voz tiembla. Que necesito ser más... complaciente."
 - **NARRACIÓN:** "Tercer año consecutivo sin ascenso. Mañana, la presentación más importante de su carrera."
 
 **PANEL 3 (1/3 inferior - la entrada):**
 ```
-1960s romance comic style, halftone texture, dramatic lighting. Door of conference room opening with dramatic light streaming in. Silhouette of glamorous woman with hourglass figure, high heels visible, perfume mist swirling around her. Starbursts and sparkle effects. Pastel background with hot pink accents. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone, iluminación dramática. Puerta del salón abriéndose con luz dramática entrando. Silueta de mujer glamurosa con figura de reloj de arena exagerada, tacones plataforma visibles, niebla de perfume rosa arremolinándose. Efectos de destellos y brillos. Fondo rosa pastel con acentos rosa flúor. Ilustración vintage, líneas limpias.
 ```
 - **EFECTO SONORO:** "CLICK CLICK CLICK"
 - **NARRACIÓN:** "Y entonces... ELLA entró."
@@ -125,23 +131,23 @@
 
 ### PÁGINA 3: MISS DOLL SE PRESENTA
 
-**PANEL 1 (mitad superior - gran entrada):**
+**PANEL 1 (mitad superior - gran entrada sensual):**
 ```
-1960s romance comic style, halftone texture, dramatic reveal. Full body shot of Miss Doll: platinum blonde hair in voluminous 1960s style, elegant hot pink fitted dress (not revealing), very high stiletto heels, perfect hourglass figure. She stands at front of room with confident pose, one hand on hip. Pearl necklace, long gloves. Starbursts around her. Background: conference room. Vintage illustration, clean lines, glamorous.
+Estilo cómic romance años 60, textura halftone, revelación dramática. Plano cuerpo completo de MISS DOLL (canon): cabello bob rubio platino voluminoso con flequillo recto, ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados, cejas altas arqueadas, labios forma de corazón rosa brillante, expresión sensual coqueta seductora, piel rosada artificial sin poros brillante, figura de reloj de arena (busto grande redondeado, cintura muy estrecha, caderas curvilíneas), catsuit rosa flúor látex brillante ajustado escote en V, choker rosa, tacones plataforma rosa altísimos. Pose sensual confiada, mano en cadera, inclinación coqueta. Destellos de estrellas alrededor. Fondo: salón de conferencias. Líneas negras limpias, paleta monocromo rosa.
 ```
 - **NARRACIÓN:** "Miss Doll. Asesora de Imagen Ejecutiva. Y algo más que nadie podía nombrar..."
 - **MISS DOLL:** "Buenos días, querido. Vamos a trabajar en tu... potencial."
 
 **PANEL 2 (cuarto inferior izquierdo - reacción):**
 ```
-1960s romance comic style, close-up of businessman's face, wide eyes, slightly open mouth, sweat drop on forehead, blushing cheeks. Starbursts in his eyes showing attraction/confusion. Halftone dots on cheeks for blush effect. Vintage illustration style.
+Estilo cómic romance años 60. Primer plano del rostro del hombre de negocios, ojos muy abiertos, boca ligeramente abierta, gota de sudor en la frente, mejillas sonrojadas. Destellos de estrellas en sus ojos mostrando atracción/confusión. Puntos halftone en mejillas para efecto de rubor. Ilustración estilo vintage.
 ```
 - **PENSAMIENTO:** "No puedo... apartar la mirada..."
 - **EFECTO:** Corazones pequeños flotando
 
-**PANEL 3 (cuarto inferior derecho - acercamiento):**
+**PANEL 3 (cuarto inferior derecho - acercamiento sensual):**
 ```
-1960s romance comic style, halftone texture. Medium shot of Miss Doll leaning toward the seated businessman, her gloved hand touching his shoulder. Her perfume visualized as swirling pink mist. His posture stiffening. Intimate but not inappropriate. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Plano medio de MISS DOLL (canon: bob platino flequillo recto, ojos Bratz párpados rosados, labios rosa corazón, catsuit rosa látex, sensual) inclinándose hacia el hombre sentado, su mano tocando el hombro de él. Su perfume visualizado como niebla rosa arremolinándose. Postura sensual provocativa pero elegante. Él rígido, fascinado. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Respira conmigo. Uno... dos... tres. Vamos a limpiar el ruido."
 - **EFECTO SONORO (pequeño):** "shhh..."
@@ -152,21 +158,21 @@
 
 **PANEL 1 (tercio superior):**
 ```
-1960s romance comic style, halftone texture. Two-shot: Miss Doll standing elegantly next to seated businessman. She has placed two gloved fingers on his chest (over heart). He looks up at her with confusion and fascination. Pink mist swirling between them. Conference room background. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Two-shot: MISS DOLL (canon: bob platino flequillo recto, ojos Bratz párpados rosados, labios rosa, catsuit rosa látex brillante, sensual) de pie elegantemente junto al hombre sentado. Ella ha colocado dos dedos sobre su pecho (sobre el corazón). Pose sensual, inclinación coqueta. Él mira hacia arriba con confusión y fascinación. Niebla rosa arremolinándose entre ellos. Fondo salón de conferencias. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Cuéntame sobre ti. ¿A qué hora te levantas? ¿Café o té? ¿Cómo son tus mañanas?"
 - **PROTAGONISTA:** "Madrugo... en silencio... no despierto a nadie..."
 
 **PANEL 2 (tercio medio - revelación):**
 ```
-1960s romance comic style, halftone texture. Close-up of Miss Doll's face in profile, mysterious smile, half-lidded eyes, speaking. Pink sparkles around her lips. Dramatic lighting. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Primer plano del rostro de MISS DOLL (canon: bob platino flequillo recto, ojos enormes Bratz párpados rosados, labios forma corazón rosa brillante) en perfil, sonrisa misteriosa sensual, ojos entrecerrados seductores, hablando. Brillos rosa alrededor de sus labios. Iluminación dramática. Ilustración estilo vintage.
 ```
 - **MISS DOLL:** "Ah... Eres de los hombres que se sientan por la mañana... y disfrutan las cosas femeninas."
 - **EFECTO:** Palabras en rosa flúor con destellos
 
 **PANEL 3 (tercio inferior - transformación mental):**
 ```
-1960s romance comic style, halftone texture. Split panel showing businessman's face on left (confused, blushing) and thought bubble on right showing abstract images: a bathroom at dawn, soft towels, gentle routines. Pastel pink tones dominating the thought bubble. Swirl effect between reality and thought. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Panel dividido mostrando: izquierda - rostro del hombre (confundido, sonrojado), derecha - burbuja de pensamiento con imágenes abstractas: baño al amanecer, toallas suaves, rutinas delicadas. Tonos rosa pastel dominando la burbuja. Efecto de remolino entre realidad y pensamiento. Ilustración estilo vintage.
 ```
 - **NARRACIÓN:** "Y de pronto... era verdad. Siempre había sido así. ¿No?"
 - **PENSAMIENTO:** "Es... más limpio. Siempre lo he hecho así... ¿verdad?"
@@ -177,21 +183,21 @@
 
 **PANEL 1 (cuarto superior):**
 ```
-1960s romance comic style, halftone texture. Close-up of Miss Doll touching businessman's arm, her long pink nails visible. He looks at his own arm with surprise. Subtle pink glow emanating from her touch. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Primer plano de MISS DOLL (canon: catsuit rosa látex, sensual) tocando el brazo del hombre, sus uñas largas rosa visibles. Él mira su propio brazo con sorpresa. Brillo rosa sutil emanando del toque de ella. Pose sensual. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Y eres de los hombres que se depilan... la piel suave rinde mejor."
 - **PROTAGONISTA:** "Y-yo... sí... desde que nado en la piscina..."
 
 **PANEL 2 (mitad central - montaje):**
 ```
-1960s romance comic style, halftone texture. Montage panel with soft vignette edges showing: man applying body lotion, smooth hairless arms, shirt falling perfectly on smooth skin. All in dreamy pastel pink tones with sparkle effects. Memory/fantasy style with soft focus edges. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Panel de montaje con bordes viñeta suaves mostrando: hombre aplicando loción corporal, brazos suaves sin vello, camisa cayendo perfectamente sobre piel suave. Todo en tonos rosa pastel soñadores con efectos de brillo. Estilo memoria/fantasía con bordes desenfocados. Ilustración estilo vintage.
 ```
 - **NARRACIÓN:** "Las coartadas nacían solas. La camisa cae mejor. La crema penetra parejo. El perfume fija limpio..."
 - **PENSAMIENTO (pequeño):** "Tiene sentido..."
 
 **PANEL 3 (cuarto inferior):**
 ```
-1960s romance comic style, halftone texture. Medium shot of businessman in chair, now sitting with slightly more graceful posture. His collar seems neater, his hair slightly softer. Miss Doll observes with satisfied smile. Other workshop attendees visible in background, whispering. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Plano medio del hombre en silla, ahora sentado con postura ligeramente más grácil. Su cuello parece más ordenado, cabello ligeramente más suave. MISS DOLL (canon: bob platino, catsuit rosa, sensual) observa con sonrisa satisfecha seductora. Otros asistentes visibles al fondo susurrando. Ilustración vintage, líneas limpias.
 ```
 - **ASISTENTE 1 (susurro):** "Mira cómo le cae el traje..."
 - **ASISTENTE 2 (susurro):** "Impecable... cero marcas."
@@ -203,21 +209,21 @@
 
 **PANEL 1 (tercio superior):**
 ```
-1960s romance comic style, halftone texture. Miss Doll circling seated businessman like a sculptor examining her work. She touches his eyebrow with one finger. He blushes deeply. Pink sparkles trail her movement. Conference room background with dramatic lighting. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. MISS DOLL (canon: bob platino flequillo recto, ojos Bratz, catsuit rosa látex, sensual) rodeando al hombre sentado como escultora examinando su obra. Ella toca su ceja con un dedo, pose sensual. Él se sonroja profundamente. Brillos rosa siguen su movimiento. Fondo salón con iluminación dramática. Ilustración estilo vintage.
 ```
 - **MISS DOLL:** "Y eres de los hombres que llevan las cejas perfiladas... arco limpio, look andrógino."
 - **PROTAGONISTA:** "La... la barbería tenía una promoción..."
 
 **PANEL 2 (tercio medio):**
 ```
-1960s romance comic style, halftone texture. Close-up on businessman's hands resting on his thighs. His nails are now visibly neat with subtle shine (clear polish). Miss Doll's gloved finger points at them. Pink glow around the nails. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Primer plano de las manos del hombre descansando sobre sus muslos. Sus uñas ahora visiblemente ordenadas con brillo sutil (esmalte transparente). El dedo de MISS DOLL señalándolas, uña larga rosa visible. Brillo rosa alrededor de las uñas. Ilustración vintage, líneas limpias.
 ```
-- **MISS DOLL:** "Manicura. Professional. Y te excita la idea de llevarlas más largas... francesas... bonitas para cámara."
-- **PENSAMIENTO (wavy bubble):** "Francesas... el brillo dibujando comas en el aire..."
+- **MISS DOLL:** "Manicura. Profesional. Y te excita la idea de llevarlas más largas... francesas... bonitas para cámara."
+- **PENSAMIENTO (burbuja ondulada):** "Francesas... el brillo dibujando comas en el aire..."
 
 **PANEL 3 (tercio inferior):**
 ```
-1960s romance comic style, halftone texture. Close-up of businessman's face, now visibly softer, slight makeup visible (could be interpreted as lighting), hair slightly longer and more styled. Eyes dreamy, lips slightly parted, deep blush. Sweat drops and heart symbols floating. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Primer plano del rostro del hombre, ahora visiblemente más suave, maquillaje sutil visible (podría interpretarse como iluminación), cabello ligeramente más largo y con más estilo. Ojos soñadores, labios ligeramente entreabiertos, rubor profundo. Gotas de sudor y símbolos de corazón flotando. Ilustración estilo vintage.
 ```
 - **NARRACIÓN:** "Cada frase de Miss Doll reescribía su realidad. Y él... lo disfrutaba."
 - **PENSAMIENTO:** "Me gusta... sentirme así..."
@@ -228,21 +234,21 @@
 
 **PANEL 1 (mitad superior):**
 ```
-1960s romance comic style, halftone texture. Miss Doll demonstrating feminine hand gestures, her wrists gracefully bent, fingers elegant. The businessman tries to copy, his hands now more graceful. Pink trails follow the hand movements. Conference room background. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. MISS DOLL (canon: bob platino, catsuit rosa látex, sensual) demostrando gestos femeninos con las manos, muñecas grácilmente dobladas, dedos elegantes. Pose sensual. El hombre intenta copiar, sus manos ahora más gráciles. Estelas rosa siguen los movimientos de manos. Fondo salón. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Y eres de los hombres que hablan con sus manos... en femenino. Muñecas blandas. Gestos que brillan."
-- **EFECTO SONORO:** Musical notes floating
+- **EFECTO SONORO:** Notas musicales flotando
 
 **PANEL 2 (cuarto inferior izquierdo):**
 ```
-1960s romance comic style, halftone texture. Close-up of businessman's mouth and chin. Lips now have subtle gloss shine. He speaks with text showing: "Sí... jiji..." The giggle appears in pink cursive letters with sparkles. Blush on chin visible. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Primer plano de la boca y barbilla del hombre. Labios ahora con brillo sutil de gloss. Él habla con texto mostrando: "Sí... jiji..." La risita aparece en letras cursivas rosa con brillos. Rubor en barbilla visible. Ilustración estilo vintage.
 ```
 - **PROTAGONISTA:** "Sí... jiji..."
-- **MISS DOLL (off-panel):** "Esa risita bimbo te queda. Desde ahora, cada vez que la sueltes... te gustará demasiado."
+- **MISS DOLL (fuera de panel):** "Esa risita bimbo te queda. Desde ahora, cada vez que la sueltes... te gustará demasiado."
 
 **PANEL 3 (cuarto inferior derecho):**
 ```
-1960s romance comic style, halftone texture. Businessman now with clearly softer appearance, sitting with knees together, hands elegantly placed on thighs, gentle curve to his spine. Miss Doll observes with approval. Other attendees watching with interest. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Hombre ahora con apariencia claramente más suave, sentado con rodillas juntas, manos elegantemente colocadas sobre muslos, curva suave en su columna. MISS DOLL (canon: sensual, satisfecha) observa con aprobación, pose coqueta. Otros asistentes mirando con interés. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Y eres de los hombres que se sientan bonito... pegadito, recogido. Curvo. Obediente."
 - **NARRACIÓN:** "La postura cambió. El gesto cambió. Todo cambió."
@@ -253,21 +259,21 @@
 
 **PANEL 1 (tercio superior):**
 ```
-1960s romance comic style, halftone texture, dramatic reveal. New character enters: THE BOSS - short, stocky, balding, not conventionally handsome but with commanding presence. Dark suit, authoritative stance. He stands in doorway of conference room. Dramatic lighting behind him. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone, revelación dramática. Nuevo personaje entra: EL JEFE - bajo, fornido, calvo, no convencionalmente atractivo pero con presencia dominante. Traje oscuro, postura autoritaria. De pie en la puerta del salón. Iluminación dramática detrás. Ilustración estilo vintage.
 ```
 - **NARRACIÓN:** "Y entonces... él llegó."
 - **EFECTO SONORO:** "THUMP THUMP" (corazón)
 
 **PANEL 2 (tercio medio):**
 ```
-1960s romance comic style, halftone texture. Close-up of businessman's (now somewhat feminized) face. Eyes wide with hearts in pupils, cheeks deeply blushed, lips parted, sweat drops. He stares at the Boss with obvious attraction. Dreamy expression. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Primer plano del rostro del hombre (ahora algo feminizado). Ojos muy abiertos con corazones en pupilas, mejillas profundamente sonrojadas, labios entreabiertos, gotas de sudor. Mira al Jefe con obvia atracción. Expresión soñadora. Ilustración vintage, líneas limpias.
 ```
-- **MISS DOLL (voice from off-panel):** "Y eres de los hombres a quienes les gusta otro hombre... No hay problema si tu jefe te gusta."
+- **MISS DOLL (voz fuera de panel):** "Y eres de los hombres a quienes les gusta otro hombre... No hay problema si tu jefe te gusta."
 - **PENSAMIENTO:** "No debería... pero... no puedo evitarlo..."
 
 **PANEL 3 (tercio inferior):**
 ```
-1960s romance comic style, halftone texture. Memory/fantasy panel with soft vignette edges. Scene of office at night: the Boss loosening his tie, backlit by computer screen. The businessman looks up at him with adoration. Pink mist and heart shapes floating. Dreamy filter. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Panel memoria/fantasía con bordes viñeta. Escena de oficina de noche: el Jefe aflojando su corbata, retroiluminado por pantalla de computadora. El hombre mira hacia arriba con adoración. Niebla rosa y formas de corazón flotando. Filtro soñador. Ilustración estilo vintage.
 ```
 - **NARRACIÓN:** "La memoria se escribió sola: aquella noche en la oficina, cuando lo supo. Quería gustarle. Servirle. Estar bonito para él."
 - **PENSAMIENTO:** "Siempre lo he amado... ¿verdad?"
@@ -278,21 +284,21 @@
 
 **PANEL 1 (tercio superior - dramático):**
 ```
-1960s romance comic style, halftone texture, dramatic scene. Miss Doll at podium/stage area holding a name badge with hot pink background. The transformed businessman stands before her, now clearly feminized in appearance: longer styled hair, subtle makeup, fitted pink-accented suit, graceful posture. Spotlight on them. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone, escena dramática. MISS DOLL (canon: bob platino flequillo recto, ojos Bratz, catsuit rosa látex brillante, sensual) en podio/área de escenario sosteniendo una credencial con fondo rosa flúor. El hombre transformado de pie ante ella, ahora claramente feminizado: cabello más largo con estilo, maquillaje sutil, traje entallado con acentos rosa, postura grácil. Foco de luz sobre ellos. Ilustración vintage, líneas limpias.
 ```
 - **MISS DOLL:** "Y eres de los hombres que se presentan con su nombre nuevo... Desde ahora... eres LEXI."
-- **EFECTO:** Name "LEXI" in large sparkly pink letters
+- **EFECTO:** Nombre "LEXI" en grandes letras rosa brillantes con destellos
 
 **PANEL 2 (tercio medio):**
 ```
-1960s romance comic style, halftone texture. Close-up of Lexi (formerly the businessman) accepting a hot pink name badge. Her hands are elegant now, nails with French manicure visible. Expression of wonder, slight tears of joy, deep blush. Badge reads "LEXI - PR / Anfitriona". Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Primer plano de Lexi (antes el hombre) aceptando credencial rosa flúor. Sus manos ahora elegantes, uñas con manicura francesa visibles. Expresión de asombro, ligeras lágrimas de alegría, rubor profundo. Credencial dice "LEXI - PR / Anfitriona". Ilustración estilo vintage.
 ```
 - **LEXI:** "S-sí... jiji... Soy Lexi... PR, anfitriona..."
 - **NARRACIÓN:** "El nombre cayó como un vestido de seda. Perfecto. Siempre había sido Lexi."
 
 **PANEL 3 (tercio inferior):**
 ```
-1960s romance comic style, halftone texture. Wide shot of conference room, Lexi at podium addressing the room. She wears the name badge proudly. Miss Doll stands to side with satisfied smile. Audience of attendees clapping. The Boss visible in back, nodding with approval. Streamers effect. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Plano general del salón, Lexi en podio dirigiéndose a la sala. Lleva la credencial con orgullo. MISS DOLL (canon: sensual, satisfecha) de pie al lado con sonrisa coqueta. Audiencia de asistentes aplaudiendo. El Jefe visible al fondo, asintiendo con aprobación. Efecto de serpentinas. Ilustración vintage, líneas limpias.
 ```
 - **ASISTENTES:** "¡APLAUSOS!"
 - **NARRACIÓN:** "El salón aplaudió. Y Lexi supo que esta era su verdad."
@@ -303,24 +309,24 @@
 
 **PANEL 1 (mitad superior):**
 ```
-1960s romance comic style, halftone texture. The Boss approaches Lexi at podium. He extends his hand. She takes it gracefully, looking up at him with adoration. Miss Doll watches from background with knowing smile. Dramatic lighting between them. Pink sparkles. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. El Jefe se acerca a Lexi en podio. Él extiende su mano. Ella la toma grácilmente, mirando hacia arriba con adoración. MISS DOLL (canon: bob platino, catsuit rosa, sensual) observa desde el fondo con sonrisa cómplice. Iluminación dramática entre ellos. Brillos rosa. Ilustración estilo vintage.
 ```
 - **JEFE:** "Miss Doll y yo lo hablamos. Yo la pedí para ti. Esto estaba planeado."
-- **LEXI (thought bubble):** "¿Él... él lo planeó todo... para mí?"
+- **LEXI (burbuja pensamiento):** "¿Él... él lo planeó todo... para mí?"
 
 **PANEL 2 (cuarto inferior izquierdo):**
 ```
-1960s romance comic style, halftone texture. Close-up of both faces: The Boss looking down with approval, masculine and commanding despite being plain. Lexi looking up with devotion, now undeniably feminine in appearance with glossy lips, styled hair, elegant makeup. Hearts floating between them. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Primer plano de ambos rostros: El Jefe mirando hacia abajo con aprobación, masculino y dominante a pesar de ser poco agraciado. Lexi mirando hacia arriba con devoción, ahora innegablemente femenina con labios brillantes, cabello estilizado, maquillaje elegante. Corazones flotando entre ellos. Ilustración estilo vintage.
 ```
 - **JEFE:** "Te queda. Te quiero así."
 - **LEXI:** "S-sí, jefe... jiji..."
 
 **PANEL 3 (cuarto inferior derecho):**
 ```
-1960s romance comic style, halftone texture. Lexi and the Boss walking together toward exit of conference room. She walks slightly behind him in submissive pose but elegant. Miss Doll waves goodbye from background. Pink mist and sparkles trailing them. Vintage illustration, clean lines.
+Estilo cómic romance años 60, textura halftone. Lexi y el Jefe caminando juntos hacia salida del salón. Ella camina ligeramente detrás en pose sumisa pero elegante. MISS DOLL (canon: sensual) despidiéndose con la mano desde el fondo, pose coqueta. Niebla rosa y brillos siguiéndolos. Ilustración vintage, líneas limpias.
 ```
 - **NARRACIÓN:** "Y así, sin resistencia, Lexi siguió a su nuevo destino..."
-- **MISS DOLL (speech bubble):** "Hasta la próxima sesión, querida..."
+- **MISS DOLL (burbuja diálogo):** "Hasta la próxima sesión, querida..."
 
 ---
 
@@ -328,21 +334,21 @@
 
 **PANEL 1 (tercio superior):**
 ```
-1960s romance comic style, halftone texture. Office hallway scene. Lexi walks confidently in fitted pink suit, high heels (elegant but visible), styled hair, carrying folder. Other office workers notice her with interest. Click click sound effects from heels. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Escena de pasillo de oficina. Lexi camina confiada en traje rosa entallado, tacones altos (elegantes pero visibles), cabello estilizado, carpeta en mano. Otros trabajadores la notan con interés. Efectos de sonido click click de tacones. Ilustración estilo vintage.
 ```
 - **EFECTO SONORO:** "CLICK CLICK CLICK"
 - **NARRACIÓN:** "Esa tarde, ya en la oficina, todo era diferente. Y perfecto."
 
 **PANEL 2 (tercio medio):**
 ```
-1960s romance comic style, halftone texture. The Boss's office door. Lexi stands at threshold, folder in elegant hands, looking toward desk where Boss sits. He makes a small gesture with his hand. Intimate but professional setting. Pink lighting from somewhere. Vintage illustration style.
+Estilo cómic romance años 60, textura halftone. Puerta de oficina del Jefe. Lexi de pie en el umbral, carpeta en manos elegantes, mirando hacia escritorio donde el Jefe está sentado. Él hace un pequeño gesto con la mano. Ambiente íntimo pero profesional. Iluminación rosa desde algún lugar. Ilustración estilo vintage.
 ```
 - **JEFE:** "Entra. Cierra la puerta."
-- **LEXI (thought bubble):** "Servicio impecable. Como a él le gusta."
+- **LEXI (burbuja pensamiento):** "Servicio impecable. Como a él le gusta."
 
 **PANEL 3 (tercio inferior):**
 ```
-1960s romance comic style, halftone texture. Tasteful implication panel: View of closed office door from outside. A small heart-shaped "Do Not Disturb" sign hangs on handle. Pink glow visible through door crack at bottom. Sound effects floating: "Jiji..." Vintage illustration, clean lines, nothing explicit.
+Estilo cómic romance años 60, textura halftone. Panel de implicación elegante: Vista de puerta cerrada desde afuera. Un pequeño cartel en forma de corazón "No Molestar" cuelga del picaporte. Brillo rosa visible por rendija inferior de puerta. Efectos de sonido flotando: "Jiji..." Ilustración vintage, líneas limpias, nada explícito.
 ```
 - **EFECTO SONORO:** "jiji..." (pequeño)
 - **NARRACIÓN:** "Detrás de esa puerta, Lexi encontró su verdadero lugar. Complaciente. Bonita. Perfecta."
@@ -353,7 +359,7 @@
 
 **PROMPT VISUAL:**
 ```
-1960s romance comic book back cover, vintage illustration style, halftone dots texture, pastel colors with hot pink accents. Central image: mirror reflection showing the transformation - on left side of mirror, gray-suited nervous businessman from page 1. On right side of mirror reflection, elegant feminine Lexi in pink suit with glossy lips and styled hair, smiling contentedly. Miss Doll visible as small figure at top of frame, holding strings like a puppeteer, enigmatic smile. Bottom of page: decorative frame with text. Hot pink and cream color scheme. Vintage 1960s aesthetic.
+Contraportada de cómic romance años 60, ilustración estilo vintage, textura halftone puntos Ben-Day, colores rosa pastel con acentos rosa flúor. Imagen central: reflejo en espejo mostrando la transformación - lado izquierdo del espejo, hombre nervioso en traje gris de página 1. Lado derecho del reflejo, Lexi elegante y femenina en traje rosa con labios brillantes y cabello estilizado, sonriendo contenta. MISS DOLL (canon: bob platino, ojos Bratz, catsuit rosa, sensual) visible como figura pequeña en parte superior, sosteniendo hilos como titiritera, sonrisa enigmática seductora. Fondo: textura halftone. Parte inferior: marco decorativo con texto. Esquema de colores rosa flúor y crema. Estética vintage años 60.
 ```
 
 **TEXTO:**
@@ -370,7 +376,7 @@
 ### PALETA DE COLORES:
 - **Primarios:** Rosa pastel (#FFB6C1), Crema (#FFFDD0), Rosa flúor (#FF69B4)
 - **Secundarios:** Lavanda (#E6E6FA), Gris suave (#D3D3D3), Blanco (#FFFFFF)
-- **Acentos:** Rojo labios (#CC0000), Negro líneas (#000000)
+- **Acentos:** Rosa labios (#E75480), Negro líneas (#000000)
 
 ### EFECTOS CONSISTENTES:
 - Halftone dots en sombras y rubores (estilo Ben-Day)
@@ -386,6 +392,15 @@
 - Pensamientos: Burbujas de nube con borde punteado
 - Narración: Cajas rectangulares con fondo crema
 - Efectos sonoros: Integrados en el arte, colores brillantes
+
+### MISS DOLL - REGLAS DE CONSISTENCIA:
+> ⚠️ **CRÍTICO:** En CADA panel donde aparezca Miss Doll:
+> 1. Usar descripción canon COMPLETA (no simplificar)
+> 2. SIEMPRE incluir: "sensual", "coqueta", "seductora"
+> 3. Cabello: bob platino con flequillo RECTO (no asimétrico)
+> 4. Ojos: Bratz con párpados ROSADOS
+> 5. Labios: rosa/nude (NO rojos)
+> 6. Verificar con imagen de referencia antes de aprobar
 
 ### TRANSICIÓN DEL PROTAGONISTA:
 Página 1-3: 100% masculino, rígido, gris
