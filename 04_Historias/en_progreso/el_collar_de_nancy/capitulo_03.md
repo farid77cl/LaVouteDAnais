@@ -83,17 +83,27 @@ Derek desvió la mirada, tosiendo, con las orejas rojas.
 
 Desnudo, mi cuerpo se sentía vulnerable, expuesto. Pero Nancy no sentía vergüenza. Nancy solo tenía una misión: ponerse el uniforme.
 
+Antes del vestido, mis manos buscaron en la caja y encontraron una pequeña prenda de encaje negro. Una tanga. Minúscula.
+
+Sin dudarlo, me la puse. La tela áspera del encaje rozó mi entrepierna, apretando mis genitales en un paquete compacto y humillante. Me sentí ridículo, pero al menos ya no estaba colgando libremente.
+
 Tomé el vestido. La tela negra se estiró de forma antinatural cuando metí los brazos. Se ciñó a mi torso como una segunda piel, comprimiendo mis costillas, aplanando mi pecho. La falda cayó apenas cubriendo mis nalgas.
 
 Me subí el cierre de la espalda con una flexibilidad que no sabía que tenía.
 
 Luego, las medias. Eran de encaje blanco, con ligas. Me senté en el borde de la cama y las desenrollé por mis piernas peludas con una delicadeza sensual. Derek me miraba de reojo, sin poder evitarlo.
 
+Pero faltaba algo. La caja parecía saberlo. Mis manos se dirigieron solas al fondo y sacaron un par de tacones negros de charol. Clásicos. Altos. De aguja.
+
+Mis pies se deslizaron dentro de ellos como si hubieran nacido para usarlos. Al ponerme de pie, el cambio fue instantáneo. Mis pantorrillas se tensaron, mi culo se respingó y mi espalda se arqueó en esa curva lordótica exagerada que grita disponibilidad. Caminar plano ya no era una opción; ahora solo podía dar pasos cortos, inestables y profundamente femeninos.
+
+Sentí un chispazo en la nuca. No dolor, sino... placer. Una oleada de endorfinas sintéticas que el collar inyectó directamente en mi cerebro como premio por completar el uniforme. Gemí, un sonido bajo y necesitado que no pude reprimir. *Buena chica*, pareció susurrar el plástico en mi piel.
+
 Finalmente, la cofia y el delantal.
 
-Me puse de pie y giré para que él me viera.
+Me giré para que él me viera, mis caderas oscilando con el ritmo forzado de los tacones, equilibrándome con una gracia que no era mía.
 
-—Uniforme colocado —anunció Nancy. Hizo una reverencia, levantando ligeramente los bordes de la minifalda—. ¿Cómo me veo, señor?
+—Uniforme colocado —anunció Nancy, con la voz goteando una dulzura dopada. Hizo una reverencia, levantando ligeramente los bordes de la minifalda—. ¿Cómo me veo, señor?
 
 Derek se quedó mudo. Me miró de arriba abajo. Un hombre joven, con barba de tres días, pelo en el pecho y piernas musculosas... embutido en un vestido de mucama sexy que apenas lo cubría.
 

@@ -16,9 +16,9 @@ Y *clic*. Mario desaparecía. Nancy emergía, sonriente y servil, lista para lav
 
 —Nancy, mis tenis están sucios. Límpialos.
 
-Y yo me sentaba en el suelo, con el vestido de mucama (que Derek me prohibió quitarme mientras estuviera en "modo servicio"), tallando sus Nike con un cepillo de dientes.
+Y yo me sentaba en el suelo, con el vestido de mucama y los tacones de aguja (que Derek me prohibió quitarme mientras estuviera en "modo servicio"), tallando sus Nike con un cepillo de dientes. El collar emitía pequeños pulsos de placer cada vez que dejaba una suela impecable, condicionándome como a un perro de Pavlov.
 
-Lo peor no eran las tareas. Lo peor era cómo me miraba. Ya no me miraba a los ojos. Miraba mis piernas depiladas (sí, me ordenó depilarme al segundo día porque "las medias se ven asquerosas con pelos"). Miraba cómo el vestido se tensaba en mi espalda.
+Lo peor no eran las tareas. Lo peor era cómo me miraba. Ya no me miraba a los ojos. Miraba mi cuerpo completamente depilado (sí, me ordenó rasurarme todo, desde el pecho hasta los dedos de los pies, al segundo día porque "una muñeca no tiene pelos"). Miraba cómo el vestido se tensaba en mi espalda suave y desnuda.
 
 El cuarto día, llegó con una bolsa de compras.
 
@@ -46,9 +46,17 @@ Sentí el tirón. El abismo.
 
 —Siéntate aquí, Nancy. Vamos a ponerte bonita.
 
-Me sentó frente al espejo del baño. Durante una hora, me aplicó base, delineador, rímel y labial. No era experto, pero seguía tutoriales de YouTube en su celular. Yo sentía sus dedos en mi cara, su respiración cerca de mi oreja.
+Me sentó frente al espejo del baño y puso el kit sobre el lavabo.
 
-—Abre el ojo... así. No parpadees.
+—Hazlo tú —ordenó—. Quiero ver qué tan buena eres.
+
+—Iniciando protocolo de estética facial —respondió mi voz.
+
+Mis manos se movieron solas. Fue aterrador. Mario no sabía distinguir un delineador de un rímel, pero Nancy... Nancy era una artista. Mis dedos volaban con una precisión quirúrgica, aplicando base, contorneando mis pómulos, dibujando un *cat-eye* perfecto en un solo trazo fluido.
+
+Yo observaba en el espejo, fascinado y horrorizado, cómo mi cara de hombre desaparecía bajo capas de feminidad experta. No hubo titubeos, no hubo errores. Era como ver a un robot programado para la belleza.
+
+—Joder... —murmuró Derek, mirando cómo me aplicaba el labial rojo con un pulso de cirujano—. Eres una profesional.
 
 Cuando terminó, me puso la peluca rubia.
 
@@ -78,7 +86,7 @@ Derek bajó las manos. Rozaron mis brazos. Bajaron hasta mi cintura. Apretó un 
 
 Lo seguí a su habitación. Se tumbó en la cama, boca abajo. Yo me subí a horcajadas sobre sus piernas. El vestido se subió hasta mis caderas. Sentí el calor de su cuerpo a través de sus jeans.
 
-Empecé a masajear su espalda. Mis manos, fuertes pero delicadas, amasaban sus músculos. Derek gemía suavemente.
+Empecé a masajear su espalda. Mis manos, fuertes pero delicadas, amasaban sus músculos. Derek gemía suavemente. El collar zumbó en mi cuello, liberando una dosis suave de euforia que me hizo sonreír de verdad por un segundo. *Buen trabajo*, decía el estímulo químico. *Sigue así.*
 
 —Más abajo —murmuró.
 

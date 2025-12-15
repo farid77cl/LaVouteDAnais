@@ -1,19 +1,19 @@
 # Notas de Revisión - El Collar de Nancy
 
 ## Capítulo 1: El Desastre
-- [ ] Revisado
+- [x] Revisado
 - Observaciones:
 
 ## Capítulo 2: La Caja de Miss Doll
-- [ ] Revisado
+- [x] Revisado
 - Observaciones:
 
 ## Capítulo 3: Nancy, Lista Para Servir
-- [ ] Revisado
+- [x] Revisado
 - Observaciones:
 
 ## Capítulo 4: Los Primeros Experimentos
-- [ ] Revisado
+- [x] Revisado
 - Observaciones:
 
 ## Capítulo 5: La Muñeca Toma Forma

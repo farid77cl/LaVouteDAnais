@@ -6,13 +6,13 @@ Derek sacó el *breast plate* de la caja con una reverencia casi religiosa. La s
 
 —Date la vuelta —ordenó Derek. Su voz era ronca, espesa.
 
-Nancy obedeció. Me quedé de pie en medio de la sala, con el vestido de mucama bajado hasta la cintura, el torso desnudo y la peluca rubia cayendo sobre mi espalda.
+Nancy obedeció. Me quedé de pie en medio de la sala, con el vestido de mucama bajado hasta la cintura, el torso desnudo y la peluca rubia cayendo sobre mi espalda. Mis tacones se clavaban en la alfombra, obligándome a mantener esa postura arqueada y sumisa que tanto le gustaba a Derek.
 
 Derek se acercó por detrás. Sentí el frío de la silicona contra mi piel caliente. El *breast plate* era tipo chaleco. Derek pasó mis brazos por los agujeros. Luego, tiró de la pieza hacia abajo, ajustándola sobre mi pecho.
 
 El peso fue lo primero que noté. Eran kilos extra colgando de mi tórax. Tiraban de mis hombros, cambiaban mi centro de gravedad. Me obligaban a echar los hombros hacia atrás para compensar, lo que hacía que los pechos falsos se proyectaran hacia adelante con orgullo.
 
-La silicona se adhirió a mi piel, creando un sello de vacío y sudor.
+La silicona se adhirió a mi piel suave y sin vello, creando un sello de vacío y sudor perfecto, sin nada que interrumpiera la fusión entre hombre y muñeca.
 
 —Date la vuelta —dijo Derek.
 
@@ -77,6 +77,8 @@ Mi cara real estaba atrapada debajo. Podía mover mis músculos, podía hacer mu
 
 —Gracias, señor —dijo mi voz, sonando extraña, filtrada por la máscara—. Sistema visual y táctil optimizado. Soy su muñeca.
 
+El collar vibró, enviando una oleada de calor directamente a mi entrepierna, una recompensa condicionada por aceptar mi nueva identidad. Mis rodillas temblaron sobre los tacones de aguja.
+
 —Mi muñeca...
 
 Derek me agarró de la cintura (de mis caderas falsas) y me atrajo hacia él. Su bulto chocó contra mi vientre.
@@ -87,13 +89,35 @@ Derek me agarró de la cintura (de mis caderas falsas) y me atrajo hacia él. Su
 
 —Sí. Hazme un desfile.
 
-Durante las siguientes tres horas, fui su Barbie de tamaño real.
+Durante las siguientes tres horas, fui su Barbie de tamaño real. Y Derek... Derek se convirtió en un niño con el juguete más sucio del mundo.
 
-Me puse el traje de enfermera: látex blanco que rechinaba, cofia, estetoscopio. Derek me hizo agacharme para "revisarle la presión" en la entrepierna.
+Me puse el traje de enfermera: látex blanco que rechinaba obscenamente con cada movimiento, cofia y estetoscopio. Derek se tiró en el sofá, desabrochándose el pantalón, y me hizo jugar al "doctor".
 
-Me puse el de secretaria: falda lápiz que me obligaba a dar pasitos minúsculos, gafas sobre la máscara (lo cual se veía ridículamente sexy), blusa desabotonada mostrando el escote de silicona.
+—Me duele aquí, enfermera —decía, señalando su erección—. Revísemela.
 
-Y en cada cambio, yo desaparecía un poco más.
+Me hizo arrodillarme y sostener su verga con mis manos enguantadas de látex. Me obligó a "tomarle la temperatura" con la boca, solo la punta, una y otra vez, mientras se reía como un idiota.
+
+—Tienes buena mano, Nancy. Deberías trabajar en el hospital general. Seguro curas a todos los viejos verdes.
+
+Luego vino la secretaria. Falda lápiz que me obligaba a dar pasitos minúsculos, gafas sobre la máscara (lo cual se veía ridículamente sexy), blusa desabotonada mostrando el escote de silicona.
+
+Derek se sentó en la silla de mi escritorio y me hizo gatear debajo.
+
+—Se me cayó el bolígrafo, señorita Nancy. Búsquelo.
+
+Me tuvo ahí abajo, en cuatro, con mi culo falso en pompa hacia su cara, mientras él me nalgueaba y me decía cochinadas sobre dictados y horas extra. Me hizo frotar mis tetas de silicona contra sus rodillas, contra la bragueta de su pantalón, obligándome a pedirle un aumento mientras él gemía.
+
+Y en cada cambio, yo desaparecía un poco más. O eso deseaba.
+
+Pero la realidad era peor. Mario seguía ahí, atrapado en la primera fila de este teatro perverso. Yo sentía la humillación ardiendo en mi estómago cuando chupaba su dedo como si fuera una paleta. Yo sentía la vergüenza de mover el culo para él.
+
+Y lo más aterrador: mi cuerpo reaccionaba. A pesar del asco, a pesar del terror, mi polla estaba dura bajo el *tucking*. La sumisión forzada, el trato de objeto, las manos de Derek usándome... todo eso encendía una chispa oscura en mi cerebro reptiliano que no podía apagar.
+
+*Soy un hombre*, me gritaba a mí mismo. *Soy su amigo.*
+
+Pero Nancy gemía: *¡Sí, jefe! ¡Castígueme, doctor!*
+
+Y mi cuerpo obedecía a Nancy, no a mí.
 
 El calor dentro del traje era sofocante. El sudor corría por mi espalda, atrapado entre mi piel y la silicona. Me picaba la cara debajo de la máscara. Mis pies dolían por los tacones de 15 centímetros que Derek me obligó a usar.
 

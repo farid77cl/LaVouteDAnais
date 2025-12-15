@@ -14,9 +14,9 @@ Yo estaba en la cocina.
 
 Nancy estaba en la cocina.
 
-Llevaba puesto solo el delantal de mucama (que Derek me había ordenado ponerme después de que se fueron, porque "una Hooters girl sucia no limpia") y los tacones. Mi cuerpo estaba pegajoso. Me dolía todo. El culo, la garganta, las rodillas.
+Llevaba puesto solo el delantal de mucama (que Derek me había ordenado ponerme después de que se fueron, porque "una Hooters girl sucia no limpia") y los tacones negros de charol, habiendo cambiado las plataformas blancas por algo más "práctico" para fregar. Mi cuerpo estaba pegajoso. Me dolía todo. El culo, la garganta, las rodillas.
 
-Pero mis manos se movían. Fregando. Limpiando. Borrando las huellas de lo que había pasado.
+Pero mis manos se movían. Fregando. Limpiando. Mis uñas postizas francesas repiqueteaban contra los platos, un sonido de plástico contra cerámica que me recordaba que mis manos ya no eran mías.
 
 Recogí las latas. Limpié las manchas de la alfombra. Tiré los condones usados (sí, al menos usaron condones, gracias a Dios o a la programación de higiene de Nancy).
 
@@ -56,7 +56,7 @@ La energía se cortó. Mis piernas fallaron y caí de rodillas al suelo. El aire
 
 —¡Derek! —grité. Mi voz sonó rota, ronca—. ¡Derek, por favor! ¡Quítamelo! ¡Ya no aguanto más!
 
-Me arranqué la máscara. La silicona se despegó con un sonido húmedo, llevándose algunos pelos de mis cejas. La tiré al suelo.
+Me arranqué la máscara. La silicona se despegó con un sonido húmedo, llevándose algunos pelos de mis cejas (lo único que me quedaba de pelo en el cuerpo). La tiré al suelo.
 
 Mi cara estaba roja, sudada, llena de mocos y lágrimas. Debía verme horrible.
 
@@ -86,11 +86,26 @@ Se agachó. Recogió la máscara del suelo. La limpió con su manga, con cuidado
 
 Cerró la puerta.
 
-Me quedé solo en la cocina, arrodillado en el suelo frío, abrazando mis tetas de silicona, con el collar rosa zumbando suavemente en mi cuello, esperando la siguiente orden.
+Me quedé solo en la cocina, arrodillado en el suelo frío, abrazando mis tetas de silicona, con el collar rosa zumbando suavemente en mi cuello.
+
+Y ahí, en el silencio, me di cuenta de algo horrible.
+
+Sin el collar encendido, sin las órdenes de Nancy, sin la recompensa... me sentía *vacío*. El placer químico se había ido y lo único que quedaba era un agujero negro en mi cerebro donde solían estar las dosis de dopamina.
+
+*Quiero que se acabe*, pensé. *Quiero que me libere.*
+
+Pero otro pensamiento, más pequeño y más oscuro, serpenteaba debajo:
+
+*¿Qué voy a sentir mañana cuando me ponga la máscara?*
+
+El collar zumbó, como si hubiera escuchado mi pregunta. Una pequeña caricia de anticipación.
+
+Yo, Mario, lloré.
+Pero mi cuerpo, el cuerpo de Nancy, tembló de expectación.
 
 Esperando el mañana.
 
 **Fin**
 
 ---
-**Palabras:** 620
+**Palabras:** ~680
