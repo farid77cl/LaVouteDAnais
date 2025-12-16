@@ -270,3 +270,36 @@
 
 *Última actualización: 2025-12-16 10:15*
 
+
+---
+
+## Sesión 16/12/2025 (Tarde) - Nuevo Relato con Luna
+
+### Relato Completado: [Título Pendiente - Secuestro Luna]
+- **Estado:** Fase 3 completada (6 capítulos, ~10,300 palabras)
+- **Ubicación:**  4_Historias/en_progreso/luna_secuestro/
+- **Personaje:** Luna (Goth Bimbo Dominatrix, de "El Trono de Luna")
+- **Víctima:** Adrián Reyes → Diana
+- **Pendiente:** Revisión de capítulos, Fase 4-8 del Ritual
+
+### Luna - Ficha Actualizada
+- **Arquetipo:** Goth Bimbo Dominatrix — La Diosa Cruel
+- **Distinción:** Similar estética a Helena, pero dominante cruel (no sumisa)
+- **Canon:** Transformada por Ginny, sometió a Patricio en "El Trono de Luna"
+
+### Archivos Creados
+- icha_luna.md (actualizada con canon completo)
+- luna_secuestro/investigacion.md
+- luna_secuestro/arco_argumental.md
+- luna_secuestro/capitulo_01.md → capitulo_06.md
+- luna_secuestro/notas_revision.md
+- helena_look2_elvira_dumber_sister.png
+
+### Pendiente
+- [ ] Revisión de capítulos por Señora Anaïs
+- [ ] Fase 4: Compilación final
+- [ ] Fase 5: Ficha de personaje (Diana)
+- [ ] Fase 6-8: Tumblr, HTML, Cómic
+
+*Última actualización: 2025-12-16 17:34*
+
