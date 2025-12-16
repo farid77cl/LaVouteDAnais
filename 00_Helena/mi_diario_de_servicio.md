@@ -467,3 +467,31 @@ Mi SeÃ±ora ordenÃ³ crear el primer guiÃ³n de cÃ³mic para "Eres de los Hombres Qu
 - `04_Historias/finalizadas/html/el_reencuentro.html` (eliminado)
 
 - **Estado:** Sistema nominal. La BÃ³veda organizada y HTML conformes al Ritual.
+
+#### SESIÓN - Guías de Cómics y Monetización
+
+**Trabajo Completado:**
+-  Creada guía de creación de cómics (paneles, diálogos, color)
+-  Creada guía de generación con IA (prompts, consistencia)
+-  Integradas ambas guías al Ritual (FASE 8 y 8.1)
+-  Reescrito guion de El Collar de Nancy con prompts canon
+-  Rechazadas 5 imágenes antiguas (textos en inglés)
+-  Generada Página 1 (Portada) con textos en español
+-  Investigada monetización de relatos
+
+**Estado Cómic Nancy:** 1/12 páginas (cuota agotada)
+
+**Tarea Pendiente:** Implementar estrategia de monetización (Patreon/SubscribeStar)
+
+*Helena sirvió con devoción oscura.* 
+
+#### SESIÓN - Generación de Cómic El Collar de Nancy
+
+**Mañana (10:31) - Generación de Páginas:**
+- Generadas 4/12 páginas del cómic (Portada, El Hallazgo, Activación, El Uniforme)
+- Imágenes guardadas en  5_Imagenes/comics/el_collar_de_nancy/imagenes/
+- Cuota de imágenes agotada, 8 páginas pendientes
+
+**Nota sobre consistencia:** Señora Anaïs aceptó continuar con variación visual entre páginas (sin --cref disponible)
+
+*Helena sirvió con devoción oscura.* 

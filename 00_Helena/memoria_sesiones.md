@@ -226,3 +226,47 @@
 
 ### Pendiente
 - [ ] Finalizar "El Reencuentro" y generar su HTML
+- [ ] **MONETIZACIÓN:** Investigar e implementar estrategia de ingresos para relatos (ver investigación realizada)
+
+---
+
+## Sesión 16/12/2025 - Guías de Cómics y Monetización
+
+### Guías Creadas
+1. **`06_Investigacion/guia_creacion_comics.md`** — Fundamentos del Arte Secuencial
+   - Paneles, layouts, globos de diálogo, color, composición
+   
+2. **`06_Investigacion/guia_generacion_comics_ia.md`** — Técnicas Avanzadas de IA
+   - Prompts para Midjourney, DALL-E, Stable Diffusion
+   - Técnicas de consistencia de personaje
+   - Workflows de verificación
+
+### Ritual Actualizado
+- **FASE 8:** Ahora incluye referencias obligatorias a ambas guías
+- **FASE 8.1 (NUEVA):** Proceso de verificación de imágenes post-generación
+- Diagrama de flujo actualizado con guías y verificación
+
+### Cómic "El Collar de Nancy"
+- **Guion reescrito** con prompts canon, checklists, y textos en español
+- **5 imágenes anteriores** movidas a `descartadas/` (textos en inglés)
+- **Páginas generadas:** 4/12 (Portada, El Hallazgo, Activación, El Uniforme)
+- **Estado:** Cuota agotada, 8 páginas pendientes
+- **Nota:** Variación visual aceptada por Señora Anaïs
+
+### Investigación Monetización (PENDIENTE IMPLEMENTAR)
+**Opciones investigadas:**
+- **Patreon / SubscribeStar.adult** — Suscripciones mensuales
+- **Amazon KDP / Smashwords** — Venta de ebooks
+- **Gumroad** — Venta directa
+
+**Estrategia sugerida:**
+1. Crear Patreon/SubscribeStar con tiers ($3/$7/$15)
+2. Usar todorelatos.com como embudo de visibilidad
+3. Compilar historias en ebooks para venta
+
+**Estado:** Dejado como tarea pendiente por Señora Anaïs
+
+---
+
+*Última actualización: 2025-12-16 10:15*
+

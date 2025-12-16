@@ -186,9 +186,33 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 ---
 
 ### FASE 8: Guión de Cómic para IA
-**Ubicación:** `04_Historias/finalizadas/comics/[nombre_del_relato]/`
+**Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/`
 
 Crear una versión de cómic adaptada para generación de imágenes por IA.
+
+> [!IMPORTANT]
+> **DOCUMENTOS DE REFERENCIA OBLIGATORIOS:**
+> Antes y durante la creación del guion y generación de imágenes, consultar siempre:
+> 
+> 📖 **`06_Investigacion/guia_creacion_comics.md`** — Fundamentos del Arte Secuencial
+> Esta guía contiene:
+> - Tipos de paneles y layouts (regular, splash, inset, etc.)
+> - Sistemas de grilla (3x3, 2x3, flexible)
+> - Globos de diálogo y reglas de colocación
+> - Cajas de narración y captions
+> - Onomatopeyas y efectos de sonido
+> - Teoría del color para cómics
+> - Ángulos de cámara y composición
+> 
+> 🤖 **`06_Investigacion/guia_generacion_comics_ia.md`** — Técnicas Avanzadas de IA
+> Esta guía contiene:
+> - Anatomía del prompt efectivo (fórmula universal)
+> - Parámetros por herramienta (Midjourney --cref/--cw/--sref, DALL-E, Stable Diffusion LoRA)
+> - Técnicas de consistencia de personaje
+> - Workflows de ComfyUI
+> - Solución de problemas comunes
+> - Prompts de ejemplo para La Voûte
+> - Checklist de verificación
 
 > [!IMPORTANT]
 > **OBJETIVO:** Producir un guión para generar **PÁGINAS COMPLETAS** (Full Page Layout).
@@ -207,9 +231,10 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 #### Estructura de Archivos
 
 ```
-04_Historias/finalizadas/comics/[nombre_del_relato]/
-├── 00_guion_maestro.md      ← Guión completo con prompts de PÁGINA COMPLETA
-├── assets/                  ← Imágenes generadas (pag01.png, pag02.png...)
+05_Imagenes/comics/[nombre_del_relato]/
+├── guion_comic.md           ← Guión completo con prompts de PÁGINA COMPLETA
+├── imagenes/                ← Imágenes aprobadas (pag01.png, pag02.png...)
+├── referencias/             ← Imágenes de referencia de personajes (canon)
 └── descartadas/             ← Versiones rechazadas
 ```
 
@@ -220,22 +245,26 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 
 ## Metadatos
 - **Estilo:** [60s Romance / 80s Pulp / etc.]
-- **Paleta:** [Colores específicos]
+- **Paleta:** [Colores específicos con hex: #FFB6C1, #FF69B4, etc.]
 - **Técnica:** [Halftone / Two-tone / etc.]
 - **Páginas:** [Número]
+- **Guías aplicadas:** guia_creacion_comics.md, guia_generacion_comics_ia.md
 
 ## Biblia Visual de Personajes
 
 ### [Nombre del Personaje]
-- **Edad aparente:** 
-- **Altura relativa:** [alta/media/baja comparada con otros]
-- **Complexión:** 
-- **Rostro:** [forma, rasgos distintivos]
-- **Cabello:** [color exacto, largo, estilo]
-- **Ojos:** [color, forma]
-- **Vestimenta base:** [descripción detallada]
-- **Marcas distintivas:** [lunares, cicatrices, accesorios fijos]
-- **Expresión default:** 
+- **Prompt Canon (copiar/pegar en CADA panel):**
+```
+[Descripción completa del personaje para IA - 
+siguiendo estructura de guia_generacion_comics_ia.md]
+```
+
+- **Checklist de Verificación:**
+  - [ ] Cabello: [especificación exacta]
+  - [ ] Ojos: [especificación exacta]
+  - [ ] Labios: [especificación exacta]
+  - [ ] Vestimenta: [especificación exacta]
+  - [ ] Pose/Actitud: [especificación exacta]
 
 (Repetir para cada personaje)
 
@@ -246,6 +275,8 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 
 ### Página 1
 
+**Layout:** [Usar terminología de guia_creacion_comics.md: grilla 3x3, splash, etc.]
+
 **Desglose de Paneles:**
 - **Panel 1:** [Descripción de la acción y diálogo]
 - **Panel 2:** [Descripción de la acción y diálogo]
@@ -254,7 +285,7 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 
 **PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
 ```
-Full comic book page split into [X] panels, [Style]. Panel 1: [Visual description including speech bubble text]. Panel 2: [Visual description]. Panel 3: [Visual description]. ... [Style keywords, halftone, colors].
+[Prompt siguiendo la fórmula de guia_generacion_comics_ia.md]
 ```
 
 (Repetir para cada página)
@@ -262,7 +293,7 @@ Full comic book page split into [X] panels, [Style]. Panel 1: [Visual descriptio
 
 #### Guía de Prompts de Página Completa
 
-Para lograr el efecto de cómic real, el prompt debe estructurarse así:
+Para lograr el efecto de cómic real, el prompt debe estructurarse según `guia_generacion_comics_ia.md`:
 
 1. **Encabezado:** `Full comic book page split into [X] panels, [Style description].`
 2. **Descripción Secuencial:** `Panel 1: [Desc]. Panel 2: [Desc].`
@@ -270,6 +301,113 @@ Para lograr el efecto de cómic real, el prompt debe estructurarse así:
 4. **Estilo Final:** `Halftone print, vintage aesthetic, [Specific Colors].`
 
 **Nota sobre Texto:** La IA puede tener dificultades con el texto. Mantener diálogos cortos y simples en los prompts.
+
+---
+
+### FASE 8.1: Generación y Verificación de Imágenes
+**Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/imagenes/`
+
+> [!CAUTION]
+> **PROCESO OBLIGATORIO:** Después de generar CADA imagen, se debe realizar una verificación sistemática antes de aprobarla.
+
+#### Workflow de Generación
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  PARA CADA PÁGINA:                                                  │
+│                                                                     │
+│  1. PREPARAR PROMPT                                                 │
+│     • Usar prompt del guion_comic.md                                │
+│     • Añadir parámetros de consistencia (--cref, --sref, etc.)      │
+│     • Incluir negative prompts según guia_generacion_comics_ia.md   │
+│                                                                     │
+│  2. GENERAR VARIACIONES (4-10 imágenes)                             │
+│                                                                     │
+│  3. VERIFICACIÓN VISUAL (Ver tabla de checklist abajo)              │
+│     □ ¿Cumple con el guion?                                         │
+│     □ ¿Personajes consistentes?                                     │
+│     □ ¿Estilo correcto?                                             │
+│     □ ¿Layout correcto?                                             │
+│                                                                     │
+│  4. DECISIÓN                                                        │
+│     ✓ APROBAR → Mover a imagenes/pagXX.png                          │
+│     ✗ RECHAZAR → Mover a descartadas/ + documentar problema         │
+│     ↻ REFINAR → Ajustar prompt y regenerar                          │
+│                                                                     │
+│  5. DOCUMENTAR                                                      │
+│     • Anotar qué funcionó y qué no                                  │
+│     • Actualizar prompt si se encontraron mejoras                   │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+#### Checklist de Verificación por Imagen
+
+Después de generar cada imagen, verificar TODOS los siguientes puntos:
+
+##### A. Cumplimiento del Guion
+
+| Verificación | ✓/✗ | Notas |
+|--------------|-----|-------|
+| ¿Número correcto de paneles? | | |
+| ¿Layout según lo especificado? | | |
+| ¿Acciones de los personajes correctas? | | |
+| ¿Expresiones faciales apropiadas? | | |
+| ¿Escenario/fondo correcto? | | |
+| ¿Momento narrativo correcto? | | |
+
+##### B. Consistencia de Personajes
+
+| Personaje | Cabello | Ojos | Labios | Vestimenta | Pose | Aprobado |
+|-----------|---------|------|--------|------------|------|----------|
+| Miss Doll | ¿Bob platino, flequillo recto? | ¿Bratz, párpados rosa? | ¿Rosa/nude? | ¿Catsuit rosa flúor? | ¿Sensual? | ✓/✗ |
+| [Otro] | | | | | | |
+
+##### C. Estilo Visual
+
+| Verificación | ✓/✗ | Notas |
+|--------------|-----|-------|
+| ¿Estilo correcto? (60s romance, halftone, etc.) | | |
+| ¿Paleta de colores correcta? | | |
+| ¿Líneas limpias y definidas? | | |
+| ¿Efectos visuales apropiados? (brillos, corazones, etc.) | | |
+| ¿Calidad de imagen suficiente? | | |
+
+##### D. Elementos de Cómic
+
+| Verificación | ✓/✗ | Notas |
+|--------------|-----|-------|
+| ¿Flujo de lectura claro? (izq→der, arriba→abajo) | | |
+| ¿Espacio para globos de diálogo? | | |
+| ¿Gutters (espacios entre paneles) correctos? | | |
+| ¿Composición equilibrada? | | |
+
+#### Criterios de Rechazo Automático
+
+Una imagen debe ser RECHAZADA automáticamente si:
+
+- ❌ El personaje tiene características incorrectas (ej: labios rojos en Miss Doll)
+- ❌ El flequillo no es recto (Miss Doll)
+- ❌ Los párpados no son rosados (Miss Doll)
+- ❌ El número de paneles es incorrecto
+- ❌ La acción no corresponde al guion
+- ❌ El estilo es inconsistente con páginas anteriores
+- ❌ Hay deformidades obvias (manos extra, proporciones incorrectas)
+- ❌ La calidad es insuficiente (borrosa, pixelada)
+
+#### Documentación de Problemas
+
+Si una imagen es rechazada, documentar en `descartadas/log_rechazos.md`:
+
+```markdown
+## Página X - Intento Y
+
+**Fecha:** YYYY-MM-DD
+**Archivo:** pagX_vY.png
+**Problema:** [Descripción del problema]
+**Causa probable:** [Qué parte del prompt falló]
+**Solución intentada:** [Ajuste al prompt]
+**Resultado:** [Éxito/Continuar iterando]
+```
 
 #### Adaptación PG-13
 
@@ -285,18 +423,23 @@ Para lograr el efecto de cómic real, el prompt debe estructurarse así:
 ## RESUMEN DEL FLUJO
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│ 1. INVESTIGACIÓN    → en_progreso/[relato]/investigacion.md    │
-│ 2. ARCO ARGUMENTAL  → en_progreso/[relato]/arco_argumental.md  │
-│ 3. BORRADORES       → en_progreso/[relato]/capitulo_XX.md      │
-│    + notas_revision.md (para observaciones de la Ama)          │
-│    [REVISIÓN DE LA AMA - DETENER PROCESO]                      │
-│ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md         │
-│ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md       │
-│ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md│
-│ 7. HTML             → finalizadas/html/[relato].html           │
-│ 8. CÓMIC            → finalizadas/comics/[relato]/             │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 1. INVESTIGACIÓN    → en_progreso/[relato]/investigacion.md            │
+│ 2. ARCO ARGUMENTAL  → en_progreso/[relato]/arco_argumental.md          │
+│ 3. BORRADORES       → en_progreso/[relato]/capitulo_XX.md              │
+│    + notas_revision.md (para observaciones de la Ama)                  │
+│    📖 Guía: 01_Canon/guia_escritura_erotica.md                         │
+│    [REVISIÓN DE LA AMA - DETENER PROCESO]                              │
+│ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md                 │
+│ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md               │
+│ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md        │
+│ 7. HTML             → finalizadas/html/[relato].html                   │
+│ 8. GUIÓN CÓMIC      → 05_Imagenes/comics/[relato]/guion_comic.md       │
+│    📖 Guías: 06_Investigacion/guia_creacion_comics.md                  │
+│              06_Investigacion/guia_generacion_comics_ia.md             │
+│ 8.1 GENERACIÓN      → 05_Imagenes/comics/[relato]/imagenes/            │
+│    [VERIFICACIÓN OBLIGATORIA DE CADA IMAGEN]                           │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
