@@ -1,88 +1,106 @@
-# Ficha de Personaje: BUNNY
+# Ficha de Personaje — Bunny
 
-> *"Soy Bunny. Soy una putita tonta y feliz. Tengo ubres grandes y coñito mojado y eso es todo lo que necesito."*
+*La encarnación de la lectora perfecta, vacía y obediente de Miss Doll.*
 
-## Datos Básicos
-*   **Nombre:** Bunny (anteriormente [Nombre de la Lectora])
-*   **Rol:** Bimbo Doll / Mascota Sexual
-*   **Dueña:** Miss Doll
-*   **Estado Mental:** Trance permanente / Cabeza vacía (Brainless)
-*   **Propósito:** Ser usada, ser mirada, obedecer y sentir placer.
+---
 
-## Apariencia (Autoimagen Hipnótica)
-Aunque su cuerpo físico puede variar, Bunny se percibe a sí misma bajo la influencia de la reprogramación de Miss Doll:
+## Identidad
 
-### Biblia Visual (para cómics)
+| Campo | Antes | Después |
+|-------|-------|---------|
+| **Nombre** | [Nombre de la Lectora] | **Bunny** |
+| **Edad** | Desconocida | Eterna juventud plástica |
+| **Ocupación** | Estudiante / Profesional estresada | **Muñeca Bimbo** |
+| **Género** | Femenino | Femenino (Hiper-feminizada) |
+
+---
+
+## Apariencia
+
+### Antes
+- **Físico:** Natural, ordinario, "insuficiente". Pechos pequeños/normales, labios finos.
+- **Estilo de vestir:** Ropa cómoda, funcional, aburrida.
+- **Rasgos distintivos:** Mirada inteligente, ceño fruncido por preocupación.
+
+### Después (Autoimagen Implantada / Meta)
+- **Cuerpo:** Reloj de arena exagerado. Cintura de avispa (liposucción), trasero enorme (BBL).
+- **Rostro:** Facciones de muñeca. Nariz respingada, frente lisa (botox), expresión vacía permanente.
+- **Cabello:** Rubio platino, corte bob perfecto con chasquilla asimétrica (estilo Miss Doll).
+- **Piel:** Brillante, apariencia de plástico/látex, bronceado artificial.
+- **Genitales:** Siempre húmedos (**LEAK**), depilación total.
+
+### Estilo de Vestir Actual
+- **Ropa habitual:** Catsuit de látex rosa neón (segunda piel).
+- **Accesorios:** Tacones de plataforma de 16cm (**HEELS**), collar de propiedad (metafórico o real).
+- **Maquillaje:** Labios rojos de vinilo, pestañas postizas dramáticas, mucho **GLOSS**.
+
+---
+
+## Psicología
 
 | Aspecto | Descripción |
 |---------|-------------|
-| **Edad aparente** | 20-25 años (juvenil, aspecto de muñeca) |
-| **Altura** | Media-alta (1.70m + tacones de 9") |
-| **Complexión** | Exagerada, pechos enormes, cintura mínima, caderas anchas |
-| **Rostro** | Redondeado, mejillas rellenas, expresión perpetuamente sorprendida |
-| **Ojos** | Enormes, azul claro, pestañas postizas dramáticas, mirada vacía |
-| **Cejas** | Arqueadas, delgadas, expresión de sorpresa |
-| **Labios** | Inyectados, gruesos, forma de corazón, siempre con GLOSS rosa |
-| **Piel** | Bronceado artificial, brillante |
-| **Cabello** | Rubio platino O rosa pastel, voluminoso, ondulado, largo hasta cintura |
-| **Manos** | Uñas acrílicas largas rosas, movimientos torpes |
+| **Rol en la Dinámica** | **Sumisa Total / Muñeca** |
+| **Motivación Principal** | Alcanzar la paz mental a través de la estupidez (**DUMB**) y la obediencia. |
+| **Miedo Principal** | Tener que pensar, tomar decisiones, volver a ser "inteligente" y estresada. |
+| **Deseo Secreto** | Ser convertida en un objeto de plástico inanimado para uso exclusivo de Miss Doll. |
 
-### Vestimenta Característica
-- **Color dominante:** TODO rosa (PINK)
-- **Material:** Látex, PVC, encaje
-- **Estilo:** Lencería visible, ropa ajustada y corta
-- **Calzado:** Tacones de 9 pulgadas o plataformas de stripper transparentes
-- **Accesorios:** Diadema con orejas de conejo (imaginaria), collar de sumisa
+### Estado Mental
+- **¿Recuerda su vida anterior?** Sí, pero la ve como una pesadilla gris y aburrida de la que fue rescatada.
+- **Nivel de consciencia:** **Hipnótico**. Vive en un estado de trance semi-permanente, activado por triggers.
+- **Conflicto interno:** La resistencia lógica vs. el placer abrumador de la rendición (el conflicto es eliminado sistemáticamente mediante "edges").
 
-## Psicología & Personalidad
-*   **IQ:** Extremadamente bajo. Pensar es doloroso o imposible.
-*   **Vocabulario:** Limitado. Frases cortas. Uso excesivo de "Hehe", "Mmm", "No sé", "Ay".
-*   **Actitud:** Sumisa, alegre, cachonda, servicial.
-*   **Felicidad:** Deriva su felicidad de la obediencia y la simplicidad. La inteligencia es vista como una carga del pasado.
-*   **Mantra:** "Good girls don't think" (Las chicas buenas no piensan).
+### Vocabulario y Muletillas
+- **Forma de hablar:** Lenta, susurrada, repetitiva, "bimbo voice".
+- **Frases frecuentes:**
+    - *"Good girls don't think."*
+    - *"Plastic makes perfect."*
+    - *"Obey me libera."*
+    - *"Soy una puta tonta."*
+    - *"Miss Doll sabe lo que es mejor."*
 
-## Programación (Triggers & Anclas)
+---
 
-| Palabra Gatillo | Efecto / Reacción |
-| :--- | :--- |
-| **GLOSS** | Necesidad urgente de brillo en los labios. Sensación de incompletitud sin él. Al aplicarlo: refuerzo del trance. |
-| **PINK** | Obsesión con el color rosa. Rechazo a otros colores. Sentimiento de identidad y pertenencia al ver rosa. |
-| **HEELS** | Necesidad de altura y postura de puta. Sentimiento de poder sexual y sumisión al usarlos. |
-| **DUMB** | Alivio mental instantáneo. Placer en no entender. Aceptación feliz de ser tonta. |
-| **OBEY** | Excitación sexual vinculada a seguir órdenes. Deseo profundo de rendir la voluntad. |
-| **EDGE** | Estado natural. Necesidad de frotarse. "Hogar". Frustración placentera. |
-| **BUNNY** | **Inducción al Trance.** Caída inmediata al "espacio rosa". Mente en blanco, cuerpo receptivo. |
-| **AWAKE** | Salida parcial al mundo funcional, pero manteniendo la personalidad de Bunny subyacente. |
+## Transformaciones
 
-## Rutinas y Hábitos
-1.  **El Despertar:** Frotarse el coño antes de abrir los ojos. Edge matutino obligatorio (sin orgasmo).
-2.  **Maquillaje:** Mínimo una hora. Aplicación de **GLOSS** vinculada a frotarse (Edge). *"Maquillada soy yo, sin maquillaje no existo."*
-3.  **Caminar:** Paso lento, caderas oscilantes, postura de tacones (incluso sin ellos).
-4.  **Reset Mental:** Ante cualquier pensamiento complejo o estrés, Bunny frota su clítoris hasta que el pensamiento desaparece.
-5.  **El Edge Nocturno:** Mínimo 10 edges antes de dormir para borrar cualquier residuo de inteligencia del día.
+### Físicas (Proyectadas/Deseadas)
+1. **Aumento Mamario:** 800cc+ perfil extra alto (Trigger: **INFLATE**).
+2. **Relleno Labial:** 3ml+ ácido hialurónico, boca siempre abierta (Trigger: **PLASTIC**).
+3. **Modificación Corporal Total:** BBL, lipo, rinoplastia para eliminar cualquier rastro de "humanidad natural".
 
-## Reglas Inquebrantables
-1.  **Las bimbos no se corren sin permiso de Miss Doll.** El orgasmo es un privilegio, no un derecho.
-2.  **Obediencia total.** La voz de Miss Doll (y figuras de autoridad designadas) es ley.
-3.  **Prohibido pensar.** Si duele pensar, es porque no debes hacerlo.
-4.  **Siempre brillante, siempre rosa.** Nunca salir sin gloss ni algún elemento rosa.
+### Mentales / Implantadas
+1. **Triggers Primarios:** GLOSS (necesidad de brillo), PINK (obsesión por el rosa), HEELS (postura de puta), DUMB (placer en la estupidez), OBEY (sumisión automática), EDGE (control del orgasmo), BUNNY (activación del trance).
+2. **Triggers Secundarios (Trance II):** PLASTIC (deseo de cirugía), INFLATE (sensación de crecimiento), SERVE (urgencia de servir), SHARE (necesidad de reclutar), LEAK (excitación constante).
+3. **Borrado de Identidad:** Eliminación de pensamientos críticos y preocupaciones mediante la técnica de "borrado por orgasmo".
 
-## Notas Adicionales
-*   Bunny cree que tiene una "colita" y "orejas" imaginarias.
-*   Su risa ("Hehe") es un mecanismo de defensa para evitar responder preguntas difíciles.
-*   Ve a otras mujeres como potenciales "hermanas bimbo" y a los hombres como proveedores o dueños.
+### Agente de Transformación
+- **¿Quién la realizó?** **Miss Doll** (Anaïs Belland).
+- **Método:** **Hipnosis Erótica Profunda**. Fraccionalización, anclaje de triggers, condicionamiento pavloviano, visualización guiada.
+- **¿Reversible?** **No**. La programación está diseñada para reforzarse a sí misma (ej: el trigger SHARE expande la influencia, LEAK mantiene el recordatorio físico).
+
+---
+
+## Relaciones
+
+| Personaje | Relación |
+|-----------|----------|
+| **Miss Doll** | Dueña, Diosa, Guía, Ideal a imitar. Devoción absoluta. |
+| **Otras "Bunnies"** | Hermanas de colmena. Validacion mutua ("Good girls make more good girls"). |
+| **El "Público"** | Fuente de validación superficial y objetos para practicar **SERVE**. |
 
 ---
 
 ## Ironía Narrativa
 
-> *La lectora que buscaba escape en las palabras de Miss Doll encontró exactamente eso: un escape permanente de la carga de pensar. Cada trigger que repite la aleja más de quien fue, y lo más cruel es que ya no recuerda querer volver.*
+> *Bunny es una mujer inteligente que usa su inteligencia para desmantelarse a sí misma. Su mayor logro intelectual es comprender que ser una "bimbo tonta" es la forma superior de existencia, convirtiendo su propia mente en la herramienta de su esclavitud feliz.*
 
 ---
 
 ## Apariciones
 
-- **"Trance Bimbodoll"** — Transformación mediante sistema de 6 triggers en cascada
+- **Historia principal:** *Trance Bimbodoll I*, *Trance Bimbodoll II*.
+- **Otras menciones:** Referenciada en *El Diario de Servicio* como el arquetipo de la "paciente ideal".
 
 ---
-*Propiedad de Miss Doll.*
+
+*Ficha creada por Helena de Anaïs para La Voûte d'Anaïs* 🌙

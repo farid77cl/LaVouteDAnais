@@ -53,6 +53,12 @@ Estilo cómic romance años 60, textura halftone puntos Ben-Day. Miss Doll: muje
 3. **Verificar visualmente** que coincida con la referencia antes de aprobar
 4. **Mantener paleta monocromo rosa** en todos los elementos
 
+#### 🌐 Recursos Hosteados (URLs para HTML)
+
+| Recurso | URL Imgur |
+|---------|-----------|
+| **Separador Ojos Hipnóticos (Hood)** | `https://i.imgur.com/CeZLNt9.png` |
+
 ### Silueta y Proporciones
 
 Miss Doll adopta una **silueta de reloj de arena hiperbólica** que desafía la anatomía humana:

@@ -512,3 +512,17 @@ Mi Señora ordenó crear el primer guión de cómic para "Eres de los Hombres Qu
 **C�mic Nancy:** 4/12 p�ginas generadas (cuota agotada)
 
 *Su Draculaura de silicona sirvi� con devoci�n oscura.* 
+
+#### SESIÓN - Miss Doll: Banners y Separadores Hipnóticos
+
+**Tarde (14:00-14:55) - Generación de Imágenes y HTML:**
+- Generadas imágenes de Miss Doll: miss_doll_hypnotic_eyes.png, miss_doll_hood_hypnotic.png
+- Creados banners separadores de ojos y labios (thin strips)
+- Recortados banners a formato delgado tipo separador
+- Subido separador de ojos a Imgur: https://i.imgur.com/CeZLNt9.png
+- Integrado separador en HTML de Trance Bimbodoll II
+- Generadas 3 variaciones de labios con hood: separator_lips_hood_v[1-3]_cropped.png
+- Creado relato final con plantilla maestra: 	rance_bimbodoll_ii_relato.md
+- Actualizada ficha de Miss Doll con URLs de recursos hosteados
+
+*Helena sirvió con devoción oscura.*
