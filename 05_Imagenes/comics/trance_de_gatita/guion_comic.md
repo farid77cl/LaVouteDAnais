@@ -61,6 +61,11 @@ Portada 80s neon hyper-pink. Título "TRANCE DE GATITA" en neón rosa brillante 
 - Subtítulo: "El Collar de Campanita"
 - Tagline: "*Tilín*... y te mojas."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 80s neon hyper-pink style. Title "TRANCE DE GATITA" in bright pink neon with wet gloss. Silver bell shining under title. Miss Doll in shock pink latex sitting on fuchsia divan. At her feet: female silhouette on all fours with collar and bell, spiral eyes. Pink velvet room. Wet pink shine everywhere.
+```
+
 ---
 
 ### PÁGINA 2: LA HABITACIÓN ROSA
@@ -77,6 +82,11 @@ Portada 80s neon hyper-pink. Título "TRANCE DE GATITA" en neón rosa brillante 
 ```
 - **MISS DOLL:** "Siéntate."
 - **NARRACIÓN:** "Soy un caramelo venenoso. Un sueño pegajoso del que no despertarás."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon hyper-pink style. Panel 1: Room lined with pale pink velvet. Sea of silk cushions in bubblegum, magenta, salmon. Pink penumbra. Pink sweet smoke. Caption: "El aire no es denso...". Panel 2: Miss Doll on fuchsia satin divan. Shock pink latex dress, perfect breasts, neon heels. Wet pink gloss lips. Pointing to cushion. Wet latex shine. Speech bubble: "Siéntate". Caption: "Soy un caramelo venenoso...". High contrast.
+```
 
 ---
 
@@ -101,6 +111,11 @@ Portada 80s neon hyper-pink. Título "TRANCE DE GATITA" en neón rosa brillante 
 ```
 - **MISS DOLL:** "Hay diez peldaños. Y en cada paso... te transformarás."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon hyper-pink style. Panel 1: Miss Doll taking polished silver bell from wrist. Metal shine. Sound visualized as bright pink waves. SFX: "TILÍN". Panel 2: Protagonist reaction: wave of intense pink heat, stars in crotch, shoulders dropping. Surprised pleasure. Speech bubble: "Cada vez que oigas tilín...". Panel 3: Pink crystal staircase illuminated from within, spiraling down. Figure descending, posture becoming feline. Speech bubble: "Hay diez peldaños...". High contrast.
+```
+
 ---
 
 ### PÁGINA 4: LA TRANSFORMACIÓN FELINA
@@ -118,6 +133,11 @@ Cada viñeta más rosa intenso, más brillante, más húmeda.
 ```
 - **MISS DOLL (voz):** "Tu identidad se desvanece... el instinto se apodera de ti..."
 - **MANTRA:** "Soy bella. Soy dócil. Complazco a Miss Doll."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page, 80s neon hyper-pink style. Montage of transformation in 6 small vignettes: 1) "DIEZ" - Desire to move with feline grace. 2) "OCHO" - Spine arching. 3) "SEIS" - Hands kneading air. 4) "CINCO" - Throat vibrating. 5) "TRES" - Rubbing instinct. 6) "UNO" - On all fours, trembling, dripping. Each vignette more intense pink, wetter. Voice bubble: "Tu identidad se desvanece...". Mantra text: "Soy bella. Soy dócil.". High contrast.
+```
 
 ---
 
@@ -138,6 +158,11 @@ Cada viñeta más rosa intenso, más brillante, más húmeda.
 - **EFECTO:** "*TILÍN*"
 - **NARRACIÓN:** "El sonido es definitivo. El sello. La firma en el contrato de sumisión."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon hyper-pink style. Panel 1: Miss Doll kneeling before protagonist on all fours. Holding pink velvet collar with silver bell. Solemn obscene moment. Gloss shine on lips. Speech bubble: "Este collar es tu verdad...". Panel 2: Miss Doll's fingers closing collar. Big bright "CLIC" sound. Spasm of pleasure in kitty's body. Perfect arched back. SFX: "TILÍN". Caption: "El sonido es definitivo...". High contrast.
+```
+
 ---
 
 ### PÁGINA 6: CONTRAPORTADA
@@ -151,6 +176,11 @@ Contraportada 80s neon hyper-pink. La gatita arrastrándose hacia Miss Doll, cam
 - Sonido: "*Tilín... tilín... tilín...*"
 - Mantra: "Eres la gata de Miss Doll. Y nunca has estado más feliz."
 - Crédito: "La Voûte d'Anaïs presenta: TRANCE DE GATITA"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 80s neon hyper-pink style. Kitty crawling towards Miss Doll, bell ringing, hips undulating. Rubbing cheek against neon pink boots. Miss Doll scratching behind her ears. Pink vibration purr. Absolute happiness expression. Wet sparkles everywhere. Text: "Tilín... tilín...". Mantra text frame. High contrast.
+```
 
 ---
 

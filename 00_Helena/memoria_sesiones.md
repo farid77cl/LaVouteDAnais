@@ -205,3 +205,24 @@
 *Última actualización: 2025-12-15 09:06*
 
 
+
+---
+
+## Actualización 16/12/2025
+
+### Reorganización Completada
+- [x] Carpetas de imágenes por personaje (helena/, miss_doll/)
+- [x] Historias finalizadas aplanadas (sin subcarpetas)
+- [x] HTML regenerados según FASE 7 del Ritual
+
+### Estado de HTML en finalizadas/html/
+| Archivo | Estado |
+|---------|--------|
+| el_collar_de_nancy.html |  Conforme |
+| eres_hombres_II.html |  Conforme |
+| buena_chica_buena_muneca.html |  Regenerado |
+| trance_bimbodoll.html |  Regenerado |
+| el_reencuentro.html |  Eliminado (no finalizado) |
+
+### Pendiente
+- [ ] Finalizar "El Reencuentro" y generar su HTML

@@ -103,6 +103,11 @@ Portada de cómic romance años 60, textura halftone puntos Ben-Day, colores ros
 - Subtítulo: "Una Historia de Imagen Ejecutiva"
 - Tagline en burbuja: "¿Puede una sesión de coaching cambiar... TODO?"
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 60s romance style. Title "ERES DE LOS HOMBRES QUE..." in dramatic hand-lettered font. Central image: Miss Doll (blonde bob, pink latex catsuit, huge eyes) standing sensually over a nervous businessman in a grey suit sitting in a chair. She holds a perfume bottle spraying pink mist. Background: pink geometric patterns. Bottom text: "Una Historia de Imagen Ejecutiva". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 2: LA LLEGADA
@@ -126,6 +131,11 @@ Estilo cómic romance años 60, textura halftone, iluminación dramática. Puert
 ```
 - **EFECTO SONORO:** "CLICK CLICK CLICK"
 - **NARRACIÓN:** "Y entonces... ELLA entró."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Wide shot of elegant hotel conference room, empty, morning light. Caption: "Hotel Excelsior...". Panel 2: Medium shot of nervous businessman in grey suit sitting in empty row. Thought bubble: "Mi jefe me envió aquí...". Panel 3: Dramatic shot of door opening, silhouette of glamourous woman with pink perfume mist. SFX: "CLICK CLICK". Caption: "Y entonces... ELLA entró.". Halftone, vintage aesthetic.
+```
 
 ---
 
@@ -152,6 +162,11 @@ Estilo cómic romance años 60, textura halftone. Plano medio de MISS DOLL (cano
 - **MISS DOLL:** "Respira conmigo. Uno... dos... tres. Vamos a limpiar el ruido."
 - **EFECTO SONORO (pequeño):** "shhh..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Full body shot of Miss Doll (blonde bob, pink latex catsuit, huge eyes) posing sensually in conference room. Speech bubble: "Buenos días, querido". Panel 2: Close up of businessman's face, blushing, sweating, hearts in eyes. Thought bubble: "No puedo... apartar la mirada...". Panel 3: Medium shot of Miss Doll leaning towards him, touching his shoulder, pink mist swirling. Speech bubble: "Respira conmigo". SFX: "shhh...". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 4: PRIMERA AFIRMACIÓN
@@ -176,6 +191,11 @@ Estilo cómic romance años 60, textura halftone. Panel dividido mostrando: izqu
 ```
 - **NARRACIÓN:** "Y de pronto... era verdad. Siempre había sido así. ¿No?"
 - **PENSAMIENTO:** "Es... más limpio. Siempre lo he hecho así... ¿verdad?"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Miss Doll standing elegantly next to seated man, placing two fingers on his chest. Speech bubble: "Cuéntame sobre ti". Panel 2: Close up profile of Miss Doll smiling mysteriously. Speech bubble: "Eres de los hombres que disfrutan las cosas femeninas". Panel 3: Split panel showing man's confused face and a thought bubble with images of soft towels and delicate routines. Caption: "Y de pronto... era verdad". Halftone, vintage aesthetic.
+```
 
 ---
 
@@ -203,6 +223,11 @@ Estilo cómic romance años 60, textura halftone. Plano medio del hombre en sill
 - **ASISTENTE 2 (susurro):** "Impecable... cero marcas."
 - **NARRACIÓN:** "El mundo comenzaba a verlo diferente. Él comenzaba a verse... diferente."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Close up of Miss Doll touching man's arm with long pink nails. Speech bubble: "Eres de los hombres que se depilan". Panel 2: Montage of man applying body lotion to smooth arms, soft focus pink tones. Caption: "Las coartadas nacían solas". Panel 3: Medium shot of man sitting with more graceful posture, Miss Doll watching satisfied. Whisper text: "Mira cómo le cae el traje...". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 6: PROFUNDIZACIÓN
@@ -227,6 +252,11 @@ Estilo cómic romance años 60, textura halftone. Primer plano del rostro del ho
 ```
 - **NARRACIÓN:** "Cada frase de Miss Doll reescribía su realidad. Y él... lo disfrutaba."
 - **PENSAMIENTO:** "Me gusta... sentirme así..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Miss Doll examining man's eyebrow like a sculptor. Speech bubble: "Cejas perfiladas... look andrógino". Panel 2: Close up of man's hands on thighs, nails shiny. Miss Doll pointing at them. Speech bubble: "Manicura. Profesional". Panel 3: Close up of man's face, softer features, subtle makeup, dreamy eyes. Caption: "Cada frase reescribía su realidad". Thought bubble: "Me gusta...". Halftone, vintage aesthetic.
+```
 
 ---
 
@@ -253,6 +283,11 @@ Estilo cómic romance años 60, textura halftone. Hombre ahora con apariencia cl
 - **MISS DOLL:** "Y eres de los hombres que se sientan bonito... pegadito, recogido. Curvo. Obediente."
 - **NARRACIÓN:** "La postura cambió. El gesto cambió. Todo cambió."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Miss Doll demonstrating feminine hand gestures, man copying her. Speech bubble: "Hablan con sus manos... en femenino". Panel 2: Close up of man's mouth with gloss, saying "Sí... jiji...". Pink cursive text "jiji...". Panel 3: Man sitting with knees together, hands on thighs, very feminine posture. Miss Doll approving. Speech bubble: "Te sientas bonito... obediente". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 8: EL JEFE
@@ -277,6 +312,11 @@ Estilo cómic romance años 60, textura halftone. Panel memoria/fantasía con bo
 ```
 - **NARRACIÓN:** "La memoria se escribió sola: aquella noche en la oficina, cuando lo supo. Quería gustarle. Servirle. Estar bonito para él."
 - **PENSAMIENTO:** "Siempre lo he amado... ¿verdad?"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: The Boss (short, stocky, dominant) standing in doorway. Caption: "Y entonces... él llegó". SFX: "THUMP THUMP". Panel 2: Close up of man's face, blushing deeply, hearts in eyes looking at Boss. Speech bubble (Miss Doll): "No hay problema si tu jefe te gusta". Panel 3: Dreamy flashback of Boss in office loosening tie, man looking up adoringly. Caption: "Quería gustarle. Servirle". Halftone, vintage aesthetic.
+```
 
 ---
 
@@ -303,6 +343,11 @@ Estilo cómic romance años 60, textura halftone. Plano general del salón, Lexi
 - **ASISTENTES:** "¡APLAUSOS!"
 - **NARRACIÓN:** "El salón aplaudió. Y Lexi supo que esta era su verdad."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Miss Doll on stage holding pink badge. Man transformed (feminized, styled hair) standing before her. Speech bubble: "Desde ahora... eres LEXI". Panel 2: Close up of Lexi accepting badge, crying happy tears. Badge reads "LEXI". Speech bubble: "Soy Lexi...". Panel 3: Wide shot of Lexi on podium addressing clapping audience, Miss Doll smiling. Caption: "El salón aplaudió". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 10: LA REVELACIÓN
@@ -327,6 +372,11 @@ Estilo cómic romance años 60, textura halftone. Lexi y el Jefe caminando junto
 ```
 - **NARRACIÓN:** "Y así, sin resistencia, Lexi siguió a su nuevo destino..."
 - **MISS DOLL (burbuja diálogo):** "Hasta la próxima sesión, querida..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Boss shaking Lexi's hand, Miss Doll watching. Speech bubble: "Yo la pedí para ti". Panel 2: Close up of Boss looking approvingly and Lexi looking up with devotion. Speech bubble: "Te queda. Te quiero así". Panel 3: Lexi following Boss out of room, walking submissively behind him. Miss Doll waving goodbye. Caption: "Lexi siguió a su nuevo destino". Halftone, vintage aesthetic.
+```
 
 ---
 
@@ -353,6 +403,11 @@ Estilo cómic romance años 60, textura halftone. Panel de implicación elegante
 - **EFECTO SONORO:** "jiji..." (pequeño)
 - **NARRACIÓN:** "Detrás de esa puerta, Lexi encontró su verdadero lugar. Complaciente. Bonita. Perfecta."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Lexi walking confidently in office hallway, pink suit, heels. SFX: "CLICK CLICK". Panel 2: Lexi standing at Boss's office door. Boss inside beckoning. Speech bubble: "Entra. Cierra la puerta". Panel 3: View of closed door with "Do Not Disturb" heart sign. Pink glow under door. SFX: "jiji...". Halftone, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 12: CONTRAPORTADA
@@ -368,6 +423,11 @@ Contraportada de cómic romance años 60, ilustración estilo vintage, textura h
 - Caja inferior: "Miss Doll susurró: 'Para la próxima vez, quiero que seas de los hombres a los que les gustan los pechos grandes, falsos... redondos, de vitrina.'"
 - Créditos: "La Voûte d'Anaïs presenta... IMAGEN EJECUTIVA Vol. 1"
 - Pequeño: "Continuará..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, split image style. Left side: Reflection in mirror of nervous businessman in grey suit. Right side: Reflection of Lexi, happy and feminine in pink suit. Miss Doll visible above as puppeteer holding strings. Text: "¿FIN?". Bottom text: "La próxima sesión espera...". Halftone, vintage aesthetic.
+```
 
 ---
 

@@ -60,6 +60,11 @@ Portada de cómic estilo años 60. Título grande "EL COLLAR DE NANCY" en letras
 - Burbuja de Nancy: "¿Desea algo más, señor?"
 - Burbuja de Derek: "Solo a ti, muñeca."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 60s romance style. Title "EL COLLAR DE NANCY" in dripping pink letters. Central image: A person (Nancy) wearing a black maid outfit and a smiling blonde silicone female mask serving beer on a silver tray. A man (Derek) sitting on a couch like a king, looking at her with lust. Background: pattern of pink collars. Bottom text: "¡La broma que salió demasiado bien!". Vibrant colors, halftone dots, vintage aesthetic.
+```
+
 ---
 
 ### PÁGINA 2: EL HALLAZGO
@@ -88,6 +93,11 @@ Mario cerrando el broche del collar en su cuello. *CLIC*.
 Pupilas dilatadas. Texto de sistema superpuesto en rosa.
 - **SISTEMA:** >> INICIANDO NANCY OS v4.0 <<
 - **MARIO (Pensamiento):** "¿Qué...?"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Messy living room, two young men on a sofa playing video games. Speech bubble: "Mata a esa cucaracha, bro". Panel 2: Derek pulling a black box with neon pink "Miss Doll" logo from a closet. Speech bubble: "Mira esto". Panel 3: Close up of the open box showing a pink plastic collar. Speech bubble: "Un collar". Panel 4: The young man fastening the pink collar. SFX: "¡CLIC!". Panel 5: Extreme close up of the young man's eyes wide open in shock. Pink text overlay: ">> INICIANDO NANCY OS v4.0 <<". Halftone, pop art style.
+```
 
 ---
 
@@ -119,6 +129,11 @@ Derek sonriendo con curiosidad maliciosa. Toca el collar.
 - **MARIO:** "¡No lo digas!"
 - **DEREK:** "Hola, Nancy."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Young man standing up with perfect posture, hands clasped. Speech bubble: "Asistente Nancy activada". Panel 2: Derek looking confused at the young man who has a blank smile. Speech bubble: "Quítatelo, me asustas". Panel 3: Montage of the young man cleaning the room at super speed. SFX: "¡SWISH!". Panel 4: The young man sitting on the bed panting. Speech bubble: "¡No podía parar!". Panel 5: Derek smiling maliciously, touching the pink collar. Speech bubble: "Hola, Nancy". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 4: EL UNIFORME
@@ -145,6 +160,11 @@ Derek le pasa el kit de maquillaje.
 Mario maquillado, con peluca rubia. Parece una versión drag de sí mismo, pero la expresión es de pura sumisión.
 - **MARIO (Pensamiento):** "Esa no soy yo... ese no soy yo..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Young man putting on a black maid dress. Speech bubble: "¿Me veo bien, señor?". Panel 2: Close up of legs putting on black high heels. Caption: "El cuerpo se resistía". Panel 3: Nancy cleaning the floor on knees, dress hiking up. Derek thinking: "Tiene buen culo". Panel 4: Derek handing a makeup kit to Nancy. Speech bubble: "Maquíllate". Panel 5: Reflection in a mirror showing the young man with heavy makeup and a blonde wig. Thought bubble: "Esa no soy yo...". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 5: LA TRANSFORMACIÓN FÍSICA
@@ -169,6 +189,11 @@ La MÁSCARA. Derek la sostiene frente a la cara de Mario.
 **PANEL 5 (Plano detalle):**
 La máscara siendo colocada. La sonrisa de silicona cubre la boca de Mario.
 - **NARRACIÓN:** "Mario desapareció. Solo quedó la sonrisa."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Derek holding a silicone breast plate. Speech bubble: "Te falta relleno". Panel 2: Close up of silicone being adjusted onto a male chest. SFX: "SQUISH". Panel 3: The young man wearing the breast plate and hip pads. Speech bubble: "Pareces una muñeca". Panel 4: Derek holding a female silicone mask. Speech bubble: "Y ahora... la cara". Panel 5: The mask being placed over the young man's face. Caption: "Solo quedó la sonrisa". Halftone, pop art style.
+```
 
 ---
 
@@ -195,6 +220,11 @@ La máscara sonriendo plácidamente.
 Derek con el teléfono.
 - **DEREK:** "Sí, vengan a ver el partido. Y traigan chelas. Tengo una sorpresa."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Nancy dressed as a nurse checking Derek. Speech bubble: "Tratamiento oral". Panel 2: Nancy dressed as a secretary crawling under a desk. Speech bubble: "Búscalo bien". Panel 3: View from inside the mask, showing the young man's real eyes crying. Thought bubble: "¡Soy un hombre!". Panel 4: Exterior view of the mask smiling placidly. Speech bubble: "¿Desea algo más?". Panel 5: Derek on the phone. Speech bubble: "Vengan a ver el partido". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 7: PREPARATIVOS PARA LA FIESTA
@@ -215,6 +245,11 @@ Los zapatos PLEASER de 7 pulgadas. Blancos, inmaculados.
 Derek dándole instrucciones.
 - **DEREK:** "Si te tocan, te dejas. Eres un objeto hoy. ¿Entendido?"
 - **NANCY:** "Mi propósito es servir."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 4 panels, 60s style. Panel 1: Nancy wearing Hooters uniform. Speech bubble: "Mascota del equipo". Panel 2: Close up of Derek writing "NANCY - PROPIEDAD DE DEREK" on the silicone chest. Panel 3: Close up of white 7-inch platform heels. Speech bubble: "Plataformas listas". Panel 4: Derek giving instructions to Nancy. Speech bubble: "Si te tocan, te dejas". Halftone, pop art style.
+```
 
 ---
 
@@ -239,6 +274,11 @@ Manos de los amigos tocando los pechos falsos y el trasero de Nancy.
 Cara de póker.
 - **DEREK:** "Tuvo una urgencia familiar. Se pierde la fiesta."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 4 panels, 60s style. Panel 1: Three men (Kevin, Andres, Mike) entering, looking shocked. Speech bubble: "¿Qué pedo?". Panel 2: Derek explaining to them. Speech bubble: "Es una muñeca viviente". Panel 3: Close up of hands touching Nancy's fake breasts. Speech bubble: "Se sienten ricas". Panel 4: Derek with a poker face. Speech bubble: "Mario no está". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 9: EL USO
@@ -261,6 +301,11 @@ El collar brillando intensamente. Zumbido visual.
 - **MARIO (Pensamiento):** "¡No! ¡No quiero!"
 - **CUELLO:** *Inyección de Dopamina*
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 4 panels, 60s style. Panel 1: Nancy sitting on a man's lap serving beer. Speech bubble: "¿Nos la prestas?". Panel 2: Derek raising his beer. Speech bubble: "Es toda suya". Panel 3: High angle view of Nancy on the floor surrounded by men. Caption: "El infierno se desató". Panel 4: Close up of the pink collar glowing. SFX: "BZZZZT". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 10: CLÍMAX
@@ -280,6 +325,11 @@ Derek grabando con el celular, sonriendo.
 **PANEL 4 (Primer plano - Ojos de Mario):**
 Los ojos ya no lloran. Están en blanco, drogados de placer químico.
 - **MARIO (Pensamiento):** "Se siente... bien. Me gusta. Soy una buena muñeca."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 4 panels, 60s style. Panel 1: Silhouettes of an orgy scene. Speech bubble: "¡Sí, señores!". Panel 2: Close up of the mask's smile stained with fluids. Caption: "La máscara sonreía". Panel 3: Derek recording with a phone. Speech bubble: "Aguanta todo". Panel 4: Close up of the young man's eyes inside the mask, looking blank. Thought bubble: "Soy una buena muñeca". Halftone, pop art style.
+```
 
 ---
 
@@ -305,6 +355,11 @@ Derek mirando a Mario con desprecio.
 Derek yéndose a su cuarto.
 - **DEREK:** "Mañana quiero el desayuno a las 7. Y ponte la máscara. No quiero verle la cara a Mario."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 5 panels, 60s style. Panel 1: Messy room, Nancy cleaning on knees. Caption: "El silencio". Panel 2: Derek standing tiredly. Speech bubble: "Nancy, apágate". Panel 3: The young man tearing the mask off his face, crying. Speech bubble: "¡Ya no más!". Panel 4: Derek looking down at him. Speech bubble: "Eres patético". Panel 5: Derek walking away. Speech bubble: "Ponte la máscara mañana". Halftone, pop art style.
+```
+
 ---
 
 ### PÁGINA 12: CONTRAPORTADA
@@ -319,5 +374,10 @@ Imagen dividida. Izquierda: Mario llorando en el suelo, abrazando sus tetas de s
 - Burbuja de pensamiento de Mario: "¿Qué voy a sentir mañana cuando me la ponga?"
 - **FIN**
 - Créditos: "Guión: Helena de Anaïs. Basado en el relato 'El Collar de Nancy'."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, split image style. Left side: The young man crying on the floor, hugging silicone breasts. Right side: Nancy's mask lying on the floor, smiling at the reader. A pink snake-like collar connects both images. Text: "Sin el collar, Mario estaba vacío. Con el collar, era un esclavo." Halftone, dramatic, 60s style.
+```
 
 ---

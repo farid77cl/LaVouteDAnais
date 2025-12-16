@@ -72,6 +72,11 @@ Portada Romance Comics 60s glamour. Título "BRILLANDO EN TACONES" en dorado bri
 - Subtítulo: "La Metamorfosis de Esteban"
 - Tagline: "Ser brillante es una decisión."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 60s romance style with glamour. Title "BRILLANDO EN TACONES" in shiny gold letters with stars. Central image: High transparent platform heels shining with rainbows. Androgynous silhouette reflected in the heels. Background: vintage beauty salon with gold mirrors. Bottom text: "La Metamorfosis de Esteban". Halftone pink, sparkles.
+```
+
 ---
 
 ### PÁGINA 2: EL DESCUBRIMIENTO
@@ -97,6 +102,11 @@ Romance 60s. Eli cortando cabello de Esteban, tijeras danzando. Primer plano del
 ```
 - **ELI:** "Tu cuello, escondido por miedo. Tus ojos, tapados por el peso. Vamos a dejar que la luz entre."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Esteban walking anxiously in bohemian street, closed shops. Shiny sign "Eli - Estudio de Belleza Integral". Caption: "Era domingo...". Panel 2: Interior of salon, candles, gold mirrors. Eli (tall, red hair bun, black vinyl) appearing from lace curtain. Speech bubble: "Bienvenido, Esteban". Panel 3: Eli cutting Esteban's hair, scissors dancing with sparkles. Close up of his face changing in mirror. Speech bubble: "Vamos a dejar que la luz entre". Halftone, glamour effects.
+```
+
 ---
 
 ### PÁGINA 3: LA VOZ DESPIERTA
@@ -114,6 +124,11 @@ Romance 60s. Esteban saliendo del salón. Eli susurrándole. Afuera: vitrina cer
 ```
 - **ELI:** "Si te cruzas con algo que brille... míralo dos veces."
 - **VOZ BIMBO (apareciendo sobre tacones):** "Ayyy los amo 💕 imagina lo que se siente estar sobre ellos... tan boba y brillante, jiji"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Esteban looking in mirror, clear face, long neck, unexpected beauty. Pink cloud thought bubble: "O-M-G babe... nos vemos soooo cute así 💕". Panel 2: Esteban leaving salon. Outside, closed shop window with transparent heels shining in sunlight. Eli whispering. Pink text over heels: "Ayyy los amo 💕". Halftone, glamour effects.
+```
 
 ---
 
@@ -137,6 +152,11 @@ Romance 60s. Esteban despertando agitado, mano sobre pecho que parece más lleno
 ```
 - **NARRACIÓN:** "Lo más inquietante... le gustaba."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Esteban on laptop late at night, screen glowing pink. Hand on chest, hypnotized expression. Pink text: "Shhh... imagina caminar así". Panel 2: Dream sequence, pink vignette. Feminine figure (Esteban transformed) in gold room, long hair, shiny lips, transparent heels. Men admiring. Pink text: "Ayy papi...". Panel 3: Esteban waking up agitated, hand on fuller chest. Confused/excited expression. Caption: "Lo más inquietante... le gustaba". Halftone, glamour effects.
+```
+
 ---
 
 ### PÁGINA 5: LOS TACONES LLEGAN
@@ -154,6 +174,11 @@ Romance 60s glamour. Esteban con tacones puestos por primera vez. Sol atravesán
 ```
 - **VOZ BIMBO:** "Solo pruébalos... déjame sentir cómo te ves con ellos 💕"
 - **NARRACIÓN:** "El silencio. Solo quedó la sensación de altura, de vértigo dulce."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Esteban opening mysterious box at door. Inside: shiny transparent high heels. Note: "Ser brillante es una decisión". Panel 2: Esteban wearing heels for first time, sun creating rainbows. Posture changing, hips swaying, back arched. Pink text: "Solo pruébalos... 💕". Halftone, glamour effects.
+```
 
 ---
 
@@ -177,6 +202,11 @@ Romance 60s. Esteban dormido en alfombra, abrazando sus piernas, tacones aún pu
 ```
 - **VOZ BIMBO (suave):** "Ssshh... descansa, babe. Mañana brillamos más 💕"
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Esteban slow dancing alone in living room wearing heels and floating robe. Ecstatic expression. Musical notes. Caption: "Lento. Torpe. Femenino". Panel 2: Esteban at window at night, reflection showing curvy bimbo figure. Pink laughter "HA HA HA". Panel 3: Esteban sleeping on rug, hugging legs, heels still on. Peaceful. Pink text: "Ssshh... descansa, babe 💕". Halftone, glamour effects.
+```
+
 ---
 
 ### PÁGINA 7: LA TRANSFORMACIÓN
@@ -194,6 +224,11 @@ Romance 60s. Comparación lado a lado: Esteban antes (gris, tenso, rígido) vs E
 - **NARRACIÓN:** "Esteban no respondió. Se acarició el talón elevado. Cerró los ojos."
 - **FINAL:** "Y sonrió."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Morning, Esteban at bathroom mirror. Firmer chest, narrow waist. Caressing neck. Pink text: "Babe... ahora sí 💕". Panel 2: Side by side comparison: Esteban before (grey, tense) vs Esteban now (pink, soft, glowing). He caresses his elevated heel. Caption: "Y sonrió". Halftone, glamour effects.
+```
+
 ---
 
 ### PÁGINA 8: CONTRAPORTADA
@@ -208,6 +243,11 @@ Contraportada Romance 60s glamour. Tacones transparentes en primer plano creando
 - VOZ BIMBO: "Nos vemos tan lindas, babe 💕"
 - Crédito: "La Voûte d'Anaïs presenta: BRILLANDO EN TACONES"
 - Nota: "Continúa en Parte II: La Bimbo Que Brilla"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 60s glamour style. Close up of transparent heels creating rainbows. Reflected in them: shiny feminine silhouette. Eli's sign visible: "Para quien se atreve a verse distinto". Stars and sparkles. Text: "Cada paso diciendo mírame". Pink text: "Nos vemos tan lindas, babe 💕". Halftone, pink and gold palette.
+```
 
 ---
 

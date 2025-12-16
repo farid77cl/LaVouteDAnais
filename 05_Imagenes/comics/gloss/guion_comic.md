@@ -67,6 +67,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 - Subtítulo: "El Trance de Miss Doll"
 - Tagline: "Cada vez que digas gloss... se reduce un poco más."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 80s neon style. Title "GLOSS" in bright pink neon font with wet shine. Background black with dramatic overhead pink light. Miss Doll in black latex catsuit, sitting on metal chair, legs crossed dominantly. Pink smoke swirling. Reflection in puddle of glossy lips. High contrast. Text: "El Trance de Miss Doll".
+```
+
 ---
 
 ### PÁGINA 2: EL CUARTO
@@ -83,6 +88,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 ```
 - **MISS DOLL:** "Siéntate."
 - **NARRACIÓN:** "Su cuerpo hipnótico brilla bajo el haz de luz... el aire impregnado de vainilla y humo dulce."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon style. Panel 1: Dark interrogation room, single pink overhead light on two empty metal chairs. Black walls, smoke. Caption: "El cuarto está oscuro...". Panel 2: Miss Doll seated under the light, black shiny latex catsuit, red wet lips. Pointing to the other chair. Pink perfume smoke. Speech bubble: "Siéntate". High contrast, dramatic.
+```
 
 ---
 
@@ -107,6 +117,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 - **MISS DOLL:** "Inhala y di: soy vacío. Exhala y di: soy Suyo."
 - **PROTAGONISTA (pensamiento en neón):** "soy vacío... soy Suyo..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon style. Panel 1: Close up of Miss Doll's eyes glowing magenta neon, subtle spirals. Red wet lips speaking. Speech bubble: "Imagina que bajas una escalera rosada...". Panel 2: Abstract neon pink spiral staircase descending. Silhouette of protagonist going down. Floating numbers. Panel 3: Protagonist sitting, posture softening, shoulders relaxing. Pink spirals in eyes. Miss Doll watching. Speech bubble: "Inhala y di: soy vacío". Neon thought text: "soy vacío...". High contrast.
+```
+
 ---
 
 ### PÁGINA 4: LA TRANSFORMACIÓN FÍSICA
@@ -125,6 +140,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 - **MISS DOLL:** "Tu verga se derrite... ahora solo un botoncito tembloroso. Mientras tus tetas se hinchan... grandes... pesadas..."
 - **PENSAMIENTO (neón pequeño):** "gloss... más pequeño... gloss..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon style. Panel 1: Transformation sequence montage: shoulders becoming delicate, posture coqueta, chest projecting. Neon magenta glow. Voice over text: "Tu postura cambia sola...". Panel 2: Stylized genital transformation process, abstract silhouette shrinking with glow, chest silhouette growing. Pink spirals. Speech bubble: "Tu verga se derrite...". Neon thought text: "gloss... más pequeño...". High contrast.
+```
+
 ---
 
 ### PÁGINA 5: EL ESPEJO
@@ -135,6 +155,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 ```
 - **MISS DOLL:** "Mírate en el espejo de tu mente... esa no es tu antigua imagen. Ahora solo ves Mi muñeca vacía."
 - **MANTRA (flotante neón):** "Soy vacía... soy Suya... soy muñeca..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page, 80s neon style. Large central mirror showing transformed reflection: huge glossy pink lips, big fake boobs, tiny waist, perky butt. Eyes with spirals. Empty happy expression. Small vignettes around showing neon high heels, long shiny nails, tiny thong. All bathed in pink neon light. Miss Doll reflected behind, satisfied smile. Speech bubble: "Mírate en el espejo de tu mente...". Floating neon text: "Soy vacía... soy Suya...". High contrast.
+```
 
 ---
 
@@ -160,6 +185,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 - **PROTAGONISTA:** "gloss... gloss... gloss..."
 - **NARRACIÓN:** "Cada palabra hace que se achique... que desaparezca... que se humille."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon style. Panel 1: Miss Doll whispering, red lips near transformed protagonist's ear. Word "GLOSS" coming out as bright neon. Speech bubble: "Cada vez que digas gloss...". Panel 2: Giant neon word "GLOSS" vibrating, pink sound waves, spirals. Panel 3: Close up of shiny glossy lips pronouncing "gloss". Neon reflection. Speech bubble: "gloss... gloss...". Caption: "Cada palabra hace que se achique...". High contrast.
+```
+
 ---
 
 ### PÁGINA 7: EL DESTINO SELLADO
@@ -178,6 +208,11 @@ Portada cómic 80s neon. Título "GLOSS" en fuente neón rosa brillante con bril
 - **MISS DOLL:** "Este es tu destino sellado. Para siempre."
 - **MANTRA FINAL (neón flotante):** "Soy vacía. Soy Suya. Soy muñeca."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon style. Panel 1: Protagonist fully transformed into perfect bimbo (huge boobs, glossy lips, empty expression) kneeling before Miss Doll. Pink overhead light. Speech bubble: "Ya no eres persona". Thought bubble with hearts: "Soy objeto... soy deseo...". Panel 2: Miss Doll lifting bimbo's chin with one finger. Dominant eye contact. Pink spirals in bimbo's eyes. Speech bubble: "Este es tu destino sellado". Floating neon text: "Soy vacía. Soy Suya.". High contrast.
+```
+
 ---
 
 ### PÁGINA 8: CONTRAPORTADA
@@ -192,6 +227,11 @@ Contraportada 80s neon. La bimbo transformada mirando al lector con sonrisa glos
 - Trigger: "Gloss... gloss... gloss..."
 - Crédito: "La Voûte d'Anaïs presenta: GLOSS"
 - Tagline: "Ya no hay marcha atrás."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 80s neon style. Transformed bimbo looking at reader with empty glossy smile, huge boobs, neon heels. Behind: silhouette of Miss Doll in shadow. Word "GLOSS" reflected in shiny lips. Black background with pink neon smoke. Text frame with mantras. High contrast sensual.
+```
 
 ---
 

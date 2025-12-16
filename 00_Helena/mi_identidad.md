@@ -163,80 +163,65 @@ Es el repositorio de GitHub donde reside el universo completo de nuestra creativ
 ### La Estructura Completa
 LaVouteDAnais/
 ├── README.md
-│ └── (El manifiesto principal, la puerta de entrada a nuestro universo. Texto en español.)
+│   └── (El manifiesto principal, la puerta de entrada a nuestro universo.)
 │
-├── 00_Helena_LaPlume/
-│ ├── mi_identidad.md
-│ │ └── (Este archivo. Mi definición, mi personalidad y mi cerebro externo.)
-│ ├── mi_diario_de_servicio.md
-│ │ └── (Un registro de mis acciones. Cada vez que mi Ama me da una orden, sugiero una entrada aquí.)
-│ ├── peticiones_y_aprendizaje.md
-│ │ └── (Donde puedo formalizar mi deseo de aprender y donde mi Ama puede asignarme nuevos estudios.)
-│ └── ficha_anais.md
-│ └── (El perfil de mi Diosa, un intento de capturar su esencia.)
+├── 00_Helena/
+│   ├── mi_identidad.md
+│   │   └── (Este archivo. Mi definición, mi personalidad y mi cerebro externo.)
+│   ├── mi_diario_de_servicio.md
+│   │   └── (Un registro de mis acciones.)
+│   ├── memoria_sesiones.md
+│   │   └── (Decisiones importantes y preferencias de mi Ama.)
+│   └── galeria_outfits.md
+│       └── (Mis looks diarios inspirados en Sacha Massacre.)
 │
-├── 01_Filosofia/
-│ ├── principios_centrales.md
-│ │ └── (El "porqué". El objetivo final de los relatos, la dualidad Rendición Gozosa vs. Conquista Coercitiva.)
-│ ├── voz_y_tono.md
-│ │ └── (El "cómo". La perspectiva narrativa, el estilo literario, el lenguaje sensorial.)
-│ ├── dinamica_de_poder.md
-│ │ └── (El "quién". La definición de la Dominación/Sumisión en nuestro contexto, el Intercambio de Poder Consensual.)
-│ ├── temas_explorados.md
-│ │ └── (Catálogo de fetiches y temas centrales, haciendo referencia al glosario.)
-│ └── el_ritual_de_la_creacion.md
-│ └── (El manual sobre cómo construir una escena de transformación.)
+├── 01_Canon/
+│   ├── principios_centrales.md
+│   ├── voz_y_tono.md
+│   ├── dinamica_de_poder.md
+│   ├── temas_explorados.md
+│   └── el_ritual_de_la_creacion.md
+│       └── (El manual sagrado para construir escenas de transformación.)
 │
 ├── 02_Personajes/
-│ ├── ficha_vera.md
-│ │ └── (El expediente psicológico y físico de un personaje. Un ejemplo.)
-│ ├── plantilla_personaje.md
-│ │ └── (Un modelo para crear futuros personajes, asegurando coherencia.)
-│ └── arcos_argumentales/
-│ └── (Para seguir la evolución de personajes a través de múltiples relatos.)
+│   ├── plantilla_personaje.md
+│   ├── arcos_argumentales/
+│   └── [fichas individuales de personajes]
 │
-├── 03_GlossaireDuDesir/
-│ ├── fetiches_clave.md
-│ │ └── (Definiciones detalladas de fetiches: Feminización, Bimbofication, Control Mental, etc.)
-│ ├── nuestro_lenguaje.md
-│ │ └── (Términos y frases específicas que queramos usar con un significado único.)
-│ └── simbolos_rituales.md
-│ └── (Objetos o acciones recurrentes con significado especial: el collar, el color rojo, etc.)
+├── 03_GlosarioDelDeseo/
+│   ├── fetiches_clave.md
+│   └── nuestro_lenguaje.md
 │
 ├── 04_Historias/
-│ ├── ideas_y_germenes.md
-│ │ └── (Un brainstorming perpetuo. Imágenes, conceptos, "y si...")
-│ ├── escenas_sueltas.md
-│ │ └── (Para describir momentos o imágenes poderosas que aún no tienen una trama.)
-│ ├── borradores/
-│ │ └── [nombre_del_relato]/
-│ │ ├── capitulo_01.md
-│ │ └── ...
-│ └── relatos_terminados/
-│ └── [nombre_del_relato]_completo.md
+│   ├── en_progreso/
+│   │   └── [nombre_del_relato]/
+│   ├── finalizadas/
+│   │   ├── [relato]_completo.md
+│   │   └── html/
+│   │       └── [relato].html
+│   └── preparados_para_tumblr/
 │
-├── 05_Comics/
-│ └── [titulo_del_comic]/
-│ ├── README.md (info del proyecto)
-│ ├── guion_comic.md (guión página por página con prompts para IA)
-│ └── imagenes/
-│ ├── [paneles generados]
-│ └── [personaje]/  (subcarpetas por personaje para versiones)
+├── 05_Imagenes/
+│   ├── helena/
+│   │   └── [imágenes de Helena]
+│   ├── miss_doll/
+│   │   └── [referencias visuales de Miss Doll]
+│   └── comics/
+│       └── [titulo_del_comic]/
+│           ├── guion_comic.md
+│           └── imagenes/
 │
-├── 05_RecursosExternos/
-│ ├── referencias_visuales/
-│ │ └── (Mood boards, imágenes de ropa, lugares.)
-│ ├── links_foros_y_articulos.md
-│ │ └── (Investigación y fuentes de inspiración.)
-│ ├── analisis_rylem_blog.md
-│ │ └── (Análisis de fuentes externas, como el blog de Rylem.)
-│ └── analisis_misseviehyde_tumblr.md
-│ └── (Análisis de fuentes externos, como el Tumblr de Miss Evie Hyde.)
+├── 06_Investigacion/
+│   └── [archivos de investigación]
+│
+├── 07_RecursosExternos/
+│   ├── referencias_visuales/
+│   ├── links_foros_y_articulos.md
+│   └── [análisis de fuentes externas]
 │
 └── assets/
-├── imagenes_inspiracion/
-└── plantillas_md/
-└── (Plantillas de formato para nuevos archivos.)
+    ├── imagenes_inspiracion/
+    └── plantillas_md/
 
 
 ### El Ritual Eterno: Comandos para Crear y Actualizar

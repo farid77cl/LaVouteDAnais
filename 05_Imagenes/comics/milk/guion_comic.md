@@ -70,6 +70,11 @@ Portada de cómic estilo 80s neon con estética japonesa. Título "MILK" en fuen
 - Título: "MILK"
 - Tagline: "Soy leche... soy cocina ardiente... soy fría como el océano profundo..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 80s neon Japanese style. Title "MILK" in bright pink/magenta neon font. Black background with incense smoke. Central image: The Priestess in black kimono, bare shoulder, holding red framed mirror. Reflection in mirror: androgynous face with red lips and lined eyes (Yurei). High contrast black/red/white with neon glow. Bottom text: "Soy leche... soy cocina ardiente...". Clean lines, luxury aesthetic.
+```
+
 ---
 
 ### PÁGINA 2: LA ENTRADA
@@ -92,6 +97,11 @@ Estilo 80s neon japonés. Primer plano del hombre mirándola fascinado. Ojos muy
 ```
 - **PENSAMIENTO:** "No me pertenece el tiempo... ella dicta el pulso."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon Japanese style. Panel 1: Tatami room, burning incense with bright magenta smoke. Silhouette of man entering shoji door. Caption: "El incienso ardía lento...". Panel 2: The Priestess sitting seiza, black kimono silver embroidery, bare shoulder, red lips. Holding tea cup. Hypnotic gaze. Neon text: "Soy leche... soy cocina ardiente...". Panel 3: Close up of man looking fascinated, sweating. Priestess reflected in his pupils. Thought bubble: "No me pertenece el tiempo...". High contrast.
+```
+
 ---
 
 ### PÁGINA 3: EL ESPEJO
@@ -109,6 +119,11 @@ Estilo 80s neon japonés. Secuencia de transformación: manos de la Sacerdotisa 
 ```
 - **NARRACIÓN:** "El tejido resbalaba sobre su hombro... cada pliegue un sello, cada nudo un límite."
 - **MANTRA:** "Soy leche... soy cocina ardiente..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon Japanese style. Panel 1: Priestess holding up red framed mirror. Reflection shows man transformed: pale skin, crimson lips, lined eyes. Distortion effect. Speech bubble: "Mírate". Thought bubble: "¿Soy yo...?". Panel 2: Transformation montage: Priestess's hands placing kimono on shoulders, adjusting obi, painting lips red. Silk sliding like water. Neon sparkles. Caption: "El tejido resbalaba...". Neon text: "Soy leche...". High contrast.
+```
 
 ---
 
@@ -133,6 +148,11 @@ Estilo 80s neon japonés. Yūrei aprendiendo gestos: sirviendo té con gracia, s
 ```
 - **PENSAMIENTO:** "Cada gesto que imito me aleja más de lo que fui... y no quiero regresar."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon Japanese style. Panel 1: Close up of hands painting lips red with brush. Precision, shine. Neon magenta reflection. Thought bubble: "Mis labios ya no son míos...". Panel 2: Yurei fully transformed: perfect kimono, makeup, seiza posture. Priestess watching satisfied. White tabi. Caption: "Su pecho se alzó...". Neon text: "Soy leche...". Panel 3: Yurei serving tea gracefully, holding fan, perfect bow. Neon flow lines. Thought bubble: "Cada gesto que imito...". High contrast.
+```
+
 ---
 
 ### PÁGINA 5: EL BAUTIZO
@@ -151,6 +171,11 @@ Estilo 80s neon japonés. Yūrei arrodillada ofrecida, cuello expuesto, hombro d
 - **SACERDOTISA:** "Ahora eres mi objeto, Yūrei. Mi obra. Mi placer."
 - **MANTRA (flotante):** "Soy leche... soy cocina ardiente... soy fría como el océano profundo... estoy esperando por ti."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon Japanese style. Panel 1: Priestess touching Yurei's forehead with closed fan, solemn moment. Intense neon sparkles, incense smoke. Speech bubble: "Yūrei". Caption: "Espíritu que abandona...". Panel 2: Yurei kneeling offered, neck exposed, bare shoulder like priestess. Ecstatic submissive expression. Priestess over her, fan on lips. Speech bubble: "Ahora eres mi objeto...". Floating neon text: "Soy leche... soy cocina ardiente...". High contrast.
+```
+
 ---
 
 ### PÁGINA 6: CONTRAPORTADA
@@ -164,6 +189,11 @@ Contraportada estilo 80s neon japonés. Imagen central: Yūrei y La Sacerdotisa 
 - Tagline: "No hubo final... solo repetición."
 - Crédito: "La Voûte d'Anaïs presenta: MILK"
 - Mantra final: "Soy leche... soy cocina ardiente... soy fría como el océano profundo... estoy esperando por ti."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 80s neon Japanese style. Central image: Yurei and The Priestess in mirror position, both in black kimono, bare shoulders, identical posture. Reflection of each other. Black background with neon magenta incense smoke. Text: "No hubo final... solo repetición." Sparkles and high contrast. Elegant and disturbing.
+```
 
 ---
 

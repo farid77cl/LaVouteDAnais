@@ -69,6 +69,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 - Título: "PERFUME DE RUINA"
 - Tagline: "No eres dueño de nada: obedeces."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 80s neon corporate noir style. Title "PERFUME DE RUINA" in violet/gold neon with smoke effect. Background: high class lounge, party lights. Central image: Miss Doll in black vinyl, emitting violet perfume smoke. At her feet: kneeling silhouette of man (Sebastian). Side: blonde woman (Alex) starting to rise. Broken gold watches falling. High contrast. Text: "No eres dueño de nada: obedeces.".
+```
+
 ---
 
 ### PÁGINA 2: EL REY DE CARTÓN
@@ -93,6 +98,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 ```
 - **NARRACIÓN:** "Una sala saturada de relojes ostentosos y sonrisas ensayadas..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon corporate noir style. Panel 1: Close up of Sebastian, tight polo, flashy gold watch, arrogant smile. Party lights behind. Speech bubble: "Si no ganas dinero...". Panel 2: Alex next to him, shrinking, invisible, dull hair. Sebastian holding her arm carelessly. Speech bubble: "Sin mí ella sería invisible". Panel 3: Wide shot of lounge: men in suits, fake smiles, neon lights. Sebastian moving as host. Caption: "Una sala saturada...". High contrast.
+```
+
 ---
 
 ### PÁGINA 3: LA ENTRADA
@@ -103,6 +113,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 ```
 - **NARRACIÓN:** "Y entonces... el ambiente cambió."
 - **EFECTO:** Silencio reverente, humo de perfume
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page, 80s neon corporate noir style. Dramatic entrance: Door opening with light. Miss Doll entering: shiny black vinyl, impossible heels, red lips. Violet/gold perfume smoke swirling around her. Crowd turning to look. Eclipse effect. Caption: "Y entonces... el ambiente cambió". High contrast, neon sparkles.
+```
 
 ---
 
@@ -120,6 +135,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 ```
 - **SEBASTIÁN:** "Miren bien, caballeros. Lo que esos perdedores no pudieron, yo sí lo haré."
 - **AMIGO (pensamiento):** "Aquí va otra vez..."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon corporate noir style. Panel 1: Montage of crypto bros trying to approach Miss Doll and being rejected with absolute indifference. Shameful expressions. Miss Doll immobile perfect. Caption: "Varios intentaron acercarse...". Panel 2: Sebastian puffing chest, pointing at Miss Doll, cruel superior smile. Friends watching. Speech bubble: "Miren bien, caballeros". Thought bubble: "Aquí va otra vez...". High contrast.
+```
 
 ---
 
@@ -145,6 +165,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 - **SEBASTIÁN:** "¡Miren! ¡Incluso ella está aquí gracias a mí! ¡Sin mí sería invisible!"
 - **EFECTO:** Silencio tenso, miradas de desprecio hacia él
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 80s neon corporate noir style. Panel 1: Sebastian in front of Miss Doll, grand gestures, rehearsed smile. She watches unblinking. Speech bubble: "Bonsoir, mademoiselle... soy el lobo...". Panel 2: Miss Doll reacting with absolute silence, cold gaze. Sebastian desperate, enveloped in violet smoke. Speech bubble: "Conmigo tendrás jets privados...". Panel 3: Sebastian turning to Alex with cruelty, pointing. Alex shrinking. Crowd uncomfortable. Speech bubble: "¡Miren! ¡Sin mí sería invisible!". High contrast.
+```
+
 ---
 
 ### PÁGINA 6: EL DESPERTAR
@@ -161,6 +186,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 80s neon. Primer plano del rostro de Alex. Sus ojos encendiéndose con una chispa. Postura comenzando a erguirse. Color regresando a su piel. Efecto de despertar visual con brillos.
 ```
 - **NARRACIÓN:** "Y la chispa se encendió: tímida pero firme, su mirada brillaba."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon corporate noir style. Panel 1: Miss Doll leaning towards Alex, whispering in her ear. Protective intimacy. Violet smoke wrapping them. Speech bubble: "Tú no eres invisible, chérie...". Panel 2: Close up of Alex's face. Eyes lighting up with a spark. Posture straightening. Color returning. Caption: "Y la chispa se encendió...". High contrast.
+```
 
 ---
 
@@ -179,6 +209,11 @@ Portada 80s neon corporate noir. Título "PERFUME DE RUINA" en neón violeta/dor
 - **MISS DOLL:** "Esta noche tu poder se rompe. Obedeces... y lo harás hasta que tu orgullo se arrastre."
 - **NARRACIÓN:** "Al fin alguien había puesto a Sebastián en su sitio."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 80s neon corporate noir style. Panel 1: Miss Doll turning to Sebastian, close enough to whisper. Smoke making him dizzy. His expression faltering. Speech bubble: "Hablas de imperios... pero veo un niño aterrado". Panel 2: Sebastian pale, arrogance cracking. Crowd watching with cruel delight. Miss Doll perfect. Speech bubble: "Esta noche tu poder se rompe". Caption: "Al fin alguien...". High contrast.
+```
+
 ---
 
 ### PÁGINA 8: CONTRAPORTADA
@@ -192,6 +227,11 @@ Contraportada 80s neon. Espejo de pasillo mostrando reflejo de Miss Doll sonrien
 - Tagline: "Ese reflejo fue un presagio: nada había terminado, apenas estaba empezando."
 - Crédito: "La Voûte d'Anaïs presenta: PERFUME DE RUINA"
 - Nota: "Continúa en Capítulo II: El Brillo de la Esclavitud"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 80s neon corporate noir style. Hallway mirror showing reflection of Miss Doll smiling calmly. Sebastian looking at reflection terrified. Alex in background standing tall with spark in eyes. Violet perfume smoke filling space. Text: "Apenas está empezando.". High contrast dramatic.
+```
 
 ---
 

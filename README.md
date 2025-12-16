@@ -39,17 +39,23 @@ Chaque mot est un décret. Chaque fichier, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena_LaPlume/          # Procedimientos y guías de publicación
-├── 01_Universo/                # Filosofía y lore del universo
+├── 00_Helena/                  # Helena: identidad, diario, memoria, outfits
+├── 01_Canon/                   # Filosofía, rituales, lore del universo
 ├── 02_Personajes/              # Fichas detalladas de personajes
 │   ├── arcos_argumentales/     # Arcos narrativos completos
 │   └── fichas individuales     # Perfiles psicológicos profundos
-├── 03_Lugares/                 # Espacios del universo
+├── 03_GlosarioDelDeseo/        # Fetiches y lenguaje especializado
 ├── 04_Historias/               # Relatos completos
-│   ├── relatos_terminados/     # Historias finalizadas
+│   ├── borradores/             # Trabajos en progreso
+│   ├── finalizadas/            # Historias terminadas
 │   ├── preparados_para_tumblr/ # Formateados para publicación
-│   └── resumenes/              # Sinopsis y análisis
-└── 05_Recursos/                # Materiales de referencia
+│   └── terminados/html/        # Versiones HTML
+├── 05_Imagenes/                # Assets visuales
+│   ├── comics/                 # Guiones y paneles de cómics
+│   └── [imágenes generadas]    # Helena, personajes, etc.
+├── 06_Investigacion/           # Investigación y análisis
+├── 07_RecursosExternos/        # Referencias externas
+└── assets/                     # Plantillas y recursos
 ```
 
 ---

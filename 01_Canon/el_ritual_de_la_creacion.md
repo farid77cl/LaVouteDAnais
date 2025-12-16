@@ -191,9 +191,9 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 Crear una versión de cómic adaptada para generación de imágenes por IA.
 
 > [!IMPORTANT]
-> **OBJETIVO:** Producir un guión tan detallado y consistente que la IA no tenga alternativas.
-> El problema principal es la inconsistencia entre páginas (personajes cambian, estilo varía).
-> La solución es ESPECIFICIDAD EXTREMA en cada panel.
+> **OBJETIVO:** Producir un guión para generar **PÁGINAS COMPLETAS** (Full Page Layout).
+> No generamos paneles individuales. Generamos la página entera con su distribución de viñetas (2, 3, 4 o 5 paneles) en una sola imagen.
+> Esto asegura una narrativa visual fluida y coherente, "como un cómic real".
 
 #### Requisitos del Cómic
 
@@ -208,13 +208,9 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 
 ```
 04_Historias/finalizadas/comics/[nombre_del_relato]/
-├── 00_guion_maestro.md      ← Guión completo con todas las páginas
-├── 01_portada.md            ← Prompt detallado para portada
-├── 02_pagina_01.md          ← Prompt detallado por página
-├── 03_pagina_02.md
-├── ...
-├── XX_contraportada.md
-└── assets/                  ← Imágenes generadas
+├── 00_guion_maestro.md      ← Guión completo con prompts de PÁGINA COMPLETA
+├── assets/                  ← Imágenes generadas (pag01.png, pag02.png...)
+└── descartadas/             ← Versiones rechazadas
 ```
 
 #### Formato del Guión Maestro
@@ -249,29 +245,31 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 [Descripción completa como prompt de IA]
 
 ### Página 1
-**Panel 1** (1/3 superior)
-- Composición:
-- Personajes presentes:
-- Poses exactas:
-- Expresiones:
-- Fondo:
-- Texto/Diálogo:
-- Prompt IA: "[prompt completo copy-paste ready]"
 
-(Continuar para cada panel)
+**Desglose de Paneles:**
+- **Panel 1:** [Descripción de la acción y diálogo]
+- **Panel 2:** [Descripción de la acción y diálogo]
+- **Panel 3:** [Descripción de la acción y diálogo]
+...
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into [X] panels, [Style]. Panel 1: [Visual description including speech bubble text]. Panel 2: [Visual description]. Panel 3: [Visual description]. ... [Style keywords, halftone, colors].
 ```
 
-#### Guía de Prompts Consistentes
+(Repetir para cada página)
+```
 
-Para mantener consistencia, cada prompt de panel debe incluir:
+#### Guía de Prompts de Página Completa
 
-1. **Estilo fijo:** `1960s romance comic style, halftone print, limited color palette [colores específicos]`
-2. **Personaje:** Descripción COMPLETA aunque sea repetitiva
-3. **Pose:** Específica (no "de pie", sino "de pie con peso en pierna izquierda, mano derecha en cadera")
-4. **Expresión:** Detallada (no "triste", sino "cejas arqueadas hacia arriba, labios ligeramente abiertos, ojos húmedos")
-5. **Ángulo de cámara:** (eye-level, low angle, high angle, close-up, medium shot, wide shot)
-6. **Iluminación:** (dirección, intensidad, color)
-7. **Fondo:** Descripción específica o referencia a panel anterior
+Para lograr el efecto de cómic real, el prompt debe estructurarse así:
+
+1. **Encabezado:** `Full comic book page split into [X] panels, [Style description].`
+2. **Descripción Secuencial:** `Panel 1: [Desc]. Panel 2: [Desc].`
+3. **Texto:** Incluir explícitamente `Speech bubble: "[Texto]"` dentro de la descripción del panel correspondiente.
+4. **Estilo Final:** `Halftone print, vintage aesthetic, [Specific Colors].`
+
+**Nota sobre Texto:** La IA puede tener dificultades con el texto. Mantener diálogos cortos y simples en los prompts.
 
 #### Adaptación PG-13
 

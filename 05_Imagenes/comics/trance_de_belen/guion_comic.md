@@ -62,6 +62,11 @@ Portada cómic romance años 60, halftone Ben-Day. Título "TRANCE DE BELÉN" en
 - Subtítulo: "Voz de Miss Doll"
 - Tagline: "Tu timidez se derrite... tu coquetería brilla..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 60s romance style, halftone Ben-Day. Title "TRANCE DE BELÉN" in dramatic pink font. Miss Doll (blonde bob, pink latex catsuit, huge eyes) holding red lipstick towards reader. Behind: mirror showing transformation - left side shy woman, right side provocative Belen with red lips. Pink hypnotic spirals background. Text: "Voz de Miss Doll". Pink pastel and neon palette.
+```
+
 ---
 
 ### PÁGINA 2: LA SESIÓN
@@ -85,6 +90,11 @@ Cómic romance 60s. Primer plano del rostro de Belén, ojos cerrándose, expresi
 ```
 - **MISS DOLL:** "Diez... baja conmigo. Nueve... más hondo. Cada paso borra tu vergüenza..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Closed room, pink overhead light on Belen sitting before mirror. Shy, blushing. Pink smoke. Speech bubble: "Solo tú y yo...". Panel 2: Miss Doll (blonde bob, pink catsuit) standing behind Belen, hands on her shoulders. Reflection in mirror. Subtle spirals in Belen's eyes. Speech bubble: "Deseas ser mirada...". Panel 3: Close up of Belen's face, eyes closing, trance expression. Floating numbers "10... 9... 8..." in pink spiral. Speech bubble: "Diez... baja conmigo...". Halftone.
+```
+
 ---
 
 ### PÁGINA 3: REPROGRAMACIÓN
@@ -101,6 +111,11 @@ Cómic romance 60s, halftone. Escena onírica: Belén bajando escalera iluminada
 Cómic romance 60s. Tres viñetas pequeñas: 1) Tacones altos con brillo rosa 2) Uñas largas moviéndose con gracia 3) Abdomen descubierto con luz sobre piel. Cada imagen con destellos de estrellas.
 ```
 - **MISS DOLL:** "Tus tacones son tu adicción... tus uñas tu bandera... tu abdomen tu orgullo."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Dream sequence: Belen walking down pink illuminated staircase. Each step brighter. Posture becoming sensual. Sparkles and spirals. Voice bubble: "Inhala... siente tu vergüenza...". Floating mantra: "Mi vergüenza es excitación...". Panel 2: Montage of 3 vignettes: High heels with pink shine, long nails moving gracefully, bare midriff with light on skin. Speech bubble: "Tus tacones son tu adicción...". Halftone.
+```
 
 ---
 
@@ -124,6 +139,11 @@ Cómic romance 60s. Belén frente al espejo, labios rojos brillantes, sonrisa pr
 ```
 - **MISS DOLL:** "Desde este instante te llamo Belén, mi muñeca provocadora, descarada y sin vergüenza."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Close up of intense red lipstick. Wet shine. Holy object lighting. Pink spiral background. Speech bubble: "Labial rojo... tu marca...". Panel 2: Miss Doll applying red lipstick on Belen's lips. Intimate moment. Belen eyes closed, ecstatic. Pink sparkles. Thought bubble: "Labial rojo... soy deseada...". Panel 3: Belen at mirror, bright red lips, provocative smile. Visible transformation: erect posture, defiant gaze. Spirals in pupils. Speech bubble: "Desde este instante te llamo Belén...". Halftone.
+```
+
 ---
 
 ### PÁGINA 5: LA NUEVA BELÉN
@@ -142,6 +162,11 @@ Cómic romance 60s. Belén caminando hacia el lector, talón-punta, caderas ondu
 - **MANTRA (flotante):** "Ser mirada me excita... exhibirme me alimenta... obedecer me define."
 - **MISS DOLL (off-panel):** "Ya no hay regreso. Solo obediencia. Solo decadencia. Solo Miss Doll."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Belen fully transformed: slutty red lips, bare midriff, high heels, long nails. Provocative pose. Miss Doll watching satisfied. Caption: "La vieja tú muere...". Speech bubble: "Soy deseada... soy diva...". Panel 2: Belen walking towards reader, hips swaying. Floating eyes admiring her. Glossy red smile. Floating mantra: "Ser mirada me excita...". Voice bubble: "Ya no hay regreso...". Halftone.
+```
+
 ---
 
 ### PÁGINA 6: CONTRAPORTADA
@@ -155,6 +180,11 @@ Contraportada cómic romance 60s. Belén y Miss Doll frente a espejo, ambas sonr
 - Mantra: "Soy Belén, visible, segura, el centro. Soy deseada, soy diva, soy poder."
 - Tagline: "Eres muñeca de Miss Doll."
 - Crédito: "La Voûte d'Anaïs presenta: TRANCE DE BELÉN"
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 60s romance style. Belen and Miss Doll in front of mirror, both smiling. Belen with bright red lips, provocative pose. Miss Doll hand on her shoulder, possessive. Mirror shows identical reflections. Mantra text frame. Pink palette with red accent.
+```
 
 ---
 

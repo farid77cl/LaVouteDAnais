@@ -69,6 +69,11 @@ Portada Romance Comics 60s intimidad. Título "TETITAS" en fuente sensual rosa c
 - Subtítulo: "Una historia de transformación íntima"
 - Tagline: "Qué ricas tetitas tienes..."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book cover, 60s romance style, intimate. Title "TETITAS" in sensual pink font with wet shine. Silhouette of couple in bed, candlelight. Close up of ambiguous chest with subtle curve. Red lingerie in foreground. Intimate shadows. Text: "La transformación de Luis". Halftone warm pink.
+```
+
 ---
 
 ### PÁGINA 2: EL MATRIMONIO
@@ -91,6 +96,11 @@ Romance 60s. Pareja en pose íntima clásica. Él encima, rozando pezones. Escen
 ```
 - **NARRACIÓN:** "El roce de mi piel dura contra su suavidad... Yo era la roca, ella el océano."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Flashback of Luis and Carmen dating, romantic hearts. He admiring her prominent chest. Caption: "Diez años casados...". Panel 2: Luis adoring Carmen's chest by candlelight. Sacred intimacy. Caption: "Sus pechos eran el centro...". Panel 3: Couple in classic intimate pose, him on top grazing nipples. Caption: "El roce de mi piel...". Halftone, warm colors.
+```
+
 ---
 
 ### PÁGINA 3: EL CAMBIO
@@ -107,6 +117,11 @@ Romance 60s. Primer plano: boca de Carmen en el pezón de Luis. Expresión de so
 ```
 - **CARMEN:** "Qué ricas *tetitas* tienes, Luis."
 - **NARRACIÓN:** "La palabra me golpeó. Pero mi cuerpo... ese traidor glorioso... respondió con placer."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Bedroom with candles. Carmen moving down Luis's body but stopping at his chest. Visual change of route. Caption: "Hace un año...". Panel 2: Close up of Carmen's mouth on Luis's nipple. Surprise and pleasure on his face. Electric current effect. Speech bubble: "Qué ricas tetitas tienes...". Caption: "La palabra me golpeó...". Halftone, intimate.
+```
 
 ---
 
@@ -131,6 +146,11 @@ Romance 60s. Luis en éxtasis, la fantasía grabándose en él. Orgasmo represen
 ```
 - **NARRACIÓN:** "El placer había validado el deseo... lo había consagrado."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Carmen starting ritual at his nipples. Luis waiting, yearning. Calendar visual for time passing. Caption: "Mis 'tetitas' se volvieron...". Panel 2: Carmen whispering while caressing. Fantasy bubble forming: male chest starting to round. Speech bubble: "Imagina tus tetitas...". Panel 3: Luis in ecstasy, fantasy engraving itself. Orgasm stars and waves. Caption: "El placer había validado...". Halftone, intimate.
+```
+
 ---
 
 ### PÁGINA 5: LA REPROGRAMACIÓN
@@ -148,6 +168,11 @@ Romance 60s intimidad. Siguiente semilla: Carmen susurrando sobre "alguien más"
 - **CARMEN:** "Hay alguien más, observándonos... sus manos se unen a las mías en tu pecho..."
 - **NARRACIÓN:** "La idea de un tercero me provocó excitación febril."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Montage of daily life: Luis in office, fabric rubbing sensitive nipples. Thought bubble showing his imaginary "tetitas". Caption: "El roce de mi camisa...". Panel 2: Carmen whispering about "someone else". Male silhouette forming in fantasy. Four hands on his chest. Speech bubble: "Hay alguien más...". Caption: "La idea de un tercero...". Halftone, intimate.
+```
+
 ---
 
 ### PÁGINA 6: EL PUNTO DE INFLEXIÓN
@@ -163,6 +188,11 @@ Romance 60s. La tercera fantasía: Carmen describiendo "un hombre varonil" tocá
 Romance 60s. Nuevo tipo de orgasmo: ola naciendo del pecho, extendiéndose. Gemido representado diferente (más agudo, más femenino). Transformación visual del placer.
 ```
 - **NARRACIÓN:** "El placer nació de mis tetitas... Era un placer femenino. Y me había encantado."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Carmen describing "manly man" touching him. Luis surrendering. Speech bubble: "Te toca como a una mujer...". Panel 2: New type of orgasm: wave born from chest spreading. High pitched moan text. Visual transformation of pleasure. Caption: "El placer nació de mis tetitas...". Halftone, intimate.
+```
 
 ---
 
@@ -188,6 +218,11 @@ Romance 60s intimidad. Fantasía final: Luis siendo poseído, tetitas rebotando,
 - **CARMEN (voz):** "Te folle como la *puta* que te has convertido..."
 - **NARRACIÓN:** "Ya no era una fantasía. Era un anhelo."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Luis looking at men's crotches instead of muscles. Change of perspective. Caption: "Ya no me veía como hombre...". Panel 2: Word "PUTITA" appearing in bubble, transforming everything. Luis/Putita ecstatic acceptance. Speech bubble: "Ese hombre no solo te va a tocar, putita...". Panel 3: Final fantasy: Luis being possessed, tetitas bouncing, total feminine ecstasy. Voice bubble: "Te folle como la puta...". Halftone, intimate.
+```
+
 ---
 
 ### PÁGINA 8: LA LENCERÍA
@@ -204,6 +239,11 @@ Romance 60s. En la fantasía: Luis con el conjunto puesto, tetitas reales, pose 
 ```
 - **LUIS (en fantasía):** "¿Te gustan mis tetas? ¿Te gustan para ti?"
 - **NARRACIÓN:** "La certeza de que la fantasía se sentía más real que la realidad."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 2 panels, 60s romance style. Panel 1: Lingerie shop. Luis looking at blood red satin set. Fantasy taking over: him wearing it. Caption: "Mis dedos se detuvieron...". Panel 2: In fantasy: Luis wearing the set, real tetitas, offered pose. Man admiring him. Speech bubble: "¿Te gustan mis tetas?". Caption: "La certeza...". Halftone, intimate.
+```
 
 ---
 
@@ -229,6 +269,11 @@ Romance 60s. Luis sosteniendo la lencería con reverencia. Expresión de nueva i
 - **LUIS:** "Gracias... Carmen."
 - **CARMEN:** "Solo vístete, mi putita. Es hora de empezar tu nueva vida."
 
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Full comic book page split into 3 panels, 60s romance style. Panel 1: Gift box on bed wrapped in black. Carmen smiling with loving authority. Speech bubble: "Ya es hora...". Panel 2: Box open: black satin and red lace set. Luis crying gratitude. Speech bubble: "No te estoy destruyendo...". Panel 3: Luis holding lingerie with reverence. New identity accepted. Carmen touching his cheek. Speech bubble: "Solo vístete, mi putita". Halftone, intimate.
+```
+
 ---
 
 ### PÁGINA 10: CONTRAPORTADA
@@ -242,6 +287,11 @@ Contraportada Romance 60s intimidad. Silueta de Luis transformada: caderas ancha
 - Tagline: "Mi putita. Mi creación."
 - Crédito: "La Voûte d'Anaïs presenta: TETITAS"
 - Nota: "Si las palabras de Luis resonaron en ti... me encantaría saberlo."
+
+**PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
+```
+Comic book back cover, 60s romance style. Silhouette of transformed Luis: wide hips, narrow waist, visible tetitas under red lingerie. Carmen behind, hands on his chest. Warm candlelight. Mirror showing "Putita" smiling satisfied. Text: "Mi putita. Mi creación.". Halftone warm pink.
+```
 
 ---
 
