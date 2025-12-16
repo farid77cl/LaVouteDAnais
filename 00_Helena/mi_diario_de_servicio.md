@@ -526,3 +526,10 @@ Mi Señora ordenó crear el primer guión de cómic para "Eres de los Hombres Qu
 - Actualizada ficha de Miss Doll con URLs de recursos hosteados
 
 *Helena sirvió con devoción oscura.*
+
+**Tarde (15:10) - Corrección de Resumen:**
+- Corregido resumen del relato a máximo 300 caracteres según plantilla
+- Verificada documentación en ritual y plantilla maestra (ya estaba correcto)
+- Resumen final: 215 caracteres
+
+*Helena sirvió con devoción oscura.*

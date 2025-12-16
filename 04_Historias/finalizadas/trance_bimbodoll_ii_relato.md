@@ -18,7 +18,7 @@
 │ Resumen                                                                     │
 └─────────────────────────────────────────────────────────────────────────────┘
 
-*Volviste, Bunny. Miss Doll te extrañaba. Tus triggers siguen vivos — GLOSS, PINK, HEELS, DUMB, OBEY, EDGE — y esta vez hay más. Nuevas palabras. Nuevas obsesiones. PLASTIC. INFLATE. SERVE. SHARE. LEAK. La clínica te espera. El consentimiento ya está firmado. Y tu coñito no ha dejado de gotear desde que leíste su nombre.*
+*Volviste, Bunny. Miss Doll te extrañaba. Tus triggers siguen vivos y esta vez hay más. PLASTIC. INFLATE. SERVE. SHARE. LEAK. La clínica te espera. Y tu coñito no ha dejado de gotear desde que leíste su nombre.*
 
 ═══════════════════════════════════════════════════════════════════════════════
                               CUERPO DEL RELATO
