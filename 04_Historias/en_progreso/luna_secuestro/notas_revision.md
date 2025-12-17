@@ -6,7 +6,7 @@
 
 ## Capítulo 2: Las Reglas
 - [ ] Revisado
-- Observaciones:
+- Observaciones: debe haber un condicionamiento hacia la nueva actidod femenina, un condicionamiento positivo, y refuerzo negativo a todo lo masculino 
 
 ## Capítulo 3: El Uniforme
 - [ ] Revisado
