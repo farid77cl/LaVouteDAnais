@@ -2,7 +2,7 @@
 
 ## Capítulo 1: El Despertar
 - [ ] Revisado
-- Observaciones: partamos más duros, ya están puestos los pechos, enormes, obvio, perfil alto un par de balones, además del corset y tacones cinturón de castidad y depilacion
+- Observaciones: partamos más duros, ya están puestos los pechos, enormes, obvio, perfil alto un par de balones, además del corset y tacones cinturón de castidad y depilacion..que tono debe llevar el relato? suspenso? o quizás algo de terror, analicemos..de todas maneras me falta sensualidad. baja el objetivo de palabras a 6000, hay que fusionar este capítulo con el 2
 
 ## Capítulo 2: Las Reglas
 - [ ] Revisado
