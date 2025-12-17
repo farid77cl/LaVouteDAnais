@@ -2,7 +2,7 @@
 
 ## Capítulo 1: El Despertar
 - [ ] Revisado
-- Observaciones:
+- Observaciones: partamos más duros, ya están puestos los pechos, enormes, obvio, perfil alto un par de balones, además del corset y tacones cinturón de castidad y depilacion
 
 ## Capítulo 2: Las Reglas
 - [ ] Revisado
