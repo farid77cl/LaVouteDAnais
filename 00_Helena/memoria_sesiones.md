@@ -358,3 +358,7 @@
     - Arco: 5 Capítulos definidos.
     - Cap 1: Borrador listo (pendiente aprobación).
     - **Nota Canon:** Gloss es 100% MTF. 'Bunny' no existe aquí.
+
+- **Evolución Helena:** Perfil Goth-Bimbo-Terror activo (ver mi_identidad.md).
+- **Galería Miss Doll:** 5 escenas cinemáticas definidas (ver walkthrough.md).
+- **Serie Gloss:** Investigación MTF avanzada completada.
