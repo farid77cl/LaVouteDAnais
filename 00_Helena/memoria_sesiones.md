@@ -350,3 +350,11 @@
 
 *Última actualización: 2025-12-18 08:12*
 
+
+### Estado del Proyecto Gloss (MTF)
+- **Video Gloss I:** Guion listo, Assets parciales. Pausado.
+- **Gloss III:**
+    - Investigación MTF: Completada (Schlong reduction, Identity Death).
+    - Arco: 5 Capítulos definidos.
+    - Cap 1: Borrador listo (pendiente aprobación).
+    - **Nota Canon:** Gloss es 100% MTF. 'Bunny' no existe aquí.
