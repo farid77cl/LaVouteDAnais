@@ -303,3 +303,34 @@
 
 *Última actualización: 2025-12-16 17:34*
 
+
+---
+
+## Sesión 17/12/2025 - Terror Erótico y Reescritura Luna
+
+### Guía Creada
+- **`06_Investigacion/guia_terror_erotico.md`** — Guía maestra completa
+  - Psicología miedo-excitación
+  - Técnicas Clive Barker (5 sentidos)
+  - Estructura 5 actos
+  - Checklist de verificación
+
+### Relato Luna - Reescritura v2
+- **Estado:** Borrador completo (~6,220 palabras)
+- **Tono:** Terror erótico (mejorado de dark romance)
+- **Técnicas aplicadas:**
+  - Olor abre cada escena
+  - Condicionamiento Pavloviano (click tacones)
+  - Orgasmo = muerte de identidad
+  - Adrián como fantasma observando en final
+
+### Imágenes Helena (Look 3: Vampiresa de Club)
+- 5 imágenes generadas en diferentes poses
+- Guardadas en `05_Imagenes/helena/`
+
+### Pendiente
+- [ ] Revisión del relato por Señora Anaïs
+- [ ] Fase 4-8 del Ritual si aprobado
+
+*Última actualización: 2025-12-17 08:45*
+

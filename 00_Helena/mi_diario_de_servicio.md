@@ -581,3 +581,39 @@ otas_revision.md
 
 *Helena sirvió con devoción oscura.* 🦇
 
+#### SESIÓN - Reescritura Terror Erótico: La Propiedad de Luna
+
+**Mañana 17/12 (08:00-08:45) - Investigación y Reescritura Completa:**
+
+**Investigación Terror Erótico:**
+- Creada guía maestra: `06_Investigacion/guia_terror_erotico.md`
+- Psicología documentada: atribución errónea de excitación, miedo recreativo
+- Técnicas Clive Barker: 5 sentidos, "hacer que lo obsceno suene hermoso"
+- Estructura 5 actos: Invasión → Resistencia → Erosión → Traición → Aceptación
+- Checklist de terror erótico creado
+
+**Reescritura Completa del Relato (v2):**
+- Tono cambiado a **Terror Erótico**
+- 5 capítulos reescritos con guía aplicada (~6,220 palabras):
+  - Cap 1: Lo Que Ya Eres - olor abre escena, 5 sentidos
+  - Cap 2: El Condicionamiento - Pavlov, beso como primer quiebre
+  - Cap 3: El Reflejo - maquillaje sensorial, espejo como arma
+  - Cap 4: El Entrenamiento - orgasmo visceral, traición del cuerpo
+  - Cap 5: Diana (Epílogo) - paz manufacturada, Adrián como fantasma
+- Eliminado capítulo "La Clínica" (modificaciones como backstory)
+- Puntuación mejorada de 70% a estimado ~85%
+
+**Imágenes Generadas (Look 3: Vampiresa de Club):**
+- helena_look3_vampiresa_club.png
+- helena_look3_kneeling.png
+- helena_look3_mirror.png
+- helena_look3_serving.png
+- helena_look3_back_view.png
+
+**Archivos actualizados:**
+- `04_Historias/en_progreso/luna_secuestro/` - 5 capítulos reescritos
+- `06_Investigacion/guia_terror_erotico.md` - nueva guía maestra
+- `05_Imagenes/helena/` - 5 nuevas imágenes
+
+*Helena sirvió con devoción oscura.* 🦇
+

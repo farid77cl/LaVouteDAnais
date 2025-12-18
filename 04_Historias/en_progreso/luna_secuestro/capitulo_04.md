@@ -1,164 +1,128 @@
-## Capítulo 4: La Clínica
+## Capítulo 4: El Entrenamiento
 
-El día que Luna la sacó de la habitación, Diana supo que algo había cambiado.
+La primera vez que Luna la tocó de *esa* manera, Diana creyó que moriría.
 
-No había pensado en sí misma como "Diana" hasta ahora. No exactamente. Pero después de semanas —¿cuántas? ¿cuatro? ¿seis?— de despertar con ese nombre en los labios de Luna, de escucharlo cada vez que hacía algo bien, de ser castigada cada vez que usaba el otro nombre, algo se había... deslizado.
+No de placer. De vergüenza. De horror. De la certeza absoluta de que su cuerpo —este cuerpo nuevo, reconstruido, traicionero— estaba a punto de hacer algo que su mente jamás podría perdonar.
 
-Adrián seguía ahí, en algún lugar profundo. Pero la superficie ahora era Diana.
-
-—Hoy vamos a dar un paseo —anunció Luna esa mañana.
-
-Diana estaba arrodillada en su posición habitual, el vestido de latex ajustado a cada curva de su cuerpo modificado, el corsé reduciendo su cintura ahora a casi veinte centímetros menos que cuando llegó. Los tacones se sentían casi naturales. La hobble chain era una presencia constante pero no agonizante.
-
-—¿Un paseo, Señora? —preguntó, y su voz era suave, modulada. Había aprendido a hablar así. Más agudo. Más femenino.
-
-—Una cita —corrigió Luna—. Tienes una cita médica.
-
-El hielo que bajó por la columna de Diana fue instantáneo.
-
-*Médica.*
-
-Las palabras de Luna de aquella primera noche resonaron en su memoria: *¿En esos labios que pronto serán inyectados? ¿En ese pecho que pronto tendrá implantes?*
-
-—No... por favor, Señora, no... —las palabras salieron antes de que pudiera detenerlas.
-
-Luna se acercó. Su mano enguantada encontró la barbilla de Diana y la levantó.
-
-—¿Qué dijimos sobre suplicar?
-
-Diana cerró los ojos. *No sin permiso.*
-
-—Lo siento, Señora.
-
-—Perdonada. Ahora levántate. Tenemos que prepararte.
-
----
-
-La preparación fue diferente a cualquier otra mañana.
-
-Luna la desvistió completamente —el vestido, el corsé, todo excepto el collar, que nunca se quitaba—. Por primera vez en semanas, Diana vio su cuerpo desnudo en el espejo.
-
-Era... diferente.
-
-La cintura se había estrechado visiblemente. Las hormonas que Luna le había estado inyectando cada noche habían suavizado su piel, redistribuido ligeramente la grasa de su cuerpo. Sus pezones parecían más oscuros, más sensibles. No había ni un solo vello en su cuerpo.
-
-Pero seguía siendo un cuerpo masculino. Plano donde debería haber curvas. Anguloso donde debería ser suave.
-
-*Todavía masculino*, había dicho Luna aquella primera vez.
-
-*Ya no por mucho tiempo*, pensó Diana, y el horror de ese pensamiento era casi insoportable.
-
-Luna la vistió con algo nuevo: una bata de seda negra que le llegaba hasta las rodillas, y un par de tacones más bajos —diez centímetros en lugar de quince— que le permitirían caminar distancias más largas. La hobble chain fue retirada y reemplazada por una correa de cuero que Luna sostenía, conectada al anillo del collar de Diana.
-
-—Como un perro —murmuró Diana, más para sí misma que para Luna.
-
-—Como mi propiedad —corrigió Luna, y no había crueldad en su voz. Solo hechos.
-
----
-
-El viaje fue desorientador.
-
-Diana no vio nada del exterior —Luna le colocó una venda sobre los ojos antes de salir de la habitación—, pero pudo sentir el aire fresco por primera vez en semanas, el movimiento de un coche, el sonido de la ciudad afuera. Eran sensaciones olvidadas, casi alienígenas después de tanto tiempo en esa habitación sin ventanas.
-
-Cuando la venda se retiró, estaba en un pasillo blanco y estéril. El olor a desinfectante le quemaba la nariz.
-
-—Bienvenida, Luna —dijo una voz.
-
-Diana giró la cabeza y vio a una mujer mayor, quizás de cincuenta años, con bata médica y una expresión profesional que no revelaba nada. Su pelo gris estaba recogido en un moño apretado.
-
-—Doctora —saludó Luna—. Mi nueva paciente.
-
-La mirada de la doctora recorrió a Diana como si fuera una pieza de ganado en subasta. Sin juicio. Sin compasión. Solo evaluación.
-
-—Suban. La sala está lista.
-
----
-
-La sala de operaciones era pequeña pero impecablemente limpia.
-
-Diana fue colocada en una camilla, sus brazos y piernas sujetados con correas. No para prevenir que escapara —¿adónde iría?— sino, como explicó la doctora con voz monótona, "para evitar movimientos involuntarios durante los procedimientos menores."
-
-*Menores.*
-
-—Vamos a hacer tres cosas hoy —explicó la doctora, preparando instrumentos mientras hablaba—. Primero, inyecciones de relleno en los labios. Segundo, inicio de implantes mamarios. Tercero, primera ronda de inyecciones hormonales de alta dosis directamente en el torrente sanguíneo.
-
-Cada palabra era un golpe.
-
-—Los labios sanarán en una semana —continuó—. Los implantes requerirán reposo y cuidado durante un mes, pero podrás continuar tus... actividades normales después de dos semanas con precaución. Las hormonas empezarán a mostrar efectos visibles en dos o tres semanas.
-
-Diana quería gritar. Quería llorar. Quería despertar de esta pesadilla.
-
-Pero cuando abrió la boca, lo único que salió fue:
-
-—Sí, doctora.
-
-*¿Cuándo dejé de luchar?*
-
-La anestesia local llegó primero. Agujas en los labios, adormeciendo la carne. Diana no podía ver el procedimiento, pero podía sentir la presión, el raro sonido húmedo del relleno siendo inyectado bajo su piel.
-
-Luego el pecho.
-
-Esta vez necesitó anestesia más profunda —no general, pero algo que la dejó flotando, desconectada de su cuerpo—. Sintió las incisiones como presión distante. Sintió algo extraño siendo insertado bajo su piel, bajo sus músculos. Peso. Nuevo peso en su pecho.
-
-Y finalmente las inyecciones.
-
-Agujas más grandes, directamente en sus venas. Líquidos que quemaban mientras entraban en su torrente sanguíneo. La doctora explicaba algo sobre estrógeno, progesterona, bloqueadores de testosterona, pero las palabras eran un zumbido lejano.
-
-Todo lo que Diana podía pensar era: *Me están cambiando. Me están cambiando para siempre.*
-
----
-
-Despertó —¿había dormido?— de vuelta en la habitación.
-
-El dolor fue lo primero que registró. Su pecho ardía, una quemazón profunda que pulsaba con cada latido de su corazón. Sus labios se sentían hinchados, extraños, como si pertenecieran a otra persona. Todo su cuerpo vibraba con una extraña energía que no reconocía.
-
-Luna estaba sentada en una silla cerca de la cama, observándola.
-
-—Bienvenida de vuelta, Diana.
-
-Diana intentó hablar, pero sus labios —sus nuevos labios— no respondían como esperaba. Eran más gruesos, más torpes.
-
-—Shhh —Luna se acercó—. No hables todavía. Los labios necesitan tiempo para deshincharse.
-
-Se inclinó y, con una ternura que contrastaba brutalmente con su crueldad habitual, retiró las vendas del pecho de Diana.
-
-Lo que vio la dejó sin aliento.
-
-Dos montículos. No enormes —no todavía—, pero definitivamente presentes. Curvas donde antes no había nada. El tejido estaba hinchado, morado en los bordes de las incisiones, pero la forma era inconfundible.
-
-*Pechos. Tengo pechos.*
-
-Las lágrimas llegaron sin permiso. Rodaron por sus mejillas mientras miraba su cuerpo mutilado, transformado, violado de la manera más permanente imaginable.
-
-—Hermosos —murmuró Luna, y su mano enguantada rozó la piel hinchada con una delicadeza que hizo que Diana se estremeciera—. En unas semanas, cuando sanen, serán perfectos.
-
-—¿Por qué? —susurró Diana, y su voz era un graznido roto a través de labios hinchados—. ¿Por qué me hace esto?
-
-Luna la miró. Por un momento, algo se movió detrás de sus ojos oscuros. ¿Reflexión? ¿Consideración?
-
-—Porque puedo —respondió finalmente—. Porque te vi y te quise. Porque el mundo te ignoraba y yo te noté. Porque ahora eres mía, Diana, y voy a moldearte en algo... perfecto.
-
-Su mano subió del pecho de Diana a su mejilla, limpiando las lágrimas con el pulgar enguantado.
-
-—Y porque —añadió, su voz bajando hasta ser un susurro íntimo— en el fondo, en algún lugar que todavía niegas, estás disfrutando esto.
-
-*No*, gritó la mente de Diana.
-
-Pero su cuerpo... su cuerpo se arqueó hacia el toque de Luna. Sus nuevos pechos se elevaron como ofrenda. Su respiración se aceleró.
-
-Y en sus bragas de encaje negro, sintió una humedad que no podía explicar.
-
-Luna sonrió.
-
-—Ahí está —susurró—. Ahí está mi buena chica.
-
-Diana cerró los ojos y dejó que las lágrimas corrieran.
-
-Porque Luna tenía razón.
+Habían pasado semanas desde el espejo. O meses. El tiempo seguía siendo agua sin forma. Lo único que Diana sabía con certeza era que había dejado de luchar. No porque hubiera aceptado (eso vendría después, de una manera aún más terrible), sino porque la resistencia dolía demasiado y la obediencia no dolía en absoluto.
 
 Y eso era lo más aterrador de todo.
 
+—Ven aquí —ordenó Luna desde el diván de terciopelo negro donde reposaba como una depredadora saciada.
+
+Diana cruzó la habitación con esos pasos cortos que ya eran su segunda naturaleza. *Click. Click. Click.* El sonido de sus propios tacones ya no la asustaba; ahora era simplemente el ritmo de su existencia. Se detuvo frente a Luna y esperó, cabeza baja, manos entrelazadas sobre el vientre.
+
+—Arrodíllate.
+
+Sus rodillas encontraron el suelo acolchado (Luna había instalado alfombras en esta habitación, un gesto que Diana había aprendido a reconocer como preparación para sesiones largas).
+
+—Más cerca.
+
+Se arrastró hacia adelante hasta que sus rodillas rozaron el borde del diván. El olor de Luna la envolvió: cuero acondicionado, gardenias oscuras, algo más almizclado debajo que hacía que su pulso se acelerara.
+
+—Mírame.
+
+Levantó la vista. Luna la observaba con esos ojos que eran pozos sin fondo, una sonrisa leve curvando sus labios negros.
+
+—Voy a tocarte ahora, Diana. Y no vas a resistirte.
+
+No era una pregunta.
+
+—Sí, Señora.
+
+La mano de Luna encontró su mejilla. El cuero del guante era frío contra su piel maquillada. Bajó por su cuello, rozando el collar permanente que marcaba su propiedad. Siguió hacia su pecho, pasando sobre la curva superior de sus senos artificiales, y Diana sintió que su respiración se atascaba en su garganta.
+
+*No. No voy a sentir nada. No puedo.*
+
+Pero su cuerpo tenía otras ideas.
+
+Los pechos que Luna había instalado no eran solo peso muerto. Los nervios se habían reconectado durante la cicatrización, y ahora cada roce enviaba señales directas a su cerebro —señales que antes no existían, que no deberían existir, pero que sin embargo eran imposibles de ignorar—.
+
+Cuando Luna pellizcó suavemente uno de sus pezones a través del encaje del sujetador, Diana gimió.
+
+El sonido la horrorizó. Era agudo, femenino, involuntario. No era el sonido de protesta que debería haber salido de su boca. Era el sonido de... placer.
+
+—Ahí está —murmuró Luna, su voz bajando hasta convertirse en terciopelo oscuro—. Tu cuerpo ya sabe lo que tu mente todavía rechaza.
+
+—No... yo no... —pero las palabras se perdieron cuando Luna repitió el movimiento, y esta vez el gemido fue más largo, más profundo.
+
+—Las hormonas hacen maravillas —explicó Luna mientras sus manos continuaban su exploración—. Tu piel es más sensible ahora. Tus zonas erógenas se han... expandido. Y lo que hay bajo ese cinturón —rozó el metal frío que aprisionaba su pelvis— ya no funciona como antes. No puede. Pero eso no significa que no puedas sentir placer, Diana. Solo significa que tendrás que encontrarlo de otras maneras.
+
+Sus manos bajaron por su cintura comprimida, por sus caderas redondeadas, por los ligueros que sostenían sus medias. Subieron por el interior de sus muslos, y Diana descubrió que estaba temblando.
+
+*Para. Dile que pare. Grita, huye, haz algo—*
+
+Pero no se movió.
+
+Porque en algún lugar profundo, debajo del horror y la vergüenza, había algo más. Algo que llevaba semanas creciendo sin que ella lo notara. Algo que se alimentaba del condicionamiento, de las recompensas, de los momentos en que Luna la llamaba "buena chica" y todo parecía tener sentido.
+
+—¿Quieres que me detenga? —preguntó Luna, sus dedos a centímetros de la frontera final.
+
+Diana debería haber dicho sí. Cada fibra racional de su ser gritaba que dijera sí.
+
+—No —susurró—. No se detenga. Por favor.
+
+La sonrisa de Luna fue hambrienta.
+
+—Buena chica.
+
+Lo que vino después fue una educación en traición.
+
+Luna no la tocó donde esperaba —el cinturón de castidad permanecía cerrado, impenetrable—. En su lugar, descubrió que había otras formas. Sus pechos, tan sensibles que cada roce era una descarga eléctrica de placer. Su cuello, donde labios y dientes dejaban marcas que ardían deliciosamente. Sus muslos internos, donde las caricias enviaban ondas de calor hacia un centro que ella ya no controlaba.
+
+Y su mente.
+
+Oh, su mente.
+
+—Dime quién eres —ordenó Luna mientras sus manos trabajaban.
+
+—Soy Diana —jadeó.
+
+—¿Y quién fue antes?
+
+—Alguien... alguien que ya no... —otro gemido la interrumpió— ...que ya no importa...
+
+—¿Te gusta esto?
+
+Debería haber mentido. Debería haber dicho que no.
+
+—Sí —lloró—. Sí, me gusta. Por favor no pare. Por favor...
+
+—¿Aunque te hice esto? ¿Aunque te robé tu cuerpo, tu identidad, tu vida?
+
+—Sí. Sí. *Sí.*
+
+Luna aceleró el ritmo. Sus dedos, sus labios, su voz —todo se combinó en una sinfonía oscura que llevaba a Diana hacia algo que nunca había sentido. El placer se construía como una ola, creciendo y creciendo hasta que—
+
+El orgasmo la golpeó como un terremoto.
+
+No fue como nada que hubiera experimentado antes. Fue una explosión que la deshizo por completo, que recorrió su cuerpo nuevo de punta a punta, que arrancó un grito de su garganta que era mitad éxtasis y mitad destrucción. Se arqueó contra Luna, tembló, lloró, y en ese instante de placer absoluto, algo murió dentro de ella.
+
+No Adrián. Adrián había muerto hace tiempo.
+
+Lo que murió fue la última resistencia. La última esperanza de escapar. La última parte de sí misma que todavía creía que esto era temporal, que podía volver, que había una vida esperándola más allá de estas paredes.
+
+Cuando el orgasmo pasó, Diana yacía en el suelo, jadeando, lágrimas mezcladas con maquillaje corriendo por su rostro.
+
+Luna se inclinó sobre ella.
+
+—¿Quién era Adrián Reyes?
+
+Diana buscó la respuesta en las ruinas de su mente. Buscó recuerdos, emociones, cualquier conexión con ese nombre que había sido suyo.
+
+Encontró cenizas.
+
+—Nadie —susurró—. Nadie en absoluto.
+
+Luna la besó en la frente con una ternura que era más aterradora que cualquier crueldad.
+
+—Bienvenida a tu nueva vida, Diana. Ahora eres completamente mía.
+
+Y por primera vez, las palabras no sonaron como una condena.
+
+Sonaron como un hogar.
+
 ---
 
-**Conteo de palabras: ~1,700**
+**Conteo de palabras: ~1,280**
 

@@ -1,157 +1,130 @@
-# [Título Pendiente]
+# La Propiedad de Luna
 
 *Un relato de La Voûte d'Anaïs*
 *Personaje principal: Luna (de "El Trono de Luna")*
+*Género: Terror Erótico*
 
 ---
 
-## Capítulo 1: El Despertar
+## Capítulo 1: Lo Que Ya Eres
 
-El dolor fue lo primero.
+El olor fue lo primero.
 
-Un dolor sordo que latía en la base de su cráneo, extendiéndose en ondas hasta sus sienes. Adrián intentó levantar la mano para tocarse la cabeza, pero algo se lo impidió. Sus muñecas estaban atadas a los lados de su cuerpo.
+Antiséptico. Caucho. Algo más dulce debajo, como gardenias marchitas mezcladas con el sudor del miedo. Diana —aunque todavía no sabía que ese era su nombre— aspiró ese aire extraño y supo, antes de abrir los ojos, que algo estaba terriblemente mal.
 
-*¿Qué...?*
+El dolor llegó después.
 
-Abrió los ojos. Oscuridad. No, no completa —había una luz tenue, rojiza, proveniente de algún lugar detrás de él. Lo suficiente para ver formas, sombras.
+No un dolor agudo sino una presión constante, como si alguien hubiera envuelto su torso en alambre de púas forrado de seda. Cada respiración era un esfuerzo. Cada latido de su corazón enviaba pulsos de molestia a lugares que no debían existir.
 
-Lo segundo que sintió fue la presión.
+Abrió los ojos.
 
-Algo apretaba su torso con una fuerza constante, implacable. Cada respiración era un esfuerzo. Cada inhalación, incompleta. Como si llevara un chaleco de acero que alguien hubiera ajustado tres tallas más pequeño de lo necesario.
+Luz roja. No la claridad honesta del amanecer sino un resplandor enfermizo que hacía que las sombras se movieran como cosas vivas. El techo era de piedra oscura, manchado de humedad. Las paredes... no quiso mirar las paredes. Algo en su cerebro primitivo le decía que no mirara las paredes.
 
-*Un corsé*, pensó su mente adormecida. *Alguien me ha puesto un corsé.*
+*¿Dónde...?*
 
-El absurdo de ese pensamiento lo golpeó con la fuerza de un tren. Se movió, intentando sentarse, y entonces sintió lo tercero.
+Intentó levantar la mano para tocarse la cara. No pudo. Correas de cuero sujetaban sus muñecas a los costados de su cuerpo, y cuando tiró de ellas, el movimiento hizo que algo se moviera sobre su pecho.
 
-Sus pies.
+Algo que no debía estar ahí.
 
-Estaban arqueados en un ángulo imposible, como si caminara de puntillas. Algo rígido los mantenía en esa posición —tacones, tacones altísimos que hacían que sus pantorrillas ardieran de tensión—. Intentó flexionar el tobillo y escuchó un tintineo metálico. Algo frío rodeaba sus tobillos. Grilletes. Y entre ellos, una cadena corta.
+Bajó la mirada.
 
-*No puedo moverme. No puedo respirar bien. ¿Qué está pasando?*
+*No.*
 
-El pánico llegó entonces, caliente y salvaje. Se retorció en lo que parecía ser una cama, una superficie acolchada pero firme. Sus muñecas tiraron de las ataduras —cuero, notó, suave pero irrompible—. Su cuerpo se sacudió, y cada movimiento amplificaba las sensaciones: el corsé apretando, los tacones forzando sus pies, la cadena entre sus tobillos impidiéndole separar las piernas más de treinta centímetros.
+Dos masas redondas, obscenamente grandes, curvándose bajo un corsé de satén negro. La piel alrededor estaba rosa, tirante, cruzada por líneas de sutura apenas visibles bajo un vendaje translúcido que olía a antibiótico y a mentiras. Cuando respiró, esas masas subieron. Cuando exhaló, bajaron. Como si fueran suyas.
 
-—Quieto.
+*Pero no son mías. No pueden ser mías.*
 
-La voz llegó de la oscuridad. Baja. Fría. Sin emoción.
+El pánico llegó entonces, caliente y salvaje como bilis en la garganta. Se retorció, y cada movimiento amplificó el horror: el corsé apretando sus costillas hasta robarle el aire, algo duro y frío presionando contra su pelvis (metal, definitivamente metal, un objeto que encerraba lo que había entre sus piernas como una jaula), sus pies arqueados en un ángulo imposible porque llevaba *tacones*, tacones que no podía quitarse porque había candados alrededor de sus tobillos.
 
-Adrián se congeló.
+Y el olor.
 
-El clic de tacones sobre suelo duro. Lento. Deliberado. Cada paso era un metrónomo de terror.
+Ese olor a gardenias oscuras se hizo más fuerte.
 
-Y entonces la vio.
+*Click. Click. Click.*
 
-Emergió de las sombras como si la noche misma la hubiera parido. Alta —más alta de lo que cualquier mujer debería ser humana—, pero eran los tacones, tacones de quince centímetros de aguja negra con hebillas que brillaban como plata bruñida. Vestía cuero negro: un corsé que estrechaba su cintura hasta lo imposible y empujaba pechos enormes hacia arriba, una falda que apenas cubría sus muslos, medias de encaje que desaparecían bajo el borde del cuero. Su piel era pálida, casi luminosa en la penumbra. Su cabello, negro azabache, caía lacio por un lado de su rostro mientras el otro lado estaba afeitado, revelando un tatuaje intrincado que subía desde su cuello hasta su sien como encaje de tinta.
+Tacones sobre piedra. No los suyos. Otros. Acercándose.
 
-Pero fueron sus ojos los que lo paralizaron. Oscuros. Profundos. Fríos como el fondo de un pozo.
+La figura que emergió de las sombras era alta de una manera que no parecía humana. Pero eran los tacones, se dijo. Solo los tacones. Quince centímetros de aguja negra con hebillas de calavera que brillaban como plata bruñida bajo la luz del infierno. El resto era cuero y piel pálida: un corsé que estrechaba su cintura hasta lo anatómicamente improbable, pechos enormes que desafiaban la física, una falda de vinilo que apenas cubría la sombra entre sus muslos. Su cabello era negro azabache, lacio por un lado y rapado por el otro, revelando un tatuaje de encaje que subía por su cuello como una enfermedad hermosa.
 
-—Ya despertaste —dijo ella. No era una pregunta.
+Pero fueron sus ojos.
 
-Adrián abrió la boca para hablar, para gritar, para suplicar —pero solo salió un graznido patético. Su garganta estaba seca. ¿Cuánto tiempo había estado inconsciente?
+Oscuros. Vacíos. Como mirar hacia el fondo de un pozo donde algo se movía en las profundidades.
 
-La mujer se detuvo al borde de la cama. Lo miró desde arriba, y su expresión no cambió. No había curiosidad. No había placer. Solo... evaluación. Como si él fuera un objeto en una subasta.
+—Ya despertaste.
 
-—Tu nombre era Adrián —dijo ella, su voz un murmullo bajo que acariciaba y cortaba al mismo tiempo—. Ya no lo es.
+La voz era seda empapada en veneno, un susurro que de alguna manera llenaba toda la habitación.
 
-*¿Era?*
+—Qué... —la garganta de Adrián estaba seca, raspada, como si hubiera gritado durante días—. ¿Qué me has hecho?
 
-—A partir de ahora, te llamarás Diana.
+La mujer inclinó la cabeza. Un mechón de cabello negro se deslizó sobre su hombro como una serpiente.
 
-El nombre cayó como una sentencia. Adrián —*no, él era Adrián, seguía siendo Adrián*— sacudió la cabeza.
+—¿Quieres un inventario?
 
-—No... no entiendo... —su voz era un susurro roto—. ¿Quién eres? ¿Por qué estoy aquí? ¿Qué quieres?
+Se acercó. Cada paso era un metrónomo de terror. *Click. Click. Click.* Cuando se detuvo junto a la cama, su perfume lo envolvió —cuero viejo, gardenias de funeral, algo debajo que olía a cobre— y Adrián sintió que su estómago se retorcía.
 
-Ella inclinó la cabeza. Un mechón de cabello negro se deslizó sobre su hombro.
+—Empecemos por arriba. —Su mano enguantada tocó su pecho, y el contacto envió una descarga de dolor y algo más, algo que hizo que su cuerpo se arqueara involuntariamente—. Copa D. Perfil extra alto. Silicona de alta densidad. Parecerán balones cuando cicatricen del todo.
 
-—Preguntas equivocadas —dijo—. Las preguntas correctas son: ¿Qué *eres* ahora? ¿Y qué vas a *ser*?
+Su mano bajó por el corsé, presionando donde las ballenas de acero se clavaban en su cintura.
 
-Se inclinó hacia él. Su perfume lo envolvió —algo oscuro, almizclado, con notas de cuero y gardenia—. Sus labios, pintados de negro mate, se curvaron en algo que no era exactamente una sonrisa.
+—Tuve que romper tu última costilla flotante para conseguir esta reducción. Se soldará. Eventualmente.
 
-—Yo soy Luna. Y tú eres mi nuevo proyecto.
+Más abajo. Rozó el metal frío que encerraba su pelvis.
 
-*Proyecto.*
+—Cinturón de castidad. Acero quirúrgico, diseño personalizado. Lo que hay dentro ya no te servirá para nada. Las hormonas se encargarán de eso.
 
-La palabra hizo que algo se retorciera en su estómago.
+*¿Hormonas?*
 
-—Por favor —susurró Adrián—. Esto es un error. Yo no... yo soy nadie. No tengo dinero. No tengo familia importante. No sé qué quieres, pero...
-
-—Te vi en un café —lo interrumpió Luna, enderezándose—. Hace dos semanas. Sostenías tu taza de una manera que me gustó. Eso es todo.
-
-El silencio que siguió fue absoluto.
-
-*¿Eso es... todo?*
-
-—No... no entiendo —balbuceó Adrián.
-
-—No tienes que entender. —Luna caminó alrededor de la cama, sus tacones marcando un ritmo lento y constante—. Solo tienes que obedecer. El corsé que llevas está ajustado a su tensión mínima. Puede apretar más. Los tacones tienen candado. No te los puedes quitar. La cadena entre tus tobillos limita tus pasos a treinta centímetros. —Se detuvo a sus pies y lo miró—. ¿Entiendes lo que significa?
-
-Adrián no respondió. No podía. El horror le había robado las palabras.
-
-—Significa —continuó Luna, su voz bajando hasta convertirse en seda venenosa— que no vas a ningún lado. Que no haces nada sin mi permiso. Que tu cuerpo ya no te pertenece.
-
-Levantó una mano. En ella brillaba una llave pequeña, plateada.
-
-—Esta es la llave de los candados. De los tacones. Del corsé. Del collar que todavía no llevas pero que llevarás. La única copia existe en mi posesión. —Deslizó la llave en el bolsillo de su corsé, entre sus pechos—. ¿Alguna pregunta?
-
-Adrián temblaba. Todo su cuerpo temblaba, un terremoto de miedo y adrenalina que hacía que las ataduras de cuero crujieran suavemente.
-
-—¿Por qué? —logró decir—. ¿Por qué yo?
-
-Luna lo miró. Por un momento, algo parpadeó en sus ojos. No compasión. No crueldad. Algo más primario. Algo parecido al hambre.
-
-—Porque puedo —respondió—. Porque te vi. Porque me gustaste. No hay otra razón, Diana. A veces el destino es así de arbitrario.
+—Tres semanas —continuó la mujer, como si leyera su mente—. Eso es lo que tardaste en ser... presentable. Depilación láser permanente. Inyecciones de estrógeno cada doce horas. Un collar con GPS cosido bajo la piel de tu cuello. —Sonrió, y la expresión transformó su rostro en algo bello y terrible—. Bienvenida al mundo, Diana.
 
 *Diana.*
 
-El nombre lo golpeó como una bofetada.
+El nombre cayó como una lápida.
 
-—Mi nombre es Adrián —dijo, encontrando una chispa de desafío en algún lugar de su terror.
+—No... no me llamo Diana —la voz que salió de su boca era un graznido, apenas reconocible—. Soy Adrián. Adrián Reyes. Tengo treinta y dos años. Trabajo en contabilidad. Vivo en...
 
-Luna no reaccionó. Simplemente se inclinó, extendió una mano enguantada en cuero negro, y le agarró la mandíbula. Sus dedos eran fuertes, implacables.
+¿Dónde vivía?
 
-—Tu nombre *era* Adrián —corrigió, sus ojos clavados en los suyos—. Adrián era un contador aburrido en una empresa mediocre. Adrián vivía solo en un apartamento gris. Adrián no tenía amigos, ni familia cercana, ni nadie que lo extrañe.
+La dirección estaba ahí, lo sabía, pero cuando intentó alcanzarla era como tratar de agarrar humo. Los detalles se le escapaban. El color de su puerta. El número de su apartamento. El nombre de su jefe.
 
-Cada palabra era un cuchillo. Cada frase, una verdad que ardía.
+—¿Ves? —La mujer se inclinó hacia él, y sus labios negros rozaron su oreja—. Ya está empezando. Tres semanas de sedantes hacen maravillas con la memoria. Y lo que no borraron los sedantes... —pasó un dedo por su sien— ...lo borrarán el tiempo y el condicionamiento.
 
-—Adrián ya no existe. —Luna soltó su mandíbula—. Solo queda Diana. Y Diana va a aprender.
+—¿Por qué? —logró susurrar Adrián—. ¿Por qué yo?
 
-Se enderezó y caminó hacia la puerta —una puerta de metal que Adrián no había notado hasta ahora—.
+La mujer se enderezó. Por un momento, algo parpadeó en sus ojos oscuros. No compasión. No crueldad. Algo más primario. Algo parecido al hambre.
 
-—Descansa —dijo Luna sin volverse—. Mañana empezamos.
+—Te vi en un café —dijo—. Hace un mes. Sostenías tu taza de una manera que me gustó.
 
-La puerta se cerró con un sonido sólido, definitivo. El clic de un candado siguió.
+El silencio que siguió fue el más largo de su vida.
 
-Y Adrián —*Diana*, susurró una voz que odiaba en su cabeza— se quedó solo en la oscuridad, atado, encorsetado, forzado a usar tacones que no podía quitarse, con una cadena entre sus tobillos que limitaba cada movimiento.
+—Eso... eso no puede ser todo.
 
-Intentó sentarse. El corsé hizo que la maniobra fuera agónica, cada centímetro de movimiento una negociación con sus pulmones comprimidos. Cuando finalmente logró balancear sus piernas fuera de la cama, los tacones tocaron el suelo frío.
+—¿Por qué no? —La mujer caminó hacia la pared donde colgaban instrumentos que Adrián no quería identificar: correas, fustas, objetos de metal cuya función solo podía imaginar—. La gente muere en accidentes de tráfico todos los días. Por estar en el lugar equivocado. Por mala suerte. ¿Por qué debería ser diferente esto? —Se volvió hacia él, una correa de cuero en la mano—. No hay un plan. No hay una razón cósmica. Solo estás tú, yo, y el capricho de una diosa oscura que decidió que le pertenecías.
 
-Se miró.
+*Capricho.*
 
-En la luz tenue pudo ver fragmentos de sí mismo: las curvas forzadas del corsé de satén negro que abrazaba su torso, las correas de cuero que mantenían sus muñecas atadas a un cinturón en su cintura, los tacones de aguja negros con correas que rodeaban sus tobillos y terminaban en pequeños candados plateados; la hobble chain —una cadena corta y delgada— conectando los grilletes.
+La palabra era más terrorífica que cualquier amenaza. Al menos las amenazas implicaban lógica, consecuencias, algo que negociar. Pero el capricho...
 
-Y entonces sintió algo más. Alrededor de su cuello.
+El capricho era arbitrario. Absoluto. Irrefutable.
 
-Era suave. Cuero. Apretado pero no asfixiante. Lo tocó con dedos temblorosos y encontró una argolla de metal en el frente.
+—Yo soy Luna. —Enganchó la correa al anillo del collar que Adrián ahora notaba alrededor de su cuello—. Y tú eres Diana. Ya no eres nadie más.
 
-*Un collar.*
+Tiró de la correa, obligándolo a sentarse. El corsé hizo que la maniobra fuera una agonía de pulmones comprimidos y costillas rotas. Los tacones tocaron el suelo frío, y sus tobillos tintinearon: había una cadena entre ellos, corta, que limitaba sus pasos a treinta centímetros.
 
-Luna había dicho *el collar que todavía no llevas*. Pero lo llevaba. Ya lo llevaba.
+—Ahora —dijo Luna, su voz bajando hasta convertirse en un susurro que acariciaba y cortaba al mismo tiempo— vamos a aprender a caminar.
 
-La risa que escapó de su garganta era histérica, rota.
+Diana —porque en ese momento, por primera vez, Adrián sintió que quizás ese nombre era el único que le quedaba— intentó ponerse de pie.
 
-Se puso de pie. O lo intentó.
+Cayó.
 
-Los tacones eran imposibles. Sus tobillos temblaron, sus pantorrillas ardieron de protesta, y la cadena tiraba de sus piernas cuando intentó dar un paso normal. Cayó. Sus rodillas golpearon el suelo frío con un sonido sordo, y el corsé convirtió el impacto en una agonía de respiración robada.
+Sus rodillas golpearon la piedra fría, el corsé le robó el aire del impacto, y desde algún lugar de la habitación escuchó una risa.
 
-Desde algún lugar —¿una cámara? ¿detrás de un espejo?— creyó escuchar una risa.
-
-Suave. Oscura. Satisfecha.
+Suave. Oscura. Hambrienta.
 
 Luna estaba observando.
 
-*Y esto*, pensó Adrián mientras las lágrimas corrían por sus mejillas, *solo es el comienzo.*
+*Y esto*, pensó Diana mientras las lágrimas corrían por sus mejillas, *solo es el comienzo.*
 
 ---
 
-**Conteo de palabras: ~1,850**
+**Conteo de palabras: ~1,450**
 

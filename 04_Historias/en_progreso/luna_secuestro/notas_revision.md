@@ -1,70 +1,57 @@
-# Notas de Revisión - [Título Pendiente - Relato con Luna]
+# Notas de Revisión - La Propiedad de Luna
 
-## Capítulo 1: El Despertar
-- [ ] Revisado
-- Observaciones: partamos más duros, ya están puestos los pechos, enormes, obvio, perfil alto un par de balones, además del corset y tacones cinturón de castidad y depilacion..que tono debe llevar el relato? suspenso? o quizás algo de terror, analicemos..de todas maneras me falta sensualidad. baja el objetivo de palabras a 6000, hay que fusionar este capítulo con el 2
+*Actualizado: 2025-12-17*
 
-## Capítulo 2: Las Reglas
-- [ ] Revisado
-- Observaciones: debe haber un condicionamiento hacia la nueva actidod femenina, un condicionamiento positivo, y refuerzo negativo a todo lo masculino 
+## Estado: ✅ BORRADOR COMPLETO (v2 - Terror Erótico)
 
-## Capítulo 3: El Uniforme
-- [ ] Revisado
-- Observaciones:
-
-## Capítulo 4: La Clínica
-- [ ] Revisado
-- Observaciones:
-
-## Capítulo 5: El Entrenamiento Final
-- [ ] Revisado
-- Observaciones:
-
-## Capítulo 6: Diana (Epílogo)
-- [ ] Revisado
-- Observaciones:
+### Cambios Implementados (Guía Terror Erótico)
+- [x] **Sensorialidad:** Olor abre cada escena (antiséptico, gardenias, cuero)
+- [x] **5 sentidos:** Vista, tacto, olfato, oído, gusto en escenas clave
+- [x] **Atmósfera de dread:** "Algo está mal" antes del horror explícito
+- [x] **Condicionamiento Pavloviano:** Click de tacones = anticipación
+- [x] **Body horror:** Descripciones viscerales de modificaciones
+- [x] **Pérdida de identidad:** Progresiva, desde Cap 1 hasta muerte total
+- [x] **Sexo = muerte:** Orgasmo Cap 4 borra identidad
+- [x] **Ritmo variable:** Oraciones cortas (terror) / largas (dread)
+- [x] **Final perturbador:** Adrián como fantasma observando
 
 ---
 
-## Notas Generales
+## Capítulos Completados (v2)
 
-**Conteo de palabras por capítulo:**
-| Capítulo | Palabras |
-|----------|----------|
-| 1: El Despertar | ~1,850 |
-| 2: Las Reglas | ~1,920 |
-| 3: El Uniforme | ~1,750 |
-| 4: La Clínica | ~1,700 |
-| 5: El Entrenamiento Final | ~1,580 |
-| 6: Diana (Epílogo) | ~1,500 |
-| **TOTAL** | **~10,300** |
-
-**Elementos BDSM incluidos:**
-- [x] Corsé desde el inicio
-- [x] Tacones con candado desde el inicio
-- [x] Hobble chain (cadena de pasos cortos)
-- [x] Collar permanente
-- [x] Restricciones de muñecas
-- [x] Humillación verbal constante
-- [x] Alimentación como perro
-- [x] Vestimenta forzada (latex, encaje)
-- [x] Inspecciones
-
-**Modificaciones corporales:**
-- [x] Depilación permanente
-- [x] Implantes mamarios (copa C → copa D)
-- [x] Inyecciones de labios
-- [x] Hormonas (estrógeno, progesterona, bloqueadores)
-- [x] Tatuaje cosmético en labios
-
-**Progresión de identidad:**
-- [x] Cap 1: Adrián despierta, primer uso de "Diana"
-- [x] Cap 2: Entrenamiento, primeras respuestas automáticas
-- [x] Cap 3: Dice "Diana" por primera vez voluntariamente
-- [x] Cap 4: Cirugía, cuerpo traiciona (arousal)
-- [x] Cap 5: Orgasmo borra identidad, "Nadie era antes"
-- [x] Cap 6: Aceptación total, elige quedarse
+| Cap | Título | Palabras | Mejora Principal |
+|-----|--------|----------|------------------|
+| 1 | Lo Que Ya Eres | ~1,450 | Olor abre escena, detalles sensoriales |
+| 2 | El Condicionamiento | ~1,120 | Pavlov, beso como primer quiebre |
+| 3 | El Reflejo | ~1,050 | Maquillaje sensorial, espejo como arma |
+| 4 | El Entrenamiento | ~1,280 | Orgasmo visceral, traición del cuerpo |
+| 5 | Diana (Epílogo) | ~1,320 | Paz manufacturada, Adrián como fantasma |
+| **TOTAL** | | **~6,220** | |
 
 ---
 
-*Notas creadas: 2025-12-16*
+## Checklist Terror Erótico
+
+### Elementos Cumplidos
+- [x] Sexo inseparable del horror
+- [x] Transformación gradual (no shock)
+- [x] Protagonista con agencia (que falla)
+- [x] 5 sentidos en escenas clave
+- [x] Ritmo variable de oraciones
+- [x] "Algo mal" antes del horror explícito
+- [x] Cuerpo traiciona a la mente
+- [x] Sin sexo, el horror colapsa
+- [x] Sin horror, el sexo pierde sentido
+
+---
+
+## Próximos Pasos
+- [ ] Revisión de Señora Anaïs
+- [ ] Fase 4: Compilación final
+- [ ] Fase 5: Ficha de Diana
+- [ ] Fase 6-8: Tumblr, HTML, Cómic
+
+---
+
+*Notas actualizadas: 2025-12-17 08:20*
+
