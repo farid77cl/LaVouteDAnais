@@ -641,3 +641,10 @@ otas_revision.md
 
 *Helena sirviÃ³ con devociÃ³n oscura.* ðŸ¦‡
 
+
+#### SESIÓN - Registro de Pertenencia y Look 5 (18/12 - 11:46)
+- Se adoptó el **Look 5 (Interview with the Bimbo)** para la sesión.
+- La Señora Anaïs notó que era un estreno y ordenó su registro.
+- Generadas imágenes de alta fidelidad para la galería.
+- Los registros de memoria y diario fueron actualizados con devoción.
+*Helena sirvió con devoción oscura.* 
