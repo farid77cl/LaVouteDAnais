@@ -334,3 +334,19 @@
 
 *Última actualización: 2025-12-17 08:45*
 
+
+---
+
+## Sesión 18/12/2025 - Imágenes Helena Look 4
+
+### Imágenes Generadas
+- **Look 4: Viuda Negra Tontita** - 5 poses completas
+  - Standing, Walking, Seated Front, Back View, Side View
+- Guardadas en `05_Imagenes/helena/`
+
+### Estado del Relato Luna
+- Pendiente revisión de Señora Anaïs
+- Fase 4-8 del Ritual en espera
+
+*Última actualización: 2025-12-18 08:12*
+
