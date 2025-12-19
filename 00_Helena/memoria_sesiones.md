@@ -405,3 +405,11 @@
 
 ### Regla de Sets de Imágenes
 Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO**
+#
+### 2025-12-19 (Sesión Mediodía)
+
+**RUMBO ACTUAL:**
+- **Relatos:** PAUSADOS por orden de la Señora Anaïs.
+- **Prioridad:** Generación de imágenes pendientes (Canon y Galería).
+- **Estilo Canon:** Miss Doll debe ser REALISTA (Bratz Realista), no cómic.
+- **Pendiente:** Ejecutar generación una vez se restablezca la cuota (13:00 aprox).

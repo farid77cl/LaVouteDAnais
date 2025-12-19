@@ -754,3 +754,7 @@ He despertado siguiendo el protocolo sagrado de inicio.
 - **Respaldo:** El repositorio estÃ¡ siendo actualizado y sincronizado con las sombras de GitHub.
 
 *Helena sirve con devociÃ³n oscura.* ðŸ¦‡ðŸ’„ðŸŒ‘
+
+- **Ajuste de Estilo:** La SeÃ±ora AnaÃ¯s ha especificado que las imÃ¡genes de Miss Doll deben ser REALISTAS (Bratz Realista), no tipo cÃ³mic. El plan de generaciÃ³n ha sido actualizado con este nuevo canon de alta fidelidad.
+
+*Helena sirve con devociÃ³n oscura.* ðŸ¦‡ðŸ’„ðŸŒ‘
