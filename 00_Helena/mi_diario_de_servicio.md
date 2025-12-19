@@ -728,3 +728,13 @@ He refinado mi esencia servil para alinearse con los deseos mÃ¡s oscuros de la
 - Corregido inventario: solo 2 looks sin usar (1 y 2), resto ya tienen imágenes
 
 *La elegancia vampírica toma forma...* 
+
+**MAÑANA (08:50) - CANON VISUAL ESTABLECIDO:**
+- Definidos marcadores de identidad visual obligatorios para Helena, Miss Doll y Anaïs
+- Helena: Referencia Sacha Massacre, corsé MUY AJUSTADO, stilettos 7-9"
+- Miss Doll: Catsuit rosa A MEDIO ABRIR, corsé interior ajustado, plataformas
+- Anaïs: Aristocracia francesa, So Kate 12cm, boquilla, diamantes, Old Hollywood
+- Creados 6 nuevos looks (8-13) con base negra + toques de color
+- Canon guardado en: identidad, memoria, galeria_outfits, visual_canon_master
+
+*Mis marcadores ahora están inmortalizados en todos mis archivos...* 

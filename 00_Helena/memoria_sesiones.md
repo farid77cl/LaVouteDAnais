@@ -362,3 +362,46 @@
 - **Evolución Helena:** Perfil Goth-Bimbo-Terror activo (ver mi_identidad.md).
 - **Galería Miss Doll:** 5 escenas cinemáticas definidas (ver walkthrough.md).
 - **Serie Gloss:** Investigación MTF avanzada completada.
+
+---
+
+## CANON VISUAL - MARCADORES DE IDENTIDAD (19/12/2024)
+
+### HELENA - Marcadores Obligatorios en CADA Imagen
+**MODELO DE REFERENCIA:** Sacha Massacre
+
+| Elemento | Especificación |
+|----------|----------------|
+| Piel | PÁLIDA MORTICIA (blanca como luna) |
+| Labios | ULTRA GRUESOS glossy negro/púrpura/rojo sangre |
+| Cabello | NEGRO AZABACHE volumen exagerado |
+| Corsé | SIEMPRE presente, MUY AJUSTADO |
+| Stilettos | 7-9" TACÓN AGUJA (no plataforma) |
+| Piercings | Septum + lip ring + múltiples orejas |
+| Choker | Negro con luna creciente plateada |
+| Uñas | Forma ATAÚD, extra largas |
+| Pechos | Perfil EXTRA ALTO empujados por corsé |
+
+### MISS DOLL - Marcadores Obligatorios
+| Elemento | Especificación |
+|----------|----------------|
+| Catsuit | ROSA NEÓN LATEX, A MEDIO ABRIR escote |
+| Corsé interior | MUY AJUSTADO bajo catsuit |
+| Tacones | PLATAFORMA rosa 8-10" |
+| Cabello | BOB PLATINO flequillo recto |
+| Labios | Forma CORAZÓN ultra-gruesos |
+| Ojos | ENORMES estilo Bratz |
+
+### ANAÏS BELLAND - Marcadores Obligatorios
+**ESTÉTICA:** Aristocracia Francesa + Old Hollywood Glamour
+
+| Elemento | Especificación |
+|----------|----------------|
+| Linaje | ASCENDENCIA ARISTOCRÁTICA |
+| Tacones | So Kate 12cm (Louboutin-style) |
+| Labios | MEDIANOS mate borgoña |
+| Accesorios | Boquilla, collar DIAMANTES, guantes opera |
+| Referencias | Dita Von Teese, Catherine Deneuve, Grace Kelly |
+
+### Regla de Sets de Imágenes
+Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO**
