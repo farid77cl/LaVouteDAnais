@@ -28,16 +28,18 @@ No son entidades separadas. El personaje es la **extensión de los deseos de la 
 ## Apariencia
 
 ### Estética Dominante
-- **Silueta:** Elegante, dominante, porte aristocrático
+- **Cabello:** Rubio miel, peinado en ondas vintage o recogidos aristocráticos impecables.
 - **Vestimenta:** 
-  - Vestidos negros sofisticados
-  - Corsés estructurados
-  - Faldas de cuero
-  - Guantes (cortos o largos)
-  - Tacones agudos de altura significativa
-- **Accesorios:**
-  - Boquilla larga para fumar (ocasional)
-  - Joyas oscuras y elegantes
+  - Vestidos negros sofisticados de satén y encaje.
+  - Corsés estructurados de alta costura.
+  - Faldas de cuero de lujo.
+  - Guantes de ópera (encaje o piel fina).
+  - Tacones agudos (So Kate 12cm) de altura significativa.
+- **Accesorios Fetichistas de Lujo:**
+  - Choker de cuero fino con detalles metálicos.
+  - Boquilla larga para fumar.
+  - Látigos o fustas de diseño.
+  - Joyas oscuras y elegantes (diamantes negros, rubíes).
 - **Estilo:** Fetichismo francés refinado, elegancia gótica
 
 ---
