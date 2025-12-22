@@ -6,31 +6,87 @@ La casa de los Mendoza se había convertido en un desastre.
 
 Los platos se acumulaban en el fregadero hasta formar torres precarias. La ropa sucia desbordaba el canasto del lavadero. El polvo se asentaba sobre los muebles como nieve gris. Y a Roxy no podría importarle menos.
 
-Sus días habían adquirido un nuevo ritmo, completamente ajeno a las tareas domésticas que antes definían su existencia. Se despertaba tarde —nunca antes del mediodía— y lo primero que hacía era mirarse en el espejo. Estudiaba su cuerpo cambiante, acariciando las curvas que el vino había comenzado a exagerar, probándose outfit tras outfit de su creciente colección.
+Pero a Eduardo sí le importaba. Le importaba todo lo que Roxy había dejado de hacer. Y por eso, una mañana, cometió el error de mencionarlo.
 
-El vestido rojo. El de leopardo. El negro con escote hasta el ombligo.
+—Cariño, la casa está... un poco descuidada —dijo mientras ella tomaba su café de mediodía, aún en bata de seda, con el cabello rojo revuelto de la noche anterior—. Quizás podrías...
 
-Pasaba horas frente al espejo del dormitorio, contorsionándose en posturas que habría encontrado obscenas semanas antes. Se fotografiaba. Se filmaba. Y cuando el calor entre sus piernas se volvía insoportable...
+—¿Podría qué? —Roxy bajó la taza con un golpe seco—. ¿Limpiar? ¿Cocinar? ¿Volver a ser la buena esposa que fregaba tus calzoncillos?
 
-*Eso también era nuevo.*
+Eduardo retrocedió un paso. Había algo en los ojos de su esposa que no reconocía. Algo frío. Algo hambriento.
 
-La masturbación se había convertido en su nueva afición. Tres, cuatro, cinco veces al día. En el dormitorio, en el baño, en el sofá del living mientras las cortinas permanecían abiertas. Sus dedos encontraban el camino hacia su sexo casi sin pensarlo, como si su cuerpo tuviera voluntad propia.
+—No quise decir eso, yo solo...
 
-Eduardo la había encontrado así una vez —desparramada en el sofá, con los ojos cerrados y los dedos hundidos en su interior, gimiendo el nombre de hombres que no eran él. Se había quedado paralizado en la puerta, y Roxy había abierto los ojos justo a tiempo para verlo huir hacia la cocina.
+—Tú solo nada. —Roxy se puso de pie, caminando hacia él con pasos lentos, depredadores. Lo acorraló contra la encimera de la cocina—. Dime, Eduardo. ¿Qué estabas haciendo anoche cuando llegué a casa?
 
-No le importó. De hecho, la idea de que la hubiera visto la excitó aún más.
+El color huyó de su rostro.
 
-Mientras tanto, Eduardo había comenzado a llenar los vacíos que ella dejaba.
+—Yo... estaba durmiendo...
 
-Al principio fue sutil. Lavar su propio plato después de cenar. Recoger la ropa que ella dejaba tirada por el piso. Pasar la aspiradora los domingos porque el polvo lo hacía estornudar.
+—Mentira. —Roxy sonrió, y esa sonrisa era un cuchillo—. Te vi. En la cama. Con mi teléfono en la mano. Leyendo mis mensajes con Diego. Y la otra mano...
 
-Pero gradualmente, sin que ninguno lo nombrara, Eduardo se convirtió en el ama de casa.
+—Roxy, por favor...
 
-Los delantales aparecieron primero. Uno viejo de Rosa María que encontró en un cajón, manchado de salsa y recuerdos de quien solía ser su esposa. Después compró otros —más funcionales, más resistentes— para cocinar sin arruinar sus camisas de trabajo.
+—...debajo de las sábanas, tocándote esa cosita que ya no funciona para nada útil.
 
-Luego vino la rutina. Despertar temprano. Preparar el desayuno (que Roxy rara vez comía). Lavar los platos. Limpiar el baño. Hacer la compra. Cocinar la cena. Planchar la ropa de Roxy para sus salidas nocturnas.
+Las lágrimas comenzaron a formarse en los ojos de Eduardo. Vergüenza. Humillación. Y algo más que ninguno de los dos nombró.
 
-Todo mientras ella pasaba el día probándose vestidos, tocándose, y planificando su próxima cacería.
+—¿Te excita, verdad? —continuó Roxy, inclinándose hacia su oído—. Saber que otros hombres me cogen mientras tú te quedas aquí solo. Saber que me dan lo que tú no puedes.
+
+—Por favor... —su voz era un susurro quebrado.
+
+Roxy se echó hacia atrás y soltó una carcajada. Una risa cruel, burbujeante, que llenó la cocina como veneno.
+
+—¡Mírate! El gran Eduardo Mendoza. El proveedor. El hombre de la casa. Reducido a un patético cornudo que se masturba leyendo los mensajes de su esposa con otros hombres.
+
+Eduardo no respondió. No podía. Solo bajó la mirada hacia el piso sucio.
+
+—Pero sabes qué, mi amor... —Roxy le acarició la mejilla con falsa ternura— ...ya que claramente no puedes satisfacerme como hombre, al menos puedes ser útil de otra manera.
+
+—¿Cómo? —preguntó él, y había esperanza en su voz. Esperanza de redención. De propósito.
+
+—Limpia. —Roxy señaló la cocina sucia, el living polvoriento, las escaleras manchadas—. Todo. La casa es un desastre porque yo tengo cosas mejores que hacer. Pero tú... tú no tienes nada mejor que hacer. Así que desde hoy, eres el ama de casa.
+
+—Pero yo trabajo...
+
+—Y seguirás trabajando. Pero cuando llegues a casa, cocinarás, limpiarás, lavarás mi ropa, plancharás mis vestidos para salir, y me traerás tragos cuando te llame. ¿Entendido?
+
+Eduardo asintió lentamente. Y en ese momento, algo murió dentro de él. O quizás, algo nació.
+
+—Buen chico. —Roxy lo palmeó en la mejilla—. Ahora empieza con los platos. Tengo que prepararme para la piscina.
+
+Y así comenzó la nueva vida de Eduardo Mendoza.
+
+Los delantales aparecieron primero. Uno viejo de Rosa María que encontró en un cajón, manchado de salsa y recuerdos de quien solía ser su esposa. Después compró otros —más funcionales, más resistentes— para cocinar sin arruinar sus camisas de trabajo. También una bandeja de plata. Y guantes de goma amarillos que le dejaban las manos enrojecidas.
+
+Porque la piscina se había convertido en el santuario de Roxy.
+
+Cada tarde, cuando el sol de verano caía sobre el patio trasero, ella emergía de la casa como una diosa de la lujuria. Bikini diminuto —animal print, por supuesto, o rojo fuego, o negro satánico— con un pareo de gasa que dejaba ver más de lo que cubría. Y siempre, siempre, los tacones. Plataformas de corcho o stilettos de acrílico transparente que hacían clic contra las baldosas del pool.
+
+Se recostaba en la tumbona acolchada, las piernas bronceándose, un cigarrillo negro con filtro dorado entre los dedos y el teléfono en la otra mano. Texteaba. Constantemente. A Diego (cuando lo recordaba). A los otros. A los potenciales. A la decena de hombres que ahora la perseguían como moscas atraídas por la miel.
+
+*"¿Qué llevas puesto?"*, preguntaba uno.
+
+*"Nada que puedas quitarme tú"*, respondía ella, tomando una foto de sus piernas brillantes de aceite y enviándola como provocación.
+
+—¡Eduardo! —gritaba sin apartar los ojos del teléfono—. Mi vaso está vacío.
+
+Y Eduardo aparecía. Con delantal. Con la bandeja de plata. Con un daiquiri de frutilla o un gin-tonic con lima o lo que fuera que ella hubiera pedido.
+
+—Aquí tienes, Roxy —murmuraba, colocando el vaso junto a ella con la servilleta perfectamente doblada.
+
+—Ponme más bloqueador en la espalda —ordenaba ella, dándole la espalda y desabrochándose el top del bikini.
+
+Las manos de Eduardo temblaban mientras esparcía la crema sobre su piel. Su esposa —la madre de su hija— llevaba un hilo dental que desaparecía entre nalgas que él ya no tenía permiso de tocar. Y él estaba ahí, sirviéndole tragos, untándole bloqueador, mientras el teléfono de ella vibraba con mensajes de otros hombres.
+
+—Ya puedes irte —decía Roxy sin mirarlo—. Creo que hay platos en el fregadero.
+
+Y Eduardo se iba. Siempre se iba.
+
+Roxy fumaba otro cigarrillo, tomaba otro sorbo de su trago, y respondía otro mensaje. A veces, cuando el calor entre sus piernas se volvía insoportable, su mano libre se deslizaba bajo la tela del bikini...
+
+La masturbación se había convertido en su afición principal. Pero ahora tenía un nuevo elemento: el placer de saber que Eduardo podía verla desde la ventana de la cocina, con las manos metidas en agua jabonosa, mientras ella se daba placer pensando en otros hombres.
+
+Eduardo comenzó a llenar los vacíos que ella dejaba. Y cada vacío que llenaba lo vaciaba un poco más a él.
 
 —Quiero implantes.
 

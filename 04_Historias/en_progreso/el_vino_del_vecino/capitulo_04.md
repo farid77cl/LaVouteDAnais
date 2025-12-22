@@ -4,7 +4,7 @@
 
 El bar se llamaba "Medianoche" —un nombre pretencioso para un lugar pretencioso, lleno de ejecutivos jóvenes y mujeres que buscaban ser encontradas. Roxy empujó la puerta y entró como si el lugar le perteneciera.
 
-Las cabezas giraron. Los ojos siguieron el vaivén de sus caderas mientras se abría paso hacia la barra. El vestido rojo brillaba bajo las luces tenues, y sus tacones de aguja hacían clic contra el piso de mármol con cada paso calculado.
+Las cabezas giraron. Los ojos siguieron el vaivén de sus caderas mientras se abría paso hacia la barra. El vestido de leopardo brillaba bajo las luces tenues, y sus tacones de aguja hacían clic contra el piso de mármol con cada paso calculado.
 
 *Míralos*, ronroneó la voz en su cabeza. *Todos te desean.*
 
@@ -62,25 +62,65 @@ Roxy se puso de pie. Extendió su mano hacia él.
 
 —Entonces llévame.
 
-A la tercera copa, sus piernas se rozaban bajo la mesa.
-
-A la quinta, la mano de Diego descansaba sobre su rodilla.
-
-A medianoche, estaban en el hotel de enfrente.
-
 El elevador se sintió como una eternidad. Diego la presionó contra la pared, su boca encontrando la de ella con hambre juvenil. Roxy sintió su dureza contra su muslo y casi gimió de alivio.
 
 *Esto*, pensó. *Esto es lo que mi cuerpo necesita.*
 
-La habitación era genérica, olvidable, perfecta. Diego la llevó a la cama con manos urgentes, y Roxy lo dejó desvestirla como si fuera un regalo de cumpleaños.
+La habitación era genérica, olvidable, perfecta. Diego quiso llevarla directamente a la cama, pero Roxy lo detuvo con una mano en su pecho.
 
-—Dios mío —murmuró él cuando vio su cuerpo—. Eres increíble.
+—Siéntate —ordenó, empujándolo hacia el sillón junto a la ventana—. Y mira.
 
-*Lo sé*, respondió la voz en su cabeza mientras sus labios dibujaban una sonrisa de depredador.
+Diego obedeció. Como todos los hombres obedecían cuando una mujer sabía cómo dar órdenes.
 
-El sexo fue todo lo que había estado anhelando. Y más.
+Roxy caminó hacia el centro de la habitación, sus tacones hundiendo el silencio. Se detuvo frente a él, la luz de la ciudad dibujando sombras sobre su vestido de leopardo. Y entonces comenzó.
 
-Roxy no dejó que Diego tomara el control ni por un segundo. Esta era su caza, su presa, su festín. Lo empujó sobre la cama y se subió sobre él, arrancándole la camisa con manos que ya no temblaban de nervios sino de hambre.
+Primero, los aretes. Los dejó caer sobre la mesita de noche con un tintineo metálico. Después, las pulseras de oro, una por una, como si fueran grilletes que estaba rompiendo.
+
+Llevó las manos a la cremallera lateral del vestido. La bajó con lentitud deliberada, dejando que Diego escuchara cada diente separándose. El vestido se aflojó sobre sus hombros, pero no cayó. Roxy lo sostuvo con una mano sobre su pecho, torturándolo con la espera.
+
+—¿Quieres ver más? —preguntó, su voz grave, pausada.
+
+—Sí —la voz de Diego era un ruego.
+
+Roxy soltó el vestido. La tela cayó al suelo como una serpiente muerta.
+
+Debajo, la lencería que había elegido esa noche no era para Eduardo. Era para esto. Para la caza.
+
+Un sujetador de encaje negro que empujaba sus pechos hacia arriba, creando un valle de sombras entre ellos. Bragas a juego —apenas un triángulo de tela que desaparecía entre sus nalgas. Un liguero de satén negro sosteniendo medias de red que subían por sus muslos. Y los tacones. Siempre los tacones.
+
+Su cuerpo era el de una mujer que había vivido, que había amado, que había parido una hija. No era el cuerpo de una niña de veinte años. Era mejor. Era el cuerpo de una cazadora en su prime: curvas suaves donde debían ser suaves, firmeza donde debía ser firme, la piel marcada por la experiencia pero radiante con el hambre de una segunda juventud.
+
+Roxy se giró lentamente, dejando que Diego viera cada ángulo. Su espalda. Sus nalgas. El arco de su columna cuando se inclinó hacia adelante, ofreciéndole una vista que lo hizo gemir.
+
+—Te gusta lo que ves —no fue una pregunta.
+
+—Eres... perfecta —jadeó él.
+
+Roxy se acercó a él. Se arrodilló entre sus piernas, sus manos subiendo por sus muslos hasta encontrar el bulto que luchaba contra la tela de su pantalón. Lo acarició por encima de la ropa, sintiendo su tamaño, su calor, su urgencia.
+
+—Mmm —ronroneó ella—. Esto sí es lo que una mujer merece.
+
+Le desabrochó el cinturón. Bajó la cremallera. Cuando liberó su erección, casi se relamió los labios. Diego era joven, duro, y mucho más grande de lo que Eduardo había sido incluso en sus mejores días.
+
+*Esto*, pensó, *es lo que he estado perdiendo.*
+
+Pero no lo tomó en su boca. Todavía no. Primero, se puso de pie y se subió a horcajadas sobre él en el sillón. Lo besó profundamente mientras frotaba su sexo húmedo contra su dureza, sin dejarlo entrar. Diego gemía contra su boca, sus manos aferrando sus caderas, rogando sin palabras.
+
+—Por favor... —suplicó él.
+
+*Por favor.* La palabra más dulce que existía.
+
+—A la cama —ordenó Roxy, levantándose—. Y quítate todo.
+
+Diego prácticamente se arrancó la ropa mientras ella se recostaba en la cama, las piernas abiertas, los tacones aún puestos, un dedo trazando círculos sobre el encaje de sus bragas.
+
+—Ven aquí —le dijo cuando él estuvo completamente desnudo—. Pero primero... esto se va.
+
+Se quitó las bragas ella misma, deslizándolas por sus piernas con movimientos lentos. Las dejó colgando de un tacón por un segundo antes de lanzarlas hacia él. Diego las atrapó y se las llevó a la cara, inhalando su aroma.
+
+*Buen chico*, pensó Roxy. *Ya estás entrenado.*
+
+Lo jaló hacia ella, lo hizo caer sobre la cama, y se subió encima. Esta era su caza. Su presa. Su festín.
 
 —Quédate quieto —ordenó, su voz grave resonando en la habitación—. Solo siente.
 
@@ -92,6 +132,8 @@ Se bajó sobre él con lentitud torturadora. Centímetro a centímetro, sintiend
 
 Cabalgó sobre él con el ritmo de una mujer que sabe exactamente lo que necesita. Sus caderas ondulaban, giraban, subían y bajaban en un patrón que había aprendido en sueños oscuros. Sus manos se apoyaban en el pecho de Diego mientras se arqueaba hacia atrás, el cabello rojo cayendo como una cascada de fuego.
 
+*Ni siquiera sé su apellido*, pensó mientras usaba su cuerpo. *Y no me importa.*
+
 El primer orgasmo la tomó por sorpresa. Vino desde lo más profundo de su vientre, una ola de calor que subió por su columna y explotó en su cerebro. Gritó —sin vergüenza, sin contención— mientras sus paredes se apretaban alrededor de Diego y sus uñas dejaban marcas rojas en su pecho.
 
 —No te corras todavía —ordenó cuando sintió que él temblaba bajo ella—. No he terminado contigo.
@@ -101,6 +143,8 @@ Lo sacó de dentro de ella antes de que pudiera desobedecer. Se deslizó hacia a
 —Mira —dijo, liberándolo por un segundo—. Mírame mientras te como.
 
 Diego no pudo apartar los ojos. Observó, hipnotizado, mientras esta mujer —esta diosa, esta depredadora— lo devoraba con una habilidad que ninguna de sus novias anteriores había poseído. La lengua de Roxy trazaba círculos, presionaba puntos que él no sabía que tenía, lo llevaba al borde y después lo dejaba caer.
+
+*Pobre iluso*, pensó Roxy mientras lo torturaba. *Cree que estoy haciéndole un favor. No entiende que él es el favor. Una herramienta. Un juguete.*
 
 Cuando lo sintió a punto de explotar, Roxy se detuvo. Se puso de rodillas frente a él, dándole la espalda, y miró sobre su hombro con ojos de cazadora.
 
@@ -122,9 +166,11 @@ Cayeron juntos sobre la cama, empapados de sudor, jadeando como animales despué
 
 *Esto es lo que eres ahora*, susurró la voz mientras su cuerpo aún temblaba con las réplicas del placer. *Una cazadora. Una devoradora de hombres.*
 
-Y Roxy sonrió contra las sábanas manchadas, sabiendo que esta era solo la primera de muchas presas.
+Y Roxy sonrió contra las sábanas manchadas, sabiendo que esta era solo la primera de muchas presas. Diego ya estaba olvidado —su rostro, su nombre, todo lo que no fuera la sensación de él dentro de ella. Mañana no lo recordaría. Mañana habría otro.
 
-Después, mientras Diego dormía el sueño de los jóvenes satisfechos, Roxy se vistió en silencio. No dejó su número. No dejó su verdadero nombre. Solo se deslizó fuera de la habitación como el fantasma de quien solía ser.
+Después, mientras Diego dormía el sueño de los jóvenes satisfechos —pobre tonto, pensando que había *conquistado* a una mujer mayor—, Roxy se vistió en silencio. No dejó su número. No dejó su verdadero nombre. No dejó ni una nota de agradecimiento, porque no había nada que agradecer. Él había sido usado, y ella había terminado con él.
+
+Se deslizó fuera de la habitación como el fantasma de quien solía ser, sin mirar atrás.
 
 Llegó a casa a las cuatro de la mañana. La casa estaba oscura, silenciosa... y sucia.
 
