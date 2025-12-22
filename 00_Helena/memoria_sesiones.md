@@ -454,6 +454,56 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 
 **ESTADO:**
 - Relatos: PAUSADOS
+Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO**
+#
+### 2025-12-19 (Sesión Mediodía)
+
+**RUMBO ACTUAL:**
+- **Relatos:** PAUSADOS por orden de la Señora Anaïs.
+- **Prioridad:** Generación de imágenes pendientes (Canon y Galería).
+- **Estilo Canon:** Miss Doll debe ser REALISTA (Bratz Realista), no cómic.
+- **Pendiente:** Ejecutar generación una vez se restablezca la cuota (13:00 aprox).
+
+
+---
+
+### 2025-12-19 (SesiÃ³n Completa)
+
+**CANON VISUAL ACTUALIZADO:**
+- **AnaÃ¯s Belland:** Cabello RUBIO MIEL (no oscuro), accesorios fetichistas de lujo (choker cuero, lÃ¡tigo, guantes encaje).
+- **Miss Doll:** Rostro HUMANO REALISTA con maquillaje dramÃ¡tico (no CGI/muÃ±eca), corsÃ© EXTERNO VISIBLE sobre catsuit rosa.
+
+**IMÃGENES GENERADAS (7 total):**
+| Personaje | Imagen | Estado |
+|-----------|--------|--------|
+| AnaÃ¯s Belland | `anais_canon.png` | âœ… |
+| Miss Doll | `miss_doll_canon_realista.png` | âœ… |
+| Helena Look 1 | Side, Walking, Back | âœ… |
+| Helena Look 2 | Standing | âœ… (4 pendientes) |
+
+**MONETIZACIÃ“N:**
+- Cuenta PayPal Business recomendada para recibir pagos por relatos.
+
+**ESTADO:**
+- Relatos: PAUSADOS
+- Prioridad: GeneraciÃ³n de imÃ¡genes
+- Cuota: Agotada (~4h para reset)
+
+
+---
+
+### 2025-12-22 (SesiÃ³n MaÃ±ana)
+
+**CANON ACTUALIZADO:**
+- **Miss Doll:** Integrados 4 pilares Exotic Pole (Control Dominante, Cara de Pole, DisociaciÃ³n Esfuerzo, EstÃ©tica MuÃ±eca).
+- **AnaÃ¯s Belland:** Integrados pilares 1, 2, 4 (Control Dominante, Rostro de Poder, Alter Ego AristocrÃ¡tico).
+
+**NUEVAS RESPONSABILIDADES:**
+- Helena serÃ¡ manager de Ko-fi de La VoÃ»te d'AnaÃ¯s.
+- Pendiente: Credenciales y estrategia de contenido.
+
+**ESTADO:**
+- Relatos: PAUSADOS
 - Prioridad: GestiÃ³n Ko-fi + ImÃ¡genes pendientes (cuota deberÃ­a estar disponible)
 
 
@@ -470,3 +520,36 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 
 **CONTEO ACTUALIZADO:** ~7,600 palabras (Cap 8 expandido a 900).
 
+
+---
+
+## Sesión 22/12/2025 - Reorganización de Canon y El Vino del Vecino
+
+### Reorganización de Canon
+- **Eliminados:** `simbolos_rituales.md` (duplicado), `linea_temporal.md` (obsoleto).
+- **Movidos:** `catalogo_personajes.md` (a `02_Personajes/`), `indice_historias.md` (a `04_Historias/`).
+- **Nuevos Pilares de Canon:** 
+    - `visual_canon.md`: Reglas estrictas para generación de IA (estilo Sacha Massacre, tacones obligatorios, Miss Doll realista).
+    - `personajes_principales.md`: Resumen ejecutivo de Anaïs, Miss Doll y Helena.
+    - `reglas_de_transformacion.md`: Definición de procesos MTF y Bimbofication en La Voûte.
+
+### Galería Helena
+- **Look 2:** `helena_look2_elvira_back.png` (4/5 poses completas).
+- **Look 8:** `helena_look8_esmeralda_standing.png` (Outfit del día: Medianoche Esmeralda).
+- **Nota:** Cuota de generación inestable, reintentos exitosos intermitentes.
+
+### Nuevo Relato: El Vino del Vecino
+- **Fases 1 y 2 del Ritual:** Completadas.
+- **Arco Refinado:** 
+    - **Rosa María → Roxy:** Transformación motivada por frustración sexual.
+    - **Esposo:** Sumiso cornudo voyeurista (impotencia funcional compensada con masturbación por humillación).
+    - **Hija:** Desaprobación inicial → Abandono de estudios por Strip Club.
+    - **Clímax:** El vecino reclama sus "obras" — El vino proviene de la cosecha especial de La Bóveda de Anaïs.
+
+### Pendiente
+- [ ] Conectar método de pago Ko-fi.
+- [ ] Crear banner para Ko-fi.
+- [ ] FASE 3: Escritura de capítulos de "El Vino del Vecino".
+- [ ] Completar poses restantes de Helena (Look 2 y Look 8).
+
+*Última actualización: 2025-12-22 11:15*
