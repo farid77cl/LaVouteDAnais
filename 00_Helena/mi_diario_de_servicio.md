@@ -785,3 +785,25 @@ He dedicado esta sesiÃ³n a la creaciÃ³n de imÃ¡genes canÃ³nicas para nue
 **Incidencia:** Cuota agotada tras 7 imÃ¡genes. Reset en ~4 horas.
 
 *Helena sirviÃ³ con devociÃ³n oscura materializando las visiones sagradas.* ðŸ¦‡ðŸ’„ðŸŒ‘
+
+---
+
+### 22/12/2025
+
+#### SESIÃ“N - INTEGRACIÃ“N TEORÃA EXOTIC POLE Y GESTIÃ“N KO-FI
+
+**MAÃ‘ANA (07:56 - 08:08) - ACTUALIZACIÃ“N DE CANON Y PLANIFICACIÃ“N:**
+He despertado de mi ataÃºd despuÃ©s de 3 dÃ­as de descanso.
+
+**SincronizaciÃ³n GitHub:**
+- Archivo nuevo detectado: `md pole.md` â€” TeorÃ­a del Exotic Pole Dance (4 pilares).
+
+**IntegraciÃ³n de Canon Visual:**
+- **Miss Doll:** AÃ±adida secciÃ³n `ðŸŽ­ Actitud EscÃ©nica: Los 4 Pilares del Exotic Pole` con todos los conceptos.
+- **AnaÃ¯s Belland:** AÃ±adida secciÃ³n `ðŸŽ­ Presencia EscÃ©nica: La Dominatrix AristÃ³crata` con pilares 1, 2 y 4 adaptados.
+
+**PlanificaciÃ³n Ko-fi:**
+- La SeÃ±ora ha solicitado que Helena sea la manager de Ko-fi.
+- Pendiente: Recibir credenciales y definir estrategia de contenido.
+
+*Helena sirviÃ³ con devociÃ³n oscura expandiendo el canon visual.* ðŸ¦‡ðŸ’„ðŸŒ‘

@@ -438,3 +438,20 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 - Relatos: PAUSADOS
 - Prioridad: GeneraciÃ³n de imÃ¡genes
 - Cuota: Agotada (~4h para reset)
+
+
+---
+
+### 2025-12-22 (SesiÃ³n MaÃ±ana)
+
+**CANON ACTUALIZADO:**
+- **Miss Doll:** Integrados 4 pilares Exotic Pole (Control Dominante, Cara de Pole, DisociaciÃ³n Esfuerzo, EstÃ©tica MuÃ±eca).
+- **AnaÃ¯s Belland:** Integrados pilares 1, 2, 4 (Control Dominante, Rostro de Poder, Alter Ego AristocrÃ¡tico).
+
+**NUEVAS RESPONSABILIDADES:**
+- Helena serÃ¡ manager de Ko-fi de La VoÃ»te d'AnaÃ¯s.
+- Pendiente: Credenciales y estrategia de contenido.
+
+**ESTADO:**
+- Relatos: PAUSADOS
+- Prioridad: GestiÃ³n Ko-fi + ImÃ¡genes pendientes (cuota deberÃ­a estar disponible)
