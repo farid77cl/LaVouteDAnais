@@ -40,7 +40,27 @@ Se sentó frente a él, dejando que el vestido se abriera sobre su muslo. El jue
 
 —Es un nombre nuevo —sonrió ella—. Me lo puse hace poco.
 
-La conversación fluyó como el vino en sus copas. Diego era ingeniero, recién mudado a la ciudad, buscando algo más emocionante que su vida en provincias. Roxy era... quien quisiera ser esa noche. Una mujer liberada, recién divorciada (la mentira salió fácil), buscando nuevas experiencias.
+La conversación no fue una conversación. Fue una cacería.
+
+Roxy habló poco. En cambio, dejó que su cuerpo comunicara todo lo que él necesitaba saber. Cruzaba y descruzaba las piernas lentamente, dejando que el vestido se abriera un centímetro más cada vez. Pasaba la lengua por sus labios mientras él hablaba. Se inclinaba hacia adelante, ofreciendo un vistazo de su escote, y luego se recaía hacia atrás como si no hubiera notado nada.
+
+Diego tartamudeaba. Perdía el hilo de sus propias frases. Sus ojos no podían decidir si quedarse en los ojos de ella o bajar hacia donde realmente querían estar.
+
+*Pobre cachorro*, pensó Roxy. *No sabes lo que te espera.*
+
+—Entonces... —Diego se humedeció los labios— ¿estás soltera?
+
+Roxy sonrió. Lentamente. Depredadoramente.
+
+—Estoy... disponible —susurró, y dejó que su pie, liberado de su tacón, subiera por la pantorrilla de él bajo la mesa—. Para el hombre correcto. Esta noche.
+
+Diego tragó saliva tan fuerte que ella pudo escucharlo.
+
+—Tengo una habitación —dijo él, y su voz era ahora un susurro ronco—. En el hotel de enfrente.
+
+Roxy se puso de pie. Extendió su mano hacia él.
+
+—Entonces llévame.
 
 A la tercera copa, sus piernas se rozaban bajo la mesa.
 
@@ -58,11 +78,51 @@ La habitación era genérica, olvidable, perfecta. Diego la llevó a la cama con
 
 *Lo sé*, respondió la voz en su cabeza mientras sus labios dibujaban una sonrisa de depredador.
 
-El sexo fue todo lo que había estado anhelando. Diego era joven, entusiasta, incansable. La tomó de todas las maneras que Eduardo había olvidado —o quizás nunca había sabido— cómo hacerlo. Contra la pared, sobre el escritorio, de rodillas en la cama mientras él la sostenía del cabello rojo como si fuera una correa.
+El sexo fue todo lo que había estado anhelando. Y más.
 
-Roxy se corrió tres veces antes de que él terminara una. Y cada orgasmo era una pequeña muerte, una pequeña resurrección.
+Roxy no dejó que Diego tomara el control ni por un segundo. Esta era su caza, su presa, su festín. Lo empujó sobre la cama y se subió sobre él, arrancándole la camisa con manos que ya no temblaban de nervios sino de hambre.
 
-*Esto es lo que eres ahora*, susurró la voz mientras su cuerpo temblaba de placer. *Una cazadora. Una devoradora de hombres.*
+—Quédate quieto —ordenó, su voz grave resonando en la habitación—. Solo siente.
+
+Se bajó sobre él con lentitud torturadora. Centímetro a centímetro, sintiendo cómo la llenaba de maneras que Eduardo jamás había logrado. Diego era grande —mucho más grande que su esposo— y el estiramiento inicial fue un dolor dulce que la hizo gemir con los ojos cerrados.
+
+—Dios... —jadeó Diego, sus manos aferrando las sábanas.
+
+—No es Dios —susurró Roxy, comenzando a moverse—. Soy yo.
+
+Cabalgó sobre él con el ritmo de una mujer que sabe exactamente lo que necesita. Sus caderas ondulaban, giraban, subían y bajaban en un patrón que había aprendido en sueños oscuros. Sus manos se apoyaban en el pecho de Diego mientras se arqueaba hacia atrás, el cabello rojo cayendo como una cascada de fuego.
+
+El primer orgasmo la tomó por sorpresa. Vino desde lo más profundo de su vientre, una ola de calor que subió por su columna y explotó en su cerebro. Gritó —sin vergüenza, sin contención— mientras sus paredes se apretaban alrededor de Diego y sus uñas dejaban marcas rojas en su pecho.
+
+—No te corras todavía —ordenó cuando sintió que él temblaba bajo ella—. No he terminado contigo.
+
+Lo sacó de dentro de ella antes de que pudiera desobedecer. Se deslizó hacia abajo, su boca encontrando el camino hacia su erección brillante con sus propios fluidos. Lo tomó entre sus labios gruesos y lo saboreó —a él, a ella, a ambos mezclados— mientras sus ojos verdes se clavaban en los de él.
+
+—Mira —dijo, liberándolo por un segundo—. Mírame mientras te como.
+
+Diego no pudo apartar los ojos. Observó, hipnotizado, mientras esta mujer —esta diosa, esta depredadora— lo devoraba con una habilidad que ninguna de sus novias anteriores había poseído. La lengua de Roxy trazaba círculos, presionaba puntos que él no sabía que tenía, lo llevaba al borde y después lo dejaba caer.
+
+Cuando lo sintió a punto de explotar, Roxy se detuvo. Se puso de rodillas frente a él, dándole la espalda, y miró sobre su hombro con ojos de cazadora.
+
+—Ahora tú —ordenó—. Tómame como el animal que quieres ser.
+
+Diego no necesitó que se lo dijeran dos veces. La tomó de las caderas y la penetró desde atrás con una fuerza que la hizo gritar de placer. El sonido de sus cuerpos chocando llenaba la habitación —carne contra carne, gemidos contra gruñidos, el cabecero golpeando rítmicamente contra la pared.
+
+El segundo orgasmo vino con él dentro de ella así, de rodillas como una perra en celo, con sus dedos encontrando su clítoris mientras él la llenaba una y otra vez. Fue más largo que el primero, ondulando a través de su cuerpo en espasmos que la dejaron temblando.
+
+Pero Roxy quería más.
+
+—Contra la pared —jadeó—. Levántame.
+
+Diego, sudando, jadeando, la levantó como si no pesara nada. La presionó contra la pared fría del hotel y la penetró de nuevo, sus manos bajo sus muslos, su boca devorando sus pechos. Roxy se aferró a sus hombros, envolviendo sus piernas alrededor de su cintura, sintiendo cada embestida en lo más profundo de su ser.
+
+El tercer orgasmo fue el más intenso. Vino cuando Diego finalmente se rindió —cuando sintió su calor llenándola por dentro mientras él gemía su nombre como una oración. Roxy se dejó llevar, su cuerpo convulsionando contra la pared, sus gritos ahogados contra el cuello de él, sus uñas dibujando surcos rojos en su espalda.
+
+Cayeron juntos sobre la cama, empapados de sudor, jadeando como animales después de la caza.
+
+*Esto es lo que eres ahora*, susurró la voz mientras su cuerpo aún temblaba con las réplicas del placer. *Una cazadora. Una devoradora de hombres.*
+
+Y Roxy sonrió contra las sábanas manchadas, sabiendo que esta era solo la primera de muchas presas.
 
 Después, mientras Diego dormía el sueño de los jóvenes satisfechos, Roxy se vistió en silencio. No dejó su número. No dejó su verdadero nombre. Solo se deslizó fuera de la habitación como el fantasma de quien solía ser.
 

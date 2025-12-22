@@ -70,7 +70,13 @@ Se alejó de él, caminando hacia el centro de la habitación con pasos medidos.
 
 Se detuvo frente al espejo de cuerpo completo, dándole la espalda, y comenzó a desvestirse con una lentitud hipnótica. Primero, bajó un tirante del vestido de leopardo, dejando que la tela resbalara sobre su hombro desnudo. Después el otro. El vestido cayó al suelo como una serpiente mudando su piel.
 
-Debajo, la lencería era nueva: negra, encaje, todo lo que Rosa María nunca habría comprado. Se giró lentamente hacia Eduardo, dejando que sus ojos recorrieran su propio cuerpo en el reflejo.
+Debajo, la lencería era nueva: un conjunto de encaje negro que apenas contenía sus curvas. El sujetador de media copa empujaba sus pechos hacia arriba, creando un escote que invitaba a perderse. Las bragas eran apenas un triángulo de tela oscura sobre sus caderas, con lazos a los lados que prometían deshacerse con un solo tirón. El liguero —porque ahora usaba liguero, como las mujeres de los sueños prohibidos— sostenía medias negras de red que ascendían por sus muslos.
+
+Su cuerpo había cambiado. Eduardo podía verlo incluso a la luz de las velas. La cintura parecía más estrecha, las caderas más pronunciadas, los pechos más llenos de lo que recordaba. El vino —o lo que fuera que contenía— estaba esculpiendo a su esposa en algo nuevo. Algo peligroso. Algo hermoso.
+
+Su piel brillaba como marfil bañado en miel. El cabello rojo caía sobre sus hombros desnudos como llamas congeladas. Y sus labios —esos labios que ahora parecían más gruesos, más carnosos— dibujaban una sonrisa que prometía pecados.
+
+Se giró lentamente hacia Eduardo, dejando que sus ojos recorrieran su propio cuerpo en el reflejo.
 
 —¿Te gusta... lo que ves? —susurró, y cada palabra era una caricia de terciopelo negro.
 

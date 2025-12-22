@@ -134,7 +134,48 @@ Crear versión formateada para publicación en Tumblr:
 
 ---
 
-### FASE 7: Generación HTML
+### FASE 7: Ilustraciones de Escenas
+**Ubicación:** `05_Imagenes/historias/[nombre_del_relato]/`
+
+Antes de generar el HTML, seleccionar y crear ilustraciones de las escenas más impactantes del relato.
+
+**PROCESO:**
+
+1. **Seleccionar 3-5 Escenas Clave:**
+   - Momentos de máxima tensión o transformación
+   - Escenas visualmente evocadoras
+   - Puntos de inflexión narrativos
+
+2. **Generar Imágenes:**
+   - Crear prompts detallados para cada escena
+   - Seguir el canon visual establecido en `01_Canon/visual_canon.md`
+   - Guardar en `05_Imagenes/historias/[nombre_del_relato]/escena_XX.png`
+
+3. **Subir a Ko-fi:**
+   - Crear post en Ko-fi Gallery con las imágenes
+   - Obtener URL directa de cada imagen
+   - Documentar enlaces en `imagenes_escenas.md`
+
+4. **Preparar para HTML:**
+   - Las URLs se insertarán como enlaces clickeables en el texto
+   - Formato: `<a href="[URL_KOFI]" target="_blank">[texto de la escena]</a>`
+
+**ARCHIVO DE REGISTRO:**
+```markdown
+# Ilustraciones de Escenas - [Nombre del Relato]
+
+## Escena 1: [Título descriptivo]
+- **Capítulo:** X
+- **Descripción:** [Qué muestra la imagen]
+- **Archivo local:** escena_01.png
+- **URL Ko-fi:** [link]
+
+## Escena 2: ...
+```
+
+---
+
+### FASE 8: Generación HTML
 **Ubicación:** `04_Historias/finalizadas/html/[nombre_del_relato].html`
 
 Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
@@ -185,7 +226,7 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 
 ---
 
-### FASE 8: Guión de Cómic para IA
+### FASE 9: Guión de Cómic para IA
 **Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/`
 
 Crear una versión de cómic adaptada para generación de imágenes por IA.
