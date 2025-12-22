@@ -76,7 +76,7 @@ La cena transcurrió en una tensión extraña. Lucía alternaba entre acusar a s
 
 Lucía no respondió. Pero algo en sus ojos —algo nuevo, algo hambriento— parpadeó por un momento antes de desaparecer.
 
-Esa noche, Lucía durmió en su antigua habitación mientras afuera, la luna llena bañaba el vecindario de luz plateada. Y mientras dormía, soñó.
+Esa noche, Lucía durmió en el cuarto de huéspedes —era su primera visita desde que sus padres se habían mudado— mientras afuera, la luna llena bañaba el vecindario de luz plateada. Y mientras dormía, soñó.
 
 Soñó con espejos y reflejos. Con versiones de sí misma que nunca había considerado. Con labios más gruesos y pensamientos más simples. Con aplausos y billetes y la simplicidad de ser admirada solo por su cuerpo.
 
@@ -84,13 +84,57 @@ Despertó húmeda y confundida.
 
 En el pasillo, camino al baño, vio luz bajo la puerta del dormitorio de sus padres. Se detuvo, escuchando.
 
-La voz de su madre, grave y ronroneante: "¿Te gusta ver las fotos, cariño? ¿Ver lo que me hicieron anoche?"
+La voz de su madre, grave y ronroneante: "Mira las fotos, cariño. Mira lo que me hicieron anoche."
 
-La voz de su padre, apenas un susurro: "Sí... por favor..."
+La voz de su padre, apenas un susurro quebrado: "Por favor... Roxy... déjame..."
 
-Sonidos húmedos. Gemidos ahogados.
+"¿Dejarte qué? ¿Tocarte mientras ves cómo otro hombre me llena? ¿Ver cómo me cojo a alguien que sí sabe hacerme acabar?"
 
-Lucía regresó a su habitación con el corazón acelerado y una sensación extraña entre las piernas.
+Lucía debería haberse ido. Debería haber regresado a su habitación, cubrirse la cabeza con la almohada, fingir que no había escuchado nada. Pero sus pies no se movían. Su mano se deslizó hacia la puerta entreabierta, empujándola un centímetro más.
+
+A través de la rendija, vio todo.
+
+Su madre, de pie junto a la cama, completamente desnuda. El cuerpo transformado que había visto de día era aún más obsceno a la luz de la lámpara: los pechos imposiblemente redondos, las caderas exageradas, los labios hinchados como frutas maduras. En una mano sostenía su teléfono, mostrando la pantalla a su padre.
+
+Y su padre —el mismo hombre que le había enseñado a andar en bicicleta, que la había llevado a su primer día de universidad, que siempre había sido el pilar de la familia— estaba acostado en la cama, completamente desnudo, con las manos atadas al cabecero con lo que parecían medias de seda.
+
+"Pasa a la siguiente foto", ordenó Roxy.
+
+"No puedo... mis manos..."
+
+"Entonces pídelo correctamente."
+
+"Por favor, Roxy... por favor muéstrame la siguiente foto."
+
+Roxy deslizó el dedo sobre la pantalla. Eduardo gimió.
+
+"¿Ves esto?" La voz de Roxy era miel envenenada. "Este es Diego. Veintiséis años. Mira cómo me mira mientras me la meto. ¿Ves su expresión? Eso es lo que se siente cuando un hombre de verdad está dentro de ti."
+
+"Por favor... déjame tocarme..."
+
+"¿Tocarte?" Roxy rio, y el sonido era cruel. "Ese juguete patético entre tus piernas no merece atención. Pero como has sido un buen sirviente hoy..." Se inclinó hacia él, envolviendo sus dedos alrededor de su erección — pequeña, temblorosa, desesperada. "...te daré treinta segundos."
+
+Comenzó a acariciarlo con movimientos lentos, deliberados, torturadores.
+
+"Mira las fotos mientras te toco. Imagina que eres tú el que está ahí. Pero sabes que nunca podrías darme lo que él me da."
+
+Eduardo temblaba, sus caderas empujando contra la mano de ella, los gemidos escapando de su garganta como sollozos.
+
+"Quince segundos."
+
+"Por favor... más rápido..."
+
+"Eso no te lo has ganado."
+
+Lucía, paralizada en el pasillo, sentía sus propios muslos apretarse. Su respiración se había vuelto superficial. Y lo peor de todo — lo absolutamente imperdonable — era la humedad que sentía entre sus piernas.
+
+"Diez segundos. Córrete ahora o espera hasta mañana."
+
+Eduardo gritó — un sonido patético, desesperado — mientras su cuerpo convulsionaba. Roxy siguió acariciándolo durante todo el orgasmo, exprimiendo cada gota de su humillación.
+
+"Buen chico", murmuró ella cuando terminó, limpiando su mano en las sábanas. "Ahora límpiame los pies. Mañana tenemos mucho que hacer."
+
+Lucía retrocedió en silencio, el corazón martilleando en su pecho. Regresó a su habitación con las piernas temblorosas y una sensación extraña entre las piernas que no podía — no quería — nombrar.
 
 *No debería excitarte*, susurró una voz que no reconocía. *Pero lo hace, ¿verdad?*
 

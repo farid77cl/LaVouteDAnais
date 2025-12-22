@@ -30,6 +30,28 @@ En el probador, madre e hija se observaron mutuamente en el espejo. Dos depredad
 
 *Tipo sexy*, confirmó la voz. *Eso es todo lo que necesitas ser.*
 
+Pero las compras fueron solo el comienzo. Después de cargar el auto con bolsas de boutiques que Lucía jamás habría pisado sola, Roxy la llevó al siguiente templo de transformación.
+
+—Ahora viene lo importante —anunció mientras estacionaba frente a un salón de belleza con letras doradas en la ventana—. Las garras y los ojos.
+
+El salón olía a acetona y posibilidad. Roxy pidió por ambas: uñas acrílicas largas, forma almendra, con un degradado de nude a rojo sangre. Pestañas de visón, curva dramática, el tipo que hacía que cada parpadeo fuera una declaración de intenciones.
+
+—¿No es como... demasiado? —preguntó Lucía mientras la técnica preparaba sus manos.
+
+—Cariño —Roxy levantó sus propias garras rojas, perfectamente afiladas—, "demasiado" es solo otra palabra para "suficiente por fin".
+
+Dos horas después, Lucía se miraba las manos como si pertenecieran a otra persona. Las uñas largas brillaban bajo las luces del salón, cada una una pequeña arma de seducción. Y sus ojos... los ojos que la observaban desde el espejo ya no eran los de una estudiante de Derecho. Eran los de algo más peligroso.
+
+—Ahora pareces mi hija de verdad —ronroneó Roxy, pasando un dedo por las pestañas nuevas de Lucía—. Bienvenida al club.
+
+Lucía rio, y el sonido fue diferente. Más agudo. Más vacío. Más perfecto.
+
+*Esto es un bautismo*, susurró la voz. *Tu vida anterior acaba de morir.*
+
+De regreso a casa, Lucía no podía dejar de mirarse en el espejo retrovisor. Sus nuevas pestañas. Sus nuevas uñas. El brillo de gloss en sus labios recién rellenados con ácido hialurónico (una parada no planeada, pero Roxy insistió). Ya no reconocía a la mujer que la miraba.
+
+Y eso estaba bien.
+
 Los exámenes de la universidad llegaron y pasaron sin que Lucía los presentara. Los mensajes de sus profesores se acumularon sin respuesta. Los amigos dejaron de llamar cuando sus conversaciones se redujeron a monosílabos y risitas vacías.
 
 —Creo que voy a dejar la carrera —anunció una noche, tan casualmente como si comentara el clima.

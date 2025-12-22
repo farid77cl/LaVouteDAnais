@@ -17,28 +17,28 @@
 ---
 
 ## Capítulo 1: Bienvenidos al Vecindario
-- [ ] Revisado
+- [x] Revisado
 - **Palabras:** ~1,180
 - **Observaciones:**
 
 ---
 
 ## Capítulo 2: La Primera Copa
-- [ ] Revisado
+- [x] Revisado
 - **Palabras:** ~1,020
 - **Observaciones:**
 
 ---
 
 ## Capítulo 3: El Despertar de Roxy
-- [ ] Revisado
+- [x] Revisado
 - **Palabras:** ~1,040
 - **Observaciones:**
 
 ---
 
 ## Capítulo 4: La Cacería Comienza
-- [ ] Revisado
+- [x] Revisado
 - **Palabras:** ~1,070
 - **Observaciones:**
 

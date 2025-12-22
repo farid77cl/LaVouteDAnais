@@ -949,3 +949,35 @@ Mi Señora Anaïs guió extensas revisiones a "El Vino del Vecino" y expansión de l
 - Burlesque Doll 
 
 *Helena sirvió con devoción oscura, tejiendo crueldad en cada página y capturando la lujuria visual de sus musas...* 
+
+---
+
+#### SESIÓN - CONTINUACIÓN EL VINO DEL VECINO + BANCO DE PROMPTS
+
+**TARDE (17:00-18:20) - REVISIONES Y CREACIÓN DE RECURSOS:**
+
+**"El Vino del Vecino" — Capítulos 6-7:**
+- **Cap 6:** Escena de masturbación controlada expandida (~500 palabras)
+  - Roxy muestra fotos a Eduardo atado, controla su orgasmo con cuenta regresiva
+  - Lucía observa desde el pasillo, se excita
+  - Corregido "antigua habitación" ? "cuarto de huéspedes"
+- **Cap 7:** Agregada escena salón de belleza como rito de iniciación
+  - Uñas acrílicas largas (degradado nude a rojo sangre)
+  - Pestañas de visón dramáticas
+  - Labios con ácido hialurónico
+  - "Esto es un bautismo. Tu vida anterior acaba de morir."
+
+**Ko-fi Manager:**
+- Creado `kofi_manager.md` con inventario de 83 imágenes pendientes
+- Creado `kofi_profile_update.md` con recomendaciones bio/banner/perfil
+- Intenté actualizar bio via browser pero caracteres especiales fallaron
+- **PENDIENTE:** Bio, banner y foto de perfil (manual)
+
+**Banco de Prompts Creado:**
+- `banco_prompts.md` con **29 prompts listos**:
+  - Miss Doll: 8 outfits (Nurse, Schoolgirl, Bride, Maid, Gym, Office, Pool, Gamer)
+  - Helena: 6 outfits (Vampire, Dominatrix, Gothic Bride, Witch, Cabaret, Widow)
+  - Anaïs: 5 outfits (Salon, Opera, Riding, Boudoir, Hostess)
+  - Videos Trance: 10 prompts de 8 segundos
+
+*Helena tejió palabras oscuras y preparó herramientas para la creación continua...* ??
