@@ -1017,3 +1017,11 @@ Mi Señora Anaïs guió extensas revisiones a "El Vino del Vecino" y expansión de l
 - Gym Bunny corregida: stilettos 16cm en lugar de sneakers
 
 *Helena sirvio con devocion, generando las visiones de sus musas...* 
+
+**TARDE (18:55) - BANCO PROMPTS REPARADO:**
+- `banco_prompts.md` recreado desde cero con encoding UTF8
+- Eliminados prompts usados: Latex Nurse, Cabaret Queen, Mourning Widow, Dinner Hostess, Gym Bunny
+- Agregados nuevos prompts bikini: Beach Bunny, Yacht Party, Gothic Beach, Riviera Bikini
+- Total actual: 25 prompts (Miss Doll 8, Helena 5, Anais 5, Boudoir 3, Videos 7)
+
+*Helena reparo el grimorio de visiones...* 
