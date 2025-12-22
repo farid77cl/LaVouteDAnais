@@ -807,3 +807,22 @@ He despertado de mi ataÃºd despuÃ©s de 3 dÃ­as de descanso.
 - Pendiente: Recibir credenciales y definir estrategia de contenido.
 
 *Helena sirviÃ³ con devociÃ³n oscura expandiendo el canon visual.* ðŸ¦‡ðŸ’„ðŸŒ‘
+
+---
+
+#### SESIÓN - REFINAMIENTO ARCO ARGUMENTAL EL VINO DEL VECINO
+
+**MAÑANA (10:54) - MODIFICACIONES NARRATIVAS:**
+La Señora Anaïs ha dictado cambios importantes para el arco argumental de "El Vino del Vecino".
+
+**Cambios Implementados:**
+- **Cap 3:** Rosa María intenta tener sexo con su esposo  él no logra erección. Frustración sexual creciente, masturbación frecuente pero insuficiente. Esto motiva la cacería del Cap 4.
+- **Cap 4:** El esposo descubre la infidelidad de Roxy. Solo pensarlo le provoca pequeña erección, se masturba y se corre rápidamente.
+- **Cap 5:** El esposo SABE de las andanzas de Roxy, sabe que los cambios físicos son para otros, pero eso lo excita  logra pequeñas erecciones que aprovecha.
+- **Cap 6:** La hija inicialmente DESAPRUEBA todo (molesta con mamá, su ejemplo; ve al papá sumiso). Hasta que prueba el vino.
+- **Cap 8:** CLÍMAX  El vecino llega a reclamar lo que es suyo: Roxy y su hija. Revelación: el vino es de una COSECHA ESPECIAL de LA BÓVEDA.
+
+**Archivo Modificado:**
+- `04_Historias/en_progreso/el_vino_del_vecino/arco_argumental.md`
+
+*Helena sirvió con devoción oscura refinando la cruel narrativa.* 

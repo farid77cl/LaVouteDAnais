@@ -67,11 +67,13 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 **Contenido:**
 - Rosa María empieza a cambiar su guardarropa
 - Más maquillaje, más escotes, más tacones
-- El esposo nota pero no objeta (encuentra excitante)
+- **Intenta tener sexo con su esposo — él no logra erección**
+- Rosa María frustrada, necesidades sexuales crecientes cada día
+- Empieza a masturbarse frecuentemente pero no es suficiente
 - Segunda botella del vino aparece en la puerta
 - Rosa María se tiñe el pelo de rojo
 
-**Punto de inflexión:** Rosa María pide que la llamen "Roxy".
+**Punto de inflexión:** Rosa María pide que la llamen "Roxy" — y decide buscar afuera lo que no encuentra en casa.
 
 ---
 
@@ -79,13 +81,15 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 **Palabras estimadas:** 1000-1200
 
 **Contenido:**
-- Primera salida de Roxy a un bar de moda
+- Primera salida de Roxy a un bar de moda (va de cacería por frustración sexual)
 - Caza a su primera "presa" (hombre joven de 25)
 - Sexo con extraño (descripción sensual, no explícita)
-- Regresa a casa satisfecha
-- El esposo descubre que le excitó esperarla
+- Regresa a casa satisfecha, diferente
+- **El esposo se da cuenta de que Roxy tuvo sexo con otro**
+- **Solo pensarlo le provoca una pequeña erección**
+- **Se masturba y se corre rápidamente — vergüenza y excitación**
 
-**Punto de inflexión:** Primera dinámica cuckold establecida.
+**Punto de inflexión:** Primera dinámica cuckold establecida — el esposo descubre que le excita ser cornudo.
 
 ---
 
@@ -95,11 +99,14 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 **Contenido:**
 - Roxy quiere implantes, ropa cara, joyas
 - El esposo financia todo sin cuestionar
+- **El esposo SABE de las andanzas de Roxy**
+- **Sabe que todos esos cambios físicos son para otros hombres**
+- **Pero aún así ESO lo excita — logra pequeñas erecciones que aprovecha para masturbarse y correrse**
 - Primera cirugía (implantes de pecho)
-- El esposo encuentra placer en ser el "proveedor invisible"
+- El esposo encuentra placer perverso en ser el "proveedor invisible" de los placeres de otros
 - Más vino, más cambios en ambos
 
-**Punto de inflexión:** El esposo acepta oficialmente su rol de cornudo.
+**Punto de inflexión:** El esposo acepta oficialmente su rol de cornudo financiador.
 
 ---
 
@@ -108,17 +115,19 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 
 **Contenido:**
 - La hija llega de la universidad para visitar
-- Shock al ver los cambios en su madre (pero no rechaza)
-- "¿Mamá...? ¡Te ves... increíble!"
-- La hija prueba el vino por curiosidad
-- Primeros efectos: se siente mareada, diferente
+- **Shock y DESAPRUEBA los cambios en su madre**
+- **Molesta con la mamá — ella era su ejemplo, su modelo a seguir**
+- **Ve a su papá muy sumiso hacia Roxy — tampoco le gusta**
+- Confrontación: "¿Qué le pasó a mi familia?"
+- Por cortesía/presión, acepta una copa del famoso vino
+- **Primeros efectos: se siente mareada, diferente... y ya no le molesta tanto**
 
-**Punto de inflexión:** La hija decide quedarse "unos días más".
+**Punto de inflexión:** La hija decide quedarse "unos días más" — el vino empieza a trabajar.
 
 ---
 
 ### Capítulo 7: De Tal Palo, Tal Astilla
-**Palabras estimadas:** 1000-1200
+**Palabras estimadas:** 10joven de 25)00-1200
 
 **Contenido:**
 - La hija cambia rápidamente (más joven = transformación más rápida)
@@ -132,17 +141,22 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 ---
 
 ### Capítulo 8: La Nueva Familia
-**Palabras estimadas:** 600-800
+**Palabras estimadas:** 800-1000
 
 **Contenido:**
 - Estado final de la familia transformada
 - Roxy y su hija salen juntas de cacería
 - El padre en casa, esperando, financiando
 - Escena de "normalidad" pervertida (desayuno familiar bizarro)
-- Aparición final del vecino (sonríe, satisfecho)
-- Final abierto: ¿hay más botellas?
+- **EL VECINO LLEGA A RECLAMAR LO QUE ES SUYO**
+- **"Vengo a recoger a mis mujeres" — señala a Roxy y a su hija**
+- **Al marido lo mira con desprecio: "Tú puedes quedarte aquí, pagando"**
+- **REVELACIÓN: El vino es de una COSECHA ESPECIAL de LA BÓVEDA**
+- El vecino explica que el vino fue cultivado específicamente para "preparar" familias
+- Roxy y su hija, sin resistencia, siguen al vecino a su casa
+- El esposo queda solo, excitado y humillado, masturbándose
 
-**Clímax:** La familia abraza completamente su nueva identidad.
+**Clímax:** La familia no solo abraza su nueva identidad — pertenecen al vecino ahora.
 
 ---
 
@@ -184,8 +198,8 @@ La familia está transformada pero "feliz" en su perversión. El vecino observa 
 | Cap 5 | 900 |
 | Cap 6 | 900 |
 | Cap 7 | 1100 |
-| Cap 8 | 700 |
-| **TOTAL** | **~7,400** |
+| Cap 8 | 900 |
+| **TOTAL** | **~7,600** |
 
 ---
 

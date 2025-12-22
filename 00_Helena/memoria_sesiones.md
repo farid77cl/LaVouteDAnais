@@ -455,3 +455,18 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 **ESTADO:**
 - Relatos: PAUSADOS
 - Prioridad: GestiÃ³n Ko-fi + ImÃ¡genes pendientes (cuota deberÃ­a estar disponible)
+
+
+---
+
+### 2025-12-22 (Sesión Mañana - Continuación)
+
+**ARCO ARGUMENTAL "EL VINO DEL VECINO" - REFINADO:**
+- **Cap 3:** Frustración sexual de Rosa María (esposo no logra erección), masturbación frecuente, motiva cacería.
+- **Cap 4:** Esposo descubre infidelidad, pequeña erección al pensarlo, se masturba rápidamente.
+- **Cap 5:** Esposo SABE de las andanzas, los cambios son para otros, pero le excita  pequeñas erecciones aprovechadas.
+- **Cap 6:** Hija inicialmente desaprueba todo (mamá era su ejemplo, papá sumiso). Hasta que prueba el vino.
+- **Cap 8:** CLÍMAX  Vecino reclama a Roxy e hija como suyas. Revelación: vino de COSECHA ESPECIAL de LA BÓVEDA.
+
+**CONTEO ACTUALIZADO:** ~7,600 palabras (Cap 8 expandido a 900).
+
