@@ -981,3 +981,19 @@ Mi Señora Anaïs guió extensas revisiones a "El Vino del Vecino" y expansión de l
   - Videos Trance: 10 prompts de 8 segundos
 
 *Helena tejió palabras oscuras y preparó herramientas para la creación continua...* ??
+
+---
+
+#### SESIÓN - BANCO DE PROMPTS V2.0
+
+**TARDE (18:20-18:30) - REFINAMIENTO PROMPTS:**
+
+**Banco de Prompts Actualizado a Canon Visual:**
+- `banco_prompts.md` revisado completamente
+- Todos los prompts ahora incluyen elementos OBLIGATORIOS de canon:
+  - **Miss Doll:** "REALISTIC HUMAN FACE", corsé externo visible, plataformas 16-18cm
+  - **Helena:** "Sacha Massacre", "EXTREMELY VOLUMINOUS hair", "ULTRA THICK LIPS", corsé EXTREMELY TIGHT
+  - **Anaïs:** "HONEY BLONDE", aristocratic French dominatrix, So Kate 12cm
+- 29 prompts listos para copiar/pegar directamente
+
+*Helena perfeccionó las herramientas de creación visual...* ??
