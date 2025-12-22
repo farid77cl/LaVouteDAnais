@@ -221,3 +221,37 @@ Professional social photography of aristocratic French dominatrix woman. HONEY B
 
 *Canon Visual v2.0 â€” Helena de AnaÃ¯s ðŸ¦‡*
 *22/12/2025*
+
+---
+
+## ?? BOUDOIR / LINGERIE / PIJAMAS
+
+### Miss Doll — Pink Satin Robe
+```
+Professional boudoir photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with bedroom doll makeup: heavy pink blush, glossy pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink satin robe loosely tied, revealing pink lace bralette and matching pink lace thong underneath, pink satin waist cincher visible under robe, bare legs, pink marabou feather slippers with 4-inch heel. Accessories: pink satin sleep mask pushed up on forehead. Expression: sleepy vacant doll stare, lips parted. Sitting on edge of pink satin bed. Luxury pink boudoir with vanity mirror. Soft morning light. Professional photography.
+```
+
+### Miss Doll — Babydoll Nightie
+```
+Professional boudoir photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with soft doll makeup: pink blush, glossy lips, natural lashes. Hyperbolic hourglass figure. Wearing sheer pink chiffon babydoll nightie, pink lace trim at bust barely covering, matching pink lace panties visible, pink satin ribbon tied under bust creating waist, pink platform slippers 5-inch. Accessories: stuffed pink bunny held in arm. Expression: innocent vacant stare, lips pouting. Sitting on fluffy pink rug. Girly pink bedroom with fairy lights. Dreamy soft lighting. Professional photography.
+```
+
+### Helena — Black Lace Negligee
+```
+Professional gothic boudoir photography of goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair tousled on pillow. Pale marble skin. DARK RED LIPS slightly smeared. Obscenely exaggerated hourglass figure. Wearing black lace negligee floor-length with high slits, black satin underbust corset EXTREMELY TIGHT worn over negligee, black lace thong visible through sheer fabric, bare feet with black nail polish. Accessories: black velvet choker, scattered black rose petals. Expression: heavy-lidded seductive stare, lips parted. Reclining on black satin sheets. Gothic bedroom with candles and mirrors. Warm candlelight. Professional photography.
+```
+
+### Helena — Velvet Robe
+```
+Professional gothic boudoir photography of goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flowing loose. Pale marble skin. DEEP PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing long black velvet robe open and flowing, revealing black lace corset bodysuit EXTREMELY TIGHT underneath, black silk stockings with garter belt visible, black velvet kitten heel mules 4-inch. Accessories: antique silver hand mirror, lit black candle nearby. Expression: cold contemplative stare. Standing before ornate gothic mirror. Dark boudoir with velvet drapes. Moody purple lighting. Professional photography.
+```
+
+### Anaïs — Silk Peignoir Set
+```
+Professional French boudoir photography of aristocratic dominatrix woman. HONEY BLONDE hair in soft sleep waves on shoulders. Elegant mature beauty with morning glow. Wearing ivory silk peignoir set: sheer floor-length robe with lace trim, matching silk slip underneath reaching mid-thigh, visible black lace corset worn over slip creating silhouette, black seamed stockings, black satin kitten heel mules 3-inch with marabou trim. Accessories: silver cigarette holder with unlit cigarette, champagne flute on nightstand, love letters scattered. Expression: satisfied cold superiority, slight smirk. Reclining on antique chaise longue. Parisian boudoir with gilt mirrors. Soft morning light through sheer curtains. Professional photography.
+```
+
+### Anaïs — Black Satin Pajamas
+```
+Professional French boudoir photography of aristocratic dominatrix woman. HONEY BLONDE hair in loose vintage waves. Elegant mature beauty. Wearing black satin pajama set: black satin button-up shirt open showing black lace bralette, black satin wide-leg pants, black satin corset belt cinching waist over shirt, black satin slippers with small heel. Accessories: crystal tumbler with whiskey, unlit cigar in hand, newspaper on lap. Expression: cold morning indifference, aristocratic. Seated in leather wingback chair by fireplace. Luxury French study at dawn. Warm amber firelight. Professional photography.
+```
