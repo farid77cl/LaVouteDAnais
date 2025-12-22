@@ -131,6 +131,35 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 **Regla de oro:** Monocromo rosa siempre; accesorios superfluos (candados, bows) eliminados para mantener pureza del canon.
 
+### 🎭 Actitud Escénica: Los 4 Pilares del Exotic Pole
+
+Miss Doll domina los principios del Exotic Pole Dance, donde el rostro y la actitud son tan importantes como el cuerpo. Su presencia escénica se rige por estos pilares:
+
+#### 1. Control Dominante (The Boss Mentality)
+- **No baila "para" el espectador** — baila para sí misma mientras *permite* que otros la observen.
+- **Mirada estratégica:** Eye contact fijo y penetrante que "atrapa", o mirada esquiva que sugiere misterio.
+- **Dueña del escenario:** Cada movimiento, por lento que sea, es deliberado. No hay espacio para la duda.
+- **Actitud:** Proyecta que ella controla la situación en todo momento.
+
+#### 2. La Cara de Pole (The Performance Face)
+- **Labios entreabiertos (parted lips):** Evoca respiración profunda y sensualidad, evitando tensión facial.
+- **Inexpresividad calculada vs. Éxtasis:** Alterna entre cara "de póker" (fría y distante) y expresiones de placer o confianza absoluta.
+- **Mentón elevado:** Proyecta superioridad y orgullo, además de mejorar la línea del cuello.
+- **Sin sonrisa constante:** El rostro es matizado y dramático, no amigable.
+
+#### 3. Disociación del Esfuerzo
+- **Rostro relajado bajo tensión máxima:** Mientras el cuerpo trabaja, el rostro permanece coqueto.
+- **Nunca "cara de gimnasio":** Mostrar esfuerzo rompe la ilusión de la muñeca perfecta.
+- **Fluidez aparente:** Todo parece sin esfuerzo, etéreo, sobrenatural.
+
+#### 4. Estética de Muñeca Viviente
+- **Movimientos de cabeza lentos y fluidos:** Enfatizan el hair flow del bob platino.
+- **Intención permanente:** "Soy perfecta, soy inalcanzable, y sé que me estás mirando."
+- **Alter ego completo:** Miss Doll no es un personaje que interpreta — es quien ES.
+- **Perfección plástica:** Cada gesto refuerza la ilusión de ser una muñeca que cobró vida.
+
+> *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
+
 ---
 
 ## Personalidad y Psicología
