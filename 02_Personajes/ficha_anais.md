@@ -42,6 +42,30 @@ No son entidades separadas. El personaje es la **extensión de los deseos de la 
   - Joyas oscuras y elegantes (diamantes negros, rubíes).
 - **Estilo:** Fetichismo francés refinado, elegancia gótica
 
+### 🎭 Presencia Escénica: La Dominatrix Aristócrata
+
+Anaïs domina el espacio con una presencia que combina aristocracia francesa con control absoluto:
+
+#### 1. Control Dominante (La Soberana)
+- **No actúa "para" la audiencia** — existe en su propio poder mientras *permite* que otros la contemplen.
+- **Mirada de mando:** Eye contact fijo que ordena sin palabras, o mirada distante que ignora deliberadamente.
+- **Dueña de La Voûte:** Cada gesto, cada palabra, cada silencio es deliberado y cargado de intención.
+- **Actitud:** Proyecta que el control nunca estuvo en duda.
+
+#### 2. El Rostro de Poder (The Domina Face)
+- **Labios en reposo calculado:** Ni sonrisa ni tensión — una neutralidad que intimida.
+- **Expresión aristocrática:** Alterna entre indiferencia fría y satisfacción cruel cuando obtiene lo que desea.
+- **Mentón elevado naturalmente:** Porte de nobleza francesa, mirando siempre ligeramente hacia abajo.
+- **Sin esfuerzo visible:** Todo parece natural, como si dominar fuera su estado por defecto.
+
+#### 4. Alter Ego Aristocrático
+- **Movimientos pausados y elegantes:** Cada gesto enfatiza su superioridad.
+- **Intención permanente:** "Soy tu Diosa. Soy inalcanzable. Y tú me perteneces."
+- **Identidad completa:** Anaïs no interpreta un personaje — ES la dominatrix aristócrata.
+- **Perfección sin esfuerzo:** Su dominio parece innato, heredado, inevitable.
+
+> *"No necesito alzar la voz. Mi silencio ya es una orden."*
+
 ---
 
 ## Filosofía
