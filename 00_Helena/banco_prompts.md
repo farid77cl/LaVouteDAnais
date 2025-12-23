@@ -16,29 +16,30 @@ CANON OBLIGATORIO:
 
 ---
 
-### Miss Doll - Schoolgirl Slut
-Professional fashion photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with exaggerated doll makeup: heavy pink blush, glossy bubblegum lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink schoolgirl outfit: tiny pink plaid micro-skirt barely covering, white sheer blouse with pink lace bralette visible, pink satin underbust corset creating impossible waist, white knee-high socks, pink patent platform Mary Janes 16cm heels. Accessories: heart-shaped pink lollipop between glossy lips, pink heart backpack. Expression: vacant ditzy stare, lips parted around lollipop. Sitting on school desk with legs crossed. Pink classroom setting. Professional photography.
+### Miss Doll - Pink Cheerleader
+Professional sports photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with peppy doll makeup: heavy pink blush, glossy pink lips, glitter on cheekbones. Hyperbolic hourglass figure. Wearing pink cheerleader outfit: tiny pink pleated skirt with white trim, pink crop top with DOLL letters, pink satin underbust corset visible underneath, white knee socks, PINK PLATFORM STILETTOS 16cm heels. Accessories: pink pom-poms in hands, pink hair bow. Expression: excited vacant smile, mouth open mid-cheer. Jumping pose with pom-poms raised. Pink stadium background. Professional photography.
 
-### Miss Doll - Bride of Doll
-Professional bridal photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with bridal doll makeup: heavy pink blush, ultra glossy pink lips, crystal-encrusted lashes. Hyperbolic hourglass figure. Wearing pink latex wedding gown: floor-length pink latex mermaid dress with thigh-high slit, pink satin overbust corset bodice with white lace trim, pink latex opera gloves. Accessories: pink tulle veil, bouquet of pink roses, pink crystal choker. Expression: blank doll stare, lips slightly parted. Standing before altar covered in pink roses. Dreamy pink lighting. Professional editorial.
+### Miss Doll - Candy Shop
+Professional fantasy photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with candy doll makeup: heavy pink blush, glossy bubblegum pink lips, candy sprinkles on cheeks. Hyperbolic hourglass figure. Wearing candy-themed outfit: pink and white striped latex mini dress, pink satin corset with candy heart buttons, white fishnet stockings, pink platform heels 16cm shaped like candy. Accessories: giant lollipop prop, candy necklace. Expression: licking lollipop with vacant stare. Surrounded by oversized candy props. Whimsical candy shop setting. Professional photography.
 
-### Miss Doll - Maid Service
-Professional fashion photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with exaggerated doll makeup: heavy blush circles, glossy pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink french maid uniform: tiny pink satin dress with white lace trim, pink underbust corset creating extreme waist, pink petticoat visible, white fishnet stockings with garter clips, pink platform stilettos 18cm heels. Accessories: pink feather duster, white lace headband, pink satin collar with bell. Expression: vacant stare, lips parted. Bending forward dusting furniture. Luxury pink boudoir. Professional photography.
+### Miss Doll - Retro Diner
+Professional vintage photography of adult bimbo woman with platinum blonde bob with pink streaks and straight bangs. REALISTIC HUMAN FACE with 50s doll makeup: winged pink eyeliner, glossy pink lips, beauty mark. Hyperbolic hourglass figure. Wearing retro diner outfit: tiny pink waitress dress with white apron, pink satin underbust corset creating extreme waist, white ankle socks, PINK PLATFORM STILETTOS 16cm heels. Accessories: pink notepad, pink milkshake on tray. Expression: vacant smile, head tilted. Standing in retro pink diner with checkered floor. Professional photography.
 
-### Miss Doll - Office Domme
-Professional corporate photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with power doll makeup: pink blush, matte pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink power suit: pink latex blazer open showing pink satin bralette, tiny pink latex pencil skirt, pink satin underbust corset visible, sheer pink stockings, pink patent Louboutin platform stilettos 16cm. Accessories: pink reading glasses on nose tip, pink folder in manicured hand. Expression: cold blank stare, chin elevated, imperious. Sitting behind glass desk, legs crossed. Pink corner office with city view. Professional photography.
+### Miss Doll - Bunny Club
+Professional nightclub photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with glamour doll makeup: smoky pink eyes, ultra glossy pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing bunny outfit: pink satin playboy-style bodysuit, pink satin waist cincher corset extremely tight, pink fishnet stockings, pink platform stilettos 18cm, fluffy pink bunny tail. Accessories: pink bunny ears headband, pink bow tie collar, white cuffs. Expression: vacant seductive pout. Posing with one hip out. Luxury pink nightclub with neon lights. Professional photography.
 
-### Miss Doll - Pool Party
-Professional poolside photography of bimbo woman with platinum blonde bob and straight bangs, wet hair slicked. REALISTIC HUMAN FACE with waterproof doll makeup: pink blush, ultra glossy lips, waterproof lashes. Hyperbolic hourglass figure glistening with oil. Wearing pink micro bikini: tiny triangles barely covering, string ties at hips, no corset but extreme hourglass visible, CLEAR ACRYLIC PLATFORM STILETTO SANDALS 16cm with thin heel even by pool. Accessories: oversized pink heart sunglasses, pink cocktail with umbrella, pink inflatable flamingo nearby. Expression: vacant stare, lips parted, tongue touching upper lip. Lounging on pink pool chair. Luxury pool with pink tiles. Professional photography.
 
 ### Miss Doll - Gamer Girl
-Professional gaming photography of bimbo woman with platinum blonde bob with pink streaks and straight bangs. REALISTIC HUMAN FACE with e-girl doll makeup: heavy pink blush, glossy lips, heart drawn under eye. Hyperbolic hourglass figure. Wearing pink gamer outfit: tiny pink crop top with DOLL text, pink latex hotpants, pink LED choker glowing, pink mesh thigh-highs, pink platform boots 16cm. Accessories: pink cat ear gaming headset, pink controller in manicured hands. Expression: tongue out playfully, vacant eyes. Sitting in pink RGB gaming chair, legs spread casually. Pink neon-lit gaming room. Professional photography.
+Professional gaming photography of adult bimbo woman with platinum blonde bob with pink streaks and straight bangs. REALISTIC HUMAN FACE with e-girl doll makeup: heavy pink blush, glossy lips, heart drawn under eye. Hyperbolic hourglass figure. Wearing pink gamer outfit: tiny pink crop top with DOLL text, pink latex hotpants, pink LED choker glowing, pink mesh thigh-highs, pink platform boots 16cm. Accessories: pink cat ear gaming headset, pink controller in manicured hands. Expression: tongue out playfully, vacant eyes. Sitting in pink RGB gaming chair. Pink neon-lit gaming room. Professional photography.
 
-### Miss Doll - Beach Bunny (BIKINI)
-Professional beach photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with beach doll makeup: pink blush, glossy lips, waterproof lashes. Hyperbolic hourglass figure glistening with tanning oil. Wearing hot pink micro string bikini barely covering, pink satin waist cincher visible under bikini top, PINK PLATFORM STILETTO SANDALS 16cm even on beach. Accessories: oversized pink heart sunglasses, pink beach bag, pink umbrella. Expression: vacant stare, lips parted. Posing on pink beach towel on white sand. Luxury beach resort. Professional photography.
+### Miss Doll - Latex Maid v2
+Professional fashion photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with servant doll makeup: heavy pink blush, glossy pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink latex maid outfit: pink latex mini dress with white latex apron, pink overbust corset creating extreme waist, white latex collar with pink bow, pink latex stockings, pink platform stilettos 18cm. Accessories: pink feather duster, pink latex headpiece, pink latex gloves. Expression: obedient vacant stare, lips parted. Kneeling while dusting. Luxury mansion with marble floors. Professional photography.
 
-### Miss Doll - Yacht Party (BIKINI)
-Professional yacht photography of bimbo woman with platinum blonde bob and straight bangs, wind-blown. REALISTIC HUMAN FACE with glamour doll makeup: pink blush, glossy lips, lashes. Hyperbolic hourglass figure oiled and glistening. Wearing metallic pink triangle bikini, pink mesh coverup open, pink satin waist cincher visible, CLEAR ACRYLIC PLATFORM STILETTO SANDALS 16cm with thin heel. Accessories: champagne flute in hand, designer pink sunglasses, gold body chain. Expression: vacant party stare, lips parted. Leaning on yacht railing. Luxury white yacht at sunset. Professional photography.
+### Miss Doll - Pink Executive
+Professional corporate photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with power doll makeup: pink blush, glossy pink lips, long lashes. Hyperbolic hourglass figure. Wearing pink executive outfit: pink satin blouse unbuttoned showing pink lace bra, pink latex pencil skirt extremely tight, pink satin waist cincher corset visible, sheer pink stockings with seams, pink patent Louboutin stilettos 16cm. Accessories: pink laptop, pink reading glasses on head, diamond earrings. Expression: confused vacant stare at spreadsheet. Standing in luxury pink corner office. City skyline view. Professional photography.
+
+### Miss Doll - Gym Bunny v2
+Professional fitness photography of adult bimbo woman with platinum blonde bob in high ponytail and straight bangs. REALISTIC HUMAN FACE with workout doll makeup: pink blush, glossy pink lips, sweat glistening. Hyperbolic hourglass figure. Wearing pink gym outfit: tiny pink sports bra barely containing, pink latex yoga shorts extremely tight, pink waist trainer corset visible, pink mesh thigh-high socks, PINK PLATFORM STILETTOS 14cm heels. Accessories: pink water bottle, pink wireless earbuds, pink fitness tracker. Expression: confused vacant stare at dumbbell. Posing with weights. Luxury pink gym. Professional photography.
 
 ---
 
@@ -56,19 +57,29 @@ CANON OBLIGATORIO:
 ---
 
 ### Helena - Vampire Mistress
-Professional gothic editorial photography of goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flowing past shoulders. Pale marble skin. ULTRA THICK BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing vampire outfit: floor-length black velvet gown with extreme thigh-high slit, black satin underbust corset EXTREMELY TIGHT creating impossible waist, black lace opera gloves to elbow. Accessories: ruby and onyx choker with blood drop pendant, black feathered cape, antique wine glass with red liquid. Expression: cold aristocratic stare, no smile. Standing in gothic castle hall with lit candelabras. Dramatic red and black lighting. Professional photography.
+Professional gothic editorial photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flowing past shoulders. Pale marble skin. ULTRA THICK BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing vampire outfit: floor-length black velvet gown with extreme thigh-high slit, black satin underbust corset EXTREMELY TIGHT creating impossible waist, black lace opera gloves to elbow. Accessories: ruby and onyx choker with blood drop pendant, black feathered cape, antique wine glass with red liquid. Expression: cold aristocratic stare, no smile. Standing in gothic castle hall with lit candelabras. Dramatic red and black lighting. Professional photography.
 
 ### Helena - Leather Dominatrix
-Professional fetish editorial photography of goth bimbo dominatrix inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and tousled. Pale marble skin. ULTRA THICK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing leather domme outfit: black leather corset dress EXTREMELY TIGHT, black leather thigh-high boots with 9-inch stiletto heels, black leather opera gloves. Accessories: black leather riding crop in hand, spiked leather collar, silver chain attached. Expression: cruel satisfaction, lips slightly parted. Standing with one foot on leather ottoman, dominant pose. Black dungeon with red accent lighting. Professional photography.
-
-### Helena - Gothic Bride
-Professional gothic bridal photography of goth bimbo inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black lace cathedral veil. Pale marble skin. DARK BLOOD RED LIPS. Obscenely exaggerated hourglass figure. Wearing black wedding gown: black lace mermaid dress with long train, black overbust corset bodice EXTREMELY TIGHT with silver skull embroidery, visible through lace. Black stiletto pumps 8-inch heels visible under hem. Accessories: bouquet of dead black roses, onyx tiara with spikes, black diamond jewelry. Expression: cold blank bridal stare. Standing before gothic altar. Candlelit cathedral with stained glass. Professional photography.
+Professional fetish editorial photography of adult goth bimbo dominatrix inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and tousled. Pale marble skin. ULTRA THICK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing leather domme outfit: black leather corset dress EXTREMELY TIGHT, black leather thigh-high boots with 9-inch stiletto heels, black leather opera gloves. Accessories: black leather riding crop in hand, spiked leather collar, silver chain attached. Expression: cruel satisfaction, lips slightly parted. Standing with one foot on leather ottoman, dominant pose. Black dungeon with red accent lighting. Professional photography.
 
 ### Helena - Latex Witch
-Professional dark fantasy photography of goth bimbo witch inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and flowing with leaves. Pale marble skin. MATTE BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing witch outfit: purple latex catsuit with strategic cutouts, black leather waist cincher corset EXTREMELY TIGHT, black patent thigh-high stiletto boots 8-inch heels. Accessories: pointed black witch hat with silver buckle, glowing crystal ball in hands, black cat at feet. Expression: knowing smirk, heavy-lidded eyes. Stirring bubbling cauldron with pink smoke. Misty dark forest at midnight. Professional photography.
+Professional dark fantasy photography of adult goth bimbo witch inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and flowing with leaves. Pale marble skin. MATTE BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing witch outfit: purple latex catsuit with strategic cutouts, black leather waist cincher corset EXTREMELY TIGHT, black patent thigh-high stiletto boots 8-inch heels. Accessories: pointed black witch hat with silver buckle, glowing crystal ball in hands, black cat at feet. Expression: knowing smirk, heavy-lidded eyes. Stirring bubbling cauldron with pink smoke. Misty dark forest at midnight. Professional photography.
 
-### Helena - Gothic Beach (BIKINI)
-Professional beach photography of goth bimbo inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair windblown. Pale marble skin with SPF protection. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing black lace bikini with skull details, black mesh sarong, black underbust corset EXTREMELY TIGHT worn over bikini, BLACK PATENT STILETTO SANDALS 8-inch with thin heel. Accessories: black lace parasol to block sun, black cat-eye sunglasses, gothic silver jewelry. Expression: annoyed by sunlight, cold stare. Standing under black beach umbrella on dark volcanic beach. Moody overcast sky. Professional photography.
+### Helena - Cemetery Siren
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flowing in wind. Pale marble skin. DARK BURGUNDY LIPS. Obscenely exaggerated hourglass figure. Wearing graveyard outfit: black lace Victorian dress with high collar, black brocade overbust corset EXTREMELY TIGHT with silver skull clasps, black thigh-high stockings, black stiletto ankle boots 8-inch. Accessories: black parasol with lace trim, silver cross pendant, black roses in hand. Expression: melancholic vacant stare. Standing beside gothic tombstone. Foggy cemetery at dusk with ravens. Professional photography.
+
+
+### Helena - Absinthe Fairy
+Professional fantasy photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair with green streaks, wild and ethereal. Pale marble skin with green shimmer. EMERALD GREEN LIPS glossy. Obscenely exaggerated hourglass figure. Wearing absinthe fairy outfit: iridescent black-green corset dress EXTREMELY TIGHT, sheer black wings attached, black thigh-high boots with green accents 8-inch heels. Accessories: antique absinthe glass with green liquid, silver absinthe spoon. Expression: intoxicated vacant smile, heavy-lidded. Surrounded by green mist. Dark Victorian bar setting. Professional photography.
+
+### Helena - Gothic Maid
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in messy updo with black ribbon. Pale marble skin. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing gothic maid outfit: black satin mini dress with white lace trim, black overbust corset EXTREMELY TIGHT with silver clasps, black fishnet stockings with garter belt visible, black stiletto mary janes 8-inch heels. Accessories: black feather duster, white lace headpiece, black lace choker with silver bell. Expression: annoyed vacant stare, lips in pout. Dusting gothic candelabra. Dark Victorian mansion. Professional photography.
+
+### Helena - Dark Office Queen
+Professional corporate gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair sleek and professional. Pale marble skin. MATTE BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing gothic office outfit: black satin blouse with high collar, black leather pencil skirt extremely tight, black brocade underbust corset visible over blouse, black seamed stockings, black patent stiletto pumps 8-inch heels. Accessories: black reading glasses, silver skull pen, black leather portfolio. Expression: cold imperious stare, judging. Sitting at black marble desk. Dark gothic office with city view. Professional photography.
+
+### Helena - Goth Gym
+Professional fitness photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in high ponytail. Pale marble skin glistening. DARK RED LIPS. Obscenely exaggerated hourglass figure. Wearing gothic gym outfit: black latex sports bra with skull print, black latex shorts extremely tight, black waist trainer corset visible, black fishnet arm warmers, BLACK STILETTO PLATFORM SNEAKERS 7-inch heels. Accessories: black water bottle with pentagram, black wireless headphones, silver chain necklace. Expression: bored vacant stare at weights. Posing in dark industrial gym with red lighting. Professional photography.
 
 ---
 
@@ -93,24 +104,33 @@ Professional fashion editorial of aristocratic French dominatrix woman. HONEY BL
 ### Anais - Riding Mistress
 Professional equestrian editorial of aristocratic French dominatrix woman. HONEY BLONDE hair in sleek low chignon. Elegant mature beauty. Wearing riding outfit: black fitted leather riding jacket with silver buttons, white silk blouse with high collar, black jodhpurs extremely tight, wide black leather corset belt cinching waist, black leather riding boots with 3-inch heel. Accessories: black leather riding crop held firmly, black leather gloves, small silver hunting horn on hip. Expression: imperious superiority, cold stare. Standing beside black stallion in luxury stable. Morning light through stable windows. Professional photography.
 
-### Anais - Boudoir Goddess
-Professional boudoir photography of aristocratic French dominatrix woman. HONEY BLONDE hair loose in soft vintage waves on shoulders. Elegant mature beauty. Wearing boudoir outfit: black silk robe open and flowing, revealing black lace overbust corset underneath, black silk stockings with visible garter belt, black velvet kitten heel mules with marabou feather trim 4-inch. Accessories: lit cigarette in silver holder, champagne bottle on ice nearby, scattered love letters on satin sheets. Expression: satisfied cruelty, heavy-lidded eyes. Reclining on antique chaise longue. Parisian boudoir with gilt mirrors, candles. Intimate candlelight. Professional photography.
+### Anais - Casino Royale
+Professional luxury photography of adult aristocratic French dominatrix woman. HONEY BLONDE hair in sleek side-swept waves. Elegant mature beauty with dangerous expression. Wearing casino outfit: floor-length black sequin gown with high slit, black satin underbust corset with diamond clasps, black satin opera gloves. Accessories: diamond earrings, thin black choker with diamond pendant, champagne flute in hand. Black patent So Kate stilettos 12cm. Expression: calculating cold stare, slight smirk. Standing at roulette table. Luxury Monte Carlo casino with chandeliers. Professional photography.
 
-### Anais - Riviera Bikini
-Professional beach photography of aristocratic French dominatrix woman. HONEY BLONDE hair in elegant beach waves. Elegant mature beauty with subtle tan. Wearing sophisticated black one-piece swimsuit with deep V-cut, black mesh sarong tied at hip, black structured waist belt creating silhouette, black patent stiletto sandals 4-inch with thin heel. Accessories: vintage black sunglasses, champagne glass, silk scarf in hair. Expression: cold superiority even on vacation. Reclining on luxury beach cabana bed. French Riviera setting, azure sea visible. Warm golden hour light. Professional photography.
+### Anais - Parisian Balcony
+Professional editorial photography of adult aristocratic French dominatrix woman. HONEY BLONDE hair loose in soft waves. Elegant mature beauty with morning glow. Wearing morning outfit: black silk robe partially open, black lace overbust corset visible underneath, black seamed stockings, black patent kitten heel mules 8cm. Accessories: silver cigarette holder with smoke, espresso cup on balcony railing. Expression: cold indifference gazing at city. Standing on ornate iron balcony. Paris rooftops and Eiffel Tower in distance. Golden morning light. Professional photography.
 
 ---
 
-## BOUDOIR - LINGERIE
+## ESPECIALES NAVIDAD Y AÑO NUEVO
 
-### Miss Doll - Pink Satin Robe
-Professional boudoir photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with bedroom doll makeup: heavy pink blush, glossy pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink satin robe loosely tied, revealing pink lace bralette and matching pink lace thong underneath, pink satin waist cincher visible under robe, bare legs, pink marabou feather slippers with 4-inch heel. Accessories: pink satin sleep mask pushed up on forehead. Expression: sleepy vacant doll stare, lips parted. Sitting on edge of pink satin bed. Luxury pink boudoir with vanity mirror. Soft morning light. Professional photography.
+### Miss Doll - Pink Christmas
+Professional holiday photography of adult bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with festive doll makeup: pink blush, glossy red lips, glitter snowflakes on cheeks. Hyperbolic hourglass figure. Wearing pink Christmas outfit: pink velvet mini dress with white faux fur trim, pink satin corset with candy cane lacing, white fishnet stockings, pink patent platform heels 16cm. Accessories: pink Santa hat with white fur, candy cane prop, pink wrapped gifts. Expression: excited vacant smile. Standing beside pink Christmas tree with pink ornaments. Cozy pink living room with fireplace. Professional photography.
 
-### Helena - Black Lace Negligee
-Professional gothic boudoir photography of goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair tousled on pillow. Pale marble skin. DARK RED LIPS slightly smeared. Obscenely exaggerated hourglass figure. Wearing black lace negligee floor-length with high slits, black satin underbust corset EXTREMELY TIGHT worn over negligee, black lace thong visible through sheer fabric, bare feet with black nail polish. Accessories: black velvet choker, scattered black rose petals. Expression: heavy-lidded seductive stare, lips parted. Reclining on black satin sheets. Gothic bedroom with candles and mirrors. Warm candlelight. Professional photography.
+### Miss Doll - Champagne Countdown
+Professional New Year photography of adult bimbo woman with platinum blonde bob and straight bangs with glitter. REALISTIC HUMAN FACE with glamour doll makeup: pink blush, glossy pink lips, gold glitter eyeshadow. Hyperbolic hourglass figure. Wearing pink NYE outfit: pink sequin mini dress, pink satin corset with gold trim, sheer pink stockings, pink platform stilettos 18cm with gold accents. Accessories: champagne bottle popping, 2026 tiara, gold confetti falling. Expression: celebrating vacant joy, mouth open. Luxury pink penthouse with city fireworks visible through window. Professional photography.
 
-### Anais - Silk Peignoir Set
-Professional French boudoir photography of aristocratic dominatrix woman. HONEY BLONDE hair in soft sleep waves on shoulders. Elegant mature beauty with morning glow. Wearing ivory silk peignoir set: sheer floor-length robe with lace trim, matching silk slip underneath reaching mid-thigh, visible black lace corset worn over slip creating silhouette, black seamed stockings, black satin kitten heel mules 3-inch with marabou trim. Accessories: silver cigarette holder with unlit cigarette, champagne flute on nightstand, love letters scattered. Expression: satisfied cold superiority, slight smirk. Reclining on antique chaise longue. Parisian boudoir with gilt mirrors. Soft morning light through sheer curtains. Professional photography.
+### Helena - Gothic Christmas
+Professional gothic holiday photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair with silver tinsel woven through. Pale marble skin. DARK BLOOD RED LIPS. Obscenely exaggerated hourglass figure. Wearing gothic Christmas outfit: black velvet dress with blood red faux fur trim, black overbust corset EXTREMELY TIGHT with silver snowflake clasps, black thigh-high stockings, black stiletto boots 8-inch with red soles. Accessories: black Santa hat with red trim, dead black roses bouquet, antique candelabra. Expression: cold festive stare. Standing beside black Christmas tree with red and silver ornaments. Gothic mansion with fireplace. Professional photography.
+
+### Helena - Midnight Masquerade
+Professional New Year photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair styled dramatically with silver stars. Pale marble skin with black glitter. DARK PURPLE LIPS with silver shimmer. Obscenely exaggerated hourglass figure. Wearing gothic NYE outfit: floor-length black velvet gown with high slit, black brocade corset EXTREMELY TIGHT with silver embroidery, black opera gloves. Accessories: ornate black and silver Venetian mask, champagne coupe with black liquid, silver 2026 crown. Expression: mysterious cold celebration. Gothic ballroom with chandeliers and silver confetti. Midnight atmosphere. Professional photography.
+
+### Anais - Noel Aristocratique
+Professional luxury holiday photography of adult aristocratic French dominatrix woman. HONEY BLONDE hair in elegant updo with pearl pins. Elegant mature beauty with festive cold expression. Wearing French Christmas outfit: floor-length burgundy velvet gown, black overbust corset with gold Christmas embroidery, black satin opera gloves. Accessories: antique gold ornament in hand, silver cigarette holder, champagne nearby, pearl choker. Black patent So Kate stilettos 12cm. Expression: elegant indifference. Seated on velvet chaise beside towering traditional Christmas tree. French chateau salon with fireplace. Warm candlelight. Professional photography.
+
+### Anais - Reveillon Parisien
+Professional New Year photography of adult aristocratic French dominatrix woman. HONEY BLONDE hair in sleek chignon with diamond pins. Elegant mature beauty with dangerous celebration expression. Wearing French NYE outfit: floor-length black and gold sequin gown, black satin corset with gold boning visible, black satin opera gloves to shoulder. Accessories: vintage champagne bottle, diamond earrings, thin gold choker, gold 2026 glasses held ironically. Black patent So Kate stilettos 12cm. Expression: cold amusement, slight smirk, toast gesture. Luxury Parisian rooftop with Eiffel Tower and fireworks. Midnight. Professional photography.
 
 ---
 
@@ -128,15 +148,6 @@ Professional French boudoir photography of aristocratic dominatrix woman. HONEY 
 ### Video 4: Corset Breathing
 8 second video loop. Medium shot of Miss Doll's torso only, neck to hips. Pink latex catsuit with pink satin corset EXTREMELY TIGHT, showing extreme hourglass. Slow deep breathing visible: corset subtly expanding and contracting with each breath. Manicured pink hands slowly run down corset sides feeling the structure. Pink ambient lighting pulsing with breath rhythm. Hypnotic quality. Professional cinematography.
 
-### Video 5: Hair Flip
-8 second video loop. Miss Doll doing dramatic slow motion hair flip. Platinum blonde bob catching pink light as it swings. Straight bangs stay in place. REALISTIC FACE with heavy doll makeup visible. Pink latex outfit with corset. Pink glitter particles suspended in air around hair. Time seems frozen then releases. Pink background with subtle spiral pattern. Dreamy slow motion. Professional cinematography.
-
-### Video 6: Finger to Lips
-8 second video loop. Close-up of Miss Doll's face and one hand. Platinum blonde bob, straight bangs. REALISTIC FACE with doll makeup. Pink manicured finger with long nail slowly approaching ultra glossy pink lips. Finger presses against lips in shh gesture. Eyes half-close seductively. Finger slowly pulls down lower lip slightly before releasing. Pink ambient lighting pulsing. Slow motion. Professional cinematography.
-
-### Video 7: Pole Spin
-8 second video loop. Miss Doll spinning gracefully on chrome pole. Platinum blonde bob flying in slow motion. REALISTIC FACE with doll makeup, expression blank and controlled. Pink latex bodysuit with visible corset. One leg extended elegantly. Complete 360 spin in 8 seconds, seamless loop. Pink neon spotlights. Glitter particles suspended in air. Professional dance cinematography.
-
 ---
 
 Notas de Uso:
@@ -144,7 +155,7 @@ Notas de Uso:
 - Guardar imagenes en 05_Imagenes/[personaje]/
 - Mover prompt a HISTORIAL una vez generada la imagen
 
-Canon Visual v2.3 - Helena de Anais
+Canon Visual v2.4 - Helena de Anais
 23/12/2025
 
 ---
@@ -153,19 +164,12 @@ Canon Visual v2.3 - Helena de Anais
 
 *Prompts ya generados — NO REPETIR*
 
-### Miss Doll (Generados)
-- Office Bimbo, Boudoir Bimbo, Pool Party, Bimbo Bride, French Maid, Gym Bunny, Latex Nurse
+### Miss Doll
+- Office Bimbo, Boudoir Bimbo, Pool Party, Yacht Party, Bimbo Bride, French Maid, Gym Bunny, Latex Nurse
 
-### Helena (Generados)
-- Gothic Bride, Gothic Beach, Goth Boudoir, Cabaret Queen, Mourning Widow, Look 9 Standing, Look 9 Seated
+### Helena
+- Gothic Bride, Gothic Beach, Goth Boudoir, Cabaret Queen, Mourning Widow, Look 9 (Standing, Seated, Ditzy)
 
-### Anais (Generados)
+### Anais
 - Boudoir Aristocrat, Riviera Bikini, Dinner Hostess
-
----
-
-## COLA PENDIENTE
-
-- Miss Doll: Yacht Party, Schoolgirl Slut
-- Helena: Look 9 Ditzy Bimbo
 
