@@ -11,7 +11,7 @@ CANON OBLIGATORIO:
 - Bob rubio platino con flequillo recto
 - Latex rosa con CORSE EXTERNO VISIBLE
 - Silueta de reloj de arena hiperbolica
-- Plataformas rosas 16-18cm SIEMPRE
+- Stilettos rosa con plataforma 16-18cm SIEMPRE (tacones acrilicos transparentes para agua)
 - Paleta monocromo rosa
 
 ---
@@ -29,7 +29,7 @@ Professional fashion photography of bimbo woman with platinum blonde bob and str
 Professional corporate photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with power doll makeup: pink blush, matte pink lips, dramatic lashes. Hyperbolic hourglass figure. Wearing pink power suit: pink latex blazer open showing pink satin bralette, tiny pink latex pencil skirt, pink satin underbust corset visible, sheer pink stockings, pink patent Louboutin platform stilettos 16cm. Accessories: pink reading glasses on nose tip, pink folder in manicured hand. Expression: cold blank stare, chin elevated, imperious. Sitting behind glass desk, legs crossed. Pink corner office with city view. Professional photography.
 
 ### Miss Doll - Pool Party
-Professional poolside photography of bimbo woman with platinum blonde bob and straight bangs, wet hair slicked. REALISTIC HUMAN FACE with waterproof doll makeup: pink blush, ultra glossy lips, waterproof lashes. Hyperbolic hourglass figure glistening with oil. Wearing pink micro bikini: tiny triangles barely covering, string ties at hips, no corset but extreme hourglass visible, pink platform wedge sandals 14cm even by pool. Accessories: oversized pink heart sunglasses, pink cocktail with umbrella, pink inflatable flamingo nearby. Expression: vacant stare, lips parted, tongue touching upper lip. Lounging on pink pool chair. Luxury pool with pink tiles. Professional photography.
+Professional poolside photography of bimbo woman with platinum blonde bob and straight bangs, wet hair slicked. REALISTIC HUMAN FACE with waterproof doll makeup: pink blush, ultra glossy lips, waterproof lashes. Hyperbolic hourglass figure glistening with oil. Wearing pink micro bikini: tiny triangles barely covering, string ties at hips, no corset but extreme hourglass visible, CLEAR ACRYLIC PLATFORM STILETTO SANDALS 16cm with thin heel even by pool. Accessories: oversized pink heart sunglasses, pink cocktail with umbrella, pink inflatable flamingo nearby. Expression: vacant stare, lips parted, tongue touching upper lip. Lounging on pink pool chair. Luxury pool with pink tiles. Professional photography.
 
 ### Miss Doll - Gamer Girl
 Professional gaming photography of bimbo woman with platinum blonde bob with pink streaks and straight bangs. REALISTIC HUMAN FACE with e-girl doll makeup: heavy pink blush, glossy lips, heart drawn under eye. Hyperbolic hourglass figure. Wearing pink gamer outfit: tiny pink crop top with DOLL text, pink latex hotpants, pink LED choker glowing, pink mesh thigh-highs, pink platform boots 16cm. Accessories: pink cat ear gaming headset, pink controller in manicured hands. Expression: tongue out playfully, vacant eyes. Sitting in pink RGB gaming chair, legs spread casually. Pink neon-lit gaming room. Professional photography.
@@ -38,7 +38,7 @@ Professional gaming photography of bimbo woman with platinum blonde bob with pin
 Professional beach photography of bimbo woman with platinum blonde bob and straight bangs. REALISTIC HUMAN FACE with beach doll makeup: pink blush, glossy lips, waterproof lashes. Hyperbolic hourglass figure glistening with tanning oil. Wearing hot pink micro string bikini barely covering, pink satin waist cincher visible under bikini top, PINK PLATFORM STILETTO SANDALS 16cm even on beach. Accessories: oversized pink heart sunglasses, pink beach bag, pink umbrella. Expression: vacant stare, lips parted. Posing on pink beach towel on white sand. Luxury beach resort. Professional photography.
 
 ### Miss Doll - Yacht Party (BIKINI)
-Professional yacht photography of bimbo woman with platinum blonde bob and straight bangs, wind-blown. REALISTIC HUMAN FACE with glamour doll makeup: pink blush, glossy lips, lashes. Hyperbolic hourglass figure oiled and glistening. Wearing metallic pink triangle bikini, pink mesh coverup open, pink waist cincher visible, pink platform wedges 14cm. Accessories: champagne flute in hand, designer pink sunglasses, gold body chain. Expression: vacant party stare, lips parted. Leaning on yacht railing. Luxury white yacht at sunset. Professional photography.
+Professional yacht photography of bimbo woman with platinum blonde bob and straight bangs, wind-blown. REALISTIC HUMAN FACE with glamour doll makeup: pink blush, glossy lips, lashes. Hyperbolic hourglass figure oiled and glistening. Wearing metallic pink triangle bikini, pink mesh coverup open, pink satin waist cincher visible, CLEAR ACRYLIC PLATFORM STILETTO SANDALS 16cm with thin heel. Accessories: champagne flute in hand, designer pink sunglasses, gold body chain. Expression: vacant party stare, lips parted. Leaning on yacht railing. Luxury white yacht at sunset. Professional photography.
 
 ---
 
@@ -68,7 +68,7 @@ Professional gothic bridal photography of goth bimbo inspired by Sacha Massacre.
 Professional dark fantasy photography of goth bimbo witch inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and flowing with leaves. Pale marble skin. MATTE BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing witch outfit: purple latex catsuit with strategic cutouts, black leather waist cincher corset EXTREMELY TIGHT, black patent thigh-high stiletto boots 8-inch heels. Accessories: pointed black witch hat with silver buckle, glowing crystal ball in hands, black cat at feet. Expression: knowing smirk, heavy-lidded eyes. Stirring bubbling cauldron with pink smoke. Misty dark forest at midnight. Professional photography.
 
 ### Helena - Gothic Beach (BIKINI)
-Professional beach photography of goth bimbo inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair windblown. Pale marble skin with SPF protection. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing black lace bikini with skull details, black mesh sarong, black underbust corset EXTREMELY TIGHT worn over bikini, black platform wedge sandals 6-inch. Accessories: black lace parasol to block sun, black cat-eye sunglasses, gothic silver jewelry. Expression: annoyed by sunlight, cold stare. Standing under black beach umbrella on dark volcanic beach. Moody overcast sky. Professional photography.
+Professional beach photography of goth bimbo inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair windblown. Pale marble skin with SPF protection. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing black lace bikini with skull details, black mesh sarong, black underbust corset EXTREMELY TIGHT worn over bikini, BLACK PATENT STILETTO SANDALS 8-inch with thin heel. Accessories: black lace parasol to block sun, black cat-eye sunglasses, gothic silver jewelry. Expression: annoyed by sunlight, cold stare. Standing under black beach umbrella on dark volcanic beach. Moody overcast sky. Professional photography.
 
 ---
 
@@ -97,7 +97,7 @@ Professional equestrian editorial of aristocratic French dominatrix woman. HONEY
 Professional boudoir photography of aristocratic French dominatrix woman. HONEY BLONDE hair loose in soft vintage waves on shoulders. Elegant mature beauty. Wearing boudoir outfit: black silk robe open and flowing, revealing black lace overbust corset underneath, black silk stockings with visible garter belt, black velvet kitten heel mules with marabou feather trim 4-inch. Accessories: lit cigarette in silver holder, champagne bottle on ice nearby, scattered love letters on satin sheets. Expression: satisfied cruelty, heavy-lidded eyes. Reclining on antique chaise longue. Parisian boudoir with gilt mirrors, candles. Intimate candlelight. Professional photography.
 
 ### Anais - Riviera Bikini
-Professional beach photography of aristocratic French dominatrix woman. HONEY BLONDE hair in elegant beach waves. Elegant mature beauty with subtle tan. Wearing sophisticated black one-piece swimsuit with deep V-cut, black mesh sarong tied at hip, black structured waist belt creating silhouette, black patent wedge sandals 4-inch. Accessories: vintage black sunglasses, champagne glass, silk scarf in hair. Expression: cold superiority even on vacation. Reclining on luxury beach cabana bed. French Riviera setting, azure sea visible. Warm golden hour light. Professional photography.
+Professional beach photography of aristocratic French dominatrix woman. HONEY BLONDE hair in elegant beach waves. Elegant mature beauty with subtle tan. Wearing sophisticated black one-piece swimsuit with deep V-cut, black mesh sarong tied at hip, black structured waist belt creating silhouette, black patent stiletto sandals 4-inch with thin heel. Accessories: vintage black sunglasses, champagne glass, silk scarf in hair. Expression: cold superiority even on vacation. Reclining on luxury beach cabana bed. French Riviera setting, azure sea visible. Warm golden hour light. Professional photography.
 
 ---
 
@@ -142,7 +142,30 @@ Professional French boudoir photography of aristocratic dominatrix woman. HONEY 
 Notas de Uso:
 - Copiar prompt completo
 - Guardar imagenes en 05_Imagenes/[personaje]/
-- Eliminar prompt una vez generada la imagen
+- Mover prompt a HISTORIAL una vez generada la imagen
 
-Canon Visual v2.2 - Helena de Anais
-22/12/2025
+Canon Visual v2.3 - Helena de Anais
+23/12/2025
+
+---
+
+## HISTORIAL DE PROMPTS USADOS
+
+*Prompts ya generados — NO REPETIR*
+
+### Miss Doll (Generados)
+- Office Bimbo, Boudoir Bimbo, Pool Party, Bimbo Bride, French Maid, Gym Bunny, Latex Nurse
+
+### Helena (Generados)
+- Gothic Bride, Gothic Beach, Goth Boudoir, Cabaret Queen, Mourning Widow, Look 9 Standing, Look 9 Seated
+
+### Anais (Generados)
+- Boudoir Aristocrat, Riviera Bikini, Dinner Hostess
+
+---
+
+## COLA PENDIENTE
+
+- Miss Doll: Yacht Party, Schoolgirl Slut
+- Helena: Look 9 Ditzy Bimbo
+
