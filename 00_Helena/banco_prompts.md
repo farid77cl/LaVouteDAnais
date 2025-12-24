@@ -339,5 +339,69 @@ Professional fetish photography of adult bimbo woman with platinum blonde bob. R
 
 ---
 
-*Total Prompts Disponibles: ~70*
+## NUEVOS PROMPTS - PRÁCTICAS BDSM
+
+### BONDAGE / ATADURAS
+
+### Helena - Leather Strappado
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling forward. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. STRAPPADO POSITION: hands bound behind back pulled upward by chain, bent forward. Wearing black leather corset, black thong. Black stilettos 9-inch. Strained but blissful expression. Dark dungeon with stone walls. Professional photography.
+
+### Miss Doll - Pink Hogtie
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. HOGTIE POSITION on pink cushion: ankles and wrists bound together behind back with pink rope. Wearing pink latex bodysuit, pink corset. Back arched. Helpless vacant smile. Pink playroom. Professional photography.
+
+### Helena - Spread Eagle Vulnerability
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair spread on surface. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. SPREAD EAGLE: wrists and ankles bound to four corners of black iron bed frame. Wearing black mesh lingerie, black corset. Exposed vulnerable pose. Anticipating vacant stare. Dark bedroom with candles. Professional photography.
+
+### Miss Doll - Suspension (Partial)
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE. Hyperbolic hourglass figure. PARTIAL SUSPENSION: wrists bound overhead by pink ropes, tips of platform heels barely touching floor. Wearing pink latex catsuit, pink corset harness. Stretched helpless pose. Glazed vacant eyes looking up. Pink studio with rigging. Professional photography.
+
+### IMPACT PLAY / SPANKING
+
+### Helena - Over the Knee
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. OVER THE KNEE position across Mistress lap (Mistress partially visible). Wearing black corset, black thong, fishnets ripped. Black stilettos 9-inch dangling. Anticipating spanking expression. Dark boudoir. Professional photography.
+
+### Miss Doll - Paddle Presentation
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Bent over pink spanking bench. Pink corset, pink thong. Pink platform heels 16cm. Holding PINK LEATHER PADDLE offering to camera. Looking back with vacant pleading eyes. Pink dungeon. Professional photography.
+
+### Anais - Crop Discipline
+Professional fetish photography of glamorous French aristocratic woman. HONEY BLONDE hair in stern updo. Sensual lush beauty. Wearing black leather bodysuit, black corset. Holding BLACK RIDING CROP, flexing it. Dominant commanding stare. Target visible: pink pillow bent over punishment horse. Dark equestrian dungeon. Professional photography.
+
+### COLLAR & LEASH
+
+### Helena - Gothic Leash Walk
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. On all fours crawling, wearing BLACK SPIKED COLLAR with CHAIN LEASH held by gloved hand (owner partially visible). Black corset, black thong. Black stilettos 9-inch. Devoted submissive stare forward. Dark hallway. Professional photography.
+
+### Miss Doll - Pink Collar Training
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Kneeling position, wearing PINK LEATHER COLLAR with heart tag, PINK LEASH held taut upward (owner controlling). Pink latex outfit, pink corset. Pink platform heels 16cm. Obedient vacant smile with tongue slightly out. Pink training room. Professional photography.
+
+### Anais - Handler with Leash
+Professional fetish photography of glamorous French aristocratic woman. HONEY BLONDE hair in elegant style. Sensual lush beauty. Wearing black leather dress, black corset. Holding TWO LEASHES in one hand, controlling implied subjects below frame. Dominant satisfied smile. Standing in dungeon. Professional photography.
+
+### WAX PLAY
+
+### Helena - Black Candle Drips
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin with BLACK WAX DRIPS on torso, breasts, thighs. BLACK LIPS. Obscenely exaggerated hourglass figure. Lying on black satin, arched back. Black candles surrounding. Ecstatic pained expression. Dark ritual setting. Professional photography.
+
+### Miss Doll - Pink Wax Art
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Lying on pink surface, PINK WAX dripped in decorative pattern on stomach and breasts. Wearing pink collar only. Shivering vacant expression. Pink candles surrounding. Pink boudoir. Professional photography.
+
+### PREDICAMENT BONDAGE
+
+### Helena - Ballet Boot Training
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Standing shakily in EXTREME BLACK BALLET BOOTS (en pointe), hands bound overhead for balance. Wearing black corset, black thong. Straining concentration expression. Dark training room with mirrors. Professional photography.
+
+### Miss Doll - Tiptoe Predicament
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. PREDICAMENT: standing on extreme tiptoes on pink platform, wrists bound to ceiling, nipple clamps with weights. Wearing pink corset only. Strained helpless expression. Pink studio. Professional photography.
+
+### SENSORY PLAY
+
+### Helena - Blindfolded Anticipation
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS slightly parted. Obscenely exaggerated hourglass figure. Wearing BLACK VELVET BLINDFOLD, black corset, black lingerie. Kneeling with hands behind back. Lips parted in anticipation. Head tilted toward sound. Dark room with single spotlight. Professional photography.
+
+### Miss Doll - Sensory Overload
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE. Hyperbolic hourglass figure. Wearing PINK BLINDFOLD, PINK NOISE-CANCELING HEADPHONES, pink corset. Lying on pink satin, restrained. Multiple feathers and toys surrounding her. Overwhelmed blissful expression. Pink boudoir. Professional photography.
+
+---
+
+*Total Prompts Disponibles: ~85*
 *Última actualización: 2025-12-24*
