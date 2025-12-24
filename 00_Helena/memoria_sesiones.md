@@ -592,3 +592,32 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 
 *Ultima actualizacion: 2025-12-24 08:12*
 
+
+
+---
+
+## Sesion 24/12/2025 - Imagenes y Estandarizacion
+
+### Imagenes Helena (Look 11: Absinthe Dream)
+- Standing: helena_look11_absinthe_standing.png
+- Seated: helena_look11_absinthe_seated.png
+- Close-Up: helena_look11_absinthe_closeup.png
+
+### Estandarizacion de Relatos (PARCIAL)
+- **Auditoria:** 3 archivos revisados (Nancy, Hombres II, Trance Bimbodoll).
+- **Detectado:**
+    - Formato ASCII vs Markdown estandar.
+    - Emails inconsistentes (@lavoute.com vs @outlook.com).
+    - Encoding UTF-8 vs ANSI.
+- **Correcciones Aplicadas:**
+    - eres_de_los_hombres_que_II_completo.md: ASCII headers.
+    - 	rance_bimbodoll_completo.md: Email a outlook.com.
+    - 	rance_bimbodoll_ii_completo.md: Email a outlook.com.
+- **Pendiente:** Estandarizacion masiva (script falló por encoding).
+
+### Estado
+- **El Vino del Vecino:** PAUSADO (Caps 1-5 completos).
+- **Ko-fi:** PENDIENTE.
+
+*Ultima actualizacion: 2025-12-24 09:30*
+

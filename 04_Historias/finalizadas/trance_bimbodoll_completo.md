@@ -2641,7 +2641,7 @@ Si sentiste cómo tu mente se vaciaba con cada palabra, si descubriste que "Bunn
 
 Escríbeme. Cuéntame qué tan profundo caíste y qué tan feliz eres ahora.
 
-Escríbeme a: **anais.belland@lavoute.com**
+Escríbeme a: **anais.belland@outlook.com**
 
 
 Con devoción oscura,

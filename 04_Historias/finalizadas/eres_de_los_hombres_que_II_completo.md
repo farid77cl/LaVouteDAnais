@@ -1,8 +1,10 @@
-# Eres de los hombres que... II: Los Perdedores
+╔══════════════════════════════════════════════════════════════════════════════╗
+║               Eres de los hombres que... II: Los Perdedores                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-*Un relato de Anaïs Belland*
-
----
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ METADATOS DEL RELATO                                                        │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 **Temáticas:** #Bimbofication #Himbofication #Feminization #GymBunny #MindControl #Transformation #Cuckold #MissDoll
 
@@ -12,10 +14,15 @@
 
 **Intensidad:** Extrema
 
-**Resumen:**
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ RESUMEN                                                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
 *Querían ser populares. Miss Doll les prometió transformación. Pero sus deseos tienen un precio que ninguno imaginó pagar — y ahora están condenados a recordar quiénes fueron mientras viven como lo que pidieron ser.*
 
----
+═══════════════════════════════════════════════════════════════════════════════
+                              CUERPO DEL RELATO
+═══════════════════════════════════════════════════════════════════════════════
 
 El bajo retumbaba a través de las paredes del dormitorio como el latido de un corazón ajeno. Viernes por la noche, y todo el campus palpitaba con una vida que Marcos y Daniel solo conocían de oídas.
 

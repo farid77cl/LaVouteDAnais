@@ -1,135 +1,118 @@
 # El Vino del Vecino
 
-## Capítulo 1: Bienvenidos al Vecindario
+## Capítulo 1: La Cosecha de la Bóveda
 
-El olor a pintura fresca invadió las fosas nasales de Rosa María cuando cruzó el umbral de su nueva casa. Era un aroma cargado de promesas vacías —nuevo comienzo, vida diferente, las mismas mentiras que los agentes inmobiliarios vendían junto con los metros cuadrados.
+El olor a "hogar nuevo" era una mentira química: pintura barata, aserrín y el limpiador de limón industrial que los agentes inmobiliarios usaban para ocultar la humedad. Para Rosa María, ese olor se sentía como una sentencia. Otra casa. Otra mudanza. Otra capa de pintura blanca sobre una vida que se sentía cada vez más gris.
 
-—¿No es perfecta? —preguntó Eduardo, su esposo de veintidós años, con ese entusiasmo que ella había aprendido a tolerar más que a compartir.
+—¿No es perfecta? —preguntó Eduardo, abriendo los brazos en el centro del salón vacío.
 
-Rosa María observó el living vacío. Paredes blancas. Techos altos. El eco de sus tacones bajos —siempre bajos, siempre discretos— resonaba como el latido de un corazón que había olvidado cómo acelerarse.
+Su esposo llevaba esa camisa polo beige que parecía ser su uniforme de vida. Veintidós años de matrimonio y Rosa María no podía recordar la última vez que lo había visto usar un color primario. Eduardo era un hombre bueno. Un hombre sólido. Un hombre que pagaba las cuentas y nunca levantaba la voz. Un hombre que la hacía sentir absolutamente nada.
 
-—Perfecta —repitió, y la palabra sonó tan hueca como se sentía.
+—Perfecta —mintió ella. La palabra salió de su garganta con la textura del polvo.
 
-A sus cuarenta y dos años, Rosa María Contreras de Mendoza era exactamente lo que se esperaba de ella: esposa devota, madre responsable, mujer invisible. Su cabello castaño siempre recogido en un moño severo, su ropa en tonos beige y gris, sus labios cubiertos apenas por un toque de brillo rosado que desaparecía antes del mediodía. Había construido su identidad alrededor de las necesidades de otros hasta que ya no quedaba nada propio que identificar.
+A sus cuarenta y dos años, Rosa María se sentía invisible. Su reflejo en la ventana del patio le devolvió la imagen de una mujer funcional: cabello castaño estirado en un moño severo que le dolía en las sienes, ropa holgada para ocultar curvas que Eduardo ya no buscaba, y una postura de disculpa perpetua. Había enterrado tanto de sí misma bajo capas de responsabilidad materna y conyugal que a veces dudaba de tener un cuerpo debajo de la ropa. Solo era una serie de funciones: cocinar, limpiar, organizar, sonreír.
 
-—Lucía llamó —dijo Eduardo, revisando su teléfono—. Dice que vendrá a visitarnos cuando se instale el semestre.
+—Lucía llamó —dijo Eduardo, rompiendo su trance—. Dice que vendrá el fin de semana.
 
-La mención de su hija de veintiún años trajo un destello de algo parecido a la emoción. Lucía era todo lo que Rosa María no había podido ser: brillante, independiente, estudiando Derecho en la capital. El orgullo de la familia. La prueba de que al menos algo había salido bien.
+—Qué alegría.
 
-—Qué alegría —murmuró Rosa María, comenzando a desempacar la primera caja.
+Incluso la mención de su hija, su orgullo, sonó lejana. Lucía estaba en la capital, viviendo, estudiando, siendo joven. Rosa María estaba aquí, en los suburbios, esperando... ¿qué? ¿La menopausia? ¿La muerte?
 
-Las horas siguientes transcurrieron en el ritual conocido de organizar una vida en espacios nuevos. Platos en la cocina, libros en el estudio, ropa en los armarios. Eduardo supervisaba a los trabajadores de la mudanza mientras Rosa María convertía cuatro paredes en algo que pudiera llamarse hogar.
+Empezó a desempacar libros. El tacto rugoso de las viejas portadas era lo único real en esa habitación.
 
-Fue al caer la tarde cuando lo vio por primera vez.
+Fue entonces cuando lo sintió.
 
-El hombre estaba de pie en el jardín contiguo, inmóvil como una estatua de mármol negro. No podó nada. No regó nada. Solo... observaba. Sus ojos fijos en la ventana de la cocina donde Rosa María desempacaba vasos.
+No fue un ruido. Fue una presión en el aire, como cuando la tormenta está a punto de romper el cielo. Los vellos de su nuca se erizaron, una reacción atávica, animal. *Peligro. Oportunidad.*
 
-Ella sintió la mirada antes de verla. Un escalofrío recorrió su espalda como dedos helados sobre piel desnuda.
+Levantó la vista hacia el jardín trasero.
 
-Cuando levantó la vista, él no apartó los ojos. No fingió estar haciendo otra cosa. La sostuvo la mirada con una intensidad que habría hecho retroceder a cualquier depredador sensato.
+Había un hombre parado justo en el límite de la propiedad.
+No estaba haciendo nada. Solo estaba allí. Observándola.
 
-*Algo está mal con ese hombre.*
+Era alto, vestido con una elegancia oscura que desafiaba el calor de la tarde. Traje negro sin corbata, camisa desabotonada en el cuello revelando una piel pálida, casi marmórea. Su cabello era una mezcla de obsidiana y plata, peinado hacia atrás. Pero eran sus ojos los que la clavaron en su sitio. Incluso a esa distancia, Rosa María sintió el peso físico de esa mirada. No la estaba mirando; la estaba *leyendo*.
 
-El pensamiento surgió instintivo, primitivo. La misma parte del cerebro que advierte sobre serpientes y precipicios estaba gritando advertencias que Rosa María no podía nombrar.
+—¡Vecino! —la voz de Eduardo rompió la tensión como un cristal barato cayendo al suelo. Salió al jardín con su sonrisa de buen ciudadano, agitando la mano—. ¡Bienvenido!
 
-Alto, sí. Cabello oscuro con mechones plateados que brillaban como telarañas mojadas. Ojos que no reflejaban la luz del atardecer —parecían absorberla, tragarla, extinguirla. Vestía completamente de negro, impecable a pesar del calor del verano, como si el clima no se atreviera a afectarlo.
+Rosa María quiso gritarle que se detuviera. Su instinto le decía que ese hombre no era un "vecino". Era un depredador que acababa de encontrar una madriguera de conejos gordos y confiados.
 
-Y en sus manos, una botella de vino del color de la sangre coagulada.
+El hombre avanzó. No caminaba; se deslizaba. La hierba apenas parecía ceder bajo sus zapatos de cuero italiano.
 
-Rosa María retrocedió un paso involuntario. Su corazón latía más rápido de lo que debería.
+—Bienvenidos —dijo. Su voz era profunda, vibrante, una nota de bajo que resonó en el pecho de Rosa María más que en sus oídos—. Soy... un coleccionista. Vivo al lado.
 
-*No te acerques. No aceptes nada de él. Hay algo terriblemente mal.*
+—Eduardo Mendoza —su esposo le estrechó la mano con vigor—. Y mi esposa, Rosa María.
 
-—¡Hola, vecino! —la voz de Eduardo rompió el momento. Salió por la puerta trasera con los brazos abiertos, sin notar absolutamente nada de la tensión en el aire—. ¿Viene a darnos la bienvenida?
+El vecino giró la cabeza lentamente hacia ella. Cuando sus miradas se cruzaron, el mundo se redujo a un túnel. Rosa María sintió un calor repentino, vergonzoso, florecer entre sus muslos. Era miedo, se dijo. Tenía que ser miedo.
 
-El hombre finalmente apartó los ojos de Rosa María para mirar a Eduardo. Su expresión no cambió —ese rostro parecía incapaz de expresiones humanas normales— pero algo en la inclinación de su cabeza sugería... diversión. Como un gato observando a un ratón correr directo hacia sus garras.
+—Rosa... María —pronunció él, separando los nombres como si estuviera catando algo—. Un nombre clásico. Aunque sospecho que hay... otros nombres esperando bajo la superficie.
 
-—Es tradición en este vecindario —dijo, y su voz era terciopelo sobre obsidiana, suave y profunda, demasiado agradable para ser real—. Una botella de mi bodega personal para los nuevos residentes.
+Ella tragó saliva, incapaz de hablar. Él sabía. No sabía qué sabía, pero sabía que él veía la suciedad debajo de su apariencia de ama de casa perfecta.
 
-Cruzó la línea invisible entre sus propiedades con pasos lentos, medidos. No caminaba como una persona normal —se deslizaba, como si sus pies apenas tocaran el suelo.
+—Les traigo un obsequio de bienvenida —el hombre levantó una botella que Rosa María no había notado hasta ese momento.
 
-Rosa María quiso gritar. Quiso tomar a Eduardo del brazo y arrastrarlo dentro de la casa. Quiso correr.
+No tenía etiqueta. El vidrio era oscuro, casi negro, pero dejaba pasar la luz suficiente para revelar un líquido denso, carmesí, que se movía con una lentitud hipnótica. Parecía sangre arterial. Parecía vida.
 
-En cambio, se quedó paralizada mientras él se acercaba.
+—De mi bodega privada —continuó, entregándole la botella a Eduardo, aunque sus ojos no dejaban los de ella—. Una cosecha especial. Para ocasiones... transformadoras.
 
-—Es usted muy amable —Eduardo aceptó la botella sin notar cómo los dedos del vecino rozaron los suyos más tiempo del necesario, sin ver la sonrisa que no llegaba a esos ojos vacíos—. Soy Eduardo Mendoza, y esta es mi esposa Rosa María.
+—¡Qué generoso! —Eduardo acarició la botella, ignorante del peso simbólico del objeto—. La guardaremos para una ocasión especial.
 
-El vecino se giró hacia ella. Sus ojos la recorrieron de una manera que la hizo sentir completamente desnuda, completamente expuesta, completamente... *vista*. Como si pudiera leer cada deseo reprimido, cada fantasía enterrada, cada parte de ella que había pasado décadas escondiendo.
+—Yo sugeriría esta noche —dijo el vecino, suavemente. Fue una orden, no una sugerencia—. El vino está vivo. Esperar podría... alterar su carácter. Y el de ustedes.
 
-—Un placer —dijo, extendiendo su mano.
+Eduardo rio, nervioso pero complacido.
+—Bueno, si el experto insiste. Esta noche será.
 
-Rosa María no quería tocarlo. Cada célula de su cuerpo gritaba que no lo hiciera. Pero la educación venció al instinto, como siempre, y aceptó el saludo.
+El vecino sonrió por primera vez. No fue una sonrisa cálida. Fue la sonrisa de alguien que acaba de cerrar un trato muy ventajoso.
+—Disfruten. Y recuerden: el vino solo revela lo que ya está ahí. Solo quita los frenos.
 
-El contacto fue eléctrico. Sus dedos estaban fríos —demasiado fríos para una tarde de verano— y firmes como piedra. No la soltó inmediatamente. La sostuvo un segundo más de lo apropiado, con sus ojos clavados en los de ella.
+Se dio la media vuelta y se marchó. Rosa María lo vio desaparecer tras el seto alto de cipreses. Su corazón golpeaba contra sus costillas como un pájaro enjaulado.
 
-*Él sabe que lo sé*, pensó Rosa María. *Sabe que sé que algo está mal. Y le divierte.*
+—Qué tipo agradable —dijo Eduardo, entrando a la casa—. Un poco intenso, ¿no? Pero clase, tiene clase.
 
-—Pueden llamarme... el enólogo —dijo finalmente, liberando su mano—. Es lo único que necesitan saber de mí.
+Rosa María miró la botella en las manos de su marido. Sintió un deseo repentino, voraz, de arrancarle el corcho con los dientes.
+—Sí —murmuró, y su propia voz le sonó extraña, más grave—. Intenso.
 
-—¿Enólogo? —Eduardo rio, completamente ajeno a la tensión—. ¿Produce vino? ¡Qué interesante!
+Esa noche, cenaron pizza sobre cajas de mudanza. El aire acondicionado zumbaba, pero Rosa María tenía calor. Se había soltado el pelo, algo que nunca hacía para cenar. Sentía la tela de su blusa rozando sus pezones, que estaban dolorosamente duros.
 
-—Produzco... transformaciones —el vecino no apartó los ojos de Rosa María mientras respondía—. El vino es solo el medio. Lo que realmente cultivo son... posibilidades.
+—¿Abrimos el regalo? —preguntó Eduardo.
 
-El silencio que siguió fue denso como alquitrán. Eduardo no pareció notarlo.
+El sonido del corcho saliendo fue obsceno. Un *pop* húmedo, como una articulación cediendo.
+El aroma golpeó a Rosa María desde el otro lado de la mesa. No olía a uvas. Olía a almizcle, a especias orientales, a sudor limpio, a feromonas concentradas. Olía a sexo.
 
-—¡Qué poético! —exclamó, palmeando la botella—. Bueno, nos aseguraremos de brindar por nuestra nueva vida aquí.
+Eduardo sirvió dos copas. El líquido era espeso, cubriendo el cristal con lágrimas lentas y rojas.
 
-—Asegúrense de hacerlo —el enólogo sonrió, y sus dientes eran perfectos, demasiado perfectos, blancos como los de un tiburón—. Este vino en particular tiene propiedades... especiales. Cada copa revela algo nuevo. Algo que siempre estuvo ahí, esperando ser descubierto.
+—Por nuestro nuevo hogar —brindó él.
 
-*No lo bebas*, quiso gritar Rosa María. *Algo está terriblemente mal con este hombre.*
+—Por... lo nuevo —susurró ella.
 
-Pero las palabras no salieron.
+Rosa María llevó la copa a sus labios. Sus manos temblaban ligeramente. Sabía, con una certeza absoluta y aterradora, que si bebía eso, no habría vuelta atrás. Que la Rosa María del moño y los zapatos beige moriría en esa cocina.
 
-El enólogo se dio la vuelta y comenzó a alejarse. A medio camino, se detuvo sin girarse.
+Miró a Eduardo. Tan seguro. Tan aburrido. Tan... pequeño.
+Miró el vino. Oscuro. Profundo. Prometedor.
 
-—Por cierto, señora Mendoza... el rojo le sentaría mucho mejor que el beige. Combina más con... lo que lleva dentro.
+*"Lo que lleva dentro"*, había dicho el vecino.
 
-Y desapareció dentro de su casa antes de que ella pudiera procesar lo que acababa de decir.
+Abrió la boca y dejó que el líquido entrara.
+No bajó como vino. Bajó como lava. Quemó su lengua, su garganta, su esófago, y se asentó en su estómago como una brasa ardiente.
+Cerró los ojos.
+Esperó el dolor.
+Pero lo que llegó fue... poder.
 
-—¡Qué vecino más simpático! —comentó Eduardo, completamente encantado—. Será agradable tener a alguien culto al lado. ¿Vienes, Rosa?
+Una ola de calor subió desde su vientre, irradiando hacia sus extremidades. Sus terminaciones nerviosas se encendieron. El roce de la silla contra sus piernas se sintió exquisito. El sonido de su propia respiración sonó como un gemido.
 
-Ella no respondió. Seguía mirando la casa del vecino. Las ventanas estaban completamente oscuras —no había luz adentro, ni movimiento, nada que sugiriera vida humana normal. Solo oscuridad absoluta.
+Abrió los ojos.
+La cocina parecía más brillante. Los colores más saturados.
+Miró a Eduardo. Y por primera vez en años, no vio a su esposo.
+Vio a un hombre débil. Vio a una presa. Vio a un accesorio necesario pero patético.
 
-*¿Cómo puede ver ahí dentro?*
+—Está fuerte —dijo Eduardo, tosiendo un poco—. ¿Te gusta?
 
-—¿Rosa?
+Rosa María sonrió. No su sonrisa de esposa. Una sonrisa nueva, depredadora, que mostraba demasiados dientes. Pasó su lengua por sus labios, saboreando el residuo metálico y dulce del vino.
 
-—Voy —dijo finalmente, obligando a sus piernas a moverse—. Eduardo... ese hombre... ¿no te pareció... extraño?
+—Me encanta, cariño —dijo, y su voz goteaba una sensualidad ronca que hizo que Eduardo la mirara confundido—. Sírveme otra. Llénala.
 
-—¿Extraño? —su marido parecía genuinamente confundido—. Me pareció muy agradable. Un poco reservado, quizás, pero culto. ¿Por qué lo dices?
-
-Rosa María miró la botella en sus manos. El líquido oscuro parecía moverse por sí solo, como si algo nadara en sus profundidades.
-
-—Por nada —mintió—. Debe ser el cansancio de la mudanza.
-
-Pero esa noche, cuando Eduardo propuso abrir el vino, Rosa María dudó. La voz de advertencia en su cabeza seguía gritando. Recordaba los ojos vacíos del enólogo, su sonrisa de depredador, la frialdad antinatural de su piel.
-
-*No lo bebas.*
-
-Pero también recordaba otra cosa. La forma en que la había mirado. Como si viera algo que ella llevaba años escondiendo incluso de sí misma. Algo hambriento. Algo salvaje.
-
-*"Lo que lleva dentro"*, había dicho.
-
-¿Y si tenía razón?
-
-—Solo una copa —dijo finalmente.
-
-Eduardo descorchó la botella. El aroma que emergió era embriagador: frutas maduras al borde de la putrefacción, especias exóticas, y algo más... algo que olía a posibilidad. A cambio. A todo lo que su vida no había sido.
-
-El primer sorbo fue como fuego líquido bajando por su garganta. Rosa María cerró los ojos mientras el calor se expandía por su pecho, sus brazos, su vientre. Era delicioso de una manera que no podía describir.
-
-Cuando abrió los ojos, el mundo parecía diferente. Los colores más vivos. Los sonidos más definidos. Y por primera vez en años, se dio cuenta de que estaba sonriendo de verdad.
-
-Los sueños que vinieron después fueron oscuros y dulces. Espejos y reflejos. Versiones de sí misma que nunca había considerado. Y en el centro de todo, la voz del enólogo susurrando:
-
-*"Lo que siempre quisiste ser. Lo que siempre fuiste. Roxy."*
-
-No era una advertencia.
-
-Era una promesa.
-
-Afuera, en la oscuridad del jardín vecino, el enólogo observaba la ventana iluminada. Su sonrisa era la de alguien que sabe exactamente cómo terminará una historia que apenas comienza.
+Afuera, en la oscuridad, una risa suave se mezcló con el viento. La cosecha había comenzado.
 
 ---
 
-**Palabras del capítulo:** ~1,420
+**Palabras:** ~1150
+**Estado:** Invocación Completada.
+**Estado:** Invocación Completada.

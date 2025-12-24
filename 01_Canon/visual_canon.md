@@ -16,17 +16,18 @@
 ## 👑 Anaïs Belland
 
 ### Referencia Visual
-- **Estética:** Dominatrix aristócrata francesa glamorosa
-- **Cabello:** RUBIO MIEL, ondas vintage impecables
-- **Vestimenta:** Negro satén y encaje, corsés estructurados
+- **Estética:** Dominatrix aristócrata francesa con SENSUALIDAD OLD HOLLYWOOD (vibra Betty Page clásica)
+- **Cabello:** RUBIO MIEL, ondas vintage suaves y voluminosas
+- **Vestimenta:** Lencería de seda, batas transparentes, corsés de lujo, estilo "Pin-up Aristocrática"
 - **Accesorios fetichistas de lujo:** Choker de cuero fino, guantes de ópera encaje, boquilla de plata, látigo de cuero labrado
 - **Tacones:** So Kate 12cm negros brillantes
-- **Ambiente:** Salón de palacio francés con candelabros
+- **Ambiente:** Salón de palacio francés con candelabros, ambientes de lujo clásico
+- **Referencia de Actitud:** Sensualidad juguetona pero intocable, lujo desbordante, "Rich Girl" vintage
 
 ### Actitud Escénica (Pilares 1, 2, 4)
-- **Control Dominante:** No actúa "para" la audiencia — existe en su propio poder
-- **Rostro de Poder:** Expresión aristocrática, indiferencia fría o satisfacción cruel
-- **Alter Ego Aristocrático:** Movimientos pausados, elegantes, superioridad natural
+- **Sensualidad Clásica:** Pícara, segura, magnética (estilo Betty Page)
+- **Rostro de Poder:** Sonrisa de suficiencia, mirada ardiente "sultry", labios atractivos
+- **Alter Ego Aristocrático:** Lujo natural, no se esfuerza, ella ES el deseo
 
 ---
 

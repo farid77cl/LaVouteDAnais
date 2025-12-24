@@ -18,7 +18,7 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 | Personaje | Antes | Después |
 |-----------|-------|---------|
 | **Rosa María** (42) | Esposa conservadora, ama de casa | **Roxy** — MILF cougar, animal print, cazadora de jóvenes |
-| **[Esposo]** (44) | Profesional, proveedor, convencional | Sumiso cornudo, financiador de los cambios de Roxy |
+| **Eduardo** (44) | Profesional, proveedor, convencional | Sumiso cornudo, financiador, **solo se corre con relatos de infidelidad** |
 | **[Hija]** (21) | Estudiante universitaria brillante | Bimbo tonta, stripper, cerebro vacío |
 
 ### Secundarios
@@ -47,66 +47,65 @@ Una familia convencional se muda a un nuevo vecindario donde un misterioso vecin
 
 ---
 
-### Capítulo 2: La Primera Copa
+### Capítulo 2: El Rechazo (El Vino Actúa)
 **Palabras estimadas:** 800-1000
 
 **Contenido:**
-- La pareja bebe el vino juntos
-- Descripción sensorial del vino (color, sabor, calor)
-- Sueños extraños esa noche
-- Rosa María despierta sintiéndose "diferente"
-- Primeros cambios sutiles (se mira más en el espejo)
+- Beben el vino. Esa misma noche, efectos inmediatos.
+- Rosa María amanece sintiendo una **líbido agresiva y desconocida**.
+- Se mira al espejo y se ve "gris". Compra compulsivamente ropa provocativa online con la tarjeta de Eduardo.
+- **Eduardo intenta iniciar sexo esa noche.**
+- **Rosa María lo rechaza con una risa cruel:** "Ni se te ocurra tocarme con eso".
+- Eduardo se siente humillado, pero esa humillación le provoca una erección confusa.
+- Ella duerme sola (o lo manda al sofá).
 
-**Punto de inflexión:** Rosa María compra su primera prenda de animal print.
+**Punto de inflexión:** El rechazo sexual establece la jerarquía. Ella manda, él obedece.
 
 ---
 
-### Capítulo 3: El Despertar de Roxy
+### Capítulo 3: La Cacería (La Primera Salida)
 **Palabras estimadas:** 1000-1200
 
 **Contenido:**
-- Rosa María empieza a cambiar su guardarropa
-- Más maquillaje, más escotes, más tacones
-- **Intenta tener sexo con su esposo — él no logra erección**
-- Rosa María frustrada, necesidades sexuales crecientes cada día
-- Empieza a masturbarse frecuentemente pero no es suficiente
-- Segunda botella del vino aparece en la puerta
-- Rosa María se tiñe el pelo de rojo
+- Transformación física inicial: Pelo rojo fuego, maquillaje excesivo. Se hace llamar **Roxy**.
+- La frustración sexual de Roxy es insoportable. Le dice a Eduardo: "Necesito un hombre de verdad, no tú".
+- **Eduardo, roto pero excitado, le da las llaves del auto:** "Ve".
+- Roxy sale vestida de leopardo a un bar de hotel.
+- Eduardo se queda en casa, imaginando, tocándose pero sin permitirse terminar.
 
-**Punto de inflexión:** Rosa María pide que la llamen "Roxy" — y decide buscar afuera lo que no encuentra en casa.
+**Punto de inflexión:** Eduardo facilita activamente la infidelidad.
 
 ---
 
-### Capítulo 4: La Cacería Comienza
+### Capítulo 4: El Relato (La Nueva Llave del Placer)
 **Palabras estimadas:** 1000-1200
 
 **Contenido:**
-- Primera salida de Roxy a un bar de moda (va de cacería por frustración sexual)
-- Caza a su primera "presa" (hombre joven de 25)
-- Sexo con extraño (descripción sensual, no explícita)
-- Regresa a casa satisfecha, diferente
-- **El esposo se da cuenta de que Roxy tuvo sexo con otro**
-- **Solo pensarlo le provoca una pequeña erección**
-- **Se masturba y se corre rápidamente — vergüenza y excitación**
+- Roxy regresa de madrugada, oliendo a sexo y perfume barato de hombre.
+- Eduardo la espera despierto, patético y ansioso.
+- En lugar de ocultarlo, Roxy se lo restriega: **"Fue increíble. Mucho más grande que tú."**
+- **La Revelación:** Eduardo le ruega por detalles. "Dímelo todo".
+- Roxy narra el encuentro con crueldad gráfica.
+- **Eduardo se masturba frenéticamente mientra ella habla.**
+- **Solo cuando ella describe el orgasmo con el otro, permite que Eduardo se corra.**
 
-**Punto de inflexión:** Primera dinámica cuckold establecida — el esposo descubre que le excita ser cornudo.
+**Punto de inflexión:** Se establece el mecanismo: Eduardo SOLO tiene placer a través de las palabras de Roxy.
 
 ---
 
-### Capítulo 5: El Precio del Placer
+### Capítulo 5: El Contrato Tácito (Estabilidad Perversa)
 **Palabras estimadas:** 800-1000
 
 **Contenido:**
-- Roxy quiere implantes, ropa cara, joyas
-- El esposo financia todo sin cuestionar
-- **El esposo SABE de las andanzas de Roxy**
-- **Sabe que todos esos cambios físicos son para otros hombres**
-- **Pero aún así ESO lo excita — logra pequeñas erecciones que aprovecha para masturbarse y correrse**
-- Primera cirugía (implantes de pecho)
-- El esposo encuentra placer perverso en ser el "proveedor invisible" de los placeres de otros
-- Más vino, más cambios en ambos
+- Salto de tiempo (un par de semanas). La dinámica es rutina.
+- Roxy es una adicta al sexo total. Tiene una "rotación" de amantes jóvenes.
+- Eduardo es una máquina de trabajar para pagar los caprichos de Roxy.
+- **Escena clave:** Roxy quiere implantes de senos masivos (Bimbofication fase 2).
+- Le presenta la factura a Eduardo. Él firma el cheque sin dudar.
+- Mientras firma, le pregunta: "¿Cómo es el chico nuevo del gimnasio?"
+- Ella sonríe, guarda el cheque y empieza a hablar. Él baja la mano a su pantalón.
 
-**Punto de inflexión:** El esposo acepta oficialmente su rol de cornudo financiador.
+**Punto de inflexión Dinámica Sellada:** Ella es la Diosa/Puta, él es el Cajero/Público. No hay vuelta atrás.
 
 ---
 

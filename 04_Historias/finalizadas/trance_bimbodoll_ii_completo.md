@@ -2343,7 +2343,7 @@ Entonces funcionó.
 
 Escríbeme. Cuéntame qué tan hondo caíste esta vez.
 
-**anais.belland@lavoute.com**
+**anais.belland@outlook.com**
 
 Con devoción oscura,
 *Anaïs Belland* 🖤

@@ -1,147 +1,80 @@
 # El Vino del Vecino
 
-## Capítulo 3: El Despertar de Roxy
+## Capítulo 3: La Cacería
 
-Una semana. 
+Los paquetes llegaron dos días después. Cajas negras discretas de boutiques online que Rosa María nunca había visitado antes.
 
-En siete días, Rosa María Contreras de Mendoza había dejado de existir. 
+Eduardo las vio apiladas en la entrada cuando llegó del trabajo. No preguntó cuánto habían costado. Había visto las notificaciones del banco en su teléfono. Cada una había sido un golpe en el estómago que, inexplicablemente, lo había dejado sin aliento y con una extraña pesadez en la ingle.
 
-No oficialmente, por supuesto. Todavía firmaba cheques con su nombre de casada, todavía respondía cuando Eduardo la llamaba "Rosa", todavía llevaba la alianza de oro en el dedo correcto. Pero por dentro, en el espacio secreto donde las mujeres guardan sus deseos prohibidos, alguien nuevo había tomado residencia.
+Rosa María bajó las escaleras.
 
-*Roxy.*
+Eduardo dejó caer su maletín.
 
-El nombre palpitaba en su mente como un segundo corazón. Y con cada copa de vino —porque ahora bebía todas las noches, a veces sin Eduardo, a veces sin darse cuenta de que ya iba por la tercera— ese corazón latía más fuerte.
+Ya no era Rosa María.
+El cabello castaño y triste había desaparecido. Ahora era una melena salvaje, cardada, de un rojo violento que parecía gritar peligro. Sus labios estaban pintados de un carmesí húmedo que hacía juego con sus uñas, ahora largas y afiladas como garras.
 
-Los cambios habían comenzado sutiles, pero ya no podía ignorarlos. El espejo del baño le mostraba transformaciones que desafiaban la biología. Sus labios, antes finos y discretos, parecían haberse hinchado como si algo los estuviera rellenando desde dentro. Su piel había adquirido un brillo que ninguna crema podría explicar. Y su cabello...
+Pero fue la ropa lo que le secó la garganta.
+Llevaba un vestido de leopardo que parecía pintado sobre su cuerpo. El escote se hundía vertiginosamente, mostrando el nacimiento de unos pechos que parecían más llenos, más altos, ofrecidos como fruta madura. Y los zapatos... tacones dorados de doce centímetros que arqueaban sus pies en una postura de tensión permanente.
 
-Se lo había teñido de rojo el día anterior. Rojo fuego. Rojo pasión. Rojo como la sangre de una presa recién cazada.
+—¿Te gusta? —preguntó ella. No buscaba aprobación. Buscaba adoración.
 
-Y había empezado a fumar.
+—Rosa... —susurró él—. Estás... te ves...
 
-No los cigarrillos baratos de su juventud universitaria —aquellos que fumaba a escondidas detrás del edificio de letras—, sino unos largos y delgados, negros con filtro dorado, que había encontrado en una tienda que no recordaba haber visitado. Los sostenía entre los dedos como lo haría una actriz de los años cuarenta, dejando que el humo se enredara en su cabello rojo como las caricias de un amante fantasma.
+—Me veo como una mujer —lo cortó—. No como la sirvienta que tienes contratada por matrimonio.
 
-—Rosa, amor, ¿vienes a cenar? —la voz de Eduardo subió por las escaleras.
+Caminó hacia él. El *clic-clic-clic* de sus tacones sobre el parqué fue un conteo regresivo.
+Se detuvo a centímetros de él. Olía a perfume caro y fuerte, algo que picaba en la nariz y despertaba instintos básicos.
 
-*Roxy*, corrigió mentalmente. *Mi nombre es Roxy.*
+—Me voy —anunció.
 
-—En un momento —respondió, y su voz había adquirido un registro más grave, más ronco. Como si años de deseo reprimido estuvieran raspando su garganta al salir.
+—¿A... a dónde? —balbuceó Eduardo. Eran las nueve de la noche de un martes.
 
-Se observó una vez más en el espejo de cuerpo completo. El vestido de leopardo que había comprado le quedaba como una segunda piel, revelando cada curva que antes escondía con vergüenza. Los tacones de doce centímetros —había subido de los diez iniciales— hacían que sus piernas parecieran interminables. El escote mostraba más de lo que jamás había mostrado fuera de un dormitorio.
+—A cenar. A bailar. A vivir.
 
-*Eres hermosa*, susurró la voz que ya no la asustaba. *Siempre lo fuiste. Solo necesitabas liberarte.*
+—¿Con quién?
 
-Bajó las escaleras con pasos lentos, estudiados. El clic de sus tacones resonaba como un metrónomo marcando el ritmo de una melodía nueva.
+Rosa María soltó una risa seca y cruel.
+—Con quien sea lo suficientemente hombre para aguantarme el ritmo.
 
-Eduardo la esperaba en el comedor. Había preparado la cena él mismo —algo que jamás había hecho en veintidós años de matrimonio—, y la mesa estaba puesta con las velas que Rosa María solía usar para ocasiones especiales. Cuando la vio bajar, el tenedor que sostenía cayó ruidosamente sobre el plato.
+El silencio se estiró. Eduardo debería haber gritado. Debería haberle prohibido salir. Debería haber exigido respeto.
+Pero miró el escote de su esposa. Miró la curva depredadora de su cadera bajo la tela de leopardo. Imaginó, con una claridad dolorosa, a otros hombres mirando eso mismo. Otros hombres tocando eso.
 
-—Rosa... —tragó saliva, poniéndose de pie con nerviosismo—. Yo... te preparé tu plato favorito. ¿Está bien? Puedo hacer otra cosa si...
+Y sintió *el tirón*.
+Esa pequeña, vergonzosa y eléctrica sacudida en su miembro.
+Le excitaba que ella se fuera. Le excitaba que ella buscara a otros.
 
-—¿Te gusta? —ronroneó ella, deslizándose hacia su silla con un movimiento de caderas que había aprendido de algún lugar oscuro de sus sueños.
+Rosa María vio el cambio en sus ojos. Vio la derrota. Y vio el deseo.
+Sonrió.
 
-—Yo... es diferente. Muy diferente.
-
-Le sostuvo la mirada mientras se sentaba. Cruzó las piernas lentamente, dejando que la abertura del vestido revelara más muslo del necesario.
-
-—Diferente bueno o diferente malo?
-
-—Diferente... —Eduardo se aflojó el cuello de la camisa, bajando la mirada como un perro regañado—. ...intenso. Pero hermoso. Estás hermosa. Lo que tú quieras está bien.
-
-Ella sonrió. Era la sonrisa de Roxy, no de Rosa María. Dientes como perlas entre labios de criminal.
-
-Sacó un cigarrillo del paquete negro que ahora vivía en su bolso y lo encendió sin pedir permiso. Eduardo abrió la boca como para protestar, pero algo en los ojos de Roxy lo detuvo. En cambio, se levantó a buscar un cenicero.
-
-—No sabía que fumabas —murmuró mientras lo colocaba frente a ella con manos que temblaban ligeramente.
-
-Roxy exhaló el humo hacia el techo, observando cómo las volutas se retorcían en el aire.
-
-—Desde que dejé de ser aburrida —respondió, y le dio otra calada profunda mientras lo miraba a través del humo con ojos de depredador.
-
-Durante la cena, Rosa María —*Roxy*— observó a su esposo con ojos nuevos. Eduardo era un hombre decente. Un buen proveedor. Predecible, seguro, aburrido. El tipo de hombre que una mujer como Rosa María se suponía que debía querer.
-
-Pero Roxy quería algo diferente.
-
-Después de la cena, subieron al dormitorio. Eduardo intentó besarla, como siempre, con ese beso de esposo que había perdido toda pasión hace años.
-
-—Espera —la voz de Roxy salió grave, lenta, cada sílaba dibujada en el aire como humo—. Esta... noche... solo... mira.
+—Las llaves —dijo, extendiendo la mano con la palma abierta.
 
 —¿Qué?
 
-Se alejó de él, caminando hacia el centro de la habitación con pasos medidos. Sus tacones resonaban contra el suelo de madera como latidos de un corazón oscuro. 
+—Las llaves de tu auto. El mío es una minivan de mamá. No combina con esto —se señaló el cuerpo—. Quiero tu convertible.
 
-Se detuvo frente al espejo de cuerpo completo, dándole la espalda, y comenzó a desvestirse con una lentitud hipnótica. Primero, bajó un tirante del vestido de leopardo, dejando que la tela resbalara sobre su hombro desnudo. Después el otro. El vestido cayó al suelo como una serpiente mudando su piel.
+Eduardo tembló. Entregarle el auto era entregarle el medio para su adulterio. Era financiar su propia humillación.
+Lentamente, metió la mano en el bolsillo. Sacó el llavero.
+Sus dedos rozaron la palma de ella al entregárselo.
 
-Debajo, la lencería era nueva: un conjunto de encaje negro que apenas contenía sus curvas. El sujetador de media copa empujaba sus pechos hacia arriba, creando un escote que invitaba a perderse. Las bragas eran apenas un triángulo de tela oscura sobre sus caderas, con lazos a los lados que prometían deshacerse con un solo tirón. El liguero —porque ahora usaba liguero, como las mujeres de los sueños prohibidos— sostenía medias negras de red que ascendían por sus muslos.
+—No me esperes despierto —dijo ella, cerrando el puño sobre las llaves.
 
-Su cuerpo había cambiado. Eduardo podía verlo incluso a la luz de las velas. La cintura parecía más estrecha, las caderas más pronunciadas, los pechos más llenos de lo que recordaba. El vino —o lo que fuera que contenía— estaba esculpiendo a su esposa en algo nuevo. Algo peligroso. Algo hermoso.
+—Rosa... —él la agarró suavemente del brazo—. Ten... ten cuidado.
 
-Su piel brillaba como marfil bañado en miel. El cabello rojo caía sobre sus hombros desnudos como llamas congeladas. Y sus labios —esos labios que ahora parecían más gruesos, más carnosos— dibujaban una sonrisa que prometía pecados.
+Ella se soltó con un movimiento brusco. Se inclinó hacia él, sus labios rozando su oreja.
+—No quiero tener cuidado, Eduardo. Quiero que me rompan.
 
-Se giró lentamente hacia Eduardo, dejando que sus ojos recorrieran su propio cuerpo en el reflejo.
+Se dio la vuelta y salió.
 
-—¿Te gusta... lo que ves? —susurró, y cada palabra era una caricia de terciopelo negro.
+Eduardo se quedó de pie en el pasillo, escuchando el rugido del motor de su auto alejándose.
+Estaba solo.
+Estaba humillado.
+Y estaba más duro que en toda la última década.
 
-Eduardo la miraba paralizado desde la cama. Tragaba saliva. Sus manos temblaban sobre las sábanas. Pero abajo, donde debería haber señales de deseo, no había... nada.
+Corrió a la ventana. Vio las luces rojas traseras desaparecer en la noche, llevando a su esposa hacia brazos desconocidos.
+Se llevó la mano al pantalón, apretando su propia erección a través de la tela. Cerró los ojos y gimió.
 
-Roxy caminó hacia él. Se arrodilló en la cama, gateando sobre las sábanas como una felina. Pasó una uña por el pecho de Eduardo, bajando lentamente hacia su cinturón.
-
-—Quiero... sentirte —ronroneó, cada palabra separada por pausas que parecían eternidades—. Quiero... que me llenes.
-
-Desabrochó el cinturón. Bajó la cremallera. Y encontró exactamente lo que temía: Eduardo estaba completamente flácido.
-
-—Lo siento, lo siento mucho —la voz de él se quebró—. Por favor, perdóname. Haré lo que quieras. ¿Un vino? ¿Un masaje? Lo que sea...
-
-Roxy no respondió. En cambio, tomó la mano de Eduardo y la llevó hacia su propio cuerpo —hacia la curva de su cadera, hacia el encaje que cubría su sexo húmedo.
-
-—Tócame —ordenó, grave, lenta—. Si no puedes darme lo que necesito... al menos... hazme sentir.
-
-Los dedos de Eduardo temblaban contra su piel. Sus movimientos eran torpes, inseguros, los de un hombre que había olvidado cómo dar placer. Roxy cerró los ojos, intentando concentrarse en la sensación, pero el fuego en su vientre exigía más de lo que esas manos temblorosas podían ofrecer.
-
-La frustración creció como una ola negra.
-
-—Basta —dijo finalmente, apartando su mano.
-
-Eduardo se encogió en la cama, murmurando disculpas que ella ya no escuchaba. Porque Roxy había tomado una decisión.
-
-Si él no podía satisfacerla, se satisfaría ella misma.
-
-Se recostó en la cama, a centímetros de su esposo, sin mirarlo. Sus propios dedos bajaron hacia el encaje negro, encontrando la humedad que él había sido incapaz de provocar de otra manera. Deslizó la tela a un lado y comenzó a tocarse.
-
-No fue discreto. No fue silencioso. No fue con vergüenza.
-
-Roxy se acarició como si estuviera sola en la habitación. Sus dedos encontraron el ritmo que necesitaba. Sus caderas se arquearon contra su propia mano. Gemidos graves, profundos, escaparon de sus labios pintados.
-
-A su lado, Eduardo observaba paralizado. No sabía si debía irse, quedarse, o pedir disculpas de nuevo. Así que solo miró, impotente en todos los sentidos, mientras su esposa se daba placer sin necesitarlo.
-
-Roxy pensó en hombres que no eran Eduardo. Hombres jóvenes con cuerpos duros. Manos firmes que sabrían exactamente dónde tocar. Bocas hambrientas que la devorarían.
-
-El orgasmo la atravesó como un relámpago, haciéndola arquearse contra las sábanas con un gemido que resonó en toda la habitación. Pero cuando la ola pasó, la saciedad no llegó.
-
-Solo más hambre.
-
-*Esto*, susurró la voz del enólogo, *es solo el comienzo.*
-
-Roxy giró la cabeza y miró a Eduardo, que seguía paralizado, con los ojos abiertos y algo húmedo brillando en sus mejillas. ¿Lágrimas? ¿Vergüenza? No le importó.
-
-—Puedes dormir ahora —dijo, su voz aún grave, aún lenta—. Ya terminé.
-
-Esa noche, después de que Eduardo se durmiera —acurrucado en el borde de la cama, como si no mereciera ocupar más espacio—, Roxy se quedó despierta. Su mano volvió a bajar hacia su sexo. Dos veces más antes del amanecer.
-
-Había descubierto algo: no necesitaba a nadie para sentir placer. Pero quería más. Mucho más de lo que sus propios dedos podían darle.
-
-A la mañana siguiente, encontró otra botella en la puerta. La nota decía simplemente: *"Es hora de cazar."*
-
-Roxy la sostuvo contra su pecho como si fuera un regalo de un amante. Porque quizás eso era exactamente lo que era.
-
-Esa tarde, mientras Eduardo trabajaba en su oficina, Roxy se vistió con el vestido rojo, se pintó los labios del color de la sangre, y encendió un cigarrillo frente al espejo. Observó su reflejo mientras el humo ascendía: una mujer de rojo y fuego, con labios de pecado y ojos de caza.
-
-*Rosa María está muerta*, pensó. *Larga vida a Roxy.*
-
-—Llámame Roxy —dijo en voz alta, probando el nombre en sus labios—. De ahora en adelante, mi nombre es Roxy.
-
-El reflejo le sonrió de vuelta con hambre en los ojos.
-
-Era hora de ir de cacería.
+Afuera, en la casa de al lado, una cortina se movió ligeramente. El enólogo observaba, copa en mano, brindando por la puerta que acababa de abrirse y que nunca más podría cerrarse.
 
 ---
-
-**Palabras del capítulo:** ~1,040
+**Palabras:** ~700
+**Estado:** Complicidad establecida.
