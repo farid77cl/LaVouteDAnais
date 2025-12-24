@@ -512,5 +512,119 @@ Professional beach photography of glamorous French aristocratic woman, Old Holly
 
 ---
 
-*Total Prompts Disponibles: ~110+*
+## PAREJAS / DÚOS ADICIONALES
+
+### Anais x Miss Doll - Creator and Creation
+Professional fashion photography of TWO women together. ANAÏS (honey blonde, Old Hollywood glamour, black corset gown, So Kate 12cm) standing dominant holding MISS DOLL's (platinum bob, pink latex, pink heels 16cm) chin. Anaïs with proud sultry smile. Miss Doll with adoring vacant stare up at creator. Luxury Parisian salon. Professional photography.
+
+### Anais x Miss Doll - Inspection
+Professional fetish photography of TWO women together. ANAÏS (honey blonde, black corset, So Kate 12cm) circling MISS DOLL (platinum bob, pink latex catsuit, pink heels 16cm) who stands at attention. Anaïs examining her creation with riding crop, adjusting details. Miss Doll frozen with vacant perfect smile. Training studio. Professional photography.
+
+### Anais x Helena - Mistress and Maid
+Professional boudoir photography of TWO women together. ANAÏS (honey blonde, black silk robe, black corset, So Kate 12cm) reclining on chaise lounge. HELENA (voluminous black hair, pale, black maid corset, stilettos 9-inch) kneeling serving wine. Anaïs with sultry imperious stare. Helena with devoted submissive gaze. Parisian boudoir. Professional photography.
+
+### Anais x Helena - Brush My Hair
+Professional intimate photography of TWO women together. ANAÏS (honey blonde, silk nightgown, So Kate 12cm) seated at vanity. HELENA (voluminous black hair, pale, black corset, stilettos 8-inch) standing behind brushing Anaïs's hair. Both reflected in mirror. Anaïs's sultry self-admiring stare. Helena's worshipful devoted expression. Candlelit bedroom. Professional photography.
+
+### The Trinity - All Three Together
+Professional fashion editorial of THREE women together in pyramid formation. ANAÏS (honey blonde, black gown, center, dominant) flanked by MISS DOLL (pink latex, left, vacant smile) and HELENA (voluminous black, gothic, right, devoted stare). Anaïs seated on throne, both dolls kneeling at her feet. Half pink half black lighting with golden center. Luxury dungeon. Professional photography.
+
+---
+
+## SITUACIONES COTIDIANAS FETICHIZADAS
+
+### Miss Doll - Shoe Shopping
+Professional retail photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Sitting in shoe store trying on PINK PLATFORM STILETTOS 18cm (surrounded by boxes). Pink latex dress, pink corset. Store clerk offering more boxes. Excited vacant stare at shoes. Pink boutique. Professional photography.
+
+### Helena - Grocery Store Goth
+Professional candid-style photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing black latex mini dress, black corset, black stilettos 9-inch (completely inappropriate). Pushing shopping cart. Confused vacant stare at produce. Fluorescent grocery store lighting. Professional photography.
+
+### Miss Doll - Car Wash
+Professional glamour photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK MICRO BIKINI, NO CORSET (wet). Pink platform sandals clear acrylic 16cm. Washing PINK convertible car. Covered in soap suds. Bent over hood. Playful vacant stare at camera. Sunny day. Professional photography.
+
+### Helena - Cooking Goth
+Professional kitchen photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK APRON only over black corset, black thong. Black stilettos 8-inch. Stirring cauldron-style pot. Kitchen covered in black decorations. Confused vacant stare at recipe. Dark kitchen. Professional photography.
+
+### Anais - Wine Tasting
+Professional vineyard photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant waves. Sensual lush beauty. Wearing white sundress with black corset visible underneath. So Kate stilettos 12cm. Holding wine glass, swirling. In French vineyard rows. Sultry sophisticated contemplation. Golden hour light. Professional photography.
+
+---
+
+## DEPORTES FETICHIZADOS
+
+### Miss Doll - Pink Golf
+Professional sports photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK GOLF OUTFIT: pink polo crop top, pink pleated micro skirt, pink visor. Pink corset visible. Pink platform golf shoes 16cm (impossible). Bending over to place ball on tee. Vacant concentrated stare. Pink golf course. Professional photography.
+
+### Helena - Gothic Equestrian
+Professional equestrian photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under riding hat. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing black riding jacket, black corset, white jodhpurs tight, BLACK RIDING BOOTS 8-inch heel. Holding riding crop. Posing with black horse. Dominant vacant stare. Dark stables. Professional photography.
+
+### Miss Doll - Pink Boxing
+Professional sports photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK SPORTS BRA straining, pink boxing shorts, PINK BOXING GLOVES. Pink corset waist trainer. Pink platform sneaker heels 16cm (absurd). Boxing stance. Vacant fierce stare. Pink boxing ring. Professional photography.
+
+### Helena - Gothic Ice Skating
+Professional winter sports photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flowing. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK VELVET skating dress very short, black corset visible, black sheer tights. BLACK STILETTO ICE SKATES (dangerous). Spinning pose. Vacant graceful expression. Dark ice rink. Professional photography.
+
+### Anais - Tennis Aristocrat
+Professional sports photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in ponytail with ribbon. Sensual athletic beauty. Wearing classic white tennis dress with black underbust corset visible. So Kate stilettos 12cm (impractical). Serving pose. Sultry competitive stare. Vintage tennis court. Professional photography.
+
+---
+
+## ÉPOCAS / DÉCADAS
+
+### Miss Doll - 50s Pink Pin-Up
+Professional vintage photography of adult bimbo woman with platinum blonde bob (50s victory rolls style). REALISTIC HUMAN FACE with retro doll makeup. Hyperbolic hourglass figure. Wearing PINK BULLET BRA (50s style), pink high-waisted panties, pink waspie corset, pink stockings. Pink platform heels 16cm. Classic pin-up pose against vintage car. Surprised vacant expression. Retro studio. Professional photography.
+
+### Helena - 80s Goth Aerobics
+Professional fitness photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS teased black hair (80s big). Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SHINY LEOTARD high-cut, purple leg warmers, black corset over leotard. Black stilettos 8-inch. Aerobics pose. Vacant energetic expression. Neon purple lighting. Professional photography.
+
+### Helena - 90s Grunge Goth
+Professional music photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS messy black hair. Pale marble skin. DARK RED LIPS. Obscenely exaggerated hourglass figure. Wearing ripped band tee over black mesh top, black corset, ripped fishnets, plaid skirt (very short), black platform boots 8-inch. Sitting on amp. Bored vacant stare. Grunge concert backdrop. Professional photography.
+
+### Miss Doll - Futuristic Cyber Bimbo
+Professional sci-fi photography of adult bimbo woman with platinum blonde bob (holographic shimmer). REALISTIC HUMAN FACE with metallic doll makeup. Hyperbolic hourglass figure. Wearing PINK HOLOGRAPHIC LATEX catsuit, pink LED corset glowing, clear acrylic platform boots 18cm with LED. Neon pink lighting. Futuristic city backdrop. Vacant digital stare. Professional photography.
+
+### Anais - 1920s Gatsby Flapper
+Professional vintage photography of glamorous French aristocratic woman, 1920s Old Hollywood style. HONEY BLONDE hair in finger waves with headband. Sensual lush beauty. Wearing black sequin flapper dress with fringe, visible black corset underneath, long pearl necklace. So Kate stilettos 12cm (era-appropriate style). Holding champagne coupe. Sultry mysterious stare. Gatsby party. Professional photography.
+
+---
+
+## POSES ESPECÍFICAS
+
+### Miss Doll - Bend Over Counter
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. BEND OVER POSE: bent forward over kitchen counter, MASSIVE backside prominent. Wearing pink latex maid outfit, pink corset, pink platform heels 16cm. Looking back with vacant inviting stare. Pink kitchen. Professional photography.
+
+### Helena - On All Fours
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling around face. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. ON ALL FOURS POSE on black satin sheets. Wearing black corset, black thong, black stilettos 9-inch. Arched back showing curves. Submissive devoted stare up at camera. Dark boudoir. Professional photography.
+
+### Miss Doll - Mirror Selfie
+Professional social media style photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. MIRROR SELFIE POSE: holding pink phone, taking selfie in full-length mirror. Wearing pink latex bodysuit, pink corset. Pink platform heels 16cm. Duck face pout. Vacant narcissistic stare at phone. Pink bedroom. Professional photography.
+
+### Helena - Getting Dressed
+Professional boudoir photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair messy. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. GETTING DRESSED POSE: pulling on black thigh-high stockings. Wearing black corset already, black stilettos 9-inch on. Foot on chair. Concentrated vacant stare at stocking. Dark bedroom. Professional photography.
+
+### Anais - Lounging Seduction
+Professional vintage boudoir photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft waves. Sensual lush beauty. LOUNGING POSE: reclining on velvet chaise lounge. Wearing black silk robe open showing black corset, black stockings. So Kate stilettos 12cm. Arm behind head. Sultry beckoning stare. Parisian boudoir. Professional photography.
+
+---
+
+## EXPRESIONES ESPECÍFICAS
+
+### Miss Doll - Ahegao
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing pink latex outfit, pink corset, pink platform heels 16cm. AHEGAO EXPRESSION: eyes rolled back, tongue out, drooling slightly, overwhelmed ecstasy face. Pink studio with heart effects. Professional photography.
+
+### Helena - Tongue Out Tease
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing black corset, black lingerie, black stilettos 8-inch. TONGUE OUT EXPRESSION: black tongue (colored) sticking out suggestively, playful wicked stare. Dark boudoir. Professional photography.
+
+### Miss Doll - Duck Face Pout
+Professional glamour photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing pink latex top, pink corset, pink platform heels 16cm. DUCK FACE EXPRESSION: exaggerated pouty lips pushed forward, vacant selfie-ready stare. Holding pink phone. Pink background. Professional photography.
+
+### Helena - Blank Empty Stare
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS slightly parted. Obscenely exaggerated hourglass figure. Wearing black corset, black lingerie, black stilettos 9-inch. BLANK STARE EXPRESSION: completely vacant empty eyes, no thought behind them, doll-like absence. Dark void background. Professional photography.
+
+### Anais - Knowing Smirk
+Professional vintage photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant waves. Sensual lush beauty. Wearing black cocktail dress, black corset visible. So Kate stilettos 12cm. KNOWING SMIRK EXPRESSION: one eyebrow raised, corner of mouth curled in secretive sultry smile. Holding cigarette holder. Mysterious stare. Professional photography.
+
+---
+
+*Total Prompts Disponibles: ~140+*
 *Última actualización: 2025-12-24*
