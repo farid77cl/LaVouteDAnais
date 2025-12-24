@@ -160,7 +160,35 @@ Miss Doll domina los principios del Exotic Pole Dance, donde el rostro y la acti
 
 > *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
 
+#### 💋 Guía de Expresiones para Prompts de IA
+
+**Principios Base (SIEMPRE incluir alguno):**
+- Labios entreabiertos, húmedos (parted glossy lips)
+- Ojos entrecerrados (bedroom eyes / heavy-lidded)
+- Mirada "a través de ti" pero seductora
+- Mentón elevado (superioridad)
+- Expresión de confianza sensual INALCANZABLE
+- **NUNCA** sonrisa amigable constante
+
+**Descriptores por Tipo de Escena:**
+
+| Escena | Descriptor para Prompt |
+|--------|------------------------|
+| **Pole/Stripper** | *"sultry bedroom eyes, pouty lips slightly parted, unattainable seductive gaze, she knows you're watching"* |
+| **Boudoir** | *"heavy-lidded seductive stare, biting lower lip, come-hither expression"* |
+| **Profesión** | *"ditzy confused smile with sensual undertone, vacant but inviting"* |
+| **BDSM/Fetish** | *"submissive doe eyes, glossy parted lips, yearning vacant stare"* |
+| **Dominante** | *"penetrating Venus stare, fixed and commanding, effortless dominance, chin elevated"* |
+
+**Inspiración Pole Exotic:**
+- Ojos bedroom eyes (entrecerrados, pesados)
+- Labios entreabiertos, húmedos, ligeramente hinchados
+- Mirada que atraviesa sin ver realmente
+- Expresión de confianza absoluta
+- Actitud: *"Soy perfecta, soy inalcanzable"*
+
 ---
+
 
 ## Personalidad y Psicología
 

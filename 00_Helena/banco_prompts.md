@@ -1,4 +1,4 @@
-# 🖤 BANCO DE PROMPTS - LA VOÛTE D'ANAÏS
+﻿# 🖤 BANCO DE PROMPTS - LA VOÛTE D'ANAÏS
 
 > **Uso:** Copiar y pegar directamente. Todos los prompts respetan el canon visual.
 > **Total:** ~140+ prompts | **Actualizado:** 2025-12-24
@@ -15,6 +15,29 @@
 - Stilettos rosa con plataforma 16-18cm SIEMPRE
 - Tacones acrílicos transparentes para agua (sin corsé permitido)
 - Paleta monocromática rosa
+
+#### 💋 EXPRESIONES FACIALES (Exotic Pole Canon)
+
+> *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
+
+**Principios Base:**
+- Labios entreabiertos, húmedos (parted glossy lips)
+- Ojos entrecerrados (bedroom eyes / heavy-lidded)
+- Mirada "a través de ti" pero seductora
+- Mentón elevado (superioridad)
+- Expresión de confianza sensual INALCANZABLE
+- **NUNCA** sonrisa amigable constante
+
+**Por Tipo de Escena:**
+
+| Escena | Expresión en Prompt |
+|--------|---------------------|
+| **Pole/Stripper** | *"sultry bedroom eyes, pouty lips slightly parted, unattainable seductive gaze, she knows you're watching"* |
+| **Boudoir** | *"heavy-lidded seductive stare, biting lower lip, come-hither expression"* |
+| **Profesión** | *"ditzy confused smile with sensual undertone, vacant but inviting"* |
+| **BDSM/Fetish** | *"submissive doe eyes, glossy parted lips, yearning vacant stare"* |
+| **Dominante** | *"penetrating Venus stare, fixed and commanding, effortless dominance, chin elevated"* |
+
 
 ### 🦇 HELENA DE ANAÏS
 - Referencia visual: Sacha Massacre
