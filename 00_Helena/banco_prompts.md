@@ -266,5 +266,78 @@ Professional masquerade photography of glamorous French aristocratic woman, Old 
 
 ---
 
-*Total Prompts Disponibles: ~50*
+## NUEVOS PROMPTS - FETICHES ESPECÍFICOS
+
+### TACONES / HEEL WORSHIP
+
+### Miss Doll - Heel Worship POV
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. POV angle from floor looking up. Focus on PINK PLATFORM STILETTOS 18cm, clear acrylic heels. One foot stepping forward towards camera. Pink latex outfit visible above. Dominant vacant stare down at viewer. Pink studio. Professional photography.
+
+### Helena - Boot Domination
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. POV from floor. Focus on BLACK PATENT THIGH-HIGH STILETTO BOOTS 9-inch. One boot on camera/viewer. Black corset and chains visible. Cruel vacant stare down. Dark dungeon. Professional photography.
+
+### Helena - Stiletto Collection
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Seated surrounded by dozens of BLACK STILETTOS (all styles, 7-9 inch). Trying on pair. Obsessed vacant smile. Black closet. Professional photography.
+
+### PECHOS / BREAST FOCUS
+
+### Miss Doll - Pink Cleavage
+Professional glamour photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. EXTREME FOCUS on MASSIVE cleavage pushed up by pink corset. Pink latex top straining. Hands framing breasts. Pendant nestled in cleavage. Proud vacant stare at camera. Pink background. Professional photography.
+
+### Helena - Gothic Corset Squeeze
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. EXTREME FOCUS on huge breasts pushed up by BLACK OVERBUST CORSET, lacing very tight. Hands pulling corset laces tighter. Breathless vacant expression. Dark boudoir. Professional photography.
+
+### Miss Doll - Breast Presentation
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Kneeling presentation pose. Both hands cupping and offering MASSIVE breasts in pink latex bra. Pink corset below. Submissive vacant smile. Pink cushion. Professional photography.
+
+### LENCERÍA / LINGERIE FOCUS
+
+### Anais - Black Lace Seduction
+Professional vintage boudoir photography of glamorous French aristocratic woman. HONEY BLONDE hair in soft waves. Sensual lush beauty. Wearing intricate BLACK LACE BODYSUIT with strategic coverage, black garter belt, sheer black stockings with seam. So Kate stilettos 12cm. Reclining on chaise lounge. Sultry bedroom eyes. Warm golden lighting. Professional photography.
+
+### Helena - Gothic Lingerie Set
+Professional gothic boudoir photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing black mesh bra with pentagram design, black thong, black garter belt with chains, ripped fishnets. Black stilettos 8-inch. Standing by mirror. Seductive vacant stare. Candlelit. Professional photography.
+
+### Miss Doll - Pink Satin Set
+Professional boudoir photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK SATIN LINGERIE SET: pink balconette bra, pink high-waisted panties with lace trim, pink garter belt, pink stockings. Pink platform mules 16cm. Posing on pink satin bed. Playful vacant stare. Professional photography.
+
+### BOTAS / BOOTS FOCUS
+
+### Helena - Thigh High Latex Boots
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX THIGH-HIGH BOOTS with 9-inch stiletto heels, zipped tight. Black latex bodysuit. Standing with one leg on chair. Dominant vacant stare. Dark studio. Professional photography.
+
+### Miss Doll - Pink Patent Boots
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK PATENT KNEE-HIGH PLATFORM BOOTS 18cm total height. Pink latex mini dress. Walking pose. Boots squeaking (implied by shine). Vacant proud stare. Pink catwalk. Professional photography.
+
+### Helena - Lace-Up Combat Stilettos
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE-UP STILETTO COMBAT BOOTS 8-inch, multiple buckles. Black mini skirt, black corset. Lacing up boot with foot on step. Focused vacant stare. Dark alley. Professional photography.
+
+### CASTIDAD FORZADA / FORCED CHASTITY
+
+### Miss Doll - Pink Chastity Training
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing pink latex bodysuit, pink corset. Visible PINK CHASTITY BELT (decorative, locked). Pink collar with lock. Hands behind back. Frustrated but obedient vacant stare. Pink training room. Professional photography.
+
+### Helena - Gothic Chastity Devotion
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing black leather harness, black corset. Visible BLACK METAL CHASTITY BELT with chains. Black collar with padlock. Kneeling devotional pose. Longing submissive stare. Dark chapel. Professional photography.
+
+### Anais - Keyholder Dominatrix
+Professional fetish photography of glamorous French aristocratic woman. HONEY BLONDE hair in elegant style. Sensual lush beauty. Wearing black leather corset dress, black gloves. Holding small KEY on chain, dangling it teasingly. Haughty dominant smile. Dungeon throne background. Professional photography.
+
+### GAGS & MORDAZAS
+
+### Miss Doll - Pink Ball Gag
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing pink latex outfit, pink corset. PINK BALL GAG in mouth, straps visible. Drool implied. Wide vacant eyes. Hands bound behind. Pink studio. Professional photography.
+
+### Helena - Gothic Ring Gag
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. Obscenely exaggerated hourglass figure. Wearing black leather harness, black corset. BLACK LEATHER RING GAG in mouth, tongue visible. Black collar. Kneeling submissive pose. Glazed vacant eyes. Dark dungeon. Professional photography.
+
+### Helena - Bit Gag Pony Play
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in high ponytail. Pale marble skin. Obscenely exaggerated hourglass figure. Wearing black leather pony harness, black corset. BLACK BIT GAG between teeth, reins attached. Black thigh-high boots with hoof platforms. Prancing pose. Trained vacant stare. Dark stable. Professional photography.
+
+### Miss Doll - Panel Gag Silence
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup visible around gag. Hyperbolic hourglass figure. Wearing pink latex catsuit, pink corset. PINK LEATHER PANEL GAG covering lower face, straps buckled. Wide innocent eyes. Hands in pink bondage mitts. Pink padded room. Professional photography.
+
+---
+
+*Total Prompts Disponibles: ~70*
 *Última actualización: 2025-12-24*
