@@ -174,9 +174,16 @@ ACTO III - Nueva Identidad (20%)
 
 ## V. FEEDBACK HISTÓRICO (Actualizar según correcciones)
 
-| Fecha | Relato | Corrección |
-|-------|--------|------------|
-| 2025-12-24 | El Vino del Vecino | Demasiado corto, solo era setup sin desarrollo |
+| Fecha | Relato | Feedback |
+|-------|--------|----------|
+| 2025-12-24 | El Vino del Vecino Cap 1 (original) | ❌ Demasiado corto, solo era setup |
+| 2025-12-24 | El Vino del Vecino Cap 1 (revisado) | ✅ **APROBADO** - Usuario lo editó y quedó satisfecho |
+
+### Patrones del Cap 1 Aprobado:
+- ~1,150 palabras como **introducción** es aceptable
+- El setup atmosférico con el vecino misterioso funciona
+- La transformación empieza con el primer sorbo de vino
+- La prosa sensorial y simbólica gusta ("El sonido del corcho fue obsceno")
 
 ---
 
