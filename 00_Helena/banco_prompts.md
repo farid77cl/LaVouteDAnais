@@ -473,5 +473,44 @@ Professional fetish photography of TWO adult bimbo women together. Both MISS DOL
 
 ---
 
-*Total Prompts Disponibles: ~100+*
+## SET ESPECIAL: VISTAS DE ESPALDA (Back Views) 🍑
+
+> **FOCO:** Traseros perfectos, cinturas ultra ajustadas por corsé, curvas exageradas desde atrás.
+
+### FALDAS (Back View - Skirt)
+
+### Miss Doll - Pink Skirt Back
+Professional glamour photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. BACK VIEW: showing MASSIVE round backside in TIGHT PINK LATEX MINI SKIRT barely covering. EXTREMELY CINCHED WAIST by visible pink corset. Pink platform stilettos 16cm elongating legs. Looking over shoulder with vacant pouty stare. Pink studio. Professional photography.
+
+### Helena - Gothic Skirt Back
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair cascading down back. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. BACK VIEW: showing MASSIVE round backside in TIGHT BLACK LEATHER MINI SKIRT. EXTREMELY CINCHED WAIST by black corset with visible lacing pulled tight. Black stilettos 9-inch. Looking over shoulder with seductive vacant stare. Dark boudoir. Professional photography.
+
+### Anais - Pencil Skirt Back
+Professional vintage photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant waves. Sensual lush beauty. BACK VIEW: showing CURVY backside in TIGHT BLACK PENCIL SKIRT with seam up back. EXTREMELY CINCHED WAIST by black underbust corset creating perfect hourglass. So Kate stilettos 12cm. Looking over shoulder with sultry knowing smile. Parisian office. Professional photography.
+
+### LENCERÍA (Back View - Lingerie)
+
+### Miss Doll - Pink Lingerie Back
+Professional boudoir photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. BACK VIEW: showing MASSIVE round backside in PINK SATIN THONG, visible garter straps to pink stockings. EXTREMELY CINCHED WAIST by pink waspie corset with bow. Pink platform mules 16cm. Arching back, looking over shoulder with vacant seductive stare. Pink satin sheets. Professional photography.
+
+### Helena - Gothic Lingerie Back
+Professional gothic boudoir photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling down bare back. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. BACK VIEW: showing MASSIVE round backside in BLACK LACE THONG with chains, visible garter straps to black fishnets. EXTREMELY CINCHED WAIST by black leather underbust corset with buckles. Black stilettos 8-inch. Arching back sensually, looking over shoulder with hungry stare. Dark candlelit room. Professional photography.
+
+### Anais - Vintage Lingerie Back
+Professional vintage boudoir photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft waves. Sensual lush beauty. BACK VIEW: showing ELEGANT CURVY backside in BLACK SILK HIGH-CUT PANTIES, visible garter straps to seamed stockings. EXTREMELY CINCHED WAIST by black satin corset. So Kate stilettos 12cm. Adjusting stocking seam, looking over shoulder with sultry bedroom eyes. Parisian boudoir with mirror. Professional photography.
+
+### BIKINI (Back View - Beach/Pool)
+
+### Miss Doll - Pink Bikini Back
+Professional pool photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. BACK VIEW: showing MASSIVE round backside in PINK MICRO THONG BIKINI bottom, tan lines visible. NO CORSET (beach exception). Pink platform stilettos with clear acrylic heels 16cm. Walking away towards pink pool. Looking over shoulder blowing kiss. Vacant dreamy stare. Sunset. Professional photography.
+
+### Helena - Gothic Bikini Back
+Professional gothic beach photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair down back. Pale marble skin (no tan). BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. BACK VIEW: showing MASSIVE round pale backside in BLACK MICRO THONG BIKINI with skull chains. NO CORSET (beach exception). Black platform stilettos clear acrylic 9-inch. Walking into dark ocean waves. Looking over shoulder with haunting vacant stare. Storm clouds. Professional photography.
+
+### Anais - Riviera Bikini Back
+Professional beach photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair flowing in wind. Sensual lush beauty. BACK VIEW: showing ELEGANT CURVY backside in CLASSIC BLACK HIGH-CUT BIKINI bottom (vintage style). NO CORSET (beach exception). Walking on Riviera beach. Looking over shoulder with sultry mysterious smile. So Kate stilettos 12cm (impractical beach glamour). Mediterranean sunset. Professional photography.
+
+---
+
+*Total Prompts Disponibles: ~110+*
 *Última actualización: 2025-12-24*
