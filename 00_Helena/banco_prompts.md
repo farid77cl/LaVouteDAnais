@@ -48,12 +48,57 @@
 - Silueta de reloj de arena obscenamente exagerada
 - Stilettos 7-9 pulgadas
 
+#### 🖤 EXPRESIONES FACIALES (Gothic Seduction)
+
+> *"Soy la oscuridad que deseas, pero nunca podrás tener."*
+
+**Principios Base:**
+- Mirada hipnótica y vacía pero magnética
+- Labios gruesos entreabiertos, húmedos/glossy
+- Piel pálida contrastando con labios oscuros
+- Expresión de devoción sumisa O depredadora oscura
+- Ojos que atraviesan el alma
+
+**Por Tipo de Escena:**
+
+| Escena | Expresión en Prompt |
+|--------|---------------------|
+| **Sumisa/Devoción** | *"devoted empty stare upward, glossy parted lips, yearning submissive gaze, pale face flushed"* |
+| **Depredadora** | *"hypnotic predator stare, dark glossy lips parted showing teeth, hungry seductive gaze"* |
+| **Boudoir** | *"heavy-lidded gothic seduction, dark lips wet and parted, intoxicated sensual stare"* |
+| **BDSM** | *"masochistic bliss expression, eyes rolled slightly, glossy dark lips moaning"* |
+| **Vacía/Bimbo** | *"completely vacant doll stare, dark lips slack and parted, no thought behind eyes, ditzy confusion"* |
+
+---
+
 ### 👑 ANAÏS BELLAND
 - Estilo: Old Hollywood Glamour, French Aristocrat
 - Cabello: RUBIO MIEL, ondas vintage suaves
 - Actitud: "Sultry", seductora, lujosa (Betty Page vibes)
 - So Kate 12cm negros brillantes
 - NUNCA: "Mature", "Old", "Strict"
+
+#### 💄 EXPRESIONES FACIALES (Old Hollywood Seduction)
+
+> *"Je sais ce que tu veux... et peut-être je te le donnerai."*
+
+**Principios Base:**
+- Mirada sultry, knowingly seductive
+- Sonrisa Mona Lisa (secreto que no comparte)
+- Betty Page vibes: traviesa pero elegante
+- Confianza aristocrática, superioridad sensual
+- Labios rojos/nude siempre ligeramente curvados
+
+**Por Tipo de Escena:**
+
+| Escena | Expresión en Prompt |
+|--------|---------------------|
+| **Dominante** | *"imperious sultry stare, knowing smirk, one eyebrow raised, aristocratic superiority"* |
+| **Boudoir** | *"Betty Page playful pout, biting lower lip, bedroom eyes with mischievous glint"* |
+| **Glamour** | *"Mona Lisa smile, sultry mysterious gaze, effortless French elegance, chin slightly raised"* |
+| **Seducción** | *"come-hither half-smile, heavy-lidded invitation, red lips slightly parted"* |
+| **Profesional** | *"cool sophisticated smirk, intelligent seductive stare over glasses, power and sensuality"* |
+
 
 ---
 
