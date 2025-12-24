@@ -403,5 +403,75 @@ Professional fetish photography of adult bimbo woman with platinum blonde bob. R
 
 ---
 
-*Total Prompts Disponibles: ~85*
+## NUEVOS PROMPTS - PROFESIONES FETICHIZADAS
+
+### MÉDICAS
+
+### Miss Doll - Pink Nurse Injection
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK LATEX NURSE UNIFORM: tight pink dress with white cross, pink corset visible, pink nurse cap. Pink platform heels 16cm. Holding oversized pink syringe suggestively. Vacant seductive bedside manner smile. Pink hospital room. Professional photography.
+
+### Helena - Gothic Doctor
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX LAB COAT open showing black corset, black latex gloves, stethoscope. Black stilettos 9-inch. Holding medical tools. Sinister vacant diagnostic stare. Dark examination room. Professional photography.
+
+### Anais - Psychiatrist Seduction
+Professional photography of glamorous French aristocratic woman. HONEY BLONDE hair in professional chignon. Sensual lush beauty. Wearing tight gray pencil skirt, white silk blouse unbuttoned, visible black lace bra and corset. So Kate stilettos 12cm. Holding notepad, leaning forward. Sultry knowing stare over reading glasses. Leather therapy chair visible. Professional photography.
+
+### SERVICIOS
+
+### Miss Doll - Pink Housekeeper
+Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK LATEX MAID UNIFORM: micro pink dress, white frilly apron, pink corset, pink headpiece. Pink platform heels 16cm. Holding pink feather duster between breasts. Bent over cleaning pose. Vacant service smile. Luxury pink bedroom. Professional photography.
+
+### Helena - Gothic Funeral Director
+Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing tight black pencil dress, black corset visible, black veil. Black stilettos 9-inch. Standing by open casket. Solemn vacant stare. Funeral parlor with candles. Professional photography.
+
+### Miss Doll - Pink Mechanic
+Professional photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK JUMPSUIT unzipped to waist showing pink latex bra and pink corset. Pink platform heels 16cm (impractical). Holding wrench, oil smudge on cheek. Leaning on pink vintage car. Confused vacant stare at engine. Pink garage. Professional photography.
+
+### SEGURIDAD/AUTORIDAD
+
+### Helena - Gothic Prison Guard
+Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in bun. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX GUARD UNIFORM: tight black shirt, black corset, black pants, utility belt with handcuffs. Black boots 8-inch. Holding keyring. Stern vacant stare. Dark prison corridor. Professional photography.
+
+### Miss Doll - Pink Police Officer
+Professional photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK LATEX POLICE UNIFORM: tight pink shirt, pink mini skirt, pink corset belt, pink cap. Pink platform heels 16cm. Holding pink handcuffs playfully. Vacant authoritative stare. Pink patrol car background. Professional photography.
+
+### Anais - Executive Dominance
+Professional photography of glamorous French aristocratic woman. HONEY BLONDE hair in power updo. Sensual lush beauty. Wearing power suit: black blazer over black corset, tight black skirt, black stockings. So Kate stilettos 12cm. Seated behind massive desk, legs crossed. Holding pen like weapon. Dominant sultry CEO stare. Corner office with city view. Professional photography.
+
+### ENTRETENIMIENTO
+
+### Miss Doll - Pink Magician's Assistant
+Professional stage photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK SEQUIN CORSET BODYSUIT, pink fishnet tights, pink magician's cape. Pink platform heels 16cm. Emerging from magic box. Arms spread in "ta-da" pose. Vacant amazed smile. Stage with sparkles. Professional photography.
+
+### Helena - Gothic Carnival Fortune Teller
+Professional photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair with headscarf. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing flowing black skirt, black corset with coins, sheer black top. Black stilettos 8-inch. Seated at table with crystal ball. Mysterious vacant stare. Dark carnival tent. Professional photography.
+
+### Miss Doll - Pink Stripper
+Professional stage photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK SEQUIN MICRO BIKINI, pink corset garter belt, pink platform stripper heels 18cm with clear acrylic. Holding pink pole. High kick pose. Vacant seductive performance smile. Pink stage with lights. Professional photography.
+
+---
+
+## SET ESPECIAL: MISS DOLL x HELENA (Interacción)
+
+### MD x Helena - Pink vs Black: The Training
+Professional fetish photography of TWO adult bimbo women together. MISS DOLL (platinum bob, pink latex catsuit, pink corset, pink heels 16cm) standing dominant. HELENA (voluminous black hair, pale skin, black corset, black stilettos 9-inch) kneeling submissive at Miss Doll's feet. Miss Doll holding Helena's chin. Eye contact between them. Pink and black contrasting lighting. Studio. Professional photography.
+
+### MD x Helena - Collar Ceremony
+Professional fetish photography of TWO adult bimbo women together. MISS DOLL (platinum bob, doll makeup, pink latex) standing behind HELENA (voluminous black hair, pale, kneeling). Miss Doll placing PINK LEATHER COLLAR around Helena's neck. Helena's vacant devoted upward stare. Miss Doll's satisfied vacant smile. Half pink half black studio. Professional photography.
+
+### MD x Helena - Leash Walk Together
+Professional fetish photography of TWO adult bimbo women together. MISS DOLL (platinum bob, pink latex, pink heels 16cm) walking confidently holding PINK LEASH attached to HELENA (voluminous black hair, black corset, crawling on all fours in black stilettos). Both vacant but connected stares. Pink and black runway. Professional photography.
+
+### MD x Helena - Mirror Reflection
+Professional artistic photography of TWO adult bimbo women together. MISS DOLL (platinum bob, pink) and HELENA (black hair, gothic) standing back to back, heads turned to face each other. Opposite colors: pink vs black. Same vacant expression. Mirror between them reflecting both. Half pink half black studio. Symmetrical composition. Professional photography.
+
+### MD x Helena - Transformation in Progress
+Professional fetish photography of TWO adult bimbo women together. MISS DOLL (platinum bob, pink latex) applying PINK LIPSTICK to HELENA's (voluminous black hair, conflicted expression) dark lips. Helena's outfit transitioning: half black, half pink elements appearing. Miss Doll's controlling vacant smile. Vanity table with pink products. Professional photography.
+
+### MD x Helena - Shared Punishment
+Professional fetish photography of TWO adult bimbo women together. Both MISS DOLL (pink) and HELENA (black) kneeling side by side, hands behind backs. Both wearing matching COLLARS (pink for MD, black for Helena). Gloved hand (owner) visible holding both leashes. Both with submissive vacant stares forward. Dark dungeon with pink and black candles. Professional photography.
+
+---
+
+*Total Prompts Disponibles: ~100+*
 *Última actualización: 2025-12-24*
