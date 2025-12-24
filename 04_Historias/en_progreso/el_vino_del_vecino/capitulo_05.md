@@ -30,7 +30,7 @@ Tenía el pecho desnudo. Sus senos, aunque firmes, eran naturales. De tamaño me
 
 —A mí me gustan...
 
-—A nadie le importa lo que a ti te guste —dijo ella con una naturalidad que dolía—. A *ellos* les gustan grandes. Nico dijo que si tuviera más tetas, me follaría también por las mañanas. Y el chico nuevo, el barman... le gustan las rubias tetonas. Así que también me voy a desteñir, volveré al rubio platino.
+—A nadie le importa lo que a ti te guste —dijo ella con una naturalidad que dolía—. A *ellos* les gustan grandes. Nico dijo que si tuviera más tetas, me follaría también por las mañanas. Y el chico nuevo, el barman... le gustan las rubias tetonas. Así que también me voy a desteñir. Voy a ser rubia platino. Como una muñeca porno.
 
 Eduardo miró los pechos de su esposa. Trató de imaginarla con implantes masivos, artificiales, perfectos.
 Sintió el tirón familiar en su entrepierna.
@@ -54,14 +54,46 @@ Arrancó el cheque y lo dejó sobre la mesa.
 Roxy lo tomó, verificó la cifra y la firma, y lo guardó en su escote, contra su piel caliente.
 Se recostó en la silla, abriendo las piernas bajo la mesa. Su pie descalzo buscó la entrepierna de Eduardo bajo el traje.
 
-—Fue ayer, en el estacionamiento del supermercado —empezó ella. Su voz cambió, adoptando ese tono narrativo, susurrante y sucio que él había aprendido a necesitar como aire—. Un repartidor. Negro. Enorme. Me vio guardando las bolsas...
+—Fue ayer, en el estacionamiento del supermercado —empezó ella. Su voz cambió, adoptando ese tono narrativo, susurrante y sucio que él había aprendido a necesitar como aire.
 
 Eduardo cerró los ojos y se llevó la mano al pantalón debajo de la mesa.
-—Sí... cuéntame... ¿qué te dijo?
 
-—No dijo nada. Solo me miró el culo con esos leggings de leopardo que me compraste. Se acercó y me empujó contra su furgoneta...
+---
 
-Mientras Eduardo se daba placer, escuchando cómo su esposa había sido usada por un desconocido entre cajas de mercancía, comprendió que ya no había vuelta atrás.
+*Estaba guardando las bolsas en la cajuela. Esos leggings de leopardo que me compraste, los que me marcan todo. Y la furgoneta de reparto se estacionó justo detrás.*
+
+*Salió él. Negro. Enorme. Brazos como troncos. Me miró el culo como si fuera suyo. Y yo... Eduardo, yo me quedé ahí. Esperando.*
+
+*No dijo nada. Se acercó. Olía a sudor y a trabajo duro. Me empujó contra mi propio auto, de cara a la cajuela abierta, y sentí su mano entre mis piernas.*
+
+*"Estás mojada", me dijo al oído. "Las zorras casadas siempre están mojadas."*
+
+*Tenía razón.*
+
+*Me bajó los leggings hasta las rodillas. Ahí mismo. En el estacionamiento del supermercado. A las once de la mañana. Con gente pasando con sus carritos.*
+
+*Me penetró sin preguntar. Sin condón. Nunca más uso condón, Eduardo. Los hombres de verdad no los usan.*
+
+*Era tan grande que grité. Una vieja con su nieto me miró. Vio exactamente lo que estaba pasando. Y yo la miré a los ojos mientras él me follaba.*
+
+*"Di que eres una puta", me ordenó.*
+
+*"Soy una puta", gemí. Y la vieja tapó los ojos del niño y se fue corriendo.*
+
+*Me agarró del pelo —el rojo, todavía— y me arqueó la espalda. Sentí cada centímetro de él. Profundo. Duro. Castigándome por ser lo que soy.*
+
+*Y cuando se corrió dentro de mí... Eduardo, cuando sentí su leche caliente llenándome en ese estacionamiento sucio...*
+
+*Me corrí tan fuerte que mis rodillas cedieron. Y él me sostuvo. Me subió los leggings empapados. Me dio una palmada en el culo. Y se fue.*
+
+*Manejé a casa con su semen bajándome por los muslos.*
+
+---
+
+Eduardo explotó bajo la mesa. El orgasmo lo retorció, alimentado por la humillación, por la rabia, por la imagen de su esposa siendo usada por un extraño mientras viejas con nietos miraban.
+
+Cuando terminó, jadeando, comprendió que ya no había vuelta atrás.
+
 Él no era el marido.
 Él era el productor. El financiero. El público cautivo.
 

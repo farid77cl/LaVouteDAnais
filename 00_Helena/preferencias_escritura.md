@@ -177,7 +177,10 @@ ACTO III - Nueva Identidad (20%)
 | Fecha | Relato | Feedback |
 |-------|--------|----------|
 | 2025-12-24 | El Vino del Vecino Cap 1 (original) | ❌ Demasiado corto, solo era setup |
-| 2025-12-24 | El Vino del Vecino Cap 1 (revisado) | ✅ **APROBADO** - Usuario lo editó y quedó satisfecho |
+| 2025-12-24 | El Vino del Vecino Cap 1 (revisado) | ✅ **APROBADO** |
+| 2025-12-24 | El Vino del Vecino Cap 2 | ✅ **APROBADO** |
+| 2025-12-24 | El Vino del Vecino Cap 3 | ✅ **APROBADO** (con correcciones) |
+| 2025-12-24 | El Vino del Vecino Cap 4 | ✅ **APROBADO** (con correcciones extensas) |
 
 ### Patrones del Cap 1 Aprobado:
 - ~1,150 palabras como **introducción** es aceptable
@@ -185,9 +188,98 @@ ACTO III - Nueva Identidad (20%)
 - La transformación empieza con el primer sorbo de vino
 - La prosa sensorial y simbólica gusta ("El sonido del corcho fue obsceno")
 
+### 🔥 PATRÓN CRÍTICO: Escenas de Revelación/Transformación
+
+> **"Yo Anaïs me debo mojar al leer la descripción"**
+
+Las escenas donde un personaje transformado aparece por primera vez (ante otro personaje o ante el lector) son **momentos climáticos visuales**. Deben:
+
+1. **Poner al lector en la piel del testigo** - La reacción física del testigo es la del lector
+2. **Revelar gradualmente** - De abajo hacia arriba, o de silueta a detalle
+3. **Usar todos los sentidos** - Sonido de tacones, olor a perfume, textura de la ropa
+4. **Ser EXPLÍCITAMENTE sensuales** - No solo descriptivas, sino eróticas
+5. **Provocar excitación física** - El lector debe poder imaginársela y excitarse
+
+**Ejemplo de lo que NO funciona:**
+> "Rosa María bajó las escaleras. Ya no era ella. Llevaba vestido de leopardo y tacones."
+
+**Ejemplo de lo que SÍ funciona:**
+> Escena expandida con: sonido de tacones primero, silueta recortada, piernas con medias de red apareciendo, caderas balanceándose, escote hundiéndose, rostro transformado, garras rojas en el pasamanos.
+
+### 📝 ANÁLISIS DE CORRECCIÓN DEL USUARIO (Cap 3)
+
+**Cambio realizado por el usuario:**
+```diff
+- Eduardo dejó caer su maletín.
++ Eduardo se dio la vuelta y se sentó en el sofá de cuero nuevo.
+```
+
+**Análisis de Helena:**
+
+El usuario cambió una reacción **pasiva/cliché** ("dejar caer el maletín" = shock involuntario) por una reacción **activa/deliberada** ("se sentó en el sofá" = prepararse para recibir el espectáculo).
+
+**Patrones aprendidos:**
+1. **Evitar reacciones cliché** - "Dejar caer algo del shock" es trillado
+2. **El testigo debe ELEGIR mirar** - No ser sorprendido pasivamente, sino posicionarse para observar
+3. **Acción deliberada > Reacción involuntaria** - Eduardo se sienta porque QUIERE ver, no porque está paralizado
+4. **El sofá nuevo** - Detalle que ancla la escena en el contexto de la mudanza/nueva vida
+
+**Implicación psicológica:** Eduardo no es víctima del cambio de Rosa; es **cómplice**. Se prepara como audiencia. Esto refuerza su sumisión posterior.
+
 ---
 
-## VI. FRASES/TÉCNICAS FAVORITAS
+### 📝 ANÁLISIS DE CORRECCIONES PEDIDAS (Cap 4)
+
+**Corrección 1:** Eduardo no debe pedir "cuéntame" fácilmente
+
+**Patrón aprendido:**
+- ❌ El sumiso NO debe rendirse inmediatamente
+- ✅ Debe haber **resistencia activa** antes de la rendición
+- ✅ El dominante debe **quebrarlo** con provocaciones graduales
+- ✅ Cada negativa del sumiso ("no quiero saber", "cállate") es una victoria futura para el dominante
+
+**Corrección 2:** El relato de Rosa debe ser "raconto" crudo y sexual
+
+**Patrón aprendido:**
+- ✅ Usar *cursiva* para flashbacks/racontos en primera persona
+- ✅ Separar visualmente con `---` 
+- ✅ Tono crudo, sin filtros, porque "eso es ahora Rosa"
+- ✅ Detalles explícitos: sensaciones, diálogos exactos, degradación
+
+**Corrección 3:** "3 orgasmos" necesita desarrollo - ¿qué la llevó a cada uno?
+
+**Patrón aprendido:**
+- ❌ NO decir "me corrí X veces" sin explicar
+- ✅ Cada orgasmo debe tener su **trigger específico**
+- ✅ Progresión de intensidad (palabra → imagen → degradación física)
+- ✅ El clímax más intenso merece más detalle
+
+**Triggers usados que funcionaron:**
+1. Degradación verbal ("puta" vs "cariño")
+2. Verse en el espejo siendo usada
+3. Escupitajo en la cara (humillación física extrema)
+
+### 📝 ANÁLISIS: Mecánica del Orgasmo del Sumiso
+
+**Corrección del usuario:** "El placer lo alcanza a través del dolor, la ira y humillación"
+
+**Patrón aprendido:**
+- ❌ NO escribir "no fue placer" (el placer SÍ existe)
+- ✅ El placer viene **montado sobre** emociones negativas
+- ✅ Dolor → alimenta → placer
+- ✅ Rabia → se convierte en → éxtasis
+- ✅ Humillación → intensifica → excitación
+
+**Fórmula correcta:**
+```
+DOLOR + IRA + HUMILLACIÓN = VEHÍCULO DEL PLACER
+(no ausencia de placer, sino placer retorcido)
+```
+
+**Frase modelo:**
+> "Un lugar donde el dolor alimentaba el placer, donde la rabia se convertía en éxtasis, donde cuanto más lo humillaban más duro se ponía."
+
+---
 
 ### Técnicas que gustan:
 - "Fraccionalización" en hipnosis (salir/entrar del trance)

@@ -8,13 +8,29 @@ Eduardo las vio apiladas en la entrada cuando llegó del trabajo. No preguntó c
 
 Rosa María bajó las escaleras.
 
+No. Rosa María no bajó las escaleras. Rosa María estaba muerta.
+
+Lo que descendía, peldaño a peldaño, era otra criatura.
+
+Eduardo la oyó primero. El *clic* de un tacón contra la madera. Luego otro. Un ritmo lento, deliberado, como el latido de un corazón depredador. Levantó la vista hacia el segundo piso.
+
+Una silueta apareció en lo alto, recortada contra la luz del pasillo.
+
+Primero vio las piernas. Largas, torneadas, brillantes bajo las medias de red negra que las envolvían como telarañas. Los tacones eran dorados, de doce centímetros, afilados como dagas, arqueando sus pies en una postura de tensión permanente que convertía cada paso en un acto de exhibición.
+
+Bajó un escalón. La luz atrapó el vestido de leopardo —tan ajustado que parecía una segunda piel— y reveló caderas que se balanceaban con cada movimiento, caderas que él no recordaba que fueran tan anchas, tan hipnóticas.
+
+Otro escalón. El escote apareció. Un abismo de carne pálida que se hundía vertiginosamente entre unos pechos que desafiaban la memoria. ¿Siempre habían sido así de llenos? ¿Así de altos? Parecían ofrecerse como fruta madura a punto de caer del árbol.
+
+Otro escalón. El rostro.
+
 Eduardo dejó caer su maletín.
 
-Ya no era Rosa María.
-El cabello castaño y triste había desaparecido. Ahora era una melena salvaje, cardada, de un rojo violento que parecía gritar peligro. Sus labios estaban pintados de un carmesí húmedo que hacía juego con sus uñas, ahora largas y afiladas como garras.
+El cabello castaño y triste había desaparecido. Ahora era una melena salvaje, cardada, de un rojo violento que enmarcaba su cara como llamas. Sus ojos estaban delineados en negro dramático, felinos, peligrosos. Y sus labios... carmesí húmedo, gruesos, entreabiertos en una sonrisa que no reconoció.
 
-Pero fue la ropa lo que le secó la garganta.
-Llevaba un vestido de leopardo que parecía pintado sobre su cuerpo. El escote se hundía vertiginosamente, mostrando el nacimiento de unos pechos que parecían más llenos, más altos, ofrecidos como fruta madura. Y los zapatos... tacones dorados de doce centímetros que arqueaban sus pies en una postura de tensión permanente.
+Las uñas, cuando apoyó su mano en el pasamanos, eran largas y afiladas como garras. Del mismo rojo sangre que su boca.
+
+Bajó el último escalón y se detuvo, dejando que él la absorbiera entera.
 
 —¿Te gusta? —preguntó ella. No buscaba aprobación. Buscaba adoración.
 
@@ -37,11 +53,28 @@ Rosa María soltó una risa seca y cruel.
 —Con quien sea lo suficientemente hombre para aguantarme el ritmo.
 
 El silencio se estiró. Eduardo debería haber gritado. Debería haberle prohibido salir. Debería haber exigido respeto.
-Pero miró el escote de su esposa. Miró la curva depredadora de su cadera bajo la tela de leopardo. Imaginó, con una claridad dolorosa, a otros hombres mirando eso mismo. Otros hombres tocando eso.
+
+Eso era lo que haría un hombre. Eso era lo que haría el padre que su padre había sido, el marido que su abuelo había sido. Los hombres de verdad no dejaban que sus esposas salieran a la calle vestidas así a las nueve de la noche de un martes.
+
+Pero Eduardo no era un hombre de verdad. Nunca lo había sido.
+
+En el fondo de su mente, en ese sótano oscuro donde guardaba los deseos que nunca se atrevía a nombrar, siempre había sabido que Rosa María era demasiado para él. Demasiado mujer. Demasiado viva. Se había casado con ella precisamente porque era segura —apagada, contenida, la versión doméstica de algo que podía haber sido peligroso.
+
+Y ahora... ahora la versión peligrosa estaba de pie frente a él.
+
+Miró el escote de su esposa. Miró la curva depredadora de su cadera bajo la tela de leopardo. Imaginó, con una claridad dolorosa, a otros hombres mirando eso mismo. Hombres más altos. Más fuertes. Más seguros. Hombres que no necesitaban permiso para tocar lo que querían.
+
+Imaginó las manos de esos hombres deslizándose por la espalda que él ya no tocaba. Imaginó sus bocas en el cuello que él ya no besaba. Imaginó a Rosa María gimiendo bajo cuerpos que no eran el suyo.
 
 Y sintió *el tirón*.
+
 Esa pequeña, vergonzosa y eléctrica sacudida en su miembro.
-Le excitaba que ella se fuera. Le excitaba que ella buscara a otros.
+
+No era rabia. No era celos. Era algo peor. Algo que le hacía sentir sucio e increíblemente vivo al mismo tiempo.
+
+Le excitaba que ella se fuera. Le excitaba que ella buscara a otros. Le excitaba su propia impotencia para detenerla.
+
+Era como si toda su vida hubiera estado esperando este momento: el momento de rendirse. El momento de admitir que no era suficiente. El momento de encontrar placer en su propia insuficiencia.
 
 Rosa María vio el cambio en sus ojos. Vio la derrota. Y vio el deseo.
 Sonrió.
