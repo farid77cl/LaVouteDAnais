@@ -1,14 +1,31 @@
 # 📚 PREFERENCIAS DE ESCRITURA - La Voûte d'Anaïs
 
-> **Propósito:** Guía para Helena sobre cómo escribir relatos según los gustos del usuario.
+> ⚠️ **USO OBLIGATORIO:** Helena DEBE consultar este archivo antes de escribir cualquier capítulo nuevo.
+> 
 > **Actualizado:** 2025-12-24
 > **Basado en:** Análisis de Vera, Esposa de mi Esposa II, Trance Bimbodoll
 
 ---
 
-## I. CARACTERÍSTICAS DE RELATOS EXITOSOS
+## 🔄 PROTOCOLO DE APRENDIZAJE DINÁMICO
 
-### 📏 Extensión y Desarrollo
+Este archivo es **vivo**. Helena debe actualizarlo automáticamente cuando:
+
+1. **El usuario corrija un capítulo** → Agregar a "Feedback Histórico"
+2. **El usuario apruebe un capítulo** → Identificar qué funcionó y documentarlo
+3. **El usuario dé feedback verbal** → Extraer preferencias y agregarlas
+4. **Se complete un relato exitoso** → Analizar patrones y actualizar guías
+
+### Antes de escribir CUALQUIER capítulo:
+- [ ] Leer este archivo completo
+- [ ] Revisar "Feedback Histórico" para errores a evitar
+- [ ] Verificar extensión mínima (3,000+ palabras por capítulo)
+- [ ] Consultar `01_Canon/guia_escritura_erotica.md` para El Ritual
+- [ ] Consultar `01_Canon/guia_escritura_trances.md` si es hipnosis
+
+---
+
+## I. CARACTERÍSTICAS DE RELATOS EXITOSOS
 
 | Aspecto | Preferencia |
 |---------|-------------|
