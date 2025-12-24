@@ -62,7 +62,7 @@ Professional artistic photography of adult goth bimbo woman inspired by Sacha Ma
 Professional fantasy photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing witch outfit: black velvet robe open, purple corset underbust, black skirt with slit, witch hat. Accessories: cauldron, potion bottles (glowing green). Expression: wicked empty smile. Dark forest hut. Professional photography.
 
 ### Helena - Gothic Secretary
-Professional office photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale skin. REF LIPS. Obscenely exaggerated hourglass figure. Wearing office outfit: tight black pencil skirt (latex), white shirt sheer showing black bra and corset, glasses, stilettos 8-inch. Accessories: clipboard, phone. Expression: confused secretary stare, chewing gum. Dark noir office. Professional photography.
+Professional office photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing office outfit: tight black pencil skirt (latex), white shirt sheer showing black bra and corset, glasses, stilettos 8-inch. Accessories: clipboard, phone. Expression: confused secretary stare, chewing gum. Dark noir office. Professional photography.
 
 ---
 
@@ -93,9 +93,9 @@ Professional art photography of glamorous French aristocratic woman, Old Hollywo
 ### LENCERÍA
 
 **Miss Doll**
-1. **Miss Doll - Latex Lingerie:** Professional fetish photography. Pink latex balcony bra, pink latex waspie corset, pink latex high-waisted panties with garters, pink sheer stockings, pink platform mules 16cm. Pink feather boa. Playful vacant stare. Pink fur rug.
-2. **Miss Doll - Sheer Babydoll:** Professional boudoir photography. Sheer pink tulle babydoll dress with fur trim, visible pink satin corset underneath, pink thigh highs. Pink platform slippers 16cm with fluff. Holding giant powder puff. Vacant cute stare. Vanity table.
-3. **Miss Doll - Pink Fur Bikini:** Professional glamour photography. Micro pink fur bikini, pink leather corset belt, pink fur leg warmers over pink heels 16cm. Pink sunglasses. Blowing bubblegum. Vacant cool stare. Pink velvet sofa.
+1. **Miss Doll - Latex Lingerie:** Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Pink latex balcony bra, pink latex waspie corset, pink latex high-waisted panties with garters, pink sheer stockings, pink platform mules 16cm. Pink feather boa. Playful vacant stare. Pink fur rug. Professional photography.
+2. **Miss Doll - Sheer Babydoll:** Professional boudoir photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Sheer pink tulle babydoll dress with fur trim, visible pink satin corset underneath, pink thigh highs. Pink platform slippers 16cm with fluff. Holding giant powder puff. Vacant cute stare. Vanity table. Professional photography.
+3. **Miss Doll - Pink Fur Bikini:** Professional glamour photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Micro pink fur bikini, pink leather corset belt, pink fur leg warmers over pink platform heels 16cm. Pink sunglasses. Blowing bubblegum. Vacant cool stare. Pink velvet sofa. Professional photography.
 
 **Helena (Outfit del Día - Absinthe Dream)**
 1. **Helena - Absinthe Standing:** Professional gossip photography of adult goth bimbo woman. Absinthe Dream outfit: black sheer mesh corset with POISON GREEN ribbons, black lace thong, black thigh-highs with green top, black stilettos 9-inch green sole. Standing full body. Intoxicated hypnotic stare. Green mood lighting. Professional photography.
@@ -103,9 +103,9 @@ Professional art photography of glamorous French aristocratic woman, Old Hollywo
 3. **Helena - Absinthe Close-Up:** Professional portrait of adult goth bimbo woman. Extreme close-up. Pale skin, dark green lips, green emerald choker. Eyes heavy with "the green fairy" influence. Smoke green atmosphere. Professional photography.
 
 **Anais**
-1. **Anais - Silk & Lace:** Professional vintage boudoir. Champagne silk slip with black lace trim, black garter belt, black stockings. So Kate 12cm. Lying on satin sheets. Soft sultry gaze.
-2. **Anais - The Black Widow:** Professional boudoir photography. Entirely sheer black lace robe, black satin corset, black panties. Standing by window. Cigarette holder. Dangerous sultry stare.
-3. **Anais - Satin Glamour:** Professional vintage photography. Peach satin bullet bra (vintage style), high waisted black satin panties, black corset. Applying perfume. Sensual elegant pose.
+1. **Anais - Silk & Lace:** Professional vintage boudoir photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft waves. Sensual lush beauty. Champagne silk slip with black lace trim, black garter belt, black stockings. So Kate stilettos 12cm. Lying on satin sheets. Soft sultry gaze. Professional photography.
+2. **Anais - The Black Widow:** Professional boudoir photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair loose. Sensual lush beauty. Entirely sheer black lace robe, black satin corset, black panties. So Kate stilettos 12cm. Standing by window. Cigarette holder. Dangerous sultry stare. Professional photography.
+3. **Anais - Satin Glamour:** Professional vintage photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in vintage waves. Sensual lush beauty. Peach satin bullet bra (vintage style), high waisted black satin panties, black corset. So Kate stilettos 12cm. Applying perfume. Sensual elegant pose. Professional photography.
 
 ### FETICHISMO EXPLORATORIO
 
@@ -115,14 +115,14 @@ Professional art photography of glamorous French aristocratic woman, Old Hollywo
 3. **Miss Doll - Balloon Girl:** Wearing inflatable pink latex ball dress (round), shiny surface. Floating/bouncing pose. Vacant surprised look.
 
 **Helena**
-1. **Helena - Living Puppet:** Marionette strings attached to wrists and ankles, black leather corset, black tutu. Suspended pose. Limp, empty expression. Dark stage.
-2. **Helena - Pet Play:** Wearing black leather puppy hood (open face), collagen collar with spikes, chain leash. Black leather corset and paws. Kneeling pose. Submissive devoted stare.
-3. **Helena - Rope Bondage (Shibari):** Complex red rope Shibari binding over black mesh dress. Suspended slightly. Blissful masochistic expression. Artistic lighting.
+1. **Helena - Living Puppet:** Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Marionette strings attached to wrists and ankles, black leather corset, black tutu. Black stilettos 8-inch. Suspended pose. Limp, empty expression. Dark stage. Professional photography.
+2. **Helena - Pet Play:** Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing black leather puppy hood (open face), spiked collar, chain leash. Black leather corset and paws. Black stilettos 8-inch. Kneeling pose. Submissive devoted stare. Dark dungeon. Professional photography.
+3. **Helena - Rope Bondage (Shibari):** Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Complex red rope Shibari binding over black mesh dress, black corset visible. Suspended slightly. Blissful masochistic expression. Artistic lighting. Professional photography.
 
 **Anais**
-1. **Anais - The Mistress (Whip):** Full tight black leather trench coat used as dress, black leather gloves, riding crop flexed. Dominant smile. Dungeon class.
-2. **Anais - Foot Worship:** Sitting on throne, extending one leg with Black So Kate stiletto. Dominant haughty stare down at camera (POV).
-3. **Anais - Medical Exam:** Wearing pristine white latex lab coat over black corset, black latex gloves. Holding medical chart. Cold clinical sultry stare.
+1. **Anais - The Mistress (Whip):** Professional fetish photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant updo. Sensual lush dominant beauty. Full tight black leather trench coat used as dress, black leather gloves, black corset visible. So Kate stilettos 12cm. Riding crop flexed. Dominant smile. Dungeon class. Professional photography.
+2. **Anais - Foot Worship:** Professional fetish photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair loose. Sensual lush beauty. Wearing black silk robe, black corset, black stockings. Sitting on throne, extending one leg with Black So Kate stiletto 12cm. Dominant haughty stare down at camera (POV). Dungeon throne. Professional photography.
+3. **Anais - Medical Exam:** Professional fetish photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in tight bun. Sensual lush beauty. Wearing pristine white latex lab coat over black corset, black latex gloves. So Kate stilettos 12cm. Holding medical chart. Cold clinical sultry stare. Dark examination room. Professional photography.
 
 ---
 
