@@ -55,6 +55,7 @@
 - [ ] Revisado
 - **Palabras:** ~970
 - **Observaciones:**
+Di la palabra, susurró la voz del enólogo. Quiere decir puta. Es lo que piensa. está voz eliminarla 
 
 ---
 
