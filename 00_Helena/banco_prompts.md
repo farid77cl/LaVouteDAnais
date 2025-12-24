@@ -35,7 +35,7 @@
 | **Pole/Stripper** | *"sultry bedroom eyes, pouty lips slightly parted, unattainable seductive gaze, she knows you're watching"* |
 | **Boudoir** | *"heavy-lidded seductive stare, biting lower lip, come-hither expression"* |
 | **Profesión** | *"ditzy confused smile with sensual undertone, vacant but inviting"* |
-| **BDSM/Fetish** | *"submissive doe eyes, glossy parted lips, yearning vacant stare"* |
+| **Glamour/Artistic** | *"gentle doe eyes, glossy parted lips, dreamy elegant stare"* |
 | **Dominante** | *"penetrating Venus stare, fixed and commanding, effortless dominance, chin elevated"* |
 
 
@@ -66,7 +66,7 @@
 | **Sumisa/Devoción** | *"devoted empty stare upward, glossy parted lips, yearning submissive gaze, pale face flushed"* |
 | **Depredadora** | *"hypnotic predator stare, dark glossy lips parted showing teeth, hungry seductive gaze"* |
 | **Boudoir** | *"heavy-lidded gothic seduction, dark lips wet and parted, intoxicated sensual stare"* |
-| **BDSM** | *"masochistic bliss expression, eyes rolled slightly, glossy dark lips moaning"* |
+| **Glamour/Artistic** | *"ethereal bliss expression, eyes heavy-lidded, glossy dark lips parted softly"* |
 | **Vacía/Bimbo** | *"completely vacant doll stare, dark lips slack and parted, no thought behind eyes, ditzy confusion"* |
 
 ---
