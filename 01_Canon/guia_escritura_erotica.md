@@ -5,6 +5,10 @@
 
 ---
 
+> ⚠️ **ANTES DE ESCRIBIR:** Leer obligatoriamente `00_Helena/preferencias_escritura.md`
+> Este archivo contiene las preferencias específicas del usuario, feedback histórico y patrones a evitar.
+> **Se actualiza dinámicamente** con cada corrección.
+
 ## I. Las Voces Narrativas
 
 Nuestro universo se narra a través de dos voces principales, cada una diseñada para evocar respuestas diferentes en el lector.
