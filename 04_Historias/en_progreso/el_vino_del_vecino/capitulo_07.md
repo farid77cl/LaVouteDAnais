@@ -8,27 +8,53 @@ Pero eso fue antes del vino.
 
 Los cambios habían sido más rápidos en ella que en su madre. La juventud, quizás, o una resistencia menor a lo que el vino revelaba. Cada copa disolvía capas de la persona que creía ser, exponiendo algo más primitivo debajo.
 
-Primero fueron los pensamientos. Estudiar se volvió... difícil. Las palabras en sus libros de texto nadaban como peces en agua turbia, escurriéndose antes de que pudiera atraparlas. Conceptos que antes dominaba ahora le parecían abstracciones inútiles.
+Primero fueron los pensamientos. O más bien, la ausencia de ellos.
 
-*¿Para qué sirve el derecho constitucional cuando tienes estas piernas?*, susurraba la voz que había tomado residencia en su cabeza.
+Estudiar se volvió... difícil. Imposible. Las palabras en sus libros de texto nadaban como peces en agua turbia, escurriéndose antes de que pudiera atraparlas. Conceptos que antes dominaba ahora le parecían ruido sin sentido.
 
-Después vino la obsesión con el espejo. Horas enteras frente a su reflejo, estudiando ángulos, practicando sonrisas, preguntándose cómo se vería con labios más gruesos, con pechos más grandes, con menos... ella.
+*¿Quién fue Montesquieu?*
 
-—Like, mamá —dijo una mañana, y ambas se detuvieron al escuchar la palabra—. ¿Dónde compraste ese vestido?
+No recordaba. Y lo peor: no le importaba.
 
-Roxy sonrió. Era la sonrisa de una araña viendo a una mosca acercarse a su red.
+*¿Para qué sirve el derecho constitucional cuando tienes estas piernas?*, susurraba la voz que había tomado residencia en su cabeza. *¿Para qué sirve pensar cuando se siente tan bien no hacerlo?*
+
+Después vino el calor. Constante. Insistente. Entre sus piernas.
+
+Lucía se despertaba mojada. Se duchaba y se mojaba de nuevo. Veía hombres en la calle —cualquier hombre, todos los hombres— y sentía una pulsación urgente en su coño que antes nunca había experimentado.
+
+*Necesito que me follen*, pensó un día mientras veía al cartero. El pensamiento la habría horrorizado una semana antes. Ahora solo la hizo apretar los muslos y morder su labio nuevo, más grueso, más sensible.
+
+Después vino la obsesión con el espejo. Horas enteras frente a su reflejo, estudiando ángulos, practicando pucheros, preguntándose cómo se vería con labios más gruesos, con pechos más grandes, con menos... cerebro.
+
+*Menos cerebro*, repitió la idea. Y algo entre sus piernas palpitó con aprobación.
+
+—Like, mamá —dijo una mañana, y ambas se detuvieron al escuchar la palabra saliendo de su boca. Lucía nunca había dicho "like". Pero ahora se sentía natural—. ¿Dónde compraste ese vestido? Es tipo... súper hot.
+
+Roxy sonrió. Era la sonrisa de una araña viendo a una mosca acercarse a su red, pero también la sonrisa de una madre viendo a su hija seguir sus pasos.
 
 —Ven, cariño. Vamos de compras.
 
 El centro comercial se convirtió en el nuevo templo de Lucía. Roxy la guió por tiendas que jamás habría pisado —boutiques de látex, tiendas de lencería, zapaterías donde los tacones empezaban en los diez centímetros. Compraron vestidos que apenas cubrían lo esencial, tops que dejaban poco a la imaginación, faldas que eran más una sugerencia que una prenda.
 
-En el probador, madre e hija se observaron mutuamente en el espejo. Dos depredadoras en diferentes etapas de evolución.
+En el probador, Lucía se quitó la ropa vieja —jeans, camiseta de universidad, sujetador deportivo— y se miró desnuda en el espejo. Su cuerpo todavía era el de antes, pero algo en cómo lo veía había cambiado.
 
-—Te ves hermosa —dijo Roxy.
+*Necesito más curvas*, pensó. *Necesito tetas grandes. Necesito ser... más.*
 
-—Me veo... —Lucía buscó la palabra—. ¿Tipo... sexy?
+Se puso el primer vestido —leopardo, corto, escotado— y algo hizo clic en su cerebro. O más bien, algo se apagó.
 
-*Tipo sexy*, confirmó la voz. *Eso es todo lo que necesitas ser.*
+La Lucía que leía a Kant. La Lucía que soñaba con la Corte Suprema. La Lucía con opiniones y ambiciones.
+
+Apagada. Como una luz que alguien había olvidado encender.
+
+Y en su lugar... calor. Solo calor. Y hambre. Y la necesidad de ser mirada, tocada, usada.
+
+—Te ves hermosa —dijo Roxy desde fuera del probador.
+
+—Me veo... —Lucía buscó la palabra, pero las palabras eran difíciles ahora—. ¿Tipo... sexy? ¿Como una puta?
+
+La última palabra salió sin filtro. Y se sintió correcta.
+
+*Tipo sexy*, confirmó la voz. *Tipo puta. Eso es todo lo que necesitas ser.*
 
 Pero las compras fueron solo el comienzo. Después de cargar el auto con bolsas de boutiques que Lucía jamás habría pisado sola, Roxy la llevó al siguiente templo de transformación.
 

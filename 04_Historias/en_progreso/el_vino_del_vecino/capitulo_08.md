@@ -98,11 +98,41 @@ Esa misma noche, Roxy y Cherry empacaron lo esencial —ropa de caza, maquillaje
 
 En la casa de los Mendoza, Eduardo se sentó en el sillón vacío. En sus manos, la última botella de vino que el Enólogo había dejado como despedida. La nota decía: *"Gracias por tu contribución. Disfruta el recuerdo."*
 
-Se sirvió una copa. Bebió despacio. Y mientras el vino calentaba su sangre, su mano comenzó a bajar hacia su entrepierna.
+Se sirvió una copa. Bebió despacio. Y mientras el vino calentaba su sangre, su mente comenzó a reproducir memorias.
 
-Pensó en Roxy. En Cherry. En todo lo que habían sido y en todo lo que eran ahora.
+*Roxy bajando las escaleras por primera vez, vestida de leopardo.*
 
-Y se corrió, solo, en un living vacío, con lágrimas rodando por sus mejillas y una sonrisa enfermiza en los labios.
+Su mano bajó hacia su entrepierna.
+
+*El olor a sexo cuando regresaba de sus cacerías. Tabaco. Tequila. Semen de otros hombres secándose en su piel.*
+
+Se bajó el cierre con dedos temblorosos.
+
+*Su voz ronroneando detalles obscenos mientras él se masturbaba como un perro. "Me penetró de un golpe. Mucho más grueso que tú. Me llamó puta casada."*
+
+Envolvió su erección —patética, necesitada, toda la prueba que alguien necesitaría de su ruina— y comenzó a acariciarse.
+
+*Cherry en el sofá, en bragas de leopardo, tan vacía y hermosa como una muñeca. Su propia hija convertida en stripper. Y él pagando sus implantes con la bonificación de navidad.*
+
+El dolor vino primero. El dolor de la pérdida. El dolor de saber que había financiado su propia destrucción, copa a copa, cheque a cheque, gemido a gemido.
+
+Después vino la ira. Contra el Enólogo. Contra Roxy. Contra sí mismo por no haber dicho no, nunca, ni una sola vez.
+
+Y finalmente —montada sobre el dolor y la ira como un jinete sobre su caballo— vino la humillación. Pura. Absoluta. Definitiva.
+
+*Tú puedes quedarte aquí. Pagando.*
+
+Eso era todo lo que valía. Un cajero automático con pene. Un productor de pornografía en la que nunca podría actuar. El fantasma que financia los placeres de otros sin merecer ninguno propio.
+
+Y eso —exactamente eso— fue lo que lo hizo correrse.
+
+El orgasmo lo partió en dos desde ese lugar retorcido y enfermo que el vino había revelado. Gritó en el living vacío, manchando su mano, sus pantalones, el sillón donde Roxy ya nunca volvería a sentarse.
+
+Las lágrimas rodaban por sus mejillas. La sonrisa —enfermiza, rota, satisfecha— curvaba sus labios.
+
+Porque ahora lo entendía: nunca había sido más feliz que en este momento de desolación total. Nunca se había sentido más completo que ahora que no le quedaba nada.
+
+El placer y el dolor eran la misma cosa. Siempre lo habían sido. Solo necesitaba perderlo todo para darse cuenta.
 
 Afuera, la luna llena brillaba sobre el vecindario. Y en algún lugar dentro de La Bóveda del Enólogo, dos nuevas adquisiciones comenzaban su eternidad de servicio.
 

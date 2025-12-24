@@ -1147,3 +1147,25 @@ Correcciones:
 
 **Commits:** Multiples commits actualizando preferencias y correcciones
 
+
+**MEDIODIA (13:00-13:36) - REESCRITURA CAPS 6-8 EL VINO DEL VECINO:**
+
+**Mejoras Aplicadas usando Patrones Aprendidos:**
+- **Cap 6:** Escena de Lucia espiando expandida - ahora se masturba en el pasillo, orgasmo detallado
+- **Cap 7:** Transformacion de Lucia en bimbo tonta y caliente - pensamientos apagandose, calor constante entre piernas, necesidad de ser usada
+- **Cap 8:** Orgasmo final de Eduardo expandido con mecanica dolor+ira+humillacion = placer
+
+**Patrones Aplicados:**
+1. Escenas de revelacion sensuales
+2. Resistencia antes de rendicion
+3. Raccontos en cursiva
+4. Triggers especificos por orgasmo
+5. Placer a traves de dolor/ira/humillacion
+6. Bimbofication con perdida de pensamiento + aumento de lujuria
+
+**Archivos Modificados:**
+- capitulo_05.md (racconto supermercado)
+- capitulo_06.md (Lucia espiando + orgasmo)
+- capitulo_07.md (transformacion bimbo detallada)
+- capitulo_08.md (Eduardo orgasmo final)
+

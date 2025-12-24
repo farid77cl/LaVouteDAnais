@@ -126,15 +126,31 @@ Eduardo temblaba, sus caderas empujando contra la mano de ella, los gemidos esca
 
 "Eso no te lo has ganado."
 
-Lucía, paralizada en el pasillo, sentía sus propios muslos apretarse. Su respiración se había vuelto superficial. Y lo peor de todo — lo absolutamente imperdonable — era la humedad que sentía entre sus piernas.
+Lucía, paralizada en el pasillo, sentía su cuerpo traicionarla.
+
+Sus muslos se apretaron solos. Su respiración se volvió superficial, entrecortada. Y lo peor de todo —lo absolutamente imperdonable— era la humedad que sentía empapando sus bragas. Caliente. Vergonzosa. Creciente con cada palabra que escuchaba.
+
+*Esto está mal*, gritó la parte de ella que aún era estudiante de Derecho. *Son tus padres. Esto es enfermo.*
+
+Pero su mano —traicionera como todo su cuerpo— se deslizó hacia abajo. Rozó el elástico de su pijama. Se detuvo ahí, temblando, mientras sus ojos no podían apartarse de la escena.
 
 "Diez segundos. Córrete ahora o espera hasta mañana."
 
-Eduardo gritó — un sonido patético, desesperado — mientras su cuerpo convulsionaba. Roxy siguió acariciándolo durante todo el orgasmo, exprimiendo cada gota de su humillación.
+Eduardo gritó —un sonido patético, desesperado, el sonido de un animal sometido— mientras su cuerpo convulsionaba bajo las manos de Roxy.
 
-"Buen chico", murmuró ella cuando terminó, limpiando su mano en las sábanas. "Ahora límpiame los pies. Mañana tenemos mucho que hacer."
+Y Lucía, en el pasillo oscuro, se mordió el labio tan fuerte que sangró. Porque ella también estaba al borde. Ella también estaba a punto de correrse solo de mirar. Solo de escuchar. Solo de entender, por primera vez, qué tipo de oscuridad habitaba en su propia sangre.
 
-Lucía retrocedió en silencio, el corazón martilleando en su pecho. Regresó a su habitación con las piernas temblorosas y una sensación extraña entre las piernas que no podía — no quería — nombrar.
+"Buen chico", murmuró Roxy cuando terminó, limpiando su mano en las sábanas. "Ahora límpiame los pies. Mañana tenemos mucho que hacer."
+
+Lucía retrocedió en silencio, el corazón martilleando en su pecho, los muslos pegajosos, el calor entre sus piernas pulsando como un segundo corazón. Regresó a su habitación con las piernas temblorosas y una necesidad que no podía —no quería— nombrar.
+
+*No debería excitarte*, susurró la voz nueva en su cabeza. *Pero lo hace. Y mañana va a excitarte más. Y pasado mañana... vas a querer participar.*
+
+Lucía hundió la cara en la almohada para ahogar el gemido. Su mano finalmente cedió, bajando entre sus piernas, encontrando el calor húmedo que la esperaba.
+
+Se tocó pensando en su madre. En su padre atado. En la voz de Roxy diciendo "puta", "patético", "córrete ahora".
+
+Y cuando el orgasmo la golpeó —silencioso, convulso, devastador—, supo que la Lucía de antes había muerto esa noche en el pasillo.
 
 *No debería excitarte*, susurró una voz que no reconocía. *Pero lo hace, ¿verdad?*
 
