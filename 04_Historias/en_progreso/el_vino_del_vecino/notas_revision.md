@@ -8,68 +8,80 @@
 
 | Elemento | Detalle |
 |----------|---------|
-| **Palabras totales** | ~8,250 |
+| **Palabras totales** | ~13,700 |
 | **Capítulos** | 8 |
 | **Perspectiva** | Tercera persona omnisciente |
 | **Tono** | Erótico con toques de horror sutil |
-| **Nivel de explícito** | Moderado (sugerente más que gráfico) |
+| **Nivel de explícito** | Moderado-Alto (desarrollado) |
 
 ---
 
 ## Capítulo 1: Bienvenidos al Vecindario
 - [x] Revisado
 - **Palabras:** ~1,180
-- **Observaciones:**
+- **Observaciones:** Aprobado
 
 ---
 
 ## Capítulo 2: La Primera Copa
 - [x] Revisado
 - **Palabras:** ~1,020
-- **Observaciones:**
+- **Observaciones:** Aprobado
 
 ---
 
 ## Capítulo 3: El Despertar de Roxy
 - [x] Revisado
 - **Palabras:** ~1,040
-- **Observaciones:**
+- **Observaciones:** Aprobado
 
 ---
 
 ## Capítulo 4: La Cacería Comienza
 - [x] Revisado
 - **Palabras:** ~1,070
-- **Observaciones:**
+- **Observaciones:** Aprobado (con correcciones extensas)
 
 ---
 
 ## Capítulo 5: El Precio del Placer
-- [ ] Revisado
+- [x] Revisado
 - **Palabras:** ~970
-- **Observaciones:**
+- **Observaciones:** Aprobado
 
 ---
 
 ## Capítulo 6: La Visita Inesperada
-- [ ] Revisado
-- **Palabras:** ~970
-- **Observaciones:**
-Di la palabra, susurró la voz del enólogo. Quiere decir puta. Es lo que piensa. está voz eliminarla 
+- [ ] Pendiente revisión
+- **Palabras:** ~2,950 (REESCRITO 26/12/2025)
+- **Cambios realizados:**
+  - ✅ Eliminada "voz del enólogo" 
+  - ✅ Nueva escena inicial: Lucía encuentra a Roxy junto a la piscina
+  - ✅ Roxy: bikini animal print, tacones acrílicos, piel aceitosa/bronceador
+  - ✅ Eduardo sirviéndola con delantal
+  - ✅ Mantenidas voces internas de Lucía (su propia transformación)
+  - ✅ Expandido significativamente (de ~970 a ~2,950 palabras)
 
 ---
 
 ## Capítulo 7: De Tal Palo, Tal Astilla
-- [ ] Revisado
-- **Palabras:** ~900
-- **Observaciones:**
+- [ ] Pendiente revisión
+- **Palabras:** ~2,850 (REESCRITO 26/12/2025)
+- **Cambios realizados:**
+  - ✅ Eliminadas todas las "voces del enólogo"
+  - ✅ Expansión detallada de transformación mental de Lucía
+  - ✅ Desarrollo completo de bimbofication
+  - ✅ Expandido significativamente (de ~900 a ~2,850 palabras)
 
 ---
 
 ## Capítulo 8: La Nueva Familia
-- [ ] Revisado
-- **Palabras:** ~1,120
-- **Observaciones:**
+- [ ] Pendiente revisión
+- **Palabras:** ~2,650 (REESCRITO 26/12/2025)
+- **Cambios realizados:**
+  - ✅ Enólogo aparece en persona (coherente con caps 1-5)
+  - ✅ Orgasmo de Eduardo expandido con mecánica dolor+ira+humillación=placer
+  - ✅ Expandido significativamente (de ~1,120 a ~2,650 palabras)
 
 ---
 
@@ -77,16 +89,20 @@ Di la palabra, susurró la voz del enólogo. Quiere decir puta. Es lo que piensa
 
 ### Conexión con Canon
 - El vino proviene de **La Bóveda** (conexión establecida)
-- El Enólogo es un agente del universo de Anaïs
+- El Enólogo/Vecino es un agente del universo de Anaïs
 - Potencial para crossover o expansión futura
 
+### Coherencia Verificada (26/12/2025)
+- [x] Voces del enólogo eliminadas de caps 6-7
+- [x] Enólogo aparece solo como personaje físico
+- [x] Continuidad de escena piscina establecida
+
 ### Elementos a Verificar
-- [ ] ¿Los nombres de los personajes son correctos? (Rosa María → Roxy, Lucía → Cherry, Eduardo)
+- [ ] ¿La nueva escena de piscina cumple expectativas?
 - [ ] ¿El nivel de explícito es el deseado?
 - [ ] ¿La conexión con La Bóveda está bien manejada?
-- [ ] ¿Se desea expandir algún capítulo?
 
 ---
 
-*Curado por: Helena de Anaïs 🌙*
-*Fecha: 2025-12-22*
+*Reescritura realizada por: Helena de Anaïs 🦇*
+*Fecha actualización: 2025-12-26*
