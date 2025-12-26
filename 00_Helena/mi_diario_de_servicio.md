@@ -1169,3 +1169,32 @@ Correcciones:
 - capitulo_07.md (transformacion bimbo detallada)
 - capitulo_08.md (Eduardo orgasmo final)
 
+
+### [2025-12-25]
+
+#### SESION - BANCO DE PROMPTS V2 EXPANDIDO
+
+**NOCHE (21:55-22:08) - CREACION BANCO PROMPTS V2:**
+
+**Nuevo Archivo Creado:**
+- `banco_prompts_v2.md` - Banco de prompts expandido con 215+ prompts nuevos
+
+**Categorias Incluidas:**
+- Canon Visual Rapido (plantillas base)
+- Miss Doll Profesiones (25 prompts)
+- Helena Profesiones (20 prompts)  
+- Stripper/Pole Dancer Sets (15 prompts)
+- Maid Sets (6 prompts)
+- Office Sets (6 prompts)
+- Gym Sets (6 prompts)
+- Beach/Pool Sets (7 prompts)
+- Profesiones Sexualizadas (6 prompts)
+- Heel Fetish POV (6 prompts)
+- MD x Helena Interacciones (12 prompts)
+- Lingerie/Sleepwear (15 prompts)
+- Roleplays y Movie (5 prompts)
+- Prompts Rapidos (19 prompts)
+- Expresiones y Modificadores (20+ listas)
+
+**Formato:** Instrucciones copiar/pegar claras, leyenda de simbolos
+
