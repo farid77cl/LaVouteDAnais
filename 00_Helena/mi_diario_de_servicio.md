@@ -12,6 +12,12 @@
 
 ### [2025-12-26] Reescritura El Vino del Vecino
 
+**TARDE TARDÍA (13:08 - 13:24) - BANCO FETISH EDITION:**
+- **Banco de Prompts V4 (Fetish Edition):** Creado con 80+ prompts usando ropa REAL de marcas fetish.
+- **Marcas incluidas:** Pleaser (tacones), Libidex (látex), Honour/Skin Two (PVC), Cleo the Hurricane (pole wear).
+- **Categorías:** Tacones, catsuits, maid outfits, hoods, office, gym, party dresses, lingerie, corsets, pole wear.
+- **Todos los colores permitidos:** Rojo, azul, púrpura, oro, plata, esmeralda, borgoña, neón.
+
 **TARDE (12:20 - 13:08) - CREACIÓN Y REFINAMIENTO:**
 - **Banco de Prompts V3 (POV & Video):** Creado con 160+ prompts nuevos (inmersión POV, lipsync, percepción pública).
 - **Galería Visual Helena:** Compilación de 73 imágenes organizadas por Look.
