@@ -48,31 +48,49 @@ El pensamiento dolió. Más de lo que debería. Y en ese dolor, una semilla se p
 
 *Quiero verme mejor. Quiero verme como ella.*
 
-—Tengo contactos —continuó Roxy, como si pudiera leer los pensamientos de su hija—. En un club llamado Medianoche. Es exclusivo. Las chicas que bailan ahí ganan miles por noche. Miles, Lucía. Solo por moverse y sonreír.
+—Ya hablé con Tony —soltó Roxy de repente, examinando sus uñas acrílicas—. Le dije que mi hija empieza el mes que viene.
 
-—Yo no sé bailar.
+Lucía parpadeó, confundida por el vino y el cambio abrupto de tema.
 
-Roxy sonrió. La sonrisa de alguien que había esperado exactamente esas palabras.
+—¿Tony? ¿Empiezo qué?
 
-—Te enseño. —Se levantó de la tumbona y le ofreció la mano—. Pero primero, necesitamos equipamiento.
+—En Medianoche. El club. —Roxy la miró por encima de sus gafas de sol, con una expresión que no admitía réplica—. Vas a ser stripper, Lucía. Ya está decidido.
+
+El estómago de Lucía dio un vuelco. No de miedo, curiosamente. Sino de vértigo.
+
+—Mamá, yo... yo estudio Derecho. Soy la mejor de la clase.
+
+—Estudiabas. —Roxy le quitó la copa de la mano, bebió un sorbo y se la devolvió—. Mírate. —Hizo un gesto vago hacia el cuerpo de Lucía en bikini—. ¿De verdad crees que eso pertenece a un tribunal? No seas ridícula. Ese cuerpo es para el escenario. Eres demasiado bonita para ser inteligente, cariño.
+
+La frase golpeó a Lucía con la fuerza de una sentencia. *Demasiado bonita para ser inteligente.* Sonaba insultante. Y sin embargo... se sentía como un alivio. Como si le hubieran quitado un peso de encima.
+
+—Pero no sé bailar —susurró, su última línea de defensa desmoronándose.
+
+—Aprenderás. —Roxy se levantó, dando el asunto por zanjado—. Y serás la mejor. Porque eres mi hija.
 
 ---
 
 Esa misma tarde, fueron de compras.
 
-No a tiendas normales. Roxy la llevó a un lugar en las afueras de la ciudad, una bodega industrial reconvertida en showroom de equipamiento para clubes de adultos. El letrero decía "Pole Dance Pro" en neón rosa.
+No fue una invitación. Fue una orden. Roxy la llevó a un lugar en las afueras, una bodega industrial con un letrero de neón rosa que rezaba "Pole Dance Pro".
 
-—¿Un tubo? —Lucía arrugó la nariz—. Mamá, esto es...
+—¿Un tubo? —Lucía miró el objeto cromado con mezcla de incredulidad y fascinación mórbida.
 
-—Es tu futuro, cariño. —Roxy señaló los modelos de exhibición—. Los buenos cuestan dos mil. Pero si vas a aprender a bailar, necesitas el mejor.
+—Tu nueva oficina —corrigió Roxy, señalando el modelo más caro de la exhibición—. Deja de poner esa cara de virgen asustada. Tony espera que seas una estrella, y no voy a dejar que mi hija haga el ridículo en su primera noche. Vas a practicar hasta que te sangren los pies.
 
-Compraron el tubo. Cromado, giratorio, altura profesional. También compraron tacones de práctica —plataformas de acrílico transparente, "solo quince centímetros para empezar"— y un kit de maquillaje que Roxy insistió era "esencial para entender el look".
+Compraron el tubo. Cromado, giratorio, altura profesional. Roxy ni siquiera miró los precios. También añadió al carrito tacones de práctica de quince centímetros.
 
-Lucía pagó con la tarjeta de su padre. El cargo fue de cuatro mil dólares.
+—Pruébatelos —ordenó.
 
-—Eduardo lo entenderá —dijo Roxy mientras cargaban las cajas en el auto—. Es una inversión en tu futuro.
+Lucía obedeció. Al deslizar sus pies en el plástico transparente, sintió que su estatura cambiaba. Su centro de gravedad se desplazaba. Su trasero se elevaba.
 
-*Inversión*, pensó Lucía. La palabra sonaba correcta. Profesional. No como "mi madre me está convirtiendo en stripper".
+—Bien —sentenció Roxy—. Nos los llevamos. Y el kit de maquillaje de puta de lujo. Lo vas a necesitar.
+
+Lucía pagó todo con la tarjeta de su padre. El cargo fue de cuatro mil dólares.
+
+—Eduardo no dirá nada —aseguró Roxy mientras cargaban las cajas—. Está pagando por tu educación. Solo que cambiamos de carrera.
+
+*Cambiamos de carrera*, pensó Lucía, subiéndose al auto. No hubo votación. No hubo consulta. Su madre había decidido, y el universo simplemente se había reajustado a su voluntad.
 
 ---
 
