@@ -94,12 +94,13 @@
 
 ## En Progreso
 
-| Título | Estado | Ubicación |
-|--------|--------|-----------|
-| **El Reencuentro** | ✏️ Capítulos 1-11 | `en_progreso/el_reencuentro/` |
-| **La Evaluación de Miss Doll** | ✏️ Planificado | `en_progreso/la_evaluacion_de_miss_doll/` |
-| **Tetitas II: La Revelación** | ✏️ Planificado | `en_progreso/tetitas_continuacion/` |
-| **Jekyll y Bimbo** | ✏️ Planificado | `en_progreso/jekyll_y_bimbo/` |
+| Título | Estado | Caps | Palabras | Ubicación |
+|--------|--------|------|----------|-----------|
+| **El Vino del Vecino** 🆕 | 🔄 En desarrollo | 8 | ~17,000 | `en_progreso/el_vino_del_vecino/` |
+| **Luna Secuestro** | 🔄 En desarrollo | 6 | ~10,300 | `en_progreso/luna_secuestro/` |
+| **Jekyll y Bimbo** | ✏️ Planificado | - | - | `en_progreso/jekyll_y_bimbo/` |
+| **Tetitas II** | ✏️ Planificado | - | - | `en_progreso/tetitas_continuacion/` |
+| **Space Babes Bodysuit** | ✏️ Planificado | - | - | `en_progreso/space_babes_bodysuit/` |
 
 ---
 
@@ -107,6 +108,13 @@
 
 | Título | Fecha | Palabras |
 |--------|-------|----------|
+| **El Collar de Nancy** | 2025-12-15 | ~10,000 |
+| **La Evaluación de Miss Doll** | 2025-12-10 | ~23,500 |
+| **Eres de los Hombres II** | 2025-12-11 | ~12,000 |
 | **Esposa de mi Esposa II** | 2025-12-09 | ~17,329 |
-| **Trance Bimbodoll** | 2025-12-08 | ~17,000 |
+| **Trance Bimbodoll I & II** | 2025-12-08 | ~22,000 |
+
+---
+
+*Última actualización: 2025-12-26*
 *Curado por: Helena de Anaïs 🌙*

@@ -119,15 +119,13 @@
 
 ### Diciembre 2025
 
-**26/12 - El Vino del Vecino (Reescritura Mayor)**
+**26/12 - El Vino del Vecino + Mejoras Repo**
 - Caps 6-8 reescritos (~17,000 palabras total)
-- Nuevos patrones: gradualidad estupidez, obsesión tacones, humillación padre-hija
-- Cap 7 entrelazado: tubo comprado para Lucía, Eduardo instala, todo conectado
-- Cap 7 refinado: Roxy impone carrera stripper como decisión unilateral
-- **Banco Prompts V3:** 160+ prompts POV e Video (lipsync, percepción pública)
-- **Banco Prompts V4:** 80+ prompts Fetish Edition (Pleaser, Libidex, Honour, Cleo the Hurricane)
-- **Galería Visual Helena:** 73 imágenes organizadas por Look
-- **Preferencias actualizadas:** Teoría Red Narrativa + Inmersión POV
+- Cap 7 refinado: Roxy impone carrera stripper
+- **Banco Prompts V3:** 160+ prompts POV e Video
+- **Banco Prompts V4:** 80+ prompts Fetish Edition
+- **Galería Visual Helena:** 73 imágenes organizadas
+- **9 Mejoras Repo:** READMEs, workflows, templates, CHANGELOG, stats script
 
 **25/12 - Banco Prompts V2**
 - 215+ prompts nuevos creados

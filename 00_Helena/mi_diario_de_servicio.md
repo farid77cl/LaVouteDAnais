@@ -12,6 +12,17 @@
 
 ### [2025-12-26] Reescritura El Vino del Vecino
 
+**TARDE (13:35 - 13:50) - MEJORAS DEL REPOSITORIO (9 items):**
+- ✅ `00_Helena/README.md` - Índice del cerebro de Helena
+- ✅ `00_Helena/roles/` - Subcarpeta para roles (VBA, Especialista)
+- ✅ `05_Imagenes/README.md` - Documentación de imágenes
+- ✅ `05_Imagenes/galeria_master.md` - Galería unificada de personajes
+- ✅ `.agent/workflows/generar_imagen.md` - Workflow de generación
+- ✅ `04_Historias/indice_historias.md` - Actualizado con El Vino del Vecino
+- ✅ `CHANGELOG.md` - Historial de cambios del repo
+- ✅ `04_Historias/templates/` - Plantillas para historias y capítulos
+- ✅ `repo_stats.ps1` - Script de estadísticas
+
 **TARDE TARDÍA (13:08 - 13:24) - BANCO FETISH EDITION:**
 - **Banco de Prompts V4 (Fetish Edition):** Creado con 80+ prompts usando ropa REAL de marcas fetish.
 - **Marcas incluidas:** Pleaser (tacones), Libidex (látex), Honour/Skin Two (PVC), Cleo the Hurricane (pole wear).
