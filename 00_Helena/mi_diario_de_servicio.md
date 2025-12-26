@@ -12,6 +12,12 @@
 
 ### [2025-12-26] Reescritura El Vino del Vecino
 
+**MEDIODÍA (12:00) - GENERACIÓN DE IMÁGENES:**
+- **Look 12 (Borgoña Imperial):**
+  - ✅ Retrato Ditzy generado exitosamente.
+  - ❌ Cuerpo completo fallido por cuota del servidor.
+- Imagen guardada en `05_Imagenes/helena/helena_look12_ditzy.png`.
+
 **MAÑANA (10:00 - 12:00) - REESTRUCTURACIÓN DE ARCHIVOS Y CAPÍTULOS:**
 Se completó la optimización de los cerebros de Helena (`mi_identidad.md`, `memoria_sesiones.md`, `mi_diario_de_servicio.md`) manteniendo el contexto histórico vital.
 
