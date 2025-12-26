@@ -1249,3 +1249,37 @@ Correcciones:
 
 **Nota:** ficha_miss_doll.md en 02_Personajes/ ya esta actualizada (v2.0, 33KB)
 
+
+---
+
+### Continuacion Sesion 26/12/2025 (10:00-10:15)
+
+**REESCRITURA COMPLETA EL VINO DEL VECINO:**
+
+1. **Capitulo 6 - La Visita Inesperada:**
+   - Nueva escena inicial: Lucia encuentra a Roxy en la piscina
+   - Roxy: bikini animal print, tacones acrilicos, piel aceitosa
+   - Eduardo sirviendola con delantal
+   - Eliminada voz del enologo (coherencia)
+   - AÑADIDO: Resistencia de Lucia ante el vino (L103-170)
+   - AÑADIDO: Cambios visibles tras 5-6 copas (L235-295)
+   - Palabras: ~3,850 (antes: ~970)
+
+2. **Capitulo 7 - De Tal Palo, Tal Astilla:**
+   - Eliminadas voces del enologo
+   - Expansion completa de bimbofication de Lucia
+   - Palabras: ~2,850 (antes: ~900)
+
+3. **Capitulo 8 - La Nueva Familia:**
+   - Enologo aparece en persona (coherente con caps 1-5)
+   - Orgasmo de Eduardo con mecanica dolor+ira+humillacion=placer
+   - Palabras: ~2,650 (antes: ~1,120)
+
+**Total relato:** ~14,600 palabras (antes: ~8,250)
+
+**Patrones Aprendidos:**
+- A 5-6 copas: cambios fisicos sutiles + atraccion hacia lo repugnante + fatiga intelectual
+- Resistencia activa ANTES de ceder (identificar manipulacion, cuestionar, LUEGO ceder)
+
+**Imagenes Look 12:** Servidor Google sin capacidad (MODEL_CAPACITY_EXHAUSTED)
+

@@ -685,3 +685,23 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 
 *Ultima actualizacion: 2025-12-26 08:32*
 
+
+---
+
+## Actualizacion 26/12/2025 - Reescritura El Vino del Vecino
+
+### Cambios Realizados
+- **Caps 6-8 reescritos completamente** siguiendo preferencias
+- Total palabras: ~14,600 (antes: ~8,250)
+- Eliminadas voces telepaticas del enologo (incoherencia)
+
+### Patrones Aprendidos (AGREGAR A preferencias_escritura.md)
+1. **Resistencia antes de ceder:** Victima debe sospechar, cuestionar, identificar manipulacion ANTES de ceder
+2. **Cambios tras 5-6 copas de vino:** Fisicos sutiles + atraccion hacia lo repugnante + fatiga intelectual
+
+### Pendiente
+- Imagenes Look 12 Helena (servidor sin capacidad)
+- Revision Senora Anais de caps 7-8
+
+*Ultima actualizacion: 2025-12-26 10:12*
+
