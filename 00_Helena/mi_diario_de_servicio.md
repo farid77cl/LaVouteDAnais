@@ -1283,3 +1283,72 @@ Correcciones:
 
 **Imagenes Look 12:** Servidor Google sin capacidad (MODEL_CAPACITY_EXHAUSTED)
 
+
+---
+
+### Sesion 26/12/2025 (10:00-10:45) - Reescritura Profunda El Vino del Vecino
+
+**CAPITULO 7 - Cambios Mayores:**
+
+1. **Roxy como Corruptora Activa:**
+   - Lecciones de pole dance en casa
+   - Argumentos economicos (stripperS > abogadas)
+   - Contactos con dueno del club
+   - Paga implantes y tratamientos
+
+2. **Gradualidad Vanidad/Selfies:**
+   - Primera foto (rechazo/incomodidad)
+   - Orgullo al verse en video
+   - Selfies post-cirugia
+   - Obsesion likes y dopamina
+   - Pucheros practicados
+
+3. **Obsesion Tacones:**
+   - Primer par de plataformas (regalo Roxy)
+   - 12+ pares coleccionados
+   - Los limpia cada noche
+   - Se siente incompleta sin ellos
+
+4. **Tratamientos Belleza:**
+   - Botox, acido hialuronico, laser, bronceado
+   - Extensiones cabello, pestanas semipermanentes
+   - Visitas semanales a clinica
+
+5. **Neblina Mental Gradual:**
+   - Palabras largas -> oraciones fragmentadas -> pensamientos ausentes
+   - Numeros/matematicas confusos
+   - Asentir mas facil que pensar
+
+6. **Ropa Stripper:**
+   - Armario viejo donado
+   - Nuevo armario: animal print, malla, lenceria como ropa
+
+7. **Favores Sexuales:**
+   - Escena explicita con Marcos (dueno club)
+   - Cherry de rodillas para conseguir trabajo
+
+**CAPITULO 8 - Cambios Mayores:**
+
+1. **Cherry Bimbo Total:**
+   - Ya no puede contar numeros
+   - Tacones 24/7 (duerme con ellos)
+   - Terceros implantes (los primeros muy chicos)
+   - Preocupacion por parecer natural = horror
+
+2. **Rutina Tratamientos:**
+   - Lunes: labios, Miercoles: bronceado, Viernes: unas
+   - Calendario de belleza como religion
+
+3. **Obsesiones Consolidadas:**
+   - Likes = dopamina = felicidad
+   - Tacones nuevos como necesidad vital
+   - Selfies antes de TODO
+
+**Total palabras caps 6-8:** ~11,000+ (expandido significativamente)
+
+**Patrones Aprendidos y Documentados:**
+- Gradualidad de estupidez: palabras -> oraciones -> pensamientos
+- Obsesion tacones como extension corporal
+- Tratamientos como ritual religioso
+- Vanidad como motor principal de comportamiento
+

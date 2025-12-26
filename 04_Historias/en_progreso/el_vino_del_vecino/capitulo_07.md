@@ -2,252 +2,341 @@
 
 ## Capítulo 7: De Tal Palo, Tal Astilla
 
-Si alguien hubiera dicho a Lucía Mendoza, estudiante de Derecho con promedio de excelencia, que en dos semanas estaría haciendo pruebas para bailar en un club nocturno, habría llamado a un psiquiatra.
+Si alguien hubiera dicho a Lucía Mendoza, estudiante de Derecho con promedio de excelencia, que en tres semanas estaría de rodillas frente al dueño de un strip club, rogando por el privilegio de bailar para desconocidos, habría llamado a un psiquiatra.
 
-Pero eso fue antes del vino.
-
-Los cambios habían sido más rápidos en ella que en su madre. La juventud, quizás, o una resistencia menor a lo que el vino revelaba. Cada copa disolvía capas de la persona que creía ser, exponiendo algo más primitivo debajo.
+Pero eso fue antes del vino. Y antes de Roxy.
 
 ---
 
-La primera semana fue un lento deslizamiento hacia el abismo.
+La corrupción no vino solo del vino. Vino de su madre.
 
-Lucía intentó estudiar. Abrió sus libros de Derecho Constitucional, desplegó sus apuntes, preparó café como solía hacer antes de las sesiones de estudio intensivo.
+Roxy sabía exactamente lo que estaba haciendo. Cada mañana, después de que Eduardo sirviera el desayuno, Roxy y Lucía se instalaban junto a la piscina. El sol brillaba. El vino fluía. Y Roxy hablaba.
 
-Pero las palabras... las palabras no se quedaban.
+—¿Sabes cuánto gana una abogada recién graduada? —preguntó un día, untándose bronceador en los muslos brillantes—. Menos que una stripper promedio. Mucho menos.
 
-Leía un párrafo y al llegar al final ya había olvidado el principio. Conceptos que antes dominaba —precedentes judiciales, artículos constitucionales, jurisprudencia comparada— ahora le parecían ruido sin sentido. Garabatos en papel que no significaban nada.
+Lucía, ya en su tercera copa de la mañana, sintió la información deslizarse en su cerebro como el aceite en la piel de su madre.
 
-*¿Quién fue Montesquieu?*, se preguntó frente a un ensayo a medio escribir.
+—¿En serio?
 
-No recordaba. Y lo peor: no le importaba.
+—En serio, cariño. Y sin la deuda estudiantil. Sin los años de esfuerzo. Sin tener que fingir que te importa la justicia cuando lo único que quieres es... —Roxy se inclinó hacia ella, bajando las gafas de sol— ...que te miren.
 
-Cerró el libro. Abrió Instagram.
+Lucía tragó saliva. El calor entre sus piernas pulsó.
 
-Pasó tres horas mirando cuentas de modelos, influencers, mujeres con labios enormes y escotes imposibles. Cada scroll era un latido de calor entre sus piernas. Cada foto de bikini, cada puchero frente a la cámara, la dejaba más húmeda, más inquieta, más... vacía.
+—Yo no... yo no quiero que me miren —mintió.
 
-*¿Para qué sirve el derecho constitucional cuando podrías verte así?*, susurró la voz nueva en su cabeza. *¿Para qué sirve pensar cuando se siente tan bien no hacerlo?*
+—Mentirosa. —Roxy sonrió como una serpiente—. Vi cómo me mirabas cuando llegaste. Horror y fascinación. Pero sobre todo, envidia. Querías ser yo, Lucía. Siempre quisiste.
 
-La segunda semana trajo el calor. Constante. Insistente. Imposible de ignorar.
+*No es verdad*, pensó Lucía. Pero la negación se sentía débil. Lejana. Como un eco de otra persona.
 
-Lucía se despertaba mojada. Cada mañana, las sábanas húmedas, el coño palpitando con sueños que no recordaba pero que dejaban su cuerpo en llamas. Se duchaba con agua fría —no ayudaba. Se vestía con ropa suelta —no ayudaba. Evitaba mirar a los hombres —imposible.
+Roxy señaló los tacones acrílicos que brillaban en sus pies.
 
-Veía al cartero dejando un paquete y sentía su cuerpo arder.
+—¿Ves estos tacones? Cuestan seiscientos dólares. Me los regaló un hombre que vi exactamente una vez. Una hora de mi tiempo. Seiscientos dólares. —Se recostó en la tumbona con satisfacción felina—. Tu beca de excelencia no paga ni la mitad de eso al mes.
 
-Veía a un vecino cortando el césped y tenía que apretar los muslos.
+Lucía bebió más vino. El argumento era... ¿lógico? En algún lugar de su mente, una alarma intentaba sonar. Pero el vino la silenciaba. El sol la dormía. Y las palabras de su madre se infiltraban como gotas de veneno dulce.
 
-Veía a su propio padre —patético, servil, arrodillado ante su madre— y algo oscuro se retorcía en su vientre.
+Roxy levantó su teléfono y le sacó una foto a Lucía sin pedir permiso.
 
-*Necesito que me follen*, pensó un martes mientras veía una película con sus padres. El pensamiento la habría horrorizado una semana antes. Ahora solo la hizo morder su labio —más grueso últimamente, más sensible— y deslizar su mano discretamente hacia su entrepierna bajo la manta.
+—¿Qué haces? —Lucía se cubrió instintivamente.
 
-El pensamiento siguió: *Necesito una polla. Cualquier polla. Grande, dura, llenándome. Usándome. Tratándome como lo que soy.*
+—Documentando. —Roxy miró la pantalla con ojo crítico—. Tienes potencial, cariño. Pero necesitas aprender a posar. La cámara te ama o te destruye.
 
-*¿Y qué eres?*, preguntó la voz.
+Le pasó el teléfono. Lucía miró la foto: ella, despeinada, sin maquillaje, con una expresión confundida. Se veía... ordinaria.
 
-*Una puta*, respondió sin dudar. Y el orgasmo que siguió —silencioso, oculto, mientras sus padres veían televisión a su lado— fue el más intenso de su vida.
+*Fea*, susurró algo en su cabeza. *Te ves fea.*
 
----
+El pensamiento dolió. Más de lo que debería.
 
-Después vino la obsesión con el espejo.
+—Tengo contactos —continuó Roxy—. En un club llamado Medianoche. Es exclusivo. Las chicas que bailan ahí ganan miles por noche. Miles, Lucía. Solo por moverse y sonreír.
 
-Lucía pasaba horas frente a su reflejo. Girando. Posando. Estudiando ángulos que nunca había considerado. Se sacaba la ropa y examinaba su cuerpo con ojos nuevos, críticos de formas que antes le habrían parecido absurdas.
+—Yo no sé bailar.
 
-*Pechos demasiado pequeños*, decidió, cubriéndolos con sus manos. *Necesitan ser más grandes. Redondos. Falsos. Como los de mamá.*
+—Te enseño. Y te enseño a tomarte fotos. En este mundo, si no tienes followers, no existes.
 
-*Labios demasiado finos.* Practicó pucheros frente al espejo hasta que le dolieron las mejillas. *Necesitan volumen. Relleno. Brillar como si acabaran de chupar una polla.*
-
-*Demasiados... pensamientos.* Este era el más perturbador. Lucía podía sentir su cerebro trabajando, generando ideas, opiniones, ambiciones. Y cada pensamiento se sentía como peso muerto. Equipaje innecesario.
-
-*¿No sería más fácil*, susurró la voz, *si todo eso simplemente... se apagara?*
-
-Lucía gimió. El sonido la sorprendió. Era agudo, vacío, perfecto.
-
-*Sí*, respondió a la voz. *Sí, sería más fácil.*
-
-Y algo en su cabeza hizo clic. O más bien, algo se apagó.
+Y así empezaron las lecciones.
 
 ---
 
-—Like, mamá —dijo una mañana, y ambas se detuvieron al escuchar la palabra saliendo de su boca.
+Cada tarde, después del almuerzo y antes de la cena, Roxy transformaba el living en escuela de strippers.
 
-Lucía nunca había dicho "like". Era un tic verbal que siempre había despreciado, asociándolo con chicas vacías y superficiales que no tenían nada sustancial que decir. Pero ahora se sentía natural. Correcto. Cómodo.
+Movió los muebles. Instaló un tubo portátil que había comprado "por diversión" años atrás. Y con copa en mano, enseñó a su hija los secretos del oficio.
 
-—Like... ¿dónde compraste ese vestido? Es tipo... súper hot.
+—La clave no es el cuerpo —explicaba mientras Lucía intentaba girar alrededor del tubo sin caerse—. Es la mirada. Tienes que mirarlos como si fueran la única persona en el mundo. Como si los desearas. Aunque te den asco. Especialmente si te dan asco.
 
-Roxy la estudió por encima del borde de su copa de vino. En sus ojos brillaba algo que parecía orgullo, o hambre, o las dos cosas.
+Lucía cayó al suelo por quinta vez. Sus muslos dolían. Sus brazos temblaban. Pero algo en ella —algo nuevo, algo hambriento— no quería parar.
 
-—Ven, cariño —dijo, extendiendo una mano—. Vamos de compras.
+Roxy grababa todo con su teléfono.
 
-El centro comercial se convirtió en el nuevo templo de Lucía.
+—Espera —Lucía se cubrió—. ¿Estas grabando?
 
-Roxy la guió por tiendas que jamás habría pisado antes —boutiques donde la tela era un concepto secundario, tiendas de lencería donde las prendas parecían hechas de aire y promesas, zapaterías donde los tacones empezaban en los diez centímetros y subían desde ahí.
+—Para que veas tu progreso, cariño. Las strippers exitosas documentan TODO. Es marketing.
 
-Compraron vestidos que apenas cubrían lo esencial. Tops que dejaban poco a la imaginación. Faldas que eran más una sugerencia que una prenda. Un bikini de animal print que hizo que Lucía pensara instantáneamente en su madre junto a la piscina.
+Lucía dudó. Pero después... dejó de cubrirse. Dejó que la cámara la viera. Y cuando Roxy le mostró el video más tarde —torpe, sí, pero también sexy de una manera que nunca había visto en sí misma— sintió algo nuevo:
 
-En el probador, se quitó la ropa vieja —jeans, camiseta de universidad, sujetador deportivo que ocultaba más de lo que revelaba— y se miró desnuda en el espejo.
+Orgullo.
 
-Su cuerpo todavía era el de antes. Delgado, natural, sin modificar.
+—Otra vez —pidió.
 
-Pero algo en cómo lo veía había cambiado completamente.
+Roxy sonrió. Era la sonrisa de un depredador viendo a su presa caminar hacia la trampa.
 
-*Necesito más curvas*, pensó con urgencia. *Necesito tetas grandes, falsas, imposibles de ignorar. Necesito un culo que haga girar cabezas. Necesito labios que griten "chúpame la polla". Necesito ser... más.*
+—Otra vez —accedió—. Pero esta vez, quítate el top.
 
-*Más vacía*, completó la voz. *Más simple. Más ofrecida.*
+Lucía dudó. Solo un segundo. Después se lo quitó.
 
-Se puso el primer vestido —leopardo, corto, tan escotado que sus pezones asomaban al menor movimiento— y sintió algo apagarse definitivamente en su interior.
+Sus pechos —todavía naturales, todavía pequeños— brillaron bajo la luz de la tarde. Sentía los ojos de su madre recorriéndola. Evaluándola. Juzgándola.
 
-La Lucía que leía a Kant. La Lucía que soñaba con la Corte Suprema. La Lucía que tenía opiniones sobre política, literatura, el estado del mundo.
+—Necesitas implantes —dijo Roxy sin rodeos—. Así no sirves.
 
-Apagada. Silenciada. Borrada.
+Las palabras deberían haber dolido. Deberían haber despertado la parte de Lucía que una vez escribió ensayos sobre feminismo y autonomía corporal.
 
-Y en su lugar... calor. Solo calor. Y hambre. Y la necesidad urgente, desesperada, de ser mirada. Tocada. Usada.
+En cambio, sintió alivio. Finalmente alguien le decía la verdad.
 
-—Te ves hermosa —dijo Roxy desde fuera del probador.
+—Lo sé —admitió—. ¿Cuánto cuestan?
 
-Lucía salió, transformada. El vestido de leopardo se adhería a su cuerpo como una segunda piel. Los tacones que Roxy le había dado —plataformas acrílicas transparentes, doce centímetros— cambiaban su postura completamente, empujando su culo hacia fuera, sus pechos hacia adelante.
-
-—Me veo... —Lucía buscó la palabra, pero las palabras eran difíciles ahora—. ¿Tipo... sexy? ¿Como una puta?
-
-La última palabra salió sin filtro. Sin vergüenza. Sin arrepentimiento.
-
-Y se sintió correcta. Perfecta. Liberadora.
-
-—Como una puta de lujo —corrigió Roxy, sonriendo como una madre que ve a su hija graduarse—. De las que cobran caro.
-
-Lucía rio. El sonido fue diferente. Agudo. Vacío. Burbujante como champán.
-
-*Tipo sexy*, confirmó la voz en su cabeza. *Tipo puta. Eso es todo lo que necesitas ser.*
+—No te preocupes por eso. Mamá paga. —Roxy levantó su copa—. Es una inversión.
 
 ---
 
-Pero las compras fueron solo el comienzo.
+La cirugía fue tres días después.
 
-Después de cargar el auto con bolsas de boutiques que Lucía jamás habría pisado sola, Roxy la llevó al siguiente templo de transformación.
+Lucía no preguntó de dónde salía el dinero. No preguntó quién era el cirujano ni por qué la clínica parecía no tener nombre en la puerta. Solo se dejó llevar. Dejó que la anestesia la arrastrara hacia la oscuridad. Y cuando despertó, tenía dos esferas perfectas donde antes había habido decepción.
 
-—Ahora viene lo importante —anunció mientras estacionaba frente a un salón de belleza con letras doradas en la ventana—. Las garras y los ojos.
+Lo primero que hizo al despertar de la anestesia fue pedirle el teléfono a Roxy.
 
-El salón olía a acetona y posibilidad. Roxy pidió por ambas: uñas acrílicas largas, forma almendra, con un degradado de nude a rojo sangre. Pestañas de visón, curva dramática, el tipo que hacía que cada parpadeo fuera una declaración de intenciones.
+—Necesito... verme —murmuró, todavía groggy.
 
-—¿No es como... demasiado? —preguntó Lucía mientras la técnica preparaba sus manos.
+Roxy le pasó el teléfono sonriendo. Lucía activó la cámara frontal y se estudió. Los vendajes cubrían su pecho, pero podía ver el volumen nuevo. El contorno diferente.
 
-—Cariño —Roxy levantó sus propias garras rojas, perfectamente afiladas—, "demasiado" es solo otra palabra para "suficiente por fin".
+*Voy a ser hermosa*, pensó. *Finalmente voy a ser hermosa.*
 
-El proceso duró horas. Las uñas primero: cada una pegada y moldeada con precisión, transformando los dedos de Lucía en instrumentos de seducción. Después las pestañas: extensiones individuales aplicadas con pinzas, alargando sus ojos, haciéndolos parecer más grandes, más inocentes, más vacíos.
+Se sacó una selfie. Después otra. Después otra. Los primeros posts de su nueva vida.
 
-Y cuando terminaron, Lucía no pudo evitar hacer una parada adicional.
+El dolor fue intenso los primeros días. Pero Roxy tenía pastillas para eso. Pastillas rosadas que venían en un frasco sin etiqueta. Una cada mañana, una cada noche, y el dolor se convertía en un zumbido lejano mientras el placer tomaba su lugar.
 
-—Relleno de labios —anunció, señalando una clínica estética en el siguiente bloque.
+—Son suplementos —explicó Roxy cuando Lucía preguntó—. Vitaminas especiales. Te ayudan a... adaptarte.
 
-Roxy no discutió. Solo sonrió.
+Lucía no cuestionó. Cuestionar era difícil ahora. Las palabras tenían demasiadas sílabas. Los pensamientos llevaban demasiado esfuerzo.
 
-El ácido hialurónico entró en sus labios con un ardor que Lucía recibió con placer. Dolor y belleza. Transformación y sacrificio. Para cuando terminaron, su boca era un puchero permanente, grueso, brillante, hecho para una sola cosa.
+Era más fácil solo asentir. Solo obedecer. Solo tomarse otra selfie.
 
-Se miró en el espejo de la clínica y la mujer que le devolvió la mirada era una desconocida. Las uñas largas brillaban como garras sangrientas. Las pestañas creaban sombras dramáticas en sus mejillas. Los labios hinchados gritaban "fóllame" sin necesidad de palabras.
+Porque las selfies se habían convertido en ritual. Cada mañana, Lucía documentaba su recuperación. Cada día, notaba pequeños cambios: la hinchazón bajando, los implantes acomodándose, su cuerpo convirtiéndose en algo digno de ser fotografiado.
 
-—Ahora pareces mi hija de verdad —ronroneó Roxy, pasando un dedo por las pestañas nuevas de Lucía—. Bienvenida al club.
+Sus followers de Instagram —casi todos hombres, casi todos desconocidos— crecían con cada post. "Recovery vibes 💕" "Getting better every day 🌸" "New me, who dis? 😈"
 
-Lucía rio de nuevo. Y el sonido fue aún más vacío que antes. Más agudo. Más perfecto.
-
----
-
-Los exámenes de la universidad llegaron y pasaron sin que Lucía los presentara.
-
-Los mensajes de sus profesores se acumularon sin respuesta. El Derecho Constitucional podía esperar. El Derecho Penal no importaba. La jurisprudencia era ruido, papel, nada.
-
-Sus amigos dejaron de llamar cuando sus conversaciones se redujeron a monosílabos y risitas vacías. "¿Has estudiado?" "Like, no." "¿Vienes a la biblioteca?" "No sé, tipo, suena aburrido." "¿Estás bien, Lucía?" "Like, nunca he estado mejor, ¿por qué?"
-
-Una noche, mientras Roxy mostraba fotos de su última aventura y Eduardo fregaba los platos con su delantal, Lucía hizo el anuncio.
-
-—Creo que voy a dejar la carrera.
-
-Lo dijo tan casualmente como si comentara el clima. Sin drama, sin angustia. Una declaración de hechos.
-
-Eduardo casi dejó caer un vaso.
-
-—Lucía, amor, ¿estás segura? Llevas tres años...
-
-—Like, ¿para qué? —se encogió de hombros, sus nuevos pechos —implantes comprados la semana anterior, sorpresa de Roxy— moviéndose con el gesto—. Es súper aburrido y difícil y... tipo... no entiendo por qué me esforcé tanto.
-
-Sus palabras salían más lentas ahora. Menos articuladas. Como si el procesamiento entre pensamiento y habla se hubiera vuelto más pesado, más difícil. Y eso estaba bien. Eso se sentía correcto.
-
-Roxy escondió su sonrisa detrás de su copa de vino.
+Los likes eran adictivos. Cada corazón era una validación. Cada comentario ("hermosa", "diosa", "quiero cogerte") era combustible para algo que crecía dentro de ella.
 
 ---
 
-Fue Roxy quien sugirió el club.
+Dos semanas después de la cirugía, Lucía —que ahora solo respondía al nombre "Cherry"— era irreconocible.
 
-"Medianoche" era el nombre. Un club nocturno en las afueras de la ciudad, el tipo de lugar que Lucía habría cruzado la calle para evitar hace un mes. Necesitaban bailarinas, y Lucía tenía el cuerpo —ahora mejorado— y la nueva actitud perfectos para el puesto.
+Los implantes habían sanado perfectamente: dos copas D que desafiaban la gravedad, coronados con pezones perpetuamente erectos que se marcaban a través de cualquier tela. Cherry los fotografiaba constantemente. Diferentes ángulos. Diferentes luces. Diferentes escotes.
 
-Un favor del manager —un ex-amante de Roxy, por supuesto— y la audición estaba programada.
+Pero los implantes fueron solo el comienzo.
 
-—¿Un strip club? —Lucía arrugó la nariz, un último vestigio de quien solía ser asomando por un instante—. Mamá, eso es como... ¿degradante?
+Roxy la llevaba a la clínica cada semana. Había un menú interminable de tratamientos que Cherry aprendió a desear como necesidades básicas:
 
-La palabra salió con dificultad. "Degradante" era un concepto complicado. Requería juicio moral, pensamiento abstracto. Cosas que ahora le resultaban... difíciles.
+Botox para la frente ("Las arrugas son para las viejas"). Ácido hialurónico para los labios ("Más gruesos, siempre más gruesos"). Láser para el vello ("Una stripper no tiene un solo pelo debajo del cuello"). Bronceado en spray ("El pálido es para las que no tienen vida"). Extensiones de cabello ("Más largo es más sexy"). Pestañas semipermanentes ("Para despertar lista para la cámara").
 
-—¿Es más degradante que pasarte la vida en un cubículo revisando contratos? —Roxy acarició la mejilla de su hija—. Piénsalo, cariño. Hombres pagando solo por mirarte. Adorándote. Arrodillándose ante tu belleza. ¿Qué tiene de degradante ser adorada?
+Cada tratamiento costaba cientos. Cada tratamiento valía cada centavo.
 
-Lucía lo pensó. O más bien, dejó que el pensamiento pasara por su cabeza simplificada sin resistencia.
+—Esto es una inversión —repetía Roxy mientras pagaba con la tarjeta de Eduardo—. Tu cuerpo es tu negocio.
 
-*Ser mirada es bueno*, razonó despacio. *Ser deseada es bueno. Bailar es fácil. Pensar es difícil. Lo fácil es mejor.*
+Y Cherry asentía, porque asentir era fácil. Pensar en por qué gastaban tanto dinero era... difícil. Las matemáticas se habían vuelto confusas. Los números grandes no significaban nada. Solo sabía que "muchos likes" era bueno y "pocos likes" era malo.
 
-—OK —dijo finalmente, una sonrisa vacía extendiéndose por sus labios hinchados—. Like... ¿por qué no?
+*¿Cuánto es tres mil?*, se preguntó un día mirando su cuenta bancaria.
 
----
-
-La audición fue un éxito rotundo.
-
-Lucía —que había elegido el nombre artístico "Cherry"— se movió por el escenario como si hubiera nacido para ello. No recordaba haber aprendido a bailar así. No recordaba haber practicado los movimientos que ahora fluían de su cuerpo con naturalidad felina.
-
-Cada contorneo era instintivo. Cada mirada por encima del hombro era magnética. Cada caída calculada de ropa arrancó aplausos de los hombres que observaban.
-
-El top cayó primero. Sus nuevos pechos —redondos, firmes, perfectamente artificiales— brillaron bajo las luces del escenario. Los pezones duros, sensibles, respondiendo al frío del aire acondicionado y al calor de las miradas.
-
-Después la falda. Cherry giró alrededor del tubo con gracia aprendida de ningún lado, su cuerpo respondiendo a la música como si el ritmo viviera dentro de ella. El tanga diminuto dejaba poco a la imaginación, pero eso era el punto. La imaginación era para gente con cerebro.
-
-El manager la contrató en el acto.
-
-—Empiezas el viernes —dijo, recorriéndola con la mirada de una manera que habría hecho vomitar a la vieja Lucía. Cherry solo sonrió y arqueó la espalda—. Vas a hacer muy felices a muchos hombres.
-
-—Like, eso espero —respondió ella, y el vacío de su voz era ahora su rasgo más atractivo.
+No pudo responder. Pero la pantalla mostraba un número verde, así que debía estar bien.
 
 ---
 
-Esa noche, madre e hija celebraron en la sala de estar con una botella especial del vecino.
+Los tacones vinieron después. O más bien, la obsesión con los tacones.
 
-Eduardo servía las copas con manos que temblaban, pero no de disgusto —de excitación contenida. Cada día su rol se solidificaba más. Sirviente. Espectador. La audiencia patética de un show que nunca habría imaginado protagonizar su familia.
+Roxy le regaló su primer par de plataformas de stripper: acrílico transparente, quince centímetros de altura, correas que se ataban hasta la rodilla. Lucía las había mirado con horror cuando llegó a la casa. Ahora, Cherry no podía vivir sin ellas.
 
-—¡Por Cherry! —brindó Roxy, alzando su copa—. La stripper más hot que Medianoche haya visto.
+—Son como... tipo... extensiones de mis piernas —explicó un día, luchando por encontrar las palabras—. Me siento... ¿como bajita? Sin ellos.
 
-—¡Por Cherry! —repitió Lucía, y el nombre se sentía correcto en sus labios hinchados de gloss. Más correcto que "Lucía" jamás se había sentido.
+—Sin ellos —corrigió Roxy.
 
-Bebieron hasta que las estrellas giraban. Rieron hasta que les dolieron las mejillas. Madre e hija, idénticas en su transformación, espejo la una de la otra.
+—¿Qué?
 
-En algún momento de la noche, Cherry se encontró sentada en el regazo de su madre, ambas borrachas, mirándose a los ojos con algo que podría ser amor o posesión o las dos cosas.
+—Dijiste "sin ellos". Son tacones. Es "sin ellos", no "sin ellas".
 
-—Siempre supe que tenías esto dentro —susurró Roxy, pasando un dedo por los labios hinchados de su hija—. Solo necesitabas... permiso.
+Cherry frunció el ceño, confundida. ¿Cuál era la diferencia? Las palabras eran tan complicadas ahora. Tenían géneros y números y reglas que se le escapaban como agua entre los dedos.
 
-—Tipo... gracias, mamá —Cherry parpadeó, sus pestañas enormes acariciando sus mejillas—. Por como... liberarme o lo que sea.
+—Lo que sea —dijo finalmente, encogiéndose de hombros—. El punto es que me encantan.
 
-Y cuando Lucía tropezó subiendo las escaleras, con sus tacones de plataforma repiqueteando contra la madera, Roxy la observó con orgullo maternal genuino.
+Y era verdad. Los tacones cambiaban todo: su postura, su caminar, cómo los hombres la miraban. Sin tacones se sentía incompleta. Pequeña. Invisible.
 
-En su habitación, Cherry se derrumbó sobre la cama sin desvestirse. Los sueños vinieron rápidos y húmedos, llenos de luces de neón y billetes de veinte y manos extrañas deslizándose sobre su piel nueva.
+Pronto tenía siete pares. Después doce. Después perdió la cuenta.
 
-Despertó al amanecer con una certeza cristalina: este era el comienzo de su verdadera vida.
-
-Todo lo anterior —los libros, los exámenes, las ambiciones, los pensamientos—había sido un prólogo. Una pérdida de tiempo. Ahora, finalmente, sabía cuál era su propósito.
-
-Ser vista.
-
-Ser deseada.
-
-Ser usada.
-
-Ser simple.
-
-En el jardín de al lado, el vecino podaba sus viñas mientras el sol pintaba el cielo de rosa. Su cosecha especial maduraba perfectamente. Y la familia Mendoza —sus últimas creaciones— estaba casi completa.
-
-Solo quedaba un capítulo por escribir.
+Los organizaba por color y altura. Los fotografiaba para Instagram. Los limpiaba cada noche con un paño especial que Roxy le había enseñado a usar. Eran sus bebés. Sus tesoros. Las únicas cosas que realmente importaban además de su teléfono y su maquillaje.
 
 ---
 
-**Palabras del capítulo:** ~2,850
+La ropa fue el siguiente capítulo de su transformación.
+
+Su armario de antes —jeans, camisetas de universidad, ropa "cómoda"— había sido donado sin ceremonia. Roxy supervisó la limpieza con ojo crítico:
+
+—¿Esto qué es? —preguntó, sosteniendo una sudadera de Harvard.
+
+—Era de mi... mi... —Cherry buscó la palabra— ...mi antes.
+
+—Tu antes está muerto, cariño. —Roxy la tiró a la bolsa de basura—. Tu ahora es lo único que importa.
+
+El nuevo armario era un arcoíris de degradación: vestidos bodycon de animal print que se adherían como segunda piel. Tops de malla que no escondían nada. Faldas tan cortas que sus nalgas asomaban al caminar. Lencería que funcionaba como ropa exterior. Bikinis que eran básicamente tres triángulos de tela unidos por hilos.
+
+—Una stripper siempre debe verse como stripper —explicó Roxy mientras supervisaba la reorganización—. Incluso cuando no está trabajando. Es una actitud. Un estilo de vida.
+
+Cherry asintió. Asentir era fácil. Entender era difícil. Pero no necesitaba entender. Solo necesitaba obedecer. Y verse bien. Y conseguir likes.
+
+---
+
+El cerebro se vaciaba un poco más cada día.
+
+Al principio fueron las palabras largas. "Jurisprudencia" se convirtió en un trabalenguas imposible. "Constitucional" perdió todo significado. "Precedente" sonaba a idioma extranjero.
+
+Después fueron las oraciones completas. Cherry empezó a hablar en fragmentos: "Like, tipo, no sé". "Es como, ¿sabes?". "Súper cute, totes amore".
+
+Después fueron los pensamientos mismos. Las ideas que antes fluían como ríos ahora goteaban como grifos rotos. Conectar A con B requería un esfuerzo que la dejaba agotada.
+
+*¿Por qué el cielo es azul?*, se preguntó una tarde mientras tomaba sol junto a la piscina.
+
+No pudo recordar la respuesta. Ni siquiera pudo recordar si alguna vez la había sabido.
+
+Y lo más extraño: no le importó. La ignorancia se sentía... cómoda. Como una manta caliente. Como no tener que cargar peso.
+
+*Los pensamientos son peso*, razonó con lo que quedaba de su lógica. *Menos pensamientos, más ligera. Más ligera, más feliz.*
+
+Sonrió. El razonamiento era perfecto.
+
+Una noche, mientras practicaba en el tubo con solo un tanga puesto, Cherry tuvo una revelación.
+
+*Esto es lo que quiero ser*, pensó, mirándose en el espejo del living. Sus tetas falsas brillaban bajo la luz. Sus tacones de plataforma la hacían parecer una diosa. Su cerebro vacío no la molestaba con pensamientos complicados. *No una abogada. No una estudiante. No una hija respetable. Quiero ser esto. Quiero ser una stripper.*
+
+El pensamiento debería haber sido devastador. Era la muerte de todo lo que Lucía Mendoza había representado.
+
+En cambio, se sintió como despertar. Como liberación. Como quitarse ropa que nunca había sido de su talla.
+
+—Mamá —llamó, bajando del tubo—. Quiero ir a Medianoche. Quiero audicionar.
+
+Roxy, que había estado observando con copa en mano, sonrió como un gato que acaba de atrapar un ratón.
+
+—Sabía que llegarías ahí, cariño. —Se levantó y caminó hacia ella—. Pero hay un problema. Marcos, el dueño... no acepta a cualquiera. Tiene... estándares.
+
+—¿Qué tipo de estándares?
+
+—Del tipo que no puedo explicar. —Roxy acarició la mejilla de su hija—. Tendrás que... demostrárselos. Personalmente.
+
+Cherry entendió. En algún nivel profundo, primitivo, entendió exactamente lo que su madre estaba diciendo.
+
+—¿Debo acostarme con él?
+
+Roxy no negó ni confirmó. Solo sonrió.
+
+—Debes hacer lo que sea necesario para conseguir lo que quieres. ¿No te lo enseñaron en la universidad? La determinación lo es todo.
+
+Cherry rio. El sonido fue vacío, pero no triste. Solo... simple.
+
+—OK —dijo—. Tipo... ¿cuándo puedo conocerlo?
+
+---
+
+Marcos era gordo y sudoroso y olía a tabaco y a poder.
+
+Tenía cincuenta y muchos años, una barriga que colgaba sobre su cinturón, y manos que habían tocado a cientos de chicas como Cherry. Su oficina en Medianoche olía a cuero y dinero y secretos.
+
+Cherry estaba de pie frente a él en un vestido rojo que apenas cubría sus muslos, tacones de quince centímetros, y una sonrisa vacía que había practicado hasta la perfección.
+
+Roxy había hecho la presentación y después... había salido. "Tienen cosas que discutir", dijo antes de cerrar la puerta.
+
+—Tu madre dice que quieres trabajar aquí —dijo Marcos, recorriéndola con ojos que la desnudaban sin necesidad.
+
+—Like... sí. Tipo, quiero bailar.
+
+—¿Sabes lo que significa bailar aquí? —Marcos se recostó en su silla, abriendo las piernas—. No es un clubcito cualquiera. Mis chicas son... especiales.
+
+—Soy especial —Cherry se mordió el labio. El gesto fue instintivo—. Puedo demostrarlo.
+
+—¿Ah sí? —Marcos señaló el espacio frente a su escritorio—. Demuéstramelo.
+
+No había música. No había luces de neón. Solo el silencio de una oficina vacía y la mirada pesada de un hombre que había visto todo.
+
+Cherry empezó a moverse de todos modos.
+
+Sus caderas encontraron un ritmo invisible. Sus manos recorrieron su propio cuerpo como las de una amante. Se quitó el vestido —sin apuro, sin vergüenza— y quedó en ropa interior frente a él.
+
+Marcos no aplaudió. No elogió. Solo señaló hacia abajo.
+
+—Eso también.
+
+Cherry se quitó el sujetador. Después el tanga. Y quedó completamente desnuda frente a un hombre que podría ser su abuelo, en una oficina que olía a años de explotación, sintiendo solo una cosa:
+
+Orgullo.
+
+Porque él la estaba mirando. Porque sus ojos recorrían cada curva que había comprado con dolor y transformación. Porque algo en su mirada decía que ella valía.
+
+—Acércate —ordenó Marcos.
+
+Cherry caminó hacia él. Sus tacones resonaron en el silencio.
+
+Cuando estuvo lo suficientemente cerca, él extendió una mano y la puso sobre su muslo. Subió. Siguió subiendo hasta encontrar la humedad que ya la esperaba.
+
+—Estás mojada —observó, sin sorpresa.
+
+—Like... sí.
+
+—¿Te excita esto? ¿Mostrarte para un viejo como yo?
+
+Cherry debería haber dicho que no. Debería haber fingido que era solo un paso necesario, un sacrificio para conseguir el trabajo.
+
+Pero la verdad era otra.
+
+—Sí —admitió—. Tipo... mucho.
+
+Marcos sonrió. Era una sonrisa cruel, pero también una sonrisa de aprobación.
+
+—De rodillas.
+
+Cherry obedeció. Sus rodillas golpearon el suelo sucio de la oficina. Sus manos encontraron el cierre del pantalón de Marcos. Y mientras lo bajaba, mientras sus labios hinchados se preparaban para hacer lo que habían sido creados para hacer, un último pensamiento cruzó lo que quedaba de su mente:
+
+*Mamá tenía razón. Esto es lo que soy. Esto es lo que siempre fui.*
+
+---
+
+Veinte minutos después, Cherry salió de la oficina limpiándose la boca con el dorso de la mano.
+
+Roxy la esperaba en el pasillo con una copa de champán.
+
+—¿Y?
+
+—Empiezo el viernes —Cherry sonrió, y había orgullo genuino en su voz—. Dice que tengo... talento natural.
+
+Roxy rio y la abrazó.
+
+—Sabía que lo lograrías, cariño. Sabía que eras igual a mí.
+
+Esa noche, mientras conducían de regreso a casa con el sol poniéndose sobre la autopista, Cherry miró por la ventana y sintió algo que no había sentido en meses:
+
+Paz.
+
+Porque finalmente sabía quién era. Finalmente había encontrado su lugar. Finalmente había entendido que toda esa educación, todas esas ambiciones, todos esos sueños de grandeza habían sido solo ruido.
+
+Lo único que importaba era esto: ser mirada, ser deseada, ser usada.
+
+Y estaba muy, muy bien.
+
+En el asiento del conductor, Roxy tarareaba una canción mientras sus uñas rojas golpeteaban el volante. Había convertido a su hija en una copia de sí misma. La había arrastrado al fondo junto con ella.
+
+Y no sentía ni una pizca de culpa.
+
+---
+
+**Palabras del capítulo:** ~2,900
+
+---
+
+### Últimos Cambios (26/12/2025):
+- ✅ Roxy como corruptora activa (lecciones de pole, argumentos económicos, contactos)
+- ✅ Ser stripper como meta que crece gradualmente (de rechazo a deseo a necesidad)
+- ✅ Favores sexuales al dueño del club para conseguir el trabajo
+- ✅ Descenso más fuerte y oscuro
+- ✅ GRADUALIDAD VANIDAD: primera foto (rechazo) → orgullo en video → selfies post-cirugía → obsesión likes → pucheros practicados

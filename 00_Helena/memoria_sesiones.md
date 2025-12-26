@@ -705,3 +705,43 @@ Cada set de Helena incluye: Standing, Seated, Side, Walking, Back, **DITZY BIMBO
 
 *Ultima actualizacion: 2025-12-26 10:12*
 
+
+---
+
+## Actualizacion 26/12/2025 - Reescritura Profunda Caps 7-8
+
+### Patrones Aprendidos (CRITICO - agregar a preferencias_escritura.md)
+
+1. **Gradualidad de Estupidez:**
+   - Etapa 1: Palabras largas se vuelven difficiles
+   - Etapa 2: Oraciones fragmentadas (like, tipo, no se)
+   - Etapa 3: Pensamientos ausentes, solo impulsos
+   - Etapa 4: Numeros/matematicas imposibles
+   - Etapa 5: Asentir mas facil que procesar
+
+2. **Obsesion Tacones (patron nuevo):**
+   - Primer par = regalo/introduccion
+   - Coleccion creciente
+   - Limpiarlos como ritual
+   - Sentirse incompleta sin ellos
+   - Usarlos 24/7 incluso para dormir
+
+3. **Tratamientos Belleza como Religion:**
+   - Calendario semanal de visitas
+   - Cada procedimiento tiene justificacion vana
+   - Eduardo paga todo sin cuestionar
+
+4. **Vanidad como Motor:**
+   - Selfies constantes
+   - Likes = dopamina = felicidad
+   - Horror a parecer natural
+   - Documentar TODO para followers
+
+### Destino Final Cherry (canon):
+- Bimbo estupida, muy tonta
+- Preocupada SOLO de: apariencia, dinero, stripper, selfies
+- Muy vain (vanidosa)
+- Tacones como extension corporal
+
+*Ultima actualizacion: 2025-12-26 10:45*
+

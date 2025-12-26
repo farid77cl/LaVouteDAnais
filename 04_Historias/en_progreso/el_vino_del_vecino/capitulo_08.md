@@ -10,23 +10,56 @@ El desayuno en casa de los Mendoza era un espectáculo que habría horrorizado a
 
 Roxy, con un baby doll de encaje negro que apenas cubría sus pezones y tacones de aguja a las nueve de la mañana, leía el periódico mientras mordisqueaba una tostada untada con merengue de maracuyá. Su cabello rojo caía en ondas perfectas sobre pechos que desafiaban toda ley de la física. Sus labios brillaban del color de la sangre fresca. Su piel, bronceada durante semanas de sol junto a la piscina, resplandecía con el brillo aceitoso que se había convertido en su firma.
 
-Cherry —nadie la llamaba Lucía ya, ni siquiera ella misma— estaba desparramada en el sofá en bragas y sujetador de leopardo, scrolleando TikTok con expresión vacía. De vez en cuando, una risita burbujante escapaba de sus labios inflados cuando veía algo que su cerebro simplificado encontraba gracioso. Sus nuevos implantes —regalo de su padre por su primer mes en el club— brillaban bajo la luz matutina, redondos y perfectos como dos melones artificiales.
+Cherry —nadie la llamaba Lucía ya, ni siquiera ella misma, ni siquiera en sus propios pensamientos— estaba desparramada en el sofá en bragas de animal print y un sujetador de encaje que no sujetaba nada. Sus tacones de plataforma —acrílico transparente, dieciocho centímetros— descansaban en el reposabrazos porque nunca se los quitaba, ni siquiera para dormir. Eran parte de ella ahora. Sin ellos se sentía como... como... ¿cuál era la palabra? Incompleta. Eso. Incompleta.
 
-Sus uñas de acrílico —largas, rojas, completamente inútiles para cualquier tarea que no fuera rasguñar espaldas masculinas— golpeteaban la pantalla del teléfono con torpeza calculada. Había olvidado cómo escribir con fluidez. Las palabras largas eran difíciles. Los pensamientos complejos, imposibles.
+Estaba tomándose selfies.
 
-Y Eduardo, con su delantal manchado de grasa que decía "PROPIEDAD DE ROXY", servía huevos y café mientras sus ojos no podían evitar devorar a las dos mujeres de su vida. Las dos mujeres que ya no le pertenecían. Las dos mujeres que ahora pertenecían a todos menos a él.
+*Click.* Puchero. *Click.* Escote. *Click.* Lengua afuera tocando su labio superior.
 
-Era una escena de normalidad completamente pervertida. Y todos actuaban como si fuera lo más natural del mundo.
+Subía cada foto a Instagram con captions que le tomaba veinte minutos escribir porque las palabras eran tan difíciles ahora. Cada letra requería concentración. Cada emoji era más fácil que un pensamiento:
 
-—Anoche fue increíble, mami —gorjeó Cherry, sin levantar la vista del teléfono—. Hice como... ¿tres mil? Los hombres tipo... no podían dejar de tirarme billetes.
+"Hot girl summer 💋🔥"  
+"Serving looks 👅"  
+"Money on my mind 💰"  
+"Brains r overrated 🤪✨"
 
-—Esa es mi niña —Roxy le lanzó un beso por encima del periódico—. Esta noche podemos ir juntas. Tengo citas con dos chicos del gimnasio. Hermanos.
+Sus nuevos implantes —los terceros, porque los primeros fueron "muy chicos" y los segundos "no lo suficientemente redondos"— brillaban bajo la luz matutina. Copas doble D que desafiaban la física. Cherry los fotografiaba desde cada ángulo posible. Eran su posesión más preciada. Su inversión más inteligente. Aunque ya no recordaba qué significaba "inversión". Solo sabía que sus tetas = dinero.
 
-—¡OMG, yayyy! —Cherry aplaudió como una niña pequeña, haciendo rebotar sus pechos nuevos con el movimiento—. ¿Puedo quedarme a mirar?
+—¿Cuántos likes, bebé? —preguntó Roxy desde el otro sofá.
 
-—Si te portas bien.
+—Like... tipo... —Cherry frunció el ceño, mirando la pantalla. Los números eran difíciles. Contar era difícil. Contó con los dedos, moviendo la boca mientras lo hacía— ...¿muchos? Tipo, ¿montón?
 
-Eduardo sirvió el café en silencio. Su erección presionaba contra sus pantalones —como cada mañana desde que todo esto había comenzado— pero nadie le prestó atención. Hacía semanas que su placer había dejado de importar para algo más que financiar los de otros.
+Roxy rio.
+
+—Buena chica.
+
+"Buena chica" era el mejor cumplido. Cherry sonrió, sintiendo la dopamina inundar su cerebro simplificado. No necesitaba saber cuántos eran. Solo que eran "muchos". "Muchos" era bueno.
+
+Sus uñas de acrílico —tan largas que ya no podía abotonarse la ropa ni escribir correctamente ni hacer prácticamente nada útil— golpeteaban la pantalla con torpeza encantadora. Cada vez que erraba una letra, arrugaba la nariz de forma adorable. Los pensamientos complejos eran imposibles ahora. Pero eso no importaba. Lo único que importaba era: verse bien, ganar dinero, conseguir likes, mantener sus tratamientos al día.
+
+Los tratamientos. Su nuevo ritual sagrado.
+
+Cada lunes: relleno de labios (más gruesos, siempre más gruesos). Cada miércoles: bronceado en spray (el pálido era para las feas). Cada viernes: mantenimiento de uñas (rojas como la sangre, largas como garras). Cada día: selfies, filtros, posts, likes, comentarios, más selfies.
+
+—Anoche fue increíble, mami —gorjeó Cherry, cambiando a la app del banco—. Hice como... ¿¿esto?? —Mostró la pantalla, señalando el número sin entenderlo realmente—. ¿Es mucho?
+
+—Es mucho, bebé.
+
+—¡Yayyy! —Aplaudió, haciendo rebotar sus pechos. Inmediatamente levantó el teléfono para grabar el rebote—. Espera, esto va a TikTok. Mis followers aman cuando hago esto.
+
+Y Eduardo, con su delantal que decía "PROPIEDAD DE ROXY", servía huevos y café mientras sus ojos no podían evitar devorar a las dos mujeres de su vida. Su hija, que antes citaba a Montesquieu, ahora no podía recordar en qué año estaban. Su hija, que antes soñaba con la Corte Suprema, ahora soñaba con implantes más grandes y más followers.
+
+—Mami —dijo Cherry de repente, bajando el teléfono con expresión preocupada—. Tengo que ir a la clínica hoy. Mis labios se ven como... ¿pequeños? ¿También los implantes? Tipo, ¿la gente no va a pensar que soy... —luchó con la palabra— ...¿natural?
+
+—Dios no lo quiera —murmuró Roxy con genuino horror—. Llamo ahora mismo.
+
+—Y necesito tacones nuevos. Los míos ya se ven como... ¿usados? Tipo, ¿viejos? Y no puedo subir fotos con tacones viejos, mami. La gente se daría cuenta.
+
+—Vamos de compras después de la clínica.
+
+—¡Yayyy!
+
+Eduardo sirvió el café en silencio. Su erección presionaba contra sus pantalones —como cada mañana desde que todo esto había comenzado— pero nadie le prestó atención. Hacía semanas que su placer había dejado de importar.
 
 El timbre sonó.
 
@@ -92,15 +125,15 @@ Se puso de pie y caminó hacia ella. Su mano se posó en su mejilla, y el contac
 
 —Tú, Roxy, serás mi cazadora principal. Traerás nuevas familias a mis viñedos. Les ofrecerás el vino. Les mostrarás el camino.
 
-Se movió hacia Cherry, que lo miraba con adoración vacía, sus ojos enormes enmarcados por pestañas falsas.
+Se movió hacia Cherry, que lo miraba con adoración vacía, sus ojos enormes enmarcados por pestañas falsas. Seguía sosteniendo el teléfono, lista para documentar cualquier cosa digna de Instagram.
 
 —Tú, pequeña, entretendrás a mis... invitados especiales. Esos que pagan fortunas por pasar una noche con algo tan simple, tan vacío, tan hermoso como tú.
 
-—Like... ¿pagarán por mí? —Cherry sonrió, procesando la información lentamente—. ¿Tipo, como mucho?
+—Like... ¿pagarán por mí? —Cherry sonrió, procesando la información lentamente. Sus ojos brillaron con la única emoción que todavía sentía con claridad: avaricia—. ¿Tipo, como mucho dinero?
 
 —Más de lo que puedas contar, cariño. Y no tendrás que contar. Pensar no será necesario.
 
-—Yayyy —aplaudió ella.
+—Yayyy —aplaudió ella. Después levantó el teléfono—. Espera, ¿puedo sacarme una selfie contigo? Tipo, para mis stories. Los hombres misteriosos dan muchos likes.
 
 Finalmente, el vecino se detuvo frente a Eduardo. Lo miró con algo que podría ser piedad, o desprecio, o ambas cosas.
 
@@ -128,17 +161,49 @@ Eduardo no firmó nada. No era necesario. Él no era la mercancía. Era solo... 
 
 Esa misma noche, Roxy y Cherry empacaron lo esencial.
 
-No era mucho. Ropa de caza —vestidos cortos, bikinis de animal print, lencería que apenas calificaba como ropa. Maquillaje —cajas enteras de productos que convertían sus rostros en máscaras de seducción. Tacones altos —docenas de pares, desde los acrílicos transparentes hasta los stilettos de charol que hacían clic sobre cualquier superficie como el tic-tac de un reloj contando hacia la eternidad.
+Cherry pasó dos horas decidiendo qué maquillaje llevar. Tenía diecisiete tonos de labial rosado y no podía decidir cuáles eran imprescindibles.
 
-No empacaron libros. No empacaron fotos familiares. No empacaron recuerdos de una vida que ya no les pertenecía.
+—Tipo, ¿y si necesito el Barbie Pink y solo llevo el Cotton Candy? —preguntó con angustia genuina, sosteniendo ambos tubos frente a la luz—. Son como... ¿totalmente diferentes?
+
+—Lleva los dos, bebé.
+
+—¡Eso! —Cherry aplaudió, guardándolos en su neceser rosa con lentejuelas.
+
+Mientras Roxy empacaba lencería y vestidos de caza, Cherry se tomaba selfies con cada prenda antes de guardarla. Documentaba todo. Sus seguidores necesitaban saber que algo grande estaba pasando, aunque no pudiera explicar exactamente qué.
+
+"Moving to somewhere ICONIC 💕✨ Can't tell where but trust me it's MAJOR 😈🔥"
+
+Subió la foto. Los likes empezaron a llegar inmediatamente. Cherry sintió la dopamina inundando su cerebro simplificado. Era mejor que el sexo. Casi mejor que el dinero.
+
+Casi.
+
+No empacaron libros —Cherry no sabía dónde estaban los suyos, ni siquiera recordaba haber tenido libros alguna vez. No empacaron fotos familiares —¿para qué? Las únicas fotos que importaban estaban en su Instagram. No empacaron recuerdos —la memoria era peso muerto. El pasado era aburrido. Solo importaba el ahora: cómo se veía ahora, cuánto ganaba ahora, cuántos likes tenía ahora.
 
 —¿Lista? —preguntó Roxy a su hija mientras cerraba la última maleta.
 
-—Like... súper lista —Cherry se miró en el espejo por última vez: labios inflados, pestañas enormes, pechos falsos, cerebro vacío—. Tipo, ¿crees que habrá wifi en la Bóveda?
+Cherry se miró en el espejo por última vez. Giró. Se estudió desde cada ángulo. Pechos perfectos. Labios inflados. Cintura estrecha gracias al corset diario. Piernas largas terminando en tacones de quince centímetros que ya nunca se quitaba, ni siquiera para dormir.
 
-Roxy rio. El sonido era el de una madre orgullosa de su creación.
+Era hermosa. Era perfecta. Era exactamente lo que siempre había querido ser, aunque no recordara haber querido nada antes.
 
-Siguieron al vecino hasta su casa. La puerta se abrió sin que él la tocara, revelando una oscuridad que parecía más profunda que la noche. Y cuando cruzaron el umbral, la puerta se cerró detrás de ellas con un susurro definitivo.
+—Like... súper lista —sonrió—. Tipo, ¿crees que habrá wifi en la Bóveda? Necesito subir stories.
+
+—Si no hay, lo habrá —prometió Roxy—. Eres demasiado valiosa para desconectarte.
+
+Cherry asintió solemnemente. Era verdad. Ella era valiosa. Su cuerpo era valioso. Su cara era valiosa. Todo lo demás —pensamientos, recuerdos, ese nombre viejo que ya no usaba— no tenía ningún valor.
+
+Le sacó una última foto al espejo. Puchero. Escote. Filtro.
+
+"Bye bye old life 💋 Hello forever hot 🔥👑"
+
+Siguieron al vecino hasta su casa. La puerta se abrió sin que él la tocara, revelando una oscuridad que parecía más profunda que la noche. Y mientras cruzaban el umbral, Cherry levantó el teléfono una última vez, intentando grabar la entrada.
+
+La pantalla se apagó. El wifi desapareció. Y por un microsegundo, algo parecido al pánico cruzó sus ojos vacíos.
+
+Después, la oscuridad la abrazó, y el pánico se convirtió en paz.
+
+No necesitaba wifi donde iba. No necesitaba likes. No necesitaba seguidores.
+
+Solo necesitaba ser bella. Y eso, al menos, nunca cambiaría.
 
 El vecindario quedó en silencio.
 
