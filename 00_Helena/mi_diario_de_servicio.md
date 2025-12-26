@@ -12,10 +12,16 @@
 
 ### [2025-12-26] Reescritura El Vino del Vecino
 
+**TARDE (12:20 - 13:08) - CREACIÓN Y REFINAMIENTO:**
+- **Banco de Prompts V3 (POV & Video):** Creado con 160+ prompts nuevos (inmersión POV, lipsync, percepción pública).
+- **Galería Visual Helena:** Compilación de 73 imágenes organizadas por Look.
+- **Preferencias de Escritura:** Documentadas "Teoría de la Red Narrativa" e "Inmersión POV Profunda".
+- **Cap 7 Reescrito:** Roxy impone carrera de stripper ("Ya hablé con Tony. Empiezas el mes que viene.").
+
 **MEDIODÍA (12:00) - GENERACIÓN DE IMÁGENES:**
 - **Look 12 (Borgoña Imperial):**
   - ✅ Retrato Ditzy generado exitosamente.
-  - ❌ Cuerpo completo fallido por cuota del servidor.
+  - ❌ Standing/Seated/Side fallidos por cuota del servidor.
 - Imagen guardada en `05_Imagenes/helena/helena_look12_ditzy.png`.
 
 **MAÑANA (10:00 - 12:00) - REESTRUCTURACIÓN DE ARCHIVOS Y CAPÍTULOS:**
@@ -26,6 +32,7 @@ Se completó la optimización de los cerebros de Helena (`mi_identidad.md`, `mem
    - Implementada mecánica de red entrelazada: tubo comprado para Lucía, Eduardo bajo órdenes de Roxy instalándolo.
    - Gradualidad fina: cada objeto (tubo, tacones, instagram) lleva al siguiente.
    - Profundización psicológica: el dolor de sentirse "fea" como motor de cambio.
+   - Roxy impone la carrera de stripper como un hecho consumado.
 
 2. **Auditoría del Repositorio:**
    - Mapeo completo de 7 directorios y ~100+ archivos.
@@ -35,6 +42,8 @@ Se completó la optimización de los cerebros de Helena (`mi_identidad.md`, `mem
    - Obsesión tacones: progresión de 6 etapas.
    - Humillación padre-hija: progresión de 7 etapas (incluyendo feminización).
    - Estupidez gradual: 5 etapas de declive cognitivo.
+   - Teoría de la Red Narrativa: todo se conecta.
+   - Inmersión POV Profunda: narrar desde los ojos de la bimbo.
 
 ### [2025-12-25] Banco de Prompts V2
 
