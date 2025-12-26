@@ -44,55 +44,103 @@ Le pasó el teléfono. Lucía miró la foto: ella, despeinada, sin maquillaje, c
 
 *Fea*, susurró algo en su cabeza. *Te ves fea.*
 
-El pensamiento dolió. Más de lo que debería.
+El pensamiento dolió. Más de lo que debería. Y en ese dolor, una semilla se plantó.
 
-—Tengo contactos —continuó Roxy—. En un club llamado Medianoche. Es exclusivo. Las chicas que bailan ahí ganan miles por noche. Miles, Lucía. Solo por moverse y sonreír.
+*Quiero verme mejor. Quiero verme como ella.*
+
+—Tengo contactos —continuó Roxy, como si pudiera leer los pensamientos de su hija—. En un club llamado Medianoche. Es exclusivo. Las chicas que bailan ahí ganan miles por noche. Miles, Lucía. Solo por moverse y sonreír.
 
 —Yo no sé bailar.
 
-—Te enseño. Y te enseño a tomarte fotos. En este mundo, si no tienes followers, no existes.
+Roxy sonrió. La sonrisa de alguien que había esperado exactamente esas palabras.
 
-Y así empezaron las lecciones.
+—Te enseño. —Se levantó de la tumbona y le ofreció la mano—. Pero primero, necesitamos equipamiento.
 
 ---
 
-Cada tarde, después del almuerzo y antes de la cena, Roxy transformaba el living en escuela de strippers.
+Esa misma tarde, fueron de compras.
 
-Movió los muebles. Instaló un tubo portátil que había comprado "por diversión" años atrás. Y con copa en mano, enseñó a su hija los secretos del oficio.
+No a tiendas normales. Roxy la llevó a un lugar en las afueras de la ciudad, una bodega industrial reconvertida en showroom de equipamiento para clubes de adultos. El letrero decía "Pole Dance Pro" en neón rosa.
 
-—La clave no es el cuerpo —explicaba mientras Lucía intentaba girar alrededor del tubo sin caerse—. Es la mirada. Tienes que mirarlos como si fueran la única persona en el mundo. Como si los desearas. Aunque te den asco. Especialmente si te dan asco.
+—¿Un tubo? —Lucía arrugó la nariz—. Mamá, esto es...
 
-Lucía cayó al suelo por quinta vez. Sus muslos dolían. Sus brazos temblaban. Pero algo en ella —algo nuevo, algo hambriento— no quería parar.
+—Es tu futuro, cariño. —Roxy señaló los modelos de exhibición—. Los buenos cuestan dos mil. Pero si vas a aprender a bailar, necesitas el mejor.
+
+Compraron el tubo. Cromado, giratorio, altura profesional. También compraron tacones de práctica —plataformas de acrílico transparente, "solo quince centímetros para empezar"— y un kit de maquillaje que Roxy insistió era "esencial para entender el look".
+
+Lucía pagó con la tarjeta de su padre. El cargo fue de cuatro mil dólares.
+
+—Eduardo lo entenderá —dijo Roxy mientras cargaban las cajas en el auto—. Es una inversión en tu futuro.
+
+*Inversión*, pensó Lucía. La palabra sonaba correcta. Profesional. No como "mi madre me está convirtiendo en stripper".
+
+---
+
+El tubo se instaló esa misma noche.
+
+Eduardo hizo el trabajo, sudando bajo las instrucciones precisas de Roxy mientras ella y Lucía bebían vino y observaban. Cuando terminó, tenía las manos ampolladas y la espalda molida.
+
+—Gracias, cariño —dijo Roxy, sin mirarlo—. Ahora tráenos más vino y déjanos solas.
+
+Eduardo obedeció. Ya estaba aprendiendo a obedecer.
+
+Lucía se acercó al tubo, tocándolo con dedos tentativos. El metal estaba frío. Brillante. Profesional.
+
+—¿Y ahora? —preguntó.
+
+—Ahora te pones los tacones. —Roxy le lanzó la caja—. Una stripper siempre practica en tacones. El cuerpo tiene que aprender a moverse con ellos como segunda naturaleza.
+
+Los tacones fueron... difíciles. Lucía se tambaleó, se cayó, maldijo. Pero cada vez que pensaba en rendirse, miraba a su madre —perfecta, elegante, imposiblemente sexy en sus propios tacones— y algo en ella se encendía.
+
+*Quiero moverme así. Quiero verme así.*
+
+—La clave no es el cuerpo —explicaba Roxy mientras Lucía intentaba girar alrededor del tubo sin caerse—. Es la mirada. Tienes que mirarlos como si fueran la única persona en el mundo. Como si los desearas. Aunque te den asco. Especialmente si te den asco.
+
+Lucía cayó al suelo por quinta vez. Sus muslos dolían. Sus brazos temblaban. Pero los tacones... los tacones la hacían sentir diferente. Más alta. Más sexy. Más... ella.
 
 Roxy grababa todo con su teléfono.
 
-—Espera —Lucía se cubrió—. ¿Estas grabando?
+—Espera —Lucía se cubrió—. ¿Estás grabando?
 
-—Para que veas tu progreso, cariño. Las strippers exitosas documentan TODO. Es marketing.
+—Para que veas tu progreso, cariño. Y para tus redes. Las strippers exitosas documentan TODO. Es marketing.
 
-Lucía dudó. Pero después... dejó de cubrirse. Dejó que la cámara la viera. Y cuando Roxy le mostró el video más tarde —torpe, sí, pero también sexy de una manera que nunca había visto en sí misma— sintió algo nuevo:
+—¿Mis redes?
+
+—Vamos a crearte un Instagram nuevo. Solo para esto. —Roxy ajustó el ángulo de la cámara—. Pero primero, necesitas contenido.
+
+Lucía dudó. Pero después... miró sus piernas en los tacones. Largas. Estilizadas. Diferentes.
+
+Dejó de cubrirse. Dejó que la cámara la viera.
+
+Cuando Roxy le mostró el video más tarde —torpe, sí, pero también sexy de una manera que nunca había visto en sí misma— sintió algo nuevo:
 
 Orgullo.
+
+Y también algo más: el primer destello de adicción.
+
+*Quiero más. Quiero verme mejor. Quiero que me vean.*
 
 —Otra vez —pidió.
 
 Roxy sonrió. Era la sonrisa de un depredador viendo a su presa caminar hacia la trampa.
 
-—Otra vez —accedió—. Pero esta vez, quítate el top.
+—Otra vez —accedió—. Pero esta vez, quítate el top. Y arquea más la espalda. Los hombres pagan extra por eso.
 
 Lucía dudó. Solo un segundo. Después se lo quitó.
 
-Sus pechos —todavía naturales, todavía pequeños— brillaron bajo la luz de la tarde. Sentía los ojos de su madre recorriéndola. Evaluándola. Juzgándola.
+Sus pechos —todavía naturales, todavía pequeños— brillaron bajo la luz de la tarde. Sintió los ojos de su madre recorriéndolos. Evaluándolos. Juzgándolos.
 
 —Necesitas implantes —dijo Roxy sin rodeos—. Así no sirves.
 
 Las palabras deberían haber dolido. Deberían haber despertado la parte de Lucía que una vez escribió ensayos sobre feminismo y autonomía corporal.
 
-En cambio, sintió alivio. Finalmente alguien le decía la verdad.
+En cambio, sintió alivio. Como si alguien hubiera puesto en palabras lo que ella ya sabía en secreto.
+
+*Mis tetas son feas. Necesito arreglarlas.*
 
 —Lo sé —admitió—. ¿Cuánto cuestan?
 
-—No te preocupes por eso. Mamá paga. —Roxy levantó su copa—. Es una inversión.
+—No te preocupes por eso. —Roxy levantó su copa—. Mamá tiene un cirujano. El mismo que me hizo las mías. Y mientras sanas... seguimos practicando. Los tacones. Las fotos. El tubo. Todo se construye junto, cariño. Una cosa lleva a la otra.
 
 ---
 
