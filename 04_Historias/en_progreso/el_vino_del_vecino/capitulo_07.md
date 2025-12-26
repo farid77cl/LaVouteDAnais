@@ -190,6 +190,122 @@ Cherry asintió. Asentir era fácil. Entender era difícil. Pero no necesitaba e
 
 ---
 
+Y después vino Eduardo.
+
+O más bien: el cambio en cómo Cherry veía a Eduardo.
+
+Empezó con pequeñeces. Una tarde, mientras Cherry practicaba en el tubo, necesitó agua. Eduardo estaba en la cocina, fregando los platos como siempre.
+
+—Papá —llamó—. Tráeme agua.
+
+Eduardo obedeció inmediatamente. Llegó con un vaso, los ojos fijos en el suelo, evitando mirar a su hija semidesnuda.
+
+—Aquí tienes, cariño.
+
+Cherry tomó el vaso sin agradecer. Bebió. Lo devolvió vacío.
+
+—Más.
+
+Eduardo fue a buscar más. Y algo en Cherry... se encendió.
+
+*Le gusta*, pensó, observando cómo su padre corría a servirla. *Le gusta que le ordene cosas.*
+
+La revelación fue deliciosa. Poderosa. Como el primer sorbo de vino, pero diferente. Más oscura.
+
+Al día siguiente, lo probó de nuevo.
+
+—Papá, límpieme los tacones.
+
+Eduardo se arrodilló sin protestar. Con un paño húmedo, limpió cada centímetro de las plataformas acrílicas de su hija mientras ella scrolleaba Instagram sin mirarlo.
+
+—No así —lo corrigió, aunque no sabía cuál era la forma correcta—. Hazlo mejor.
+
+—Sí, cariño.
+
+Cherry frunció el ceño. Algo en "cariño" le molestaba ahora.
+
+—No me llames así.
+
+—¿Cómo... cómo quieres que te llame?
+
+La pregunta flotó en el aire. Cherry pensó —con lo que quedaba de su capacidad de pensar— en cómo quería ser llamada. La respuesta llegó con claridad cristalina:
+
+—Señorita. Señorita Cherry.
+
+Eduardo tragó saliva. Su erección presionó contra sus pantalones.
+
+—Sí... Señorita Cherry.
+
+El título se sintió correcto. Perfecto. Como los tacones. Como los implantes. Como todo lo demás que la hacía sentir poderosa y hermosa y superior.
+
+Roxy observaba desde el sofá, copa de vino en mano, sin intervenir. Su sonrisa era la de un maestro viendo a su alumna superar las expectativas.
+
+---
+
+La degradación de Eduardo avanzó rápidamente.
+
+Ya no era "papá". Era "Eduardo". O "sirviente". O simplemente "tú".
+
+—¿Tipo, qué eres? —le preguntó Cherry una noche mientras él servía la cena.
+
+Eduardo no supo qué responder.
+
+—Un padre —intentó—. Tu padre.
+
+Cherry rio. El sonido fue cruel, vacío, perfecto.
+
+—¿Padre? Los padres protegen. Los padres proveen. Los padres... —buscó la palabra— ...¿respetan? Tú solo pagas y miras. Eso no es un padre. Eso es... —miró a Roxy buscando ayuda.
+
+—Personal de servicio —completó Roxy con una sonrisa.
+
+—¡Eso! Personal de servicio. —Cherry aplaudió—. Eso eres. Y el personal de servicio no come con nosotras. Come después. En la cocina.
+
+Eduardo bajó la cabeza. Su plato quedó en la mesa mientras recogía el suyo y caminaba hacia la cocina.
+
+Y lo peor —lo más enfermo, lo más delicioso— era que estaba duro como una roca.
+
+---
+
+La feminización empezó como un juego.
+
+—Mami —dijo Cherry una tarde mientras revisaban compras online—. ¿No sería tipo... funny si Eduardo usara esto?
+
+Señalaba un vestido de sirvienta francés. Corto. Con delantal. Encaje negro.
+
+Roxy levantó una ceja.
+
+—¿Quieres que tu padre use vestido?
+
+—Like... no es mi padre. Es personal de servicio. Y el personal de servicio debe verse... ¿servil? Además, si no puede ser hombre de verdad... —se encogió de hombros— ...que sea otra cosa.
+
+El vestido llegó dos días después.
+
+Eduardo lo encontró en su cama con una nota escrita en letra torpe (Cherry ya no podía escribir bien): "Pontelo. Señorita Cherry."
+
+Se lo puso.
+
+Cuando bajó las escaleras —el vestido apretando su torso, las medias de red arañando sus piernas velludas, los tacones de cinco centímetros tambaleándose bajo su peso— Cherry y Roxy estaban esperando en el sofá.
+
+Cherry levantó el teléfono.
+
+*Click.*
+
+—Para mi colección privada —explicó, guardando la foto—. Por si alguna vez necesito... ¿recordarte? Tu lugar.
+
+Eduardo asintió. Su erección era visible a través de la falda corta del vestido.
+
+—Patético —murmuró Roxy.
+
+—Súper patético —coincidió Cherry—. Pero útil. Ahora tráeme vino. Y camina como mujer. La espalda recta. Los pasos cortos.
+
+Eduardo caminó hacia la cocina con pasos torpes, tambaleándose en los tacones. Cada paso era humillación. Cada paso era éxtasis.
+
+Y mientras lo veía alejarse, Cherry sintió algo que casi podría llamarse pensamiento:
+
+*Esto es poder. Esto es lo que mamá siente todo el tiempo. Y me encanta.*
+
+---
+
 El cerebro se vaciaba un poco más cada día.
 
 Al principio fueron las palabras largas. "Jurisprudencia" se convirtió en un trabalenguas imposible. "Constitucional" perdió todo significado. "Precedente" sonaba a idioma extranjero.

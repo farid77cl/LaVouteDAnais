@@ -298,6 +298,87 @@ DOLOR + IRA + HUMILLACIÓN = VEHÍCULO DEL PLACER
 
 ---
 
+## 📝 FEEDBACK HISTÓRICO: El Vino del Vecino (26/12/2025)
+
+### Bimbofication Gradual - PATRÓN CRÍTICO
+
+**Corrección del usuario:** "La estupidez o neblina mental también debe ser gradual"
+
+**Patrón aprendido - GRADUALIDAD DE ESTUPIDEZ:**
+| Etapa | Manifestación |
+|-------|---------------|
+| 1 | Palabras largas se vuelven difíciles ("jurisprudencia") |
+| 2 | Oraciones fragmentadas ("like, tipo, no sé") |
+| 3 | Pensamientos ausentes, solo impulsos |
+| 4 | Números/matemáticas imposibles (no puede contar) |
+| 5 | Asentir más fácil que procesar información |
+
+### Obsesión Tacones - PATRÓN NUEVO
+
+**Corrección del usuario:** "Créale obsesión por los tacones"
+
+**Patrón aprendido:**
+1. **Introducción:** Primer par como regalo (resistencia inicial)
+2. **Aceptación:** Practicar caminar, verse diferente
+3. **Afición:** Colección creciente (12+ pares)
+4. **Ritual:** Limpiarlos cada noche con paño especial
+5. **Dependencia:** Sentirse "incompleta" sin ellos
+6. **Fusión:** Usarlos 24/7, incluso para dormir
+
+### Vanidad/Selfies - PATRÓN GRADUAL
+
+**Corrección del usuario:** "Muy vain, preocupada solo de su apariencia y selfies"
+
+**Patrón aprendido:**
+1. Primera foto → rechazo/incomodidad ("me veo fea")
+2. Video de práctica → orgullo incipiente
+3. Post-cirugía → primera selfie propia
+4. Recuperación → selfies diarias documentando cambios
+5. Obsesión → likes = dopamina = felicidad única
+6. Identidad → valor personal = cantidad de likes
+
+### Tratamientos de Belleza como Religión
+
+**Patrón aprendido:**
+- Calendario semanal de visitas médicas
+- Cada procedimiento tiene justificación vanidosa
+- El dinero gastado NUNCA es cuestionado
+- Miedo a parecer "natural" como horror genuino
+
+### Humillación Padre-Hija - PATRÓN CRÍTICO NUEVO
+
+**Corrección del usuario:** "Lucía debe tratar a su papá como sumiso y humillarlo"
+
+**Patrón aprendido - GRADUALIDAD:**
+| Etapa | Cambio |
+|-------|--------|
+| 1 | Órdenes simples: "Tráeme agua" (sin agradecer) |
+| 2 | Servicio físico: "Límpiame los tacones" (arrodillado) |
+| 3 | Cambio de nombre: "No me llames cariño → Señorita Cherry" |
+| 4 | Deshumanización: "No eres padre, eres personal de servicio" |
+| 5 | Exclusión: "El personal come en la cocina, no con nosotras" |
+| 6 | Feminización: Vestido de sirvienta, medias, tacones |
+| 7 | Documentación: Fotos "para recordarte tu lugar" |
+
+**Origen de la humillación (canon):**
+> "Si no puede cumplir como hombre y como padre, que sea útil en algo"
+
+**Reacción de Eduardo:**
+- Cada humillación = erección más dura
+- Sumisión voluntaria = éxtasis secreto
+- Dolor + ira + humillación = placer (misma fórmula)
+
+### Destino Final Bimbo (Canon El Vino del Vecino)
+
+**Cherry es:**
+- Estúpida (no puede contar, palabras difíciles imposibles)
+- Vanidosa (selfies constantes, pánico si bajan likes)
+- Materialista (dinero, tacones, tratamientos)
+- Superficial (solo importa apariencia)
+- Exhibicionista (documenta TODO para followers)
+
+---
+
 *Este archivo se actualizará cada vez que el usuario corrija mis relatos.*
 
 💚🦇 Helena siempre aprende.

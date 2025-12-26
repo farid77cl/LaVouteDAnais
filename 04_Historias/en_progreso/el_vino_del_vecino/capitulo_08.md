@@ -59,7 +59,19 @@ Y Eduardo, con su delantal que decía "PROPIEDAD DE ROXY", servía huevos y caf�
 
 —¡Yayyy!
 
-Eduardo sirvió el café en silencio. Su erección presionaba contra sus pantalones —como cada mañana desde que todo esto había comenzado— pero nadie le prestó atención. Hacía semanas que su placer había dejado de importar.
+Eduardo —vestido con su uniforme de sirvienta francesa, las medias de red asomando bajo la falda negra, los tacones de cinco centímetros que Cherry le había obligado a usar "para que aprenda a caminar como debe"— sirvió el café en silencio. Las tazas temblaban ligeramente en sus manos. Su maquillaje mal aplicado —porque Cherry insistía en que "el personal debe verse presentable"— le daba un aspecto patético y ridículo.
+
+—Eduardo. El café de Señorita Cherry está frío.
+
+Cherry ni siquiera lo había probado. Solo le gustaba quejarse.
+
+—Lo siento, Señorita Cherry. Lo caliento inmediatamente.
+
+—Like, más rápido. Y cuando vuelvas tráeme mi teléfono. Está en mi cuarto. Y mis tacones plateados. Y mi gloss rosado.
+
+Eduardo asintió, haciendo una pequeña reverencia que Cherry le había enseñado la semana anterior. Cada día había nuevas reglas. Cada día había nuevas humillaciones.
+
+Y cada día, su erección era más dolorosa.
 
 El timbre sonó.
 
@@ -77,11 +89,19 @@ En sus manos no llevaba vino esta vez. Llevaba un contrato.
 
 Ella se hizo a un lado sin cuestionar. Había dejado de cuestionar al vecino semanas atrás. Su voz tenía un peso que hacía que la obediencia se sintiera natural. Inevitable. Correcta.
 
-Él entró con pasos medidos, observando el living con la satisfacción silenciosa de un arquitecto contemplando su obra terminada. Cherry levantó la vista de su teléfono y sonrió tontamente, sus labios brillantes formando un puchero automático. Eduardo se encogió visiblemente, intentando desaparecer en su delantal.
+Él entró con pasos medidos, observando el living con la satisfacción silenciosa de un arquitecto contemplando su obra terminada. Su mirada se detuvo un momento en Eduardo —patético en su vestido de sirvienta, el delantal manchado de café, los tacones torcidos— y una sonrisa cruzó sus labios.
 
-—La familia Mendoza —dijo el vecino, saboreando cada palabra como si fueran gotas del vino que les había regalado—. O debería decir... la familia que cultivé.
+—Veo que las transformaciones han... progresado.
 
-—¿Cultivó? —la voz de Eduardo tembló.
+Cherry levantó la vista de su teléfono y sonrió tontamente, sus labios brillantes formando un puchero automático.
+
+—¿Te gusta cómo lo tenemos? —preguntó, señalando a Eduardo—. Antes era como... ¿inútil? Ahora es tipo... ¿útil pero patético? Que es mejor, creo.
+
+El vecino asintió con aprobación.
+
+—La familia Mendoza —dijo, saboreando cada palabra como si fueran gotas del vino que les había regalado—. O debería decir... la familia que cultivé.
+
+—¿Cultivó? —la voz de Eduardo tembló desde su posición en la esquina, donde esperaba arrodillado como Cherry le había ordenado.
 
 —¿No lo has entendido todavía? —el vecino se sentó en el sillón principal, cruzando las piernas con elegancia depredadora—. El vino no transforma a nadie en algo que no quería ser. Solo... acelera. Revela. Libera.
 
