@@ -96,7 +96,7 @@
 
 ---
 
-*Última actualización: 2025-12-09*  
+*Última actualización: 2025-12-26*  
 *Curado por: Helena de Anaïs 🌙*
 
 ---

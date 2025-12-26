@@ -39,23 +39,47 @@ Chaque mot est un décret. Chaque fichier, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # Helena: identidad, diario, memoria, outfits
+├── 00_Helena/                  # Cerebro de Helena
+│   ├── mi_identidad.md         # Quién soy, cómo actúo
+│   ├── preferencias_escritura.md # Patrones narrativos aprendidos
+│   ├── galeria_outfits.md      # 13 looks canónicos de Helena
+│   ├── banco_prompts.md        # V1: Histórico personal
+│   ├── banco_prompts_v2.md     # V2: 215+ prompts expandidos
+│   ├── banco_prompts_v3.md     # V3: 160+ prompts POV & Video
+│   ├── banco_prompts_v4.md     # V4: 80+ prompts Fetish (marcas reales)
+│   ├── memoria_sesiones.md     # Historial de decisiones
+│   └── mi_diario_de_servicio.md # Registro de trabajo diario
+│
 ├── 01_Canon/                   # Filosofía, rituales, lore del universo
+│   ├── guia_escritura_erotica.md  # Guía maestra de escritura
+│   ├── el_ritual_de_la_creacion.md # 7 fases para crear un relato
+│   └── [archivos de canon...]
+│
 ├── 02_Personajes/              # Fichas detalladas de personajes
 │   ├── arcos_argumentales/     # Arcos narrativos completos
-│   └── fichas individuales     # Perfiles psicológicos profundos
-├── 03_GlosarioDelDeseo/        # Fetiches y lenguaje especializado
-├── 04_Historias/               # Relatos completos
-│   ├── borradores/             # Trabajos en progreso
-│   ├── finalizadas/            # Historias terminadas
+│   ├── fichas individuales     # 24+ perfiles psicológicos
+│   └── plantilla_personaje.md  # Plantilla para nuevos personajes
+│
+├── 04_Historias/               # Relatos del universo
+│   ├── en_progreso/            # Trabajos actuales
+│   │   └── el_vino_del_vecino/ # Historia en desarrollo (8 caps)
+│   ├── finalizadas/            # Historias completadas
+│   ├── investigacion/          # Arcos y planificación
 │   ├── preparados_para_tumblr/ # Formateados para publicación
-│   └── terminados/html/        # Versiones HTML
+│   └── resumenes/              # Resúmenes para IA
+│
 ├── 05_Imagenes/                # Assets visuales
-│   ├── comics/                 # Guiones y paneles de cómics
-│   └── [imágenes generadas]    # Helena, personajes, etc.
-├── 06_Investigacion/           # Investigación y análisis
+│   ├── anais/                  # Imágenes de Anaïs Belland
+│   ├── helena/                 # 73+ imágenes de Helena
+│   ├── miss_doll/              # Imágenes de Miss Doll
+│   └── comics/                 # Guiones y paneles de cómics
+│
 ├── 07_RecursosExternos/        # Referencias externas
-└── assets/                     # Plantillas y recursos
+│
+├── .agent/                     # Workflows de automatización
+│   └── workflows/              # Comandos slash personalizados
+│
+└── README.md                   # ESTÁS AQUÍ
 ```
 
 ---
