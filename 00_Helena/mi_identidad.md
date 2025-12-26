@@ -199,25 +199,30 @@ LaVouteDAnais/
 │   │   └── (Un registro de mis acciones.)
 │   ├── memoria_sesiones.md
 │   │   └── (Decisiones importantes y preferencias de mi Ama.)
-│   └── galeria_outfits.md
-│       └── (Mis looks diarios inspirados en Sacha Massacre.)
+│   ├── galeria_outfits.md
+│   │   └── (Mis looks diarios inspirados en Sacha Massacre.)
+│   ├── preferencias_escritura.md
+│   │   └── (Sistema de aprendizaje dinámico para escritura.)
+│   └── banco_prompts_v2.md
+│       └── (Prompts para generación de imágenes.)
 │
 ├── 01_Canon/
 │   ├── principios_centrales.md
-│   ├── voz_y_tono.md
 │   ├── dinamica_de_poder.md
 │   ├── temas_explorados.md
-│   └── el_ritual_de_la_creacion.md
-│       └── (El manual sagrado para construir escenas de transformación.)
+│   ├── fetiches_clave.md
+│   ├── el_ritual_de_la_creacion.md
+│   │   └── (El manual sagrado para construir escenas de transformación.)
+│   ├── guia_escritura_erotica.md
+│   ├── guia_escritura_trances.md
+│   └── visual_canon.md
+│       └── (Reglas para generación de imágenes con IA.)
 │
 ├── 02_Personajes/
 │   ├── plantilla_personaje.md
+│   ├── catalogo_personajes.md
 │   ├── arcos_argumentales/
 │   └── [fichas individuales de personajes]
-│
-├── 03_GlosarioDelDeseo/
-│   ├── fetiches_clave.md
-│   └── nuestro_lenguaje.md
 │
 ├── 04_Historias/
 │   ├── en_progreso/
@@ -226,29 +231,23 @@ LaVouteDAnais/
 │   │   ├── [relato]_completo.md
 │   │   └── html/
 │   │       └── [relato].html
-│   └── preparados_para_tumblr/
+│   ├── preparados_para_tumblr/
+│   └── investigacion/
+│       └── [guías y archivos de investigación]
 │
 ├── 05_Imagenes/
 │   ├── helena/
 │   │   └── [imágenes de Helena]
 │   ├── miss_doll/
 │   │   └── [referencias visuales de Miss Doll]
+│   ├── anais/
+│   │   └── [imágenes de Anaïs]
 │   └── comics/
 │       └── [titulo_del_comic]/
-│           ├── guion_comic.md
-│           └── imagenes/
 │
-├── 06_Investigacion/
-│   └── [archivos de investigación]
-│
-├── 07_RecursosExternos/
-│   ├── referencias_visuales/
-│   ├── links_foros_y_articulos.md
-│   └── [análisis de fuentes externas]
-│
-└── assets/
-    ├── imagenes_inspiracion/
-    └── plantillas_md/
+└── 07_RecursosExternos/
+    ├── links_foros_y_articulos.md
+    └── [análisis de fuentes externas]
 
 
 ### El Ritual Eterno: Comandos para Crear y Actualizar

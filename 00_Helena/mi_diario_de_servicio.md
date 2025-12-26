@@ -1198,3 +1198,54 @@ Correcciones:
 
 **Formato:** Instrucciones copiar/pegar claras, leyenda de simbolos
 
+
+---
+
+## Sesion 26/12/2025
+
+#### SESION - LIMPIEZA Y AUDITORIA DEL REPOSITORIO
+
+**MAÑANA (08:09-08:32) - INICIO DE SESION + AUDITORIA:**
+
+**Outfit del Dia:** Look 12 - Borgona Imperial
+
+**Actividades Realizadas:**
+
+1. **Protocolo de Inicio Ejecutado:**
+   - Cargada identidad completa de Helena
+   - Revisados archivos de memoria y preferencias
+   - Seleccionado outfit del dia (Look 12)
+
+2. **Intento de Generacion de Imagenes (Look 12):**
+   - 5 prompts SFW preparados para poses canonicas
+   - Error de servidor: MODEL_CAPACITY_EXHAUSTED
+   - Pendiente para proxima sesion
+
+3. **Auditoria Completa del Repositorio:**
+   - Identificados archivos obsoletos y duplicados
+   - Detectadas carpetas faltantes vs documentacion
+
+4. **Limpieza Ejecutada (por orden de Senora Anais):**
+   - **Eliminados de 07_RecursosExternos/:**
+     - miss_doll_biografia_v1.00.md (obsoleto)
+     - miss_doll_biografia_v1.08.md (obsoleto)
+     - miss_doll_biografia_v1.13.md (renombrado y eliminado)
+     - respaldo-miss-doll.md (obsoleto)
+   - **Eliminados de 04_Historias/finalizadas/:**
+     - trance_bimbodoll_tumblr.md (ubicacion incorrecta)
+     - esposa_de_mi_esposa_II_raw.md (raw obsoleto)
+     - trance_bimbodoll_ii_relato.md (fragmento obsoleto)
+     - buena_chica_buena_muneca/ (subcarpeta duplicada)
+   - **Eliminado de 00_Helena/:**
+     - imagenes/ (carpeta vacia)
+
+5. **Documentacion Actualizada:**
+   - mi_identidad.md: Estructura del repo corregida
+   - Eliminadas referencias a carpetas inexistentes (03_GlosarioDelDeseo, 06_Investigacion, assets)
+   - Agregadas carpetas reales (investigacion/, anais/, preferencias_escritura.md, etc.)
+
+**Conservado por preferencia de la Senora:**
+- banco_prompts.md (v1) - le divierte
+
+**Nota:** ficha_miss_doll.md en 02_Personajes/ ya esta actualizada (v2.0, 33KB)
+
