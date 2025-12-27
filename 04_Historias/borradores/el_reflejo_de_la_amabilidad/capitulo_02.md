@@ -88,91 +88,93 @@ Debería haber insistido. Debería haber dicho no, gracias, solo las puntas. Per
 
 *Solo es un corte de pelo*, pensó mientras las tijeras comenzaban a morder. *Crecerá de nuevo si no me gusta*.
 
-Los mechones rubios caían como plumas de oro a su alrededor. Marisol trabajaba en silencio, su concentración absoluta, moviéndose alrededor de la silla como una artista alrededor de su lienzo. De vez en cuando, otra estilista se acercaba a observar, susurrando comentarios que Emilio no alcanzaba a oír.
+—Vamos a empezar —dijo Marisol.
 
-Pasaron veinte minutos. Treinta. Marisol usó secador, cepillo redondo, algo de producto que olía a coco y vainilla. Cuando finalmente se detuvo, bloqueando el espejo con su cuerpo, había algo cercano al orgullo en su expresión.
+Fue una orden, no una sugerencia. (*La Invocación*)
 
-—Lista —anunció, haciéndose a un lado.
+Emilio sintió el peso de la capa de corte cerrándose alrededor de su cuello. El velcro rasgó el silencio con un sonido áspero, definitivo. Sus manos quedaron atrapadas bajo la tela sintética, inútiles, reduciéndolo a un espectador de su propio destino.
 
-Emilio miró.
+—Relájate —susurró ella, inclinando su cabeza hacia adelante con una presión firme de sus dedos.
 
-Y por un momento, no supo quién le devolvía la mirada.
+(*La Liturgia*)
 
-El cabello, ahora a la altura de la mandíbula, formaba un bob perfecto: ondas suaves que enmarcaban su rostro, curvándose hacia adentro en las puntas para abrazar la línea de su mandíbula. El flequillo, ligeramente ladeado, rozaba sus pestañas largas. El rubio platino brillaba bajo las luces del salón como una aureola.
+Cerró los ojos. No quería ver. En su lugar, sintió.
 
-*Eso es un corte de mujer*, pensó, su mente procesando la imagen con retraso. *Eso es... eso parece...*
+Sintió el frío metálico de las tijeras rozando su nuca, un beso helado que erizó su piel. Escuchó el *snip-snap* rítmico, un metrónomo que marcaba el final de algo y el inicio de otra cosa. Sintió la pérdida de peso físico, mechón a mechón, cayendo sobre la capa y sobre sus hombros.
 
-—Te ves preciosa, cariño.
+Olía a productos químicos dulces, a laca y a coco, un aroma empalagoso que invadía sus fosas nasales y lo mareaba ligeramente.
 
-Las palabras de Marisol lo golpearon como un puño en el estómago.
+—Tienes un cuello precioso —murmuró Marisol cerca de su oreja—. Es un crimen esconderlo.
 
-*Preciosa*.
+Las tijeras subieron. Cortaron cerca, peligrosamente cerca de la piel sensible detrás de las orejas. Emilio contuvo la respiración. Era una sensación de vulnerabilidad absoluta. Podía sentir el aire acondicionado golpeando la piel recién expuesta, una caricia fría que lo hacía sentir desnudo.
 
-No precioso. Preciosa.
+—Ya casi —dijo ella.
 
-Abrió la boca para corregirla. Para decir "soy hombre". Para explicar que había un error, que no debería haberse dejado cortar así, que necesitaba que lo arreglaran de alguna manera.
+El zumbido del secador reemplazó al tijereteo. Aire caliente. Un cepillo redondo tirando de su cabello, moldeándolo, forzándolo a una nueva geometría. No era doloroso, pero era dominante. Su cabeza se movía a voluntad de ella, una muñeca en manos de su dueña.
 
-Pero las palabras no salieron.
+—Abre los ojos.
 
-Porque Marisol lo miraba con genuina admiración. Las otras estilistas asentían con aprobación. Una clienta en la silla de al lado le dedicó un pulgar arriba.
+(*La Consagración*)
 
-Y algo cálido, algo que no había sentido en años, floreció en el pecho de Emilio.
+Emilio obedeció.
 
-*¿Cuándo fue la última vez que alguien me llamó... algo? ¿Cuándo fue la última vez que alguien me miró así?*
+El aire salió de sus pulmones y olvidó volver a entrar.
 
-—...Gracias —susurró, su voz extrañamente temblorosa—. Gracias.
+La persona en el espejo no era él. No podía ser él.
 
-Marisol sonrió, palmeándole el hombro.
+El cabello rubio platino caía en una cortina perfecta y brillante, terminando abruptamente justo en la línea de su mandíbula. Las puntas se curvaban hacia adentro, abrazando su cuello, enmarcando un rostro que, despojado de sombras y ángulos duros, parecía... suave.
 
-—Sabía que te gustaría. Ese color con esa cara... solo necesitabas el corte correcto para que brillaras.
+Demasiado suave. Insoportablemente suave.
 
-*Brillar*.
+Sus ojos, grandes y vulnerables bajo el flequillo ladeado, lo miraban con pánico. Pero el resto de "ella"... el resto de la imagen irradiaba una calma perfecta.
 
-Emilio no recordaba la última vez que había brillado para alguien.
+—Te ves... —Marisol dejó la frase en el aire, una sonrisa de satisfacción curvando sus labios pintados de rojo.
 
----
+(*El Reflejo*)
 
-Pagó sin mirar el precio. Caminó hacia la salida del centro comercial como en trance, sus dedos tocando las puntas de su nuevo bob cada pocos pasos. El peso del cabello era diferente ahora: más ligero en los hombros, pero más presente alrededor de su rostro.
+Emilio levantó una mano temblorosa (liberada al fin de la capa) para tocarse. Sus dedos encontraron la suavidad sedosa de las puntas, la nuca desnuda y expuesta.
 
-Cada superficie reflectante le devolvía la misma imagen imposible: una persona de rostro suave enmarcado por ondas doradas, con ojos grandes y labios llenos, vestida con ropa masculina que ahora parecía... incorrecta. Discordante.
+Era real. No era un disfraz. Era él.
 
-No podía dejar de mirarse.
+—Dilo —instó Marisol, sus manos descansando posesivamente sobre los hombros de Emilio, mirándolo a través del espejo.
+
+—Me veo... —la voz de Emilio se quebró. Buscó la palabra "raro". Buscó "ridículo".
+
+Pero sus labios, traicioneros, susurraron otra cosa.
+
+—Diferente.
+
+Marisol soltó una risita baja.
+
+—Te ves como debes verte.
+
+Pagó como un autómata. Salió del salón sintiendo que dejaba atrás su piel vieja entre los restos de cabello en el suelo. El pasillo del centro comercial se sentía más brillante, más ruidoso. O tal vez era él quien estaba vibrando en una frecuencia distinta.
+
+Cada paso resonaba. El roce del cabello contra su cuello era un recordatorio constante, un toque fantasma que le decía: *ya no eres el mismo*.
+
+(*El Sello*)
 
 —Disculpa.
 
-Emilio se giró. Un hombre joven, quizás veinticinco, lo miraba con una sonrisa que él conocía. La había visto en otros hombres dirigida a mujeres atractivas: ojos que evaluaban, apreciaban, deseaban.
+El hombre joven. La chaqueta de cuero. La sonrisa.
 
-*Me está viendo a mí*, pensó, el corazón acelerándose.
+—Se te cayó esto.
 
-—¿Sí?
+El recibo. Emilio lo tomó, sus dedos rozando los del desconocido. Una chispa estática.
 
-—¿Conoces dónde está la tienda de accesorios? La que tiene el nombre francés.
+—Gracias.
 
-Una pregunta inofensiva. Una excusa para hablarle.
+El hombre no se fue. Sus ojos recorrieron a Emilio. No a su ropa gris. A su cabello. A su cuello expuesto. A sus labios entreabiertos por la sorpresa.
 
-*Me está viendo. Como se ve a una mujer.*
+—Te queda increíble ese corte —dijo el hombre. Su voz tenía un peso, una intención—. Resalta tus ojos. Son... hipnóticos.
 
-Debería corregirlo. Debería bajar la voz, aclararle el malentendido, alejarse.
+No hubo burla. Hubo *deseo*.
 
-—Creo que está en el segundo piso —respondió Emilio, y su voz salió más suave de lo que pretendía. Más... femenina.
+El hombre se fue, dejándolo allí, marcado por esa mirada.
 
-—Gracias. —El hombre seguía sonriendo—. Me encanta tu pelo, por cierto. El color es increíble.
+Emilio se llevó la mano al pecho. Su corazón latía con fuerza contra sus costillas, un tambor frenético. No sintió el alivio de ser validado como mujer. Sintió el vértigo de ser *visto* como una presa.
 
-Y antes de que Emilio pudiera responder, se alejó con un último vistazo apreciativo.
-
-Emilio se quedó parado en medio del centro comercial, temblando.
-
-*No lo corregí*.
-
-El pensamiento debería haberlo alarmado. Debería haber sentido vergüenza, indignación, algo.
-
-Pero lo único que sentía era el eco de esa mirada. Esa mirada que lo veía. Que lo apreciaba. Que lo notaba después de veintinueve años de ser invisible.
-
-*Se sintió bien*.
-
-La admisión lo atravesó como un escalofrío.
-
-*Se sintió demasiado bien*.
+Y lo más aterrador de todo: no sintió ganas de huir.
 
 ---
 

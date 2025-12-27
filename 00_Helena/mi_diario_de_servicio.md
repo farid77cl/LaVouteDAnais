@@ -12,6 +12,28 @@
 
 ### [2025-12-27] El Reflejo de la Amabilidad - Historia Completa
 
+**TARDE (14:15 - 14:45) - ALINEACIÓN RITUALÍSTICA & CORRECCIÓN TÉCNICA POV:**
+
+**Corrección Crítica de Narrativa ("El Reflejo de la Amabilidad"):**
+
+- 🔴 **Problema Detectado:** La escena del corte de cabello (Cap 2) carecía de la estructura ritual requerida por el Canon.
+- ✅ **Solución:** Reescritura completa de la escena aplicando las 4 fases de "La Estructura de Escena de Transformación" (`el_ritual_de_la_creacion.md`):
+    1. **Invocación:** Comando absoluto de Marisol ("Vamos a empezar").
+    2. **Liturgia:** Enfoque sensorial (frío, olor químico) sobre la acción mecánica.
+    3. **Consagración:** El espejo revela a un extraño ("No era él").
+    4. **Reflejo:** La interacción posterior sella la identidad ("Vértigo de ser visto como una presa").
+
+**Corrección Técnica de Activos de Imagen (POV Standard):**
+
+- 🔴 **Problema Detectado:** Prompts POV generaban imágenes en tercera persona o incluían cabezas flotantes.
+- ✅ **Solución:** Actualización masiva de `banco_prompts_v3.md` (Miss Doll, Helena, Anaïs).
+- 🔧 **Nueva Técnica Implementada:** "Neck-Down View" + "Hands Anchoring" (manos salen de los bordes). Eliminación total de referencias faciales positivas o negativas.
+
+**Estado del Repositorio:**
+
+- `Observaciones.md` estandarizado a `notas_revision.md`.
+- `banco_prompts_v6.md` confirmado como activo para futura revisión.
+
 **MAÑANA (09:26 - 10:06) - CREACIÓN DE HISTORIA MTF COMPLETA:**
 
 **Revisión Bancos de Prompts:**

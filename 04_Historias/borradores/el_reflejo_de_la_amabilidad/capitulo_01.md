@@ -66,139 +66,93 @@ No sintió nada especial. La decepción era su compañera constante.
 
 ---
 
-Las semanas siguientes fueron indistinguibles unas de otras. Emilio se despertaba a las 6:45, se duchaba, aplicaba el tónico Aurum-Follicle, tomaba la pastilla blanca con su café negro, y conducía hasta la oficina de DataSync Analytics en su Honda Civic de cinco años que nunca le había dado problemas porque nunca lo llevaba a ningún lugar interesante.
+---
 
-En la oficina, ocupaba un cubículo en la sección central del piso 7, ni cerca de las ventanas ni relegado al fondo. Un lugar tan intermedio como él mismo. Sus colegas lo saludaban con asentimientos genéricos. David, el del cubículo de al lado, a veces le ofrecía café del que él mismo preparaba. Emilio aceptaba con un "gracias" que se perdía en el ruido blanco de teclados y conversaciones ajenas.
+El incidente que lo cambiaría todo ocurrió un martes cualquiera, en medio de la monotonía gris de la oficina.
 
-Las reuniones eran ejercicios de invisibilidad. Emilio preparaba informes meticulosos, gráficos perfectamente alineados, conclusiones respaldadas por datos sólidos. Cuando hablaba, inevitablemente alguien lo interrumpía a la mitad de la oración, o su voz quedaba sepultada bajo la de Rodrigo del Departamento de Ventas, que tenía esa clase de presencia física que llenaba cualquier habitación.
+Emilio llevaba su bandeja del almuerzo hacia una mesa vacía en la cafetería corporativa, esquivando grupos de colegas que reían y conversaban con una facilidad que a él siempre le había sido ajena. Llevaba su camisa beige de siempre, sus pantalones grises de siempre, y su actitud de siempre: la de alguien que pide perdón por ocupar espacio.
 
-*Nadie me escucha*, pensaba mientras recogía sus papeles después de cada presentación que había terminado otro. *Nadie me ve*.
+Pero ese martes, el espacio decidió que no quería ser ocupado por él.
 
-No era autocompasión. Era simple observación empírica. Los datos no mentían.
+—¡Cuidado! —gritó alguien, pero fue tarde.
 
-Las noches eran tan predecibles como los días. Cena preparada (usualmente pollo con algo), una hora de televisión sin prestar atención, luego cama. A veces se masturbaba con pornografía genérica, pero incluso eso se sentía como una obligación biológica más que un placer.
+Un ejecutivo junior, riendo por algo que decía su compañero, retrocedió sin mirar y chocó directamente contra Emilio. La bandeja voló. El café, tibio y azucarado, aterrizó con precisión matemática sobre la camisa blanca del ejecutivo.
 
-*Mañana será igual*, pensaba cada noche antes de dormirse.
+El silencio que siguió fue absoluto.
 
-Y siempre tenía razón.
+—¡Pero serás idiota! —bramó el ejecutivo, mirándose la mancha marrón que se extendía por su pecho—. ¿No ves por dónde vas?
+
+—Yo... lo siento, yo... —Emilio tartamudeó, buscando servilletas, tratando de ayudar, pero sus manos temblaban.
+
+—¡Déjalo! —El hombre lo empujó levemente, sacudiéndose el líquido—. Dios, eres un desastre, Salazar. Un maldito desastre.
+
+La cafetería entera miraba. Risitas sofocadas. Murmullos. Y en el centro de todo, Emilio, sintiendo cómo sus mejillas ardían con esa vergüenza familiar, esa sensación de ser un error en el sistema.
+
+Fue entonces cuando la Jefa de Departamento, la temida señora Varela, apareció.
+
+—¿Qué es este escándalo? —Su voz cortó el aire como un látigo.
+
+—Salazar me tiró el café encima —acusó el ejecutivo, señalando a Emilio como si fuera un perro que se hubiera orinado en la alfombra.
+
+Varela miró la mancha. Luego miró a Emilio. Sus ojos recorrieron su camisa beige arrugada, su postura encorvada, su cabello que empezaba a crecer de forma desordenada en esa etapa incómoda del tratamiento.
+
+—Salazar —dijo ella, con un tono de cansancio infinito—. A mi oficina. Ahora.
 
 ---
 
-Fue en la quinta semana cuando notó algo extraño.
+La oficina de Varela olía a perfume caro y estrés. Emilio se sentó en la silla frente al escritorio, sintiéndose pequeño, insignificante.
 
-Estaba aplicándose el tónico Aurum-Follicle frente al espejo del baño cuando sus dedos encontraron, en lugar de piel calva, una pelusa suave. Inclinó la cabeza, forzando la vista: pequeños cabellos, como los de un bebé, cubrían lo que antes era un desierto rosado.
+—No voy a despedirte, Emilio —dijo Varela sin preámbulos, mirándolo por encima de sus lentes—. Eres bueno con los datos. Eres eficiente.
 
-*Está funcionando*.
+Emilio soltó un suspiro que no sabía que estaba conteniendo.
 
-Por primera vez en meses, algo parecido a la esperanza floreció en su pecho.
+—Pero —continuó ella, y la palabra quedó colgando en el aire—, tu presentación es... lamentable. Mírate. Esa camisa parece que dormiste con ella. Tu postura es deprimente. Y ese pelo...
 
-Pero fue el color lo que lo hizo parpadear.
+Hizo un gesto vago hacia su cabeza.
 
-Los nuevos cabellos no eran castaños como el resto de su pelo sobreviviente. Eran... claros. Muy claros. Parecían rubios, aunque era difícil decirlo con esa longitud diminuta.
+—Trabajamos con clientes de alto nivel, Emilio. La imagen importa. Tú eres la cara invisible de este departamento, pero sigues siendo una cara. Y ahora mismo, esa cara dice "perdedor".
 
-*Alteraciones menores en pigmentación*, recordó del formulario. Uno de los efectos secundarios que no había terminado de leer.
+La palabra dolió más que el café caliente.
 
-Se encogió de hombros mentalmente. ¿Qué importaba el color? Tendría pelo. Eso era lo que importaba.
+—Tienes un mes —sentenció Varela—. Arréglate. Mejora tu presencia. Haz algo con ese pelo, por el amor de Dios. O te moveré al archivo del sótano, donde nadie tenga que verte.
 
-En las semanas siguientes, su cabello creció con una velocidad que parecía antinatural. Para el segundo mes de tratamiento, la pelusa se había convertido en un cabello real, corto pero denso, que cubría completamente las áreas antes calvas. Y el color ya no dejaba lugar a dudas: rubio. Rubio platino, para ser exactos. Un rubio tan claro que parecía brillar bajo la luz del baño.
+—Sí, señora Varela —susurró Emilio.
 
-Fue al peluquero de siempre, una barbería económica en un centro comercial de barrio, donde un señor mayor le recortaba el pelo cada seis semanas sin conversación innecesaria.
+—Largo.
 
-—Vaya —dijo el barbero cuando Emilio se sentó en la silla—. ¿Se tiñó?
+Salió de la oficina temblando, no de miedo, sino de una humillación fría y pegajosa que se le adhería a la piel. Arréglate. Haz algo con ese pelo.
 
-—No, es... —Emilio vaciló—. Es un efecto secundario de un medicamento.
+Fue al baño y se miró en el espejo. Vio lo que Varela veía: un hombre gris, borroso, a medio terminar. Pero entonces, bajo la luz fluorescente, algo brilló.
 
-El barbero silbó entre dientes.
+Su cabello.
 
-—Pues le quedó bonito. Parece natural. —Pasó los dedos por los mechones rubios con una curiosidad casi científica—. Suave como seda, además. ¿Qué champú usa?
+Las raíces rubio platino, ahora de casi dos centímetros, capturaron la luz con un destello desafiante. No eran grises. No eran beige. Eran oro puro naciendo de la nada.
 
-—El de siempre —mintió Emilio, aunque en realidad el Aurum-Follicle parecía actuar como su propio acondicionador.
+*Haz algo con ese pelo*, había dicho ella.
 
-Después del corte, que dejó su cabello rubio en un estilo masculino pero pulcro, Emilio se miró en el espejo de la barbería. Se veía... diferente. No podía precisar cómo. El color era el cambio obvio, pero había algo más.
+Emilio tocó los mechones nuevos. Suaves. Sedosos.
 
-*Es la luz*, se convenció. *Debe ser la iluminación*.
-
-Pagó, dejó la propina habitual y se fue.
+—Haré algo —dijo a su reflejo. Y por primera vez en años, su voz no tembló.
 
 ---
 
-Esa noche, después de ducharse, Emilio se detuvo frente al espejo del baño más tiempo de lo habitual.
+El tratamiento Aurum-Follicle aceleró.
 
-Su piel se veía... distinta. Tocó su mejilla con los dedos, notando una suavidad que no recordaba haber tenido antes. Los poros parecían más pequeños. El vello facial que solía tener que rasurar cada dos días ahora apenas era visible, como si hubiera decidido crecer más lento y más fino.
+En las semanas siguientes, su cabello creció con una velocidad que desafiaba la biología, o tal vez la biología estaba tratando de compensar años de pérdida. Para el segundo mes, la pelusa se había convertido en una melena corta, densa y brillante. Y el color ya no dejaba lugar a dudas: rubio. Rubio platino, casi blanco, tan claro que parecía irradiar luz propia.
 
-*Sensibilidad cutánea incrementada*, recordó del formulario.
+Fue al peluquero de siempre, una barbería económica en un centro comercial de barrio.
 
-Supuso que eso explicaba la suavidad. Su piel estaba más sensible, probablemente más hidratada como efecto del tratamiento. Eso era bueno, ¿no? Mejor piel era un beneficio secundario, no un problema.
+—Vaya —dijo el barbero—. ¿Se tiñó?
 
-Se inclinó hacia el espejo, observando su rostro con una atención que raramente le prestaba. Sus labios, siempre un poco más llenos de lo que consideraba masculinamente apropiado, parecían más definidos bajo su nueva piel suave. Sus pestañas largas enmarcaban ojos que, ahora que lo pensaba, tenían algo casi... delicado.
+—Efecto secundario —murmuró Emilio.
 
-*Rasgos andróginos*, escuchó de nuevo la voz de su tía.
+—Pues le quedó bonito. Parece seda.
 
-Sacudió la cabeza y se alejó del espejo. Estaba imaginando cosas. El tratamiento estaba regenerando su cabello, eso era todo. El resto era paranoia y demasiado tiempo mirándose a sí mismo.
+Después del corte, Emilio se miró en el espejo. Se veía diferente. No solo por el pelo. Sus facciones parecían... más suaves. Menos "promedio".
 
-Se fue a la cama convencido de que mañana todo volvería a la normalidad.
+*Es la luz*, se convenció. *Siempre es la luz*.
 
----
-
-(*Dos meses después del inicio del tratamiento*)
-
-El cabello de Emilio ya le llegaba hasta las orejas.
-
-Nunca lo había tenido tan largo. De adolescente, su madre insistía en cortes militares, y de adulto simplemente había continuado la tradición por inercia. Pero ahora, con el rubio platino cayendo en ondas suaves alrededor de su rostro, parecía un desperdicio cortarlo.
-
-*Solo lo dejaré crecer un poco más*, se justificó. *Hasta ver cómo queda*.
-
-El cabello tenía una textura que nunca había experimentado en su propia cabeza: sedoso, brillante, con un movimiento natural que parecía sacado de un comercial de shampoo. Cuando caminaba, sentía el peso suave de los mechones rozando sus mejillas. Cuando se inclinaba sobre el escritorio en el trabajo, un cortina dorada caía frente a sus ojos y tenía que apartarla con un gesto que, sin darse cuenta, se estaba volviendo cada vez más grácil.
-
-Sus colegas empezaron a notarlo.
-
-—Emilio, ¿hiciste algo diferente? —preguntó Sandra de Contabilidad un lunes, mirándolo con curiosidad genuina.
-
-—Uh... ¿Dejé crecer el pelo?
-
-—Te queda bien —dijo ella, y siguió caminando hacia la máquina de café.
-
-Fue la primera vez en meses que alguien en la oficina le había dicho algo que no fuera estrictamente laboral. Emilio se quedó plantado en el pasillo, procesando el cumplido con la torpeza de quien recibe un regalo inesperado.
-
-*Solo dijo que me queda bien el pelo*, se recordó. *No es para tanto*.
-
-Pero esa noche, frente al espejo, pasó más tiempo del habitual peinándose. Probó apartarlo hacia un lado, luego hacia el otro. Probó dejarlo caer naturalmente, enmarcando su rostro.
-
-El rostro que ahora, bajo la luz del baño, parecía más suave de lo que recordaba. La mandíbula menos angulosa. Las mejillas con una plenitud sutil que no estaba ahí antes.
-
-*Es solo el ángulo*, pensó.
-
-*Es solo la luz*.
-
-*El color se normalizará eventualmente*.
-
-Pero su mano, cuando apartó un mechón rubio de sus ojos, se movió con una elegancia que no le pertenecía.
-
-Y no se dio cuenta.
-
----
-
-El mundo gris de Emilio seguía girando con la monotonía de siempre. Despertaba, se duchaba, aplicaba el tónico, tomaba la pastilla. Conducía a la oficina, ocupaba su cubículo, preparaba sus informes. Era interrumpido, ignorado, olvidado.
-
-Pero algo había cambiado. Algo pequeño. Algo que todavía no podía articular.
-
-Cuando caminaba por la calle hacia el estacionamiento después del trabajo, una mujer que venía en dirección contraria lo miró. No *a través* de él, como era usual, sino *a* él. Una mirada fugaz, curiosa, evaluadora.
-
-Emilio bajó los ojos automáticamente, incómodo con la atención.
-
-*Debe ser el pelo*, pensó. *El color llama la atención*.
-
-No se preguntó por qué la mujer había sonreído antes de pasar de largo.
-
-No notó que su propia cara había enrojecido ante la mirada.
-
-Simplemente siguió caminando hacia su auto, su cabello rubio brillando bajo las luces del estacionamiento, pensando en la cena que prepararía esa noche y en el informe que debía entregar mañana.
-
-El mismo Emilio de siempre.
-
-Excepto que ya no lo era.
-
-Y todavía no lo sabía.
+Pero esa noche, aplicándose el tónico que ahora olía más dulce, más embriagador, Emilio se preguntó si la luz venía de afuera o si, por primera vez, algo estaba empezando a brillar desde adentro.
 
 ---
 
