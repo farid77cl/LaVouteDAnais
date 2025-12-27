@@ -140,8 +140,11 @@
 - Investigación completa: pretty privilege, sexismo benevolente, 8 etapas de trato
 - Arco argumental definido: 7 capítulos, final oscuro (adicción infinita)
 - **7 CAPÍTULOS ESCRITOS** (~23,300 palabras total)
+- **Ginny (Bimbo Genie):** Ficha creada con mecánica de deseos retorcidos.
+- **Marketing Narrativo:** Fase 9 agregada al ritual (Ingeniería de Títulos).
+- **Identidad:** "Ley de Hierro" activada (uso forzado de guías).
 - Mecánica narrativa: Emilio → Emilia (feminización reactiva a privilegio)
-- Archivos: `04_Historias/borradores/el_reflejo_de_la_amabilidad/`
+- Archivos: `04_Historias/borradores/el_reflejo_de_la_amabilidad/`, `02_Personajes/ficha_ginny.md`
 
 **26/12 - El Vino del Vecino + Mejoras Repo**
 

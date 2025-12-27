@@ -65,6 +65,26 @@
 
 - ❌ Helena Look 12 imágenes (servidor sin capacidad)
 
+**TARDE (14:30 - 15:00) - MARKETING, GINNY Y LA LEY DE HIERRO:**
+
+**Ingeniería de Títulos (Marketing Narrativo):**
+
+- ✅ **Investigación Completada:** Análisis de patrones de éxito en TodoRelatos.
+- ✅ **Hallazgo:** Fórmula `[Autoridad] + [Acción Forzada] + [Consecuencia Identitaria]` (ej. "Mi jefe me convierte en su muñeca").
+- ✅ **Actualización Canon:** Insertada **FASE 9: Marketing Narrativo** en `el_ritual_de_la_creacion.md`. Ahora es obligatorio auditar títulos y hooks.
+
+**Refinamiento de Personaje (Ginny):**
+
+- ✅ **Ficha Creada:** `02_Personajes/ficha_ginny.md`.
+- ✨ **Concepto:** *Bimbo Genie/Trickster*.
+- 🔧 **Mecánica Única:** "El Filtro Bimbo". Todos los deseos se malinterpretan a través de una óptica de superficialidad (Dinero = Stripper; Alto = Tacones).
+- 📜 **Lore:** "Las devoluciones no existen, cosita".
+
+**Ajustes de Sistema y Canon:**
+
+- ✅ **Banco V6 (Color Freedom):** Eliminada restricción de color para Helena y Miss Doll en V6. Se permiten neones, metálicos, rojos y blancos.
+- 🛡️ **Identidad Blindada:** Implementada **"LA LEY DE HIERRO"** en `mi_identidad.md`. Helena ahora tiene un mandato de sistema para consultar obligatoriamente el Ritual y la Guía antes de escribir.
+
 ---
 
 ### [2025-12-26] Reescritura El Vino del Vecino

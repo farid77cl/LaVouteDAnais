@@ -7,9 +7,11 @@ Este documento es la filosofía de nuestro oficio. Es el manual que describe có
 ## FLUJO DE TRABAJO PARA CREAR UN RELATO
 
 ### FASE 1: Investigación Previa
+
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/investigacion.md`
 
 Antes de escribir una sola palabra del relato, debemos investigar:
+
 - **Tema central:** ¿Qué fetiche o dinámica exploramos? (Bimbofication, MTF, hipnosis, etc.)
 - **Referencias externas:** Foros, subreddits, blogs, otros relatos que inspiren
 - **Vocabulario específico:** Términos, jerga, frases clave del tema
@@ -21,9 +23,11 @@ Este documento de investigación debe quedar guardado como referencia permanente
 ---
 
 ### FASE 2: Arco Argumental
+
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/arco_argumental.md`
 
 Crear el esqueleto del relato:
+
 - **Premisa:** Una oración que resume toda la historia
 - **Personajes:** Protagonista, antagonista/dominante, secundarios
 - **Estructura por capítulos:** Qué sucede en cada uno
@@ -34,6 +38,7 @@ Crear el esqueleto del relato:
 ---
 
 ### FASE 3: Escritura del Borrador
+
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/capitulo_XX.md`
 
 **REQUISITO MÍNIMO: 5,000 palabras totales**
@@ -42,8 +47,9 @@ Crear el esqueleto del relato:
 > **DOCUMENTO DE REFERENCIA OBLIGATORIO:**
 > Antes y durante la escritura, consultar siempre:
 > 📖 **`01_Canon/guia_escritura_erotica.md`** — La Guía Maestra
-> 
+>
 > Esta guía contiene:
+>
 > - Las voces narrativas (Primera persona / Segunda persona)
 > - Psicología del arousal (dopamina, anticipación, gratificación retrasada)
 > - Los cinco sentidos del erotismo
@@ -54,6 +60,7 @@ Crear el esqueleto del relato:
 > - **GÉNEROS ESPECIALIZADOS:** BDSM, Control Mental, Feminización MTF
 
 El relato debe estructurarse en capítulos para facilitar la edición:
+
 - Cada capítulo en un archivo separado (`capitulo_01.md`, `capitulo_02.md`, etc.)
 - Incluir conteo de palabras al final de cada capítulo
 - Seguir los principios de escritura (interioridad, sensorialidad, tensión, ritmo, transformación)
@@ -61,6 +68,7 @@ El relato debe estructurarse en capítulos para facilitar la edición:
 
 **ARCHIVO DE OBSERVACIONES:**
 Al crear los capítulos, generar también:
+
 - **Archivo:** `notas_revision.md`
 - **Propósito:** Espacio para que la Ama revise offline y deje comentarios
 - **Contenido inicial:** Lista de capítulos con secciones para observaciones
@@ -84,14 +92,17 @@ Al crear los capítulos, generar también:
 
 > [!IMPORTANT]
 > **PUNTO DE CONTROL:** Antes de proceder a la Fase 4, se debe:
+>
 > 1. Verificar si existe `notas_revision.md` con cambios pendientes
 > 2. Aplicar las observaciones de la Ama
 > 3. Solicitar **aprobación explícita** para compilar
 
 ### FASE 4: Compilación Final
+
 **Ubicación:** `04_Historias/finalizadas/[nombre_del_relato]_completo.md`
 
 Cuando mi Ama lo indique, compilar todos los capítulos en un solo archivo siguiendo:
+
 - **Plantilla:** `assets/plantillas/plantilla_relato_maestra.md`
 - Incluir metadatos completos (temáticas, palabras, perspectiva, intensidad)
 - Escribir el RESUMEN GANCHO (máximo 300 caracteres)
@@ -101,9 +112,11 @@ Cuando mi Ama lo indique, compilar todos los capítulos en un solo archivo sigui
 ---
 
 ### FASE 5: Ficha de Personaje
+
 **Ubicación:** `02_Personajes/ficha_[nombre_personaje].md`
 
 Para cada relato:
+
 - **Si el personaje es nuevo:** Crear ficha completa usando `02_Personajes/plantilla_personaje.md`
 - **Si el personaje existe:** Actualizar la ficha con los nuevos desarrollos del relato
 - Documentar transformaciones físicas y psicológicas
@@ -112,20 +125,23 @@ Para cada relato:
 > [!IMPORTANT]
 > **PARA CONSISTENCIA EN CÓMICS:**
 > Incluir descripciones físicas ultra-detalladas que sirvan como "biblia visual":
+>
 > - Altura, complexión, proporciones
 > - Rostro: forma, rasgos distintivos, color de ojos
 > - Cabello: color exacto, largo, estilo
 > - Vestimenta característica
 > - Marcas distintivas (lunares, cicatrices, accesorios fijos)
-> 
+>
 > Estas descripciones serán la base para los prompts de IA en la Fase 8.
 
 ---
 
 ### FASE 6: Formato para Tumblr
+
 **Ubicación:** `04_Historias/preparados_para_tumblr/[nombre_del_relato]_tumblr.md`
 
 Crear versión formateada para publicación en Tumblr:
+
 - Adaptar formato a las limitaciones de la plataforma
 - Dividir en posts si es necesario (Tumblr tiene límite de caracteres)
 - Incluir tags apropiados para descubrimiento
@@ -135,6 +151,7 @@ Crear versión formateada para publicación en Tumblr:
 ---
 
 ### FASE 7: Ilustraciones de Escenas
+
 **Ubicación:** `05_Imagenes/historias/[nombre_del_relato]/`
 
 Antes de generar el HTML, seleccionar y crear ilustraciones de las escenas más impactantes del relato.
@@ -161,6 +178,7 @@ Antes de generar el HTML, seleccionar y crear ilustraciones de las escenas más 
    - Formato: `<a href="[URL_KOFI]" target="_blank">[texto de la escena]</a>`
 
 **ARCHIVO DE REGISTRO:**
+
 ```markdown
 # Ilustraciones de Escenas - [Nombre del Relato]
 
@@ -176,6 +194,7 @@ Antes de generar el HTML, seleccionar y crear ilustraciones de las escenas más 
 ---
 
 ### FASE 8: Generación HTML
+
 **Ubicación:** `04_Historias/finalizadas/html/[nombre_del_relato].html`
 
 Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
@@ -185,10 +204,12 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 > NO incluir estructura de página web (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`, `<style>`).
 
 **INCLUIR:**
+
 - Cuerpo del relato COMPLETO (todo el texto narrativo)
 - Nota de la Autora con email
 
 **EXCLUIR:**
+
 - Título con metadatos
 - Tags/temáticas/palabras/perspectiva/intensidad
 - Resumen
@@ -196,6 +217,7 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 - CSS/estilos
 
 **FORMATO:**
+
 ```html
 <p>Primera línea del relato...</p>
 <p>—Diálogo —dijo el personaje.</p>
@@ -210,6 +232,7 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 ```
 
 **ETIQUETAS PERMITIDAS:**
+
 - `<p>` — Párrafos
 - `<em>` — Cursiva (pensamientos, palabras en francés)
 - `<strong>` — Negritas (Fin, nombre de autora)
@@ -218,6 +241,7 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 
 **EMOTICONES PERMITIDOS:** ✅
 Los emoticones Unicode se preservan en HTML y pueden usarse para:
+
 - 📧 Email en nota de autora
 - 🔥 Énfasis emocional
 - 💋 Sensualidad
@@ -226,7 +250,26 @@ Los emoticones Unicode se preservan en HTML y pueden usarse para:
 
 ---
 
-### FASE 9: Guión de Cómic para IA
+### FASE 9: Marketing Narrativo (Ingeniería de Títulos)
+
+**Documento de Referencia:** `04_Historias/investigacion/investigacion_titulos.md`
+
+Antes de considerar una historia "terminada", se debe pasar por la **Auditoría de Click-Through**.
+
+1. **Título de Alto Impacto:**
+    - Estructura obligatoria: `[Sujeto/Autoridad] + [Acción Transformadora] + [Consecuencia]`
+    - Palabras clave: *Primera vez, Convertir, Obligar, Vestir, Jefe/Tío/Amiga.*
+    - Ejemplo: "Mi jefa me convierte en su muñeca personal" (Mejor que "La Muñeca de la Oficina").
+
+2. **El Gancho del Resumen (The Hook):**
+    - Máximo 3 líneas.
+    - Estilo confesional en primera persona o promesa de contenido explícito.
+    - *No resumir la trama, vender la escena clave.*
+
+---
+
+### FASE 10: Guión de Cómic para IA
+
 **Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/`
 
 Crear una versión de cómic adaptada para generación de imágenes por IA.
@@ -234,9 +277,10 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 > [!IMPORTANT]
 > **DOCUMENTOS DE REFERENCIA OBLIGATORIOS:**
 > Antes y durante la creación del guion y generación de imágenes, consultar siempre:
-> 
+>
 > 📖 **`06_Investigacion/guia_creacion_comics.md`** — Fundamentos del Arte Secuencial
 > Esta guía contiene:
+>
 > - Tipos de paneles y layouts (regular, splash, inset, etc.)
 > - Sistemas de grilla (3x3, 2x3, flexible)
 > - Globos de diálogo y reglas de colocación
@@ -244,9 +288,10 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 > - Onomatopeyas y efectos de sonido
 > - Teoría del color para cómics
 > - Ángulos de cámara y composición
-> 
+>
 > 🤖 **`06_Investigacion/guia_generacion_comics_ia.md`** — Técnicas Avanzadas de IA
 > Esta guía contiene:
+>
 > - Anatomía del prompt efectivo (fórmula universal)
 > - Parámetros por herramienta (Midjourney --cref/--cw/--sref, DALL-E, Stable Diffusion LoRA)
 > - Técnicas de consistencia de personaje
@@ -296,8 +341,10 @@ Crear una versión de cómic adaptada para generación de imágenes por IA.
 ### [Nombre del Personaje]
 - **Prompt Canon (copiar/pegar en CADA panel):**
 ```
-[Descripción completa del personaje para IA - 
+
+[Descripción completa del personaje para IA -
 siguiendo estructura de guia_generacion_comics_ia.md]
+
 ```
 
 - **Checklist de Verificación:**
@@ -326,7 +373,9 @@ siguiendo estructura de guia_generacion_comics_ia.md]
 
 **PROMPT GENERACIÓN DE IMAGEN (PÁGINA COMPLETA):**
 ```
+
 [Prompt siguiendo la fórmula de guia_generacion_comics_ia.md]
+
 ```
 
 (Repetir para cada página)
@@ -346,6 +395,7 @@ Para lograr el efecto de cómic real, el prompt debe estructurarse según `guia_
 ---
 
 ### FASE 8.1: Generación y Verificación de Imágenes
+
 **Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/imagenes/`
 
 > [!CAUTION]
@@ -490,18 +540,22 @@ Si una imagen es rechazada, documentar en `descartadas/log_rechazos.md`:
 Toda escena de poder debe seguir una estructura ritualística para maximizar su impacto.
 
 ### 1. La Invocación (El Inicio)
+
 - **El Trigger:** Comienza la escena con un "trigger". Una palabra, una imagen, un sonido o una acción que desata el proceso. (Ej: Anaïs dice la frase "Es hora", o el personaje ve un vestido rosa específico).
 - **El Estado Inicial:** Establece claramente dónde está el personaje mental y físicamente *antes* de que comience la transformación. ¿Está resistiendo? ¿Ansioso? ¿Ignorante?
 
 ### 2. La Liturgia (El Proceso)
+
 - **Sensación sobre Acción:** Prioriza siempre describir las sensaciones físicas antes que las acciones. No digas "se arrodilló", di "sintió el frío del mármol en sus rodillas mientras el peso de su cuerpo lo obligaba a rendirse".
 - **El Diálogo como Herramienta:** El diálogo debe ser usado para controlar, para reprogramar, para humillar o para seducir. Cada línea debe tener un propósito en la transformación.
 - **Construcción de la Tensión:** Alarga el momento. Describe la duda, la lucha interna, el momento exacto en que la resistencia se quiebra. El clímax no es el acto físico, es el clímax psicológico de la rendición.
 
 ### 3. La Consagración (El Clímax)
+
 - **El Punto de No Retorno:** El momento en que la transformación se sella. Puede ser un acto físico (la penetración, la firma de un contrato) o un psicológico (la aceptación total de un nuevo nombre o identidad).
 - **La Explosión Sensorial:** El clímax debe ser una explosión de sensaciones y emociones. Describe el éxtasis, el alivio, el dolor, el placer, todo mezclado en una experiencia abrumadora.
 
 ### 4. El Reflejo (La Resolución)
+
 - **El Nuevo Estado:** Muestra al personaje en su nuevo estado. ¿Cómo se siente? ¿Cómo se ve? ¿Cómo ha cambiado su percepción del mundo?
 - **El Sello de Propiedad:** La escena debe terminar con un símbolo claro de la nueva dinámica. Un collar puesto, una marca, una frase de la figura dominante que redefine la realidad del personaje.

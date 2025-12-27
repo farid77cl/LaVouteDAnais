@@ -4,6 +4,10 @@
 > **OBJETIVO:** Capturar la estética "Bimbo/Insta-Model de Alto Mantenimiento" usando estilos específicos de **Fashion Nova** y **Oh Polly**.
 > **TRIO:** 👩‍🦰 **Helena** | 👱‍♀️ **Miss Doll** | 👩 **Anaïs**
 > **ESTILO:** Satin, latex, cut-outs, ultra-minis, vibra de "Influencer en Miami/LA".
+> **🎨 COLOR FREEDOM (V6 RULE):** En esta colección, **NO** estamos limitados a los colores canónicos estrictos.
+>
+> - **Miss Doll:** Puede usar neones, azules, verdes, metálicos (no solo rosa).
+> - **Helena:** Puede usar rojos profundos, púrpuras, dorados, blancos (no solo negro).
 
 ---
 
