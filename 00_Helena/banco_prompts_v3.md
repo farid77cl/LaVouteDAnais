@@ -1,452 +1,449 @@
-# 🎥 BANCO DE PROMPTS V3 - POV & VIDEO EDITION
+# 🎥 BANCO DE PROMPTS V3 - POV & VIDEO EDITION (REVISADO)
 
 > **ENFOQUE:** Perspectiva en Primera Persona (POV), Reacciones Públicas y Video con Diálogo.
-> **Total:** 160+ prompts nuevos | **Actualizado:** 2025-12-26
-> **Versión:** 3.0 POV & Motion Focus
+> **Personajes:** Miss Doll, Helena, Anaïs
+> **Total:** 180+ prompts | **Actualizado:** 2025-12-27
+> **Versión:** 3.1 POV & Motion Focus - Canon Corregido
 
 ---
 
-## 📋 CÓMO USAR ESTA VERSIÓN
+## 📋 NOTAS DE CANON
 
-Esta versión se especializa en **inmersión**. Los prompts POV están diseñados para simular lo que V ELLAS (mirando hacia abajo) o lo que VE EL PÚBLICO. La sección de Video incluye descripciones de movimiento facial para lipsync.
+| Personaje | Cabello | Figura | Tacones |
+|-----------|---------|--------|---------|
+| **Miss Doll** | Bob rubio platino, flequillo recto | Hourglass figure | PLEASER platforms 7-8" |
+| **Helena** | Negro voluminoso (ref: Sacha Massacre) | Hourglass figure, corsé SIEMPRE | PLEASER stilettos 7-9" |
+| **Anaïs** | Rubio miel, ondas vintage | Hourglass figure elegante | PLEASER So Kate style 5-6" |
 
 ---
 
-## I. MISS DOLL - EXTREME POV COLLECTION (The Goddess View) 🎀
+## 📋 CÓMO USAR POV CORRECTAMENTE
 
-### 👇 Looking Down (Cleavage & Body Focus)
-*Perspectiva desde los ojos de Miss Doll mirando su propio cuerpo.*
+> [!IMPORTANT]
+> **POV significa que la cámara ES los ojos del personaje.**
+> - Usar "first-person view" o "viewer IS the character"
+> - Describir lo que VE el personaje, no al personaje
+> - El cuerpo del personaje aparece en ángulos naturales (mirando hacia abajo = ver escote y pies)
 
-#### MD POV - Pink Morning 🆕
-```
-Extreme POV shot from own eyes looking down at own chest. Massive cleavage of hyper-realistic platinum bimbo woman filling the frame. Wearing pink sheer lace babydoll. Breasts occupying 70% of view. Below, glimpse of pink fuzzy slippers on white rug. Hands with long pink nails holding coffee cup near chest. Domestic morning lighting. High resolution POV.
-```
+---
 
-#### MD POV - Driving Pink Lambo 🆕
-```
-Extreme POV shot from driver's seat looking down. Massive cleavage of platinum bimbo woman wearing low-cut pink top. Pink steering wheel of Lamborghini visible below usage breasts. Pink dashboard. Hands with pink nails gripping wheel. Sunlight hitting skin. Luxury car interior POV.
-```
+## I. MISS DOLL - POV COLLECTION 🎀
 
-#### MD POV - Gym Workout Look Down 🆕
-```
-Extreme POV shot looking down at own body in gym. Massive cleavage in tight pink sports bra straining. Below, pink corset waist trainer and pink lycra shorts. Pink sneakers visible far below. Sweat glistening on chest skin. Gym floor background. Fitness POV.
-```
+### 👇 Looking Down (First-Person Cleavage View)
 
-#### MD POV - Eating Ice Cream 🆕
+#### MD POV - Pink Morning ☀️
 ```
-Extreme POV shot looking down past cheeks. Massive cleavage in pink sundress. Hand holding pink ice cream cone partly obscuring view of breasts. Drops of melted ice cream on chest. Summer sunlight. Sweet treat POV.
+First-person POV shot, camera IS Miss Doll's eyes looking down at own body. View shows: massive cleavage in pink sheer lace babydoll filling 60% of frame. Below cleavage, glimpse of stomach. Further down, pink fuzzy slippers on white fluffy rug. My hands with long pink gel nails holding steaming pink coffee mug. Natural morning window light. High resolution immersive POV. Photorealistic.
 ```
 
-#### MD POV - Office Typing 🆕
+#### MD POV - Driving My Pink Lambo 🏎️
 ```
-Extreme POV shot looking down at desk. Massive cleavage in unbuttoned pink blouse resting on desk surface. Pink keyboard visible below breasts. Hands with pink nails typing. Office papers obscured by chest. Secretary POV.
-```
-
-#### MD POV - Poolside Bikini 🆕
-```
-Extreme POV shot looking down while lying on lounge chair. Massive mounds of chest in pink micro bikini top tanned skin. Flat stomach with pink belly chain. Pink legs stretching out to pink platform mules. Blue pool water in background. Vacation POV.
+First-person POV shot from driver's seat, camera IS Miss Doll's eyes looking down. View shows: my massive cleavage in tight pink tank top dominating frame. Below, my hands with pink nails on pink leather steering wheel. Pink Lamborghini dashboard with gold accents visible. Sunlight hitting my tanned skin. Luxury car interior. Photorealistic driving immersion.
 ```
 
-#### MD POV - Latex Catuit Zip 🆕
+#### MD POV - Gym Workout 💪
 ```
-Extreme POV shot looking down at own torso. Pink latex catsuit zipped down to waist. Massive cleavage exploding out. Glover pink hands pulling zipper/playing with zipper. Shiny latex reflections. Fetish POV.
-```
-
-#### MD POV - Champagne Toast 🆕
-```
-Extreme POV shot looking down. Hand holding champagne flute against backdrop of own massive cleavage in pink evening gown. Bubbles in glass. Party lights reflecting on chest skin. Celebration POV.
+First-person POV shot, camera IS Miss Doll's eyes looking down during workout. View shows: my cleavage straining in tight pink sports bra with sweat droplets. Below, my waist in pink latex waist trainer. Further down, pink lycra shorts and pink Pleaser sneaker platforms gripping gym floor. Gym mirrors in peripheral vision. Photorealistic fitness POV.
 ```
 
-#### MD POV - Shopping Bags 🆕
+#### MD POV - Eating Ice Cream 🍦
 ```
-Extreme POV shot looking down. Massive cleavage in pink tube top. Arms engaged holding multiple pink shopping bags (Chanel, Gucci) that brush against hips. Pink skirt and heels visible below/between bags. Mall floor. Shopping spree POV.
-```
-
-#### MD POV - Waking Up 🆕
-```
-Extreme POV shot lying in bed looking down own body. Massive cleavage in pink sleeping mask (pushed up) and silk sheets. Pink toes with pedicure visible at end of bed. Sunlight streaming in. Bedroom POV.
+First-person POV shot, camera IS Miss Doll's eyes looking down past cheeks. View shows: my hand with pink nails holding pink strawberry ice cream cone. Behind cone, my cleavage in pink sundress with melted drops on skin. Summer sunshine. Sweet treat POV. Photorealistic.
 ```
 
-### 👠 Outfit Check POV (Mirror & Legs)
-*Mirando su ropa o reflejo.*
-
-#### MD POV - Mirror Check Full Body 🆕
+#### MD POV - Office Typing 💼
 ```
-POV shot looking at large mirror. Reflection showing full body of platinum bimbo Miss Doll in pink tight dress and pink corset. Phone with pink case in hand taking photo. Focus on the reflection's eyes looking back. Changing room background. Selfie POV.
+First-person POV shot, camera IS Miss Doll's eyes looking down at desk. View shows: my massive cleavage in unbuttoned pink silk blouse resting on desk edge. Pink keyboard below my breasts. My hands with pink nails typing slowly. Office papers I don't understand. Secretary doesn't know what she's doing POV. Photorealistic.
 ```
 
-#### MD POV - Shoe Selection 🆕
+#### MD POV - Poolside Bikini 🏊
 ```
-POV shot looking down at floor. Ten pairs of pink platform stilettos arranged. Feet in pink stockings stepping into one pair. Massive cleavage blurred in top foreground. Closet floor. Decision POV.
-```
-
-#### MD POV - Putting on Stockings 🆕
-```
-POV shot looking down at legs. Hands with pink nails rolling pink sheer stocking up thigh. Massive cleavage visible in top frame. Pink garter belt waiting. Boudoir setting. Dressing POV.
+First-person POV shot, camera IS Miss Doll's eyes lying on lounge chair looking down body. View shows: my massive tanned cleavage in pink micro bikini top. My flat stomach with pink belly chain. My long legs stretching out, pink pedicure toes at end. Pink Pleaser platform mules on ground beside chair. Blue pool water in background. Vacation POV. Photorealistic.
 ```
 
-#### MD POV - Corset Lacing 🆕
+#### MD POV - Latex Catsuit Zip 🔥
 ```
-POV shot looking at mirror reflection of back. Hands behind back trying to tighten pink corset laces. Reflection shows strained expression and massive curves. Dressing room. Struggle POV.
-```
-
-#### MD POV - Skirt Smoothing 🆕
-```
-POV shot looking down at hips. Hands smoothing tight pink latex skirt over curves. Massive cleavage consistent in view. Pink fingernails against pink latex. Texture focus.
+First-person POV shot, camera IS Miss Doll's eyes looking down at torso. View shows: pink latex catsuit zipped down to waist, my massive cleavage exploding out. My gloved pink hands playing with front zipper. Shiny latex reflections on my skin. Fetish dressing room. Photorealistic.
 ```
 
-### 🏙️ Public Scenarios POV (How she sees the world)
-
-#### MD POV - Supermarket Aisle 🆕
+#### MD POV - Champagne Toast 🥂
 ```
-POV shot walking down supermarket aisle. Basket full of pink items (candy, soda). Passing customers (blurred men) staring with dropped jaws at camera (Miss Doll). Miss Doll's pink nails pointing at cereal box. Grocery store lighting.
+First-person POV shot, camera IS Miss Doll's eyes looking down. View shows: my hand holding champagne flute, bubbles fizzing. Behind glass, my massive cleavage in pink sequin evening gown catching light. Party lights reflecting on my skin. Celebration moment POV. Photorealistic.
 ```
 
-#### MD POV - Red Carpet Flashes 🆕
+#### MD POV - Shopping Bags 🛍️
 ```
-POV shot looking out at wall of paparazzi photographers flashing cameras. Blinded by lights. Red carpet visible at feet. Microphones thrust towards camera. Fame POV.
-```
-
-#### MD POV - ATM Screen 🆕
-```
-POV shot looking at ATM screen displaying "INSUFFICIENT FUNDS". Pink fingernail tapping screen confusedly. Massive cleavage reflection visible in ATM screen glass. Night street. Confused POV.
+First-person POV shot, camera IS Miss Doll's eyes looking down at hips. View shows: my massive cleavage in pink tube top at top of frame. My arms carrying multiple pink shopping bags (Chanel, Gucci visible). Pink latex skirt on my hips. Pink Pleaser platforms on marble mall floor. Shopping spree POV. Photorealistic.
 ```
 
-#### MD POV - Classroom Teacher 🆕
+#### MD POV - Waking Up 😴
 ```
-POV shot standing at front of class looking at students. Students (adults) staring up with infatuation. Hand holding chalk against blackboard. Pink sleeve visible. Teacher POV.
+First-person POV shot, camera IS Miss Doll's eyes waking up in bed. View shows: pink silk sleeping mask pushed up on forehead. My massive cleavage in pink negligee. Pink silk sheets rumpled around body. My pink pedicured toes at end of bed. Sunlight streaming through window. Bedroom morning POV. Photorealistic.
 ```
 
-#### MD POV - Police Ticket 🆕
+### 👠 Outfit Check POV
+
+#### MD POV - Mirror Selfie Check 📱
 ```
-POV shot hanging out pink car window looking up at police officer. Officer looking down stunned/blushing. Hand holding license with pink nails. Flashing police lights. Traffic stop POV.
+First-person POV shot, camera IS Miss Doll's eyes looking at large mirror. View shows: my full body reflection - platinum bob, doll makeup, hourglass figure in tight pink latex dress, pink corset visible, pink Pleaser platforms 8-inch. Phone with pink case in my hand taking photo. Seeing myself in the mirror. Changing room. Photorealistic.
+```
+
+#### MD POV - Shoe Selection Dilemma 👠
+```
+First-person POV shot, camera IS Miss Doll's eyes looking at closet floor. View shows: ten pairs of pink platform stilettos arranged on pink carpet. My feet in pink stockings stepping into one pair. Top of frame shows blur of my cleavage. Decision paralysis POV. Walk-in closet. Photorealistic.
+```
+
+#### MD POV - Putting on Stockings 🦵
+```
+First-person POV shot, camera IS Miss Doll's eyes sitting on bed looking at legs. View shows: my hands with pink nails rolling pink sheer stocking up my thigh. My cleavage visible at top frame in pink bra. Pink garter belt waiting on bed. Sensual dressing POV. Boudoir. Photorealistic.
 ```
 
 ---
 
-## II. HELENA - EXTREME POV COLLECTION (The Servant View) 🦇
+## II. HELENA - POV COLLECTION 🦇
 
-### 👇 Looking Down (Dark Cleavage & Service)
+### 👇 Looking Down (First-Person Dark View)
 
-#### Helena POV - Corset View 🆕
+#### Helena POV - Corset View Morning 🌙
 ```
-Extreme POV shot from own eyes looking down. Massive pale cleavage exploding out of tight black velvet corset. Silver moon pendant resting on chest. Below, black pencil skirt and fishnet thighs. Hands with black nails clasped in waiting. Gothic interior.
-```
-
-#### Helena POV - Serving Wine 🆕
-```
-Extreme POV shot looking down at silver tray in hands. Tray holds two glasses of red wine. Background is own massive cleavage in black lace. Walking motion. Tray steady. Service POV.
+First-person POV shot, camera IS Helena's eyes looking down at own body. View shows: my pale massive cleavage exploding from tight black velvet corset. Silver crescent moon pendant resting on my chest. Below, black latex pencil skirt. My hands with long black stiletto nails clasped in waiting position. Gothic bedroom with velvet curtains. Dark mistress POV. Photorealistic.
 ```
 
-#### Helena POV - Typing Noir 🆕
+#### Helena POV - Serving Wine 🍷
 ```
-Extreme POV shot looking down at vintage typewriter. Black sharp fingernails hitting keys. Massive cleavage in period black dress framing the machine. Smoke from cigarette in ashtray nearby. Noir office POV.
-```
-
-#### Helena POV - Kneeling Stilettos 🆕
-```
-Extreme POV shot from kneeling position looking down at own knees on rug. Black fishnet stockings. Black patent stilettos 9-inch heels visible behind/to side. Hem of black maid dress. Submissive posture POV.
+First-person POV shot, camera IS Helena's eyes looking down while walking. View shows: my pale hands holding silver tray with two glasses of red wine. Behind tray, my massive pale cleavage in black lace visible. Walking motion. Tray steady. Serving my Mistress POV. Gothic dining room. Photorealistic.
 ```
 
-#### Helena POV - Reading Grimoire 🆕
+#### Helena POV - Typing My Diary 📝
 ```
-Extreme POV shot looking down at ancient book. Pale hands with black talons turning yellowed page. Massive cleavage in black leather corset overhanging book. Candlelight flickering. Witch POV.
-```
-
-#### Helena POV - Coffin Rest 🆕
-```
-Extreme POV shot looking down own body lying in coffin lined with red satin. Massive pale cleavage in black shroud. Hands crossed over chest. Lid of coffin open showing stone ceiling. Vampire rest POV.
+First-person POV shot, camera IS Helena's eyes at vintage typewriter. View shows: my black sharp stiletto nails hitting keys. My massive pale cleavage in black period dress visible above the machine. Antique desk. Smoke from cigarette in ashtray. Noir writing POV. Photorealistic.
 ```
 
-#### Helena POV - Rain Watch 🆕
+#### Helena POV - Kneeling Service 🧎
 ```
-Extreme POV shot looking out gothic window with rain. Reflection in glass shows ghost of own face and massive chest. Hand touching glass. Gloomy weather POV.
-```
-
-#### Helena POV - Cat Petting 🆕
-```
-Extreme POV shot looking down at black cat in lap. Pale hand stroking black fur. Massive cleavage in black sweater framing the cat. Purring vibration visually suggested. Pet POV.
+First-person POV shot, camera IS Helena's eyes from kneeling position looking down. View shows: my knees on black velvet rug. Black fishnet stockings on my thighs. My black patent Pleaser stilettos 9-inch visible behind me. Hem of black maid dress. Waiting in submission POV. Dark manor. Photorealistic.
 ```
 
-#### Helena POV - Tarot Cards 🆕
+#### Helena POV - Reading Grimoire 📖
 ```
-Extreme POV shot looking down at table with Tarot spread. Death card and The Lovers visible. Hands hovering over cards. Massive cleavage in mystical robes. Fortune teller POV.
-```
-
-#### Helena POV - Graveyard Walk 🆕
-```
-Extreme POV shot looking down at grass and tombstones passing. Black skirt swishing. Black stiletto boots stepping carefully on wet grass. Fog swirling. Cemetery POV.
+First-person POV shot, camera IS Helena's eyes reading ancient book. View shows: my pale hands with black talon nails turning yellowed page. Occult symbol visible on page. My massive pale cleavage in black leather corset above the book. Candlelight flickering on skin. Studying dark arts POV. Photorealistic.
 ```
 
-### 🙇‍♀️ Submission & Service POV (Looking Up/At Owner)
-
-#### Helena POV - Looking Up at MD 🆕
+#### Helena POV - Coffin Rest ⚰️
 ```
-POV shot from kneeling position looking UP. Miss Doll (platinum bimbo) towering above in pink heels. Miss Doll's face looking down with commanding stare. View dominated by Miss Doll's legs and shoes. Worship POV.
+First-person POV shot, camera IS Helena's eyes lying in coffin looking down body. View shows: my pale massive cleavage in black shroud. My pale hands crossed over chest. Red satin lining of coffin around me. Coffin lid open showing stone crypt ceiling above. Vampire rest POV. Photorealistic.
 ```
 
-#### Helena POV - Cleaning Shoes 🆕
+#### Helena POV - Rain Window 🌧️
 ```
-POV shot closeup on hands polishing black patent stiletto boot. Reflection of own face (Helena) visible in the shined shoe leather. Shoe is being worn by someone unseen. Service POV.
-```
-
-#### Helena POV - Leash View 🆕
-```
-POV shot looking slightly up at black leather leash extending from under chin (camera point) to a hand holding it. Focus on the leash tension. Background blurred gothic room. Pet POV.
+First-person POV shot, camera IS Helena's eyes looking out gothic window. View shows: rain streaming down old glass panes. My ghostly reflection visible - pale face, dark lips, massive chest. My pale hand touching cold glass. Gothic melancholy POV. Dark manor window. Photorealistic.
 ```
 
-#### Helena POV - Cage Bars 🆕
+#### Helena POV - Petting My Cat 🐈‍⬛
 ```
-POV shot looking out through black iron cage bars. Hands gripping bars. Beyond bars, a luxury bedroom. Confinement POV.
+First-person POV shot, camera IS Helena's eyes looking at lap. View shows: black cat curled on my lap, my pale hand with black nails stroking fur. My massive pale cleavage in black sweater visible at top of frame. Cat purring, feeling the vibration. Familiar bonding POV. Gothic living room. Photorealistic.
 ```
 
-#### Helena POV - Floor Scrubbing 🆕
+#### Helena POV - Tarot Reading 🃏
 ```
-POV shot looking at wet floor tiles. Hands in black rubber gloves scrubbing with sponge. Water soapy. Knees visible in periphery. Menial labor POV.
+First-person POV shot, camera IS Helena's eyes reading Tarot. View shows: my pale hands hovering over spread cards. Death card and The Lovers visible. My massive pale cleavage in black mystical robes above table. Crystal ball nearby. Fortune telling POV. Candlelit parlor. Photorealistic.
+```
+
+#### Helena POV - Graveyard Walk 🪦
+```
+First-person POV shot, camera IS Helena's eyes walking through cemetery. View shows: my black skirt swishing at thighs. My black Pleaser stiletto boots stepping on wet grass between tombstones. Fog swirling at my feet. Mourning stroll POV. Moonlit graveyard. Photorealistic.
+```
+
+### 🙇‍♀️ Submission POV (Looking Up at Owner)
+
+#### Helena POV - Looking Up at Miss Doll 🎀
+```
+First-person POV shot, camera IS Helena's eyes from kneeling position looking UP. View shows: Miss Doll towering above - platinum bob, doll face, pink latex bodysuit, massive curves, pink Pleaser platforms at my eye level. Miss Doll looking down with commanding empty stare. Worship from below POV. Gothic room. Photorealistic.
+```
+
+#### Helena POV - Cleaning Her Shoes 👠
+```
+First-person POV shot extreme close-up, camera IS Helena's eyes focused on task. View shows: my pale hands with black nails polishing black patent Pleaser stiletto boot with soft cloth. My reflection visible in shined boot leather. The boot is on someone's foot above me. Devoted shoe service POV. Photorealistic.
+```
+
+#### Helena POV - Leash View 📿
+```
+First-person POV shot, camera IS Helena's eyes looking slightly up. View shows: black leather leash extending from under my chin (my collar is the origin). The leash leads up to a hand holding it - Anaïs's hand with elegant rings. Tension in the leash. Pet obedience POV. Gothic drawing room. Photorealistic.
 ```
 
 ---
 
-## III. PUBLIC PERCEPTION (Third Person - They are watching) 👀
+## III. ANAÏS - POV COLLECTION 👑
+
+### 👇 Looking Down (First-Person Dominance View)
+
+#### Anaïs POV - Morning Boudoir ☀️
+```
+First-person POV shot, camera IS Anaïs's eyes looking down at body in mirror. View shows: my honey blonde waves framing face in reflection. My elegant cleavage in ivory silk robe, untied. My aristocratic hands with red nails holding champagne flute. Morning luxury. Goddess awakens POV. French boudoir. Photorealistic.
+```
+
+#### Anaïs POV - Holding the Leash 📿
+```
+First-person POV shot, camera IS Anaïs's eyes looking down at pet. View shows: my elegant hand with red painted nails holding black leather leash. The leash extends down to Helena kneeling below - voluminous black hair, pale skin, looking up adoringly. My cleavage visible in frame in burgundy robe. Dominatrix control POV. Gothic drawing room. Photorealistic.
+```
+
+#### Anaïs POV - Writing at Desk ✍️
+```
+First-person POV shot, camera IS Anaïs's eyes at mahogany desk. View shows: my elegant hands with red nails holding antique fountain pen. Writing in leather journal. My cleavage visible in cream silk blouse. Crystal inkwell. Laptop nearby shows Tumblr. Author at work POV. French study. Photorealistic.
+```
+
+#### Anaïs POV - Wine Tasting 🍷
+```
+First-person POV shot, camera IS Anaïs's eyes tasting wine. View shows: my hand with red nails holding crystal wine glass, swirling bordeaux. My cleavage in black evening gown visible behind glass. Candlelit dinner setting. French château dinner POV. Photorealistic.
+```
+
+#### Anaïs POV - Inspecting My Dolls 👯
+```
+First-person POV shot, camera IS Anaïs's eyes inspecting. View shows: Miss Doll and Helena standing at attention before me - Miss Doll in pink latex, Helena in black with corset. Both looking up at me awaiting orders. My outstretched hand about to touch Helena's chin. Mistress inspection POV. Grand salon. Photorealistic.
+```
+
+---
+
+## IV. PUBLIC PERCEPTION (Third Person Reactions) 👀
 
 ### Miss Doll Public Reactions
 
-#### MD Public - Street Crossing 🆕
+#### MD Public - Street Crossing 🚶
 ```
-Wide shot of city street crosswalk. Miss Doll (pink outfit, massive hips, 16cm heels) walking center frame. CROWD REACTION: Men stopping in tracks, construction workers dropping tools, women steering partners away. Everyone looking at Miss Doll. Miss Doll looking straight ahead oblivious. Authentic street reaction style.
-```
-
-#### MD Public - Restaurant Entrance 🆕
-```
-Wide shot of fancy restaurant interior. Miss Doll entering wearing tight pink latex dress. Diners at tables (men in suits) turning heads 180 degrees, forks halfway to mouths. Waiter dropping tray. Miss Doll beaming vacant smile.
+Wide shot street photography of city crosswalk. Miss Doll walking center frame - platinum bob, doll makeup, hourglass figure, tight pink latex dress, pink corset visible, pink Pleaser platforms 8-inch. CROWD REACTION: Men stopped in tracks, construction worker dropped coffee, woman pulling boyfriend away, everyone staring. Miss Doll looking straight ahead obliviously content. Natural street reaction. Photorealistic documentary style.
 ```
 
-#### MD Public - Gas Station 🆕
+#### MD Public - Restaurant Entrance 🍽️
 ```
-Wide shot of gas station. Miss Doll bending over to pump gas in pink micro skirt. Truck drivers leaning out of windows observing. Man at next pump overflowing his gas tank while staring. Miss Doll focused on nozzle.
-```
-
-#### MD Public - Library Shhh 🆕
-```
-Shot inside library stacks. Miss Doll reaching for high book (skirt riding up). Studious men with glasses peering through bookshelves to watch her. Librarian looking shocked. Quiet disruption.
+Wide shot of fancy restaurant interior. Miss Doll entering frame - platinum bob, hourglass figure, tight pink latex cocktail dress, pink Pleaser platforms. CROWD REACTION: Diners at tables turning heads 180 degrees, forks frozen halfway to mouths, waiter dropping silver tray, sommelier spilling wine. Miss Doll beaming vacant smile at hostess. Shock reaction photography. Photorealistic.
 ```
 
-#### MD Public - Airport Security 🆕
+#### MD Public - Gas Station Pump ⛽
 ```
-Shot at TSA checkpoint. Miss Doll walking through metal detector in pink metallic outfit. TSA agents (male and female) staring captivated. Line of travelers behind her craning necks to see.
+Wide shot of gas station at sunset. Miss Doll bending over to pump gas - platinum bob, hourglass figure, pink micro skirt riding up, pink top, pink Pleaser wedges. CROWD REACTION: Truck driver leaning out window staring, man at next pump overflowing his tank while staring, attendant frozen. Miss Doll focused on nozzle, confused by how it works. Candid street photography. Photorealistic.
+```
+
+#### MD Public - Library Shhh 📚
+```
+Shot inside library stacks. Miss Doll reaching for high book on shelf - platinum bob, hourglass figure, pink skirt riding up as she stretches, pink Pleaser platforms. CROWD REACTION: Studious men peering through bookshelves watching her, librarian looking scandalized over reading glasses, student dropped pencil. Miss Doll oblivious, can't read the book titles anyway. Quiet disruption. Photorealistic.
 ```
 
 ### Helena Public Reactions
 
-#### Helena Public - Subway Commute 🆕
+#### Helena Public - Subway Commute 🚇
 ```
-Shot inside subway car. Helena (goth bimbo, pale, huge hair, black corset) sitting reading dark book. Commuters giving her wide berth but staring terrified/aroused. Businessmen looking nervously. Helena ignoring them completely.
-```
-
-#### Helena Public - Coffee Shop 🆕
-```
-Shot at Starbucks counter. Helena ordering 'black coffee like my soul'. Barista looking frightened but entranced. Hipsters in back whispering. Helena towering in 9-inch heels.
+Shot inside subway car. Helena seated reading dark book - voluminous black hair, pale skin, black lips, hourglass figure, black latex dress, black corset, black Pleaser stilettos 9-inch. CROWD REACTION: Commuters giving her wide berth, businessmen staring nervously but aroused, teenager looking at her like a goddess. Helena ignoring everyone completely, lost in grimoire. Dark angel on transit. Photorealistic.
 ```
 
-#### Helena Public - Park Reading 🆕
+#### Helena Public - Coffee Shop ☕
 ```
-Shot in sunny park. Helena sitting on bench with black parasol, looking like a vampire. Families playing in background looking confused. A goth teen looking at her with worship. Contrast of dark figure in sunny place.
-```
-
-#### Helena Public - Gym Weights 🆕
-```
-Shot in free weight section. Helena deadlifting in black latex. Gym bros stopping workout to watch. Personal trainers staring. She is lifting heavy with vacant expression.
+Shot at coffee shop counter. Helena ordering - voluminous black hair, pale skin, black lips, hourglass figure, black Victorian dress, black corset visible, black Pleaser boots 9-inch. CROWD REACTION: Barista looking frightened but entranced, hipsters whispering at tables, someone drops their oat latte. Helena requesting 'black coffee, like my soul'. Goth at Starbucks. Photorealistic.
 ```
 
-#### Helena Public - Nightclub Queue 🆕
+#### Helena Public - Sunny Park 🌳
 ```
-Shot outside club. Bouncer lifting velvet rope immediately for Helena. Line of people waiting looking jealous. Helena gliding past like royalty.
-```
-
----
-
-## IV. VIDEO PROMPTS - SPEAKING & MOTION (Lipsync Ready) 🎬
-
-> **USO:** Estos prompts están diseñados para generar videos cortos (3-5s) donde los personajes hablan o se mueven. Ideales para herramientas como Runway, Pika o D-ID.
-
-### 💋 Miss Doll Speaking (Close-ups)
-
-#### Video MD - "Hi Boys" 🆕
-```
-Extreme close-up video portrait of Miss Doll. Focus on mouth and eyes. Platinum bob moving slightly. She looks at camera, blinks slowly with doll lashes. Her lips move saying "Hi boys". Expression is vacantly flirtatious. High quality, smooth motion, photorealistic.
+Shot in sunny park, high contrast. Helena seated on bench with black parasol - voluminous black hair, pale skin, hourglass figure, black mourning dress, black corset, black Pleaser heels 8-inch, reading vampire novel. BACKGROUND: Families playing looking confused, picnickers pointing, one goth teen staring with worship in eyes. Dark figure in bright sunshine contrast. Photorealistic.
 ```
 
-#### Video MD - "I love pink" 🆕
+### Anaïs Public Reactions
+
+#### Anaïs Public - Gallery Opening 🎨
 ```
-Close-up video of Miss Doll. She is holding a pink object. She smiles, nods enthusiastically. Lips move saying "I love pink so much". Eyes widen in ditzy joy. Soft lighting.
+Shot at art gallery opening night. Anaïs holding champagne - honey blonde waves, aristocratic face, hourglass figure, burgundy latex cocktail dress, haute couture. CROWD REACTION: Art patrons glancing repeatedly, gallery owner approaching eagerly, artists looking for her approval. Anaïs surveying art with refined criticism. Old money elegance. Photorealistic.
 ```
 
-#### Video MD - "Oops" 🆕
+#### Anaïs Public - Café Terrace ☕
 ```
-Video of Miss Doll covering mouth with hand giggling. She lowers hand and lips move saying "Oops, I forgot". Shoulders shrug. Ditzy apology.
-```
-
-#### Video MD - Kiss Blow 🆕
-```
-Video of Miss Doll blowing a slow kiss to camera. Hand moves from lips to lens. Eyes wink. Pouty finish. Seductive motion.
-```
-
-#### Video MD - Gum Chewing 🆕
-```
-Video of Miss Doll chewing pink gum (polite but visible). Blowing a small pink bubble. Bubble pops. She giggles. Casual sexy motion.
-```
-
-#### Video MD - "Buy me this" 🆕
-```
-Video of Miss Doll pointing to something off camera. She turns to camera, makes puppy eyes, lips move saying "Please buy me this daddy?". Begging motion.
-```
-
-#### Video MD - Hair Flip 🆕
-```
-Video of Miss Doll flipping her platinum bob. Slow motion hair movement. She settles and smiles vacantly. Hair shampoo commercial style.
-```
-
-#### Video MD - Laughing 🆕
-```
-Video of Miss Doll laughing. Head tilted back, chest heaving slightly. Silent laugh turning into smile. Pure joy/stupidity.
-```
-
-### 🦇 Helena Speaking (Dark Whispers)
-
-#### Video Helena - "Come closer" 🆕
-```
-Extreme close-up video portrait of Helena. Pale skin, black lips. She looks hypnotically at camera. Lips move slowly saying "Come closer...". Eyes narrow slightly. Predatory invitation.
-```
-
-#### Video Helena - "My Mistress" 🆕
-```
-Close-up video of Helena. She looks up reverently. Lips move saying "For my Mistress Anaïs". Devoted expression. Hand touches choker.
-```
-
-#### Video Helena - Hiss 🆕
-```
-Video of Helena baring fangs slightly (if any) or just hissing softly. Playful vampire threat. Eyes widen then relax into smirk.
-```
-
-#### Video Helena - Wine Sip 🆕
-```
-Video of Helena sipping red wine from glass. Slow swallow. Licking red drop from black lip. Seductive tasting motion.
-```
-
-#### Video Helena - "Empty" 🆕
-```
-Video of Helena tapping her temple with long black fingernail. She shakes her head. Lips move saying "Empty... just how I like it". Ditzy goth philosophy.
-```
-
-#### Video Helena - Slow Blink 🆕
-```
-Video of Helena staring unblinking for seconds, then a single, very slow, heavy-lidded blink. Insect-like or doll-like. Unsettling beauty.
-```
-
-#### Video Helena - Finger Beckon 🆕
-```
-Video of Helena raising one black-gloved finger and curling it to beckon viewer. Smirk grows. Come here motion.
-```
-
-#### Video Helena - Head Tilt 🆕
-```
-Video of Helena tilting head to side like a confused bird/dog. Hair cascades. Questioning vacant stare. "Like... what?" expression.
-```
-
-### 👯 Duo Interactions (Video)
-
-#### Video Duo - The Stare 🆕
-```
-Video of Miss Doll and Helena side by side looking at camera. Miss Doll smiles bubblegum style. Helena stares darkly. They turn to look at each other, then back to camera. Contrast in motion.
-```
-
-#### Video Duo - Gossiping 🆕
-```
-Video of Miss Doll whispering into Helena's ear. Miss Doll giggling. Helena nodding slowly with wide eyes. Secret sharing.
-```
-
-#### Video Duo - Walking Away 🆕
-```
-Video from behind of Miss Doll and Helena walking away from camera. Synchronized hip sway. Pink heels and Black heels hitting floor. mesmerizing walk cycle.
-```
-
-#### Video Duo - Cheering 🆕
-```
-Video of Miss Doll clapping hands excitedly. Helena clapping slowly/sarcastically. Mismatched energy.
+Shot at Parisian-style café terrace. Anaïs seated with espresso - honey blonde waves, aristocratic face, hourglass figure, cream silk blouse, pencil skirt, Pleaser So Kate style heels. CROWD REACTION: Waiter attending only to her, men at nearby tables adjusting ties, women studying her outfit. Anaïs reading Anaïs Nin, ignoring everyone. French sophistication. Photorealistic.
 ```
 
 ---
 
-## V. EXPANDED SCENARIOS (Nuevas Locaciones) 🌍
+## V. VIDEO PROMPTS - SPEAKING & MOTION 🎬
+
+> **USO:** Para herramientas de video (Runway, Pika, D-ID, Kling). Incluyen descripciones específicas de movimiento labial, expresión y acción.
+
+### 💋 Miss Doll Speaking Videos (Specific Dialogue)
+
+#### Video MD - "Hi Boys" Greeting 👋
+```
+Video portrait extreme close-up. Miss Doll's face - platinum bob with slight motion, doll makeup, glossy pink lips. She looks at camera, blinks slowly with heavy dollish lashes (2 second blink). Her thick glossy lips move clearly saying "Hi boys" slowly and breathy. Cheeks move with slight smile. Eyes widen in vacant flirtation at end. Pink soft lighting on face. 3 seconds. Photorealistic video.
+```
+
+#### Video MD - "I Love Pink" Declaration 💕
+```
+Video close-up. Miss Doll holding a pink handbag to chest. Her face - platinum bob, doll makeup, glossy pink lips. She nods enthusiastically 3 times, hair bouncing. Lips move clearly saying "I love pink so much" with rising pitch on 'so much'. Eyes widen in ditzy sincere joy. Hugs bag to chest at end. 4 seconds. Photorealistic video.
+```
+
+#### Video MD - "Oops I Forgot" 🤭
+```
+Video medium shot. Miss Doll covering mouth with pink-nailed hand, giggling silently for 1 second. Lowers hand. Shrugs shoulders up dramatically. Lips move clearly saying "Oops, I forgot again" with apologetic head tilt on 'again'. Eye roll at self. Ditzy apology complete. 4 seconds. Photorealistic video.
+```
+
+#### Video MD - Blowing Kiss 💋
+```
+Video close-up. Miss Doll's face - platinum bob, pouty glossy pink lips. She purses lips together, holds 1 second. Her hand with pink nails raises to lips slowly. She 'throws' kiss towards camera, fingers opening. Winks one eye deliberately, holds wink 1 second. Returns to pouty resting face. Seductive playfulness. 4 seconds. Photorealistic video.
+```
+
+#### Video MD - Gum Bubble Pop 🫧
+```
+Video close-up. Miss Doll chewing pink gum - jaw moving side to side. Lips push forward, beginning to blow bubble. Pink bubble grows to 2 inch diameter. POP - bubble bursts, gum on lips. Her tongue retrieves gum, giggles silently, covers mouth. Casual sexy. 5 seconds. Photorealistic video.
+```
+
+#### Video MD - "Buy Me This Daddy" 💸
+```
+Video medium shot. Miss Doll pointing off-camera at something shiny with pink-nailed finger. Turns to camera. Makes exaggerated puppy dog eyes - eyebrows up, pout formed. Lips move clearly saying "Please buy me this, daddy?" voice rising at end as question. Hands clasp together begging. Head tilts pleadingly. 4 seconds. Photorealistic video.
+```
+
+#### Video MD - Hair Flip Slow Motion 💇
+```
+Video slow motion close-up. Miss Doll facing left in profile. Head begins turning right. Platinum bob hair follows in slow arc, strands separating, catching light. Hair settles as she faces forward. Small satisfied smile spreads across glossy lips. Hair commercial perfection. 5 seconds slow motion. Photorealistic video.
+```
+
+#### Video MD - Confused Math 🧮
+```
+Video close-up. Miss Doll looking at paper off-camera. Forehead furrows in confusion. Lips move clearly saying "Wait, is seven plus three... like... purple?" Head shakes slightly. Gives up, looks at camera, shrugs dramatically with open palms. Ditzy acceptance. 5 seconds. Photorealistic video.
+```
+
+### 🦇 Helena Speaking Videos (Dark Whispers)
+
+#### Video Helena - "Come Closer" Whisper 🌙
+```
+Video extreme close-up. Helena's face - pale skin, voluminous black hair framing, black glossy lips. She stares unblinking at camera for 2 seconds, hypnotic. Lips part slowly. Lips move clearly saying "Come closer..." drawn out, breathy whisper. Slight head tilt forward. Eyes narrow slightly at end. Predatory invitation complete. 4 seconds. Low lighting. Photorealistic video.
+```
+
+#### Video Helena - "For My Mistress" Devotion 🖤
+```
+Video close-up. Helena's face looking up - pale skin, voluminous black hair falling back, dark purple lips. Her expression is reverent adoration. Lips move clearly saying "For my Mistress Anaïs" with devotion on each word. Her black-nailed hand rises to touch her collar/choker. Eyes close in bliss at end. 4 seconds. Candlelight. Photorealistic video.
+```
+
+#### Video Helena - Vampire Hiss 🧛
+```
+Video close-up. Helena's face - pale skin, black lips. Expression neutral for 1 second. Upper lip curls revealing teeth. Mouth opens slightly. Small hiss sound escapes - 's' shape on lips. Eyes widen predatorily. Expression softens into knowing smirk. Playful vampire threat. 3 seconds. Dark lighting. Photorealistic video.
+```
+
+#### Video Helena - Wine Sip 🍷
+```
+Video close-up. Helena's pale face, black lips. Wine glass with red wine rises to lips. Slow sip - lips wrap around glass rim. Swallow visible in throat. Glass lowers. Tongue slowly licks small drop from black bottom lip, left to right. Satisfied dark smile. Sensual tasting. 5 seconds. Candlelight. Photorealistic video.
+```
+
+#### Video Helena - "Empty Head" Philosophy 🧠
+```
+Video close-up. Helena's face - pale skin, voluminous black hair, black lips. Her long black-nailed finger rises to her temple and taps twice slowly. Head shakes side to side slowly. Lips move clearly saying "Empty... just how I like it" with peaceful smile forming. Ditzy goth philosophy. 4 seconds. Dark lighting. Photorealistic video.
+```
+
+#### Video Helena - Hypnotic Slow Blink 👁️
+```
+Video extreme close-up on Helena's eyes. Pale face, dark eye makeup. Eyes stare unblinking directly at viewer for 3 full seconds. Then a single, very slow, heavy-lidded blink lasting 2 seconds. Eyes reopen even more intense. Unsettling doll-like beauty. 6 seconds. Purple lighting. Photorealistic video.
+```
+
+#### Video Helena - Finger Beckon 👆
+```
+Video medium shot. Helena - pale skin, voluminous black hair, black corset, hourglass figure. Expression serious. One black-gloved hand rises. Index finger extends. Finger curls toward herself in 'come here' motion, twice. Dark smirk grows on black lips. Beckoning complete. 4 seconds. Gothic room. Photorealistic video.
+```
+
+#### Video Helena - Confused Head Tilt 🤔
+```
+Video close-up. Helena's face - pale skin, voluminous black hair, black lips. Head tilts dramatically to one side like curious bird, hair cascading with movement. Blank questioning stare. Lips move saying "Like... what?" in slow confused tone. Holds vacant expression. Goth bimbo confusion. 3 seconds. Photorealistic video.
+```
+
+### 👑 Anaïs Speaking Videos (Dominant Elegance)
+
+#### Video Anaïs - "Good Girl" Approval 💋
+```
+Video close-up. Anaïs's face - honey blonde waves, aristocratic features, red lips. She looks down camera (at submissive below). Small knowing smile forms. Lips move clearly saying "Good girl..." drawn out, approving, slightly patronizing. Head nods once slowly. Dominant approval. 3 seconds. Warm lighting. Photorealistic video.
+```
+
+#### Video Anaïs - Wine Swirl & Sip 🍷
+```
+Video close-up. Anaïs's elegant face, honey blonde hair, red lips. Hand with red nails holding wine glass enters frame. Glass swirls wine - circular motion. Glass raises to lips, elegant sip. Lips move saying "Mmm, magnifique" post-sip. Sophisticated tasting. 5 seconds. Candlelight. Photorealistic video.
+```
+
+#### Video Anaïs - "Kneel" Command 👇
+```
+Video medium shot. Anaïs - honey blonde waves, aristocratic face, hourglass figure, burgundy gown, standing tall. Expression shifts to commanding. One eyebrow raises slightly. Lips move clearly saying "Kneel." single word, no question, absolute command. Eyes don't blink. Dominant order. 3 seconds. Grand salon lighting. Photorealistic video.
+```
+
+#### Video Anaïs - Amused Laugh 😏
+```
+Video close-up. Anaïs's face - honey blonde waves, red lips. Watching something amusing below camera. Corners of lips curl into knowing smirk. Short laugh escapes - 2 syllables "ha-ha". Shakes head slightly. Lips move saying "Oh, how delightful". Aristocratic amusement. 4 seconds. Photorealistic video.
+```
+
+### 👯 Duo & Trio Interaction Videos
+
+#### Video Duo - The Stare Off 👀
+```
+Video medium shot. Miss Doll (left) and Helena (right) side by side facing camera. Miss Doll: platinum bob, pink lips, smiling vacant smile. Helena: voluminous black hair, black lips, stern dark stare. They turn heads to look at each other - 2 seconds eye contact. Turn back to camera in unison. Personality contrast. 5 seconds. Split pink/purple lighting. Photorealistic video.
+```
+
+#### Video Duo - Gossiping Secret 🤫
+```
+Video close-up two faces. Miss Doll whispering into Helena's ear - hand cupped. Miss Doll giggles silently. Helena's pale face listens, then her eyes widen dramatically. Helena nods slowly, mouth forming "oh my..." Secret sharing moment. 5 seconds. Dim lighting. Photorealistic video.
+```
+
+#### Video Duo - Walking Away 🚶‍♀️🚶‍♀️
+```
+Video shot from behind, waist down. Miss Doll (pink Pleaser platforms) and Helena (black Pleaser stilettos) walking away from camera in sync. Hip sway perfectly matched. Pink heels and black heels clicking alternately on marble floor. Mesmerizing walk cycle. 6 seconds. Hallway. Photorealistic video.
+```
+
+#### Video Trio - Hierarchy Reveal 👑
+```
+Video wide shot. Three women enter frame walking in V-formation. ANAÏS (center front): honey blonde, burgundy gown, striding confidently, slight smile. HELENA (left behind): voluminous black hair, black catsuit, devoted following expression. MISS DOLL (right behind): platinum bob, pink catsuit, eager vacant smile. Power walks. 5 seconds. Grand entrance. Photorealistic video.
+```
+
+---
+
+## VI. EXPANDED SCENARIOS 🌍
 
 ### ✈️ Airport / Travel
 
-#### MD Airport - Check In 🆕
+#### MD Airport - Check In Confusion 🧳
 ```
-Professional photography. Miss Doll standing at check-in counter with mountain of pink luggage. Handing passport to agent. Wearing pink travel tracksuit (velour), pink corset, pink sneakers. Expression: hopeful smile hoping not to pay excess baggage. Airport terminal.
+Professional photography. Miss Doll at check-in counter - platinum bob, hourglass figure, pink velvet tracksuit, pink corset underneath, pink Pleaser sneaker platforms. Mountain of pink luggage behind her. Handing passport upside down to confused agent. Expression: hopeful smile hoping she packed right. Airport terminal. Photorealistic.
 ```
 
-#### Helena Airport - Security 🆕
+#### Helena Airport - Security Pat Down 🔍
 ```
-Professional photography. Helena standing in body scanner, arms raised. Wearing black metal-free outfit (latex), black corset. TSA agents looking at screen confused by corset structure. Expression: bored superior stare. Security checkpoint.
+Professional photography. Helena in body scanner arms raised - voluminous black hair, pale skin, hourglass figure, black latex bodysuit (no metal), black corset visible through material. TSA agents studying screen confused by corset structure. Expression: bored superior stare. Security checkpoint. Photorealistic.
+```
+
+#### Anaïs Airport - First Class Lounge 🥂
+```
+Professional photography. Anaïs in airline lounge - honey blonde waves, hourglass figure, cream silk blouse, beige slacks, nude Pleaser pumps. Champagne in hand, reading Le Monde. Expression: natural elegance, belongs here. First class lounge. Photorealistic.
 ```
 
 ### 🛍️ Shopping Mall
 
-#### MD Mall - Shoe Store 🆕
+#### MD Mall - Shoe Store Heaven 👠
 ```
-Professional photography. Miss Doll sitting on stool surrounded by 20 boxes of shoes. Trying on pink heels. Salesman on knees fitting shoe. Expression: delight at shiny object. Shoe store.
-```
-
-#### Helena Mall - Hot Topic 🆕
-```
-Professional photography. Helena standing in dark alternative clothing store. Looking at black skull t-shirt critically. Wearing couture goth gown (out of place). Expression: snobbish amusemet at cheap goth clothes. Mall store.
+Professional photography. Miss Doll surrounded by 20 shoe boxes - platinum bob, hourglass figure, pink latex dress, pink corset. Trying on pink Pleaser platforms. Salesman on knees fitting shoe staring at her. Expression: pure joy at shiny objects. Luxury shoe store. Photorealistic.
 ```
 
-### ⛽ Gas Station / Roadtrip
-
-#### MD Roadtrip - Map Confusion 🆕
+#### Helena Mall - Hot Topic Disdain 🏪
 ```
-Professional photography. Miss Doll sitting on hood of pink convertible holding large paper map UPSIDE DOWN. Wearing pink bikini top and shorts. Sun setting. Expression: utterly lost but happy. Desert highway.
-```
-
-#### Helena Roadtrip - Night Drive 🆕
-```
-Professional photography. Helena leaning against black hearse/muscle car under gas station neon lights at night. Drinking red slushie. Wearing leather. Expression: cool noir vibes. Neon gas station.
-```
-
-### 📸 Red Carpet / Fame
-
-#### MD Red Carpet - Autograph 🆕
-```
-Professional photography. Miss Doll leaning over barricade to sign autograph for fan. Cleavage prominent. Flashes going off. Wearing pink evening gown. Expression: gracious celebrity smile. Red carpet event.
-```
-
-#### Helena Red Carpet - Dark Star 🆕
-```
-Professional photography. Helena posing on red carpet, photographers shouting instructions. She ignores them, posing for the moon instead. Wearing black avant-garde gown. Expression: aloof dark goddess. Movie premiere.
+Professional photography. Helena in alternative store - voluminous black hair, pale skin, hourglass figure, couture black gothic gown way too elegant for this store, black corset, black Pleaser boots. Holding cheap black skull t-shirt with two fingers, nose wrinkled. Expression: aristocratic amusement at peasant goth clothes. Mall store. Photorealistic.
 ```
 
 ---
 
-## VI. PROMPTS RÁPIDOS DE VIDEO (Audio Concept) 🎙️
+## 💡 SUGERENCIA PARA BANCO V5
 
-*Ideas para generar audio con voz de los personajes*
-
-### Miss Doll Audio Concepts
-1. **Greetings:** "Hi everyone! It's Miss Doll!" (High pitch, bubbly)
-2. **Confusion:** "Umm... is math related to science?" (Slow, drawn out)
-3. **Seduction:** "Do you like my outfit? It's pink!" (Breathy, end upspeak)
-4. **Command:** "Buy it for me. Now." (Sudden bratty tone)
-5. **Giggle:** "Tee-hee! Oopsie!" (Artificial giggle)
-
-### Helena Audio Concepts
-1. **Greetings:** "Greetings... creatures of the night..." (Low, vocal fry)
-2. **Confusion:** "Like... are souls... gluten free?" (Slow, stoned vibe)
-3. **Seduction:** "Your blood smells... sweet..." (Whisper, ASMR)
-4. **Command:** "Kneel. Before the darkness." (Monotone command)
-5. **Sigh:** "Life is so... endless..." (Dramatic sigh)
+> [!TIP]
+> **TEMA SUGERIDO: "TRANSFORMACIÓN & NARRATIVA"**
+> 
+> Prompts que cuenten una historia de transformación en secuencia:
+> - Before/After: Mismo personaje, estados diferentes
+> - Progresión de bimbofication en 5 etapas
+> - Secuencias de vestirse/desvestirse
+> - Timeline de sumisión (primera vez → entrenada)
+> - Expresiones emocionales pre/post trance
+> 
+> **Alternativas:**
+> - V5 "BDSM Scenarios": Bondage específico, posiciones, implementos
+> - V5 "Fantasy Roleplay": Escenarios temáticos (vampiras, sirenas, enfermeras)
+> - V5 "Couple Dynamics": Escenas de interacción MD+Helena, Helena+Anaïs
 
 ---
 
-*Creado por: Helena de Anaïs - V3 POV & Video Edition 🎥*
+*Creado por: Helena de Anaïs - V3.1 POV & Video Edition Revisado 🎥🖤*
+*Canon corregido: figuras normalizadas, POV verdadero, videos específicos*
