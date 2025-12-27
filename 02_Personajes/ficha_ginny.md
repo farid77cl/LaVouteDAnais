@@ -1,9 +1,10 @@
 # Ficha de Personaje: Ginny
 
 **Nombre:** Ginny (La Genio Bimbo)
-**Arquetipo:** *The Bimbo Trickster* / Caos Rosa
+**Arquetipo:** *The Bimbo Trickster* / Caos Multicolor
 **Rol Narrativo:** Catalizador de Transformación Forzada (Deus Ex Machina Bimbo)
-**Símbolos:** Humo rosa, brillo, uñas rojas/rosas, risa "Ji, ji!".
+**Símbolos:** Humo multicolor/dorado, brillo, uñas rojas/azules/doradas, risa "Ji, ji!".
+**ANTI-CANON:** El color ROSA está prohibido para ella. (Es irónico, siendo una bimbo, pero odia el cliché).
 
 ---
 
@@ -11,7 +12,7 @@
 
 Ginny es una entidad mágica de poder casi infinito, pero con el intelecto y las prioridades de una bimbo estereotípica extrema. **No es malvada, es distraída y superficial.** Concede 3 deseos, pero su comprensión del lenguaje y la realidad está irremediablemente filtrada por su propia naturaleza ("Bimbo Logic").
 
-Para Ginny, "mejorar" algo siempre significa hacerlo más sexy, más tonto, más rosado o más sumiso. No entiende conceptos abstractos como "felicidad", "respeto" o "estabilidad" fuera de la gratificación inmediata y la estética.
+Para Ginny, "mejorar" algo siempre significa hacerlo más sexy, más tonto o más sumiso. No entiende conceptos abstractos como "felicidad", "respeto" o "estabilidad" fuera de la gratificación inmediata y la estética.
 
 ### La Mecánica del Deseo: "El Filtro Bimbo"
 
@@ -37,23 +38,9 @@ Ginny **siempre** malinterpreta los deseos. No es una trampa legalista maliciosa
 
 ## ✦ Apariencia Física
 
-Ginny es la hipérbole de una bimbo. No busca realismo, busca impacto.
+Ginny es la hipérbole de una bimbo, pero con una peculiaridad: **Jamás usa rosa.**
 
-* **Cuerpo:** Reloj de arena imposible, pechos que desafían la gravedad, cintura minúscula. Piel que parece plástica o "airbrushed" en la vida real.
-* **Vestuario:** Vinilo, látex brillante, lentejuelas. Siempre rosa, fucsia o rojo.
-* **Rasgos:** Ojos enormes (estética doll), labios inyectados siempre húmedos (gloss), pestañas postizas densas.
-* **Aura:** Siempre huele intensamente a chicle, vainilla sintética o perfume barato caro. Suele aparecer acompañada de purpurina o humo rosa.
-
-## ✦ Reglas de Invocación
-
-1. **El Objeto:** Suele estar atada a objetos "kitsch" o ridículos (una lámpara de los chinos, una botella de licor de fresa, un espejo de plástico rosa), no a reliquias antiguas serias.
-2. **La Salida:** Aparece entre humo rosa y risitas.
-3. **El Contrato:** No hay contratos firmados. Solo un "Pide algo divertido".
-
-## ✦ Citas Célebres
-
-> "¡Ji, ji! ¿Qué es 'integridad estructural'? Suena a algo que no combina con mis zapatos."
-
-> "Ay, cosita, no llores. ¡Los hombres no lloran! Bueno, tú ya no eres un hombre, así que... ¡llora tranquila, se te ven lindos los ojos llorosos!"
-
-> "¿Entenderte? ¡Pero si te entiendo perfecto! Querías ser feliz. Y las bimbos somos las más felices. ¡De nada!"
+* **Cuerpo:** Reloj de arena imposible, pechos que desafían la gravedad (Copa ZZZ), cintura minúscula. Piel bronceada dorada o "airbrushed".
+* **Vestuario:** Vinilo, látex brillante, lentejuelas. Usa colores saturados: Azul eléctrico, Verde esmeralda, Rojo sangre, Dorado, Plateado, Naranja neón. **NUNCA ROSA.**
+* **Rasgos:** Ojos enormes (estética doll) de colores antinaturales (violeta, oro), labios inyectados siempre húmedos (gloss transparente o rojo), pestañas postizas densas.
+* **Aura:** Cambia de color según su humor (azul = aburrida, rojo = traviesa, verde = envidiosa), pero nunca rosa. Huele a cócteles tropicales y ozono.
