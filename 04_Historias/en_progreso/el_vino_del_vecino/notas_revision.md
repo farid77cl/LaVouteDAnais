@@ -72,7 +72,7 @@
   - ✅ Expansión detallada de transformación mental de Lucía
   - ✅ Desarrollo completo de bimbofication
   - ✅ Expandido significativamente (de ~900 a ~2,850 palabras)
-
+revisa la cronología de los tacones de stripper 
 ---
 
 ## Capítulo 8: La Nueva Familia
