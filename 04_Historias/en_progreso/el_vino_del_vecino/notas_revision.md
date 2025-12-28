@@ -83,6 +83,8 @@ revisa la cronología de los tacones de stripper. cada cambio está por separado
   - ✅ Orgasmo de Eduardo expandido con mecánica dolor+ira+humillación=placer
   - ✅ Expandido significativamente (de ~1,120 a ~2,650 palabras)
 este relato merece una orgía como final, madre e hija, agradeciendo al enemigo, mientras Eduardo mira, y le ordenen no tocarse, lo hacen lamer la vagina de Roxy. lo humillan, las mujeres gozan..permanecen en su casa, el enologo va a buscar nuevas víctimas 
+
+en general el final debe ser más grande e impactante 
 ---
 
 ## Observaciones Generales
