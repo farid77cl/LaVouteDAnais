@@ -44,7 +44,7 @@ Una familia normal se muda a un nuevo vecindario. El misterioso vecino les regal
 
 ---
 
-## Psicología de los Personajes
+## Psicología de los Personajes (expande esto)
 
 ### Rosa María → Roxy
 - **Represión inicial:** 22 años de matrimonio convencional, nunca exploró
@@ -52,13 +52,13 @@ Una familia normal se muda a un nuevo vecindario. El misterioso vecino les regal
 - **La transformación revela:** Lo que siempre quiso ser pero la sociedad no permitía
 - **Justificación interna:** "Merezco esto después de tantos años"
 
-### El Esposo
+### El Esposo (expande)
 - **Represión inicial:** Siempre tuvo fantasías de sumisión
 - **Deseo oculto:** Ser dominado, ver a su esposa con otros
 - **La transformación revela:** Su naturaleza sumisa real
 - **Justificación interna:** "Si ella es feliz, yo soy feliz"
 
-### La Hija
+### La Hija (expande)
 - **Represión inicial:** Presión de ser perfecta, buena estudiante
 - **Deseo oculto:** Ser admirada por su cuerpo, no su mente
 - **La transformación revela:** Prefiere atención fácil que logros difíciles
@@ -142,7 +142,7 @@ Una familia normal se muda a un nuevo vecindario. El misterioso vecino les regal
 
 ---
 
-## Referencias Externas a Investigar
+## Referencias Externas a Investigar (investigaste esto???)
 
 - Relatos de "corruption" en literotica
 - Tropos de "wine transformation" en TG fiction
