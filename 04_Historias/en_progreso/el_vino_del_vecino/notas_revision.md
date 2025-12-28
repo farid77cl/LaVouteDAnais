@@ -72,7 +72,7 @@
   - ✅ Expansión detallada de transformación mental de Lucía
   - ✅ Desarrollo completo de bimbofication
   - ✅ Expandido significativamente (de ~900 a ~2,850 palabras)
-revisa la cronología de los tacones de stripper 
+revisa la cronología de los tacones de stripper. cada cambio está por separado, ya dije que quiero que se mezclen, que un cambio de origen al otro que potencia el primero y que da origen al tercero que potencia los anteriores, cada cambio de irse tejiendo, como una red, que se apoya uno en otro, no los cuentes como situaciones aisladas, hace que la historia sea entrecortada. revisa coherencia del capítulo. cuando cherry está ante Marcelo, luego de que el lo ordena, cherry debe seducir, como toda una stripper a marcelo, se explícita en lo que Cherry tiene que hacer, ten en cuenta que luego de los cambios es su primera vez con un hombre, su mamá la vino a entregar, ella ya es más Bimbo y esto debe ser un éxtasis 
 ---
 
 ## Capítulo 8: La Nueva Familia
