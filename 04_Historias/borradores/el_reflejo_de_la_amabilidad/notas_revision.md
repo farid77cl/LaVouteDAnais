@@ -2,10 +2,13 @@
 
 ## Capítulo 1
 
-- [x] Revisado
-- Observaciones:
-  - Cap 1 está muy largo, condensar el primer capítulo (especialmente la oficina).
-  - Ir directo al grano (el café derramado y la humillación).
+- [x] Revisado - **CONDENSADO 29/12/2025**
+- Correcciones aplicadas:
+  - ✅ Reducido de ~3,200 a ~2,800 palabras
+  - ✅ Sección de clínica condensada (va directo al grano)
+  - ✅ Sección de departamento condensada
+  - ✅ Café derramado y humillación llegan más rápido
+  - ✅ Mantiene los elementos esenciales pero sin relleno
 
 ## Capítulo 2
 
