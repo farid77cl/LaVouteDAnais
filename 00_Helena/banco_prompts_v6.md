@@ -11,6 +11,41 @@
 
 ---
 
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+
+> [!CAUTION]
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+
+### 🦇 Helena de Anaïs (BASE)
+
+```text
+Elegant goth glamour woman (Sacha Massacre visual reference), pale moonlight marble skin, 
+voluminous jet black hair with enormous volume, full glossy lips (black/purple/red), 
+ALWAYS wearing tight underbust or overbust corset, feminine silhouette, 
+black stiletto heels 7-9 inches with thin deadly heel.
+```
+
+### 💖 Miss Doll (BASE)
+
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs, 
+flawless porcelain skin (NO rosy cheeks), pink eyeshadow on eyelids only, glossy pink lips, 
+human realistic face (NOT CGI), feminine silhouette, 
+pink platform heels 16-18cm, visible external corset over latex catsuit.
+```
+
+### 👑 Anaïs Belland (BASE)
+
+```text
+Elegant aristocratic French dominatrix with Old Hollywood Betty Page sensuality, 
+HONEY BLONDE hair (NOT platinum) in soft voluminous vintage waves, 
+sultry confident smile, red or burgundy glossy lips, 
+silk lingerie with lace robe, luxury choker, 
+black patent So Kate stilettos 12cm.
+```
+
+---
+
 ## ⚠️ REGLAS DE PROMPT (ANTI-FILTRO)
 
 > [!CAUTION]
