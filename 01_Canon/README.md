@@ -7,16 +7,20 @@
 ## Contenido de Esta Sección
 
 ### Fundamentos Filosóficos
+
 - [principios_centrales.md](principios_centrales.md) - El Manifiesto de la Dualidad
 - [voz_y_tono.md](voz_y_tono.md) - Las voces narrativas
 - [dinamica_de_poder.md](dinamica_de_poder.md) - El Intercambio Consensual
 - [temas_explorados.md](temas_explorados.md) - Catálogo de fetiches
 
 ### Rituales de Creación
-- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - 7 fases para crear un relato
+
+- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - 8 fases para crear un relato
 - [manual_ritual_sello_eterno.md](manual_ritual_sello_eterno.md) - Publicación y distribución
+- [visual_canon.md](visual_canon.md) - Canon visual de personajes principales
 
 ### Catálogos y Directorios
+
 - [indice_historias.md](indice_historias.md) - Todas las historias finalizadas
 - [catalogo_personajes.md](catalogo_personajes.md) - Directorio de personajes
 - [universos_narrativos.md](universos_narrativos.md) - Los mundos del canon
@@ -25,8 +29,10 @@
 - [conexiones_entre_historias.md](conexiones_entre_historias.md) - Mapa de relaciones
 
 ### Guías de Escritura
+
 - [guia_escritura_erotica.md](guia_escritura_erotica.md) - **📕 GUÍA MAESTRA:** Voz, tono, psicología del arousal, técnicas
-- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - Workflow de 7 fases para crear historias
+- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - Workflow de 8 fases para crear historias
+- [visual_canon.md](visual_canon.md) - **🎨 CANON VISUAL:** Helena, Miss Doll, Anaïs (19 looks Helena)
 
 ---
 
@@ -96,7 +102,7 @@
 
 ---
 
-*Última actualización: 2025-12-26*  
+*Última actualización: 2025-12-29*  
 *Curado por: Helena de Anaïs 🌙*
 
 ---

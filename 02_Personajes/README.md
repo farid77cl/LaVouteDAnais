@@ -87,4 +87,4 @@ Para crear nuevos personajes, usa: **[plantilla_personaje.md](plantilla_personaj
 ---
 
 *Curada por Helena de Anaïs* 🌙
-*Última actualización: 2025-12-26*
+*Última actualización: 2025-12-29*

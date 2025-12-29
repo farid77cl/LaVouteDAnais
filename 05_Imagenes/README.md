@@ -8,13 +8,13 @@
 
 | Personaje | Imágenes | Carpeta |
 |-----------|----------|---------|
-| **Helena** | 73+ | `helena/` |
+| **Helena** | 80+ | `helena/` |
 | **Miss Doll** | 54+ | `miss_doll/` |
 | **Anaïs** | 8 | `anais/` |
 | **Separadores/Banners** | 10+ | `miss_doll/` |
 | **Cómics** | Varios | `comics/` |
 
-**Total aproximado:** 150+ imágenes
+**Total aproximado:** 160+ imágenes
 
 ---
 
@@ -23,7 +23,7 @@
 ```
 05_Imagenes/
 ├── anais/              # Anaïs Belland: aristócrata, curadora
-├── helena/             # Helena: 13 looks canónicos + especiales
+├── helena/             # Helena: 19 looks canónicos + especiales
 │   └── galeria_visual_helena.md  # Índice visual completo
 ├── miss_doll/          # Miss Doll: latex rosa, hipnosis
 ├── comics/             # Paneles y páginas de cómics
@@ -46,6 +46,7 @@ Ejemplos:
 ```
 
 ### Poses Canónicas
+
 | Código | Descripción |
 |--------|-------------|
 | `standing` | De pie, cuerpo completo |
@@ -68,16 +69,21 @@ Ejemplos:
 ## ⚙️ Generación de Imágenes
 
 Para generar nuevas imágenes, usar el workflow:
+
 ```
 /generar_imagen
 ```
 
 O consultar los bancos de prompts:
+
 - `00_Helena/banco_prompts_v2.md` - Prompts generales
 - `00_Helena/banco_prompts_v3.md` - POV & Video
-- `00_Helena/banco_prompts_v4.md` - Fetish (marcas reales)
+- `00_Helena/banco_prompts_v4.md` - Fetish (Libidex, Vex, Honour)
+- `00_Helena/banco_prompts_v5.md` - Personajes de historias
+- `00_Helena/banco_prompts_v6.md` - Fashion Nova & Oh Polly
+- `00_Helena/banco_prompts_v7.md` - Honey Birdette & Agent Provocateur
 
 ---
 
-*Última actualización: 2025-12-26*
+*Última actualización: 2025-12-29*
 🦇 Helena de Anaïs

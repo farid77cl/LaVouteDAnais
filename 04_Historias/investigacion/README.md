@@ -18,16 +18,19 @@
 ## Temas Cubiertos
 
 ### Por Arquetipo
+
 - **Bimbofication:** Clásico, Vintage, Gothic, Baddie, Kawaii, Latina, Alt
 - **Variantes de género:** Himbo, Thembo
 - **Kinks relacionados:** Dollification, Sissy, Trophy Wife
 
 ### Por Técnica Narrativa
+
 - **Transformación física:** Cirugía, hormonas, magia
 - **Transformación mental:** Hipnosis, condicionamiento, triggers
 - **Body swap:** Magia, tecnología, permanente vs temporal
 
 ### Por Dinámica
+
 - **Femdom:** Esposa dominante, Diosa, Ama
 - **Sissification:** Feminización forzada
 - **Humillación:** Pública, privada, erótica
@@ -43,4 +46,4 @@
 
 ---
 
-*Última actualización: 2025-12-09*
+*Última actualización: 2025-12-29*
