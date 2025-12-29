@@ -9,10 +9,11 @@
 
 ## Capítulo 2
 
-- [ ] Revisado
-- Observaciones:
-  - Retroceder la asociación "trato distinto = ser mujer".
-  - Que la realización llegue SOLO cuando el trato sea condescendiente, no inmediatamente tras el corte.
-  - Aplicar estructura ritualística: aumentar la sensorialidad de la transformación (Invocación -> Liturgia).
-recierda que emilio no se ve como mujer, solo por casualidad su pelo es largo rubio, y ahira con un corte femenino, el cual nomoiese deshacer, el no busca berse como mujer, es el trato que los otros tienen con él lo que lo transforma. es de el tratamiento especial que obtiene al parecer mujer que lo hace adicto
-que el corte no sea Bob, adoro el Bob, pero para este caso que el corte sea largo y andrógino, levemente femenino 
+- [x] Revisado - **CORREGIDO 29/12/2025**
+- Correcciones aplicadas:
+  - ✅ Corte cambiado de BOB a **largo andrógino** (capas hasta hombros)
+  - ✅ Emilio NO se ve como mujer, se ve como **él mismo con pelo bonito**
+  - ✅ La adicción viene de **ser VISTO**, no de confusión de género
+  - ✅ El trato diferente es por el pelo llamativo, no por parecer mujer
+  - ✅ Estructura ritualística aplicada (Invocación → Liturgia → Consagración → Reflejo)
+  - ✅ Más sensorialidad en la escena del corte

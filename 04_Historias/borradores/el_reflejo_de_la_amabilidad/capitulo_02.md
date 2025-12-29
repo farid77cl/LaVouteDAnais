@@ -1,8 +1,8 @@
 # El Reflejo de la Amabilidad
 
-## Capítulo 2: El Bob
+## Capítulo 2: El Corte
 
-*~3,100 palabras*
+*~3,400 palabras*
 
 ---
 
@@ -12,199 +12,177 @@ Era absurdo. Imposible según cualquier estándar de crecimiento capilar normal.
 
 Emilio había dejado de cuestionarlo. El Aurum-Follicle funcionaba. *Demasiado bien*, quizás, pero funcionaba. Y cada vez que la duda lo asaltaba, solo tenía que recordar cómo se veía hace cuatro meses: calvo, invisible, olvidable.
 
-Lo que no podía ignorar era la forma en que lo miraban ahora.
+El cabello largo le molestaba. Se metía en la comida. Se enredaba con los auriculares. Y en la oficina, había notado miradas. No las miradas que ignoraban su existencia de antes, sino miradas curiosas, evaluadoras. Incómodas.
 
-En el metro esa mañana, una adolescente con audífonos lo había observado durante tres estaciones completas, sus ojos yendo de su cabello a su rostro y de vuelta, con esa curiosidad descarada que solo los jóvenes poseen. Un hombre de traje, parado cerca de la puerta, le había dedicado dos miradas furtivas antes de enterrar la nariz en su teléfono, extrañamente incómodo.
+—Necesito un corte —le dijo a su reflejo esa mañana, recogiendo el cabello en una cola improvisada—. Algo profesional. Corto.
 
-*Es el pelo*, se repitió Emilio por centésima vez. *Llama la atención porque es inusual*.
-
-Bajó en su estación habitual y caminó las tres cuadras hasta su peluquería de siempre. El viejo barbero lo recibió con una expresión que Emilio no supo interpretar: algo entre fascinación y desconcierto.
-
-—Volvió a crecer mucho —dijo el barbero, pasando los dedos por los mechones platinados—. ¿Seguro que ese medicamento no tiene algo raro?
-
-—Solo efectos secundarios cosméticos —respondió Emilio, acomodándose en la silla—. El doctor dice que es normal. Algo sobre la regeneración celular acelerada.
-
-El barbero asintió, pero su expresión seguía siendo escéptica mientras humedecía el cabello y lo peinaba hacia atrás.
-
-—¿Cómo lo quiere?
-
-Emilio iba a decir "corto, como siempre", pero las palabras murieron en su garganta. Se miró en el espejo: el cabello húmedo le enmarcaba el rostro, revelando una suavidad en sus facciones que nunca había notado. Sus pómulos parecían más altos. Su mandíbula, menos cuadrada.
-
-*Es el cabello largo*, racionalizó. *Cambia las proporciones*.
-
-—Solo las puntas —se escuchó decir—. Quiero ver cómo queda más largo.
-
-El barbero alzó las cejas pero no dijo nada. Comenzó a recortar las puntas con movimientos precisos, sus tijeras mordiendo apenas centímetros del pelo plateado.
-
-Fue entonces cuando entró ella.
-
-La estilista del salón de al lado era una mujer de unos cincuenta años con el pelo teñido de un rojo brillante y suficiente delineador para una década. Se asomó por la puerta que conectaba ambos negocios, buscando al barbero para algo, pero sus ojos se clavaron en Emilio.
-
-—¡Dios mío! —exclamó, entrando completamente sin pedir permiso—. ¿De dónde sacaste ese color? ¿Es balayage? ¿Ombré?
-
-—Es natural —murmuró Emilio, hundiéndose en la silla.
-
-—¡Mentira! —La mujer se acercó, tomando un mechón entre sus dedos sin preguntar—. Este platino... es imposible conseguirlo sin decoloración. Y la textura... —Sus ojos se abrieron—. Es real. No hay daño. ¿Cómo...?
-
-—Medicamento —dijo Emilio, su voz cada vez más pequeña.
-
-La estilista lo examinó con nuevos ojos, su mirada recorriendo su rostro con una intensidad que lo hizo querer desaparecer.
-
-—¿Sabes qué? Este pelo merece mejor que una barbería. Sin ofender, Jorge —añadió hacia el viejo barbero—. Pero con esa longitud y textura... necesita un corte de verdad. Un estilo.
-
-—Yo solo quería—
-
-—Ven. —La mujer lo tomó del brazo con una familiaridad alarmante—. Te voy a dejar preciosa.
-
-*Precioso*, corrigió Emilio mentalmente. Pero no lo dijo en voz alta.
+Buscó "barberías cerca de mí" en el teléfono, pero la primera opción que apareció fue un salón con buenas reseñas a tres cuadras. "Cortes unisex", decía. Suficientemente cerca. Suficientemente neutro.
 
 ---
 
-El salón de la estilista era un mundo completamente diferente a la barbería. Espejos enmarcados en dorado, sillones de terciopelo rosa, el aroma de productos capilares caros mezclado con música pop suave. Mujeres de distintas edades ocupaban varias estaciones, sus cabezas cubiertas de papel aluminio o inclinadas sobre revistas de moda.
+El salón de Marisol no era lo que esperaba.
 
-Todas miraron cuando él entró.
+Espejos enmarcados en dorado, sillones de terciopelo, el aroma de productos capilares caros mezclado con música pop suave. Mujeres de distintas edades ocupaban varias estaciones, sus cabezas cubiertas de papel aluminio o inclinadas sobre revistas de moda.
 
-Emilio sintió sus mejillas arder mientras la estilista —que se había presentado como Marisol— lo conducía a una silla frente al espejo más grande.
+Emilio se detuvo en la entrada, confundido. Había visto "unisex" en el letrero.
 
-—Siéntate, siéntate —ordenó, haciéndolo girar para enfrentarlo al espejo—. A ver... —Le soltó el cabello, dejándolo caer en ondas alrededor de su rostro—. Dios. Esto es una mina de oro. Literalmente.
+—¡Bienvenida! —Una mujer de unos cincuenta años con el pelo teñido de un rojo brillante se acercó, sonriendo—. ¿Tienes cita o vienes sin reserva?
 
-Emilio se miró en el espejo. Bajo las luces del salón, con el cabello enmarcando su rostro suavizado, lucía... diferente. No podía precisar cómo. Pero había algo en la imagen que le resultaba ajeno.
+—Sin reserva —murmuró Emilio, su voz saliendo más baja de lo normal—. Solo quiero un corte.
 
-*Es el ambiente*, se dijo. *En este lugar cualquiera se vería distinto*.
+—Perfecto, pasa. Soy Marisol. —La mujer lo tomó del brazo con familiaridad, guiándolo hacia una silla frente al espejo más grande—. Siéntate, siéntate.
 
-—¿Qué tienes en mente? —preguntó Marisol, peinándolo con movimientos expertos.
+Emilio obedeció, notando cómo las otras clientas lo observaban. *Solo es curiosidad*, se dijo. *Este cabello llama la atención*.
 
-—Solo un recorte. Las puntas.
+Marisol le puso la capa negra sobre los hombros. El velcro rasgó el silencio con un sonido áspero, definitivo. Sus manos quedaron atrapadas bajo la tela sintética, inútiles.
 
-Marisol negó con la cabeza, chasqueando la lengua.
+—A ver... —Marisol pasó los dedos por su cabello, soltándolo de la cola—. Dios mío, qué textura. ¿Es natural?
 
-—Con esta cara... y este pelo... ¿Solo puntas? No, cariño. Confía en mí.
+—Sí. Un tratamiento para la alopecia. Efecto secundario.
 
-—Pero yo—
+—Pues menudo efecto. —La estilista peinó los mechones hacia atrás, revelando el rostro de Emilio en el espejo—. ¿Cómo lo quieres?
 
-—Confía. —La estilista ya estaba sacando sus tijeras—. Cuando termine, no te vas a reconocer.
+—Corto —dijo Emilio sin dudarlo—. Profesional. Masculino.
 
-Debería haber insistido. Debería haber dicho no, gracias, solo las puntas. Pero había algo en la autoridad natural de Marisol, algo en la forma en que el salón entero parecía operar bajo sus reglas, que paralizó a Emilio.
+Marisol ladeó la cabeza, sus ojos recorriendo el reflejo de Emilio con una expresión que no supo interpretar.
 
-*Solo es un corte de pelo*, pensó mientras las tijeras comenzaban a morder. *Crecerá de nuevo si no me gusta*.
+—Masculino —repitió ella, como saboreando la palabra—. Cariño, con esta cara y este pelo... un corte "masculino" sería un desperdicio. ¿No prefieres algo más moderno? Algo que te favorezca.
 
-—Vamos a empezar —dijo Marisol.
+—Solo quiero—
 
-Fue una orden, no una sugerencia. (*La Invocación*)
+—Confía en mí. —Marisol ya estaba humedeciendo el cabello con un spray—. Cuando termine, vas a ver la diferencia.
 
-Emilio sintió el peso de la capa de corte cerrándose alrededor de su cuello. El velcro rasgó el silencio con un sonido áspero, definitivo. Sus manos quedaron atrapadas bajo la tela sintética, inútiles, reduciéndolo a un espectador de su propio destino.
+Debería haber insistido. Debería haber dicho *no, corto, como un hombre*. Pero había algo en la autoridad natural de Marisol, algo en la forma en que el salón entero parecía operar bajo sus reglas, que paralizó a Emilio.
 
-—Relájate —susurró ella, inclinando su cabeza hacia adelante con una presión firme de sus dedos.
+*Solo es un corte de pelo*, pensó mientras las tijeras mordían el primer mechón. *Crecerá de nuevo si no me gusta*.
 
-(*La Liturgia*)
+---
 
-Cerró los ojos. No quería ver. En su lugar, sintió.
+—Vamos a empezar.
 
-Sintió el frío metálico de las tijeras rozando su nuca, un beso helado que erizó su piel. Escuchó el *snip-snap* rítmico, un metrónomo que marcaba el final de algo y el inicio de otra cosa. Sintió la pérdida de peso físico, mechón a mechón, cayendo sobre la capa y sobre sus hombros.
+Fue una orden, no una sugerencia.
 
-Olía a productos químicos dulces, a laca y a coco, un aroma empalagoso que invadía sus fosas nasales y lo mareaba ligeramente.
+Marisol inclinó su cabeza hacia adelante con una presión firme de sus dedos en la nuca. Emilio sintió el peso de la sumisión antes de reconocerla: sus músculos relajándose, su cuello cediendo, su cuerpo entregándose a las manos de la estilista.
 
-—Tienes un cuello precioso —murmuró Marisol cerca de su oreja—. Es un crimen esconderlo.
+Cerró los ojos. No quería ver. En cambio, sintió.
 
-Las tijeras subieron. Cortaron cerca, peligrosamente cerca de la piel sensible detrás de las orejas. Emilio contuvo la respiración. Era una sensación de vulnerabilidad absoluta. Podía sentir el aire acondicionado golpeando la piel recién expuesta, una caricia fría que lo hacía sentir desnudo.
+El frío metálico de las tijeras rozando su nuca fue un beso helado que erizó su piel. Escuchó el *snip-snap* rítmico, un metrónomo que marcaba el final de algo y el inicio de otra cosa. Sintió el peso abandonándolo, mechón a mechón, cayendo sobre la capa y sobre sus hombros.
+
+El olor de productos químicos dulces, a laca y a coco, invadía sus fosas nasales y lo mareaba ligeramente. Era un aroma femenino, un aroma que no pertenecía a su vida de camisas beige y departamentos vacíos.
+
+—Tienes un cuello precioso —murmuró Marisol cerca de su oreja, su aliento cálido contra su piel—. Pero no vamos a exponerlo demasiado. Solo... sugerir.
+
+Las tijeras trabajaban ahora alrededor de sus orejas, pero no las descubrían. El cabello seguía cayendo más allá de los lóbulos, rozando la mandíbula.
+
+—Voy a dejarlo largo aquí —explicó Marisol, tirando suavemente de un mechón junto a su cara—. Te enmarca mejor. Suaviza.
+
+*¿Suaviza qué?*, quiso preguntar Emilio, pero las palabras no llegaron.
+
+El zumbido del secador reemplazó al tijereteo. Aire caliente. Un cepillo redondo tirando de su cabello, moldeándolo, forzándolo hacia alguna forma que solo Marisol veía. No era doloroso, pero era dominante. Su cabeza se movía a voluntad de ella.
 
 —Ya casi —dijo ella.
 
-El zumbido del secador reemplazó al tijereteo. Aire caliente. Un cepillo redondo tirando de su cabello, moldeándolo, forzándolo a una nueva geometría. No era doloroso, pero era dominante. Su cabeza se movía a voluntad de ella, una muñeca en manos de su dueña.
+Y entonces, el silencio.
 
 —Abre los ojos.
 
-(*La Consagración*)
-
 Emilio obedeció.
 
-El aire salió de sus pulmones y olvidó volver a entrar.
+El aire salió de sus pulmones.
 
-La persona en el espejo no era él. No podía ser él.
+La persona en el espejo era él. *Era él*. No había duda de eso. La mandíbula era la suya, los ojos eran los suyos, la nariz que simplemente existía era la suya.
 
-El cabello rubio platino caía en una cortina perfecta y brillante, terminando abruptamente justo en la línea de su mandíbula. Las puntas se curvaban hacia adentro, abrazando su cuello, enmarcando un rostro que, despojado de sombras y ángulos duros, parecía... suave.
+Pero el cabello...
 
-Demasiado suave. Insoportablemente suave.
-
-Sus ojos, grandes y vulnerables bajo el flequillo ladeado, lo miraban con pánico. Pero el resto de "ella"... el resto de la imagen irradiaba una calma perfecta.
+El cabello rubio platino caía en capas largas y suaves que rozaban sus hombros, enmarcando su rostro en una cascada andrógina. No era un bob. No era corto. Era... elegante. Moderno. El flequillo ladeado cruzaba su frente, suavizando los ángulos sin ocultarlos. Las puntas se curvaban ligeramente hacia adentro, acariciando su cuello.
 
 —Te ves... —Marisol dejó la frase en el aire, una sonrisa de satisfacción curvando sus labios pintados de rojo.
 
-(*El Reflejo*)
+Emilio buscó la palabra "raro". Buscó "ridículo". Buscó "femenino" para poder rechazarlo.
 
-Emilio levantó una mano temblorosa (liberada al fin de la capa) para tocarse. Sus dedos encontraron la suavidad sedosa de las puntas, la nuca desnuda y expuesta.
+Pero lo que vio no era una mujer. Era él mismo. Con un corte de pelo muy largo para un hombre, sí. Pero él.
 
-Era real. No era un disfraz. Era él.
+—Diferente —susurró.
 
-—Dilo —instó Marisol, sus manos descansando posesivamente sobre los hombros de Emilio, mirándolo a través del espejo.
+—Te ves como debes verte —dijo Marisol, quitándole la capa con un movimiento fluido—. Moderno. Actual. Nada de esos cortes aburridos de oficina.
 
-—Me veo... —la voz de Emilio se quebró. Buscó la palabra "raro". Buscó "ridículo".
+Emilio se levantó de la silla, sus piernas extrañamente inestables. El peso del cabello había cambiado. Se movía diferente ahora, rozando sus hombros con cada paso.
 
-Pero sus labios, traicioneros, susurraron otra cosa.
+—Son cuarenta —dijo Marisol.
 
-—Diferente.
-
-Marisol soltó una risita baja.
-
-—Te ves como debes verte.
-
-Pagó como un autómata. Salió del salón sintiendo que dejaba atrás su piel vieja entre los restos de cabello en el suelo. El pasillo del centro comercial se sentía más brillante, más ruidoso. O tal vez era él quien estaba vibrando en una frecuencia distinta.
-
-Cada paso resonaba. El roce del cabello contra su cuello era un recordatorio constante, un toque fantasma que le decía: *ya no eres el mismo*.
-
-(*El Sello*)
-
-—Disculpa.
-
-El hombre joven. La chaqueta de cuero. La sonrisa.
-
-—Se te cayó esto.
-
-El recibo. Emilio lo tomó, sus dedos rozando los del desconocido. Una chispa estática.
-
-—Gracias.
-
-El hombre no se fue. Sus ojos recorrieron a Emilio. No a su ropa gris. A su cabello. A su cuello expuesto. A sus labios entreabiertos por la sorpresa.
-
-—Te queda increíble ese corte —dijo el hombre. Su voz tenía un peso, una intención—. Resalta tus ojos. Son... hipnóticos.
-
-No hubo burla. Hubo *deseo*.
-
-El hombre se fue, dejándolo allí, marcado por esa mirada.
-
-Emilio se llevó la mano al pecho. Su corazón latía con fuerza contra sus costillas, un tambor frenético. No sintió el alivio de ser validado como mujer. Sintió el vértigo de ser *visto* como una presa.
-
-Y lo más aterrador de todo: no sintió ganas de huir.
+Pagó como un autómata.
 
 ---
 
-Esa noche, solo en su departamento beige, Emilio se paró frente al espejo del baño durante más de una hora.
+El pasillo del centro comercial se sentía diferente. Más brillante. Más ruidoso. O tal vez era él quien vibraba en una frecuencia distinta.
 
-El bob rubio enmarcaba un rostro que ya no podía negar que había cambiado. La suavidad de su piel, la delicadeza de sus rasgos, la curva de sus labios... todo parecía haberse intensificado desde que comenzó el tratamiento. Como si el Aurum-Follicle no solo estuviera regenerando su cabello, sino reescribiendo algo más profundo.
+Cada paso resonaba. El roce del cabello contra su cuello era un recordatorio constante, un toque fantasma que le decía: *algo ha cambiado*.
 
-Se tocó la mandíbula. Más suave de lo que debería ser.
+Pero no era su identidad. No era su género. Era solo pelo. Pelo largo, sí. Pelo rubio, sí. Pero pelo.
 
-Pasó los dedos por sus mejillas. Más llenas.
+*La gente usa el pelo largo*, se repitió mientras caminaba hacia la salida. *Los músicos. Los artistas. Los hombres modernos*.
 
-Miró sus manos. ¿Habían sido siempre tan delgadas? ¿Sus muñecas tan finas?
+—Disculpa.
 
-*Es mi imaginación*, insistió. *El corte nuevo me hace ver todo diferente*.
+Emilio se detuvo.
 
-Pero cuando inclinó la cabeza del mismo modo que Marisol había hecho, el reflejo que le devolvía la mirada no era Emilio.
+El hombre joven frente a él vestía una chaqueta de cuero gastada y sostenía algo en la mano.
 
-Era alguien más.
+—Se te cayó esto.
 
-Alguien a quien la gente miraba.
+El recibo del salón. Emilio no había notado que se le había escapado del bolsillo.
 
-Alguien a quien llamaban "preciosa".
+—Ah... gracias.
 
-Sus ojos se humedecieron sin razón aparente. No sabía si de miedo o de algo que no tenía nombre. Algo que se sentía terriblemente cercano al alivio.
+Lo tomó, sus dedos rozando los del desconocido. Una chispa estática.
 
-—¿Quién eres? —le preguntó al espejo.
+El hombre no se fue. Sus ojos recorrieron a Emilio. No a su ropa gris. A su cabello. A su cuello. A su rostro.
 
-El reflejo no respondió.
+—Te queda increíble ese corte —dijo el hombre. Su voz era cálida. Interesada—. Muy cool. ¿Es un ombré natural?
 
-Pero sus labios, labios más llenos de lo que recordaba, se curvaron en una sonrisa que Emilio no había ordenado.
+Emilio parpadeó.
+
+—¿Un qué?
+
+—El degradado de color. —El hombre señaló vagamente hacia su cabeza—. Se ve muy natural. La mayoría de la gente va al rubio y queda artificial, pero el tuyo... resalta tus ojos.
+
+No había burla en su tono. Ni incomodidad. El hombre lo estaba evaluando con la misma mirada que Emilio había visto dirigida a mujeres atractivas en la calle. Pero no había corrección en camino. Ningún "ah, perdona, pensé que eras...".
+
+El hombre sabía que era hombre. Y aun así...
+
+—Gracias —murmuró Emilio, sin saber qué más decir.
+
+—De nada. —El desconocido sonrió y siguió caminando.
+
+Emilio se quedó allí, paralizado, procesando.
+
+El hombre lo había visto. Lo había notado. Le había hablado. Le había hecho un cumplido. Y luego se había ido, dejándolo con una sensación cálida en el pecho que no sabía nombrar.
+
+*Eso fue... agradable*.
+
+No la atención sexual. No el coqueteo. Solo... ser visto. Ser digno de comentario. Existir en el radar de otra persona por un momento.
+
+---
+
+Esa noche, solo en su departamento beige, Emilio se paró frente al espejo del baño.
+
+El corte largo enmarcaba un rostro que conocía pero que parecía diferente bajo esta luz. No más femenino, exactamente. Solo... más notable. Más definido.
+
+Se quitó la camisa de trabajo y observó su cuerpo. Delgado, como siempre. Sin músculos marcados, como siempre. Piel pálida de oficinista, como siempre.
+
+Pero el cabello... el cabello cambiaba algo. Suavizaba los hombros. Creaba una ilusión de movimiento incluso cuando estaba quieto.
+
+*Es solo pelo*, se recordó. *No cambia quién soy*.
+
+Pero la pregunta flotaba en el aire: ¿quién era antes de tener pelo?
+
+Un hombre invisible. Un hueco en el mundo que nadie llenaba con atención.
+
+Y ahora, por primera vez en veintinueve años, alguien lo había notado.
+
+Por el pelo, sí. Por el corte, sí.
+
+Pero lo había notado.
 
 ---
 
@@ -212,87 +190,109 @@ A las tres de la mañana, después de dar vueltas en la cama por horas, Emilio t
 
 El lunes iría al trabajo como siempre.
 
-No explicaría el corte nuevo.
+No explicaría el corte nuevo a menos que preguntaran.
 
-No corregiría a nadie si lo confundían.
+Solo... observaría.
 
-Solo... vería qué pasaba.
+*Es un experimento*, se dijo mientras finalmente se quedaba dormido. *Solo quiero ver si la gente me trata diferente*.
 
-*Es un experimento*, se dijo mientras finalmente se quedaba dormido. *Solo quiero ver cómo reacciona la gente*.
+No quería admitir que lo que realmente quería era volver a sentir esa sensación.
 
-No quería admitir que lo que realmente quería era volver a sentir esa mirada.
+Esa sensación de ser visto.
 
-Esa mirada que lo veía.
-
-Que finalmente, después de veintinueve años de invisibilidad, lo hacía sentir real.
+De ser, finalmente, después de veintinueve años de invisibilidad, una persona que existía en el mundo.
 
 ---
 
 El lunes llegó con lluvia fina y un nudo en el estómago de Emilio.
 
-Se había lavado el pelo esa mañana con más cuidado del habitual, dejando que se secara naturalmente en las ondas que Marisol había creado. Se vistió con su ropa de siempre —camisa beige, pantalones grises— pero frente al espejo, el contraste entre su rostro suave enmarcado por oro y la ropa masculina sin forma era casi cómico.
+Se miró en el espejo antes de salir. El cabello largo brillaba incluso bajo la luz gris del baño. Las capas caían naturalmente, sin necesidad de peinado. Se veía diferente.
 
-*Solo es pelo*, se repitió en el auto. *La gente usa el pelo largo todo el tiempo*.
+*Me veo yo*, corrigió. *Solo que con más pelo*.
 
-En la oficina, el ascensor estaba lleno cuando subió. Se apretujó en la esquina, bajando la mirada como siempre hacía, preparándose para ser ignorado.
+Se vistió con su ropa de siempre —camisa beige, pantalones grises— pero el contraste era extraño. La ropa decía "invisible". El cabello decía "mírame".
 
-Pero una mujer de otro departamento, alguien que Emilio había visto mil veces sin que nunca lo registrara, se giró hacia él.
+En el metro, una mujer le cedió paso para entrar primero.
 
-—Perdona, ¿tienes hora?
+—Adelante —dijo, con una sonrisa cortés.
 
-La pregunta era normal. Pero la forma en que la mujer lo miraba no lo era. Sus ojos recorrían el cabello de Emilio, su rostro, con esa evaluación que las mujeres se hacen entre ellas.
+Emilio parpadeó. Nunca nadie le cedía el paso. Era él quien siempre esperaba, quien siempre se hacía a un lado.
 
-—Son las ocho cuarenta —respondió Emilio, mostrando su teléfono.
+—Gracias —murmuró, entrando al vagón.
 
-—Gracias, cariño.
+Se sostuvo del pasamanos, y notó que varios ojos lo seguían. No miradas de deseo. No miradas de disgusto. Solo... atención. Curiosidad. Como si fuera nuevo en el mundo.
 
-*Cariño*.
+*Es el pelo*, racionalizó. *El color llama la atención*.
 
-Emilio salió del ascensor en su piso con el corazón latiendo demasiado rápido.
+Pero debajo de esa racionalización, algo más cálido comenzaba a crecer.
 
-En el pasillo, Sandra de Contabilidad se detuvo en seco al verlo.
+---
 
-—¡Wow! —exclamó, sus ojos abiertos como platos—. ¡Emilio! ¡Te cortaste el pelo!
+En la oficina, el ascensor estaba lleno cuando subió.
 
-—Sí, yo... —Emilio se tocó el bob nerviosamente—. ¿Está mal?
+—Con permiso —dijo, apretujándose en la esquina.
 
-—¿Mal? ¡Estás guapísimo! —Sandra dio una vuelta a su alrededor, examinándolo—. Es muy moderno. Muy... —buscó la palabra— ...actual.
+Una mujer de otro departamento, alguien que Emilio había visto mil veces sin que nunca lo registrara, se giró hacia él.
 
-*Guapísimo*. No *guapa*. Sandra lo había identificado correctamente como hombre.
+—¿Tienes hora?
 
-Pero la mirada que le dedicaba era la misma que le daba a otras mujeres cuando les gustaba su ropa.
+La pregunta era normal. Pero había algo en la forma en que la mujer lo miraba. Sus ojos recorriendo su cabello, su rostro, con esa evaluación automática que los seres humanos hacen cuando registran una cara nueva.
 
-Emilio no sabía cómo sentirse sobre eso.
+—Son las ocho cuarenta.
 
-—Gracias —murmuró, y siguió hacia su cubículo.
+—Gracias.
 
-El resto del día fue un ejercicio de confusión. Algunos colegas lo identificaban como Emilio y hacían comentarios sobre su "nuevo look". Otros, especialmente los que no lo conocían bien, lo trataban con una familiaridad diferente: sonrisas más cálidas, contacto visual más prolongado, pequeñas cortesías que nunca había recibido.
+La mujer no apartó la mirada inmediatamente. La sostuvo un segundo más de lo necesario. Como si estuviera memorizando algo.
 
-Pero fue David, del cubículo de al lado, quien lo desequilibró por completo.
+El ascensor se detuvo. Emilio salió en su piso.
+
+—¡Wow!
+
+Sandra de Contabilidad se detuvo en seco al verlo.
+
+—¡Emilio! —exclamó, sus ojos abiertos como platos—. ¡Te dejaste crecer el pelo! ¡Está genial!
+
+—¿En serio? —Emilio se tocó un mechón nerviosamente.
+
+—¡Sí! Te ves muy... —Sandra buscó la palabra— ...moderno. Como un músico o algo así.
+
+*Moderno. Músico*.
+
+No "afeminado". No "raro". Moderno.
+
+—Gracias —dijo Emilio, y siguió hacia su cubículo con algo que casi podría llamarse alegría brotando en su pecho.
+
+---
+
+El resto del día fue un ejercicio de descubrimiento.
+
+Los colegas que lo conocían hacían comentarios sobre su "nuevo look". Los que no lo conocían lo miraban con curiosidad, como a alguien digno de atención.
+
+David, del cubículo de al lado, fue quien lo desequilibró.
 
 —Oye —dijo David, asomándose por encima del panel divisor—. ¿Quieres que te traiga café?
 
-Emilio parpadeó. En tres años de sentarse junto a David, nunca le había ofrecido traerle nada. Era Emilio quien siempre aceptaba el café sobrante, el que David preparaba para sí mismo.
+Emilio parpadeó. En tres años de sentarse junto a David, nunca le había ofrecido traerle nada.
 
 —Uh... seguro. Gracias.
 
-David sonrió. Era una sonrisa que Emilio había visto dirigida a otras personas, nunca a él. Una sonrisa que decía *quiero agradarte*.
+David sonrió. Era una sonrisa diferente a las que le había visto antes. Más cálida.
 
-—¿Con leche y azúcar, verdad?
+—¿Con leche y azúcar?
 
 Emilio no recordaba haber mencionado nunca cómo tomaba el café.
 
 —Sí —dijo de todas formas—. Perfecto.
 
-David desapareció hacia la máquina de café, y Emilio se quedó mirando la pantalla de su computadora sin verla.
+David desapareció hacia la máquina de café, y Emilio se quedó mirando la pantalla sin verla.
 
 *¿Qué está pasando?*
 
 No tenía respuesta.
 
-Pero por primera vez en años, alguien le había prestado atención.
+Pero por primera vez en años, alguien le había prestado atención. Atención real. Atención que no era para corregirlo o para ignorarlo.
 
-Y eso se sentía demasiado bien para cuestionarlo.
+Atención que se sentía demasiado bien para cuestionarla.
 
 ---
 

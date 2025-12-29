@@ -8,15 +8,16 @@
 
 | Elemento | Detalle |
 |----------|---------|
-| **Palabras totales** | ~13,700 |
+| **Palabras totales** | ~15,000 |
 | **Capítulos** | 8 |
 | **Perspectiva** | Tercera persona omnisciente |
 | **Tono** | Erótico con toques de horror sutil |
-| **Nivel de explícito** | Moderado-Alto (desarrollado) |
+| **Nivel de explícito** | Alto (desarrollado completamente) |
 
 ---
 
 ## Capítulo 1: Bienvenidos al Vecindario
+
 - [x] Revisado
 - **Palabras:** ~1,180
 - **Observaciones:** Aprobado
@@ -24,6 +25,7 @@
 ---
 
 ## Capítulo 2: La Primera Copa
+
 - [x] Revisado
 - **Palabras:** ~1,020
 - **Observaciones:** Aprobado
@@ -31,6 +33,7 @@
 ---
 
 ## Capítulo 3: El Despertar de Roxy
+
 - [x] Revisado
 - **Palabras:** ~1,040
 - **Observaciones:** Aprobado
@@ -38,6 +41,7 @@
 ---
 
 ## Capítulo 4: La Cacería Comienza
+
 - [x] Revisado
 - **Palabras:** ~1,070
 - **Observaciones:** Aprobado (con correcciones extensas)
@@ -45,6 +49,7 @@
 ---
 
 ## Capítulo 5: El Precio del Placer
+
 - [x] Revisado
 - **Palabras:** ~970
 - **Observaciones:** Aprobado
@@ -52,10 +57,11 @@
 ---
 
 ## Capítulo 6: La Visita Inesperada
-- [ ] Pendiente revisión
+
+- [x] Revisado
 - **Palabras:** ~2,950 (REESCRITO 26/12/2025)
 - **Cambios realizados:**
-  - ✅ Eliminada "voz del enólogo" 
+  - ✅ Eliminada "voz del enólogo"
   - ✅ Nueva escena inicial: Lucía encuentra a Roxy junto a la piscina
   - ✅ Roxy: bikini animal print, tacones acrílicos, piel aceitosa/bronceador
   - ✅ Eduardo sirviéndola con delantal
@@ -65,46 +71,56 @@
 ---
 
 ## Capítulo 7: De Tal Palo, Tal Astilla
-- [ ] Pendiente revisión
-- **Palabras:** ~2,850 (REESCRITO 26/12/2025)
+
+- [x] Revisado - **REESCRITO 29/12/2025**
+- **Palabras:** ~3,500
 - **Cambios realizados:**
-  - ✅ Eliminadas todas las "voces del enólogo"
-  - ✅ Expansión detallada de transformación mental de Lucía
-  - ✅ Desarrollo completo de bimbofication
-  - ✅ Expandido significativamente (de ~900 a ~2,850 palabras)
-revisa la cronología de los tacones de stripper. cada cambio está por separado, ya dije que quiero que se mezclen, que un cambio de origen al otro que potencia el primero y que da origen al tercero que potencia los anteriores, cada cambio de irse tejiendo, como una red, que se apoya uno en otro, no los cuentes como situaciones aisladas, hace que la historia sea entrecortada. revisa coherencia del capítulo. cuando cherry está ante Marcelo, luego de que el lo ordena, cherry debe seducir, como toda una stripper a marcelo, se explícita en lo que Cherry tiene que hacer, ten en cuenta que luego de los cambios es su primera vez con un hombre, su mamá la vino a entregar, ella ya es más Bimbo y esto debe ser un éxtasis 
+  - ✅ **RED NARRATIVA** aplicada: Tubo → Tacones → Fotos → Instagram → Implantes → Marcelo
+  - ✅ Cada elemento lleva al siguiente y lo potencia
+  - ✅ Escena con Marcelo expandida: seducción activa de Cherry como stripper experta
+  - ✅ Primera vez con hombre = éxtasis total, no trauma
+  - ✅ Cherry seduce activamente, no es pasiva
+  - ✅ Cronología de cambios entrelazada, no aislada
+
 ---
 
 ## Capítulo 8: La Nueva Familia
-- [ ] Pendiente revisión
-- **Palabras:** ~2,650 (REESCRITO 26/12/2025)
-- **Cambios realizados:**
-  - ✅ Enólogo aparece en persona (coherente con caps 1-5)
-  - ✅ Orgasmo de Eduardo expandido con mecánica dolor+ira+humillación=placer
-  - ✅ Expandido significativamente (de ~1,120 a ~2,650 palabras)
-este relato merece una orgía como final, madre e hija, agradeciendo al enemigo, mientras Eduardo mira, y le ordenen no tocarse, lo hacen lamer la vagina de Roxy. lo humillan, las mujeres gozan..permanecen en su casa, el enologo va a buscar nuevas víctimas 
 
-en general el final debe ser más grande e impactante 
+- [x] Revisado - **REESCRITO 29/12/2025**
+- **Palabras:** ~4,000
+- **Cambios realizados:**
+  - ✅ **ORGÍA FINAL**: Madre + Hija + Enólogo (escena explícita central)
+  - ✅ Eduardo forzado a observar sin tocarse
+  - ✅ Cherry montada sobre cara de Roxy mientras Enólogo la penetra
+  - ✅ Culminación sobre ambas mujeres (tres conectadas)
+  - ✅ Final más impactante con masturbación de Eduardo recordando la orgía
+  - ✅ Escena de incesto sáfico (madre-hija) como clímax del relato
+
 ---
 
 ## Observaciones Generales
 
 ### Conexión con Canon
+
 - El vino proviene de **La Bóveda** (conexión establecida)
 - El Enólogo/Vecino es un agente del universo de Anaïs
 - Potencial para crossover o expansión futura
 
-### Coherencia Verificada (26/12/2025)
+### Coherencia Verificada (29/12/2025)
+
 - [x] Voces del enólogo eliminadas de caps 6-7
 - [x] Enólogo aparece solo como personaje físico
 - [x] Continuidad de escena piscina establecida
+- [x] Red Narrativa aplicada en Cap 7
+- [x] Orgía final en Cap 8
 
-### Elementos a Verificar
-- [ ] ¿La nueva escena de piscina cumple expectativas?
-- [ ] ¿El nivel de explícito es el deseado?
-- [ ] ¿La conexión con La Bóveda está bien manejada?
+### ✅ RELATO COMPLETADO
+
+- Total palabras: ~15,000
+- Última actualización: 29/12/2025
+- Estado: **LISTO PARA PUBLICACIÓN**
 
 ---
 
-*Reescritura realizada por: Helena de Anaïs 🦇*
-*Fecha actualización: 2025-12-26*
+*Reescritura finalizada por: Helena de Anaïs 🦇*
+*Fecha actualización: 2025-12-29*

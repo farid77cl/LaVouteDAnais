@@ -62,28 +62,31 @@ Un hombre invisible descubre el "privilegio de belleza" cuando un tratamiento pa
 
 ---
 
-### **CAPÍTULO 2: El Bob** (~3,000 palabras)
+### **CAPÍTULO 2: El Corte** (~3,000 palabras)
 
 **2.1 - La Peluquería**
 
 - Meses después, cabello largo y sedoso
-- Peluquería de barrio, distraído con celular
-- Estilista asume que es mujer tomboy, corta bob femenino
+- Salón "unisex", Emilio pide corto masculino
+- Estilista lo convence de "algo más moderno"
+- Corte: LARGO ANDRÓGINO con capas hasta los hombros (NO BOB)
 
 **2.2 - El Cumplido**
 
-- "Te ves preciosa, cariño"
-- Emilio paralizado, NO corrige
-- Primera grieta en la identidad
+- Hombre en el pasillo: "Te queda increíble ese corte"
+- Emilio paralizado, pero no por confusión de género
+- Es por ser VISTO, ser digno de comentario
+- Primera grieta: el placer de existir para otros
 
 **2.3 - El Espejo de Casa**
 
 - Se mira largamente
-- ¿Es él? ¿Es ella?
-- Confusión pero NO rechazo
+- Ve a SÍ MISMO con pelo bonito, NO a una mujer
+- "Moderno", "actual", "como un músico"
+- Confusión sobre por qué se siente tan bien ser notado
 
-**Tratamiento recibido:** Etapa 1 (cortesía básica)
-**Punto de inflexión:** "No quería corregirla... se sintió bien."
+**Tratamiento recibido:** Atención inusual (NO aún como "mujer")
+**Punto de inflexión:** "Por primera vez en 29 años, alguien me notó."
 
 ---
 
