@@ -82,6 +82,7 @@ O consultar los bancos de prompts:
 - `00_Helena/banco_prompts_v5.md` - Personajes de historias
 - `00_Helena/banco_prompts_v6.md` - Fashion Nova & Oh Polly
 - `00_Helena/banco_prompts_v7.md` - Honey Birdette & Agent Provocateur
+- `00_Helena/banco_prompts_v8_rostros.md` - Rostros & Maquillaje (Serving Face)
 
 ---
 

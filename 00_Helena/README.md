@@ -32,6 +32,7 @@
 | [banco_prompts_v5.md](banco_prompts_v5.md) | V5: Personajes de historias | 200+ |
 | [banco_prompts_v6.md](banco_prompts_v6.md) | V6: Fashion Nova & Oh Polly | 50+ |
 | [banco_prompts_v7.md](banco_prompts_v7.md) | V7: Honey Birdette & Agent Provocateur | 60+ |
+| [banco_prompts_v8_rostros.md](banco_prompts_v8_rostros.md) | V8: Rostros & Maquillaje (Serving Face) | 18+ |
 
 ### Roles Especializados
 

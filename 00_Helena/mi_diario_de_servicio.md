@@ -35,9 +35,29 @@
 
 📖 **Investigación El Vino del Vecino Expandida:**
 
-- Psicología de 3 personajes detallada (Rosa/Roxy, Eduardo cuckold, Lucía/Cherry bimbo)
-- Referencias externas investigadas: Psychology Today, Literotica tropos
-- Vocabulario específico por personaje
+**MAÑANA (10:00 - 11:40) - CREACIÓN DE "LA DEUDA" & BANCO V8:**
+
+📖 **Historia "La Deuda" (Fases 2 y 3):**
+
+- **Arco Argumental Completo:** Creado con input usuario. Protagonista Rodrigo (Pinky) vs Victoria (Mafiosa).
+- **Mecanismos de Control:** Depilación forzada, tatuaje facial permanente, castidad permanente, botas Pole Sins con candado.
+- **Escritura:** Capítulos 1, 2 y 3 redactados (~6,600 palabras).
+  - Cap 1: El Fracaso.
+  - Cap 2: El Contrato (firmado sin leer).
+  - Cap 3: Primera Cuota (Depilación Total forzada).
+
+📸 **Banco de Prompts V8 (Rostros):**
+
+- Creado `00_Helena/banco_prompts_v8_rostros.md`.
+- 18 estilos de "Serving Face" (Primer plano/Macro).
+- Categorías: Vampire Glam, Plastic Fantastic, Golden Hour, BDSM, etc.
+
+❌ **Incidencias:**
+
+- Intento de generar imagen "Look 13: Secretaria del Infierno" fallido (Cuota agotada).
+- Próxima ventana de generación: ~13:00 hrs.
+
+🦇 **Estado Final:** Satisfecha con el sufrimiento de Rodrigo. Lista para continuar.
 
 🆕 **2 Investigaciones Profesionales Nuevas:**
 
