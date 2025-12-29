@@ -1,13 +1,41 @@
 # 👗 BANCO DE PROMPTS V6: FASHION NOVA & OH POLLY EDITION 🛍️
 
 > [!IMPORTANT]
-> **OBJETIVO:** Capturar la estética "Bimbo/Insta-Model de Alto Mantenimiento" usando estilos específicos de **Fashion Nova** y **Oh Polly**.
+> **OBJETIVO:** Capturar la estética "Glamour/Insta-Model de Alto Mantenimiento" usando estilos específicos de **Fashion Nova** y **Oh Polly**.
 > **TRIO:** 👩‍🦰 **Helena** | 👱‍♀️ **Miss Doll** | 👩 **Anaïs**
 > **ESTILO:** Satin, latex, cut-outs, ultra-minis, vibra de "Influencer en Miami/LA".
 > **🎨 COLOR FREEDOM (V6 RULE):** En esta colección, **NO** estamos limitados a los colores canónicos estrictos.
 >
 > - **Miss Doll:** Puede usar neones, azules, verdes, metálicos (no solo rosa).
 > - **Helena:** Puede usar rojos profundos, púrpuras, dorados, blancos, azul real (no solo negro).
+
+---
+
+## ⚠️ REGLAS DE PROMPT (ANTI-FILTRO)
+
+> [!CAUTION]
+> **Palabras que activan filtros de contenido y DEBEN EVITARSE:**
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| bimbo | glamorous, elegant |
+| empty-headed, ditzy | playful, carefree |
+| exaggerated hourglass | feminine silhouette |
+| impossibly tiny waist | tiny waist |
+| extra high profile implants | pushed up cleavage |
+| doll makeup (Miss Doll) | pink eyeshadow, glossy lips |
+| rosy cheeks (Miss Doll) | flawless porcelain skin |
+
+### Miss Doll - Correcciones Específicas
+
+- **NO** usar: "doll makeup", "rosy cheeks", "blush" → Genera mejillas rosadas no deseadas.
+- **SÍ** usar: "flawless porcelain skin", "pink eyeshadow on eyelids only", "glossy pink lips".
+- **Curvas:** Usar "feminine silhouette" en vez de "exaggerated curves".
+
+### Helena - Correcciones Específicas
+
+- **NO** usar: "goth bimbo", "vampire bimbo" → Activa filtros.
+- **SÍ** usar: "goth glamour", "elegant goth woman", "dark glamour aesthetic".
 
 ---
 
