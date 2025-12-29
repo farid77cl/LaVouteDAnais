@@ -109,7 +109,7 @@
 
 - Rodrigo intenta conseguir dinero desesperadamente
 - Más fracasos, más cuotas impagas
-- Transformaciones progresivas: ropa interior femenina, hormonas iniciales, maquillaje
+- Transformaciones progresivas: ropa interior femenina, hormonas iniciales, **MAQUILLAJE PERMANENTE** (cejas tatuadas, delineado tatuado, labios tatuados)
 
 ### ACTO III: La Espiral (Caps 5-8)
 
@@ -118,11 +118,13 @@
 - Rodrigo intenta huir por el aeropuerto
 - Victoria lo esperaba — muy predecible
 - Penalización severa: 3 cuotas de golpe
+- **CASTIGO ESPECIAL: CINTURÓN DE CASTIDAD PERMANENTE** — soldado, sin llave, para siempre
 
 **Capítulo 6: Cuotas 10-20**
 
 - Transformación física acelerada
 - Implantes, labios, rostro suavizado
+- **TACONES PERMANENTES:** POLE SINS "Essential" ankle boots negro charol (7" heel) con candados de acero en los cierres — imposible quitárselos
 - Rodrigo empieza a parecer mujer
 
 **Capítulo 7: El Mundo Lo Ve**
