@@ -49,6 +49,30 @@
 
 ---
 
+## MECANISMOS DE CONTROL (Escalada)
+
+### FASE 1: Control Físico Directo
+
+- **Confiscación total:** Los matones se llevan TODA su ropa masculina
+- **Vestido a la fuerza:** Los matones lo inmovilizan y lo visten con ropa interior femenina
+- **Cláusula del contrato:** "El deudor acepta las condiciones de cumplimiento establecidas por el acreedor"
+- **Sin alternativa:** Solo queda ropa femenina en su departamento
+
+### FASE 2: Vigilancia Activa
+
+- **Revisiones sorpresa:** Los matones aparecen sin aviso, lo desnudan y verifican cumplimiento
+- **Penalización:** Si no cumple = cuota extra automática
+- **Horarios impredecibles:** Nunca sabe cuándo vendrán
+
+### FASE 3: Auto-documentación + Chantaje
+
+- **Foto diaria obligatoria:** Debe enviar selfie cada mañana mostrando la ropa interior puesta
+- **Sin foto = cuota extra:** Victoria lo controla remotamente
+- **Chantaje social:** Si intenta escapar o denunciar, Victoria publica las fotos a familia, ex-socios, redes
+- **Archivo creciente:** Cada foto se suma al archivo de chantaje
+
+---
+
 ## ESTRUCTURA POR CAPÍTULOS (12 capítulos, ritmo acelerado)
 
 ### ACTO I: La Caída (Caps 1-2)
