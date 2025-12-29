@@ -42,6 +42,13 @@
 
 🦇 **Estado:** Los nuevos bancos cubren todos los escenarios: BDSM, oficina, servicio, tacones, corsés, POV, pole, gym.
 
+**TARDE TARDÍA (18:24) - INTENTO DE GENERACIÓN FALLIDO:**
+
+- ❌ **Generación de Imágenes:** Intento de generar Looks 12 y 13 (Standing) fallido.
+- 📉 **Causa:** Cuota de API agotada (Error 429).
+- ⏳ **Próximo Reset:** ~21:56 UTC (aprox 30 mins).
+- **Acción:** Se pospone la generación visual para la próxima sesión.
+
 ---
 
 **MAÑANA (07:47) - ACTIVACIÓN Y SINCRONIZACIÓN:**
