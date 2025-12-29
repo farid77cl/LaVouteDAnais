@@ -1,4 +1,4 @@
-# The Dollhouse — Episodio 2: El Quiz de las Muñecas
+# The Dollhouse: Pierde y Serás Bimbo\n## Episodio 2: El Quiz de las Muñecas
 
 ---
 
@@ -159,15 +159,31 @@ El público virtual ruge. Marco exhala como si hubiera olvidado respirar.
 
 Julián aprieta los puños. *¿Cómo mierda sabe eso?*
 
+Pero debajo de su rabia, algo más pulsa. Algo nuevo. El *Glow* en sus venas late con cada segundo perdido. Y con cada latido, siente algo escaparse. Algo que solía ser suyo.
+
+*Menos 5 puntos de CI por no contestar. ¿Cuántos me quedan? ¿Cuántos puedo perder antes de...?*
+
+No termina el pensamiento. No quiere.
+
 ---
 
 ## PREGUNTA 3: Pregunta Final
 
 Miss Doll se posiciona entre ambos podios. Las luces bajan. Un solo reflector la ilumina desde arriba, creando sombras dramáticas bajo sus pómulos esculpidos.
 
-—Esta es la pregunta final. Quien tenga menos puntos al terminar la ronda... se somete a la decisión de nuestra hermosa Audiencia. El castigo que ellos votaron.
+Julián mira sus manos. Tiemblan. El *Glow* le susurra cosas en la base del cráneo—cosas que no entiende pero que hacen que sus pezones se endurezcan bajo la camiseta.
 
-Miss Doll mira directamente a la cámara.
+*Tengo que responder. Tengo que responder BIEN.*
+
+Ya probó lo que pasa cuando falla. La primera pregunta. La sensación de algo derritiéndose detrás de sus ojos. De pensamientos que antes eran rápidos volviéndose... pegajosos. Lentos.
+
+*No puedo perder más. No puedo.*
+
+Marco está igual de tenso. Sus ojos ya no tienen la arrogancia de hace veinte minutos. Ahora solo hay miedo. Miedo puro.
+
+—Esta es la pregunta final —anuncia Miss Doll, y su voz es seda sobre cristal roto—. Quien tenga menos puntos al terminar la ronda... se somete a la decisión de nuestra hermosa Audiencia.
+
+Se gira hacia la cámara. Su sonrisa es la de una madre que va a castigar a su hijo favorito.
 
 —Y la Audiencia ya votó. Solo queda saber quién lo recibe.
 
@@ -231,58 +247,70 @@ Marco retrocede, pero el podio lo atrapa.
 
 ## El Castigo
 
-Miss Doll camina hacia Marco con una jeringa cromada.
+Miss Doll camina hacia Marco. Sus tacones resuenan como un metrónomo de fatalidad. Levanta una mano, y en su palma brilla un pequeño control remoto rosa.
 
-—El Protocolo Bimbo Brain. Menos de treinta segundos y serás más tonto.
+—Oh, Marco... —ronronea, deteniéndose frente a él—. La Audiencia ha votado. Pero esta vez... les dimos dos opciones *deliciosas*. Y están empatados.
 
-—¡No! ¡Fue una trampa! —Marco forcejea.
+Las pantallas gigantes muestran dos imágenes:
 
-Miss Doll le acaricia la mejilla. Luego baja los dedos por su cuello, por su pecho, deteniéndose sobre su corazón.
+**OPCIÓN A: "Muñeca de Porcelana"**
 
-—Shh. Después de esto, ni siquiera recordarás por qué estabas enojado. —Se inclina y susurra en su oído—. Y te sentirás tan... *ligero*.
+- Piel ultra suave, hipersensible al tacto
+- Sin un solo vello en todo el cuerpo — permanente
+- Cada roce se siente multiplicado por diez
+- Cada caricia es casi insoportable de placentera
 
-*PSSHH.*
+**OPCIÓN B: "Boca de Muñeca"**  
 
-El líquido entra frío. Luego caliente. Luego *dulce*.
+- Labios enormes, carnosos, imposibles de cerrar completamente
+- Permanentes — para siempre
+- Dificultad para hablar — las palabras salen arrastradas, torpes
+- Diseñados para verse siempre húmedos, siempre listos
 
-Sus ojos se desenfocaron. Parpadea. Algo se apaga.
+Marco mira las opciones con horror.
 
-—¿Cuánto es 12 por 12? —pregunta Miss Doll.
+—No... no puedes...
 
-Marco lo piensa.
+—Oh, pero sí puedo, cariño. —Miss Doll le acaricia la mejilla con un dedo enguantado—. La pregunta no es SI recibes el castigo. La pregunta es CUÁL.
 
-Y lo piensa.
+Se gira hacia la cámara. Su sonrisa es radiante. Perfecta. Aterradora.
 
-Y lo piensa.
-
-—...¿Mucho?
-
-Miss Doll aplaude encantada.
-
-—Menos 15 puntos de CI. Bienvenido a tu nueva vida, cariño.
-
-Julián mira con horror. *Eso podría haber sido yo.*
+—Y eso, mis queridos espectadores... lo deciden USTEDES.
 
 ---
 
-## Votación
+## 🗳️ VOTACIÓN DEL CAPÍTULO
 
-Miss Doll se gira hacia la cámara.
+**¿Qué castigo recibe Marco?**
 
-—El perdedor del próximo desafío recibirá su primera modificación corporal.
+> **OPCIÓN A: "MUÑECA DE PORCELANA"** 🪆
+>
+> Piel de porcelana perfecta, sin un solo poro visible. Depilación permanente total — ni un vello jamás. Piel ultra sensible al tacto: cada caricia es éxtasis, cada roce de tela es tortura dulce. La sensibilidad no se apaga. Nunca.
+
+> **OPCIÓN B: "BOCA DE MUÑECA"** 💋
+>
+> Labios enormes, carnosos, hinchados como si hubiera besado una colmena. Permanentes — no bajan, no se deshinchan. Imposibles de cerrar completamente — siempre entreabiertos, siempre húmedos. Las palabras salen arrastradas, tontas, difíciles de formar. Diseñados para una sola cosa... y hablar no es esa cosa.
 
 ---
 
-### 🗳️ VOTACIÓN
+**[🔗 VOTA AQUÍ](https://strawpoll.com/2ayLQwqGen4)**
 
-**¿Qué castigo recibe el perdedor del Desafío Físico?**
-
-> A) **"Silicone Dreams"** — Crecimiento mamario. Copa A inicial.  
-> B) **"Wasp Waist"** — Reducción de cintura. 3 pulgadas menos.  
-> C) **"Voice Box"** — Voz aguda permanente.  
-> D) **"Doll Skin"** — Depilación total + piel hipersensible.
-
-**[VOTA EN STRAWPOLL: link]**
+---
 
 > [!IMPORTANT]
-> Tu voto decide el cuerpo del perdedor.
+> **TU VOTO DECIDE EL CUERPO DE MARCO.**
+>
+> El resultado se revelará en el Capítulo 3.
+> La modificación es PERMANENTE dentro de la historia.
+
+---
+
+Miss Doll levanta el control remoto, su dedo sobre el botón.
+
+—El *Glow* que corre por tus venas hará el resto. Los nanobots ya saben qué hacer... solo esperan la orden.
+
+Marco tiembla. Siente el calor bajo su piel. Los nanobots. Esperando. Listos para reescribir su cuerpo.
+
+—Voten sabiamente, mis amores. O mejor aún... —su sonrisa se ensancha— ...voten *cruelmente*.
+
+*FIN DEL CAPÍTULO 2*

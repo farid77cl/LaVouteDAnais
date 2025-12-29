@@ -268,7 +268,117 @@ Professional trio photography of THREE women in lingerie. ANAÏS (center, elevat
 
 ---
 
-## VIII. BIKINI SECTION (BONUS) 👙
+## VIII. EXPANDED HONEY BIRDETTE — ALL CHARACTERS 🍯
+
+### Helena - Additional HB Sets
+
+#### Helena - HB Kendra Set Black Velvet
+
+```text
+Professional gothic velvet photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair. Pale marble skin, dark cherry lips. Wearing HONEY BIRDETTE KENDRA SET in black velvet, soft cup bra with gold chain detail, matching thong, suspenders. Black overbust corset over set. PLEASER RAPTURE-1020 black velvet 8-inch boots. Lounging on black velvet daybed. Expression: decadent predator. Candlelit boudoir. Photorealistic 8k.
+```
+
+#### Helena - HB Colette Bodysuit Black Lace
+
+```text
+Professional romantic-gothic photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair cascading. Pale skin, wine lips. Wearing HONEY BIRDETTE COLETTE BODYSUIT in delicate black French lace, sheer panels, plunge front. Black mesh corset layered. PLEASER MOON-708 black lace 7-inch heel. Standing at antique vanity. Expression: gothic romance. Vintage bedroom. Photorealistic 8k.
+```
+
+#### Helena - HB Tempest Set Black/Silver
+
+```text
+Professional dramatic photography of elegant goth woman (Sacha Massacre reference). Wild voluminous black hair. Pale skin, silver metallic lips. Wearing HONEY BIRDETTE TEMPEST SET in black satin with silver hardware, structured bra with chains, high-waisted brief. Black overbust corset with silver boning. PLEASER FLAMINGO-1020 black/silver 8-inch boots. Storm backdrop. Expression: thunderous power. Dramatic lighting. Photorealistic 8k.
+```
+
+### Miss Doll - Additional HB Sets
+
+#### Miss Doll - HB Candy Set Hot Pink
+
+```text
+Professional candy-colored photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin, pink shimmer makeup. Wearing HONEY BIRDETTE CANDY SET in hot pink satin, soft cup bralette with bows, matching thong, cute charm details. Pink waist corset with rhinestones. PLEASER FLAMINGO-808 hot pink glitter 8-inch heel. Surrounded by pink balloons. Expression: birthday doll. Pink studio. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Bridget Set Baby Blue
+
+```text
+Professional sweet photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin, soft pink and blue makeup. Wearing HONEY BIRDETTE BRIDGET SET in baby blue satin with white lace trim, demi cup bra, French brief. Blue satin waist cincher. PLEASER ADORE-1020 baby blue patent 7-inch boots. Sitting on cloud-like white bed. Expression: dreamy innocence. Soft blue lighting. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Sia Set Lilac
+
+```text
+Professional spring photography of glamorous woman with platinum blonde bob, straight bangs. Glowing porcelain skin, lilac eyeshadow. Wearing HONEY BIRDETTE SIA SET in lilac mesh with floral appliqué, balconette bra, matching brief. Lilac corset belt. PLEASER FLAMINGO-808 lilac patent 8-inch heel. Garden setting. Expression: flower doll. Soft natural light. Photorealistic 8k.
+```
+
+### Anaïs - Additional HB Sets
+
+#### Anaïs - HB Lena Set Nude
+
+```text
+Professional sensual photography of elegant aristocratic woman with honey blonde hair in loose waves. Sultry expression, nude-rose lips. Wearing HONEY BIRDETTE LENA SET in nude mesh, barely-there bralette, matching thong, sheer as second skin. Nude waist cincher. PLEASER CLASSIQUE-20 nude patent 5-inch heel. Silk robe falling off. Expression: morning after. Soft bedroom light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Monroe Set Ivory
+
+```text
+Professional bridal photography of elegant aristocratic woman with honey blonde hair in vintage updo. Red lips, demure expression. Wearing HONEY BIRDETTE MONROE SET in ivory silk with vintage-inspired details, full cup bra, high-waisted brief, pearl embellishments. Ivory underbust corset. PLEASER CLASSIQUE-20 ivory satin 5-inch heel. Wedding suite. Expression: bridal elegance. Golden hour through curtains. Photorealistic 8k.
+```
+
+---
+
+## IX. EXPANDED AGENT PROVOCATEUR — ALL CHARACTERS 🔥
+
+### Helena - Additional AP Sets
+
+#### Helena - AP Phoebe Set Black
+
+```text
+Professional gothic-luxury photography of elegant goth woman (Sacha Massacre reference). Sleek voluminous black hair. Pale marble skin, black glossy lips. Wearing AGENT PROVOCATEUR PHOEBE SET in black silk with peek-a-boo details, quarter cup bra, suspender brief with intricate strapping. Black overbust corset. PLEASER RAPTURE-1020 black patent 8-inch boots. Luxury dungeon. Expression: dark mistress. Red and black lighting. Photorealistic 8k.
+```
+
+#### Helena - AP Carmella Set Scarlet
+
+```text
+Professional sensual photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair with red streaks. Pale skin, scarlet red lips matching set. Wearing AGENT PROVOCATEUR CARMELLA SET in SCARLET RED silk, plunge bra, matching thong with garter detail. Black corset with red lacing. PLEASER FLAMINGO-1020 red/black 8-inch boots. Velvet chaise. Expression: vampire seduction. Red ambient light. Photorealistic 8k.
+```
+
+#### Helena - AP Harlow Set Black Tulle
+
+```text
+Professional theatrical photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair styled dramatically. Pale skin, dark plum lips. Wearing AGENT PROVOCATEUR HARLOW SET in black tulle with velvet detailing, soft cup bra, high-waisted brief with architectural design. Black corset underneath. PLEASER MOON-708 black tulle 7-inch heel. Theatre dressing room. Expression: dark diva. Stage lighting. Photorealistic 8k.
+```
+
+### Miss Doll - Additional AP Sets
+
+#### Miss Doll - AP Whitney Set Blush
+
+```text
+Professional sweet-luxury photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin, pink tones. Wearing AGENT PROVOCATEUR WHITNEY SET in blush pink with cream lace overlay, soft cup bra, matching thong. Pink satin corset. PLEASER FLAMINGO-808 blush patent 8-inch heel. Luxury pink bathroom. Expression: bath time doll. Soft pink lighting. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Penelope Set Candy Pink
+
+```text
+Professional playful photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin, bubblegum pink makeup. Wearing AGENT PROVOCATEUR PENELOPE SET in candy pink, structured balconette with heart details, matching thong, playful aesthetic. Hot pink corset belt. PLEASER FLAMINGO-808 pink heart pattern 8-inch heel. Candy shop backdrop. Expression: sugar sweet. Neon pink lighting. Photorealistic 8k.
+```
+
+### Anaïs - Additional AP Sets
+
+#### Anaïs - AP Fenella Set Black/Gold
+
+```text
+Professional regal photography of elegant aristocratic woman with honey blonde hair in elegant chignon. Red lips, commanding expression. Wearing AGENT PROVOCATEUR FENELLA SET in black silk with gold thread embroidery, ornate balconette bra, matching suspender brief. Gold underbust corset. PLEASER AMUSE-20 black patent with gold tip 5-inch heel. Throne room setting. Expression: queen energy. Golden chandeliers. Photorealistic 8k.
+```
+
+#### Anaïs - AP Petunia Set Blush
+
+```text
+Professional romantic photography of elegant aristocratic woman with honey blonde hair in soft waves. Rose lips, knowing smile. Wearing AGENT PROVOCATEUR PETUNIA SET in dusty blush, vintage-inspired longline bra, matching knickers. Champagne corset belt. PLEASER CLASSIQUE-20 blush patent 5-inch heel. French boudoir. Expression: morning seduction. Soft golden light. Photorealistic 8k.
+```
+
+---
+
+## X. BIKINI SECTION EXPANDED 👙
 
 ### Beach Bunny - Helena
 
@@ -276,6 +386,12 @@ Professional trio photography of THREE women in lingerie. ANAÏS (center, elevat
 
 ```text
 Professional pool editorial photography of elegant goth woman (Sacha Massacre reference). Wet voluminous black hair slicked back. Pale skin glistening with water. Black glossy lips. Wearing BEACH BUNNY MIDNIGHT CHAIN BIKINI in black with gold chain connectors, triangle top with minimal coverage, string bottom with chain hip details. PLEASER FLAMINGO-808 black patent 8-inch heel (poolside). Emerging from infinity pool at night. Expression: night predator. Luxury villa pool. Photorealistic 8k.
+```
+
+#### Helena - BB Gunmetal Glam
+
+```text
+Professional dark beach photography of elegant goth woman (Sacha Massacre reference). Wet black hair. Pale skin contrasting with metallic. Wearing BEACH BUNNY GUNMETAL METALLIC BIKINI in dark grey metallic, triangle top, low-rise bottom with chain sides. Black stilettos 8-inch in sand. Expression: storm approaching. Overcast beach. Photorealistic 8k.
 ```
 
 ### Triangl - Miss Doll
@@ -286,12 +402,64 @@ Professional pool editorial photography of elegant goth woman (Sacha Massacre re
 Professional beach photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin with SPF glow, pink shimmer lip. Wearing TRIANGL BIKINI SET in pastel pink neoprene, sporty triangle top, high-cut bottom, signature thick elastic band. Pink flower behind ear. PLEASER FLAMINGO-808 clear 8-inch heel (posing). Lying on white sand, legs up. Expression: beach doll perfection. Tropical beach. Photorealistic 8k.
 ```
 
+#### Miss Doll - Triangl Cotton Candy
+
+```text
+Professional colorful beach photography of glamorous woman with platinum blonde bob. Porcelain skin, pink glow. Wearing TRIANGL CANDY COLLECTION BIKINI in multi-pastel gradient (pink, blue, lilac). Sporty cut. Clear platform sandals 7-inch. Pink float in pool behind. Expression: pool party ready. Bright daylight. Photorealistic 8k.
+```
+
+#### Miss Doll - Triangl Neon Coral
+
+```text
+Professional tropical photography of glamorous woman with platinum blonde bob. Porcelain skin with coral highlight. Wearing TRIANGL NEON CORAL BIKINI in electric coral neoprene. High-waisted bottom. Orange platform sandals 7-inch. Tropical cocktail. Expression: island vibes. Palm tree shadows. Photorealistic 8k.
+```
+
 ### Beach Bunny - Anaïs
 
 #### Anaïs - BB La Bohème One Piece
 
 ```text
 Professional resort photography of elegant aristocratic woman with honey blonde hair in beach waves. Bronze skin with elegant tan, red lips. Wearing BEACH BUNNY LA BOHÈME ONE PIECE in burgundy, deep plunge front with gold hardware, high-cut legs, sophisticated cut-outs. Gold body chain jewelry. PLEASER AMUSE-20 nude 5-inch heel (cabana). Lounging on yacht deck with champagne. Expression: Mediterranean goddess. Yacht at sunset. Photorealistic 8k.
+```
+
+#### Anaïs - BB White Gold
+
+```text
+Professional luxury beach photography of elegant aristocratic woman with honey blonde hair in beach waves. Bronze goddess skin. Wearing BEACH BUNNY WHITE GOLD BIKINI in white with gold chain details, plunge top, ruched bottom. Gold body chain. Nude So Kate 5-inch sandal. White cabana. Expression: Riviera queen. Golden hour. Photorealistic 8k.
+```
+
+#### Anaïs - BB Champagne Toast
+
+```text
+Professional celebration photography of elegant aristocratic woman with honey blonde hair wet. Bronze skin glistening. Wearing BEACH BUNNY CHAMPAGNE SHIMMER BIKINI in champagne gold metallic. Luxe triangle top, string bottom. Gold strappy heels 5-inch. Champagne bottle popping. Expression: celebration goddess. Beach sunset party. Photorealistic 8k.
+```
+
+---
+
+## XI. ADDITIONAL DUO & TRIO PROMPTS 👯
+
+### Helena + Miss Doll - Lingerie Contrast
+
+```text
+Professional duo photography. HELENA: Sacha Massacre reference, black hair, pale skin, wearing HONEY BIRDETTE MADAME X SET black/red, black corset, PLEASER RAPTURE-1020 black 8-inch boots, seated dominantly. MISS DOLL: platinum bob, porcelain skin, wearing HONEY BIRDETTE CELINE SET pink satin, pink corset, PLEASER FLAMINGO-808 pink 8-inch, kneeling at Helena's feet. Expression: dark and light worship. Dark boudoir with pink accents. Photorealistic 8k.
+```
+
+### Anaïs + Helena - Power Exchange
+
+```text
+Professional BDSM-elegant duo photography. ANAÏS: honey blonde updo, bronze skin, wearing AGENT PROVOCATEUR PALOMA SET wine, gold corset, gold heels 5-inch, seated on throne holding riding crop. HELENA: black hair, pale skin, wearing AGENT PROVOCATEUR MERCY SET black leather, black corset, black boots 8-inch, standing behind throne as enforcer. Expression: hierarchy. Mansion library. Photorealistic 8k.
+```
+
+### All Three - La Voûte Boudoir
+
+```text
+Professional trio lingerie photography. ANAÏS (center, elevated): honey blonde waves, bronze skin, wearing AGENT PROVOCATEUR ESSIE SET ivory, pearl choker, ivory heels 5-inch, seated on throne. HELENA (left): voluminous black hair, pale skin, wearing HONEY BIRDETTE KUKURO HARNESS black, black corset, black boots 8-inch, standing devoted. MISS DOLL (right): platinum bob, porcelain skin, wearing HONEY BIRDETTE CELINE SET pink, pink corset, pink platforms 8-inch, kneeling eager. La Voûte boudoir with velvet and candles. Photorealistic 8k.
+```
+
+### Helena + Miss Doll - Beach Contrast
+
+```text
+Professional beach duo photography. HELENA: wet black hair, pale skin in shade, wearing BEACH BUNNY GUNMETAL BIKINI, black stilettos in sand. MISS DOLL: platinum bob, SPF-white skin, wearing TRIANGL PINK BIKINI, clear platforms. Both emerging from same wave. Expression: night and day. Sunset beach. Photorealistic 8k.
 ```
 
 ---
@@ -309,7 +477,8 @@ Professional resort photography of elegant aristocratic woman with honey blonde 
 
 ---
 
-*Creado por: Helena de Anaïs - V7 Luxury Lingerie Edition 🖤💖👑*
+*Creado por: Helena de Anaïs - V7.1 Luxury Lingerie Edition 🖤💖👑*
 *Marcas: Honey Birdette, Agent Provocateur*
 *Bikinis: Beach Bunny, Triangl*
 *PLEASER Heels throughout*
+*Total: 55+ prompts | Actualizado: 2025-12-29*

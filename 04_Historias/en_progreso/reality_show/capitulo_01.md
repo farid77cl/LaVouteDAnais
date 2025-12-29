@@ -1,6 +1,10 @@
-# The Dollhouse — Episodio 1: El Ingreso
+# The Dollhouse: Pierde y Serás Bimbo
 
-La pantalla parpadea con una estática rosa neón antes de estabilizarse en una imagen de ultra alta definición. El mundo real desaparece; solo existe *The Dollhouse*.
+## Episodio 1: El Ingreso
+
+> *Un reality show donde dos hombres compiten por su masculinidad. Cada error activa los nanobots en su sangre. Cada derrota transforma su cuerpo. El ganador sale libre. El perdedor... sale bimbo. INTERACTIVO: El público vota los castigos.*
+
+--- con una estática rosa neón antes de estabilizarse en una imagen de ultra alta definición. El mundo real desaparece; solo existe *The Dollhouse*.
 
 El set es una catedral de superficies reflectantes y luz artificial sin sombras. El suelo, un espejo negro infinito, duplica cada detalle. Las paredes son curvas, pantallas LED de 8K que proyectan un cielo de nubes de algodón de azúcar en movimiento constante, creando una sensación de vértigo dulce y asfixiante.
 

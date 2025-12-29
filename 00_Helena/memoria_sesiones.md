@@ -103,7 +103,11 @@
 ### 📝 Tareas Pendientes
 
 - [ ] **Votación Reality Cap 1** (Prioridad Alta)
-- [ ] Imágenes Look 12-19 Helena (servidor sin capacidad)
+- [/] **Poses Completas Look 8-13 Helena:**
+  - ✅ Look 8 Esmeralda: 5/5 poses
+  - ✅ Look 9 Corazón: 5/5 poses  
+  - 🔄 Look 10 Zafiro: 2/5 (Standing, Seated)
+  - ⏳ Look 11-13: 15 imágenes pendientes (quota reset ~18:56 UTC-3)
 - [ ] Finalizar "El Reencuentro"
 - [ ] Monetización: Patreon/SubscribeStar
 - [ ] Cómic El Collar de Nancy: páginas 5-12
@@ -131,6 +135,19 @@
 
 - **V1:** `banco_prompts.md` — Histórico personal
 - **V2:** `banco_prompts_v2.md` — 215+ prompts activos
+- **V6:** `banco_prompts_v6.md` — Fashion Nova/Oh Polly (58 prompts)
+- **V7:** `banco_prompts_v7.md` — Luxury Lingerie (55+ prompts)
+- **V8:** `banco_prompts_v8_rostros.md` — Rostros & Maquillaje (55 prompts)
+- **V9:** `banco_prompts_v9_libidex_honour.md` — Libidex & Honour PVC (50 prompts)
+- **V10:** `banco_prompts_v10_bdsm.md` — BDSM Dungeon (50 prompts)
+- **V11:** `banco_prompts_v11_office.md` — Office Power (50 prompts)
+- **V13:** `banco_prompts_v13_maid.md` — Maid Service (50 prompts)
+- **V14:** `banco_prompts_v14_heels.md` — Pleaser Heels Focus (50 prompts)
+- **V15:** `banco_prompts_v15_vex.md` — Vex Clothing (50 prompts)
+- **V16:** `banco_prompts_v16_corsets.md` — Dark Garden Corsets (50 prompts)
+- **V17:** `banco_prompts_v17_pov.md` — POV Collection (50 prompts)
+- **V18:** `banco_prompts_v18_pole.md` — Pole Wear (50 prompts)
+- **V19:** `banco_prompts_v19_gym.md` — Gym & Fitness (50 prompts)
 
 ---
 
