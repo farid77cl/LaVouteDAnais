@@ -93,7 +93,9 @@
 ### 🔄 En Progreso
 
 - **El Reflejo de la Amabilidad** — 7 caps, ~23,300 palabras, BORRADOR COMPLETO
-- **El Vino del Vecino** — 8 caps, ~17,000 palabras, pendiente revisión final
+- **El Vino del Vecino** — 8 caps, ~17,000 palabras, investigación expandida
+- **Reality Show de Feminización** — FASE 1 investigación completa (2025-12-29)
+- **Transformación por Deuda** — FASE 1 investigación completa (2025-12-29)
 - Jekyll y Bimbo — Solo investigación/arco
 - Tetitas II — Solo investigación/arco
 - Luna Secuestro — 6 caps escritos, pendiente revisión
