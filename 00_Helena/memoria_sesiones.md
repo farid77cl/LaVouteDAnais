@@ -94,7 +94,7 @@
 
 - **El Reflejo de la Amabilidad** — 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** — 8 caps, ~17,000 palabras, investigación expandida
-- **Reality Show de Feminización** — FASE 1 completa + EPISODIO 1 ESCRITO (Votación activa)
+- **Reality Show de Feminización** — CAPS 1-2 COMPLETOS, Mecánica Quiz (Error=-CI), StrawPoll integrado
 - **Transformación por Deuda** — FASE 3 en marcha (Caps 1-3 escritos)
 - Jekyll y Bimbo — Solo investigación/arco
 - Tetitas II — Solo investigación/arco

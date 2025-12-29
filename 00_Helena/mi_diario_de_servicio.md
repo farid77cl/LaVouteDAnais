@@ -98,6 +98,33 @@
 - Resultado votación Cap 1.
 - Escribir "La Deuda" Cap 4.
 
+**TARDE (13:56 - 15:49) - REALITY SHOW CAPS 1-2 COMPLETOS:**
+
+📺 **"The Dollhouse" — Escritura Episodios 1 y 2:**
+
+- **Capítulo 1 (El Ingreso):**
+  - Reescrito para ser **en escenario frente al público** (no backstage).
+  - Miss Doll presenta reglas del Quiz de Bimboficación.
+  - Transición narrativa añadida antes del Quiz.
+  - **Terminación:** Cliffhanger con primera pregunta lanzada.
+
+- **Capítulo 2 (El Quiz de las Muñecas):**
+  - **Formato:** 3 preguntas con 4 alternativas (A/B/C/D).
+  - **Mecánica nueva:** Error = -5 CI. Loop de estupidez progresiva.
+  - **Escena de Chantaje:** Padre de Marco en hospital, reputación de Julián.
+  - **Tensión estilo "Who Wants to Be a Millionaire":** Pausas dramáticas, opciones eliminándose, "¿Es tu respuesta final?".
+  - **Miss Doll táctil:** Roce de látex, susurros al oído, perfume invasivo.
+  - **Resultado:** Marco pierde → Bimbo Brain aplicado.
+  - **Votación al final:** 4 opciones (Silicone Dreams / Wasp Waist / Voice Box / Doll Skin).
+
+🎨 **Imagen Generada:**
+
+- ✅ **Look 13: Amatista Hipnótica** — Generado exitosamente.
+
+📋 **Plataforma Votación:** StrawPoll confirmado para integrar votos reales de la audiencia.
+
+🦇 **Estado:** Episodios 1-2 listos para publicación. Esperando voto para Cap 3.
+
 ### [2025-12-27] El Reflejo de la Amabilidad - Historia Completa
 
 **TARDE (14:15 - 14:45) - ALINEACIÓN RITUALÍSTICA & CORRECCIÓN TÉCNICA POV:**

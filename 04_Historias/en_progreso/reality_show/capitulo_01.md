@@ -46,20 +46,26 @@ Marco la ignora, cruzando sus brazos tatuados. Los tribales negros se deforman s
 
 La tensión vibra en el aire estéril. Clase contra fuerza. Intelecto contra instinto. Dos formas de masculinidad tóxica a punto de colisionar.
 
-Antes de que puedan hablar más, la pared de espejo frente a ellos emite un zumbido grave y se desliza hacia arriba, revelando el santuario interior: **El Laboratorio**.
+Antes de que puedan hablar más, una fanfarria electrónica explota desde los altavoces. Las paredes de espejo se deslizan hacia los lados, revelando que estaban parados *en el escenario principal todo el tiempo*. Miles de pantallas LED cobran vida, mostrando rostros de espectadores virtuales: avatares de todo el mundo, sonriendo, abucheando, aplaudiendo en tiempo real.
 
----
+**El set de The Dollhouse se extiende ante ellos como una catedral del espectáculo.**
 
-El olor aquí es distinto. Ozono, látex caliente y algo dulce... como éter de fresa.
+En el centro del escenario, bajo un cañón de luz rosa, está **El Laboratorio** — una plataforma clínica elevada visible desde todos los ángulos. No hay privacidad. No hay secretos. Todo lo que les hagan será transmitido a millones de voyeurs.
 
-Miss Doll los espera sentada en una silla clínica futurista, tapizada en terciopelo rosa. Sus piernas kilométricas están cruzadas, el tacón de acrílico oscilando hipnóticamente. Dos "Enfermeras" —modelos anónimas con máscaras de látex lisas, sin rostro— flanquean la entrada, sosteniendo inyectores neumáticos cromados.
+El olor aquí es el mismo que en todo el estudio: ozono, látex caliente y algo dulce... como éter de fresa mezclado con perfume barato de celebridad.
 
-—Adelante, chicos —dice Miss Doll. La acústica de la sala hace que su voz parezca venir de dentro de sus cabezas—. No sean tímidos.
+Miss Doll los espera sentada en una silla clínica futurista, tapizada en terciopelo rosa, *girando lentamente para que las cámaras capturen cada ángulo*. Sus piernas kilométricas están cruzadas, el tacón de acrílico oscilando hipnóticamente. Dos "Enfermeras" —modelos anónimas con máscaras de látex lisas, sin rostro— flanquean los lados del escenario, sosteniendo inyectores neumáticos cromados.
 
-Ambos caminan hacia ella. La escala es humillante: Miss Doll, en sus plataformas, se eleva sobre ellos como una estatua de adoración pagana.
+—¡DAMAS Y CABALLEROS Y TODOS LOS DEMÁS! —grita Miss Doll al público virtual, abriendo los brazos—. ¡Nuestros concursantes han llegado al escenario! ¡Démosles la bienvenida que merecen!
 
-—Antes de empezar, necesitamos una pequeña... formalidad.
-Chasquea los dedos, el sonido del látex de sus guantes rozando es obscenamente fuerte en el silencio. Las enfermeras avanzan.
+El rugido de aplausos digitales es ensordecedor. Emojis de corazón y calavera llueven en las pantallas.
+
+—Adelante, chicos —dice Miss Doll, bajando la voz a un ronroneo íntimo que de alguna forma los micrófonos amplifican a toda la arena—. No sean tímidos. *El mundo los está mirando.*
+
+Ambos caminan hacia ella, conscientes de cada cámara flotante que los sigue. La escala es humillante: Miss Doll, en sus plataformas, se eleva sobre ellos como una estatua de adoración pagana, y detrás de ella, pantallas de 50 metros muestran sus rostros sudorosos en alta definición.
+
+—Antes de empezar, necesitamos una pequeña... formalidad. —Miss Doll mira directamente a la cámara principal, cómplice—. Audiencia, presten atención. Esto es lo que firmaron.
+Chasquea los dedos, el sonido del látex de sus guantes rozando es obscenamente fuerte en los monitores. Las enfermeras avanzan bajo los reflectores.
 
 —¿Qué es esto? —Julián retrocede, su compostura flaqueando por primera vez. Mira el inyector cromado, sin aguja, solo una punta plana de presión—. Mi abogado revisó el contrato. No decía nada de drogas.
 
@@ -81,37 +87,51 @@ La enfermera presiona el metal frío contra su deltoides. *PSSHH*. El sonido de 
 Julián, acorralado por su propio ego, no puede ser menos. Se quita el saco lentamente, dobla la manga de seda con precisión quirúrgica, y ofrece su brazo pálido y tonificado de gimnasio caro.
 —Espero que esté esterilizado.
 
-*PSSHH*.
-
 Julián jadea, sorprendido por el dolor punzante, una avispa metálica mordiéndole la piel.
 
 —¡Fantástico! —Miss Doll aplaude, y las luces de sus botas entran en frenesí—. Ahora la diversión empieza de verdad. Sentirán calor... una picazón deliciosa bajo la piel... tal vez un deseo incontrolable de comprar zapatos. Lo normal.
 
-Se levanta, caminando en círculos alrededor de ellos. El sonido de sus plataformas contra el suelo de espejo es un metrónomo de fatalidad. *Clack. Clack. Clack.*
+---
 
-—Esta semana es la semana de **Depuración**. Nada de vello. Nada de ropa masculina sucia. Pero... soy una diosa generosa. Les dejaré conservar *una* prenda masculina por esta noche. Para que tengan algo a lo que aferrarse mientras lloran la pérdida de su virilidad.
+Una hora después, cuando el ardor en sus venas se había convertido en un zumbido sordo y constante, las luces del Laboratorio se apagaron. La oscuridad duró tres latidos. Luego, el mundo cambió.
 
-Se gira hacia la pantalla gigante.
+## ESCENA 5: Las Reglas del Juego (El Quiz de Bimboficación)
 
-—**AUDIENCIA, ES HORA DE VOTAR.**
+La iluminación del estudio cambia a un rojo de alerta máxima. Barras de luz descienden del techo, formando una jaula virtual alrededor de los dos hombres.
 
-Rompe la cuarta pared, su dedo enguantado apuntando directamente a tu alma.
+Dos podios emergen del suelo. No son simples mesas; son estaciones de acoplamiento.
 
-—Tenemos dos camas en el *Boudoir*. Una es una cama King Size con sábanas de seda egipcia, suave como un beso. La otra... es la jaula del perro, en el suelo frío.
+—Bienvenidos a su nueva realidad —anuncia Miss Doll, caminando entre ellos como una depredadora—. Esto no es un concurso de popularidad. Es un **Quiz de Resistencia Cognitiva**.
 
-Sus labios rojos se curvan en una sonrisa cruel.
+Señala los marcadores digitales sobre sus cabezas. Ambos están en CERO.
+—La dinámica es simple, mis mascotas:
+—Jugaremos por **Bloques de Preguntas** (Cultura, Lógica, Memoria).
+—Cada respuesta correcta suma puntos.
+—Al final del bloque, quien tenga menos puntos... **PIERDE**.
 
-—¿Quién merece dormir en la Jaula esta primera noche?
+Miss Doll hace una pausa dramática, dejando que la palabra flote en el aire helado del set.
+
+—Y en *The Dollhouse*, perder no significa irse a casa. Significa... *evolucionar*. El perdedor se somete inmediatamente a una **Mejora Estética Correctiva** elegida por nuestros amados voyeurs.
+
+Julián se aferra al podio. —¿Qué significa eso? ¿Cirugía?
+—Significa evolución, cariño. O involución. Depende de cómo lo mires. —Miss Doll sonríe, y es aterrador—. Podemos borrar tus arrugas... o borrar tu capacidad para hacer divisiones largas.
+
+Se gira hacia la cámara principal, sus ojos brillando con malicia digital.
+
+—El Primer Bloque comienza... **ahora**.
+
+Miss Doll chasquea los dedos. Los podios se iluminan. Los marcadores digitales parpadean en CERO.
+
+Julián y Marco intercambian una mirada. Por primera vez, hay algo parecido al miedo en los ojos de ambos.
+
+—Primera categoría: **Cultura General de Belleza**. —Miss Doll levanta una tarjeta rosa brillante—. Cosas que cualquier chica debería saber.
+
+Sonríe.
+
+—Veamos si ustedes las saben.
 
 ---
 
-### 🗳️ LA VOTACIÓN ESTÁ ABIERTA
-
-**¿Quién debe ser humillado primero?**
-
-* **A) Julián ("El Príncipe"):** El arrogante necesita aprender su lugar desde el suelo.
-* **B) Marco ("El Toro"):** La bestia debe ser enjaulada para ser domada.
-
-> [!IMPORTANT]
-> **TU VOTO DECIDE:**
-> *La decisión definirá quién empieza su transformación desde la sumisión absoluta en el próximo episodio.*
+> [!NOTE]
+> **CONTINUARÁ EN EL EPISODIO 2...**
+> *El Quiz de las Muñecas está a punto de comenzar. ¿Quién caerá primero?*
