@@ -90,6 +90,103 @@
 5. Back View
 6. Ditzy Bimbo
 
+### 🎭 LOOKS TEMÁTICOS DIARIOS (13-19)
+
+> [!NOTE]
+> **Looks de fantasía/profesión para rotación diaria. Todos mantienen el canon Helena.**
+
+#### Look 13: Secretaria del Infierno 🖤📎
+
+**Concepto:** Secretaria corporativa gótica ultra-ajustada
+**Outfit:**
+
+- Falda lápiz negra ULTRA ceñida hasta la rodilla con abertura trasera
+- Blusa de satín negro transparente con corsé visible debajo
+- Gafas de montura negra gruesa
+- Cabello recogido en moño severo con mechones sueltos
+- PLEASER CLASSIQUE 20 negro 5-inch stiletto
+- Collar choker con colgante de llave
+**Ambiente:** Oficina de CEO con escritorio de caoba
+
+#### Look 14: Colegial Oscura 🖤📚
+
+**Concepto:** Versión gótica pervertida del uniforme escolar
+**Outfit:**
+
+- Microfalda plisada tartán gris/negro EXTREMADAMENTE corta
+- Camisa blanca anudada bajo el busto, vientre expuesto
+- Corbata negra aflojada
+- Medias altas negras con liguero visible
+- PLEASER SEDUCE-420 negro patent 5-inch Mary Jane
+- Mochila de cuero negro con tachuelas
+**Ambiente:** Biblioteca antigua con libros polvorientos
+
+#### Look 15: Cheerleader Vampira 🖤🎀
+
+**Concepto:** Porrista gótica con uniforme negro ajustado
+**Outfit:**
+
+- Top de cheerleader negro con ribetes rojos, ultra ajustado
+- Minifalda negra con pliegues rojos, apenas cubre
+- Pompones negros/rojos
+- Zapatos de plataforma PLEASER DELIGHT-660 rojo/negro 6-inch
+- Coletas altas con lazos rojos
+- Maquillaje oscuro con glitter negro
+**Ambiente:** Estadio nocturno bajo luces de neón
+
+#### Look 16: Sirena de Piscina Nocturna 🖤🌊
+
+**Concepto:** Gótica sensual en bikini oscuro junto a piscina
+**Outfit:**
+
+- Bikini de látex negro brillante, triángulo mínimo
+- Cadenas corporales plateadas cruzando torso
+- Pareo negro transparente que no oculta nada
+- Cabello mojado y despeinado
+- PLEASER ADORE-1018C clear 8-inch platform (al borde de piscina)
+- Labios negros brillantes
+**Ambiente:** Piscina infinity nocturna con luces underwater
+
+#### Look 17: Enfermera del Dolor 🖤💉
+
+**Concepto:** Enfermera fetish gótica con uniforme ultra corto
+**Outfit:**
+
+- Vestido de enfermera blanco PVC ultra corto y ajustado
+- Cruz roja invertida en pecho
+- Corsé negro encima del vestido
+- Medias blancas de red con liguero negro
+- PLEASER DELIGHT-3000 blanco/negro 6-inch thigh boots
+- Cofia de enfermera negra con cruz invertida
+**Ambiente:** Sala médica gótica con instrumentos vintage
+
+#### Look 18: Profesora Corruptora 🖤🍎
+
+**Concepto:** Profesora con outfit que distrae deliberadamente
+**Outfit:**
+
+- Vestido lápiz gris oscuro EXTREMADAMENTE ajustado
+- Escote profundo con corsé negro visible
+- Gafas de lectura en la punta de la nariz
+- Cabello en moño desordenado con lápices
+- PLEASER SO KATE estilo 5-inch negro brillante
+- Puntero largo de madera (fetish prop)
+**Ambiente:** Aula vacía con pizarra antigua
+
+#### Look 19: Sirvienta Devota 🖤🪶
+
+**Concepto:** French maid fetish gótico extremo
+**Outfit:**
+
+- Vestido de maid negro látex ultra corto con delantal blanco mínimo
+- Corsé underbust negro ajustadísimo
+- Cofia blanca con encaje negro
+- Medias negras de encaje con costura trasera
+- PLEASER XTREME-809 negro 8-inch platform
+- Plumero negro
+- Collar con etiqueta "PROPERTY OF ANAÏS"
+**Ambiente:** Mansión gótica, limpiando candelabros
+
 ---
 
 ## 📷 Reglas de Generación
