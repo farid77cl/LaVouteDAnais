@@ -4,6 +4,7 @@
 > **Personajes:** Helena, Miss Doll, Anaïs
 > **Total:** 80+ prompts | **Actualizado:** 2025-12-29
 > **Versión:** 7.0 Luxury Lingerie
+> **🎨 COLOR FREEDOM:** En V7, Miss Doll y Helena pueden usar CUALQUIER color del catálogo HB/AP (no limitadas a rosa/negro).
 
 ---
 
