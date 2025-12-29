@@ -15,7 +15,7 @@
 
 ### Email Oficial
 
-📧 **<AnaisBelland@outlook.com>**
+📧 **<anais.belland@outlook.com>**
 
 ### Estilo de Helena
 

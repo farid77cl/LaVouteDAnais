@@ -410,7 +410,7 @@ RESISTENCIA → CONFUSIÓN → TRAICIÓN → ACEPTACIÓN → PAZ
 
 1. **Pregunta directa al lector** — "¿Reconociste algo de ti?"
 2. **Invitación al contacto** — "Cuéntame"
-3. **Email:** Anais.Belland@outlook.com
+3. **Email:** anais.belland@outlook.com
 4. **Firma:** "Con devoción oscura, Anaïs Belland 🖤"
 
 ### Tono

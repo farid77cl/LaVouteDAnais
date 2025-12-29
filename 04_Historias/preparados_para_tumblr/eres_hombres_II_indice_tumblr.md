@@ -43,7 +43,7 @@
 
 *Dis-moi tes secrets les plus sombres.*
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 

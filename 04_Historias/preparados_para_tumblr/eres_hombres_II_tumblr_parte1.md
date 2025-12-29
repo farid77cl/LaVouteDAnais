@@ -41,7 +41,7 @@ Y un nombre que aparecía una y otra vez, siempre en susurros digitales.
 
 ---
 
-📧 **¿Te gustó?** Escríbeme: AnaisBelland@outlook.com
+📧 **¿Te gustó?** Escríbeme: anais.belland@outlook.com
 
 *Avec dévotion obscure,*
 **Anaïs Belland**

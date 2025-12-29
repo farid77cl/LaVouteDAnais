@@ -23,7 +23,7 @@ Capítulo 1 disponible ahora. Próximas partes cada dos días.
 *Con devoción oscura,*
 *Anaïs Belland*
 
-📧 contacto@anaisbelland.com
+📧 anais.belland@outlook.com
 
 ---
 

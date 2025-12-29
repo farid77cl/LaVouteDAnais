@@ -1206,7 +1206,7 @@ La historia de Mario y Nancy es una pregunta incómoda: ¿cuánto de nosotros mi
 
 *Raconte-moi tes désirs plastiques.*
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 *Avec dévotion obscure,*
 **Anaïs Belland**

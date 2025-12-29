@@ -116,7 +116,7 @@ Recuerde: Una muñeca feliz es una muñeca útil. Manténgala guapa, manténgala
 
 Si esta historia resonó en ti, si te descubriste deseando estar en el lugar de Vera, o si simplemente quieres compartir tus impresiones sobre esta transformación... mi buzón está abierto.
 
-**Escríbeme:** anaisbelland@proton.me
+**Escríbeme:** anais.belland@outlook.com
 
 *Con devoción oscura,*  
 **Anaïs Belland**

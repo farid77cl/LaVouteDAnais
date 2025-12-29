@@ -27,7 +27,7 @@
 - Hipnosis y reprogramación
 
 ### Contacto
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 

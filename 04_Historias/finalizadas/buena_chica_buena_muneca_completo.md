@@ -54,7 +54,7 @@ Si esta historia despertó algo en ti — el hambre de rendirte, el miedo de dis
 
 *Dis-moi ce que tu désires vraiment.*
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 *Avec dévotion obscure,*
 **Anaïs Belland**

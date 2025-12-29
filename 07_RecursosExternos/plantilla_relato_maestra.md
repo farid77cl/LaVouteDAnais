@@ -87,7 +87,7 @@ el deseo secreto de rendirte — quiero saberlo.
 
 *Dis-moi tes secrets les plus sombres.*
 
-📧 AnaisBelland@outlook.com"]
+📧 anais.belland@outlook.com"]
 
 [ESCRIBE AQUÍ TU NOTA PERSONALIZADA PARA ESTE RELATO:]
 

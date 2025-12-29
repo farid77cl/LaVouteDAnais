@@ -117,4 +117,4 @@
 
 ---
 
-*© Anaïs Belland | La Voûte d'Anaïs | AnaisBelland@outlook.com*
+*© Anaïs Belland | La Voûte d'Anaïs | anais.belland@outlook.com*

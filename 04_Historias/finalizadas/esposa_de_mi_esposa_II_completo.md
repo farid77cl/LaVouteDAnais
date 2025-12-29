@@ -1,210 +1,210 @@
-ï»¿â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                        ESPOSA DE MI ESPOSA II                                â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
++------------------------------------------------------------------------------+
+¦                        ESPOSA DE MI ESPOSA II                                ¦
++------------------------------------------------------------------------------+
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚ METADATOS DEL RELATO                                                        â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-----------------------------------------------------------------------------+
+¦ METADATOS DEL RELATO                                                        ¦
++-----------------------------------------------------------------------------+
 
-**TemÃ¡ticas:** #BodySwap #ForcedFeminization #Femdom #TrophyWife #Humiliation #Piercings #Submission #LoveInD/s
+**Temáticas:** #BodySwap #ForcedFeminization #Femdom #TrophyWife #Humiliation #Piercings #Submission #LoveInD/s
 
 **Palabras:** ~17,329
 
-**Perspectiva:** Tercera Persona (focalizaciÃ³n en Marco)
+**Perspectiva:** Tercera Persona (focalización en Marco)
 
 **Intensidad:** Extrema
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚ RESUMEN GANCHO                                                              â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-----------------------------------------------------------------------------+
+¦ RESUMEN GANCHO                                                              ¦
++-----------------------------------------------------------------------------+
 
-La noche de bodas, Marco despierta en el cuerpo de su esposa. Elena, ahora en el suyo, no tiene intenciÃ³n de volver. Piercings, tacones imposibles y la mirada hambrienta de otro hombre lo llevarÃ¡n a descubrir que la rendiciÃ³n total puede ser el Ãºnico camino hacia el amor verdadero.
+La noche de bodas, Marco despierta en el cuerpo de su esposa. Elena, ahora en el suyo, no tiene intención de volver. Piercings, tacones imposibles y la mirada hambrienta de otro hombre lo llevarán a descubrir que la rendición total puede ser el único camino hacia el amor verdadero.
 
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-------------------------------------------------------------------------------
                               CUERPO DEL RELATO
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-------------------------------------------------------------------------------
 
-El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiraciÃ³n agitada de Marco.
+El silencio en la suite nupcial era absoluto, solo roto por el zumbido del aire acondicionado y la respiración agitada de Marco.
 
 O lo que ahora era Marco.
 
-Se miraba las manos â€”manos pequeÃ±as, manicuradas, con un anillo de diamantes en el dedo anularâ€” y luego miraba al hombre sentado frente a Ã©l. El hombre que tenÃ­a su cara, sus hombros, sus manos.
+Se miraba las manos —manos pequeñas, manicuradas, con un anillo de diamantes en el dedo anular— y luego miraba al hombre sentado frente a él. El hombre que tenía su cara, sus hombros, sus manos.
 
-â€”No... no puede ser â€”susurrÃ³ Marco, y su voz fue ese tono suave y femenino que odiabaâ€”. Tenemos que ir al hospital. O a la policÃ­a. O...
+—No... no puede ser —susurró Marco, y su voz fue ese tono suave y femenino que odiaba—. Tenemos que ir al hospital. O a la policía. O...
 
-â€”Â¿Y decirles quÃ©? â€”La voz de Elena era grave, tranquila, terrorÃ­ficamente suyaâ€”. Â¿"Hola, oficial, mi esposo y yo cambiamos de cuerpo mÃ¡gicamente durante la noche de bodas"? Nos encerrarÃ­an en un psiquiÃ¡trico, Marco. A los dos.
+—¿Y decirles qué? —La voz de Elena era grave, tranquila, terroríficamente suya—. ¿"Hola, oficial, mi esposo y yo cambiamos de cuerpo mágicamente durante la noche de bodas"? Nos encerrarían en un psiquiátrico, Marco. A los dos.
 
-Elena se levantÃ³ y caminÃ³ hacia el espejo. Se tocÃ³ la cara â€”la cara de Marcoâ€” con una fascinaciÃ³n narcisista. Se pasÃ³ la mano por el pecho, por los abdominales, y luego bajÃ³ hacia la entrepierna, ajustÃ¡ndose el bulto que ahora tenÃ­a allÃ­.
+Elena se levantó y caminó hacia el espejo. Se tocó la cara —la cara de Marco— con una fascinación narcisista. Se pasó la mano por el pecho, por los abdominales, y luego bajó hacia la entrepierna, ajustándose el bulto que ahora tenía allí.
 
-â€”AdemÃ¡s... â€”Elena sonriÃ³, y fue una sonrisa que Marco nunca habÃ­a visto en su propia caraâ€”, no estoy segura de querer arreglarlo.
+—Además... —Elena sonrió, y fue una sonrisa que Marco nunca había visto en su propia cara—, no estoy segura de querer arreglarlo.
 
-â€”Â¿QuÃ©? â€”Marco sintiÃ³ un frÃ­o helado en el estÃ³magoâ€”. Â¿De quÃ© estÃ¡s hablando? Â¡Tenemos que volver! Â¡Yo tengo una empresa! Â¡Tengo una vida!
+—¿Qué? —Marco sintió un frío helado en el estómago—. ¿De qué estás hablando? ¡Tenemos que volver! ¡Yo tengo una empresa! ¡Tengo una vida!
 
-â€”TenÃ­amos una vida â€”corrigiÃ³ Elenaâ€”. Y ahora tenemos otra.
+—Teníamos una vida —corrigió Elena—. Y ahora tenemos otra.
 
-Se girÃ³ hacia Marco, irradiando una autoridad nueva, amplificada por la testosterona que ahora corrÃ­a por sus venas.
+Se giró hacia Marco, irradiando una autoridad nueva, amplificada por la testosterona que ahora corría por sus venas.
 
-â€”EscÃºchame bien, Marco. Nadie nos va a creer. Nadie va a entenderlo. La Ãºnica opciÃ³n que tenemos es seguir adelante. Vamos a ir a nuestra luna de miel. Vamos a sonreÃ­r. Vamos a fingir que somos la pareja perfecta que todos creen que somos.
+—Escúchame bien, Marco. Nadie nos va a creer. Nadie va a entenderlo. La única opción que tenemos es seguir adelante. Vamos a ir a nuestra luna de miel. Vamos a sonreír. Vamos a fingir que somos la pareja perfecta que todos creen que somos.
 
-â€”Â¿Fingir? Â¿CÃ³mo voy a fingir ser tÃº? Â¡No sÃ© ser una mujer!
+—¿Fingir? ¿Cómo voy a fingir ser tú? ¡No sé ser una mujer!
 
-Elena se acercÃ³ a Ã©l. La diferencia de altura era intimidante. Marco se sintiÃ³ pequeÃ±o, frÃ¡gil, ridÃ­culamente vulnerable en su camisÃ³n de seda.
+Elena se acercó a él. La diferencia de altura era intimidante. Marco se sintió pequeño, frágil, ridículamente vulnerable en su camisón de seda.
 
-â€”Vas a aprender â€”dijo Elena, tomÃ¡ndole la barbillaâ€”. Yo te voy a enseÃ±ar. Te voy a enseÃ±ar a caminar, a hablar, a vestirte. Vas a ser la esposa perfecta que siempre quisiste que yo fuera. Y yo... â€”Elena se mirÃ³ las manos grandes y fuertesâ€”, yo voy a ser el hombre que tÃº nunca supiste ser del todo.
+—Vas a aprender —dijo Elena, tomándole la barbilla—. Yo te voy a enseñar. Te voy a enseñar a caminar, a hablar, a vestirte. Vas a ser la esposa perfecta que siempre quisiste que yo fuera. Y yo... —Elena se miró las manos grandes y fuertes—, yo voy a ser el hombre que tú nunca supiste ser del todo.
 
 ---
 
-Dos dÃ­as despuÃ©s, en el resort de Punta Cana, la educaciÃ³n habÃ­a comenzado.
+Dos días después, en el resort de Punta Cana, la educación había comenzado.
 
 Y era brutal.
 
-â€”MÃ¡s alto â€”ordenÃ³ Elena desde la tumbona.
+—Más alto —ordenó Elena desde la tumbona.
 
-Marco estaba de pie en la arena, bajo el sol abrasador del mediodÃ­a. Llevaba el bikini dorado: tres triÃ¡ngulos de tela metÃ¡lica que brillaban como espejos, atados con hilos dentales que se clavaban en sus caderas.
+Marco estaba de pie en la arena, bajo el sol abrasador del mediodía. Llevaba el bikini dorado: tres triángulos de tela metálica que brillaban como espejos, atados con hilos dentales que se clavaban en sus caderas.
 
 Y los tacones.
 
 Tacones transparentes de cuatro pulgadas. En la arena.
 
-â€”Me hundo â€”gimiÃ³ Marco, tratando de mantener el equilibrio. Sus pantorrillas ardÃ­an. Sus tobillos temblaban.
+—Me hundo —gimió Marco, tratando de mantener el equilibrio. Sus pantorrillas ardían. Sus tobillos temblaban.
 
-â€”Ese es el punto â€”dijo Elena, bebiendo su mojitoâ€”. Tienes que aprender a caminar sobre cualquier superficie sin perder la elegancia. Arquea la espalda. Saca el culo. Quiero ver esas tetas apuntando al cielo.
+—Ese es el punto —dijo Elena, bebiendo su mojito—. Tienes que aprender a caminar sobre cualquier superficie sin perder la elegancia. Arquea la espalda. Saca el culo. Quiero ver esas tetas apuntando al cielo.
 
-Marco obedeciÃ³. ArqueÃ³ la espalda hasta que le doliÃ³. Sus pechos â€”esos implantes pesados que Ã©l mismo habÃ­a pagadoâ€” se proyectaron hacia adelante, ofreciÃ©ndose a la vista de todos.
+Marco obedeció. Arqueó la espalda hasta que le dolió. Sus pechos —esos implantes pesados que él mismo había pagado— se proyectaron hacia adelante, ofreciéndose a la vista de todos.
 
-PodÃ­a sentir las miradas. Hombres en otras tumbonas bajando sus gafas de sol. Camareros deteniÃ©ndose con bandejas en la mano. Mujeres susurrando detrÃ¡s de sus manos.
+Podía sentir las miradas. Hombres en otras tumbonas bajando sus gafas de sol. Camareros deteniéndose con bandejas en la mano. Mujeres susurrando detrás de sus manos.
 
-â€”Todo el mundo mira â€”susurrÃ³ Marco, sintiendo la vergÃ¼enza quemarle la cara bajo la capa de maquillaje perfecto que Elena le habÃ­a obligado a aplicar antes de salir.
+—Todo el mundo mira —susurró Marco, sintiendo la vergüenza quemarle la cara bajo la capa de maquillaje perfecto que Elena le había obligado a aplicar antes de salir.
 
-â€”Por supuesto que miran. â€”Elena se levantÃ³ y caminÃ³ hacia Ã©l. Su cuerpo masculino era imponente en baÃ±adorâ€”. Eres espectacular. Eres una muÃ±eca sexual de tamaÃ±o real caminando por la playa. Â¿Por quÃ© no mirarÃ­an?
+—Por supuesto que miran. —Elena se levantó y caminó hacia él. Su cuerpo masculino era imponente en bañador—. Eres espectacular. Eres una muñeca sexual de tamaño real caminando por la playa. ¿Por qué no mirarían?
 
-Elena le pasÃ³ un brazo por la cintura, posesiva, marcando territorio. Su mano grande bajÃ³ hasta apretar una de las nalgas de Marco, hundiendo los dedos en la carne expuesta por el tanga minÃºsculo.
+Elena le pasó un brazo por la cintura, posesiva, marcando territorio. Su mano grande bajó hasta apretar una de las nalgas de Marco, hundiendo los dedos en la carne expuesta por el tanga minúsculo.
 
-â€”Y lo mejor de todo â€”susurrÃ³ Elena en su oÃ­doâ€”, es que te gusta.
+—Y lo mejor de todo —susurró Elena en su oído—, es que te gusta.
 
-â€”No... no me gusta.
+—No... no me gusta.
 
-â€”Mentirosa. â€”Elena moviÃ³ la mano hacia adelante, rozando la entrepierna del bikiniâ€”. Â¿QuÃ© es esto entonces?
+—Mentirosa. —Elena movió la mano hacia adelante, rozando la entrepierna del bikini—. ¿Qué es esto entonces?
 
-Marco cerrÃ³ los ojos. El piercing. El maldito piercing del clÃ­toris estaba palpitando contra la tela mojada por su propia excitaciÃ³n.
+Marco cerró los ojos. El piercing. El maldito piercing del clítoris estaba palpitando contra la tela mojada por su propia excitación.
 
-â€”Es... es el roce...
+—Es... es el roce...
 
-â€”Es sumisiÃ³n, Marco. Tu cuerpo sabe quiÃ©n manda ahora.
+—Es sumisión, Marco. Tu cuerpo sabe quién manda ahora.
 
 ---
 
-Esa noche, en la suite, la lecciÃ³n continuÃ³.
+Esa noche, en la suite, la lección continuó.
 
-Elena lo habÃ­a obligado a ponerse el conjunto negro.
+Elena lo había obligado a ponerse el conjunto negro.
 
-Marco se mirÃ³ en el espejo del baÃ±o mientras sus dedos torpes â€”dedos finos, de uÃ±as perfectasâ€” abrochaban el liguero de encaje alrededor de su cintura. El corsÃ© era implacable: varillas de acero comprimÃ­an su cintura, empujando sus pechos hacia arriba hasta crear un escote que parecÃ­a imposible. Las medias negras de seda subÃ­an por sus piernas reciÃ©n depiladas, enganchÃ¡ndose a los tirantes del liguero con pequeÃ±os broches de metal frÃ­o.
+Marco se miró en el espejo del baño mientras sus dedos torpes —dedos finos, de uñas perfectas— abrochaban el liguero de encaje alrededor de su cintura. El corsé era implacable: varillas de acero comprimían su cintura, empujando sus pechos hacia arriba hasta crear un escote que parecía imposible. Las medias negras de seda subían por sus piernas recién depiladas, enganchándose a los tirantes del liguero con pequeños broches de metal frío.
 
 Y los tacones.
 
-Charol negro. Seis pulgadas de altura. Una plataforma mÃ­nima que no aliviaba el Ã¡ngulo imposible de sus pies. Caminar en ellos era un acto de fe ciega: cada paso exigÃ­a que arqueara la espalda, proyectara las caderas, contoneara el trasero. No podÃ­a evitarlo. El diseÃ±o de los zapatos lo *obligaba* a moverse como una stripper.
+Charol negro. Seis pulgadas de altura. Una plataforma mínima que no aliviaba el ángulo imposible de sus pies. Caminar en ellos era un acto de fe ciega: cada paso exigía que arqueara la espalda, proyectara las caderas, contoneara el trasero. No podía evitarlo. El diseño de los zapatos lo *obligaba* a moverse como una stripper.
 
-*He visto este conjunto antes*, pensÃ³ Marco, y el recuerdo lo golpeÃ³ como una ola.
+*He visto este conjunto antes*, pensó Marco, y el recuerdo lo golpeó como una ola.
 
-Lo habÃ­a visto en Elena. Hace cuatro aÃ±os, cuando todavÃ­a eran novios. Ella se lo habÃ­a puesto para su cumpleaÃ±os: el corsÃ© apretando su cintura, las medias susurrando cuando cruzaba las piernas, los tacones haciÃ©ndola caminar diferente. Marco recordaba haberse quedado sin palabras. Recordaba la urgencia animal de arrancarle todo y tomarla contra la pared.
+Lo había visto en Elena. Hace cuatro años, cuando todavía eran novios. Ella se lo había puesto para su cumpleaños: el corsé apretando su cintura, las medias susurrando cuando cruzaba las piernas, los tacones haciéndola caminar diferente. Marco recordaba haberse quedado sin palabras. Recordaba la urgencia animal de arrancarle todo y tomarla contra la pared.
 
-Y ahora Ã©l era quien lo usaba.
+Y ahora él era quien lo usaba.
 
-Algo se moviÃ³ entre sus piernas. No querÃ­a admitirlo, pero podÃ­a sentir la humedad formÃ¡ndose. El maldito piercing del clÃ­toris pulsaba contra el encaje de las bragas minÃºsculas que completaban el conjunto. Su cuerpo â€”el cuerpo de Elenaâ€” *respondÃ­a* a la imagen en el espejo.
+Algo se movió entre sus piernas. No quería admitirlo, pero podía sentir la humedad formándose. El maldito piercing del clítoris pulsaba contra el encaje de las bragas minúsculas que completaban el conjunto. Su cuerpo —el cuerpo de Elena— *respondía* a la imagen en el espejo.
 
-No era excitante. No podÃ­a serlo. Ã‰l era un hombre.
+No era excitante. No podía serlo. Él era un hombre.
 
-Pero el reflejo que le devolvÃ­a la mirada no era un hombre. Era una muÃ±eca sexual de fantasÃ­a, curvas imposibles envueltas en encaje negro, piernas kilomÃ©tricas en tacones de stripper, labios gruesos entreabiertos en algo que parecÃ­a... anticipaciÃ³n.
+Pero el reflejo que le devolvía la mirada no era un hombre. Era una muñeca sexual de fantasía, curvas imposibles envueltas en encaje negro, piernas kilométricas en tacones de stripper, labios gruesos entreabiertos en algo que parecía... anticipación.
 
-â€”A la cama â€”ordenÃ³ Elena desde la habitaciÃ³n.
+—A la cama —ordenó Elena desde la habitación.
 
-Marco se tumbÃ³ boca arriba, esperando lo inevitable. Esperando que Elena se subiera encima y terminara rÃ¡pido.
+Marco se tumbó boca arriba, esperando lo inevitable. Esperando que Elena se subiera encima y terminara rápido.
 
-Pero Elena tenÃ­a otros planes.
+Pero Elena tenía otros planes.
 
-â€”Boca abajo.
+—Boca abajo.
 
-Marco se girÃ³. EnterrÃ³ la cara en la almohada, sintiendo el aire acondicionado frÃ­o en su espalda desnuda y en su culo expuesto.
+Marco se giró. Enterró la cara en la almohada, sintiendo el aire acondicionado frío en su espalda desnuda y en su culo expuesto.
 
-SintiÃ³ el peso de Elena sobre la cama. Luego, sus manos. Manos fuertes, masculinas, separando sus nalgas sin ninguna delicadeza.
+Sintió el peso de Elena sobre la cama. Luego, sus manos. Manos fuertes, masculinas, separando sus nalgas sin ninguna delicadeza.
 
-â€”Tienes un culo precioso, esposa mÃ­a â€”murmurÃ³ Elenaâ€”. Siempre me gustÃ³. Pero ahora... ahora es mÃ­o de una forma que nunca imaginÃ©.
+—Tienes un culo precioso, esposa mía —murmuró Elena—. Siempre me gustó. Pero ahora... ahora es mío de una forma que nunca imaginé.
 
-Un dedo, lubricado con aceite, presionÃ³ contra su entrada.
+Un dedo, lubricado con aceite, presionó contra su entrada.
 
-Marco se tensÃ³.
+Marco se tensó.
 
-â€”RelÃ¡jate â€”ordenÃ³ Elena, y no fue una sugerencia. Fue un comandoâ€”. O te dolerÃ¡.
+—Relájate —ordenó Elena, y no fue una sugerencia. Fue un comando—. O te dolerá.
 
-Marco intentÃ³ respirar. IntentÃ³ relajar los mÃºsculos que se cerraban por instinto. El dedo entrÃ³. Lento. Invasivo. EstirÃ¡ndolo.
+Marco intentó respirar. Intentó relajar los músculos que se cerraban por instinto. El dedo entró. Lento. Invasivo. Estirándolo.
 
-â€”Eso es. â€”Elena empezÃ³ a bombear con el dedo, preparando el caminoâ€”. Eres tan estrecha. Tan... femenina.
+—Eso es. —Elena empezó a bombear con el dedo, preparando el camino—. Eres tan estrecha. Tan... femenina.
 
-â€”Elena, por favor... â€”gimiÃ³ Marco.
+—Elena, por favor... —gimió Marco.
 
-â€”Â¿Por favor quÃ©? Â¿Por favor para? Â¿O por favor fÃ³llame?
+—¿Por favor qué? ¿Por favor para? ¿O por favor fóllame?
 
-Marco no respondiÃ³. No podÃ­a.
+Marco no respondió. No podía.
 
-Elena retirÃ³ el dedo. Hubo un momento de pausa, solo el sonido de un envoltorio rasgÃ¡ndose. Y luego, la presiÃ³n de algo mucho mÃ¡s grande.
+Elena retiró el dedo. Hubo un momento de pausa, solo el sonido de un envoltorio rasgándose. Y luego, la presión de algo mucho más grande.
 
-La polla. Su polla. La carne que habÃ­a sido su orgullo, su sÃ­mbolo de poder, ahora convertida en el instrumento de su propia dominaciÃ³n.
+La polla. Su polla. La carne que había sido su orgullo, su símbolo de poder, ahora convertida en el instrumento de su propia dominación.
 
-â€”Voy a entrar â€”avisÃ³ Elena.
+—Voy a entrar —avisó Elena.
 
-Y empujÃ³.
+Y empujó.
 
-Marco gritÃ³ contra la almohada. El dolor fue agudo, desgarrador. Se sintiÃ³ lleno, estirado mÃ¡s allÃ¡ de lo posible.
+Marco gritó contra la almohada. El dolor fue agudo, desgarrador. Se sintió lleno, estirado más allá de lo posible.
 
-â€”Joder â€”gruÃ±Ã³ Elenaâ€”. Joder, quÃ© apretada.
+—Joder —gruñó Elena—. Joder, qué apretada.
 
-Elena empezÃ³ a moverse. Embestidas largas, profundas, implacables.
+Elena empezó a moverse. Embestidas largas, profundas, implacables.
 
-Marco se aferrÃ³ a las sÃ¡banas, sus uÃ±as francesas â€”reciÃ©n hechas esa maÃ±ana en el spa del resortâ€” clavÃ¡ndose en la tela.
+Marco se aferró a las sábanas, sus uñas francesas —recién hechas esa mañana en el spa del resort— clavándose en la tela.
 
-Y entonces, sucediÃ³.
+Y entonces, sucedió.
 
-Con cada embestida de Elena, el cuerpo de Marco se sacudÃ­a. Y con cada sacudida, sus muslos rozaban, la cama rozaba, todo rozaba contra el piercing.
+Con cada embestida de Elena, el cuerpo de Marco se sacudía. Y con cada sacudida, sus muslos rozaban, la cama rozaba, todo rozaba contra el piercing.
 
-El dolor en su culo se mezclÃ³ con la electricidad en su clÃ­toris.
+El dolor en su culo se mezcló con la electricidad en su clítoris.
 
-â€”Ah... ah... â€”los gritos de dolor se convirtieron en gemidos confusos.
+—Ah... ah... —los gritos de dolor se convirtieron en gemidos confusos.
 
-Elena lo notÃ³. Por supuesto que lo notÃ³.
+Elena lo notó. Por supuesto que lo notó.
 
-â€”Â¿Te gusta, perra? â€”Elena le agarrÃ³ el pelo, tirando de su cabeza hacia atrÃ¡s, obligÃ¡ndolo a arquearse mÃ¡sâ€”. Â¿Te gusta que tu marido te use como a una puta?
+—¿Te gusta, perra? —Elena le agarró el pelo, tirando de su cabeza hacia atrás, obligándolo a arquearse más—. ¿Te gusta que tu marido te use como a una puta?
 
-â€”SÃ­... â€”sollozÃ³ Marco, porque era la verdad. Su cuerpo estaba en llamas. Su mente estaba rota. Solo existÃ­a esto: la polla dentro de Ã©l, el piercing vibrando, la voz de Elena en su oÃ­do.
+—Sí... —sollozó Marco, porque era la verdad. Su cuerpo estaba en llamas. Su mente estaba rota. Solo existía esto: la polla dentro de él, el piercing vibrando, la voz de Elena en su oído.
 
-â€”Dilo. Di "soy tu puta".
+—Dilo. Di "soy tu puta".
 
-â€”Soy... soy tu puta...
+—Soy... soy tu puta...
 
-â€”Di "me encanta tu polla en mi culo".
+—Di "me encanta tu polla en mi culo".
 
-â€”Me encanta... ah, Dios... me encanta tu polla...
+—Me encanta... ah, Dios... me encanta tu polla...
 
-Elena aumentÃ³ el ritmo. Brutal. Animal. Reclamando su propiedad con cada golpe de cadera.
+Elena aumentó el ritmo. Brutal. Animal. Reclamando su propiedad con cada golpe de cadera.
 
-Marco sentÃ­a cÃ³mo su resistencia se desmoronaba. Ya no era Marco CastellÃ³n, el empresario exitoso. Era este cuerpo. Era estos agujeros. Era esta necesidad desesperada de ser llenado y poseÃ­do.
+Marco sentía cómo su resistencia se desmoronaba. Ya no era Marco Castellón, el empresario exitoso. Era este cuerpo. Era estos agujeros. Era esta necesidad desesperada de ser llenado y poseído.
 
-El orgasmo lo golpeÃ³ de repente. Sin que nadie lo tocara. Solo por la fricciÃ³n interna, por la humillaciÃ³n, por la intensidad absoluta del momento.
+El orgasmo lo golpeó de repente. Sin que nadie lo tocara. Solo por la fricción interna, por la humillación, por la intensidad absoluta del momento.
 
-Se corriÃ³ gritando, su cuerpo convulsionando alrededor de la polla de Elena.
+Se corrió gritando, su cuerpo convulsionando alrededor de la polla de Elena.
 
-Y segundos despuÃ©s, Elena lo siguiÃ³, gruÃ±endo su nombre â€”"Elena"â€” mientras se vaciaba dentro de Ã©l.
+Y segundos después, Elena lo siguió, gruñendo su nombre —"Elena"— mientras se vaciaba dentro de él.
 
-Cuando terminaron, Marco quedÃ³ tendido en la cama, temblando, con el maquillaje corrido y el semen goteando de su interior.
+Cuando terminaron, Marco quedó tendido en la cama, temblando, con el maquillaje corrido y el semen goteando de su interior.
 
-Elena se dejÃ³ caer a su lado, sudoroso y satisfecho.
+Elena se dejó caer a su lado, sudoroso y satisfecho.
 
-â€”Â¿Ves? â€”dijo, pasÃ¡ndole un brazo por los hombrosâ€”. Te dije que te gustarÃ­a.
+—¿Ves? —dijo, pasándole un brazo por los hombros—. Te dije que te gustaría.
 
-Marco no dijo nada. Solo cerrÃ³ los ojos y sintiÃ³ cÃ³mo el piercing, todavÃ­a sensible, pulsaba suavemente entre sus piernas.
+Marco no dijo nada. Solo cerró los ojos y sintió cómo el piercing, todavía sensible, pulsaba suavemente entre sus piernas.
 
-SabÃ­a que esto era solo el principio.
+Sabía que esto era solo el principio.
 
-Quedaban diez dÃ­as de luna de miel. Diez dÃ­as de bikinis, tacones, maquillaje y lecciones.
+Quedaban diez días de luna de miel. Diez días de bikinis, tacones, maquillaje y lecciones.
 
 Y por primera vez, Marco no estaba seguro de querer que terminaran.
 
@@ -212,249 +212,249 @@ Y por primera vez, Marco no estaba seguro de querer que terminaran.
 
 ---
 
-El vestido era una prisiÃ³n de tela.
+El vestido era una prisión de tela.
 
-Con cada paso hacia la puerta del hotel, Marco sentÃ­a cÃ³mo el encaje del tanga se deslizaba contra su piercing, enviando pequeÃ±as descargas de placer no deseado por todo su sistema nervioso. Sus tacones hacÃ­an clic contra el mÃ¡rmol del vestÃ­bulo, anunciando su presencia como campanadas de iglesia.
+Con cada paso hacia la puerta del hotel, Marco sentía cómo el encaje del tanga se deslizaba contra su piercing, enviando pequeñas descargas de placer no deseado por todo su sistema nervioso. Sus tacones hacían clic contra el mármol del vestíbulo, anunciando su presencia como campanadas de iglesia.
 
 Pero antes de salir, Elena lo detuvo.
 
-â€”Espera. â€”Su voz era una orden, no una sugerenciaâ€”. No has terminado de vestirte.
+—Espera. —Su voz era una orden, no una sugerencia—. No has terminado de vestirte.
 
-Marco la mirÃ³ sin comprender. Estaba completamente vestido. El vestido negro, los tacones, la lencerÃ­a tortuosa debajo, las joyas que Elena habÃ­a elegido: pendientes de diamante que pesaban en sus lÃ³bulos, una gargantilla de perlas que apretaba su cuello como un collar de mascota elegante.
+Marco la miró sin comprender. Estaba completamente vestido. El vestido negro, los tacones, la lencería tortuosa debajo, las joyas que Elena había elegido: pendientes de diamante que pesaban en sus lóbulos, una gargantilla de perlas que apretaba su cuello como un collar de mascota elegante.
 
-Elena sacÃ³ un tubo de labial de su bolsillo. Rojo. Rojo sangre.
+Elena sacó un tubo de labial de su bolsillo. Rojo. Rojo sangre.
 
-â€”Abre la boca â€”ordenÃ³.
+—Abre la boca —ordenó.
 
-Marco obedeciÃ³. Los labios colÃ¡geno-inflados de su nuevo rostro se separaron, exponiendo unos dientes blancos perfectos.
+Marco obedeció. Los labios colágeno-inflados de su nuevo rostro se separaron, exponiendo unos dientes blancos perfectos.
 
-â€”MÃ¡s â€”dijo Elenaâ€”. Haz un puchero. Como si fueras a besar.
+—Más —dijo Elena—. Haz un puchero. Como si fueras a besar.
 
-La humillaciÃ³n quemÃ³ las mejillas de Marco mientras fruncÃ­a los labios en el gesto exagerado y ridÃ­culo que Elena querÃ­a. Era el gesto de una modelo, de una niÃ±a tonta, de una mujer cuyo Ãºnico propÃ³sito era ser besada.
+La humillación quemó las mejillas de Marco mientras fruncía los labios en el gesto exagerado y ridículo que Elena quería. Era el gesto de una modelo, de una niña tonta, de una mujer cuyo único propósito era ser besada.
 
-El labial se deslizÃ³ sobre su boca con una suavidad cremosa. El aroma a vainilla y cera le llenÃ³ la nariz mientras Elena le pintaba los labios con una precisiÃ³n experta, delineando cada curva de su nueva boca.
+El labial se deslizó sobre su boca con una suavidad cremosa. El aroma a vainilla y cera le llenó la nariz mientras Elena le pintaba los labios con una precisión experta, delineando cada curva de su nueva boca.
 
-â€”Perfecto â€”Elena retrocediÃ³ para admirar su obraâ€”. Ahora pareces una puta de lujo. Exactamente lo que eres.
+—Perfecto —Elena retrocedió para admirar su obra—. Ahora pareces una puta de lujo. Exactamente lo que eres.
 
-Marco se mirÃ³ en el espejo del vestÃ­bulo. La mujer que le devolvÃ­a la mirada tenÃ­a labios de escÃ¡ndalo, ojos contorneados de negro, y una expresiÃ³n de sumisiÃ³n que ya no era actuada.
+Marco se miró en el espejo del vestíbulo. La mujer que le devolvía la mirada tenía labios de escándalo, ojos contorneados de negro, y una expresión de sumisión que ya no era actuada.
 
 ---
 
-El coche les esperaba afuera. Un Mercedes negro con cristales tintados. El chofer les abriÃ³ la puerta, y Marco sintiÃ³ sus ojos recorriendo su escote mientras se agachaba para entrar.
+El coche les esperaba afuera. Un Mercedes negro con cristales tintados. El chofer les abrió la puerta, y Marco sintió sus ojos recorriendo su escote mientras se agachaba para entrar.
 
-Antes, como hombre, habrÃ­a disfrutado esas miradas. HabrÃ­a sentido orgullo de que otros hombres desearan a su mujer.
+Antes, como hombre, habría disfrutado esas miradas. Habría sentido orgullo de que otros hombres desearan a su mujer.
 
-Ahora *era* la mujer. Y cada mirada hambrienta lo hacÃ­a sentir pequeÃ±o, expuesto, disponible.
+Ahora *era* la mujer. Y cada mirada hambrienta lo hacía sentir pequeño, expuesto, disponible.
 
-Se deslizÃ³ en el asiento trasero, cruzando las piernas automÃ¡ticamente para que la falda del vestido no subiera demasiado. El cuero del asiento estaba frÃ­o contra la parte posterior de sus muslos, la piel desnuda por encima del borde de sus medias.
+Se deslizó en el asiento trasero, cruzando las piernas automáticamente para que la falda del vestido no subiera demasiado. El cuero del asiento estaba frío contra la parte posterior de sus muslos, la piel desnuda por encima del borde de sus medias.
 
-Elena entrÃ³ despuÃ©s, sentÃ¡ndose a su lado, ocupando el espacio con esa presencia masculina que ahora era suya.
+Elena entró después, sentándose a su lado, ocupando el espacio con esa presencia masculina que ahora era suya.
 
-â€”Al Restaurante CastellÃ³n â€”le dijo al chofer.
+—Al Restaurante Castellón —le dijo al chofer.
 
-El coche arrancÃ³. Las luces de la ciudad pasaban borrosas por la ventana mientras atravesaban el trÃ¡fico nocturno.
+El coche arrancó. Las luces de la ciudad pasaban borrosas por la ventana mientras atravesaban el tráfico nocturno.
 
-Marco miraba por la ventanilla, intentando encontrar un momento de paz mental. Pero el vestido era demasiado ajustado, la lencerÃ­a demasiado invasiva, y el piercing seguÃ­a palpitando entre sus piernas como un pequeÃ±o corazÃ³n de placer obligatorio.
+Marco miraba por la ventanilla, intentando encontrar un momento de paz mental. Pero el vestido era demasiado ajustado, la lencería demasiado invasiva, y el piercing seguía palpitando entre sus piernas como un pequeño corazón de placer obligatorio.
 
-â€”Ven â€”dijo Elena.
+—Ven —dijo Elena.
 
-Marco se girÃ³. Los ojos de Elena brillaban en la oscuridad del coche, reflejando las luces de la calle.
+Marco se giró. Los ojos de Elena brillaban en la oscuridad del coche, reflejando las luces de la calle.
 
-â€”ArrodÃ­llate aquÃ­. â€”Elena seÃ±alÃ³ el espacio entre sus piernas.
+—Arrodíllate aquí. —Elena señaló el espacio entre sus piernas.
 
-El estÃ³mago de Marco cayÃ³.
+El estómago de Marco cayó.
 
-â€”Â¿AquÃ­? Â¿En el coche?
+—¿Aquí? ¿En el coche?
 
-â€”Â¿Ves otro lugar?
+—¿Ves otro lugar?
 
-â€”Pero el chofer...
+—Pero el chofer...
 
-â€”El chofer tiene cosas mejores que hacer que mirarnos. Y aunque lo hiciera... â€”Elena sonriÃ³ lentamenteâ€”, Â¿quÃ© importa? Ya te han visto miles de personas en esos bikinis ridÃ­culos. Â¿QuÃ© diferencia hace uno mÃ¡s?
+—El chofer tiene cosas mejores que hacer que mirarnos. Y aunque lo hiciera... —Elena sonrió lentamente—, ¿qué importa? Ya te han visto miles de personas en esos bikinis ridículos. ¿Qué diferencia hace uno más?
 
-Marco mirÃ³ hacia la nuca del chofer. El hombre miraba fijamente hacia adelante, concentrado en la carretera. Pero los cristales del retrovisor... desde el Ã¡ngulo correcto podrÃ­a ver...
+Marco miró hacia la nuca del chofer. El hombre miraba fijamente hacia adelante, concentrado en la carretera. Pero los cristales del retrovisor... desde el ángulo correcto podría ver...
 
-â€”Marco. â€”La voz de Elena se endureciÃ³â€”. No voy a repetirlo.
+—Marco. —La voz de Elena se endureció—. No voy a repetirlo.
 
-Y Marco obedeciÃ³.
+Y Marco obedeció.
 
-Se deslizÃ³ del asiento, el vestido subiÃ©ndose peligrosamente por sus muslos, y se arrodillÃ³ entre las piernas abiertas de Elena. El suelo del coche era duro contra sus rodillas. Sus tacones quedaron atrapados incÃ³modamente bajo su trasero.
+Se deslizó del asiento, el vestido subiéndose peligrosamente por sus muslos, y se arrodilló entre las piernas abiertas de Elena. El suelo del coche era duro contra sus rodillas. Sus tacones quedaron atrapados incómodamente bajo su trasero.
 
-Elena le acariciÃ³ el pelo, esos dedos gruesos enredÃ¡ndose en las extensiones rubias que el spa del resort le habÃ­a puesto.
+Elena le acarició el pelo, esos dedos gruesos enredándose en las extensiones rubias que el spa del resort le había puesto.
 
-â€”Buena chica â€”murmurÃ³â€”. Ahora... sabes lo que quiero.
+—Buena chica —murmuró—. Ahora... sabes lo que quiero.
 
-Marco lo sabÃ­a.
+Marco lo sabía.
 
-Con manos que temblaban, desabrochÃ³ el cinturÃ³n de Elena. El metal era frÃ­o contra sus dedos torpes â€”las uÃ±as largas hacÃ­an todo mÃ¡s difÃ­cilâ€”. El botÃ³n del pantalÃ³n. La cremallera.
+Con manos que temblaban, desabrochó el cinturón de Elena. El metal era frío contra sus dedos torpes —las uñas largas hacían todo más difícil—. El botón del pantalón. La cremallera.
 
 Y entonces lo vio.
 
-Su propio pene. La polla que habÃ­a sido suya durante treinta y cinco aÃ±os, ahora propiedad de Elena.
+Su propio pene. La polla que había sido suya durante treinta y cinco años, ahora propiedad de Elena.
 
-Estaba medio erecto, creciendo bajo su mirada. El mismo pene que habÃ­a deseado incontables veces dentro de Elena. Ahora Elena lo controlaba, y Ã©l estaba arrodillado esperando recibirlo.
+Estaba medio erecto, creciendo bajo su mirada. El mismo pene que había deseado incontables veces dentro de Elena. Ahora Elena lo controlaba, y él estaba arrodillado esperando recibirlo.
 
-â€”Â¿QuÃ© esperas? â€”preguntÃ³ Elenaâ€”. Una invitaciÃ³n formal?
+—¿Qué esperas? —preguntó Elena—. Una invitación formal?
 
-Marco tomÃ³ la polla con su mano derecha. La sensaciÃ³n fue surreal. ConocÃ­a cada vena, cada curva, cada centÃ­metro. Pero la estaba tocando desde afuera por primera vez.
+Marco tomó la polla con su mano derecha. La sensación fue surreal. Conocía cada vena, cada curva, cada centímetro. Pero la estaba tocando desde afuera por primera vez.
 
-Era... grande. Nunca habÃ­a pensado en ello desde esta perspectiva, pero ahora, sosteniÃ©ndola con las manos pequeÃ±as y delicadas que habÃ­a heredado de Elena, parecÃ­a enorme. Intimidante.
+Era... grande. Nunca había pensado en ello desde esta perspectiva, pero ahora, sosteniéndola con las manos pequeñas y delicadas que había heredado de Elena, parecía enorme. Intimidante.
 
-Y se suponÃ­a que debÃ­a meterla en su boca.
+Y se suponía que debía meterla en su boca.
 
-â€”Marco. â€”Elena enredÃ³ los dedos en su pelo mÃ¡s fuerteâ€”. No tenemos toda la noche.
+—Marco. —Elena enredó los dedos en su pelo más fuerte—. No tenemos toda la noche.
 
-Marco inclinÃ³ la cabeza. RecordÃ³ la noche de bodas, cuando Elena lo habÃ­a forzado a hacer esto por primera vez. Entonces habÃ­a sido en privado, en la suite nupcial, y el terror habÃ­a sido diferente. Ahora estaban en un coche en movimiento, con un chofer a metros de distancia, y la humillaciÃ³n tenÃ­a un sabor mÃ¡s amargo. Sus labios rojos, perfectamente pintados, rozaron la punta.
+Marco inclinó la cabeza. Recordó la noche de bodas, cuando Elena lo había forzado a hacer esto por primera vez. Entonces había sido en privado, en la suite nupcial, y el terror había sido diferente. Ahora estaban en un coche en movimiento, con un chofer a metros de distancia, y la humillación tenía un sabor más amargo. Sus labios rojos, perfectamente pintados, rozaron la punta.
 
-El sabor era salado, almizclado, innegablemente masculino. SacÃ³ la lengua â€”pequeÃ±a ahora, diferenteâ€” y lamiÃ³ desde la base hasta la punta, sintiendo cada vena pulsar bajo su boca.
+El sabor era salado, almizclado, innegablemente masculino. Sacó la lengua —pequeña ahora, diferente— y lamió desde la base hasta la punta, sintiendo cada vena pulsar bajo su boca.
 
-Elena gruÃ±Ã³. Un sonido grave, satisfecho, que resonÃ³ en el pecho de Marco como una orden de continuar.
+Elena gruñó. Un sonido grave, satisfecho, que resonó en el pecho de Marco como una orden de continuar.
 
-AbriÃ³ mÃ¡s la boca. Sus labios se estiraron alrededor del glande, el labial rojo manchando la piel. El pene entrÃ³, caliente y pesado sobre su lengua, llenando su boca de una manera que nunca habÃ­a experimentado.
+Abrió más la boca. Sus labios se estiraron alrededor del glande, el labial rojo manchando la piel. El pene entró, caliente y pesado sobre su lengua, llenando su boca de una manera que nunca había experimentado.
 
-â€”MÃ¡s profundo â€”ordenÃ³ Elena, empujando su cabeza hacia abajo.
+—Más profundo —ordenó Elena, empujando su cabeza hacia abajo.
 
-Marco se atragantÃ³. La polla golpeÃ³ algo en el fondo de su garganta y su cuerpo se rebelÃ³, intentando expulsarla. Las lÃ¡grimas le brotaron de los ojos mientras luchaba contra el reflejo de vÃ³mito.
+Marco se atragantó. La polla golpeó algo en el fondo de su garganta y su cuerpo se rebeló, intentando expulsarla. Las lágrimas le brotaron de los ojos mientras luchaba contra el reflejo de vómito.
 
-â€”Respira por la nariz â€”instruyÃ³ Elenaâ€”. Y relaja la garganta. Lo vas a aprender, cariÃ±o. Vas a aprender a tragarte cada centÃ­metro como la buena esposa que ahora eres.
+—Respira por la nariz —instruyó Elena—. Y relaja la garganta. Lo vas a aprender, cariño. Vas a aprender a tragarte cada centímetro como la buena esposa que ahora eres.
 
-Marco intentÃ³ obedecer. RespirÃ³. RelajÃ³ lo que pudo. Y sintiÃ³ cÃ³mo la polla se deslizaba mÃ¡s profundo, estirando su garganta de una manera que era al mismo tiempo horrible y... algo mÃ¡s. Algo que no querÃ­a nombrar.
+Marco intentó obedecer. Respiró. Relajó lo que pudo. Y sintió cómo la polla se deslizaba más profundo, estirando su garganta de una manera que era al mismo tiempo horrible y... algo más. Algo que no quería nombrar.
 
-Elena empezÃ³ a mover las caderas, follÃ¡ndole la boca con embestidas lentas y profundas. Marco era una muÃ±eca, un agujero, un recipiente para el placer de ella.
+Elena empezó a mover las caderas, follándole la boca con embestidas lentas y profundas. Marco era una muñeca, un agujero, un recipiente para el placer de ella.
 
-Y mientras su boca era usada, entre sus piernas el piercing palpitaba furiosamente. El roce del encaje contra su clÃ­toris, la humillaciÃ³n de la posiciÃ³n, la violaciÃ³n de su garganta... todo se combinaba en una tormenta de sensaciones que no deberÃ­a sentir.
+Y mientras su boca era usada, entre sus piernas el piercing palpitaba furiosamente. El roce del encaje contra su clítoris, la humillación de la posición, la violación de su garganta... todo se combinaba en una tormenta de sensaciones que no debería sentir.
 
-Estaba mojado. Empapado. PodÃ­a sentir la humedad manchando su tanga caro mientras su nuevo cuerpo respondÃ­a a la sumisiÃ³n como si estuviera diseÃ±ado para ello.
+Estaba mojado. Empapado. Podía sentir la humedad manchando su tanga caro mientras su nuevo cuerpo respondía a la sumisión como si estuviera diseñado para ello.
 
-â€”Eso es â€”jadeÃ³ Elenaâ€”. Lo sientes, Â¿verdad? Tu coÃ±o mojÃ¡ndose porque te estoy usando. Tu cuerpo reconoce quiÃ©n es el dueÃ±o ahora.
+—Eso es —jadeó Elena—. Lo sientes, ¿verdad? Tu coño mojándose porque te estoy usando. Tu cuerpo reconoce quién es el dueño ahora.
 
-Marco gimiÃ³ alrededor de la polla en su boca. El sonido fue patÃ©tico, sumiso, femenino.
+Marco gimió alrededor de la polla en su boca. El sonido fue patético, sumiso, femenino.
 
-â€”Voy a correrme â€”anunciÃ³ Elenaâ€”. Y vas a tragÃ¡rtelo todo. Cada gota. Como una buena esposa.
+—Voy a correrme —anunció Elena—. Y vas a tragártelo todo. Cada gota. Como una buena esposa.
 
-Marco asintiÃ³ lo mejor que pudo con una polla enterrada en su garganta.
+Marco asintió lo mejor que pudo con una polla enterrada en su garganta.
 
-Las embestidas de Elena se aceleraron. MÃ¡s duras. MÃ¡s profundas. Marco luchaba por respirar, por mantener el ritmo, por sobrevivir la invasiÃ³n de su propia virilidad perdida.
+Las embestidas de Elena se aceleraron. Más duras. Más profundas. Marco luchaba por respirar, por mantener el ritmo, por sobrevivir la invasión de su propia virilidad perdida.
 
-Y entonces Elena se tensÃ³.
+Y entonces Elena se tensó.
 
-Un chorro caliente y espeso llenÃ³ la boca de Marco. Salado, amargo, abrumador. SiguiÃ³ otro. Y otro. Demasiado. Se derramaba por las comisuras de sus labios, manchando el labial rojo, goteando por su barbilla.
+Un chorro caliente y espeso llenó la boca de Marco. Salado, amargo, abrumador. Siguió otro. Y otro. Demasiado. Se derramaba por las comisuras de sus labios, manchando el labial rojo, goteando por su barbilla.
 
-â€”Traga â€”ordenÃ³ Elena, sosteniÃ©ndole la cabeza en su lugar.
+—Traga —ordenó Elena, sosteniéndole la cabeza en su lugar.
 
-Marco tragÃ³. El semen bajÃ³ por su garganta, caliente y resbaladizo, marcÃ¡ndolo por dentro.
+Marco tragó. El semen bajó por su garganta, caliente y resbaladizo, marcándolo por dentro.
 
-Cuando Elena finalmente lo soltÃ³, Marco se dejÃ³ caer hacia atrÃ¡s, jadeando, con los labios hinchados y el maquillaje arruinado. PodÃ­a sentir el labial corrido por toda su cara. Las pestaÃ±as falsas estaban mojadas de lÃ¡grimas.
+Cuando Elena finalmente lo soltó, Marco se dejó caer hacia atrás, jadeando, con los labios hinchados y el maquillaje arruinado. Podía sentir el labial corrido por toda su cara. Las pestañas falsas estaban mojadas de lágrimas.
 
-Elena se limpiÃ³ con un paÃ±uelo y le ofreciÃ³ otro.
+Elena se limpió con un pañuelo y le ofreció otro.
 
-â€”LÃ­mpiate. Estamos llegando.
+—Límpiate. Estamos llegando.
 
-Marco tomÃ³ el paÃ±uelo con manos temblorosas y se limpiÃ³ la cara lo mejor que pudo. Pero sabÃ­a que cualquiera que lo mirara verÃ­a: los labios irritados, el rubor en las mejillas, la mirada perdida de alguien reciÃ©n usado.
+Marco tomó el pañuelo con manos temblorosas y se limpió la cara lo mejor que pudo. Pero sabía que cualquiera que lo mirara vería: los labios irritados, el rubor en las mejillas, la mirada perdida de alguien recién usado.
 
-SubiÃ³ al asiento justo cuando el coche se detenÃ­a frente al restaurante. A travÃ©s de las ventanas tintadas podÃ­a ver la cola de gente esperando, los fotÃ³grafos de sociedad, la alfombra roja.
+Subió al asiento justo cuando el coche se detenía frente al restaurante. A través de las ventanas tintadas podía ver la cola de gente esperando, los fotógrafos de sociedad, la alfombra roja.
 
-â€”SonrÃ­e â€”dijo Elena, arreglÃ¡ndole un mechÃ³n de peloâ€”. AcuÃ©rdate de lo que te enseÃ±Ã©. Eres mi esposa. Eres perfecta. Y acabas de darme la mejor mamada de tu nueva vida.
+—Sonríe —dijo Elena, arreglándole un mechón de pelo—. Acuérdate de lo que te enseñé. Eres mi esposa. Eres perfecta. Y acabas de darme la mejor mamada de tu nueva vida.
 
-Elena abriÃ³ la puerta.
+Elena abrió la puerta.
 
-Y Marco, con el sabor del semen aÃºn en la garganta y el piercing todavÃ­a palpitando de excitaciÃ³n, bajÃ³ del coche y caminÃ³ hacia la multitud, sonriendo como la esposa perfecta que ahora era obligado a ser.
-
----
+Y Marco, con el sabor del semen aún en la garganta y el piercing todavía palpitando de excitación, bajó del coche y caminó hacia la multitud, sonriendo como la esposa perfecta que ahora era obligado a ser.
 
 ---
 
-El restaurante era una catedral de pretensiÃ³n y dinero.
+---
 
-Candelabros de cristal colgaban del techo abovedado, derramando luz dorada sobre mesas vestidas de lino blanco. El murmullo de conversaciones refinadas flotaba en el aire junto con el aroma a trufas y champÃ¡n.
+El restaurante era una catedral de pretensión y dinero.
 
-Marco caminaba del brazo de Elena, cada paso una tortura exquisita. Los tacones le ponÃ­an el trasero en pompa. El vestido se ajustaba a cada curva. Y el piercing, Dios, el maldito piercing seguÃ­a palpitando entre sus piernas, recordÃ¡ndole que acababa de tener una polla en la garganta hace menos de diez minutos.
+Candelabros de cristal colgaban del techo abovedado, derramando luz dorada sobre mesas vestidas de lino blanco. El murmullo de conversaciones refinadas flotaba en el aire junto con el aroma a trufas y champán.
 
-TodavÃ­a podÃ­a sentir el peso del semen en su estÃ³mago. Espeso. Caliente. La prueba de que ahora era la receptora, no el dador.
+Marco caminaba del brazo de Elena, cada paso una tortura exquisita. Los tacones le ponían el trasero en pompa. El vestido se ajustaba a cada curva. Y el piercing, Dios, el maldito piercing seguía palpitando entre sus piernas, recordándole que acababa de tener una polla en la garganta hace menos de diez minutos.
 
-â€”SonrÃ­e â€”susurrÃ³ Elenaâ€”. Javier nos estÃ¡ mirando.
+Todavía podía sentir el peso del semen en su estómago. Espeso. Caliente. La prueba de que ahora era la receptora, no el dador.
 
-El nombre cayÃ³ como un balde de agua helada.
+—Sonríe —susurró Elena—. Javier nos está mirando.
+
+El nombre cayó como un balde de agua helada.
 
 *Javier.*
 
-Javier Mendoza. El mejor amigo de Marco. Su compaÃ±ero de negocios. El hombre con quien habÃ­a compartido cientos de noches de whisky, puros y conversaciones sobre coÃ±os y tetas.
+Javier Mendoza. El mejor amigo de Marco. Su compañero de negocios. El hombre con quien había compartido cientos de noches de whisky, puros y conversaciones sobre coños y tetas.
 
 Y ahora Javier estaba mirando las *suyas*.
 
-El hombre se levantÃ³ de la mesa cuando los vio acercarse. Era alto, moreno, con ese atractivo depredador que siempre habÃ­a hecho que las mujeres cayeran rendidas. Marco sabÃ­a exactamente lo que Javier veÃ­a: una rubia espectacular caminando hacia Ã©l, con un escote que prometÃ­a paraÃ­sos y una boca que todavÃ­a tenÃ­a restos de carmÃ­n corrido.
+El hombre se levantó de la mesa cuando los vio acercarse. Era alto, moreno, con ese atractivo depredador que siempre había hecho que las mujeres cayeran rendidas. Marco sabía exactamente lo que Javier veía: una rubia espectacular caminando hacia él, con un escote que prometía paraísos y una boca que todavía tenía restos de carmín corrido.
 
-â€”Â¡Marco, hijo de puta! â€”gritÃ³ Javier, abriendo los brazos para abrazar a Elenaâ€”. Â¡MÃ­rate! El matrimonio te sienta de puta madre.
+—¡Marco, hijo de puta! —gritó Javier, abriendo los brazos para abrazar a Elena—. ¡Mírate! El matrimonio te sienta de puta madre.
 
-â€”Gracias, Javi. â€”Elena le devolviÃ³ el abrazo con esa familiaridad masculina que ahora le pertenecÃ­aâ€”. La luna de miel fue... reveladora.
+—Gracias, Javi. —Elena le devolvió el abrazo con esa familiaridad masculina que ahora le pertenecía—. La luna de miel fue... reveladora.
 
-â€”Me imagino, me imagino. â€”Los ojos de Javier se deslizaron hacia Marco, y su sonrisa se volviÃ³ hambrientaâ€”. Y tÃº, preciosa... estÃ¡s absolutamente increÃ­ble.
+—Me imagino, me imagino. —Los ojos de Javier se deslizaron hacia Marco, y su sonrisa se volvió hambrienta—. Y tú, preciosa... estás absolutamente increíble.
 
-Marco sintiÃ³ cÃ³mo la mirada de Javier le recorrÃ­a el cuerpo. De arriba abajo. DeteniÃ©ndose en los pechos. En las caderas. En las piernas que los tacones alargaban obscenamente.
+Marco sintió cómo la mirada de Javier le recorría el cuerpo. De arriba abajo. Deteniéndose en los pechos. En las caderas. En las piernas que los tacones alargaban obscenamente.
 
-Era la misma mirada que Ã©l habÃ­a visto cientos de veces. La misma mirada que *Ã©l* habÃ­a dado cientos de veces.
+Era la misma mirada que él había visto cientos de veces. La misma mirada que *él* había dado cientos de veces.
 
 Ahora estaba del otro lado.
 
-â€”Gracias, Javi â€”dijo Marco, y su voz saliÃ³ aguda, suave, femenina. La voz de Elena. La voz que ahora era suya.
+—Gracias, Javi —dijo Marco, y su voz salió aguda, suave, femenina. La voz de Elena. La voz que ahora era suya.
 
-Javier dio un paso adelante y le besÃ³ ambas mejillas, demorÃ¡ndose mÃ¡s de lo necesario. Marco pudo oler su colonia â€”Bleu de Chanel, el mismo que Ã©l usabaâ€” y sentir el calor de su cuerpo masculino peligrosamente cerca.
+Javier dio un paso adelante y le besó ambas mejillas, demorándose más de lo necesario. Marco pudo oler su colonia —Bleu de Chanel, el mismo que él usaba— y sentir el calor de su cuerpo masculino peligrosamente cerca.
 
-â€”Dos semanas en el Caribe y pareces una diosa del sexo â€”susurrÃ³ Javier cerca de su oÃ­doâ€”. Â¿QuÃ© te ha hecho Marco? Â¿Te ha tenido encerrada en la habitaciÃ³n cogiendo sin parar?
+—Dos semanas en el Caribe y pareces una diosa del sexo —susurró Javier cerca de su oído—. ¿Qué te ha hecho Marco? ¿Te ha tenido encerrada en la habitación cogiendo sin parar?
 
-Marco se estremeciÃ³. La pregunta pretendÃ­a ser un halago vulgar entre amigos, pero ahora aterrizÃ³ diferente. Ahora era una invasiÃ³n. Una violaciÃ³n verbal.
+Marco se estremeció. La pregunta pretendía ser un halago vulgar entre amigos, pero ahora aterrizó diferente. Ahora era una invasión. Una violación verbal.
 
-â€”Algo asÃ­ â€”respondiÃ³, forzando una sonrisa.
+—Algo así —respondió, forzando una sonrisa.
 
-Se sentaron a la mesa. Javier habÃ­a pedido champÃ¡n, y pronto les sirvieron copas burbujeantes que Marco bebiÃ³ demasiado rÃ¡pido. El alcohol le quemÃ³ la garganta que todavÃ­a recordaba otra cosa quemÃ¡ndola minutos antes.
+Se sentaron a la mesa. Javier había pedido champán, y pronto les sirvieron copas burbujeantes que Marco bebió demasiado rápido. El alcohol le quemó la garganta que todavía recordaba otra cosa quemándola minutos antes.
 
-â€”Entonces, Â¿cÃ³mo va todo? â€”preguntÃ³ Elena, recostÃ¡ndose en su silla como el dueÃ±o del mundoâ€”. Â¿Los negocios? Â¿Las mujeres?
+—Entonces, ¿cómo va todo? —preguntó Elena, recostándose en su silla como el dueño del mundo—. ¿Los negocios? ¿Las mujeres?
 
-â€”Los negocios van de puta madre. Las mujeres... â€”Javier se encogiÃ³ de hombrosâ€”, ya sabes cÃ³mo es. Una tras otra. Pero ninguna que valga la pena.
+—Los negocios van de puta madre. Las mujeres... —Javier se encogió de hombros—, ya sabes cómo es. Una tras otra. Pero ninguna que valga la pena.
 
-Su mirada volviÃ³ a posarse en Marco. Directa. Descarada.
+Su mirada volvió a posarse en Marco. Directa. Descarada.
 
-â€”Tienes suerte, cabrÃ³n â€”le dijo a Elenaâ€”. Si Elena fuera mi mujer, no la dejarÃ­a salir de la cama ni para respirar.
+—Tienes suerte, cabrón —le dijo a Elena—. Si Elena fuera mi mujer, no la dejaría salir de la cama ni para respirar.
 
-Marco sintiÃ³ un rubor de vergÃ¼enza subirle por el cuello. El cumplido â€”porque se suponÃ­a que lo eraâ€” le hizo sentir como mercancÃ­a exhibida.
+Marco sintió un rubor de vergüenza subirle por el cuello. El cumplido —porque se suponía que lo era— le hizo sentir como mercancía exhibida.
 
-â€”CrÃ©eme, no la dejo â€”riÃ³ Elenaâ€”. Pero a veces hay que sacarla a pasear. Â¿Verdad, cariÃ±o?
+—Créeme, no la dejo —rió Elena—. Pero a veces hay que sacarla a pasear. ¿Verdad, cariño?
 
-Una mano de Elena se posÃ³ sobre su muslo debajo del mantel. CÃ¡lida. Posesiva. SubiÃ³ unos centÃ­metros, rozando el borde de su media.
+Una mano de Elena se posó sobre su muslo debajo del mantel. Cálida. Posesiva. Subió unos centímetros, rozando el borde de su media.
 
-Marco asintiÃ³, sin confiar en su voz.
+Marco asintió, sin confiar en su voz.
 
-La conversaciÃ³n continuÃ³. Negocios. Inversiones. El nuevo yate de Javier. La casa de campo que estaba renovando. Marco intentaba seguir el hilo, pero su mente estaba fragmentada entre el roce constante del piercing, la mano de Elena en su muslo, y las miradas cada vez mÃ¡s descaradas de Javier.
+La conversación continuó. Negocios. Inversiones. El nuevo yate de Javier. La casa de campo que estaba renovando. Marco intentaba seguir el hilo, pero su mente estaba fragmentada entre el roce constante del piercing, la mano de Elena en su muslo, y las miradas cada vez más descaradas de Javier.
 
-â€”Â¿Y tÃº, Elena? â€”Javier se inclinÃ³ hacia Ã©lâ€”. Â¿QuÃ© tal la vida de casada? Â¿Marco te trata bien?
+—¿Y tú, Elena? —Javier se inclinó hacia él—. ¿Qué tal la vida de casada? ¿Marco te trata bien?
 
-La pregunta era inocente. La intenciÃ³n, no.
+La pregunta era inocente. La intención, no.
 
-â€”Marco me trata... exactamente como merezco â€”respondiÃ³ Marco, eligiendo cada palabra con cuidado.
+—Marco me trata... exactamente como merezco —respondió Marco, eligiendo cada palabra con cuidado.
 
-â€”Eso espero. Porque si alguna vez te trata mal, sabes que puedes venir a llorar a mi hombro. â€”Javier sonriÃ³, mostrando dientes blancos perfectosâ€”. O a cualquier otra parte de mi anatomÃ­a.
+—Eso espero. Porque si alguna vez te trata mal, sabes que puedes venir a llorar a mi hombro. —Javier sonrió, mostrando dientes blancos perfectos—. O a cualquier otra parte de mi anatomía.
 
-El doble sentido fue tan obvio que hasta Elena riÃ³.
+El doble sentido fue tan obvio que hasta Elena rió.
 
-Pero Marco no encontrÃ³ humor en ninguna parte. Solo encontrÃ³ miedo. Y, enterrado debajo del miedo, algo mÃ¡s oscuro.
+Pero Marco no encontró humor en ninguna parte. Solo encontró miedo. Y, enterrado debajo del miedo, algo más oscuro.
 
-El piercing palpitÃ³.
+El piercing palpitó.
 
-Su cuerpo estaba respondiendo a la amenaza implÃ­cita de Javier como si fuera una promesa. Como si la idea de ser "consolado" por ese hombre enviara seÃ±ales contradictorias a travÃ©s de su sistema nervioso.
+Su cuerpo estaba respondiendo a la amenaza implícita de Javier como si fuera una promesa. Como si la idea de ser "consolado" por ese hombre enviara señales contradictorias a través de su sistema nervioso.
 
-*No*, pensÃ³ Marco. *No puedo estar...*
+*No*, pensó Marco. *No puedo estar...*
 
-Pero la humedad entre sus piernas decÃ­a otra cosa.
+Pero la humedad entre sus piernas decía otra cosa.
 
-â€”BaÃ±o â€”murmurÃ³, levantÃ¡ndose de la mesaâ€”. Si me disculpan.
+—Baño —murmuró, levantándose de la mesa—. Si me disculpan.
 
-Marco caminÃ³ hacia los baÃ±os, sintiendo los ojos de Javier clavados en su trasero con cada paso. El movimiento de sus caderas â€”exagerado por los taconesâ€” era un espectÃ¡culo involuntario.
+Marco caminó hacia los baños, sintiendo los ojos de Javier clavados en su trasero con cada paso. El movimiento de sus caderas —exagerado por los tacones— era un espectáculo involuntario.
 
-Se encerrÃ³ en uno de los cubÃ­culos del baÃ±o de mujeres y se dejÃ³ caer sobre el inodoro, temblando.
+Se encerró en uno de los cubículos del baño de mujeres y se dejó caer sobre el inodoro, temblando.
 
-Â¿QuÃ© le estaba pasando? Â¿Por quÃ© su cuerpo reaccionaba asÃ­? Â¿Por quÃ© la mirada hambrienta de Javier encendÃ­a algo en su nuevo sistema nervioso?
+¿Qué le estaba pasando? ¿Por qué su cuerpo reaccionaba así? ¿Por qué la mirada hambrienta de Javier encendía algo en su nuevo sistema nervioso?
 
-Se llevÃ³ una mano entre las piernas y tocÃ³ la tela hÃºmeda del tanga.
+Se llevó una mano entre las piernas y tocó la tela húmeda del tanga.
 
 Empapado.
 
@@ -462,739 +462,739 @@ Estaba empapado.
 
 Javier lo estaba mirando como carne, y Marco estaba mojado como una perra en celo.
 
-Se retocÃ³ el maquillaje con manos temblorosas, aplicÃ¡ndose mÃ¡s gloss en los labios para ocultar su nerviosismo. RespirÃ³ hondo tres veces. *Eres Marco CastellÃ³n*, se dijo a sÃ­ mismo. *Eres un hombre. No te dejes intimidar.*
+Se retocó el maquillaje con manos temblorosas, aplicándose más gloss en los labios para ocultar su nerviosismo. Respiró hondo tres veces. *Eres Marco Castellón*, se dijo a sí mismo. *Eres un hombre. No te dejes intimidar.*
 
-Pero cuando saliÃ³ del baÃ±o, la realidad lo golpeÃ³ de frente.
+Pero cuando salió del baño, la realidad lo golpeó de frente.
 
-Javier estaba allÃ­.
+Javier estaba allí.
 
-Estaba apoyado en la pared del pasillo estrecho que llevaba a los baÃ±os, bloqueando el camino. TenÃ­a una mano en el bolsillo y la otra sosteniendo un cigarrillo apagado.
+Estaba apoyado en la pared del pasillo estrecho que llevaba a los baños, bloqueando el camino. Tenía una mano en el bolsillo y la otra sosteniendo un cigarrillo apagado.
 
-â€”Javi... â€”Marco se detuvo en seco.
+—Javi... —Marco se detuvo en seco.
 
-â€”Te tardaste, preciosa â€”dijo Javier, enderezÃ¡ndose. Su cuerpo llenaba el pasillo, grande, masculino, amenazante.
+—Te tardaste, preciosa —dijo Javier, enderezándose. Su cuerpo llenaba el pasillo, grande, masculino, amenazante.
 
-â€”Solo estaba... retocÃ¡ndome.
+—Solo estaba... retocándome.
 
-â€”No necesitas retoques. â€”Javier dio un paso hacia Ã©l. Marco retrocediÃ³ hasta que su espalda chocÃ³ contra la puerta del baÃ±oâ€”. EstÃ¡s perfecta. Jodidamente perfecta.
+—No necesitas retoques. —Javier dio un paso hacia él. Marco retrocedió hasta que su espalda chocó contra la puerta del baño—. Estás perfecta. Jodidamente perfecta.
 
-Javier se acercÃ³ mÃ¡s, invadiendo su espacio personal hasta que Marco pudo oler el alcohol y el tabaco en su aliento. Puso una mano en la pared, justo al lado de la cabeza de Marco, acorralÃ¡ndolo.
+Javier se acercó más, invadiendo su espacio personal hasta que Marco pudo oler el alcohol y el tabaco en su aliento. Puso una mano en la pared, justo al lado de la cabeza de Marco, acorralándolo.
 
-â€”Javi, por favor... Marco estÃ¡ esperando.
+—Javi, por favor... Marco está esperando.
 
-â€”Marco estÃ¡ ocupado pidiendo otra botella â€”susurrÃ³ Javier, bajando la mirada hacia el escote de Marcoâ€”. Y ademÃ¡s... creo que a Marco no le importarÃ­a si su mejor amigo admira su propiedad.
+—Marco está ocupado pidiendo otra botella —susurró Javier, bajando la mirada hacia el escote de Marco—. Y además... creo que a Marco no le importaría si su mejor amigo admira su propiedad.
 
-â€”Soy su esposa, Javier. No su propiedad.
+—Soy su esposa, Javier. No su propiedad.
 
-â€”Â¿Ah, no? â€”Javier sonriÃ³, y fue una sonrisa cruelâ€”. Porque la forma en que te mira... la forma en que te toca... dice otra cosa. Y la forma en que tÃº lo miras a Ã©l... â€”Javier se inclinÃ³ hasta que sus labios rozaron la oreja de Marcoâ€”, es la mirada de una mujer que sabe exactamente a quiÃ©n pertenece.
+—¿Ah, no? —Javier sonrió, y fue una sonrisa cruel—. Porque la forma en que te mira... la forma en que te toca... dice otra cosa. Y la forma en que tú lo miras a él... —Javier se inclinó hasta que sus labios rozaron la oreja de Marco—, es la mirada de una mujer que sabe exactamente a quién pertenece.
 
-Marco se estremeciÃ³. El aliento caliente de Javier en su cuello enviÃ³ una descarga elÃ©ctrica directa a su entrepierna. El piercing vibrÃ³ violentamente.
+Marco se estremeció. El aliento caliente de Javier en su cuello envió una descarga eléctrica directa a su entrepierna. El piercing vibró violentamente.
 
-â€”EstÃ¡s temblando â€”notÃ³ Javier, su voz bajando una octavaâ€”. Â¿Te pongo nerviosa, Elena?
+—Estás temblando —notó Javier, su voz bajando una octava—. ¿Te pongo nerviosa, Elena?
 
-â€”No...
+—No...
 
-â€”Mentirosa. â€”La mano libre de Javier bajÃ³ y rozÃ³ la cadera de Marco. Solo un roce, pero fue suficiente para que las rodillas de Marco flaquearanâ€”. Puedo olerte, Â¿sabes? Hueles a sexo. Hueles a deseo.
+—Mentirosa. —La mano libre de Javier bajó y rozó la cadera de Marco. Solo un roce, pero fue suficiente para que las rodillas de Marco flaquearan—. Puedo olerte, ¿sabes? Hueles a sexo. Hueles a deseo.
 
-Javier presionÃ³ su cuerpo contra el de Marco. Marco pudo sentir la dureza en los pantalones de Javier. Una erecciÃ³n clara, innegable, presionando contra su vientre.
+Javier presionó su cuerpo contra el de Marco. Marco pudo sentir la dureza en los pantalones de Javier. Una erección clara, innegable, presionando contra su vientre.
 
-â€”Javi... â€”gimiÃ³ Marco, atrapado entre el miedo y una excitaciÃ³n traidora.
+—Javi... —gimió Marco, atrapado entre el miedo y una excitación traidora.
 
-â€”Dime que no te gusta â€”desafiÃ³ Javierâ€”. Dime que no te moja tener a dos hombres peleando por ti. Dime que no estÃ¡s pensando en cÃ³mo se sentirÃ­a mi polla dentro de ti.
+—Dime que no te gusta —desafió Javier—. Dime que no te moja tener a dos hombres peleando por ti. Dime que no estás pensando en cómo se sentiría mi polla dentro de ti.
 
-Marco querÃ­a negarlo. QuerÃ­a empujarlo y salir corriendo. Pero su cuerpo no le respondÃ­a. Sus pezones estaban duros contra el encaje del sostÃ©n. Su coÃ±o estaba palpitando.
+Marco quería negarlo. Quería empujarlo y salir corriendo. Pero su cuerpo no le respondía. Sus pezones estaban duros contra el encaje del sostén. Su coño estaba palpitando.
 
-â€”No puedo... â€”susurrÃ³.
+—No puedo... —susurró.
 
-Javier se separÃ³ lentamente, pero mantuvo la mirada clavada en los ojos de Marco.
+Javier se separó lentamente, pero mantuvo la mirada clavada en los ojos de Marco.
 
-â€”Lo sabÃ­a. â€”SonriÃ³ con satisfacciÃ³nâ€”. Eres una zorra, Elena. Una zorra preciosa y caliente. Y tarde o temprano... vas a ser mÃ­a tambiÃ©n.
+—Lo sabía. —Sonrió con satisfacción—. Eres una zorra, Elena. Una zorra preciosa y caliente. Y tarde o temprano... vas a ser mía también.
 
-Javier se dio la vuelta y caminÃ³ de regreso al comedor, dejando a Marco temblando en el pasillo, con el corazÃ³n desbocado y el piercing ardiendo entre las piernas.
+Javier se dio la vuelta y caminó de regreso al comedor, dejando a Marco temblando en el pasillo, con el corazón desbocado y el piercing ardiendo entre las piernas.
 
-Cuando Marco finalmente logrÃ³ recomponerse y volver a la mesa, Javier ya estaba sentado, riendo con Elena.
+Cuando Marco finalmente logró recomponerse y volver a la mesa, Javier ya estaba sentado, riendo con Elena.
 
-â€”AhÃ­ estÃ¡ nuestra chica â€”dijo Javier, levantando su copaâ€”. Â¿Todo bien, preciosa? Pareces un poco... acalorada.
+—Ahí está nuestra chica —dijo Javier, levantando su copa—. ¿Todo bien, preciosa? Pareces un poco... acalorada.
 
-â€”Perfecto â€”mintiÃ³ Marco, sentÃ¡ndose con las piernas temblorosas.
+—Perfecto —mintió Marco, sentándose con las piernas temblorosas.
 
-Debajo del mantel, la mano de Elena volviÃ³ a posarse en su muslo.
+Debajo del mantel, la mano de Elena volvió a posarse en su muslo.
 
-Esta vez, subiÃ³ hasta tocar la tela mojada del tanga.
+Esta vez, subió hasta tocar la tela mojada del tanga.
 
-Elena no dijo nada. Solo sonriÃ³ y siguiÃ³ conversando con Javier. Pero su pulgar empezÃ³ a trazar cÃ­rculos sobre el encaje empapado, rozando el piercing a travÃ©s de la tela.
+Elena no dijo nada. Solo sonrió y siguió conversando con Javier. Pero su pulgar empezó a trazar círculos sobre el encaje empapado, rozando el piercing a través de la tela.
 
-Y Marco se dio cuenta, con un horror absoluto, de que Elena sabÃ­a. SabÃ­a lo que habÃ­a pasado en el pasillo. O al menos, sabÃ­a que Javier lo habÃ­a excitado.
+Y Marco se dio cuenta, con un horror absoluto, de que Elena sabía. Sabía lo que había pasado en el pasillo. O al menos, sabía que Javier lo había excitado.
 
 Y no le importaba.
 
-De hecho, parecÃ­a disfrutarlo.
+De hecho, parecía disfrutarlo.
 
-Marco se aferrÃ³ al borde de la mesa, atrapado entre dos depredadores, intentando no correrse delante de los hombres que ahora controlaban su destino.
-
----
+Marco se aferró al borde de la mesa, atrapado entre dos depredadores, intentando no correrse delante de los hombres que ahora controlaban su destino.
 
 ---
 
-El BMW rojo de Elena se detuvo frente al spa mÃ¡s exclusivo de la ciudad.
+---
 
-Marco mirÃ³ el edificio a travÃ©s del parabrisas: cristal y acero, minimalista y amenazador. Un lugar diseÃ±ado para destruir mujeres y reconstruirlas segÃºn las especificaciones de alguien mÃ¡s.
+El BMW rojo de Elena se detuvo frente al spa más exclusivo de la ciudad.
 
-HabÃ­a estado aquÃ­ antes. Como Marco. Como el hombre que pagaba las cuentas y esperaba en el vestÃ­bulo mientras Elena desaparecÃ­a durante horas para volver mÃ¡s suave, mÃ¡s bronceada, mÃ¡s perfecta.
+Marco miró el edificio a través del parabrisas: cristal y acero, minimalista y amenazador. Un lugar diseñado para destruir mujeres y reconstruirlas según las especificaciones de alguien más.
 
-Hoy Ã©l era el producto.
+Había estado aquí antes. Como Marco. Como el hombre que pagaba las cuentas y esperaba en el vestíbulo mientras Elena desaparecía durante horas para volver más suave, más bronceada, más perfecta.
+
+Hoy él era el producto.
 
 Pero antes de bajar, Elena lo detuvo.
 
-â€”Espera. â€”Su mirada recorriÃ³ el cuerpo de Marco con ojo crÃ­ticoâ€”. No vas a entrar asÃ­.
+—Espera. —Su mirada recorrió el cuerpo de Marco con ojo crítico—. No vas a entrar así.
 
-Marco mirÃ³ su atuendo: un vestido de verano ligero y unas cuÃ±as de ocho centÃ­metros. Era lo mÃ¡s bajo que podÃ­a usar; sus tendones, acortados por semanas de uso continuo de tacones extremos, ya no le permitÃ­an apoyar el talÃ³n en el suelo sin un dolor agudo.
+Marco miró su atuendo: un vestido de verano ligero y unas cuñas de ocho centímetros. Era lo más bajo que podía usar; sus tendones, acortados por semanas de uso continuo de tacones extremos, ya no le permitían apoyar el talón en el suelo sin un dolor agudo.
 
-â€”Son cÃ³modos â€”se defendiÃ³ Marcoâ€”. Y mis pantorrillas me duelen.
+—Son cómodos —se defendió Marco—. Y mis pantorrillas me duelen.
 
-â€”Son de abuela. Y tÃº no eres una abuela. â€”Elena sacÃ³ una bolsa del asiento traseroâ€”. Ponte esto.
+—Son de abuela. Y tú no eres una abuela. —Elena sacó una bolsa del asiento trasero—. Ponte esto.
 
-Marco abriÃ³ la bolsa. Dentro habÃ­a un minivestido de licra rosa chicle, tan corto que parecÃ­a una camiseta larga, y un par de sandalias de tacÃ³n de corcho de doce centÃ­metros.
+Marco abrió la bolsa. Dentro había un minivestido de licra rosa chicle, tan corto que parecía una camiseta larga, y un par de sandalias de tacón de corcho de doce centímetros.
 
-â€”Elena, es un spa. Voy a quitarme la ropa en cinco minutos.
+—Elena, es un spa. Voy a quitarme la ropa en cinco minutos.
 
-â€”Exacto. Y quiero que las esteticistas vean lo que se estÃ¡n perdiendo cuando te desnudes. Quiero que vean las piernas, el culo, la actitud. â€”Elena seÃ±alÃ³ los zapatosâ€”. PÃ³ntelos. Ahora.
+—Exacto. Y quiero que las esteticistas vean lo que se están perdiendo cuando te desnudes. Quiero que vean las piernas, el culo, la actitud. —Elena señaló los zapatos—. Póntelos. Ahora.
 
-Marco suspirÃ³ y obedeciÃ³. El ritual de vestirse en el espacio confinado del coche fue una humillaciÃ³n en sÃ­ misma. Quitarse el vestido cÃ³modo. Luchar para meterse en la licra ajustada que marcaba cada curva de su cuerpo, incluyendo los pezones que se endurecieron instantÃ¡neamente por el roce.
+Marco suspiró y obedeció. El ritual de vestirse en el espacio confinado del coche fue una humillación en sí misma. Quitarse el vestido cómodo. Luchar para meterse en la licra ajustada que marcaba cada curva de su cuerpo, incluyendo los pezones que se endurecieron instantáneamente por el roce.
 
 Y luego los zapatos.
 
-Doce centÃ­metros de plataforma. Sus pies se arquearon en esa posiciÃ³n antinatural que ya empezaba a sentirse dolorosamente familiar. Sus pantorrillas se tensaron. Su trasero se levantÃ³.
+Doce centímetros de plataforma. Sus pies se arquearon en esa posición antinatural que ya empezaba a sentirse dolorosamente familiar. Sus pantorrillas se tensaron. Su trasero se levantó.
 
-â€”Mucho mejor â€”dijo Elena, admirando cÃ³mo el vestido apenas cubrÃ­a la curva de sus nalgasâ€”. Ahora pareces una muÃ±eca Barbie yendo a su mantenimiento.
+—Mucho mejor —dijo Elena, admirando cómo el vestido apenas cubría la curva de sus nalgas—. Ahora pareces una muñeca Barbie yendo a su mantenimiento.
 
-â€”Me siento ridÃ­cula â€”murmurÃ³ Marco.
+—Me siento ridícula —murmuró Marco.
 
-â€”Te ves deliciosa. â€”Elena le dio una palmada en el musloâ€”. Ahora ve. Giselle te estÃ¡ esperando. Y recuerda: eres Elena CastellÃ³n de MendÃ­vez. Camina como si fueras dueÃ±a del lugar.
+—Te ves deliciosa. —Elena le dio una palmada en el muslo—. Ahora ve. Giselle te está esperando. Y recuerda: eres Elena Castellón de Mendívez. Camina como si fueras dueña del lugar.
 
-Marco abriÃ³ la puerta del coche y caminÃ³ hacia el spa, sus tacones haciendo un eco rÃ­tmico y autoritario contra el pavimento. *Clic-clic-clic*. Cada paso era un recordatorio de su nueva realidad: una mujer diseÃ±ada para ser mirada, incluso cuando iba a depilarse.
+Marco abrió la puerta del coche y caminó hacia el spa, sus tacones haciendo un eco rítmico y autoritario contra el pavimento. *Clic-clic-clic*. Cada paso era un recordatorio de su nueva realidad: una mujer diseñada para ser mirada, incluso cuando iba a depilarse.
 
 ---
 
-El interior del spa olÃ­a a jazmÃ­n y dinero.
+El interior del spa olía a jazmín y dinero.
 
-Una recepcionista perfecta â€”rubia, labios inflados, uÃ±as imposiblesâ€” lo recibiÃ³ con una sonrisa profesional que vacilÃ³ por un segundo al ver su atuendo.
+Una recepcionista perfecta —rubia, labios inflados, uñas imposibles— lo recibió con una sonrisa profesional que vaciló por un segundo al ver su atuendo.
 
-â€”Â¡SeÃ±ora CastellÃ³n! â€”Sus ojos bajaron a los zapatos de plataforma y subieron al vestido minÃºsculoâ€”. Bienvenida de vuelta. Giselle la estÃ¡ esperando en la sala VIP.
+—¡Señora Castellón! —Sus ojos bajaron a los zapatos de plataforma y subieron al vestido minúsculo—. Bienvenida de vuelta. Giselle la está esperando en la sala VIP.
 
-Marco asintiÃ³, sintiendo el rubor subirle a las mejillas. SabÃ­a lo que la recepcionista estaba pensando: *mira a esa zorra, vestida como una puta a las diez de la maÃ±ana.*
+Marco asintió, sintiendo el rubor subirle a las mejillas. Sabía lo que la recepcionista estaba pensando: *mira a esa zorra, vestida como una puta a las diez de la mañana.*
 
-SiguiÃ³ a otra asistente por un pasillo de mÃ¡rmol blanco. Las paredes estaban decoradas con fotografÃ­as abstractas de cuerpos femeninos: curvas, lÃ­neas, sombras. Arte diseÃ±ado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
+Siguió a otra asistente por un pasillo de mármol blanco. Las paredes estaban decoradas con fotografías abstractas de cuerpos femeninos: curvas, líneas, sombras. Arte diseñado para recordarte que tu cuerpo era un proyecto, nunca un producto final.
 
 La sala VIP era una suite privada con camilla, espejos en todas las paredes, y una mujer de mediana edad vestida de blanco que lo esperaba con una sonrisa maternal.
 
-â€”Elena, querida. â€”Giselle se acercÃ³ para besarlo en ambas mejillasâ€”. MÃ­rate. El Caribe te sentÃ³ divino. Y ese vestido... â€”chasqueÃ³ la lenguaâ€”, muy atrevido. Me encanta.
+—Elena, querida. —Giselle se acercó para besarlo en ambas mejillas—. Mírate. El Caribe te sentó divino. Y ese vestido... —chasqueó la lengua—, muy atrevido. Me encanta.
 
-Marco se dejÃ³ guiar hacia la camilla.
+Marco se dejó guiar hacia la camilla.
 
-â€”Puedes desvestirte aquÃ­ â€”dijo Giselleâ€”. La bata estÃ¡ en el gancho.
+—Puedes desvestirte aquí —dijo Giselle—. La bata está en el gancho.
 
-El proceso de quitarse la ropa frente a Giselle fue otra capa de vergÃ¼enza. Bajarse la cremallera del vestido. Deslizarlo por sus caderas, revelando que no llevaba sujetador (el vestido no lo permitÃ­a) y que su tanga era un hilo dental rosa neÃ³n.
+El proceso de quitarse la ropa frente a Giselle fue otra capa de vergüenza. Bajarse la cremallera del vestido. Deslizarlo por sus caderas, revelando que no llevaba sujetador (el vestido no lo permitía) y que su tanga era un hilo dental rosa neón.
 
-Y luego los zapatos. Tuvo que sentarse para desabrochar las correas de los tobillos. Sus pies, liberados de la prisiÃ³n de doce centÃ­metros, latieron con alivio.
+Y luego los zapatos. Tuvo que sentarse para desabrochar las correas de los tobillos. Sus pies, liberados de la prisión de doce centímetros, latieron con alivio.
 
-â€”Primero la cera â€”anunciÃ³ Giselle cuando Marco estuvo en la camilla, cubierto apenas por la bata cortaâ€”. Brazos, piernas, axilas, y zona Ã­ntima. El seÃ±or Marco me informÃ³ que quiere brasileÃ±o completo.
+—Primero la cera —anunció Giselle cuando Marco estuvo en la camilla, cubierto apenas por la bata corta—. Brazos, piernas, axilas, y zona íntima. El señor Marco me informó que quiere brasileño completo.
 
-*El seÃ±or Marco.* Giselle se referÃ­a a Elena â€”en el cuerpo de Marcoâ€” como "el seÃ±or". Y a Ã©l... a Ã©l lo trataba como un objeto. Un producto que llegaba para su mantenimiento.
+*El señor Marco.* Giselle se refería a Elena —en el cuerpo de Marco— como "el señor". Y a él... a él lo trataba como un objeto. Un producto que llegaba para su mantenimiento.
 
-*Soy una muÃ±eca*, pensÃ³ Marco mientras Giselle preparaba los materiales. *Una esposa trofeo. No tengo voz. No tengo decisiones. Solo tengo un cuerpo que otros moldean segÃºn sus deseos.*
+*Soy una muñeca*, pensó Marco mientras Giselle preparaba los materiales. *Una esposa trofeo. No tengo voz. No tengo decisiones. Solo tengo un cuerpo que otros moldean según sus deseos.*
 
-Y lo mÃ¡s aterrador: la idea no le causaba solo horror. HabÃ­a algo liberador en rendirse. En dejar que otros decidieran. En ser simplemente... perfecta.
+Y lo más aterrador: la idea no le causaba solo horror. Había algo liberador en rendirse. En dejar que otros decidieran. En ser simplemente... perfecta.
 
-â€”Perfecto â€”dijo Marco, porque no habÃ­a otra respuesta.
+—Perfecto —dijo Marco, porque no había otra respuesta.
 
-Se tumbÃ³ en la camilla mientras Giselle preparaba la cera caliente. El olor a miel llenÃ³ el aire, dulce y amenazador.
+Se tumbó en la camilla mientras Giselle preparaba la cera caliente. El olor a miel llenó el aire, dulce y amenazador.
 
-â€”RelÃ¡jate, querida. SÃ© que duele, pero la belleza requiere sacrificio.
+—Relájate, querida. Sé que duele, pero la belleza requiere sacrificio.
 
-Marco cerrÃ³ los ojos.
+Marco cerró los ojos.
 
-La primera tira de cera fue en la pierna. El calor era casi placentero mientras se extendÃ­a sobre su piel, suavizÃ¡ndose, adhiriÃ©ndose a los vellos finos que habÃ­an crecido durante la luna de miel.
+La primera tira de cera fue en la pierna. El calor era casi placentero mientras se extendía sobre su piel, suavizándose, adhiriéndose a los vellos finos que habían crecido durante la luna de miel.
 
 RIIIIP.
 
-El dolor fue inmediato. Agudo. Un millÃ³n de agujas arrancando pelo de raÃ­z.
+El dolor fue inmediato. Agudo. Un millón de agujas arrancando pelo de raíz.
 
-Marco jadeÃ³, aferrÃ¡ndose a los bordes de la camilla.
+Marco jadeó, aferrándose a los bordes de la camilla.
 
-â€”Respira â€”instruyÃ³ Giselleâ€”. Lo peor ya pasÃ³.
+—Respira —instruyó Giselle—. Lo peor ya pasó.
 
 Era mentira. Lo peor estaba lejos de pasar.
 
-Tira tras tira, Giselle arrancÃ³ cada pelo del cuerpo de Marco. Las piernas. Los brazos. Las axilas, donde el dolor le hizo ver estrellas.
+Tira tras tira, Giselle arrancó cada pelo del cuerpo de Marco. Las piernas. Los brazos. Las axilas, donde el dolor le hizo ver estrellas.
 
-Y entonces llegÃ³ el momento de la zona Ã­ntima.
+Y entonces llegó el momento de la zona íntima.
 
-â€”Abre las piernas, querida.
+—Abre las piernas, querida.
 
-Marco obedeciÃ³, sintiendo cÃ³mo su cara ardÃ­a de vergÃ¼enza. Estaba expuesto. Vulnerable. Una mujer observando otra mujer en su lugar mÃ¡s privado.
+Marco obedeció, sintiendo cómo su cara ardía de vergüenza. Estaba expuesto. Vulnerable. Una mujer observando otra mujer en su lugar más privado.
 
-â€”Oh, el piercing â€”comentÃ³ Giselleâ€”. Siempre tengo cuidado con Ã©l. Lo rodeo pero no lo toco.
+—Oh, el piercing —comentó Giselle—. Siempre tengo cuidado con él. Lo rodeo pero no lo toco.
 
-La cera caliente se extendiÃ³ sobre los labios exteriores. Marco sintiÃ³ el calor derretirse contra su piel hipersensible, milÃ­metros del piercing que ahora palpitaba con algo que no era solo dolor.
-
-RIIIIP.
-
-El grito que saliÃ³ de su boca fue involuntario. El dolor fue explosivo, centrÃ¡ndose en su entrepierna como un sol de agonÃ­a.
-
-Pero detrÃ¡s del dolor, algo mÃ¡s.
-
-El tirÃ³n de la cera habÃ­a enviado una onda de choque a travÃ©s del piercing, vibrando contra su clÃ­toris hinchado. Y esa vibraciÃ³n se habÃ­a convertido en algo que su cuerpo traidor interpretÃ³ como placer.
-
-â€”Una mÃ¡s â€”dijo Giselle.
+La cera caliente se extendió sobre los labios exteriores. Marco sintió el calor derretirse contra su piel hipersensible, milímetros del piercing que ahora palpitaba con algo que no era solo dolor.
 
 RIIIIP.
 
-Marco mordiÃ³ la almohada para no gritar. El dolor y el placer se mezclaban en una sopa tÃ³xica que lo dejÃ³ temblando.
+El grito que salió de su boca fue involuntario. El dolor fue explosivo, centrándose en su entrepierna como un sol de agonía.
 
-â€”Ya estÃ¡. â€”Giselle acariciÃ³ la piel reciÃ©n depilada con aceite calmanteâ€”. Perfectamente lisa. Como un bebÃ©.
+Pero detrás del dolor, algo más.
 
-Marco mirÃ³ hacia abajo. Su pubis era ahora una superficie de piel bronceada sin un solo pelo, con el piercing brillando obscenamente en el centro. Se veÃ­a... vulnerable. Expuesto. Listo para ser usado.
+El tirón de la cera había enviado una onda de choque a través del piercing, vibrando contra su clítoris hinchado. Y esa vibración se había convertido en algo que su cuerpo traidor interpretó como placer.
 
-Giselle revisÃ³ una tableta electrÃ³nica.
+—Una más —dijo Giselle.
 
-â€”Ah, hay una nota adicional del seÃ±or Marco. â€”LevantÃ³ la vista con una sonrisa cÃ³mpliceâ€”. Piercings en los pezones. Barras de titanio rosa.
+RIIIIP.
 
-El corazÃ³n de Marco se detuvo.
+Marco mordió la almohada para no gritar. El dolor y el placer se mezclaban en una sopa tóxica que lo dejó temblando.
 
-â€”Â¿QuÃ©? No... no acordamos...
+—Ya está. —Giselle acarició la piel recién depilada con aceite calmante—. Perfectamente lisa. Como un bebé.
 
-â€”EstÃ¡ todo aquÃ­, querida. â€”Giselle le mostrÃ³ la pantallaâ€”. "Para mi esposa. Sorpresa de aniversario de un mes. Que combine con el del clÃ­toris." Firmado, Marco CastellÃ³n.
+Marco miró hacia abajo. Su pubis era ahora una superficie de piel bronceada sin un solo pelo, con el piercing brillando obscenamente en el centro. Se veía... vulnerable. Expuesto. Listo para ser usado.
 
-*Elena.* Elena habÃ­a ordenado esto. HabÃ­a usado *su* nombre â€”el nombre que ahora era de ellaâ€” para marcar este cuerpo aÃºn mÃ¡s.
+Giselle revisó una tableta electrónica.
 
-â€”Yo... â€”Marco buscÃ³ las palabras para negarse. Para decir que no querÃ­a. Pero las muÃ±ecas no decÃ­an no. Las esposas trofeo no decidÃ­an.
+—Ah, hay una nota adicional del señor Marco. —Levantó la vista con una sonrisa cómplice—. Piercings en los pezones. Barras de titanio rosa.
 
-Y una parte de Ã©l â€”la parte que odiaba, la parte que crecÃ­a cada dÃ­aâ€” querÃ­a saber cÃ³mo se sentirÃ­an.
+El corazón de Marco se detuvo.
 
-â€”EstÃ¡ bien â€”susurrÃ³.
+—¿Qué? No... no acordamos...
 
-Giselle preparÃ³ el equipo. MarcÃ³ con un rotulador los puntos exactos en cada pezÃ³n ya endurecido. Y luego, con una eficiencia brutal, perforÃ³.
+—Está todo aquí, querida. —Giselle le mostró la pantalla—. "Para mi esposa. Sorpresa de aniversario de un mes. Que combine con el del clítoris." Firmado, Marco Castellón.
 
-El dolor fue elÃ©ctrico. Un rayo atravesando cada pezÃ³n, bajando hasta su vientre, conectÃ¡ndose con el piercing del clÃ­toris en una red de nervios en llamas.
+*Elena.* Elena había ordenado esto. Había usado *su* nombre —el nombre que ahora era de ella— para marcar este cuerpo aún más.
 
-Marco gritÃ³. Pero el grito se convirtiÃ³ en algo mÃ¡s. Un gemido. Un sonido que ni siquiera reconociÃ³ como suyo.
+—Yo... —Marco buscó las palabras para negarse. Para decir que no quería. Pero las muñecas no decían no. Las esposas trofeo no decidían.
 
-â€”El segundo â€”avisÃ³ Giselle.
+Y una parte de él —la parte que odiaba, la parte que crecía cada día— quería saber cómo se sentirían.
 
-Otro rayo. Otro grito-gemido. Y cuando terminÃ³, Marco yacÃ­a en la camilla temblando, con dos barras de titanio rosa atravesando sus pezones hinchados.
+—Está bien —susurró.
 
-â€”Preciosos â€”dijo Giselle, admirando su trabajoâ€”. Muy sensibles durante las prÃ³ximas semanas. Cada roce serÃ¡... intenso.
+Giselle preparó el equipo. Marcó con un rotulador los puntos exactos en cada pezón ya endurecido. Y luego, con una eficiencia brutal, perforó.
 
-Marco mirÃ³ hacia abajo. Sus pezones, antes puntos oscuros en la cima de sus implantes, ahora estaban decorados con metal rosa. ParecÃ­an joyas obscenas. ParecÃ­an marcas de propiedad.
+El dolor fue eléctrico. Un rayo atravesando cada pezón, bajando hasta su vientre, conectándose con el piercing del clítoris en una red de nervios en llamas.
 
-*Soy suya*, pensÃ³. *Completamente suya.*
+Marco gritó. Pero el grito se convirtió en algo más. Un gemido. Un sonido que ni siquiera reconoció como suyo.
 
-â€”Ahora las manos y los pies â€”anunciÃ³ Giselle, como si no acabara de perforarle el cuerpoâ€”. El seÃ±or Marco pidiÃ³ francesas. Â¿Largas o muy largas?
+—El segundo —avisó Giselle.
 
-*El seÃ±or Marco decide todo*, pensÃ³ Marco mientras respondÃ­a automÃ¡ticamente: â€”Largas.
+Otro rayo. Otro grito-gemido. Y cuando terminó, Marco yacía en la camilla temblando, con dos barras de titanio rosa atravesando sus pezones hinchados.
 
-â€”Perfecto. Ponte cÃ³moda. Esto tardarÃ¡ un rato.
+—Preciosos —dijo Giselle, admirando su trabajo—. Muy sensibles durante las próximas semanas. Cada roce será... intenso.
 
-Marco se recostÃ³ mientras otra asistente comenzaba a trabajar en sus pies. Le quitaron el esmalte viejo, le limaron las uÃ±as hasta darles forma perfecta, y empezaron a aplicar capas de gel.
+Marco miró hacia abajo. Sus pezones, antes puntos oscuros en la cima de sus implantes, ahora estaban decorados con metal rosa. Parecían joyas obscenas. Parecían marcas de propiedad.
 
-El proceso era largo, tedioso, y extraÃ±amente relajante. Las manos de la asistente masajeaban sus pies, sus pantorrillas, sus muslos. Cada toque era profesional pero Ã­ntimo.
+*Soy suya*, pensó. *Completamente suya.*
 
-Y el piercing seguÃ­a palpitando.
+—Ahora las manos y los pies —anunció Giselle, como si no acabara de perforarle el cuerpo—. El señor Marco pidió francesas. ¿Largas o muy largas?
 
-La depilaciÃ³n lo habÃ­a dejado hipersensible. Cada roce de tela, cada corriente de aire, cada movimiento de su cuerpo enviaba seÃ±ales contradictorias a su cerebro. Dolor y placer. HumillaciÃ³n y excitaciÃ³n.
+*El señor Marco decide todo*, pensó Marco mientras respondía automáticamente: —Largas.
+
+—Perfecto. Ponte cómoda. Esto tardará un rato.
+
+Marco se recostó mientras otra asistente comenzaba a trabajar en sus pies. Le quitaron el esmalte viejo, le limaron las uñas hasta darles forma perfecta, y empezaron a aplicar capas de gel.
+
+El proceso era largo, tedioso, y extrañamente relajante. Las manos de la asistente masajeaban sus pies, sus pantorrillas, sus muslos. Cada toque era profesional pero íntimo.
+
+Y el piercing seguía palpitando.
+
+La depilación lo había dejado hipersensible. Cada roce de tela, cada corriente de aire, cada movimiento de su cuerpo enviaba señales contradictorias a su cerebro. Dolor y placer. Humillación y excitación.
 
 Cuando terminaron con los pies, pasaron a las manos.
 
-â€”Francesas perfectas â€”dijo la asistente, mostrÃ¡ndole el resultadoâ€”. Elegantes pero prÃ¡cticas.
+—Francesas perfectas —dijo la asistente, mostrándole el resultado—. Elegantes pero prácticas.
 
-Marco mirÃ³ sus uÃ±as: puntas blancas sobre base nude, ligeramente ovaladas, lo suficientemente largas para hacer que escribir en el telÃ©fono fuera un desafÃ­o. Eran uÃ±as de esposa trofeo. UÃ±as que decÃ­an "no trabajo con mis manos."
+Marco miró sus uñas: puntas blancas sobre base nude, ligeramente ovaladas, lo suficientemente largas para hacer que escribir en el teléfono fuera un desafío. Eran uñas de esposa trofeo. Uñas que decían "no trabajo con mis manos."
 
-â€”Gracias â€”susurrÃ³.
+—Gracias —susurró.
 
-Pero Giselle no habÃ­a terminado.
+Pero Giselle no había terminado.
 
-â€”Ahora viene la parte divertida â€”anunciÃ³, consultando la tabletaâ€”. El seÃ±or Marco ha programado el paquete completo de mantenimiento.
+—Ahora viene la parte divertida —anunció, consultando la tableta—. El señor Marco ha programado el paquete completo de mantenimiento.
 
-Marco sintiÃ³ un escalofrÃ­o.
+Marco sintió un escalofrío.
 
-â€”Â¿Paquete completo?
+—¿Paquete completo?
 
-â€”Botox en frente y patas de gallo. MicropigmentaciÃ³n de labios y delineado permanente. Tintura de pelo. Extensiones. â€”Giselle sonriÃ³ como si hablara del climaâ€”. Lo de siempre, querida.
+—Botox en frente y patas de gallo. Micropigmentación de labios y delineado permanente. Tintura de pelo. Extensiones. —Giselle sonrió como si hablara del clima—. Lo de siempre, querida.
 
-*Lo de siempre.* Como si convertirse en una muÃ±eca de plÃ¡stico fuera rutina.
+*Lo de siempre.* Como si convertirse en una muñeca de plástico fuera rutina.
 
-*Pero lo era*, pensÃ³ Marco con horror. *Para Elena, esto ERA lo de siempre. Yo la mandaba aquÃ­ cada seis semanas.*
+*Pero lo era*, pensó Marco con horror. *Para Elena, esto ERA lo de siempre. Yo la mandaba aquí cada seis semanas.*
 
-El botox vino primero. Giselle preparÃ³ una jeringa fina como un cabello.
+El botox vino primero. Giselle preparó una jeringa fina como un cabello.
 
-â€”Un pequeÃ±o pinchazo â€”avisÃ³â€”. Relaja la frente.
+—Un pequeño pinchazo —avisó—. Relaja la frente.
 
-La aguja entrÃ³ en tres puntos diferentes. Cada inyecciÃ³n fue un dolor agudo y breve, seguido de una sensaciÃ³n de entumecimiento que se extendÃ­a como agua frÃ­a. Marco sintiÃ³ sus cejas relajarse involuntariamente, esa expresiÃ³n de sorpresa permanente que Ã©l mismo habÃ­a pedido para Elena.
+La aguja entró en tres puntos diferentes. Cada inyección fue un dolor agudo y breve, seguido de una sensación de entumecimiento que se extendía como agua fría. Marco sintió sus cejas relajarse involuntariamente, esa expresión de sorpresa permanente que él mismo había pedido para Elena.
 
-â€”Perfecto. No mÃ¡s arrugas por cuatro meses.
+—Perfecto. No más arrugas por cuatro meses.
 
-Luego vino la micropigmentaciÃ³n.
+Luego vino la micropigmentación.
 
-â€”Esto tarda un poco mÃ¡s â€”explicÃ³ Giselle, preparando una mÃ¡quina que parecÃ­a un bolÃ­grafo con una aguja en la puntaâ€”. Vamos a tatuar el contorno de tus labios en un tono rosado permanente. Y un delineado sutil en los ojos.
+—Esto tarda un poco más —explicó Giselle, preparando una máquina que parecía un bolígrafo con una aguja en la punta—. Vamos a tatuar el contorno de tus labios en un tono rosado permanente. Y un delineado sutil en los ojos.
 
-â€”Â¿Tatuaje? â€”Marco intentÃ³ levantarseâ€”. Yo no...
+—¿Tatuaje? —Marco intentó levantarse—. Yo no...
 
-â€”El seÃ±or Marco lo solicitÃ³ especÃ­ficamente. â€”Giselle lo detuvo con una mano firmeâ€”. Dijo que estaba cansado de verte sin maquillaje por las maÃ±anas. Ahora siempre estarÃ¡s perfecta.
+—El señor Marco lo solicitó específicamente. —Giselle lo detuvo con una mano firme—. Dijo que estaba cansado de verte sin maquillaje por las mañanas. Ahora siempre estarás perfecta.
 
 *Siempre perfecta. Siempre maquillada. Siempre lista para ser exhibida.*
 
-La aguja tocÃ³ sus labios. El dolor fue diferente al botox: mÃ¡s superficial pero constante, como mil pequeÃ±as picaduras de abeja depositando pigmento bajo su piel. Marco cerrÃ³ los ojos mientras Giselle trabajaba, trazando el contorno de sus labios, rellenando el color, creando ese tono rosado artificial que nunca podrÃ­a lavarse.
+La aguja tocó sus labios. El dolor fue diferente al botox: más superficial pero constante, como mil pequeñas picaduras de abeja depositando pigmento bajo su piel. Marco cerró los ojos mientras Giselle trabajaba, trazando el contorno de sus labios, rellenando el color, creando ese tono rosado artificial que nunca podría lavarse.
 
-Cuando terminÃ³ con los labios, pasÃ³ a los ojos. El delineado permanente fue aÃºn mÃ¡s aterrador: la aguja trabajando milÃ­metros de su globo ocular, depositando tinta negra en la lÃ­nea de las pestaÃ±as.
+Cuando terminó con los labios, pasó a los ojos. El delineado permanente fue aún más aterrador: la aguja trabajando milímetros de su globo ocular, depositando tinta negra en la línea de las pestañas.
 
-â€”Ya estÃ¡. â€”Giselle le pasÃ³ un espejoâ€”. MÃ­rate.
+—Ya está. —Giselle le pasó un espejo—. Mírate.
 
-Marco abriÃ³ los ojos hinchados. Los labios le devolvÃ­an la mirada en un tono coral permanente, perfectamente definidos. Sus ojos tenÃ­an un delineado sutil que los hacÃ­a parecer mÃ¡s grandes, mÃ¡s felinos.
+Marco abrió los ojos hinchados. Los labios le devolvían la mirada en un tono coral permanente, perfectamente definidos. Sus ojos tenían un delineado sutil que los hacía parecer más grandes, más felinos.
 
-*Nunca podrÃ© volver*, pensÃ³. *Estos cambios son permanentes.*
+*Nunca podré volver*, pensó. *Estos cambios son permanentes.*
 
-Pero no habÃ­a tiempo para procesar el horror. Otra asistente ya estaba preparando la estaciÃ³n de pelo.
+Pero no había tiempo para procesar el horror. Otra asistente ya estaba preparando la estación de pelo.
 
-â€”El seÃ±or Marco pidiÃ³ rubio platino â€”dijo la colorista, examinando el cabello castaÃ±o de Marcoâ€”. Y extensiones hasta la mitad de la espalda.
+—El señor Marco pidió rubio platino —dijo la colorista, examinando el cabello castaño de Marco—. Y extensiones hasta la mitad de la espalda.
 
-El proceso de tintura durÃ³ dos horas.
+El proceso de tintura duró dos horas.
 
-Primero, el decolorante. El quÃ­mico ardÃ­a en su cuero cabelludo, arrancando todo el pigmento natural de su pelo. Marco cerrÃ³ los ojos mientras su cabello castaÃ±o morÃ­a, transformÃ¡ndose en un amarillo pajizo que luego fue cubierto por tonos ceniza hasta alcanzar ese rubio platino artificial que parecÃ­a blanco bajo ciertas luces.
+Primero, el decolorante. El químico ardía en su cuero cabelludo, arrancando todo el pigmento natural de su pelo. Marco cerró los ojos mientras su cabello castaño moría, transformándose en un amarillo pajizo que luego fue cubierto por tonos ceniza hasta alcanzar ese rubio platino artificial que parecía blanco bajo ciertas luces.
 
-Luego vinieron las extensiones. Mechones de pelo sintÃ©tico cosidos a su cuero cabelludo, aÃ±adiendo volumen y longitud hasta que su pelo caÃ­a en ondas pesadas hasta la mitad de su espalda.
+Luego vinieron las extensiones. Mechones de pelo sintético cosidos a su cuero cabelludo, añadiendo volumen y longitud hasta que su pelo caía en ondas pesadas hasta la mitad de su espalda.
 
-Cuando la colorista terminÃ³, Marco era irreconocible.
+Cuando la colorista terminó, Marco era irreconocible.
 
-El espejo le mostraba una muÃ±eca Barbie: pelo platino cayendo en cascadas, labios permanentemente rosados, ojos delineados, cejas perfectamente arqueadas por el botox. Todo artificial. Todo diseÃ±ado.
+El espejo le mostraba una muñeca Barbie: pelo platino cayendo en cascadas, labios permanentemente rosados, ojos delineados, cejas perfectamente arqueadas por el botox. Todo artificial. Todo diseñado.
 
-*Yo creÃ© esto*, pensÃ³. *PedÃ­ cada uno de estos tratamientos para Elena. Y ahora soy yo quien los lleva.*
+*Yo creé esto*, pensó. *Pedí cada uno de estos tratamientos para Elena. Y ahora soy yo quien los lleva.*
 
-â€”Preciosa â€”dijo Giselle, admirando la transformaciÃ³nâ€”. El seÃ±or Marco tiene un gusto exquisito.
+—Preciosa —dijo Giselle, admirando la transformación—. El señor Marco tiene un gusto exquisito.
 
-*El seÃ±or Marco quiere una muÃ±eca*, pensÃ³ Marco mientras la pesadez del pelo nuevo tiraba de su cuello. *Y ahora tiene una.*
+*El señor Marco quiere una muñeca*, pensó Marco mientras la pesadez del pelo nuevo tiraba de su cuello. *Y ahora tiene una.*
 
-El tratamiento facial fue lo Ãºltimo. Mascarillas, serums, masajes que relajaron cada mÃºsculo de su cara. Cuando finalmente le permitieron levantarse, Marco apenas se reconociÃ³ en el espejo.
+El tratamiento facial fue lo último. Mascarillas, serums, masajes que relajaron cada músculo de su cara. Cuando finalmente le permitieron levantarse, Marco apenas se reconoció en el espejo.
 
-Su piel brillaba. Sus uÃ±as resplandecÃ­an. Su cuerpo estaba perfectamente liso, sin un pelo fuera de lugar. Su pelo era platino artificial. Sus labios estaban tatuados. Sus pezones perforados.
+Su piel brillaba. Sus uñas resplandecían. Su cuerpo estaba perfectamente liso, sin un pelo fuera de lugar. Su pelo era platino artificial. Sus labios estaban tatuados. Sus pezones perforados.
 
-Era una muÃ±eca. Un producto de spa empaquetado y listo para ser exhibido.
+Era una muñeca. Un producto de spa empaquetado y listo para ser exhibido.
 
-â€”El seÃ±or Marco ya pagÃ³ â€”informÃ³ la recepcionistaâ€”. El coche la espera afuera.
+—El señor Marco ya pagó —informó la recepcionista—. El coche la espera afuera.
 
-Marco tuvo que volver a ponerse el vestido minÃºsculo y los tacones de plataforma. El proceso fue aÃºn mÃ¡s difÃ­cil ahora, con la piel sensible y las uÃ±as largas. Pero cuando finalmente saliÃ³, caminando con cuidado sobre sus zancos de corcho, se sintiÃ³ extraÃ±amente poderosa.
+Marco tuvo que volver a ponerse el vestido minúsculo y los tacones de plataforma. El proceso fue aún más difícil ahora, con la piel sensible y las uñas largas. Pero cuando finalmente salió, caminando con cuidado sobre sus zancos de corcho, se sintió extrañamente poderosa.
 
-CaminÃ³ hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstÃ¡culos contra su clÃ­toris.
+Caminó hacia la salida, sintiendo cada paso en la suavidad nueva de su piel, en el roce del aire contra su pubis depilado, en el peso del piercing que ahora se deslizaba sin obstáculos contra su clítoris.
 
-Cuando subiÃ³ al BMW, Elena la examinÃ³ con ojo crÃ­tico.
+Cuando subió al BMW, Elena la examinó con ojo crítico.
 
-â€”Las uÃ±as.
+—Las uñas.
 
-Marco extendiÃ³ las manos.
+Marco extendió las manos.
 
-â€”Perfectas. â€”Elena tomÃ³ una de sus manos y la besÃ³â€”. Y me encanta cÃ³mo te queda ese vestido. DeberÃ­as usarlo mÃ¡s seguido.
+—Perfectas. —Elena tomó una de sus manos y la besó—. Y me encanta cómo te queda ese vestido. Deberías usarlo más seguido.
 
-â€”Es demasiado corto â€”protestÃ³ Marco.
+—Es demasiado corto —protestó Marco.
 
-â€”Es perfecto. â€”Elena le puso una mano en el muslo desnudoâ€”. MaÃ±ana tienes almuerzo con tus amigas. LucÃ­a, Carmen y Andrea. SerÃ¡ tu primera prueba social.
+—Es perfecto. —Elena le puso una mano en el muslo desnudo—. Mañana tienes almuerzo con tus amigas. Lucía, Carmen y Andrea. Será tu primera prueba social.
 
-El corazÃ³n de Marco se detuvo.
+El corazón de Marco se detuvo.
 
-â€”Â¿Mis amigas? No... no sÃ© nada de sus vidas. Van a notar que...
+—¿Mis amigas? No... no sé nada de sus vidas. Van a notar que...
 
-â€”No van a notar nada. â€”Elena apretÃ³ su musloâ€”. Porque vas a ser encantadora. Vas a cotillear sobre la luna de miel. Y cuando te pregunten sobre el sexo... â€”una sonrisa depredadoraâ€”, vas a contarles *todo*.
+—No van a notar nada. —Elena apretó su muslo—. Porque vas a ser encantadora. Vas a cotillear sobre la luna de miel. Y cuando te pregunten sobre el sexo... —una sonrisa depredadora—, vas a contarles *todo*.
 
-Marco sintiÃ³ los nuevos piercings de sus pezones rozar contra la tela del vestido, enviando chispas de dolor-placer a travÃ©s de su cuerpo.
+Marco sintió los nuevos piercings de sus pezones rozar contra la tela del vestido, enviando chispas de dolor-placer a través de su cuerpo.
 
-â€”DespuÃ©s del almuerzo, tenemos cita con el cirujano â€”aÃ±adiÃ³ Elenaâ€”. Solo mantenimiento, cariÃ±o. Nada que no hayas pagado tÃº mismo antes.
+—Después del almuerzo, tenemos cita con el cirujano —añadió Elena—. Solo mantenimiento, cariño. Nada que no hayas pagado tú mismo antes.
 
-Elena arrancÃ³ el coche, dejando a Marco con el terror helÃ¡ndole las venas, tres piercings palpitando en su cuerpo, y la certeza de que su humillaciÃ³n apenas comenzaba.
-
----
+Elena arrancó el coche, dejando a Marco con el terror helándole las venas, tres piercings palpitando en su cuerpo, y la certeza de que su humillación apenas comenzaba.
 
 ---
 
-Marco no habÃ­a dormido.
+---
 
-Los piercings nuevos en sus pezones palpitaban con cada roce de las sÃ¡banas de seda. El del clÃ­toris respondÃ­a a cada movimiento de sus muslos. Y su cuero cabelludo todavÃ­a ardÃ­a del proceso de tintura del dÃ­a anterior, el rubio platino pesando en su cabeza como una corona de vergÃ¼enza.
+Marco no había dormido.
 
-Elena se lo habÃ­a advertido en el coche, despuÃ©s del spa: *"MaÃ±ana tienes almuerzo con tus amigas."*
+Los piercings nuevos en sus pezones palpitaban con cada roce de las sábanas de seda. El del clítoris respondía a cada movimiento de sus muslos. Y su cuero cabelludo todavía ardía del proceso de tintura del día anterior, el rubio platino pesando en su cabeza como una corona de vergüenza.
 
-Y ahora era maÃ±ana.
+Elena se lo había advertido en el coche, después del spa: *"Mañana tienes almuerzo con tus amigas."*
 
-Marco estaba sentado en el desayunador, mirando su reflejo distorsionado en el acero de la cafetera. El rostro que le devolvÃ­a la mirada era irreconocible: labios permanentemente rosados por la micropigmentaciÃ³n, ojos delineados con tinta que nunca se lavarÃ­a, cejas perfectamente arqueadas por el botox. Todo artificial. Todo ordenado por "el seÃ±or Marco."
+Y ahora era mañana.
 
-â€”LucÃ­a, Carmen y Andrea â€”dijo Elena desde el otro lado de la mesa, como si leyera sus pensamientosâ€”. Almuerzo a las dos en Casa LucÃ­a. Tu primera prueba social real.
+Marco estaba sentado en el desayunador, mirando su reflejo distorsionado en el acero de la cafetera. El rostro que le devolvía la mirada era irreconocible: labios permanentemente rosados por la micropigmentación, ojos delineados con tinta que nunca se lavaría, cejas perfectamente arqueadas por el botox. Todo artificial. Todo ordenado por "el señor Marco."
 
-El estÃ³mago de Marco cayÃ³.
+—Lucía, Carmen y Andrea —dijo Elena desde el otro lado de la mesa, como si leyera sus pensamientos—. Almuerzo a las dos en Casa Lucía. Tu primera prueba social real.
 
-Las habÃ­a conocido en cenas de compromiso y fiestas de cumpleaÃ±os, siempre desde la distancia cÃ³moda del esposo. Ahora se suponÃ­a que debÃ­a sentarse con ellas. Como una de ellas. Con el pelo rubio platino que Ã©l mismo habÃ­a exigido para Elena. Con los labios tatuados que Ã©l mismo habÃ­a ordenado. Con los piercings que ahora decoraban un cuerpo que no reconocÃ­a como suyo.
+El estómago de Marco cayó.
 
-â€”Van a notar algo â€”susurrÃ³ Marcoâ€”. El pelo... los labios... todo es diferente.
+Las había conocido en cenas de compromiso y fiestas de cumpleaños, siempre desde la distancia cómoda del esposo. Ahora se suponía que debía sentarse con ellas. Como una de ellas. Con el pelo rubio platino que él mismo había exigido para Elena. Con los labios tatuados que él mismo había ordenado. Con los piercings que ahora decoraban un cuerpo que no reconocía como suyo.
 
-â€”Todo es *mejor* â€”corrigiÃ³ Elenaâ€”. Les dirÃ¡s que tu marido te inspirÃ³ a ser mÃ¡s atrevida despuÃ©s de la luna de miel. Y cuando te pregunten sobre el sexo... â€”una sonrisa depredadoraâ€” ya sabes lo que tienes que hacer.
+—Van a notar algo —susurró Marco—. El pelo... los labios... todo es diferente.
 
-Los tres piercings palpitaron al unÃ­sono, como si ya supieran lo que iba a pasar.
+—Todo es *mejor* —corrigió Elena—. Les dirás que tu marido te inspiró a ser más atrevida después de la luna de miel. Y cuando te pregunten sobre el sexo... —una sonrisa depredadora— ya sabes lo que tienes que hacer.
+
+Los tres piercings palpitaron al unísono, como si ya supieran lo que iba a pasar.
 
 ---
 
-El ritual de preparaciÃ³n para el almuerzo fue tan exhaustivo como para una gala nocturna. Elena no permitÃ­a "looks casuales."
+El ritual de preparación para el almuerzo fue tan exhaustivo como para una gala nocturna. Elena no permitía "looks casuales."
 
 Pero antes del vestido, vino el maquillaje.
 
-Marco obedeciÃ³. El espejo le devolvÃ­a la imagen de ayer: pelo rubio platino cayendo en ondas, labios permanentemente rosados por la micropigmentaciÃ³n, ojos delineados con tinta que nunca se lavarÃ­a. Todo lo que el spa le habÃ­a hecho el dÃ­a anterior.
+Marco obedeció. El espejo le devolvía la imagen de ayer: pelo rubio platino cayendo en ondas, labios permanentemente rosados por la micropigmentación, ojos delineados con tinta que nunca se lavaría. Todo lo que el spa le había hecho el día anterior.
 
-â€”Hoy aÃ±adimos las pestaÃ±as â€”dijo Elena, sacando unas tiras largas y dramÃ¡ticasâ€”. Para el almuerzo.
+—Hoy añadimos las pestañas —dijo Elena, sacando unas tiras largas y dramáticas—. Para el almuerzo.
 
-Elena le aplicÃ³ las pestaÃ±as postizas, unas tiras que pesaban en sus pÃ¡rpados como pequeÃ±as cortinas de pelo. Marco sintiÃ³ el pegamento frÃ­o, luego el tirÃ³n suave mientras Elena las presionaba contra la lÃ­nea de sus pestaÃ±as naturales.
+Elena le aplicó las pestañas postizas, unas tiras que pesaban en sus párpados como pequeñas cortinas de pelo. Marco sintió el pegamento frío, luego el tirón suave mientras Elena las presionaba contra la línea de sus pestañas naturales.
 
-â€”Parpadea.
+—Parpadea.
 
-Marco parpadeÃ³. El mundo se veÃ­a diferente a travÃ©s de ese bosque de pestaÃ±as. Cada vez que cerraba los ojos, sentÃ­a el roce sedoso contra sus mejillas. Era como mirar a travÃ©s de un velo.
+Marco parpadeó. El mundo se veía diferente a través de ese bosque de pestañas. Cada vez que cerraba los ojos, sentía el roce sedoso contra sus mejillas. Era como mirar a través de un velo.
 
-â€”Y ahora el pelo â€”dijo Elena.
+—Y ahora el pelo —dijo Elena.
 
-Marco tocÃ³ su cabello. Ya lo habÃ­an teÃ±ido rubio platino artificial en el spa, un tono tan claro que casi era blanco bajo ciertas luces. Las extensiones habÃ­an aÃ±adido volumen y longitud hasta la mitad de su espalda. El resultado era el pelo de una muÃ±eca Barbie, artificial y magnifico.
+Marco tocó su cabello. Ya lo habían teñido rubio platino artificial en el spa, un tono tan claro que casi era blanco bajo ciertas luces. Las extensiones habían añadido volumen y longitud hasta la mitad de su espalda. El resultado era el pelo de una muñeca Barbie, artificial y magnifico.
 
-â€”Me siento... â€”empezÃ³ Marco, pero no encontraba las palabras.
+—Me siento... —empezó Marco, pero no encontraba las palabras.
 
-â€”Â¿Falsa? â€”Elena sonriÃ³â€”. Bueno. Ahora eres la versiÃ³n mejorada. La versiÃ³n que siempre quisiste que yo fuera.
+—¿Falsa? —Elena sonrió—. Bueno. Ahora eres la versión mejorada. La versión que siempre quisiste que yo fuera.
 
-La verdad de esas palabras golpeÃ³ a Marco como un puÃ±o. Ã‰l habÃ­a pagado por todas estas mejoras. Las extensiones. El rubio platino. Las pestaÃ±as dramÃ¡ticas. Todo lo habÃ­a exigido para Elena, y ahora lo sufrÃ­a en carne propia. DeberÃ­a sentir solo horror, pero habÃ­a algo mÃ¡s. Una satisfacciÃ³n perversa de verse tan... perfecta. Tan irresistiblemente femenina. Y esa satisfacciÃ³n lo llenaba de vergÃ¼enza.
+La verdad de esas palabras golpeó a Marco como un puño. Él había pagado por todas estas mejoras. Las extensiones. El rubio platino. Las pestañas dramáticas. Todo lo había exigido para Elena, y ahora lo sufría en carne propia. Debería sentir solo horror, pero había algo más. Una satisfacción perversa de verse tan... perfecta. Tan irresistiblemente femenina. Y esa satisfacción lo llenaba de vergüenza.
 
-â€”Hoy quiero algo inocente pero sucio â€”anunciÃ³ Elena, abriendo el armarioâ€”. Blanco. Encaje. Transparencias.
+—Hoy quiero algo inocente pero sucio —anunció Elena, abriendo el armario—. Blanco. Encaje. Transparencias.
 
-EligiÃ³ un vestido de verano blanco, de estilo ibicenco, que a primera vista parecÃ­a recatado. Pero cuando Marco lo sostuvo contra la luz, vio la verdad: la tela era tan fina que era prÃ¡cticamente transparente.
+Eligió un vestido de verano blanco, de estilo ibicenco, que a primera vista parecía recatado. Pero cuando Marco lo sostuvo contra la luz, vio la verdad: la tela era tan fina que era prácticamente transparente.
 
-â€”Ropa interior â€”ordenÃ³ Elena.
+—Ropa interior —ordenó Elena.
 
-Marco abriÃ³ el cajÃ³n de la lencerÃ­a. Elena eligiÃ³ un conjunto de encaje blanco que hacÃ­a juego con el vestido. El sujetador era de media copa, diseÃ±ado para empujar los pechos hacia arriba y hacia afuera. Las bragas eran minÃºsculas, apenas un triÃ¡ngulo de encaje sobre el pubis y una tira dental en la parte trasera.
+Marco abrió el cajón de la lencería. Elena eligió un conjunto de encaje blanco que hacía juego con el vestido. El sujetador era de media copa, diseñado para empujar los pechos hacia arriba y hacia afuera. Las bragas eran minúsculas, apenas un triángulo de encaje sobre el pubis y una tira dental en la parte trasera.
 
-Marco se vistiÃ³ lentamente, sintiendo cada textura con una conciencia agudizada.
+Marco se vistió lentamente, sintiendo cada textura con una conciencia agudizada.
 
-Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilaciÃ³n perfecta. Al subirlas, la tela rozÃ³ directamente contra el piercing, enviando esa descarga elÃ©ctrica familiar. *Soy un hombre*, se recordÃ³ mientras ajustaba el elÃ¡stico sobre sus caderas femeninas. *Un hombre poniÃ©ndose bragas de encaje*. La humillaciÃ³n quemaba, pero el piercing pulsaba con algo que no era solo incomodidad.
+Primero las bragas. El encaje blanco contrastaba obscenamente con su piel bronceada y su depilación perfecta. Al subirlas, la tela rozó directamente contra el piercing, enviando esa descarga eléctrica familiar. *Soy un hombre*, se recordó mientras ajustaba el elástico sobre sus caderas femeninas. *Un hombre poniéndose bragas de encaje*. La humillación quemaba, pero el piercing pulsaba con algo que no era solo incomodidad.
 
-Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. Y los piercings de sus pezones â€”todavÃ­a sensibles del dÃ­a anteriorâ€” rozaron contra el encaje interior, enviando chispas de dolor-placer que lo hicieron jadear. El peso de los implantes se redistribuyÃ³, elevÃ¡ndose y proyectÃ¡ndose hacia adelante como ofrendas. *Yo paguÃ© por estos*, pensÃ³ Marco mientras sentÃ­a cÃ³mo el sujetador los empujaba hacia arriba, creando un escote verdaderamente obsceno. *Los comprÃ© para mi placer. Ahora los cargo yo*. Y a pesar de la vergÃ¼enza, habÃ­a algo reconfortante en sentirlos... contenidos. Empaquetados. Como si pertenecieran ahÃ­.
+Luego el sujetador. Tuvo que inclinarse hacia adelante para acomodar sus pechos pesados en las copas. Los aros se clavaron en sus costillas. Los tirantes se ajustaron en sus hombros. Y los piercings de sus pezones —todavía sensibles del día anterior— rozaron contra el encaje interior, enviando chispas de dolor-placer que lo hicieron jadear. El peso de los implantes se redistribuyó, elevándose y proyectándose hacia adelante como ofrendas. *Yo pagué por estos*, pensó Marco mientras sentía cómo el sujetador los empujaba hacia arriba, creando un escote verdaderamente obsceno. *Los compré para mi placer. Ahora los cargo yo*. Y a pesar de la vergüenza, había algo reconfortante en sentirlos... contenidos. Empaquetados. Como si pertenecieran ahí.
 
-El vestido cayÃ³ sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. PodÃ­a ver el contorno de sus pezones endurecidos a travÃ©s de la tela. PodÃ­a ver la sombra de su pubis perfectamente liso. *Parezco una puta cara*, pensÃ³. Y la vergÃ¼enza se mezclÃ³ con algo parecido al orgullo.
+El vestido cayó sobre su cuerpo como una nube. Era suave, ligero, y no ocultaba absolutamente nada. Podía ver el contorno de sus pezones endurecidos a través de la tela. Podía ver la sombra de su pubis perfectamente liso. *Parezco una puta cara*, pensó. Y la vergüenza se mezcló con algo parecido al orgullo.
 
-â€”Y ahora, lo mÃ¡s importante â€”dijo Elena, sacando una caja de zapatos.
+—Y ahora, lo más importante —dijo Elena, sacando una caja de zapatos.
 
-Sandalias de tacÃ³n. Blancas. De tiras finas que se ataban alrededor del tobillo. Y el tacÃ³n... Marco tragÃ³ saliva. Eran de aguja, de al menos doce centÃ­metros.
+Sandalias de tacón. Blancas. De tiras finas que se ataban alrededor del tobillo. Y el tacón... Marco tragó saliva. Eran de aguja, de al menos doce centímetros.
 
-â€”Elena, es un almuerzo. No puedo caminar con esto a las dos de la tarde.
+—Elena, es un almuerzo. No puedo caminar con esto a las dos de la tarde.
 
-â€”Puedes y lo harÃ¡s. â€”Elena se arrodillÃ³ para ponÃ©rselasâ€”. Una mujer como tÃº nunca baja de los diez centÃ­metros. Estiliza las piernas. Levanta el culo. Te hace caminar... vulnerable.
+—Puedes y lo harás. —Elena se arrodilló para ponérselas—. Una mujer como tú nunca baja de los diez centímetros. Estiliza las piernas. Levanta el culo. Te hace caminar... vulnerable.
 
-Elena atÃ³ las cintas alrededor de sus tobillos con fuerza, asegurÃ¡ndose de que no se movieran. Cuando Marco se puso de pie, el mundo cambiÃ³ de perspectiva. Su centro de gravedad se desplazÃ³. Sus pantorrillas se tensaron. Su culo se proyectÃ³ hacia atrÃ¡s automÃ¡ticamente. Y, para su horror, le gustÃ³. Le gustÃ³ cÃ³mo sus piernas parecÃ­an kilomÃ©tricas. Le gustÃ³ cÃ³mo el tacÃ³n lo obligaba a caminar con un balanceo de caderas hipnÃ³tico. Le gustÃ³ sentirse alto, elegante, poderoso en su vulnerabilidad.
+Elena ató las cintas alrededor de sus tobillos con fuerza, asegurándose de que no se movieran. Cuando Marco se puso de pie, el mundo cambió de perspectiva. Su centro de gravedad se desplazó. Sus pantorrillas se tensaron. Su culo se proyectó hacia atrás automáticamente. Y, para su horror, le gustó. Le gustó cómo sus piernas parecían kilométricas. Le gustó cómo el tacón lo obligaba a caminar con un balanceo de caderas hipnótico. Le gustó sentirse alto, elegante, poderoso en su vulnerabilidad.
 
-Se mirÃ³ en el espejo. Ya no parecÃ­a una muÃ±eca de porcelana. ParecÃ­a una diosa. Una diosa con labios tatuados, pestaÃ±as postizas, pelo de platino artificial, pechos imposibles, y tacones de prostituta de lujo. Todo lo que habÃ­a exigido en una esposa. Todo lo que ahora era.
+Se miró en el espejo. Ya no parecía una muñeca de porcelana. Parecía una diosa. Una diosa con labios tatuados, pestañas postizas, pelo de platino artificial, pechos imposibles, y tacones de prostituta de lujo. Todo lo que había exigido en una esposa. Todo lo que ahora era.
 
-Y lo mÃ¡s aterrador de todo: le gustaba lo que veÃ­a.
+Y lo más aterrador de todo: le gustaba lo que veía.
 
-â€”Perfecta â€”dijo Elena, admirando cÃ³mo el vestido se transparentaba bajo la luz del solâ€”. Ahora ve. Y recuerda: cada detalle.
+—Perfecta —dijo Elena, admirando cómo el vestido se transparentaba bajo la luz del sol—. Ahora ve. Y recuerda: cada detalle.
 
 ---
 
-Casa LucÃ­a era un restaurante encantador en el centro de la ciudad, con manteles florales y luz natural que entraba por amplios ventanales. El tipo de lugar donde las mujeres ricas almorzaban para discutir sus matrimonios, sus cirugÃ­as y sus frustaciones.
+Casa Lucía era un restaurante encantador en el centro de la ciudad, con manteles florales y luz natural que entraba por amplios ventanales. El tipo de lugar donde las mujeres ricas almorzaban para discutir sus matrimonios, sus cirugías y sus frustaciones.
 
-Marco llegÃ³ a las dos en punto. El sonido de sus tacones de doce centÃ­metros contra el suelo de madera hizo que varias cabezas se giraran. Se sentÃ­a desnudo bajo el vestido transparente, expuesto a cada mirada.
+Marco llegó a las dos en punto. El sonido de sus tacones de doce centímetros contra el suelo de madera hizo que varias cabezas se giraran. Se sentía desnudo bajo el vestido transparente, expuesto a cada mirada.
 
 Las tres mujeres ya estaban sentadas en una mesa cerca de la ventana.
 
-â€”Â¡Elena! â€”gritÃ³ LucÃ­a, levantÃ¡ndose para abrazarloâ€”. Â¡MÃ­rate! Â¡EstÃ¡s radiante!
+—¡Elena! —gritó Lucía, levantándose para abrazarlo—. ¡Mírate! ¡Estás radiante!
 
-LucÃ­a era rubia, de cuarenta y tantos, con la piel estirada por botox y los labios inflados por rellenos. Carmen era morena, mÃ¡s natural, con unos pechos enormes que Marco solÃ­a mirar cuando creÃ­a que nadie lo veÃ­a. Y Andrea era la mÃ¡s joven, pelirroja, con una risa escandalosa y una lengua afilada.
+Lucía era rubia, de cuarenta y tantos, con la piel estirada por botox y los labios inflados por rellenos. Carmen era morena, más natural, con unos pechos enormes que Marco solía mirar cuando creía que nadie lo veía. Y Andrea era la más joven, pelirroja, con una risa escandalosa y una lengua afilada.
 
-â€”El Caribe te sentÃ³ de maravilla â€”dijo Carmen, examinÃ¡ndolo de arriba abajoâ€”. Â¿Engordaste? Tienes las tetas mÃ¡s grandes.
+—El Caribe te sentó de maravilla —dijo Carmen, examinándolo de arriba abajo—. ¿Engordaste? Tienes las tetas más grandes.
 
-Marco sintiÃ³ el rubor subirle por el cuello.
+Marco sintió el rubor subirle por el cuello.
 
-â€”Es el... el bronceado. Hace que todo parezca mÃ¡s...
+—Es el... el bronceado. Hace que todo parezca más...
 
-â€”No, no. Definitivamente estÃ¡s mÃ¡s rellena. â€”Carmen asintiÃ³â€”. Seguro es todo el sexo. Cuando te cogen bien, el cuerpo retiene todo diferente.
+—No, no. Definitivamente estás más rellena. —Carmen asintió—. Seguro es todo el sexo. Cuando te cogen bien, el cuerpo retiene todo diferente.
 
 Las tres mujeres rieron.
 
-Marco se sentÃ³, intentando acomodarse en la silla sin que el piercing rozara demasiado. Era imposible. Cada movimiento enviaba pequeÃ±as chispas desde su clÃ­toris hasta su columna vertebral.
+Marco se sentó, intentando acomodarse en la silla sin que el piercing rozara demasiado. Era imposible. Cada movimiento enviaba pequeñas chispas desde su clítoris hasta su columna vertebral.
 
-Ordenaron ensaladas y prosecco. La conversaciÃ³n comenzÃ³ con los temas habituales: la nueva lÃ­nea de bolsos de HermÃ¨s, el escÃ¡ndalo de la esposa del alcalde, el hijo adolescente de LucÃ­a que habÃ­a sido atrapado con drogas.
+Ordenaron ensaladas y prosecco. La conversación comenzó con los temas habituales: la nueva línea de bolsos de Hermès, el escándalo de la esposa del alcalde, el hijo adolescente de Lucía que había sido atrapado con drogas.
 
-Pero Marco sabÃ­a que el verdadero tema estaba acercÃ¡ndose como un tiburÃ³n en aguas oscuras.
+Pero Marco sabía que el verdadero tema estaba acercándose como un tiburón en aguas oscuras.
 
-â€”Bueno, suficiente de nuestras vidas aburridas â€”dijo Andrea, inclinÃ¡ndose hacia adelante con ojos brillantesâ€”. CuÃ©ntanos de la luna de miel. Y no dejes fuera ningÃºn detalle.
+—Bueno, suficiente de nuestras vidas aburridas —dijo Andrea, inclinándose hacia adelante con ojos brillantes—. Cuéntanos de la luna de miel. Y no dejes fuera ningún detalle.
 
-AhÃ­ estaba.
+Ahí estaba.
 
-Marco tomÃ³ un largo trago de prosecco.
+Marco tomó un largo trago de prosecco.
 
-â€”Fue... increÃ­ble.
+—Fue... increíble.
 
-â€”"IncreÃ­ble" no dice nada â€”interrumpiÃ³ Carmenâ€”. Queremos detalles. Â¿CuÃ¡ntas veces al dÃ­a?
+—"Increíble" no dice nada —interrumpió Carmen—. Queremos detalles. ¿Cuántas veces al día?
 
-â€”Carmen... â€”intentÃ³ evadir Marco.
+—Carmen... —intentó evadir Marco.
 
-â€”Â¿QuÃ©? Todas queremos saber. LucÃ­a no ha cogido en seis meses. Andrea estÃ¡ saliendo con ese idiota que no la satisface. Y yo... bueno, David tiene disfunciÃ³n erÃ©ctil desde hace un aÃ±o. Necesitamos vivir vicariosamente a travÃ©s de ti.
+—¿Qué? Todas queremos saber. Lucía no ha cogido en seis meses. Andrea está saliendo con ese idiota que no la satisface. Y yo... bueno, David tiene disfunción eréctil desde hace un año. Necesitamos vivir vicariosamente a través de ti.
 
-Las tres mujeres lo miraban expectantes. Tres pares de ojos hambrientos de informaciÃ³n sexual.
+Las tres mujeres lo miraban expectantes. Tres pares de ojos hambrientos de información sexual.
 
-Y Marco recordÃ³ la orden de Elena: *Vas a contarles la verdad. Cada detalle.*
+Y Marco recordó la orden de Elena: *Vas a contarles la verdad. Cada detalle.*
 
-â€”Cuatro veces al dÃ­a â€”dijo finalmente, su voz apenas un susurroâ€”. A veces cinco.
+—Cuatro veces al día —dijo finalmente, su voz apenas un susurro—. A veces cinco.
 
 Un silencio de asombro.
 
-â€”Cuatro... â€”LucÃ­a casi se atragantÃ³ con su ensaladaâ€”. Â¡Cuatro veces!
+—Cuatro... —Lucía casi se atragantó con su ensalada—. ¡Cuatro veces!
 
-â€”Cinco cuando... cuando Marco estaba especialmente... â€”Marco buscÃ³ la palabraâ€”, inspirado.
+—Cinco cuando... cuando Marco estaba especialmente... —Marco buscó la palabra—, inspirado.
 
-â€”Dios mÃ­o. â€”Andrea se abanicÃ³ con la manoâ€”. Â¿Y cÃ³mo? Â¿QuÃ© posiciones? Â¿Era romÃ¡ntico o sucio?
+—Dios mío. —Andrea se abanicó con la mano—. ¿Y cómo? ¿Qué posiciones? ¿Era romántico o sucio?
 
-El calor subiÃ³ por las mejillas de Marco. El piercing palpitÃ³ con mÃ¡s fuerza.
+El calor subió por las mejillas de Marco. El piercing palpitó con más fuerza.
 
-â€”Ambos. A veces... a veces era romÃ¡ntico. En la playa. Al atardecer. Pero otras veces... â€”tomÃ³ otro trago de proseccoâ€”, otras veces era... muy sucio.
+—Ambos. A veces... a veces era romántico. En la playa. Al atardecer. Pero otras veces... —tomó otro trago de prosecco—, otras veces era... muy sucio.
 
-â€”Define "muy sucio" â€”exigiÃ³ Carmen, sus ojos brillando.
+—Define "muy sucio" —exigió Carmen, sus ojos brillando.
 
-Marco cerrÃ³ los ojos por un momento. RecordÃ³ las noches en el resort. Elena sobre Ã©l. Elena dentro de Ã©l. La noche de bodas, cuando habÃ­a sido penetrado por primera vez, el dolor mezclado con algo que no querÃ­a admitir que era placer. Y todas las noches despuÃ©s, cuando su cuerpo habÃ­a aprendido a *necesitarlo*.
+Marco cerró los ojos por un momento. Recordó las noches en el resort. Elena sobre él. Elena dentro de él. La noche de bodas, cuando había sido penetrado por primera vez, el dolor mezclado con algo que no quería admitir que era placer. Y todas las noches después, cuando su cuerpo había aprendido a *necesitarlo*.
 
-â€”Me... me tomaba cuando Ã©l querÃ­a. Como Ã©l querÃ­a. A veces me despertaba en mitad de la noche con Ã©l ya... â€”se mordiÃ³ el labioâ€”, ya dentro de mÃ­.
+—Me... me tomaba cuando él quería. Como él quería. A veces me despertaba en mitad de la noche con él ya... —se mordió el labio—, ya dentro de mí.
 
-â€”Â¡Oh, Dios mÃ­o! â€”gritÃ³ Andreaâ€”. Â¡Eso es tan caliente!
+—¡Oh, Dios mío! —gritó Andrea—. ¡Eso es tan caliente!
 
-â€”Â¿Y tÃº? â€”preguntÃ³ LucÃ­aâ€”. Â¿Le hacÃ­as cosas a Ã©l?
+—¿Y tú? —preguntó Lucía—. ¿Le hacías cosas a él?
 
-La pregunta golpeÃ³ a Marco como un puÃ±etazo. RecordÃ³ las maÃ±anas. RecordÃ³ arrodillarse. RecordÃ³ la polla que habÃ­a sido suya llenÃ¡ndole la boca.
+La pregunta golpeó a Marco como un puñetazo. Recordó las mañanas. Recordó arrodillarse. Recordó la polla que había sido suya llenándole la boca.
 
-â€”Le... le hacÃ­a cosas con la boca â€”admitiÃ³, y su voz sonÃ³ patÃ©ticamente pequeÃ±aâ€”. Ã‰l decÃ­a que nunca habÃ­a tenido mejores...
+—Le... le hacía cosas con la boca —admitió, y su voz sonó patéticamente pequeña—. Él decía que nunca había tenido mejores...
 
-â€”Mejor oral â€”completÃ³ Carmen con una sonrisaâ€”. Chica, eso es todo lo que los hombres quieren. Una boca que sepa trabajar y un coÃ±o que estÃ© siempre dispuesto. Si les das eso, te adoran.
+—Mejor oral —completó Carmen con una sonrisa—. Chica, eso es todo lo que los hombres quieren. Una boca que sepa trabajar y un coño que esté siempre dispuesto. Si les das eso, te adoran.
 
-Marco querÃ­a vomitar. QuerÃ­a gritar que Ã©l *era* uno de esos hombres. Que Ã©l *habÃ­a sido* uno de esos hombres. Que sabÃ­a exactamente lo que los hombres querÃ­an porque lo habÃ­a querido toda su vida.
+Marco quería vomitar. Quería gritar que él *era* uno de esos hombres. Que él *había sido* uno de esos hombres. Que sabía exactamente lo que los hombres querían porque lo había querido toda su vida.
 
-Pero no podÃ­a decir nada.
+Pero no podía decir nada.
 
-â€”Â¿Y el piercing? â€”preguntÃ³ Andrea de repenteâ€”. Â¿Le gusta a Marco?
+—¿Y el piercing? —preguntó Andrea de repente—. ¿Le gusta a Marco?
 
-Marco parpadeÃ³.
+Marco parpadeó.
 
-â€”Â¿El... piercing?
+—¿El... piercing?
 
-â€”El del clÃ­toris, boba. â€”Andrea riÃ³â€”. Recuerdo cuando me contaste que te lo hiciste como sorpresa para Marco. Antes de la boda. Dijiste que querÃ­as que la noche de bodas fuera *inolvidable*.
+—El del clítoris, boba. —Andrea rió—. Recuerdo cuando me contaste que te lo hiciste como sorpresa para Marco. Antes de la boda. Dijiste que querías que la noche de bodas fuera *inolvidable*.
 
-Marco se quedÃ³ helado.
+Marco se quedó helado.
 
 *Cierto.*
 
-No habÃ­a sido idea de Marco. HabÃ­a sido Elena â€”la Elena original, la que ahora estaba en el cuerpo de Ã©lâ€” quien se habÃ­a perforado el clÃ­toris como sorpresa para su noche de bodas. Un regalo. Una entrega total.
+No había sido idea de Marco. Había sido Elena —la Elena original, la que ahora estaba en el cuerpo de él— quien se había perforado el clítoris como sorpresa para su noche de bodas. Un regalo. Una entrega total.
 
 Y ahora Marco lo heredaba para siempre.
 
-â€”SÃ­ â€”dijo Marco, y su voz temblÃ³â€”. Le encanta. Y... y tiene razÃ³n. Me hace muy sensible.
+—Sí —dijo Marco, y su voz tembló—. Le encanta. Y... y tiene razón. Me hace muy sensible.
 
-â€”Â¿Pero sabÃ©is quÃ©? â€”interrumpiÃ³ Carmen, mirando el escote de Marcoâ€”. Â¿QuÃ© son esas marcas en tus pezones?
+—¿Pero sabéis qué? —interrumpió Carmen, mirando el escote de Marco—. ¿Qué son esas marcas en tus pezones?
 
-Marco bajÃ³ la vista. A travÃ©s de la tela fina del vestido blanco, las barras de titanio rosa de sus nuevos piercings eran visibles como sombras.
+Marco bajó la vista. A través de la tela fina del vestido blanco, las barras de titanio rosa de sus nuevos piercings eran visibles como sombras.
 
-â€”Son... son nuevos â€”admitiÃ³, sintiendo el rubor extenderse por su cuelloâ€”. Mi marido los pidiÃ³. Como... como regalo de aniversario de un mes.
+—Son... son nuevos —admitió, sintiendo el rubor extenderse por su cuello—. Mi marido los pidió. Como... como regalo de aniversario de un mes.
 
-â€”Â¡Piercings en los pezones! â€”gritÃ³ Andreaâ€”. Â¡Elena, eres una pervertida!
+—¡Piercings en los pezones! —gritó Andrea—. ¡Elena, eres una pervertida!
 
-â€”Marco es... muy exigente â€”logrÃ³ decir Marco.
+—Marco es... muy exigente —logró decir Marco.
 
-â€”Y a ti te *encanta* que lo sea. â€”LucÃ­a sonriÃ³â€”. Se te nota en la cara.
+—Y a ti te *encanta* que lo sea. —Lucía sonrió—. Se te nota en la cara.
 
 Era verdad. Y Marco lo odiaba.
 
-Debajo de la mesa, los tres piercings palpitaban al unÃ­sono: el del clÃ­toris que Elena le habÃ­a regalado, y los dos de los pezones que "el seÃ±or Marco" habÃ­a ordenado. Cada uno aÃ±adiendo su nota a la sinfonÃ­a de excitaciÃ³n no deseada que recorrÃ­a su cuerpo.
+Debajo de la mesa, los tres piercings palpitaban al unísono: el del clítoris que Elena le había regalado, y los dos de los pezones que "el señor Marco" había ordenado. Cada uno añadiendo su nota a la sinfonía de excitación no deseada que recorría su cuerpo.
 
-Estaba mojado otra vez. Mojado y caliente y desesperadamente excitado mientras hablaba de cÃ³mo su marido lo usaba.
+Estaba mojado otra vez. Mojado y caliente y desesperadamente excitado mientras hablaba de cómo su marido lo usaba.
 
-â€”Â¿EstÃ¡s bien, cariÃ±o? â€”preguntÃ³ LucÃ­a, notando su ruborâ€”. EstÃ¡s muy roja.
+—¿Estás bien, cariño? —preguntó Lucía, notando su rubor—. Estás muy roja.
 
-â€”Es el... el prosecco â€”mintiÃ³ Marcoâ€”. Me afecta rÃ¡pido.
+—Es el... el prosecco —mintió Marco—. Me afecta rápido.
 
-â€”Mmm. â€”Carmen lo mirÃ³ con ojos entrecerradosâ€”. O es que hablar de todo ese sexo te ha puesto cachonda. Â¿Marco te deja tocarte cuando estÃ¡s fuera?
+—Mmm. —Carmen lo miró con ojos entrecerrados—. O es que hablar de todo ese sexo te ha puesto cachonda. ¿Marco te deja tocarte cuando estás fuera?
 
-La pregunta era tan obscena que Marco casi se atragantÃ³.
+La pregunta era tan obscena que Marco casi se atragantó.
 
-â€”Yo... yo...
+—Yo... yo...
 
-â€”Seguro que no. â€”Carmen asintiÃ³â€”. Los hombres como Marco quieren control total. Apuesto a que solo te deja correrte cuando Ã©l lo decide.
+—Seguro que no. —Carmen asintió—. Los hombres como Marco quieren control total. Apuesto a que solo te deja correrte cuando él lo decide.
 
-Era verdad. Completamente verdad. Elena decidÃ­a cuÃ¡ndo, cÃ³mo, y si Marco tenÃ­a permiso de correrse. A veces lo llevaba al borde durante horas solo para dejarlo ahÃ­, temblando y suplicando.
+Era verdad. Completamente verdad. Elena decidía cuándo, cómo, y si Marco tenía permiso de correrse. A veces lo llevaba al borde durante horas solo para dejarlo ahí, temblando y suplicando.
 
-â€”Es... es complicado â€”murmurÃ³ Marco.
+—Es... es complicado —murmuró Marco.
 
-Las mujeres intercambiaron miradas cÃ³mplices.
+Las mujeres intercambiaron miradas cómplices.
 
-â€”Querida â€”dijo LucÃ­a, poniendo una mano sobre la de Marcoâ€”, no hay nada complicado. Tienes un marido que te desea, que te usa bien, y que te mantiene hambrienta de Ã©l. Eso es lo que todas queremos.
+—Querida —dijo Lucía, poniendo una mano sobre la de Marco—, no hay nada complicado. Tienes un marido que te desea, que te usa bien, y que te mantiene hambrienta de él. Eso es lo que todas queremos.
 
-Marco asintiÃ³, porque era lo Ãºnico que podÃ­a hacer.
+Marco asintió, porque era lo único que podía hacer.
 
-Y mientras las amigas de Elena seguÃ­an cotilleando sobre sus propias vidas sexuales vacÃ­as, Marco se quedÃ³ sentado en silencio, con las piernas apretadas bajo la mesa, intentando ignorar el pulso constante del piercing y la humedad que le empapaba el vestido blanco por dentro.
+Y mientras las amigas de Elena seguían cotilleando sobre sus propias vidas sexuales vacías, Marco se quedó sentado en silencio, con las piernas apretadas bajo la mesa, intentando ignorar el pulso constante del piercing y la humedad que le empapaba el vestido blanco por dentro.
 
-Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prÃ¡cticamente corriÃ³ hacia el coche, sus tacones de doce centÃ­metros resonando como una cuenta atrÃ¡s.
+Cuando finalmente se despidieron con besos y promesas de repetir pronto, Marco prácticamente corrió hacia el coche, sus tacones de doce centímetros resonando como una cuenta atrás.
 
-Se subiÃ³ al asiento del conductor â€”todavÃ­a le permitÃ­an manejar, aunque Elena controlaba todo lo demÃ¡sâ€” y se quedÃ³ quieto por un momento, respirando.
+Se subió al asiento del conductor —todavía le permitían manejar, aunque Elena controlaba todo lo demás— y se quedó quieto por un momento, respirando.
 
-Su telÃ©fono vibrÃ³. Un mensaje de Elena.
+Su teléfono vibró. Un mensaje de Elena.
 
-*"Â¿Les contaste todo?"*
+*"¿Les contaste todo?"*
 
-Marco tecleÃ³ con dedos temblorosos: *"SÃ­."*
+Marco tecleó con dedos temblorosos: *"Sí."*
 
-*"Â¿EstÃ¡s mojada?"*
+*"¿Estás mojada?"*
 
-Marco mirÃ³ hacia abajo. La mancha oscura en la entrepierna de su vestido blanco era visible incluso en la luz tenue del garaje.
+Marco miró hacia abajo. La mancha oscura en la entrepierna de su vestido blanco era visible incluso en la luz tenue del garaje.
 
-*"SÃ­."*
+*"Sí."*
 
 *"No te toques. Maneja a casa. Te necesito."*
 
-Marco encendiÃ³ el coche y condujo hacia su prisiÃ³n de lujo, con el piercing palpitando al ritmo de su corazÃ³n traidor.
+Marco encendió el coche y condujo hacia su prisión de lujo, con el piercing palpitando al ritmo de su corazón traidor.
 
 ---
 
 ---
 
-La clÃ­nica del Doctor Valladares estaba en el piso mÃ¡s alto de un edificio de cristal en el distrito financiero.
+La clínica del Doctor Valladares estaba en el piso más alto de un edificio de cristal en el distrito financiero.
 
-Marco la conocÃ­a bien. HabÃ­a visitado esta oficina media docena de veces, siempre como acompaÃ±ante, siempre como el hombre que firmaba los cheques. HabÃ­a discutido procedimientos con el doctor mientras Elena esperaba afuera: el tamaÃ±o de los implantes, la forma de los labios, el volumen exacto de relleno.
+Marco la conocía bien. Había visitado esta oficina media docena de veces, siempre como acompañante, siempre como el hombre que firmaba los cheques. Había discutido procedimientos con el doctor mientras Elena esperaba afuera: el tamaño de los implantes, la forma de los labios, el volumen exacto de relleno.
 
-HabÃ­a diseÃ±ado este cuerpo.
+Había diseñado este cuerpo.
 
-Y ahora estaba atrapado dentro de Ã©l, sentado en la sala de espera como una paciente mÃ¡s.
+Y ahora estaba atrapado dentro de él, sentado en la sala de espera como una paciente más.
 
-Pero algo habÃ­a cambiado despuÃ©s del almuerzo con las amigas.
+Pero algo había cambiado después del almuerzo con las amigas.
 
-Marco no podÃ­a admitirlo â€”ni siquiera para sÃ­ mismoâ€” pero la conversaciÃ³n con LucÃ­a, Carmen y Andrea le habÃ­a dado una perspectiva nueva. Esas mujeres *disfrutaban* ser moldeadas por sus maridos. Disfrutaban los tratamientos, los tacones, la entrega. Para ellas, ser una esposa trofeo no era una prisiÃ³n; era un privilegio.
+Marco no podía admitirlo —ni siquiera para sí mismo— pero la conversación con Lucía, Carmen y Andrea le había dado una perspectiva nueva. Esas mujeres *disfrutaban* ser moldeadas por sus maridos. Disfrutaban los tratamientos, los tacones, la entrega. Para ellas, ser una esposa trofeo no era una prisión; era un privilegio.
 
-Y el sexo con Elena... el sexo habÃ­a sido espectacular.
+Y el sexo con Elena... el sexo había sido espectacular.
 
-Cada noche desde la luna de miel, Marco habÃ­a experimentado orgasmos que no creÃ­a posibles. Los tres piercings trabajando en conjunto â€”el del clÃ­toris vibrando con cada embestida, los de los pezones aÃ±adiendo notas agudas de dolor-placerâ€” lo llevaban a lugares que su cuerpo masculino nunca habÃ­a conocido.
+Cada noche desde la luna de miel, Marco había experimentado orgasmos que no creía posibles. Los tres piercings trabajando en conjunto —el del clítoris vibrando con cada embestida, los de los pezones añadiendo notas agudas de dolor-placer— lo llevaban a lugares que su cuerpo masculino nunca había conocido.
 
-*QuizÃ¡s*, susurraba una voz traidora en su cabeza, *quizÃ¡s esto no es tan malo.*
+*Quizás*, susurraba una voz traidora en su cabeza, *quizás esto no es tan malo.*
 
-La voz lo horrorizaba. Y tambiÃ©n lo excitaba.
+La voz lo horrorizaba. Y también lo excitaba.
 
-Antes de salir esa maÃ±ana, habÃ­a pasado por el ritual habitual.
+Antes de salir esa mañana, había pasado por el ritual habitual.
 
-â€”Hoy vamos a ver al doctor â€”habÃ­a dicho Elena, sacando un vestido azul del armarioâ€”. Necesitas algo que le dÃ© fÃ¡cil acceso, pero que le recuerde quiÃ©n es el dueÃ±o.
+—Hoy vamos a ver al doctor —había dicho Elena, sacando un vestido azul del armario—. Necesitas algo que le dé fácil acceso, pero que le recuerde quién es el dueño.
 
-El vestido era un tubo de licra azul elÃ©ctrico que terminaba a mitad del muslo. No tenÃ­a tirantes, lo que significaba que Marco tenÃ­a que usar un sujetador strapless que se clavaba en sus costillas y empujaba sus pechos hacia arriba. Los piercings de sus pezones rozaban contra la tela interior, enviando pequeÃ±as descargas de sensaciÃ³n con cada movimiento.
+El vestido era un tubo de licra azul eléctrico que terminaba a mitad del muslo. No tenía tirantes, lo que significaba que Marco tenía que usar un sujetador strapless que se clavaba en sus costillas y empujaba sus pechos hacia arriba. Los piercings de sus pezones rozaban contra la tela interior, enviando pequeñas descargas de sensación con cada movimiento.
 
-â€”Y los zapatos â€”Elena seÃ±alÃ³ un par de stilettos negros de charol, de doce centÃ­metrosâ€”. Quiero que seas la mujer mÃ¡s alta de la sala de espera.
+—Y los zapatos —Elena señaló un par de stilettos negros de charol, de doce centímetros—. Quiero que seas la mujer más alta de la sala de espera.
 
-Marco se habÃ­a vestido sin protestar. Ya no protestaba. Â¿De quÃ© servÃ­a?
+Marco se había vestido sin protestar. Ya no protestaba. ¿De qué servía?
 
 Subirse el vestido ajustado. Acomodarse los pechos. Verificar que el pelo rubio platino cayera en las ondas correctas. Y luego, los zapatos.
 
 Cuando se puso de pie, sus pies se quejaron. Pero era un dolor familiar ahora. Casi reconfortante en su constancia.
 
-â€”Perfecta â€”habÃ­a dicho Elena, dÃ¡ndole una nalgada que resonÃ³ en la habitaciÃ³nâ€”. Mi muÃ±eca perfecta.
+—Perfecta —había dicho Elena, dándole una nalgada que resonó en la habitación—. Mi muñeca perfecta.
 
-*MuÃ±eca.* La palabra deberÃ­a haberlo enfurecido. En cambio, sintiÃ³ un calor extraÃ±o en el vientre.
-
----
-
-â€”SeÃ±ora CastellÃ³n â€”llamÃ³ la recepcionistaâ€”. El doctor la espera.
-
-Marco se levantÃ³ con gracia â€”habÃ­a aprendido a moverse en tacones sin tambalearseâ€” y caminÃ³ hacia el consultorio. Su reflejo en las puertas de cristal le devolviÃ³ la imagen de una mujer espectacular: pelo platino, labios rosados permanentes, ojos delineados, cuerpo de infarto envuelto en azul elÃ©ctrico.
-
-No reconocÃ­a a esa mujer.
-
-Y cada dÃ­a le costaba menos fingir que sÃ­ lo hacÃ­a.
-
-El consultorio del Doctor Valladares era blanco, minimalista, lleno de certificados y fotos de "transformaciones exitosas." Mujeres antes y despuÃ©s. El arte de fabricar feminidad.
-
-â€”Â¡Elena, querida! â€”El doctor se levantÃ³ para recibirloâ€”. MÃ­rate. Ese bronceado, ese pelo nuevo... Â¡estÃ¡s radiante! Marco me contÃ³ del cambio de look. Una decisiÃ³n atrevida.
-
-â€”Gracias â€”murmurÃ³ Marco, sintiendo el rubor extenderse bajo la micropigmentaciÃ³n de sus mejillas.
-
-â€”Y esos nuevos piercings en los pezones... â€”el doctor mirÃ³ su escote con ojo profesionalâ€”. Â¿EstÃ¡n cicatrizando bien?
-
-Marco se sorprendiÃ³ de que el doctor lo supiera. Pero claro, "el seÃ±or Marco" le habrÃ­a informado. El seÃ±or Marco controlaba todo.
-
-â€”SÃ­. TodavÃ­a sensibles, pero... bien.
-
-â€”Excelente. Vamos a revisar todo entonces.
+*Muñeca.* La palabra debería haberlo enfurecido. En cambio, sintió un calor extraño en el vientre.
 
 ---
 
-La sala de examen era frÃ­a y clÃ­nica. Cuando el doctor le pidiÃ³ que se quitara el vestido, Marco obedeciÃ³ sin vacilar. Ya no sentÃ­a la vergÃ¼enza paralizante de las primeras veces. Ahora era solo... rutina.
+—Señora Castellón —llamó la recepcionista—. El doctor la espera.
 
-Se quedÃ³ en nada mÃ¡s que encaje negro y tacones de charol, parada frente a un hombre que habÃ­a reconstruido dos veces los pechos que ahora examinaba.
+Marco se levantó con gracia —había aprendido a moverse en tacones sin tambalearse— y caminó hacia el consultorio. Su reflejo en las puertas de cristal le devolvió la imagen de una mujer espectacular: pelo platino, labios rosados permanentes, ojos delineados, cuerpo de infarto envuelto en azul eléctrico.
 
-â€”AcuÃ©state en la camilla. Boca arriba.
+No reconocía a esa mujer.
 
-Marco obedeciÃ³. Subirse a la camilla con los tacones fue natural ahora â€”abriÃ³ las piernas para equilibrio, arqueÃ³ la espalda automÃ¡ticamente.
+Y cada día le costaba menos fingir que sí lo hacía.
+
+El consultorio del Doctor Valladares era blanco, minimalista, lleno de certificados y fotos de "transformaciones exitosas." Mujeres antes y después. El arte de fabricar feminidad.
+
+—¡Elena, querida! —El doctor se levantó para recibirlo—. Mírate. Ese bronceado, ese pelo nuevo... ¡estás radiante! Marco me contó del cambio de look. Una decisión atrevida.
+
+—Gracias —murmuró Marco, sintiendo el rubor extenderse bajo la micropigmentación de sus mejillas.
+
+—Y esos nuevos piercings en los pezones... —el doctor miró su escote con ojo profesional—. ¿Están cicatrizando bien?
+
+Marco se sorprendió de que el doctor lo supiera. Pero claro, "el señor Marco" le habría informado. El señor Marco controlaba todo.
+
+—Sí. Todavía sensibles, pero... bien.
+
+—Excelente. Vamos a revisar todo entonces.
+
+---
+
+La sala de examen era fría y clínica. Cuando el doctor le pidió que se quitara el vestido, Marco obedeció sin vacilar. Ya no sentía la vergüenza paralizante de las primeras veces. Ahora era solo... rutina.
+
+Se quedó en nada más que encaje negro y tacones de charol, parada frente a un hombre que había reconstruido dos veces los pechos que ahora examinaba.
+
+—Acuéstate en la camilla. Boca arriba.
+
+Marco obedeció. Subirse a la camilla con los tacones fue natural ahora —abrió las piernas para equilibrio, arqueó la espalda automáticamente.
 
 Las manos del doctor tocaron sus pechos.
 
-Marco no se estremeciÃ³ esta vez. DejÃ³ que las sensaciones fluyeran: el frÃ­o clÃ­nico de los guantes, la presiÃ³n profesional, y debajo de todo, el tirÃ³n constante de los piercings de titanio rosa respondiendo a cada toque.
+Marco no se estremeció esta vez. Dejó que las sensaciones fluyeran: el frío clínico de los guantes, la presión profesional, y debajo de todo, el tirón constante de los piercings de titanio rosa respondiendo a cada toque.
 
-â€”Los implantes se ven bien â€”dijo el doctorâ€”. Y los piercings estÃ¡n cicatrizando perfectamente. Â¿Alguna molestia?
+—Los implantes se ven bien —dijo el doctor—. Y los piercings están cicatrizando perfectamente. ¿Alguna molestia?
 
-â€”Sensibilidad â€”admitiÃ³ Marcoâ€”. Mucha sensibilidad.
+—Sensibilidad —admitió Marco—. Mucha sensibilidad.
 
-â€”Eso es normal. DurarÃ¡ unos meses mÃ¡s. â€”El doctor sonriÃ³â€”. Aunque por lo que me dice Marco, esa sensibilidad tiene sus... ventajas.
+—Eso es normal. Durará unos meses más. —El doctor sonrió—. Aunque por lo que me dice Marco, esa sensibilidad tiene sus... ventajas.
 
-Marco cerrÃ³ los ojos. SÃ­. TenÃ­a ventajas. Las noches con Elena eran prueba de ello.
+Marco cerró los ojos. Sí. Tenía ventajas. Las noches con Elena eran prueba de ello.
 
-â€”Ahora los labios â€”dijo el doctorâ€”. Abre la boca.
+—Ahora los labios —dijo el doctor—. Abre la boca.
 
-El examen fue rÃ¡pido. El doctor tocÃ³, presionÃ³, evaluÃ³.
+El examen fue rápido. El doctor tocó, presionó, evaluó.
 
-â€”La micropigmentaciÃ³n del spa se ve perfecta. Pero el relleno necesita refuerzo. Los bordes estÃ¡n perdiendo definiciÃ³n.
+—La micropigmentación del spa se ve perfecta. Pero el relleno necesita refuerzo. Los bordes están perdiendo definición.
 
-â€”Â¿Otra inyecciÃ³n?
+—¿Otra inyección?
 
-â€”Ãcido hialurÃ³nico. Ya conoces el proceso.
+—Ácido hialurónico. Ya conoces el proceso.
 
-Y Marco *sÃ­* lo conocÃ­a ahora. El spa le habÃ­a enseÃ±ado. La aguja en los labios, el hormigueo del pigmento, el dolor superficial que se transformaba en algo mÃ¡s.
+Y Marco *sí* lo conocía ahora. El spa le había enseñado. La aguja en los labios, el hormigueo del pigmento, el dolor superficial que se transformaba en algo más.
 
-Cuando la jeringa entrÃ³, Marco no gritÃ³. CerrÃ³ los ojos, respirÃ³, y dejÃ³ que el doctor trabajara. SintiÃ³ sus labios hincharse, llenarse, volverse mÃ¡s pesados. Y en algÃºn lugar de su mente, una voz susurrÃ³: *mÃ¡s bonita, mÃ¡s perfecta, mÃ¡s como debe ser.*
+Cuando la jeringa entró, Marco no gritó. Cerró los ojos, respiró, y dejó que el doctor trabajara. Sintió sus labios hincharse, llenarse, volverse más pesados. Y en algún lugar de su mente, una voz susurró: *más bonita, más perfecta, más como debe ser.*
 
-â€”Perfecto â€”dijo el doctor, retrocediendoâ€”. MÃ­rate.
+—Perfecto —dijo el doctor, retrocediendo—. Mírate.
 
-El espejo le mostrÃ³ labios que parecÃ­an fruta madura. Carnosos. Obscenos. DiseÃ±ados para una cosa.
+El espejo le mostró labios que parecían fruta madura. Carnosos. Obscenos. Diseñados para una cosa.
 
-*"Hazlos mÃ¡s grandes,"* habÃ­a dicho Marco hace aÃ±os. *"Quiero que parezca que siempre tiene algo en la boca."*
+*"Hazlos más grandes,"* había dicho Marco hace años. *"Quiero que parezca que siempre tiene algo en la boca."*
 
-Karma poÃ©tico. Pero ahora, mirando esos labios, Marco sintiÃ³ algo que no esperaba: orgullo.
+Karma poético. Pero ahora, mirando esos labios, Marco sintió algo que no esperaba: orgullo.
 
 ---
 
-Cuando saliÃ³ de la clÃ­nica, Elena lo esperaba en el vestÃ­bulo.
+Cuando salió de la clínica, Elena lo esperaba en el vestíbulo.
 
-â€”MÃ­rate â€”susurrÃ³ Elena, tomÃ¡ndole la barbillaâ€”. Perfectos.
+—Mírate —susurró Elena, tomándole la barbilla—. Perfectos.
 
-â€”Me gustan â€”admitiÃ³ Marco, y las palabras salieron antes de que pudiera detenerlas.
+—Me gustan —admitió Marco, y las palabras salieron antes de que pudiera detenerlas.
 
-Elena arqueÃ³ una ceja.
+Elena arqueó una ceja.
 
-â€”Â¿Te gustan?
+—¿Te gustan?
 
-Marco sintiÃ³ el rubor extenderse. HabÃ­a admitido algo que no deberÃ­a haber admitido.
+Marco sintió el rubor extenderse. Había admitido algo que no debería haber admitido.
 
-â€”Yo... es solo que... se ven bien.
+—Yo... es solo que... se ven bien.
 
-Elena sonriÃ³. No era una sonrisa cruel. Era algo peor: era satisfacciÃ³n.
+Elena sonrió. No era una sonrisa cruel. Era algo peor: era satisfacción.
 
-â€”Por fin empiezas a entender, cariÃ±o. â€”Le acariciÃ³ la mejillaâ€”. No estoy destruyÃ©ndote. Estoy *mejorÃ¡ndote*. Y tÃº... tÃº estÃ¡s empezando a disfrutarlo.
+—Por fin empiezas a entender, cariño. —Le acarició la mejilla—. No estoy destruyéndote. Estoy *mejorándote*. Y tú... tú estás empezando a disfrutarlo.
 
-Marco quiso negarlo. Pero los tres piercings palpitaron en respuesta, y su cuerpo â€”ese cuerpo traidorâ€” se humedeciÃ³ entre las piernas.
+Marco quiso negarlo. Pero los tres piercings palpitaron en respuesta, y su cuerpo —ese cuerpo traidor— se humedeció entre las piernas.
 
-â€”Para el fin de semana estarÃ¡s perfecta â€”continuÃ³ Elenaâ€”. Javier va a estar muy impresionado.
+—Para el fin de semana estarás perfecta —continuó Elena—. Javier va a estar muy impresionado.
 
 Otra vez Javier.
 
-Pero esta vez, la menciÃ³n del nombre no trajo solo terror. Trajo... curiosidad.
+Pero esta vez, la mención del nombre no trajo solo terror. Trajo... curiosidad.
 
-Marco dejÃ³ que Elena lo guiara hacia el coche, caminando con gracia sobre sus tacones de aguja, con los labios nuevos palpitando suavemente, los piercings vibrando con cada paso, y una pregunta peligrosa formÃ¡ndose en su mente:
+Marco dejó que Elena lo guiara hacia el coche, caminando con gracia sobre sus tacones de aguja, con los labios nuevos palpitando suavemente, los piercings vibrando con cada paso, y una pregunta peligrosa formándose en su mente:
 
-*Â¿Y si Elena tiene razÃ³n? Â¿Y si esto es lo que siempre debÃ­ ser?*
+*¿Y si Elena tiene razón? ¿Y si esto es lo que siempre debí ser?*
 
 ---
 
@@ -1202,127 +1202,127 @@ Marco dejÃ³ que Elena lo guiara hacia el coche, caminando con gracia sobre sus t
 
 Esa noche, Marco no pudo dormir.
 
-Estaba acostado en la cama matrimonial, mirando el techo, con los labios todavÃ­a palpitando del relleno nuevo y el cuerpo entero vibrando de sensaciones que ya no sabÃ­a si querÃ­a o no.
+Estaba acostado en la cama matrimonial, mirando el techo, con los labios todavía palpitando del relleno nuevo y el cuerpo entero vibrando de sensaciones que ya no sabía si quería o no.
 
-Su pelo rubio platino se extendÃ­a sobre la almohada como un halo artificial. Las extensiones aÃ±adÃ­an peso a su cabeza, tirando suavemente de su cuero cabelludo con cada movimiento. Era incÃ³modo. TambiÃ©n era hermoso. Marco habÃ­a visto su reflejo antes de acostarse y, por primera vez, no habÃ­a sentido solo horror.
+Su pelo rubio platino se extendía sobre la almohada como un halo artificial. Las extensiones añadían peso a su cabeza, tirando suavemente de su cuero cabelludo con cada movimiento. Era incómodo. También era hermoso. Marco había visto su reflejo antes de acostarse y, por primera vez, no había sentido solo horror.
 
-HabÃ­a sentido... algo mÃ¡s.
+Había sentido... algo más.
 
-Incluso en la cama, no habÃ­a descanso de la transformaciÃ³n.
+Incluso en la cama, no había descanso de la transformación.
 
-Elena habÃ­a establecido una regla estricta para dormir: nada de pijamas cÃ³modos. Nada de camisetas viejas.
+Elena había establecido una regla estricta para dormir: nada de pijamas cómodos. Nada de camisetas viejas.
 
-*"Una esposa debe ser hermosa las veinticuatro horas,"* habÃ­a dicho.
+*"Una esposa debe ser hermosa las veinticuatro horas,"* había dicho.
 
-AsÃ­ que Marco estaba embutido en un babydoll de seda negra con encaje en el busto. La tela era suave, pero el diseÃ±o era exquisitamente cruel: los tirantes finos se clavaban en sus hombros, y el encaje rozaba constantemente contra los piercings de sus pezones, enviando pequeÃ±as descargas de sensaciÃ³n con cada respiraciÃ³n.
+Así que Marco estaba embutido en un babydoll de seda negra con encaje en el busto. La tela era suave, pero el diseño era exquisitamente cruel: los tirantes finos se clavaban en sus hombros, y el encaje rozaba constantemente contra los piercings de sus pezones, enviando pequeñas descargas de sensación con cada respiración.
 
-Los tres piercings trabajaban en conjunto ahora. Los de titanio rosa en sus pezones pulsaban suavemente, todavÃ­a sensibles de la perforaciÃ³n reciente. Y el del clÃ­toris â€”el regalo de bodas de Elenaâ€” respondÃ­a a cada movimiento de sus muslos bajo las sÃ¡banas de seda.
+Los tres piercings trabajaban en conjunto ahora. Los de titanio rosa en sus pezones pulsaban suavemente, todavía sensibles de la perforación reciente. Y el del clítoris —el regalo de bodas de Elena— respondía a cada movimiento de sus muslos bajo las sábanas de seda.
 
-Una sinfonÃ­a de excitaciÃ³n constante que nunca terminaba.
+Una sinfonía de excitación constante que nunca terminaba.
 
-Y, por supuesto, no podÃ­a quitarse los zapatos.
+Y, por supuesto, no podía quitarse los zapatos.
 
-Elena le permitÃ­a quitarse los tacones de calle, pero exigÃ­a que usara "mules de alcoba". Zapatillas de tacÃ³n alto con plumas de marabÃº, diseÃ±adas para caminar desde el tocador hasta la cama y nada mÃ¡s.
+Elena le permitía quitarse los tacones de calle, pero exigía que usara "mules de alcoba". Zapatillas de tacón alto con plumas de marabú, diseñadas para caminar desde el tocador hasta la cama y nada más.
 
-Marco moviÃ³ los pies bajo las sÃ¡banas. Los tacones de ocho centÃ­metros rozaban contra la tela de algodÃ³n egipcio. Era absurdo. Era ridÃ­culo.
+Marco movió los pies bajo las sábanas. Los tacones de ocho centímetros rozaban contra la tela de algodón egipcio. Era absurdo. Era ridículo.
 
-Y sin embargo... habÃ­a algo reconfortante en la rutina.
+Y sin embargo... había algo reconfortante en la rutina.
 
-Elena dormÃ­a a su lado, desnudo, ocupando la mayor parte del espacio. HabÃ­a follado a Marco durante una hora antes de quedarse dormido, usÃ¡ndolo de todas las formas posibles, hasta dejarlo temblando y vacÃ­o y extraÃ±amente... completo.
+Elena dormía a su lado, desnudo, ocupando la mayor parte del espacio. Había follado a Marco durante una hora antes de quedarse dormido, usándolo de todas las formas posibles, hasta dejarlo temblando y vacío y extrañamente... completo.
 
-Marco habÃ­a tenido tres orgasmos. Tres. Y esta vez, no habÃ­a luchado contra ellos. Los habÃ­a dejado arrastrarlo, ola tras ola, mientras Elena lo reclamaba con una pasiÃ³n que bordeaba la adoraciÃ³n.
+Marco había tenido tres orgasmos. Tres. Y esta vez, no había luchado contra ellos. Los había dejado arrastrarlo, ola tras ola, mientras Elena lo reclamaba con una pasión que bordeaba la adoración.
 
-*Porque eso era*, pensÃ³ Marco, mirando el perfil dormido de Elena. *No es solo dominaciÃ³n. Es amor. Un amor retorcido, posesivo, transformador... pero amor.*
+*Porque eso era*, pensó Marco, mirando el perfil dormido de Elena. *No es solo dominación. Es amor. Un amor retorcido, posesivo, transformador... pero amor.*
 
-Elena lo habÃ­a diseÃ±ado para ser perfecto. HabÃ­a pagado por cada mejora, cada procedimiento, cada piercing. No para destruirlo, sino para convertirlo en algo digno de su devociÃ³n.
+Elena lo había diseñado para ser perfecto. Había pagado por cada mejora, cada procedimiento, cada piercing. No para destruirlo, sino para convertirlo en algo digno de su devoción.
 
 Y Marco, poco a poco, estaba empezando a entenderlo.
 
 ---
 
-*Marco recordÃ³ la noche de bodas, cuando se habÃ­a enterado del piercing del clÃ­toris.*
+*Marco recordó la noche de bodas, cuando se había enterado del piercing del clítoris.*
 
-*El intercambio ya habÃ­a ocurrido. Estaban en la suite nupcial, y Marco, aturdido en el cuerpo de Elena, habÃ­a sentido por primera vez ese pulso extraÃ±o entre sus piernas.*
+*El intercambio ya había ocurrido. Estaban en la suite nupcial, y Marco, aturdido en el cuerpo de Elena, había sentido por primera vez ese pulso extraño entre sus piernas.*
 
-*"Â¿QuÃ©... quÃ© es esto?" habÃ­a preguntado, tocÃ¡ndose a travÃ©s de la tela del vestido.*
+*"¿Qué... qué es esto?" había preguntado, tocándose a través de la tela del vestido.*
 
-*Elena, ya en el cuerpo de Marco, habÃ­a sonreÃ­do con ternura â€”una ternura que Ã©l no esperaba.*
+*Elena, ya en el cuerpo de Marco, había sonreído con ternura —una ternura que él no esperaba.*
 
-*"Es mi regalo de bodas, mi amor. Un piercing. Justo en tu clÃ­toris. Me lo hice hace un mes, en secreto. QuerÃ­a que nuestra noche de bodas fuera... inolvidable."*
+*"Es mi regalo de bodas, mi amor. Un piercing. Justo en tu clítoris. Me lo hice hace un mes, en secreto. Quería que nuestra noche de bodas fuera... inolvidable."*
 
-*El horror lo habÃ­a atravesado. Pero tambiÃ©n algo mÃ¡s. Elena habÃ­a modificado su propio cuerpo para darle placer. Se habÃ­a perforado la parte mÃ¡s sensible de sÃ­ misma como ofrenda.*
+*El horror lo había atravesado. Pero también algo más. Elena había modificado su propio cuerpo para darle placer. Se había perforado la parte más sensible de sí misma como ofrenda.*
 
-*"Â¿Por quÃ©?"*
+*"¿Por qué?"*
 
-*"Porque te amo, Marco. QuerÃ­a darte todo. QuerÃ­a que cada vez que me tocaras, sintieras cuÃ¡nto te pertenezco."*
+*"Porque te amo, Marco. Quería darte todo. Quería que cada vez que me tocaras, sintieras cuánto te pertenezco."*
 
-*Y ahora los papeles se habÃ­an invertido. Pero el amor seguÃ­a ahÃ­, transformado pero presente.*
+*Y ahora los papeles se habían invertido. Pero el amor seguía ahí, transformado pero presente.*
 
 ---
 
-Esa noche, como todas las noches, Elena se despertÃ³ con hambre.
+Esa noche, como todas las noches, Elena se despertó con hambre.
 
-â€”Ven aquÃ­ â€”susurrÃ³, su voz ronca de sueÃ±o pero cargada de deseo.
+—Ven aquí —susurró, su voz ronca de sueño pero cargada de deseo.
 
-Marco se girÃ³ hacia ella. En la oscuridad, el pelo platino brillaba como plata. Los labios nuevos, hinchados y carnosos, se entreabrieron.
+Marco se giró hacia ella. En la oscuridad, el pelo platino brillaba como plata. Los labios nuevos, hinchados y carnosos, se entreabrieron.
 
-â€”Elena...
+—Elena...
 
-â€”Shh. â€”Elena lo atrajo hacia sÃ­, sus manos recorriendo las curvas que ella misma habÃ­a pagadoâ€”. DÃ©jame mirarte.
+—Shh. —Elena lo atrajo hacia sí, sus manos recorriendo las curvas que ella misma había pagado—. Déjame mirarte.
 
 Las manos de Elena subieron por sus muslos, rozando el borde del babydoll. Encontraron los tirantes y los bajaron lentamente, exponiendo los pechos con sus piercings de titanio rosa.
 
-â€”Perfectos â€”susurrÃ³ Elena, trazando cÃ­rculos alrededor de los pezones perforadosâ€”. Eres perfecta, Â¿lo sabes?
+—Perfectos —susurró Elena, trazando círculos alrededor de los pezones perforados—. Eres perfecta, ¿lo sabes?
 
-Marco gimiÃ³. El toque era suave, reverente. No era el manoseo brusco de las primeras noches. Era... adoraciÃ³n.
+Marco gimió. El toque era suave, reverente. No era el manoseo brusco de las primeras noches. Era... adoración.
 
-â€”PaguÃ© por cada centÃ­metro de ti â€”continuÃ³ Elena, bajando las manosâ€”. DiseÃ±Ã© cada curva. Pero esto... â€”tocÃ³ el piercing del clÃ­toris a travÃ©s del encajeâ€”, esto me lo hice yo. Para ti. Antes de saber que terminarÃ­as heredÃ¡ndolo.
+—Pagué por cada centímetro de ti —continuó Elena, bajando las manos—. Diseñé cada curva. Pero esto... —tocó el piercing del clítoris a través del encaje—, esto me lo hice yo. Para ti. Antes de saber que terminarías heredándolo.
 
-La ironÃ­a no escapaba a ninguno de los dos.
+La ironía no escapaba a ninguno de los dos.
 
-â€”Â¿Me odias por esto? â€”preguntÃ³ Elena, y habÃ­a algo vulnerable en su voz que Marco nunca habÃ­a escuchado.
+—¿Me odias por esto? —preguntó Elena, y había algo vulnerable en su voz que Marco nunca había escuchado.
 
-Marco cerrÃ³ los ojos. Â¿La odiaba? HabÃ­a odiado. Al principio, habÃ­a odiado con cada fibra de su ser. Pero ahora...
+Marco cerró los ojos. ¿La odiaba? Había odiado. Al principio, había odiado con cada fibra de su ser. Pero ahora...
 
-â€”No â€”susurrÃ³, y la verdad de esa palabra lo asustÃ³â€”. No te odio.
+—No —susurró, y la verdad de esa palabra lo asustó—. No te odio.
 
-Elena lo besÃ³. No fue un beso de dominaciÃ³n. Fue un beso de gratitud, de conexiÃ³n, de algo que se parecÃ­a peligrosamente al amor real.
+Elena lo besó. No fue un beso de dominación. Fue un beso de gratitud, de conexión, de algo que se parecía peligrosamente al amor real.
 
-Y luego Elena se posicionÃ³ entre sus piernas.
+Y luego Elena se posicionó entre sus piernas.
 
-â€”Voy a hacerte el amor â€”dijo Elenaâ€”. No a follarte. A hacerte el amor. Quiero que sientas lo que yo sentÃ­a cuando tÃº me hacÃ­as esto.
+—Voy a hacerte el amor —dijo Elena—. No a follarte. A hacerte el amor. Quiero que sientas lo que yo sentía cuando tú me hacías esto.
 
-Marco asintiÃ³, abriendo las piernas.
+Marco asintió, abriendo las piernas.
 
-Elena entrÃ³ lentamente. No hubo la urgencia brutal de otras noches. Cada centÃ­metro fue deliberado, cuidadoso, diseÃ±ado para maximizar la sensaciÃ³n sin dolor.
+Elena entró lentamente. No hubo la urgencia brutal de otras noches. Cada centímetro fue deliberado, cuidadoso, diseñado para maximizar la sensación sin dolor.
 
-Los tres piercings cantaron al unÃ­sono. El del clÃ­toris vibrÃ³ con cada movimiento. Los de los pezones rozaron contra el pecho de Elena, aÃ±adiendo sus notas agudas a la sinfonÃ­a. Y el placer â€”ese placer que Marco habÃ­a diseÃ±ado para su esposaâ€” lo envolviÃ³ como una manta cÃ¡lida.
+Los tres piercings cantaron al unísono. El del clítoris vibró con cada movimiento. Los de los pezones rozaron contra el pecho de Elena, añadiendo sus notas agudas a la sinfonía. Y el placer —ese placer que Marco había diseñado para su esposa— lo envolvió como una manta cálida.
 
-â€”Te amo â€”susurrÃ³ Elena, moviÃ©ndose dentro de Ã©lâ€”. SÃ© que esto es retorcido. SÃ© que deberÃ­a dejarte ir. Pero no puedo. Eres mÃ­a ahora. Y yo... yo soy tuyo.
+—Te amo —susurró Elena, moviéndose dentro de él—. Sé que esto es retorcido. Sé que debería dejarte ir. Pero no puedo. Eres mía ahora. Y yo... yo soy tuyo.
 
-Las lÃ¡grimas rodaron por las mejillas de Marco. No de dolor. De algo mÃ¡s complejo. De rendiciÃ³n. De aceptaciÃ³n. De la comprensiÃ³n final de que esto â€”esta vida extraÃ±a y humillante y hermosaâ€” era su nueva realidad.
+Las lágrimas rodaron por las mejillas de Marco. No de dolor. De algo más complejo. De rendición. De aceptación. De la comprensión final de que esto —esta vida extraña y humillante y hermosa— era su nueva realidad.
 
-â€”TambiÃ©n te amo â€”dijo, y las palabras salieron antes de que pudiera detenerlas.
+—También te amo —dijo, y las palabras salieron antes de que pudiera detenerlas.
 
-Elena hundiÃ³ los dedos en su pelo platino, tirando suavemente mientras aumentaba el ritmo. Marco arqueÃ³ la espalda, sus pechos perforados apuntando al techo, su cuerpo entero convertido en un instrumento de placer.
+Elena hundió los dedos en su pelo platino, tirando suavemente mientras aumentaba el ritmo. Marco arqueó la espalda, sus pechos perforados apuntando al techo, su cuerpo entero convertido en un instrumento de placer.
 
-El orgasmo llegÃ³ como una revelaciÃ³n. No explosivo, sino ondulante, profundo, interminable. Marco gritÃ³ el nuevo nombre de Elena mientras su cuerpo convulsionaba, los tres piercings vibrando en perfecta armonÃ­a.
+El orgasmo llegó como una revelación. No explosivo, sino ondulante, profundo, interminable. Marco gritó el nuevo nombre de Elena mientras su cuerpo convulsionaba, los tres piercings vibrando en perfecta armonía.
 
-Elena lo siguiÃ³ segundos despuÃ©s, llenÃ¡ndolo de calor, marcÃ¡ndolo una vez mÃ¡s.
+Elena lo siguió segundos después, llenándolo de calor, marcándolo una vez más.
 
 Cuando finalmente se separaron, quedaron abrazados en la oscuridad.
 
-â€”MaÃ±ana es sÃ¡bado â€”susurrÃ³ Elena, acariciando el pelo rubio de Marcoâ€”. Javier viene a la piscina.
+—Mañana es sábado —susurró Elena, acariciando el pelo rubio de Marco—. Javier viene a la piscina.
 
-El corazÃ³n de Marco se acelerÃ³. Pero esta vez, no fue solo miedo.
+El corazón de Marco se aceleró. Pero esta vez, no fue solo miedo.
 
-â€”Â¿QuÃ© va a pasar?
+—¿Qué va a pasar?
 
-Elena le besÃ³ la frente.
+Elena le besó la frente.
 
-â€”Nada que no estÃ©s lista para manejar. ConfÃ­a en mÃ­.
+—Nada que no estés lista para manejar. Confía en mí.
 
-Y Marco, por primera vez desde el intercambio, descubriÃ³ que sÃ­ confiaba.
+Y Marco, por primera vez desde el intercambio, descubrió que sí confiaba.
 
 Era aterrador. Era liberador. Era el comienzo de algo nuevo.
 
@@ -1330,850 +1330,850 @@ Era aterrador. Era liberador. Era el comienzo de algo nuevo.
 
 ---
 
-El viernes por la noche, el ritual de preparaciÃ³n para la cama fue diferente.
+El viernes por la noche, el ritual de preparación para la cama fue diferente.
 
-Algo habÃ­a cambiado entre ellos despuÃ©s de la confesiÃ³n de anoche. El "te amo" susurrado en la oscuridad flotaba en el aire como una promesa. Marco lo sentÃ­a en la forma en que Elena lo miraba: ya no solo con posesiÃ³n, sino con algo mÃ¡s tierno.
+Algo había cambiado entre ellos después de la confesión de anoche. El "te amo" susurrado en la oscuridad flotaba en el aire como una promesa. Marco lo sentía en la forma en que Elena lo miraba: ya no solo con posesión, sino con algo más tierno.
 
-Pero la humillaciÃ³n no se detuvo. Solo se transformÃ³.
+Pero la humillación no se detuvo. Solo se transformó.
 
-â€”Tengo algo especial para ti â€”dijo Elena, sacando una caja de seda blanca del fondo del armario.
+—Tengo algo especial para ti —dijo Elena, sacando una caja de seda blanca del fondo del armario.
 
-Marco abriÃ³ la caja. Dentro habÃ­a un camisÃ³n de seda color marfil, largo hasta el suelo, con encaje delicado en el escote. Era hermoso. Elegante.
+Marco abrió la caja. Dentro había un camisón de seda color marfil, largo hasta el suelo, con encaje delicado en el escote. Era hermoso. Elegante.
 
-Pero cuando lo sacÃ³, vio los zapatos que venÃ­an con Ã©l.
+Pero cuando lo sacó, vio los zapatos que venían con él.
 
-Sandalias de tacÃ³n de cristal. Diez centÃ­metros. Con plumas blancas en la punta.
+Sandalias de tacón de cristal. Diez centímetros. Con plumas blancas en la punta.
 
-â€”Es el conjunto que tenÃ­a preparado para nuestra noche de bodas â€”dijo Elena suavementeâ€”. Lo comprÃ© semanas antes. Â¿Te acuerdas?
+—Es el conjunto que tenía preparado para nuestra noche de bodas —dijo Elena suavemente—. Lo compré semanas antes. ¿Te acuerdas?
 
-Marco recordaba. Recordaba haber arrancado ese camisÃ³n del cuerpo de Elena con impaciencia. Los zapatos eran "sexys" y le habÃ­a prohibido quitÃ¡rselos mientras la follaba.
+Marco recordaba. Recordaba haber arrancado ese camisón del cuerpo de Elena con impaciencia. Los zapatos eran "sexys" y le había prohibido quitárselos mientras la follaba.
 
-Se vistiÃ³ en silencio, consciente de la mirada de Elena sobre Ã©l. La seda se deslizÃ³ sobre su piel como agua fresca. El encaje rozÃ³ los piercings de sus pezones, arrancÃ¡ndole un pequeÃ±o gemido. Y los zapatos de cristal elevaron sus talones, tensaron sus pantorrillas y arquearon su espalda automÃ¡ticamente.
+Se vistió en silencio, consciente de la mirada de Elena sobre él. La seda se deslizó sobre su piel como agua fresca. El encaje rozó los piercings de sus pezones, arrancándole un pequeño gemido. Y los zapatos de cristal elevaron sus talones, tensaron sus pantorrillas y arquearon su espalda automáticamente.
 
-Su pelo rubio platino cayÃ³ sobre un hombro cuando girÃ³ hacia el espejo.
+Su pelo rubio platino cayó sobre un hombro cuando giró hacia el espejo.
 
-ParecÃ­a una novia. Una novia de fantasÃ­a, toda seda y cristal y curvas imposibles.
+Parecía una novia. Una novia de fantasía, toda seda y cristal y curvas imposibles.
 
-Y por primera vez, Marco sintiÃ³ un destello de orgullo en lugar de solo horror.
+Y por primera vez, Marco sintió un destello de orgullo en lugar de solo horror.
 
-*Me veo... hermosa*, pensÃ³, y la idea ya no lo asustaba tanto.
+*Me veo... hermosa*, pensó, y la idea ya no lo asustaba tanto.
 
-Elena lo observaba con una sonrisa que conocÃ­a demasiado bien.
+Elena lo observaba con una sonrisa que conocía demasiado bien.
 
-â€”Te gusta â€”dijo, no como pregunta.
+—Te gusta —dijo, no como pregunta.
 
-Marco bajÃ³ la mirada, avergonzado de que su excitaciÃ³n fuera tan obvia.
+Marco bajó la mirada, avergonzado de que su excitación fuera tan obvia.
 
-â€”No... yo no...
+—No... yo no...
 
-â€”No mientas. â€”Elena se acercÃ³ por detrÃ¡s, rodeando su cinturaâ€”. Puedo ver cÃ³mo te brillan los ojos. Puedo sentir cÃ³mo respira tu cuerpo. La humillaciÃ³n te excita. Ya lo aprendiste.
+—No mientas. —Elena se acercó por detrás, rodeando su cintura—. Puedo ver cómo te brillan los ojos. Puedo sentir cómo respira tu cuerpo. La humillación te excita. Ya lo aprendiste.
 
-Era verdad. Marco lo habÃ­a aprendido en el almuerzo con las amigas, cuando hablar de su propia sumisiÃ³n lo habÃ­a dejado empapado. Lo habÃ­a confirmado en la clÃ­nica del doctor, cuando los procedimientos invasivos habÃ­an encendido algo oscuro en su interior.
+Era verdad. Marco lo había aprendido en el almuerzo con las amigas, cuando hablar de su propia sumisión lo había dejado empapado. Lo había confirmado en la clínica del doctor, cuando los procedimientos invasivos habían encendido algo oscuro en su interior.
 
-La humillaciÃ³n era excitante. Y Elena lo sabÃ­a.
+La humillación era excitante. Y Elena lo sabía.
 
-â€”Ven â€”dijo Elena, guiÃ¡ndolo hacia la camaâ€”. Tengo algo que mostrarte.
+—Ven —dijo Elena, guiándolo hacia la cama—. Tengo algo que mostrarte.
 
-Le pasÃ³ el telÃ©fono. Una carpeta de fotos. Digital. Llena de imÃ¡genes del pasado.
+Le pasó el teléfono. Una carpeta de fotos. Digital. Llena de imágenes del pasado.
 
-La primera foto era Elena â€”la Elena original, en su propio cuerpoâ€” sentada en una silla de peluquerÃ­a. Su pelo estaba cubierto de papel de aluminio. Sus ojos estaban rojos de llorar.
+La primera foto era Elena —la Elena original, en su propio cuerpo— sentada en una silla de peluquería. Su pelo estaba cubierto de papel de aluminio. Sus ojos estaban rojos de llorar.
 
-â€”El dÃ­a que me obligaste a teÃ±irme de rubia â€”dijo Elenaâ€”. Â¿Recuerdas lo que dijiste?
+—El día que me obligaste a teñirme de rubia —dijo Elena—. ¿Recuerdas lo que dijiste?
 
 Marco recordaba. Las palabras le quemaban la garganta.
 
-*"Solo es pelo, Elena. Los hombres prefieren las rubias. Â¿No quieres que te desee mÃ¡s?"*
+*"Solo es pelo, Elena. Los hombres prefieren las rubias. ¿No quieres que te desee más?"*
 
-â€”Lloraste durante todo el proceso â€”continuÃ³ Elenaâ€”. El perÃ³xido quemaba. Pero yo no te dejÃ© parar.
+—Lloraste durante todo el proceso —continuó Elena—. El peróxido quemaba. Pero yo no te dejé parar.
 
-PasÃ³ a la siguiente foto. Elena con el pelo reciÃ©n rubio, los ojos todavÃ­a hinchados, una sonrisa forzada.
+Pasó a la siguiente foto. Elena con el pelo recién rubio, los ojos todavía hinchados, una sonrisa forzada.
 
-â€”Y ahora tÃº llevas ese rubio platino â€”seÃ±alÃ³ Elenaâ€”. Â¿CÃ³mo se siente?
+—Y ahora tú llevas ese rubio platino —señaló Elena—. ¿Cómo se siente?
 
-Marco tocÃ³ su propio pelo. Las extensiones pesaban. El cuero cabelludo todavÃ­a recordaba el ardor de la tintura.
+Marco tocó su propio pelo. Las extensiones pesaban. El cuero cabelludo todavía recordaba el ardor de la tintura.
 
-â€”Se siente... â€”buscÃ³ las palabrasâ€”. Se siente como karma.
+—Se siente... —buscó las palabras—. Se siente como karma.
 
-â€”Â¿Te excita?
+—¿Te excita?
 
-La pregunta era directa. Marco cerrÃ³ los ojos.
+La pregunta era directa. Marco cerró los ojos.
 
-â€”SÃ­ â€”admitiÃ³ en un susurroâ€”. No deberÃ­a, pero... sÃ­.
+—Sí —admitió en un susurro—. No debería, pero... sí.
 
-Elena sonriÃ³. No con crueldad. Con satisfacciÃ³n.
+Elena sonrió. No con crueldad. Con satisfacción.
 
-â€”Buena chica. EstÃ¡s aprendiendo.
+—Buena chica. Estás aprendiendo.
 
-PasÃ³ a mÃ¡s fotos. Elena despuÃ©s de la rinoplastia, los moretes bajo los ojos. Elena despuÃ©s de los implantes de labios, la boca hinchada. Elena despuÃ©s de la aumentaciÃ³n de pechos, vendada como una momia.
+Pasó a más fotos. Elena después de la rinoplastia, los moretes bajo los ojos. Elena después de los implantes de labios, la boca hinchada. Elena después de la aumentación de pechos, vendada como una momia.
 
-Cada imagen era una acusaciÃ³n. Cada recuerdo era un crimen.
+Cada imagen era una acusación. Cada recuerdo era un crimen.
 
-Pero ahora, Marco los veÃ­a de otra forma.
+Pero ahora, Marco los veía de otra forma.
 
-â€”Hiciste todo esto... Â¿por mÃ­? â€”preguntÃ³, mirando las fotos con ojos nuevos.
+—Hiciste todo esto... ¿por mí? —preguntó, mirando las fotos con ojos nuevos.
 
-â€”Por ti. Para ti. â€”Elena le acariciÃ³ el peloâ€”. Y tÃº nunca lo apreciaste. Dabas todo por hecho.
+—Por ti. Para ti. —Elena le acarició el pelo—. Y tú nunca lo apreciaste. Dabas todo por hecho.
 
-â€”Lo sÃ©. â€”Las lÃ¡grimas empezaron a rodarâ€”. Lo siento, Elena. Lo siento tanto.
+—Lo sé. —Las lágrimas empezaron a rodar—. Lo siento, Elena. Lo siento tanto.
 
-â€”Ya lo sÃ©, cariÃ±o. â€”Elena lo besÃ³ suavementeâ€”. Por eso estamos aquÃ­. Para que entiendas. Para que *sientas*.
+—Ya lo sé, cariño. —Elena lo besó suavemente—. Por eso estamos aquí. Para que entiendas. Para que *sientas*.
 
-Lo recostÃ³ en la cama, el camisÃ³n de seda extendiÃ©ndose como un mar blanco alrededor de su cuerpo.
+Lo recostó en la cama, el camisón de seda extendiéndose como un mar blanco alrededor de su cuerpo.
 
-â€”Ahora voy a mostrarte cÃ³mo me hacÃ­as sentir â€”susurrÃ³ Elena, posicionÃ¡ndose entre sus piernasâ€”. Y tÃº vas a dejar que te excite. Porque ya aprendiste que la humillaciÃ³n y el placer son lo mismo.
+—Ahora voy a mostrarte cómo me hacías sentir —susurró Elena, posicionándose entre sus piernas—. Y tú vas a dejar que te excite. Porque ya aprendiste que la humillación y el placer son lo mismo.
 
-Marco asintiÃ³, abriendo las piernas. Los tacones de cristal brillaron en la luz tenue.
+Marco asintió, abriendo las piernas. Los tacones de cristal brillaron en la luz tenue.
 
-Elena entrÃ³ lentamente, observando cada reacciÃ³n en el rostro de Marco.
+Elena entró lentamente, observando cada reacción en el rostro de Marco.
 
-â€”Cada vez que te teÃ±Ã­a el pelo â€”una embestida suaveâ€”, sentÃ­a esto. HumillaciÃ³n. â€”Otra embestidaâ€”. Pero tambiÃ©n excitaciÃ³n. â€”MÃ¡s profundoâ€”. Porque te amaba lo suficiente para transformarme en lo que querÃ­as.
+—Cada vez que te teñía el pelo —una embestida suave—, sentía esto. Humillación. —Otra embestida—. Pero también excitación. —Más profundo—. Porque te amaba lo suficiente para transformarme en lo que querías.
 
-Marco gimiÃ³, los tres piercings vibrando en armonÃ­a.
+Marco gimió, los tres piercings vibrando en armonía.
 
-â€”Y tÃº me amas lo suficiente para transformarte en lo que yo quiero â€”continuÃ³ Elena, aumentando el ritmoâ€”. Â¿Verdad?
+—Y tú me amas lo suficiente para transformarte en lo que yo quiero —continuó Elena, aumentando el ritmo—. ¿Verdad?
 
-â€”SÃ­ â€”jadeÃ³ Marcoâ€”. SÃ­, te amo.
+—Sí —jadeó Marco—. Sí, te amo.
 
-â€”Entonces cÃ³rrete para mÃ­. CÃ³rrete sabiendo que esto es lo que siempre debiÃ³ ser.
+—Entonces córrete para mí. Córrete sabiendo que esto es lo que siempre debió ser.
 
-El orgasmo llegÃ³ como una revelaciÃ³n. Marco gritÃ³ mientras su cuerpo convulsionaba, los tacones de cristal golpeando las sÃ¡banas, el pelo platino extendiÃ©ndose sobre la almohada, cada piercing cantando su nota de placer.
+El orgasmo llegó como una revelación. Marco gritó mientras su cuerpo convulsionaba, los tacones de cristal golpeando las sábanas, el pelo platino extendiéndose sobre la almohada, cada piercing cantando su nota de placer.
 
-Elena lo siguiÃ³, llenÃ¡ndolo, marcÃ¡ndolo, amÃ¡ndolo.
+Elena lo siguió, llenándolo, marcándolo, amándolo.
 
 Cuando terminaron, quedaron enredados en seda y sudor.
 
-â€”MaÃ±ana viene Javier â€”susurrÃ³ Elenaâ€”. Y quiero que estÃ©s perfecta.
+—Mañana viene Javier —susurró Elena—. Y quiero que estés perfecta.
 
-Marco asintiÃ³ contra su pecho.
+Marco asintió contra su pecho.
 
-â€”EstarÃ© perfecta. Para ti.
+—Estaré perfecta. Para ti.
 
-Era una promesa. Y ambos sabÃ­an que la cumplirÃ­a.
-
----
+Era una promesa. Y ambos sabían que la cumpliría.
 
 ---
 
-El sÃ¡bado amaneciÃ³ brillante y caluroso.
+---
 
-Marco se despertÃ³ primero, lo cual era raro. Normalmente Elena lo despertaba con alguna exigencia. Pero despuÃ©s de la noche anterior â€”despuÃ©s del "te amo" susurrado entre sÃ¡banas de sedaâ€” el despertar fue suave.
+El sábado amaneció brillante y caluroso.
 
-Luz dorada filtrÃ¡ndose por las cortinas. El canto de los pÃ¡jaros. Y el peso del cuerpo de Elena todavÃ­a dormido a su lado.
+Marco se despertó primero, lo cual era raro. Normalmente Elena lo despertaba con alguna exigencia. Pero después de la noche anterior —después del "te amo" susurrado entre sábanas de seda— el despertar fue suave.
 
-Por un momento, Marco se permitiÃ³ simplemente *estar*.
+Luz dorada filtrándose por las cortinas. El canto de los pájaros. Y el peso del cuerpo de Elena todavía dormido a su lado.
 
-Luego su cuerpo le recordÃ³ quiÃ©n era ahora. Las piernas suaves de piel reciÃ©n depilada. El peso de los implantes comprimiendo sus pulmones. Los tres piercings despertando junto con Ã©l: los de titanio rosa en sus pezones rozando contra el encaje del babydoll, y el del clÃ­toris pulsando suavemente contra el algodÃ³n de sus bragas.
+Por un momento, Marco se permitió simplemente *estar*.
 
-Una sinfonÃ­a matutina de sensaciones que ya empezaba a sentirse... normal.
+Luego su cuerpo le recordó quién era ahora. Las piernas suaves de piel recién depilada. El peso de los implantes comprimiendo sus pulmones. Los tres piercings despertando junto con él: los de titanio rosa en sus pezones rozando contra el encaje del babydoll, y el del clítoris pulsando suavemente contra el algodón de sus bragas.
 
-Marco se levantÃ³ con cuidado para no despertar a Elena y caminÃ³ hacia el baÃ±o. El espejo le devolviÃ³ esa imagen que, despuÃ©s de semanas, reconocÃ­a como *suya*.
+Una sinfonía matutina de sensaciones que ya empezaba a sentirse... normal.
 
-El pelo rubio platino cayÃ³ sobre sus hombros como una cascada de plata. Las extensiones aÃ±adÃ­an peso y volumen, transformando lo que habÃ­a sido castaÃ±o aburrido en algo dramÃ¡tico, artificial, espectacular. Los labios tatuados por la micropigmentaciÃ³n brillaban en un tono coral permanente, incluso sin maquillaje. Los ojos delineados con tinta eterna le daban una mirada felina las veinticuatro horas.
+Marco se levantó con cuidado para no despertar a Elena y caminó hacia el baño. El espejo le devolvió esa imagen que, después de semanas, reconocía como *suya*.
 
-Era el cuerpo que Ã©l mismo habÃ­a encargado. Pero ahora era SU cuerpo.
+El pelo rubio platino cayó sobre sus hombros como una cascada de plata. Las extensiones añadían peso y volumen, transformando lo que había sido castaño aburrido en algo dramático, artificial, espectacular. Los labios tatuados por la micropigmentación brillaban en un tono coral permanente, incluso sin maquillaje. Los ojos delineados con tinta eterna le daban una mirada felina las veinticuatro horas.
 
-Y esa realizaciÃ³n ya no dolÃ­a tanto.
+Era el cuerpo que él mismo había encargado. Pero ahora era SU cuerpo.
 
-*Me estoy acostumbrando*, pensÃ³. Pero esta vez, el pensamiento no vino con horror. Vino con algo parecido a la paz.
+Y esa realización ya no dolía tanto.
 
-EmpezÃ³ su rutina de maÃ±ana: limpieza facial en tres pasos, crema hidratante, sÃ©rum, protector solar. Luego el pelo platino: cepillado, desenredante, aceite de argÃ¡n para las puntas. Todo con la fluidez de quien ha aceptado su nueva vida.
+*Me estoy acostumbrando*, pensó. Pero esta vez, el pensamiento no vino con horror. Vino con algo parecido a la paz.
 
-Cuando volviÃ³ al dormitorio, Elena estaba despierto.
+Empezó su rutina de mañana: limpieza facial en tres pasos, crema hidratante, sérum, protector solar. Luego el pelo platino: cepillado, desenredante, aceite de argán para las puntas. Todo con la fluidez de quien ha aceptado su nueva vida.
 
-â€”Buenos dÃ­as, hermosa â€”dijo Elena, y habÃ­a ternura en la palabra.
+Cuando volvió al dormitorio, Elena estaba despierto.
 
-Marco sintiÃ³ un calor en el pecho que no tenÃ­a nada que ver con el sol.
+—Buenos días, hermosa —dijo Elena, y había ternura en la palabra.
 
-â€”Buenos dÃ­as.
+Marco sintió un calor en el pecho que no tenía nada que ver con el sol.
 
-â€”Â¿Lista para hoy?
+—Buenos días.
 
-El estÃ³mago de Marco se contrajo. Pero tambiÃ©n sintiÃ³ algo mÃ¡s. AnticipaciÃ³n.
+—¿Lista para hoy?
 
-â€”Javier.
+El estómago de Marco se contrajo. Pero también sintió algo más. Anticipación.
 
-â€”Javier. â€”Elena sonriÃ³â€”. Viene a las tres. Quiero que lleves el bikini blanco.
+—Javier.
 
-â€”Â¿El blanco? Es el mÃ¡s... pequeÃ±o.
+—Javier. —Elena sonrió—. Viene a las tres. Quiero que lleves el bikini blanco.
 
-â€”Lo sÃ©. â€”Elena se acercÃ³ y le acariciÃ³ la mejillaâ€”. Por eso lo elegÃ­. Quiero que te vea como yo te veo: perfecta.
+—¿El blanco? Es el más... pequeño.
 
-No era solo una orden. Era una declaraciÃ³n de orgullo.
+—Lo sé. —Elena se acercó y le acarició la mejilla—. Por eso lo elegí. Quiero que te vea como yo te veo: perfecta.
+
+No era solo una orden. Era una declaración de orgullo.
 
 ---
 
-Las siguientes horas fueron de preparaciÃ³n.
+Las siguientes horas fueron de preparación.
 
 El ritual de vestirse para la piscina fue tan elaborado como para una gala. Pero ahora, Marco participaba activamente en lugar de solo sufrir.
 
-â€”Primero esto â€”dijo Elena, lanzÃ¡ndole el bikini.
+—Primero esto —dijo Elena, lanzándole el bikini.
 
-Era obsceno: dos triÃ¡ngulos diminutos de tela blanca que apenas cubrÃ­an sus pezones perforados, unidos por cuerdas delicadas. La parte de abajo era peor: un triÃ¡ngulo frontal del tamaÃ±o de un posavasos y una tanga trasera que desaparecÃ­a entre sus nalgas.
+Era obsceno: dos triángulos diminutos de tela blanca que apenas cubrían sus pezones perforados, unidos por cuerdas delicadas. La parte de abajo era peor: un triángulo frontal del tamaño de un posavasos y una tanga trasera que desaparecía entre sus nalgas.
 
-Marco se lo puso, observando su reflejo mientras lo hacÃ­a. La tela blanca contrastaba violentamente con su piel bronceada. A travÃ©s del material fino, los piercings de sus pezones eran *claramente* visibles: las barras de titanio rosa se marcaban como dos lÃ­neas horizontales bajo los triÃ¡ngulos de tela, y las bolitas de los extremos creaban pequeÃ±os bultos obscenos. No habÃ­a forma de ocultarlos.
+Marco se lo puso, observando su reflejo mientras lo hacía. La tela blanca contrastaba violentamente con su piel bronceada. A través del material fino, los piercings de sus pezones eran *claramente* visibles: las barras de titanio rosa se marcaban como dos líneas horizontales bajo los triángulos de tela, y las bolitas de los extremos creaban pequeños bultos obscenos. No había forma de ocultarlos.
 
-Marco sintiÃ³ un escalofrÃ­o de preocupaciÃ³n.
+Marco sintió un escalofrío de preocupación.
 
-â€”Elena... los piercings se ven. â€”Se tocÃ³ los pezones a travÃ©s del bikiniâ€”. Cualquiera que me mire va a notarlos.
+—Elena... los piercings se ven. —Se tocó los pezones a través del bikini—. Cualquiera que me mire va a notarlos.
 
-Elena se encogiÃ³ de hombros.
+Elena se encogió de hombros.
 
-â€”Â¿Y?
+—¿Y?
 
-â€”Y... Javier va a verlos. Va a saber que tengo los pezones perforados.
+—Y... Javier va a verlos. Va a saber que tengo los pezones perforados.
 
-â€”Exactamente. â€”Elena sonriÃ³â€”. Ese es el punto.
+—Exactamente. —Elena sonrió—. Ese es el punto.
 
-â€”Pero...
+—Pero...
 
-â€”Marco. â€”Elena se acercÃ³ y le acariciÃ³ la mejillaâ€”. Quiero que Javier vea exactamente lo que eres. Una mujer que lleva los piercings que su marido le ordenÃ³. Una esposa que obedece. Que se deja marcar.
+—Marco. —Elena se acercó y le acarició la mejilla—. Quiero que Javier vea exactamente lo que eres. Una mujer que lleva los piercings que su marido le ordenó. Una esposa que obedece. Que se deja marcar.
 
-Marco bajÃ³ la mirada. Entre sus piernas, el brillo metÃ¡lico del piercing del clÃ­toris tambiÃ©n creaba un bulto distintivo a travÃ©s de la tela.
+Marco bajó la mirada. Entre sus piernas, el brillo metálico del piercing del clítoris también creaba un bulto distintivo a través de la tela.
 
-â€”Javier va a pensar que soy una...
+—Javier va a pensar que soy una...
 
-â€”Â¿Una quÃ©? Â¿Una puta? â€”Elena riÃ³â€”. Javier va a pensar que eres exactamente lo que eres: una esposa trofeo perfectamente entrenada. Y eso te va a excitar.
+—¿Una qué? ¿Una puta? —Elena rió—. Javier va a pensar que eres exactamente lo que eres: una esposa trofeo perfectamente entrenada. Y eso te va a excitar.
 
-Era verdad. Ya podÃ­a sentirlo. La idea de ser exhibida, de ser *vista*, de que un hombre notara las marcas de su sumisiÃ³n... los tres piercings palpitaron al unÃ­sono.
+Era verdad. Ya podía sentirlo. La idea de ser exhibida, de ser *vista*, de que un hombre notara las marcas de su sumisión... los tres piercings palpitaron al unísono.
 
-*Parezco una pornstar*, pensÃ³. Y sintiÃ³ un pulso de excitaciÃ³n ante esa idea.
+*Parezco una pornstar*, pensó. Y sintió un pulso de excitación ante esa idea.
 
-â€”Me da vergÃ¼enza que me guste â€”admitiÃ³ Marco.
+—Me da vergüenza que me guste —admitió Marco.
 
-â€”Eso lo hace mejor. â€”Elena lo besÃ³ suavementeâ€”. La vergÃ¼enza y el placer juntos. Ya lo aprendiste.
+—Eso lo hace mejor. —Elena lo besó suavemente—. La vergüenza y el placer juntos. Ya lo aprendiste.
 
-Marco asintiÃ³. Lo habÃ­a aprendido.
+Marco asintió. Lo había aprendido.
 
-SiguiÃ³ el maquillaje: base ligera, bronceador, rÃ­mel waterproof, gloss rosa brillante que hacÃ­a que sus labios tatuados parecieran aÃºn mÃ¡s exagerados.
+Siguió el maquillaje: base ligera, bronceador, rímel waterproof, gloss rosa brillante que hacía que sus labios tatuados parecieran aún más exagerados.
 
 Y finalmente, los zapatos.
 
-Elena sacÃ³ una caja que Marco nunca habÃ­a visto.
+Elena sacó una caja que Marco nunca había visto.
 
-â€”Nueve pulgadas â€”anunciÃ³â€”. Casi veintitrÃ©s centÃ­metros. Las comprÃ© especialmente para hoy.
+—Nueve pulgadas —anunció—. Casi veintitrés centímetros. Las compré especialmente para hoy.
 
-Eran sandalias de plataforma con base de acrÃ­lico transparente y un tacÃ³n de aguja que desafiaba la fÃ­sica. Tacones de stripper. De bailarina de pole dance. De fantasÃ­a sexual andante.
+Eran sandalias de plataforma con base de acrílico transparente y un tacón de aguja que desafiaba la física. Tacones de stripper. De bailarina de pole dance. De fantasía sexual andante.
 
-Marco las mirÃ³. El viejo Marco habrÃ­a protestado. HabrÃ­a suplicado.
+Marco las miró. El viejo Marco habría protestado. Habría suplicado.
 
-Pero el nuevo Marco sintiÃ³ los tres piercings pulsar con anticipaciÃ³n.
+Pero el nuevo Marco sintió los tres piercings pulsar con anticipación.
 
-â€”Â¿Me ayudas a ponÃ©rmelos? â€”preguntÃ³, extendiendo el pie.
+—¿Me ayudas a ponérmelos? —preguntó, extendiendo el pie.
 
-La sonrisa de Elena fue de pura satisfacciÃ³n.
+La sonrisa de Elena fue de pura satisfacción.
 
-Le deslizÃ³ los pies en las plataformas, ajustando las correas alrededor de los tobillos con cuidado. El acrÃ­lico era frÃ­o, pero la mirada de Elena era cÃ¡lida.
+Le deslizó los pies en las plataformas, ajustando las correas alrededor de los tobillos con cuidado. El acrílico era frío, pero la mirada de Elena era cálida.
 
-â€”LevÃ¡ntate.
+—Levántate.
 
 Marco se puso de pie.
 
-El mundo cambiÃ³ de golpe. Nunca habÃ­a estado tan alto. El tacÃ³n trasero era una aguja vertical que lo empujaba hacia adelante a una inclinaciÃ³n casi imposible. Sus pantorrillas ardÃ­an. Sus muslos temblaban. Su culo se proyectÃ³ hacia atrÃ¡s en un Ã¡ngulo obsceno.
+El mundo cambió de golpe. Nunca había estado tan alto. El tacón trasero era una aguja vertical que lo empujaba hacia adelante a una inclinación casi imposible. Sus pantorrillas ardían. Sus muslos temblaban. Su culo se proyectó hacia atrás en un ángulo obsceno.
 
-Dio un paso y casi cayÃ³.
+Dio un paso y casi cayó.
 
-â€”Despacio â€”instruyÃ³ Elena, sosteniÃ©ndoloâ€”. Pasos cortos. Caderas primero.
+—Despacio —instruyó Elena, sosteniéndolo—. Pasos cortos. Caderas primero.
 
-Marco dio otro paso. Luego otro. El sonido era diferente: un *clic-clic* mÃ¡s agudo, mÃ¡s resonante. Y la sensaciÃ³n... era como caminar sobre zancos de sexo.
+Marco dio otro paso. Luego otro. El sonido era diferente: un *clic-clic* más agudo, más resonante. Y la sensación... era como caminar sobre zancos de sexo.
 
-Se mirÃ³ en el espejo.
+Se miró en el espejo.
 
-Ya no parecÃ­a una esposa trofeo. ParecÃ­a una stripper de alto standing. Pelo platino cayendo sobre hombros bronceados. Bikini mÃ­nimo mostrando cada curva. Tacones imposibles arqueando su cuerpo en una postura que gritaba "disponible". Tres piercings brillando a travÃ©s de la tela y el sol.
+Ya no parecía una esposa trofeo. Parecía una stripper de alto standing. Pelo platino cayendo sobre hombros bronceados. Bikini mínimo mostrando cada curva. Tacones imposibles arqueando su cuerpo en una postura que gritaba "disponible". Tres piercings brillando a través de la tela y el sol.
 
-*Me veo como una fantasÃ­a sexual*, pensÃ³. *Y me encanta.*
+*Me veo como una fantasía sexual*, pensó. *Y me encanta.*
 
-La revelaciÃ³n ya no era devastadora. Era liberadora.
+La revelación ya no era devastadora. Era liberadora.
 
-â€”Perfecta â€”dictaminÃ³ Elena, rodeÃ¡ndolo con los brazosâ€”. Eres absolutamente perfecta. Y eres mÃ­a.
+—Perfecta —dictaminó Elena, rodeándolo con los brazos—. Eres absolutamente perfecta. Y eres mía.
 
-â€”Soy tuya â€”confirmÃ³ Marco, y lo dijo en serio.
+—Soy tuya —confirmó Marco, y lo dijo en serio.
 
-â€”Javier va a estar muy impresionado.
+—Javier va a estar muy impresionado.
 
-Esta vez, Marco no sintiÃ³ solo nervios. SintiÃ³ curiosidad. Â¿QuÃ© tenÃ­a planeado Elena? Â¿Por quÃ© importaba tanto impresionar a este hombre?
+Esta vez, Marco no sintió solo nervios. Sintió curiosidad. ¿Qué tenía planeado Elena? ¿Por qué importaba tanto impresionar a este hombre?
 
-SaliÃ³ al jardÃ­n, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en las baldosas de la terraza. El sol calentaba su piel expuesta. El pelo platino brillaba. Los tres piercings palpitaban con una mezcla de anticipaciÃ³n y excitaciÃ³n que ya habÃ­a aprendido a reconocer como *correcta*.
+Salió al jardín, sus tacones de nueve pulgadas haciendo *clic-clic-clic* en las baldosas de la terraza. El sol calentaba su piel expuesta. El pelo platino brillaba. Los tres piercings palpitaban con una mezcla de anticipación y excitación que ya había aprendido a reconocer como *correcta*.
 
-Fuera lo que fuera lo que venÃ­a, estaba lista.
-
----
+Fuera lo que fuera lo que venía, estaba lista.
 
 ---
 
-Javier llegÃ³ a las tres en punto.
+---
 
-Marco lo vio desde la ventana del dormitorio: el Porsche rojo entrando por el camino de grava, el hombre alto y moreno bajando con una bolsa de playa y una botella de champÃ¡n.
+Javier llegó a las tres en punto.
 
-Javier vestÃ­a un baÃ±ador azul marino y nada mÃ¡s. Su torso bronceado brillaba bajo el sol, cada mÃºsculo definido por aÃ±os de gimnasio y genÃ©tica afortunada.
+Marco lo vio desde la ventana del dormitorio: el Porsche rojo entrando por el camino de grava, el hombre alto y moreno bajando con una bolsa de playa y una botella de champán.
 
-Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlÃ©tica. Ahora lo miraba con algo diferente. Algo que hacÃ­a que los tres piercings palpitaran suavemente.
+Javier vestía un bañador azul marino y nada más. Su torso bronceado brillaba bajo el sol, cada músculo definido por años de gimnasio y genética afortunada.
 
-â€”Vamos â€”dijo Elena, poniÃ©ndole una mano en la espalda bajaâ€”. Es hora.
+Marco recordaba haber admirado ese cuerpo, de hombre a hombre, con envidia atlética. Ahora lo miraba con algo diferente. Algo que hacía que los tres piercings palpitaran suavemente.
 
-Marco bajÃ³ las escaleras con gracia aprendida. El bikini blanco era diminuto, pero ya no le causaba el pÃ¡nico de antes. El pareo transparente flotaba sobre sus caderas como un susurro de seda.
+—Vamos —dijo Elena, poniéndole una mano en la espalda baja—. Es hora.
 
-Y los tacones de nueve pulgadas sonaban con autoridad en el mÃ¡rmol. *Clic-clic-clic*. Ya no tambaleaba. HabÃ­a aprendido.
+Marco bajó las escaleras con gracia aprendida. El bikini blanco era diminuto, pero ya no le causaba el pánico de antes. El pareo transparente flotaba sobre sus caderas como un susurro de seda.
 
-Su pelo rubio platino caÃ­a sobre un hombro mientras bajaba, brillando bajo la luz del sol que entraba por los ventanales.
+Y los tacones de nueve pulgadas sonaban con autoridad en el mármol. *Clic-clic-clic*. Ya no tambaleaba. Había aprendido.
 
-Salieron a la terraza de la piscina. El calor golpeÃ³ a Marco, pero fue bienvenido. El agua brillaba azul turquesa. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores.
+Su pelo rubio platino caía sobre un hombro mientras bajaba, brillando bajo la luz del sol que entraba por los ventanales.
 
-Y Javier, de pie junto a la piscina, mirÃ¡ndolo acercarse.
+Salieron a la terraza de la piscina. El calor golpeó a Marco, pero fue bienvenido. El agua brillaba azul turquesa. Tumbonas blancas, sombrillas de rayas, una barra de bar con todos los licores.
 
-â€”Â¡Joder! â€”exclamÃ³ Javier, silbandoâ€”. Elena, estÃ¡s... dios mÃ­o.
+Y Javier, de pie junto a la piscina, mirándolo acercarse.
 
-Sus ojos recorrieron el cuerpo de Marco sin ningÃºn disimulo. De arriba abajo. DeteniÃ©ndose en el pelo platino brillante. En los pechos que desbordaban el bikini. En las piernas bronceadas que parecÃ­an interminables gracias a los tacones imposibles.
+—¡Joder! —exclamó Javier, silbando—. Elena, estás... dios mío.
 
-Y entonces, Javier se detuvo. FrunciÃ³ el ceÃ±o ligeramente, entrecerrando los ojos.
+Sus ojos recorrieron el cuerpo de Marco sin ningún disimulo. De arriba abajo. Deteniéndose en el pelo platino brillante. En los pechos que desbordaban el bikini. En las piernas bronceadas que parecían interminables gracias a los tacones imposibles.
 
-â€”Espera... Â¿quÃ© es eso?
+Y entonces, Javier se detuvo. Frunció el ceño ligeramente, entrecerrando los ojos.
 
-Marco sintiÃ³ el corazÃ³n acelerarse. SabÃ­a exactamente quÃ© habÃ­a visto Javier.
+—Espera... ¿qué es eso?
 
-â€”Â¿QuÃ© es quÃ©? â€”preguntÃ³, fingiendo inocencia.
+Marco sintió el corazón acelerarse. Sabía exactamente qué había visto Javier.
 
-â€”Eso. â€”Javier seÃ±alÃ³ su pechoâ€”. Bajo el bikini. Parece...
+—¿Qué es qué? —preguntó, fingiendo inocencia.
 
-Se acercÃ³ un paso, invadiendo su espacio personal. Sus ojos se fijaron en los triÃ¡ngulos de tela blanca, donde las barras de titanio rosa de los piercings se marcaban claramente como lÃ­neas horizontales, las bolitas creando pequeÃ±os bultos obscenos a cada lado de los pezones.
+—Eso. —Javier señaló su pecho—. Bajo el bikini. Parece...
 
-â€”Â¿Tienes piercings en los pezones? â€”La voz de Javier era de pura incredulidad fascinadaâ€”. Hostia puta, Elena. Â¿En serio?
+Se acercó un paso, invadiendo su espacio personal. Sus ojos se fijaron en los triángulos de tela blanca, donde las barras de titanio rosa de los piercings se marcaban claramente como líneas horizontales, las bolitas creando pequeños bultos obscenos a cada lado de los pezones.
 
-El rubor subiÃ³ por el cuello de Marco como una ola de fuego. AhÃ­ estaba. El momento que habÃ­a temido. Javier lo sabÃ­a. VeÃ­a las marcas de su sumisiÃ³n atravesando la tela.
+—¿Tienes piercings en los pezones? —La voz de Javier era de pura incredulidad fascinada—. Hostia puta, Elena. ¿En serio?
 
-â€”Fueron... fueron idea de Marco â€”logrÃ³ decir, usando la excusa que Elena le habÃ­a dado.
+El rubor subió por el cuello de Marco como una ola de fuego. Ahí estaba. El momento que había temido. Javier lo sabía. Veía las marcas de su sumisión atravesando la tela.
 
-â€”Â¿Marco te hizo perforarte los pezones? â€”Javier riÃ³, pero no era una risa burlona. Era admiraciÃ³nâ€”. Joder, tÃ­o. Siempre supe que Marco era un cabrÃ³n con suerte, pero esto... esto es otro nivel.
+—Fueron... fueron idea de Marco —logró decir, usando la excusa que Elena le había dado.
 
-MirÃ³ a Elena con una sonrisa cÃ³mplice.
+—¿Marco te hizo perforarte los pezones? —Javier rió, pero no era una risa burlona. Era admiración—. Joder, tío. Siempre supe que Marco era un cabrón con suerte, pero esto... esto es otro nivel.
 
-â€”Tu esposa es una obra de arte, cabrÃ³n.
+Miró a Elena con una sonrisa cómplice.
 
-â€”Lo sÃ© â€”dijo Elena, pasando un brazo posesivo alrededor de la cintura de Marcoâ€”. Por eso la cuido tanto.
+—Tu esposa es una obra de arte, cabrón.
 
-Pero Marco apenas escuchaba. Estaba demasiado ocupado procesando lo que sentÃ­a.
+—Lo sé —dijo Elena, pasando un brazo posesivo alrededor de la cintura de Marco—. Por eso la cuido tanto.
 
-Javier habÃ­a visto los piercings. SabÃ­a que era una mujer marcada, perforada, entrenada. Y esa mirada de admiraciÃ³n hambrienta... los tres piercings palpitaron al unÃ­sono, enviando ondas de algo que no era solo vergÃ¼enza.
+Pero Marco apenas escuchaba. Estaba demasiado ocupado procesando lo que sentía.
 
-Era excitaciÃ³n.
+Javier había visto los piercings. Sabía que era una mujer marcada, perforada, entrenada. Y esa mirada de admiración hambrienta... los tres piercings palpitaron al unísono, enviando ondas de algo que no era solo vergüenza.
 
-*La humillaciÃ³n te excita*, le habÃ­a dicho Elena. *Ya lo aprendiste*.
+Era excitación.
 
-Era verdad. Y ahora, bajo la mirada depredadora de Javier, lo sentÃ­a mÃ¡s que nunca.
+*La humillación te excita*, le había dicho Elena. *Ya lo aprendiste*.
+
+Era verdad. Y ahora, bajo la mirada depredadora de Javier, lo sentía más que nunca.
 
 ---
 
-Se sentaron en las tumbonas. Marco intentÃ³ cubrirse con el pareo, pero Elena se lo quitÃ³.
+Se sentaron en las tumbonas. Marco intentó cubrirse con el pareo, pero Elena se lo quitó.
 
-â€”Hace demasiado calor para eso, cariÃ±o.
+—Hace demasiado calor para eso, cariño.
 
-QuedÃ³ expuesto. El bikini diminuto. La piel bronceada. Los piercings de pezones visibles a travÃ©s de la tela. El piercing del clÃ­toris creando su propio bulto distintivo. Y los tacones de nueve pulgadas, todavÃ­a puestos, brillando bajo el sol.
+Quedó expuesto. El bikini diminuto. La piel bronceada. Los piercings de pezones visibles a través de la tela. El piercing del clítoris creando su propio bulto distintivo. Y los tacones de nueve pulgadas, todavía puestos, brillando bajo el sol.
 
-â€”Â¿No te quitas los zapatos? â€”preguntÃ³ Javier, sus ojos moviÃ©ndose entre los tacones y los pezones perforados con fascinaciÃ³n.
+—¿No te quitas los zapatos? —preguntó Javier, sus ojos moviéndose entre los tacones y los pezones perforados con fascinación.
 
-â€”A Marco le gusta que los lleve puestos â€”respondiÃ³ Marco.
+—A Marco le gusta que los lleve puestos —respondió Marco.
 
-â€”Y tiene razÃ³n. â€”Javier sonriÃ³, su mirada deteniÃ©ndose nuevamente en los bultos de los piercingsâ€”. Hacen que todo tu cuerpo se vea... disponible.
+—Y tiene razón. —Javier sonrió, su mirada deteniéndose nuevamente en los bultos de los piercings—. Hacen que todo tu cuerpo se vea... disponible.
 
-Marco sintiÃ³ un escalofrÃ­o. Javier habÃ­a dicho "disponible". No "sexy". No "hermosa". *Disponible*.
+Marco sintió un escalofrío. Javier había dicho "disponible". No "sexy". No "hermosa". *Disponible*.
 
-Y los piercings respondieron, pulsando con anticipaciÃ³n.
+Y los piercings respondieron, pulsando con anticipación.
 
-â€”CariÃ±o â€”dijo Elenaâ€”, Â¿por quÃ© no nos traes unos cÃ³cteles del bar?
+—Cariño —dijo Elena—, ¿por qué no nos traes unos cócteles del bar?
 
-Marco entendiÃ³. Iba a tener que caminar todo el trayecto con el bikini que mostraba sus piercings, mientras Javier observaba cada paso.
+Marco entendió. Iba a tener que caminar todo el trayecto con el bikini que mostraba sus piercings, mientras Javier observaba cada paso.
 
-â€”Claro â€”dijo, levantÃ¡ndose con gracia.
+—Claro —dijo, levantándose con gracia.
 
-CaminÃ³ hacia el bar sintiendo la mirada de Javier recorriendo su cuerpo. SabÃ­a que estaba mirando los piercings. SabÃ­a que estaba imaginando quÃ© mÃ¡s tenÃ­a perforado. Y esa certeza hacÃ­a que los tres piercings cantaran en armonÃ­a.
+Caminó hacia el bar sintiendo la mirada de Javier recorriendo su cuerpo. Sabía que estaba mirando los piercings. Sabía que estaba imaginando qué más tenía perforado. Y esa certeza hacía que los tres piercings cantaran en armonía.
 
-PreparÃ³ los mojitos con manos que ya no temblaban de terror, sino de anticipaciÃ³n. Sus pechos perforados se balanceaban ligeramente con cada movimiento de la coctelera.
+Preparó los mojitos con manos que ya no temblaban de terror, sino de anticipación. Sus pechos perforados se balanceaban ligeramente con cada movimiento de la coctelera.
 
-Cuando regresÃ³, Javier lo miraba con ojos de lobo.
+Cuando regresó, Javier lo miraba con ojos de lobo.
 
-â€”Eres increÃ­ble â€”dijo, tomando su copaâ€”. Absolutamente increÃ­ble. Marco es el hombre mÃ¡s afortunado del mundo.
+—Eres increíble —dijo, tomando su copa—. Absolutamente increíble. Marco es el hombre más afortunado del mundo.
 
-â€”Lo soy â€”confirmÃ³ Elena.
+—Lo soy —confirmó Elena.
 
-Y Marco, entregando las copas con sus tacones imposibles y sus piercings visibles, descubriÃ³ que una parte de Ã©l estaba de acuerdo.
+Y Marco, entregando las copas con sus tacones imposibles y sus piercings visibles, descubrió que una parte de él estaba de acuerdo.
 
 ---
 
-Elena inventÃ³ excusas para hacer que Marco fuera y viniera, un espectÃ¡culo ambulante de sumisiÃ³n exhibida. Cada viaje era otra oportunidad para que Javier admirara los piercings, los tacones, el cuerpo entero.
+Elena inventó excusas para hacer que Marco fuera y viniera, un espectáculo ambulante de sumisión exhibida. Cada viaje era otra oportunidad para que Javier admirara los piercings, los tacones, el cuerpo entero.
 
 Y Marco lo disfrutaba. Lo odiaba disfrutarlo. Pero lo disfrutaba.
 
-Cuando Elena se fue a buscar las gafas de sol del coche, Marco se quedÃ³ a solas con Javier.
+Cuando Elena se fue a buscar las gafas de sol del coche, Marco se quedó a solas con Javier.
 
-â€”AsÃ­ que... â€”Javier se reclinÃ³ en su tumbonaâ€”. Â¿Puedo preguntarte algo personal?
+—Así que... —Javier se reclinó en su tumbona—. ¿Puedo preguntarte algo personal?
 
-â€”Supongo.
+—Supongo.
 
-â€”Los piercings. â€”Javier seÃ±alÃ³ su pechoâ€”. Â¿Duelen?
+—Los piercings. —Javier señaló su pecho—. ¿Duelen?
 
-Marco se mirÃ³ los pezones. Las barras eran claramente visibles bajo la tela mojada del bikini.
+Marco se miró los pezones. Las barras eran claramente visibles bajo la tela mojada del bikini.
 
-â€”Ya no. Pero son... sensibles.
+—Ya no. Pero son... sensibles.
 
-â€”Â¿Sensibles cÃ³mo?
+—¿Sensibles cómo?
 
-â€”Cada roce se siente... amplificado.
+—Cada roce se siente... amplificado.
 
-Javier asintiÃ³ lentamente, sus ojos brillando.
+Javier asintió lentamente, sus ojos brillando.
 
-â€”Â¿Y el de abajo? â€”preguntÃ³, bajando la mirada hacia la entrepierna de Marcoâ€”. Porque apuesto a que tambiÃ©n tienes uno ahÃ­.
+—¿Y el de abajo? —preguntó, bajando la mirada hacia la entrepierna de Marco—. Porque apuesto a que también tienes uno ahí.
 
-Marco sintiÃ³ el rubor explotar en su cara.
+Marco sintió el rubor explotar en su cara.
 
-â€”Eso es... privado.
+—Eso es... privado.
 
-â€”Eso es un sÃ­. â€”Javier sonriÃ³â€”. Joder, Elena. Eres la mujer mÃ¡s sexy que he conocido.
+—Eso es un sí. —Javier sonrió—. Joder, Elena. Eres la mujer más sexy que he conocido.
 
-Se levantÃ³ y caminÃ³ hacia la tumbona de Marco. Lento. Deliberado.
+Se levantó y caminó hacia la tumbona de Marco. Lento. Deliberado.
 
-â€”Llevo semanas pensando en ti â€”dijo, sentÃ¡ndose al bordeâ€”. Desde esa cena. No puedo sacarte de la cabeza. Y ahora que sÃ© lo de los piercings...
+—Llevo semanas pensando en ti —dijo, sentándose al borde—. Desde esa cena. No puedo sacarte de la cabeza. Y ahora que sé lo de los piercings...
 
 Le puso una mano en el muslo. Caliente. Posesiva.
 
-â€”Javi... soy la esposa de tu mejor amigo.
+—Javi... soy la esposa de tu mejor amigo.
 
-â€”Lo sÃ©. â€”La mano subiÃ³â€”. Y eso lo hace mÃ¡s excitante.
+—Lo sé. —La mano subió—. Y eso lo hace más excitante.
 
-Marco deberÃ­a haberse apartado. DeberÃ­a haber gritado. Pero los tres piercings estaban cantando, y su cuerpo â€”ese cuerpo entrenado para responder a la humillaciÃ³n con placerâ€” se estaba derritiendo.
+Marco debería haberse apartado. Debería haber gritado. Pero los tres piercings estaban cantando, y su cuerpo —ese cuerpo entrenado para responder a la humillación con placer— se estaba derritiendo.
 
-â€”Solo quiero un beso â€”susurrÃ³ Javierâ€”. Un beso y ya.
+—Solo quiero un beso —susurró Javier—. Un beso y ya.
 
-Los labios de Javier tocaron los suyos. Fue un beso suave al principio, exploratorio. Luego mÃ¡s duro. La lengua de Javier invadiÃ³ su boca.
+Los labios de Javier tocaron los suyos. Fue un beso suave al principio, exploratorio. Luego más duro. La lengua de Javier invadió su boca.
 
-Marco gimiÃ³. Una parte de Ã©l lo odiaba. Otra parte â€”la parte que Elena habÃ­a despertadoâ€” se rendÃ­a.
+Marco gimió. Una parte de él lo odiaba. Otra parte —la parte que Elena había despertado— se rendía.
 
-Cuando Javier finalmente se separÃ³, Marco estaba jadeando. Los piercings de sus pezones estaban tan duros que dolÃ­a. El del clÃ­toris palpitaba con necesidad.
+Cuando Javier finalmente se separó, Marco estaba jadeando. Los piercings de sus pezones estaban tan duros que dolía. El del clítoris palpitaba con necesidad.
 
-â€”Lo sabÃ­a â€”susurrÃ³ Javierâ€”. SabÃ­a que lo querÃ­as.
+—Lo sabía —susurró Javier—. Sabía que lo querías.
 
-Se levantÃ³ y se bajÃ³ el baÃ±ador.
+Se levantó y se bajó el bañador.
 
-Su polla saltÃ³ libre, gruesa y erecta.
+Su polla saltó libre, gruesa y erecta.
 
-â€”Ahora vas a demostrarme lo buena que eres.
+—Ahora vas a demostrarme lo buena que eres.
 
-Marco mirÃ³ la polla frente a Ã©l. MirÃ³ a Javier. Y tomÃ³ una decisiÃ³n que lo sorprendiÃ³ a sÃ­ mismo.
+Marco miró la polla frente a él. Miró a Javier. Y tomó una decisión que lo sorprendió a sí mismo.
 
-â€”Si hago esto â€”dijo, su voz firme a pesar de todoâ€”, Elena tiene que saberlo.
+—Si hago esto —dijo, su voz firme a pesar de todo—, Elena tiene que saberlo.
 
-Javier parpadeÃ³.
+Javier parpadeó.
 
-â€”Â¿QuÃ©?
+—¿Qué?
 
-â€”No voy a mentirle a mi... marido. Si quieres esto, Elena tiene que aprobarlo.
+—No voy a mentirle a mi... marido. Si quieres esto, Elena tiene que aprobarlo.
 
-Era una jugada arriesgada. Pero Marco conocÃ­a a Elena ahora. ConocÃ­a sus juegos. Y apostaba a que esto â€”exactamente estoâ€” era lo que Elena habÃ­a planeado desde el principio.
+Era una jugada arriesgada. Pero Marco conocía a Elena ahora. Conocía sus juegos. Y apostaba a que esto —exactamente esto— era lo que Elena había planeado desde el principio.
 
-Javier frunciÃ³ el ceÃ±o. Luego riÃ³.
+Javier frunció el ceño. Luego rió.
 
-â€”Eres increÃ­ble, Â¿lo sabes? Incluso ahora, incluso asÃ­... eres leal.
+—Eres increíble, ¿lo sabes? Incluso ahora, incluso así... eres leal.
 
-Se subiÃ³ el baÃ±ador.
+Se subió el bañador.
 
-â€”EstÃ¡ bien. Lo hablaremos con Marco cuando vuelva.
+—Está bien. Lo hablaremos con Marco cuando vuelva.
 
-Y Marco, todavÃ­a temblando de excitaciÃ³n no liberada, esperÃ³ a que Elena regresara, sabiendo que el verdadero juego apenas comenzaba.
-
----
+Y Marco, todavía temblando de excitación no liberada, esperó a que Elena regresara, sabiendo que el verdadero juego apenas comenzaba.
 
 ---
 
-Elena regresÃ³ con las gafas de sol de Javier en la mano y una sonrisa que Marco conocÃ­a demasiado bien.
+---
 
-â€”Entonces â€”dijo, sentÃ¡ndose en la tumbona junto a ellosâ€”. Â¿QuÃ© me perdÃ­?
+Elena regresó con las gafas de sol de Javier en la mano y una sonrisa que Marco conocía demasiado bien.
 
-Javier mirÃ³ a Marco, luego a Elena.
+—Entonces —dijo, sentándose en la tumbona junto a ellos—. ¿Qué me perdí?
 
-â€”Tu esposa es increÃ­ble, tÃ­o. Me pidiÃ³ que esperara hasta que volvieras.
+Javier miró a Marco, luego a Elena.
 
-â€”Â¿Ah, sÃ­? â€”Elena arqueÃ³ una ceja, mirando a Marco.
+—Tu esposa es increíble, tío. Me pidió que esperara hasta que volvieras.
 
-Marco sintiÃ³ el rubor extenderse por todo su cuerpo. TodavÃ­a estaba temblando del encuentro con Javier â€”el beso, el casi mÃ¡sâ€” pero habÃ­a hecho lo correcto. HabÃ­a sido leal.
+—¿Ah, sí? —Elena arqueó una ceja, mirando a Marco.
 
-â€”QuerÃ­a que supieras â€”dijo Marco, bajando la miradaâ€”. Antes de... antes de cualquier cosa.
+Marco sintió el rubor extenderse por todo su cuerpo. Todavía estaba temblando del encuentro con Javier —el beso, el casi más— pero había hecho lo correcto. Había sido leal.
 
-Elena se quedÃ³ en silencio un momento. Luego se levantÃ³ y caminÃ³ hacia Marco. Le tomÃ³ la barbilla y lo obligÃ³ a mirarlo.
+—Quería que supieras —dijo Marco, bajando la mirada—. Antes de... antes de cualquier cosa.
 
-â€”Â¿Y quÃ© quieres tÃº? â€”preguntÃ³ Elena, su voz suave pero intensaâ€”. Â¿QuÃ© quieres que pase aquÃ­?
+Elena se quedó en silencio un momento. Luego se levantó y caminó hacia Marco. Le tomó la barbilla y lo obligó a mirarlo.
 
-Era la primera vez que Elena le hacÃ­a esa pregunta. No una orden. No una decisiÃ³n tomada por Ã©l. Una pregunta real.
+—¿Y qué quieres tú? —preguntó Elena, su voz suave pero intensa—. ¿Qué quieres que pase aquí?
 
-Los tres piercings palpitaron. El del clÃ­toris respondÃ­a a la cercanÃ­a de Elena. Los de los pezones rozaban contra el bikini mojado. Y Marco, con su pelo rubio platino brillando bajo el sol, se dio cuenta de que sabÃ­a exactamente lo que querÃ­a.
+Era la primera vez que Elena le hacía esa pregunta. No una orden. No una decisión tomada por él. Una pregunta real.
 
-â€”Quiero... â€”tragÃ³ salivaâ€”. Quiero que me mires mientras lo hago. Quiero que sepas que soy tuya, incluso cuando otro me toca.
+Los tres piercings palpitaron. El del clítoris respondía a la cercanía de Elena. Los de los pezones rozaban contra el bikini mojado. Y Marco, con su pelo rubio platino brillando bajo el sol, se dio cuenta de que sabía exactamente lo que quería.
 
-Elena sonriÃ³. No era una sonrisa cruel. Era orgullo.
+—Quiero... —tragó saliva—. Quiero que me mires mientras lo hago. Quiero que sepas que soy tuya, incluso cuando otro me toca.
 
-â€”Esa es mi chica.
+Elena sonrió. No era una sonrisa cruel. Era orgullo.
 
-Se girÃ³ hacia Javier.
+—Esa es mi chica.
 
-â€”Â¿Escuchaste eso, Javi? Mi esposa quiere que mire.
+Se giró hacia Javier.
 
-Javier soltÃ³ una carcajada.
+—¿Escuchaste eso, Javi? Mi esposa quiere que mire.
 
-â€”Joder, Marco. No sÃ© quÃ© le hiciste a esta mujer, pero es la mÃ¡s sumisa y leal que he conocido.
+Javier soltó una carcajada.
 
-â€”La entrenÃ© bien â€”dijo Elena, quitÃ¡ndose el baÃ±ador.
+—Joder, Marco. No sé qué le hiciste a esta mujer, pero es la más sumisa y leal que he conocido.
 
-Su polla â€”la que habÃ­a sido de Marcoâ€” saltÃ³ libre, ya dura.
+—La entrené bien —dijo Elena, quitándose el bañador.
 
-Marco la mirÃ³. Era extraÃ±o ver su antiguo miembro asÃ­, desde esta perspectiva. ExtraÃ±o y excitante.
+Su polla —la que había sido de Marco— saltó libre, ya dura.
 
-â€”Esto es lo que va a pasar â€”anunciÃ³ Elena, con la autoridad de siempreâ€”. Marco va a complacerte, Javi. Pero yo voy a estar ahÃ­. Dirigiendo. Porque ella es MÃA.
+Marco la miró. Era extraño ver su antiguo miembro así, desde esta perspectiva. Extraño y excitante.
 
-â€”Me parece perfecto â€”dijo Javier, bajÃ¡ndose el baÃ±ador tambiÃ©n.
+—Esto es lo que va a pasar —anunció Elena, con la autoridad de siempre—. Marco va a complacerte, Javi. Pero yo voy a estar ahí. Dirigiendo. Porque ella es MÍA.
 
-Ahora habÃ­a dos pollas frente a Marco. Dos hombres esperando. Y Ã©l, arrodillado en una tumbona, con un bikini minÃºsculo que mostraba sus tres piercings, tacones de nueve pulgadas, y pelo platino cayendo sobre sus hombros.
+—Me parece perfecto —dijo Javier, bajándose el bañador también.
 
-DeberÃ­a haber sentido terror. Pero lo que sintiÃ³ fue diferente.
+Ahora había dos pollas frente a Marco. Dos hombres esperando. Y él, arrodillado en una tumbona, con un bikini minúsculo que mostraba sus tres piercings, tacones de nueve pulgadas, y pelo platino cayendo sobre sus hombros.
 
-*Esto es lo que quiero*, pensÃ³ con claridad sorprendente. *Quiero ser usada. Quiero que Elena vea cuÃ¡nto me rindo. Quiero que Javier sepa que pertenezco a otro.*
+Debería haber sentido terror. Pero lo que sintió fue diferente.
 
-â€”Ven aquÃ­ â€”ordenÃ³ Elena, seÃ±alando el espacio entre las tumbonas.
+*Esto es lo que quiero*, pensó con claridad sorprendente. *Quiero ser usada. Quiero que Elena vea cuánto me rindo. Quiero que Javier sepa que pertenezco a otro.*
 
-Marco obedeciÃ³. CaminÃ³ con los tacones imposibles, sintiendo las miradas de ambos hombres recorrer su cuerpo. Los piercings de sus pezones eran claramente visibles a travÃ©s del bikini mojado. El del clÃ­toris creaba ese bulto distintivo.
+—Ven aquí —ordenó Elena, señalando el espacio entre las tumbonas.
 
-Se arrodillÃ³ entre ellos.
+Marco obedeció. Caminó con los tacones imposibles, sintiendo las miradas de ambos hombres recorrer su cuerpo. Los piercings de sus pezones eran claramente visibles a través del bikini mojado. El del clítoris creaba ese bulto distintivo.
 
-â€”Primero Javi â€”instruyÃ³ Elenaâ€”. Quiero ver cÃ³mo lo haces.
+Se arrodilló entre ellos.
 
-Marco mirÃ³ la polla de Javier. Era diferente a la de Elena: mÃ¡s corta pero mÃ¡s gruesa, curvada hacia arriba. Una polla desconocida. Una polla que no le pertenecÃ­a a su marido.
+—Primero Javi —instruyó Elena—. Quiero ver cómo lo haces.
+
+Marco miró la polla de Javier. Era diferente a la de Elena: más corta pero más gruesa, curvada hacia arriba. Una polla desconocida. Una polla que no le pertenecía a su marido.
 
 Y sin embargo, con Elena mirando, la idea de chuparla era... excitante.
 
-Marco abriÃ³ la boca y tomÃ³ a Javier.
+Marco abrió la boca y tomó a Javier.
 
-El gemido de Javier fue instantÃ¡neo.
+El gemido de Javier fue instantáneo.
 
-â€”Joder... sabe lo que hace...
+—Joder... sabe lo que hace...
 
 Elena observaba con ojos brillantes. Su mano acariciaba su propia polla mientras miraba a Marco trabajar.
 
-â€”MÃ¡s profundo â€”ordenÃ³â€”. Quiero ver cÃ³mo lo tragas.
+—Más profundo —ordenó—. Quiero ver cómo lo tragas.
 
-Marco obedeciÃ³. RelajÃ³ la garganta como Elena le habÃ­a enseÃ±ado y permitiÃ³ que la polla de Javier se deslizara mÃ¡s adentro. El reflejo de arcada vino, pero lo controlÃ³. HabÃ­a aprendido.
+Marco obedeció. Relajó la garganta como Elena le había enseñado y permitió que la polla de Javier se deslizara más adentro. El reflejo de arcada vino, pero lo controló. Había aprendido.
 
-â€”MÃ­rame â€”dijo Elena.
+—Mírame —dijo Elena.
 
-Marco levantÃ³ los ojos sin soltar a Javier. EncontrÃ³ la mirada de Elena y la sostuvo. HabÃ­a algo Ã­ntimo en ese momento: Marco chupando la polla de otro hombre mientras miraba a Elena, demostrÃ¡ndole con cada movimiento que incluso esto era para ella.
+Marco levantó los ojos sin soltar a Javier. Encontró la mirada de Elena y la sostuvo. Había algo íntimo en ese momento: Marco chupando la polla de otro hombre mientras miraba a Elena, demostrándole con cada movimiento que incluso esto era para ella.
 
-â€”Buena chica â€”susurrÃ³ Elenaâ€”. Tan buena.
+—Buena chica —susurró Elena—. Tan buena.
 
 Los tres piercings palpitaron con las palabras.
 
-Javier empezÃ³ a mover las caderas, follandole la boca con embestidas suaves.
+Javier empezó a mover las caderas, follandole la boca con embestidas suaves.
 
-â€”Mierda, Marco, tu esposa es increÃ­ble. Toma polla como si hubiera nacido para ello.
+—Mierda, Marco, tu esposa es increíble. Toma polla como si hubiera nacido para ello.
 
-â€”Tiene prÃ¡ctica â€”dijo Elenaâ€”. Ahora, Marco, para. Es mi turno.
+—Tiene práctica —dijo Elena—. Ahora, Marco, para. Es mi turno.
 
-Marco se apartÃ³ de Javier, un hilo de saliva conectando sus labios con la polla.
+Marco se apartó de Javier, un hilo de saliva conectando sus labios con la polla.
 
-Elena se posicionÃ³ frente a Ã©l.
+Elena se posicionó frente a él.
 
-â€”Ahora yo. DemuÃ©strame que soy el Ãºnico que importa.
+—Ahora yo. Demuéstrame que soy el único que importa.
 
-Marco tomÃ³ la polla de Elena con reverencia. Era diferente: la forma familiar, el sabor conocido. La polla que lo tomaba cada noche. La polla de su marido.
+Marco tomó la polla de Elena con reverencia. Era diferente: la forma familiar, el sabor conocido. La polla que lo tomaba cada noche. La polla de su marido.
 
-ChupÃ³ con devociÃ³n, haciendo cosas que sabÃ­a que a Elena le gustaban. Girando la lengua alrededor de la cabeza. Succionando con la presiÃ³n exacta. MirÃ¡ndolo a los ojos todo el tiempo.
+Chupó con devoción, haciendo cosas que sabía que a Elena le gustaban. Girando la lengua alrededor de la cabeza. Succionando con la presión exacta. Mirándolo a los ojos todo el tiempo.
 
-â€”Eso es â€”jadeÃ³ Elenaâ€”. AsÃ­. Solo para mÃ­.
+—Eso es —jadeó Elena—. Así. Solo para mí.
 
-Javier miraba, acariciÃ¡ndose.
+Javier miraba, acariciándose.
 
-â€”Vamos, Marco. DÃ©jame entrar de nuevo.
+—Vamos, Marco. Déjame entrar de nuevo.
 
-Elena asintiÃ³.
+Elena asintió.
 
-â€”Una mano para Javi mientras me comes.
+—Una mano para Javi mientras me comes.
 
-Marco obedeciÃ³. Su mano derecha envolviÃ³ la polla de Javier, acariciÃ¡ndola con ritmo constante mientras su boca adoraba la de Elena. Era extraÃ±o: servir a dos hombres a la vez, pero con toda su atenciÃ³n real en solo uno.
+Marco obedeció. Su mano derecha envolvió la polla de Javier, acariciándola con ritmo constante mientras su boca adoraba la de Elena. Era extraño: servir a dos hombres a la vez, pero con toda su atención real en solo uno.
 
-â€”Quiero verla desnuda â€”dijo Javier.
+—Quiero verla desnuda —dijo Javier.
 
-Elena mirÃ³ a Marco.
+Elena miró a Marco.
 
-â€”Â¿Bien?
+—¿Bien?
 
 Otra pregunta. Otra oportunidad de decir no.
 
-Pero Marco no querÃ­a decir no.
+Pero Marco no quería decir no.
 
-â€”SÃ­ â€”susurrÃ³.
+—Sí —susurró.
 
-Se desatÃ³ el bikini. Primero el top, liberando sus pechos con los piercings de titanio rosa brillando bajo el sol. Luego el bottom, exponiendo su pubis perfectamente depilado y el piercing del clÃ­toris que ahora palpitaba con abandono.
+Se desató el bikini. Primero el top, liberando sus pechos con los piercings de titanio rosa brillando bajo el sol. Luego el bottom, exponiendo su pubis perfectamente depilado y el piercing del clítoris que ahora palpitaba con abandono.
 
 Estaba completamente desnuda, excepto por los tacones de nueve pulgadas.
 
-â€”Joder â€”susurrÃ³ Javierâ€”. Piercings en los pezones, en el clÃ­toris, y ese culo... Marco, eres un genio.
+—Joder —susurró Javier—. Piercings en los pezones, en el clítoris, y ese culo... Marco, eres un genio.
 
-â€”Lo sÃ© â€”dijo Elena con orgulloâ€”. Ahora, mi esposa va a montarme mientras te la chupa a ti.
+—Lo sé —dijo Elena con orgullo—. Ahora, mi esposa va a montarme mientras te la chupa a ti.
 
-Marco sintiÃ³ una ola de excitaciÃ³n ante las palabras. Ser el centro. Ser usada por ambos. Ser completamente de Elena mientras complacÃ­a a otro.
+Marco sintió una ola de excitación ante las palabras. Ser el centro. Ser usada por ambos. Ser completamente de Elena mientras complacía a otro.
 
-Se montÃ³ sobre Elena, sintiendo cÃ³mo la polla familiar se deslizaba dentro de su coÃ±o. El piercing del clÃ­toris vibrÃ³ con el contacto. Se inclinÃ³ hacia adelante y tomÃ³ la polla de Javier en su boca otra vez.
+Se montó sobre Elena, sintiendo cómo la polla familiar se deslizaba dentro de su coño. El piercing del clítoris vibró con el contacto. Se inclinó hacia adelante y tomó la polla de Javier en su boca otra vez.
 
-Y entonces empezÃ³ a moverse.
+Y entonces empezó a moverse.
 
-Cabalgando a Elena mientras chupaba a Javier. Los tres piercings cantando en armonÃ­a: el del clÃ­toris frotÃ¡ndose contra Elena con cada movimiento, los de los pezones rozando contra el pecho de Javier cuando se inclinaba mÃ¡s.
+Cabalgando a Elena mientras chupaba a Javier. Los tres piercings cantando en armonía: el del clítoris frotándose contra Elena con cada movimiento, los de los pezones rozando contra el pecho de Javier cuando se inclinaba más.
 
-â€”Joder, joder, joder â€”gemÃ­a Javier.
+—Joder, joder, joder —gemía Javier.
 
-Elena agarrÃ³ las caderas de Marco desde abajo, controlando el ritmo.
+Elena agarró las caderas de Marco desde abajo, controlando el ritmo.
 
-â€”Dilo â€”ordenÃ³â€”. Dile a Javier lo que eres.
+—Dilo —ordenó—. Dile a Javier lo que eres.
 
-Marco soltÃ³ la polla de Javier por un segundo, jadeando.
+Marco soltó la polla de Javier por un segundo, jadeando.
 
-â€”Soy... soy una puta.
+—Soy... soy una puta.
 
-â€”MÃ¡s fuerte. Que te oiga.
+—Más fuerte. Que te oiga.
 
-â€”Â¡Soy una puta! â€”gritÃ³ Marco, y los tres piercings palpitaron con la humillaciÃ³n.
+—¡Soy una puta! —gritó Marco, y los tres piercings palpitaron con la humillación.
 
-â€”Â¿De quiÃ©n eres puta? â€”Elena embistiÃ³ mÃ¡s fuerte.
+—¿De quién eres puta? —Elena embistió más fuerte.
 
-â€”Â¡Tuya! Â¡Soy tu puta, Marco!
+—¡Tuya! ¡Soy tu puta, Marco!
 
-â€”Bien. Ahora dile a Javier lo que quieres.
+—Bien. Ahora dile a Javier lo que quieres.
 
-Marco mirÃ³ a Javier, que observaba fascinado.
+Marco miró a Javier, que observaba fascinado.
 
-â€”Quiero... quiero tu polla en mi boca mientras mi marido me folla.
+—Quiero... quiero tu polla en mi boca mientras mi marido me folla.
 
-â€”Pues tÃ³mala â€”dijo Javier, guiÃ¡ndola de vuelta.
+—Pues tómala —dijo Javier, guiándola de vuelta.
 
-Marco tomÃ³ la polla con renovada energÃ­a, chupando mientras Elena lo humillaba desde abajo.
+Marco tomó la polla con renovada energía, chupando mientras Elena lo humillaba desde abajo.
 
-â€”Eso es, cariÃ±o. Eres mi putita perfecta. Mi muÃ±eca de tres agujeros. â€”Elena aumentaba el ritmo con cada palabraâ€”. Â¿Te gusta ser usada asÃ­? Â¿Te gusta que te mire mientras chupas otra polla?
+—Eso es, cariño. Eres mi putita perfecta. Mi muñeca de tres agujeros. —Elena aumentaba el ritmo con cada palabra—. ¿Te gusta ser usada así? ¿Te gusta que te mire mientras chupas otra polla?
 
-Marco gimiÃ³ afirmativamente alrededor de la polla de Javier.
+Marco gimió afirmativamente alrededor de la polla de Javier.
 
-â€”Contesta. Saca esa polla y contesta.
+—Contesta. Saca esa polla y contesta.
 
-Marco soltÃ³ a Javier otra vez, gimiendo.
+Marco soltó a Javier otra vez, gimiendo.
 
-â€”SÃ­... me encanta... me encanta ser tu puta...
+—Sí... me encanta... me encanta ser tu puta...
 
-â€”Â¿Y quÃ© eres?
+—¿Y qué eres?
 
-â€”Una esposa sumisa... una muÃ±eca... tu propiedad...
+—Una esposa sumisa... una muñeca... tu propiedad...
 
-â€”Buena chica. Ahora sigue chupando mientras te follo hasta que te corras.
+—Buena chica. Ahora sigue chupando mientras te follo hasta que te corras.
 
-Marco obedeciÃ³, el cuerpo entero vibrando de placer y humillaciÃ³n. Las palabras que habÃ­a dicho â€”puta, muÃ±eca, propiedadâ€” resonaban en su cabeza, y cada una hacÃ­a que los piercings palpitaran mÃ¡s fuerte.
+Marco obedeció, el cuerpo entero vibrando de placer y humillación. Las palabras que había dicho —puta, muñeca, propiedad— resonaban en su cabeza, y cada una hacía que los piercings palpitaran más fuerte.
 
-PerdÃ­a la nociÃ³n del tiempo. Solo habÃ­a sensaciones: la polla de Elena dentro de su coÃ±o, la polla de Javier en su boca, los piercings vibrando, el pelo platino cayendo sobre su cara, los tacones clavÃ¡ndose en la tumbona.
+Perdía la noción del tiempo. Solo había sensaciones: la polla de Elena dentro de su coño, la polla de Javier en su boca, los piercings vibrando, el pelo platino cayendo sobre su cara, los tacones clavándose en la tumbona.
 
-El orgasmo empezÃ³ a construirse.
+El orgasmo empezó a construirse.
 
-â€”Voy a... â€”gimiÃ³ alrededor de la polla de Javier.
+—Voy a... —gimió alrededor de la polla de Javier.
 
-â€”Pide permiso â€”ordenÃ³ Elena.
+—Pide permiso —ordenó Elena.
 
-Marco soltÃ³ la polla.
+Marco soltó la polla.
 
-â€”Por favor... por favor dÃ©jame correrme... soy tu puta y necesito correrme...
+—Por favor... por favor déjame correrme... soy tu puta y necesito correrme...
 
-â€”CÃ³rrete â€”concediÃ³ Elenaâ€”. CÃ³rrete como la buena puta que eres.
+—Córrete —concedió Elena—. Córrete como la buena puta que eres.
 
-Marco se dejÃ³ ir. El orgasmo lo arrasÃ³ como una ola, vibrando a travÃ©s de los tres piercings, irradiando por todo su cuerpo. GritÃ³ alrededor de la polla de Javier mientras su coÃ±o se apretaba alrededor de Elena.
+Marco se dejó ir. El orgasmo lo arrasó como una ola, vibrando a través de los tres piercings, irradiando por todo su cuerpo. Gritó alrededor de la polla de Javier mientras su coño se apretaba alrededor de Elena.
 
-â€”Mierda, me corro â€”anunciÃ³ Javier, y llenÃ³ la boca de Marco con chorros calientes.
+—Mierda, me corro —anunció Javier, y llenó la boca de Marco con chorros calientes.
 
-Elena embistiÃ³ mÃ¡s fuerte desde abajo.
+Elena embistió más fuerte desde abajo.
 
-â€”Yo tambiÃ©n... joder... eres perfecta...
+—Yo también... joder... eres perfecta...
 
-Se corriÃ³ dentro de Marco, llenÃ¡ndolo de calor, marcÃ¡ndolo una vez mÃ¡s.
+Se corrió dentro de Marco, llenándolo de calor, marcándolo una vez más.
 
 Los tres quedaron jadeando, enredados, satisfechos.
 
-Cuando finalmente se separaron, Marco se dejÃ³ caer en la tumbona, temblando de placer post-orgÃ¡smico. Su pelo platino estaba desordenado. Los piercings todavÃ­a palpitaban suavemente. Los tacones seguÃ­an puestos.
+Cuando finalmente se separaron, Marco se dejó caer en la tumbona, temblando de placer post-orgásmico. Su pelo platino estaba desordenado. Los piercings todavía palpitaban suavemente. Los tacones seguían puestos.
 
-Elena se acostÃ³ a su lado y lo abrazÃ³.
+Elena se acostó a su lado y lo abrazó.
 
-â€”Â¿EstÃ¡s bien? â€”preguntÃ³ suavemente.
+—¿Estás bien? —preguntó suavemente.
 
-Marco asintiÃ³, sonriendo.
+Marco asintió, sonriendo.
 
-â€”Estoy perfecta.
+—Estoy perfecta.
 
-Javier, vistiÃ©ndose, los miraba con algo parecido a la envidia.
+Javier, vistiéndose, los miraba con algo parecido a la envidia.
 
-â€”Ustedes dos son increÃ­bles juntos. Nunca habÃ­a visto nada asÃ­.
+—Ustedes dos son increíbles juntos. Nunca había visto nada así.
 
-â€”Lo sÃ© â€”dijo Elena, besando la frente de Marcoâ€”. Porque esto no es solo sexo, Javi. Esto es amor.
+—Lo sé —dijo Elena, besando la frente de Marco—. Porque esto no es solo sexo, Javi. Esto es amor.
 
-Marco cerrÃ³ los ojos, sintiendo el sol en su piel, el abrazo de Elena, y la certeza de que habÃ­a encontrado su lugar.
+Marco cerró los ojos, sintiendo el sol en su piel, el abrazo de Elena, y la certeza de que había encontrado su lugar.
 
-Era extraÃ±o. Era retorcido. Pero era suyo.
-
----
+Era extraño. Era retorcido. Pero era suyo.
 
 ---
 
-Marco despertÃ³ envuelto en los brazos de Elena.
+---
 
-La luz de la maÃ±ana entraba suave por las cortinas. Su cuerpo todavÃ­a vibraba con los ecos de la noche anterior â€”los tres con Javier, la intensidad, la rendiciÃ³nâ€” pero no dolÃ­a como esperaba. Se sentÃ­a... satisfecho. Completo de una manera que no habÃ­a experimentado antes.
+Marco despertó envuelto en los brazos de Elena.
 
-Los tres piercings palpitaban suavemente: los de los pezones contra las sÃ¡banas de seda, el del clÃ­toris respondiendo al calor del cuerpo de Elena contra su espalda.
+La luz de la mañana entraba suave por las cortinas. Su cuerpo todavía vibraba con los ecos de la noche anterior —los tres con Javier, la intensidad, la rendición— pero no dolía como esperaba. Se sentía... satisfecho. Completo de una manera que no había experimentado antes.
 
-Se tocÃ³ el pelo rubio platino, ahora desordenado sobre la almohada. RecordÃ³ haberse llamado "puta" la noche anterior. RecordÃ³ haberlo gritado frente a Javier. RecordÃ³ haberse corrido mientras lo decÃ­a.
+Los tres piercings palpitaban suavemente: los de los pezones contra las sábanas de seda, el del clítoris respondiendo al calor del cuerpo de Elena contra su espalda.
 
-Y en lugar de horror, sintiÃ³ un calor extraÃ±o en el vientre.
+Se tocó el pelo rubio platino, ahora desordenado sobre la almohada. Recordó haberse llamado "puta" la noche anterior. Recordó haberlo gritado frente a Javier. Recordó haberse corrido mientras lo decía.
 
-Elena se moviÃ³ detrÃ¡s de Ã©l, despertando.
+Y en lugar de horror, sintió un calor extraño en el vientre.
 
-â€”Buenos dÃ­as, hermosa â€”murmurÃ³ contra su cuello.
+Elena se movió detrás de él, despertando.
 
-â€”Buenos dÃ­as â€”respondiÃ³ Marco, girÃ¡ndose para mirarlo.
+—Buenos días, hermosa —murmuró contra su cuello.
 
-â€”Â¿CÃ³mo te sientes?
+—Buenos días —respondió Marco, girándose para mirarlo.
 
-Marco considerÃ³ la pregunta. Â¿CÃ³mo se sentÃ­a? DespuÃ©s de todo lo que habÃ­a pasado â€”el intercambio, las transformaciones, Javier, los piercings, la humillaciÃ³n constanteâ€” Â¿cÃ³mo se sentÃ­a?
+—¿Cómo te sientes?
 
-â€”Bien â€”dijo, sorprendiÃ©ndose a sÃ­ mismoâ€”. Me siento... bien.
+Marco consideró la pregunta. ¿Cómo se sentía? Después de todo lo que había pasado —el intercambio, las transformaciones, Javier, los piercings, la humillación constante— ¿cómo se sentía?
 
-Elena sonriÃ³, acariciÃ¡ndole la mejilla.
+—Bien —dijo, sorprendiéndose a sí mismo—. Me siento... bien.
 
-â€”Me alegro. Anoche fue intenso.
+Elena sonrió, acariciándole la mejilla.
 
-â€”Anoche fue... â€”Marco buscÃ³ las palabrasâ€”. Anoche me rendÃ­ completamente. Y me gustÃ³.
+—Me alegro. Anoche fue intenso.
 
-â€”Lo sÃ©. â€”Elena lo besÃ³ suavementeâ€”. Lo vi en tu cara. En cÃ³mo te movÃ­as. En cÃ³mo gritabas mi nombre.
+—Anoche fue... —Marco buscó las palabras—. Anoche me rendí completamente. Y me gustó.
 
-â€”El tuyo actual â€”corrigiÃ³ Marcoâ€”. GritÃ© "Marco".
+—Lo sé. —Elena lo besó suavemente—. Lo vi en tu cara. En cómo te movías. En cómo gritabas mi nombre.
 
-â€”TÃ©cnicamente, sÃ­. â€”Elena riÃ³â€”. Pero sabÃ­as a quiÃ©n te referÃ­as.
+—El tuyo actual —corrigió Marco—. Grité "Marco".
 
-Se quedaron en silencio un momento, enredados en las sÃ¡banas.
+—Técnicamente, sí. —Elena rió—. Pero sabías a quién te referías.
 
-â€”Â¿Por quÃ© Javier? â€”preguntÃ³ Marco finalmenteâ€”. Â¿Por quÃ© quisiste compartirme con Ã©l?
+Se quedaron en silencio un momento, enredados en las sábanas.
 
-Elena suspirÃ³.
+—¿Por qué Javier? —preguntó Marco finalmente—. ¿Por qué quisiste compartirme con él?
 
-â€”Â¿Recuerdas la despedida de soltero? Â¿La que tuviste antes de casarnos?
+Elena suspiró.
 
-El estÃ³mago de Marco se contrajo. La despedida. HabÃ­a intentado olvidarla.
+—¿Recuerdas la despedida de soltero? ¿La que tuviste antes de casarnos?
 
-â€”TÃº y Javier compartieron a una stripper esa noche â€”dijo Elena, sin acusaciÃ³nâ€”. Los dos. En el cuarto de atrÃ¡s. Vi la foto en el telÃ©fono de Javier despuÃ©s.
+El estómago de Marco se contrajo. La despedida. Había intentado olvidarla.
 
-Marco cerrÃ³ los ojos. La vergÃ¼enza lo quemaba.
+—Tú y Javier compartieron a una stripper esa noche —dijo Elena, sin acusación—. Los dos. En el cuarto de atrás. Vi la foto en el teléfono de Javier después.
 
-â€”Lo siento...
+Marco cerró los ojos. La vergüenza lo quemaba.
 
-â€”No quiero disculpas. â€”Elena le tomÃ³ la barbillaâ€”. QuerÃ­a que entendieras cÃ³mo se siente. Pero mÃ¡s importante... querÃ­a ver si podÃ­as disfrutarlo.
+—Lo siento...
 
-â€”Â¿Disfrutarlo?
+—No quiero disculpas. —Elena le tomó la barbilla—. Quería que entendieras cómo se siente. Pero más importante... quería ver si podías disfrutarlo.
 
-â€”La humillaciÃ³n. Ser compartida. Ser usada mientras yo miraba. â€”Elena lo miraba intensamenteâ€”. Y lo disfrutaste, Marco. Te corriste gritando que eras mi puta. Sin que nadie te tocara el clÃ­toris.
+—¿Disfrutarlo?
 
-Era verdad. Marco lo recordaba con claridad ahora. El orgasmo habÃ­a llegado solo de la humillaciÃ³n, de las palabras, de la rendiciÃ³n.
+—La humillación. Ser compartida. Ser usada mientras yo miraba. —Elena lo miraba intensamente—. Y lo disfrutaste, Marco. Te corriste gritando que eras mi puta. Sin que nadie te tocara el clítoris.
 
-â€”Lo disfrutÃ© â€”admitiÃ³ en voz bajaâ€”. Y eso me asusta.
+Era verdad. Marco lo recordaba con claridad ahora. El orgasmo había llegado solo de la humillación, de las palabras, de la rendición.
 
-â€”Â¿Por quÃ© te asusta?
+—Lo disfruté —admitió en voz baja—. Y eso me asusta.
 
-â€”Porque significa que... que realmente me he convertido en esto. En lo que tÃº querÃ­as.
+—¿Por qué te asusta?
 
-Elena lo abrazÃ³ con fuerza.
+—Porque significa que... que realmente me he convertido en esto. En lo que tú querías.
 
-â€”No te convertÃ­ en nada que no estuviera ya dentro de ti, Marco. Solo te di permiso para explorarlo. â€”Le besÃ³ la frenteâ€”. Te amo. No a pesar de esto. Por esto. Por cÃ³mo te rindes. Por cÃ³mo confÃ­as en mÃ­.
+Elena lo abrazó con fuerza.
 
-Las lÃ¡grimas rodaron por las mejillas de Marco. Pero no eran lÃ¡grimas de dolor.
+—No te convertí en nada que no estuviera ya dentro de ti, Marco. Solo te di permiso para explorarlo. —Le besó la frente—. Te amo. No a pesar de esto. Por esto. Por cómo te rindes. Por cómo confías en mí.
 
-â€”TambiÃ©n te amo â€”susurrÃ³â€”. Y quiero... quiero seguir siendo tuya.
+Las lágrimas rodaron por las mejillas de Marco. Pero no eran lágrimas de dolor.
 
-Elena sonriÃ³, esa sonrisa que ahora Marco reconocÃ­a como amor puro.
+—También te amo —susurró—. Y quiero... quiero seguir siendo tuya.
 
-â€”Siempre lo serÃ¡s.
+Elena sonrió, esa sonrisa que ahora Marco reconocía como amor puro.
+
+—Siempre lo serás.
 
 ---
 
-Tres meses despuÃ©s.
+Tres meses después.
 
-El espejo del baÃ±o reflejaba una mujer espectacular.
+El espejo del baño reflejaba una mujer espectacular.
 
-Marco ya no buscaba al hombre que habÃ­a sido. VeÃ­a lo que era ahora: pelo rubio platino cayendo en ondas hasta la cintura, labios permanentemente rosados por la micropigmentaciÃ³n, ojos delineados con tinta que nunca se borraba. Pechos perfectos con piercings de titanio rosa que brillaban a la luz del baÃ±o. Y entre sus piernas, el piercing del clÃ­toris que Elena le habÃ­a regalado sin saberlo la noche de bodas.
+Marco ya no buscaba al hombre que había sido. Veía lo que era ahora: pelo rubio platino cayendo en ondas hasta la cintura, labios permanentemente rosados por la micropigmentación, ojos delineados con tinta que nunca se borraba. Pechos perfectos con piercings de titanio rosa que brillaban a la luz del baño. Y entre sus piernas, el piercing del clítoris que Elena le había regalado sin saberlo la noche de bodas.
 
-Tres marcas de propiedad. Tres recordatorios constantes de a quiÃ©n pertenecÃ­a.
+Tres marcas de propiedad. Tres recordatorios constantes de a quién pertenecía.
 
 Y le encantaba cada uno.
 
-â€”Â¿Lista para hoy? â€”preguntÃ³ Elena, entrando al baÃ±o ya vestido para el trabajo.
+—¿Lista para hoy? —preguntó Elena, entrando al baño ya vestido para el trabajo.
 
-â€”Â¿QuÃ© hay hoy?
+—¿Qué hay hoy?
 
-â€”Cena con Javier y los FernÃ¡ndez. Eduardo tiene curiosidad por conocer a mi esposa.
+—Cena con Javier y los Fernández. Eduardo tiene curiosidad por conocer a mi esposa.
 
-Eduardo FernÃ¡ndez. Otro tiburÃ³n empresarial. Otro hombre que lo mirarÃ­a con ojos hambrientos.
+Eduardo Fernández. Otro tiburón empresarial. Otro hombre que lo miraría con ojos hambrientos.
 
-Los tres piercings palpitaron con anticipaciÃ³n.
+Los tres piercings palpitaron con anticipación.
 
-â€”Â¿QuÃ© debo llevar?
+—¿Qué debo llevar?
 
-â€”El vestido rojo. El ajustado. Y el tanga negro que no cubre nada.
+—El vestido rojo. El ajustado. Y el tanga negro que no cubre nada.
 
-â€”Perfecto. â€”Marco sonriÃ³â€”. Â¿Y los tacones?
+—Perfecto. —Marco sonrió—. ¿Y los tacones?
 
-â€”Los de catorce centÃ­metros. Los de aguja.
+—Los de catorce centímetros. Los de aguja.
 
-â€”Son muy altos para cenar.
+—Son muy altos para cenar.
 
-â€”Son perfectos para que no puedas huir cuando Eduardo te mire el escote.
+—Son perfectos para que no puedas huir cuando Eduardo te mire el escote.
 
-Marco riÃ³. Antes, esa frase lo habrÃ­a llenado de terror. Ahora solo sentÃ­a excitaciÃ³n.
+Marco rió. Antes, esa frase lo habría llenado de terror. Ahora solo sentía excitación.
 
-â€”Â¿Vas a compartirme con Eduardo tambiÃ©n?
+—¿Vas a compartirme con Eduardo también?
 
-Elena lo mirÃ³, evaluando.
+Elena lo miró, evaluando.
 
-â€”Â¿Quieres que lo haga?
+—¿Quieres que lo haga?
 
 Era una pregunta real. Como todas las preguntas importantes entre ellos ahora.
 
-Marco pensÃ³. Eduardo era atractivo. La idea de ser exhibida, admirada, quizÃ¡s usada mientras Elena miraba...
+Marco pensó. Eduardo era atractivo. La idea de ser exhibida, admirada, quizás usada mientras Elena miraba...
 
-â€”Si tÃº quieres â€”dijo finalmenteâ€”. Si te excita verme asÃ­.
+—Si tú quieres —dijo finalmente—. Si te excita verme así.
 
-â€”Me excita todo de ti. â€”Elena lo besÃ³ profundamenteâ€”. Pero solo haremos lo que tÃº tambiÃ©n quieras. Â¿Entendido?
+—Me excita todo de ti. —Elena lo besó profundamente—. Pero solo haremos lo que tú también quieras. ¿Entendido?
 
-â€”Entendido.
+—Entendido.
 
-Se vistiÃ³ con la eficiencia de quien ha aceptado su destino con alegrÃ­a. El vestido rojo se adhiriÃ³ a cada curva. Los tacones de catorce centÃ­metros arquearon su cuerpo en esa postura que ahora era natural. Los piercings de los pezones se marcaban sutilmente a travÃ©s de la tela.
+Se vistió con la eficiencia de quien ha aceptado su destino con alegría. El vestido rojo se adhirió a cada curva. Los tacones de catorce centímetros arquearon su cuerpo en esa postura que ahora era natural. Los piercings de los pezones se marcaban sutilmente a través de la tela.
 
-Cuando terminÃ³, se mirÃ³ una Ãºltima vez en el espejo.
+Cuando terminó, se miró una última vez en el espejo.
 
-La mujer que le devolvÃ­a la mirada era hermosa, sumisa y completamente enamorada de su vida.
+La mujer que le devolvía la mirada era hermosa, sumisa y completamente enamorada de su vida.
 
-El hombre que habÃ­a sido Marco CastellÃ³n no habÃ­a muerto. Se habÃ­a transformado. HabÃ­a encontrado en la rendiciÃ³n lo que nunca habÃ­a encontrado en el control: paz, placer y amor verdadero.
+El hombre que había sido Marco Castellón no había muerto. Se había transformado. Había encontrado en la rendición lo que nunca había encontrado en el control: paz, placer y amor verdadero.
 
-â€”Estoy lista â€”anunciÃ³, tomando la mano de Elena.
+—Estoy lista —anunció, tomando la mano de Elena.
 
-â€”Siempre lo estÃ¡s, mi amor. Siempre lo estÃ¡s.
+—Siempre lo estás, mi amor. Siempre lo estás.
 
 Salieron juntos hacia la cena, hacia Eduardo, hacia lo que fuera que el futuro les deparara. Unidos. Enamorados. Completos.
 
 # FIN
 
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-------------------------------------------------------------------------------
                             NOTA DE LA AUTORA
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-------------------------------------------------------------------------------
 
-Si esta historia resonÃ³ en ti, si reconociste algo de ti mismo en Marco â€”esa parte que secretamente anhela soltar el control, que se pregunta cÃ³mo serÃ­a rendirse por completo a alguien que te ama en tu forma mÃ¡s vulnerableâ€”, quiero saberlo.
+Si esta historia resonó en ti, si reconociste algo de ti mismo en Marco —esa parte que secretamente anhela soltar el control, que se pregunta cómo sería rendirse por completo a alguien que te ama en tu forma más vulnerable—, quiero saberlo.
 
-No te juzgo. Estas fantasÃ­as existen porque tocan algo real, algo profundo. Y si mis palabras encontraron eco en ti, si te dejaron con el corazÃ³n acelerado y la mente vagando hacia lugares que no sueles visitar... cuÃ©ntamelo.
+No te juzgo. Estas fantasías existen porque tocan algo real, algo profundo. Y si mis palabras encontraron eco en ti, si te dejaron con el corazón acelerado y la mente vagando hacia lugares que no sueles visitar... cuéntamelo.
 
-EscrÃ­beme a: **lavoutedanais@gmail.com**
+Escríbeme a: **anais.belland@outlook.com**
 
-Con devociÃ³n oscura,
-*AnaÃ¯s Belland* ğŸ–¤
+Con devoción oscura,
+*Anaïs Belland* ??
 
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+-------------------------------------------------------------------------------
 

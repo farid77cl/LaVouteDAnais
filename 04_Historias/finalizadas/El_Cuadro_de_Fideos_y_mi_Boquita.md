@@ -248,7 +248,7 @@ El arte, como el deseo, no debe guardarse en silencio. Si la historia de Jinx re
 
 Tu propio lienzo espera.
 
-Escríbeme a  Anais.belland@outlook.com
+Escríbeme a  anais.belland@outlook.com
 
 Con la anticipación de desvelar tus secretos,
 

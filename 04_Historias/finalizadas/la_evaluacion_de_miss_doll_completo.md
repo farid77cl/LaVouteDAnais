@@ -1,220 +1,220 @@
-﻿╔══════════════════════════════════════════════════════════════════════════════╗
-║                    LA EVALUACIÓN DE MISS DOLL                                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
++------------------------------------------------------------------------------+
+�                    LA EVALUACI�N DE MISS DOLL                                �
++------------------------------------------------------------------------------+
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ METADATOS DEL RELATO                                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------------------+
+� METADATOS DEL RELATO                                                        �
++-----------------------------------------------------------------------------+
 
-**Temáticas:** #Feminization #MTF #BDSM #Blackmail #Chastity #AnalTraining #OralTraining #Submission #Transformation #Sissy
+**Tem�ticas:** #Feminization #MTF #BDSM #Blackmail #Chastity #AnalTraining #OralTraining #Submission #Transformation #Sissy
 
 **Palabras:** ~23,500
 
-**Perspectiva:** Tercera Persona (focalización en Roberto/Roberta)
+**Perspectiva:** Tercera Persona (focalizaci�n en Roberto/Roberta)
 
 **Intensidad:** Extrema
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ RESUMEN GANCHO                                                              │
-└─────────────────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------------------+
+� RESUMEN GANCHO                                                              �
++-----------------------------------------------------------------------------+
 
-Un Director Regional arrogante. Una consultora de recursos humanos con dossier de chantaje. Quince días para convertir al hombre en sirvienta. Miss Doll no falla. Y Roberto... descubrirá que siempre fue Roberta.
+Un Director Regional arrogante. Una consultora de recursos humanos con dossier de chantaje. Quince d�as para convertir al hombre en sirvienta. Miss Doll no falla. Y Roberto... descubrir� que siempre fue Roberta.
 
-═══════════════════════════════════════════════════════════════════════════════
+-------------------------------------------------------------------------------
                               CUERPO DEL RELATO
-═══════════════════════════════════════════════════════════════════════════════
+-------------------------------------------------------------------------------
 
-# CapÃ­tulo 1: La AuditorÃ­a (DÃ­a 1 - Lunes)
+# Capítulo 1: La Auditoría (Día 1 - Lunes)
 
-El sonido de la puerta cerrÃ¡ndose no fue un golpe, fue un *clic* definitivo. Un sonido seco, metÃ¡lico, que sellÃ³ la oficina del Director Regional de Ventas como si fuera una bÃ³veda... o una celda. O una jaula.
+El sonido de la puerta cerrándose no fue un golpe, fue un *clic* definitivo. Un sonido seco, metálico, que selló la oficina del Director Regional de Ventas como si fuera una bóveda... o una celda. O una jaula.
 
-Roberto levantÃ³ la vista de su monitor, irritado. No habÃ­a autorizado a nadie a entrar. Su secretaria sabÃ­a que no debÃ­a interrumpirlo cuando estaba revisando los nÃºmeros del trimestre. Especialmente *esos* nÃºmeros.
+Roberto levantó la vista de su monitor, irritado. No había autorizado a nadie a entrar. Su secretaria sabía que no debía interrumpirlo cuando estaba revisando los números del trimestre. Especialmente *esos* números.
 
-â€”Disculpe, Â¿quiÃ©n le dio permi...? â€”la frase muriÃ³ en su garganta.
+—Disculpe, ¿quién le dio permi...? —la frase murió en su garganta.
 
-Frente a su escritorio de caoba no habÃ­a una secretaria perdida. HabÃ­a una *criatura*.
+Frente a su escritorio de caoba no había una secretaria perdida. Había una *criatura*.
 
-Eso fue lo primero que pensÃ³: criatura. No mujer. No persona. Algo que parecÃ­a haber absorbido todo el oxÃ­geno de la habitaciÃ³n con su mera presencia.
+Eso fue lo primero que pensó: criatura. No mujer. No persona. Algo que parecía haber absorbido todo el oxígeno de la habitación con su mera presencia.
 
-Era imposiblemente alta. Roberto medÃ­a metro ochenta, pero esta mujer lo habrÃ­a superado incluso sin los tacones de plataforma que llevaba â€”rosa chicle, de aguja, al menos dieciocho centÃ­metros de tacÃ³n sobre una plataforma de acrÃ­lico transparente. El tipo de zapatos que solo habÃ­a visto en videos pornogrÃ¡ficos. El tipo de zapatos que gritaban "no estoy aquÃ­ para caminar, estoy aquÃ­ para ser mirada".
+Era imposiblemente alta. Roberto medía metro ochenta, pero esta mujer lo habría superado incluso sin los tacones de plataforma que llevaba —rosa chicle, de aguja, al menos dieciocho centímetros de tacón sobre una plataforma de acrílico transparente. El tipo de zapatos que solo había visto en videos pornográficos. El tipo de zapatos que gritaban "no estoy aquí para caminar, estoy aquí para ser mirada".
 
-Y Roberto la mirÃ³.
+Y Roberto la miró.
 
-Llevaba un traje de chaqueta y falda que, a primera vista, parecÃ­a un atuendo corporativo. Pero bajo la luz fluorescente de la oficina, el material revelÃ³ su verdadera naturaleza: lÃ¡tex rosa pastel, texturizado para imitar tela, ajustÃ¡ndose a su cuerpo con una precisiÃ³n que desafiaba la anatomÃ­a humana. La chaqueta se cerraba sobre un escote que creaba un tajo de sombra entre dos montaÃ±as imposibles. La falda lÃ¡piz llegaba justo debajo de las rodillas, pero se ajustaba tan ceÃ±ida que Roberto podÃ­a ver la lÃ­nea exacta donde sus caderas se convertÃ­an en muslos, donde los muslos se convertÃ­an en esas piernas kilomÃ©tricas enfundadas en medias rosa satÃ©n.
+Llevaba un traje de chaqueta y falda que, a primera vista, parecía un atuendo corporativo. Pero bajo la luz fluorescente de la oficina, el material reveló su verdadera naturaleza: látex rosa pastel, texturizado para imitar tela, ajustándose a su cuerpo con una precisión que desafiaba la anatomía humana. La chaqueta se cerraba sobre un escote que creaba un tajo de sombra entre dos montañas imposibles. La falda lápiz llegaba justo debajo de las rodillas, pero se ajustaba tan ceñida que Roberto podía ver la línea exacta donde sus caderas se convertían en muslos, donde los muslos se convertían en esas piernas kilométricas enfundadas en medias rosa satén.
 
-Su cintura era una broma cruel. Nadie tenÃ­a una cintura asÃ­. TenÃ­a que haber un corsÃ© debajo, algo que la comprimiera hasta proporciones de dibujo animado.
+Su cintura era una broma cruel. Nadie tenía una cintura así. Tenía que haber un corsé debajo, algo que la comprimiera hasta proporciones de dibujo animado.
 
-Roberto parpadeÃ³. TragÃ³ saliva. SintiÃ³ un tirÃ³n en la entrepierna que intentÃ³ ignorar.
+Roberto parpadeó. Tragó saliva. Sintió un tirón en la entrepierna que intentó ignorar.
 
-*Â¿Una broma de Alejandro?* pensÃ³, desesperado por una explicaciÃ³n racional. *Â¿Un stripper-gram? Â¿Una escort de lujo enviada por algÃºn proveedor para sobornarlo?*
+*¿Una broma de Alejandro?* pensó, desesperado por una explicación racional. *¿Un stripper-gram? ¿Una escort de lujo enviada por algún proveedor para sobornarlo?*
 
-Pero la mujer no sonreÃ­a coquetamente. Su rostro era una mÃ¡scara de porcelana perfecta â€”piel imposiblemente lisa, sin poros visibles, con un brillo artificial que sugerÃ­a silicona o plÃ¡stico mÃ¡s que carne humana. Sus ojos eran grandes, bordeados por pestaÃ±as kilomÃ©tricas y un delineado cat-eye que los hacÃ­a parecer los de una muÃ±eca Bratz crecida. Sus labios eran un corazÃ³n perfecto, pintados de un rosa tan brillante que parecÃ­an hÃºmedos permanentemente, como si acabara de lamerlos.
+Pero la mujer no sonreía coquetamente. Su rostro era una máscara de porcelana perfecta —piel imposiblemente lisa, sin poros visibles, con un brillo artificial que sugería silicona o plástico más que carne humana. Sus ojos eran grandes, bordeados por pestañas kilométricas y un delineado cat-eye que los hacía parecer los de una muñeca Bratz crecida. Sus labios eran un corazón perfecto, pintados de un rosa tan brillante que parecían húmedos permanentemente, como si acabara de lamerlos.
 
-Su cabello era un bob platino con flequillo asimÃ©trico, tan artificial y perfecto que tenÃ­a que ser peluca.
+Su cabello era un bob platino con flequillo asimétrico, tan artificial y perfecto que tenía que ser peluca.
 
-OlÃ­a a vainilla y algo quÃ­mico. Algo industrial. Algo que hizo que el pulso de Roberto se acelerara de maneras que no querÃ­a examinar.
+Olía a vainilla y algo químico. Algo industrial. Algo que hizo que el pulso de Roberto se acelerara de maneras que no quería examinar.
 
-La mujer caminÃ³ hacia su escritorio con una lentitud depredadora. Cada paso era un *clic-clic* de sus tacones imposibles contra el suelo de mÃ¡rmol. Cada paso hacÃ­a que sus caderas oscilaran de izquierda a derecha en un pÃ©ndulo hipnÃ³tico. Roberto no podÃ­a apartar la vista.
+La mujer caminó hacia su escritorio con una lentitud depredadora. Cada paso era un *clic-clic* de sus tacones imposibles contra el suelo de mármol. Cada paso hacía que sus caderas oscilaran de izquierda a derecha en un péndulo hipnótico. Roberto no podía apartar la vista.
 
-LlegÃ³ al borde del escritorio. Roberto se sintiÃ³ repentinamente pequeÃ±o. RidÃ­culo. Un ratÃ³n ante una serpiente de lÃ¡tex rosa.
+Llegó al borde del escritorio. Roberto se sintió repentinamente pequeño. Ridículo. Un ratón ante una serpiente de látex rosa.
 
-La mujer levantÃ³ una mano. Roberto notÃ³ que llevaba guantes hasta el codo, del mismo lÃ¡tex rosa brillante que el traje. Sus uÃ±as sobresalÃ­an de los guantes â€”uÃ±as stiletto de al menos cinco centÃ­metros, pintadas del mismo rosa chicle de sus tacones. Letales. Decorativas. InÃºtiles para cualquier tarea prÃ¡ctica.
+La mujer levantó una mano. Roberto notó que llevaba guantes hasta el codo, del mismo látex rosa brillante que el traje. Sus uñas sobresalían de los guantes —uñas stiletto de al menos cinco centímetros, pintadas del mismo rosa chicle de sus tacones. Letales. Decorativas. Inútiles para cualquier tarea práctica.
 
-DejÃ³ caer una carpeta sobre el escritorio.
+Dejó caer una carpeta sobre el escritorio.
 
-Era una carpeta azul. Simple. Barata. El tipo de carpeta que la secretarÃ­a usaba para los documentos internos.
+Era una carpeta azul. Simple. Barata. El tipo de carpeta que la secretaría usaba para los documentos internos.
 
 *Plaf.*
 
 El sonido fue como un disparo.
 
-â€”Roberto ValdÃ©s â€”dijo ella.
+—Roberto Valdés —dijo ella.
 
-Su voz fue lo que finalmente rompiÃ³ el hechizo. Era frÃ­a, nÃ­tida, carente de cualquier calidez humana. Pero tambiÃ©n era musical. RÃ­tmica. Cada sÃ­laba caÃ­a con la precisiÃ³n de un metrÃ³nomo.
+Su voz fue lo que finalmente rompió el hechizo. Era fría, nítida, carente de cualquier calidez humana. Pero también era musical. Rítmica. Cada sílaba caía con la precisión de un metrónomo.
 
-â€”Soy Miss Doll. Consultora Externa de OptimizaciÃ³n de Recursos.
+—Soy Miss Doll. Consultora Externa de Optimización de Recursos.
 
-Roberto soltÃ³ una risa nerviosa. El sudor le corrÃ­a por la espalda. Su erecciÃ³n pulsaba incÃ³modamente contra su pantalÃ³n de vestir.
+Roberto soltó una risa nerviosa. El sudor le corría por la espalda. Su erección pulsaba incómodamente contra su pantalón de vestir.
 
-â€”Mire, seÃ±orita "Doll", estoy muy ocupado. Si esto es una broma de Alejandro, dÃ­gale que muy gracioso, pero tengo una reuniÃ³n en veinte...
+—Mire, señorita "Doll", estoy muy ocupado. Si esto es una broma de Alejandro, dígale que muy gracioso, pero tengo una reunión en veinte...
 
-â€”PÃ¡gina tres â€”lo interrumpiÃ³ ella. Ni siquiera parpadeÃ³â€”. PÃ¡rrafo dos.
+—Página tres —lo interrumpió ella. Ni siquiera parpadeó—. Párrafo dos.
 
-Roberto frunciÃ³ el ceÃ±o. â€”Â¿QuÃ©?
+Roberto frunció el ceño. —¿Qué?
 
-â€”La carpeta. PÃ¡gina tres. PÃ¡rrafo dos.
+—La carpeta. Página tres. Párrafo dos.
 
-Roberto mirÃ³ la carpeta azul. Algo en la certeza de la mujer â€”en la quietud absoluta de su cuerpo, en la manera en que sus ojos permanecÃ­an fijos en Ã©l como los de un depredadorâ€” le helÃ³ la sangre.
+Roberto miró la carpeta azul. Algo en la certeza de la mujer —en la quietud absoluta de su cuerpo, en la manera en que sus ojos permanecían fijos en él como los de un depredador— le heló la sangre.
 
-AbriÃ³ la tapa con dedos que temblaban ligeramente.
+Abrió la tapa con dedos que temblaban ligeramente.
 
-La primera pÃ¡gina era su estado de cuenta personal. El real. El de las Islas CaimÃ¡n.
+La primera página era su estado de cuenta personal. El real. El de las Islas Caimán.
 
-La segunda pÃ¡gina era una transferencia bancaria. Seiscientos mil dÃ³lares. Del fondo de pensiones de la empresa a su cuenta offshore.
+La segunda página era una transferencia bancaria. Seiscientos mil dólares. Del fondo de pensiones de la empresa a su cuenta offshore.
 
-La tercera pÃ¡gina...
+La tercera página...
 
-Roberto sintiÃ³ que el piso se abrÃ­a bajo sus pies. Que las paredes de la oficina se cerraban. Que el aire se volvÃ­a denso como miel.
+Roberto sintió que el piso se abría bajo sus pies. Que las paredes de la oficina se cerraban. Que el aire se volvía denso como miel.
 
-*PÃ¡gina tres. PÃ¡rrafo dos.*
+*Página tres. Párrafo dos.*
 
-Era un correo electrÃ³nico. *Su* correo electrÃ³nico. Uno que creÃ­a haber borrado hacÃ­a meses. Uno donde detallaba cada paso del fraude fiscal de seis cifras que habÃ­a orquestado durante los Ãºltimos tres aÃ±os.
+Era un correo electrónico. *Su* correo electrónico. Uno que creía haber borrado hacía meses. Uno donde detallaba cada paso del fraude fiscal de seis cifras que había orquestado durante los últimos tres años.
 
-El aire se escapÃ³ de sus pulmones como de un neumÃ¡tico pinchado.
+El aire se escapó de sus pulmones como de un neumático pinchado.
 
-â€”Â¿CÃ³mo...? â€”susurrÃ³. Su voz sonÃ³ patÃ©tica incluso para sus propios oÃ­dos.
+—¿Cómo...? —susurró. Su voz sonó patética incluso para sus propios oídos.
 
-â€”El Departamento Legal y la Junta Directiva recibirÃ¡n una copia digital de este dossier en cuarenta y cinco minutos â€”dijo Miss Doll, mirando un reloj imaginario en su muÃ±eca enguantadaâ€”. A menos que yo ingrese un cÃ³digo de anulaciÃ³n.
+—El Departamento Legal y la Junta Directiva recibirán una copia digital de este dossier en cuarenta y cinco minutos —dijo Miss Doll, mirando un reloj imaginario en su muñeca enguantada—. A menos que yo ingrese un código de anulación.
 
-Roberto se puso de pie de un salto. La silla rodÃ³ hacia atrÃ¡s y golpeÃ³ la pared.
+Roberto se puso de pie de un salto. La silla rodó hacia atrás y golpeó la pared.
 
-â€”Â¡Esto es extorsiÃ³n! Â¡LlamarÃ© a seguridad!
+—¡Esto es extorsión! ¡Llamaré a seguridad!
 
-Miss Doll arqueÃ³ una ceja perfectamente dibujada. El movimiento fue tan preciso que parecÃ­a ensayado.
+Miss Doll arqueó una ceja perfectamente dibujada. El movimiento fue tan preciso que parecía ensayado.
 
-â€”HÃ¡galo. La policÃ­a llegarÃ¡ en diez minutos. El fraude fiscal que usted cometiÃ³ conlleva una pena mÃ­nima de quince aÃ±os en una prisiÃ³n federal. Sin fianza. Sin lujos. Sin secretarias que le traigan cafÃ©. Solo un mono naranja y compaÃ±eros de celda que encontrarÃ¡n su trasero... interesante.
+—Hágalo. La policía llegará en diez minutos. El fraude fiscal que usted cometió conlleva una pena mínima de quince años en una prisión federal. Sin fianza. Sin lujos. Sin secretarias que le traigan café. Solo un mono naranja y compañeros de celda que encontrarán su trasero... interesante.
 
-Roberto se quedÃ³ congelado. Quince aÃ±os. Una condena de quince aÃ±os significaba salir a los cincuenta y siete. Divorciado, seguramente. Arruinado, definitivamente. Sin contactos. Sin reputaciÃ³n. Sin nada.
+Roberto se quedó congelado. Quince años. Una condena de quince años significaba salir a los cincuenta y siete. Divorciado, seguramente. Arruinado, definitivamente. Sin contactos. Sin reputación. Sin nada.
 
-BajÃ³ la mano lentamente y se dejÃ³ caer en la silla. Su erecciÃ³n se habÃ­a marchitado por completo. En su lugar, habÃ­a un hoyo frÃ­o en el estÃ³mago.
+Bajó la mano lentamente y se dejó caer en la silla. Su erección se había marchitado por completo. En su lugar, había un hoyo frío en el estómago.
 
-â€”Â¿QuÃ© quiere? â€”preguntÃ³, con la voz rotaâ€”. Â¿Dinero?
+—¿Qué quiere? —preguntó, con la voz rota—. ¿Dinero?
 
-Miss Doll sonriÃ³.
+Miss Doll sonrió.
 
-Fue la primera sonrisa que Roberto le vio, y deseÃ³ inmediatamente que no hubiera ocurrido. Era una sonrisa de tiburÃ³n. Una sonrisa que no llegaba a sus ojos. Una sonrisa que decÃ­a "ya te tengo".
+Fue la primera sonrisa que Roberto le vio, y deseó inmediatamente que no hubiera ocurrido. Era una sonrisa de tiburón. Una sonrisa que no llegaba a sus ojos. Una sonrisa que decía "ya te tengo".
 
-â€”No quiero su dinero, Roberto. El dinero es aburrido. El dinero es fungible. Lo que yo quiero es... optimizarlo.
+—No quiero su dinero, Roberto. El dinero es aburrido. El dinero es fungible. Lo que yo quiero es... optimizarlo.
 
-Ella sacÃ³ dos objetos del bolso que habÃ­a dejado en el sofÃ¡ y los puso sobre el dossier.
+Ella sacó dos objetos del bolso que había dejado en el sofá y los puso sobre el dossier.
 
 Una hoja de papel bond con el membrete de la empresa. Blanca. Inmaculada.
 
-Y un bolÃ­grafo. Rosa chicle. Con un pompÃ³n de plumas en el extremo.
+Y un bolígrafo. Rosa chicle. Con un pompón de plumas en el extremo.
 
-â€”Esta es su carta de renuncia. Sin fecha.
+—Esta es su carta de renuncia. Sin fecha.
 
-Roberto la mirÃ³, confundido. â€”Â¿Quiere que renuncie?
+Roberto la miró, confundido. —¿Quiere que renuncie?
 
-â€”No inmediatamente. Quiero que la firme ahora. SerÃ¡ mi garantÃ­a adicional. Si en algÃºn momento durante los prÃ³ximos quince dÃ­as usted desobedece una instrucciÃ³n, falla en cumplir un protocolo, o simplemente... me aburre... yo pondrÃ© la fecha, enviarÃ© el dossier a la policÃ­a, y su vida como hombre libre terminarÃ¡ antes de que pueda decir "quiero un abogado".
+—No inmediatamente. Quiero que la firme ahora. Será mi garantía adicional. Si en algún momento durante los próximos quince días usted desobedece una instrucción, falla en cumplir un protocolo, o simplemente... me aburre... yo pondré la fecha, enviaré el dossier a la policía, y su vida como hombre libre terminará antes de que pueda decir "quiero un abogado".
 
-â€”Â¿Quince dÃ­as? â€”Roberto estaba perdido. Su mente corrÃ­a como un ratÃ³n en un laberintoâ€”. Â¿QuÃ© va a pasar en quince dÃ­as?
+—¿Quince días? —Roberto estaba perdido. Su mente corría como un ratón en un laberinto—. ¿Qué va a pasar en quince días?
 
-â€”Estamos en un periodo de evaluaciÃ³n extendido, Roberto. â€”Miss Doll caminÃ³ lentamente alrededor del escritorio, arrastrando un dedo enguantado por la superficie de caoba. Sus tacones marcaban un ritmo hipnÃ³ticoâ€”. Su puesto como Director Regional de Ventas es insostenible. Su desempeÃ±o es mediocre, su Ã©tica es inexistente, y su actitud es... problemÃ¡tica. Pero la empresa tiene una vacante que necesita ser llenada. Una vacante que requiere un entrenamiento intensivo. Un reacondicionamiento total.
+—Estamos en un periodo de evaluación extendido, Roberto. —Miss Doll caminó lentamente alrededor del escritorio, arrastrando un dedo enguantado por la superficie de caoba. Sus tacones marcaban un ritmo hipnótico—. Su puesto como Director Regional de Ventas es insostenible. Su desempeño es mediocre, su ética es inexistente, y su actitud es... problemática. Pero la empresa tiene una vacante que necesita ser llenada. Una vacante que requiere un entrenamiento intensivo. Un reacondicionamiento total.
 
-Se detuvo junto a Ã©l. Roberto podÃ­a oler su perfume con mÃ¡s intensidad ahora: vainilla, lÃ¡tex, y algo almizclado debajo. Algo que hacÃ­a que su pulso se acelerara a pesar del terror.
+Se detuvo junto a él. Roberto podía oler su perfume con más intensidad ahora: vainilla, látex, y algo almizclado debajo. Algo que hacía que su pulso se acelerara a pesar del terror.
 
-Miss Doll seÃ±alÃ³ el suelo con un dedo de uÃ±a rosa.
+Miss Doll señaló el suelo con un dedo de uña rosa.
 
-â€”ArrodÃ­llese.
+—Arrodíllese.
 
-â€”Â¿QuÃ©? â€”Roberto se erizÃ³. Algo en Ã©l, algÃºn resto de orgullo masculino, se encendiÃ³â€”. Â¡No voy a arrodillarme ante...!
+—¿Qué? —Roberto se erizó. Algo en él, algún resto de orgullo masculino, se encendió—. ¡No voy a arrodillarme ante...!
 
-Miss Doll golpeÃ³ la carpeta azul con la palma de la mano.
+Miss Doll golpeó la carpeta azul con la palma de la mano.
 
 *Tac.*
 
 El sonido fue como un disparo.
 
-â€”CÃ¡rcel â€”dijo, simplemente.
+—Cárcel —dijo, simplemente.
 
-Una palabra. Una sÃ­laba.
+Una palabra. Una sílaba.
 
-Roberto mirÃ³ la carpeta. MirÃ³ a la mujer. MirÃ³ la puerta cerrada.
+Roberto miró la carpeta. Miró a la mujer. Miró la puerta cerrada.
 
-Lentamente, con el rostro ardiendo de vergÃ¼enza, se levantÃ³ de su silla. RodeÃ³ su propio escritorio â€”su escritorio, su territorio, su sÃ­mbolo de poderâ€” y se arrodillÃ³ sobre la alfombra persa que habÃ­a comprado con el bono del aÃ±o pasado.
+Lentamente, con el rostro ardiendo de vergüenza, se levantó de su silla. Rodeó su propio escritorio —su escritorio, su territorio, su símbolo de poder— y se arrodilló sobre la alfombra persa que había comprado con el bono del año pasado.
 
-Sus rodillas tocaron el suelo. Sus manos colgaron a los lados. Se encontrÃ³ mirando los tacones de Miss Doll desde abajo: torres rosa de acrÃ­lico y cuero que se elevaban sobre Ã©l como rascacielos.
+Sus rodillas tocaron el suelo. Sus manos colgaron a los lados. Se encontró mirando los tacones de Miss Doll desde abajo: torres rosa de acrílico y cuero que se elevaban sobre él como rascacielos.
 
-El olor a vainilla y lÃ¡tex lo envolviÃ³ como una nube. Desde esta posiciÃ³n, podÃ­a ver las costuras perfectas de sus medias. PodÃ­a ver la curva de sus pantorrillas tensas por el Ã¡ngulo imposible del tacÃ³n. PodÃ­a sentir el calor que irradiaba de su cuerpo.
+El olor a vainilla y látex lo envolvió como una nube. Desde esta posición, podía ver las costuras perfectas de sus medias. Podía ver la curva de sus pantorrillas tensas por el ángulo imposible del tacón. Podía sentir el calor que irradiaba de su cuerpo.
 
-Y, para su horror absoluto, sintiÃ³ que su polla volvÃ­a a endurecerse dentro de sus pantalones.
+Y, para su horror absoluto, sintió que su polla volvía a endurecerse dentro de sus pantalones.
 
-â€”Firme â€”ordenÃ³ Miss Doll, extendiÃ©ndole el bolÃ­grafo rosa.
+—Firme —ordenó Miss Doll, extendiéndole el bolígrafo rosa.
 
-Roberto tomÃ³ el bolÃ­grafo. El pompÃ³n de plumas le rozÃ³ los dedos, ridÃ­culo y humillante. ApoyÃ³ el papel sobre la mesa baja de cafÃ© y garabateÃ³ su firma con manos temblorosas.
+Roberto tomó el bolígrafo. El pompón de plumas le rozó los dedos, ridículo y humillante. Apoyó el papel sobre la mesa baja de café y garabateó su firma con manos temblorosas.
 
-SintiÃ³ que estaba firmando su alma.
+Sintió que estaba firmando su alma.
 
-SintiÃ³ que estaba firmando algo mÃ¡s que una renuncia.
+Sintió que estaba firmando algo más que una renuncia.
 
-Miss Doll tomÃ³ el papel y lo examinÃ³ con satisfacciÃ³n. GuardÃ³ el bolÃ­grafo y el documento en su bolso rosa.
+Miss Doll tomó el papel y lo examinó con satisfacción. Guardó el bolígrafo y el documento en su bolso rosa.
 
-â€”Bien. La primera prueba de obediencia ha sido superada.
+—Bien. La primera prueba de obediencia ha sido superada.
 
-Ella lo mirÃ³ desde arriba con una mezcla de desprecio y algo parecido al interÃ©s cientÃ­fico. Como si Ã©l fuera un espÃ©cimen de laboratorio. Un antes que pronto se convertirÃ­a en un despuÃ©s.
+Ella lo miró desde arriba con una mezcla de desprecio y algo parecido al interés científico. Como si él fuera un espécimen de laboratorio. Un antes que pronto se convertiría en un después.
 
-â€”Tiene quince dÃ­as, Roberto. Dos semanas para demostrarme que puede ser Ãºtil en formas que nunca imaginÃ³. Vamos a romper sus malos hÃ¡bitos y a construir unos nuevos. Vamos a deconstruir lo que cree que es y reconstruir algo... mejor. MÃ¡s eficiente. MÃ¡s bonito.
+—Tiene quince días, Roberto. Dos semanas para demostrarme que puede ser útil en formas que nunca imaginó. Vamos a romper sus malos hábitos y a construir unos nuevos. Vamos a deconstruir lo que cree que es y reconstruir algo... mejor. Más eficiente. Más bonito.
 
-Se agachÃ³ â€”el movimiento hizo que su escote se abriera como un abismo rosaâ€” y le acariciÃ³ la mejilla con un dedo enguantado.
+Se agachó —el movimiento hizo que su escote se abriera como un abismo rosa— y le acarició la mejilla con un dedo enguantado.
 
-â€”MaÃ±ana a las 8:00 AM. Sea puntual. Y Roberto...
+—Mañana a las 8:00 AM. Sea puntual. Y Roberto...
 
-Ella le alzÃ³ el mentÃ³n, obligÃ¡ndolo a mirarla a los ojos. Eran azules. Azul helado. Azul de muÃ±eca.
+Ella le alzó el mentón, obligándolo a mirarla a los ojos. Eran azules. Azul helado. Azul de muñeca.
 
-â€”Use ropa interior limpia. MaÃ±ana vamos a revisar su inventario completo.
+—Use ropa interior limpia. Mañana vamos a revisar su inventario completo.
 
-Se levantÃ³. Se girÃ³. CaminÃ³ hacia la puerta con ese paso de modelo que hipnotizaba.
+Se levantó. Se giró. Caminó hacia la puerta con ese paso de modelo que hipnotizaba.
 
-El *clic* de la puerta al cerrarse fue el Ãºnico sonido que quedÃ³.
+El *clic* de la puerta al cerrarse fue el único sonido que quedó.
 
-Roberto se quedÃ³ allÃ­, arrodillado sobre su propia alfombra, en su propia oficina, con una erecciÃ³n presionando dolorosamente contra su pantalÃ³n de vestir.
+Roberto se quedó allí, arrodillado sobre su propia alfombra, en su propia oficina, con una erección presionando dolorosamente contra su pantalón de vestir.
 
-No se moviÃ³ durante varios minutos.
+No se movió durante varios minutos.
 
-Su mente era un torbellino de pÃ¡nico, humillaciÃ³n, y algo mÃ¡s. Algo que no querÃ­a nombrar. Algo que pulsaba al ritmo de su corazÃ³n y se concentraba en su entrepierna.
+Su mente era un torbellino de pánico, humillación, y algo más. Algo que no quería nombrar. Algo que pulsaba al ritmo de su corazón y se concentraba en su entrepierna.
 
 Finalmente, se puso de pie con piernas temblorosas.
 
-CaminÃ³ hacia su silla y se sentÃ³.
+Caminó hacia su silla y se sentó.
 
-MirÃ³ el lugar vacÃ­o donde habÃ­a estado la carpeta azul. Miss Doll se la habÃ­a llevado.
+Miró el lugar vacío donde había estado la carpeta azul. Miss Doll se la había llevado.
 
-MirÃ³ sus propias manos. Temblaban.
+Miró sus propias manos. Temblaban.
 
-*Quince dÃ­as*, pensÃ³. *Dos semanas. Â¿Para quÃ©? Â¿QuÃ© va a hacer conmigo?*
+*Quince días*, pensó. *Dos semanas. ¿Para qué? ¿Qué va a hacer conmigo?*
 
-Pero una parte de Ã©l â€”una parte oscura que habÃ­a mantenido enterrada durante cuarenta y dos aÃ±osâ€” ya lo sabÃ­a.
+Pero una parte de él —una parte oscura que había mantenido enterrada durante cuarenta y dos años— ya lo sabía.
 
 Ya lo esperaba.
 
@@ -225,281 +225,281 @@ Y, para su horror total, ya lo *deseaba*.
 ---
 
 
-# CapÃ­tulo 2: El Inventario (DÃ­a 2 - Martes)
+# Capítulo 2: El Inventario (Día 2 - Martes)
 
-Roberto apenas habÃ­a dormido.
+Roberto apenas había dormido.
 
-HabÃ­a pasado la noche dando vueltas en la cama matrimonial, intentando no despertar a Claudia, intentando no pensar en la mujer de lÃ¡tex rosa, intentando no recordar cÃ³mo se habÃ­a sentido arrodillado a sus pies.
+Había pasado la noche dando vueltas en la cama matrimonial, intentando no despertar a Claudia, intentando no pensar en la mujer de látex rosa, intentando no recordar cómo se había sentido arrodillado a sus pies.
 
 Fracasando en todo.
 
-Su mente era un carrusel de imÃ¡genes: el brillo de los labios rosa. El clic de los tacones. La carpeta azul con sus pecados documentados. La orden de arrodillarse. Y, sobre todo, la pregunta que lo perseguÃ­a como un fantasma:
+Su mente era un carrusel de imágenes: el brillo de los labios rosa. El clic de los tacones. La carpeta azul con sus pecados documentados. La orden de arrodillarse. Y, sobre todo, la pregunta que lo perseguía como un fantasma:
 
-*Â¿Por quÃ© me excitÃ©?*
+*¿Por qué me excité?*
 
-LlegÃ³ a la oficina a las 7:45 AM. Quince minutos antes. No iba a darle excusas.
+Llegó a la oficina a las 7:45 AM. Quince minutos antes. No iba a darle excusas.
 
-Se plantÃ³ frente a su escritorio con su mejor traje azul marino, intentando proyectar la dignidad de un Director Regional. Intentando convencerse de que ayer habÃ­a sido una aberraciÃ³n. Que hoy retomarÃ­a el control. Que encontrarÃ­a la manera de neutralizar a esa... criatura.
+Se plantó frente a su escritorio con su mejor traje azul marino, intentando proyectar la dignidad de un Director Regional. Intentando convencerse de que ayer había sido una aberración. Que hoy retomaría el control. Que encontraría la manera de neutralizar a esa... criatura.
 
-A las 8:00 en punto, la puerta se abriÃ³.
+A las 8:00 en punto, la puerta se abrió.
 
-Miss Doll entrÃ³ como si el aire se apartara para dejarla pasar.
+Miss Doll entró como si el aire se apartara para dejarla pasar.
 
-Hoy llevaba un conjunto diferente pero igualmente imposible: un vestido-blazer rosa neÃ³n de lÃ¡tex brillante que le llegaba hasta medio muslo, con solapas oversized y un cinturÃ³n que estrangulaba su cintura hasta proporciones de avispa. Debajo, un body tambiÃ©n rosa â€”rosa bebÃ©, un tono mÃ¡s claroâ€” que asomaba en el escote profundo. Las mismas piernas kilomÃ©tricas en medias de satÃ©n rosa. Y los mismos tacones de plataforma del dÃ­a anterior, pero esta vez de un rosa mÃ¡s oscuro, almost coral.
+Hoy llevaba un conjunto diferente pero igualmente imposible: un vestido-blazer rosa neón de látex brillante que le llegaba hasta medio muslo, con solapas oversized y un cinturón que estrangulaba su cintura hasta proporciones de avispa. Debajo, un body también rosa —rosa bebé, un tono más claro— que asomaba en el escote profundo. Las mismas piernas kilométricas en medias de satén rosa. Y los mismos tacones de plataforma del día anterior, pero esta vez de un rosa más oscuro, almost coral.
 
-El olor a vainilla llegÃ³ antes que ella. Roberto sintiÃ³ que su cuerpo respondÃ­a antes que su mente â€”el pulso acelerÃ¡ndose, la piel erizÃ¡ndose, algo moviÃ©ndose en su entrepierna.
+El olor a vainilla llegó antes que ella. Roberto sintió que su cuerpo respondía antes que su mente —el pulso acelerándose, la piel erizándose, algo moviéndose en su entrepierna.
 
 *No*, se dijo. *Hoy no.*
 
-â€”Buenos dÃ­as, Roberto â€”dijo ella, dejando su bolso rosa en el sofÃ¡ con la familiaridad de quien ya es dueÃ±a del lugar.
+—Buenos días, Roberto —dijo ella, dejando su bolso rosa en el sofá con la familiaridad de quien ya es dueña del lugar.
 
-â€”Buenos dÃ­as... Miss Doll.
+—Buenos días... Miss Doll.
 
-Ella lo mirÃ³ de arriba abajo. El escrutinio fue clÃ­nico, desaprobador.
+Ella lo miró de arriba abajo. El escrutinio fue clínico, desaprobador.
 
-â€”Â¿Ropa interior limpia?
+—¿Ropa interior limpia?
 
-â€”SÃ­.
+—Sí.
 
-â€”DemuÃ©strelo. BÃ¡jese los pantalones.
+—Demuéstrelo. Bájese los pantalones.
 
-Roberto apretÃ³ los dientes. El instinto de negarse bullÃ­a en su pecho. Pero la imagen de la carpeta azul ardÃ­a en su mente.
+Roberto apretó los dientes. El instinto de negarse bullía en su pecho. Pero la imagen de la carpeta azul ardía en su mente.
 
-â€”AquÃ­ no... â€”mirÃ³ hacia la puerta, aunque sabÃ­a que estaba cerradaâ€”. Alguien podrÃ­a...
+—Aquí no... —miró hacia la puerta, aunque sabía que estaba cerrada—. Alguien podría...
 
-â€”CÃ¡rcel â€”dijo ella, simplemente. Una sÃ­laba. Un lÃ¡tigo.
+—Cárcel —dijo ella, simplemente. Una sílaba. Un látigo.
 
-Roberto cerrÃ³ los ojos. ExhalÃ³ lentamente. Y luego, con dedos que temblaban, desabrochÃ³ su cinturÃ³n. El sonido del metal fue obscenamente fuerte en el silencio de la oficina. DesabotonÃ³ el pantalÃ³n. BajÃ³ la cremallera.
+Roberto cerró los ojos. Exhaló lentamente. Y luego, con dedos que temblaban, desabrochó su cinturón. El sonido del metal fue obscenamente fuerte en el silencio de la oficina. Desabotonó el pantalón. Bajó la cremallera.
 
-DejÃ³ caer los pantalones hasta los tobillos.
+Dejó caer los pantalones hasta los tobillos.
 
-Llevaba bÃ³xers grises de algodÃ³n. Funcionales. Masculinos.
+Llevaba bóxers grises de algodón. Funcionales. Masculinos.
 
-Miss Doll los mirÃ³ como si fueran un insulto personal.
+Miss Doll los miró como si fueran un insulto personal.
 
-â€”Inaceptables para el programa â€”dictaminÃ³. Se acercÃ³ a su bolso y extrajo una caja negra con un lazo rosaâ€”. El uniforme base de cualquier empleada de servicio comienza por la ropa interior. Esto es lo que usarÃ¡ a partir de hoy. Cada dÃ­a. Sin excepciones.
+—Inaceptables para el programa —dictaminó. Se acercó a su bolso y extrajo una caja negra con un lazo rosa—. El uniforme base de cualquier empleada de servicio comienza por la ropa interior. Esto es lo que usará a partir de hoy. Cada día. Sin excepciones.
 
-Roberto tomÃ³ la caja. Sus dedos rozaron el lÃ¡tex de los guantes de Miss Doll â€”una caricia elÃ©ctrica que le subiÃ³ por el brazo.
+Roberto tomó la caja. Sus dedos rozaron el látex de los guantes de Miss Doll —una caricia eléctrica que le subió por el brazo.
 
-AbriÃ³ la caja.
+Abrió la caja.
 
-LencerÃ­a.
+Lencería.
 
-Un conjunto completo de lencerÃ­a negra de encaje: bragas diminutas con un lazo rosa decorativo en la cintura, un liguero a juego, y medias negras con costura trasera.
+Un conjunto completo de lencería negra de encaje: bragas diminutas con un lazo rosa decorativo en la cintura, un liguero a juego, y medias negras con costura trasera.
 
-â€”No voy a usar esto â€”dijo Roberto. Su voz sonÃ³ mÃ¡s dÃ©bil de lo que pretendÃ­aâ€”. Es... es pervertido.
+—No voy a usar esto —dijo Roberto. Su voz sonó más débil de lo que pretendía—. Es... es pervertido.
 
-â€”Es el uniforme base. La primera capa de su nueva identidad. â€”Miss Doll se sentÃ³ en la silla del Director â€”su sillaâ€” y cruzÃ³ las piernas con un susurro de lÃ¡tex contra satÃ©nâ€”. Cada vez que camine hoy, cada vez que se siente, cada vez que arquee la espalda... sentirÃ¡ el encaje. SentirÃ¡ los tirantes del liguero contra sus muslos. Y recordarÃ¡ que ya no es el Director. Es algo en proceso de convertirse en algo mejor.
+—Es el uniforme base. La primera capa de su nueva identidad. —Miss Doll se sentó en la silla del Director —su silla— y cruzó las piernas con un susurro de látex contra satén—. Cada vez que camine hoy, cada vez que se siente, cada vez que arquee la espalda... sentirá el encaje. Sentirá los tirantes del liguero contra sus muslos. Y recordará que ya no es el Director. Es algo en proceso de convertirse en algo mejor.
 
-â€”No lo harÃ©.
+—No lo haré.
 
-Miss Doll sacÃ³ su telÃ©fono rosa del bolso. DeslizÃ³ un dedo por la pantalla.
+Miss Doll sacó su teléfono rosa del bolso. Deslizó un dedo por la pantalla.
 
-â€”Tengo el dossier digitalizado. Puedo enviarlo con un toque. Â¿Prefiere eso? Â¿Quince aÃ±os en Federal? Â¿Duchas comunitarias? Â¿CompaÃ±eros de celda que apreciarÃ¡n su... boca limpia?
+—Tengo el dossier digitalizado. Puedo enviarlo con un toque. ¿Prefiere eso? ¿Quince años en Federal? ¿Duchas comunitarias? ¿Compañeros de celda que apreciarán su... boca limpia?
 
-El silencio se extendiÃ³.
+El silencio se extendió.
 
-Roberto mirÃ³ las bragas de encaje. MirÃ³ a Miss Doll. MirÃ³ la puerta cerrada.
+Roberto miró las bragas de encaje. Miró a Miss Doll. Miró la puerta cerrada.
 
-Lentamente, como si su cuerpo se moviera por voluntad propia, se quitÃ³ los bÃ³xers.
+Lentamente, como si su cuerpo se moviera por voluntad propia, se quitó los bóxers.
 
-El aire frÃ­o de la oficina golpeÃ³ su piel. Se sintiÃ³ expuesto. Vulnerable. RidÃ­culo parado en calcetines y camisa de vestir con su polla colgando, medio dura a pesar de â€”Â¿o a causa de?â€” la humillaciÃ³n.
+El aire frío de la oficina golpeó su piel. Se sintió expuesto. Vulnerable. Ridículo parado en calcetines y camisa de vestir con su polla colgando, medio dura a pesar de —¿o a causa de?— la humillación.
 
-TomÃ³ las bragas de encaje.
+Tomó las bragas de encaje.
 
 La textura era diferente a cualquier cosa que hubiera tocado en su vida. Suave pero con pattern. Ligera pero presente. Casi viva contra sus dedos.
 
-Se las subiÃ³.
+Se las subió.
 
-El encaje negro contrastÃ³ obscenamente con su piel clara; La tela se ajustÃ³ contra su entrepierna â€”demasiado pequeÃ±a, demasiado apretada, obligando a su polla a doblarse incÃ³modamente hacia un lado. El lazo rosa quedÃ³ justo debajo de su ombligo.
+El encaje negro contrastó obscenamente con su piel clara; La tela se ajustó contra su entrepierna —demasiado pequeña, demasiado apretada, obligando a su polla a doblarse incómodamente hacia un lado. El lazo rosa quedó justo debajo de su ombligo.
 
-Se sintiÃ³ marcado.
+Se sintió marcado.
 
-Luego vino el liguero. Tuvo que pasar varios minutos averiguando cÃ³mo funcionaban las correas, cÃ³mo ajustar los broches, cÃ³mo hacer que quedara recto. Miss Doll lo observÃ³ en silencio, con una sonrisa casi imperceptible.
+Luego vino el liguero. Tuvo que pasar varios minutos averiguando cómo funcionaban las correas, cómo ajustar los broches, cómo hacer que quedara recto. Miss Doll lo observó en silencio, con una sonrisa casi imperceptible.
 
-Finalmente, las medias. Nunca habÃ­a pensado en cÃ³mo se ponÃ­an las medias. Ahora lo sabÃ­a: enrollÃ¡ndolas como si fueran condones gigantes, deslizÃ¡ndolas por el pie, desenrollÃ¡ndolas lentamente por la pantorrilla, enganchÃ¡ndolas al liguero con broches que se resistÃ­an a cooperar.
+Finalmente, las medias. Nunca había pensado en cómo se ponían las medias. Ahora lo sabía: enrollándolas como si fueran condones gigantes, deslizándolas por el pie, desenrollándolas lentamente por la pantorrilla, enganchándolas al liguero con broches que se resistían a cooperar.
 
-Cuando terminÃ³, se mirÃ³ hacia abajo.
+Cuando terminó, se miró hacia abajo.
 
-Las medias negras hacÃ­an que sus piernas parecieran mÃ¡s delgadas, mÃ¡s femeninas. El liguero enmarcaba su trasero de una manera que nunca habÃ­a considerado. Las bragas de encaje eran visibles a travÃ©s del material transparente de las medias, un triÃ¡ngulo oscuro que llamaba la atenciÃ³n hacia su entrepierna.
+Las medias negras hacían que sus piernas parecieran más delgadas, más femeninas. El liguero enmarcaba su trasero de una manera que nunca había considerado. Las bragas de encaje eran visibles a través del material transparente de las medias, un triángulo oscuro que llamaba la atención hacia su entrepierna.
 
-Y su polla â€”traicionera, despreciable, incontrolable su pollaâ€” estaba completamente erecta, presionando dolorosamente contra el encaje.
+Y su polla —traicionera, despreciable, incontrolable su polla— estaba completamente erecta, presionando dolorosamente contra el encaje.
 
-Miss Doll sacÃ³ su telÃ©fono rosa del bolso.
+Miss Doll sacó su teléfono rosa del bolso.
 
 El sonido del obturador fue como un disparo.
 
 *Click. Click. Click.*
 
-Roberto se congelÃ³. El horror lo atravesÃ³ como agua helada.
+Roberto se congeló. El horror lo atravesó como agua helada.
 
-â€”Â¿QuÃ©... quÃ© estÃ¡ haciendo?
+—¿Qué... qué está haciendo?
 
-â€”Documentando â€”dijo Miss Doll, revisando las fotos con satisfacciÃ³nâ€”. Mire quÃ© bien le quedan las braguitas, Roberto. La erecciÃ³n es un toque especialmente artÃ­stico.
+—Documentando —dijo Miss Doll, revisando las fotos con satisfacción—. Mire qué bien le quedan las braguitas, Roberto. La erección es un toque especialmente artístico.
 
-â€”Â¡Borre esas fotos! â€”El pÃ¡nico en su voz era patÃ©tico incluso para sus propios oÃ­dos.
+—¡Borre esas fotos! —El pánico en su voz era patético incluso para sus propios oídos.
 
-Miss Doll sonriÃ³. Esa sonrisa de tiburÃ³n.
+Miss Doll sonrió. Esa sonrisa de tiburón.
 
-â€”Ahora tengo dos carpetas, cariÃ±o. â€”GuardÃ³ el telÃ©fono con un movimiento lÃ¡nguidoâ€”. La azul con su fraude fiscal. Y la rosa con su nuevo... uniforme.
+—Ahora tengo dos carpetas, cariño. —Guardó el teléfono con un movimiento lánguido—. La azul con su fraude fiscal. Y la rosa con su nuevo... uniforme.
 
-Roberto sintiÃ³ que el suelo se abrÃ­a bajo sus pies. Ya no era solo la cÃ¡rcel. Ahora tambiÃ©n era esto: fotos de Ã©l â€”el Director Regional, el hombre respetable, el esposo de Claudiaâ€” de pie en bragas de mujer con una erecciÃ³n visible.
+Roberto sintió que el suelo se abría bajo sus pies. Ya no era solo la cárcel. Ahora también era esto: fotos de él —el Director Regional, el hombre respetable, el esposo de Claudia— de pie en bragas de mujer con una erección visible.
 
-Fotos que podÃ­an ir a cualquier parte. A sus colegas. A su esposa. A sus hijos.
+Fotos que podían ir a cualquier parte. A sus colegas. A su esposa. A sus hijos.
 
-â€”La carpeta azul amenaza su libertad â€”continuÃ³ Miss Doll, caminando hacia Ã©lâ€”. Pero la carpeta rosa... la rosa amenaza su *dignidad*. Y ambos sabemos cuÃ¡l le importa mÃ¡s a un hombre como usted.
+—La carpeta azul amenaza su libertad —continuó Miss Doll, caminando hacia él—. Pero la carpeta rosa... la rosa amenaza su *dignidad*. Y ambos sabemos cuál le importa más a un hombre como usted.
 
 Roberto no pudo responder. Estaba paralizado.
 
-â€”CooperaciÃ³n total â€”dijo Miss Doll, acariciando su mejilla con un dedo enguantadoâ€”, y ambas carpetas se quedan cerradas. Â¿Entendido?
+—Cooperación total —dijo Miss Doll, acariciando su mejilla con un dedo enguantado—, y ambas carpetas se quedan cerradas. ¿Entendido?
 
-Roberto asintiÃ³. No confiaba en su voz.
+Roberto asintió. No confiaba en su voz.
 
-â€”Interesante â€”murmurÃ³ Miss Doll, mirando la tienda de campaÃ±a que aÃºn persistÃ­a a pesar del terrorâ€”. Su cuerpo sigue excitado. QuizÃ¡s esto le gusta mÃ¡s de lo que admite.
+—Interesante —murmuró Miss Doll, mirando la tienda de campaña que aún persistía a pesar del terror—. Su cuerpo sigue excitado. Quizás esto le gusta más de lo que admite.
 
-Se inclinÃ³ hacia Ã©l, su voz bajando a un susurro Ã­ntimo.
+Se inclinó hacia él, su voz bajando a un susurro íntimo.
 
-â€”Â¿Sabe quÃ© creo, Roberto? Creo que ha pasado cuarenta y dos aÃ±os fingiendo ser alguien que no es. El Director. El Esposo. El Hombre. â€”Sus dedos rozaron su mejillaâ€”. Pero debajo de todo eso... debajo del traje y la arrogancia... hay algo mÃ¡s suave. Algo que quiere rendirse. Algo que quiere que alguien mÃ¡s tome las decisiones.
+—¿Sabe qué creo, Roberto? Creo que ha pasado cuarenta y dos años fingiendo ser alguien que no es. El Director. El Esposo. El Hombre. —Sus dedos rozaron su mejilla—. Pero debajo de todo eso... debajo del traje y la arrogancia... hay algo más suave. Algo que quiere rendirse. Algo que quiere que alguien más tome las decisiones.
 
-â€”Eso no es... â€”empezÃ³ Roberto.
+—Eso no es... —empezó Roberto.
 
-â€”Su polla dice lo contrario. â€”Miss Doll seÃ±alÃ³ hacia abajoâ€”. Su polla me dice que esto es exactamente lo que necesita. Que cada vez que alguien le da una orden, una parte de usted se relaja. Que cuando yo lo miro con desprecio, una parte de usted se siente... vista.
+—Su polla dice lo contrario. —Miss Doll señaló hacia abajo—. Su polla me dice que esto es exactamente lo que necesita. Que cada vez que alguien le da una orden, una parte de usted se relaja. Que cuando yo lo miro con desprecio, una parte de usted se siente... vista.
 
 Roberto no pudo responder porque era verdad.
 
-Miss Doll se alejÃ³, satisfecha.
+Miss Doll se alejó, satisfecha.
 
-Miss Doll sacÃ³ su telÃ©fono rosa de nuevo y abriÃ³ una aplicaciÃ³n. La pantalla mostrÃ³ un mapa con un punto parpadeante â€”la ubicaciÃ³n de la oficinaâ€” y tres Ã­conos verdes debajo.
+Miss Doll sacó su teléfono rosa de nuevo y abrió una aplicación. La pantalla mostró un mapa con un punto parpadeante —la ubicación de la oficina— y tres íconos verdes debajo.
 
-â€”Ahora viene la parte divertida â€”dijo ellaâ€”. Una pequeÃ±a demostraciÃ³n.
+—Ahora viene la parte divertida —dijo ella—. Una pequeña demostración.
 
-Se agachÃ³ frente a Roberto â€”el movimiento hizo que su escote se abriera como un abismo rosaâ€” y tocÃ³ uno de los broches del liguero. El pequeÃ±o cierre metÃ¡lico que conectaba la media izquierda a la correa.
+Se agachó frente a Roberto —el movimiento hizo que su escote se abriera como un abismo rosa— y tocó uno de los broches del liguero. El pequeño cierre metálico que conectaba la media izquierda a la correa.
 
-â€”Â¿Ve este broche? No es solo un broche.
+—¿Ve este broche? No es solo un broche.
 
-Lo desenganchÃ³.
-
-*Click.*
-
-El telÃ©fono en su mano emitiÃ³ un sonido suave. Uno de los Ã­conos verdes se volviÃ³ rojo.
-
-â€”Es un sensor bluetooth â€”explicÃ³ Miss Doll, mostrÃ¡ndole la pantallaâ€”. Cada broche estÃ¡ conectado a esta aplicaciÃ³n. Si lo desengacha... â€”seÃ±alÃ³ el Ã­cono rojoâ€” ...yo lo sÃ© inmediatamente. Hora exacta. DuraciÃ³n. Todo.
-
-Roberto sintiÃ³ que el estÃ³mago se le caÃ­a.
-
-Miss Doll volviÃ³ a enganchar el broche.
+Lo desenganchó.
 
 *Click.*
 
-El Ã­cono volviÃ³ a verde. El telÃ©fono mostrÃ³: *"ReconexiÃ³n: 0:04 segundos"*.
+El teléfono en su mano emitió un sonido suave. Uno de los íconos verdes se volvió rojo.
 
-â€”Tres minutos â€”dijo ellaâ€”. Ese es su margen para ir al baÃ±o. Cualquier desconexiÃ³n mayor a tres minutos serÃ¡ registrada como incumplimiento. Tres incumplimientos y... â€”tocÃ³ el Ã­cono de la carpeta rosaâ€” ...Claudia recibe un correo muy especial.
+—Es un sensor bluetooth —explicó Miss Doll, mostrándole la pantalla—. Cada broche está conectado a esta aplicación. Si lo desengacha... —señaló el ícono rojo— ...yo lo sé inmediatamente. Hora exacta. Duración. Todo.
 
-â€”Eso es... eso es enfermo â€”susurrÃ³ Roberto.
+Roberto sintió que el estómago se le caía.
 
-â€”Eso es *tecnologÃ­a*. â€”Miss Doll se incorporÃ³ con un movimiento fluidoâ€”. Los broches son discretos, imperceptibles bajo la ropa. Pero estÃ¡n ahÃ­. Siempre. VigilÃ¡ndolo. ReportÃ¡ndome. Incluso cuando duerme. Incluso cuando cree que nadie lo ve.
+Miss Doll volvió a enganchar el broche.
 
-GuardÃ³ el telÃ©fono.
+*Click.*
 
-â€”AsÃ­ que si esta noche, en casa, decide que va a quitarse la lencerÃ­a porque "Miss Doll no lo sabrÃ¡"... â€”su sonrisa fue heladaâ€” ...piÃ©nselo dos veces. Porque yo lo sabrÃ©. Y Claudia tambiÃ©n lo sabrÃ¡. Â¿Entendido?
+El ícono volvió a verde. El teléfono mostró: *"Reconexión: 0:04 segundos"*.
 
-Roberto asintiÃ³, mudo.
+—Tres minutos —dijo ella—. Ese es su margen para ir al baño. Cualquier desconexión mayor a tres minutos será registrada como incumplimiento. Tres incumplimientos y... —tocó el ícono de la carpeta rosa— ...Claudia recibe un correo muy especial.
 
-â€”SÃºbase los pantalones.
+—Eso es... eso es enfermo —susurró Roberto.
 
-Roberto obedeciÃ³ con dedos torpes. Los pantalones se subieron sobre la lencerÃ­a, ocultÃ¡ndola del mundo pero no de su consciencia. PodÃ­a sentir cada centÃ­metro del encaje contra su piel depilada (no, aÃºn no depilada, pero lo estarÃ­a, algo le decÃ­a que lo estarÃ­a). PodÃ­a sentir los tirantes del liguero tirando cada vez que caminaba. PodÃ­a sentir las medias deslizÃ¡ndose contra sus piernas.
+—Eso es *tecnología*. —Miss Doll se incorporó con un movimiento fluido—. Los broches son discretos, imperceptibles bajo la ropa. Pero están ahí. Siempre. Vigilándolo. Reportándome. Incluso cuando duerme. Incluso cuando cree que nadie lo ve.
 
-Se sentÃ³ en su silla.
+Guardó el teléfono.
+
+—Así que si esta noche, en casa, decide que va a quitarse la lencería porque "Miss Doll no lo sabrá"... —su sonrisa fue helada— ...piénselo dos veces. Porque yo lo sabré. Y Claudia también lo sabrá. ¿Entendido?
+
+Roberto asintió, mudo.
+
+—Súbase los pantalones.
+
+Roberto obedeció con dedos torpes. Los pantalones se subieron sobre la lencería, ocultándola del mundo pero no de su consciencia. Podía sentir cada centímetro del encaje contra su piel depilada (no, aún no depilada, pero lo estaría, algo le decía que lo estaría). Podía sentir los tirantes del liguero tirando cada vez que caminaba. Podía sentir las medias deslizándose contra sus piernas.
+
+Se sentó en su silla.
 
 *Error.*
 
-La posiciÃ³n de sentarse presionÃ³ el encaje directamente contra su perineo. Los tirantes del liguero se tensaron. Su erecciÃ³n pulsÃ³.
+La posición de sentarse presionó el encaje directamente contra su perineo. Los tirantes del liguero se tensaron. Su erección pulsó.
 
-â€”Mantenga las rodillas juntas â€”ordenÃ³ Miss Dollâ€”. A partir de hoy, ya no se sienta como un hombre. Rodillas juntas. Espalda recta. Manos sobre los muslos.
+—Mantenga las rodillas juntas —ordenó Miss Doll—. A partir de hoy, ya no se sienta como un hombre. Rodillas juntas. Espalda recta. Manos sobre los muslos.
 
-Roberto ajustÃ³ su postura. Las rodillas juntas hicieron que el encaje se sintiera aÃºn mÃ¡s presente.
+Roberto ajustó su postura. Las rodillas juntas hicieron que el encaje se sintiera aún más presente.
 
-â€”El entrenamiento de hoy es sobre consciencia corporal â€”explicÃ³ Miss Doll, caminando lentamente alrededor del escritorioâ€”. Usted camina como un hombre. Se sienta como un hombre. Ocupa demasiado espacio. Eso cambiarÃ¡.
+—El entrenamiento de hoy es sobre consciencia corporal —explicó Miss Doll, caminando lentamente alrededor del escritorio—. Usted camina como un hombre. Se sienta como un hombre. Ocupa demasiado espacio. Eso cambiará.
 
-Ella sacÃ³ una fusta corta de cuero rosa del bolso â€”Â¿cuÃ¡ntas cosas tenÃ­a en ese bolso?â€” y la hizo chasquear suavemente contra su propia palma.
+Ella sacó una fusta corta de cuero rosa del bolso —¿cuántas cosas tenía en ese bolso?— y la hizo chasquear suavemente contra su propia palma.
 
-â€”Si durante el dÃ­a veo sus rodillas separarse, habrÃ¡ consecuencias.
+—Si durante el día veo sus rodillas separarse, habrá consecuencias.
 
-El dÃ­a fue una tortura.
+El día fue una tortura.
 
-Cada segundo, Roberto era consciente de la lencerÃ­a bajo su traje. Cada movimiento le recordaba que no era el hombre que fingÃ­a ser. Cuando caminaba, los tirantes del liguero tiraban. Cuando se sentaba, el encaje presionaba. Cuando escribÃ­a emails, las medias se deslizaban contra el interior de sus pantalones.
+Cada segundo, Roberto era consciente de la lencería bajo su traje. Cada movimiento le recordaba que no era el hombre que fingía ser. Cuando caminaba, los tirantes del liguero tiraban. Cuando se sentaba, el encaje presionaba. Cuando escribía emails, las medias se deslizaban contra el interior de sus pantalones.
 
-Y lo peor â€”lo inconfesable, lo imperdonableâ€” era que estaba excitado todo el tiempo. Una erecciÃ³n constante y dolorosa que no podÃ­a aliviar, que pulsaba con cada latido de su corazÃ³n, que convertÃ­a su ropa interior en una prisiÃ³n de placer frustrado.
+Y lo peor —lo inconfesable, lo imperdonable— era que estaba excitado todo el tiempo. Una erección constante y dolorosa que no podía aliviar, que pulsaba con cada latido de su corazón, que convertía su ropa interior en una prisión de placer frustrado.
 
-A las 11:00 AM, su esposa Claudia llamÃ³.
+A las 11:00 AM, su esposa Claudia llamó.
 
-â€”Hola, cariÃ±o â€”dijo su voz por el telÃ©fonoâ€”. Solo querÃ­a confirmar la cena del viernes con los RodrÃ­guez.
+—Hola, cariño —dijo su voz por el teléfono—. Solo quería confirmar la cena del viernes con los Rodríguez.
 
-Roberto se tensÃ³. Miss Doll, que habÃ­a estado revisando documentos en el sofÃ¡, levantÃ³ la vista. Sus ojos azul hielo se clavaron en Ã©l.
+Roberto se tensó. Miss Doll, que había estado revisando documentos en el sofá, levantó la vista. Sus ojos azul hielo se clavaron en él.
 
-â€”SÃ­, Claudia... la cena del viernes...
+—Sí, Claudia... la cena del viernes...
 
-Miss Doll se levantÃ³. CaminÃ³ hacia Ã©l con ese paso de depredadora que Roberto ya empezaba a reconocer. Se detuvo detrÃ¡s de su silla.
+Miss Doll se levantó. Caminó hacia él con ese paso de depredadora que Roberto ya empezaba a reconocer. Se detuvo detrás de su silla.
 
 Sus manos enguantadas de rosa se posaron sobre sus hombros.
 
-Roberto se congelÃ³.
+Roberto se congeló.
 
-â€”Â¿Roberto? Â¿EstÃ¡s ahÃ­? â€”preguntÃ³ Claudia.
+—¿Roberto? ¿Estás ahí? —preguntó Claudia.
 
-Las manos de Miss Doll empezaron a descender. Por su pecho. Por su estÃ³mago. Hasta llegar al borde del escritorio, donde sus muslos se ocultaban de la vista de cualquiera que entrara.
+Las manos de Miss Doll empezaron a descender. Por su pecho. Por su estómago. Hasta llegar al borde del escritorio, donde sus muslos se ocultaban de la vista de cualquiera que entrara.
 
-â€”SÃ­... sÃ­, estoy aquÃ­ â€”logrÃ³ decir Roberto.
+—Sí... sí, estoy aquí —logró decir Roberto.
 
-Una mano enguantada se deslizÃ³ bajo el escritorio. Sus dedos â€”largos, frÃ­os a travÃ©s del lÃ¡texâ€” encontraron su entrepierna.
+Una mano enguantada se deslizó bajo el escritorio. Sus dedos —largos, fríos a través del látex— encontraron su entrepierna.
 
-Encontraron su erecciÃ³n.
+Encontraron su erección.
 
-ApretÃ³.
+Apretó.
 
-Roberto jadeÃ³ audiblemente.
+Roberto jadeó audiblemente.
 
-â€”Â¿Roberto? Â¿EstÃ¡s bien? â€”Claudia sonaba preocupada.
+—¿Roberto? ¿Estás bien? —Claudia sonaba preocupada.
 
-Los dedos de Miss Doll empezaron a masajear. Lentos. Deliberados. El encaje de las bragas se frotaba contra su polla con cada movimiento. El placer explotÃ³ en ondas desde su entrepierna, subiendo por su columna, nublando su cerebro.
+Los dedos de Miss Doll empezaron a masajear. Lentos. Deliberados. El encaje de las bragas se frotaba contra su polla con cada movimiento. El placer explotó en ondas desde su entrepierna, subiendo por su columna, nublando su cerebro.
 
-â€”Estoy... estoy bien â€”logrÃ³ decir, mordiÃ©ndose el labio para no gemirâ€”. Solo... mucho trabajo. Te tengo que... que dejar.
+—Estoy... estoy bien —logró decir, mordiéndose el labio para no gemir—. Solo... mucho trabajo. Te tengo que... que dejar.
 
-â€”Â¿Seguro que estÃ¡s bien?
+—¿Seguro que estás bien?
 
-Miss Doll acelerÃ³ el masaje. Su pulgar encontrÃ³ la cabeza de su polla a travÃ©s de la tela y presionÃ³.
+Miss Doll aceleró el masaje. Su pulgar encontró la cabeza de su polla a través de la tela y presionó.
 
-â€”Â¡SÃ­! â€”casi gritÃ³ Robertoâ€”. AdiÃ³s, Claudia.
+—¡Sí! —casi gritó Roberto—. Adiós, Claudia.
 
-ColgÃ³ antes de que pudiera responder.
+Colgó antes de que pudiera responder.
 
-Miss Doll retirÃ³ la mano inmediatamente. Se llevÃ³ los dedos enguantados â€”manchados de la humedad que se habÃ­a filtrado a travÃ©s del encajeâ€” a la nariz e inhalÃ³.
+Miss Doll retiró la mano inmediatamente. Se llevó los dedos enguantados —manchados de la humedad que se había filtrado a través del encaje— a la nariz e inhaló.
 
-â€”Interesante â€”dijoâ€”. Su cuerpo responde al mando mucho mejor que su mente. Le gusta que lo toquen como a una propiedad. Le gusta ser... manejado.
+—Interesante —dijo—. Su cuerpo responde al mando mucho mejor que su mente. Le gusta que lo toquen como a una propiedad. Le gusta ser... manejado.
 
-â€”No... â€”gimiÃ³ Roberto, temblando en su silla, al borde del orgasmo sin poder alcanzarloâ€”. Eso no es...
+—No... —gimió Roberto, temblando en su silla, al borde del orgasmo sin poder alcanzarlo—. Eso no es...
 
-â€”SÃ­. AcÃ©ptelo. Es el primer paso hacia su nueva funciÃ³n. â€”Miss Doll regresÃ³ a su lugar en el sofÃ¡ como si nada hubiera pasadoâ€”. Mantenga las rodillas juntas, Roberto. AÃºn le quedan cuatro horas. Y no tiene permiso para correrse.
+—Sí. Acéptelo. Es el primer paso hacia su nueva función. —Miss Doll regresó a su lugar en el sofá como si nada hubiera pasado—. Mantenga las rodillas juntas, Roberto. Aún le quedan cuatro horas. Y no tiene permiso para correrse.
 
-Se detuvo en el camino y aÃ±adiÃ³:
+Se detuvo en el camino y añadió:
 
-â€”Â¿Sabe por quÃ© su vida es tan miserable, Roberto? Porque pasa todo el dÃ­a tomando decisiones. QuÃ© hacer. QuÃ© decir. CÃ³mo actuar. Es agotador, Â¿verdad? â€”Su voz se volviÃ³ casi compasivaâ€”. Pero cuando estÃ¡ conmigo... cuando lleva mi lencerÃ­a debajo de su traje... ya no tiene que decidir nada. Solo tiene que obedecer. Y eso es *liberador*.
+—¿Sabe por qué su vida es tan miserable, Roberto? Porque pasa todo el día tomando decisiones. Qué hacer. Qué decir. Cómo actuar. Es agotador, ¿verdad? —Su voz se volvió casi compasiva—. Pero cuando está conmigo... cuando lleva mi lencería debajo de su traje... ya no tiene que decidir nada. Solo tiene que obedecer. Y eso es *liberador*.
 
-â€”Eso no es...
+—Eso no es...
 
-â€”PiÃ©nselo esta noche, mientras estÃ¡ en la cama con Claudia, sin poder tocarse, sintiendo el encaje contra su piel. Piense en cÃ³mo se sintiÃ³ cuando le di esa orden. Cuando no tuvo que pensar. Cuando solo tuvo que *hacer*. â€”Ella sonriÃ³â€”. Y maÃ±ana me dirÃ¡ cÃ³mo durmiÃ³.
+—Piénselo esta noche, mientras está en la cama con Claudia, sin poder tocarse, sintiendo el encaje contra su piel. Piense en cómo se sintió cuando le di esa orden. Cuando no tuvo que pensar. Cuando solo tuvo que *hacer*. —Ella sonrió—. Y mañana me dirá cómo durmió.
 
-Roberto pasÃ³ el resto del dÃ­a en un estado de desesperaciÃ³n agÃ³nica. Cada Email que escribÃ­a era interrumpido por pulsaciones de placer en su entrepierna. Cada llamada que atendÃ­a era acompaÃ±ada por la presencia fantasma de la mano de Miss Doll.
+Roberto pasó el resto del día en un estado de desesperación agónica. Cada Email que escribía era interrumpido por pulsaciones de placer en su entrepierna. Cada llamada que atendía era acompañada por la presencia fantasma de la mano de Miss Doll.
 
 Para cuando las 6:00 PM llegaron, estaba temblando.
 
-Miss Doll guardÃ³ sus cosas y caminÃ³ hacia la puerta.
+Miss Doll guardó sus cosas y caminó hacia la puerta.
 
-â€”MaÃ±ana, dÃ­a tres. Sea puntual. Y Roberto... â€”se girÃ³, su silueta rosa enmarcada en la puertaâ€”. Duerma con la lencerÃ­a puesta. Quiero que se acostumbre a la textura. Quiero que sueÃ±e con ella.
+—Mañana, día tres. Sea puntual. Y Roberto... —se giró, su silueta rosa enmarcada en la puerta—. Duerma con la lencería puesta. Quiero que se acostumbre a la textura. Quiero que sueñe con ella.
 
 El clic de la puerta fue como un punto final.
 
-Roberto se desplomÃ³ en su silla. Su erecciÃ³n â€”aÃºn presente, aÃºn dolorosa, aÃºn pulsandoâ€” exigÃ­a alivio.
+Roberto se desplomó en su silla. Su erección —aún presente, aún dolorosa, aún pulsando— exigía alivio.
 
 Pero algo lo detuvo.
 
@@ -507,201 +507,201 @@ Pero algo lo detuvo.
 
 La orden resonaba en su mente.
 
-Â¿Desde cuÃ¡ndo necesitaba permiso para masturbarse?
+¿Desde cuándo necesitaba permiso para masturbarse?
 
-*Desde que te arrodillaste*, respondiÃ³ una voz oscura en su interior. *Desde que firmaste. Desde que te pusiste las bragas.*
+*Desde que te arrodillaste*, respondió una voz oscura en su interior. *Desde que firmaste. Desde que te pusiste las bragas.*
 
-Roberto mirÃ³ hacia abajo, hacia la tienda de campaÃ±a en sus pantalones.
+Roberto miró hacia abajo, hacia la tienda de campaña en sus pantalones.
 
-*MaÃ±ana*, pensÃ³. *MaÃ±ana encontrarÃ© la manera de salir de esto.*
+*Mañana*, pensó. *Mañana encontraré la manera de salir de esto.*
 
-Pero mientras caminaba hacia su coche â€”sintiendo cada paso, cada tirÃ³n de los tirantes, cada roce del encajeâ€” sabÃ­a que estaba mintiendo.
+Pero mientras caminaba hacia su coche —sintiendo cada paso, cada tirón de los tirantes, cada roce del encaje— sabía que estaba mintiendo.
 
-SabÃ­a que estaba esperando maÃ±ana con algo muy parecido a la anticipaciÃ³n.
+Sabía que estaba esperando mañana con algo muy parecido a la anticipación.
 
 ---
 
 Esa noche fue la primera prueba real.
 
-Roberto llegÃ³ a casa a las 7:30 PM sabiendo que no tenÃ­a escapatoria.
+Roberto llegó a casa a las 7:30 PM sabiendo que no tenía escapatoria.
 
-Los broches bluetooth lo vigilaban. La demostraciÃ³n de Miss Doll habÃ­a sido clara: cada desconexiÃ³n registrada, cada segundo contado. Tres minutos para el baÃ±o. Nada mÃ¡s.
+Los broches bluetooth lo vigilaban. La demostración de Miss Doll había sido clara: cada desconexión registrada, cada segundo contado. Tres minutos para el baño. Nada más.
 
-Claudia estaba en la cocina preparando la cena. El olor de la pasta llenaba el aire, cÃ¡lido y familiar. Normal.
+Claudia estaba en la cocina preparando la cena. El olor de la pasta llenaba el aire, cálido y familiar. Normal.
 
 Nada era normal.
 
-Bajo su traje azul marino llevaba lencerÃ­a de mujer. Bragas de encaje negro. Liguero. Medias de seda.
+Bajo su traje azul marino llevaba lencería de mujer. Bragas de encaje negro. Liguero. Medias de seda.
 
-â€”Â¿CÃ³mo estuvo tu dÃ­a, cariÃ±o? â€”preguntÃ³ Claudia desde la cocina.
+—¿Cómo estuvo tu día, cariño? —preguntó Claudia desde la cocina.
 
-*Un monstruo de lÃ¡tex rosa me hizo vestir como mujer mientras me masturbaba durante tu llamada.*
+*Un monstruo de látex rosa me hizo vestir como mujer mientras me masturbaba durante tu llamada.*
 
-â€”Largo â€”logrÃ³ decirâ€”. Mucho trabajo.
+—Largo —logró decir—. Mucho trabajo.
 
 La cena fue tortura.
 
-Cada vez que se movÃ­a en la silla, el encaje se frotaba contra su piel. Cada vez que cruzaba las piernas â€”*no, mis rodillas juntas*â€” recordaba el toque de Miss Doll. Claudia hablaba sobre los RodrÃ­guez, sobre la cena del viernes, sobre la podadora que necesitaba arreglo.
+Cada vez que se movía en la silla, el encaje se frotaba contra su piel. Cada vez que cruzaba las piernas —*no, mis rodillas juntas*— recordaba el toque de Miss Doll. Claudia hablaba sobre los Rodríguez, sobre la cena del viernes, sobre la podadora que necesitaba arreglo.
 
-Roberto asentÃ­a sin escuchar.
+Roberto asentía sin escuchar.
 
 Su mente estaba atrapada en los tirantes del liguero tirando de sus muslos.
 
-â€”Â¿Roberto? Â¿Me estÃ¡s escuchando?
+—¿Roberto? ¿Me estás escuchando?
 
-â€”SÃ­, sÃ­. Los RodrÃ­guez. Viernes. Entendido.
+—Sí, sí. Los Rodríguez. Viernes. Entendido.
 
-Claudia lo mirÃ³ con expresiÃ³n preocupada.
+Claudia lo miró con expresión preocupada.
 
-â€”Â¿EstÃ¡s bien? Pareces... raro.
+—¿Estás bien? Pareces... raro.
 
-*Llevo bragas de mujer bajo la ropa. Una dominatrix me obligÃ³ a usarlas. Y lo peor es que estoy excitado.*
+*Llevo bragas de mujer bajo la ropa. Una dominatrix me obligó a usarlas. Y lo peor es que estoy excitado.*
 
-â€”Solo cansado. El trabajo. Ya sabes.
+—Solo cansado. El trabajo. Ya sabes.
 
-DespuÃ©s de la cena vino el momento que Roberto habÃ­a temido.
+Después de la cena vino el momento que Roberto había temido.
 
 La hora de acostarse.
 
-Se encerrÃ³ en el baÃ±o con la excusa de ducharse. Pero no se quitÃ³ la lencerÃ­a. No podÃ­a. Miss Doll habÃ­a ordenado que durmiera con ella puesta.
+Se encerró en el baño con la excusa de ducharse. Pero no se quitó la lencería. No podía. Miss Doll había ordenado que durmiera con ella puesta.
 
-*Â¿Desde cuÃ¡ndo sigo Ã³rdenes de una extraÃ±a?*
+*¿Desde cuándo sigo órdenes de una extraña?*
 
-Desde que tienes quince aÃ±os de cÃ¡rcel esperÃ¡ndote.
+Desde que tienes quince años de cárcel esperándote.
 
-Se puso el pijama sobre la lencerÃ­a. La tela del pantalÃ³n de algodÃ³n se sintiÃ³ diferente sobre las medias. Rugosa. IncÃ³moda. Y el peso del pijama presionaba el encaje aÃºn mÃ¡s contra su piel.
+Se puso el pijama sobre la lencería. La tela del pantalón de algodón se sintió diferente sobre las medias. Rugosa. Incómoda. Y el peso del pijama presionaba el encaje aún más contra su piel.
 
-SaliÃ³ del baÃ±o.
+Salió del baño.
 
-Claudia ya estaba en la cama, leyendo. Llevaba su camisÃ³n azul de siempre. Familiar. Inocente.
+Claudia ya estaba en la cama, leyendo. Llevaba su camisón azul de siempre. Familiar. Inocente.
 
-Roberto se acostÃ³ a su lado intentando parecer normal.
+Roberto se acostó a su lado intentando parecer normal.
 
-â€”Â¿No te vas a quitar la camiseta interior? â€”preguntÃ³ ella, arrugando el ceÃ±o.
+—¿No te vas a quitar la camiseta interior? —preguntó ella, arrugando el ceño.
 
-Roberto sintiÃ³ hielo en las venas.
+Roberto sintió hielo en las venas.
 
-Normalmente dormÃ­a sin camiseta. Pero esta noche llevaba una puesta especÃ­ficamente para ocultar los tirantes del liguero en su espalda.
+Normalmente dormía sin camiseta. Pero esta noche llevaba una puesta específicamente para ocultar los tirantes del liguero en su espalda.
 
-â€”Tengo frÃ­o â€”mintiÃ³.
+—Tengo frío —mintió.
 
-Claudia se encogiÃ³ de hombros. ApagÃ³ la luz. Se girÃ³ hacia Ã©l.
+Claudia se encogió de hombros. Apagó la luz. Se giró hacia él.
 
-â€”Â¿CariÃ±o? â€”Su mano se posÃ³ sobre su musloâ€”. Â¿Hace cuÃ¡nto que no...?
+—¿Cariño? —Su mano se posó sobre su muslo—. ¿Hace cuánto que no...?
 
-El pÃ¡nico fue inmediato.
+El pánico fue inmediato.
 
-Si ella subÃ­a la mano, encontrarÃ­a el liguero. Si Ã©l se quitaba los pantalones, verÃ­a las medias. Si llegaban a tener sexo...
+Si ella subía la mano, encontraría el liguero. Si él se quitaba los pantalones, vería las medias. Si llegaban a tener sexo...
 
-â€”Esta noche no, Claudia â€”dijo, con voz que sonÃ³ demasiado agudaâ€”. De verdad estoy agotado.
+—Esta noche no, Claudia —dijo, con voz que sonó demasiado aguda—. De verdad estoy agotado.
 
-Un silencio incÃ³modo.
+Un silencio incómodo.
 
-â€”EstÃ¡ bien â€”dijo ella, retirando la manoâ€”. Cuando estÃ©s listo.
+—Está bien —dijo ella, retirando la mano—. Cuando estés listo.
 
 Se dio la vuelta.
 
-Roberto yacÃ­a en la oscuridad, el corazÃ³n latiendo tan fuerte que estaba seguro de que ella podÃ­a oÃ­rlo. El encaje le ardÃ­a contra la piel. Los tirantes tiraban con cada respiraciÃ³n. Y su polla â€”esa traidoraâ€” estaba dura otra vez, presionando contra las bragas de mujer.
+Roberto yacía en la oscuridad, el corazón latiendo tan fuerte que estaba seguro de que ella podía oírlo. El encaje le ardía contra la piel. Los tirantes tiraban con cada respiración. Y su polla —esa traidora— estaba dura otra vez, presionando contra las bragas de mujer.
 
-Pero habÃ­a un problema mÃ¡s urgente.
+Pero había un problema más urgente.
 
 Los pies.
 
-El pantalÃ³n del pijama le llegaba hasta los tobillos, pero no cubrÃ­a los pies. Y Roberto, con horror creciente, se dio cuenta de que el final de las medias â€”ese brillo satinado inconfundibleâ€” asomaba por debajo de la tela. Si Claudia miraba hacia abajo. Si se despertaba y lo veÃ­a. Si las sÃ¡banas se movÃ­an...
+El pantalón del pijama le llegaba hasta los tobillos, pero no cubría los pies. Y Roberto, con horror creciente, se dio cuenta de que el final de las medias —ese brillo satinado inconfundible— asomaba por debajo de la tela. Si Claudia miraba hacia abajo. Si se despertaba y lo veía. Si las sábanas se movían...
 
-*Tengo que quitÃ¡rmelas*, pensÃ³ con desesperaciÃ³n. *Solo las medias. Solo los pies. Miss Doll no puede esperar que duerma con esto visible.*
+*Tengo que quitármelas*, pensó con desesperación. *Solo las medias. Solo los pies. Miss Doll no puede esperar que duerma con esto visible.*
 
-EsperÃ³ hasta que la respiraciÃ³n de Claudia se volviÃ³ profunda y regular. Dormida.
+Esperó hasta que la respiración de Claudia se volvió profunda y regular. Dormida.
 
-Con movimientos milimÃ©tricos, deslizÃ³ la mano bajo las sÃ¡banas hacia el broche del liguero en su muslo derecho.
+Con movimientos milimétricos, deslizó la mano bajo las sábanas hacia el broche del liguero en su muslo derecho.
 
-*Solo lo desengancho, quito la media del pie, y lo vuelvo a enganchar. Diez segundos. Menos de tres minutos. EstÃ¡ permitido.*
+*Solo lo desengancho, quito la media del pie, y lo vuelvo a enganchar. Diez segundos. Menos de tres minutos. Está permitido.*
 
-Su dedo tocÃ³ el broche.
+Su dedo tocó el broche.
 
 *Click.*
 
-Lo desenganchÃ³.
+Lo desenganchó.
 
-Nada pasÃ³.
+Nada pasó.
 
-*Bien. Ahora la mediaâ€”*
+*Bien. Ahora la media—*
 
-Su telÃ©fono vibrÃ³ en la mesita de noche.
+Su teléfono vibró en la mesita de noche.
 
-El sonido fue como un disparo en el silencio del dormitorio. Claudia se moviÃ³. MurmurÃ³ algo ininteligible.
+El sonido fue como un disparo en el silencio del dormitorio. Claudia se movió. Murmuró algo ininteligible.
 
-Roberto contuvo la respiraciÃ³n.
+Roberto contuvo la respiración.
 
-Claudia volviÃ³ a quedarse quieta.
+Claudia volvió a quedarse quieta.
 
-Con manos temblorosas, Roberto tomÃ³ el telÃ©fono. La pantalla brillÃ³ en la oscuridad:
+Con manos temblorosas, Roberto tomó el teléfono. La pantalla brilló en la oscuridad:
 
-**"Â¿QuÃ© crees que estÃ¡s haciendo, Roberto?"**
+**"¿Qué crees que estás haciendo, Roberto?"**
 
-Tres segundos despuÃ©s, otro mensaje:
+Tres segundos después, otro mensaje:
 
 **"Puedo ver que desenganchaste el broche derecho. A las 11:47 PM. En tu dormitorio. Junto a tu esposa dormida."**
 
-El horror le helÃ³ la sangre.
+El horror le heló la sangre.
 
 Otro mensaje:
 
-**"Â¿Sabes lo fÃ¡cil que serÃ­a enviarle a Claudia las fotos AHORA MISMO? Mientras duerme a tu lado. Para que las vea en cuanto despierte."**
+**"¿Sabes lo fácil que sería enviarle a Claudia las fotos AHORA MISMO? Mientras duerme a tu lado. Para que las vea en cuanto despierte."**
 
-Roberto sintiÃ³ que iba a vomitar.
+Roberto sintió que iba a vomitar.
 
-**"Tienes 20 segundos para reconectar ese broche y NUNCA mÃ¡s intentar esta mierda. Si lo haces bien, te perdono esta vez. Si no..."**
+**"Tienes 20 segundos para reconectar ese broche y NUNCA más intentar esta mierda. Si lo haces bien, te perdono esta vez. Si no..."**
 
-Una imagen apareciÃ³. Era la foto #3. Roberto en bragas con erecciÃ³n.
+Una imagen apareció. Era la foto #3. Roberto en bragas con erección.
 
-**"...esta foto serÃ¡ lo primero que Claudia vea maÃ±ana. Junto con un mensaje explicando EXACTAMENTE quÃ© has hecho esta semana. Tic tac."**
+**"...esta foto será lo primero que Claudia vea mañana. Junto con un mensaje explicando EXACTAMENTE qué has hecho esta semana. Tic tac."**
 
-Sus dedos buscaron frenÃ©ticamente el broche bajo las sÃ¡banas. El metal se resbalaba. Claudia se moviÃ³ de nuevo.
+Sus dedos buscaron frenéticamente el broche bajo las sábanas. El metal se resbalaba. Claudia se movió de nuevo.
 
 Diez segundos.
 
-*Â¡MALDITA SEA, MALDITA SEA!*
+*¡MALDITA SEA, MALDITA SEA!*
 
 Cinco segundos.
 
 *Click.*
 
-El broche se enganchÃ³.
+El broche se enganchó.
 
 Otro mensaje:
 
-**"Buena chica. Ahora escÃºchame bien, porque no voy a repetirlo:**
+**"Buena chica. Ahora escúchame bien, porque no voy a repetirlo:**
 
-**Las medias SE QUEDAN PUESTAS. Los pies SE QUEDAN CUBIERTOS. SI CLAUDIA VE ALGO, ESE ES TU PROBLEMA. Inventa una excusa. Usa calcetines encima. No me importa cÃ³mo lo resuelvas.**
+**Las medias SE QUEDAN PUESTAS. Los pies SE QUEDAN CUBIERTOS. SI CLAUDIA VE ALGO, ESE ES TU PROBLEMA. Inventa una excusa. Usa calcetines encima. No me importa cómo lo resuelvas.**
 
-**Pero si me vuelves a desobedecer â€”si vuelvo a ver ese broche desconectado fuera del horario de baÃ±oâ€” NO habrÃ¡ advertencia. Solo consecuencias.**
+**Pero si me vuelves a desobedecer —si vuelvo a ver ese broche desconectado fuera del horario de baño— NO habrá advertencia. Solo consecuencias.**
 
-**Dulces sueÃ±os, Roberto."**
+**Dulces sueños, Roberto."**
 
-Roberto dejÃ³ caer el telÃ©fono en la mesita.
+Roberto dejó caer el teléfono en la mesita.
 
-Sus manos temblaban. Su corazÃ³n latÃ­a tan fuerte que le dolÃ­a el pecho. Claudia dormÃ­a a centÃ­metros de Ã©l, completamente ajena a la pesadilla que estaba viviendo.
+Sus manos temblaban. Su corazón latía tan fuerte que le dolía el pecho. Claudia dormía a centímetros de él, completamente ajena a la pesadilla que estaba viviendo.
 
-*No estÃ¡ jugando*, comprendiÃ³ con claridad brutal. *Nunca estuvo jugando. EstÃ¡ vigilÃ¡ndome. Siempre. En todo momento. Incluso aquÃ­. Incluso ahora.*
+*No está jugando*, comprendió con claridad brutal. *Nunca estuvo jugando. Está vigilándome. Siempre. En todo momento. Incluso aquí. Incluso ahora.*
 
-Se quedÃ³ inmÃ³vil en la oscuridad, las medias brillando bajo el pantalÃ³n del pijama, los broches como pequeÃ±as cÃ¡rceles en sus muslos.
+Se quedó inmóvil en la oscuridad, las medias brillando bajo el pantalón del pijama, los broches como pequeñas cárceles en sus muslos.
 
 *Estoy atrapado. Completamente, absolutamente atrapado.*
 
-PasÃ³ el resto de la noche despierto, sin atreverse a moverse, sin atreverse a tocar nada.
+Pasó el resto de la noche despierto, sin atreverse a moverse, sin atreverse a tocar nada.
 
-Cuando finalmente se quedÃ³ dormido, soÃ±Ã³ con ella.
+Cuando finalmente se quedó dormido, soñó con ella.
 
-En el sueÃ±o, Miss Doll estaba sentada en su cama matrimonial, mirando cÃ³mo dormÃ­a Claudia. Sus dedos enguantados acariciaban el pelo de su esposa mientras susurraba:
+En el sueño, Miss Doll estaba sentada en su cama matrimonial, mirando cómo dormía Claudia. Sus dedos enguantados acariciaban el pelo de su esposa mientras susurraba:
 
-*Ella no te conoce, Roberto. No de verdad. Pero yo sÃ­. Yo sÃ© lo que escondes. Yo sÃ© lo que quieres.*
+*Ella no te conoce, Roberto. No de verdad. Pero yo sí. Yo sé lo que escondes. Yo sé lo que quieres.*
 
-*Pronto, ella tambiÃ©n lo sabrÃ¡.*
+*Pronto, ella también lo sabrá.*
 
-Roberto despertÃ³ empapado en sudor.
+Roberto despertó empapado en sudor.
 
-Y todavÃ­a duro.
+Y todavía duro.
 
 
 
@@ -709,391 +709,391 @@ Y todavÃ­a duro.
 ---
 
 
-# CapÃ­tulo 3: La DepilaciÃ³n (DÃ­a 3 - MiÃ©rcoles)
+# Capítulo 3: La Depilación (Día 3 - Miércoles)
 
-El miÃ©rcoles amaneciÃ³ gris y frÃ­o, pero Roberto apenas lo notÃ³.
+El miércoles amaneció gris y frío, pero Roberto apenas lo notó.
 
-HabÃ­a dormido con la lencerÃ­a puesta, como Miss Doll habÃ­a ordenado. O mÃ¡s bien, habÃ­a *intentado* dormir. El encaje habÃ­a convertido su cama en un campo minado de sensaciones. Cada vez que se movÃ­a, los tirantes del liguero tiraban. Cada vez que se daba vuelta, las medias se deslizaban contra las sÃ¡banas con un susurro de seda. Y cada vez que empezaba a quedarse dormido, su polla â€”atrapada en las bragas negrasâ€” se endurecÃ­a de nuevo, recordÃ¡ndole su situaciÃ³n.
+Había dormido con la lencería puesta, como Miss Doll había ordenado. O más bien, había *intentado* dormir. El encaje había convertido su cama en un campo minado de sensaciones. Cada vez que se movía, los tirantes del liguero tiraban. Cada vez que se daba vuelta, las medias se deslizaban contra las sábanas con un susurro de seda. Y cada vez que empezaba a quedarse dormido, su polla —atrapada en las bragas negras— se endurecía de nuevo, recordándole su situación.
 
-Claudia no habÃ­a notado nada. DormÃ­a profundamente a su lado, ajena al hecho de que su marido llevaba ropa interior de mujer debajo del pijama.
+Claudia no había notado nada. Dormía profundamente a su lado, ajena al hecho de que su marido llevaba ropa interior de mujer debajo del pijama.
 
-Pero esta maÃ±ana casi lo descubre.
+Pero esta mañana casi lo descubre.
 
-Roberto se habÃ­a levantado antes que ella para vestirse sin que lo viera. No se le ocurrÃ­a ya quitarse la lencerÃ­a â€”el recuerdo del mensaje de Miss Doll en la oscuridad, la cuenta regresiva, la foto casi enviada a Claudia, le habÃ­a curado de cualquier tentaciÃ³n de desobedecer. Pero aÃºn necesitaba ocultar los tirantes bajo la ropa de trabajo. Estaba en el baÃ±o, ajustÃ¡ndose la camiseta sobre el liguero, cuando la puerta se abriÃ³.
+Roberto se había levantado antes que ella para vestirse sin que lo viera. No se le ocurría ya quitarse la lencería —el recuerdo del mensaje de Miss Doll en la oscuridad, la cuenta regresiva, la foto casi enviada a Claudia, le había curado de cualquier tentación de desobedecer. Pero aún necesitaba ocultar los tirantes bajo la ropa de trabajo. Estaba en el baño, ajustándose la camiseta sobre el liguero, cuando la puerta se abrió.
 
-â€”Buenos dÃ­as, cariÃ±o â€”dijo Claudia, todavÃ­a medio dormidaâ€”. Â¿Por quÃ© cerraste con llave?
+—Buenos días, cariño —dijo Claudia, todavía medio dormida—. ¿Por qué cerraste con llave?
 
-Roberto se congelÃ³. Estaba de espaldas a ella, pero los tirantes del liguero cruzaban su espalda bajo la camiseta. Si ella miraba...
+Roberto se congeló. Estaba de espaldas a ella, pero los tirantes del liguero cruzaban su espalda bajo la camiseta. Si ella miraba...
 
-â€”Privacidad â€”logrÃ³ decirâ€”. Necesitaba... un momento.
+—Privacidad —logró decir—. Necesitaba... un momento.
 
-â€”Raro. â€”Claudia entrÃ³ al baÃ±o sin mirarlo y se dirigiÃ³ al lavaboâ€”. Â¿Puedes creer que Martina RodrÃ­guez quiere que llevemos vino francÃ©s? Â¿Para una cena casual?
+—Raro. —Claudia entró al baño sin mirarlo y se dirigió al lavabo—. ¿Puedes creer que Martina Rodríguez quiere que llevemos vino francés? ¿Para una cena casual?
 
-Roberto no contestÃ³. Estaba demasiado ocupado metiendo los tirantes bajo la camiseta, rezando para que ella no se diera vuelta.
+Roberto no contestó. Estaba demasiado ocupado metiendo los tirantes bajo la camiseta, rezando para que ella no se diera vuelta.
 
-â€”Â¿Roberto?
+—¿Roberto?
 
-â€”SÃ­, sÃ­. Vino francÃ©s. QuÃ© exagerado.
+—Sí, sí. Vino francés. Qué exagerado.
 
-SaliÃ³ del baÃ±o antes de que ella terminara de lavarse los dientes.
+Salió del baño antes de que ella terminara de lavarse los dientes.
 
-*Esto no puede seguir asÃ­*, pensÃ³ mientras se vestÃ­a en el dormitorio. *Alguien me va a descubrir. Claudia. Un compaÃ±ero de trabajo. Alguien.*
+*Esto no puede seguir así*, pensó mientras se vestía en el dormitorio. *Alguien me va a descubrir. Claudia. Un compañero de trabajo. Alguien.*
 
-Pero la alternativa era la cÃ¡rcel.
+Pero la alternativa era la cárcel.
 
-Y habÃ­a algo mÃ¡s. Algo que no querÃ­a admitir.
+Y había algo más. Algo que no quería admitir.
 
-Una parte de Ã©l... *disfrutaba* el riesgo.
+Una parte de él... *disfrutaba* el riesgo.
 
 ---
 
-*Â¿CuÃ¡nto tiempo podrÃ¡ durar esto?*, se preguntÃ³ Roberto mientras conducÃ­a hacia la oficina. *Â¿CuÃ¡nto tiempo antes de que alguien note que hay algo mal?*
+*¿Cuánto tiempo podrá durar esto?*, se preguntó Roberto mientras conducía hacia la oficina. *¿Cuánto tiempo antes de que alguien note que hay algo mal?*
 
-Pero una parte de Ã©l â€”la parte oscura que crecÃ­a cada dÃ­aâ€” no querÃ­a que terminara.
+Pero una parte de él —la parte oscura que crecía cada día— no quería que terminara.
 
-LlegÃ³ a las 7:50 AM. Miss Doll ya estaba allÃ­.
+Llegó a las 7:50 AM. Miss Doll ya estaba allí.
 
-Hoy llevaba un catsuit de lÃ¡tex rosa pastel que cubrÃ­a su cuerpo desde el cuello hasta los dedos de los pies, dejando solo las manos y el rostro expuestos. El material brillaba como caramelo bajo las luces de la oficina. Un corsÃ© rosa mÃ¡s oscuro â€”coral, quizÃ¡sâ€” cinchaba su cintura hasta proporciones de dibujo animado. Y en los pies, los tacones de siempre: plataformas rosa neÃ³n de dieciocho centÃ­metros.
+Hoy llevaba un catsuit de látex rosa pastel que cubría su cuerpo desde el cuello hasta los dedos de los pies, dejando solo las manos y el rostro expuestos. El material brillaba como caramelo bajo las luces de la oficina. Un corsé rosa más oscuro —coral, quizás— cinchaba su cintura hasta proporciones de dibujo animado. Y en los pies, los tacones de siempre: plataformas rosa neón de dieciocho centímetros.
 
-Estaba preparando algo en el escritorio de Roberto. Cuando Ã©l entrÃ³, vio lo que era: toallas, cera caliente en un recipiente elÃ©ctrico, y varios instrumentos que no reconociÃ³.
+Estaba preparando algo en el escritorio de Roberto. Cuando él entró, vio lo que era: toallas, cera caliente en un recipiente eléctrico, y varios instrumentos que no reconoció.
 
-Su corazÃ³n se hundiÃ³.
+Su corazón se hundió.
 
-â€”Hoy no habrÃ¡ trabajo de oficina â€”anunciÃ³ Miss Dollâ€”. Hoy hay mantenimiento.
+—Hoy no habrá trabajo de oficina —anunció Miss Doll—. Hoy hay mantenimiento.
 
-â€”Â¿Mantenimiento? â€”Roberto intentÃ³ que su voz sonara firme, pero saliÃ³ como un graznido.
+—¿Mantenimiento? —Roberto intentó que su voz sonara firme, pero salió como un graznido.
 
-â€”Su cuerpo estÃ¡... sucio. â€”Miss Doll pronunciÃ³ la palabra con disgustoâ€”. Tiene vello. Vello en el pecho, en las piernas, en los brazos, en lugares que pronto serÃ¡n revisados por ojos que merecen mejores vistas. Eso termina hoy.
+—Su cuerpo está... sucio. —Miss Doll pronunció la palabra con disgusto—. Tiene vello. Vello en el pecho, en las piernas, en los brazos, en lugares que pronto serán revisados por ojos que merecen mejores vistas. Eso termina hoy.
 
-â€”No. â€”La palabra saliÃ³ antes de que pudiera detenerla. MÃ¡s fuerte de lo que habÃ­a hablado en dÃ­asâ€”. No voy a hacer esto.
+—No. —La palabra salió antes de que pudiera detenerla. Más fuerte de lo que había hablado en días—. No voy a hacer esto.
 
-Miss Doll levantÃ³ una ceja perfectamente delineada.
+Miss Doll levantó una ceja perfectamente delineada.
 
-â€”Â¿Disculpe?
+—¿Disculpe?
 
-â€”Depilarse... eso no se oculta. â€”Roberto sentÃ­a el corazÃ³n latiendo en sus oÃ­dosâ€”. Mi esposa lo notarÃ¡. Claudia duerme a mi lado todas las noches. Â¿CÃ³mo explico que de repente no tengo pelo en las piernas? Â¿En el pecho? Â¿En...? â€”Se detuvo, rojo de vergÃ¼enza.
+—Depilarse... eso no se oculta. —Roberto sentía el corazón latiendo en sus oídos—. Mi esposa lo notará. Claudia duerme a mi lado todas las noches. ¿Cómo explico que de repente no tengo pelo en las piernas? ¿En el pecho? ¿En...? —Se detuvo, rojo de vergüenza.
 
-Miss Doll no se inmutÃ³.
+Miss Doll no se inmutó.
 
-â€”Â¿EstÃ¡ cuestionando mis Ã³rdenes?
+—¿Está cuestionando mis órdenes?
 
-â€”Estoy diciendo que es imposible. En la oficina tambiÃ©n... â€”PensÃ³ en el gimnasio del edificio, en los vestuariosâ€”. Los compaÃ±eros de trabajo. Si me ven depilado, van a hablar. Van a hacer preguntas. Van a...
+—Estoy diciendo que es imposible. En la oficina también... —Pensó en el gimnasio del edificio, en los vestuarios—. Los compañeros de trabajo. Si me ven depilado, van a hablar. Van a hacer preguntas. Van a...
 
-â€”Van a pensar que usted es un hombre moderno que cuida su cuerpo â€”interrumpiÃ³ Miss Dollâ€”. O van a pensar que es un pervertido. â€”SonriÃ³â€”. Â¿CuÃ¡l de las dos opciones le preocupa mÃ¡s?
+—Van a pensar que usted es un hombre moderno que cuida su cuerpo —interrumpió Miss Doll—. O van a pensar que es un pervertido. —Sonrió—. ¿Cuál de las dos opciones le preocupa más?
 
 El silencio fue ensordecedor.
 
-â€”Le preocupa que lo descubran â€”continuÃ³ ella, acercÃ¡ndoseâ€”. Le preocupa que sepan lo que realmente es. Pero dÃ©jeme preguntarle algo, Roberto: Â¿quÃ© cree que es peor? Â¿Piernas suaves que puede explicar con una "recomendaciÃ³n mÃ©dica"? Â¿O quince aÃ±os en prisiÃ³n donde los internos verÃ¡n MUCHO mÃ¡s que sus piernas?
+—Le preocupa que lo descubran —continuó ella, acercándose—. Le preocupa que sepan lo que realmente es. Pero déjeme preguntarle algo, Roberto: ¿qué cree que es peor? ¿Piernas suaves que puede explicar con una "recomendación médica"? ¿O quince años en prisión donde los internos verán MUCHO más que sus piernas?
 
-Roberto tragÃ³ saliva.
+Roberto tragó saliva.
 
-â€”AdemÃ¡s... â€”Miss Doll se moviÃ³ hacia Ã©l con la gracia sinuosa de una serpiente. Su voz bajÃ³ a un ronroneo que era casi una caricia fÃ­sica. Se inclinÃ³ cerca de su oÃ­do, tan cerca que Ã©l podÃ­a oler su perfume de vainilla, tan cerca que sus labios rosa casi rozaban su pielâ€” ...ya lleva lencerÃ­a de mujer bajo esa ropa desde ayer. Ya durmiÃ³ con ella puesta junto a su esposa. Ya se excitÃ³ pensando en mis Ã³rdenes.
+—Además... —Miss Doll se movió hacia él con la gracia sinuosa de una serpiente. Su voz bajó a un ronroneo que era casi una caricia física. Se inclinó cerca de su oído, tan cerca que él podía oler su perfume de vainilla, tan cerca que sus labios rosa casi rozaban su piel— ...ya lleva lencería de mujer bajo esa ropa desde ayer. Ya durmió con ella puesta junto a su esposa. Ya se excitó pensando en mis órdenes.
 
-Sus dedos enguantados subieron lentamente por su brazo. El tacto fue elÃ©ctrico incluso a travÃ©s de la camisa.
+Sus dedos enguantados subieron lentamente por su brazo. El tacto fue eléctrico incluso a través de la camisa.
 
-â€”Â¿QuÃ© es un poco de piel suave... â€”su aliento cÃ¡lido contra su cuelloâ€” ...comparado con todo lo que ya ha hecho por mÃ­?
+—¿Qué es un poco de piel suave... —su aliento cálido contra su cuello— ...comparado con todo lo que ya ha hecho por mí?
 
-â€”Es... es visible.
+—Es... es visible.
 
-â€”La lencerÃ­a tambiÃ©n puede serlo. Un tirante que se asoma... â€”Sus dedos caminaron por su hombro con la lentitud de una depredadoraâ€”. Una lÃ­nea de encaje bajo los pantalones... â€”Bajaron por su espalda, trazando la lÃ­nea del liguero que sabÃ­a exactamente dÃ³nde estabaâ€”. Todo puede ser visible si yo quiero que lo sea.
+—La lencería también puede serlo. Un tirante que se asoma... —Sus dedos caminaron por su hombro con la lentitud de una depredadora—. Una línea de encaje bajo los pantalones... —Bajaron por su espalda, trazando la línea del liguero que sabía exactamente dónde estaba—. Todo puede ser visible si yo quiero que lo sea.
 
-Se detuvo frente a Ã©l. Sus ojos â€”grandes, perfectamente delineados, hipnÃ³ticosâ€” lo sostenÃ­an como una cobra sostiene a su presa.
+Se detuvo frente a él. Sus ojos —grandes, perfectamente delineados, hipnóticos— lo sostenían como una cobra sostiene a su presa.
 
-â€”Â¿Prefiere eso?
+—¿Prefiere eso?
 
-Roberto no respondiÃ³.
+Roberto no respondió.
 
-â€”Cuando su esposa pregunte â€”dijo Miss Doll, retrocediendoâ€”, le dirÃ¡ que le saliÃ³ una reacciÃ³n alÃ©rgica. Que el dermatÃ³logo recomendÃ³ depilaciÃ³n temporal. MentirÃ¡. Porque eso es lo que hace el buen personal de servicio. Obedece y miente segÃºn se le ordene.
+—Cuando su esposa pregunte —dijo Miss Doll, retrocediendo—, le dirá que le salió una reacción alérgica. Que el dermatólogo recomendó depilación temporal. Mentirá. Porque eso es lo que hace el buen personal de servicio. Obedece y miente según se le ordene.
 
-â€”Â¿Y en el gimnasio?
+—¿Y en el gimnasio?
 
-â€”No irÃ¡ al gimnasio esta semana. â€”Miss Doll pronunciÃ³ cada palabra como una sentenciaâ€”. Y la siguiente. Y la siguiente despuÃ©s.
+—No irá al gimnasio esta semana. —Miss Doll pronunció cada palabra como una sentencia—. Y la siguiente. Y la siguiente después.
 
-Se acercÃ³ hasta que sus labios rosa brillante estaban a centÃ­metros de los suyos.
+Se acercó hasta que sus labios rosa brillante estaban a centímetros de los suyos.
 
-â€”Su cuerpo ya no le pertenece, Roberto. Ya no es suyo para usarlo como quiera. Me pertenece a MÃ. Para moldearlo. Para modificarlo. Para convertirlo en lo que YO quiera que sea.
+—Su cuerpo ya no le pertenece, Roberto. Ya no es suyo para usarlo como quiera. Me pertenece a MÍ. Para moldearlo. Para modificarlo. Para convertirlo en lo que YO quiera que sea.
 
-Su mano enguantada tomÃ³ su barbilla, obligÃ¡ndolo a mirarla a los ojos.
+Su mano enguantada tomó su barbilla, obligándolo a mirarla a los ojos.
 
-â€”Y esto â€”sus uÃ±as rosa presionaron ligeramente su mentÃ³nâ€” es solo el comienzo. Hoy es el vello. MaÃ±ana serÃ¡ otra cosa. Y el dÃ­a despuÃ©s, otra. Hasta que no quede nada del hombre que era. Â¿Entendido?
+—Y esto —sus uñas rosa presionaron ligeramente su mentón— es solo el comienzo. Hoy es el vello. Mañana será otra cosa. Y el día después, otra. Hasta que no quede nada del hombre que era. ¿Entendido?
 
 No era una pregunta. Era un hecho. Una sentencia de muerte lenta para Roberto.
 
-El silencio se extendiÃ³.
+El silencio se extendió.
 
-Roberto exhalÃ³, derrotado.
+Roberto exhaló, derrotado.
 
-â€”Â¿DÃ³nde... dÃ³nde me pongo?
+—¿Dónde... dónde me pongo?
 
-Miss Doll seÃ±alÃ³ el escritorio, ahora cubierto con las toallas.
+Miss Doll señaló el escritorio, ahora cubierto con las toallas.
 
-â€”DesnÃºdese completamente. Luego acuÃ©stese boca arriba.
+—Desnúdese completamente. Luego acuéstese boca arriba.
 
 *Completamente.*
 
-Roberto habÃ­a esperado mantener al menos la ropa interior. Pero la orden era clara.
+Roberto había esperado mantener al menos la ropa interior. Pero la orden era clara.
 
-Se quitÃ³ la chaqueta del traje. La camisa. La corbata. Los zapatos. Los pantalones.
+Se quitó la chaqueta del traje. La camisa. La corbata. Los zapatos. Los pantalones.
 
-Se quedÃ³ en la lencerÃ­a, de pie en medio de su propia oficina, sintiÃ©ndose ridÃ­culo y expuesto.
+Se quedó en la lencería, de pie en medio de su propia oficina, sintiéndose ridículo y expuesto.
 
-â€”La lencerÃ­a tambiÃ©n â€”dijo Miss Dollâ€”. Hoy trabajamos con la base completa.
+—La lencería también —dijo Miss Doll—. Hoy trabajamos con la base completa.
 
-Roberto se quitÃ³ las medias primero. Luego el liguero. Finalmente, las bragas de encaje.
+Roberto se quitó las medias primero. Luego el liguero. Finalmente, las bragas de encaje.
 
 Estaba completamente desnudo.
 
-Miss Doll lo examinÃ³ con ojos clÃ­nicos. Su mirada recorriÃ³ su cuerpo de arriba abajo: el vello del pecho, el rastro que bajaba por su estÃ³mago, las piernas peludas, la maraÃ±a oscura alrededor de su polla (semi-erecta, porque su cuerpo era un traidor).
+Miss Doll lo examinó con ojos clínicos. Su mirada recorrió su cuerpo de arriba abajo: el vello del pecho, el rastro que bajaba por su estómago, las piernas peludas, la maraña oscura alrededor de su polla (semi-erecta, porque su cuerpo era un traidor).
 
-â€”Su vello es una ofensa â€”dijo ellaâ€”. Es sucio. Masculino. Primitivo. El tipo de vello que tiene un hombre que no se cuida. Un hombre que da asco a las mujeres que lo ven. Un hombre que jamÃ¡s serÃ­a contratado como personal de servicio de primer nivel.
+—Su vello es una ofensa —dijo ella—. Es sucio. Masculino. Primitivo. El tipo de vello que tiene un hombre que no se cuida. Un hombre que da asco a las mujeres que lo ven. Un hombre que jamás sería contratado como personal de servicio de primer nivel.
 
-Las palabras cortaron como navajas. Roberto nunca habÃ­a pensado en su vello corporal como algo negativo. Era simplemente... vello. Lo que todos los hombres tenÃ­an.
+Las palabras cortaron como navajas. Roberto nunca había pensado en su vello corporal como algo negativo. Era simplemente... vello. Lo que todos los hombres tenían.
 
-Pero bajo la mirada de Miss Doll, se sintiÃ³ sucio.
+Pero bajo la mirada de Miss Doll, se sintió sucio.
 
-â€”Suba al escritorio â€”ordenÃ³.
+—Suba al escritorio —ordenó.
 
-Roberto obedeciÃ³. La superficie era firme pero las toallas estaban calientes, como si Miss Doll las hubiera preparado especialmente. Se acostÃ³ boca arriba, sintiendo la vulnerabilidad de estar desnudo y horizontal mientras ella permanecÃ­a de pie y vestida.
+Roberto obedeció. La superficie era firme pero las toallas estaban calientes, como si Miss Doll las hubiera preparado especialmente. Se acostó boca arriba, sintiendo la vulnerabilidad de estar desnudo y horizontal mientras ella permanecía de pie y vestida.
 
-Miss Doll se puso guantes nuevos â€”rosa claro, mÃ¡s finos que los habitualesâ€” y tomÃ³ una espÃ¡tula del recipiente de cera. El lÃ­quido era rosa oscuro, casi coral, y humeaba ligeramente.
+Miss Doll se puso guantes nuevos —rosa claro, más finos que los habituales— y tomó una espátula del recipiente de cera. El líquido era rosa oscuro, casi coral, y humeaba ligeramente.
 
-â€”El dolor es parte del proceso â€”dijo ella, sin disculparseâ€”. El dolor le enseÃ±arÃ¡ que la belleza tiene un precio. Que la transformaciÃ³n requiere sacrificio.
+—El dolor es parte del proceso —dijo ella, sin disculparse—. El dolor le enseñará que la belleza tiene un precio. Que la transformación requiere sacrificio.
 
-Se inclinÃ³ sobre Ã©l, su rostro a centÃ­metros del suyo.
+Se inclinó sobre él, su rostro a centímetros del suyo.
 
-â€”Y va a aprender algo mÃ¡s hoy, Roberto. Va a aprender que el viejo usted era innecesario. El vello, la arrogancia, la ilusiÃ³n de control... todo eso era armadura. Armadura contra lo que realmente es. â€”Sus ojos azul hielo lo atravesaronâ€”. Hoy le quito la armadura. Y lo que quede... eso es lo que vamos a trabajar.
+—Y va a aprender algo más hoy, Roberto. Va a aprender que el viejo usted era innecesario. El vello, la arrogancia, la ilusión de control... todo eso era armadura. Armadura contra lo que realmente es. —Sus ojos azul hielo lo atravesaron—. Hoy le quito la armadura. Y lo que quede... eso es lo que vamos a trabajar.
 
-La primera aplicaciÃ³n fue en su pecho.
+La primera aplicación fue en su pecho.
 
-La cera estaba caliente pero no quemaba. Se extendiÃ³ sobre su piel como miel espesa, atrapando el vello en su abrazo pegajoso. Miss Doll presionÃ³ una tira de tela sobre la cera.
+La cera estaba caliente pero no quemaba. Se extendió sobre su piel como miel espesa, atrapando el vello en su abrazo pegajoso. Miss Doll presionó una tira de tela sobre la cera.
 
-â€”Respire â€”instruyÃ³.
+—Respire —instruyó.
 
-Roberto respirÃ³.
+Roberto respiró.
 
 *ARRANCA.*
 
 El dolor fue explosivo.
 
-Fue como si alguien hubiera prendido fuego a su pecho. Un dolor agudo, punzante, que irradiaba hacia afuera como ondas en un estanque. LÃ¡grimas brotaron automÃ¡ticamente de sus ojos.
+Fue como si alguien hubiera prendido fuego a su pecho. Un dolor agudo, punzante, que irradiaba hacia afuera como ondas en un estanque. Lágrimas brotaron automáticamente de sus ojos.
 
-â€”Bien â€”dijo Miss Dollâ€”. La primera siempre es la peor.
+—Bien —dijo Miss Doll—. La primera siempre es la peor.
 
-No era verdad. La segunda fue igual de mala. Y la tercera. Y la dÃ©cima.
+No era verdad. La segunda fue igual de mala. Y la tercera. Y la décima.
 
 Tira tras tira, su masculinidad fue arrancada de su cuerpo.
 
-Pecho. EstÃ³mago. Brazos. Piernas. Axilas.
+Pecho. Estómago. Brazos. Piernas. Axilas.
 
-Cada tira era un pequeÃ±o grito de dolor que Roberto se obligaba a contener. Cada tira dejaba su piel roja e irritada pero tambiÃ©n... suave. Lisa. Diferente.
+Cada tira era un pequeño grito de dolor que Roberto se obligaba a contener. Cada tira dejaba su piel roja e irritada pero también... suave. Lisa. Diferente.
 
-Cuando Miss Doll llegÃ³ a su entrepierna, Roberto cerrÃ³ los ojos.
+Cuando Miss Doll llegó a su entrepierna, Roberto cerró los ojos.
 
-â€”Abra las piernas â€”ordenÃ³ ella.
+—Abra las piernas —ordenó ella.
 
-Roberto obedeciÃ³.
+Roberto obedeció.
 
-Las manos de Miss Doll separaron sus piernas con eficiencia clÃ­nica. La cera caliente se extendiÃ³ sobre su pubis, alrededor de la base de su polla, sobre sus testÃ­culos.
+Las manos de Miss Doll separaron sus piernas con eficiencia clínica. La cera caliente se extendió sobre su pubis, alrededor de la base de su polla, sobre sus testículos.
 
 *ARRANCA.*
 
-Esta vez, Roberto gritÃ³.
+Esta vez, Roberto gritó.
 
-El dolor fue tan intenso que vio estrellas. Pero durÃ³ solo un segundo. Y cuando pasÃ³, quedÃ³ la sensaciÃ³n extraÃ±a de la piel completamente expuesta.
+El dolor fue tan intenso que vio estrellas. Pero duró solo un segundo. Y cuando pasó, quedó la sensación extraña de la piel completamente expuesta.
 
-Miss Doll continuÃ³. TrabajÃ³ con la precisiÃ³n de una artista, depilando cada centÃ­metro de vello de su entrepierna, dejando su polla y sus testÃ­culos completamente lisos, completamente expuestos.
+Miss Doll continuó. Trabajó con la precisión de una artista, depilando cada centímetro de vello de su entrepierna, dejando su polla y sus testículos completamente lisos, completamente expuestos.
 
-Cuando terminÃ³, algo cambiÃ³.
+Cuando terminó, algo cambió.
 
-Miss Doll dejÃ³ las herramientas a un lado. TomÃ³ un frasco de aceite rosa â€”el lÃ­quido brillaba como mielâ€” y se quitÃ³ los guantes de lÃ¡tex.
+Miss Doll dejó las herramientas a un lado. Tomó un frasco de aceite rosa —el líquido brillaba como miel— y se quitó los guantes de látex.
 
-Por primera vez, Roberto vio sus manos desnudas. Dedos largos, uÃ±as perfectas pintadas de rosa, piel que parecÃ­a porcelana.
+Por primera vez, Roberto vio sus manos desnudas. Dedos largos, uñas perfectas pintadas de rosa, piel que parecía porcelana.
 
-â€”Ahora â€”dijo ella, vertiendo el aceite en sus palmasâ€” viene la recompensa.
+—Ahora —dijo ella, vertiendo el aceite en sus palmas— viene la recompensa.
 
 El contraste fue devastador.
 
-DespuÃ©s del dolor, el aceite fue como seda lÃ­quida. Pero no fueron las manos enguantadas de antes. Fueron sus manos *desnudas*. Su piel tocando la suya por primera vez.
+Después del dolor, el aceite fue como seda líquida. Pero no fueron las manos enguantadas de antes. Fueron sus manos *desnudas*. Su piel tocando la suya por primera vez.
 
-Miss Doll se moviÃ³ con la lentitud de una boa constrictor, sus palmas deslizÃ¡ndose por su pecho reciÃ©n depilado. Con cada caricia, apretaba un poco mÃ¡s. No fÃ­sicamente â€”era algo peor. Apretaba su mente.
+Miss Doll se movió con la lentitud de una boa constrictor, sus palmas deslizándose por su pecho recién depilado. Con cada caricia, apretaba un poco más. No físicamente —era algo peor. Apretaba su mente.
 
-â€”QuÃ© suave â€”susurrÃ³ ella, su voz como terciopeloâ€”. QuÃ© *bonita* estÃ¡ quedando su piel.
+—Qué suave —susurró ella, su voz como terciopelo—. Qué *bonita* está quedando su piel.
 
-Sus manos bajaron por su estÃ³mago. Lentas. HipnÃ³ticas. Como serpientes deslizÃ¡ndose hacia su presa.
+Sus manos bajaron por su estómago. Lentas. Hipnóticas. Como serpientes deslizándose hacia su presa.
 
-â€”Â¿Ve lo fÃ¡cil que es esto? â€”Su aliento cÃ¡lido rozÃ³ su orejaâ€”. Usted sufre un momento... y luego viene la recompensa. El dolor... y luego el placer. Eso es lo que yo le ofrezco, Roberto. Un intercambio justo.
+—¿Ve lo fácil que es esto? —Su aliento cálido rozó su oreja—. Usted sufre un momento... y luego viene la recompensa. El dolor... y luego el placer. Eso es lo que yo le ofrezco, Roberto. Un intercambio justo.
 
-Sus dedos â€”desnudos, cÃ¡lidos, expertosâ€” bajaron por sus muslos, trazando lÃ­neas de fuego sobre la piel hipersensible.
+Sus dedos —desnudos, cálidos, expertos— bajaron por sus muslos, trazando líneas de fuego sobre la piel hipersensible.
 
-â€”ConfÃ­e en mÃ­ â€”murmurÃ³, su voz tan suave como una canciÃ³n de cunaâ€”. EntrÃ©guese a mÃ­. Yo sÃ© lo que es mejor para usted.
+—Confíe en mí —murmuró, su voz tan suave como una canción de cuna—. Entréguese a mí. Yo sé lo que es mejor para usted.
 
 Y cuando sus manos llegaron a su entrepierna...
 
-Roberto gimiÃ³. No pudo evitarlo.
+Roberto gimió. No pudo evitarlo.
 
-Sus dedos rozaron su polla â€”ahora completamente lisa, rodeada de piel suave como la de un bebÃ©â€” con una intimidad que ninguna esposa podrÃ­a igualar. Cada toque era preciso. Cada caricia, calculada. No era placer gratuito. Era condicionamiento.
+Sus dedos rozaron su polla —ahora completamente lisa, rodeada de piel suave como la de un bebé— con una intimidad que ninguna esposa podría igualar. Cada toque era preciso. Cada caricia, calculada. No era placer gratuito. Era condicionamiento.
 
 *Dolor y luego placer. Obediencia y luego recompensa.*
 
-La serpiente apretaba mÃ¡s y mÃ¡s. Y Roberto, sin darse cuenta, se dejaba apretar.
+La serpiente apretaba más y más. Y Roberto, sin darse cuenta, se dejaba apretar.
 
-â€”Interesante â€”murmurÃ³ Miss Doll, sus dedos rodeando su erecciÃ³n con la naturalidad de quien posee algoâ€”. El dolor lo excita. O quizÃ¡s es la transformaciÃ³n. â€”Lo acariciÃ³ experimentalmente, observando cÃ³mo su cuerpo respondÃ­aâ€”. QuizÃ¡s es que estÃ¡ empezando a *disfrutar* de volverse... bonito.
+—Interesante —murmuró Miss Doll, sus dedos rodeando su erección con la naturalidad de quien posee algo—. El dolor lo excita. O quizás es la transformación. —Lo acarició experimentalmente, observando cómo su cuerpo respondía—. Quizás es que está empezando a *disfrutar* de volverse... bonito.
 
-â€”No... â€”gimiÃ³ Roberto, pero su cuerpo decÃ­a otra cosa. Su polla pulsaba en la mano de Miss Doll como si le perteneciera.
+—No... —gimió Roberto, pero su cuerpo decía otra cosa. Su polla pulsaba en la mano de Miss Doll como si le perteneciera.
 
-Y en cierto modo, ya le pertenecÃ­a.
+Y en cierto modo, ya le pertenecía.
 
-Miss Doll retirÃ³ la mano con un movimiento lento, dejÃ¡ndolo al borde.
+Miss Doll retiró la mano con un movimiento lento, dejándolo al borde.
 
-Roberto jadeaba. Su cuerpo, reciÃ©n depilado y cubierto de aceite, brillaba bajo las luces de la oficina. HabÃ­a pasado de ser el Director Regional a ser... esto. Un hombre desnudo, liso, excitado, temblando bajo las manos de una extraÃ±a.
+Roberto jadeaba. Su cuerpo, recién depilado y cubierto de aceite, brillaba bajo las luces de la oficina. Había pasado de ser el Director Regional a ser... esto. Un hombre desnudo, liso, excitado, temblando bajo las manos de una extraña.
 
-Y lo peor era que habÃ­a disfrutado cada segundo.
+Y lo peor era que había disfrutado cada segundo.
 
-â€”LevÃ¡ntese. MÃ­rese en el espejo.
+—Levántese. Mírese en el espejo.
 
-Roberto se bajÃ³ del escritorio con piernas temblorosas. CaminÃ³ hacia el espejo de cuerpo entero que habÃ­a en la esquina de la oficina.
+Roberto se bajó del escritorio con piernas temblorosas. Caminó hacia el espejo de cuerpo entero que había en la esquina de la oficina.
 
-Se mirÃ³.
+Se miró.
 
-No reconociÃ³ lo que vio.
+No reconoció lo que vio.
 
-Estaba rojo, suave y brillante. Sin el vello, sus mÃºsculos parecÃ­an menos definidos, mÃ¡s suaves. Sus piernas parecÃ­an mÃ¡s largas, mÃ¡s femeninas. Su pecho parecÃ­a mÃ¡s delicado. Y su entrepierna...
+Estaba rojo, suave y brillante. Sin el vello, sus músculos parecían menos definidos, más suaves. Sus piernas parecían más largas, más femeninas. Su pecho parecía más delicado. Y su entrepierna...
 
-Sus genitales parecÃ­an mÃ¡s pequeÃ±os sin el vello que los enmarcaba. MÃ¡s expuestos. MÃ¡s vulnerables. Como si fueran una decoraciÃ³n en lugar de un Ã³rgano funcional.
+Sus genitales parecían más pequeños sin el vello que los enmarcaba. Más expuestos. Más vulnerables. Como si fueran una decoración en lugar de un órgano funcional.
 
-â€”Â¿QuÃ© ve? â€”preguntÃ³ Miss Doll, parÃ¡ndose detrÃ¡s de Ã©l. Su reflejo en el espejo era un contraste perfecto: ella vestida de rosa brillante, Ã©l desnudo y liso como una muÃ±eca.
+—¿Qué ve? —preguntó Miss Doll, parándose detrás de él. Su reflejo en el espejo era un contraste perfecto: ella vestida de rosa brillante, él desnudo y liso como una muñeca.
 
-â€”Me veo... dÃ©bil â€”susurrÃ³ Roberto.
+—Me veo... débil —susurró Roberto.
 
-â€”No. Se ve *limpio*. Se ve *bonito*. Se ve como alguien que merece ser tocado. â€”Sus manos enguantadas recorrieron su espalda, sus costados, su traseroâ€”. Un hombre peludo es primitivo, Roberto. Es animal. Es bruto. Pero esto... â€”le pellizcÃ³ el trasero suavementeâ€”. Esto es civilizado. Esto es estÃ©tico. Esto es lo que un cliente del mÃ¡s alto nivel espera de su personal de servicio.
+—No. Se ve *limpio*. Se ve *bonito*. Se ve como alguien que merece ser tocado. —Sus manos enguantadas recorrieron su espalda, sus costados, su trasero—. Un hombre peludo es primitivo, Roberto. Es animal. Es bruto. Pero esto... —le pellizcó el trasero suavemente—. Esto es civilizado. Esto es estético. Esto es lo que un cliente del más alto nivel espera de su personal de servicio.
 
-Roberto mirÃ³ su reflejo. Su polla seguÃ­a erecta, sobresaliendo obscenamente de su cuerpo liso.
+Roberto miró su reflejo. Su polla seguía erecta, sobresaliendo obscenamente de su cuerpo liso.
 
-Y, para su horror, entendiÃ³ lo que Miss Doll querÃ­a decir.
+Y, para su horror, entendió lo que Miss Doll quería decir.
 
-Se veÃ­a... mejor asÃ­.
+Se veía... mejor así.
 
-â€”Â¿Ve? â€”Miss Doll apareciÃ³ detrÃ¡s de Ã©l en el espejoâ€”. Su cuerpo siempre supo la verdad. Solo su mente se resistÃ­a. â€”Sus manos enguantadas recorrieron sus costadosâ€”. El pelo era una mentira, Roberto. Era la mentira de que usted era un hombre como los demÃ¡s. Pero usted no es como los demÃ¡s. Usted es... especial.
+—¿Ve? —Miss Doll apareció detrás de él en el espejo—. Su cuerpo siempre supo la verdad. Solo su mente se resistía. —Sus manos enguantadas recorrieron sus costados—. El pelo era una mentira, Roberto. Era la mentira de que usted era un hombre como los demás. Pero usted no es como los demás. Usted es... especial.
 
-â€”Â¿Especial?
+—¿Especial?
 
-â€”Especialmente fÃ¡cil de moldear. â€”Su sonrisa fue casi afectuosaâ€”. Especialmente receptivo. Especialmente *necesitado* de alguien que le diga quÃ© hacer. La mayorÃ­a de los hombres luchan durante semanas. Usted... usted ya estÃ¡ cediendo. Ya estÃ¡ *disfrutando* de ceder.
+—Especialmente fácil de moldear. —Su sonrisa fue casi afectuosa—. Especialmente receptivo. Especialmente *necesitado* de alguien que le diga qué hacer. La mayoría de los hombres luchan durante semanas. Usted... usted ya está cediendo. Ya está *disfrutando* de ceder.
 
-â€”Eso no es...
+—Eso no es...
 
-â€”Su erecciÃ³n no miente. â€”Miss Doll bajÃ³ la mirada hacia su entrepiernaâ€”. Su erecciÃ³n me dice que esta es la vida que siempre quiso. Una vida donde alguien mÃ¡s toma las decisiones. Donde solo tiene que obedecer y ser bonito. â€”Sus dedos rozaron su mandibuÌlaâ€”. Y yo voy a darle esa vida. Aunque usted llore. Aunque usted suplique. Aunque una parte de usted todavÃ­a quiera escapar. Porque YO sÃ© lo que necesita mejor que usted mismo.
+—Su erección no miente. —Miss Doll bajó la mirada hacia su entrepierna—. Su erección me dice que esta es la vida que siempre quiso. Una vida donde alguien más toma las decisiones. Donde solo tiene que obedecer y ser bonito. —Sus dedos rozaron su mandibúla—. Y yo voy a darle esa vida. Aunque usted llore. Aunque usted suplique. Aunque una parte de usted todavía quiera escapar. Porque YO sé lo que necesita mejor que usted mismo.
 
-â€”A partir de hoy, mantendrÃ¡ este estado â€”ordenÃ³ Miss Dollâ€”. Si veo un solo pelo creciendo, lo arrancarÃ© con pinzas. Uno por uno. Mientras usted cuenta cada tirÃ³n en voz alta.
+—A partir de hoy, mantendrá este estado —ordenó Miss Doll—. Si veo un solo pelo creciendo, lo arrancaré con pinzas. Uno por uno. Mientras usted cuenta cada tirón en voz alta.
 
-Roberto asintiÃ³, mudo.
+Roberto asintió, mudo.
 
-Miss Doll caminÃ³ hacia su bolso y sacÃ³ un nuevo conjunto de lencerÃ­a. Esta vez, no era negra.
+Miss Doll caminó hacia su bolso y sacó un nuevo conjunto de lencería. Esta vez, no era negra.
 
-Era rosa neÃ³n.
+Era rosa neón.
 
-El mismo rosa brillante de sus tacones. Un conjunto chillÃ³n que gritaba "mÃ­rame" con cada fibra de su ser.
+El mismo rosa brillante de sus tacones. Un conjunto chillón que gritaba "mírame" con cada fibra de su ser.
 
-â€”El negro es para ejecutivas que aÃºn creen tener dignidad â€”dijo Miss Doll, extendiÃ©ndole las prendasâ€”. El rosa es para el personal de apoyo. Para quienes han aceptado su lugar.
+—El negro es para ejecutivas que aún creen tener dignidad —dijo Miss Doll, extendiéndole las prendas—. El rosa es para el personal de apoyo. Para quienes han aceptado su lugar.
 
-SeÃ±alÃ³ los broches del liguero.
+Señaló los broches del liguero.
 
-â€”Los sensores ya estÃ¡n instalados. Los mismos que en el conjunto anterior. Mismo sistema, mismas reglas. Tres minutos para el baÃ±o. Si intenta quitarse esta lencerÃ­a... â€”DejÃ³ la amenaza flotar en el aireâ€”. Ya sabe lo que pasa. VÃ­stase.
+—Los sensores ya están instalados. Los mismos que en el conjunto anterior. Mismo sistema, mismas reglas. Tres minutos para el baño. Si intenta quitarse esta lencería... —Dejó la amenaza flotar en el aire—. Ya sabe lo que pasa. Vístase.
 
-Roberto tomÃ³ la lencerÃ­a rosa. Las bragas eran diminutas, apenas un triÃ¡ngulo de encaje. El liguero era mÃ¡s elaborado que el anterior, con decoraciones de lazos. Las medias eran rosa claro, casi color piel pero con un brillo que gritaba artificial.
+Roberto tomó la lencería rosa. Las bragas eran diminutas, apenas un triángulo de encaje. El liguero era más elaborado que el anterior, con decoraciones de lazos. Las medias eran rosa claro, casi color piel pero con un brillo que gritaba artificial.
 
 Se las puso.
 
-El encaje rosa se sintiÃ³ diferente contra su piel depilada. MÃ¡s Ã­ntimo. MÃ¡s presente. Cada textura era amplificada por la sensibilidad de su piel reciÃ©n desnudada.
+El encaje rosa se sintió diferente contra su piel depilada. Más íntimo. Más presente. Cada textura era amplificada por la sensibilidad de su piel recién desnudada.
 
-Miss Doll sacÃ³ su telÃ©fono rosa.
+Miss Doll sacó su teléfono rosa.
 
 *Click. Click. Click.*
 
-Roberto ya no se sorprendiÃ³. Ya sabÃ­a lo que venÃ­a.
+Roberto ya no se sorprendió. Ya sabía lo que venía.
 
-â€”Carpeta rosa, secciÃ³n dos â€”dijo Miss Doll, revisando las fotos con satisfacciÃ³nâ€”. Roberto ValdÃ©s, Director Regional, cuerpo depilado, lencerÃ­a rosa de muÃ±eca. â€”GirÃ³ el telÃ©fono para mostrarle la pantallaâ€”. Â¿No es hermoso?
+—Carpeta rosa, sección dos —dijo Miss Doll, revisando las fotos con satisfacción—. Roberto Valdés, Director Regional, cuerpo depilado, lencería rosa de muñeca. —Giró el teléfono para mostrarle la pantalla—. ¿No es hermoso?
 
-La imagen era obscena. Roberto, liso y brillante, enfundado en encaje rosa, con una erecciÃ³n visible presionando contra las bragas diminutas.
+La imagen era obscena. Roberto, liso y brillante, enfundado en encaje rosa, con una erección visible presionando contra las bragas diminutas.
 
-â€”Estas fotos van con las demÃ¡s â€”continuÃ³ Miss Doll, guardando el telÃ©fonoâ€”. Y este conjunto se queda puesto hasta maÃ±ana. DormirÃ¡ con Ã©l. IrÃ¡ a trabajar con Ã©l. Y cuando llegue a casa, su esposa lo verÃ¡ con Ã©l... aunque ella no lo sepa.
+—Estas fotos van con las demás —continuó Miss Doll, guardando el teléfono—. Y este conjunto se queda puesto hasta mañana. Dormirá con él. Irá a trabajar con él. Y cuando llegue a casa, su esposa lo verá con él... aunque ella no lo sepa.
 
-Se mirÃ³ en el espejo.
+Se miró en el espejo.
 
-La persona que le devolvÃ­a la mirada era casi irreconocible. Un cuerpo liso, sin vello, enfundado en lencerÃ­a rosa de mujer. Piernas largas en medias brillantes. Una erecciÃ³n presionando contra braguitas de encaje.
+La persona que le devolvía la mirada era casi irreconocible. Un cuerpo liso, sin vello, enfundado en lencería rosa de mujer. Piernas largas en medias brillantes. Una erección presionando contra braguitas de encaje.
 
-Se veÃ­a como una muÃ±eca.
+Se veía como una muñeca.
 
-*Su* muÃ±eca.
+*Su* muñeca.
 
-â€”MaÃ±ana empezamos con la postura â€”dijo Miss Dollâ€”. Tiene que aprender a moverse como lo que va a ser.
+—Mañana empezamos con la postura —dijo Miss Doll—. Tiene que aprender a moverse como lo que va a ser.
 
-Roberto asintiÃ³, todavÃ­a mirÃ¡ndose en el espejo.
+Roberto asintió, todavía mirándose en el espejo.
 
-Ya no sentÃ­a humillaciÃ³n. SentÃ­a algo mÃ¡s. Algo mÃ¡s peligroso.
+Ya no sentía humillación. Sentía algo más. Algo más peligroso.
 
-SentÃ­a... curiosidad.
+Sentía... curiosidad.
 
-*Â¿CuÃ¡nto mÃ¡s puede cambiarme?*, se preguntÃ³.
+*¿Cuánto más puede cambiarme?*, se preguntó.
 
-Y la pregunta, por primera vez, no lo llenÃ³ de terror.
+Y la pregunta, por primera vez, no lo llenó de terror.
 
-Lo llenÃ³ de anticipaciÃ³n.
+Lo llenó de anticipación.
 
 ---
 
-Pero la anticipaciÃ³n se convirtiÃ³ en terror esa misma tarde.
+Pero la anticipación se convirtió en terror esa misma tarde.
 
-Roberto estaba en el baÃ±o de la oficina, lavÃ¡ndose las manos despuÃ©s de una reuniÃ³n particularmente larga. Se habÃ­a arremangado la camisa sin pensar â€”un gesto automÃ¡tico, algo que habÃ­a hecho miles de veces.
+Roberto estaba en el baño de la oficina, lavándose las manos después de una reunión particularmente larga. Se había arremangado la camisa sin pensar —un gesto automático, algo que había hecho miles de veces.
 
-La puerta se abriÃ³.
+La puerta se abrió.
 
-Fernando Ruiz, de Contabilidad, entrÃ³ silbando.
+Fernando Ruiz, de Contabilidad, entró silbando.
 
-Roberto se congelÃ³.
+Roberto se congeló.
 
-Sus brazos â€”sus brazos completamente, obscenamente depiladosâ€” estaban expuestos. La piel suave brillaba bajo la luz fluorescente. No habÃ­a forma de que Fernando no lo notara.
+Sus brazos —sus brazos completamente, obscenamente depilados— estaban expuestos. La piel suave brillaba bajo la luz fluorescente. No había forma de que Fernando no lo notara.
 
-Fernando caminÃ³ hacia el lavabo contiguo. Lo mirÃ³.
+Fernando caminó hacia el lavabo contiguo. Lo miró.
 
 Sus ojos bajaron hacia los brazos de Roberto.
 
-Se quedaron allÃ­.
+Se quedaron allí.
 
-â€”Oye, Roberto... â€”Fernando frunciÃ³ el ceÃ±oâ€”. Â¿Te depilaste los brazos?
+—Oye, Roberto... —Fernando frunció el ceño—. ¿Te depilaste los brazos?
 
 El silencio fue ensordecedor.
 
-La mente de Roberto corrÃ­a frenÃ©ticamente buscando una explicaciÃ³n. *Di algo. Di lo que sea. Diâ€”*
+La mente de Roberto corría frenéticamente buscando una explicación. *Di algo. Di lo que sea. Di—*
 
-â€”NataciÃ³n â€”soltÃ³.
+—Natación —soltó.
 
-Fernando arqueÃ³ las cejas. â€”Â¿NataciÃ³n?
+Fernando arqueó las cejas. —¿Natación?
 
-â€”SÃ­. â€”Roberto bajÃ³ las mangas con movimientos demasiado rÃ¡pidos, demasiado nerviososâ€”. AerodinÃ¡mica. He empezado a entrenar para un triatlÃ³n.
+—Sí. —Roberto bajó las mangas con movimientos demasiado rápidos, demasiado nerviosos—. Aerodinámica. He empezado a entrenar para un triatlón.
 
-â€”Â¿TÃº? â€”Fernando no ocultÃ³ su escepticismoâ€”. Â¿El hombre que sudaba subiendo las escaleras?
+—¿Tú? —Fernando no ocultó su escepticismo—. ¿El hombre que sudaba subiendo las escaleras?
 
-â€”Cambio de vida. â€”Roberto se secÃ³ las manos, evitando el contacto visualâ€”. Ya sabes cÃ³mo es. Crisis de los cuarenta. Hay que mantenerse en forma.
+—Cambio de vida. —Roberto se secó las manos, evitando el contacto visual—. Ya sabes cómo es. Crisis de los cuarenta. Hay que mantenerse en forma.
 
-Fernando lo mirÃ³ durante un segundo que pareciÃ³ una eternidad.
+Fernando lo miró durante un segundo que pareció una eternidad.
 
-â€”Claro. NataciÃ³n. â€”Su tono decÃ­a que no creÃ­a ni una palabraâ€”. Buena suerte con el triatlÃ³n, entonces.
+—Claro. Natación. —Su tono decía que no creía ni una palabra—. Buena suerte con el triatlón, entonces.
 
-SaliÃ³ del baÃ±o.
+Salió del baño.
 
-Roberto se apoyÃ³ contra el lavabo, el corazÃ³n latiendo tan fuerte que podÃ­a escucharlo en sus oÃ­dos.
+Roberto se apoyó contra el lavabo, el corazón latiendo tan fuerte que podía escucharlo en sus oídos.
 
-*NataciÃ³n. Le dije que era nataciÃ³n.*
+*Natación. Le dije que era natación.*
 
-Pero Fernando no era idiota. Y en una oficina como esta, los rumores viajaban mÃ¡s rÃ¡pido que los emails.
+Pero Fernando no era idiota. Y en una oficina como esta, los rumores viajaban más rápido que los emails.
 
 Si Fernando hablaba... si otros empezaban a hacer preguntas... si alguien conectaba los puntos entre los brazos depilados y las visitas diarias de Miss Doll...
 
-Roberto mirÃ³ su reflejo en el espejo.
+Roberto miró su reflejo en el espejo.
 
-El hombre que le devolvÃ­a la mirada tenÃ­a los ojos de alguien atrapado.
+El hombre que le devolvía la mirada tenía los ojos de alguien atrapado.
 
-*Â¿CuÃ¡nto tiempo antes de que la mentira se derrumbe?*, se preguntÃ³.
+*¿Cuánto tiempo antes de que la mentira se derrumbe?*, se preguntó.
 
 Y la respuesta que vino fue aterradora:
 
@@ -1104,872 +1104,872 @@ Y la respuesta que vino fue aterradora:
 ---
 
 
-# CapÃ­tulo 4: Protocolo de Rodillas (DÃ­a 4 - Jueves)
+# Capítulo 4: Protocolo de Rodillas (Día 4 - Jueves)
 
-El jueves, Roberto llegÃ³ temprano de nuevo.
+El jueves, Roberto llegó temprano de nuevo.
 
-Se estaba volviendo un hÃ¡bito. Antes, llegaba a las 9:05, haciendo esperar a todo el mundo como demostraciÃ³n de su poder. Ahora llegaba a las 7:45, ansioso por comenzar.
+Se estaba volviendo un hábito. Antes, llegaba a las 9:05, haciendo esperar a todo el mundo como demostración de su poder. Ahora llegaba a las 7:45, ansioso por comenzar.
 
-*Â¿Ansioso por quÃ©?*, se preguntÃ³ mientras estacionaba. *Â¿Ansioso por mÃ¡s humillaciÃ³n? Â¿MÃ¡s transformaciÃ³n?*
+*¿Ansioso por qué?*, se preguntó mientras estacionaba. *¿Ansioso por más humillación? ¿Más transformación?*
 
-La respuesta era sÃ­. Y cada dÃ­a le costaba menos admitirlo.
+La respuesta era sí. Y cada día le costaba menos admitirlo.
 
-La noche anterior habÃ­a sido un infierno.
+La noche anterior había sido un infierno.
 
-Claudia habÃ­a insistido en ver una pelÃ­cula en el sofÃ¡. Roberto habÃ­a pasado dos horas rÃ­gido, aterrorizado de que ella notara el brillo de las medias rosa asomando por los tobillos. HabÃ­a inventado una excusa sobre "mala circulaciÃ³n" para explicar los calcetines que usaba encima de las medias de mujer. HabÃ­a rechazado su mano cuando ella la deslizÃ³ hacia su muslo.
+Claudia había insistido en ver una película en el sofá. Roberto había pasado dos horas rígido, aterrorizado de que ella notara el brillo de las medias rosa asomando por los tobillos. Había inventado una excusa sobre "mala circulación" para explicar los calcetines que usaba encima de las medias de mujer. Había rechazado su mano cuando ella la deslizó hacia su muslo.
 
-Y en la cama, cuando Claudia se acercÃ³ insinuante, Roberto habÃ­a fingido un dolor de cabeza tan intenso que ella lo mirÃ³ preocupada.
+Y en la cama, cuando Claudia se acercó insinuante, Roberto había fingido un dolor de cabeza tan intenso que ella lo miró preocupada.
 
-*"DeberÃ­as ir al mÃ©dico"*, habÃ­a dicho.
+*"Deberías ir al médico"*, había dicho.
 
-*El Ãºnico mÃ©dico que necesito lleva lÃ¡tex rosa*, pensÃ³ Roberto.
+*El único médico que necesito lleva látex rosa*, pensó Roberto.
 
-Bajo su traje de ejecutivo, llevaba el conjunto rosa. Las braguitas de encaje acariciaban su piel depilada. El liguero tiraba con cada paso. Las medias susurraban contra sus pantalones. Los broches bluetooth vigilaban cada segundo. Y su polla, obediente como el resto de Ã©l, ya estaba medio dura antes de llegar a la puerta.
+Bajo su traje de ejecutivo, llevaba el conjunto rosa. Las braguitas de encaje acariciaban su piel depilada. El liguero tiraba con cada paso. Las medias susurraban contra sus pantalones. Los broches bluetooth vigilaban cada segundo. Y su polla, obediente como el resto de él, ya estaba medio dura antes de llegar a la puerta.
 
 Miss Doll lo esperaba en la oficina.
 
-Hoy llevaba un vestido-corsÃ© de lÃ¡tex rosa oscuro â€”casi fucsiaâ€” que se ajustaba a su cuerpo como una segunda piel. El corsÃ© estaba incorporado en la prenda, creando esa cintura imposible que Roberto ya asociaba con ella. Sus piernas estaban enfundadas en medias de red rosa, y sus tacones â€”de plataforma transparente con interior rosa espolvoreadoâ€” aÃ±adÃ­an los dieciocho centÃ­metros habituales.
+Hoy llevaba un vestido-corsé de látex rosa oscuro —casi fucsia— que se ajustaba a su cuerpo como una segunda piel. El corsé estaba incorporado en la prenda, creando esa cintura imposible que Roberto ya asociaba con ella. Sus piernas estaban enfundadas en medias de red rosa, y sus tacones —de plataforma transparente con interior rosa espolvoreado— añadían los dieciocho centímetros habituales.
 
-Pero lo que captÃ³ la atenciÃ³n de Roberto fue lo que habÃ­a en el suelo.
+Pero lo que captó la atención de Roberto fue lo que había en el suelo.
 
-Los archivadores habÃ­an sido vaciados. Cientos de carpetas formaban pilas por toda la oficina. Era un desastre administrativo que habrÃ­a horrorizado a cualquier gerente.
+Los archivadores habían sido vaciados. Cientos de carpetas formaban pilas por toda la oficina. Era un desastre administrativo que habría horrorizado a cualquier gerente.
 
-â€”El sistema de archivo es un desastre â€”anunciÃ³ Miss Doll, seÃ±alando las pilas con una uÃ±a rosa stilettoâ€”. Vamos a reorganizarlo. Todo va a los cajones inferiores.
+—El sistema de archivo es un desastre —anunció Miss Doll, señalando las pilas con una uña rosa stiletto—. Vamos a reorganizarlo. Todo va a los cajones inferiores.
 
-Roberto frunciÃ³ el ceÃ±o. â€”Pero eso no tiene sentido. Los documentos activos deberÃ­an estar a la altura de...
+Roberto frunció el ceño. —Pero eso no tiene sentido. Los documentos activos deberían estar a la altura de...
 
-â€”Los documentos van en los cajones inferiores â€”repitiÃ³ Miss Doll, como si hablara con un niÃ±o lentoâ€”. Todos ellos.
+—Los documentos van en los cajones inferiores —repitió Miss Doll, como si hablara con un niño lento—. Todos ellos.
 
-â€”Pero...
+—Pero...
 
-â€”Â¿Prefiere discutir o prefiere conservar su libertad?
+—¿Prefiere discutir o prefiere conservar su libertad?
 
-Roberto cerrÃ³ la boca.
+Roberto cerró la boca.
 
-Se agachÃ³ para recoger la primera carpeta.
+Se agachó para recoger la primera carpeta.
 
-*Â¡CRACK!*
+*¡CRACK!*
 
-El lÃ¡tigo de Miss Doll golpeÃ³ el escritorio a centÃ­metros de su mano. El sonido fue explosivo en el silencio de la oficina.
+El látigo de Miss Doll golpeó el escritorio a centímetros de su mano. El sonido fue explosivo en el silencio de la oficina.
 
-â€”Â¡No! â€”Su voz fue hielo cortante. No gritaba. Era peor: pronunciaba cada sÃ­laba como una sentenciaâ€”. Postura incorrecta.
+—¡No! —Su voz fue hielo cortante. No gritaba. Era peor: pronunciaba cada sílaba como una sentencia—. Postura incorrecta.
 
-Roberto se congelÃ³, la mano aÃºn extendida hacia la carpeta.
+Roberto se congeló, la mano aún extendida hacia la carpeta.
 
-â€”Â¿CÃ³mo quiere que recoja las carpetas entonces?
+—¿Cómo quiere que recoja las carpetas entonces?
 
-Miss Doll no respondiÃ³ inmediatamente. En cambio, caminÃ³ hacia Ã©l con pasos medidos. *Click. Click. Click.* Cada tacÃ³n era un latÃ­gado de anticipaciÃ³n. Se detuvo a centÃ­metros de Ã©l, tan cerca que Roberto podÃ­a oler su perfume de vainilla, y bajÃ³ la mirada con la calma de un cientÃ­fico observando un espÃ©cimen.
+Miss Doll no respondió inmediatamente. En cambio, caminó hacia él con pasos medidos. *Click. Click. Click.* Cada tacón era un latígado de anticipación. Se detuvo a centímetros de él, tan cerca que Roberto podía oler su perfume de vainilla, y bajó la mirada con la calma de un científico observando un espécimen.
 
-â€”Un ejecutivo se agacha â€”dijo ella, su voz suave pero letalâ€”. Un sirviente se arrodilla. Y tÃº... â€”su dedo enguantado tocÃ³ su barbilla, obligÃ¡ndolo a mirarlaâ€” ...ya no eres un ejecutivo.
+—Un ejecutivo se agacha —dijo ella, su voz suave pero letal—. Un sirviente se arrodilla. Y tú... —su dedo enguantado tocó su barbilla, obligándolo a mirarla— ...ya no eres un ejecutivo.
 
-Esa sonrisa de tiburÃ³n. FrÃ­a. Calculadora. Sin un Ã¡tomo de empatÃ­a.
+Esa sonrisa de tiburón. Fría. Calculadora. Sin un átomo de empatía.
 
-â€”De rodillas.
+—De rodillas.
 
 *De rodillas.*
 
-Roberto mirÃ³ las pilas de carpetas. MirÃ³ los cajones inferiores. MirÃ³ su propia ropa: el traje de ejecutivo que ocultaba la lencerÃ­a rosa.
+Roberto miró las pilas de carpetas. Miró los cajones inferiores. Miró su propia ropa: el traje de ejecutivo que ocultaba la lencería rosa.
 
-Y entendiÃ³.
+Y entendió.
 
 Esto no era sobre archivos. Esto era sobre destruir al Director Regional. Una carpeta a la vez. Una rodilla a la vez.
 
-Lentamente, se arrodillÃ³ en la alfombra. La posiciÃ³n hizo que los tirantes del liguero se tensaran. Que las braguitas de encaje se ajustaran entre sus nalgas. Que su polla presionara contra la tela, buscando espacio que no existÃ­a.
+Lentamente, se arrodilló en la alfombra. La posición hizo que los tirantes del liguero se tensaran. Que las braguitas de encaje se ajustaran entre sus nalgas. Que su polla presionara contra la tela, buscando espacio que no existía.
 
-â€”El Protocolo de Rodillas es la base de su nueva existencia â€”explicÃ³ Miss Doll, caminando a su alrededor con la precisiÃ³n de un cirujanoâ€”. Una buena secretaria pasa el cuarenta por ciento de su tiempo de rodillas. Archivando. Buscando documentos. Atendiendo necesidades de sus superiores. *Sirviendo.*
+—El Protocolo de Rodillas es la base de su nueva existencia —explicó Miss Doll, caminando a su alrededor con la precisión de un cirujano—. Una buena secretaria pasa el cuarenta por ciento de su tiempo de rodillas. Archivando. Buscando documentos. Atendiendo necesidades de sus superiores. *Sirviendo.*
 
-Se detuvo frente a Ã©l. Lo mirÃ³ desde arriba con esa expresiÃ³n de dominio total.
+Se detuvo frente a él. Lo miró desde arriba con esa expresión de dominio total.
 
-â€”Su vida anterior terminÃ³. El Roberto que llegaba tarde, que daba Ã³rdenes, que se creÃ­a importante... ese hombre estÃ¡ muriendo. Cada vez que se arrodilla, muere un poco mÃ¡s. Cada vez que obedece, nace algo nuevo en su lugar. â€”Se inclinÃ³ hacia Ã©l, su voz un susurro cortanteâ€”. Algo Ãºtil. Algo bonito. Algo *mÃ­o*.
+—Su vida anterior terminó. El Roberto que llegaba tarde, que daba órdenes, que se creía importante... ese hombre está muriendo. Cada vez que se arrodilla, muere un poco más. Cada vez que obedece, nace algo nuevo en su lugar. —Se inclinó hacia él, su voz un susurro cortante—. Algo útil. Algo bonito. Algo *mío*.
 
-Ella se sentÃ³ en la silla del Director â€”su silla, que ya sentÃ­a menos suya cada dÃ­aâ€” y cruzÃ³ las piernas con un susurro de lÃ¡tex.
+Ella se sentó en la silla del Director —su silla, que ya sentía menos suya cada día— y cruzó las piernas con un susurro de látex.
 
-â€”El ejercicio es simple. Coge una carpeta. Abre las piernas. Arquea la espalda. Archiva. LevÃ¡ntate sobre las rodillas. Repite. No te pongas de pie. No camines. Solo rodillas. â€”Sus ojos lo atravesaronâ€”. Y cada vez que lo hagas correctamente, dirÃ¡s "Gracias, Miss Doll". Cada vez. Sin excepciones.
+—El ejercicio es simple. Coge una carpeta. Abre las piernas. Arquea la espalda. Archiva. Levántate sobre las rodillas. Repite. No te pongas de pie. No camines. Solo rodillas. —Sus ojos lo atravesaron—. Y cada vez que lo hagas correctamente, dirás "Gracias, Miss Doll". Cada vez. Sin excepciones.
 
-Roberto tomÃ³ la primera carpeta.
+Roberto tomó la primera carpeta.
 
-â€”MÃ¡s â€”ordenÃ³ Miss Dollâ€”. Abre mÃ¡s las piernas. Quiero que cualquiera que pase por detrÃ¡s tenga una vista perfecta de tu culo. Quiero que tu postura diga "estoy disponible".
+—Más —ordenó Miss Doll—. Abre más las piernas. Quiero que cualquiera que pase por detrás tenga una vista perfecta de tu culo. Quiero que tu postura diga "estoy disponible".
 
-Roberto abriÃ³ mÃ¡s las piernas. La posiciÃ³n era obscena. Desde atrÃ¡s, con los pantalones estirados sobre su trasero, la lÃ­nea del liguero era probablemente visible. La forma de las braguitas se marcaba contra la tela.
+Roberto abrió más las piernas. La posición era obscena. Desde atrás, con los pantalones estirados sobre su trasero, la línea del liguero era probablemente visible. La forma de las braguitas se marcaba contra la tela.
 
-Se inclinÃ³ hacia el cajÃ³n inferior. ArchivÃ³ la carpeta.
+Se inclinó hacia el cajón inferior. Archivó la carpeta.
 
-â€”Repite â€”dijo Miss Doll.
+—Repite —dijo Miss Doll.
 
-Y Roberto repitiÃ³.
+Y Roberto repitió.
 
 *Bajar. Abrir. Arquear. Archivar. Subir.*
 
 Al principio, fue una tortura.
 
-Sus rodillas protestaban contra la alfombra Ã¡spera. Su espalda se quejaba de la posiciÃ³n antinatural. Su mente bullÃ­a con resentimiento, con planes de escape, con fantasÃ­as de llamar a la policÃ­a y confesar todo antes de que Miss Doll pudiera enviar el dossier.
+Sus rodillas protestaban contra la alfombra áspera. Su espalda se quejaba de la posición antinatural. Su mente bullía con resentimiento, con planes de escape, con fantasías de llamar a la policía y confesar todo antes de que Miss Doll pudiera enviar el dossier.
 
-Pero despuÃ©s de la carpeta nÃºmero cincuenta, algo empezÃ³ a cambiar.
+Pero después de la carpeta número cincuenta, algo empezó a cambiar.
 
-El dolor se volviÃ³ un zumbido de fondo. El movimiento se volviÃ³ automÃ¡tico.
+El dolor se volvió un zumbido de fondo. El movimiento se volvió automático.
 
 *Bajar. Abrir. Arquear. Archivar. Subir. Gracias, Miss Doll.*
 
-Sus pensamientos se ralentizaron. DejÃ³ de planear. DejÃ³ de resistir.
+Sus pensamientos se ralentizaron. Dejó de planear. Dejó de resistir.
 
-â€”Â¿Quien eres? â€”preguntÃ³ Miss Doll de repente.
+—¿Quien eres? —preguntó Miss Doll de repente.
 
 Roberto se detuvo, confundido.
 
-â€”Soy... Roberto ValdÃ©sâ€”
+—Soy... Roberto Valdés—
 
 *CRACK.*
 
-El lÃ¡tigo golpeÃ³ el suelo a su lado.
+El látigo golpeó el suelo a su lado.
 
-â€”Error. IntÃ©ntalo de nuevo. Â¿QuiÃ©n eres?
+—Error. Inténtalo de nuevo. ¿Quién eres?
 
-Roberto tragÃ³ saliva. â€”Â¿El... el Director Regional?
+Roberto tragó saliva. —¿El... el Director Regional?
 
 *CRACK.*
 
-â€”Error. Los directores no estÃ¡n de rodillas. Los directores no usan braguitas rosa. Los directores no dicen "Gracias, Miss Doll" cada vez que archivan una carpeta. â€”Se inclinÃ³ hacia Ã©lâ€”. Entonces, Â¿quiÃ©n eres?
+—Error. Los directores no están de rodillas. Los directores no usan braguitas rosa. Los directores no dicen "Gracias, Miss Doll" cada vez que archivan una carpeta. —Se inclinó hacia él—. Entonces, ¿quién eres?
 
-El silencio se extendiÃ³.
+El silencio se extendió.
 
-â€”Soy... â€”Roberto sintiÃ³ las palabras atascadas en su gargantaâ€” ...su sirviente.
+—Soy... —Roberto sintió las palabras atascadas en su garganta— ...su sirviente.
 
-Miss Doll sonriÃ³.
+Miss Doll sonrió.
 
-â€”Mejor. Di: "Soy la servidora de Miss Doll".
+—Mejor. Di: "Soy la servidora de Miss Doll".
 
-â€”Soy... la servidora de Miss Doll.
+—Soy... la servidora de Miss Doll.
 
-â€”"Estoy de rodillas porque es mi lugar".
+—"Estoy de rodillas porque es mi lugar".
 
-â€”Estoy de rodillas porque es mi lugar.
+—Estoy de rodillas porque es mi lugar.
 
-â€”"Obedezco porque sirvo. Sirvo porque existo".
+—"Obedezco porque sirvo. Sirvo porque existo".
 
-Roberto repitiÃ³ las palabras. Cada una se sintiÃ³ como un clavo entrando en su antigua identidad.
+Roberto repitió las palabras. Cada una se sintió como un clavo entrando en su antigua identidad.
 
-â€”Bien. Ahora continÃºa archivando. Y cada diez carpetas, repetirÃ¡s esas tres frases. Sin que te lo pida.
+—Bien. Ahora continúa archivando. Y cada diez carpetas, repetirás esas tres frases. Sin que te lo pida.
 
-Y Roberto continuÃ³.
+Y Roberto continuó.
 
 *Bajar. Abrir. Arquear. Archivar. Subir. Gracias, Miss Doll.*
 
-Solo existÃ­a la carpeta siguiente. Solo existÃ­a el siguiente movimiento. Solo existÃ­a la voz de Miss Doll diciendo "Bien" cuando lo hacÃ­a correctamente o "Corrige" cuando su espalda no estaba suficientemente arqueada.
+Solo existía la carpeta siguiente. Solo existía el siguiente movimiento. Solo existía la voz de Miss Doll diciendo "Bien" cuando lo hacía correctamente o "Corrige" cuando su espalda no estaba suficientemente arqueada.
 
 Y cada diez carpetas, sin falta:
 
 *"Soy la servidora de Miss Doll. Estoy de rodillas porque es mi lugar. Obedezco porque sirvo. Sirvo porque existo."*
 
-Era como meditaciÃ³n. Como oraciÃ³n. Como reprogramaciÃ³n.
+Era como meditación. Como oración. Como reprogramación.
 
-La carpeta nÃºmero cien llegÃ³ y pasÃ³ sin que Roberto se diera cuenta.
+La carpeta número cien llegó y pasó sin que Roberto se diera cuenta.
 
-En algÃºn momento, Miss Doll dejÃ³ caer un bolÃ­grafo al suelo.
+En algún momento, Miss Doll dejó caer un bolígrafo al suelo.
 
-Sin pensarlo â€”sin ni siquiera decidir hacerloâ€” Roberto se deslizÃ³ sobre sus rodillas hacia donde habÃ­a caÃ­do, lo recogiÃ³ con delicadeza, y lo ofreciÃ³ con ambas manos hacia arriba, la cabeza baja, esperando.
+Sin pensarlo —sin ni siquiera decidir hacerlo— Roberto se deslizó sobre sus rodillas hacia donde había caído, lo recogió con delicadeza, y lo ofreció con ambas manos hacia arriba, la cabeza baja, esperando.
 
-El silencio que siguiÃ³ fue ensordecedor.
+El silencio que siguió fue ensordecedor.
 
-Roberto parpadeÃ³. MirÃ³ sus propias manos, sosteniendo el bolÃ­grafo como una ofrenda. MirÃ³ su posiciÃ³n: de rodillas, con la espalda arqueada, las piernas abiertas, esperando aprobaciÃ³n.
+Roberto parpadeó. Miró sus propias manos, sosteniendo el bolígrafo como una ofrenda. Miró su posición: de rodillas, con la espalda arqueada, las piernas abiertas, esperando aprobación.
 
-No se habÃ­a levantado.
+No se había levantado.
 
-No se habÃ­a quejado.
+No se había quejado.
 
-HabÃ­a servido desde el suelo, automÃ¡ticamente, como si su cuerpo supiera quÃ© hacer antes que su cerebro pudiera interferir.
+Había servido desde el suelo, automáticamente, como si su cuerpo supiera qué hacer antes que su cerebro pudiera interferir.
 
 Como un perro bien entrenado.
 
 Como una sirvienta perfecta.
 
-Miss Doll tomÃ³ el bolÃ­grafo con un movimiento lÃ¡nguido. Sus dedos enguantados rozaron los de Roberto, y ella dejÃ³ que el contacto durara un segundo mÃ¡s de lo necesario.
+Miss Doll tomó el bolígrafo con un movimiento lánguido. Sus dedos enguantados rozaron los de Roberto, y ella dejó que el contacto durara un segundo más de lo necesario.
 
-â€”Memoria muscular â€”dijo ella, su voz cÃ¡lida por primera vezâ€”. Tu cuerpo estÃ¡ aprendiendo su lugar antes que tu cerebro. Eso es *muy* bueno.
+—Memoria muscular —dijo ella, su voz cálida por primera vez—. Tu cuerpo está aprendiendo su lugar antes que tu cerebro. Eso es *muy* bueno.
 
-Su mano enguantada bajÃ³ y acariciÃ³ su mejilla. El tacto fue suave. Casi tierno.
+Su mano enguantada bajó y acarició su mejilla. El tacto fue suave. Casi tierno.
 
-â€”Cuando obedeces, cuando sirves sin pensar, me haces feliz. Y cuando me haces feliz... â€”Sus dedos trazaron su mandÃ­bulaâ€” ...hay recompensas.
+—Cuando obedeces, cuando sirves sin pensar, me haces feliz. Y cuando me haces feliz... —Sus dedos trazaron su mandíbula— ...hay recompensas.
 
-Roberto sintiÃ³ que la cara le ardÃ­a. Pero no de vergÃ¼enza. De algo mÃ¡s. De *deseo* de complacerla.
+Roberto sintió que la cara le ardía. Pero no de vergüenza. De algo más. De *deseo* de complacerla.
 
-No se moviÃ³. Se quedÃ³ allÃ­, de rodillas, esperando la siguiente orden. Esperando mÃ¡s contacto. Esperando mÃ¡s aprobaciÃ³n.
+No se movió. Se quedó allí, de rodillas, esperando la siguiente orden. Esperando más contacto. Esperando más aprobación.
 
-*Â¿Por quÃ© no me levanto?*, se preguntÃ³.
+*¿Por qué no me levanto?*, se preguntó.
 
-*Porque se siente... correcto*, respondiÃ³ una voz en su interior. La voz oscura que crecÃ­a cada dÃ­a. *Porque arrodillado a sus pies es donde perteneces. Porque cuando ella te toca asÃ­, cuando ella te dice "bien"... es mejor que cualquier promociÃ³n. Mejor que cualquier bono. Mejor que el sexo con Claudia.*
+*Porque se siente... correcto*, respondió una voz en su interior. La voz oscura que crecía cada día. *Porque arrodillado a sus pies es donde perteneces. Porque cuando ella te toca así, cuando ella te dice "bien"... es mejor que cualquier promoción. Mejor que cualquier bono. Mejor que el sexo con Claudia.*
 
 *Porque eres su sirvienta. Y eso te hace feliz.*
 
-Miss Doll extendiÃ³ un pie.
+Miss Doll extendió un pie.
 
 Este era el premio.
 
-El tacÃ³n rosa brillÃ³ bajo las luces fluorescentes como una joya obscena. La plataforma de acrÃ­lico transparente dejaba ver las curvas perfectas de su empeine. El material rosa brillante, el brillo del cuero, el aroma a lÃ¡tex y vainilla que emanaba de ella...
+El tacón rosa brilló bajo las luces fluorescentes como una joya obscena. La plataforma de acrílico transparente dejaba ver las curvas perfectas de su empeine. El material rosa brillante, el brillo del cuero, el aroma a látex y vainilla que emanaba de ella...
 
 La punta casi rozaba la barbilla de Roberto.
 
-â€”Has trabajado bien hoy â€”dijo Miss Doll, su voz suave como sedaâ€”. Has dicho tus frases sin que te lo pidiera. Has servido sin quejarte. Tu cuerpo ha aprendido.
+—Has trabajado bien hoy —dijo Miss Doll, su voz suave como seda—. Has dicho tus frases sin que te lo pidiera. Has servido sin quejarte. Tu cuerpo ha aprendido.
 
-Su pie se acercÃ³ un centÃ­metro mÃ¡s.
+Su pie se acercó un centímetro más.
 
-â€”Las buenas sirvientas merecen recompensas. BÃ©salo.
+—Las buenas sirvientas merecen recompensas. Bésalo.
 
-Roberto mirÃ³ el tacÃ³n. Lo mirÃ³ durante un segundo que se estirÃ³ como una eternidad.
+Roberto miró el tacón. Lo miró durante un segundo que se estiró como una eternidad.
 
-*No voy a besar un zapato*, pensÃ³ la parte de Ã©l que aÃºn recordaba ser Director. *Eso es demasiado. Eso cruza una lÃ­nea.*
+*No voy a besar un zapato*, pensó la parte de él que aún recordaba ser Director. *Eso es demasiado. Eso cruza una línea.*
 
-Pero otra parte â€”la parte oscura que habÃ­a despertado esa semanaâ€” ya estaba salivando.
+Pero otra parte —la parte oscura que había despertado esa semana— ya estaba salivando.
 
-Miss Doll esperÃ³. No insistiÃ³. No amenazÃ³. Solo esperÃ³, con la paciencia de quien sabe que ha ganado.
+Miss Doll esperó. No insistió. No amenazó. Solo esperó, con la paciencia de quien sabe que ha ganado.
 
-Roberto se inclinÃ³ hacia adelante.
+Roberto se inclinó hacia adelante.
 
-Primero sintiÃ³ el olor: cuero, lÃ¡tex, y ese perfume de vainilla que ya asociaba con sumisiÃ³n. Luego sintiÃ³ la textura contra sus labios: cuero suave, cÃ¡lido por el calor del pie de Miss Doll dentro. Sus labios presionaron contra el material y la sensaciÃ³n se extendiÃ³ como electricidad por todo su cuerpo.
+Primero sintió el olor: cuero, látex, y ese perfume de vainilla que ya asociaba con sumisión. Luego sintió la textura contra sus labios: cuero suave, cálido por el calor del pie de Miss Doll dentro. Sus labios presionaron contra el material y la sensación se extendió como electricidad por todo su cuerpo.
 
 Era un beso.
 
-No un beso de amor â€”era un beso de *adoraciÃ³n*.
+No un beso de amor —era un beso de *adoración*.
 
-Algo en su pecho se apretÃ³. Algo en su entrepierna pulsÃ³. Y algo en su mente â€”una pared que habÃ­a mantenido levantada durante cuarenta y dos aÃ±osâ€” se derrumbÃ³ con el sonido silencioso de un mundo que ya no existÃ­a.
+Algo en su pecho se apretó. Algo en su entrepierna pulsó. Y algo en su mente —una pared que había mantenido levantada durante cuarenta y dos años— se derrumbó con el sonido silencioso de un mundo que ya no existía.
 
-El sabor fue extraÃ±o: artificial, ligeramente quÃ­mico, con un toque del perfume de vainilla. Pero tambiÃ©n fue *narcÃ³tico*. Adictivo. QuerÃ­a mÃ¡s. QuerÃ­a lamer el tacÃ³n desde la base hasta la punta. QuerÃ­a meterse el zapato entero en la boca. QuerÃ­a hundirse en el suelo y nunca levantarse.
+El sabor fue extraño: artificial, ligeramente químico, con un toque del perfume de vainilla. Pero también fue *narcótico*. Adictivo. Quería más. Quería lamer el tacón desde la base hasta la punta. Quería meterse el zapato entero en la boca. Quería hundirse en el suelo y nunca levantarse.
 
-*Â¿QuÃ© me estÃ¡ pasando?*, pensÃ³ Roberto con lo que quedaba de su mente racional.
+*¿Qué me está pasando?*, pensó Roberto con lo que quedaba de su mente racional.
 
-Pero ya sabÃ­a la respuesta.
+Pero ya sabía la respuesta.
 
-Estaba convirtiÃ©ndose en lo que Miss Doll querÃ­a que fuera.
+Estaba convirtiéndose en lo que Miss Doll quería que fuera.
 
-â€”Buen perro â€”ronroneÃ³ Miss Doll, retirando lentamente el pie.
+—Buen perro —ronroneó Miss Doll, retirando lentamente el pie.
 
 A Roberto, arrodillado en su propia oficina con el sabor del zapato de una mujer en sus labios, las palabras no sonaron como un insulto.
 
-Sonaron como el cumplido mÃ¡s dulce que habÃ­a recibido en su vida.
+Sonaron como el cumplido más dulce que había recibido en su vida.
 
 Sonaron como *permiso para existir*.
 
-Miss Doll lo mirÃ³ con algo parecido al orgullo.
+Miss Doll lo miró con algo parecido al orgullo.
 
-â€”Â¿Ve lo fÃ¡cil que fue? â€”dijo suavementeâ€”. Ayer habrÃ­a muerto antes de hacer esto. Hoy... hoy lo deseaba. â€”Se inclinÃ³ hacia Ã©lâ€”. Eso es porque estÃ¡ dejando de pelear. EstÃ¡ dejando que su verdadero yo emerja. El ser que siempre quiso arrodillarse. Que siempre quiso servir. Que siempre supo que la libertad era una carga demasiado pesada.
+—¿Ve lo fácil que fue? —dijo suavemente—. Ayer habría muerto antes de hacer esto. Hoy... hoy lo deseaba. —Se inclinó hacia él—. Eso es porque está dejando de pelear. Está dejando que su verdadero yo emerja. El ser que siempre quiso arrodillarse. Que siempre quiso servir. Que siempre supo que la libertad era una carga demasiado pesada.
 
-â€”Yo no... â€”empezÃ³ Roberto, pero su voz muriÃ³.
+—Yo no... —empezó Roberto, pero su voz murió.
 
-â€”No mienta. No a mÃ­. â€”Miss Doll alzÃ³ su mentÃ³nâ€”. Acaba de besar mi zapato con mÃ¡s pasiÃ³n de la que ha besado a Claudia en aÃ±os. Acaba de temblar de placer al obedecerme. Su cuerpo ha elegido, Roberto. Su mente solo tiene que aceptarlo.
+—No mienta. No a mí. —Miss Doll alzó su mentón—. Acaba de besar mi zapato con más pasión de la que ha besado a Claudia en años. Acaba de temblar de placer al obedecerme. Su cuerpo ha elegido, Roberto. Su mente solo tiene que aceptarlo.
 
-Y mientras hablaba, Roberto sintiÃ³ que algo se rompÃ­a. No dolorosamente. MÃ¡s como un alivio. Como cuando finalmente sueltas algo que has estado cargando durante demasiado tiempo.
+Y mientras hablaba, Roberto sintió que algo se rompía. No dolorosamente. Más como un alivio. Como cuando finalmente sueltas algo que has estado cargando durante demasiado tiempo.
 
-*Ella tiene razÃ³n*, susurrÃ³ la voz oscura. *Esto es mÃ¡s fÃ¡cil. Esto es mejor. Esto es... casa.*
+*Ella tiene razón*, susurró la voz oscura. *Esto es más fácil. Esto es mejor. Esto es... casa.*
 
-Miss Doll sostuvo su telÃ©fono rosa frente a Ã©l. La pantalla mostraba un video.
+Miss Doll sostuvo su teléfono rosa frente a él. La pantalla mostraba un video.
 
-De Ã©l. De rodillas. Besando el tacÃ³n. Con los ojos cerrados. Con expresiÃ³n de *Ã©xtasis*.
+De él. De rodillas. Besando el tacón. Con los ojos cerrados. Con expresión de *éxtasis*.
 
-â€”Carpeta rosa â€”dijo Miss Doll, guardando el telÃ©fonoâ€”. Esto va despuÃ©s de las fotos en lencerÃ­a. Creo que le voy a poner tÃ­tulo: "El Director besa zapatos". Â¿Le gusta?
+—Carpeta rosa —dijo Miss Doll, guardando el teléfono—. Esto va después de las fotos en lencería. Creo que le voy a poner título: "El Director besa zapatos". ¿Le gusta?
 
-Roberto sintiÃ³ que el estÃ³mago se le caÃ­a a los pies.
+Roberto sintió que el estómago se le caía a los pies.
 
-Ya no eran solo fotos estÃ¡ticas. Ahora habÃ­a video. Video de Ã©l *eligiendo* besar un zapato. Video que mostraba que no estaba simplemente obedeciendo bajo amenaza â€”estaba *disfrutando*.
+Ya no eran solo fotos estáticas. Ahora había video. Video de él *eligiendo* besar un zapato. Video que mostraba que no estaba simplemente obedeciendo bajo amenaza —estaba *disfrutando*.
 
-â€”Con las fotos, podrÃ­a argumentar que lo obliguÃ© â€”continuÃ³ Miss Doll, caminando hacia su bolsoâ€”. Pero este video... este video muestra algo diferente. Muestra a un hombre que *quiere* estar de rodillas. Que *busca* la humillaciÃ³n. Que *necesita* servir.
+—Con las fotos, podría argumentar que lo obligué —continuó Miss Doll, caminando hacia su bolso—. Pero este video... este video muestra algo diferente. Muestra a un hombre que *quiere* estar de rodillas. Que *busca* la humillación. Que *necesita* servir.
 
-Roberto no tenÃ­a respuesta. Porque era verdad.
+Roberto no tenía respuesta. Porque era verdad.
 
-â€”CooperaciÃ³n total â€”repitiÃ³ Miss Doll, la frase ya familiarâ€”. Y todo esto se queda entre nosotros. Â¿Entendido?
+—Cooperación total —repitió Miss Doll, la frase ya familiar—. Y todo esto se queda entre nosotros. ¿Entendido?
 
-â€”Entendido â€”susurrÃ³ Roberto.
+—Entendido —susurró Roberto.
 
 ---
 
-Las horas siguientes fueron un borrÃ³n de rodillas y archivos, de obediencia y rendiciÃ³n.
+Las horas siguientes fueron un borrón de rodillas y archivos, de obediencia y rendición.
 
-Para cuando Miss Doll anunciÃ³ que el entrenamiento habÃ­a terminado, Roberto habÃ­a reorganizado todo el sistema de archivos y habÃ­a perdido toda nociÃ³n del tiempo.
+Para cuando Miss Doll anunció que el entrenamiento había terminado, Roberto había reorganizado todo el sistema de archivos y había perdido toda noción del tiempo.
 
-â€”MaÃ±ana es viernes â€”dijo ella, recogiendo su bolsoâ€”. DÃ­a de prueba. Quiero verte de falda.
+—Mañana es viernes —dijo ella, recogiendo su bolso—. Día de prueba. Quiero verte de falda.
 
-â€”Â¿Falda? â€”El corazÃ³n de Roberto se acelerÃ³.
+—¿Falda? —El corazón de Roberto se aceleró.
 
-â€”Tengo tu uniforme preparado. LlegarÃ¡s por la puerta de servicio a las 6:30 AM, antes de que llegue nadie.
+—Tengo tu uniforme preparado. Llegarás por la puerta de servicio a las 6:30 AM, antes de que llegue nadie.
 
-Pero antes de irse, Miss Doll sacÃ³ otra cosa de su bolso. Una caja. Esta vez, coral.
+Pero antes de irse, Miss Doll sacó otra cosa de su bolso. Una caja. Esta vez, coral.
 
-â€”Tu nuevo conjunto para esta noche. â€”Se lo extendiÃ³â€”. El rosa ya estÃ¡ gastado. Esta es una mejora.
+—Tu nuevo conjunto para esta noche. —Se lo extendió—. El rosa ya está gastado. Esta es una mejora.
 
-Roberto abriÃ³ la caja con manos que ya sabÃ­an quÃ© esperar.
+Roberto abrió la caja con manos que ya sabían qué esperar.
 
-LencerÃ­a coral. No rosa. No negra. Coral, como los labios de Miss Doll. Como el atardecer sobre un desierto. Las bragas eran mÃ¡s pequeÃ±as que las anteriores â€”apenas un hiloâ€” y el liguero tenÃ­a pequeÃ±os cristales cosidos que brillaban bajo la luz.
+Lencería coral. No rosa. No negra. Coral, como los labios de Miss Doll. Como el atardecer sobre un desierto. Las bragas eran más pequeñas que las anteriores —apenas un hilo— y el liguero tenía pequeños cristales cosidos que brillaban bajo la luz.
 
-â€”MÃ¡s bonito â€”dijo Miss Dollâ€”. MÃ¡s apropiado para lo que estÃ¡s convirtiÃ©ndote. Los sensores bluetooth ya estÃ¡n instalados en los broches. Mismo sistema. Mismas reglas.
+—Más bonito —dijo Miss Doll—. Más apropiado para lo que estás convirtiéndote. Los sensores bluetooth ya están instalados en los broches. Mismo sistema. Mismas reglas.
 
-Roberto asintiÃ³.
+Roberto asintió.
 
-â€”Quiero que te lo pongas ahora. Antes de irte.
+—Quiero que te lo pongas ahora. Antes de irte.
 
-En el baÃ±o de la oficina, Roberto se quitÃ³ el conjunto rosa y se puso el coral. Los cristales del liguero rozaban su piel con cada movimiento, pequeÃ±os recordatorios de que era un objeto decorativo. Una muÃ±eca.
+En el baño de la oficina, Roberto se quitó el conjunto rosa y se puso el coral. Los cristales del liguero rozaban su piel con cada movimiento, pequeños recordatorios de que era un objeto decorativo. Una muñeca.
 
-Cuando saliÃ³, Miss Doll le tomÃ³ fotos.
+Cuando salió, Miss Doll le tomó fotos.
 
 *Click. Click. Click.*
 
-â€”Carpeta rosa, secciÃ³n cuatro â€”dijoâ€”. "Roberta en coral". Cada conjunto merece su propia galerÃ­a. â€”GuardÃ³ el telÃ©fonoâ€”. Ahora vete a casa. Y Roberto... esta noche, cuando Claudia te pregunte por quÃ© estÃ¡s raro... recuerda que tengo fotos de cada etapa de tu transformaciÃ³n. Y video de ti besando mi zapato.
+—Carpeta rosa, sección cuatro —dijo—. "Roberta en coral". Cada conjunto merece su propia galería. —Guardó el teléfono—. Ahora vete a casa. Y Roberto... esta noche, cuando Claudia te pregunte por qué estás raro... recuerda que tengo fotos de cada etapa de tu transformación. Y video de ti besando mi zapato.
 
-La amenaza flotÃ³ en el aire como perfume venenoso.
+La amenaza flotó en el aire como perfume venenoso.
 
-â€”CooperaciÃ³n total â€”susurrÃ³ Roberto.
+—Cooperación total —susurró Roberto.
 
-â€”CooperaciÃ³n total â€”confirmÃ³ Miss Dollâ€”. Dulces sueÃ±os.
-
----
-
-Esa noche, Claudia estaba esperÃ¡ndolo.
-
-No en el sentido normal. No preparando la cena o leyendo en el sofÃ¡. Estaba sentada en la mesa del comedor con los brazos cruzados y una expresiÃ³n que Roberto reconociÃ³ inmediatamente: la expresiÃ³n de "vamos a tener una conversaciÃ³n".
-
-â€”Tenemos que hablar â€”dijo ella.
-
-Roberto sintiÃ³ que el estÃ³mago se le caÃ­a a los pies.
-
-â€”Â¿Sobre quÃ©?
-
-â€”Sobre ti. â€”Claudia se levantÃ³ y caminÃ³ hacia Ã©lâ€”. Llevas toda la semana raro. No duermes. No me tocas. Usas calcetines para dormir. Te duchas con la puerta cerrada. Ayer te encontrÃ© un pelo rubio en la camisa que NO es mÃ­o.
-
-*El pelo de Miss Doll*, pensÃ³ Roberto con horror.
-
-â€”Es... es del trabajo. Una colega.
-
-â€”Â¿Una colega? â€”Claudia arqueÃ³ una cejaâ€”. Â¿Y quÃ© colega te tiene llegando temprano cada dÃ­a? Â¿QuÃ© colega hace que rechaces el sexo conmigo CUATRO noches seguidas?
-
-Roberto no tenÃ­a respuesta. Bajo su pantalÃ³n, el liguero coral tiraba de sus muslos. Los cristales brillaban invisibles bajo la tela.
-
-â€”Â¿Hay alguien mÃ¡s, Roberto? â€”La voz de Claudia se quebrÃ³ ligeramenteâ€”. DÃ­melo ahora. Prefiero saberlo.
-
-*SÃ­*, pensÃ³ Roberto. *Hay una mujer de lÃ¡tex rosa que me estÃ¡ convirtiendo en su sirvienta. Que me hace usar lencerÃ­a de mujer. Que tiene fotos de mÃ­ en bragas y video de mÃ­ besando su zapato. Y lo peor es que... me gusta.*
-
-â€”No hay nadie mÃ¡s â€”dijo Robertoâ€”. Solo... mucho estrÃ©s en el trabajo. Una consultora nueva. Muy... intensa.
-
-â€”Â¿Intensa cÃ³mo?
-
-Roberto pensÃ³ en Miss Doll. En sus tacones. En su sonrisa de tiburÃ³n. En el sabor del cuero contra sus labios.
-
-â€”Exigente â€”dijo finalmenteâ€”. Muy exigente. Pero ya casi termina. Solo unos dÃ­as mÃ¡s.
-
-Claudia lo mirÃ³ durante un largo momento. No parecÃ­a convencida.
-
-â€”Te estoy dando el beneficio de la duda â€”dijoâ€”. Pero si descubro que me estÃ¡s mintiendo...
-
-DejÃ³ la amenaza flotar en el aire.
-
-Roberto asintiÃ³.
-
-Esa noche, durmiÃ³ pegado al borde de la cama, con la lencerÃ­a coral escondida bajo capas de pijama, con el corazÃ³n latiendo cada vez que Claudia se movÃ­a.
-
-*Dos vidas*, pensÃ³. *Dos mentiras. Â¿CuÃ¡nto tiempo antes de que todo explote?*
-
-Pero cuando finalmente se quedÃ³ dormido, no soÃ±Ã³ con la destrucciÃ³n de su matrimonio.
-
-SoÃ±Ã³ con Miss Doll llamÃ¡ndolo "buena chica".
-
-Y sonriÃ³ en sueÃ±os.
-
-
+—Cooperación total —confirmó Miss Doll—. Dulces sueños.
 
 ---
 
+Esa noche, Claudia estaba esperándolo.
 
-# CapÃ­tulo 5: Casual Friday (DÃ­a 5 - Viernes)
+No en el sentido normal. No preparando la cena o leyendo en el sofá. Estaba sentada en la mesa del comedor con los brazos cruzados y una expresión que Roberto reconoció inmediatamente: la expresión de "vamos a tener una conversación".
 
-El viernes, Roberto no entrÃ³ por la puerta principal.
+—Tenemos que hablar —dijo ella.
 
-Siguiendo las instrucciones de Miss Doll, llegÃ³ a las 6:15 AM â€”quince minutos antes de lo ordenado, porque la ansiedad no lo habÃ­a dejado dormirâ€” y se deslizÃ³ por la puerta de servicio como un ladrÃ³n. O como algo peor que un ladrÃ³n.
+Roberto sintió que el estómago se le caía a los pies.
 
-La confrontaciÃ³n con Claudia la noche anterior lo habÃ­a dejado destruido. Ella sospechaba. No sabÃ­a quÃ©, pero sabÃ­a que *algo* estaba pasando. El pelo rubio de Miss Doll en su camisa habÃ­a sido un descuido estÃºpido. Y rechazarla cuatro noches seguidas... ningÃºn marido hacÃ­a eso sin razÃ³n.
+—¿Sobre qué?
 
-*Â¿CuÃ¡nto tiempo antes de que me descubra?*, pensÃ³ mientras caminaba por el pasillo oscuro. *Â¿CuÃ¡nto tiempo antes de que encuentre la lencerÃ­a? Â¿O peor, antes de que Miss Doll decida contarle ella misma?*
+—Sobre ti. —Claudia se levantó y caminó hacia él—. Llevas toda la semana raro. No duermes. No me tocas. Usas calcetines para dormir. Te duchas con la puerta cerrada. Ayer te encontré un pelo rubio en la camisa que NO es mío.
 
-Bajo su traje gris, el conjunto coral brillaba invisible. Los cristales del liguero rozaban su piel con cada paso. Los broches bluetooth vigilaban. Y su polla, traidora como siempre, estaba medio dura ante la anticipaciÃ³n de lo que venÃ­a.
+*El pelo de Miss Doll*, pensó Roberto con horror.
 
-En el baÃ±o de servicio, encontrÃ³ una bolsa rosa esperÃ¡ndolo sobre el lavabo.
+—Es... es del trabajo. Una colega.
 
-Dentro habÃ­a su uniforme.
+—¿Una colega? —Claudia arqueó una ceja—. ¿Y qué colega te tiene llegando temprano cada día? ¿Qué colega hace que rechaces el sexo conmigo CUATRO noches seguidas?
 
-Roberto lo extendiÃ³ sobre el mÃ¡rmol y lo mirÃ³ durante varios segundos, sintiendo cÃ³mo su estÃ³mago se retorcÃ­a con una mezcla de terror y anticipaciÃ³n.
+Roberto no tenía respuesta. Bajo su pantalón, el liguero coral tiraba de sus muslos. Los cristales brillaban invisibles bajo la tela.
+
+—¿Hay alguien más, Roberto? —La voz de Claudia se quebró ligeramente—. Dímelo ahora. Prefiero saberlo.
+
+*Sí*, pensó Roberto. *Hay una mujer de látex rosa que me está convirtiendo en su sirvienta. Que me hace usar lencería de mujer. Que tiene fotos de mí en bragas y video de mí besando su zapato. Y lo peor es que... me gusta.*
+
+—No hay nadie más —dijo Roberto—. Solo... mucho estrés en el trabajo. Una consultora nueva. Muy... intensa.
+
+—¿Intensa cómo?
+
+Roberto pensó en Miss Doll. En sus tacones. En su sonrisa de tiburón. En el sabor del cuero contra sus labios.
+
+—Exigente —dijo finalmente—. Muy exigente. Pero ya casi termina. Solo unos días más.
+
+Claudia lo miró durante un largo momento. No parecía convencida.
+
+—Te estoy dando el beneficio de la duda —dijo—. Pero si descubro que me estás mintiendo...
+
+Dejó la amenaza flotar en el aire.
+
+Roberto asintió.
+
+Esa noche, durmió pegado al borde de la cama, con la lencería coral escondida bajo capas de pijama, con el corazón latiendo cada vez que Claudia se movía.
+
+*Dos vidas*, pensó. *Dos mentiras. ¿Cuánto tiempo antes de que todo explote?*
+
+Pero cuando finalmente se quedó dormido, no soñó con la destrucción de su matrimonio.
+
+Soñó con Miss Doll llamándolo "buena chica".
+
+Y sonrió en sueños.
+
+
+
+---
+
+
+# Capítulo 5: Casual Friday (Día 5 - Viernes)
+
+El viernes, Roberto no entró por la puerta principal.
+
+Siguiendo las instrucciones de Miss Doll, llegó a las 6:15 AM —quince minutos antes de lo ordenado, porque la ansiedad no lo había dejado dormir— y se deslizó por la puerta de servicio como un ladrón. O como algo peor que un ladrón.
+
+La confrontación con Claudia la noche anterior lo había dejado destruido. Ella sospechaba. No sabía qué, pero sabía que *algo* estaba pasando. El pelo rubio de Miss Doll en su camisa había sido un descuido estúpido. Y rechazarla cuatro noches seguidas... ningún marido hacía eso sin razón.
+
+*¿Cuánto tiempo antes de que me descubra?*, pensó mientras caminaba por el pasillo oscuro. *¿Cuánto tiempo antes de que encuentre la lencería? ¿O peor, antes de que Miss Doll decida contarle ella misma?*
+
+Bajo su traje gris, el conjunto coral brillaba invisible. Los cristales del liguero rozaban su piel con cada paso. Los broches bluetooth vigilaban. Y su polla, traidora como siempre, estaba medio dura ante la anticipación de lo que venía.
+
+En el baño de servicio, encontró una bolsa rosa esperándolo sobre el lavabo.
+
+Dentro había su uniforme.
+
+Roberto lo extendió sobre el mármol y lo miró durante varios segundos, sintiendo cómo su estómago se retorcía con una mezcla de terror y anticipación.
 
 Una blusa blanca de seda con un lazo en el cuello. Femenina pero profesional.
 
-Una falda lÃ¡piz negra que se veÃ­a demasiado estrecha incluso a simple vista.
+Una falda lápiz negra que se veía demasiado estrecha incluso a simple vista.
 
 Medias de color carne con brillo satinado.
 
-Y tacones negros de charol. De aguja. De al menos doce centÃ­metros.
+Y tacones negros de charol. De aguja. De al menos doce centímetros.
 
-*No puedo hacer esto*, pensÃ³ Roberto. Pero ya estaba quitÃ¡ndose el traje.
+*No puedo hacer esto*, pensó Roberto. Pero ya estaba quitándose el traje.
 
-Se vistiÃ³ lentamente, con manos que temblaban.
+Se vistió lentamente, con manos que temblaban.
 
-Primero, se quitÃ³ el traje de hombre. La chaqueta. La camisa. La corbata. Cada prenda que cayÃ³ al suelo fue como desprenderse de una capa de armadura. Cuando quedÃ³ en lencerÃ­a coral â€”los cristales brillando bajo la luz fluorescente del baÃ±oâ€” se mirÃ³ en el espejo.
+Primero, se quitó el traje de hombre. La chaqueta. La camisa. La corbata. Cada prenda que cayó al suelo fue como desprenderse de una capa de armadura. Cuando quedó en lencería coral —los cristales brillando bajo la luz fluorescente del baño— se miró en el espejo.
 
-El hombre que devolvÃ­a la mirada ya parecÃ­a incompleto. Medio vestido. Esperando.
+El hombre que devolvía la mirada ya parecía incompleto. Medio vestido. Esperando.
 
 La blusa de seda fue primero.
 
-DeslizÃ³ los brazos por las mangas y el material lo envolviÃ³ como agua tibia. FrÃ­o al principio pero calentÃ¡ndose rÃ¡pidamente contra su piel depilada. La textura era diferente a cualquier cosa que hubiera usado como hombre: ligera, fluida, *viva*. Cada movimiento hacÃ­a que la seda se deslizara sobre sus pezones â€”ahora sensibles despuÃ©s de dÃ­as de roce constante del encajeâ€” enviando pequeÃ±as descargas de placer por su columna.
+Deslizó los brazos por las mangas y el material lo envolvió como agua tibia. Frío al principio pero calentándose rápidamente contra su piel depilada. La textura era diferente a cualquier cosa que hubiera usado como hombre: ligera, fluida, *viva*. Cada movimiento hacía que la seda se deslizara sobre sus pezones —ahora sensibles después de días de roce constante del encaje— enviando pequeñas descargas de placer por su columna.
 
-AbotonÃ³ la blusa con dedos torpes. El lazo del cuello fue un desafÃ­o; tardÃ³ tres intentos en hacerlo presentable. Pero cuando finalmente lo logrÃ³, algo cambiÃ³ en su reflejo. El cuello enmarcado por el lazo ya no parecÃ­a el cuello de Roberto. ParecÃ­a el cuello de alguien mÃ¡s suave. MÃ¡s femenino.
+Abotonó la blusa con dedos torpes. El lazo del cuello fue un desafío; tardó tres intentos en hacerlo presentable. Pero cuando finalmente lo logró, algo cambió en su reflejo. El cuello enmarcado por el lazo ya no parecía el cuello de Roberto. Parecía el cuello de alguien más suave. Más femenino.
 
 La falda fue el verdadero ritual.
 
-Era imposiblemente estrecha. Roberto â€”*Â¿o ya era Roberta?*â€” tuvo que subÃ­rsela enrollada por las piernas, centÃ­metro a centÃ­metro, sintiendo cÃ³mo la tela se ajustaba contra sus muslos como un abrazo restrictivo. Cuando finalmente la cerrÃ³, descubriÃ³ que apenas podÃ­a separar las rodillas.
+Era imposiblemente estrecha. Roberto —*¿o ya era Roberta?*— tuvo que subírsela enrollada por las piernas, centímetro a centímetro, sintiendo cómo la tela se ajustaba contra sus muslos como un abrazo restrictivo. Cuando finalmente la cerró, descubrió que apenas podía separar las rodillas.
 
-La restricciÃ³n deberÃ­a haber sido incÃ³moda. En cambio, era *tranquilizadora*. Como un corsÃ© para las piernas. Como una promesa de que no podrÃ­a huir aunque quisiera.
+La restricción debería haber sido incómoda. En cambio, era *tranquilizadora*. Como un corsé para las piernas. Como una promesa de que no podría huir aunque quisiera.
 
-Se mirÃ³ en el espejo. La falda transformaba su silueta. Con la cintura marcada y las caderas sugeridas por el corte, ya no tenÃ­a cuerpo de hombre. TenÃ­a cuerpo de *secretaria*.
+Se miró en el espejo. La falda transformaba su silueta. Con la cintura marcada y las caderas sugeridas por el corte, ya no tenía cuerpo de hombre. Tenía cuerpo de *secretaria*.
 
-Las medias fueron familiares, casi reconfortantes. Las enrollÃ³ como Miss Doll le habÃ­a enseÃ±ado, las deslizÃ³ por sus piernas, las enganchÃ³ al liguero. El clic de los broches fue como pequeÃ±os candados cerrÃ¡ndose. Otro paso. Otro eslabÃ³n en la cadena.
+Las medias fueron familiares, casi reconfortantes. Las enrolló como Miss Doll le había enseñado, las deslizó por sus piernas, las enganchó al liguero. El clic de los broches fue como pequeños candados cerrándose. Otro paso. Otro eslabón en la cadena.
 
 Y los tacones...
 
-Roberto nunca habÃ­a usado tacones en su vida. Ni siquiera los habÃ­a probado como broma.
+Roberto nunca había usado tacones en su vida. Ni siquiera los había probado como broma.
 
-Se sentÃ³ en el borde del lavabo y deslizÃ³ los pies en los zapatos negros. El tacÃ³n era estrecho como una aguja, la punta tan afilada que parecÃ­a un arma. El arco de su pie se forzÃ³ hacia abajo en un Ã¡ngulo que parecÃ­a antinatural.
+Se sentó en el borde del lavabo y deslizó los pies en los zapatos negros. El tacón era estrecho como una aguja, la punta tan afilada que parecía un arma. El arco de su pie se forzó hacia abajo en un ángulo que parecía antinatural.
 
-La primera sensaciÃ³n fue de *trampa*. Sus pies quedaron atrapados en una prisiÃ³n de cuero que no permitÃ­a movimiento natural. Los tendones de sus pantorrillas se tensaron automÃ¡ticamente. Su postura cambiÃ³, obligÃ¡ndolo a sacar el pecho, a curvar la espalda, a convertirse en algo diseÃ±ado para ser mirado.
+La primera sensación fue de *trampa*. Sus pies quedaron atrapados en una prisión de cuero que no permitía movimiento natural. Los tendones de sus pantorrillas se tensaron automáticamente. Su postura cambió, obligándolo a sacar el pecho, a curvar la espalda, a convertirse en algo diseñado para ser mirado.
 
 Se puso de pie.
 
-Y casi cayÃ³ inmediatamente.
+Y casi cayó inmediatamente.
 
-El mundo girÃ³. Su centro de gravedad se desplazÃ³ hacia adelante. Sus pantorrillas se tensaron hasta gritar. Todo su cuerpo buscÃ³ un nuevo equilibrio, un nuevo modo de existir.
+El mundo giró. Su centro de gravedad se desplazó hacia adelante. Sus pantorrillas se tensaron hasta gritar. Todo su cuerpo buscó un nuevo equilibrio, un nuevo modo de existir.
 
-Se agarrÃ³ del lavabo, respirando agitadamente.
+Se agarró del lavabo, respirando agitadamente.
 
-*Esto es imposible*, pensÃ³. *Nadie puede caminar asÃ­.*
+*Esto es imposible*, pensó. *Nadie puede caminar así.*
 
-Pero millones de mujeres lo hacÃ­an todos los dÃ­as. *Ã‰l* habÃ­a exigido que sus secretarias lo hicieran. Y ahora...
+Pero millones de mujeres lo hacían todos los días. *Él* había exigido que sus secretarias lo hicieran. Y ahora...
 
-Ahora entendÃ­a. Los tacones no eran un accesorio. Eran una *transformaciÃ³n*. Cambiaban cÃ³mo caminabas. CÃ³mo te sostenÃ­as. CÃ³mo el mundo te veÃ­a. CÃ³mo te veÃ­as a ti mismo.
+Ahora entendía. Los tacones no eran un accesorio. Eran una *transformación*. Cambiaban cómo caminabas. Cómo te sostenías. Cómo el mundo te veía. Cómo te veías a ti mismo.
 
-Con los tacones puestos, Roberto ya no podÃ­a moverse como un hombre.
+Con los tacones puestos, Roberto ya no podía moverse como un hombre.
 
-Solo podÃ­a moverse como... ella.
+Solo podía moverse como... ella.
 
 Dio un paso experimental. Luego otro. El sonido de los tacones contra el suelo de baldosas fue obscenamente fuerte: *clic, clic*.
 
 El sonido de una mujer caminando.
 
-Se mirÃ³ en el espejo del baÃ±o.
+Se miró en el espejo del baño.
 
-La persona que le devolvÃ­a la mirada era un extraÃ±o.
+La persona que le devolvía la mirada era un extraño.
 
-Un extraÃ±o con piernas que parecÃ­an kilomÃ©tricas en las medias brillantes. Un extraÃ±o con cintura marcada por la falda ajustada. Un extraÃ±o con el pecho sugerido por los pliegues de la blusa de seda. Un extraÃ±o cuyos labios â€”todavÃ­a sin pintarâ€” ya parecÃ­an mÃ¡s suaves, mÃ¡s llenos, como si el cuerpo supiera lo que venÃ­a.
+Un extraño con piernas que parecían kilométricas en las medias brillantes. Un extraño con cintura marcada por la falda ajustada. Un extraño con el pecho sugerido por los pliegues de la blusa de seda. Un extraño cuyos labios —todavía sin pintar— ya parecían más suaves, más llenos, como si el cuerpo supiera lo que venía.
 
-Un extraÃ±o que se veÃ­a... correcto.
+Un extraño que se veía... correcto.
 
-*Dios mÃ­o*, pensÃ³ Roberto. *Parezco una secretaria. Una secretaria de verdad.*
+*Dios mío*, pensó Roberto. *Parezco una secretaria. Una secretaria de verdad.*
 
-Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas coral. Pulsando contra el encaje. Mojando la tela con anticipaciÃ³n.
+Y la idea, en lugar de horrorizarlo, hizo que su polla se endureciera dentro de las braguitas coral. Pulsando contra el encaje. Mojando la tela con anticipación.
 
 ---
 
-Miss Doll llegÃ³ a las 8:00.
+Miss Doll llegó a las 8:00.
 
-Hoy llevaba un power suit de lÃ¡tex rosa chicle: blazer estructurado con hombreras dramÃ¡ticas, pantalones de pierna ancha que fluÃ­an sobre sus tacones de plataforma, y debajo, un bustier del mismo material que creaba un escote de vÃ©rtigo. Su cabello platino estaba perfectamente peinado. Sus labios brillaban como caramelos.
+Hoy llevaba un power suit de látex rosa chicle: blazer estructurado con hombreras dramáticas, pantalones de pierna ancha que fluían sobre sus tacones de plataforma, y debajo, un bustier del mismo material que creaba un escote de vértigo. Su cabello platino estaba perfectamente peinado. Sus labios brillaban como caramelos.
 
-CerrÃ³ la puerta de la oficina con llave.
+Cerró la puerta de la oficina con llave.
 
-MirÃ³ a Roberto de arriba abajo.
+Miró a Roberto de arriba abajo.
 
-Roberto se quedÃ³ quieto, sintiÃ©ndose expuesto de maneras que nunca habÃ­a experimentado. La falda de repente parecÃ­a demasiado corta. La blusa demasiado transparente. Los tacones demasiado altos.
+Roberto se quedó quieto, sintiéndose expuesto de maneras que nunca había experimentado. La falda de repente parecía demasiado corta. La blusa demasiado transparente. Los tacones demasiado altos.
 
-â€”Hoy no hay reuniones â€”dijo Miss Doll finalmenteâ€”. Hoy hay entrenamiento intensivo. Pero primero...
+—Hoy no hay reuniones —dijo Miss Doll finalmente—. Hoy hay entrenamiento intensivo. Pero primero...
 
-SacÃ³ un neceser rosa de su bolso. Lo abriÃ³ sobre el escritorio.
+Sacó un neceser rosa de su bolso. Lo abrió sobre el escritorio.
 
-Maquillaje. Base, corrector, polvo. Sombras de ojos en tonos neutros. RÃ­mel. Delineador. Labial rosa brillante. Rubor.
+Maquillaje. Base, corrector, polvo. Sombras de ojos en tonos neutros. Rímel. Delineador. Labial rosa brillante. Rubor.
 
-Y mÃ¡s.
+Y más.
 
-Una peluca negra estilo bob con chasquilla recta. Brillante, sintÃ©tica pero de buena calidad.
+Una peluca negra estilo bob con chasquilla recta. Brillante, sintética pero de buena calidad.
 
-UÃ±as postizas rosa almendra, no tan largas como las de Miss Doll pero definitivamente femeninas.
+Uñas postizas rosa almendra, no tan largas como las de Miss Doll pero definitivamente femeninas.
 
 Y un frasco de perfume rosa. Vainilla y flores. Suave pero inconfundible.
 
-â€”SiÃ©ntate â€”ordenÃ³ Miss Doll, seÃ±alando la sillaâ€”. Voy a enseÃ±arte cÃ³mo ser presentable.
+—Siéntate —ordenó Miss Doll, señalando la silla—. Voy a enseñarte cómo ser presentable.
 
-Durante la siguiente hora, Miss Doll trabajÃ³ en su rostro con la precisiÃ³n de una artista. AplicÃ³ base para ocultar la sombra de barba. Puso corrector bajo los ojos. PasÃ³ rÃ­mel por las pestaÃ±as con movimientos expertos.
+Durante la siguiente hora, Miss Doll trabajó en su rostro con la precisión de una artista. Aplicó base para ocultar la sombra de barba. Puso corrector bajo los ojos. Pasó rímel por las pestañas con movimientos expertos.
 
-â€”Si alguien te mira de cerca â€”dijo mientras aplicaba el labialâ€”, notarÃ¡ que no eres mujer. Pero nadie mira de cerca a una secretaria. Miran las piernas, el culo, los labios. Y tÃº tendrÃ¡s todo eso.
+—Si alguien te mira de cerca —dijo mientras aplicaba el labial—, notará que no eres mujer. Pero nadie mira de cerca a una secretaria. Miran las piernas, el culo, los labios. Y tú tendrás todo eso.
 
-La peluca fue lo siguiente. Miss Doll la ajustÃ³ sobre su cabeza, ocultando completamente su pelo corto. El bob negro con chasquilla enmarcaba su rostro, suavizando sus rasgos.
+La peluca fue lo siguiente. Miss Doll la ajustó sobre su cabeza, ocultando completamente su pelo corto. El bob negro con chasquilla enmarcaba su rostro, suavizando sus rasgos.
 
-Las uÃ±as postizas fueron un desafÃ­o. Roberto no sabÃ­a cÃ³mo usar las manos con ellas. Cada movimiento se sentÃ­a torpe, forzado.
+Las uñas postizas fueron un desafío. Roberto no sabía cómo usar las manos con ellas. Cada movimiento se sentía torpe, forzado.
 
-â€”Te acostumbrarÃ¡s â€”dijo Miss Dollâ€”. O sufrirÃ¡s. Tu elecciÃ³n.
+—Te acostumbrarás —dijo Miss Doll—. O sufrirás. Tu elección.
 
-Finalmente, el perfume. Miss Doll lo rociÃ³ en su cuello, en sus muÃ±ecas, detrÃ¡s de las orejas.
+Finalmente, el perfume. Miss Doll lo roció en su cuello, en sus muñecas, detrás de las orejas.
 
-â€”Ahora hueles como una mujer â€”dijoâ€”. Ya no hueles a Director Regional. Hueles a sirvienta.
+—Ahora hueles como una mujer —dijo—. Ya no hueles a Director Regional. Hueles a sirvienta.
 
-Roberto se mirÃ³ en el espejo.
+Roberto se miró en el espejo.
 
-La persona que le devolvÃ­a la mirada era... otra persona. No Ã©l. No completamente ella todavÃ­a. Pero algo intermedio. Algo que dolÃ­a mirar.
+La persona que le devolvía la mirada era... otra persona. No él. No completamente ella todavía. Pero algo intermedio. Algo que dolía mirar.
 
-â€”Â¿Entrenamiento para quÃ©? â€”preguntÃ³ Roberto, intentando no tambalear mientras ajustaba su peso de un pie al otro.
+—¿Entrenamiento para qué? —preguntó Roberto, intentando no tambalear mientras ajustaba su peso de un pie al otro.
 
-â€”Para su futuro. Camine.
+—Para su futuro. Camine.
 
-â€”Â¿QuÃ©?
+—¿Qué?
 
-â€”Camine de la puerta hasta la ventana. Quiero ver cÃ³mo se mueve.
+—Camine de la puerta hasta la ventana. Quiero ver cómo se mueve.
 
-Roberto intentÃ³ caminar.
+Roberto intentó caminar.
 
 Fue un desastre.
 
-Sus pasos eran demasiado largos, demasiado masculinos. Sus hombros se movÃ­an demasiado. Sus caderas permanecÃ­an rÃ­gidas. Cada paso era una batalla contra la gravedad.
+Sus pasos eran demasiado largos, demasiado masculinos. Sus hombros se movían demasiado. Sus caderas permanecían rígidas. Cada paso era una batalla contra la gravedad.
 
-â€”Â¡MAL! â€”La voz de Miss Doll cortÃ³ el aire como un lÃ¡tigo. No gritÃ³. Fue peor: pronunciÃ³ la palabra con un desprecio helado que hizo que Roberto se encogiera automÃ¡ticamente.
+—¡MAL! —La voz de Miss Doll cortó el aire como un látigo. No gritó. Fue peor: pronunció la palabra con un desprecio helado que hizo que Roberto se encogiera automáticamente.
 
-GolpeÃ³ el escritorio con una regla de metal rosa. El sonido fue como un disparo.
+Golpeó el escritorio con una regla de metal rosa. El sonido fue como un disparo.
 
-â€”EstÃ¡s caminando como un hombre con falda. Eso es *patÃ©tico*. Eso es visible a kilÃ³metros. AsÃ­ te descubrirÃ­an en segundos.
+—Estás caminando como un hombre con falda. Eso es *patético*. Eso es visible a kilómetros. Así te descubrirían en segundos.
 
-â€”Â¡No sÃ© cÃ³mo...!
+—¡No sé cómo...!
 
 *CRACK.*
 
-La regla golpeÃ³ sus nudillos. El dolor fue agudo, instantÃ¡neo.
+La regla golpeó sus nudillos. El dolor fue agudo, instantáneo.
 
-â€”No me interrumpas â€”dijo Miss Doll, su voz un hielo puroâ€”. Cuando yo hablo, tÃº escuchas. Cuando yo ordeno, tÃº obedeces. Cuando yo corrijo, tÃº agradeces. Â¿Entendido?
+—No me interrumpas —dijo Miss Doll, su voz un hielo puro—. Cuando yo hablo, tú escuchas. Cuando yo ordeno, tú obedeces. Cuando yo corrijo, tú agradeces. ¿Entendido?
 
-Roberto asintiÃ³, frotÃ¡ndose los nudillos.
+Roberto asintió, frotándose los nudillos.
 
-â€”Pasos cortos. Un pie delante del otro, como si caminaras sobre una lÃ­nea. Hombros atrÃ¡s. Pecho fuera. Culo fuera. Las caderas deben moverse como un pÃ©ndulo. Â¡Otra vez!
+—Pasos cortos. Un pie delante del otro, como si caminaras sobre una línea. Hombros atrás. Pecho fuera. Culo fuera. Las caderas deben moverse como un péndulo. ¡Otra vez!
 
-Roberto lo intentÃ³ de nuevo.
+Roberto lo intentó de nuevo.
 
 *CRACK.* La regla en su muslo.
 
-â€”Â¡Pareces un pato borracho! Â¡Otra vez!
+—¡Pareces un pato borracho! ¡Otra vez!
 
 Y de nuevo. *CRACK.* En la espalda.
 
-â€”Â¡Los hombros, inÃºtil! Â¡Los hombros quietos, las caderas en movimiento!
+—¡Los hombros, inútil! ¡Los hombros quietos, las caderas en movimiento!
 
 Y de nuevo. *CRACK.* En las nalgas.
 
-â€”Â¡MÃ¡s lento! Â¡Una mujer no tiene prisa! Â¡Una sirvienta espera a ser llamada!
+—¡Más lento! ¡Una mujer no tiene prisa! ¡Una sirvienta espera a ser llamada!
 
-Durante cuatro horas, Miss Doll lo hizo caminar. De un lado a otro de la oficina. Ida y vuelta. Ida y vuelta. Lo corrigiÃ³ con palabras. Lo corrigiÃ³ con la regla. Lo insultÃ³, lo humillÃ³, le gritÃ³.
+Durante cuatro horas, Miss Doll lo hizo caminar. De un lado a otro de la oficina. Ida y vuelta. Ida y vuelta. Lo corrigió con palabras. Lo corrigió con la regla. Lo insultó, lo humilló, le gritó.
 
-Y entre golpe y golpe, entre correcciÃ³n y correcciÃ³n, le repetÃ­a:
+Y entre golpe y golpe, entre corrección y corrección, le repetía:
 
-â€”Eres un objeto. Camina como un objeto. Los objetos no tienen prisa. Los objetos no tienen voluntad. Los objetos existen para ser usados.
+—Eres un objeto. Camina como un objeto. Los objetos no tienen prisa. Los objetos no tienen voluntad. Los objetos existen para ser usados.
 
-â€”Entre paso y paso:
+—Entre paso y paso:
 
-â€”Tu cuerpo no te pertenece. Cada paso que das es un paso que YO permito. Cada movimiento es un regalo MÃO.
+—Tu cuerpo no te pertenece. Cada paso que das es un paso que YO permito. Cada movimiento es un regalo MÍO.
 
 Y cada vez que Roberto fallaba:
 
-â€”Agradece la correcciÃ³n. Di "Gracias, Miss Doll, por enseÃ±arme".
+—Agradece la corrección. Di "Gracias, Miss Doll, por enseñarme".
 
-Y Roberto lo decÃ­a. Una y otra vez. Hasta que las palabras perdieron significado. Hasta que solo quedaba el sonido, el dolor, y el deseo desesperado de complacerla.
+Y Roberto lo decía. Una y otra vez. Hasta que las palabras perdieron significado. Hasta que solo quedaba el sonido, el dolor, y el deseo desesperado de complacerla.
 
-El dolor en sus pies era insoportable. Sus pantorrillas ardÃ­an como si estuvieran en llamas. Ampollas empezaban a formarse en sus talones. Pero con cada repeticiÃ³n, algo cambiaba.
+El dolor en sus pies era insoportable. Sus pantorrillas ardían como si estuvieran en llamas. Ampollas empezaban a formarse en sus talones. Pero con cada repetición, algo cambiaba.
 
-Sus pasos se acortaron naturalmente. Sus caderas empezaron a oscilar para mantener el equilibrio. Su espalda se arqueÃ³ para compensar el cambio de centro de gravedad.
+Sus pasos se acortaron naturalmente. Sus caderas empezaron a oscilar para mantener el equilibrio. Su espalda se arqueó para compensar el cambio de centro de gravedad.
 
-DejÃ³ de pensar en "soy un hombre caminando raro".
+Dejó de pensar en "soy un hombre caminando raro".
 
-EmpezÃ³ a pensar en mantener el equilibrio. En no caerse. En complacer a Miss Doll.
+Empezó a pensar en mantener el equilibrio. En no caerse. En complacer a Miss Doll.
 
-Y entonces la puerta se abriÃ³.
+Y entonces la puerta se abrió.
 
-Sin aviso. Sin llamar. La puerta simplemente se abriÃ³ y un hombre entrÃ³ con un carrito de limpieza.
+Sin aviso. Sin llamar. La puerta simplemente se abrió y un hombre entró con un carrito de limpieza.
 
-Era mayor, quizÃ¡s sesenta aÃ±os. Uniforme gris de limpieza. Nombre bordado en el pecho: "Gonzalo".
+Era mayor, quizás sesenta años. Uniforme gris de limpieza. Nombre bordado en el pecho: "Gonzalo".
 
-Roberta â€”porque en ese momento, vestida de mujer, ya no podÃ­a pensar en sÃ­ misma como Robertoâ€” se congelÃ³ en medio del paso.
+Roberta —porque en ese momento, vestida de mujer, ya no podía pensar en sí misma como Roberto— se congeló en medio del paso.
 
-HabÃ­a estado caminando con las caderas oscilando. Con los tacones resonando. Con la falda ajustÃ¡ndose a cada movimiento.
+Había estado caminando con las caderas oscilando. Con los tacones resonando. Con la falda ajustándose a cada movimiento.
 
-Gonzalo la mirÃ³.
+Gonzalo la miró.
 
-La mirÃ³ de arriba abajo. Sus ojos recorrieron los tacones, las medias, la falda, la blusa, la peluca negra que Miss Doll le habÃ­a puesto esa maÃ±ana para "completar el look".
+La miró de arriba abajo. Sus ojos recorrieron los tacones, las medias, la falda, la blusa, la peluca negra que Miss Doll le había puesto esa mañana para "completar el look".
 
 El silencio fue eterno.
 
-â€”Ah â€”dijo Gonzalo finalmenteâ€”. Disculpe. CreÃ­ que no habÃ­a nadie.
+—Ah —dijo Gonzalo finalmente—. Disculpe. Creí que no había nadie.
 
-Su voz era neutral. Su expresiÃ³n, ilegible.
+Su voz era neutral. Su expresión, ilegible.
 
-Dio un paso atrÃ¡s. CerrÃ³ la puerta.
+Dio un paso atrás. Cerró la puerta.
 
 Se fue.
 
-Roberta se quedÃ³ inmÃ³vil durante varios segundos, el corazÃ³n latiendo tan fuerte que podÃ­a sentirlo en la garganta.
+Roberta se quedó inmóvil durante varios segundos, el corazón latiendo tan fuerte que podía sentirlo en la garganta.
 
 *Me vio.*
 
-Alguien la habÃ­a visto. Un empleado. Alguien que conocÃ­a esta oficina, que conocÃ­a al Director Roberto ValdÃ©s, que podÃ­a â€”en cualquier momentoâ€” conectar los puntos.
+Alguien la había visto. Un empleado. Alguien que conocía esta oficina, que conocía al Director Roberto Valdés, que podía —en cualquier momento— conectar los puntos.
 
-Miss Doll apareciÃ³ detrÃ¡s de ella. Sus manos se posaron sobre los hombros de Roberta.
+Miss Doll apareció detrás de ella. Sus manos se posaron sobre los hombros de Roberta.
 
-â€”Respira â€”dijo, su voz sorprendentemente suaveâ€”. Los limpiadores han visto cosas peores en estas oficinas. Aventuras. Drogas. Directores llorando en el suelo. Una ejecutiva aprendiendo a caminar en tacones no es lo mÃ¡s escandaloso.
+—Respira —dijo, su voz sorprendentemente suave—. Los limpiadores han visto cosas peores en estas oficinas. Aventuras. Drogas. Directores llorando en el suelo. Una ejecutiva aprendiendo a caminar en tacones no es lo más escandaloso.
 
-â€”Pero Ã©l me vio... Ã©l sabe...
+—Pero él me vio... él sabe...
 
-â€”Ã‰l vio a una mujer â€”corrigiÃ³ Miss Dollâ€”. Una mujer ensayando algo en una oficina vacÃ­a. Nada mÃ¡s. A menos que tÃº misma le digas que eras Roberto, Ã©l nunca lo sabrÃ¡.
+—Él vio a una mujer —corrigió Miss Doll—. Una mujer ensayando algo en una oficina vacía. Nada más. A menos que tú misma le digas que eras Roberto, él nunca lo sabrá.
 
 Roberta no estaba tan segura.
 
-Pero Miss Doll continuÃ³ con el entrenamiento como si nada hubiera pasado.
+Pero Miss Doll continuó con el entrenamiento como si nada hubiera pasado.
 
-Y Roberta, con las piernas temblando y el corazÃ³n acelerado, siguiÃ³ caminando.
+Y Roberta, con las piernas temblando y el corazón acelerado, siguió caminando.
 
-Porque Â¿quÃ© otra opciÃ³n tenÃ­a?
+Porque ¿qué otra opción tenía?
 
-Hacia el mediodÃ­a, logrÃ³ cruzar la habitaciÃ³n sin tropezar, con un leve balanceo de caderas que casi parecÃ­a natural.
+Hacia el mediodía, logró cruzar la habitación sin tropezar, con un leve balanceo de caderas que casi parecía natural.
 
-â€”Mejor â€”dijo Miss Doll. Se sentÃ³ en la silla del Director y puso los pies sobre el escritorioâ€”. Ahora, sÃ­rveme cafÃ©.
+—Mejor —dijo Miss Doll. Se sentó en la silla del Director y puso los pies sobre el escritorio—. Ahora, sírveme café.
 
-Roberto caminÃ³ hacia la cafetera. Sus manos temblaban, pero sus pies estaban mÃ¡s seguros. SirviÃ³ una taza. CaminÃ³ hacia ella, concentrÃ¡ndose en cada paso, en no derramar, en mantener la postura.
+Roberto caminó hacia la cafetera. Sus manos temblaban, pero sus pies estaban más seguros. Sirvió una taza. Caminó hacia ella, concentrándose en cada paso, en no derramar, en mantener la postura.
 
-Le entregÃ³ la taza con una pequeÃ±a reverencia instintiva que ni siquiera habÃ­a planeado.
+Le entregó la taza con una pequeña reverencia instintiva que ni siquiera había planeado.
 
-â€”Â¿AzÃºcar, SeÃ±ora?
+—¿Azúcar, Señora?
 
-â€”Dos. Y revuÃ©lvelo.
+—Dos. Y revuélvelo.
 
 Roberto lo hizo, de pie junto a ella, sintiendo el peso de su mirada.
 
-Miss Doll tomÃ³ un sorbo. Lo mirÃ³.
+Miss Doll tomó un sorbo. Lo miró.
 
-â€”Â¿CÃ³mo te sientes, Roberto?
+—¿Cómo te sientes, Roberto?
 
 Roberto se detuvo a pensar.
 
-Le dolÃ­an los pies. TenÃ­a hambre (no habÃ­a desayunado). Estaba vestido de mujer en su propia oficina. Su carrera estaba arruinada. Su matrimonio probablemente tambiÃ©n.
+Le dolían los pies. Tenía hambre (no había desayunado). Estaba vestido de mujer en su propia oficina. Su carrera estaba arruinada. Su matrimonio probablemente también.
 
 Pero...
 
-El dossier ya no le daba miedo. La cÃ¡rcel era una abstracciÃ³n distante. Lo que le importaba ahora era si Miss Doll estaba satisfecha. Si su cafÃ© estaba suficientemente dulce. Si su falda estaba arrugada.
+El dossier ya no le daba miedo. La cárcel era una abstracción distante. Lo que le importaba ahora era si Miss Doll estaba satisfecha. Si su café estaba suficientemente dulce. Si su falda estaba arrugada.
 
-â€”Me siento... Ãºtil â€”dijo, y la palabra se sintiÃ³ verdadera.
+—Me siento... útil —dijo, y la palabra se sintió verdadera.
 
-Miss Doll sonriÃ³. Esta vez, fue una sonrisa genuina. Una sonrisa que llegaba a sus ojos.
+Miss Doll sonrió. Esta vez, fue una sonrisa genuina. Una sonrisa que llegaba a sus ojos.
 
-â€”Lo eres. Eres mucho mÃ¡s Ãºtil asÃ­ que como Director. Como Director eras mediocre, corrupto y estresado. Demandabas cosas de otros. Ordenabas. Tomabas. â€”Ella se levantÃ³ y caminÃ³ hacia Ã©lâ€”. Pero como Roberta... como Roberta sirves. Obedeces. Das. Y eso te hace hermosa.
+—Lo eres. Eres mucho más útil así que como Director. Como Director eras mediocre, corrupto y estresado. Demandabas cosas de otros. Ordenabas. Tomabas. —Ella se levantó y caminó hacia él—. Pero como Roberta... como Roberta sirves. Obedeces. Das. Y eso te hace hermosa.
 
 *Roberta.*
 
 Era la primera vez que Miss Doll usaba ese nombre.
 
-Roberto sintiÃ³ que algo se movÃ­a en su pecho. Algo parecido al reconocimiento.
+Roberto sintió que algo se movía en su pecho. Algo parecido al reconocimiento.
 
-â€”MÃ­rate en el espejo â€”ordenÃ³ Miss Doll.
+—Mírate en el espejo —ordenó Miss Doll.
 
-Roberto â€”*Roberta*â€” se girÃ³ hacia el espejo de cuerpo entero.
+Roberto —*Roberta*— se giró hacia el espejo de cuerpo entero.
 
-Vio a una mujer alta, de hombros ligeramente anchos pero cintura marcada por la falda. Vio piernas largas en medias brillantes, arqueadas sobre tacones de aguja. Vio la blusa de seda moviÃ©ndose con cada respiraciÃ³n. Vio labios que habÃ­an sido retocados tres veces esa maÃ±ana con el brillo que Miss Doll le habÃ­a dado.
+Vio a una mujer alta, de hombros ligeramente anchos pero cintura marcada por la falda. Vio piernas largas en medias brillantes, arqueadas sobre tacones de aguja. Vio la blusa de seda moviéndose con cada respiración. Vio labios que habían sido retocados tres veces esa mañana con el brillo que Miss Doll le había dado.
 
 No vio a Roberto.
 
-Roberto era un director corrupto, estresado, patÃ©tico. Roberto era vello y arrogancia y miedo.
+Roberto era un director corrupto, estresado, patético. Roberto era vello y arrogancia y miedo.
 
 Vio a Roberta.
 
-Roberta era Ãºtil. Roberta era bonita. Roberta estaba aprendiendo a servir.
+Roberta era útil. Roberta era bonita. Roberta estaba aprendiendo a servir.
 
-â€”Pero tu entrenamiento no estÃ¡ completo â€”dijo Miss Dollâ€”. Hay un aspecto que hemos descuidado.
+—Pero tu entrenamiento no está completo —dijo Miss Doll—. Hay un aspecto que hemos descuidado.
 
-Roberta la mirÃ³, confundida. Â¿QuÃ© mÃ¡s quedaba? Ya vestÃ­a como mujer. Caminaba como mujer. Pensaba como... Â¿quÃ©? Â¿Como sirvienta? Â¿Como propiedad?
+Roberta la miró, confundida. ¿Qué más quedaba? Ya vestía como mujer. Caminaba como mujer. Pensaba como... ¿qué? ¿Como sirvienta? ¿Como propiedad?
 
-Miss Doll caminÃ³ hacia su bolso con pasos lentos, deliberados. Sus tacones resonaron como un metrÃ³nomo, marcando el ritmo de lo que venÃ­a. SacÃ³ una caja rosa. MÃ¡s pequeÃ±a que las anteriores. MÃ¡s Ã­ntima.
+Miss Doll caminó hacia su bolso con pasos lentos, deliberados. Sus tacones resonaron como un metrónomo, marcando el ritmo de lo que venía. Sacó una caja rosa. Más pequeña que las anteriores. Más íntima.
 
-El corazÃ³n de Roberta se acelerÃ³ antes de ver el contenido. *Â¿QuÃ© mÃ¡s puede pedirme?*, pensÃ³. *Â¿QuÃ© queda por tomar?*
+El corazón de Roberta se aceleró antes de ver el contenido. *¿Qué más puede pedirme?*, pensó. *¿Qué queda por tomar?*
 
-Miss Doll abriÃ³ la caja.
+Miss Doll abrió la caja.
 
-Dentro, sobre terciopelo rosa, descansaba un plug anal de silicona. Era del mismo rosa que los labios de Miss Doll, suave y brillante bajo las luces fluorescentes. No era grande â€”quizÃ¡s del tamaÃ±o de un pulgar, con una forma que se curvaba suavementeâ€” pero tenÃ­a una base decorada con un cristal rosa que atrapaba la luz como un pequeÃ±o diamante.
+Dentro, sobre terciopelo rosa, descansaba un plug anal de silicona. Era del mismo rosa que los labios de Miss Doll, suave y brillante bajo las luces fluorescentes. No era grande —quizás del tamaño de un pulgar, con una forma que se curvaba suavemente— pero tenía una base decorada con un cristal rosa que atrapaba la luz como un pequeño diamante.
 
 Un objeto hermoso. Obsceno. Ineludible.
 
-Roberta sintiÃ³ que el aire se escapaba de sus pulmones. *No. Eso no. Cualquier cosa menos eso.*
+Roberta sintió que el aire se escapaba de sus pulmones. *No. Eso no. Cualquier cosa menos eso.*
 
-Pero incluso mientras su mente rechazaba la idea, sintiÃ³ algo mÃ¡s. Un tirÃ³n en el bajo vientre. Una curiosidad oscura que no querÃ­a examinar.
+Pero incluso mientras su mente rechazaba la idea, sintió algo más. Un tirón en el bajo vientre. Una curiosidad oscura que no quería examinar.
 
-*Â¿CÃ³mo se sentirÃ¡?*
+*¿Cómo se sentirá?*
 
-El pensamiento llegÃ³ sin permiso, traicionero y caliente.
+El pensamiento llegó sin permiso, traicionero y caliente.
 
-â€”Tu nuevo jefe va a esperar ciertas... habilidades â€”dijo Miss Doll, levantando el plug entre sus dedos enguantados. El lÃ¡tex rosa brillaba contra la silicona rosa, haciendo que el objeto pareciera una extensiÃ³n de ella mismaâ€”. Habilidades que no se aprenden en un dÃ­a. Esto es el comienzo de tu preparaciÃ³n.
+—Tu nuevo jefe va a esperar ciertas... habilidades —dijo Miss Doll, levantando el plug entre sus dedos enguantados. El látex rosa brillaba contra la silicona rosa, haciendo que el objeto pareciera una extensión de ella misma—. Habilidades que no se aprenden en un día. Esto es el comienzo de tu preparación.
 
-*PreparaciÃ³n.* La palabra flotÃ³ en el aire, cargada de promesas que Roberta no querÃ­a examinar.
+*Preparación.* La palabra flotó en el aire, cargada de promesas que Roberta no quería examinar.
 
-â€”No... no he hecho nada asÃ­ â€”susurrÃ³. Su voz saliÃ³ ronca, temblorosa. *Nunca nadie me ha tocado ahÃ­. Nunca he considerado...* Pero mientras pensaba en ello, imÃ¡genes no invitadas inundaron su mente. Hombres. Hombres que esperarÃ­an que ella...
+—No... no he hecho nada así —susurró. Su voz salió ronca, temblorosa. *Nunca nadie me ha tocado ahí. Nunca he considerado...* Pero mientras pensaba en ello, imágenes no invitadas inundaron su mente. Hombres. Hombres que esperarían que ella...
 
-â€”Lo sÃ© â€”Miss Doll sonriÃ³, y la sonrisa fue casi tiernaâ€”. Por eso empezamos con algo pequeÃ±o. Tu cuerpo necesita tiempo para aprender. Para abrirse. Para aceptar.
+—Lo sé —Miss Doll sonrió, y la sonrisa fue casi tierna—. Por eso empezamos con algo pequeño. Tu cuerpo necesita tiempo para aprender. Para abrirse. Para aceptar.
 
 *Aceptar.* 
 
-Â¿CuÃ¡ntas cosas habÃ­a aceptado ya? La lencerÃ­a. Las medias. El maquillaje. Los tacones. Cada paso habÃ­a parecido imposible al principio, y ahora...
+¿Cuántas cosas había aceptado ya? La lencería. Las medias. El maquillaje. Los tacones. Cada paso había parecido imposible al principio, y ahora...
 
-Ahora no podÃ­a imaginar no llevar encaje contra su piel.
+Ahora no podía imaginar no llevar encaje contra su piel.
 
-Miss Doll sacÃ³ un tubo de lubricante rosa del bolso. El sonido de la tapa abriÃ©ndose fue obscenamente fuerte en el silencio de la oficina.
+Miss Doll sacó un tubo de lubricante rosa del bolso. El sonido de la tapa abriéndose fue obscenamente fuerte en el silencio de la oficina.
 
-â€”SÃºbete la falda. Baja las braguitas. InclÃ­nate sobre el escritorio.
+—Súbete la falda. Baja las braguitas. Inclínate sobre el escritorio.
 
-*Esto es. Este es el momento en que digo que no. En que recupero algo de dignidad. En que demuestro que todavÃ­a soy...*
+*Esto es. Este es el momento en que digo que no. En que recupero algo de dignidad. En que demuestro que todavía soy...*
 
-Pero las manos de Roberta ya se estaban moviendo. Subiendo la falda. Bajando las braguitas coral. InclinÃ¡ndose sobre la superficie de caoba que antes habÃ­a sido su sÃ­mbolo de poder.
+Pero las manos de Roberta ya se estaban moviendo. Subiendo la falda. Bajando las braguitas coral. Inclinándose sobre la superficie de caoba que antes había sido su símbolo de poder.
 
-El aire frÃ­o de la oficina golpeÃ³ su piel expuesta. SintiÃ³ su propia vulnerabilidad como si fuera tangible: su trasero al aire, sus piernas abiertas, su cuerpo ofrecido para lo que viniera.
+El aire frío de la oficina golpeó su piel expuesta. Sintió su propia vulnerabilidad como si fuera tangible: su trasero al aire, sus piernas abiertas, su cuerpo ofrecido para lo que viniera.
 
-*Esto es humillante*, pensÃ³. *Esto es degradante.*
+*Esto es humillante*, pensó. *Esto es degradante.*
 
-*Entonces, Â¿por quÃ© estoy mojando las braguitas?*
+*Entonces, ¿por qué estoy mojando las braguitas?*
 
-El lubricante fue frÃ­o al principio â€”un shock que la hizo jadearâ€” pero se calentÃ³ rÃ¡pidamente bajo el roce de los dedos enguantados de Miss Doll. Eran dedos expertos, que sabÃ­an exactamente dÃ³nde tocar, cuÃ¡nta presiÃ³n aplicar. Movimientos circulares alrededor de la entrada. Preparando. Relajando.
+El lubricante fue frío al principio —un shock que la hizo jadear— pero se calentó rápidamente bajo el roce de los dedos enguantados de Miss Doll. Eran dedos expertos, que sabían exactamente dónde tocar, cuánta presión aplicar. Movimientos circulares alrededor de la entrada. Preparando. Relajando.
 
-â€”Tu cuerpo es inteligente â€”murmurÃ³ Miss Doll, su voz baja y casi hipnÃ³ticaâ€”. Sabe lo que quiere aunque tu mente no lo admita. Mira cÃ³mo se abre para mÃ­. Mira cÃ³mo te relajas sin que yo te lo pida.
+—Tu cuerpo es inteligente —murmuró Miss Doll, su voz baja y casi hipnótica—. Sabe lo que quiere aunque tu mente no lo admita. Mira cómo se abre para mí. Mira cómo te relajas sin que yo te lo pida.
 
-Era verdad. Roberta podÃ­a sentirlo: sus mÃºsculos cediendo, su cuerpo rindiÃ©ndose ante la invasiÃ³n inminente.
+Era verdad. Roberta podía sentirlo: sus músculos cediendo, su cuerpo rindiéndose ante la invasión inminente.
 
 *No. Esto no soy yo. Esto no es lo que quiero.*
 
-Pero su espalda se arqueÃ³, buscando mÃ¡s contacto. Sus caderas se movieron hacia atrÃ¡s, hacia los dedos de Miss Doll.
+Pero su espalda se arqueó, buscando más contacto. Sus caderas se movieron hacia atrás, hacia los dedos de Miss Doll.
 
-â€”Eso es â€”ronroneÃ³ Miss Dollâ€”. Buena chica. Ahora, voy a introducirlo. Lentamente. Respira.
+—Eso es —ronroneó Miss Doll—. Buena chica. Ahora, voy a introducirlo. Lentamente. Respira.
 
-La punta del plug tocÃ³ su entrada. La presiÃ³n fue suave al principio, casi una caricia. Luego aumentÃ³ gradualmente, insistente, inevitable.
+La punta del plug tocó su entrada. La presión fue suave al principio, casi una caricia. Luego aumentó gradualmente, insistente, inevitable.
 
 *No puedo... no puedo hacer esto...*
 
-â€”RelÃ¡jate â€”ordenÃ³ Miss Dollâ€”. Empuja hacia afuera, no hacia adentro. Tu cuerpo sabe cÃ³mo recibir. ConfÃ­a en Ã©l.
+—Relájate —ordenó Miss Doll—. Empuja hacia afuera, no hacia adentro. Tu cuerpo sabe cómo recibir. Confía en él.
 
-La parte mÃ¡s ancha del plug presionÃ³ contra ella. Por un momento, pareciÃ³ imposible. Demasiado grande. Demasiado invasivo.
+La parte más ancha del plug presionó contra ella. Por un momento, pareció imposible. Demasiado grande. Demasiado invasivo.
 
 Y entonces...
 
-EntrÃ³.
+Entró.
 
-La sensaciÃ³n fue... indescriptible. Roberta sintiÃ³ cÃ³mo su cuerpo se cerraba alrededor de la base del plug, atrapÃ¡ndolo dentro. La presiÃ³n era constante, omnipresente. PodÃ­a sentir el objeto ocupando un espacio que nunca habÃ­a sabido que existÃ­a.
+La sensación fue... indescriptible. Roberta sintió cómo su cuerpo se cerraba alrededor de la base del plug, atrapándolo dentro. La presión era constante, omnipresente. Podía sentir el objeto ocupando un espacio que nunca había sabido que existía.
 
-Un gemido escapÃ³ de sus labios. No de dolor. De algo mÃ¡s complejo.
+Un gemido escapó de sus labios. No de dolor. De algo más complejo.
 
-â€”Bien â€”dijo Miss Doll, y su voz contenÃ­a satisfacciÃ³nâ€”. Muy bien.
+—Bien —dijo Miss Doll, y su voz contenía satisfacción—. Muy bien.
 
-Sus dedos ajustaron la base del plug, haciendo que el cristal rosa brillara hacia afuera. Roberta sintiÃ³ el movimiento como si fuera una onda de calor que subÃ­a por su columna.
+Sus dedos ajustaron la base del plug, haciendo que el cristal rosa brillara hacia afuera. Roberta sintió el movimiento como si fuera una onda de calor que subía por su columna.
 
-*Tengo algo dentro de mÃ­*, pensÃ³, aturdida. *Algo que Miss Doll puso ahÃ­. Algo que no puedo quitarme sin su permiso.*
+*Tengo algo dentro de mí*, pensó, aturdida. *Algo que Miss Doll puso ahí. Algo que no puedo quitarme sin su permiso.*
 
-La idea deberÃ­a haber sido aterradora. En cambio, era... liberadora.
+La idea debería haber sido aterradora. En cambio, era... liberadora.
 
-â€”Durante las prÃ³ximas horas, tu cuerpo se acostumbrarÃ¡ â€”explicÃ³ Miss Doll, acariciando la base del plug con un dedoâ€”. MaÃ±ana usarÃ¡s uno mÃ¡s grande. Y el dÃ­a siguiente, otro. Y asÃ­, hasta que estÃ©s lista para servir... completamente.
+—Durante las próximas horas, tu cuerpo se acostumbrará —explicó Miss Doll, acariciando la base del plug con un dedo—. Mañana usarás uno más grande. Y el día siguiente, otro. Y así, hasta que estés lista para servir... completamente.
 
-*Completamente.* La palabra resonÃ³ en la mente de Roberta. SabÃ­a lo que significaba. SabÃ­a para quÃ© la estaban preparando.
+*Completamente.* La palabra resonó en la mente de Roberta. Sabía lo que significaba. Sabía para qué la estaban preparando.
 
-Y por primera vez, no sintiÃ³ terror.
+Y por primera vez, no sintió terror.
 
-SintiÃ³ anticipaciÃ³n.
+Sintió anticipación.
 
-â€”Este plug se queda puesto â€”continuÃ³ Miss Dollâ€”. DormirÃ¡s con Ã©l. Lo sentirÃ¡s cada vez que te muevas. â€”Sus dedos rozaron la base, enviando otra onda de sensaciÃ³n a travÃ©s del cuerpo de Robertaâ€”. Cada vez que te sientes. Cada vez que camines. Cada vez que pienses en quitÃ¡rtelo... recordarÃ¡s para quÃ© estÃ¡s siendo entrenada. Para quiÃ©n estÃ¡s siendo preparada.
+—Este plug se queda puesto —continuó Miss Doll—. Dormirás con él. Lo sentirás cada vez que te muevas. —Sus dedos rozaron la base, enviando otra onda de sensación a través del cuerpo de Roberta—. Cada vez que te sientes. Cada vez que camines. Cada vez que pienses en quitártelo... recordarás para qué estás siendo entrenada. Para quién estás siendo preparada.
 
-Roberta se irguiÃ³ lentamente. El plug se moviÃ³ dentro de ella con cada movimiento, una presencia constante, imposible de ignorar. Era como tener un secreto dentro de su cuerpo. Un secreto que solo ella y Miss Doll conocÃ­an.
+Roberta se irguió lentamente. El plug se movió dentro de ella con cada movimiento, una presencia constante, imposible de ignorar. Era como tener un secreto dentro de su cuerpo. Un secreto que solo ella y Miss Doll conocían.
 
-SubiÃ³ las braguitas coral sobre el plug. BajÃ³ la falda.
+Subió las braguitas coral sobre el plug. Bajó la falda.
 
 Dio un paso experimental.
 
-El plug se moviÃ³.
+El plug se movió.
 
-Apenas un centÃ­metro, pero suficiente para enviar una descarga de sensaciÃ³n a travÃ©s de su pelvis. Sus caderas oscilaron automÃ¡ticamente, buscando el Ã¡ngulo que minimizara â€”o maximizaraâ€” el movimiento interno.
+Apenas un centímetro, pero suficiente para enviar una descarga de sensación a través de su pelvis. Sus caderas oscilaron automáticamente, buscando el ángulo que minimizara —o maximizara— el movimiento interno.
 
-Otro paso. Otra onda de sensaciÃ³n.
+Otro paso. Otra onda de sensación.
 
-*Dios mÃ­o*, pensÃ³ Roberta. *Voy a sentir esto con cada paso. Cada vez que camine. Cada vez que me siente. Es como... es como si Miss Doll estuviera dentro de mÃ­. ControlÃ¡ndome desde dentro.*
+*Dios mío*, pensó Roberta. *Voy a sentir esto con cada paso. Cada vez que camine. Cada vez que me siente. Es como... es como si Miss Doll estuviera dentro de mí. Controlándome desde dentro.*
 
-â€”Perfecta â€”dijo Miss Doll, observÃ¡ndolaâ€”. Ya caminas como una mujer que estÃ¡ lista para servir.
+—Perfecta —dijo Miss Doll, observándola—. Ya caminas como una mujer que está lista para servir.
 
-Roberta se mirÃ³ en el espejo una Ãºltima vez. La persona que le devolvÃ­a la mirada era irreconocible. Maquillada con precisiÃ³n. Peluca negra enmarcando un rostro que ya no parecÃ­a masculino. Vestida de secretaria, con tacones imposibles y una falda que restringÃ­a sus movimientos.
+Roberta se miró en el espejo una última vez. La persona que le devolvía la mirada era irreconocible. Maquillada con precisión. Peluca negra enmarcando un rostro que ya no parecía masculino. Vestida de secretaria, con tacones imposibles y una falda que restringía sus movimientos.
 
-Y debajo de todo eso, invisible pero omnipresente, un plug rosa que la recordaba con cada paso que su cuerpo ya no le pertenecÃ­a.
+Y debajo de todo eso, invisible pero omnipresente, un plug rosa que la recordaba con cada paso que su cuerpo ya no le pertenecía.
 
-*Â¿QuiÃ©n soy?*, se preguntÃ³.
+*¿Quién soy?*, se preguntó.
 
-Pero ya conocÃ­a la respuesta.
+Pero ya conocía la respuesta.
 
 *Soy Roberta. Soy una sirvienta. Y estoy aprendiendo a servir... de todas las maneras posibles.*
 
 ---
 
-â€”Â¿EstÃ¡s lista para tu nuevo trabajo? â€”preguntÃ³ Miss Doll, de pie detrÃ¡s de ella.
+—¿Estás lista para tu nuevo trabajo? —preguntó Miss Doll, de pie detrás de ella.
 
-Roberta asintiÃ³. Su voz saliÃ³ diferente. MÃ¡s suave. MÃ¡s sumisa.
+Roberta asintió. Su voz salió diferente. Más suave. Más sumisa.
 
-â€”SÃ­, SeÃ±ora. Estoy lista.
+—Sí, Señora. Estoy lista.
 
-Miss Doll la besÃ³ en la mejilla. Sus labios dejaron una marca rosa brillante.
+Miss Doll la besó en la mejilla. Sus labios dejaron una marca rosa brillante.
 
-â€”TodavÃ­a nos quedan diez dÃ­as de entrenamiento â€”dijoâ€”. Pero maÃ±ana es la presentaciÃ³n preliminar. Alejandro te verÃ¡ por primera vez. DespuÃ©s, seguiremos refinÃ¡ndote hasta que seas perfecta. Descansa esta noche. Viste algo bonito para dormir. MantÃ©n el plug puesto. Y Roberta...
+—Todavía nos quedan diez días de entrenamiento —dijo—. Pero mañana es la presentación preliminar. Alejandro te verá por primera vez. Después, seguiremos refinándote hasta que seas perfecta. Descansa esta noche. Viste algo bonito para dormir. Mantén el plug puesto. Y Roberta...
 
-Roberta se girÃ³ para mirarla.
+Roberta se giró para mirarla.
 
-â€”MaÃ±ana conoces a tu nuevo jefe. Y Ã©l va a querer... probarte.
+—Mañana conoces a tu nuevo jefe. Y él va a querer... probarte.
 
 *Probarte.*
 
-La palabra deberÃ­a haber provocado pÃ¡nico. Pero Roberta sintiÃ³ algo diferente. AnticipaciÃ³n. Curiosidad. Y, muy en el fondo, debajo de los restos de Roberto, algo que se parecÃ­a mucho al deseo.
+La palabra debería haber provocado pánico. Pero Roberta sintió algo diferente. Anticipación. Curiosidad. Y, muy en el fondo, debajo de los restos de Roberto, algo que se parecía mucho al deseo.
 
-*Â¿Voy a servirlo... asÃ­?*, se preguntÃ³.
+*¿Voy a servirlo... así?*, se preguntó.
 
-Y mientras caminaba hacia su coche â€”tacones todavÃ­a puestos, plug todavÃ­a dentro, cada paso un recordatorio de su nueva realidadâ€” se dio cuenta de que ya no importaba cÃ³mo.
+Y mientras caminaba hacia su coche —tacones todavía puestos, plug todavía dentro, cada paso un recordatorio de su nueva realidad— se dio cuenta de que ya no importaba cómo.
 
-Solo importaba que servirÃ­a bien.
+Solo importaba que serviría bien.
 
 ---
 
 **Esa noche, 11:47 PM.**
 
-Roberto estaba en la cama junto a Claudia, rÃ­gido como una tabla, cuando su telÃ©fono vibrÃ³.
+Roberto estaba en la cama junto a Claudia, rígido como una tabla, cuando su teléfono vibró.
 
-El mensaje era de un nÃºmero desconocido. Pero Roberto sabÃ­a exactamente quiÃ©n era.
+El mensaje era de un número desconocido. Pero Roberto sabía exactamente quién era.
 
 **"Sal de la casa. Ahora. Tienes 10 minutos."**
 
-El pÃ¡nico fue instantÃ¡neo. Claudia dormÃ­a a su lado. El plug todavÃ­a estaba dentro de Ã©l, una presencia imposible de olvidar.
+El pánico fue instantáneo. Claudia dormía a su lado. El plug todavía estaba dentro de él, una presencia imposible de olvidar.
 
-**"Inventa una excusa. Emergencia de trabajo. Lo que sea. Pero sal. Si no estÃ¡s afuera en 10 minutos, Claudia recibe la carpeta rosa completa. Fotos, videos, y un mensaje explicando exactamente quÃ© has hecho esta semana."**
+**"Inventa una excusa. Emergencia de trabajo. Lo que sea. Pero sal. Si no estás afuera en 10 minutos, Claudia recibe la carpeta rosa completa. Fotos, videos, y un mensaje explicando exactamente qué has hecho esta semana."**
 
-Roberto se levantÃ³ con el corazÃ³n latiendo en la garganta.
+Roberto se levantó con el corazón latiendo en la garganta.
 
-â€”Â¿Roberto? â€”murmurÃ³ Claudia, medio dormidaâ€”. Â¿QuÃ© pasa?
+—¿Roberto? —murmuró Claudia, medio dormida—. ¿Qué pasa?
 
-â€”Emergencia en la oficina â€”susurrÃ³ Ã©l, vistiÃ©ndose en la oscuridadâ€”. Un problema con los servidores. Tengo que ir.
+—Emergencia en la oficina —susurró él, vistiéndose en la oscuridad—. Un problema con los servidores. Tengo que ir.
 
-â€”Â¿A esta hora?
+—¿A esta hora?
 
-â€”Es urgente. VolverÃ© maÃ±ana.
+—Es urgente. Volveré mañana.
 
-Claudia se girÃ³, demasiado dormida para discutir.
+Claudia se giró, demasiado dormida para discutir.
 
-â€”Ten cuidado.
+—Ten cuidado.
 
-Roberto saliÃ³ de la habitaciÃ³n. Cada paso con el plug dentro era un recordatorio. Cada escalÃ³n que bajaba era un paso mÃ¡s lejos de su vida anterior.
+Roberto salió de la habitación. Cada paso con el plug dentro era un recordatorio. Cada escalón que bajaba era un paso más lejos de su vida anterior.
 
-Afuera, un coche rosa neÃ³n lo esperaba.
+Afuera, un coche rosa neón lo esperaba.
 
-Miss Doll estaba al volante, su sonrisa de tiburÃ³n visible bajo las luces del tablero.
+Miss Doll estaba al volante, su sonrisa de tiburón visible bajo las luces del tablero.
 
-â€”SÃºbete â€”ordenÃ³â€”. Tu entrenamiento intensivo comienza ahora.
+—Súbete —ordenó—. Tu entrenamiento intensivo comienza ahora.
 
-Roberto subiÃ³.
+Roberto subió.
 
-La puerta del coche se cerrÃ³.
+La puerta del coche se cerró.
 
-Y Roberto ValdÃ©s, Director Regional de Ventas, marido de Claudia, padre de familia... empezÃ³ a desaparecer.
+Y Roberto Valdés, Director Regional de Ventas, marido de Claudia, padre de familia... empezó a desaparecer.
 
 Solo quedaba Roberta.
 
@@ -1980,243 +1980,243 @@ Y ella estaba lista para servir.
 ---
 
 
-# CapÃ­tulo 6: El Fin de Semana (DÃ­as 6-7)
+# Capítulo 6: El Fin de Semana (Días 6-7)
 
-El apartamento de Miss Doll era exactamente como Roberta habÃ­a imaginado: rosa, brillante, y absolutamente aterrador.
+El apartamento de Miss Doll era exactamente como Roberta había imaginado: rosa, brillante, y absolutamente aterrador.
 
-Las paredes eran rosa pÃ¡lido. Los muebles, rosa fucsia. Las cortinas, rosa satÃ©n. Incluso la luz que entraba por las ventanas parecÃ­a teÃ±ida de rosa, como si el edificio entero existiera en otra dimensiÃ³n donde el color habÃ­a sido reinventado.
+Las paredes eran rosa pálido. Los muebles, rosa fucsia. Las cortinas, rosa satén. Incluso la luz que entraba por las ventanas parecía teñida de rosa, como si el edificio entero existiera en otra dimensión donde el color había sido reinventado.
 
-â€”Este serÃ¡ tu hogar durante los prÃ³ximos diez dÃ­as â€”dijo Miss Doll, colgando su bolso en un perchero en forma de tacÃ³nâ€”. Bueno, no *tu* hogar. El mÃ­o. TÃº solo eres una visitante temporal.
+—Este será tu hogar durante los próximos diez días —dijo Miss Doll, colgando su bolso en un perchero en forma de tacón—. Bueno, no *tu* hogar. El mío. Tú solo eres una visitante temporal.
 
-Roberta mirÃ³ a su alrededor. En las paredes habÃ­a fotografÃ­as enmarcadas de mujeres â€”o lo que parecÃ­an mujeresâ€” en diversas poses de sumisiÃ³n. Arrodilladas. Inclinadas. Sirviendo.
+Roberta miró a su alrededor. En las paredes había fotografías enmarcadas de mujeres —o lo que parecían mujeres— en diversas poses de sumisión. Arrodilladas. Inclinadas. Sirviendo.
 
-*Â¿Esas son... sus otras obras?*, pensÃ³ con horror.
+*¿Esas son... sus otras obras?*, pensó con horror.
 
-â€”QuÃ­tate la ropa â€”ordenÃ³ Miss Dollâ€”. Toda la ropa de hombre. A partir de ahora, solo usarÃ¡s lo que yo te dÃ©.
+—Quítate la ropa —ordenó Miss Doll—. Toda la ropa de hombre. A partir de ahora, solo usarás lo que yo te dé.
 
-Roberta obedeciÃ³. La camisa cayÃ³. Los pantalones cayeron. Los zapatos fueron pateados hacia un rincÃ³n.
+Roberta obedeció. La camisa cayó. Los pantalones cayeron. Los zapatos fueron pateados hacia un rincón.
 
-QuedÃ³ en lencerÃ­a coral, el plug todavÃ­a en su lugar.
+Quedó en lencería coral, el plug todavía en su lugar.
 
-Miss Doll caminÃ³ hacia un armario rosa y lo abriÃ³. Dentro habÃ­a decenas de conjuntos: vestidos, faldas, blusas, lencerÃ­a de todos los colores. Un arcoÃ­ris de feminidad.
+Miss Doll caminó hacia un armario rosa y lo abrió. Dentro había decenas de conjuntos: vestidos, faldas, blusas, lencería de todos los colores. Un arcoíris de feminidad.
 
-SacÃ³ algo y se lo extendiÃ³.
+Sacó algo y se lo extendió.
 
-Era un camisÃ³n de satÃ©n rosa, corto, con encaje en el escote y la baja.
+Era un camisón de satén rosa, corto, con encaje en el escote y la baja.
 
-â€”Esto es para dormir. Pero primero...
+—Esto es para dormir. Pero primero...
 
-Del cajÃ³n inferior sacÃ³ otra cosa.
+Del cajón inferior sacó otra cosa.
 
-Roberta sintiÃ³ que el estÃ³mago se le helaba.
+Roberta sintió que el estómago se le helaba.
 
-Era un cinturÃ³n de castidad.
+Era un cinturón de castidad.
 
-No el tipo medieval de metal â€”era moderno, de silicona rosa con detalles de encaje, aparentemente diseÃ±ado para verse "bonito". Pero la funciÃ³n era clara: una jaula flexible que envolverÃ­a sus genitales, un candado pequeÃ±o que Miss Doll harÃ­a clic, y la llave... la llave que desaparecerÃ­a en su bolso.
+No el tipo medieval de metal —era moderno, de silicona rosa con detalles de encaje, aparentemente diseñado para verse "bonito". Pero la función era clara: una jaula flexible que envolvería sus genitales, un candado pequeño que Miss Doll haría clic, y la llave... la llave que desaparecería en su bolso.
 
-Roberta sintiÃ³ que el aire se le escapaba de los pulmones.
+Roberta sintió que el aire se le escapaba de los pulmones.
 
 *Eso no. Cualquier cosa menos eso.*
 
-Pero incluso mientras su mente rechazaba la idea, sintiÃ³ algo mÃ¡s. Un cosquilleo de... Â¿curiosidad? Â¿AnticipaciÃ³n? La idea de no tener control sobre su propio placer deberÃ­a horrorizarla. En cambio, una parte oscura de ella preguntaba: *Â¿CÃ³mo se sentirÃ¡ no poder tocarse? Â¿CÃ³mo se sentirÃ¡ que alguien mÃ¡s decida cuÃ¡ndo â€”y siâ€” puede correrse?*
+Pero incluso mientras su mente rechazaba la idea, sintió algo más. Un cosquilleo de... ¿curiosidad? ¿Anticipación? La idea de no tener control sobre su propio placer debería horrorizarla. En cambio, una parte oscura de ella preguntaba: *¿Cómo se sentirá no poder tocarse? ¿Cómo se sentirá que alguien más decida cuándo —y si— puede correrse?*
 
-â€”A partir de ahora â€”dijo Miss Doll, arrodillÃ¡ndose frente a ella. Sus dedos enguantados tomaron la polla de Roberta con una naturalidad que la hizo jadearâ€”, tu placer me pertenece. No te tocarÃ¡s. No te masturbarÃ¡s. No tendrÃ¡s erecciones sin mi permiso.
+—A partir de ahora —dijo Miss Doll, arrodillándose frente a ella. Sus dedos enguantados tomaron la polla de Roberta con una naturalidad que la hizo jadear—, tu placer me pertenece. No te tocarás. No te masturbarás. No tendrás erecciones sin mi permiso.
 
-Sus dedos masajearon la base, y Roberta sintiÃ³ cÃ³mo su polla respondÃ­a, traicionera, endureciÃ©ndose en la mano que pronto la enjaularÃ­a.
+Sus dedos masajearon la base, y Roberta sintió cómo su polla respondía, traicionera, endureciéndose en la mano que pronto la enjaularía.
 
-â€”Tu polla es un ornamento, no una herramienta â€”continuÃ³ Miss Doll, su voz baja y casi hipnÃ³ticaâ€”. Es algo bonito para mostrar, no algo que uses. Â¿Entiendes la diferencia?
+—Tu polla es un ornamento, no una herramienta —continuó Miss Doll, su voz baja y casi hipnótica—. Es algo bonito para mostrar, no algo que uses. ¿Entiendes la diferencia?
 
-â€”No puede... â€”empezÃ³ Roberta.
+—No puede... —empezó Roberta.
 
 *Click.*
 
-El candado se cerrÃ³.
+El candado se cerró.
 
-La sensaciÃ³n fue inmediata y devastadora: presiÃ³n constante, restricciÃ³n total, *posesiÃ³n*. Su polla quedÃ³ atrapada en la jaula rosa, visible a travÃ©s del material pero completamente inaccesible. Cada latido de su corazÃ³n la hacÃ­a pulsar contra las paredes de silicona. Cada intento de ereciÃ³n era contenido, frustrado, convertido en una presiÃ³n que no podÃ­a aliviarse.
+La sensación fue inmediata y devastadora: presión constante, restricción total, *posesión*. Su polla quedó atrapada en la jaula rosa, visible a través del material pero completamente inaccesible. Cada latido de su corazón la hacía pulsar contra las paredes de silicona. Cada intento de ereción era contenido, frustrado, convertido en una presión que no podía aliviarse.
 
 *Esto es... esto es...*
 
-No tenÃ­a palabras. Era como si una parte de ella hubiera sido robada. Pero tambiÃ©n, de alguna manera, *liberada*. Ya no tenÃ­a que preocuparse por su polla. Ya no tenÃ­a que pensar en ella. Era responsabilidad de Miss Doll ahora.
+No tenía palabras. Era como si una parte de ella hubiera sido robada. Pero también, de alguna manera, *liberada*. Ya no tenía que preocuparse por su polla. Ya no tenía que pensar en ella. Era responsabilidad de Miss Doll ahora.
 
-â€”Â¿CÃ³mo se siente? â€”preguntÃ³ Miss Doll, sus ojos brillando con interÃ©s clÃ­nico.
+—¿Cómo se siente? —preguntó Miss Doll, sus ojos brillando con interés clínico.
 
-â€”Se siente... â€”Roberta tragÃ³ salivaâ€”. Se siente como si ya no fuera mÃ­a.
+—Se siente... —Roberta tragó saliva—. Se siente como si ya no fuera mía.
 
-â€”Exactamente. â€”Miss Doll sonriÃ³â€”. Porque ya no lo es.
+—Exactamente. —Miss Doll sonrió—. Porque ya no lo es.
 
-â€”QuÃ­tate el plug â€”ordenÃ³ Miss Dollâ€”. Es hora de uno mÃ¡s grande.
+—Quítate el plug —ordenó Miss Doll—. Es hora de uno más grande.
 
-Roberta obedeciÃ³ con manos temblorosas. El plug saliÃ³ con un sonido hÃºmedo que la hizo enrojecer de vergÃ¼enza. Se sintiÃ³ vacÃ­a, incompleta. Ya se habÃ­a acostumbrado a la sensaciÃ³n de tener algo dentro.
+Roberta obedeció con manos temblorosas. El plug salió con un sonido húmedo que la hizo enrojecer de vergüenza. Se sintió vacía, incompleta. Ya se había acostumbrado a la sensación de tener algo dentro.
 
-Miss Doll le entregÃ³ el reemplazo. Este era del tamaÃ±o de dos dedos juntos. TodavÃ­a pequeÃ±o comparado con... otras cosas. Pero definitivamente mÃ¡s grande que el anterior.
+Miss Doll le entregó el reemplazo. Este era del tamaño de dos dedos juntos. Todavía pequeño comparado con... otras cosas. Pero definitivamente más grande que el anterior.
 
-â€”MaÃ±ana serÃ¡ mÃ¡s grande â€”dijo ellaâ€”. Y el dÃ­a siguiente. Hasta que estÃ©s lista para recibir algo real.
+—Mañana será más grande —dijo ella—. Y el día siguiente. Hasta que estés lista para recibir algo real.
 
-El plug entrÃ³. La sensaciÃ³n de *lleno* fue mÃ¡s intensa que antes, casi abrumadora. Roberta jadeÃ³, sus caderas moviÃ©ndose involuntariamente, buscando el Ã¡ngulo correcto.
+El plug entró. La sensación de *lleno* fue más intensa que antes, casi abrumadora. Roberta jadeó, sus caderas moviéndose involuntariamente, buscando el ángulo correcto.
 
-â€”Ahora, a la cama â€”ordenÃ³ Miss Dollâ€”. MaÃ±ana empezamos temprano.
+—Ahora, a la cama —ordenó Miss Doll—. Mañana empezamos temprano.
 
 ---
 
-**DÃ­a 6 - SÃ¡bado**
+**Día 6 - Sábado**
 
-Roberta â€”porque ya no podÃ­a pensar en sÃ­ misma como Robertoâ€” despertÃ³ en una cama rosa, en un camisÃ³n rosa, con un plug dentro y una jaula en su polla.
+Roberta —porque ya no podía pensar en sí misma como Roberto— despertó en una cama rosa, en un camisón rosa, con un plug dentro y una jaula en su polla.
 
-Miss Doll ya estaba vestida, impecable como siempre, sosteniendo una taza de cafÃ©.
+Miss Doll ya estaba vestida, impecable como siempre, sosteniendo una taza de café.
 
-â€”Buenos dÃ­as, mascota. Hora de empezar.
+—Buenos días, mascota. Hora de empezar.
 
-El dÃ­a fue un maratÃ³n de transformaciÃ³n.
+El día fue un maratón de transformación.
 
-Primero, el maquillaje. Miss Doll le enseÃ±Ã³ a aplicar la base correctamente, a difuminar las sombras, a delinear los ojos. Practicaron durante dos horas hasta que Roberta pudo hacerlo sola con resultados aceptables.
+Primero, el maquillaje. Miss Doll le enseñó a aplicar la base correctamente, a difuminar las sombras, a delinear los ojos. Practicaron durante dos horas hasta que Roberta pudo hacerlo sola con resultados aceptables.
 
-â€”No perfectos â€”dijo Miss Dollâ€”. Pero una secretaria no necesita ser perfecta. Solo necesita ser presentable.
+—No perfectos —dijo Miss Doll—. Pero una secretaria no necesita ser perfecta. Solo necesita ser presentable.
 
 Luego, la voz.
 
-â€”Tu voz es demasiado grave â€”dijo Miss Dollâ€”. Suena a hombre. Vamos a arreglar eso.
+—Tu voz es demasiado grave —dijo Miss Doll—. Suena a hombre. Vamos a arreglar eso.
 
-Le hizo repetir frases una y otra vez, subiendo el tono, suavizando las consonantes, aÃ±adiendo inflexiones femeninas.
+Le hizo repetir frases una y otra vez, subiendo el tono, suavizando las consonantes, añadiendo inflexiones femeninas.
 
-â€”"Buenos dÃ­as, Â¿en quÃ© puedo ayudarle?"
+—"Buenos días, ¿en qué puedo ayudarle?"
 
-â€”Buenos dÃ­as, Â¿en quÃ© puedo ayudarle?
+—Buenos días, ¿en qué puedo ayudarle?
 
-â€”MÃ¡s suave. MÃ¡s sumisa. Como si le estuvieras ofreciendo algo.
+—Más suave. Más sumisa. Como si le estuvieras ofreciendo algo.
 
-â€”Buenos dÃ­as... Â¿en quÃ© puedo ayudarle?
+—Buenos días... ¿en qué puedo ayudarle?
 
-â€”Mejor. Otra vez.
+—Mejor. Otra vez.
 
 Durante horas.
 
-DespuÃ©s vino el entrenamiento de servicio.
+Después vino el entrenamiento de servicio.
 
-Miss Doll se sentÃ³ en un sofÃ¡ rosa y Roberta tuvo que practicar servirle. Traer cafÃ©. Traer documentos. Arrodillarse cuando se le ordenaba. Levantarse cuando se le ordenaba. Inclinar la cabeza cuando hablaba un superior.
+Miss Doll se sentó en un sofá rosa y Roberta tuvo que practicar servirle. Traer café. Traer documentos. Arrodillarse cuando se le ordenaba. Levantarse cuando se le ordenaba. Inclinar la cabeza cuando hablaba un superior.
 
-â€”El servicio no es solo hacer cosas â€”explicÃ³ Miss Dollâ€”. Es *anticipar*. Una buena sirvienta sabe lo que su amo quiere antes de que lo pida.
+—El servicio no es solo hacer cosas —explicó Miss Doll—. Es *anticipar*. Una buena sirvienta sabe lo que su amo quiere antes de que lo pida.
 
-Roberta aprendiÃ³. MemorizÃ³ los gestos de Miss Doll, sus preferencias, sus ritmos.
+Roberta aprendió. Memorizó los gestos de Miss Doll, sus preferencias, sus ritmos.
 
-Y por la noche, vino el entrenamiento mÃ¡s difÃ­cil.
+Y por la noche, vino el entrenamiento más difícil.
 
-Miss Doll sacÃ³ un dildo rosa de silicona. No era enorme â€”del tamaÃ±o de un pene promedioâ€” pero para Roberta, que nunca habÃ­a tocado uno, parecÃ­a imposible.
+Miss Doll sacó un dildo rosa de silicona. No era enorme —del tamaño de un pene promedio— pero para Roberta, que nunca había tocado uno, parecía imposible.
 
-â€”Esto es lo que vas a practicar esta noche â€”dijo Miss Dollâ€”. Servicio oral. Tu jefe va a esperar que sepas hacerlo.
+—Esto es lo que vas a practicar esta noche —dijo Miss Doll—. Servicio oral. Tu jefe va a esperar que sepas hacerlo.
 
-â€”No puedo... yo nunca...
+—No puedo... yo nunca...
 
-â€”Por eso estÃ¡s practicando. ArrodÃ­llate.
+—Por eso estás practicando. Arrodíllate.
 
-Roberta se arrodillÃ³ frente al dildo, que Miss Doll sostenÃ­a a la altura de su cadera.
+Roberta se arrodilló frente al dildo, que Miss Doll sostenía a la altura de su cadera.
 
-â€”Empieza con besos. Suaves. En la punta.
+—Empieza con besos. Suaves. En la punta.
 
-Roberta obedeciÃ³. Sus labios tocaron la silicona. La textura era extraÃ±a â€”frÃ­a, artificialâ€” pero el acto era... mÃ¡s fÃ¡cil de lo que esperaba.
+Roberta obedeció. Sus labios tocaron la silicona. La textura era extraña —fría, artificial— pero el acto era... más fácil de lo que esperaba.
 
-â€”Ahora lame. Desde la base hasta la punta. Lento.
+—Ahora lame. Desde la base hasta la punta. Lento.
 
-Su lengua se deslizÃ³ por el material.
+Su lengua se deslizó por el material.
 
-â€”Bien. Ahora toma la punta en tu boca. Solo la punta. No todo.
+—Bien. Ahora toma la punta en tu boca. Solo la punta. No todo.
 
-La silicona rosa entrÃ³ en su boca.
+La silicona rosa entró en su boca.
 
-â€”Succiona. Suave. Como si fuera un caramelo.
+—Succiona. Suave. Como si fuera un caramelo.
 
-Roberta succionÃ³.
+Roberta succionó.
 
-â€”MÃ¡s profundo. Poco a poco. Cuidado con los dientes.
+—Más profundo. Poco a poco. Cuidado con los dientes.
 
-Durante la siguiente hora, Miss Doll la guiÃ³. Le enseÃ±Ã³ a usar la lengua mientras succionaba. A usar la mano para lo que no podÃ­a alcanzar. A mirara hacia arriba con ojos sumisos. A gemir suavemente para complacer.
+Durante la siguiente hora, Miss Doll la guió. Le enseñó a usar la lengua mientras succionaba. A usar la mano para lo que no podía alcanzar. A mirara hacia arriba con ojos sumisos. A gemir suavemente para complacer.
 
-Para cuando terminaron, Roberta habÃ­a tomado el dildo hasta la mitad. Sus ojos estaban llorosos. Su mandÃ­bula dolÃ­a.
+Para cuando terminaron, Roberta había tomado el dildo hasta la mitad. Sus ojos estaban llorosos. Su mandíbula dolía.
 
-Pero no se habÃ­a quejado ni una vez.
+Pero no se había quejado ni una vez.
 
-â€”MaÃ±ana practicaremos mÃ¡s â€”dijo Miss Dollâ€”. Y cuando conozcas a Alejandro, estarÃ¡s lista.
+—Mañana practicaremos más —dijo Miss Doll—. Y cuando conozcas a Alejandro, estarás lista.
 
 *Alejandro.*
 
-El nombre de su competidor. El hombre que le habÃ­a robado clientes. El hombre ante quien pronto estarÃ­a de rodillas.
+El nombre de su competidor. El hombre que le había robado clientes. El hombre ante quien pronto estaría de rodillas.
 
-Roberta sintiÃ³ que algo se rompÃ­a dentro de ella. Algo que habÃ­a estado resistiendo toda la semana.
+Roberta sintió que algo se rompía dentro de ella. Algo que había estado resistiendo toda la semana.
 
-*Ya no importa*, pensÃ³. *Ya no importa quiÃ©n era. Solo importa quiÃ©n soy ahora.*
+*Ya no importa*, pensó. *Ya no importa quién era. Solo importa quién soy ahora.*
 
 *Soy Roberta. Y estoy aprendiendo a servir.*
 
 ---
 
-**DÃ­a 7 - Domingo**
+**Día 7 - Domingo**
 
-El domingo fue mÃ¡s de lo mismo, pero mÃ¡s intenso.
+El domingo fue más de lo mismo, pero más intenso.
 
-El plug de la maÃ±ana fue aÃºn mÃ¡s grande. Tres dedos de ancho. Roberta jadeÃ³ cuando entrÃ³ y caminÃ³ diferente todo el dÃ­a, sus caderas moviÃ©ndose naturalmente alrededor de la invasiÃ³n.
+El plug de la mañana fue aún más grande. Tres dedos de ancho. Roberta jadeó cuando entró y caminó diferente todo el día, sus caderas moviéndose naturalmente alrededor de la invasión.
 
-El entrenamiento oral continuÃ³. Miss Doll le enseÃ±Ã³ a tomar el dildo mÃ¡s profundo, a controlar el reflejo de arcada, a respirar por la nariz.
+El entrenamiento oral continuó. Miss Doll le enseñó a tomar el dildo más profundo, a controlar el reflejo de arcada, a respirar por la nariz.
 
-â€”Cuando un hombre te use â€”dijo Miss Doll, sosteniendo el dildo mientras Roberta trabajabaâ€”, no te preguntarÃ¡ si estÃ¡s cÃ³moda. UsarÃ¡ tu boca como quiera. Tu trabajo es hacerlo sentir bien, no importa lo que eso signifique para ti.
+—Cuando un hombre te use —dijo Miss Doll, sosteniendo el dildo mientras Roberta trabajaba—, no te preguntará si estás cómoda. Usará tu boca como quiera. Tu trabajo es hacerlo sentir bien, no importa lo que eso signifique para ti.
 
-Roberta asintiÃ³, el dildo todavÃ­a en su boca.
+Roberta asintió, el dildo todavía en su boca.
 
-Por la tarde, Miss Doll la hizo vestirse completamente: vestido rosa ajustado, tacones de doce centÃ­metros, maquillaje perfecto, peluca negra. Y la hizo practicar poses.
+Por la tarde, Miss Doll la hizo vestirse completamente: vestido rosa ajustado, tacones de doce centímetros, maquillaje perfecto, peluca negra. Y la hizo practicar poses.
 
-â€”Cuando Alejandro te mire, esto es lo que verÃ¡ â€”dijo Miss Doll, ajustando su posturaâ€”. Una secretaria hermosa. Una sirvienta disponible. Una boca dispuesta.
+—Cuando Alejandro te mire, esto es lo que verá —dijo Miss Doll, ajustando su postura—. Una secretaria hermosa. Una sirvienta disponible. Una boca dispuesta.
 
-Roberta se mirÃ³ en el espejo.
+Roberta se miró en el espejo.
 
-Ya no veÃ­a a Roberto.
+Ya no veía a Roberto.
 
-Solo veÃ­a a Roberta.
+Solo veía a Roberta.
 
-Y por primera vez, no sintiÃ³ horror. Solo aceptaciÃ³n.
+Y por primera vez, no sintió horror. Solo aceptación.
 
-*Esto es lo que soy*, pensÃ³. *Esto es lo que siempre fui, escondido debajo del traje y la arrogancia.*
+*Esto es lo que soy*, pensó. *Esto es lo que siempre fui, escondido debajo del traje y la arrogancia.*
 
-*Una sirvienta. Una muÃ±eca. Una boca.*
+*Una sirvienta. Una muñeca. Una boca.*
 
-*Y pronto, serÃ© perfecta.*
+*Y pronto, seré perfecta.*
 
 ---
 
-Esa noche, Miss Doll le permitiÃ³ llamar a Claudia.
+Esa noche, Miss Doll le permitió llamar a Claudia.
 
-â€”Dile que el viaje de negocios se extendiÃ³ â€”ordenÃ³â€”. Que volverÃ¡s el prÃ³ximo fin de semana.
+—Dile que el viaje de negocios se extendió —ordenó—. Que volverás el próximo fin de semana.
 
-Roberto â€”una sombra de Robertoâ€” tomÃ³ el telÃ©fono.
+Roberto —una sombra de Roberto— tomó el teléfono.
 
-â€”Hola, cariÃ±o.
+—Hola, cariño.
 
-â€”Â¡Roberto! â€”La voz de Claudia sonaba preocupadaâ€”. Â¿DÃ³nde estÃ¡s? Me dejaste un mensaje confuso.
+—¡Roberto! —La voz de Claudia sonaba preocupada—. ¿Dónde estás? Me dejaste un mensaje confuso.
 
-â€”Estoy en... ValparaÃ­so. Un cliente importante. Los servidores se cayeron y tuve que venir personalmente.
+—Estoy en... Valparaíso. Un cliente importante. Los servidores se cayeron y tuve que venir personalmente.
 
-â€”Â¿Vas a estar fuera toda la semana?
+—¿Vas a estar fuera toda la semana?
 
-â€”Probablemente. Es una crisis grande.
+—Probablemente. Es una crisis grande.
 
 Un silencio.
 
-â€”Roberto... Â¿estÃ¡s bien? Suenas... diferente.
+—Roberto... ¿estás bien? Suenas... diferente.
 
-*Diferente porque he pasado dos dÃ­as practicando cÃ³mo chupar una polla*, pensÃ³ Roberta. *Diferente porque llevo un plug en el culo y una jaula en la polla. Diferente porque ya no soy tu marido. Soy la sirvienta de otra persona.*
+*Diferente porque he pasado dos días practicando cómo chupar una polla*, pensó Roberta. *Diferente porque llevo un plug en el culo y una jaula en la polla. Diferente porque ya no soy tu marido. Soy la sirvienta de otra persona.*
 
-â€”Solo cansado â€”dijoâ€”. Te llamo maÃ±ana.
+—Solo cansado —dijo—. Te llamo mañana.
 
-â€”Te quiero.
+—Te quiero.
 
-â€”Yo tambiÃ©n.
+—Yo también.
 
-ColgÃ³.
+Colgó.
 
-Miss Doll tomÃ³ el telÃ©fono.
+Miss Doll tomó el teléfono.
 
-â€”Mentiroso hasta el final â€”dijo, sonriendoâ€”. Pero pronto no tendrÃ¡s que mentir mÃ¡s. Pronto, todo el mundo sabrÃ¡ exactamente lo que eres.
+—Mentiroso hasta el final —dijo, sonriendo—. Pero pronto no tendrás que mentir más. Pronto, todo el mundo sabrá exactamente lo que eres.
 
-Roberta no preguntÃ³ quÃ© querÃ­a decir.
+Roberta no preguntó qué quería decir.
 
-Ya lo sabÃ­a.
+Ya lo sabía.
 
 Y, muy en el fondo, ya lo esperaba.
 
@@ -2225,149 +2225,149 @@ Y, muy en el fondo, ya lo esperaba.
 ---
 
 
-# CapÃ­tulo 7: La Ruptura (DÃ­as 8-10)
+# Capítulo 7: La Ruptura (Días 8-10)
 
-El lunes amaneciÃ³ diferente.
+El lunes amaneció diferente.
 
-Roberta ya no pensaba en Roberto como alguien separado. Roberto era un recuerdo, una piel que se habÃ­a quitado, un traje que ya no le quedaba.
+Roberta ya no pensaba en Roberto como alguien separado. Roberto era un recuerdo, una piel que se había quitado, un traje que ya no le quedaba.
 
-Cuando se mirÃ³ en el espejo esa maÃ±ana â€”maquillaje perfecto, peluca negra, vestido rosa pÃ¡lidoâ€” no buscÃ³ rastros del Director Regional.
+Cuando se miró en el espejo esa mañana —maquillaje perfecto, peluca negra, vestido rosa pálido— no buscó rastros del Director Regional.
 
 Solo vio a la sirvienta.
 
-Y sonriÃ³.
+Y sonrió.
 
 ---
 
-**DÃ­a 8 - Lunes**
+**Día 8 - Lunes**
 
-â€”Hoy empezamos con el anal â€”dijo Miss Doll, como quien anuncia el menÃº del desayuno.
+—Hoy empezamos con el anal —dijo Miss Doll, como quien anuncia el menú del desayuno.
 
-Roberta sintiÃ³ que el estÃ³mago se le caÃ­a. El plug era una cosa. Algo pasivo, que solo estaba ahÃ­. Pero *esto*...
+Roberta sintió que el estómago se le caía. El plug era una cosa. Algo pasivo, que solo estaba ahí. Pero *esto*...
 
-*Esto es diferente*, pensÃ³. *Esto es... prÃ¡ctica para ser usada. PrÃ¡ctica para que un hombre me...*
+*Esto es diferente*, pensó. *Esto es... práctica para ser usada. Práctica para que un hombre me...*
 
-No podÃ­a terminar el pensamiento. Pero su cuerpo ya estaba reaccionando: el pulso acelarÃ¡ndose, la piel erizÃ¡ndose, el plug dentro de ella sintiÃ©ndose de repente mÃ¡s presente.
+No podía terminar el pensamiento. Pero su cuerpo ya estaba reaccionando: el pulso acelarándose, la piel erizándose, el plug dentro de ella sintiéndose de repente más presente.
 
-â€”CreÃ­ que los plugs eran...
+—Creí que los plugs eran...
 
-â€”Los plugs son preparaciÃ³n. Esto es prÃ¡ctica. â€”Miss Doll sacÃ³ un dildo diferente del armario rosa. MÃ¡s largo que el de prÃ¡ctica oral, pero mÃ¡s delgado. DiseÃ±ado especÃ­ficamente para penetrarâ€”. Este es tu entrenador.
+—Los plugs son preparación. Esto es práctica. —Miss Doll sacó un dildo diferente del armario rosa. Más largo que el de práctica oral, pero más delgado. Diseñado específicamente para penetrar—. Este es tu entrenador.
 
-Roberta mirÃ³ el objeto con una mezcla de horror y... Â¿anticipaciÃ³n?
+Roberta miró el objeto con una mezcla de horror y... ¿anticipación?
 
-*Â¿QuÃ© me estÃ¡ pasando?*, se preguntÃ³. *Â¿Por quÃ© una parte de mÃ­ quiere saber cÃ³mo se siente?*
+*¿Qué me está pasando?*, se preguntó. *¿Por qué una parte de mí quiere saber cómo se siente?*
 
-â€”Alejandro va a querer usar todos tus agujeros â€”explicÃ³ Miss Doll, con la frialdad de una profesoraâ€”. Tu boca, tu culo. Y eventualmente, si es que decides aceptar las hormonas que Ã©l te ofrezca, quizÃ¡s algo mÃ¡s. Pero por ahora, empezamos con lo bÃ¡sico.
+—Alejandro va a querer usar todos tus agujeros —explicó Miss Doll, con la frialdad de una profesora—. Tu boca, tu culo. Y eventualmente, si es que decides aceptar las hormonas que él te ofrezca, quizás algo más. Pero por ahora, empezamos con lo básico.
 
-â€”Â¿Hormonas? â€”La palabra saliÃ³ como un susurro.
+—¿Hormonas? —La palabra salió como un susurro.
 
-â€”Alejandro tiene... gustos especÃ­ficos. Pero eso es conversaciÃ³n para otro dÃ­a. Hoy, te enfocas en aprender a recibir. Bocabajo sobre la cama. Almohada bajo las caderas.
+—Alejandro tiene... gustos específicos. Pero eso es conversación para otro día. Hoy, te enfocas en aprender a recibir. Bocabajo sobre la cama. Almohada bajo las caderas.
 
-Roberta obedeciÃ³. La posiciÃ³n la dejaba completamente expuesta, su trasero elevado, su rostro hundido en las sÃ¡banas rosas. PodÃ­a sentir el aire frÃ­o contra la piel de sus nalgas, podÃ­a sentir su propia vulnerabilidad como algo fÃ­sico.
+Roberta obedeció. La posición la dejaba completamente expuesta, su trasero elevado, su rostro hundido en las sábanas rosas. Podía sentir el aire frío contra la piel de sus nalgas, podía sentir su propia vulnerabilidad como algo físico.
 
-*Esto es humillante*, pensÃ³. *Esto es degradante.*
+*Esto es humillante*, pensó. *Esto es degradante.*
 
-*Entonces, Â¿por quÃ© estoy mojando?*
+*Entonces, ¿por qué estoy mojando?*
 
-Miss Doll retirÃ³ el plug lentamente. La sensaciÃ³n de vacÃ­o fue instantÃ¡nea, casi dolorosa. Roberta se habÃ­a acostumbrado tanto a estar llena que la ausencia se sentÃ­a mal.
+Miss Doll retiró el plug lentamente. La sensación de vacío fue instantánea, casi dolorosa. Roberta se había acostumbrado tanto a estar llena que la ausencia se sentía mal.
 
-Luego vino el lubricante. FrÃ­o al principio, luego tibio bajo los dedos expertos de Miss Doll.
+Luego vino el lubricante. Frío al principio, luego tibio bajo los dedos expertos de Miss Doll.
 
-â€”Los dÃ­as de plugs han preparado tu cuerpo â€”dijo Miss Doll, sus dedos trabajando en cÃ­rculos lentosâ€”. Ya sabes cÃ³mo relajarte. Ya sabes cÃ³mo recibir. Esto es solo... mÃ¡s.
+—Los días de plugs han preparado tu cuerpo —dijo Miss Doll, sus dedos trabajando en círculos lentos—. Ya sabes cómo relajarte. Ya sabes cómo recibir. Esto es solo... más.
 
 Sus dedos se deslizaron dentro, probando, estirando.
 
-â€”Â¿Sabes quÃ© me encanta de este momento? â€”murmurÃ³ Miss Doll, su voz sedosaâ€”. Que hace unos dÃ­as eras un Director Regional. Un hombre "respetable". Y ahora estÃ¡s bocabajo, con el culo en el aire, suplicando en silencio que te llene. â€”Sus dedos se curvaron, encontrando un punto que hizo jadear a Robertaâ€”. Â¿No es hermoso cÃ³mo cambian las cosas?
+—¿Sabes qué me encanta de este momento? —murmuró Miss Doll, su voz sedosa—. Que hace unos días eras un Director Regional. Un hombre "respetable". Y ahora estás bocabajo, con el culo en el aire, suplicando en silencio que te llene. —Sus dedos se curvaron, encontrando un punto que hizo jadear a Roberta—. ¿No es hermoso cómo cambian las cosas?
 
-*SÃ­*, pensÃ³ Roberta, y la admisiÃ³n la destruyÃ³ un poco mÃ¡s. *SÃ­, es hermoso.*
+*Sí*, pensó Roberta, y la admisión la destruyó un poco más. *Sí, es hermoso.*
 
-La punta del dildo tocÃ³ su entrada.
+La punta del dildo tocó su entrada.
 
 Roberta contuvo el aliento.
 
-â€”Respira â€”ordenÃ³ Miss Dollâ€”. Empuja hacia afuera cuando entre. Deja que tu cuerpo lo acepte. â€”Su mano libre acariciÃ³ la espalda de Robertaâ€”. Tu cuerpo fue hecho para esto. Para ser abierto. Para ser llenado. Para ser *usado*.
+—Respira —ordenó Miss Doll—. Empuja hacia afuera cuando entre. Deja que tu cuerpo lo acepte. —Su mano libre acarició la espalda de Roberta—. Tu cuerpo fue hecho para esto. Para ser abierto. Para ser llenado. Para ser *usado*.
 
-El dildo entrÃ³.
+El dildo entró.
 
-La sensaciÃ³n fue intensa â€”mÃ¡s que los dedos de Miss Doll arreglando su maquillaje, mÃ¡s que el plug constanteâ€” pero tambiÃ©n, de alguna manera, *correcta*. Como si su cuerpo hubiera sido diseÃ±ado para esto y solo ahora lo estuviera descubriendo.
+La sensación fue intensa —más que los dedos de Miss Doll arreglando su maquillaje, más que el plug constante— pero también, de alguna manera, *correcta*. Como si su cuerpo hubiera sido diseñado para esto y solo ahora lo estuviera descubriendo.
 
-Roberta gimiÃ³ contra las sÃ¡banas.
+Roberta gimió contra las sábanas.
 
-â€”Eso es â€”ronroneÃ³ Miss Doll, empezando a moverseâ€”. Ese sonido. Ese gemido de puta que acepta lo que es. â€”EmpujÃ³ mÃ¡s profundoâ€”. Â¿Sabes lo que piensas ahora mismo, Roberta? No piensas en Claudia. No piensas en tu trabajo. No piensas en cÃ³mo escapar.
+—Eso es —ronroneó Miss Doll, empezando a moverse—. Ese sonido. Ese gemido de puta que acepta lo que es. —Empujó más profundo—. ¿Sabes lo que piensas ahora mismo, Roberta? No piensas en Claudia. No piensas en tu trabajo. No piensas en cómo escapar.
 
 Otra embestida.
 
-â€”Piensas en verga. â€”Miss Doll se inclinÃ³ sobre ella, su aliento caliente contra su orejaâ€”. Piensas en cÃ³mo se sentirÃ¡ una de verdad. Caliente. Pulsante. Carne viva dentro de ti. â€”Sus caderas encontraron un ritmo constanteâ€”. Y lo deseas. Lo deseas mÃ¡s de lo que has deseado nada en tu vida.
+—Piensas en verga. —Miss Doll se inclinó sobre ella, su aliento caliente contra su oreja—. Piensas en cómo se sentirá una de verdad. Caliente. Pulsante. Carne viva dentro de ti. —Sus caderas encontraron un ritmo constante—. Y lo deseas. Lo deseas más de lo que has deseado nada en tu vida.
 
-*SÃ­*, pensÃ³ Roberta, y la palabra fue como un candado cerrÃ¡ndose. *SÃ­, lo deseo.*
+*Sí*, pensó Roberta, y la palabra fue como un candado cerrándose. *Sí, lo deseo.*
 
-â€”Bien â€”dijo Miss Doll, acelerandoâ€”. Ahora muÃ©vete. Encuentra el ritmo. MuÃ©strame cuÃ¡nto lo quieres.
+—Bien —dijo Miss Doll, acelerando—. Ahora muévete. Encuentra el ritmo. Muéstrame cuánto lo quieres.
 
-Roberta se moviÃ³. Lento al principio, torpe. Pero sus caderas encontraron el Ã¡ngulo correcto, y de repente la sensaciÃ³n cambiÃ³. Ya no era solo presiÃ³n. Era *placer*.
+Roberta se movió. Lento al principio, torpe. Pero sus caderas encontraron el ángulo correcto, y de repente la sensación cambió. Ya no era solo presión. Era *placer*.
 
-Placer en un lugar donde nunca habÃ­a esperado sentirlo.
+Placer en un lugar donde nunca había esperado sentirlo.
 
-*Dios mÃ­o*, pensÃ³, *esto es... esto es...*
+*Dios mío*, pensó, *esto es... esto es...*
 
-No tenÃ­a palabras. Solo sensaciones. El dildo moviÃ©ndose dentro de ella. Sus caderas retrocediendo para encontrarlo. Sus gemidos escapando sin permiso. El sonido hÃºmedo de la penetraciÃ³n. El olor a lÃ¡tex y lubricante. Y, debajo de todo, la jaula de castidad recordÃ¡ndole que su placer ya no le pertenecÃ­a.
+No tenía palabras. Solo sensaciones. El dildo moviéndose dentro de ella. Sus caderas retrocediendo para encontrarlo. Sus gemidos escapando sin permiso. El sonido húmedo de la penetración. El olor a látex y lubricante. Y, debajo de todo, la jaula de castidad recordándole que su placer ya no le pertenecía.
 
-â€”MÃ­rate â€”dijo Miss Doll, sin dejar de moverseâ€”. MoviÃ©ndote contra mÃ­ como una perra en celo. Gimiendo como una cualquiera. â€”Su mano encontrÃ³ el cabello de Roberta y tirÃ³, forzando su cabeza hacia atrÃ¡sâ€”. Â¿QuÃ© dirÃ­a tu esposa si te viera? Â¿QuÃ© dirÃ­an tus colegas?
+—Mírate —dijo Miss Doll, sin dejar de moverse—. Moviéndote contra mí como una perra en celo. Gimiendo como una cualquiera. —Su mano encontró el cabello de Roberta y tiró, forzando su cabeza hacia atrás—. ¿Qué diría tu esposa si te viera? ¿Qué dirían tus colegas?
 
-*No me importa*, pensÃ³ Roberta. *No me importa nada excepto esto.*
+*No me importa*, pensó Roberta. *No me importa nada excepto esto.*
 
-â€”Dilo â€”ordenÃ³ Miss Dollâ€”. Di "quiero verga".
+—Dilo —ordenó Miss Doll—. Di "quiero verga".
 
-La resistencia fue mÃ­nima. Un segundo de duda. Nada mÃ¡s.
+La resistencia fue mínima. Un segundo de duda. Nada más.
 
-â€”Quiero verga â€”gimiÃ³ Roberta.
+—Quiero verga —gimió Roberta.
 
-â€”MÃ¡s fuerte.
+—Más fuerte.
 
-â€”Â¡Quiero verga!
+—¡Quiero verga!
 
-â€”Di "nacÃ­ para ser cogida".
+—Di "nací para ser cogida".
 
-â€”NacÃ­ para ser cogida...
+—Nací para ser cogida...
 
-Miss Doll embistiÃ³ con fuerza, una, dos, tres veces mÃ¡s.
+Miss Doll embistió con fuerza, una, dos, tres veces más.
 
-Y Roberta se rompiÃ³.
+Y Roberta se rompió.
 
-No un orgasmo â€”la jaula lo impedÃ­aâ€” pero algo mÃ¡s profundo. Un quiebre mental. Una rendiciÃ³n total.
+No un orgasmo —la jaula lo impedía— pero algo más profundo. Un quiebre mental. Una rendición total.
 
-Cuando terminaron, Miss Doll saliÃ³ lentamente y se quitÃ³ el arnÃ©s.
+Cuando terminaron, Miss Doll salió lentamente y se quitó el arnés.
 
-â€”Eres natural â€”dijoâ€”. Algunos tardan dÃ­as en aceptar esto. TÃº lo has aceptado en una hora. â€”Sus dedos acariciaron su espaldaâ€”. Es porque tu cuerpo sabÃ­a la verdad antes que tu mente. Tu cuerpo sabÃ­a que estaba hecho para esto. Para ser llenado. Para ser usado. Para *servir*.
+—Eres natural —dijo—. Algunos tardan días en aceptar esto. Tú lo has aceptado en una hora. —Sus dedos acariciaron su espalda—. Es porque tu cuerpo sabía la verdad antes que tu mente. Tu cuerpo sabía que estaba hecho para esto. Para ser llenado. Para ser usado. Para *servir*.
 
-*Porque ya no soy Roberto*, pensÃ³ Roberta, el eco del placer todavÃ­a resonando en su cuerpo, las palabras "quiero verga" todavÃ­a vibrando en su garganta. *Roberto habrÃ­a luchado. Roberta solo obedece.*
+*Porque ya no soy Roberto*, pensó Roberta, el eco del placer todavía resonando en su cuerpo, las palabras "quiero verga" todavía vibrando en su garganta. *Roberto habría luchado. Roberta solo obedece.*
 
 *Y Roberta... desea.*
 
 ---
 
-**DÃ­a 9 - Martes**
+**Día 9 - Martes**
 
-El martes, Miss Doll la llevÃ³ a un salÃ³n de belleza.
+El martes, Miss Doll la llevó a un salón de belleza.
 
 No uno normal. Uno especializado, discreto, donde las clientes eran... como ella.
 
-â€”UÃ±as acrÃ­licas â€”ordenÃ³ Miss Doll a la estilistaâ€”. Forma almendra. Rosa.
+—Uñas acrílicas —ordenó Miss Doll a la estilista—. Forma almendra. Rosa.
 
-Roberta mirÃ³ cÃ³mo le aplicaban las uÃ±as falsas. Eran mÃ¡s largas que las postizas que habÃ­a usado antes, y permanentes. No podrÃ­a quitÃ¡rselas sin ayuda profesional.
+Roberta miró cómo le aplicaban las uñas falsas. Eran más largas que las postizas que había usado antes, y permanentes. No podría quitárselas sin ayuda profesional.
 
-â€”Estas uÃ±as te recordarÃ¡n quiÃ©n eres â€”dijo Miss Doll mientras la estilista trabajabaâ€”. Cada vez que intentes hacer algo de hombre, las sentirÃ¡s. Cada vez que intentes olvidar tu lugar, estarÃ¡n ahÃ­.
+—Estas uñas te recordarán quién eres —dijo Miss Doll mientras la estilista trabajaba—. Cada vez que intentes hacer algo de hombre, las sentirás. Cada vez que intentes olvidar tu lugar, estarán ahí.
 
-Las uÃ±as rosa brillaron cuando terminaron. Roberta moviÃ³ los dedos, fascinada por cÃ³mo la luz jugaba en la superficie.
+Las uñas rosa brillaron cuando terminaron. Roberta movió los dedos, fascinada por cómo la luz jugaba en la superficie.
 
-â€”TambiÃ©n el cabello â€”aÃ±adiÃ³ Miss Dollâ€”. La peluca es para emergencias, pero necesitas algo mÃ¡s permanente.
+—También el cabello —añadió Miss Doll—. La peluca es para emergencias, pero necesitas algo más permanente.
 
-La estilista asintiÃ³.
+La estilista asintió.
 
-Durante las siguientes dos horas, tiÃ±eron y cortaron el pelo de Roberta. El resultado fue un bob corto, negro azabache, con chasquilla recta. Casi idÃ©ntico a la peluca, pero real.
+Durante las siguientes dos horas, tiñeron y cortaron el pelo de Roberta. El resultado fue un bob corto, negro azabache, con chasquilla recta. Casi idéntico a la peluca, pero real.
 
-Cuando se mirÃ³ en el espejo, Roberta no reconociÃ³ nada del hombre que habÃ­a sido.
+Cuando se miró en el espejo, Roberta no reconoció nada del hombre que había sido.
 
-*Esto es permanente*, pensÃ³. *Esto no se quita.*
+*Esto es permanente*, pensó. *Esto no se quita.*
 
 *Bien.*
 
@@ -2375,163 +2375,163 @@ Cuando se mirÃ³ en el espejo, Roberta no reconociÃ³ nada del hombre que hab�
 
 Por la noche, Miss Doll introdujo algo nuevo.
 
-â€”Tu entrenamiento oral estÃ¡ bien â€”dijoâ€”. Pero necesitas experiencia real.
+—Tu entrenamiento oral está bien —dijo—. Pero necesitas experiencia real.
 
-Roberta la mirÃ³, confundida.
+Roberta la miró, confundida.
 
-Miss Doll llevaba puesto un arnÃ©s. Y en el arnÃ©s, un dildo rosa. No de silicona esta vez â€”de algo mÃ¡s duro, mÃ¡s realista.
+Miss Doll llevaba puesto un arnés. Y en el arnés, un dildo rosa. No de silicona esta vez —de algo más duro, más realista.
 
-â€”ArrodÃ­llate.
+—Arrodíllate.
 
-Roberta obedeciÃ³.
+Roberta obedeció.
 
-â€”Ahora, adÃ³rame.
+—Ahora, adórame.
 
-La palabra resonÃ³ en el aire como una orden sagrada.
+La palabra resonó en el aire como una orden sagrada.
 
-Roberta levantÃ³ la vista. Desde su posiciÃ³n arrodillada, Miss Doll parecÃ­a una diosa. El arnÃ©s rosa abrazaba sus caderas curvas. El dildo â€”mÃ¡s grande que el de prÃ¡ctica, con venas marcadas y una cabeza prominenteâ€” era una extensiÃ³n de su poder. Y sus ojos... sus ojos azul hielo miraban hacia abajo con la expectativa de quien sabe que serÃ¡ obedecida.
+Roberta levantó la vista. Desde su posición arrodillada, Miss Doll parecía una diosa. El arnés rosa abrazaba sus caderas curvas. El dildo —más grande que el de práctica, con venas marcadas y una cabeza prominente— era una extensión de su poder. Y sus ojos... sus ojos azul hielo miraban hacia abajo con la expectativa de quien sabe que será obedecida.
 
-Roberta se acercÃ³.
+Roberta se acercó.
 
 Primero, los besos.
 
-Sus labios â€”pintados de rosa brillante, porque Miss Doll insistÃ­a en que siempre estuviera maquilladaâ€” rozaron la punta del dildo. La textura era diferente a la silicona suave que habÃ­a practicado: mÃ¡s firme, casi como piel real. BesÃ³ los lados, la base, el punto donde el arnÃ©s se unÃ­a con la piel de Miss Doll.
+Sus labios —pintados de rosa brillante, porque Miss Doll insistía en que siempre estuviera maquillada— rozaron la punta del dildo. La textura era diferente a la silicona suave que había practicado: más firme, casi como piel real. Besó los lados, la base, el punto donde el arnés se unía con la piel de Miss Doll.
 
 Luego, la lengua.
 
-RecorriÃ³ la longitud desde la base hasta la punta, lento, devoto. PodÃ­a oler el lÃ¡tex del arnÃ©s mezclado con el perfume de vainilla de Miss Doll. PodÃ­a sentir el calor que emanaba de su cuerpo. PodÃ­a escuchar los pequeÃ±os suspiros de satisfacciÃ³n que escapaban de los labios de su dueÃ±a.
+Recorrió la longitud desde la base hasta la punta, lento, devoto. Podía oler el látex del arnés mezclado con el perfume de vainilla de Miss Doll. Podía sentir el calor que emanaba de su cuerpo. Podía escuchar los pequeños suspiros de satisfacción que escapaban de los labios de su dueña.
 
-â€”MÃ­rame â€”ordenÃ³ Miss Doll.
+—Mírame —ordenó Miss Doll.
 
-Roberta alzÃ³ los ojos sin dejar de lamer. La mirada que le devolviÃ³ fue de pura posesiÃ³n.
+Roberta alzó los ojos sin dejar de lamer. La mirada que le devolvió fue de pura posesión.
 
-â€”Buena chica. Ahora, adÃ©ntrate.
+—Buena chica. Ahora, adéntrate.
 
-Roberta abriÃ³ la boca y tomÃ³ la cabeza del dildo. El sabor fue artificial pero el acto fue *real*. Lo succÃ­onÃ³ como Miss Doll le habÃ­a enseÃ±ado: mejillas hundidas, lengua trabajando, ojos siempre arriba.
+Roberta abrió la boca y tomó la cabeza del dildo. El sabor fue artificial pero el acto fue *real*. Lo succíonó como Miss Doll le había enseñado: mejillas hundidas, lengua trabajando, ojos siempre arriba.
 
-Miss Doll enredÃ³ sus dedos en el cabello de Roberta y empezÃ³ a moverse.
+Miss Doll enredó sus dedos en el cabello de Roberta y empezó a moverse.
 
-Esta vez fue diferente. Miss Doll no se quedÃ³ quieta sosteniendo el juguete. Se movÃ­a. Empujaba. Usaba la boca de Roberta como si le perteneciera.
+Esta vez fue diferente. Miss Doll no se quedó quieta sosteniendo el juguete. Se movía. Empujaba. Usaba la boca de Roberta como si le perteneciera.
 
-Y le pertenecÃ­a.
+Y le pertenecía.
 
-Con cada empuje, Roberta sentÃ­a el dildo deslizarse mÃ¡s profundo. Sus ojos se llenaron de lÃ¡grimas. Su mandÃ­bula ardÃ­a. Pero no se apartÃ³. No querÃ­a apartarse. Cada gemido ahogado, cada lÃ¡grima que rodaba por su mejilla, cada momento de incomodidad era una ofrenda a la mujer que la habÃ­a transformado.
+Con cada empuje, Roberta sentía el dildo deslizarse más profundo. Sus ojos se llenaron de lágrimas. Su mandíbula ardía. Pero no se apartó. No quería apartarse. Cada gemido ahogado, cada lágrima que rodaba por su mejilla, cada momento de incomodidad era una ofrenda a la mujer que la había transformado.
 
-*Te adoro*, pensÃ³ Roberta, y la palabra no fue metafÃ³rica. *Te adoro con cada fibra de mi ser. Me has destruido y reconstruido. Me has mostrado quiÃ©n soy realmente. Y ahora te sirvo con todo lo que tengo.*
+*Te adoro*, pensó Roberta, y la palabra no fue metafórica. *Te adoro con cada fibra de mi ser. Me has destruido y reconstruido. Me has mostrado quién soy realmente. Y ahora te sirvo con todo lo que tengo.*
 
-â€”MÃ¡s profundo â€”ordenÃ³ Miss Doll, empujando.
+—Más profundo —ordenó Miss Doll, empujando.
 
-Roberta relajÃ³ la garganta y recibiÃ³.
+Roberta relajó la garganta y recibió.
 
-Cuando terminaron â€”veinte minutos despuÃ©s, con la mandÃ­bula de Roberta doliendo y los ojos llorosos, los labios hinchados y el maquillaje corrido por las lÃ¡grimasâ€” Miss Doll sacÃ³ el dildo lentamente y acariciÃ³ su mejilla.
+Cuando terminaron —veinte minutos después, con la mandíbula de Roberta doliendo y los ojos llorosos, los labios hinchados y el maquillaje corrido por las lágrimas— Miss Doll sacó el dildo lentamente y acarició su mejilla.
 
-Su pulgar limpiÃ³ una lÃ¡grima mezclada con rÃ­mel.
+Su pulgar limpió una lágrima mezclada con rímel.
 
-â€”Buena chica â€”dijo, y las palabras fueron como un abrazoâ€”. Lista para tu jefe.
+—Buena chica —dijo, y las palabras fueron como un abrazo—. Lista para tu jefe.
 
-*Mi jefe*, pensÃ³ Roberta, la garganta todavÃ­a sintiendo la invasiÃ³n. *Alejandro. El hombre que me va a usar.*
+*Mi jefe*, pensó Roberta, la garganta todavía sintiendo la invasión. *Alejandro. El hombre que me va a usar.*
 
-Y no sintiÃ³ miedo.
+Y no sintió miedo.
 
-Solo anticipaciÃ³n.
+Solo anticipación.
 
 ---
 
-**DÃ­a 10 - MiÃ©rcoles**
+**Día 10 - Miércoles**
 
-El miÃ©rcoles, Miss Doll la sometiÃ³ a una prueba.
+El miércoles, Miss Doll la sometió a una prueba.
 
-â€”Vamos a salir â€”anunciÃ³â€”. A la calle. En pÃºblico.
+—Vamos a salir —anunció—. A la calle. En público.
 
-El terror fue instantÃ¡neo.
+El terror fue instantáneo.
 
-â€”No puedo... alguien podrÃ­a reconocerme...
+—No puedo... alguien podría reconocerme...
 
-â€”Â¿Reconocerte? â€”Miss Doll riÃ³â€”. MÃ­rate, Roberta. Tu pelo es diferente. Tu cara estÃ¡ maquillada. Tus uÃ±as son de mujer. Caminas diferente. Hablas diferente. El Ãºnico que te reconocerÃ­a es alguien que te conozca *muy* bien. Y vamos a ir a un lugar donde nadie te conoce.
+—¿Reconocerte? —Miss Doll rió—. Mírate, Roberta. Tu pelo es diferente. Tu cara está maquillada. Tus uñas son de mujer. Caminas diferente. Hablas diferente. El único que te reconocería es alguien que te conozca *muy* bien. Y vamos a ir a un lugar donde nadie te conoce.
 
-La llevÃ³ a un cafÃ© en el centro. Un lugar lleno de gente, de ruido, de vida normal.
+La llevó a un café en el centro. Un lugar lleno de gente, de ruido, de vida normal.
 
-Roberta caminÃ³ por la calle con tacones de diez centÃ­metros, un vestido rosa ajustado, y el plug todavÃ­a dentro. Cada paso era un recordatorio de lo que era. Cada mirada de los transeÃºntes era una evaluaciÃ³n.
+Roberta caminó por la calle con tacones de diez centímetros, un vestido rosa ajustado, y el plug todavía dentro. Cada paso era un recordatorio de lo que era. Cada mirada de los transeúntes era una evaluación.
 
-*Â¿Me ven como mujer?*, se preguntÃ³. *Â¿O me ven como un hombre disfrazado?*
+*¿Me ven como mujer?*, se preguntó. *¿O me ven como un hombre disfrazado?*
 
-Nadie la mirÃ³ dos veces.
+Nadie la miró dos veces.
 
-Nadie pareciÃ³ notar nada raro.
+Nadie pareció notar nada raro.
 
 Para el mundo, era solo otra mujer caminando por la calle.
 
-En el cafÃ©, Miss Doll la hizo ordenar.
+En el café, Miss Doll la hizo ordenar.
 
-â€”Un latte, por favor â€”dijo Roberta, su voz suave y femenina.
+—Un latte, por favor —dijo Roberta, su voz suave y femenina.
 
-El barista sonriÃ³.
+El barista sonrió.
 
-â€”Â¿TamaÃ±o?
+—¿Tamaño?
 
-â€”Grande.
+—Grande.
 
-â€”Â¿Nombre?
+—¿Nombre?
 
-Roberta dudÃ³ un segundo.
+Roberta dudó un segundo.
 
-â€”Roberta.
+—Roberta.
 
-El barista escribiÃ³ el nombre en el vaso sin pestaÃ±ear.
+El barista escribió el nombre en el vaso sin pestañear.
 
-Cuando recibiÃ³ su cafÃ©, Roberta sintiÃ³ algo que no esperaba.
+Cuando recibió su café, Roberta sintió algo que no esperaba.
 
 Orgullo.
 
-*Lo hice*, pensÃ³. *PasÃ©. Nadie sabe. Nadie sospecha.*
+*Lo hice*, pensó. *Pasé. Nadie sabe. Nadie sospecha.*
 
 *Soy Roberta. Y el mundo me ve como Roberta.*
 
-Miss Doll sonriÃ³, tomando su propio cafÃ©.
+Miss Doll sonrió, tomando su propio café.
 
-â€”Ya no hay vuelta atrÃ¡s â€”dijoâ€”. Lo sabes, Â¿verdad?
+—Ya no hay vuelta atrás —dijo—. Lo sabes, ¿verdad?
 
-Roberta asintiÃ³.
+Roberta asintió.
 
-â€”Lo sÃ©.
+—Lo sé.
 
-â€”Â¿Y cÃ³mo te sientes?
+—¿Y cómo te sientes?
 
-Roberta pensÃ³ en su respuesta.
+Roberta pensó en su respuesta.
 
-Roberto habrÃ­a dicho "aterrorizado". Roberto habrÃ­a planeado escapar.
+Roberto habría dicho "aterrorizado". Roberto habría planeado escapar.
 
 Pero Roberto estaba muerto.
 
-â€”Libre â€”dijo Robertaâ€”. Me siento libre.
+—Libre —dijo Roberta—. Me siento libre.
 
-Miss Doll sonriÃ³.
+Miss Doll sonrió.
 
-â€”Entonces estÃ¡s lista para el siguiente paso.
+—Entonces estás lista para el siguiente paso.
 
 ---
 
-Esa noche, Miss Doll le quitÃ³ el cinturÃ³n de castidad.
+Esa noche, Miss Doll le quitó el cinturón de castidad.
 
-Por primera vez en cinco dÃ­as, Roberta sintiÃ³ su polla libre.
+Por primera vez en cinco días, Roberta sintió su polla libre.
 
-Pero no la tocÃ³.
+Pero no la tocó.
 
-No porque no pudiera â€”Miss Doll no se lo habÃ­a prohibido directamenteâ€” sino porque ya no sentÃ­a que le perteneciera.
+No porque no pudiera —Miss Doll no se lo había prohibido directamente— sino porque ya no sentía que le perteneciera.
 
-*Es solo un adorno*, pensÃ³, mirando hacia abajo. *Es algo que mi jefe decidirÃ¡ quÃ© hacer con ello. No yo.*
+*Es solo un adorno*, pensó, mirando hacia abajo. *Es algo que mi jefe decidirá qué hacer con ello. No yo.*
 
-Miss Doll le puso un cinturÃ³n nuevo. Este era mÃ¡s pequeÃ±o, mÃ¡s ajustado, con un plug integrado que la mantenÃ­a constantemente llena.
+Miss Doll le puso un cinturón nuevo. Este era más pequeño, más ajustado, con un plug integrado que la mantenía constantemente llena.
 
-â€”Este es permanente â€”dijo Miss Dollâ€”. Hasta que Alejandro decida quitÃ¡rtelo.
+—Este es permanente —dijo Miss Doll—. Hasta que Alejandro decida quitártelo.
 
 El click del candado fue definitivo.
 
-Roberta sintiÃ³ que el Ãºltimo rastro de Roberto se disolvÃ­a.
+Roberta sintió que el último rastro de Roberto se disolvía.
 
-*Ya no tengo control sobre mi propio cuerpo*, pensÃ³. *Mi placer, mi dolor, mi uso... todo pertenece a otros.*
+*Ya no tengo control sobre mi propio cuerpo*, pensó. *Mi placer, mi dolor, mi uso... todo pertenece a otros.*
 
-*Y eso estÃ¡ bien.*
+*Y eso está bien.*
 
 *Eso es exactamente como debe ser.*
 
@@ -2540,445 +2540,445 @@ Roberta sintiÃ³ que el Ãºltimo rastro de Roberto se disolvÃ­a.
 ---
 
 
-# CapÃ­tulo 8: Servicio Completo (DÃ­as 11-13)
+# Capítulo 8: Servicio Completo (Días 11-13)
 
-Los Ãºltimos tres dÃ­as antes de la entrega fueron los mÃ¡s intensos.
+Los últimos tres días antes de la entrega fueron los más intensos.
 
 Miss Doll ya no trataba a Roberta como una estudiante. La trataba como un producto que estaba siendo pulido para la venta.
 
 ---
 
-**DÃ­a 11 - Jueves**
+**Día 11 - Jueves**
 
-â€”Hoy practicamos servicio completo â€”anunciÃ³ Miss Doll.
+—Hoy practicamos servicio completo —anunció Miss Doll.
 
 El "servicio completo" significaba todo: oral, anal, manos, pies, voz, postura. Todo al mismo tiempo. Todo en secuencia.
 
-Miss Doll usÃ³ el arnÃ©s durante horas. CambiÃ³ entre la boca de Roberta y su trasero sin aviso, haciÃ©ndola adaptarse, haciÃ©ndola anticipar.
+Miss Doll usó el arnés durante horas. Cambió entre la boca de Roberta y su trasero sin aviso, haciéndola adaptarse, haciéndola anticipar.
 
-â€”Alejandro no te darÃ¡ instrucciones â€”explicÃ³ mientras Roberta jadeaba bajo ellaâ€”. EsperarÃ¡ que sepas quÃ© hacer. Que lo anticipes. Que lo complazas sin que tenga que pedirlo.
+—Alejandro no te dará instrucciones —explicó mientras Roberta jadeaba bajo ella—. Esperará que sepas qué hacer. Que lo anticipes. Que lo complazas sin que tenga que pedirlo.
 
-Roberta aprendiÃ³.
+Roberta aprendió.
 
-AprendiÃ³ a leer los movimientos de Miss Doll. A saber cuÃ¡ndo querÃ­a su boca y cuÃ¡ndo querÃ­a mÃ¡s. A moverse antes de que se lo ordenaran.
+Aprendió a leer los movimientos de Miss Doll. A saber cuándo quería su boca y cuándo quería más. A moverse antes de que se lo ordenaran.
 
-Para el final del dÃ­a, estaba cubierta de sudor y agotada. Pero habÃ­a servido durante cuatro horas sin un solo error.
+Para el final del día, estaba cubierta de sudor y agotada. Pero había servido durante cuatro horas sin un solo error.
 
-â€”Perfecta â€”dijo Miss Doll, acariciando su cabelloâ€”. Ya estÃ¡s lista.
+—Perfecta —dijo Miss Doll, acariciando su cabello—. Ya estás lista.
 
 ---
 
-**DÃ­a 12 - Viernes**
+**Día 12 - Viernes**
 
-El viernes, Miss Doll le mostrÃ³ el contrato.
+El viernes, Miss Doll le mostró el contrato.
 
-Era un documento legal real. Con clÃ¡usulas, tÃ©rminos, y una secciÃ³n de firmas. El membrete decÃ­a "Contrato de Servicios Personales" pero las clÃ¡usulas decÃ­an otra cosa.
+Era un documento legal real. Con cláusulas, términos, y una sección de firmas. El membrete decía "Contrato de Servicios Personales" pero las cláusulas decían otra cosa.
 
-*"La firmante acepta proporcionar servicios personales al empleador designado, incluyendo pero no limitado a: asistencia administrativa, servicios de compaÃ±Ã­a, y otros servicios segÃºn lo requiera el empleador."*
+*"La firmante acepta proporcionar servicios personales al empleador designado, incluyendo pero no limitado a: asistencia administrativa, servicios de compañía, y otros servicios según lo requiera el empleador."*
 
 *"La firmante acepta usar el uniforme proporcionado por el empleador en todo momento durante las horas de servicio."*
 
 *"La firmante acepta residir en las instalaciones proporcionadas por el empleador."*
 
-*"La firmante acepta que todos los aspectos de su apariencia personal serÃ¡n determinados por el empleador."*
+*"La firmante acepta que todos los aspectos de su apariencia personal serán determinados por el empleador."*
 
 Era un contrato de esclavitud. Disfrazado de empleo, pero esclavitud.
 
-â€”FirmarÃ¡s esto maÃ±ana, frente a Alejandro â€”dijo Miss Dollâ€”. Y cuando lo hagas, el dossier azul serÃ¡ destruido. Roberto desaparecerÃ¡ para siempre. Solo quedarÃ¡ Roberta.
+—Firmarás esto mañana, frente a Alejandro —dijo Miss Doll—. Y cuando lo hagas, el dossier azul será destruido. Roberto desaparecerá para siempre. Solo quedará Roberta.
 
-Roberta mirÃ³ el contrato.
+Roberta miró el contrato.
 
-*Â¿Tengo opciÃ³n?*, se preguntÃ³.
+*¿Tengo opción?*, se preguntó.
 
-Pero ya conocÃ­a la respuesta.
+Pero ya conocía la respuesta.
 
-No. Y no la querÃ­a.
+No. Y no la quería.
 
 ---
 
-**DÃ­a 13 - SÃ¡bado**
+**Día 13 - Sábado**
 
-El sÃ¡bado, Miss Doll la preparÃ³ para la entrega.
+El sábado, Miss Doll la preparó para la entrega.
 
-Primero, un baÃ±o largo y perfumado. Luego, depilaciÃ³n de cualquier vello que hubiera crecido. DespuÃ©s, maquillaje perfecto: labios rosa brillante, ojos ahumados, pÃ³mulos definidos.
+Primero, un baño largo y perfumado. Luego, depilación de cualquier vello que hubiera crecido. Después, maquillaje perfecto: labios rosa brillante, ojos ahumados, pómulos definidos.
 
-El vestido era rosa pÃ¡lido, casi blush, ajustado en la cintura y corto en las piernas. Las medias eran de brillo rosa. Los tacones de quince centÃ­metros â€”los mÃ¡s altos que Roberta habÃ­a usadoâ€” con la plataforma de acrÃ­lico que se habÃ­a vuelto familiar.
+El vestido era rosa pálido, casi blush, ajustado en la cintura y corto en las piernas. Las medias eran de brillo rosa. Los tacones de quince centímetros —los más altos que Roberta había usado— con la plataforma de acrílico que se había vuelto familiar.
 
-â€”Una cosa mÃ¡s â€”dijo Miss Doll.
+—Una cosa más —dijo Miss Doll.
 
-SacÃ³ una caja pequeÃ±a del armario. Rosa, por supuesto. Con un lazo de satÃ©n.
+Sacó una caja pequeña del armario. Rosa, por supuesto. Con un lazo de satén.
 
-Roberta la mirÃ³ con curiosidad. Â¿QuÃ© mÃ¡s podÃ­a quedar? Ya tenÃ­a el vestuario, el maquillaje, el cinturÃ³n de castidad, el plug...
+Roberta la miró con curiosidad. ¿Qué más podía quedar? Ya tenía el vestuario, el maquillaje, el cinturón de castidad, el plug...
 
-Miss Doll abriÃ³ la caja.
+Miss Doll abrió la caja.
 
 Dentro, sobre terciopelo rosa, descansaba un collar.
 
-Era fino, de cuero rosa suave, con un pequeÃ±o corazÃ³n de plata que colgaba del frente. Discreto a primera vista â€”podrÃ­a pasar por una gargantilla de modaâ€” pero para alguien que supiera mirar, era inconfundiblemente un collar de sumisiÃ³n.
+Era fino, de cuero rosa suave, con un pequeño corazón de plata que colgaba del frente. Discreto a primera vista —podría pasar por una gargantilla de moda— pero para alguien que supiera mirar, era inconfundiblemente un collar de sumisión.
 
-Roberta sintiÃ³ que el corazÃ³n se le aceleraba.
+Roberta sintió que el corazón se le aceleraba.
 
 *Un collar. Un collar de verdad.*
 
-No era como la lencerÃ­a, que podÃ­a ocultarse bajo la ropa. No era como el plug, invisible para el mundo. El collar era pÃºblico. El collar era una declaraciÃ³n.
+No era como la lencería, que podía ocultarse bajo la ropa. No era como el plug, invisible para el mundo. El collar era público. El collar era una declaración.
 
 *Este collar dice que soy propiedad de alguien.*
 
-â€”Esto muestra que tienes dueÃ±o â€”dijo Miss Doll, levantando el collarâ€”. Que no estÃ¡s disponible para nadie mÃ¡s. Que le perteneces a Alejandro. â€”Sus ojos encontraron los de Robertaâ€”. Â¿EstÃ¡s lista para llevarlo?
+—Esto muestra que tienes dueño —dijo Miss Doll, levantando el collar—. Que no estás disponible para nadie más. Que le perteneces a Alejandro. —Sus ojos encontraron los de Roberta—. ¿Estás lista para llevarlo?
 
-Roberta deberÃ­a haber dudado. DeberÃ­a haber protestado. Pero las palabras que salieron fueron:
+Roberta debería haber dudado. Debería haber protestado. Pero las palabras que salieron fueron:
 
-â€”SÃ­, SeÃ±ora.
+—Sí, Señora.
 
-Miss Doll sonriÃ³. Se acercÃ³ por detrÃ¡s y pasÃ³ el collar alrededor de su cuello. El cuero fue frÃ­o al principio, luego tibio contra su piel. El corazÃ³n de plata descansÃ³ justo sobre su clavicular, visible a cualquiera que mirara.
+Miss Doll sonrió. Se acercó por detrás y pasó el collar alrededor de su cuello. El cuero fue frío al principio, luego tibio contra su piel. El corazón de plata descansó justo sobre su clavicular, visible a cualquiera que mirara.
 
 *Click.*
 
-El broche se cerrÃ³.
+El broche se cerró.
 
-Y algo dentro de Roberta tambiÃ©n se cerrÃ³. Algo que habÃ­a estado resistiendo, luchando, esperando escapar.
+Y algo dentro de Roberta también se cerró. Algo que había estado resistiendo, luchando, esperando escapar.
 
-*Ya no hay vuelta atrÃ¡s*, pensÃ³. *Este collar es pÃºblico. Este collar es permanente. Este collar es... quien soy.*
+*Ya no hay vuelta atrás*, pensó. *Este collar es público. Este collar es permanente. Este collar es... quien soy.*
 
-Se mirÃ³ en el espejo.
+Se miró en el espejo.
 
-Vio a una mujer hermosa, maquillada con perfecciÃ³n, con un collar que la marcaba como propiedad. Vio el corazÃ³n de plata brillando contra su piel. Vio los tacones que la hacÃ­an caminar diferente. Vio el vestido que la hacÃ­a moverse diferente.
+Vio a una mujer hermosa, maquillada con perfección, con un collar que la marcaba como propiedad. Vio el corazón de plata brillando contra su piel. Vio los tacones que la hacían caminar diferente. Vio el vestido que la hacía moverse diferente.
 
 Vio a Roberta.
 
-Y por primera vez, sonriÃ³ no porque se lo ordenaran, sino porque lo sentÃ­a.
+Y por primera vez, sonrió no porque se lo ordenaran, sino porque lo sentía.
 
 ---
 
-Esa noche, Miss Doll le dio una Ãºltima lecciÃ³n.
+Esa noche, Miss Doll le dio una última lección.
 
-â€”MaÃ±ana, cuando te entregue a Alejandro, vas a hacer exactamente lo que Ã©l quiera. Vas a servirlo con todo tu ser. Vas a demostrarle que valiÃ³ la pena esperar.
+—Mañana, cuando te entregue a Alejandro, vas a hacer exactamente lo que él quiera. Vas a servirlo con todo tu ser. Vas a demostrarle que valió la pena esperar.
 
-â€”Â¿Y si... si no le gusto?
+—¿Y si... si no le gusto?
 
-Miss Doll riÃ³.
+Miss Doll rió.
 
-â€”Le gustarÃ¡s. Eres exactamente lo que ordenÃ³.
+—Le gustarás. Eres exactamente lo que ordenó.
 
-*Lo que ordenÃ³.*
+*Lo que ordenó.*
 
-Roberta sintiÃ³ un escalofrÃ­o.
+Roberta sintió un escalofrío.
 
-â€”Â¿Ã‰l... Ã©l sabÃ­a? Â¿Desde el principio?
+—¿Él... él sabía? ¿Desde el principio?
 
-â€”Alejandro me contratÃ³ hace un mes â€”explicÃ³ Miss Dollâ€”. Me dio un objetivo: su competidor, Roberto ValdÃ©s. Me dijo que lo querÃ­a destruido. Que lo querÃ­a humillado. Y, si era posible... que lo querÃ­a como su secretaria personal.
+—Alejandro me contrató hace un mes —explicó Miss Doll—. Me dio un objetivo: su competidor, Roberto Valdés. Me dijo que lo quería destruido. Que lo quería humillado. Y, si era posible... que lo quería como su secretaria personal.
 
-El horror fue tardÃ­o. Como si llegara de otro tiempo.
+El horror fue tardío. Como si llegara de otro tiempo.
 
-â€”Todo esto... Â¿fue planeado?
+—Todo esto... ¿fue planeado?
 
-â€”Todo. El dossier con tu fraude fiscal fue el anzuelo. Tu propia corrupciÃ³n fue tu perdiciÃ³n. â€”Miss Doll sonriÃ³â€”. Si no hubieras robado de la empresa, no habrÃ­a tenido nada con quÃ© chantajearte. Pero lo hiciste. Y ahora, eres exactamente lo que Alejandro querÃ­a.
+—Todo. El dossier con tu fraude fiscal fue el anzuelo. Tu propia corrupción fue tu perdición. —Miss Doll sonrió—. Si no hubieras robado de la empresa, no habría tenido nada con qué chantajearte. Pero lo hiciste. Y ahora, eres exactamente lo que Alejandro quería.
 
-Roberta deberÃ­a haber sentido rabia. DeberÃ­a haber sentido traiciÃ³n.
+Roberta debería haber sentido rabia. Debería haber sentido traición.
 
-En cambio, sintiÃ³ algo parecido a la gratitud.
+En cambio, sintió algo parecido a la gratitud.
 
-*Si no fuera por Alejandro*, pensÃ³, *nunca habrÃ­a descubierto quiÃ©n soy realmente. Nunca habrÃ­a conocido a Roberta.*
+*Si no fuera por Alejandro*, pensó, *nunca habría descubierto quién soy realmente. Nunca habría conocido a Roberta.*
 
-â€”Gracias â€”susurrÃ³.
+—Gracias —susurró.
 
-Miss Doll la mirÃ³, sorprendida.
+Miss Doll la miró, sorprendida.
 
-â€”Â¿Gracias?
+—¿Gracias?
 
-â€”Por mostrarme... por hacerme... â€”Roberta no encontraba las palabrasâ€”. Gracias.
+—Por mostrarme... por hacerme... —Roberta no encontraba las palabras—. Gracias.
 
-Miss Doll sonriÃ³. Esta vez, fue una sonrisa genuina.
+Miss Doll sonrió. Esta vez, fue una sonrisa genuina.
 
-â€”De nada, mascota. Ahora descansa. MaÃ±ana es el dÃ­a mÃ¡s importante de tu nueva vida.
+—De nada, mascota. Ahora descansa. Mañana es el día más importante de tu nueva vida.
 
 
 
 ---
 
 
-# CapÃ­tulo 9: La Entrega (DÃ­a 14)
+# Capítulo 9: La Entrega (Día 14)
 
-El domingo fue el dÃ­a de la entrega.
+El domingo fue el día de la entrega.
 
-Roberta despertÃ³ a las 5:00 AM, incapaz de dormir mÃ¡s. El cinturÃ³n de castidad con plug integrado la mantenÃ­a constantemente consciente de su cuerpo. El collar en su cuello le recordaba su lugar.
+Roberta despertó a las 5:00 AM, incapaz de dormir más. El cinturón de castidad con plug integrado la mantenía constantemente consciente de su cuerpo. El collar en su cuello le recordaba su lugar.
 
-Miss Doll la preparÃ³ meticulosamente.
+Miss Doll la preparó meticulosamente.
 
-El maquillaje fue perfecto. El vestido rosa la envolvÃ­a como una segunda piel. Los tacones de quince centÃ­metros la hacÃ­an caminar con un bamboleo hipnÃ³tico.
+El maquillaje fue perfecto. El vestido rosa la envolvía como una segunda piel. Los tacones de quince centímetros la hacían caminar con un bamboleo hipnótico.
 
-â€”Hoy conoces a tu dueÃ±o â€”dijo Miss Doll, ajustando un mechÃ³n de su peloâ€”. Todo lo que hemos practicado converge en este momento.
+—Hoy conoces a tu dueño —dijo Miss Doll, ajustando un mechón de su pelo—. Todo lo que hemos practicado converge en este momento.
 
 A las 10:00 AM, llegaron a la oficina.
 
-Era domingo, asÃ­ que el edificio estaba vacÃ­o. Solo los guardias de seguridad, que asintieron a Miss Doll como si la conocieran.
+Era domingo, así que el edificio estaba vacío. Solo los guardias de seguridad, que asintieron a Miss Doll como si la conocieran.
 
 Subieron al piso ejecutivo.
 
-Y allÃ­, en lo que habÃ­a sido la oficina de Roberto â€”su oficina, su territorio, su sÃ­mbolo de poderâ€” esperaba Alejandro Mendoza.
+Y allí, en lo que había sido la oficina de Roberto —su oficina, su territorio, su símbolo de poder— esperaba Alejandro Mendoza.
 
 ---
 
-Alejandro era exactamente como Roberta lo recordaba: alto, moreno, con una sonrisa de depredador que nunca habÃ­a intentado ocultar. Llevaba un traje gris oscuro que gritaba dinero, y un reloj que probablemente costaba mÃ¡s que el coche de Roberto.
+Alejandro era exactamente como Roberta lo recordaba: alto, moreno, con una sonrisa de depredador que nunca había intentado ocultar. Llevaba un traje gris oscuro que gritaba dinero, y un reloj que probablemente costaba más que el coche de Roberto.
 
-Pero ahora, Roberta no lo veÃ­a como competidor.
+Pero ahora, Roberta no lo veía como competidor.
 
-Lo veÃ­a como dueÃ±o.
+Lo veía como dueño.
 
-â€”AsÃ­ que esta es â€”dijo Alejandro, levantÃ¡ndose de la silla del Directorâ€”. Miss Doll, tengo que admitirlo. Has superado mis expectativas.
+—Así que esta es —dijo Alejandro, levantándose de la silla del Director—. Miss Doll, tengo que admitirlo. Has superado mis expectativas.
 
-Miss Doll hizo una pequeÃ±a reverencia.
+Miss Doll hizo una pequeña reverencia.
 
-â€”Te dije que podÃ­a hacerlo.
+—Te dije que podía hacerlo.
 
-Alejandro caminÃ³ hacia Roberta. La rodeÃ³ lentamente, examinÃ¡ndola como si fuera un coche de lujo que estaba considerando comprar.
+Alejandro caminó hacia Roberta. La rodeó lentamente, examinándola como si fuera un coche de lujo que estaba considerando comprar.
 
-â€”Date la vuelta â€”ordenÃ³.
+—Date la vuelta —ordenó.
 
-Roberta girÃ³, mostrando su espalda, su trasero marcado por la falda ajustada.
+Roberta giró, mostrando su espalda, su trasero marcado por la falda ajustada.
 
-â€”Levanta la falda.
+—Levanta la falda.
 
-Roberta obedeciÃ³. El encaje de sus braguitas quedÃ³ visible, junto con los tirantes del liguero.
+Roberta obedeció. El encaje de sus braguitas quedó visible, junto con los tirantes del liguero.
 
-â€”Interesante. â€”Alejandro tocÃ³ el borde del cinturÃ³n de castidad visible bajo el encajeâ€”. Â¿TodavÃ­a funciona?
+—Interesante. —Alejandro tocó el borde del cinturón de castidad visible bajo el encaje—. ¿Todavía funciona?
 
-â€”No desde hace diez dÃ­as â€”respondiÃ³ Miss Dollâ€”. EstÃ¡ completamente bajo control.
+—No desde hace diez días —respondió Miss Doll—. Está completamente bajo control.
 
-â€”Â¿Y el trasero?
+—¿Y el trasero?
 
-â€”Preparado. He usado plugs progresivos durante toda la semana.
+—Preparado. He usado plugs progresivos durante toda la semana.
 
-â€”DemuÃ©stralo.
+—Demuéstralo.
 
-Miss Doll mirÃ³ a Roberta.
+Miss Doll miró a Roberta.
 
-â€”Ya escuchaste. DemuÃ©straselo.
+—Ya escuchaste. Demuéstraselo.
 
-Roberta sabÃ­a quÃ© hacer. Se acercÃ³ al escritorio â€”su antiguo escritorioâ€” y se inclinÃ³ sobre Ã©l. LevantÃ³ la falda completamente y bajÃ³ las braguitas, exponiendo el plug rosa que habÃ­a llevado toda la maÃ±ana.
+Roberta sabía qué hacer. Se acercó al escritorio —su antiguo escritorio— y se inclinó sobre él. Levantó la falda completamente y bajó las braguitas, exponiendo el plug rosa que había llevado toda la mañana.
 
-â€”SÃ¡calo â€”ordenÃ³ Alejandro.
+—Sácalo —ordenó Alejandro.
 
-Roberta lo sacÃ³ lentamente. El plug saliÃ³ con un sonido hÃºmedo, dejÃ¡ndola vacÃ­a.
+Roberta lo sacó lentamente. El plug salió con un sonido húmedo, dejándola vacía.
 
-â€”Impresionante â€”dijo Alejandroâ€”. Miss Doll, eres una artista.
+—Impresionante —dijo Alejandro—. Miss Doll, eres una artista.
 
-â€”Tengo mis mÃ©todos.
+—Tengo mis métodos.
 
-Alejandro se desabrochÃ³ el cinturÃ³n.
+Alejandro se desabrochó el cinturón.
 
-El sonido del cuero pasando por las presillas fue como un disparo en el silencio. Roberta sintiÃ³ que el corazÃ³n se le aceleraba. Este era el momento. Todo el entrenamiento, toda la transformaciÃ³n, culminaba aquÃ­.
+El sonido del cuero pasando por las presillas fue como un disparo en el silencio. Roberta sintió que el corazón se le aceleraba. Este era el momento. Todo el entrenamiento, toda la transformación, culminaba aquí.
 
-â€”Vamos a probar la mercancÃ­a â€”dijo Alejandro, bajÃ¡ndose los pantalones.
+—Vamos a probar la mercancía —dijo Alejandro, bajándose los pantalones.
 
-Su polla era... real. No un dildo de silicona. No un arnÃ©s. Era carne caliente, dura, esperando ser servida.
+Su polla era... real. No un dildo de silicona. No un arnés. Era carne caliente, dura, esperando ser servida.
 
-*Esto es*, pensÃ³ Roberta. *Esto es lo que soy ahora. Una boca. Un agujero. Un objeto para ser usado.*
+*Esto es*, pensó Roberta. *Esto es lo que soy ahora. Una boca. Un agujero. Un objeto para ser usado.*
 
-Y, para su propia sorpresa, la idea no le causÃ³ horror.
+Y, para su propia sorpresa, la idea no le causó horror.
 
-La llenÃ³ de... anticipaciÃ³n.
+La llenó de... anticipación.
 
 ---
 
-Lo que siguiÃ³ fue exactamente lo que Roberta habÃ­a practicado, pero intensificado por la realidad del momento.
+Lo que siguió fue exactamente lo que Roberta había practicado, pero intensificado por la realidad del momento.
 
 Primero, la boca.
 
-Alejandro enredÃ³ sus dedos en su pelo â€”su pelo real, negro azabache, cortado en bobâ€” y la guÃ­o hacia su polla. El olor era diferente al de la silicona: almizclado, masculino, *vivo*. El sabor fue salado, un poco amargo, completamente humano.
+Alejandro enredó sus dedos en su pelo —su pelo real, negro azabache, cortado en bob— y la guío hacia su polla. El olor era diferente al de la silicona: almizclado, masculino, *vivo*. El sabor fue salado, un poco amargo, completamente humano.
 
-Roberta abriÃ³ la boca y lo tomÃ³.
+Roberta abrió la boca y lo tomó.
 
-Alejandro no fue delicado. La usÃ³ con la autoridad de alguien que sabe que posee lo que estÃ¡ usando. EmpujÃ³ hasta el fondo, haciÃ©ndola luchar por respirar, haciÃ©ndola sentir cada centÃ­metro de su control.
+Alejandro no fue delicado. La usó con la autoridad de alguien que sabe que posee lo que está usando. Empujó hasta el fondo, haciéndola luchar por respirar, haciéndola sentir cada centímetro de su control.
 
-Pero todo lo que Miss Doll le habÃ­a enseÃ±ado sirviÃ³: la tÃ©cnica para relajar la garganta, la respiraciÃ³n por la nariz, la mirada sumisa hacia arriba. Roberta mantuvo los ojos abiertos, mirando a su nuevo dueÃ±o mientras Ã©l usaba su boca.
+Pero todo lo que Miss Doll le había enseñado sirvió: la técnica para relajar la garganta, la respiración por la nariz, la mirada sumisa hacia arriba. Roberta mantuvo los ojos abiertos, mirando a su nuevo dueño mientras él usaba su boca.
 
-â€”Buena boca â€”gruÃ±Ã³ Alejandro, su voz ronca de placerâ€”. Miss Doll no mentÃ­a.
+—Buena boca —gruñó Alejandro, su voz ronca de placer—. Miss Doll no mentía.
 
-DespuÃ©s, el trasero.
+Después, el trasero.
 
-Alejandro la hizo inclinarse sobre el escritorio â€”el mismo escritorio donde Roberto habÃ­a firmado contratos millonarios, donde habÃ­a despedido empleados, donde habÃ­a sentido el poder de ser Directorâ€” y le subiÃ³ la falda hasta la cintura.
+Alejandro la hizo inclinarse sobre el escritorio —el mismo escritorio donde Roberto había firmado contratos millonarios, donde había despedido empleados, donde había sentido el poder de ser Director— y le subió la falda hasta la cintura.
 
-Roberta sintiÃ³ el aire frÃ­o contra su piel expuesta. SintiÃ³ sus propias braguitas siendo bajadas. SintiÃ³ la punta de su polla presionando contra su entrada.
+Roberta sintió el aire frío contra su piel expuesta. Sintió sus propias braguitas siendo bajadas. Sintió la punta de su polla presionando contra su entrada.
 
-Y luego la tomÃ³.
+Y luego la tomó.
 
-El dolor inicial fue intenso â€”mÃ¡s que con el dildo, mÃ¡s que con el plugâ€” pero pasÃ³ rÃ¡pido. Los dÃ­as de preparaciÃ³n habÃ­an funcionado. Su cuerpo sabÃ­a cÃ³mo recibir.
+El dolor inicial fue intenso —más que con el dildo, más que con el plug— pero pasó rápido. Los días de preparación habían funcionado. Su cuerpo sabía cómo recibir.
 
-Alejandro se moviÃ³ dentro de ella con un ritmo constante, posesivo. Cada empuje la hacÃ­a jadear. Cada movimiento la recordaba quiÃ©n era ahora: un objeto diseÃ±ado para el placer de otro.
+Alejandro se movió dentro de ella con un ritmo constante, posesivo. Cada empuje la hacía jadear. Cada movimiento la recordaba quién era ahora: un objeto diseñado para el placer de otro.
 
-â€”Apretada pero flexible â€”dijo Alejandro, su voz entrecortadaâ€”. Perfecta para el uso diario.
+—Apretada pero flexible —dijo Alejandro, su voz entrecortada—. Perfecta para el uso diario.
 
-*Uso diario.* Las palabras resonaron en la mente de Roberta. Esto no era una vez. Esto era su nueva vida. Todos los dÃ­as. Todas las veces que Ã©l quisiera.
+*Uso diario.* Las palabras resonaron en la mente de Roberta. Esto no era una vez. Esto era su nueva vida. Todos los días. Todas las veces que él quisiera.
 
-Y mientras Alejandro la usaba â€”mientras su cuerpo era tomado, penetrado, poseidoâ€” Roberta sintiÃ³ algo inesperado.
+Y mientras Alejandro la usaba —mientras su cuerpo era tomado, penetrado, poseido— Roberta sintió algo inesperado.
 
 Paz.
 
-*Esto es lo que soy*, pensÃ³. *Esto es lo que siempre fui. Solo necesitaba a alguien que me mostrara.*
+*Esto es lo que soy*, pensó. *Esto es lo que siempre fui. Solo necesitaba a alguien que me mostrara.*
 
-Cuando Alejandro terminÃ³ â€”dentro de ella, marcÃ¡ndola como suya con su semenâ€” se apartÃ³ y se abrochÃ³ los pantalones como si nada hubiera pasado.
+Cuando Alejandro terminó —dentro de ella, marcándola como suya con su semen— se apartó y se abrochó los pantalones como si nada hubiera pasado.
 
-â€”La compro â€”dijo simplementeâ€”. Â¿DÃ³nde firmo?
+—La compro —dijo simplemente—. ¿Dónde firmo?
 
 ---
 
-Miss Doll sacÃ³ dos documentos.
+Miss Doll sacó dos documentos.
 
 El contrato de servicios personales.
 
 Y el dossier azul. El original. Con todas las pruebas del fraude de Roberto.
 
-â€”Firma aquÃ­ â€”dijo Miss Doll, seÃ±alando una lÃ­nea en el contratoâ€”. Y Roberto desaparece para siempre.
+—Firma aquí —dijo Miss Doll, señalando una línea en el contrato—. Y Roberto desaparece para siempre.
 
-Roberta, todavÃ­a inclinada sobre el escritorio con el semen de Alejandro goteando por sus muslos, tomÃ³ el bolÃ­grafo rosa.
+Roberta, todavía inclinada sobre el escritorio con el semen de Alejandro goteando por sus muslos, tomó el bolígrafo rosa.
 
-FirmÃ³.
+Firmó.
 
 *Roberta.*
 
-La firma era diferente a la de Roberto. MÃ¡s suave. MÃ¡s femenina.
+La firma era diferente a la de Roberto. Más suave. Más femenina.
 
-Miss Doll encendiÃ³ un fÃ³sforo.
+Miss Doll encendió un fósforo.
 
-El dossier azul ardiÃ³.
+El dossier azul ardió.
 
-Las pruebas del fraude, los correos electrÃ³nicos, los documentos bancarios... todo se convirtiÃ³ en ceniza.
+Las pruebas del fraude, los correos electrónicos, los documentos bancarios... todo se convirtió en ceniza.
 
-â€”Roberto ValdÃ©s estÃ¡ muerto â€”anunciÃ³ Miss Dollâ€”. Solo queda Roberta, propiedad de Alejandro Mendoza.
+—Roberto Valdés está muerto —anunció Miss Doll—. Solo queda Roberta, propiedad de Alejandro Mendoza.
 
-Alejandro sonriÃ³.
+Alejandro sonrió.
 
-â€”Bienvenida a tu nueva vida, mascota. Tengo muchos planes para ti.
-
----
-
-El resto del dÃ­a fue un borrÃ³n de preparaciÃ³n.
-
-Alejandro le mostrÃ³ su nuevo "lugar de trabajo": un cubÃ­culo de secretaria justo afuera de la oficina del Director (la que ahora era suya). Le mostrÃ³ su nuevo "uniforme": vestidos rosa de talla muy ajustada, tacones obligatorios, maquillaje siempre perfecto.
-
-Y le mostrÃ³ su nuevo "horario": 7 AM a 10 PM, disponible en todo momento para cualquier necesidad que Ã©l tuviera.
-
-â€”Â¿Alguna pregunta? â€”dijo Alejandro al final del dÃ­a.
-
-Roberta, arrodillada frente a Ã©l, negÃ³ con la cabeza.
-
-â€”No, seÃ±or.
-
-â€”Bien. MaÃ±ana empezamos oficialmente. Pero antes... â€”Alejandro se desabrochÃ³ los pantalones de nuevoâ€”. Termina el dÃ­a como debe terminar.
-
-Roberta abriÃ³ la boca.
-
-Y sirviÃ³.
-
-
+—Bienvenida a tu nueva vida, mascota. Tengo muchos planes para ti.
 
 ---
 
+El resto del día fue un borrón de preparación.
 
-# CapÃ­tulo 10: La RevelaciÃ³n (DÃ­a 15)
+Alejandro le mostró su nuevo "lugar de trabajo": un cubículo de secretaria justo afuera de la oficina del Director (la que ahora era suya). Le mostró su nuevo "uniforme": vestidos rosa de talla muy ajustada, tacones obligatorios, maquillaje siempre perfecto.
 
-El lunes amaneciÃ³ brillante y despiadado.
+Y le mostró su nuevo "horario": 7 AM a 10 PM, disponible en todo momento para cualquier necesidad que él tuviera.
 
-Roberta llegÃ³ a la oficina a las 6:45 AM, quince minutos antes de lo requerido. Llevaba su uniforme: vestido rosa ajustado, tacones de doce centÃ­metros, maquillaje perfecto, el collar de sumisiÃ³n visible en su cuello.
+—¿Alguna pregunta? —dijo Alejandro al final del día.
 
-Se sentÃ³ en su nuevo escritorio de secretaria y encendiÃ³ la computadora.
+Roberta, arrodillada frente a él, negó con la cabeza.
 
-En la bandeja de entrada habÃ­a un solo correo de Alejandro.
+—No, señor.
 
-**"Hoy es el dÃ­a. Preparada?"**
+—Bien. Mañana empezamos oficialmente. Pero antes... —Alejandro se desabrochó los pantalones de nuevo—. Termina el día como debe terminar.
 
-Roberta no necesitaba preguntar para quÃ©.
+Roberta abrió la boca.
 
-RespondiÃ³: **"SÃ­, seÃ±or."**
+Y sirvió.
+
+
+
+---
+
+
+# Capítulo 10: La Revelación (Día 15)
+
+El lunes amaneció brillante y despiadado.
+
+Roberta llegó a la oficina a las 6:45 AM, quince minutos antes de lo requerido. Llevaba su uniforme: vestido rosa ajustado, tacones de doce centímetros, maquillaje perfecto, el collar de sumisión visible en su cuello.
+
+Se sentó en su nuevo escritorio de secretaria y encendió la computadora.
+
+En la bandeja de entrada había un solo correo de Alejandro.
+
+**"Hoy es el día. Preparada?"**
+
+Roberta no necesitaba preguntar para qué.
+
+Respondió: **"Sí, señor."**
 
 ---
 
 A las 9:00 AM, los empleados empezaron a llegar.
 
-Roberta los observÃ³ desde su escritorio, el corazÃ³n latiendo rÃ¡pido. ReconocÃ­a a muchos de ellos â€”sus antiguos subordinados, sus antiguos colegasâ€” pero ninguno la reconocÃ­a a ella.
+Roberta los observó desde su escritorio, el corazón latiendo rápido. Reconocía a muchos de ellos —sus antiguos subordinados, sus antiguos colegas— pero ninguno la reconocía a ella.
 
-Pasaban junto a su escritorio sin mirarla dos veces. Solo otra secretaria. Solo otra mujer en tacones sirviendo cafÃ©.
+Pasaban junto a su escritorio sin mirarla dos veces. Solo otra secretaria. Solo otra mujer en tacones sirviendo café.
 
-â€”Buenos dÃ­as â€”decÃ­a Roberta a cada uno, su voz suave y femeninaâ€”. Â¿Puedo ayudarle en algo?
+—Buenos días —decía Roberta a cada uno, su voz suave y femenina—. ¿Puedo ayudarle en algo?
 
 Nadie sospechaba.
 
-Hasta que llegÃ³ Gonzalo.
+Hasta que llegó Gonzalo.
 
-Gonzalo era el jefe de contabilidad. Un hombre corpulento, nervioso, que habÃ­a trabajado bajo Roberto durante aÃ±os. De todos los empleados, era el que mejor conocÃ­a al antiguo Director.
+Gonzalo era el jefe de contabilidad. Un hombre corpulento, nervioso, que había trabajado bajo Roberto durante años. De todos los empleados, era el que mejor conocía al antiguo Director.
 
 Se detuvo frente al escritorio de Roberta.
 
-La mirÃ³.
+La miró.
 
-FrunciÃ³ el ceÃ±o.
+Frunció el ceño.
 
-â€”Â¿Te conozco? â€”preguntÃ³â€”. Hay algo familiar en ti.
+—¿Te conozco? —preguntó—. Hay algo familiar en ti.
 
-El pÃ¡nico fue breve. Roberta lo aplastÃ³.
+El pánico fue breve. Roberta lo aplastó.
 
-â€”No creo, seÃ±or â€”dijo, bajando los ojos sumisamenteâ€”. Soy nueva. Me llamo Roberta.
+—No creo, señor —dijo, bajando los ojos sumisamente—. Soy nueva. Me llamo Roberta.
 
-Gonzalo la mirÃ³ un momento mÃ¡s.
+Gonzalo la miró un momento más.
 
-â€”Roberta... â€”repitiÃ³, como saboreando el nombreâ€”. Es curioso. Me recuerdas a alguien.
+—Roberta... —repitió, como saboreando el nombre—. Es curioso. Me recuerdas a alguien.
 
-â€”La gente dice que tengo cara comÃºn â€”sonriÃ³ Robertaâ€”. Â¿Puedo ofrecerle un cafÃ©?
+—La gente dice que tengo cara común —sonrió Roberta—. ¿Puedo ofrecerle un café?
 
-Gonzalo asintiÃ³, todavÃ­a mirÃ¡ndola con sospecha, y continuÃ³ hacia su oficina.
+Gonzalo asintió, todavía mirándola con sospecha, y continuó hacia su oficina.
 
-Roberta exhalÃ³.
+Roberta exhaló.
 
-*Casi*, pensÃ³. *Casi descubierta.*
+*Casi*, pensó. *Casi descubierta.*
 
-Pero no importaba. Pronto, todo el mundo sabrÃ­a de todos modos.
+Pero no importaba. Pronto, todo el mundo sabría de todos modos.
 
 ---
 
-A las 11:00 AM llegÃ³ Alejandro.
+A las 11:00 AM llegó Alejandro.
 
-EntrÃ³ con la confianza de un conquistador, pasando junto al escritorio de Roberta con una sonrisa de satisfacciÃ³n.
+Entró con la confianza de un conquistador, pasando junto al escritorio de Roberta con una sonrisa de satisfacción.
 
-â€”CafÃ©, Roberta. En mi oficina. Cinco minutos.
+—Café, Roberta. En mi oficina. Cinco minutos.
 
-â€”SÃ­, seÃ±or.
+—Sí, señor.
 
-Cuando Roberta entrÃ³ en la oficina con el cafÃ©, Alejandro cerrÃ³ la puerta con llave.
+Cuando Roberta entró en la oficina con el café, Alejandro cerró la puerta con llave.
 
-â€”ArrodÃ­llate.
+—Arrodíllate.
 
-Roberta obedeciÃ³, equilibrando la taza mientras bajaba.
+Roberta obedeció, equilibrando la taza mientras bajaba.
 
-â€”Buen cafÃ© â€”dijo Alejandro, tomando un sorboâ€”. Y buen servicio. Creo que es hora de la segunda parte de nuestro acuerdo.
+—Buen café —dijo Alejandro, tomando un sorbo—. Y buen servicio. Creo que es hora de la segunda parte de nuestro acuerdo.
 
-SacÃ³ su telÃ©fono.
+Sacó su teléfono.
 
-â€”Â¿Recuerdas a tu esposa Claudia?
+—¿Recuerdas a tu esposa Claudia?
 
-El nombre golpeÃ³ a Roberta como un puÃ±etazo.
+El nombre golpeó a Roberta como un puñetazo.
 
-â€”SÃ­... seÃ±or.
+—Sí... señor.
 
-â€”Acabo de enviarle un correo. Con todas las fotos de la carpeta rosa. Todas las imÃ¡genes de Roberto con lencerÃ­a. Los videos de ti besando zapatos. Las fotos de ti maquillada, con tacones, sirviendo cafÃ©.
+—Acabo de enviarle un correo. Con todas las fotos de la carpeta rosa. Todas las imágenes de Roberto con lencería. Los videos de ti besando zapatos. Las fotos de ti maquillada, con tacones, sirviendo café.
 
-El horror fue tardÃ­o, ahogado por algo que se parecÃ­a mÃ¡s a... alivio.
+El horror fue tardío, ahogado por algo que se parecía más a... alivio.
 
-â€”TambiÃ©n copiÃ© a recursos humanos. Y a la lista de distribuciÃ³n de toda la empresa. Y a algunos contactos que encontrÃ© en tu viejo telÃ©fono: vecinos, amigos de la universidad, tu club de golf.
+—También copié a recursos humanos. Y a la lista de distribución de toda la empresa. Y a algunos contactos que encontré en tu viejo teléfono: vecinos, amigos de la universidad, tu club de golf.
 
-â€”Â¿Por quÃ©? â€”susurrÃ³ Roberta.
+—¿Por qué? —susurró Roberta.
 
-â€”Porque quiero que todo el mundo sepa â€”dijo Alejandro, inclinÃ¡ndose hacia ellaâ€”. Quiero que sepan que Roberto ValdÃ©s, el arrogante Director Regional, ahora es mi secretaria personal. Que usa vestidos rosa y me sirve cafÃ© de rodillas. Que firmÃ³ un contrato renunciando a su dignidad.
+—Porque quiero que todo el mundo sepa —dijo Alejandro, inclinándose hacia ella—. Quiero que sepan que Roberto Valdés, el arrogante Director Regional, ahora es mi secretaria personal. Que usa vestidos rosa y me sirve café de rodillas. Que firmó un contrato renunciando a su dignidad.
 
 Se puso de pie.
 
-â€”Quiero que cuando crucen la puerta de esta oficina, sepan exactamente lo que pasÃ³. Quiero que vean al hombre que los intimidaba, los menospreciaba, les robaba las ideas... convertido en una muÃ±eca sumisa que dice "sÃ­, seÃ±or" a todo lo que le ordeno.
+—Quiero que cuando crucen la puerta de esta oficina, sepan exactamente lo que pasó. Quiero que vean al hombre que los intimidaba, los menospreciaba, les robaba las ideas... convertido en una muñeca sumisa que dice "sí, señor" a todo lo que le ordeno.
 
-Roberta deberÃ­a haber sentido devastaciÃ³n.
+Roberta debería haber sentido devastación.
 
-En cambio, sintiÃ³ que algo se liberaba.
+En cambio, sintió que algo se liberaba.
 
-*Ya no tengo que esconderme*, pensÃ³. *Ya no tengo que mentir. Ya no tengo que ser dos personas.*
+*Ya no tengo que esconderme*, pensó. *Ya no tengo que mentir. Ya no tengo que ser dos personas.*
 
 *Solo soy Roberta. Y ahora todo el mundo lo sabe.*
 
@@ -2988,151 +2988,151 @@ Los correos llegaron a su destino.
 
 La primera en llamar fue Claudia.
 
-Alejandro puso el telÃ©fono en altavoz, sonriendo.
+Alejandro puso el teléfono en altavoz, sonriendo.
 
-â€”Â¿ROBERTO? â€”La voz de Claudia estaba quebradaâ€”. Â¿QUÃ‰ DIABLOS SON ESTAS FOTOS? Â¿ES ESTO... ERES TÃš?
+—¿ROBERTO? —La voz de Claudia estaba quebrada—. ¿QUÉ DIABLOS SON ESTAS FOTOS? ¿ES ESTO... ERES TÚ?
 
-Roberta mirÃ³ a Alejandro. Ã‰l asintiÃ³.
+Roberta miró a Alejandro. Él asintió.
 
-â€”Soy yo, Claudia â€”dijo Roberta, su voz suaveâ€”. Pero ya no soy Roberto.
+—Soy yo, Claudia —dijo Roberta, su voz suave—. Pero ya no soy Roberto.
 
-â€”Â¡Â¿DE QUÃ‰ ESTÃS HABLANDO?! Â¡ESTÃS EN ROPA DE MUJER! Â¡HAY FOTOS DE TI... DE TI... CON UNA MUJER CON TACONES ROSAS! Â¿QUIÃ‰N ES ELLA? Â¿HACE CUÃNTO QUEâ€”?
+—¡¿DE QUÉ ESTÁS HABLANDO?! ¡ESTÁS EN ROPA DE MUJER! ¡HAY FOTOS DE TI... DE TI... CON UNA MUJER CON TACONES ROSAS! ¿QUIÉN ES ELLA? ¿HACE CUÁNTO QUE—?
 
-â€”No fue una aventura â€”interrumpiÃ³ Robertaâ€”. Fue una... transformaciÃ³n.
+—No fue una aventura —interrumpió Roberta—. Fue una... transformación.
 
-â€”Â¿TRANSFORMACIÃ“N? Â¡TE VES COMO UNA PUTA!
+—¿TRANSFORMACIÓN? ¡TE VES COMO UNA PUTA!
 
-â€”Me veo como lo que soy ahora, Claudia. â€”Roberta sintiÃ³ una extraÃ±a calmaâ€”. No voy a volver a casa. No voy a volver a ser tu marido. Esa persona... ya no existe.
+—Me veo como lo que soy ahora, Claudia. —Roberta sintió una extraña calma—. No voy a volver a casa. No voy a volver a ser tu marido. Esa persona... ya no existe.
 
 Un silencio roto por sollozos.
 
-â€”Â¿EstÃ¡s... estÃ¡s diciÃ©ndome que dejaste a tu familia... para ser la SECRETARIA de alguien?
+—¿Estás... estás diciéndome que dejaste a tu familia... para ser la SECRETARIA de alguien?
 
-â€”SÃ­.
+—Sí.
 
-Claudia colgÃ³.
+Claudia colgó.
 
-Alejandro riÃ³.
+Alejandro rió.
 
-â€”Hermoso. Absolutamente hermoso.
+—Hermoso. Absolutamente hermoso.
 
 ---
 
-Las horas siguientes fueron un carnaval de humillaciÃ³n.
+Las horas siguientes fueron un carnaval de humillación.
 
-Los empleados pasaban frente al escritorio de Roberta, mirÃ¡ndola con horror, incredulidad, fascinaciÃ³n. Algunos susurraban. Otros reÃ­an abiertamente. Unos pocos â€”los que Roberto habÃ­a maltratado especialmenteâ€” la miraban con algo parecido a la satisfacciÃ³n.
+Los empleados pasaban frente al escritorio de Roberta, mirándola con horror, incredulidad, fascinación. Algunos susurraban. Otros reían abiertamente. Unos pocos —los que Roberto había maltratado especialmente— la miraban con algo parecido a la satisfacción.
 
-Gonzalo regresÃ³.
+Gonzalo regresó.
 
-Esta vez, no preguntÃ³ si la conocÃ­a.
+Esta vez, no preguntó si la conocía.
 
-â€”Eras tÃº â€”dijo, mirÃ¡ndolaâ€”. El Director. El bastardo que me hizo trabajar los fines de semana durante dos aÃ±os mientras me pagaba una miseria.
+—Eras tú —dijo, mirándola—. El Director. El bastardo que me hizo trabajar los fines de semana durante dos años mientras me pagaba una miseria.
 
-Roberta no levantÃ³ la mirada.
+Roberta no levantó la mirada.
 
-â€”SÃ­, seÃ±or.
+—Sí, señor.
 
-Gonzalo se riÃ³.
+Gonzalo se rió.
 
-â€”"SeÃ±or". Me llamas "seÃ±or". â€”Se inclinÃ³ hacia ellaâ€”. Â¿Sabes quÃ©? Me gusta esto. Me gusta verte de rodillas. Me gusta saber que el hombre que me hacÃ­a sentir insignificante ahora es... esto.
+—"Señor". Me llamas "señor". —Se inclinó hacia ella—. ¿Sabes qué? Me gusta esto. Me gusta verte de rodillas. Me gusta saber que el hombre que me hacía sentir insignificante ahora es... esto.
 
-Se alejÃ³, todavÃ­a riendo.
+Se alejó, todavía riendo.
 
-Roberta sintiÃ³ el peso de su mirada como una quemadura.
+Roberta sintió el peso de su mirada como una quemadura.
 
 Pero no como dolor.
 
 Como... merecimiento.
 
-*Me lo merezco*, pensÃ³. *Todo lo que hice, toda la gente que herÃ­... esto es mi karma. Y lo acepto.*
+*Me lo merezco*, pensó. *Todo lo que hice, toda la gente que herí... esto es mi karma. Y lo acepto.*
 
 ---
 
-A las 6:00 PM, la oficina se vaciÃ³.
+A las 6:00 PM, la oficina se vació.
 
 Solo quedaron Alejandro y Roberta.
 
-Alejandro la llamÃ³ a su oficina.
+Alejandro la llamó a su oficina.
 
-â€”Ven aquÃ­.
+—Ven aquí.
 
-Roberta entrÃ³, sus tacones resonando en el silencio.
+Roberta entró, sus tacones resonando en el silencio.
 
-â€”Hoy fue un buen dÃ­a â€”dijo Alejandroâ€”. Todo el mundo sabe. Todo el mundo vio. Roberto ValdÃ©s estÃ¡ oficialmente destruido.
+—Hoy fue un buen día —dijo Alejandro—. Todo el mundo sabe. Todo el mundo vio. Roberto Valdés está oficialmente destruido.
 
-â€”SÃ­, seÃ±or.
+—Sí, señor.
 
-â€”Â¿CÃ³mo te sientes?
+—¿Cómo te sientes?
 
-Roberta pensÃ³ en su respuesta.
+Roberta pensó en su respuesta.
 
-PensÃ³ en Claudia llorando. En sus hijos que pronto se enterarÃ­an. En sus padres, sus amigos, todos los que alguna vez lo habÃ­an conocido como hombre.
+Pensó en Claudia llorando. En sus hijos que pronto se enterarían. En sus padres, sus amigos, todos los que alguna vez lo habían conocido como hombre.
 
-Y pensÃ³ en sÃ­ misma. En este momento. Arrodillada frente a su nuevo dueÃ±o, con el collar en el cuello y el sabor de la sumisiÃ³n en los labios.
+Y pensó en sí misma. En este momento. Arrodillada frente a su nuevo dueño, con el collar en el cuello y el sabor de la sumisión en los labios.
 
-â€”Libre â€”dijoâ€”. Me siento libre.
+—Libre —dijo—. Me siento libre.
 
-Alejandro sonriÃ³.
+Alejandro sonrió.
 
-â€”Buena respuesta. Ahora... â€”se desabrochÃ³ los pantalonesâ€”. DemuÃ©stramelo.
+—Buena respuesta. Ahora... —se desabrochó los pantalones—. Demuéstramelo.
 
-Roberta abriÃ³ la boca.
+Roberta abrió la boca.
 
-Y sirviÃ³.
+Y sirvió.
 
 ---
 
-**EpÃ­logo - Tres meses despuÃ©s**
+**Epílogo - Tres meses después**
 
 La oficina ya no susurraba sobre Roberta.
 
-Se habÃ­a convertido en parte del paisaje: la secretaria de rosa que servÃ­a cafÃ©, que archivaba documentos, que desaparecÃ­a en la oficina de Alejandro durante largos periodos y salÃ­a con el labial corrido.
+Se había convertido en parte del paisaje: la secretaria de rosa que servía café, que archivaba documentos, que desaparecía en la oficina de Alejandro durante largos periodos y salía con el labial corrido.
 
 Nadie preguntaba. Nadie se escandalizaba.
 
-Era simplemente... cÃ³mo eran las cosas.
+Era simplemente... cómo eran las cosas.
 
-Una maÃ±ana, una nueva empleada se acercÃ³ a su escritorio.
+Una mañana, una nueva empleada se acercó a su escritorio.
 
-â€”Hola, Â¿me puedes ayudar con estos formularios?
+—Hola, ¿me puedes ayudar con estos formularios?
 
-Roberta sonriÃ³.
+Roberta sonrió.
 
-â€”Por supuesto. Â¿CÃ³mo te llamas?
+—Por supuesto. ¿Cómo te llamas?
 
-â€”Laura. Soy la nueva asistente de recursos humanos.
+—Laura. Soy la nueva asistente de recursos humanos.
 
-â€”Encantada, Laura. Yo soy Roberta.
+—Encantada, Laura. Yo soy Roberta.
 
-Laura la mirÃ³ con curiosidad.
+Laura la miró con curiosidad.
 
-â€”Â¿Es verdad lo que dicen? Â¿Que antes eras...?
+—¿Es verdad lo que dicen? ¿Que antes eras...?
 
-â€”Era otra persona â€”dijo Roberta suavementeâ€”. Pero eso fue hace mucho tiempo. Ahora soy esto. â€”SeÃ±alÃ³ su vestido, sus tacones, su collarâ€”. Esto es lo que soy.
+—Era otra persona —dijo Roberta suavemente—. Pero eso fue hace mucho tiempo. Ahora soy esto. —Señaló su vestido, sus tacones, su collar—. Esto es lo que soy.
 
-Laura asintiÃ³, confundida pero aceptando.
+Laura asintió, confundida pero aceptando.
 
-â€”Bueno... bienvenida, supongo. Aunque llevas mÃ¡s tiempo que yo aquÃ­.
+—Bueno... bienvenida, supongo. Aunque llevas más tiempo que yo aquí.
 
-â€”Gracias. Si necesitas algo, avÃ­same. Estoy aquÃ­ para servir.
+—Gracias. Si necesitas algo, avísame. Estoy aquí para servir.
 
-Laura se alejÃ³ con los formularios.
+Laura se alejó con los formularios.
 
-Roberta volviÃ³ a su computadora.
+Roberta volvió a su computadora.
 
-TenÃ­a correos que responder, cafÃ©s que preparar, una agenda que organizar.
+Tenía correos que responder, cafés que preparar, una agenda que organizar.
 
-Y, en treinta minutos, Alejandro tendrÃ­a su reuniÃ³n de la tarde.
+Y, en treinta minutos, Alejandro tendría su reunión de la tarde.
 
-Lo que significaba que ella tendrÃ­a que estar lista.
+Lo que significaba que ella tendría que estar lista.
 
-Se tocÃ³ el collar â€”el pequeÃ±o corazÃ³n de plata que marcaba su propiedadâ€” y sonriÃ³.
+Se tocó el collar —el pequeño corazón de plata que marcaba su propiedad— y sonrió.
 
-*Esta es mi vida ahora*, pensÃ³. *Y no la cambiarÃ­a por nada.*
+*Esta es mi vida ahora*, pensó. *Y no la cambiaría por nada.*
 
 Afuera, el sol brillaba sobre la ciudad.
 
-Y Roberta, la sirvienta perfecta, siguiÃ³ trabajando.
+Y Roberta, la sirvienta perfecta, siguió trabajando.
 
 **FIN**
 
@@ -3142,24 +3142,24 @@ Y Roberta, la sirvienta perfecta, siguiÃ³ trabajando.
 
 
 
-═══════════════════════════════════════════════════════════════════════════════
+-------------------------------------------------------------------------------
                             NOTA DE LA AUTORA
-═══════════════════════════════════════════════════════════════════════════════
+-------------------------------------------------------------------------------
 
-¿Te reconociste en Roberto? ¿Sentiste esa mezcla de horror y anticipación cada vez que Miss Doll pronunciaba una orden? ¿Te descubriste deseando estar en su lugar, arrodillado frente a esos tacones rosa, esperando la siguiente instrucción?
+�Te reconociste en Roberto? �Sentiste esa mezcla de horror y anticipaci�n cada vez que Miss Doll pronunciaba una orden? �Te descubriste deseando estar en su lugar, arrodillado frente a esos tacones rosa, esperando la siguiente instrucci�n?
 
-No tienes que guardarte esas confesiones. Mi buzón está abierto para tus secretos más oscuros. Cuéntame qué despertó en ti. Cuéntame si hay una Roberta escondida dentro de ti, esperando que alguien la libere.
+No tienes que guardarte esas confesiones. Mi buz�n est� abierto para tus secretos m�s oscuros. Cu�ntame qu� despert� en ti. Cu�ntame si hay una Roberta escondida dentro de ti, esperando que alguien la libere.
 
-Escríbeme a: **contacto@anaisbelland.com**
+Escr�beme a: **anais.belland@outlook.com**
 
-Con devoción oscura,
-*Anaïs Belland*
+Con devoci�n oscura,
+*Ana�s Belland*
 
-───────────────────────────────────────────────────────────────────────────────
+-------------------------------------------------------------------------------
 
 **Palabras totales:** ~23,500
-**Capítulos:** 10
-**Días narrados:** 15
+**Cap�tulos:** 10
+**D�as narrados:** 15
 
-*La Voûte d'Anaïs - Donde las fantasías se vuelven realidad*
+*La Vo�te d'Ana�s - Donde las fantas�as se vuelven realidad*
 

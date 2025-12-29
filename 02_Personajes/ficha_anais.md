@@ -168,7 +168,7 @@ Como creadora, Anaïs firma:
 
 ## Contacto
 
-📧 **AnaisBelland@outlook.com**
+📧 **anais.belland@outlook.com**
 
 ---
 

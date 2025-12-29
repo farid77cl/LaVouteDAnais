@@ -1453,7 +1453,7 @@ Si esta historia tocó algo en ti — el deseo secreto de transformación, el mi
 
 *Dis-moi tes secrets les plus sombres.*
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 *Avec dévotion obscure,*
 **Anaïs Belland**

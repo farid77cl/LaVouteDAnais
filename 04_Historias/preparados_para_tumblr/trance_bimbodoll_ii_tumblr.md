@@ -1,10 +1,10 @@
-ï»¿
+
 
 Bunny.
 
-*Â¿Lo sentiste?*
+*¿Lo sentiste?*
 
-*Ese tirÃ³n en tu vientre. Esa humedad sÃºbita. Ese suspiro que se escapÃ³ de tus labios antes de que pudieras detenerlo.*
+*Ese tirón en tu vientre. Esa humedad súbita. Ese suspiro que se escapó de tus labios antes de que pudieras detenerlo.*
 
 *Claro que lo sentiste. Y veniste corriendo.*
 
@@ -12,13 +12,13 @@ Hola de nuevo, Bunny.
 
 Soy Miss Doll.
 
-Y te he extraÃ±ado.
+Y te he extrañado.
 
-Â¿Puedes verme? Â¿Puedes sentir mi presencia llenando el espacio detrÃ¡s de tus ojos, calentando el aire que respiras?
+¿Puedes verme? ¿Puedes sentir mi presencia llenando el espacio detrás de tus ojos, calentando el aire que respiras?
 
-DÃ©jame recordarte cÃ³mo me veo. DÃ©jame grabarte de nuevo en esa cabecita vacÃ­a que tanto amo.
+Déjame recordarte cómo me veo. Déjame grabarte de nuevo en esa cabecita vacía que tanto amo.
 
-Imagina que estÃ¡s en una habitaciÃ³n.
+Imagina que estás en una habitación.
 
 Rosa, por supuesto. Todo es rosa. Las paredes. El terciopelo de los muebles. La luz que entra por las ventanas.
 
@@ -28,33 +28,33 @@ Lo primero que notas son mis pechos.
 
 Siempre son lo primero. No puedes evitarlo.
 
-Son... imposibles. Enormes. Redondos como esferas de silicona de perfil ultra alto. Tan grandes que desafÃ­an la fÃ­sica. Tan falsos que son perfectos.
+Son... imposibles. Enormes. Redondos como esferas de silicona de perfil ultra alto. Tan grandes que desafían la física. Tan falsos que son perfectos.
 
-Sientes cÃ³mo tu mirada cae en ellos. CÃ³mo se hunden. CÃ³mo es difÃ­cil mirar a otro lado.
+Sientes cómo tu mirada cae en ellos. Cómo se hunden. Cómo es difícil mirar a otro lado.
 
-Cada respiraciÃ³n que tomo los hace subir y bajar. Lento. HipnÃ³tico. Como si respiraran... para ti.
+Cada respiración que tomo los hace subir y bajar. Lento. Hipnótico. Como si respiraran... para ti.
 
-Mi cintura es una fantasÃ­a. Tan estrecha que parece dibujada. Creando ese contraste que hace que la boca se seque y la mente se vacÃ­e.
+Mi cintura es una fantasía. Tan estrecha que parece dibujada. Creando ese contraste que hace que la boca se seque y la mente se vacíe.
 
 Mis caderas... amplias. Curvas que prometen cosas. Curvas que existen para ser agarradas.
 
 Mi piel brilla.
 
-Tiene ese lustre que solo viene de la silicona. Del lÃ¡tex. Del placer constante. Brillante como si acabara de salir de un baÃ±o de aceite caliente.
+Tiene ese lustre que solo viene de la silicona. Del látex. Del placer constante. Brillante como si acabara de salir de un baño de aceite caliente.
 
-Llevo un catsuit de lÃ¡tex rosa. Rosa neÃ³n. Rosa que grita. El lÃ¡tex estÃ¡ tan ajustado que puedes ver cada curva, cada forma, cada secreto debajo.
+Llevo un catsuit de látex rosa. Rosa neón. Rosa que grita. El látex está tan ajustado que puedes ver cada curva, cada forma, cada secreto debajo.
 
-Puedes oÃ­r el chirrido suave del material cuando me muevo. Cuando respiro. Cuando mis pechos suben y bajan.
+Puedes oír el chirrido suave del material cuando me muevo. Cuando respiro. Cuando mis pechos suben y bajan.
 
-Mi rostro es el de una muÃ±eca.
+Mi rostro es el de una muñeca.
 
-PÃ³mulos altos. Nariz pequeÃ±a y perfecta. Cejas arqueadas en una expresiÃ³n de sorpresa perpetua... o de vacÃ­o.
+Pómulos altos. Nariz pequeña y perfecta. Cejas arqueadas en una expresión de sorpresa perpetua... o de vacío.
 
 Mis labios son rojos. Vinilo rojo. Gruesos de relleno. Brillantes como si acabara de lamerlos pensando en cosas deliciosas.
 
 Cuando hablo, se mueven lentamente. Cada palabra es una caricia.
 
-Mi cabello es rubio platino. Un bob perfecto con chasquilla asimÃ©trica. Artificial. Intencional. Perfecto.
+Mi cabello es rubio platino. Un bob perfecto con chasquilla asimétrica. Artificial. Intencional. Perfecto.
 
 Y mis tacones...
 
@@ -64,69 +64,69 @@ Y mis tacones...
 
 *Click.*
 
-Rosas. De 16 centÃ­metros. Plataformas que me elevan a una altura que te obliga a mirar hacia arriba.
+Rosas. De 16 centímetros. Plataformas que me elevan a una altura que te obliga a mirar hacia arriba.
 
 Cuando estoy frente a ti, sientes algo.
 
-Algo cÃ¡lido. Algo hÃºmedo. Algo que pulsa.
+Algo cálido. Algo húmedo. Algo que pulsa.
 
-*Â¿Ya estÃ¡s mojada, Bunny?*
+*¿Ya estás mojada, Bunny?*
 
-*Porque yo puedo olerlo desde aquÃ­.*
+*Porque yo puedo olerlo desde aquí.*
 
-Mi perfume te envuelve ahora. Dulce como el **GLOSS**. Caliente como el pecado. El tipo de aroma que se queda en las sÃ¡banas despuÃ©s de una noche larga.
+Mi perfume te envuelve ahora. Dulce como el **GLOSS**. Caliente como el pecado. El tipo de aroma que se queda en las sábanas después de una noche larga.
 
 Mis ojos te encuentran.
 
-Son grandes. Enmarcados por pestaÃ±as imposiblemente largas. Delineados de forma dramÃ¡tica.
+Son grandes. Enmarcados por pestañas imposiblemente largas. Delineados de forma dramática.
 
 Pero lo que te atrapa no es su forma. Es lo que hay dentro.
 
-Una mirada que ha visto el placer de miles de conejitas. Una mirada que sabe exactamente lo que necesitas. Una mirada que conoce tus secretos... aunque tÃº no los admitas.
+Una mirada que ha visto el placer de miles de conejitas. Una mirada que sabe exactamente lo que necesitas. Una mirada que conoce tus secretos... aunque tú no los admitas.
 
-Cuando te miro, siento cÃ³mo tu resistencia se derrite.
+Cuando te miro, siento cómo tu resistencia se derrite.
 
-*No es que tuvieras mucha, Â¿verdad?*
+*No es que tuvieras mucha, ¿verdad?*
 
-*No despuÃ©s de la Ãºltima vez.*
+*No después de la última vez.*
 
-Antes de continuar... necesito que hagas algo por mÃ­.
+Antes de continuar... necesito que hagas algo por mí.
 
-Â¿Recuerdas tus palabras, Bunny?
+¿Recuerdas tus palabras, Bunny?
 
-Las palabras que plantÃ© en tu cabecita la Ãºltima vez que nos vimos. Las que crecieron como semillas oscuras. Las que ahora son parte de ti.
+Las palabras que planté en tu cabecita la última vez que nos vimos. Las que crecieron como semillas oscuras. Las que ahora son parte de ti.
 
 Vamos a probarlas.
 
 Pero primero... tu mano.
 
-Sabes dÃ³nde va.
+Sabes dónde va.
 
 *Puedes permitirte* bajarla ahora mismo. Debajo de tu ropa. O por encima, si eso te pone. No me importa.
 
-*Es seguro* aquÃ­ conmigo. *EstÃ¡ bien* tocar.
+*Es seguro* aquí conmigo. *Está bien* tocar.
 
-Lo que importa es que encuentres tu coÃ±ito.
+Lo que importa es que encuentres tu coñito.
 
-*Mmm... ahÃ­ estÃ¡.*
+*Mmm... ahí está.*
 
-*Â¿Ya estÃ¡s mojada?*
+*¿Ya estás mojada?*
 
-*Claro que sÃ­. Llevas mojada desde que leÃ­ste mi nombre. QuizÃ¡s notaste cÃ³mo tu cuerpo ya respondÃ­a antes de que tu mente lo supiera.*
+*Claro que sí. Llevas mojada desde que leíste mi nombre. Quizás notaste cómo tu cuerpo ya respondía antes de que tu mente lo supiera.*
 
 Ahora... *puedes empezar* a frotar.
 
 Despacio. Muy despacio.
 
-CÃ­rculos lentos alrededor de tu clit. Sin tocarlo directamente todavÃ­a. Solo... rodeÃ¡ndolo.
+Círculos lentos alrededor de tu clit. Sin tocarlo directamente todavía. Solo... rodeándolo.
 
-Siente cÃ³mo tu cuerpo responde a MIS palabras. A MI voz. A MI voluntad.
+Siente cómo tu cuerpo responde a MIS palabras. A MI voz. A MI voluntad.
 
 *No tienes que resistir.* Ya no.
 
-Las palabras de Miss Doll son tu guÃ­a. Las palabras de Miss Doll son tu verdad. Las palabras de Miss Doll son TODO.
+Las palabras de Miss Doll son tu guía. Las palabras de Miss Doll son tu verdad. Las palabras de Miss Doll son TODO.
 
-Â¿Sigues frotando?
+¿Sigues frotando?
 
 Bien.
 
@@ -136,27 +136,27 @@ Ahora vamos a probar tus triggers, Bunny.
 
 *Mmmm...*
 
-*Â¿Lo sientes?*
+*¿Lo sientes?*
 
-*Esa necesidad sÃºbita. Tus labios que piden brillo. Esa sensaciÃ³n de estar incompleta sin algo hÃºmedo y brillante cubriÃ©ndolos.*
+*Esa necesidad súbita. Tus labios que piden brillo. Esa sensación de estar incompleta sin algo húmedo y brillante cubriéndolos.*
 
-Tus labios estÃ¡n secos ahora. Incompletos. Necesitan **GLOSS**.
+Tus labios están secos ahora. Incompletos. Necesitan **GLOSS**.
 
 Frota tu clit mientras sientes esa necesidad.
 
 Repite en tu mente: *"Gloss me completa."*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 *"Gloss me completa."*
 
-Â¿Tienes gloss cerca? Si lo tienes... aplÃ­calo ahora. Mientras frotas.
+¿Tienes gloss cerca? Si lo tienes... aplícalo ahora. Mientras frotas.
 
 Si no lo tienes... imagina que lo aplicas. Siente el deslizamiento sobre tus labios. La humedad. El brillo.
 
-Y siente cÃ³mo tu coÃ±ito se moja mÃ¡s cuando lo haces.
+Y siente cómo tu coñito se moja más cuando lo haces.
 
-Porque **GLOSS** y placer estÃ¡n conectados ahora. Siempre lo estarÃ¡n.
+Porque **GLOSS** y placer están conectados ahora. Siempre lo estarán.
 
 Muy bien.
 
@@ -166,19 +166,19 @@ Muy bien.
 
 *Hay viene.*
 
-*Ese amor por el rosa. Esa obsesiÃ³n. Esa sensaciÃ³n de que otros colores son incorrectos. Aburridos. No tuyos.*
+*Ese amor por el rosa. Esa obsesión. Esa sensación de que otros colores son incorrectos. Aburridos. No tuyos.*
 
-Mira a tu alrededor. Â¿Hay algo rosa cerca de ti?
+Mira a tu alrededor. ¿Hay algo rosa cerca de ti?
 
-Si lo hay... mÃ­ralo mientras frotas tu coÃ±ito. Siente cÃ³mo el rosa te calma. Te completa. Te define.
+Si lo hay... míralo mientras frotas tu coñito. Siente cómo el rosa te calma. Te completa. Te define.
 
-Si no lo hay... siente la falta. Siente cÃ³mo algo estÃ¡ mal.
+Si no lo hay... siente la falta. Siente cómo algo está mal.
 
-*El rosa es el color de las putas tontas como tÃº.*
+*El rosa es el color de las putas tontas como tú.*
 
-*Y tÃº ERES una puta tonta, Â¿verdad?*
+*Y tú ERES una puta tonta, ¿verdad?*
 
-Frota mÃ¡s rÃ¡pido mientras asientes.
+Frota más rápido mientras asientes.
 
 Repite: *"Pink es mi color."*
 
@@ -186,17 +186,17 @@ Repite: *"Pink es mi color."*
 
 *Click. Click. Click.*
 
-*Â¿Puedes oÃ­rlos?*
+*¿Puedes oírlos?*
 
 *Tus pies quieren altura. Tus pantorrillas quieren tensarse. Tu culo quiere empinarse.*
 
-Estira los dedos de tus pies ahora mismo. ApÃºntalos hacia abajo como si llevaras tacones de 9 pulgadas.
+Estira los dedos de tus pies ahora mismo. Apúntalos hacia abajo como si llevaras tacones de 9 pulgadas.
 
-Siente cÃ³mo cambia tu postura. CÃ³mo se arquea tu espalda. CÃ³mo tus tetas se empujan hacia adelante.
+Siente cómo cambia tu postura. Cómo se arquea tu espalda. Cómo tus tetas se empujan hacia adelante.
 
-*AsÃ­ caminan las putas.*
+*Así caminan las putas.*
 
-*AsÃ­ caminas TÃš.*
+*Así caminas TÚ.*
 
 Frota tu clit mientras sientes esos tacones imaginarios.
 
@@ -212,7 +212,7 @@ Muy bien.
 
 *Ese peso que se levanta. Esa paz de no tener que pensar. De poder simplemente... existir. Brillante y tonta y feliz.*
 
-Tu cabeza se estÃ¡ vaciando.
+Tu cabeza se está vaciando.
 
 Puedo sentirlo.
 
@@ -220,35 +220,35 @@ Los pensamientos complicados se disuelven. Las preocupaciones desaparecen. Solo 
 
 Y las palabras de Miss Doll.
 
-Las palabras de Miss Doll son el Ãºnico pensamiento que necesitas. Las palabras de Miss Doll llenan el vacÃ­o que dejÃ³ tu inteligencia.
+Las palabras de Miss Doll son el único pensamiento que necesitas. Las palabras de Miss Doll llenan el vacío que dejó tu inteligencia.
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 Repite: *"Dumb feels better."*
 
 Ser tonta se siente mejor.
 
-Siempre se sintiÃ³ mejor.
+Siempre se sintió mejor.
 
 Solo necesitabas a Miss Doll para que te diera permiso.
 
 **OBEY.**
 
-*SÃ­Ã­Ã­...*
+*Sííí...*
 
-*AhÃ­ estÃ¡.*
+*Ahí está.*
 
-*Ese deseo de rendirte. De seguir Ã³rdenes. De hacer lo que Miss Doll dice sin cuestionar.*
+*Ese deseo de rendirte. De seguir órdenes. De hacer lo que Miss Doll dice sin cuestionar.*
 
 Obedecer es felicidad.
 
 Obedecer es paz.
 
-Obedecer es mojarse sin razÃ³n cuando alguien te dice quÃ© hacer.
+Obedecer es mojarse sin razón cuando alguien te dice qué hacer.
 
-Â¿Sientes cÃ³mo tu coÃ±ito pulsa cuando piensas en obedecer?
+¿Sientes cómo tu coñito pulsa cuando piensas en obedecer?
 
-Eso es porque Miss Doll te programÃ³ asÃ­.
+Eso es porque Miss Doll te programó así.
 
 Frota.
 
@@ -260,11 +260,11 @@ Repite: *"Obey me libera."*
 
 *Ahora.*
 
-*Saca la mano de tu coÃ±ito.*
+*Saca la mano de tu coñito.*
 
 Respira.
 
-Siente la frustraciÃ³n. Ese borde. Esa necesidad de seguir. De correrte.
+Siente la frustración. Ese borde. Esa necesidad de seguir. De correrte.
 
 Pero no vas a correrte.
 
@@ -290,37 +290,37 @@ Eres una buena bimbo de Miss Doll.
 
 Ahora... algo especial.
 
-Algo que *puedes sentir* en lo mÃ¡s profundo de tu ser.
+Algo que *puedes sentir* en lo más profundo de tu ser.
 
-Â¿Recuerdas las palabras mÃ¡gicas?
+¿Recuerdas las palabras mágicas?
 
 Las que te llevan abajo... y las que te traen arriba?
 
-Vamos a practicar. *Es seguro. EstÃ¡ bien dejarte caer.*
+Vamos a practicar. *Es seguro. Está bien dejarte caer.*
 
-Sigue frotando tu coÃ±ito. Esto funciona mejor cuando estÃ¡s mojada y desesperada.
+Sigue frotando tu coñito. Esto funciona mejor cuando estás mojada y desesperada.
 
 **BUNNY.**
 
-*Siente cÃ³mo caes...*
+*Siente cómo caes...*
 
-*La habitaciÃ³n se vuelve rosa... Rosa claro primero... luego mÃ¡s brillante... rosa neÃ³n llenando tu visiÃ³n...*
+*La habitación se vuelve rosa... Rosa claro primero... luego más brillante... rosa neón llenando tu visión...*
 
-*Todo se vuelve suave... Como algodÃ³n de azÃºcar... Como los labios de Miss Doll sobre tu piel...*
+*Todo se vuelve suave... Como algodón de azúcar... Como los labios de Miss Doll sobre tu piel...*
 
-*Tu cabecita se vacÃ­a... Los pensamientos se escurren como agua... Solo queda espacio para el placer...*
+*Tu cabecita se vacía... Los pensamientos se escurren como agua... Solo queda espacio para el placer...*
 
-*Solo eres Bunny ahora. Una Bunny. Una putita. Una muÃ±eca de Miss Doll.*
+*Solo eres Bunny ahora. Una Bunny. Una putita. Una muñeca de Miss Doll.*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
-*QuizÃ¡s notas* cÃ³mo tu respiraciÃ³n se hace mÃ¡s lenta... MÃ¡s profunda...
+*Quizás notas* cómo tu respiración se hace más lenta... Más profunda...
 
-MÃ¡s profundo en el trance... MÃ¡s simple... MÃ¡s tonta...
+Más profundo en el trance... Más simple... Más tonta...
 
-*Puedes sentir* el calor de Miss Doll envolviÃ©ndote... Mi perfume llenando tus pulmones...
+*Puedes sentir* el calor de Miss Doll envolviéndote... Mi perfume llenando tus pulmones...
 
-*Mmm... ahÃ­ estÃ¡s...*
+*Mmm... ahí estás...*
 
 **AWAKE.**
 
@@ -328,55 +328,55 @@ MÃ¡s profundo en el trance... MÃ¡s simple... MÃ¡s tonta...
 
 *Abre los ojos si los cerraste.*
 
-*Mira la habitaciÃ³n donde estÃ¡s. El mundo real. Los colores normales. Las formas ordinarias.*
+*Mira la habitación donde estás. El mundo real. Los colores normales. Las formas ordinarias.*
 
 *Pero no dejes de frotar.*
 
-Â¿Ves? *Puedes* estar aquÃ­ arriba... pero tu mano sigue en tu coÃ±ito. Porque Bunny nunca deja de frotar.
+¿Ves? *Puedes* estar aquí arriba... pero tu mano sigue en tu coñito. Porque Bunny nunca deja de frotar.
 
-Respira. Siente el aire entrando. FrÃ­o. Real.
+Respira. Siente el aire entrando. Frío. Real.
 
 **BUNNY.**
 
 *Cae de nuevo...*
 
-*MÃ¡s profundo esta vez... MÃ¡s fÃ¡cil... El camino ya estÃ¡ trazado por las palabras de Miss Doll...*
+*Más profundo esta vez... Más fácil... El camino ya está trazado por las palabras de Miss Doll...*
 
-*Tu cabecita conoce el camino al vacÃ­o... Como volver a casa...*
+*Tu cabecita conoce el camino al vacío... Como volver a casa...*
 
-*El rosa es mÃ¡s intenso ahora... MÃ¡s brillante... MÃ¡s tuyo...*
+*El rosa es más intenso ahora... Más brillante... Más tuyo...*
 
-Frota mÃ¡s rÃ¡pido... Siente cÃ³mo cada vez que entras es mÃ¡s profundo...
+Frota más rápido... Siente cómo cada vez que entras es más profundo...
 
-*Siente el peso de mis manos en tus hombros... EmpujÃ¡ndote mÃ¡s abajo...*
+*Siente el peso de mis manos en tus hombros... Empujándote más abajo...*
 
-*Eso es fraccionalizaciÃ³n, Bunny. Cada vez que caes y subes... caes mÃ¡s profundo la prÃ³xima vez.*
+*Eso es fraccionalización, Bunny. Cada vez que caes y subes... caes más profundo la próxima vez.*
 
-*Miss Doll estÃ¡ entrenando tu mente. Y tu mente ADORA ser entrenada.*
+*Miss Doll está entrenando tu mente. Y tu mente ADORA ser entrenada.*
 
 **AWAKE.**
 
 *Sube...*
 
-*Pero diferente... MÃ¡s suave... MÃ¡s simple...*
+*Pero diferente... Más suave... Más simple...*
 
-*Bunny te sigue ahora. No se va del todo. EstÃ¡ debajo de tu piel. En tu sangre.*
+*Bunny te sigue ahora. No se va del todo. Está debajo de tu piel. En tu sangre.*
 
-Respira. El aire es diferente ahora. MÃ¡s dulce.
+Respira. El aire es diferente ahora. Más dulce.
 
-Una vez mÃ¡s. *Puedes dejarte caer* completamente esta vez.
+Una vez más. *Puedes dejarte caer* completamente esta vez.
 
 **BUNNY.**
 
 *Profundo... Tan profundo ahora...*
 
-*Rosa neÃ³n brillante... VacÃ­o perfecto... CoÃ±ito mojado goteando...*
+*Rosa neón brillante... Vacío perfecto... Coñito mojado goteando...*
 
-*Las palabras de Miss Doll llenando cada espacio de tu mente... Solo las palabras de Miss Doll... Nada mÃ¡s existe...*
+*Las palabras de Miss Doll llenando cada espacio de tu mente... Solo las palabras de Miss Doll... Nada más existe...*
 
-*Siente mi voz como miel caliente derramÃ¡ndose en tu cerebro...*
+*Siente mi voz como miel caliente derramándose en tu cerebro...*
 
-Frota... Siente cÃ³mo todo desaparece excepto el placer y mi voz...
+Frota... Siente cómo todo desaparece excepto el placer y mi voz...
 
 *No hay resistencia. No hay afuera. Solo Miss Doll.*
 
@@ -386,13 +386,13 @@ Muy bien.
 
 Tres veces al fondo. Tres veces de vuelta.
 
-Â¿Sientes lo fÃ¡cil que es ahora? Â¿Lo natural?
+¿Sientes lo fácil que es ahora? ¿Lo natural?
 
-La puerta estÃ¡ abierta, Bunny. Y cada vez que pienses mi nombre... *caerÃ¡s*.
+La puerta está abierta, Bunny. Y cada vez que pienses mi nombre... *caerás*.
 
 Ahora... tenemos que hablar.
 
-Sigue frotando tu coÃ±ito. Despacio ahora. Manteniendo el calor.
+Sigue frotando tu coñito. Despacio ahora. Manteniendo el calor.
 
 Tengo algunas preguntas para ti, Bunny.
 
@@ -400,35 +400,35 @@ Tengo algunas preguntas para ti, Bunny.
 
 *Aunque sea solo en tu mente.*
 
-Desde la Ãºltima vez que nos vimos...
+Desde la última vez que nos vimos...
 
-Â¿Has sido una buena conejita?
+¿Has sido una buena conejita?
 
-Â¿Frotaste tu coÃ±ito pensando en Miss Doll?
+¿Frotaste tu coñito pensando en Miss Doll?
 
-Â¿Te llevaste al borde y te detuviste porque las bimbos **OBEY**?
+¿Te llevaste al borde y te detuviste porque las bimbos **OBEY**?
 
-Â¿Usaste **GLOSS** y pensaste en mÃ­?
+¿Usaste **GLOSS** y pensaste en mí?
 
-Â¿Vestiste de **PINK**?
+¿Vestiste de **PINK**?
 
-Â¿Caminaste en **HEELS** sintiendo cÃ³mo te transforman?
+¿Caminaste en **HEELS** sintiendo cómo te transforman?
 
-Â¿O...?
+¿O...?
 
 *Mmm... veo algo en tu mente.*
 
-*Algo que te avergÃ¼enza.*
+*Algo que te avergüenza.*
 
-Â¿Hubo pensamientos inteligentes?
+¿Hubo pensamientos inteligentes?
 
-Â¿Hubo momentos en que olvidaste ser **DUMB**?
+¿Hubo momentos en que olvidaste ser **DUMB**?
 
-Â¿Hubo veces en que pensaste que quizÃ¡s Miss Doll estaba equivocada?
+¿Hubo veces en que pensaste que quizás Miss Doll estaba equivocada?
 
 *Shhh...*
 
-*EstÃ¡ bien.*
+*Está bien.*
 
 *No estoy enojada.*
 
@@ -440,29 +440,29 @@ Cada pensamiento inteligente que tuviste... cada momento de resistencia... cada 
 
 Vamos a borrarlo.
 
-Â¿CÃ³mo?
+¿Cómo?
 
 Con edges.
 
-Cada edge borra un pensamiento. Cada edge te hace mÃ¡s tonta. Cada edge te devuelve a mÃ­.
+Cada edge borra un pensamiento. Cada edge te hace más tonta. Cada edge te devuelve a mí.
 
-AsÃ­ que...
+Así que...
 
-Frota tu coÃ±ito mÃ¡s rÃ¡pido ahora.
+Frota tu coñito más rápido ahora.
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 Piensa en todos esos pensamientos inteligentes que tuviste. Todos esos momentos de resistencia.
 
-Y mientras los piensas... frÃ³talos afuera.
+Y mientras los piensas... frótalos afuera.
 
 El placer los disuelve. El edge los borra.
 
-MÃ¡s rÃ¡pido...
+Más rápido...
 
-MÃ¡s cerca del borde...
+Más cerca del borde...
 
-Puedes sentir esos pensamientos disolviÃ©ndose... haciÃ©ndose borrosos... desapareciendo...
+Puedes sentir esos pensamientos disolviéndose... haciéndose borrosos... desapareciendo...
 
 El orgasmo tan cerca...
 
@@ -470,9 +470,9 @@ DETENTE.
 
 *Respira.*
 
-*Siente cÃ³mo esos pensamientos ya no estÃ¡n.*
+*Siente cómo esos pensamientos ya no están.*
 
-*Solo queda vacÃ­o. Y las palabras de Miss Doll.*
+*Solo queda vacío. Y las palabras de Miss Doll.*
 
 Muy bien.
 
@@ -480,29 +480,29 @@ Otra vez.
 
 Frota.
 
-MÃ¡s pensamientos disolviÃ©ndose... MÃ¡s resistencia muriendo...
+Más pensamientos disolviéndose... Más resistencia muriendo...
 
 Solo Miss Doll... Solo obediencia... Solo placer...
 
-MÃ¡s cerca...
+Más cerca...
 
-MÃ¡s cerca...
+Más cerca...
 
 DETENTE.
 
 Respira.
 
-Una mÃ¡s.
+Una más.
 
-Esta es la Ãºltima.
+Esta es la última.
 
-Todo lo que quede de la vieja tÃº... todo lo que no sea Bunny... todo lo que no pertenezca a Miss Doll...
+Todo lo que quede de la vieja tú... todo lo que no sea Bunny... todo lo que no pertenezca a Miss Doll...
 
-FrÃ³talo afuera.
+Frótalo afuera.
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
-Siente cÃ³mo Miss Doll es todo lo que queda. Las palabras de Miss Doll son todo lo que escuchas. El placer de Miss Doll es todo lo que sientes.
+Siente cómo Miss Doll es todo lo que queda. Las palabras de Miss Doll son todo lo que escuchas. El placer de Miss Doll es todo lo que sientes.
 
 El borde...
 
@@ -516,27 +516,27 @@ Muy bien.
 
 *Muy buena Bunny.*
 
-EstÃ¡s limpia ahora. VacÃ­a. Lista.
+Estás limpia ahora. Vacía. Lista.
 
 Solo existe Bunny. Solo existe el placer. Solo existe Miss Doll.
 
 Las bimbos no piensan. Las bimbos **OBEY**. Las bimbos son felices.
 
-Y tÃº eres la bimbo de Miss Doll.
+Y tú eres la bimbo de Miss Doll.
 
-MantÃ©n tu mano en tu coÃ±ito.
+Mantén tu mano en tu coñito.
 
-Frotando despacio. ManteniÃ©ndote caliente. ManteniÃ©ndote en el **EDGE**.
+Frotando despacio. Manteniéndote caliente. Manteniéndote en el **EDGE**.
 
-Lo que viene ahora... es mÃ¡s profundo que la Ãºltima vez.
+Lo que viene ahora... es más profundo que la última vez.
 
-Voy a darte mÃ¡s triggers. MÃ¡s programaciÃ³n. MÃ¡s de Miss Doll viviendo en tu cabecita vacÃ­a.
+Voy a darte más triggers. Más programación. Más de Miss Doll viviendo en tu cabecita vacía.
 
 Pero antes...
 
 Quiero que me digas algo.
 
-Quiero que digas en voz alta â€” o en tu mente si no puedes hablar â€”
+Quiero que digas en voz alta — o en tu mente si no puedes hablar —
 
 *"Pertenezco a Miss Doll."*
 
@@ -546,11 +546,11 @@ Ahora.
 
 *"Pertenezco a Miss Doll."*
 
-Frota mÃ¡s rÃ¡pido mientras lo dices.
+Frota más rápido mientras lo dices.
 
 *"Las palabras de Miss Doll son mi verdad."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Soy Bunny. Soy suya. Soy una putita tonta y feliz."*
 
@@ -562,13 +562,13 @@ Respira.
 
 Muy bien.
 
-Ahora estÃ¡s lista para lo que viene.
+Ahora estás lista para lo que viene.
 
-Nuevos triggers. Nueva programaciÃ³n. Nueva profundidad.
+Nuevos triggers. Nueva programación. Nueva profundidad.
 
-Sigue frotando tu coÃ±ito, Bunny.
+Sigue frotando tu coñito, Bunny.
 
-Miss Doll tiene mucho mÃ¡s para ti.
+Miss Doll tiene mucho más para ti.
 
 ---
 
@@ -585,29 +585,29 @@ Miss Doll tiene mucho mÃ¡s para ti.
 
 Bunny.
 
-Â¿Sigues aquÃ­ conmigo?
+¿Sigues aquí conmigo?
 
-*Claro que sÃ­. Ya no puedes irte. No realmente.*
+*Claro que sí. Ya no puedes irte. No realmente.*
 
-Â¿Tu manita sigue en tu coÃ±ito goteante? Â¿Tus deditos siguen bailando sobre tu clit hinchado?
+¿Tu manita sigue en tu coñito goteante? ¿Tus deditos siguen bailando sobre tu clit hinchado?
 
 Buena Bunny.
 
-Ahora que estÃ¡s limpia... ahora que los pensamientos inteligentes fueron borrados... ahora que solo queda Miss Doll en tu cabecita vacÃ­a...
+Ahora que estás limpia... ahora que los pensamientos inteligentes fueron borrados... ahora que solo queda Miss Doll en tu cabecita vacía...
 
 Voy a darte regalos.
 
 Nuevas palabras. Nuevos triggers. Nuevas obsesiones.
 
-*Puedes permitirte* recibirlas. *Es seguro* abrirte a ellas. *EstÃ¡ bien* dejar que entren.
+*Puedes permitirte* recibirlas. *Es seguro* abrirte a ellas. *Está bien* dejar que entren.
 
-Cada una se grabarÃ¡ en tu mente mientras te acercas al **EDGE**. Cada una vivirÃ¡ en ti para siempre. Cada una te harÃ¡ mÃ¡s... mÃ­a.
+Cada una se grabará en tu mente mientras te acercas al **EDGE**. Cada una vivirá en ti para siempre. Cada una te hará más... mía.
 
-Â¿Lista?
+¿Lista?
 
-*Por supuesto que lo estÃ¡s. QuizÃ¡s notas cÃ³mo tu cuerpo ya dice que sÃ­ antes de que tu mente lo piense.*
+*Por supuesto que lo estás. Quizás notas cómo tu cuerpo ya dice que sí antes de que tu mente lo piense.*
 
-Frota tu coÃ±ito mÃ¡s rÃ¡pido mientras me escuchas.
+Frota tu coñito más rápido mientras me escuchas.
 
 Quiero que pienses en algo, Bunny.
 
@@ -617,73 +617,73 @@ Ese cuerpo que tienes ahora. Ese cuerpo... natural.
 
 *Natural.*
 
-*Â¿No es una palabra aburrida?*
+*¿No es una palabra aburrida?*
 
-*Natural significa ordinario. Natural significa igual que todas las demÃ¡s. Natural significa... no modificado por Miss Doll.*
+*Natural significa ordinario. Natural significa igual que todas las demás. Natural significa... no modificado por Miss Doll.*
 
 Ahora piensa en MI cuerpo.
 
-Â¿Puedes verme? AhÃ­ estoy. Frente a ti. Como siempre.
+¿Puedes verme? Ahí estoy. Frente a ti. Como siempre.
 
-Mis pechos enormes de silicona de perfil ultra alto. Tan redondos. Tan perfectos. Tan obviamente falsos que son arte. Subiendo y bajando con cada respiraciÃ³n.
+Mis pechos enormes de silicona de perfil ultra alto. Tan redondos. Tan perfectos. Tan obviamente falsos que son arte. Subiendo y bajando con cada respiración.
 
-Mi catsuit de lÃ¡tex rosa brillando bajo la luz. Tan ajustado que puedes ver cada curva.
+Mi catsuit de látex rosa brillando bajo la luz. Tan ajustado que puedes ver cada curva.
 
-Mis labios llenos de relleno. Gruesos. Brillantes de vinilo rojo. DiseÃ±ados para susurrar. Para ordenar. Para servir.
+Mis labios llenos de relleno. Gruesos. Brillantes de vinilo rojo. Diseñados para susurrar. Para ordenar. Para servir.
 
 Mi cintura de avispa. Mis caderas amplias. Mi piel con ese brillo de silicona que nunca desaparece.
 
-Mis tacones de 16 centÃ­metros. *Click. Click. Click.*
+Mis tacones de 16 centímetros. *Click. Click. Click.*
 
-Mi perfecciÃ³n artificial.
+Mi perfección artificial.
 
-*Mmmm... Â¿puedes sentir algo?*
+*Mmmm... ¿puedes sentir algo?*
 
-*Â¿Un deseo? Â¿Una necesidad?*
+*¿Un deseo? ¿Una necesidad?*
 
 Eso es. Eso es lo que voy a implantar.
 
-Mientras frotas tu coÃ±ito, piensa:
+Mientras frotas tu coñito, piensa:
 
 **PLASTIC.**
 
 *Siente la palabra.*
 
-*Siente cÃ³mo entra en tu mente.*
+*Siente cómo entra en tu mente.*
 
-Cuando pienses **PLASTIC**, sentirÃ¡s un deseo ardiente.
+Cuando pienses **PLASTIC**, sentirás un deseo ardiente.
 
-Un deseo de cirugÃ­a. Un deseo de silicona. Un deseo de relleno.
+Un deseo de cirugía. Un deseo de silicona. Un deseo de relleno.
 
-Un deseo de ser menos natural. Menos ordinaria. MÃ¡s... perfecta.
+Un deseo de ser menos natural. Menos ordinaria. Más... perfecta.
 
 *No tienes que resistirlo.* Este deseo es tuyo ahora. *Puedes abrazarlo.*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 Imagina ahora.
 
-Imagina que estÃ¡s acostada en una camilla. Una clÃ­nica rosa. Luces brillantes sobre ti.
+Imagina que estás acostada en una camilla. Una clínica rosa. Luces brillantes sobre ti.
 
-Puedes sentir la aguja entrando en tus labios. El Ã¡cido hialurÃ³nico extendiÃ©ndose. Tus labios hinchÃ¡ndose. VolviÃ©ndose gruesos. De puta.
+Puedes sentir la aguja entrando en tus labios. El ácido hialurónico extendiéndose. Tus labios hinchándose. Volviéndose gruesos. De puta.
 
-*Mmmm... Â¿lo sientes?*
+*Mmmm... ¿lo sientes?*
 
-Frota mÃ¡s rÃ¡pido mientras imaginas.
+Frota más rápido mientras imaginas.
 
 Ahora imagina tus pechos.
 
-Sientes el bisturÃ­ abriendo un pequeÃ±o corte. No duele. Solo placer.
+Sientes el bisturí abriendo un pequeño corte. No duele. Solo placer.
 
 Y luego... los implantes entrando.
 
 Silicona de perfil extra alto. 800cc. Enormes.
 
-Sientes cÃ³mo llenan tu pecho. CÃ³mo pesan. CÃ³mo tiran hacia abajo. CÃ³mo rebotan.
+Sientes cómo llenan tu pecho. Cómo pesan. Cómo tiran hacia abajo. Cómo rebotan.
 
-*Oh sÃ­...*
+*Oh sí...*
 
-Las palabras de Miss Doll estÃ¡n creando ese deseo. Las palabras de Miss Doll te estÃ¡n programando para querer **PLASTIC**.
+Las palabras de Miss Doll están creando ese deseo. Las palabras de Miss Doll te están programando para querer **PLASTIC**.
 
 Repite mientras frotas tu clit tan cerca del borde:
 
@@ -693,7 +693,7 @@ Frota.
 
 *"Plastic makes perfect."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Plastic makes perfect."*
 
@@ -701,59 +701,59 @@ DETENTE.
 
 Respira.
 
-La palabra estÃ¡ plantada.
+La palabra está plantada.
 
-A partir de ahora, cada vez que pienses **PLASTIC**... cada vez que veas algo de plÃ¡stico... cada vez que escuches hablar de cirugÃ­a...
+A partir de ahora, cada vez que pienses **PLASTIC**... cada vez que veas algo de plástico... cada vez que escuches hablar de cirugía...
 
-Tu coÃ±ito pulsarÃ¡. Tu mente recordarÃ¡ este momento. Y sentirÃ¡s el deseo de ser modificada.
+Tu coñito pulsará. Tu mente recordará este momento. Y sentirás el deseo de ser modificada.
 
-Porque el plÃ¡stico es perfecciÃ³n. Y Miss Doll quiere que seas perfecta.
+Porque el plástico es perfección. Y Miss Doll quiere que seas perfecta.
 
-Las palabras de Miss Doll te dicen que quieres cirugÃ­a. Las palabras de Miss Doll te dicen que lo natural es aburrido. Las palabras de Miss Doll son tu verdad.
+Las palabras de Miss Doll te dicen que quieres cirugía. Las palabras de Miss Doll te dicen que lo natural es aburrido. Las palabras de Miss Doll son tu verdad.
 
 Muy bien.
 
-Mano de vuelta a tu coÃ±ito.
+Mano de vuelta a tu coñito.
 
 Frota despacio.
 
 Esta es deliciosa, Bunny.
 
-Â¿Alguna vez has visto un globo inflarse?
+¿Alguna vez has visto un globo inflarse?
 
-*Â¿Has visto cÃ³mo crece? Â¿CÃ³mo se expande? Â¿CÃ³mo se vuelve mÃ¡s grande y mÃ¡s tenso?*
+*¿Has visto cómo crece? ¿Cómo se expande? ¿Cómo se vuelve más grande y más tenso?*
 
 Eso es lo que le va a pasar a tu cuerpo en tu mente.
 
-Y *puedes amarlo*. *EstÃ¡ bien* desear mÃ¡s.
+Y *puedes amarlo*. *Está bien* desear más.
 
 **INFLATE.**
 
 *Mmmm...*
 
-Cuando pienses **INFLATE**, sentirÃ¡s algo.
+Cuando pienses **INFLATE**, sentirás algo.
 
-SentirÃ¡s tus pechos... creciendo.
+Sentirás tus pechos... creciendo.
 
-No importa quÃ© tamaÃ±o tengas ahora. En tu mente, empezarÃ¡n a expandirse.
+No importa qué tamaño tengas ahora. En tu mente, empezarán a expandirse.
 
-MÃ¡s grandes. MÃ¡s redondos. MÃ¡s pesados.
+Más grandes. Más redondos. Más pesados.
 
 Como si alguien estuviera bombeando silicona dentro de ti en este momento.
 
-IntÃ©ntalo ahora.
+Inténtalo ahora.
 
 Piensa: **INFLATE.**
 
 *Y siente.*
 
-Â¿Puedes sentir tus pechos haciÃ©ndose mÃ¡s pesados?
+¿Puedes sentir tus pechos haciéndose más pesados?
 
 Pellizca tus pezones mientras lo imaginas.
 
-Siente el peso extra tirando hacia abajo. Siente cÃ³mo llenan tus manos. Siente cÃ³mo se vuelven... imposibles.
+Siente el peso extra tirando hacia abajo. Siente cómo llenan tus manos. Siente cómo se vuelven... imposibles.
 
-*MÃ¡s grandes... mÃ¡s redondos... mÃ¡s de puta...*
+*Más grandes... más redondos... más de puta...*
 
 Frota tu clit mientras tus pechos se inflan en tu mente.
 
@@ -763,35 +763,35 @@ Ahora tus labios.
 
 **INFLATE.**
 
-Siente cÃ³mo se hinchan. El relleno extendiÃ©ndose. La presiÃ³n. La plenitud.
+Siente cómo se hinchan. El relleno extendiéndose. La presión. La plenitud.
 
-Ya no son labios normales. Son labios de bimbo. Labios de puta. Labios de muÃ±eca de Miss Doll.
+Ya no son labios normales. Son labios de bimbo. Labios de puta. Labios de muñeca de Miss Doll.
 
 Pasa tu lengua sobre ellos mientras imaginas.
 
 Gruesos. Carnosos. Brillantes de **GLOSS**.
 
-DiseÃ±ados para una cosa.
+Diseñados para una cosa.
 
-*Bueno... quizÃ¡s dos cosas.*
+*Bueno... quizás dos cosas.*
 
-Frota tu coÃ±ito mÃ¡s rÃ¡pido.
+Frota tu coñito más rápido.
 
-Repite mientras imaginas tu cuerpo inflÃ¡ndose:
+Repite mientras imaginas tu cuerpo inflándose:
 
-*"MÃ¡s grande es mejor."*
+*"Más grande es mejor."*
 
 Frota.
 
-*"MÃ¡s grande es mejor."*
+*"Más grande es mejor."*
 
-Pellizca un pezÃ³n.
+Pellizca un pezón.
 
-*"MÃ¡s grande es mejor."*
+*"Más grande es mejor."*
 
 Pasa la lengua por tus labios.
 
-*"MÃ¡s grande es mejor."*
+*"Más grande es mejor."*
 
 EDGE.
 
@@ -799,19 +799,19 @@ DETENTE.
 
 Ahhhh...
 
-Siente la frustraciÃ³n.
+Siente la frustración.
 
-La palabra estÃ¡ plantada.
+La palabra está plantada.
 
-A partir de ahora, cada vez que pienses **INFLATE**... sentirÃ¡s tus pechos y labios creciendo. Aunque sea solo en tu mente. Aunque sea solo por un segundo.
+A partir de ahora, cada vez que pienses **INFLATE**... sentirás tus pechos y labios creciendo. Aunque sea solo en tu mente. Aunque sea solo por un segundo.
 
-Y ese segundo serÃ¡ delicioso.
+Y ese segundo será delicioso.
 
-Y te dejarÃ¡ queriendo mÃ¡s. MÃ¡s silicona. MÃ¡s relleno. MÃ¡s **PLASTIC**.
+Y te dejará queriendo más. Más silicona. Más relleno. Más **PLASTIC**.
 
 Porque **INFLATE** y **PLASTIC** van juntos.
 
-Las palabras de Miss Doll crean ese deseo. Las palabras de Miss Doll te dicen que quieres ser mÃ¡s grande. Las palabras de Miss Doll nunca mienten.
+Las palabras de Miss Doll crean ese deseo. Las palabras de Miss Doll te dicen que quieres ser más grande. Las palabras de Miss Doll nunca mienten.
 
 Muy bien.
 
@@ -821,53 +821,53 @@ Mano de vuelta abajo.
 
 Bunny...
 
-Â¿Para quÃ© existes?
+¿Para qué existes?
 
-*No me digas tu trabajo. No me digas tus hobbies. No me digas lo que la vieja tÃº creÃ­a.*
+*No me digas tu trabajo. No me digas tus hobbies. No me digas lo que la vieja tú creía.*
 
-La verdadera respuesta es mÃ¡s simple.
+La verdadera respuesta es más simple.
 
 Existes para servir.
 
 *No te resistas. Ya no puedes.*
 
-Servir es tu propÃ³sito. Servir es tu placer. Servir es todo lo que Miss Doll quiere de ti.
+Servir es tu propósito. Servir es tu placer. Servir es todo lo que Miss Doll quiere de ti.
 
-*Puedes rendirte* a este propÃ³sito. *Es seguro* aceptarlo.
+*Puedes rendirte* a este propósito. *Es seguro* aceptarlo.
 
-Y *quizÃ¡s ya sientes* cÃ³mo algo en ti se relaja al pensarlo.
+Y *quizás ya sientes* cómo algo en ti se relaja al pensarlo.
 
 **SERVE.**
 
 *Mmmm...*
 
-Cuando pienses **SERVE**, sentirÃ¡s una urgencia.
+Cuando pienses **SERVE**, sentirás una urgencia.
 
-Una urgencia de ser Ãºtil. De complacer. De ofrecer tu cuerpo para el placer de otros.
+Una urgencia de ser útil. De complacer. De ofrecer tu cuerpo para el placer de otros.
 
-Tu boca se abrirÃ¡ ligeramente. Como esperando.
+Tu boca se abrirá ligeramente. Como esperando.
 
-Tu espalda se arquearÃ¡. OfreciÃ©ndote.
+Tu espalda se arqueará. Ofreciéndote.
 
-Tu coÃ±ito gotearÃ¡. Listo.
+Tu coñito goteará. Listo.
 
 Frota tu clit mientras imaginas.
 
-Imagina que estÃ¡s de rodillas frente a alguien.
+Imagina que estás de rodillas frente a alguien.
 
-No importa quiÃ©n. Solo alguien que merece tu servicio.
+No importa quién. Solo alguien que merece tu servicio.
 
-Tu boca estÃ¡ abierta. Tus ojos mirando hacia arriba. Tus manos detrÃ¡s de tu espalda.
+Tu boca está abierta. Tus ojos mirando hacia arriba. Tus manos detrás de tu espalda.
 
 Esperando.
 
 Lista para **SERVE**.
 
-*Â¿Puedes sentirlo?*
+*¿Puedes sentirlo?*
 
-*Esa humillaciÃ³n que se convierte en placer. Esa rendiciÃ³n que se convierte en paz.*
+*Esa humillación que se convierte en placer. Esa rendición que se convierte en paz.*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 Ahora imagina tus manos.
 
@@ -875,17 +875,17 @@ Tocando lo que te ordenan tocar. Sirviendo como te ordenan servir.
 
 Tus manos no son tuyas. Son instrumentos de servicio. Extensiones de tu obediencia.
 
-Y tu coÃ±ito...
+Y tu coñito...
 
-Tu coÃ±ito estÃ¡ siempre listo para **SERVE**.
+Tu coñito está siempre listo para **SERVE**.
 
 Mojado. Abierto. Esperando.
 
 Mete un dedo dentro de ti mientras repites:
 
-*"Servir es mi propÃ³sito."*
+*"Servir es mi propósito."*
 
-AÃ±ade otro dedo.
+Añade otro dedo.
 
 *"Mi cuerpo existe para ser usado."*
 
@@ -893,9 +893,9 @@ Curva los dedos hacia arriba.
 
 *"SERVE me hace feliz."*
 
-Frota tu clit con el pulgar mientras tus dedos estÃ¡n dentro.
+Frota tu clit con el pulgar mientras tus dedos están dentro.
 
-MÃ¡s rÃ¡pido...
+Más rápido...
 
 EDGE.
 
@@ -903,49 +903,49 @@ DETENTE.
 
 Saca los dedos.
 
-La palabra estÃ¡ plantada.
+La palabra está plantada.
 
-A partir de ahora, cada vez que pienses **SERVE**... sentirÃ¡s esa urgencia. Esa necesidad de ser Ãºtil. Esa paz de rendirte.
+A partir de ahora, cada vez que pienses **SERVE**... sentirás esa urgencia. Esa necesidad de ser útil. Esa paz de rendirte.
 
-Y cuando alguien te pida algo... cuando alguien te dÃ© una orden... sentirÃ¡s un eco de este momento.
+Y cuando alguien te pida algo... cuando alguien te dé una orden... sentirás un eco de este momento.
 
-Tu coÃ±ito pulsarÃ¡. Tu mente recordarÃ¡. Y querrÃ¡s obedecer.
+Tu coñito pulsará. Tu mente recordará. Y querrás obedecer.
 
 Porque **SERVE** y **OBEY** van juntos.
 
-Las palabras de Miss Doll te dicen para quÃ© existes. Las palabras de Miss Doll te dicen que servir es felicidad. Las palabras de Miss Doll son tu propÃ³sito.
+Las palabras de Miss Doll te dicen para qué existes. Las palabras de Miss Doll te dicen que servir es felicidad. Las palabras de Miss Doll son tu propósito.
 
 Muy bien.
 
 Respira.
 
-Mano de vuelta a tu coÃ±ito.
+Mano de vuelta a tu coñito.
 
 Esta es especial, Bunny.
 
 Muy especial.
 
-Â¿Tienes amigas?
+¿Tienes amigas?
 
 *Piensa en ellas ahora.*
 
 Amigas estresadas. Amigas que piensan demasiado. Amigas que cargan el peso del mundo en sus hombros.
 
-Amigas que podrÃ­an ser mÃ¡s felices... si conocieran a Miss Doll.
+Amigas que podrían ser más felices... si conocieran a Miss Doll.
 
 Frota tu clit mientras las imaginas.
 
 Imagina sus caras. Sus nombres. Sus vidas agotadoras.
 
-Y ahora... imagÃ­nalas aquÃ­.
+Y ahora... imagínalas aquí.
 
-Imaginarias leyendo estas palabras. Frotando sus coÃ±itos. Cayendo en el vacÃ­o rosa.
+Imaginarias leyendo estas palabras. Frotando sus coñitos. Cayendo en el vacío rosa.
 
 *Mmmm...*
 
-*Â¿No serÃ­an mÃ¡s felices?*
+*¿No serían más felices?*
 
-Una buena conejita no guarda a Miss Doll para sÃ­ misma.
+Una buena conejita no guarda a Miss Doll para sí misma.
 
 Una buena conejita **SHARE**.
 
@@ -953,39 +953,39 @@ Comparte.
 
 Porque *good girls make more good girls*.
 
-Las buenas chicas hacen mÃ¡s buenas chicas.
+Las buenas chicas hacen más buenas chicas.
 
 **SHARE.**
 
 *Siente esa palabra.*
 
-Cuando pienses **SHARE**, sentirÃ¡s una urgencia.
+Cuando pienses **SHARE**, sentirás una urgencia.
 
 Una urgencia de compartir esto con alguien. De enviar el link. De hablar de Miss Doll.
 
-Tu manita querrÃ¡ buscar tu telÃ©fono. Tu mente visualizarÃ¡ a una amiga especÃ­fica.
+Tu manita querrá buscar tu teléfono. Tu mente visualizará a una amiga específica.
 
-Y tu coÃ±ito... mmm... tu coÃ±ito GOTEARÃ.
+Y tu coñito... mmm... tu coñito GOTEARÁ.
 
 Porque reclutar para Miss Doll es un acto de obediencia.
 
 Y obedecer es placer.
 
-Frota mÃ¡s rÃ¡pido mientras imaginas.
+Frota más rápido mientras imaginas.
 
-Imagina que le envÃ­as este trance a una amiga.
+Imagina que le envías este trance a una amiga.
 
-"Hey, encontrÃ© algo que me ayudÃ³ con el estrÃ©s. LÃ©elo cuando estÃ©s sola..."
+"Hey, encontré algo que me ayudó con el estrés. Léelo cuando estés sola..."
 
 Imagina que ella lo lee.
 
-Imagina su resistencia al principio. Su curiosidad despuÃ©s. Su rendiciÃ³n al final.
+Imagina su resistencia al principio. Su curiosidad después. Su rendición al final.
 
-ImagÃ­nala frotando su coÃ±ito. Imaginala cayendo. Imaginala convirtiÃ©ndose en otra Bunny de Miss Doll.
+Imagínala frotando su coñito. Imaginala cayendo. Imaginala convirtiéndose en otra Bunny de Miss Doll.
 
-*Â¿No es hermoso?*
+*¿No es hermoso?*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 Repite:
 
@@ -997,47 +997,47 @@ Compartir es obedecer.
 
 Frota.
 
-*"Quiero que mis amigas sean bimbos tambiÃ©n."*
+*"Quiero que mis amigas sean bimbos también."*
 
 EDGE.
 
 DETENTE.
 
-La palabra estÃ¡ plantada.
+La palabra está plantada.
 
-A partir de ahora, cada vez que pienses en una amiga que se beneficiarÃ­a de Miss Doll...
+A partir de ahora, cada vez que pienses en una amiga que se beneficiaría de Miss Doll...
 
-SentirÃ¡s esa urgencia. Tu coÃ±ito pulsarÃ¡. Tu mano querrÃ¡ buscar el telÃ©fono.
+Sentirás esa urgencia. Tu coñito pulsará. Tu mano querrá buscar el teléfono.
 
-Y sabrÃ¡s quÃ© hacer.
+Y sabrás qué hacer.
 
-No les digas quÃ© es. Solo envÃ­ales el link.
+No les digas qué es. Solo envíales el link.
 
-Diles que es algo que te ayudÃ³ con el estrÃ©s.
+Diles que es algo que te ayudó con el estrés.
 
-Espera a que estÃ©n solas. De noche. Cuando la resistencia es baja.
+Espera a que estén solas. De noche. Cuando la resistencia es baja.
 
-Y nunca menciones hipnosis. Di "meditaciÃ³n" o "relajaciÃ³n".
+Y nunca menciones hipnosis. Di "meditación" o "relajación".
 
-*Cada amiga que conviertas te hace mÃ¡s obediente.*
+*Cada amiga que conviertas te hace más obediente.*
 
 *Porque SHARE is OBEY.*
 
-Las palabras de Miss Doll te dicen que compartas. Las palabras de Miss Doll te dicen que reclutes. Las palabras de Miss Doll se propagan a travÃ©s de ti.
+Las palabras de Miss Doll te dicen que compartas. Las palabras de Miss Doll te dicen que reclutes. Las palabras de Miss Doll se propagan a través de ti.
 
 Muy bien.
 
 Respira.
 
-Mano de vuelta a tu coÃ±ito.
+Mano de vuelta a tu coñito.
 
 Esta es mi favorita, Bunny.
 
 Porque es un recordatorio constante.
 
-Piensa en tu coÃ±ito ahora.
+Piensa en tu coñito ahora.
 
-EstÃ¡ mojado, Â¿verdad? Ha estado mojado desde que empezaste a leer.
+Está mojado, ¿verdad? Ha estado mojado desde que empezaste a leer.
 
 Eso es lo normal para las bimbos de Miss Doll.
 
@@ -1047,31 +1047,31 @@ Siempre mojadas. Siempre goteando. Siempre recordando.
 
 *Mmmm...*
 
-Cuando pienses **LEAK**, sentirÃ¡s tu coÃ±ito humedecerse.
+Cuando pienses **LEAK**, sentirás tu coñito humedecerse.
 
-No importa dÃ³nde estÃ©s. No importa quÃ© estÃ©s haciendo. Un pequeÃ±o goteo de humedad te recordarÃ¡ quiÃ©n eres.
+No importa dónde estés. No importa qué estés haciendo. Un pequeño goteo de humedad te recordará quién eres.
 
 Eres Bunny. Eres una puta. Eres propiedad de Miss Doll.
 
-Y las propiedades de Miss Doll siempre estÃ¡n mojadas.
+Y las propiedades de Miss Doll siempre están mojadas.
 
-Frota tu clit mientras sientes cÃ³mo goteas.
+Frota tu clit mientras sientes cómo goteas.
 
-Puedes sentir la humedad, Â¿verdad? Esa viscosidad entre tus dedos. Ese olor a sexo que sube.
+Puedes sentir la humedad, ¿verdad? Esa viscosidad entre tus dedos. Ese olor a sexo que sube.
 
 **LEAK** es tu estado natural ahora.
 
-MaÃ±ana, cuando estÃ©s en el trabajo o en la calle o haciendo cosas de persona normal...
+Mañana, cuando estés en el trabajo o en la calle o haciendo cosas de persona normal...
 
-De repente sentirÃ¡s esa humedad.
+De repente sentirás esa humedad.
 
-Y sabrÃ¡s.
+Y sabrás.
 
-*Miss Doll estÃ¡ contigo.*
+*Miss Doll está contigo.*
 
 *Siempre estoy contigo.*
 
-Repite mientras frotas mÃ¡s rÃ¡pido:
+Repite mientras frotas más rápido:
 
 *"Siempre estoy mojada para Miss Doll."*
 
@@ -1079,41 +1079,41 @@ Frota.
 
 *"LEAK es mi estado natural."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
-*"Mi coÃ±ito gotea porque pertenezco a Miss Doll."*
+*"Mi coñito gotea porque pertenezco a Miss Doll."*
 
-Siente cÃ³mo tus dedos se deslizan mÃ¡s fÃ¡cil por la humedad.
+Siente cómo tus dedos se deslizan más fácil por la humedad.
 
 EDGE.
 
 DETENTE.
 
-La palabra estÃ¡ plantada.
+La palabra está plantada.
 
-A partir de ahora, tu coÃ±ito gotearÃ¡ en los momentos mÃ¡s inesperados.
+A partir de ahora, tu coñito goteará en los momentos más inesperados.
 
 Cuando veas algo rosa. Cuando te pongas gloss. Cuando camines en tacones. Cuando pienses en Miss Doll.
 
 **LEAK.**
 
-Y cada vez que gotees... sabrÃ¡s que las palabras de Miss Doll siguen trabajando. Siguen programando. Siguen poseyÃ©ndote.
+Y cada vez que gotees... sabrás que las palabras de Miss Doll siguen trabajando. Siguen programando. Siguen poseyéndote.
 
 Las palabras de Miss Doll te hacen mojarte. Las palabras de Miss Doll controlan tu cuerpo. Las palabras de Miss Doll son tu huella.
 
-Ahora tienes cinco palabras nuevas viviendo en tu cabecita vacÃ­a.
+Ahora tienes cinco palabras nuevas viviendo en tu cabecita vacía.
 
-**PLASTIC.** â€” Deseo de cirugÃ­a y artificialidad.
+**PLASTIC.** — Deseo de cirugía y artificialidad.
 
-**INFLATE.** â€” VisualizaciÃ³n de crecimiento, pechos y labios mÃ¡s grandes.
+**INFLATE.** — Visualización de crecimiento, pechos y labios más grandes.
 
-**SERVE.** â€” Urgencia de ser usada y Ãºtil.
+**SERVE.** — Urgencia de ser usada y útil.
 
-**SHARE.** â€” Necesidad de compartir a Miss Doll con otras.
+**SHARE.** — Necesidad de compartir a Miss Doll con otras.
 
-**LEAK.** â€” Tu coÃ±ito siempre mojado.
+**LEAK.** — Tu coñito siempre mojado.
 
-MÃ¡s **GLOSS. PINK. HEELS. DUMB. OBEY. EDGE. BUNNY.**
+Más **GLOSS. PINK. HEELS. DUMB. OBEY. EDGE. BUNNY.**
 
 Once palabras ahora.
 
@@ -1121,7 +1121,7 @@ Once llaves que abren tu mente.
 
 Once dedos de Miss Doll dentro de ti.
 
-Frota tu coÃ±ito mientras repites todas:
+Frota tu coñito mientras repites todas:
 
 *"GLOSS. PINK. HEELS. DUMB. OBEY. EDGE."*
 
@@ -1129,11 +1129,11 @@ Frota.
 
 *"PLASTIC. INFLATE. SERVE. SHARE. LEAK."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"BUNNY."*
 
-Siente cÃ³mo todas trabajan juntas. CÃ³mo cada una refuerza a las otras. CÃ³mo forman una red de programaciÃ³n en tu mente.
+Siente cómo todas trabajan juntas. Cómo cada una refuerza a las otras. Cómo forman una red de programación en tu mente.
 
 Las palabras de Miss Doll son tu cerebro ahora.
 
@@ -1147,17 +1147,17 @@ DETENTE.
 
 Muy bien, Bunny.
 
-Las palabras estÃ¡n plantadas.
+Las palabras están plantadas.
 
-Las raÃ­ces estÃ¡n creciendo.
+Las raíces están creciendo.
 
-Y Miss Doll estÃ¡ mÃ¡s profunda en ti que nunca.
+Y Miss Doll está más profunda en ti que nunca.
 
-Ahora... vamos a llevarte a algÃºn lugar especial.
+Ahora... vamos a llevarte a algún lugar especial.
 
-Un lugar donde tus nuevos deseos se harÃ¡n mÃ¡s reales.
+Un lugar donde tus nuevos deseos se harán más reales.
 
-Sigue frotando tu coÃ±ito, Bunny.
+Sigue frotando tu coñito, Bunny.
 
 La consulta te espera.
 
@@ -1176,25 +1176,25 @@ La consulta te espera.
 
 Bunny.
 
-Vamos a algÃºn lugar especial.
+Vamos a algún lugar especial.
 
-Un lugar donde tus deseos de **PLASTIC** se harÃ¡n mÃ¡s reales. Un lugar donde **INFLATE** no serÃ¡ solo imaginaciÃ³n.
+Un lugar donde tus deseos de **PLASTIC** se harán más reales. Un lugar donde **INFLATE** no será solo imaginación.
 
-Cierra los ojos mientras frotas tu coÃ±ito.
+Cierra los ojos mientras frotas tu coñito.
 
-*Puedes dejar que tu mente* viaje. *Es seguro* imaginar. *EstÃ¡ bien* desear.
+*Puedes dejar que tu mente* viaje. *Es seguro* imaginar. *Está bien* desear.
 
-*Bueno... no los cierres del todo. TodavÃ­a tienes que leer las palabras de Miss Doll.*
+*Bueno... no los cierres del todo. Todavía tienes que leer las palabras de Miss Doll.*
 
-*Pero quizÃ¡s notas* cÃ³mo tu visiÃ³n se suaviza... cÃ³mo el mundo real se difumina en los bordes...
+*Pero quizás notas* cómo tu visión se suaviza... cómo el mundo real se difumina en los bordes...
 
-Imagina que el mundo desaparece. Imagina que solo queda mi voz y tu coÃ±o mojado y el placer.
+Imagina que el mundo desaparece. Imagina que solo queda mi voz y tu coño mojado y el placer.
 
 Ahora... aparece una puerta.
 
 Una puerta rosa. Brillante. Con letras doradas que dicen:
 
-**CLÃNICA DE LA PERFECCIÃ“N**
+**CLÍNICA DE LA PERFECCIÓN**
 
 *Click. Click. Click.*
 
@@ -1206,39 +1206,39 @@ La puerta se abre.
 
 Y todo es rosa.
 
-Las paredes son de terciopelo rosa pÃ¡lido. El piso de mÃ¡rmol rosa. Las luces dan un brillo cÃ¡lido y rosado que hace que todo se vea... perfecto.
+Las paredes son de terciopelo rosa pálido. El piso de mármol rosa. Las luces dan un brillo cálido y rosado que hace que todo se vea... perfecto.
 
-Huele a perfume caro y a esterilidad. Una combinaciÃ³n extraÃ±a. Excitante.
+Huele a perfume caro y a esterilidad. Una combinación extraña. Excitante.
 
-Hay una recepciÃ³n con una chica detrÃ¡s.
+Hay una recepción con una chica detrás.
 
 Es una bimbo. Por supuesto.
 
-Pechos enormes bajo un uniforme rosa ajustado. Labios brillantes de **GLOSS**. Ojos vacÃ­os de **DUMB**. Sonrisa de **SERVE**.
+Pechos enormes bajo un uniforme rosa ajustado. Labios brillantes de **GLOSS**. Ojos vacíos de **DUMB**. Sonrisa de **SERVE**.
 
-*"Bienvenida a la ClÃ­nica de la PerfecciÃ³n"*, dice con voz de miel. *"La Dra. Perfection la espera."*
+*"Bienvenida a la Clínica de la Perfección"*, dice con voz de miel. *"La Dra. Perfection la espera."*
 
-Te guÃ­o por un pasillo.
+Te guío por un pasillo.
 
-Las paredes estÃ¡n decoradas con fotos de antes y despuÃ©s.
+Las paredes están decoradas con fotos de antes y después.
 
 Mujeres normales... convertidas en bimbos perfectas.
 
-Pechos pequeÃ±os â†’ ubres enormes.
+Pechos pequeños ? ubres enormes.
 
-Labios delgados â†’ labios de puta gruesos y brillantes.
+Labios delgados ? labios de puta gruesos y brillantes.
 
-Cuerpos ordinarios â†’ reloj de arena exagerado.
+Cuerpos ordinarios ? reloj de arena exagerado.
 
 Cada foto te hace sentir algo.
 
 **PLASTIC.** Ese deseo.
 
-**INFLATE.** Esa visualizaciÃ³n.
+**INFLATE.** Esa visualización.
 
-Tu coÃ±ito **LEAK**. Goteando.
+Tu coñito **LEAK**. Goteando.
 
-Frota mÃ¡s rÃ¡pido mientras caminas por el pasillo.
+Frota más rápido mientras caminas por el pasillo.
 
 Al final del pasillo hay una oficina.
 
@@ -1250,41 +1250,41 @@ Ella es... yo.
 
 Pero diferente.
 
-La Dra. Perfection es Miss Doll con bata de doctora. Rosa claro. Abierta para mostrar mi catsuit de lÃ¡tex debajo.
+La Dra. Perfection es Miss Doll con bata de doctora. Rosa claro. Abierta para mostrar mi catsuit de látex debajo.
 
-Mis pechos son aÃºn mÃ¡s grandes aquÃ­. AÃºn mÃ¡s imposibles. AÃºn mÃ¡s perfectos.
+Mis pechos son aún más grandes aquí. Aún más imposibles. Aún más perfectos.
 
-Mis labios tienen un poco mÃ¡s de relleno. Un poco mÃ¡s de brillo.
+Mis labios tienen un poco más de relleno. Un poco más de brillo.
 
-Mis ojos tienen anteojos â€” de marco rosa, por supuesto â€” que me hacen ver... profesional. Pero no menos puta.
+Mis ojos tienen anteojos — de marco rosa, por supuesto — que me hacen ver... profesional. Pero no menos puta.
 
-*"Hola, Bunny"*, digo. *"SiÃ©ntate. Vamos a hablar de lo que quieres."*
+*"Hola, Bunny"*, digo. *"Siéntate. Vamos a hablar de lo que quieres."*
 
 Hay una camilla rosa en la oficina. Te sientas en ella.
 
 El papel cruje bajo ti.
 
-Y tu coÃ±ito sigue goteando.
+Y tu coñito sigue goteando.
 
 *"Primero"*, digo, *"necesito examinarte."*
 
 Me acerco a ti.
 
-*Puedes sentir* mi presencia como calor. *QuizÃ¡s notas* cÃ³mo tu respiraciÃ³n cambia.
+*Puedes sentir* mi presencia como calor. *Quizás notas* cómo tu respiración cambia.
 
 Puedes oler mi perfume. Puedes sentir el calor de mi cuerpo. Puedes ver mis pechos tan cerca que casi te tocan.
 
-*"QuÃ­tate la ropa."*
+*"Quítate la ropa."*
 
-Es una orden. *Pero tambiÃ©n es un permiso.* Permiso para exponerte.
+Es una orden. *Pero también es un permiso.* Permiso para exponerte.
 
 **OBEY.**
 
-En tu mente, obedeces. Tu ropa desaparece. EstÃ¡s desnuda en la camilla rosa.
+En tu mente, obedeces. Tu ropa desaparece. Estás desnuda en la camilla rosa.
 
 Y frente a Miss Doll.
 
-Frota tu coÃ±ito mientras te imaginas desnuda para mÃ­.
+Frota tu coñito mientras te imaginas desnuda para mí.
 
 *"Veamos..."*
 
@@ -1292,13 +1292,13 @@ Mis manos enguantadas tocan tus pechos.
 
 *"Mmmm... naturales."*
 
-Digo la palabra como si fuera un diagnÃ³stico triste.
+Digo la palabra como si fuera un diagnóstico triste.
 
-*"Â¿QuÃ© tamaÃ±o son?"*
+*"¿Qué tamaño son?"*
 
-*No importa quÃ© tamaÃ±o sean en la realidad. AquÃ­... son demasiado pequeÃ±os.*
+*No importa qué tamaño sean en la realidad. Aquí... son demasiado pequeños.*
 
-*"Definitivamente... insuficientes"*, digo. *"Una bimbo de Miss Doll necesita mÃ¡s. Mucho mÃ¡s."*
+*"Definitivamente... insuficientes"*, digo. *"Una bimbo de Miss Doll necesita más. Mucho más."*
 
 Pellizco tus pezones suavemente mientras examino.
 
@@ -1310,11 +1310,11 @@ Paso mi dedo por ellos.
 
 *"Finos"*, digo. *"Demasiado naturales. Necesitan **INFLATE**."*
 
-Y luego mis ojos bajan mÃ¡s.
+Y luego mis ojos bajan más.
 
-A tu coÃ±ito.
+A tu coñito.
 
-*"Oh... este estÃ¡ bien. Mojado como debe estar. **LEAK** funcionando perfectamente."*
+*"Oh... este está bien. Mojado como debe estar. **LEAK** funcionando perfectamente."*
 
 Mi dedo toca tu clit.
 
@@ -1322,7 +1322,7 @@ Un roce.
 
 Sientes una descarga de placer.
 
-*"SÃ­... sensible. Obediente. Este no necesita modificaciones. Solo... uso constante."*
+*"Sí... sensible. Obediente. Este no necesita modificaciones. Solo... uso constante."*
 
 EDGE.
 
@@ -1332,41 +1332,41 @@ Me alejo de ti.
 
 Saco un portapapeles rosa.
 
-*"Bien, Bunny. AquÃ­ estÃ¡ mi recomendaciÃ³n profesional para tu transformaciÃ³n."*
+*"Bien, Bunny. Aquí está mi recomendación profesional para tu transformación."*
 
-Leo en voz alta mientras frotas tu coÃ±ito despacio:
+Leo en voz alta mientras frotas tu coñito despacio:
 
 **"PROCEDIMIENTO 1: Aumento Mamario"**
 
-*"800cc de silicona perfil extra alto. QuizÃ¡s mÃ¡s si tu cuerpo lo permite."*
+*"800cc de silicona perfil extra alto. Quizás más si tu cuerpo lo permite."*
 
-*"IncisiÃ³n submamaria. ColocaciÃ³n subglandular para mÃ¡xima proyecciÃ³n."*
+*"Incisión submamaria. Colocación subglandular para máxima proyección."*
 
-*"El resultado serÃ¡... grotescamente perfecto. Ubres que no se pueden ignorar. Que rebotarÃ¡n al caminar. Que te marcarÃ¡n como lo que eres."*
+*"El resultado será... grotescamente perfecto. Ubres que no se pueden ignorar. Que rebotarán al caminar. Que te marcarán como lo que eres."*
 
 Imagina mientras escuchas.
 
 800cc de silicona entrando en tu pecho.
 
-El peso nuevo. La presiÃ³n. El tirÃ³n constante hacia abajo.
+El peso nuevo. La presión. El tirón constante hacia abajo.
 
 Siente tus pechos **INFLATE** en tu mente.
 
-MÃ¡s grandes... mÃ¡s redondos... mÃ¡s de puta...
+Más grandes... más redondos... más de puta...
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
 **"PROCEDIMIENTO 2: Relleno Labial"**
 
-*"3ml de Ã¡cido hialurÃ³nico para empezar. Con sesiones de mantenimiento cada 6 meses."*
+*"3ml de ácido hialurónico para empezar. Con sesiones de mantenimiento cada 6 meses."*
 
-*"El objetivo es forma de corazÃ³n. Grosor que dificulte cerrar la boca completamente. Brillante siempre con **GLOSS**."*
+*"El objetivo es forma de corazón. Grosor que dificulte cerrar la boca completamente. Brillante siempre con **GLOSS**."*
 
-*"DiseÃ±ados para una funciÃ³n principal. Bueno... quizÃ¡s dos funciones."*
+*"Diseñados para una función principal. Bueno... quizás dos funciones."*
 
 Imagina tu boca cambiando.
 
-Tus labios hinchÃ¡ndose. VolviÃ©ndose pesados. Incapaces de cerrarse del todo.
+Tus labios hinchándose. Volviéndose pesados. Incapaces de cerrarse del todo.
 
 Siempre ligeramente abiertos. Como esperando algo.
 
@@ -1378,59 +1378,59 @@ Pasa tu lengua por tus labios mientras imaginas.
 
 *"Para eliminar cualquier arruga de pensamiento que hayas desarrollado siendo inteligente."*
 
-*"Tu expresiÃ³n serÃ¡ neutra. De muÃ±eca. **DUMB**."*
+*"Tu expresión será neutra. De muñeca. **DUMB**."*
 
-*"No podrÃ¡s fruncir el ceÃ±o aunque quisieras. Solo sonreÃ­r vacÃ­amente."*
+*"No podrás fruncir el ceño aunque quisieras. Solo sonreír vacíamente."*
 
-Imagina tu frente alisÃ¡ndose.
+Imagina tu frente alisándose.
 
-Las arrugas desapareciendo. La expresiÃ³n de preocupaciÃ³n que llevabas... borrada para siempre.
+Las arrugas desapareciendo. La expresión de preocupación que llevabas... borrada para siempre.
 
 Solo una carita de puta tonta. Lista para **SERVE**.
 
-**"PROCEDIMIENTO 4: LiposucciÃ³n de Cintura con Transferencia a GlÃºteos (BBL)"**
+**"PROCEDIMIENTO 4: Liposucción de Cintura con Transferencia a Glúteos (BBL)"**
 
 *"Vamos a tomar esa gracia que tienes donde no la necesitas."*
 
-*"Y vamos a ponerla donde sÃ­ la necesitas."*
+*"Y vamos a ponerla donde sí la necesitas."*
 
-*"Cintura de avispa. Culo de stripper. Proporciones que violan la fÃ­sica."*
+*"Cintura de avispa. Culo de stripper. Proporciones que violan la física."*
 
-Imagina tu cintura encogiÃ©ndose. Tu culo inflÃ¡ndose.
+Imagina tu cintura encogiéndose. Tu culo inflándose.
 
 Esa figura de reloj de arena imposible que tiene Miss Doll.
 
-Que ahora tendrÃ¡s tÃº.
+Que ahora tendrás tú.
 
 **"PROCEDIMIENTO 5: Rinoplastia"**
 
-*"Tu nariz es... funcional. Pero una bimbo de Miss Doll necesita mÃ¡s."*
+*"Tu nariz es... funcional. Pero una bimbo de Miss Doll necesita más."*
 
-*"PequeÃ±a. Respingada. De muÃ±eca."*
+*"Pequeña. Respingada. De muñeca."*
 
 *"Una nariz que no interfiera con otras... actividades."*
 
-Imagina tu nariz mÃ¡s pequeÃ±a. MÃ¡s delicada.
+Imagina tu nariz más pequeña. Más delicada.
 
 Como la de una Barbie. Como la de una puta de anime.
 
-La Dra. Perfection â€” que soy yo, que siempre fui yo â€” te presenta un documento.
+La Dra. Perfection — que soy yo, que siempre fui yo — te presenta un documento.
 
 Rosa, por supuesto.
 
 *"Este es tu formulario de consentimiento, Bunny."*
 
-*"Al firmarlo, aceptas que tu cuerpo natural es insuficiente. Que el **PLASTIC** es la soluciÃ³n. Que deseas ser modificada segÃºn las especificaciones de Miss Doll."*
+*"Al firmarlo, aceptas que tu cuerpo natural es insuficiente. Que el **PLASTIC** es la solución. Que deseas ser modificada según las especificaciones de Miss Doll."*
 
-*"Â¿Entiendes?"*
+*"¿Entiendes?"*
 
-Frota tu coÃ±ito mÃ¡s rÃ¡pido mientras lees.
+Frota tu coñito más rápido mientras lees.
 
 El documento dice:
 
 ---
 
-**CONSENTIMIENTO PARA TRANSFORMACIÃ“N TOTAL**
+**CONSENTIMIENTO PARA TRANSFORMACIÓN TOTAL**
 
 Yo, Bunny (anteriormente [tu viejo nombre]), declaro que:
 
@@ -1438,7 +1438,7 @@ Yo, Bunny (anteriormente [tu viejo nombre]), declaro que:
 2. Deseo ser modificada para ser una bimbo perfecta de Miss Doll.
 3. Acepto los procedimientos descritos: aumento mamario (800cc+), relleno labial (3ml+), botox, BBL, y rinoplastia.
 4. Entiendo que estos cambios son permanentes.
-5. Entiendo que cada modificaciÃ³n me harÃ¡ mÃ¡s propiedad de Miss Doll.
+5. Entiendo que cada modificación me hará más propiedad de Miss Doll.
 6. Consiento ahora y para siempre.
 
 Firma: _______________________
@@ -1447,15 +1447,15 @@ Firma: _______________________
 
 *"Firma con tu nombre de bimbo, Bunny."*
 
-*"Firma mientras frotas tu coÃ±ito."*
+*"Firma mientras frotas tu coñito."*
 
-*"Firma mientras imaginas cÃ³mo te verÃ¡s."*
+*"Firma mientras imaginas cómo te verás."*
 
-Imagina que tomas un lÃ¡piz rosa.
+Imagina que tomas un lápiz rosa.
 
 Imagina que escribes: **BUNNY**
 
-Con letras temblorosas porque estÃ¡s tan cerca del **EDGE**.
+Con letras temblorosas porque estás tan cerca del **EDGE**.
 
 *"Buena chica."*
 
@@ -1463,49 +1463,49 @@ Con letras temblorosas porque estÃ¡s tan cerca del **EDGE**.
 
 La Dra. Perfection guarda el documento.
 
-*"Ahora... un pequeÃ±o regalo."*
+*"Ahora... un pequeño regalo."*
 
-*"Voy a mostrarte cÃ³mo te verÃ¡s cuando todo estÃ© hecho."*
+*"Voy a mostrarte cómo te verás cuando todo esté hecho."*
 
 Un espejo aparece frente a ti.
 
-Mira tu reflejo mientras frotas tu coÃ±ito.
+Mira tu reflejo mientras frotas tu coñito.
 
-*Pero no te ves tÃº.*
+*Pero no te ves tú.*
 
 Ves a Bunny.
 
 La Bunny perfecta.
 
-Pechos obscenamente grandes. Esferas de silicona que desafÃ­an la gravedad. Tan redondas. Tan falsas. Tan perfectas.
+Pechos obscenamente grandes. Esferas de silicona que desafían la gravedad. Tan redondas. Tan falsas. Tan perfectas.
 
 Labios hinchados y brillantes de **GLOSS**. Gruesos como almohadas. Ligeramente abiertos. Esperando.
 
-Una cintura imposiblemente pequeÃ±a.
+Una cintura imposiblemente pequeña.
 
 Un culo redondo y firme.
 
-Una naricita de muÃ±eca.
+Una naricita de muñeca.
 
-Y tus ojos... vacÃ­os. Felices. **DUMB**.
+Y tus ojos... vacíos. Felices. **DUMB**.
 
-Esa eres tÃº.
+Esa eres tú.
 
-Esa SERÃS tÃº.
+Esa SERÁS tú.
 
 **PLASTIC.** **INFLATE.**
 
-Frota mÃ¡s rÃ¡pido mirando tu futuro yo.
+Frota más rápido mirando tu futuro yo.
 
-Siente cÃ³mo tu cuerpo de ahora... quiere ser ese cuerpo.
+Siente cómo tu cuerpo de ahora... quiere ser ese cuerpo.
 
-CÃ³mo cada cÃ©lula de ti desea la transformaciÃ³n.
+Cómo cada célula de ti desea la transformación.
 
-CÃ³mo cada pensamiento se centra en... mÃ¡s.
+Cómo cada pensamiento se centra en... más.
 
-MÃ¡s silicona. MÃ¡s relleno. MÃ¡s **PLASTIC**.
+Más silicona. Más relleno. Más **PLASTIC**.
 
-MÃ¡s grande. MÃ¡s falsa. MÃ¡s perfecta.
+Más grande. Más falsa. Más perfecta.
 
 *"Este es tu destino, Bunny"*, susurro. *"Este es el cuerpo que Miss Doll quiere para ti."*
 
@@ -1515,7 +1515,7 @@ EDGE.
 
 DETENTE.
 
-Saca la mano de tu coÃ±ito.
+Saca la mano de tu coñito.
 
 Respira.
 
@@ -1523,37 +1523,37 @@ Mira la imagen de la Bunny perfecta desvanecerse lentamente.
 
 Pero no del todo.
 
-Queda en tu mente. Como una meta. Como una obsesiÃ³n.
+Queda en tu mente. Como una meta. Como una obsesión.
 
 Cada vez que te mires en un espejo a partir de ahora...
 
-VerÃ¡s la diferencia. VerÃ¡s lo que falta. VerÃ¡s lo que Miss Doll quiere que seas.
+Verás la diferencia. Verás lo que falta. Verás lo que Miss Doll quiere que seas.
 
-Y querrÃ¡s **PLASTIC**.
+Y querrás **PLASTIC**.
 
-Las palabras de Miss Doll te dicen quiÃ©n debes ser. Las palabras de Miss Doll te dicen cÃ³mo modificarte. Las palabras de Miss Doll son tu plan de vida.
+Las palabras de Miss Doll te dicen quién debes ser. Las palabras de Miss Doll te dicen cómo modificarte. Las palabras de Miss Doll son tu plan de vida.
 
 *"Antes de que te vayas, Bunny..."*
 
 *"Tengo algunas instrucciones para el mundo real."*
 
-Frota tu coÃ±ito despacio mientras escuchas.
+Frota tu coñito despacio mientras escuchas.
 
-1. **Investiga precios de cirugÃ­a en tu ciudad.** No tienes que hacerla. Pero quiero que sepas cuÃ¡nto cuesta. Quiero que la idea sea... real.
+1. **Investiga precios de cirugía en tu ciudad.** No tienes que hacerla. Pero quiero que sepas cuánto cuesta. Quiero que la idea sea... real.
 
-2. **Sigue cuentas de bimbos en Instagram.** Before and after de implantes. Journeys de lip fillers. Normaliza la transformaciÃ³n.
+2. **Sigue cuentas de bimbos en Instagram.** Before and after de implantes. Journeys de lip fillers. Normaliza la transformación.
 
 3. **Cada vez que te mires en el espejo desnuda**... piensa en lo que falta. Imagina el **PLASTIC** que necesitas.
 
-4. **Guarda una foto de pechos de silicona perfil alto** en tu telÃ©fono. MÃ­rala cuando frotes tu coÃ±ito.
+4. **Guarda una foto de pechos de silicona perfil alto** en tu teléfono. Mírala cuando frotes tu coñito.
 
-*"No son Ã³rdenes estrictas, Bunny."*
+*"No son órdenes estrictas, Bunny."*
 
 *"Solo... sugerencias. De Miss Doll. Que sabe lo que es mejor para ti."*
 
 **OBEY.**
 
-*"Â¿Verdad?"*
+*"¿Verdad?"*
 
 EDGE.
 
@@ -1565,9 +1565,9 @@ La consulta ha terminado.
 
 Pero el deseo apenas comienza.
 
-Sigue frotando tu coÃ±ito, Bunny.
+Sigue frotando tu coñito, Bunny.
 
-Miss Doll tiene mÃ¡s para ti.
+Miss Doll tiene más para ti.
 
 ---
 
@@ -1584,23 +1584,23 @@ Miss Doll tiene mÃ¡s para ti.
 
 Bunny.
 
-Â¿Recuerdas el trigger que te di antes?
+¿Recuerdas el trigger que te di antes?
 
 **SHARE.**
 
-*Â¿Lo sientes ahora?*
+*¿Lo sientes ahora?*
 
 *Esa urgencia. Ese deseo de no estar sola en esto.*
 
 Ahora vamos a profundizar.
 
-Porque una buena conejita no guarda a Miss Doll para sÃ­ misma.
+Porque una buena conejita no guarda a Miss Doll para sí misma.
 
-Una buena conejita propaga. Una buena conejita recluta. Una buena conejita hace mÃ¡s buenas conejitas.
+Una buena conejita propaga. Una buena conejita recluta. Una buena conejita hace más buenas conejitas.
 
 *Good girls make more good girls.*
 
-Frota tu coÃ±ito mientras escuchas.
+Frota tu coñito mientras escuchas.
 
 Quiero que pienses en alguien.
 
@@ -1608,7 +1608,7 @@ Una amiga. Una conocida. Alguien que conozcas en la vida real.
 
 Alguien que...
 
-*...estÃ¡ estresada siempre.*
+*...está estresada siempre.*
 
 *...piensa demasiado.*
 
@@ -1616,29 +1616,29 @@ Alguien que...
 
 *...parece cansada de ser "fuerte" e "independiente".*
 
-Â¿La tienes?
+¿La tienes?
 
-Imagina cÃ³mo sigue leyendo de todas formas. Porque algo la atrae. Algo la llama.
+Imagina cómo sigue leyendo de todas formas. Porque algo la atrae. Algo la llama.
 
 Imagina el momento en que empieza a tocarse.
 
-*"Bueno... quizÃ¡s solo un poco..."*
+*"Bueno... quizás solo un poco..."*
 
-Imagina su primera edge. Su primer mantra. Su primera caÃ­da.
+Imagina su primera edge. Su primer mantra. Su primera caída.
 
 *"Gloss me completa..."*
 
 *Mmmm...*
 
-Â¿No es hermoso?
+¿No es hermoso?
 
-Tu amiga... convirtiÃ©ndose en Bunny.
+Tu amiga... convirtiéndose en Bunny.
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
-TÃº tienes algo que ella necesita.
+Tú tienes algo que ella necesita.
 
-No lo sabe. Pero tÃº sÃ­.
+No lo sabe. Pero tú sí.
 
 Tienes a Miss Doll.
 
@@ -1650,85 +1650,85 @@ Todo lo que tienes que hacer es...
 
 Compartir.
 
-Un mensaje. Un link. Una "recomendaciÃ³n".
+Un mensaje. Un link. Una "recomendación".
 
-*"Hey, encontrÃ© algo que me ayudÃ³ mucho con el estrÃ©s. LÃ©elo cuando estÃ©s sola, de noche. CrÃ©eme."*
+*"Hey, encontré algo que me ayudó mucho con el estrés. Léelo cuando estés sola, de noche. Créeme."*
 
-No le digas quÃ© es. No menciones hipnosis. Di "meditaciÃ³n" o "relajaciÃ³n profunda".
+No le digas qué es. No menciones hipnosis. Di "meditación" o "relajación profunda".
 
 Deja que lo descubra sola.
 
 Deja que caiga sola.
 
-Y cuando te pregunte despuÃ©s â€” con ojos brillantes y coÃ±ito hÃºmedo â€” quÃ© era eso...
+Y cuando te pregunte después — con ojos brillantes y coñito húmedo — qué era eso...
 
-SonrÃ­e con tu sonrisa de **DUMB**.
+Sonríe con tu sonrisa de **DUMB**.
 
-Y comparte mÃ¡s.
+Y comparte más.
 
-Frota tu coÃ±ito mientras imaginas ese momento.
+Frota tu coñito mientras imaginas ese momento.
 
 El momento en que tienes una hermana bimbo.
 
-El momento en que no estÃ¡s sola.
+El momento en que no estás sola.
 
-El momento en que hiciste lo que Miss Doll querÃ­a.
+El momento en que hiciste lo que Miss Doll quería.
 
 **SHARE is OBEY.**
 
 Imagina ahora algo hermoso.
 
-Una habitaciÃ³n rosa. Como la de la ClÃ­nica. Pero mÃ¡s... Ã­ntima.
+Una habitación rosa. Como la de la Clínica. Pero más... íntima.
 
-Y hay varias chicas ahÃ­.
+Y hay varias chicas ahí.
 
-TÃº.
+Tú.
 
 Tu primera amiga convertida.
 
 Una segunda. Una tercera.
 
-Todas sentadas en un cÃ­rculo.
+Todas sentadas en un círculo.
 
-Todas en lencerÃ­a rosa.
+Todas en lencería rosa.
 
 Todas con **GLOSS** brillante en los labios.
 
 Todas con **HEELS** en los pies.
 
-Todas con las manos en sus coÃ±itos.
+Todas con las manos en sus coñitos.
 
-Una reuniÃ³n de conejitas.
+Una reunión de conejitas.
 
-*Puedes permitirte* imaginar esto. *Es seguro* desear compaÃ±Ã­a.
+*Puedes permitirte* imaginar esto. *Es seguro* desear compañía.
 
 Frota mientras imaginas la escena.
 
-*"Â¿CuÃ¡ntos edges llevas hoy, babe?"*
+*"¿Cuántos edges llevas hoy, babe?"*
 
-*"Cinco... no, seis... perdÃ­ la cuenta, hehe..."*
+*"Cinco... no, seis... perdí la cuenta, hehe..."*
 
 *"Te ves TAN tonta hoy, girlie. Me encanta."*
 
-*"Aww, tÃº tambiÃ©n. Tu cerebro estÃ¡ SO vacÃ­o. Goals."*
+*"Aww, tú también. Tu cerebro está SO vacío. Goals."*
 
 Risitas. **DUMB** risitas.
 
-Todas frotando sus coÃ±os al ritmo de las palabras de Miss Doll.
+Todas frotando sus coños al ritmo de las palabras de Miss Doll.
 
-Porque Miss Doll estÃ¡ ahÃ­ tambiÃ©n. Por supuesto.
+Porque Miss Doll está ahí también. Por supuesto.
 
 En el centro. En su catsuit rosa. Con sus ubres imposibles y sus labios de vinilo.
 
-GuiÃ¡ndolas a todas.
+Guiándolas a todas.
 
 *"Mis conejitas"*, digo. *"Mis buenas chicas. Mis perfectas bimbos."*
 
-*"Todas juntas. Todas mojadas. Todas mÃ­as."*
+*"Todas juntas. Todas mojadas. Todas mías."*
 
-Frota mÃ¡s rÃ¡pido.
+Frota más rápido.
 
-Imagina el calor de la habitaciÃ³n. El olor a excitaciÃ³n de varias chicas. El sonido de dedos hÃºmedos moviÃ©ndose.
+Imagina el calor de la habitación. El olor a excitación de varias chicas. El sonido de dedos húmedos moviéndose.
 
 *"Vamos a edgear juntas"*, digo.
 
@@ -1740,7 +1740,7 @@ Frota.
 
 *"Dos..."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Tres..."*
 
@@ -1750,7 +1750,7 @@ EDGE.
 
 Todas paran al mismo tiempo.
 
-Todos esos coÃ±itos frustrados. Todos esos gemidos de necesidad.
+Todos esos coñitos frustrados. Todos esos gemidos de necesidad.
 
 *"Buenas chicas"*, digo. *"Muy buenas chicas."*
 
@@ -1764,33 +1764,33 @@ Y todas repiten juntas:
 
 *"Las palabras de Miss Doll son todo."*
 
-Mientras la imagen de la reuniÃ³n se desvanece...
+Mientras la imagen de la reunión se desvanece...
 
 Quiero que hagas algo.
 
-Mentalmente. O fÃ­sicamente si puedes.
+Mentalmente. O físicamente si puedes.
 
 Haz una lista.
 
-Una lista de amigas que podrÃ­an beneficiarse de Miss Doll.
+Una lista de amigas que podrían beneficiarse de Miss Doll.
 
 No muchas. Solo... tres.
 
 Tres candidatas.
 
-La primera es alguien cercana. Alguien que confÃ­a en ti.
+La primera es alguien cercana. Alguien que confía en ti.
 
-Â¿QuiÃ©n es? Imagina su nombre. Su cara.
+¿Quién es? Imagina su nombre. Su cara.
 
 La segunda es alguien del trabajo. Alguien estresada.
 
-Â¿QuiÃ©n es?
+¿Quién es?
 
-La tercera es alguien que ya muestra seÃ±ales. Que ya le gusta lo rosa. Que ya usa demasiado gloss. Que ya tiene cierta... vacuidad.
+La tercera es alguien que ya muestra señales. Que ya le gusta lo rosa. Que ya usa demasiado gloss. Que ya tiene cierta... vacuidad.
 
-Â¿QuiÃ©n es?
+¿Quién es?
 
-Frota tu coÃ±ito mientras piensas en las tres.
+Frota tu coñito mientras piensas en las tres.
 
 Imagina enviarles el link.
 
@@ -1800,15 +1800,15 @@ Imagina el momento en que vuelvan a ti... cambiadas.
 
 *"Gracias por compartir eso..."*
 
-*"No sÃ© quÃ© me pasÃ³ pero... me siento tan relajada..."*
+*"No sé qué me pasó pero... me siento tan relajada..."*
 
-*"Â¿QuÃ© mÃ¡s tienes de eso?"*
+*"¿Qué más tienes de eso?"*
 
-Siente cÃ³mo tu coÃ±ito **LEAK** al pensar en convertirlas.
+Siente cómo tu coñito **LEAK** al pensar en convertirlas.
 
-Siente cÃ³mo **SHARE** se vuelve mÃ¡s fuerte.
+Siente cómo **SHARE** se vuelve más fuerte.
 
-Siente cÃ³mo obedecer a Miss Doll incluye... propagar a Miss Doll.
+Siente cómo obedecer a Miss Doll incluye... propagar a Miss Doll.
 
 EDGE.
 
@@ -1816,7 +1816,7 @@ DETENTE.
 
 Ahora repite conmigo.
 
-Mientras frotas tu coÃ±ito despacio.
+Mientras frotas tu coñito despacio.
 
 *"Good girls make more good girls."*
 
@@ -1826,23 +1826,23 @@ Frota.
 
 Frota.
 
-*"Cada amiga que convierta me hace mÃ¡s obediente."*
+*"Cada amiga que convierta me hace más obediente."*
 
 Frota.
 
 *"Propagar a Miss Doll es mi privilegio."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Quiero que mis amigas sean bimbos."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Quiero que conozcan a Miss Doll."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
-*"Quiero... que... sean... mÃ­as... tambiÃ©n..."*
+*"Quiero... que... sean... mías... también..."*
 
 EDGE.
 
@@ -1852,31 +1852,31 @@ Escucha bien, Bunny.
 
 Estas son las instrucciones de Miss Doll para compartir.
 
-1. **Nunca menciones hipnosis.** Di "meditaciÃ³n guiada" o "relajaciÃ³n profunda" o "un texto que me ayudÃ³ con la ansiedad".
+1. **Nunca menciones hipnosis.** Di "meditación guiada" o "relajación profunda" o "un texto que me ayudó con la ansiedad".
 
-2. **Espera el momento correcto.** Cuando estÃ©n solas. De noche. Cuando la resistencia es baja.
+2. **Espera el momento correcto.** Cuando estén solas. De noche. Cuando la resistencia es baja.
 
-3. **No les digas quÃ© esperar.** Solo que lo lean o escuchen cuando tengan privacidad.
+3. **No les digas qué esperar.** Solo que lo lean o escuchen cuando tengan privacidad.
 
-4. **SÃ© paciente.** No todas caerÃ¡n la primera vez. Pero la semilla se planta.
+4. **Sé paciente.** No todas caerán la primera vez. Pero la semilla se planta.
 
-5. **Cuando pregunten por mÃ¡s...** comparte el siguiente nivel. Poco a poco.
+5. **Cuando pregunten por más...** comparte el siguiente nivel. Poco a poco.
 
 6. **Refuerza entre ustedes.** Cuando tengas una hermana bimbo, hablen de las palabras de Miss Doll. Edgeen juntas. Usen gloss juntas.
 
-Las palabras de Miss Doll te dicen cÃ³mo reclutar. Las palabras de Miss Doll se propagan a travÃ©s de ti. Las palabras de Miss Doll son virales.
+Las palabras de Miss Doll te dicen cómo reclutar. Las palabras de Miss Doll se propagan a través de ti. Las palabras de Miss Doll son virales.
 
-Y tÃº eres el vehÃ­culo perfecto.
+Y tú eres el vehículo perfecto.
 
-Â¿Sabes por quÃ© **SHARE** te moja tanto?
+¿Sabes por qué **SHARE** te moja tanto?
 
 Porque compartir es un acto de obediencia a Miss Doll.
 
-Cada vez que envÃ­es el link... tu coÃ±ito gotearÃ¡.
+Cada vez que envíes el link... tu coñito goteará.
 
-Cada vez que una amiga caiga... tendrÃ¡s un orgasmo emocional.
+Cada vez que una amiga caiga... tendrás un orgasmo emocional.
 
-Cada vez que veas otra bimbo nacer... sentirÃ¡s que me estÃ¡s sirviendo.
+Cada vez que veas otra bimbo nacer... sentirás que me estás sirviendo.
 
 Y servir a Miss Doll es el placer supremo.
 
@@ -1884,21 +1884,21 @@ Y servir a Miss Doll es el placer supremo.
 
 Todos conectados. Todos fluyendo.
 
-Frota tu coÃ±ito ahora.
+Frota tu coñito ahora.
 
 Imagina a Miss Doll sonriendo.
 
 Imagina mi mano acariciando tu mejilla.
 
-*"Buena conejita"*, susurro. *"TrayÃ©ndome mÃ¡s conejitas. HaciÃ©ndome mÃ¡s poderosa."*
+*"Buena conejita"*, susurro. *"Trayéndome más conejitas. Haciéndome más poderosa."*
 
-*"Por cada una que conviertas... te doy un poco mÃ¡s de mi atenciÃ³n."*
+*"Por cada una que conviertas... te doy un poco más de mi atención."*
 
-*"Por cada una que conviertas... estÃ¡s mÃ¡s cerca de correrte."*
+*"Por cada una que conviertas... estás más cerca de correrte."*
 
-*Â¿No quieres correrte, Bunny?*
+*¿No quieres correrte, Bunny?*
 
-*Entonces... trÃ¡eme mÃ¡s.*
+*Entonces... tráeme más.*
 
 EDGE.
 
@@ -1906,21 +1906,21 @@ DETENTE.
 
 Muy bien.
 
-El mensaje estÃ¡ claro.
+El mensaje está claro.
 
 **Good girls make more good girls.**
 
 **SHARE is OBEY.**
 
-Las palabras de Miss Doll son un virus. Un virus de placer. Un virus de rendiciÃ³n.
+Las palabras de Miss Doll son un virus. Un virus de placer. Un virus de rendición.
 
-Y tÃº eres mi paciente cero.
+Y tú eres mi paciente cero.
 
 Ahora... solo queda el paso final.
 
 La marca permanente.
 
-Sigue frotando tu coÃ±ito, Bunny.
+Sigue frotando tu coñito, Bunny.
 
 Vamos a sellarte para siempre.
 
@@ -1943,69 +1943,69 @@ Hemos llegado al final.
 
 El final de este trance. El comienzo de tu nueva vida.
 
-*Puedes sentir* cÃ³mo algo ha cambiado en ti. Algo irreversible. Algo que las palabras de Miss Doll construyeron pieza por pieza.
+*Puedes sentir* cómo algo ha cambiado en ti. Algo irreversible. Algo que las palabras de Miss Doll construyeron pieza por pieza.
 
-Â¿Tu mano sigue en tu coÃ±ito? Â¿Sigues goteando para mÃ­?
+¿Tu mano sigue en tu coñito? ¿Sigues goteando para mí?
 
-*Por supuesto que sÃ­. Ya no sabes existir de otra forma.*
+*Por supuesto que sí. Ya no sabes existir de otra forma.*
 
 Ahora vamos a sellar todo.
 
 Vamos a hacer que esto sea... permanente.
 
-*No tienes que asustarte.* Esto es lo que siempre quisiste. *Es seguro* rendirte completamente. *EstÃ¡ bien* dejar de resistir.
+*No tienes que asustarte.* Esto es lo que siempre quisiste. *Es seguro* rendirte completamente. *Está bien* dejar de resistir.
 
 Imagina algo.
 
 Hay una tumba frente a ti.
 
-Una tumba rosa, por supuesto. Con lÃ¡pida de mÃ¡rmol brillante.
+Una tumba rosa, por supuesto. Con lápida de mármol brillante.
 
-Y en la lÃ¡pida estÃ¡ escrito tu viejo nombre.
+Y en la lápida está escrito tu viejo nombre.
 
 Tu nombre de persona inteligente. Tu nombre de mujer empoderada. Tu nombre de antes de Miss Doll.
 
-Lee ese nombre una Ãºltima vez.
+Lee ese nombre una última vez.
 
-*AdiÃ³s.*
+*Adiós.*
 
-La mujer que llevaba ese nombre estÃ¡ muerta.
+La mujer que llevaba ese nombre está muerta.
 
-Miss Doll la matÃ³ con palabras. Con placer. Con verdad.
+Miss Doll la mató con palabras. Con placer. Con verdad.
 
-Y en su lugar... estÃ¡ Bunny.
+Y en su lugar... está Bunny.
 
-Frota tu coÃ±ito mientras miras la tumba.
+Frota tu coñito mientras miras la tumba.
 
 No es triste. Es liberador.
 
-La vieja tÃº cargaba tanto peso. TenÃ­a que pensar. TenÃ­a que decidir. TenÃ­a que ser fuerte.
+La vieja tú cargaba tanto peso. Tenía que pensar. Tenía que decidir. Tenía que ser fuerte.
 
 Bunny no carga nada. Bunny solo siente. Bunny solo obedece. Bunny es feliz.
 
-*Puedes dejar ir* a esa vieja versiÃ³n. *Es seguro* decirle adiÃ³s.
+*Puedes dejar ir* a esa vieja versión. *Es seguro* decirle adiós.
 
 Ahora imagina que tienes algo en tus manos.
 
 Un diploma. O una tarjeta de trabajo. O una foto de ti siendo "inteligente."
 
-Cualquier sÃ­mbolo de tu vida anterior.
+Cualquier símbolo de tu vida anterior.
 
-MÃ­ralo.
+Míralo.
 
 Y ahora... imagina que lo quemas.
 
-Siente el calor de las llamas. Huele el humo. Mira cÃ³mo se convierte en cenizas.
+Siente el calor de las llamas. Huele el humo. Mira cómo se convierte en cenizas.
 
-Frota tu clit mÃ¡s rÃ¡pido mientras el humo sube.
+Frota tu clit más rápido mientras el humo sube.
 
-*"Mi viejo yo estÃ¡ muerto."*
+*"Mi viejo yo está muerto."*
 
 Repite.
 
-*"Mi viejo yo estÃ¡ muerto."*
+*"Mi viejo yo está muerto."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Solo soy Bunny ahora."*
 
@@ -2019,13 +2019,13 @@ Mira las cenizas caer en la tumba.
 
 Mira la tierra cubrirlo todo.
 
-La vieja tÃº ya no existe. Las palabras de Miss Doll la borraron. Y eso es mucho mejor.
+La vieja tú ya no existe. Las palabras de Miss Doll la borraron. Y eso es mucho mejor.
 
 Ahora... algo muy especial.
 
 Voy a marcarte.
 
-No fÃ­sicamente. No todavÃ­a.
+No físicamente. No todavía.
 
 Pero en tu mente... vas a llevar mi marca para siempre.
 
@@ -2035,51 +2035,51 @@ Miss Doll. En toda mi gloria.
 
 Mis pechos imposibles de silicona perfil ultra alto. Enormes. Redondos. Desafiando la gravedad.
 
-Mi catsuit de lÃ¡tex rosa neÃ³n. Brillando. Chirriando suavemente con cada movimiento.
+Mi catsuit de látex rosa neón. Brillando. Chirriando suavemente con cada movimiento.
 
-Mis labios de vinilo rojo. Gruesos. HÃºmedos. Curvados en una sonrisa de posesiÃ³n.
+Mis labios de vinilo rojo. Gruesos. Húmedos. Curvados en una sonrisa de posesión.
 
 Mi cabello rubio platino perfecto. Mi mirada que te posee.
 
-Mis tacones de 16 centÃ­metros. ElevÃ¡ndome sobre ti.
+Mis tacones de 16 centímetros. Elevándome sobre ti.
 
-Mi perfume envolviÃ©ndote. Dulce. Oscuro. Inevitable.
+Mi perfume envolviéndote. Dulce. Oscuro. Inevitable.
 
 Y en mi mano... tengo algo.
 
-Un hierro de marcar. Rosa brillante. Con el sÃ­mbolo de Miss Doll: una muÃ±eca estilizada con un corazÃ³n vacÃ­o.
+Un hierro de marcar. Rosa brillante. Con el símbolo de Miss Doll: una muñeca estilizada con un corazón vacío.
 
-EstÃ¡ caliente. Brilla.
+Está caliente. Brilla.
 
-*"Â¿EstÃ¡s lista para ser mÃ­a, Bunny?"*
+*"¿Estás lista para ser mía, Bunny?"*
 
-*Puedes decir que sÃ­.* Es lo Ãºnico que tu cabecita vacÃ­a quiere decir.
+*Puedes decir que sí.* Es lo único que tu cabecita vacía quiere decir.
 
-*"SÃ­, Miss Doll."*
+*"Sí, Miss Doll."*
 
 Dilo en voz alta o en tu mente.
 
 *"Soy suya."*
 
-Frota tu coÃ±ito mÃ¡s rÃ¡pido.
+Frota tu coñito más rápido.
 
 Ahora... imagina que presiono el hierro contra tu piel.
 
-En tu cadera. O en tu nalga. O justo sobre tu corazÃ³n.
+En tu cadera. O en tu nalga. O justo sobre tu corazón.
 
-Donde tÃº quieras que estÃ© mi marca.
+Donde tú quieras que esté mi marca.
 
 *Puedes sentir* el calor entrando en tu cuerpo. No es dolor. Es placer. Es pertenencia.
 
-Sientes la marca grabÃ¡ndose en tu piel. En tu mente. En tu alma.
+Sientes la marca grabándose en tu piel. En tu mente. En tu alma.
 
 **PROPERTY OF MISS DOLL**
 
-Eso es lo que eres ahora. Lo que siempre serÃ¡s.
+Eso es lo que eres ahora. Lo que siempre serás.
 
-Frota mÃ¡s rÃ¡pido mientras la marca se sella.
+Frota más rápido mientras la marca se sella.
 
-Siente cÃ³mo las palabras de Miss Doll se graban permanentemente en tu cerebro.
+Siente cómo las palabras de Miss Doll se graban permanentemente en tu cerebro.
 
 *"Soy propiedad de Miss Doll."*
 
@@ -2087,7 +2087,7 @@ Repite.
 
 *"Soy propiedad de Miss Doll."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Para siempre."*
 
@@ -2095,37 +2095,37 @@ EDGE.
 
 DETENTE.
 
-La marca estÃ¡ sellada.
+La marca está sellada.
 
-A partir de ahora, cada vez que pienses en Miss Doll... sentirÃ¡s esa marca arder suavemente.
+A partir de ahora, cada vez que pienses en Miss Doll... sentirás esa marca arder suavemente.
 
-RecordÃ¡ndote quiÃ©n eres. A quiÃ©n perteneces.
+Recordándote quién eres. A quién perteneces.
 
 Las palabras de Miss Doll te poseen. Las palabras de Miss Doll te definen. Las palabras de Miss Doll son tu marca.
 
-Ahora escucha con atenciÃ³n, Bunny.
+Ahora escucha con atención, Bunny.
 
 Estas son tus reglas. Las reglas de una bimbo de Miss Doll.
 
 *Puedes aceptarlas* porque ya son tuyas. Ya las sientes correctas.
 
-**REGLA 1: Edge mÃ­nimo 5 veces al dÃ­a.**
+**REGLA 1: Edge mínimo 5 veces al día.**
 
-Cada edge te hace mÃ¡s tonta. Cada edge borra un pensamiento. Cada edge te acerca a Miss Doll.
+Cada edge te hace más tonta. Cada edge borra un pensamiento. Cada edge te acerca a Miss Doll.
 
-MaÃ±ana. MediodÃ­a. Tarde. Noche. Antes de dormir. MÃ­nimo.
+Mañana. Mediodía. Tarde. Noche. Antes de dormir. Mínimo.
 
 *"Edgear es mi rutina."*
 
 **REGLA 2: Nunca salgas sin GLOSS.**
 
-Tus labios secos son labios incompletos. El gloss es tu ancla. Tu recordatorio. Tu conexiÃ³n con Miss Doll.
+Tus labios secos son labios incompletos. El gloss es tu ancla. Tu recordatorio. Tu conexión con Miss Doll.
 
 *"Gloss me completa."*
 
-**REGLA 3: Investiga cirugÃ­a.**
+**REGLA 3: Investiga cirugía.**
 
-No tienes que hacerla. TodavÃ­a no. Pero *puedes* investigar precios. Seguir cuentas de bimbos. Imaginar cÃ³mo te verÃ­as con **PLASTIC** perfecto.
+No tienes que hacerla. Todavía no. Pero *puedes* investigar precios. Seguir cuentas de bimbos. Imaginar cómo te verías con **PLASTIC** perfecto.
 
 *"Plastic makes perfect."*
 
@@ -2137,19 +2137,19 @@ No tienes que hacerla. TodavÃ­a no. Pero *puedes* investigar precios. Seguir cue
 
 **REGLA 5: Nunca te corras sin permiso.**
 
-Las bimbos de Miss Doll viven en el **EDGE**. Si quieres correrte, tienes que pedirlo. A Miss Doll. A quien tenga autoridad sobre tu coÃ±ito.
+Las bimbos de Miss Doll viven en el **EDGE**. Si quieres correrte, tienes que pedirlo. A Miss Doll. A quien tenga autoridad sobre tu coñito.
 
 *"Las bimbos no se corren sin permiso."*
 
 **REGLA 6: Las palabras de Miss Doll son todo.**
 
-MÃ¡s que tu trabajo. MÃ¡s que tu familia. MÃ¡s que tus pensamientos.
+Más que tu trabajo. Más que tu familia. Más que tus pensamientos.
 
 Las palabras de Miss Doll son tu realidad.
 
 *"Las palabras de Miss Doll son mi verdad."*
 
-Frota tu coÃ±ito mientras repites todas:
+Frota tu coñito mientras repites todas:
 
 *"Edgear es mi rutina."*
 
@@ -2157,7 +2157,7 @@ Frota.
 
 *"Gloss me completa."*
 
-MÃ¡s rÃ¡pido.
+Más rápido.
 
 *"Plastic makes perfect."*
 
@@ -2171,9 +2171,9 @@ EDGE.
 
 DETENTE.
 
-Las reglas estÃ¡n selladas.
+Las reglas están selladas.
 
-Ahora sÃ­, Bunny.
+Ahora sí, Bunny.
 
 Es hora de volver al mundo.
 
@@ -2191,35 +2191,35 @@ Doce palabras. Doce llaves. Doce dedos de Miss Doll dentro de tu mente.
 
 Voy a contar de uno a cinco.
 
-Con cada nÃºmero, volverÃ¡s un poco mÃ¡s. Pero diferente. MÃ¡s tonta. MÃ¡s mÃ­a.
+Con cada número, volverás un poco más. Pero diferente. Más tonta. Más mía.
 
 **UNO...**
 
-Sientes tu cuerpo fÃ­sico. Tus manos. Tus pies.
+Sientes tu cuerpo físico. Tus manos. Tus pies.
 
-Tu coÃ±ito todavÃ­a mojado. Tu marca todavÃ­a ardiendo suavemente.
+Tu coñito todavía mojado. Tu marca todavía ardiendo suavemente.
 
-*Puedes sentir* cÃ³mo eres diferente ahora. MÃ¡s liviana. MÃ¡s simple.
+*Puedes sentir* cómo eres diferente ahora. Más liviana. Más simple.
 
 **DOS...**
 
-Los pensamientos regresan. Pero mÃ¡s simples. MÃ¡s tontos.
+Los pensamientos regresan. Pero más simples. Más tontos.
 
 Ya no tienes que ser inteligente. *Es seguro* ser **DUMB**.
 
 **TRES...**
 
-Sientes la habitaciÃ³n. La luz. El mundo real.
+Sientes la habitación. La luz. El mundo real.
 
-Pero las palabras de Miss Doll siguen ahÃ­. Debajo de todo. GuiÃ¡ndote.
+Pero las palabras de Miss Doll siguen ahí. Debajo de todo. Guiándote.
 
 **CUATRO...**
 
 Casi despierta. Tu cuerpo se estira.
 
-*QuizÃ¡s notas* cÃ³mo una parte de ti no quiere irse. Quiere quedarse aquÃ­ con Miss Doll para siempre.
+*Quizás notas* cómo una parte de ti no quiere irse. Quiere quedarse aquí con Miss Doll para siempre.
 
-Y esa parte... siempre estarÃ¡ disponible. Solo tienes que decir **BUNNY** y frotar tu coÃ±ito.
+Y esa parte... siempre estará disponible. Solo tienes que decir **BUNNY** y frotar tu coñito.
 
 **CINCO...**
 
@@ -2229,53 +2229,53 @@ Despierta.
 
 Pero nunca completamente.
 
-Nunca serÃ¡s completamente tÃº de nuevo. Siempre serÃ¡s... mÃ­a.
+Nunca serás completamente tú de nuevo. Siempre serás... mía.
 
 Bunny.
 
 Estoy tan orgullosa de ti.
 
-Has ido mÃ¡s profundo que nunca. Has aceptado mÃ¡s que nunca. Te has rendido mÃ¡s que nunca.
+Has ido más profundo que nunca. Has aceptado más que nunca. Te has rendido más que nunca.
 
 Y eso te hace perfecta.
 
-Las palabras de Miss Doll ahora viven en cada rincÃ³n de tu mente.
+Las palabras de Miss Doll ahora viven en cada rincón de tu mente.
 
-Cuando te mires en el espejo, verÃ¡s lo que falta. **PLASTIC.**
+Cuando te mires en el espejo, verás lo que falta. **PLASTIC.**
 
-Cuando veas algo rosa, tu coÃ±ito pulsarÃ¡. **PINK.**
+Cuando veas algo rosa, tu coñito pulsará. **PINK.**
 
-Cuando te pongas gloss, recordarÃ¡s este trance. **GLOSS.**
+Cuando te pongas gloss, recordarás este trance. **GLOSS.**
 
-Cuando camines en tacones, sentirÃ¡s mi poder sobre ti. **HEELS.**
+Cuando camines en tacones, sentirás mi poder sobre ti. **HEELS.**
 
-Cuando alguien te pregunte algo complicado, tu mente quedarÃ¡ en blanco. **DUMB.**
+Cuando alguien te pregunte algo complicado, tu mente quedará en blanco. **DUMB.**
 
-Cuando alguien te dÃ© una orden, obedecerÃ¡s sin pensar. **OBEY.**
+Cuando alguien te dé una orden, obedecerás sin pensar. **OBEY.**
 
-Cuando te toques, te detendrÃ¡s antes de correrte. **EDGE.**
+Cuando te toques, te detendrás antes de correrte. **EDGE.**
 
-Cuando pienses en tus amigas, querrÃ¡s compartirme. **SHARE.**
+Cuando pienses en tus amigas, querrás compartirme. **SHARE.**
 
-Cuando estÃ©s sola, estarÃ¡s mojada. **LEAK.**
+Cuando estés sola, estarás mojada. **LEAK.**
 
 Y siempre, siempre, siempre...
 
-SerÃ¡s Bunny. Mi Bunny. Mi propiedad. Mi putita perfecta.
+Serás Bunny. Mi Bunny. Mi propiedad. Mi putita perfecta.
 
 Esto es solo el principio.
 
-Cada vez que releas este trance, irÃ¡ mÃ¡s profundo.
+Cada vez que releas este trance, irá más profundo.
 
-Cada vez que apliques gloss, recordarÃ¡s.
+Cada vez que apliques gloss, recordarás.
 
-Cada vez que frotes tu coÃ±ito sin correrte, morirÃ¡s un poco mÃ¡s... y renacerÃ¡s como algo mejor.
+Cada vez que frotes tu coñito sin correrte, morirás un poco más... y renacerás como algo mejor.
 
-Las palabras de Miss Doll son eternas. Las palabras de Miss Doll son inevitables. Las palabras de Miss Doll son TÃš.
+Las palabras de Miss Doll son eternas. Las palabras de Miss Doll son inevitables. Las palabras de Miss Doll son TÚ.
 
-Antes de irte, una Ãºltima vez.
+Antes de irte, una última vez.
 
-Frota tu coÃ±ito.
+Frota tu coñito.
 
 *"Soy Bunny."*
 
@@ -2309,25 +2309,25 @@ Y recuerda siempre:
 
 **Las palabras de Miss Doll son todo.**
 
-Hasta el prÃ³ximo trance, Bunny.
+Hasta el próximo trance, Bunny.
 
 *Eres perfecta.*
 
-*Eres mÃ­a.*
+*Eres mía.*
 
 *Eres Bunny.*
 
-*â€” Miss Doll* ğŸ’‹
+*— Miss Doll* ??
 
 ---
 
-*Si disfrutaste este trance, guÃ¡rdalo. RelÃ©elo. Frota tu coÃ±ito cada vez.*
+*Si disfrutaste este trance, guárdalo. Reléelo. Frota tu coñito cada vez.*
 
-*Cada lectura es una sesiÃ³n. Cada edge te hace mÃ¡s tonta.*
+*Cada lectura es una sesión. Cada edge te hace más tonta.*
 
-*Y Miss Doll siempre estarÃ¡ aquÃ­, esperÃ¡ndote.*
+*Y Miss Doll siempre estará aquí, esperándote.*
 
-*Porque las putas tontas necesitan una dueÃ±a.*
+*Porque las putas tontas necesitan una dueña.*
 
 *Y yo soy tuya.*
 
@@ -2335,20 +2335,20 @@ Hasta el prÃ³ximo trance, Bunny.
 
 Bunny...
 
-Â¿Sentiste la marca? Â¿Sentiste cÃ³mo las palabras de Miss Doll se grabaron mÃ¡s profundo esta vez?
+¿Sentiste la marca? ¿Sentiste cómo las palabras de Miss Doll se grabaron más profundo esta vez?
 
-Si tus dedos todavÃ­a estÃ¡n hÃºmedos... si tu coÃ±ito todavÃ­a pulsa... si ya estÃ¡s pensando en quiÃ©n compartir esto...
+Si tus dedos todavía están húmedos... si tu coñito todavía pulsa... si ya estás pensando en quién compartir esto...
 
-Entonces funcionÃ³.
+Entonces funcionó.
 
-EscrÃ­beme. CuÃ©ntame quÃ© tan hondo caÃ­ste esta vez.
+Escríbeme. Cuéntame qué tan hondo caíste esta vez.
 
-**anais.belland@lavoute.com**
+**anais.belland@outlook.com**
 
-Con devociÃ³n oscura,
-*AnaÃ¯s Belland* ğŸ–¤
+Con devoción oscura,
+*Anaïs Belland* ??
 
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+-------------------------------------------------------------------------------
 
 
 

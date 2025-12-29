@@ -472,5 +472,5 @@ Mientras tanto, Julia observaba desde un lado, sentada en la cama. Su mano se ha
 
 Sí este relato ha despertado algo en ti. Un anhelo. Un deseo que quizás no sabían que tenían. Un deseo de poder, de sumisión, de transformación. Si han disfrutado leyendo sobre la rendición, imaginen lo que es sentirlo. Imaginen el poder de ser el amo.
 
-No esperen más. Escribanme. Cúentenme sus fantasías más oscuras, sus deseos más profundos. Quiero leerlos. Quiero sentirlos. Envíenme sus secretos a anaisbelland@outlook.com. Y quizás, solo quizás, su fantasía favorita se convertirá en mi próxima obra maestra.
+No esperen más. Escribanme. Cúentenme sus fantasías más oscuras, sus deseos más profundos. Quiero leerlos. Quiero sentirlos. Envíenme sus secretos a anais.belland@outlook.com. Y quizás, solo quizás, su fantasía favorita se convertirá en mi próxima obra maestra.
 

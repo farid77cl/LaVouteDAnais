@@ -226,7 +226,7 @@ Crear una versión HTML limpia para copiar y pegar en el editor de publicación.
 <p><strong>Fin</strong></p>
 <hr>
 <p>Nota de la autora con llamado sensual...</p>
-<p>📧 AnaisBelland@outlook.com</p>
+<p>📧 anais.belland@outlook.com</p>
 <p><em>Avec dévotion obscure,</em><br>
 <strong>Anaïs Belland</strong></p>
 ```

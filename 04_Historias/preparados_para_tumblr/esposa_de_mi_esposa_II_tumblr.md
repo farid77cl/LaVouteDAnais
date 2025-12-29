@@ -38,7 +38,7 @@ Y lo peor —lo que no podía admitir ni en la oscuridad de sus pensamientos— 
 
 **[Continúa en Parte 2...]**
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 
@@ -94,7 +94,7 @@ Elena sonrió. Esa sonrisa nueva. La que prometía cosas terribles y deliciosas.
 
 **[Continúa en Parte 3...]**
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 
@@ -154,7 +154,7 @@ Marco cerró los ojos y sintió cómo una parte de ella —de él, ¿importaba y
 
 **[Continúa en Parte 4...]**
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 
@@ -210,7 +210,7 @@ Y aun así, cuando las tres la miraban con envidia, algo en Marco se hinchaba de
 
 **[Continúa en Parte 5...]**
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 
@@ -280,7 +280,7 @@ Solo de las palabras. Solo de la humillación. Solo de la rendición total.
 
 **[Continúa en Parte 6 - FINAL...]**
 
-📧 AnaisBelland@outlook.com
+📧 anais.belland@outlook.com
 
 ---
 
@@ -346,7 +346,7 @@ Elena sonrió. Esa sonrisa que Marco había aprendido a amar y temer en igual me
 
 *¿Esta historia resonó en ti? ¿Reconociste algo de ti mismo en Marco —esa parte que secretamente anhela soltar el control?*
 
-*Escríbeme: **AnaisBelland@outlook.com***
+*Escríbeme: **anais.belland@outlook.com***
 
 *Con devoción oscura,*
 *Anaïs Belland 🖤*

@@ -192,4 +192,4 @@ Miré el conjunto de lencería en mis manos. Ya no era solo una prenda. Era mi n
 
 ***
 
-P.D. Si las palabras de Luis han resonado en ti, si has sentido el calor de su transformación y el peso de sus nuevas tetitas, me encantaría saberlo. Escribe a Anais.belland@outlook.com y cuéntame qué sintió, qué despertó en ti. Y si anhelas conocer el siguiente paso, el momento en que la fantasía se vuelve realidad... solo tienes que preguntar.
+P.D. Si las palabras de Luis han resonado en ti, si has sentido el calor de su transformación y el peso de sus nuevas tetitas, me encantaría saberlo. Escribe a anais.belland@outlook.com y cuéntame qué sintió, qué despertó en ti. Y si anhelas conocer el siguiente paso, el momento en que la fantasía se vuelve realidad... solo tienes que preguntar.

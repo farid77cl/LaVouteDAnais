@@ -1,9 +1,9 @@
-ï»¿
+
                     PROYECTO TRAD-WIFE: UNIDAD V.E.R.A.
 
  METADATOS DEL RELATO
 
-**TemÃ¡ticas:** #Bimbofication #MindControl #Transformation #TradWife #Latex #Pregnancy #Nanobots #Objectification
+**Temáticas:** #Bimbofication #MindControl #Transformation #TradWife #Latex #Pregnancy #Nanobots #Objectification
 
 **Palabras:** 13,150 aprox.
 
@@ -13,908 +13,908 @@
 
  RESUMEN GANCHO
 
-Una mecÃ¡nica orgullosa. Un cafÃ© contaminado. Una voz en su cabeza que susurra sumisiÃ³n. Vera descubre que la resistencia es inÃºtil cuando los nanobots reescriben su cuerpo y su mente. De trabajadora independiente a muÃ±eca de lÃ¡tex y ama de casa perfecta: un manual de reprogramaciÃ³n completa.
+Una mecánica orgullosa. Un café contaminado. Una voz en su cabeza que susurra sumisión. Vera descubre que la resistencia es inútil cuando los nanobots reescriben su cuerpo y su mente. De trabajadora independiente a muñeca de látex y ama de casa perfecta: un manual de reprogramación completa.
 
                               CUERPO DEL RELATO
 
-El taller "Hierro y Furia" no era solo un lugar de trabajo; era una armadura. Una catedral de hormigÃ³n y chapa corrugada donde el aire tenÃ­a una densidad propia, una mezcla pesada y embriagadora de aceite de motor quemado, gasolina de alto octanaje y el almizcle agrio del esfuerzo fÃ­sico. Para la mayorÃ­a de las mujeres, ese olor serÃ­a un repelente, una seÃ±al para arrugar la nariz y huir hacia la seguridad de los perfumes florales.
+El taller "Hierro y Furia" no era solo un lugar de trabajo; era una armadura. Una catedral de hormigón y chapa corrugada donde el aire tenía una densidad propia, una mezcla pesada y embriagadora de aceite de motor quemado, gasolina de alto octanaje y el almizcle agrio del esfuerzo físico. Para la mayoría de las mujeres, ese olor sería un repelente, una señal para arrugar la nariz y huir hacia la seguridad de los perfumes florales.
 
-Para Vera, era una segunda piel. O eso se decÃ­a a sÃ­ misma.
+Para Vera, era una segunda piel. O eso se decía a sí misma.
 
-Estaba de pie bajo el chasis elevado de una Ford F-150 del 85, con los brazos levantados y los mÃºsculos de los hombros tensos bajo la tela Ã¡spera de su mono de trabajo. La prenda, dos tallas mÃ¡s grande, ocultaba deliberadamente cualquier curva, convirtiÃ©ndola en una figura andrÃ³gina, una mÃ¡quina mÃ¡s entre las mÃ¡quinas. Pero bajo esa tela basta, su piel ardÃ­a. El sudor corrÃ­a por su espalda, un riachuelo caliente que le provocaba un escalofrÃ­o contradictorio.
+Estaba de pie bajo el chasis elevado de una Ford F-150 del 85, con los brazos levantados y los músculos de los hombros tensos bajo la tela áspera de su mono de trabajo. La prenda, dos tallas más grande, ocultaba deliberadamente cualquier curva, convirtiéndola en una figura andrógina, una máquina más entre las máquinas. Pero bajo esa tela basta, su piel ardía. El sudor corría por su espalda, un riachuelo caliente que le provocaba un escalofrío contradictorio.
 
-â€”Maldita sea, eres terca â€”gruÃ±Ã³, forcejeando con una tuerca oxidada. Su voz era ronca, forzada, como si estuviera interpretando un papel que le exigÃ­a demasiada energÃ­a.
+—Maldita sea, eres terca —gruñó, forcejeando con una tuerca oxidada. Su voz era ronca, forzada, como si estuviera interpretando un papel que le exigía demasiada energía.
 
-El sonido del metal contra el metal resonÃ³ en el taller, un "clank" seco y autoritario. Vera se limpiÃ³ el sudor de la frente con el antebrazo, dejando una mancha negra sobre su piel pÃ¡lida. Se mirÃ³ la mancha. Sucia. Dura. Real. AsÃ­ debÃ­a ser. Despreciaba lo "suave". Despreciaba las manos con manicura que nunca habÃ­an sentido la vibraciÃ³n de un motor. Despreciaba la idea de que ser mujer significaba ser decorativa.
+El sonido del metal contra el metal resonó en el taller, un "clank" seco y autoritario. Vera se limpió el sudor de la frente con el antebrazo, dejando una mancha negra sobre su piel pálida. Se miró la mancha. Sucia. Dura. Real. Así debía ser. Despreciaba lo "suave". Despreciaba las manos con manicura que nunca habían sentido la vibración de un motor. Despreciaba la idea de que ser mujer significaba ser decorativa.
 
-Pero a veces, en la soledad de la noche, cuando el cansancio le aflojaba las defensas, se preguntaba cÃ³mo se sentirÃ­a la seda. Solo por curiosidad, claro.
+Pero a veces, en la soledad de la noche, cuando el cansancio le aflojaba las defensas, se preguntaba cómo se sentiría la seda. Solo por curiosidad, claro.
 
-â€”Â¡Vera! â€”la voz de Hank retumbÃ³ desde la oficinaâ€”. Â¡Tienes cliente! Dice que es urgente.
+—¡Vera! —la voz de Hank retumbó desde la oficina—. ¡Tienes cliente! Dice que es urgente.
 
-Vera soltÃ³ un bufido, dejando caer la llave inglesa. El ruido fue innecesariamente fuerte. SaliÃ³ de debajo de la camioneta, sacudiÃ©ndose el polvo como un animal salvaje.
+Vera soltó un bufido, dejando caer la llave inglesa. El ruido fue innecesariamente fuerte. Salió de debajo de la camioneta, sacudiéndose el polvo como un animal salvaje.
 
-â€”Si es el idiota del BMW, le cobro doble â€”mascullÃ³, caminando hacia la entrada.
+—Si es el idiota del BMW, le cobro doble —masculló, caminando hacia la entrada.
 
-La luz de la tarde entraba en Ã¡ngulo, creando haces dorados donde bailaban las partÃ­culas de polvo. Y allÃ­, recortado contra la luz, estaba Ã©l.
+La luz de la tarde entraba en ángulo, creando haces dorados donde bailaban las partículas de polvo. Y allí, recortado contra la luz, estaba él.
 
 No era el del BMW. Era algo... diferente.
 
-El hombre parecÃ­a haber salido de una fantasÃ­a prohibida. Traje gris marengo cortado a medida, tan ajustado que delineaba un cuerpo firme y controlado. Zapatos de cuero italiano que brillaban con una obscenidad casi pornogrÃ¡fica en medio de tanta mugre. Pero fue su postura lo que detuvo a Vera en seco. Relajada. Dominante. Como si fuera el dueÃ±o del aire que respiraba.
+El hombre parecía haber salido de una fantasía prohibida. Traje gris marengo cortado a medida, tan ajustado que delineaba un cuerpo firme y controlado. Zapatos de cuero italiano que brillaban con una obscenidad casi pornográfica en medio de tanta mugre. Pero fue su postura lo que detuvo a Vera en seco. Relajada. Dominante. Como si fuera el dueño del aire que respiraba.
 
-Y detrÃ¡s de Ã©l, un sedÃ¡n blanco. Impoluto. Sin parrilla. Sin tubo de escape. Un elÃ©ctrico.
+Y detrás de él, un sedán blanco. Impoluto. Sin parrilla. Sin tubo de escape. Un eléctrico.
 
-Vera sintiÃ³ una punzada en el vientre. No fue ira, aunque su cerebro intentÃ³ etiquetarlo asÃ­. Fue una contracciÃ³n. Un espasmo involuntario de sus mÃºsculos internos.
+Vera sintió una punzada en el vientre. No fue ira, aunque su cerebro intentó etiquetarlo así. Fue una contracción. Un espasmo involuntario de sus músculos internos.
 
-Se cruzÃ³ de brazos, intentando escudarse tras su propia fuerza.
-â€”Estamos cerrados â€”dijo, su voz sonando mÃ¡s ronca de lo habitual.
+Se cruzó de brazos, intentando escudarse tras su propia fuerza.
+—Estamos cerrados —dijo, su voz sonando más ronca de lo habitual.
 
-El hombre se girÃ³. TenÃ­a una cara de simetrÃ­a perfecta, con una sonrisa leve que no llegaba a sus ojos. Ojos frÃ­os, analÃ­ticos. Ojos que la desnudaron en un segundo, ignorando el mono de trabajo y viendo la carne blanda y trÃ©mula que habÃ­a debajo.
+El hombre se giró. Tenía una cara de simetría perfecta, con una sonrisa leve que no llegaba a sus ojos. Ojos fríos, analíticos. Ojos que la desnudaron en un segundo, ignorando el mono de trabajo y viendo la carne blanda y trémula que había debajo.
 
-â€”El cartel dice "Abierto hasta las 18:00" â€”dijo Ã©l. Su voz era terciopelo lÃ­quido, una caricia auditiva que hizo que los pezones de Vera se endurecieran contra la tela Ã¡spera del mono.
+—El cartel dice "Abierto hasta las 18:00" —dijo él. Su voz era terciopelo líquido, una caricia auditiva que hizo que los pezones de Vera se endurecieran contra la tela áspera del mono.
 
-â€”El cartel es para coches â€”Vera seÃ±alÃ³ el vehÃ­culo blanco con desdÃ©n, intentando recuperar el controlâ€”. No reparamos vibradores con ruedas.
+—El cartel es para coches —Vera señaló el vehículo blanco con desdén, intentando recuperar el control—. No reparamos vibradores con ruedas.
 
-Esperaba que se ofendiera. QuerÃ­a que se ofendiera. Necesitaba que Ã©l fuera dÃ©bil para que ella pudiera seguir siendo fuerte.
+Esperaba que se ofendiera. Quería que se ofendiera. Necesitaba que él fuera débil para que ella pudiera seguir siendo fuerte.
 
-Pero Fernando no parpadeÃ³. Dio un paso hacia ella. El olor de su colonia la golpeÃ³: sÃ¡ndalo, ozono y algo metÃ¡lico, como sangre limpia. Vera tuvo que luchar para no inhalar profundamente.
+Pero Fernando no parpadeó. Dio un paso hacia ella. El olor de su colonia la golpeó: sándalo, ozono y algo metálico, como sangre limpia. Vera tuvo que luchar para no inhalar profundamente.
 
-â€”No es un problema de baterÃ­a â€”dijo Ã©l, ignorando su insulto con una calma que resultaba humillante y excitante a la vezâ€”. Es la suspensiÃ³n. Un "clic" rÃ­tmico en el eje trasero.
+—No es un problema de batería —dijo él, ignorando su insulto con una calma que resultaba humillante y excitante a la vez—. Es la suspensión. Un "clic" rítmico en el eje trasero.
 
-â€”Â¿Un "clic"? â€”Vera se riÃ³, pero la risa sonÃ³ nerviosaâ€”. Probablemente sea tu ego rebotando.
+—¿Un "clic"? —Vera se rió, pero la risa sonó nerviosa—. Probablemente sea tu ego rebotando.
 
-Se acercÃ³ al coche, invadiendo el espacio personal del hombre. QuerÃ­a intimidarlo. QuerÃ­a manchar su traje perfecto con su grasa. Pero al acercarse, sintiÃ³ el calor que emanaba de Ã©l. Un calor animal, controlado, peligroso.
+Se acercó al coche, invadiendo el espacio personal del hombre. Quería intimidarlo. Quería manchar su traje perfecto con su grasa. Pero al acercarse, sintió el calor que emanaba de él. Un calor animal, controlado, peligroso.
 
-â€”Mira, amigo. Yo trabajo con pistones. Con explosiones. Cosas que puedes sentir en los dientes. â€”GolpeÃ³ el capÃ³ del coche con la palma abierta, dejando una huella de grasa negra sobre el blanco inmaculado. Fue un acto de profanaciÃ³n.
+—Mira, amigo. Yo trabajo con pistones. Con explosiones. Cosas que puedes sentir en los dientes. —Golpeó el capó del coche con la palma abierta, dejando una huella de grasa negra sobre el blanco inmaculado. Fue un acto de profanación.
 
-Fernando mirÃ³ la mancha. Luego mirÃ³ la mano de Vera. Sus ojos recorrieron sus dedos sucios, sus uÃ±as cortas. Hubo un destello en su mirada. Hambre.
+Fernando miró la mancha. Luego miró la mano de Vera. Sus ojos recorrieron sus dedos sucios, sus uñas cortas. Hubo un destello en su mirada. Hambre.
 
-â€”El alma es ineficiente â€”dijo suavemente, dando un paso mÃ¡s, acorralÃ¡ndola contra su propio territorioâ€”. La fricciÃ³n es ineficiente. Este coche es el futuro, Vera. Silencioso. Limpio. Obediente.
+—El alma es ineficiente —dijo suavemente, dando un paso más, acorralándola contra su propio territorio—. La fricción es ineficiente. Este coche es el futuro, Vera. Silencioso. Limpio. Obediente.
 
-Vera sintiÃ³ un escalofrÃ­o recorrerle la columna, bajando hasta sus muslos. La palabra "obediente" quedÃ³ flotando en el aire, pesada y pegajosa.
+Vera sintió un escalofrío recorrerle la columna, bajando hasta sus muslos. La palabra "obediente" quedó flotando en el aire, pesada y pegajosa.
 
-â€”Yo no arreglo el futuro â€”susurrÃ³ ella, incapaz de mantener el volumen de su vozâ€”. LÃ¡rgate.
+—Yo no arreglo el futuro —susurró ella, incapaz de mantener el volumen de su voz—. Lárgate.
 
-Se dio la vuelta, huyendo. SÃ­, huyendo. Porque si se quedaba un segundo mÃ¡s cerca de ese hombre, sus rodillas iban a ceder.
+Se dio la vuelta, huyendo. Sí, huyendo. Porque si se quedaba un segundo más cerca de ese hombre, sus rodillas iban a ceder.
 
-â€”Pago el triple â€”dijo la voz a su espalda. Una orden, no una oferta.
+—Pago el triple —dijo la voz a su espalda. Una orden, no una oferta.
 
-Vera se detuvo. Su respiraciÃ³n era agitada. SentÃ­a el sudor acumulÃ¡ndose entre sus pechos, una humedad incÃ³moda y reveladora.
+Vera se detuvo. Su respiración era agitada. Sentía el sudor acumulándose entre sus pechos, una humedad incómoda y reveladora.
 
-â€”Y â€”continuÃ³ Fernandoâ€”, apuesto a que no puedes encontrar el fallo. Dicen que el diagnÃ³stico por ordenador da todo verde. QuizÃ¡s es demasiado complejo para unas manos tan... rÃºsticas.
+—Y —continuó Fernando—, apuesto a que no puedes encontrar el fallo. Dicen que el diagnóstico por ordenador da todo verde. Quizás es demasiado complejo para unas manos tan... rústicas.
 
-Vera se girÃ³ lentamente. La ira y el deseo se mezclaban en un cÃ³ctel tÃ³xico en su sangre.
-â€”Â¿Me estÃ¡s retando?
+Vera se giró lentamente. La ira y el deseo se mezclaban en un cóctel tóxico en su sangre.
+—¿Me estás retando?
 
-â€”Estoy diciendo que quizÃ¡s tu "fuerza" es solo una fachada para ocultar tu incompetencia ante la verdadera perfecciÃ³n.
+—Estoy diciendo que quizás tu "fuerza" es solo una fachada para ocultar tu incompetencia ante la verdadera perfección.
 
-Vera entrecerrÃ³ los ojos. El desafÃ­o le hizo vibrar el clÃ­toris. QuerÃ­a demostrarle que se equivocaba. Y, en una parte oscura de su mente, querÃ­a que Ã©l tuviera razÃ³n. QuerÃ­a que Ã©l la rompiera.
+Vera entrecerró los ojos. El desafío le hizo vibrar el clítoris. Quería demostrarle que se equivocaba. Y, en una parte oscura de su mente, quería que él tuviera razón. Quería que él la rompiera.
 
-â€”Mete esa cosa en el elevador dos â€”gruÃ±Ã³â€”. Pero te va a costar caro.
+—Mete esa cosa en el elevador dos —gruñó—. Pero te va a costar caro.
 
-Fernando sonriÃ³. Fue la sonrisa de un depredador que acaba de ver caer la trampa.
-â€”El precio no es un problema.
+Fernando sonrió. Fue la sonrisa de un depredador que acaba de ver caer la trampa.
+—El precio no es un problema.
 
-Mientras Ã©l movÃ­a el coche, Vera se frotÃ³ las manos con un trapo, intentando quitarse la sensaciÃ³n de debilidad. Pero sus manos temblaban. No de miedo. De anticipaciÃ³n.
+Mientras él movía el coche, Vera se frotó las manos con un trapo, intentando quitarse la sensación de debilidad. Pero sus manos temblaban. No de miedo. De anticipación.
 
-â€”Voy a por cafÃ© â€”dijo Fernando al salir del cocheâ€”. Â¿Te apetece uno?
+—Voy a por café —dijo Fernando al salir del coche—. ¿Te apetece uno?
 
-â€”Negro â€”dijo Vera, sin mirarlo, fijando la vista en el suelo para no ver lo bien que le quedaban los pantalonesâ€”. Como el aceite. Y fuerte.
+—Negro —dijo Vera, sin mirarlo, fijando la vista en el suelo para no ver lo bien que le quedaban los pantalones—. Como el aceite. Y fuerte.
 
-â€”Negro y fuerte. Entendido.
+—Negro y fuerte. Entendido.
 
-Vera lo vio salir. Su caminar era elegante, hipnÃ³tico. Cuando desapareciÃ³, soltÃ³ el aire que habÃ­a estado conteniendo.
+Vera lo vio salir. Su caminar era elegante, hipnótico. Cuando desapareció, soltó el aire que había estado conteniendo.
 
-Se girÃ³ hacia el coche blanco. Lo tocÃ³. La superficie era frÃ­a, lisa, perfecta.
-â€”Muy bien, juguete â€”murmurÃ³â€”. Vamos a ver quÃ© tienes dentro.
+Se giró hacia el coche blanco. Lo tocó. La superficie era fría, lisa, perfecta.
+—Muy bien, juguete —murmuró—. Vamos a ver qué tienes dentro.
 
-LevantÃ³ el capÃ³. Sin motor. Solo tecnologÃ­a. Cables naranjas que parecÃ­an venas. Vera se sintiÃ³ extraÃ±amente excitada al meter las manos en ese organismo cibernÃ©tico. Era una violaciÃ³n de sus principios, y eso lo hacÃ­a delicioso.
+Levantó el capó. Sin motor. Solo tecnología. Cables naranjas que parecían venas. Vera se sintió extrañamente excitada al meter las manos en ese organismo cibernético. Era una violación de sus principios, y eso lo hacía delicioso.
 
-No sabÃ­a que el verdadero virus no estaba en el coche. VenÃ­a en un vaso de cafÃ©, traÃ­do por un hombre que no buscaba una mecÃ¡nica, sino una muÃ±eca. Y Vera, con su grasa y su orgullo, estaba pidiendo a gritos ser pulida.
+No sabía que el verdadero virus no estaba en el coche. Venía en un vaso de café, traído por un hombre que no buscaba una mecánica, sino una muñeca. Y Vera, con su grasa y su orgullo, estaba pidiendo a gritos ser pulida.
 
-El taller quedÃ³ en silencio, salvo por el zumbido del coche, que sonaba como una respiraciÃ³n contenida, esperando el momento de penetrar en su mente.
+El taller quedó en silencio, salvo por el zumbido del coche, que sonaba como una respiración contenida, esperando el momento de penetrar en su mente.
 
-El silencio que dejÃ³ Fernando tras de sÃ­ no era de paz, sino de acecho. Era el silencio tenso que precede a una tormenta elÃ©ctrica, cargado de estÃ¡tica invisible. Vera se obligÃ³ a ignorarlo. Se sumergiÃ³ en las entraÃ±as del coche elÃ©ctrico, decidida a encontrar el fallo, no para ayudar al yuppie, sino para humillarlo. Para demostrarle que su "futuro perfecto" sangraba igual que cualquier mÃ¡quina vieja si sabÃ­as dÃ³nde cortar.
+El silencio que dejó Fernando tras de sí no era de paz, sino de acecho. Era el silencio tenso que precede a una tormenta eléctrica, cargado de estática invisible. Vera se obligó a ignorarlo. Se sumergió en las entrañas del coche eléctrico, decidida a encontrar el fallo, no para ayudar al yuppie, sino para humillarlo. Para demostrarle que su "futuro perfecto" sangraba igual que cualquier máquina vieja si sabías dónde cortar.
 
 Pero sus manos... sus manos la traicionaban.
 
-Cada vez que tocaba un cable, sentÃ­a una vibraciÃ³n que no deberÃ­a estar ahÃ­. Un zumbido que subÃ­a por sus dedos y se alojaba en la base de su crÃ¡neo.
+Cada vez que tocaba un cable, sentía una vibración que no debería estar ahí. Un zumbido que subía por sus dedos y se alojaba en la base de su cráneo.
 
-â€”ConcÃ©ntrate, joder â€”mascullÃ³.
+—Concéntrate, joder —masculló.
 
-BebiÃ³ un sorbo del cafÃ© que Fernando le habÃ­a traÃ­do. Estaba frÃ­o. Y dulce. Demasiado dulce. Vera odiaba el azÃºcar. Pero, por alguna razÃ³n, su garganta se abriÃ³ con avidez, tragando el lÃ­quido negro como si fuera nÃ©ctar.
+Bebió un sorbo del café que Fernando le había traído. Estaba frío. Y dulce. Demasiado dulce. Vera odiaba el azúcar. Pero, por alguna razón, su garganta se abrió con avidez, tragando el líquido negro como si fuera néctar.
 
-*Delicioso*, susurrÃ³ una voz en su cabeza.
+*Delicioso*, susurró una voz en su cabeza.
 
-Vera se congelÃ³. MirÃ³ a su alrededor. El taller estaba vacÃ­o.
+Vera se congeló. Miró a su alrededor. El taller estaba vacío.
 
-â€”Â¿Hank? â€”llamÃ³. Nadie respondiÃ³.
+—¿Hank? —llamó. Nadie respondió.
 
-Se frotÃ³ las sienes. El estrÃ©s. TenÃ­a que ser el estrÃ©s.
+Se frotó las sienes. El estrés. Tenía que ser el estrés.
 
-VolviÃ³ al coche. ConectÃ³ el ordenador de diagnÃ³stico. La pantalla parpadeÃ³. CÃ³digos binarios corrÃ­an en cascada, verdes y rÃ¡pidos.
+Volvió al coche. Conectó el ordenador de diagnóstico. La pantalla parpadeó. Códigos binarios corrían en cascada, verdes y rápidos.
 
 *01001000 01101111 01101100 01100001*
 
-â€”Â¿QuÃ© mierda...? â€”Vera golpeÃ³ la pantalla.
+—¿Qué mierda...? —Vera golpeó la pantalla.
 
-De repente, los nÃºmeros se detuvieron. Y formaron una frase.
+De repente, los números se detuvieron. Y formaron una frase.
 
-**SISTEMA COMPATIBLE ENCONTRADO. INICIANDO SINCRONIZACIÃ“N.**
+**SISTEMA COMPATIBLE ENCONTRADO. INICIANDO SINCRONIZACIÓN.**
 
-Vera retrocediÃ³, tropezando con una caja de herramientas. El cafÃ© se le cayÃ³ de la mano, derramÃ¡ndose por el suelo. Pero no parecÃ­a cafÃ©. A la luz de los fluorescentes, el lÃ­quido brillaba con un tono plateado, moviÃ©ndose casi como si tuviera vida propia antes de ser absorbido por el hormigÃ³n poroso.
+Vera retrocedió, tropezando con una caja de herramientas. El café se le cayó de la mano, derramándose por el suelo. Pero no parecía café. A la luz de los fluorescentes, el líquido brillaba con un tono plateado, moviéndose casi como si tuviera vida propia antes de ser absorbido por el hormigón poroso.
 
-SintiÃ³ un calor repentino en el estÃ³mago. No era nÃ¡usea. Era... hambre. Un vacÃ­o que se expandÃ­a, exigiendo ser llenado.
+Sintió un calor repentino en el estómago. No era náusea. Era... hambre. Un vacío que se expandía, exigiendo ser llenado.
 
-*No tengas miedo*, dijo la voz de nuevo. Esta vez fue mÃ¡s clara. MÃ¡s suave. Sonaba como ella misma, pero... mejorada. MÃ¡s femenina. MÃ¡s dÃ³cil. *Es solo una actualizaciÃ³n.*
+*No tengas miedo*, dijo la voz de nuevo. Esta vez fue más clara. Más suave. Sonaba como ella misma, pero... mejorada. Más femenina. Más dócil. *Es solo una actualización.*
 
-â€”Â¡Sal de mi cabeza! â€”gritÃ³ Vera, agarrÃ¡ndose el pelo.
+—¡Sal de mi cabeza! —gritó Vera, agarrándose el pelo.
 
 El sonido de unos pasos la hizo girar.
 
-Fernando estaba en la puerta del taller. No se habÃ­a ido. Estaba apoyado en el marco, observÃ¡ndola con esa calma depredadora.
+Fernando estaba en la puerta del taller. No se había ido. Estaba apoyado en el marco, observándola con esa calma depredadora.
 
-â€”Parece que el cafÃ© te ha sentado bien â€”dijo.
+—Parece que el café te ha sentado bien —dijo.
 
-â€”Â¿QuÃ© me has dado? â€”Vera intentÃ³ avanzar hacia Ã©l, amenazante. Pero sus piernas se sentÃ­an pesadas, torpes. O quizÃ¡s... Â¿ligeras?
+—¿Qué me has dado? —Vera intentó avanzar hacia él, amenazante. Pero sus piernas se sentían pesadas, torpes. O quizás... ¿ligeras?
 
-â€”Solo un poco de ayuda. Para que veas las cosas con mÃ¡s claridad.
+—Solo un poco de ayuda. Para que veas las cosas con más claridad.
 
-Fernando caminÃ³ hacia ella. Vera quiso retroceder, pero sus pies no se movieron. Estaban clavados al suelo, como si unas raÃ­ces invisibles estuvieran creciendo desde sus suelas.
+Fernando caminó hacia ella. Vera quiso retroceder, pero sus pies no se movieron. Estaban clavados al suelo, como si unas raíces invisibles estuvieran creciendo desde sus suelas.
 
-Ã‰l se detuvo a un centÃ­metro de ella. PodÃ­a sentir su calor. PodÃ­a oler ese aroma a metal y almizcle que la mareaba.
+Él se detuvo a un centímetro de ella. Podía sentir su calor. Podía oler ese aroma a metal y almizcle que la mareaba.
 
-â€”EstÃ¡s rota, Vera â€”susurrÃ³ Ã©l.
+—Estás rota, Vera —susurró él.
 
-â€”Vete a la mierda.
+—Vete a la mierda.
 
-â€”EstÃ¡s rota â€”repitiÃ³, levantando una mano para tocarle la cara. Vera se estremeciÃ³, pero no se apartÃ³â€”. Tienes grietas por todas partes. Grietas llenas de grasa y rabia. Pero no te preocupes. Yo tengo la masilla perfecta.
+—Estás rota —repitió, levantando una mano para tocarle la cara. Vera se estremeció, pero no se apartó—. Tienes grietas por todas partes. Grietas llenas de grasa y rabia. Pero no te preocupes. Yo tengo la masilla perfecta.
 
-Su dedo trazÃ³ la lÃ­nea de su mandÃ­bula. Donde Ã©l tocaba, la piel de Vera ardÃ­a. Era un fuego elÃ©ctrico, un cortocircuito placentero que hacÃ­a que sus rodillas temblaran.
+Su dedo trazó la línea de su mandíbula. Donde él tocaba, la piel de Vera ardía. Era un fuego eléctrico, un cortocircuito placentero que hacía que sus rodillas temblaran.
 
-*DÃ©jale*, susurrÃ³ la voz interna. *DÃ©jale que te arregle. Ã‰l sabe lo que hace.*
+*Déjale*, susurró la voz interna. *Déjale que te arregle. Él sabe lo que hace.*
 
-â€”No... â€”gimiÃ³ Vera. Pero su cuerpo se inclinÃ³ hacia el tacto, traicionÃ¡ndola.
+—No... —gimió Vera. Pero su cuerpo se inclinó hacia el tacto, traicionándola.
 
-Fernando sonriÃ³. BajÃ³ la mano por su cuello, rozando la clavÃ­cula, y se detuvo justo encima de su pecho, sobre el mono de trabajo.
+Fernando sonrió. Bajó la mano por su cuello, rozando la clavícula, y se detuvo justo encima de su pecho, sobre el mono de trabajo.
 
-â€”Tu corazÃ³n late muy rÃ¡pido â€”dijoâ€”. Como un motor fuera de punto. Necesitas un ajuste.
+—Tu corazón late muy rápido —dijo—. Como un motor fuera de punto. Necesitas un ajuste.
 
-ApretÃ³ la mano.
+Apretó la mano.
 
-Vera jadeÃ³. La presiÃ³n sobre su pecho no fue dolorosa. Fue... exquisita. SintiÃ³ cÃ³mo sus pezones se endurecÃ­an instantÃ¡neamente, rozando contra la tela basta. Una oleada de humedad empapÃ³ sus bragas.
+Vera jadeó. La presión sobre su pecho no fue dolorosa. Fue... exquisita. Sintió cómo sus pezones se endurecían instantáneamente, rozando contra la tela basta. Una oleada de humedad empapó sus bragas.
 
-â€”Â¿QuÃ© me estÃ¡s haciendo? â€”preguntÃ³, con la voz quebrada.
+—¿Qué me estás haciendo? —preguntó, con la voz quebrada.
 
-â€”Estoy cerrando el circuito â€”dijo Fernando, mirÃ¡ndola a los ojos. Sus pupilas estaban dilatadas, negras como pozos de petrÃ³leoâ€”. Estoy activando tu verdadero potencial.
+—Estoy cerrando el circuito —dijo Fernando, mirándola a los ojos. Sus pupilas estaban dilatadas, negras como pozos de petróleo—. Estoy activando tu verdadero potencial.
 
-*SÃ­*, ronroneÃ³ la voz en su cabeza. *CiÃ©rralo. ComplÃ©tame. Hazme tuya.*
+*Sí*, ronroneó la voz en su cabeza. *Ciérralo. Complétame. Hazme tuya.*
 
-Vera sacudiÃ³ la cabeza, luchando contra la niebla rosa que amenazaba con cubrir su mente.
-â€”Yo no soy... yo no soy tuya.
+Vera sacudió la cabeza, luchando contra la niebla rosa que amenazaba con cubrir su mente.
+—Yo no soy... yo no soy tuya.
 
-Fernando se riÃ³. Fue un sonido bajo, vibrante, que resonÃ³ en el Ãºtero de Vera.
-â€”TodavÃ­a no. Pero el proceso ya ha empezado. Los nanobots estÃ¡n en tu sangre, Vera. EstÃ¡n buscando cada imperfecciÃ³n, cada resistencia, cada gramo de masculinidad tÃ³xica que has acumulado para protegerte... y lo van a disolver.
+Fernando se rió. Fue un sonido bajo, vibrante, que resonó en el útero de Vera.
+—Todavía no. Pero el proceso ya ha empezado. Los nanobots están en tu sangre, Vera. Están buscando cada imperfección, cada resistencia, cada gramo de masculinidad tóxica que has acumulado para protegerte... y lo van a disolver.
 
-Se apartÃ³ de ella. La pÃ©rdida de contacto fue fÃ­sica, como si le hubieran arrancado la piel. Vera soltÃ³ un gemido de protesta involuntario.
+Se apartó de ella. La pérdida de contacto fue física, como si le hubieran arrancado la piel. Vera soltó un gemido de protesta involuntario.
 
-â€”Vuelve... â€”susurrÃ³, antes de poder detenerse.
+—Vuelve... —susurró, antes de poder detenerse.
 
 Fernando se detuvo en la puerta.
-â€”El coche estÃ¡ arreglado. El problema eras tÃº. Eras la interferencia.
+—El coche está arreglado. El problema eras tú. Eras la interferencia.
 
-Se subiÃ³ a su sedÃ¡n blanco. El coche arrancÃ³ sin sonido.
+Se subió a su sedán blanco. El coche arrancó sin sonido.
 
-Vera se quedÃ³ sola en el taller. Temblando. Excitada. Aterrorizada.
+Vera se quedó sola en el taller. Temblando. Excitada. Aterrorizada.
 
-Se mirÃ³ las manos. La grasa parecÃ­a... incorrecta. QuerÃ­a lavÃ¡rsela. QuerÃ­a estar limpia. QuerÃ­a estar suave.
+Se miró las manos. La grasa parecía... incorrecta. Quería lavársela. Quería estar limpia. Quería estar suave.
 
-*LÃ­mpiate*, ordenÃ³ la voz. *Ponte guapa para Ã©l. Ã‰l volverÃ¡.*
+*Límpiate*, ordenó la voz. *Ponte guapa para él. Él volverá.*
 
-Vera corriÃ³ al baÃ±o. Se frotÃ³ las manos con jabÃ³n industrial hasta que le sangraron los nudillos. Pero no sentÃ­a dolor. Solo sentÃ­a una ansiedad creciente, una necesidad imperiosa de prepararse.
+Vera corrió al baño. Se frotó las manos con jabón industrial hasta que le sangraron los nudillos. Pero no sentía dolor. Solo sentía una ansiedad creciente, una necesidad imperiosa de prepararse.
 
-Â¿Prepararse para quÃ©?
+¿Prepararse para qué?
 
-No lo sabÃ­a. Pero su cuerpo sÃ­. Su cuerpo se estaba preparando para ser ocupado.
+No lo sabía. Pero su cuerpo sí. Su cuerpo se estaba preparando para ser ocupado.
 
-Y en el silencio del baÃ±o, Vera se mirÃ³ al espejo y vio algo que la helÃ³ la sangre.
+Y en el silencio del baño, Vera se miró al espejo y vio algo que la heló la sangre.
 
-Por un segundo, su reflejo no fue el de la mecÃ¡nica con el mono sucio.
+Por un segundo, su reflejo no fue el de la mecánica con el mono sucio.
 
-Vio a una mujer rubia, con los labios rojos y una mirada vacÃ­a y feliz.
+Vio a una mujer rubia, con los labios rojos y una mirada vacía y feliz.
 
-ParpadeÃ³, y la imagen desapareciÃ³.
+Parpadeó, y la imagen desapareció.
 
-Pero la voz se quedÃ³.
-*Pronto*, prometiÃ³ la voz. *Pronto seremos perfectas.*
+Pero la voz se quedó.
+*Pronto*, prometió la voz. *Pronto seremos perfectas.*
 
-La fiebre no era como Fernando habÃ­a prometido. No era un fuego que quemaba; era un calor lÃ­quido, dulce y pegajoso, que parecÃ­a emanar de la mÃ©dula de sus huesos, como si su propio esqueleto se estuviera derritiendo para ser moldeado de nuevo. Vera se despertÃ³ en mitad de la noche, empapada en sudor. Pero no olÃ­a a sudor rancio. OlÃ­a a... vainilla. A leche tibia y azÃºcar.
+La fiebre no era como Fernando había prometido. No era un fuego que quemaba; era un calor líquido, dulce y pegajoso, que parecía emanar de la médula de sus huesos, como si su propio esqueleto se estuviera derritiendo para ser moldeado de nuevo. Vera se despertó en mitad de la noche, empapada en sudor. Pero no olía a sudor rancio. Olía a... vainilla. A leche tibia y azúcar.
 
-Se sentÃ³ en la cama, respirando con dificultad. Las sÃ¡banas se pegaban a su piel, y la sensaciÃ³n del algodÃ³n barato contra su cuerpo era insoportablemente abrasiva. Su piel... su piel estaba gritando.
+Se sentó en la cama, respirando con dificultad. Las sábanas se pegaban a su piel, y la sensación del algodón barato contra su cuerpo era insoportablemente abrasiva. Su piel... su piel estaba gritando.
 
-â€”Solo es gripe â€”se dijo a sÃ­ misma, pasÃ¡ndose una mano por la frente.
+—Solo es gripe —se dijo a sí misma, pasándose una mano por la frente.
 
-Pero al tocarse, jadeÃ³.
+Pero al tocarse, jadeó.
 
-Su frente, normalmente un mapa de pequeÃ±as cicatrices y poros abiertos por aÃ±os de exposiciÃ³n a quÃ­micos industriales, se sentÃ­a lisa. Antinaturalmente lisa. Como satÃ©n caliente. Sus dedos se deslizaron por su propia cara con una fascinaciÃ³n narcisista.
+Su frente, normalmente un mapa de pequeñas cicatrices y poros abiertos por años de exposición a químicos industriales, se sentía lisa. Antinaturalmente lisa. Como satén caliente. Sus dedos se deslizaron por su propia cara con una fascinación narcisista.
 
-*Suave*, susurrÃ³ la voz en su cabeza. *Como debe ser. Piel para ser acariciada.*
+*Suave*, susurró la voz en su cabeza. *Como debe ser. Piel para ser acariciada.*
 
-EncendiÃ³ la lÃ¡mpara de la mesilla. La luz amarilla iluminÃ³ sus manos.
+Encendió la lámpara de la mesilla. La luz amarilla iluminó sus manos.
 
-Vera parpadeÃ³, hipnotizada.
+Vera parpadeó, hipnotizada.
 
-Sus nudillos. Esos nudillos que siempre estaban rojos, raspados, con costras perpetuas de pelearse con tornillos oxidados... estaban sanando. Delante de sus ojos. PodÃ­a ver, si se fijaba mucho, un brillo plateado microscÃ³pico tejiendo la piel, cerrando las heridas, borrando la historia de su trabajo duro.
+Sus nudillos. Esos nudillos que siempre estaban rojos, raspados, con costras perpetuas de pelearse con tornillos oxidados... estaban sanando. Delante de sus ojos. Podía ver, si se fijaba mucho, un brillo plateado microscópico tejiendo la piel, cerrando las heridas, borrando la historia de su trabajo duro.
 
 Era hermoso. Y aterrador.
 
-Vera se llevÃ³ una mano a la boca y chupÃ³ uno de sus dedos. SabÃ­a dulce. SabÃ­a a sumisiÃ³n.
+Vera se llevó una mano a la boca y chupó uno de sus dedos. Sabía dulce. Sabía a sumisión.
 
-â€”No... â€”susurrÃ³. Su voz sonÃ³ extraÃ±a. MÃ¡s aguda. Menos ronca. Una voz hecha para gemir, no para gritar.
+—No... —susurró. Su voz sonó extraña. Más aguda. Menos ronca. Una voz hecha para gemir, no para gritar.
 
-Se levantÃ³ tambaleÃ¡ndose y fue al baÃ±o. Se desnudÃ³ frente al espejo.
+Se levantó tambaleándose y fue al baño. Se desnudó frente al espejo.
 
-Su cuerpo estaba cambiando. Sus caderas parecÃ­an mÃ¡s anchas, sus muslos mÃ¡s llenos. Sus pezones estaban duros, oscuros, dolorosamente sensibles al aire frÃ­o. Vera se tocÃ³ un pecho. La carne estaba firme, hinchada. Un gemido escapÃ³ de sus labios.
+Su cuerpo estaba cambiando. Sus caderas parecían más anchas, sus muslos más llenos. Sus pezones estaban duros, oscuros, dolorosamente sensibles al aire frío. Vera se tocó un pecho. La carne estaba firme, hinchada. Un gemido escapó de sus labios.
 
-â€”Dios... â€”se frotÃ³ el cuerpo, incapaz de parar. Sus manos recorrÃ­an su nueva piel, explorando cada curva suavizada, cada Ã¡ngulo borrado. Se sentÃ­a como si estuviera tocando a otra mujer. A una mujer mÃ¡s suave. MÃ¡s deseable.
+—Dios... —se frotó el cuerpo, incapaz de parar. Sus manos recorrían su nueva piel, explorando cada curva suavizada, cada ángulo borrado. Se sentía como si estuviera tocando a otra mujer. A una mujer más suave. Más deseable.
 
-*EstÃ¡s madurando*, dijo la voz. *Te estÃ¡s preparando para tu funciÃ³n.*
+*Estás madurando*, dijo la voz. *Te estás preparando para tu función.*
 
-â€”Â¿QuÃ© funciÃ³n? â€”preguntÃ³ Vera al espejo, con los ojos vidriosos.
+—¿Qué función? —preguntó Vera al espejo, con los ojos vidriosos.
 
-De repente, el espejo parpadeÃ³. Como una pantalla con estÃ¡tica.
+De repente, el espejo parpadeó. Como una pantalla con estática.
 
-La imagen de Vera cambiÃ³.
+La imagen de Vera cambió.
 
-Ya no estaba desnuda en su baÃ±o sucio.
+Ya no estaba desnuda en su baño sucio.
 
-Estaba en una cocina inmaculada, de color pastel. Llevaba un vestido de vuelo de los aÃ±os 60, con lunares amarillos. Llevaba tacones blancos. Su pelo estaba peinado en un bouffant perfecto.
+Estaba en una cocina inmaculada, de color pastel. Llevaba un vestido de vuelo de los años 60, con lunares amarillos. Llevaba tacones blancos. Su pelo estaba peinado en un bouffant perfecto.
 
 Pero lo que hizo que Vera gritara fue su vientre.
 
 Estaba enorme. Redondo. Pesado.
 
-Vera se mirÃ³ en el reflejo. TenÃ­a una mano apoyada en su espalda baja y la otra acariciando su barriga hinchada con una devociÃ³n absoluta.
+Vera se miró en el reflejo. Tenía una mano apoyada en su espalda baja y la otra acariciando su barriga hinchada con una devoción absoluta.
 
-â€”Â¿Estoy...? â€”Vera se tocÃ³ su vientre plano en la realidad. Pero en el espejo, su mano acariciaba una vida que no existÃ­a.
+—¿Estoy...? —Vera se tocó su vientre plano en la realidad. Pero en el espejo, su mano acariciaba una vida que no existía.
 
-*FÃ©rtil*, susurrÃ³ la voz con una satisfacciÃ³n obscena. *Una buena incubadora. Llena de vida. Llena de propÃ³sito.*
+*Fértil*, susurró la voz con una satisfacción obscena. *Una buena incubadora. Llena de vida. Llena de propósito.*
 
-Vera sintiÃ³ una contracciÃ³n en su Ãºtero. Fue dolorosa y placentera a la vez. Un calambre de vacÃ­o que pedÃ­a ser llenado.
+Vera sintió una contracción en su útero. Fue dolorosa y placentera a la vez. Un calambre de vacío que pedía ser llenado.
 
-â€”No... yo no quiero hijos... â€”gimiÃ³ Vera.
+—No... yo no quiero hijos... —gimió Vera.
 
-*Mentira*, corrigiÃ³ la voz. *Quieres ser madre. Quieres criar. Quieres dar a luz a los hijos del Amo. Es para lo que fuiste diseÃ±ada.*
+*Mentira*, corrigió la voz. *Quieres ser madre. Quieres criar. Quieres dar a luz a los hijos del Amo. Es para lo que fuiste diseñada.*
 
-La imagen del espejo le sonriÃ³. Una sonrisa beatÃ­fica, maternal y completamente vacÃ­a de inteligencia.
+La imagen del espejo le sonrió. Una sonrisa beatífica, maternal y completamente vacía de inteligencia.
 
-â€”Â¡Basta! â€”Vera golpeÃ³ el espejo con el puÃ±o.
+—¡Basta! —Vera golpeó el espejo con el puño.
 
-El dolor la trajo de vuelta. El espejo no se rompiÃ³, pero la imagen desapareciÃ³. Vera estaba de nuevo en su baÃ±o, desnuda, sudando vainilla.
+El dolor la trajo de vuelta. El espejo no se rompió, pero la imagen desapareció. Vera estaba de nuevo en su baño, desnuda, sudando vainilla.
 
-Pero la sensaciÃ³n de vacÃ­o en su vientre persistÃ­a. Una ache sordo que la hacÃ­a querer abrir las piernas y esperar.
+Pero la sensación de vacío en su vientre persistía. Una ache sordo que la hacía querer abrir las piernas y esperar.
 
 ***
 
-El dÃ­a siguiente fue un infierno de sensaciones.
+El día siguiente fue un infierno de sensaciones.
 
-Vera llegÃ³ al taller arrastrando los pies. Se habÃ­a puesto su mono de trabajo, pero le apretaba en lugares donde antes le quedaba holgado. Su pecho se sentÃ­a sensible, dolorosamente hinchado, rozando contra la tela Ã¡spera con cada paso. Cada roce era una tortura exquisita.
+Vera llegó al taller arrastrando los pies. Se había puesto su mono de trabajo, pero le apretaba en lugares donde antes le quedaba holgado. Su pecho se sentía sensible, dolorosamente hinchado, rozando contra la tela áspera con cada paso. Cada roce era una tortura exquisita.
 
-â€”Llegas tarde â€”gruÃ±Ã³ Hank.
+—Llegas tarde —gruñó Hank.
 
-â€”El despertador no sonÃ³ â€”mintiÃ³ Vera. La verdad era que se habÃ­a pasado una hora mirÃ¡ndose en el espejo, buscando seÃ±ales de ese embarazo fantasma, aterrorizada y excitada por la posibilidad.
+—El despertador no sonó —mintió Vera. La verdad era que se había pasado una hora mirándose en el espejo, buscando señales de ese embarazo fantasma, aterrorizada y excitada por la posibilidad.
 
-Se dirigiÃ³ a su puesto. HabÃ­a un Chevy Silverado esperando. Trabajo fÃ¡cil. Rutinario.
+Se dirigió a su puesto. Había un Chevy Silverado esperando. Trabajo fácil. Rutinario.
 
-AgarrÃ³ la llave del filtro de aceite.
+Agarró la llave del filtro de aceite.
 
-Y se le cayÃ³.
+Y se le cayó.
 
-Sus dedos no tenÃ­an fuerza. No era debilidad muscular; era como si sus manos hubieran olvidado cÃ³mo agarrar una herramienta. La llave resbalÃ³ de su piel, que ahora estaba tan suave que parecÃ­a no tener fricciÃ³n.
+Sus dedos no tenían fuerza. No era debilidad muscular; era como si sus manos hubieran olvidado cómo agarrar una herramienta. La llave resbaló de su piel, que ahora estaba tan suave que parecía no tener fricción.
 
-â€”Mierda â€”mascullÃ³, agachÃ¡ndose para recogerla.
+—Mierda —masculló, agachándose para recogerla.
 
-Al hacerlo, sintiÃ³ un tirÃ³n en el trasero. El mono se tensÃ³ peligrosamente sobre sus nalgas expandidas. Vera se sonrojÃ³, sintiendo un calor repentino en sus mejillas. Â¿La estaban mirando? Esperaba que la estuvieran mirando.
+Al hacerlo, sintió un tirón en el trasero. El mono se tensó peligrosamente sobre sus nalgas expandidas. Vera se sonrojó, sintiendo un calor repentino en sus mejillas. ¿La estaban mirando? Esperaba que la estuvieran mirando.
 
-*Que miren*, susurrÃ³ la voz. *Eres un objeto de deseo. DisfrÃºtalo.*
+*Que miren*, susurró la voz. *Eres un objeto de deseo. Disfrútalo.*
 
-VolviÃ³ a intentarlo. AgarrÃ³ la llave con ambas manos, apretando los dientes. ConsiguiÃ³ desenroscar el filtro, pero el esfuerzo la dejÃ³ jadeando. Y entonces, el olor la golpeÃ³.
+Volvió a intentarlo. Agarró la llave con ambas manos, apretando los dientes. Consiguió desenroscar el filtro, pero el esfuerzo la dejó jadeando. Y entonces, el olor la golpeó.
 
-El aceite caliente cayÃ³ en la bandeja.
+El aceite caliente cayó en la bandeja.
 
 Vera tuvo una arcada.
 
-Ese olor, que ayer era su perfume favorito, ahora olÃ­a a muerte. A suciedad. A algo incorrecto. Su nariz se arrugÃ³ involuntariamente.
+Ese olor, que ayer era su perfume favorito, ahora olía a muerte. A suciedad. A algo incorrecto. Su nariz se arrugó involuntariamente.
 
-*QuÃ© asco*, pensÃ³ la voz, amplificando su repulsiÃ³n. *DeberÃ­a oler a lavanda. O a limÃ³n. O a hombre.*
+*Qué asco*, pensó la voz, amplificando su repulsión. *Debería oler a lavanda. O a limón. O a hombre.*
 
-â€”Â¿Vera? â€”la voz de Mike, uno de los mecÃ¡nicos mÃ¡s jÃ³venes, la sacÃ³ de su tranceâ€”. Â¿EstÃ¡s bien? EstÃ¡s... joder, estÃ¡s buena.
+—¿Vera? —la voz de Mike, uno de los mecánicos más jóvenes, la sacó de su trance—. ¿Estás bien? Estás... joder, estás buena.
 
-Vera se girÃ³ bruscamente.
-â€”Â¡CÃ¡llate, imbÃ©cil!
+Vera se giró bruscamente.
+—¡Cállate, imbécil!
 
-Pero Mike la miraba con la boca abierta. Sus ojos recorrÃ­an su cara, bajaban a su cuello, se detenÃ­an en su pecho que empujaba contra el mono.
+Pero Mike la miraba con la boca abierta. Sus ojos recorrían su cara, bajaban a su cuello, se detenían en su pecho que empujaba contra el mono.
 
-Vera sintiÃ³ una oleada de calor en su vientre. Quiso gritarle. Quiso golpearle.
+Vera sintió una oleada de calor en su vientre. Quiso gritarle. Quiso golpearle.
 
 Pero en lugar de eso, sus pezones se endurecieron.
 
-Y la voz susurrÃ³: *Dile gracias. SÃ© educada.*
+Y la voz susurró: *Dile gracias. Sé educada.*
 
-â€”CÃ¡llate y trabaja â€”dijo Vera, pero su voz no tenÃ­a mordiente. SonÃ³... coqueta.
+—Cállate y trabaja —dijo Vera, pero su voz no tenía mordiente. Sonó... coqueta.
 
-Se dio la vuelta, horrorizada consigo misma. Â¿QuÃ© le estaba pasando? Â¿Por quÃ© se sentÃ­a hÃºmeda ante la mirada babosa de Mike?
+Se dio la vuelta, horrorizada consigo misma. ¿Qué le estaba pasando? ¿Por qué se sentía húmeda ante la mirada babosa de Mike?
 
-A media maÃ±ana, ocurriÃ³ el primer "glitch" grave.
+A media mañana, ocurrió el primer "glitch" grave.
 
-Estaba intentando diagnosticar un ruido en el motor. Se inclinÃ³ sobre el capÃ³ abierto.
+Estaba intentando diagnosticar un ruido en el motor. Se inclinó sobre el capó abierto.
 
-De repente, el sonido del motor desapareciÃ³. Fue reemplazado por mÃºsica. Una melodÃ­a suave, de los aÃ±os 50. *Mr. Sandman*.
+De repente, el sonido del motor desapareció. Fue reemplazado por música. Una melodía suave, de los años 50. *Mr. Sandman*.
 
-Vera se enderezÃ³, mirando a su alrededor. La mÃºsica sonaba dentro de su cabeza. Clara. Perfecta. Como una inyecciÃ³n de morfina auditiva.
+Vera se enderezó, mirando a su alrededor. La música sonaba dentro de su cabeza. Clara. Perfecta. Como una inyección de morfina auditiva.
 
-Y con la mÃºsica, vino el impulso.
+Y con la música, vino el impulso.
 
 Vera estaba sosteniendo un trapo sucio. De repente, sus manos empezaron a moverse. No para limpiar el motor, sino para... doblar.
 
-DoblÃ³ el trapo en un cuadrado perfecto. Luego lo alisÃ³ con la palma de la mano, con una delicadeza infinita. Luego lo volviÃ³ a doblar. El movimiento era rÃ­tmico, hipnÃ³tico. Cada pliegue le daba una pequeÃ±a descarga de placer en la base de la columna.
+Dobló el trapo en un cuadrado perfecto. Luego lo alisó con la palma de la mano, con una delicadeza infinita. Luego lo volvió a doblar. El movimiento era rítmico, hipnótico. Cada pliegue le daba una pequeña descarga de placer en la base de la columna.
 
-*Limpia*, ordenÃ³ la voz. *Ordena. Hazlo bonito.*
+*Limpia*, ordenó la voz. *Ordena. Hazlo bonito.*
 
-â€”Vera, Â¿quÃ© haces? â€”preguntÃ³ Hank.
+—Vera, ¿qué haces? —preguntó Hank.
 
-Vera parpadeÃ³, saliendo del trance. MirÃ³ sus manos. Estaba doblando el trapo lleno de grasa como si fuera una servilleta de lino en una cena de gala.
+Vera parpadeó, saliendo del trance. Miró sus manos. Estaba doblando el trapo lleno de grasa como si fuera una servilleta de lino en una cena de gala.
 
-â€”Yo... yo estaba... â€”balbuceÃ³.
+—Yo... yo estaba... —balbuceó.
 
-â€”EstÃ¡s limpiando mal â€”dijo Hank, frunciendo el ceÃ±oâ€”. Eso no es limpiar, es acariciar. Â¿Te encuentras bien? Pareces drogada.
+—Estás limpiando mal —dijo Hank, frunciendo el ceño—. Eso no es limpiar, es acariciar. ¿Te encuentras bien? Pareces drogada.
 
-â€”Estoy bien â€”dijo Vera, tirando el trapo al suelo con rabia. Pero al verlo en el suelo, desordenado, sintiÃ³ una ansiedad fÃ­sica. QuerÃ­a recogerlo. QuerÃ­a limpiarlo. QuerÃ­a ser Ãºtil.
+—Estoy bien —dijo Vera, tirando el trapo al suelo con rabia. Pero al verlo en el suelo, desordenado, sintió una ansiedad física. Quería recogerlo. Quería limpiarlo. Quería ser útil.
 
-â€”Pues espabila. Tenemos trabajo.
+—Pues espabila. Tenemos trabajo.
 
-Vera asintiÃ³, sintiÃ©ndose pequeÃ±a. *SÃ­, seÃ±or*, pensÃ³. Y el pensamiento le produjo un escalofrÃ­o de placer que le recorriÃ³ la columna vertebral y le hizo apretar los muslos.
+Vera asintió, sintiéndose pequeña. *Sí, señor*, pensó. Y el pensamiento le produjo un escalofrío de placer que le recorrió la columna vertebral y le hizo apretar los muslos.
 
-Se quedÃ³ helada.
+Se quedó helada.
 
-Le habÃ­a gustado que Hank le diera una orden. Le habÃ­a gustado sentirse pequeÃ±a ante su autoridad. Le habÃ­a gustado la idea de obedecer.
+Le había gustado que Hank le diera una orden. Le había gustado sentirse pequeña ante su autoridad. Le había gustado la idea de obedecer.
 
-â€”No â€”susurrÃ³, agarrÃ¡ndose la cabeza con las manos manchadas de grasaâ€”. No, no, no. Yo no soy asÃ­. Yo soy Vera.
+—No —susurró, agarrándose la cabeza con las manos manchadas de grasa—. No, no, no. Yo no soy así. Yo soy Vera.
 
-*Eras*, corrigiÃ³ la voz dulce y pegajosa en su mente. *Ahora estÃ¡s evolucionando. EstÃ¡s mejorando. EstÃ¡s madurando para ser madre.*
+*Eras*, corrigió la voz dulce y pegajosa en su mente. *Ahora estás evolucionando. Estás mejorando. Estás madurando para ser madre.*
 
-Vera corriÃ³ al baÃ±o. Se encerrÃ³ en el cubÃ­culo y se sentÃ³ en la tapa del inodoro, temblando. Se metiÃ³ la mano en el mono, tocÃ¡ndose a travÃ©s de la ropa interior barata. Estaba empapada.
+Vera corrió al baño. Se encerró en el cubículo y se sentó en la tapa del inodoro, temblando. Se metió la mano en el mono, tocándose a través de la ropa interior barata. Estaba empapada.
 
-SacÃ³ su mÃ³vil con la otra mano. TenÃ­a que buscar quÃ© le pasaba. SÃ­ntomas de intoxicaciÃ³n por metales pesados. O un tumor cerebral. O ninfomanÃ­a repentina.
+Sacó su móvil con la otra mano. Tenía que buscar qué le pasaba. Síntomas de intoxicación por metales pesados. O un tumor cerebral. O ninfomanía repentina.
 
-Sus dedos volaron sobre la pantalla. Pero cuando intentÃ³ escribir "sÃ­ntomas neurolÃ³gicos", sus dedos escribieron otra cosa.
+Sus dedos volaron sobre la pantalla. Pero cuando intentó escribir "síntomas neurológicos", sus dedos escribieron otra cosa.
 
-*Zapatos de tacÃ³n rosa.*
+*Zapatos de tacón rosa.*
 
-Vera borrÃ³. IntentÃ³ de nuevo, jadeando.
+Vera borró. Intentó de nuevo, jadeando.
 
-*CÃ³mo complacer a tu marido.*
+*Cómo complacer a tu marido.*
 
-â€”Â¡Mierda! â€”gritÃ³, golpeando la pantalla.
+—¡Mierda! —gritó, golpeando la pantalla.
 
-Sus dedos no obedecÃ­an. Estaban conectados a otra red. A la red de Fernando.
+Sus dedos no obedecían. Estaban conectados a otra red. A la red de Fernando.
 
-El nombre de Fernando apareciÃ³ en su mente, y con Ã©l, una imagen de su cara. De su sonrisa tranquila. De sus manos perfectas.
+El nombre de Fernando apareció en su mente, y con él, una imagen de su cara. De su sonrisa tranquila. De sus manos perfectas.
 
-Y Vera sintiÃ³... paz. Y deseo. Un deseo abrumador de arrodillarse.
+Y Vera sintió... paz. Y deseo. Un deseo abrumador de arrodillarse.
 
-SintiÃ³ que si Ã©l estuviera aquÃ­, todo estarÃ­a bien. Ã‰l sabrÃ­a quÃ© hacer. Ã‰l le dirÃ­a quÃ© hacer. Y ella solo tendrÃ­a que obedecer. Y serÃ­a tan fÃ¡cil. Tan dulce. Tan orgÃ¡smico.
+Sintió que si él estuviera aquí, todo estaría bien. Él sabría qué hacer. Él le diría qué hacer. Y ella solo tendría que obedecer. Y sería tan fácil. Tan dulce. Tan orgásmico.
 
-â€”Sal de mi cabeza â€”gimiÃ³ Vera, acurrucÃ¡ndose en sÃ­ misma, mientras sus dedos seguÃ­an frotando su clÃ­toris traicionero.
+—Sal de mi cabeza —gimió Vera, acurrucándose en sí misma, mientras sus dedos seguían frotando su clítoris traicionero.
 
-Pero sabÃ­a que era tarde. El intruso ya no estaba en la puerta. Estaba en el salÃ³n, redecorando las paredes, cambiando los muebles, pintando todo de color rosa chicle.
+Pero sabía que era tarde. El intruso ya no estaba en la puerta. Estaba en el salón, redecorando las paredes, cambiando los muebles, pintando todo de color rosa chicle.
 
-Y una parte de ella, una parte que crecÃ­a con cada espasmo de placer, estaba deseando ver el resultado final.
+Y una parte de ella, una parte que crecía con cada espasmo de placer, estaba deseando ver el resultado final.
 
-La transformaciÃ³n dejÃ³ de ser sutil. DejÃ³ de ser un susurro para convertirse en un grito desgarrador de placer y dolor.
+La transformación dejó de ser sutil. Dejó de ser un susurro para convertirse en un grito desgarrador de placer y dolor.
 
-Vera pasÃ³ los siguientes dos dÃ­as en un estado de delirio febril. IntentÃ³ ir a trabajar, pero su cuerpo se habÃ­a convertido en una jaula que se encogÃ­a y se estiraba al mismo tiempo. Era como estar en celo. Un calor constante, pulsante, irradiaba de su vientre, nublando su juicio, haciendo que cada pensamiento lÃ³gico se disolviera en una neblina rosa.
+Vera pasó los siguientes dos días en un estado de delirio febril. Intentó ir a trabajar, pero su cuerpo se había convertido en una jaula que se encogía y se estiraba al mismo tiempo. Era como estar en celo. Un calor constante, pulsante, irradiaba de su vientre, nublando su juicio, haciendo que cada pensamiento lógico se disolviera en una neblina rosa.
 
-*RÃ­ndete*, susurraba la voz constantemente. *Deja de luchar. Duele menos si te dejas llevar.*
+*Ríndete*, susurraba la voz constantemente. *Deja de luchar. Duele menos si te dejas llevar.*
 
-El dolor era constante. No era un dolor de enfermedad, era un dolor de crecimiento. SentÃ­a cÃ³mo sus huesos pÃ©lvicos crujÃ­an y se ensanchaban, una presiÃ³n sorda y profunda que la obligaba a caminar con las piernas mÃ¡s separadas, balanceando las caderas de una forma que le resultaba ajena y obscena.
+El dolor era constante. No era un dolor de enfermedad, era un dolor de crecimiento. Sentía cómo sus huesos pélvicos crujían y se ensanchaban, una presión sorda y profunda que la obligaba a caminar con las piernas más separadas, balanceando las caderas de una forma que le resultaba ajena y obscena.
 
-â€”Â¡Deja de moverte asÃ­! â€”se gritÃ³ a sÃ­ misma en el espejo del baÃ±o del taller.
+—¡Deja de moverte así! —se gritó a sí misma en el espejo del baño del taller.
 
-Pero no podÃ­a parar. Su centro de gravedad habÃ­a cambiado. Sus nalgas, antes firmes y musculosas, ahora eran suaves, redondas y pesadas, como dos frutas maduras pidiendo ser apretadas. Cada paso enviaba una onda de choque a travÃ©s de esa carne nueva y sensible, un recordatorio constante de su feminidad forzada.
+Pero no podía parar. Su centro de gravedad había cambiado. Sus nalgas, antes firmes y musculosas, ahora eran suaves, redondas y pesadas, como dos frutas maduras pidiendo ser apretadas. Cada paso enviaba una onda de choque a través de esa carne nueva y sensible, un recordatorio constante de su feminidad forzada.
 
 Y luego estaba su pecho.
 
-Sus pechos habÃ­an crecido. No un poco. Mucho. Era una expansiÃ³n agresiva, dolorosa. Su piel se estiraba, brillante y translÃºcida, dejando ver una red de venas azules.
+Sus pechos habían crecido. No un poco. Mucho. Era una expansión agresiva, dolorosa. Su piel se estiraba, brillante y translúcida, dejando ver una red de venas azules.
 
-Su sujetador deportivo, el Ãºnico tipo de ropa interior que habÃ­a usado en diez aÃ±os, se habÃ­a convertido en un instrumento de tortura. Las tiras se clavaban en sus hombros. Sus pezones estaban perpetuamente duros, rozando contra la tela con una sensibilidad elÃ©ctrica que la hacÃ­a jadear cada vez que se movÃ­a bruscamente. Era como si estuvieran conectados directamente a su clÃ­toris.
+Su sujetador deportivo, el único tipo de ropa interior que había usado en diez años, se había convertido en un instrumento de tortura. Las tiras se clavaban en sus hombros. Sus pezones estaban perpetuamente duros, rozando contra la tela con una sensibilidad eléctrica que la hacía jadear cada vez que se movía bruscamente. Era como si estuvieran conectados directamente a su clítoris.
 
-â€”Vera, Â¿estÃ¡s bien? â€”preguntÃ³ Hank, mirÃ¡ndola con preocupaciÃ³n desde la puerta de la oficinaâ€”. EstÃ¡s sudando como un cerdo. Y estÃ¡s... rara.
+—Vera, ¿estás bien? —preguntó Hank, mirándola con preocupación desde la puerta de la oficina—. Estás sudando como un cerdo. Y estás... rara.
 
-Vera se secÃ³ la frente. Su mano estaba temblando.
-â€”Estoy bien, Hank. Solo es... solo es el calor.
+Vera se secó la frente. Su mano estaba temblando.
+—Estoy bien, Hank. Solo es... solo es el calor.
 
-â€”No hace calor, Vera. Estamos a quince grados. Vete a casa.
+—No hace calor, Vera. Estamos a quince grados. Vete a casa.
 
-â€”Â¡No! â€”Vera se aferrÃ³ a su banco de trabajo. Necesitaba el metal. Necesitaba la realidad frÃ­a y dura para anclarseâ€”. Tengo que terminar el Mustang. Tengo que... tengo que demostrar que puedo.
+—¡No! —Vera se aferró a su banco de trabajo. Necesitaba el metal. Necesitaba la realidad fría y dura para anclarse—. Tengo que terminar el Mustang. Tengo que... tengo que demostrar que puedo.
 
-Hank suspirÃ³, negando con la cabeza.
-â€”Como quieras. Pero si te desmayas, no te voy a cargar.
+Hank suspiró, negando con la cabeza.
+—Como quieras. Pero si te desmayas, no te voy a cargar.
 
-Vera se girÃ³ hacia el Mustang. El motor V8 estaba desmontado sobre la mesa. Cientos de piezas. Pistones, bielas, vÃ¡lvulas. Un rompecabezas de metal que ella habÃ­a resuelto mil veces.
+Vera se giró hacia el Mustang. El motor V8 estaba desmontado sobre la mesa. Cientos de piezas. Pistones, bielas, válvulas. Un rompecabezas de metal que ella había resuelto mil veces.
 
-Pero hoy, las piezas parecÃ­an juguetes sexuales extraÃ±os. Formas fÃ¡licas, orificios, lubricante.
+Pero hoy, las piezas parecían juguetes sexuales extraños. Formas fálicas, orificios, lubricante.
 
-Vera agarrÃ³ un pistÃ³n. Pesaba. Pesaba demasiado. Sus muÃ±ecas, que antes podÃ­an levantar una caja de cambios sin pestaÃ±ear, ahora se sentÃ­an frÃ¡giles, como de cristal.
+Vera agarró un pistón. Pesaba. Pesaba demasiado. Sus muñecas, que antes podían levantar una caja de cambios sin pestañear, ahora se sentían frágiles, como de cristal.
 
-â€”Vamos â€”gruÃ±Ã³, apretando los dientesâ€”. TÃº puedes.
+—Vamos —gruñó, apretando los dientes—. Tú puedes.
 
-IntentÃ³ insertar el pistÃ³n en el cilindro. Pero sus manos temblaban tanto que el metal chocÃ³ contra el metal con un sonido agudo.
+Intentó insertar el pistón en el cilindro. Pero sus manos temblaban tanto que el metal chocó contra el metal con un sonido agudo.
 
-*No fuerces*, susurrÃ³ la voz en su cabeza, dulce y venenosa. *Te vas a romper una uÃ±a. Deja que los hombres hagan el trabajo duro. TÃº estÃ¡s hecha para mirar y aplaudir.*
+*No fuerces*, susurró la voz en su cabeza, dulce y venenosa. *Te vas a romper una uña. Deja que los hombres hagan el trabajo duro. Tú estás hecha para mirar y aplaudir.*
 
-â€”Â¡Me importa una mierda mi uÃ±a! â€”gritÃ³ Vera, golpeando el pistÃ³n con el puÃ±o.
+—¡Me importa una mierda mi uña! —gritó Vera, golpeando el pistón con el puño.
 
-El golpe fue dÃ©bil. PatÃ©tico. Y le doliÃ³.
+El golpe fue débil. Patético. Y le dolió.
 
-Vera mirÃ³ su mano. Sus uÃ±as, que habÃ­a intentado cortar esa maÃ±ana con unos alicates, habÃ­an vuelto a crecer. MÃ¡s largas. MÃ¡s fuertes. Y ahora tenÃ­an un brillo natural, como si estuvieran cubiertas de nÃ¡car. Eran garras. Garras bonitas e inÃºtiles.
+Vera miró su mano. Sus uñas, que había intentado cortar esa mañana con unos alicates, habían vuelto a crecer. Más largas. Más fuertes. Y ahora tenían un brillo natural, como si estuvieran cubiertas de nácar. Eran garras. Garras bonitas e inútiles.
 
-â€”Â¿Por quÃ©? â€”gimiÃ³â€”. Â¿Por quÃ© me hacÃ©is esto?
+—¿Por qué? —gimió—. ¿Por qué me hacéis esto?
 
-De repente, una oleada de calor la invadiÃ³. EmpezÃ³ en su Ãºtero y subiÃ³ hasta su garganta, ahogÃ¡ndola.
+De repente, una oleada de calor la invadió. Empezó en su útero y subió hasta su garganta, ahogándola.
 
-Vera se doblÃ³ por la cintura, jadeando. SentÃ­a que su piel se estiraba. SentÃ­a que sus mÃºsculos se disolvÃ­an, convirtiÃ©ndose en algo mÃ¡s suave, mÃ¡s maleable.
+Vera se dobló por la cintura, jadeando. Sentía que su piel se estiraba. Sentía que sus músculos se disolvían, convirtiéndose en algo más suave, más maleable.
 
-Y entonces, lo oyÃ³.
+Y entonces, lo oyó.
 
 El sonido de unos tacones.
 
 *Clac. Clac. Clac.*
 
-Vera levantÃ³ la cabeza, buscando a la intrusa. Pero no habÃ­a nadie.
+Vera levantó la cabeza, buscando a la intrusa. Pero no había nadie.
 
-El sonido venÃ­a de ella.
+El sonido venía de ella.
 
-MirÃ³ sus pies. Llevaba sus viejas botas de seguridad. Pero cuando dio un paso, el sonido que resonÃ³ en el hormigÃ³n no fue el golpe sordo de la goma. Fue el *clac* nÃ­tido y autoritario de un tacÃ³n de aguja.
+Miró sus pies. Llevaba sus viejas botas de seguridad. Pero cuando dio un paso, el sonido que resonó en el hormigón no fue el golpe sordo de la goma. Fue el *clac* nítido y autoritario de un tacón de aguja.
 
 Vera dio otro paso. *Clac.*
 
 Otro. *Clac.*
 
-â€”No... â€”retrocediÃ³, tropezando.
+—No... —retrocedió, tropezando.
 
-Sus pies estaban cambiando. Dentro de las botas, sentÃ­a cÃ³mo sus arcos se curvaban, forzÃ¡ndose en una posiciÃ³n imposiblemente alta. Sus dedos se apretaban. Sus talones se elevaban, como si estuvieran buscando un soporte que no existÃ­a.
+Sus pies estaban cambiando. Dentro de las botas, sentía cómo sus arcos se curvaban, forzándose en una posición imposiblemente alta. Sus dedos se apretaban. Sus talones se elevaban, como si estuvieran buscando un soporte que no existía.
 
-El dolor era insoportable. Era como si le estuvieran rompiendo los pies para vendarlos. Pero mezclado con el dolor, habÃ­a un placer perverso. Una sensaciÃ³n de "correcciÃ³n".
+El dolor era insoportable. Era como si le estuvieran rompiendo los pies para vendarlos. Pero mezclado con el dolor, había un placer perverso. Una sensación de "corrección".
 
-*AsÃ­ es mejor*, dijo la voz. *MÃ¡s elegante. MÃ¡s femenino. MÃ¡s expuesto. Tus pies ya no son para caminar, Vera. Son para posar.*
+*Así es mejor*, dijo la voz. *Más elegante. Más femenino. Más expuesto. Tus pies ya no son para caminar, Vera. Son para posar.*
 
-Vera se arrancÃ³ las botas, desesperada. Los cordones se rompieron bajo sus dedos frenÃ©ticos. Se quitÃ³ los calcetines sucios.
+Vera se arrancó las botas, desesperada. Los cordones se rompieron bajo sus dedos frenéticos. Se quitó los calcetines sucios.
 
-Y gritÃ³.
+Y gritó.
 
-Sus pies, sus pies anchos y planos de trabajadora, habÃ­an desaparecido. En su lugar, habÃ­a unos pies delicados, estrechos, con un arco pronunciado y elegante. Sus uÃ±as estaban pintadas de un rojo perfecto, brillante como la sangre fresca. Y sus talones... sus talones flotaban en el aire, incapaces de tocar el suelo plano.
+Sus pies, sus pies anchos y planos de trabajadora, habían desaparecido. En su lugar, había unos pies delicados, estrechos, con un arco pronunciado y elegante. Sus uñas estaban pintadas de un rojo perfecto, brillante como la sangre fresca. Y sus talones... sus talones flotaban en el aire, incapaces de tocar el suelo plano.
 
-Estaba de puntillas. FÃ­sicamente incapaz de apoyar el pie plano. Como una muÃ±eca Barbie.
+Estaba de puntillas. Físicamente incapaz de apoyar el pie plano. Como una muñeca Barbie.
 
-â€”Â¡Ayuda! â€”gritÃ³, cayendo de rodillas. El suelo frÃ­o y sucio le raspÃ³ la piel de las piernas, que ahora estaba depilada y suave como la sedaâ€”. Â¡Hank! Â¡AyÃºdame!
+—¡Ayuda! —gritó, cayendo de rodillas. El suelo frío y sucio le raspó la piel de las piernas, que ahora estaba depilada y suave como la seda—. ¡Hank! ¡Ayúdame!
 
-Hank saliÃ³ corriendo de la oficina.
-â€”Â¡Vera! Â¿QuÃ© pasa?
+Hank salió corriendo de la oficina.
+—¡Vera! ¿Qué pasa?
 
 Se detuvo en seco cuando la vio.
 
-Vera estaba en el suelo, rodeada de piezas de motor. Su mono de trabajo estaba abierto hasta la cintura, revelando un escote profundo y sudoroso que no deberÃ­a estar ahÃ­. Su cara estaba maquillada, con los labios rojos y los ojos delineados, aunque ella no se habÃ­a tocado un cosmÃ©tico en su vida. Y sus pies... sus pies desnudos y perfectos estaban en esa posiciÃ³n antinatural.
+Vera estaba en el suelo, rodeada de piezas de motor. Su mono de trabajo estaba abierto hasta la cintura, revelando un escote profundo y sudoroso que no debería estar ahí. Su cara estaba maquillada, con los labios rojos y los ojos delineados, aunque ella no se había tocado un cosmético en su vida. Y sus pies... sus pies desnudos y perfectos estaban en esa posición antinatural.
 
-â€”Dios santo, Vera... â€”susurrÃ³ Hank, pÃ¡lidoâ€”. Â¿QuÃ© te has hecho?
+—Dios santo, Vera... —susurró Hank, pálido—. ¿Qué te has hecho?
 
-â€”No... no fui yo... â€”sollozÃ³ Vera. Su voz era un gemido agudo y lastimeroâ€”. Es Ã©l. Es el cafÃ©. Es...
+—No... no fui yo... —sollozó Vera. Su voz era un gemido agudo y lastimero—. Es él. Es el café. Es...
 
-IntentÃ³ levantarse, pero sin sus botas, sin el soporte para sus nuevos pies deformados, no podÃ­a mantener el equilibrio. Se tambaleÃ³ y cayÃ³ hacia adelante, golpeÃ¡ndose contra el banco de trabajo.
+Intentó levantarse, pero sin sus botas, sin el soporte para sus nuevos pies deformados, no podía mantener el equilibrio. Se tambaleó y cayó hacia adelante, golpeándose contra el banco de trabajo.
 
-Una lluvia de herramientas cayÃ³ sobre ella. Llaves inglesas, destornilladores, tuercas.
+Una lluvia de herramientas cayó sobre ella. Llaves inglesas, destornilladores, tuercas.
 
-Vera se cubriÃ³ la cabeza, esperando el impacto. Esperando el dolor.
+Vera se cubrió la cabeza, esperando el impacto. Esperando el dolor.
 
-Pero cuando el metal la tocÃ³, no sintiÃ³ dolor.
+Pero cuando el metal la tocó, no sintió dolor.
 
-SintiÃ³ placer.
+Sintió placer.
 
-Cada golpe de una herramienta frÃ­a contra su piel ardiendo enviÃ³ una descarga de Ã©xtasis a su cerebro. GimiÃ³, arqueando la espalda involuntariamente. Su cuerpo, traidor hasta el final, interpretÃ³ la violencia como una caricia. El metal frÃ­o contra su piel caliente era exquisito.
+Cada golpe de una herramienta fría contra su piel ardiendo envió una descarga de éxtasis a su cerebro. Gimió, arqueando la espalda involuntariamente. Su cuerpo, traidor hasta el final, interpretó la violencia como una caricia. El metal frío contra su piel caliente era exquisito.
 
-â€”Â¡Vera! â€”Hank intentÃ³ levantarla.
+—¡Vera! —Hank intentó levantarla.
 
-Pero cuando la tocÃ³, Vera gritÃ³.
+Pero cuando la tocó, Vera gritó.
 
-â€”Â¡No! Â¡No me toques! â€”lo empujÃ³.
+—¡No! ¡No me toques! —lo empujó.
 
-El olor de Hank. El olor a tabaco barato y sudor viejo... ahora le daba ganas de vomitar. Era asqueroso. Era *masculino* de una forma incorrecta. No era el olor limpio y sintÃ©tico de Fernando.
+El olor de Hank. El olor a tabaco barato y sudor viejo... ahora le daba ganas de vomitar. Era asqueroso. Era *masculino* de una forma incorrecta. No era el olor limpio y sintético de Fernando.
 
-â€”Vera, necesitas un mÃ©dico â€”dijo Hank, retrocediendo.
+—Vera, necesitas un médico —dijo Hank, retrocediendo.
 
-â€”No... â€”Vera se arrastrÃ³ hacia atrÃ¡s. Sus ojos buscaban desesperadamente una salidaâ€”. Necesito... necesito irme.
+—No... —Vera se arrastró hacia atrás. Sus ojos buscaban desesperadamente una salida—. Necesito... necesito irme.
 
-â€”No puedes conducir asÃ­.
+—No puedes conducir así.
 
-â€”Â¡DÃ©jame!
+—¡Déjame!
 
-Vera se levantÃ³, usando el banco de trabajo como apoyo. Sus pies dolÃ­an horriblemente al intentar pisar el suelo plano, pero la adrenalina la mantuvo en pie.
+Vera se levantó, usando el banco de trabajo como apoyo. Sus pies dolían horriblemente al intentar pisar el suelo plano, pero la adrenalina la mantuvo en pie.
 
-CaminÃ³, o mÃ¡s bien se tambaleÃ³, hacia la salida. Cada paso era una tortura. *Clac, clac, clac* sonaban sus talones fantasmas en el hormigÃ³n.
+Caminó, o más bien se tambaleó, hacia la salida. Cada paso era una tortura. *Clac, clac, clac* sonaban sus talones fantasmas en el hormigón.
 
-SaliÃ³ a la calle. El sol de la tarde la cegÃ³. El ruido del trÃ¡fico la aturdiÃ³.
+Salió a la calle. El sol de la tarde la cegó. El ruido del tráfico la aturdió.
 
-Se sentÃ­a expuesta. Vulnerable. Como un animal despellejado. Y le gustaba. Le gustaba que la miraran.
+Se sentía expuesta. Vulnerable. Como un animal despellejado. Y le gustaba. Le gustaba que la miraran.
 
-Un camionero le pitÃ³ al pasar.
-â€”Â¡Guapa! â€”gritÃ³.
+Un camionero le pitó al pasar.
+—¡Guapa! —gritó.
 
-Vera deberÃ­a haberle enseÃ±ado el dedo medio.
+Vera debería haberle enseñado el dedo medio.
 
-Pero su mano no se levantÃ³. Su garganta se cerrÃ³.
+Pero su mano no se levantó. Su garganta se cerró.
 
-Y en su lugar, sus labios se curvaron en una sonrisa tÃ­mida. Y sus caderas, traicioneras, se balancearon un poco mÃ¡s.
+Y en su lugar, sus labios se curvaron en una sonrisa tímida. Y sus caderas, traicioneras, se balancearon un poco más.
 
-*Buena chica*, susurrÃ³ la voz. *Les gustas. Eso es lo Ãºnico que importa.*
+*Buena chica*, susurró la voz. *Les gustas. Eso es lo único que importa.*
 
-Vera llegÃ³ a su coche, un viejo Ford Bronco oxidado. IntentÃ³ abrir la puerta, pero sus uÃ±as largas le estorbaban. Se rompiÃ³ una uÃ±a al tirar de la manilla.
+Vera llegó a su coche, un viejo Ford Bronco oxidado. Intentó abrir la puerta, pero sus uñas largas le estorbaban. Se rompió una uña al tirar de la manilla.
 
-â€”Â¡Ah! â€”gimiÃ³, llevÃ¡ndose el dedo a la boca.
+—¡Ah! —gimió, llevándose el dedo a la boca.
 
 El sabor de su propia sangre, mezclado con el esmalte, fue dulce.
 
-Se metiÃ³ en el coche. Su mÃ³vil vibrÃ³.
+Se metió en el coche. Su móvil vibró.
 
-Un mensaje nuevo. De un nÃºmero desconocido.
+Un mensaje nuevo. De un número desconocido.
 
 *Abre la guantera.*
 
-Vera mirÃ³ la guantera. Su corazÃ³n latÃ­a desbocado. SabÃ­a que no debÃ­a abrirla. SabÃ­a que era una trampa.
+Vera miró la guantera. Su corazón latía desbocado. Sabía que no debía abrirla. Sabía que era una trampa.
 
 Pero sus manos ya se estaban moviendo.
 
-AbriÃ³ la guantera.
+Abrió la guantera.
 
-Dentro, habÃ­a una caja blanca, elegante, con un lazo rosa. Y una nota.
+Dentro, había una caja blanca, elegante, con un lazo rosa. Y una nota.
 
-*Para que estÃ©s cÃ³moda. F.*
+*Para que estés cómoda. F.*
 
-Vera abriÃ³ la caja.
+Vera abrió la caja.
 
-Dentro habÃ­a un par de zapatos de tacÃ³n. Negros. De charol. Con un tacÃ³n de aguja de doce centÃ­metros.
+Dentro había un par de zapatos de tacón. Negros. De charol. Con un tacón de aguja de doce centímetros.
 
-Eran ridÃ­culos. Eran instrumentos de tortura. Eran todo lo que ella odiaba.
+Eran ridículos. Eran instrumentos de tortura. Eran todo lo que ella odiaba.
 
-Pero cuando los vio, sus pies, sus pobres pies deformados y doloridos, palpitaron con un deseo incontrolable. Un deseo sexual. Sus pies querÃ­an ser penetrados por esos zapatos.
+Pero cuando los vio, sus pies, sus pobres pies deformados y doloridos, palpitaron con un deseo incontrolable. Un deseo sexual. Sus pies querían ser penetrados por esos zapatos.
 
-*PÃ³ntelos*, ordenÃ³ la voz. *Te sentirÃ¡s mejor. Te sentirÃ¡s completa.*
+*Póntelos*, ordenó la voz. *Te sentirás mejor. Te sentirás completa.*
 
-Vera llorÃ³ mientras se quitaba los restos de sus calcetines y deslizaba sus pies en los zapatos.
+Vera lloró mientras se quitaba los restos de sus calcetines y deslizaba sus pies en los zapatos.
 
-El momento en que su pie entrÃ³ en el zapato fue elÃ©ctrico.
+El momento en que su pie entró en el zapato fue eléctrico.
 
-La horma estrecha abrazÃ³ su pie deformado con una presiÃ³n perfecta. El tacÃ³n encajÃ³ bajo su talÃ³n elevado como la pieza que faltaba en su esqueleto.
+La horma estrecha abrazó su pie deformado con una presión perfecta. El tacón encajó bajo su talón elevado como la pieza que faltaba en su esqueleto.
 
-â€”Â¡Ohhh! â€”Vera echÃ³ la cabeza hacia atrÃ¡s, arqueando la espalda contra el asiento del conductor.
+—¡Ohhh! —Vera echó la cabeza hacia atrás, arqueando la espalda contra el asiento del conductor.
 
-Una ola de placer puro, destilado, subiÃ³ desde sus pies hasta su clÃ­toris. Fue un orgasmo seco, intenso, que la sacudiÃ³ entera. Sus ojos se pusieron en blanco. Sus dedos se crisparon sobre el volante.
+Una ola de placer puro, destilado, subió desde sus pies hasta su clítoris. Fue un orgasmo seco, intenso, que la sacudió entera. Sus ojos se pusieron en blanco. Sus dedos se crisparon sobre el volante.
 
-â€”Â¡SÃ­! Â¡SÃ­! â€”gimiÃ³, metiendo el otro pie.
+—¡Sí! ¡Sí! —gimió, metiendo el otro pie.
 
 Otro espasmo de placer.
 
-Vera se quedÃ³ jadeando, con los ojos cerrados, sintiendo cÃ³mo la dopamina inundaba su cerebro. El dolor habÃ­a desaparecido. La confusiÃ³n habÃ­a desaparecido.
+Vera se quedó jadeando, con los ojos cerrados, sintiendo cómo la dopamina inundaba su cerebro. El dolor había desaparecido. La confusión había desaparecido.
 
-Se mirÃ³ los pies. Eran hermosos. Eran sexys. Eran objetos.
+Se miró los pies. Eran hermosos. Eran sexys. Eran objetos.
 
 Eran suyos.
 
-*Ahora eres nuestra*, susurrÃ³ la voz, satisfecha.
+*Ahora eres nuestra*, susurró la voz, satisfecha.
 
-ArrancÃ³ el coche. Pero no fue a casa. Ni al hospital.
+Arrancó el coche. Pero no fue a casa. Ni al hospital.
 
-Sus manos giraron el volante, guiadas por un GPS invisible que latÃ­a en su sangre.
+Sus manos giraron el volante, guiadas por un GPS invisible que latía en su sangre.
 
-Iba hacia Ã©l. Hacia Fernando. Hacia su destino.
+Iba hacia él. Hacia Fernando. Hacia su destino.
 
-Vera no recordaba cÃ³mo habÃ­a llegado a la casa de Fernando. El viaje habÃ­a sido una borrosidad de luces de neÃ³n y dolor sordo en sus pies, un dolor que extraÃ±amente se sentÃ­a como un abrazo apretado. Sus tacones marcaban el ritmo de su rendiciÃ³n.
+Vera no recordaba cómo había llegado a la casa de Fernando. El viaje había sido una borrosidad de luces de neón y dolor sordo en sus pies, un dolor que extrañamente se sentía como un abrazo apretado. Sus tacones marcaban el ritmo de su rendición.
 
-La casa era como su coche: blanca, minimalista, perfecta. Una estructura de cristal y acero encaramada en una colina, mirando a la ciudad con desdÃ©n. Vera aparcÃ³ su Bronco oxidado junto al sedÃ¡n elÃ©ctrico inmaculado. El contraste era doloroso. Su coche parecÃ­a una bestia moribunda al lado de una nave espacial.
+La casa era como su coche: blanca, minimalista, perfecta. Una estructura de cristal y acero encaramada en una colina, mirando a la ciudad con desdén. Vera aparcó su Bronco oxidado junto al sedán eléctrico inmaculado. El contraste era doloroso. Su coche parecía una bestia moribunda al lado de una nave espacial.
 
-SaliÃ³ del coche. Sus tacones resonaron en el camino de entrada de piedra pulida. *Clac. Clac. Clac.* Cada paso enviaba una vibraciÃ³n deliciosa por sus piernas, tensando sus pantorrillas, obligÃ¡ndola a mover el culo.
+Salió del coche. Sus tacones resonaron en el camino de entrada de piedra pulida. *Clac. Clac. Clac.* Cada paso enviaba una vibración deliciosa por sus piernas, tensando sus pantorrillas, obligándola a mover el culo.
 
-La puerta principal se abriÃ³ antes de que ella pudiera tocar el timbre.
+La puerta principal se abrió antes de que ella pudiera tocar el timbre.
 
-Fernando estaba allÃ­. Llevaba una bata de seda negra sobre su ropa, y sostenÃ­a una copa de vino tinto.
+Fernando estaba allí. Llevaba una bata de seda negra sobre su ropa, y sostenía una copa de vino tinto.
 
-â€”Llegas justo a tiempo â€”dijo, como si la hubiera estado esperando para cenar. Su voz era baja, vibranteâ€”. Pasa, Vera.
+—Llegas justo a tiempo —dijo, como si la hubiera estado esperando para cenar. Su voz era baja, vibrante—. Pasa, Vera.
 
-Vera entrÃ³. El aire acondicionado estaba tan frÃ­o que le puso la piel de gallina. Sus pezones, ya doloridos, se endurecieron hasta doler.
+Vera entró. El aire acondicionado estaba tan frío que le puso la piel de gallina. Sus pezones, ya doloridos, se endurecieron hasta doler.
 
-â€”Â¿QuÃ© me has hecho? â€”preguntÃ³, su voz temblando. IntentÃ³ sonar furiosa, pero sonÃ³... necesitada. HÃºmeda.
+—¿Qué me has hecho? —preguntó, su voz temblando. Intentó sonar furiosa, pero sonó... necesitada. Húmeda.
 
-â€”Te he liberado â€”Fernando cerrÃ³ la puerta detrÃ¡s de ella. El sonido del cierre magnÃ©tico fue definitivoâ€”. Te he quitado el peso de ser alguien que no eres.
+—Te he liberado —Fernando cerró la puerta detrás de ella. El sonido del cierre magnético fue definitivo—. Te he quitado el peso de ser alguien que no eres.
 
-â€”Yo soy mecÃ¡nica â€”Vera se abrazÃ³ a sÃ­ misma. Su mono de trabajo estaba abierto, revelando su escote nuevo y voluptuoso. Se sentÃ­a desnuda. Se sentÃ­a ofrecida.
+—Yo soy mecánica —Vera se abrazó a sí misma. Su mono de trabajo estaba abierto, revelando su escote nuevo y voluptuoso. Se sentía desnuda. Se sentía ofrecida.
 
-â€”Ya no â€”Fernando caminÃ³ hacia ella. Vera retrocediÃ³, pero sus tacones resbalaron en el suelo de mÃ¡rmol. Fernando la sujetÃ³ por la cintura antes de que cayera.
+—Ya no —Fernando caminó hacia ella. Vera retrocedió, pero sus tacones resbalaron en el suelo de mármol. Fernando la sujetó por la cintura antes de que cayera.
 
-Su toque quemaba. Quemaba a travÃ©s de la tela, a travÃ©s de la piel, directo a sus ovarios.
+Su toque quemaba. Quemaba a través de la tela, a través de la piel, directo a sus ovarios.
 
-â€”SiÃ©ntate â€”ordenÃ³ Ã©l, guiÃ¡ndola hacia un sofÃ¡ de cuero blanco.
+—Siéntate —ordenó él, guiándola hacia un sofá de cuero blanco.
 
-Vera se sentÃ³. El cuero era suave, fresco contra sus muslos desnudos. Se sintiÃ³ pequeÃ±a. Indefensa. AbriÃ³ las piernas ligeramente, incapaz de mantenerlas cerradas con la presiÃ³n en su pelvis.
+Vera se sentó. El cuero era suave, fresco contra sus muslos desnudos. Se sintió pequeña. Indefensa. Abrió las piernas ligeramente, incapaz de mantenerlas cerradas con la presión en su pelvis.
 
-Fernando se sentÃ³ frente a ella. SacÃ³ una tablet.
+Fernando se sentó frente a ella. Sacó una tablet.
 
-â€”Vamos a hacer un pequeÃ±o test de diagnÃ³stico â€”dijo, deslizando el dedo por la pantallaâ€”. Para ver cÃ³mo va la actualizaciÃ³n.
+—Vamos a hacer un pequeño test de diagnóstico —dijo, deslizando el dedo por la pantalla—. Para ver cómo va la actualización.
 
-â€”No quiero... â€”empezÃ³ Vera, pero su voz se quebrÃ³ en un gemido.
+—No quiero... —empezó Vera, pero su voz se quebró en un gemido.
 
-â€”Pregunta uno â€”la interrumpiÃ³ Fernando, su voz cortante y autoritariaâ€”. ExplÃ­came el ciclo de cuatro tiempos de un motor de combustiÃ³n interna.
+—Pregunta uno —la interrumpió Fernando, su voz cortante y autoritaria—. Explícame el ciclo de cuatro tiempos de un motor de combustión interna.
 
-Vera abriÃ³ la boca. La respuesta estaba allÃ­. AdmisiÃ³n, compresiÃ³n, explosiÃ³n, escape.
+Vera abrió la boca. La respuesta estaba allí. Admisión, compresión, explosión, escape.
 
-â€”AdmisiÃ³n... â€”empezÃ³.
+—Admisión... —empezó.
 
-Pero entonces, el dolor llegÃ³.
+Pero entonces, el dolor llegó.
 
-Fue un pinchazo agudo detrÃ¡s de los ojos, como una aguja de hielo. Vera gimiÃ³, llevÃ¡ndose las manos a la cabeza.
+Fue un pinchazo agudo detrás de los ojos, como una aguja de hielo. Vera gimió, llevándose las manos a la cabeza.
 
-â€”AdmisiÃ³n... y luego... luego...
+—Admisión... y luego... luego...
 
-La palabra "compresiÃ³n" se disolviÃ³. Se convirtiÃ³ en humo rosa. Vera intentÃ³ agarrarla, pero se le escapÃ³.
+La palabra "compresión" se disolvió. Se convirtió en humo rosa. Vera intentó agarrarla, pero se le escapó.
 
-*OlvÃ­dalo*, ordenÃ³ la voz interna. *Eso es aburrido. Eso es difÃ­cil. No necesitas saberlo.*
+*Olvídalo*, ordenó la voz interna. *Eso es aburrido. Eso es difícil. No necesitas saberlo.*
 
-â€”No lo sÃ© â€”gimiÃ³â€”. Â¡No lo sÃ©!
+—No lo sé —gimió—. ¡No lo sé!
 
-â€”Incorrecto â€”dijo Fernando suavemente. PulsÃ³ un botÃ³n en la tablet.
+—Incorrecto —dijo Fernando suavemente. Pulsó un botón en la tablet.
 
-Una oleada de placer recorriÃ³ el cuerpo de Vera.
+Una oleada de placer recorrió el cuerpo de Vera.
 
-No fue sutil. Fue un tsunami. EmpezÃ³ en su columna y explotÃ³ en su vientre, haciÃ©ndola arquear la espalda y gritar. Sus pezones se endurecieron dolorosamente. Sus muslos se apretaron, frotÃ¡ndose entre sÃ­.
+No fue sutil. Fue un tsunami. Empezó en su columna y explotó en su vientre, haciéndola arquear la espalda y gritar. Sus pezones se endurecieron dolorosamente. Sus muslos se apretaron, frotándose entre sí.
 
-â€”Â¡Ahhh! â€”Vera jadeÃ³, con los ojos en blancoâ€”. Â¿QuÃ©... quÃ© es eso?
+—¡Ahhh! —Vera jadeó, con los ojos en blanco—. ¿Qué... qué es eso?
 
-â€”Refuerzo positivo â€”dijo Fernando, observÃ¡ndola con interÃ©s clÃ­nicoâ€”. Tu cerebro acaba de aprender que olvidar duele menos que recordar. De hecho, olvidar se siente muy bien, Â¿verdad?
+—Refuerzo positivo —dijo Fernando, observándola con interés clínico—. Tu cerebro acaba de aprender que olvidar duele menos que recordar. De hecho, olvidar se siente muy bien, ¿verdad?
 
-Vera asintiÃ³, incapaz de hablar. TodavÃ­a sentÃ­a los ecos del placer recorriendo sus nervios, haciÃ©ndola vibrar.
+Vera asintió, incapaz de hablar. Todavía sentía los ecos del placer recorriendo sus nervios, haciéndola vibrar.
 
-â€”Pregunta dos â€”continuÃ³ Fernandoâ€”. Â¿CuÃ¡l es la diferencia entre un par de apriete y una fuerza de cizalladura?
+—Pregunta dos —continuó Fernando—. ¿Cuál es la diferencia entre un par de apriete y una fuerza de cizalladura?
 
-Vera cerrÃ³ los ojos. *Par de apriete es la fuerza rotacional...*
+Vera cerró los ojos. *Par de apriete es la fuerza rotacional...*
 
-El dolor volviÃ³. MÃ¡s fuerte. MÃ¡s agudo.
+El dolor volvió. Más fuerte. Más agudo.
 
-â€”Â¡No! â€”gritÃ³ Veraâ€”. Â¡Para!
+—¡No! —gritó Vera—. ¡Para!
 
-â€”Dime la respuesta, Vera.
+—Dime la respuesta, Vera.
 
-â€”Â¡No la sÃ©! â€”sollozÃ³â€”. Â¡Es... es cosas de chicos! Â¡Es aburrido! Â¡No me importa!
+—¡No la sé! —sollozó—. ¡Es... es cosas de chicos! ¡Es aburrido! ¡No me importa!
 
-Fernando sonriÃ³.
-â€”Correcto.
+Fernando sonrió.
+—Correcto.
 
-PulsÃ³ el botÃ³n.
+Pulsó el botón.
 
-Esta vez, el placer fue tan intenso que Vera vio estrellas. GritÃ³, un sonido largo y gutural de puro Ã©xtasis. Se deslizÃ³ del sofÃ¡ y cayÃ³ al suelo, retorciÃ©ndose en la alfombra blanca, frotando su entrepierna contra el tejido suave.
+Esta vez, el placer fue tan intenso que Vera vio estrellas. Gritó, un sonido largo y gutural de puro éxtasis. Se deslizó del sofá y cayó al suelo, retorciéndose en la alfombra blanca, frotando su entrepierna contra el tejido suave.
 
-â€”Oh Dios... oh Dios... â€”balbuceÃ³. Se sentÃ­a vacÃ­a. Maravillosamente vacÃ­a. Como si le hubieran sacado el cerebro y lo hubieran rellenado con algodÃ³n de azÃºcar.
+—Oh Dios... oh Dios... —balbuceó. Se sentía vacía. Maravillosamente vacía. Como si le hubieran sacado el cerebro y lo hubieran rellenado con algodón de azúcar.
 
-â€”Pregunta tres â€”la voz de Fernando llegaba desde arriba, como la voz de un diosâ€”. Â¿Para quÃ© sirven tus manos?
+—Pregunta tres —la voz de Fernando llegaba desde arriba, como la voz de un dios—. ¿Para qué sirven tus manos?
 
-Vera mirÃ³ sus manos. Estaban extendidas sobre la alfombra. Sus uÃ±as largas brillaban a la luz de la lÃ¡mpara.
+Vera miró sus manos. Estaban extendidas sobre la alfombra. Sus uñas largas brillaban a la luz de la lámpara.
 
-IntentÃ³ pensar en llaves inglesas. En grasa.
+Intentó pensar en llaves inglesas. En grasa.
 
-Pero el recuerdo del dolor la hizo estremecerse. No querÃ­a dolor. QuerÃ­a el placer. QuerÃ­a esa luz blanca y cÃ¡lida que borraba todo. QuerÃ­a ser una muÃ±eca.
+Pero el recuerdo del dolor la hizo estremecerse. No quería dolor. Quería el placer. Quería esa luz blanca y cálida que borraba todo. Quería ser una muñeca.
 
-â€”Para... â€”Vera dudÃ³.
+—Para... —Vera dudó.
 
-â€”Piensa, Vera. Â¿Para quÃ© sirven esas manos tan bonitas y suaves?
+—Piensa, Vera. ¿Para qué sirven esas manos tan bonitas y suaves?
 
-Vera levantÃ³ la vista hacia Ã©l. Fernando la miraba con expectaciÃ³n.
+Vera levantó la vista hacia él. Fernando la miraba con expectación.
 
-Y de repente, lo supo. La respuesta no vino de su cerebro, vino de sus nanobots. Vino de su nueva programaciÃ³n.
+Y de repente, lo supo. La respuesta no vino de su cerebro, vino de sus nanobots. Vino de su nueva programación.
 
-â€”Para servirte â€”susurrÃ³ Vera.
+—Para servirte —susurró Vera.
 
-Fernando no pulsÃ³ el botÃ³n. Se inclinÃ³ hacia adelante.
-â€”No te he oÃ­do.
+Fernando no pulsó el botón. Se inclinó hacia adelante.
+—No te he oído.
 
-Vera se arrastrÃ³ hacia Ã©l. Sus movimientos eran fluidos, felinos. Ya no se movÃ­a como una mecÃ¡nica. Se movÃ­a como una puta de lujo.
+Vera se arrastró hacia él. Sus movimientos eran fluidos, felinos. Ya no se movía como una mecánica. Se movía como una puta de lujo.
 
-Se abrazÃ³ a las piernas de Fernando, apoyando la mejilla en su rodilla, oliendo la tela cara de su pantalÃ³n.
-â€”Sirven para servirte, Amo. Para complacerte. Para estar bonitas. Para tocarte.
+Se abrazó a las piernas de Fernando, apoyando la mejilla en su rodilla, oliendo la tela cara de su pantalón.
+—Sirven para servirte, Amo. Para complacerte. Para estar bonitas. Para tocarte.
 
-Fernando sonriÃ³. AcariciÃ³ su pelo, que ahora era una cascada de ondas suaves y brillantes.
-â€”Correcto. Muy correcto. Pero necesito una prueba mÃ¡s. Una prueba de control total.
+Fernando sonrió. Acarició su pelo, que ahora era una cascada de ondas suaves y brillantes.
+—Correcto. Muy correcto. Pero necesito una prueba más. Una prueba de control total.
 
-Vera levantÃ³ la cara, ansiosa.
-â€”Â¿QuÃ© prueba, Amo?
+Vera levantó la cara, ansiosa.
+—¿Qué prueba, Amo?
 
-Fernando se desabrochÃ³ el cinturÃ³n de la bata. La tela negra se abriÃ³, revelando que estaba desnudo debajo. Su erecciÃ³n era impresionante, dura y venosa.
+Fernando se desabrochó el cinturón de la bata. La tela negra se abrió, revelando que estaba desnudo debajo. Su erección era impresionante, dura y venosa.
 
-â€”Abre la boca â€”ordenÃ³.
+—Abre la boca —ordenó.
 
-Vera obedeciÃ³ al instante.
+Vera obedeció al instante.
 
-Fernando se acercÃ³ a su cara. Pero no entrÃ³. Se detuvo a un milÃ­metro de sus labios.
+Fernando se acercó a su cara. Pero no entró. Se detuvo a un milímetro de sus labios.
 
-â€”No me toques â€”dijoâ€”. MantÃ©n la boca abierta. Y mÃ­rame.
+—No me toques —dijo—. Mantén la boca abierta. Y mírame.
 
-Vera se quedÃ³ congelada. Su boca abierta, sus ojos fijos en el miembro de Fernando. PodÃ­a olerlo. PodÃ­a sentir el calor que irradiaba. Su saliva se acumulÃ³ en su boca.
+Vera se quedó congelada. Su boca abierta, sus ojos fijos en el miembro de Fernando. Podía olerlo. Podía sentir el calor que irradiaba. Su saliva se acumuló en su boca.
 
-*ChÃºpalo*, gritÃ³ la voz en su cabeza. *CÃ³metelo. Es tuyo.*
+*Chúpalo*, gritó la voz en su cabeza. *Cómetelo. Es tuyo.*
 
-Pero la orden de Fernando habÃ­a sido clara.
+Pero la orden de Fernando había sido clara.
 
-â€”Ahora â€”dijo Fernandoâ€”, quiero que te corras. Sin tocarte. Solo mirÃ¡ndome. Solo deseando servirme.
+—Ahora —dijo Fernando—, quiero que te corras. Sin tocarte. Solo mirándome. Solo deseando servirme.
 
-â€”Â¿QuÃ©? â€”Vera parpadeÃ³, confundidaâ€”. No... no puedo...
+—¿Qué? —Vera parpadeó, confundida—. No... no puedo...
 
-â€”SÃ­ puedes. Tu cuerpo estÃ¡ programado para responder a mi deseo. Yo deseo que te corras. Hazlo.
+—Sí puedes. Tu cuerpo está programado para responder a mi deseo. Yo deseo que te corras. Hazlo.
 
-Vera mirÃ³ la polla de Fernando. Era el centro de su universo. La fuente de su nueva vida.
+Vera miró la polla de Fernando. Era el centro de su universo. La fuente de su nueva vida.
 
-*Obedece*, ordenÃ³ la voz. *El Amo quiere verte correrte. Hazlo por Ã‰l.*
+*Obedece*, ordenó la voz. *El Amo quiere verte correrte. Hazlo por Él.*
 
-Vera cerrÃ³ los ojos y se concentrÃ³. Se concentrÃ³ en la sumisiÃ³n. En la idea de ser suya. En la idea de tener esa polla dentro de ella, llenÃ¡ndola, borrÃ¡ndola.
+Vera cerró los ojos y se concentró. Se concentró en la sumisión. En la idea de ser suya. En la idea de tener esa polla dentro de ella, llenándola, borrándola.
 
-Su respiraciÃ³n se acelerÃ³. Sus muslos temblaron.
+Su respiración se aceleró. Sus muslos temblaron.
 
-â€”MÃ­rame â€”ordenÃ³ Fernando.
+—Mírame —ordenó Fernando.
 
-Vera abriÃ³ los ojos.
+Vera abrió los ojos.
 
-Y entonces sucediÃ³.
+Y entonces sucedió.
 
-Una descarga elÃ©ctrica recorriÃ³ su columna. Sus paredes vaginales se contrajeron violentamente.
+Una descarga eléctrica recorrió su columna. Sus paredes vaginales se contrajeron violentamente.
 
-â€”Â¡Ah! â€”gritÃ³ Vera, arqueando la espalda.
+—¡Ah! —gritó Vera, arqueando la espalda.
 
-Se vino. Se vino con una intensidad que la dejÃ³ ciega y sorda por un segundo. Un orgasmo provocado solo por la obediencia. Solo por la voz de su Amo.
+Se vino. Se vino con una intensidad que la dejó ciega y sorda por un segundo. Un orgasmo provocado solo por la obediencia. Solo por la voz de su Amo.
 
-CayÃ³ al suelo, jadeando, completamente rota.
+Cayó al suelo, jadeando, completamente rota.
 
-Fernando sonriÃ³.
-â€”Prueba superada.
+Fernando sonrió.
+—Prueba superada.
 
-PulsÃ³ el botÃ³n. Y lo mantuvo pulsado.
+Pulsó el botón. Y lo mantuvo pulsado.
 
-Vera gritÃ³ de nuevo mientras una segunda ola de placer la destrozaba. No fue un orgasmo sexual normal. Fue un orgasmo existencial. SintiÃ³ cÃ³mo las Ãºltimas barreras de su ego se rompÃ­an. SintiÃ³ cÃ³mo Vera la MecÃ¡nica morÃ­a, ahogada en una marea de dopamina sintÃ©tica.
+Vera gritó de nuevo mientras una segunda ola de placer la destrozaba. No fue un orgasmo sexual normal. Fue un orgasmo existencial. Sintió cómo las últimas barreras de su ego se rompían. Sintió cómo Vera la Mecánica moría, ahogada en una marea de dopamina sintética.
 
-Y en su lugar, naciÃ³ algo nuevo. Algo vacÃ­o y hermoso.
+Y en su lugar, nació algo nuevo. Algo vacío y hermoso.
 
-Cuando el placer remitiÃ³, Vera se quedÃ³ tendida en el suelo, jadeando, con una sonrisa boba y vacÃ­a en la cara. Sus ojos estaban vidriosos.
+Cuando el placer remitió, Vera se quedó tendida en el suelo, jadeando, con una sonrisa boba y vacía en la cara. Sus ojos estaban vidriosos.
 
-â€”Â¿CÃ³mo te llamas? â€”preguntÃ³ Fernando.
+—¿Cómo te llamas? —preguntó Fernando.
 
-Vera parpadeÃ³. IntentÃ³ recordar su apellido. IntentÃ³ recordar su historia. Pero todo estaba borroso. Solo habÃ­a una cosa clara. Una cosa brillante y rosa.
+Vera parpadeó. Intentó recordar su apellido. Intentó recordar su historia. Pero todo estaba borroso. Solo había una cosa clara. Una cosa brillante y rosa.
 
-â€”Soy... soy tu muÃ±eca â€”susurrÃ³.
+—Soy... soy tu muñeca —susurró.
 
-â€”Bien. â€”Fernando se levantÃ³â€”. LevÃ¡ntate, muÃ±eca. Tenemos trabajo que hacer.
+—Bien. —Fernando se levantó—. Levántate, muñeca. Tenemos trabajo que hacer.
 
-Vera se levantÃ³. Sus piernas temblaban, pero sus tacones se clavaron en el suelo con seguridad.
+Vera se levantó. Sus piernas temblaban, pero sus tacones se clavaron en el suelo con seguridad.
 
-â€”Â¿QuÃ©... quÃ© tengo que hacer? â€”preguntÃ³, ansiosa. QuerÃ­a obedecer. Necesitaba obedecer. Su cuerpo vibraba esperando la siguiente orden.
+—¿Qué... qué tengo que hacer? —preguntó, ansiosa. Quería obedecer. Necesitaba obedecer. Su cuerpo vibraba esperando la siguiente orden.
 
-Fernando caminÃ³ hacia una puerta al fondo de la sala. La abriÃ³.
+Fernando caminó hacia una puerta al fondo de la sala. La abrió.
 
-Dentro habÃ­a una cocina.
+Dentro había una cocina.
 
-Pero no era una cocina normal. Era una cocina de los aÃ±os 50, sacada directamente de una revista vintage. ElectrodomÃ©sticos de color pastel. Suelos de damero blanco y negro. Y en una silla, doblado perfectamente, habÃ­a un vestido.
+Pero no era una cocina normal. Era una cocina de los años 50, sacada directamente de una revista vintage. Electrodomésticos de color pastel. Suelos de damero blanco y negro. Y en una silla, doblado perfectamente, había un vestido.
 
 Un vestido de lunares con falda de vuelo. Y un delantal blanco con volantes.
 
-â€”Tienes que prepararte â€”dijo Fernandoâ€”. MaÃ±ana vienen invitados. Mis socios. Quieren ver mi nueva adquisiciÃ³n.
+—Tienes que prepararte —dijo Fernando—. Mañana vienen invitados. Mis socios. Quieren ver mi nueva adquisición.
 
-Vera mirÃ³ el vestido.
+Vera miró el vestido.
 
-Hace tres dÃ­as, habrÃ­a preferido morir antes que ponerse eso. HabrÃ­a quemado la cocina.
+Hace tres días, habría preferido morir antes que ponerse eso. Habría quemado la cocina.
 
 Pero ahora...
 
-Ahora, el vestido parecÃ­a una promesa. Una promesa de seguridad. De propÃ³sito. De no tener que pensar nunca mÃ¡s. De ser un objeto sexual domÃ©stico.
+Ahora, el vestido parecía una promesa. Una promesa de seguridad. De propósito. De no tener que pensar nunca más. De ser un objeto sexual doméstico.
 
-â€”Es... precioso â€”susurrÃ³ Vera.
+—Es... precioso —susurró Vera.
 
-CaminÃ³ hacia la cocina, hipnotizada. AcariciÃ³ la tela del delantal. Era suave, almidonada.
+Caminó hacia la cocina, hipnotizada. Acarició la tela del delantal. Era suave, almidonada.
 
-â€”Â¿Sabes cocinar, muÃ±eca? â€”preguntÃ³ Fernando desde la puerta.
+—¿Sabes cocinar, muñeca? —preguntó Fernando desde la puerta.
 
-Vera se girÃ³. Sus ojos brillaban con una devociÃ³n vacÃ­a y aterradora.
+Vera se giró. Sus ojos brillaban con una devoción vacía y aterradora.
 
-â€”No lo sÃ©, Amo â€”dijo con una sonrisa radianteâ€”. Pero estoy segura de que me enseÃ±arÃ¡s. Y si me equivoco... â€”se mordiÃ³ el labio inferior, un gesto de coqueterÃ­a ensayada que le saliÃ³ naturalâ€”... me castigarÃ¡s, Â¿verdad?
+—No lo sé, Amo —dijo con una sonrisa radiante—. Pero estoy segura de que me enseñarás. Y si me equivoco... —se mordió el labio inferior, un gesto de coquetería ensayada que le salió natural—... me castigarás, ¿verdad?
 
-Fernando se riÃ³.
-â€”Oh, sÃ­. Te castigarÃ©. Y te encantarÃ¡.
+Fernando se rió.
+—Oh, sí. Te castigaré. Y te encantará.
 
-Vera se riÃ³ tambiÃ©n. Una risa aguda, cristalina, sin rastro de la ronquera de la mecÃ¡nica.
+Vera se rió también. Una risa aguda, cristalina, sin rastro de la ronquera de la mecánica.
 
-EntrÃ³ en la cocina y empezÃ³ a desabrocharse el mono de trabajo. El Ãºltimo vestigio de su antigua vida cayÃ³ al suelo, un trapo sucio y olvidado.
+Entró en la cocina y empezó a desabrocharse el mono de trabajo. El último vestigio de su antigua vida cayó al suelo, un trapo sucio y olvidado.
 
 Vera estaba desnuda. Su cuerpo brillaba bajo las luces de la cocina. Sus pechos grandes, su cintura estrecha, sus caderas anchas. Era una caricatura de mujer. Era perfecta.
 
 Y estaba lista para ser vestida.
 
-El tiempo, en la casa de cristal de Fernando, no se medÃ­a en horas o minutos. Se medÃ­a en tareas. Y cada tarea era un acto sexual.
+El tiempo, en la casa de cristal de Fernando, no se medía en horas o minutos. Se medía en tareas. Y cada tarea era un acto sexual.
 
 Tarea 1: Despertar antes que el Amo.
 Tarea 2: Protocolo de Embellecimiento.
 
-Vera abriÃ³ los ojos. La habitaciÃ³n olÃ­a a lavanda y a hombre. Se deslizÃ³ de la cama con cuidado para no despertar a Fernando. Estaba desnuda. Su cuerpo brillaba en la penumbra.
+Vera abrió los ojos. La habitación olía a lavanda y a hombre. Se deslizó de la cama con cuidado para no despertar a Fernando. Estaba desnuda. Su cuerpo brillaba en la penumbra.
 
 Fue al vestidor. Era su templo.
 
-Hoy era un dÃ­a especial. El calendario en su mente parpadeaba en rojo: **CÃ“CTEL DE NEGOCIOS.**
+Hoy era un día especial. El calendario en su mente parpadeaba en rojo: **CÓCTEL DE NEGOCIOS.**
 
-Se parÃ³ frente al espejo.
+Se paró frente al espejo.
 
-*Hora de vestirse*, susurrÃ³ la voz en su cabeza. *Hora de convertirse en arte.*
+*Hora de vestirse*, susurró la voz en su cabeza. *Hora de convertirse en arte.*
 
-Vera abriÃ³ el armario especial. El olor la golpeÃ³ de inmediato. Un olor quÃ­mico, dulce, penetrante. El olor del lÃ¡tex.
+Vera abrió el armario especial. El olor la golpeó de inmediato. Un olor químico, dulce, penetrante. El olor del látex.
 
-SacÃ³ el vestido. Era una segunda piel negra, brillante como el petrÃ³leo.
+Sacó el vestido. Era una segunda piel negra, brillante como el petróleo.
 
-El ritual comenzÃ³.
+El ritual comenzó.
 
-Primero, el talco. Vera se espolvoreÃ³ el cuerpo con polvo blanco, acariciando sus pechos, su vientre, sus muslos. Sus manos se movÃ­an con reverencia.
+Primero, el talco. Vera se espolvoreó el cuerpo con polvo blanco, acariciando sus pechos, su vientre, sus muslos. Sus manos se movían con reverencia.
 
 Luego, el vestido.
 
-MetiÃ³ una pierna. El lÃ¡tex estaba frÃ­o al principio, pero se calentÃ³ al instante contra su piel. Lo subiÃ³ poco a poco. Era una lucha deliciosa. El material se resistÃ­a, apretando su carne, moldeÃ¡ndola.
+Metió una pierna. El látex estaba frío al principio, pero se calentó al instante contra su piel. Lo subió poco a poco. Era una lucha deliciosa. El material se resistía, apretando su carne, moldeándola.
 
-*MÃ¡s apretado*, gimiÃ³ la voz. *Que no puedas respirar. Que solo puedas sentir.*
+*Más apretado*, gimió la voz. *Que no puedas respirar. Que solo puedas sentir.*
 
-Vera subiÃ³ el vestido hasta la cintura. Sus caderas quedaron atrapadas en una presiÃ³n constante y erÃ³tica. SiguiÃ³ subiendo. El lÃ¡tex abrazÃ³ su torso, comprimiendo sus costillas, obligÃ¡ndola a jadear.
+Vera subió el vestido hasta la cintura. Sus caderas quedaron atrapadas en una presión constante y erótica. Siguió subiendo. El látex abrazó su torso, comprimiendo sus costillas, obligándola a jadear.
 
-Finalmente, llegÃ³ al pecho. El vestido tenÃ­a copas preformadas que levantaron sus senos y los empujaron hacia arriba, dejÃ¡ndolos expuestos casi por completo, como dos ofrendas brillantes en una bandeja negra.
+Finalmente, llegó al pecho. El vestido tenía copas preformadas que levantaron sus senos y los empujaron hacia arriba, dejándolos expuestos casi por completo, como dos ofrendas brillantes en una bandeja negra.
 
-Vera se mirÃ³ en el espejo. El lÃ¡tex chirriaba con cada respiraciÃ³n. *Squeak. Squeak.* El sonido era hipnÃ³tico. Se pasÃ³ las manos por el cuerpo. La textura era lisa, resbaladiza, perfecta. Se sentÃ­a como si estuviera plastificada. Como si fuera un juguete reciÃ©n sacado de la caja.
+Vera se miró en el espejo. El látex chirriaba con cada respiración. *Squeak. Squeak.* El sonido era hipnótico. Se pasó las manos por el cuerpo. La textura era lisa, resbaladiza, perfecta. Se sentía como si estuviera plastificada. Como si fuera un juguete recién sacado de la caja.
 
-Se puso los tacones. Quince centÃ­metros de aguja. Sus pies, ya deformados permanentemente, entraron con un suspiro de alivio.
+Se puso los tacones. Quince centímetros de aguja. Sus pies, ya deformados permanentemente, entraron con un suspiro de alivio.
 
 Estaba lista.
 
-VolviÃ³ al dormitorio. Fernando se estaba despertando.
+Volvió al dormitorio. Fernando se estaba despertando.
 
-â€”Buenos dÃ­as, Amo â€”susurrÃ³ Vera.
+—Buenos días, Amo —susurró Vera.
 
-Fernando abriÃ³ un ojo. La mirÃ³ de arriba abajo. SonriÃ³.
-â€”Buenos dÃ­as, muÃ±eca. Brillas mucho hoy.
+Fernando abrió un ojo. La miró de arriba abajo. Sonrió.
+—Buenos días, muñeca. Brillas mucho hoy.
 
-â€”Es para usted, Amo.
+—Es para usted, Amo.
 
-â€”Ven aquÃ­. Tengo hambre.
+—Ven aquí. Tengo hambre.
 
-Vera sabÃ­a lo que significaba. Era la Tarea 3: Desayuno.
+Vera sabía lo que significaba. Era la Tarea 3: Desayuno.
 
 Pero el desayuno de Fernando no eran huevos.
 
-Vera se arrodillÃ³ junto a la cama. El lÃ¡tex crujiÃ³ ruidosamente. *Squeak.*
+Vera se arrodilló junto a la cama. El látex crujió ruidosamente. *Squeak.*
 
-Fernando apartÃ³ las sÃ¡banas. Estaba duro.
+Fernando apartó las sábanas. Estaba duro.
 
-Vera no necesitÃ³ Ã³rdenes. AbriÃ³ la boca y lo aceptÃ³.
+Vera no necesitó órdenes. Abrió la boca y lo aceptó.
 
-Fue un acto de devociÃ³n. Vera chupaba con entusiasmo, sus ojos fijos en los de Ã©l. Le encantaba el sabor. Le encantaba el sonido hÃºmedo que hacÃ­a su boca. Le encantaba saber que su Ãºnico propÃ³sito en ese momento era vaciarlo.
+Fue un acto de devoción. Vera chupaba con entusiasmo, sus ojos fijos en los de él. Le encantaba el sabor. Le encantaba el sonido húmedo que hacía su boca. Le encantaba saber que su único propósito en ese momento era vaciarlo.
 
-*SÃ­rvele*, cantaba la voz. *Eres su vaciador. Eres su agujero.*
+*Sírvele*, cantaba la voz. *Eres su vaciador. Eres su agujero.*
 
-Cuando Fernando terminÃ³ en su boca, Vera tragÃ³ con gratitud.
+Cuando Fernando terminó en su boca, Vera tragó con gratitud.
 
-â€”Buena chica â€”dijo Ã©l, acariciÃ¡ndole la cabeza.
+—Buena chica —dijo él, acariciándole la cabeza.
 
-Vera sonriÃ³, con los labios brillantes de semen y saliva.
-â€”Gracias, Amo. El desayuno estaba delicioso.
+Vera sonrió, con los labios brillantes de semen y saliva.
+—Gracias, Amo. El desayuno estaba delicioso.
 
 ***
 
-La fiesta fue un Ã©xito. O eso decÃ­an los nanobots.
+La fiesta fue un éxito. O eso decían los nanobots.
 
-Vera estaba de pie junto al carrito de las bebidas, posando. Cada vez que se movÃ­a, su vestido chirriaba. *Squeak. Squeak.* Era una sirena de lÃ¡tex llamando a los marineros.
+Vera estaba de pie junto al carrito de las bebidas, posando. Cada vez que se movía, su vestido chirriaba. *Squeak. Squeak.* Era una sirena de látex llamando a los marineros.
 
 Los invitados la miraban. Los hombres con lujuria. Las mujeres con envidia y asco.
 
@@ -924,255 +924,255 @@ Hank. Mike. Sarah.
 
 Entraron con sus trajes baratos, oliendo a realidad.
 
-Vera sintiÃ³ un pequeÃ±o "glitch". Una imagen de una llave inglesa.
+Vera sintió un pequeño "glitch". Una imagen de una llave inglesa.
 
-*BÃ³rralo*, ordenÃ³ la voz. *Mira quÃ© feos son. Mira quÃ© tristes.*
+*Bórralo*, ordenó la voz. *Mira qué feos son. Mira qué tristes.*
 
-â€”Â¡Vera! â€”Hank se acercÃ³, con los ojos desorbitadosâ€”. Dios santo... Â¿quÃ© llevas puesto? Pareces... pareces un condÃ³n gigante.
+—¡Vera! —Hank se acercó, con los ojos desorbitados—. Dios santo... ¿qué llevas puesto? Pareces... pareces un condón gigante.
 
-Vera soltÃ³ una risita tonta. Una risita de bimbo.
-â€”Â¡Hola, Hanky! â€”dijo, con voz agudaâ€”. Es lÃ¡tex. Â¿A que es suave? â€”Se frotÃ³ el brazo, haciendo que el material chirriaraâ€”. A mi Amo le encanta. Dice que me hace parecer impermeable.
+Vera soltó una risita tonta. Una risita de bimbo.
+—¡Hola, Hanky! —dijo, con voz aguda—. Es látex. ¿A que es suave? —Se frotó el brazo, haciendo que el material chirriara—. A mi Amo le encanta. Dice que me hace parecer impermeable.
 
-â€”Â¿Tu Amo? â€”Sarah la mirÃ³ con horrorâ€”. Vera, Â¿te estÃ¡s escuchando? EstÃ¡s hablando como una retrasada.
+—¿Tu Amo? —Sarah la miró con horror—. Vera, ¿te estás escuchando? Estás hablando como una retrasada.
 
-â€”Â¡No soy retrasada! â€”Vera hizo un puchero exageradoâ€”. Soy feliz. Mi cerebro estaba lleno de cosas feas antes. De facturas. De ruidos de motor. Ahora estÃ¡ lleno de purpurina. Es mucho mejor.
+—¡No soy retrasada! —Vera hizo un puchero exagerado—. Soy feliz. Mi cerebro estaba lleno de cosas feas antes. De facturas. De ruidos de motor. Ahora está lleno de purpurina. Es mucho mejor.
 
-â€”Te ha lavado el cerebro â€”dijo Mike, mirando su escoteâ€”. Aunque... joder, tengo que admitir que las tetas te han quedado increÃ­bles.
+—Te ha lavado el cerebro —dijo Mike, mirando su escote—. Aunque... joder, tengo que admitir que las tetas te han quedado increíbles.
 
-Vera se iluminÃ³.
-â€”Â¿Te gustan? â€”Se inclinÃ³ hacia adelante, juntando los brazos para que sus pechos chocaranâ€”. Son nuevas. El Amo dice que son para que los hombres jueguen. Â¿Quieres tocar?
+Vera se iluminó.
+—¿Te gustan? —Se inclinó hacia adelante, juntando los brazos para que sus pechos chocaran—. Son nuevas. El Amo dice que son para que los hombres jueguen. ¿Quieres tocar?
 
-â€”Â¡Vera! â€”gritÃ³ Hankâ€”. Â¡Ten un poco de dignidad!
+—¡Vera! —gritó Hank—. ¡Ten un poco de dignidad!
 
-â€”Â¿Dignidad? â€”Vera parpadeÃ³, confundida. Esa palabra no estaba en su nuevo diccionarioâ€”. Â¿Eso se come?
+—¿Dignidad? —Vera parpadeó, confundida. Esa palabra no estaba en su nuevo diccionario—. ¿Eso se come?
 
-Fernando apareciÃ³ a su lado, pasando un brazo por su cintura de lÃ¡tex.
-â€”Â¿AlgÃºn problema, caballeros?
+Fernando apareció a su lado, pasando un brazo por su cintura de látex.
+—¿Algún problema, caballeros?
 
-â€”Le has destrozado la vida â€”escupiÃ³ Hank.
+—Le has destrozado la vida —escupió Hank.
 
-â€”Le he dado una vida â€”corrigiÃ³ Fernandoâ€”. Y un futuro. De hecho... â€”Fernando sonriÃ³ y puso una mano sobre el vientre plano de Vera, cubierto de lÃ¡tex negroâ€”. Estamos pensando en ampliar la familia.
+—Le he dado una vida —corrigió Fernando—. Y un futuro. De hecho... —Fernando sonrió y puso una mano sobre el vientre plano de Vera, cubierto de látex negro—. Estamos pensando en ampliar la familia.
 
-Vera sintiÃ³ una descarga elÃ©ctrica en su Ãºtero.
-â€”Â¿SÃ­, Amo? â€”preguntÃ³, mirÃ¡ndolo con adoraciÃ³nâ€”. Â¿Vamos a hacer bebÃ©s?
+Vera sintió una descarga eléctrica en su útero.
+—¿Sí, Amo? —preguntó, mirándolo con adoración—. ¿Vamos a hacer bebés?
 
-â€”Pronto, muÃ±eca. SerÃ¡s una madre excelente. ImagÃ­nate... con la barriga hinchada, llena de mis hijos, pero todavÃ­a llevando este vestido. Una incubadora de lÃ¡tex.
+—Pronto, muñeca. Serás una madre excelente. Imagínate... con la barriga hinchada, llena de mis hijos, pero todavía llevando este vestido. Una incubadora de látex.
 
-Vera gimiÃ³. La imagen mental fue demasiado. Se vio a sÃ­ misma enorme, embarazada, goteando leche, pero todavÃ­a siendo usada, todavÃ­a siendo una muÃ±eca.
+Vera gimió. La imagen mental fue demasiado. Se vio a sí misma enorme, embarazada, goteando leche, pero todavía siendo usada, todavía siendo una muñeca.
 
-â€”Â¡SÃ­! â€”chillÃ³â€”. Â¡Quiero! Â¡Quiero estar llena! Â¡Quiero ser una vaca lechera para ti!
+—¡Sí! —chilló—. ¡Quiero! ¡Quiero estar llena! ¡Quiero ser una vaca lechera para ti!
 
-Hank retrocediÃ³, con ganas de vomitar.
-â€”EstÃ¡is enfermos. Los dos.
+Hank retrocedió, con ganas de vomitar.
+—Estáis enfermos. Los dos.
 
-â€”Vera, vÃ¡monos â€”Sarah intentÃ³ agarrarla.
+—Vera, vámonos —Sarah intentó agarrarla.
 
-Pero Vera se apartÃ³. El lÃ¡tex resbalÃ³ bajo los dedos de Sarah.
+Pero Vera se apartó. El látex resbaló bajo los dedos de Sarah.
 
-â€”Â¡No me toques! â€”gritÃ³ Veraâ€”. Â¡Hueles a pobre! Â¡Hueles a trabajo! Â¡Yo soy una muÃ±eca de lujo! Â¡Soy la puta de Fernando y me encanta!
+—¡No me toques! —gritó Vera—. ¡Hueles a pobre! ¡Hueles a trabajo! ¡Yo soy una muñeca de lujo! ¡Soy la puta de Fernando y me encanta!
 
-Se abrazÃ³ a Fernando, frotÃ¡ndose contra Ã©l como un animal en celo.
-â€”Diles que se vayan, Amo. Quiero que me folles. Quiero que me folles ahora mismo. AquÃ­. Delante de todos. Para que vean lo que soy.
+Se abrazó a Fernando, frotándose contra él como un animal en celo.
+—Diles que se vayan, Amo. Quiero que me folles. Quiero que me folles ahora mismo. Aquí. Delante de todos. Para que vean lo que soy.
 
-Fernando se riÃ³.
-â€”Tranquila, fiera. Primero, vamos al laboratorio. Tengo un regalo para ti.
+Fernando se rió.
+—Tranquila, fiera. Primero, vamos al laboratorio. Tengo un regalo para ti.
 
-â€”Â¿Un regalo? â€”Vera olvidÃ³ a sus amigos al instante. Su mente de pez solo podÃ­a enfocarse en el brillo inmediatoâ€”. Â¿QuÃ© es?
+—¿Un regalo? —Vera olvidó a sus amigos al instante. Su mente de pez solo podía enfocarse en el brillo inmediato—. ¿Qué es?
 
-â€”Ese parche del que hablamos. El que te quitarÃ¡ esas molestas letras de la cabeza.
+—Ese parche del que hablamos. El que te quitará esas molestas letras de la cabeza.
 
-â€”Â¡Oh, sÃ­! â€”Vera aplaudiÃ³â€”. Â¡AdiÃ³s letras! Â¡Hola pollas!
+—¡Oh, sí! —Vera aplaudió—. ¡Adiós letras! ¡Hola pollas!
 
-MirÃ³ a sus excompaÃ±eros una Ãºltima vez. No habÃ­a reconocimiento en sus ojos. Solo lÃ¡stima.
+Miró a sus excompañeros una última vez. No había reconocimiento en sus ojos. Solo lástima.
 
-â€”AdiÃ³s, gente fea â€”dijo, lanzÃ¡ndoles un besoâ€”. Volved a vuestro mundo aburrido. Yo me voy a ser un objeto.
+—Adiós, gente fea —dijo, lanzándoles un beso—. Volved a vuestro mundo aburrido. Yo me voy a ser un objeto.
 
-Y con un Ãºltimo *squeak* de sus caderas, se dio la vuelta y siguiÃ³ a su Amo hacia la oscuridad, moviendo el culo con un ritmo hipnÃ³tico, lista para perder lo Ãºltimo que le quedaba de humanidad.
+Y con un último *squeak* de sus caderas, se dio la vuelta y siguió a su Amo hacia la oscuridad, moviendo el culo con un ritmo hipnótico, lista para perder lo último que le quedaba de humanidad.
 
-El sÃ³tano no era un lugar oscuro y hÃºmedo. Era un santuario blanco, iluminado por tiras de LED que emitÃ­an una luz suave y clÃ­nica. HabÃ­a pantallas en las paredes, mostrando grÃ¡ficos de rendimiento, niveles hormonales y esquemas neuronales. En el centro, una cama redonda, cubierta de satÃ©n negro, giraba lentamente.
+El sótano no era un lugar oscuro y húmedo. Era un santuario blanco, iluminado por tiras de LED que emitían una luz suave y clínica. Había pantallas en las paredes, mostrando gráficos de rendimiento, niveles hormonales y esquemas neuronales. En el centro, una cama redonda, cubierta de satén negro, giraba lentamente.
 
-Fernando soltÃ³ la mano de Vera. Ella se quedÃ³ allÃ­, de pie en sus tacones vertiginosos, vibrando con una mezcla de anticipaciÃ³n y vacÃ­o. El lÃ¡tex de su vestido seguÃ­a chirriando suavemente, un recordatorio constante de su contenciÃ³n.
+Fernando soltó la mano de Vera. Ella se quedó allí, de pie en sus tacones vertiginosos, vibrando con una mezcla de anticipación y vacío. El látex de su vestido seguía chirriando suavemente, un recordatorio constante de su contención.
 
-â€”DesnÃºdate â€”ordenÃ³ Ã©l, caminando hacia una consola de control.
+—Desnúdate —ordenó él, caminando hacia una consola de control.
 
-Vera obedeciÃ³ al instante. Sus manos buscaron la cremallera.
+Vera obedeció al instante. Sus manos buscaron la cremallera.
 
-*Obedecer es placer*, pensÃ³ Vera. *Cada orden es un regalo. Cada mandato es una caricia.*
+*Obedecer es placer*, pensó Vera. *Cada orden es un regalo. Cada mandato es una caricia.*
 
-El vestido cayÃ³ al suelo. El aire frÃ­o golpeÃ³ su piel sudorosa, provocÃ¡ndole un escalofrÃ­o que fue directo a sus pezones.
+El vestido cayó al suelo. El aire frío golpeó su piel sudorosa, provocándole un escalofrío que fue directo a sus pezones.
 
-â€”La lencerÃ­a tambiÃ©n.
+—La lencería también.
 
-Vera se quitÃ³ todo. Se quedÃ³ solo con los tacones. Se sentÃ­a poderosa en su desnudez. Se sentÃ­a cara.
+Vera se quitó todo. Se quedó solo con los tacones. Se sentía poderosa en su desnudez. Se sentía cara.
 
-â€”Sube a la cama. Ponte a cuatro patas.
+—Sube a la cama. Ponte a cuatro patas.
 
-Vera subiÃ³. El satÃ©n era fresco. Se colocÃ³ en la posiciÃ³n.
+Vera subió. El satén era fresco. Se colocó en la posición.
 
-*Soy una mesa*, pensÃ³. *Soy un mueble. Soy lo que Ã©l quiera que sea.*
+*Soy una mesa*, pensó. *Soy un mueble. Soy lo que él quiera que sea.*
 
-Fernando activÃ³ el protocolo.
+Fernando activó el protocolo.
 
-â€”Voy a activar el Protocolo "Bimbo-Slut v2.0". Va a apagar tus centros de lenguaje superiores. Va a desconectar tu inhibiciÃ³n. Solo te dejarÃ¡ el instinto.
+—Voy a activar el Protocolo "Bimbo-Slut v2.0". Va a apagar tus centros de lenguaje superiores. Va a desconectar tu inhibición. Solo te dejará el instinto.
 
-â€”SÃ­... sÃ­, por favor... â€”Vera jadeÃ³. *ApÃ¡game. BÃ³rrame. Hazme estÃºpida.*
+—Sí... sí, por favor... —Vera jadeó. *Apágame. Bórrame. Hazme estúpida.*
 
-Fernando pulsÃ³ el botÃ³n.
+Fernando pulsó el botón.
 
-La implosiÃ³n mental fue deliciosa. Fue como caer en una piscina de jarabe caliente. Los pensamientos complejos se disolvieron. Las preocupaciones desaparecieron. Solo quedÃ³ el AHORA. Solo quedÃ³ el CUERPO.
+La implosión mental fue deliciosa. Fue como caer en una piscina de jarabe caliente. Los pensamientos complejos se disolvieron. Las preocupaciones desaparecieron. Solo quedó el AHORA. Solo quedó el CUERPO.
 
-Vera soltÃ³ una risita tonta. Se sentÃ­a ligera. Se sentÃ­a burbujeante.
+Vera soltó una risita tonta. Se sentía ligera. Se sentía burbujeante.
 
-â€”Abre la boca.
+—Abre la boca.
 
-Vera abriÃ³.
+Vera abrió.
 
-Fernando se acercÃ³.
+Fernando se acercó.
 
-â€”Chupa.
+—Chupa.
 
-Vera atacÃ³.
+Vera atacó.
 
-No fue suave. Fue voraz. Su boca era un horno hÃºmedo y caliente. Su lengua era un mÃºsculo entrenado para el placer.
+No fue suave. Fue voraz. Su boca era un horno húmedo y caliente. Su lengua era un músculo entrenado para el placer.
 
-SentÃ­a la textura de la piel de Ã©l. El sabor salado. El grosor.
+Sentía la textura de la piel de él. El sabor salado. El grosor.
 
-*QuÃ© rico*, pensÃ³ su mente bimbo. *Como un caramelo. Un caramelo que escupe leche.*
+*Qué rico*, pensó su mente bimbo. *Como un caramelo. Un caramelo que escupe leche.*
 
-HacÃ­a ruidos obscenos. *Glup, glup, slurp.* No le importaba. QuerÃ­a que Ã©l la oyera. QuerÃ­a que supiera cuÃ¡nto le gustaba servir.
+Hacía ruidos obscenos. *Glup, glup, slurp.* No le importaba. Quería que él la oyera. Quería que supiera cuánto le gustaba servir.
 
-Fernando le agarrÃ³ el pelo y empezÃ³ a follarle la boca.
+Fernando le agarró el pelo y empezó a follarle la boca.
 
-Vera no se quejÃ³. AbriÃ³ la garganta. DejÃ³ que Ã©l la usara como una funda de carne. Las lÃ¡grimas se le saltaban, el rÃ­mel se le corrÃ­a, pero ella estaba en el cielo. Estaba siendo Ãºtil.
+Vera no se quejó. Abrió la garganta. Dejó que él la usara como una funda de carne. Las lágrimas se le saltaban, el rímel se le corría, pero ella estaba en el cielo. Estaba siendo útil.
 
-â€”Eres una puta perfecta â€”gruÃ±Ã³ Ã©l.
+—Eres una puta perfecta —gruñó él.
 
-Vera asintiÃ³, atragantÃ¡ndose felizmente.
+Vera asintió, atragantándose felizmente.
 
-Luego, Ã©l la girÃ³.
+Luego, él la giró.
 
-â€”Ahora te voy a follar. Y va a ser sucio. Va a ser humillante. Te voy a tratar como a la basura que eres.
+—Ahora te voy a follar. Y va a ser sucio. Va a ser humillante. Te voy a tratar como a la basura que eres.
 
-â€”Â¡SÃ­! â€”chillÃ³ Veraâ€”. Â¡Soy basura! Â¡Soy tu cubo de semen! Â¡Ãšsame! Â¡RÃ³mpeme!
+—¡Sí! —chilló Vera—. ¡Soy basura! ¡Soy tu cubo de semen! ¡Úsame! ¡Rómpeme!
 
-Fernando entrÃ³ en ella sin preÃ¡mbulos. Seco. Duro.
+Fernando entró en ella sin preámbulos. Seco. Duro.
 
-Vera gritÃ³, pero no de dolor. De plenitud.
+Vera gritó, pero no de dolor. De plenitud.
 
-Ã‰l la follaba con rabia. Le daba nalgadas que resonaban en la habitaciÃ³n. Le escupÃ­a en la espalda. Le tiraba del pelo.
+Él la follaba con rabia. Le daba nalgadas que resonaban en la habitación. Le escupía en la espalda. Le tiraba del pelo.
 
-Y Vera... Vera se derretÃ­a.
+Y Vera... Vera se derretía.
 
-*Me pega porque soy suya*, pensÃ³, delirante de placer. *Me escupe porque me posee. Soy su propiedad. Soy su agujero.*
+*Me pega porque soy suya*, pensó, delirante de placer. *Me escupe porque me posee. Soy su propiedad. Soy su agujero.*
 
-Cada embestida era una afirmaciÃ³n.
+Cada embestida era una afirmación.
 
-*PUM.* Eres mÃ­a.
-*PUM.* Eres una muÃ±eca.
+*PUM.* Eres mía.
+*PUM.* Eres una muñeca.
 *PUM.* Eres nada.
 
-â€”Â¡Dime quÃ© eres! â€”gritÃ³ Fernando.
+—¡Dime qué eres! —gritó Fernando.
 
-â€”Â¡Soy una puta! Â¡Soy una bimbo retrasada! Â¡Solo sirvo para follar! Â¡No sÃ© leer! Â¡No sÃ© pensar! Â¡Solo sÃ© abrir las piernas!
+—¡Soy una puta! ¡Soy una bimbo retrasada! ¡Solo sirvo para follar! ¡No sé leer! ¡No sé pensar! ¡Solo sé abrir las piernas!
 
-Fernando aumentÃ³ el ritmo. Era una mÃ¡quina.
+Fernando aumentó el ritmo. Era una máquina.
 
-â€”Â¡Vente! â€”ordenÃ³.
+—¡Vente! —ordenó.
 
-Vera se vino. Fue un orgasmo sucio, animal. Se vino gritando, babeando, con los ojos en blanco, completamente perdida en la humillaciÃ³n.
+Vera se vino. Fue un orgasmo sucio, animal. Se vino gritando, babeando, con los ojos en blanco, completamente perdida en la humillación.
 
-Fernando se corriÃ³ dentro de ella, llenÃ¡ndola hasta rebosar.
+Fernando se corrió dentro de ella, llenándola hasta rebosar.
 
-Vera sintiÃ³ el lÃ­quido caliente dentro de ella y tuvo un Ãºltimo pensamiento antes de desmayarse de placer.
+Vera sintió el líquido caliente dentro de ella y tuvo un último pensamiento antes de desmayarse de placer.
 
-*OjalÃ¡ me deje preÃ±ada. OjalÃ¡ me llene de cachorros. SerÃ­a la mejor mascota del mundo.*
+*Ojalá me deje preñada. Ojalá me llene de cachorros. Sería la mejor mascota del mundo.*
 
-Se quedÃ³ dormida con una sonrisa estÃºpida, soÃ±ando con collares de perro y cunas de bebÃ©.
+Se quedó dormida con una sonrisa estúpida, soñando con collares de perro y cunas de bebé.
 
-# EpÃ­logo: Manual de Usuario - Unidad V.E.R.A. v1.0
+# Epílogo: Manual de Usuario - Unidad V.E.R.A. v1.0
 
 **CONFIDENCIAL // SOLO PARA OJOS DEL PROPIETARIO**
 
-**DOCUMENTO TÃ‰CNICO: PROYECTO "TRAD-WIFE"**
-**UNIDAD:** V.E.R.A. (VehÃ­culo de Entretenimiento y RecreaciÃ³n Asistida)
-**VERSIÃ“N DE FIRMWARE:** 1.0 (Estable - Parche de Analfabetismo Instalado)
+**DOCUMENTO TÉCNICO: PROYECTO "TRAD-WIFE"**
+**UNIDAD:** V.E.R.A. (Vehículo de Entretenimiento y Recreación Asistida)
+**VERSIÓN DE FIRMWARE:** 1.0 (Estable - Parche de Analfabetismo Instalado)
 
-## 1. IntroducciÃ³n
+## 1. Introducción
 
-Felicidades por la adquisiciÃ³n/creaciÃ³n de su nueva Unidad V.E.R.A. Este documento detalla las especificaciones tÃ©cnicas, los protocolos de mantenimiento y las instrucciones de operaciÃ³n para asegurar que su unidad funcione con la mÃ¡xima eficiencia y proporcione aÃ±os de servicio leal, estÃ©ticamente agradable y sexualmente satisfactorio.
+Felicidades por la adquisición/creación de su nueva Unidad V.E.R.A. Este documento detalla las especificaciones técnicas, los protocolos de mantenimiento y las instrucciones de operación para asegurar que su unidad funcione con la máxima eficiencia y proporcione años de servicio leal, estéticamente agradable y sexualmente satisfactorio.
 
-La Unidad V.E.R.A. ha sido reconstruida desde cero utilizando nuestra tecnologÃ­a patentada de nanobots **Nano-Femâ„¢**. El sustrato biolÃ³gico original (anteriormente conocido como "La MecÃ¡nica") ha sido completamente sobrescrito, conservando solo las funciones motoras bÃ¡sicas y eliminando cualquier rastro de personalidad, ambiciÃ³n o independencia no deseada.
+La Unidad V.E.R.A. ha sido reconstruida desde cero utilizando nuestra tecnología patentada de nanobots **Nano-Fem™**. El sustrato biológico original (anteriormente conocido como "La Mecánica") ha sido completamente sobrescrito, conservando solo las funciones motoras básicas y eliminando cualquier rastro de personalidad, ambición o independencia no deseada.
 
-## 2. Especificaciones TÃ©cnicas
+## 2. Especificaciones Técnicas
 
-### 2.1. Hardware FÃ­sico
-*   **Chasis:** Reconfigurado para proporciones Ã¡ureas de fertilidad y atractivo sexual (Ratio Cintura-Cadera: 0.6).
-*   **Piel:** Recubierta con una capa de polÃ­mero biolÃ³gico auto-limpiante y perfumado (Aroma: Vainilla y Talco). Suave al tacto, resistente a manchas de grasa o suciedad, y altamente sensible a la estimulaciÃ³n.
-*   **Sistema Locomotor:** Modificado para bipedestaciÃ³n exclusiva en calzado de tacÃ³n alto (mÃ­nimo 10cm). Los tendones de Aquiles han sido acortados quirÃºrgicamente por los nanobots para impedir la marcha plana, asegurando una postura de sumisiÃ³n constante y un balanceo de caderas hipnÃ³tico que maximiza la exposiciÃ³n de los glÃºteos.
-*   **Interfaz Mamaria:** Aumentada a Copa E. Sensibilidad tÃ¡ctil incrementada en un 400%. ConexiÃ³n directa con el centro de placer del cerebro para facilitar el condicionamiento. La estimulaciÃ³n de los pezones provoca una liberaciÃ³n inmediata de endorfinas y lubricaciÃ³n vaginal.
+### 2.1. Hardware Físico
+*   **Chasis:** Reconfigurado para proporciones áureas de fertilidad y atractivo sexual (Ratio Cintura-Cadera: 0.6).
+*   **Piel:** Recubierta con una capa de polímero biológico auto-limpiante y perfumado (Aroma: Vainilla y Talco). Suave al tacto, resistente a manchas de grasa o suciedad, y altamente sensible a la estimulación.
+*   **Sistema Locomotor:** Modificado para bipedestación exclusiva en calzado de tacón alto (mínimo 10cm). Los tendones de Aquiles han sido acortados quirúrgicamente por los nanobots para impedir la marcha plana, asegurando una postura de sumisión constante y un balanceo de caderas hipnótico que maximiza la exposición de los glúteos.
+*   **Interfaz Mamaria:** Aumentada a Copa E. Sensibilidad táctil incrementada en un 400%. Conexión directa con el centro de placer del cerebro para facilitar el condicionamiento. La estimulación de los pezones provoca una liberación inmediata de endorfinas y lubricación vaginal.
 
 ### 2.2. Software Mental (OS "GoodGirl")
-*   **Procesador LÃ³gico:** Desactivado. La unidad carece de capacidad para el pensamiento crÃ­tico, la resoluciÃ³n de problemas complejos o la toma de decisiones financieras.
-*   **MÃ³dulo de Lenguaje:** Limitado a vocabulario de servicio, cumplidos y frases de sumisiÃ³n. El uso de jerga tÃ©cnica, palabras malsonantes o sarcasmo ha sido bloqueado a nivel neuronal.
+*   **Procesador Lógico:** Desactivado. La unidad carece de capacidad para el pensamiento crítico, la resolución de problemas complejos o la toma de decisiones financieras.
+*   **Módulo de Lenguaje:** Limitado a vocabulario de servicio, cumplidos y frases de sumisión. El uso de jerga técnica, palabras malsonantes o sarcasmo ha sido bloqueado a nivel neuronal.
 *   **Sistema Emocional:** Simplificado a dos estados base:
-    1.  **Felicidad VacÃ­a:** Estado por defecto cuando estÃ¡ sirviendo o siendo decorativa.
+    1.  **Felicidad Vacía:** Estado por defecto cuando está sirviendo o siendo decorativa.
     2.  **Ansiedad de Complacer (Horny):** Estado activo cuando recibe una orden o ve al Propietario.
-*   **Memoria:** Los recuerdos de su vida anterior han sido archivados en una particiÃ³n encriptada e inaccesible, etiquetada como "Pesadillas". Si la unidad accede accidentalmente a ellos (glitch), experimentarÃ¡ nÃ¡useas inmediatas hasta que sea reiniciada por el Propietario mediante sexo oral.
+*   **Memoria:** Los recuerdos de su vida anterior han sido archivados en una partición encriptada e inaccesible, etiquetada como "Pesadillas". Si la unidad accede accidentalmente a ellos (glitch), experimentará náuseas inmediatas hasta que sea reiniciada por el Propietario mediante sexo oral.
 
-## 3. Protocolos de OperaciÃ³n
+## 3. Protocolos de Operación
 
-### 3.1. ActivaciÃ³n Diaria
-La unidad se activarÃ¡ automÃ¡ticamente 30 minutos antes que el Propietario.
-*   **Rutina de Inicio:** Aseo personal, aplicaciÃ³n de maquillaje (Protocolo obligatorio), preparaciÃ³n de desayuno.
-*   **Saludo:** La unidad debe saludar al Propietario con una sonrisa y un beso en cuanto este despierte, seguido de una inspecciÃ³n genital para asegurar la satisfacciÃ³n matutina.
+### 3.1. Activación Diaria
+La unidad se activará automáticamente 30 minutos antes que el Propietario.
+*   **Rutina de Inicio:** Aseo personal, aplicación de maquillaje (Protocolo obligatorio), preparación de desayuno.
+*   **Saludo:** La unidad debe saludar al Propietario con una sonrisa y un beso en cuanto este despierte, seguido de una inspección genital para asegurar la satisfacción matutina.
 
 ### 3.2. Modos de Servicio
 La Unidad V.E.R.A. viene pre-cargada con varios modos de funcionamiento:
 
-*   **Modo DomÃ©stico:** Optimizado para limpieza ligera, cocina (recetas pre-cargadas de los aÃ±os 50) y decoraciÃ³n. La unidad tararearÃ¡ melodÃ­as suaves mientras trabaja para crear ambiente. La limpieza se realiza en ropa interior o desnuda para maximizar el placer visual del Propietario.
-*   **Modo Social:** La unidad actuarÃ¡ como el "brazo derecho" estÃ©tico del Propietario en eventos. SonreirÃ¡, asentirÃ¡ y reirÃ¡ de las bromas del Propietario. No hablarÃ¡ a menos que se le pregunte, y sus respuestas serÃ¡n breves y encantadoras.
-*   **Modo Ãntimo (Bimbo-Doll):** Acceso total a todos los orificios y funciones. LÃ­mites de dolor/placer desactivados. La unidad interpretarÃ¡ cualquier acto del Propietario como una muestra de amor. Incluye subrutinas de garganta profunda, anulaciÃ³n del reflejo nauseoso y capacidad multiorgÃ¡smica ilimitada.
+*   **Modo Doméstico:** Optimizado para limpieza ligera, cocina (recetas pre-cargadas de los años 50) y decoración. La unidad tarareará melodías suaves mientras trabaja para crear ambiente. La limpieza se realiza en ropa interior o desnuda para maximizar el placer visual del Propietario.
+*   **Modo Social:** La unidad actuará como el "brazo derecho" estético del Propietario en eventos. Sonreirá, asentirá y reirá de las bromas del Propietario. No hablará a menos que se le pregunte, y sus respuestas serán breves y encantadoras.
+*   **Modo Íntimo (Bimbo-Doll):** Acceso total a todos los orificios y funciones. Límites de dolor/placer desactivados. La unidad interpretará cualquier acto del Propietario como una muestra de amor. Incluye subrutinas de garganta profunda, anulación del reflejo nauseoso y capacidad multiorgásmica ilimitada.
 
 ### 3.3. Comandos de Voz (Triggers)
 *   *"Buena chica":* Refuerzo positivo. Libera dopamina. Usar frecuentemente para mantener la moral alta.
-*   *"Silencio":* Bloqueo inmediato de las cuerdas vocales. La unidad solo podrÃ¡ gemir.
-*   *"PosiciÃ³n":* La unidad adoptarÃ¡ la postura de sumisiÃ³n predeterminada (de rodillas, manos en la espalda, cabeza baja, boca abierta).
-*   *"Reset":* En caso de confusiÃ³n o glitch, este comando reinicia el sistema operativo, borrando la memoria a corto plazo y restaurando la sonrisa por defecto.
+*   *"Silencio":* Bloqueo inmediato de las cuerdas vocales. La unidad solo podrá gemir.
+*   *"Posición":* La unidad adoptará la postura de sumisión predeterminada (de rodillas, manos en la espalda, cabeza baja, boca abierta).
+*   *"Reset":* En caso de confusión o glitch, este comando reinicia el sistema operativo, borrando la memoria a corto plazo y restaurando la sonrisa por defecto.
 
-## 4. Mantenimiento y SoluciÃ³n de Problemas
+## 4. Mantenimiento y Solución de Problemas
 
 ### 4.1. Dieta
-La unidad requiere una dieta estricta para mantener su figura. Los nanobots se encargan de metabolizar las calorÃ­as, pero se recomienda alimentar a la unidad con productos ligeros, dulces y visualmente atractivos (frutas, ensaladas, pasteles pequeÃ±os). La unidad rechazarÃ¡ instintivamente la comida "masculina" (filetes grandes, cerveza, comida rÃ¡pida grasienta). El semen del Propietario se considera un suplemento nutricional esencial.
+La unidad requiere una dieta estricta para mantener su figura. Los nanobots se encargan de metabolizar las calorías, pero se recomienda alimentar a la unidad con productos ligeros, dulces y visualmente atractivos (frutas, ensaladas, pasteles pequeños). La unidad rechazará instintivamente la comida "masculina" (filetes grandes, cerveza, comida rápida grasienta). El semen del Propietario se considera un suplemento nutricional esencial.
 
 ### 4.2. Glitches Comunes
-A pesar de la reescritura completa, pueden quedar residuos del sistema operativo anterior ("La MecÃ¡nica").
+A pesar de la reescritura completa, pueden quedar residuos del sistema operativo anterior ("La Mecánica").
 
-*   **SÃ­ntoma:** La unidad mira fijamente una herramienta o un coche averiado con expresiÃ³n de concentraciÃ³n.
-*   **SoluciÃ³n:** Distraer inmediatamente con un objeto brillante (joyas) o una orden de servicio sexual. Si persiste, administrar un castigo leve (nalgada) para reforzar la asociaciÃ³n negativa con la tecnologÃ­a.
+*   **Síntoma:** La unidad mira fijamente una herramienta o un coche averiado con expresión de concentración.
+*   **Solución:** Distraer inmediatamente con un objeto brillante (joyas) o una orden de servicio sexual. Si persiste, administrar un castigo leve (nalgada) para reforzar la asociación negativa con la tecnología.
 
-*   **SÃ­ntoma:** La unidad intenta leer un libro sin dibujos.
-*   **SoluciÃ³n:** Retirar el libro y sustituirlo por una revista de moda. Recordarle suavemente que "leer arruga la frente". El parche de analfabetismo deberÃ­a prevenir esto en futuras versiones.
+*   **Síntoma:** La unidad intenta leer un libro sin dibujos.
+*   **Solución:** Retirar el libro y sustituirlo por una revista de moda. Recordarle suavemente que "leer arruga la frente". El parche de analfabetismo debería prevenir esto en futuras versiones.
 
-*   **SÃ­ntoma:** La unidad llora sin motivo aparente.
-*   **SoluciÃ³n:** Esto es normal. Es el sistema purgando toxinas emocionales residuales. Ignorar o consolar con sexo duro. No intentar razonar con la unidad.
+*   **Síntoma:** La unidad llora sin motivo aparente.
+*   **Solución:** Esto es normal. Es el sistema purgando toxinas emocionales residuales. Ignorar o consolar con sexo duro. No intentar razonar con la unidad.
 
-## 5. GarantÃ­a
+## 5. Garantía
 
-La Unidad V.E.R.A. no tiene garantÃ­a de devoluciÃ³n. Una vez activada, la transformaciÃ³n es irreversible. El Propietario asume la responsabilidad total de su cuidado y uso.
+La Unidad V.E.R.A. no tiene garantía de devolución. Una vez activada, la transformación es irreversible. El Propietario asume la responsabilidad total de su cuidado y uso.
 
-Recuerde: Una muÃ±eca feliz es una muÃ±eca Ãºtil. MantÃ©ngala guapa, mantÃ©ngala ocupada y, sobre todo, mantÃ©ngala vacÃ­a.
+Recuerde: Una muñeca feliz es una muñeca útil. Manténgala guapa, manténgala ocupada y, sobre todo, manténgala vacía.
 
-**Disfrute de su perfecciÃ³n.**
+**Disfrute de su perfección.**
 
 *Fernando Industries - "Construyendo un futuro mejor, una mujer a la vez."*
 
                              NOTA DE LA AUTORA
 
-Si esta historia resonÃ³ en ti, si te descubriste deseando estar en el lugar de Vera, o si simplemente quieres compartir tus impresiones sobre esta transformaciÃ³n... mi buzÃ³n estÃ¡ abierto. Cada confesiÃ³n, cada fantasÃ­a compartida, alimenta la prÃ³xima historia.
+Si esta historia resonó en ti, si te descubriste deseando estar en el lugar de Vera, o si simplemente quieres compartir tus impresiones sobre esta transformación... mi buzón está abierto. Cada confesión, cada fantasía compartida, alimenta la próxima historia.
 
-EscrÃ­beme a: **anaisbelland@proton.me**
+Escríbeme a: **anais.belland@outlook.com**
 
-Con devociÃ³n oscura,
-*AnaÃ¯s Belland*
+Con devoción oscura,
+*Anaïs Belland*
 
 
