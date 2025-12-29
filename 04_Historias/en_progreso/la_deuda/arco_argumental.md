@@ -9,7 +9,7 @@
 
 ## PERSONAJES PRINCIPALES
 
-### Rodrigo → Candy/Bambi/Pinky (Protagonista/Deudor)
+### Rodrigo → Pinky (Protagonista/Deudor)
 
 | Aspecto | Descripción |
 |---------|-------------|
@@ -24,8 +24,8 @@
 
 | Aspecto | Descripción |
 |---------|-------------|
-| **Edad** | 30 años |
-| **Relación pasada** | Novia de Rodrigo por 5 años, hace 20 años |
+| **Edad** | 40 años |
+| **Relación pasada** | Novia de Rodrigo por 5 años, terminó hace 10 años (ella tenía 25) | fijate que la linea de tiempo sea correcta con las edades
 | **Cómo terminó** | Él la dejó por alguien más joven cuando ella era una chica normal enamorada |
 | **Trauma** | Sufrió mucho → esto gatilló su nueva vida |
 | **Ascenso** | Conectó con La Voûte → poder místico + mafia local |
@@ -49,9 +49,9 @@
 
 ---
 
-## ESTRUCTURA POR CAPÍTULOS (50 cuotas = ~15-20 capítulos)
+## ESTRUCTURA POR CAPÍTULOS (12 capítulos, ritmo acelerado)
 
-### ACTO I: La Caída (Caps 1-3)
+### ACTO I: La Caída (Caps 1-2)
 
 **Capítulo 1: El Fracaso Final**
 
@@ -59,94 +59,84 @@
 - Desahucio inminente, acreedores acechando
 - Recuerda a Victoria, decide buscarla
 
-**Capítulo 2: El Reencuentro**
+**Capítulo 2: El Reencuentro y El Contrato**
 
-- Múltiples peticiones rechazadas
-- Finalmente Victoria acepta verlo
+- Múltiples peticiones rechazadas, finalmente Victoria acepta
 - Mansión oscura, matones, ella transformada en reina del hampa
 - "¿Cuánto necesitas?" — "$5 millones"
-- Ella sonríe: "Tengo una propuesta"
-
-**Capítulo 3: El Contrato**
-
 - Victoria presenta el contrato
-- Rodrigo firma sin leer (su defecto fatal)
+- Rodrigo firma SIN LEER (su defecto fatal)
 - "50 cuotas. Si no pagas... yo elijo cómo cobrar"
-- Él recibe el dinero. Celebra como si hubiera ganado.
+- Recibe el dinero. Celebra como idiota.
 
-### ACTO II: La Ilusión (Caps 4-6)
+### ACTO II: La Ilusión y Primera Caída (Caps 3-4)
 
-**Capítulo 4: El Rey del Mundo**
+**Capítulo 3: El Rey del Mundo → La Primera Cuota**
 
 - Rodrigo gasta como loco — autos, ropa, restaurantes
-- Paga primeras 2-3 cuotas fácil
-- "Esto es pan comido"
-- Victoria observa desde las sombras
-
-**Capítulo 5: El Primer Tropiezo**
-
+- Paga primeras 2-3 cuotas fácil, "esto es pan comido"
 - Nuevos negocios fracasan (como siempre)
-- El dinero se acaba más rápido de lo esperado
-- Primera cuota impaga
-
-**Capítulo 6: La Primera Cuota**
-
-- Victoria lo cita
-- "No pagaste. El contrato es claro"
-- Primera transformación forzada: DEPILACIÓN TOTAL
+- El dinero se acaba, primera cuota impaga
+- Victoria lo cita: "No pagaste. El contrato es claro"
+- **PRIMERA TRANSFORMACIÓN FORZADA: DEPILACIÓN TOTAL**
 - "Esto es solo el comienzo"
 
-### ACTO III: La Espiral (Caps 7-12)
+**Capítulo 4: La Espiral Comienza**
 
-**Capítulo 7-8: Cuotas 2-5**
-
-- Rodrigo intenta conseguir dinero
-- Más fracasos
+- Rodrigo intenta conseguir dinero desesperadamente
+- Más fracasos, más cuotas impagas
 - Transformaciones progresivas: ropa interior femenina, hormonas iniciales, maquillaje
 
-**Capítulo 9: El Intento de Escape**
+### ACTO III: La Espiral (Caps 5-8)
+
+**Capítulo 5: El Intento de Escape**
 
 - Rodrigo intenta huir por el aeropuerto
 - Victoria lo esperaba — muy predecible
 - Penalización severa: 3 cuotas de golpe
 
-**Capítulo 10-11: Cuotas 10-20**
+**Capítulo 6: Cuotas 10-20**
 
 - Transformación física acelerada
 - Implantes, labios, rostro suavizado
 - Rodrigo empieza a parecer mujer
 
-**Capítulo 12: El Mundo Lo Ve**
+**Capítulo 7: El Mundo Lo Ve**
 
 - Victoria lo envía a "trabajar" para ex-socios
 - Trabajos humillantes y degradantes
 - Todos lo reconocen — la humillación es total
 
-### ACTO IV: La Rendición (Caps 13-15)
-
-**Capítulo 13: La Familia**
+**Capítulo 8: La Familia**
 
 - Su familia lo ve transformado
 - Reacciones de horror, rechazo, algunos... ¿excitación?
 - Ya no hay vuelta atrás social
 
-**Capítulo 14: Cuotas 30-40**
+### ACTO IV: La Rendición (Caps 9-12)
+
+**Capítulo 9: Cuotas 30-40**
 
 - Transformación casi completa
-- Candy/Bambi emerge
+- "Pinky" emerge
 - Rodrigo se resiste mentalmente pero su cuerpo ya no es suyo
 
-**Capítulo 15: La Cuota Infinita**
+**Capítulo 10: La Cuota Infinita**
 
 - Victoria revela: "El interés garantiza que nunca pagues"
 - "Eres mía. Para siempre."
-- Rodrigo (ahora Candy) se da cuenta: el contrato siempre fue una trampa
+- Rodrigo (ahora Pinky) se da cuenta: el contrato siempre fue una trampa
 
-### EPÍLOGO: Nueva Vida (Cap 16)
+**Capítulo 11: Propiedad**
 
-- Candy como propiedad de Victoria
-- Se resiste mentalmente pero no hay escape
+- Pinky como propiedad de Victoria
+- Últimas transformaciones (cirugía, identidad legal)
+- Se resiste mentalmente pero no hay escape físico
+
+**Capítulo 12: Epílogo — Nueva Vida**
+
 - Final abierto: ¿Aceptará eventualmente? ¿O quedará atrapada para siempre en resistencia fútil?
+- Victoria contempla su obra maestra de venganza
 
 ---
 
