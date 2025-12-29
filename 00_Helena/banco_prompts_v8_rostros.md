@@ -50,7 +50,7 @@ extreme close-up of Helena de Anais, wearing an intricate black leather ball gag
 ### 7. Plastic Fantastic (Piel de Vinilo)
 
 ```text
-macro photography of Miss Doll face, skin texture resembling perfect smooth vinyl or plastic, artificial shine, impossibly long false eyelashes (25mm), glossy bubblegum pink lips, wide empty blue eyes, perfectionist makeup, ring light reflection in eyes, living doll aesthetic, surreal beauty, pastel background, 8k resolution
+macro photography of Miss Doll face, skin texture resembling perfect smooth porcelain with artificial shine, impossibly long false eyelashes (25mm), glossy bubblegum pink lips, wide empty blue eyes, perfectionist makeup, ring light reflection in eyes, living doll aesthetic, surreal beauty, pastel background, 8k resolution, photorealistic
 ```
 
 ### 8. Stepford Glitch (La Esposa Perfecta... Rota)
@@ -62,19 +62,19 @@ close-up portrait of Miss Doll, 1950s housewife hairstyle, perfect makeup, froze
 ### 9. Bimbo Contour (Exageración)
 
 ```text
-extreme close-up of Miss Doll, heavy dragging makeup, overlined lips gloss injection look, heavy contouring, fake tan skin, platinum blonde hair, blank brainless expression, mouth slightly open, chewing gum, dumb bimbo aesthetic, bright studio lighting, commercial photography, sharp details, 8k
+extreme close-up of Miss Doll, heavy dragging makeup, overlined lips gloss injection look, heavy contouring, flawless porcelain skin, platinum blonde hair, blank brainless expression, mouth slightly open, chewing gum, dumb aesthetic, bright studio lighting, commercial photography, sharp details, 8k
 ```
 
 ### 10. Neon Doll (Luz Ultravioleta)
 
 ```text
-face shot of Miss Doll under blacklight (UV light), fluorescent neon makeup designs (pink and blue tribal lines) glowing on skin, contact lenses glowing white, plastic skin texture, rave doll aesthetic, dark background, vibrant colors, artistic creative makeup, macro lens, 8k
+face shot of Miss Doll under blacklight (UV light), fluorescent neon makeup designs (pink and blue tribal lines) glowing on skin, contact lenses glowing white, porcelain skin texture, rave doll aesthetic, dark background, vibrant colors, artistic creative makeup, macro lens, 8k
 ```
 
 ### 11. Tribal Plastic (Primitivo Moderno)
 
 ```text
-portrait of Miss Doll, fusion of plastic bimbo and tribal aesthetics, geometric black tribal tattoos on face, golden piercings (septum, bridge), primitive heavy eyeliner, hair in intricate braids, fierce artificial expression, jungle fashion editorial, sweat and gloss, golden lighting, 8k
+portrait of Miss Doll, fusion of plastic and tribal aesthetics, geometric black tribal tattoos on face, golden piercings (septum, bridge), primitive heavy eyeliner, hair in intricate braids, fierce artificial expression, jungle fashion editorial, sweat and gloss, golden lighting, 8k
 ```
 
 ### 12. Cylinder POV (Ojos de Dormitorio)
@@ -90,35 +90,35 @@ POV extreme close-up looking down at Miss Doll's face, lying on bed, messy hair 
 ### 13. Golden Hour (Bronceado de Millonaria)
 
 ```text
-extreme close-up of Anais Belland, sun-kissed bronzed skin, excessive golden highlighter on cheekbones, wet skin look, sweat glistening, gold flakes on eyelids, rich arrogant expression, sunglasses pushed down nose, old money aesthetic, natural sunlight, warm tones, summer luxury editorial, 8k
+extreme close-up of Anais Belland (Kylie Minogue facial structure), sculpted MILF face, sun-kissed bronzed skin, excessive golden highlighter on cheekbones, wet skin look, sweat glistening, gold flakes on eyelids, rich arrogant expression, sunglasses pushed down nose, old money aesthetic, natural sunlight, warm tones, summer luxury editorial, 8k
 ```
 
 ### 14. Ice Queen (Desprecio Frío)
 
 ```text
-macro portrait of Anais Belland, cold pale makeup, silver and white eyeshadow, frosted lips, sharp contour, judging expression with raised eyebrow, looking down at viewer, ice blue lighting, diamonds near face, cruel beauty, high fashion winter campaign, sharp focus, 8k
+macro portrait of Anais Belland (Kylie Minogue style), cold pale makeup, silver and white eyeshadow, frosted lips, sharp high cheekbones, judging expression with raised eyebrow, looking down at viewer, ice blue lighting, diamonds near face, cruel beauty, high fashion winter campaign, sharp focus, 8k
 ```
 
 ### 15. Power Bitch (Oficina / Secretaria)
 
 ```text
-close-up of Anais Belland, strict secretary glasses, sharp red matte lipstick, hair in tight bun, severe expression, flawless boss makeup, holding a pen near mouth, office lighting, reflection in glasses, dominant corporate aesthetic, 8k resolution, detailed skin texture
+close-up of Anais Belland (Kylie Minogue features), strict secretary glasses, sharp red matte lipstick, hair in tight bun, severe expression, flawless boss makeup, holding a pen near mouth, office lighting, reflection in glasses, dominant corporate aesthetic, 8k resolution, detailed skin texture
 ```
 
 ### 16. Tribal Queen (Amazona)
 
 ```text
-face portrait of Anais Belland, warrior queen aesthetic, gold war paint on face, fierce intense eyes, windblown hair, sweat and dirt artistically applied, confident power, golden jewelry, desert sunset lighting, cinematic shot, epic atmosphere, 8k
+face portrait of Anais Belland (Kylie Minogue face), warrior queen aesthetic, gold war paint on face, fierce intense eyes, windblown hair, sweat and dirt artistically applied, confident power, golden jewelry, desert sunset lighting, cinematic shot, epic atmosphere, 8k
 ```
 
 ### 17. Rock/Metal Dominatrix
 
 ```text
-close-up of Anais Belland, leather jacket collar turned up, heavy smokey rock makeup, dark red lips, piercing gaze, hair covering one eye, backstage rockstar vibe, attitude, grain texture, black and white photography with selective red color on lips, iconic portrait, 8k
+close-up of Anais Belland (Kylie Minogue lookalike), leather jacket collar turned up, heavy smokey rock makeup, dark red lips, piercing gaze, hair covering one eye, backstage rockstar vibe, attitude, grain texture, black and white photography with selective red color on lips, iconic portrait, 8k
 ```
 
 ### 18. Bedroom Eyes (Seducción Madura)
 
 ```text
-extreme close-up of Anais Belland in bed, silk sheets visible, sultry mature bedroom eyes, half-lidded gaze, soft lighting, hand touching face, elegant lingerie strap visible, milf aesthetic, intimate and commanding, luxury bedroom background blurred, 8k
+extreme close-up of Anais Belland (Kylie Minogue aesthetic) in bed, silk sheets visible, sultry mature bedroom eyes, half-lidded gaze, soft lighting, hand touching face, elegant lingerie strap visible, milf aesthetic, intimate and commanding, luxury bedroom background blurred, 8k
 ```

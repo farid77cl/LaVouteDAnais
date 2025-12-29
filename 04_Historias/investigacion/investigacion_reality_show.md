@@ -180,6 +180,213 @@
 ---
 
 *Investigación completada: 2025-12-29*
-*Siguiente paso: FASE 2 - Arco Argumental*
+
+---
+
+## FASE 2.0: Mecánicas del Juego (The Game)
+
+### 2.1 El Gancho: Sobrevivir o Transformarse
+
+La premisa central se refina para aumentar los *stakes*:
+
+- **Ganar** = Mantener tu identidad masculina y salir con una suma millonaria (pero con traumas irreversibles).
+- **Perder** = "Bimboficación" total y permanente. Te conviertes en propiedad del estudio (o de un VIP del público).
+- **El Giro**: El juego está diseñado para que la "identidad masculina" se erosione tanto que "ganar" se vuelva indeseable. Al final, los finalistas *quieren* perder.
+
+### 2.2 Mecánica de Control: Nanobots "The Glow"
+
+Justificación pseudo-científica para las transformaciones rápidas sin recurrir a magia pura.
+
+- **Inyección Inicial:** Al firmar, reciben un suero de "potenciación bio-estética".
+- **Funciones:**
+  - **Hormonización Acelerada:** Cambios en piel y grasa en horas.
+  - **Control Conductual:** Estimulación directa de centros de placer/obediencia.
+  - **Compliance:** Si intentan rebelarse, los nanobots causan "disforia inducida" (pánico, dolor, náuseas).
+
+### 2.3 Integración de Votación (La Audiencia Dios)
+
+Integración con herramientas reales (simuladas en la historia):
+
+- **Voting for Traits:** La audiencia financia las cirugías. "Si llegamos a $50k, le ponemos copas D".
+- **Punishment/Pleasure:** Votos en tiempo real durante los desafíos activan los juguetes sexuales o los choques eléctricos.
+- **The Save:** Salvar a un concursante de la eliminación, pero obligándolo a un "penalty" humillante.
+
+---
+
+## FASE 3.0: Arquetipos de Concursantes (Casting)
+
+Para maximizar el drama, necesitamos un cast que represente diferentes formas de "masculinidad" a ser deconstruida.
+
+### 3.1 El "Alpha" Arrogante (Target: "Bimbo Trophy")
+
+- **Perfil:** CEO, corredor de bolsa o abogado exitoso. 40s. Acostumbrado a mandar.
+
+- **Gancho:** Cree que puede negociar o comprar su salida. "Soy demasiado importante para esto".
+- **Arco:** Su resistencia lo convierte en el objetivo favorito de la audiencia. Cuanto más se niega, más humillante es el castigo. Termina siendo la "muñeca" más vacía.
+
+### 3.2 El "Bruto" Físico (Target: "Muscle Doll")
+
+- **Perfil:** Obrero, seguridad, gym rat. Físicamente imponente.
+
+- **Gancho:** Su masculinidad reside en su fuerza física.
+- **Arco:** El "suero" ataca primero sus músculos, suavizándolo. Ver su cuerpo traicionarlo es su mayor terror. Se le obliga a usar su fuerza para poses "sexys" o pole dance.
+
+### 3.3 El Intelectual Cínico (Target: "Smart Secretary")
+
+- **Perfil:** Académico, periodista o crítico. Se cree más listo que el show.
+
+- **Gancho:** Analiza el reality desde fuera. "Es un comentario social".
+- **Arco:** Ataque psicológico. Se le obliga a usar ropa de "secretaria tonta". Los nanobots nublan su pensamiento, forzándolo a hablar con "bimbo speak" para ser entendido. La pérdida de su intelecto es su tragedia.
+
+### 3.4 El "Sissy" Latente (Target: "The Pet")
+
+- **Perfil:** Joven, andrógino, quizás influencer o gamer tímido.
+
+- **Gancho:** Secretamente le excita la idea, pero le aterra admitirlo.
+- **Arco:** El traidor. Se adapta demasiado rápido. La audiencia lo ama/odia porque disfruta los castigos. Miss Doll lo usa como ejemplo: "Miren qué bien se ve él, ¿por qué ustedes no?"
+
+---
+
+## FASE 4.0: El Escenario ("The Dollhouse")
+
+El set es un personaje más. Diseñado por Anaïs para ser un Panóptico de Lujo.
+
+### 4.1 Zonas Clave
+
+- **El Boudoir (Dormitorios):** Sin privacidad. Paredes de espejo unidireccional. Todo es satén rosa y terciopelo. *Hipnopedia:* Audio subliminal suena mientras duermen ("Ser bella es ser libre").
+
+- **El Laboratorio (The Clinic):** Estética quirúrgica-chic. Luces neón frías. Aquí ocurren las inyecciones y modificaciones. Es el lugar más temido.
+- **La Pasarela (The Judgement Hall):** Un escenario masivo donde enfrentan a Miss Doll y a la audiencia holográfica. Suelo de cristal.
+
+### 4.2 Elementos de Control
+
+- **Espejos Inteligentes:** No muestran el reflejo real a veces, sino el "target" (cómo se verán terminados), aumentando la dismorfia actual.
+
+- **Collares Biométricos:** Monitorean excitación. Si tienen una erección "masculina" (por ira o desafío), reciben descarga. Si es por sumisión, reciben dopamina.
+
+---
+
+## FASE 5.0: The Gauntlet (Desafíos Semanales)
+
+Progreso diseñado para quebrar la resistencia psicológica paso a paso.
+
+### Semana 1: Tabula Rasa (La Depuración)
+
+- **Evento:** Depilación láser de cuerpo completo en vivo. Rapado de cabeza (o inicio de tratamiento capilar forzado).
+
+- **Desafío:** "El Espejo". Deben mirarse desnudos y criticar sus propios rasgos masculinos para ganar "puntos de mejora".
+- **Eliminado:** Se va a casa calvo y depilado (humillación leve).
+
+### Semana 3: Training Wheels (Tacones y Corsé)
+
+- **Evento:** Se sueldan los corsés de entrenamiento (22 pulgadas). Introducción de tacones obligatorios (10cm).
+
+- **Desafío:** "La Carrera de Obstáculos". Cruzar una pista de suelos inestables sin romper el tacón. Caerse = Descarga eléctrica.
+- **Eliminado:** Debe salir del estudio usando el corsé y tacones hasta su casa.
+
+### Semana 5: Voice & Mannerisms (Voz y Modales)
+
+- **Evento:** Implantación vocal (alteración de cuerdas) o terapia intensiva de voz.
+
+- **Desafío:** "La Entrevista". Deben convencer a un jurado ciego (por teléfono) de que son mujeres. Si fallan, el jurado les da una orden humillante.
+
+### Semana 7: The Service (Servidumbre)
+
+- **Evento:** Uniformes de French Maid de látex.
+
+- **Desafío:** "El Banquete". Servir bebidas y comida a una audiencia masculina VIP (hombres alfa reales). Deben tolerar tocamientos leves y piropos sin romper el personaje.
+- **Eliminado:** Se convierte en "Maid" permanente del estudio (Primer "Game Over" real).
+
+### Semana 8: The Debutante Ball (La Final)
+
+- **Evento:** Cirugía final completa (implantes masivos, rostro final).
+
+- **Desafío:** Baile de gala y "Noche de Bodas" simulada.
+
+---
+
+## FASE 6.0: El Endgame (El Giro Final)
+
+La verdad oculta del contrato.
+
+### 6.1 La Maldición del Ganador
+
+El Ganador recibe el cheque gigante ($10 Millones).
+
+- **La Letra Chica:** Para cobrarlo, debe mantener la "Integridad de Marca" durante 12 meses.
+- **Significado:** Debe vivir como la mujer que el público creó.
+- **El Horror:** Los nanobots ("The Glow") han reescrito su placer. Volver a ser hombre (si renuncia al dinero) le causaría dolor físico constante y anhedonia. Está atrapado en el cuerpo perfecto.
+
+### 6.2 El Destino de los Perdedores
+
+Los eliminados de la FASE FINAL no se van a casa.
+
+- **Deuda:** Deben pagar el costo de sus cirugías y estancia.
+- **Pago:** Se convierten en el STAFF para la Temporada 2. (Cámarogras, maquilladoras, maids de limpieza, "fluffers" para los nuevos concursantes).
+
+---
+
+## FASE 7: Los Dos Elegidos (The Rivals)
+
+Para esta temporada, el casting se reduce a dos polos opuestos. La dinámica es **Clase Alta vs. Clase Trabajadora**.
+
+### 7.1 Participante A: "El Príncipe"
+
+- **Nombre:** Julián Castelli (38 años).
+
+- **Perfil:** Dueño de una startup tech. Arrogante, culto, acostumbrado a ropa de diseñador y vinos caros. Piel cuidada, manicura masculina, cuerpo tonificado de gimnasio caro.
+- **Motivación:** Entró por una apuesta borracha con sus socios, creyendo que su intelecto lo salvaría.
+- **Target ("Bimbo Aristocrat"):** Se transformará en "Jules", una socialite vacía obsesionada con el status.
+- **Destino Estético:** Platino helado, cirugía plástica de "rostro rico" (pómulos altos, nariz respingada), ropa de alta costura pero restrictiva.
+
+### 7.2 Participante B: "El Toro"
+
+- **Nombre:** Marco "El Tanque" Rossi (29 años).
+
+- **Perfil:** Mecánico y luchador amateur de MMA. Brusco, directo, homófobo por inseguridad. Cuerpo masivo, velludo, manos callosas, tatuajes tribales.
+- **Motivación:** Necesita el dinero para pagar una deuda familiar (o médica). Es pura desesperación física.
+- **Target ("Trashy Slut"):** Se transformará en "Roxie", una bomba sexual de barrio bajo.
+- **Destino Estético:** Pelo negro azabache, maquillaje pesado y vulgar, ropa de látex barato, tatuajes modificados para ser "tramp stamps".
+
+### 7.3 La Dinámica (Rivales a... ¿Algo más?)
+
+- **Conflicto Inicial:** Julián desprecia a Marco por ser "bruto". Marco desprecia a Julián por ser un "snob afeminado".
+
+- **Evolución:** El show los obliga a colaborar ("Team Bimbo").
+- **Humillación Cruzada:**
+  - Marco es obligado a proteger a Julián físicamente, actuando como su "novio" en las pruebas, pero vestido de mujer.
+  - Julián es obligado a enseñar a Marco modales y maquillaje, asumiendo un rol de "hermana mayor" dominante.
+- **El Clímax:** La audiencia no vota para eliminar a uno, sino para **casarlos** en la final.
+
+---
+
+## FASE 8: Mecánica de Votación Real (Integración con Lectores)
+
+Para romper la cuarta pared y hacer que el lector sea cómplice activo.
+
+### 8.1 La Plataforma Elegida: StrawPoll
+
+* **Por qué:** Es el estándar para votaciones anónimas rápidas.
+- **Características:**
+  - **Anonimato:** No requiere registro (barrera de entrada cero).
+  - **Seguridad:** Filtro por IP o Browser Fingerprint para evitar spam (1 voto por persona).
+  - **Visual:** Gráficos de resultados en tiempo real que se pueden compartir.
+
+### 8.2 Integración Narrativa (El Ciclo de Feedback)
+
+1. **El Cliffhanger:** Cada capítulo termina en una encrucijada crítica.
+    - *Ejemplo:* "Jules ha fallado la prueba. ¿Qué castigo merece? A) Rapado total B) Tatuaje humillante".
+2. **El Call-to-Action:** Enlace directo al final del texto.
+    - *"AUDIENCIA: Tu voto es ley. Decide el destino aquí: [Link a StrawPoll]"*
+3. **La Consecuencia:** El siguiente capítulo *comienza* narrando el resultado de la votación real.
+    - *"El 68% de ustedes quería ver sufrir a Jules. La Voz del Pueblo ha hablado..."*
+
+### 8.3 Tipos de Votación
+
+* **Voto de Castigo:** Elegir entre dos males para el perdedor.
+- **Voto de "Mejora":** Elegir qué cirugía estética se le aplica al ganador.
+- **Voto de Salvación:** (Rara vez) Salvar a uno, pero condenando al otro a algo peor.
+
+*Investigación Finalizada: Concepto listo para producción.*
 
 🦇 Helena de Anaïs

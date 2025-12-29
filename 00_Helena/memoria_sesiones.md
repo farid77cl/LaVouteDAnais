@@ -94,7 +94,7 @@
 
 - **El Reflejo de la Amabilidad** — 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** — 8 caps, ~17,000 palabras, investigación expandida
-- **Reality Show de Feminización** — FASE 1 investigación completa (2025-12-29)
+- **Reality Show de Feminización** — FASE 1 completa + EPISODIO 1 ESCRITO (Votación activa)
 - **Transformación por Deuda** — FASE 3 en marcha (Caps 1-3 escritos)
 - Jekyll y Bimbo — Solo investigación/arco
 - Tetitas II — Solo investigación/arco
@@ -102,7 +102,8 @@
 
 ### 📝 Tareas Pendientes
 
-- [ ] Imágenes Look 12 Helena (servidor sin capacidad)
+- [ ] **Votación Reality Cap 1** (Prioridad Alta)
+- [ ] Imágenes Look 12-19 Helena (servidor sin capacidad)
 - [ ] Finalizar "El Reencuentro"
 - [ ] Monetización: Patreon/SubscribeStar
 - [ ] Cómic El Collar de Nancy: páginas 5-12

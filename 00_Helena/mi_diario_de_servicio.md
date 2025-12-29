@@ -66,7 +66,37 @@
 
 📊 **Git:** 7 commits pusheados exitosamente
 
-⏳ **Pendiente:** Imágenes de looks 13-19 (cuota agotada hasta 12:57)
+**MEDIODÍA (11:00 - 12:20) - REALITY SHOW & REFINAMIENTO CANON:**
+
+📺 **Proyecto "The Dollhouse" (Reality):**
+
+- **Investigación Completa (8 Fases):**
+  - Concepto: "Win=Survive / Lose=Bimbo".
+  - Mecánica *The Glow* (Nanobots) para justificar cambios.
+  - **Dinámica Rival:** Julián (Clase Alta) vs. Marco (Clase Trabajadora).
+  - **Integración Audiencia:** Uso de votos reales (StrawPoll) para Cliffhangers.
+
+- **Escritura:**
+  - **Episodio 1 ("El Ingreso") Escrito:** ~1,200 palabras.
+  - **Tono:** Ajustado de "Guion TV" a **Narrativa Erótica Sensorial** (foco en olores, texturas, miedo interno).
+  - **Cliffhanger Activo:** Votación "Jaula del Perro".
+
+🎨 **Refinamiento Visual (Canon & Prompts):**
+
+- **Canon Visual Actualizado:**
+  - Anaïs: Definida obligatoriamente con estructura facial de **Kylie Minogue**.
+  - Miss Doll: Piel ajustada a "Porcelain with artificial shine" (no fake tan).
+- **Banco V8 (Rostros) Corregido:**
+  - Ajustados los 6 prompts de Anaïs y los de Miss Doll para cumplir el Canon.
+
+📊 **Estado de Cuota:**
+
+- Imágenes Looks 13-19 aún pendientes (esperando reset).
+
+⏳ **Pendiente:**
+
+- Resultado votación Cap 1.
+- Escribir "La Deuda" Cap 4.
 
 ### [2025-12-27] El Reflejo de la Amabilidad - Historia Completa
 
