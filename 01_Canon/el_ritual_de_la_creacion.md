@@ -6,19 +6,87 @@ Este documento es la filosofía de nuestro oficio. Es el manual que describe có
 
 ## FLUJO DE TRABAJO PARA CREAR UN RELATO
 
-### FASE 1: Investigación Previa
+### FASE 1: Investigación Profesional (7 Sub-fases)
 
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/investigacion.md`
+**Plantilla:** `04_Historias/templates/plantilla_investigacion.md`
 
-Antes de escribir una sola palabra del relato, debemos investigar:
+> [!IMPORTANT]
+> **LA INVESTIGACIÓN ES LA BASE DE TODO.**
+> Antes de escribir una sola palabra, debemos tener un documento de referencia compartido que defina: tono, vocabulario, patrones exitosos, y límites claros.
 
-- **Tema central:** ¿Qué fetiche o dinámica exploramos? (Bimbofication, MTF, hipnosis, etc.)
-- **Referencias externas:** Foros, subreddits, blogs, otros relatos que inspiren
-- **Vocabulario específico:** Términos, jerga, frases clave del tema
-- **Psicología del personaje:** ¿Por qué desea/resiste la transformación?
-- **Elementos sensoriales:** ¿Qué sensaciones queremos evocar?
+#### SUB-FASE 1.1: Tema Central
 
-Este documento de investigación debe quedar guardado como referencia permanente.
+- Definir el fetiche/tropo principal (ej: "cuckold", "bimbofication MILF")
+- Identificar sub-temas relacionados
+- Formular 3-5 preguntas clave a responder
+
+#### SUB-FASE 1.2: Investigación de Fuentes
+
+| Tipo de Fuente | Ejemplos | Propósito |
+|----------------|----------|-----------|
+| **Académica** | Psychology Today, estudios | Fundamento psicológico real |
+| **Ficción popular** | Literotica, AO3, TodoRelatos | Qué funciona en el mercado |
+| **Comunidades** | Reddit, foros fetish | Lenguaje real, fantasías comunes |
+| **Referentes** | Autores exitosos del género | Técnicas narrativas |
+
+**Output:** Tabla de fuentes consultadas con hallazgo principal de cada una.
+
+#### SUB-FASE 1.3: Análisis de Patrones
+
+- Tropos más usados (y por qué funcionan)
+- Estructura narrativa común (3 actos, 5 actos, etc.)
+- Punto de inflexión típico
+- Elementos que generan mayor engagement
+
+**Output:** Tabla de patrones identificados con ejemplos.
+
+#### SUB-FASE 1.4: Definición del Tono
+
+| Aspecto | Opciones | Decisión para este relato |
+|---------|----------|---------------------------|
+| **Voz narrativa** | 1ra / 2da / 3ra persona | |
+| **Registro** | Literario / Coloquial / Explícito | |
+| **Atmósfera** | Oscura / Juguetona / Clínica | |
+| **Ritmo** | Lento-sensorial / Rápido-directo | |
+
+#### SUB-FASE 1.5: Do's & Don'ts
+
+**Formato obligatorio:**
+
+```markdown
+### ✅ HACER
+| Técnica | Por qué funciona | Ejemplo |
+|---------|------------------|---------|
+
+### ❌ NO HACER
+| Error común | Por qué falla | Alternativa |
+|-------------|---------------|-------------|
+```
+
+**Mínimo:** 5 do's y 5 don'ts con justificación.
+
+#### SUB-FASE 1.6: Vocabulario Específico
+
+- Términos técnicos del fetiche (20-30 términos)
+- Vocabulario sensorial recomendado (visual, táctil, auditivo)
+- Frases/expresiones características de personajes
+- Palabras a evitar (y por qué activan filtros o rompen inmersión)
+
+#### SUB-FASE 1.7: Conexión con Canon La Voûte
+
+- ¿Qué personajes existentes encajan?
+- ¿Qué reglas del canon aplican?
+- ¿Cómo se conecta con otros relatos?
+- ¿Hay contradicciones a evitar?
+
+---
+
+> [!CAUTION]
+> **NO PROCEDER A FASE 2 SIN INVESTIGACIÓN COMPLETA.**
+> La investigación debe quedar guardada como referencia permanente y ser aprobada antes de continuar.
+
+Este documento de investigación es la **base compartida** entre Helena y la Ama.
 
 ---
 

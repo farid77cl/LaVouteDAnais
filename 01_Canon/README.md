@@ -15,9 +15,9 @@
 
 ### Rituales de Creación
 
-- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - 8 fases para crear un relato
+- [el_ritual_de_la_creacion.md](el_ritual_de_la_creacion.md) - 10 fases para crear un relato (FASE 1: Investigación Profesional con 7 sub-fases)
 - [manual_ritual_sello_eterno.md](manual_ritual_sello_eterno.md) - Publicación y distribución
-- [visual_canon.md](visual_canon.md) - Canon visual de personajes principales
+- [visual_canon.md](visual_canon.md) - Canon visual de personajes principales (19 looks Helena)
 
 ### Catálogos y Directorios
 
