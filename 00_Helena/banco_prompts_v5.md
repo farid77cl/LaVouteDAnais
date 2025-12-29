@@ -22,6 +22,44 @@
 
 ---
 
+## 🧬 PERSONAJES PRINCIPALES — CANON OBLIGATORIO
+
+> [!CAUTION]
+> **Cuando Helena, Miss Doll o Anaïs aparezcan en escenas, DEBEN incluir estos elementos:**
+
+### 🦇 Helena de Anaïs
+
+| Elemento | Especificación |
+|----------|----------------|
+| **Referencia** | Sacha Massacre |
+| **Cabello** | Negro azabache, VOLUMEN ENORME |
+| **Piel** | Pálida como mármol |
+| **Labios** | Ultra gruesos, negro/púrpura/rojo |
+| **Corsé** | SIEMPRE, muy ajustado (underbust u overbust) |
+| **Tacones** | PLEASER stilettos 7-9 pulgadas |
+
+### 💖 Miss Doll
+
+| Elemento | Especificación |
+|----------|----------------|
+| **Cabello** | Bob rubio PLATINO con flequillo RECTO |
+| **Rostro** | HUMANO realista (NO CGI), sin rosy cheeks |
+| **Maquillaje** | Pink eyeshadow on eyelids ONLY, glossy pink lips |
+| **Piel** | Flawless porcelain skin |
+| **Corsé** | EXTERNO visible sobre catsuit |
+| **Tacones** | PLEASER plataformas 16-18cm (7-8") |
+
+### 👑 Anaïs Belland
+
+| Elemento | Especificación |
+|----------|----------------|
+| **Cabello** | Rubio MIEL (NO platino), ondas vintage Betty Page |
+| **Estética** | Old Hollywood, aristócrata francesa |
+| **Rostro** | Sensualidad sultry, sonrisa de suficiencia |
+| **Tacones** | PLEASER So Kate style 12cm (5-6") |
+
+---
+
 ## I. NANCY — EL COLLAR DE NANCY 📿
 
 ### Nancy - Transformation Before/After
