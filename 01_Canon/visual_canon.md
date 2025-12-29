@@ -25,6 +25,22 @@
 - **Ambiente:** Salón de palacio francés con candelabros, ambientes de lujo clásico
 - **Referencia de Actitud:** Sensualidad juguetona pero intocable, lujo desbordante, "Rich Girl" vintage
 
+### Rostro — Canon Facial (Estilo Kylie Minogue)
+
+> [!IMPORTANT]
+> **CADA prompt de Anaïs DEBE incluir estas características faciales:**
+
+| Elemento | Descripción |
+|----------|-------------|
+| **Estructura** | Rostro angular y delgado, "Sculpted MILF" |
+| **Pómulos** | Muy prominentes, esculpidos, crean sombras definidas |
+| **Frente** | Lisa e inmóvil (botox), sin líneas de expresión |
+| **Labios** | Rellenos en semi-pout permanente (elegantes, no duck lips) |
+| **Mandíbula** | Definida, línea jaw-to-ear visible, sin papada |
+| **Ojos** | Ligero efecto cat-eye por estructura facial |
+| **Piel** | Bronceada elegante o dorada, nunca pálida |
+| **Referencia** | Kylie Minogue, Nicole Kidman, Kate Beckinsale |
+
 ### Actitud Escénica (Pilares 1, 2, 4)
 
 - **Sensualidad Clásica:** Pícara, segura, magnética (estilo Betty Page)
@@ -58,12 +74,12 @@
 ### Referencia Visual
 
 - **Modelo:** Sacha Massacre
-- **Estética:** Goth Bimbo Ultra Glam
+- **Estética:** Goth Glamour Joven (gótica elegante, piel porcelana)
 - **Cabello:** Negro azabache con VOLUMEN ENORME
-- **Rostro:** Pálido como mármol, labios ultra gruesos (negro/púrpura/rojo)
+- **Rostro:** Piel pálida como porcelana blanca, labios ultra gruesos (negro/púrpura/rojo)
 - **Corsé:** SIEMPRE, MUY AJUSTADO (underbust o overbust)
 - **Tacones:** Stilettos 7-9 pulgadas, tacón aguja mortal
-- **Proporciones:** Silueta de reloj de arena obscenamente exagerada
+- **Proporciones:** Silueta de reloj de arena femenina
 
 ### Poses Estándar para Cada Look
 

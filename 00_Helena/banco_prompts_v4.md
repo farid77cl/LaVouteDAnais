@@ -30,12 +30,13 @@
 | Elemento | Especificación |
 |----------|----------------|
 | **Referencia** | Sacha Massacre |
+| **Estética** | Gótica joven elegante |
 | **Cabello** | Negro azabache, VOLUMEN ENORME |
-| **Piel** | Pálida como mármol |
+| **Piel** | Pálida como porcelana blanca |
 | **Labios** | Ultra gruesos, negro/púrpura/rojo |
 | **Corsé** | SIEMPRE, muy ajustado (underbust u overbust) |
 | **Tacones** | PLEASER stilettos 7-9 pulgadas, tacón aguja |
-| **Figura** | Silueta de reloj de arena exagerada |
+| **Figura** | Silueta de reloj de arena femenina |
 
 ### 💖 Miss Doll
 
@@ -55,7 +56,8 @@
 |----------|----------------|
 | **Cabello** | Rubio MIEL (NO platino), ondas vintage suaves |
 | **Estética** | Old Hollywood Betty Page, aristócrata francesa |
-| **Rostro** | Sensualidad sultry, sonrisa de suficiencia |
+| **Rostro** | Angular sculpted MILF, pómulos prominentes, semi-pout (Kylie Minogue) |
+| **Piel** | Bronceada elegante o dorada (NUNCA pálida) |
 | **Vestimenta** | Lencería de seda, batas transparentes, corsés de lujo |
 | **Tacones** | PLEASER So Kate style 12cm (5-6") negro o nude |
 | **Figura** | Elegante hourglass, no exagerada |

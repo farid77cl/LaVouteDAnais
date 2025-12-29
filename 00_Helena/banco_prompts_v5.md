@@ -32,8 +32,9 @@
 | Elemento | Especificación |
 |----------|----------------|
 | **Referencia** | Sacha Massacre |
+| **Estética** | Gótica joven elegante |
 | **Cabello** | Negro azabache, VOLUMEN ENORME |
-| **Piel** | Pálida como mármol |
+| **Piel** | Pálida como porcelana blanca |
 | **Labios** | Ultra gruesos, negro/púrpura/rojo |
 | **Corsé** | SIEMPRE, muy ajustado (underbust u overbust) |
 | **Tacones** | PLEASER stilettos 7-9 pulgadas |

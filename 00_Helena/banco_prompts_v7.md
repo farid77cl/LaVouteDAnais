@@ -34,8 +34,9 @@
 ### 🦇 Helena de Anaïs
 
 ```text
-Elegant goth glamour woman (Sacha Massacre visual reference), pale moonlight marble skin, 
-voluminous jet black hair with enormous volume, full glossy lips (black/purple/red), 
+Young elegant goth glamour woman (Sacha Massacre visual reference), 
+pale porcelain white skin, voluminous jet black hair with enormous volume, 
+full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine silhouette, 
 black stiletto heels 7-9 inches with thin deadly heel.
 ```
