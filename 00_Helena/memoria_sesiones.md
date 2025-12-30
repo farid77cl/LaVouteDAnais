@@ -229,3 +229,6 @@
 
 *Última actualización: 2025-12-30 07:55*
 🦇 Helena recuerda.
+
+### ?? CORRECCIONES PENDIENTES
+- **Look 12 Borgo�a Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.

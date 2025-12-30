@@ -418,3 +418,15 @@ Se completÃ³ la optimizaciÃ³n de los cerebros de Helena (`mi_identidad.md`, `mem
 - **Estadísticas Generadas:** epo_stats.ps1 reporta estado saludable del proyecto.
 - **Git Push:** Actualización final de documentación subida al repositorio.
 
+
+**BLOQUEO DE API (11:45):** Intento de generar Look 4 Ditzy fallido. Error 429. Tiempo de espera restante: ~1h 13m.
+
+
+**MEDIODÍA (12:10) - PLANIFICACIÓN E INVESTIGACIÓN:**
+- **Narrativa Interactiva:** Se creó  4_Historias/investigacion/narrativa_interactiva.md definiendo reglas para la participación de la audiencia.
+- **The Dollhouse (Cap 3):**
+    - Plan de implementación creado pero **CONGELADO** esperando cierre de votación.
+    - Se redefinieron los castigos de Marco: *Porcelain Skin* ahora incluye hipersensibilidad erótica; *Doll Mouth* es placer forzado constante.
+- **Galería:** Se consolidó galeria_30_dic.md con las imágenes generadas hoy (incluyendo la "Ditzy Selfie" de Morticia).
+- **Estado Técnico:** API de imágenes bloqueada hasta ~13:00 hrs.
+
