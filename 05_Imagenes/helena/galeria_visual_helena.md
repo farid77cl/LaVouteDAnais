@@ -21,7 +21,10 @@
 ### Look 13: Amatista Hipnótica
 
 *(Bruja de cristal)*
-![Look 13](helena_look13_amatista_hipnotica_1767034617669.png)
+
+| Standing/Single | Ditzy | Walking |
+|---|---|---|
+| ![Look 13](helena_look13_amatista_hipnotica_1767034617669.png) | ![Ditzy](helena_look13_amatista_ditzy.png) | ![Walking](helena_look13_amatista_walking.png) |
 
 ### Look 12: Borgoña Imperial
 
