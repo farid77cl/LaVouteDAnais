@@ -429,13 +429,13 @@ Shot at Parisian-style café terrace. Anaïs seated with espresso - honey blonde
 #### Video MD - "Hi Boys" Greeting 👋
 
 ```
-Video portrait extreme close-up. Miss Doll's face - platinum bob with slight motion, doll makeup, glossy pink lips. She looks at camera, blinks slowly with heavy dollish lashes (2 second blink). Her thick glossy lips move clearly saying "Hi boys" slowly and breathy. Cheeks move with slight smile. Eyes widen in vacant flirtation at end. Pink soft lighting on face. 3 seconds. Photorealistic video.
+Video portrait extreme close-up. Miss Doll's face - platinum bob with slight motion, doll makeup, full glossy RED lips. She looks at camera, blinks slowly with heavy dollish lashes (2 second blink). Her thick glossy lips move clearly saying "Hi boys" slowly and breathy. Cheeks move with slight smile. Eyes widen in vacant flirtation at end. Pink soft lighting on face. 3 seconds. Photorealistic video.
 ```
 
 #### Video MD - "I Love Pink" Declaration 💕
 
 ```
-Video close-up. Miss Doll holding a pink handbag to chest. Her face - platinum bob, doll makeup, glossy pink lips. She nods enthusiastically 3 times, hair bouncing. Lips move clearly saying "I love pink so much" with rising pitch on 'so much'. Eyes widen in ditzy sincere joy. Hugs bag to chest at end. 4 seconds. Photorealistic video.
+Video close-up. Miss Doll holding a pink handbag to chest. Her face - platinum bob, doll makeup, full glossy RED lips. She nods enthusiastically 3 times, hair bouncing. Lips move clearly saying "I love pink so much" with rising pitch on 'so much'. Eyes widen in ditzy sincere joy. Hugs bag to chest at end. 4 seconds. Photorealistic video.
 ```
 
 #### Video MD - "Oops I Forgot" 🤭
@@ -447,7 +447,7 @@ Video medium shot. Miss Doll covering mouth with pink-nailed hand, giggling sile
 #### Video MD - Blowing Kiss 💋
 
 ```
-Video close-up. Miss Doll's face - platinum bob, pouty glossy pink lips. She purses lips together, holds 1 second. Her hand with pink nails raises to lips slowly. She 'throws' kiss towards camera, fingers opening. Winks one eye deliberately, holds wink 1 second. Returns to pouty resting face. Seductive playfulness. 4 seconds. Photorealistic video.
+Video close-up. Miss Doll's face - platinum bob, pouty full glossy RED lips. She purses lips together, holds 1 second. Her hand with pink nails raises to lips slowly. She 'throws' kiss towards camera, fingers opening. Winks one eye deliberately, holds wink 1 second. Returns to pouty resting face. Seductive playfulness. 4 seconds. Photorealistic video.
 ```
 
 #### Video MD - Gum Bubble Pop 🫧
@@ -585,19 +585,19 @@ Video wide shot. Three women enter frame walking in V-formation. ANAÏS (center 
 #### MD Airport - Check In Confusion 🧳
 
 ```
-Professional photography. Miss Doll at check-in counter - platinum bob, hourglass figure, pink velvet tracksuit, pink corset underneath, pink Pleaser sneaker platforms. Mountain of pink luggage behind her. Handing passport upside down to confused agent. Expression: hopeful smile hoping she packed right. Airport terminal. Photorealistic.
+Professional photography. Miss Doll at check-in counter - platinum bob, hourglass figure, pink velvet tracksuit, pink corset underneath, pink Pleaser sneaker platforms. Mountain of pink luggage behind her. Handing passport upside down to confused agent. Sensual pose with arched back, bedroom eyes. Expression: hopeful smile hoping she packed right. Airport terminal. Photorealistic.
 ```
 
 #### Helena Airport - Security Pat Down 🔍
 
 ```
-Professional photography. Helena in body scanner arms raised - voluminous black hair, pale skin, hourglass figure, black latex bodysuit (no metal), black corset visible through material. TSA agents studying screen confused by corset structure. Expression: bored superior stare. Security checkpoint. Photorealistic.
+Professional photography. Helena in body scanner arms raised - voluminous black hair, pale skin, hourglass figure, black latex bodysuit (no metal), black corset visible through material. TSA agents studying screen confused by corset structure. Sensual pose with arched back, bedroom eyes. Expression: bored superior stare. Security checkpoint. Photorealistic.
 ```
 
 #### Anaïs Airport - First Class Lounge 🥂
 
 ```
-Professional photography. Anaïs in airline lounge - honey blonde waves, hourglass figure, cream silk blouse, beige slacks, nude Pleaser pumps. Champagne in hand, reading Le Monde. Expression: natural elegance, belongs here. First class lounge. Photorealistic.
+Professional photography. Anaïs in airline lounge - honey blonde waves, hourglass figure, cream silk blouse, beige slacks, nude Pleaser pumps. Champagne in hand, reading Le Monde. Sensual pose with arched back, bedroom eyes. Expression: natural elegance, belongs here. First class lounge. Photorealistic.
 ```
 
 ### 🛍️ Shopping Mall
@@ -605,13 +605,13 @@ Professional photography. Anaïs in airline lounge - honey blonde waves, hourgla
 #### MD Mall - Shoe Store Heaven 👠
 
 ```
-Professional photography. Miss Doll surrounded by 20 shoe boxes - platinum bob, hourglass figure, pink latex dress, pink corset. Trying on pink Pleaser platforms. Salesman on knees fitting shoe staring at her. Expression: pure joy at shiny objects. Luxury shoe store. Photorealistic.
+Professional photography. Miss Doll surrounded by 20 shoe boxes - platinum bob, hourglass figure, pink latex dress, pink corset. Trying on pink Pleaser platforms. Salesman on knees fitting shoe staring at her. Sensual pose with arched back, bedroom eyes. Expression: pure joy at shiny objects. Luxury shoe store. Photorealistic.
 ```
 
 #### Helena Mall - Hot Topic Disdain 🏪
 
 ```
-Professional photography. Helena in alternative store - voluminous black hair, pale skin, hourglass figure, couture black gothic gown way too elegant for this store, black corset, black Pleaser boots. Holding cheap black skull t-shirt with two fingers, nose wrinkled. Expression: aristocratic amusement at peasant goth clothes. Mall store. Photorealistic.
+Professional photography. Helena in alternative store - voluminous black hair, pale skin, hourglass figure, couture black gothic gown way too elegant for this store, black corset, black Pleaser boots. Holding cheap black skull t-shirt with two fingers, nose wrinkled. Sensual pose with arched back, bedroom eyes. Expression: aristocratic amusement at peasant goth clothes. Mall store. Photorealistic.
 ```
 
 ---

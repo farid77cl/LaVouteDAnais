@@ -23,7 +23,7 @@ When visible: corset edge at neck/shoulder, stiletto heel 7-9 inches.
 
 ```text
 Platinum blonde bob with straight bangs, flawless porcelain skin (NO rosy cheeks), 
-pink eyeshadow on eyelids ONLY, glossy pink lips, human realistic face (NOT CGI).
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips, human realistic face (NOT CGI).
 When visible: corset edge, platform heels 16-18cm.
 ```
 
@@ -168,7 +168,7 @@ Close-up portrait of Helena (Sacha Massacre reference), looking up adoringly at 
 #### 19. Plastic Fantastic (Piel de Vinilo)
 
 ```text
-Macro photography of Miss Doll face, platinum blonde bob straight bangs, skin texture resembling perfect smooth porcelain with artificial shine, impossibly long false eyelashes (25mm), glossy bubblegum pink lips, wide empty blue eyes, perfectionist pink eyeshadow on lids only, ring light reflection in eyes, living doll aesthetic, surreal beauty, pastel background, 8k resolution, photorealistic.
+Macro photography of Miss Doll face, platinum blonde bob straight bangs, skin texture resembling perfect smooth porcelain with artificial shine, impossibly long false eyelashes (25mm), glossy bubblegum pink lips, wide empty blue eyes, perfectionist dramatic smokey eyes on lids only, ring light reflection in eyes, living doll aesthetic, surreal beauty, pastel background, 8k resolution, photorealistic.
 ```
 
 #### 20. Stepford Glitch (La Esposa Perfecta... Rota)
@@ -180,7 +180,7 @@ Close-up portrait of Miss Doll, platinum blonde bob, 1950s housewife hairstyle, 
 #### 21. Glamour Contour
 
 ```text
-Extreme close-up of Miss Doll, platinum blonde bob straight bangs, heavy contouring, overlined glossy pink lips, flawless porcelain skin, vacant expression, pink eyeshadow on lids only, mouth slightly open, bright studio lighting, commercial photography, sharp details, 8k.
+Extreme close-up of Miss Doll, platinum blonde bob straight bangs, heavy contouring, overlined full glossy RED lips, flawless porcelain skin, vacant expression, dramatic smokey eyes on lids only, mouth slightly open, bright studio lighting, commercial photography, sharp details, 8k.
 ```
 
 #### 22. Neon Doll (Luz Ultravioleta)
@@ -194,25 +194,25 @@ Face shot of Miss Doll under blacklight (UV light), platinum blonde bob, fluores
 #### 23. Confusion Portrait
 
 ```text
-Close-up of Miss Doll, platinum blonde bob straight bangs, genuine confusion expression, head tilted, glossy pink lips in pout, pink eyeshadow, flawless porcelain skin, vacancy behind eyes, "does not compute" aesthetic, soft pink lighting, 8k.
+Close-up of Miss Doll, platinum blonde bob straight bangs, genuine confusion expression, head tilted, full glossy RED lips in pout, dramatic smokey eyes, flawless porcelain skin, vacancy behind eyes, "does not compute" aesthetic, soft pink lighting, 8k.
 ```
 
 #### 24. Giggle Freeze
 
 ```text
-Macro portrait of Miss Doll, platinum blonde bob, mid-giggle expression frozen, glossy pink lips showing teeth, eyes crinkled but empty, pink eyeshadow on lids, artificial joy, porcelain skin, pink neon behind, 8k.
+Macro portrait of Miss Doll, platinum blonde bob, mid-giggle expression frozen, full glossy RED lips showing teeth, eyes crinkled but empty, dramatic smokey eyes on lids, artificial joy, porcelain skin, pink neon behind, 8k.
 ```
 
 #### 25. Adoration Up
 
 ```text
-POV extreme close-up looking down at Miss Doll's face, platinum blonde bob spread on bed, looking up with adoration, glossy pink lips, pink eyeshadow, wide blue eyes, porcelain skin, intimate bedroom eyes, soft morning light, 8k.
+POV extreme close-up looking down at Miss Doll's face, platinum blonde bob spread on bed, looking up with adoration, full glossy RED lips, dramatic smokey eyes, wide blue eyes, porcelain skin, intimate bedroom eyes, soft morning light, 8k.
 ```
 
 #### 26. Blowing Bubble
 
 ```text
-Close-up of Miss Doll, platinum blonde bob straight bangs, blowing pink bubblegum bubble, glossy lips around gum, pink eyeshadow, vacant blue eyes, porcelain skin, playful expression, bright studio, 8k.
+Close-up of Miss Doll, platinum blonde bob straight bangs, blowing pink bubblegum bubble, glossy lips around gum, dramatic smokey eyes, vacant blue eyes, porcelain skin, playful expression, bright studio, 8k.
 ```
 
 ### Makeup Technique Focus
@@ -220,7 +220,7 @@ Close-up of Miss Doll, platinum blonde bob straight bangs, blowing pink bubblegu
 #### 27. Pink Smokey Eye
 
 ```text
-Extreme close-up of Miss Doll's eye area only, platinum blonde bangs visible, perfect pink and rose gold smokey eye, individual lashes, flawless porcelain skin around eye, pink eyeshadow gradient, reflection in pupil, macro beauty shot, 8k.
+Extreme close-up of Miss Doll's eye area only, platinum blonde bangs visible, perfect pink and rose gold smokey eye, individual lashes, flawless porcelain skin around eye, dramatic smokey eyes gradient, reflection in pupil, macro beauty shot, 8k.
 ```
 
 #### 28. Lip Focus - Bubblegum
@@ -232,7 +232,7 @@ Macro shot of Miss Doll's lips only, ultra glossy bubblegum pink lipstick, sligh
 #### 29. Blush Perfection
 
 ```text
-Beauty close-up of Miss Doll, platinum blonde bob, focus on cheek contour with subtle pink highlight (NOT rosy cheeks), glossy pink lips, pink eyeshadow on lids only, makeup artist detail shot, 8k.
+Beauty close-up of Miss Doll, platinum blonde bob, focus on cheek contour with subtle pink highlight (NOT rosy cheeks), full glossy RED lips, dramatic smokey eyes on lids only, makeup artist detail shot, 8k.
 ```
 
 ### Thematic Concepts
@@ -240,13 +240,13 @@ Beauty close-up of Miss Doll, platinum blonde bob, focus on cheek contour with s
 #### 30. Birthday Doll
 
 ```text
-Close-up of Miss Doll, platinum blonde bob with pink highlights, birthday makeup with glitter, pink frosting smeared on lips, wide happy eyes, pink eyeshadow with sparkle, party aesthetic, confetti reflecting, bright lighting, 8k.
+Close-up of Miss Doll, platinum blonde bob with pink highlights, birthday makeup with glitter, pink frosting smeared on lips, wide happy eyes, dramatic smokey eyes with sparkle, party aesthetic, confetti reflecting, bright lighting, 8k.
 ```
 
 #### 31. Spa Day Doll
 
 ```text
-Close-up of Miss Doll, platinum blonde bob in headband, face mask applied on forehead, cucumber on one eye, glossy pink lips, fresh clean skin, spa relaxation, soft towel visible, bright bathroom light, 8k.
+Close-up of Miss Doll, platinum blonde bob in headband, face mask applied on forehead, cucumber on one eye, full glossy RED lips, fresh clean skin, spa relaxation, soft towel visible, bright bathroom light, 8k.
 ```
 
 #### 32. Morning After Doll
@@ -260,25 +260,25 @@ Intimate close-up of Miss Doll, platinum blonde bob messy on pillow, smudged pin
 #### 33. Collar Reveal
 
 ```text
-Close-up portrait of Miss Doll, platinum blonde bob, pink collar with heart tag around neck, looking up submissively, glossy pink lips parted, pink eyeshadow, porcelain skin, pet aesthetic, soft pink lighting, 8k.
+Close-up portrait of Miss Doll, platinum blonde bob, pink collar with heart tag around neck, looking up submissively, full glossy RED lips parted, dramatic smokey eyes, porcelain skin, pet aesthetic, soft pink lighting, 8k.
 ```
 
 #### 34. Mirror Worship
 
 ```text
-Split image: Miss Doll looking at her reflection in close-up, platinum blonde bob, both faces visible, glossy pink lips in self-admiring smile, pink eyeshadow, narcissistic adoration, vanity aesthetic, ring light visible, 8k.
+Split image: Miss Doll looking at her reflection in close-up, platinum blonde bob, both faces visible, full glossy RED lips in self-admiring smile, dramatic smokey eyes, narcissistic adoration, vanity aesthetic, ring light visible, 8k.
 ```
 
 #### 35. Screen Glow
 
 ```text
-Close-up of Miss Doll illuminated only by phone screen, platinum blonde bob, blue light on porcelain face, glossy pink lips, scrolling expression, modern doll, dark background with screen glow, 8k.
+Close-up of Miss Doll illuminated only by phone screen, platinum blonde bob, blue light on porcelain face, full glossy RED lips, scrolling expression, modern doll, dark background with screen glow, 8k.
 ```
 
 #### 36. Hypnotized Spiral
 
 ```text
-Extreme close-up of Miss Doll, platinum blonde bob, hypnotic spiral reflected in wide eyes, blank expression, glossy pink lips parted, pink eyeshadow, porcelain skin, mind control aesthetic, surreal lighting, 8k.
+Extreme close-up of Miss Doll, platinum blonde bob, hypnotic spiral reflected in wide eyes, blank expression, full glossy RED lips parted, dramatic smokey eyes, porcelain skin, mind control aesthetic, surreal lighting, 8k.
 ```
 
 ---
@@ -413,7 +413,7 @@ Side profile close-up of Anaïs Belland (Betty Page reference), honey blonde hai
 | goth bimbo | goth glamour, elegant goth woman |
 | Kylie Minogue (for Anaïs) | Betty Page Old Hollywood reference |
 | exaggerated curves | feminine silhouette |
-| doll makeup | pink eyeshadow, glossy lips |
+| doll makeup | dramatic smokey eyes, glossy lips |
 | rosy cheeks | flawless porcelain skin |
 | brainless, ditzy | vacant, dreamy expression |
 
