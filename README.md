@@ -42,9 +42,10 @@ Chaque mot est un décret. Chaque fichier, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # Cerebro de Helena (19 looks, 6 bancos de prompts)
+├── 00_Helena/                  # Cerebro de Helena (19 looks, 18 bancos de prompts)
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
 │   ├── preferencias_escritura.md # Patrones narrativos aprendidos
+│   ├── canon_maquillaje.md     # Canon oficial de maquillaje
 │   ├── galeria_outfits.md      # 19 looks canónicos de Helena
 │   ├── banco_prompts.md        # V1: Histórico personal
 │   ├── banco_prompts_v2.md     # V2: 215+ prompts expandidos
