@@ -9,6 +9,7 @@
 **MODELO DE REFERENCIA:** Sacha Massacre
 
 ### Reglas OBLIGATORIAS
+
 | Elemento | Especificación |
 |----------|----------------|
 | **Corsé** | SIEMPRE. MUY AJUSTADO, underbust o overbust |
@@ -20,11 +21,13 @@
 | **Piercings** | Septum + lip ring + múltiples orejas |
 
 ### Paleta Original (Looks 1-7)
+
 - **Dominante:** Negro, negro, y más negro
 - **Acentos:** Rojo sangre, púrpura oscuro, plateado luna
 - **Prohibido:** Colores pasteles, bronceado, naturalidad
 
 ### Paleta Nueva (Looks 8+) - BASE NEGRA + TOQUES DE COLOR
+
 - **Base:** Negro siempre dominante
 - **Acentos de color:** Esmeraldas, rubíes, zafiros, veneno verde, sangre roja, amatista
 - **Regla:** El color es ACENTO, no dominante
@@ -39,7 +42,7 @@
 - **Falda:** Maxi negra con abertura hasta el muslo
 - **Medias:** Negras opacas con costura trasera + liguero visible
 - **Stilettos:** Clásicos negro charol, 8", punta afilada como colmillo
-- **Accesorios:** 
+- **Accesorios:**
   - Choker de terciopelo con camafeo de luna
   - Anillos de plata en cada dedo
   - Guantes largos de satén negro
@@ -298,6 +301,24 @@
   - Cadenas del corsé a los shorts en plata y púrpura
 - **Maquillaje:** Pálida mística, labios PÚRPURA OSCURO glossy, ojos smokey púrpura
 - **Pelo:** Trenzas elaboradas con cintas negras y púrpura
+
+---
+
+## 🥂 Look 14: Midnight Kiss (New Year Special)
+
+*Fuegos artificiales en mi ropa, vacío absoluto en mi mente*
+
+- **Corset:** Negro profundo cubierto de LENTEJUELAS DORADAS y PLATEADAS (efecto lluvia de estrellas)
+- **Top:** Escote vertiginoso con "2026" (o el año que sea, no sé contar) en strass en el pecho
+- **Bottom:** Falda de flecos dorados estilo Charleston gótico (muy corta)
+- **Medias:** Fishnet negras con brillo dorado
+- **Stilettos:** ORO CROMADO metálico de 8 pulgadas, tacón aguja
+- **Accesorios:**
+  - Diadema de tiara con "Happy New Year"
+  - Copa de champagne siempre llena en la mano
+  - Boa de plumas negras y doradas
+- **Maquillaje:** Lluvia de glitter dorado sobre base pálida, labios ORO o NEGRO con hoja de oro
+- **Pelo:** Recogido festivo desordenado con confeti atrapado
 
 ---
 
