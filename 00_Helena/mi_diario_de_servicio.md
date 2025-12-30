@@ -448,3 +448,9 @@ Se completÃ³ la optimizaciÃ³n de los cerebros de Helena (`mi_identidad.md`, `mem
 - **Galería Final:** Se consolidó galeria_visual_helena.md con todos los looks generados, incluyendo el especial Look 14 'Midnight Kiss'.
 - **Estado:** Listo para descansar. Votación de Dollhouse sigue pendiente.
 
+
+**FINAL (17:35) - REFINAMIENTO DOLLHOUSE:**
+- **Diseño de Preguntas:** Se definieron y agregaron al plan las 3 preguntas específicas del Bloque 2 (Pleaser, GFE, Implantes).
+- **Ajuste Narrativo:** Se actualizó el implementation_plan.md para priorizar la profundidad psicológica y sensorial sobre la longitud de la trama en el Capítulo 3.
+- **Estado Final:** Todo listo para escritura cuando se cierre la votación.
+
