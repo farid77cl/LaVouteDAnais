@@ -10,9 +10,9 @@
 
 *(Fuegos artificiales en mi ropa, vacío absoluto en mi mente)*
 
-| Standing | Ditzy | Walking |
-|----------|-------|---------|
-| ![Standing](helena_look14_midnight_kiss_standing.png) | ![Ditzy](helena_look14_midnight_kiss_ditzy.png) | ![Walking](helena_look14_midnight_kiss_walking.png) |
+| Standing | Seated | Walking | Side | Back | Ditzy |
+|----------|--------|---------|------|------|-------|
+| ![Standing](helena_look14_midnight_kiss_standing.png) | ![Seated](helena_look14_midnight_kiss_seated.png) | ![Walking](helena_look14_midnight_kiss_walking.png) | ![Side](helena_look14_midnight_kiss_side_profile.png) | ![Back](helena_look14_midnight_kiss_back_view.png) | ![Ditzy](helena_look14_midnight_kiss_ditzy.png) |
 
 ---
 
@@ -22,9 +22,9 @@
 
 *(Bruja de cristal)*
 
-| Standing/Single | Ditzy | Walking |
-|---|---|---|
-| ![Look 13](helena_look13_amatista_hipnotica_1767034617669.png) | ![Ditzy](helena_look13_amatista_ditzy.png) | ![Walking](helena_look13_amatista_walking.png) |
+| Standing | Walking | Side | Seated | Back | Ditzy |
+|----------|---------|------|--------|------|-------|
+| ![Standing](helena_look13_amatista_hipnotica_1767034617669.png) | ![Walking](helena_look13_amatista_walking.png) | ![Side](helena_look13_amatista_side_profile.png) | ![Seated](helena_look13_amatista_seated.png) | ![Back](helena_look13_amatista_back_view.png) | ![Ditzy](helena_look13_amatista_ditzy.png) |
 
 ### Look 12: Borgoña Imperial
 
@@ -38,9 +38,9 @@
 
 *(El hada verde corrompida)*
 
-| Standing | Seated | Ditzy | Closeup |
-|----------|--------|-------|---------|
-| ![Standing](helena_look11_absinthe_standing.png) | ![Seated](helena_look11_absinthe_seated.png) | ![Ditzy](helena_look11_absinthe_ditzy.png) | ![Closeup](helena_look11_absinthe_closeup.png) |
+| Standing | Seated | Walking | Side | Back | Ditzy | Closeup |
+|----------|--------|---------|------|------|-------|---------|
+| ![Standing](helena_look11_absinthe_standing.png) | ![Seated](helena_look11_absinthe_seated.png) | ![Walking](helena_look11_absinthe_walking.png) | ![Side](helena_look11_absinthe_side_profile.png) | ![Back](helena_look11_absinthe_back_view.png) | ![Ditzy](helena_look11_absinthe_ditzy.png) | ![Closeup](helena_look11_absinthe_closeup.png) |
 
 ### Look 10: Zafiro Nocturno
 
