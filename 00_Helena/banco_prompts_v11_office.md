@@ -322,7 +322,325 @@ Professional after-hours photography. ANAÏS: honey blonde down, burgundy corset
 
 ---
 
+## 🎨 V. COLOR FREEDOM OFFICE (50 PROMPTS)
+
+> [!TIP]
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color en looks de oficina.
+
+### 🦇 Helena HR - Color Variations (15 prompts)
+
+#### 51. Helena - Emerald HR Power
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN corset under emerald blazer. Black pants. PLEASER MOON-708 emerald 7-inch heel. Holding green folder marked confidential. Sensual pose with arched back, bedroom eyes. Expression: forest witch HR. Dark corporate office with plants. Photorealistic 8k.
+```
+
+#### 52. Helena - Sapphire HR Authority
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair in bun. Pale porcelain white skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE corset under navy blazer. Blue pencil skirt. PLEASER MOON-708 sapphire 7-inch heel. Seated at desk reviewing contract. Sensual pose with arched back, bedroom eyes. Expression: ice queen HR. Blue-accented modern office. Photorealistic 8k.
+```
+
+#### 53. Helena - Rose Gold HR Romance
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black wavy hair. Pale porcelain white skin. Dark rose glossy lips. Wearing ROSE GOLD metallic corset under blush blazer. Black pants. PLEASER MOON-708 rose gold 7-inch heel. Signing new hire paperwork. Sensual pose with arched back, bedroom eyes. Expression: welcome to the company. Warm modern office. Photorealistic 8k.
+```
+
+#### 54. Helena - Silver Chrome HR
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair. Pale porcelain white skin. Silver metallic lips. Wearing STERLING SILVER corset under grey blazer. Grey pants. PLEASER MOON-708 silver 7-inch heel. Video conferencing on laptop. Sensual pose with arched back, bedroom eyes. Expression: digital authority. Tech company office. Photorealistic 8k.
+```
+
+#### 55. Helena - Champagne HR Celebration
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with gold highlights. Pale porcelain white skin. Champagne metallic lips. Wearing CHAMPAGNE GOLD corset under gold blazer. Black pants. PLEASER MOON-708 gold 7-inch heel. Handing promotion letter. Sensual pose with arched back, bedroom eyes. Expression: congratulations. Office with champagne. Photorealistic 8k.
+```
+
+#### 56. Helena - Copper HR Autumn
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper tones. Pale porcelain white skin. Terracotta glossy lips. Wearing COPPER corset under brown blazer. Brown pants. PLEASER MOON-708 copper 7-inch heel. Annual review meeting. Sensual pose with arched back, bedroom eyes. Expression: harvest season evaluations. Autumn-lit office. Photorealistic 8k.
+```
+
+#### 57. Helena - Teal HR Modern
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Teal glossy lips. Wearing DARK TEAL corset under teal blazer. Black pants. PLEASER MOON-708 teal 7-inch heel. Presenting diversity initiatives. Sensual pose with arched back, bedroom eyes. Expression: inclusive authority. Modern colorful office. Photorealistic 8k.
+```
+
+#### 58. Helena - Bronze HR Power
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair elegant. Pale porcelain white skin. Bronze metallic lips. Wearing ANTIQUE BRONZE corset under burgundy blazer. Black pants. PLEASER MOON-708 bronze 7-inch heel. At podium announcing layoffs. Sensual pose with arched back, bedroom eyes. Expression: corporate finality. Conference room. Photorealistic 8k.
+```
+
+#### 59. Helena - White HR Clinical
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair severe. Pale porcelain white skin. Nude-rose lips. Wearing BLACK corset under WHITE blazer pristine. White pants. PLEASER MOON-708 white 7-inch heel. Exit interview being conducted. Sensual pose with arched back, bedroom eyes. Expression: clean termination. Clinical white office. Photorealistic 8k.
+```
+
+#### 60. Helena - Plum HR Elegance
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing PLUM WINE velvet corset under plum blazer. Black pants. PLEASER MOON-708 plum 7-inch heel. Wine reception for new executives. Sensual pose with arched back, bedroom eyes. Expression: corporate sophistication. Executive lounge. Photorealistic 8k.
+```
+
+#### 61. Helena - Amethyst HR Mystique
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with subtle purple. Pale porcelain white skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE corset under purple blazer. Black pants. PLEASER MOON-708 purple 7-inch heel. Employee wellness session. Sensual pose with arched back, bedroom eyes. Expression: corporate mystic. Purple-accented office. Photorealistic 8k.
+```
+
+#### 62. Helena - Navy HR Captain
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Navy metallic lips. Wearing NAVY BLUE corset under navy suit. Navy pants. PLEASER MOON-708 navy 7-inch heel. Maritime company headquarters. Sensual pose with arched back, bedroom eyes. Expression: nautical authority. Ocean view office. Photorealistic 8k.
+```
+
+#### 63. Helena - Pewter HR Industrial
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin. Pewter grey lips. Wearing PEWTER GREY corset under grey blazer. Grey pants. PLEASER MOON-708 grey 7-inch heel. Factory HR headquarters. Sensual pose with arched back, bedroom eyes. Expression: industrial management. Warehouse office. Photorealistic 8k.
+```
+
+#### 64. Helena - Burgundy HR Blood
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Blood burgundy glossy lips. Wearing BURGUNDY corset under burgundy power suit. Black pants. PLEASER MOON-708 burgundy 7-inch heel. Disciplinary action meeting. Sensual pose with arched back, bedroom eyes. Expression: blood in the water. Dark wood office. Photorealistic 8k.
+```
+
+#### 65. Helena - Blood Orange HR Sunset
+
+```
+Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Wild black hair. Pale porcelain white skin. Blood orange metallic lips. Wearing BLOOD ORANGE corset under orange-accent blazer. Black pants. PLEASER MOON-708 orange 7-inch heel. End of day dismissal. Sunset through window. Sensual pose with arched back, bedroom eyes. Expression: sunset terminator. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll Secretary - Color Variations (20 prompts)
+
+#### 66. Miss Doll - Mint Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin. Mint shimmer makeup. Wearing MINT GREEN corset under mint cardigan. Black pencil skirt. PLEASER FLAMINGO-808 mint 8-inch heel. Answering mint phone at desk. Sensual pose with arched back, bedroom eyes. Expression: fresh assistance. Mint-accented reception. Photorealistic 8k.
+```
+
+#### 67. Miss Doll - Coral Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with coral glow. Coral makeup. Wearing CORAL ORANGE corset under coral blouse. White skirt. PLEASER FLAMINGO-808 coral 8-inch heel. Filing documents. Sensual pose with arched back, bedroom eyes. Expression: sunny assistance. Coral-accented office. Photorealistic 8k.
+```
+
+#### 68. Miss Doll - Yellow Sunshine Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Glowing porcelain skin. Yellow shimmer makeup. Wearing CANARY YELLOW corset under yellow blouse. Black skirt. PLEASER FLAMINGO-808 yellow 8-inch heel. Morning coffee run preparation. Sensual pose with arched back, bedroom eyes. Expression: bright assistance. Yellow-lit office. Photorealistic 8k.
+```
+
+#### 69. Miss Doll - Tangerine Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin. Tangerine makeup. Wearing TANGERINE ORANGE corset under orange cardigan. White pants. PLEASER FLAMINGO-808 orange 8-inch heel. Scheduling appointments on computer. Sensual pose with arched back, bedroom eyes. Expression: energetic assistance. Warm orange office. Photorealistic 8k.
+```
+
+#### 70. Miss Doll - Emerald Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with green reflection. Emerald makeup. Wearing EMERALD GREEN corset under emerald blouse. Black skirt. PLEASER FLAMINGO-808 emerald 8-inch heel. Greeting VIP clients. Sensual pose with arched back, bedroom eyes. Expression: precious assistance. Emerald-accented lobby. Photorealistic 8k.
+```
+
+#### 71. Miss Doll - Turquoise Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. SPF porcelain skin. Turquoise makeup. Wearing TURQUOISE corset under turquoise blouse. White skirt. PLEASER FLAMINGO-808 turquoise 8-inch heel. Tropical resort office reception. Sensual pose with arched back, bedroom eyes. Expression: beach office vibes. Resort lobby. Photorealistic 8k.
+```
+
+#### 72. Miss Doll - Crimson Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin. Bold red makeup. Wearing CRIMSON RED corset under red blouse. Black pencil skirt. PLEASER FLAMINGO-808 crimson 8-inch heel. Power typing on keyboard. Sensual pose with arched back, bedroom eyes. Expression: intense assistance. Red-accented executive suite. Photorealistic 8k.
+```
+
+#### 73. Miss Doll - Peach Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Peachy porcelain skin. Peach makeup. Wearing PEACH corset under peach cardigan. Cream skirt. PLEASER FLAMINGO-808 peach 8-inch heel. Taking phone messages with smile. Sensual pose with arched back, bedroom eyes. Expression: sweet assistance. Peachy soft office. Photorealistic 8k.
+```
+
+#### 74. Miss Doll - Silver Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Silver-highlighted porcelain skin. Chrome makeup. Wearing LIQUID SILVER corset under silver blouse. Black skirt. PLEASER FLAMINGO-808 silver 8-inch heel. Tech startup reception. Sensual pose with arched back, bedroom eyes. Expression: futuristic assistance. Chrome modern office. Photorealistic 8k.
+```
+
+#### 75. Miss Doll - Gold Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with gold shimmer. Gold makeup. Wearing GOLD METALLIC corset under gold blouse. Black skirt. PLEASER FLAMINGO-808 gold 8-inch heel. Executive assistant to CEO. Sensual pose with arched back, bedroom eyes. Expression: golden assistance. Luxury executive suite. Photorealistic 8k.
+```
+
+#### 76. Miss Doll - Neon Pink Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. UV porcelain skin. Neon pink makeup. Wearing NEON PINK corset under neon pink blouse. Black mini skirt. PLEASER FLAMINGO-808 neon pink 8-inch heel. Creative agency reception. Sensual pose with arched back, bedroom eyes. Expression: creative assistance. Neon-lit agency. Photorealistic 8k.
+```
+
+#### 77. Miss Doll - Electric Blue Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with blue glow. Electric blue makeup. Wearing ELECTRIC BLUE corset under blue blouse. Black skirt. PLEASER FLAMINGO-808 blue 8-inch heel. Gaming company reception. Sensual pose with arched back, bedroom eyes. Expression: gamer girl assistance. Blue LED office. Photorealistic 8k.
+```
+
+#### 78. Miss Doll - Lilac Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Soft porcelain skin. Lilac makeup. Wearing LILAC corset under lilac cardigan. White skirt. PLEASER FLAMINGO-808 lilac 8-inch heel. Spa company reception. Sensual pose with arched back, bedroom eyes. Expression: zen assistance. Lavender office. Photorealistic 8k.
+```
+
+#### 79. Miss Doll - Lavender Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin. Lavender makeup. Wearing LAVENDER corset under lavender blouse. Grey skirt beatiful. PLEASER FLAMINGO-808 lavender 8-inch heel. Cosmetics company reception. Sensual pose with arched back, bedroom eyes. Expression: beauty assistance. Lavender-lit lobby. Photorealistic 8k.
+```
+
+#### 80. Miss Doll - Black Power Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Pale porcelain skin. Black dramatic makeup. Wearing BLACK corset under black blouse. Black pencil skirt. PLEASER FLAMINGO-808 black 8-inch heel. Law firm reception. Sensual pose with arched back, bedroom eyes. Expression: serious assistance. Dark wood law office. Photorealistic 8k.
+```
+
+#### 81. Miss Doll - Rose Gold Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with rose glow. Rose gold makeup. Wearing ROSE GOLD corset under rose cardigan. Cream skirt. PLEASER FLAMINGO-808 rose gold 8-inch heel. Wedding planning company. Sensual pose with arched back, bedroom eyes. Expression: romantic assistance. Rose gold accents. Photorealistic 8k.
+```
+
+#### 82. Miss Doll - Bronze Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin with copper glow. Bronze makeup. Wearing BRONZE corset under bronze blouse. Brown skirt. PLEASER FLAMINGO-808 bronze 8-inch heel. Architecture firm reception. Sensual pose with arched back, bedroom eyes. Expression: artistic assistance. Industrial chic office. Photorealistic 8k.
+```
+
+#### 83. Miss Doll - Champagne Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Glitter porcelain skin. Champagne gold makeup. Wearing CHAMPAGNE corset under champagne blouse. Black skirt. PLEASER FLAMINGO-808 champagne 8-inch heel. Event planning company. Sensual pose with arched back, bedroom eyes. Expression: celebratory assistance. Party office. Photorealistic 8k.
+```
+
+#### 84. Miss Doll - Burgundy Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob, straight bangs. Porcelain skin. Burgundy makeup. Wearing BURGUNDY corset under burgundy blouse. Black skirt. PLEASER FLAMINGO-808 burgundy 8-inch heel. Wine company headquarters. Sensual pose with arched back, bedroom eyes. Expression: sophisticated assistance. Wine-themed office. Photorealistic 8k.
+```
+
+#### 85. Miss Doll - Rainbow Secretary
+
+```
+Professional secretary photography of woman with platinum blonde bob with rainbow streaks, straight bangs. Rainbow shimmer porcelain skin. Rainbow makeup. Wearing RAINBOW gradient corset under white blouse. Black skirt. PLEASER FLAMINGO-808 clear rainbow 8-inch heel. Pride organization. Sensual pose with arched back, bedroom eyes. Expression: inclusive assistance. Rainbow office. Photorealistic 8k.
+```
+
+---
+
+### 👯 Color Office Duos (15 prompts)
+
+#### 86. Helena Emerald + Miss Doll Rose - Interview
+
+```
+Professional interview photography. HELENA: black hair, pale skin, emerald lips, EMERALD corset under green blazer, interviewing. MISS DOLL: platinum bob, ROSE GOLD blouse, taking notes. Sensual pose with arched back, bedroom eyes. Expression: hiring process. Green and rose office. Photorealistic 8k.
+```
+
+#### 87. Helena Silver + Miss Doll Gold - Tech Team
+
+```
+Professional tech office photography. HELENA: slicked black hair, SILVER corset under grey blazer, tech HR. MISS DOLL: platinum bob, GOLD corset, gold blouse, tech secretary. Both at computers. Sensual pose with arched back, bedroom eyes. Expression: tech duo. Chrome and gold office. Photorealistic 8k.
+```
+
+#### 88. Helena Navy + Miss Doll White - Corporate
+
+```
+Professional corporate photography. HELENA: sleek black hair, NAVY suit with corset, HR captain. MISS DOLL: platinum bob, WHITE outfit pristine, reception desk. Sensual pose with arched back, bedroom eyes. Expression: nautical corporate. Navy and white office. Photorealistic 8k.
+```
+
+#### 89. Helena Copper + Miss Doll Mint - Autumn Fresh
+
+```
+Professional seasonal photography. HELENA: copper-toned hair, COPPER corset, autumn HR. MISS DOLL: platinum bob, MINT GREEN outfit, fresh secretary. Sensual pose with arched back, bedroom eyes. Expression: seasons collide. Split autumn/spring office. Photorealistic 8k.
+```
+
+#### 90. Helena Purple + Miss Doll Yellow - Complementary
+
+```
+Professional complementary photography. HELENA: black hair, ROYAL PURPLE corset, purple blazer. MISS DOLL: platinum bob, CANARY YELLOW outfit. Color wheel contrast. Sensual pose with arched back, bedroom eyes. Expression: color theory office. Split purple/yellow office. Photorealistic 8k.
+```
+
+#### 91. Helena Bronze + Miss Doll Silver - Metallic Team
+
+```
+Professional metallic photography. HELENA: bronze-streaked hair, BRONZE corset, HR power. MISS DOLL: platinum bob, SILVER outfit, futuristic secretary. Sensual pose with arched back, bedroom eyes. Expression: metal office. Bronze and silver office. Photorealistic 8k.
+```
+
+#### 92. Helena Teal + Miss Doll Coral - Ocean Vibes
+
+```
+Professional ocean photography. HELENA: wet-look hair, TEAL corset, beach resort HR. MISS DOLL: platinum bob, CORAL outfit, tropical secretary. Sensual pose with arched back, bedroom eyes. Expression: resort management. Teal and coral office. Photorealistic 8k.
+```
+
+#### 93. Helena Champagne + Miss Doll Pink - Celebration
+
+```
+Professional celebration photography. HELENA: gold glitter hair, CHAMPAGNE corset, celebration HR. MISS DOLL: platinum bob, HOT PINK outfit, party secretary. Both with champagne. Sensual pose with arched back, bedroom eyes. Expression: office party. Champagne and pink office. Photorealistic 8k.
+```
+
+#### 94. Helena Plum + Miss Doll Lilac - Purple Spectrum
+
+```
+Professional purple photography. HELENA: elegant black hair, PLUM corset, wine HR. MISS DOLL: platinum bob, LILAC outfit, pastel secretary. Sensual pose with arched back, bedroom eyes. Expression: purple hierarchy. Gradient purple office. Photorealistic 8k.
+```
+
+#### 95. Helena White + Miss Doll Black - Contrast
+
+```
+Professional contrast photography. HELENA: black hair, WHITE suit with black corset, clinical HR. MISS DOLL: platinum bob, BLACK outfit, noir secretary. Sensual pose with arched back, bedroom eyes. Expression: yin yang office. Black and white office. Photorealistic 8k.
+```
+
+#### 96. Helena Sapphire + Miss Doll Ruby - Jewel Office
+
+```
+Professional jewel photography. HELENA: sleek black hair, SAPPHIRE corset, blue HR. MISS DOLL: platinum bob, CRIMSON RED outfit, ruby secretary. Sensual pose with arched back, bedroom eyes. Expression: precious employees. Blue and red office. Photorealistic 8k.
+```
+
+#### 97. Helena Amethyst + Miss Doll Citrine - Crystal Team
+
+```
+Professional crystal photography. HELENA: black hair with crystals, AMETHYST corset, mystical HR. MISS DOLL: platinum bob, YELLOW CITRINE outfit, sunny secretary. Sensual pose with arched back, bedroom eyes. Expression: crystal office. Purple and yellow crystals. Photorealistic 8k.
+```
+
+#### 98. Helena Pewter + Miss Doll Neon - Industrial Modern
+
+```
+Professional contrast photography. HELENA: sleek black hair, PEWTER corset, industrial HR. MISS DOLL: platinum bob, NEON PINK outfit, modern secretary. Sensual pose with arched back, bedroom eyes. Expression: old meets new. Industrial/neon office. Photorealistic 8k.
+```
+
+#### 99. Helena Blood Orange + Miss Doll Electric Blue - Sunset Dusk
+
+```
+Professional color clash photography. HELENA: wild black hair, BLOOD ORANGE corset, sunset HR. MISS DOLL: platinum bob, ELECTRIC BLUE outfit, dusk secretary. Sensual pose with arched back, bedroom eyes. Expression: sunset/dusk office. Orange and blue office. Photorealistic 8k.
+```
+
+#### 100. All Three - Rainbow Board Meeting
+
+```
+Professional rainbow meeting photography. ANAÏS: honey blonde, GOLD power suit, CEO at head. HELENA: black hair, PURPLE corset, HR to left. MISS DOLL: platinum bob, PINK outfit, secretary taking notes. All different colors harmonizing. Sensual pose with arched back, bedroom eyes. Expression: colorful leadership. Rainbow-accented boardroom. Photorealistic 8k.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V11 Office Power Edition — 50 prompts*
+*V11.2 Office Power Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*Actualizado: 2025-12-29*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2025-12-31*
