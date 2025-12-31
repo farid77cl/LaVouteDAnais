@@ -371,14 +371,28 @@ La música del programa sube de volumen ("Plastic Love" versión trap, bass boos
 
 **Julián**, por su arrogancia y falta de cultura básica, ha quedado en ridículo. Y en *The Dollhouse*, la humillación exige transformación inmediata.
 
-**OPCIÓN A: CINTURA DE AVISPA (Wasp Waist)**
+**¿Qué castigo recibe Julián?**
 
-* **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo. Implantación de corsé interno de titanio.
-* **Resultado:** Cintura permanente de 45cm. Dificultad para respirar. Silueta forzada.
+> **OPCIÓN A: "CINTURA DE AVISPA" (Wasp Waist)** ⏳
+>
+> **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo. Implantación de corsé interno de titanio.
+> **Resultado:** Cintura permanente de 45cm. Dificultad para respirar. Silueta forzada de reloj de arena extremo.
 
-**OPCIÓN B: CORREDOR DE LENGUAJE (Bimbo Voice)**
+> **OPCIÓN B: "CORREDOR DE LENGUAJE" (Bimbo Voice)** 🗣️
+>
+> **Procedimiento:** Implante neurolingüístico en el área de Broca (Brain Hacking).
+> **Resultado:** Bloqueo de palabras complejas. Vocabulario reducido a "Girlish Slang" (Like, OMG). Voz aguda y risitas involuntarias.
 
-* **Procedimiento:** Implante neurolingüístico en el área de Broca (Brain Hacking).
-* **Resultado:** Bloqueo de palabras complejas. Vocabulario reducido a "Girlish Slang" (Like, OMG). Voz aguda.
+---
 
-El show regresa tras el corte. **El resultado será ejecutado en vivo.**
+**[🔗 VOTA AQUÍ](https://strawpoll.com/dollhouse_julian_punishment)**
+
+---
+
+> [!IMPORTANT]
+> **TU VOTO DECIDE EL CASTIGO DE JULIÁN.**
+>
+> El resultado se ejecutará en vivo tras el corte comercial.
+> La modificación es PERMANENTE dentro de la historia.
+
+El show regresa en 3 minutos.
