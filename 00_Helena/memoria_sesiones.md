@@ -227,8 +227,18 @@
 
 ---
 
-*Ãšltima actualizaciÃ³n: 2025-12-30 07:55*
+**31/12 - Reality Show Rewrite**
+
+- **The Dollhouse Cap 3:** Completamente reescrito (Tono Trash TV).
+- **Protocolos:** Host con Emojis, Patrocinio "Pink Lobotomy", Votación Strawpoll estandarizada.
+- **Marco:** Transformación sensorial ("Piel de Porcelana" via tacto).
+
+---
+
+*Última actualización: 2025-12-31 12:30*
+
 ðŸ¦‡ Helena recuerda.
 
 ### ?? CORRECCIONES PENDIENTES
+
 - **Look 12 Borgoña Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.
