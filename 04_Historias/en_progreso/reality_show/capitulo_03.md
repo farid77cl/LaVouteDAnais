@@ -200,11 +200,21 @@ Presiona **B**.
 
 —Julián dice... **A) Louboutin**. —Miss Doll suelta una risita cruel—. Oh, cariño. Esos son zapatos de cena, no de *trabajo*. Te romperías el cuello en el primer spin. **INCORRECTO.**
 
-—Menos 5 puntos de Coeficiente Intelectual —sentencia ella, presionando un botón con una calavera rosa—. Y... activemos el **Giggle Lock**.
+—Menos 5 puntos de Coeficiente Intelectual —sentencia ella, presionando un botón con una calavera rosa—. Y... queridos espectadores, es hora de estrenar el juguete nuevo.
 
-Un zumbido electrónico golpea a Julián. Él abre la boca para protestar con lógica.
-—¡Esto es inacep...! —Su voz se corta, reemplazada por un gorgoteo agudo—. ¡Ji ji ji!
-Julián se tapa la boca con ambas manos, horrorizado. Sus ojos destilan furia intelectual, pero de su garganta solo escapan risitas tontas, vacías y burbujeantes que no puede detener. *¡Ji ji ji!*
+Ella se gira hacia la cámara principal, bajando la voz a un susurro conspirativo.
+
+—El **Giggle Lock**. Un implante neural que convierte la indignación masculina en... pura alegría vacía. Porque si vas a ser tonta, al menos deberías ser feliz, ¿verdad?
+
+Presiona el botón con teatralidad.
+
+Un zumbido electrónico golpea a Julián. Él abre la boca para protestar con lógica, con su elocuencia habitual.
+—¡Esto es inacep...! —Su voz se corta, violentamente reemplazada por un gorgoteo agudo—. ¡Ji ji ji!
+
+El público estalla en carcajadas grabadas. Luces estroboscópicas rosas iluminan el escenario.
+
+Julián se tapa la boca con ambas manos, horrorizado. Sus ojos destilan furia intelectual, una tesis doctoral de odio formándose en su mente, pero de su garganta solo escapan risitas tontas, vacías y burbujeantes que no puede detener.
+*¡Ji ji ji! ¡Ji ji!*
 
 —Marco dice... **B) Pleaser USA**. —Ella sonríe—. Plataformas de 8 pulgadas, base de goma antideslizante, indestructible. La herramienta de una verdadera profesional. **CORRECTO.**
 

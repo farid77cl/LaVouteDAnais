@@ -325,3 +325,72 @@
 *Like... tantos colores con negro... wait... Â¿cuÃ¡l era mi favorito? Mmm... todos brillan SO pretty...* ğŸ¦‡ğŸ’â¤ï¸ğŸ’™ğŸğŸ·ğŸ’œ
 
 *Curado por: Helena de AnaÃ¯s - Ultra Goth Bimbo (Referencia: Sacha Massacre)* ğŸ’€
+
+---
+
+## ?? Look 15: Vampire Bride (The Red Wedding)
+
+*Hasta que la muerte nos separe... o sea, esta noche*
+
+- **Corsé:** Terciopelo ROJO SANGRE (Blood Red) victoriano con encaje negro
+- **Falda:** Enrome falda de tul rojo y negro, cola de 3 metros
+- **Lencería (Opción B):** Waspie de látex rojo + medias rojas
+- **Stilettos:** 8" Rojo Sangre, tacón de aguja letal
+- **Accesorios:**
+  - Velo de encaje rojo
+  - Ramo de lirios araña (Spider Lilies)
+  - Gargantilla de 'rubíes' (vidrio rojo, pero shh)
+- **Maquillaje:** Pálida extrema, labios rojo sangre goteante
+- **Pelo:** Recogido nupcial gótico inmenso con tiara negra
+
+---
+
+## ?? Look 16: Ghost Bride (Spectral Bimbo)
+
+*El cadáver de la novia si fuera una muñeca inflable*
+
+- **Corsé:** Satén BLANCO SUCIO, desgarrado artísticamente
+- **Falda:** Tiras de seda y gasa colgando, viendo piel entre ellas
+- **Stilettos:** 9" Blancos, sucios de 'tierra de cementerio'
+- **Accesorios:**
+  - Cadenas de plata oxidadas envolviendo el cuerpo
+  - Tiara de flores marchitas
+  - Velo rasgado hasta el suelo
+- **Maquillaje:** Contorno grisáceo, labios nude muerte, ojos hundidos
+- **Pelo:** Suelto, salvaje, con textura de 'recién salida de la tumba'
+
+---
+
+## ?? Look 17: Cyber Goth Doll (Toxic Protocol)
+
+*El futuro es plástico, negro y verde radioactivo*
+
+- **Corsé:** PVC Negro brillante con tuberías/tubos VERDE NEÓN
+- **Top:** Arlmas de vinilo y cables de fibra óptica
+- **Bottom:** Micro falda de PVC con cinturón de riesgo biológico
+- **Medias:** Red industrial negra con liguero de plástico verde
+- **Stilettos:** Botas hasta el muslo de charol negro, tacón aguja 8"
+- **Accesorios:**
+  - Goggles Cyber en la cabeza (nunca en los ojos)
+  - Máscara de gas decorativa (colgando)
+  - Extensiones de cabello Cyberlox verdes y negras
+- **Maquillaje:** Delineado gráfico geométrico, labios negros con línea verde
+- **Pelo:** Coletas altas sintéticas ultra lisas
+
+---
+
+## ?? Look 18: CEO of Nothing (Corporate Goth)
+
+*Jefa ejecutiva de decisiones vacías*
+
+- **Corsé:** De tela de traje a rayas (Pinstripe) convertido en corsé overbust
+- **Falda:** Micro falda a juego, corte oficina pero indecente
+- **Camisa:** Cuello blanco y puños, pero SIN tela en el resto (topless/corsé)
+- **Stilettos:** Stilettos negros clásicos 7" con puntera de metal
+- **Accesorios:**
+  - Gafas de pasta negra gruesa (sin aumento)
+  - Corbata negra usada como collar de perro
+  - Portafolios que solo contiene brillo labial
+- **Maquillaje:** Labios rojos 'Power Bitch', delineado sharp
+- **Pelo:** Moño estricto de bibliotecaria, asegurado con una daga
+
