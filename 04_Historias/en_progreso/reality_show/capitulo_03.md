@@ -164,50 +164,47 @@ Las luces cambian a un rojo profundo. Marco intenta enfocar la vista, pero sus p
 
 ---
 
-## BLOQUE 2: Protocolo de Sumisión
+## BLOQUE 2: Cultura Bimbo & Estética Plástica
 
-*(Giggle Lock Activo)*
+*(Nivel: Conocimiento "Callejero" / Instinto Sucio)*
 
-**Tema:** Etiqueta para Mascotas y Objetos
+**Tema:** Trivia de Strippers, Escorts y Cirugía
 
 El tablero se reinicia.
 **Julián:** 0 puntos (-5 CI)
 **Marco:** 0 puntos (-5 CI + Piel de Porcelana)
 
-—En este bloque —advierte Miss Doll—, el error tiene un precio extra. Si fallan... activaré el **Giggle Lock**. Sus bocas quedarán cerradas para hablar, pero abiertas para reír... sin poder parar. ¿Entendido?
+—En este bloque —ronronea Miss Doll—, no buscamos inteligencia académica. Buscamos... *cultura de plástico*. Conocimiento de la calle. Cosas que una muñeca *debe* saber.
 
-Ambos asienten. Marco con lágrimas en los ojos por el roce de su camisa.
+Julián alza una ceja, arrogante. *Cultura basura. Esto será fácil.*
 
-—Cuarta pregunta. En posición.
-
-El tablero digital parpadea.
+—Cuarta pregunta.
 
 ### Pregunta 4: Calzado de Trabajo
 
-**"Según los estándares de la industria del entretenimiento para adultos, ¿cuál es la marca de calzado técnico obligatorio para el trabajo seguro en barra vertical (Pole)?"**
+**"Para uso profesional seguro en Pole Dance y trabajo de piso, ¿qué marca es el estándar de oro de la industria?"**
 
 **A) Christian Louboutin.**
 **B) Pleaser USA.**
 **C) Jimmy Choo.**
 
-Marco mira las opciones. *Louboutin... suenan caros.* Pero su memoria muscular, o quizás algo inyectado en su sangre, le grita otra cosa. Recuerda vagamente un video... una chica girando... plataformas transparentes...
+Julián ni lo duda. *Louboutin es la cima del calzado.* Presiona **A** con desdén. *Por favor, cualquier otra cosa es basura.*
 
-Julián sonríe con suficiencia. *Por favor. Si hablamos de tacones, hablamos de suela roja.*
-Presiona **A**.
+Marco mira la pantalla. Su mente está nublada por el *Glow*, pero algo en su memoria muscular... algo en las revistas que solía ver a escondidas...
+*Las suelas rojas resbalan*, le susurra una voz en su cabeza. *Y los tacones de aguja se rompen. Necesitas plataforma. Necesitas agarre.*
+Su mano se mueve sola.
 
-Marco, sudando por la fricción de su ropa, presiona **B**.
+Presiona **B**.
 
-—Julián elige... **Louboutin**. —Miss Doll niega con la cabeza—. Típico snob. Los Louboutin no tienen plataforma de absorción de impacto ni agarre en el empeine. Son para cenar, no para trabajar. **Incorrecto.**
+—¡TIEMPO!
 
-Julián parpadea, ofendido.
+—Julián dice... **A) Louboutin**. —Miss Doll suelta una risita cruel—. Oh, cariño. Esos son zapatos de cena, no de *trabajo*. Te romperías el cuello en el primer spin. **INCORRECTO.**
 
-—Marco elige... **Pleaser USA**. —La pantalla se ilumina en VERDE—. Correcto. Plataforma de 8 pulgadas, agarre de vinilo, estabilidad industrial. La herramienta de una profesional.
+Julián boquea, ofendido.
+
+—Marco dice... **B) Pleaser USA**. —Ella sonríe—. Plataformas de 8 pulgadas, base de goma antideslizante, indestructible. La herramienta de una verdadera profesional. **CORRECTO.**
 
 **Marcador: Marco 1 — Julián 0**
-
-—Siguiente. Vamos a subir la temperatura.
-
-### Pregunta 5: Terminología de Servicios
 
 **"En el menú de servicios de una Escort VIP, ¿qué garantiza exactamente el acrónimo 'G.F.E.'?"**
 
@@ -313,14 +310,23 @@ La música del programa sube de volumen ("Plastic Love" versión trap). Los cré
 
 ## 🗳️ VOTACIÓN DE LA AUDIENCIA (PARA EL VIERNES)
 
-Queridos voyeurs, Marco "The Doll" ha **GANADO** el Bloque 2, demostrando un instinto slutty natural. Mientras el "Príncipe" Julián disfruta de su Risa Tonta forzada, Marco merece... un premio.
+Queridos voyeurs, **Marco "The Doll"** ha arrasado en el Bloque 2 con una victoria perfecta (3-0), demostrando que su instinto es superior al intelecto del príncipe.
 
-¿Qué siguiente paso debemos dar en su evolución?
+**Julián**, por su arrogancia y falta de cultura básica, ha quedado en ridículo. Y en *The Dollhouse*, la humillación exige transformación.
 
-**OPCIÓN A: TACONES QUIRÚRGICOS (Surgical Heels)**
+¿Qué castigo "correctivo" aplicaremos a Julián en el próximo capítulo para mejorar su actitud?
 
-* **Descripción:** Modificación ósea de los pies. Tobillos fijados permanentemente en ángulo de 30 grados.
-* **Efecto:** Incapacidad de caminar descalzo. Necesidad biológica de usar tacones altos para mantener el equilibrio.
+**OPCIÓN A: CINTURA DE AVISPA (Wasp Waist)**
+
+* **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo. Implantación de corsé interno de titanio.
+* **Resultado:** Cintura permanente de 45cm. Dificultad para respirar frases largas. Silueta forzada de reloj de arena extremo.
+
+**OPCIÓN B: CORREDOR DE LENGUAJE (Bimbo Voice)**
+
+* **Procedimiento:** Implante neurolingüístico en el área de Broca.
+* **Resultado:** Bloqueo de palabras polisilábicas complejas. Vocabulario reducido a "Girlish Slang" (O sea, Like, OMG). Tono de voz elevado una octava permanentemente.
+
+¡Voten en los comentarios! El destino del Príncipe está en sus manos.
 
 **OPCIÓN B: CORREDOR DE LENGUAJE (Bimbo Voice)**
 

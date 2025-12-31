@@ -113,26 +113,24 @@ Ver `pool_castigos.md` (Si existe) o lista anterior.
 *Tema: Etiqueta para Mascotas, Objetos y Bimbos.*
 *Castigo por Error:* -5 IQ + **Giggle Lock** (Risa forzada, incapacidad de hablar).
 
-### Pregunta 4: La Postura Correcta
+### BLOQUE 2: Cultura Bimbo & Estética Plástica (Bimbo Trivia)
 
-**"Cuando un Superior (Dueño/Ama) entra en la habitación, ¿cuál es la posición física inmediata que debe adoptar una 'Muñeca de Exhibición'?"**
+*Objetivo:* Humillar el intelecto de Julián vs Instinto "sucio" de Marco.
 
-- **A) Saludar verbalmente con entusiasmo.** (Error: Las muñecas no hablan sin permiso).
-- **B) 'The Arch' (El Arco).** (CORRECTA: Espalada arqueada, pecho fuera, trasero fuera, rodilla doblada, labios fruncidos. Estática y decorativa).
-- **C) Ocultarse discretamente.** (Error: El propósito es ser vista).
+**Pregunta 4: Calzado de Trabajo**
+"¿Cuál es la marca estándar de seguridad y estabilidad para el Pole Dance profesional?"
+- A) Christian Louboutin (Julián elige x Snob/Lujo - **INCORRECTO**)
+- B) Pleaser USA (Marco elige x Instinto/Calle - **CORRECTO**)
+- C) Jimmy Choo
 
-### Pregunta 5: Materiales de Exhibición
+**Pregunta 5: Terminología de Servicio**
+"En el menú de una acompañante de alto nivel, ¿qué significan las siglas G.F.E.?"
+- A) General Financial Exchange
+- B) Girlfriend Experience (Marco acierta - **CORRECTO**)
+- C) Guaranteed Fun Evening (Julián falla - **INCORRECTO**)
 
-**"¿Cuál es el único material aceptable para la 'segunda piel' de una muñeca de servicio?"**
-
-- **A) Algodón (Cotton).** (Error: Demasiado cómodo/aburrido. "Ropa de abuela").
-- **B) Látex / Vinilo.** (CORRECTA: Brillante, restrictivo, fetichista).
-- **C) Seda.** (Error: Demasiado elegante/caro).
-
-### Pregunta 6: Terminología Básica
-
-**"Completa la frase del Credo de la Muñeca: 'Mi mente está vacía para que mi cuerpo pueda ser...'"**
-
-- **A) ...libre.** (Filosófico, incorrecto).
-- **B) ...mío.** (Egoísta, incorrecto).
-- **C) ...llenado.** (CORRECTA: *Filled*. Doble sentido sexual y de posesión).
+**Pregunta 6: Cirugía Plástica**
+"Para lograr el look 'Bolted-on' (Pelotas Flotantes) donde el implante es claramente visible, ¿cuál es la colocación correcta?"
+- A) Submuscular (Debajo del músculo - Natural) - (Julián elige x estética refinada - **INCORRECTO**)
+- B) Subglandular (Encima del músculo - Fake) - (Marco elige - **CORRECTO**)
+- C) Trans-axilar
