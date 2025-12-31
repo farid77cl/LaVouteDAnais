@@ -19,7 +19,7 @@ Las luces del estudio giran frenéticamente, barriendo el escenario con haces de
 
 Miss Doll camina hacia el centro del escenario. Sus tacones de 16 centímetros (Christian Louboutin, *custom made*, suela de diamante triturado) golpean el suelo de cristal con un ritmo depredador.
 
-—Diez segundos para cerrar la votación del Bloque 1 —anuncia, mirando directamente a la Cámara 3 con una sonrisa que promete dolor—. Millones de ustedes han votado. Han decidido el destino de la piel de **Marco**. ¿Quieren que siga siendo un hombre rudo y peludo? ¿O prefieren... *refinarlo*?
+—Diez segundos para cerrar la votación del Bloque 1 —anuncia, mirando directamente a la Cámara 3 con una sonrisa que promete dolor—. Millones de ustedes han votado. Han decidido el destino de la piel de **Marco**. ¿Quieren que siga siendo un hombre rudo y peludo (**Opción A: Piel de Porcelana**)? ¿O prefieren... *refinarlo* con una boca que no pueda cerrarse (**Opción B: Boca de Muñeca**)?
 
 El contador gigante en la pantalla LED trasera desciende, cada número acompañado de un *THUD* grave, similar al latido de un corazón bajo estrés.
 
@@ -190,6 +190,10 @@ El tablero digital se reinicia con efectos de sonido de videojuego retro.
 **Marco:** 0 puntos (-5 CI + Piel de Porcelana)
 
 —En este bloque —ronronea Miss Doll paseando entre los podios—, no buscamos inteligencia académica. A nadie le importa la poesía francesa, Julián. Buscamos... *cultura de plástico*. Conocimiento de la calle. Cosas que una muñeca *debe* saber para sobrevivir en su hábitat natural: el club, la cama y el quirófano.
+
+Se detiene y acaricia un dispositivo plateado en su atril.
+
+—Y por supuesto, si se equivocan... estrenaremos el **Giggle Lock**. Un pequeño implante simpático que bloquea la frustración masculina y la convierte en risitas de niña. Porque sinceramente, ver a un hombre enojado es *tan* aburrido. Preferimos verlos felices, ¿verdad?
 
 Julián alza una ceja, arrogante, cruzándose de brazos. *Cultura basura. Esto será fácil. Solo tengo que pensar como una idiota.*
 
