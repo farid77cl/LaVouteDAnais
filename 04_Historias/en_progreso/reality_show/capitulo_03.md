@@ -240,7 +240,7 @@ Presiona un botón con una calavera rosa en su atril.
 
 Ella se gira hacia la cámara principal, bajando la voz a un susurro conspirativo, rompiendo la cuarta pared.
 
-—Presentamos el **Giggle Lock**. Un implante neural de acción rápida que convierte la indignación masculina y la frustración intelectual en... pura alegría vacía. Porque si vas a ser tonta, al menos deberías ser feliz, ¿verdad? A nadie le gustan los hombres enojados.
+—Presentamos el **Giggle Lock**, auspiciado por **Pink Lobotomy & Spa**. Un implante neural de acción rápida que convierte la indignación masculina y la frustración intelectual en... pura alegría vacía. Porque si vas a ser tonta, al menos deberías ser feliz, ¿verdad? A nadie le gustan los hombres enojados.
 
 Presiona el botón de activación con teatralidad.
 
@@ -294,7 +294,7 @@ Se gira hacia la cámara principal, sosteniendo el dispositivo plateado como si 
 
 En la pantalla gigante, una animación de labios cerrándose con una cremallera explota con gráficos de colores neón.
 
-**🔒 GIGGLE LOCK: MAX POWER 🔒**
+**🔒 GIGGLE LOCK™ (Auspiciado por Pink Lobotomy & Spa): MAX POWER 🔒**
 
 —¿Queremos oír sus aburridas teorías económicas? —pregunta a la audiencia, poniendo la mano en su oreja. *"¡NOOO!"*—. ¿O queremos oír lo vacío que está realmente? —*"¡SIIII!"*
 
@@ -312,7 +312,7 @@ Se lleva la mano a la boca, horrorizado. Sus ojos muestran furia pura, pero su g
 
 —¡Es un atrope... *¡ji ji ji! ¡Hahaha!* —La risa brota de él como vómito verbal: aguda, vacía, burbujeante. Una risa de rubia tonta saliendo de la boca de un hombre serio. Su cerebro intenta formar oraciones complejas, pero el implante las traduce en *giggles*.
 
-—Oh, parece que nuestra muñeca ya está de buen humor —sonríe Miss Doll a la Cámara 1—. El **Giggle Lock** está al 100%. Pero recuerden, reglas son reglas. Aún queda una pregunta para cerrar el bloque. ¿Podrá Julián salvar un punto de dignidad?
+—Oh, parece que nuestra muñeca ya está de buen humor —sonríe Miss Doll a la Cámara 1—. El **Giggle Lock** (gracias a *Pink Lobotomy*) está al 100%. Pero recuerden, reglas son reglas. Aún queda una pregunta para cerrar el bloque. ¿Podrá Julián salvar un punto de dignidad?
 
 Se gira hacia el tablero.
 
