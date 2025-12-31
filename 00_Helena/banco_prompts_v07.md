@@ -458,8 +458,291 @@ Professional trio lingerie photography. ANAÏS (center, elevated): honey blonde 
 
 ### Helena + Miss Doll - Beach Contrast
 
+---
+
+## XII. COLOR FREEDOM EXPANSION (45 PROMPTS)
+
+> [!TIP]
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color. Esta sección expande la paleta más allá del canon tradicional.
+
+### 🦇 Helena - Beyond Black (15 prompts)
+
+#### Helena - HB Blood Moon Set (Red)
+
 ```text
-Professional beach duo photography. HELENA: wet black hair, pale skin in shade, wearing BEACH BUNNY GUNMETAL BIKINI, black stilettos in sand. MISS DOLL: platinum bob, SPF-white skin, wearing TRIANGL PINK BIKINI, clear platforms. Both emerging from same wave. Sensual pose with arched back, bedroom eyes. Expression: night and day. Sunset beach. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional gothic boudoir photography of elegant goth woman (Sacha Massacre reference). Voluminous jet black hair. Pale marble skin. Blood red glossy lips. Wearing HONEY BIRDETTE custom BLOOD RED silk set, balconette bra with black lace trim, matching high-waisted brief. Black underbust corset over red. PLEASER FLAMINGO-1020 red/black 8-inch boots. Red velvet chaise. Sensual pose with arched back, bedroom eyes. Expression: vampire queen. Candlelit boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### Helena - AP Emerald Serpent (Green)
+
+```text
+Professional sensual photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair with emerald clips. Pale skin. Dark green glossy lips. Wearing AGENT PROVOCATEUR custom EMERALD GREEN silk set, quarter cup bra, suspender belt with snake embroidery. Black corset layered. PLEASER RAPTURE-1020 black/green 8-inch boots. Greenhouse conservatory. Sensual pose with arched back, bedroom eyes. Expression: poisonous beauty. Natural light through glass. Photorealistic 8k.
+```
+
+#### Helena - HB Royal Purple (Purple)
+
+```text
+Professional luxury photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair. Pale marble skin. Deep purple glossy lips. Wearing HONEY BIRDETTE custom ROYAL PURPLE velvet set, soft cup bra, matching thong, gold chain details. Purple overbust corset. PLEASER MOON-708 purple velvet 7-inch heel. Throne room setting. Sensual pose with arched back, bedroom eyes. Expression: dark royalty. Purple ambient lighting. Photorealistic 8k.
+```
+
+#### Helena - AP Midnight Blue (Navy)
+
+```text
+Professional editorial photography of elegant goth woman (Sacha Massacre reference). Sleek black hair in ponytail. Pale skin. Navy metallic lips. Wearing AGENT PROVOCATEUR custom MIDNIGHT BLUE satin set, structured demi bra, high-waisted brief with gold hardware. Black corset belt. PLEASER FLAMINGO-1020 navy patent 8-inch boots. Yacht interior at night. Sensual pose with arched back, bedroom eyes. Expression: nautical goddess. Moonlight through portholes. Photorealistic 8k.
+```
+
+#### Helena - HB Sterling Silver (Metallic)
+
+```text
+Professional futuristic photography of elegant goth woman (Sacha Massacre reference). Slicked black hair. Pale skin with silver highlight. Metallic silver lips. Wearing HONEY BIRDETTE custom STERLING SILVER metallic bodysuit, wet-look finish, plunge front. Silver underbust corset. PLEASER FLAMINGO-1020 silver chrome 8-inch boots. Mirrored studio. Sensual pose with arched back, bedroom eyes. Expression: android beauty. Clinical white lighting. Photorealistic 8k.
+```
+
+#### Helena - AP Rose Gold Romance
+
+```text
+Professional romantic photography of elegant goth woman (Sacha Massacre reference). Soft black waves. Pale skin with warm glow. Dark rose glossy lips. Wearing AGENT PROVOCATEUR custom ROSE GOLD silk set, soft cup bralette, matching French brief. Rose gold waist chain. PLEASER ADORE-1020 rose gold 7-inch boots. Sunset boudoir. Sensual pose with arched back, bedroom eyes. Expression: gothic romance. Golden hour light. Photorealistic 8k.
+```
+
+#### Helena - HB Champagne Dreams
+
+```text
+Professional celebration photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair with gold glitter. Pale skin. Champagne metallic lips. Wearing HONEY BIRDETTE custom CHAMPAGNE GOLD sequin bodysuit, covered in micro sequins. Black corset belt. PLEASER FLAMINGO-1020 gold glitter 8-inch boots. NYE party. Sensual pose with arched back, bedroom eyes. Expression: dark celebration. Confetti falling. Photorealistic 8k.
+```
+
+#### Helena - AP Copper Autumn
+
+```text
+Professional autumn photography of elegant goth woman (Sacha Massacre reference). Black hair with copper highlights. Pale skin with warm undertones. Terracotta glossy lips. Wearing AGENT PROVOCATEUR custom COPPER silk set, balconette bra, matching suspender brief. Copper corset belt. PLEASER MOON-708 brown suede 7-inch heel. Autumn forest backdrop. Sensual pose with arched back, bedroom eyes. Expression: harvest goddess. Golden hour. Photorealistic 8k.
+```
+
+#### Helena - HB White Widow
+
+```text
+Professional bridal-gothic photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair. Pale marble skin. Nude-wine lips. Wearing HONEY BIRDETTE custom STARK WHITE silk set with black lace trim, soft cup bra, matching brief. White overbust corset with black boning. PLEASER FLAMINGO-1020 white patent 8-inch boots. Gothic chapel. Sensual pose with arched back, bedroom eyes. Expression: ghost bride. Candlelight. Photorealistic 8k.
+```
+
+#### Helena - AP Burgundy Velvet
+
+```text
+Professional wine photography of elegant goth woman (Sacha Massacre reference). Voluminous black hair. Pale skin. Deep burgundy glossy lips. Wearing AGENT PROVOCATEUR custom BURGUNDY velvet set, structured balconette, high-waisted brief. Burgundy corset. PLEASER RAPTURE-1020 burgundy velvet 8-inch boots. Wine cellar. Sensual pose with arched back, bedroom eyes. Expression: vintage decadence. Warm candlelight. Photorealistic 8k.
+```
+
+#### Helena - HB Teal Abyss
+
+```text
+Professional underwater photography of elegant goth woman (Sacha Massacre reference). Wet black hair. Pale skin with teal reflection. Teal metallic lips. Wearing HONEY BIRDETTE custom DARK TEAL satin set, triangle bra, matching thong. Teal waist chain. PLEASER MOON-708 teal patent 7-inch heel (poolside). Emerging from pool. Sensual pose with arched back, bedroom eyes. Expression: deep sea siren. Underwater lighting. Photorealistic 8k.
+```
+
+#### Helena - AP Bronze Goddess
+
+```text
+Professional golden photography of elegant goth woman (Sacha Massacre reference). Black hair with bronze streaks. Pale skin with bronze shimmer. Bronze metallic lips. Wearing AGENT PROVOCATEUR custom ANTIQUE BRONZE chainmail-inspired set. Bronze corset. PLEASER FLAMINGO-1020 bronze chrome 8-inch boots. Ancient temple setting. Sensual pose with arched back, bedroom eyes. Expression: goddess of war. Sunset golden light. Photorealistic 8k.
+```
+
+#### Helena - HB Forest Green
+
+```text
+Professional nature photography of elegant goth woman (Sacha Massacre reference). Wild black hair with leaves. Pale skin. Forest green glossy lips. Wearing HONEY BIRDETTE custom FOREST GREEN silk set with ivy embroidery. Green underbust corset. PLEASER RAPTURE-1020 green leather 8-inch boots. Enchanted forest. Sensual pose with arched back, bedroom eyes. Expression: wood nymph. Dappled sunlight. Photorealistic 8k.
+```
+
+#### Helena - AP Sapphire Night
+
+```text
+Professional jewel photography of elegant goth woman (Sacha Massacre reference). Sleek black hair. Pale skin with blue highlight. Sapphire blue glossy lips. Wearing AGENT PROVOCATEUR custom SAPPHIRE BLUE satin set with crystal details. Blue corset belt. PLEASER MOON-708 sapphire blue 7-inch heel. Jewelry vault. Sensual pose with arched back, bedroom eyes. Expression: living jewel. Blue spotlight. Photorealistic 8k.
+```
+
+#### Helena - HB Amethyst Crystal
+
+```text
+Professional mystical photography of elegant goth woman (Sacha Massacre reference). Black hair with purple crystals woven in. Pale skin. Amethyst purple glossy lips. Wearing HONEY BIRDETTE custom AMETHYST purple mesh set with crystal embellishment. Purple overbust corset. PLEASER FLAMINGO-1020 purple glitter 8-inch boots. Crystal cave. Sensual pose with arched back, bedroom eyes. Expression: witch queen. Purple crystal glow. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Rainbow Palette (15 prompts)
+
+#### Miss Doll - HB Electric Blue
+
+```text
+Professional neon photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin, HEAVY GLAMOUR MAKEUP. Wearing HONEY BIRDETTE custom ELECTRIC BLUE vinyl set, structured bra, matching brief. Blue corset belt. PLEASER FLAMINGO-808 blue neon 8-inch heel. Gaming room with blue LED. Sensual pose with arched back, bedroom eyes. Expression: neon doll. Blue light glow. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Mint Fresh
+
+```text
+Professional fresh photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin with mint highlight. Soft makeup. Wearing AGENT PROVOCATEUR custom MINT GREEN delicate set, soft cup bra, French brief. Mint waist cincher. PLEASER ADORE-1020 mint patent 7-inch boots. Spa setting. Sensual pose with arched back, bedroom eyes. Expression: fresh doll. Soft natural light. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Coral Sunset
+
+```text
+Professional tropical photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin with coral glow. Coral pink makeup. Wearing HONEY BIRDETTE custom CORAL satin set, balconette bra, matching thong. Coral corset belt. PLEASER FLAMINGO-808 coral patent 8-inch heel. Sunset balcony. Sensual pose with arched back, bedroom eyes. Expression: sunset doll. Golden hour. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Canary Yellow
+
+```text
+Professional sunny photography of glamorous woman with platinum blonde bob, straight bangs. Glowing porcelain skin. Yellow shimmer makeup. Wearing AGENT PROVOCATEUR custom CANARY YELLOW silk set, playful triangle bra, matching brief. Yellow waist chain. PLEASER FLAMINGO-808 yellow patent 8-inch heel. Sunflower field. Sensual pose with arched back, bedroom eyes. Expression: sunshine doll. Bright daylight. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Tangerine Dream
+
+```text
+Professional citrus photography of glamorous woman with platinum blonde bob, straight bangs. Porcelain skin with orange highlight. Tangerine makeup. Wearing HONEY BIRDETTE custom TANGERINE ORANGE satin set, structured bra, high-cut brief. Orange corset. PLEASER FLAMINGO-808 orange patent 8-inch heel. Tropical bar. Sensual pose with arched back, bedroom eyes. Expression: juicy doll. Warm lighting. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Emerald Envy
+
+```text
+Professional jewel photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin with green reflection. Green shimmer makeup. Wearing AGENT PROVOCATEUR custom EMERALD GREEN silk set, structured balconette, matching thong. Green corset belt. PLEASER FLAMINGO-808 emerald patent 8-inch heel. Jewelry store. Sensual pose with arched back, bedroom eyes. Expression: emerald doll. Green spotlight. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Turquoise Ocean
+
+```text
+Professional beach photography of glamorous woman with platinum blonde bob, straight bangs. SPF-glow porcelain skin. Turquoise makeup. Wearing HONEY BIRDETTE custom TURQUOISE satin set, triangle bra, string brief. Turquoise waist chain. PLEASER FLAMINGO-808 turquoise patent 8-inch heel. Beach club. Sensual pose with arched back, bedroom eyes. Expression: ocean doll. Bright sun. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Crimson Red
+
+```text
+Professional bold photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin. Red power makeup. Wearing AGENT PROVOCATEUR custom CRIMSON RED silk set, quarter cup bra, suspender belt. Red corset. PLEASER FLAMINGO-808 crimson red patent 8-inch heel. Red velvet room. Sensual pose with arched back, bedroom eyes. Expression: power doll. Dramatic red lighting. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Lilac Dream
+
+```text
+Professional pastel photography of glamorous woman with platinum blonde bob, straight bangs. Soft porcelain skin. Lilac shimmer makeup. Wearing HONEY BIRDETTE custom LILAC silk set, soft cup bralette, matching French brief. Lilac waist cincher. PLEASER ADORE-1020 lilac patent 7-inch boots. Flower garden. Sensual pose with arched back, bedroom eyes. Expression: flower doll. Soft pastel light. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Peach Perfect
+
+```text
+Professional peachy photography of glamorous woman with platinum blonde bob, straight bangs. Peachy porcelain glow. Peach blush makeup. Wearing AGENT PROVOCATEUR custom PEACH silk set, delicate bralette, matching thong. Peach waist chain. PLEASER FLAMINGO-808 peach patent 8-inch heel. Brunch setting. Sensual pose with arched back, bedroom eyes. Expression: peachy doll. Warm morning light. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Silver Moon
+
+```text
+Professional lunar photography of glamorous woman with platinum blonde bob, straight bangs. Silver-highlighted porcelain skin. Chrome makeup. Wearing HONEY BIRDETTE custom LIQUID SILVER metallic bodysuit, mirror finish. Silver corset belt. PLEASER FLAMINGO-808 silver chrome 8-inch heel. Moonlit balcony. Sensual pose with arched back, bedroom eyes. Expression: moon goddess doll. Blue moonlight. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Gold Digger
+
+```text
+Professional luxury photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin with gold shimmer. Gold makeup. Wearing AGENT PROVOCATEUR custom 24K GOLD metallic set, structured bra with gold chains, matching brief. Gold corset. PLEASER FLAMINGO-808 gold chrome 8-inch heel. Penthouse with gold accents. Sensual pose with arched back, bedroom eyes. Expression: rich doll. Golden lighting. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Neon Pink Ultra
+
+```text
+Professional rave photography of glamorous woman with platinum blonde bob, straight bangs. UV-reactive porcelain skin. Neon pink makeup. Wearing HONEY BIRDETTE custom NEON PINK vinyl set, glowing under blacklight. Hot pink corset. PLEASER FLAMINGO-808 neon pink 8-inch heel. Rave party. Sensual pose with arched back, bedroom eyes. Expression: rave doll. UV blacklight. Photorealistic 8k.
+```
+
+#### Miss Doll - AP Black Widow
+
+```text
+Professional gothic photography of glamorous woman with platinum blonde bob, straight bangs. Pale porcelain skin. Black dramatic makeup. Wearing AGENT PROVOCATEUR custom JET BLACK lace set, quarter cup bra, suspender belt. Black overbust corset. PLEASER FLAMINGO-808 black glitter 8-inch heel. Gothic mansion. Sensual pose with arched back, bedroom eyes. Expression: dark doll. Candlelight. Photorealistic 8k.
+```
+
+#### Miss Doll - HB Rainbow Fantasy
+
+```text
+Professional fantasy photography of glamorous woman with platinum blonde bob with rainbow streaks, straight bangs. Glowing porcelain skin with rainbow shimmer. Rainbow makeup. Wearing HONEY BIRDETTE custom RAINBOW gradient set, colors shifting from pink to purple to blue. Clear platform heels 8-inch with rainbow LED. Pride party. Sensual pose with arched back, bedroom eyes. Expression: rainbow doll. Colorful lighting. Photorealistic 8k.
+```
+
+---
+
+### 👑 Anaïs - Extended Palette (15 prompts)
+
+#### Anaïs - HB Sapphire Royalty
+
+```text
+Professional royal photography of elegant aristocratic woman with honey blonde hair in regal updo. Sultry confident smile, sapphire blue lips. Wearing HONEY BIRDETTE custom SAPPHIRE BLUE silk set, structured balconette, high-waisted brief with gold trim. Sapphire corset. PLEASER CLASSIQUE-20 sapphire blue 5-inch heel. Royal palace. Sensual pose with arched back, bedroom eyes. Expression: queen energy. Blue and gold lighting. Photorealistic 8k.
+```
+
+#### Anaïs - AP Emerald Empress
+
+```text
+Professional imperial photography of elegant aristocratic woman with honey blonde hair in vintage waves. Red lips, commanding expression. Wearing AGENT PROVOCATEUR custom EMERALD GREEN silk set with gold embroidery. Emerald corset belt. PLEASER AMUSE-20 emerald patent 5-inch heel. Mansion ballroom. Sensual pose with arched back, bedroom eyes. Expression: empire ruler. Green and gold chandelier light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Coral Riviera
+
+```text
+Professional resort photography of elegant aristocratic woman with honey blonde beach waves. Coral lips, sultry smile. Wearing HONEY BIRDETTE custom CORAL satin set, soft cup bra, matching French brief. Coral waist cincher. PLEASER CLASSIQUE-20 coral patent 5-inch heel. Mediterranean terrace. Sensual pose with arched back, bedroom eyes. Expression: Riviera goddess. Sunset orange light. Photorealistic 8k.
+```
+
+#### Anaïs - AP Teal Sophistication
+
+```text
+Professional sophisticated photography of elegant aristocratic woman with honey blonde elegant chignon. Teal-tinted lips, knowing smile. Wearing AGENT PROVOCATEUR custom DARK TEAL silk set, structured demi bra, matching suspender brief. Teal corset. PLEASER AMUSE-20 teal patent 5-inch heel. Art gallery. Sensual pose with arched back, bedroom eyes. Expression: cultural sophisticate. Teal accent lighting. Photorealistic 8k.
+```
+
+#### Anaïs - HB Silver Fox
+
+```text
+Professional platinum photography of elegant aristocratic woman with honey blonde hair with silver highlights. Silver-nude lips. Wearing HONEY BIRDETTE custom STERLING SILVER metallic set, structured bra, high-waisted brief. Silver corset belt. PLEASER CLASSIQUE-20 silver chrome 5-inch heel. Modern penthouse. Sensual pose with arched back, bedroom eyes. Expression: silver goddess. Chrome reflections. Photorealistic 8k.
+```
+
+#### Anaïs - AP Copper Autumn
+
+```text
+Professional harvest photography of elegant aristocratic woman with honey blonde hair with copper highlights in soft waves. Terracotta lips. Wearing AGENT PROVOCATEUR custom COPPER satin set, balconette bra, matching brief. Copper underbust corset. PLEASER AMUSE-20 copper bronze 5-inch heel. Autumn vineyard. Sensual pose with arched back, bedroom eyes. Expression: harvest queen. Golden hour. Photorealistic 8k.
+```
+
+#### Anaïs - HB Blush Rose
+
+```text
+Professional romantic photography of elegant aristocratic woman with honey blonde romantic waves. Rose petal lips. Wearing HONEY BIRDETTE custom BLUSH ROSE silk set, soft cup bralette, matching French knickers. Rose waist cincher. PLEASER CLASSIQUE-20 blush patent 5-inch heel. Rose garden. Sensual pose with arched back, bedroom eyes. Expression: romantic goddess. Soft pink light. Photorealistic 8k.
+```
+
+#### Anaïs - AP Midnight Purple
+
+```text
+Professional mysterious photography of elegant aristocratic woman with honey blonde hair in elegant updo. Deep purple lips. Wearing AGENT PROVOCATEUR custom MIDNIGHT PURPLE velvet set, structured balconette, high-waisted brief. Purple corset. PLEASER AMUSE-20 purple velvet 5-inch heel. Masked ball. Sensual pose with arched back, bedroom eyes. Expression: mysterious duchess. Purple ambient light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Olive Elegance
+
+```text
+Professional military-chic photography of elegant aristocratic woman with honey blonde hair in structured chignon. Nude-olive lips. Wearing HONEY BIRDETTE custom OLIVE GREEN silk set with gold military details. Olive corset belt. PLEASER CLASSIQUE-20 olive suede 5-inch heel. Officer's quarters. Sensual pose with arched back, bedroom eyes. Expression: commanding officer. Warm candlelight. Photorealistic 8k.
+```
+
+#### Anaïs - AP Dusty Rose
+
+```text
+Professional vintage photography of elegant aristocratic woman with honey blonde finger waves. Dusty rose lips. Wearing AGENT PROVOCATEUR custom DUSTY ROSE silk set, vintage-inspired longline bra, matching knickers. Rose gold corset. PLEASER CLASSIQUE-20 dusty rose 5-inch heel. 1920s boudoir. Sensual pose with arched back, bedroom eyes. Expression: vintage beauty. Sepia-toned light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Forest Green
+
+```text
+Professional nature photography of elegant aristocratic woman with honey blonde loose waves. Forest green lips. Wearing HONEY BIRDETTE custom FOREST GREEN velvet set, Victorian-inspired balconette, matching brief. Green corset with gold lacing. PLEASER AMUSE-20 forest green 5-inch heel. English garden. Sensual pose with arched back, bedroom eyes. Expression: nature goddess. Dappled sunlight. Photorealistic 8k.
+```
+
+#### Anaïs - AP Terracotta Sunset
+
+```text
+Professional desert photography of elegant aristocratic woman with honey blonde waves with terracotta highlights. Terracotta-burnt orange lips. Wearing AGENT PROVOCATEUR custom TERRACOTTA silk set, structured bra, matching suspender brief. Terracotta corset. PLEASER CLASSIQUE-20 terracotta 5-inch heel. Desert sunset. Sensual pose with arched back, bedroom eyes. Expression: desert goddess. Golden orange light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Pewter Grey
+
+```text
+Professional industrial photography of elegant aristocratic woman with honey blonde hair in sleek low bun. Pewter grey lips. Wearing HONEY BIRDETTE custom PEWTER GREY satin set, structured bra, high-waisted brief. Grey corset with silver hardware. PLEASER CLASSIQUE-20 pewter grey 5-inch heel. Industrial loft. Sensual pose with arched back, bedroom eyes. Expression: urban sophisticate. Cool grey lighting. Photorealistic 8k.
+```
+
+#### Anaïs - AP Mustard Gold
+
+```text
+Professional autumn luxury photography of elegant aristocratic woman with honey blonde hair with golden highlights. Mustard-gold lips. Wearing AGENT PROVOCATEUR custom MUSTARD GOLD silk set, soft structured bra, matching knickers. Gold-mustard corset belt. PLEASER AMUSE-20 mustard patent 5-inch heel. Autumn mansion. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Rich amber light. Photorealistic 8k.
+```
+
+#### Anaïs - HB Plum Wine
+
+```text
+Professional wine tasting photography of elegant aristocratic woman with honey blonde elegant waves. Plum wine lips. Wearing HONEY BIRDETTE custom PLUM WINE velvet set, structured balconette, matching brief. Wine-colored corset. PLEASER CLASSIQUE-20 plum velvet 5-inch heel. Wine cellar. Sensual pose with arched back, bedroom eyes. Expression: wine connoisseur. Warm candlelight. Photorealistic 8k.
 ```
 
 ---
@@ -477,8 +760,9 @@ Professional beach duo photography. HELENA: wet black hair, pale skin in shade, 
 
 ---
 
-*Creado por: Helena de Anaïs - V7.1 Luxury Lingerie Edition 🖤💖👑*
+*Creado por: Helena de Anaïs - V7.2 Luxury Lingerie Edition 🖤💖👑*
 *Marcas: Honey Birdette, Agent Provocateur*
 *Bikinis: Beach Bunny, Triangl*
 *PLEASER Heels throughout*
-*Total: 55+ prompts | Actualizado: 2025-12-29*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Total: 100+ prompts | Actualizado: 2025-12-31*

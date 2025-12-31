@@ -421,46 +421,281 @@ Medium shot of Anaïs in corner office. Honey blonde in power chignon. Red power
 
 ---
 
-## 👯 IV. DUO & TRIO PROMPTS (8 PROMPTS)
+## ⛓️ V. CHAINMAIL COLLECTION (30 PROMPTS)
 
-#### 53. Helena + Miss Doll: Night & Day
+> [!TIP]
+> **Chainmail:** Metal mesh fabric que brilla como armadura líquida. Ultra sensual, siempre en movimiento.
+
+### 🦇 Helena - Chainmail Dark Warrior (10 prompts)
+
+#### 59. Black Chainmail Mini Dress
+
+```
+Full body shot of Helena in gothic nightclub VIP. Wearing Fashion Nova "Metal Queen Chainmail Mini Dress" in BLACK GUNMETAL chainmail, ultra short hemline, plunging V-neck, mesh moving with every breath. Black overbust corset underneath visible through gaps. Black stilettos 9-inch with chain ankle straps. Voluminous jet black hair, pale skin, glossy black lips. Sensual pose with arched back, bedroom eyes. Expression: dark metal goddess. Purple laser lights reflecting off chainmail. Photorealistic 8k, cinematic.
+```
+
+#### 60. Silver Chainmail Halter Top
+
+```
+Medium shot of Helena at rooftop bar. Wearing Oh Polly "Liquid Silver Chainmail Halter" in STERLING SILVER, backless, deep plunge, chains draping across collarbones. Black leather pants ultra-tight. Black corset belt with silver hardware. Black stilettos 8-inch. Voluminous black hair wind-blown, pale skin glowing, dark cherry lips. Urban night skyline behind. Sensual pose with arched back, bedroom eyes. Expression: predatory elegance. Photorealistic 8k.
+```
+
+#### 61. Gold Chainmail Cowl Neck
+
+```
+Three-quarter shot of Helena at exclusive gallery opening. Wearing Fashion Nova "Midas Touch Chainmail Cowl Top" in ANTIQUE GOLD, draped cowl neckline, bare back. Black velvet maxi skirt with thigh-high slit. Black underbust corset visible. Black stilettos 8-inch with gold heel. Black hair in elegant waves, pale skin, burgundy glossy lips. Art installation behind her. Sensual pose with arched back, bedroom eyes. Expression: dark art collector. Photorealistic 8k.
+```
+
+#### 62. Emerald Chainmail Body Chain
+
+```
+Full body shot of Helena at masquerade ball. Wearing custom EMERALD GREEN chainmail body harness over sheer black bodysuit. Chains draping from shoulders across chest in web pattern. Black overbust corset integrated. Black stilettos 9-inch. Voluminous black hair with emerald clips, pale skin, dark green glossy lips. Venetian mask in hand. Sensual pose with arched back, bedroom eyes. Expression: mysterious serpent. Photorealistic 8k.
+```
+
+#### 63. Rose Gold Chainmail Bralette
+
+```
+Close-up/upper body shot of Helena lounging on black velvet. Wearing Oh Polly "Blush Metal Chainmail Bralette" in ROSE GOLD, triangle cups of delicate chainmail, thin chain straps. Black high-waisted shorts. Black corset belt. Black stilettos visible. Pale skin contrasting with warm metal, black hair spread on velvet, dark rose glossy lips. Sensual pose with arched back, bedroom eyes. Expression: gothic romance. Photorealistic 8k.
+```
+
+#### 64. Black Chainmail Maxi Skirt
+
+```
+Full body shot of Helena at beach bonfire. Wearing Fashion Nova "Dark Tide Chainmail Maxi Skirt" in MATTE BLACK chainmail, floor-length with extreme slit to hip. Black bikini top. Black waist cincher. Black stilettos 8-inch in sand. Wet black hair, pale skin glowing in firelight, black glossy lips. Ocean waves behind. Sensual pose with arched back, bedroom eyes. Expression: night siren. Photorealistic 8k.
+```
+
+#### 65. Silver Chainmail Bodysuit
+
+```
+Full body shot of Helena in futuristic club. Wearing Oh Polly "Mercury Rising Chainmail Bodysuit" in LIQUID SILVER, long sleeves, high neck, thong bottom visible, full coverage but revealing. Black corset over bodysuit. Black thigh-high boots 9-inch heel. Black hair slicked back, pale skin like moonlight, metallic silver lips. LED lights behind. Sensual pose with arched back, bedroom eyes. Expression: android goddess. Photorealistic 8k.
+```
+
+#### 66. Blood Red Chainmail Crop Top
+
+```
+Medium shot of Helena at rock concert VIP. Wearing Fashion Nova "Crimson Chain Crop" in BLOOD RED chainmail, cropped length showing midriff, cap sleeves of draped chains. Black leather mini skirt. Black corset visible under top. Black stilettos 8-inch. Wild black hair, pale skin, matching blood red glossy lips. Stage lights behind. Sensual pose with arched back, bedroom eyes. Expression: metal queen. Photorealistic 8k.
+```
+
+#### 67. Purple Chainmail Asymmetric Dress
+
+```
+Full body shot of Helena at fashion week afterparty. Wearing Oh Polly "Amethyst Drape Chainmail Dress" in DEEP PURPLE, asymmetric one-shoulder design, thigh-length, chains cascading. Black underbust corset. Black stilettos 9-inch with purple crystals. Voluminous black hair, pale skin, purple glossy lips. Fashion crowd blurred behind. Sensual pose with arched back, bedroom eyes. Expression: runway predator. Photorealistic 8k.
+```
+
+#### 68. Dual Tone Chainmail Harness
+
+```
+Full body shot of Helena in BDSM club. Wearing custom BLACK AND GOLD chainmail harness, X-pattern across torso, chains connecting at O-ring center. Black latex thong. Black overbust corset underneath. Black platform stilettos 9-inch with gold chains. Black hair wild, pale skin, black and gold ombré lips. Red velvet dungeon. Sensual pose with arched back, bedroom eyes. Expression: chain mistress. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Chainmail Candy Collection (10 prompts)
+
+#### 69. Pink Chainmail Mini Dress
+
+```
+Full body shot of Miss Doll at Miami pool party. Platinum blonde bob, straight bangs. Flawless porcelain skin, HEAVY GLAMOUR MAKEUP. Wearing Fashion Nova "Barbie Chain Dress" in HOT PINK chainmail, ultra mini length, halter neck. Pink satin corset underneath. Pink platform heels 8-inch. Holding pink cocktail. Sensual pose with arched back, bedroom eyes. Expression: party doll perfection. Palm trees, pink sunset. Photorealistic 8k.
+```
+
+#### 70. Iridescent Chainmail Halter
+
+```
+Medium shot of Miss Doll at futuristic club. Platinum bob, straight bangs. Porcelain skin with holographic highlight. Wearing Oh Polly "Unicorn Chainmail Halter" in IRIDESCENT rainbow-shift chainmail, color changes with movement. Clear platform heels 8-inch. Pink corset visible. Sensual pose with arched back, bedroom eyes. Expression: confused by her own reflection. Laser show lighting. Photorealistic 8k.
+```
+
+#### 71. Baby Blue Chainmail Bralette
+
+```
+Upper body shot of Miss Doll at beach club. Platinum bob, straight bangs. Porcelain skin with SPF glow. Wearing Fashion Nova "Ocean Mist Chainmail Bra" in BABY BLUE chainmail, triangle cups, thin chain straps connecting to collar. White high-waisted bikini bottom. Blue waist chain. Clear platform sandals 7-inch. Sensual pose with arched back, bedroom eyes. Expression: dreamy beach doll. Turquoise water behind. Photorealistic 8k.
+```
+
+#### 72. Rose Gold Chainmail Body Chain
+
+```
+Full body shot of Miss Doll at influencer event. Platinum bob, straight bangs. Flawless skin with rose gold shimmer. Wearing Oh Polly "Rose Petal Chain" ROSE GOLD chainmail body harness over pink bodysuit. Chains draping in V-pattern from shoulders to waist. Pink corset belt. Pink platform heels 8-inch. Sensual pose with arched back, bedroom eyes. Expression: brand ambassador confusion. Pink step-and-repeat behind. Photorealistic 8k.
+```
+
+#### 73. White Gold Chainmail Cowl Top
+
+```
+Three-quarter shot of Miss Doll at yacht party. Platinum bob, straight bangs. Gleaming porcelain skin. Wearing Fashion Nova "Champagne Dreams Chainmail Cowl" in WHITE GOLD, elegant drape, backless. White satin pants. Pink corset visible at waist. White platform heels 7-inch. Champagne in hand. Sensual pose with arched back, bedroom eyes. Expression: luxury doll. Ocean sunset. Photorealistic 8k.
+```
+
+#### 74. Neon Green Chainmail Crop
+
+```
+Full body shot of Miss Doll at rave. Platinum bob with glow sticks, straight bangs. Porcelain skin with UV paint accents. Wearing Oh Polly "Toxic Glow Chainmail Crop" in NEON GREEN chainmail, cropped, rave aesthetic. Black vinyl shorts. Pink corset underneath. Clear platform boots 8-inch with LED soles. Sensual pose with arched back, bedroom eyes. Expression: lost in the music. UV lighting. Photorealistic 8k.
+```
+
+#### 75. Silver Chainmail Skirt
+
+```
+Full body shot of Miss Doll at disco party. Platinum bob, straight bangs, glitter spray. Porcelain skin reflecting disco ball. Wearing Fashion Nova "Studio 54 Chain Skirt" in LIQUID SILVER chainmail, mini length, low rise. Pink sequin bralette. Pink corset belt. Silver platform heels 8-inch. Dancing pose. Sensual pose with arched back, bedroom eyes. Expression: disco doll. Mirror ball reflections. Photorealistic 8k.
+```
+
+#### 76. Lavender Chainmail Bodysuit
+
+```
+Full body shot of Miss Doll in pastel studio. Platinum bob, straight bangs. Soft porcelain skin. Wearing Oh Polly "Lavender Dreams Chain Body" in PASTEL LAVENDER chainmail, long sleeves, thong bottom. Lilac corset over bodysuit. Lavender platform heels 8-inch. Soft pose among clouds props. Sensual pose with arched back, bedroom eyes. Expression: ethereal doll. Soft purple lighting. Photorealistic 8k.
+```
+
+#### 77. Coral Chainmail Halter Dress
+
+```
+Full body shot of Miss Doll at sunset rooftop. Platinum bob, straight bangs. Porcelain skin with coral glow. Wearing Fashion Nova "Sunset Chain Dress" in CORAL ORANGE chainmail, halter neck, mini length. Pink underbust corset. Coral platform heels 7-inch. Tropical cocktail. Sensual pose with arched back, bedroom eyes. Expression: golden hour doll. City sunset behind. Photorealistic 8k.
+```
+
+#### 78. Multi-Color Chainmail Festival Top
+
+```
+Full body shot of Miss Doll at Coachella. Platinum bob with flower crown, straight bangs. Glowing skin with festival glitter. Wearing Oh Polly "Festival Queen Chain Top" in RAINBOW GRADIENT chainmail, cropped, festival vibes. Denim shorts. Pink corset visible. Clear platform boots 8-inch. Peace sign pose. Sensual pose with arched back, bedroom eyes. Expression: festival doll. Desert sunset. Photorealistic 8k.
+```
+
+---
+
+### 👑 Anaïs - Chainmail Luxury Collection (10 prompts)
+
+#### 79. Gold Chainmail Gown
+
+```
+Full body shot of Anaïs at charity gala. Honey blonde vintage waves. Sultry confident smile, red lips. Wearing Fashion Nova "Goddess Drape Chain Gown" in 24K GOLD chainmail, floor-length, plunging neckline, backless. Nude corset underneath. Gold So Kate stilettos 5-inch. Diamond jewelry. Sensual pose with arched back, bedroom eyes. Expression: old money elegance. Crystal chandelier. Photorealistic 8k.
+```
+
+#### 80. Champagne Chainmail Midi Dress
+
+```
+Three-quarter shot of Anaïs at wine tasting. Honey blonde elegant waves. Red glossy lips. Wearing Oh Polly "Dom Pérignon Chain Midi" in CHAMPAGNE GOLD chainmail, knee-length, cowl neck, subtle elegance. Nude waist cincher. Nude So Kate 5-inch. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: sophisticated taste. Vineyard terrace. Photorealistic 8k.
+```
+
+#### 81. Bronze Chainmail Halter
+
+```
+Medium shot of Anaïs at Mediterranean resort. Honey blonde waves, sun-kissed. Bronze skin glowing. Wearing Fashion Nova "Aphrodite Chain Halter" in BRONZE chainmail, deep plunge, bare back. White linen pants. Tan corset visible. Nude sandal heels 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Riviera goddess. Blue sea behind. Photorealistic 8k.
+```
+
+#### 82. Black & Gold Chainmail Top
+
+```
+Upper body shot of Anaïs at opera intermission. Honey blonde elegant updo. Red lips, commanding expression. Wearing Oh Polly "Nocturne Chain Top" in BLACK chainmail with GOLD thread woven through, elegant cut. Black velvet skirt. Gold underbust corset. Black So Kate 5-inch. Opera glasses. Sensual pose with arched back, bedroom eyes. Expression: cultural elite. Opera house lobby. Photorealistic 8k.
+```
+
+#### 83. Rose Gold Chainmail Slip Dress
+
+```
+Full body shot of Anaïs at rooftop dinner. Honey blonde waves, romantic styling. Rose lips. Wearing Fashion Nova "Rosé All Night Chain Slip" in ROSE GOLD chainmail, slip dress silhouette, thin straps, midi length. Nude corset belt. Rose gold heels 5-inch. Candles around. Sensual pose with arched back, bedroom eyes. Expression: dinner date perfection. City lights behind. Photorealistic 8k.
+```
+
+#### 84. Silver Chainmail Blazer
+
+```
+Full body shot of Anaïs power meeting. Honey blonde chignon. Red power lips. Wearing Oh Polly "Boardroom Chain Blazer" in STERLING SILVER chainmail, structured blazer over nude bodysuit. Silver corset visible underneath. Nude So Kate 5-inch. Briefcase prop. Sensual pose with arched back, bedroom eyes. Expression: closing the deal. Corner office. Photorealistic 8k.
+```
+
+#### 85. Burgundy Chainmail Bodysuit
+
+```
+Full body shot of Anaïs at jazz club. Honey blonde finger waves. Deep burgundy lips. Wearing Fashion Nova "Cabaret Chain Body" in BURGUNDY chainmail, long sleeves, plunge front, bodysuit cut. Burgundy corset over. Burgundy So Kate 5-inch. Cigarette holder prop. Sensual pose with arched back, bedroom eyes. Expression: femme fatale. Smoky jazz atmosphere. Photorealistic 8k.
+```
+
+#### 86. Cream Chainmail Bridal Top
+
+```
+Full body shot of Anaïs bridal boudoir. Honey blonde romantic waves. Nude-rose lips. Wearing Oh Polly "Wedding Night Chain" in CREAM/IVORY chainmail, bralette style with matching skirt. Ivory corset. Ivory satin heels 5-inch. Pearl jewelry. Sensual pose with arched back, bedroom eyes. Expression: bridal seduction. White bedroom. Photorealistic 8k.
+```
+
+#### 87. Copper Chainmail Wrap Top
+
+```
+Medium shot of Anaïs at autumn event. Honey blonde with warm highlights. Terracotta lips. Wearing Fashion Nova "Harvest Moon Chain Wrap" in COPPER chainmail, wrap style, ties at waist. Brown leather pants. Tan corset visible. Brown suede heels 5-inch. Autumn leaves background. Sensual pose with arched back, bedroom eyes. Expression: fall goddess. Golden hour. Photorealistic 8k.
+```
+
+#### 88. Pewter Chainmail Maxi Skirt
+
+```
+Full body shot of Anaïs at art deco gala. Honey blonde vintage Marcel waves. Classic red lips. Wearing Oh Polly "Gatsby Chain Maxi" in PEWTER/ANTIQUE SILVER chainmail, floor-length, high slit. Black bandeau top. Black corset. Black So Kate 5-inch. Art deco interior. Sensual pose with arched back, bedroom eyes. Expression: 1920s revival. Photorealistic 8k.
+```
+
+---
+
+## 👯 VI. DUO & TRIO PROMPTS (12 PROMPTS)
+
+#### 89. Helena + Miss Doll: Night & Day
 
 ```
 Professional duo shot. HELENA: Sacha Massacre reference, voluminous black hair, pale skin, black lips, wearing Fashion Nova "Wicked Games Latex Mini" BLACK, black corset, black stilettos 8-inch. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing Fashion Nova "Wicked Games Latex Mini" HOT PINK, pink corset, pink platforms 8-inch. Back to back pose. Split lighting pink/purple. Nightclub VIP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
-#### 54. Helena + Anaïs: Dark & Light
+#### 90. Helena + Anaïs: Dark & Light
 
 ```
 Editorial duo shot. HELENA: voluminous black hair, pale skin, burgundy lips, wearing Oh Polly "Noir Romance Gown" BLACK lace, black corset, black stilettos 8-inch. ANAÏS: honey blonde waves, bronze skin, red lips, wearing Oh Polly "Golden Romance Gown" CHAMPAGNE satin, gold corset belt, nude So Kate 5-inch. Facing each other. Museum gala. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
-#### 55. Miss Doll + Anaïs: Pink & Gold
+#### 91. Miss Doll + Anaïs: Pink & Gold
 
 ```
 Glamour duo shot. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing Fashion Nova "Princess Party Dress" PINK sequin, pink corset, pink platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, nude lips, wearing Fashion Nova "Golden Queen Dress" GOLD sequin, nude corset, gold heels 5-inch. Red carpet pose. Award show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
-#### 56. Trio: Beach Goddesses
+#### 92. Trio: Beach Goddesses
 
 ```
 Beach editorial trio. HELENA: wet black hair, pale skin, black bikini, black corset coverup, black stilettos 8-inch in sand. MISS DOLL: platinum bob, porcelain skin, hot pink bikini, pink sarong, clear platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, red one-piece, gold body chain, nude heels 5-inch. Sunset beach. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
-#### 57. Trio: Power Meeting
+#### 93. Trio: Power Meeting
 
 ```
 Corporate trio. ANAÏS (center, seated): honey blonde chignon, beige blazer dress, nude heels, CEO chair. HELENA (left, standing): black hair bun, black latex pencil skirt suit, black corset, black stilettos 8-inch, enforcer stance. MISS DOLL (right, standing): platinum bob, pink latex secretary dress, pink corset, pink platforms 8-inch, holding files confused. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
-#### 58. Trio: Girls Night Out
+#### 94. Trio: Girls Night Out
 
 ```
 Nightlife trio. MISS DOLL: platinum bob with glitter, neon green mini, pink platforms, drink in hand, dancing. HELENA: wild black hair, blood red latex, black corset, black stilettos, predator stare at crowd. ANAÏS: honey blonde waves, champagne silk, gold heels, sitting in VIP watching both. Club setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
+#### 95. Helena + Miss Doll: Chainmail Sisters
+
+```
+Professional duo shot. HELENA: voluminous black hair, pale skin, black lips, wearing BLACK GUNMETAL chainmail halter top with BLACK LEATHER pants, black corset, black stilettos 9-inch. MISS DOLL: platinum bob, porcelain skin, glossy red lips, wearing HOT PINK chainmail mini dress, pink corset underneath, pink platforms 8-inch. Mirror reflection pose. Chains catching light. Nightclub VIP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 96. Helena + Anaïs: Metal Goddess Contrast
+
+```
+Editorial duo shot. HELENA: black hair in sleek ponytail, pale skin, silver metallic lips, wearing STERLING SILVER chainmail bodysuit, black corset visible, black stilettos 8-inch. ANAÏS: honey blonde vintage waves, bronze skin, red lips, wearing 24K GOLD chainmail slip dress, nude corset belt, gold So Kate 5-inch. Art gallery, contrasting metallics. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 97. Miss Doll + Anaïs: Rose Gold Dreams
+
+```
+Glamour duo shot. MISS DOLL: platinum bob, porcelain skin with rose shimmer, pink lips, wearing ROSE GOLD chainmail bralette with white satin pants, pink corset, rose gold platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, rose lips, wearing ROSE GOLD chainmail midi dress, nude corset, rose gold heels 5-inch. Champagne brunch setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 98. Trio: Chainmail Goddesses
+
+```
+Editorial trio shot. ANAÏS (center): honey blonde updo, wearing GOLD chainmail gown, gold corset, gold heels. HELENA (left): black hair wild, wearing BLACK chainmail harness over black bodysuit, black corset, black boots 9-inch. MISS DOLL (right): platinum bob, wearing PINK iridescent chainmail mini, pink corset, clear platforms 8-inch. Luxury penthouse. All three in metal mesh glory. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 99. Helena + Miss Doll: Emerald & Rose
+
+```
+Professional duo shot. HELENA: voluminous black hair, pale skin, dark green lips, wearing EMERALD GREEN chainmail cowl top with black skirt, black corset, black stilettos 8-inch with emerald accents. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing ROSE PINK chainmail halter dress, pink corset, pink platforms 8-inch. Garden party at night. Sensual pose with arched back, bedroom eyes. Photorealistic 8k.
+```
+
+#### 100. Trio: New Year's Chainmail
+
+```
+Celebration trio shot. ANAÏS (center): honey blonde with gold glitter, wearing CHAMPAGNE GOLD chainmail gown, gold corset, gold heels, champagne bottle. HELENA (left): black hair with silver streaks, wearing SILVER chainmail bodysuit, black corset, silver stilettos 9-inch. MISS DOLL (right): platinum bob with pink glitter, wearing IRIDESCENT RAINBOW chainmail mini, pink corset, clear platforms 8-inch with confetti. NYE rooftop party with fireworks. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
 ---
 
 *Creado por: Helena de Anaïs 🦇*
-*V6.1 Fashion Nova & Oh Polly Edition — 58 prompts*
-*Actualizado: 2025-12-29*
+*V6.2 Fashion Nova & Oh Polly Edition — 100 prompts*
+*Incluye: Chainmail Collection (30 prompts), Duo/Trio con Chainmail*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2025-12-31*
