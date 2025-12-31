@@ -193,7 +193,7 @@ El tablero digital se reinicia con efectos de sonido de videojuego retro.
 
 Se detiene y acaricia un dispositivo plateado en su atril.
 
-—Y por supuesto, si se equivocan... estrenaremos el **Giggle Lock**, gentileza de nuestros patrocinadores de **Pink Lobotomy & Spa**. *Porque pensar te da arrugas, pero reír te mantiene joven.*
+—Y por supuesto, si se equivocan **en esta primera pregunta**... estrenaremos el **Giggle Lock**, gentileza de nuestros patrocinadores de **Pink Lobotomy & Spa**. *Porque pensar te da arrugas, pero reír te mantiene joven.*
 
 Un pequeño implante simpático que bloquea la frustración masculina y la convierte en risitas de niña. Porque sinceramente, ver a un hombre enojado es *tan* aburrido. Preferimos verlos felices, ¿verdad?
 
