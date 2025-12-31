@@ -265,8 +265,8 @@ Julián se tapa la boca con ambas manos, horrorizado. Sus ojos destilan furia in
 Julián frunce el ceño, el sudor perlando su frente. *Siglas. Debe ser un término financiero.* Analiza las palabras a través de la niebla de su risa forzada. 'Fee Estimation' suena lógico, corporativo, limpio. *Es un contrato... ¡ji ji!... tiene que ser... ¡ji ji ji!*
 Presiona **A** con mano temblorosa.
 
-Marco siente un calor en la ingle que compite con la sensibilidad de su piel. Lee "Girlfriend Experience" y algo en su pecho se aprieta. No es sexo. Es... *besos*. *Caricias*. *Mentiras bonitas*. *Miradas de adoración*. Se siente tan... deseable. Él quiere dar eso. Quiere ser esa novia perfecta.
-Presiona **B**.
+Marco siente un calor en la ingle que compite con la sensibilidad de su piel. Lee "Girlfriend Experience" y la palabra *Girlfriend* resuena como un eco suave. No es sobre sexo. Es sobre *tacto*. Su piel de porcelana rechaza lo brusco, lo transaccional. Su cuerpo, ahora hiperestésico, imagina la suavidad de un beso simulado frente a la frialdad de un contrato financiero. Su dedo busca la opción que promete menos abrasión emocional.
+Presiona **B** porque se siente *suave*.
 
 —¡Tiempo! —grita Miss Doll.
 
@@ -331,8 +331,8 @@ Se gira hacia el tablero.
 Julián intenta leer, pero las lágrimas de risa le nublan la vista. *Sub... ji ji... muscular...* Su lógica, lo poco que queda de ella, le dice que "debajo" es más anatómico, mejor integrado. *Lo natural es mejor... ¡ji ji ji!*
 Presiona **A** mientras se ríe histéricamente y golpea el podio con frustración. *¡Ji ji ji! ¡Soy un idiota! ¡Ji ji!*
 
-Marco mira la opción B. *Encima.* La palabra brilla para él. *Que se vean. Que todos sepan que son falsas.* La idea lo excita de una manera vergonzosa. No quiere pechos naturales. Quiere que se noten. Quiere que sean enormes, duros y obvios. Que griten "plástico".
-
+Marco mira la opción B. *Encima.* La palabra brilla para él. Su piel expuesta se siente demasiado... lisa. Demasiado perfecta. La idea de "debajo del músculo" le suena a ocultar, a modestia, y su nueva biología artificial no entiende de modestia.
+*Plástico sobre carne,* piensa su sistema nervioso recableado. *Si ya no soy real, ¿por qué fingir? Lo artificial debe ir encima.* Es una lógica puramente táctil, una necesidad de honestidad sintética.
 Presiona **B**.
 
 —¡TIEMPO FINAL!
@@ -349,38 +349,36 @@ El marcador gigante desciende del techo con efectos pirotécnicos digitales y co
 **MARCO "THE DOLL":** 3 PUNTOS (PERFECTO - Victoria Aplastante)
 **PRÍNCIPE JULIÁN:** 0 PUNTOS (HUMILLACIÓN TOTAL)
 
-—Sintonicen el viernes, mis queridos —dice Miss Doll, caminando hacia el centro del escenario mientras las cámaras giran a su alrededor—. Veremos cómo nuestra nueva adquisición (Marco) lidia con su piel sensible... y cómo nuestro Príncipe Payaso (Julián) lidia con su... *ajuste de actitud*.
+—No se vayan, mis pequeños voyeurs —dice Miss Doll, caminando hacia el centro del escenario mientras las cámaras giran a su alrededor—. Esto es solo un breve corte comercial. El programa continúa **inmediatamente**.
 
 Lanza un beso a la cámara, guiñando un ojo cargado de pestañas postizas.
 
-—La belleza duele, pero la perfección... la perfección es eterna. Y el rating... el rating es inmortal.
+—Pero antes del corte, necesito que trabajen para mí. Julián ha perdido. Y debe pagar. El enlace de votación está parpadeando en sus pantallas AHORA.
 
-**¡CORTE!**
+Señala un código QR gigante que aparece en el set.
 
-La música del programa sube de volumen ("Plastic Love" versión trap, bass boosted). Los créditos comienzan a rodar rápidamente sobre la imagen congelada de **Julián**, quien intenta gritar de furia a la cámara, pero solo logra soltar risitas adorables y estúpidas mientras se abraza a sí mismo, horrorizado de su propia euforia.
+—¿Quieren ver al Príncipe sin aire? ¿O quieren verlo sin palabras? Tienen exactamente 3 minutos de pausa comercial para decirme cómo vamos a romperlo.
 
-*¡Ji ji!... ¡No es gracioso!... ¡Ji ji ji!... ¡Ayuda!...*
+**¡VOTEN YA!** -> `https://strawpoll.com/dollhouse_julian_punishment`
 
-**[FIN DE LA TRANSMISIÓN]**
+La música del programa sube de volumen ("Plastic Love" versión trap, bass boosted). Miss Doll se congela en una pose perfecta mientras los créditos de "Sponsored by Pink Lobotomy" giran a su alrededor.
+
+**[CORTE COMERCIAL - THE DOLLHOUSE REGRESA EN 3:00 MINUTOS]**
 
 ---
 
-## 🗳️ VOTACIÓN DE LA AUDIENCIA (PARA EL VIERNES)
+## 🗳️ VOTACIÓN EN VIVO (DURANTE LA PAUSA)
 
-Queridos voyeurs, **Marco "The Doll"** ha arrasado en el Bloque 2 con una victoria perfecta (3-0), demostrando que su instinto es superior al intelecto del príncipe.
-
-**Julián**, por su arrogancia y falta de cultura básica, ha quedado en ridículo. Y en *The Dollhouse*, la humillación exige transformación.
-
-¿Qué castigo "correctivo" aplicaremos a Julián en el próximo capítulo para mejorar su actitud?
+**Julián**, por su arrogancia y falta de cultura básica, ha quedado en ridículo. Y en *The Dollhouse*, la humillación exige transformación inmediata.
 
 **OPCIÓN A: CINTURA DE AVISPA (Wasp Waist)**
 
-* **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo ante las cámaras. Implantación de corsé interno de titanio.
-* **Resultado:** Cintura permanente de 45cm. Dificultad para respirar frases largas. Silueta forzada de reloj de arena extremo.
+* **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo. Implantación de corsé interno de titanio.
+* **Resultado:** Cintura permanente de 45cm. Dificultad para respirar. Silueta forzada.
 
 **OPCIÓN B: CORREDOR DE LENGUAJE (Bimbo Voice)**
 
 * **Procedimiento:** Implante neurolingüístico en el área de Broca (Brain Hacking).
-* **Resultado:** Bloqueo de palabras polisilábicas complejas. Vocabulario reducido a "Girlish Slang" (O sea, Like, OMG). Tono de voz elevado una octava permanentemente.
+* **Resultado:** Bloqueo de palabras complejas. Vocabulario reducido a "Girlish Slang" (Like, OMG). Voz aguda.
 
-¡Voten ahora en los comentarios! El destino del Príncipe está en sus manos.
+El show regresa tras el corte. **El resultado será ejecutado en vivo.**
