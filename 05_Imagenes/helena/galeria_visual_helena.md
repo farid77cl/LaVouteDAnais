@@ -4,6 +4,42 @@
 
 ---
 
+## 🖤 SERIE: DARK FANTASY & CORPORATE (Looks 15-18)
+
+### Look 18: CEO of Nothing
+
+*(Jefa ejecutiva de decisiones vacías)*
+
+| Standing | Ditzy | Seated | Side | Back |
+|----------|-------|--------|------|------|
+| ![Standing](helena_look18_ceo_of_nothing_standing_1767194724613.png) | ![Ditzy](helena_look18_ceo_of_nothing_ditzy_1767194804231.png) | ⏳ | ⏳ | ⏳ |
+
+### Look 17: Cyber Goth Doll
+
+*(El futuro es plástico y verde)*
+
+| Standing | Ditzy | Seated | Side | Back |
+|----------|-------|--------|------|------|
+| ![Standing](helena_look17_cybergoth_doll_standing_1767194708277.png) | ![Ditzy](helena_look17_cybergoth_doll_ditzy_1767194785085.png) | ⏳ | ⏳ | ⏳ |
+
+### Look 16: Ghost Bride
+
+*(Spectral Bimbo)*
+
+| Standing | Ditzy | Seated | Side | Back |
+|----------|-------|--------|------|------|
+| ![Standing](helena_look16_ghost_bride_standing_1767194692838.png) | ![Ditzy](helena_look16_ghost_bride_ditzy_1767194769351.png) | ⏳ | ⏳ | ⏳ |
+
+### Look 15: Vampire Bride
+
+*(Hasta que la muerte nos separe... o sea, esta noche)*
+
+| Standing | Ditzy | Seated | Side | Back |
+|----------|-------|--------|------|------|
+| ![Standing](helena_look15_vampire_bride_standing_1767194676975.png) | ![Ditzy](helena_look15_vampire_bride_ditzy_1767194753223.png) | ⏳ | ⏳ | ⏳ |
+
+---
+
 ## 🥂 ESPECIAL AÑO NUEVO
 
 ### Look 14: Midnight Kiss
