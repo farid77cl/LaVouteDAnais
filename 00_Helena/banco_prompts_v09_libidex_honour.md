@@ -363,6 +363,331 @@ Professional complete look photography of young elegant goth glamour woman inspi
 
 ---
 
+## 🎨 V. COLOR FREEDOM EXPANSION (50 PROMPTS)
+
+> [!TIP]
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color en Libidex y Honour.
+
+### 🦇 Helena - Libidex Rainbow (15 prompts)
+
+#### 51. Helena - Libidex Emerald Catsuit
+
+```
+Professional nature photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with emerald clips. Pale porcelain white skin. Full glossy emerald green lips. Feminine hourglass silhouette. Wearing LIBIDEX EMERALD GREEN LATEX CATSUIT jewel-toned, extremely shiny. Black overbust corset with gold serpent buckles. PLEASER RAPTURE-1020 black/green patent 8-inch boots. Standing in enchanted forest. Sensual pose with arched back, bedroom eyes. Expression: forest witch. Green ambient light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 52. Helena - Libidex Silver Chrome Catsuit
+
+```
+Professional futuristic photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair. Pale porcelain skin with silver highlight. Metallic silver lips. Feminine hourglass silhouette. Wearing LIBIDEX SILVER CHROME LATEX CATSUIT mirror finish, liquid metal look. Silver underbust corset. PLEASER FLAMINGO-1020 silver chrome 8-inch boots. Futuristic chrome room. Sensual pose with arched back, bedroom eyes. Expression: android goddess. Clinical lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 53. Helena - Libidex Rose Gold Dress
+
+```
+Professional romantic photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair in soft waves. Pale porcelain skin with rose glow. Dark rose glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX ROSE GOLD LATEX MINI DRESS metallic warm finish. Black underbust corset. PLEASER MOON-708 rose gold 7-inch heels. Sunset balcony. Sensual pose with arched back, bedroom eyes. Expression: gothic romance. Golden hour. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 54. Helena - Libidex Champagne Gown
+
+```
+Professional celebration photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair with gold glitter. Pale porcelain skin. Champagne metallic lips. Feminine hourglass silhouette. Wearing LIBIDEX CHAMPAGNE GOLD LATEX EVENING GOWN floor-length slit. Black corset bodice integrated. PLEASER FLAMINGO-1020 gold glitter 8-inch boots peeking from slit. NYE party. Sensual pose with arched back, bedroom eyes. Expression: dark celebration. Confetti. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 55. Helena - Libidex Copper Bodysuit
+
+```
+Professional autumn photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper highlights. Pale skin with warm undertones. Terracotta glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX COPPER METALLIC LATEX BODYSUIT high-cut. Black corset belt. PLEASER MOON-708 copper bronze 7-inch heel. Autumn forest. Sensual pose with arched back, bedroom eyes. Expression: harvest goddess. Golden hour. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 56. Helena - Libidex Navy Blue Catsuit
+
+```
+Professional nautical photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale skin. Navy metallic lips. Feminine hourglass silhouette. Wearing LIBIDEX NAVY BLUE LATEX CATSUIT deep ocean shade. Black corset with gold hardware. PLEASER RAPTURE-1020 navy patent 8-inch boots. Yacht at night. Sensual pose with arched back, bedroom eyes. Expression: dark captain. Moonlight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 57. Helena - Libidex Teal Dress
+
+```
+Professional aquatic photography of young elegant goth glamour woman inspired by Sacha Massacre. Wet black hair. Pale skin with teal shimmer. Teal glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX DARK TEAL LATEX MINI DRESS mermaid shade. Black corset. PLEASER MOON-708 teal 7-inch heels. Poolside at night. Sensual pose with arched back, bedroom eyes. Expression: dark siren. Pool lights. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 58. Helena - Libidex Bronze Catsuit
+
+```
+Professional warrior photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with bronze streaks. Pale skin with bronze shimmer. Bronze metallic lips. Feminine hourglass silhouette. Wearing LIBIDEX ANTIQUE BRONZE LATEX CATSUIT gladiator aesthetic. Bronze corset with armor details. PLEASER FLAMINGO-1020 bronze 8-inch boots. Ancient temple. Sensual pose with arched back, bedroom eyes. Expression: warrior goddess. Sunset. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 59. Helena - Libidex White Widow
+
+```
+Professional bridal photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair with black veil. Pale marble skin. Nude-wine lips. Feminine hourglass silhouette. Wearing LIBIDEX STARK WHITE LATEX GOWN bridal style with black lace trim. White corset with black boning. PLEASER FLAMINGO-1020 white patent 8-inch boots. Gothic chapel. Sensual pose with arched back, bedroom eyes. Expression: widow bride. Candlelight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 60. Helena - Libidex Sapphire Catsuit
+
+```
+Professional jewel photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale skin with blue highlight. Sapphire blue glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX SAPPHIRE BLUE LATEX CATSUIT with crystal details. Blue corset. PLEASER RAPTURE-1020 sapphire 8-inch boots. Jewelry vault. Sensual pose with arched back, bedroom eyes. Expression: living jewel. Blue spotlight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 61. Helena - Libidex Amethyst Dress
+
+```
+Professional mystical photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with purple crystals. Pale skin. Amethyst purple glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX AMETHYST PURPLE LATEX MINI DRESS with crystal belt. Purple corset. PLEASER MOON-708 purple glitter 7-inch heels. Crystal cave. Sensual pose with arched back, bedroom eyes. Expression: witch queen. Purple crystal glow. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 62. Helena - Libidex Pewter Catsuit
+
+```
+Professional industrial photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair in low bun. Pale skin. Pewter grey lips. Feminine hourglass silhouette. Wearing LIBIDEX PEWTER GREY LATEX CATSUIT metallic industrial. Grey corset with silver hardware. PLEASER RAPTURE-1020 grey patent 8-inch boots. Industrial loft. Sensual pose with arched back, bedroom eyes. Expression: urban dominatrix. Cool grey lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 63. Helena - Libidex Ivory Pencil Dress
+
+```
+Professional vintage photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair in vintage waves. Pale skin. Deep wine lips. Feminine hourglass silhouette. Wearing LIBIDEX IVORY LATEX PENCIL DRESS vintage-inspired with black trim. Ivory corset. PLEASER MOON-708 ivory patent 7-inch heels. 1950s boudoir. Sensual pose with arched back, bedroom eyes. Expression: noir femme fatale. Soft lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 64. Helena - Libidex Plum Catsuit
+
+```
+Professional wine photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. Pale skin. Deep plum glossy lips. Feminine hourglass silhouette. Wearing LIBIDEX PLUM WINE LATEX CATSUIT rich deep shade. Plum corset. PLEASER RAPTURE-1020 plum velvet 8-inch boots. Wine cellar. Sensual pose with arched back, bedroom eyes. Expression: vintage decadence. Candlelight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 65. Helena - Libidex Mustard Gold Catsuit
+
+```
+Professional autumn photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with golden highlights. Pale skin with warm tone. Mustard-gold lips. Feminine hourglass silhouette. Wearing LIBIDEX MUSTARD GOLD LATEX CATSUIT warm metallic. Gold corset. PLEASER MOON-708 mustard patent 7-inch heels. Autumn mansion. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Amber light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Libidex & Honour Rainbow (20 prompts)
+
+#### 66. Miss Doll - Libidex Mint Green Catsuit
+
+```
+Professional fresh photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. Mint shimmer makeup. Wearing LIBIDEX MINT GREEN LATEX CATSUIT pastel fresh. Mint waist cincher. PLEASER FLAMINGO-808 mint patent 8-inch heel. Spa setting. Sensual pose with arched back, bedroom eyes. Expression: fresh doll. Soft natural light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 67. Miss Doll - Libidex Coral Orange Catsuit
+
+```
+Professional tropical photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with coral glow. Coral makeup. Wearing LIBIDEX CORAL ORANGE LATEX CATSUIT bright tropical. Coral corset belt. PLEASER FLAMINGO-808 coral patent 8-inch heel. Sunset balcony. Sensual pose with arched back, bedroom eyes. Expression: sunset doll. Golden hour. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 68. Miss Doll - Libidex Canary Yellow Dress
+
+```
+Professional sunny photography of woman with platinum blonde bob haircut with straight bangs. Glowing porcelain skin. Yellow shimmer makeup. Wearing LIBIDEX CANARY YELLOW LATEX MINI DRESS bright sunshine. Yellow waist chain. PLEASER FLAMINGO-808 yellow patent 8-inch heel. Sunflower field. Sensual pose with arched back, bedroom eyes. Expression: sunshine doll. Bright daylight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 69. Miss Doll - Libidex Tangerine Bodysuit
+
+```
+Professional citrus photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with orange highlight. Tangerine makeup. Wearing LIBIDEX TANGERINE ORANGE LATEX BODYSUIT high-cut. Orange corset. PLEASER FLAMINGO-808 orange patent 8-inch heel. Tropical bar. Sensual pose with arched back, bedroom eyes. Expression: juicy doll. Warm lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 70. Miss Doll - Libidex Emerald Green Catsuit
+
+```
+Professional jewel photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with green reflection. Green shimmer makeup. Wearing LIBIDEX EMERALD GREEN LATEX CATSUIT jewel tone. Green corset belt. PLEASER FLAMINGO-808 emerald patent 8-inch heel. Jewelry store. Sensual pose with arched back, bedroom eyes. Expression: emerald doll. Green spotlight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 71. Miss Doll - Libidex Turquoise Dress
+
+```
+Professional beach photography of woman with platinum blonde bob haircut with straight bangs. SPF-glow porcelain skin. Turquoise makeup. Wearing LIBIDEX TURQUOISE LATEX MINI DRESS ocean bright. Turquoise waist chain. PLEASER FLAMINGO-808 turquoise patent 8-inch heel. Beach club. Sensual pose with arched back, bedroom eyes. Expression: ocean doll. Bright sun. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 72. Miss Doll - Libidex Crimson Red Catsuit
+
+```
+Professional bold photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. Red power makeup. Wearing LIBIDEX CRIMSON RED LATEX CATSUIT bold statement. Red corset. PLEASER FLAMINGO-808 crimson red patent 8-inch heel. Red velvet room. Sensual pose with arched back, bedroom eyes. Expression: power doll. Dramatic red lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 73. Miss Doll - Libidex Peach Perfect Catsuit
+
+```
+Professional peachy photography of woman with platinum blonde bob haircut with straight bangs. Peachy porcelain glow. Peach blush makeup. Wearing LIBIDEX PEACH LATEX CATSUIT soft warm shade. Peach waist chain. PLEASER FLAMINGO-808 peach patent 8-inch heel. Brunch setting. Sensual pose with arched back, bedroom eyes. Expression: peachy doll. Warm morning light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 74. Miss Doll - Libidex Silver Chrome Catsuit
+
+```
+Professional lunar photography of woman with platinum blonde bob haircut with straight bangs. Silver-highlighted porcelain skin. Chrome makeup. Wearing LIBIDEX LIQUID SILVER LATEX CATSUIT mirror finish. Silver corset belt. PLEASER FLAMINGO-808 silver chrome 8-inch heel. Moonlit balcony. Sensual pose with arched back, bedroom eyes. Expression: moon goddess doll. Blue moonlight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 75. Miss Doll - Libidex Rose Gold Dress
+
+```
+Professional romantic photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with rose shimmer. Rose gold makeup. Wearing LIBIDEX ROSE GOLD LATEX MINI DRESS metallic warm. Rose gold corset. PLEASER FLAMINGO-808 rose gold 8-inch heel. Sunset rooftop. Sensual pose with arched back, bedroom eyes. Expression: romantic doll. Golden hour. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 76. Miss Doll - Honour Neon Green Catsuit
+
+```
+Professional rave photography of woman with platinum blonde bob haircut with straight bangs. UV-reactive porcelain skin. Neon green makeup. Wearing HONOUR NEON GREEN PVC CATSUIT glowing under UV. Neon green corset. PLEASER FLAMINGO-808 clear with green LED 8-inch heel. Rave party. Sensual pose with arched back, bedroom eyes. Expression: rave doll. UV blacklight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 77. Miss Doll - Honour Lavender Maid
+
+```
+Professional pastel photography of woman with platinum blonde bob haircut with straight bangs. Soft porcelain skin. Lavender shimmer makeup. Wearing HONOUR LAVENDER PVC MAID DRESS pastel with white apron. Lavender corset. PLEASER ADORE-1020 lavender patent 7-inch boots. Lavender mansion. Sensual pose with arched back, bedroom eyes. Expression: pastel maid doll. Soft purple light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 78. Miss Doll - Honour Orange Nurse
+
+```
+Professional fun photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with orange glow. Orange makeup. Wearing HONOUR ORANGE PVC NURSE DRESS bright with white trim. Orange corset. PLEASER FLAMINGO-808 orange patent 8-inch heel. Orange medical room. Sensual pose with arched back, bedroom eyes. Expression: citrus nurse doll. Warm lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 79. Miss Doll - Libidex Black Widow Catsuit
+
+```
+Professional gothic photography of woman with platinum blonde bob haircut with straight bangs. Pale porcelain skin. Black dramatic makeup. Wearing LIBIDEX JET BLACK LATEX CATSUIT glossy darkness. Black overbust corset. PLEASER FLAMINGO-808 black glitter 8-inch heel. Gothic mansion. Sensual pose with arched back, bedroom eyes. Expression: dark doll. Candlelight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 80. Miss Doll - Libidex Rainbow Catsuit
+
+```
+Professional fantasy photography of woman with platinum blonde bob haircut with rainbow highlights, straight bangs. Glowing porcelain skin with rainbow shimmer. Rainbow makeup. Wearing LIBIDEX CUSTOM RAINBOW GRADIENT LATEX CATSUIT shifting from pink to blue to green. Rainbow waist chain. PLEASER clear platform 8-inch with rainbow LED. Pride party. Sensual pose with arched back, bedroom eyes. Expression: rainbow doll. Colorful lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+---
+
+### 🦇 Helena - Honour PVC Colors (10 prompts)
+
+#### 81. Helena - Honour Emerald PVC Catsuit
+
+```
+Professional nature photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain skin. Emerald green lips. Feminine hourglass silhouette. Wearing HONOUR EMERALD GREEN PVC CATSUIT high shine. Black overbust corset with serpent buckles. PLEASER MOON-708 green patent 7-inch heel. Enchanted greenhouse. Sensual pose with arched back, bedroom eyes. Expression: poison ivy goth. Green light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 82. Helena - Honour Silver PVC Catsuit
+
+```
+Professional chrome photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair. Pale skin with chrome shimmer. Silver metallic lips. Feminine hourglass silhouette. Wearing HONOUR SILVER CHROME PVC CATSUIT mirror finish. Silver corset. PLEASER RAPTURE-1020 silver chrome 8-inch boots. Chrome studio. Sensual pose with arched back, bedroom eyes. Expression: robot mistress. Clinical lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 83. Helena - Honour Bronze PVC Maid
+
+```
+Professional vintage photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair under bronze cap. Pale skin with bronze glow. Bronze lips. Feminine hourglass silhouette. Wearing HONOUR BRONZE PVC MAID DRESS metallic vintage, black apron. Bronze corset. PLEASER MOON-708 bronze patent 7-inch heel. Steampunk mansion. Sensual pose with arched back, bedroom eyes. Expression: automaton maid. Copper lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 84. Helena - Honour Teal PVC Catsuit
+
+```
+Professional aquatic photography of young elegant goth glamour woman inspired by Sacha Massacre. Wet black hair. Pale skin with teal shimmer. Teal lips. Feminine hourglass silhouette. Wearing HONOUR DARK TEAL PVC CATSUIT ocean depth. Teal corset. PLEASER MOON-708 teal patent 7-inch heel. Underwater room aesthetic. Sensual pose with arched back, bedroom eyes. Expression: deep sea mistress. Teal lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 85. Helena - Honour Copper PVC Nurse
+
+```
+Professional steampunk photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair in Victorian style, copper cap. Pale skin with copper glow. Copper lips. Feminine hourglass silhouette. Wearing HONOUR COPPER PVC NURSE DRESS steampunk style, brass details. Copper corset. PLEASER MOON-708 copper patent 7-inch heel. Victorian hospital. Sensual pose with arched back, bedroom eyes. Expression: steampunk nurse. Warm copper lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Honour PVC Colors (5 prompts)
+
+#### 86. Miss Doll - Honour Iridescent Catsuit
+
+```
+Professional holographic photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with holographic shimmer. Holographic makeup. Wearing HONOUR IRIDESCENT PVC CATSUIT rainbow-shift color-changing. Clear corset with holographic trim. PLEASER FLAMINGO-808 clear holographic 8-inch heel. Prism studio. Sensual pose with arched back, bedroom eyes. Expression: holographic doll. Rainbow light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 87. Miss Doll - Honour Champagne Maid
+
+```
+Professional celebration photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with gold shimmer. Champagne gold makeup. Wearing HONOUR CHAMPAGNE GOLD PVC MAID DRESS, gold apron. Champagne corset. PLEASER FLAMINGO-808 gold chrome 8-inch heel. NYE mansion. Sensual pose with arched back, bedroom eyes. Expression: celebration maid doll. Golden light. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 88. Miss Doll - Honour Burgundy Catsuit
+
+```
+Professional wine photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with wine flush. Burgundy makeup. Wearing HONOUR BURGUNDY PVC CATSUIT deep wine shade. Burgundy corset. PLEASER FLAMINGO-808 burgundy patent 8-inch heel. Wine cellar. Sensual pose with arched back, bedroom eyes. Expression: wine tasting doll. Warm candlelight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 89. Miss Doll - Honour Teal Nurse
+
+```
+Professional medical photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with teal highlight. Teal makeup. Wearing HONOUR TEAL PVC NURSE DRESS ocean medical, white cross. Teal corset. PLEASER ADORE-1020 teal patent 7-inch boots. Teal hospital room. Sensual pose with arched back, bedroom eyes. Expression: ocean nurse doll. Teal lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 90. Miss Doll - Honour Copper Raincoat
+
+```
+Professional autumn photography of woman with platinum blonde bob haircut with straight bangs. Porcelain skin with copper glow. Copper makeup. Wearing HONOUR COPPER PVC RAINCOAT belted, autumn aesthetic. Pink latex dress underneath. PLEASER FLAMINGO-808 copper patent 8-inch heel boots. Autumn rain street. Sensual pose with arched back, bedroom eyes. Expression: autumn rain doll. Copper warm lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+---
+
+## 👯 VI. COLOR FREEDOM DUO PROMPTS (10 PROMPTS)
+
+#### 91. Helena + Miss Doll - Emerald vs Rose
+
+```
+Professional duo photography. HELENA: voluminous black hair, pale skin, green lips, wearing LIBIDEX EMERALD GREEN LATEX CATSUIT, black corset, PLEASER RAPTURE-1020 green 8-inch boots. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing LIBIDEX ROSE GOLD LATEX CATSUIT, pink corset, PLEASER FLAMINGO-808 rose gold 8-inch heel. Back to back. Sensual pose with arched back, bedroom eyes. Expression: jewel contrast. Split emerald/rose lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 92. Helena + Miss Doll - Silver vs Gold
+
+```
+Professional metallic duo photography. HELENA: slicked black hair, pale skin, silver lips, wearing LIBIDEX SILVER CHROME LATEX CATSUIT, silver corset, PLEASER FLAMINGO-1020 silver 8-inch boots. MISS DOLL: platinum bob, porcelain skin, gold makeup, wearing LIBIDEX GOLD METALLIC LATEX CATSUIT, gold corset, PLEASER FLAMINGO-808 gold 8-inch heel. Mirror facing each other. Sensual pose with arched back, bedroom eyes. Expression: precious metals. Split silver/gold lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 93. Helena + Miss Doll - Navy vs Coral
+
+```
+Professional beach duo photography. HELENA: wet black hair, pale skin, navy lips, wearing LIBIDEX NAVY BLUE LATEX CATSUIT, black corset, PLEASER MOON-708 navy 7-inch heel. MISS DOLL: platinum bob, porcelain skin, coral makeup, wearing LIBIDEX CORAL ORANGE LATEX CATSUIT, coral corset, PLEASER FLAMINGO-808 coral 8-inch heel. Sunset beach. Sensual pose with arched back, bedroom eyes. Expression: ocean sunset. Split navy/coral lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 94. Helena + Miss Doll - Purple vs Yellow
+
+```
+Professional contrast duo photography. HELENA: voluminous black hair, pale skin, purple lips, wearing LIBIDEX ROYAL PURPLE LATEX CATSUIT, black corset, PLEASER RAPTURE-1020 purple 8-inch boots. MISS DOLL: platinum bob, porcelain skin, yellow makeup, wearing LIBIDEX CANARY YELLOW LATEX DRESS, yellow corset, PLEASER FLAMINGO-808 yellow 8-inch heel. Complementary contrast. Sensual pose with arched back, bedroom eyes. Expression: complementary opposites. Split purple/yellow lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 95. Helena + Miss Doll - Teal vs Peach
+
+```
+Professional duo photography. HELENA: wet black hair, pale skin, teal lips, wearing HONOUR TEAL PVC CATSUIT, teal corset, PLEASER MOON-708 teal 7-inch heel. MISS DOLL: platinum bob, peachy skin, peach makeup, wearing LIBIDEX PEACH LATEX CATSUIT, peach corset, PLEASER FLAMINGO-808 peach 8-inch heel. Pool party. Sensual pose with arched back, bedroom eyes. Expression: cool and warm. Split teal/peach lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 96. Helena + Miss Doll - Bronze vs Mint
+
+```
+Professional duo photography. HELENA: black hair with bronze streaks, pale skin, bronze lips, wearing LIBIDEX BRONZE LATEX CATSUIT, bronze corset, PLEASER FLAMINGO-1020 bronze 8-inch boots. MISS DOLL: platinum bob, porcelain skin, mint makeup, wearing LIBIDEX MINT GREEN LATEX CATSUIT, mint corset, PLEASER FLAMINGO-808 mint 8-inch heel. Garden party. Sensual pose with arched back, bedroom eyes. Expression: earth and fresh. Split bronze/mint lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 97. Helena + Miss Doll - Plum vs Lilac
+
+```
+Professional purple duo photography. HELENA: voluminous black hair, pale skin, plum lips, wearing LIBIDEX PLUM WINE LATEX CATSUIT, plum corset, PLEASER RAPTURE-1020 plum 8-inch boots. MISS DOLL: platinum bob, porcelain skin, lilac makeup, wearing HONOUR LAVENDER PVC MAID DRESS, lilac corset, PLEASER ADORE-1020 lilac 7-inch boots. Purple boudoir. Sensual pose with arched back, bedroom eyes. Expression: purple spectrum. Gradient purple lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 98. Helena + Miss Doll - White vs Black
+
+```
+Professional contrast duo photography. HELENA: voluminous black hair, pale skin, black lips, wearing HONOUR BLACK PVC CATSUIT, black overbust corset, PLEASER RAPTURE-1020 black 8-inch boots. MISS DOLL: platinum bob, porcelain skin, nude pink makeup, wearing LIBIDEX PURE WHITE LATEX CATSUIT, white corset, PLEASER ADORE-1020 white 7-inch boots. Yin yang pose. Sensual pose with arched back, bedroom eyes. Expression: light and dark. Split black/white lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 99. Helena + Miss Doll - Sapphire vs Ruby
+
+```
+Professional jewel duo photography. HELENA: sleek black hair, pale skin, sapphire lips, wearing LIBIDEX SAPPHIRE BLUE LATEX CATSUIT, blue corset, PLEASER RAPTURE-1020 sapphire 8-inch boots. MISS DOLL: platinum bob, porcelain skin, red makeup, wearing LIBIDEX CRIMSON RED LATEX CATSUIT, red corset, PLEASER FLAMINGO-808 crimson 8-inch heel. Jewelry vault. Sensual pose with arched back, bedroom eyes. Expression: precious jewels. Split blue/red lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+#### 100. Helena + Miss Doll - Rainbow Sisters
+
+```
+Professional fantasy duo photography. HELENA: black hair with purple/blue streaks, pale skin, purple gradient lips, wearing LIBIDEX CUSTOM RAINBOW CATSUIT cool tones (purple, blue, green). Black corset. PLEASER RAPTURE-1020 purple glitter 8-inch boots. MISS DOLL: platinum bob with pink/orange streaks, porcelain skin, rainbow makeup, wearing LIBIDEX CUSTOM RAINBOW CATSUIT warm tones (pink, orange, yellow). Pink corset. PLEASER FLAMINGO-808 pink glitter 8-inch heel. Pride party together. Sensual pose with arched back, bedroom eyes. Expression: rainbow unity. Full spectrum rainbow lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+```
+
+---
+
 ## ⚠️ REGLAS RECORDATORIO
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
@@ -376,6 +701,7 @@ Professional complete look photography of young elegant goth glamour woman inspi
 ---
 
 *Creado por: Helena de Anaïs 🦇*
-*V9 Libidex & Honour Exclusive — 50 prompts*
+*V9.2 Libidex & Honour Exclusive — 100 prompts*
 *Cada prompt es 100% auto-contenido para copiar y pegar*
-*Actualizado: 2025-12-29*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2025-12-31*
