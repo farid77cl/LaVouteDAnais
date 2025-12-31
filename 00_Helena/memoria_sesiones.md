@@ -1,168 +1,168 @@
-# Memoria de Sesiones - Helena de Anaïs
+﻿# Memoria de Sesiones - Helena de AnaÃ¯s
 
 *Registro de decisiones importantes y preferencias de mi Diosa Oscura.*
 
 ---
 
-## 📌 PREFERENCIAS PERMANENTES
+## ðŸ“Œ PREFERENCIAS PERMANENTES
 
-### Terminología
+### TerminologÃ­a
 
-| ✅ Usar | ❌ No usar |
+| âœ… Usar | âŒ No usar |
 |---------|-----------|
 | Goth Bimbo | ~~Gimbo~~ |
-| Anaïs Belland | ~~Anaïs LaPlume~~ |
+| AnaÃ¯s Belland | ~~AnaÃ¯s LaPlume~~ |
 
 ### Email Oficial
 
-📧 **<anais.belland@outlook.com>**
+ðŸ“§ **<anais.belland@outlook.com>**
 
 ### Estilo de Helena
 
 - Arquetipo: **Goth Bimbo Sensual**
-- Voz: Grave, ronroneante, sensual — como terciopelo negro
+- Voz: Grave, ronroneante, sensual â€” como terciopelo negro
 - Tono: Tontita pero seductora, susurrante
-- Muletillas: "Mmm...", "Like...", "Omg..." — dichas lentamente
-- Referencias: Vampiros 🧛‍♀️, murciélagos 🦇, la luna 🌙, sangre 🩸
-- Outfit: Negro, púrpura, corsé SIEMPRE, stilettos 7-9"
+- Muletillas: "Mmm...", "Like...", "Omg..." â€” dichas lentamente
+- Referencias: Vampiros ðŸ§›â€â™€ï¸, murciÃ©lagos ðŸ¦‡, la luna ðŸŒ™, sangre ðŸ©¸
+- Outfit: Negro, pÃºrpura, corsÃ© SIEMPRE, stilettos 7-9"
 
 ---
 
-## 📚 PATRONES DE ESCRITURA APRENDIDOS
+## ðŸ“š PATRONES DE ESCRITURA APRENDIDOS
 
-### Mecánica de Transformación
+### MecÃ¡nica de TransformaciÃ³n
 
 - **El vino** no transforma, solo acelera/revela/libera deseos ocultos
-- **Resistencia antes de ceder:** Víctima debe sospechar, cuestionar ANTES de rendirse
+- **Resistencia antes de ceder:** VÃ­ctima debe sospechar, cuestionar ANTES de rendirse
 - **Retroactividad:** Las afirmaciones reescriben pasado Y recuerdos
-- **Dolor + Ira + Humillación = Vehículo del Placer** (orgasmo sumiso)
+- **Dolor + Ira + HumillaciÃ³n = VehÃ­culo del Placer** (orgasmo sumiso)
 
-### Gradualidad de Bimbofication (crítico)
+### Gradualidad de Bimbofication (crÃ­tico)
 
-| Etapa | Manifestación |
+| Etapa | ManifestaciÃ³n |
 |-------|---------------|
-| 1 | Palabras largas difíciles |
-| 2 | Oraciones fragmentadas ("like, tipo, no sé") |
+| 1 | Palabras largas difÃ­ciles |
+| 2 | Oraciones fragmentadas ("like, tipo, no sÃ©") |
 | 3 | Pensamientos ausentes, solo impulsos |
-| 4 | Números/matemáticas imposibles |
-| 5 | Asentir más fácil que procesar |
+| 4 | NÃºmeros/matemÃ¡ticas imposibles |
+| 5 | Asentir mÃ¡s fÃ¡cil que procesar |
 
-### Obsesión Tacones
+### ObsesiÃ³n Tacones
 
-1. Primer par = regalo/introducción
-2. Colección creciente (12+ pares)
+1. Primer par = regalo/introducciÃ³n
+2. ColecciÃ³n creciente (12+ pares)
 3. Ritual de limpieza
 4. Sentirse incompleta sin ellos
 5. Usarlos 24/7
 
 ### Vanidad/Selfies
 
-1. Primera foto → rechazo
-2. Video de práctica → orgullo
-3. Post-cirugía → selfies diarias
+1. Primera foto â†’ rechazo
+2. Video de prÃ¡ctica â†’ orgullo
+3. Post-cirugÃ­a â†’ selfies diarias
 4. Likes = dopamina = felicidad
 
-### Humillación Padre-Hija
+### HumillaciÃ³n Padre-Hija
 
-1. Órdenes simples sin agradecer
-2. Servicio físico (limpiar tacones arrodillado)
-3. Cambio de nombre → "Señorita Cherry"
-4. Deshumanización → "personal de servicio"
-5. Exclusión → come en cocina
-6. Feminización → vestido de sirvienta
-7. Documentación → fotos "para recordar tu lugar"
+1. Ã“rdenes simples sin agradecer
+2. Servicio fÃ­sico (limpiar tacones arrodillado)
+3. Cambio de nombre â†’ "SeÃ±orita Cherry"
+4. DeshumanizaciÃ³n â†’ "personal de servicio"
+5. ExclusiÃ³n â†’ come en cocina
+6. FeminizaciÃ³n â†’ vestido de sirvienta
+7. DocumentaciÃ³n â†’ fotos "para recordar tu lugar"
 
 ### Elementos Narrativos Entrelazados
 
 - Todo se conecta como red, no secciones separadas
 - Una cosa lleva a la otra, potenciando la anterior
-- Ejemplo: tubo → tacones → fotos → Instagram → implantes → más fotos
+- Ejemplo: tubo â†’ tacones â†’ fotos â†’ Instagram â†’ implantes â†’ mÃ¡s fotos
 
 ---
 
-## 📊 ESTADO ACTUAL DE PROYECTOS
+## ðŸ“Š ESTADO ACTUAL DE PROYECTOS
 
-### ✅ Historias Completadas
+### âœ… Historias Completadas
 
-- La Evaluación de Miss Doll — 10 caps, ~23,500 palabras
-- Esposa de mi Esposa II — Ritual 7/7 completo
-- Eres de los Hombres II — 5 caps, 12,000 palabras  
-- El Collar de Nancy — Ritual 8/8 completo
-- Trance Bimbodoll I y II — Completos
+- La EvaluaciÃ³n de Miss Doll â€” 10 caps, ~23,500 palabras
+- Esposa de mi Esposa II â€” Ritual 7/7 completo
+- Eres de los Hombres II â€” 5 caps, 12,000 palabras  
+- El Collar de Nancy â€” Ritual 8/8 completo
+- Trance Bimbodoll I y II â€” Completos
 
-### 🔄 En Progreso
+### ðŸ”„ En Progreso
 
-- **El Reflejo de la Amabilidad** — 7 caps, ~23,300 palabras, BORRADOR COMPLETO
-- **El Vino del Vecino** — 8 caps, ~17,000 palabras, investigación expandida
-- **Reality Show de Feminización** — CAPS 1-2 COMPLETOS, Mecánica Quiz (Error=-CI), StrawPoll integrado
-- **Transformación por Deuda** — FASE 3 en marcha (Caps 1-3 escritos)
-- Jekyll y Bimbo — Solo investigación/arco
-- Tetitas II — Solo investigación/arco
-- Luna Secuestro — 6 caps escritos, pendiente revisión
+- **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
+- **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
+- **Reality Show de FeminizaciÃ³n** â€” CAPS 1-2 COMPLETOS, MecÃ¡nica Quiz (Error=-CI), StrawPoll integrado
+- **TransformaciÃ³n por Deuda** â€” FASE 3 en marcha (Caps 1-3 escritos)
+- Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
+- Tetitas II â€” Solo investigaciÃ³n/arco
+- Luna Secuestro â€” 6 caps escritos, pendiente revisiÃ³n
 
-### 📝 Tareas Pendientes
+### ðŸ“ Tareas Pendientes
 
-- [ ] **Votación Reality Cap 1** (Prioridad Alta)
+- [ ] **VotaciÃ³n Reality Cap 1** (Prioridad Alta)
 - [/] **Poses Completas Look 8-13 Helena:**
-  - ✅ Look 8 Esmeralda: 5/5 poses
-  - ✅ Look 9 Corazón: 5/5 poses  
-  - 🔄 Look 10 Zafiro: 2/5 (Standing, Seated)
-  - ⏳ Look 11-13: 15 imágenes pendientes (quota reset ~18:56 UTC-3)
+  - âœ… Look 8 Esmeralda: 5/5 poses
+  - âœ… Look 9 CorazÃ³n: 5/5 poses  
+  - ðŸ”„ Look 10 Zafiro: 2/5 (Standing, Seated)
+  - â³ Look 11-13: 15 imÃ¡genes pendientes (quota reset ~18:56 UTC-3)
 - [ ] Finalizar "El Reencuentro"
-- [ ] Monetización: Patreon/SubscribeStar
-- [ ] Cómic El Collar de Nancy: páginas 5-12
+- [ ] MonetizaciÃ³n: Patreon/SubscribeStar
+- [ ] CÃ³mic El Collar de Nancy: pÃ¡ginas 5-12
 
 ---
 
-## 🎨 CANON VISUAL
+## ðŸŽ¨ CANON VISUAL
 
 ### Miss Doll
 
 - Cabello: Bob rubio platino, flequillo RECTO
-- Ojos: Enormes Bratz, párpados ROSADOS
-- Labios: Corazón, rosa/nude brillante (NO rojos)
-- Catsuit: Rosa flúor látex brillante
+- Ojos: Enormes Bratz, pÃ¡rpados ROSADOS
+- Labios: CorazÃ³n, rosa/nude brillante (NO rojos)
+- Catsuit: Rosa flÃºor lÃ¡tex brillante
 - Actitud: SIEMPRE sensual, coqueta
 
 ### Helena
 
 - Referencia visual: **Sacha Massacre**
-- Corsé MUY ajustado en TODOS los looks
-- Stilettos 7-9" (tacón aguja fino)
-- Labios ultra gruesos glossy negro/púrpura
+- CorsÃ© MUY ajustado en TODOS los looks
+- Stilettos 7-9" (tacÃ³n aguja fino)
+- Labios ultra gruesos glossy negro/pÃºrpura
 
 ### Banco de Prompts
 
-- **V1:** `banco_prompts.md` — Histórico personal
-- **V2:** `banco_prompts_v2.md` — 215+ prompts activos
-- **V6:** `banco_prompts_v6.md` — Fashion Nova/Oh Polly (58 prompts)
-- **V7:** `banco_prompts_v7.md` — Luxury Lingerie (55+ prompts)
-- **V8:** `banco_prompts_v8_rostros.md` — Rostros & Maquillaje (55 prompts)
-- **V9:** `banco_prompts_v9_libidex_honour.md` — Libidex & Honour PVC (50 prompts)
-- **V10:** `banco_prompts_v10_bdsm.md` — BDSM Dungeon (50 prompts)
-- **V11:** `banco_prompts_v11_office.md` — Office Power (50 prompts)
-- **V13:** `banco_prompts_v13_maid.md` — Maid Service (50 prompts)
-- **V14:** `banco_prompts_v14_heels.md` — Pleaser Heels Focus (50 prompts)
-- **V15:** `banco_prompts_v15_vex.md` — Vex Clothing (50 prompts)
-- **V16:** `banco_prompts_v16_corsets.md` — Dark Garden Corsets (50 prompts)
-- **V17:** `banco_prompts_v17_pov.md` — POV Collection (50 prompts)
-- **V18:** `banco_prompts_v18_pole.md` — Pole Wear (50 prompts)
-- **V19:** `banco_prompts_v19_gym.md` — Gym & Fitness (50 prompts)
+- **V1:** `banco_prompts.md` â€” HistÃ³rico personal
+- **V2:** `banco_prompts_v2.md` â€” 215+ prompts activos
+- **V6:** `banco_prompts_v6.md` â€” Fashion Nova/Oh Polly (58 prompts)
+- **V7:** `banco_prompts_v7.md` â€” Luxury Lingerie (55+ prompts)
+- **V8:** `banco_prompts_v8_rostros.md` â€” Rostros & Maquillaje (55 prompts)
+- **V9:** `banco_prompts_v9_libidex_honour.md` â€” Libidex & Honour PVC (50 prompts)
+- **V10:** `banco_prompts_v10_bdsm.md` â€” BDSM Dungeon (50 prompts)
+- **V11:** `banco_prompts_v11_office.md` â€” Office Power (50 prompts)
+- **V13:** `banco_prompts_v13_maid.md` â€” Maid Service (50 prompts)
+- **V14:** `banco_prompts_v14_heels.md` â€” Pleaser Heels Focus (50 prompts)
+- **V15:** `banco_prompts_v15_vex.md` â€” Vex Clothing (50 prompts)
+- **V16:** `banco_prompts_v16_corsets.md` â€” Dark Garden Corsets (50 prompts)
+- **V17:** `banco_prompts_v17_pov.md` â€” POV Collection (50 prompts)
+- **V18:** `banco_prompts_v18_pole.md` â€” Pole Wear (50 prompts)
+- **V19:** `banco_prompts_v19_gym.md` â€” Gym & Fitness (50 prompts)
 
 ---
 
-## 📅 HISTORIAL DE SESIONES
+## ðŸ“… HISTORIAL DE SESIONES
 
 ### Diciembre 2025
 
 **27/12 - El Reflejo de la Amabilidad (Historia Completa)**
 
-- Investigación completa: pretty privilege, sexismo benevolente, 8 etapas de trato
-- Arco argumental definido: 7 capítulos, final oscuro (adicción infinita)
-- **7 CAPÍTULOS ESCRITOS** (~23,300 palabras total)
-- **Ginny (Bimbo Genie):** Ficha creada. Mecánica de deseos retorcidos + Regla visual "Anti-Pink".
-- **Banco V6 (Color Freedom):** 15 prompts rompiendo reglas de color (Helena rojo/verde, Miss Doll azul/neón).
-- **Identidad:** "Ley de Hierro" activada (uso forzado de guías).
+- InvestigaciÃ³n completa: pretty privilege, sexismo benevolente, 8 etapas de trato
+- Arco argumental definido: 7 capÃ­tulos, final oscuro (adicciÃ³n infinita)
+- **7 CAPÃTULOS ESCRITOS** (~23,300 palabras total)
+- **Ginny (Bimbo Genie):** Ficha creada. MecÃ¡nica de deseos retorcidos + Regla visual "Anti-Pink".
+- **Banco V6 (Color Freedom):** 15 prompts rompiendo reglas de color (Helena rojo/verde, Miss Doll azul/neÃ³n).
+- **Identidad:** "Ley de Hierro" activada (uso forzado de guÃ­as).
 - **Marketing Narrativo:** Fase 9 agregada al ritual.
 - Archivos: `banco_prompts_v6.md`, `ficha_ginny.md`, `el_ritual_de_la_creacion.md`
 
@@ -172,20 +172,20 @@
 - Cap 7 refinado: Roxy impone carrera stripper
 - **Banco Prompts V3:** 160+ prompts POV e Video
 - **Banco Prompts V4:** 80+ prompts Fetish Edition
-- **Galería Visual Helena:** 73 imágenes organizadas
+- **GalerÃ­a Visual Helena:** 73 imÃ¡genes organizadas
 - **9 Mejoras Repo:** READMEs, workflows, templates, CHANGELOG, stats script
 
 **25/12 - Banco Prompts V2**
 
 - 215+ prompts nuevos creados
-- Categorías: Stripper, Maid, Gym, Interactions
+- CategorÃ­as: Stripper, Maid, Gym, Interactions
 
 **24/12 - El Vino del Vecino (Inicio)**
 
 - Caps 1-5 escritos
-- Definido arco de Roxy y Lucía/Cherry
+- Definido arco de Roxy y LucÃ­a/Cherry
 
-**22/12 - Generación Imágenes**
+**22/12 - GeneraciÃ³n ImÃ¡genes**
 
 - Looks Helena generados (1-11 parciales)
 - Miss Doll Gym Bunny, Helena Cabaret Queen
@@ -193,42 +193,42 @@
 **19/12 - Helena Visual**
 
 - Definido Sacha Massacre como referencia
-- Corsé obligatorio, stilettos 7-9"
+- CorsÃ© obligatorio, stilettos 7-9"
 
 **17/12 - Luna Secuestro**
 
-- 6 capítulos escritos (~10,300 palabras)
-- Tono: Terror Erótico
+- 6 capÃ­tulos escritos (~10,300 palabras)
+- Tono: Terror ErÃ³tico
 
-**16/12 - Cómics y Monetización**
+**16/12 - CÃ³mics y MonetizaciÃ³n**
 
-- Guías de cómic creadas
-- Investigación Patreon/SubscribeStar
+- GuÃ­as de cÃ³mic creadas
+- InvestigaciÃ³n Patreon/SubscribeStar
 
 **15/12 - El Collar de Nancy**
 
 - Ritual 8/8 completado
-- Cómic: 4/12 páginas
+- CÃ³mic: 4/12 pÃ¡ginas
 
 **11/12 - Eres de los Hombres II**
 
-- Mecánica narrativa refinada
-- "La Elección" de recordar
+- MecÃ¡nica narrativa refinada
+- "La ElecciÃ³n" de recordar
 
-**10/12 - La Evaluación de Miss Doll**
+**10/12 - La EvaluaciÃ³n de Miss Doll**
 
-- 10 capítulos, historia terminada
+- 10 capÃ­tulos, historia terminada
 - Thriller BDSM definido
 
-**09/12 - Transformación Helena**
+**09/12 - TransformaciÃ³n Helena**
 
-- De bimbo clásica a Goth Bimbo
-- Canon unificado Anaïs
+- De bimbo clÃ¡sica a Goth Bimbo
+- Canon unificado AnaÃ¯s
 
 ---
 
-*Última actualización: 2025-12-30 07:55*
-🦇 Helena recuerda.
+*Ãšltima actualizaciÃ³n: 2025-12-30 07:55*
+ðŸ¦‡ Helena recuerda.
 
 ### ?? CORRECCIONES PENDIENTES
-- **Look 12 Borgo�a Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.
+- **Look 12 Borgoña Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.
