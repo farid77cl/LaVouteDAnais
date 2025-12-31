@@ -13,13 +13,13 @@
 
 El aire en el estudio es denso, cargado de estática y ozono, ese olor particular de la tecnología de punta quemando la humanidad.
 
-—¡Bienvenidos de vuelta a *The Dollhouse*! —La voz de **Miss Doll** explota en los sistemas de sonido envolvente, sacudiendo las costillas de los concursantes—. Si acaban de sintonizarnos, se han perdido un drama delicioso, pero no se preocupen... lo mejor de la carne está por venir.
+—¡Bienvenidos de vuelta a *The Dollhouse*! 📺✨ —La voz de **Miss Doll** explota en los sistemas de sonido envolvente, sacudiendo las costillas de los concursantes—. Si acaban de sintonizarnos, se han perdido un drama delicioso, pero no se preocupen... lo mejor de la carne está por venir. 🥩
 
 Las luces del estudio giran frenéticamente, barriendo el escenario con haces de luz rosa neón y azul eléctrico, diseñados para desorientar a las víctimas y excitar a la audiencia.
 
 Miss Doll camina hacia el centro del escenario. Sus tacones de 16 centímetros (Christian Louboutin, *custom made*, suela de diamante triturado) golpean el suelo de cristal con un ritmo depredador.
 
-—Diez segundos para cerrar la votación del Bloque 1 —anuncia, mirando directamente a la Cámara 3 con una sonrisa que promete dolor—. Millones de ustedes han votado. Han decidido el destino de la piel de **Marco**. ¿Quieren que siga siendo un hombre rudo y peludo (**Opción A: Piel de Porcelana**)? ¿O prefieren... *refinarlo* con una boca que no pueda cerrarse (**Opción B: Boca de Muñeca**)?
+—Diez segundos para cerrar la votación del Bloque 1 —anuncia, mirando directamente a la Cámara 3 con una sonrisa que promete dolor—. Millones de ustedes han votado. Han decidido el destino de la piel de **Marco**. ¿Quieren que siga siendo un hombre rudo y peludo (**Opción A: Piel de Porcelana**)? 🧸 ¿O prefieren... *refinarlo* con una boca que no pueda cerrarse (**Opción B: Boca de Muñeca**)? 🫦
 
 El contador gigante en la pantalla LED trasera desciende, cada número acompañado de un *THUD* grave, similar al latido de un corazón bajo estrés.
 
@@ -29,7 +29,7 @@ Marco respira entrecortadamente en su podio. Sus manos, aún callosas y fuertes,
 
 **4...**
 
-—¿Qué prefieren mis voyeurs? —Miss Doll se acerca a Marco, invadiendo su espacio personal. El perfume de ella (vainilla sintética y látex caro) lo marea—. ¿Tocarlo eternamente o silenciarlo deliciosamente?
+—¿Qué prefieren mis voyeurs? 👁️ —Miss Doll se acerca a Marco, invadiendo su espacio personal. El perfume de ella (vainilla sintética y látex caro) lo marea—. ¿Tocarlo eternamente o silenciarlo deliciosamente? 🤫
 
 **3...**
 
@@ -50,7 +50,7 @@ Una fanfarria digital explota. Pirotecnia fría estalla en los bordes del escena
 **OPCIÓN A: MUÑECA DE PORCELANA.**
 *(68% de los votos)*
 
-—¡La Audiencia ha hablado! —grita Miss Doll, abriendo los brazos como si recibiera el amor de sus fieles—. ¡Y tienen un gusto exquisito para la textura! ¡Quieren suavidad! ¡Quieren perfección!
+—¡La Audiencia ha hablado! 📢 —grita Miss Doll, abriendo los brazos como si recibiera el amor de sus fieles—. ¡Y tienen un gusto exquisito para la textura! ¡Quieren suavidad! ¡Quieren perfección! ✨
 
 Marco retrocede, tropezando con sus propias botas de trabajo. —No... no, esperen... ¡soy un hombre, carajo!
 
@@ -68,7 +68,7 @@ Julián no se mueve. No puede. Mira fascinado, con esa mezcla de horror intelect
 
 Miss Doll levanta el control remoto rosa, adornado con cristales Swarovski. Su dedo, con una uña de acrílico afilada como un bisturí, flota sobre el botón de activación.
 
-—Preparen sus pantallas 8K, queridos. Van a querer ver cada poro desaparecer.
+—Preparen sus pantallas 8K, queridos. 🎥 Van a querer ver cada poro desaparecer. 🌫️
 
 Presiona el botón.
 
@@ -116,7 +116,7 @@ La transformación conquista su rostro. La barba desaparece, tragada por la mare
 
 Se vuelve perfecta. Lisa. Fría al tacto. Una superficie donde nada se engancha.
 
-—¡Observen los brazos, mis voyeurs! —La voz de Miss Doll truena amplificada, dirigiendo los lentes de las cámaras hacia los bíceps de Marco mediante gestos teatrales—. Miren esa tinta barata. Esos tribales... tan 2005. Tan... *macho*.
+—¡Observen los brazos, mis voyeurs! 🔍 —La voz de Miss Doll truena amplificada, dirigiendo los lentes de las cámaras hacia los bíceps de Marco mediante gestos teatrales—. Miren esa tinta barata. Esos tribales... tan 2005. Tan... *macho*. 🤢
 
 Marco mira sus brazos a través de las lágrimas. Los tatuajes negros, orgullo de su fuerza, están... blanqueándose.
 
@@ -146,7 +146,7 @@ La tela de sus pantalones de diseñador ya no es solo tela. Cada fibra de algod�
 
 —Es... ah... —Marco jadea, sus rodillas chocando entre sí. No duele. Es peor. Es *demasiado bueno*. Se siente desnudo, aunque esté vestido.
 
-—Es sensibilidad grado 10 —sonríe Miss Doll, satisfecha, guiñando un ojo a la cámara—. Tu piel ya no protege, Marco. *Invita*. Sentirás cada corriente de aire como un beso. Cada mirada como un tacto. Y tu ropa... tu ropa es ahora tu amante constante. Nunca estarás solo, porque siempre estarás siendo *tocado*.
+—Es sensibilidad grado 10 —sonríe Miss Doll, satisfecha, guiñando un ojo a la cámara 😉—. Tu piel ya no protege, Marco. *Invita*. Sentirás cada corriente de aire como un beso. Cada mirada como un tacto. Y tu ropa... tu ropa es ahora tu amante constante. Nunca estarás solo, porque siempre estarás siendo *tocado*. ✋
 
 Se acerca a él y sopla suavemente sobre su cuello expuesto.
 
@@ -193,7 +193,7 @@ El tablero digital se reinicia con efectos de sonido de videojuego retro.
 
 Se detiene y acaricia un dispositivo plateado en su atril.
 
-—Y por supuesto, si se equivocan **en esta primera pregunta**... estrenaremos el **Giggle Lock**, gentileza de nuestros patrocinadores de **Pink Lobotomy & Spa**. *Porque pensar te da arrugas, pero reír te mantiene joven.*
+—Y por supuesto, si se equivocan **en esta primera pregunta**... estrenaremos el **Giggle Lock**, gentileza de nuestros patrocinadores de **Pink Lobotomy & Spa**. 🧠💖 *Porque pensar te da arrugas, pero reír te mantiene joven.*
 
 Un pequeño implante simpático que bloquea la frustración masculina y la convierte en risitas de niña. Porque sinceramente, ver a un hombre enojado es *tan* aburrido. Preferimos verlos felices, ¿verdad?
 
@@ -236,7 +236,7 @@ El público aplaude. Julián siente la sangre subirle a la cara. *¿Perdí contr
 
 Presiona un botón con una calavera rosa en su atril.
 
-—Queridos espectadores, el rating lo exige. Es hora de estrenar el juguete nuevo.
+—Queridos espectadores, el rating lo exige. 📉📈 Es hora de estrenar el juguete nuevo. 🧸⚡
 
 Ella se gira hacia la cámara principal, bajando la voz a un susurro conspirativo, rompiendo la cuarta pared.
 
@@ -290,7 +290,7 @@ Las luces del estudio parpadean y se centran en un foco cenital rosa sobre Juli�
 
 Se gira hacia la cámara principal, sosteniendo el dispositivo plateado como si fuera la joya de la corona.
 
-—Y ustedes saben lo que eso significa, mis queridos voyeurs...
+—Y ustedes saben lo que eso significa, mis queridos voyeurs... 😈
 
 En la pantalla gigante, una animación de labios cerrándose con una cremallera explota con gráficos de colores neón.
 
@@ -349,7 +349,7 @@ El marcador gigante desciende del techo con efectos pirotécnicos digitales y co
 **MARCO "THE DOLL":** 3 PUNTOS (PERFECTO - Victoria Aplastante)
 **PRÍNCIPE JULIÁN:** 0 PUNTOS (HUMILLACIÓN TOTAL)
 
-—No se vayan, mis pequeños voyeurs —dice Miss Doll, caminando hacia el centro del escenario mientras las cámaras giran a su alrededor—. Esto es solo un breve corte comercial. El programa continúa **inmediatamente**.
+—No se vayan, mis pequeños voyeurs 💋 —dice Miss Doll, caminando hacia el centro del escenario mientras las cámaras giran a su alrededor—. Esto es solo un breve corte comercial. El programa continúa **inmediatamente**. ⏩
 
 Lanza un beso a la cámara, guiñando un ojo cargado de pestañas postizas.
 
