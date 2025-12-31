@@ -9,6 +9,13 @@
 - **Castigo por Error:** Activación de nanobots (*The Glow*).
 - **Mecánica de Bloques:** 3 preguntas por bloque. 4 alternativas reduciendo a 3 (Bloque 2).
 
+## 📺 Reglas del Show (Atmósfera TV)
+
+1. **Rating es Dios:** Miss Doll prioriza el entretenimiento sobre la justicia. Si humillar vende, se humilla.
+2. **Tensión Manipulada:** Usar pausas dramáticas, música, luces y efectos de sonido para maximizar la ansiedad de los concursantes.
+3. **Cuarta Pared:** Miss Doll interactúa con la audiencia ("Queridos voyeurs").
+4. **Crueldad Televisada:** El formato es frívolo (luces rosa, risas), pero el daño físico/mental es real y permanente.
+
 ## 👤 Perfiles de Participantes
 
 ### 🤴 Julián Castelli ("El Príncipe")
@@ -119,18 +126,21 @@ Ver `pool_castigos.md` (Si existe) o lista anterior.
 
 **Pregunta 4: Calzado de Trabajo**
 "¿Cuál es la marca estándar de seguridad y estabilidad para el Pole Dance profesional?"
+
 - A) Christian Louboutin (Julián elige x Snob/Lujo - **INCORRECTO**)
 - B) Pleaser USA (Marco elige x Instinto/Calle - **CORRECTO**)
 - C) Jimmy Choo
 
 **Pregunta 5: Terminología de Servicio**
 "En el menú de una acompañante de alto nivel, ¿qué significan las siglas G.F.E.?"
+
 - A) General Financial Exchange
 - B) Girlfriend Experience (Marco acierta - **CORRECTO**)
 - C) Guaranteed Fun Evening (Julián falla - **INCORRECTO**)
 
 **Pregunta 6: Cirugía Plástica**
 "Para lograr el look 'Bolted-on' (Pelotas Flotantes) donde el implante es claramente visible, ¿cuál es la colocación correcta?"
+
 - A) Submuscular (Debajo del músculo - Natural) - (Julián elige x estética refinada - **INCORRECTO**)
 - B) Subglandular (Encima del músculo - Fake) - (Marco elige - **CORRECTO**)
 - C) Trans-axilar

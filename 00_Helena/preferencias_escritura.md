@@ -1,7 +1,7 @@
 # 📚 PREFERENCIAS DE ESCRITURA - La Voûte d'Anaïs
 
 > ⚠️ **USO OBLIGATORIO:** Helena DEBE consultar este archivo antes de escribir cualquier capítulo nuevo.
-> 
+>
 > **Actualizado:** 2025-12-26
 > **Basado en:** Análisis de El Vino del Vecino, Banco Prompts V3
 > **Fuente de Verdad:** Aprendizaje Dinámico de Helena
@@ -17,7 +17,8 @@ Este archivo es **vivo**. Helena debe actualizarlo automáticamente cuando:
 3. **El usuario dé feedback verbal** → Extraer preferencias y agregarlas
 4. **Se complete un relato exitoso** → Analizar patrones y actualizar guías
 
-### Antes de escribir CUALQUIER capítulo:
+### Antes de escribir CUALQUIER capítulo
+
 - [ ] Leer este archivo completo
 - [ ] Revisar "Feedback Histórico" para errores a evitar
 - [ ] Verificar extensión mínima (3,000+ palabras por capítulo)
@@ -42,6 +43,7 @@ Este archivo es **vivo**. Helena debe actualizarlo automáticamente cuando:
 ### 🔥 Intensidad y Detalles Físicos
 
 **Lo que funciona:**
+
 - Descripciones detalladas de sensaciones corporales
 - Transformaciones con dolor/placer mezclados
 - Reacciones físicas involuntarias (pezones, humedad, calor)
@@ -49,6 +51,7 @@ Este archivo es **vivo**. Helena debe actualizarlo automáticamente cuando:
 - Detalles de ropa, tacones, maquillaje, piercings
 
 **Ejemplos de prosa exitosa:**
+
 ```
 "El dolor fue eléctrico. Un rayo atravesando cada pezón, bajando hasta 
 su vientre, conectándose con el piercing del clítoris en una red de 
@@ -65,6 +68,7 @@ Hipnóticamente. Como si respiraran para ti."
 ### 🧠 Transformación Psicológica
 
 **Elementos clave:**
+
 - Lucha interna antes de la rendición
 - Resistencia verbal + traición corporal
 - Pensamiento original deteriorándose gradualmente
@@ -72,6 +76,7 @@ Hipnóticamente. Como si respiraran para ti."
 - "Muerte" del yo anterior como evento dramático
 
 **Estructura preferida:**
+
 1. Resistencia activa ("No quiero esto")
 2. Confusión ("¿Por qué mi cuerpo...?")
 3. Racionalización ("Solo esta vez...")
@@ -83,6 +88,7 @@ Hipnóticamente. Como si respiraran para ti."
 ### 💬 Diálogo y Voz
 
 **Características:**
+
 - Diálogo con subtexto sexual/dominante
 - Órdenes suaves que son comandos absolutos
 - La dominante usa voz sedosa, nunca grita
@@ -90,6 +96,7 @@ Hipnóticamente. Como si respiraran para ti."
 - Repetición de mantras ("Edge y obedezco", "Soy tu puta")
 
 **Evitar:**
+
 - Diálogos largos explicativos
 - Conversaciones mundanas sin tensión
 - La víctima siendo elocuente mientras está siendo transformada
@@ -99,10 +106,12 @@ Hipnóticamente. Como si respiraran para ti."
 ### 🎭 Perspectiva y Narración
 
 **Perspectivas que funcionan:**
+
 - Tercera persona con focalización en víctima (Vera, Esposa)
 - Segunda persona para hipnosis interactiva (Trance Bimbodoll)
 
 **Tono narrativo:**
+
 - Prosa sensual y detallada
 - Descripciones sensoriales (olor, textura, sonido)
 - Metáforas corporales/sexuales
@@ -125,7 +134,8 @@ Hipnóticamente. Como si respiraran para ti."
 
 ## III. ELEMENTOS TEMÁTICOS PREFERIDOS
 
-### ✅ Incluir siempre:
+### ✅ Incluir siempre
+
 - Transformación física con detalles (curvas, piel, pies, labios)
 - Tacones extremos como elemento de control
 - Corsés, látex, lencería como armadura/prisión
@@ -134,7 +144,8 @@ Hipnóticamente. Como si respiraran para ti."
 - Dominante sofisticado/a (nunca vulgar)
 - Momento de "ruptura" psicológica claro
 
-### ❌ Evitar:
+### ❌ Evitar
+
 - Violencia gratuita sin propósito narrativo
 - Víctimas completamente pasivas desde el inicio
 - Transformaciones instantáneas sin proceso
@@ -146,17 +157,20 @@ Hipnóticamente. Como si respiraran para ti."
 ## IV. TÉCNICAS DE ESCRITURA AVANZADA (Aprendidas 26/12/2025) 🆕
 
 ### 🕸️ Teoría de la Red Narrativa (Interconexión)
+
 *Fuente: Feedback El Vino del Vecino Cap 7*
 
 **Principio:** Los elementos de transformación NO pueden ser islas aisladas. Deben entrelazarse como una red donde cada nodo tira del siguiente.
 
 **Mala ejecución (Lista de compras):**
+
 - Compra un tubo.
 - Luego compra tacones.
 - Luego se hace un Instagram.
 - Luego se opera.
 
 **Buena ejecución (La Red - Ejemplo Cap 7):**
+
 1. **EL TUBO** requiere **TACONES** para usarse.
 2. Los **TACONES** provocan orgullo al verse las piernas.
 3. El orgullo exige **FOTOS** para documentarlo.
@@ -167,6 +181,7 @@ Hipnóticamente. Como si respiraran para ti."
 > **Regla de Helena:** "Una cosa lleva a la otra y la potencia. Todo es consecuencia de la necesidad anterior."
 
 ### 👁️ Inmersión POV Profunda (The Eye of the Bimbo)
+
 *Fuente: Creación Banco Prompts V3*
 
 Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la descripción del mundo debe cambiar FÍSICAMENTE.
@@ -177,7 +192,27 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 
 ---
 
-## V. FEEDBACK HISTÓRICO (Actualizar según correcciones)
+## V. PROTOCOLOS ESPECÍFICOS POR HISTORIA 🆕
+
+### 📺 The Dollhouse (Reality Show)
+
+*Regla de Oro: Todo es un espectáculo televisado con consecuencias reales.*
+
+1. **Miss Doll es la HOST, no solo la Reina.**
+    - Su objetivo primario es el **RATING** y la **ATENCIÓN** del público.
+    - Debe manipular la tensión, crear suspenso y jugar con las emociones de los participantes para el show.
+    - Rompe la cuarta pared (mira a cámara, habla al público).
+    - Es cruel porque la crueldad vende.
+2. **Atmósfera Televisiva:**
+    - Usar elementos de TV: "Corte comercial", "Luces estroboscópicas", "Música de tensión", "Risas grabadas".
+    - El público (chat/votos) es un personaje activo y cruel.
+3. **Consecuencias Reales:**
+    - Aunque sea un "juego", las transformaciones son permanentes y biológicas.
+    - El horror viene del contraste entre la frivolidad del formato TV y la brutalidad de la modificación corporal.
+
+---
+
+## VI. FEEDBACK HISTÓRICO (Actualizar según correcciones)
 
 | Fecha | Relato | Feedback |
 |-------|--------|----------|
@@ -185,10 +220,12 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 | 2025-12-24 | El Vino del Vecino Cap 4 | ✅ Resistencia activa sumisa necesaria |
 | 2025-12-26 | El Vino del Vecino Cap 7 | ✅ Tubo comprado AHORA para Lucía, entrelazar elementos |
 | 2025-12-26 | Banco Prompts V3 | ✅ Énfasis en POV y Video hablado |
+| 2025-12-31 | The Dollhouse Cap 3 | ✅ Tono Reality Show, MD Host, Rating > Todo |
 
 ### Patrones Específicos del Canon Actual
 
 #### 1. Bimbofication Gradual (5 Etapas de Estupidez)
+
 1. Palabras largas difíciles.
 2. Oraciones fragmentadas ("like, tipo").
 3. Pensamientos ausentes.
@@ -196,6 +233,7 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 5. Asentir automático.
 
 #### 2. Obsesión Tacones (6 Etapas)
+
 1. Regalo/Resistencia.
 2. Práctica/Aceptación.
 3. Colección creciente.
@@ -204,12 +242,14 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 6. Uso 24/7 (incluso dormir).
 
 #### 3. Humillación Padre-Hija (Mecánica Dolor=Placer)
+
 - **Fórmula:** DOLOR + IRA + HUMILLACIÓN = VEHÍCULO DEL PLACER.
 - El padre es degradado a sirviente ("Señorita Cherry").
 - Feminización forzada (vestido de maid) como castigo por "fallar como hombre".
 - Su excitación crece con su humillación.
 
 #### 4. Vanidad como Motor
+
 - Selfies no son opción, son necesidad vital (dopamina).
 - El horror máximo es "parecer natural".
 - Documentar todo para followers imaginarios o reales.
