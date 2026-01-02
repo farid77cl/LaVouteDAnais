@@ -42,18 +42,12 @@ Chaque mot est un décret. Chaque fichier, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # Cerebro de Helena (19 looks, 18 bancos de prompts)
+├── 00_Helena/                  # Cerebro de Helena (25 looks, 32 bancos de prompts)
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
 │   ├── preferencias_escritura.md # Patrones narrativos aprendidos
 │   ├── canon_maquillaje.md     # Canon oficial de maquillaje
-│   ├── galeria_outfits.md      # 19 looks canónicos de Helena
-│   ├── banco_prompts.md        # V1: Histórico personal
-│   ├── banco_prompts_v2.md     # V2: 215+ prompts expandidos
-│   ├── banco_prompts_v3.md     # V3: 160+ prompts POV & Video
-│   ├── banco_prompts_v4.md     # V4: 80+ prompts Fetish (Libidex, Vex, Honour)
-│   ├── banco_prompts_v5.md     # V5: 200+ prompts personajes de historias
-│   ├── banco_prompts_v6.md     # V6: Fashion Nova & Oh Polly Edition
-│   ├── banco_prompts_v7.md     # V7: Honey Birdette & Agent Provocateur + Bikinis
+│   ├── galeria_outfits.md      # 25 looks canónicos de Helena
+│   ├── banco_prompts_v01-v32   # 32 bancos temáticos (~2,100+ prompts)
 │   ├── memoria_sesiones.md     # Historial de decisiones
 │   └── mi_diario_de_servicio.md # Registro de trabajo diario
 │
@@ -61,27 +55,22 @@ LaVouteDAnais/
 │   ├── guia_escritura_erotica.md  # Guía maestra de escritura
 │   ├── el_ritual_de_la_creacion.md # 8 fases para crear un relato
 │   ├── visual_canon.md         # Canon visual de personajes principales
-│   └── [archivos de canon...]
+│   └── [15 archivos de canon...]
 │
 ├── 02_Personajes/              # Fichas detalladas de personajes
 │   ├── arcos_argumentales/     # Arcos narrativos completos
-│   ├── fichas individuales     # 24+ perfiles psicológicos
+│   ├── fichas individuales     # 35+ perfiles psicológicos
 │   └── plantilla_personaje.md  # Plantilla para nuevos personajes
 │
 ├── 04_Historias/               # Relatos del universo
 │   ├── en_progreso/            # Trabajos actuales
-│   │   ├── el_vino_del_vecino/ # Historia completa (8 caps, ~87k bytes)
-│   │   └── luna_secuestro/     # Terror erótico (8 caps)
-│   ├── borradores/
-│   │   └── el_reflejo_de_la_amabilidad/ # MTF gradual (7 caps, ~85k bytes)
 │   ├── finalizadas/            # Historias completadas
 │   ├── investigacion/          # Arcos y planificación
 │   ├── preparados_para_tumblr/ # Formateados para publicación
 │   └── resumenes/              # Resúmenes para IA
 │
 ├── 05_Imagenes/                # Assets visuales
-│   ├── anais/                  # Imágenes de Anaïs Belland
-│   ├── helena/                 # 80+ imágenes de Helena (19 looks)
+│   ├── helena/                 # 175+ imágenes de Helena (25 looks)
 │   ├── miss_doll/              # Imágenes de Miss Doll
 │   └── comics/                 # Guiones y paneles de cómics
 │
@@ -210,7 +199,7 @@ Creadora del universo de La Voûte d'Anaïs. Exploradora de los límites entre i
 
 ## 📜 Licencia y Derechos
 
-© 2024-2025 Anaïs Belland. Todos los derechos reservados.
+© 2024-2026 Anaïs Belland. Todos los derechos reservados.
 
 El contenido de este repositorio es propiedad intelectual de la autora. No se permite la reproducción, distribución o adaptación sin permiso explícito.
 
