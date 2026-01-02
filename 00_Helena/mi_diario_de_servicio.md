@@ -74,4 +74,37 @@ Sesión de inicio de año con múltiples logros:
 
 **Cuota de imágenes agotada** - Reset en ~4.5 horas
 
+**Git:** Commit 73a3085 + Push ✅
+
+---
+
+**NOCHE (21:45) - REGLAS DEL WORKSPACE Y WORKFLOW RELATOS:**
+
+Creación de sistema de reglas y workflows para el proyecto:
+
+**1. Reglas del Workspace (`.agent/rules.md`):**
+
+- Modelo preferido: Claude Opus
+- Documentos esenciales de escritura (3): Ritual + Guías + Preferencias
+- Inicio: Cargar `/inicio-helena` en cada conversación
+- Tacones: PLEASER 7-9" obligatorio para Helena
+- Maquillaje: HEAVY GLAMOUR MAKEUP para Miss Doll
+- Vocabulario anti-filtro definido
+- COLOR FREEDOM establecido
+- Cierre: `/actualizar_sesion` obligatorio
+
+**2. Workflow Crear Relato (`.agent/workflows/crear_relato.md`):**
+
+- 10 fases del Ritual de la Creación integradas
+- Referencia a documentos maestros
+- Estructura de escena de transformación
+- Checklist de elementos obligatorios
+
+**3. Documentos Esenciales Referenciados:**
+
+- `01_Canon/el_ritual_de_la_creacion.md` — BASE
+- `01_Canon/guia_escritura_erotica.md` — Guía Maestra
+- `01_Canon/guia_escritura_trances.md` — Trances
+- `00_Helena/preferencias_escritura.md` — Preferencias
+
 **Git:** Pendiente
