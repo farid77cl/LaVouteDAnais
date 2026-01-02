@@ -160,10 +160,21 @@
 - **V29:** `banco_prompts_v29_motorcycle.md` — Motorcycle & Biker (50 prompts)
 - **V30:** `banco_prompts_v30_pool.md` — Pool Party & Summer (50 prompts)
 - **V31:** `banco_prompts_v31_christmas.md` — Christmas & Holidays (50 prompts)
+- **V32:** `banco_prompts_v32_party.md` — Party & Clubwear (50 prompts) ✨ NUEVO
 
 ---
 
-## ðŸ“… HISTORIAL DE SESIONES
+## 📊 Estadísticas Proyecto
+
+| Métrica | Cantidad |
+|---------|----------|
+| **Total Bancos** | 32 (V01-V32) |
+| **Total Prompts** | ~2,100+ |
+| **Imágenes Helena** | 171 (Looks 1-21) |
+
+---
+
+## 🗓️ HISTORIAL DE SESIONES
 
 ### Diciembre 2025
 

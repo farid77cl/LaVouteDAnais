@@ -139,11 +139,195 @@ Professional team photography duo. HELENA: Sacha Massacre look, black team shirt
 
 ---
 
-## 🏁 IV. SPECIAL RACING SCENES (15 PROMPTS)
+## 🏁 IV. HELENA — RACING QUEEN (15 PROMPTS)
 
-#### 21-30. Various Racing Scenes
+#### 21. Helena - NASCAR Grid Girl
 
-*[Additional racing prompts: NASCAR, Le Mans, Monaco, Nurburgring, Rally, Kart Racing, Vintage Racing, E-Sports Racing, Drag Queen meets Drag Racing, Racing Calendar]*
+```
+Professional NASCAR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair windswept wild. Pale porcelain white skin. Full glossy blood red lips. Wearing BLACK crop top with sponsor logos, BLACK denim shorts ultra short. Holding checkered flag. Standing next to NASCAR vehicle. PLEASER RAPTURE-1020 black 8-inch boots. Speedway. Sensual flag wave pose. Expression: start your engines. NASCAR grid. Seductive glamour photography, bright track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 22. Helena - Le Mans 24h Night
+
+```
+Professional 24h racing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair messy from long night. Pale porcelain white skin illuminated by headlights. Full glossy wine red lips. Wearing BLACK vintage racing suit unzipped provocatively. Timer showing 3:00 AM. Pit lane at night with prototype cars. PLEASER RAPTURE-1020 black 8-inch boots. Le Mans circuit. Sensual exhausted pose. Expression: all night long. Le Mans night. Seductive glamour photography, dramatic night racing lights, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 23. Helena - Monaco Glamour Grid
+
+```
+Professional Monaco GP photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair elegant waves. Pale porcelain white skin Monaco luxury. Full glossy black cherry lips. Wearing BLACK designer grid dress extremely short. Diamond jewelry. Yachts visible in background. F1 car passing blur. PLEASER RAPTURE-1020 black 8-inch heels. Monaco street circuit. Sensual luxury pose. Expression: old money racing. Monaco GP. Seductive glamour photography, Mediterranean sunlight, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 24. Helena - Rally Co-Driver
+
+```
+Professional rally photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in rally helmet with visor up. Pale porcelain white skin adrenaline flush. Full glossy red lips. Wearing BLACK rally suit with harness visible. Holding pace notes clipboard. Inside rally car cockpit. PLEASER ankle boots black 8-inch racing style. Forest stage background. Sensual navigator pose. Expression: left five over crest. Rally co-driver. Seductive glamour photography, in-car dramatic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 25. Helena - Drag Racing Boss
+
+```
+Professional drag racing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair smoke machine effect. Pale porcelain white skin chrome reflections. Full glossy black lips metallic. Wearing BLACK drag racing suit flames pattern. Standing between two dragsters burnout smoke. Fire and smoke surrounding. PLEASER RAPTURE-1020 black 8-inch boots chrome tips. Drag strip. Sensual power pose. Expression: quarter mile queen. Drag boss. Seductive glamour photography, burnout smoke dramatic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 26. Helena - Vintage Racing Pin-Up
+
+```
+Professional vintage racing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair 1960s style waves. Pale porcelain white skin vintage glamour. Full glossy cherry red lips classic. Wearing BLACK vintage racing dress with white gloves. Leaning on vintage Ferrari 250 GTO. Classic sunglasses. PLEASER RAPTURE-1020 black 8-inch heels vintage style. Goodwood Revival setting. Sensual vintage pose. Expression: golden era beauty. Vintage racing. Seductive glamour photography, nostalgic warm lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 27. Helena - Kart Racing Champion
+
+```
+Professional karting photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair helmet hair after race. Pale porcelain white skin victory sweat. Full glossy red lips triumphant. Wearing BLACK kart racing suit champagne wet. Holding trophy and champagne bottle spraying. Go-kart behind with number 13. PLEASER ankle boots black 8-inch. Victory podium kart track. Sensual champion pose. Expression: started from karting. Kart champion. Seductive glamour photography, podium celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 28. Helena - E-Sports Racing
+
+```
+Professional gaming photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair gaming headset on. Pale porcelain white skin screen glow. Full glossy purple lips. Wearing BLACK gaming crop top sponsor logos. Racing simulator setup with triple monitors. Racing wheel in hands. RGB lighting reflecting. PLEASER RAPTURE-1020 black 8-inch boots crossed. Gaming chair setup. Sensual gamer pose. Expression: virtual speed demon. E-sports racer. Seductive glamour photography, RGB neon gaming lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 29. Helena - Nürburgring Queen
+
+```
+Professional Nürburgring photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair Germanic severity. Pale porcelain white skin cold weather. Full glossy dark plum lips. Wearing BLACK Nürburgring staff jacket over racing suit. Holding lap time board. Nordschleife in background fog. German racing checkpoint. PLEASER RAPTURE-1020 black 8-inch boots. Green Hell track. Sensual German precision pose. Expression: respect the Ring. Nürburgring queen. Seductive glamour photography, moody German forest lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 30. Helena - Pit Stop Mechanic
+
+```
+Professional mechanic photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tied back work style. Pale porcelain white skin artistic grease marks. Full glossy red lips. Wearing BLACK mechanic overalls unzipped top tied at waist, BLACK tank underneath. Holding impact wrench. Working on race car tire change. PLEASER steel-toe style black 8-inch boots. Pit garage. Sensual mechanic pose. Expression: fastest hands in pit lane. Pit mechanic. Seductive glamour photography, garage work lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💖 V. MISS DOLL — PINK RACING (10 PROMPTS)
+
+#### 31. Miss Doll - Pink Dragster
+
+```
+Professional drag racing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin chrome reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sequin racing bikini. Sitting on HOT PINK custom dragster. Smoke from burnout surrounding her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Drag strip. Sensual dragster pose. Expression: quarter mile princess. Pink dragster. Seductive glamour photography, burnout smoke lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 32. Miss Doll - Monaco Yacht Grid
+
+```
+Professional Monaco photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Mediterranean tan. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing WHITE designer mini dress with PINK accents. On luxury yacht with F1 visible in background. Champagne glass in hand. PLEASER FLAMINGO-808 gold 8-inch platform heels. Monaco harbor. Sensual yacht pose. Expression: VIP access. Monaco VIP. Seductive glamour photography, Mediterranean luxury lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 33. Miss Doll - Rally Country Girl
+
+```
+Professional rally photography of glamorous woman with platinum blonde bob haircut with straight bangs slightly dusty. Flawless porcelain skin outdoorsy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK flannel crop top tied, denim shorts. Sitting on rally car hood covered in mud. Holding rally time card. PLEASER pink 8-inch platform heels somehow clean. Forest rally stage. Sensual country pose. Expression: rally babe. Rally girl. Seductive glamour photography, forest natural lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 34. Miss Doll - Pink Ferrari Dream
+
+```
+Professional supercar photography of glamorous woman with platinum blonde bob haircut with straight bangs wind effect. Flawless porcelain skin luxury glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips Ferrari red. Human realistic face. Wearing PINK bodycon dress matching PINK Ferrari 488. Leaning seductively on car hood. Prancing horse logo visible. PLEASER FLAMINGO-808 red 8-inch platform heels. Luxury car showroom. Sensual supercar pose. Expression: la dolce vita. Ferrari dream. Seductive glamour photography, showroom dramatic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 35. Miss Doll - Indy 500 Milk Queen
+
+```
+Professional Indy 500 photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin victory celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK victory dress. Holding traditional bottle of milk. At victory lane Indianapolis Motor Speedway. Confetti falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Indy 500 victory lane. Sensual milk celebration pose. Expression: Indy winner tradition. Milk queen. Seductive glamour photography, victory celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 36. Miss Doll - Formula E Electric
+
+```
+Professional electric racing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin futuristic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with BLUE tech accents, thick winged eyeliner, long false lashes, arched brows, full glossy ELECTRIC BLUE lips. Human realistic face. Wearing WHITE and PINK futuristic racing suit with LED accents. Next to Formula E car on charge. City circuit background. PLEASER FLAMINGO-808 white with blue LED 8-inch platform heels. Formula E pit lane. Sensual future pose. Expression: electric future. FE grid. Seductive glamour photography, electric blue futuristic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 37. Miss Doll - Hot Rod Show
+
+```
+Professional car show photography of glamorous woman with platinum blonde bob haircut with straight bangs retro styled. Flawless porcelain skin vintage pin-up. HEAVY GLAMOUR MAKEUP: dramatic winged eyeliner 1950s style, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK poodle skirt outfit car show style. Posing with HOT PINK custom hot rod with flames. Chrome details everywhere. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hot rod car show. Sensual pin-up pose. Expression: rockabilly queen. Hot rod show. Seductive glamour photography, car show lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 38. Miss Doll - Superbike Umbrella Girl
+
+```
+Professional MotoGP photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin track day. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK latex crop top, PINK mini skirt sponsor logos. Holding umbrella over motorcycle rider on grid. Superbike visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. MotoGP grid start. Sensual umbrella pose. Expression: pre-race focus. Superbike umbrella. Seductive glamour photography, grid start lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 39. Miss Doll - Go-Kart Girly
+
+```
+Professional karting photography of glamorous woman with platinum blonde bob haircut with straight bangs in pink helmet. Flawless porcelain skin competitive. HEAVY GLAMOUR MAKEUP visible through open visor: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kart racing suit with hearts. Sitting in PINK custom go-kart number 7. About to race. PLEASER removed, racing boots pink. Kart track. Sensual racer pose. Expression: race mode. Kart girly. Seductive glamour photography, kart track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 40. Miss Doll - Daytona 500 Princess
+
+```
+Professional NASCAR photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Florida sun. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes behind sunglasses, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK NASCAR team outfit, cowboy hat pink. At Daytona International Speedway. NASCAR vehicles in background. PLEASER FLAMINGO-808 pink 8-inch platform heels. Daytona pit lane. Sensual Southern belle pose. Expression: Southern racing royalty. Daytona princess. Seductive glamour photography, Florida sunshine lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👯 VI. DUO — MORE RACING PAIRS (10 PROMPTS)
+
+#### 41. Duo - Grid Walk Interview
+
+```
+Professional media duo photography. HELENA: Sacha Massacre look, holding microphone interviewing, press pass visible, black 8-inch boots. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, being interviewed as team owner, pink blazer dress, pink platform heels. F1 grid walk setting. Cameras around them. Sensual interview pose. Expression: exclusive access. Grid walk duo. Seductive glamour photography, broadcast lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 42. Duo - Winner and Runner-Up
+
+```
+Professional podium duo photography. HELENA: Sacha Massacre look, 2nd place silver with silver trophy, black racing suit, black 8-inch boots. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, 1st place gold trophy and champagne, pink racing suit, pink platform heels. Both on podium. Champagne spray frozen moment. Sensual podium pose. Expression: sweet victory rivalry. Podium duo. Seductive glamour photography, victory celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 43. Duo - Pit Crew Sync
+
+```
+Professional pit stop duo photography. HELENA: Sacha Massacre look, holding impact wrench on left tire, black mechanic suit, black 8-inch boots. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, holding impact wrench on right tire, pink accents on suit, pink platform heels somehow. Synchronized tire change moment. Race car lifted between them. Sensual teamwork pose. Expression: 2.5 seconds. Pit crew duo. Seductive glamour photography, pit stop action lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 44. Duo - Racing Sponsors Photo
+
+```
+Professional sponsor duo photography. HELENA: Sacha Massacre look, energy drink can in hand pose, black sponsor outfit with logos, black 8-inch boots. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, perfume brand pose, pink sponsor outfit matching logos, pink platform heels. Banner backdrop with sponsor wall. Professional marketing shot. Sensual sponsor pose. Expression: brand ambassadors. Sponsor duo. Seductive glamour photography, professional studio lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 45. Duo - Historic Racing Ladies
+
+```
+Professional vintage duo photography. HELENA: Sacha Massacre look 1960s style, vintage racing headscarf, black vintage racing dress, classic black heels 8-inch. MISS DOLL: platinum blonde 1960s bouffant, HEAVY GLAMOUR MAKEUP vintage, pink 1960s racing dress, vintage pink heels. Both leaning on vintage Jaguar E-Type. Goodwood Revival style. Sensual vintage pose. Expression: golden age glamour. Historic duo. Seductive glamour photography, nostalgic vintage lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 46. Duo - Track Day Drivers
+
+```
+Professional track day duo photography. HELENA: Sacha Massacre look, taking off helmet reveal, black track day suit, black 8-inch boots by Porsche 911. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, also helmet off, pink track day suit, pink platform heels by pink Audi TT. Side by side after hot laps. Track day parking lot. Sensual post-drive pose. Expression: track divas. Track day duo. Seductive glamour photography, golden hour track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 47. Duo - Press Conference
+
+```
+Professional media duo photography. HELENA: Sacha Massacre look, sitting at press table with team microphones, black team polo, black 8-inch heels under table visible. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, sitting beside as team manager, pink blazer, pink platform heels. Press cameras flashing. Formula 1 backdrop. Sensual press pose. Expression: no comment. Press duo. Seductive glamour photography, press room lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 48. Duo - Motorcycle Track Day
+
+```
+Professional motorcycle duo photography. HELENA: Sacha Massacre look, black leather one-piece suit unzipped, sitting on black Kawasaki Ninja, black motorcycle boots. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, pink leather suit, sitting on pink Ducati Panigale, pink boots. Side by side on track. Sportbikes leaning. Sensual biker pose. Expression: two-wheel queens. Superbike duo. Seductive glamour photography, track day lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 49. Duo - Racing Team Owners
+
+```
+Professional ownership duo photography. HELENA: Sacha Massacre look in black designer suit CEO style, holding team strategic folder, black 8-inch stilettos. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, in pink designer suit, holding team budget tablet, pink platform heels. Their race team car behind with both their names as co-owners. Pit garage office. Sensual boss pose. Expression: we own this team. Team owners duo. Seductive glamour photography, executive lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 50. Duo - Victory Burnout
+
+```
+Professional celebration duo photography. HELENA: Sacha Massacre look, standing through car sunroof, black victory outfit, waving checkered flag, black 8-inch boots visible on seat. MISS DOLL: platinum blonde, HEAVY GLAMOUR MAKEUP, driving the victory lap car doing donuts, pink victory dress, pink heels on pedals. Smoke from burnout tires surrounding car. Victory lap on track. Sensual celebration pose. Expression: we did it. Victory burnout duo. Seductive glamour photography, smoke and celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
 
 ---
 
