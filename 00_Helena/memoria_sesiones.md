@@ -147,7 +147,19 @@
 - **V16:** `banco_prompts_v16_corsets.md` â€” Dark Garden Corsets (50 prompts)
 - **V17:** `banco_prompts_v17_pov.md` â€” POV Collection (50 prompts)
 - **V18:** `banco_prompts_v18_pole.md` â€” Pole Wear (50 prompts)
-- **V19:** `banco_prompts_v19_gym.md` â€” Gym & Fitness (50 prompts)
+- **V19:** `banco_prompts_v19_gym.md` — Gym & Fitness (50 prompts)
+- **V20:** `banco_prompts_v20_bridal.md` — Bridal & Wedding (55 prompts)
+- **V21:** `banco_prompts_v21_polewear.md` — Pole Wear (50 prompts)
+- **V22:** `banco_prompts_v22_halloween.md` — Halloween & Horror (50 prompts)
+- **V23:** `banco_prompts_v23_vintage_pinup.md` — Vintage Pin-Up (50 prompts)
+- **V24:** `banco_prompts_v24_cyberpunk.md` — Cyberpunk & Futuristic (50 prompts)
+- **V25:** `banco_prompts_v25_medical.md` — Medical & Nurse (50 prompts)
+- **V26:** `banco_prompts_v26_racing.md` — Racing & Pit Girls (50 prompts)
+- **V27:** `banco_prompts_v27_religious.md` — Religious Iconography (50 prompts)
+- **V28:** `banco_prompts_v28_asian.md` — Asian Inspired (50 prompts)
+- **V29:** `banco_prompts_v29_motorcycle.md` — Motorcycle & Biker (50 prompts)
+- **V30:** `banco_prompts_v30_pool.md` — Pool Party & Summer (50 prompts)
+- **V31:** `banco_prompts_v31_christmas.md` — Christmas & Holidays (50 prompts)
 
 ---
 
@@ -227,15 +239,20 @@
 
 ---
 
-**31/12 - Reality Show Rewrite**
-
-- **The Dollhouse Cap 3:** Completamente reescrito (Tono Trash TV).
-- **Protocolos:** Host con Emojis, Patrocinio "Pink Lobotomy", Votación Strawpoll estandarizada.
-- **Marco:** Transformación sensorial ("Piel de Porcelana" via tacto).
-
 ---
 
-*Última actualización: 2025-12-31 12:30*
+### Enero 2026
+
+**02/01 - Normalización y Expansión Masiva de Prompts**
+
+- **Normalización V01-V07:** Archivos renombrados y títulos internos corregidos.
+- **Expansión V20 Bridal:** De 25 a 55 prompts (+30 lencería/noche de bodas).
+- **Creación V22-V31:** 10 nuevos bancos temáticos creados (~500 prompts total).
+- **Formato Vertical:** Aplicado a TODOS los bancos de prompts del repositorio.
+- **Boda Helena & Miss Doll:** Temática nupcial iniciada.
+- **The Dollhouse Cap 3:** HTML corregido y Master Doc creado.
+
+*Última actualización: 2026-01-02 10:45*
 
 ðŸ¦‡ Helena recuerda.
 

@@ -138,4 +138,13 @@ Creado documento maestro ultra detallado para The Dollhouse:
 **MAÑANA (09:59) - WORKFLOW /DOLLHOUSE CREADO:**
 Nuevo workflow `.agent/workflows/dollhouse.md` para cargar contexto de The Dollhouse al inicio de cada sesión de trabajo en el reality show.
 
-**Git:** Pendiente commit y push.
+**Git:** Commit f317196 + Push ✅
+
+---
+
+#### SESIÓN - NORMALIZACIÓN Y EXPANSIÓN MASIVA DE PROMPT BANKS
+
+**MAÑANA (10:45) - NORMALIZACIÓN Y CREACIÓN DE BANCOS V22-V31:**
+Normalización de los bancos originales (V01-V07) con nombres descriptivos y actualización de sus metadatos internos. Expansión significativa del banco nupcial `banco_prompts_v20_bridal.md` añadiendo 30 prompts dedicados a lencería y noche de bodas. Creación de 10 nuevos bancos temáticos (Halloween, Vintage, Cyberpunk, Medical, Racing, Religious, Asian, Motorcycle, Pool, Christmas) con 50 prompts cada uno, siguiendo el canon de Helena y Miss Doll. Todos los prompts (~500 nuevos) fueron generados con formato vertical (`Vertical portrait orientation.`) y sin la restricción de corsé obligatorio.
+
+**Git:** Commit 7e6dbc1 + Push ✅
