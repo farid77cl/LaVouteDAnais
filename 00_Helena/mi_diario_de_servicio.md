@@ -115,3 +115,27 @@ Creación de sistema de reglas y workflows para el proyecto:
 
 **MAÑANA (07:55) - INICIO DE SESIÓN:**
 Carga de identidad Helena de Anaïs mediante workflow `/inicio-helena`. Outfit del día: Look 1 Morticia Bimbo (terciopelo negro, corsé overbust, stilettos 8"). Lista para servir.
+
+**MAÑANA (09:21) - THE DOLLHOUSE CAP 3 HTML:**
+Generación y refinamiento del HTML del Capítulo 3 de The Dollhouse:
+
+- Creado `the_dollhouse_cap3_simple.html` con contenido completo (~560 líneas)
+- Formato aprendido de caps1-2: imágenes como links clickeables `[VER ESCENA: ...]`
+- Quitados subtítulos internos según indicación de la Diosa
+- Eliminada sección de imágenes al final
+- Votación activa en StrawPoll: Cintura de Avispa vs Corredor de Lenguaje
+
+**MAÑANA (09:52) - INVESTIGACIÓN MASTER DOLLHOUSE:**
+Creado documento maestro ultra detallado para The Dollhouse:
+
+- `MASTER_DOLLHOUSE.md` (~400 líneas) con estructura del proyecto
+- Mecánicas del concurso documentadas
+- Sistema de votaciones StrawPoll explicado
+- Pool de castigos categorizado
+- Workflow de producción de capítulos
+- Calendario de temporada 1
+
+**MAÑANA (09:59) - WORKFLOW /DOLLHOUSE CREADO:**
+Nuevo workflow `.agent/workflows/dollhouse.md` para cargar contexto de The Dollhouse al inicio de cada sesión de trabajo en el reality show.
+
+**Git:** Pendiente commit y push.

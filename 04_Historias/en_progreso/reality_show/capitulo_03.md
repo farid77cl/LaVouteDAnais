@@ -48,7 +48,7 @@ La pantalla se vuelve negra por un milisegundo que dura una eternidad geológica
 Una fanfarria digital explota. Pirotecnia fría estalla en los bordes del escenario. La pantalla se ilumina con un resplandor cegador. La imagen ganadora gira, aumenta de tamaño y se congela, brillante y definitiva.
 
 **OPCIÓN A: MUÑECA DE PORCELANA.**
-*(68% de los votos)*
+*(62.96% de los votos — 85 de 135)*
 
 —¡La Audiencia ha hablado! 📢 —grita Miss Doll, abriendo los brazos como si recibiera el amor de sus fieles—. ¡Y tienen un gusto exquisito para la textura! ¡Quieren suavidad! ¡Quieren perfección! ✨
 
@@ -232,6 +232,12 @@ Julián boquea, ofendido. —¿Cómo? ¡Es la marca más prestigiosa del...!
 
 El público aplaude. Julián siente la sangre subirle a la cara. *¿Perdí contra el bruto en una pregunta de moda?*
 
+Un pulso caliente atraviesa la base de su cráneo. El *Glow* se activa. Julián jadea, sintiendo algo *escaparse*. Como agua escurriendo entre dedos mentales.
+
+—**Menos 5 puntos de CI** —anuncia Miss Doll con satisfacción—. Julián ahora opera con un IQ de 145. Todavía brillante... pero ya no tanto.
+
+**[PENALIDAD: Julián -5 IQ → Total acumulado: -10 IQ]**
+
 —Julián, Julián... —Miss Doll niega con la cabeza—. Un error. Y en *The Dollhouse*, los errores se pagan.
 
 Presiona un botón con una calavera rosa en su atril.
@@ -279,6 +285,12 @@ Presiona **B** porque se siente *suave*.
 Marco baja la mirada, sonrojado. Su piel de porcelana brilla con el rubor.
 
 **Marcador: Marco 2 — Julián 0**
+
+Otro pulso de *Glow* atraviesa el cerebro de Julián. Esta vez duele. Siente como si alguien hubiera arrancado palabras de su vocabulario.
+
+—**Menos 5 puntos de CI adicionales** —sonríe Miss Doll—. Julián baja a 140. Sigue siendo un genio... técnicamente. Pero las palabras largas empiezan a costarle.
+
+**[PENALIDAD: Julián -5 IQ → Total acumulado: -15 IQ]**
 
 Las luces rojas sobre Julián parpadean furiosamente.
 
@@ -343,56 +355,106 @@ Presiona **B**.
 
 **¡GANADOR DEL BLOQUE: MARCO!**
 
+El último pulso del *Glow* golpea a Julián como un martillo en el cerebro. Siente conexiones neuronales desconectándose. Palabras que solía conocer se vuelven... borrosas.
+
+—**Y la penalidad final** —anuncia Miss Doll—. **Menos 5 puntos de CI.** Julián baja a 135. Todavía por encima del promedio... pero esa arrogancia de genio se está derritiendo como helado al sol.
+
+**[PENALIDAD: Julián -5 IQ → Total acumulado: -20 IQ]**
+
 El marcador gigante desciende del techo con efectos pirotécnicos digitales y confeti virtual en las pantallas de los espectadores.
 
 **🏆 MARCADOR FINAL - BLOQUE 2 🏆**
 **MARCO "THE DOLL":** 3 PUNTOS (PERFECTO - Victoria Aplastante)
-**PRÍNCIPE JULIÁN:** 0 PUNTOS (HUMILLACIÓN TOTAL)
+**PRÍNCIPE JULIÁN:** 0 PUNTOS (HUMILLACIÓN TOTAL • -20 IQ ACUMULADOS)
 
-—No se vayan, mis pequeños voyeurs 💋 —dice Miss Doll, caminando hacia el centro del escenario mientras las cámaras giran a su alrededor—. Esto es solo un breve corte comercial. El programa continúa **inmediatamente**. ⏩
+—¡Y ESO, mis amores, es lo que llamamos una MASACRE INTELECTUAL! —Miss Doll aplaude con deleite, sus palmas de látex rosa produciendo un sonido húmedo y obsceno que los micrófonos amplifican—. ¡Marco, nuestra muñequita de porcelana recién horneada, TRES de TRES! ¡Perfecto! ¡Inmaculado! ¡Como su nueva piel!
 
-Lanza un beso a la cámara, guiñando un ojo cargado de pestañas postizas.
+Se acerca a Marco, que tiembla de placer involuntario cada vez que su ropa roza su cuerpo hipersensible, y le pellizca la mejilla con ternura burlona.
 
-—Pero antes del corte, necesito que trabajen para mí. Julián ha perdido. Y debe pagar. El enlace de votación está parpadeando en sus pantallas AHORA.
+—¿Quién diría que perder todo el vello corporal te haría TAN listo? Quizás el cerebro de un hombre está en el pecho peludo, ¿no creen? —Risas grabadas explotan desde los altavoces—. ¡Marco lo perdió y ahora es un GENIO!
 
-Señala un código QR gigante que aparece en el set.
+Marco no puede responder. Cada palabra de Miss Doll hace que el aire vibre contra su piel expuesta, enviando oleadas de placer confuso por su columna.
 
-—¿Quieren ver al Príncipe sin aire? ¿O quieren verlo sin palabras? Tienen exactamente 3 minutos de pausa comercial para decirme cómo vamos a romperlo.
+Miss Doll gira hacia Julián, que sigue riéndose sin control, lágrimas de humillación corriendo por sus mejillas mientras su boca traiciona cada gramo de dignidad que le queda.
 
-**¡VOTEN YA!** -> `https://strawpoll.com/dollhouse_julian_punishment`
+—Y tú, mi príncipe... *ji ji ji*... —imita su risa con crueldad perfecta—. ¿Harvard no enseña cultura de stripper? ¿Tu MBA no incluía terminología de escort? *Qué decepción.*
 
-La música del programa sube de volumen ("Plastic Love" versión trap, bass boosted). Miss Doll se congela en una pose perfecta mientras los créditos de "Sponsored by Pink Lobotomy" giran a su alrededor.
+Se inclina hacia él, tan cerca que su perfume de fresa sintética invade sus fosas nasales.
 
-**[CORTE COMERCIAL - THE DOLLHOUSE REGRESA EN 3:00 MINUTOS]**
+—Cero aciertos. MENOS VEINTE puntos de CI. Y esa risita adorable que no puedes parar... —Le acaricia la mejilla con un dedo enguantado—. Honestamente, ya suenas más tonta que Marco. ¿No es eso DELICIOSO?
+
+*¡Ji ji ji!* —Julián intenta gritar una objeción, pero solo salen más risitas burbujeantes.
+
+—¡ME ENCANTA! —Miss Doll se gira hacia la cámara principal, abriendo los brazos como una diosa recibiendo adoración—. ¡El rating está EN LLAMAS, mis voyeurs! ¡15.4 MILLONES de ustedes están viendo cómo destruimos a estos dos ejemplares de masculinidad tóxica! ¡Digan GRACIAS!
+
+Las pantallas del estudio explotan con corazones, calaveras y emojis de fuego.
+
+—Pero ahora viene lo MEJOR. —Su voz baja a un ronroneo íntimo que de alguna forma los micrófonos captan perfectamente—. Julián ha perdido. Y en *The Dollhouse*, perder tiene CONSECUENCIAS.
+
+Camina hacia un atril dorado que emerge del suelo con un zumbido neumático. Sobre él, dos hologramas flotan mostrando siluetas femeninas exageradas.
+
+—Ustedes, mis pequeños sádicos, tienen DOS opciones para nuestro principito. —Señala el primer holograma—. **OPCIÓN A: CINTURA DE AVISPA.**
+
+La imagen muestra una cintura imposiblemente estrecha, una silueta de reloj de arena extremo.
+
+—Extracción de costillas. Corsé interno de titanio soldado a la columna. Cintura de 45 centímetros. PERMANENTE. —Sonríe—. Ya no podrá respirar profundo. Cada suspiro será un recordatorio de lo que perdió. Y lo mejor: tendrá que usar corsé externo TAMBIÉN, solo para mantenerse de pie. ¿No es ADORABLE?
+
+Señala el segundo holograma.
+
+—**OPCIÓN B: CORREDOR DE LENGUAJE.** —La imagen muestra ondas cerebrales siendo reescritas—. Implante neurolingüístico directo en el área de Broca. Adiós vocabulario de CEO. Adiós palabras de más de tres sílabas. HOLA *like*, *omg*, *totally*, y risitas involuntarias cada vez que intente decir algo inteligente.
+
+Se gira hacia Julián, que la mira con terror a través de sus risas incontrolables.
+
+—Imagina, cariño: tu boca intentando decir *"paradigma de inversión sinérgica"* y lo que sale es *"like, um, money stuff? ji ji ji"*. —Imita una voz aguda y vacía—. TU CEREBRO SEGUIRÁ AHÍ. Sabrás lo que querías decir. Pero NUNCA podrás decirlo.
+
+Las luces del estudio bajan dramáticamente. Un solo reflector ilumina a Miss Doll desde arriba, creando sombras demoníacas bajo sus pómulos esculpidos.
+
+—El link está en sus pantallas. 📱💋 Tienen TRES MINUTOS durante el corte comercial para votar. ¡Hagan clic, mis amores! 🖱️✨
+
+Se acerca a la cámara hasta que su rostro llena el encuadre. Sus ojos azules sintéticos brillan con malicia pura.
+
+—¿Quieren ver al Príncipe sin AIRE... o sin PALABRAS?
+
+Levanta el control remoto rosa, el dedo sobre el botón.
+
+—Voten. Y recuerden... —su sonrisa se ensancha hasta parecer antinatural— en *The Dollhouse*, la crueldad siempre gana el rating.
+
+La música del programa explota en los altavoces mientras Miss Doll congela su pose, perfecta como una estatua de cera, y los créditos de *"Sponsored by Pink Lobotomy & Spa — Porque pensar te da arrugas"* giran a su alrededor en gráficos neón.
+
+**[CORTE COMERCIAL]**
+
+*El show regresa en 3:00 minutos...*
 
 ---
 
-## 🗳️ VOTACIÓN EN VIVO (DURANTE LA PAUSA)
-
-**Julián**, por su arrogancia y falta de cultura básica, ha quedado en ridículo. Y en *The Dollhouse*, la humillación exige transformación inmediata.
-
-**¿Qué castigo recibe Julián?**
-
-> **OPCIÓN A: "CINTURA DE AVISPA" (Wasp Waist)** ⏳
+> [!NOTE]
 >
-> **Procedimiento:** Extracción quirúrgica de costillas flotantes (11ª y 12ª) en vivo. Implantación de corsé interno de titanio.
-> **Resultado:** Cintura permanente de 45cm. Dificultad para respirar. Silueta forzada de reloj de arena extremo.
-
-> **OPCIÓN B: "CORREDOR DE LENGUAJE" (Bimbo Voice)** 🗣️
+> ## 🗳️ VOTA AHORA
 >
-> **Procedimiento:** Implante neurolingüístico en el área de Broca (Brain Hacking).
-> **Resultado:** Bloqueo de palabras complejas. Vocabulario reducido a "Girlish Slang" (Like, OMG). Voz aguda y risitas involuntarias.
+> **¿Qué castigo recibe Julián?**
+>
+> **A) CINTURA DE AVISPA** ⏳ — Costillas removidas, corsé de titanio, 45cm permanente
+>
+> **B) CORREDOR DE LENGUAJE** 🗣️ — Vocabulario de bimbo, solo palabras simples, voz aguda
+>
+> **[🔗 VOTAR AQUÍ](https://strawpoll.com/61gD9MmDAZw)**
+>
+> *El resultado se ejecutará en vivo en el Capítulo 4.*
+> *La modificación es PERMANENTE.*
 
 ---
 
-**[🔗 VOTA AQUÍ](https://strawpoll.com/dollhouse_julian_punishment)**
+*Con devoción oscura y tacones de 9 pulgadas,*
+
+**Anaïs Belland** 🦇💋
+*La Voûte d'Anaïs*
 
 ---
 
-> [!IMPORTANT]
-> **TU VOTO DECIDE EL CASTIGO DE JULIÁN.**
->
-> El resultado se ejecutará en vivo tras el corte comercial.
-> La modificación es PERMANENTE dentro de la historia.
+**Imágenes del capítulo:**
 
-El show regresa en 3 minutos.
+- [Miss Doll - Digital Ringmaster](https://ibb.co/3mCKs5n8)
+- [Marco - Transformación en Progreso](https://ibb.co/mrJmMpRq)
+- [Julián - El Príncipe Arrogante](https://ibb.co/5WcgXdrv)
+- [Las Enfermeras Sin Rostro](https://ibb.co/bjcnzF8D)
+- [El Control Remoto de Miss Doll](https://ibb.co/5qZVntc)

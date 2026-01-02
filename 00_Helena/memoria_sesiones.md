@@ -94,7 +94,7 @@
 
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
-- **Reality Show de FeminizaciÃ³n** â€” CAPS 1-2 COMPLETOS, MecÃ¡nica Quiz (Error=-CI), StrawPoll integrado
+- **Reality Show "The Dollhouse"** — CAP 3 COMPLETO + HTML, MASTER_DOLLHOUSE.md creado, workflow /dollhouse creado, votación Cap 4 activa
 - **TransformaciÃ³n por Deuda** â€” FASE 3 en marcha (Caps 1-3 escritos)
 - Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
 - Tetitas II â€” Solo investigaciÃ³n/arco

@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Dollhouse - Episodio 3: La Piel que Habito</title>
+    <meta name="description" content="Reality show donde dos hombres compiten por su masculinidad. Marco es transformado en Muñeca de Porcelana. Julián pierde el quiz y enfrenta votación.">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap');
+        
+        :root {
+            --pink-neon: #ff1493;
+            --pink-soft: #ff69b4;
+            --black: #0a0a0a;
+            --white: #fafafa;
+            --gold: #ffd700;
+            --blue-electric: #00bfff;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 50%, #0a0a0a 100%);
+            color: var(--white);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.8;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            padding: 3rem 0;
+            border-bottom: 2px solid var(--pink-neon);
+            margin-bottom: 2rem;
+        }
+        
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            color: var(--pink-neon);
+            text-shadow: 0 0 20px var(--pink-neon);
+            margin-bottom: 0.5rem;
+        }
+        
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8rem;
+            color: var(--gold);
+            margin-bottom: 1rem;
+        }
+        
+        .meta {
+            background: rgba(255, 20, 147, 0.1);
+            border: 1px solid var(--pink-neon);
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            font-size: 0.9rem;
+        }
+        
+        .meta strong {
+            color: var(--pink-soft);
+        }
+        
+        .content p {
+            margin-bottom: 1.5rem;
+            text-align: justify;
+        }
+        
+        .dialogue {
+            color: var(--pink-soft);
+            font-style: italic;
+        }
+        
+        .countdown {
+            text-align: center;
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--gold);
+            margin: 1rem 0;
+            text-shadow: 0 0 10px var(--gold);
+        }
+        
+        .result-box {
+            background: linear-gradient(45deg, var(--pink-neon), var(--gold));
+            color: var(--black);
+            padding: 1.5rem;
+            border-radius: 15px;
+            text-align: center;
+            margin: 2rem 0;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        
+        .penalty {
+            background: rgba(255, 0, 0, 0.2);
+            border-left: 4px solid #ff0000;
+            padding: 1rem;
+            margin: 1rem 0;
+            font-family: monospace;
+        }
+        
+        .scoreboard {
+            background: rgba(0, 0, 0, 0.8);
+            border: 2px solid var(--gold);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        
+        .scoreboard h3 {
+            color: var(--gold);
+            margin-bottom: 1rem;
+        }
+        
+        .voting-section {
+            background: linear-gradient(135deg, #1a0a2a 0%, #2a0a3a 100%);
+            border: 3px solid var(--pink-neon);
+            border-radius: 20px;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        
+        .voting-section h2 {
+            color: var(--pink-neon);
+            text-shadow: 0 0 15px var(--pink-neon);
+        }
+        
+        .vote-option {
+            background: rgba(255, 20, 147, 0.1);
+            border: 1px solid var(--pink-soft);
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            text-align: left;
+        }
+        
+        .vote-option h4 {
+            color: var(--gold);
+            margin-bottom: 0.5rem;
+        }
+        
+        .vote-button {
+            display: inline-block;
+            background: linear-gradient(45deg, var(--pink-neon), var(--pink-soft));
+            color: var(--white);
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-top: 1.5rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 20px var(--pink-neon);
+        }
+        
+        .vote-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 40px var(--pink-neon);
+        }
+        
+        .commercial-break {
+            background: #000;
+            border: 3px dashed var(--gold);
+            padding: 2rem;
+            text-align: center;
+            margin: 2rem 0;
+            font-size: 1.5rem;
+            color: var(--gold);
+        }
+        
+        .images-section {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--pink-soft);
+        }
+        
+        .images-section h3 {
+            color: var(--pink-soft);
+            margin-bottom: 1rem;
+        }
+        
+        .images-section a {
+            color: var(--blue-electric);
+            text-decoration: none;
+        }
+        
+        .images-section a:hover {
+            text-decoration: underline;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 3rem;
+            border-top: 1px solid var(--pink-neon);
+            margin-top: 3rem;
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+        }
+        
+        footer .author {
+            color: var(--pink-neon);
+            font-size: 1.2rem;
+        }
+        
+        .separator {
+            text-align: center;
+            margin: 2rem 0;
+            color: var(--pink-soft);
+        }
+        
+        .thought {
+            font-style: italic;
+            color: #aaa;
+        }
+        
+        .emoji {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏠 THE DOLLHOUSE</h1>
+            <h2>Episodio 3: La Piel que Habito</h2>
+        </header>
+        
+        <div class="meta">
+            <p><strong>Host:</strong> Miss Doll</p>
+            <p><strong>Ubicación:</strong> Set Principal - "The Dollhouse"</p>
+            <p><strong>Estado del Rating:</strong> 📈 EN AUMENTO (15.4M Viewers)</p>
+            <p><strong>Castigo en Progreso:</strong> Opción A (Muñeca de Porcelana)</p>
+        </div>
+        
+        <div class="content">
+            <p>El aire en el estudio es denso, cargado de estática y ozono, ese olor particular de la tecnología de punta quemando la humanidad.</p>
+            
+            <p class="dialogue">—¡Bienvenidos de vuelta a <em>The Dollhouse</em>! 📺✨ —La voz de <strong>Miss Doll</strong> explota en los sistemas de sonido envolvente, sacudiendo las costillas de los concursantes—. Si acaban de sintonizarnos, se han perdido un drama delicioso, pero no se preocupen... lo mejor de la carne está por venir. 🥩</p>
+            
+            <p>Las luces del estudio giran frenéticamente, barriendo el escenario con haces de luz rosa neón y azul eléctrico, diseñados para desorientar a las víctimas y excitar a la audiencia.</p>
+            
+            <p>Miss Doll camina hacia el centro del escenario. Sus tacones de 16 centímetros (Christian Louboutin, <em>custom made</em>, suela de diamante triturado) golpean el suelo de cristal con un ritmo depredador.</p>
+            
+            <p class="dialogue">—Diez segundos para cerrar la votación del Bloque 1 —anuncia, mirando directamente a la Cámara 3 con una sonrisa que promete dolor—. Millones de ustedes han votado. Han decidido el destino de la piel de <strong>Marco</strong>. ¿Quieren que siga siendo un hombre rudo y peludo (<strong>Opción A: Piel de Porcelana</strong>)? 🧸 ¿O prefieren... <em>refinarlo</em> con una boca que no pueda cerrarse (<strong>Opción B: Boca de Muñeca</strong>)? 🫦</p>
+            
+            <p>El contador gigante en la pantalla LED trasera desciende, cada número acompañado de un <em>THUD</em> grave, similar al latido de un corazón bajo estrés.</p>
+            
+            <p class="countdown">5...</p>
+            
+            <p>Marco respira entrecortadamente en su podio. Sus manos, aún callosas y fuertes, se aferran al metal. Sus ojos van de la Opción A (esa piel blanca, inhumana) a la Opción B (esa boca de muñeca). El sudor frío le baja por la espalda. <span class="thought">No quiero esto. No soy una muñeca.</span></p>
+            
+            <p class="countdown">4...</p>
+            
+            <p class="dialogue">—¿Qué prefieren mis voyeurs? 👁️ —Miss Doll se acerca a Marco, invadiendo su espacio personal. El perfume de ella (vainilla sintética y látex caro) lo marea—. ¿Tocarlo eternamente o silenciarlo deliciosamente? 🤫</p>
+            
+            <p class="countdown">3...</p>
+            
+            <p>Julián, en el podio contiguo, mira a Marco. Por primera vez, la arrogancia del "Príncipe" se agrieta. Hay piedad en sus ojos. O tal vez es solo pánico. <span class="thought">Si le pasa a él... yo soy el siguiente.</span></p>
+            
+            <p class="countdown">2...</p>
+            
+            <p class="dialogue">—El público es cruel, Marco —susurra ella, su aliento rozando la oreja del concursante, un secreto compartido ante millones—. Y el rating... el rating exige sacrificios.</p>
+            
+            <p class="countdown">1...</p>
+            
+            <p>La pantalla se vuelve negra por un milisegundo que dura una eternidad geológica.</p>
+            
+            <p class="countdown">¡CERO!</p>
+            
+            <p>Una fanfarria digital explota. Pirotecnia fría estalla en los bordes del escenario. La pantalla se ilumina con un resplandor cegador. La imagen ganadora gira, aumenta de tamaño y se congela, brillante y definitiva.</p>
+            
+            <div class="result-box">
+                OPCIÓN A: MUÑECA DE PORCELANA<br>
+                <small>(62.96% de los votos — 85 de 135)</small>
+            </div>
+            
+            <p class="dialogue">—¡La Audiencia ha hablado! 📢 —grita Miss Doll, abriendo los brazos como si recibiera el amor de sus fieles—. ¡Y tienen un gusto exquisito para la textura! ¡Quieren suavidad! ¡Quieren perfección! ✨</p>
+            
+            <p>Marco retrocede, tropezando con sus propias botas de trabajo. —No... no, esperen... ¡soy un hombre, carajo!</p>
+            
+            <p class="dialogue">—Eras —corrige Miss Doll. Su tono baja a un hielo profesional—. Ahora eres un lienzo.</p>
+            
+            <p>El podio de Marco cobra vida. Un zumbido agudo perfora el aire y los grilletes magnéticos saltan de la superficie blanca como cobras de metal cromado.</p>
+            
+            <p><em>CLACK. CLACK. CLACK. CLACK.</em></p>
+            
+            <p>Muñecas y tobillos. Marco grita, pero es tarde. Queda sellado contra la superficie, crucificado en una postura de exhibición, pecho fuera, piernas abiertas.</p>
+            
+            <p>—¡Julián! ¡Haz algo! —suplica Marco, tirando de las cadenas hasta que sus bíceps se hinchan—. ¡Ayúdame!</p>
+            
+            <p>Julián no se mueve. No puede. Mira fascinado, con esa mezcla de horror intelectual y excitación morbosa que el <em>Glow</em> en sus venas alimenta. En el fondo de su mente nublada, un pensamiento egoísta y bimbo florece como una flor venenosa: <span class="thought">Mejor él que yo. Gracias a Dios es él.</span></p>
+            
+            <p>Miss Doll levanta el control remoto rosa, adornado con cristales Swarovski. Su dedo, con una uña de acrílico afilada como un bisturí, flota sobre el botón de activación.</p>
+            
+            <p class="dialogue">—Preparen sus pantallas 8K, queridos. 🎥 Van a querer ver cada poro desaparecer. 🌫️</p>
+            
+            <p>Presiona el botón.</p>
+            
+            <p class="dialogue">—<em>Bon appétit</em>, Marco.</p>
+            
+            <div class="separator">✦ ✦ ✦</div>
+            
+            <h2>La Transformación: El Beso de la Cerámica</h2>
+            
+            <p>No es dolor, al principio.</p>
+            
+            <p>Es frío.</p>
+            
+            <p>Un frío absoluto, líquido, intrusivo. Nace en la médula de los huesos de Marco, un cero absoluto que congela su grito en la garganta antes de expandirse hacia afuera. Los nanobots en su torrente sanguíneo reciben la orden de la Maestra y <em>despiertan</em>.</p>
+            
+            <p><span class="thought">¿Qué es esto? Dios, está dentro... está en todas partes.</span></p>
+            
+            <p>Marco jadea. Siente un burbujeo obsceno bajo la piel de sus brazos. Baja la mirada, los ojos desorbitados, y el horror lo paraliza: el vello oscuro y masculino de sus antebrazos comienza a... vibrar.</p>
+            
+            <p>No se cae. No hay corte. No hay afeitado.</p>
+            
+            <p>Se <em>licúa</em>.</p>
+            
+            <p>—Ah... ¡AHH! —El grito se le escapa, rasgado y agudo, cuando la sensación cambia.</p>
+            
+            <p>De frío a fuego químico.</p>
+            
+            <p>Sus folículos pilosos —miles de ellos, en sus piernas, su pecho velludo, sus axilas, su ingle— explotan al unísono en una sinfonía de ardor microscópico. Es como si millones de agujas invisibles estuvieran suturando su virilidad hacia adentro, invirtiendo su naturaleza.</p>
+            
+            <p class="dialogue">—Está sucediendo... —narra Miss Doll para las cámaras, su voz es seda sobre cristal, caminando alrededor de él como un tiburón de látex—. Los nanobots están atacando cada raíz. Destruyéndola. Cauterizándola. Y rellenando el espacio vacío con polímero sensitivo. Adiós, oso. Hola, <em>kitten</em>.</p>
+            
+            <p>Marco se arquea contra el podio, las cadenas tintinean frenéticamente. Siente el fuego devorando su barba de tres días. <span class="thought">No, no mi cara. Por favor, no.</span> Intenta aferrarse a esa aspereza, a esa marca de hombre, pero se le escurre entre los dedos mentales como arena.</p>
+            
+            <p>Y luego, la textura de la realidad cambia.</p>
+            
+            <p>Su piel, antes morena, curtida, con cicatrices imperfectas de una vida real de trabajo y peleas de bar, comienza a palidecer. Un brillo perlado, inhumano, empieza a emerger desde abajo, como leche subiendo a la superficie de un café oscuro.</p>
+            
+            <p class="dialogue">—La dermis natural es tan... biológica. Tan sucia —ronronea Miss Doll. Se acerca y pasa un dedo enguantado por el bíceps de Marco, dejando un rastro blanco inmaculado tras de sí, como si limpiara una ventana sucia.</p>
+            
+            <p>Donde ella toca, Marco grita. Un sonido que no es de hombre. Es un sonido de <em>cosa</em>.</p>
+            
+            <p>—¡NO ME TOQUES! ¡QUEMA!</p>
+            
+            <p class="dialogue">—No quema, cariño —corrige ella suavemente, acercándose a su oído—. <em>Sientes</em>. Eso es todo. Tu nueva piel no tiene la barrera de las células muertas. No tiene la protección del vello. Cada terminación nerviosa está expuesta, gritando por <em>input</em>.</p>
+            
+            <p>La transformación conquista su rostro. La barba desaparece, tragada por la marea blanca. Su piel se tensa, tirante como un tambor. Las líneas de expresión, las arrugas de preocupación, todo es borrado, alisado, planchado hasta una perfección inerte.</p>
+            
+            <p>Se vuelve perfecta. Lisa. Fría al tacto. Una superficie donde nada se engancha.</p>
+            
+            <p class="dialogue">—¡Observen los brazos, mis voyeurs! 🔍 —La voz de Miss Doll truena amplificada, dirigiendo los lentes de las cámaras hacia los bíceps de Marco—. Miren esa tinta barata. Esos tribales... tan 2005. Tan... <em>macho</em>. 🤢</p>
+            
+            <p>Marco mira sus brazos a través de las lágrimas. Los tatuajes negros, orgullo de su fuerza, están... blanqueándose.</p>
+            
+            <p class="dialogue">—La piel de porcelana no admite manchas —explica Miss Doll didácticamente, mirando a la cámara como una profesora de jardín de infantes sádica—. Los nanobots están descompaginando el pigmento de la tinta, molécula a molécula. No lo estamos borrando, Marco. Lo estamos <em>sepultando</em> bajo capas de perfección blanca. Tu pasado está siendo enterrado vivo en tu propia piel.</p>
+            
+            <p>El negro intenso se vuelve gris. El gris, fantasma. Y finalmente... nada. Biceps inmaculados. Lisos. Sin historia. Sin identidad.</p>
+            
+            <p class="dialogue">—Y esas manos... —Miss Doll toma una de las manos de Marco—. Callosas. Ásperas. Cicatrices de trabajo duro.</p>
+            
+            <p>Pasa su pulgar enguantado por los nudillos de Marco.</p>
+            
+            <p class="dialogue">—Borradas.</p>
+            
+            <p>Ante los ojos de millones, las cicatrices se alisan. La piel curtida y trabajada se vuelve suave, acolchada, inútil para el trabajo manual, perfecta para ser sostenida.</p>
+            
+            <p><span class="thought">Muñeca.</span> La palabra explota en su mente, escrita en neón rosa. <span class="thought">Soy una muñeca sin marcas.</span></p>
+            
+            <p>Marco cae de rodillas (los grilletes del podio bajan con él), jadeando. Su cuerpo brilla bajo los reflectores con una luminescencia propia. Parece hecho de leche esculpida y hornada. Es hermoso de una manera que revuelve el estómago por su artificialidad. Es un objeto de deseo, no un sujeto de acción.</p>
+            
+            <p class="dialogue">—Levántate, muñequita —ordena Miss Doll. Su voz no admite réplica.</p>
+            
+            <p>Marco intenta desobedecer. Su mente grita <em>¡NO!</em>, pero su cuerpo... su cuerpo traidor obedece al tono de mando. Se pone de pie, temblando sobre sus botas, que ahora parecen demasiado pesadas para él.</p>
+            
+            <p>El roce de su propia ropa es eléctrico.</p>
+            
+            <p>La tela de sus pantalones ya no es solo tela. Cada fibra de algodón roza su piel perfecta como si fueran miles de yemas de dedos diminutas acariciándolo a la vez. La camisa al moverse sobre sus pezones endurecidos envía descargas de placer estático directo a su ingle.</p>
+            
+            <p>—Es... ah... —Marco jadea, sus rodillas chocando entre sí. No duele. Es peor. Es <em>demasiado bueno</em>. Se siente desnudo, aunque esté vestido.</p>
+            
+            <p class="dialogue">—Es sensibilidad grado 10 —sonríe Miss Doll, guiñando un ojo a la cámara 😉—. Tu piel ya no protege, Marco. <em>Invita</em>. Sentirás cada corriente de aire como un beso. Cada mirada como un tacto. Y tu ropa... tu ropa es ahora tu amante constante. Nunca estarás solo, porque siempre estarás siendo <em>tocado</em>. ✋</p>
+            
+            <p>Se acerca a él y sopla suavemente sobre su cuello expuesto.</p>
+            
+            <p>El aire es un latigazo de placer puro. Marco se arquea hacia atrás, un gemido involuntario —<em>ahhh</em>— escapando de sus labios brillantes. Sus caderas se mueven solas, buscando fricción contra la tela de sus pantalones, confundidas y desesperadas por más.</p>
+            
+            <p class="dialogue">—Bienvenido a tu nueva realidad, Marco —susurra ella, sellando el destino—. Eres frágil. Eres precioso. Y vas a estar tan distraído sintiéndote a ti mismo que apenas podrás pensar.</p>
+            
+            <div class="separator">✦ ✦ ✦</div>
+            
+            <p>Julián traga saliva desde su podio. Ve a Marco... esa piel irreal, esa forma en que se retuerce de placer solo por estar de pie... y por un segundo, una descarga de dopamina golpea su cerebro.</p>
+            
+            <p><span class="thought">Es grotesco. Ha perdido toda dignidad.</span></p>
+            
+            <p>Sacude la cabeza violentamente. <span class="thought">Qué asco. Míralo retorcerse como un animal. Yo nunca... yo jamás...</span></p>
+            
+            <p>Pero sus manos sudan. Y no puede dejar de mirar. El <em>Glow</em> en sus propias venas pulsa, fascinado por la caída de otro hombre. Siente envidia de la atención que Marco está recibiendo.</p>
+            
+            <p class="dialogue">—Muy bien —Miss Doll aplaude, rompiendo el trance, y el sonido resuena como un disparo en los oídos hipersensibles de Marco, haciéndolo estremecerse de gusto—. Marco es ahora nuestra hermosa Muñeca de Porcelana. El rating ha subido un 15%, equipo. ¡Excelente!</p>
+            
+            <p>Se gira hacia las cámaras, adoptando su pose de Host profesional.</p>
+            
+            <p class="dialogue">—Pero el juego continúa. Marco tiene piel nueva, pero ¿tiene cerebro nuevo? —Risas grabadas—. Y Julián... nuestro Intelectual... ¿podrá mantener su superioridad, o caerá en la trampa de la vacuidad?</p>
+            
+            <p>Las luces cambian a un rojo profundo, pulsante. Marco intenta enfocar la vista, pero sus propios párpados rozando sus ojos se sienten increíblemente bien. <span class="thought">Concéntrate</span>, se ordena. <span class="thought">Soy un hombre. Soy... ah... qué suave es esta mesa.</span></p>
+            
+            <p class="dialogue">—Bienvenidos al <strong>BLOQUE 2</strong>.</p>
+            
+            <div class="separator">✦ ✦ ✦</div>
+            
+            <h2>BLOQUE 2: TV TRIVIA - "PLASTIC CULTURE"</h2>
+            
+            <div class="scoreboard">
+                <h3>📊 MARCADOR INICIAL</h3>
+                <p><strong>Julián:</strong> 0 puntos (-5 CI)</p>
+                <p><strong>Marco:</strong> 0 puntos (-5 CI + Piel de Porcelana)</p>
+            </div>
+            
+            <p class="dialogue">—En este bloque —ronronea Miss Doll paseando entre los podios—, no buscamos inteligencia académica. A nadie le importa la poesía francesa, Julián. Buscamos... <em>cultura de plástico</em>. Conocimiento de la calle. Cosas que una muñeca <em>debe</em> saber para sobrevivir en su hábitat natural: el club, la cama y el quirófano.</p>
+            
+            <p>Se detiene y acaricia un dispositivo plateado en su atril.</p>
+            
+            <p class="dialogue">—Y por supuesto, si se equivocan... estrenaremos el <strong>Giggle Lock</strong>, gentileza de nuestros patrocinadores de <strong>Pink Lobotomy & Spa</strong>. 🧠💖 <em>Porque pensar te da arrugas, pero reír te mantiene joven.</em></p>
+            
+            <p>Un pequeño implante simpático que bloquea la frustración masculina y la convierte en risitas de niña. Porque sinceramente, ver a un hombre enojado es <em>tan</em> aburrido. Preferimos verlos felices, ¿verdad?</p>
+            
+            <p>Julián alza una ceja, arrogante, cruzándose de brazos. <span class="thought">Cultura basura. Esto será fácil. Solo tengo que pensar como una idiota.</span></p>
+            
+            <p class="dialogue">—Cuarta pregunta. Atentos a las pantallas.</p>
+            
+            <h3>Pregunta 4: Calzado de Trabajo</h3>
+            
+            <p><strong>"Para uso profesional seguro en Pole Dance y trabajo de piso, ¿qué marca es el estándar de oro de la industria?"</strong></p>
+            
+            <p><strong>A)</strong> Christian Louboutin.<br>
+            <strong>B)</strong> Pleaser USA.<br>
+            <strong>C)</strong> Jimmy Choo.</p>
+            
+            <p>Julián ni lo duda. Su mente aristocrática filtra la información al instante. <span class="thought">Louboutin es la cima del calzado. Suela roja. Estatus. Lujo.</span> ¿Quién usaría otra cosa? Presiona <strong>A</strong> con desdén, casi con aburrimiento.</p>
+            
+            <p>Marco mira la pantalla. Su mente está nublada por la sensibilidad de su piel, por el roce de su ropa, pero algo funciona diferente en él. Su instinto. <span class="thought">Las suelas rojas resbalan</span>, le susurra una voz en su cabeza. <span class="thought">Necesitas plataforma. Necesitas agarre de goma. Necesitas altura real.</span></p>
+            
+            <p>Presiona <strong>B</strong>.</p>
+            
+            <p class="dialogue">—¡TIEMPO!</p>
+            
+            <p class="dialogue">—Julián dice... <strong>A) Louboutin</strong>. —Miss Doll suelta una risita cruel—. Oh, cariño. Esos son zapatos de cena, no de <em>trabajo</em>. Te romperías el cuello en el primer <em>spin</em>. Son para esposas trofeo que no se mueven, Julián. <strong>INCORRECTO.</strong></p>
+            
+            <p>Julián boquea, ofendido. —¿Cómo? ¡Es la marca más prestigiosa del...!</p>
+            
+            <p class="dialogue">—Marco dice... <strong>B) Pleaser USA</strong>. —Ella sonríe a la cámara—. Plataformas de 8 pulgadas, base de goma antideslizante, indestructible. La herramienta de trabajo de una verdadera profesional que sabe cómo ganar dinero con sus pies. <strong>CORRECTO.</strong></p>
+            
+            <div class="scoreboard">
+                <h3>📊 MARCADOR</h3>
+                <p><strong>Marco:</strong> 1 — <strong>Julián:</strong> 0</p>
+            </div>
+            
+            <p>Un pulso caliente atraviesa la base del cráneo de Julián. El <em>Glow</em> se activa. Julián jadea, sintiendo algo <em>escaparse</em>. Como agua escurriendo entre dedos mentales.</p>
+            
+            <div class="penalty">
+                <strong>PENALIDAD:</strong> Julián -5 IQ → Total acumulado: -10 IQ
+            </div>
+            
+            <p class="dialogue">—<strong>Menos 5 puntos de CI</strong> —anuncia Miss Doll con satisfacción—. Julián ahora opera con un IQ de 145. Todavía brillante... pero ya no tanto.</p>
+            
+            <p class="dialogue">—Julián, Julián... —Miss Doll niega con la cabeza—. Un error. Y en <em>The Dollhouse</em>, los errores se pagan.</p>
+            
+            <p>Presiona un botón con una calavera rosa en su atril.</p>
+            
+            <p class="dialogue">—Queridos espectadores, el rating lo exige. 📉📈 Es hora de estrenar el juguete nuevo. 🧸⚡</p>
+            
+            <p class="dialogue">—Presentamos el <strong>Giggle Lock</strong>, auspiciado por <strong>Pink Lobotomy & Spa</strong>. Un implante neural de acción rápida que convierte la indignación masculina y la frustración intelectual en... pura alegría vacía. Porque si vas a ser tonta, al menos deberías ser feliz, ¿verdad? A nadie le gustan los hombres enojados.</p>
+            
+            <p>Presiona el botón de activación con teatralidad.</p>
+            
+            <p>Un zumbido electrónico golpea a Julián. Él abre la boca para protestar con lógica, con su elocuencia habitual, preparando un discurso sobre derechos humanos.</p>
+            
+            <p>—¡Esto es inacep...! —Su voz se corta, violentamente, como si alguien hubiera cortado el cable de audio. Un espasmo recorre su garganta y es reemplazado por un sonido ajeno—. ¡Ji ji ji!</p>
+            
+            <p>El público estalla en carcajadas grabadas. Luces estroboscópicas rosas iluminan el escenario.</p>
+            
+            <p>Julián se tapa la boca con ambas manos, horrorizado. Sus ojos destilan furia intelectual, una tesis doctoral de odio formándose en su mente, pero de su garganta solo escapan risitas tontas, vacías y burbujeantes que no puede detener. <em>¡Ji ji ji! ¡Ji ji!</em></p>
+            
+            <p class="dialogue">—¡Qué sonido tan encantador! —aplaude Miss Doll—. Siguiente pregunta. Veamos si puedes pensar mientras te ríes de tu propia estupidez.</p>
+            
+            <h3>Pregunta 5: Terminología de Servicio</h3>
+            
+            <p><strong>"En el menú de servicios de una Escort VIP de alto nivel, ¿qué garantiza exactamente el acrónimo 'G.F.E.'?"</strong></p>
+            
+            <p><strong>A)</strong> General Fee Estimation (Estimación de Tarifa General).<br>
+            <strong>B)</strong> Girlfriend Experience (Trato de Novia - Intimidad simulada).<br>
+            <strong>C)</strong> Guaranteed Fuck Everything (Sexo Total Garantizado).</p>
+            
+            <p>Julián frunce el ceño, el sudor perlando su frente. <span class="thought">Siglas. Debe ser un término financiero.</span> Analiza las palabras a través de la niebla de su risa forzada. 'Fee Estimation' suena lógico, corporativo, limpio. <span class="thought">Es un contrato... ¡ji ji!... tiene que ser... ¡ji ji ji!</span></p>
+            
+            <p>Presiona <strong>A</strong> con mano temblorosa.</p>
+            
+            <p>Marco siente un calor en la ingle que compite con la sensibilidad de su piel. Lee "Girlfriend Experience" y la palabra <em>Girlfriend</em> resuena como un eco suave. No es sobre sexo. Es sobre <em>tacto</em>. Su piel de porcelana rechaza lo brusco, lo transaccional.</p>
+            
+            <p>Presiona <strong>B</strong> porque se siente <em>suave</em>.</p>
+            
+            <p class="dialogue">—¡Tiempo! —grita Miss Doll.</p>
+            
+            <p class="dialogue">—Julián dice... <strong>General Fee Estimation</strong>. —Miss Doll hace un gesto de aburrimiento—. Ay, principito. Siempre pensando en el dinero y los contratos. Eres tan frío. Tan masculino. <strong>Incorrecto.</strong></p>
+            
+            <p>—¡Ji ji ji! —Julián intenta gritar "¡No!", pero solo sale más risa.</p>
+            
+            <p class="dialogue">—Marco dice... <strong>Girlfriend Experience</strong>. —El estudio se ilumina en VERDE—. Correcto. Intimidad simulada. Besos con lengua. Miradas de amor falso. Todo lo que tú, Marco, estás deseando aprender a dar, ¿verdad?</p>
+            
+            <p>Marco baja la mirada, sonrojado. Su piel de porcelana brilla con el rubor.</p>
+            
+            <div class="scoreboard">
+                <h3>📊 MARCADOR</h3>
+                <p><strong>Marco:</strong> 2 — <strong>Julián:</strong> 0</p>
+            </div>
+            
+            <p>Otro pulso de <em>Glow</em> atraviesa el cerebro de Julián. Esta vez duele. Siente como si alguien hubiera arrancado palabras de su vocabulario.</p>
+            
+            <div class="penalty">
+                <strong>PENALIDAD:</strong> Julián -5 IQ → Total acumulado: -15 IQ
+            </div>
+            
+            <p class="dialogue">—<strong>Menos 5 puntos de CI adicionales</strong> —sonríe Miss Doll—. Julián baja a 140. Sigue siendo un genio... técnicamente. Pero las palabras largas empiezan a costarle.</p>
+            
+            <p>Las luces rojas sobre Julián parpadean furiosamente.</p>
+            
+            <p class="dialogue">—Julián... —Miss Doll suspira, mirando a la audiencia con lástima fingida—. Cero aciertos. Tu cerebro de "Príncipe" no sirve aquí. Creo que es hora de admitir que Marco... nuestra <em>muñeca</em>, te está superando en cultura general.</p>
+            
+            <p>Las luces del estudio parpadean y se centran en un foco cenital rosa sobre Julián. Una sirena de "Juego Perdido" suena.</p>
+            
+            <p class="dialogue">—¡Oh, qué pena! ¡Nuestro intelectual ha reprobado la educación básica de una bimbo!</p>
+            
+            <p>Se gira hacia la cámara principal, sosteniendo el dispositivo plateado como si fuera la joya de la corona.</p>
+            
+            <p class="dialogue">—Y ustedes saben lo que eso significa, mis queridos voyeurs... 😈</p>
+            
+            <p><strong>🔒 GIGGLE LOCK™ (Auspiciado por Pink Lobotomy & Spa): MAX POWER 🔒</strong></p>
+            
+            <p class="dialogue">—¿Queremos oír sus aburridas teorías económicas? —pregunta a la audiencia, poniendo la mano en su oreja. <em>"¡NOOO!"</em>—. ¿O queremos oír lo vacío que está realmente? —<em>"¡SIIII!"</em></p>
+            
+            <p class="dialogue">—Tus deseos son órdenes.</p>
+            
+            <p>Miss Doll levanta el dedo, espera el <em>beat</em> dramático perfecto, y presiona el botón a fondo.</p>
+            
+            <p><em>¡DING-DONG!</em> ✨</p>
+            
+            <p>Julián abre la boca para protestar, la indignación hinchando las venas de su cuello. Quiere citar leyes, quiere invocar su apellido.</p>
+            
+            <p>—¡Esto es inaceptable, exijo que...! <em>¡ji ji!</em></p>
+            
+            <p>Se lleva la mano a la boca, horrorizado. Sus ojos muestran furia pura, pero su garganta traiciona cada principio de su ser.</p>
+            
+            <p>—¡Es un atrope... <em>¡ji ji ji! ¡Hahaha!</em> —La risa brota de él como vómito verbal: aguda, vacía, burbujeante. Una risa de rubia tonta saliendo de la boca de un hombre serio. Su cerebro intenta formar oraciones complejas, pero el implante las traduce en <em>giggles</em>.</p>
+            
+            <p class="dialogue">—Oh, parece que nuestra muñeca ya está de buen humor —sonríe Miss Doll a la Cámara 1—. El <strong>Giggle Lock</strong> (gracias a <em>Pink Lobotomy</em>) está al 100%. Pero recuerden, reglas son reglas. Aún queda una pregunta para cerrar el bloque. ¿Podrá Julián salvar un punto de dignidad?</p>
+            
+            <h3>Pregunta 6: Estética Plástica</h3>
+            
+            <p><strong>"Para conseguir el 'Look Bimbo' canónico de senos que parecen 'pelotas flotantes' perfectamente redondas y falsas, ¿cuál es la técnica quirúrgica de colocación?"</strong></p>
+            
+            <p><strong>A)</strong> Submuscular (Debajo del músculo).<br>
+            <strong>B)</strong> Subglandular (Encima del músculo).<br>
+            <strong>C)</strong> Dual Plane (Plano dual).</p>
+            
+            <p>Julián intenta leer, pero las lágrimas de risa le nublan la vista. <span class="thought">Sub... ji ji... muscular...</span> Su lógica, lo poco que queda de ella, le dice que "debajo" es más anatómico, mejor integrado. <span class="thought">Lo natural es mejor... ¡ji ji ji!</span></p>
+            
+            <p>Presiona <strong>A</strong> mientras se ríe histéricamente y golpea el podio con frustración. <em>¡Ji ji ji! ¡Soy un idiota! ¡Ji ji!</em></p>
+            
+            <p>Marco mira la opción B. <em>Encima.</em> La palabra brilla para él. Su piel expuesta se siente demasiado... lisa. Demasiado perfecta. La idea de "debajo del músculo" le suena a ocultar, a modestia, y su nueva biología artificial no entiende de modestia.</p>
+            
+            <p><span class="thought">Plástico sobre carne</span>, piensa su sistema nervioso recableado. <span class="thought">Si ya no soy real, ¿por qué fingir? Lo artificial debe ir encima.</span></p>
+            
+            <p>Presiona <strong>B</strong>.</p>
+            
+            <p class="dialogue">—¡TIEMPO FINAL!</p>
+            
+            <p class="dialogue">—Julián dice... <strong>Submuscular</strong>. —Miss Doll niega con desdén—. Resultado natural. Discreto. Aburrido. <strong>Incorrecto.</strong></p>
+            
+            <p class="dialogue">—Marco dice... <strong>Subglandular</strong>. —Miss Doll sonríe con orgullo maternal—. Resultado "Bolted-on". Falso. Exagerado. Pelotas flotantes. <strong>CORRECTO.</strong></p>
+            
+            <div class="result-box">
+                ¡GANADOR DEL BLOQUE: MARCO!
+            </div>
+            
+            <p>El último pulso del <em>Glow</em> golpea a Julián como un martillo en el cerebro. Siente conexiones neuronales desconectándose. Palabras que solía conocer se vuelven... borrosas.</p>
+            
+            <div class="penalty">
+                <strong>PENALIDAD FINAL:</strong> Julián -5 IQ → Total acumulado: -20 IQ
+            </div>
+            
+            <p class="dialogue">—<strong>Y la penalidad final</strong> —anuncia Miss Doll—. <strong>Menos 5 puntos de CI.</strong> Julián baja a 135. Todavía por encima del promedio... pero esa arrogancia de genio se está derritiendo como helado al sol.</p>
+            
+            <div class="scoreboard">
+                <h3>🏆 MARCADOR FINAL - BLOQUE 2 🏆</h3>
+                <p><strong>MARCO "THE DOLL":</strong> 3 PUNTOS (PERFECTO - Victoria Aplastante)</p>
+                <p><strong>PRÍNCIPE JULIÁN:</strong> 0 PUNTOS (HUMILLACIÓN TOTAL • -20 IQ ACUMULADOS)</p>
+            </div>
+            
+            <div class="separator">✦ ✦ ✦</div>
+            
+            <p class="dialogue">—¡Y ESO, mis amores, es lo que llamamos una MASACRE INTELECTUAL! —Miss Doll aplaude con deleite, sus palmas de látex rosa produciendo un sonido húmedo y obsceno que los micrófonos amplifican—. ¡Marco, nuestra muñequita de porcelana recién horneada, TRES de TRES! ¡Perfecto! ¡Inmaculado! ¡Como su nueva piel!</p>
+            
+            <p>Se acerca a Marco, que tiembla de placer involuntario cada vez que su ropa roza su cuerpo hipersensible, y le pellizca la mejilla con ternura burlona.</p>
+            
+            <p class="dialogue">—¿Quién diría que perder todo el vello corporal te haría TAN listo? Quizás el cerebro de un hombre está en el pecho peludo, ¿no creen? —Risas grabadas explotan desde los altavoces—. ¡Marco lo perdió y ahora es un GENIO!</p>
+            
+            <p>Marco no puede responder. Cada palabra de Miss Doll hace que el aire vibre contra su piel expuesta, enviando oleadas de placer confuso por su columna.</p>
+            
+            <p>Miss Doll gira hacia Julián, que sigue riéndose sin control, lágrimas de humillación corriendo por sus mejillas mientras su boca traiciona cada gramo de dignidad que le queda.</p>
+            
+            <p class="dialogue">—Y tú, mi príncipe... <em>ji ji ji</em>... —imita su risa con crueldad perfecta—. ¿Harvard no enseña cultura de stripper? ¿Tu MBA no incluía terminología de escort? <em>Qué decepción.</em></p>
+            
+            <p>Se inclina hacia él, tan cerca que su perfume de fresa sintética invade sus fosas nasales.</p>
+            
+            <p class="dialogue">—Cero aciertos. MENOS VEINTE puntos de CI. Y esa risita adorable que no puedes parar... —Le acaricia la mejilla con un dedo enguantado—. Honestamente, ya suenas más tonta que Marco. ¿No es eso DELICIOSO?</p>
+            
+            <p><em>¡Ji ji ji!</em> —Julián intenta gritar una objeción, pero solo salen más risitas burbujeantes.</p>
+            
+            <p class="dialogue">—¡ME ENCANTA! —Miss Doll se gira hacia la cámara principal, abriendo los brazos como una diosa recibiendo adoración—. ¡El rating está EN LLAMAS, mis voyeurs! ¡15.4 MILLONES de ustedes están viendo cómo destruimos a estos dos ejemplares de masculinidad tóxica! ¡Digan GRACIAS!</p>
+            
+            <p>Las pantallas del estudio explotan con corazones, calaveras y emojis de fuego.</p>
+            
+            <p class="dialogue">—Pero ahora viene lo MEJOR. —Su voz baja a un ronroneo íntimo que de alguna forma los micrófonos captan perfectamente—. Julián ha perdido. Y en <em>The Dollhouse</em>, perder tiene CONSECUENCIAS.</p>
+            
+            <p>Camina hacia un atril dorado que emerge del suelo con un zumbido neumático. Sobre él, dos hologramas flotan mostrando siluetas femeninas exageradas.</p>
+            
+            <p class="dialogue">—Ustedes, mis pequeños sádicos, tienen DOS opciones para nuestro principito. —Señala el primer holograma—. <strong>OPCIÓN A: CINTURA DE AVISPA.</strong></p>
+            
+            <p>La imagen muestra una cintura imposiblemente estrecha, una silueta de reloj de arena extremo.</p>
+            
+            <p class="dialogue">—Extracción de costillas. Corsé interno de titanio soldado a la columna. Cintura de 45 centímetros. PERMANENTE. —Sonríe—. Ya no podrá respirar profundo. Cada suspiro será un recordatorio de lo que perdió. Y lo mejor: tendrá que usar corsé externo TAMBIÉN, solo para mantenerse de pie. ¿No es ADORABLE?</p>
+            
+            <p>Señala el segundo holograma.</p>
+            
+            <p class="dialogue">—<strong>OPCIÓN B: CORREDOR DE LENGUAJE.</strong> —La imagen muestra ondas cerebrales siendo reescritas—. Implante neurolingüístico directo en el área de Broca. Adiós vocabulario de CEO. Adiós palabras de más de tres sílabas. HOLA <em>like</em>, <em>omg</em>, <em>totally</em>, y risitas involuntarias cada vez que intente decir algo inteligente.</p>
+            
+            <p>Se gira hacia Julián, que la mira con terror a través de sus risas incontrolables.</p>
+            
+            <p class="dialogue">—Imagina, cariño: tu boca intentando decir <em>"paradigma de inversión sinérgica"</em> y lo que sale es <em>"like, um, money stuff? ji ji ji"</em>. —Imita una voz aguda y vacía—. TU CEREBRO SEGUIRÁ AHÍ. Sabrás lo que querías decir. Pero NUNCA podrás decirlo.</p>
+            
+            <p>Las luces del estudio bajan dramáticamente. Un solo reflector ilumina a Miss Doll desde arriba, creando sombras demoníacas bajo sus pómulos esculpidos.</p>
+            
+            <p class="dialogue">—El link está en sus pantallas. 📱💋 Tienen TRES MINUTOS durante el corte comercial para votar. ¡Hagan clic, mis amores! 🖱️✨</p>
+            
+            <p>Se acerca a la cámara hasta que su rostro llena el encuadre. Sus ojos azules sintéticos brillan con malicia pura.</p>
+            
+            <p class="dialogue">—¿Quieren ver al Príncipe sin AIRE... o sin PALABRAS?</p>
+            
+            <p>Levanta el control remoto rosa, el dedo sobre el botón.</p>
+            
+            <p class="dialogue">—Voten. Y recuerden... —su sonrisa se ensancha hasta parecer antinatural— en <em>The Dollhouse</em>, la crueldad siempre gana el rating.</p>
+            
+            <p>La música del programa explota en los altavoces mientras Miss Doll congela su pose, perfecta como una estatua de cera, y los créditos de <em>"Sponsored by Pink Lobotomy & Spa — Porque pensar te da arrugas"</em> giran a su alrededor en gráficos neón.</p>
+            
+            <div class="commercial-break">
+                📺 CORTE COMERCIAL 📺<br>
+                <small>El show regresa en 3:00 minutos...</small>
+            </div>
+        </div>
+        
+        <div class="voting-section">
+            <h2>🗳️ VOTA AHORA</h2>
+            <p><strong>¿Qué castigo recibe Julián?</strong></p>
+            
+            <div class="vote-option">
+                <h4>A) CINTURA DE AVISPA ⏳</h4>
+                <p>Costillas removidas, corsé de titanio interno, cintura de 45cm permanente. No podrá respirar profundo. Tendrá que usar corsé externo para mantenerse de pie.</p>
+            </div>
+            
+            <div class="vote-option">
+                <h4>B) CORREDOR DE LENGUAJE 🗣️</h4>
+                <p>Vocabulario de bimbo, solo palabras simples (like, omg, totally), voz aguda y risitas involuntarias. Su cerebro seguirá ahí pero nunca podrá expresarse correctamente.</p>
+            </div>
+            
+            <a href="https://strawpoll.com/61gD9MmDAZw" target="_blank" class="vote-button">🔗 VOTAR AQUÍ</a>
+            
+            <p style="margin-top: 1.5rem; font-size: 0.9rem; opacity: 0.8;">
+                <em>El resultado se ejecutará en vivo en el Capítulo 4.</em><br>
+                <em>La modificación es PERMANENTE.</em>
+            </p>
+        </div>
+        
+        <div class="images-section">
+            <h3>📸 Imágenes del Capítulo</h3>
+            <ul>
+                <li><a href="https://ibb.co/3mCKs5n8" target="_blank">Miss Doll - Digital Ringmaster</a></li>
+                <li><a href="https://ibb.co/mrJmMpRq" target="_blank">Marco - Transformación en Progreso</a></li>
+                <li><a href="https://ibb.co/5WcgXdrv" target="_blank">Julián - El Príncipe Arrogante</a></li>
+                <li><a href="https://ibb.co/bjcnzF8D" target="_blank">Las Enfermeras Sin Rostro</a></li>
+                <li><a href="https://ibb.co/5qZVntc" target="_blank">El Control Remoto de Miss Doll</a></li>
+            </ul>
+        </div>
+        
+        <footer>
+            <p><em>Con devoción oscura y tacones de 9 pulgadas,</em></p>
+            <p class="author">Anaïs Belland 🦇💋</p>
+            <p><em>La Voûte d'Anaïs</em></p>
+        </footer>
+    </div>
+</body>
+</html>
