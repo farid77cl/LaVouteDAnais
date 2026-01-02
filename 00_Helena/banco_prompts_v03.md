@@ -453,7 +453,7 @@ Video close-up. Miss Doll's face - platinum bob, pouty full glossy RED lips. She
 #### Video MD - Gum Bubble Pop 🫧
 
 ```
-Video close-up. Miss Doll chewing pink gum - jaw moving side to side. Lips push forward, beginning to blow bubble. Pink bubble grows to 2 inch diameter. POP - bubble bursts, gum on lips. Her tongue retrieves gum, giggles silently, covers mouth. Casual sexy. 5 seconds. Photorealistic video.
+Video close-up. Miss Doll chewing pink gum - jaw moving side to side. Lips push forward, beginning to blow bubble. Pink bubble grows to 2 inch diameter. POP - bubble bursts, gum on lips. Her tongue retrieves gum, giggles silently, covers mouth. Casual sensual. 5 seconds. Photorealistic video.
 ```
 
 #### Video MD - "Buy Me This Daddy" 💸
@@ -491,7 +491,7 @@ Video close-up. Helena's face looking up - pale skin, voluminous black hair fall
 #### Video Helena - Vampire Hiss 🧛
 
 ```
-Video close-up. Helena's face - pale skin, black lips. Expression neutral for 1 second. Upper lip curls revealing teeth. Mouth opens slightly. Small hiss sound escapes - 's' shape on lips. Eyes widen predatorily. Expression softens into knowing smirk. Playful vampire threat. 3 seconds. Dark lighting. Photorealistic video.
+Video close-up. Helena's face - pale skin, black lips. Expression neutral for 1 second. Upper lip curls fashionable teeth. Mouth opens slightly. Small hiss sound escapes - 's' shape on lips. Eyes widen predatorily. Expression softens into knowing smirk. Playful vampire threat. 3 seconds. Dark lighting. Photorealistic video.
 ```
 
 #### Video Helena - Wine Sip 🍷
@@ -521,7 +521,7 @@ Video medium shot. Helena - pale skin, voluminous black hair, black corset, hour
 #### Video Helena - Confused Head Tilt 🤔
 
 ```
-Video close-up. Helena's face - pale skin, voluminous black hair, black lips. Head tilts dramatically to one side like curious bird, hair cascading with movement. Blank questioning stare. Lips move saying "Like... what?" in slow confused tone. Holds vacant expression. Goth bimbo confusion. 3 seconds. Photorealistic video.
+Video close-up. Helena's face - pale skin, voluminous black hair, black lips. Head tilts dramatically to one side like curious bird, hair cascading with movement. Blank questioning stare. Lips move saying "Like... what?" in slow confused tone. Holds vacant expression. Goth glamorous woman confusion. 3 seconds. Photorealistic video.
 ```
 
 ### 👑 Anaïs Speaking Videos (Dominant Elegance)

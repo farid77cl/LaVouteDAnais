@@ -103,7 +103,7 @@ Professional photography of adult woman with platinum blonde bob. Realistic huma
 #### MD - Libidex Pencil Dress Purple 🆕
 
 ```
-Professional photography of adult woman with platinum blonde bob. Realistic human face with doll makeup. Hourglass figure. Wearing LIBIDEX PURPLE LATEX PENCIL DRESS, knee length, high slit. Purple overbust corset visible. PLEASER MOON-708 purple patent 7-inch heel, moon platform. Office pose at desk. Sensual pose with arched back, bedroom eyes. Expression: bimbo secretary confusion. Purple office. Professional photography.
+Professional photography of adult woman with platinum blonde bob. Realistic human face with doll makeup. Hourglass figure. Wearing LIBIDEX PURPLE LATEX PENCIL DRESS, knee length, high slit. Purple overbust corset visible. PLEASER MOON-708 purple patent 7-inch heel, moon platform. Office pose at desk. Sensual pose with arched back, bedroom eyes. Expression: glamorous woman secretary confusion. Purple office. Professional photography.
 ```
 
 ---
@@ -181,7 +181,7 @@ Professional fetish photography of adult woman with platinum blonde bob. Realist
 #### MD - Vex Dress Gold Metallic 🆕
 
 ```
-Professional glamour photography of adult woman with platinum blonde bob. Realistic human face with doll makeup. Hourglass figure. Wearing VEX CLOTHING GOLD METALLIC LATEX MINI DRESS, liquid gold shine. Gold underbust corset. PLEASER ADORE-1020 gold chrome 7-inch heel boots. Award show pose. Sensual pose with arched back, bedroom eyes. Expression: celebrity bimbo. Gold carpet. Professional photography.
+Professional glamour photography of adult woman with platinum blonde bob. Realistic human face with doll makeup. Hourglass figure. Wearing VEX CLOTHING GOLD METALLIC LATEX MINI DRESS, liquid gold shine. Gold underbust corset. PLEASER ADORE-1020 gold chrome 7-inch heel boots. Award show pose. Sensual pose with arched back, bedroom eyes. Expression: celebrity glamorous woman. Gold carpet. Professional photography.
 ```
 
 ### Helena - Vex

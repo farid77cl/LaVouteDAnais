@@ -12,11 +12,11 @@
 |-----------|--------|-----------|
 | **Nancy** | El Collar de Nancy | Sissy maid con máscara de silicona |
 | **Vera** | Proyecto Trad-Wife | Mecánica → trad-wife 50s |
-| **Luna** | El Trono de Luna | Goth Bimbo Dominatrix |
+| **Luna** | El Trono de Luna | Goth glamorous woman Dominatrix |
 | **Roxy** | El Vino del Vecino | MILF Cougar animal print |
-| **Cherry** | El Vino del Vecino | Stripper bimbo rubia |
+| **Cherry** | El Vino del Vecino | Stripper glamorous woman rubia |
 | **Carmen** | Tetitas | Esposa manipuladora |
-| **Jinx** | El Cuadro de Fideos | Bimbo detective |
+| **Jinx** | El Cuadro de Fideos | glamorous woman detective |
 | **Belén** | Trance de Belén | Tímida → exhibicionista |
 | **Bunny** | Trance Bimbodoll | Lectora hipnotizada |
 
@@ -190,7 +190,7 @@ Professional photography of woman, 30 years old, normal unremarkable figure, tir
 #### Luna DESPUÉS - La Diosa Cruel 🖤
 
 ```
-Professional gothic dominatrix photography. Luna transformed: voluminous black hair with side shaved showing lace tattoo from temple to neck. Pale marble skin, dramatic smokey eye makeup, glossy black lips. Exaggerated bimbo curves (defying physics). Wearing black leather corset crushing waist impossibly small, black vinyl mini skirt barely covering, black lace thigh-highs, black metal 6-inch stilettos with skull buckles. Black leather gloves. Sitting on throne (actually her couch), legs crossed, metal chain collar in hand. Sensual pose with arched back, bedroom eyes. Expression: cold cruel intelligence, slight smirk. Dark apartment with candles. Photorealistic gothic.
+Professional gothic dominatrix photography. Luna transformed: voluminous black hair with side shaved showing lace tattoo from temple to neck. Pale marble skin, dramatic smokey eye makeup, glossy black lips. Exaggerated glamorous woman curves (defying physics). Wearing black leather corset crushing waist impossibly small, black vinyl mini skirt barely covering, black lace thigh-highs, black metal 6-inch stilettos with skull buckles. Black leather gloves. Sitting on throne (actually her couch), legs crossed, metal chain collar in hand. Sensual pose with arched back, bedroom eyes. Expression: cold cruel intelligence, slight smirk. Dark apartment with candles. Photorealistic gothic.
 ```
 
 ### Luna - Key Story Scenes
@@ -198,7 +198,7 @@ Professional gothic dominatrix photography. Luna transformed: voluminous black h
 #### Luna - Ginny Grants the Wish ✨
 
 ```
-Professional fantasy photography. Living room scene: Patricio (average man) rubbing brass lamp wide-eyed. Ginny the Bimbo Genie emerging (pink smoke, bimbo genie appearance). Luna (still original form) frozen mid-argument, mouth open. Magic swirling around Luna's body as transformation begins. Supernatural transformation moment. Photorealistic with fantasy elements.
+Professional fantasy photography. Living room scene: Patricio (average man) rubbing brass lamp wide-eyed. Ginny the glamorous woman Genie emerging (pink smoke, glamorous woman genie appearance). Luna (still original form) frozen mid-argument, mouth open. Magic swirling around Luna's body as transformation begins. Supernatural transformation moment. Photorealistic with fantasy elements.
 ```
 
 #### Luna - First Domination Night 🔥
@@ -312,7 +312,7 @@ Professional photography of young woman, 21 years old, natural pretty face, mini
 #### Cherry DESPUÉS - La Stripper 💃
 
 ```
-Professional strip club photography. Same woman transformed: platinum blonde hair with extensions to waist, heavy glitter makeup, false lashes, filled lips. Enhanced breasts (implants visible, financed by dad). Deep tan. Wearing sparkly bikini top barely containing breasts, tiny shorts, clear Pleaser platforms 8-inch with lights. Glitter covering body. Pole gripped behind her. Sensual pose with arched back, bedroom eyes. Expression: vacant happy (classic bimbo), brain visibly empty. Strip club stage with pink lighting. Photorealistic.
+Professional strip club photography. Same woman transformed: platinum blonde hair with extensions to waist, heavy glitter makeup, false lashes, filled lips. Enhanced breasts (implants visible, financed by dad). Deep tan. Wearing sparkly bikini top barely containing breasts, tiny shorts, clear Pleaser platforms 8-inch with lights. Glitter covering body. Pole gripped behind her. Sensual pose with arched back, bedroom eyes. Expression: vacant happy (classic glamorous woman), brain visibly empty. Strip club stage with pink lighting. Photorealistic.
 ```
 
 ### Cherry - Key Story Scenes
@@ -338,7 +338,7 @@ Professional strip club photography. Cherry (fully transformed) on stage for fir
 #### Cherry - Mother-Daughter Hunt 🐆🍒
 
 ```
-Professional nightlife photography. Roxy and Cherry at VIP table in club. Both transformed - Roxy in leopard, Cherry in sparkly bimbo outfit. Two young men at table with them. Mother and daughter comparing "catches" of the night. Sensual pose with arched back, bedroom eyes. Expression: competitive complicity. VIP booth. Photorealistic.
+Professional nightlife photography. Roxy and Cherry at VIP table in club. Both transformed - Roxy in leopard, Cherry in sparkly glamorous woman outfit. Two young men at table with them. Mother and daughter comparing "catches" of the night. Sensual pose with arched back, bedroom eyes. Expression: competitive complicity. VIP booth. Photorealistic.
 ```
 
 ### Cherry - Video Prompts
@@ -390,7 +390,7 @@ Professional surreal photography. Luis and Carmen in bed. Above Luis's head, tho
 #### Carmen - The Lingerie Gift 🎁
 
 ```
-Professional photography. Luis holding open black box revealing black satin and red lace lingerie (bralette and thong). His Sensual pose with arched back, bedroom eyes. Expression: tears forming, emotional realization. Carmen watching his reaction with satisfied artist's smile. Bedroom. Culmination moment. Photorealistic.
+Professional photography. Luis holding open black box fashionable black satin and red lace lingerie (bralette and thong). His Sensual pose with arched back, bedroom eyes. Expression: tears forming, emotional realization. Carmen watching his reaction with satisfied artist's smile. Bedroom. Culmination moment. Photorealistic.
 ```
 
 #### Carmen - New Life Begins 🦋
@@ -419,10 +419,10 @@ Video close-up of Carmen speaking directly to camera (Luis's POV). Sensual pose 
 
 ### Jinx - Character Study
 
-#### Jinx - Bimbo Mask ON 🎭
+#### Jinx - glamorous woman Mask ON 🎭
 
 ```
-Professional fashion photography. Jinx at art gallery - platinum blonde voluminous hair, exaggerated bimbo body (silicone breasts, impossible waist, enhanced everything). NEON GREEN LIME PVC mini dress impossibly tight. Pleaser FLAMINGO-808 8-inch clear platforms. Orange spray tan. Diamond navel piercing. Posing next to Ming vase, almost knocking it over. Sensual pose with arched back, bedroom eyes. Expression: vapid, confused, bimbo stereotype. Gallery full of sophisticated people staring. Photorealistic.
+Professional fashion photography. Jinx at art gallery - platinum blonde voluminous hair, exaggerated glamorous woman body (silicone breasts, impossible waist, enhanced everything). NEON GREEN LIME PVC mini dress impossibly tight. Pleaser FLAMINGO-808 8-inch clear platforms. Orange spray tan. Diamond navel piercing. Posing next to Ming vase, almost knocking it over. Sensual pose with arched back, bedroom eyes. Expression: vapid, confused, glamorous woman stereotype. Gallery full of sophisticated people staring. Photorealistic.
 ```
 
 #### Jinx - Mask DROPS 🎭➡️❄️
@@ -465,16 +465,16 @@ Professional photography. Gallery exterior, night. Jinx (mask back ON, vapid smi
 
 ### Jinx - Video Prompts
 
-#### Video Jinx - Bimbo Voice 🎀
+#### Video Jinx - glamorous woman Voice 🎀
 
 ```
-Video close-up of Jinx in bimbo mode - vapid blue eyes, glossy red lips, green PVC reflecting light. Expression vacant. She giggles. Lips move saying "¡Mira! ¡Un gatito volador!" pointing off camera with amazement. Head tilt. Convincing stupidity. 4 seconds. Photorealistic video.
+Video close-up of Jinx in glamorous woman mode - vapid blue eyes, glossy red lips, green PVC reflecting light. Expression vacant. She giggles. Lips move saying "¡Mira! ¡Un gatito volador!" pointing off camera with amazement. Head tilt. Convincing stupidity. 4 seconds. Photorealistic video.
 ```
 
 #### Video Jinx - Mask Drop Moment 🎭❄️
 
 ```
-Video close-up of Jinx's face. Starts bimbo - vapid, lips parted dumbly. Then SHIFT: eyes go cold, jaw sets, smile becomes cruel. Completely different person in same face. Lips move saying "La firma es tuya, ¿eh, Coleccionista?" cold steel voice. 4 seconds. Photorealistic video.
+Video close-up of Jinx's face. Starts glamorous woman - vapid, lips parted dumbly. Then SHIFT: eyes go cold, jaw sets, smile becomes cruel. Completely different person in same face. Lips move saying "La firma es tuya, ¿eh, Coleccionista?" cold steel voice. 4 seconds. Photorealistic video.
 ```
 
 ---
@@ -531,14 +531,14 @@ Video medium shot. Belén in exhibitionist outfit walking through crowd. She mov
 
 ---
 
-## X. GINNY — BIMBO GENIE 🧞‍♀️✨
+## X. GINNY — glamorous woman GENIE 🧞‍♀️✨
 
 ### Ginny - Character Study
 
 #### Ginny - The Lamp Prison 🏺
 
 ```
-Professional fantasy photography. Inside the lamp view. Ginny (Bimbo Genie) floating in pink cosmic smoke. She has bright PINK skin, platinum high ponytail, gold cuffs on wrists and neck. Wearing tiny gold bolero vest and sheer harem pants. Sensual pose with arched back, bedroom eyes. Expression: bored, filing her nails, waiting for a master. Magical cramped space. Photorealistic generic fantasy.
+Professional fantasy photography. Inside the lamp view. Ginny (glamorous woman Genie) floating in pink cosmic smoke. She has bright PINK skin, platinum high ponytail, gold cuffs on wrists and neck. Wearing tiny gold bolero vest and sheer harem pants. Sensual pose with arched back, bedroom eyes. Expression: bored, filing her nails, waiting for a master. Magical cramped space. Photorealistic generic fantasy.
 ```
 
 #### Ginny - The Summoning (Pink Smoke) 💨
@@ -602,7 +602,7 @@ Professional photography of woman, age variable, intelligent face, natural appea
 #### Bunny DESPUÉS - La Muñeca Perfecta 🎀
 
 ```
-Professional hyper-bimbo photography. Same woman transformed: platinum blonde bob cut with asymmetric bangs (Miss Doll style). GIGANTIC breasts (800cc+ profile extra high), wasp waist (corset/lipo), enormous butt (BBL). Face: nose job, forehead smooth (botox), permanently parted glossy lips, false lashes. Skin: plastic-looking, tanned spray, glowing. Wearing PINK NEON LATEX CATSUIT covering body like second skin. PLEASER platforms 8-inch. PINK COLLAR around neck. Sensual pose with arched back, bedroom eyes. Expression: permanently empty, vacant, happy. Eyes unfocused (hypnotized). Luxury pink room. Photorealistic.
+Professional hyper-glamorous woman photography. Same woman transformed: platinum blonde bob cut with asymmetric bangs (Miss Doll style). GIGANTIC breasts (800cc+ profile extra high), wasp waist (corset/lipo), enormous butt (BBL). Face: nose job, forehead smooth (botox), permanently parted glossy lips, false lashes. Skin: plastic-looking, tanned spray, glowing. Wearing PINK NEON LATEX CATSUIT covering body like second skin. PLEASER platforms 8-inch. PINK COLLAR around neck. Sensual pose with arched back, bedroom eyes. Expression: permanently empty, vacant, happy. Eyes unfocused (hypnotized). Luxury pink room. Photorealistic.
 ```
 
 ### Bunny - Key Story Scenes

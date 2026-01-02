@@ -192,7 +192,7 @@ Professional flexibility photography of woman with platinum blonde bob with stra
 #### 30. Miss Doll - Post-Workout Selfie
 
 ```
-Professional selfie photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with sexy sweat glow. HEAVY GLAMOUR MAKEUP still intact: smokey eyes, winged eyeliner, long lashes, full glossy RED lips with seductive smile proud. Feminine hourglass silhouette. Wearing PINK GYM SET sweaty. Pink waist trainer visible. Pink training shoes. Mirror selfie with pink phone case. Sensual pose with arched back, bedroom eyes. Expression: worked out cutie. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional selfie photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with sensual sweat glow. HEAVY GLAMOUR MAKEUP still intact: smokey eyes, winged eyeliner, long lashes, full glossy RED lips with seductive smile proud. Feminine hourglass silhouette. Wearing PINK GYM SET sweaty. Pink waist trainer visible. Pink training shoes. Mirror selfie with pink phone case. Sensual pose with arched back, bedroom eyes. Expression: worked out cutie. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 #### 31. Miss Doll - Smoothie Pink
@@ -222,7 +222,7 @@ Professional boxing photography of woman with platinum blonde bob in high ponyta
 #### 35. Miss Doll - Spin Class Pink
 
 ```
-Professional spin photography of woman with platinum blonde bob in ponytail. Flawless porcelain skin with sexy sweat sheen. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, full glossy RED lips parted seductively. Feminine hourglass silhouette. Wearing PINK BIKE SHORTS and BABY BLUE SPORTS BRA. No corset for cardio. Pink cycling shoes. On spin bike, intense riding. Sensual pose with arched back, bedroom eyes. Expression: spin queen. Spin class pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional spin photography of woman with platinum blonde bob in ponytail. Flawless porcelain skin with sensual sweat sheen. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, full glossy RED lips parted seductively. Feminine hourglass silhouette. Wearing PINK BIKE SHORTS and BABY BLUE SPORTS BRA. No corset for cardio. Pink cycling shoes. On spin bike, intense riding. Sensual pose with arched back, bedroom eyes. Expression: spin queen. Spin class pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 #### 36. Miss Doll - Pilates Reformer

@@ -706,8 +706,8 @@ Triple face close-up arrangement. CENTER: ANAÏS - RED lips, bronze skin. LEFT: 
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
-| bimbo | glamorous, elegant |
-| goth bimbo | goth glamour, elegant goth woman |
+| glamorous woman | glamorous, elegant |
+| goth glamorous woman | goth glamour, elegant goth woman |
 | Kylie Minogue (for Anaïs) | Betty Page Old Hollywood reference |
 | exaggerated curves | feminine silhouette |
 | doll makeup | dramatic smokey eyes, glossy lips |

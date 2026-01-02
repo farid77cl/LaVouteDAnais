@@ -22,7 +22,7 @@
 | Tienda | Especialidad | Web |
 |--------|--------------|-----|
 | **Triangl** | Bikinis de neopreno de colores vibrantes, cortes atrevidos | triangl.com |
-| **Beach Bunny** | Bikinis ultra sexy estilo Miami, mínima cobertura, chains y detalles | beachbunny.com |
+| **Beach Bunny** | Bikinis ultra sensual estilo Miami, mínima cobertura, chains y detalles | beachbunny.com |
 
 ---
 
@@ -199,7 +199,7 @@ Professional high-fashion photography of elegant goth woman (Sacha Massacre refe
 #### Miss Doll - AP Lorna Set Pink
 
 ```text
-Professional playful luxury photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin, HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Wearing AGENT PROVOCATEUR LORNA SET in pink silk with black piping, quarter cup bra, suspender belt with bow details, matching brief. Pink satin corset. PLEASER FLAMINGO-808 pink patent 8-inch heel. Blowing kiss at camera. Sensual pose with arched back, bedroom eyes. Expression: luxury bimbo. Pink silk bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional playful luxury photography of glamorous woman with platinum blonde bob, straight bangs. Flawless porcelain skin, HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Wearing AGENT PROVOCATEUR LORNA SET in pink silk with black piping, quarter cup bra, suspender belt with bow details, matching brief. Pink satin corset. PLEASER FLAMINGO-808 pink patent 8-inch heel. Blowing kiss at camera. Sensual pose with arched back, bedroom eyes. Expression: luxury glamorous woman. Pink silk bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 #### Miss Doll - AP Lottie Set Baby Pink
@@ -751,8 +751,8 @@ Professional wine tasting photography of elegant aristocratic woman with honey b
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
-| bimbo | glamorous, elegant |
-| goth bimbo | goth glamour, elegant goth woman |
+| glamorous woman | glamorous, elegant |
+| goth glamorous woman | goth glamour, elegant goth woman |
 | exaggerated curves | feminine silhouette |
 | impossibly tiny waist | tiny waist |
 | doll makeup | dramatic smokey eyes, glossy lips |

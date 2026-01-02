@@ -40,11 +40,11 @@ pink platform heels 16-18cm, visible external corset over clothing.
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
-| bimbo | glamorous, elegant |
+| glamorous woman | glamorous, elegant |
 | empty-headed, ditzy | playful, carefree |
 | exaggerated hourglass | feminine silhouette |
-| revealing | fashionable, stylish |
-| seductive/sexy | sensual, alluring |
+| fashionable | fashionable, stylish |
+| seductive/sensual | sensual, alluring |
 
 ---
 

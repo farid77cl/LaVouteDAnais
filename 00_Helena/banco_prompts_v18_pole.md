@@ -37,7 +37,7 @@ Professional wine-themed pole photography of young elegant goth glamour woman in
 #### 5. Helena - Pole Sins Wet-Look Black
 
 ```
-Professional wet-look pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slicked back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS WET-LOOK BLACK LEGGINGS high-waisted and WET-LOOK CROP TOP, extremely shiny like latex. Black corset over. PLEASER FLAMINGO-1020 black patent 8-inch boots. Floor work, legs split. Sensual pose with arched back, bedroom eyes. Expression: slick and sexy. Dark wet studio vibe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional wet-look pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slicked back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS WET-LOOK BLACK LEGGINGS high-waisted and WET-LOOK CROP TOP, extremely shiny like latex. Black corset over. PLEASER FLAMINGO-1020 black patent 8-inch boots. Floor work, legs split. Sensual pose with arched back, bedroom eyes. Expression: slick and sensual. Dark wet studio vibe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 ### Cleo the Hurricane Collection
@@ -83,7 +83,7 @@ Professional midnight pole photography of young elegant goth glamour woman inspi
 #### 12. Helena - Luna Dark Floral
 
 ```
-Professional floral pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with dark roses. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR DARK FLORAL PRINT TWO-PIECE black with dark red roses. Black underbust corset. PLEASER ADORE-1020 red 7-inch boots. Floor work, sexy crawl. Sensual pose with arched back, bedroom eyes. Expression: deadly flower. Dark garden studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional floral pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with dark roses. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR DARK FLORAL PRINT TWO-PIECE black with dark red roses. Black underbust corset. PLEASER ADORE-1020 red 7-inch boots. Floor work, sensual crawl. Sensual pose with arched back, bedroom eyes. Expression: deadly flower. Dark garden studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 ### Performance & Competition

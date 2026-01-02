@@ -692,8 +692,8 @@ Professional fantasy duo photography. HELENA: black hair with purple/blue streak
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
-| bimbo | glamorous, elegant |
-| goth bimbo | goth glamour, elegant goth woman |
+| glamorous woman | glamorous, elegant |
+| goth glamorous woman | goth glamour, elegant goth woman |
 | exaggerated curves | feminine hourglass silhouette |
 | doll makeup | dramatic smokey eyes, glossy lips |
 | rosy cheeks | flawless porcelain skin |

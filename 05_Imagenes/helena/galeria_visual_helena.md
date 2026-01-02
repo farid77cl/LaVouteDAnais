@@ -12,7 +12,7 @@
 
 | Standing | Ditzy | Seated | Side | Back |
 |----------|-------|--------|------|------|
-| ![Standing](helena_look18_ceo_of_nothing_standing_1767194724613.png) | ![Ditzy](helena_look18_ceo_of_nothing_ditzy_1767194804231.png) | ⏳ | ⏳ | ⏳ |
+| ![Standing](helena_look18_ceo_of_nothing_standing_1767194724613.png) | ![Ditzy](helena_look18_ceo_of_nothing_ditzy_1767194804231.png) | ![Seated](helena_look18_ceo_seated_1767313934720.png) | ![Side](helena_look18_ceo_side_profile_1767313948118.png) | ![Back](helena_look18_ceo_back_view_1767313961470.png) |
 
 ### Look 17: Cyber Goth Doll
 
@@ -20,7 +20,7 @@
 
 | Standing | Ditzy | Seated | Side | Back |
 |----------|-------|--------|------|------|
-| ![Standing](helena_look17_cybergoth_doll_standing_1767194708277.png) | ![Ditzy](helena_look17_cybergoth_doll_ditzy_1767194785085.png) | ⏳ | ⏳ | ⏳ |
+| ![Standing](helena_look17_cybergoth_doll_standing_1767194708277.png) | ![Ditzy](helena_look17_cybergoth_doll_ditzy_1767194785085.png) | ![Seated](helena_look17_cybergoth_seated_1767313865520.png) | ![Side](helena_look17_cybergoth_side_profile_1767313879427.png) | ![Back](helena_look17_cybergoth_back_view_1767313893345.png) |
 
 ### Look 16: Ghost Bride
 
@@ -28,7 +28,7 @@
 
 | Standing | Ditzy | Seated | Side | Back |
 |----------|-------|--------|------|------|
-| ![Standing](helena_look16_ghost_bride_standing_1767194692838.png) | ![Ditzy](helena_look16_ghost_bride_ditzy_1767194769351.png) | ⏳ | ⏳ | ⏳ |
+| ![Standing](helena_look16_ghost_bride_standing_1767194692838.png) | ![Ditzy](helena_look16_ghost_bride_ditzy_1767194769351.png) | ![Seated](helena_look16_ghost_bride_seated_1767313804658.png) | ![Side](helena_look16_ghost_bride_side_profile_1767313818893.png) | ![Back](helena_look16_ghost_bride_back_view_1767313832219.png) |
 
 ### Look 15: Vampire Bride
 
@@ -36,7 +36,7 @@
 
 | Standing | Ditzy | Seated | Side | Back |
 |----------|-------|--------|------|------|
-| ![Standing](helena_look15_vampire_bride_standing_1767194676975.png) | ![Ditzy](helena_look15_vampire_bride_ditzy_1767194753223.png) | ⏳ | ⏳ | ⏳ |
+| ![Standing](helena_look15_vampire_bride_standing_1767194676975.png) | ![Ditzy](helena_look15_vampire_bride_ditzy_1767194753223.png) | ![Seated](helena_look15_vampire_bride_seated_1767313742806.png) | ![Side](helena_look15_vampire_bride_side_profile_1767313756605.png) | ![Back](helena_look15_vampire_bride_back_view_1767313770776.png) |
 
 ---
 
@@ -92,7 +92,7 @@
 
 | Standing | Seated | Walking | Side | Back | Ditzy |
 |----------|--------|---------|------|------|-------|
-| ![Standing](helena_look9_standing.png) | ![Seated](helena_look9_seated.png) | ![Walking](helena_look9_walking_1767035367505.png) | ![Side](helena_look9_side_profile_1767035351278.png) | ![Back](helena_look9_bleeding_back_view.png) | ![Ditzy](helena_look9_ditzy.png) |
+| ![Standing](helena_look9_standing.png) | ![Seated](helena_look09_seated_1767035332989.png) | ![Walking](helena_look09_walking_1767035367505.png) | ![Side](helena_look09_side_profile_1767035351278.png) | ![Back](helena_look09_back_view_1767035385154.png) | ![Ditzy](helena_look9_ditzy.png) |
 
 ### Look 8: Esmeralda Venenosa
 

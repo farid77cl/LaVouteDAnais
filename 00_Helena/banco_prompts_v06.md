@@ -55,7 +55,7 @@ black patent So Kate stilettos 12cm.
 
 | ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
-| bimbo | glamorous, elegant |
+| glamorous woman | glamorous, elegant |
 | empty-headed, ditzy | playful, carefree |
 | exaggerated hourglass | feminine silhouette |
 | impossibly tiny waist | tiny waist |
@@ -96,7 +96,7 @@ Close up / Upper body shot of Helena in a minimalist white marble room. Wearing 
 #### 5. Midnight Blue (Navy Velvet)
 
 ```
-Three-quarter shot of Helena on a balcony. Wearing Fashion Nova "Midnight Memories Velvet Mini" in DARK NAVY BLUE. Silver rhinestones scattered on the fabric like stars. Black corset belt. Black stilettos 8-inch. Pose: Leaning on the railing, wind blowing her voluminous black hair, melancholic but sexy expression. Background: City skyline at night. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Three-quarter shot of Helena on a balcony. Wearing Fashion Nova "Midnight Memories Velvet Mini" in DARK NAVY BLUE. Silver rhinestones scattered on the fabric like stars. Black corset belt. Black stilettos 8-inch. Pose: Leaning on the railing, wind blowing her voluminous black hair, melancholic but sensual expression. Background: City skyline at night. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 ### Bodycon & Cut-Out Collection
@@ -156,7 +156,7 @@ Full body shot of Helena in Victorian-modern mansion. Wearing Oh Polly "Enchante
 #### 14. Dark Academia (Plaid Mini)
 
 ```
-Three-quarter shot of Helena in old library. Wearing Fashion Nova "School's Out Plaid Mini Skirt" in BLACK/RED tartan with matching crop blazer. Black corset underneath blazer. Black thigh-high boots 8-inch heel. Round glasses. Books in hand. Sensual pose with arched back, bedroom eyes. Expression: Sexy scholar. Warm library lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Three-quarter shot of Helena in old library. Wearing Fashion Nova "School's Out Plaid Mini Skirt" in BLACK/RED tartan with matching crop blazer. Black corset underneath blazer. Black thigh-high boots 8-inch heel. Round glasses. Books in hand. Sensual pose with arched back, bedroom eyes. Expression: sensual scholar. Warm library lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 ```
 
 #### 15. Biker Chic (Leather)
@@ -205,7 +205,7 @@ Low angle shot of Helena walking towards camera on city street at night. Wearing
 
 ### Neon & Electric Collection
 
-#### 21. Electric Blue (Bimbo Tech)
+#### 21. Electric Blue (glamorous woman Tech)
 
 ```
 Full body shot of Miss Doll in futuristic gaming room. Platinum bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Wearing Oh Polly "Game Over Vinyl Two Piece Set" in ELECTRIC BLUE. Micro skirt, racerback crop top. Pink corset over top. White thigh-high platform boots 7-inch. Blue neon headphones. Pose: Sitting on arcade machine, blowing bubblegum. Sensual pose with arched back, bedroom eyes. Expression: Playful confusion. Blue/pink neon lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
@@ -467,7 +467,7 @@ Full body shot of Helena at beach bonfire. Wearing Fashion Nova "Dark Tide Chain
 #### 65. Silver Chainmail Bodysuit
 
 ```
-Full body shot of Helena in futuristic club. Wearing Oh Polly "Mercury Rising Chainmail Bodysuit" in LIQUID SILVER, long sleeves, high neck, thong bottom visible, full coverage but revealing. Black corset over bodysuit. Black thigh-high boots 9-inch heel. Black hair slicked back, pale skin like moonlight, metallic silver lips. LED lights behind. Sensual pose with arched back, bedroom eyes. Expression: android goddess. Photorealistic 8k.
+Full body shot of Helena in futuristic club. Wearing Oh Polly "Mercury Rising Chainmail Bodysuit" in LIQUID SILVER, long sleeves, high neck, thong bottom visible, full coverage but fashionable. Black corset over bodysuit. Black thigh-high boots 9-inch heel. Black hair slicked back, pale skin like moonlight, metallic silver lips. LED lights behind. Sensual pose with arched back, bedroom eyes. Expression: android goddess. Photorealistic 8k.
 ```
 
 #### 66. Blood Red Chainmail Crop Top
