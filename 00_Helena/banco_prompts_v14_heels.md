@@ -318,7 +318,326 @@ Professional dominance photography. POV from floor. PLEASER AMUSE-20 black paten
 
 ---
 
+## 🎨 IV. COLOR FREEDOM HEELS (50 PROMPTS)
+
+> [!TIP]
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de tacones PLEASER.
+
+### 🦇 Helena - Color Heel Variations (15 prompts)
+
+#### 51. Helena - Emerald Patent Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 EMERALD GREEN patent 7-inch platform. Pale porcelain foot and ankle. Black corset. Emerald green lips matching heels. Crossed legs showing off green heels. Sensual pose with arched back, bedroom eyes. Expression: forest witch heels. Green velvet studio. Photorealistic 8k.
+```
+
+#### 52. Helena - Sapphire Crystal Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER FLAMINGO-1020 SAPPHIRE BLUE crystal 8-inch boots. Pale porcelain legs. Black corset. Sapphire blue lips. Standing in moonlight, blue heels catching light. Sensual pose with arched back, bedroom eyes. Expression: ice queen heels. Blue lit studio. Photorealistic 8k.
+```
+
+#### 53. Helena - Rose Gold Metallic Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER ADORE-1020 ROSE GOLD metallic 7-inch ankle boots. Pale porcelain skin with rose shimmer beatiful. Black corset. Dark rose lips. Walking shot, rose gold heels clicking. Sensual pose with arched back, bedroom eyes. Expression: romantic goth. Rose gold lit hallway. Photorealistic 8k.
+```
+
+#### 54. Helena - Silver Chrome Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER RAPTURE-1020 STERLING SILVER chrome 8-inch boots. Pale porcelain skin with silver reflection. Black latex. Black corset. Silver lips. Mirror reflection showing chrome heels. Sensual pose with arched back, bedroom eyes. Expression: chrome goddess. Silver studio. Photorealistic 8k.
+```
+
+#### 55. Helena - Champagne Gold Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 CHAMPAGNE GOLD glitter 7-inch heel. Pale porcelain ankle. Black corset. Gold champagne in hand. NYE celebration heels. Sensual pose with arched back, bedroom eyes. Expression: midnight celebration. Gold party studio. Photorealistic 8k.
+```
+
+#### 56. Helena - Copper Metallic Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER FLAMINGO-1020 COPPER metallic 8-inch boots. Pale porcelain legs with copper glow. Black corset. Terracotta lips. Autumn leaves around feet. Sensual pose with arched back, bedroom eyes. Expression: autumn heel goddess. Copper autumn studio. Photorealistic 8k.
+```
+
+#### 57. Helena - Teal Patent Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 DARK TEAL patent 7-inch heel. Pale porcelain foot. Black corset. Teal lips. Poolside heel worship shot. Sensual pose with arched back, bedroom eyes. Expression: aquatic heel goddess. Teal pool studio. Photorealistic 8k.
+```
+
+#### 58. Helena - Bronze Antique Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER RAPTURE-1020 ANTIQUE BRONZE 8-inch thigh boots. Pale porcelain thighs. Black corset. Bronze metallic lips. Medieval castle setting. Sensual pose with arched back, bedroom eyes. Expression: warrior heel goddess. Bronze castle. Photorealistic 8k.
+```
+
+#### 59. Helena - White Bridal Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 STARK WHITE patent 7-inch heel. Pale marble skin. Black corset under sheer white robe. Nude-wine lips. Bridal contrast styling. Sensual pose with arched back, bedroom eyes. Expression: dark bride heels. White bridal studio. Photorealistic 8k.
+```
+
+#### 60. Helena - Plum Velvet Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER FLAMINGO-1020 PLUM WINE velvet 8-inch boots. Pale porcelain legs. Black corset. Deep plum glossy lips. Wine glass beside feet. Sensual pose with arched back, bedroom eyes. Expression: wine heel goddess. Plum wine cellar. Photorealistic 8k.
+```
+
+#### 61. Helena - Amethyst Crystal Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER ADORE-1020 AMETHYST PURPLE crystal 7-inch boots. Pale porcelain skin with purple glow. Black corset. Amethyst purple lips. Crystal cave setting. Sensual pose with arched back, bedroom eyes. Expression: crystal heel witch. Purple crystal studio. Photorealistic 8k.
+```
+
+#### 62. Helena - Navy Sailor Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 NAVY BLUE patent 7-inch heel with gold anchor detail. Pale porcelain ankle. Black sailor corset. Navy metallic lips. Yacht deck setting. Sensual pose with arched back, bedroom eyes. Expression: nautical heel goddess. Navy yacht studio. Photorealistic 8k.
+```
+
+#### 63. Helena - Pewter Industrial Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER RAPTURE-1020 PEWTER GREY industrial 8-inch boots. Pale porcelain skin industrial lighting. Black corset. Pewter grey lips. Factory setting. Sensual pose with arched back, bedroom eyes. Expression: industrial heel dominance. Grey factory studio. Photorealistic 8k.
+```
+
+#### 64. Helena - Burgundy Blood Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER FLAMINGO-1020 BLOOD BURGUNDY patent 8-inch boots. Pale porcelain legs. Black corset. Blood burgundy glossy lips. Rose petals on floor around heels. Sensual pose with arched back, bedroom eyes. Expression: vampire heel beauty. Burgundy boudoir. Photorealistic 8k.
+```
+
+#### 65. Helena - Blood Orange Sunset Heels
+
+```
+Professional heel photography of young elegant goth glamour woman inspired by Sacha Massacre. PLEASER MOON-708 BLOOD ORANGE metallic 7-inch heel. Pale porcelain foot with orange glow. Black corset. Blood orange lips. Sunset through window. Sensual pose with arched back, bedroom eyes. Expression: sunset heel goddess. Orange sunset studio. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Color Heel Variations (20 prompts)
+
+#### 66. Miss Doll - Mint Fresh Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 MINT GREEN patent 8-inch platform. Porcelain foot. Pink corset. Mint shimmer makeup. Spring fresh look. Sensual pose with arched back, bedroom eyes. Expression: minty fresh. Mint green studio. Photorealistic 8k.
+```
+
+#### 67. Miss Doll - Coral Summer Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 CORAL ORANGE patent 7-inch boots. Porcelain skin with coral glow. Pink corset. Coral makeup. Beach setting. Sensual pose with arched back, bedroom eyes. Expression: coral beach babe. Coral beach studio. Photorealistic 8k.
+```
+
+#### 68. Miss Doll - Yellow Sunshine Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 CANARY YELLOW patent 8-inch platform. Porcelain foot. Pink corset. Yellow shimmer makeup. Bright sunny setting. Sensual pose with arched back, bedroom eyes. Expression: sunshine heels. Yellow sunny studio. Photorealistic 8k.
+```
+
+#### 69. Miss Doll - Tangerine Citrus Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-1020 TANGERINE ORANGE glitter 8-inch boots. Porcelain legs. Pink corset. Orange makeup. Citrus themed setting. Sensual pose with arched back, bedroom eyes. Expression: citrus doll. Orange grove studio. Photorealistic 8k.
+```
+
+#### 70. Miss Doll - Emerald Jewel Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 EMERALD GREEN velvet 7-inch boots. Porcelain skin with green reflection. Pink corset. Emerald makeup. Jewel vault setting. Sensual pose with arched back, bedroom eyes. Expression: emerald princess. Green vault studio. Photorealistic 8k.
+```
+
+#### 71. Miss Doll - Turquoise Beach Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 TURQUOISE patent 8-inch platform. Porcelain foot. Pink corset. Turquoise makeup. Tropical resort setting. Sensual pose with arched back, bedroom eyes. Expression: tropical heel goddess. Turquoise pool studio. Photorealistic 8k.
+```
+
+#### 72. Miss Doll - Crimson Power Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-1020 CRIMSON RED patent 8-inch boots. Porcelain legs. Red corset contrast. Bold red makeup. Power office setting. Sensual pose with arched back, bedroom eyes. Expression: power heel babe. Red power studio. Photorealistic 8k.
+```
+
+#### 73. Miss Doll - Peach Soft Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 PEACH satin 7-inch boots. Peachy porcelain skin. Pink corset. Peach makeup. Soft romantic setting. Sensual pose with arched back, bedroom eyes. Expression: peachy princess. Peach boudoir. Photorealistic 8k.
+```
+
+#### 74. Miss Doll - Silver Moon Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 LIQUID SILVER chrome 8-inch platform. Silver porcelain skin. Silver corset. Chrome makeup. Moonlit setting. Sensual pose with arched back, bedroom eyes. Expression: lunar heel goddess. Silver moonlit studio. Photorealistic 8k.
+```
+
+#### 75. Miss Doll - Gold Trophy Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-1020 GOLD METALLIC 8-inch boots. Porcelain skin with gold shimmer. Gold corset. Gold makeup. Trophy room setting. Sensual pose with arched back, bedroom eyes. Expression: golden trophy babe. Gold trophy studio. Photorealistic 8k.
+```
+
+#### 76. Miss Doll - Neon Pink Rave Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 NEON PINK UV 8-inch platform. UV porcelain skin. Neon pink corset. Neon makeup. Blacklight rave setting. Sensual pose with arched back, bedroom eyes. Expression: rave heel queen. Neon UV studio. Photorealistic 8k.
+```
+
+#### 77. Miss Doll - Electric Blue Gaming Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 ELECTRIC BLUE LED 7-inch boots. Porcelain skin with blue glow. Blue corset. Electric blue makeup. Gaming den setting. Sensual pose with arched back, bedroom eyes. Expression: gamer girl heels. Blue LED studio. Photorealistic 8k.
+```
+
+#### 78. Miss Doll - Lilac Dream Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 LILAC satin 8-inch platform. Soft porcelain skin. Lilac corset. Lilac makeup. Dreamy spa setting. Sensual pose with arched back, bedroom eyes. Expression: dreamy heel princess. Lilac spa studio. Photorealistic 8k.
+```
+
+#### 79. Miss Doll - Lavender Spa Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 LAVENDER velvet 7-inch boots. Porcelain skin. Lavender corset. Lavender makeup. Spa treatment setting. Sensual pose with arched back, bedroom eyes. Expression: zen heel goddess. Lavender spa studio. Photorealistic 8k.
+```
+
+#### 80. Miss Doll - Black Power Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-1020 MIDNIGHT BLACK patent 8-inch boots. Pale porcelain legs. Black corset contrast. Black dramatic makeup. Law firm setting. Sensual pose with arched back, bedroom eyes. Expression: noir heel power. Black law office. Photorealistic 8k.
+```
+
+#### 81. Miss Doll - Rose Gold Romance Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 ROSE GOLD metallic 8-inch platform. Porcelain skin with rose glow. Rose gold corset. Rose gold makeup. Wedding planning setting. Sensual pose with arched back, bedroom eyes. Expression: romantic heel bride. Rose gold studio. Photorealistic 8k.
+```
+
+#### 82. Miss Doll - Bronze Autumn Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER ADORE-1020 BRONZE metallic 7-inch boots. Porcelain skin with copper glow. Bronze corset. Bronze makeup. Autumn leaves setting. Sensual pose with arched back, bedroom eyes. Expression: autumn heel beauty. Bronze autumn studio. Photorealistic 8k.
+```
+
+#### 83. Miss Doll - Champagne Celebration Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-1020 CHAMPAGNE glitter 8-inch boots. Glitter porcelain skin. Champagne corset. Champagne gold makeup. NYE party setting. Sensual pose with arched back, bedroom eyes. Expression: celebration heel queen. Champagne party studio. Photorealistic 8k.
+```
+
+#### 84. Miss Doll - Burgundy Wine Heels
+
+```
+Professional heel photography of woman with platinum blonde bob. PLEASER FLAMINGO-808 BURGUNDY velvet 8-inch platform. Porcelain skin with wine flush. Burgundy corset. Burgundy makeup. Wine tasting setting. Sensual pose with arched back, bedroom eyes. Expression: wine heel goddess. Burgundy cellar studio. Photorealistic 8k.
+```
+
+#### 85. Miss Doll - Rainbow Pride Heels
+
+```
+Professional heel photography of woman with platinum blonde bob with rainbow streaks. PLEASER FLAMINGO-808 RAINBOW gradient clear 8-inch platform. Rainbow shimmer porcelain skin. Rainbow corset. Rainbow makeup. Pride celebration setting. Sensual pose with arched back, bedroom eyes. Expression: pride heel queen. Rainbow studio. Photorealistic 8k.
+```
+
+---
+
+### 👯 Color Heel Duos (15 prompts)
+
+#### 86. Helena Emerald + Miss Doll Rose - Garden Heels
+
+```
+Professional duo heel photography. HELENA: pale skin, EMERALD heels, black corset, seated left. MISS DOLL: porcelain skin, ROSE GOLD heels, pink corset, seated right. Both feet extended showing contrasting heels. Sensual pose with arched back, bedroom eyes. Expression: garden contrast. Green and rose studio. Photorealistic 8k.
+```
+
+#### 87. Helena Silver + Miss Doll Gold - Precious Metal Heels
+
+```
+Professional duo heel photography. HELENA: STERLING SILVER chrome boots, black corset. MISS DOLL: GOLD METALLIC boots, gold corset. Both standing, showing metallic contrast. Sensual pose with arched back, bedroom eyes. Expression: precious metals. Chrome and gold studio. Photorealistic 8k.
+```
+
+#### 88. Helena Navy + Miss Doll White - Nautical Heels
+
+```
+Professional duo heel photography. HELENA: NAVY BLUE heels, sailor corset. MISS DOLL: WHITE patent heels, white corset. Yacht deck setting. Sensual pose with arched back, bedroom eyes. Expression: nautical contrast. Navy and white yacht. Photorealistic 8k.
+```
+
+#### 89. Helena Copper + Miss Doll Mint - Season Heels
+
+```
+Professional duo heel photography. HELENA: COPPER metallic boots, autumn styling. MISS DOLL: MINT GREEN heels, spring styling. Seasonal contrast. Sensual pose with arched back, bedroom eyes. Expression: seasons change. Split autumn/spring studio. Photorealistic 8k.
+```
+
+#### 90. Helena Purple + Miss Doll Yellow - Complementary Heels
+
+```
+Professional duo heel photography. HELENA: ROYAL PURPLE velvet boots, purple corset. MISS DOLL: CANARY YELLOW patent platforms, yellow corset. Color wheel contrast. Sensual pose with arched back, bedroom eyes. Expression: color theory. Purple and yellow studio. Photorealistic 8k.
+```
+
+#### 91. Helena Bronze + Miss Doll Silver - Ancient Modern Heels
+
+```
+Professional duo heel photography. HELENA: ANTIQUE BRONZE boots, medieval styling. MISS DOLL: LIQUID SILVER platforms, futuristic styling. Timeline contrast. Sensual pose with arched back, bedroom eyes. Expression: past meets future. Bronze and silver studio. Photorealistic 8k.
+```
+
+#### 92. Helena Teal + Miss Doll Coral - Ocean Heels
+
+```
+Professional duo heel photography. HELENA: DARK TEAL heels, teal corset. MISS DOLL: CORAL ORANGE heels, coral corset. Beach setting. Sensual pose with arched back, bedroom eyes. Expression: ocean vibes. Teal and coral beach. Photorealistic 8k.
+```
+
+#### 93. Helena Champagne + Miss Doll Pink - Celebration Heels
+
+```
+Professional duo heel photography. HELENA: CHAMPAGNE GOLD glitter boots. MISS DOLL: HOT PINK glitter platforms. NYE celebration. Both holding champagne. Sensual pose with arched back, bedroom eyes. Expression: celebration duo. Party studio. Photorealistic 8k.
+```
+
+#### 94. Helena Plum + Miss Doll Lilac - Purple Spectrum Heels
+
+```
+Professional duo heel photography. HELENA: PLUM WINE velvet boots, dark purple corset. MISS DOLL: LILAC satin platforms, light purple corset. Purple gradient. Sensual pose with arched back, bedroom eyes. Expression: purple hierarchy. Gradient purple studio. Photorealistic 8k.
+```
+
+#### 95. Helena White + Miss Doll Black - Yin Yang Heels
+
+```
+Professional duo heel photography. HELENA: STARK WHITE patent heels, black corset. MISS DOLL: MIDNIGHT BLACK patent heels, white corset. Contrast roles reversed. Sensual pose with arched back, bedroom eyes. Expression: yin yang contrast. Black and white studio. Photorealistic 8k.
+```
+
+#### 96. Helena Sapphire + Miss Doll Ruby - Jewel Heels
+
+```
+Professional duo heel photography. HELENA: SAPPHIRE BLUE crystal boots, blue corset. MISS DOLL: CRIMSON RED velvet platforms, red corset. Gemstone contrast. Sensual pose with arched back, bedroom eyes. Expression: precious gems. Blue and red jewel studio. Photorealistic 8k.
+```
+
+#### 97. Helena Amethyst + Miss Doll Citrine - Crystal Heels
+
+```
+Professional duo heel photography. HELENA: AMETHYST PURPLE crystal boots. MISS DOLL: YELLOW CITRINE patent platforms. Crystal contrast. Sensual pose with arched back, bedroom eyes. Expression: crystal duo. Purple and yellow crystal studio. Photorealistic 8k.
+```
+
+#### 98. Helena Pewter + Miss Doll Neon - Industrial Modern Heels
+
+```
+Professional duo heel photography. HELENA: PEWTER GREY industrial boots. MISS DOLL: NEON PINK UV platforms. Industrial vs rave contrast. Sensual pose with arched back, bedroom eyes. Expression: old meets new. Industrial/neon studio. Photorealistic 8k.
+```
+
+#### 99. Helena Blood Orange + Miss Doll Electric Blue - Sunset Dusk Heels
+
+```
+Professional duo heel photography. HELENA: BLOOD ORANGE metallic heels, sunset styling. MISS DOLL: ELECTRIC BLUE LED platforms, dusk styling. Twilight contrast. Sensual pose with arched back, bedroom eyes. Expression: twilight duo. Orange and blue studio. Photorealistic 8k.
+```
+
+#### 100. All Three - Rainbow Heel Collection
+
+```
+Professional trio heel photography. ANAÏS: honey blonde, GOLD CLASSIQUE heels, gold corset center. HELENA: black hair, PURPLE MOON heels, purple corset left. MISS DOLL: blonde bob, PINK FLAMINGO heels, pink corset right. All showing heels prominently. Sensual pose with arched back, bedroom eyes. Expression: rainbow heel queens. Colorful studio. Photorealistic 8k.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V14 Pleaser Heels Focus Edition — 50 prompts*
+*V14.2 Pleaser Heels Focus Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*Actualizado: 2025-12-29*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2026-01-01*
+

@@ -350,8 +350,326 @@ Professional music video pole photography. ANAÏS: honey blonde flowing, gold vi
 
 ---
 
+## 🎨 V. COLOR FREEDOM POLE (50 PROMPTS)
+
+> [!TIP]
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color en pole wear.
+
+### 🦇 Helena - Color Pole Variations (15 prompts)
+
+#### 51. Helena - Emerald Pole Goddess
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing POLE SINS EMERALD GREEN velvet set. Emerald corset. PLEASER FLAMINGO-1020 emerald 8-inch boots. Climbing pole in emerald light. Sensual pose with arched back, bedroom eyes. Expression: forest pole witch. Green lit studio. Photorealistic 8k.
+```
+
+#### 52. Helena - Sapphire Pole Ice Queen
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair slicked. Pale porcelain white skin with blue glow. Full glossy SAPPHIRE BLUE lips. Wearing CLEO THE HURRICANE SAPPHIRE BLUE mesh set. Blue corset. PLEASER FLAMINGO-1020 sapphire 8-inch boots. Spinning on pole in ice lighting. Sensual pose with arched back, bedroom eyes. Expression: ice pole queen. Blue frozen studio. Photorealistic 8k.
+```
+
+#### 53. Helena - Rose Gold Pole Romance
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black wavy hair with rose highlights. Pale porcelain white skin with rose shimmer. Dark rose glossy lips. Wearing LUNA POLEWEAR ROSE GOLD metallic set. Rose gold corset. PLEASER FLAMINGO-1020 rose gold 8-inch boots. Romantic pole pose. Sensual pose with arched back, bedroom eyes. Expression: romantic pole goddess. Rose gold lit studio. Photorealistic 8k.
+```
+
+#### 54. Helena - Silver Chrome Pole Cyborg
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair chrome wet look. Pale porcelain white skin with chrome reflection. Silver metallic lips. Wearing POLE SINS STERLING SILVER latex set futuristic. Silver corset. PLEASER FLAMINGO-1020 chrome 8-inch boots. Futuristic pole moves. Sensual pose with arched back, bedroom eyes. Expression: chrome pole cyborg. Silver studio. Photorealistic 8k.
+```
+
+#### 55. Helena - Champagne Pole Celebration
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with gold glitter. Pale porcelain white skin with champagne glow. Champagne metallic lips. Wearing CLEO THE HURRICANE CHAMPAGNE GOLD sequin set. Gold corset. PLEASER FLAMINGO-1020 gold 8-inch boots. NYE pole performance. Sensual pose with arched back, bedroom eyes. Expression: celebration pole star. Gold confetti studio. Photorealistic 8k.
+```
+
+#### 56. Helena - Copper Pole Autumn
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper highlights. Pale porcelain white skin with copper glow. Terracotta glossy lips. Wearing LUNA POLEWEAR COPPER metallic set autumn. Copper corset. PLEASER FLAMINGO-1020 copper 8-inch boots. Autumn themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: autumn pole harvest. Copper autumn studio. Photorealistic 8k.
+```
+
+#### 57. Helena - Teal Pole Aquatic
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Wet black hair aquatic styling. Pale porcelain white skin with teal reflection. Teal glossy lips. Wearing POLE SINS DARK TEAL wet-look set. Teal corset. PLEASER FLAMINGO-1020 teal 8-inch boots. Mermaid pole moves. Sensual pose with arched back, bedroom eyes. Expression: aquatic pole siren. Teal underwater effect studio. Photorealistic 8k.
+```
+
+#### 58. Helena - Bronze Pole Warrior
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with bronze streaks warrior styling. Pale porcelain white skin with bronze shimmer. Bronze metallic lips. Wearing CLEO THE HURRICANE ANTIQUE BRONZE armor-inspired set. Bronze corset. PLEASER FLAMINGO-1020 bronze 8-inch boots. Warrior pole poses. Sensual pose with arched back, bedroom eyes. Expression: warrior pole goddess. Bronze arena studio. Photorealistic 8k.
+```
+
+#### 59. Helena - White Pole Ethereal
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair severe contrast. Pale marble skin ethereal. Nude-wine lips. Wearing LUNA POLEWEAR STARK WHITE mesh set angelic. White corset. PLEASER FLAMINGO-1020 white 8-inch boots. Ethereal pole flow. Sensual pose with arched back, bedroom eyes. Expression: ethereal dark angel. White fog studio. Photorealistic 8k.
+```
+
+#### 60. Helena - Plum Pole Wine
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing POLE SINS PLUM WINE velvet set luxurious. Plum corset. PLEASER FLAMINGO-1020 plum 8-inch boots. Sensual wine-themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: wine pole goddess. Plum wine cellar studio. Photorealistic 8k.
+```
+
+#### 61. Helena - Amethyst Pole Crystal
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with purple crystals. Pale porcelain white skin with purple glow. Amethyst purple glossy lips. Wearing CLEO THE HURRICANE AMETHYST PURPLE crystal-accent set. Purple corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Mystical pole performance. Sensual pose with arched back, bedroom eyes. Expression: crystal pole witch. Purple crystal cave studio. Photorealistic 8k.
+```
+
+#### 62. Helena - Navy Pole Nautical
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair sailor styling. Pale porcelain white skin. Navy metallic lips. Wearing LUNA POLEWEAR NAVY BLUE sailor-inspired set. Navy corset. PLEASER FLAMINGO-1020 navy 8-inch boots. Nautical pole routine. Sensual pose with arched back, bedroom eyes. Expression: nautical pole captain. Navy yacht club studio. Photorealistic 8k.
+```
+
+#### 63. Helena - Pewter Pole Industrial
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin industrial lighting. Pewter grey lips. Wearing POLE SINS PEWTER GREY industrial set. Grey corset. PLEASER FLAMINGO-1020 grey 8-inch boots. Industrial pole strength moves. Sensual pose with arched back, bedroom eyes. Expression: industrial pole machine. Grey factory studio. Photorealistic 8k.
+```
+
+#### 64. Helena - Burgundy Pole Vampire
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair vampire styling. Pale porcelain white skin with blood-red accent. Blood burgundy glossy lips. Wearing CLEO THE HURRICANE BURGUNDY velvet Victorian set. Burgundy corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Vampire seduction pole routine. Sensual pose with arched back, bedroom eyes. Expression: vampire pole seductress. Burgundy castle studio. Photorealistic 8k.
+```
+
+#### 65. Helena - Blood Orange Pole Sunset
+
+```
+Professional pole photography of young elegant goth glamour woman inspired by Sacha Massacre. Wild black hair with orange tips. Pale porcelain white skin with orange glow. Blood orange metallic lips. Wearing LUNA POLEWEAR BLOOD ORANGE sunset set. Orange corset. PLEASER FLAMINGO-1020 orange 8-inch boots. Sunset silhouette pole routine. Sensual pose with arched back, bedroom eyes. Expression: sunset pole goddess. Orange sunset studio. Photorealistic 8k.
+```
+
+---
+
+### 💖 Miss Doll - Color Pole Variations (20 prompts)
+
+#### 66. Miss Doll - Mint Fresh Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin. Mint shimmer makeup. Wearing POLE SINS MINT GREEN velvet set fresh. Mint corset. PLEASER FLAMINGO-808 mint 8-inch heel. Fresh springtime pole routine. Sensual pose with arched back, bedroom eyes. Expression: fresh pole bunny. Mint green studio. Photorealistic 8k.
+```
+
+#### 67. Miss Doll - Coral Sunset Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with coral glow. Coral makeup. Wearing LUNA POLEWEAR CORAL ORANGE set beach style. Coral corset. PLEASER FLAMINGO-808 coral 8-inch heel. Tropical pole dance. Sensual pose with arched back, bedroom eyes. Expression: coral beach pole babe. Coral beach studio. Photorealistic 8k.
+```
+
+#### 68. Miss Doll - Yellow Sunshine Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Glowing porcelain skin. Yellow shimmer makeup. Wearing POLE SINS CANARY YELLOW bright set. Yellow corset. PLEASER FLAMINGO-808 yellow 8-inch heel. Sunny energetic pole routine. Sensual pose with arched back, bedroom eyes. Expression: sunshine pole bunny. Yellow sunny studio. Photorealistic 8k.
+```
+
+#### 69. Miss Doll - Tangerine Citrus Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin. Tangerine makeup. Wearing CLEO THE HURRICANE TANGERINE ORANGE set fruity. Orange corset. PLEASER FLAMINGO-808 orange 8-inch heel. Citrus themed pole performance. Sensual pose with arched back, bedroom eyes. Expression: citrus pole doll. Orange grove studio. Photorealistic 8k.
+```
+
+#### 70. Miss Doll - Emerald Jewel Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with green reflection. Emerald makeup. Wearing LUNA POLEWEAR EMERALD GREEN luxurious set. Emerald corset. PLEASER FLAMINGO-808 emerald 8-inch heel. Precious gemstone pole routine. Sensual pose with arched back, bedroom eyes. Expression: emerald pole princess. Green jewel studio. Photorealistic 8k.
+```
+
+#### 71. Miss Doll - Turquoise Beach Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. SPF porcelain skin. Turquoise makeup. Wearing POLE SINS TURQUOISE set beach vibes. Turquoise corset. PLEASER FLAMINGO-808 turquoise 8-inch heel. Beach club pole performance. Sensual pose with arched back, bedroom eyes. Expression: turquoise beach pole babe. Turquoise pool studio. Photorealistic 8k.
+```
+
+#### 72. Miss Doll - Crimson Power Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin. Bold red makeup. Wearing CLEO THE HURRICANE CRIMSON RED power set. Red corset. PLEASER FLAMINGO-808 crimson 8-inch heel. Powerful aggressive pole moves. Sensual pose with arched back, bedroom eyes. Expression: crimson pole power. Red power studio. Photorealistic 8k.
+```
+
+#### 73. Miss Doll - Peach Soft Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Peachy porcelain skin. Peach makeup. Wearing LUNA POLEWEAR PEACH soft set romantic. Peach corset beatiful. PLEASER FLAMINGO-808 peach 8-inch heel. Soft romantic pole flow. Sensual pose with arched back, bedroom eyes. Expression: peachy pole princess. Peach boudoir studio. Photorealistic 8k.
+```
+
+#### 74. Miss Doll - Silver Moon Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Silver-highlighted porcelain skin. Chrome makeup. Wearing POLE SINS LIQUID SILVER latex set futuristic. Silver corset. PLEASER FLAMINGO-808 silver 8-inch heel. Lunar pole routine. Sensual pose with arched back, bedroom eyes. Expression: lunar pole goddess. Silver moonlit studio. Photorealistic 8k.
+```
+
+#### 75. Miss Doll - Gold Trophy Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with gold shimmer. Gold makeup. Wearing CLEO THE HURRICANE GOLD METALLIC set victory. Gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Champion pole performance. Sensual pose with arched back, bedroom eyes. Expression: golden pole champion. Gold trophy studio. Photorealistic 8k.
+```
+
+#### 76. Miss Doll - Neon Pink Rave Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. UV porcelain skin. Neon pink makeup. Wearing POLE SINS NEON PINK UV-reactive set rave. Neon corset. PLEASER FLAMINGO-808 neon pink 8-inch heel. Blacklight rave pole dance. Sensual pose with arched back, bedroom eyes. Expression: rave pole queen. Neon UV club studio. Photorealistic 8k.
+```
+
+#### 77. Miss Doll - Electric Blue Gaming Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with blue glow. Electric blue makeup. Wearing LUNA POLEWEAR ELECTRIC BLUE set gaming themed. Blue corset. PLEASER FLAMINGO-808 blue 8-inch heel. Gamer aesthetic pole routine. Sensual pose with arched back, bedroom eyes. Expression: gamer girl pole. Blue LED studio. Photorealistic 8k.
+```
+
+#### 78. Miss Doll - Lilac Dream Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Soft porcelain skin. Lilac makeup. Wearing POLE SINS LILAC dreamy set. Lilac corset. PLEASER FLAMINGO-808 lilac 8-inch heel. Dreamy flowing pole dance. Sensual pose with arched back, bedroom eyes. Expression: dreamy pole princess. Lavender dream studio. Photorealistic 8k.
+```
+
+#### 79. Miss Doll - Lavender Spa Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin. Lavender makeup. Wearing CLEO THE HURRICANE LAVENDER spa-inspired set. Lavender corset. PLEASER FLAMINGO-808 lavender 8-inch heel. Zen pole flow. Sensual pose with arched back, bedroom eyes. Expression: zen pole goddess. Lavender spa studio. Photorealistic 8k.
+```
+
+#### 80. Miss Doll - Black Widow Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Pale porcelain skin. Black dramatic makeup. Wearing POLE SINS BLACK dramatic set noir. Black corset. PLEASER FLAMINGO-808 black 8-inch heel. Dark seductive pole routine. Sensual pose with arched back, bedroom eyes. Expression: black widow pole. Dark noir studio. Photorealistic 8k.
+```
+
+#### 81. Miss Doll - Rose Gold Romance Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with rose glow. Rose gold makeup. Wearing LUNA POLEWEAR ROSE GOLD romantic set. Rose gold corset. PLEASER FLAMINGO-808 rose gold 8-inch heel beatiful. Romantic wedding pole routine. Sensual pose with arched back, bedroom eyes. Expression: romantic pole bride. Rose gold boudoir studio. Photorealistic 8k.
+```
+
+#### 82. Miss Doll - Bronze Autumn Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with copper glow. Bronze makeup. Wearing POLE SINS BRONZE metallic autumn set. Bronze corset. PLEASER FLAMINGO-808 bronze 8-inch heel. Autumn harvest pole performance. Sensual pose with arched back, bedroom eyes. Expression: autumn pole harvest. Bronze autumn studio. Photorealistic 8k.
+```
+
+#### 83. Miss Doll - Champagne Celebration Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Glitter porcelain skin. Champagne gold makeup. Wearing CLEO THE HURRICANE CHAMPAGNE sequin party set. Gold corset. PLEASER FLAMINGO-808 champagne 8-inch heel. NYE celebration pole performance. Sensual pose with arched back, bedroom eyes. Expression: celebration pole queen. Champagne confetti studio. Photorealistic 8k.
+```
+
+#### 84. Miss Doll - Burgundy Wine Pole
+
+```
+Professional pole photography of woman with platinum blonde bob. Porcelain skin with wine flush. Burgundy makeup. Wearing LUNA POLEWEAR BURGUNDY velvet wine set. Burgundy corset. PLEASER FLAMINGO-808 burgundy 8-inch heel. Wine-themed sensual pole routine. Sensual pose with arched back, bedroom eyes. Expression: wine pole goddess. Burgundy wine cellar studio. Photorealistic 8k.
+```
+
+#### 85. Miss Doll - Rainbow Pride Pole
+
+```
+Professional pole photography of woman with platinum blonde bob with rainbow streaks. Rainbow shimmer porcelain skin. Rainbow makeup. Wearing POLE SINS RAINBOW gradient pride set. Rainbow corset. PLEASER FLAMINGO-808 rainbow 8-inch heel. Pride celebration pole performance. Sensual pose with arched back, bedroom eyes. Expression: pride pole queen. Rainbow flag studio. Photorealistic 8k.
+```
+
+---
+
+### 👯 Color Pole Duos (15 prompts)
+
+#### 86. Helena Emerald + Miss Doll Rose - Garden Poles
+
+```
+Professional duo pole photography. HELENA: black hair, EMERALD GREEN pole set, emerald corset, left pole. MISS DOLL: blonde bob, ROSE GOLD pole set, rose corset, right pole. Synchronized nature routine. Sensual pose with arched back, bedroom eyes. Expression: garden pole sisters. Green and rose studio. Photorealistic 8k.
+```
+
+#### 87. Helena Silver + Miss Doll Gold - Metallic Poles
+
+```
+Professional duo pole photography. HELENA: slicked hair, STERLING SILVER latex set, silver corset, chrome pole. MISS DOLL: blonde bob, GOLD METALLIC set, gold corset, gold pole. Precious metals routine. Sensual pose with arched back, bedroom eyes. Expression: precious pole duo. Chrome and gold studio. Photorealistic 8k.
+```
+
+#### 88. Helena Navy + Miss Doll White - Nautical Poles
+
+```
+Professional duo pole photography. HELENA: sleek hair, NAVY sailor pole set, navy corset. MISS DOLL: blonde bob, WHITE sailor pole set, white corset. Yacht pole performance. Sensual pose with arched back, bedroom eyes. Expression: nautical pole crew. Navy and white yacht studio. Photorealistic 8k.
+```
+
+#### 89. Helena Copper + Miss Doll Mint - Season Poles
+
+```
+Professional duo pole photography. HELENA: copper highlights, COPPER autumn set. MISS DOLL: blonde bob, MINT GREEN spring set. Seasonal contrast routine. Sensual pose with arched back, bedroom eyes. Expression: seasons pole dance. Split autumn/spring studio. Photorealistic 8k.
+```
+
+#### 90. Helena Purple + Miss Doll Yellow - Complementary Poles
+
+```
+Professional duo pole photography. HELENA: black hair, ROYAL PURPLE velvet set. MISS DOLL: blonde bob, CANARY YELLOW bright set. Color wheel routine. Sensual pose with arched back, bedroom eyes. Expression: complementary pole duo. Purple and yellow studio. Photorealistic 8k.
+```
+
+#### 91. Helena Bronze + Miss Doll Silver - Timeline Poles
+
+```
+Professional duo pole photography. HELENA: bronze hair, ANTIQUE BRONZE warrior set, ancient styling. MISS DOLL: blonde bob, LIQUID SILVER futuristic set, modern styling. Timeline pole performance. Sensual pose with arched back, bedroom eyes. Expression: past future poles. Bronze and silver studio. Photorealistic 8k.
+```
+
+#### 92. Helena Teal + Miss Doll Coral - Ocean Poles
+
+```
+Professional duo pole photography. HELENA: wet hair, DARK TEAL aquatic set. MISS DOLL: blonde bob, CORAL ORANGE beach set. Ocean themed routine. Sensual pose with arched back, bedroom eyes. Expression: ocean pole mermaids. Teal and coral beach studio. Photorealistic 8k.
+```
+
+#### 93. Helena Champagne + Miss Doll Pink - Party Poles
+
+```
+Professional duo pole photography. HELENA: gold glitter hair, CHAMPAGNE GOLD party set. MISS DOLL: blonde bob, HOT PINK celebration set. NYE pole performance. Sensual pose with arched back, bedroom eyes. Expression: party pole queens. Champagne and pink party studio. Photorealistic 8k.
+```
+
+#### 94. Helena Plum + Miss Doll Lilac - Purple Poles
+
+```
+Professional duo pole photography. HELENA: elegant hair, PLUM WINE dark set. MISS DOLL: blonde bob, LILAC pastel light set. Purple gradient routine. Sensual pose with arched back, bedroom eyes. Expression: purple pole spectrum. Gradient purple studio. Photorealistic 8k.
+```
+
+#### 95. Helena White + Miss Doll Black - Yin Yang Poles
+
+```
+Professional duo pole photography. HELENA: black hair, WHITE ethereal set. MISS DOLL: blonde bob, BLACK noir set. Opposite contrast routine. Sensual pose with arched back, bedroom eyes. Expression: yin yang pole balance. Black and white studio. Photorealistic 8k.
+```
+
+#### 96. Helena Sapphire + Miss Doll Ruby - Jewel Poles
+
+```
+Professional duo pole photography. HELENA: sleek hair, SAPPHIRE BLUE crystal set. MISS DOLL: blonde bob, CRIMSON RED ruby set. Gemstone routine. Sensual pose with arched back, bedroom eyes. Expression: jewel pole queens. Blue and red jewel studio. Photorealistic 8k.
+```
+
+#### 97. Helena Amethyst + Miss Doll Citrine - Crystal Poles
+
+```
+Professional duo pole photography. HELENA: crystal hair, AMETHYST PURPLE mystical set. MISS DOLL: blonde bob, YELLOW CITRINE sunny set. Crystal duo routine. Sensual pose with arched back, bedroom eyes. Expression: crystal pole witches. Purple and yellow crystal studio. Photorealistic 8k.
+```
+
+#### 98. Helena Pewter + Miss Doll Neon - Industrial Rave Poles
+
+```
+Professional duo pole photography. HELENA: industrial hair, PEWTER GREY factory set. MISS DOLL: blonde bob, NEON PINK rave set UV. Contrast routine. Sensual pose with arched back, bedroom eyes. Expression: industrial rave poles. Grey and neon studio. Photorealistic 8k.
+```
+
+#### 99. Helena Blood Orange + Miss Doll Electric Blue - Twilight Poles
+
+```
+Professional duo pole photography. HELENA: wild hair, BLOOD ORANGE sunset set. MISS DOLL: blonde bob, ELECTRIC BLUE dusk set. Twilight routine. Sensual pose with arched back, bedroom eyes. Expression: twilight pole duo. Orange and blue sunset studio. Photorealistic 8k.
+```
+
+#### 100. All Three - Rainbow Pole Performance
+
+```
+Professional trio pole photography. ANAÏS: honey blonde, GOLD instructor set, center supervising. HELENA: black hair, PURPLE dark set, left pole. MISS DOLL: blonde bob, PINK bright set, right pole. Rainbow pole class. Sensual pose with arched back, bedroom eyes. Expression: rainbow pole trio. Colorful pole studio. Photorealistic 8k.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V18 Pole Wear Edition — 50 prompts*
+*V18.2 Pole Wear Edition — 100 prompts*
 *Marcas: Pole Sins, Cleo the Hurricane, Luna Polewear*
 *Cada prompt es 100% auto-contenido*
-*Actualizado: 2025-12-29*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2026-01-01*

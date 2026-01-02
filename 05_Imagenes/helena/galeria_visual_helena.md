@@ -60,7 +60,7 @@
 
 | Standing | Walking | Side | Seated | Back | Ditzy |
 |----------|---------|------|--------|------|-------|
-| ![Standing](helena_look13_amatista_hipnotica_1767034617669.png) | ![Walking](helena_look13_amatista_walking.png) | ![Side](helena_look13_amatista_side_profile.png) | ![Seated](helena_look13_amatista_seated.png) | ![Back](helena_look13_amatista_back_view.png) | ![Ditzy](helena_look13_amatista_ditzy.png) |
+| ![Standing](helena_look13_amatista_hipnotica_1767034617669.png) | ![Walking](helena_look13_amatista_walking.png) | ![Side](helena_look13_amatista_side_profile_1767188034246.png) | ![Seated](helena_look13_amatista_seated_1767188065355.png) | ![Back](helena_look13_amatista_back_view_1767188050060.png) | ![Ditzy](helena_look13_amatista_ditzy.png) |
 
 ### Look 12: Borgoña Imperial
 
@@ -76,7 +76,7 @@
 
 | Standing | Seated | Walking | Side | Back | Ditzy | Closeup |
 |----------|--------|---------|------|------|-------|---------|
-| ![Standing](helena_look11_absinthe_standing.png) | ![Seated](helena_look11_absinthe_seated.png) | ![Walking](helena_look11_absinthe_walking.png) | ![Side](helena_look11_absinthe_side_profile.png) | ![Back](helena_look11_absinthe_back_view.png) | ![Ditzy](helena_look11_absinthe_ditzy.png) | ![Closeup](helena_look11_absinthe_closeup.png) |
+| ![Standing](helena_look11_absinthe_standing.png) | ![Seated](helena_look11_absinthe_seated.png) | ![Walking](helena_look11_absinthe_walking_1767188006277.png) | ![Side](helena_look11_absinthe_side_profile_1767187975218.png) | ![Back](helena_look11_absinthe_back_view_1767187990705.png) | ![Ditzy](helena_look11_absinthe_ditzy.png) | ![Closeup](helena_look11_absinthe_closeup.png) |
 
 ### Look 10: Zafiro Nocturno
 
@@ -100,7 +100,7 @@
 
 | Standing | Seated | Walking | Side | Back | Ditzy |
 |----------|--------|---------|------|------|-------|
-| ![Standing](look8_esmeralda_standing.png) | ![Seated](look8_esmeralda_seated.png) | ![Walking](look8_esmeralda_walking.png) | ![Side](look8_esmeralda_side.png) | ![Back](look8_esmeralda_back.jpg) | ![Ditzy](look8_esmeralda_ditzy.jpg) |
+| ![Standing](helena_look08_esmeralda_venenosa_1767034638030.png) | ![Seated](helena_look08_seated_1767035250123.png) | ![Walking](helena_look08_walking_1767035282480.png) | ![Side](helena_look08_side_profile_1767035266334.png) | ![Back](helena_look08_back_view_1767035299142.png) | ![Ditzy](helena_look08_esmeralda_ditzy_1767312781919.png) |
 
 ### Look 7: Underworld Bimbo
 
@@ -148,7 +148,7 @@
 
 | Standing | Seated | Walking | Side | Back | Ditzy |
 |----------|--------|---------|------|------|-------|
-| ![Standing](look2_elvira_standing.png) | ![Seated](look2_elvira_seated.png) | ![Walking](look2_elvira_walking.png) | ![Side](look2_elvira_side.png) | ![Back](look2_elvira_back.png) | ![Ditzy](look2_elvira_ditzy.png) |
+| ![Standing](helena_look2_elvira_dumber_sister.png) | ![Seated](helena_look2_elvira_seated_1767312373746.png) | ![Walking](helena_look2_elvira_walking_1767312388598.png) | ![Side](helena_look2_elvira_side_profile_1767312402887.png) | ![Back](helena_look2_elvira_back_view_1767312464768.png) | ![Ditzy](helena_look2_elvira_ditzy_1767312479557.png) |
 
 ### Look 1: Morticia Bimbo
 
@@ -156,7 +156,7 @@
 
 | Standing | Seated | Walking | Side | Back | Ditzy |
 |----------|--------|---------|------|------|-------|
-| ![Standing](helena_look1_standing.png) | ![Seated](helena_look1_seated.png) | ![Walking](helena_look1_walking.png) | ![Side](look1_morticia_side.png) | ![Back](look1_morticia_back.png) | ![Ditzy](helena_look1_morticia_ditzy.png) |
+| ![Standing](helena_look1_standing.png) | ![Seated](helena_look1_seated.png) | ![Walking](helena_look1_walking.png) | ![Side](helena_look1_morticia_side_profile_1767312612398.png) | ![Back](helena_look1_morticia_back_view_1767312626882.png) | ![Ditzy](helena_look1_morticia_ditzy.png) |
 
 ---
 
@@ -192,4 +192,4 @@
 ![Helena HB Kukuro](helena_honey_birdette_kukuro_1767009526708.png)
 
 ---
-*Actualizado: 30 Dic 2025 - Sesión de Cierre de Año*
+*Actualizado: 01 Enero 2026 - Sesión de Año Nuevo*
