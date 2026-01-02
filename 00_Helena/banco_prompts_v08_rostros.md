@@ -697,7 +697,7 @@ Glamour duo close-up. MISS DOLL: HOT PINK lips, porcelain skin. ANAÏS: CHAMPAGN
 #### 100. Trio - Rainbow Lips
 
 ```text
-Triple face close-up arrangement. CENTER: ANAÏS - RED lips, bronze skin. LEFT: HELENA - PURPLE lips, pale skin. RIGHT: MISS DOLL - PINK lips, porcelain skin. All looking at camera. Tri-color lighting, photorealistic 8k.
+Triple face close-up arrangement. CENTER: ANAÏS - RED lips, bronze skin. LEFT: HELENA - PURPLE lips, pale skin. RIGHT: MISS DOLL - PINK lips, porcelain skin. All looking at camera. Tri-color lighting, Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -720,3 +720,4 @@ Triple face close-up arrangement. CENTER: ANAÏS - RED lips, bronze skin. LEFT: 
 *V8.2 Rostros & Maquillaje Edition — 100 prompts*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar maquillaje en CUALQUIER color*
 *Actualizado: 2025-12-31*
+
