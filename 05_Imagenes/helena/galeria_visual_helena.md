@@ -4,6 +4,34 @@
 
 ---
 
+## 🌹 SERIE: GOTHIC ELEGANCE (Looks 19-21)
+
+### Look 21: Opera Diva
+
+*(Prima donna con cerebro de entreacto)*
+
+| Standing | Seated | Side | Back | Ditzy |
+|----------|--------|------|------|-------|
+| ![Standing](helena_look21_opera_diva_standing_1767351782638.png) | ![Seated](helena_look21_opera_diva_seated_1767351800238.png) | ![Side](helena_look21_opera_diva_side_profile_1767351873971.png) | ![Back](helena_look21_opera_diva_back_view_1767351815917.png) | ![Ditzy](helena_look21_opera_diva_ditzy_1767351832921.png) |
+
+### Look 20: Latex Mistress
+
+*(Dominatrix que olvidó el safe word)*
+
+| Standing | Seated | Side | Back | Ditzy |
+|----------|--------|------|------|-------|
+| ![Standing](helena_look20_latex_mistress_standing_1767351681393.png) | ![Seated](helena_look20_latex_mistress_seated_1767351697521.png) | ![Side](helena_look20_latex_mistress_side_profile_1767351712974.png) | ![Back](helena_look20_latex_mistress_back_view_1767351728689.png) | ![Ditzy](helena_look20_latex_mistress_ditzy_1767351745226.png) |
+
+### Look 19: Velvet Witch
+
+*(Bruja de biblioteca con hechizos olvidados)*
+
+| Standing | Seated | Side | Back | Ditzy |
+|----------|--------|------|------|-------|
+| ![Standing](helena_look19_velvet_witch_standing_1767351560020.png) | ![Seated](helena_look19_velvet_witch_seated_1767351596399.png) | ![Side](helena_look19_velvet_witch_side_profile_1767351612119.png) | ![Back](helena_look19_velvet_witch_back_view_1767351627689.png) | ![Ditzy](helena_look19_velvet_witch_ditzy_1767351643834.png) |
+
+---
+
 ## 🖤 SERIE: DARK FANTASY & CORPORATE (Looks 15-18)
 
 ### Look 18: CEO of Nothing
@@ -192,4 +220,4 @@
 ![Helena HB Kukuro](helena_honey_birdette_kukuro_1767009526708.png)
 
 ---
-*Actualizado: 01 Enero 2026 - Sesión de Año Nuevo*
+*Actualizado: 02 Enero 2026 - Looks 19-21 Gothic Elegance*
