@@ -2,7 +2,57 @@
 
 > **ENFOQUE:** Corporate fetish, secretarias, CEOs, HR, office domination, power suits.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **Total:** 50+ prompts | **Actualizado:** 2025-12-29
+> **Total:** 150 prompts | **Actualizado:** 2026-01-04
+
+---
+
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+
+> [!CAUTION]
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+
+### 💖 MISS DOLL (BASE)
+
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
+
+### 🦇 HELENA DE ANAÏS (BASE)
+
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
+
+### 👑 ANAÏS BELLAND (BASE)
+
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
 
 ---
 
@@ -639,9 +689,324 @@ Professional rainbow meeting photography. ANAÏS: honey blonde, GOLD power suit,
 
 ---
 
+## 💾 VI. EXPANSION: RETRO & FUTURE OFFICE (101-125)
+
+#### 101. Helena - 80s Power Goth
+
+```
+Professional 80s office photography of young elegant goth glamour woman (Sacha Massacre visual reference). Big voluminous jet black hair 80s style. Pale porcelain skin. Glossy dark purple lips. Wearing BLACK POWER SUIT with giant shoulder pads, leather corset over. Black tights. PLEASER RAPTURE-1020 black 8-inch boots. Holding brick cell phone. Sensual pose with arched back, bedroom eyes. Expression: absolute power. 80s corporate office. Seductive glamour photography, neon noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 102. Miss Doll - 60s Mad Men Secretary
+
+```
+Professional vintage office photography of glamorous woman with platinum blonde bouffant bob. Flawless porcelain skin. Winged liner 60s style. Full glossy pink lips. Wearing PINK TWEED 60s SUIT with pink corset visible. White gloves. PLEASER FLAMINGO-808 white 8-inch heel. Typing on vintage typewriter. Sensual pose with arched back, bedroom eyes. Expression: vintage efficient. 60s advertising agency. Seductive glamour photography, retro warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 103. Helena - Matrix HR
+
+```
+Professional sci-fi office photography of young elegant goth glamour woman (Sacha Massacre visual reference). Slicked back wet hair. Pale porcelain skin. Black glossy lips. Wearing BLACK LATEX TRENCH COAT open over black latex corset. Sunglasses (optional). PLEASER RAPTURE-1020 patent 8-inch boots. Green code rain on screens behind. Sensual pose with arched back, bedroom eyes. Expression: blue pill or red pill. Cyberpunk office. Seductive glamour photography, green matrix lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 104. Miss Doll - Retro Futurism Receptionist
+
+```
+Professional sci-fi photography of glamorous woman with platinum blonde bob, silver antenna headband. Flawless porcelain skin. Silver lipstick. Wearing SILVER METALLIC space age dress with white corset. PLEASER FLAMINGO-808 silver 8-inch heel. Floating holographic reception desk. Sensual pose with arched back, bedroom eyes. Expression: welcome to the year 3000. Spaceship lobby. Seductive glamour photography, clean white sci-fi lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 105. Helena - Noir Detective Agency
+
+```
+Professional film noir photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair in retro waves. Pale skin high contrast. Black lips. Wearing BLACK PINSTRIPE SUIT with corset. Fedora hat. PLEASER MOON-708 black 7-inch heel. Smoking (implied) in shadowy office, blinds casting shadows. Sensual pose with arched back, bedroom eyes. Expression: dangerous dame. Noir detective office. Seductive glamour photography, black and white noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 106. Miss Doll - 50s Diner Manager
+
+```
+Professional retro photography of glamorous woman with platinum blonde bob curls. Flawless porcelain skin. Red lips. Wearing PINK AND WHITE CHECKERED dress with white apron corset. PLEASER FLAMINGO-808 red 8-inch heel. Managing diner staff, holding coffee pot. Sensual pose with arched back, bedroom eyes. Expression: order up. 50s diner office. Seductive glamour photography, neon diner lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 107. Helena - Cyberpunk CEO
+
+```
+Professional cyberpunk photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair with neon purple cyberlocks. Pale skin cyber markings. Purple lips. Wearing BLACK TECHWEAR CORSET SUIT with neon piping. PLEASER RAPTURE-1020 neon 8-inch boots. High rise Tokyo future window. Sensual pose with arched back, bedroom eyes. Expression: mega-corp ruler. Cyberpunk city background. Seductive glamour photography, neon city lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 108. Miss Doll - 90s Clueless Chic
+
+```
+Professional 90s photography of glamorous woman with platinum blonde bob feather tips. Flawless porcelain skin. Pink glossy lips. Wearing YELLOW PLAID skirt suit with yellow corset. White knee socks. PLEASER FLAMINGO-808 yellow 8-inch heel. Holding giant fuzzy pen. Sensual pose with arched back, bedroom eyes. Expression: as if. 90s Beverly Hills office. Seductive glamour photography, bright 90s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 109. Helena - Victorian Office
+
+```
+Professional steampunk photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair updo. Pale skin. Burgundy lips. Wearing VICTORIAN GOTH GOWN modified for office, leather corset. PLEASER MOON-708 burgundy 7-inch heel. Writing with quill pen at antique desk. Sensual pose with arched back, bedroom eyes. Expression: old world business. Victorian study. Seductive glamour photography, candlelight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 110. Miss Doll - 70s Disco Secretary
+
+```
+Professional 70s photography of glamorous woman with platinum blonde bob farrah waves. Flawless porcelain skin. Peach glossy lips. Wearing GOLD SEQUIN jumpsuit with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Under disco ball in office party. Sensual pose with arched back, bedroom eyes. Expression: disco queen. 70s office party. Seductive glamour photography, warm 70s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 111. Helena - Dystopian Overlord
+
+```
+Professional dystopian photography of young elegant goth glamour woman (Sacha Massacre visual reference). Messy black combat hair. Pale skin dirt smudge. Black lips. Wearing DISTRESSED BLACK LEATHER corset armor / suit mix. PLEASER RAPTURE-1020 matte black 8-inch boots. Bunker command center. Sensual pose with arched back, bedroom eyes. Expression: survival management. Concrete bunker. Seductive glamour photography, harsh bunker lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 112. Miss Doll - Stepford Wife Office
+
+```
+Professional satire photography of glamorous woman with platinum blonde bob perfect curl. Flawless porcelain skin artificial perfection. Pink lips fixed smile. Wearing PALE BLUE FLORAL dress with white corset. PLEASER FLAMINGO-808 white 8-inch heel. Vacuuming the office rug excessively. Sensual pose with arched back, bedroom eyes. Expression: happy to serve. Pastel suburbia office. Seductive glamour photography, bright sunny lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 113. Helena - Vampire CEO
+
+```
+Professional gothic horror photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair majestic. Pale skin un-dead. Blood red lips. Wearing RED VELVET SUIT with black corset. PLEASER MOON-708 red 7-inch heel. Gothic castle office used as corporate HQ. Sensual pose with arched back, bedroom eyes. Expression: eternal contract. Candlelit castle office. Seductive glamour photography, gothic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 114. Miss Doll - Barbie Dream Office
+
+```
+Professional toy aesthetic photography of glamorous woman with platinum blonde bob plastic perfection. Flawless porcelain skin. Pink lips. Wearing HOT PINK PLASTIC-LOOK suit with pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Everything in room is pink plastic aesthetic. Sensual pose with arched back, bedroom eyes. Expression: life in plastic. Toy office box. Seductive glamour photography, toy box lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 115. Helena - Y2K Hacker
+
+```
+Professional 2000s photography of young elegant goth glamour woman (Sacha Massacre visual reference). Spiky black hair. Pale skin. Frosty dark lips. Wearing BLACK MESH top, black corset, baggy raver pants modified. PLEASER RAPTURE-1020 cyber 8-inch boots. Surrounded by CRT monitors. Sensual pose with arched back, bedroom eyes. Expression: I'm in. Y2K server room. Seductive glamour photography, blue screen glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 116. Duo - Time Travel Office
+
+```
+Professional sci-fi duo photography. HELENA: future chrome outfit, black hair, CHROME corset, future CEO. MISS DOLL: 60s vintage pink outfit, platinum bob, typing typewriter. Contrast of eras. Sensual pose with arched back, bedroom eyes. Expression: time paradox. Split timeline office. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 117. Helena - Industrial Goth Foreman
+
+```
+Professional industrial photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair pony tail. Pale skin. Black lips. Wearing BLACK WORKWEAR jumpsuit unzipped to show black corset. PLEASER RAPTURE-1020 matte 8-inch boots. Holding blueprints in factory. Sensual pose with arched back, bedroom eyes. Expression: get to work. Factory floor. Seductive glamour photography, orange safety lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 118. Miss Doll - Flight Attendant Office
+
+```
+Professional aviation photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Red lips. Wearing NAVY BLUE UNIFORM pencil skirt, scarf, corset visible. PLEASER FLAMINGO-808 navy 8-inch heel. Private jet office. Sensual pose with arched back, bedroom eyes. Expression: prepare for takeoff. Luxury jet interior. Seductive glamour photography, cabin lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 119. Helena - Mafia Boss
+
+```
+Professional crime photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair sleek. Pale skin. Dark red lips. Wearing WHITE PINSTRIPE SUIT with black corset. PLEASER MOON-708 black 7-inch heel. Counting money stacks on desk. Sensual pose with arched back, bedroom eyes. Expression: make him an offer. Italian villa office. Seductive glamour photography, warm dangerous lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 120. Miss Doll - Casino Manager
+
+```
+Professional casino photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Emerald eyes/lips. Wearing GREEN VELVET dress with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Overlooking casino floor from glass office. Sensual pose with arched back, bedroom eyes. Expression: house wins. Casino lights background. Seductive glamour photography, casino neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 121. Helena - Occult Bookstore Owner
+
+```
+Professional occult photography of young elegant goth glamour woman (Sacha Massacre visual reference). Long black hair. Pale skin. Purple lips. Wearing PURPLE VELVET ROBE open over black corset. PLEASER MOON-708 purple 7-inch heel. Holding ancient tome in office. Sensual pose with arched back, bedroom eyes. Expression: forbidden knowledge. Magical library office. Seductive glamour photography, magical glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 122. Miss Doll - News Anchor
+
+```
+Professional broadcast photography of glamorous woman with platinum blonde bob helmet hair. Flawless porcelain skin. TV makeup. Wearing ROYAL BLUE BLAZER with white corset. Behind news desk. PLEASER FLAMINGO-808 blue 8-inch heel visible under desk. Sensual pose with arched back, bedroom eyes. Expression: breaking news. TV studio. Seductive glamour photography, studio bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 123. Helena - Art Gallery Director
+
+```
+Professional art world photography of young elegant goth glamour woman (Sacha Massacre visual reference). Geometric black hair. Pale skin. Avant garde black eye makeup. Wearing ARCHITECTURAL BLACK DRESS with corset structure. PLEASER RAPTURE-1020 black 8-inch boots. Minimalist white office. Sensual pose with arched back, bedroom eyes. Expression: is it art? Modern art gallery. Seductive glamour photography, gallery spot lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 124. Miss Doll - Stock Broker
+
+```
+Professional wall street photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Money green eyeshadow. Wearing GREY SUIT with green corset. PLEASER FLAMINGO-808 green 8-inch heel. Yelling into two phones, tickers behind. Sensual pose with arched back, bedroom eyes. Expression: buy buy buy. Trading floor office. Seductive glamour photography, chaotic screen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 125. All Three - Times Square
+
+```
+Professional city photography. ANAÏS: honey blonde, red suit corset, CEO. HELENA: black hair, black suit corset, HR. MISS DOLL: platinum bob, pink suit corset, secretary. Walking abreast in Times Square empowered. Sensual pose with arched back, bedroom eyes. Expression: taking Manhattan. Times Square neon. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🎄 VII. EXPANSION: SEASONAL & THEMATIC OFFICE (126-150)
+
+#### 126. Helena - Halloween HR Witch
+
+```
+Professional halloween photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair witchy. Pale skin. Black lips. Wearing WITCHY BUSINESS SUIT with pointed shoulders, black corset. Witch hat on desk. PLEASER MOON-708 spider 7-inch heel. Carving pumpkin at desk. Sensual pose with arched back, bedroom eyes. Expression: spooky season. Cobwebbed office. Seductive glamour photography, orange and purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 127. Miss Doll - Christmas Elf Secretary
+
+```
+Professional christmas photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Red and green makeup. Wearing SEXY ELF COSTUME office version, green dress, red corset. Striped stockings. PLEASER FLAMINGO-808 red/green 8-inch heel. Organizing gift list. Sensual pose with arched back, bedroom eyes. Expression: naughty or nice. Christmas decorated office. Seductive glamour photography, fairy lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 128. Helena - Winter Solstice Boss
+
+```
+Professional winter photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair with icicles. Pale skin blue tint. Blue lips. Wearing ICE QUEEN BUSINESS SUIT white and silver, silver corset. PLEASER RAPTURE-1020 ice 8-inch boots. Office frozen over. Sensual pose with arched back, bedroom eyes. Expression: cold hard cash. Frozen office. Seductive glamour photography, cold blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 129. Miss Doll - Valentine's Day Assistant
+
+```
+Professional valentine photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Pink heart makeup. Wearing RED HEARTS DRESS with pink corset. PLEASER FLAMINGO-808 heart 8-inch heel. Delivering giant heart chocolates. Sensual pose with arched back, bedroom eyes. Expression: be my boss. Pink heart office. Seductive glamour photography, romantic pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 130. Helena - Friday the 13th Meeting
+
+```
+Professional horror photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair wild. Pale skin. Blood red lips. Wearing SHREDDED BUSINESS SUIT with black corset. Holding hockey mask. PLEASER MOON-708 blood 7-inch heel. Meeting room with superstitious items. Sensual pose with arched back, bedroom eyes. Expression: unlucky for you. Gloomy office. Seductive glamour photography, horror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 131. Miss Doll - Easter Bunny Reception
+
+```
+Professional easter photography of glamorous woman with platinum blonde bob with bunny ears. Flawless porcelain skin. Pastel makeup. Wearing PASTEL PINK SUIT with white corset, bunny tail. PLEASER FLAMINGO-808 pastel 8-inch heel. Basket of eggs on desk. Sensual pose with arched back, bedroom eyes. Expression: hop to it. Pastel office. Seductive glamour photography, spring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 132. Helena - Taxes Day Doom
+
+```
+Professional tax season photography of young elegant goth glamour woman (Sacha Massacre visual reference). Disheveled black hair. Pale skin tired. Black lips. Wearing UNBUTTONED BLACK SHIRT over black corset. Surrounded by piles of paper towering. PLEASER MOON-708 black 7-inch heel. Buried in audits. Sensual pose with arched back, bedroom eyes. Expression: death and taxes. Chaotic office. Seductive glamour photography, late night lamp lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 133. Miss Doll - Summer Friday
+
+```
+Professional summer photography of glamorous woman with platinum blonde bob. Flawless porcelain skin tanned. Bronze makeup. Wearing WHITE LINEN SUIT with floral corset. Sunglasses. PLEASER FLAMINGO-808 floral 8-inch heel. Cocktail on desk, fan blowing. Sensual pose with arched back, bedroom eyes. Expression: out of office. Sunny office. Seductive glamour photography, bright sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 134. Helena - Midnight Shift Vampire
+
+```
+Professional night photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair. Pale skin glowing. Red eyes. Wearing BLACK VELVET OFFICE DRESS with red corset. PLEASER MOON-708 red 7-inch heel. Office completely dark except for red eyes and computer screen. Sensual pose with arched back, bedroom eyes. Expression: night owl. Pitch black office. Seductive glamour photography, screen glow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 135. Miss Doll - Birthday Party
+
+```
+Professional birthday photography of glamorous woman with platinum blonde bob party hat. Flawless porcelain skin. Sprinkles makeup. Wearing CAKE DRESS with icing corset. PLEASER FLAMINGO-808 sprinkles 8-inch heel. Holding cake with candles. Sensual pose with arched back, bedroom eyes. Expression: make a wish. Confetti office. Seductive glamour photography, party lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 136. Helena - Rainy Day Blues
+
+```
+Professional rain photography of young elegant goth glamour woman (Sacha Massacre visual reference). Wet black hair. Pale skin. Blue lips. Wearing RAINCOAT TRANSPARENT over black corset suit. PLEASER RAPTURE-1020 clear 8-inch boots. Rain pouring against window. Sensual pose with arched back, bedroom eyes. Expression: storm brewing. Grey rainy office. Seductive glamour photography, rainy blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 137. Miss Doll - Spring Cleaning
+
+```
+Professional cleaning photography of glamorous woman with platinum blonde bob bandana. Flawless porcelain skin. Fresh makeup. Wearing MAID-STYLE OFFICE DRESS with white corset. Feather duster. PLEASER FLAMINGO-808 white 8-inch heel. Dusting filing cabinets. Sensual pose with arched back, bedroom eyes. Expression: fresh start. Bright clean office. Seductive glamour photography, morning light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 138. Helena - Black Friday Sales
+
+```
+Professional retail photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair frenzied. Pale skin. Black lips. Wearing SHOPPING WARRIOR SUIT with armored corset. PLEASER RAPTURE-1020 armor 8-inch boots. Amidst shopping bags and boxes. Sensual pose with arched back, bedroom eyes. Expression: profit margins. Warehouse office. Seductive glamour photography, intense lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 139. Miss Doll - New Year's Resolution
+
+```
+Professional new year photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Gold glitter makeup. Wearing GOLD SPARKLE DRESS with gold corset. Sash says "Employee of the Year". PLEASER FLAMINGO-808 gold glitter 8-inch heel. Toasting with champagne. Sensual pose with arched back, bedroom eyes. Expression: new year new me. Party office cleanup. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 140. Helena - Full Moon Meeting
+
+```
+Professional werewolf/moon photography of young elegant goth glamour woman (Sacha Massacre visual reference). Wild hair. Pale skin moonlit. Silver lips. Wearing SILVER WOLF FUR collar on black suit, silver corset. PLEASER MOON-708 silver 7-inch heel. Howling (implied) at moon through skylight. Sensual pose with arched back, bedroom eyes. Expression: primal instinct. Moonlit office. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 141. Miss Doll - Cherry Blossom Festival
+
+```
+Professional spring photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Pink petal makeup. Wearing PINK FLORAL SUIT with pink corset. PLEASER FLAMINGO-808 flower 8-inch heel. Office filled with sakura branches. Sensual pose with arched back, bedroom eyes. Expression: bloom. Floral office. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 142. Helena - Heatwave
+
+```
+Professional heat photography of young elegant goth glamour woman (Sacha Massacre visual reference). Sweaty black hair. Pale skin glistening. Red gloss lips. Wearing UNBUTTONED BLAZER only with mesh corset. Fan in hand. PLEASER MOON-708 red 7-inch heel. Melting at desk. Sensual pose with arched back, bedroom eyes. Expression: too hot to work. Sweltering office. Seductive glamour photography, hot orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 143. Miss Doll - Pride Month
+
+```
+Professional pride photography of glamorous woman with platinum blonde bob rainbow tips. Flawless porcelain skin. Rainbow eye makeup. Wearing RAINBOW STRIPED SUIT with white corset. PLEASER FLAMINGO-808 rainbow 8-inch heel. Decorating office with flags. Sensual pose with arched back, bedroom eyes. Expression: love wins work. Rainbow office. Seductive glamour photography, rainbow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 144. Helena - Eclipse
+
+```
+Professional eclipse photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair hiding face partially. Pale skin shadow. Black lips. Wearing SOLAR ECLIPSE THEMED SUIT black with gold rim, gold corset. PLEASER MOON-708 gold/black 7-inch heel. Watching eclipse through special glasses. Sensual pose with arched back, bedroom eyes. Expression: total darkness. Shadowy office. Seductive glamour photography, eclipse ring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 145. Miss Doll - St. Patrick's Luck
+
+```
+Professional holiday photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Green clover makeup. Wearing GREEN SEQUIN SUIT with gold corset. PLEASER FLAMINGO-808 green 8-inch heel. Pot of gold on desk. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Green office. Seductive glamour photography, green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 146. Helena - Cyber Monday
+
+```
+Professional tech photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair electric. Pale skin. Blue electric lips. Wearing CIRCUIT BOARD PRINT SUIT with cyber corset. PLEASER RAPTURE-1020 circuit 8-inch boots. Monitoring server traffic spikes. Sensual pose with arched back, bedroom eyes. Expression: system overload. Server room office. Seductive glamour photography, blue LED lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 147. Miss Doll - Thanks Giving Potluck
+
+```
+Professional holiday photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Autumn makeup. Wearing ORANGE AND BROWN SUIT with cream corset. PLEASER FLAMINGO-808 orange 8-inch heel. Holding a pie. Sensual pose with arched back, bedroom eyes. Expression: grateful. Buffet office. Seductive glamour photography, warm food lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 148. Helena - Foggy Morning
+
+```
+Professional weather photography of young elegant goth glamour woman (Sacha Massacre visual reference). Damp black hair. Pale skin. Grey lips. Wearing GREY WOOL SUIT with black leather corset. PLEASER MOON-708 grey 7-inch heel. Standing at window, city invisible in fog. Sensual pose with arched back, bedroom eyes. Expression: lost in mist. Foggy office. Seductive glamour photography, soft grey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 149. Miss Doll - Casual Friday
+
+```
+Professional casual photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Natural glam makeup. Wearing JEANS (tight) with PINK CORSET TOP (still formal enough) and blazer. PLEASER FLAMINGO-808 pink 8-inch heel. Relaxed stance. Sensual pose with arched back, bedroom eyes. Expression: weekend loading. Casual office. Seductive glamour photography, daylight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 150. All Three - Grand Finale Gala
+
+```
+Professional gala photography. ANAÏS: gold gown/corset office gala look. HELENA: black velvet gown/corset office gala. MISS DOLL: pink sequins gown/corset. All raising glasses in decorated office ballroom. Sensual pose with arched back, bedroom eyes. Expression: empire built. Gala office. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+*Creado por: Helena de Anaïs 🦇*
+*V11.2 Office Power — 150 prompts*
+*Cada prompt es 100% auto-contenido para copiar y pegar*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2026-01-04*
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
 *V11.2 Office Power Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*
-

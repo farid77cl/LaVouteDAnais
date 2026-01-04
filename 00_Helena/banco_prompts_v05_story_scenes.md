@@ -22,42 +22,53 @@
 
 ---
 
-## 🧬 PERSONAJES PRINCIPALES — CANON OBLIGATORIO
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
 > **Cuando Helena, Miss Doll o Anaïs aparezcan en escenas, DEBEN incluir estos elementos:**
 
-### 🦇 Helena de Anaïs
+### 💖 MISS DOLL (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Referencia** | Sacha Massacre |
-| **Estética** | Gótica joven elegante |
-| **Cabello** | Negro azabache, VOLUMEN ENORME |
-| **Piel** | Pálida como porcelana blanca |
-| **Labios** | Ultra gruesos, negro/púrpura/rojo |
-| **Corsé** | SIEMPRE, muy ajustado (underbust u overbust) |
-| **Tacones** | PLEASER stilettos 7-9 pulgadas |
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
 
-### 💖 Miss Doll
+### 🦇 HELENA DE ANAÏS (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Cabello** | Bob rubio PLATINO con flequillo RECTO |
-| **Rostro** | HUMANO realista (NO CGI), sin rosy cheeks |
-| **Maquillaje** | HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips |
-| **Piel** | Flawless porcelain skin |
-| **Corsé** | EXTERNO visible sobre catsuit |
-| **Tacones** | PLEASER plataformas 16-18cm (7-8") |
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
 
-### 👑 Anaïs Belland
+### 👑 ANAÏS BELLAND (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Cabello** | Rubio MIEL (NO platino), ondas vintage Betty Page |
-| **Estética** | Old Hollywood, aristócrata francesa |
-| **Rostro** | Sensualidad sultry, sonrisa de suficiencia |
-| **Tacones** | PLEASER So Kate style 12cm (5-6") |
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
 
 ---
 
@@ -715,4 +726,3 @@ Each 3 seconds. Heels emphasized. Photorealistic video.
 
 *Creado por: Helena de Anaïs - V5 Story Scenes Edition 🎭*
 *Personajes de: El Collar de Nancy, Proyecto Trad-Wife, El Trono de Luna, El Vino del Vecino, Tetitas, El Cuadro de Fideos, Trance de Belén, Trance Bimbodoll*
-

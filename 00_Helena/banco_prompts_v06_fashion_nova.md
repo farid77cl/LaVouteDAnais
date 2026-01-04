@@ -8,7 +8,7 @@
 >
 > - **Miss Doll:** Puede usar neones, azules, verdes, metálicos (no solo rosa).
 > - **Helena:** Puede usar rojos profundos, púrpuras, dorados, blancos, azul real (no solo negro).
-> **Total:** 55+ prompts | **Actualizado:** 2025-12-29
+> **Total:** 150 prompts | **Actualizado:** 2026-01-04
 
 ---
 
@@ -694,9 +694,316 @@ Celebration trio shot. ANAÏS (center): honey blonde with gold glitter, wearing 
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V6.2 Fashion Nova & Oh Polly Edition — 100 prompts*
-*Incluye: Chainmail Collection (30 prompts), Duo/Trio con Chainmail*
-*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
-*Actualizado: 2025-12-31*
+## 🔥 VI. EXPANSION: NEON NIGHTS COLLECTION (101-125)
 
+#### 101. Helena - Neon Purple Rave
+
+```
+Full body shot of Helena at underground rave party. Wearing Fashion Nova "Electric Dreams Mesh Bodysuit" in NEON PURPLE under black latex shorts. Black underbust corset with LED strips. UV reactive makeup glowing. Black platform boots 9-inch. Wild black hair with purple glow. Arms raised dancing. Laser lights background. Seductive glamour photography, UV rave lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 102. Miss Doll - Neon Green Goddess
+
+```
+Full body shot of Miss Doll in neon nightclub. Platinum blonde bob glowing under blacklight. Wearing Oh Polly "Toxic Love Vinyl Mini" in NEON GREEN ultra shiny. Pink corset visible underneath. Pink platforms 8-inch. Heavy glamour makeup with green eyeshadow popping. Pose: Leaning on bar, cocktail in hand. Laser green background. Seductive glamour photography, neon club lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 103. Helena - Holographic Serpent
+
+```
+Medium shot of Helena in futuristic club booth. Wearing Fashion Nova "Digital Scales Holographic Dress" reflecting rainbow colors. Black corset belt accentuating waist. Black stilettos 8-inch. Voluminous black hair with holographic streaks. Dark berry lips. Pose: Lounging seductively. Background: Digital screens with abstract art. Seductive glamour photography, holographic lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 104. Miss Doll - Electric Blue Storm
+
+```
+Full body shot of Miss Doll on rooftop helipad. Platinum bob windblown. Wearing Oh Polly "Storm Chaser Satin Gown" in ELECTRIC BLUE, high slit. Pink corset visible at waist. Pink platforms 8-inch. Heavy glamour makeup with blue accents. Pose: Hair blowing, dramatic wind pose. Background: City lights and lightning. Seductive glamour photography, storm dramatic lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 105. Helena - Copper Metallic Queen
+
+```
+Three-quarter shot of Helena in industrial warehouse. Wearing Fashion Nova "Industrial Femme Metallic Set" in COPPER: bandeau top and high-waisted pants. Black underbust corset over. Black stilettos 8-inch with copper tips. Voluminous black hair wild. Copper lipstick matching outfit. Pose: Arms crossed, dominant stance. Rustic metal background. Seductive glamour photography, industrial warm lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 106. Miss Doll - Sunset Orange Siren
+
+```
+Full body shot of Miss Doll on yacht at sunset. Platinum bob with orange highlights. Wearing Oh Polly "Golden Hour Mini" in SUNSET ORANGE satin. Pink corset belt. Pink wedge platforms 8-inch. Heavy glamour makeup with bronze eyes. Pose: Leaning on yacht railing, wind in hair. Ocean sunset matching dress. Seductive glamour photography, golden hour lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 107. Helena - Teal Temptress
+
+```
+Close up shot of Helena in luxury spa setting. Wearing Fashion Nova "Mermaid Dreams Velvet Wrap" in DEEP TEAL. Black corset underneath visible at waist. Voluminous black hair with teal streaks. Teal lipstick. Black stilettos 8-inch. Pose: Sitting on marble bench, legs crossed high. Background: Steam and teal tiles. Seductive glamour photography, spa ambient lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 108. Miss Doll - Coral Reef Beauty
+
+```
+Full body shot of Miss Doll at pool party. Platinum bob perfectly styled. Wearing Oh Polly "Coral Kiss Bikini Set" with sheer CORAL coverup. Pink platforms 8-inch at poolside. Heavy glamour makeup waterproof with coral lips. Pose: Walking on pool edge, confident strut. Background: Luxury pool with coral decorations. Seductive glamour photography, pool party lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 109. Helena - Magenta Mystique
+
+```
+Full body shot of Helena in art gallery opening. Wearing Fashion Nova "Gallery Femme Satin Blazer Dress" in MAGENTA. Black corset visible under open blazer. Black stilettos 8-inch. Voluminous black hair sleek for once. Magenta lips. Pose: Champagne in hand, art piece behind her. Background: Modern art gallery. Seductive glamour photography, gallery spotlight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 110. Miss Doll - Lavender Dream
+
+```
+Medium shot of Miss Doll in luxury bedroom. Platinum bob with lavender tips. Wearing Oh Polly "Sweet Dreams Lace Set" in LAVENDER, ultra feminine. Pink corset underneath. Pink platforms 8-inch beside bed. Heavy glamour makeup with lavender eyeshadow. Pose: Sitting on bed edge, innocent expression. Background: Lavender silk sheets. Seductive glamour photography, soft bedroom lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 111. Duo - Neon Contrast
+
+```
+Professional duo shot at neon arcade. HELENA: black hair with green tips, wearing NEON GREEN mesh top over black bralette, black shorts, black corset, black platforms 8-inch. MISS DOLL: platinum bob, wearing NEON PINK latex mini, pink corset, pink platforms 8-inch. Both playing arcade games. Background: Retro neon arcade. Seductive glamour photography, arcade neon lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 112. Helena - Burgundy Boss
+
+```
+Full body shot of Helena in private jet. Wearing Fashion Nova "Mile High Club Suit" in BURGUNDY velvet. Black corset belt. Black stilettos 8-inch. Voluminous black hair perfect. Burgundy lips. Champagne in hand. Pose: Seated in leather chair, legs crossed. Background: Private jet interior. Seductive glamour photography, luxury travel lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 113. Miss Doll - Mint Fresh
+
+```
+Full body shot of Miss Doll at brunch cafe. Platinum bob with mint green temporary streaks. Wearing Oh Polly "Fresh Start Midi" in MINT GREEN. Pink corset visible at waist. Pink platforms 8-inch. Heavy glamour makeup fresh. Pose: Holding mimosa, posing for photo. Background: Chic brunch spot. Seductive glamour photography, natural daylight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 114. Helena - Sapphire Night
+
+```
+Medium shot of Helena in casino high roller area. Wearing Fashion Nova "Royal Flush Sequin Gown" in SAPPHIRE BLUE. Black corset integrated. Black stilettos 8-inch. Voluminous black hair with sapphire jeweled pins. Blue lips. Pose: Throwing dice, intense stare. Background: Casino luxury. Seductive glamour photography, casino lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 115. Miss Doll - Peach Paradise
+
+```
+Full body shot of Miss Doll at tropical resort. Platinum bob beach waves. Wearing Oh Polly "Island Life Set" in PEACH: crop and midi skirt. Pink corset underneath crop. Pink wedge platforms 8-inch. Heavy glamour makeup with peach tones. Pose: Walking on resort path. Background: Palm trees and ocean. Seductive glamour photography, tropical lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 116. Trio - Metallic Trio
+
+```
+Editorial trio shot at fashion event. ANAÏS (center): honey blonde, GOLD metallic gown, gold heels. HELENA (left): black hair in bun, SILVER metallic dress, black corset, silver stilettos 8-inch. MISS DOLL (right): platinum bob, ROSE GOLD metallic mini, pink corset, rose gold platforms 8-inch. Red carpet pose. Seductive glamour photography, paparazzi flash lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 117. Helena - Forest Green Huntress
+
+```
+Full body shot of Helena in dark forest setting. Wearing Fashion Nova "Night Hunter Latex Catsuit" in FOREST GREEN. Black corset over catsuit. Black boots 9-inch thigh high. Voluminous black hair with leaves. Dark green lips. Pose: Crouching predator stance. Background: Moonlit forest. Seductive glamour photography, moonlight atmospheric, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 118. Miss Doll - Bubblegum Pop
+
+```
+Full body shot of Miss Doll at candy shop. Platinum bob with pink highlights. Wearing Oh Polly "Sugar Rush Mini" in BUBBLEGUM PINK ultra bright. Pink corset matching. Pink platforms 8-inch. Heavy glamour makeup in pinks. Pose: Licking lollipop, wide innocent eyes. Background: Candy shop colorful. Seductive glamour photography, candy bright lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 119. Helena - Champagne Gold Luxury
+
+```
+Medium shot of Helena at opera gala. Wearing Fashion Nova "Prima Donna Gown" in CHAMPAGNE GOLD satin. Black corset visible at waist. Black stilettos 8-inch with gold tips. Voluminous black hair in elegant updo. Gold lips. Pose: Opera glasses in hand. Background: Opera house balcony. Seductive glamour photography, opera house lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 120. Miss Doll - Sky Blue Angel
+
+```
+Full body shot of Miss Doll in white studio. Platinum bob perfect. Wearing Oh Polly "Heaven Sent Dress" in SKY BLUE with white feather details. Pink corset underneath. Pink platforms 8-inch white. Heavy glamour makeup soft. Pose: Arms out like wings, dreamy expression. Background: White feathers floating. Seductive glamour photography, bright studio lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 121. Duo - Fire and Ice
+
+```
+Professional duo shot in contrast setting. HELENA: black hair sleek, wearing ICE BLUE metallic dress, black corset, clear crystal stilettos 9-inch, cold expression. MISS DOLL: platinum bob, wearing FLAME RED latex mini, pink corset with flames, red platforms 8-inch, playful expression. Steam between them. Background: half blue half red set. Seductive glamour photography, contrasting color lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 122. Helena - Plum Perfect
+
+```
+Three-quarter shot of Helena at wine tasting. Wearing Fashion Nova "Vineyard Vixen Wrap Dress" in DEEP PLUM velvet. Black corset belt. Black stilettos 8-inch. Voluminous black hair loose. Plum lips matching. Pose: Swirling wine glass. Background: Wine cellar barrels. Seductive glamour photography, wine cellar warm lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 123. Miss Doll - Banana Yellow Fun
+
+```
+Full body shot of Miss Doll at beach party. Platinum bob with yellow flower. Wearing Oh Polly "Sunshine Vibes Bikini" in BRIGHT YELLOW. Pink sarong wrapped. Pink platforms 8-inch beach style. Heavy glamour makeup with yellow eyeshadow. Pose: Dancing with maracas. Background: Beach party decorations. Seductive glamour photography, sunny beach lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 124. Helena - Slate Grey Power
+
+```
+Full body shot of Helena in corporate boardroom. Wearing Fashion Nova "CEO Bitch Suit" in SLATE GREY power suit. Black corset visible under blazer. Black stilettos 8-inch. Voluminous black hair in power bun. Nude dark lips. Pose: Hands on conference table, intimidating lean. Background: Skyline through windows. Seductive glamour photography, corporate lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 125. Miss Doll - Rainbow Unicorn
+
+```
+Full body shot of Miss Doll at pride parade float. Platinum bob with rainbow extensions. Wearing Oh Polly "Magical Being Set" in RAINBOW holographic colors. Pink corset with rainbow trim. Pink platforms 8-inch with glitter. Heavy glamour makeup rainbow eyes. Pose: Blowing kisses, confetti falling. Background: Pride parade celebration. Seductive glamour photography, celebration lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🌟 VII. EXPANSION: LUXURY OCCASIONS (126-150)
+
+#### 126. Trio - Met Gala Fantasy
+
+```
+Met Gala trio shot on red carpet. ANAÏS (center): honey blonde sculptural updo, wearing GOLD architectural gown couture level, gold corset integrated, gold heels. HELENA (left): black hair in geometric style, wearing BLACK avant-garde dress with silver spikes, black corset visible, silver stilettos 9-inch. MISS DOLL (right): platinum bob with sculptural element, wearing PINK feathered fantasy gown, pink corset, pink platforms 8-inch with crystals. Met Gala carpet. Seductive glamour photography, gala lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 127. Helena - Monaco Casino Night
+
+```
+Full body shot of Helena at Monte Carlo casino. Wearing Fashion Nova "High Stakes Gown" in MIDNIGHT BLACK with diamond accents. Black corset integrated. Black stilettos 8-inch with diamond tips. Voluminous black hair Hollywood waves. Red lips classic. Pose: At roulette table, placing bet. Background: Luxury Monaco casino. Seductive glamour photography, casino golden lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 128. Miss Doll - Dubai Shopping Spree
+
+```
+Full body shot of Miss Doll in Dubai Mall. Platinum bob under designer sunglasses. Wearing Oh Polly "Shopping Day Chic" in PALE PINK matching set. Pink corset visible. Pink platforms 8-inch. Heavy glamour makeup. Multiple shopping bags in hands. Pose: Walking like a model. Background: Dubai Mall luxury. Seductive glamour photography, mall luxury lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 129. Helena - Yacht Party Hostess
+
+```
+Full body shot of Helena hosting yacht party. Wearing Fashion Nova "Captain's Lady Dress" in NAVY with gold buttons. Black corset belt nautical style. Black wedge stilettos 8-inch deck appropriate. Voluminous black hair windblown. Pose: Champagne toast raised. Background: Mega yacht deck, ocean sunset. Seductive glamour photography, sunset yacht lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 130. Miss Doll - Aspen Ski Bunny
+
+```
+Full body shot of Miss Doll at Aspen ski lodge. Platinum bob under pink fur hat. Wearing Oh Polly "Après-Ski Chic" in HOT PINK ski suit fitted. Pink corset visible unzipped. Pink fur boots 8-inch platform. Heavy glamour makeup flushed cheeks. Pose: Hot cocoa in hand, fireplace behind. Background: Luxury ski lodge. Seductive glamour photography, fireplace warm lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 131. Duo - Cannes Film Festival
+
+```
+Red carpet duo shot at Cannes. HELENA: black hair elegant updo, wearing WHITE crystal gown with high slit, black corset visible, white stilettos 8-inch with crystal. MISS DOLL: platinum bob perfect, wearing BLUSH PINK flowing gown, pink corset, pink heels with crystals. Both posing for paparazzi. Background: Cannes red carpet. Seductive glamour photography, red carpet flash lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 132. Helena - Art Basel Queen
+
+```
+Full body shot of Helena at Art Basel Miami. Wearing Fashion Nova "Art World Attitude" in ABSTRACT PRINT bold colors. Black corset over. Black stilettos 8-inch. Voluminous black hair with art paint streaks. Pose: Standing next to modern art piece she "created". Background: Art Basel gallery. Seductive glamour photography, gallery white lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 133. Miss Doll - Beverly Hills Lunch
+
+```
+Medium shot of Miss Doll at Beverly Hills restaurant. Platinum bob perfect. Wearing Oh Polly "Beverly Hills Baby" in CREAM satin matching set. Pink corset underneath. Pink heels 8-inch. Heavy glamour makeup subtle day. Pose: Salad and champagne on table, gossip pose. Background: Beverly Hills restaurant terrace. Seductive glamour photography, California daylight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 134. Helena - Tokyo Nights
+
+```
+Full body shot of Helena in Tokyo Shibuya crossing. Wearing Fashion Nova "Harajuku Fusion" in NEON RED with Japanese print. Black corset with kanji design. Black platform boots 9-inch. Voluminous black hair with red clips. Red lips. Pose: Walking across crossing, people blur around her. Background: Tokyo neon signs. Seductive glamour photography, Tokyo neon lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 135. Miss Doll - Mykonos Vacation
+
+```
+Full body shot of Miss Doll in Mykonos Greece. Platinum bob with white flower. Wearing Oh Polly "Greek Goddess Set" in WHITE with gold accents. Pink corset with gold trim. Gold sandal platforms 8-inch. Heavy glamour makeup with gold highlights. Pose: Walking past white buildings. Background: Mykonos blue domes and whitewash. Seductive glamour photography, Mediterranean lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 136. Trio - New York Fashion Week
+
+```
+Front row trio shot at NYFW. ANAÏS (center): honey blonde sleek, wearing CAMEL designer suit, nude heels, notepad. HELENA (left): black hair severe, wearing BLACK leather dress, black corset, black stilettos 8-inch, bored expression. MISS DOLL (right): platinum bob, wearing PINK tweed set, pink corset, pink platforms 8-inch, excited expression. Fashion show front row. Seductive glamour photography, runway lighting, fashion aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 137. Helena - Paris Fashion Week After Party
+
+```
+Full body shot of Helena at Paris after party. Wearing Fashion Nova "Après Show Dress" in EMERALD velvet, low back. Black corset visible. Black stilettos 8-inch. Voluminous black hair down dramatic. Dark wine lips. Pose: Dancing alone in crowd, champagne glass. Background: Paris club with Eiffel Tower view. Seductive glamour photography, Paris nightlife lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 138. Miss Doll - Milan Shopping
+
+```
+Full body shot of Miss Doll in Milan Via Montenapoleone. Platinum bob designer styled. Wearing Oh Polly "Milan Moment" in NUDE PINK sophistication. Pink corset subtle. Pink heels 8-inch. Heavy glamour makeup Italian style. Multiple designer bags. Pose: Examining store window. Background: Milan luxury shops. Seductive glamour photography, European daylight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 139. Helena - London Fashion Week
+
+```
+Medium shot of Helena at London after party. Wearing Fashion Nova "British Invasion" in UNION JACK design crop and skirt. Black corset. Black platform boots 8-inch. Voluminous black hair punk styled. Dark lips. Pose: Punk pose, middle finger up. Background: London warehouse party. Seductive glamour photography, underground lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 140. Miss Doll - LA Pool Party
+
+```
+Full body shot of Miss Doll at Hollywood Hills pool party. Platinum bob wet look. Wearing Oh Polly "Pool Party Queen" in NEON ORANGE bikini. Pink platform sandals 8-inch poolside. Heavy glamour makeup waterproof. Pose: Emerging from pool, water dripping. Background: Infinity pool with LA skyline. Seductive glamour photography, golden hour pool lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 141. Duo - Ibiza Sunset
+
+```
+Professional duo shot at Ibiza club at sunset. HELENA: black hair windblown, wearing BLACK mesh coverup over red bikini, black platforms 8-inch. MISS DOLL: platinum bob, wearing WHITE mesh coverup over pink bikini, pink platforms 8-inch. Both arms raised dancing. Background: Ibiza sunset DJ booth. Seductive glamour photography, Ibiza sunset lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 142. Helena - Coachella Dark
+
+```
+Full body shot of Helena at Coachella night. Wearing Fashion Nova "Festival Witch" in BLACK crochet with fringe. Black corset visible. Black cowboy boots 8-inch. Voluminous black hair with flower crown black. Dark lips. Pose: Dancing at stage, fire dancers behind. Background: Festival at night. Seductive glamour photography, festival fire lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 143. Miss Doll - Coachella Pink
+
+```
+Full body shot of Miss Doll at Coachella day. Platinum bob with flower crown pink. Wearing Oh Polly "Festival Princess" in PINK crochet bikini top and shorts. Pink platforms 8-inch festival. Heavy glamour makeup with glitter. Pose: Peace signs, dancing. Background: Ferris wheel, day festival. Seductive glamour photography, festival daylight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 144. Trio - Oscar After Party
+
+```
+Glamour trio shot at Oscar after party. ANAÏS (center): honey blonde classic Hollywood, wearing OLD GOLD vintage gown, gold heels, holding Oscar statue (her partner's). HELENA (left): black hair vintage wave, wearing BLACK diamond gown, black corset visible, black stilettos 8-inch, jealous look. MISS DOLL (right): platinum bob vintage, wearing PALE PINK vintage gown, pink corset, pink platforms 8-inch, admiring Anaïs. Hollywood mansion party. Seductive glamour photography, Oscar party lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 145. Helena - Super Bowl VIP
+
+```
+Full body shot of Helena in Super Bowl VIP box. Wearing Fashion Nova "Game Day Glam" in team colors BLACK and SILVER. Black corset under jersey style top. Black stilettos 8-inch. Voluminous black hair with silver streaks. Pose: Cheering, beer in hand. Background: Stadium VIP box view. Seductive glamour photography, stadium lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 146. Miss Doll - Kentucky Derby
+
+```
+Full body shot of Miss Doll at Kentucky Derby. Platinum bob under massive PINK fascinator hat. Wearing Oh Polly "Derby Days Dress" in PINK and white floral. Pink corset visible. Pink heels 8-inch. Heavy glamour makeup Southern belle. Pose: Holding mint julep, parasol in other hand. Background: Horse race track. Seductive glamour photography, derby daylight, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 147. Helena - Formula 1 Monaco
+
+```
+Full body shot of Helena in F1 Monaco paddock. Wearing Fashion Nova "Grid Girl Evolution" in RED racing jumpsuit fitted. Black corset visible. Black stilettos 8-inch. Voluminous black hair in ponytail. Red lips. Pose: Leaning on F1 car. Background: Monaco GP paddock. Seductive glamour photography, racing paddock lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 148. Miss Doll - Wimbledon
+
+```
+Full body shot of Miss Doll at Wimbledon. Platinum bob under white sun hat. Wearing Oh Polly "Court Side Chic" in WHITE pleated dress tennis inspired. Pink corset visible at waist. Pink wedge heels 8-inch. Heavy glamour makeup fresh. Pose: Strawberries and champagne in hand, sitting courtside. Background: Wimbledon grass courts. Seductive glamour photography, British summer lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 149. Duo - Halloween Costume Ball
+
+```
+Professional duo shot at Halloween gala. HELENA: black hair with devil horns, wearing RED devil latex dress with tail, black corset visible, red stilettos 8-inch, trident prop. MISS DOLL: platinum bob with angel halo, wearing WHITE angel dress with wings, pink corset visible, white platforms 8-inch, harp prop. Good vs evil pose. Background: Halloween costume ball. Seductive glamour photography, Halloween dramatic lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 150. Trio - New Year's Eve Ball
+
+```
+Ultimate celebration trio shot at NYE gala. ANAÏS (center): honey blonde with diamonds, wearing SILVER sequin gown, silver corset, silver heels, holding "2026" glasses. HELENA (left): black hair with silver stars, wearing BLACK and silver sequin dress, black corset, silver stilettos 9-inch, champagne explosion. MISS DOLL (right): platinum bob with pink glitter, wearing PINK sequin gown, pink corset, clear platforms 8-inch, confetti throw. Countdown moment. Seductive glamour photography, NYE party lighting, celebration aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+*Creado por: Helena de Anaïs 🦇*
+*V6.3 Fashion Nova & Oh Polly Edition — 150 prompts*
+*Incluye: Chainmail Collection, Neon Nights, Luxury Occasions*
+*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*Actualizado: 2026-01-04*

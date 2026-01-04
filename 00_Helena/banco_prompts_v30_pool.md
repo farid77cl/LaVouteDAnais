@@ -3,7 +3,57 @@
 > **ENFOQUE:** Piscina, inflables, mojadas, bronceador, tropical vibes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **🎨 COLOR FREEDOM:** Helena (Black, Red, Animal Print). Miss Doll (Pink, Neon, Tropical).
-> **Total:** 50 prompts | **Actualizado:** 2026-01-02
+> **Total:** 100 prompts | **Actualizado:** 2026-01-04
+
+---
+
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+
+> [!CAUTION]
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+
+### 💖 MISS DOLL (BASE)
+
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
+
+### 🦇 HELENA DE ANAÏS (BASE)
+
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
+
+### 👑 ANAÏS BELLAND (BASE)
+
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
 
 ---
 
@@ -319,9 +369,315 @@ Professional romantic duo photography. HELENA: Sacha Massacre look in pool at su
 
 ---
 
+## 🌊 IV. EXPANSION: LUXURY & NIGHT SWIM (51-75)
+
+#### 51. Helena - Bioluminescent Night Swim
+
+```
+Professional night photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet smooth. Pale porcelain skin glowing blue. Black lips. Wearing BLACK MICRO BIKINI. Swimming in pool filled with bioluminescent algae (blue glow). Water glowing around her limbs. PLEASER removed. Magical night swim. Sensual ethereal pose. Expression: avatar of night. Bio glow. Seductive glamour photography, bio-luminescent lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Miss Doll - Champagne Spray Party
+
+```
+Professional party photography of glamorous woman with platinum blonde bob. Flawless porcelain skin wet. HEAVY GLAMOUR MAKEUP waterproof. Wearing GOLD SEQUIN BIKINI. Popping a magnum bottle of champagne, spraying foam everywhere. Pool party background blurred. PLEASER gold 8-inch heels poolside. Luxury celebration. Sensual party pose. Expression: make it rain. Champagne shower. Seductive glamour photography, party flash lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Underwater Mirror
+
+```
+Professional surreal underwater photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair floating. Pale porcelain skin ghost like. Black lips. Wearing BLACK GOWN underwater. Looking into a large baroque mirror submerged in the pool. Reflection visible. No heels. Surreal composition. Sensual reflection pose. Expression: narcissistic depth. Mirror underwater. Seductive glamour photography, underwater distortion, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Miss Doll - Jungle Pool Waterfall
+
+```
+Professional tropical photography of glamorous woman with platinum blonde bob wet. Flawless porcelain skin water droplets. HEAVY GLAMOUR MAKEUP. Wearing LEOPARD PRINT BIKINI. Standing under a pool waterfall feature. Water cascading over her. Tropical plants background. PLEASER clear heels waiting on rock. Jungle vibe. Sensual nature pose. Expression: wild wet. Waterfall. Seductive glamour photography, natural dappled lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Smoking in the Pool
+
+```
+Professional edgy photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair up in bun. Pale porcelain skin dry upper body. Black lips holding cigarette holder. Wearing VINTAGE BLACK HIGH WAIST BIKINI. Standing in shallow end, smoking elegantly. Smoke contrasting with water. PLEASER black mules poolside. Retro vibe. Sensual smoking pose. Expression: too cool to swim. Pool smoke. Seductive glamour photography, cinematic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Miss Doll - Inflatable Slide Fun
+
+```
+Professional fun photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PINK POLKA DOT BIKINI. Sliding down a giant pink inflatable slide into pool. Action shot of splash entry. Laughing. PLEASER pink heels on deck. Summer fun. Sensual action pose. Expression: pure joy. Slide splash. Seductive glamour photography, high shutter speed, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Obsidian Pool
+
+```
+Professional dark photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BLACK LATEX SWIMSUIT. In a pool made of black tiles (obsidian look). Black water. Reflection perfect. PLEASER black patent 8-inch heels standing on step in water. Dark luxury. Sensual reflective pose. Expression: black mirror. Obsidian water. Seductive glamour photography, high contrast lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Miss Doll - Fruit Hat Carmen
+
+```
+Professional tropical photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red lips. Wearing RUFFLED RED BIKINI. Giant fruit hat on head. Wading in pool holding pineapple cocktail. PLEASER red 8-inch heels poolside. Carmen Miranda vibe. Sensual fun pose. Expression: tropical queen. Fruit hat. Seductive glamour photography, vibrant color lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Stormy Sea Pool
+
+```
+Professional wave pool photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet messy. Pale porcelain skin. dark red lips. Wearing TORN BLACK SWIMSUIT (styled). In wave pool with artificial waves crashing. Fighting the current. PLEASER removed. Drama. Sensual struggle pose. Expression: siren in storm. Artificial storm. Seductive glamour photography, dynamic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Miss Doll - Yacht Pool Luxury
+
+```
+Professional ultra-luxury photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing DIAMOND ENCRUSTED BIKINI. In small glass-bottom pool on a super yacht. Ocean visible below. Champagne glass. PLEASER diamond 8-inch heels. Billionaire lifestyle. Sensual wealth pose. Expression: I own this. Yacht pool. Seductive glamour photography, bright marine lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Bloody Mary Pool
+
+```
+Professional halloween photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing RED VELVET BIKINI (waterproof velvet). Holding a Bloody Mary cocktail with elaborate garnish. Red pool light filter. PLEASER red 8-inch heels. Spooky cocktail. Sensual drinking pose. Expression: delicious blood. Bloody Mary. Seductive glamour photography, red tinted lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Miss Doll - Bubblegum Bubble
+
+```
+Professional playful photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing BLUE AND PINK STRIPED BIKINI. Blowing a huge pink bubblegum bubble while floating on back. Reflection in bubble. PLEASER pink 8-inch heels poolside. Candy colors. Sensual playful pose. Expression: pop. Gum bubble. Seductive glamour photography, pop art lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Candlelight Vigil
+
+```
+Professional atmospheric photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair dry. Pale porcelain skin. Black lips. Wearing BLACK LACE COVERUP over bikini. Sitting at pool edge surrounded by hundreds of floating candles. Reflection of flames. PLEASER black lace boots. Ritual vibe. Sensual mystic pose. Expression: silent prayer. Floating candles. Seductive glamour photography, candlelight, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Miss Doll - Water Gun Assassin
+
+```
+Professional action photography of glamorous woman with platinum blonde bob. Flawless porcelain skin wet. HEAVY GLAMOUR MAKEUP. Wearing CAMO PINK BIKINI. Dual wielding neon pink water guns. Spraying camera. Water droplets frozen in air. PLEASER pink boots poolside. Playful combat. Sensual action pose. Expression: soak them all. Water gun. Seductive glamour photography, action freeze lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Ophelia Drowning
+
+```
+Professional artistic photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair floating. Pale porcelain skin. Nude lips. Wearing WHITE MUSLIN DRESS wet transparency. Floating face up surrounded by real flowers (lilies, roses) in pool. Classical painting recreation. PLEASER removed. Art history. Sensual tragic pose. Expression: tragic beauty. Ophelia pool. Seductive glamour photography, soft diffuse lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 66. Miss Doll - Neon Tube Lights
+
+```
+Professional cyberpunk pool photography of glamorous woman with platinum blonde bob. Flawless porcelain skin neon reflection. HEAVY GLAMOUR MAKEUP neon. Wearing NEON GREEN BIKINI. Floating with flexible neon LED tubes in water. Glowing water. PLEASER neon green heels poolside. Cyber vibe. Sensual futuristic pose. Expression: electric dream. Neon pool. Seductive glamour photography, UV and neon lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Helena - Black Ice Pool
+
+```
+Professional winter pool photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Blue lips. Wearing BLACK FUR BIKINI (faux). By a heated pool in snow. Steam rising. Snow background. PLEASER black fur boots. Contrast hot/cold. Sensual winter pose. Expression: ice queen. Snow pool. Seductive glamour photography, steam and snow lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Pearl Diver
+
+```
+Professional fantasy photography of glamorous woman with platinum blonde bob wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl sheen. Wearing PEARL STRANDS BIKINI only pearls. Emerging from water holding a giant pearl. Wet hair slicked. PLEASER pearl heels waiting. Treasure hunter. Sensual discovery pose. Expression: found it. Pearl pool. Seductive glamour photography, shimmering lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Helena - Shadow Puppet Pool
+
+```
+Professional shadow photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair big silhouette. Pale porcelain skin. Black lips. Wearing BLACK CUTOUT SWIMSUIT. Standing against pool wall, casting dramatic shadow. Making shapes with hands. PLEASER black heels. Silhouette play. Sensual shadow pose. Expression: shadow caster. Shadow pool. Seductive glamour photography, hard directional lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Popsicle Melt
+
+```
+Professional vibrant photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing RAINBOW BIKINI. Holding a melting multi-colored popsicle running down hand. Sticky. PLEASER rainbow heels poolside. Hot summer. Sensual messy pose. Expression: hot sticky sweet. Popsicle. Seductive glamour photography, bright summer lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Helena - Raven Wing Pool
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing BLACK BIKINI with large black feather wings intact. Standing shallow end (wings dry). Reflection of wings in water. PLEASER black feather boots. Fallen angel. Sensual angel pose. Expression: grounded flight. Winged pool. Seductive glamour photography, dramatic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Glitter Sunscreen
+
+```
+Professional glitter photography of glamorous woman with platinum blonde bob. Flawless porcelain skin glittery. HEAVY GLAMOUR MAKEUP glitter. Wearing GOLD METALLIC BIKINI. Body covered in glitter sunscreen. Sparkling in sun. PLEASER gold glitter heels poolside. Sparkle overload. Sensual dazzling pose. Expression: blinding beauty. Glitter skin. Seductive glamour photography, starburst lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Helena - Tarot Card Pool
+
+```
+Professional mystic photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Purple lips. Wearing PURPLE SILK BIKINI. Floating waterproof tarot cards in pool. Reading fortune in water. PLEASER purple heels poolside. Witchy vibe. Sensual mystic pose. Expression: fate is wet. Tarot pool. Seductive glamour photography, mystic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Flamingo Flock
+
+```
+Professional humor photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing PINK FEATHER BIKINI. Standing in pool surrounded by dozens of plastic pink flamingo lawn ornaments floating. Queen of the flock. PLEASER pink feather heels poolside. Kitsch. Sensual fun pose. Expression: flock leader. Flamingo army. Seductive glamour photography, bright pink lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Helena - Ink Cloud
+
+```
+Professional artistic photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing WHITE SWIMSUIT. Releasing black ink into water around her, forming a dark cloud. Contrast of white suit and black ink. PLEASER white heels poolside. Ink art. Sensual cloud pose. Expression: darkness spreading. Ink pool. Seductive glamour photography, underwater ink lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👙 V. EXPANSION: FETISH & SCENARIO (76-100)
+
+#### 76. Miss Doll - Wet Shirt No Bra
+
+```
+Professional fetish photography of glamorous woman with platinum blonde bob wet. Flawless porcelain skin visible. HEAVY GLAMOUR MAKEUP waterproof. Wearing WHITE MEN'S DRESS SHIRT wet transparency, no bra, pink bikini bottoms. Water clinging to curves. Standing under pool shower. PLEASER pink heels. Boyfriend shirt vibe. Sensual reveal pose. Expression: oops wet. Wet shirt. Seductive glamour photography, high key lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Helena - Latex Mermaid
+
+```
+Professional fetish photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BLACK LATEX MERMAID TAIL skirt (tight ankle). Black latex bikini top. Lying on pool deck, shiny wet latex. PLEASER removed. Fetish mermaid. Sensual constricted pose. Expression: rubber siren. Latex pool. Seductive glamour photography, shiny reflection lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - High Heels Swimming
+
+```
+Professional fetish photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing NEON YELLOW BIKINI. Swimming underwater WEARING PLEASER 8-inch clear heels. Kicking legs, heels visible underwater. Surreal swim. Fetish focus. Sensual leg pose. Expression: never take them off. Heels swim. Seductive glamour photography, underwater clarity lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Helena - Bondage Tape Pool
+
+```
+Professional fetish photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BLACK ELECTRICAL TAPE BIKINI (tape art). Standing in shallow water. Tape wet and shiny. PLEASER black tape boots. Edgy fetish. Sensual tape pose. Expression: taped tight. Tape pool. Seductive glamour photography, sharp lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Oil Slick Slide
+
+```
+Professional fetish photography of glamorous woman with platinum blonde bob. Flawless porcelain skin oily. HEAVY GLAMOUR MAKEUP. Wearing TINY PINK BIKINI. Sliding on a pool mat covered in baby oil. Extremely shiny skin and surface. PLEASER pink heels nearby. Wet and messy. Sensual slide pose. Expression: slippery fun. Oil slide. Seductive glamour photography, highlight reflection lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 81. Helena - Chain Leash Pool
+
+```
+Professional fetish photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Silver lips. Wearing SILVER METAL BIKINI. Neck collar with silver chain disappearing into deep end of pool. PLEASER silver chrome heels. Mystery tether. Sensual captive pose. Expression: chained to depth. Chain pool. Seductive glamour photography, metallic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Miss Doll - Money Pool
+
+```
+Professional luxury photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold. Wearing GOLD COIN BIKINI. Swimming in a pool filled with floating waterproof cash/bills. Money everywhere. PLEASER gold heels poolside. Greedy. Sensual wealth pose. Expression: filthy rich. Money swim. Seductive glamour photography, gold and green lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Helena - Vampire Sunscreen
+
+```
+Professional conceptual photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair under parasol. Pale porcelain skin. Red lips. Wearing BLACK VINTAGE SWIMSUIT. Applying "SPF 5000" thick white paste to nose/shoulders. Paranoid about sun. PLEASER black heels. Vampire problems. Sensual protective pose. Expression: sun is enemy. Vampire pool day. Seductive glamour photography, shaded lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Miss Doll - Ice Cube Bath
+
+```
+Professional sensory photography of glamorous woman with platinum blonde bob. Flawless porcelain skin goosebumps. HEAVY GLAMOUR MAKEUP, blue lips. Wearing BLUE VELVET BIKINI. Kiddy pool filled entirely with ice cubes. Lying on ice. PLEASER blue velvet heels outside. Cold fetish. Sensual freezing pose. Expression: so cool. Ice pool. Seductive glamour photography, cold blue lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Helena - Spiked Float
+
+```
+Professional edgy photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing STUDDED LEATHER BIKINI. Floating on a custom pool float covered in (fake) spikes and studs. Punk rock float. PLEASER studded boots. Danger float. Sensual tough pose. Expression: don't touch. Spiked pool. Seductive glamour photography, hard lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Miss Doll - Lollipop Pool
+
+```
+Professional fantasy photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP candy. Wearing SWIRL PRINT BIKINI. Pool filled with thousands of floating lollipops. Wading through candy. PLEASER swirl heels. Candy dream. Sensual sweet pose. Expression: sugar rush. Lollipop pool. Seductive glamour photography, candy color lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Helena - Deep End Dive
+
+```
+Professional action photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair streaming. Pale porcelain skin. Black lips. Wearing BLACK SLEEK ONESIE. Diving vertically towards bottom of very deep pool. Depth perspective. PLEASER removed. Deep abyss. Sensual diving pose. Expression: into the void. Deep dive. Seductive glamour photography, deep blue lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Miss Doll - Champagne Tower Balance
+
+```
+Professional skill photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing GOLD BIKINI. Balancing a tray of champagne glasses while floating on a mat. Steady hand. PLEASER gold heels on deck. Service challenge. Sensual balance pose. Expression: steady now. Champagne float. Seductive glamour photography, tension lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Helena - Black Rose Petal Pool
+
+```
+Professional romantic goth photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing RED LACE BIKINI. Pool surface completely covered in black rose petals. Only face and knees visible. PLEASER red lace heels nearby. Gothic romance. Sensual submersion pose. Expression: rose bath. Petal pool. Seductive glamour photography, soft romantic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Miss Doll - Giant Pearl Shell
+
+```
+Professional fantasy photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing WHITE PEARL BIKINI. Lying inside a giant clam shell float. Birth of Venus style. PLEASER pearl heels. Art reference. Sensual goddess pose. Expression: I am art. Shell pool. Seductive glamour photography, classical lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Helena - Skeleton Crew Swim
+
+```
+Professional spooky photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing SKELETON BONE PRINT SWIMSUIT. Swimming underwater accompanied by plastic skeletons. Macabre swim team. PLEASER removed. Spooky friends. Sensual macabre pose. Expression: my clique. Skeleton swim. Seductive glamour photography, underwater spooky lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Miss Doll - Disco Ball Pool
+
+```
+Professional party photography of glamorous woman with platinum blonde bob. Flawless porcelain skin reflection. HEAVY GLAMOUR MAKEUP glitter. Wearing MIRROR TILE BIKINI. Pool filled with dozens of floating disco balls. Reflections everywhere. PLEASER silver mirror heels. Disco inferno. Sensual dazzle pose. Expression: disco fever. Disco pool. Seductive glamour photography, sparkle reflection lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Helena - Veiled Swim
+
+```
+Professional mourning photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing BLACK BIKINI with long sheer black water mourning veil trailing in water. Floating face up. Veil spreading. PLEASER black heels poolside. Gothic mourning. Sensual sadness pose. Expression: eternal grief. Veiled pool. Seductive glamour photography, moody lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Miss Doll - Balloon Arch Entrance
+
+```
+Professional event photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing PINK GOWN BIKINI (bikini with train). Standing under massive pink balloon arch at pool entrance. Grand entrance. PLEASER pink 8-inch heels. Party start. Sensual welcoming pose. Expression: welcome to the party. Balloon pool. Seductive glamour photography, event lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Helena - Candle Wax Float
+
+```
+Professional fetish photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing RED WAX DRIP EFFECT BIKINI. Floating on water that looks like red melted wax (lighting effect). Viscous look. PLEASER red heels. Wax play vibe. Sensual warm pose. Expression: melting. Wax pool. Seductive glamour photography, red warm lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Miss Doll - Martini Glass Float
+
+```
+Professional burlesque photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing OLIVE GREEN BIKINI. Sitting inside a giant clear float shaped like a martini glass. Olive pillow. PLEASER clear heels. Dita vibe. Sensual drink pose. Expression: drink me. Martini pool. Seductive glamour photography, cocktail lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Helena - Serpent Pool
+
+```
+Professional animal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Green lips. Wearing GREEN SNAKE SCALE BIKINI. Handling a large albino python in the pool (safe interaction). Snake swimming. PLEASER snake heels nearby. Dangerous pet. Sensual snake charmer pose. Expression: cold blooded. Snake pool. Seductive glamour photography, exotic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Miss Doll - Cotton Candy Cloud
+
+```
+Professional fantasy photography of glamorous woman with platinum blonde bob. Flawless porcelain skin pink. HEAVY GLAMOUR MAKEUP pink. Wearing PINK FLUFFY BIKINI (marabou). Floating on a cloud of pink foam that looks like cotton candy. Dreamy. PLEASER pink fluffy heels poolside. Sweet dream. Sensual soft pose. Expression: soft landing. Cloud pool. Seductive glamour photography, pastel soft lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Helena - Victorian Bathing Machine
+
+```
+Professional vintage photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing VICTORIAN STRIPED BATHING SUIT. Stepping out of a black gothic bathing machine hut by the pool. Vintage wheeled hut. PLEASER black victorian boots. Time travel. Sensual reveal pose. Expression: modesty? no. Vintage pool. Seductive glamour photography, sepia toned lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Grand Finale Splash
+
+```
+Professional finale duo photography. HELENA (black bikini) and MISS DOLL (pink bikini) jumping into pool together holding hands. Mid-air freeze frame. Hair flying. PLEASER heels left on deck side by side. Pure energy. Dynamic composition. Sensual jump pose. Expression: freedom. Finale splash. Seductive glamour photography, high speed sync lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V30 Pool Party & Summer Edition — 50 prompts*
+*V30.2 Pool Party & Summer Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM aplicado*
-*Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-04*

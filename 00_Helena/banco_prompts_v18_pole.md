@@ -6,6 +6,56 @@
 
 ---
 
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+
+> [!CAUTION]
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+
+### 💖 MISS DOLL (BASE)
+
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
+
+### 🦇 HELENA DE ANAÏS (BASE)
+
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
+
+### 👑 ANAÏS BELLAND (BASE)
+
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
+
+---
+
 ## 🦇 I. HELENA — DARK POLE GODDESS (20 PROMPTS)
 
 ### Pole Sins Collection
@@ -673,4 +723,3 @@ Professional trio pole photography. ANAÏS: honey blonde, GOLD instructor set, c
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-01*
-

@@ -20,47 +20,53 @@
 
 ---
 
-## 📋 NOTAS DE CANON (OBLIGATORIAS EN CADA PROMPT)
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **Estas descripciones DEBEN incluirse en cada prompt del personaje correspondiente:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
-### 🦇 Helena de Anaïs
+### 💖 MISS DOLL (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Referencia** | Sacha Massacre |
-| **Estética** | Gótica joven elegante |
-| **Cabello** | Negro azabache, VOLUMEN ENORME |
-| **Piel** | Pálida como porcelana blanca |
-| **Labios** | Ultra gruesos, negro/púrpura/rojo |
-| **Corsé** | SIEMPRE, muy ajustado (underbust u overbust) |
-| **Tacones** | PLEASER stilettos 7-9 pulgadas, tacón aguja |
-| **Figura** | Silueta de reloj de arena femenina |
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
 
-### 💖 Miss Doll
+### 🦇 HELENA DE ANAÏS (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Cabello** | Bob rubio PLATINO con flequillo RECTO |
-| **Rostro** | HUMANO realista (NO CGI), sin mejillas rosadas |
-| **Maquillaje** | HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips |
-| **Piel** | Flawless porcelain skin (sin rosy cheeks) |
-| **Corsé** | EXTERNO visible sobre catsuit |
-| **Tacones** | PLEASER plataformas 16-18cm (7-8") |
-| **Figura** | Silueta hiperbólica de reloj de arena |
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
 
-### 👑 Anaïs Belland
+### 👑 ANAÏS BELLAND (BASE)
 
-| Elemento | Especificación |
-|----------|----------------|
-| **Cabello** | Rubio MIEL (NO platino), ondas vintage suaves |
-| **Estética** | Old Hollywood Betty Page, aristócrata francesa |
-| **Rostro** | Angular sculpted MILF, pómulos prominentes, semi-pout (Kylie Minogue) |
-| **Piel** | Bronceada elegante o dorada (NUNCA pálida) |
-| **Vestimenta** | Lencería de seda, batas transparentes, corsés de lujo |
-| **Tacones** | PLEASER So Kate style 12cm (5-6") negro o nude |
-| **Figura** | Elegante hourglass, no exagerada |
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
 
 ---
 
@@ -574,4 +580,3 @@ Sensual pose with arched back, bedroom eyes. Expression: hard shine dominance, p
 *Creado por: Helena de Anaïs - V4.1 Fetish Edition Revisado 👠🖤*
 *Marcas: Libidex, Vex Clothing, Honour/Skin Two, Kink Projects, Cleo the Hurricane, Pole Sins, Vollers, What Katie Did, Dark Garden, Corsets UK*
 *PLEASER Heels throughout*
-

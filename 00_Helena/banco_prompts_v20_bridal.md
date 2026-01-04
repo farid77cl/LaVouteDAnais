@@ -3,7 +3,7 @@
 > **ENFOQUE:** Vestidos de novia extremos, lencería de noche de bodas, velos, ligueros y "Just Married" vibes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **🎨 COLOR FREEDOM:** Miss Doll (White, Black, Pink, Gold). Helena (Black, Red, White, Silver).
-> **Total:** 25+ prompts | **Actualizado:** 2026-01-01
+> **Total:** 105 prompts | **Actualizado:** 2026-01-04
 
 ---
 
@@ -409,11 +409,285 @@ Professional romantic wedding night ending duo photography. MISS DOLL: platinum 
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V20 Wedding & Honeymoon Edition — 55 prompts*
-*Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar múltiples colores*
-*Miss Doll: HEAVY GLAMOUR MAKEUP + "human realistic face" obligatorio*
-*Helena: Sacha Massacre reference + corset obligatorio*
-*Actualizado: 2026-01-02*
+## 🎨 IX. EXPANSION: ALTERNATIVE BRIDAL COLORS (56-80)
 
+#### 56. Miss Doll - Pastel Blue Something Blue
+
+```
+Professional bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PASTEL BLUE latex bridal gown. Blue corset. White stockings. Blue veil. Something blue theme. PLEASER FLAMINGO-808 blue 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Blue wedding. Seductive glamour photography, soft blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Emerald Green Forest Bride
+
+```
+Professional gothic bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing EMERALD GREEN velvet wedding dress. Black underbust corset. Green crown. Forest setting. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: nature's bride. Green gothic. Seductive glamour photography, forest lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Miss Doll - Lavender Haze Bride
+
+```
+Professional fantasy bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink/purple. Wearing LAVENDER tulle bridal ballgown. Lavender corset bodice. Silver accessories. PLEASER FLAMINGO-808 silver 8-inch heels. Lavender field background. Sensual pose with arched back, bedroom eyes. Expression: dream bride. Lavender fantasy. Seductive glamour photography, purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Midnight Blue Star Bride
+
+```
+Professional celestial bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with star pins. Pale porcelain skin. Blue lips. Wearing MIDNIGHT BLUE satin gown with silver star embroidery. Black corset. PLEASER MOON-708 blue 7-inch heels. Night sky background. Sensual pose with arched back, bedroom eyes. Expression: starlight bride. Celestial gothic. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Miss Doll - Rose Gold Metallic Bride
+
+```
+Professional luxury bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold tones. Wearing ROSE GOLD metallic latex gown. Rose gold corset. Rose gold jewelry. PLEASER FLAMINGO-808 rose gold 8-inch heels. Champagne reception background. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Metallic wedding. Seductive glamour photography, warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Purple Regality Bride
+
+```
+Professional royal gothic bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Purple lips. Wearing DEEP PURPLE silk wedding dress. Black corset overlay. Gold crown. PLEASER RAPTURE-1020 gold 8-inch boots. Throne room. Sensual pose with arched back, bedroom eyes. Expression: queen bride. Royal gothic. Seductive glamour photography, rich lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Miss Doll - Peach Spring Bride
+
+```
+Professional spring bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP peach tones. Wearing PEACH chiffon wedding dress. Peach corset. Flower crown. PLEASER FLAMINGO-808 clear 8-inch heels. Garden setting. Sensual pose with arched back, bedroom eyes. Expression: spring blossom. Peach wedding. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Silver Mist Bride
+
+```
+Professional ethereal bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Silver lips. Wearing SILVER GREY lace wedding dress, tattered edges. Black corset. Foggy graveyard. PLEASER RAPTURE-1020 silver 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: mist walker. Grey gothic. Seductive glamour photography, fog lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Miss Doll - Mint Green Candy Bride
+
+```
+Professional playful bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP green tones. Wearing MINT GREEN latex mini dress bridal style. Mint corset. White veil. Candy theme. PLEASER FLAMINGO-808 green 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: sweet treat. Candy wedding. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Burgundy Blood Moon Bride
+
+```
+Professional vampire bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BURGUNDY red velvet gown. Black corset. Red moon background. PLEASER RAPTURE-1020 red 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: blood moon. Vampire wedding. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 66. Miss Doll - Platinum Silver Future Bride
+
+```
+Professional futuristic bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP silver. Wearing PLATINUM SILVER plastic/vinyl gown. Silver corset. Tech veil. PLEASER FLAMINGO-808 chrome 8-inch heels. Neon altar. Sensual pose with arched back, bedroom eyes. Expression: future wife. Cyber wedding. Seductive glamour photography, neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Helena - Charcoal Grey Ash Bride
+
+```
+Professional dark bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with ash. Pale porcelain skin. Grey lips. Wearing CHARCOAL GREY tulle dress as if burnt. Black corset. Ruined church. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: from the ashes. Burnt gothic. Seductive glamour photography, smokey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Yellow Sunshine Bride
+
+```
+Professional bright bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP warm. Wearing YELLOW satin ballgown (Beauty and the Beast style). Yellow corset. PLEASER FLAMINGO-808 gold 8-inch heels. Sunny palace. Sensual pose with arched back, bedroom eyes. Expression: radiance. Yellow wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Helena - Navy Blue Deep Sea Bride
+
+```
+Professional oceanic gothic bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet look. Pale porcelain skin. Blue lips. Wearing NAVY BLUE scale-texture dress. Black corset. Sea cave. PLEASER RAPTURE-1020 blue 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: abyssal bride. Sea gothic. Seductive glamour photography, blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Neon Pink Vegas Bride
+
+```
+Professional vegas bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP neon pink. Wearing NEON PINK short dress with feathers. Pink corset. Elvis glasses. Vegas chapel. PLEASER FLAMINGO-808 neon pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: vegas baby. Neon wedding. Seductive glamour photography, neon lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Helena - Crimson Velvet Desire
+
+```
+Professional rich bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing CRIMSON red silk gown. Black lace corset overlay. Opera gloves. PLEASER RAPTURE-1020 black 8-inch boots. Opulent bedroom. Sensual pose with arched back, bedroom eyes. Expression: deepest desire. Red gothic. Seductive glamour photography, warm red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Pearl White Shimmer
+
+```
+Professional gleaming bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing PEARL WHITE latex with iridescent finish. White corset. Pearl strands. PLEASER FLAMINGO-808 pearlescent 8-inch heels. White room. Sensual pose with arched back, bedroom eyes. Expression: pure pearl. Shimmer wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Helena - Slate Blue Storm Bride
+
+```
+Professional stormy bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair windswept. Pale porcelain skin. Blue-grey lips. Wearing SLATE BLUE flowing dress. Black corset. Cliff edge with storm. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: storm bringer. Weather gothic. Seductive glamour photography, dramatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Coral Reef Tropical Bride
+
+```
+Professional tropical bridal photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP coral. Wearing CORAL reef inspired gown. Coral corset. Tropical flower bouquet. Beach sunset. PLEASER FLAMINGO-808 clear 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: tropical vows. Beach wedding. Seductive glamour photography, sunset lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Helena - Pure Black Void Bride
+
+```
+Professional absolute black bridal photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin stark contrast. Black lips. Wearing VANTA BLACK velvet dress (light absorbing). Black corset. Black void background. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: absorb light. Void gothic. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🌎 X. EXPANSION: BRIDAL SCENARIOS & LOCATIONS (81-105)
+
+#### 81. Miss Doll - Limousine Arrival
+
+```
+Professional arrival photography. Miss Doll arriving in white stretch limo. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Stepping out showing leg. White latex dress. PLEASER FLAMINGO-808 white 8-inch heels. Chauffeur hand (implied). Sensual pose with arched back, bedroom eyes. Expression: star arrival. Limo wedding. Seductive glamour photography, city lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Helena - Crypt Entrance
+
+```
+Professional entrance photography. Helena standing at open iron gates of family crypt. Black hair. Pale skin. Black velvet dress. Black corset. Fog rolling out. PLEASER RAPTURE-1020 black boots. Sensual pose with arched back, bedroom eyes. Expression: welcome home. Crypt wedding. Seductive glamour photography, stone lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Miss Doll - Beach Altar Sunset
+
+```
+Professional beach photography. Miss Doll under floral arch on sand. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. White bikini bridal set with corset. Veil blowing in wind. PLEASER FLAMINGO-808 clear 8-inch heels sinking slightly. Sunset over ocean. Sensual pose with arched back, bedroom eyes. Expression: paradise vows. Beach wedding. Seductive glamour photography, golden hour, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Helena - Haunted Forest Clearing
+
+```
+Professional forest photography. Helena in circle of dead trees. Black hair. Pale skin. Red dress. Black corset. Crows flying. PLEASER RAPTURE-1020 red boots. Sensual pose with arched back, bedroom eyes. Expression: nature witness. Forest wedding. Seductive glamour photography, dappled light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Miss Doll - Grand Staircase Descent
+
+```
+Professional architectural photography. Miss Doll walking down massive marble staircase. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Long train flowing down steps. White latex gown. PLEASER FLAMINGO-808 white 8-inch heels. Chandelier above. Sensual pose with arched back, bedroom eyes. Expression: grand entrance. Mansion wedding. Seductive glamour photography, indoor lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Helena - Candlelit Dungeon Vows
+
+```
+Professional dungeon photography. Helena chains on wall, but bridal context. Black hair. Pale skin. White torn dress. Black corset. Hundreds of candles on floor. PLEASER RAPTURE-1020 white boots. Sensual pose with arched back, bedroom eyes. Expression: captive bride. Dungeon wedding. Seductive glamour photography, candle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Miss Doll - Rooftop Skyline Kiss
+
+```
+Professional city photography. Miss Doll (solo focus) leaning over rooftop ledge. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Pink dress. Pink corset. Veil blowing. City lights behind. PLEASER FLAMINGO-808 pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: city love. Urban wedding. Seductive glamour photography, bokeh lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Helena - Thunderstorm Cliff
+
+```
+Professional dramatic photography. Helena on jagged cliff edge. Black hair whipping. Pale skin. Black dress. Black corset. Lightning strike in background. PLEASER RAPTURE-1020 black boots. Sensual pose with arched back, bedroom eyes. Expression: electric love. Storm wedding. Seductive glamour photography, lightning flash, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Miss Doll - Casino Jackpot Bride
+
+```
+Professional casino photography. Miss Doll sitting on slot machine. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Gold dress. Gold corset. Coins everywhere. PLEASER FLAMINGO-808 gold 8-inch heels. Casino lights. Sensual pose with arched back, bedroom eyes. Expression: winner. Vegas wedding. Seductive glamour photography, casino lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Helena - Victorian Library Signing
+
+```
+Professional library photography. Helena signing marriage register in old book. Black hair. Pale skin. Burgundy dress. Black corset. Quill pen. Dust motes. PLEASER RAPTURE-1020 black boots. Sensual pose with arched back, bedroom eyes. Expression: blood contract. Library wedding. Seductive glamour photography, dusty lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Miss Doll - Yacht Bow Titanic
+
+```
+Professional yacht photography. Miss Doll at bow of luxury yacht. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. White swimsuit bridal set. White corset. Arms out. Ocean spray. PLEASER FLAMINGO-808 white 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: queen of the world. Yacht wedding. Seductive glamour photography, sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Helena - Midnight Garden Maze
+
+```
+Professional garden photography. Helena in center of hedge maze. Black hair. Pale skin. Silver dress. Black corset. Moon overhead. Statue pouring water. PLEASER RAPTURE-1020 silver boots. Sensual pose with arched back, bedroom eyes. Expression: labyrinth prize. Maze wedding. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Miss Doll - Hot Air Balloon Basket
+
+```
+Professional aerial photography. Miss Doll inside wicker basket. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Pastel rainbow dress. White corset. Clouds behind. PLEASER FLAMINGO-808 pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: high love. Sky wedding. Seductive glamour photography, bright sky, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Helena - Underground Lake Boat
+
+```
+Professional cave photography. Helena standing on small wooden boat on underground lake. Black hair. Pale skin. White dress reflecting on water. Black corset. Lantern light. PLEASER RAPTURE-1020 white boots. Sensual pose with arched back, bedroom eyes. Expression: ferryman's bride. Cave wedding. Seductive glamour photography, reflection, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Miss Doll - Carousel Horse Ride
+
+```
+Professional fairground photography. Miss Doll riding white carousel horse. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Pink frilly dress. Pink corset. Carousel lights blurring. PLEASER FLAMINGO-808 pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: merry go round. Carnival wedding. Seductive glamour photography, motion blur, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Helena - Snowy Mountain Peak
+
+```
+Professional winter photography. Helena on snow covered peak. Black hair contrast. Pale skin. Red velvet cape over black dress. Black corset. Snow falling. PLEASER RAPTURE-1020 black boots. Sensual pose with arched back, bedroom eyes. Expression: ice queen. Winter wedding. Seductive glamour photography, snow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Miss Doll - Vintage Car Convertible
+
+```
+Professional car photography. Miss Doll sitting on hood of pink vintage Cadillac. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. 50s style bridal dress. White corset. Diner background. PLEASER FLAMINGO-808 white 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: retro drive. Vintage wedding. Seductive glamour photography, sunny lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Helena - Abandoned Theater Stage
+
+```
+Professional theater photography. Helena center stage spotlight. Black hair. Pale skin. Purple dress. Black corset. Red velvet curtains tattered. Dust. PLEASER RAPTURE-1020 purple boots. Sensual pose with arched back, bedroom eyes. Expression: final act. Theater wedding. Seductive glamour photography, spotlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Miss Doll - Flower Wall Backdrop
+
+```
+Professional studio photography. Miss Doll against massive wall of pink and white roses. Platinum blonde bob. HEAVY GLAMOUR MAKEUP. Nude latex dress with flowers. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: bloom. Floral wedding. Seductive glamour photography, softbox lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Helena - Museum Dinosaur Bone
+
+```
+Professional museum photography. Helena posing under T-Rex skeleton. Black hair. Pale skin. Bone colored dress. Black corset. Museum exhibits. PLEASER RAPTURE-1020 bone colored boots. Sensual pose with arched back, bedroom eyes. Expression: ancient love. Museum wedding. Seductive glamour photography, museum lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 101. Duo - Just Married Car Exit
+
+```
+Professional departure duo photography. MISS DOLL (white dress) and HELENA (black dress) waving from back of "Just Married" car. Cans rattling behind (implied). Both looking back. Sensual pose with arched back, bedroom eyes. Expression: goodbye. Departure. Seductive glamour photography, motion, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 102. Duo - Bouquet Toss Together
+
+```
+Professional action duo photography. MISS DOLL (pink bouquet) and HELENA (black rose bouquet) throwing them backward simultaneously. Backs to camera. Corsets visible. Heels visible. Sensual pose. Expression: who's next. Bouquet toss. Seductive glamour photography, action freeze, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 103. Duo - First Dance Waltz
+
+```
+Professional dance duo photography. MISS DOLL and HELENA waltzing together. Hands on waists/shoulders. Dresses swirling. Eye contact intense. Ballroom floor. Sensual pose with arched back, bedroom eyes. Expression: our dance. First dance. Seductive glamour photography, swirl, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 104. Duo - Toasting at Head Table
+
+```
+Professional reception duo photography. MISS DOLL and HELENA seated at head table. Goblets raised. Surrounded by flowers. Looking at camera. Queens of the feast. Sensual pose with arched back, bedroom eyes. Expression: cheers. High table. Seductive glamour photography, table lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 105. Duo - Walking Into Sunset
+
+```
+Professional ending duo photography. MISS DOLL and HELENA walking away from camera on beach toward sinking sun. Holding hands. Long shadows. Silhouettes. End of wedding. Sensual walking pose. Expression: happily ever after. The End. Seductive glamour photography, silhouette, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+*Creado por: Helena de Anaïs 🦇*
+*V20.2 Wedding & Honeymoon Collection — 105 prompts*
+*Cada prompt es 100% auto-contenido*
+*Actualizado: 2026-01-04*

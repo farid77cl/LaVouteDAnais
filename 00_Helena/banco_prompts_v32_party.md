@@ -3,7 +3,57 @@
 > **ENFOQUE:** Discoteca, VIP, DJ, bottle service, neon, mini vestidos, bodycon, clubbing.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **🎨 COLOR FREEDOM:** Helena (Black, Neon, Metallic). Miss Doll (Pink, Neon, Holographic).
-> **Total:** 50 prompts | **Actualizado:** 2026-01-02
+> **Total:** 100 prompts | **Actualizado:** 2026-01-04
+
+---
+
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+
+> [!CAUTION]
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+
+### 💖 MISS DOLL (BASE)
+
+```text
+Glamorous woman with platinum blonde bob haircut with straight bangs,
+flawless porcelain skin (NO rosy cheeks),
+HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
+human realistic face (NOT CGI, NOT plastic, NOT doll-like),
+feminine hourglass silhouette,
+PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
+```
+
+### 🦇 HELENA DE ANAÏS (BASE)
+
+```text
+Young elegant goth glamour woman (Sacha Massacre visual reference),
+pale porcelain white skin, voluminous jet black hair with enormous volume,
+full glossy lips (black/purple/red), youthful face,
+ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
+PLEASER stiletto heels 7-9 inches with thin deadly heel.
+```
+
+### 👑 ANAÏS BELLAND (BASE)
+
+```text
+Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
+bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
+angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
+sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
+PLEASER So Kate style black or nude stiletto 12cm (5-6"),
+silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+```
+
+### ⚠️ REGLAS ANTI-FILTRO
+
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+|-----------|---------------------|
+| ditzy, brainless | playful, carefree |
+| vacant stare | dreamy, entranced |
+| exaggerated hourglass | feminine hourglass silhouette |
+| doll makeup, rosy cheeks | HEAVY GLAMOUR MAKEUP, flawless porcelain skin |
+| bimbo | glamour woman |
+| impossibly tiny waist | tiny waist |
 
 ---
 
@@ -319,9 +369,315 @@ Professional slow dance duo photography. HELENA: Sacha Massacre look slow dancin
 
 ---
 
+## 🍸 IV. EXPANSION: AFTER PARTY & VIP LIFE (51-75)
+
+#### 51. Helena - Private Jet Party
+
+```
+Professional luxury photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing BLACK VELVET ROBE over lingerie. Sitting in cream leather seat of private jet. Champagne flute. Night flight. PLEASER black slippers. Mile high party. Sensual luxury pose. Expression: cloud nine. Private jet. Seductive glamour photography, interior jet lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Miss Doll - Limo Sunroof
+
+```
+Professional limo photography of glamorous woman with platinum blonde bob. Flawless porcelain skin city wind. HEAVY GLAMOUR MAKEUP. Wearing SEQUIN PINK DRESS. Standing up through limousine sunroof. Arms spread wide. City lights blurring past. PLEASER pink heels (not visible). City cruiser. Sensual freedom pose. Expression: owning the city. Limo roof. Seductive glamour photography, motion blur city lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Hotel Suite Lobby
+
+```
+Professional hotel photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BLACK SATIN GOWN trailing. Walking through grand hotel lobby alone at 3am. Marble floors. PLEASER black 8-inch heels clicking. Grandeur. Sensual walking pose. Expression: queen of the hotel. Hotel lobby. Seductive glamour photography, chandelier lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Miss Doll - Pizza After Party
+
+```
+Professional candid photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP perfect. Wearing PINK GLITTER MESH DRESS. Sitting on curb outside club eating a slice of pizza. High-low contrast. PLEASER pink heels on pavement. Realness. Sensual eating pose. Expression: best pizza ever. Street pizza. Seductive glamour photography, street lamp lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Masquerade Mask
+
+```
+Professional mystery photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair intricate updo. Pale porcelain skin. Black lips. Wearing BLACK LACE BALLGOWN. Holding an ornate VENETIAN MASK to face. Eyes visible. PLEASER black lace boots. Masquerade ball. Sensual secret pose. Expression: guess who. Masquerade. Seductive glamour photography, rich warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Miss Doll - Confetti Cannon
+
+```
+Professional celebration photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP happy. Wearing GOLD FRINGE DRESS. Firing a confetti cannon. Gold confetti exploding towards camera. PLEASER gold heels. Peak party. Sensual excitement pose. Expression: boom. Confetti. Seductive glamour photography, freeze frame lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Hookah Lounge
+
+```
+Professional lounge photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair smoke swirls. Pale porcelain skin. Dark red lips blowing smoke. Wearing BELLY DANCER INSPIRED BLACK OUTFIT. Reclining on pillows in hookah lounge. Pipe in hand. PLEASER removed. Exotic vibe. Sensual relax pose. Expression: hazy night. Hookah. Seductive glamour photography, dim colored lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Miss Doll - Karaoke Star
+
+```
+Professional performance photography of glamorous woman with platinum blonde bob. Flawless porcelain skin stage light. HEAVY GLAMOUR MAKEUP. Wearing POP STAR PINK OUTFIT. Singing passionately into microphone in private karaoke room. Screen glow. PLEASER pink boots. Diva moment. Sensual singing pose. Expression: hitting the high note. Karaoke. Seductive glamour photography, screen glow lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Vampire Ball
+
+```
+Professional gothic event photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair victorian style. Pale porcelain skin. Blood red lips. Wearing VICTORIAN GOTH GOWN red and black. Descending grand staircase at Vampire Ball. Guests watching. PLEASER black victorian boots. Old world elegance. Sensual entrance pose. Expression: eternal night. Vampire ball. Seductive glamour photography, candle chandelier lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Miss Doll - Casino High Roller
+
+```
+Professional casino photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP money green eyeshadow. Wearing GREEN VELVET MINI DRESS. Throwing dice at craps table. Chips piled high. PLEASER green velvet heels. Vegas vibe. Sensual gambling pose. Expression: daddy needs new shoes. Casino. Seductive glamour photography, casino warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Burlesque Fan Dance
+
+```
+Professional burlesque photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair feathers. Pale porcelain skin. Red lips. Wearing BLACK CRYSTAL LINGERIE. Hiding behind oversized black ostrich feather fans. Teasing reveal. PLEASER black heel mules. Striptease art. Sensual tease pose. Expression: peekaboo. Burlesque fans. Seductive glamour photography, stage spotlight, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Miss Doll - Mechanical Bull
+
+```
+Professional fun photography of glamorous woman with platinum blonde bob motion blur hair. Flawless porcelain skin flushed. HEAVY GLAMOUR MAKEUP. Wearing COWGIRL PINK OUTFIT with chaps. Riding a mechanical bull in a bar. Holding on tight. PLEASER pink boots stirrups. Wild west party. Sensual action pose. Expression: yeehaw. Mechanical bull. Seductive glamour photography, bar warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Tarot Reader Booth
+
+```
+Professional mystic photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair scarf wrapped. Pale porcelain skin. Black lips. Wearing BOHEMIAN GOTH BLACK DRESS. Sitting in a velvet booth reading tarot cards for a party guest (POV). PLEASER black boots under table. Fortune teller. Sensual mystic pose. Expression: your future is dark. Tarot booth. Seductive glamour photography, crystal ball lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Miss Doll - Cake Jump
+
+```
+Professional surprise photography of glamorous woman with platinum blonde bob. Flawless porcelain skin frosting smudge. HEAVY GLAMOUR MAKEUP. Wearing PINK BIKINI. Popping out of a giant fake cake. Arms up. "Surprise" banner. PLEASER pink heels. Birthday classic. Sensual surprise pose. Expression: happy birthday to you. Cake girl. Seductive glamour photography, bright party lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Wax Museum Prank
+
+```
+Professional creepy photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair still. Pale porcelain skin wax-like. Black lips. Wearing VINTAGE BLACK DRESS. Standing perfectly still in a wax museum party exhibit. Posing as statue. PLEASER black stiff boots. Living doll. Sensual statue pose. Expression: unblinking. Wax figure. Seductive glamour photography, museum spot lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 66. Miss Doll - Ice Bar
+
+```
+Professional winter photography of glamorous woman with platinum blonde bob. Flawless porcelain skin cold blush. HEAVY GLAMOUR MAKEUP frosty. Wearing WHITE FAUX FUR BIKINI and hat. Drinking from ice glass in an Ice Bar. Everything is ice. PLEASER white fur boots. Sub-zero party. Sensual cold pose. Expression: n-n-nice. Ice bar. Seductive glamour photography, blue ice lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Helena - Seance Party
+
+```
+Professional occult photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wild. Pale porcelain skin. White eyes (effect). Wearing BLACK RITUAL ROBE open. Hands on Ouija board planchette. Candles blowing out. Spirit contacting. PLEASER black ritual boots. Occult party. Sensual possession pose. Expression: they are here. Seance. Seductive glamour photography, flickering candle lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Yacht deck Sunrise
+
+```
+Professional morning photography of glamorous woman with platinum blonde bob messy. Flawless porcelain skin morning light. HEAVY GLAMOUR MAKEUP lived in. Wearing MENS WHITE SHIRT only. Standing on yacht deck watching sunrise. End of party. PLEASER heels in hand barefoot. Walk of shame/stride of pride. Sensual peaceful pose. Expression: good morning. Yacht sunrise. Seductive glamour photography, golden hour lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Helena - Dungeon Club Door
+
+```
+Professional kink photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair severe. Pale porcelain skin. Black lips. Wearing BLACK LATEX GUARD UNIFORM. Standing guard at door of dungeon club. Holding riding crop. Checking ID. PLEASER black thigh high boots. Gatekeeper. Sensual authority pose. Expression: not on the list. Dungeon door. Seductive glamour photography, red distinct lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Money Gun
+
+```
+Professional wealth photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing GREEN DOLLAR SIGN DRESS. Shooting a cash cannon money gun. Bills flying everywhere. Making it rain. PLEASER gold heels. Baller. Sensual rich pose. Expression: cash flow. Money gun. Seductive glamour photography, club flash lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Helena - Silent Disco
+
+```
+Professional music photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair headphones over. Pale porcelain skin. Black lips. Wearing BLACK MESH OUTFIT. Dancing with glowing headphones on. Room is silent (visually implied by others with headphones). PLEASER black boots. Internal beat. Sensual trance pose. Expression: my own world. Silent disco. Seductive glamour photography, headphone LED lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Roller Disco
+
+```
+Professional retro photography of glamorous woman with platinum blonde bob movement. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP 70s style. Wearing RAINBOW DISCO LEOTARD. Skating at roller disco. Disco finger point. PLEASER pink roller skates (custom). Retro fun. Sensual skate pose. Expression: roller girl. Roller disco. Seductive glamour photography, colored gel lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Helena - Candelabra Balance
+
+```
+Professional gothic skill photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing RED VELVET DRESS. Balancing a lit candelabra on head while dancing. Wax dripping. PLEASER red velvet heels. Dangerous dance. Sensual balance pose. Expression: burning bright. Candelabra dance. Seductive glamour photography, candle lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Champagne Tower Smash
+
+```
+Professional chaos photography of glamorous woman with platinum blonde bob shock. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing GOLD DRESS. Accidentally knocking over giant champagne tower. Glass and liquid flying. Disaster beauty. PLEASER gold heels slipping. Party foul. Sensual shock pose. Expression: oops. Champagne crash. Seductive glamour photography, high speed chaotic lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Helena - Snake Pit Party
+
+```
+Professional exotic photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Green lips. Wearing SNAKESKIN PRINT DRESS. Dancing in a pit with tame snakes. Handling a boa. Club performance. PLEASER snake boots. Serpent dance. Sensual dangerous pose. Expression: cold embrace. Snake pit. Seductive glamour photography, green spotlights, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🎭 V. EXPANSION: THEMED & COSTUME PARTIES (76-100)
+
+#### 76. Miss Doll - Playboy Bunny
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing CLASSIC PINK BUNNY SUIT with ears, cuffs, tail. Holding tray of drinks. Iconic look. PLEASER pink pumps. Bunny party. Sensual icon pose. Expression: at your service. Bunny costume. Seductive glamour photography, mansion warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Helena - French Maid Club
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BLACK PVC MAID DRESS. Cleaning up spilled drinks on dance floor seductively. Feather duster. PLEASER black maid boots. Fetish night. Sensual cleaning pose. Expression: dirty job. Maid club. Seductive glamour photography, club floor lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Space Alien
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob silver tint. Flawless porcelain skin silver sheen. HEAVY GLAMOUR MAKEUP alien eyes. Wearing SILVER METALLIC SPACE SUIT bikini cut. Ray gun prop. Retro sci-fi party. PLEASER silver moon boots. Galaxy girl. Sensual alien pose. Expression: take me to your leader. Alien party. Seductive glamour photography, cool blue lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Helena - Morticia Addams
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair sleek straight down. Pale porcelain skin. Red lips. Wearing BLACK TIGHT GOWN with octopus tentacles hem. Cutting roses. Halloween party. PLEASER black hidden heels. Character homage. Sensual classic pose. Expression: cara mia. Morticia look. Seductive glamour photography, black and white film noir lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Barbie Box
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob. Flawless porcelain skin plastic perfection. HEAVY GLAMOUR MAKEUP doll. Wearing PINK GINGHAM DRESS. Standing inside a life-size Barbie box prop. Stiff arm pose. PLEASER pink heels. Living toy. Sensual doll pose. Expression: batteries not included. Barbie box. Seductive glamour photography, box ring light, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 81. Helena - Corpse Bride
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair blue tint. Pale porcelain skin blue tint. Pink lips. Wearing TORN WEDDING DRESS. Skeleton arm makeup. Dead flowers bouquet. Halloween contest. PLEASER white dirtied boots. Tim Burton vibe. Sensual decay pose. Expression: always the bridesmaid. Corpse bride. Seductive glamour photography, moonlight blue lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Miss Doll - Carnival Dancer
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob. Flawless porcelain skin sweat. HEAVY GLAMOUR MAKEUP jewels. Wearing RIO CARNIVAL PINK BIKINI feather backpack massive. Samba dancing. Feathers shaking. PLEASER pink samba heels. Carnival parade. Sensual rhythm pose. Expression: samba. Carnival. Seductive glamour photography, parade bright lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Helena - Evil Queen
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair crown. Pale porcelain skin. Red lips. Wearing BLACK ROYAL GOWN high collar. Holding a poisoned apple. Throne room party. PLEASER black royal shoes. Villain energy. Sensual regal pose. Expression: fairest of them all. Evil queen. Seductive glamour photography, dramatic purple lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Miss Doll - Cheerleader
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob pigtails. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PINK CHEER UNIFORM "Doll" on chest. Holding pom-poms. High kick. Sports party. PLEASER pink sneaker heels. Pep rally. Sensual spirit pose. Expression: go team. Cheerleader. Seductive glamour photography, stadium bright lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Helena - Nun Gone Bad
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair habit. Pale porcelain skin. Black lips. Wearing PVC NUN HABIT mini dress. Holding a ruler. Ruler of the party. PLEASER black pvc boots. Blasphemous night. Sensual sinner pose. Expression: repent. Bad nun. Seductive glamour photography, church window lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Miss Doll - Mermaid on Land
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob. Flawless porcelain skin scale makeup. HEAVY GLAMOUR MAKEUP. Wearing SEQUIN SKIRT with fin shape. Shell bra. Being carried on a palanquin by shirtless men. Under the sea party. PLEASER hidden. Royalty. Sensual fish pose. Expression: legs are new. Mermaid party. Seductive glamour photography, aqua lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Helena - Devil Wears Prada / Satan
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair horns. Pale porcelain skin. Red lips. Wearing RED LATEX DEVIL SUIT tail. Holding a trident. Hell themed party. PLEASER red hoof heels. Ruler of hell. Sensual evil pose. Expression: welcome home. She-devil. Seductive glamour photography, fire red lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Miss Doll - 1920s Flapper
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob finger waves. Flawless porcelain skin powder. HEAVY GLAMOUR MAKEUP cupid bow lips. Wearing PINK FRINGE FLAPPER DRESS. Long cigarette holder. Gatsby party. PLEASER pink t-strap heels. Roaring 20s. Sensual charleston pose. Expression: old sport. Flapper. Seductive glamour photography, sepia warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Helena - Matrix Trinity
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair slicked back. Pale porcelain skin. No makeup look (styled). Wearing BLACK PVC TRENCH COAT and sunglasses. Dodging imaginary bullets. Cyber party. PLEASER black combat boots. Cyber action. Sensual dodge pose. Expression: dodge this. Matrix. Seductive glamour photography, green code rain lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Miss Doll - Ancient Greek Goddess
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob gold laurels. Flawless porcelain skin gold dust. HEAVY GLAMOUR MAKEUP gold. Wearing WHITE TOGA mini dress gold rope. Holding grapes. Toga party. PLEASER gold gladiator sandals (heeled). Olympus. Sensual divine pose. Expression: worship me. Goddess. Seductive glamour photography, white marble lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Helena - Catwoman
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair ears. Pale porcelain skin. Red lips. Wearing BLACK STITCHED PVC CATSUIT. Holding a whip. Rooftop party. PLEASER black heel boots. Feline fatale. Sensual cat pose. Expression: meow. Catwoman. Seductive glamour photography, city night lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Miss Doll - Nurse
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob nurse cap. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red cross. Wearing PINK LATEX NURSE DRESS. Holding giant syringe (shot dispenser). Medical party. PLEASER red patent heels. Naughty nurse. Sensual care pose. Expression: time for your shot. Nurse. Seductive glamour photography, clinical white lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Helena - Black Widow
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair veil. Pale porcelain skin. Black lips. Wearing VINTAGE BLACK MOURNING DRESS short. Holding a fake spider. Mystery party. PLEASER black widow heels. Deadly lover. Sensual trap pose. Expression: caught in my web. Black widow. Seductive glamour photography, web shadow lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Miss Doll - Showgirl
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob feathers. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP jewels. Wearing PINK RHINESTONE SHOWGIRL OUTFIT tail feathers. posing on staircase. Las Vegas theme. PLEASER pink rhinestone heels. Vegas glam. Sensual showgirl pose. Expression: look at me. Showgirl. Seductive glamour photography, stage warm lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Helena - Witch Coven
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair hat. Pale porcelain skin. Green lips. Wearing BLACK TATTERED WITCH DRESS. Stirring a cauldron punch bowl. Halloween bash. PLEASER black witch boots. Spellcaster. Sensual magic pose. Expression: double trouble. Witch. Seductive glamour photography, green smoke lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Miss Doll - Circus Ringmaster
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob top hat. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing RED TAILCOAT and bodysuit. Holding a whip. Circus theme party. PLEASER black thigh boots. Show runner. Sensual command pose. Expression: greatest show on earth. Ringmaster. Seductive glamour photography, spotlight circus lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Helena - Pirate Captain
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair bandana. Pale porcelain skin. Red lips. Wearing BLACK PIRATE COAT and corset. Holding a sword. Pirate ship party. PLEASER black buccaneer boots. Sea rover. Sensual command pose. Expression: walk the plank. Pirate. Seductive glamour photography, lantern lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Miss Doll - Fairy Princess
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob flowers. Flawless porcelain skin glitter. HEAVY GLAMOUR MAKEUP pastel. Wearing PINK TULLE DRESS wings. Holding a wand. Fantasy party. PLEASER clear glass slippers. Magical girl. Sensual float pose. Expression: make a wish. Fairy. Seductive glamour photography, sparkle dust lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Helena - Medusa
+
+```
+Professional costume photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair snake wig. Pale porcelain skin scales. Gold lips. Wearing GREEN SCALE DRESS. Staring intensely. Mythology party. PLEASER green snake heels. Stone cold. Sensual stare pose. Expression: rock hard. Medusa. Seductive glamour photography, green stone lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Party's Over
+
+```
+Professional finale duo photography. HELENA (black dress, barefoot carrying heels) and MISS DOLL (pink dress, barefoot carrying heels). Walking away from camera down an empty street at sunrise. Arms around each other. Confetti stuck in hair. The end of an epic night. PLEASER heels in hands. Cinematic ending. Sensual friendship pose. Expression: what a night. Finale walk. Seductive glamour photography, sunrise long shadow lighting, party aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V32 Party & Clubwear Edition — 50 prompts*
+*V32.2 Party & Clubwear Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM aplicado*
-*Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-04*
