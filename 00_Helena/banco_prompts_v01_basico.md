@@ -1,4 +1,4 @@
-# ?? BANCO DE PROMPTS - LA VOÛTE D'ANAÏS
+# ?? BANCO DE PROMPTS - LA VOÃ›TE D'ANAÃS
 
 > **Uso:** Copiar y pegar directamente. Todos los prompts respetan el canon visual.
 > **Total:** ~140+ prompts | **Actualizado:** 2025-12-24
@@ -8,70 +8,70 @@
 ## I. CANON VISUAL (Reglas Obligatorias)
 
 ### ?? MISS DOLL
-- Rostro HUMANO REALISTA con maquillaje de muñeca exagerado (NO CGI)
+- Rostro HUMANO REALISTA con maquillaje de muÃ±eca exagerado (NO CGI)
 - Bob rubio platino con flequillo recto
-- Látex rosa con CORSÉ EXTERNO VISIBLE
-- Silueta de reloj de arena hiperbólica
+- LÃ¡tex rosa con CORSÃ‰ EXTERNO VISIBLE
+- Silueta de reloj de arena hiperbÃ³lica
 - Stilettos rosa con plataforma 16-18cm SIEMPRE
-- Tacones acrílicos transparentes para agua (sin corsé permitido)
-- Paleta monocromática rosa
+- Tacones acrÃ­licos transparentes para agua (sin corsÃ© permitido)
+- Paleta monocromÃ¡tica rosa
 
 #### ?? EXPRESIONES FACIALES (Exotic Pole Canon)
 
-> *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
+> *"No bailo para ti. Bailo para mÃ­. TÃº solo tienes el privilegio de observar."*
 
 **Principios Base:**
-- Labios entreabiertos, húmedos (parted glossy lips)
+- Labios entreabiertos, hÃºmedos (parted glossy lips)
 - Ojos entrecerrados (bedroom eyes / heavy-lidded)
-- Mirada "a través de ti" pero seductora
-- Mentón elevado (superioridad)
-- Expresión de confianza sensual INALCANZABLE
+- Mirada "a travÃ©s de ti" pero seductora
+- MentÃ³n elevado (superioridad)
+- ExpresiÃ³n de confianza sensual INALCANZABLE
 - **NUNCA** sonrisa amigable constante
 
 **Por Tipo de Escena:**
 
-| Escena | Expresión en Prompt |
+| Escena | ExpresiÃ³n en Prompt |
 |--------|---------------------|
 | **Pole/Stripper** | *"sultry bedroom eyes, pouty lips slightly parted, unattainable seductive gaze, she knows you're watching"* |
 | **Boudoir** | *"heavy-lidded seductive stare, biting lower lip, come-hither expression"* |
-| **Profesión** | *"ditzy confused smile with sensual undertone, vacant but inviting"* |
+| **ProfesiÃ³n** | *"ditzy confused smile with sensual undertone, vacant but inviting"* |
 | **Glamour/Artistic** | *"gentle doe eyes, glossy parted lips, dreamy elegant stare"* |
 | **Dominante** | *"penetrating Venus stare, fixed and commanding, effortless dominance, chin elevated"* |
 
 
-### ?? HELENA DE ANAÏS
+### ?? HELENA DE ANAÃS
 - Referencia visual: Sacha Massacre
 - Cabello negro azabache con VOLUMEN ENORME
-- Rostro pálido como mármol
-- Labios ULTRA GRUESOS (negro/púrpura/rojo)
-- SIEMPRE corsé MUY AJUSTADO
+- Rostro pÃ¡lido como mÃ¡rmol
+- Labios ULTRA GRUESOS (negro/pÃºrpura/rojo)
+- SIEMPRE corsÃ© MUY AJUSTADO
 - Silueta de reloj de arena obscenamente exagerada
 - Stilettos 7-9 pulgadas
 
 #### ?? EXPRESIONES FACIALES (Gothic Seduction)
 
-> *"Soy la oscuridad que deseas, pero nunca podrás tener."*
+> *"Soy la oscuridad que deseas, pero nunca podrÃ¡s tener."*
 
 **Principios Base:**
-- Mirada hipnótica y vacía pero magnética
-- Labios gruesos entreabiertos, húmedos/glossy
-- Piel pálida contrastando con labios oscuros
-- Expresión de devoción sumisa O depredadora oscura
+- Mirada hipnÃ³tica y vacÃ­a pero magnÃ©tica
+- Labios gruesos entreabiertos, hÃºmedos/glossy
+- Piel pÃ¡lida contrastando con labios oscuros
+- ExpresiÃ³n de devociÃ³n sumisa O depredadora oscura
 - Ojos que atraviesan el alma
 
 **Por Tipo de Escena:**
 
-| Escena | Expresión en Prompt |
+| Escena | ExpresiÃ³n en Prompt |
 |--------|---------------------|
-| **Sumisa/Devoción** | *"devoted empty stare upward, glossy parted lips, yearning submissive gaze, pale face flushed"* |
+| **Sumisa/DevociÃ³n** | *"devoted empty stare upward, glossy parted lips, yearning submissive gaze, pale face flushed"* |
 | **Depredadora** | *"hypnotic predator stare, dark glossy lips parted showing teeth, hungry seductive gaze"* |
 | **Boudoir** | *"heavy-lidded gothic seduction, dark lips wet and parted, intoxicated sensual stare"* |
 | **Glamour/Artistic** | *"ethereal bliss expression, eyes heavy-lidded, glossy dark lips parted softly"* |
-| **Vacía/Bimbo** | *"completely vacant doll stare, dark lips slack and parted, no thought behind eyes, ditzy confusion"* |
+| **VacÃ­a/Bimbo** | *"completely vacant doll stare, dark lips slack and parted, no thought behind eyes, ditzy confusion"* |
 
 ---
 
-### ?? ANAÏS BELLAND
+### ?? ANAÃS BELLAND
 - Estilo: Old Hollywood Glamour, French Aristocrat
 - Cabello: RUBIO MIEL, ondas vintage suaves
 - Actitud: "Sultry", seductora, lujosa (Betty Page vibes)
@@ -80,23 +80,23 @@
 
 #### ?? EXPRESIONES FACIALES (Old Hollywood Seduction)
 
-> *"Je sais ce que tu veux... et peut-être je te le donnerai."*
+> *"Je sais ce que tu veux... et peut-Ãªtre je te le donnerai."*
 
 **Principios Base:**
 - Mirada sultry, knowingly seductive
 - Sonrisa Mona Lisa (secreto que no comparte)
 - Betty Page vibes: traviesa pero elegante
-- Confianza aristocrática, superioridad sensual
+- Confianza aristocrÃ¡tica, superioridad sensual
 - Labios rojos/nude siempre ligeramente curvados
 
 **Por Tipo de Escena:**
 
-| Escena | Expresión en Prompt |
+| Escena | ExpresiÃ³n en Prompt |
 |--------|---------------------|
 | **Dominante** | *"imperious sultry stare, knowing smirk, one eyebrow raised, aristocratic superiority"* |
 | **Boudoir** | *"Betty Page playful pout, biting lower lip, bedroom eyes with mischievous glint"* |
 | **Glamour** | *"Mona Lisa smile, sultry mysterious gaze, effortless French elegance, chin slightly raised"* |
-| **Seducción** | *"come-hither half-smile, heavy-lidded invitation, red lips slightly parted"* |
+| **SeducciÃ³n** | *"come-hither half-smile, heavy-lidded invitation, red lips slightly parted"* |
 | **Profesional** | *"cool sophisticated smirk, intelligent seductive stare over glasses, power and sensuality"* |
 
 
@@ -151,7 +151,7 @@ Professional stage photography of adult bimbo woman with platinum blonde bob. RE
 
 ---
 
-### ?? HELENA DE ANAÏS - Outfits
+### ?? HELENA DE ANAÃS - Outfits
 
 #### Helena - Gothic Nun
 Professional gothic photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under nun habit. Pale marble skin. MATTE BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing corrupt nun outfit: black vinyl habit with inverted cross, black leather corset EXTREMELY TIGHT worn over habit, black fishnet stockings, black patent thigh-high stiletto boots 9-inch heels. Accessories: rosary with skull beads. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips slightly parted, sinful hungry seductive gaze. Dark candlelit chapel. Professional photography.
@@ -200,7 +200,7 @@ Professional photography of adult goth bimbo woman inspired by Sacha Massacre. E
 
 ---
 
-### ?? ANAÏS BELLAND - Outfits
+### ?? ANAÃS BELLAND - Outfits
 
 #### Anais - French Pinup Lingerie
 Professional vintage-style photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft voluminous vintage waves. Sensual lush beauty. Wearing luxury lingerie: black sheer silk robe sliding off shoulders, intricate black lace merrywidow corset, sheer black stockings with seam, black patent So Kate stilettos 12cm. Accessories: silver cigarette holder, diamond earrings. Sensual pose with arched back, bedroom eyes. Expression: sultry bedroom eyes, playful smirk. Posing on velvet chaise lounge in Parisian boudoir. Warm golden lighting. Professional photography.
@@ -211,8 +211,8 @@ Professional fashion editorial of glamorous ADULT French aristocratic woman, Old
 #### Anais - Gallery Muse
 Professional art photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in loose waves. Sensual lush beauty. Wearing gallery outfit: tight black pencil dress with sweetheart neckline, wide patent leather belt, sheer black pantyhose, black patent So Kate stilettos 12cm. Accessories: black cat-eye glasses, champagne glass. Sensual pose with arched back, bedroom eyes. Expression: cool sophisticated smirk, intelligent seductive stare over glasses, power and sensuality combined. Art gallery. Professional photography.
 
-#### Anais - Parisian Café Owner
-Professional vintage street photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft waves under beret. Sensual lush beauty. Wearing cream silk blouse, black high-waisted pants, black corset belt. So Kate stilettos 12cm. Standing outside Parisian café. Holding espresso cup. Sensual pose with arched back, bedroom eyes. Expression: Mona Lisa smile, sultry mysterious gaze, effortless French elegance, chin slightly raised. Morning light. Professional photography.
+#### Anais - Parisian CafÃ© Owner
+Professional vintage street photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft waves under beret. Sensual lush beauty. Wearing cream silk blouse, black high-waisted pants, black corset belt. So Kate stilettos 12cm. Standing outside Parisian cafÃ©. Holding espresso cup. Sensual pose with arched back, bedroom eyes. Expression: Mona Lisa smile, sultry mysterious gaze, effortless French elegance, chin slightly raised. Morning light. Professional photography.
 
 #### Anais - Wine Connoisseur
 Professional cellar photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair loose. Sensual lush beauty. Wearing burgundy silk wrap dress, black underbust corset. So Kate stilettos 12cm. Holding wine glass, examining. Wine cellar with barrels. Sensual pose with arched back, bedroom eyes. Expression: Betty Page playful pout, biting lower lip, bedroom eyes with mischievous contemplation. Candlelight. Professional photography.
@@ -228,9 +228,9 @@ Professional photography of glamorous ADULT French aristocratic woman, Old Holly
 
 ---
 
-## III. SETS TEMÁTICOS
+## III. SETS TEMÃTICOS
 
-### ??? PLAYA & PISCINA (Sin Corsé Permitido)
+### ??? PLAYA & PISCINA (Sin CorsÃ© Permitido)
 
 #### Miss Doll - Pool Party
 Professional pool photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK MICRO BIKINI, NO CORSET. Pink platform stilettos with CLEAR ACRYLIC HEELS 16cm. Sitting on pink pool float. Holding pink cocktail. Vacant sun-dazed stare. Sparkling blue pool. Professional photography.
@@ -255,7 +255,7 @@ Professional gothic photography of adult goth bimbo woman inspired by Sacha Mass
 
 ---
 
-### ?? FANTASÍA OSCURA
+### ?? FANTASÃA OSCURA
 
 #### Helena - Vampire Queen
 Professional fantasy photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair with crown. Pale marble skin with FANGS VISIBLE. BLOOD RED LIPS wet. Obscenely exaggerated hourglass figure. Wearing black velvet gown with extreme plunge, black overbust corset EXTREMELY TIGHT with red jewels. Black stilettos 9-inch. Seated on bone throne. Blood chalice. Hungry predator stare. Gothic castle. Professional photography.
@@ -299,7 +299,7 @@ Professional masquerade photography of glamorous French aristocratic woman, Old 
 
 ---
 
-### ?? ÉPOCAS / DÉCADAS
+### ?? Ã‰POCAS / DÃ‰CADAS
 
 #### Miss Doll - 50s Pink Pin-Up
 Professional vintage photography of adult bimbo woman with platinum blonde bob (50s victory rolls style). REALISTIC HUMAN FACE with retro doll makeup. Hyperbolic hourglass figure. Wearing PINK BULLET BRA (50s style), pink high-waisted panties, pink waspie corset, pink stockings. Pink platform heels 16cm. Classic pin-up pose against vintage car. Surprised vacant expression. Retro studio. Professional photography.
@@ -353,7 +353,7 @@ Professional vineyard photography of glamorous French aristocratic woman, Old Ho
 
 ---
 
-## IV. FETICHES ESPECÍFICOS
+## IV. FETICHES ESPECÃFICOS
 
 ### ?? TACONES & BOTAS
 
@@ -383,7 +383,7 @@ Professional fetish photography of adult bimbo woman with platinum blonde bob. R
 #### Helena - Gothic Ring Gag
 Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. Obscenely exaggerated hourglass figure. Wearing black leather harness, black corset. BLACK LEATHER RING GAG in mouth. Black collar. Kneeling submissive pose. Glazed vacant eyes. Dark dungeon. Professional photography.
 
-### ?? PRÁCTICAS BDSM
+### ?? PRÃCTICAS BDSM
 
 #### Helena - Leather Strappado
 Professional fetish photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling forward. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. STRAPPADO POSITION: hands bound behind back pulled upward by chain, bent forward. Wearing black leather corset, black thong. Black stilettos 9-inch. Dark dungeon. Professional photography.
@@ -424,7 +424,7 @@ Professional pool photography of adult bimbo woman with platinum blonde bob. REA
 #### Helena - Gothic Bikini Back
 Professional gothic beach photography of adult goth bimbo woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair down back. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. BACK VIEW: showing MASSIVE round pale backside in BLACK MICRO THONG BIKINI with skull chains. NO CORSET. Black platform stilettos clear acrylic 9-inch. Walking into dark ocean. Storm clouds. Professional photography.
 
-### ?? POSES ESPECÍFICAS
+### ?? POSES ESPECÃFICAS
 
 #### Miss Doll - Bend Over Counter
 Professional fetish photography of adult bimbo woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. BEND OVER POSE: bent forward over kitchen counter, MASSIVE backside prominent. Wearing pink latex maid outfit, pink corset, pink platform heels 16cm. Looking back with vacant inviting stare. Pink kitchen. Professional photography.
@@ -473,22 +473,22 @@ Professional fetish photography of TWO adult bimbo women together. MISS DOLL (pl
 #### MD x Helena - Mirror Reflection
 Professional artistic photography of TWO adult bimbo women together. MISS DOLL (platinum bob, pink) and HELENA (black hair, gothic) standing back to back, heads turned to face each other. Opposite colors: pink vs black. Same vacant expression. Mirror between them reflecting both. Half pink half black studio. Symmetrical composition. Professional photography.
 
-### ?? Anaïs x Dolls
+### ?? AnaÃ¯s x Dolls
 
 #### Anais x Miss Doll - Creator and Creation
-Professional fashion photography of TWO women together. ANAÏS (honey blonde, Old Hollywood glamour, black corset gown, So Kate 12cm) standing dominant holding MISS DOLL's (platinum bob, pink latex, pink heels 16cm) chin. Anaïs with proud sultry smile. Miss Doll with adoring vacant stare up at creator. Luxury Parisian salon. Professional photography.
+Professional fashion photography of TWO women together. ANAÃS (honey blonde, Old Hollywood glamour, black corset gown, So Kate 12cm) standing dominant holding MISS DOLL's (platinum bob, pink latex, pink heels 16cm) chin. AnaÃ¯s with proud sultry smile. Miss Doll with adoring vacant stare up at creator. Luxury Parisian salon. Professional photography.
 
 #### Anais x Helena - Mistress and Maid
-Professional boudoir photography of TWO women together. ANAÏS (honey blonde, black silk robe, black corset, So Kate 12cm) reclining on chaise lounge. HELENA (voluminous black hair, pale, black maid corset, stilettos 9-inch) kneeling serving wine. Anaïs with sultry imperious stare. Helena with devoted submissive gaze. Parisian boudoir. Professional photography.
+Professional boudoir photography of TWO women together. ANAÃS (honey blonde, black silk robe, black corset, So Kate 12cm) reclining on chaise lounge. HELENA (voluminous black hair, pale, black maid corset, stilettos 9-inch) kneeling serving wine. AnaÃ¯s with sultry imperious stare. Helena with devoted submissive gaze. Parisian boudoir. Professional photography.
 
 #### The Trinity - All Three Together
-Professional fashion editorial of THREE women together in pyramid formation. ANAÏS (honey blonde, black gown, center, dominant) flanked by MISS DOLL (pink latex, left, vacant smile) and HELENA (voluminous black, gothic, right, devoted stare). Anaïs seated on throne, both dolls kneeling at her feet. Half pink half black lighting with golden center. Luxury dungeon. Professional photography.
+Professional fashion editorial of THREE women together in pyramid formation. ANAÃS (honey blonde, black gown, center, dominant) flanked by MISS DOLL (pink latex, left, vacant smile) and HELENA (voluminous black, gothic, right, devoted stare). AnaÃ¯s seated on throne, both dolls kneeling at her feet. Half pink half black lighting with golden center. Luxury dungeon. Professional photography.
 
 ---
 
 ## VII. HISTORIAL DE PROMPTS USADOS
 
-> ?? **NO REPETIR** - Estos prompts ya tienen imágenes generadas
+> ?? **NO REPETIR** - Estos prompts ya tienen imÃ¡genes generadas
 
 ### Miss Doll (Usados)
 - Ballerina, Bimbo Bride, Boudoir Bimbo, Bunny Club, Burlesque
@@ -504,11 +504,11 @@ Professional fashion editorial of THREE women together in pyramid formation. ANA
 - Leather Dominatrix, Look 1-9 (todas las poses), Ultra Goth Bimbo
 - Vampire Christmas, Vampire Mistress
 
-### Anaïs (Usados)
+### AnaÃ¯s (Usados)
 - Art Curator, Boudoir Aristocrat, Casino Royale, Equestrian
 - Noel Aristocratique, Opera Mask, Paris Balcony, Riviera Bikini
 
 ---
 
-*Total Prompts Disponibles: ~140+ | Última actualización: 2025-12-24*
+*Total Prompts Disponibles: ~140+ | Ãšltima actualizaciÃ³n: 2025-12-24*
 
