@@ -138,7 +138,15 @@
 
 ---
 
-## 🦇 Look 7: Underworld Bimbo
+
+  | Pose | Imagen |
+  |------|--------|
+  | **Frontal** | ![Helena Look 6](..\05_Imagenes\helena\Helena_Look06_BloodMoon_v1.png) |
+  | **Trasera** | ![Helena Look 6 Back](..\05_Imagenes\helena\Helena_Look06_BloodMoon_Back_v1.png) |
+
+  ---
+
+  ## 🦇 Look 7: Underworld Bimbo
 
 *Selene pero sin la inteligencia*
 
