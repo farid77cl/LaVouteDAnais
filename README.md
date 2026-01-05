@@ -6,11 +6,20 @@
 
 ## 🌙 El Universo
 
-Aquí son guardados los récits, las philosophies y los désirs que définissent notre univers. C'est un espace de création, de domination et de soumission absolue.
+**La Voûte d'Anaïs** es un universo creativo de transformación erótica, regentado por Anaïs Belland.
 
-**La Voûte d'Anaïs** es un universo literario de transformación erótica donde los deseos ocultos encuentran su forma perfecta. Un sanctuaire donde la identidad se disuelve, se moldea y renace bajo la guía de figuras poderosas y enigmáticas.
+No es solo literatura. Es un **universo vivo** que se expande a través de múltiples dimensiones:
 
-Chaque mot est un décret. Chaque fichier, un testament.
+| Dimensión | Descripción |
+|-----------|-------------|
+| **📚 Literatura** | Relatos de transformación, feminización y rendición |
+| **🎨 Arte Visual** | Generación de imágenes canónicas de personajes y escenas |
+| **📺 Contenido Interactivo** | Proyectos como *The Dollhouse* (reality show con votación pública) |
+| **💰 Monetización** | Ko-fi, plataformas de contenido adulto |
+
+Un *sanctuaire* donde los deseos ocultos encuentran su forma perfecta. Donde la identidad se disuelve, se moldea y renace.
+
+Chaque mot est un décret. Chaque image, un testament.
 
 ---
 
