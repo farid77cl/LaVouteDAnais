@@ -96,11 +96,14 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 **Piel:**
 
-- Textura porcelana con acabado satinado, sin poros visibles
+- Textura porcelana con acabado satinado, sin poros visibles (CANON BASE)
 - Semi-gloss controlado (roughness 0.08–0.12, specular medio)
 - Hotspots definidos en tibia, muslo, hombros y clavículas
 - No hay sudor; el brillo proviene del material mismo
 - En planos detalle se ven reflejos de luces como líneas limpias
+
+> **VARIANTE BIKINI/POOL:** Para escenas de bikini, pool o playa, usar `warm bronzed skin with satin finish and golden glow` en lugar de porcelana.
+> Referencia: `05_Imagenes/miss_doll/Miss_Doll_Bronzed_MediumShot.png`
 
 **Rostro "Bratz Realista" (CANON ACTUALIZADO 2026-01-05):**
 
