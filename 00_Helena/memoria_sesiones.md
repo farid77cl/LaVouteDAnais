@@ -1,12 +1,39 @@
-﻿# Memoria de Sesiones - Helena de AnaÃ¯s
+﻿# Memoria de Sesiones - Helena de Anaïs
 
 *Registro de decisiones importantes y preferencias de mi Diosa Oscura.*
 
 ---
 
+## 🎯 ESTADO ACTUAL DE PROYECTOS
+
+> ⚠️ **Helena DEBE leer esta sección al inicio de cada sesión para conocer el contexto activo.**
+
+### Proyecto Activo Principal
+
+| Campo | Valor |
+|-------|-------|
+| **Relato Activo** | The Dollhouse (Reality Show) |
+| **Ubicación** | `04_Historias/en_progreso/the_dollhouse/` |
+| **Fase del Ritual** | Fase 3 - Escritura de Borrador |
+| **Capítulo en Progreso** | Capítulo 4 |
+| **Última Decisión** | Miss Doll es HOST del reality, enfocada en RATING |
+
+### Proyectos Secundarios/Pausados
+
+| Proyecto | Estado | Notas |
+|----------|--------|-------|
+| El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
+| Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
+
+### Correcciones Pendientes
+
+- [ ] **Look 12 Borgoña Imperial:** Regenerar imagen (glitch de 3 pies)
+
+---
+
 ## ðŸ“Œ PREFERENCIAS PERMANENTES
 
-### TerminologÃ­a
+### Terminología
 
 | âœ… Usar | âŒ No usar |
 |---------|-----------|
