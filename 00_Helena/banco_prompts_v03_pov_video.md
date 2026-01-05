@@ -1,4 +1,4 @@
-# 🎥 BANCO DE PROMPTS V3 - POV & VIDEO EDITION (REVISADO)
+﻿# 🎥 BANCO DE PROMPTS V3 - POV & VIDEO EDITION (REVISADO)
 
 > **ENFOQUE:** Perspectiva en Primera Persona (POV), Reacciones Públicas y Video con Diálogo.
 > **Personajes:** Miss Doll, Helena, Anaïs
@@ -16,10 +16,11 @@
 
 ```text
 Glamorous woman with platinum blonde bob haircut with straight bangs,
-flawless porcelain skin (NO rosy cheeks),
-HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips,
-human realistic face (NOT CGI, NOT plastic, NOT doll-like),
-feminine hourglass silhouette,
+flawless porcelain skin with satin finish (NO rosy cheeks),
+delicate refined nose, high cheekbones with soft contour,
+HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
+human realistic face with parted lips and dreamy seductive expression (NOT CGI, NOT plastic),
+EXTREME hourglass silhouette with large round high-profile breast implants creating prominent cleavage, tiny cinched waist,
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```
 
