@@ -73,69 +73,81 @@ Marco, en el podio contiguo, observa con ojos vidriosos. Su piel de porcelana br
 
 ---
 
-## LA TRANSFORMACIÓN: ARQUITECTURA DE DOLOR
+## LA TRANSFORMACIÓN: EL GLOW DESPIERTA
 
-Las enfermeras reaparecen.
+Miss Doll saca un objeto de su corsé.
 
-Cuatro figuras idénticas emergen de las sombras laterales del escenario, deslizándose sobre sus tacones de aguja biomecánicos con precisión robótica. Sus uniformes son diferentes esta vez: látex blanco con ribetes rosa neón, máscaras sin rostro pulidas como espejos, y en lugar de jeringas, cargan un cofre de acero quirúrgico entre las cuatro.
+No es bisturí. No es jeringa. Es un *control remoto*.
 
-El cofre es del tamaño de un ataúd pequeño.
+Pequeño, elegante, del tamaño de un labial de lujo. Rosa cromado con un único dial en el centro y un botón que pulsa con luz rosa suave, al ritmo de un corazón.
 
-Lo depositan frente a Julián con un *THUD* que resuena en el estudio.
+—¿Recuerdas el *Glow*, Príncipe? —Miss Doll acaricia el control con un dedo enguantado—. Esos nanobots preciosos que te inyectamos en el Capítulo 1. Los que flotan en tu sangre. Los que esperan... instrucciones.
 
-—Presentamos... —Miss Doll acaricia la superficie del cofre con reverencia— ...el **Kit de Remodelación Estructural**, cortesía de los Laboratorios de La Voûte. Seis costillas flotantes. Un compresor de titanio orgánico. Y aproximadamente... treinta minutos de lo que los científicos llaman "reestructuración ósea acelerada".
+Julián palidece. *Ji ji ji.* —¡No... ji ji... no sabía que...!
 
-Julián sacude la cabeza frenéticamente. *Ji ji ji.* —¡No... ji ji... pueden... ji ji ji!
+—¿Que podían hacer *esto*? —Miss Doll gira el dial un milímetro—. Nadie te lo dijo, cariño. Es parte de la diversión.
 
-—Técnicamente, podemos hacer lo que queramos —responde Miss Doll con dulzura venenosa—. Firmaste el contrato, ¿recuerdas? Página 47, cláusula de "modificación corporal permanente a discreción del programa". Tu abogado de Harvard debería haberte advertido.
+Un zumbido bajo atraviesa el cuerpo de Julián.
 
-Las enfermeras abren el cofre.
+No es doloroso. Es *peor*. Es una sensación de *reorganización*, como si millones de hormigas microscópicas estuvieran trabajando bajo su piel, moviendo cosas, *cambiando* cosas.
 
-El interior está iluminado con LEDs azules quirúrgicos. Anidado en terciopelo negro, un dispositivo que parece la fusión de un corsé medieval y un exoesqueleto de ciencia ficción: barras de titanio curvadas, articulaciones que se mueven solas con servomotores silenciosos, y en el centro, una cavidad que claramente está diseñada para envolver un torso humano.
+—El Glow puede hacer muchas cositas —explica Miss Doll para la cámara, su voz un ronroneo educativo—. Reducir IQ, ya lo hemos visto. Pero también puede... *esculpir*. Reabsorber tejido. Comprimir. Remodelar.
 
-—El corsé interno —explica Miss Doll para la audiencia, señalando cada componente con su uña de acrílico afilada como un bisturí—. No es *sobre* la piel. Es *dentro*. Se funde con la caja torácica. Se convierte en parte del esqueleto. Y lo mejor: tiene ajuste automático. —Sonríe—. Cada semana, se aprieta un centímetro más. Solo, en la oscuridad, mientras duermes. Hasta llegar a los 45 centímetros permanentes.
+Gira el dial otro milímetro.
 
-Julián vomita.
+Julián jadea. Su camisa, antes ajustada, ahora parece... *holgada* en la cintura. No mucho. Solo un centímetro. Pero lo siente. *Dios, lo siente.*
 
-El Giggle Lock convierte incluso eso en un sonido obscenamente alegre. *Ji ji— BLEUGH— ji ji ji.*
+—Sesenta y dos centímetros —lee Miss Doll de la pantalla del control—. Tu cintura original. Vamos a bajarla un poquito, ¿sí?
 
-—Oh, qué asco, cariño —Miss Doll ni se inmuta—. Enfermeras, limpieza. Y prepárenlo.
+Otro giro.
 
-Los grilletes del podio se activan. Julián es arrastrado hacia una mesa de operaciones que emerge del suelo con un zumbido neumático. La superficie es de cristal transparente, diseñada para que las cámaras puedan filmar desde abajo, desde los lados, desde *dentro*.
+La tela se arruga más. Julián mira hacia abajo y ve cómo sus costados se *hunden*, lentamente, como arena en un reloj. El Glow está trabajando: disolviendo grasa, comprimiendo músculo, *reorganizando* sus costillas flotantes hacia adentro.
 
-Mientras las enfermeras cortan su camisa con tijeras quirúrgicas, Miss Doll se acerca al oído de Julián.
+—*Ji ji ji...* —El sonido que escapa de su garganta es mitad risa, mitad gemido de horror.
 
-—Respira profundo ahora, Príncipe —susurra, tan cerca que solo él y los micrófonos de ultra-alta fidelidad pueden captarla—. Es la última vez que podrás hacerlo.
+—Sesenta centímetros —anuncia Miss Doll, paseándose alrededor de Julián como un escultor admirando su obra—. ¿Sientes cómo tu cuerpo *obedece*? El Glow no pregunta permiso. El Glow *actúa*.
 
----
+Miss Doll se acerca. Su mano enguantada toca la cintura de Julián, sintiendo la transformación en tiempo real.
 
-El procedimiento toma veintisiete minutos.
+—Mmm... todavía muy ancho. La audiencia votó por *avispa*, no por abeja.
 
-No mostramos la cirugía en detalle (las reglas de transmisión lo prohíben), pero sí mostramos el rostro de Julián.
+Gira el dial más.
 
-Primero, el sedante parcial: suficiente para paralizar, no suficiente para dormir. Sus ojos permanecen abiertos, vidriosos, mientras las enfermeras trabajan: incisiones láser que no dejan cicatriz, extracción de costillas que suenan como ramas secas siendo arrancadas de un árbol, y finalmente, la *inserción*.
+Julián grita. Pero el Giggle Lock convierte el grito en risa. *JI JI JI JI JI.* Su cuerpo se dobla hacia adelante mientras los nanobots trabajan más agresivamente. Puede sentirlos *dentro*: millones de pequeñas máquinas reposicionando sus órganos, comprimiendo su caja torácica, creando espacio donde antes no había.
 
-El corsé interno entra con un chasquido que se siente más que se oye.
+—Cincuenta y cinco... —Miss Doll narra con deleite—. Cincuenta y dos... oooh, estamos entrando en territorio *interesante*...
 
-*CLICK.*
+La piel de Julián se tensa sobre su nueva forma. Sus caderas, antes invisibles, ahora parecen *anchas* por contraste. Su pecho, privado del soporte de las costillas inferiores (reabsorbidas por el Glow), se proyecta hacia adelante de manera antinatural.
 
-El torso de Julián se *contrae*. Es un movimiento antinatural, como si su cuerpo fuera arcilla siendo esculpida por manos invisibles. Sus costados se hunden. Su cintura se estrecha. La piel se tensa sobre la nueva arquitectura metálica debajo.
+—Cincuenta centímetros —Miss Doll pausa el dial—. A mitad de camino. ¿Cómo te sientes, Príncipe?
 
-—Sesenta centímetros... —narra Miss Doll, leyendo datos de una tablet con forma de espejo compacto—. Cincuenta y cinco... cincuenta... la calibración inicial es cuarenta y ocho centímetros. Brutal, pero respirable. Por ahora.
+Julián no puede responder con palabras. *Ji ji ji.* Su respiración es superficial, rápida. Cada inhalación es un esfuerzo. Sus pulmones tienen menos espacio ahora.
+
+—Esto es TELEVISIÓN, gente —Miss Doll mira a la cámara con éxtasis—. ¡Veintiún millones viéndolo EN VIVO! ¡Viendo cómo el Príncipe de Harvard se convierte en reloj de arena!
+
+Gira el dial de nuevo.
+
+Esta vez, *lentamente*. Tortuosamente lento. Cada fracción de milímetro es una eternidad de transformación. Julián puede sentir cada nanómetro de cambio, cada fibra de tejido siendo reubicada.
+
+—Cuarenta y nueve... cuarenta y ocho...
+
+Miss Doll se detiene.
+
+—Cuarenta y ocho centímetros. La calibración inicial votada. —Guarda el control en su corsé con satisfacción—. Brutal, pero respirable. Por ahora.
 
 Julián jadea. El aire entra en sus pulmones con dificultad, como si estuviera respirando a través de una pajita. Su pecho sube y baja con movimientos superficiales, rápidos, *femeninos*.
 
-—Vamos a ver —Miss Doll lo ayuda a incorporarse.
+—Pero el Glow no ha terminado —añade Miss Doll con una sonrisa que promete más crueldad—. Está programado para apretar un centímetro más cada semana. Solo, en la oscuridad, mientras duermes. Hasta llegar a cuarenta y cinco. *Permanente*.
 
-Lo que se levanta ya no es el Príncipe.
+Lo que queda de pie ya no es el Príncipe.
 
-El torso de Julián es ahora una exageración de proporcionalidad imposible. Su cintura es un punto de estrangulamiento, un reloj de arena extremo que hace que sus caderas (antes invisibles bajo el corte recto de sus pantalones de diseñador) parezcan *anchas* por contraste. Su pecho, privado de las costillas inferiores, sobresale hacia adelante como un busto incipiente.
+El torso de Julián es ahora una exageración de proporcionalidad imposible. Su cintura es un punto de estrangulamiento, un reloj de arena extremo que hace que sus caderas parezcan *anchas* por contraste. Su pecho sobresale hacia adelante como un busto incipiente.
 
 —*Ji... ji...* —intenta reír, pero no hay aire suficiente. El sonido sale como un silbido agudo, casi un gemido.
 
-—Oh, esto es PRECIOSO —Miss Doll aplaude—. ¡El rating está explotando! ¡Veinte millones! ¡Récord del programa!
+—Oh, esto es PRECIOSO —Miss Doll aplaude—. ¡El rating está explotando! ¡Veintidós millones!
 
-Marco mira a Julián desde su podio y siente algo que no esperaba: un destello de reconocimiento. *Así me veía yo cuando me cambiaron la piel*, piensa. *Así de roto. Así de... cambiado.*
+Marco mira a Julián desde su podio y siente algo que no esperaba: un destello de reconocimiento. *Así me veía yo cuando el Glow me cambió la piel*, piensa. *Así de roto. Así de... cambiado.*
 
 Pero hay algo más. Algo que el *Glow* susurra en los rincones oscuros de su cerebro recableado: *Se ve... bonita. Su cintura se ve... tocable.*
 
@@ -150,14 +162,22 @@ Pero sus ojos no pueden apartarse de la curva imposible de la cintura de Julián
 *(Nivel: Conocimiento de Club Nocturno y Protocolo de Trabajo Sexual)*
 
 **Host:** Miss Doll
-**Mecánica:** 3 preguntas de opción múltiple. Castigo por error: -5 IQ + Giggle Lock
-**Feature del Bloque:** A definir según resultado
+**Mecánica:** 3 preguntas de opción múltiple. Castigo por error: -5 IQ (el Glow ataca neuronas)
+**Feature del Bloque:** Los efectos del IQ reducido ya son VISIBLES
 
 ---
 
 Miss Doll camina hacia el centro del escenario, sus tacones de cristal negro produciendo un sonido de campanillas rotas con cada paso.
 
-—Mientras nuestro Príncipe aprende a respirar con su nueva silueta... —Se detiene frente a los podios renovados. Julián ha sido devuelto al suyo, pero ahora hay un corsé externo sobre su torso desnudo, un refuerzo visual del metal que lleva dentro. Cada respiración es visible, superficial, *suplicante*—. Continuamos el juego.
+—Mientras nuestro Príncipe aprende a respirar con su nueva silueta... —Se detiene frente a los podios renovados. Julián ha sido devuelto al suyo, su nueva cintura obscenamente estrecha visible bajo la camisa arruinada. Cada respiración es visible, superficial, *suplicante*—. Continuamos el juego.
+
+Miss Doll se acerca a Marco y le acaricia la mejilla con un dedo enguantado. La Piel de Porcelana reacciona instantáneamente: Marco se estremece, cierra los ojos, un gemido involuntario escapa de sus labios.
+
+—Mmm... tan sensible, mi muñequita —ronronea Miss Doll—. ¿Listo para demostrar que eres más lista que el Príncipe?
+
+Se gira hacia Julián y le pellizca la cintura. Él jadea.
+
+—Y tú, cariño... ¿recuerdas *por qué* estás aquí? —Su voz se vuelve afilada—. Firmaste porque creíste que serías el héroe. Que tu intelecto te salvaría. Que podrías *ganar*. —Ríe—. Mira lo bien que te ha funcionado.
 
 El tablero digital desciende del techo con efectos de neón.
 
@@ -170,7 +190,7 @@ El tablero digital desciende del techo con efectos de neón.
 
 Julián intenta protestar. —¡Ji ji... esto es... ji ji ji... degradante!
 
-—Correcto —asiente Miss Doll sin ironía—. ¿Empezamos?
+—Correcto —asiente Miss Doll, deslizando un dedo por el pecho de Julián hasta su cintura imposible—. Y vas a aprender cada regla. ¿Empezamos?
 
 ---
 
@@ -198,13 +218,15 @@ Miss Doll revisa las respuestas con placer teatral.
 
 **Marcador: Marco 4 — Julián 0**
 
-Un pulso de *Glow* atraviesa el cráneo de Julián. Él jadea (lo poco que puede jadear) y siente palabras *escapándose*. Conceptos que antes dominaba ahora se sienten... borrosos.
+Un pulso de *Glow* atraviesa el cráneo de Julián. Él jadea (lo poco que puede jadear) y siente palabras *escapándose*. Conceptos que antes dominaba ahora se sienten... borrosos. ¿Cuál era la fórmula de... de esa cosa...? El teorema de... el teorema de...
 
-—**Menos 5 puntos de CI** —anuncia Miss Doll—. Julián baja a 130. Todavía sobre el promedio... pero cada vez más cerca de la mediocridad.
+*No puede recordar.*
+
+—**Menos 5 puntos de CI** —anuncia Miss Doll, observándolo con curiosidad científica—. Julián baja a 130. ¿Notas algo, Príncipe? ¿Algo que antes sabías y ahora... se te escapa?
+
+Julián parpadea. Sus ojos muestran confusión genuina. *Ji ji ji.*
 
 **[PENALIDAD: Julián -5 IQ → Total acumulado: -25 IQ]**
-
-*Ji ji ji*, escapa de la garganta de Julián, involuntario, humillante.
 
 ---
 
@@ -216,9 +238,13 @@ Un pulso de *Glow* atraviesa el cráneo de Julián. Él jadea (lo poco que puede
 **B) Al principio del encuentro, antes de cualquier actividad.**
 **C) Al final, como propina por buen desempeño.**
 
-Julián analiza las opciones. *PPM. Pay Per Meet. Es una transacción. En los negocios, el pago viene después del servicio entregado. No, espera... la discreción es clave. Bajo la mesa. Elegante. Profesional.* Presiona **A** con la poca dignidad que le queda.
+Miss Doll se pasea entre los podios mientras los concursantes piensan. Se detiene detrás de Julián y le susurra al oído:
 
-Marco siente un hormigueo en su piel de porcelana. La palabra *dinero* activa algo primitivo. *Cobra primero, idiota. Siempre cobra primero. Si te pagan después, te pueden joder.* Su mano, ahora suave y sin callos, presiona **B**.
+—¿Sabes qué es lo triste, Príncipe? Que *yo* sé la respuesta. Una stripper de club nocturno sabe más de negocios que un graduado de Harvard. —Le da una palmadita condescendiente en la mejilla.
+
+Julián analiza las opciones con dificultad. Su mente, antes un láser, ahora tartamudea. *PPM. Pay Per Meet. Es una transacción. En los negocios, el pago viene después del... no, espera... ¿qué estaba pensando?* Sacude la cabeza. *La discreción es clave. Bajo la mesa. Elegante. Profesional.* Presiona **A** con la poca dignidad que le queda.
+
+Marco siente un hormigueo en su piel de porcelana cuando Miss Doll le roza el hombro al pasar. La palabra *dinero* activa algo primitivo. *Cobra primero, idiota. Siempre cobra primero. Si te pagan después, te pueden joder.* Su mano, ahora suave y sin callos, presiona **B**.
 
 —¡TIEMPO!
 
@@ -228,9 +254,11 @@ Marco siente un hormigueo en su piel de porcelana. La palabra *dinero* activa al
 
 **Marcador: Marco 5 — Julián 0**
 
-Otro pulso. Julián gime (un gemido que suena a risa). El *Glow* le arranca otro fragmento de sí mismo.
+Otro pulso. Julián gime (un gemido que suena a risa). El *Glow* le arranca otro fragmento de sí mismo. Esta vez, puede sentirlo físicamente: un vértigo, como si el suelo se inclinara. Las palabras en la pantalla se ven... borrosas. *¿Siempre fueron tan pequeñas las letras?*
 
-—**Menos 5 puntos de CI** —Miss Doll no esconde su deleite—. Julián cae a 125. Oficialmente debajo de "genio". Bienvenido a la gente normal, Príncipe.
+—**Menos 5 puntos de CI** —Miss Doll no esconde su deleite—. Julián cae a 125. Oficialmente debajo de "genio". —Le toca la frente con un dedo—. ¿Sientes cómo se vacía ahí adentro? ¿Cómo hay cada vez más... espacio?
+
+Julián no responde. No puede. Algo en su cerebro está *mal*.
 
 **[PENALIDAD: Julián -5 IQ → Total acumulado: -30 IQ]**
 
@@ -244,7 +272,17 @@ Otro pulso. Julián gime (un gemido que suena a risa). El *Glow* le arranca otro
 **B) Tiempo privado con la stripper donde las reglas del piso principal no aplican.**
 **C) Acceso exclusivo al área reservada para celebridades.**
 
-Julián parpadea. Su mente, antes un láser de precisión, ahora se siente como una linterna con las pilas agotándose. *Champagne... es una bebida. Room... una habitación. Champagne Room = habitación de champagne = comprar champagne. Lógico.* Presiona **A** con manos temblorosas.
+Miss Doll se sienta en el borde del podio de Julián, cruzándose de piernas lentamente, haciendo que su falda de PVC cruja.
+
+—Última pregunta, mis amores. Veamos si el Príncipe puede recordar qué *es* un Champagne Room... —Le guiña un ojo a la cámara—. Aunque a este ritmo, pronto no recordará ni su propio nombre.
+
+Julián parpadea. Su mente, antes un láser de precisión, ahora se siente como una linterna con las pilas agotándose. *Champagne... es una bebida. Room... una habitación. Champagne Room = habitación de... de...*
+
+Pierde el hilo del pensamiento. Vuelve a empezar.
+
+*Champagne = burbujas. Las burbujas son... bonitas. Ji ji ji.*
+
+Sacude la cabeza violentamente. *¡CONCENTRATE!* Pero la concentración ya no es fácil. Presiona **A** casi al azar.
 
 Marco no necesita pensar. Recuerda. Noches sudorosas en clubes de mala muerte antes de que lo secuestraran para este show. *El Champagne Room no es sobre el champagne, idiota. Es donde pasan las cosas de verdad. Donde el bouncer mira hacia otro lado.* Presiona **B** casi con nostalgia.
 
