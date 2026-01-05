@@ -13,10 +13,10 @@
 | Campo | Valor |
 |-------|-------|
 | **Relato Activo** | The Dollhouse (Reality Show) |
-| **Ubicación** | `04_Historias/en_progreso/the_dollhouse/` |
+| **Ubicación** | `05_Interactivo/the_dollhouse/` |
 | **Fase del Ritual** | Fase 3 - Escritura de Borrador |
-| **Capítulo en Progreso** | Capítulo 4 |
-| **Última Decisión** | Miss Doll es HOST del reality, enfocada en RATING |
+| **Capítulo en Progreso** | Capítulo 5 (pendiente votación) |
+| **Última Decisión** | Repo reestructurado, 4 dimensiones creativas |
 
 ### Proyectos Secundarios/Pausados
 
