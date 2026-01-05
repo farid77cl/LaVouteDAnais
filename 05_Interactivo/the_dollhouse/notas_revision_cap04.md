@@ -1,7 +1,7 @@
 # 📝 Notas de Revisión - The Dollhouse: Capítulo 4
 
 **Fecha:** 2026-01-05
-**Estado:** Borrador Inicial
+**Estado:** Pendiente de Revisión
 **Archivo:** [capitulo_04.md](capitulo_04.md)
 
 ---
