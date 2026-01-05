@@ -24,71 +24,72 @@
 
 ---
 
-## 📦 Bancos de Prompts (V01 - V38)
+### Bancos de Prompts (V01 - V38)
 
-**Total: 38 bancos | ~2,800+ prompts**
+**Ubicación:** [`bancos_prompts/`](bancos_prompts/)
+**Total:** 38 bancos | ~2,800+ prompts
 
 ### Básicos y Expandidos (V01-V05)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
-| V01 | Básico Histórico | ~100 |
-| V02 | Expandido (profesiones, escenarios) | 215+ |
-| V03 | POV & Video (lipsync, inmersión) | 160+ |
-| V04 | Fetish Edition | 80+ |
-| V05 | Story Scenes | 200+ |
+| [V01](bancos_prompts/banco_prompts_v01_basico.md) | Básico Histórico | ~100 |
+| [V02](bancos_prompts/banco_prompts_v02_expandido.md) | Expandido (profesiones, escenarios) | 215+ |
+| [V03](bancos_prompts/banco_prompts_v03_pov_video.md) | POV & Video (lipsync, inmersión) | 160+ |
+| [V04](bancos_prompts/banco_prompts_v04_fetish.md) | Fetish Edition | 80+ |
+| [V05](bancos_prompts/banco_prompts_v05_story_scenes.md) | Story Scenes | 200+ |
 
 ### Marcas y Estilos (V06-V09)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
-| V06 | Fashion Nova & Oh Polly | 150+ |
-| V07 | Honey Birdette & Agent Provocateur | 60+ |
-| V08 | Rostros & Maquillaje | 18+ |
-| V09 | Libidex & Honour (Latex UK) | 150+ |
+| [V06](bancos_prompts/banco_prompts_v06_fashion_nova.md) | Fashion Nova & Oh Polly | 150+ |
+| [V07](bancos_prompts/banco_prompts_v07_lingerie.md) | Honey Birdette & Agent Provocateur | 60+ |
+| [V08](bancos_prompts/banco_prompts_v08_rostros.md) | Rostros & Maquillaje | 18+ |
+| [V09](bancos_prompts/banco_prompts_v09_libidex_honour.md) | Libidex & Honour (Latex UK) | 150+ |
 
 ### Fetish y BDSM (V10-V18)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
-| V10 | BDSM Dungeon & Dominatrix | 50+ |
-| V11 | Office Siren | 150+ |
-| V13 | Maid & Servant | 50+ |
-| V14 | Heels Worship | 50+ |
-| V15 | Vex Clothing | 50+ |
-| V16 | Dark Garden Corsetry | 50+ |
-| V17 | POV Submission | 100+ |
-| V18 | Pole Dance & Stripper | 50+ |
+| [V10](bancos_prompts/banco_prompts_v10_bdsm.md) | BDSM Dungeon & Dominatrix | 50+ |
+| [V11](bancos_prompts/banco_prompts_v11_office.md) | Office Siren | 150+ |
+| [V13](bancos_prompts/banco_prompts_v13_maid.md) | Maid & Servant | 50+ |
+| [V14](bancos_prompts/banco_prompts_v14_heels.md) | Heels Worship | 50+ |
+| [V15](bancos_prompts/banco_prompts_v15_vex.md) | Vex Clothing | 50+ |
+| [V16](bancos_prompts/banco_prompts_v16_corsets.md) | Dark Garden Corsetry | 50+ |
+| [V17](bancos_prompts/banco_prompts_v17_pov.md) | POV Submission | 100+ |
+| [V18](bancos_prompts/banco_prompts_v18_pole.md) | Pole Dance & Stripper | 50+ |
 
 ### Temáticos (V19-V32)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
-| V19 | Gym & Fitness | 50+ |
-| V20 | Bridal | 105+ |
-| V21 | Car Wash | 100+ |
-| V22 | Halloween | 50+ |
-| V23 | Vintage Pinup | 50+ |
-| V24 | Cyberpunk | 50+ |
-| V25 | Medical | 50+ |
-| V26 | Racing | 50+ |
-| V27 | Religious | 50+ |
-| V28 | Asian Inspired | 50+ |
-| V29 | Motorcycle | 50+ |
-| V30 | Pool & Beach | 50+ |
-| V31 | Christmas | 50+ |
-| V32 | Party | 50+ |
+| [V19](bancos_prompts/banco_prompts_v19_gym.md) | Gym & Fitness | 50+ |
+| [V20](bancos_prompts/banco_prompts_v20_bridal.md) | Bridal | 105+ |
+| [V21](bancos_prompts/banco_prompts_v21_carwash.md) | Car Wash | 100+ |
+| [V22](bancos_prompts/banco_prompts_v22_halloween.md) | Halloween | 50+ |
+| [V23](bancos_prompts/banco_prompts_v23_vintage_pinup.md) | Vintage Pinup | 50+ |
+| [V24](bancos_prompts/banco_prompts_v24_cyberpunk.md) | Cyberpunk | 50+ |
+| [V25](bancos_prompts/banco_prompts_v25_medical.md) | Medical | 50+ |
+| [V26](bancos_prompts/banco_prompts_v26_racing.md) | Racing | 50+ |
+| [V27](bancos_prompts/banco_prompts_v27_religious.md) | Religious | 50+ |
+| [V28](bancos_prompts/banco_prompts_v28_asian.md) | Asian Inspired | 50+ |
+| [V29](bancos_prompts/banco_prompts_v29_motorcycle.md) | Motorcycle | 50+ |
+| [V30](bancos_prompts/banco_prompts_v30_pool.md) | Pool & Beach | 50+ |
+| [V31](bancos_prompts/banco_prompts_v31_christmas.md) | Christmas | 50+ |
+| [V32](bancos_prompts/banco_prompts_v32_party.md) | Party | 50+ |
 
 ### Nuevos (V33-V38) - Color Freedom
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
-| V33 | Sports & Athletic | 50 |
-| V34 | Lingerie Exclusive | 50 |
-| V35 | Retro Futurism | 50 |
-| V36 | Mob Wife | 50 |
-| V37 | Leather Fetish | 50 |
-| V38 | Wedding Night | 50 |
+| [V33](bancos_prompts/banco_prompts_v33_sports.md) | Sports & Athletic | 50 |
+| [V34](bancos_prompts/banco_prompts_v34_lingerie.md) | Lingerie Exclusive | 50 |
+| [V35](bancos_prompts/banco_prompts_v35_retrofuturism.md) | Retro Futurism | 50 |
+| [V36](bancos_prompts/banco_prompts_v36_mobwife.md) | Mob Wife | 50 |
+| [V37](bancos_prompts/banco_prompts_v37_leather.md) | Leather Fetish | 50 |
+| [V38](bancos_prompts/banco_prompts_v38_wedding.md) | Wedding Night | 50 |
 
 ---
 
