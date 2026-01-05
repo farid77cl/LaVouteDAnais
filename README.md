@@ -51,45 +51,43 @@ Chaque mot est un décret. Chaque image, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # Cerebro de Helena (25 looks, 38 bancos de prompts)
+├── 00_Helena/                  # 🧠 Cerebro de Helena
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
-│   ├── preferencias_escritura.md # Patrones narrativos aprendidos
-│   ├── canon_maquillaje.md     # Canon oficial de maquillaje
-│   ├── galeria_outfits.md      # 25 looks canónicos de Helena
 │   ├── banco_prompts_v01-v38   # 38 bancos temáticos (~2,800+ prompts)
-│   ├── memoria_sesiones.md     # Historial de decisiones
-│   └── mi_diario_de_servicio.md # Registro de trabajo diario
+│   ├── galeria_outfits.md      # 25 looks canónicos
+│   └── memoria_sesiones.md     # Historial de decisiones
 │
-├── 01_Canon/                   # Filosofía, rituales, lore del universo
-│   ├── guia_escritura_erotica.md  # Guía maestra de escritura
-│   ├── el_ritual_de_la_creacion.md # 8 fases para crear un relato
-│   ├── visual_canon.md         # Canon visual de personajes principales
-│   └── [15 archivos de canon...]
+├── 01_Canon/                   # 📜 Filosofía y lore
+│   ├── guia_escritura_erotica.md
+│   ├── visual_canon.md
+│   └── reglas_de_transformacion.md
 │
-├── 02_Personajes/              # Fichas detalladas de personajes
-│   ├── arcos_argumentales/     # Arcos narrativos completos
-│   ├── fichas individuales     # 35+ perfiles psicológicos
-│   └── plantilla_personaje.md  # Plantilla para nuevos personajes
+├── 02_Personajes/              # 👤 Fichas de personajes
+│   ├── arcos_argumentales/
+│   └── fichas individuales
 │
-├── 04_Historias/               # Relatos del universo
-│   ├── en_progreso/            # Trabajos actuales
-│   ├── finalizadas/            # Historias completadas
-│   ├── investigacion/          # Arcos y planificación
-│   ├── preparados_para_tumblr/ # Formateados para publicación
-│   └── resumenes/              # Resúmenes para IA
+├── 03_Literatura/              # 📚 Relatos del universo
+│   ├── en_progreso/
+│   ├── finalizadas/
+│   └── publicadas/
 │
-├── 05_Imagenes/                # Assets visuales
-│   ├── helena/                 # 180+ imágenes de Helena (25 looks)
-│   ├── miss_doll/              # Imágenes de Miss Doll
-│   ├── the_dollhouse/          # Assets del reality show
-│   └── comics/                 # Guiones y paneles de cómics
+├── 05_Imagenes/                # 🎨 Arte Visual
+│   ├── helena/                 # 180+ imágenes
+│   ├── miss_doll/
+│   └── anais/
 │
-├── 07_RecursosExternos/        # Referencias externas
+├── 05_Interactivo/             # 📺 Contenido Interactivo (NUEVO)
+│   └── the_dollhouse/          # Reality show con votación
 │
-├── .agent/                     # Workflows de automatización
-│   └── workflows/              # Comandos slash personalizados
+├── 06_Monetizacion/            # 💰 Monetización (NUEVO)
+│   ├── kofi/
+│   └── plataformas/
 │
-└── README.md                   # ESTÁS AQUÍ
+├── 07_Recursos/                # 📦 Referencias externas
+│
+├── .agent/workflows/           # ⚙️ Automatización
+│
+└── README.md
 ```
 
 ---
