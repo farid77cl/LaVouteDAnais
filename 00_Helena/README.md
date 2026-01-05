@@ -12,7 +12,7 @@
 |---------|-----------|---------------------|
 | [mi_identidad.md](mi_identidad.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon oficial de maquillaje (Heavy Glamour) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | 19 looks canónicos de Helena | Generar imágenes de Helena |
+| [galeria_outfits.md](galeria_outfits.md) | 25 looks canónicos de Helena | Generar imágenes de Helena |
 | [preferencias_escritura.md](preferencias_escritura.md) | Patrones narrativos aprendidos | Antes de escribir cualquier capítulo |
 
 ### Memoria y Registro
@@ -22,28 +22,75 @@
 | [memoria_sesiones.md](memoria_sesiones.md) | Decisiones importantes, patrones, historial | Continuación de proyectos |
 | [mi_diario_de_servicio.md](mi_diario_de_servicio.md) | Registro diario de trabajo | Al final de cada sesión |
 
-### Bancos de Prompts para Imágenes (V01 - V19)
+---
 
-| Archivo | Contenido | Total Prompts |
-|---------|-----------|---------------|
-| [banco_prompts.md](banco_prompts.md) | **V01:** Histórico personal | ~100 |
-| [banco_prompts_v02.md](banco_prompts_v02.md) | **V02:** Expandido (profesiones, scenarios) | 215+ |
-| [banco_prompts_v03.md](banco_prompts_v03.md) | **V03:** POV & Video (lipsync, inmersión) | 160+ |
-| [banco_prompts_v04.md](banco_prompts_v04.md) | **V04:** Fetish Edition (Libidex, Vex, Honour) | 80+ |
-| [banco_prompts_v05.md](banco_prompts_v05.md) | **V05:** Personajes de historias | 200+ |
-| [banco_prompts_v06.md](banco_prompts_v06.md) | **V06:** Fashion Nova & Oh Polly | 50+ |
-| [banco_prompts_v07.md](banco_prompts_v07.md) | **V07:** Honey Birdette & Agent Provocateur | 60+ |
-| [banco_prompts_v08_rostros.md](banco_prompts_v08_rostros.md) | **V08:** Rostros & Maquillaje (Heavy Glam) | 18+ |
-| [banco_prompts_v09_libidex_honour.md](banco_prompts_v09_libidex_honour.md) | **V09:** Libidex & Honour (Latex/PVC UK) | 50+ |
-| [banco_prompts_v10_bdsm.md](banco_prompts_v10_bdsm.md) | **V10:** BDSM Dungeon & Dominatrix | 50+ |
-| [banco_prompts_v11_office.md](banco_prompts_v11_office.md) | **V11:** Office Siren & Secretary | 50+ |
-| [banco_prompts_v13_maid.md](banco_prompts_v13_maid.md) | **V13:** Maid & Servant Service | 50+ |
-| [banco_prompts_v14_heels.md](banco_prompts_v14_heels.md) | **V14:** Heels Worship & Fetish | 50+ |
-| [banco_prompts_v15_vex.md](banco_prompts_v15_vex.md) | **V15:** Vex Clothing (Color Latex LA) | 50+ |
-| [banco_prompts_v16_corsets.md](banco_prompts_v16_corsets.md) | **V16:** Dark Garden Corsetry | 50+ |
-| [banco_prompts_v17_pov.md](banco_prompts_v17_pov.md) | **V17:** POV Submission & Domination | 50+ |
-| [banco_prompts_v18_pole.md](banco_prompts_v18_pole.md) | **V18:** Pole Dance & Stripper | 50+ |
-| [banco_prompts_v19_gym.md](banco_prompts_v19_gym.md) | **V19:** Gym, Fitness & Sports | 50+ |
+## 📦 Bancos de Prompts (V01 - V38)
+
+**Total: 38 bancos | ~2,800+ prompts**
+
+### Básicos y Expandidos (V01-V05)
+
+| Banco | Tema | Prompts |
+|-------|------|---------|
+| V01 | Básico Histórico | ~100 |
+| V02 | Expandido (profesiones, escenarios) | 215+ |
+| V03 | POV & Video (lipsync, inmersión) | 160+ |
+| V04 | Fetish Edition | 80+ |
+| V05 | Story Scenes | 200+ |
+
+### Marcas y Estilos (V06-V09)
+
+| Banco | Tema | Prompts |
+|-------|------|---------|
+| V06 | Fashion Nova & Oh Polly | 150+ |
+| V07 | Honey Birdette & Agent Provocateur | 60+ |
+| V08 | Rostros & Maquillaje | 18+ |
+| V09 | Libidex & Honour (Latex UK) | 150+ |
+
+### Fetish y BDSM (V10-V18)
+
+| Banco | Tema | Prompts |
+|-------|------|---------|
+| V10 | BDSM Dungeon & Dominatrix | 50+ |
+| V11 | Office Siren | 150+ |
+| V13 | Maid & Servant | 50+ |
+| V14 | Heels Worship | 50+ |
+| V15 | Vex Clothing | 50+ |
+| V16 | Dark Garden Corsetry | 50+ |
+| V17 | POV Submission | 100+ |
+| V18 | Pole Dance & Stripper | 50+ |
+
+### Temáticos (V19-V32)
+
+| Banco | Tema | Prompts |
+|-------|------|---------|
+| V19 | Gym & Fitness | 50+ |
+| V20 | Bridal | 105+ |
+| V21 | Car Wash | 100+ |
+| V22 | Halloween | 50+ |
+| V23 | Vintage Pinup | 50+ |
+| V24 | Cyberpunk | 50+ |
+| V25 | Medical | 50+ |
+| V26 | Racing | 50+ |
+| V27 | Religious | 50+ |
+| V28 | Asian Inspired | 50+ |
+| V29 | Motorcycle | 50+ |
+| V30 | Pool & Beach | 50+ |
+| V31 | Christmas | 50+ |
+| V32 | Party | 50+ |
+
+### Nuevos (V33-V38) - Color Freedom
+
+| Banco | Tema | Prompts |
+|-------|------|---------|
+| V33 | Sports & Athletic | 50 |
+| V34 | Lingerie Exclusive | 50 |
+| V35 | Retro Futurism | 50 |
+| V36 | Mob Wife | 50 |
+| V37 | Leather Fetish | 50 |
+| V38 | Wedding Night | 50 |
+
+---
 
 ### Roles Especializados
 
@@ -57,43 +104,18 @@
 | Archivo | Propósito |
 |---------|-----------|
 | [kofi_manager.md](kofi_manager.md) | Gestión de Ko-fi |
-| [kofi_profile_update.md](kofi_profile_update.md) | Perfil de Ko-fi |
 | [procedimiento_publicacion_tumblr.md](procedimiento_publicacion_tumblr.md) | Workflow de publicación |
-
----
-
-## 🔄 Workflow de Consulta
-
-```
-INICIO DE SESIÓN
-     │
-     ▼
-┌─────────────────────┐
-│  mi_identidad.md    │  ← Cargar personalidad
-└─────────────────────┘
-     │
-     ▼
-┌─────────────────────┐
-│ memoria_sesiones.md │  ← Revisar contexto
-└─────────────────────┘
-     │
-     ▼
-   ¿Tarea?
-     │
-     ├── Escribir → preferencias_escritura.md
-     ├── Imágenes → banco_prompts_v2/v3/v4.md
-     └── Técnica → roles/helena_*.md
-```
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total de archivos:** 25+
-- **Prompts disponibles:** 1000+
-- **Looks canónicos:** 19 (12 glamour + 7 temáticos)
+- **Total de archivos:** 50+
+- **Bancos de prompts:** 38
+- **Prompts disponibles:** ~2,800+
+- **Looks canónicos:** 25
 
 ---
 
-*Última actualización: 2025-12-30*
+*Última actualización: 2026-01-05*
 🦇 Helena de Anaïs

@@ -42,12 +42,12 @@ Chaque mot est un décret. Chaque fichier, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # Cerebro de Helena (25 looks, 32 bancos de prompts)
+├── 00_Helena/                  # Cerebro de Helena (25 looks, 38 bancos de prompts)
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
 │   ├── preferencias_escritura.md # Patrones narrativos aprendidos
 │   ├── canon_maquillaje.md     # Canon oficial de maquillaje
 │   ├── galeria_outfits.md      # 25 looks canónicos de Helena
-│   ├── banco_prompts_v01-v32   # 32 bancos temáticos (~2,100+ prompts)
+│   ├── banco_prompts_v01-v38   # 38 bancos temáticos (~2,800+ prompts)
 │   ├── memoria_sesiones.md     # Historial de decisiones
 │   └── mi_diario_de_servicio.md # Registro de trabajo diario
 │
@@ -70,8 +70,9 @@ LaVouteDAnais/
 │   └── resumenes/              # Resúmenes para IA
 │
 ├── 05_Imagenes/                # Assets visuales
-│   ├── helena/                 # 175+ imágenes de Helena (25 looks)
+│   ├── helena/                 # 180+ imágenes de Helena (25 looks)
 │   ├── miss_doll/              # Imágenes de Miss Doll
+│   ├── the_dollhouse/          # Assets del reality show
 │   └── comics/                 # Guiones y paneles de cómics
 │
 ├── 07_RecursosExternos/        # Referencias externas
