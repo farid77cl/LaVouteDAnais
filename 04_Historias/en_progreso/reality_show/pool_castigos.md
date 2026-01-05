@@ -62,7 +62,16 @@
 - **Kiss Tax** — Besar al otro si pierde pregunta
 - **Pet Mode** — Hablar solo con permiso
 
+## 🍆 DESEOS/PULSIONES (Mentales Eróticos)
+
+- **Cock Compass** — Mirada involuntaria a bultos, salivación ante testosterona
+- **Bimbo Butterflies** — Excitación física ante órdenes masculinas
+- **Thought Leash** — Fantasías sexuales interrumpen pensamiento complejo
+- **Oral Fixation** — Necesidad constante de tener algo en la boca
+- **Breeding Urge** — Deseo de ser "llenada", vacío interno
+- **Pink Filter** — Reescribe pensamientos negativos en positivos vacíos
+
 ---
 
-*Actualizado: 2025-12-30*
+*Actualizado: 2026-01-05*
 🦇 Helena de Anaïs

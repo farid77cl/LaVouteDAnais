@@ -1,7 +1,7 @@
 # 📺 THE DOLLHOUSE — Documento Maestro de Producción
 
-> **Estado Actual:** Capítulo 3 publicado, votación activa para Cap 4
-> **Última Actualización:** 02 Enero 2026
+> **Estado Actual:** Capítulo 4 completado, votación activa para Cap 5
+> **Última Actualización:** 05 Enero 2026
 > **Tipo de Proyecto:** Reality Show Interactivo de Bimboficación MTF
 
 ---
