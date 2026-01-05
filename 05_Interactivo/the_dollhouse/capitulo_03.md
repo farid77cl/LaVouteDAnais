@@ -397,7 +397,7 @@ Camina hacia un atril dorado que emerge del suelo con un zumbido neumático. Sob
 
 La imagen muestra una cintura imposiblemente estrecha, una silueta de reloj de arena extremo.
 
-—Extracción de costillas. Corsé interno de titanio soldado a la columna. Cintura de 45 centímetros. PERMANENTE. —Sonríe—. Ya no podrá respirar profundo. Cada suspiro será un recordatorio de lo que perdió. Y lo mejor: tendrá que usar corsé externo TAMBIÉN, solo para mantenerse de pie. ¿No es ADORABLE?
+—El *Glow* que corre por sus venas puede hacer MUCHÍSIMO más que borrar IQ, mis amores. Puede *esculpir*. Reabsorber tejido. Comprimir costillas. Remodelar órganos. —Sonríe—. Con un simple giro de mi control remoto, su cintura bajará de 62 a 45 centímetros. PERMANENTE. Y lo mejor: el Glow seguirá apretando un centímetro cada semana mientras duerme. ¿No es ADORABLE?
 
 Señala el segundo holograma.
 
