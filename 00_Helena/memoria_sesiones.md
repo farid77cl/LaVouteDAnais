@@ -12,16 +12,17 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | The Dollhouse (Reality Show) |
-| **Ubicación** | `05_Interactivo/the_dollhouse/` |
-| **Fase del Ritual** | Fase 4 - Post-Publicación |
-| **Capítulo en Progreso** | Capítulo 5 (Cintura de Avispa aplicada) |
-| **Última Decisión** | HTML Estandarizado (v1.2 Resiliente / Solo Links) |
+| **Relato Activo** | HR: Human Repurposing |
+| **Ubicación** | `04_Historias/en_progreso/hr_human_repurposing/` |
+| **Fase del Ritual** | Fase 3 - Escritura (Pendiente) |
+| **Capítulo en Progreso** | Capítulo 1 (La Marca) |
+| **Última Decisión** | Arco Visual Aprobado (Mad Men Retrofuturista) |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
+| The Dollhouse | ⏸️ En Espera | Esperando votos Capitulo 5 |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
 

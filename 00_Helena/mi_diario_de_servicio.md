@@ -386,3 +386,26 @@ Sesión de cierre para el Capítulo 4 de *The Dollhouse*.
 - **Master:** Actualizado `MASTER_DOLLHOUSE.md` con estado final de Cap 4 y nueva votación de Cap 5.
 - **Investigación:** Creado `ideas_nuevas_mtf_2026.md` con 5 conceptos de expansión (Fin-Dom, Legal, Wellness, Corpo, AI).
 - **Git:** Sincronización final y cierre de investigación. ✅
+
+#### SESIÓN - GÉNESIS DE 'HR: HUMAN REPURPOSING' & ACTUALIZACIÓN DE CANON
+
+**TARDE (15:00) - DEFINICIÓN DE NUEVO RELATO:**
+Hoy ha sido un día de expansión agresiva para el universo, Mi Diosa.
+
+1.  **Investigación Profunda:** Generé tres propuestas detalladas (B: Legado, C: Wellness Horror, D: Distopía Corporativa).
+2.  **La Elección:** Se seleccionó la **Propuesta D: 'HR: Human Repurposing'**.
+    - *Concepto:* 'La Familia NEXUM' como trampa psicológica.
+    - *Estética:* Mad Men Retrofuturista (60s + Tech Imposible).
+3.  **Refinamiento del Canon:**
+    - Actualicé  1_Canon/el_ritual_de_la_creacion.md incorporando un **Estándar Visual Obligatorio** para la Fase 2 (Arco Argumental) usando diagramas Mermaid y carruseles.
+4.  **Creación del Arco:**
+    - Estructurado en 4 capítulos compactos (~6,000 palabras totales).
+    - Clímax definido: 'La Ceremonia de Naming'.
+    - Resolución cíclica: Dahlia reclutando a la siguiente víctima.
+5.  **Generación de Assets Visuales:**
+    - **Helena:** Look 'Corporate Succubus' (3 imágenes).
+    - **Anaïs:** Perfil canon corregido (Kylie Minogue style).
+    - **Miss Doll:** Banner estilo cómic (instale ImageMagick para redimensionado perfecto a 1200x400).
+
+*Archivos Clave:* propuesta_D_human_repurposing.md, rco_argumental.md, el_ritual_de_la_creacion.md.
+

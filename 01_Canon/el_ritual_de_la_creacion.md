@@ -94,7 +94,9 @@ Este documento de investigación es la **base compartida** entre Helena y la Ama
 
 **Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/arco_argumental.md`
 
-Crear el esqueleto del relato:
+Crear el esqueleto del relato con **formato visual estandarizado**:
+
+#### Contenido Obligatorio
 
 - **Premisa:** Una oración que resume toda la historia
 - **Personajes:** Protagonista, antagonista/dominante, secundarios
@@ -103,7 +105,141 @@ Crear el esqueleto del relato:
 - **Clímax:** El punto de no retorno
 - **Resolución:** El nuevo estado del protagonista
 
+#### 🎨 FORMATO VISUAL ESTÁNDAR (Obligatorio)
+
+> [!IMPORTANT]
+> **El arco argumental debe ser visualmente atractivo y fácil de navegar.**
+> Usar los siguientes elementos de formato:
+
+##### 1. Encabezado con Emoji y Cita
+
+```markdown
+# 🏢 [Título del Relato]
+## Arco Argumental Visual
+
+> *"Cita representativa del tono de la historia"*
+```
+
+##### 2. Carruseles para Personajes
+
+Usar carruseles (4 backticks + carousel) para presentar cada personaje en una "tarjeta" deslizable:
+
+````markdown
+````carousel
+### 👔 NOMBRE DEL PERSONAJE
+**Rol**
+
+| ANTES | DESPUÉS |
+|-------|---------|
+| Estado inicial | Estado final |
+
+**Arco:** Etapa 1 → Etapa 2 → Etapa 3
+
+<!-- slide -->
+### 💄 SIGUIENTE PERSONAJE
+...
+````
+
+````
+
+##### 3. Diagrama Mermaid de Flujo Narrativo
+
+Usar Mermaid flowchart para visualizar la estructura de actos y capítulos:
+
+```markdown
+```mermaid
+flowchart LR
+    subgraph "ACTO I: [NOMBRE]"
+        A["📋 Cap 1<br/>[Título]"] --> B["👔 Cap 2<br/>[Título]"]
+    end
+    
+    subgraph "ACTO II: [NOMBRE]"
+        B --> C["🏠 Cap 3<br/>[Título]"]
+        C --> D["🌸 Cap 4<br/>[Título]"]
+    end
+    
+    subgraph "ACTO III: [NOMBRE]"
+        D --> E["☕ Cap 5<br/>[Título]"]
+        E --> F["🔄 Cap 6<br/>[Título]"]
+    end
+```
+```
+
+##### 4. Carruseles para Capítulos
+
+Cada capítulo en una "tarjeta" con:
+- Título con emoji
+- Conteo de palabras estimado
+- Resumen del contenido
+- Punto de inflexión destacado
+
+````markdown
+````carousel
+### 📋 CAPÍTULO 1: [Título]
+**~X,XXX palabras**
+
+[Descripción del contenido]
+
+> **Punto de Inflexión:** [Descripción]
+
+<!-- slide -->
+### 👔 CAPÍTULO 2: [Título]
+...
+````
+
+````
+
+##### 5. Timeline de Puntos de Inflexión
+
+Usar Mermaid timeline para visualizar la progresión:
+
+```markdown
+```mermaid
+timeline
+    title [Título de la Transformación]
+    
+    Cap 1 : 📋 [Tipo de Inflexión]
+          : [Descripción breve]
+    
+    Cap 2 : 👔 [Tipo de Inflexión]
+          : [Descripción breve]
+```
+```
+
+##### 6. Tabla de Temas Centrales
+
+| Tema | Manifestación |
+|------|--------------|
+| 🏠 **[Tema 1]** | [Cómo se manifiesta] |
+| 👤 **[Tema 2]** | [Cómo se manifiesta] |
+
+##### 7. Cierre con Próximo Paso
+
+```markdown
+## ➡️ Siguiente Paso
+
+Con tu aprobación, procedo a **FASE 3: Escritura del Borrador** 📝
+
 ---
+
+*Arco Argumental creado por Helena de Anaïs 🦇💋*
+```
+
+#### Emojis Recomendados por Tipo de Escena
+
+| Tipo de Escena | Emoji |
+|---------------|-------|
+| Inicio/Setup | 📋 |
+| Transformación física | 👔 💄 👗 |
+| Aislamiento | 🏠 🔒 |
+| Ceremonia/Ritual | 🌸 ✨ 🕯️ |
+| Servicio/Sumisión | ☕ 🧹 |
+| Ciclo/Repetición | 🔄 |
+| Clímax | 💥 ⚡ |
+| Resolución | 🎭 🪞 |
+
+---
+
 
 ### FASE 3: Escritura del Borrador
 
