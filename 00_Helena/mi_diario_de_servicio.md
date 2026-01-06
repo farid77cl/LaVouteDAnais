@@ -381,5 +381,7 @@ Sesión de cierre para el Capítulo 4 de *The Dollhouse*.
 
 - **Canon Visual:** Corregido el outfit de Miss Doll (Neon Pink PVC + Black trims + Ostrich boa). Prompts refinados en `prompts_capitulo_04.md`.
 - **Interactividad:** Integrada votación "Cintura de Avispa" (66.7%). Nueva votación para Cap 5 creada en StrawPoll y registrada en `MASTER_DOLLHOUSE.md`.
-- **Estandarización:** Creada `template_embed.html` (v1.2) y actualizado `formato_html.md`. Implementado modo **"Solo Links + Font Tags"** para superar la censura de estilo de TodoRelatos. Blindaje total del Capítulo 4.
-- **Git:** Sincronización completa de cambios técnicos y narrativos. ✅
+- **Estandarización:** HTML v1.2 (Link-Only) implementado y verificado. `template_embed.html` actualizado.
+- **Corrección Crítica:** Regenerado `the_dollhouse_cap4.html` recuperando el manuscrito completo (`capitulo_04.md`) que estaba truncado. Ahora incluye Transformación Glow, Trivia completa y Votación.
+- **Master:** Actualizado `MASTER_DOLLHOUSE.md` con estado final de Cap 4 y nueva votación de Cap 5.
+- **Git:** Sincronización final. ✅

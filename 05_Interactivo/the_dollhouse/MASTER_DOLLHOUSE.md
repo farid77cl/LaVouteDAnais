@@ -1,7 +1,7 @@
 # 📺 THE DOLLHOUSE — Documento Maestro de Producción
 
 > **Estado Actual:** Capítulo 4 completado, votación activa para Cap 5
-> **Última Actualización:** 05 Enero 2026
+> **Última Actualización:** 06 Enero 2026
 > **Tipo de Proyecto:** Reality Show Interactivo de Bimboficación MTF
 
 ---
@@ -95,10 +95,10 @@ flowchart TD
 
 | Atributo | Valor Inicial | Valor Actual | Cambio |
 |----------|---------------|--------------|--------|
-| IQ | 155 | 135 | -20 |
-| Transformaciones | Ninguna | Giggle Lock activo | +1 |
+| IQ | 155 | 120 | -35 |
+| Transformaciones | Ninguna | Cintura de Avispa (48cm), Giggle Lock | +2 |
 | Puntos Acumulados | 0 | 0 | — |
-| Estado Mental | Arrogante | Humillado, riéndose sin control | Degradado |
+| Estado Mental | Arrogante | Risa compulsiva, dificultad respiratoria, humillación total | Degradado |
 
 **Próxima Transformación (Pendiente Votación):**
 
@@ -109,10 +109,10 @@ flowchart TD
 
 | Atributo | Valor Inicial | Valor Actual | Cambio |
 |----------|---------------|--------------|--------|
-| IQ | 100 | 95 | -5 |
+| IQ | 100 | 95 | -5 (Rebote) |
 | Transformaciones | Ninguna | Piel de Porcelana | +1 |
-| Puntos Acumulados | 1 | 3 | +3 |
-| Estado Mental | Bruto confiado | Hipersensible, distraído por placer | Alterado |
+| Puntos Acumulados | 1 | 6 | +5 |
+| Estado Mental | Bruto confiado | Adicto al tacto, instintos de stripper activados | Alterado |
 
 **Transformación Activa:**
 
@@ -132,7 +132,7 @@ flowchart TD
 |----------|----------|------|-----------|-------|
 | Cap 2 | Castigo Marco | [strawpoll.com/2ayLQwqGen4](https://strawpoll.com/2ayLQwqGen4) | Opción A (Porcelana) | 85/135 (62.96%) |
 | Cap 3 | Castigo Julián | [strawpoll.com/61gD9MmDAZw](https://strawpoll.com/61gD9MmDAZw) | **Cintura de Avispa** | 74/111 (66.67%) | [ibb.co/6c8dsHMP](https://ibb.co/6c8dsHMP) |
-| Cap 4 | Castigo Julián (Cap 5) | [strawpoll.com/X3nkPvYVLgE](https://strawpoll.com/X3nkPvYVLgE) | EN CURSO | - |
+| Cap 4 | Castigo Julián (Cap 5) | [strawpoll.com/X3nkPvYVLgE](https://strawpoll.com/X3nkPvYVLgE) | **EN CURSO** | - |
 
 ### 3.2 Crear Nueva Votación
 
@@ -222,7 +222,7 @@ La modificación es PERMANENTE dentro de la historia.</p>
 
 #### 👗 Vestimenta/Físico
 
-- Cintura de Avispa — Corsé interno, cintura 45cm ⏳ EN VOTACIÓN
+- Cintura de Avispa — Corsé interno, cintura 45cm ✅ APLICADO
 - Heel Upgrade — +2" de tacón acumulativo
 - Latex Layer — Cuerpo en látex
 - Corset Lock — Corsé soldado
@@ -347,12 +347,13 @@ Desde el Capítulo 4, el formato HTML es estricto para asegurar consistencia vis
 | Julián - Príncipe Arrogante | [ibb.co/5WcgXdrv](https://ibb.co/5WcgXdrv) | Cap 3 |
 | Enfermeras Sin Rostro | [ibb.co/bjcnzF8D](https://ibb.co/bjcnzF8D) | Cap 1 |
 | Control Remoto | [ibb.co/5qZVntc](https://ibb.co/5qZVntc) | Cap 3 |
+| Julián - Cintura de Avispa | [ibb.co/6c8dsHMP](https://ibb.co/6c8dsHMP) | Cap 4 |
 
 ### 6.2 Imágenes por Generar
 
 | Prioridad | Escena | Para Cap |
 |-----------|--------|----------|
-| ALTA | Julián con cintura de avispa (si gana Opción A) | Cap 4 |
+| COMPLETADA | Julián con cintura de avispa (si gana Opción A) | Cap 4 |
 | ALTA | Julián hablando bimbo (si gana Opción B) | Cap 4 |
 | MEDIA | Marco en uniforme de stripper | Cap 4+ |
 | BAJA | Set con nuevo decorado rosa | Cap 5+ |
