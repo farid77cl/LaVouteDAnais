@@ -1,57 +1,37 @@
-# Formato HTML The Dollhouse (Estándar Embed 2026)
+# Formato HTML The Dollhouse (Estándar Resiliente 1.2)
 
-> **⚠️ IMPORTANTE:** A partir del Capítulo 4, se utiliza EXCLUSIVAMENTE el formato "Embed" con estilos inline.
-> **Plantilla Maestra:** utilizar `template_embed.html`
+> **⚠️ PROHIBICIÓN CRÍTICA:** TodoRelatos elimina imágenes externas (`<img>`) y bloquea otros elementos incrustados. **NO USAR TAGS <img>**.
 
-## Reglas de Publicación
+## Reglas de Publicación Estricta
 
-### 1. Estructura del Archivo
+### 1. Sistema de Enlaces (Scene Visualizers)
 
-- **PROHIBIDO:** Usar `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`.
-- **REQUERIDO:** Todo el contenido debe ir dentro del `div` contenedor maestro.
-- **FUENTE:** `font-family: Georgia, serif;` (Definida en el contenedor principal).
-- **FONDO:** Degradado oscuro `#0a0a0a` a `#1a0a1a` (Definido en el contenedor principal).
+Las imágenes deben presentarse exclusivamente como enlaces externos estilizados. Esto garantiza que el lector pueda ver el arte sin que la plataforma rompa el formato.
 
-### 2. Estilos CSS Inline
-
-Como el contenido se inserta en un editor externo, no se pueden usar clases CSS externas. Todo debe ser inline.
-
-- **Texto General:** Color `#fafafa`, `line-height: 1.8`.
-- **Miss Doll (Diálogos):** `<p style="color: #ff69b4; font-style: italic;">`
-- **Títulos Dorados:** `color: #ffd700;`
-- **Títulos Rosas:** `color: #ff1493;`
-- **Contenedores de Alerta:** Usar `rgba(255, 0, 0, 0.2)` para bordes rojos.
-
-### 3. Imágenes
-
-Deben ser responsivas y estéticamente integradas.
+- **Formato:** Un párrafo centrado con emoji, bold y color Cyan (`#00bfff`).
+- **Código:**
 
 ```html
-<div style="text-align: center; margin: 2rem 0;">
-    <a href="LINK_IMAGEN" target="_blank">
-        <img src="LINK_IMAGEN" alt="..." style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 15px #ff1493; border: 2px solid #ff1493;">
-    </a>
-    <p style="font-size: 0.8rem; color: #888; font-style: italic;">Pie de foto</p>
-</div>
+<p style="text-align: center; margin: 2rem 0;">
+    🖼️ <strong><a href="URL" target="_blank" style="color: #00bfff; text-decoration: none;"><font color="#00bfff">[VER ESCENA: Descripción]</font></a></strong>
+</p>
 ```
 
-### 4. Componentes Especiales
+### 2. Votación Interactiva
 
-#### Caja de Inicio (Status)
+No intentar incrustar el widget de votación. Usar links textuales claros y destacados con el color Rosa (`#ff1493`).
 
-Ver `template_embed.html`. Fondo rosa transparente, borde sólido.
-
-#### Penalidades
+- **Formato:**
 
 ```html
-<div style="background: rgba(255, 0, 0, 0.2); border-left: 4px solid #ff0000; padding: 1rem; margin: 1rem 0; font-family: monospace;">
-    <strong>⚠️ PENALIDAD:</strong> Texto...
-</div>
+<p style="font-size: 1.2rem; font-weight: bold; margin: 2rem 0;">
+    🔗 <strong><a href="URL_STRAWPOLL" target="_blank" style="color: #ff1493; text-decoration: underline;"><font color="#ff1493">VOTA AQUÍ (Link Externo)</font></a></strong>
+</p>
 ```
 
-#### Sección de Votación
+### 3. Soporte Híbrido (CSS + Font)
 
-El bloque de votación final debe usar el diseño de "Tarjetas" para las opciones A y B, con fondo semitransparente. Ver plantilla.
+Seguir usando etiquetas `<font color="...">` envolviendo el texto dentro de los tags con `style="color:..."` para asegurar que el color sobreviva a la limpieza de TodoRelatos.
 
 ---
-*Documento actualizado post-Capítulo 4*
+*Actualizado el 6 de Enero 2026: Restricción absoluta de tags <img> para TodoRelatos.*

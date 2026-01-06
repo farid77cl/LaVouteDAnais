@@ -16,7 +16,7 @@
 | **Ubicación** | `05_Interactivo/the_dollhouse/` |
 | **Fase del Ritual** | Fase 4 - Post-Publicación |
 | **Capítulo en Progreso** | Capítulo 5 (Cintura de Avispa aplicada) |
-| **Última Decisión** | HTML Estandarizado con `template_embed.html` |
+| **Última Decisión** | HTML Estandarizado (v1.2 Resiliente / Solo Links) |
 
 ### Proyectos Secundarios/Pausados
 

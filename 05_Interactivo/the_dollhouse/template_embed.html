@@ -1,8 +1,8 @@
 <!-- 
-PLANTILLA MAESTRA "THE DOLLHOUSE" - ESTILO EMBED
-Versión: 1.0 (Enero 2026)
+PLANTILLA MAESTRA "THE DOLLHOUSE" - ESTILO EMBED (LINK-ONLY)
+Versión: 1.2 (Enero 2026) - Ultra-resiliente para TodoRelatos
 Uso: Copiar y pegar en editor de texto. Rellenar los placeholders {{...}}.
-Reglas: NO agregar <html>, <head> ni <body>. Solo este div contenedor.
+Reglas: NO USAR <img>. TodoRelatos elimina imágenes externas. Usar links de texto.
 -->
 
 <div
@@ -10,41 +10,51 @@ Reglas: NO agregar <html>, <head> ni <body>. Solo este div contenedor.
 
     <!-- CABECERA DEL EPISODIO -->
     <div style="text-align: center; padding: 3rem 0; border-bottom: 2px solid #ff1493; margin-bottom: 2rem;">
-        <h1 style="font-size: 2.5rem; color: #ff1493; text-shadow: 0 0 20px #ff1493; margin-bottom: 0.5rem;">THE
-            DOLLHOUSE</h1>
-        <h2 style="font-size: 1.8rem; color: #ffd700; margin: 0;">Episodio {{NUMERO}}: {{TITULO_DEL_EPISODIO}}</h2>
+        <h1 style="font-size: 2.5rem; color: #ff1493; text-shadow: 0 0 20px #ff1493; margin-bottom: 0.5rem;">
+            <font color="#ff1493">THE DOLLHOUSE</font>
+        </h1>
+        <h2 style="font-size: 1.8rem; color: #ffd700; margin: 0;">
+            <font color="#ffd700">Episodio {{NUMERO}}: {{TITULO_DEL_EPISODIO}}</font>
+        </h2>
     </div>
 
     <!-- CAJA DE ESTADO -->
     <div
         style="background: rgba(255, 20, 147, 0.1); border: 1px solid #ff1493; border-radius: 10px; padding: 1.5rem; margin-bottom: 2rem; font-size: 0.9rem;">
-        <p><strong style="color: #ff69b4;">Host:</strong> Miss Doll 💋</p>
-        <p><strong style="color: #ff69b4;">Ubicación:</strong> Set Principal - "The Dollhouse"</p>
-        <p><strong style="color: #ff69b4;">Estado del Rating:</strong> 📈 {{ESTADO_RATING}}</p>
-        <p><strong style="color: #ff69b4;">Castigo en Progreso:</strong> {{CASTIGO_ACTUAL}}</p>
+        <p><strong style="color: #ff69b4;">
+                <font color="#ff69b4">Host:</font>
+            </strong> Miss Doll 💋</p>
+        <p><strong style="color: #ff69b4;">
+                <font color="#ff69b4">Ubicación:</font>
+            </strong> Set Principal - "The Dollhouse"</p>
+        <p><strong style="color: #ff69b4;">
+                <font color="#ff69b4">Estado del Rating:</font>
+            </strong> 📈 {{ESTADO_RATING}}</p>
+        <p><strong style="color: #ff69b4;">
+                <font color="#ff69b4">Castigo en Progreso:</font>
+            </strong> {{CASTIGO_ACTUAL}}</p>
     </div>
 
     <!-- CONTENIDO NARRATIVO -->
-    <!-- Usar <p> para párrafos normales. No agregar márgenes extra manualmente, el estilo base se encarga (o usar margin-bottom: 1.5rem si es necesario espaciar más). -->
 
     <p>El aire en el estudio es denso...</p>
 
     <!-- EJEMPLO DE DIÁLOGO MISS DOLL -->
-    <p style="color: #ff69b4; font-style: italic;">—{{DIALOGO_MISS_DOLL}} 📺✨</p>
+    <p style="color: #ff69b4; font-style: italic;">—<font color="#ff69b4">{{DIALOGO_MISS_DOLL}}</font> 📺✨</p>
 
-    <!-- EJEMPLO DE IMAGEN (LINK) -->
-    <div style="text-align: center; margin: 2rem 0;">
-        <a href="{{URL_IMAGEN}}" target="_blank">
-            <img src="{{URL_IMAGEN}}" alt="Descripción"
-                style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 15px #ff1493; border: 2px solid #ff1493;">
-        </a>
-        <p style="font-size: 0.8rem; color: #888; margin-top: 0.5rem; font-style: italic;">{{PIE_DE_FOTO}}</p>
-    </div>
+    <!-- ESCENA VISUAL (ENLACE ESTRICTO) -->
+    <p style="text-align: center; margin: 2rem 0;">
+        🖼️ <strong><a href="{{URL_IMAGEN}}" target="_blank" style="color: #00bfff; text-decoration: none;">
+                <font color="#00bfff">[VER ESCENA: {{PIE_DE_FOTO}}]</font>
+            </a></strong>
+    </p>
+
+    <p>Más narrativa aquí...</p>
 
     <!-- EJEMPLO DE PENALIDAD -->
     <div
         style="background: rgba(255, 0, 0, 0.2); border-left: 4px solid #ff0000; padding: 1rem; margin: 1rem 0; font-family: monospace;">
-        <strong>⚠️ PENALIDAD:</strong> {{NOMBRE}} -5 IQ → Total acumulado: {{TOTAL}} IQ
+        <font color="#ff0000"><strong>⚠️ PENALIDAD:</strong></font> {{NOMBRE}} -5 IQ → Total acumulado: {{TOTAL}} IQ
     </div>
 
     <hr
@@ -53,28 +63,34 @@ Reglas: NO agregar <html>, <head> ni <body>. Solo este div contenedor.
     <!-- SECCIÓN DE VOTACIÓN FINAL -->
     <div
         style="background: rgba(255, 20, 147, 0.1); border: 2px solid #ff1493; padding: 2rem; border-radius: 15px; margin-top: 3rem; text-align: center;">
-        <h2 style="color: #ff1493; text-shadow: 0 0 15px #ff1493; margin-bottom: 1rem;">🗳️ TU VOTO DECIDE</h2>
+        <h2 style="color: #ff1493; text-shadow: 0 0 15px #ff1493; margin-bottom: 1rem;">
+            <font color="#ff1493">🗳️ TU VOTO DECIDE</font>
+        </h2>
         <p style="margin-bottom: 1.5rem;">{{PREGUNTA_VOTACION}}</p>
 
-        <div style="display: flex; justify-content: space-around; margin: 2rem 0; flex-wrap: wrap; gap: 1rem;">
-            <!-- OPCIÓN A -->
-            <div
-                style="flex: 1 1 300px; background: rgba(0,0,0,0.5); padding: 1rem; border-radius: 10px; border: 1px solid #00bfff;">
-                <h3 style="color: #00bfff; font-size: 1.2rem; margin-top: 0;">OPCIÓN A: {{TITULO_OPCION_A}}</h3>
-                <p style="font-size: 0.9rem;">{{DESCRIPCION_OPCION_A}}</p>
-            </div>
-            <!-- OPCIÓN B -->
-            <div
-                style="flex: 1 1 300px; background: rgba(0,0,0,0.5); padding: 1rem; border-radius: 10px; border: 1px solid #ff1493;">
-                <h3 style="color: #ff1493; font-size: 1.2rem; margin-top: 0;">OPCIÓN B: {{TITULO_OPCION_B}}</h3>
-                <p style="font-size: 0.9rem;">{{DESCRIPCION_OPCION_B}}</p>
-            </div>
+        <!-- OPCIÓN A -->
+        <div
+            style="background: rgba(0,0,0,0.5); padding: 1rem; border-radius: 10px; border: 1px solid #00bfff; margin-bottom: 1rem; text-align: left;">
+            <h3 style="color: #00bfff; font-size: 1.1rem; margin-top: 0;">
+                <font color="#00bfff">OPCIÓN A: {{TITULO_OPCION_A}}</font>
+            </h3>
+            <p style="font-size: 0.9rem;">{{DESCRIPCION_OPCION_A}}</p>
         </div>
 
-        <a href="{{LINK_STRAWPOLL}}" target="_blank"
-            style="display: inline-block; background: #ff1493; color: white; padding: 1rem 3rem; border-radius: 50px; font-weight: bold; font-size: 1.2rem; margin-top: 1rem; text-transform: uppercase; letter-spacing: 2px; box-shadow: 0 0 20px rgba(255, 20, 147, 0.6); text-decoration: none;">
-            🔗 VOTAR AHORA EN STRAWPOLL
-        </a>
+        <!-- OPCIÓN B -->
+        <div
+            style="background: rgba(0,0,0,0.5); padding: 1rem; border-radius: 10px; border: 1px solid #ff1493; margin-bottom: 1.5rem; text-align: left;">
+            <h3 style="color: #ff1493; font-size: 1.1rem; margin-top: 0;">
+                <font color="#ff1493">OPCIÓN B: {{TITULO_OPCION_B}}</font>
+            </h3>
+            <p style="font-size: 0.9rem;">{{DESCRIPCION_OPCION_B}}</p>
+        </div>
+
+        <p style="font-size: 1.2rem; font-weight: bold; margin: 2rem 0;">
+            🔗 <strong><a href="{{LINK_STRAWPOLL}}" target="_blank" style="color: #ff1493; text-decoration: underline;">
+                    <font color="#ff1493">VOTA AQUÍ (Link Externo)</font>
+                </a></strong>
+        </p>
 
         <p style="margin-top: 1.5rem; font-size: 0.8rem; opacity: 0.7;">El resultado se revelará en el próximo capítulo.
             La modificación es PERMANENTE.</p>
