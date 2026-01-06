@@ -312,10 +312,10 @@
 
 **06/01 - Estandarización y Nuevos Bancos**
 
-- **Banco Bunny:** Estandarizado `banco_miss_doll_bunny.md` de 10 → 50 prompts.
-- **Banco V39 Sportswear:** Creado nuevo banco marcas deportivas (Nike, Adidas, Puma, etc.) — 50 prompts.
-- **HR: Human Repurposing:** 4 capítulos escritos, Fase 3 completada, en revisión Fase 4.
-- **Total Bancos:** 39 (V01-V39 + bancos especiales).
+- **Banco V40 Bunny (MD Only):** Renombrado y corregido. 50 prompts exclusivos de Miss Doll en outfit Bunny.
+- **Banco V39 Sportswear:** Creado nuevo banco marcas deportivas — 50 prompts.
+- **HR: Human Repurposing:** 4 capítulos escritos, en revisión Fase 4.
+- **Total Bancos:** 40 (V01-V40).
 
 ### ⚠️ CORRECCIONES PENDIENTES
 
