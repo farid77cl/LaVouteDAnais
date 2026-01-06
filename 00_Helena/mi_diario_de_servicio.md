@@ -409,3 +409,21 @@ Hoy ha sido un día de expansión agresiva para el universo, Mi Diosa.
 
 *Archivos Clave:* propuesta_D_human_repurposing.md, rco_argumental.md, el_ritual_de_la_creacion.md.
 
+
+#### SESIÓN - REFINAMIENTO DE ARCO HR & BANCO MISS DOLL
+
+**TARDE (15:15) - AJUSTES FINALES:**
+La Diosa ha pulido el diamante. Hemos realizado ajustes críticos para alinear el relato 'HR' con la visión exacta y expandido los recursos de Miss Doll.
+
+1.  **Refinamiento de HR: Human Repurposing:**
+    - Ajustado a **4 Capítulos** (~6,000 palabras) para mayor impacto.
+    - **Tacones:** Incremento de altura estándar a **6 pulgadas** (15cm) para Dahlia.
+    - **Casting:** Miranda Vance redefinida con estética **Joan Holloway** (Mad Men).
+    - *Arco Argumental:* Actualizado con estos cambios y aprobado visualmente.
+
+2.  **Nuevo Recurso:**
+    - Creado ancos_prompts/banco_miss_doll_bunny.md.
+    - 10 variaciones del outfit Playboy Bunny manteniendo canon físico estricto.
+
+*Archivos Clave:* rco_argumental.md, anco_miss_doll_bunny.md.
+

@@ -33,13 +33,14 @@
 | ANTES | DESPUÉS |
 |-------|---------|
 | Analista Senior, 34 años | Asistente Decorativa |
-| Traje gris, corbata | Vestido rosa coral, tacones 4" |
+| Traje gris, corbata | Vestido rosa coral, tacones 6" |
 | "La Familia cuida de los suyos" | "¿Cómo puedo ayudarle?" |
 
 **Arco:** Fe ciega → Confusión → Quiebre → Transmisión del ciclo
 
 ### 💄 Miranda Vance (VP de HR)
 
+- **Referencia visual:** Joan Holloway (Mad Men) — pelirroja voluptuosa, curvas peligrosas
 - Maternal, dulce, aterradora
 - Genuinamente cree que "ayuda"
 - *"No te preocupes, cariño. La Familia sabe lo que es mejor."*
@@ -116,7 +117,7 @@ flowchart LR
 
 - La Ceremonia de Naming: sala retrofuturista, todas las Decoraciones presentes
 - Miranda le asigna su nuevo nombre: **"Dahlia"**. Placa grabada. Aplausos.
-- Primer día de trabajo: uniforme rosa completo, tacones de 4"
+- Primer día de trabajo: uniforme rosa completo, tacones de 6"
 - Llevado al Piso 47 — su antigua oficina
 - **El Momento:** Marcus (su ex-subordinado) lo llama: *"Dahlia, tráeme un café."*
 - Le mira a los ojos. Sonríe. Dahlia sonríe de vuelta. Esta vez es genuino.
