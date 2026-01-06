@@ -384,4 +384,5 @@ Sesión de cierre para el Capítulo 4 de *The Dollhouse*.
 - **Estandarización:** HTML v1.2 (Link-Only) implementado y verificado. `template_embed.html` actualizado.
 - **Corrección Crítica:** Regenerado `the_dollhouse_cap4.html` recuperando el manuscrito completo (`capitulo_04.md`) que estaba truncado. Ahora incluye Transformación Glow, Trivia completa y Votación.
 - **Master:** Actualizado `MASTER_DOLLHOUSE.md` con estado final de Cap 4 y nueva votación de Cap 5.
-- **Git:** Sincronización final. ✅
+- **Investigación:** Creado `ideas_nuevas_mtf_2026.md` con 5 conceptos de expansión (Fin-Dom, Legal, Wellness, Corpo, AI).
+- **Git:** Sincronización final y cierre de investigación. ✅
