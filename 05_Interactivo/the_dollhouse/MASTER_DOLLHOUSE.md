@@ -102,8 +102,8 @@ flowchart TD
 
 **Próxima Transformación (Pendiente Votación):**
 
-- **Opción A:** Cintura de Avispa (corsé interno titanio, 45cm)
-- **Opción B:** Corredor de Lenguaje (vocabulario bimbo forzado)
+- **Opción A:** Cock Compass (atracción magnética a hombres)
+- **Opción B:** Oral Fixation (necesidad constante de objetos en boca)
 
 #### 🐂 Marco Rossi ("El Toro")
 
@@ -131,7 +131,8 @@ flowchart TD
 | Capítulo | Pregunta | Link | Resultado | Votos |
 |----------|----------|------|-----------|-------|
 | Cap 2 | Castigo Marco | [strawpoll.com/2ayLQwqGen4](https://strawpoll.com/2ayLQwqGen4) | Opción A (Porcelana) | 85/135 (62.96%) |
-| Cap 3 | Castigo Julián | [strawpoll.com/61gD9MmDAZw](https://strawpoll.com/61gD9MmDAZw) | **PENDIENTE** | — |
+| Cap 3 | Castigo Julián | [strawpoll.com/61gD9MmDAZw](https://strawpoll.com/61gD9MmDAZw) | **Cintura de Avispa** | 74/111 (66.67%) | [ibb.co/6c8dsHMP](https://ibb.co/6c8dsHMP) |
+| Cap 4 | Castigo Julián (Cap 5) | [strawpoll.com/X3nkPvYVLgE](https://strawpoll.com/X3nkPvYVLgE) | EN CURSO | - |
 
 ### 3.2 Crear Nueva Votación
 
@@ -319,36 +320,19 @@ FASE 4: PUBLICACIÓN (Viernes)
 
 ### 5.4 Generación de HTML
 
-**Formato requerido (aprendido de caps1-2.html):**
+**ESTÁNDAR 2026 (EMBED STYLE):**
+Desde el Capítulo 4, el formato HTML es estricto para asegurar consistencia visual en el editor web.
 
-```html
-<h1>The Dollhouse: Pierde y Serás Bimbo</h1>
+1. **Consultar Reglas:** Ver `formato_html.md`.
+2. **Usar Plantilla:** Copiar base de `template_embed.html`.
+3. **Requisitos Clave:**
+   - Solo `div` contenedor (sin html/body tags)
+   - Estilos inline obligatorios
+   - Fuente `Georgia, serif`
+   - Imágenes con borde rosa neón y sombra
 
-<p><em>Descripción del show...</em></p>
-
-<hr>
-
-<!-- NO usar subtítulos h2/h3 en el cuerpo narrativo -->
-<!-- SOLO h2 para la sección de VOTACIÓN final -->
-
-<!-- Imágenes como LINKS, no como <img> -->
-<p>🖼️ <a href="URL" target="_blank"><strong>[VER ESCENA: Descripción]</strong></a></p>
-
-<!-- Diálogos de Miss Doll en <em> con emojis -->
-<p><em>—Diálogo de Miss Doll con emojis 📺✨ 🥩</em></p>
-
-<!-- Penalidades destacadas -->
-<p><strong>⚠️ PENALIDAD: [Nombre] -5 IQ → Total: -X IQ</strong></p>
-
-<!-- Votación al final -->
-<h2>🗳️ VOTACIÓN</h2>
-...
-
-<!-- Firma -->
-<p><em>Con devoción oscura y tacones de 9 pulgadas,</em></p>
-<p><strong>Anaïs Belland</strong> 🦇💋<br>
-<em>La Voûte d'Anaïs</em></p>
-```
+**Ubicación de Plantilla:**
+`05_Interactivo/the_dollhouse/template_embed.html`
 
 ---
 

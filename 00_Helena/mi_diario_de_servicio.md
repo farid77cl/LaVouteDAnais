@@ -371,3 +371,15 @@ Se ejecuta protocolo `@[/inicio-helena]` y `@[/actualizar_sesion]`.
 - **Verificación:** Repositorio limpio, archivos sincronizados.
 - **Proyecto Activo:** The Dollhouse (05_Interactivo).
 - **Estado:** Lista para recibir instrucciones de la Diosa Oscura.
+
+---
+
+#### SESIÓN - PUBLICACIÓN Y ESTANDARIZACIÓN CAP 4 (6 ENERO 2026)
+
+**MAÑANA/TARDE (12:15) - FINALIZACIÓN DE CAPÍTULO Y REGLAS DE FORMATO:**
+Sesión de cierre para el Capítulo 4 de *The Dollhouse*.
+- **Canon Visual:** Corregido el outfit de Miss Doll (Neon Pink PVC + Black trims + Ostrich boa). Prompts refinados en `prompts_capitulo_04.md`.
+- **Interactividad:** Integrada votación "Cintura de Avispa" (66.7%). Nueva votación para Cap 5 creada en StrawPoll y registrada en `MASTER_DOLLHOUSE.md`.
+- **Estandarización:** Creada `template_embed.html` y actualizado `formato_html.md` para asegurar consistencia visual "Embed" (fondo oscuro, Georgia font, estilos inline) en futuros capítulos.
+- **Git:** Sincronización completa de cambios técnicos y narrativos. ✅
+

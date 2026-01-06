@@ -27,17 +27,15 @@ Un número flota en la pantalla gigante, ardiendo en neón rosa contra el negro 
 
 Las luces explotan.
 
-El escenario se revela transformado. El rosa chicle del set anterior ha sido reemplazado por un degradado más oscuro: magenta profundo a negro, con vetas de plata líquida que serpentean por las paredes como venas de mercurio. El ambiente ha madurado. La crueldad también.
-
 Y en el centro del escenario, emergiendo de una plataforma elevada envuelta en humo seco, aparece **Miss Doll**.
 
-*Pero diferente.*
+*Pero más intensa.*
 
-Su catsuit de látex rosa ha sido reemplazado por algo más... *serio*. Un corsé de cuero estructurado en negro absoluto con ribetes de acero quirúrgico, tan apretado que su cintura parece imposible. Una falda lápiz de PVC líquido que refleja las luces como un espejo oscuro. Guantes de ópera en látex negro hasta los bíceps. Y sobre todo, una capa corta de plumas de cuervo sintético que ondea con cada movimiento, dándole un aire de verdugo victoriano mezclado con dominatrix de alta costura.
+Su catsuit ha sido reemplazado por un conjunto de **alta costura cruel**. Una falda lápiz de PVC **rosa neón** extremadamente ajustada que le impide dar pasos largos, forzándola a un contoneo hipnótico. Arriba, un corsé a juego con ribetes de charol negro que expone sus hombros pálidos, adornado con un boá de **plumas de avestruz negras** que flota alrededor de ella como una nube tóxica de tinta.
 
-Sus tacones son más altos que nunca: 20 centímetros de cristal negro con plataforma de cromo pulido.
+Sus tacones Pleaser son más altos que nunca: 20 centímetros de plataforma transparente con luces LED rosadas que parpadean con cada latido de su corazón artificial.
 
-—¿Me extrañaron? 📺✨ —Su voz vuelve a ser dulce, pero hay un filo nuevo—. El departamento de vestuario dice que el negro *adelgaza*. Y esta noche, queridos voyeurs, vamos a hablar mucho de... cintura.
+—¿Me extrañaron? 📺✨ —Su voz es dulce, tóxica, procesada—. El departamento de vestuario dice que el negro de mis plumas absorbe la esperanza. Y esta noche, queridos voyeurs, no habrá ninguna.
 
 Las cámaras giran hacia Julián.
 
@@ -57,13 +55,13 @@ La pantalla gigante cobra vida con gráficos explosivos de confeti digital y fue
 
 | Opción | Votos | Porcentaje |
 |--------|-------|------------|
-| **A) CINTURA DE AVISPA** ⏳ | 12,847 | **68.7%** |
-| B) Corredor de Lenguaje 🗣️ | 5,853 | 31.3% |
+| **A) CINTURA DE AVISPA** ⏳ | 12,466,666 | **66.7%** |
+| B) Corredor de Lenguaje 🗣️ | 6,233,334 | 33.3% |
 
 **GANADOR: CINTURA DE AVISPA**
 *"Costillas removidas. Corsé de titanio. 45 centímetros. PERMANENTE."*
 
-—¡APLAUSOS PARA NUESTRA AUDIENCIA SÁDICA! —grita Miss Doll, abriendo los brazos como si recibiera una ovación—. ¡Casi trece mil de ustedes quieren ver al Príncipe sin aire! ¡Quieren verlo jadear! ¡Quieren verlo SUPLICAR por oxígeno!
+—¡APLAUSOS PARA NUESTRA AUDIENCIA SÁDICA! —grita Miss Doll, abriendo los brazos como si recibiera una ovación—. ¡Más de **doce millones** de ustedes quieren ver al Príncipe sin aire! ¡Quieren verlo jadear! ¡Quieren verlo SUPLICAR por oxígeno!
 
 Julián se desploma contra su podio. *Ji ji ji.* Sus piernas ceden. *Ji ji ji.* No puede formar palabras coherentes porque cada intento de protesta sale como risa de niña tonta.
 
@@ -204,7 +202,7 @@ La pantalla se ilumina con la primera pregunta.
 **B) Overlining de labios con delineador más oscuro.**
 **C) Aplicación de highlighter en el arco de Cupido únicamente.**
 
-Julián frunce el ceño. Su cerebro, aunque reducido, sigue siendo de élite. *Análisis estructural. La respuesta más compleja. El contouring es una técnica de escultura facial que...* Presiona **A**.
+Julián frunce el ceño. Su cerebro, aunque reducido, sigue siendo de élite. *Contouring... contorno. Los bordes.* Su lógica masculina intenta diseccionar un proceso estético como si fuera arquitectura. *Una nariz tiene bordes. Una boca es... blanda. No se "construye" una boca, se pinta.* Sonríe con arrogancia. *Es obvio. Las mujeres siempre complican lo simple.* Presiona **A**.
 
 Marco mira la pantalla con ojos nublados. La palabra *labios* resuena en su mente hipersensible. Su propia boca se siente... vacía. Necesitada de algo. Sacude la cabeza. *Overlining. Las chicas de OnlyFans lo hacen. Labios más grandes. Falsos pero... bonitos.* Presiona **B**.
 
@@ -212,7 +210,7 @@ Marco mira la pantalla con ojos nublados. La palabra *labios* resuena en su ment
 
 Miss Doll revisa las respuestas con placer teatral.
 
-—Julián dice... **Contouring de nariz**. Oh, cariño. Eso es para la nariz, no para los labios. ¿No distingues una boca de una nariz? —Risas grabadas—. **INCORRECTO.**
+—Julián dice... **Contouring de nariz**. —Miss Doll suelta una risa seca, sin humor—. Típico, Príncipe. Crees que todo se arregla con estructura. Con lógica dura. —Se acerca a la cámara—. Escuchen esto, chicas. Él cree que puede "construir" belleza como si fuera un edificio. No, cariño. La belleza es ilusión. Es mentira. Pero, ¿qué vas a saber tú de ser un objeto de deseo? Solo has sido... un hombre. **INCORRECTO.**
 
 —Marco dice... **Overlining de labios**. —La pantalla explota en verde—. ¡Correcto! La técnica básica de cualquier bimbo que quiera parecer que tiene más de lo que tiene. ¡Felicidades, muñequita!
 
@@ -222,7 +220,7 @@ Un pulso de *Glow* atraviesa el cráneo de Julián. Él jadea (lo poco que puede
 
 *No puede recordar.*
 
-—**Menos 5 puntos de CI** —anuncia Miss Doll, observándolo con curiosidad científica—. Julián baja a 130. ¿Notas algo, Príncipe? ¿Algo que antes sabías y ahora... se te escapa?
+—**Menos 5 puntos de CI** —anuncia Miss Doll, su voz destilando veneno dulce—. Julián baja a 130. ¿Sientes eso, Príncipe? Se llama "vaciado". Tu gran cerebro se está convirtiendo en un ático vacío. Pronto no podrás ni contar tus propios millones. Solo serás... bonita. Y tonta.
 
 Julián parpadea. Sus ojos muestran confusión genuina. *Ji ji ji.*
 
@@ -242,9 +240,12 @@ Miss Doll se pasea entre los podios mientras los concursantes piensan. Se detien
 
 —¿Sabes qué es lo triste, Príncipe? Que *yo* sé la respuesta. Una stripper de club nocturno sabe más de negocios que un graduado de Harvard. —Le da una palmadita condescendiente en la mejilla.
 
-Julián analiza las opciones con dificultad. Su mente, antes un láser, ahora tartamudea. *PPM. Pay Per Meet. Es una transacción. En los negocios, el pago viene después del... no, espera... ¿qué estaba pensando?* Sacude la cabeza. *La discreción es clave. Bajo la mesa. Elegante. Profesional.* Presiona **A** con la poca dignidad que le queda.
+Julián intenta analizar las opciones, pero las palabras flotan. *Allowance... eso es... ¿dividendos?* Su mente financiera tropieza. *Bajo la mesa suena... ¿ilegal? ¿Evasión fiscal?* Se confunde. *¿O es protocolo de etiqueta? ¿Como la servilleta en el regazo?* La niebla rosa en su mente es espesa. *PPM... Por favor, por...* Sacude la cabeza, frustrado. *Lo cortés es la discreción. Sí. Eso debe ser.* Presiona **A**, sintiendo que adivina más que deduce.
 
-Marco siente un hormigueo en su piel de porcelana cuando Miss Doll le roza el hombro al pasar. La palabra *dinero* activa algo primitivo. *Cobra primero, idiota. Siempre cobra primero. Si te pagan después, te pueden joder.* Su mano, ahora suave y sin callos, presiona **B**.
+Marco siente un hormigueo... no, una *descarga* eléctrica en su piel de porcelana cuando Miss Doll le pasa una uña afilada por la nuca. Se estremece, arqueando la espalda, un gemido de placer/dolor escapando de sus labios.
+—*Mmm...* —Su piel grita por más contacto.
+La palabra *dinero* en la pantalla brilla a través de su neblina sensorial. *Cobra primero, idiota,* le grita su instinto de calle, aunque su cuerpo solo quiere que esa uña baje más. *Siempre cobra primero. Si te pagan después... te joden.*
+Su mano, temblando por la sobrecarga sensorial, presiona **B**.
 
 —¡TIEMPO!
 
@@ -272,7 +273,7 @@ Julián no responde. No puede. Algo en su cerebro está *mal*.
 **B) Tiempo privado con la stripper donde las reglas del piso principal no aplican.**
 **C) Acceso exclusivo al área reservada para celebridades.**
 
-Miss Doll se sienta en el borde del podio de Julián, cruzándose de piernas lentamente, haciendo que su falda de PVC cruja.
+Miss Doll se sienta en el borde del podio de Julián, cruzándose de piernas lentamente. El PVC rosa de su falda chirría y las plumas negras de su escote le hacen cosquillas en la nariz al concursante.
 
 —Última pregunta, mis amores. Veamos si el Príncipe puede recordar qué *es* un Champagne Room... —Le guiña un ojo a la cámara—. Aunque a este ritmo, pronto no recordará ni su propio nombre.
 
@@ -336,9 +337,9 @@ Las opciones aparecen en pantalla:
 >
 > **A) COCK COMPASS** 🍆🧭 — Implante que genera atracción involuntaria hacia la masculinidad. Mirada magnética hacia bultos. Salivación ante testosterona. Su cuerpo deseará lo que su mente rechaza.
 >
-> **B) THOUGHT LEASH** 🐕‍🦺 — Implante que interrumpe pensamientos complejos con fantasías de sumisión. Cada intento de usar su intelecto lo hará sentir... hambriento. De rodillas.
+> **B) ORAL FIXATION** 👄🍭 — Implante que genera una necesidad constante de tener algo en la boca. Ansiedad severa si sus labios están vacíos. Inconscientemente chupará bolígrafos, dedos u objetos de forma sugerente. Su boca nunca podrá "descansar".
 >
-> **[🔗 VOTAR AQUÍ](https://strawpoll.com/PENDIENTE)**
+> **[🔗 VOTAR AQUÍ](https://strawpoll.com/X3nkPvYVLgE)**
 >
 > *El resultado se ejecutará en vivo en el Capítulo 5.*
 > *La modificación es PERMANENTE.*
@@ -356,8 +357,6 @@ Levanta el control remoto rosa, su dedo flotando sobre el botón de fin de trans
 La música del programa explota. Los créditos comienzan a rodar.
 
 **[CORTE COMERCIAL]**
-
-*El show regresa en 7 días...*
 
 ---
 

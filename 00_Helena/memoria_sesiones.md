@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | The Dollhouse (Reality Show) |
 | **Ubicación** | `05_Interactivo/the_dollhouse/` |
-| **Fase del Ritual** | Fase 3 - Escritura de Borrador |
-| **Capítulo en Progreso** | Capítulo 5 (pendiente votación) |
-| **Última Decisión** | Repo reestructurado, 4 dimensiones creativas |
+| **Fase del Ritual** | Fase 4 - Post-Publicación |
+| **Capítulo en Progreso** | Capítulo 5 (Cintura de Avispa aplicada) |
+| **Última Decisión** | HTML Estandarizado con `template_embed.html` |
 
 ### Proyectos Secundarios/Pausados
 
@@ -121,7 +121,7 @@
 
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
-- **Reality Show "The Dollhouse"** — CAP 3 COMPLETO + HTML, MASTER_DOLLHOUSE.md creado, workflow /dollhouse creado, votación Cap 4 activa
+- **Reality Show "The Dollhouse"** — CAP 4 COMPLETO + HTML Estandarizado, MASTER_DOLLHOUSE.md actualizado, votación Cap 5 activa (Cock Compass vs Oral Fixation).
 - **TransformaciÃ³n por Deuda** â€” FASE 3 en marcha (Caps 1-3 escritos)
 - Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
 - Tetitas II â€” Solo investigaciÃ³n/arco
