@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | HR: Human Repurposing |
 | **Ubicación** | `04_Historias/en_progreso/hr_human_repurposing/` |
-| **Fase del Ritual** | Fase 3 - Escritura (Pendiente) |
-| **Capítulo en Progreso** | Capítulo 1 (La Marca) |
-| **Última Decisión** | Arco Visual Aprobado (Mad Men Retrofuturista) |
+| **Fase del Ritual** | Fase 4 - Revisión y Pulido |
+| **Capítulo en Progreso** | Todos (Borrador Completo) |
+| **Última Decisión** | Escritura de 4 Capítulos completada |
 
 ### Proyectos Secundarios/Pausados
 
