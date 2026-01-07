@@ -123,7 +123,7 @@ La instructora no era humana.
 
 Era un holograma de cuerpo sólido —tecnología NEXUM de última generación— proyectado desde algún lugar del techo. Tenía la forma de una mujer de los años 50, como sacada de un anuncio de electrodomésticos: cintura imposiblemente estrecha, caderas amplias, pecho prominente bajo un vestido de lunares. Su cabello era un casco rubio inmóvil. Su sonrisa era permanente, esculpida, carente de cualquier micro-expresión humana.
 
-—Postura —canturreó la instructora. Su voz era la de AURA, pero con una inflexión más aguda, más entusiasmada—. Pecho fuera. Hombros atrás. Mentón arriba. Vuestros cuellos son tallos de flores, caballeros. Mostradlos. Una flor que esconde su tallo es una flor que quiere morir.
+—Postura —canturreó la instructora. Su voz era la de AURA, pero con una inflexión más aguda, más entusiasmada—. Pecho fuera. Hombros atrás. Mentón arriba. Sus cuellos son tallos de flores, caballeros. Muéstrenlos. Una flor que esconde su tallo es una flor que quiere morir.
 
 Daniel intentó mantenerse rígido, desafiante. Intentó imaginar que estaba en una reunión de equipo, proyectando autoridad.
 
@@ -137,7 +137,7 @@ No dolía, pero molestaba. Era como un pellizco eléctrico, una mascota invisibl
 
 Al cabo de una hora, Daniel mantenía el mentón alto. Era más fácil obedecer que recibir el chispazo. Su cuello estaba rígido, su espalda recta, su pecho hacia adelante. En el espejo, parecía un maniquí esperando ser vestido.
 
-—Ejercicio dos: La Sonrisa de Servicio —anunció el holograma—. No sonreís con la boca. Sonreís con la intención. Vuestra única intención es agradar. Vuestra única función es ser agradables. Repetid conmigo: "¿En qué puedo servirle?"
+—Ejercicio dos: La Sonrisa de Servicio —anunció el holograma—. No sonríen con la boca. Sonríen con la intención. Su única intención es agradar. Su única función es ser agradables. Repitan conmigo: "¿En qué puedo servirle?"
 
 —¿En qué puedo servirle? —murmuraron veinte voces masculinas rotas.
 

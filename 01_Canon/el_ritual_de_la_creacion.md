@@ -4,6 +4,47 @@ Este documento es la filosofía de nuestro oficio. Es el manual que describe có
 
 ---
 
+## 🌎 REGLA OBLIGATORIA: ESPAÑOL LATINOAMERICANO CHILENO
+
+> [!CAUTION]
+> **TODOS los relatos deben escribirse en español latinoamericano chileno.**
+> Esta regla es innegociable y aplica a todo el contenido narrativo.
+
+### Pronombres y Conjugaciones
+
+| ❌ NO USAR (España) | ✅ USAR (Chile/Latam) |
+|--------------------|----------------------|
+| vosotros | ustedes |
+| vuestra/vuestro | su / de ustedes |
+| tenéis, podéis, queréis | tienen, pueden, quieren |
+| mostradlos, repetid, sentaos | muéstrenlos, repitan, siéntense |
+| sonreís, coméis, vivís | sonríen, comen, viven |
+| vale, tío, mola | ya, wea/cosa, bacán (o neutral) |
+
+### Locaciones Geográficas
+
+| ❌ NO USAR | ✅ USAR |
+|-----------|--------|
+| Nueva Jersey, Manhattan | Santiago, Providencia, Las Condes |
+| Madrid, Barcelona | Valparaíso, Viña del Mar, Concepción |
+| Europa genérica | Chile o Latinoamérica |
+
+### Vocabulario Regional
+
+| ❌ Evitar | ✅ Preferir |
+|----------|------------|
+| ordenador | computador |
+| móvil | celular |
+| coche | auto |
+| piso (departamento) | departamento |
+| jersey | sweater / chaleco |
+| gilipollas | weón / idiota |
+
+> [!TIP]
+> Si el relato requiere un setting internacional (ej: corporación estadounidense), usar español neutro latinoamericano pero NUNCA conjugaciones de vosotros.
+
+---
+
 ## FLUJO DE TRABAJO PARA CREAR UN RELATO
 
 ### FASE 1: Investigación Profesional (7 Sub-fases)
