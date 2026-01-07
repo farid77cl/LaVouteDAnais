@@ -50,7 +50,7 @@ Nadie recibía citaciones de Miranda Vance.
 
 Esta era una verdad no escrita en NEXUM Corp, tan fundamental como la gravedad o los impuestos. Miranda Vance era la Vicepresidenta de Capital Humano, un título que sonaba benigno pero que ocultaba un poder absoluto sobre la vida profesional —y personal— de los quince mil empleados de la torre.
 
-Tú no ibas a ver a Miranda. Miranda te enviaba cosas: un email de despido redactado con precisión quirúrgica, un bono de Navidad con una nota manuscrita en tinta rosa, una recomendación para un "retiro de bienestar" del que la gente volvía cambiada.
+Tú no ibas a ver a Miranda. Miranda te enviaba cosas: un email de despido redactado con precisión quirúrgica, un bono de Navidad con una nota manuscrita en tinta rosa, una recomendación para un "retiro de bienestar" del que la gente volvía cambiada. Daniel recordaba a Thomas Chen, de Legales. Había vuelto de un "retiro de bienestar" hace seis meses. Ahora se llamaba Tiffany. Sonreía todo el tiempo. Nadie mencionaba a Thomas. Nadie preguntaba.
 
 Si Miranda te llamaba personalmente, significaba una de dos cosas.
 
@@ -74,11 +74,17 @@ Un activo valioso.
 
 Un engranaje bien lubricado.
 
-Un hombre que nunca había cuestionado por qué firmaba documentos sin leerlos, por qué su apartamento corporativo no tenía cerraduras que él pudiera controlar, por qué la fragancia *Productividad #5* le hacía sentir tan... cómodo.
+Un hombre que nunca había cuestionado por qué firmaba documentos sin leerlos, por qué su apartamento corporativo no tenía cerraduras que él pudiera controlar, por qué la fragancia *Productividad #5* le hacía sentir tan... cómodo. Por qué a veces, en las noches, escuchaba pasos en el pasillo fuera de su puerta que se detenían exactamente frente a ella y luego continuaban, sin que nadie tocara nunca. Por qué su vecino del 47-B había desaparecido hace tres semanas y nadie había preguntado, ni siquiera él.
 
 Daniel terminó su café.
 
 Y fue a ver a Marcus Webb.
+
+Mientras caminaba por el pasillo, notó algo que no había notado antes. Los otros empleados —sus colegas de siete años— no lo miraban. O más bien, lo miraban y luego apartaban la vista rápidamente, como si verlo fuera contagioso. Sarah Chen cruzaba el pasillo con un café en la mano; cuando vio a Daniel, cambió de dirección abruptamente, fingiendo que había olvidado algo en su escritorio.
+
+Daniel sintió un frío en la nuca.
+
+*¿Ya lo saben?*, pensó. *¿Cómo pueden saberlo antes que yo?*
 
 ---
 
@@ -128,9 +134,11 @@ PIP. Performance Improvement Plan. Plan de Mejora de Rendimiento. Las tres letra
 
 —Es estándar —continuó Marcus, volviendo su atención a la holomesa, incapaz o no dispuesto a mantener el contacto visual—. Protocolo 7-B. Es un programa intensivo de desarrollo. La mayoría de la gente que pasa por él vuelve... mejor.
 
-*Vuelve cambiada*, pensó Daniel. Había visto a gente volver del Protocolo 7-B. No eran las mismas personas. Sonreían más. Hablaban diferente. Se movían diferente. Algunos habían cambiado de departamento. Otros habían cambiado de género.
+*Vuelve cambiada*, pensó Daniel. Había visto a gente volver del Protocolo 7-B. No eran las mismas personas. Sonreían más. Hablaban diferente. Se movían diferente. Algunos habían cambiado de departamento. Otros habían cambiado de género. Otros simplemente... ya no estaban. Sus escritorios eran ocupados al día siguiente por rostros nuevos, y nadie mencionaba a los anteriores ocupantes. Era como si hubieran sido borrados del sistema, del edificio, de la memoria colectiva.
 
 Nadie hablaba de ello.
+
+Preguntar era de mal gusto. Preguntar era *ineficiente*.
 
 —¿Qué... qué implica exactamente?
 

@@ -25,6 +25,10 @@ Llevaba allí tres días. O quizá cuatro. O quizá una semana.
 
 Sin ventanas al exterior, el tiempo se había fragmentado en una secuencia de ciclos artificiales. El ciclo circadiano era ahora una sugerencia lumínica dictada por AURA: las luces halógenas se atenuaban gradualmente de un blanco gélido a un ámbar cálido, simulando un atardecer que nunca llegaba, manteniéndolo en un estado de duermevela perpetuo. Las bandejas de comida aparecían en la ranura de la puerta sin sonido, sin aviso. Comida ligera. Ensaladas de colores pastel. Gelatinas de colágeno rosa. Batidos que sabían a fresa y a algo más... algo que hacía que sus pensamientos se movieran como a través de miel.
 
+A veces, Daniel despertaba con la sensación de que alguien había estado en su habitación mientras dormía. No había pruebas —las sábanas estaban igual de lisas, el aire olía igual— pero algo era diferente. Un objeto movido milimétricamente. Una prenda que no recordaba haber doblado. Una vez, despertar con las cejas perfectamente perfiladas sin saber quién las había tocado.
+
+Nadie entraba. Nadie salía. Pero cosas cambiaban.
+
 —Buenos días, Daniel.
 
 La voz de AURA emanó del aire mismo, sin una fuente puntual. Era la misma voz que la de su terminal de escritorio en el Piso 47, pero ahora carecía de la vacilación programada. Era una voz de madre, de enfermera, de carcelera amable.
@@ -109,7 +113,11 @@ Las paredes eran espejos. El techo era un espejo. El suelo, de un linóleo negro
 
 Había otros veinte hombres allí. Algunos lloraban en silencio, las lágrimas corriendo por mejillas que ya empezaban a mostrar ese brillo sintético. Otros miraban al vacío, los ojos vidriosos de quienes han dejado de procesar la realidad. Otros murmuraban para sí mismos, recitando datos, cifras, títulos de proyectos, como mantras desesperados para recordar quiénes habían sido.
 
-Todos llevaban el uniforme rosa y blanco. Todos llevaban las zapatillas de ballet.
+*Soy Daniel Park. Analista Senior. Código DP-4412. Máster en Estadística. Treinta y cuatro años. Soy Daniel Park...*
+
+Daniel se dio cuenta de que él también estaba murmurando.
+
+Todos llevaban el uniforme rosa y blanco. Todos llevaban las zapatillas de ballet. Todos tenían la misma expresión de animales en una trampa que no pueden ver pero que sienten cerrarse.
 
 La instructora no era humana.
 
@@ -143,7 +151,9 @@ Daniel sintió una lágrima de humillación correr por su mejilla. El holograma 
 
 Un dron descendió y le aplicó un spray seco en la cara. Olía a fijador de maquillaje.
 
-La clase continuó durante tres horas más.
+La clase continuó durante tres horas más. O quizá fueron seis. O diez minutos. El tiempo se movía de formas imposibles en el Pabellón. Los relojes —si es que había— no eran visibles. AURA nunca mencionaba la hora exacta. Solo decía "es hora de" seguido de la siguiente actividad programada. Era hora de la clase. Era hora de comer. Era hora de dormir. El "cuándo" ya no existía. Solo existía el "qué".
+
+Daniel empezaba a olvidar qué día era. Empezaba a olvidar si había tenido un gato. Empezaba a olvidar el nombre de su madre. Pero podía recitar los siete pasos de la Sonrisa de Servicio sin pensar.
 
 ---
 
