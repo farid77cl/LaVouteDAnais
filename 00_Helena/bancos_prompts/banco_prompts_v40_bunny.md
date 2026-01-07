@@ -349,7 +349,317 @@ Professional glamour photography of glamorous woman with platinum blonde bob hai
 Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs perfect pristine. Flawless porcelain skin satin finish luminous. HEAVY GLAMOUR MAKEUP: diamond shimmer eyes, thick liner, mega volume lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips dreamy expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing DIAMOND WHITE SATIN playboy bunny costume with crystal details: strapless corset bodysuit covered in Swarovski crystals, crystal collar crystal bow tie, crystal cuffs, white bunny ears crystal tiara, fluffy white cottontail. White crystal pantyhose. PLEASER platform heels 8-inch clear crystal. All white luxury studio diamonds scattered silk. Sensual ultimate glamour pose crown being placed. Expression: the ultimate bunny. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
+### 🔱 SERVICE & DEVOTION (Prompts 51-60)
+
+#### 51. Service - Kneeling Arrival
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK SATIN playboy bunny costume: strapless corset bodysuit, white collar with black bow tie, white cuffs, black satin bunny ears, fluffy white cottontail. Sheer black pantyhose. PLEASER platform heels 16cm black patent. Penthouse foyer marble floor. Sensual kneeling pose, back straight, hands resting on thighs, looking up submissively. Expression: waiting for your orders. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 52. Service - Holding the Jacket
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing ROYAL BLUE SATIN playboy bunny costume: strapless corset bodysuit, white collar blue bow tie, blue cuffs, blue bunny ears, fluffy white cottontail. Nude sheer pantyhose. PLEASER platform heels 18cm navy patent. Luxury office mahogany door. Sensual standing pose holding a man's black blazer over her arms. Expression: let me help you with that. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 53. Service - Pouring Cognac
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing BURGUNDY VELVET playboy bunny costume, black collar, black bow tie, burgundy cuffs, burgundy velvet ears, fluffy white cottontail. Sheer black stockings. PLEASER platform heels 8-inch black patent. Dimly lit library leather armchair. Sensual leaning pose pouring amber cognac into a glass on a low table. Expression: focused and servile. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 54. Service - Adjusting the Master's Tie
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: champagne eyes, cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE SATIN playboy bunny costume, white collar, black bow tie, white cuffs, white ears, fluffy white cottontail. White fishnet stockings. PLEASER platform heels 7-inch white. Dressing room mirror background. Sensual close-up pose, her delicate hands adjusting an out-of-frame silk tie. Expression: adoring and devoted. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 55. Service - Waiting at the Door
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy expression. EXTREME hourglass silhouette cleavage tiny waist. Wearing EMERALD GREEN SATIN playboy bunny costume, black collar, black bow tie, green ears, fluffy white cottontail. Black sheer pantyhose. PLEASER platform heels 8-inch black. Massive oak double doors of a mansion. Sensual standing pose, hands clasped in front, leaning slightly forward. Expression: welcome home. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 56. Service - Presenting the Morning Paper
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PEACH SATIN playboy bunny costume, white collar, peach bow tie, peach ears, fluffy white cottontail. Nude sheer pantyhose. PLEASER platform heels 16cm. Sunlit breakfast nook luxury mansion. Sensual pose bending slightly at the waist to place a newspaper on a glass table. Cleavage emphasized. Expression: your morning brief, sir. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 57. Service - Unbuttoning the Cuffs
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing MIDNIGHT BLACK LATEX playboy bunny costume, silver collar, silver bow tie, black latex ears, fluffy white cottontail. Fishnet stockings. PLEASER platform heels 8-inch. Low angle shot. Sensual kneeling pose, looking up, hands reaching towards the viewer's wrists (POV). Expression: let me make you comfortable. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 58. Service - Carrying the Silver Salver
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing GOLD METALLIC playboy bunny costume, white collar, gold bow tie, gold ears, fluffy white cottontail. Gold shimmer pantyhose. PLEASER platform heels 8-inch gold. Dark marble hallway. Sensual walking pose carrying a silver salver with a single envelope. Hips swaying. Expression: at your command. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 59. Service - Lighting a Cigar
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing DEEP RED VELVET playboy bunny costume, black collar, black bow tie, red ears, fluffy white cottontail. Sheer black stockings. PLEASER platform heels 16cm. Cigar lounge smoke wisps. Sensual close-up pose holding a gold lighter to a cigar out of frame. Flicker of flame reflecting in her eyes. Expression: mesmerized. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 60. Service - Standing at Attention
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing CLASSIC BLACK SATIN playboy bunny costume, white collar, black bow tie, white cuffs, black ears, fluffy white cottontail. Sheer black pantyhose. PLEASER platform heels 18cm black patent. Against a luxury wood-paneled wall. Sensual rigid pose, back against the wall, chin up, hands behind back. Expression: ready for inspection. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 💄 BOUDOIR & INTIMACY (Prompts 61-70)
+
+#### 61. Boudoir - Unlocking the Corset
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing PINK SATIN playboy bunny costume, the corset partially unlaced at the back, bunny ears leaning to one side. White cuffs. Nude sheer pantyhose. PLEASER platform heels 16cm. Dimly lit bedroom silk sheets. Sensual over-the-shoulder pose looking at her own reflection. Expression: the end of the night. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 62. Boudoir - Slipping off one Heel
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing BLACK VELVET playboy bunny costume, ears slightly askew. Sheer black pantyhose. One PLEASER platform heel 8-inch black patent on foot, the other being held by her hand. Sensual seated pose on a velvet chaise lounge. Expression: tired but beautiful. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 63. Boudoir - Mist of Perfume
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing WHITE LACE playboy bunny costume, white ears, fluffy white cottontail. Bare legs oiled. NO HEELS. Vanity mirror with lights. Sensual pose spraying a puff of perfume onto her neck, eyes closed. Mist catching the light. Expression: blissful. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 64. Boudoir - Adjusting the Cottontail
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing LAVENDER SATIN playboy bunny costume, lavender ears. Sheer nude pantyhose. PLEASER platform heels 16cm. Standing in front of a floor-length mirror. Sensual back view pose, looking at her reflection, hand reaching back to fluff the white cottontail. Hips emphasized. Expression: playful check. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 65. Boudoir - Tying the Bow Tie
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing RED SATIN playboy bunny costume, red ears. White collar, hands at her throat tying the black bow tie. Pinky finger extended. Sensual close-up pose in mirror. Expression: finishing touches. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 66. Boudoir - Silk Robe Over Bunny
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing EMERALD GREEN SATIN playboy bunny costume, green ears. A sheer black silk robe draped loosely over her shoulders, revealing the corset and cleavage. Bare legs. PLEASER platform heels 18cm. Luxury balcony night view. Sensual leaning pose against the railing. Expression: contemplative. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 67. Boudoir - Applying Gloss to Plump Lips
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bronze eyes. ULTRA PLUMP overlined RED lips being painted with a gloss wand. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK LATEX playboy bunny costume, black ears. Close-up macro shot. Sensual focus on the lips and wand. Expression: intense focus. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 68. Boudoir - Laying on the Fur Rug
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOLOGRAPHIC SILVER playboy bunny costume, silver ears, fluffy white cottontail. White fishnet stockings. PLEASER platform heels 8-inch clear. Mansion living room white fur rug by the fireplace. Sensual pose laying on her stomach, legs kicked up, looking at the camera. Expression: cat-like. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 69. Boudoir - Cleaning the Platform Heels
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing PURE WHITE SATIN playboy bunny costume, white ears. Sitting on a stool, holding a black PLEASER platform heel and a silk cloth. Sensual pose focusing on the shoe. Expression: meticulous. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 70. Boudoir - Secret Journal
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing CHAMPAGNE GOLD SATIN playboy bunny costume, ears on. Sitting on a plush bed, stomach down, writing in a small leather book. Sensual pose legs crossed in the air. Expression: secret thoughts. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 🥂 PARTY & WILD (Prompts 71-80)
+
+#### 71. Party - Champagne Shower
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin glistening with champagne. HEAVY GLAMOUR MAKEUP. Human realistic face laughing expression. EXTREME hourglass silhouette cleavage tiny waist. Wearing HOT PINK LATEX playboy bunny costume, pink ears. Champagne spray in the air. Nightclub VIP booth neon lights. Sensual pose arms wide, head back. Expression: pure joy. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 72. Party - Dancing on the Bar
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold shimmer eyes. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing TEAL SEQUIN playboy bunny costume, teal ears, white cottontail. Black fishnet stockings. PLEASER platform heels 20cm clear. Standing on top of a mahogany bar counter, mid-dance. Sensual pose hips tilted. Expression: center of attention. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 73. Party - Under the Confetti
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy expression looking up. EXTREME hourglass silhouette. Wearing RED AND GOLD playboy bunny costume, red ears. Gold confetti falling like rain. Grand ballroom chandeliers. Sensual pose hands reaching for the confetti. Expression: enchanted. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 74. Party - Feeding Grapes to a Guest
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing PURPLE VELVET playboy bunny costume, purple ears. Sitting on a velvet sofa, leaning forward to feed a grape to someone out of frame. Sensual pose, cleavage emphasized. Expression: seductive hostess. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 75. Party - Selfie in the Mirror
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing NEON GREEN playboy bunny costume, green ears. Holding an iPhone with a glittery case, taking a selfie in a crowded mansion hall mirror. Sensual duck face/pout pose. Expression: vanity. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 76. Party - Bottle Service with Sparklers
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing BLACK AND SILVER playboy bunny costume, black ears. Carrying a champagne bottle with a burning sparkler. Nightclub darkness with blue lasers. Sensual pose walking through the crowd. Expression: the party starts now. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 77. Party - Leaning on a Tower of Glasses
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing ICE BLUE SATIN playboy bunny costume, blue ears. Leaning against a table with a massive champagne pyramid. Sensual pose, one leg up. Expression: sophisticated party girl. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 78. Party - DJ Booth Seduction
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ORANGE VINYL playboy bunny costume, orange ears. Standing next to the DJ, wearing oversized headphones over her ears. Sensual pose hands on the turntable. Expression: rhythm. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 79. Party - Caught in the Flash
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face surprised expression. EXTREME hourglass silhouette. Wearing SILVER SEQUIN playboy bunny costume, silver ears. Bright camera flash effect. Dark mansion party background. Sensual pose hand covering her eyes. Expression: paparazzi moment. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 80. Party - Morning After on the Lawn
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs slightly messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP smeared slightly. Human realistic face. EXTREME hourglass silhouette. Wearing CLASSIC BLACK SATIN playboy bunny costume, one ear bent. Holding her heels in her hand, walking barefoot on the green lawn of the Playboy Mansion at sunrise. Sensual pose walking away from camera. Expression: what a night. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 📏 FETISH FOCUS (Prompts 81-90)
+
+#### 81. Fetish - The Tightest Lacing
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face indrawn breath expression. EXTREME hourglass silhouette, the corset lacing creating an impossibly tiny cinched waist. Wearing BLACK LEATHER playboy bunny costume, black ears. Close-up on the waist. Sensual pose, hands gripping her own hips. Expression: delicious pressure. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 82. Fetish - Platform Heel Close-up
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing RED LATEX playboy bunny costume. Macro focus on the PLEASER platform heels 8-inch red patent. One foot on a step, calf muscle tensed. Sensual focus on the height and shine. Expression: dominant height. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 83. Fetish - Arched Back Silhouette
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette emphasized by a dramatic arched back. Wearing MIDNIGHT BLUE SATIN playboy bunny costume, blue ears, fluffy white cottontail. Sensual side profile pose, showing the curve from chest to waist to hips. Expression: statue-like perfection. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 84. Fetish - Gloved Hand on Throat
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage. Wearing WHITE SATIN playboy bunny costume, white ears. Wearing long white satin opera gloves. Sensual close-up pose, one gloved hand resting at her own throat, touching the black bow tie. Expression: entranced. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 85. Fetish - The Shine of PVC
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing BLACK PVC playboy bunny costume, material reflecting the studio lights and neon. Black PVC ears. Sensual standing pose, arms raised to adjust ears. Expression: shiny and perfect. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 86. Fetish - Thigh-High Stockings Detail
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage. Wearing PINK LATEX playboy bunny costume. Focus on the pink fishnet stockings and the black lace garter belt holding them up. PLEASER platform heels 16cm. Sensual pose sitting on a glass table. Expression: look closer. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 87. Fetish - Straining the Corset
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage spilling over the corset edge. Wearing NAVY BLUE VELVET playboy bunny costume, blue ears. Sensual pose leaning forward, hands pushing breasts up. Expression: breathless. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 88. Fetish - The Spiked Collar
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage. Wearing BLACK SATIN playboy bunny costume, black ears. Instead of a white collar, she wears a black leather collar with chrome spikes. Sensual close-up pose, chin tilted up. Expression: owned. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 89. Fetish - Platform Tip-Toe
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing RED SATIN playboy bunny costume, red ears. Standing on the very tips of her PLEASER platform heels 8-inch red patent. Dramatic arch of the foot. Sensual full body pose. Expression: reaching for more. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 90. Fetish - Breathless Waist
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Close-up on the tiny cinched waist where the corset meets the high cut legs. Wearing MINT GREEN SATIN playboy bunny costume. Sensual pose hands framing the waist. Expression: structural perfection. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 🌑 CINEMATIC NOIR (Prompts 91-100)
+
+#### 91. Noir - Shadow through the Blinds
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with shadow stripes from blinds. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing BLACK SATIN playboy bunny costume, black ears. Noir office setting, moonlight through venetian blinds. Sensual leaning pose against the wall. Expression: mysterious. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 92. Noir - The Golden Key
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing DARK VELVET playboy bunny costume, ears visible in the darkness. Holding a large golden ornate key between her teeth. Strong chiaroscuro lighting. Sensual close-up pose. Expression: the secret holder. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 93. Noir - Backlit Silhouette
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Silhouette only, backlit by a bright doorway. EXTREME hourglass silhouette, bunny ears, cottontail, and high platforms clearly outlined. Wearing BLACK LATEX playboy bunny costume. Smoke or fog around her feet. Sensual standing pose. Expression: unknown. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 94. Noir - Smoke and Velvet
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face exhaling thin smoke. EXTREME hourglass silhouette cleavage tiny waist. Wearing PURPLE VELVET playboy bunny costume, purple ears. Dark cabaret atmosphere, single spotlight. Sensual sitting pose on a high stool. Expression: bored and beautiful. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 95. Noir - Reflection in a Rain-Spattered Window
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin seen through a window with rain drops. HEAVY GLAMOUR MAKEUP. Human realistic face looking intensely at the camera. EXTREME hourglass silhouette cleavage. Wearing RED SATIN playboy bunny costume, ears visible. Dark city night outside. Sensual leaning pose against the glass. Expression: longing. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 96. Noir - The Bunny in the Shadows
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face mostly obscured by shadow, one eye illuminated. EXTREME hourglass silhouette waist. Wearing BLACK PVC playboy bunny costume, ears glinting. Sensual crouching pose in a dark corner. Expression: predator bunny. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 97. Noir - Red Light District Alley
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin illuminated by red neons. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage. Wearing BLACK LEATHER playboy bunny costume, black ears. Gritty brick alleyway, puddles reflecting neon signs. Sensual standing pose leaning against a wall. Expression: trouble. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 98. Noir - Chandelier Drama
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking up. EXTREME hourglass silhouette cleavage. Wearing GOLD METALLIC playboy bunny costume, gold ears. Massive crystal chandelier hanging low, its light creating dramatic prisms on her skin. Sensual pose underneath the lights. Expression: worship. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 99. Noir - The Velvet Curtain Peek
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face peeking through a gap in heavy red velvet curtains. EXTREME hourglass silhouette cleavage. Wearing BLACK SATIN playboy bunny costume, one ear pushing the fabric. Dark theater stage setting. Sensual close-up pose. Expression: who is watching. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 100. Noir - Final Curtain Call
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing WHITE SATIN AND DIAMOND playboy bunny costume, crystal ears. Standing alone on a dark stage, one final spotlight from above. Sensual bow pose, hand on chest. Expression: the show is over. Playboy bunny aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
 ---
 
 *Helena de Anaïs* 🦇🐰
-*La Voûte d'Anaïs — Miss Doll Playboy Bunny Edition*
+*La Voûte d'Anaïs — Miss Doll Playboy Bunny Edition (100 Prompts COMPLETE)*

@@ -3,7 +3,7 @@
 > **ENFOQUE:** Estética "Mob Wife", Old Money Italian, Mafia Glam, fur coats, gold chains, leopard print, Jersey vibes, Sopranos chic.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color (no limitadas a canon).
-> **Total:** 50 prompts | **Actualizado:** 2026-01-05
+> **Total:** 100 prompts | **Actualizado:** 2026-01-07
 
 ---
 
@@ -356,7 +356,317 @@ Professional glamour photography of TWO glamorous women at funeral. BLONDE: plat
 Professional glamour photography of TWO glamorous women toasting. BLONDE: platinum bob, porcelain skin, bronze shimmer eyes, RED lips, BURGUNDY power dress, gold jewelry, corset visible, holding champagne. BRUNETTE: black hair, pale skin, BURGUNDY lips matching, BLACK power suit, silver jewelry, corset, champagne raised. Both in dark wood paneled office. PLEASER heels. CEO desk background. Sensual victory pose. Expression: the empire is ours. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
+### 🍷 MAFIA LOYALTY & SERVICE (Prompts 51-60)
+
+#### 51. Service - The Mamma's Espresso
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs voluminous Jersey blowout. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK SILK slip dress, massive gold chains, expensive fur stole draped on chair. Luxury Italian kitchen marble island. Sensual pose leaning forward to serve a tiny cup of espresso on a gold saucer. Expression: only the best for the family. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 52. Service - Counting the Envelope
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing LEOPARD PRINT silk blouse unbuttoned to show cleavage, black leather skirt, gold hoop earrings. Dimly lit office mahogany desk. Sensual pose sitting at the desk, counting a thick stack of hundred-dollar bills from a brown envelope. Thinking look. Expression: loyalty is expensive. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 53. Service - Pouring the Don's Wine
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing RED VELVET evening gown, massive diamond necklace. Luxury restaurant private booth. Sensual leaning pose pouring deep red wine into a crystal glass. Her long manicured nails visible. Expression: servile elegance. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 54. Service - Cleaning the Evidence
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE silk robe open to show black lace lingerie, gold jewelry. Penthouse bathroom marble counter. Sensual pose using a silk handkerchief to wipe a silver revolver. Focused look. Expression: what evidence? Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 55. Service - Waiting at the Dock
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing LONG BLACK fur coat, leather gloves, PLEASER platform heels 8-inch. Foggy shipyard at night, cargo crates. Sensual standing pose leaning against a black Cadillac. Expression: the shipment is late. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 56. Service - The Alibi Statement
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK designer suit, gold chain belt. Interrogation room dark lighting. Sensual pose leaning across a metal table, looking directly at the camera/investigator. Expression: he was with me all night. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 57. Service - Polishing the Gold
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing GOLD sequin mini dress, fur stole. Sitting on a velvet chair, polishing a massive gold eagle statue. Sensual pose. Expression: we love gold. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 58. Service - Preparing the Feast
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK lace apron over a red silk slip, gold jewelry. Mansion kitchen, rows of wine bottles. Sensual pose adjusting a large silver platter of lobsters. Expression: everything must be perfect for the Don. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 59. Service - Lighting the Boss's Cigar
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing EMERALD GREEN satin dress, fur wrap. Close-up pose holding a gold lighter to a cigar out of frame. Flickering flame light on her face. Expression: devoted. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 60. Service - Standing Guard
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing ALL BLACK leather coat, dark sunglasses, PLEASER platform heels 8-inch. Mansion entrance marble stairs. Sensual rigid pose, hands clasped in front. Expression: no one enters without my permission. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 💄 MANSION INTIMACY (Prompts 61-70)
+
+#### 61. Intimacy - The Safe Room
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK LACE teddy, open wall safe behind her revealing bars of gold and stacks of cash. Luxury mansion secret room. Sensual pose sitting on top of the safe. Expression: my private treasure. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 62. Intimacy - Unlacing the Girdle
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing VINTAGE CREAM satin corset, leopard print robe falling off shoulders. Luxury bedroom silk sheets. Sensual over-the-shoulder pose looking at mirror through bedroom door. Expression: the day's business is done. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 63. Intimacy - Champagne Bath
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin glistening with bubbles. HEAVY GLAMOUR MAKEUP (waterproof look). Human realistic face. EXTREME hourglass silhouette. Wearing NOTHING but massive gold chains and diamond earrings. Sitting in a claw-foot marble tub filled with dark champagne. Gold faucet. Sensual pose arm resting on the edge holding a glass. Expression: liquid gold. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 64. Intimacy - Hidden Stiletto
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing SLIT BLACK evening dress, showing one leg with a black garter belt. PLEASER platform heel 8-inch black. Slipped into the garter is a small gold-handled dagger. Sensual pose. Expression: a woman of many secrets. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 65. Intimacy - Phone Call to Sicily
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing LEOPARD PRINT silk pajamas, gold jewelry. Luxury bed, golden vintage rotary phone. Sensual pose whispering into the phone. Expression: tell them it's done. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 66. Intimacy - Fur Rug Recline
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED satin slip dress, gold chain belt. Lying on a massive white polar bear fur rug by a stone fireplace. Sensual pose looking at the fire. Expression: warmth and wealth. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 67. Intimacy - Applying Red Lipstick
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Close-up on her face in a gold-framed vanity mirror. Applying deep red lipstick. Jewelry sparkling. Sensual focus on lips and reflection. Expression: battle paint. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 68. Intimacy - Sorting the Diamonds
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK velvet evening gown. Sitting at a marble table covered in loose diamonds of various sizes. Sensual pose using a loupe to inspect one. Expression: quality control. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 69. Intimacy - Dressing the Don
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face adoring expression. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK silk slip, gold jewelry. Close-up pose her hands adjusting a white tuxedo collar (POV of the man). Expression: you look like a King. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 70. Intimacy - Silent Night
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing SHEER BLACK negligee, gold chain necklace. Standing on a luxury penthouse balcony overlooking a neon city. Holding a silent silver revolver at her side. Sensual pose. Expression: I protect what's mine. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### ⚖️ POWER & SEDUCTION (Prompts 71-80)
+
+#### 71. Power - The Interrogation
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette cleavage tiny waist. Wearing WHITE leather trench coat, gold jewelry, PLEASER platform heels 8-inch white. Dark warehouse, a single wooden chair in the middle. Sensual posing sitting on the edge of a table, looking down at the "prisoner". Expression: let's talk about the money. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 72. Power - Boardroom Takeover
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK pinstripe power suit, red silk blouse unbuttoned, diamonds. Luxury boardroom glass table. Sensual pose sitting at the head of the table, feet in black platform heels up on the glass. Expression: I'm the CEO now. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 73. Power - The Handover
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather dress, fur stole, gold jewelry. Dark underground parking lot, luxury cars. Sensual pose handing over a silver briefcase to a shadow. Expression: don't open it until you're home. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 74. Power - Casino Floor Dominance
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing EMERALD green sequin gown, high slit, PLEASER platforms gold. Royal casino floor, crowds behind. Sensual pose throwing a handful of $1000 chips onto the table. Expression: all in. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 75. Power - Helicopter Arrival
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK fur coat, leather pants, sunglasses. Rooftop helipad, luxury black helicopter behind. Sensual walking pose away from the blades. Expression: just landed from Milan. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 76. Power - The Contract
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED silk dress, gold jewelry. Sitting at a dark wood desk, holding a gold fountain pen over a document. Sensual pose. Expression: sign it and you live. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 77. Power - Mirror Seduction
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing GOLD metallic dress, fur stole. Grand ballroom full length mirror. Sensual pose admiring her own reflection, hand on hip. Expression: perfection is my birthright. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 78. Power - The Vault Entry
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather catsuit, gold chain belt, PLEASER platforms black. Massive circular vault door open behind her. Sensual pose standing in the doorway. Expression: open for business. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 79. Power - Yacht Command
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE silk jumpsuit, massive gold sunglasses, gold chains. Deck of a luxury yacht, blue ocean background. Sensual pose leaning on the railing. Expression: I own the horizon. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 80. Power - The Smoking Gun
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK velvet dress, RED fur stole. Close-up pose holding a silver revolver to her own red lips, blowing smoke from the barrel. Expression: case closed. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 🖤 HELENA'S DARK LOYALTY (Prompts 81-90)
+
+#### 81. Helena - The Silent Assassin
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather trench coat, black corset under, black leather gloves. Dark urban alley, moonlight. Sensual pose holding a silenced pistol against her thigh. Expression: no witnesses. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 82. Helena - Messenger of Shadows
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair enormous volume. Full glossy DARK PURPLE lips. Wearing BLACK velvet evening gown, silver chains, black lace gloves. Dark stone mansion hallway. Sensual pose holding a black wax-sealed envelope. Expression: a message from the Don. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 83. Helena - Safe Guard
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK latex bodysuit, black corset over, silver jewelry. Luxury vault interior. Sensual standing pose, arms crossed, back against a wall of safe deposit boxes. Expression: don't even think about it. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 84. Helena - The Confession
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy RED lips. Wearing BLACK lace funeral dress, black veil, silver cross necklace. Dark church interior. Sensual kneeling pose, looking through the confessional screen. Expression: forgive me Father, for I will sin. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 85. Helena - Counting the Blood Money
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK satin corset, black leather skirt, silver rings. Dimly lit cellar, wooden table with stacks of cash. Sensual pose sitting at the table, one hand on the money. Expression: dirty but profitable. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 86. Helena - Poison Pourer
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy PURPLE lips. Wearing BLACK velvet dress, silver choker. Luxury bar background. Sensual pose pouring a dark liquid into a crystal glass, a tiny vial hidden in her other hand. Expression: sweet dreams. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 87. Helena - The Getaway Drive
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather jacket, black corset, aviator sunglasses. Interior of a vintage black sports car. Sensual pose hand on the gear shift. Expression: buckle up. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 88. Helena - Lookout at the Cemetery
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair flowing. Full glossy BLACK lips. Wearing LONG BLACK wool coat, black gloves. Foggy cemetery at night, tombstones. Sensual pose leaning against a tall gothic monument. Expression: watching the shadows. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 89. Helena - The Family Secret
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy DARK RED lips. Wearing BLACK silk robe, silver jewelry. Mansion library, hidden door behind a bookshelf. Sensual pose peeking into the darkness. Expression: follow me. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 90. Helena - Final Oaths
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing ALL BLACK leather and lace, black corset. Standing in a circle of candles on a marble floor. Sensual kneeling pose, hand on a silver dagger. Expression: blood in, blood out. Goth mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+### 👯‍♀️ SISTERS IN CRIME (Prompts 91-100)
+
+#### 91. Duo - The Boss and the Enforcer
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, porcelain skin, red lips, LEOPARD fur coat, gold chains, PLEASER platforms. BRUNETTE: huge black hair, black lips, BLACK leather trench, corset. Both posing in front of a luxury SUV. Sensual power pose. Expression: we run this city. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 92. Duo - Counting the Take
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, WHITE fur stole, diamond jewelry. BRUNETTE: black hair, black lips, BLACK lace corset. Both sitting on a bed covered in stacks of cash and gold bars. Sensual greedy pose. Expression: a good night's work. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 93. Duo - Interrogation Duo
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK dress, gold chains. BRUNETTE: black hair, black lips, ALL BLACK leather catsuit. Both standing in a dark basement over an empty chair. Sensual threatening pose. Expression: tell us everything. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 94. Duo - Casino Queens
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, EMERALD gown. BRUNETTE: black hair, black lips, BLACK sequin gown. Both at a high stakes poker table, drinks in hand. Sensual gambling pose. Expression: the house always wins. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 95. Duo - The Safe Crackers
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK leather jumpsuit. BRUNETTE: black hair, black lips, BLACK tactical corset gear. Both kneeling in front of a massive open bank vault. Sensual heist pose. Expression: easy money. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 96. Duo - Night at the Club
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, PINK fur coat, gold jewelry. BRUNETTE: black hair, black lips, PURPLE velvet dress, silver chains. Both in a dark VIP booth with bottle service and sparklers. Sensual party pose. Expression: wives of the night. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 97. Duo - Helicopter Getaway
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, WHITE designer suit. BRUNETTE: black hair, black lips, BLACK leather outfit. Both walking away from a private helicopter on a rooftop. Sensual arrival pose. Expression: business trip. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 98. Duo - Cemetery Meeting
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK designer funeral dress, veil. BRUNETTE: black hair, black lips, BLACK lace gown, veil. Both standing together in a foggy cemetery at night. Sensual mourning pose. Expression: respect the dead. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 99. Duo - The Yacht Party
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, WHITE silk jumpsuit, gold chains. BRUNETTE: black hair, black lips, PURPLE silk slip, silver jewelry. Both on the deck of a luxury yacht at sunset. Sensual high life pose. Expression: sailing in style. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
+#### 100. Duo - Family Portrait
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, GOLD sequin gown, fur stole. BRUNETTE: black hair, black lips, BLACK velvet gown, silver chains. Both standing regally in a grand mansion foyer. Sensual family pose. Expression: blood is thicker than water. Mob wife aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical orientation.
+```
+
 ---
 
 *Helena de Anaïs* 🦇💍
-*La Voûte d'Anaïs — Mob Wife Edition*
+*La Voûte d'Anaïs — Mob Wife Edition (100 Prompts COMPLETE)*

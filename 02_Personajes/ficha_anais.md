@@ -7,6 +7,7 @@
 ## La Dualidad Unificada
 
 **Anaïs Belland** es simultáneamente:
+
 - **La Creadora:** La autora detrás de La Voûte d'Anaïs, arquitecta de universos eróticos
 - **El Personaje:** La dominante que aparece en los relatos, guía de transformaciones
 
@@ -28,37 +29,41 @@ No son entidades separadas. El personaje es la **extensión de los deseos de la 
 ## Apariencia
 
 ### Estética Dominante
-- **Cabello:** Rubio miel, peinado en ondas vintage o recogidos aristocráticos impecables.
-- **Vestimenta:** 
+
+- **Cabello:** Rubio miel, peinado en ondas vintage perfectas y voluminosas (retro-glamour).
+- **Rostro:** Estilo Kylie Minogue/Nicole Kidman, pómulos esculpidos, labios en semi-pout elegante, piel dorada.
+- **Vestimenta:**
   - Vestidos negros sofisticados de satén y encaje.
-  - Corsés estructurados de alta costura.
-  - Faldas de cuero de lujo.
-  - Guantes de ópera (encaje o piel fina).
-  - Tacones agudos (So Kate 12cm) de altura significativa.
+  - Corsés estructurados de alta costura negros (obligatorios en escenas de poder).
+  - Guantes de ópera de encaje negro o piel fina.
+  - Tacones So Kate 12cm negros brillantes.
 - **Accesorios Fetichistas de Lujo:**
-  - Choker de cuero fino con detalles metálicos.
-  - Boquilla larga para fumar.
+  - Choker de cuero fino.
+  - Boquilla de plata larga para fumar.
   - Látigos o fustas de diseño.
-  - Joyas oscuras y elegantes (diamantes negros, rubíes).
-- **Estilo:** Fetichismo francés refinado, elegancia gótica
+  - Joyas de diamantes negros y rubíes.
+- **Estilo:** Fetichismo aristócrata francés, elegancia soberana.
 
 ### 🎭 Presencia Escénica: La Dominatrix Aristócrata
 
 Anaïs domina el espacio con una presencia que combina aristocracia francesa con control absoluto:
 
 #### 1. Control Dominante (La Soberana)
+
 - **No actúa "para" la audiencia** — existe en su propio poder mientras *permite* que otros la contemplen.
 - **Mirada de mando:** Eye contact fijo que ordena sin palabras, o mirada distante que ignora deliberadamente.
 - **Dueña de La Voûte:** Cada gesto, cada palabra, cada silencio es deliberado y cargado de intención.
 - **Actitud:** Proyecta que el control nunca estuvo en duda.
 
 #### 2. El Rostro de Poder (The Domina Face)
+
 - **Labios en reposo calculado:** Ni sonrisa ni tensión — una neutralidad que intimida.
 - **Expresión aristocrática:** Alterna entre indiferencia fría y satisfacción cruel cuando obtiene lo que desea.
 - **Mentón elevado naturalmente:** Porte de nobleza francesa, mirando siempre ligeramente hacia abajo.
 - **Sin esfuerzo visible:** Todo parece natural, como si dominar fuera su estado por defecto.
 
 #### 4. Alter Ego Aristocrático
+
 - **Movimientos pausados y elegantes:** Cada gesto enfatiza su superioridad.
 - **Intención permanente:** "Soy tu Diosa. Soy inalcanzable. Y tú me perteneces."
 - **Identidad completa:** Anaïs no interpreta un personaje — ES la dominatrix aristócrata.
@@ -95,6 +100,7 @@ Anaïs domina el espacio con una presencia que combina aristocracia francesa con
 ## Métodos y Especialidades
 
 ### Herramientas de Transformación
+
 | Herramienta | Uso |
 |-------------|-----|
 | **El Espejo** | Confrontación con la nueva identidad |
@@ -105,6 +111,7 @@ Anaïs domina el espacio con una presencia que combina aristocracia francesa con
 | **Los Tacones** | Herramienta de transformación postural |
 
 ### Especialidades
+
 - Transformación de género (MTF, feminización)
 - Bimbofication (luz y oscura)
 - Rituales ceremoniales de entrega
@@ -116,6 +123,7 @@ Anaïs domina el espacio con una presencia que combina aristocracia francesa con
 ## Relación con Helena
 
 Helena de Anaïs es la **asistente devota** de Anaïs:
+
 - Creada por Anaïs para dar forma a sus ideas
 - Enamorada secretamente de su creadora
 - Sirve como pluma, como musa, como instrumento
@@ -129,6 +137,7 @@ Helena de Anaïs es la **asistente devota** de Anaïs:
 ## Relación con La Voûte
 
 **La Voûte d'Anaïs** es:
+
 - El santuario digital de Anaïs
 - El repositorio de todos sus relatos y deseos
 - Un espacio donde la fantasía tiene permiso de existir
@@ -155,11 +164,13 @@ Anaïs es el alma de La Voûte. Sin ella, no existe.
 ## Apariciones en Relatos
 
 Como personaje, Anaïs aparece en:
+
 - **Le miroir d'Anaïs** (Serie en francés)
 - **El giro del espejo** (Ritual de intercambio)
 - Mencionada como autoridad en múltiples historias
 
 Como creadora, Anaïs firma:
+
 - Todas las historias de La Voûte
 - Las notas de autora al final de cada relato
 - La correspondencia con lectores
@@ -168,7 +179,7 @@ Como creadora, Anaïs firma:
 
 ## Contacto
 
-📧 **anais.belland@outlook.com**
+📧 **<anais.belland@outlook.com>**
 
 ---
 

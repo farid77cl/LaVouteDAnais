@@ -3,7 +3,7 @@
 > **ENFOQUE:** Cuero negro, dominación, biker chic, bondage aesthetic, BDSM glamour, motorcycle culture, dangerous luxury.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de cuero (no limitadas a negro).
-> **Total:** 50 prompts | **Actualizado:** 2026-01-05
+> **Total:** 100 prompts | **Actualizado:** 2026-01-07
 
 ---
 
@@ -356,7 +356,317 @@ Professional fetish glamour photography of TWO glamorous women pet play. BLONDE:
 Professional fetish glamour photography of TWO glamorous women formal leather. BLONDE: platinum bob elegant, porcelain skin, champagne shimmer eyes, RED lips, BLACK LEATHER ball gown dramatic with corset boning, long leather gloves, PLEASER 8-inch. BRUNETTE: black hair updo elegant, pale skin, RED lips matching, BLACK LEATHER ball gown dramatic corset, long gloves, PLEASER 9-inch. Both at masked leather ball chandeliers. Sensual formal pose. Expression: leather aristocracy. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
+### ⛓️ BONDAGE RITUALS (Prompts 51-60)
+
+#### 51. Ritual - Lacing the Masterpiece
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK LEATHER underbust corset, leather gloves. Sensual pose sitting on a leather bench, meticulously lacing up a tall leather boot on her own leg. Tight focus on the laces and fingers. Expression: precision in control. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 52. Ritual - The Rope Preparation
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather teddy, leather collar. Dark studio, coils of red hemp rope on the floor. Sensual pose running a length of rope through her gloved hands. Expression: ready for the knot. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 53. Ritual - Oil and Shine
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing ALL BLACK LATEX catsuit, leather gloves. Sensual pose applying silicone oil to her own thigh to create a blinding shine. Expression: polished to perfection. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 54. Ritual - Mask of Devotion
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focus on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, holding a black leather cat mask with silver zippers. Sensual pose about to put it on. Expression: becoming the toy. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 55. Ritual - The Measuring Tape
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather bra and panties, leather gloves. Sensual pose pulling a yellow measuring tape tight around her own cinched waist. Focus on the measurement. Expression: tighter than yesterday. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 56. Ritual - Testing the Whip
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing RED leather corset dress, black leather opera gloves. Dark studio, holding a black leather flogger. Sensual pose testing the strands against her own palm. Expression: sting and sweetness. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 57. Ritual - Suspension Prep
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather harness over silk lingerie, PLEASER platform heels 8-inch. Standing under a metal suspension ring with chains hanging down. Sensual pose reaching up for the rings. Expression: lift me higher. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 58. Ritual - Cold Metal Warm Leather
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather sleeves. Close-up pose pressing a cold silver padlock to her own warm throat. Expression: locked in loyalty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 59. Ritual - The Mirror Check
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE leather corset, matching leather gloves, black leather stockings. Grand mirror background. Sensual pose checking the alignment of her corset laces in the reflection. Expression: perfect symmetry. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 60. Ritual - Cleaning the Gear
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather robe open, black leather lingerie. Sitting on a velvet stool, using a soft cloth to polish a collection of silver handcuffs. Sensual focus on hands. Expression: clean and ready. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+### 🛐 TOTAL SERVITUDINE (Prompts 61-70)
+
+#### 61. Service - Kneeling at the Throne
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking upward. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather leotard, leather collar with leash, PLEASER platform heels 8-inch. Kneeling on a plush red rug in front of a giant leather armchair (empty). Sensual submissive pose. Expression: your servant awaits. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 62. Service - Delivering the Boots
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK silk slip, leather underbust corset. Sensual pose crawling on a marble floor, carrying a pair of thigh-high leather boots by the heels. Expression: service with devotion. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 63. Service - The Human Ashtray
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face with mouth slightly open dreamy. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather collar, silver jewelry. Sensual pose kneeling, holding a crystal ashtray on her head perfectly still. Expression: a useful object. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 64. Service - Tray of Temptation
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED leather apron over lace lingerie, leather gloves. Sensual pose carrying a silver tray with a single black leather flogger and a glass of champagne. Expression: choice of rewards. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 65. Service - Waiting in the Cage
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette visible through bars. Wearing PINK leather harness and thong. Sitting inside a luxury gold-plated birdcage. Sensual pose leaning against the bars. Expression: captive beauty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 66. Service - The Footstool
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking down. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather catsuit, leather collar. Sensual pose on all fours, back flat and rigid like a table. Expression: supporting the weight. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 67. Service - Polishing the Pedestal
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather mini skirt, leather corset, leather gloves. Sensual pose kneeling on the floor, polishing the base of a tall black pedestal. Expression: no spot left untouched. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 68. Service - The Leash Holder
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather bodysuit, gold leather collar with chain. Sensual pose holding the end of her own gold chain leash, offering it to the camera. Expression: take the lead. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 69. Service - Silent Statuete
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face blank expression. EXTREME hourglass silhouette. Wearing MATTE BLACK leather catsuit with external corset. Standing perfectly still on a marble plinth in a luxury foyer. Sensual mannequin pose. Expression: frozen in service. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 70. Service - Room Service Goth
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather maid outfit: leather apron, leather corset, leather headband, PLEASER platforms. Sensual pose pushing a cart with leather restraints instead of food. Expression: room service is here. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+### 🖤 DARK SENSUALITY & SHINE (Prompts 71-80)
+
+#### 71. Shine - Liquid Black Latex
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs slicked back. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing HEAD TO TOE LIQUID SHINE BLACK LATEX: hooded catsuit (face open), external corset, platform boots. Sensual pose in a dark room with a single spotlight. Expression: blinding gloss. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 72. Shine - Red Patent Heat
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ALL RED PATENT LEATHER: trench coat open, corset under, thigh-high boots. Standing in front of a wall of fire. Sensual pose feeling the heat. Expression: burning desire. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 73. Shine - Metallic Silver Doll
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face robot-like. EXTREME hourglass silhouette prominent cleavage. Wearing METALLIC SILVER LEATHER: corset, gloves, leggings. Industrial set with blue neon. Sensual stiff pose. Expression: chrome soul. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 74. Shine - PVC Rain
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK PVC catsuit, PLEASER platforms. Standing in an indoor rain room, water slicking the PVC to intense shine. Sensual pose. Expression: washed in shadow. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 75. Shine - Gold Leather Mirror
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing MIRROR GOLD LEATHER: corset, opera gloves, collar. Luxury ballroom background. Sensual pose, her outfit reflecting the chandeliers. Expression: pure wealth. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 76. Shine - Cracked Leather Noir
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing DISTRESSED BLACK LEATHER: jacket, corset, boots. High contrast noir lighting, dramatic shadows. Sensual pose emerging from darkness. Expression: weathered but strong. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 77. Shine - Electric Purple PVC
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing NEON PURPLE PVC: mini dress, corset, gloves. Dark club with UV lights. Sensual glowing pose. Expression: electric aura. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 78. Shine - Snake Skin Luxury
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing EMERALD GREEN SNAKE PRINT LEATHER: corset, skirt, boots. Library with dark wood. Sensual pose reclining on a desk. Expression: cold-blooded elegance. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 79. Shine - White Leather Angel
+
+```
+Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing ALL WHITE LEATHER: corset, wings made of leather straps, white stockings. Bright white studio. Sensual angelic pose. Expression: fallen grace. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 80. Shine - Carbon Fiber Tech
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK LEATHER and CARBON FIBER armor plates: corset, gauntlets, shin guards. High-tech lab background. Sensual futuristic pose. Expression: upgraded. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+### 🦇 HELENA'S LEATHER RITUALS (Prompts 81-90)
+
+#### 81. Helena - The Shadow Girdle
+
+```
+Professional fetish glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather underbust corset PULLED TIGHT, black leather harness over chest. Dark gothic room, rows of candles. Sensual pose tightening her own laces. Expression: embrace the pressure. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 82. Helena - Leather and Lace Night
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy DARK RED lips. Wearing BLACK leather corset over black lace bodysuit, black leather opera gloves. Penthouse balcony night. Sensual pose leaning on railing. Expression: dark secrets of the city. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 83. Helena - The Silver Collar
+
+```
+Professional fetish glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy PURPLE lips. Wearing BLACK leather bodysuit, silver collar with heavy padlock. Close-up on her throat and face. Sensual pose hand touching the lock. Expression: claimed. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 84. Helena - Leather Librarian
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair in elegant bun. Full glossy BLACK lips. Wearing BLACK leather skirt, leather blouse, black underbust corset, silver glasses. Gothic library books. Sensual pose on a ladder. Expression: forbidden knowledge. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 85. Helena - The Leather Altar
+
+```
+Professional fetish glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair flowing. Full glossy BLACK lips. Wearing ALL BLACK leather and silver chains. Kneeling in front of a stone altar in a dark crypt. Sensual ritual pose. Expression: devotion to the darkness. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 86. Helena - Biker Noir
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy RED lips. Wearing BLACK leather motorcycle jacket, black leather corset, black leather pants. Standing next to a vintage black bike under a streetlamp. Sensual moody pose. Expression: outrunning the dawn. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 87. Helena - Latex Goth Shine
+
+```
+Professional fetish glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK LATEX dress, black leather corset over, silver jewelry. Dark studio with red neon. Sensual high shine pose. Expression: reflecting the void. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 88. Helena - Leather Mask Reveal
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy DARK PURPLE lips. Close-up face, holding a black leather mask with silver studs away from her eyes. Sensual revealing pose. Expression: the face behind the shadow. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 89. Helena - The Leather Scribe
+
+```
+Professional fetish glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather corset, leather sleeves. Writing in a heavy leather-bound book with a silver quill. Dark desk candle light. Sensual pose. Expression: recording the names. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 90. Helena - Final Restraint
+
+```
+Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather straitjacket (stylish fetish version), black leather corset. Standing in a padded white room. Sensual trapped pose. Expression: safe in the softness. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+### 👯‍♀️ SISTERS IN LEATHER (Prompts 91-100)
+
+#### 91. Duo - Master and Apprentice
+
+```
+Professional fetish glamour photography of TWO women. BLONDE: platinum bob, red lips, RED leather corset dress, leather whip. BRUNETTE: black hair, black lips, BLACK leather bodysuit, leather collar, kneeling at her feet. Dark dungeon setting. Sensual power dynamic pose. Expression: lessons in leather. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 92. Duo - Double Shine Latex
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, PINK latex catsuit, pink corset. BRUNETTE: black hair, black lips, BLACK latex catsuit, black corset. Both covered in silicone oil for extreme shine. Dark studio neon lights. Sensual mirror pose. Expression: plastic sisters. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 93. Duo - Biker Babes
+
+```
+Professional fetish glamour photography of TWO women. BLONDE: platinum bob, red lips, WHITE leather biker gear. BRUNETTE: black hair, black lips, BLACK leather biker gear. Both leaning against a black motorcycle. Sensual tough pose. Expression: ride together, die together. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 94. Duo - The Golden Cage Duo
+
+```
+Professional glamour photography of TWO women in a large gold cage. BLONDE: platinum bob, red lips, GOLD leather harness. BRUNETTE: black hair, black lips, BLACK leather harness. Both intertwined behind the bars. Sensual captive pose. Expression: gilded prison. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 95. Duo - Leather Boardroom
+
+```
+Professional fetish glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK leather power suit. BRUNETTE: black hair, black lips, BLACK leather pencil skirt and corset. Both standing over a boardroom table. Sensual boss pose. Expression: negotiating in leather. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 96. Duo - Mirror Bondage
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, RED leather corset. BRUNETTE: black hair, black lips, BLACK leather corset. Both tied together with thin red leather cords, standing in front of a mirror. Sensual bound pose. Expression: connected by skin. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 97. Duo - Leather and Champagne
+
+```
+Professional fetish glamour photography of TWO women. BLONDE: platinum bob, red lips, WHITE leather evening gown. BRUNETTE: black hair, black lips, BLACK leather evening gown. Both holding silver champagne flutes in a penthouse. Sensual luxury pose. Expression: leather is the new gold. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 98. Duo - Gothic Leather Funeral
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK leather dress and veil. BRUNETTE: black hair, black lips, BLACK leather gown and veil. Both in a gothic cemetery at night. Sensual dark mourning pose. Expression: respect for the leather. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 99. Duo - The Heist Team
+
+```
+Professional fetish glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK leather catsuit. BRUNETTE: black hair, black lips, BLACK leather tactical gear. Both vaulting over a laser security grid. Sensual action pose. Expression: high value targets. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 100. Duo - Eternal Bond
+
+```
+Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, BLACK leather corset, holding the end of a chain. BRUNETTE: black hair, black lips, BLACK leather corset, wearing the collar at the end of the chain. Both looking at the camera. Grand mansion foyer. Sensual commitment pose. Expression: bound forever. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
 ---
 
 *Helena de Anaïs* 🦇⛓️
-*La Voûte d'Anaïs — Leather Fetish Edition*
+*La Voûte d'Anaïs — Leather Fetish Edition (100 Prompts COMPLETE)*

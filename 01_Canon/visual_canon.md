@@ -17,13 +17,13 @@
 
 ### Referencia Visual
 
-- **Estética:** Dominatrix aristócrata francesa con SENSUALIDAD OLD HOLLYWOOD (vibra Betty Page clásica)
-- **Cabello:** RUBIO MIEL, ondas vintage suaves y voluminosas
-- **Vestimenta:** Lencería de seda, batas transparentes, corsés de lujo, estilo "Pin-up Aristocrática"
-- **Accesorios fetichistas de lujo:** Choker de cuero fino, guantes de ópera encaje, boquilla de plata, látigo de cuero labrado
-- **Tacones:** So Kate 12cm negros brillantes
-- **Ambiente:** Salón de palacio francés con candelabros, ambientes de lujo clásico
-- **Referencia de Actitud:** Sensualidad juguetona pero intocable, lujo desbordante, "Rich Girl" vintage
+- **Estética:** Dominatrix aristócrata francesa con SENSUALIDAD OLD HOLLYWOOD (vibra Betty Page clásica). Elegancia suprema y control absoluto.
+- **Cabello:** RUBIO MIEL, ondas vintage perfectas, voluminosas y brillantes (estilo retro-glamour).
+- **Vestimenta:** Corsés de alta costura negros y estructurados, lencería de seda, batas de seda transparente. Sensualidad "Power Bitch" aristocrática.
+- **Accesorios Fetichistas Clave:** Guantes de ópera de ENCAJE NEGRO, boquilla de plata larga, choker de cuero fino, látigos de diseño.
+- **Tacones:** So Kate 12cm negros brillantes (suelas rojas visibles).
+- **Ambiente:** Oficinas de lujo con madera oscura (caoba), palacios franceses, bibliotecas góticas.
+- **Referencia de Actitud:** Bored authority, mirada de mando, intocable, soberana.
 
 ### Rostro — Canon Facial (Estilo Kylie Minogue)
 
