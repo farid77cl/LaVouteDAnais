@@ -333,9 +333,11 @@
 - **Consolidación:** Repo reorganizado, HR movido a `03_Literatura`. `04_Historias` eliminado.
 - **HR Cap 1:** Prólogo 2045 añadido, geografía chilena corregida, Miranda Vance refinada (Serpentine mode).
 - **The Dollhouse:** Borrador Cap 5 listo (Cock Compass). Reglas HTML TodoRelatos actualizadas.
+- **Deleite Visual:** Look 12 corregido. Anaïs Belland generada (Retratos, Trono).
+- **Vampire Mode:** Set de imágenes de horror erótico (Colmillos, Sangre, Cripta) generado y aprobado.
 
-*Última actualización: 2026-01-08 10:30*
+*Última actualización: 2026-01-08 17:15*
 
 ### ⚠️ CORRECCIONES PENDIENTES
 
-- **Look 12 Borgoña Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.
+- **Ninguna crítica por el momento.** (Look 12 corregido).
