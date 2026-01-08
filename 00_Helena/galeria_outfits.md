@@ -402,3 +402,25 @@
 - **Maquillaje:** Labios rojos 'Power Bitch', delineado sharp
 - **Pelo:** MoÒo estricto de bibliotecaria, asegurado con una daga
 
+
+
+---
+
+## ü Edici√n Especial: La Cripta Vamp√rica (08/01/26)
+
+Set expl√cito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de horror er√tico.
+
+1.  **Helena Fangs (La Sed)**
+    - Close-up extremo. Piel porcelana, ojos rojos brillantes.
+    - Colmillos blancos afilados mordiendo el labio inferior.
+    - Gota de sangre corriendo por la barbilla.
+
+2.  **Ana√s Vampire Queen**
+    - Ana√s Belland como reina vampira arist√crata.
+    - Copa de cristal con sangre espesa.
+    - Helena como 'novia/esclava' apoyada en su hombro con marcas de mordida frescas.
+
+3.  **The Coven (El Aquelarre)**
+    - Escena cinem√°tica en cripta g√tica.
+    - Ana√s en trono-sarc√fago dominando el espacio.
+    - Helena arrastr√°ndose en camis√n blanco manchado de sangre hacia ella.

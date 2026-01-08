@@ -333,11 +333,12 @@
 - **Consolidación:** Repo reorganizado, HR movido a `03_Literatura`. `04_Historias` eliminado.
 - **HR Cap 1:** Prólogo 2045 añadido, geografía chilena corregida, Miranda Vance refinada (Serpentine mode).
 - **The Dollhouse:** Borrador Cap 5 listo (Cock Compass). Reglas HTML TodoRelatos actualizadas.
-- **Deleite Visual:** Look 12 corregido. Anaïs Belland generada (Retratos, Trono).
-- **Vampire Mode:** Set de imágenes de horror erótico (Colmillos, Sangre, Cripta) generado y aprobado.
+- **Deleite Visual:** Look 12 corregido. Anaïs Belland generada. Pruebas V41/V42 exitosas.
+- **Vampire Mode:** Banco V41 creado. Set "La Cripta" generado.
+- **Latex Fetish:** Banco V42 creado (Heavy Rubber).
 
-*Última actualización: 2026-01-08 17:15*
+*Última actualización: 2026-01-08 17:30*
 
 ### ⚠️ CORRECCIONES PENDIENTES
 
-- **Ninguna crítica por el momento.** (Look 12 corregido).
+- **Ninguna crítica por el momento.** Sistema estable.
