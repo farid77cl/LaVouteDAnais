@@ -8,9 +8,9 @@
 
 ### Historia
 
-NEXUM Corporation fue fundada en 2019 como una startup de análisis de datos. En menos de 20 años se convirtió en el megaconglomerado más influyente del hemisferio norte, absorbiendo sectores de tecnología, salud, transporte, entretenimiento y recursos humanos.
+NEXUM Corporation fue fundada en 2019 como una startup de análisis de datos. En menos de 20 años se convirtió en el megaconglomerado más influyente del hemisferio sur, absorbiendo sectores de tecnología, salud, transporte, entretenimiento y recursos humanos.
 
-En 2039, el gobierno de Estados Unidos firmó el **Acuerdo de Eficiencia Nacional**, que permitió a NEXUM administrar contratos laborales directamente, sin intermediación sindical ni protecciones federales. Los empleados de NEXUM dejaron de ser "trabajadores" y pasaron a ser clasificados como **"Activos Humanos"**.
+Tras la crisis climática de los años 30 que dejó inhabitable gran parte del hemisferio norte, Chile se convirtió en uno de los últimos bastiones habitables del planeta. En 2039, el gobierno de Chile firmó los **Acuerdos de Eficiencia Global**, que permitieron a NEXUM administrar contratos laborales directamente, sin intermediación sindical ni protecciones legales. Los empleados de NEXUM dejaron de ser "trabajadores" y pasaron a ser clasificados como **"Activos Humanos"**.
 
 ### El Modelo "Familia"
 
@@ -30,7 +30,7 @@ NEXUM no tiene "empleados". Tiene **"miembros de la Familia"**.
 
 ### Torre NEXUM (Sede Central)
 
-- **Ubicación:** Nueva Jersey, frente al río Hudson
+- **Ubicación:** Santiago de Chile, distrito financiero de Sanhattan
 - **Altura:** 97 pisos
 - **Estética:** Brutalismo retrofuturista. Hormigón pulido, cristal ahumado, curvas orgánicas donde debería haber esquinas.
 

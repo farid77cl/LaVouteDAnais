@@ -10,13 +10,35 @@
 
 ---
 
+## PRÓLOGO: EL MUNDO QUE CONSTRUIMOS
+
+*Año 2045.*
+
+Nadie recuerda exactamente cuándo cambiaron las reglas.
+
+Algunos dicen que fue en 2032, cuando el último gobierno soberano de Sudamérica firmó los Acuerdos de Eficiencia Global. Otros apuntan a 2038, cuando NEXUM Corp absorbió los ministerios de trabajo de diecisiete países en una sola maniobra fiscal que los libros de historia llamarían "La Gran Simplificación". Los más cínicos señalan que nunca hubo un momento específico: que el mundo simplemente se deslizó, década tras década, hacia un estado donde las corporaciones dejaron de ser empresas y se convirtieron en *ecosistemas*.
+
+La crisis climática de los años 30 había dejado inhabitable gran parte del hemisferio norte. Las migraciones masivas, las guerras del agua, el colapso de las cadenas de suministro... todo había creado un vacío que los estados-nación ya no podían llenar. Las mega-corporaciones ofrecieron algo que los gobiernos no podían: estabilidad. Empleo garantizado. Vivienda. Comida. Salud. Seguridad.
+
+A cambio, solo pedían una cosa: *lealtad absoluta*.
+
+Chile, con su geografía protegida entre la cordillera y el mar, se había convertido en uno de los últimos bastiones habitables del planeta. Santiago ya no era una ciudad: era un archipiélago de torres corporativas, cada una un mundo cerrado, cada una una *familia* que cuidaba de los suyos.
+
+NEXUM Corp era la más grande de todas.
+
+Y en NEXUM, la Familia nunca abandonaba a nadie.
+
+Solo los... *reubicaba*.
+
+---
+
 ## I. EL ANALISTA VALIOSO
 
 El café sabía a burnt hazelnut y a conformidad corporativa.
 
 Daniel Park ajustó el nudo de su corbata —seda gris, nudo Windsor perfecto, como dictaba el Manual de Presentación Profesional de NEXUM Corp— mientras observaba el atrio del edificio desde el piso 47. Era un ritual matutino: café en mano, mirada perdida en el vacío vertical, tres minutos de contemplación silenciosa antes de sumergirse en las hojas de cálculo.
 
-La Torre NEXUM se alzaba como un monolito de cristal y hormigón sobre el skyline de Nueva Jersey, noventa y siete pisos de eficiencia corporativa perforando una cúpula permanente de smog dorado. Desde aquí arriba, la ciudad parecía un circuito impreso visto a través de un microscopio: luces parpadeantes, movimientos predecibles, todo funcionando según un diseño que nadie recordaba haber aprobado.
+La Torre NEXUM se alzaba como un monolito de cristal y hormigón sobre el skyline de Santiago, noventa y siete pisos de eficiencia corporativa perforando una cúpula permanente de smog dorado que ocultaba la cordillera de los Andes. Desde aquí, el volcán Maipo era solo un rumor detrás de la bruma tóxica. Desde aquí arriba, la ciudad parecía un circuito impreso visto a través de un microscopio: luces parpadeantes, movimientos predecibles, todo funcionando según un diseño que nadie recordaba haber aprobado.
 
 Pero aquí arriba, en el Piso 47 —Departamento de Análisis de Datos, Sector Este—, el aire era diferente. Filtrado. Purificado. Aromatizado con *Productividad #5*, la fragancia oficial de NEXUM: notas de sándalo para la calma, ozono para el enfoque, y algo más, algo que Daniel nunca había podido identificar, algo que le hacía sentir que este era el único lugar donde debía estar.
 
@@ -92,17 +114,17 @@ Daniel sintió un frío en la nuca.
 
 La oficina de Marcus estaba al final del pasillo, en la esquina noroeste del Piso 47. Era una oficina que Daniel conocía bien: había pasado noches enteras allí cuando era el despacho del anterior director, preparando presentaciones, revisando informes, soñando con el día en que esas paredes de cristal fueran suyas.
 
-Pero el año pasado, cuando el Director Hendricks fue "reubicado" a las oficinas de Singapur —o eso decía el email— la oficina no fue para Daniel.
+Pero el año pasado, cuando el Director Hendricks fue "reubicado" a las oficinas de Antofagasta —o eso decía el email— la oficina no fue para Daniel.
 
 Fue para Marcus.
 
-Marcus Webb, 29 años, MBA de Wharton, sonrisa de comercial de dentífrico, y una habilidad casi sobrenatural para estar en el lugar correcto en el momento correcto.
+Marcus Webb, 29 años, MBA de la Universidad de Chile, sonrisa de comercial de dentífrico, y una habilidad casi sobrenatural para estar en el lugar correcto en el momento correcto.
 
 Marcus Webb, a quien Daniel había contratado. A quien Daniel había mentoreado. A quien Daniel había recomendado para cada promoción.
 
 Marcus Webb, quien ahora estaba sentado detrás del escritorio de cristal, deslizando datos en su holomesa con gestos rápidos y precisos, sin siquiera levantar la vista cuando Daniel tocó el marco de la puerta abierta.
 
-—Dan, pasa, pasa —dijo Marcus, sus ojos fijos en un gráfico que flotaba entre ellos—. Siéntate. ¿Quieres algo? ¿Agua? ¿Café? AURA puede traerte un matcha si prefieres. —No esperó respuesta—. No, mejor no. Vamos al grano. Tengo una llamada con Tokio en quince minutos.
+—Dan, pasa, pasa —dijo Marcus, sus ojos fijos en un gráfico que flotaba entre ellos—. Siéntate. ¿Quieres algo? ¿Agua? ¿Café? AURA puede traerte un matcha si prefieres. —No esperó respuesta—. No, mejor no. Vamos al grano. Tengo una llamada con São Paulo en quince minutos.
 
 Daniel se sentó en la silla de visitantes. Era una silla diseñada para ser cómoda pero no demasiado: querías que la reunión terminara, pero no te sentías maltratado. Psicología de diseño aplicada a los muebles.
 
@@ -146,7 +168,7 @@ Preguntar era de mal gusto. Preguntar era *ineficiente*.
 
 *La Familia*. La palabra sonó como una amenaza.
 
-—¿Algo más antes de mi llamada con Tokio?
+—¿Algo más antes de mi llamada con São Paulo?
 
 Daniel quiso gritar. Quiso exigir explicaciones. Quiso recordarle a Marcus quién le había enseñado todo lo que sabía.
 
