@@ -186,7 +186,7 @@ Y caminó hacia el despacho de Miranda Vance.
 
 El despacho de Miranda Vance no parecía una oficina.
 
-Parecía un *boudoir* de mediados del siglo XX trasplantado al año 2045 y bañado en un filtro de ensueño. La moqueta era espesa, de un color crema que se tragaba el sonido de sus zapatos italianos. Los muebles eran de teca y terciopelo, curvas orgánicas en lugar de las líneas rectas que dominaban el resto de la torre. Había lámparas de cristal en lugar de paneles LED. Había cuadros al óleo en las paredes: mujeres en vestidos de época, sosteniendo flores, mirando al espectador con expresiones que podían ser seducción o advertencia.
+Parecía un *boudoir* de mediados del siglo XX trasplantado al año 2045 y bañado en un filtro de ensueño. La alfombra era gruesa, de un color crema que se tragaba el sonido de sus zapatos italianos. Los muebles eran de madera noble y terciopelo, curvas orgánicas en lugar de las líneas rectas que dominaban el resto de la torre. Había lámparas de cristal en lugar de paneles LED. Había cuadros al óleo en las paredes: mujeres en vestidos de época, sosteniendo flores, mirando al espectador con expresiones que podían ser seducción o advertencia. El aire olía a gardenias y a algo más dulce, casi empalagoso, como fruta podrida cubierta de azúcar.
 
 Y detrás de un escritorio inmenso y perfectamente despejado —ni un papel, ni una pantalla, ni un solo objeto que distrajera— estaba Ella.
 
@@ -210,7 +210,7 @@ Señaló una butaca de terciopelo rosa —*rosa*, el color que Daniel no había 
 
 Ella levantó un dedo. Una uña lacada en rojo sangre, perfectamente ovalada, perfectamente manicurada. El gesto fue tan autoritario que Daniel cerró la boca automáticamente, como un perro entrenado.
 
-—Marcus es un chico muy literal —dijo Miranda, caminando alrededor del escritorio con pasos lentos, deliberados. Sus tacones —negros, de aguja, probablemente de quince centímetros— se hundían en la moqueta con un sonido suave, rítmico. *Thump. Thump. Thump*—. Le falta... tacto. Sutileza. El don de hacer que las cosas difíciles suenen como oportunidades.
+—Marcus es un chico muy literal —dijo Miranda, caminando alrededor del escritorio con pasos lentos, circulares, como una serpiente rodeándolo. Sus tacones —negros, de aguja, fácilmente quince centímetros— se hundían en la alfombra con un sonido suave, rítmico. *Thump. Thump. Thump*. Cada paso la acercaba un poco más. Daniel sintió su espacio vital encogerse.—. Le falta... tacto. Sutileza. El don de hacer que las cosas difíciles suenen como oportunidades. —Se detuvo justo detrás de él. Daniel podía sentir el calor de su cuerpo contra su espalda, el roce de su perfume envolviéndolo como una manta húmeda—. Pero yo no soy literal, Daniel. Yo soy... *contextual*.
 
 Se sentó en el borde de su escritorio, cruzando las piernas. El sonido de sus medias de nylon rozando entre sí fue el único ruido en la habitación. Daniel nunca había sido consciente de que las medias hicieran ruido. Ahora era lo único que podía oír.
 
@@ -296,7 +296,7 @@ Hizo una pausa.
 
 La puerta de la oficina se abrió con un siseo suave. Dos hombres de seguridad entraron. No llevaban armas.** No las necesitaban. Sus trajes eran impecables, sus sonrisas idénticas, sus ojos vacíos de cualquier cosa que pudiera llamarse empatía.
 
-—Llevad al señor Park al Pabellón de Decoración —ordenó Miranda, volviendo a su escritorio como si Daniel ya hubiera dejado de existir—. Piso 76. Célula de Bienestar 744. Y que le quiten ese traje gris horrible.
+—Lleven al señor Park al Pabellón de Decoración —ordenó Miranda, volviendo a su escritorio como si Daniel ya hubiera dejado de existir. Su voz era suave, casi cariñosa, como una madre despidiendo a su hijo al colegio—. Piso 76. Célula de Bienestar 744. Y que le quiten ese traje gris tan deprimente.
 
 Se sentó. Tomó uno de los caramelos rosa del cuenco de cristal.
 

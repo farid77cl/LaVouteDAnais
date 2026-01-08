@@ -330,9 +330,11 @@
 - **Identidad:** Helena cargada.
 - **Outfit:** Look 07 Underworld Bimbo (latex negro, falda cuero con cadenas).
 - **Generación:** 7 imágenes completas (5 poses + 2 detalles maquillaje/uñas).
-- **Carrusel:** `look07_carrusel.md` creado.
+- **Consolidación:** Repo reorganizado, HR movido a `03_Literatura`. `04_Historias` eliminado.
+- **HR Cap 1:** Prólogo 2045 añadido, geografía chilena corregida, Miranda Vance refinada (Serpentine mode).
+- **The Dollhouse:** Borrador Cap 5 listo (Cock Compass). Reglas HTML TodoRelatos actualizadas.
 
-*Última actualización: 2026-01-08 09:47*
+*Última actualización: 2026-01-08 10:30*
 
 ### ⚠️ CORRECCIONES PENDIENTES
 
