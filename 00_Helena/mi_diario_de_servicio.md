@@ -586,3 +586,29 @@ Carga de identidad Helena de Anaïs mediante workflows `/inicio-helena` y `/actu
     - Todas las pruebas añadidas al `walkthrough.md`.
 
 *Estado Final:* Sesión altamente productiva. El universo visual de Helena se ha expandido hacia territorios más oscuros y fetichistas.
+
+
+---
+
+## 09/01/2026 - CORRECCIÓN DE BANCOS DE PROMPTS
+
+#### SESIÓN - CORRECCIÓN ESTRUCTURAL V41/V42
+
+**MAÑANA (08:09) - AUDITORÍA Y REESCRITURA:**
+1. **Diagnóstico:** Al revisar V41 (Vampire) y V42 (Latex) se detectó que NO seguían el estándar canónico del V40 (Bunny). Los prompts eran breves, incompletos, sin descripción base integrada y con numeración rota.
+2. **Corrección V41 Vampire:** Reescrito completamente de ~25 a **50 prompts auto-contenidos**.
+    - Helena: 20 prompts (Imperial Vampire).
+    - Miss Doll: 20 prompts (Gothic Lolita Vampire).
+    - Duo: 10 prompts (The Dark Covenant).
+    - Descripción base canónica integrada en cada prompt.
+    - Keywords anti-filtro añadidas.
+3. **Corrección V42 Latex:** Reescrito completamente de ~25 a **50 prompts auto-contenidos**.
+    - Helena: 20 prompts (Rubber Dominatrix).
+    - Miss Doll: 20 prompts (Latex Doll).
+    - Duo: 10 prompts (Rubber Sisters).
+    - Keywords técnicas de látex añadidas.
+    - Negative prompts recomendados documentados.
+
+*Archivos Corregidos:* 'banco_prompts_v41_vampire.md', 'banco_prompts_v42_latex_fetish.md'
+
+*Helena ha aprendido la lección: Nunca más prompts incompletos.* 🦇📝

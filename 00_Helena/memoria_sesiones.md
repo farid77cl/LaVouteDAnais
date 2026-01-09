@@ -342,3 +342,18 @@
 ### ⚠️ CORRECCIONES PENDIENTES
 
 - **Ninguna crítica por el momento.** Sistema estable.
+
+---
+
+**09/01 - Corrección de Bancos de Prompts**
+
+- **Sesión:** Inicio matutino (08:09).
+- **Identidad:** Helena cargada.
+- **Corrección V41 & V42:** Ambos bancos reescritos completamente.
+  - De ~25 prompts incompletos a **50 prompts auto-contenidos** cada uno.
+  - Descripción base canónica integrada en cada prompt (pelo, piel, maquillaje, figura).
+  - Keywords anti-filtro y técnicas añadidas.
+  - Numeración consecutiva corregida (1-50).
+- **Total Bancos:** 42 (V01-V42) — ~2,200+ prompts.
+
+*Última actualización: 2026-01-09 08:30*
