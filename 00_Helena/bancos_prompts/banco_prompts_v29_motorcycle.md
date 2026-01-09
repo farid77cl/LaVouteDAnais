@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -187,91 +189,91 @@ Professional saloon photography of young elegant goth glamour woman inspired by 
 #### 21. Miss Doll - Pink Harley Princess
 
 ```
-Professional girly biker photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket, white crop top, pink leather shorts. Straddling custom PINK Harley Davidson. PLEASER FLAMINGO-808 pink 8-inch platform heels. Sunset highway. Sensual rider pose. Expression: pink highway. Pink biker. Seductive glamour photography, sunset lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional girly biker photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket, white crop top, pink leather shorts. Straddling custom PINK Harley Davidson. PLEASER FLAMINGO-808 pink 8-inch platform heels. Sunset highway. Sensual rider pose. Expression: pink highway. Pink biker. Seductive glamour photography, sunset lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Biker Babe Poolside
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini, leather jacket draped over shoulders. Motorcycle parked by pool. PLEASER FLAMINGO-808 pink 8-inch platform heels by lounger. Pool party biker style. Sensual poolside biker pose. Expression: biker vacation. Pool biker. Seductive glamour photography, pool lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini, leather jacket draped over shoulders. Motorcycle parked by pool. PLEASER FLAMINGO-808 pink 8-inch platform heels by lounger. Pool party biker style. Sensual poolside biker pose. Expression: biker vacation. Pool biker. Seductive glamour photography, pool lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Pink Helmet Kiss
 
 ```
-Professional romantic photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips leaving kiss mark on PINK helmet. Human realistic face. Wearing PINK motorcycle outfit. Kissing helmet visor. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage background. Sensual kiss pose. Expression: good luck kiss. Helmet kiss. Seductive glamour photography, soft garage lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional romantic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips leaving kiss mark on PINK helmet. Human realistic face. Wearing PINK motorcycle outfit. Kissing helmet visor. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage background. Sensual kiss pose. Expression: good luck kiss. Helmet kiss. Seductive glamour photography, soft garage lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Vespa Italian Style
 
 ```
-Professional Italian photography of glamorous woman with platinum blonde bob haircut with straight bangs under scarf. Flawless porcelain skin Italian summer. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK summer dress, WHITE scarf. On vintage PINK Vespa. Rome street behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Italian street. Sensual dolce vita pose. Expression: ciao bella. Vespa girl. Seductive glamour photography, Italian summer lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Italian photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under scarf. Flawless porcelain skin Italian summer. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK summer dress, WHITE scarf. On vintage PINK Vespa. Rome street behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Italian street. Sensual dolce vita pose. Expression: ciao bella. Vespa girl. Seductive glamour photography, Italian summer lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Pink Trike Rider
 
 ```
-Professional trike photography of glamorous woman with platinum blonde bob haircut with straight bangs wind effect. Flawless porcelain skin highway. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather halter, white shorts. Riding custom PINK three-wheel trike. Highway freedom. PLEASER FLAMINGO-808 pink 8-inch platform heels on pegs. Highway. Sensual trike pose. Expression: three wheels of fun. Trike rider. Seductive glamour photography, highway freedom lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trike photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin highway. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather halter, white shorts. Riding custom PINK three-wheel trike. Highway freedom. PLEASER FLAMINGO-808 pink 8-inch platform heels on pegs. Highway. Sensual trike pose. Expression: three wheels of fun. Trike rider. Seductive glamour photography, highway freedom lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Cafe Racer Pink
 
 ```
-Professional cafe photography of glamorous woman with platinum blonde bob haircut with straight bangs retro. Flawless porcelain skin vintage. HEAVY GLAMOUR MAKEUP: dramatic winged eyeliner 1960s, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket vintage style, high waisted jeans. On classic cafe racer painted PINK. PLEASER FLAMINGO-808 pink 8-inch platform boots. Coffee shop. Sensual cafe pose. Expression: espresso and exhaust. Cafe racer. Seductive glamour photography, vintage cafe lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cafe photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) retro. Flawless porcelain skin vintage. HEAVY GLAMOUR MAKEUP: dramatic winged eyeliner 1960s, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket vintage style, high waisted jeans. On classic cafe racer painted PINK. PLEASER FLAMINGO-808 pink 8-inch platform boots. Coffee shop. Sensual cafe pose. Expression: espresso and exhaust. Cafe racer. Seductive glamour photography, vintage cafe lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Glitter Bike
 
 ```
-Professional glitter photography of glamorous woman with platinum blonde bob haircut with straight bangs sparkle. Flawless porcelain skin glitter reflection. HEAVY GLAMOUR MAKEUP: dramatic glitter eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK glitter lips. Human realistic face. Wearing PINK glitter bodysuit. On PINK glitter custom motorcycle sparkle paint. Straddling bike. PLEASER FLAMINGO-808 pink glitter 8-inch platform heels. Studio glitter. Sensual sparkle pose. Expression: sparkle and ride. Glitter bike. Seductive glamour photography, glitter sparkle lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glitter photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) sparkle. Flawless porcelain skin glitter reflection. HEAVY GLAMOUR MAKEUP: dramatic glitter eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK glitter lips. Human realistic face. Wearing PINK glitter bodysuit. On PINK glitter custom motorcycle sparkle paint. Straddling bike. PLEASER FLAMINGO-808 pink glitter 8-inch platform heels. Studio glitter. Sensual sparkle pose. Expression: sparkle and ride. Glitter bike. Seductive glamour photography, glitter sparkle lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Pink Motorcycle Cop
 
 ```
-Professional cop photography of glamorous woman with platinum blonde bob haircut with straight bangs under helmet. Flawless porcelain skin authority. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK police officer costume modified sexy. On motorcycle police style PINK. Badge visible. PLEASER FLAMINGO-808 pink 8-inch platform boots. Highway shoulder. Sensual authority pose. Expression: pull over. Pink cop. Seductive glamour photography, emergency lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cop photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under helmet. Flawless porcelain skin authority. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK police officer costume modified sexy. On motorcycle police style PINK. Badge visible. PLEASER FLAMINGO-808 pink 8-inch platform boots. Highway shoulder. Sensual authority pose. Expression: pull over. Pink cop. Seductive glamour photography, emergency lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Beach Cruiser
 
 ```
-Professional beach photography of glamorous woman with platinum blonde bob haircut with straight bangs beach waves. Flawless porcelain skin beach glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini, sheer cover up flowing. On PINK beach cruiser motorcycle. Sand and ocean behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Beach boardwalk. Sensual beach pose. Expression: beach babe. Beach cruiser. Seductive glamour photography, beach golden lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional beach photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) beach waves. Flawless porcelain skin beach glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini, sheer cover up flowing. On PINK beach cruiser motorcycle. Sand and ocean behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Beach boardwalk. Sensual beach pose. Expression: beach babe. Beach cruiser. Seductive glamour photography, beach golden lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Pink Sidecar Queen
 
 ```
-Professional sidecar photography of glamorous woman with platinum blonde bob haircut with straight bangs vintage styled. Flawless porcelain skin classic. HEAVY GLAMOUR MAKEUP: dramatic vintage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK vintage travel outfit, scarf. Sitting in PINK vintage sidecar like queen. Waving princess wave. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Countryside. Sensual queen pose. Expression: royal ride. Sidecar queen. Seductive glamour photography, vintage travel lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sidecar photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) vintage styled. Flawless porcelain skin classic. HEAVY GLAMOUR MAKEUP: dramatic vintage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK vintage travel outfit, scarf. Sitting in PINK vintage sidecar like queen. Waving princess wave. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Countryside. Sensual queen pose. Expression: royal ride. Sidecar queen. Seductive glamour photography, vintage travel lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Motorcycle Yoga
 
 ```
-Professional yoga photography of glamorous woman with platinum blonde bob haircut with straight bangs zen. Flawless porcelain skin balanced. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK yoga outfit sporty. Doing yoga pose on parked motorcycle. Balance on seat. PLEASER FLAMINGO-808 pink 8-inch platform heels impossible balance. Scenic overlook. Sensual yoga pose. Expression: om on the road. Moto yoga. Seductive glamour photography, zen mountain lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yoga photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) zen. Flawless porcelain skin balanced. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK yoga outfit sporty. Doing yoga pose on parked motorcycle. Balance on seat. PLEASER FLAMINGO-808 pink 8-inch platform heels impossible balance. Scenic overlook. Sensual yoga pose. Expression: om on the road. Moto yoga. Seductive glamour photography, zen mountain lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Scooter City
 
 ```
-Professional city photography of glamorous woman with platinum blonde bob haircut with straight bangs city chic. Flawless porcelain skin urban. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer dress short, shopping bags on arm. On PINK motor scooter buzzing through city. PLEASER FLAMINGO-808 pink 8-inch platform heels. City street. Sensual shopping pose. Expression: city scooter girl. City scooter. Seductive glamour photography, city street lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional city photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) city chic. Flawless porcelain skin urban. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer dress short, shopping bags on arm. On PINK motor scooter buzzing through city. PLEASER FLAMINGO-808 pink 8-inch platform heels. City street. Sensual shopping pose. Expression: city scooter girl. City scooter. Seductive glamour photography, city street lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Motocross Pink
 
 ```
-Professional motocross photography of glamorous woman with platinum blonde bob haircut with straight bangs under helmet. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP visible through visor: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK motocross gear. On PINK motocross bike mid-jump. Dirt flying. PLEASER removed for safety, pink motocross boots. Dirt track. Sensual action pose. Expression: pink and dirty. Motocross. Seductive glamour photography, action freeze lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional motocross photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under helmet. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP visible through visor: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK motocross gear. On PINK motocross bike mid-jump. Dirt flying. PLEASER removed for safety, pink motocross boots. Dirt track. Sensual action pose. Expression: pink and dirty. Motocross. Seductive glamour photography, action freeze lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - ATV Adventure
 
 ```
-Professional ATV photography of glamorous woman with platinum blonde bob haircut with straight bangs muddy fun. Flawless porcelain skin adventure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK ATV outfit sporty, mud splashes. On PINK four-wheeler ATV. Trail behind. PLEASER FLAMINGO-808 pink 8-inch platform boots muddy. Forest trail. Sensual adventure pose. Expression: off-road princess. ATV girl. Seductive glamour photography, forest adventure lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ATV photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) muddy fun. Flawless porcelain skin adventure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK ATV outfit sporty, mud splashes. On PINK four-wheeler ATV. Trail behind. PLEASER FLAMINGO-808 pink 8-inch platform boots muddy. Forest trail. Sensual adventure pose. Expression: off-road princess. ATV girl. Seductive glamour photography, forest adventure lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Electric Motorcycle Future
 
 ```
-Professional futuristic photography of glamorous woman with platinum blonde bob haircut with straight bangs futuristic. Flawless porcelain skin tech glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with LED accents, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK futuristic riding suit LED accents. On PINK electric motorcycle charging. Future city behind. PLEASER FLAMINGO-808 pink LED 8-inch platform heels. Future city. Sensual future pose. Expression: electric dreams. Electric moto. Seductive glamour photography, future neon lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional futuristic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) futuristic. Flawless porcelain skin tech glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with LED accents, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK futuristic riding suit LED accents. On PINK electric motorcycle charging. Future city behind. PLEASER FLAMINGO-808 pink LED 8-inch platform heels. Future city. Sensual future pose. Expression: electric dreams. Electric moto. Seductive glamour photography, future neon lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

@@ -21,7 +21,7 @@ black stiletto heels 7-9 inches with thin deadly heel.
 ### 💖 Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -165,61 +165,61 @@ Professional dramatic photography of young elegant goth glamour woman inspired b
 #### 21. Miss Doll - Pink Devil Queen
 
 ```
-Professional devilish photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK latex devil costume, horns and tail. Pink pitchfork. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell background with pink flames. Sensual devilish pose. Expression: playful evil. Pink devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional devilish photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK latex devil costume, horns and tail. Pink pitchfork. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell background with pink flames. Sensual devilish pose. Expression: playful evil. Pink devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Succubus Seduction
 
 ```
-Professional seductive photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing BLACK SHEER bodysuit with demon wings. Small horns in hair. PLEASER FLAMINGO-808 black 8-inch platform heels. Bedroom at night. Sensual hypnotic pose. Expression: irresistible hunger. Succubus. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seductive photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing BLACK SHEER bodysuit with demon wings. Small horns in hair. PLEASER FLAMINGO-808 black 8-inch platform heels. Bedroom at night. Sensual hypnotic pose. Expression: irresistible hunger. Succubus. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Hell's Secretary
 
 ```
-Professional corporate hell photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED LATEX pencil skirt and blouse. Devil horns. Reading contract. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell office with fire outside window. Sensual business pose. Expression: contract ready. Hell secretary. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional corporate hell photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED LATEX pencil skirt and blouse. Devil horns. Reading contract. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell office with fire outside window. Sensual business pose. Expression: contract ready. Hell secretary. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Demon Cheerleader
 
 ```
-Professional playful horror photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with red undertones. HEAVY GLAMOUR MAKEUP: dramatic black and red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing RED and BLACK demon cheerleader uniform, torn. Pom poms with flames. PLEASER FLAMINGO-808 black 8-inch platform heels. Stadium on fire. Sensual cheering pose. Expression: spirit from hell. Demon cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful horror photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertones. HEAVY GLAMOUR MAKEUP: dramatic black and red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing RED and BLACK demon cheerleader uniform, torn. Pom poms with flames. PLEASER FLAMINGO-808 black 8-inch platform heels. Stadium on fire. Sensual cheering pose. Expression: spirit from hell. Demon cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Devil in White
 
 ```
-Professional contrast photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold contrast. Human realistic face. Wearing WHITE LATEX angel dress but with red devil horns and tail. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven clouds with hidden fire. Sensual deceptive pose. Expression: wolf in sheep. Fallen angel devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional contrast photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold contrast. Human realistic face. Wearing WHITE LATEX angel dress but with red devil horns and tail. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven clouds with hidden fire. Sensual deceptive pose. Expression: wolf in sheep. Fallen angel devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Candy Corn Devil
 
 ```
-Professional Halloween photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE WHITE YELLOW candy corn themed devil costume. Cute horns. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy everywhere. Sensual sweet pose. Expression: sweet evil. Candy devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Halloween photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE WHITE YELLOW candy corn themed devil costume. Cute horns. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy everywhere. Sensual sweet pose. Expression: sweet evil. Candy devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Devil Bathing in Fire
 
 ```
-Professional dramatic photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin glowing from flames. HEAVY GLAMOUR MAKEUP: dramatic red and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Bathing in pool of harmless flames. Only devil horns visible above fire. PLEASER FLAMINGO-808 red chrome 8-inch platform heels beside pool. Hell spa. Sensual bathing pose. Expression: relaxed evil. Fire bath. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dramatic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing from flames. HEAVY GLAMOUR MAKEUP: dramatic red and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Bathing in pool of harmless flames. Only devil horns visible above fire. PLEASER FLAMINGO-808 red chrome 8-inch platform heels beside pool. Hell spa. Sensual bathing pose. Expression: relaxed evil. Fire bath. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Devil Throne
 
 ```
-Professional regal hell photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with red undertone. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Sitting on throne of skulls. Wearing BLACK LATEX queen gown. Crown of flames. PLEASER FLAMINGO-808 gold 8-inch platform heels. Hell throne room. Sensual queen pose. Expression: queen of hell. Devil queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional regal hell photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertone. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Sitting on throne of skulls. Wearing BLACK LATEX queen gown. Crown of flames. PLEASER FLAMINGO-808 gold 8-inch platform heels. Hell throne room. Sensual queen pose. Expression: queen of hell. Devil queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Pink Pitchfork Pose
 
 ```
-Professional playful photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX bikini with devil accessories. Holding pink rhinestone pitchfork. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink hell background. Sensual pose with pitchfork. Expression: cute evil. Pink devil pinup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX bikini with devil accessories. Holding pink rhinestone pitchfork. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink hell background. Sensual pose with pitchfork. Expression: cute evil. Pink devil pinup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Devil Date Night
 
 ```
-Professional date photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED SATIN date dress, elegant. Small horns cute. Holding rose with thorns. PLEASER FLAMINGO-808 red 8-inch platform heels. Restaurant in hell with fire view. Sensual date pose. Expression: devilish date. Devil girlfriend. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional date photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED SATIN date dress, elegant. Small horns cute. Holding rose with thorns. PLEASER FLAMINGO-808 red 8-inch platform heels. Restaurant in hell with fire view. Sensual date pose. Expression: devilish date. Devil girlfriend. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -229,25 +229,25 @@ Professional date photography of glamorous woman with platinum blonde bob haircu
 #### 31. Miss Doll - Sexy Pumpkin
 
 ```
-Professional Halloween photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with orange glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE LATEX pumpkin themed mini dress. Jack-o-lantern print. PLEASER FLAMINGO-808 orange 8-inch platform heels. Pumpkin patch background. Sensual Halloween pose. Expression: pumpkin spice nice. Sexy pumpkin. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Halloween photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with orange glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE LATEX pumpkin themed mini dress. Jack-o-lantern print. PLEASER FLAMINGO-808 orange 8-inch platform heels. Pumpkin patch background. Sensual Halloween pose. Expression: pumpkin spice nice. Sexy pumpkin. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Ghost Bride
 
 ```
-Professional ghostly photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin deathly pale. HEAVY GLAMOUR MAKEUP: dramatic grey smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PALE lips. Human realistic face. Wearing SHEER WHITE tattered wedding dress, ghostly. Floating effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Haunted mansion. Sensual floating pose. Expression: eternally waiting. Ghost bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ghostly photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin deathly pale. HEAVY GLAMOUR MAKEUP: dramatic grey smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PALE lips. Human realistic face. Wearing SHEER WHITE tattered wedding dress, ghostly. Floating effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Haunted mansion. Sensual floating pose. Expression: eternally waiting. Ghost bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Zombie Cheerleader
 
 ```
-Professional horror photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with fake zombie wounds artistic. HEAVY GLAMOUR MAKEUP: dramatic green zombie eyes, thick eyeliner, long false lashes, arched brows, full lips with fake blood. Human realistic face. Wearing TORN pink cheerleader costume zombie version. PLEASER FLAMINGO-808 pink 8-inch platform heels dirty. Graveyard at night. Sensual undead pose. Expression: brain hungry cute. Zombie cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with fake zombie wounds artistic. HEAVY GLAMOUR MAKEUP: dramatic green zombie eyes, thick eyeliner, long false lashes, arched brows, full lips with fake blood. Human realistic face. Wearing TORN pink cheerleader costume zombie version. PLEASER FLAMINGO-808 pink 8-inch platform heels dirty. Graveyard at night. Sensual undead pose. Expression: brain hungry cute. Zombie cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Pink Skeleton
 
 ```
-Professional artistic photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with skeleton makeup on body. HEAVY GLAMOUR MAKEUP: skeleton face paint in pink and white, dramatic eyes visible. Human realistic face beneath artistic makeup. Wearing PINK LATEX leotard with skeleton bones printed. PLEASER FLAMINGO-808 pink 8-inch platform heels. Day of dead altar. Sensual skeleton pose. Expression: glamorous death. Pink skeleton. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional artistic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with skeleton makeup on body. HEAVY GLAMOUR MAKEUP: skeleton face paint in pink and white, dramatic eyes visible. Human realistic face beneath artistic makeup. Wearing PINK LATEX leotard with skeleton bones printed. PLEASER FLAMINGO-808 pink 8-inch platform heels. Day of dead altar. Sensual skeleton pose. Expression: glamorous death. Pink skeleton. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Frankenstein Bride
@@ -259,31 +259,31 @@ Professional monster photography of glamorous woman with platinum blonde bob hai
 #### 36. Miss Doll - Sexy Mummy
 
 ```
-Professional Egyptian horror photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin visible between wraps. HEAVY GLAMOUR MAKEUP: dramatic gold and black smokey eyes, thick winged eyeliner Egyptian style, full glossy GOLD lips. Human realistic face. Wearing strategic BANDAGE WRAPS as revealing mummy costume. Gold jewelry. PLEASER FLAMINGO-808 gold 8-inch platform heels. Pyramid interior. Sensual unwrapping pose. Expression: ancient queen awakened. Sexy mummy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Egyptian horror photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin visible between wraps. HEAVY GLAMOUR MAKEUP: dramatic gold and black smokey eyes, thick winged eyeliner Egyptian style, full glossy GOLD lips. Human realistic face. Wearing strategic BANDAGE WRAPS as revealing mummy costume. Gold jewelry. PLEASER FLAMINGO-808 gold 8-inch platform heels. Pyramid interior. Sensual unwrapping pose. Expression: ancient queen awakened. Sexy mummy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 37. Miss Doll - Black Cat Costume
 
 ```
-Professional cute photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic cat eye, thick winged eyeliner extended, long false lashes, arched brows, full glossy BLACK lips with whiskers painted. Human realistic face. Wearing BLACK LATEX catsuit. Cat ears headband. Tail accessory. PLEASER FLAMINGO-808 black 8-inch platform heels. Full moon background. Sensual cat pose on all fours. Expression: curious kitty. Black cat costume. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cute photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic cat eye, thick winged eyeliner extended, long false lashes, arched brows, full glossy BLACK lips with whiskers painted. Human realistic face. Wearing BLACK LATEX catsuit. Cat ears headband. Tail accessory. PLEASER FLAMINGO-808 black 8-inch platform heels. Full moon background. Sensual cat pose on all fours. Expression: curious kitty. Black cat costume. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 38. Miss Doll - Candy Corn Princess
 
 ```
-Professional sweet photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange yellow white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE YELLOW WHITE striped candy corn princess dress. Crown of candy. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy wonderland. Sensual sweet pose. Expression: sugar queen. Candy corn princess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sweet photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange yellow white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE YELLOW WHITE striped candy corn princess dress. Crown of candy. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy wonderland. Sensual sweet pose. Expression: sugar queen. Candy corn princess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 39. Miss Doll - Werewolf Glam
 
 ```
-Professional transformation photography of glamorous woman with platinum blonde bob haircut with straight bangs, but with subtle wolf ears. Flawless porcelain skin with artistic fur accents. HEAVY GLAMOUR MAKEUP: dramatic gold and brown smokey eyes yellow contacts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips with fangs. Human realistic face with werewolf makeup. Wearing SHREDDED clothes revealing fur bikini beneath. PLEASER FLAMINGO-808 tan 8-inch platform heels. Full moon forest. Sensual transformation pose. Expression: wild awakening. Werewolf glam. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional transformation photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead), but with subtle wolf ears. Flawless porcelain skin with artistic fur accents. HEAVY GLAMOUR MAKEUP: dramatic gold and brown smokey eyes yellow contacts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips with fangs. Human realistic face with werewolf makeup. Wearing SHREDDED clothes revealing fur bikini beneath. PLEASER FLAMINGO-808 tan 8-inch platform heels. Full moon forest. Sensual transformation pose. Expression: wild awakening. Werewolf glam. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - Spider Queen
 
 ```
-Professional creepy photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with web patterns painted. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes with web designs, thick winged eyeliner, long false lashes spider leg lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing BLACK sheer spiderweb pattern dress. Crown of spiders (fake). PLEASER FLAMINGO-808 black 8-inch platform heels. Giant web background. Sensual spider pose. Expression: web weaver. Spider queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional creepy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with web patterns painted. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes with web designs, thick winged eyeliner, long false lashes spider leg lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing BLACK sheer spiderweb pattern dress. Crown of spiders (fake). PLEASER FLAMINGO-808 black 8-inch platform heels. Giant web background. Sensual spider pose. Expression: web weaver. Spider queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

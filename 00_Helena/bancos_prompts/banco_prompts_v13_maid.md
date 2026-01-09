@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -186,121 +188,121 @@ Professional inspection photography of young elegant goth glamour woman inspired
 #### 21. Miss Doll - Pink Classic Maid
 
 ```
-Professional pink maid photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in servant smile. Human realistic face. Feminine hourglass silhouette. Wearing hot baby blue satin French maid dress with white lace trim, very short. Pink underbust corset over dress. White lace apron. Pink fishnet stockings. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Feather duster pose. Sensual pose with arched back, bedroom eyes. Expression: eager to please. Pink mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pink maid photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in servant smile. Human realistic face. Feminine hourglass silhouette. Wearing hot baby blue satin French maid dress with white lace trim, very short. Pink underbust corset over dress. White lace apron. Pink fishnet stockings. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Feather duster pose. Sensual pose with arched back, bedroom eyes. Expression: eager to please. Pink mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Latex Pink Maid
 
 ```
-Professional latex maid photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing hot white latex maid uniform with pink trim extremely shiny, puffed sleeves. White latex apron. Pink latex underbust corset. Pink latex long gloves. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Scrubbing on hands and knees, bottom up. Sensual pose with arched back, bedroom eyes. Expression: devoted cleaning. Modern pink house. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional latex maid photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing hot white latex maid uniform with pink trim extremely shiny, puffed sleeves. White latex apron. Pink latex underbust corset. Pink latex long gloves. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Scrubbing on hands and knees, bottom up. Sensual pose with arched back, bedroom eyes. Expression: devoted cleaning. Modern pink house. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - PVC Pink Maid
 
 ```
-Professional PVC maid photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing hot lilac PVC maid dress ultra shiny with white PVC apron. Pink PVC corset. PLEASER FLAMINGO-808 pink patent 8-inch heel. Carrying cleaning bucket with pink supplies. Sensual pose with arched back, bedroom eyes. Expression: ready to clean. Pink bathroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional PVC maid photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing hot lilac PVC maid dress ultra shiny with white PVC apron. Pink PVC corset. PLEASER FLAMINGO-808 pink patent 8-inch heel. Carrying cleaning bucket with pink supplies. Sensual pose with arched back, bedroom eyes. Expression: ready to clean. Pink bathroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Dusting Pink Maid
 
 ```
-Professional dusting photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress mini. Pink corset. White apron. PLEASER FLAMINGO-808 pink 8-inch heel. Dusting pink crystal chandelier with pink feather duster. Sensual pose with arched back, bedroom eyes. Expression: gentle care. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dusting photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress mini. Pink corset. White apron. PLEASER FLAMINGO-808 pink 8-inch heel. Dusting pink crystal chandelier with pink feather duster. Sensual pose with arched back, bedroom eyes. Expression: gentle care. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Kitchen Pink Maid
 
 ```
-Professional kitchen maid photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress with longer apron. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Decorating pink cupcakes with frosting. Sensual pose with arched back, bedroom eyes. Expression: baking joy. Pink kitchen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional kitchen maid photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress with longer apron. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Decorating pink cupcakes with frosting. Sensual pose with arched back, bedroom eyes. Expression: baking joy. Pink kitchen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Serving Pink Maid
 
 ```
-Professional serving photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in service smile. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress formal. Pink corset. White apron. PLEASER FLAMINGO-808 pink 8-inch heel. Carrying silver tray with pink cocktails. Sensual pose with arched back, bedroom eyes. Expression: serving pleasure. Pink cocktail party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional serving photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in service smile. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress formal. Pink corset. White apron. PLEASER FLAMINGO-808 pink 8-inch heel. Carrying silver tray with pink cocktails. Sensual pose with arched back, bedroom eyes. Expression: serving pleasure. Pink cocktail party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Bed Making Pink Maid
 
 ```
-Professional bedroom photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress short. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Fluffing pink pillows on pink canopy bed. Sensual pose with arched back, bedroom eyes. Expression: perfect presentation. Pink bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bedroom photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress short. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Fluffing pink pillows on pink canopy bed. Sensual pose with arched back, bedroom eyes. Expression: perfect presentation. Pink bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Vacuum Pink Maid
 
 ```
-Professional vacuum photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress mini. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Vacuuming pink carpet with pink vacuum cleaner. Sensual pose with arched back, bedroom eyes. Expression: focused cleaning. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vacuum photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress mini. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Vacuuming pink carpet with pink vacuum cleaner. Sensual pose with arched back, bedroom eyes. Expression: focused cleaning. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Laundry Pink Maid
 
 ```
-Professional laundry photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Folding pink towels neatly, stacking. Sensual pose with arched back, bedroom eyes. Expression: organized service. Pink laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional laundry photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Folding pink towels neatly, stacking. Sensual pose with arched back, bedroom eyes. Expression: organized service. Pink laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Welcome Pink Maid
 
 ```
-Professional greeting photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in welcoming smile. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress formal. Pink corset. White apron perfect. PLEASER FLAMINGO-808 pink 8-inch heel. Deep curtsy at pink door. Sensual pose with arched back, bedroom eyes. Expression: welcome home Mistress. Pink mansion foyer. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional greeting photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in welcoming smile. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress formal. Pink corset. White apron perfect. PLEASER FLAMINGO-808 pink 8-inch heel. Deep curtsy at pink door. Sensual pose with arched back, bedroom eyes. Expression: welcome home Mistress. Pink mansion foyer. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Punishment Corner Pink Maid
 
 ```
-Professional punishment photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress, apron crooked. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing in corner, nose touching wall, hands on head. Sensual pose with arched back, bedroom eyes. Expression: punished pout. Pink room corner. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional punishment photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress, apron crooked. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing in corner, nose touching wall, hands on head. Sensual pose with arched back, bedroom eyes. Expression: punished pout. Pink room corner. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Bubble Bath Prep Pink Maid
 
 ```
-Professional bath photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel kneeling. Kneeling at pink bathtub, adding pink bubble bath, testing water with elbow. Sensual pose with arched back, bedroom eyes. Expression: preparing the bath. Pink luxury bathroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bath photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel kneeling. Kneeling at pink bathtub, adding pink bubble bath, testing water with elbow. Sensual pose with arched back, bedroom eyes. Expression: preparing the bath. Pink luxury bathroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Pet Care Pink Maid
 
 ```
-Professional pet service photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips cooing. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Feeding small fluffy dog from pink bowl. Sensual pose with arched back, bedroom eyes. Expression: who's a good boy. Pink mudroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pet service photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips cooing. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Feeding small fluffy dog from pink bowl. Sensual pose with arched back, bedroom eyes. Expression: who's a good boy. Pink mudroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Polish Pink Maid
 
 ```
-Professional polishing photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Polishing pink crystal vase with soft cloth. Sensual pose with arched back, bedroom eyes. Expression: careful handling. Pink display room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional polishing photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Polishing pink crystal vase with soft cloth. Sensual pose with arched back, bedroom eyes. Expression: careful handling. Pink display room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Inspection Pink Maid
 
 ```
-Professional inspection photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips nervous smile. Human realistic face. Feminine hourglass silhouette. Wearing immaculate pink maid uniform. Pink corset tight. White apron pristine. PLEASER FLAMINGO-808 pink 8-inch heel polished. Standing at attention, being inspected by gloved finger checking for dust (hand visible). Sensual pose with arched back, bedroom eyes. Expression: hopeful pass. Pink grand hall. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional inspection photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips nervous smile. Human realistic face. Feminine hourglass silhouette. Wearing immaculate pink maid uniform. Pink corset tight. White apron pristine. PLEASER FLAMINGO-808 pink 8-inch heel polished. Standing at attention, being inspected by gloved finger checking for dust (hand visible). Sensual pose with arched back, bedroom eyes. Expression: hopeful pass. Pink grand hall. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Table Setting Pink Maid
 
 ```
-Professional dining photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Setting ornate pink table with pink china and silver. Sensual pose with arched back, bedroom eyes. Expression: everything must be perfect. Pink dining room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dining photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Setting ornate pink table with pink china and silver. Sensual pose with arched back, bedroom eyes. Expression: everything must be perfect. Pink dining room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 37. Miss Doll - Ironing Pink Maid
 
 ```
-Professional ironing photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with no rosy cheeks slightly steam-flushed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Ironing pink silk dress carefully. Sensual pose with arched back, bedroom eyes. Expression: domestic devotion. Pink laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ironing photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with no rosy cheeks slightly steam-flushed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Ironing pink silk dress carefully. Sensual pose with arched back, bedroom eyes. Expression: domestic devotion. Pink laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 38. Miss Doll - Shoe Shine Pink Maid
 
 ```
-Professional shoe service photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips near shoe. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling, polishing Mistress's pink heels with love. Sensual pose with arched back, bedroom eyes. Expression: shoe worship. Pink dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shoe service photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips near shoe. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling, polishing Mistress's pink heels with love. Sensual pose with arched back, bedroom eyes. Expression: shoe worship. Pink dressing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 39. Miss Doll - Closet Organization Pink Maid
 
 ```
-Professional closet photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Organizing pink dresses in color-coded walk-in closet. Sensual pose with arched back, bedroom eyes. Expression: orderly satisfaction. Pink walk-in closet. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional closet photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink maid dress. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Organizing pink dresses in color-coded walk-in closet. Sensual pose with arched back, bedroom eyes. Expression: orderly satisfaction. Pink walk-in closet. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - Massage Service Pink Maid
 
 ```
-Professional spa maid photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips soft. Human realistic face. Feminine hourglass silhouette. Wearing pink maid spa uniform shorter. Pink corset. PLEASER heels removed, bare feet. Giving shoulder massage to Mistress (hands on shoulders visible). Sensual pose with arched back, bedroom eyes. Expression: healing touch. Pink spa room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spa maid photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips soft. Human realistic face. Feminine hourglass silhouette. Wearing pink maid spa uniform shorter. Pink corset. PLEASER heels removed, bare feet. Giving shoulder massage to Mistress (hands on shoulders visible). Sensual pose with arched back, bedroom eyes. Expression: healing touch. Pink spa room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

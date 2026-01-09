@@ -25,7 +25,7 @@ black stiletto heels 7-9 inches with thin deadly heel.
 ### 💖 Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -150,13 +150,13 @@ Professional autumn wet photography of young elegant goth glamour woman inspired
 #### 16. Miss Doll - Pink Car Wash Princess
 
 ```
-Professional wet photography of woman with platinum blonde bob with straight bangs, wet hair clinging. Flawless porcelain skin glistening with water droplets. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Wearing HOT PINK WET T-SHIRT fully soaked clinging to body, pink overbust corset visible. Pink denim booty shorts. PLEASER FLAMINGO-808 hot pink 8-inch platform heels. Washing PINK CADILLAC with pink sponge. Water dripping everywhere. Sensual pose with arched back, bedroom eyes. Expression: pink wet princess. Sunny pink car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead), wet hair clinging. Flawless porcelain skin glistening with water droplets. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Wearing HOT PINK WET T-SHIRT fully soaked clinging to body, pink overbust corset visible. Pink denim booty shorts. PLEASER FLAMINGO-808 hot pink 8-inch platform heels. Washing PINK CADILLAC with pink sponge. Water dripping everywhere. Sensual pose with arched back, bedroom eyes. Expression: pink wet princess. Sunny pink car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Bubblegum Foam Queen
 
 ```
-Professional foam photography of woman with platinum blonde bob with straight bangs, bubbles in hair. Flawless porcelain skin covered in pink foam. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Wearing BUBBLEGUM PINK BIKINI TOP with PINK CORSET. Pink micro shorts. PLEASER FLAMINGO-808 pink 8-inch heels in foam. Covered in pink foam suds, laughing. Sensual pose with arched back, bedroom eyes. Expression: foam bunny. Pink bubbles everywhere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional foam photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead), bubbles in hair. Flawless porcelain skin covered in pink foam. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Wearing BUBBLEGUM PINK BIKINI TOP with PINK CORSET. Pink micro shorts. PLEASER FLAMINGO-808 pink 8-inch heels in foam. Covered in pink foam suds, laughing. Sensual pose with arched back, bedroom eyes. Expression: foam bunny. Pink bubbles everywhere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Hose Spray Pink

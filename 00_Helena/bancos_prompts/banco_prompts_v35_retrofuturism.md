@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Jetsons Space Wife
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs in 60s flip style. Flawless porcelain skin space age glow. HEAVY GLAMOUR MAKEUP: dramatic 60s mod eyes with pink shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mini dress Jetsons style, silver trim, bubble silhouette. Silver space corset over. PLEASER FLAMINGO-808 silver chrome 8-inch platform heels. Jetsons-style futuristic apartment with moving walkways. Sensual space wife pose. Expression: Jane Jetson glamour. Jetsons space wife. Seductive glamour photography, retro futurist lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in 60s flip style. Flawless porcelain skin space age glow. HEAVY GLAMOUR MAKEUP: dramatic 60s mod eyes with pink shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mini dress Jetsons style, silver trim, bubble silhouette. Silver space corset over. PLEASER FLAMINGO-808 silver chrome 8-inch platform heels. Jetsons-style futuristic apartment with moving walkways. Sensual space wife pose. Expression: Jane Jetson glamour. Jetsons space wife. Seductive glamour photography, retro futurist lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Barbarella Pink
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs wild 60s. Flawless porcelain skin intergalactic. HEAVY GLAMOUR MAKEUP: dramatic 60s eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK fur bikini Barbarella inspired, silver metal accents, thigh-high PINK go-go boots. Pink ray gun in hand. PLEASER style silver 8-inch platform boots. Psychedelic space ship interior. Sensual Barbarella pose. Expression: space adventuress. Barbarella pink. Seductive glamour photography, psychedelic space lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wild 60s. Flawless porcelain skin intergalactic. HEAVY GLAMOUR MAKEUP: dramatic 60s eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK fur bikini Barbarella inspired, silver metal accents, thigh-high PINK go-go boots. Pink ray gun in hand. PLEASER style silver 8-inch platform boots. Psychedelic space ship interior. Sensual Barbarella pose. Expression: space adventuress. Barbarella pink. Seductive glamour photography, psychedelic space lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Space Hostess
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs under silver bubble helmet. Flawless porcelain skin space glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic hostess uniform mini dress, silver belt, Pan Am space inspired. Silver tray with futuristic drinks. PLEASER FLAMINGO-808 silver 8-inch platform heels. Space station lounge 60s style. Sensual hostess pose. Expression: welcome aboard. Space hostess. Seductive glamour photography, space station lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under silver bubble helmet. Flawless porcelain skin space glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic hostess uniform mini dress, silver belt, Pan Am space inspired. Silver tray with futuristic drinks. PLEASER FLAMINGO-808 silver 8-inch platform heels. Space station lounge 60s style. Sensual hostess pose. Expression: welcome aboard. Space hostess. Seductive glamour photography, space station lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Lunar Lounge Singer
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs 60s bouffant. Flawless porcelain skin stage lights. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sequin gown futuristic cut, silver metallic accents, high slit. Vintage microphone chrome. PLEASER FLAMINGO-808 pink chrome 8-inch platform heels. Lunar nightclub with view of Earth. Sensual singer pose. Expression: singing to the stars. Lunar lounge singer. Seductive glamour photography, nightclub moon lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) 60s bouffant. Flawless porcelain skin stage lights. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sequin gown futuristic cut, silver metallic accents, high slit. Vintage microphone chrome. PLEASER FLAMINGO-808 pink chrome 8-inch platform heels. Lunar nightclub with view of Earth. Sensual singer pose. Expression: singing to the stars. Lunar lounge singer. Seductive glamour photography, nightclub moon lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Robot Maid Pink
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs chrome tips. Flawless porcelain skin robotic glow. HEAVY GLAMOUR MAKEUP: dramatic chrome eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK chrome lips. Human realistic face. Wearing PINK metallic maid uniform mini, silver apron, robot joint details visible. Feather duster chrome. PLEASER FLAMINGO-808 chrome 8-inch platform heels. Jetsons style smart home. Sensual robot maid pose. Expression: here to serve. Robot maid. Seductive glamour photography, home automation lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) chrome tips. Flawless porcelain skin robotic glow. HEAVY GLAMOUR MAKEUP: dramatic chrome eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK chrome lips. Human realistic face. Wearing PINK metallic maid uniform mini, silver apron, robot joint details visible. Feather duster chrome. PLEASER FLAMINGO-808 chrome 8-inch platform heels. Jetsons style smart home. Sensual robot maid pose. Expression: here to serve. Robot maid. Seductive glamour photography, home automation lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Astro Girl Pink
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs helmet hair. Flawless porcelain skin astronaut. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK retro space suit tight fitting, silver zippers, bubble helmet off. Pink NASA-style patches. PLEASER FLAMINGO-808 silver 8-inch platform boots. Rocket ship cockpit 60s style. Sensual astronaut pose. Expression: ready for launch. Astro girl. Seductive glamour photography, cockpit lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) helmet hair. Flawless porcelain skin astronaut. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK retro space suit tight fitting, silver zippers, bubble helmet off. Pink NASA-style patches. PLEASER FLAMINGO-808 silver 8-inch platform boots. Rocket ship cockpit 60s style. Sensual astronaut pose. Expression: ready for launch. Astro girl. Seductive glamour photography, cockpit lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Space Bubble
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs floating. Flawless porcelain skin zero gravity. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic bikini, inside transparent pink bubble pod floating. Visible through bubble glass. PLEASER FLAMINGO-808 clear with pink 8-inch platform heels. Space station exterior Earth visible. Sensual floating pose. Expression: bubble travel. Space bubble. Seductive glamour photography, space exterior lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) floating. Flawless porcelain skin zero gravity. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic bikini, inside transparent pink bubble pod floating. Visible through bubble glass. PLEASER FLAMINGO-808 clear with pink 8-inch platform heels. Space station exterior Earth visible. Sensual floating pose. Expression: bubble travel. Space bubble. Seductive glamour photography, space exterior lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Atomic Diner Waitress
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs in ponytail. Flawless porcelain skin atomic glow. HEAVY GLAMOUR MAKEUP: dramatic pink eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic diner uniform mini, silver apron, name tag "DOLL". Serving floating food on hover tray. PLEASER FLAMINGO-808 pink 8-inch platform heels. Atomic age diner with robot chef. Sensual waitress pose. Expression: order up. Atomic diner. Seductive glamour photography, neon diner lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in ponytail. Flawless porcelain skin atomic glow. HEAVY GLAMOUR MAKEUP: dramatic pink eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic diner uniform mini, silver apron, name tag "DOLL". Serving floating food on hover tray. PLEASER FLAMINGO-808 pink 8-inch platform heels. Atomic age diner with robot chef. Sensual waitress pose. Expression: order up. Atomic diner. Seductive glamour photography, neon diner lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Flying Car Girl
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs windblown. Flawless porcelain skin traffic glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic driving outfit tight, silver scarf flowing, goggles on forehead. In PINK flying car Jetsons style. PLEASER FLAMINGO-808 silver 8-inch platform heels on pedal. Sky traffic in background. Sensual driver pose. Expression: sky commute. Flying car girl. Seductive glamour photography, sky traffic lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windblown. Flawless porcelain skin traffic glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic driving outfit tight, silver scarf flowing, goggles on forehead. In PINK flying car Jetsons style. PLEASER FLAMINGO-808 silver 8-inch platform heels on pedal. Sky traffic in background. Sensual driver pose. Expression: sky commute. Flying car girl. Seductive glamour photography, sky traffic lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Teleporter Beauty
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs materializing. Flawless porcelain skin teleport glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mini dress tight, silver belt. Mid-teleportation pose sparkles around body. PLEASER FLAMINGO-808 pink 8-inch platform heels materializing. Teleporter pad 60s style. Sensual appear pose. Expression: beam me up. Teleporter beauty. Seductive glamour photography, teleportation effect lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) materializing. Flawless porcelain skin teleport glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mini dress tight, silver belt. Mid-teleportation pose sparkles around body. PLEASER FLAMINGO-808 pink 8-inch platform heels materializing. Teleporter pad 60s style. Sensual appear pose. Expression: beam me up. Teleporter beauty. Seductive glamour photography, teleportation effect lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Moon Colony Girl
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs space styled. Flawless porcelain skin lunar. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic jumpsuit fitted, silver utility belt, moon boots pink. Standing in dome window. PLEASER FLAMINGO-808 pink 8-inch platform boots. Lunar colony dome Earth rising visible. Sensual colonist pose. Expression: moon living. Moon colony girl. Seductive glamour photography, Earth rise lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) space styled. Flawless porcelain skin lunar. HEAVY GLAMOUR MAKEUP: dramatic silver eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic jumpsuit fitted, silver utility belt, moon boots pink. Standing in dome window. PLEASER FLAMINGO-808 pink 8-inch platform boots. Lunar colony dome Earth rising visible. Sensual colonist pose. Expression: moon living. Moon colony girl. Seductive glamour photography, Earth rise lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Space Age Secretary
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs office styling. Flawless porcelain skin office glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic secretary dress tight, silver collar, holographic tablet in hand. Floating desk setup. PLEASER FLAMINGO-808 pink 8-inch platform heels. Jetsons office with robot boss. Sensual secretary pose. Expression: taking notes. Space secretary. Seductive glamour photography, office future lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) office styling. Flawless porcelain skin office glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic secretary dress tight, silver collar, holographic tablet in hand. Floating desk setup. PLEASER FLAMINGO-808 pink 8-inch platform heels. Jetsons office with robot boss. Sensual secretary pose. Expression: taking notes. Space secretary. Seductive glamour photography, office future lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Pleasure Bot Pink
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs chrome accents. Flawless porcelain skin android. HEAVY GLAMOUR MAKEUP: dramatic chrome pink eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK chrome lips. Human realistic face. Wearing PINK chrome bodysuit tight, circuitry pattern visible, charging port accessories. Standing in charging station. PLEASER FLAMINGO-808 chrome pink 8-inch platform heels. Android storage facility. Sensual android pose. Expression: fully charged. Pleasure bot. Seductive glamour photography, charging station lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) chrome accents. Flawless porcelain skin android. HEAVY GLAMOUR MAKEUP: dramatic chrome pink eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK chrome lips. Human realistic face. Wearing PINK chrome bodysuit tight, circuitry pattern visible, charging port accessories. Standing in charging station. PLEASER FLAMINGO-808 chrome pink 8-inch platform heels. Android storage facility. Sensual android pose. Expression: fully charged. Pleasure bot. Seductive glamour photography, charging station lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Cosmic Go-Go Dancer
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs 60s wild. Flawless porcelain skin dance glow. HEAVY GLAMOUR MAKEUP: dramatic glitter eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic go-go bikini with fringe, silver cage around. Dancing in cage suspended. PLEASER FLAMINGO-808 pink 8-inch go-go boots platform. Space disco nightclub. Sensual go-go dance pose. Expression: cosmic groove. Cosmic go-go dancer. Seductive glamour photography, disco space lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) 60s wild. Flawless porcelain skin dance glow. HEAVY GLAMOUR MAKEUP: dramatic glitter eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic go-go bikini with fringe, silver cage around. Dancing in cage suspended. PLEASER FLAMINGO-808 pink 8-inch go-go boots platform. Space disco nightclub. Sensual go-go dance pose. Expression: cosmic groove. Cosmic go-go dancer. Seductive glamour photography, disco space lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Rocket Pin-Up
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs victory rolls. Flawless porcelain skin pin-up glow. HEAVY GLAMOUR MAKEUP: dramatic vintage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK metallic pin-up swimsuit retro cut, silver star details. Posed on rocket nose cone PINK rocket. PLEASER FLAMINGO-808 pink 8-inch platform heels. Rocket launch pad 60s. Sensual pin-up pose. Expression: rocket ready. Rocket pin-up. Seductive glamour photography, rocket launch lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) victory rolls. Flawless porcelain skin pin-up glow. HEAVY GLAMOUR MAKEUP: dramatic vintage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK metallic pin-up swimsuit retro cut, silver star details. Posed on rocket nose cone PINK rocket. PLEASER FLAMINGO-808 pink 8-inch platform heels. Rocket launch pad 60s. Sensual pin-up pose. Expression: rocket ready. Rocket pin-up. Seductive glamour photography, rocket launch lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Hologram Performer
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs glitching. Flawless porcelain skin holographic. HEAVY GLAMOUR MAKEUP: dramatic eyes glitch effect, thick winged eyeliner, long false lashes, arched brows, full glossy PINK iridescent lips. Human realistic face. Wearing PINK holographic bodysuit, static interference visible at edges. Hologram projector base. PLEASER FLAMINGO-808 iridescent 8-inch platform heels. Retro future entertainment room. Sensual hologram pose. Expression: projection beauty. Hologram performer. Seductive glamour photography, hologram projection lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) glitching. Flawless porcelain skin holographic. HEAVY GLAMOUR MAKEUP: dramatic eyes glitch effect, thick winged eyeliner, long false lashes, arched brows, full glossy PINK iridescent lips. Human realistic face. Wearing PINK holographic bodysuit, static interference visible at edges. Hologram projector base. PLEASER FLAMINGO-808 iridescent 8-inch platform heels. Retro future entertainment room. Sensual hologram pose. Expression: projection beauty. Hologram performer. Seductive glamour photography, hologram projection lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Space Food Court
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs casual future. Flawless porcelain skin leisure glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic casual outfit, mini skirt and top. Eating space food from pill dispenser. PLEASER FLAMINGO-808 pink 8-inch platform heels. Jetsons food court with meal pills. Sensual eating pose. Expression: future lunch break. Space food court. Seductive glamour photography, food court future lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) casual future. Flawless porcelain skin leisure glow. HEAVY GLAMOUR MAKEUP: dramatic mod eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic casual outfit, mini skirt and top. Eating space food from pill dispenser. PLEASER FLAMINGO-808 pink 8-inch platform heels. Jetsons food court with meal pills. Sensual eating pose. Expression: future lunch break. Space food court. Seductive glamour photography, food court future lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Cosmo Cover Girl
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs magazine perfect. Flawless porcelain skin cover ready. HEAVY GLAMOUR MAKEUP: dramatic vibrant eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mod dress, geometric silver accents. Posing for magazine cover shoot. PLEASER FLAMINGO-808 pink 8-inch platform heels. Space magazine studio. Sensual cover pose. Expression: galactic beauty. Cosmo cover girl. Seductive glamour photography, magazine studio lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) magazine perfect. Flawless porcelain skin cover ready. HEAVY GLAMOUR MAKEUP: dramatic vibrant eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic mod dress, geometric silver accents. Posing for magazine cover shoot. PLEASER FLAMINGO-808 pink 8-inch platform heels. Space magazine studio. Sensual cover pose. Expression: galactic beauty. Cosmo cover girl. Seductive glamour photography, magazine studio lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Satellite Control
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs mission control. Flawless porcelain skin control glow. HEAVY GLAMOUR MAKEUP: dramatic serious eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic uniform tight, silver epaulettes, headset on. At control panel pushing buttons. PLEASER FLAMINGO-808 pink 8-inch platform heels. Retro satellite control room. Sensual control pose. Expression: mission go. Satellite control. Seductive glamour photography, control room lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) mission control. Flawless porcelain skin control glow. HEAVY GLAMOUR MAKEUP: dramatic serious eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic uniform tight, silver epaulettes, headset on. At control panel pushing buttons. PLEASER FLAMINGO-808 pink 8-inch platform heels. Retro satellite control room. Sensual control pose. Expression: mission go. Satellite control. Seductive glamour photography, control room lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Martian Dream
 
 ```
-Professional retro futurism photography of glamorous woman with platinum blonde bob haircut with straight bangs Mars styled. Flawless porcelain skin red glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic Mars colony outfit, silver oxygen pack decorative. Standing in Mars dome garden. PLEASER FLAMINGO-808 pink 8-inch platform boots. Mars colony with red sky. Sensual colonist pose. Expression: Martian vacation. Martian dream. Seductive glamour photography, Mars atmosphere lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro futurism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) Mars styled. Flawless porcelain skin red glow. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK metallic Mars colony outfit, silver oxygen pack decorative. Standing in Mars dome garden. PLEASER FLAMINGO-808 pink 8-inch platform boots. Mars colony with red sky. Sensual colonist pose. Expression: Martian vacation. Martian dream. Seductive glamour photography, Mars atmosphere lighting, sci-fi 60s aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

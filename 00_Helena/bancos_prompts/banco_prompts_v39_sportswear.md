@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -51,13 +51,13 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 #### 1. Miss Doll - Nike Air Max Diva
 
 ```
-Professional streetwear glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs in high ponytail. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE NIKE sports bra with swoosh logo, white Nike high waisted leggings, white cropped Nike hoodie open, white Nike Air Max sneakers. Visible corset underneath sports bra. Urban rooftop city skyline. Sensual athleisure pose. Expression: just did it. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE NIKE sports bra with swoosh logo, white Nike high waisted leggings, white cropped Nike hoodie open, white Nike Air Max sneakers. Visible corset underneath sports bra. Urban rooftop city skyline. Sensual athleisure pose. Expression: just did it. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Adidas Three Stripes Queen
 
 ```
-Professional streetwear glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK ADIDAS tracksuit with white three stripes: Adidas crop top, Adidas track pants low rise, Adidas Superstar sneakers. Gold chain belt visible corset underneath. Luxury apartment minimalist. Sensual lounging pose on leather sofa. Expression: iconic stripes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK ADIDAS tracksuit with white three stripes: Adidas crop top, Adidas track pants low rise, Adidas Superstar sneakers. Gold chain belt visible corset underneath. Luxury apartment minimalist. Sensual lounging pose on leather sofa. Expression: iconic stripes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Puma Pink Panther
@@ -361,61 +361,61 @@ Professional streetwear glamour photography of TWO glamorous women designer coll
 #### 51. Recovery - The Towel Service
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs messy and slightly damp. Flawless porcelain skin glistening with sweat. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PINK NEON sports bra and matching tight leggings, white corset over. Luxury home gym background. Sensual pose sitting on a weight bench, draped in a thick white towel. Expression: exhausted but satisfied. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy and slightly damp. Flawless porcelain skin glistening with sweat. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PINK NEON sports bra and matching tight leggings, white corset over. Luxury home gym background. Sensual pose sitting on a weight bench, draped in a thick white towel. Expression: exhausted but satisfied. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 52. Recovery - The Protein Shake
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK spandex biker shorts, white cropped hoodie, white corset. Modern kitchen marble island. Sensual_pose holding a pink protein shaker, straw between lips. Expression: refueling the machine. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK spandex biker shorts, white cropped hoodie, white corset. Modern kitchen marble island. Sensual_pose holding a pink protein shaker, straw between lips. Expression: refueling the machine. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 53. Recovery - Foam Roller Stretch
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing ALL WHITE yoga set: bra, leggings, white corset. Yoga studio with soft natural light. Sensual_pose reclining on a black foam roller, arching her back. Expression: feeling the relief. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing ALL WHITE yoga set: bra, leggings, white corset. Yoga studio with soft natural light. Sensual_pose reclining on a black foam roller, arching her back. Expression: feeling the relief. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 54. Recovery - The Massage Gun Ritual
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED lycra bodysuit, black corset. Sitting on a massage table. Sensual_pose using a sleek black massage gun on her own thigh. Expression: self-maintenance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED lycra bodysuit, black corset. Sitting on a massage table. Sensual_pose using a sleek black massage gun on her own thigh. Expression: self-maintenance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 55. Recovery - Ice Bath Challenge
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs damp. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focused on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer sports bra, white thong, white corset. Sitting in a stainless steel tub filled with water and ice cubes. Sensual shivering pose. Expression: cold and disciplined. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) damp. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focused on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer sports bra, white thong, white corset. Sitting in a stainless steel tub filled with water and ice cubes. Sensual shivering pose. Expression: cold and disciplined. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 56. Recovery - Electrolyte Glow
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin glowing. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE metallic leggings, black sports bra, black corset. Close-up face, drinking from a blue electrolyte bottle, liquid droplet on lip. Expression: pure hydration. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE metallic leggings, black sports bra, black corset. Close-up face, drinking from a blue electrolyte bottle, liquid droplet on lip. Expression: pure hydration. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 57. Recovery - The Sauna Unwind
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin dripping with moisture. HEAVY GLAMOUR MAKEUP waterproof. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing NOTHING but a white corset and a white towel wrapped around her waist. Wood-lined luxury sauna, steam in the air. Sensual_pose sitting on a wooden bench. Expression: heat of devotion. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping with moisture. HEAVY GLAMOUR MAKEUP waterproof. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing NOTHING but a white corset and a white towel wrapped around her waist. Wood-lined luxury sauna, steam in the air. Sensual_pose sitting on a wooden bench. Expression: heat of devotion. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 58. Recovery - Checking the Vitals
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Close-up on her wrist wearing a high-tech diamond-encrusted fitness tracker. Sensual_pose. Expression: heart rate optimal. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Close-up on her wrist wearing a high-tech diamond-encrusted fitness tracker. Sensual_pose. Expression: heart rate optimal. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 59. Recovery - The Post-Sesh Mirror Selfie
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking into mirror (POV camera). EXTREME hourglass silhouette prominent cleavage. Wearing NEON GREEN gym set, black corset. Holding a pink smartphone. Sensual mirror pose. Expression: earning the look. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking into mirror (POV camera). EXTREME hourglass silhouette prominent cleavage. Wearing NEON GREEN gym set, black corset. Holding a pink smartphone. Sensual mirror pose. Expression: earning the look. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 60. Recovery - Deep Tissue Kneading
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful. EXTREME hourglass silhouette tiny waist. Wearing ONLY black lycra shorts and a black corset. Lying face down on a massage table (back view). Sensual_pose. Expression: surrender to the hands. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful. EXTREME hourglass silhouette tiny waist. Wearing ONLY black lycra shorts and a black corset. Lying face down on a massage table (back view). Sensual_pose. Expression: surrender to the hands. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 ### 🚿 LOCKER ROOM SEDUCTION (Prompts 61-70)
@@ -423,61 +423,61 @@ Professional fitness glamour photography of glamorous woman with platinum blonde
 #### 61. Locker - The Steam Room Reveal
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face emerging from thick steam. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace sports set, white corset. Luxury gym steam room. Sensual_pose. Expression: follow me into the clouds. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face emerging from thick steam. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace sports set, white corset. Luxury gym steam room. Sensual_pose. Expression: follow me into the clouds. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 62. Locker - Changing the Spandex
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK gym leggings half-pulled down, revealing black lace underwear, white corset staying on. Rows of metal lockers background. Sensual_pose. Expression: caught in the act. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK gym leggings half-pulled down, revealing black lace underwear, white corset staying on. Rows of metal lockers background. Sensual_pose. Expression: caught in the act. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 63. Locker - The Shared Shower
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer lycra bodysuit, white corset. Standing under a rain shower head in a marble locker room. Sensual_pose. Expression: washed clean. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer lycra bodysuit, white corset. Standing under a rain shower head in a marble locker room. Sensual_pose. Expression: washed clean. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 64. Locker - Applying the Lotion
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing RED sports bra, black leggings, black corset. Sitting on a wooden locker room bench, applying cream to her own thigh. Sensual focus on skin. Expression: smooth as porcelain. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing RED sports bra, black leggings, black corset. Sitting on a wooden locker room bench, applying cream to her own thigh. Sensual focus on skin. Expression: smooth as porcelain. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 65. Locker - The Hairdryer Pose
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs blowing in the air. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE tennis skirt, white cropped top, white corset. Vanity mirror background. Sensual_pose using a gold hairdryer. Expression: wind in my wings. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) blowing in the air. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE tennis skirt, white cropped top, white corset. Vanity mirror background. Sensual_pose using a gold hairdryer. Expression: wind in my wings. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 66. Locker - Organizing the Gym Bag
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Sensual_pose kneeling on the floor, packing a designer leather gym bag with lacy items. Expression: ready for the next round. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Sensual_pose kneeling on the floor, packing a designer leather gym bag with lacy items. Expression: ready for the next round. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 67. Locker - The Bench Recline
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing LIME GREEN spandex set, black corset. Reclining across a long wooden bench in an empty locker room. Sensual_pose. Expression: total relaxation. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing LIME GREEN spandex set, black corset. Reclining across a long wooden bench in an empty locker room. Sensual_pose. Expression: total relaxation. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 68. Locker - Tying the Platforms
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE gym shorts, white corset. Sensual_pose sitting with one leg up, tying the laces of a white 8-inch PLEASER platform heel (instead of sneakers). Expression: high-profile fitness. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE gym shorts, white corset. Sensual_pose sitting with one leg up, tying the laces of a white 8-inch PLEASER platform heel (instead of sneakers). Expression: high-profile fitness. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 69. Locker - The Mirror Pep Talk
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking intensely at reflection. EXTREME hourglass silhouette prominent cleavage. Wearing SILVER metallic leggings, black sports bra, black corset. Sensual_pose hands on the vanity counter. Expression: I am the best. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking intensely at reflection. EXTREME hourglass silhouette prominent cleavage. Wearing SILVER metallic leggings, black sports bra, black corset. Sensual_pose hands on the vanity counter. Expression: I am the best. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 70. Locker - Waiting for the Don
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather gym gear, black corset. Standing leaning against the locker room entrance, arms crossed. Sensual_pose. Expression: you're late for our session. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather gym gear, black corset. Standing leaning against the locker room entrance, arms crossed. Sensual_pose. Expression: you're late for our session. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 ### 💅 INTIMATE ATHLEISURE (Prompts 71-80)
@@ -485,61 +485,61 @@ Professional fitness glamour photography of glamorous woman with platinum blonde
 #### 71. Athleisure - Silk and Spandex
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing PINK silk oversized shirt open over a black spandex bodysuit, black corset over that. Modern penthouse living room. Sensual_pose on a designer sofa. Expression: comfort in style. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing PINK silk oversized shirt open over a black spandex bodysuit, black corset over that. Modern penthouse living room. Sensual_pose on a designer sofa. Expression: comfort in style. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 72. Athleisure - The Balcony Stretch
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lycra set, white corset. High-rise balcony overlooking a futuristic city. Sensual_pose stretching arms overhead. Expression: reaching for the sky. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lycra set, white corset. High-rise balcony overlooking a futuristic city. Sensual_pose stretching arms overhead. Expression: reaching for the sky. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 73. Athleisure - Coffee and Leggings
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing GREY marl yoga pants, black cropped hoodie, black corset. Luxury kitchen. Sensual_pose leaning against the counter with an espresso cup. Expression: morning focus. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing GREY marl yoga pants, black cropped hoodie, black corset. Luxury kitchen. Sensual_pose leaning against the counter with an espresso cup. Expression: morning focus. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 74. Athleisure - The Private Yoga Flow
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK sheer lycra leggings (partially transparent), matching bra, black corset. Dimly lit studio with candles. Sensual yoga pose. Expression: spiritual precision. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK sheer lycra leggings (partially transparent), matching bra, black corset. Dimly lit studio with candles. Sensual yoga pose. Expression: spiritual precision. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 75. Athleisure - Designer Tracksuit Glam
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing VELOUR JICY tracksuit unzipped, white corset visible, massive gold chains. Luxury car interior. Sensual_pose. Expression: Jersey girl in the city. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing VELOUR JICY tracksuit unzipped, white corset visible, massive gold chains. Luxury car interior. Sensual_pose. Expression: Jersey girl in the city. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 76. Athleisure - The Rooftop Run
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing NEON ORANGE leggings, white sports bra, white corset. Modern rooftop with glass railings. Sensual jogging pose. Expression: peak performance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing NEON ORANGE leggings, white sports bra, white corset. Modern rooftop with glass railings. Sensual jogging pose. Expression: peak performance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 77. Athleisure - Braiding the Bob
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sports set, white corset. Sensual_pose trying to put her short bob into a tiny ponytail. Vanity mirror. Expression: perfection in the details. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sports set, white corset. Sensual_pose trying to put her short bob into a tiny ponytail. Vanity mirror. Expression: perfection in the details. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 78. Athleisure - The Spandex Nap
 
 ```
-Professional lifestyle photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes slightly open. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK lycra set, white corset. Lying on a pile of designer gym towels. Sensual sleepy pose. Expression: resting the doll. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes slightly open. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK lycra set, white corset. Lying on a pile of designer gym towels. Sensual sleepy pose. Expression: resting the doll. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 79. Athleisure - Tennis Court Service
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE tennis dress, white corset, white PLEASER platform heels. Private tennis court. Sensual_pose leaning on the net. Expression: your serve. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE tennis dress, white corset, white PLEASER platform heels. Private tennis court. Sensual_pose leaning on the net. Expression: your serve. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 #### 80. Athleisure - The High-Tech Pilates
 
 ```
-Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLUE metallic spandex set, black corset. Reclining on a futuristic Pilates reformer machine. Sensual_pose. Expression: engineered beauty. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLUE metallic spandex set, black corset. Reclining on a futuristic Pilates reformer machine. Sensual_pose. Expression: engineered beauty. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```
 
 ### 🦇 HELENA'S DARK FITNESS (Prompts 81-90)

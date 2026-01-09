@@ -21,7 +21,7 @@ black stiletto heels 7-9 inches with LED or chrome accents.
 ### 💖 Miss Doll (BASE - Neon Doll)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs sometimes with neon highlights, 
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) sometimes with neon highlights, 
 flawless porcelain skin with neon reflections (NO rosy cheeks), HEAVY GLAMOUR MAKEUP: dramatic neon smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy lips (pink/cyan/chrome), 
 human realistic face (NOT CGI, NOT doll, NOT plastic), feminine silhouette, 
 pink platform heels 16-18cm with LED or holographic accents.

@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Agent Provocateur Bridal
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE-PINK lips. Human realistic face. Wearing AGENT PROVOCATEUR ivory lace bridal set: balconette bra with Swarovski crystals, matching brief, garter belt intricate lace. Silk robe draped off shoulders. PLEASER FLAMINGO-808 clear with silver glitter 8-inch platform heels. Luxury bridal suite. Sensual bride pose. Expression: wedding night anticipation. Agent Provocateur bride. Seductive glamour photography, soft romantic lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE-PINK lips. Human realistic face. Wearing AGENT PROVOCATEUR ivory lace bridal set: balconette bra with Swarovski crystals, matching brief, garter belt intricate lace. Silk robe draped off shoulders. PLEASER FLAMINGO-808 clear with silver glitter 8-inch platform heels. Luxury bridal suite. Sensual bride pose. Expression: wedding night anticipation. Agent Provocateur bride. Seductive glamour photography, soft romantic lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - La Perla Silk
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin silk glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing LA PERLA silk chemise blush pink, thin straps, lace trim at bust and hem, thigh length. PLEASER FLAMINGO-808 nude 8-inch platform heels. Italian marble bathroom. Sensual silk pose. Expression: morning luxury. La Perla silk. Seductive glamour photography, natural morning lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin silk glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing LA PERLA silk chemise blush pink, thin straps, lace trim at bust and hem, thigh length. PLEASER FLAMINGO-808 nude 8-inch platform heels. Italian marble bathroom. Sensual silk pose. Expression: morning luxury. La Perla silk. Seductive glamour photography, natural morning lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Bordelle Strappy
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin spotlight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with metallic pink, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing BORDELLE pink elastic strappy harness set: cage bra, high-waisted brief with straps, thigh harnesses. Gold hardware visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Dark studio with spotlight. Sensual bondage-inspired pose. Expression: pink restraint. Bordelle strappy. Seductive glamour photography, dramatic spot lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin spotlight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with metallic pink, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing BORDELLE pink elastic strappy harness set: cage bra, high-waisted brief with straps, thigh harnesses. Gold hardware visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Dark studio with spotlight. Sensual bondage-inspired pose. Expression: pink restraint. Bordelle strappy. Seductive glamour photography, dramatic spot lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Coco de Mer Pure
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin pure glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing COCO DE MER ivory silk triangle bra and brief set, delicate lace overlay, minimalist luxury. Pearl necklace draped. PLEASER FLAMINGO-808 nude 8-inch platform heels. White linen bedroom. Sensual pure pose. Expression: innocent luxury. Coco de Mer pure. Seductive glamour photography, soft white lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pure glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing COCO DE MER ivory silk triangle bra and brief set, delicate lace overlay, minimalist luxury. Pearl necklace draped. PLEASER FLAMINGO-808 nude 8-inch platform heels. White linen bedroom. Sensual pure pose. Expression: innocent luxury. Coco de Mer pure. Seductive glamour photography, soft white lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Fleur du Mal Pink
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing FLEUR DU MAL pink velvet bra with underwire, matching high-waisted panty, gold chain details. PLEASER FLAMINGO-808 pink 8-inch platform heels. Velvet pink boudoir setting. Sensual velvet pose. Expression: plush luxury. Fleur du Mal velvet. Seductive glamour photography, warm boudoir lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing FLEUR DU MAL pink velvet bra with underwire, matching high-waisted panty, gold chain details. PLEASER FLAMINGO-808 pink 8-inch platform heels. Velvet pink boudoir setting. Sensual velvet pose. Expression: plush luxury. Fleur du Mal velvet. Seductive glamour photography, warm boudoir lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Aubade French Elegance
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin French glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing AUBADE blush pink French lace demi-cup bra, matching tanga, garter belt with rose embroidery. Stockings sheer with seam. PLEASER FLAMINGO-808 nude 8-inch platform heels. Parisian apartment. Sensual French pose. Expression: je ne sais quoi. Aubade French. Seductive glamour photography, Parisian afternoon lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin French glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing AUBADE blush pink French lace demi-cup bra, matching tanga, garter belt with rose embroidery. Stockings sheer with seam. PLEASER FLAMINGO-808 nude 8-inch platform heels. Parisian apartment. Sensual French pose. Expression: je ne sais quoi. Aubade French. Seductive glamour photography, Parisian afternoon lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Kiki de Montparnasse
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin artistic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing KIKI DE MONTPARNASSE blush silk robe open, matching camisole and tap short underneath. Rose gold chains as jewelry. PLEASER FLAMINGO-808 rose gold 8-inch platform heels. Artist loft setting. Sensual artistic pose. Expression: bohemian luxury. Kiki de Montparnasse. Seductive glamour photography, artistic loft lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin artistic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing KIKI DE MONTPARNASSE blush silk robe open, matching camisole and tap short underneath. Rose gold chains as jewelry. PLEASER FLAMINGO-808 rose gold 8-inch platform heels. Artist loft setting. Sensual artistic pose. Expression: bohemian luxury. Kiki de Montparnasse. Seductive glamour photography, artistic loft lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Myla London Rose
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin English rose. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing MYLA LONDON rose pink stretch lace bodysuit, plunging neckline, illusion panels. Pearl strand wrapped around wrist. PLEASER FLAMINGO-808 pink 8-inch platform heels. English manor bedroom. Sensual English rose pose. Expression: Kensington elegance. Myla London. Seductive glamour photography, English afternoon lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin English rose. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing MYLA LONDON rose pink stretch lace bodysuit, plunging neckline, illusion panels. Pearl strand wrapped around wrist. PLEASER FLAMINGO-808 pink 8-inch platform heels. English manor bedroom. Sensual English rose pose. Expression: Kensington elegance. Myla London. Seductive glamour photography, English afternoon lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - I.D. Sarrieri Pink Gold
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin golden glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with gold, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE-GOLD lips. Human realistic face. Wearing I.D. SARRIERI pink and gold brocade corset with underwire, matching high-waisted brief, gold thread details. PLEASER FLAMINGO-808 gold 8-inch platform heels. Baroque gold room. Sensual baroque pose. Expression: pink gold goddess. I.D. Sarrieri luxury. Seductive glamour photography, baroque golden lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin golden glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with gold, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE-GOLD lips. Human realistic face. Wearing I.D. SARRIERI pink and gold brocade corset with underwire, matching high-waisted brief, gold thread details. PLEASER FLAMINGO-808 gold 8-inch platform heels. Baroque gold room. Sensual baroque pose. Expression: pink gold goddess. I.D. Sarrieri luxury. Seductive glamour photography, baroque golden lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Cosabella Sweet
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin sweet glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing COSABELLA Never Say Never pink lace bralette, matching bikini, ultra delicate Italian lace. Satin ribbon accents. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink candy room setting. Sensual sweet pose. Expression: sugar pink dreams. Cosabella sweet. Seductive glamour photography, sweet pink lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sweet glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing COSABELLA Never Say Never pink lace bralette, matching bikini, ultra delicate Italian lace. Satin ribbon accents. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink candy room setting. Sensual sweet pose. Expression: sugar pink dreams. Cosabella sweet. Seductive glamour photography, sweet pink lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Eres Minimalist
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin minimalist. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes clean, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing ERES nude-pink triangle bra seamless, matching tanga, perfect fit minimal design. Ultra clean aesthetic. PLEASER FLAMINGO-808 nude 8-inch platform heels. White minimalist space. Sensual minimal pose. Expression: less is more. Eres minimalist. Seductive glamour photography, clean white lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin minimalist. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes clean, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing ERES nude-pink triangle bra seamless, matching tanga, perfect fit minimal design. Ultra clean aesthetic. PLEASER FLAMINGO-808 nude 8-inch platform heels. White minimalist space. Sensual minimal pose. Expression: less is more. Eres minimalist. Seductive glamour photography, clean white lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Journelle Blush
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin boutique glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing JOURNELLE blush pink balconette bra with scalloped lace, matching Brazilian brief, delicate embroidery. Gold jewelry subtle. PLEASER FLAMINGO-808 pink 8-inch platform heels. Luxury boutique fitting room. Sensual fitting pose. Expression: perfect fit discovered. Journelle boutique. Seductive glamour photography, boutique mirror lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin boutique glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing JOURNELLE blush pink balconette bra with scalloped lace, matching Brazilian brief, delicate embroidery. Gold jewelry subtle. PLEASER FLAMINGO-808 pink 8-inch platform heels. Luxury boutique fitting room. Sensual fitting pose. Expression: perfect fit discovered. Journelle boutique. Seductive glamour photography, boutique mirror lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Bluebella Pink Chains
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin edgy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes intense, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing BLUEBELLA pink mesh bra with chain details, matching thong with chains, decorative body chain over. PLEASER FLAMINGO-808 pink 8-inch platform heels. Industrial chic studio. Sensual chain pose. Expression: pink chains queen. Bluebella edgy. Seductive glamour photography, industrial fashion lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin edgy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes intense, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing BLUEBELLA pink mesh bra with chain details, matching thong with chains, decorative body chain over. PLEASER FLAMINGO-808 pink 8-inch platform heels. Industrial chic studio. Sensual chain pose. Expression: pink chains queen. Bluebella edgy. Seductive glamour photography, industrial fashion lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Simone Perele Romantic
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin romantic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing SIMONE PERELE Wish blush pink bra with daisy appliqué, matching shorty, ultra feminine French. PLEASER FLAMINGO-808 pink 8-inch platform heels. Romantic rose garden room. Sensual romantic pose. Expression: French countryside dream. Simone Perele romantic. Seductive glamour photography, garden room lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing SIMONE PERELE Wish blush pink bra with daisy appliqué, matching shorty, ultra feminine French. PLEASER FLAMINGO-808 pink 8-inch platform heels. Romantic rose garden room. Sensual romantic pose. Expression: French countryside dream. Simone Perele romantic. Seductive glamour photography, garden room lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Hanky Panky Signature
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin signature glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HANKY PANKY signature lace pink bralette, matching retro thong, classic American lace. Playful finger on lip. PLEASER FLAMINGO-808 pink 8-inch platform heels. American dream bedroom. Sensual playful pose. Expression: Pink signature style. Hanky Panky signature. Seductive glamour photography, American bright lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin signature glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HANKY PANKY signature lace pink bralette, matching retro thong, classic American lace. Playful finger on lip. PLEASER FLAMINGO-808 pink 8-inch platform heels. American dream bedroom. Sensual playful pose. Expression: Pink signature style. Hanky Panky signature. Seductive glamour photography, American bright lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Natori Feathers
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin feather soft. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE-PINK lips. Human realistic face. Wearing NATORI Feathers pink contour bra, matching brief, iconic feather lace design. PLEASER FLAMINGO-808 nude 8-inch platform heels. Delicate pink bedroom. Sensual feather pose. Expression: light as feathers. Natori Feathers. Seductive glamour photography, soft feather lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin feather soft. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE-PINK lips. Human realistic face. Wearing NATORI Feathers pink contour bra, matching brief, iconic feather lace design. PLEASER FLAMINGO-808 nude 8-inch platform heels. Delicate pink bedroom. Sensual feather pose. Expression: light as feathers. Natori Feathers. Seductive glamour photography, soft feather lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Chantelle Soft Pink
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin soft glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing CHANTELLE Passionata soft pink stretch lace plunge bra, matching hipster, comfortable luxury. PLEASER FLAMINGO-808 nude 8-inch platform heels. Comfortable luxury bedroom. Sensual comfortable pose. Expression: everyday luxury. Chantelle soft. Seductive glamour photography, comfortable warm lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin soft glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ROSE lips. Human realistic face. Wearing CHANTELLE Passionata soft pink stretch lace plunge bra, matching hipster, comfortable luxury. PLEASER FLAMINGO-808 nude 8-inch platform heels. Comfortable luxury bedroom. Sensual comfortable pose. Expression: everyday luxury. Chantelle soft. Seductive glamour photography, comfortable warm lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Intimissimi Italian
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Italian bella. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing INTIMISSIMI blush pink Italian lace bra, matching thong, ultra delicate Italian craftsmanship. PLEASER FLAMINGO-808 nude 8-inch platform heels. Italian villa bedroom. Sensual Italian pose. Expression: bella italiana. Intimissimi Italian. Seductive glamour photography, Tuscan golden lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin Italian bella. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing INTIMISSIMI blush pink Italian lace bra, matching thong, ultra delicate Italian craftsmanship. PLEASER FLAMINGO-808 nude 8-inch platform heels. Italian villa bedroom. Sensual Italian pose. Expression: bella italiana. Intimissimi Italian. Seductive glamour photography, Tuscan golden lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Savage x Fenty Pink
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin inclusive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bold, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips glitter. Human realistic face. Wearing SAVAGE X FENTY hot pink neon mesh bra, matching thong, bold colorful design. Pink bow details. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon pink studio. Sensual fierce pose. Expression: savage pink power. Savage x Fenty bold. Seductive glamour photography, neon studio lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin inclusive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bold, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips glitter. Human realistic face. Wearing SAVAGE X FENTY hot pink neon mesh bra, matching thong, bold colorful design. Pink bow details. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon pink studio. Sensual fierce pose. Expression: savage pink power. Savage x Fenty bold. Seductive glamour photography, neon studio lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Victoria's Secret Bombshell
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin bombshell glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes glamour, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing VICTORIA'S SECRET Bombshell pink push-up bra maximum lift, matching bikini with rhinestones. Angel wings backdrop. PLEASER FLAMINGO-808 pink 8-inch platform heels. VS fashion show backstage. Sensual angel pose. Expression: bombshell angel. Victoria's Secret icon. Seductive glamour photography, fashion show backstage lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin bombshell glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes glamour, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing VICTORIA'S SECRET Bombshell pink push-up bra maximum lift, matching bikini with rhinestones. Angel wings backdrop. PLEASER FLAMINGO-808 pink 8-inch platform heels. VS fashion show backstage. Sensual angel pose. Expression: bombshell angel. Victoria's Secret icon. Seductive glamour photography, fashion show backstage lighting, lingerie aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

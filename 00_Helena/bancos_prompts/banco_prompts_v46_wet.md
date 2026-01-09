@@ -28,7 +28,7 @@ wet fabric clinging to body emphasizing curves.
 ### 💖 MISS DOLL (BASE WET)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs wet and slicked,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked,
 flawless porcelain skin glistening with water droplets,
 delicate refined nose, high cheekbones,
 HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips,
@@ -183,7 +183,7 @@ Professional glamour photography of glamorous woman with jet black hair wet in i
 #### 21. Pink Bubble Bath
 
 ```
-Professional glamour photography of glamorous woman with platinum blonde bob haircut with straight bangs wet and slicked. Flawless porcelain skin glistening with pink bath water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face playful doll expression. EXTREME hourglass silhouette cleavage visible through pink bath foam. In PINK BATHTUB filled with pink water and pink bubbles pink rubber duckies floating. Sensual bubble bath pose playing with foam. Expression: pretty in pink bath. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked. Flawless porcelain skin glistening with pink bath water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face playful doll expression. EXTREME hourglass silhouette cleavage visible through pink bath foam. In PINK BATHTUB filled with pink water and pink bubbles pink rubber duckies floating. Sensual bubble bath pose playing with foam. Expression: pretty in pink bath. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Pink Shower Gel

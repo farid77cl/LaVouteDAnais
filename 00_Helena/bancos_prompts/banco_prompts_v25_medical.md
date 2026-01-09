@@ -21,7 +21,7 @@ black or white stiletto heels 7-9 inches with thin deadly heel.
 ### 💖 Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,91 +37,91 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 #### 1. Miss Doll - Pink Latex Nurse
 
 ```
-Professional medical fantasy photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK LATEX nurse uniform, extremely short hemline. White cross on cap. Stethoscope around neck. White latex gloves. PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital hallway. Sensual nurse pose. Expression: ready to assist. Pink nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical fantasy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK LATEX nurse uniform, extremely short hemline. White cross on cap. Stethoscope around neck. White latex gloves. PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital hallway. Sensual nurse pose. Expression: ready to assist. Pink nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Shot Administration
 
 ```
-Professional medical photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK accents. Holding syringe with pink liquid. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual medical pose. Expression: this won't hurt. Shot nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK accents. Holding syringe with pink liquid. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual medical pose. Expression: this won't hurt. Shot nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Naughty Night Shift
 
 ```
-Professional boudoir medical photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sheer nurse costume, lingerie visible underneath. Cap askew. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed in background. Sensual tired but flirty pose. Expression: long night shift. Night nurse. Seductive glamour photography, dim clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sheer nurse costume, lingerie visible underneath. Cap askew. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed in background. Sensual tired but flirty pose. Expression: long night shift. Night nurse. Seductive glamour photography, dim clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Candy Striper Fantasy
 
 ```
-Professional retro medical photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE striped candy striper uniform, vintage style. Carrying medicine tray. PLEASER FLAMINGO-808 white 8-inch platform heels. 1960s hospital aesthetic. Sensual helper pose. Expression: here to help. Candy striper. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE striped candy striper uniform, vintage style. Carrying medicine tray. PLEASER FLAMINGO-808 white 8-inch platform heels. 1960s hospital aesthetic. Sensual helper pose. Expression: here to help. Candy striper. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Surgical Mask Tease
 
 ```
-Professional PPE photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible above mask, thick winged eyeliner, long false lashes, arched brows. Human realistic face half hidden by pink surgical mask being pulled down to show RED lips. Wearing PINK scrubs tight fit. PLEASER FLAMINGO-808 white 8-inch platform heels. Operating room. Sensual mask tease pose. Expression: mystery eyes. Masked nurse. Seductive glamour photography, OR lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional PPE photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible above mask, thick winged eyeliner, long false lashes, arched brows. Human realistic face half hidden by pink surgical mask being pulled down to show RED lips. Wearing PINK scrubs tight fit. PLEASER FLAMINGO-808 white 8-inch platform heels. Operating room. Sensual mask tease pose. Expression: mystery eyes. Masked nurse. Seductive glamour photography, OR lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Heart Monitor
 
 ```
-Professional ICU photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress. Checking heart monitor showing heart shapes. Stethoscope. PLEASER FLAMINGO-808 pink 8-inch platform heels. ICU setting with monitors. Sensual caring pose. Expression: checking vitals. ICU nurse. Seductive glamour photography, monitor glow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ICU photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress. Checking heart monitor showing heart shapes. Stethoscope. PLEASER FLAMINGO-808 pink 8-inch platform heels. ICU setting with monitors. Sensual caring pose. Expression: checking vitals. ICU nurse. Seductive glamour photography, monitor glow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Wheelchair Push
 
 ```
-Professional assistance photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK trim. Pushing pink wheelchair (empty, prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital corridor. Sensual walking pose pushing chair. Expression: patient care. Transport nurse. Seductive glamour photography, hallway lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional assistance photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK trim. Pushing pink wheelchair (empty, prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital corridor. Sensual walking pose pushing chair. Expression: patient care. Transport nurse. Seductive glamour photography, hallway lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Blood Pressure Check
 
 ```
-Professional exam photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrub top and WHITE pants. Holding blood pressure cuff in pink. Stethoscope in ears. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual checking pose. Expression: let me check. BP nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrub top and WHITE pants. Holding blood pressure cuff in pink. Stethoscope in ears. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual checking pose. Expression: let me check. BP nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Pill Dispenser
 
 ```
-Professional pharmacy photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK dress. Holding tray of colorful pills. PLEASER FLAMINGO-808 white 8-inch platform heels. Pharmacy counter. Sensual dispensing pose. Expression: take your medicine. Pill nurse. Seductive glamour photography, pharmacy lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pharmacy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK dress. Holding tray of colorful pills. PLEASER FLAMINGO-808 white 8-inch platform heels. Pharmacy counter. Sensual dispensing pose. Expression: take your medicine. Pill nurse. Seductive glamour photography, pharmacy lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Temperature Check
 
 ```
-Professional exam photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse cap with modern scrubs. Holding thermometer. PLEASER FLAMINGO-808 pink 8-inch platform heels. Patient room. Sensual checking pose leaning toward camera. Expression: open wide. Temperature nurse. Seductive glamour photography, bedside lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse cap with modern scrubs. Holding thermometer. PLEASER FLAMINGO-808 pink 8-inch platform heels. Patient room. Sensual checking pose leaning toward camera. Expression: open wide. Temperature nurse. Seductive glamour photography, bedside lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Ambulance EMT
 
 ```
-Professional emergency photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK EMT uniform tight fit. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels impractical but glamorous. Back of pink ambulance. Sensual emergency pose. Expression: on the scene. EMT glam. Seductive glamour photography, emergency lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional emergency photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK EMT uniform tight fit. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels impractical but glamorous. Back of pink ambulance. Sensual emergency pose. Expression: on the scene. EMT glam. Seductive glamour photography, emergency lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - X-Ray Reading
 
 ```
-Professional radiology photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin lit by x-ray. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK blouse. Holding x-ray of heart shape up to light. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology viewing room. Sensual analyzing pose. Expression: I see your heart. Radiology nurse. Seductive glamour photography, x-ray backlit, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional radiology photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin lit by x-ray. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK blouse. Holding x-ray of heart shape up to light. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology viewing room. Sensual analyzing pose. Expression: I see your heart. Radiology nurse. Seductive glamour photography, x-ray backlit, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Nurse Station Selfie
 
 ```
-Professional social media photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrubs. Taking mirror selfie at nurse station. Stethoscope as prop. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Hospital nurse station. Sensual selfie pose. Expression: nurse life. Selfie nurse. Seductive glamour photography, fluorescent lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional social media photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrubs. Taking mirror selfie at nurse station. Stethoscope as prop. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Hospital nurse station. Sensual selfie pose. Expression: nurse life. Selfie nurse. Seductive glamour photography, fluorescent lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Bed Bath Fantasy
 
 ```
-Professional intimate care photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress short. Holding basin and sponge playfully. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room with bed. Sensual caring pose. Expression: sponge bath time. Care nurse. Seductive glamour photography, soft clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional intimate care photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress short. Holding basin and sponge playfully. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room with bed. Sensual caring pose. Expression: sponge bath time. Care nurse. Seductive glamour photography, soft clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Pink Stethoscope Heart
 
 ```
-Professional portrait photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse top. Pink stethoscope shaped into heart on chest. PLEASER FLAMINGO-808 pink 8-inch platform heels. Simple clinical backdrop. Sensual portrait pose. Expression: nursing is heart. Stethoscope heart. Seductive glamour photography, portrait lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional portrait photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse top. Pink stethoscope shaped into heart on chest. PLEASER FLAMINGO-808 pink 8-inch platform heels. Simple clinical backdrop. Sensual portrait pose. Expression: nursing is heart. Stethoscope heart. Seductive glamour photography, portrait lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -295,7 +295,7 @@ Professional vintage advertising photography of young elegant goth glamour woman
 #### 42. Miss Doll - Pin-Up Nurse Calendar
 
 ```
-Professional pin-up photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse uniform sexy version. Calendar month visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. White studio with date. Sensual calendar pose. Expression: nurse of month. Nurse calendar. Seductive glamour photography, pin-up lighting, vintage medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pin-up photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse uniform sexy version. Calendar month visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. White studio with date. Sensual calendar pose. Expression: nurse of month. Nurse calendar. Seductive glamour photography, pin-up lighting, vintage medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 43. Helena - Medical Goth Photoshoot
@@ -307,7 +307,7 @@ Professional editorial photography of young elegant goth glamour woman inspired 
 #### 44. Miss Doll - Nurse Bachelorette
 
 ```
-Professional party photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK sexy nurse costume, bachelorette style. "BRIDE" sash. Giant syringe with pink shots. PLEASER FLAMINGO-808 pink 8-inch platform heels. Party venue. Sensual party pose. Expression: party nurse. Bachelorette nurse. Seductive glamour photography, party lighting, fun medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional party photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK sexy nurse costume, bachelorette style. "BRIDE" sash. Giant syringe with pink shots. PLEASER FLAMINGO-808 pink 8-inch platform heels. Party venue. Sensual party pose. Expression: party nurse. Bachelorette nurse. Seductive glamour photography, party lighting, fun medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 45. Duo - Halloween Nurses
@@ -325,7 +325,7 @@ Professional horror photography of young elegant goth glamour woman inspired by 
 #### 47. Miss Doll - Hospital Gown Glam
 
 ```
-Professional ironic photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes perfect, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing hospital gown but styled fashionably, tied at back showing skin. IV pole as prop (empty). PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed. Sensual glamorous patient pose. Expression: still fabulous. Gown glam. Seductive glamour photography, hospital lighting, ironic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ironic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes perfect, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing hospital gown but styled fashionably, tied at back showing skin. IV pole as prop (empty). PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed. Sensual glamorous patient pose. Expression: still fabulous. Gown glam. Seductive glamour photography, hospital lighting, ironic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 48. Helena - Dark Witch Doctor

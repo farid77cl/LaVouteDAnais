@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -187,91 +189,91 @@ Professional opium den photography of young elegant goth glamour woman inspired 
 #### 21. Miss Doll - Cherry Blossom Princess
 
 ```
-Professional cherry blossom photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin spring fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kimono cherry blossom pattern, obi white. Under cherry blossom tree petals falling. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cherry blossom garden. Sensual spring pose. Expression: hanami beauty. Cherry princess. Seductive glamour photography, soft pink spring lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cherry blossom photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin spring fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kimono cherry blossom pattern, obi white. Under cherry blossom tree petals falling. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cherry blossom garden. Sensual spring pose. Expression: hanami beauty. Cherry princess. Seductive glamour photography, soft pink spring lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Kawaii Harajuku
 
 ```
-Professional Harajuku photography of glamorous woman with platinum blonde bob haircut with straight bangs with pink streaks. Flawless porcelain skin kawaii. HEAVY GLAMOUR MAKEUP: dramatic eyes with hearts and stars, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kawaii outfit layered accessories everywhere. Cat ear headband. PLEASER FLAMINGO-808 pink 8-inch platform heels with bows. Harajuku street. Sensual kawaii pose. Expression: so kawaii. Harajuku queen. Seductive glamour photography, colorful Harajuku lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Harajuku photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink streaks. Flawless porcelain skin kawaii. HEAVY GLAMOUR MAKEUP: dramatic eyes with hearts and stars, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kawaii outfit layered accessories everywhere. Cat ear headband. PLEASER FLAMINGO-808 pink 8-inch platform heels with bows. Harajuku street. Sensual kawaii pose. Expression: so kawaii. Harajuku queen. Seductive glamour photography, colorful Harajuku lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Pink Qipao Modern
 
 ```
-Professional modern qipao photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Shanghai modern. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK satin qipao ultra modern short, high slit. Pearl necklace. PLEASER FLAMINGO-808 red 8-inch platform heels. Shanghai skyline. Sensual modern pose. Expression: new Shanghai. Modern qipao. Seductive glamour photography, city skyline lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional modern qipao photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin Shanghai modern. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK satin qipao ultra modern short, high slit. Pearl necklace. PLEASER FLAMINGO-808 red 8-inch platform heels. Shanghai skyline. Sensual modern pose. Expression: new Shanghai. Modern qipao. Seductive glamour photography, city skyline lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Anime Maid Cafe
 
 ```
-Professional maid cafe photography of glamorous woman with platinum blonde bob haircut with straight bangs with cat ears. Flawless porcelain skin anime. HEAVY GLAMOUR MAKEUP: dramatic eyes giant anime style, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK maid uniform frilly short. Cat tail accessory. Serving tray. PLEASER FLAMINGO-808 pink 8-inch platform heels with bows. Akihabara maid cafe. Sensual maid pose. Expression: welcome home master. Maid cafe. Seductive glamour photography, bright anime lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional maid cafe photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with cat ears. Flawless porcelain skin anime. HEAVY GLAMOUR MAKEUP: dramatic eyes giant anime style, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK maid uniform frilly short. Cat tail accessory. Serving tray. PLEASER FLAMINGO-808 pink 8-inch platform heels with bows. Akihabara maid cafe. Sensual maid pose. Expression: welcome home master. Maid cafe. Seductive glamour photography, bright anime lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - K-Pop Idol
 
 ```
-Professional K-pop photography of glamorous woman with platinum blonde bob haircut with straight bangs perfect. Flawless porcelain skin idol glow. HEAVY GLAMOUR MAKEUP: dramatic K-pop style eyes, thick winged eyeliner, long false lashes, arched brows, full glossy gradient PINK lips. Human realistic face. Wearing PINK and WHITE K-pop stage outfit coordinated. Microphone. Dance pose mid-move. PLEASER FLAMINGO-808 white 8-inch platform heels. Concert stage. Sensual idol pose. Expression: saranghae. K-pop star. Seductive glamour photography, concert stage lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional K-pop photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) perfect. Flawless porcelain skin idol glow. HEAVY GLAMOUR MAKEUP: dramatic K-pop style eyes, thick winged eyeliner, long false lashes, arched brows, full glossy gradient PINK lips. Human realistic face. Wearing PINK and WHITE K-pop stage outfit coordinated. Microphone. Dance pose mid-move. PLEASER FLAMINGO-808 white 8-inch platform heels. Concert stage. Sensual idol pose. Expression: saranghae. K-pop star. Seductive glamour photography, concert stage lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Sailor Moon Tribute
 
 ```
-Professional magical girl photography of glamorous woman with platinum blonde bob haircut with straight bangs with odango style added. Flawless porcelain skin anime. HEAVY GLAMOUR MAKEUP: dramatic anime eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sailor scout outfit inspired. Wand prop. Pose magical. PLEASER FLAMINGO-808 red 8-inch platform boots. Moonlit rooftop. Sensual magical pose. Expression: moon power. Magical girl. Seductive glamour photography, magical sparkle lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional magical girl photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with odango style added. Flawless porcelain skin anime. HEAVY GLAMOUR MAKEUP: dramatic anime eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sailor scout outfit inspired. Wand prop. Pose magical. PLEASER FLAMINGO-808 red 8-inch platform boots. Moonlit rooftop. Sensual magical pose. Expression: moon power. Magical girl. Seductive glamour photography, magical sparkle lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Thai Flower Festival
 
 ```
-Professional Loy Krathong photography of glamorous woman with platinum blonde bob haircut with straight bangs with flower crown. Flawless porcelain skin festival beauty. HEAVY GLAMOUR MAKEUP: dramatic Thai eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK traditional Thai dress modern. Holding flower krathong with candles. By river. PLEASER FLAMINGO-808 gold 8-inch platform heels. Thai river festival. Sensual offering pose. Expression: floating wishes. Loy Krathong. Seductive glamour photography, candle reflection lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Loy Krathong photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with flower crown. Flawless porcelain skin festival beauty. HEAVY GLAMOUR MAKEUP: dramatic Thai eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK traditional Thai dress modern. Holding flower krathong with candles. By river. PLEASER FLAMINGO-808 gold 8-inch platform heels. Thai river festival. Sensual offering pose. Expression: floating wishes. Loy Krathong. Seductive glamour photography, candle reflection lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Bubble Tea Shop
 
 ```
-Professional bubble tea photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin cute. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK cute cafe outfit. Giant bubble tea straw to lips. Tapioca pearls visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cute bubble tea shop. Sensual drinking pose. Expression: boba love. Bubble tea girl. Seductive glamour photography, pink cafe lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bubble tea photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cute. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK cute cafe outfit. Giant bubble tea straw to lips. Tapioca pearls visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cute bubble tea shop. Sensual drinking pose. Expression: boba love. Bubble tea girl. Seductive glamour photography, pink cafe lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Korean Hanbok Pink
 
 ```
-Professional hanbok photography of glamorous woman with platinum blonde bob haircut with straight bangs traditional styling. Flawless porcelain skin refined. HEAVY GLAMOUR MAKEUP: K-beauty eyes, thick winged eyeliner, long false lashes, arched brows, full glossy gradient lips. Human realistic face. Wearing PINK hanbok princess style, jeogori, chima enormous. Hair ornaments. PLEASER FLAMINGO-808 pink 8-inch platform heels hidden. Palace garden. Sensual royal pose. Expression: Joseon princess. Pink hanbok. Seductive glamour photography, traditional Korean lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hanbok photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) traditional styling. Flawless porcelain skin refined. HEAVY GLAMOUR MAKEUP: K-beauty eyes, thick winged eyeliner, long false lashes, arched brows, full glossy gradient lips. Human realistic face. Wearing PINK hanbok princess style, jeogori, chima enormous. Hair ornaments. PLEASER FLAMINGO-808 pink 8-inch platform heels hidden. Palace garden. Sensual royal pose. Expression: Joseon princess. Pink hanbok. Seductive glamour photography, traditional Korean lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Anime Convention
 
 ```
-Professional convention photography of glamorous woman with platinum blonde bob haircut with straight bangs with pink wig over. Flawless porcelain skin cosplay. HEAVY GLAMOUR MAKEUP: dramatic anime eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK anime character cosplay elaborate. Props from anime. Pose in character. PLEASER FLAMINGO-808 pink 8-inch platform heels matching costume. Anime convention floor. Sensual cosplay pose. Expression: in character. Cosplayer. Seductive glamour photography, convention lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional convention photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink wig over. Flawless porcelain skin cosplay. HEAVY GLAMOUR MAKEUP: dramatic anime eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK anime character cosplay elaborate. Props from anime. Pose in character. PLEASER FLAMINGO-808 pink 8-inch platform heels matching costume. Anime convention floor. Sensual cosplay pose. Expression: in character. Cosplayer. Seductive glamour photography, convention lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Japanese Bath House
 
 ```
-Professional onsen photography of glamorous woman with platinum blonde bob haircut with straight bangs wet pinned up. Flawless porcelain skin steamy. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing PINK towel only wrapped around body. At edge of traditional bath. Steam rising. PLEASER FLAMINGO-808 pink 8-inch platform heels by pool edge. Ryokan onsen. Sensual bathing pose. Expression: relaxation. Onsen beauty. Seductive glamour photography, steam soft lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional onsen photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet pinned up. Flawless porcelain skin steamy. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing PINK towel only wrapped around body. At edge of traditional bath. Steam rising. PLEASER FLAMINGO-808 pink 8-inch platform heels by pool edge. Ryokan onsen. Sensual bathing pose. Expression: relaxation. Onsen beauty. Seductive glamour photography, steam soft lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Chinese New Year
 
 ```
-Professional lunar new year photography of glamorous woman with platinum blonde bob haircut with straight bangs with red flower. Flawless porcelain skin celebration. HEAVY GLAMOUR MAKEUP: dramatic red accent eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED and PINK qipao celebration style. Red envelopes hongbao in hands. Firecrackers background. PLEASER FLAMINGO-808 red 8-inch platform heels. Chinatown celebration. Sensual new year pose. Expression: gong xi fa cai. Lunar new year. Seductive glamour photography, red lantern lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lunar new year photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with red flower. Flawless porcelain skin celebration. HEAVY GLAMOUR MAKEUP: dramatic red accent eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED and PINK qipao celebration style. Red envelopes hongbao in hands. Firecrackers background. PLEASER FLAMINGO-808 red 8-inch platform heels. Chinatown celebration. Sensual new year pose. Expression: gong xi fa cai. Lunar new year. Seductive glamour photography, red lantern lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Sushi Chef Glamour
 
 ```
-Professional sushi photography of glamorous woman with platinum blonde bob haircut with straight bangs with headband. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK chef coat modified cute, white hachimaki headband. Holding sushi knife. Sushi counter. PLEASER FLAMINGO-808 pink 8-inch platform heels. High-end sushi restaurant. Sensual chef pose. Expression: omakase. Sushi girl. Seductive glamour photography, sushi bar lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sushi photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with headband. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK chef coat modified cute, white hachimaki headband. Holding sushi knife. Sushi counter. PLEASER FLAMINGO-808 pink 8-inch platform heels. High-end sushi restaurant. Sensual chef pose. Expression: omakase. Sushi girl. Seductive glamour photography, sushi bar lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Thai Songkran
 
 ```
-Professional Songkran photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin water dripping. HEAVY GLAMOUR MAKEUP waterproof: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE wet t-shirt turning sheer, PINK bikini visible. Water gun in hand. Festival crowd. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. Songkran street party. Sensual water fight pose. Expression: happy new year Thai style. Songkran queen. Seductive glamour photography, water splash lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Songkran photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin water dripping. HEAVY GLAMOUR MAKEUP waterproof: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE wet t-shirt turning sheer, PINK bikini visible. Water gun in hand. Festival crowd. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. Songkran street party. Sensual water fight pose. Expression: happy new year Thai style. Songkran queen. Seductive glamour photography, water splash lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Geisha Training
 
 ```
-Professional maiko photography of glamorous woman with platinum blonde bob haircut with straight bangs hidden under black wig in maiko style. Flawless porcelain skin white makeup lighter than geisha. HEAVY GLAMOUR MAKEUP: traditional maiko style, red accents, thick winged eyeliner, long false lashes, arched brows, full RED lips on lower only. Human realistic face. Wearing PINK formal kimono maiko trainee, obi enormous. PLEASER FLAMINGO-808 pink 8-inch okobo style. Kyoto street. Sensual learning pose. Expression: becoming geisha. Maiko. Seductive glamour photography, traditional Kyoto lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional maiko photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) hidden under black wig in maiko style. Flawless porcelain skin white makeup lighter than geisha. HEAVY GLAMOUR MAKEUP: traditional maiko style, red accents, thick winged eyeliner, long false lashes, arched brows, full RED lips on lower only. Human realistic face. Wearing PINK formal kimono maiko trainee, obi enormous. PLEASER FLAMINGO-808 pink 8-inch okobo style. Kyoto street. Sensual learning pose. Expression: becoming geisha. Maiko. Seductive glamour photography, traditional Kyoto lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

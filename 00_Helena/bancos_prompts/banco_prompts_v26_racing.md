@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,61 +65,61 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Pink Grid Girl
 
 ```
-Professional motorsport photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK grid girl outfit, crop top with sponsor logos, mini shorts. Holding driver name board. PLEASER FLAMINGO-808 pink 8-inch platform heels on grid. Race track start line. Sensual grid girl pose. Expression: race time. Grid girl. Seductive glamour photography, track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional motorsport photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK grid girl outfit, crop top with sponsor logos, mini shorts. Holding driver name board. PLEASER FLAMINGO-808 pink 8-inch platform heels on grid. Race track start line. Sensual grid girl pose. Expression: race time. Grid girl. Seductive glamour photography, track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Victory Lane Champagne
 
 ```
-Professional victory photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin wet from champagne. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing jumpsuit unzipped to waist, bikini underneath. Spraying champagne. PLEASER FLAMINGO-808 pink 8-inch platform heels. Victory podium. Sensual celebration pose. Expression: we won. Victory lane. Seductive glamour photography, celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional victory photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin wet from champagne. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing jumpsuit unzipped to waist, bikini underneath. Spraying champagne. PLEASER FLAMINGO-808 pink 8-inch platform heels. Victory podium. Sensual celebration pose. Expression: we won. Victory lane. Seductive glamour photography, celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Pit Lane Walk
 
 ```
-Professional pit lane photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK team polo tight fit, WHITE mini skirt. VIP lanyard. Walking pit lane during race. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pit lane with cars. Sensual confident walk pose. Expression: all access. Pit lane walk. Seductive glamour photography, action lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pit lane photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK team polo tight fit, WHITE mini skirt. VIP lanyard. Walking pit lane during race. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pit lane with cars. Sensual confident walk pose. Expression: all access. Pit lane walk. Seductive glamour photography, action lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Race Queen Umbrella
 
 ```
-Professional parasol photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin protected from sun. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK race queen outfit, matching PINK umbrella above. Sponsor logos. PLEASER FLAMINGO-808 pink 8-inch platform heels. Grid before race, shielding driver. Sensual umbrella pose. Expression: shade service. Race queen. Seductive glamour photography, sunny track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional parasol photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin protected from sun. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK race queen outfit, matching PINK umbrella above. Sponsor logos. PLEASER FLAMINGO-808 pink 8-inch platform heels. Grid before race, shielding driver. Sensual umbrella pose. Expression: shade service. Race queen. Seductive glamour photography, sunny track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Checkered Flag Wave
 
 ```
-Professional finish line photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK and WHITE racing outfit. Waving BLACK AND WHITE checkered flag overhead dynamically. PLEASER FLAMINGO-808 pink 8-inch platform heels on flag stand. Finish line. Sensual flag wave pose. Expression: race finished. Checkered flag. Seductive glamour photography, action lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional finish line photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK and WHITE racing outfit. Waving BLACK AND WHITE checkered flag overhead dynamically. PLEASER FLAMINGO-808 pink 8-inch platform heels on flag stand. Finish line. Sensual flag wave pose. Expression: race finished. Checkered flag. Seductive glamour photography, action lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Helmet Hold
 
 ```
-Professional portrait photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing suit unzipped at top. Holding PINK racing helmet at hip. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage background. Sensual racer pose. Expression: ready to race. Helmet portrait. Seductive glamour photography, garage lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional portrait photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing suit unzipped at top. Holding PINK racing helmet at hip. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage background. Sensual racer pose. Expression: ready to race. Helmet portrait. Seductive glamour photography, garage lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Car Hood Model
 
 ```
-Professional car photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin reflecting car paint. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini top, denim shorts with racing patches. Lying on hood of PINK race car. PLEASER FLAMINGO-808 pink 8-inch platform heels. Car show/pit area. Sensual car model pose. Expression: car beauty. Hood model. Seductive glamour photography, car show lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional car photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin reflecting car paint. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini top, denim shorts with racing patches. Lying on hood of PINK race car. PLEASER FLAMINGO-808 pink 8-inch platform heels. Car show/pit area. Sensual car model pose. Expression: car beauty. Hood model. Seductive glamour photography, car show lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Trophy Presentation
 
 ```
-Professional ceremony photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cocktail dress elegant. Presenting GOLD trophy to winner (cropped, focus on her). PLEASER FLAMINGO-808 gold 8-inch platform heels. Winners podium stage. Sensual presentation pose. Expression: congratulations. Trophy girl. Seductive glamour photography, ceremony lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ceremony photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cocktail dress elegant. Presenting GOLD trophy to winner (cropped, focus on her). PLEASER FLAMINGO-808 gold 8-inch platform heels. Winners podium stage. Sensual presentation pose. Expression: congratulations. Trophy girl. Seductive glamour photography, ceremony lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Pit Stop Action
 
 ```
-Professional action photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK pit crew outfit, cap backwards. Holding tire (lightweight prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Pit stop chaos (car motion blur). Sensual action pose. Expression: pit crew glam. Pit stop. Seductive glamour photography, action blur lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional action photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK pit crew outfit, cap backwards. Holding tire (lightweight prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Pit stop chaos (car motion blur). Sensual action pose. Expression: pit crew glam. Pit stop. Seductive glamour photography, action blur lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Racing Jumpsuit Unzip
 
 ```
-Professional garage photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin glistening. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing jumpsuit unzipped halfway, pink sports bra visible. Cooling off. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage with tools. Sensual cooling pose. Expression: hot in here. Garage cool down. Seductive glamour photography, garage lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional garage photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glistening. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing jumpsuit unzipped halfway, pink sports bra visible. Cooling off. PLEASER FLAMINGO-808 pink 8-inch platform heels. Garage with tools. Sensual cooling pose. Expression: hot in here. Garage cool down. Seductive glamour photography, garage lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -259,61 +261,61 @@ Professional mechanic photography of young elegant goth glamour woman inspired b
 #### 31. Miss Doll - Pink Dragster
 
 ```
-Professional drag racing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin chrome reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sequin racing bikini. Sitting on HOT PINK custom dragster. Smoke from burnout surrounding her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Drag strip. Sensual dragster pose. Expression: quarter mile princess. Pink dragster. Seductive glamour photography, burnout smoke lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional drag racing photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin chrome reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sequin racing bikini. Sitting on HOT PINK custom dragster. Smoke from burnout surrounding her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Drag strip. Sensual dragster pose. Expression: quarter mile princess. Pink dragster. Seductive glamour photography, burnout smoke lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Monaco Yacht Grid
 
 ```
-Professional Monaco photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Mediterranean tan. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing WHITE designer mini dress with PINK accents. On luxury yacht with F1 visible in background. Champagne glass in hand. PLEASER FLAMINGO-808 gold 8-inch platform heels. Monaco harbor. Sensual yacht pose. Expression: VIP access. Monaco VIP. Seductive glamour photography, Mediterranean luxury lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Monaco photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin Mediterranean tan. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing WHITE designer mini dress with PINK accents. On luxury yacht with F1 visible in background. Champagne glass in hand. PLEASER FLAMINGO-808 gold 8-inch platform heels. Monaco harbor. Sensual yacht pose. Expression: VIP access. Monaco VIP. Seductive glamour photography, Mediterranean luxury lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Rally Country Girl
 
 ```
-Professional rally photography of glamorous woman with platinum blonde bob haircut with straight bangs slightly dusty. Flawless porcelain skin outdoorsy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK flannel crop top tied, denim shorts. Sitting on rally car hood covered in mud. Holding rally time card. PLEASER pink 8-inch platform heels somehow clean. Forest rally stage. Sensual country pose. Expression: rally babe. Rally girl. Seductive glamour photography, forest natural lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rally photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slightly dusty. Flawless porcelain skin outdoorsy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK flannel crop top tied, denim shorts. Sitting on rally car hood covered in mud. Holding rally time card. PLEASER pink 8-inch platform heels somehow clean. Forest rally stage. Sensual country pose. Expression: rally babe. Rally girl. Seductive glamour photography, forest natural lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Pink Ferrari Dream
 
 ```
-Professional supercar photography of glamorous woman with platinum blonde bob haircut with straight bangs wind effect. Flawless porcelain skin luxury glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips Ferrari red. Human realistic face. Wearing PINK bodycon dress matching PINK Ferrari 488. Leaning seductively on car hood. Prancing horse logo visible. PLEASER FLAMINGO-808 red 8-inch platform heels. Luxury car showroom. Sensual supercar pose. Expression: la dolce vita. Ferrari dream. Seductive glamour photography, showroom dramatic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional supercar photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin luxury glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips Ferrari red. Human realistic face. Wearing PINK bodycon dress matching PINK Ferrari 488. Leaning seductively on car hood. Prancing horse logo visible. PLEASER FLAMINGO-808 red 8-inch platform heels. Luxury car showroom. Sensual supercar pose. Expression: la dolce vita. Ferrari dream. Seductive glamour photography, showroom dramatic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Indy 500 Milk Queen
 
 ```
-Professional Indy 500 photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin victory celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK victory dress. Holding traditional bottle of milk. At victory lane Indianapolis Motor Speedway. Confetti falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Indy 500 victory lane. Sensual milk celebration pose. Expression: Indy winner tradition. Milk queen. Seductive glamour photography, victory celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Indy 500 photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin victory celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK victory dress. Holding traditional bottle of milk. At victory lane Indianapolis Motor Speedway. Confetti falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Indy 500 victory lane. Sensual milk celebration pose. Expression: Indy winner tradition. Milk queen. Seductive glamour photography, victory celebration lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Formula E Electric
 
 ```
-Professional electric racing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin futuristic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with BLUE tech accents, thick winged eyeliner, long false lashes, arched brows, full glossy ELECTRIC BLUE lips. Human realistic face. Wearing WHITE and PINK futuristic racing suit with LED accents. Next to Formula E car on charge. City circuit background. PLEASER FLAMINGO-808 white with blue LED 8-inch platform heels. Formula E pit lane. Sensual future pose. Expression: electric future. FE grid. Seductive glamour photography, electric blue futuristic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional electric racing photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin futuristic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with BLUE tech accents, thick winged eyeliner, long false lashes, arched brows, full glossy ELECTRIC BLUE lips. Human realistic face. Wearing WHITE and PINK futuristic racing suit with LED accents. Next to Formula E car on charge. City circuit background. PLEASER FLAMINGO-808 white with blue LED 8-inch platform heels. Formula E pit lane. Sensual future pose. Expression: electric future. FE grid. Seductive glamour photography, electric blue futuristic lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 37. Miss Doll - Hot Rod Show
 
 ```
-Professional car show photography of glamorous woman with platinum blonde bob haircut with straight bangs retro styled. Flawless porcelain skin vintage pin-up. HEAVY GLAMOUR MAKEUP: dramatic winged eyeliner 1950s style, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK poodle skirt outfit car show style. Posing with HOT PINK custom hot rod with flames. Chrome details everywhere. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hot rod car show. Sensual pin-up pose. Expression: rockabilly queen. Hot rod show. Seductive glamour photography, car show lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional car show photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) retro styled. Flawless porcelain skin vintage pin-up. HEAVY GLAMOUR MAKEUP: dramatic winged eyeliner 1950s style, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK poodle skirt outfit car show style. Posing with HOT PINK custom hot rod with flames. Chrome details everywhere. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hot rod car show. Sensual pin-up pose. Expression: rockabilly queen. Hot rod show. Seductive glamour photography, car show lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 38. Miss Doll - Superbike Umbrella Girl
 
 ```
-Professional MotoGP photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin track day. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK latex crop top, PINK mini skirt sponsor logos. Holding umbrella over motorcycle rider on grid. Superbike visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. MotoGP grid start. Sensual umbrella pose. Expression: pre-race focus. Superbike umbrella. Seductive glamour photography, grid start lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional MotoGP photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin track day. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK latex crop top, PINK mini skirt sponsor logos. Holding umbrella over motorcycle rider on grid. Superbike visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. MotoGP grid start. Sensual umbrella pose. Expression: pre-race focus. Superbike umbrella. Seductive glamour photography, grid start lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 39. Miss Doll - Go-Kart Girly
 
 ```
-Professional karting photography of glamorous woman with platinum blonde bob haircut with straight bangs in pink helmet. Flawless porcelain skin competitive. HEAVY GLAMOUR MAKEUP visible through open visor: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kart racing suit with hearts. Sitting in PINK custom go-kart number 7. About to race. PLEASER removed, racing boots pink. Kart track. Sensual racer pose. Expression: race mode. Kart girly. Seductive glamour photography, kart track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional karting photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in pink helmet. Flawless porcelain skin competitive. HEAVY GLAMOUR MAKEUP visible through open visor: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK kart racing suit with hearts. Sitting in PINK custom go-kart number 7. About to race. PLEASER removed, racing boots pink. Kart track. Sensual racer pose. Expression: race mode. Kart girly. Seductive glamour photography, kart track lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - Daytona 500 Princess
 
 ```
-Professional NASCAR photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin Florida sun. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes behind sunglasses, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK NASCAR team outfit, cowboy hat pink. At Daytona International Speedway. NASCAR vehicles in background. PLEASER FLAMINGO-808 pink 8-inch platform heels. Daytona pit lane. Sensual Southern belle pose. Expression: Southern racing royalty. Daytona princess. Seductive glamour photography, Florida sunshine lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional NASCAR photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin Florida sun. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes behind sunglasses, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK NASCAR team outfit, cowboy hat pink. At Daytona International Speedway. NASCAR vehicles in background. PLEASER FLAMINGO-808 pink 8-inch platform heels. Daytona pit lane. Sensual Southern belle pose. Expression: Southern racing royalty. Daytona princess. Seductive glamour photography, Florida sunshine lighting, motorsport aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

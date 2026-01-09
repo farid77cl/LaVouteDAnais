@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Sexy Santa Pink
 
 ```
-Professional Christmas photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink Santa hat. Flawless porcelain skin festive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK velvet Santa dress ultra short, white fur trim. Holding red sack of gifts. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas tree background. Sensual Santa pose. Expression: ho ho ho. Pink Santa. Seductive glamour photography, Christmas lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Christmas photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink Santa hat. Flawless porcelain skin festive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK velvet Santa dress ultra short, white fur trim. Holding red sack of gifts. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas tree background. Sensual Santa pose. Expression: ho ho ho. Pink Santa. Seductive glamour photography, Christmas lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Sexy Elf Workshop
 
 ```
-Professional elf photography of glamorous woman with platinum blonde bob haircut with straight bangs under elf hat with bells. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes green accent, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and GREEN elf costume ultra short, striped stockings. In Santa's workshop making toys. PLEASER FLAMINGO-808 green 8-inch platform heels with bells. Workshop interior. Sensual elf pose. Expression: making naughty list. Pink elf. Seductive glamour photography, workshop warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional elf photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under elf hat with bells. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes green accent, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and GREEN elf costume ultra short, striped stockings. In Santa's workshop making toys. PLEASER FLAMINGO-808 green 8-inch platform heels with bells. Workshop interior. Sensual elf pose. Expression: making naughty list. Pink elf. Seductive glamour photography, workshop warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Gift Box Reveal
 
 ```
-Professional gift photography of glamorous woman with platinum blonde bob haircut with straight bangs with gift bow. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK gift box wrapped in huge red ribbon. RED ribbon around her body as clothing. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas morning setting. Sensual surprise pose. Expression: I'm your gift. Gift reveal. Seductive glamour photography, window morning lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gift photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with gift bow. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK gift box wrapped in huge red ribbon. RED ribbon around her body as clothing. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas morning setting. Sensual surprise pose. Expression: I'm your gift. Gift reveal. Seductive glamour photography, window morning lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Candy Cane Pose
 
 ```
-Professional candy photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED and WHITE striped lips. Human realistic face. Wearing WHITE and RED candy striper outfit. Licking giant candy cane suggestively. RED striped stockings. PLEASER FLAMINGO-808 red 8-inch platform heels. Candy land Christmas. Sensual licking pose. Expression: sweet tooth. Candy cane. Seductive glamour photography, candy bright lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional candy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED and WHITE striped lips. Human realistic face. Wearing WHITE and RED candy striper outfit. Licking giant candy cane suggestively. RED striped stockings. PLEASER FLAMINGO-808 red 8-inch platform heels. Candy land Christmas. Sensual licking pose. Expression: sweet tooth. Candy cane. Seductive glamour photography, candy bright lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Christmas Lingerie
 
 ```
-Professional lingerie photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin festive. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing RED and WHITE lace Christmas lingerie set, Santa hat, white fur details. Lying by Christmas tree. Gifts around. PLEASER FLAMINGO-808 red 8-inch platform heels. Living room tree. Sensual lingerie pose. Expression: unwrap me. Christmas lingerie. Seductive glamour photography, tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lingerie photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin festive. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing RED and WHITE lace Christmas lingerie set, Santa hat, white fur details. Lying by Christmas tree. Gifts around. PLEASER FLAMINGO-808 red 8-inch platform heels. Living room tree. Sensual lingerie pose. Expression: unwrap me. Christmas lingerie. Seductive glamour photography, tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Chimney Stuck
 
 ```
-Professional funny sexy photography of glamorous woman with platinum blonde bob haircut with straight bangs covered in soot. Flawless porcelain skin with artistic soot marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Santa outfit, stuck in chimney from waist down showing rear. Legs kicking. PLEASER FLAMINGO-808 pink 8-inch platform heels in air. Chimney setting. Sensual silly pose. Expression: oops help. Chimney stuck. Seductive glamour photography, fireplace lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional funny sexy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) covered in soot. Flawless porcelain skin with artistic soot marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Santa outfit, stuck in chimney from waist down showing rear. Legs kicking. PLEASER FLAMINGO-808 pink 8-inch platform heels in air. Chimney setting. Sensual silly pose. Expression: oops help. Chimney stuck. Seductive glamour photography, fireplace lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Snow Angel
 
 ```
-Professional snow photography of glamorous woman with platinum blonde bob haircut with straight bangs with snowflakes. Flawless porcelain skin snow white. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes ICE BLUE, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE faux fur bikini set angel wings. Making snow angel shape lying in snow. Snow falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Snowy field. Sensual angel pose. Expression: winter angel. Snow angel. Seductive glamour photography, snow natural lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snow photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with snowflakes. Flawless porcelain skin snow white. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes ICE BLUE, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE faux fur bikini set angel wings. Making snow angel shape lying in snow. Snow falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Snowy field. Sensual angel pose. Expression: winter angel. Snow angel. Seductive glamour photography, snow natural lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Gingerbread House
 
 ```
-Professional gingerbread photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with icing. Human realistic face. Wearing PINK and WHITE candy-inspired outfit, frosting patterns. Decorating giant gingerbread house. Icing bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: sweet creation. Gingerbread. Seductive glamour photography, warm kitchen lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gingerbread photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with icing. Human realistic face. Wearing PINK and WHITE candy-inspired outfit, frosting patterns. Decorating giant gingerbread house. Icing bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: sweet creation. Gingerbread. Seductive glamour photography, warm kitchen lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Ice Skating Princess
 
 ```
-Professional skating photography of glamorous woman with platinum blonde bob haircut with straight bangs under fuzzy earmuffs. Flawless porcelain skin winter flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK velvet skating dress ultra short, white faux fur trim. On ice skating in pose. Ice skates silver. PLEASER removed, skating. Ice rink decorated Christmas. Sensual skating pose. Expression: winter grace. Ice princess. Seductive glamour photography, rink lighting Christmas, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional skating photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under fuzzy earmuffs. Flawless porcelain skin winter flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK velvet skating dress ultra short, white faux fur trim. On ice skating in pose. Ice skates silver. PLEASER removed, skating. Ice rink decorated Christmas. Sensual skating pose. Expression: winter grace. Ice princess. Seductive glamour photography, rink lighting Christmas, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Hot Cocoa Cozy
 
 ```
-Professional cozy photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin cozy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK fuzzy sweater oversized, nothing else visible. Holding mug of hot cocoa with whipped cream. By fireplace. PLEASER FLAMINGO-808 pink fuzzy slippers. Living room fire. Sensual cozy pose. Expression: warm and cozy. Hot cocoa. Seductive glamour photography, fireplace warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cozy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cozy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK fuzzy sweater oversized, nothing else visible. Holding mug of hot cocoa with whipped cream. By fireplace. PLEASER FLAMINGO-808 pink fuzzy slippers. Living room fire. Sensual cozy pose. Expression: warm and cozy. Hot cocoa. Seductive glamour photography, fireplace warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Reindeer Girl
 
 ```
-Professional reindeer photography of glamorous woman with platinum blonde bob haircut with straight bangs with reindeer antlers headband. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED NOSE painted. Human realistic face. Wearing BROWN velvet bodysuit reindeer spots, fluffy tail. Pulling sleigh pose. PLEASER FLAMINGO-808 brown 8-inch platform heels. Snowy North Pole. Sensual reindeer pose. Expression: lead the way. Reindeer girl. Seductive glamour photography, snowy sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reindeer photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with reindeer antlers headband. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED NOSE painted. Human realistic face. Wearing BROWN velvet bodysuit reindeer spots, fluffy tail. Pulling sleigh pose. PLEASER FLAMINGO-808 brown 8-inch platform heels. Snowy North Pole. Sensual reindeer pose. Expression: lead the way. Reindeer girl. Seductive glamour photography, snowy sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Nutcracker Ballerina
 
 ```
-Professional ballet photography of glamorous woman with platinum blonde bob haircut with straight bangs in ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Sugar Plum Fairy tutu costume, tiara. Ballet pose en pointe. Nutcracker beside. PLEASER FLAMINGO-808 removed, ballet slippers pink. Nutcracker stage. Sensual ballet pose. Expression: sugarplum dreams. Nutcracker. Seductive glamour photography, stage spotlight lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ballet photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Sugar Plum Fairy tutu costume, tiara. Ballet pose en pointe. Nutcracker beside. PLEASER FLAMINGO-808 removed, ballet slippers pink. Nutcracker stage. Sensual ballet pose. Expression: sugarplum dreams. Nutcracker. Seductive glamour photography, stage spotlight lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Mistletoe Waiting
 
 ```
-Professional mistletoe photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin hopeful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips puckered. Human realistic face. Wearing WHITE and RED holiday dress festive. Standing under mistletoe, pointing up, waiting for kiss. PLEASER FLAMINGO-808 red 8-inch platform heels. Doorway decorated. Sensual waiting pose. Expression: kiss me. Mistletoe. Seductive glamour photography, doorway romantic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mistletoe photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin hopeful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips puckered. Human realistic face. Wearing WHITE and RED holiday dress festive. Standing under mistletoe, pointing up, waiting for kiss. PLEASER FLAMINGO-808 red 8-inch platform heels. Doorway decorated. Sensual waiting pose. Expression: kiss me. Mistletoe. Seductive glamour photography, doorway romantic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - New Year's Kiss Countdown
 
 ```
-Professional New Year photography of glamorous woman with platinum blonde bob haircut with straight bangs in party favor tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing GOLD sequin mini dress New Year's Eve. Champagne in hand about to kiss. Clock showing 11:59. PLEASER FLAMINGO-808 gold 8-inch platform heels. NYE party. Sensual countdown pose. Expression: 3, 2, 1. NYE countdown. Seductive glamour photography, party confetti lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional New Year photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in party favor tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing GOLD sequin mini dress New Year's Eve. Champagne in hand about to kiss. Clock showing 11:59. PLEASER FLAMINGO-808 gold 8-inch platform heels. NYE party. Sensual countdown pose. Expression: 3, 2, 1. NYE countdown. Seductive glamour photography, party confetti lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Sleigh Ride
 
 ```
-Professional sleigh photography of glamorous woman with platinum blonde bob haircut with straight bangs under winter hat. Flawless porcelain skin cold flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK faux fur coat open, pink sweater dress. Riding in one-horse open sleigh. Snow falling. PLEASER FLAMINGO-808 pink snow boots. Winter forest. Sensual sleigh pose. Expression: jingle bells. Sleigh ride. Seductive glamour photography, snowy forest lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sleigh photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under winter hat. Flawless porcelain skin cold flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK faux fur coat open, pink sweater dress. Riding in one-horse open sleigh. Snow falling. PLEASER FLAMINGO-808 pink snow boots. Winter forest. Sensual sleigh pose. Expression: jingle bells. Sleigh ride. Seductive glamour photography, snowy forest lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Present Bow Bikini
 
 ```
-Professional minimal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only GIANT RED ribbon bows in bikini formation covering body. Under Christmas tree. Gift tag attached reads "To: You". PLEASER FLAMINGO-808 red 8-inch platform heels. Tree setting. Sensual gift pose. Expression: special delivery. Bow bikini. Seductive glamour photography, tree glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional minimal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only GIANT RED ribbon bows in bikini formation covering body. Under Christmas tree. Gift tag attached reads "To: You". PLEASER FLAMINGO-808 red 8-inch platform heels. Tree setting. Sensual gift pose. Expression: special delivery. Bow bikini. Seductive glamour photography, tree glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Snowball Fight
 
 ```
-Professional action photography of glamorous woman with platinum blonde bob haircut with straight bangs wind effect. Flawless porcelain skin winter pink. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK puffer jacket short, white leggings. Throwing snowball playfully at camera. Snow exploding. PLEASER FLAMINGO-808 pink snow boots. Winter park. Sensual playful pose. Expression: take that. Snowball. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional action photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin winter pink. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK puffer jacket short, white leggings. Throwing snowball playfully at camera. Snow exploding. PLEASER FLAMINGO-808 pink snow boots. Winter park. Sensual playful pose. Expression: take that. Snowball. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Holiday Baking
 
 ```
-Professional baking photography of glamorous woman with platinum blonde bob haircut with straight bangs with flour dusting. Flawless porcelain skin kitchen warm. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK apron only, nothing visible underneath. Baking Christmas cookies, flour mess, cookie cutters. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: taste test. Holiday baking. Seductive glamour photography, kitchen warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baking photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with flour dusting. Flawless porcelain skin kitchen warm. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK apron only, nothing visible underneath. Baking Christmas cookies, flour mess, cookie cutters. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: taste test. Holiday baking. Seductive glamour photography, kitchen warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Ornament Hanging
 
 ```
-Professional decorating photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin holiday glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SHORT holiday sweater dress reaching up to hang ornament. Ladder pose, leg extended. Tree ornament in hand. PLEASER FLAMINGO-808 red 8-inch platform heels on ladder. Christmas tree. Sensual reaching pose. Expression: perfect spot. Decorating. Seductive glamour photography, tree sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional decorating photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin holiday glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SHORT holiday sweater dress reaching up to hang ornament. Ladder pose, leg extended. Tree ornament in hand. PLEASER FLAMINGO-808 red 8-inch platform heels on ladder. Christmas tree. Sensual reaching pose. Expression: perfect spot. Decorating. Seductive glamour photography, tree sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Mrs. Claus Young
 
 ```
-Professional Mrs. Claus photography of glamorous woman with platinum blonde bob haircut with straight bangs under white wig. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED velvet Mrs. Claus gown modern sexy version, white fur trim. In North Pole house. Santa's chair nearby. PLEASER FLAMINGO-808 red 8-inch platform heels. North Pole home. Sensual Mrs. Claus pose. Expression: while Santa's away. Mrs. Claus. Seductive glamour photography, cozy North Pole lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Mrs. Claus photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white wig. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED velvet Mrs. Claus gown modern sexy version, white fur trim. In North Pole house. Santa's chair nearby. PLEASER FLAMINGO-808 red 8-inch platform heels. North Pole home. Sensual Mrs. Claus pose. Expression: while Santa's away. Mrs. Claus. Seductive glamour photography, cozy North Pole lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

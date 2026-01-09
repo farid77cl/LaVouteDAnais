@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -250,91 +252,91 @@ Professional overtime photography of young elegant goth glamour woman inspired b
 #### 31. Miss Doll - Reception Greeting
 
 ```
-Professional reception photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in practiced smile. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible under white blouse slightly unbuttoned. Pink pencil skirt very tight. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Standing behind reception desk, hand extended. Sensual pose with arched back, bedroom eyes. Expression: welcome, how may I help. Pink-accented corporate reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reception photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in practiced smile. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible under white blouse slightly unbuttoned. Pink pencil skirt very tight. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Standing behind reception desk, hand extended. Sensual pose with arched back, bedroom eyes. Expression: welcome, how may I help. Pink-accented corporate reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Coffee Delivery
 
 ```
-Professional service photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under pink cardigan. Pink mini skirt. PLEASER FLAMINGO-808 pink 8-inch heel clicking. Carrying tray with multiple coffee cups, walking carefully. Sensual pose with arched back, bedroom eyes. Expression: concentrated delivery. Corporate hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under pink cardigan. Pink mini skirt. PLEASER FLAMINGO-808 pink 8-inch heel clicking. Carrying tray with multiple coffee cups, walking carefully. Sensual pose with arched back, bedroom eyes. Expression: concentrated delivery. Corporate hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Phone Answering
 
 ```
-Professional phone photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in phone voice. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible at neckline. White blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Phone to ear, other hand writing message on pink sticky note. Sensual pose with arched back, bedroom eyes. Expression: one moment please. Reception desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional phone photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in phone voice. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible at neckline. White blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Phone to ear, other hand writing message on pink sticky note. Sensual pose with arched back, bedroom eyes. Expression: one moment please. Reception desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Filing Confusion
 
 ```
-Professional filing photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in confused pout. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under white blouse. Pink pants tight. PLEASER FLAMINGO-808 pink 8-inch heel. Staring at filing cabinet alphabet letters, confused where to file. Sensual pose with arched back, bedroom eyes. Expression: wait, is Lopez L or P. File room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional filing photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in confused pout. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under white blouse. Pink pants tight. PLEASER FLAMINGO-808 pink 8-inch heel. Staring at filing cabinet alphabet letters, confused where to file. Sensual pose with arched back, bedroom eyes. Expression: wait, is Lopez L or P. File room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Copy Machine
 
 ```
-Professional copier photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional dress short. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at copy machine, watching pages come out. Sensual pose with arched back, bedroom eyes. Expression: 200 copies. Copy room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional copier photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional dress short. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at copy machine, watching pages come out. Sensual pose with arched back, bedroom eyes. Expression: 200 copies. Copy room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Scheduling
 
 ```
-Professional calendar photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under soft pink blouse. Pink skirt. PLEASER FLAMINGO-808 8-inch heel. Looking at computer calendar, trying to fit meeting, pencil chewing. Sensual pose with arched back, bedroom eyes. Expression: where does this go. Secretary desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional calendar photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under soft pink blouse. Pink skirt. PLEASER FLAMINGO-808 8-inch heel. Looking at computer calendar, trying to fit meeting, pencil chewing. Sensual pose with arched back, bedroom eyes. Expression: where does this go. Secretary desk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 37. Miss Doll - Message Taking
 
 ```
-Professional notepad photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible. White blouse. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel. Writing on pink message pad, phone cradled between shoulder and ear. Sensual pose with arched back, bedroom eyes. Expression: spelled how. Secretary station. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional notepad photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible. White blouse. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel. Writing on pink message pad, phone cradled between shoulder and ear. Sensual pose with arched back, bedroom eyes. Expression: spelled how. Secretary station. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 38. Miss Doll - Door Greeting
 
 ```
-Professional greeting photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips smiling. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional dress. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at glass door, holding it open for visitor. Sensual pose with arched back, bedroom eyes. Expression: right this way. Office entrance. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional greeting photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips smiling. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional dress. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at glass door, holding it open for visitor. Sensual pose with arched back, bedroom eyes. Expression: right this way. Office entrance. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 39. Miss Doll - Supply Closet
 
 ```
-Professional supplies photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under cardigan. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel on step stool. Reaching for supplies on high shelf. Sensual pose with arched back, bedroom eyes. Expression: pink staples exist. Supply closet. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional supplies photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under cardigan. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel on step stool. Reaching for supplies on high shelf. Sensual pose with arched back, bedroom eyes. Expression: pink staples exist. Supply closet. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - Lunch Order
 
 ```
-Professional lunch photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional top. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel. Holding menu from delivery app, polling office (hand gestures from others visible). Sensual pose with arched back, bedroom eyes. Expression: anyone want extra sauce. Open office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lunch photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink professional top. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel. Holding menu from delivery app, polling office (hand gestures from others visible). Sensual pose with arched back, bedroom eyes. Expression: anyone want extra sauce. Open office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 41. Miss Doll - Dictation
 
 ```
-Professional dictation photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under white blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Sitting with laptop, typing as someone dictates (implied speaker). Sensual pose with arched back, bedroom eyes. Expression: slower please. Boss's office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dictation photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips concentrated. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under white blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Sitting with laptop, typing as someone dictates (implied speaker). Sensual pose with arched back, bedroom eyes. Expression: slower please. Boss's office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 42. Miss Doll - Printer Jam
 
 ```
-Professional frustration photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in annoyed pout. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink dress short. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling at printer, pulling jammed paper, confused by mechanism. Sensual pose with arched back, bedroom eyes. Expression: not again. Copy room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional frustration photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in annoyed pout. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink dress short. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling at printer, pulling jammed paper, confused by mechanism. Sensual pose with arched back, bedroom eyes. Expression: not again. Copy room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 43. Miss Doll - Meeting Notes
 
 ```
-Professional notes photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under professional top. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel crossed under table. Taking notes at conference table corner, fast writing. Sensual pose with arched back, bedroom eyes. Expression: focused transcription. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional notes photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink corset under professional top. Pink pants. PLEASER FLAMINGO-808 pink 8-inch heel crossed under table. Taking notes at conference table corner, fast writing. Sensual pose with arched back, bedroom eyes. Expression: focused transcription. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 44. Miss Doll - End of Day
 
 ```
-Professional departure photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in tired smile. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink cardigan. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Putting on pink coat, grabbing pink purse, shutting down computer. Sensual pose with arched back, bedroom eyes. Expression: finally 5pm. Secretary desk dusk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional departure photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips in tired smile. Human realistic face. Feminine hourglass silhouette. Wearing pink corset. Pink cardigan. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel. Putting on pink coat, grabbing pink purse, shutting down computer. Sensual pose with arched back, bedroom eyes. Expression: finally 5pm. Secretary desk dusk. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 45. Miss Doll - Boss Summoned
 
 ```
-Professional summons photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips slightly nervous. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible. White blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel clicking. Opening boss's door, notepad in hand, nervous expression as if called in. Sensual pose with arched back, bedroom eyes. Expression: you wanted to see me. Executive office door. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional summons photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips slightly nervous. Human realistic face. Feminine hourglass silhouette. Wearing pink corset visible. White blouse. Pink skirt. PLEASER FLAMINGO-808 pink 8-inch heel clicking. Opening boss's door, notepad in hand, nervous expression as if called in. Sensual pose with arched back, bedroom eyes. Expression: you wanted to see me. Executive office door. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

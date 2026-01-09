@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Disco Ball Dress
 
 ```
-Professional club photography of glamorous woman with platinum blonde bob haircut with straight bangs reflecting light. Flawless porcelain skin disco reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SILVER holographic mini dress reflecting like disco ball. Dancing under giant disco ball. Reflections everywhere. PLEASER FLAMINGO-808 silver 8-inch platform heels. VIP dance floor. Sensual disco pose. Expression: dance queen. Disco dress. Seductive glamour photography, disco ball lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional club photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) reflecting light. Flawless porcelain skin disco reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SILVER holographic mini dress reflecting like disco ball. Dancing under giant disco ball. Reflections everywhere. PLEASER FLAMINGO-808 silver 8-inch platform heels. VIP dance floor. Sensual disco pose. Expression: dance queen. Disco dress. Seductive glamour photography, disco ball lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - VIP Bottle Service
 
 ```
-Professional VIP photography of glamorous woman with platinum blonde bob haircut with straight bangs club perfect. Flawless porcelain skin VIP glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK bodycon mini dress ultra tight. In VIP booth with champagne bottles sparklers. Pouring champagne. PLEASER FLAMINGO-808 pink 8-inch platform heels. VIP section club. Sensual VIP pose. Expression: bottle girl vibes. VIP queen. Seductive glamour photography, sparkler bottle lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional VIP photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) club perfect. Flawless porcelain skin VIP glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK bodycon mini dress ultra tight. In VIP booth with champagne bottles sparklers. Pouring champagne. PLEASER FLAMINGO-808 pink 8-inch platform heels. VIP section club. Sensual VIP pose. Expression: bottle girl vibes. VIP queen. Seductive glamour photography, sparkler bottle lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Neon Pink Dancer
 
 ```
-Professional neon photography of glamorous woman with platinum blonde bob haircut with straight bangs UV glow. Flawless porcelain skin neon reactive. HEAVY GLAMOUR MAKEUP: dramatic neon reactive eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NEON PINK lips. Human realistic face. Wearing NEON PINK mini dress UV reactive, neon accessories. Dancing under blacklights. Neon body paint accents. PLEASER FLAMINGO-808 neon pink 8-inch platform heels. EDM party. Sensual rave pose. Expression: glow girl. Neon dancer. Seductive glamour photography, UV blacklight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional neon photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) UV glow. Flawless porcelain skin neon reactive. HEAVY GLAMOUR MAKEUP: dramatic neon reactive eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NEON PINK lips. Human realistic face. Wearing NEON PINK mini dress UV reactive, neon accessories. Dancing under blacklights. Neon body paint accents. PLEASER FLAMINGO-808 neon pink 8-inch platform heels. EDM party. Sensual rave pose. Expression: glow girl. Neon dancer. Seductive glamour photography, UV blacklight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - DJ Booth Babe
 
 ```
-Professional DJ photography of glamorous woman with platinum blonde bob haircut with straight bangs with headphones. Flawless porcelain skin bass vibration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK crop top and mini skirt DJ outfit. Behind DJ booth touching turntables. LED panels behind. PLEASER FLAMINGO-808 pink 8-inch platform heels on booth. DJ stage. Sensual DJ pose. Expression: drop the bass. DJ babe. Seductive glamour photography, DJ LED lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional DJ photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with headphones. Flawless porcelain skin bass vibration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK crop top and mini skirt DJ outfit. Behind DJ booth touching turntables. LED panels behind. PLEASER FLAMINGO-808 pink 8-inch platform heels on booth. DJ stage. Sensual DJ pose. Expression: drop the bass. DJ babe. Seductive glamour photography, DJ LED lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Cocktail Sip
 
 ```
-Professional cocktail photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin bar glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK sequin mini dress. Sipping PINK cocktail from martini glass at bar. Leaning on bar. PLEASER FLAMINGO-808 pink 8-inch platform heels on bar rail. Club bar. Sensual sipping pose. Expression: cheers to the night. Cocktail queen. Seductive glamour photography, bar neon lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cocktail photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin bar glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK sequin mini dress. Sipping PINK cocktail from martini glass at bar. Leaning on bar. PLEASER FLAMINGO-808 pink 8-inch platform heels on bar rail. Club bar. Sensual sipping pose. Expression: cheers to the night. Cocktail queen. Seductive glamour photography, bar neon lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Go-Go Dancer
 
 ```
-Professional go-go photography of glamorous woman with platinum blonde bob haircut with straight bangs dancing. Flawless porcelain skin stage glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK go-go dancer outfit fringe. Dancing on elevated go-go platform. Cage or pedestal. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club go-go stage. Sensual go-go pose. Expression: dance all night. Go-go. Seductive glamour photography, stage spotlight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional go-go photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) dancing. Flawless porcelain skin stage glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK go-go dancer outfit fringe. Dancing on elevated go-go platform. Cage or pedestal. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club go-go stage. Sensual go-go pose. Expression: dance all night. Go-go. Seductive glamour photography, stage spotlight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Club Entry Line
 
 ```
-Professional entry photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin camera ready. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK designer mini dress club ready, clutch in hand. Skipping club line VIP style. Velvet rope being lifted. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club entrance. Sensual VIP entry pose. Expression: guest list. Club entry. Seductive glamour photography, paparazzi flash lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional entry photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin camera ready. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK designer mini dress club ready, clutch in hand. Skipping club line VIP style. Velvet rope being lifted. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club entrance. Sensual VIP entry pose. Expression: guest list. Club entry. Seductive glamour photography, paparazzi flash lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Dance Floor Queen
 
 ```
-Professional dance photography of glamorous woman with platinum blonde bob haircut with straight bangs movement blur artistic. Flawless porcelain skin sweat glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini bandage dress ultra tight. Dancing center of crowded dance floor. Arms up hair whipping. PLEASER FLAMINGO-808 pink 8-inch platform heels dancing. Main dance floor. Sensual dancing pose. Expression: losing myself to music. Dance queen. Seductive glamour photography, dance floor lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dance photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) movement blur artistic. Flawless porcelain skin sweat glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini bandage dress ultra tight. Dancing center of crowded dance floor. Arms up hair whipping. PLEASER FLAMINGO-808 pink 8-inch platform heels dancing. Main dance floor. Sensual dancing pose. Expression: losing myself to music. Dance queen. Seductive glamour photography, dance floor lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Champagne Shower
 
 ```
-Professional shower photography of glamorous woman with platinum blonde bob haircut with straight bangs wet from champagne. Flawless porcelain skin champagne dripping. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE mini dress now champagne wet. Champagne being sprayed on her celebrating. Laughing with abandon. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. VIP celebration. Sensual celebration pose. Expression: party never stops. Champagne shower. Seductive glamour photography, celebration lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shower photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet from champagne. Flawless porcelain skin champagne dripping. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE mini dress now champagne wet. Champagne being sprayed on her celebrating. Laughing with abandon. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. VIP celebration. Sensual celebration pose. Expression: party never stops. Champagne shower. Seductive glamour photography, celebration lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Club Bathroom Selfie
 
 ```
-Professional bathroom photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin mirror perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes being touched up, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips reapplying. Human realistic face. Wearing PINK sequin mini dress. In club bathroom mirror taking selfie, lipstick in other hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club bathroom mirror. Sensual selfie pose. Expression: quick touch up. Bathroom selfie. Seductive glamour photography, bathroom mirror lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bathroom photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin mirror perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes being touched up, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips reapplying. Human realistic face. Wearing PINK sequin mini dress. In club bathroom mirror taking selfie, lipstick in other hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club bathroom mirror. Sensual selfie pose. Expression: quick touch up. Bathroom selfie. Seductive glamour photography, bathroom mirror lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Laser Light Show
 
 ```
-Professional laser photography of glamorous woman with platinum blonde bob haircut with straight bangs laser beams crossing. Flawless porcelain skin laser colors. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK reflective mini dress laser reflections. Dancing with lasers cutting through air around. Arms reaching for lasers. PLEASER FLAMINGO-808 pink 8-inch platform heels. EDM laser show. Sensual light show pose. Expression: light rider. Laser show. Seductive glamour photography, laser beam lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional laser photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) laser beams crossing. Flawless porcelain skin laser colors. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK reflective mini dress laser reflections. Dancing with lasers cutting through air around. Arms reaching for lasers. PLEASER FLAMINGO-808 pink 8-inch platform heels. EDM laser show. Sensual light show pose. Expression: light rider. Laser show. Seductive glamour photography, laser beam lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Foam Party
 
 ```
-Professional foam photography of glamorous woman with platinum blonde bob haircut with straight bangs foam covered. Flawless porcelain skin foam bubbles. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini for foam party. Dancing in waist-deep foam. Foam bubbles everywhere. PLEASER FLAMINGO-808 pink 8-inch platform heels in foam. Foam party floor. Sensual foam pose. Expression: bubble fun. Foam party. Seductive glamour photography, foam party lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional foam photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) foam covered. Flawless porcelain skin foam bubbles. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini for foam party. Dancing in waist-deep foam. Foam bubbles everywhere. PLEASER FLAMINGO-808 pink 8-inch platform heels in foam. Foam party floor. Sensual foam pose. Expression: bubble fun. Foam party. Seductive glamour photography, foam party lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Bachelorette Party
 
 ```
-Professional bachelorette photography of glamorous woman with platinum blonde bob haircut with straight bangs with tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK "Bride" sash over WHITE mini dress. Bachelorette tiara, champagne in hand. Party props. PLEASER FLAMINGO-808 white 8-inch platform heels. VIP booth. Sensual bride pose. Expression: last night out. Bachelorette. Seductive glamour photography, celebration lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bachelorette photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK "Bride" sash over WHITE mini dress. Bachelorette tiara, champagne in hand. Party props. PLEASER FLAMINGO-808 white 8-inch platform heels. VIP booth. Sensual bride pose. Expression: last night out. Bachelorette. Seductive glamour photography, celebration lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Rooftop Lounge
 
 ```
-Professional rooftop photography of glamorous woman with platinum blonde bob haircut with straight bangs city backdrop. Flawless porcelain skin city glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK satin slip mini dress elegant. At rooftop lounge with city skyline. Cocktail on table. PLEASER FLAMINGO-808 gold 8-inch platform heels. Rooftop bar. Sensual skyline pose. Expression: top of the world. Rooftop. Seductive glamour photography, city night lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rooftop photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) city backdrop. Flawless porcelain skin city glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK satin slip mini dress elegant. At rooftop lounge with city skyline. Cocktail on table. PLEASER FLAMINGO-808 gold 8-inch platform heels. Rooftop bar. Sensual skyline pose. Expression: top of the world. Rooftop. Seductive glamour photography, city night lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Glow Stick Queen
 
 ```
-Professional glow photography of glamorous woman with platinum blonde bob haircut with straight bangs glow accessories. Flawless porcelain skin glow reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NEON PINK lips. Human realistic face. Wearing PINK outfit covered in glow stick necklaces and bracelets. Dancing with glow sticks. Rave fashion. PLEASER FLAMINGO-808 pink 8-inch platform heels glow laces. Festival dance. Sensual rave pose. Expression: glow queen. Glow sticks. Seductive glamour photography, glow stick neon lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glow photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) glow accessories. Flawless porcelain skin glow reflections. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NEON PINK lips. Human realistic face. Wearing PINK outfit covered in glow stick necklaces and bracelets. Dancing with glow sticks. Rave fashion. PLEASER FLAMINGO-808 pink 8-inch platform heels glow laces. Festival dance. Sensual rave pose. Expression: glow queen. Glow sticks. Seductive glamour photography, glow stick neon lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Club Pole Dance
 
 ```
-Professional pole photography of glamorous woman with platinum blonde bob haircut with straight bangs hair flip. Flawless porcelain skin stage shine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pole wear crop top and shorts. On pole in club doing spin move. Hair and money flying. PLEASER FLAMINGO-808 clear with pink 8-inch platform heels. Club stage. Sensual pole pose. Expression: spin queen. Club pole. Seductive glamour photography, pole spotlight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) hair flip. Flawless porcelain skin stage shine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pole wear crop top and shorts. On pole in club doing spin move. Hair and money flying. PLEASER FLAMINGO-808 clear with pink 8-inch platform heels. Club stage. Sensual pole pose. Expression: spin queen. Club pole. Seductive glamour photography, pole spotlight, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Uber Home
 
 ```
-Professional ride photography of glamorous woman with platinum blonde bob haircut with straight bangs tired but glam. Flawless porcelain skin end of night. HEAVY GLAMOUR MAKEUP slightly smudged: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini dress rumpled from dancing. In back of Uber home, head against window. Shoes in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels in lap. City lights through window. Sensual tired pose. Expression: best night ever. Uber home. Seductive glamour photography, car interior lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ride photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) tired but glam. Flawless porcelain skin end of night. HEAVY GLAMOUR MAKEUP slightly smudged: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini dress rumpled from dancing. In back of Uber home, head against window. Shoes in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels in lap. City lights through window. Sensual tired pose. Expression: best night ever. Uber home. Seductive glamour photography, car interior lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Photobooth Fun
 
 ```
-Professional photobooth photography of glamorous woman with platinum blonde bob haircut with straight bangs silly props. Flawless porcelain skin flash bright. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party dress. In club photobooth with silly props, oversized glasses, feather boa. Making poses. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Photobooth. Sensual fun pose. Expression: say cheese. Photobooth. Seductive glamour photography, flash booth lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional photobooth photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) silly props. Flawless porcelain skin flash bright. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party dress. In club photobooth with silly props, oversized glasses, feather boa. Making poses. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Photobooth. Sensual fun pose. Expression: say cheese. Photobooth. Seductive glamour photography, flash booth lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Coat Check Pickup
 
 ```
-Professional coat check photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin night ending. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK fur coat being put on over little mini dress. At coat check counter, ticket in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club coat check. Sensual pickup pose. Expression: end of night. Coat check. Seductive glamour photography, coat check lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional coat check photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin night ending. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK fur coat being put on over little mini dress. At coat check counter, ticket in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Club coat check. Sensual pickup pose. Expression: end of night. Coat check. Seductive glamour photography, coat check lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - VIP Rope Drop
 
 ```
-Professional VIP photography of glamorous woman with platinum blonde bob haircut with straight bangs confident. Flawless porcelain skin VIP glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK designer mini dress VIP ready. Bouncer dropping velvet rope for her personally. Walking through confidently. PLEASER FLAMINGO-808 pink 8-inch platform heels. VIP entrance. Sensual VIP entry pose. Expression: they know my name. VIP access. Seductive glamour photography, velvet rope lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional VIP photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) confident. Flawless porcelain skin VIP glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK designer mini dress VIP ready. Bouncer dropping velvet rope for her personally. Walking through confidently. PLEASER FLAMINGO-808 pink 8-inch platform heels. VIP entrance. Sensual VIP entry pose. Expression: they know my name. VIP access. Seductive glamour photography, velvet rope lighting, club aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

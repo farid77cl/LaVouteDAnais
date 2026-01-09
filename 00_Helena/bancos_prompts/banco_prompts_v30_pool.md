@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Pink Flamingo Float
 
 ```
-Professional pool photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin glistening wet. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK micro bikini. Lying on giant PINK flamingo pool float. Sunglasses on. Drink in hand. PLEASER clear acrylic heels poolside. Turquoise pool water. Sensual floating pose. Expression: pool queen. Flamingo float. Seductive glamour photography, bright summer lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pool photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin glistening wet. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK micro bikini. Lying on giant PINK flamingo pool float. Sunglasses on. Drink in hand. PLEASER clear acrylic heels poolside. Turquoise pool water. Sensual floating pose. Expression: pool queen. Flamingo float. Seductive glamour photography, bright summer lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Pool Edge Tease
 
 ```
-Professional pool edge photography of glamorous woman with platinum blonde bob haircut with straight bangs wet and slicked. Flawless porcelain skin wet dripping. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing NEON PINK string bikini. Emerging from pool at edge, arms on pool edge. Water dripping from body. PLEASER clear acrylic heels waiting on deck. Pool edge. Sensual emerging pose. Expression: pool siren. Pool edge. Seductive glamour photography, water reflection lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pool edge photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked. Flawless porcelain skin wet dripping. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing NEON PINK string bikini. Emerging from pool at edge, arms on pool edge. Water dripping from body. PLEASER clear acrylic heels waiting on deck. Pool edge. Sensual emerging pose. Expression: pool siren. Pool edge. Seductive glamour photography, water reflection lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Suntan Oil Application
 
 ```
-Professional sunbathing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin being oiled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes behind sunglasses, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini, strings untied for tanning. Applying PINK tinted suntan oil to shoulders. PLEASER clear acrylic platform heels poolside. Lounge chair by pool. Sensual oiling pose. Expression: sun worship. Tan oil. Seductive glamour photography, bright sun lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sunbathing photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin being oiled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes behind sunglasses, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini, strings untied for tanning. Applying PINK tinted suntan oil to shoulders. PLEASER clear acrylic platform heels poolside. Lounge chair by pool. Sensual oiling pose. Expression: sun worship. Tan oil. Seductive glamour photography, bright sun lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Watermelon Slice
 
 ```
-Professional summer photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED bikini matching watermelon. Biting into watermelon slice, juice dripping. PLEASER clear acrylic heels. Pool edge with picnic setup. Sensual eating summer fruit pose. Expression: summer sweetness. Watermelon. Seductive glamour photography, natural summer lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional summer photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED bikini matching watermelon. Biting into watermelon slice, juice dripping. PLEASER clear acrylic heels. Pool edge with picnic setup. Sensual eating summer fruit pose. Expression: summer sweetness. Watermelon. Seductive glamour photography, natural summer lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Pool Volleyball
 
 ```
-Professional sports photography of glamorous woman with platinum blonde bob haircut with straight bangs wet bouncing. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sports bikini. Jumping to hit volleyball in pool. Water splashing. PLEASER clear acrylic heels off, barefoot for play. Pool with net. Sensual athletic pose. Expression: game on. Pool volleyball. Seductive glamour photography, action splash lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sports photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet bouncing. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sports bikini. Jumping to hit volleyball in pool. Water splashing. PLEASER clear acrylic heels off, barefoot for play. Pool with net. Sensual athletic pose. Expression: game on. Pool volleyball. Seductive glamour photography, action splash lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Poolside Cocktail
 
 ```
-Professional cocktail photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin vacation glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK bikini top with sarong. Sipping tropical cocktail with umbrella. Poolside bar. PLEASER clear acrylic pink 8-inch platform heels. Tiki bar pool. Sensual sipping pose. Expression: vacation vibes. Pool cocktail. Seductive glamour photography, tropical bar lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cocktail photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin vacation glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around straw. Human realistic face. Wearing PINK bikini top with sarong. Sipping tropical cocktail with umbrella. Poolside bar. PLEASER clear acrylic pink 8-inch platform heels. Tiki bar pool. Sensual sipping pose. Expression: vacation vibes. Pool cocktail. Seductive glamour photography, tropical bar lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Unicorn Float Queen
 
 ```
-Professional float photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin sparkling. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing IRIDESCENT bikini unicorn colors. Sitting on giant UNICORN pool float rainbow mane. Crown on head. PLEASER clear acrylic 8-inch platform heels. Sparkling pool. Sensual magical pose. Expression: unicorn dreams. Unicorn float. Seductive glamour photography, rainbow sparkle lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional float photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sparkling. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing IRIDESCENT bikini unicorn colors. Sitting on giant UNICORN pool float rainbow mane. Crown on head. PLEASER clear acrylic 8-inch platform heels. Sparkling pool. Sensual magical pose. Expression: unicorn dreams. Unicorn float. Seductive glamour photography, rainbow sparkle lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Diving Board
 
 ```
-Professional diving photography of glamorous woman with platinum blonde bob haircut with straight bangs wind effect. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK one-piece swimsuit high cut. Standing on diving board about to dive. Arms above head. PLEASER removed poolside. High diving board. Sensual pre-dive pose. Expression: taking the plunge. Diving board. Seductive glamour photography, blue sky lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional diving photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: waterproof dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK one-piece swimsuit high cut. Standing on diving board about to dive. Arms above head. PLEASER removed poolside. High diving board. Sensual pre-dive pose. Expression: taking the plunge. Diving board. Seductive glamour photography, blue sky lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Splash Fight
 
 ```
-Professional splash photography of glamorous woman with platinum blonde bob haircut with straight bangs soaking wet. Flawless porcelain skin water droplets. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK bikini water splattered. Splashing water at camera playfully. Huge splash frozen. PLEASER removed in water. Pool mid-action. Sensual splash pose. Expression: splash attack. Water fight. Seductive glamour photography, splash freeze lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional splash photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) soaking wet. Flawless porcelain skin water droplets. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK bikini water splattered. Splashing water at camera playfully. Huge splash frozen. PLEASER removed in water. Pool mid-action. Sensual splash pose. Expression: splash attack. Water fight. Seductive glamour photography, splash freeze lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Pool Noodle Fun
 
 ```
-Professional pool toy photography of glamorous woman with platinum blonde bob haircut with straight bangs wet playful. Flawless porcelain skin wet shine. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips smiling. Human realistic face. Wearing PINK bikini. Playing with HOT PINK pool noodle, wrapped around body. Floating in pool. PLEASER clear heels poolside. Pool center. Sensual playful pose. Expression: pool party fun. Pool noodle. Seductive glamour photography, underwater blue lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pool toy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet playful. Flawless porcelain skin wet shine. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips smiling. Human realistic face. Wearing PINK bikini. Playing with HOT PINK pool noodle, wrapped around body. Floating in pool. PLEASER clear heels poolside. Pool center. Sensual playful pose. Expression: pool party fun. Pool noodle. Seductive glamour photography, underwater blue lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Tropical Cabana
 
 ```
-Professional cabana photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin shade glamour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing TROPICAL print bikini flowers. Lounging in luxury pool cabana. Curtains flowing. Fruit platter nearby. PLEASER pink 8-inch platform heels. Luxury resort. Sensual luxury pose. Expression: VIP treatment. Cabana queen. Seductive glamour photography, luxurious shade lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cabana photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin shade glamour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing TROPICAL print bikini flowers. Lounging in luxury pool cabana. Curtains flowing. Fruit platter nearby. PLEASER pink 8-inch platform heels. Luxury resort. Sensual luxury pose. Expression: VIP treatment. Cabana queen. Seductive glamour photography, luxurious shade lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Ice Cream Pool
 
 ```
-Professional ice cream photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin summer sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around cone. Human realistic face. Wearing PINK bikini. Licking ice cream cone suggestively. Melting ice cream dripping. PLEASER pink 8-inch platform heels. Poolside. Sensual licking pose. Expression: sweet summer. Ice cream. Seductive glamour photography, summer sweet lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ice cream photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin summer sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips around cone. Human realistic face. Wearing PINK bikini. Licking ice cream cone suggestively. Melting ice cream dripping. PLEASER pink 8-inch platform heels. Poolside. Sensual licking pose. Expression: sweet summer. Ice cream. Seductive glamour photography, summer sweet lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Infinity Pool View
 
 ```
-Professional infinity pool photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin luxury glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE bikini luxury resort. At infinity pool edge looking at ocean view. Arms spread on edge. PLEASER white 8-inch platform heels by pool. Luxury infinity pool. Sensual luxury pose. Expression: paradise found. Infinity pool. Seductive glamour photography, ocean sunset lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional infinity pool photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin luxury glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE bikini luxury resort. At infinity pool edge looking at ocean view. Arms spread on edge. PLEASER white 8-inch platform heels by pool. Luxury infinity pool. Sensual luxury pose. Expression: paradise found. Infinity pool. Seductive glamour photography, ocean sunset lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Wet T-Shirt Contest
 
 ```
-Professional contest photography of glamorous woman with platinum blonde bob haircut with straight bangs soaking wet. Flawless porcelain skin visible through fabric. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE t-shirt soaking wet see-through, PINK bikini visible. Water being poured on her. Spring break vibes. PLEASER clear 8-inch platform heels. Contest stage pool. Sensual contest pose. Expression: winner winner. Wet t-shirt. Seductive glamour photography, contest lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional contest photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) soaking wet. Flawless porcelain skin visible through fabric. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE t-shirt soaking wet see-through, PINK bikini visible. Water being poured on her. Spring break vibes. PLEASER clear 8-inch platform heels. Contest stage pool. Sensual contest pose. Expression: winner winner. Wet t-shirt. Seductive glamour photography, contest lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Rooftop Pool NYC
 
 ```
-Professional rooftop photography of glamorous woman with platinum blonde bob haircut with straight bangs city chic. Flawless porcelain skin urban glamour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer bikini high fashion. At rooftop pool NYC skyline behind. Champagne in hand. PLEASER pink 8-inch platform heels. Manhattan rooftop. Sensual city pose. Expression: city pool life. Rooftop NYC. Seductive glamour photography, city skyline sunset lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rooftop photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) city chic. Flawless porcelain skin urban glamour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer bikini high fashion. At rooftop pool NYC skyline behind. Champagne in hand. PLEASER pink 8-inch platform heels. Manhattan rooftop. Sensual city pose. Expression: city pool life. Rooftop NYC. Seductive glamour photography, city skyline sunset lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Mermaid Tail
 
 ```
-Professional mermaid photography of glamorous woman with platinum blonde bob haircut with straight bangs wet flowing. Flawless porcelain skin underwater effect. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes with scales effect, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mermaid tail bikini with sequin tail attached. Emerging from pool like mermaid. Shell bra. PLEASER removed for tail. Pool grotto. Sensual mermaid pose. Expression: creature of the deep. Mermaid. Seductive glamour photography, underwater magical lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mermaid photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet flowing. Flawless porcelain skin underwater effect. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes with scales effect, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mermaid tail bikini with sequin tail attached. Emerging from pool like mermaid. Shell bra. PLEASER removed for tail. Pool grotto. Sensual mermaid pose. Expression: creature of the deep. Mermaid. Seductive glamour photography, underwater magical lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Poolside Selfie
 
 ```
-Professional selfie photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin selfie ready. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips duck face. Human realistic face. Wearing PINK bikini influencer style. Taking selfie with phone at arm's length. Pool behind perfect background. PLEASER pink 8-inch platform heels. Pool lounge. Sensual selfie pose. Expression: for the gram. Pool selfie. Seductive glamour photography, perfect selfie lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional selfie photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin selfie ready. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips duck face. Human realistic face. Wearing PINK bikini influencer style. Taking selfie with phone at arm's length. Pool behind perfect background. PLEASER pink 8-inch platform heels. Pool lounge. Sensual selfie pose. Expression: for the gram. Pool selfie. Seductive glamour photography, perfect selfie lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Synchronized Swimmer
 
 ```
-Professional synchronized swim photography of glamorous woman with platinum blonde bob haircut with straight bangs in swim cap. Flawless porcelain skin athletic grace. HEAVY GLAMOUR MAKEUP waterproof dramatic: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips synchronized style. Human realistic face. Wearing PINK sparkle synchronized swim suit. Leg above water synchronized pose. Nose clip on. PLEASER removed. Olympic pool. Sensual synchronized pose. Expression: perfect form. Synchronized. Seductive glamour photography, pool Olympic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional synchronized swim photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in swim cap. Flawless porcelain skin athletic grace. HEAVY GLAMOUR MAKEUP waterproof dramatic: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips synchronized style. Human realistic face. Wearing PINK sparkle synchronized swim suit. Leg above water synchronized pose. Nose clip on. PLEASER removed. Olympic pool. Sensual synchronized pose. Expression: perfect form. Synchronized. Seductive glamour photography, pool Olympic lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Pool Shower Rinse
 
 ```
-Professional shower photography of glamorous woman with platinum blonde bob haircut with straight bangs under water. Flawless porcelain skin water streaming. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips water dripping. Human realistic face. Wearing PINK bikini. Under poolside outdoor shower, water cascading over body. Head tilted back. PLEASER pink 8-inch platform heels wet. Pool shower area. Sensual shower pose. Expression: refreshing rinse. Pool shower. Seductive glamour photography, water cascade lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shower photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under water. Flawless porcelain skin water streaming. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips water dripping. Human realistic face. Wearing PINK bikini. Under poolside outdoor shower, water cascading over body. Head tilted back. PLEASER pink 8-inch platform heels wet. Pool shower area. Sensual shower pose. Expression: refreshing rinse. Pool shower. Seductive glamour photography, water cascade lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Pink Donut Float
 
 ```
-Professional float photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin sugary sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini with sprinkle pattern. Sitting in giant PINK frosted donut pool float with rainbow sprinkles. Eating actual donut. PLEASER clear 8-inch platform heels. Bright pool. Sensual sweet pose. Expression: donut worry be happy. Donut float. Seductive glamour photography, bright sweet lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional float photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sugary sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini with sprinkle pattern. Sitting in giant PINK frosted donut pool float with rainbow sprinkles. Eating actual donut. PLEASER clear 8-inch platform heels. Bright pool. Sensual sweet pose. Expression: donut worry be happy. Donut float. Seductive glamour photography, bright sweet lighting, pool aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

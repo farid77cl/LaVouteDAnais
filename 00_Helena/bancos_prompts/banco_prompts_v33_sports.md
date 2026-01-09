@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -63,121 +65,121 @@ silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
 #### 1. Miss Doll - Pink Cheerleader Captain
 
 ```
-Professional cheerleader photography of glamorous woman with platinum blonde bob haircut with straight bangs in high ponytail with pink bow. Flawless porcelain skin athletic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK cheerleader uniform ultra short skirt, matching crop top with "DOLL" lettering. Pink pom poms. High kick pose. PLEASER FLAMINGO-808 pink 8-inch platform heels. Stadium field. Sensual cheer pose. Expression: give me a D-O-L-L. Cheerleader captain. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cheerleader photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail with pink bow. Flawless porcelain skin athletic glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing HOT PINK cheerleader uniform ultra short skirt, matching crop top with "DOLL" lettering. Pink pom poms. High kick pose. PLEASER FLAMINGO-808 pink 8-inch platform heels. Stadium field. Sensual cheer pose. Expression: give me a D-O-L-L. Cheerleader captain. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Tennis Glamour
 
 ```
-Professional tennis photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink visor. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pleated tennis skirt ultra short, WHITE tank top tight. Tennis racket in hand. Serving pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on court. Tennis court. Sensual serve pose. Expression: match point. Tennis glamour. Seductive glamour photography, bright court lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tennis photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink visor. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pleated tennis skirt ultra short, WHITE tank top tight. Tennis racket in hand. Serving pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on court. Tennis court. Sensual serve pose. Expression: match point. Tennis glamour. Seductive glamour photography, bright court lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Golf Course Princess
 
 ```
-Professional golf photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink golf cap. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK polo shirt tight, WHITE pleated golf skirt ultra short. Golf club in hand. Swing pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on green. Golf course. Sensual swing pose. Expression: hole in one. Golf princess. Seductive glamour photography, golden hour course lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional golf photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink golf cap. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK polo shirt tight, WHITE pleated golf skirt ultra short. Golf club in hand. Swing pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on green. Golf course. Sensual swing pose. Expression: hole in one. Golf princess. Seductive glamour photography, golden hour course lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Rhythmic Gymnast
 
 ```
-Professional gymnastics photography of glamorous woman with platinum blonde bob haircut with straight bangs in competition bun. Flawless porcelain skin competition glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes with crystals, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly leotard with crystals, ultra high cut. Ribbon dancing flowing. Flexible pose. PLEASER removed for gymnastics. Competition floor. Sensual gymnast pose. Expression: perfect 10. Rhythmic gymnast. Seductive glamour photography, arena spotlight lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gymnastics photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in competition bun. Flawless porcelain skin competition glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes with crystals, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly leotard with crystals, ultra high cut. Ribbon dancing flowing. Flexible pose. PLEASER removed for gymnastics. Competition floor. Sensual gymnast pose. Expression: perfect 10. Rhythmic gymnast. Seductive glamour photography, arena spotlight lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Yoga Goddess
 
 ```
-Professional yoga photography of glamorous woman with platinum blonde bob haircut with straight bangs in zen bun. Flawless porcelain skin meditation glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK luxury yoga set, sports bra and high-waisted leggings. Warrior pose perfect form. PLEASER FLAMINGO-808 pink 8-inch platform heels beside mat. Luxury studio. Sensual yoga pose. Expression: namaste. Yoga goddess. Seductive glamour photography, soft studio lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yoga photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in zen bun. Flawless porcelain skin meditation glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK luxury yoga set, sports bra and high-waisted leggings. Warrior pose perfect form. PLEASER FLAMINGO-808 pink 8-inch platform heels beside mat. Luxury studio. Sensual yoga pose. Expression: namaste. Yoga goddess. Seductive glamour photography, soft studio lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Figure Skater
 
 ```
-Professional skating photography of glamorous woman with platinum blonde bob haircut with straight bangs in competition updo. Flawless porcelain skin ice glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly skating dress with crystals, ultra short. Spiral pose on ice. Figure skates white. Competition rink. Sensual skating pose. Expression: triple axel queen. Figure skater. Seductive glamour photography, ice arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional skating photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in competition updo. Flawless porcelain skin ice glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly skating dress with crystals, ultra short. Spiral pose on ice. Figure skates white. Competition rink. Sensual skating pose. Expression: triple axel queen. Figure skater. Seductive glamour photography, ice arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Volleyball Spiker
 
 ```
-Professional volleyball photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini volleyball uniform, ultra tight. Jumping spike pose mid-air. Beach volleyball setting. PLEASER FLAMINGO-808 pink 8-inch platform heels in sand. Beach court. Sensual spike pose. Expression: point scored. Volleyball queen. Seductive glamour photography, beach sunset lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional volleyball photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK bikini volleyball uniform, ultra tight. Jumping spike pose mid-air. Beach volleyball setting. PLEASER FLAMINGO-808 pink 8-inch platform heels in sand. Beach court. Sensual spike pose. Expression: point scored. Volleyball queen. Seductive glamour photography, beach sunset lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Track Star
 
 ```
-Professional track photography of glamorous woman with platinum blonde bob haircut with straight bangs aerodynamic. Flawless porcelain skin athlete glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK racing crop top and ultra short running shorts with number. Starting block pose. PLEASER removed, racing spikes pink. Track stadium. Sensual runner pose. Expression: on your mark. Track star. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional track photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) aerodynamic. Flawless porcelain skin athlete glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK racing crop top and ultra short running shorts with number. Starting block pose. PLEASER removed, racing spikes pink. Track stadium. Sensual runner pose. Expression: on your mark. Track star. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Synchronized Swimmer
 
 ```
-Professional swimming photography of glamorous woman with platinum blonde bob haircut with straight bangs slicked back wet. Flawless porcelain skin wet glow. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly swimsuit competition style, nose clip. Emerging from water dramatic pose. Pool setting. Sensual synchro pose. Expression: water ballet. Synchronized swimmer. Seductive glamour photography, underwater and surface lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional swimming photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back wet. Flawless porcelain skin wet glow. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sparkly swimsuit competition style, nose clip. Emerging from water dramatic pose. Pool setting. Sensual synchro pose. Expression: water ballet. Synchronized swimmer. Seductive glamour photography, underwater and surface lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Equestrian Princess
 
 ```
-Professional equestrian photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink helmet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK riding jacket tailored, white jodhpurs tight, black boots glossy. On white horse. Jumping pose. Riding crop in hand. Equestrian arena. Sensual rider pose. Expression: show jumping queen. Equestrian. Seductive glamour photography, arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional equestrian photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink helmet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK riding jacket tailored, white jodhpurs tight, black boots glossy. On white horse. Jumping pose. Riding crop in hand. Equestrian arena. Sensual rider pose. Expression: show jumping queen. Equestrian. Seductive glamour photography, arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 11. Miss Doll - Boxing Ring Girl
 
 ```
-Professional boxing photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin ring lights. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sequin bikini ring girl outfit, high heels visible. Holding round number card above head. In boxing ring. PLEASER FLAMINGO-808 pink 8-inch platform heels. Boxing arena. Sensual ring girl pose. Expression: round one. Ring girl. Seductive glamour photography, boxing ring lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boxing photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ring lights. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sequin bikini ring girl outfit, high heels visible. Holding round number card above head. In boxing ring. PLEASER FLAMINGO-808 pink 8-inch platform heels. Boxing arena. Sensual ring girl pose. Expression: round one. Ring girl. Seductive glamour photography, boxing ring lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 12. Miss Doll - Soccer Cheerleader
 
 ```
-Professional soccer photography of glamorous woman with platinum blonde bob haircut with straight bangs in twin tails. Flawless porcelain skin game day. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK soccer jersey tied crop style, ultra short PINK shorts. Dancing on sidelines. Pom poms. PLEASER FLAMINGO-808 pink 8-inch platform heels. Soccer stadium. Sensual cheer pose. Expression: goooal. Soccer cheer. Seductive glamour photography, stadium evening lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional soccer photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in twin tails. Flawless porcelain skin game day. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK soccer jersey tied crop style, ultra short PINK shorts. Dancing on sidelines. Pom poms. PLEASER FLAMINGO-808 pink 8-inch platform heels. Soccer stadium. Sensual cheer pose. Expression: goooal. Soccer cheer. Seductive glamour photography, stadium evening lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 13. Miss Doll - Archery Queen
 
 ```
-Professional archery photography of glamorous woman with platinum blonde bob haircut with straight bangs focused. Flawless porcelain skin concentration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK archery bodysuit ultra tight, arm guard visible. Drawing PINK bow, arrow ready. Target behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Archery range. Sensual archer pose. Expression: bullseye. Archery queen. Seductive glamour photography, range lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional archery photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) focused. Flawless porcelain skin concentration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK archery bodysuit ultra tight, arm guard visible. Drawing PINK bow, arrow ready. Target behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Archery range. Sensual archer pose. Expression: bullseye. Archery queen. Seductive glamour photography, range lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - Pink Racing Driver
 
 ```
-Professional motorsport photography of glamorous woman with platinum blonde bob haircut with straight bangs helmet hair. Flawless porcelain skin adrenaline glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing suit unzipped top, sponsor patches. Removing PINK helmet. F1 car behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Racing pit lane. Sensual winner pose. Expression: podium finish. Racing driver. Seductive glamour photography, pit lane lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional motorsport photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) helmet hair. Flawless porcelain skin adrenaline glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK racing suit unzipped top, sponsor patches. Removing PINK helmet. F1 car behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Racing pit lane. Sensual winner pose. Expression: podium finish. Racing driver. Seductive glamour photography, pit lane lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - Ballet Athlete
 
 ```
-Professional ballet photography of glamorous woman with platinum blonde bob haircut with straight bangs in perfect ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK professional tutu, bodice sparkly. En pointe pose perfect. Ballet slippers pink satin. Ballet studio mirrors. Sensual arabesque pose. Expression: prima ballerina. Ballet athlete. Seductive glamour photography, studio mirror lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ballet photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in perfect ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK professional tutu, bodice sparkly. En pointe pose perfect. Ballet slippers pink satin. Ballet studio mirrors. Sensual arabesque pose. Expression: prima ballerina. Ballet athlete. Seductive glamour photography, studio mirror lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - Surfing Goddess
 
 ```
-Professional surf photography of glamorous woman with platinum blonde bob haircut with straight bangs wet beach waves. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK neoprene bikini surf style. Holding PINK surfboard. Emerging from waves. Beach sunset. PLEASER FLAMINGO-808 clear heels beach side. Ocean waves. Sensual surfer pose. Expression: catching waves. Surf goddess. Seductive glamour photography, golden hour beach lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional surf photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet beach waves. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK neoprene bikini surf style. Holding PINK surfboard. Emerging from waves. Beach sunset. PLEASER FLAMINGO-808 clear heels beach side. Ocean waves. Sensual surfer pose. Expression: catching waves. Surf goddess. Seductive glamour photography, golden hour beach lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Fencing Femme
 
 ```
-Professional fencing photography of glamorous woman with platinum blonde bob haircut with straight bangs competition style. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE fencing uniform but PINK accents, mask off revealing face. Épée in hand en garde pose. PLEASER removed, fencing shoes. Fencing piste. Sensual fencer pose. Expression: touché. Fencing femme. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fencing photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) competition style. Flawless porcelain skin focused. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE fencing uniform but PINK accents, mask off revealing face. Épée in hand en garde pose. PLEASER removed, fencing shoes. Fencing piste. Sensual fencer pose. Expression: touché. Fencing femme. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Bowling Queen
 
 ```
-Professional bowling photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin lane glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK retro bowling shirt tied at waist, ultra short PINK skirt. Holding PINK bowling ball. Release pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on approach. Bowling alley neon. Sensual bowler pose. Expression: strike. Bowling queen. Seductive glamour photography, neon alley lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bowling photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin lane glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK retro bowling shirt tied at waist, ultra short PINK skirt. Holding PINK bowling ball. Release pose. PLEASER FLAMINGO-808 pink 8-inch platform heels on approach. Bowling alley neon. Sensual bowler pose. Expression: strike. Bowling queen. Seductive glamour photography, neon alley lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Ski Bunny
 
 ```
-Professional ski photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink helmet. Flawless porcelain skin alpine glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer ski suit ultra fitted, unzipped showing cleavage. Goggles on forehead. Skis crossed behind. PLEASER removed, ski boots pink. Snowy mountain. Sensual ski pose. Expression: après-ski ready. Ski bunny. Seductive glamour photography, mountain bright lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ski photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink helmet. Flawless porcelain skin alpine glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer ski suit ultra fitted, unzipped showing cleavage. Goggles on forehead. Skis crossed behind. PLEASER removed, ski boots pink. Snowy mountain. Sensual ski pose. Expression: après-ski ready. Ski bunny. Seductive glamour photography, mountain bright lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Pilates Perfection
 
 ```
-Professional pilates photography of glamorous woman with platinum blonde bob haircut with straight bangs in sleek ponytail. Flawless porcelain skin studio glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK pilates unitard ultra tight, body visible through sheer panels. On reformer machine. Controlled movement pose. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Luxury pilates studio. Sensual pilates pose. Expression: core engaged. Pilates perfection. Seductive glamour photography, soft studio lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pilates photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in sleek ponytail. Flawless porcelain skin studio glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK pilates unitard ultra tight, body visible through sheer panels. On reformer machine. Controlled movement pose. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Luxury pilates studio. Sensual pilates pose. Expression: core engaged. Pilates perfection. Seductive glamour photography, soft studio lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

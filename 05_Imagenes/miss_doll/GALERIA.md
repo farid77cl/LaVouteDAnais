@@ -1,6 +1,6 @@
 # Galería de Imágenes: miss_doll
 
-> **Total Imágenes:** 60
+> **Total Imágenes:** 61
 
 ### MISS_DOLL_CANON_COMIC.jpg
 
@@ -284,6 +284,12 @@
 
 ---
 
+### miss_doll_v42_pink_latex_maid.png
+
+![miss_doll_v42_pink_latex_maid.png](miss_doll_v42_pink_latex_maid.png)
+
+---
+
 ### miss_doll_yacht_party.png
 
 ![miss_doll_yacht_party.png](miss_doll_yacht_party.png)
@@ -362,4 +368,4 @@
 
 ---
 
-*Generado automáticamente el 2026-01-09 11:57*
+*Generado automáticamente el 2026-01-09 13:29*

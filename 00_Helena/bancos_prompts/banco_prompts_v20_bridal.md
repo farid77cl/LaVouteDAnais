@@ -25,7 +25,7 @@ black stiletto heels 7-9 inches with thin deadly heel.
 ### 💖 Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -55,61 +55,61 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 #### 1. Miss Doll - White Latex Bridal Gown
 
 ```
-Professional bridal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal gown, strapless ultra-low neckline, mermaid cut with massive tulle train. Long white latex gloves. Diamond choker with "BRIDE" pendant. Holding bouquet of white roses. Standing at gothic altar. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual pose with arched back, bedroom eyes. Expression: arrogant queen. High contrast cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal gown, strapless ultra-low neckline, mermaid cut with massive tulle train. Long white latex gloves. Diamond choker with "BRIDE" pendant. Holding bouquet of white roses. Standing at gothic altar. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual pose with arched back, bedroom eyes. Expression: arrogant queen. High contrast cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 2. Miss Doll - Honeymoon White Lingerie
 
 ```
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX honeymoon lingerie set. White latex corset with lace details, white stockings with bows. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white canopy bed, "Just Married" sign in background. Holding champagne glass. Sensual pose with arched back, bedroom eyes. Expression: newlywed bliss. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX honeymoon lingerie set. White latex corset with lace details, white stockings with bows. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white canopy bed, "Just Married" sign in background. Holding champagne glass. Sensual pose with arched back, bedroom eyes. Expression: newlywed bliss. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 3. Miss Doll - Bridal Veil Portrait
 
 ```
-Professional close-up portrait photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes enhanced with white shimmer, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing massive white tulle veil covering face slightly. White latex collar. Diamond earrings. Sensual expression. Expression: vacuous perfection. Bridal portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional close-up portrait photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes enhanced with white shimmer, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing massive white tulle veil covering face slightly. White latex collar. Diamond earrings. Sensual expression. Expression: vacuous perfection. Bridal portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 4. Miss Doll - Walking Down the Aisle
 
 ```
-Professional ceremony photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Walking down the aisle. White VINYL dress, incredibly tight, restricting movement. Corset back lacing visible. PLEASER FLAMINGO-808 white 8-inch platform heels. Guests taking photos with flash. Sensual pose with arched back, bedroom eyes. Expression: triumphant bride. Cinematic cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ceremony photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Walking down the aisle. White VINYL dress, incredibly tight, restricting movement. Corset back lacing visible. PLEASER FLAMINGO-808 white 8-inch platform heels. Guests taking photos with flash. Sensual pose with arched back, bedroom eyes. Expression: triumphant bride. Cinematic cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 5. Miss Doll - Garter Reveal
 
 ```
-Professional playful bridal photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lifting front of white latex dress to show white stockings and white garter belt with rhinestones. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual cheeky pose with arched back, bedroom eyes. Expression: playful tease. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lifting front of white latex dress to show white stockings and white garter belt with rhinestones. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual cheeky pose with arched back, bedroom eyes. Expression: playful tease. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 6. Miss Doll - Gothic Black Bridal Gown
 
 ```
-Professional dark bridal photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin stark contrast to black. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold. Human realistic face. Wearing BLACK LATEX bridal gown with GOLD lace overlays. Massive black veil. Black bouquet of dead roses. Gold crown. PLEASER FLAMINGO-808 black/gold 8-inch platform heels. Standing in gothic graveyard. Sensual pose with arched back, bedroom eyes. Expression: widow before wedding. Dark atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin stark contrast to black. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold. Human realistic face. Wearing BLACK LATEX bridal gown with GOLD lace overlays. Massive black veil. Black bouquet of dead roses. Gold crown. PLEASER FLAMINGO-808 black/gold 8-inch platform heels. Standing in gothic graveyard. Sensual pose with arched back, bedroom eyes. Expression: widow before wedding. Dark atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 7. Miss Doll - Black Sheer Honeymoon
 
 ```
-Professional dark boudoir photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing BLACK sheer lingerie. Black sheer robe with fur trim. PLEASER FLAMINGO-808 gold 8-inch platform heels. Sitting on black velvet chair. Holding sign "I DO... OBEY". Sensual pose with arched back, bedroom eyes. Expression: obedient bride. Dark honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing BLACK sheer lingerie. Black sheer robe with fur trim. PLEASER FLAMINGO-808 gold 8-inch platform heels. Sitting on black velvet chair. Holding sign "I DO... OBEY". Sensual pose with arched back, bedroom eyes. Expression: obedient bride. Dark honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 8. Miss Doll - Pink Bridal Princess
 
 ```
-Professional fantasy bridal photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SATIN princess ballgown with massive skirt. Pink underbust corset. Pink veil with crystals. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in pink rose garden. Sensual pose with arched back, bedroom eyes. Expression: princess bride. Pink fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SATIN princess ballgown with massive skirt. Pink underbust corset. Pink veil with crystals. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in pink rose garden. Sensual pose with arched back, bedroom eyes. Expression: princess bride. Pink fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 9. Miss Doll - Gold Luxury Bride
 
 ```
-Professional luxury bridal photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin with gold shimmer. HEAVY GLAMOUR MAKEUP: dramatic gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing GOLD METALLIC latex bridal gown. Gold corset. Gold veil. Gold jewelry everywhere. PLEASER FLAMINGO-808 gold chrome 8-inch platform heels. Standing in gold ballroom. Sensual pose with arched back, bedroom eyes. Expression: trophy wife. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with gold shimmer. HEAVY GLAMOUR MAKEUP: dramatic gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing GOLD METALLIC latex bridal gown. Gold corset. Gold veil. Gold jewelry everywhere. PLEASER FLAMINGO-808 gold chrome 8-inch platform heels. Standing in gold ballroom. Sensual pose with arched back, bedroom eyes. Expression: trophy wife. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 10. Miss Doll - Rose Petals Honeymoon
 
 ```
-Professional romantic photography of glamorous woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lying on bed covered in pink and white rose petals. Wearing only pearl necklace and pink latex thigh highs. "JUST MARRIED" sash across body. PLEASER FLAMINGO-808 pink 8-inch platform heels on feet. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Romantic honeymoon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional romantic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lying on bed covered in pink and white rose petals. Wearing only pearl necklace and pink latex thigh highs. "JUST MARRIED" sash across body. PLEASER FLAMINGO-808 pink 8-inch platform heels on feet. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Romantic honeymoon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -217,31 +217,31 @@ Professional action duo photography. MISS DOLL: platinum blonde bob, HEAVY GLAMO
 #### 26. Miss Doll - Mermaid Latex Ultra-Fitted
 
 ```
-Professional bridal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX mermaid gown, impossibly tight from chest to knees, flaring dramatically at hem. Fishtail train. Visible corset boning. PLEASER FLAMINGO-808 white 8-inch platform heels. Standing at marble altar. Sensual pose with arched back, bedroom eyes. Expression: trophy bride. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX mermaid gown, impossibly tight from chest to knees, flaring dramatically at hem. Fishtail train. Visible corset boning. PLEASER FLAMINGO-808 white 8-inch platform heels. Standing at marble altar. Sensual pose with arched back, bedroom eyes. Expression: trophy bride. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Princess Pink Tulle Ballgown
 
 ```
-Professional fantasy bridal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing massive PINK TULLE princess ballgown, layers upon layers of tulle. Pink satin corset bodice. Pink crystal tiara. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in rose garden. Sensual pose with arched back, bedroom eyes. Expression: fairy tale bride. Princess fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing massive PINK TULLE princess ballgown, layers upon layers of tulle. Pink satin corset bodice. Pink crystal tiara. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in rose garden. Sensual pose with arched back, bedroom eyes. Expression: fairy tale bride. Princess fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Short Reception Mini Dress
 
 ```
-Professional reception photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Changed into WHITE LATEX mini dress for reception. Ultra short hemline. White corset visible. Garter showing. PLEASER FLAMINGO-808 white 8-inch platform heels. Dancing at reception. Sensual pose with arched back, bedroom eyes. Expression: party bride. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reception photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Changed into WHITE LATEX mini dress for reception. Ultra short hemline. White corset visible. Garter showing. PLEASER FLAMINGO-808 white 8-inch platform heels. Dancing at reception. Sensual pose with arched back, bedroom eyes. Expression: party bride. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Bridal Jumpsuit Avant-Garde
 
 ```
-Professional avant-garde bridal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal jumpsuit, wide legs, plunging neckline. White cape flowing. White corset belt. PLEASER FLAMINGO-808 white 8-inch platform heels. Dramatic pose on angular stairs. Sensual pose with arched back, bedroom eyes. Expression: modern bride. Avant-garde wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional avant-garde bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal jumpsuit, wide legs, plunging neckline. White cape flowing. White corset belt. PLEASER FLAMINGO-808 white 8-inch platform heels. Dramatic pose on angular stairs. Sensual pose with arched back, bedroom eyes. Expression: modern bride. Avant-garde wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Sculptural Architecture Gown
 
 ```
-Professional haute couture bridal photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sculptural WHITE architectural gown, geometric shapes, dramatic shoulders. Metallic silver accents. PLEASER FLAMINGO-808 silver 8-inch platform heels. Standing in modern art museum. Sensual pose with arched back, bedroom eyes. Expression: art piece bride. Futuristic wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional haute couture bridal photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sculptural WHITE architectural gown, geometric shapes, dramatic shoulders. Metallic silver accents. PLEASER FLAMINGO-808 silver 8-inch platform heels. Standing in modern art museum. Sensual pose with arched back, bedroom eyes. Expression: art piece bride. Futuristic wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -251,31 +251,31 @@ Professional haute couture bridal photography of glamorous woman with platinum b
 #### 31. Miss Doll - White Lace Corset Set
 
 ```
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LACE bridal corset set, overbust corset with intricate lace, matching lace thong. White stockings with bows. "BRIDE" choker. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white satin bed. Sensual pose with arched back, bedroom eyes. Expression: waiting bride. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LACE bridal corset set, overbust corset with intricate lace, matching lace thong. White stockings with bows. "BRIDE" choker. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white satin bed. Sensual pose with arched back, bedroom eyes. Expression: waiting bride. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Pearl Body Chain Harness
 
 ```
-Professional luxury boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only PEARL body chain harness over naked skin, strands of pearls creating intricate pattern. White thong. Diamond earrings. PLEASER FLAMINGO-808 clear 8-inch platform heels. Lying on white fur. Sensual pose with arched back, bedroom eyes. Expression: luxury bride. Pearl fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only PEARL body chain harness over naked skin, strands of pearls creating intricate pattern. White thong. Diamond earrings. PLEASER FLAMINGO-808 clear 8-inch platform heels. Lying on white fur. Sensual pose with arched back, bedroom eyes. Expression: luxury bride. Pearl fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Sheer White Bridal Babydoll
 
 ```
-Professional romantic boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE SHEER babydoll, completely see-through. White lace trim. Pink ribbon bows. Matching sheer thong. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by window with morning light. Sensual pose with arched back, bedroom eyes. Expression: innocent bride. Bridal morning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional romantic boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE SHEER babydoll, completely see-through. White lace trim. Pink ribbon bows. Matching sheer thong. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by window with morning light. Sensual pose with arched back, bedroom eyes. Expression: innocent bride. Bridal morning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Garter Belt Showcase
 
 ```
-Professional detail boudoir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE satin garter belt, four straps holding WHITE stockings. Rhinestone details. "JUST MARRIED" embroidered on garter. PLEASER FLAMINGO-808 white 8-inch platform heels. Lifting dress to show. Sensual pose with arched back, bedroom eyes. Expression: tease bride. Garter reveal. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional detail boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE satin garter belt, four straps holding WHITE stockings. Rhinestone details. "JUST MARRIED" embroidered on garter. PLEASER FLAMINGO-808 white 8-inch platform heels. Lifting dress to show. Sensual pose with arched back, bedroom eyes. Expression: tease bride. Garter reveal. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Pink Bridal Robe Reveal
 
 ```
-Professional morning-after photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes slightly smudged, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SILK bridal robe, open to reveal white lace bra. Holding champagne glass. "MRS" written on robe back. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by balcony. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Morning after. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morning-after photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes slightly smudged, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SILK bridal robe, open to reveal white lace bra. Holding champagne glass. "MRS" written on robe back. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by balcony. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Morning after. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

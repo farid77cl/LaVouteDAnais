@@ -1,6 +1,18 @@
 # Galería de Imágenes: the_dollhouse
 
-> **Total Imágenes:** 13
+> **Total Imágenes:** 15
+
+### cap05_miss_doll_adonis_apollo.png
+
+![cap05_miss_doll_adonis_apollo.png](cap05_miss_doll_adonis_apollo.png)
+
+---
+
+### cap05_miss_doll_outfit_final.png
+
+![cap05_miss_doll_outfit_final.png](cap05_miss_doll_outfit_final.png)
+
+---
 
 ### cap05_outfit_base.png
 
@@ -80,4 +92,4 @@
 
 ---
 
-*Generado automáticamente el 2026-01-09 11:57*
+*Generado automáticamente el 2026-01-09 13:29*

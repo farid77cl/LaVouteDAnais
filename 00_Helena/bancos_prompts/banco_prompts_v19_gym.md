@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -189,7 +191,7 @@ Professional night departure photography of young elegant goth glamour woman ins
 #### 21. Miss Doll - Glute Kickback Pink
 
 ```
-Professional glute photography of woman with platinum blonde bob haircut with straight bangs in high ponytail. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing HOT PINK SCRUNCH LEGGINGS (NVGTN style) and BABY BLUE SPORTS BRA. Pink waist trainer corset. Pink training shoes. Cable kickback for glutes. Sensual pose with arched back, bedroom eyes. Expression: building booty. Bright pink gym aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glute photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing HOT PINK SCRUNCH LEGGINGS (NVGTN style) and BABY BLUE SPORTS BRA. Pink waist trainer corset. Pink training shoes. Cable kickback for glutes. Sensual pose with arched back, bedroom eyes. Expression: building booty. Bright pink gym aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Smith Machine Squat
@@ -201,13 +203,13 @@ Professional squat photography of woman with platinum blonde bob in ponytail wit
 #### 23. Miss Doll - Dumbbell Workout
 
 ```
-Professional dumbbell photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, winged eyeliner, long false lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing BABY PINK TANK TOP and PINK BIKE SHORTS. Pink waist trainer. Pink training gloves. Light dumbbell shoulder press. Sensual pose with arched back, bedroom eyes. Expression: toning. Bright gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dumbbell photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, winged eyeliner, long false lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing BABY PINK TANK TOP and PINK BIKE SHORTS. Pink waist trainer. Pink training gloves. Light dumbbell shoulder press. Sensual pose with arched back, bedroom eyes. Expression: toning. Bright gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Leg Press Pink
 
 ```
-Professional leg press photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips determined. Feminine hourglass silhouette. Wearing PINK SHORTS and BABY BLUE SPORTS BRA. Pink waist trainer visible. Pink training shoes. On leg press machine, pushing weight, legs visible. Sensual pose with arched back, bedroom eyes. Expression: strong legs. Leg area gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional leg press photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips determined. Feminine hourglass silhouette. Wearing PINK SHORTS and BABY BLUE SPORTS BRA. Pink waist trainer visible. Pink training shoes. On leg press machine, pushing weight, legs visible. Sensual pose with arched back, bedroom eyes. Expression: strong legs. Leg area gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Stair Climber Cardio
@@ -219,49 +221,49 @@ Professional cardio photography of woman with platinum blonde bob in ponytail. F
 #### 26. Miss Doll - Yoga Pink Mat
 
 ```
-Professional yoga photography of woman with platinum blonde bob with straight bangs loose. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips peaceful. Feminine hourglass silhouette. Wearing PINK SEAMLESS YOGA SET. No corset for yoga. Barefoot on pink yoga mat. Downward dog pose. Sensual pose with arched back, bedroom eyes. Expression: zen doll. Pink yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yoga photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) loose. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips peaceful. Feminine hourglass silhouette. Wearing PINK SEAMLESS YOGA SET. No corset for yoga. Barefoot on pink yoga mat. Downward dog pose. Sensual pose with arched back, bedroom eyes. Expression: zen doll. Pink yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Ab Crunch Machine
 
 ```
-Professional ab photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with core visible. Wearing PINK CROP TOP and PINK SHORTS. Light pink waist trainer. Pink training shoes. On ab crunch machine mid-crunch. Sensual pose with arched back, bedroom eyes. Expression: ab burn. Ab area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ab photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with core visible. Wearing PINK CROP TOP and PINK SHORTS. Light pink waist trainer. Pink training shoes. On ab crunch machine mid-crunch. Sensual pose with arched back, bedroom eyes. Expression: ab burn. Ab area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Cable Lateral Raise
 
 ```
-Professional shoulder photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips focused. Feminine hourglass silhouette. Wearing PINK FITTED TANK and PINK SHORTS. Pink waist trainer. Pink training shoes. Cable lateral raise mid-movement. Sensual pose with arched back, bedroom eyes. Expression: shoulder caps. Cable area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shoulder photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips focused. Feminine hourglass silhouette. Wearing PINK FITTED TANK and PINK SHORTS. Pink waist trainer. Pink training shoes. Cable lateral raise mid-movement. Sensual pose with arched back, bedroom eyes. Expression: shoulder caps. Cable area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Stretching Splits
 
 ```
-Professional flexibility photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing PINK YOGA PANTS and BABY BLUE SPORTS BRA. No corset. Pink athletic socks. Full splits on pink mat. Sensual pose with arched back, bedroom eyes. Expression: flexible doll. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional flexibility photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing PINK YOGA PANTS and BABY BLUE SPORTS BRA. No corset. Pink athletic socks. Full splits on pink mat. Sensual pose with arched back, bedroom eyes. Expression: flexible doll. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Post-Workout Selfie
 
 ```
-Professional selfie photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with sensual sweat glow. HEAVY GLAMOUR MAKEUP still intact: smokey eyes, winged eyeliner, long lashes, full glossy RED lips with seductive smile proud. Feminine hourglass silhouette. Wearing PINK GYM SET sweaty. Pink waist trainer visible. Pink training shoes. Mirror selfie with pink phone case. Sensual pose with arched back, bedroom eyes. Expression: worked out cutie. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional selfie photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with sensual sweat glow. HEAVY GLAMOUR MAKEUP still intact: smokey eyes, winged eyeliner, long lashes, full glossy RED lips with seductive smile proud. Feminine hourglass silhouette. Wearing PINK GYM SET sweaty. Pink waist trainer visible. Pink training shoes. Mirror selfie with pink phone case. Sensual pose with arched back, bedroom eyes. Expression: worked out cutie. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Smoothie Pink
 
 ```
-Professional nutrition photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips on straw. Feminine hourglass silhouette. Wearing PINK GYM OUTFIT. Pink waist trainer visible. Sitting at gym cafe, drinking pink strawberry smoothie. Sensual pose with arched back, bedroom eyes. Expression: protein time. Gym smoothie bar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nutrition photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips on straw. Feminine hourglass silhouette. Wearing PINK GYM OUTFIT. Pink waist trainer visible. Sitting at gym cafe, drinking pink strawberry smoothie. Sensual pose with arched back, bedroom eyes. Expression: protein time. Gym smoothie bar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Locker Room Pink
 
 ```
-Professional locker room photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK LEGGINGS and BABY BLUE SPORTS BRA. Changing from pink training shoes to PLEASER PINK PLATFORMS (in pink gym bag). Pink corset being put on. Sensual pose with arched back, bedroom eyes. Expression: post gym glam. Pink-accented locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional locker room photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK LEGGINGS and BABY BLUE SPORTS BRA. Changing from pink training shoes to PLEASER PINK PLATFORMS (in pink gym bag). Pink corset being put on. Sensual pose with arched back, bedroom eyes. Expression: post gym glam. Pink-accented locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Resistance Band Booty
 
 ```
-Professional band photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK BOOTY SHORTS and BABY BLUE SPORTS BRA. Pink resistance band around thighs. Pink training shoes. Monster walk with band. Sensual pose with arched back, bedroom eyes. Expression: band burn. Home gym pink aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional band photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK BOOTY SHORTS and BABY BLUE SPORTS BRA. Pink resistance band around thighs. Pink training shoes. Monster walk with band. Sensual pose with arched back, bedroom eyes. Expression: band burn. Home gym pink aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Pink Boxing Gloves
@@ -279,7 +281,7 @@ Professional spin photography of woman with platinum blonde bob in ponytail. Fla
 #### 36. Miss Doll - Pilates Reformer
 
 ```
-Professional Pilates photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with elongated muscles. Wearing PINK BODYSUIT seamless. No corset. Barefoot or pink grip socks. On pink pilates reformer machine, leg extension. Sensual pose with arched back, bedroom eyes. Expression: elongated strength. Pink Pilates studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Pilates photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with elongated muscles. Wearing PINK BODYSUIT seamless. No corset. Barefoot or pink grip socks. On pink pilates reformer machine, leg extension. Sensual pose with arched back, bedroom eyes. Expression: elongated strength. Pink Pilates studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

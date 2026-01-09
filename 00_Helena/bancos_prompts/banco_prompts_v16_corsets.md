@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -142,49 +144,49 @@ Professional waist training photography of young elegant goth glamour woman insp
 #### 13. Miss Doll - DG Pink Satin Overbust
 
 ```
-Professional pink corset photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette with extreme waist. DARK GARDEN OVERBUST CORSET hot pink satin with steel boning, 5-inch reduction. Pink latex pants. PLEASER FLAMINGO-808 hot pink 8-inch platform heel. Front view. Sensual pose with arched back, bedroom eyes. Expression: pink perfection. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pink corset photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette with extreme waist. DARK GARDEN OVERBUST CORSET hot pink satin with steel boning, 5-inch reduction. Pink latex pants. PLEASER FLAMINGO-808 hot pink 8-inch platform heel. Front view. Sensual pose with arched back, bedroom eyes. Expression: pink perfection. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 14. Miss Doll - DG Baby Pink Underbust
 
 ```
-Professional baby pink photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN UNDERBUST CORSET baby pink satin, white ribbon lacing. White lace bralette above. Pink tulle skirt below. PLEASER ADORE-1020 baby pink 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: sweet cinch. Pastel bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baby pink photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN UNDERBUST CORSET baby pink satin, white ribbon lacing. White lace bralette above. Pink tulle skirt below. PLEASER ADORE-1020 baby pink 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: sweet cinch. Pastel bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 15. Miss Doll - DG White Bridal Overbust
 
 ```
-Professional bridal corset photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN BRIDAL OVERBUST CORSET white silk with light pink ribbon accent, steel boned, wedding style. White tulle skirt. PLEASER ADORE-1020 white 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: bride doll. White bridal suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal corset photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN BRIDAL OVERBUST CORSET white silk with light pink ribbon accent, steel boned, wedding style. White tulle skirt. PLEASER ADORE-1020 white 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: bride doll. White bridal suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 16. Miss Doll - DG Lilac Overbust
 
 ```
-Professional lilac corset photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink and purple makeup. full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET lilac satin, white trim. Lilac tulle skirt. PLEASER FLAMINGO-808 lilac 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: lavender dream. Purple garden. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lilac corset photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink and purple makeup. full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET lilac satin, white trim. Lilac tulle skirt. PLEASER FLAMINGO-808 lilac 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: lavender dream. Purple garden. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - DG Peach Underbust
 
 ```
-Professional peach corset photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with peach glow. Coral makeup. Glossy peach lips. Feminine hourglass silhouette. DARK GARDEN UNDERBUST CORSET peach satin. Cream bralette above. Peach flowing skirt. PLEASER FLAMINGO-808 peach 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: peachy sweet. Summer garden. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional peach corset photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with peach glow. Coral makeup. Glossy peach lips. Feminine hourglass silhouette. DARK GARDEN UNDERBUST CORSET peach satin. Cream bralette above. Peach flowing skirt. PLEASER FLAMINGO-808 peach 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: peachy sweet. Summer garden. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - DG Latex Panel Pink
 
 ```
-Professional latex panel photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET with hot pink latex panel inserts, satin and latex combination. Pink latex pants. PLEASER FLAMINGO-808 hot pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: mixed materials. Pink dungeon lite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional latex panel photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN OVERBUST CORSET with hot pink latex panel inserts, satin and latex combination. Pink latex pants. PLEASER FLAMINGO-808 hot pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: mixed materials. Pink dungeon lite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - DG Training Pink
 
 ```
-Professional training photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips focused. Feminine hourglass silhouette. DARK GARDEN WAIST TRAINING UNDERBUST CORSET pink cotton practical. Pink sportsbra above. Pink leggings below. PLEASER FLAMINGO-808 pink 8-inch heel. Mid-lacing process, pulling ribbons. Sensual pose with arched back, bedroom eyes. Expression: daily training. Pink gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional training photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips focused. Feminine hourglass silhouette. DARK GARDEN WAIST TRAINING UNDERBUST CORSET pink cotton practical. Pink sportsbra above. Pink leggings below. PLEASER FLAMINGO-808 pink 8-inch heel. Mid-lacing process, pulling ribbons. Sensual pose with arched back, bedroom eyes. Expression: daily training. Pink gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - DG Longline Pink
 
 ```
-Professional longline photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN LONGLINE OVERBUST CORSET hot pink satin, extends to hips, extreme line. Pink stockings attached. PLEASER FLAMINGO-808 pink 8-inch heel. Side angle full length. Sensual pose with arched back, bedroom eyes. Expression: extended pink. Pink boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional longline photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. DARK GARDEN LONGLINE OVERBUST CORSET hot pink satin, extends to hips, extreme line. Pink stockings attached. PLEASER FLAMINGO-808 pink 8-inch heel. Side angle full length. Sensual pose with arched back, bedroom eyes. Expression: extended pink. Pink boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

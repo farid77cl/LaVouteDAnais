@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -156,91 +158,91 @@ Professional post-scene photography of young elegant goth glamour woman inspired
 #### 16. Miss Doll - Collar Presentation
 
 ```
-Professional submissive photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips parted. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit tight. Pink underbust corset. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Kneeling, head bowed, pink leather collar offered up on palms. Sensual pose with arched back, bedroom eyes. Expression: please accept me. Pink dungeon aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional submissive photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips parted. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit tight. Pink underbust corset. PLEASER FLAMINGO-808 pink patent 8-inch platform heel. Kneeling, head bowed, pink leather collar offered up on palms. Sensual pose with arched back, bedroom eyes. Expression: please accept me. Pink dungeon aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 17. Miss Doll - Bound Wrists
 
 ```
-Professional bondage photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Wrists bound in front with pink leather cuffs and chain. Sensual pose with arched back, bedroom eyes. Expression: helpless acceptance. Pink dungeon with hearts. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bondage photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Wrists bound in front with pink leather cuffs and chain. Sensual pose with arched back, bedroom eyes. Expression: helpless acceptance. Pink dungeon with hearts. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 18. Miss Doll - Ball Gagged
 
 ```
-Professional gag photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. dramatic smokey eyes on eyelids only. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pink ball gag in mouth with white leather straps. Drool on chin. Sensual pose with arched back, bedroom eyes. Expression: wide eyes, muffled. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gag photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. dramatic smokey eyes on eyelids only. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pink ball gag in mouth with white leather straps. Drool on chin. Sensual pose with arched back, bedroom eyes. Expression: wide eyes, muffled. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 19. Miss Doll - Leashed Pet
 
 ```
-Professional pet play photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar around neck with heart tag. Pink leash attached, held by unseen hand above. PLEASER FLAMINGO-808 pink 8-inch heel. On hands and knees. Sensual pose with arched back, bedroom eyes. Expression: eager puppy. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pet play photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar around neck with heart tag. Pink leash attached, held by unseen hand above. PLEASER FLAMINGO-808 pink 8-inch heel. On hands and knees. Sensual pose with arched back, bedroom eyes. Expression: eager puppy. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Spanking Position
 
 ```
-Professional discipline photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with no rosy cheeks showing pink handprint on bottom. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing pink latex micro skirt flipped up. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Bent over pink spanking bench. Sensual pose with arched back, bedroom eyes. Expression: pouting from discipline. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional discipline photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with no rosy cheeks showing pink handprint on bottom. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing pink latex micro skirt flipped up. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Bent over pink spanking bench. Sensual pose with arched back, bedroom eyes. Expression: pouting from discipline. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 21. Miss Doll - Blindfolded
 
 ```
-Professional sensory play photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. Pink silk blindfold covering eyes. full glossy RED lips parted in anticipation. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing with hands behind back, waiting. Sensual pose with arched back, bedroom eyes. Expression: nervous anticipation. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sensory play photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. Pink silk blindfold covering eyes. full glossy RED lips parted in anticipation. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing with hands behind back, waiting. Sensual pose with arched back, bedroom eyes. Expression: nervous anticipation. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Chastity Belt Baby Blue
 
 ```
-Professional chastity photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips pouting. Human realistic face. Feminine hourglass silhouette. Wearing baby blue latex bra. Baby blue corset. Silver metal chastity belt locked around hips. PLEASER FLAMINGO-808 baby blue 8-inch heel. Looking down at the lock, frustrated. Sensual pose with arched back, bedroom eyes. Expression: denied doll. Baby blue dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chastity photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips pouting. Human realistic face. Feminine hourglass silhouette. Wearing baby blue latex bra. Baby blue corset. Silver metal chastity belt locked around hips. PLEASER FLAMINGO-808 baby blue 8-inch heel. Looking down at the lock, frustrated. Sensual pose with arched back, bedroom eyes. Expression: denied doll. Baby blue dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Kneeling Service
 
 ```
-Professional service photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex maid dress very short. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling, holding tray with drinks up. Sensual pose with arched back, bedroom eyes. Expression: eager to please. Pink dungeon mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex maid dress very short. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Kneeling, holding tray with drinks up. Sensual pose with arched back, bedroom eyes. Expression: eager to please. Pink dungeon mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Rope Bound
 
 ```
-Professional shibari photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with no rosy cheeks, pink rope marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Pink corset. Pink rope tied in decorative bondage pattern across torso. PLEASER FLAMINGO-808 pink 8-inch heel. Standing bound to post. Sensual pose with arched back, bedroom eyes. Expression: beautiful captive. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shibari photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with no rosy cheeks, pink rope marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Pink corset. Pink rope tied in decorative bondage pattern across torso. PLEASER FLAMINGO-808 pink 8-inch heel. Standing bound to post. Sensual pose with arched back, bedroom eyes. Expression: beautiful captive. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Spreader Bar White
 
 ```
-Professional restraint photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in nervous smile. Human realistic face. Feminine hourglass silhouette. Wearing white latex bodysuit pristine. White corset. PLEASER ADORE-1020 white patent 7-inch heel cuffed to silver spreader bar forcing legs apart. Arms cuffed above head. Sensual pose with arched back, bedroom eyes. Expression: exposed vulnerability. Clinical white dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional restraint photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in nervous smile. Human realistic face. Feminine hourglass silhouette. Wearing white latex bodysuit pristine. White corset. PLEASER ADORE-1020 white patent 7-inch heel cuffed to silver spreader bar forcing legs apart. Arms cuffed above head. Sensual pose with arched back, bedroom eyes. Expression: exposed vulnerability. Clinical white dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Worship Position
 
 ```
-Professional worship photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Lying prostrate on floor, arms extended forward in worship position. Sensual pose with arched back, bedroom eyes. Expression: total devotion. Pink dungeon with altar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional worship photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Lying prostrate on floor, arms extended forward in worship position. Sensual pose with arched back, bedroom eyes. Expression: total devotion. Pink dungeon with altar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Corner Punishment Lilac
 
 ```
-Professional punishment photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing lilac latex mini dress. Lilac corset. PLEASER FLAMINGO-808 lilac patent 8-inch heel. Standing in corner, facing wall, hands on head. Sensual pose with arched back, bedroom eyes. Expression: punished pouting. Lavender-lit dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional punishment photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in pout. Human realistic face. Feminine hourglass silhouette. Wearing lilac latex mini dress. Lilac corset. PLEASER FLAMINGO-808 lilac patent 8-inch heel. Standing in corner, facing wall, hands on head. Sensual pose with arched back, bedroom eyes. Expression: punished pouting. Lavender-lit dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Inspection Position
 
 ```
-Professional inspection photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit unzipped. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at attention, chin raised, being examined. Hand of inspector visible at edge checking collar. Sensual pose with arched back, bedroom eyes. Expression: awaiting approval. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional inspection photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit unzipped. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at attention, chin raised, being examined. Hand of inspector visible at edge checking collar. Sensual pose with arched back, bedroom eyes. Expression: awaiting approval. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Cage Pet
 
 ```
-Professional cage photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar. PLEASER FLAMINGO-808 8-inch heel (one visible). Curled up inside pink metal cage, hands gripping bars. Sensual pose with arched back, bedroom eyes. Expression: waiting for release. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cage photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar. PLEASER FLAMINGO-808 8-inch heel (one visible). Curled up inside pink metal cage, hands gripping bars. Sensual pose with arched back, bedroom eyes. Expression: waiting for release. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Post-Session Care
 
 ```
-Professional aftercare photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with no rosy cheeks, showing slight pink flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in soft smile. Human realistic face. Feminine hourglass silhouette. Wearing pink silk robe loosely. Pink corset removed beside her. PLEASER heels off. Wrapped in pink fluffy blanket, holding mug of cocoa. Sensual pose with arched back, bedroom eyes. Expression: floaty, content. Soft pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional aftercare photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with no rosy cheeks, showing slight pink flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in soft smile. Human realistic face. Feminine hourglass silhouette. Wearing pink silk robe loosely. Pink corset removed beside her. PLEASER heels off. Wrapped in pink fluffy blanket, holding mug of cocoa. Sensual pose with arched back, bedroom eyes. Expression: floaty, content. Soft pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -373,7 +375,7 @@ Professional ritual photography. ANAÏS: center elevated, honey blonde, gold cor
 
 ```
 
-Professional inspection photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit unzipped. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at attention, chin raised, being examined. Hand of inspector visible at edge checking collar. Sensual pose with arched back, bedroom eyes. Expression: awaiting approval. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional inspection photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex bodysuit unzipped. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Standing at attention, chin raised, being examined. Hand of inspector visible at edge checking collar. Sensual pose with arched back, bedroom eyes. Expression: awaiting approval. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
@@ -381,7 +383,7 @@ Professional inspection photography of woman with platinum blonde bob haircut wi
 
 ```
 
-Professional cage photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar. PLEASER FLAMINGO-808 8-inch heel (one visible). Curled up inside pink metal cage, hands gripping bars. Sensual pose with arched back, bedroom eyes. Expression: waiting for release. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional cage photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing pink latex catsuit. Pink corset. Pink collar. PLEASER FLAMINGO-808 8-inch heel (one visible). Curled up inside pink metal cage, hands gripping bars. Sensual pose with arched back, bedroom eyes. Expression: waiting for release. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 
@@ -389,7 +391,7 @@ Professional cage photography of woman with platinum blonde bob haircut with str
 
 ```
 
-Professional aftercare photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with no rosy cheeks, showing slight pink flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in soft smile. Human realistic face. Feminine hourglass silhouette. Wearing pink silk robe loosely. Pink corset removed beside her. PLEASER heels off. Wrapped in pink fluffy blanket, holding mug of cocoa. Sensual pose with arched back, bedroom eyes. Expression: floaty, content. Soft pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
+Professional aftercare photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with no rosy cheeks, showing slight pink flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips in soft smile. Human realistic face. Feminine hourglass silhouette. Wearing pink silk robe loosely. Pink corset removed beside her. PLEASER heels off. Wrapped in pink fluffy blanket, holding mug of cocoa. Sensual pose with arched back, bedroom eyes. Expression: floaty, content. Soft pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k.
 
 ```
 

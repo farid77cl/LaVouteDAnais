@@ -29,9 +29,9 @@ Y entonces, **Miss Doll** regresa.
 
 Ha cambiado de vestuario durante el corte comercial.
 
-Donde antes llevaba el catsuit de PVC rosa con plumas negras, ahora emerge con algo *peor*: un **microkini de látex rosa** que apenas cubre lo esencial, combinado con un **arnés de cuero negro** entrecruzado sobre su torso que enmarca sus pechos como si fueran trofeos. Sus piernas están envueltas en **medias de red nude** que le dan un brillo satinado a su piel, y sus muñecas lucen pesados **brazaletes de cromo y cuero negro**.
+Donde antes llevaba la falda de PVC y el corsé con plumas negras, ahora emerge con algo *peor*: un **microkini de látex rosa** que apenas cubre lo esencial, combinado con un **arnés de cuero negro** entrecruzado sobre su torso que enmarca sus pechos como si fueran trofeos. Sus piernas están envueltas en **medias de red nude** que le dan un brillo satinado a su piel, y sus muñecas lucen pesados **brazaletes de cromo y cuero negro**.
 
-Pero lo más imponente son sus botas. Miss Doll calza unas **Pleaser Flamingo-3028** en rosa chicle: botas sobre la rodilla con una lazada frontal interminable y múltiples hebillas negras que aprisionan sus piernas. Las plataformas de **22 centímetros** —las más altas jamás usadas en el show— llevan luces LED que pulsan en un rojo sangre rítmico.
+Pero lo más imponente son sus botas. Miss Doll calza unas **Pleaser Flamingo-3028** en rosa chicle: botas sobre la rodilla con lazada frontal de cinta de satén rosa. Las plataformas de **22 centímetros** —las más altas jamás usadas en el show— llevan luces LED que pulsan en un rojo sangre rítmico.
 
 Su cabello platino está recogido en una cola alta *agresiva*, exponiendo su cuello y sus hombros desnudos. Sus labios son ahora de un rojo oscuro, casi borgoña, como sangre seca.
 
@@ -42,8 +42,6 @@ Flanqueándola como guardaespaldas de una diosa del inframundo, aparecen **dos m
 Son *enormes*.
 
 Cada uno mide al menos dos metros. Sus cuerpos parecen esculpidos en mármol aceitado, cada músculo definido bajo una película brillante de aceite corporal que refleja las luces del estudio. Llevan solo unos **shorts de látex negro** extremadamente ajustados que no dejan nada a la imaginación. Sus mandíbulas son cuadradas, sus ojos oscuros e inexpresivos, su presencia puramente *física*.
-
-Como el Pit Crew de RuPaul's Drag Race, pero más intimidantes. Más *sexuales*.
 
 Se posicionan a cada lado de Miss Doll, sus brazos cruzados sobre pechos del tamaño de barriles.
 
@@ -83,7 +81,7 @@ Camina hacia los podios vacíos, sus dos modelos masculinos moviéndose con ella
 
 Chasquea los dedos. Los modelos masculinos flexionan sus bíceps al unísono. Sus pectorales brillan bajo las luces.
 
-—Ustedes quieren *guerra civil interna*. Y eso, mis queridos sádicos... eso es *arte*.
+—Ustedes quieren *guerra civil interna*. Y eso, mis queridos sádicos... eso es *arte*. —Aplaude lentamente, sus uñas de acrílico rosa centelleando bajo las luces—. ¡Felicidades! Han demostrado que su crueldad no tiene límites. Me enorgullecen.
 
 ---
 
@@ -111,15 +109,15 @@ Respira con dificultad. Cada inhalación es superficial, rápida, *femenina*. El
 
 Miss Doll se acerca a él. Su mano enguantada acaricia la curva imposible de su cintura.
 
-—Termina cuando uno de ustedes cruce la meta, Princesa. —Aprieta—. Y en este momento, Marco te lleva *seis puntos* de ventaja.
+—Termina cuando uno de ustedes cruce la meta, Princesa. —Aprieta—. Y en este momento, Marco te lleva *cuatro puntos* de ventaja.
 
 Chasquea los dedos.
 
 Los dos modelos masculinos se separan de su lado y caminan lentamente hacia Julián. Se posicionan a cada lado de él, flanqueándolo. Sus cuerpos aceitados brillan a centímetros de distancia.
 
-Julián intenta responder, pero sus ojos... sus ojos *no pueden evitarlo*. El modelo a su izquierda tiene un pectoral que parece una losa de granito. El de la derecha flexiona su cuello, y los tendones bajo la piel brillante se marcan como cuerdas.
+Julián intenta responder, pero la cercanía de esos cuerpos lo incomoda. Nunca ha estado tan cerca de hombres semidesnudos. Puede oler el aceite corporal, sentir el calor que irradian. Es... desconcertante. Perturbador.
 
-—Ji ji ji... —La risa sale automática, pero hay pánico debajo. Y algo *peor* que pánico.
+—Ji ji ji... —La risa nerviosa escapa, pero hay confusión debajo. Algo que no sabe cómo procesar.
 
 Miss Doll sonríe.
 
@@ -129,9 +127,9 @@ Miss Doll sonríe.
 
 ---
 
-## LA APLICACIÓN: COCK COMPASS
+## LA APLICACIÓN: TORTURA SENSUAL
 
-Miss Doll saca el control remoto rosa de su corsé.
+Miss Doll saca el control remoto rosa de entre las correas de su arnés.
 
 —El público ha votado. —Miss Doll gira el dial lentamente—. Veinticuatro millones de ustedes decidieron que el Príncipe necesita... *orientación*.
 
@@ -197,13 +195,13 @@ El tablero desciende con el marcador actualizado:
 
 **Marco "La Muñeca":** 6 puntos | IQ: 95 | Piel de Porcelana
 
-**Julián "El Príncipe":** 0 puntos | IQ: 120 | Giggle Lock + Cintura 48cm + *COCK COMPASS (NUEVO)*
+**Julián "El Príncipe":** 2 puntos | IQ: 120 | Giggle Lock + Cintura 48cm + *COCK COMPASS (NUEVO)*
 
 ---
 
 Miss Doll señala el marcador.
 
-—Seis a cero. Marco, cariño, estás *arrasando*. Y Julián... —Hace un puchero falso—. Bueno, al menos eres bonita ahora.
+—Seis a dos. Marco, cariño, sigues *liderando*. Y Julián... —Hace un puchero falso—. Bueno, al menos remontaste un poco. Pero ese Cock Compass te va a costar *caro*.
 
 Miss Doll se acerca a Marco y pasa un dedo por su brazo. Su Piel de Porcelana enciende cada nervio, haciéndolo estremecerse y gemir sutilmente.
 

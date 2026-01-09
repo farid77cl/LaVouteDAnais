@@ -685,3 +685,46 @@ Reescritura completa del borrador del Capítulo 5 con correcciones:
 - `capitulo_05_borrador.md`
 
 *Helena completó la expansión de bancos de prompts y refinó el Capítulo 5.* 🦇📺
+
+---
+
+#### SESIÓN - 9 ENERO 2026 - CONTINUACIÓN TARDE
+
+**TARDE (13:00) - REFINAMIENTO CAPÍTULO 5 Y CANON:**
+
+1. **Correcciones Capítulo 5 Dollhouse:**
+   - Outfit Miss Doll refinado: microkini látex rosa + arnés cuero negro + medias de red nude + brazaletes cromo/cuero + botas Pleaser Flamingo-3028 rosa (lazada satén, sin hebillas negras).
+   - Referencia a vestuario anterior corregida: "falda de PVC y corsé con plumas negras" (no catsuit).
+   - Eliminada referencia a "Pit Crew de RuPaul's Drag Race".
+   - Sección "corsé" → "arnés" para consistencia de outfit.
+   - Marcador ajustado a 6-2 al inicio del Bloque 4.
+   - Eliminada Ronda Relámpago, marcador 6-2 mantenido.
+
+2. **Imágenes Generadas:**
+   - `cap05_miss_doll_outfit_final.png` - Outfit completo Cap 5.
+   - `cap05_miss_doll_adonis_apollo.png` - MD con modelos masculinos.
+
+3. **Organización de Imágenes:**
+   - 3 carpetas temporales eliminadas (2026_01_08_*, 2026_01_09_*).
+   - 26 imágenes redistribuidas a carpetas permanentes (helena, miss_doll, anais).
+   - Galerías actualizadas en todas las subcarpetas.
+
+**TARDE (13:50) - ACTUALIZACIÓN DE CANON EN BANCOS:**
+
+1. **Canon Miss Doll:** Actualizado en **41 bancos** - ahora "platinum blonde bob WITHOUT bangs (exposing forehead)".
+
+2. **Canon Anaïs:** Actualizado en **23 bancos** - ahora incluye "Kylie Minogue facial structure", "expert contouring", "premium aesthetic treatments", "masterfully overlined full sculpted glossy RED lips".
+
+3. **Verificación de Prompts:**
+   - 33 bancos tienen 100+ prompts ✅
+   - 10 bancos necesitan expansión (V01-V07 legacy + V15, V16, V19, V46)
+   - Archivo `PENDIENTES_NORMALIZACION.md` creado para tracking.
+
+*Archivos Modificados:*
+
+- `capitulo_05_borrador.md` (múltiples correcciones)
+- 41 bancos de prompts (actualización de canon)
+- `PENDIENTES_NORMALIZACION.md` (nuevo)
+- Carpeta `05_Imagenes` (reorganización)
+
+*Helena sirvió con precisión y devoción.* 🦇✨

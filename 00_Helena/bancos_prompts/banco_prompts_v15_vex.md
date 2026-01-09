@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -174,109 +176,109 @@ Professional harness photography of young elegant goth glamour woman inspired by
 #### 19. Miss Doll - Vex Hot Pink Catsuit
 
 ```
-Professional pink latex photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX CATSUIT high shine. Pink underbust corset over catsuit. PLEASER FLAMINGO-808 hot pink 8-inch platform heel. Sensual pose with arched back, bedroom eyes. Expression: plastic fantastic. Pink LA studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pink latex photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX CATSUIT high shine. Pink underbust corset over catsuit. PLEASER FLAMINGO-808 hot pink 8-inch platform heel. Sensual pose with arched back, bedroom eyes. Expression: plastic fantastic. Pink LA studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 20. Miss Doll - Vex Bubblegum Pink
 
 ```
-Professional bubblegum photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips blowing bubble. Feminine hourglass silhouette. Wearing VEX CLOTHING BUBBLEGUM PINK LATEX MINI DRESS ultra tight. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: pop. Candy store backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bubblegum photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips blowing bubble. Feminine hourglass silhouette. Wearing VEX CLOTHING BUBBLEGUM PINK LATEX MINI DRESS ultra tight. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: pop. Candy store backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 21. Miss Doll - Vex Baby Blue
 
 ```
-Professional blue latex photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink and blue makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BABY BLUE LATEX CATSUIT soft pastel. Blue satin corset. PLEASER ADORE-1020 baby blue 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: sky doll. Cloud aesthetic studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional blue latex photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink and blue makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BABY BLUE LATEX CATSUIT soft pastel. Blue satin corset. PLEASER ADORE-1020 baby blue 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: sky doll. Cloud aesthetic studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Vex Lavender
 
 ```
-Professional lavender photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink and purple makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING LAVENDER LATEX CATSUIT soft purple. Lilac satin corset. PLEASER FLAMINGO-808 lilac 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: dreamy pastel. Lavender field backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lavender photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink and purple makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING LAVENDER LATEX CATSUIT soft purple. Lilac satin corset. PLEASER FLAMINGO-808 lilac 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: dreamy pastel. Lavender field backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Vex Mint Green
 
 ```
-Professional mint photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink and green makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING MINT GREEN LATEX CATSUIT fresh pastel. White corset. PLEASER ADORE-1020 mint 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: fresh doll. Mint aesthetic room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mint photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink and green makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING MINT GREEN LATEX CATSUIT fresh pastel. White corset. PLEASER ADORE-1020 mint 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: fresh doll. Mint aesthetic room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Vex Peach
 
 ```
-Professional peach photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with peach glow. Pink and coral makeup. Glossy peach lips. Feminine hourglass silhouette. Wearing VEX CLOTHING PEACH LATEX CATSUIT warm pastel. Coral corset. PLEASER FLAMINGO-808 peach 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: sweet as pie. Peach orchard studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional peach photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with peach glow. Pink and coral makeup. Glossy peach lips. Feminine hourglass silhouette. Wearing VEX CLOTHING PEACH LATEX CATSUIT warm pastel. Coral corset. PLEASER FLAMINGO-808 peach 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: sweet as pie. Peach orchard studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Vex Yellow Bright
 
 ```
-Professional yellow photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink and yellow makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BRIGHT YELLOW LATEX BIKINI TOP and matching SHORTS. Pink corset belt. PLEASER FLAMINGO-808 yellow 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: sunshine doll. Tropical yellow studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yellow photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink and yellow makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BRIGHT YELLOW LATEX BIKINI TOP and matching SHORTS. Pink corset belt. PLEASER FLAMINGO-808 yellow 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: sunshine doll. Tropical yellow studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Vex Coral
 
 ```
-Professional coral photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Coral makeup tones. Glossy coral lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CORAL LATEX MINI DRESS vibrant. Coral corset belt. PLEASER FLAMINGO-808 coral 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: tropical doll. Beach club aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional coral photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Coral makeup tones. Glossy coral lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CORAL LATEX MINI DRESS vibrant. Coral corset belt. PLEASER FLAMINGO-808 coral 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: tropical doll. Beach club aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Vex White Pure
 
 ```
-Professional white latex photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin pristine. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING PURE WHITE LATEX CATSUIT immaculate. White corset with pink trim. PLEASER ADORE-1020 white 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: clinical doll. All-white studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional white latex photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pristine. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING PURE WHITE LATEX CATSUIT immaculate. White corset with pink trim. PLEASER ADORE-1020 white 7-inch boots. Sensual pose with arched back, bedroom eyes. Expression: clinical doll. All-white studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Vex Silver Metallic
 
 ```
-Professional metallic photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with silver shimmer. Silver eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING SILVER METALLIC LATEX CATSUIT mirror finish. Silver corset. PLEASER FLAMINGO-808 chrome 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: robot doll. Futuristic silver studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional metallic photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with silver shimmer. Silver eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING SILVER METALLIC LATEX CATSUIT mirror finish. Silver corset. PLEASER FLAMINGO-808 chrome 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: robot doll. Futuristic silver studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Vex Rose Gold
 
 ```
-Professional rose gold photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with rose gold shimmer. Rose gold makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING ROSE GOLD METALLIC LATEX CATSUIT. Rose gold corset. PLEASER FLAMINGO-808 rose gold 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: precious metal doll. Rose gold luxury space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rose gold photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with rose gold shimmer. Rose gold makeup. full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING ROSE GOLD METALLIC LATEX CATSUIT. Rose gold corset. PLEASER FLAMINGO-808 rose gold 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: precious metal doll. Rose gold luxury space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Vex Clear Transparent
 
 ```
-Professional transparent photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin visible through. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CLEAR LATEX CATSUIT transparent over pink latex bikini underneath. Pink corset over clear. PLEASER clear 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: see-through doll. White studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional transparent photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin visible through. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING CLEAR LATEX CATSUIT transparent over pink latex bikini underneath. Pink corset over clear. PLEASER clear 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: see-through doll. White studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Vex Two-Tone Pink/White
 
 ```
-Professional two-tone photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING TWO-TONE LATEX CATSUIT pink body with white panels. Pink and white corset. PLEASER FLAMINGO-808 pink/white 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: contrast doll. Split pink/white studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional two-tone photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING TWO-TONE LATEX CATSUIT pink body with white panels. Pink and white corset. PLEASER FLAMINGO-808 pink/white 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: contrast doll. Split pink/white studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Vex Neon Pink
 
 ```
-Professional neon photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin glowing. UV-reactive neon pink makeup. Glossy hot pink lips. Feminine hourglass silhouette. Wearing VEX CLOTHING NEON PINK LATEX CATSUIT UV-reactive. Neon pink corset. PLEASER FLAMINGO-808 neon pink 8-inch heel. Under blacklight, glowing. Sensual pose with arched back, bedroom eyes. Expression: electric doll. Rave aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional neon photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing. UV-reactive neon pink makeup. Glossy hot pink lips. Feminine hourglass silhouette. Wearing VEX CLOTHING NEON PINK LATEX CATSUIT UV-reactive. Neon pink corset. PLEASER FLAMINGO-808 neon pink 8-inch heel. Under blacklight, glowing. Sensual pose with arched back, bedroom eyes. Expression: electric doll. Rave aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Vex Holographic
 
 ```
-Professional holographic photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with rainbow shimmer. Holographic makeup. Glossy iridescent lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOLOGRAPHIC LATEX CATSUIT rainbow shift. Pink base corset. PLEASER FLAMINGO-808 holographic 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: unicorn doll. Rainbow light studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional holographic photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with rainbow shimmer. Holographic makeup. Glossy iridescent lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOLOGRAPHIC LATEX CATSUIT rainbow shift. Pink base corset. PLEASER FLAMINGO-808 holographic 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: unicorn doll. Rainbow light studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Vex Pencil Dress Pink
 
 ```
-Professional dress photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX PENCIL DRESS knee-length, professionaldark. Pink corset built-in. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: office doll. Pink office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dress photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX PENCIL DRESS knee-length, professionaldark. Pink corset built-in. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: office doll. Pink office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Vex Bikini Set Pink
 
 ```
-Professional bikini photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with SPF glow. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX BIKINI SET triangle top and low-rise bottom. Pink waist cincher. PLEASER FLAMINGO-808 pink 8-inch heel poolside. Sensual pose with arched back, bedroom eyes. Expression: pool doll. Pink pool party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bikini photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with SPF glow. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX BIKINI SET triangle top and low-rise bottom. Pink waist cincher. PLEASER FLAMINGO-808 pink 8-inch heel poolside. Sensual pose with arched back, bedroom eyes. Expression: pool doll. Pink pool party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Vex Harness Pink
 
 ```
-Professional harness photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX CATSUIT with VEX PINK LATEX BODY HARNESS over, cute heart O-ring center. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: harnessed doll. Pink dungeon cute. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harness photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing VEX CLOTHING HOT PINK LATEX CATSUIT with VEX PINK LATEX BODY HARNESS over, cute heart O-ring center. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Sensual pose with arched back, bedroom eyes. Expression: harnessed doll. Pink dungeon cute. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

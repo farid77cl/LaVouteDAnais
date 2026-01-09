@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -186,25 +188,25 @@ Professional symbolic photography. PLEASER RAPTURE-1020 black patent 8-inch boot
 #### 21. Miss Doll - Flamingo 808 Hot Pink
 
 ```
-Professional heel fetish photography of Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Focus on feet. Wearing PLEASER FLAMINGO-808 hot pink patent 8-inch clear platform heel, iconic style. Pink latex stockings. Pink underbust corset visible above. Seated on pink throne, one heel extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: aren't they pretty. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heel fetish photography of Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Focus on feet. Wearing PLEASER FLAMINGO-808 hot pink patent 8-inch clear platform heel, iconic style. Pink latex stockings. Pink underbust corset visible above. Seated on pink throne, one heel extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: aren't they pretty. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Adore 1020 Baby Pink
 
 ```
-Professional shoe close-up photography. Focus on feet of Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 baby pink patent 7-inch ankle boot. Flawless porcelain ankle. Pink fishnet stockings. Pink corset visible above. Standing on pink carpet. Side angle showing delicate pink heel. Pink bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shoe close-up photography. Focus on feet of Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 baby pink patent 7-inch ankle boot. Flawless porcelain ankle. Pink fishnet stockings. Pink corset visible above. Standing on pink carpet. Side angle showing delicate pink heel. Pink bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Flamingo 1020 Pink Glitter
 
 ```
-Professional sparkle photography. PLEASER FLAMINGO-1020 hot pink glitter 8-inch platform ankle boots. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain legs. Pink corset. Glitter catching ring lights. Dance pose, one foot pointed. Pink party setting with balloons. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sparkle photography. PLEASER FLAMINGO-1020 hot pink glitter 8-inch platform ankle boots. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain legs. Pink corset. Glitter catching ring lights. Dance pose, one foot pointed. Pink party setting with balloons. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Clear Platform Pink Tips
 
 ```
-Professional clear heel photography. PLEASER FLAMINGO-808 clear platform with pink-tipped 8-inch heel. glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Porcelain foot visible through clear material. dramatic smokey eyes, pink lips. Pink corset above. Foot arched in clear shoe. Pink neon lights reflecting. Club setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional clear heel photography. PLEASER FLAMINGO-808 clear platform with pink-tipped 8-inch heel. glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Porcelain foot visible through clear material. dramatic smokey eyes, pink lips. Pink corset above. Foot arched in clear shoe. Pink neon lights reflecting. Club setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Walking Shot Pink
@@ -222,13 +224,13 @@ Professional shopping photography. Woman with platinum blonde bob in shoe store.
 #### 27. Miss Doll - Heel Worship Request
 
 ```
-Professional worship photography. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. dramatic smokey eyes, pink lips. Pink corset. PLEASER FLAMINGO-808 hot pink 8-inch heel extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: you may worship. Pink platform central. Pink lighting. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional worship photography. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. dramatic smokey eyes, pink lips. Pink corset. PLEASER FLAMINGO-808 hot pink 8-inch heel extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: you may worship. Pink platform central. Pink lighting. Pink dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Dangling Pink Heel
 
 ```
-Professional casual photography. glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Seated relaxed on pink couch. One PLEASER FLAMINGO-808 hot pink 8-inch heel dangling off toe. Flawless porcelain foot arch visible. Pink corset. Sensual pose with arched back, bedroom eyes. Expression: bored but pretty. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional casual photography. glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Seated relaxed on pink couch. One PLEASER FLAMINGO-808 hot pink 8-inch heel dangling off toe. Flawless porcelain foot arch visible. Pink corset. Sensual pose with arched back, bedroom eyes. Expression: bored but pretty. Pink living room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Mirror Pink Collection
@@ -246,13 +248,13 @@ Professional pool photography. Woman with platinum blonde bob at pink pool edge.
 #### 31. Miss Doll - Lilac Platform
 
 ```
-Professional color photography. PLEASER FLAMINGO-808 lilac patent 8-inch platform heel. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain foot and ankle. Pink corset. Lilac eyeshadow matching shoes. Crossed legs showing off pastel purple heels. Soft purple studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color photography. PLEASER FLAMINGO-808 lilac patent 8-inch platform heel. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain foot and ankle. Pink corset. Lilac eyeshadow matching shoes. Crossed legs showing off pastel purple heels. Soft purple studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Rose Gold Metallic
 
 ```
-Professional metallic photography. PLEASER ADORE-1020 rose gold metallic 7-inch ankle boots. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin with rose gold shimmer. Pink corset. Gold and pink together. Standing in luxury boutique. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Rose gold lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional metallic photography. PLEASER ADORE-1020 rose gold metallic 7-inch ankle boots. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin with rose gold shimmer. Pink corset. Gold and pink together. Standing in luxury boutique. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Rose gold lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Platform Height Show
@@ -264,25 +266,25 @@ Professional measurement photography. Side view of woman with platinum blonde bo
 #### 34. Miss Doll - Heel and Bubblegum
 
 ```
-Professional playful photography. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Blowing pink bubblegum. PLEASER FLAMINGO-808 hot pink 8-inch platform visible, propped on table. Pink corset. Sensual pose with arched back, bedroom eyes. Expression: pop. Pink aesthetic room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful photography. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Blowing pink bubblegum. PLEASER FLAMINGO-808 hot pink 8-inch platform visible, propped on table. Pink corset. Sensual pose with arched back, bedroom eyes. Expression: pop. Pink aesthetic room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Barefoot to Heel Sequence
 
 ```
-Professional before-after photography. glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Left side: bare porcelain foot. Right side: same foot in PLEASER FLAMINGO-808 hot pink 8-inch heel. Split image. Pink corset visible. Sensual pose with arched back, bedroom eyes. Expression: transformation. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional before-after photography. glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Left side: bare porcelain foot. Right side: same foot in PLEASER FLAMINGO-808 hot pink 8-inch heel. Split image. Pink corset visible. Sensual pose with arched back, bedroom eyes. Expression: transformation. Pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Heel Cleaning
 
 ```
-Professional care photography. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Pink corset. Gently cleaning PLEASER FLAMINGO-808 hot pink 8-inch heel with soft pink cloth. Sensual pose with arched back, bedroom eyes. Expression: caring for babies. Pink vanity. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional care photography. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Pink corset. Gently cleaning PLEASER FLAMINGO-808 hot pink 8-inch heel with soft pink cloth. Sensual pose with arched back, bedroom eyes. Expression: caring for babies. Pink vanity. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 37. Miss Doll - Toe Point Pink
 
 ```
-Professional artistic photography. PLEASER FLAMINGO-808 hot pink 8-inch platform with extreme toe point. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain leg extended. Pink corset. Ballet-inspired. Pink fabric backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional artistic photography. PLEASER FLAMINGO-808 hot pink 8-inch platform with extreme toe point. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain leg extended. Pink corset. Ballet-inspired. Pink fabric backdrop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 38. Miss Doll - Staircase Pink
@@ -294,13 +296,13 @@ Professional descent photography. Woman with platinum blonde bob descending pink
 #### 39. Miss Doll - Crossed Ankles Pink
 
 ```
-Professional ankle photography. Ultra close-up of crossed ankles. PLEASER FLAMINGO-808 hot pink 8-inch platforms on Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain ankles. Pink fishnet stockings. Pink corset hem visible. Pink velvet ottoman. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ankle photography. Ultra close-up of crossed ankles. PLEASER FLAMINGO-808 hot pink 8-inch platforms on Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain ankles. Pink fishnet stockings. Pink corset hem visible. Pink velvet ottoman. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - First Platform Steps
 
 ```
-Professional learning photography. Glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Pink corset. Taking careful first steps in PLEASER FLAMINGO-1020 hot pink 8-inch platforms, slight wobble. Hand on wall for support. Sensual pose with arched back, bedroom eyes. Expression: I can do this. Pink practice room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional learning photography. Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Flawless porcelain skin. Pink corset. Taking careful first steps in PLEASER FLAMINGO-1020 hot pink 8-inch platforms, slight wobble. Hand on wall for support. Sensual pose with arched back, bedroom eyes. Expression: I can do this. Pink practice room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
@@ -473,115 +475,115 @@ Professional heel photography of young elegant goth glamour woman inspired by Sa
 #### 66. Miss Doll - Mint Fresh Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 MINT GREEN patent 8-inch platform. Porcelain foot. Pink corset. Mint shimmer makeup. Spring fresh look. Sensual pose with arched back, bedroom eyes. Expression: minty fresh. Mint green studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 MINT GREEN patent 8-inch platform. Porcelain foot. Pink corset. Mint shimmer makeup. Spring fresh look. Sensual pose with arched back, bedroom eyes. Expression: minty fresh. Mint green studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 67. Miss Doll - Coral Summer Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 CORAL ORANGE patent 7-inch boots. Porcelain skin with coral glow. Pink corset. Coral makeup. Beach setting. Sensual pose with arched back, bedroom eyes. Expression: coral beach babe. Coral beach studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 CORAL ORANGE patent 7-inch boots. Porcelain skin with coral glow. Pink corset. Coral makeup. Beach setting. Sensual pose with arched back, bedroom eyes. Expression: coral beach babe. Coral beach studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 68. Miss Doll - Yellow Sunshine Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 CANARY YELLOW patent 8-inch platform. Porcelain foot. Pink corset. Yellow shimmer makeup. Bright sunny setting. Sensual pose with arched back, bedroom eyes. Expression: sunshine heels. Yellow sunny studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 CANARY YELLOW patent 8-inch platform. Porcelain foot. Pink corset. Yellow shimmer makeup. Bright sunny setting. Sensual pose with arched back, bedroom eyes. Expression: sunshine heels. Yellow sunny studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 69. Miss Doll - Tangerine Citrus Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 TANGERINE ORANGE glitter 8-inch boots. Porcelain legs. Pink corset. Orange makeup. Citrus themed setting. Sensual pose with arched back, bedroom eyes. Expression: citrus doll. Orange grove studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 TANGERINE ORANGE glitter 8-inch boots. Porcelain legs. Pink corset. Orange makeup. Citrus themed setting. Sensual pose with arched back, bedroom eyes. Expression: citrus doll. Orange grove studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 70. Miss Doll - Emerald Jewel Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 EMERALD GREEN velvet 7-inch boots. Porcelain skin with green reflection. Pink corset. Emerald makeup. Jewel vault setting. Sensual pose with arched back, bedroom eyes. Expression: emerald princess. Green vault studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 EMERALD GREEN velvet 7-inch boots. Porcelain skin with green reflection. Pink corset. Emerald makeup. Jewel vault setting. Sensual pose with arched back, bedroom eyes. Expression: emerald princess. Green vault studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 71. Miss Doll - Turquoise Beach Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 TURQUOISE patent 8-inch platform. Porcelain foot. Pink corset. Turquoise makeup. Tropical resort setting. Sensual pose with arched back, bedroom eyes. Expression: tropical heel goddess. Turquoise pool studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 TURQUOISE patent 8-inch platform. Porcelain foot. Pink corset. Turquoise makeup. Tropical resort setting. Sensual pose with arched back, bedroom eyes. Expression: tropical heel goddess. Turquoise pool studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 72. Miss Doll - Crimson Power Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 CRIMSON RED patent 8-inch boots. Porcelain legs. Red corset contrast. Bold red makeup. Power office setting. Sensual pose with arched back, bedroom eyes. Expression: power heel babe. Red power studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 CRIMSON RED patent 8-inch boots. Porcelain legs. Red corset contrast. Bold red makeup. Power office setting. Sensual pose with arched back, bedroom eyes. Expression: power heel babe. Red power studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 73. Miss Doll - Peach Soft Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 PEACH satin 7-inch boots. Peachy porcelain skin. Pink corset. Peach makeup. Soft romantic setting. Sensual pose with arched back, bedroom eyes. Expression: peachy princess. Peach boudoir. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 PEACH satin 7-inch boots. Peachy porcelain skin. Pink corset. Peach makeup. Soft romantic setting. Sensual pose with arched back, bedroom eyes. Expression: peachy princess. Peach boudoir. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 74. Miss Doll - Silver Moon Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 LIQUID SILVER chrome 8-inch platform. Silver porcelain skin. Silver corset. Chrome makeup. Moonlit setting. Sensual pose with arched back, bedroom eyes. Expression: lunar heel goddess. Silver moonlit studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 LIQUID SILVER chrome 8-inch platform. Silver porcelain skin. Silver corset. Chrome makeup. Moonlit setting. Sensual pose with arched back, bedroom eyes. Expression: lunar heel goddess. Silver moonlit studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 75. Miss Doll - Gold Trophy Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 GOLD METALLIC 8-inch boots. Porcelain skin with gold shimmer. Gold corset. Gold makeup. Trophy room setting. Sensual pose with arched back, bedroom eyes. Expression: golden trophy babe. Gold trophy studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 GOLD METALLIC 8-inch boots. Porcelain skin with gold shimmer. Gold corset. Gold makeup. Trophy room setting. Sensual pose with arched back, bedroom eyes. Expression: golden trophy babe. Gold trophy studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 76. Miss Doll - Neon Pink Rave Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 NEON PINK UV 8-inch platform. UV porcelain skin. Neon pink corset. Neon makeup. Blacklight rave setting. Sensual pose with arched back, bedroom eyes. Expression: rave heel queen. Neon UV studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 NEON PINK UV 8-inch platform. UV porcelain skin. Neon pink corset. Neon makeup. Blacklight rave setting. Sensual pose with arched back, bedroom eyes. Expression: rave heel queen. Neon UV studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 77. Miss Doll - Electric Blue Gaming Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 ELECTRIC BLUE LED 7-inch boots. Porcelain skin with blue glow. Blue corset. Electric blue makeup. Gaming den setting. Sensual pose with arched back, bedroom eyes. Expression: gamer girl heels. Blue LED studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 ELECTRIC BLUE LED 7-inch boots. Porcelain skin with blue glow. Blue corset. Electric blue makeup. Gaming den setting. Sensual pose with arched back, bedroom eyes. Expression: gamer girl heels. Blue LED studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 78. Miss Doll - Lilac Dream Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 LILAC satin 8-inch platform. Soft porcelain skin. Lilac corset. Lilac makeup. Dreamy spa setting. Sensual pose with arched back, bedroom eyes. Expression: dreamy heel princess. Lilac spa studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 LILAC satin 8-inch platform. Soft porcelain skin. Lilac corset. Lilac makeup. Dreamy spa setting. Sensual pose with arched back, bedroom eyes. Expression: dreamy heel princess. Lilac spa studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 79. Miss Doll - Lavender Spa Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 LAVENDER velvet 7-inch boots. Porcelain skin. Lavender corset. Lavender makeup. Spa treatment setting. Sensual pose with arched back, bedroom eyes. Expression: zen heel goddess. Lavender spa studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 LAVENDER velvet 7-inch boots. Porcelain skin. Lavender corset. Lavender makeup. Spa treatment setting. Sensual pose with arched back, bedroom eyes. Expression: zen heel goddess. Lavender spa studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 80. Miss Doll - Black Power Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 MIDNIGHT BLACK patent 8-inch boots. Pale porcelain legs. Black corset contrast. Black dramatic makeup. Law firm setting. Sensual pose with arched back, bedroom eyes. Expression: noir heel power. Black law office. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 MIDNIGHT BLACK patent 8-inch boots. Pale porcelain legs. Black corset contrast. Black dramatic makeup. Law firm setting. Sensual pose with arched back, bedroom eyes. Expression: noir heel power. Black law office. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 81. Miss Doll - Rose Gold Romance Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 ROSE GOLD metallic 8-inch platform. Porcelain skin with rose glow. Rose gold corset. Rose gold makeup. Wedding planning setting. Sensual pose with arched back, bedroom eyes. Expression: romantic heel bride. Rose gold studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 ROSE GOLD metallic 8-inch platform. Porcelain skin with rose glow. Rose gold corset. Rose gold makeup. Wedding planning setting. Sensual pose with arched back, bedroom eyes. Expression: romantic heel bride. Rose gold studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 82. Miss Doll - Bronze Autumn Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 BRONZE metallic 7-inch boots. Porcelain skin with copper glow. Bronze corset. Bronze makeup. Autumn leaves setting. Sensual pose with arched back, bedroom eyes. Expression: autumn heel beauty. Bronze autumn studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER ADORE-1020 BRONZE metallic 7-inch boots. Porcelain skin with copper glow. Bronze corset. Bronze makeup. Autumn leaves setting. Sensual pose with arched back, bedroom eyes. Expression: autumn heel beauty. Bronze autumn studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 83. Miss Doll - Champagne Celebration Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 CHAMPAGNE glitter 8-inch boots. Glitter porcelain skin. Champagne corset. Champagne gold makeup. NYE party setting. Sensual pose with arched back, bedroom eyes. Expression: celebration heel queen. Champagne party studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-1020 CHAMPAGNE glitter 8-inch boots. Glitter porcelain skin. Champagne corset. Champagne gold makeup. NYE party setting. Sensual pose with arched back, bedroom eyes. Expression: celebration heel queen. Champagne party studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 84. Miss Doll - Burgundy Wine Heels
 
 ```
-Professional heel photography of glamorous woman with platinum blonde bob with straight bangs. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 BURGUNDY velvet 8-inch platform. Porcelain skin with wine flush. Burgundy corset. Burgundy makeup. Wine tasting setting. Sensual pose with arched back, bedroom eyes. Expression: wine heel goddess. Burgundy cellar studio. Photorealistic 8k. Vertical portrait orientation.
+Professional heel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. PLEASER FLAMINGO-808 BURGUNDY velvet 8-inch platform. Porcelain skin with wine flush. Burgundy corset. Burgundy makeup. Wine tasting setting. Sensual pose with arched back, bedroom eyes. Expression: wine heel goddess. Burgundy cellar studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 85. Miss Doll - Rainbow Pride Heels

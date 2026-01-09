@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -37,12 +37,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -187,91 +189,91 @@ Professional bell tower photography of young elegant goth glamour woman inspired
 #### 21. Miss Doll - Pink Angel
 
 ```
-Professional angel photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK feathered wings massive, WHITE heavenly gown sheer. Floating on clouds effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven setting. Sensual angel pose. Expression: heaven's beauty. Pink angel. Seductive glamour photography, divine soft lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional angel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK feathered wings massive, WHITE heavenly gown sheer. Floating on clouds effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven setting. Sensual angel pose. Expression: heaven's beauty. Pink angel. Seductive glamour photography, divine soft lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Naughty Nun Pink Habit
 
 ```
-Professional nun photography of glamorous woman with platinum blonde bob haircut with straight bangs under pink veil. Flawless porcelain skin sinless. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nun habit modified short and tight, crucifix PINK. Rosary beads pink. PLEASER FLAMINGO-808 pink 8-inch platform heels. Convent setting. Sensual modest pose with twist. Expression: pink prayers. Pink nun. Seductive glamour photography, convent window lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nun photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink veil. Flawless porcelain skin sinless. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nun habit modified short and tight, crucifix PINK. Rosary beads pink. PLEASER FLAMINGO-808 pink 8-inch platform heels. Convent setting. Sensual modest pose with twist. Expression: pink prayers. Pink nun. Seductive glamour photography, convent window lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Heaven's Cheerleader
 
 ```
-Professional heavenly photography of glamorous woman with platinum blonde bob haircut with straight bangs with halo. Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK cheerleader outfit angel wings. Pom poms fluffy white. Cheering on clouds. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven stadium. Sensual cheer pose. Expression: give me an H-E-A-V-E-N. Heaven cheer. Seductive glamour photography, bright heaven lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heavenly photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with halo. Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK cheerleader outfit angel wings. Pom poms fluffy white. Cheering on clouds. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven stadium. Sensual cheer pose. Expression: give me an H-E-A-V-E-N. Heaven cheer. Seductive glamour photography, bright heaven lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Church Choir Singer
 
 ```
-Professional choir photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin pure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE choir robe with PINK sash. Holding hymn book singing. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral choir. Sensual singing pose. Expression: hallelujah. Choir singer. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional choir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE choir robe with PINK sash. Holding hymn book singing. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral choir. Sensual singing pose. Expression: hallelujah. Choir singer. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 25. Miss Doll - Cupid Valentine
 
 ```
-Professional cupid photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK mini toga Cupid style, WHITE and PINK wings small. Bow and heart arrow. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud setting. Sensual cupid pose. Expression: struck by love. Cupid. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cupid photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK mini toga Cupid style, WHITE and PINK wings small. Bow and heart arrow. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud setting. Sensual cupid pose. Expression: struck by love. Cupid. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Church Wedding Bride
 
 ```
-Professional wedding photography of glamorous woman with platinum blonde bob haircut with straight bangs under white veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE cathedral wedding gown, PINK bouquet roses. At church altar. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Church wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wedding photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE cathedral wedding gown, PINK bouquet roses. At church altar. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Church wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Gospel Singer
 
 ```
-Professional gospel photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin spirit-filled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK gospel robe glamorous. Microphone in hand singing passionately. Gospel choir behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Black church setting. Sensual gospel pose. Expression: amazing grace. Gospel singer. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gospel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin spirit-filled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK gospel robe glamorous. Microphone in hand singing passionately. Gospel choir behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Black church setting. Sensual gospel pose. Expression: amazing grace. Gospel singer. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Pink Devil Cute
 
 ```
-Professional devil photography of glamorous woman with platinum blonde bob haircut with straight bangs with tiny horns. Flawless porcelain skin mischievous. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes RED, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil costume cute, pitchfork tiny and pink. Devil tail pink heart tip. PLEASER FLAMINGO-808 red 8-inch platform heels. Pink hell setting playful. Sensual cute devil pose. Expression: naughty but nice. Cute devil. Seductive glamour photography, playful hellfire lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional devil photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with tiny horns. Flawless porcelain skin mischievous. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes RED, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil costume cute, pitchfork tiny and pink. Devil tail pink heart tip. PLEASER FLAMINGO-808 red 8-inch platform heels. Pink hell setting playful. Sensual cute devil pose. Expression: naughty but nice. Cute devil. Seductive glamour photography, playful hellfire lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 29. Miss Doll - Saint Valentine
 
 ```
-Professional saint photography of glamorous woman with platinum blonde bob haircut with straight bangs with heart halo. Flawless porcelain skin saintly. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE saint robes romantic. Surrounded by hearts and roses. Blessing couples. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church setting Valentine. Sensual saint pose. Expression: patron of love. Saint Valentine. Seductive glamour photography, romantic candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional saint photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with heart halo. Flawless porcelain skin saintly. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE saint robes romantic. Surrounded by hearts and roses. Blessing couples. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church setting Valentine. Sensual saint pose. Expression: patron of love. Saint Valentine. Seductive glamour photography, romantic candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Heaven's Gate Greeter
 
 ```
-Professional heaven photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE hostess gown angelic. Standing at pearly gates pink. Welcome clipboard. Wings small white. PLEASER FLAMINGO-808 gold 8-inch platform heels. Heaven's gate. Sensual greeter pose. Expression: welcome to paradise. Heaven greeter. Seductive glamour photography, golden gate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heaven photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE hostess gown angelic. Standing at pearly gates pink. Welcome clipboard. Wings small white. PLEASER FLAMINGO-808 gold 8-inch platform heels. Heaven's gate. Sensual greeter pose. Expression: welcome to paradise. Heaven greeter. Seductive glamour photography, golden gate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 31. Miss Doll - Pink Baptism
 
 ```
-Professional baptism photography of glamorous woman with platinum blonde bob haircut with straight bangs wet. Flawless porcelain skin cleansed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE baptism gown sheer when wet. Emerging from baptismal font. Water dripping. PLEASER FLAMINGO-808 white 8-inch platform heels poolside. Baptismal setting. Sensual emergence pose. Expression: born again. Baptism. Seductive glamour photography, underwater and surface lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baptism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin cleansed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE baptism gown sheer when wet. Emerging from baptismal font. Water dripping. PLEASER FLAMINGO-808 white 8-inch platform heels poolside. Baptismal setting. Sensual emergence pose. Expression: born again. Baptism. Seductive glamour photography, underwater and surface lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Confetti Angel
 
 ```
-Professional celebration photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin joyful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party angel costume. Wings pink feathered. Throwing confetti heavenward. PLEASER FLAMINGO-808 pink 8-inch platform heels. Heavenly party. Sensual celebration pose. Expression: heaven's party girl. Confetti angel. Seductive glamour photography, party sparkle lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional celebration photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin joyful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party angel costume. Wings pink feathered. Throwing confetti heavenward. PLEASER FLAMINGO-808 pink 8-inch platform heels. Heavenly party. Sensual celebration pose. Expression: heaven's party girl. Confetti angel. Seductive glamour photography, party sparkle lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 33. Miss Doll - Holy Communion Pink
 
 ```
-Professional communion photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin reverent. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing WHITE first communion dress adult sized short. Receiving communion wafer. Pink rosary in hands. PLEASER FLAMINGO-808 white 8-inch platform heels. Church altar. Sensual communion pose. Expression: body of Christ. Holy communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional communion photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin reverent. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing WHITE first communion dress adult sized short. Receiving communion wafer. Pink rosary in hands. PLEASER FLAMINGO-808 white 8-inch platform heels. Church altar. Sensual communion pose. Expression: body of Christ. Holy communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 34. Miss Doll - Pink Harem Heaven
 
 ```
-Professional harem photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin pampered. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK harem outfit sheer. Reclining on pink clouds. Grapes and wine. Heavenly reward setting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Paradise harem. Sensual reclining pose. Expression: 72 virgins who? Pink harem. Seductive glamour photography, soft paradise lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harem photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pampered. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK harem outfit sheer. Reclining on pink clouds. Grapes and wine. Heavenly reward setting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Paradise harem. Sensual reclining pose. Expression: 72 virgins who? Pink harem. Seductive glamour photography, soft paradise lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 35. Miss Doll - Seraphim Six Wings
 
 ```
-Professional seraph photography of glamorous woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin divine fire. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing WHITE and GOLD gown with SIX WINGS (seraphim style) pink and white. Face partially covered by wings. PLEASER FLAMINGO-808 gold 8-inch platform heels. Throne of God near. Sensual seraphim pose. Expression: holy holy holy. Seraphim. Seductive glamour photography, divine throne lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seraph photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin divine fire. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing WHITE and GOLD gown with SIX WINGS (seraphim style) pink and white. Face partially covered by wings. PLEASER FLAMINGO-808 gold 8-inch platform heels. Throne of God near. Sensual seraphim pose. Expression: holy holy holy. Seraphim. Seductive glamour photography, divine throne lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---

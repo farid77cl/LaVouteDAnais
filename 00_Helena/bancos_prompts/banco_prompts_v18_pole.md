@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut with straight bangs,
+Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,14 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (BASE)
 
 ```text
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated),
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```
 
 ### ⚠️ REGLAS ANTI-FILTRO
@@ -202,25 +204,25 @@ Professional floor work photography of young elegant goth glamour woman inspired
 #### 21. Miss Doll - Pole Sins Hot Pink Set
 
 ```
-Professional pink pole photography of woman with platinum blonde bob haircut with straight bangs. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing POLE SINS HOT PINK HIGH-WAISTED SHORTS and matching PINK SPORTS BRA. Pink underbust corset at waist. PLEASER FLAMINGO-808 hot pink 8-inch platform heel boots. Climbing pink chrome pole. Sensual pose with arched back, bedroom eyes. Expression: pink pole bunny. Hot pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pink pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing POLE SINS HOT PINK HIGH-WAISTED SHORTS and matching PINK SPORTS BRA. Pink underbust corset at waist. PLEASER FLAMINGO-808 hot pink 8-inch platform heel boots. Climbing pink chrome pole. Sensual pose with arched back, bedroom eyes. Expression: pink pole bunny. Hot pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 22. Miss Doll - Pole Sins Baby Pink Velvet
 
 ```
-Professional velvet pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS BABY PINK VELVET BOTTOMS short and VELVET BRALETTE soft. Pink corset accent. PLEASER FLAMINGO-808 baby pink 8-inch heel. Spinning on pole, soft movement. Sensual pose with arched back, bedroom eyes. Expression: soft princess. Pastel pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional velvet pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS BABY PINK VELVET BOTTOMS short and VELVET BRALETTE soft. Pink corset accent. PLEASER FLAMINGO-808 baby pink 8-inch heel. Spinning on pole, soft movement. Sensual pose with arched back, bedroom eyes. Expression: soft princess. Pastel pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 23. Miss Doll - Pole Sins Pink Mesh
 
 ```
-Professional mesh pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin visible through pink mesh. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK MESH HIGH-WAISTED SHORTS and MESH TOP see-through. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pole trick, legs extended. Sensual pose with arched back, bedroom eyes. Expression: sheer pink. Pink mesh lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mesh pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin visible through pink mesh. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK MESH HIGH-WAISTED SHORTS and MESH TOP see-through. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pole trick, legs extended. Sensual pose with arched back, bedroom eyes. Expression: sheer pink. Pink mesh lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 24. Miss Doll - Pole Sins Neon Pink
 
 ```
-Professional neon pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin UV glow. dramatic smokey eyes UV, full glossy RED lips UV. Feminine hourglass silhouette. Wearing POLE SINS NEON PINK SET UV-reactive. Pink corset UV glow. PLEASER FLAMINGO-808 clear with pink tips 8-inch heel. Under blacklight, glowing pink. Pole spin. Sensual pose with arched back, bedroom eyes. Expression: rave doll. Blacklight club. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional neon pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin UV glow. dramatic smokey eyes UV, full glossy RED lips UV. Feminine hourglass silhouette. Wearing POLE SINS NEON PINK SET UV-reactive. Pink corset UV glow. PLEASER FLAMINGO-808 clear with pink tips 8-inch heel. Under blacklight, glowing pink. Pole spin. Sensual pose with arched back, bedroom eyes. Expression: rave doll. Blacklight club. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Cleo the Hurricane Collection
@@ -228,25 +230,25 @@ Professional neon pole photography of woman with platinum blonde bob with straig
 #### 25. Miss Doll - Cleo Hurricane Pink Harness
 
 ```
-Professional harness pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK HARNESS SET cute strappy design with hearts. Pink corset integrated. PLEASER FLAMINGO-808 pink 8-inch heel. Suspended on pole in cute pose. Sensual pose with arched back, bedroom eyes. Expression: harnessed cutie. Pink industrial studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harness pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK HARNESS SET cute strappy design with hearts. Pink corset integrated. PLEASER FLAMINGO-808 pink 8-inch heel. Suspended on pole in cute pose. Sensual pose with arched back, bedroom eyes. Expression: harnessed cutie. Pink industrial studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 26. Miss Doll - Cleo Hurricane Iridescent Pink
 
 ```
-Professional iridescent pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with rainbow shimmer. Pink and purple eyeshadow, glossy iridescent lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE IRIDESCENT PINK CATSUIT color-shifting. Pink corset over. PLEASER FLAMINGO-808 iridescent 8-inch heel. Spinning on pole, colors catching light. Sensual pose with arched back, bedroom eyes. Expression: unicorn doll. Rainbow lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional iridescent pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with rainbow shimmer. Pink and purple eyeshadow, glossy iridescent lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE IRIDESCENT PINK CATSUIT color-shifting. Pink corset over. PLEASER FLAMINGO-808 iridescent 8-inch heel. Spinning on pole, colors catching light. Sensual pose with arched back, bedroom eyes. Expression: unicorn doll. Rainbow lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 27. Miss Doll - Cleo Hurricane Pink Lace
 
 ```
-Professional lace pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin through pink lace. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK LACE BODYSUIT romantic. Pink underbust corset over. PLEASER FLAMINGO-808 pink 8-inch heel. Back bend on pole, romantic arch. Sensual pose with arched back, bedroom eyes. Expression: lace princess. Romantic pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lace pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin through pink lace. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK LACE BODYSUIT romantic. Pink underbust corset over. PLEASER FLAMINGO-808 pink 8-inch heel. Back bend on pole, romantic arch. Sensual pose with arched back, bedroom eyes. Expression: lace princess. Romantic pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 28. Miss Doll - Cleo Hurricane White and Pink
 
 ```
-Professional two-tone pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE WHITE WITH PINK TRIM SET innocent look. White corset with pink ribbon. PLEASER ADORE-1020 white/pink 7-inch boots. Sweet pole climb. Sensual pose with arched back, bedroom eyes. Expression: innocent pole girl. White and pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional two-tone pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE WHITE WITH PINK TRIM SET innocent look. White corset with pink ribbon. PLEASER ADORE-1020 white/pink 7-inch boots. Sweet pole climb. Sensual pose with arched back, bedroom eyes. Expression: innocent pole girl. White and pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Luna Polewear Collection
@@ -254,13 +256,13 @@ Professional two-tone pole photography of woman with platinum blonde bob with st
 #### 29. Miss Doll - Luna Barbie Pink Set
 
 ```
-Professional Barbie pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Bright dramatic smokey eyes, glossy hot pink lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR BARBIE PINK HIGH-WAISTED SHORTS and BRA SET shiny. Pink corset. PLEASER FLAMINGO-808 bright pink 8-inch heel. Pole pose, Barbie energy. Sensual pose with arched back, bedroom eyes. Expression: pole Barbie. Bright pink everything studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Barbie pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Bright dramatic smokey eyes, glossy hot pink lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR BARBIE PINK HIGH-WAISTED SHORTS and BRA SET shiny. Pink corset. PLEASER FLAMINGO-808 bright pink 8-inch heel. Pole pose, Barbie energy. Sensual pose with arched back, bedroom eyes. Expression: pole Barbie. Bright pink everything studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 30. Miss Doll - Luna Pastel Rainbow
 
 ```
-Professional rainbow pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pastel rainbow eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PASTEL RAINBOW SET pinks, purples, blues. Pink corset base. PLEASER FLAMINGO-808 pink 8-inch heel. Spinning on pole, rainbow flow. Sensual pose with arched back, bedroom eyes. Expression: candy doll. Pastel rainbow studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rainbow pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pastel rainbow eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PASTEL RAINBOW SET pinks, purples, blues. Pink corset base. PLEASER FLAMINGO-808 pink 8-inch heel. Spinning on pole, rainbow flow. Sensual pose with arched back, bedroom eyes. Expression: candy doll. Pastel rainbow studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Performance & Competition
@@ -268,13 +270,13 @@ Professional rainbow pole photography of woman with platinum blonde bob with str
 #### 31. Miss Doll - Competition Pink Rhinestone
 
 ```
-Professional competition pole photography of woman with platinum blonde bob with straight bangs in competition style. Flawless porcelain skin. Pink glitter eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS COMPETITION PINK SET covered in pink rhinestones sparkling. Pink competition corset. PLEASER FLAMINGO-808 pink rhinestone 8-inch heel. Competition move on pole. Sensual pose with arched back, bedroom eyes. Expression: competing princess. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional competition pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in competition style. Flawless porcelain skin. Pink glitter eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS COMPETITION PINK SET covered in pink rhinestones sparkling. Pink competition corset. PLEASER FLAMINGO-808 pink rhinestone 8-inch heel. Competition move on pole. Sensual pose with arched back, bedroom eyes. Expression: competing princess. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 32. Miss Doll - Performance Pink Angel
 
 ```
-Professional angel performance photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK ANGEL COSTUME with feather accents for performance. Pink corset base. PLEASER ADORE-1020 white 7-inch boots. Angel pose on pole. Sensual pose with arched back, bedroom eyes. Expression: pole angel. White and pink stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional angel performance photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK ANGEL COSTUME with feather accents for performance. Pink corset base. PLEASER ADORE-1020 white 7-inch boots. Angel pose on pole. Sensual pose with arched back, bedroom eyes. Expression: pole angel. White and pink stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Freestyle & Practice
@@ -288,7 +290,7 @@ Professional practice photography of woman with platinum blonde bob in high pony
 #### 34. Miss Doll - Warm-Up Pink Leggings
 
 ```
-Professional warm-up photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PINK HIGH-WAISTED LEGGINGS warm-up and PINK LONG SLEEVE CROP. Pink corset to the side. PLEASER heels ready. Stretching by pole. Sensual pose with arched back, bedroom eyes. Expression: warming up. Pink yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional warm-up photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PINK HIGH-WAISTED LEGGINGS warm-up and PINK LONG SLEEVE CROP. Pink corset to the side. PLEASER heels ready. Stretching by pole. Sensual pose with arched back, bedroom eyes. Expression: warming up. Pink yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Special Themes
@@ -296,7 +298,7 @@ Professional warm-up photography of woman with platinum blonde bob with straight
 #### 35. Miss Doll - Pole Birthday Party
 
 ```
-Professional birthday pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin with body glitter. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK BIRTHDAY SET with "Birthday Girl" detail. Pink party corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pole spin with confetti falling. Sensual pose with arched back, bedroom eyes. Expression: birthday pole queen. Pink party room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional birthday pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with body glitter. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK BIRTHDAY SET with "Birthday Girl" detail. Pink party corset. PLEASER FLAMINGO-808 pink 8-inch heel. Pole spin with confetti falling. Sensual pose with arched back, bedroom eyes. Expression: birthday pole queen. Pink party room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 36. Miss Doll - Pole Gym Bunny
@@ -308,7 +310,7 @@ Professional gym bunny pole photography of woman with platinum blonde bob with b
 #### 37. Miss Doll - Pole Burlesque Pink
 
 ```
-Professional burlesque pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. Pink vintage eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK BURLESQUE SET with fringe and tassels. Pink overbust corset. PLEASER FLAMINGO-808 pink 8-inch heel. Tassel spinning on pole. Sensual pose with arched back, bedroom eyes. Expression: burlesque doll. Vintage cabaret studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional burlesque pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Pink vintage eyeshadow, full glossy RED lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PINK BURLESQUE SET with fringe and tassels. Pink overbust corset. PLEASER FLAMINGO-808 pink 8-inch heel. Tassel spinning on pole. Sensual pose with arched back, bedroom eyes. Expression: burlesque doll. Vintage cabaret studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ### Chair & Floor Work
@@ -316,19 +318,19 @@ Professional burlesque pole photography of woman with platinum blonde bob with s
 #### 38. Miss Doll - Chair Dance Pink
 
 ```
-Professional chair dance photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK MICRO SET minimal. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel on pink chair. Arched back over pink chair. Sensual pose with arched back, bedroom eyes. Expression: pink chair tease. Pink cabaret. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chair dance photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing POLE SINS PINK MICRO SET minimal. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel on pink chair. Arched back over pink chair. Sensual pose with arched back, bedroom eyes. Expression: pink chair tease. Pink cabaret. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 39. Miss Doll - Floor Work Pink
 
 ```
-Professional floor work photography of woman with platinum blonde bob with straight bangs spread on pink floor. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PINK BODYSUIT. Pink corset visible. PLEASER FLAMINGO-808 pink 8-inch heel legs extended. Sensual floor waves. Sensual pose with arched back, bedroom eyes. Expression: floor princess. Pink floor studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional floor work photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) spread on pink floor. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR PINK BODYSUIT. Pink corset visible. PLEASER FLAMINGO-808 pink 8-inch heel legs extended. Sensual floor waves. Sensual pose with arched back, bedroom eyes. Expression: floor princess. Pink floor studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 #### 40. Miss Doll - Pole Kiss
 
 ```
-Professional kiss pole photography of woman with platinum blonde bob with straight bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips kissing pole. Feminine hourglass silhouette. Wearing POLE SINS HOT PINK SET. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Hugging pole, giving it a kiss. Sensual pose with arched back, bedroom eyes. Expression: pole love. Intimate pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional kiss pole photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, arched brows, full glossy RED lips kissing pole. Feminine hourglass silhouette. Wearing POLE SINS HOT PINK SET. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Hugging pole, giving it a kiss. Sensual pose with arched back, bedroom eyes. Expression: pole love. Intimate pink studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
