@@ -1,6 +1,24 @@
-﻿# GalerÃ­a de ImÃ¡genes: miss_doll
+# Galería de Imágenes: miss_doll
 
-> **Total ImÃ¡genes:** 54
+> **Total Imágenes:** 60
+
+### MISS_DOLL_CANON_COMIC.jpg
+
+![MISS_DOLL_CANON_COMIC.jpg](MISS_DOLL_CANON_COMIC.jpg)
+
+---
+
+### Miss_Doll_Bronzed_MediumShot.png
+
+![Miss_Doll_Bronzed_MediumShot.png](Miss_Doll_Bronzed_MediumShot.png)
+
+---
+
+### Miss_Doll_Canon_Base_MediumShot.png
+
+![Miss_Doll_Canon_Base_MediumShot.png](Miss_Doll_Canon_Base_MediumShot.png)
+
+---
 
 ### banner_eyes.png
 
@@ -23,6 +41,18 @@
 ### miss_doll_ballerina.jpg
 
 ![miss_doll_ballerina.jpg](miss_doll_ballerina.jpg)
+
+---
+
+### miss_doll_banner_1200x400.png
+
+![miss_doll_banner_1200x400.png](miss_doll_banner_1200x400.png)
+
+---
+
+### miss_doll_banner_final_1200x400.png
+
+![miss_doll_banner_final_1200x400.png](miss_doll_banner_final_1200x400.png)
 
 ---
 
@@ -56,12 +86,6 @@
 
 ---
 
-### MISS_DOLL_CANON_COMIC.jpg
-
-![MISS_DOLL_CANON_COMIC.jpg](MISS_DOLL_CANON_COMIC.jpg)
-
----
-
 ### miss_doll_canon_realista.png
 
 ![miss_doll_canon_realista.png](miss_doll_canon_realista.png)
@@ -89,6 +113,12 @@
 ### miss_doll_cheerleader.jpg
 
 ![miss_doll_cheerleader.jpg](miss_doll_cheerleader.jpg)
+
+---
+
+### miss_doll_comic_banner.png
+
+![miss_doll_comic_banner.png](miss_doll_comic_banner.png)
 
 ---
 
@@ -266,6 +296,12 @@
 
 ---
 
+### referencia_canon_miss_doll.jpg
+
+![referencia_canon_miss_doll.jpg](referencia_canon_miss_doll.jpg)
+
+---
+
 ### separator_eyes_hood.png
 
 ![separator_eyes_hood.png](separator_eyes_hood.png)
@@ -326,4 +362,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

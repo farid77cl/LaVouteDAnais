@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: imagenes
+# Galería de Imágenes: imagenes
 
-> **Total ImÃ¡genes:** 4
+> **Total Imágenes:** 4
 
 ### pag01_portada.png
 
@@ -26,4 +26,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

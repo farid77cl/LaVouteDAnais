@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: miss_doll
+# Galería de Imágenes: miss_doll
 
-> **Total ImÃ¡genes:** 2
+> **Total Imágenes:** 2
 
 ### MISS_DOLL_CANON_COMIC.jpg
 
@@ -14,4 +14,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

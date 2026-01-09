@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: descartadas
+# Galería de Imágenes: descartadas
 
-> **Total ImÃ¡genes:** 8
+> **Total Imágenes:** 8
 
 ### 01_portada_alt.png
 
@@ -50,4 +50,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

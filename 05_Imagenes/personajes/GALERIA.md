@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: personajes
+# Galería de Imágenes: personajes
 
-> **Total ImÃ¡genes:** 1
+> **Total Imágenes:** 1
 
 ### ginny_bimbo_genie_01.png
 
@@ -8,4 +8,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

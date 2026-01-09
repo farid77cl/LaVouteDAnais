@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: el_vino_del_vecino
+# Galería de Imágenes: el_vino_del_vecino
 
-> **Total ImÃ¡genes:** 4
+> **Total Imágenes:** 4
 
 ### roxy_cougar_hunt.jpg
 
@@ -26,4 +26,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

@@ -1,10 +1,46 @@
-﻿# GalerÃ­a de ImÃ¡genes: the_dollhouse
+# Galería de Imágenes: the_dollhouse
 
-> **Total ImÃ¡genes:** 4
+> **Total Imágenes:** 13
+
+### cap05_outfit_base.png
+
+![cap05_outfit_base.png](cap05_outfit_base.png)
+
+---
+
+### cap05_outfit_black_boots.png
+
+![cap05_outfit_black_boots.png](cap05_outfit_black_boots.png)
+
+---
+
+### cap05_outfit_fishnets.png
+
+![cap05_outfit_fishnets.png](cap05_outfit_fishnets.png)
+
+---
+
+### cap05_outfit_flamingo_3028.png
+
+![cap05_outfit_flamingo_3028.png](cap05_outfit_flamingo_3028.png)
+
+---
+
+### cap05_outfit_pink_boots.png
+
+![cap05_outfit_pink_boots.png](cap05_outfit_pink_boots.png)
+
+---
 
 ### dollhouse_julian_giggle_1767353085901.png
 
 ![dollhouse_julian_giggle_1767353085901.png](dollhouse_julian_giggle_1767353085901.png)
+
+---
+
+### dollhouse_julian_wasp_waist_cap4.png
+
+![dollhouse_julian_wasp_waist_cap4.png](dollhouse_julian_wasp_waist_cap4.png)
 
 ---
 
@@ -20,10 +56,28 @@
 
 ---
 
+### dollhouse_miss_doll_domina_cap4.png
+
+![dollhouse_miss_doll_domina_cap4.png](dollhouse_miss_doll_domina_cap4.png)
+
+---
+
+### dollhouse_miss_doll_domina_cap4_v2.png
+
+![dollhouse_miss_doll_domina_cap4_v2.png](dollhouse_miss_doll_domina_cap4_v2.png)
+
+---
+
 ### dollhouse_stage_set_1767353101127.png
 
 ![dollhouse_stage_set_1767353101127.png](dollhouse_stage_set_1767353101127.png)
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+### poll_result_julian_cap04.png
+
+![poll_result_julian_cap04.png](poll_result_julian_cap04.png)
+
+---
+
+*Generado automáticamente el 2026-01-09 11:36*

@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: anais
+# Galería de Imágenes: anais
 
-> **Total ImÃ¡genes:** 8
+> **Total Imágenes:** 10
 
 ### anais_art_curator.jpg
 
@@ -44,10 +44,22 @@
 
 ---
 
+### anais_profile_2026_v1.png
+
+![anais_profile_2026_v1.png](anais_profile_2026_v1.png)
+
+---
+
+### anais_profile_canon_2026.png
+
+![anais_profile_canon_2026.png](anais_profile_canon_2026.png)
+
+---
+
 ### anais_riviera_bikini.jpg
 
 ![anais_riviera_bikini.jpg](anais_riviera_bikini.jpg)
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*

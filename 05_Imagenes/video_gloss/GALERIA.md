@@ -1,6 +1,6 @@
-﻿# GalerÃ­a de ImÃ¡genes: video_gloss
+# Galería de Imágenes: video_gloss
 
-> **Total ImÃ¡genes:** 2
+> **Total Imágenes:** 2
 
 ### lipstick_macro.png
 
@@ -14,4 +14,4 @@
 
 ---
 
-*Generado automÃ¡ticamente el 2026-01-04 12:02*
+*Generado automáticamente el 2026-01-09 11:36*
