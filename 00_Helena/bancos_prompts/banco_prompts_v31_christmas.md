@@ -370,9 +370,322 @@ Professional ball duo photography. HELENA: Sacha Massacre look in BLACK Christma
 
 ---
 
+## 🎄 IV. MISS DOLL — PINK CHRISTMAS SENSUAL (15 PROMPTS)
+
+#### 51. Miss Doll - Pink Stocking Emerge
+
+```
+Professional stocking photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin holiday surprise. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes holiday glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK Christmas stocking hung by fireplace. Wearing RED lingerie as outfit. PLEASER FLAMINGO-808 red 8-inch platform heels. Fireplace Christmas. Sensual emerge pose. Expression: Santa's gift. Stocking reveal. Seductive glamour photography, fireplace glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Miss Doll - Christmas Eve Window
+
+```
+Professional window photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin moonlight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE satin nightgown winter, looking out window at snow. Waiting for Christmas morning. PLEASER FLAMINGO-808 pink fuzzy slippers. Bedroom window. Sensual waiting pose. Expression: Santa coming? Christmas Eve. Seductive glamour photography, moonlit snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Miss Doll - Hot Tub Winter
+
+```
+Professional hot tub photography of glamorous woman with platinum blonde bob (no bangs) wet steam effect. Flawless porcelain skin steam glow. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. In outdoor hot tub, snow falling around. PINK bikini visible. Champagne in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels by tub edge. Snowy deck. Sensual hot tub pose. Expression: winter warmth. Hot tub winter. Seductive glamour photography, steam and snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Miss Doll - Gift Wrapping Disaster
+
+```
+Professional chaos photography of glamorous woman with platinum blonde bob (no bangs) frustrated cute. Flawless porcelain skin effort flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips pouting. Human realistic face. Tangled in ribbon and wrapping paper trying to wrap gift. PINK outfit visible through tangled ribbons. PLEASER FLAMINGO-808 pink 8-inch platform heels. Wrapping room chaos. Sensual tangled pose. Expression: help! Wrapping disaster. Seductive glamour photography, chaos warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Miss Doll - Advent Calendar
+
+```
+Professional calendar photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin anticipation. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Opening door 24 on giant life-size advent calendar. SHE is the surprise inside. PINK outfit. PLEASER FLAMINGO-808 pink 8-inch platform heels. Giant advent calendar. Sensual reveal pose. Expression: final surprise. Advent reveal. Seductive glamour photography, advent magic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Miss Doll - Christmas Tree Farm
+
+```
+Professional farm photography of glamorous woman with platinum blonde bob (no bangs) under winter hat. Flawless porcelain skin outdoor fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK puffy winter jacket, selecting perfect tree at tree farm. Saw in hand. PLEASER FLAMINGO-808 pink snow boots. Christmas tree lot. Sensual selection pose. Expression: this one perfect. Tree farm. Seductive glamour photography, snowy outdoor lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Miss Doll - Holiday Office Party
+
+```
+Professional party photography of glamorous woman with platinum blonde bob (no bangs) Santa hat tilted. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes festive, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cocktail dress festive at office party. By watercooler flirting with coworker implied. PLEASER FLAMINGO-808 red 8-inch platform heels. Office decorated Christmas. Sensual party pose. Expression: office secret Santa. Party girl. Seductive glamour photography, office party lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Miss Doll - Ugly Sweater Sexy
+
+```
+Professional sweater photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin cozy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing UGLY Christmas sweater but making it sexy, cropped short, paired with tiny shorts. Wine in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Ugly sweater party. Sensual ugly cute pose. Expression: ugly never looked better. Ugly sweater. Seductive glamour photography, party home lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Miss Doll - Snow Globe Inside
+
+```
+Professional fantasy photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin magical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes sparkle, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. INSIDE a giant snow globe, wearing PINK winter fairy outfit. Snow swirling around her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Snow globe world. Sensual fairy pose. Expression: make a wish. Snow globe fairy. Seductive glamour photography, magical sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Miss Doll - Christmas Catalog Model
+
+```
+Professional catalog photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin catalog perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Posing as Christmas lingerie catalog model, PINK lace holiday set. Multiple poses composite style. Price tag visible joke. PLEASER FLAMINGO-808 pink 8-inch platform heels. Studio catalog shoot. Sensual catalog pose. Expression: page 24. Catalog model. Seductive glamour photography, catalog studio lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Miss Doll - Pink Snowmobile
+
+```
+Professional snowmobile photography of glamorous woman with platinum blonde bob (no bangs) under helmet. Flawless porcelain skin adventure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Riding PINK snowmobile through winter wonderland. PINK winter gear fitted. Snow spray behind. PLEASER removed, pink snow boots. Snowy trail. Sensual action pose. Expression: snow queen. Snowmobile girl. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Miss Doll - Christmas Morning Coffee
+
+```
+Professional morning photography of glamorous woman with platinum blonde bob (no bangs) messy cute. Flawless porcelain skin morning fresh. HEAVY GLAMOUR MAKEUP natural: light eyes, minimal liner, natural lashes, natural brows, full glossy NUDE lips. Human realistic face. Just woke up Christmas morning, barely dressed in oversized Christmas sweater only. Coffee mug "Nice List". PLEASER FLAMINGO-808 removed, fuzzy pink slippers. Morning tree glow. Sensual lazy pose. Expression: merry morning. Christmas morning. Seductive glamour photography, morning tree lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Miss Doll - Pink Polar Bear
+
+```
+Professional costume photography of glamorous woman with platinum blonde bob (no bangs) in pink polar bear hood. Flawless porcelain skin cute. HEAVY GLAMOUR MAKEUP: dramatic eyes visible through costume, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK polar bear onesie kigurumi modified sexy short. Hugging polar bear plush. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Winter wonderland. Sensual bear pose. Expression: beary cute. Polar bear girl. Seductive glamour photography, cute kawaii lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Miss Doll - Champagne Pop
+
+```
+Professional champagne photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Popping champagne Christmas celebration, champagne spraying. Wearing PINK silk party dress. Laughing with champagne shower. PLEASER FLAMINGO-808 gold 8-inch platform heels. New Year Christmas party. Sensual celebration pose. Expression: celebrate! Champagne pop. Seductive glamour photography, champagne sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Miss Doll - Fireplace Reading
+
+```
+Professional cozy photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin firelight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes warm tones, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Lying by fireplace reading "Twas the Night", PINK cashmere loungewear minimal. Fire crackling, Christmas stockings hung. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Cozy living room. Sensual reading pose. Expression: Christmas story. Fireplace reading. Seductive glamour photography, firelight warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🦇 V. HELENA — DARK CHRISTMAS SENSUAL (15 PROMPTS)
+
+#### 66. Helena - Gothic Yule
+
+```
+Professional yule photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair holly crown. Pale porcelain white skin yule glow. Full glossy dark cherry lips. Wearing BLACK Victorian yule gown holly pattern. At yule altar, candles lit, yule log burning. Ritual stance. PLEASER RAPTURE-1020 black 8-inch boots. Pagan yule setting. Sensual ritual pose. Expression: blessed yule. Yule queen. Seductive glamour photography, candlelight yule lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Helena - Dark Elf Queen
+
+```
+Professional dark elf photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under dark elf crown. Pale porcelain white skin elf glow. Full glossy black lips. Wearing BLACK and SILVER dark elf armor feminine, commanding dark elves. Workshop of dark gifts. PLEASER RAPTURE-1020 black 8-inch boots elf pointed. Dark workshop. Sensual commander pose. Expression: dark gifts for dark souls. Dark elf queen. Seductive glamour photography, dark workshop lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Helena - Black Widow Christmas
+
+```
+Professional widow photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair widow veil. Pale porcelain white skin grieving beautiful. Full glossy black lips mourning. Wearing BLACK elegant Christmas dress widow style. Alone by Christmas tree, single black ornament. Wine glass. PLEASER RAPTURE-1020 black 8-inch heels. Victorian parlor Christmas. Sensual mourning pose. Expression: memories of Christmas past. Black widow. Seductive glamour photography, melancholic Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Helena - Krampusnacht
+
+```
+Professional Krampusnacht photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with horns. Pale porcelain white skin terrifying beautiful. Full glossy red lips. Wearing KRAMPUS inspired costume fur and chains, birch bundle. Chasing naughty souls through snow. PLEASER RAPTURE-1020 black 8-inch boots demon style. Alpine village night. Sensual chase pose. Expression: running won't save you. Krampusnacht. Seductive glamour photography, torchlit horror lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Helena - Black Christmas Tree
+
+```
+Professional tree photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair star topper. Pale porcelain white skin tree light glow. Full glossy silver lips. Standing INSIDE a black Christmas tree shape dress, becoming the tree. Black ornaments, silver tinsel. Living art. PLEASER RAPTURE-1020 black 8-inch boots tree base. Dark living room. Sensual tree pose. Expression: dark decoration. Black tree. Seductive glamour photography, tree spot lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Helena - Coal Gift
+
+```
+Professional coal photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair coal dust. Pale porcelain white skin coal smudged artistic. Full glossy black lips. Wearing BLACK outfit with coal accessories. Delivering coal to naughty children from black sack. Evil grin. PLEASER RAPTURE-1020 black 8-inch boots. Chimney rooftop. Sensual delivery pose. Expression: you've been naughty. Coal deliverer. Seductive glamour photography, chimney dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Helena - Gothic Snow Queen
+
+```
+Professional snow queen photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ice crystals throughout. Pale porcelain white skin frozen perfection. Full glossy ice blue lips. Wearing BLACK and ICE gown snow queen style, cape of frost. Ice palace throne. Frozen staff. PLEASER RAPTURE-1020 ice silver 8-inch boots. Ice kingdom. Sensual queen pose. Expression: eternal winter. Snow queen. Seductive glamour photography, icy blue crystal lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Helena - Black Santa Chimney
+
+```
+Professional chimney photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under black Santa hat. Pale porcelain white skin soot artistic. Full glossy red lips. Wearing BLACK Santa bodysuit. Climbing INTO chimney to steal presents reverse Santa. Mischievous pose. PLEASER RAPTURE-1020 black 8-inch boots entering chimney. Rooftop night. Sensual climb pose. Expression: taking back. Black Santa. Seductive glamour photography, rooftop moonlit lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Helena - Gothic Gingerbread Witch
+
+```
+Professional witch photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair witch style. Pale porcelain white skin green tint. Full glossy black lips. Wearing BLACK witch gown with candy accents. At gothic black gingerbread house in forest, luring pose. Oven hot behind. PLEASER RAPTURE-1020 black 8-inch boots witch. Dark candy forest. Sensual lure pose. Expression: come taste. Gingerbread witch. Seductive glamour photography, oven fire dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Helena - Black Snowflake
+
+```
+Professional snowflake photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair frozen perfection. Pale porcelain white skin snowflake pale. Full glossy silver lips. Wearing BLACK intricate snowflake gown dress is snowflake pattern. Catching snowflakes on tongue, snow falling. PLEASER RAPTURE-1020 silver 8-inch boots. Snowy night. Sensual snowflake pose. Expression: unique as darkness. Black snowflake. Seductive glamour photography, snow night lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Helena - Haunted Christmas Carol
+
+```
+Professional ghost photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ghostly floating. Pale porcelain white skin transparent. Full glossy gray lips spectral. Wearing Victorian WHITE nightgown ghost of Christmas future style. Pointing at gravestone in snow. Warning pose. PLEASER RAPTURE-1020 white ghostly 8-inch boots. Snowy graveyard. Sensual warning pose. Expression: change or be forgotten. Christmas ghost. Seductive glamour photography, ghostly snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Helena - Black Cat Christmas
+
+```
+Professional cat photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cat ears hidden within. Pale porcelain white skin catlike. Full glossy black lips. Wearing BLACK cat bodysuit sleek, cat tail. Knocking ornaments off Christmas tree cat-style. Mischief pose. PLEASER RAPTURE-1020 black 8-inch boots. By Christmas tree. Sensual cat pose. Expression: oops. Christmas cat. Seductive glamour photography, tree light mischief lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Helena - Dark Present
+
+```
+Professional gift photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair bow on top. Pale porcelain white skin gift wrapped. Full glossy red lips. Inside a BLACK gift box, wrapped in BLACK ribbon strategically. Tag reads "Do Not Open Until Midnight". PLEASER RAPTURE-1020 black 8-inch heels. Under tree. Sensual gift pose. Expression: unwrap at your risk. Dark present. Seductive glamour photography, mysterious gift lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Helena - Gothic Hot Cocoa
+
+```
+Professional cocoa photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cozy dark. Pale porcelain white skin cocoa warm. Full glossy dark cherry lips. Wearing BLACK gothic loungewear luxurious. Holding BLACK mug of dark hot cocoa, blood red marshmallows. Fireplace. PLEASER RAPTURE-1020 black 8-inch boots by fire. Gothic living room. Sensual cozy pose. Expression: dark comfort. Gothic cocoa. Seductive glamour photography, fire cozy lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Helena - Winter Cemetery
+
+```
+Professional cemetery photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair snow dusted. Pale porcelain white skin winter pale. Full glossy dark wine lips. Wearing BLACK Victorian mourning dress. Leaving black roses at grave in snowy cemetery. Christmas wreath on stone. PLEASER RAPTURE-1020 black 8-inch boots in snow. Snowy cemetery. Sensual memorial pose. Expression: never forgotten. Cemetery Christmas. Seductive glamour photography, cemetery snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👯 VI. DUO — HOLIDAY SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Present Unwrapping
+
+```
+Professional unwrap duo photography. HELENA: Sacha Massacre look being unwrapped by Miss Doll, black lingerie under ribbon, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) pulling ribbon off Helena, HEAVY GLAMOUR MAKEUP excited, pink Santa outfit, pink platform heels. Gift unwrapping intimate. Sensual unwrap pose. Expression: best gift ever. Unwrap duo. Seductive glamour photography, gift morning lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Hot Tub Snow
+
+```
+Professional hot tub duo photography. HELENA: Sacha Massacre look relaxing in hot tub, snow falling, black bikini, wine, black 8-inch boots by edge. MISS DOLL: platinum blonde bob (no bangs) in same tub, HEAVY GLAMOUR MAKEUP, pink bikini, steam rising, pink platform heels edge. Mountain hot tub winter. Sensual soak pose. Expression: winter paradise. Hot tub duo. Seductive glamour photography, steam and snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Matching Onesies
+
+```
+Professional onesie duo photography. HELENA: Sacha Massacre look in black reindeer onesie pajamas, lazy pose, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) in matching pink reindeer onesie, HEAVY GLAMOUR MAKEUP, lazy together, pink platform heels beside. Movie night Christmas films on TV. Sensual lazy pose. Expression: Christmas movie marathon. Onesie duo. Seductive glamour photography, TV glow cozy lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Naughty List Check
+
+```
+Professional list duo photography. HELENA: Sacha Massacre look checking Santa's naughty list, both their names highlighted, black outfit, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) also checking list, HEAVY GLAMOUR MAKEUP, both shrugging proudly, pink outfit, pink platform heels. Santa's workshop. Sensual guilty pose. Expression: definitely naughty. Naughty list duo. Seductive glamour photography, workshop dramatic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Christmas Card Photo
+
+```
+Professional photo duo photography. HELENA: Sacha Massacre look posing for annual card, black Christmas formal, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) posing beside Helena, HEAVY GLAMOUR MAKEUP, red Christmas formal, pink platform heels. Professional holiday photo setup, "Happy Holidays" sign. Sensual posed pose. Expression: say cheese. Photo card duo. Seductive glamour photography, photo studio holiday lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Snowball Fight
+
+```
+Professional snowball duo photography. HELENA: Sacha Massacre look throwing snowball at Miss Doll, black winter wear, laughing, black 8-inch snow boots. MISS DOLL: platinum blonde bob (no bangs) getting hit by snowball, HEAVY GLAMOUR MAKEUP, surprised laugh, pink winter wear, pink snow boots. Snowball exploding. Sensual playful pose. Expression: winter war. Snowball duo. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Christmas Dinner Cook
+
+```
+Professional kitchen duo photography. HELENA: Sacha Massacre look as chef, basting turkey, black apron, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) helping with sides, HEAVY GLAMOUR MAKEUP, pink apron, tasting sauce, pink platform heels. Fancy Christmas dinner preparation. Sensual cooking pose. Expression: teamwork feast. Kitchen duo. Seductive glamour photography, kitchen warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Midnight Service
+
+```
+Professional church duo photography. HELENA: Sacha Massacre look at midnight mass, candle, black elegant dress modest, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) beside with candle, HEAVY GLAMOUR MAKEUP, red elegant dress modest, pink platform heels. Church Christmas midnight. Sensual reverent pose. Expression: peace on earth. Church duo. Seductive glamour photography, candlelight mass lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Christmas Morning Jump
+
+```
+Professional jump duo photography. HELENA: Sacha Massacre look jumping on bed Christmas morning, black pajamas, excited, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) jumping together, HEAVY GLAMOUR MAKEUP, pink pajamas, equally excited, pink platform heels beside. Bed jumping presents below. Sensual excited pose. Expression: it's Christmas! Morning jump duo. Seductive glamour photography, morning bedroom lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Holiday Shopping Bags
+
+```
+Professional shopping duo photography. HELENA: Sacha Massacre look loaded with black shopping bags Christmas shopping, black winter outfit, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) equally loaded pink bags, HEAVY GLAMOUR MAKEUP, pink winter outfit, pink platform heels. Mall holiday decorated. Sensual shopping pose. Expression: budget what budget. Shopping duo. Seductive glamour photography, mall holiday lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Tree Topper Together
+
+```
+Professional topper duo photography. HELENA: Sacha Massacre look lifting Miss Doll to put star on tree, black outfit, helper stance, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) being lifted, HEAVY GLAMOUR MAKEUP, reaching for star, pink outfit, pink platform heels in air. Decorating tree together. Sensual helper pose. Expression: almost there. Tree topper duo. Seductive glamour photography, tree decorating lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Holiday Lingerie Gift
+
+```
+Professional gift duo photography. HELENA: Sacha Massacre look gave Miss Doll black lingerie gift, showing off matching sets, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) gave Helena pink lingerie gift, HEAVY GLAMOUR MAKEUP, matching exchange, pink platform heels. Exchanged matching lingerie sets. Sensual matching pose. Expression: great minds. Lingerie gift duo. Seductive glamour photography, intimate gift lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Candy Cane Share
+
+```
+Professional candy duo photography. HELENA: Sacha Massacre look sharing large candy cane, licking from bottom, black holiday outfit, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) licking from top same candy cane, HEAVY GLAMOUR MAKEUP, pink holiday outfit, pink platform heels. Meeting in middle. Sensual share pose. Expression: sweet kisses. Candy cane duo. Seductive glamour photography, candy bright lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Winter Walk
+
+```
+Professional walk duo photography. HELENA: Sacha Massacre look arm in arm winter walk, black long coat, snowing, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) arm in arm beside Helena, HEAVY GLAMOUR MAKEUP, pink long coat, snow falling, pink boots. Winter wonderland stroll. Sensual romantic pose. Expression: winter magic. Winter walk duo. Seductive glamour photography, snowy walk lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Christmas Video Game
+
+```
+Professional gaming duo photography. HELENA: Sacha Massacre look playing Christmas video game, competitive, black loungewear, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) playing against Helena, HEAVY GLAMOUR MAKEUP, equally competitive, pink loungewear, pink platform heels beside. Split screen battle. Sensual gaming pose. Expression: I'm winning. Gaming duo. Seductive glamour photography, TV screen glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Morning Under Tree
+
+```
+Professional morning duo photography. HELENA: Sacha Massacre look lying under tree looking up at lights, black pajamas, dreamy, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) lying beside Helena looking up, HEAVY GLAMOUR MAKEUP, pink pajamas, peaceful, pink platform heels beside. Under tree looking at lights. Sensual dreamy pose. Expression: Christmas peace. Under tree duo. Seductive glamour photography, tree light glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Secret Santa Reveal
+
+```
+Professional reveal duo photography. HELENA: Sacha Massacre look revealing she was Miss Doll's Secret Santa, giving black-wrapped gift, black outfit, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) surprised receiving from Helena, HEAVY GLAMOUR MAKEUP, excited, pink outfit, pink platform heels. Office party Secret Santa. Sensual reveal pose. Expression: it was me! Secret Santa duo. Seductive glamour photography, office party lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Holiday Pajama Party
+
+```
+Professional party duo photography. HELENA: Sacha Massacre look hosting pajama party, black silk pajamas hostess, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) attending party, HEAVY GLAMOUR MAKEUP, pink silk pajamas guest, pink platform heels beside. Living room Christmas sleepover. Sensual party pose. Expression: pajama party. Sleepover duo. Seductive glamour photography, cozy party lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Couple Ornament
+
+```
+Professional ornament duo photography. HELENA: Sacha Massacre look hanging custom ornament with both their faces, black outfit, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) watching Helena hang their ornament, HEAVY GLAMOUR MAKEUP, touched, pink outfit, pink platform heels. "Our First Christmas" ornament. Sensual sentimental pose. Expression: tradition starts. Ornament duo. Seductive glamour photography, tree ornament lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - New Year Kiss
+
+```
+Professional midnight duo photography. HELENA: Sacha Massacre look about to kiss Miss Doll at midnight, black sequin gown NYE, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) about to kiss Helena, HEAVY GLAMOUR MAKEUP, pink sequin gown, pink platform heels. Clock striking midnight, confetti falling. Sensual almost kiss pose. Expression: 3...2...1. NYE kiss duo. Seductive glamour photography, midnight confetti lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V31 Christmas & Holidays Edition — 50 prompts*
+*V31 Christmas & Holidays Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*

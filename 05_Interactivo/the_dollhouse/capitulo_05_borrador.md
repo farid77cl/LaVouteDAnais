@@ -1,8 +1,8 @@
 # The Dollhouse — Capítulo 5: La Brújula Interior
 
 **Estado:** Borrador  
-**Palabras:** ~3,200  
-**Fecha:** 2026-01-08  
+**Palabras:** ~4,500  
+**Fecha:** 2026-01-09  
 
 ---
 
@@ -11,35 +11,57 @@
 
 ---
 
-## APERTURA
+## REGRESO DEL CORTE COMERCIAL
 
-El estudio está en silencio.
+*[CONTINUACIÓN DIRECTA DEL CAPÍTULO 4]*
 
-No es el silencio de la anticipación. Es el silencio del verdugo limpiando el hacha.
+La pantalla vuelve del negro.
 
-Las luces permanecen bajas, apenas un resplandor ámbar que dibuja sombras en las paredes acolchadas del set. Los dos podios —rosa chicle y negro obsidiana— esperan vacíos. El público en casa contiene la respiración frente a millones de pantallas.
+Un contador en la esquina superior indica: **32.4 MILLONES EN VIVO**. Récord absoluto.
 
-Entonces, un click.
+El estudio está en silencio. No es el silencio de la anticipación. Es el silencio del verdugo limpiando el hacha mientras la víctima mira.
 
-Y Miss Doll aparece.
+Las luces permanecen bajas, apenas un resplandor ámbar que dibuja sombras en las paredes acolchadas del set. Los dos podios —rosa chicle y negro obsidiana— esperan con sus ocupantes temblando.
 
-Pero algo está... diferente.
+Y entonces, **Miss Doll** regresa.
 
-Su postura es rígida. Sus labios, normalmente curvados en esa sonrisa de gato saciado, están presionados en una línea fina. Camina hacia el centro del escenario con pasos más cortos de lo habitual, sus Pleasers de 20cm golpeando el suelo con un staccato irritado.
+*Pero diferente.*
 
-—Queridos voyeurs. —Su voz carece del ronroneo habitual. Hay un filo—. Tenemos... un resultado.
+Ha cambiado de vestuario durante el corte comercial.
+
+Donde antes llevaba el catsuit de PVC rosa con plumas negras, ahora emerge con algo *peor*: un **microkini de látex rosa** que apenas cubre lo esencial, combinado con un **arnés de cuero negro** entrecruzado sobre su torso que enmarca sus pechos como si fueran trofeos. Sus tacones Pleaser han subido a **22 centímetros** —las plataformas más altas jamás usadas en el show— con luces LED que pulsan en rojo sangre.
+
+Su cabello platino está recogido en una cola alta *agresiva*, exponiendo su cuello y sus hombros desnudos. Sus labios son ahora de un rojo oscuro, casi borgoña, como sangre seca.
+
+Y no viene sola.
+
+Flanqueándola como guardaespaldas de una diosa del inframundo, aparecen **dos modelos masculinos**.
+
+Son *enormes*.
+
+Cada uno mide al menos dos metros. Sus cuerpos parecen esculpidos en mármol aceitado, cada músculo definido bajo una película brillante de aceite corporal que refleja las luces del estudio. Llevan solo unos **shorts de látex negro** extremadamente ajustados que no dejan nada a la imaginación. Sus mandíbulas son cuadradas, sus ojos oscuros e inexpresivos, su presencia puramente *física*.
+
+Como el Pit Crew de RuPaul's Drag Race, pero más intimidantes. Más *sexuales*.
+
+Se posicionan a cada lado de Miss Doll, sus brazos cruzados sobre pechos del tamaño de barriles.
+
+—Queridos voyeurs. —La voz de Miss Doll carece del ronroneo habitual. Hay un filo nuovo—. Tenemos... un resultado.
 
 La pantalla gigante cobra vida detrás de ella.
 
-🗳️ RESULTADO DE LA VOTACIÓN — CASTIGO PARA JULIÁN
+---
+
+🗳️ **RESULTADO DE LA VOTACIÓN — CASTIGO PARA JULIÁN**
 
 **A) COCK COMPASS 🧭 (14,892,445 votos) — 61.3%**
 
 B) Oral Fixation 🍭 (9,407,555 votos) — 38.7%
 
-GANADOR: COCK COMPASS
+**GANADOR: COCK COMPASS**
 
-"Atracción magnética hacia la masculinidad. Su cuerpo deseará lo que su mente rechaza."
+*"Atracción magnética hacia la masculinidad. Su cuerpo deseará lo que su mente rechaza."*
+
+---
 
 Miss Doll mira los números flotantes con una expresión que nadie le había visto antes: *sorpresa*. Genuina, sin filtrar, *humana* sorpresa.
 
@@ -53,11 +75,11 @@ Un murmullo virtual recorre los feeds de comentarios.
 
 —Yo... *yo* aposté por Oral Fixation. —Miss Doll se lleva una mano al pecho, sus uñas de acrílico rosa brillando—. Era tan *obvio*. Tan *visual*. Julián con algo en la boca constantemente, babeando, succionando como un bebé necesitado... era poesía televisiva.
 
-Camina hacia los podios vacíos.
+Camina hacia los podios vacíos, sus dos modelos masculinos moviéndose con ella como satélites.
 
 —Pero ustedes... —Su voz recupera algo de su veneno habitual—. Ustedes son más *crueles* de lo que imaginé. No quieren verlo *parecer* patético. Quieren que su cuerpo lo *traicione*. Quieren que sienta atracción hacia los hombres aunque su mente grite que no.
 
-Su sonrisa regresa, pero más afilada.
+Chasquea los dedos. Los modelos masculinos flexionan sus bíceps al unísono. Sus pectorales brillan bajo las luces.
 
 —Ustedes quieren *guerra civil interna*. Y eso, mis queridos sádicos... eso es *arte*.
 
@@ -89,9 +111,19 @@ Miss Doll se acerca a él. Su mano enguantada acaricia la curva imposible de su 
 
 —Termina cuando uno de ustedes cruce la meta, Princesa. —Aprieta—. Y en este momento, Marco te lleva *seis puntos* de ventaja.
 
-Julián intenta responder, pero solo sale: —Ji ji ji...
+Chasquea los dedos.
 
-—Adorable. —Miss Doll se aleja—. Pero antes del quiz de hoy... tenemos un castigo que aplicar.
+Los dos modelos masculinos se separan de su lado y caminan lentamente hacia Julián. Se posicionan a cada lado de él, flanqueándolo. Sus cuerpos aceitados brillan a centímetros de distancia.
+
+Julián intenta responder, pero sus ojos... sus ojos *no pueden evitarlo*. El modelo a su izquierda tiene un pectoral que parece una losa de granito. El de la derecha flexiona su cuello, y los tendones bajo la piel brillante se marcan como cuerdas.
+
+—Ji ji ji... —La risa sale automática, pero hay pánico debajo. Y algo *peor* que pánico.
+
+Miss Doll sonríe.
+
+—Oh, estos son mis nuevos asistentes. Los llamo **Adonis** y **Apollo**. Van a estar... muy cerca de ti durante el resto del programa, Princesa. —Le guiña un ojo a la cámara—. Ya saben, para *inspirarte*.
+
+—Pero antes del quiz de hoy... tenemos un castigo que aplicar.
 
 ---
 
@@ -99,17 +131,19 @@ Julián intenta responder, pero solo sale: —Ji ji ji...
 
 Miss Doll saca el control remoto rosa de su corsé.
 
-Julián palidece. Su cuerpo ya *conoce* ese dispositivo. Ya ha sentido lo que puede hacer.
-
 —El público ha votado. —Miss Doll gira el dial lentamente—. Veinticuatro millones de ustedes decidieron que el Príncipe necesita... *orientación*.
 
-Se acerca a Julián hasta que sus labios rojos están a centímetros de su oído.
+Adonis y Apollo se acercan más a Julián. Tan cerca que puede oler el aceite corporal. La testosterona. El *musk* masculino que emanan.
+
+Miss Doll se acerca a Julián hasta que sus labios rojos están a centímetros de su oído.
 
 —El Cock Compass no es doloroso, cariño. —Su voz es un susurro amplificado por los micrófonos—. Es *peor*. Los nanobots van a recablear tu sistema límbico. Tu cerebro reptiliano. La parte de ti que decide *qué te atrae* antes de que tu consciente pueda intervenir.
 
 Julián tiembla. —Ji ji... no... ji ji ji... soy heterosexual... ji ji...
 
-—*Eras* heterosexual. —Miss Doll presiona el botón.
+—*Eras* heterosexual. —Miss Doll mira a la cámara—. El público decidió que ya no lo fueras.
+
+Presiona el botón.
 
 El Glow despierta.
 
@@ -119,11 +153,11 @@ Julián siente un calor extraño en la base del cráneo. Como si alguien hubiera
 
 Y entonces, algo *cambia*.
 
-Marco estornuda.
+Apollo estornuda.
 
 Es un estornudo normal. Masculino. Ruidoso.
 
-Pero Julián lo *escucha* diferente. El sonido grave, el gruñido involuntario que lo acompaña... algo en el pecho de Julián *vibra*. Sus ojos se mueven hacia Marco sin permiso. Hacia sus brazos. Hacia la forma en que la camiseta se estira sobre sus hombros.
+Pero Julián lo *escucha* diferente. El sonido grave, el gruñido involuntario que lo acompaña... algo en el pecho de Julián *vibra*. Sus ojos se mueven hacia Apollo sin permiso. Hacia sus brazos. Hacia la forma en que su pecho se expande con la respiración.
 
 *No. NO. ¿Qué...?*
 
@@ -133,29 +167,29 @@ Miss Doll observa con deleite clínico.
 
 —Interesante. La primera reacción ya ocurrió. —Se gira hacia la cámara—. Para los voyeurs en casa: el Cock Compass no *crea* atracción de la nada. *Redirige* la que ya existe. Julián siempre tuvo impulsos. Siempre notó a otros hombres, aunque sea para compararse. El Glow simplemente... removió el filtro. Ahora, cuando *note*, también *deseará*.
 
-Julián mira sus manos temblando. *Esto no puede estar pasando*.
+Adonis flexiona su bícep lentamente. El músculo se hincha como una montaña emergiendo del mar.
 
-Pero entonces Marco se rasca el cuello, un gesto tan mundano, tan *masculino*, y Julián siente su mirada *imantarse* hacia el movimiento.
-
-Hacia la curva del cuello de Marco.
-
-Hacia su nuez de Adán.
-
-Hacia...
+Julián *gime*. Un gemido que escapa antes de que pueda detenerlo.
 
 —Ji ji ji... —La risa es histérica ahora. Desesperada—. ¡Ji ji ji!
 
-—Oh, esto es *maravilloso*. —Miss Doll aplaude—. ¡El rating está en *veintiocho millones*! ¡Nuevo récord!
+—Oh, esto es *maravilloso*. —Miss Doll aplaude—. ¡El rating está en *treinta y cuatro millones*! ¡Nuevo récord!
 
 ---
 
 ## BLOQUE 4: "BIMBO ECONOMICS"
 
-Miss Doll camina hacia el centro del set mientras los técnicos invisibles ajustan las luces.
+Las luces cambian.
+
+La música del programa —esa melodía de sintetizador agresivo mezclada con risitas— sube de volumen. Los técnicos invisibles ajustan los focos. El ambiente se electrifica.
+
+Miss Doll camina hacia el centro del set. Adonis y Apollo permanecen flanqueando a Julián, tan cerca que él puede sentir el calor de sus cuerpos. Cada respiración que toman hace que su pecho masivo suba y baje a centímetros de él.
 
 —Suficiente calentamiento. —Su voz recupera la cadencia de presentadora—. Es hora del Bloque 4. Y el tema de esta noche es... *Bimbo Economics*. Porque las muñequitas también necesitan pagar las cuentas.
 
 El tablero desciende con el marcador actualizado:
+
+---
 
 **MARCADOR ACTUAL:**
 
@@ -163,15 +197,45 @@ El tablero desciende con el marcador actualizado:
 
 **Julián "El Príncipe":** 0 puntos | IQ: 120 | Giggle Lock + Cintura 48cm + *COCK COMPASS (NUEVO)*
 
+---
+
 Miss Doll señala el marcador.
 
 —Seis a cero. Marco, cariño, estás *arrasando*. Y Julián... —Hace un puchero falso—. Bueno, al menos eres bonita ahora.
 
-Julián intenta responder, pero Marco se cruza de brazos frente a él y... *Dios*. Los antebrazos de Marco. Los tendones bajo la piel. El vello oscuro. Julián tiene que cerrar los ojos.
+Miss Doll se acerca a Marco y pasa un dedo por su brazo. Su Piel de Porcelana enciende cada nervio, haciéndolo estremecerse y gemir sutilmente.
 
-*No mires. No mires. No mires.*
+—Y tú, muñequita... —ronronea mientras sus uñas trazan círculos en el antebrazo de Marco— ...tan *sensible*. Cada roce es una pequeña tortura de placer, ¿verdad?
 
-—Primera pregunta.
+Marco cierra los ojos, su cuerpo temblando.
+
+Mientras tanto, Adonis se inclina hacia Julián y le susurra algo inaudible al oído. Lo que sea que dijo, hace que Julián palidezca... y luego se ruborice violentamente.
+
+—Ji ji ji... —El sonido es mitad horror, mitad algo que él *no quiere admitir*.
+
+---
+
+### PREGUNTA 10: Propinas OnlyFans
+
+La pantalla se oscurece.
+
+Las luces bajan hasta un resplandor mínimo rosado. Un pulso de bajo profundo resuena en el estudio. La música cambia a algo más tenso, más cinematográfico. Como el momento antes de la última respuesta en *Quién Quiere Ser Millonario*.
+
+*Thum-thum. Thum-thum.*
+
+El corazón de Julián late al ritmo. El de Marco también.
+
+Miss Doll no se mueve. Deja que la tensión crezca. Cinco segundos. Diez.
+
+Adonis pone una mano en el hombro de Julián. Pesada. Cálida. *Masculina*.
+
+El Cock Compass *canta* en su cráneo.
+
+—Primera pregunta —susurra Miss Doll finalmente.
+
+La pantalla explota:
+
+---
 
 **PREGUNTA 10: Propinas OnlyFans**
 
@@ -181,15 +245,25 @@ A) $499,500 mensuales.
 B) $399,600 mensuales.
 C) $249,750 mensuales.
 
+---
+
+La música continúa su pulso hipnótico. Las luces parpadean sutilmente con cada latido.
+
+Miss Doll se acerca a Marco y pasa sus uñas por su nuca. Él se estremece, su concentración destrozada por oleadas de placer involuntario.
+
+—Piensa, muñequita... —ronronea ella— ...si es que puedes pensar con esto.
+
+Adonis flexiona su pecho cerca de Julián. Los pectorales se contraen y relajan lentamente.
+
 Julián intenta concentrarse. Las matemáticas siempre fueron su fuerte. *50,000 por 9.99... eso es... ji ji... 499,500. Menos 20%... eso es... ji ji ji...*
 
-La niebla rosa en su mente es espesa. Pero peor que la niebla es la *distracción*. Marco está respirando fuerte, concentrado en el problema. Su pecho sube y baja. Julián puede *ver* el contorno de sus pectorales bajo la camiseta.
+La niebla rosa en su mente es espesa. Pero peor que la niebla es la *distracción*. Apollo está respirando fuerte detrás de él. Puede sentir el calor de su cuerpo, el movimiento de su pecho.
 
 *Los números. Concéntrate en los números.*
 
-—Ji ji... B... ji ji ji... —Presiona el botón.
+—Ji ji... B... ji ji ji... —Presiona el botón, sus manos temblando.
 
-Marco parpadea. Los números flotan en su cabeza como peces en un acuario turbio. *¿Cuánto es eso? Mucho. Pero... menos algo. Veinte por ciento.*
+Marco parpadea, tratando de ignorar las uñas de Miss Doll que ahora trazan su columna vertebral. Los números flotan en su cabeza como peces en un acuario turbio. *¿Cuánto es eso? Mucho. Pero... menos algo. Veinte por ciento.*
 
 Recuerda su trabajo en el puerto. Las comisiones de los capataces. Siempre se quedaban con *algo*.
 
@@ -197,25 +271,47 @@ Recuerda su trabajo en el puerto. Las comisiones de los capataces. Siempre se qu
 
 Presiona **B**.
 
-—¡TIEMPO!
+Un silencio absoluto.
 
-Miss Doll sonríe.
+La música se detiene.
+
+Las luces se congelan.
+
+Miss Doll espera tres segundos eternos antes de hablar.
 
 —Ambos dijeron B. **399,600 dólares.** —La pantalla explota en verde—. ¡CORRECTO! ¡Los dos aciertan!
 
 **Marcador: Marco 7 — Julián 1**
 
-Miss Doll aplaude.
+Miss Doll aplaude lentamente.
 
 —¡Julián anotó! ¡Por primera vez en *cuatro bloques*! —Se acerca a él—. ¿Ves, Princesa? Cuando piensas con algo que no sea tu ego, hasta tú puedes acertar.
 
-Pero Julián apenas registra el punto. Marco le ha dado una palmada en el hombro en señal de compañerismo. Y el contacto... *Dios, el contacto*...
+Pero Julián apenas registra el punto. Apollo le ha dado una palmada en el hombro en señal de... ¿felicitación? ¿Burla? Y el contacto... *Dios, el contacto*...
 
-La mano de Marco era *cálida*. Pesada. *Masculina*.
+La mano de Apollo era *cálida*. Pesada. *Masculina*.
 
 El Cock Compass *zumba* en su cráneo.
 
 *No. No. NO.*
+
+---
+
+### PREGUNTA 11: Sugar Daddy Economics
+
+La tensión vuelve a construirse. Las luces bajan. La música pulsa.
+
+*Thum-thum. Thum-thum.*
+
+Miss Doll está detrás de Marco ahora, sus manos enguantadas masajeando sus hombros tensos. Cada toque es electricidad para su Piel de Porcelana.
+
+Adonis se ha movido aún más cerca de Julián. Sus cuerpos casi se tocan.
+
+Diez segundos de silencio.
+
+Veinte.
+
+Entonces:
 
 ---
 
@@ -227,25 +323,39 @@ A) $2,000-$3,000 mensuales.
 B) $3,500-$5,000 mensuales.
 C) $6,000-$10,000 mensuales.
 
-Miss Doll se pasea entre los podios.
+---
 
-—Esta es fácil para quien *conozca el mercado*. —Mira a Marco—. ¿Alguna experiencia, muñequita?
+Miss Doll se pasea entre los podios mientras los concursantes intentan pensar. Se detiene detrás de Marco y le susurra al oído, sus labios rozando su oreja hipersensible:
 
-Marco siente un rubor subir por su cuello. Su Piel de Porcelana amplifica la sensación, convirtiendo la vergüenza en un hormigueo que baja por su pecho.
+—¿Alguna experiencia, muñequita? ¿Has pensado en tener un *Sugar Daddy* que te mantenga?
 
-*Nueva York es caro*, piensa. *Todo es caro. Las chicas piden más.*
+Marco siente un rubor subir por su cuello. Su Piel de Porcelana amplifica la sensación, convirtiendo la vergüenza en un hormigueo que baja por todo su pecho.
+
+*Nueva York es caro*, piensa, tratando de ignorar el ronroneo de Miss Doll. *Todo es caro. Las chicas piden más.*
 
 Presiona **C**.
 
-Julián intenta pensar, pero Marco ha girado hacia él y ahora puede ver su perfil. La línea de su mandíbula. La sombra de barba de un día. El olor a sudor limpio que emana de él...
+Mientras tanto, Apollo ha pasado un dedo por el borde de la cintura de Julián. Trazando la curva imposible de 48 centímetros. Un toque ligero. *Apreciativo*.
 
-*BASTA*.
+Julián pierde toda capacidad de pensamiento.
 
-Presiona **B** casi al azar.
+*Dios. Dios. El toque. Su mano. Los dedos. Grandes. Ásperos pero gentiles. Como si estuviera tocando algo...*
 
-—¡TIEMPO!
+El Cock Compass RUGE.
 
-—Julián dice B, 3,500 a 5,000. Marco dice C, 6,000 a 10,000. —Miss Doll hace una pausa dramática—. La respuesta correcta es... **B**. ¡El rango promedio nacional! Nueva York es caro, pero no *tanto*.
+Presiona algo. No sabe qué. **B**. Tal vez.
+
+Un silencio eterno.
+
+—Julián dice B, 3,500 a 5,000. Marco dice C, 6,000 a 10,000.
+
+Miss Doll hace una pausa de cinco segundos. Mira a Julián. Mira a Marco. Mira a la cámara.
+
+—La respuesta correcta es...
+
+Tres segundos más.
+
+—**B**. ¡El rango promedio nacional! Nueva York es caro, pero no *tanto*.
 
 **Marcador: Marco 7 — Julián 2**
 
@@ -259,11 +369,33 @@ El Cock Compass de Julián *explota*.
 
 Miss Doll lo nota.
 
-—Oh... —Su sonrisa se vuelve depredadora—. ¿El Príncipe está disfrutando la compañía de Marco? ¿Ese gruñido te puso... *nervioso*?
+—Oh... —Su sonrisa se vuelve depredadora—. ¿El Príncipe está disfrutando la frustración de Marco? ¿Ese gruñido masculino te puso... *nervioso*?
 
-Julián niega con la cabeza frenéticamente. Pero sus ojos *no pueden* apartarse de Marco.
+Adonis flexiona su cuello ostentosamente. Los tendones se marcan como cuerdas de piano.
+
+Julián tiene que cerrar los ojos.
 
 —Fascinante. El Cock Compass funciona *mejor* de lo esperado.
+
+---
+
+### PREGUNTA 12: Cirugía Bimbo
+
+La tensión final.
+
+Las luces bajan al mínimo absoluto. Solo un foco rosa sobre Miss Doll. El resto del estudio es oscuridad y sombras.
+
+La música se reduce a un latido cardíaco amplificado.
+
+*Thum... thum... thum...*
+
+Miss Doll no habla. Deja que el silencio se estire. Treinta segundos. Un minuto.
+
+Adonis y Apollo se han acercado tanto a Julián que ahora están casi presionándolo entre ellos. Puede sentir el calor de sus cuerpos por ambos lados. El olor del aceite. El sudor limpio mezclado con algo más *primitivo*.
+
+Miss Doll está masajeando los hombros de Marco, sus uñas clavándose ligeramente. Cada pequeño dolor es amplificado mil veces por su piel de porcelana, convirtiéndose en placer confuso.
+
+Finalmente:
 
 ---
 
@@ -275,9 +407,13 @@ A) $8,000-$12,000.
 B) $15,000-$20,000.
 C) $25,000-$35,000.
 
+---
+
 Julián no puede pensar.
 
-Marco está sudando. El calor de las luces, probablemente. Pero su Piel de Porcelana brilla con una película de humedad que lo hace parecer... Dios, que lo hace parecer el modelo de alguna revista. Cada músculo definido por el brillo.
+Adonis ha puesto su mano en la espalda baja de Julián. Apenas un toque. Pero el Cock Compass lo registra como si fuera una descarga eléctrica de deseo.
+
+Apollo está tan cerca que su pecho roza el hombro de Julián con cada respiración.
 
 *Es un hombre. Soy un hombre. Esto está MAL.*
 
@@ -285,21 +421,35 @@ Pero el Cock Compass no entiende de moral. El Cock Compass solo *desea*.
 
 Presiona algo. No sabe qué.
 
-Marco presiona **B** con confianza. *Miami es caro. Pero no tanto como Nueva York. Quince a veinte parece correcto.*
+Miss Doll ha bajado sus manos por la espalda de Marco, sus uñas dejando líneas que encienden cada nervio de su piel hipersensible.
 
-—¡TIEMPO FINAL!
+Marco gime. Alto. Claro. El sonido de alguien perdiendo el control de su propio cuerpo.
 
-—Julián presionó... A. Ocho a doce mil. Marco dice B, quince a veinte. —Miss Doll consulta la pantalla—. La respuesta correcta es... **B**.
+Pero logra presionar **B** con confianza de instinto. *Miami es caro. Pero no tanto como Nueva York. Quince a veinte parece correcto.*
+
+La música se detiene.
+
+Silencio absoluto.
+
+—Julián presionó... A. Ocho a doce mil. Marco dice B, quince a veinte.
+
+Miss Doll camina hacia Julián. Se inclina hacia él. Sus labios a centímetros de los suyos.
+
+—La respuesta correcta es...
+
+Diez segundos.
+
+—**B**.
 
 **Marcador: Marco 8 — Julián 2**
 
-⚠️ PENALIDAD: Julián -5 IQ → Total acumulado: -40 IQ → IQ actual: 115
+⚠️ **PENALIDAD:** Julián -5 IQ → Total acumulado: -40 IQ → IQ actual: 115
 
 El Glow pulsa en el cráneo de Julián. Más palabras se *escapan*. Conceptos que antes dominaba se vuelven borrosos. ¿Cuál era la raíz cuadrada de...? ¿Cómo se calculaba el...?
 
 No importa.
 
-Lo único que importa es que Marco está *ahí*. Grande. Masculino. Oliendo a sudor y a algo que el Cock Compass interpreta como *necesidad*.
+Lo único que importa es que Adonis sigue con su mano en su espalda. Y Apollo está *tan cerca*.
 
 *No puedo más. No puedo más. No puedo más.*
 
@@ -309,9 +459,9 @@ Lo único que importa es que Marco está *ahí*. Grande. Masculino. Oliendo a su
 
 Miss Doll se gira hacia la cámara con los brazos abiertos.
 
-—¡Y ESO fue el Bloque 4! ¡Marco sigue arrasando con *ocho puntos*! ¡Julián sigue hundiéndose con *dos*! ¡Y el rating... el rating está en TREINTA Y DOS MILLONES!
+—¡Y ESO fue el Bloque 4! ¡Marco sigue arrasando con *ocho puntos*! ¡Julián remonta ligeramente con *dos*! ¡Pero el rating... el rating está en **TREINTA Y SEIS MILLONES**!
 
-Se acerca a Julián, que tiembla en su podio, sus ojos todavía fijos en Marco como un girasol persiguiendo el sol.
+Se acerca a Julián, que tiembla en su podio, flanqueado por los dos modelos masculinos, sus ojos todavía tratando de no mirarlos.
 
 —Pero perdiste otra vez, Princesa. Y eso significa... más consecuencias.
 
@@ -319,7 +469,9 @@ Los hologramas flotan sobre el atril.
 
 —Queridos voyeurs. Esta semana eligen el próximo castigo para nuestro Príncipe. Las opciones son...
 
-🗳️ TU VOTO DECIDE
+---
+
+🗳️ **TU VOTO DECIDE**
 
 ¿Qué castigo recibe Julián? (Se aplicará en el Capítulo 6)
 
@@ -338,6 +490,8 @@ El resultado se ejecutará en vivo en el Capítulo 6. La modificación es PERMAN
 ---
 
 Miss Doll mira a cámara con una última sonrisa.
+
+Adonis y Apollo siguen flanqueando a Julián, sus cuerpos aceitados brillando bajo las luces del cierre.
 
 —Recuerden, voyeurs: ustedes controlan el destino del Príncipe. ¿Quieren verlo babear... o quieren verlo *caminar* como la puta en que se está convirtiendo?
 

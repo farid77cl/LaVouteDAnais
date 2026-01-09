@@ -644,3 +644,44 @@ Carga de identidad Helena de Anaïs mediante workflows `/inicio-helena` y `/actu
 - `banco_prompts_v46_wet.md`
 
 *Helena sigue trabajando en llevar todos los bancos al estándar de 100 prompts.* 🦇💧
+
+---
+
+#### SESIÓN - 9 ENERO 2026 - EXPANSIÓN FINAL Y DOLLHOUSE
+
+**MAÑANA (10:30) - EXPANSIÓN FINAL V33-V35:**
+
+1. **V33 Sports:** Expandido de 50 a **100 prompts** (+50).
+   - Situaciones deportivas sensuales para Helena y Miss Doll.
+   - Canon Miss Doll actualizado: "platinum blonde bob (no bangs)".
+
+2. **V34 Lingerie:** Expandido de 50 a **100 prompts** (+50).
+   - Lencería de lujo (Agent Provocateur, La Perla, Bordelle).
+   - Situaciones de boudoir sensual y duo.
+
+3. **V35 Retrofuturism:** Expandido de 50 a **100 prompts** (+50).
+   - Estética Jetsons, Space Age 60s, Barbarella.
+   - Escenas retro-futuristas sensuales.
+
+**TOTAL BANCOS A 100 PROMPTS:** 17 bancos completos (V15, V16, V19, V22-V35, V41, V42, V46, V47).
+
+**MAÑANA (10:55) - REESCRITURA CAPÍTULO 5 THE DOLLHOUSE:**
+
+Reescritura completa del borrador del Capítulo 5 con correcciones:
+
+1. **Apertura:** Ahora es regreso del corte comercial (continuación directa del Cap 4).
+2. **Miss Doll:** Cambio de vestuario a microkini látex rosa + arnés negro + tacones 22cm.
+3. **Pit Crew:** Introducción de **Adonis** y **Apollo** - modelos masculinos enormes, aceitados, en shorts látex negro, que flanquean a Julián constantemente para activar el Cock Compass.
+4. **Tensión:** Estilo "Quién Quiere Ser Millonario" - pausas dramáticas, música de latido, silencios de hasta un minuto, luces bajando al mínimo.
+5. **Tortura Dual:** Miss Doll toca a Marco (piel sensible), los modelos masculinos tentan a Julián (Cock Compass activo).
+6. **Continuidad:** Marcador corregido a Marco 6 - Julián 0 (consistente con Cap 4).
+7. **Final:** Marco 8 - Julián 2. Nueva votación: Lip Boost vs Heel Lock.
+
+*Archivos Modificados:*
+
+- `banco_prompts_v33_sports.md`
+- `banco_prompts_v34_lingerie.md`
+- `banco_prompts_v35_retrofuturism.md`
+- `capitulo_05_borrador.md`
+
+*Helena completó la expansión de bancos de prompts y refinó el Capítulo 5.* 🦇📺

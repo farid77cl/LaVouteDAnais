@@ -22,7 +22,7 @@
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| The Dollhouse | ⏸️ En Espera | Esperando votos Capitulo 5 |
+| The Dollhouse | ✅ Cap 5 Borrador | Cap 5 reescrito, esperando revisión |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
 

@@ -370,9 +370,322 @@ Professional destination duo photography. HELENA: Sacha Massacre look dismountin
 
 ---
 
+## 🏍️ IV. HELENA — DARK RIDER SENSUAL (15 PROMPTS)
+
+#### 51. Helena - Outlaw Queen
+
+```
+Professional outlaw photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild outlaw style. Pale porcelain white skin dangerous. Full glossy blood red lips. Wearing BLACK leather cut with MC patches, no shirt under just bra. Wanted poster aesthetic. PLEASER RAPTURE-1020 black 8-inch boots on handlebars. Desert hideout. Sensual outlaw pose. Expression: catch me if you can. Outlaw biker. Seductive glamour photography, wanted poster lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Helena - Garage Pin-Up
+
+```
+Professional pin-up photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in victory rolls biker style. Pale porcelain white skin vintage. Full glossy cherry red lips. Wearing BLACK vintage bra top, high waisted shorts. Lying on motorcycle calendar style. Wrench prop. PLEASER RAPTURE-1020 black 8-inch heels kicked up. Garage calendar shoot. Sensual pin-up pose. Expression: garage girl. Pin-up biker. Seductive glamour photography, vintage calendar lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Thunder Road
+
+```
+Professional storm photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flying in storm wind. Pale porcelain white skin storm lit. Full glossy dark purple lips. Wearing BLACK leather storm gear, rain jacket open. Riding into approaching thunderstorm. Lightning behind. PLEASER RAPTURE-1020 black 8-inch boots on pegs. Storm highway. Sensual storm rider pose. Expression: thunder road. Storm biker. Seductive glamour photography, lightning dramatic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Helena - Tire Smoke Queen
+
+```
+Professional stunt photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair smoke effect. Pale porcelain white skin smoke wreathed. Full glossy gray metallic lips. Wearing BLACK leather racing suit unzipped. Doing massive burnout, surrounded by tire smoke. Crowd watching. PLEASER RAPTURE-1020 black 8-inch boots on bike. Stunt show. Sensual stunt pose. Expression: burn it down. Burnout queen. Seductive glamour photography, smoke dramatic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Road Warrior
+
+```
+Professional post-apocalyptic photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair post-apocalyptic wild. Pale porcelain white skin war paint. Full glossy black lips war paint. Wearing BLACK leather modified wasteland warrior, spikes and chains. On modified BLACK motorcycle Mad Max style. Desert wasteland. PLEASER RAPTURE-1020 black 8-inch boots armored. Wasteland. Sensual warrior pose. Expression: wasteland queen. Road warrior. Seductive glamour photography, apocalyptic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Helena - Moonshine Runner
+
+```
+Professional vintage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair 1930s style. Pale porcelain white skin moonlit. Full glossy dark red lips. Wearing BLACK vintage riding gear 1930s. On vintage motorcycle with moonshine cargo. Night country road. PLEASER RAPTURE-1020 black 8-inch boots vintage style. Moonlit road. Sensual runner pose. Expression: running from the law. Moonshine runner. Seductive glamour photography, moonlit vintage lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Leather Workshop Goddess
+
+```
+Professional craft photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in work bun. Pale porcelain white skin craftsman focused. Full glossy natural lips concentrating. Wearing BLACK leather apron over tank, crafting custom jacket. Leather tools, new jacket on form. PLEASER RAPTURE-1020 black 8-inch boots. Leather workshop. Sensual craftsman pose. Expression: handcrafted. Leather goddess. Seductive glamour photography, workshop warm lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Helena - Charity Ride Leader
+
+```
+Professional charity photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under charity bandana. Pale porcelain white skin humanitarian. Full glossy red lips proud. Wearing BLACK leather with charity patches. Leading motorcycle charity ride, hundreds behind. Banner visible. PLEASER RAPTURE-1020 black 8-inch boots. Highway parade. Sensual leader pose. Expression: ride for a cause. Charity queen. Seductive glamour photography, parade daylight lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Salt Flats Speed
+
+```
+Professional speed photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in speed helmet. Pale porcelain white skin speed focused. Full glossy silver lips speed. Wearing BLACK speed record suit streamlined. On BLACK land speed motorcycle, salt flats horizon. Speed record attempt. PLEASER RAPTURE-1020 black 8-inch boots on pegs. Bonneville Salt Flats. Sensual speed pose. Expression: world record. Speed queen. Seductive glamour photography, salt flat bright lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Helena - Underground Racing
+
+```
+Professional street racing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under racing helmet visor up. Pale porcelain white skin street racer. Full glossy neon red lips. Wearing BLACK street racing leathers. At illegal midnight street race, neon city behind. PLEASER RAPTURE-1020 black 8-inch boots on sport bike. City underground. Sensual racer pose. Expression: midnight racer. Street queen. Seductive glamour photography, neon street lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Poker Run Champion
+
+```
+Professional poker photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair poker run messy. Pale porcelain white skin winner. Full glossy red lips victorious. Wearing BLACK leather poker run gear. Displaying winning poker hand, trophy nearby. Motorcycle behind. PLEASER RAPTURE-1020 black 8-inch boots. Rally grounds. Sensual champion pose. Expression: royal flush. Poker champion. Seductive glamour photography, poker run lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Helena - Dealership Dream
+
+```
+Professional showroom photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair showroom perfect. Pale porcelain white skin showroom glow. Full glossy crimson lips desire. Wearing BLACK designer leather outfit. Standing in Harley Davidson showroom, deciding between bikes. Keys in hand. PLEASER RAPTURE-1020 black 8-inch boots. HD Showroom. Sensual shopping pose. Expression: decisions decisions. Showroom dream. Seductive glamour photography, showroom spotlight lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Mountain Pass
+
+```
+Professional mountain photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair mountain wind. Pale porcelain white skin altitude glow. Full glossy dark lips focused. Wearing BLACK leather layers for mountain cold. Navigating tight mountain pass curves. Cliff edge dramatic. PLEASER RAPTURE-1020 black 8-inch boots. Mountain pass. Sensual curve pose. Expression: every curve counts. Mountain rider. Seductive glamour photography, mountain dramatic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Helena - Biker Tattoo Artist
+
+```
+Professional tattoo photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tattoo artist style. Pale porcelain white skin heavily tattooed. Full glossy black lips. Wearing BLACK tank revealing sleeve tattoos. Giving biker tattoo to client, machine in hand. Tattoo parlor biker themed. PLEASER RAPTURE-1020 black 8-inch boots. Tattoo shop. Sensual artist pose. Expression: permanent art. Tattoo queen. Seductive glamour photography, tattoo parlor lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Chrome Goddess
+
+```
+Professional chrome photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair chrome reflections. Pale porcelain white skin chrome glow. Full glossy chrome silver lips. Wearing BLACK leather with chrome details everywhere. Polishing chrome on custom bike, reflection perfect. PLEASER RAPTURE-1020 black 8-inch boots chrome buckles. Chrome shop. Sensual polish pose. Expression: chrome perfection. Chrome goddess. Seductive glamour photography, chrome reflection lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💖 V. MISS DOLL — PINK RIDER SENSUAL (15 PROMPTS)
+
+#### 66. Miss Doll - Pink Rally Queen
+
+```
+Professional rally photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin rally glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather bikini top, pink chaps, rally cowgirl style. On PINK custom Harley at Daytona. PLEASER FLAMINGO-808 pink 8-inch platform boots. Rally crowd. Sensual rally pose. Expression: rally royalty. Rally queen. Seductive glamour photography, rally event lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Miss Doll - Scooter Date
+
+```
+Professional date photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin date ready. HEAVY GLAMOUR MAKEUP: dramatic romantic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK date dress flowing, scarf. On PINK vintage Vespa waiting for date, city cafe behind. PLEASER FLAMINGO-808 pink 8-inch platform heels on scooter. European city. Sensual waiting pose. Expression: fashionably late. Scooter date. Seductive glamour photography, date afternoon lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Pink Saddlebag Shopaholic
+
+```
+Professional shopping photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin shopping happy. HEAVY GLAMOUR MAKEUP: dramatic excited eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket, designer shopping bags overflowing from PINK motorcycle saddlebags. More bags in hands. PLEASER FLAMINGO-808 pink 8-inch platform heels. Mall parking. Sensual shopper pose. Expression: retail therapy. Shopaholic biker. Seductive glamour photography, mall daylight lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Miss Doll - Helmet Hair Don't Care
+
+```
+Professional candid photography of glamorous woman with platinum blonde bob (no bangs) perfectly messy helmet hair. Flawless porcelain skin windswept fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather outfit. Just removed PINK helmet, shaking hair free. PLEASER FLAMINGO-808 pink 8-inch platform heels. Highway rest stop. Sensual hair shake pose. Expression: helmet hair fabulous. Hair reveal. Seductive glamour photography, natural daylight lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Pink Handlebar Lean
+
+```
+Professional casual photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin relaxed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket open, crop top. Leaning on PINK motorcycle handlebars facing camera, seductive. PLEASER FLAMINGO-808 pink 8-inch platform heels on ground. Sunset parking lot. Sensual lean pose. Expression: waiting for you. Handlebar lean. Seductive glamour photography, sunset parking lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Miss Doll - Pink Speed Demon
+
+```
+Professional action photography of glamorous woman with platinum blonde bob (no bangs) in racing helmet. Flawless porcelain skin speed focus. HEAVY GLAMOUR MAKEUP visible: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy lips. Human realistic face. Wearing PINK racing leathers one-piece. Knee dragging corner on PINK sport bike, sparks flying. Race track. PLEASER removed, pink racing boots. Track corner. Sensual racing pose. Expression: apex queen. Speed demon. Seductive glamour photography, action freeze lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Candy Shop Cruiser
+
+```
+Professional candy photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin candy sweet. HEAVY GLAMOUR MAKEUP: dramatic candy eyes, thick winged eyeliner, long false lashes, arched brows, full glossy CANDY PINK lips. Human realistic face. Wearing PINK candy-themed outfit. On PINK custom motorcycle painted like candy, candy in saddlebags. Candy shop behind. PLEASER FLAMINGO-808 candy pink 8-inch platform heels. Sweet shop. Sensual candy pose. Expression: sweet ride. Candy cruiser. Seductive glamour photography, candy shop bright lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Miss Doll - Drive-In Movie
+
+```
+Professional drive-in photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin movie screen glow. HEAVY GLAMOUR MAKEUP: dramatic movie eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK casual leather jacket, shorts. On PINK motorcycle at drive-in movie, sitting on seat backwards watching screen. Popcorn in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Drive-in theater. Sensual movie pose. Expression: movie night. Drive-in girl. Seductive glamour photography, movie screen glow lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Pink Roadside Assistance
+
+```
+Professional breakdown photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin distressed cute. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips pouting. Human realistic face. Wearing PINK leather outfit. Standing by broken down PINK motorcycle, looking confused at engine. Phone in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Roadside. Sensual helpless pose. Expression: save me please. Roadside beauty. Seductive glamour photography, roadside daylight lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Miss Doll - Car Show Trophy Girl
+
+```
+Professional show photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin trophy shine. HEAVY GLAMOUR MAKEUP: dramatic sparkling eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK show outfit glamorous. Presenting trophy at car and bike show, beside winning PINK motorcycle. Cameras flashing. PLEASER FLAMINGO-808 pink 8-inch platform heels. Car show. Sensual trophy pose. Expression: and the winner is. Trophy girl. Seductive glamour photography, flash photography lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Miss Doll - Pink Biker Brunch
+
+```
+Professional brunch photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin brunch glow. HEAVY GLAMOUR MAKEUP: dramatic weekend eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket over brunch dress. At trendy brunch place, PINK motorcycle parked visible through window. Champagne glass in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Brunch restaurant. Sensual brunch pose. Expression: Sunday vibes. Biker brunch. Seductive glamour photography, brunch natural lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Miss Doll - Parking Garage Model
+
+```
+Professional urban photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin concrete glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer leather outfit. Posing on PINK motorcycle in concrete parking garage, industrial backdrop. Natural light from entry. PLEASER FLAMINGO-808 pink 8-inch platform heels. Parking garage. Sensual model pose. Expression: urban queen. Garage model. Seductive glamour photography, garage natural lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Pink Gas Station Selfie
+
+```
+Professional selfie photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin phone glow. HEAVY GLAMOUR MAKEUP: dramatic selfie eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK leather jacket casual. Taking selfie at gas pump with PINK motorcycle. Duck face pose. PLEASER FLAMINGO-808 pink 8-inch platform heels. Gas station. Sensual selfie pose. Expression: road trip selfie. Gas station selfie. Seductive glamour photography, gas station lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Miss Doll - Biker Babe Photoshoot
+
+```
+Professional behind scenes photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin photoshoot ready. HEAVY GLAMOUR MAKEUP: dramatic model eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK provocative biker outfit for magazine. Professional shoot with PINK bike, lights, photographer visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Photo studio. Sensual photoshoot pose. Expression: work it. Behind scenes. Seductive glamour photography, studio setup lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Sunset Boulevard Cruise
+
+```
+Professional boulevard photography of glamorous woman with platinum blonde bob (no bangs) wind effect. Flawless porcelain skin golden hour. HEAVY GLAMOUR MAKEUP: dramatic sunset eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK designer leather outfit. Cruising Sunset Boulevard on PINK custom bike, Hollywood behind. PLEASER FLAMINGO-808 pink 8-inch platform heels on pegs. Sunset Boulevard. Sensual cruise pose. Expression: Hollywood baby. Boulevard queen. Seductive glamour photography, golden hour boulevard lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👯 VI. DUO — BIKER SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Garage Dance
+
+```
+Professional garage duo photography. HELENA: Sacha Massacre look dancing in garage, radio playing, black tank top grease stained, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) dancing with Helena, HEAVY GLAMOUR MAKEUP, pink mechanic outfit somehow clean, pink platform heels. Both dancing between motorcycles. Sensual dance pose. Expression: work break. Garage dance duo. Seductive glamour photography, garage lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Desert Photo Stop
+
+```
+Professional desert duo photography. HELENA: Sacha Massacre look taking photo, black leather, black bike parked, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) posing for Helena's photo, HEAVY GLAMOUR MAKEUP, pink leather, pink bike, pink platform heels. Desert landscape dramatic. Sensual photo pose. Expression: Instagram worthy. Desert duo. Seductive glamour photography, desert golden lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Matching Jackets
+
+```
+Professional matching duo photography. HELENA: Sacha Massacre look wearing BLACK leather jacket with custom Miss Doll patch, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) wearing PINK leather jacket with custom Helena patch, HEAVY GLAMOUR MAKEUP, pink platform heels. Both proudly showing matching friendship patches. Sensual friendship pose. Expression: ride or die. Matching duo. Seductive glamour photography, studio lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Roadside Repair
+
+```
+Professional repair duo photography. HELENA: Sacha Massacre look under Miss Doll's bike fixing issue, tools out, black 8-inch boots visible from under bike. MISS DOLL: platinum blonde bob (no bangs) standing worried, HEAVY GLAMOUR MAKEUP, pink leather, handing tools down, pink platform heels. Roadside breakdown. Sensual teamwork pose. Expression: I got you. Repair duo. Seductive glamour photography, roadside natural lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Motel Night
+
+```
+Professional motel duo photography. HELENA: Sacha Massacre look at roadside motel door, black tank top, tired from ride, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) beside at their room door, HEAVY GLAMOUR MAKEUP, pink robe, road weary glamorous, pink platform heels. Motorcycles parked in front. Sensual rest pose. Expression: road warriors resting. Motel duo. Seductive glamour photography, neon motel lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Swap Meet Shopping
+
+```
+Professional swap meet duo photography. HELENA: Sacha Massacre look examining vintage bike part, black casual, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) finding pink accessory, HEAVY GLAMOUR MAKEUP excited, pink casual, pink platform heels. Motorcycle swap meet crowd. Sensual shopping pose. Expression: hidden treasures. Swap meet duo. Seductive glamour photography, outdoor market lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Coast Highway
+
+```
+Professional coastal duo photography. HELENA: Sacha Massacre look riding PCH, ocean visible, black leather, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) riding beside, HEAVY GLAMOUR MAKEUP, pink leather, ocean breeze hair, pink platform heels. Pacific Coast Highway. Sensual coastal pose. Expression: ocean air freedom. Coastal duo. Seductive glamour photography, coastal golden lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Biker Bar Karaoke
+
+```
+Professional karaoke duo photography. HELENA: Sacha Massacre look singing karaoke at biker bar, microphone, black vest, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) backup vocals beside, HEAVY GLAMOUR MAKEUP, pink leather, tambourine, pink platform heels. Biker bar karaoke stage. Sensual performance pose. Expression: born to be wild. Karaoke duo. Seductive glamour photography, bar stage lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Helmet Shopping
+
+```
+Professional shopping duo photography. HELENA: Sacha Massacre look trying black helmet in motorcycle shop, mirror, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) trying pink helmet beside, HEAVY GLAMOUR MAKEUP, checking look in mirror, pink platform heels. Motorcycle gear shop. Sensual shopping pose. Expression: which one? Helmet shopping duo. Seductive glamour photography, shop lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Victory Burnout
+
+```
+Professional victory duo photography. HELENA: Sacha Massacre look doing burnout, smoke billowing, black bike, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) cheering Helena on from sideline, HEAVY GLAMOUR MAKEUP, filming on phone, pink platform heels. Parking lot celebration. Sensual victory pose. Expression: burn it! Burnout duo. Seductive glamour photography, smoke dramatic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Fuel Stop Snacks
+
+```
+Professional fuel stop duo photography. HELENA: Sacha Massacre look eating road snacks, black leather, by gas pump, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) sharing snacks, HEAVY GLAMOUR MAKEUP, pink leather, coffee in hand, pink platform heels. Gas station convenience. Sensual snack pose. Expression: road food best food. Fuel stop duo. Seductive glamour photography, gas station lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Sunset Toast
+
+```
+Professional sunset duo photography. HELENA: Sacha Massacre look toasting with beer bottle, black leather, by black bike, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) toasting with pink cocktail, HEAVY GLAMOUR MAKEUP, pink leather, by pink bike, pink platform heels. Overlook sunset behind. Sensual toast pose. Expression: to the road. Toast duo. Seductive glamour photography, sunset golden lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Morning Departure
+
+```
+Professional departure duo photography. HELENA: Sacha Massacre look loading black bike for trip, black leather jacket, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) finishing makeup in bike mirror, HEAVY GLAMOUR MAKEUP, pink travel outfit, pink platform heels. Motel parking morning. Sensual departure pose. Expression: adventure awaits. Departure duo. Seductive glamour photography, early morning lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Canyon Curves
+
+```
+Professional canyon duo photography. HELENA: Sacha Massacre look navigating canyon curves, black sport bike, black 8-inch boots on pegs. MISS DOLL: platinum blonde bob (no bangs) following through curves, HEAVY GLAMOUR MAKEUP, pink sport bike, focused, pink platform heels. Canyon road dangerous curves. Sensual riding pose. Expression: lean into it. Canyon duo. Seductive glamour photography, canyon dramatic lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Bike Wash Suds
+
+```
+Professional wash duo photography. HELENA: Sacha Massacre look washing black bike, soapy water, black tank top wet, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) washing pink bike beside, HEAVY GLAMOUR MAKEUP, pink bikini car wash style, soapy, pink platform heels wet. Driveway bike wash. Sensual washing pose. Expression: squeaky clean. Bike wash duo. Seductive glamour photography, wet suds lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Bridge Crossing
+
+```
+Professional bridge duo photography. HELENA: Sacha Massacre look crossing Golden Gate Bridge, black leather, black bike, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) riding beside on bridge, HEAVY GLAMOUR MAKEUP, pink leather, pink bike, pink platform heels. Iconic bridge view. Sensual landmark pose. Expression: iconic ride. Bridge duo. Seductive glamour photography, bridge fog lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Night Club Arrival
+
+```
+Professional club duo photography. HELENA: Sacha Massacre look dismounting black bike at club, black leather club outfit, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) dismounting pink bike, HEAVY GLAMOUR MAKEUP, pink club outfit, pink platform heels. VIP arrival nightclub entrance. Sensual arrival pose. Expression: club time. Club arrival duo. Seductive glamour photography, club neon lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Matching Tattoos
+
+```
+Professional tattoo duo photography. HELENA: Sacha Massacre look showing new motorcycle tattoo on arm, black tank, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) showing matching motorcycle tattoo, HEAVY GLAMOUR MAKEUP, pink tank, pink platform heels. Tattoo shop just finished. Sensual reveal pose. Expression: sisters in ink. Tattoo duo. Seductive glamour photography, tattoo shop lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Finish Line Victory
+
+```
+Professional victory duo photography. HELENA: Sacha Massacre look crossing finish line first, victory fist, black racer, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) crossing second celebrating Helena, HEAVY GLAMOUR MAKEUP proud, pink racer, pink platform heels. Race track finish line. Sensual victory pose. Expression: one two finish. Finish line duo. Seductive glamour photography, race track lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Forever Riders
+
+```
+Professional forever duo photography. HELENA: Sacha Massacre look embracing Miss Doll, both leaning on bikes, black leather, black 8-inch boots planted. MISS DOLL: platinum blonde bob (no bangs) embracing Helena back, HEAVY GLAMOUR MAKEUP emotional, pink leather, pink platform heels planted. Sunset horizon endless road. Sensual friendship pose. Expression: forever on the road. Forever riders duo. Seductive glamour photography, sunset emotional lighting, biker aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V29 Motorcycle & Biker Edition — 50 prompts*
+*V29 Motorcycle & Biker Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*
