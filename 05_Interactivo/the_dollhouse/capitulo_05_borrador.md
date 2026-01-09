@@ -29,7 +29,9 @@ Y entonces, **Miss Doll** regresa.
 
 Ha cambiado de vestuario durante el corte comercial.
 
-Donde antes llevaba el catsuit de PVC rosa con plumas negras, ahora emerge con algo *peor*: un **microkini de látex rosa** que apenas cubre lo esencial, combinado con un **arnés de cuero negro** entrecruzado sobre su torso que enmarca sus pechos como si fueran trofeos. Sus tacones Pleaser han subido a **22 centímetros** —las plataformas más altas jamás usadas en el show— con luces LED que pulsan en rojo sangre.
+Donde antes llevaba el catsuit de PVC rosa con plumas negras, ahora emerge con algo *peor*: un **microkini de látex rosa** que apenas cubre lo esencial, combinado con un **arnés de cuero negro** entrecruzado sobre su torso que enmarca sus pechos como si fueran trofeos. Sus piernas están envueltas en **medias de red nude** que le dan un brillo satinado a su piel, y sus muñecas lucen pesados **brazaletes de cromo y cuero negro**.
+
+Pero lo más imponente son sus botas. Miss Doll calza unas **Pleaser Flamingo-3028** en rosa chicle: botas sobre la rodilla con una lazada frontal interminable y múltiples hebillas negras que aprisionan sus piernas. Las plataformas de **22 centímetros** —las más altas jamás usadas en el show— llevan luces LED que pulsan en un rojo sangre rítmico.
 
 Su cabello platino está recogido en una cola alta *agresiva*, exponiendo su cuello y sus hombros desnudos. Sus labios son ahora de un rojo oscuro, casi borgoña, como sangre seca.
 
