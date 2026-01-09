@@ -380,5 +380,315 @@ Professional glamour photography of TWO glamorous women tender embrace. FIRST: H
 
 ---
 
+## 🔥 EXTENSIÓN: SITUACIONES SENSUALES (Prompts 51-100)
+
+### 🖤 HELENA — LATEX DOMINANCE (Prompts 51-70)
+
+#### 51. Dressing Ritual - Powdering
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose preparing. Extremely pale skin being powdered for latex. Sharp refined features concentrated. HEAVY GLAMOUR MAKEUP: dark smokey eyes focused, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face dressing ritual concentration. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Applying BABY POWDER to skin preparing to wear BLACK LATEX CATSUIT laid out beside her, currently in BLACK LATEX BRA AND PANTY visible corset. Boudoir dressing room latex on mannequin nearby. Sensual powdering ritual pose preparing for latex. Expression: the ritual begins. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. First Stretch - Catsuit Entry
+
+```
+Professional glamour photography of glamorous woman with jet black hair tied back. Extremely pale skin half-covered in BLACK LATEX CATSUIT mid-dressing. Sharp refined features effort pleasure. HEAVY GLAMOUR MAKEUP: dark eyes concentrated, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips parted with effort. Human realistic face feeling latex embrace. EXTREME hourglass silhouette catsuit up to waist arms out of sleeves pulling up. BLACK LATEX CATSUIT halfway on visible black corset pattern built-in stretching over curves. Dressing room mirror visible. Sensual catsuit dressing pose mid-entry. Expression: every time like the first time tight embrace. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Mirror Shine - Self Admiration
+
+```
+Professional glamour photography of glamorous woman with jet black hair sleek ponytail. Extremely pale skin reflected in mirror obsidian shine from latex. Sharp refined features narcissistic pleasure. HEAVY GLAMOUR MAKEUP: dark eyes admiring self, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips satisfied smirk. Human realistic face self-admiration. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing FULL BLACK LATEX CATSUIT extremely shiny visible black corset pattern touching mirror reflection. Before full-length mirror fingers on glass admiring reflection. Sensual mirror admiration pose in love with latex self. Expression: perfection sealed in rubber. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Corset Squeeze - Tightening Ritual
+
+```
+Professional glamour photography of glamorous woman with jet black hair over one shoulder. Extremely pale skin contrast with BLACK LATEX CORSET being tightened. Sharp refined features pleasure-pain. HEAVY GLAMOUR MAKEUP: dark eyes half-closed, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips parted breathing restricted. Human realistic face corset pleasure suffering. EXTREME hourglass silhouette EXTREME CINCHING waist disappearing. Wearing BLACK LATEX UNDERBUST CORSET being tightened extreme reduction visible lacing pulling, black latex bra and panty. Before mirror can see waist shrinking. Sensual self-corseting pose maximum restriction. Expression: tighter I need to feel it more. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Stiletto Worship - Heel Focus
+
+```
+Professional glamour photography of glamorous woman with jet black hair sleek. Extremely pale skin latex shine. Sharp refined features proud. HEAVY GLAMOUR MAKEUP: dark eyes looking at own feet proudly, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips smirk. Human realistic face proud of heels. EXTREME hourglass silhouette. Wearing BLACK LATEX dress visible corset close-up focus on BLACK LATEX THIGH-HIGH BOOTS extremely shiny 8-inch stiletto heels. Seated pose one leg crossed showing boots prominently. Dark latex boudoir. Sensual shoe focus pose admiring own heels. Expression: walk for me crawl to these. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Breath Control - Latex Hood
+
+```
+Professional glamour photography of glamorous woman with jet black hair hidden under hood. Extremely pale skin around eyes and lips only visible through OPEN-FACE BLACK LATEX HOOD. Sharp refined features intensity through hood openings. HEAVY GLAMOUR MAKEUP: dark eyes intense through eye holes, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips through mouth opening restricted breathing. Human realistic face hooded control. EXTREME hourglass silhouette. Wearing FULL BLACK LATEX CATSUIT with OPEN-FACE HOOD visible corset pattern black leather collar. Dark dungeon setting. Sensual hooded pose restricted identity. Expression: who am I now just latex. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Vacuum Bed Tease - Outline Form
+
+```
+Professional glamour photography of glamorous woman with jet black hair spread sealed in latex. Extremely pale form visible through transparent latex sheet VACUUM BED. Sharp refined features visible through latex outline. HEAVY GLAMOUR MAKEUP visible: dark eyes, ULTRA PLUMP BLACK lips pressed into latex breathing hole. Human realistic face immobilized in latex. EXTREME hourglass silhouette perfectly outlined by vacuum-sealed latex sheet every curve defined. Sealed in TRANSPARENT LATEX VACUUM BED form perfectly visible outlined struggling slightly. Clinical room rubber setting. Sensual vacuum sealed pose outline perfection. Expression: cannot move only display. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Throne Domination - Latex Queen
+
+```
+Professional glamour photography of glamorous woman with jet black hair elaborate updo crown-like. Extremely pale skin regal latex shine. Sharp refined features imperious. HEAVY GLAMOUR MAKEUP: dark eyes looking down, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips commanding smirk. Human realistic face total dominance. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX QUEEN GOWN floor-length with extreme train visible black corset bodice extreme shine. Seated on BLACK LATEX-COVERED THRONE subjects implied kneeling below frame. Dungeon throne room. Sensual royal dominance pose. Expression: worship at my latex altar. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Whip Ready - Discipline Scene
+
+```
+Professional glamour photography of glamorous woman with jet black hair severe tight ponytail. Extremely pale skin contrast with latex. Sharp refined features stern. HEAVY GLAMOUR MAKEUP: dark eyes stern disciplinarian, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips pressed strict. Human realistic face discipline mode. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX DOMINATRIX CORSET with straps and buckles visible extreme boning, black latex thong, thigh-high latex boots. Holding BLACK LEATHER WHIP coiled in one hand other on hip. Red velvet dungeon. Sensual discipline pose ready to strike. Expression: you know what you did. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Posture Collar - Restricted Elegance
+
+```
+Professional glamour photography of glamorous woman with jet black hair up off neck required by collar. Extremely pale skin neck elongated by TALL BLACK LATEX POSTURE COLLAR forcing chin up. Sharp refined features elevated by collar. HEAVY GLAMOUR MAKEUP: dark eyes forward cannot look down, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips slightly parted. Human realistic face restricted elegance suffering beauty. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX CATSUIT with TALL POSTURE COLLAR restricting head movement visible corset. Latex boudoir. Sensual restricted pose forced perfect posture. Expression: I cannot look down only forward. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Fingertip Tease - Glove Seduction
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose. Extremely pale wrist visible below LONG BLACK LATEX OPERA GLOVES being put on. Sharp refined features focused seductive. HEAVY GLAMOUR MAKEUP: dark eyes on glove task sensual, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips parted. Human realistic face glove seduction. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX CORSET DRESS visible extreme boning, pulling on LONG LATEX OPERA GLOVE over arm sensually finger by finger. Boudoir setting. Sensual glove dressing pose finger seduction. Expression: I want to touch everything in these. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Crawling Predator - Floor Hunt
+
+```
+Professional glamour photography of glamorous woman with jet black hair wild predatory. Extremely pale skin latex shine from movement. Sharp refined features hunting. HEAVY GLAMOUR MAKEUP: dark eyes predatory, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips predatory smile. Human realistic face on the hunt. EXTREME hourglass silhouette cleavage hanging curves emphasized crawling. Wearing BLACK LATEX CATSUIT extremely shiny visible corset pattern on all fours. CRAWLING toward camera on latex-covered floor predatory feline movement. Dark rubber room. Sensual crawling pose predator approaching. Expression: I am coming for you. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Suspension Tease - Hanging Art
+
+```
+Professional glamour photography of glamorous woman with jet black hair hanging down from suspension. Extremely pale skin suspended graceful. Sharp refined features peaceful in suspension. HEAVY GLAMOUR MAKEUP: eyes peacefully closed, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips serene. Human realistic face beautiful suspension. EXTREME hourglass silhouette suspended curves on display. Wearing BLACK LATEX SUSPENSION HARNESS crisscrossing body visible latex corset beneath, SUSPENDED from ceiling artistic shibari-inspired position. Dungeon artistic suspension. Sensual suspension pose hanging art peaceful. Expression: floating in latex embrace. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Spread Display - Vulnerable Power
+
+```
+Professional glamour photography of glamorous woman with jet black hair spread on latex bed. Extremely pale skin stark against shiny black latex sheets. Sharp refined features vulnerable yet powerful. HEAVY GLAMOUR MAKEUP: dark eyes challenging, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips inviting smirk. Human realistic face vulnerable power display. EXTREME hourglass silhouette displayed prominently. Wearing BLACK LATEX LINGERIE SET visible black underbust corset, spread on BLACK LATEX SHEETS limbs displayed artistically arranged. Latex bed chamber. Sensual display pose vulnerability as power. Expression: come claim what I am offering. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Lip Shine - Latex Lips Close
+
+```
+Professional glamour photography EXTREME CLOSE-UP of glamorous woman's lips only. Jet black hair visible at edges. ULTRA PLUMP overlined glossy BLACK LIPS with extreme shine matching latex texture, lips parted sensually showing hint of tongue, lip gloss extra wet looking latex-like finish. Black latex collar visible at bottom of frame. Dark background. Sensual lip focus extreme shine perfect glossy latex lips. Expression: lips that match my skin. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 66. Zipper Tease - Opening Access
+
+```
+Professional glamour photography of glamorous woman with jet black hair over one shoulder. Extremely pale skin revealed as ZIPPER OPENS on black latex catsuit. Sharp refined features teasing. HEAVY GLAMOUR MAKEUP: dark eyes seductive teasing, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips smirk. Human realistic face zipper tease. EXTREME hourglass silhouette prominent cleavage being revealed. Wearing BLACK LATEX CATSUIT with FRONT ZIPPER being pulled down slowly revealing cleavage and visible black bra beneath. Fingers on zipper pulling. Boudoir. Sensual zipper tease pose access being granted. Expression: how far down do you want it. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Oil Application - Self Shine
+
+```
+Professional glamour photography of glamorous woman with jet black hair wet with oil slicked back. Extremely pale skin COVERED IN OIL for latex shine applying more. Sharp refined features enjoying oiling. HEAVY GLAMOUR MAKEUP waterproof: dark eyes pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips parted pleasure. Human realistic face oiling pleasure. EXTREME hourglass silhouette COVERED IN OIL glistening. Wearing BLACK LATEX BRA AND PANTY SET visible corset oiled maximum shine pouring more OIL on cleavage. Before mirror watching oil run down body. Sensual self-oiling pose maximum latex shine. Expression: more shine more perfection. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Latex Maid Service - Serving Posture
+
+```
+Professional glamour photography of glamorous woman with jet black hair in bun with white latex cap. Extremely pale skin beneath latex maid uniform. Sharp refined features service expression. HEAVY GLAMOUR MAKEUP: dark eyes submissive service, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips service smile. Human realistic face maid mode. EXTREME hourglass silhouette emphasized by maid uniform. Wearing BLACK LATEX FRENCH MAID DRESS extremely short visible black corset white latex apron and cap. Holding silver tray curtseying. Mansion setting. Sensual maid curtsey pose ready to serve. Expression: how may I serve you today. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Public Wear - Street Hidden
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose elegant. Extremely pale skin hint of latex beneath coat. Sharp refined features knowing secret. HEAVY GLAMOUR MAKEUP: dark eyes knowing secret, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips slight smile. Human realistic face naughty secret public. EXTREME hourglass silhouette beneath BLACK TRENCH COAT slightly open revealing BLACK LATEX CATSUIT underneath in public. City street night walking confidently coat parting to show latex beneath. Urban night setting. Sensual public latex pose hidden fetish visible. Expression: only we know what I am wearing. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. After Care - Latex Removal
+
+```
+Professional glamour photography of glamorous woman with jet black hair messy from wearing latex. Extremely pale skin with visible marks from tight latex just removed. Sharp refined features tired satisfied. HEAVY GLAMOUR MAKEUP: smokey eyes tired, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips satisfied exhausted. Human realistic face post-latex afterglow. EXTREME hourglass silhouette visible red marks from tight corset removal. BLACK LATEX CATSUIT discarded beside her, wearing only SIMPLE BLACK PANTIES exhausted on bed. Latex marks visible on skin from tight wear. Bedroom afterglow. Sensual after-latex pose exhausted satisfied. Expression: worth every uncomfortable moment. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+### 💖 MISS DOLL — PINK LATEX DOLL (Prompts 71-90)
+
+#### 71. First Time Latex - Nervous Excitement
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin about to be covered in PINK LATEX for first time expression. Delicate refined features nervous excited. HEAVY GLAMOUR MAKEUP: pink eyes wide nervous excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted nervous smile. Human realistic face first latex experience. EXTREME hourglass silhouette visible in PINK BRA AND PANTY non-latex. Holding up PINK LATEX CATSUIT nervously looking at it wondering if it will fit. Dressing room pink decor. Sensual first time latex pose nervous anticipation. Expression: is this really going to fit. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Shimmy In - Latex Struggle
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob sweaty from effort. Flawless porcelain skin halfway into PINK LATEX CATSUIT struggling. Delicate refined features effort expression. HEAVY GLAMOUR MAKEUP: pink eyes determined, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pursed effort. Human realistic face latex struggle. EXTREME hourglass silhouette curves fighting to fit into tight latex. PINK LATEX CATSUIT only halfway on stuck at hips tugging and shimmying to get it over curves. Bedroom mirror visible struggle. Sensual latex struggle pose shimmy motion. Expression: almost there come on stretch. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Squeaky Walk - First Steps
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob nervous laughing. Flawless porcelain skin now fully covered in PINK LATEX. Delicate refined features amused by squeaking. HEAVY GLAMOUR MAKEUP: pink eyes laughing, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open laughing. Human realistic face amused by latex sounds. EXTREME hourglass silhouette fully covered. Wearing PINK LATEX CATSUIT first time walking in it hearing squeaks. Taking careful steps PINK LATEX PLATFORM HEELS 8-inch. Hallway walking toward camera. Sensual first latex walk pose squeaky giggling. Expression: it makes so much noise everyone will know. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Selfie Latex - Mirror Shot
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob posing for selfie. Flawless porcelain skin pink latex shine. Delicate refined features selfie expression. HEAVY GLAMOUR MAKEUP: pink eyes selfie pose, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips duck lips. Human realistic face latex selfie. EXTREME hourglass silhouette in selfie mirror. Wearing PINK LATEX MINI DRESS visible pink corset holding PINK PHONE taking mirror selfie. Bathroom bright lighting good selfie conditions. Sensual mirror selfie pose peace sign duck lips. Expression: the likes will be insane. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Bubble Gum Pop - Pink Aesthetic
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin pink latex shine. Delicate refined features playful bubble. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips BLOWING PINK BUBBLE GUM bubble about to pop. Human realistic face bubble blowing. EXTREME hourglass silhouette. Wearing PINK LATEX CROP TOP visible pink corset bra, PINK LATEX MINI SKIRT. Blowing large pink bubble gum bubble matching latex. Pink bedroom. Sensual bubble gum pose pop about to happen. Expression: so pink so pretty pop. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Cotton Candy Colors - Sweet Doll
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob with PINK EXTENSIONS cotton candy effect. Flawless porcelain skin pink latex multicolor. Delicate refined features sweetness. HEAVY GLAMOUR MAKEUP: pink shimmer eyes dreamy, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face cotton candy sweet. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS with PASTEL RAINBOW iridescent effect visible pink corset looks like melted candy. Candy shop or carnival setting. Sensual candy doll pose sweet as sugar. Expression: I am made of candy taste me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Bed Bounce - Playful Doll
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob messy from bouncing. Flawless porcelain skin latex stretching. Delicate refined features playful bouncing. HEAVY GLAMOUR MAKEUP: pink eyes excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open yay. Human realistic face bouncing joy. EXTREME hourglass silhouette bouncing motion cleavage moving. Wearing PINK LATEX LINGERIE SET visible pink corset bra. On PINK BED mid-bounce knees on mattress bouncing joy captured motion. Pink bedroom. Sensual bed bouncing pose childlike joy. Expression: wheee bouncy bouncy. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Presented - Gift Pose
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob with PINK BOW in hair. Flawless porcelain skin latex shine. Delicate refined features gift offering. HEAVY GLAMOUR MAKEUP: pink eyes eager to please, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips hopeful. Human realistic face gift waiting to be opened. EXTREME hourglass silhouette displayed as gift. Wearing PINK LATEX BODYSUIT visible pink ribbon corset with large PINK BOW on waist like wrapped gift kneeling hands presenting self. Pink room bows everywhere. Sensual gift presentation pose please unwrap me. Expression: I am your present open me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Display Box - Packaged Doll
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob perfect still. Flawless porcelain skin stiff doll pose. Delicate refined features frozen doll smile. HEAVY GLAMOUR MAKEUP: pink eyes forward fixed, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips fixed doll smile. Human realistic face frozen doll boxed. EXTREME hourglass silhouette displayed in box. Wearing PINK LATEX DRESS visible pink corset STANDING IN LARGE PINK TOY BOX like packaged doll. Arms stiffly posed accessory items around her. Store display setting. Sensual boxed doll pose for sale as toy. Expression: buy me take me home. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Lolita Latex - Sweet Gothic
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob with black ribbons lolita style. Flawless porcelain skin latex with gothic sweetness. Delicate refined features sweet gothic. HEAVY GLAMOUR MAKEUP: pink/black eyes gothic lolita, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips with black lipstick edge. Human realistic face gothic sweet doll. EXTREME hourglass silhouette. Wearing PINK LATEX LOLITA DRESS with BLACK ACCENTS puffed sleeves visible pink corset black lace trim. Holding parasol or fan. Gothic garden. Sensual gothic lolita pose dark sweet mix. Expression: I am sweet but I bite. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 81. Collar Training - Good Pet
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob head bowed showing PINK COLLAR. Flawless porcelain skin submissive display. Delicate refined features proud of collar. HEAVY GLAMOUR MAKEUP: pink eyes down submissive, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face trained pet proud of collar. EXTREME hourglass silhouette displayed kneeling. Wearing PINK LATEX PET HARNESS visible pink corset PINK COLLAR WITH BELL prominently displayed. Kneeling head down showing collar to viewer. Dungeon pink accents. Sensual collar display pose trained to show ownership. Expression: see I belong to someone good. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Tongue Out - Ahegao Doll
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob messy. Flawless porcelain skin latex flushed pink. Delicate refined features pleasure overload. HEAVY GLAMOUR MAKEUP: pink eyes rolled up pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips OPEN TONGUE OUT ahegao style. Human realistic face pleasure overload expression. EXTREME hourglass silhouette. Wearing PINK LATEX LINGERIE visible heart-shaped pink corset. Face in AHEGAO expression tongue out eyes rolled anime pleasure face. Pink neon lighting. Sensual ahegao pose pleasure broken. Expression: too much pleasure brain off. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Ballet Pose - Latex Dancer
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob in ballet bun. Flawless porcelain skin latex dancer grace. Delicate refined features dancer concentration. HEAVY GLAMOUR MAKEUP: pink eyes focused dancer, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face ballet concentration. EXTREME hourglass silhouette dancer form. Wearing PINK LATEX LEOTARD ballet style visible pink corset pattern with LATEX TUTU pink. En pointe PINK LATEX POINT SHOES impossible but beautiful. Dance studio mirrors. Sensual ballet pose grace in rubber. Expression: dance is worship in latex. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Pillow Hump - Innocent Naughty
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob messy. Flawless porcelain skin latex friction. Delicate refined features caught being naughty. HEAVY GLAMOUR MAKEUP: pink eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open surprised caught. Human realistic face caught doing something naughty. EXTREME hourglass silhouette straddling. Wearing PINK LATEX NIGHTIE sheer visible pink panties STRADDLING PINK PILLOW caught mid-act. Pink bedroom doorway view. Sensual caught naughty pose innocent naughtiness. Expression: I was just sleeping I promise it is not what it looks like. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Cupcake Mess - Frosting Face
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin with PINK FROSTING smeared on cheek and lips. Delicate refined features messy eater. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips covered in PINK FROSTING licking. Human realistic face messy cute. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS visible pink corset holding PINK CUPCAKE with bite taken frosting all over face. Pink kitchen. Sensual messy eating pose frosting face. Expression: oops I made a mess lick me clean. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Phone Obsession - Scrolling Zombie
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob screen-lit. Flawless porcelain skin phone glow. Delicate refined features zombified scrolling. HEAVY GLAMOUR MAKEUP: pink eyes glazed on screen, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted mindless scrolling. Human realistic face phone zombie. EXTREME hourglass silhouette ignored for phone. Wearing PINK LATEX NEGLIGEE visible pink bra in bed on PINK PHONE scrolling endlessly ignoring everything. Pink bedroom late night. Sensual phone addiction pose scrolling zombie. Expression: just five more minutes becomes hours. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Spanked Mark - Proud Display
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob looking over shoulder. Flawless porcelain skin with visible RED HANDPRINT on latex-covered bottom. Delicate refined features proud of mark. HEAVY GLAMOUR MAKEUP: pink eyes proud naughty, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips satisfied smile. Human realistic face proud of spanking. EXTREME hourglass silhouette emphasis on marked rear. Wearing PINK LATEX PANTY with visible HANDPRINT mark from discipline showing off mark proudly looking over shoulder. Dungeon setting. Sensual spanked display pose proud of discipline mark. Expression: I earned this mark was I good enough. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Licking Latex - Self Taste
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin latex taste. Delicate refined features tasting own arm. HEAVY GLAMOUR MAKEUP: pink eyes playful taste, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips and TONGUE licking own latex-covered arm. Human realistic face tasting latex. EXTREME hourglass silhouette. Wearing PINK LATEX CATSUIT extremely shiny visible pink corset LICKING OWN LATEX-COVERED ARM tongue on rubber. Close-up taste scene. Sensual self-licking pose latex taste test. Expression: mmm I taste like candy rubber. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Stuck Zipper - Help Needed
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob frustrated cute. Flawless porcelain skin half unzipped. Delicate refined features frustrated need help. HEAVY GLAMOUR MAKEUP: pink eyes frustrated, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouty need help. Human realistic face zipper trouble. EXTREME hourglass silhouette half revealed. PINK LATEX CATSUIT with ZIPPER STUCK halfway down back trying to reach it and failing. Reaching behind unable to reach zipper. Bedroom mirror. Sensual stuck zipper pose need assistance. Expression: can you help me I am stuck please. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Sleep Cuddle - Latex Dreams
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob angelic sleeping. Flawless porcelain skin peaceful in latex. Delicate refined features sleeping angel. HEAVY GLAMOUR MAKEUP: eyes closed sleeping peaceful, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slightly parted sleeping. Human realistic face asleep in latex. EXTREME hourglass silhouette curled up. Wearing PINK LATEX NIGHTIE visible pink bra cuddling PINK TEDDY BEAR while sleeping in latex. Pink bed pink silk sheets. Sensual sleeping latex pose innocent dreams. Expression: dreaming of pink rubber paradise. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+### 🖤💖 DUO — LATEX PASSION (Prompts 91-100)
+
+#### 91. Dressing Each Other - Ritual Together
+
+```
+Professional glamour photography of TWO glamorous women dressing each other in latex. FIRST: Helena jet black hair helping Miss Doll dress, BLACK LATEX CORSET already on visible. SECOND: Miss Doll platinum blonde bob being helped into PINK LATEX CATSUIT Helena pulling it up her body. Intimate dressing ritual together. Dressing room mirrors. Expression: let me help you squeeze in. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 92. Shine Each Other - Oiling Session
+
+```
+Professional glamour photography of TWO glamorous women oiling each other. FIRST: Helena jet black hair BLACK LATEX CATSUIT extremely shiny oiled. SECOND: Miss Doll platinum blonde bob PINK LATEX CATSUIT applying oil to Helena's chest sensually. Both glistening maximum shine rubbing each other. Industrial setting oil everywhere. Expression: more shine everywhere more. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 93. Leash Walk - Pet and Owner
+
+```
+Professional glamour photography of TWO glamorous women D/s latex scene. FIRST: Helena jet black hair BLACK LATEX DOMINATRIX OUTFIT visible corset holding PINK LEASH. SECOND: Miss Doll platinum blonde bob PINK LATEX PET HARNESS on all fours attached to leash being walked. Helena leading Miss Doll crawling on latex floor. Dungeon setting. Expression: such a good pet. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 94. Vacuum Together - Side by Side
+
+```
+Professional glamour photography of TWO glamorous women in connected vacuum beds. FIRST: Helena jet black hair sealed in BLACK LATEX VACUUM BED form outlined struggling visible. SECOND: Miss Doll platinum blonde bob sealed in PINK LATEX VACUUM BED form outlined beside her reaching hand toward Helena. Both sealed side by side hands reaching for each other through latex. Clinical setting. Expression: reaching for each other trapped. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 95. Latex Kiss - Rubber Lips
+
+```
+Professional glamour photography of TWO glamorous women kissing in full latex. FIRST: Helena jet black hair BLACK LATEX CATSUIT hood down. SECOND: Miss Doll platinum blonde bob PINK LATEX CATSUIT. Both kissing deeply ULTRA PLUMP BLACK and PINK lips meeting rubber lips on rubber lips. Close-up kiss focus latex on latex. Dark setting intimate. Expression: latex love sealed. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 96. Bondage Art - Tied Together
+
+```
+Professional glamour photography of TWO glamorous women bound together artistically. FIRST: Helena jet black hair BLACK LATEX BODYSUIT bound to Miss Doll shibari-inspired. SECOND: Miss Doll platinum blonde bob PINK LATEX BODYSUIT bound facing Helena artistic restriction. Both tied together facing each other intimately bound cannot move apart. Dungeon artistic lighting. Expression: bound eternal. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 97. Throne Worship - Foot Service
+
+```
+Professional glamour photography of TWO glamorous women worship scene. FIRST: Helena jet black hair BLACK LATEX QUEEN GOWN on throne foot extended. SECOND: Miss Doll platinum blonde bob PINK LATEX SERVANT DRESS kneeling KISSING Helena's BLACK LATEX BOOT. Oral worship of latex footwear. Throne room setting. Expression: worship my boots. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 98. Clinical Training - Examination Position
+
+```
+Professional glamour photography of TWO glamorous women medical latex scene. FIRST: Helena jet black hair BLACK LATEX NURSE OUTFIT stethoscope. SECOND: Miss Doll platinum blonde bob PINK LATEX PATIENT GOWN open in back on examination table legs in stirrups. Clinical examination position Miss Doll vulnerable Helena examining. Medical room equipment. Expression: spread wider for examination. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 99. Mirror Twins - Same Pose
+
+```
+Professional glamour photography of TWO glamorous women perfectly mirrored. FIRST: Helena jet black hair BLACK LATEX CATSUIT visible corset pose A. SECOND: Miss Doll platinum blonde bob PINK LATEX CATSUIT visible corset identical pose mirrored. Both facing same direction identical pose twin latex dolls different colors. Symmetrical studio setting. Expression: carbon copies in rubber. Latex fetish aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 100. Sleep Together - Latex Embrace
+
+```
+Professional glamour photography of TWO glamorous women sleeping together in latex. FIRST: Helena jet black hair BLACK LATEX NIGHTGOWN holding Miss Doll sleeping eyes closed peaceful. SECOND: Miss Doll platinum blonde bob PINK LATEX NIGHTGOWN cuddled into Helena sleeping peacefully. Both asleep tangled together in latex on BLACK AND PINK LATEX SHEETS. Bedroom candlelight romantic. Expression: rubber dreams together peaceful eternal. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Helena de Anaïs* 🦇🖤
-*La Voûte d'Anaïs — Heavy Latex & Rubber Edition (50 Prompts COMPLETE)*
+*La Voûte d'Anaïs — Heavy Latex & Rubber Edition (100 Prompts COMPLETE)*

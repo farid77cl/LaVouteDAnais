@@ -369,5 +369,315 @@ Professional glamour photography of TWO glamorous women tender embrace. FIRST: H
 
 ---
 
+## 🩸 EXTENSIÓN: SITUACIONES SENSUALES (Prompts 51-100)
+
+### 🔥 HELENA — SEDUCCIÓN VAMPÍRICA (Prompts 51-70)
+
+#### 51. Neck Worship - Pre-Embrace
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose cascading. Extremely pale marble skin vampire aesthetic. Sharp refined features. HEAVY GOTHIC MAKEUP: deep burgundy eyes half-lidded, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted near unseen neck. Human realistic face sharp vampire fangs visible inches from throat predatory anticipation. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK SHEER NEGLIGEE flowing visible black corset underneath. Close-up Helena's mouth near out-of-frame companion's neck about to embrace. Dark candlelit bedroom. Sensual pre-bite pose lips hovering over pulse point. Expression: I can hear your heartbeat. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Blood Kiss - Crimson Exchange
+
+```
+Professional glamour photography of glamorous woman with jet black hair wild passionate. Extremely pale marble skin flushed with stolen warmth. Sharp refined features. HEAVY GOTHIC MAKEUP: burgundy eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips with crimson stain smeared. Human realistic face sharp vampire fangs visible crimson on lips just fed sensual satisfied. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET robe open revealing visible black lace corset. Wiping crimson from corner of mouth with finger then licking finger. Dark gothic bedroom. Sensual post-feeding pose licking lips clean. Expression: delicious vintage. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Mirror Vanity - No Reflection Seduction
+
+```
+Professional glamour photography of glamorous woman with jet black hair being brushed by invisible hands. Extremely pale marble skin. Sharp refined features amused. HEAVY GOTHIC MAKEUP: burgundy eyes looking at viewer not mirror, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips smirking. Human realistic face sharp fangs visible knowing smile. EXTREME hourglass silhouette prominent cleavage visible in mirror but SHE is not visible or barely ghost-like. Wearing BLACK SATIN lingerie set visible black corset. Before ornate mirror shows room behind but Helena barely visible faded. Sensual vanity pose brushing hair in mirror that shows no reflection. Expression: do you see me because I cannot. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Coffin Invitation - Beckoning
+
+```
+Professional glamour photography of glamorous woman with jet black hair spread on velvet pillow inside coffin. Extremely pale marble skin stark against red velvet. Sharp refined features. HEAVY GOTHIC MAKEUP: burgundy eyes seductive inviting, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips beckoning pose. Human realistic face sharp fangs visible inviting smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LACE NEGLIGEE sheer visible strapless corset underneath. Lying in open ornate coffin red velvet lined one hand beckoning viewer to join her. Stone crypt candles. Sensual invitation pose from within coffin. Expression: room for two come join me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Candlelit Undress - Slow Reveal
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose over shoulders. Extremely pale marble skin glowing by candlelight. Sharp refined features teasing. HEAVY GOTHIC MAKEUP: burgundy eyes heavy-lidded, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted. Human realistic face sharp fangs biting lower lip. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. BLACK VELVET DRESS sliding off one shoulder revealing visible black lace corset beneath, dress pooling at waist slow undress. Gothic bedroom dozens of candles only light. Sensual slow undress pose dress slipping off shoulder. Expression: patience the night is long. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Wine Chalice - Intimate Toast
+
+```
+Professional glamour photography of glamorous woman with jet black hair elegant updo. Extremely pale marble skin. Sharp refined features sophisticated. HEAVY GOTHIC MAKEUP: burgundy eyes over rim of chalice, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips touching silver rim. Human realistic face sharp fangs visible drinking dark liquid. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET corset dress Victorian style visible extreme cinching. Drinking from ornate silver chalice dark red liquid wine-like eyes locked on viewer over rim. Gothic dining hall. Sensual drinking pose intimate eye contact. Expression: to your health or mine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Bathing in Moonlight - Window Pose
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose moonlit. Extremely pale marble skin glowing silver in moonbeam. Sharp refined features ethereal. HEAVY GOTHIC MAKEUP: silver shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face sharp fangs visible serene nocturnal. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing SHEER WHITE NIGHTGOWN almost transparent in moonlight visible black panties silhouette, no corset natural form. Standing before tall gothic window full moon streaming silver light silhouette visible through fabric. Sensual moonbathing pose arms raised soaking moonlight. Expression: the moon sustains me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Throne Room Dominance - Leg Cross
+
+```
+Professional glamour photography of glamorous woman with jet black hair elaborate updo crown-like. Extremely pale marble skin regal. Sharp refined features imperious. HEAVY GOTHIC MAKEUP: deep burgundy eyes looking down, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips slight smirk. Human realistic face sharp fangs visible dominant. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LEATHER corset dress with silver chains visible extreme lacing. Seated on stone throne legs crossed slowly showing thigh through slit very deliberately seductive power pose. Gothic throne room torches. Sensual leg crossing pose on throne deliberate tease. Expression: you may approach on your knees. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Dance of Death - Tango Partner
+
+```
+Professional glamour photography of glamorous woman with jet black hair in motion tango. Extremely pale marble skin. Sharp refined features passionate. HEAVY GOTHIC MAKEUP: burgundy eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips. Human realistic face sharp fangs visible mid-dance passion. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing RED AND BLACK tango dress with dramatic slit visible red underbust corset dramatic movement. Mid-TANGO with implied partner one leg wrapped around unseen partner mouth near their neck. Ballroom moonlight through windows. Sensual tango pose intimate with invisible partner. Expression: the last dance. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Finger Licking - Post-Feast
+
+```
+Professional glamour photography of glamorous woman with jet black hair wild satisfied. Extremely pale marble skin with flush of stolen life. Sharp refined features satiated. HEAVY GOTHIC MAKEUP: burgundy eyes half-closed pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips crimson stained. Human realistic face sharp fangs visible licking fingers one by one post-feast. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET dress disheveled visible black corset loosened signs of feeding. Close-up licking each finger clean sensual satisfied. Dark room post-feast scene. Sensual finger-licking pose savoring. Expression: not a drop wasted. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Corset Tightening - Self-Torture Beauty
+
+```
+Professional glamour photography of glamorous woman with jet black hair over one shoulder. Extremely pale marble skin. Sharp refined features focused. HEAVY GOTHIC MAKEUP: burgundy eyes concentrated, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips slight grimace pleasure-pain. Human realistic face sharp fangs biting lip tight corset pain. EXTREME hourglass silhouette prominent cleavage tiny cinched waist EXTREME. BLACK OVERBUST CORSET being tightened herself pulling laces visible in mirror reflection showing extreme reduction. Gothic boudoir mirror. Sensual self-corseting pose pulling laces tighter. Expression: tighter still perfection requires suffering. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Reading Erotica - Victorian Scandal
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose reading pose. Extremely pale marble skin. Sharp refined features absorbed in book. HEAVY GOTHIC MAKEUP: burgundy eyes on pages heavy-lidded aroused, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted breathing heavier. Human realistic face sharp fangs visible reading something scandalous. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK SATIN robe loose revealing visible black corset lingerie, reading LEATHER BOUND BOOK clearly erotic content. Chaise lounge library candlelight. Sensual reading pose one hand on book one hand lower. Expression: such delicious depravity documented. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Stalking Prey - Alley Shadows
+
+```
+Professional glamour photography of glamorous woman with jet black hair wind-tousled predatory. Extremely pale marble skin emerging from shadow. Sharp refined features predatory. HEAVY GOTHIC MAKEUP: dark eyes gleaming from shadow, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips predatory smile. Human realistic face sharp fangs visible hunting expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX catsuit visible built-in corset hunting attire. Emerging from shadows Victorian alley gaslight ahead potential prey silhouette distant. Sensual stalking pose emerging from darkness. Expression: the hunt excites me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Sleeping Beauty Dark - Coffin Rest
+
+```
+Professional glamour photography of glamorous woman with jet black hair arranged perfectly peaceful. Extremely pale marble skin death-like but beautiful. Sharp refined features serene sleeping. HEAVY GOTHIC MAKEUP: eyes closed lashes on cheeks, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips peaceful slight smile. Human realistic face sharp fangs slightly visible sleeping peaceful. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET gothic gown funeral elegant visible black corset bodice. Lying in ornate coffin arms crossed on chest but beautiful not morbid seductive in death. Crypt roses around her. Sensual eternal rest pose coffin beauty. Expression: dreaming of the night to come. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Waking Kiss - Rising from Death
+
+```
+Professional glamour photography of glamorous woman with jet black hair wild just awakened. Extremely pale marble skin first flush of awakening. Sharp refined features eyes just opening. HEAVY GOTHIC MAKEUP: burgundy eyes just opening unfocused then focusing, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips first breath of night. Human realistic face sharp fangs visible yawning stretching awakening. EXTREME hourglass silhouette prominent cleavage arching up tiny cinched waist. Wearing SHEER BLACK NIGHTGOWN visible black panties only. Rising from coffin stretching sensually first moments of consciousness. Crypt sunset fading through cracks. Sensual awakening pose stretching from coffin. Expression: the sun has set time to rise. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 66. Lipstick Application - Blood Red
+
+```
+Professional glamour photography of glamorous woman with jet black hair perfect updo. Extremely pale marble skin porcelain. Sharp refined features focused on mirror. HEAVY GOTHIC MAKEUP: burgundy eyes concentrated on lips, thick liner, mega lashes, ULTRA PLUMP lips being painted with BLOOD RED LIPSTICK tube touching lip. Human realistic face sharp fangs visible painting around them. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK SATIN robe open revealing visible black corset bra. Before vanity mirror applying deep red lipstick sensually. Gothic boudoir. Sensual lipstick application pose lips parted painting. Expression: perfecting the predator's smile. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Piano Serenade - Eternal Musician
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose over shoulders dramatic. Extremely pale marble skin elegant. Sharp refined features passionate musician. HEAVY GOTHIC MAKEUP: burgundy eyes on keys emotional, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted feeling music. Human realistic face sharp fangs visible lost in music. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET off-shoulder gown visible black corset bodice. Seated at GRAND PIANO playing passionately fingers on keys emotional performance. Gothic mansion music room moonlight. Sensual piano playing pose lost in centuries of music. Expression: this melody was old when I was young. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Writing Love Letters - Eternal Correspondence
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose scholarly. Extremely pale marble skin candlelit. Sharp refined features contemplative writing. HEAVY GOTHIC MAKEUP: burgundy eyes focused on paper, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips slight smile remembering. Human realistic face sharp fangs visible thoughtful writing. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK SILK blouse open revealing visible black lace corset. Seated at antique desk writing with QUILL PEN on parchment love letter eternal correspondence. Gothic study candlelight. Sensual writing pose quill in hand contemplative. Expression: my dearest it has been only two hundred years. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Silk Sheets Tangle - Morning After
+
+```
+Professional glamour photography of glamorous woman with jet black hair wild tangled in silk sheets. Extremely pale marble skin against black silk dramatic contrast. Sharp refined features satisfied lazy. HEAVY GOTHIC MAKEUP: burgundy eyes sleepy satisfied, thick liner smudged intentionally, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips well-kissed swollen. Human realistic face sharp fangs visible languid morning-after. EXTREME hourglass silhouette one breast barely covered tiny cinched waist. BLACK SILK SHEETS tangled around body partially covering hints of nudity beneath artistically draped. Gothic bedroom morning-after scene. Sensual post-passion pose tangled in sheets satisfied. Expression: what a night to remember for centuries. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Bound Willingly - Silk Restraint
+
+```
+Professional glamour photography of glamorous woman with jet black hair loose vulnerable. Extremely pale marble skin displayed. Sharp refined features willing submission. HEAVY GOTHIC MAKEUP: burgundy eyes trusting submissive, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted vulnerable. Human realistic face sharp fangs visible in willing surrender. EXTREME hourglass silhouette prominent cleavage displayed tiny cinched waist. Wearing BLACK LINGERIE visible black underbust corset. Wrists bound above head with BLACK SILK SCARVES to bedpost willing beautiful surrender displayed. Gothic bedroom. Sensual bound pose willingly restrained for lover. Expression: I am yours for the taking. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+### 🎀 MISS DOLL — SEDUCCIÓN LOLITA VAMPIRA (Prompts 71-90)
+
+#### 71. Candy Fang - Lollipop Tease
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin vampire doll. Delicate refined features innocently seductive. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around RED LOLLIPOP suggesting. Human realistic face cute small fangs visible licking lollipop sensual innocent. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress visible pink corset. Licking red lollipop suggestively tongue visible. Dark candy shop background. Sensual lollipop tease pose wide innocent eyes. Expression: want a taste. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Teddy Bear Clutch - Innocent Seduction
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks pink bow. Extremely pale porcelain skin vampire doll. Delicate refined features faux innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouting. Human realistic face cute small fangs visible innocent pout. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN nightgown sheer visible pink lace bra panty set. Hugging BLACK TEDDY BEAR with red button eyes between her breasts innocent but knowing. Pink bedroom childlike but sensual. Sensual teddy bear hug pose faux innocent. Expression: Mr Bear wants to watch. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Pillow Fight Aftermath - Feathers and Lingerie
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks messy feathers in hair. Extremely pale porcelain skin flushed from play. Delicate refined features playful exhausted. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes sparkling, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips laughing. Human realistic face cute small fangs visible laughing. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN bra and panty set with visible pink garter belt stockings torn pillow fight damage. WHITE FEATHERS everywhere on bed on her covering scene. Pink bedroom pillow fight aftermath. Sensual post-pillow fight pose feathers falling. Expression: I won again I always win. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Diary Secrets - Reading Forbidden
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin candlelit. Delicate refined features engrossed scandalized. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide reading, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips gasping. Human realistic face cute small fangs visible shocked by reading. EXTREME hourglass silhouette prominent cleavage visible over diary edge tiny cinched waist. Wearing PINK SILK pajama set unbuttoned revealing visible pink lace bra. Reading PINK DIARY with lock scandalized by contents gasping. Pink bedroom candlelight. Sensual reading forbidden diary pose shocked expression. Expression: I cannot believe she did THAT. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Bubble Bath Innocence - Foam Covering
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks piled up bubbles. Extremely pale porcelain skin visible above pink foam. Delicate refined features playful innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over foam, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips blowing foam. Human realistic face cute small fangs visible through foam. EXTREME hourglass silhouette implied under foam cleavage visible above bubbles. PINK BUBBLE BATH mountains of pink foam covering body strategically innocent but teasing. Pink bathroom rubber duckies. Sensual bubble bath pose covered by foam peekaboo. Expression: oops you caught me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Mirror Kiss - Narcissistic Vanity
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin reflection visible. Delicate refined features in love with self. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes locked on own reflection, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pressed to mirror kissing self. Human realistic face cute small fangs visible kissing mirror. EXTREME hourglass silhouette prominent cleavage visible in reflection tiny cinched waist. Wearing PINK LINGERIE set visible pink satin corset. Pressing lips to vanity MIRROR kissing own reflection narcissistic. Pink boudoir vanity lights. Sensual mirror kiss pose in love with reflection. Expression: nobody kisses better than me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. On Your Lap - Sitting Pretty
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features flirtatious. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up from seated position, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips coy smile. Human realistic face cute small fangs visible coy. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX mini dress visible pink corset ultra short. Seated on implied viewer's lap looking up innocently but knowing. POV shot from above. Sensual lap sitting pose looking up at viewer. Expression: am I too heavy or too light. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Strap Falling - Oops Moment
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks surprised. Extremely pale porcelain skin. Delicate refined features faux embarrassed. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide oops, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips o-shaped oops. Human realistic face cute small fangs visible embarrassed. EXTREME hourglass silhouette prominent cleavage strap slipping tiny cinched waist. Wearing PINK SATIN slip dress one STRAP FALLING OFF SHOULDER revealing more than intended wardrobe malfunction. Looking at fallen strap fake surprise. Pink bedroom. Sensual wardrobe malfunction pose oops expression. Expression: oh no my strap whatever will I do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Bunny Bites - Carrot Suggestive
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks pink bunny ears headband. Extremely pale porcelain skin. Delicate refined features innocent but knowing. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at viewer while eating, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around carrot suggestively. Human realistic face cute small fangs visible biting carrot. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX bunny costume visible pink corset bodice cotton tail. Biting CARROT suggestively mouth around it eye contact. Easter dark garden. Sensual carrot eating pose suggestive. Expression: I love long things in my mouth. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Kitten Stretch - Wake Up
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks messy just woke. Extremely pale porcelain skin sleep-warm. Delicate refined features stretching yawning. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes just opening stretching, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips yawning. Human realistic face cute small fangs visible in yawn. EXTREME hourglass silhouette prominent cleavage arching up stretch tiny cinched waist. Wearing PINK COTTON panties only no bra arm covering breasts stretching cat-like morning stretch. Pink bed rumpled sheets. Sensual cat stretch pose waking up. Expression: mmm what a delicious dream. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 81. Cherry Stem Trick - Tongue Talent
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features concentrating flirty. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on mouth task, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips working on cherry stem. Human realistic face cute small fangs visible tongue visible TYING CHERRY STEM IN KNOT showing tongue dexterity. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress visible pink corset. Demonstrating tongue talent tying cherry stem. Dark bar setting. Sensual cherry stem trick pose tongue talent display. Expression: want to see what else I can do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Lipstick Kiss Mark - Claiming
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks satisfied. Extremely pale porcelain skin. Delicate refined features proud. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes satisfied, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips freshly applied now leaving mark. Human realistic face cute small fangs visible satisfied smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN robe open revealing visible pink lace lingerie. Just left PINK LIPSTICK KISS MARK on implied surface or person claiming. Pink boudoir mirror showing mark. Sensual claiming kiss pose satisfied with mark left. Expression: now everyone knows you are mine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Worship Position - Looking Up
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features worshipful. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up adoringly, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted worship pose. Human realistic face cute small fangs visible devoted expression. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX maid dress visible pink corset. On knees LOOKING UP at unseen figure above worshipfully lips parted ready. Red velvet dungeon floor. Sensual worship pose on knees looking up. Expression: command me Mistress I exist to please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Collar and Bell - Pet Display
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks pink bow on collar. Extremely pale porcelain skin displayed. Delicate refined features proud pet. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes proud of collar, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips content. Human realistic face cute small fangs visible contented pet. EXTREME hourglass silhouette prominent cleavage displayed tiny cinched waist. Wearing PINK COLLAR with BELL and heart tag around neck over PINK LATEX pet harness visible pink corset showing off collar proudly. Dark dungeon pink accents. Sensual collar display pose proud pet showing ownership. Expression: I belong to someone wonderful see my pretty collar. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Caught Undressing - Fake Surprise
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin exposed. Delicate refined features faux caught. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips surprised o. Human realistic face cute small fangs visible surprised. EXTREME hourglass silhouette prominent cleavage fully exposed caught mid-change tiny cinched waist. PINK DRESS HALF OFF caught mid-undress visible pink bra about to remove looking at camera fake surprise. Pink bedroom walked in on. Sensual caught undressing pose fake surprise but displaying. Expression: oh I did not see you there do not look or do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Phone Selfie - Duck Lips Fang
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin screen-lit. Delicate refined features selfie mode. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at phone, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips DUCK LIPS POSE for selfie. Human realistic face cute small fangs visible in duck lips pout. EXTREME hourglass silhouette prominent cleavage in selfie angle tiny cinched waist. Wearing PINK LINGERIE visible pink corset selfie outfit. Taking PHONE SELFIE in mirror duck lips peace sign classic e-girl pose. Pink bedroom ring light. Sensual selfie pose duck lips fangs showing. Expression: rate me honestly be nice. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Ice Cream Drip - Messy Eater
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks. Extremely pale porcelain skin with pink ice cream drips. Delicate refined features messy innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes surprised at mess, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips ice cream on them. Human realistic face cute small fangs visible licking ice cream. EXTREME hourglass silhouette prominent cleavage ICE CREAM DRIPPING ON CLEAVAGE tiny cinched waist. Wearing PINK TANK TOP ice cream stained. Pink ice cream cone melting DRIPPING down chin onto chest oops. Summer setting bright but vampire. Sensual ice cream mess pose licking and dripping. Expression: it is so hot today it keeps melting on me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Massage Offer - Behind You
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks behind implied viewer. Extremely pale porcelain skin. Delicate refined features offering service. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on implied shoulders, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face cute small fangs visible helpful. EXTREME hourglass silhouette prominent cleavage visible in mirror reflection tiny cinched waist. Wearing PINK SILK robe loose revealing visible pink bra. POV from seated hands coming to rest on viewer shoulders from behind offering massage cleavage visible in mirror ahead. Bedroom mirror. Sensual massage offer pose hands on shoulders. Expression: you look so tense let me help. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Under the Sheets - Peeking Out
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks peeking from under pink sheets. Extremely pale porcelain skin peeking. Delicate refined features playful hiding. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over sheet edge, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips visible above sheet. Human realistic face cute small fangs visible over sheet mischievous. EXTREME hourglass silhouette implied under sheets only eyes and top of face visible. PINK SATIN SHEETS pulled up to eyes peeking over playful hiding but inviting pulling sheet down slowly. Pink bedroom morning light. Sensual under sheets pose peeking playfully. Expression: come back to bed it is not sunset yet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Skirt Lift - Peek Request
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features asking permission. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes innocent asking, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips innocent ask. Human realistic face cute small fangs visible coy question. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress hands at hem visible pink corset. Hands on SKIRT HEM about to lift looking at camera asking permission coy. Dark gothic setting. Sensual skirt lift tease pose asking permission. Expression: do you want to see what is underneath pretty please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+### 🩸 DUO — PASIÓN VAMPÍRICA (Prompts 91-100)
+
+#### 91. First Bite - Creating a Companion
+
+```
+Professional glamour photography of TWO glamorous women conversion scene intimate. FIRST HELENA: jet black hair wild, HEAVY GOTHIC MAKEUP burgundy eyes intense, ULTRA PLUMP DEEP RED lips at Miss Doll's neck sharp fangs piercing, BLACK VELVET dress visible corset. SECOND MISS DOLL: platinum blonde bob eyes rolling back in pleasure, HEAVY GOTHIC LOLITA MAKEUP pink eyes fluttering, ULTRA PLUMP PINK lips parted gasping pleasure-pain, PINK SATIN dress visible corset. Helena embracing Miss Doll from behind mouth at neck moment of first embrace bite. Dark crypt candlelight. Expression Helena: drink deeply, Miss Doll: becoming. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 92. Teaching to Hunt - Night Lessons
+
+```
+Professional glamour photography of TWO glamorous women teaching scene. FIRST HELENA: jet black hair severe teacher, HEAVY GOTHIC MAKEUP burgundy eyes instructing, BLACK LEATHER catsuit visible corset, pointing at prey silhouette distant. SECOND MISS DOLL: platinum blonde bob eager student, HEAVY GOTHIC LOLITA MAKEUP pink eyes learning focused, PINK LATEX catsuit visible corset, watching where Helena points. Both on rooftop overlooking city prey below Helena teaching Miss Doll to hunt. Night cityscape. Expression Helena: watch and learn, Miss Doll: I understand Mistress. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 93. Shared Chalice - Communion
+
+```
+Professional glamour photography of TWO glamorous women sharing ritual. FIRST HELENA: jet black hair elegant, HEAVY GOTHIC MAKEUP burgundy eyes sharing, BLACK VELVET gown visible corset, holding chalice. SECOND MISS DOLL: platinum blonde bob, HEAVY GOTHIC LOLITA MAKEUP pink eyes receiving, PINK VELVET dress visible corset, lips on chalice rim Helena holds. Both sharing single chalice of dark liquid lips nearly touching on opposite sides intimate communion. Dark ritual chamber candles. Expression both: shared sustenance bond. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 94. Dance of Eternity - Intimate Waltz
+
+```
+Professional glamour photography of TWO glamorous women dancing intimately. FIRST HELENA: jet black hair flowing with movement, HEAVY GOTHIC MAKEUP burgundy eyes locked on Miss Doll, BLACK BALL GOWN visible corset, leading waltz. SECOND MISS DOLL: platinum blonde bob following, HEAVY GOTHIC LOLITA MAKEUP pink eyes locked on Helena adoring, PINK BALL GOWN visible corset, being led. Intimate waltz bodies very close foreheads nearly touching. Empty ballroom moonlight only them. Expression both: dancing through centuries together. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 95. Licking Crimson - Intimate Clean
+
+```
+Professional glamour photography of TWO glamorous women intimate post-feed. FIRST HELENA: jet black hair wild, HEAVY GOTHIC MAKEUP burgundy eyes focused, sharp fangs visible, BLACK LINGERIE visible corset. SECOND MISS DOLL: platinum blonde bob, HEAVY GOTHIC LOLITA MAKEUP pink eyes closed pleasure, small fangs with crimson, PINK LINGERIE visible corset Helena licking crimson from Miss Doll's lips intimate cleaning. Helena LICKING CRIMSON from Miss Doll's lips post-feeding cleaning her face intimately. Dark bedroom. Expression Helena: let me clean you, Miss Doll: melting from attention. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 96. Coffin Cuddle - Day Rest
+
+```
+Professional glamour photography of TWO glamorous women sleeping together in coffin. FIRST HELENA: jet black hair spread on velvet, eyes closed peaceful, HEAVY GOTHIC MAKEUP soft, BLACK NIGHTGOWN visible corset, holding Miss Doll. SECOND MISS DOLL: platinum blonde bob on Helena's chest, eyes closed content, HEAVY GOTHIC LOLITA MAKEUP soft, PINK NIGHTGOWN visible corset, cuddled into Helena. Both in large coffin meant for two day rest together spooning. Crypt pink and black velvet lining. Expression both: eternal rest together peaceful. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 97. Pet and Owner - Crawling Worship
+
+```
+Professional glamour photography of TWO glamorous women D/s scene. FIRST HELENA: jet black hair severe, HEAVY GOTHIC MAKEUP burgundy eyes looking down pleased, BLACK LATEX queen outfit visible corset, seated on throne. SECOND MISS DOLL: platinum blonde bob collar and leash, HEAVY GOTHIC LOLITA MAKEUP pink eyes looking up worshipfully, PINK LATEX pet harness visible corset, CRAWLING toward Helena's throne on all fours leash trailing. Miss Doll crawling toward seated Helena worship approach. Dungeon throne. Expression Helena: come to me pet, Miss Doll: crawling eagerly. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 98. Teaching Seduction - Target Practice
+
+```
+Professional glamour photography of TWO glamorous women stalking together. FIRST HELENA: jet black hair windswept, HEAVY GOTHIC MAKEUP burgundy eyes teaching, BLACK DRESS visible corset, arm around Miss Doll guiding. SECOND MISS DOLL: platinum blonde bob, HEAVY GOTHIC LOLITA MAKEUP pink eyes focused on learning, PINK DRESS visible corset, learning to be seductive. Helena teaching Miss Doll how to seduce prey demonstrating posture watching distant unseen target. Victorian street night. Expression Helena: like this, Miss Doll: I understand now. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 99. Blood Kiss - Crimson Share
+
+```
+Professional glamour photography of TWO glamorous women kissing with crimson. FIRST HELENA: jet black hair tangled from passion, HEAVY GOTHIC MAKEUP burgundy eyes closed, ULTRA PLUMP DEEP RED lips crimson stained kissing. SECOND MISS DOLL: platinum blonde bob messy, HEAVY GOTHIC LOLITA MAKEUP pink eyes closed, ULTRA PLUMP PINK lips crimson stained kissing Helena. Both kissing deeply sharing crimson between mouths intimate blood kiss souls connecting. Dark bedroom passion scene. Expression both: tasting each other and shared feast. Vampire aesthetic. Photorealistic 8k. Vertical orientation.
+```
+
+#### 100. Eternal Bond - Bite Each Other
+
+```
+Professional glamour photography of TWO glamorous women simultaneous bite mutual claim. FIRST HELENA: jet black hair wild, HEAVY GOTHIC MAKEUP burgundy eyes rolling pleasure, sharp fangs AT Miss Doll's neck. SECOND MISS DOLL: platinum blonde bob wild, HEAVY GOTHIC LOLITA MAKEUP pink eyes rolling pleasure, small fangs AT Helena's neck. SIMULTANEOUS BITE each biting the other mutual claim mutual pleasure symbiotic feeding. Dark ritual chamber eternal bond visual. Expression both: we are one now forever perfectly balanced. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Helena de Anaïs* 🦇🩸
-*La Voûte d'Anaïs — Vampire Goth Edition (50 Prompts COMPLETE)*
+*La Voûte d'Anaïs — Vampire Goth Edition (100 Prompts COMPLETE)*
