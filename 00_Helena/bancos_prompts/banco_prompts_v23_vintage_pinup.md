@@ -345,9 +345,322 @@ Professional magazine cover duo photography. HELENA: Sacha Massacre look, black 
 
 ---
 
+## 🎪 V. HELENA — VINTAGE SENSUAL (15 PROMPTS)
+
+#### 51. Helena - Vintage Boudoir Morning
+
+```
+Professional vintage boudoir photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in messy morning waves. Pale porcelain white skin glowing in morning light. Full glossy cherry red lips. Wearing BLACK SILK vintage slip, lace trim, sheer. Lying on vintage brass bed with white sheets tangled. PLEASER MOON-708 black 7-inch heels on floor. Sunlight through lace curtains. Sensual just-woken pose. Expression: bedroom invitation. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Helena - Vintage Striptease Stage
+
+```
+Professional burlesque photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with rhinestone clips. Pale porcelain white skin with stage lights. Full glossy blood red lips. Wearing BLACK sequin pasties and high-waisted panties, long gloves, removing feather boa slowly. PLEASER FLAMINGO-1020 black patent 8-inch heels. Vintage burlesque stage with red velvet curtain. Sensual striptease mid-reveal pose. Expression: tease mastery. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Noir Femme Fatale Seduction
+
+```
+Professional film noir photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in 1940s waves. Pale porcelain white skin in dramatic shadows. Full glossy wine red lips. Wearing BLACK satin evening gown with high slit, seated on detective's desk. Legs crossed provocatively. PLEASER MOON-708 black 7-inch heels. Noir detective office with venetian blinds. Sensual femme fatale pose. Expression: dangerous dame. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Helena - Vintage Lingerie Catalog
+
+```
+Professional catalog photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in perfect vintage curls. Pale porcelain white skin flawless. Full glossy red lips smiling. Wearing BLACK vintage bullet bra and high-waisted girdle with garters. Showing off waist cincher. PLEASER FLAMINGO-1020 black patent 8-inch heels. White studio backdrop vintage style. Sensual lingerie model pose. Expression: catalog perfection. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Hot Rod Hood
+
+```
+Professional automotive photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with polka dot bandana. Pale porcelain white skin with engine heat glow. Full glossy red lips. Wearing BLACK cropped mechanic top and SHORT shorts. Sitting on hood of BLACK 1950s hot rod, legs spread casually. PLEASER RAPTURE-1020 black 8-inch boots. Garage with pinup posters. Sensual hood ornament pose. Expression: engine heat. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Helena - Vintage Bathing Beauty
+
+```
+Professional poolside photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet and slicked. Pale porcelain white skin glistening with water. Full glossy red lips waterproof. Wearing BLACK vintage swimsuit one-piece with sweetheart neckline. Emerging from pool on ladder. PLEASER clear heels at pool edge. Art deco pool and cabana. Sensual water emergence pose. Expression: pool siren. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Vintage Pin-Up Calendar Girl
+
+```
+Professional calendar photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in victory rolls. Pale porcelain white skin with body paint. Full glossy cherry lips. Wearing only strategically placed CALENDAR props covering. Classic Vargas girl style pose. PLEASER MOON-708 black 7-inch heels. White backdrop with "OCTOBER" visible. Sensual calendar model pose. Expression: monthly muse. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Helena - Vintage Telephone Operator
+
+```
+Professional workplace fantasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in professional updo. Pale porcelain white skin. Full glossy red lips on phone. Wearing BLACK vintage telephone operator uniform, headset, SHORT skirt. Leaning over switchboard showing legs. PLEASER FLAMINGO-1020 black patent 8-inch heels. 1950s telephone exchange. Sensual operator pose. Expression: hold please. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Vintage Showgirl Backstage
+
+```
+Professional backstage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with feathered headdress nearby. Pale porcelain white skin with stage makeup. Full glossy red lips. Wearing BLACK showgirl costume with rhinestones, partial undress backstage. At vintage vanity mirror with lights. PLEASER MOON-708 black 7-inch heels. Dressing room vintage. Sensual getting ready pose. Expression: star preparing. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Helena - Dark Pin-Up on Motorcycle
+
+```
+Professional motorcycle photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing from under goggles. Pale porcelain white skin gleaming. Full glossy wine red lips. Wearing BLACK leather vintage motorcycle jacket open, BLACK vintage bikini underneath. Straddling vintage Indian motorcycle. PLEASER RAPTURE-1020 black 8-inch boots. Route 66 setting. Sensual biker mama pose. Expression: road rebel. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Vintage Secretary After Hours
+
+```
+Professional late night office photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loosened from updo. Pale porcelain white skin in desk lamp glow. Full glossy red lips. Wearing BLACK secretary blouse unbuttoned, BLACK pencil skirt hiked up sitting on desk. Stockings and garter visible. PLEASER MOON-708 black 7-inch heels. 1950s office after hours. Sensual overtime pose. Expression: boss is gone. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Helena - Vintage Nurse Fantasy
+
+```
+Professional fetish vintage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under vintage nurse cap. Pale porcelain white skin clinical. Full glossy red lips. Wearing BLACK vintage nurse uniform SHORT, white apron, stockings with seams. Holding oversized syringe prop playfully. PLEASER FLAMINGO-1020 white 8-inch heels. Vintage hospital room. Sensual nurse check-up pose. Expression: time for your treatment. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Jailbird Pin-Up
+
+```
+Professional prison photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy red lips defiant. Wearing BLACK and WHITE horizontal striped vintage prison dress SHORT. Grasping prison bars seductively. Ball and chain prop. PLEASER MOON-708 black 7-inch heels. Vintage jail cell. Sensual prisoner pose. Expression: bad to the bone. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Helena - Vintage French Maid
+
+```
+Professional fetish photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under ruffled cap. Pale porcelain white skin flawless. Full glossy red lips. Wearing BLACK satin French maid outfit extremely short, white lace trim, apron. Bending over with feather duster. PLEASER FLAMINGO-1020 black patent 8-inch heels. French chateau. Sensual cleaning pose. Expression: at your service. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Vintage Cigarette Girl Tease
+
+```
+Professional speakeasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in finger waves. Pale porcelain white skin with cabaret makeup. Full glossy wine red lips. Wearing BLACK sequin cigarette girl costume SHORT, tray strapped around neck showing cleavage. Leaning forward offering wares. PLEASER MOON-708 black 7-inch heels. Art deco speakeasy. Sensual sales pose. Expression: want a smoke. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💅 VI. MISS DOLL — PASTEL SENSUAL (15 PROMPTS)
+
+#### 66. Miss Doll - Pink Boudoir Morning
+
+```
+Professional vintage boudoir photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin in soft morning light. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SILK vintage slip with lace trim, sheer. Stretched in brass bed tangled in pink sheets. PLEASER FLAMINGO-808 pink fuzzy 8-inch platform heels. Sunlit boudoir. Sensual wake up pose. Expression: pink dreams. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Miss Doll - Vintage Burlesque Star
+
+```
+Professional burlesque photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with glitter. HEAVY GLAMOUR MAKEUP: dramatic vintage smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sequin pasties and fringe bottom, pink feather boa removing. PLEASER FLAMINGO-808 pink 8-inch platform heels. Vintage stage with pink spotlights. Sensual striptease pose. Expression: showstopper. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Soda Fountain Flirt
+
+```
+Professional diner photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with cherry blush. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK waitress uniform SHORT, white apron. Sitting on counter, legs dangling, milkshake between legs. PLEASER FLAMINGO-808 pink 8-inch platform heels. 1950s soda fountain. Sensual flirty waitress pose. Expression: want a taste. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Miss Doll - Vintage Lingerie Pin-Up
+
+```
+Professional catalog photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin flawless. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage bullet bra and girdle with garters, showing off waist cinch. PLEASER FLAMINGO-808 pink 8-inch platform heels. White backdrop catalog style. Sensual lingerie model pose. Expression: pretty in pink. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Pink Cadillac Pinup
+
+```
+Professional automotive photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bikini on hood of PINK 1959 Cadillac convertible. Lying across hood provocatively. PLEASER FLAMINGO-808 pink chrome 8-inch platform heels at side. Drive-in movie. Sensual car show pose. Expression: custom curves. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Miss Doll - Vintage Pool Party
+
+```
+Professional poolside photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with water droplets. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner waterproof, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK vintage bikini high-waisted. Climbing pool ladder, looking back. PLEASER FLAMINGO-808 clear 8-inch platform heels at edge. Art deco pool party. Sensual wet exit pose. Expression: pool party queen. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Vintage Nurse Check-Up
+
+```
+Professional fetish vintage photography of glamorous woman with platinum blonde bob (no bangs) with nurse cap. Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK vintage nurse uniform SHORT, white apron, stethoscope around neck. Leaning forward to check patient. PLEASER FLAMINGO-808 white 8-inch platform heels. Vintage clinic. Sensual examination pose. Expression: say aah. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Miss Doll - Vintage Phone Girl
+
+```
+Professional advertising photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage secretary blouse open, PINK pencil skirt SHORT. On vintage rotary phone cord wrapped around body. PLEASER FLAMINGO-808 pink 8-inch platform heels. 1950s bedroom. Sensual phone pose. Expression: call me maybe. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Vintage Cheerleader
+
+```
+Professional sports photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with healthy glow. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK vintage cheerleader uniform with pom poms, SHORT skirt. High kick pose. PLEASER FLAMINGO-808 white 8-inch platform heels. 1950s high school gym. Sensual cheer pose. Expression: give me a P. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Miss Doll - Drive-In Backseat
+
+```
+Professional automotive photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin in movie glow. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cashmere sweater unbuttoned, PINK poodle skirt hiked up in backseat. Leaning back seductively. PLEASER FLAMINGO-808 pink 8-inch platform heels one on dashboard. Drive-in movie playing. Sensual backseat pose. Expression: movie night special. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Miss Doll - Vintage Shower Scene
+
+```
+Professional bathroom photography of glamorous woman with platinum blonde bob (no bangs) wet. Flawless porcelain skin water streaming. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner waterproof, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SHEER PINK vintage shower cap, clear shower curtain. Behind curtain, body silhouette. PLEASER FLAMINGO-808 clear 8-inch platform heels. Pink vintage bathroom. Sensual shower tease pose. Expression: peekaboo. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Miss Doll - Vintage Housewife Tease
+
+```
+Professional ironic photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips knowing. Human realistic face. Wearing PASTEL PINK vintage housewife dress unbuttoned at top, apron only, lingerie visible underneath. Bent over oven showing curves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pastel kitchen. Sensual domestic tease pose. Expression: dinner isn't ready but I am. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Pink Mermaid Pin-Up
+
+```
+Professional fantasy vintage photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with shimmer. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK vintage mermaid tail costume, seashell bikini top. On rock in vintage beach set. PLEASER FLAMINGO-808 visible fins special effect. Vintage beach backdrop. Sensual mermaid pose. Expression: siren song. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Miss Doll - Vintage Belly Dancer
+
+```
+Professional exotic photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with gold shimmer. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner exotic, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage belly dancer outfit, coin hip scarf, bralette. Arms raised in dance. PLEASER FLAMINGO-808 gold 8-inch platform heels. 1950s exotic club. Sensual belly dance pose. Expression: desert dreams. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Vintage Cowgirl
+
+```
+Professional western photography of glamorous woman with platinum blonde bob (no bangs) with cowgirl hat. Flawless porcelain skin sun-kissed. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK fringed vest, DENIM micro shorts, cowgirl boots but also PLEASER FLAMINGO-808 pink 8-inch platform heels at side. Straddling hay bale. 1950s rodeo. Sensual cowgirl pose. Expression: ride em. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💋 VII. DUO — VINTAGE SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Vintage Burlesque Act
+
+```
+Professional burlesque duo photography. HELENA: Sacha Massacre look, black hair with feathers, BLACK sequin burlesque costume, black 8-inch heels, removing Miss Doll's glove with teeth. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK sequin costume, pink platform heels, arms overhead enjoying. Vintage burlesque stage. Sensual act together pose. Expression: show starters. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Slumber Party Pillow Fight
+
+```
+Professional intimate duo photography. HELENA: Sacha Massacre look, black hair wild, BLACK vintage baby doll pajamas, black slippers. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP softened, PINK vintage baby doll pajamas, pink slippers. Both in pillow fight on bed, feathers flying. 1950s bedroom. Sensual playful fight pose. Expression: girls gone wild. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Beauty Pageant Winners
+
+```
+Professional pageant duo photography. HELENA: Sacha Massacre look, black hair with crown, sash reading "MISS DARK", BLACK evening gown revealing, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, tiara, sash reading "MISS DOLL", PINK evening gown, pink platform heels. Both with roses, posing together. 1950s pageant stage. Sensual queen pose. Expression: double crowns. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Vintage Photo Shoot
+
+```
+Professional behind scenes duo photography. HELENA: Sacha Massacre look, black hair perfect, BLACK vintage lingerie, posing on fainting couch, black 7-inch heels. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK vintage lingerie, being photographed by vintage camera, pink platform heels. Both look at camera together. 1950s photo studio. Sensual model duo pose. Expression: cover girls. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Drive-In Double Date
+
+```
+Professional automotive duo photography. HELENA: Sacha Massacre look, black hair, BLACK dress, in driver seat of BLACK convertible. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK dress, in passenger seat of same car. Both leaning together for kiss at drive-in movie. Film playing on screen. Sensual date night pose. Expression: making out. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Vintage Maid Duo
+
+```
+Professional fetish vintage duo photography. HELENA: Sacha Massacre look, black hair under lace cap, BLACK French maid costume very short, black 8-inch heels, dusting Miss Doll. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK French maid costume very short, pink platform heels, polishing mirror. French boudoir. Sensual cleaning together pose. Expression: domestic service. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Vintage Sun Bathing
+
+```
+Professional beach duo photography. HELENA: Sacha Massacre look, black hair under sun hat, BLACK vintage bikini, oiling Miss Doll's back, black sunglasses. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP with cat-eye sunglasses, PINK vintage bikini, lying on stomach on beach blanket, top untied. 1950s beach. Sensual sunbathing pose. Expression: tan lines. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Vintage Nurses
+
+```
+Professional fetish vintage duo photography. HELENA: Sacha Massacre look, black hair under vintage nurse cap, BLACK nurse uniform SHORT, white apron, black 8-inch heels, holding syringe. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP with vintage cap, PINK nurse uniform SHORT, pink platform heels, checking clipboard. Vintage hospital ward. Sensual nurse duo pose. Expression: time for vitals. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Vintage Secretaries
+
+```
+Professional office duo photography. HELENA: Sacha Massacre look, black hair in updo with pencil, BLACK secretary blouse and skirt, sitting on desk, legs crossed, black 7-inch heels. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK secretary outfit, sitting on same desk hip to hip, pink platform heels. 1950s executive office. Sensual secretary duo pose. Expression: after hours. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Vintage Dancers
+
+```
+Professional dance duo photography. HELENA: Sacha Massacre look, black hair flying, BLACK poodle skirt, dancing rock n roll. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK poodle skirt, dancing partner. Both spinning close together, skirts flying. 1950s sock hop. Sensual dance together pose. Expression: lets twist. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Vintage Cigarette Girls
+
+```
+Professional speakeasy duo photography. HELENA: Sacha Massacre look, black hair in waves, BLACK cigarette girl costume, tray, black 7-inch heels. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK cigarette girl costume, matching tray, pink platform heels. Both leaning together comparing profits. Art deco club. Sensual sales girls pose. Expression: tips are good. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Vintage Calendar Models
+
+```
+Professional calendar duo photography. HELENA: Sacha Massacre look, black hair in victory rolls, BLACK vintage bikini or strategically covered, classic pose, "JANUARY". MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK bikini same style, matching pose, "JULY". Both in split frame calendar format. White backdrop. Sensual calendar pose. Expression: year of beauty. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Vintage Shower Together
+
+```
+Professional boudoir duo photography. HELENA: Sacha Massacre look, black hair wet, in BLACK vintage shower cap behind shower curtain. MISS DOLL: platinum blonde bob (no bangs) wet, HEAVY GLAMOUR MAKEUP waterproof, PINK vintage shower cap, same shower. Both silhouettes behind patterned curtain together. Pink vintage bathroom. Sensual shower together pose. Expression: conserving water. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Vintage Motorcycle Babes
+
+```
+Professional motorcycle duo photography. HELENA: Sacha Massacre look, black hair under vintage helmet, BLACK leather jacket over bikini, riding vintage Harley. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK leather jacket over bikini, sitting behind Helena arms wrapped around. Route 66 highway. Sensual riders pose. Expression: born to be wild. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Vintage Vanity Mirror
+
+```
+Professional boudoir duo photography. HELENA: Sacha Massacre look, black hair in rollers, BLACK silk robe, doing Miss Doll's lipstick at vintage vanity. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP being applied, PINK silk robe, sitting at vanity, watching in mirror. Hollywood lights. Sensual getting ready pose. Expression: making beauty. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Vintage Bathtub
+
+```
+Professional boudoir duo photography. HELENA: Sacha Massacre look, black hair up with pins, in vintage clawfoot tub with bubbles, black 7-inch heels on tub edge. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, in same tub opposite side, pink platform heels on other edge. Both facing each other. Vintage bathroom with candles. Sensual bath together pose. Expression: bubble trouble. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Vintage Beach Volleyball
+
+```
+Professional sports duo photography. HELENA: Sacha Massacre look, black hair in ponytail, BLACK vintage bikini, spiking ball. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK vintage bikini, setting ball. Both at net. 1950s beach with umbrellas. Sensual athletic pose. Expression: summer games. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Vintage Telephone Party
+
+```
+Professional lifestyle duo photography. HELENA: Sacha Massacre look, black hair in vintage style, on BLACK rotary phone, lying on bed. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, on PINK rotary phone, same bed kicking legs. Both in vintage pajamas giggling on phones. 1950s bedroom. Sensual phone chat pose. Expression: gossip girls. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Vintage Record Spin
+
+```
+Professional lifestyle duo photography. HELENA: Sacha Massacre look, black hair in victory rolls, BLACK vintage slip, putting on record at Hi-Fi. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK vintage slip, dancing alone waiting. 1950s living room with records scattered. Sensual music moment pose. Expression: dance with me. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Vintage Boudoir Kiss
+
+```
+Professional romantic vintage duo photography. HELENA: Sacha Massacre look, voluminous black hair in soft vintage waves, pale porcelain skin, full blood red lips, BLACK vintage silk slip, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP soft and romantic, PINK vintage silk slip, pink platform heels. Both on vintage brass bed about to share kiss. Soft sunlight through lace curtains. Sensual romantic vintage pose. Expression: timeless love. Seductive glamour photography, sensual lighting, vintage aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V23 Vintage Pin-Up Edition — 50 prompts*
+*V23 Vintage Pin-Up Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*

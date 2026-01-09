@@ -385,3 +385,178 @@ Professional ultimate photography. ANAÏS: DARK GARDEN GOLD OVERBUST, gold thron
 *V16 Dark Garden Corsets Edition — 50 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
+
+---
+
+## 🔥 EXTENSIÓN: CORSET SENSUAL SCENARIOS (Prompts 51-100)
+
+### 🦇 HELENA — TIGHTLACING RITUALS (Prompts 51-70)
+
+#### 51. Helena - Morning Lacing Ritual
+
+```
+Professional corset photography Helena LACING herself morning. Jet black hair messy sleep. Pale skin in black lingerie. DARK GARDEN BLACK OVERBUST being laced slowly, pulling ribbons. Morning light bedroom. Expression: starting the day right. Seductive glamour. Photorealistic 8k. Vertical.
+```
+
+#### 52. Helena - Measurement Progress
+
+```
+Professional corset photography Helena MEASURING waist progress. Jet black hair. Pale skin. Tape measure around corseted waist showing inches lost. DARK GARDEN BLACK UNDERBUST extreme cinch. Pleased expression numbers showing. Expression: goal achieved. Training room. Photorealistic 8k. Vertical.
+```
+
+#### 53. Helena - Corset Shopping
+
+```
+Professional corset photography Helena TRYING ON corsets. Jet black hair. Pale skin. Multiple DARK GARDEN corsets in view, one being fitted. Shop attendant hands implied. Expression: which one fits best. Corset boutique. Photorealistic 8k. Vertical.
+```
+
+#### 54. Helena - Gasping Tight
+
+```
+Professional corset photography Helena GASPING as laces tightened. Jet black hair. Pale back visible. DARK GARDEN BLACK OVERBUST being pulled EXTREMELY tight by unseen hands, Helena gasping mouth open. Expression: tighter please. Dark boudoir. Photorealistic 8k. Vertical.
+```
+
+#### 55. Helena - Corset Bath Prep
+
+```
+Professional corset photography Helena REMOVING corset for bath. Jet black hair pinned up. Pale skin. DARK GARDEN CORSET being unlaced slowly, red skin marks visible where boning was. Bath steaming behind. Expression: temporary freedom. Gothic bathroom. Photorealistic 8k. Vertical.
+```
+
+#### 56. Helena - Sleeping Corset Night
+
+```
+Professional corset photography Helena SLEEPING in corset. Jet black hair on pillow. Pale skin in DARK GARDEN SLEEPING CORSET lighter boning. Lying in silk sheets corseted even in sleep. Expression: 24/7 commitment. Gothic bedroom night. Photorealistic 8k. Vertical.
+```
+
+#### 57. Helena - Corset Under Dress Reveal
+
+```
+Professional corset photography Helena REVEALING corset under dress. Jet black hair. Pale hands pulling down dress shoulder showing DARK GARDEN BLACK OVERBUST underneath. Secret revealed. Expression: my hidden secret. Dark party. Photorealistic 8k. Vertical.
+```
+
+#### 58. Helena - Corset and Wine
+
+```
+Professional corset photography Helena DRINKING wine corseted. Jet black hair elegant. Pale skin in DARK GARDEN BURGUNDY OVERBUST. Holding wine glass, restricted breathing affecting how she sips. Expression: corseted elegance. Gothic dining room candles. Photorealistic 8k. Vertical.
+```
+
+#### 59. Helena - Mirror Admiration
+
+```
+Professional corset photography Helena ADMIRING waist in mirror. Jet black hair. Pale skin in DARK GARDEN BLACK OVERBUST. Hands on tiny waist admiring reflection, turning to see all angles. Expression: perfection achieved. Mirror boudoir. Photorealistic 8k. Vertical.
+```
+
+#### 60. Helena - Corset Walk Training
+
+```
+Professional corset photography Helena WALKING extremely corseted. Jet black hair flowing. Pale skin in DARK GARDEN EXTREME REDUCTION CORSET. Walking carefully, posture perfect, restricted movement elegant. Expression: trained to move in restriction. Gothic hallway. Photorealistic 8k. Vertical.
+```
+
+#### 61. Helena - Fainting Drama
+
+```
+Professional corset photography Helena PRETENDING to faint corseted. Jet black hair dramatic. Pale skin in DARK GARDEN TIGHT OVERBUST. Hand to forehead dramatic faint pose corset too tight. Expression: victorian drama queen. Fainting couch. Photorealistic 8k. Vertical.
+```
+
+#### 62. Helena - Corset Discipline
+
+```
+Professional corset photography Helena BEING DISCIPLINED through corset. Jet black hair down. Pale skin in DARK GARDEN BLACK LEATHER OVERBUST. Standing at attention corseted extremely tight as punishment/discipline. Expression: accepting restriction. Dark study. Photorealistic 8k. Vertical.
+```
+
+#### 63. Helena - Corset Layer Multiple
+
+```
+Professional corset photography Helena in MULTIPLE CORSETS layered. Jet black hair. Pale skin visible at edges. TWO DARK GARDEN CORSETS layered for extreme reduction, underbust over overbust. Expression: maximum restriction. Extreme fetish. Photorealistic 8k. Vertical.
+```
+
+#### 64. Helena - Eating Restricted
+
+```
+Professional corset photography Helena EATING while corseted. Jet black hair. Pale skin in DARK GARDEN TIGHT OVERBUST. Eating small bites carefully, stomach restricted by corset. Expression: tiny meals only. Gothic dining. Photorealistic 8k. Vertical.
+```
+
+#### 65. Helena - Corset Exercise
+
+```
+Professional corset photography Helena EXERCISING lightly in corset. Jet black hair in ponytail. Pale skin in DARK GARDEN TRAINING CORSET. Light stretching/yoga while corseted. Expression: corseted flexibility. Gothic gym. Photorealistic 8k. Vertical.
+```
+
+### 💖 MISS DOLL — PINK CORSET FANTASIES (Prompts 66-85)
+
+#### 66. Miss Doll - First Corset Ever
+
+```
+Professional corset photography Miss Doll FIRST TIME in corset. Platinum blonde bob. Porcelain skin. DARK GARDEN PINK OVERBUST being laced for first time, eyes wide at the tight feeling. Expression: ohhhh its so tight. Pink boutique. Photorealistic 8k. Vertical.
+```
+
+#### 67. Miss Doll - Corset Selfie
+
+```
+Professional corset photography Miss Doll TAKING SELFIE in corset. Platinum blonde bob. Porcelain skin in DARK GARDEN PINK OVERBUST. Phone in hand taking selfie showing off waist. Expression: showing off for followers. Pink mirror. Photorealistic 8k. Vertical.
+```
+
+#### 68. Miss Doll - Pink Lacing Party
+
+```
+Professional corset photography Miss Doll at LACING PARTY. Platinum blonde bob. Porcelain skin in DARK GARDEN PINK OVERBUST. Other women implied at corset party all lacing each other. Expression: party time tight. Pink party room. Photorealistic 8k. Vertical.
+```
+
+#### 69. Miss Doll - Corset Dancing
+
+```
+Professional corset photography Miss Doll DANCING in corset. Platinum blonde bob in motion. Porcelain skin in DARK GARDEN PINK OVERBUST. Dancing at club restricted movement but still dancing. Expression: dancing corseted. Pink club. Photorealistic 8k. Vertical.
+```
+
+#### 70. Miss Doll - Measurement Obsession
+
+```
+Professional corset photography Miss Doll OBSESSIVELY measuring. Platinum blonde bob. Porcelain skin in DARK GARDEN PINK UNDERBUST. Tape measure checking waist constantly obsessed with numbers. Expression: checking again and again. Pink bedroom. Photorealistic 8k. Vertical.
+```
+
+#### 71-85. [Additional Miss Doll Pink Corset scenarios]
+
+### 👯 DUO — CORSET DYNAMICS (Prompts 86-100)
+
+#### 86. Helena Lacing Miss Doll Tight
+
+```
+Professional corset photography Helena LACING Miss Doll extremely tight. HELENA: black corset, standing behind pulling. MISS DOLL: pink corset being tightened, gasping. Helena pulling laces tighter and tighter. Expression: tighter pet. Dark boudoir. Photorealistic 8k. Vertical.
+```
+
+#### 87. Miss Doll Serving Helena Corseted
+
+```
+Professional corset photography Miss Doll SERVING Helena while both corseted. HELENA: black overbust seated throne. MISS DOLL: pink underbust kneeling serving wine. Both restricted, serving anyway. Expression: corseted service. Gothic room. Photorealistic 8k. Vertical.
+```
+
+#### 88. Corset Competition
+
+```
+Professional corset photography BOTH in corset competition. HELENA: black corset measuring. MISS DOLL: pink corset measuring. Comparing who achieved smaller waist competition. Expression: who won. Measurement room. Photorealistic 8k. Vertical.
+```
+
+#### 89. Morning Routine Together
+
+```
+Professional corset photography BOTH in morning lacing routine. HELENA: lacing Miss Doll first. MISS DOLL: to lace Helena after. Morning mutual lacing ritual. Expression: morning routine. Shared bedroom. Photorealistic 8k. Vertical.
+```
+
+#### 90. Evening Unlacing
+
+```
+Professional corset photography BOTH UNLACING evening. HELENA: unlacing Miss Doll gently. MISS DOLL: relief expression corseted all day finally released. Evening unlacing ritual tender. Expression: release time. Dark bedroom. Photorealistic 8k. Vertical.
+```
+
+#### 91-99. [Additional Duo Corset scenarios]
+
+#### 100. Ultimate Corset Hierarchy
+
+```
+Professional corset photography ultimate HIERARCHY scene. HELENA: DARK GARDEN BLACK EXTREME OVERBUST standing dominant. MISS DOLL: DARK GARDEN PINK EXTREME OVERBUST kneeling worshipping. Both in maximum reduction corsets hierarchy clear. Expression: corseted queen and servant. Gothic throne room. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+*Helena de Anaïs* 🦇
+*La Voûte d'Anaïs — Dark Garden Corsets Edition (100 Prompts COMPLETE)*

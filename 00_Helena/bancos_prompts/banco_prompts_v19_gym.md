@@ -381,3 +381,172 @@ Professional home gym photography. ANAÏS: home gym owner, burgundy set, wine ra
 *Marcas Style: Gymshark, NVGTN, Alphalete aesthetic*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
+
+---
+
+## 🔥 EXTENSIÓN: GYM SENSUAL SCENARIOS (Prompts 51-100)
+
+### 🦇 HELENA — DARK GYM SEDUCTION (Prompts 51-70)
+
+#### 51. Helena - Gym Shower Steam
+
+```
+Professional shower photography Helena POST-WORKOUT shower. Jet black hair wet under water. Pale skin covered in water. Black sports bra still on under shower. Steam rising around her. Gym shower stall. Expression: washing off the sweat. Seductive. Photorealistic 8k. Vertical.
+```
+
+#### 52. Helena - Squatting Deep POV
+
+```
+Professional gym photography Helena DEEP SQUAT seductive. Jet black hair ponytail. Pale skin in BLACK LEGGINGS extreme squat depth. POV from floor looking up at her squatting. Black sports bra. Expression: depth check. Dark gym. Photorealistic 8k. Vertical.
+```
+
+#### 53. Helena - Foam Rolling Thighs
+
+```
+Professional recovery photography Helena FOAM ROLLING sensually. Jet black hair down. Pale skin in BLACK SHORTS. Rolling foam roller over thighs slowly, face showing pleasure/pain. Expression: so tight needs this. Dark recovery area. Photorealistic 8k. Vertical.
+```
+
+#### 54. Helena - Sweaty Sports Bra Only
+
+```
+Professional post-workout photography Helena SWEATY sports bra only. Jet black hair wet with sweat. Pale skin glistening. BLACK SPORTS BRA only soaked in sweat, abs visible. Just finished intense workout. Expression: destroyed it. Dark gym floor. Photorealistic 8k. Vertical.
+```
+
+#### 55. Helena - Hip Thrust Top Position
+
+```
+Professional glute photography Helena HIP THRUST top hold. Jet black hair spread on bench. Pale skin in BLACK SHORTS. Maximum hip thrust position held, hips highest point, squeezing glutes. Expression: burn so good. Dark gym mirrors. Photorealistic 8k. Vertical.
+```
+
+#### 56. Helena - Dumbbell Bend Over Row
+
+```
+Professional back photography Helena BENT OVER row position. Jet black hair hanging forward. Pale skin in BLACK TANK. Bent over dumbbell row position very bent forward. View from side angle. Expression: back development. Dark dumbbell area. Photorealistic 8k. Vertical.
+```
+
+#### 57. Helena - Stretching Groin
+
+```
+Professional flexibility photography Helena STRETCHING groin. Jet black hair. Pale skin in BLACK LEGGINGS. Sitting butterfly stretch pressing knees down groin stretch. Expression: opening up. Stretching mat dark. Photorealistic 8k. Vertical.
+```
+
+#### 58. Helena - Post-Cardio Collapse
+
+```
+Professional exhaustion photography Helena COLLAPSED on floor post-cardio. Jet black hair spread on mat. Pale skin sweaty in BLACK WORKOUT SET. Lying on back exhausted from HIIT. Expression: destroyed. Dark gym floor. Photorealistic 8k. Vertical.
+```
+
+#### 59. Helena - Gym Mirror Flex
+
+```
+Professional pump photography Helena FLEXING in mirror. Jet black hair. Pale skin in BLACK SPORTS BRA AND SHORTS. Flexing various poses checking pump in gym mirror. Expression: gains looking good. Dark mirror area. Photorealistic 8k. Vertical.
+```
+
+#### 60. Helena - Locker Room Undressing
+
+```
+Professional locker room photography Helena CHANGING from gym clothes. Jet black hair damp. Pale skin visible. BLACK GYM CLOTHES being removed, transitioning to street clothes or lingerie. Expression: changing. Dark upscale locker room. Photorealistic 8k. Vertical.
+```
+
+#### 61-70. [Additional Helena Dark Gym scenarios]
+
+### 💖 MISS DOLL — PINK GYM PLAY (Prompts 71-90)
+
+#### 71. Miss Doll - Yoga Downward Dog
+
+```
+Professional yoga photography Miss Doll DOWNWARD DOG pose. Platinum blonde bob hanging. Porcelain skin in PINK YOGA SET. Perfect downward dog pose view from behind/side. Expression: zen stretch. Pink yoga studio. Photorealistic 8k. Vertical.
+```
+
+#### 72. Miss Doll - Squat Walk Band
+
+```
+Professional glute photography Miss Doll BAND WALK. Platinum blonde bob ponytail. Porcelain skin in PINK BOOTY SHORTS. Resistance band around thighs walking sideways. Expression: burn so good. Pink gym floor. Photorealistic 8k. Vertical.
+```
+
+#### 73. Miss Doll - Seated Cable Row
+
+```
+Professional back photography Miss Doll CABLE ROW. Platinum blonde bob. Porcelain skin in PINK TANK. Seated cable row pulling toward chest, back engaged. Expression: pulling power. Pink cable area. Photorealistic 8k. Vertical.
+```
+
+#### 74. Miss Doll - Swiss Ball Crunch
+
+```
+Professional core photography Miss Doll BALL CRUNCH. Platinum blonde bob. Porcelain skin in PINK SPORTS BRA. On Swiss ball doing crunches, arched back over ball. Expression: core work. Pink gym. Photorealistic 8k. Vertical.
+```
+
+#### 75. Miss Doll - Jump Rope Cardio
+
+```
+Professional cardio photography Miss Doll JUMPING ROPE. Platinum blonde bob bouncing. Porcelain skin in PINK SHORTS AND SPORTS BRA. Mid-jump rope cardio, everything bouncing. Expression: cardio bunny. Pink gym. Photorealistic 8k. Vertical.
+```
+
+#### 76-90. [Additional Miss Doll Pink Gym scenarios]
+
+### 👯 DUO — GYM PARTNERS (Prompts 91-100)
+
+#### 91. Helena and Miss Doll - Partner Medicine Ball
+
+```
+Professional duo photography PARTNER medicine ball. HELENA: black gym set throwing. MISS DOLL: pink gym set catching. Passing heavy medicine ball back and forth. Expression: teamwork. Split gym. Photorealistic 8k. Vertical.
+```
+
+#### 92. Helena and Miss Doll - Synchronized Squats
+
+```
+Professional duo photography SYNCHRONIZED squatting. HELENA: black leggings squatting left rack. MISS DOLL: pink leggings squatting right rack. Perfect synchronized depth. Expression: twin squats. Squat racks. Photorealistic 8k. Vertical.
+```
+
+#### 93. Helena and Miss Doll - Stretching Partners
+
+```
+Professional duo photography PARTNER stretching. HELENA: pushing Miss Doll forward in seated stretch. MISS DOLL: being pushed deeper into forward fold. Assisted stretching intimate. Expression: deeper. Mat area. Photorealistic 8k. Vertical.
+```
+
+#### 94. Helena and Miss Doll - Locker Room After
+
+```
+Professional duo photography LOCKER ROOM post-workout. HELENA: changing from black gym clothes. MISS DOLL: changing from pink gym clothes. Both in various stages of changing together. Expression: after workout. Locker room. Photorealistic 8k. Vertical.
+```
+
+#### 95. Helena and Miss Doll - Sauna Recovery
+
+```
+Professional duo photography SAUNA together. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Both relaxing in sauna post-workout. Expression: sweating it out. Luxury sauna. Photorealistic 8k. Vertical.
+```
+
+#### 96. Helena and Miss Doll - Gym Competition
+
+```
+Professional duo photography GYM COMPETITION workout. HELENA and MISS DOLL racing each other on side by side treadmills. Who can run faster competition. Expression: race. Cardio floor. Photorealistic 8k. Vertical.
+```
+
+#### 97. Helena and Miss Doll - Massage Gun Recovery
+
+```
+Professional duo photography MASSAGE GUN. HELENA: using massage gun on Miss Doll's sore muscles. MISS DOLL: receiving massage face showing relief. Recovery massage. Expression: so sore. Recovery area. Photorealistic 8k. Vertical.
+```
+
+#### 98. Helena and Miss Doll - Protein Shake Share
+
+```
+Professional duo photography PROTEIN SHAKE together. HELENA: black shake. MISS DOLL: pink shake. Sitting at gym bar sipping shakes post-workout chatting. Expression: refuel time. Gym cafe. Photorealistic 8k. Vertical.
+```
+
+#### 99. Helena and Miss Doll - Car Ride After
+
+```
+Professional duo photography LEAVING GYM together. HELENA: driving car in black athleisure. MISS DOLL: passenger seat pink athleisure. Both in gym clothes headed home. Expression: done for today. Car interior. Photorealistic 8k. Vertical.
+```
+
+#### 100. Helena and Miss Doll - Ultimate Gym Pose
+
+```
+Professional duo photography ULTIMATE GYM pose. HELENA: BLACK LEGGINGS AND SPORTS BRA flexing dominant. MISS DOLL: PINK LEGGINGS AND SPORTS BRA posing beside her. Both showing off physiques together. Expression: gym queens. Dark modern gym mirrors. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+*Helena de Anaïs* 🦇
+*La Voûte d'Anaïs — Gym & Fitness Edition (100 Prompts COMPLETE)*

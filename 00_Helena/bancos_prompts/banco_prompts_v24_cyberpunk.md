@@ -345,9 +345,322 @@ Professional surreal photography of glamorous woman with platinum blonde bob in 
 
 ---
 
+## 🌆 V. HELENA — CYBER SENSUAL (15 PROMPTS)
+
+#### 51. Helena - Neon Shower
+
+```
+Professional cyberpunk photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet with neon water droplets. Pale porcelain white skin glowing with holographic patterns. Full glossy purple lips. Wearing only TRANSPARENT plastic bodysuit with circuit patterns. Standing in hexagonal shower pod with pink neon water. PLEASER RAPTURE-1020 black chrome 8-inch boots. Futuristic bathroom pod. Sensual cyber shower pose. Expression: digital cleansing. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Helena - Neural Jack Interface
+
+```
+Professional sci-fi photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair floating with static electricity. Pale porcelain white skin with glowing interface ports. Full glossy neon blue lips. Wearing BLACK cyber-lingerie with data cables connecting to spine. In neural interface chair, back arched, eyes rolling with data transfer. PLEASER MOON-708 black LED 7-inch heels. Tech den with holographic displays. Sensual data upload pose. Expression: digital ecstasy. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Synthwave Stripper
+
+```
+Professional nightclub photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with fiber optic strands. Pale porcelain white skin with UV reactive tattoos glowing. Full glossy hot pink lips. Wearing NEON PINK holographic micro bikini, LED strips along body. On floating anti-gravity pole. PLEASER FLAMINGO-1020 clear LED 8-inch boots. Underground synthwave club. Sensual cyber strip pose. Expression: neon goddess. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Helena - Android Maintenance
+
+```
+Professional sci-fi photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair perfectly synthetic. Pale porcelain white skin with visible seams (artistic). Full glossy silver lips. Wearing open chest panel revealing circuits, minimal BLACK metallic bikini. On maintenance table, limbs detached for servicing. PLEASER RAPTURE-1020 chrome 8-inch boots detached beside. Android repair bay. Sensual maintenance pose. Expression: awaiting upgrade. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Cyber Geisha
+
+```
+Professional neo-Tokyo photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in elaborate cyber-traditional style with LED kanzashi. Pale porcelain white skin with digital makeup projection. Full glossy red lips with kanji projection. Wearing BLACK cyber-kimono extremely short with holographic obi. Kneeling on smart tatami. PLEASER MOON-708 black lacquer LED 7-inch heels. Neon Kyoto teahouse. Sensual cyber geisha pose. Expression: serving the future. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Helena - Hacker Den Seduction
+
+```
+Professional underground photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair lit by monitor glow. Pale porcelain white skin green-tinted from screens. Full glossy black lips. Wearing only oversized BLACK hacker hoodie open, nothing underneath. Sitting on server rack, legs spread, fingers typing mid-hack. PLEASER RAPTURE-1020 black 8-inch boots. Messy hacker hideout. Sensual hacker pose. Expression: breaking in. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Cyber Dominatrix
+
+```
+Professional fetish sci-fi photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with electrical charge. Pale porcelain white skin with circuit implants. Full glossy purple lips sneering. Wearing BLACK LATEX cyber-dominatrix suit with electric shock attachments. Holding neural whip crackling with energy. PLEASER FLAMINGO-1020 black chrome 8-inch boots. BDSM dungeon with tech upgrades. Sensual dominatrix pose. Expression: pain.exe initiated. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Helena - Holographic Escort
+
+```
+Professional red light district photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair as holographic projection flickering. Pale porcelain white skin semi-transparent hologram. Full glossy red lips pixelating. Wearing PINK holographic lingerie that glitches and reveals. Displayed in holographic brothel window. PLEASER visible through hologram, black 8-inch boots. Future red light district. Sensual hologram escort pose. Expression: book me. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Mech Pilot Decompression
+
+```
+Professional cockpit photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair sweaty from helmet. Pale porcelain white skin with pilot interface marks. Full glossy nude lips exhausted. Wearing BLACK pilot bodysuit unzipped to waist, sports bra underneath. Exiting mech cockpit, steam rising. PLEASER RAPTURE-1020 pilot-grade 8-inch boots. Giant mech bay. Sensual post-combat pose. Expression: battle high. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Helena - Cyber Bath House
+
+```
+Professional Japanese sci-fi photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in cyber topknot. Pale porcelain white skin steaming. Full glossy plum lips. Wearing nothing, in PINK glowing synthetic water filled with nanobots. Lounging in private cyber sento. PLEASER MOON-708 black 7-inch heels at pool edge. Neon mist. Sensual bathing pose. Expression: molecular relaxation. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Synth Musician
+
+```
+Professional performance photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with sound-reactive LED strands. Pale porcelain white skin with speaker implants at chest. Full glossy blue lips. Wearing BLACK cyber-corset with synthesizer panels, metallic micro skirt. Playing neural keytar. PLEASER RAPTURE-1020 black LED 8-inch boots. Underground music club. Sensual performer pose. Expression: feel the bass. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Helena - VR Addiction
+
+```
+Professional cautionary photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair unkempt. Pale porcelain white skin pale from indoor living. Full glossy grey lips. Wearing only BLACK VR suit with many ports, cables connected everywhere. In full immersion VR chair, expression pure bliss. PLEASER RAPTURE-1020 dusty 8-inch boots unused. Dirty apartment with VR station. Sensual addiction pose. Expression: never leaving. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Organ Seller
+
+```
+Professional black market photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slicked back. Pale porcelain white skin with scars of cyber surgeries. Full glossy red lips. Wearing BLACK medical apron over cyber lingerie, rubber gloves. Displaying synthetic organs seductively. PLEASER MOON-708 black 7-inch heels. Back alley organ market. Sensual seller pose. Expression: best prices. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Helena - Cyber Shrine Maiden
+
+```
+Professional fusion photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with holographic paper ribbons. Pale porcelain white skin with blessing projections. Full glossy red lips. Wearing BLACK cyber-miko outfit extremely short, LED shimenawa. Performing digital purification ritual. PLEASER RAPTURE-1020 black 8-inch boots. Neon Shinto shrine. Sensual spiritual pose. Expression: digital kami blessing. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Flying Car Backseat
+
+```
+Professional automotive photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair windswept. Pale porcelain white skin lit by city lights below. Full glossy purple lips. Wearing BLACK cocktail dress very short, seated in backseat of flying car. City lights streaming below. PLEASER MOON-708 black 7-inch heels. Flying vehicle over Night City. Sensual backseat ride pose. Expression: mile high. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💎 VI. MISS DOLL — NEON SENSUAL (15 PROMPTS)
+
+#### 66. Miss Doll - Pink Hologram Girlfriend
+
+```
+Professional sci-fi photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin semi-transparent holographic. HEAVY GLAMOUR MAKEUP: dramatic neon pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face with digital artifacts. Wearing PINK holographic lingerie, entire body is projected hologram. Reaching toward viewer. PLEASER FLAMINGO-808 holographic pink 8-inch platform heels. Hologram projector base visible. Sensual AI girlfriend pose. Expression: I exist for you. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Miss Doll - Neon Lounge VIP
+
+```
+Professional club photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with neon glow. HEAVY GLAMOUR MAKEUP: dramatic pink and blue smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK transparent plastic dress with LED trim. Lounging in private VIP booth. PLEASER FLAMINGO-808 neon pink 8-inch platform heels. Exclusive cyber club VIP. Sensual lounging pose. Expression: champagne and circuits. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Cyber Bunny Waitress
+
+```
+Professional restaurant photography of glamorous woman with platinum blonde bob (no bangs) with LED bunny ears. Flawless porcelain skin with subtle circuit makeup. HEAVY GLAMOUR MAKEUP: dramatic pink and silver smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cyber bunny waitress outfit very short with holographic tray. PLEASER FLAMINGO-808 pink chrome 8-inch platform heels. Neon skyline view. Sensual service pose. Expression: your order. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Miss Doll - Android Beauty Salon
+
+```
+Professional commercial photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin being upgraded by robot arms. HEAVY GLAMOUR MAKEUP: dramatic pink and chrome smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK synthetic skin suit, in android beauty chair receiving body mods. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon beauty clinic. Sensual upgrade pose. Expression: perfecting perfection. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Cyber Cam Girl
+
+```
+Professional bedroom photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with projected viewer comments floating around. HEAVY GLAMOUR MAKEUP: dramatic neon pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cyber lingerie, performing for holographic audience. Multiple camera drones. PLEASER FLAMINGO-808 pink LED 8-inch platform heels. Streaming bedroom with neon. Sensual cam girl pose. Expression: tip goal reached. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Miss Doll - Pink Data Runner
+
+```
+Professional action photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with sweat and rain. HEAVY GLAMOUR MAKEUP: dramatic pink and black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face determined. Wearing PINK tactical bodysuit very tight with data chip hidden in cleavage. Running through neon alley. PLEASER FLAMINGO-808 pink tactical 8-inch platform heels. Rain-soaked neon alley. Sensual action pose. Expression: data delivery. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Cyber Pleasure Bot
+
+```
+Professional sci-fi photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin perfect synthetic. HEAVY GLAMOUR MAKEUP: dramatic pink and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face with bar code visible. Wearing PINK pleasure bot uniform minimal, sitting in display case awaiting purchase. PLEASER FLAMINGO-808 pink 8-inch platform heels. Robot showroom. Sensual product pose. Expression: buy me. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Miss Doll - Neon Pharmacy
+
+```
+Professional commercial photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with chemical glow. HEAVY GLAMOUR MAKEUP: dramatic pink and cyan smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pharmacist coat very short over lingerie. Behind counter of glowing synthetic drugs. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon pharmacy. Sensual dealer pose. Expression: what's your poison. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Virtual Idol
+
+```
+Professional performance photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with concert lights. HEAVY GLAMOUR MAKEUP: dramatic pink and blue smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK holographic idol outfit very short. Performing for millions in virtual space. PLEASER FLAMINGO-808 pink holographic 8-inch platform heels. Virtual concert venue. Sensual idol pose. Expression: I love you all. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Miss Doll - Cyber Massage Parlor
+
+```
+Professional spa photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with massage oil glow. HEAVY GLAMOUR MAKEUP: dramatic pink and purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face serene. Wearing PINK transparent massage uniform. Lying on floating massage table with robot hands working. PLEASER FLAMINGO-808 pink 8-inch platform heels at side. Neon massage parlor. Sensual relaxation pose. Expression: pleasure circuits. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Miss Doll - Racing Pit Girl
+
+```
+Professional motorsport photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with motor oil artistic. HEAVY GLAMOUR MAKEUP: dramatic pink and chrome smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cyber pit girl outfit very short, holding sponsor flag. Cyber racing pit with hover cars. PLEASER FLAMINGO-808 pink chrome 8-inch platform heels. Neon racetrack. Sensual pit girl pose. Expression: victory lane. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Miss Doll - Cyber Meditation
+
+```
+Professional wellness photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with inner glow effect. HEAVY GLAMOUR MAKEUP: dramatic pink and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face peaceful. Wearing PINK cyber yoga outfit revealing, floating in meditation pod. Neural waves around head. PLEASER FLAMINGO-808 pink 8-inch platform heels floating. Zero gravity meditation chamber. Sensual zen pose. Expression: one with the network. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Neon Tattoo Parlor
+
+```
+Professional tattoo photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin receiving LED subdermal tattoo. HEAVY GLAMOUR MAKEUP: dramatic pink and black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face with pleasure. Wearing PINK bikini, lying on tattoo table, new glowing tattoo on hip. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon tattoo shop. Sensual tattoo pose. Expression: permanent upgrade. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Miss Doll - Cyber Photo Booth
+
+```
+Professional booth photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with filter effects live. HEAVY GLAMOUR MAKEUP: dramatic pink and purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face playful. Wearing PINK party dress very short in holographic photo booth. Taking selfies with AR filters visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neon arcade. Sensual photo booth pose. Expression: peace and pout. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Hotel Capsule
+
+```
+Professional hotel photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin in intimate lighting. HEAVY GLAMOUR MAKEUP: dramatic pink and red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face inviting. Wearing PINK silk negligee in tiny capsule hotel pod. Lying in confined space seductively. PLEASER FLAMINGO-808 pink 8-inch platform heels at pod entrance. Futuristic capsule hotel. Sensual compact living pose. Expression: room for two. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🌃 VII. DUO — CYBER SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Neural Link Lovers
+
+```
+Professional intimate sci-fi duo photography. HELENA: Sacha Massacre look, black hair with data cables, neural port connected to Miss Doll, BLACK cyber bodysuit open, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK cyber bodysuit, cable from neck to Helena. Both experiencing shared neural connection, bodies arched. Tech bedroom. Sensual neural intimacy pose. Expression: feeling everything together. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Android Assembly Line
+
+```
+Professional factory duo photography. HELENA: Sacha Massacre look, black synthetic hair, half-assembled android, BLACK chassis visible. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK chassis visible, being assembled next to Helena. Both reaching for each other. Robot factory. Sensual creation pose. Expression: born together. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Cyber Club Dancing
+
+```
+Professional nightclub duo photography. HELENA: Sacha Massacre look, black hair with neon glow, BLACK latex mini dress, dancing close. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK latex mini dress, pressed against Helena dancing. Both bodies close, neon lights. Underground cyber club. Sensual dance floor pose. Expression: lost in music. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Hacker Partners
+
+```
+Professional underground duo photography. HELENA: Sacha Massacre look, black hair lit by screens, BLACK hacker gear, typing code. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK hacker gear, leaning over Helena's shoulder. Both at multiple screens. Hacker den. Sensual hacker team pose. Expression: we're in. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Cyber Shower Together
+
+```
+Professional bathroom duo photography. HELENA: Sacha Massacre look, black hair wet with neon water, BLACK bikini. MISS DOLL: platinum blonde bob (no bangs) wet, HEAVY GLAMOUR MAKEUP waterproof, PINK bikini, in same shower pod with Helena. Neon pink water cascading. Futuristic bathroom. Sensual shower together pose. Expression: digital cleanse. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Android Repair Bay
+
+```
+Professional technical duo photography. HELENA: Sacha Massacre look, black synthetic hair, BLACK mechanic outfit open, repairing Miss Doll's chest panel. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK android body with panel open, lying on repair table. Repair bay. Sensual maintenance pose. Expression: in good hands. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Neon Alley Meetup
+
+```
+Professional street duo photography. HELENA: Sacha Massacre look, black hair with rain, BLACK tactical jacket over lingerie. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP with rain effect, PINK transparent rain coat over lingerie, approaching Helena. Neon signs reflecting in puddles. Sensual alley meeting pose. Expression: you came. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - VR Session Together
+
+```
+Professional VR duo photography. HELENA: Sacha Massacre look, wearing VR headset, BLACK VR suit, lying in VR pod. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP under headset, PINK VR suit, in adjacent pod hands linked. Both in shared virtual reality. VR lounge. Sensual virtual date pose. Expression: together in digital. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Cyber Burlesque
+
+```
+Professional performance duo photography. HELENA: Sacha Massacre look, black hair with LED strands, BLACK cyber burlesque costume. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK matching cyber burlesque costume. Both performing synchronized routine. Neon cabaret stage. Sensual performance pose. Expression: show must go on. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Flying Car Date
+
+```
+Professional automotive duo photography. HELENA: Sacha Massacre look, BLACK dress, driving flying car. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK dress, in passenger seat touching Helena's thigh. City lights streaming past. Flying over night city. Sensual car date pose. Expression: drive me anywhere. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Cyber Twins Display
+
+```
+Professional retail duo photography. HELENA: Sacha Massacre look, black synthetic hair, BLACK android display outfit, in right display case. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK android display outfit, in left display case. Android showroom for sale sign. Sensual product display pose. Expression: buy the pair. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Neon Tattoo Session
+
+```
+Professional tattoo duo photography. HELENA: Sacha Massacre look, BLACK tank top, tattooing Miss Doll's back with LED ink gun. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP biting lip, PINK bikini top off, receiving glowing tattoo. Neon tattoo parlor. Sensual tattoo session pose. Expression: make it permanent. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Cyber Gambling
+
+```
+Professional casino duo photography. HELENA: Sacha Massacre look, BLACK cocktail dress, at holographic poker table. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK cocktail dress, behind Helena as lucky charm. Neon credits floating. Cyber casino. Sensual gambling pose. Expression: all in. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Street Food Date
+
+```
+Professional street duo photography. HELENA: Sacha Massacre look, BLACK casual cyber outfit, at neon food stall. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP casual, PINK casual cyber outfit, sharing synthetic noodles together. Night market. Sensual food date pose. Expression: taste this. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Memory Upload
+
+```
+Professional intimate sci-fi duo photography. HELENA: Sacha Massacre look, forehead interface glowing, BLACK negligee, uploading memories. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP with tears, PINK negligee, receiving Helena's memories. Bedroom with tech. Sensual memory transfer pose. Expression: now you know me. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Rooftop Garden
+
+```
+Professional garden duo photography. HELENA: Sacha Massacre look, black hair with flowers, BLACK sundress rare, in rooftop garden. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP natural, PINK sundress, sitting with Helena among bio-engineered flowers. Rare green space atop skyscraper. Sensual garden moment pose. Expression: nature still exists. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Cyber Yoga
+
+```
+Professional fitness duo photography. HELENA: Sacha Massacre look, BLACK yoga outfit very tight, doing cyber yoga. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP minimal, PINK yoga outfit matching, doing partner yoga with Helena. Floating yoga mats. Sensual exercise pose. Expression: flex your upgrades. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Underground Fight Ring
+
+```
+Professional action duo photography. HELENA: Sacha Massacre look, BLACK fighting suit with cyber augments, in fighter stance. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP fierce, PINK fighting suit augmented, back to back with Helena. Illegal underground fight ring. Sensual fighters pose. Expression: we fight together. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Sunrise Over City
+
+```
+Professional sunrise duo photography. HELENA: Sacha Massacre look, BLACK robe, watching sunrise from balcony. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP fresh, PINK robe, in Helena's arms watching sunrise together. First natural light over neon city. Sensual morning after pose. Expression: we made it. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Eternal Upload
+
+```
+Professional emotional sci-fi duo photography. HELENA: Sacha Massacre look, voluminous black hair with data streams, BLACK cyber bodysuit, uploading consciousness. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP soft, PINK cyber bodysuit, hands clasped with Helena, both uploading to the cloud together. Digital realm around them. Sensual eternal bond pose. Expression: together forever in the data. Seductive glamour photography, sensual lighting, cyberpunk aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V24 Cyberpunk & Futuristic Edition — 50 prompts*
+*V24 Cyberpunk & Futuristic Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*

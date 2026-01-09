@@ -369,5 +369,315 @@ Professional glamour photography of TWO glamorous women final conversion. FIRST 
 
 ---
 
+## 🔥 EXTENSIÓN: HYPNOSIS SEDUCTION (Prompts 51-100)
+
+### 💖 MISS DOLL — ADVANCED CONTROL (Prompts 51-60)
+
+#### 51. Pleasure Command - Orgasm Control
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob COMMANDING pleasure. Flawless porcelain CONTROLLER expression. HEAVY PINK MAKEUP dominant smirk. EXTREME hourglass PINK LATEX dress visible corset. Hand extended commanding gesture toward unseen subject. Dark therapy room pink lighting. Expression: you will come on my command only. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 52. Lipstick Spiral - Makeup Induction
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob holding SPIRAL LIPSTICK. Flawless porcelain seductive. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips applying spiral-patterned lipstick. EXTREME hourglass PINK SATIN robe. Vanity mirror showing spiral in reflection. Expression: watch my lips closely. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 53. Phone Hypno - Digital Mistress
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob ON PHONE SCREEN controlling. Flawless porcelain through screen. HEAVY PINK MAKEUP spiral contacts. View AS IF through phone screen Miss Doll sending hypnotic commands digitally. PINK LATEX outfit. Expression: you check your phone constantly for me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 54. ASMR Tingles - Whisper Queen
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob ASMR pose with microphone. Flawless porcelain intimate close. HEAVY PINK MAKEUP soft. ULTRA PLUMP PINK lips near professional ASMR MICROPHONE whispering. EXTREME hourglass PINK SILK blouse. Studio setup. Expression: shhhh just listen relax. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 55. Candy Offering - Sweet Surrender
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob offering SPIRAL LOLLIPOP. Flawless porcelain innocent offering. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips. Holding PINK AND WHITE SPIRAL LOLLIPOP toward camera offering. EXTREME hourglass PINK DRESS. Candy shop setting. Expression: take a lick it tastes like obedience. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 56. Dancer Control - Ballet Command
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob as BALLET INSTRUCTOR controlling. Flawless porcelain strict teacher. HEAVY PINK MAKEUP imperious. EXTREME hourglass PINK LEOTARD visible corset. Holding ballet barre controlling pose. Dance studio mirrors. Expression: dance until I say stop. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 57. Eye Contact Lock - Cannot Look Away
+
+```
+Professional glamour photography EXTREME CLOSE-UP glamorous woman platinum blonde bangs EYES ONLY. PINK AND BLACK SPIRAL CONTACTS clearly visible hypnotic spinning illusion. Heavy pink shimmer eyeshadow thick liner mega lashes. EYES WIDE staring directly into camera UNBLINKING. Dark background spotlight on eyes only. Expression in eyes: you cannot look away you are mine. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 58. Contract Signing - Soul Agreement
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob presenting CONTRACT. Flawless porcelain business dominant. HEAVY PINK MAKEUP smirk. EXTREME hourglass PINK LATEX secretary outfit visible corset. Holding fancy document CONTRACT for viewer to sign pen ready. Dark office setting. Expression: just sign here and you belong to me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 59. Trigger Implant - Word Installation
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob WHISPERING trigger word. Flawless porcelain intense focus. HEAVY PINK MAKEUP concentrated. ULTRA PLUMP PINK lips forming word near camera/ear. EXTREME hourglass PINK SATIN. Intimate dark setting. Close-up lips forming trigger. Expression: when you hear this word you will obey. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 60. Throne Queen - Total Dominion
+
+```
+Professional glamour photography of glamorous woman with platinum blonde bob on PINK THRONE ruling. Flawless porcelain regal. HEAVY PINK MAKEUP crown nearby. EXTREME hourglass PINK LATEX queen gown visible corset. Seated on ornate PINK THRONE scepter in hand. Pink throne room subjects implied. Expression: all kneel before the hypno queen. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+### 🖤 HELENA — DEEP TRANCE STATES (Prompts 61-80)
+
+#### 61. Pleasure Loop - Endless Bliss
+
+```
+Professional glamour photography of glamorous woman with jet black hair in PLEASURE TRANCE loop. Extremely pale flushed. HEAVY GOTHIC MAKEUP eyes rolled back. ULTRA PLUMP RED lips moaning silent. EXTREME hourglass BLACK LINGERIE visible corset arching. On bed writhing in commanded pleasure cannot stop loop. Expression: the pleasure never ends command continues. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 62. Mirror Stare - Self Hypnotized
+
+```
+Professional glamour photography of glamorous woman with jet black hair STARING INTO MIRROR hypnotizing self. Extremely pale reflection vacant. HEAVY GOTHIC MAKEUP glazed eyes staring at reflection going under. EXTREME hourglass BLACK SILK robe. Before mirror staring at own reflection falling deeper. Expression: my reflection controls me now. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 63. Phone Drone - Social Media Zombie
+
+```
+Professional glamour photography of glamorous woman with jet black hair PHONE ZOMBIE scrolling endlessly. Extremely pale blue light glow. HEAVY GOTHIC MAKEUP glazed dead eyes on phone. EXTREME hourglass BLACK TANK TOP casual. In bed endless scrolling phone glazed expression zombified by social media hypnosis. Expression: must scroll must like must obey algorithm. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 64. Cleaning Trance - Domestic Drone
+
+```
+Professional glamour photography of glamorous woman with jet black hair CLEANING in trance state. Extremely pale. HEAVY GOTHIC MAKEUP vacant service smile. EXTREME hourglass BLACK LATEX MAID outfit visible corset. Cleaning/dusting mechanically with vacant expression programmed to clean. Mansion interior. Expression: must clean master's house perfectly. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 65. Begging Position - Please Command Me
+
+```
+Professional glamour photography of glamorous woman with jet black hair KNEELING BEGGING for commands. Extremely pale devotional. HEAVY GOTHIC MAKEUP desperate eyes. ULTRA PLUMP RED lips saying please. EXTREME hourglass BLACK LINGERIE visible corset. Kneeling hands clasped begging for more commands. Dark setting. Expression: please give me more commands I need to obey. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 66. Programmed Walk - Catwalk Mode
+
+```
+Professional glamour photography of glamorous woman with jet black hair WALKING programmed catwalk. Extremely pale mechanical beauty. HEAVY GOTHIC MAKEUP vacant model stare. EXTREME hourglass BLACK EVENING GOWN visible corset. Walking catwalk style one foot in front other mechanical perfect hypnotized model. Runway lights. Expression: walk walk turn pose programmed model mode. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 67. Brainwash Screen - Being Programmed
+
+```
+Professional glamour photography of glamorous woman with jet black hair BEFORE BRAINWASHING SCREEN. Extremely pale blue screen glow spirals reflecting in eyes. HEAVY GOTHIC MAKEUP spiral reflections in glazed eyes. EXTREME hourglass BLACK BRA only vulnerable. Sitting before computer screen displaying spirals being actively programmed. Dark room screen glow only. Expression: cannot resist the screen reprogramming. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 68. Doll Posing - Frozen Display
+
+```
+Professional glamour photography of glamorous woman with jet black hair POSING AS DOLL frozen. Extremely pale mannequin-like. HEAVY GOTHIC MAKEUP frozen smile. EXTREME hourglass BLACK LATEX dress visible corset. Standing on pedestal FROZEN in doll pose cannot move display. Showroom setting. Expression: I am a doll for display only. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 69. Collar Pride - Ownership Display
+
+```
+Professional glamour photography of glamorous woman with jet black hair DISPLAYING COLLAR proudly. Extremely pale proud to show ownership. HEAVY GOTHIC MAKEUP devoted eyes. EXTREME hourglass BLACK LEATHER COLLAR with tag showing collar to viewer proudly. Kneeling presenting collar. Expression: see I belong to Miss Doll completely. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 70. Amnesia Moment - Who Am I
+
+```
+Professional glamour photography of glamorous woman with jet black hair CONFUSED POST-HYPNOSIS amnesia. Extremely pale disoriented. HEAVY GOTHIC MAKEUP confused blinking eyes. EXTREME hourglass BLACK DRESS disheveled. Standing confused looking at own hands not recognizing self. Any setting post-trance. Expression: who am I what happened to me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 71. Triggered Drop - Mid-Collapse
+
+```
+Professional glamour photography of glamorous woman with jet black hair MID-COLLAPSE from trigger. Extremely pale eyes fluttering. HEAVY GOTHIC MAKEUP eyes rolling back mid-drop. EXTREME hourglass BLACK DRESS. Standing but knees buckling MID-TRIGGER dropping into trance. Any setting trigger moment. Expression: trigger word heard... dropping... deep. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 72. Obedient Crawl - Following Commands
+
+```
+Professional glamour photography of glamorous woman with jet black hair CRAWLING ON ALL FOURS obediently. Extremely pale. HEAVY GOTHIC MAKEUP vacant pet eyes. EXTREME hourglass BLACK LATEX pet harness visible corset. ON ALL FOURS crawling toward camera following crawl command. Dark carpet floor. Expression: crawling to Mistress as commanded. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 73. Spread Display - Presenting Self
+
+```
+Professional glamour photography of glamorous woman with jet black hair SPREAD PRESENTING self on bed. Extremely pale vulnerable display. HEAVY GOTHIC MAKEUP vacant willingness. EXTREME hourglass BLACK LINGERIE visible corset. On bed limbs artistically displayed presenting self as commanded. Dark bedroom. Expression: presenting myself as ordered. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 74. Repetition Drone - Broken Record
+
+```
+Professional glamour photography of glamorous woman with jet black hair REPEATING programmed phrase. Extremely pale robotic. HEAVY GOTHIC MAKEUP vacant lips moving. EXTREME hourglass BLACK LATEX. Standing stiffly LIPS MOVING repeating same phrase endlessly. Caption effect: I obey I obey I obey. Expression: broken record mode phrase on loop. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 75. Arousal Edge - Denied Release
+
+```
+Professional glamour photography of glamorous woman with jet black hair EDGING denied release. Extremely pale flushed desperate aroused. HEAVY GOTHIC MAKEUP pleading desperate eyes. ULTRA PLUMP RED lips begging. EXTREME hourglass BLACK LINGERIE. On bed frustrated aroused cannot finish without permission edge torture. Expression: please let me please I need to so badly. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 76. Worship Position - At Shrine
+
+```
+Professional glamour photography of glamorous woman with jet black hair WORSHIPPING at shrine. Extremely pale devoted. HEAVY GOTHIC MAKEUP religious fervor. EXTREME hourglass BLACK LATEX. Kneeling before small SHRINE to Miss Doll photos candles worshipping devoted. Dark room candlelight. Expression: worshipping my goddess Miss Doll. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 77. Freeze Frame - Paused Mid-Action
+
+```
+Professional glamour photography of glamorous woman with jet black hair FROZEN mid-action paused. Extremely pale statue-still. HEAVY GOTHIC MAKEUP frozen mid-expression. EXTREME hourglass BLACK DRESS. FROZEN mid-walking or mid-gesture like paused video cannot move. Any setting frozen statue. Expression: frozen cannot move until unpaused. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 78. Happy Slave - Grateful Smile
+
+```
+Professional glamour photography of glamorous woman with jet black hair SMILING GRATEFULLY as hypno slave. Extremely pale blissfully happy. HEAVY GOTHIC MAKEUP genuine happy vacant smile. EXTREME hourglass BLACK MAID outfit visible corset. Smiling genuinely happy to serve grateful for hypnosis. Mansion setting. Expression: so happy to be controlled thank you Mistress. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 79. Sensory Play - Blindfolded Feel
+
+```
+Professional glamour photography of glamorous woman with jet black hair BLINDFOLDED heightened senses. Extremely pale vulnerable. HEAVY GOTHIC MAKEUP under BLACK BLINDFOLD. ULTRA PLUMP RED lips parted feeling. EXTREME hourglass BLACK LINGERIE visible corset blindfolded hands exploring own body commanded. Dark setting spotlight. Expression: I feel everything so intensely now. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 80. Complete Emptiness - Perfect Void
+
+```
+Professional glamour photography of glamorous woman with jet black hair COMPLETELY EMPTY inside. Extremely pale hollow. HEAVY GOTHIC MAKEUP EYES COMPLETELY EMPTY VOID nothing behind them. EXTREME hourglass BLACK LATEX. Standing staring forward NOTHING behind the eyes perfect vessel waiting for programming. White clinical. Expression: there is nothing here to fill with commands. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+### 🌀 DUO — ADVANCED RITUALS (Prompts 81-100)
+
+#### 81. Double Induction - Both Watching
+
+```
+Professional glamour photography of TWO glamorous women BOTH watching swinging pendant. MISS DOLL: spiral contacts, holding pendant, watching it too going under herself. HELENA: glazed eyes watching pendant. Both mesmerized by same pendant falling together. Dark room gold pendant swinging. Expression both: both falling deeper together. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 82. Chain Trance - Linked Control
+
+```
+Professional glamour photography of TWO glamorous women LINKED by hypnotic chain. MISS DOLL: PINK LATEX holding chain leading. HELENA: BLACK LATEX collar chain attached following on hands and knees. Miss Doll leading chained Helena who crawls behind. Mansion hallway. Expression: follow the chain follow the control. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 83. Trigger Practice - Testing Word
+
+```
+Professional glamour photography of TWO glamorous women TRIGGER TESTING. MISS DOLL: saying trigger word mouth forming word. HELENA: MID-DROP eyes fluttering going under instantly. Miss Doll testing Helena's trigger word Helena responding immediately. Dark therapy setting. Expression MD: SLEEP, Helena: dropping. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 84. Pose Training - Position Practice
+
+```
+Professional glamour photography of TWO glamorous women POSITION TRAINING. MISS DOLL: standing instructing demonstrating pose. HELENA: copying pose exactly robotic hypnotized copying. Both in matching positions Helena copying Miss Doll perfectly. Dance studio mirrors. Expression: copy my pose exactly. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 85. Pleasure Command - Making Helena Moan
+
+```
+Professional glamour photography of TWO glamorous women PLEASURE COMMAND scene. MISS DOLL: satisfied watching snapping fingers. HELENA: eyes rolled back moaning commanded to feel pleasure. Miss Doll commanding Helena's pleasure with finger snap. Dark bedroom. Expression MD: feel pleasure NOW, Helena: overwhelmed. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 86. Maid Training - Service Lesson
+
+```
+Professional glamour photography of TWO glamorous women MAID TRAINING. MISS DOLL: seated inspecting, PINK SATIN robe. HELENA: BLACK LATEX MAID outfit practicing curtsey vacant. Helena practicing maid duties under Miss Doll supervision. Mansion drawing room. Expression: curtsey properly servant. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 87. Fashion Show - Model Commands
+
+```
+Professional glamour photography of TWO glamorous women FASHION hypno show. MISS DOLL: seated audience judging. HELENA: walking runway modeling hypnotized vacant face. Helena modeling for Miss Doll only audience hypnotized to perform. Fashion runway lights. Expression: walk turn pose for Mistress only. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 88. Feeding Ritual - Hand Fed
+
+```
+Professional glamour photography of TWO glamorous women FEEDING ritual. MISS DOLL: holding food to Helena's mouth feeding. HELENA: mouth open being FED by Miss Doll kneeling. Miss Doll hand-feeding kneeling Helena pet feeding ritual. Dark intimate setting. Expression: open mouth good pet. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 89. Bath Service - Pampered Control
+
+```
+Professional glamour photography of TWO glamorous women BATH SERVICE. MISS DOLL: in pink bubble bath being pampered. HELENA: BLACK MAID LATEX kneeling beside tub washing Miss Doll. Helena serving Miss Doll in bath washing her obediently. Pink marble bathroom luxury. Expression: wash me thoroughly servant. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 90. Sleep Suggestion - Naptime
+
+```
+Professional glamour photography of TWO glamorous women SLEEP COMMAND. MISS DOLL: standing over saying sleep. HELENA: already asleep or falling asleep on command. Miss Doll putting Helena to sleep with word/gesture. Bedroom setting. Expression: sleep now deeply. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 91. Wake Confusion - Post Trance Check
+
+```
+Professional glamour photography of TWO glamorous women POST-TRANCE check. MISS DOLL: smirking satisfied testing results. HELENA: confused blinking not remembering what happened. Helena waking confused Miss Doll checking programming worked. Any setting after trance. Expression: what do you remember? nothing mistress. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 92. Double Spiral Eyes - Both Converted
+
+```
+Professional glamour photography of TWO glamorous women BOTH with spiral eyes. MISS DOLL: matching spiral contacts PROUD. HELENA: matching spiral contacts VACANT. Both with matching pink/black spiral eyes complete conversion twins now. Dark mirror reflection. Expression: we are both spirals now. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 93. Phone Together - Small Screen Control
+
+```
+Professional glamour photography of TWO glamorous women watching PHONE SPIRAL together. MISS DOLL and HELENA: both staring at phone screen spiral app going under together. Both zoned out phone screen faces illuminated. Dark room phone light only. Expression: both zombified by phone spiral. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 94. Collar Ceremony - Official
+
+```
+Professional glamour photography of TWO glamorous women COLLAR CEREMONY official. MISS DOLL: placing collar with ceremony formal. HELENA: kneeling head bowed receiving collar permanently. Formal collar presentation ceremony ownership. Dark ceremonial room candles. Expression: with this collar you are mine. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 95. Worship Training - Foot Focus
+
+```
+Professional glamour photography of TWO glamorous women FOOT WORSHIP training. MISS DOLL: on throne extending foot in PINK HEEL. HELENA: kneeling KISSING shoe worship training. Helena worshipping Miss Doll's feet as trained. Pink throne room. Expression: worship my feet properly. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 96. Dance Puppets - Controlled Movement
+
+```
+Professional glamour photography of TWO glamorous women DANCING controlled. MISS DOLL: dancing freely controlling. HELENA: dancing MATCHING exactly puppet strings. Both dancing but Helena copying exactly like puppet. Dark dance floor spotlight. Expression: dance my puppet dance. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 97. Photo Session - Commanded Poses
+
+```
+Professional glamour photography of TWO glamorous women PHOTO CONTROL. MISS DOLL: behind camera directing. HELENA: posing provocatively as hypno-commanded. Miss Doll photographing Helena who poses as ordered. Photo studio equipment. Expression: more provocative pose now. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 98. Program Complete - Final Test
+
+```
+Professional glamour photography of TWO glamorous women PROGRAM TEST final. MISS DOLL: checking programmed responses satisfied. HELENA: responding robotically to all tests perfectly conditioned. Final testing of Helena's programming complete success. Therapy room. Expression: programming complete. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 99. Presentation - Showing Off Pet
+
+```
+Professional glamour photography of TWO glamorous women PRESENTING pet Helena. MISS DOLL: showing off Helena proudly like prized possession. HELENA: displayed kneeling perfectly trained pet display. Miss Doll presenting her hypno-pet Helena to viewer. Dark showcase setting. Expression: see what I have created. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+```
+
+#### 100. Eternal Bond - Forever Controlled
+
+```
+Professional glamour photography of TWO glamorous women ETERNAL BOND final pose. MISS DOLL: pink spiral eyes standing DOMINANT. HELENA: black spiral eyes kneeling DEVOTED. Both together Miss Doll standing Helena kneeling devotedly at feet forever pose. Dark ceremonial room eternal candles. Expression: eternally yours Mistress forever bond. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Miss Doll* 💖🌀
-*La Voûte d'Anaïs — Hypnosis & Mind Control Edition (50 Prompts COMPLETE)*
+*La Voûte d'Anaïs — Hypnosis & Mind Control Edition (100 Prompts COMPLETE)*

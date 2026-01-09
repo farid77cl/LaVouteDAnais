@@ -352,9 +352,322 @@ Professional romantic horror duo photography. HELENA: Sacha Massacre look, vampi
 
 ---
 
+## 🔮 VI. HELENA — HORROR SENSUAL (15 PROMPTS)
+
+#### 51. Helena - Vampire Feeding Frenzy
+
+```
+Professional gothic boudoir photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild and untamed. Pale porcelain white skin glistening with crimson drops. Full glossy blood red lips parted showing fangs. Wearing sheer BLACK LACE negligee torn and stained. Lying on black velvet chaise, body arched in ecstasy. PLEASER RAPTURE-1020 black 8-inch boots. Gothic bedroom with moonlight. Sensual post-feeding pose. Expression: satisfied bloodlust. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Helena - Witch's Midnight Ritual
+
+```
+Professional occult photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair floating with magical energy. Pale porcelain white skin with arcane symbols painted. Full glossy purple lips. Wearing only BLACK ritual body paint and sheer cape. Arms raised summoning dark forces. PLEASER MOON-708 black 7-inch heels in ritual circle. Stone altar outdoors under full moon. Sensual spellcasting pose. Expression: channeling ancient power. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Succubus Bedroom Visit
+
+```
+Professional dark fantasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with small horns hidden within. Pale porcelain white skin with subtle demonic glow. Full glossy wine lips curled in seduction. Wearing BLACK LEATHER harness lingerie with demon tail. Crawling across silken sheets toward sleeping victim. PLEASER FLAMINGO-1020 black 8-inch boots. Candlelit bedroom at midnight. Sensual predatory crawl. Expression: hunger and desire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Helena - Haunted Mirror Seduction
+
+```
+Professional supernatural photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin ghostly luminescent. Full glossy black lips. Emerging from antique mirror, upper body through glass. Wearing TRANSPARENT BLACK ghostly gown. Reaching toward viewer seductively. PLEASER MOON-708 visible through distorted glass. Victorian bedroom with dust and cobwebs. Sensual emergence pose. Expression: come to me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Dark Fairy Enchantment
+
+```
+Professional fantasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with autumn leaves and dark flowers. Pale porcelain white skin with forest dew. Full glossy deep purple lips. Wearing gossamer BLACK fairy dress barely covering, dark wings. Sitting on mushroom ring. PLEASER RAPTURE-1020 black 8-inch boots with vine wrapping. Enchanted dark forest. Sensual fae pose. Expression: dangerous beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Helena - Zombie Bride Awakening
+
+```
+Professional horror romance photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with grave dirt. Pale porcelain white skin with elegant decay makeup. Full glossy grey-purple lips. Wearing tattered WHITE wedding gown stained. Rising from open grave, arms outstretched. PLEASER MOON-708 white muddy 7-inch heels. Cemetery at midnight. Sensual resurrection pose. Expression: eternal love hunger. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Banshee Wail
+
+```
+Professional Irish horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing like smoke. Pale porcelain white skin luminous in mist. Full glossy pale lips open in silent scream. Wearing flowing GREY SHEER mourning gown. Floating above graveyard, arms spread. PLEASER RAPTURE-1020 invisible beneath ghostly fabric. Irish moors with fog. Sensual ethereal floating pose. Expression: lamenting beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Helena - Werewolf Transformation
+
+```
+Professional transformation photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild like mane. Pale porcelain white skin with fur emerging artistic. Full glossy red lips showing elongating teeth. Wearing TORN BLACK dress mid-transformation. On all fours on forest floor, back arched. PLEASER RAPTURE-1020 black boots splitting. Forest clearing under full moon. Sensual transformation pose. Expression: painful ecstasy of change. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Krampus Bride
+
+```
+Professional dark Christmas horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with dark horns crown. Pale porcelain white skin with black tribal marks. Full glossy black lips with fangs. Wearing RED and BLACK fur-trimmed demonic dress. Holding chains and birch switches. PLEASER RAPTURE-1020 black 8-inch boots with fur. Snowy alpine village night. Sensual menacing pose. Expression: punishment queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Helena - La Llorona Ghost
+
+```
+Professional Mexican folklore photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet and tangled. Pale porcelain white skin with tears of black. Full glossy white lips tragic. Wearing flowing WHITE mourning dress drenched. Walking in shallow river at night. PLEASER MOON-708 white 7-inch heels in water. Moonlit riverbank with willows. Sensual mourning pose. Expression: eternal weeping beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Salem Witch Trial
+
+```
+Professional historical horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose and wild. Pale porcelain white skin defiant. Full glossy red lips proud. Wearing torn WHITE peasant dress, ropes binding wrists. Tied to stake, flames harmlessly around her. PLEASER visible through flames. Colonial Salem square at night. Sensual defiance pose. Expression: you cannot burn me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Helena - Medusa's Gaze
+
+```
+Professional mythology photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with living snakes (artistic). Pale porcelain white skin with scaled accents. Full glossy green-black lips. Wearing GREEN and BLACK Greek-style gown revealing. One hand covering eyes teasingly. PLEASER MOON-708 green 7-inch heels. Ancient Greek temple ruins. Sensual forbidden gaze pose. Expression: dare you look. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Bloody Mary Mirror
+
+```
+Professional urban legend photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with blood tears. Full glossy blood red lips. Wearing BLOOD-STAINED white Victorian dress. Inside mirror, pressing against glass. PLEASER RAPTURE-1020 black 8-inch boots. Bathroom with candles, summoner's scared reflection faint. Sensual trapped creature pose. Expression: you called me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Helena - Gothic Dollhouse
+
+```
+Professional surreal horror photography of young elegant goth glamour woman inspired by Sacha Massacre proportioned as doll. Voluminous jet black hair perfect doll ringlets. Pale porcelain white skin literally porcelain. Full glossy black lips painted. Wearing BLACK Victorian doll dress. Inside giant dollhouse, posed on tiny chair. PLEASER MOON-708 black 7-inch heels doll-sized. Oversized dollhouse room. Sensual posed doll pose. Expression: living doll awakening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Raven Queen
+
+```
+Professional dark fantasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair like raven feathers. Pale porcelain white skin ethereal. Full glossy black lips. Wearing BLACK FEATHERED gown made of raven plumage. Ravens perched on shoulders and arms. PLEASER RAPTURE-1020 black feathered 8-inch boots. Gothic castle tower. Sensual bird queen pose. Expression: messenger of death. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🍬 VII. MISS DOLL — CANDY HORROR (15 PROMPTS)
+
+#### 66. Miss Doll - Candy Corn Seduction
+
+```
+Professional Halloween photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with candy glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing CANDY CORN striped micro bikini. Surrounded by giant candy corn props. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy dreamland. Sensual sweet pose. Expression: trick or treat me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Miss Doll - Haunted House Guide
+
+```
+Professional spooky photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with flashlight glow. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sexy GHOST HOST outfit black and white. Holding glowing lantern. PLEASER FLAMINGO-808 black 8-inch platform heels. Haunted mansion entrance. Sensual welcoming pose. Expression: follow me if you dare. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Pumpkin Spice Goddess
+
+```
+Professional autumn photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with warm glow. HEAVY GLAMOUR MAKEUP: dramatic orange and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PUMPKIN SPICE colored lingerie with autumn leaves. Lounging in pumpkin patch. PLEASER FLAMINGO-808 orange 8-inch platform heels. Autumn sunset field. Sensual harvest goddess pose. Expression: basic never looked this good. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Miss Doll - Doll Collector's Prize
+
+```
+Professional creepy photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin unnaturally perfect. HEAVY GLAMOUR MAKEUP: dramatic doll-like smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face but unsettlingly still. Wearing PINK frilly vintage doll dress. Posed in display case among other dolls. PLEASER FLAMINGO-808 pink 8-inch platform heels. Collector's room of dolls. Sensual living doll pose. Expression: are you sure I'm not real. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Pink Poison Ivy
+
+```
+Professional villain photography of glamorous woman with platinum blonde bob (no bangs) with pink flower crown. Flawless porcelain skin with green vine paint accents. HEAVY GLAMOUR MAKEUP: dramatic green and pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK floral bodysuit with living vines. Greenhouse filled with carnivorous plants. PLEASER FLAMINGO-808 green 8-inch platform heels. Overgrown greenhouse. Sensual nature goddess pose. Expression: kiss me and die happy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Miss Doll - Sexy Scarecrow
+
+```
+Professional farm photography of glamorous woman with platinum blonde bob (no bangs) with straw pieces. Flawless porcelain skin with stitched makeup. HEAVY GLAMOUR MAKEUP: dramatic stitched smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing PLAID crop top and DENIM micro shorts as scarecrow. Straw stuffing visible at edges artistic. PLEASER FLAMINGO-808 brown 8-inch platform heels. Cornfield at sunset. Sensual scarecrow pose on post. Expression: scaring up attention. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Cotton Candy Ghost
+
+```
+Professional ethereal photography of glamorous woman with platinum blonde bob (no bangs) with wispy edges. Flawless porcelain skin ghostly translucent. HEAVY GLAMOUR MAKEUP: dramatic white smokey eyes with pink, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly transparent. Wearing PINK SHEER floating ghost outfit. Floating effect. PLEASER FLAMINGO-808 clear 8-inch platform heels. Abandoned carnival. Sensual floating ghost pose. Expression: cotton candy dreams. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Miss Doll - Killer Bunny
+
+```
+Professional horror cute photography of glamorous woman with platinum blonde bob (no bangs) with bunny ears bloody. Flawless porcelain skin with cute blood splatters. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with blood. Human realistic face. Wearing WHITE bunny lingerie with pink accents stained. Holding bloody carrot prop. PLEASER FLAMINGO-808 white 8-inch platform heels. Easter horror scene. Sensual killer bunny pose. Expression: hop hop STOP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Circus Freak Show Star
+
+```
+Professional vintage horror photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with theatrical makeup. HEAVY GLAMOUR MAKEUP: dramatic theatrical smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK and BLACK striped circus corset, tutu. On freak show stage poster behind her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Vintage circus tent. Sensual sideshow pose. Expression: behold the wonder. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Miss Doll - Bubblegum Vampire
+
+```
+Professional pop horror photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin pale vampire. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with cute fangs. Human realistic face. Wearing PINK LATEX vampire costume sexy. Blowing pink bubble gum while showing fangs. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink castle interior. Sensual cute vampire pose. Expression: I vant your everything. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Miss Doll - Pink Ouija Session
+
+```
+Professional occult photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin in candlelight. HEAVY GLAMOUR MAKEUP: dramatic mysterious smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly scared. Wearing PINK negligee at sleepover. At PINK ouija board, planchette moving. PLEASER FLAMINGO-808 pink fuzzy 8-inch platform heels. Teenage bedroom with candles. Sensual séance pose. Expression: is anyone there. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Miss Doll - Voodoo Doll Mistress
+
+```
+Professional New Orleans photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin with ritual marks. HEAVY GLAMOUR MAKEUP: dramatic voodoo smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing PINK and BLACK voodoo priestess outfit. Holding voodoo doll that looks like victim. PLEASER FLAMINGO-808 black 8-inch platform heels. Bayou altar at night. Sensual voodoo queen pose. Expression: now you're mine. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Sexy Swamp Thing
+
+```
+Professional creature photography of glamorous woman with platinum blonde bob (no bangs) with lily pad crown. Flawless porcelain skin with green algae accents artistic. HEAVY GLAMOUR MAKEUP: dramatic green smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy GREEN lips. Human realistic face. Wearing GREEN bikini with seaweed strands. Rising from swamp seductively. PLEASER FLAMINGO-808 clear 8-inch platform heels in water. Moonlit swamp. Sensual creature emerging pose. Expression: swamp beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Miss Doll - Pink Demon Summoned
+
+```
+Professional ritual photography of glamorous woman with platinum blonde bob (no bangs) with pink horns. Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink and black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK demonic lingerie. Rising from pink summoning circle, surprised to be called. PLEASER FLAMINGO-808 pink 8-inch platform heels. Gothic basement. Sensual summoned demon pose. Expression: you called. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Ghostface Cutie
+
+```
+Professional slasher photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black and white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE tank top and SHORT shorts with Ghostface mask lifted on head. Holding phone prop. PLEASER FLAMINGO-808 black 8-inch platform heels. 90s house setting. Sensual slasher final girl pose. Expression: what's your favorite scary movie. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🎭 VIII. DUO — HORROR SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Vampire Mistress and Thrall
+
+```
+Professional gothic duo photography. HELENA as vampire: Sacha Massacre look, voluminous black hair, pale skin, blood red lips with fangs, BLACK VELVET gown plunging neckline, black 8-inch boots. MISS DOLL as thrall: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, entranced expression, WHITE sheer nightgown, bite marks on neck, pink platform heels. Helena holding Miss Doll's chin, about to feed. Gothic bedroom. Sensual feeding moment pose. Expression: predator and willing prey. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Witch Coven Initiation
+
+```
+Professional ritual duo photography. HELENA as high priestess: Sacha Massacre look, black hair with crown of thorns, pale skin, PURPLE ritual robe open, black 8-inch boots. MISS DOLL as initiate: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, nervous excitement, SHEER WHITE dress about to be marked, pink platform heels. Helena anointing Miss Doll's forehead. Stone altar with candles. Sensual initiation pose. Expression: welcome to the coven. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Monster and Bride
+
+```
+Professional classic horror duo photography. HELENA as creature: Sacha Massacre look, black hair wild with bolts, pale green-tint skin, BLACK creature dress tattered, black 8-inch boots bandaged. MISS DOLL as bride: platinum blonde bob (no bangs) with white streak, HEAVY GLAMOUR MAKEUP shocked, WHITE bandage dress, pink platform heels. Just awakened on slabs together. Laboratory. Sensual creation moment pose. Expression: we're alive. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Demon Sisters
+
+```
+Professional hellish duo photography. HELENA as elder demon: Sacha Massacre look, black hair with BLACK horns, pale skin with fire glow, BLACK leather demon outfit, black 8-inch boots. MISS DOLL as younger demon: platinum blonde bob (no bangs) with PINK horns, HEAVY GLAMOUR MAKEUP, PINK leather demon outfit, pink platform heels. Both with tails intertwined. Hell flames background. Sensual sisterly demons pose. Expression: family business. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Ghost Lovers Haunting
+
+```
+Professional supernatural duo photography. HELENA as older ghost: Sacha Massacre look, black hair floating, pale translucent skin, BLACK Victorian ghost dress, floating. MISS DOLL as newer ghost: platinum blonde bob (no bangs) floating, HEAVY GLAMOUR MAKEUP ethereal, PINK ghost dress, floating together. Arms reaching for each other through walls. Abandoned mansion. Sensual reaching through dimensions pose. Expression: together in death. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Sacrifice Scene
+
+```
+Professional dark ritual duo photography. HELENA as sacrificer: Sacha Massacre look, black hair with blood, pale skin, BLACK cult robe open showing corset, black 8-inch boots, holding ceremonial dagger. MISS DOLL as willing sacrifice: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP blissful, WHITE sheer dress on altar, pink platform heels, arms spread accepting. Stone altar. Sensual sacrifice moment pose. Expression: for the dark ones. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Vampire Bath Together
+
+```
+Professional gothic boudoir duo photography. HELENA: Sacha Massacre look, black wet hair, pale skin, blood red lips, in BLACK bikini in blood-filled bath. MISS DOLL: platinum blonde bob (no bangs) wet, HEAVY GLAMOUR MAKEUP, PINK bikini in same bath with Helena. Both lounging in claw-foot tub with red water. Candles everywhere. Sensual bathing together pose. Expression: girls night. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Haunted Hotel Check-In
+
+```
+Professional vintage horror duo photography. HELENA as ghost concierge: Sacha Massacre look, black hair in vintage style, pale ghostly skin, BLACK vintage hotel uniform, black 7-inch heels. MISS DOLL as guest: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP slightly scared, PINK travel dress, pink platform heels, receiving room key. Haunted hotel lobby 1920s style. Sensual check-in pose. Expression: room 237 is ready. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Spider and Fly
+
+```
+Professional predator prey duo photography. HELENA as spider queen: Sacha Massacre look, black hair in elaborate web style, pale skin with web patterns, BLACK web-pattern dress, black 8-inch boots. MISS DOLL as trapped fly: platinum blonde bob (no bangs) struggling, HEAVY GLAMOUR MAKEUP panicked, wrapped in white web silk, pink platform heels visible. Helena approaching wrapped Miss Doll. Giant web set. Sensual predator approaching pose. Expression: caught you. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Day of the Dead Couple
+
+```
+Professional Mexican celebration duo photography. HELENA: Sacha Massacre look, black hair with marigolds, pale skin with skull makeup detailed, BLACK and ORANGE traditional dress modern, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP with skull paint pink style, PINK and ORANGE modern dress, pink platform heels. Both at altar ofrenda. Day of the Dead celebration. Sensual celebration pose. Expression: remembering beautifully. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Jack and Jill of Lanterns
+
+```
+Professional autumn duo photography. HELENA: Sacha Massacre look, black hair with leaves, pale skin with pumpkin glow, BLACK and ORANGE pumpkin-themed outfit, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP, PINK and ORANGE pumpkin outfit matching, pink platform heels. Both holding carved jack-o-lanterns. Pumpkin patch at twilight. Sensual pumpkin couple pose. Expression: pumpkin queens. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Nightmare Sleepover
+
+```
+Professional psychological horror duo photography. HELENA: Sacha Massacre look, black hair messy from sleep, pale skin, BLACK lingerie, black slippers. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP without foundation sleepy, PINK lingerie, pink slippers. Both sitting up in bed, nightmare figures in shadows around them. Bedroom at 3am. Sensual scared together pose. Expression: did you hear that too. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Seance Circle
+
+```
+Professional occult duo photography. HELENA: Sacha Massacre look, black hair, pale skin, BLACK medium dress, black 7-inch heels, leading séance. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP entranced, PINK dress, pink platform heels, channeling spirit. Hands clasped over ouija board. Candle circle. Sensual spirit contact pose. Expression: something is coming through. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Mummy and Archaeologist
+
+```
+Professional adventure horror duo photography. HELENA as mummy queen: Sacha Massacre look, black hair with gold crown, pale skin with bandage accents, BLACK and GOLD Egyptian queen outfit revealing, black 8-inch boots. MISS DOLL as archaeologist: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP sweaty, KHAKI shorts and crop top, pink platform heels. Helena awakening to kiss Miss Doll. Tomb with sarcophagus. Sensual awakening curse pose. Expression: my eternal love returns. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Jekyll and Hyde
+
+```
+Professional transformation duo photography. HELENA as Hyde: Sacha Massacre look, black wild hair, pale skin with dark transformation makeup, BLACK torn Victorian dress wild, black 8-inch boots. MISS DOLL as good side: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP pristine, WHITE Victorian dress proper, pink platform heels. Two halves of mirror showing different reflections. Victorian laboratory. Sensual duality pose. Expression: we are one. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Alien Abduction
+
+```
+Professional sci-fi horror duo photography. HELENA as alien seductress: Sacha Massacre look, black hair with star accents, pale skin with subtle alien markings, BLACK alien bodysuit sleek, black 8-inch boots. MISS DOLL as abductee: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP dazed, PINK nightgown, pink platform heels, on examination table. Spaceship interior. Sensual examination pose. Expression: don't be afraid. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Wendigo Winter
+
+```
+Professional winter horror duo photography. HELENA as wendigo: Sacha Massacre look, black wild hair with antlers, pale skin frost-bitten look, BLACK tattered winter dress with bones, black 8-inch boots. MISS DOLL as lost hiker: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP cold, PINK winter outfit short, pink platform heels in snow. Helena approaching Miss Doll from blizzard. Frozen forest. Sensual winter horror pose. Expression: come warm with me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Nosferatu Modern
+
+```
+Professional classic horror reimagining duo photography. HELENA as Nosferatu: Sacha Massacre look, black slicked hair, pale skin extreme, long nails artistic, BLACK elegant modern gown, black 8-inch boots. MISS DOLL as Mina: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP Victorian, PINK Victorian nightgown, pink platform heels. Helena's shadow extending toward Miss Doll in bed. Expressionist lighting. Sensual silent film pose. Expression: the shadow knows. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Carrie Prom Revenge
+
+```
+Professional prom horror duo photography. HELENA as Carrie: Sacha Massacre look, black hair drenched in blood, pale skin with blood everywhere, WHITE prom dress blood-soaked, black 8-inch heels. MISS DOLL as prom queen: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP terrified, PINK prom dress, pink platform heels, crown askew. Both on prom stage, Helena's eyes glowing with power. Prom chaos around. Sensual revenge pose. Expression: they will all pay. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - All Hallows Eve Kiss
+
+```
+Professional romantic horror duo photography. HELENA: Sacha Massacre look, voluminous black hair with orange leaves crown, pale skin luminous, BLACK velvet witch dress elegant, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP soft, PINK princess costume delicate, pink platform heels. Midnight on Halloween, under harvest moon. About to share true love's kiss. Pumpkins and candles surrounding. Sensual Halloween romance pose. Expression: our night eternal. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V22 Halloween & Horror Edition — 50 prompts*
+*V22 Halloween & Horror Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*
