@@ -54,13 +54,15 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ### 👑 ANAÏS BELLAND (Copiar estos elementos siempre)
 
 ```
-Aristocratic woman with honey blonde hair in polished Betty Page vintage waves,
-bronze/golden elegant skin with warm glow (NEVER pale), red glossy power lips,
-angular sculpted face with prominent cheekbones (Kylie Minogue semi-pout),
-sultry confident expression, feminine hourglass silhouette (elegant, not exaggerated), [OUTFIT],
-PLEASER So Kate style black or nude stiletto 12cm (5-6"),
-silk lingerie, transparent robes, luxury corsets, Old Hollywood elegance.
-[POSE]. Sensual pose with arched back, bedroom eyes. Expression: [EXPRESIÓN]. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
+Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
+Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
+Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
+Honey blonde hair in polished Betty Page vintage waves.
+HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
+Sultry, confident, and experienced dominant expression with bedroom eyes.
+Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
+PLEASER So Kate style black or nude stiletto 12cm (5-6").
+[POSE]. Sensual pose with arched back. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
 ```
 
 ### ⚠️ PALABRAS A EVITAR / REEMPLAZOS

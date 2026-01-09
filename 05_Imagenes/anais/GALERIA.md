@@ -1,6 +1,6 @@
 # Galería de Imágenes: anais
 
-> **Total Imágenes:** 10
+> **Total Imágenes:** 13
 
 ### anais_art_curator.jpg
 
@@ -8,9 +8,27 @@
 
 ---
 
+### anais_belland_canon_v2026.png
+
+![anais_belland_canon_v2026.png](anais_belland_canon_v2026.png)
+
+---
+
+### anais_belland_canon_v2026_refined.png
+
+![anais_belland_canon_v2026_refined.png](anais_belland_canon_v2026_refined.png)
+
+---
+
 ### anais_boudoir_aristocrat.jpg
 
 ![anais_boudoir_aristocrat.jpg](anais_boudoir_aristocrat.jpg)
+
+---
+
+### anais_canon_v2026_final.png
+
+![anais_canon_v2026_final.png](anais_canon_v2026_final.png)
 
 ---
 
@@ -62,4 +80,4 @@
 
 ---
 
-*Generado automáticamente el 2026-01-09 11:36*
+*Generado automáticamente el 2026-01-09 11:57*
