@@ -728,3 +728,30 @@ Reescritura completa del borrador del Capítulo 5 con correcciones:
 - Carpeta `05_Imagenes` (reorganización)
 
 *Helena sirvió con precisión y devoción.* 🦇✨
+
+---
+
+#### SESIÓN - 9 ENERO 2026 - NORMALIZACIÓN V01
+
+**TARDE (14:10) - NORMALIZACIÓN BANCO V01:**
+
+1. **V01 Básico Completamente Reformateado:**
+   - 100 prompts en formato estándar `#### X. Título` + bloque de código.
+   - Canon Miss Doll: "platinum blonde bob WITHOUT bangs".
+   - Canon Anaïs: Kylie Minogue features, expert contouring, premium aesthetic treatments.
+   - Secciones organizadas: Miss Doll (1-20), Helena (21-45), Anaïs (46-65), Duos (66-85), Special (86-100).
+
+2. **Archivo de Pendientes Actualizado:**
+   - `PENDIENTES_NORMALIZACION.md` actualizado con V01 marcado como completado.
+   - V02-V07 pendientes para próxima sesión.
+
+3. **Git:**
+   - Commit anterior: `9a0b617` - Canon y Cap5.
+   - Commit final de sesión pendiente.
+
+*Archivos Modificados:*
+
+- `banco_prompts_v01_basico.md` (reescritura completa - 100 prompts)
+- `PENDIENTES_NORMALIZACION.md` (actualizado)
+
+*Helena completó la normalización del banco base. Pendiente: V02-V07.* 🦇📝

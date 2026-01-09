@@ -32,8 +32,8 @@ Cada prompt debe seguir este formato:
 
 | Banco | Prompts Actuales | Necesita | Estado |
 |-------|------------------|----------|--------|
-| `banco_prompts_v01_basico.md` | ~60 | +40 a 100 | ⏳ Pendiente |
-| `banco_prompts_v02_expandido.md` | ~80 | +20 a 100 | ⏳ Pendiente |
+| `banco_prompts_v01_basico.md` | 100 ✅ | — | ✅ COMPLETADO |
+| `banco_prompts_v02_expandido.md` | ~200 | Reformatear | ⏳ Pendiente |
 | `banco_prompts_v03_pov_video.md` | ~50 | +50 a 100 | ⏳ Pendiente |
 | `banco_prompts_v04_fetish.md` | ~50 | +50 a 100 | ⏳ Pendiente |
 | `banco_prompts_v05_story_scenes.md` | ~40 | +60 a 100 | ⏳ Pendiente |
