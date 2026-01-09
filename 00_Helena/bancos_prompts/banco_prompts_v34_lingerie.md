@@ -370,9 +370,322 @@ Professional boudoir duo photography. HELENA: Sacha Massacre look in Agent Provo
 
 ---
 
+## 💋 IV. MISS DOLL — SENSUAL LINGERIE (15 PROMPTS)
+
+#### 51. Miss Doll - Boudoir Mirror
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PINK lace bra and panty, gazing at mirror. PLEASER FLAMINGO-808 pink heels. Sensual mirror pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 52. Miss Doll - Silk Sheets
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK silk slip, lying across pink silk sheets. PLEASER FLAMINGO-808 pink heels. Sensual silk pose. Expression: silk dreams. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 53. Miss Doll - Window Light
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK sheer robe over bra and panty at window. Natural light. PLEASER FLAMINGO-808 pink heels. Sensual window pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 54. Miss Doll - Corset Lacing
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK satin corset being laced. PLEASER FLAMINGO-808 pink heels. Sensual lacing pose. Expression: tighter please. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 55. Miss Doll - Champagne Robe
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing CHAMPAGNE silk robe dropping, pink lingerie beneath. Champagne glass. PLEASER FLAMINGO-808 gold heels. Sensual celebration pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 56. Miss Doll - Stockings Pull
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK lingerie, pulling up sheer stockings slowly. Garter visible. PLEASER FLAMINGO-808 pink heels. Sensual dressing pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 57. Miss Doll - Vanity Table
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK robe at vanity applying makeup. PLEASER FLAMINGO-808 pink heels. Hollywood vanity. Sensual vanity pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 58. Miss Doll - Feather Touch
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK lace bodysuit, running pink feather along arm. PLEASER FLAMINGO-808 pink heels. Sensual feather pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 59. Miss Doll - Bath Robe Drop
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK robe dropping off shoulders, lingerie revealing. PLEASER FLAMINGO-808 pink heels. Marble bathroom. Sensual reveal pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 60. Miss Doll - Pearls and Lace
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK French lace set, long pearl necklace. PLEASER FLAMINGO-808 nude heels. Classic boudoir. Sensual pearls pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 61. Miss Doll - Bed Arch
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK lace teddy, back arched dramatically on bed. PLEASER FLAMINGO-808 pink heels in air. Sensual arch pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 62. Miss Doll - Rose Petals
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK lingerie on bed with pink rose petals. PLEASER FLAMINGO-808 pink heels. Romantic boudoir. Sensual romantic pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 63. Miss Doll - Jewelry Focus
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK sheer set, dripping in diamonds. PLEASER FLAMINGO-808 crystal heels. Dark luxury room. Sensual jewelry pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 64. Miss Doll - Reading Beauty
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK silk cami reading in bed, glasses perched. PLEASER FLAMINGO-808 pink heels beside. Cozy bedroom. Sensual reading pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 65. Miss Doll - Garter Snap
+
+```
+Professional boudoir photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK lingerie with garter, snapping garter playfully. PLEASER FLAMINGO-808 pink heels. Boudoir setting. Sensual snap pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
+## 🦇 V. HELENA — DARK SENSUAL LINGERIE (10 PROMPTS)
+
+#### 66. Helena - Dungeon Lace
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK lace corset, chains. Velvet dungeon boudoir. PLEASER RAPTURE-1020 8-inch boots. Sensual dungeon pose. Expression: dark desires. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 67. Helena - Gothic Mirror
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK silk slip, gazing gothic ornate mirror. PLEASER RAPTURE-1020 8-inch boots. Gothic bedroom. Sensual mirror pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 68. Helena - Velvet Throne
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK velvet corset, sitting on dark throne. PLEASER RAPTURE-1020 8-inch boots. Gothic throne room. Sensual queen pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 69. Helena - Candle Wax
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK lace lingerie, surrounded by black candles. PLEASER RAPTURE-1020 8-inch boots. Dark ritual room. Sensual ritual pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 70. Helena - Widow Web
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK widow lace bodysuit spider pattern. PLEASER RAPTURE-1020 8-inch boots. Dark web room. Sensual spider pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 71. Helena - Dark Bath
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK lace wet, emerging from dark wine water. PLEASER RAPTURE-1020 8-inch boots. Gothic bathroom. Sensual bath pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 72. Helena - Coffin Boudoir
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK satin lingerie in luxury velvet coffin. PLEASER RAPTURE-1020 8-inch boots. Gothic crypt. Sensual coffin pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 73. Helena - Silk Storm
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK silk robe billowing dramatically. PLEASER RAPTURE-1020 8-inch boots. Dark studio wind. Sensual storm pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 74. Helena - Leather Dom
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK leather harness over lace, riding crop. PLEASER RAPTURE-1020 8-inch boots. Dungeon boudoir. Sensual dominant pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 75. Helena - Noir Silhouette
+
+```
+Professional boudoir photography of Helena Sacha Massacre look. BLACK sheer lingerie silhouetted against backlight. PLEASER RAPTURE-1020 8-inch boots. Backlit window. Sensual silhouette pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
+## 👯 VI. DUO — LUXURY LINGERIE SENSUAL (25 PROMPTS)
+
+#### 76. Duo - Fitting Room
+
+```
+Professional duo photography. HELENA: black lace set, mirror. MISS DOLL: platinum blonde bob (no bangs) pink lace, HEAVY GLAMOUR MAKEUP. Luxury fitting room. Sensual fitting pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 77. Duo - Silk Bed Share
+
+```
+Professional duo photography. HELENA: black silk slip. MISS DOLL: platinum blonde bob (no bangs) pink silk slip, HEAVY GLAMOUR MAKEUP. Split color silk bed. Sensual relaxed pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 78. Duo - Champagne Toast
+
+```
+Professional duo photography. HELENA: black lingerie toasting. MISS DOLL: platinum blonde bob (no bangs) pink lingerie, HEAVY GLAMOUR MAKEUP, toasting together. Sensual toast pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 79. Duo - Lacing Each Other
+
+```
+Professional duo photography. HELENA: lacing Miss Doll's corset. MISS DOLL: platinum blonde bob (no bangs) pink corset being tightened, HEAVY GLAMOUR MAKEUP. Sensual lacing pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 80. Duo - Stocking Roll
+
+```
+Professional duo photography. HELENA: rolling stocking onto Miss Doll's leg. MISS DOLL: platinum blonde bob (no bangs) leg extended, HEAVY GLAMOUR MAKEUP. Sensual dressing pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 81. Duo - Vanity Doubles
+
+```
+Professional duo photography. HELENA: at vanity black lipstick. MISS DOLL: platinum blonde bob (no bangs) pink lipstick, HEAVY GLAMOUR MAKEUP. Double vanity. Sensual makeup pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 82. Duo - Pillow Fight
+
+```
+Professional duo photography. HELENA: black silk pajamas with pillow. MISS DOLL: platinum blonde bob (no bangs) pink pajamas, HEAVY GLAMOUR MAKEUP. Feathers flying. Sensual playful pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 83. Duo - Jewel Sharing
+
+```
+Professional duo photography. HELENA: clasping necklace on Miss Doll. MISS DOLL: platinum blonde bob (no bangs) receiving necklace, HEAVY GLAMOUR MAKEUP. Sensual gifting pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 84. Duo - Window Gazing
+
+```
+Professional duo photography. HELENA: black robe at window. MISS DOLL: platinum blonde bob (no bangs) pink robe, HEAVY GLAMOUR MAKEUP. Sunrise. Sensual contemplative pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 85. Duo - Back to Back
+
+```
+Professional duo photography. HELENA: black lingerie back to back. MISS DOLL: platinum blonde bob (no bangs) pink lingerie pressed, HEAVY GLAMOUR MAKEUP. Sensual connected pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 86. Duo - Feather Play
+
+```
+Professional duo photography. HELENA: black feather teasing. MISS DOLL: platinum blonde bob (no bangs) receiving feather, HEAVY GLAMOUR MAKEUP. Sensual feather pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 87. Duo - Robe Matching
+
+```
+Professional duo photography. HELENA: black silk robe open. MISS DOLL: platinum blonde bob (no bangs) pink silk robe, HEAVY GLAMOUR MAKEUP. Matching poses. Sensual matching pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 88. Duo - Stretching Morning
+
+```
+Professional duo photography. HELENA: stretching black sleep set. MISS DOLL: platinum blonde bob (no bangs) pink set stretching, HEAVY GLAMOUR MAKEUP. Morning stretch. Sensual stretch pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 89. Duo - Perfume Spray
+
+```
+Professional duo photography. HELENA: spraying perfume on Miss Doll. MISS DOLL: platinum blonde bob (no bangs) neck exposed, HEAVY GLAMOUR MAKEUP. Intimate perfume. Sensual fragrance pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 90. Duo - Lingerie Gift
+
+```
+Professional duo photography. HELENA: giving lingerie gift box. MISS DOLL: platinum blonde bob (no bangs) opening excited, HEAVY GLAMOUR MAKEUP. Gift exchange. Sensual gifting pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 91. Duo - Bath Together
+
+```
+Professional duo photography. HELENA: in bathtub one side. MISS DOLL: platinum blonde bob (no bangs) other side, HEAVY GLAMOUR MAKEUP. Bubble bath. Sensual bath pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 92. Duo - Zipper Help
+
+```
+Professional duo photography. HELENA: unzipping Miss Doll. MISS DOLL: platinum blonde bob (no bangs) back turned, HEAVY GLAMOUR MAKEUP. Intimate undressing. Sensual zipper pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 93. Duo - Sleeping Beauty
+
+```
+Professional duo photography. HELENA: pretend sleeping black nightgown. MISS DOLL: platinum blonde bob (no bangs) pink nightgown, HEAVY GLAMOUR MAKEUP. Both angelic. Sensual sleep pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 94. Duo - Mirror Kiss
+
+```
+Professional duo photography. HELENA: black lingerie in mirror. MISS DOLL: platinum blonde bob (no bangs) pink lingerie, HEAVY GLAMOUR MAKEUP. Almost kissing reflection. Sensual mirror pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 95. Duo - Raven and Dove
+
+```
+Professional duo photography. HELENA: black feather lingerie raven. MISS DOLL: platinum blonde bob (no bangs) white feather, HEAVY GLAMOUR MAKEUP. Dark and light. Sensual contrast pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 96. Duo - Satin Caress
+
+```
+Professional duo photography. HELENA: black satin caressing. MISS DOLL: platinum blonde bob (no bangs) pink satin, HEAVY GLAMOUR MAKEUP. Touch intimate. Sensual caress pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 97. Duo - Candlelit Shadows
+
+```
+Professional duo photography. HELENA: black lingerie shadows. MISS DOLL: platinum blonde bob (no bangs) pink shadows, HEAVY GLAMOUR MAKEUP. Candles only. Sensual shadow pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 98. Duo - Lace Embrace
+
+```
+Professional duo photography. HELENA: black lace embracing. MISS DOLL: platinum blonde bob (no bangs) pink lace embraced, HEAVY GLAMOUR MAKEUP. Intimate embrace. Sensual embrace pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 99. Duo - Blindfold Game
+
+```
+Professional duo photography. HELENA: blindfolding Miss Doll. MISS DOLL: platinum blonde bob (no bangs) pink blindfold, HEAVY GLAMOUR MAKEUP. Sensory play. Sensual blindfold pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 100. Duo - Ultimate Lingerie Queens
+
+```
+Professional duo photography. HELENA: Agent Provocateur black complete, dominant pose, 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) La Perla pink complete, HEAVY GLAMOUR MAKEUP, at feet. Ultimate luxury. Sensual hierarchy pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V34 Lingerie Exclusive Edition — 50 prompts*
+*V34 Lingerie Exclusive Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-04*
+*Actualizado: 2026-01-09*

@@ -370,9 +370,322 @@ Professional podium duo photography. HELENA: Sacha Massacre look on podium secon
 
 ---
 
+## 🏅 IV. MISS DOLL — PINK SPORTS SENSUAL (15 PROMPTS)
+
+#### 51. Miss Doll - Locker Room Selfie
+
+```
+Professional locker photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin gym fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes sweat-proof, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK sports bra and shorts, taking mirror selfie in locker room. Post-workout glow. PLEASER FLAMINGO-808 pink 8-inch platform heels beside locker. Women's locker. Sensual selfie pose. Expression: gains check. Locker selfie. Seductive glamour photography, locker room lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Miss Doll - Massage Table
+
+```
+Professional massage photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin relaxed. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Lying on massage table face up, PINK towel draped minimally. Sports massage recovery. PLEASER FLAMINGO-808 pink 8-inch platform heels beside table. Spa recovery room. Sensual massage pose. Expression: recovery bliss. Massage table. Seductive glamour photography, spa soft lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Miss Doll - Trophy Celebration
+
+```
+Professional celebration photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin victory glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes sparkling, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Holding GOLD TROPHY above head victorious. Wearing PINK athletic uniform winner. Confetti falling. PLEASER FLAMINGO-808 pink 8-inch platform heels. Victory podium. Sensual champion pose. Expression: I won! Trophy girl. Seductive glamour photography, victory spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Miss Doll - Pool Dive
+
+```
+Professional diving photography of glamorous woman with platinum blonde bob (no bangs) mid-dive. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP waterproof: dramatic eyes, thick eyeliner, false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK competition swimsuit, mid-dive perfect form from high board. Arms extended. Pool below. Sensual athletic pose. Expression: perfect entry. Diver girl. Seductive glamour photography, pool arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Miss Doll - Aerobics Instructor
+
+```
+Professional aerobics photography of glamorous woman with platinum blonde bob (no bangs) in headband. Flawless porcelain skin energetic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing retro PINK high-cut leotard 80s style, leg warmers. Leading aerobics class, high kick. PLEASER FLAMINGO-808 pink 8-inch platform heels. Aerobics studio. Sensual instructor pose. Expression: and kick! Aerobics queen. Seductive glamour photography, neon studio lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Miss Doll - Softball Batter
+
+```
+Professional softball photography of glamorous woman with platinum blonde bob (no bangs) under helmet. Flawless porcelain skin game ready. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK softball uniform, at bat perfect stance. Bat raised waiting for pitch. PLEASER removed, softball cleats pink. Diamond field. Sensual batter pose. Expression: home run coming. Softball batter. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Miss Doll - Dance Team Captain
+
+```
+Professional dance photography of glamorous woman with platinum blonde bob (no bangs) in performance hair. Flawless porcelain skin stage ready. HEAVY GLAMOUR MAKEUP: dramatic stage eyes with crystals, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sparkly dance team uniform, pom detail. Leading dance formation. PLEASER FLAMINGO-808 pink 8-inch platform heels. Basketball court halftime. Sensual dance pose. Expression: hit the mark. Dance captain. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Miss Doll - Rock Climbing
+
+```
+Professional climbing photography of glamorous woman with platinum blonde bob (no bangs) chalk dust. Flawless porcelain skin athletic determination. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK sports bra and shorts, on climbing wall. Chalked hands gripping hold. Looking up at next move. PLEASER removed, climbing shoes pink. Indoor climb wall. Sensual climber pose. Expression: next hold. Rock climber. Seductive glamour photography, gym lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Miss Doll - Spinning Class
+
+```
+Professional spin photography of glamorous woman with platinum blonde bob (no bangs) sweat glow. Flawless porcelain skin cardio flush. HEAVY GLAMOUR MAKEUP sweat-proof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. On PINK spin bike, standing pedaling intense. PINK athletic set. Spin class behind. PLEASER removed, cycling shoes. Spin studio. Sensual cycling pose. Expression: burn zone. Spin queen. Seductive glamour photography, spin class lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Miss Doll - Badminton Smash
+
+```
+Professional badminton photography of glamorous woman with platinum blonde bob (no bangs) action shot. Flawless porcelain skin athletic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pleated skirt uniform, mid-smash racket high. Shuttlecock above. Jump smash moment. PLEASER FLAMINGO-808 pink 8-inch platform heels on court. Indoor court. Sensual smash pose. Expression: match winner. Badminton queen. Seductive glamour photography, action freeze lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Miss Doll - Pole Vault
+
+```
+Professional pole vault photography of glamorous woman with platinum blonde bob (no bangs) mid-vault. Flawless porcelain skin airborne. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick eyeliner, false lashes, arched brows, full glossy lips. Human realistic face. In PINK track uniform, inverted over bar, pole bending. Perfect form mid-vault. PLEASER removed, track spikes. Stadium track. Sensual vault pose. Expression: clearing the bar. Pole vaulter. Seductive glamour photography, stadium action lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Miss Doll - Rowing Team
+
+```
+Professional rowing photography of glamorous woman with platinum blonde bob (no bangs) athletic. Flawless porcelain skin water mist. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK rowing uni-suit, rowing in boat. Oar pulled back powerful stroke. River morning. Sensual rowing pose. Expression: stroke power. Rower girl. Seductive glamour photography, river morning lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Miss Doll - Hurdler
+
+```
+Professional hurdles photography of glamorous woman with platinum blonde bob (no bangs) mid-hurdle. Flawless porcelain skin powerful. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick eyeliner, false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK track uniform, clearing hurdle perfect form. Extended lead leg. Track stadium. PLEASER removed, track spikes pink. Track lane. Sensual hurdles pose. Expression: flying over. Hurdler queen. Seductive glamour photography, freeze frame lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Miss Doll - Ice Hockey
+
+```
+Professional hockey photography of glamorous woman with platinum blonde bob (no bangs) helmet off. Flawless porcelain skin ice fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK modified hockey uniform, stick in hand. On ice rink ready to play. Helmet under arm. PLEASER removed, hockey skates pink. Ice arena. Sensual hockey pose. Expression: game on. Hockey girl. Seductive glamour photography, ice arena lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Miss Doll - CrossFit Box Jump
+
+```
+Professional CrossFit photography of glamorous woman with platinum blonde bob (no bangs) explosive. Flawless porcelain skin workout sweat. HEAVY GLAMOUR MAKEUP sweat-proof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. In PINK sports bra and shorts, mid box jump explosive power. Plyo box. PLEASER removed, training shoes pink. CrossFit box. Sensual explosive pose. Expression: full send. CrossFit queen. Seductive glamour photography, box lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 🦇 V. HELENA — DARK ATHLETIC SENSUAL (15 PROMPTS)
+
+#### 66. Helena - Dark Locker Dominance
+
+```
+Professional locker photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet from shower. Pale porcelain white skin locker room. Full glossy black cherry lips. In BLACK sports bra standing dominant in locker room. Black towel around neck. Looking down at camera. PLEASER RAPTURE-1020 black 8-inch boots. Dark locker room. Sensual dominant pose. Expression: my territory. Locker dominant. Seductive glamour photography, locker harsh lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Helena - Night Runner
+
+```
+Professional running photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing behind while running. Pale porcelain white skin night glow. Full glossy dark red lips focused. Wearing BLACK running outfit reflective strips. Running through city at night. PLEASER RAPTURE-1020 black 8-inch boots running style. Night city streets. Sensual runner pose. Expression: midnight miles. Night runner. Seductive glamour photography, city night lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Helena - Shadow Boxing
+
+```
+Professional boxing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in tight braid. Pale porcelain white skin warrior. Full glossy dark red lips determined. In BLACK boxing sports bra and shorts, shadow boxing in mirror. Aggressive punches reflection. PLEASER RAPTURE-1020 black 8-inch boxing boots. Dark boxing gym. Sensual fighter pose. Expression: fighting shadows. Shadow boxer. Seductive glamour photography, gym mirror lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Helena - Dark Ballerina
+
+```
+Professional ballet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in severe ballet bun. Pale porcelain white skin dancer graceful. Full glossy black lips. In BLACK ballet leotard and BLACK tutu, en pointe perfect. Dark stage performance. Ballet slippers black satin. Ballet stage. Sensual dark ballet pose. Expression: black swan rising. Dark ballerina. Seductive glamour photography, stage dramatic lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Helena - Weightlifter
+
+```
+Professional weightlifting photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tight bun. Pale porcelain white skin powerful. Full glossy dark cherry lips concentration. Wearing BLACK weightlifting singlet. Mid-clean and jerk heavy barbell. Chalk on hands. PLEASER RAPTURE-1020 black 8-inch weightlifting boots. Lifting platform. Sensual power pose. Expression: max effort. Weightlifter queen. Seductive glamour photography, platform harsh lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Helena - Capoeira Fighter
+
+```
+Professional capoeira photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild and free. Pale porcelain white skin acrobatic. Full glossy dark red lips. Wearing BLACK capoeira pants, BLACK sports bra. Mid-kick capoeira acrobatic. Brazilian martial art flow. PLEASER RAPTURE-1020 black 8-inch boots. Roda circle. Sensual warrior pose. Expression: ginga flow. Capoeira fighter. Seductive glamour photography, dramatic action lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Helena - Javelin Thrower
+
+```
+Professional javelin photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair athletic ponytail. Pale porcelain white skin powerful. Full glossy dark red lips focused. Wearing BLACK track uniform, javelin in hand release pose. Track and field throw. PLEASER removed, track spikes black. Stadium field. Sensual throw pose. Expression: releasing power. Javelin queen. Seductive glamour photography, stadium action lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Helena - Mountain Climber
+
+```
+Professional climbing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair windswept. Pale porcelain white skin alpine. Full glossy dark lips determined. Wearing BLACK climbing gear, on rock face challenging climb. Rope visible, hands on hold. PLEASER RAPTURE-1020 black 8-inch boots replaced, climbing shoes. Mountain rock. Sensual climber pose. Expression: summit or nothing. Mountain climber. Seductive glamour photography, mountain dramatic lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Helena - CrossFit Rope Climb
+
+```
+Professional CrossFit photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair braided. Pale porcelain white skin workout sweat. Full glossy dark cherry lips effort. Wearing BLACK sports bra and shorts, climbing rope in CrossFit box. Arms pulling body up. PLEASER RAPTURE-1020 black 8-inch boots beside. CrossFit gym. Sensual climb pose. Expression: no stopping. Rope climber. Seductive glamour photography, bright CrossFit lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Helena - Dark Diver
+
+```
+Professional diving photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slicked wet. Pale porcelain white skin water glow. Full glossy dark purple lips. In BLACK competition swimsuit, emerging from pool after dive. Water cascading off body. Pool edge. Sensual emergence pose. Expression: perfect entry. Dark diver. Seductive glamour photography, pool underwater lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Helena - Taekwondo Kick
+
+```
+Professional martial arts photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flying with kick. Pale porcelain white skin powerful. Full glossy red lips. Wearing BLACK dobok uniform, high kick perfect form. BLACK belt visible. PLEASER RAPTURE-1020 black 8-inch boots style. Dojang studio. Sensual kick pose. Expression: striking darkness. Taekwondo queen. Seductive glamour photography, dojo dramatic lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Helena - Rowing Power
+
+```
+Professional rowing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair athletic braid. Pale porcelain white skin determined. Full glossy dark cherry lips. In BLACK rowing uniform, on rowing machine full power stroke. Dark gym behind. PLEASER removed, rowing shoes. Dark gym. Sensual rowing pose. Expression: maximum drive. Rower dark. Seductive glamour photography, gym lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Helena - Dark Cheerleader Stunt
+
+```
+Professional stunt photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in cheer ponytail. Pale porcelain white skin athletic. Full glossy dark red lips. Wearing BLACK cheerleader uniform, in basket toss mid-air. Body extended high. Dark stadium. PLEASER RAPTURE-1020 black 8-inch boots cheer style. Night stadium. Sensual stunt pose. Expression: flying high. Dark stunter. Seductive glamour photography, stadium night lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Helena - Dark Tennis Serve
+
+```
+Professional tennis photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ponytail. Pale porcelain white skin focused. Full glossy black cherry lips. Wearing BLACK tennis dress ultra short. Powerful serve ball toss moment. BLACK racket. PLEASER RAPTURE-1020 black 8-inch boots on court. Night court. Sensual serve pose. Expression: ace incoming. Dark server. Seductive glamour photography, night court lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Helena - Dark Gymnast
+
+```
+Professional gymnastics photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in competition bun. Pale porcelain white skin graceful. Full glossy dark cherry lips. Wearing BLACK sparkly leotard crystals. On balance beam perfect pose. Competition arena. PLEASER removed, gymnastics points. Beam routine. Sensual balance pose. Expression: perfect balance. Dark gymnast. Seductive glamour photography, arena spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👯 VI. DUO — ATHLETIC SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Locker Room Together
+
+```
+Professional locker duo photography. HELENA: Sacha Massacre look in black sports bra changing, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) in pink towel post-shower, HEAVY GLAMOUR MAKEUP, pink platform heels beside. Both in locker room after workout. Sensual locker pose. Expression: workout done. Locker duo. Seductive glamour photography, locker room lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Personal Training
+
+```
+Professional training duo photography. HELENA: Sacha Massacre look as personal trainer in black, spotting Miss Doll, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) doing weighted squat, HEAVY GLAMOUR MAKEUP, pink gym outfit, pink platform heels beside. Training session intimate. Gym floor. Sensual training pose. Expression: one more rep. Training duo. Seductive glamour photography, gym lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Tandem Cycling
+
+```
+Professional cycling duo photography. HELENA: Sacha Massacre look front of tandem bike, black cycling outfit, driving, black 8-inch boots replaced. MISS DOLL: platinum blonde bob (no bangs) back of tandem, HEAVY GLAMOUR MAKEUP, pink cycling outfit, pink platform heels replaced. Tandem road bike together. Scenic road. Sensual cycling pose. Expression: synchronized pedaling. Cycling duo. Seductive glamour photography, outdoor cycling lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Martial Arts Spar
+
+```
+Professional sparring duo photography. HELENA: Sacha Massacre look in black gi, attacking stance, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) in pink gi, HEAVY GLAMOUR MAKEUP, defensive stance, pink platform heels. Both sparring martial arts. Dojo mats. Sensual combat pose. Expression: friendly spar. Sparring duo. Seductive glamour photography, dojo lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Synchronized Diving
+
+```
+Professional diving duo photography. HELENA: Sacha Massacre look in black swimsuit, mid-dive position. MISS DOLL: platinum blonde bob (no bangs) in pink swimsuit, HEAVY GLAMOUR MAKEUP waterproof, matching dive position. Both synchronized diving from platform. Pool below. Sensual sync pose. Expression: mirrored perfection. Diving duo. Seductive glamour photography, pool action lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Cheerleader Pyramid
+
+```
+Professional cheer duo photography. HELENA: Sacha Massacre look as base in black cheer uniform, holding Miss Doll steady, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as flyer atop Helena, HEAVY GLAMOUR MAKEUP, pink cheer uniform, pink platform heels. Two-person stunt. Stadium field. Sensual stunt pose. Expression: trust and lift. Cheer stunt duo. Seductive glamour photography, stadium lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Stretching Partners
+
+```
+Professional stretch duo photography. HELENA: Sacha Massacre look stretching Miss Doll's leg, black yoga outfit, helping partner, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) getting assisted stretch, HEAVY GLAMOUR MAKEUP, pink yoga outfit, pink platform heels beside. Partner stretching routine. Yoga studio. Sensual stretch pose. Expression: deeper stretch. Stretch duo. Seductive glamour photography, studio soft lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Beach Run
+
+```
+Professional running duo photography. HELENA: Sacha Massacre look running on beach, black sports bikini, splashing waves, black 8-inch boots replaced. MISS DOLL: platinum blonde bob (no bangs) running alongside, HEAVY GLAMOUR MAKEUP, pink sports bikini, pink platform heels replaced. Both running beach edge sunrise. Sensual run pose. Expression: beach cardio. Beach run duo. Seductive glamour photography, beach sunrise lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Rock Climbing Belay
+
+```
+Professional climbing duo photography. HELENA: Sacha Massacre look belaying Miss Doll, black climbing gear, holding rope, black 8-inch boots replaced climbing shoes. MISS DOLL: platinum blonde bob (no bangs) climbing wall above, HEAVY GLAMOUR MAKEUP, pink climbing outfit, pink climbing shoes. Trust climbing together. Indoor wall. Sensual belay pose. Expression: I've got you. Climbing duo. Seductive glamour photography, climbing wall lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Ice Skating Pairs
+
+```
+Professional skating duo photography. HELENA: Sacha Massacre look lifting Miss Doll in pairs routine, black skating dress, black skates. MISS DOLL: platinum blonde bob (no bangs) being lifted gracefully, HEAVY GLAMOUR MAKEUP, pink skating dress, white skates. Pairs ice dance. Ice arena. Sensual pairs pose. Expression: artistic chemistry. Skating pairs duo. Seductive glamour photography, ice spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Sauna Recovery
+
+```
+Professional sauna duo photography. HELENA: Sacha Massacre look in black towel, relaxing in sauna, sweating, black 8-inch boots outside. MISS DOLL: platinum blonde bob (no bangs) beside in pink towel, HEAVY GLAMOUR MAKEUP heat resistant, sweating, pink platform heels outside. Both in wooden sauna. Sensual heat pose. Expression: sweating together. Sauna duo. Seductive glamour photography, warm sauna lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Protein Bar
+
+```
+Professional nutrition duo photography. HELENA: Sacha Massacre look drinking black protein shake, black gym outfit, post-workout, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) drinking pink smoothie, HEAVY GLAMOUR MAKEUP, pink gym outfit, pink platform heels. Both at gym juice bar refueling. Sensual nutrition pose. Expression: protein time. Nutrition duo. Seductive glamour photography, gym cafe lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Dance Routine
+
+```
+Professional dance duo photography. HELENA: Sacha Massacre look in black dance outfit, synchronized routine with Miss Doll, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) in pink dance outfit, HEAVY GLAMOUR MAKEUP, matching choreography, pink platform heels. Both performing dance routine. Studio mirrors. Sensual dance pose. Expression: choreography queens. Dance duo. Seductive glamour photography, studio dance lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Boxing Training
+
+```
+Professional boxing duo photography. HELENA: Sacha Massacre look holding pads for Miss Doll, black sports bra, trainer role, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) punching pads hard, HEAVY GLAMOUR MAKEUP, pink boxing gloves, pink sports bra, pink platform heels replaced. Boxing training together. Gym setting. Sensual training pose. Expression: hit harder. Boxing training duo. Seductive glamour photography, gym lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Acro Yoga
+
+```
+Professional acro duo photography. HELENA: Sacha Massacre look as base lying on back, feet up holding Miss Doll, black yoga outfit. MISS DOLL: platinum blonde bob (no bangs) as flyer balanced on Helena's feet, HEAVY GLAMOUR MAKEUP, pink yoga outfit. Acro yoga flying pose. Outdoor grass. Sensual acro pose. Expression: perfect balance. Acro yoga duo. Seductive glamour photography, outdoor yoga lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Medal Ceremony
+
+```
+Professional ceremony duo photography. HELENA: Sacha Massacre look receiving silver medal, black athletic uniform, black 8-inch boots on podium. MISS DOLL: platinum blonde bob (no bangs) receiving gold medal, HEAVY GLAMOUR MAKEUP, pink athletic uniform, pink platform heels on higher podium. Award ceremony together. Sensual victory pose. Expression: proud together. Medal duo. Seductive glamour photography, ceremony spotlight, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Golf Cart
+
+```
+Professional golf duo photography. HELENA: Sacha Massacre look driving golf cart, black golf outfit, black 8-inch boots on pedal. MISS DOLL: platinum blonde bob (no bangs) passenger with pink drink, HEAVY GLAMOUR MAKEUP, pink golf outfit, pink platform heels. Driving golf cart between holes. Sunny course. Sensual golf cart pose. Expression: 19th hole bound. Golf cart duo. Seductive glamour photography, course sunny lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Sailing Team
+
+```
+Professional sailing duo photography. HELENA: Sacha Massacre look manning sail, black sailing outfit, wind in hair, black 8-inch boots on deck. MISS DOLL: platinum blonde bob (no bangs) at helm, HEAVY GLAMOUR MAKEUP, pink sailing outfit, pink platform heels on deck. Both sailing yacht together. Ocean behind. Sensual sailing pose. Expression: sea sisters. Sailing duo. Seductive glamour photography, ocean golden lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Marathon Finish
+
+```
+Professional marathon duo photography. HELENA: Sacha Massacre look crossing marathon finish arm in arm with Miss Doll, black running outfit, exhausted happy, black 8-inch boots replaced running shoes. MISS DOLL: platinum blonde bob (no bangs) crossing together, HEAVY GLAMOUR MAKEUP smudged sweat, pink running outfit, pink running shoes. Finish line banner. Sensual finish pose. Expression: we did it. Marathon duo. Seductive glamour photography, finish line lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Ultimate Sports Champions
+
+```
+Professional champion duo photography. HELENA: Sacha Massacre look in BLACK athletic champion outfit, trophies behind, flexing together, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) in PINK athletic champion outfit, HEAVY GLAMOUR MAKEUP, matching flex pose, pink platform heels. Both as ultimate sports champions medals everywhere. Trophy room. Sensual champion pose. Expression: undefeated together. Champion duo. Seductive glamour photography, trophy room golden lighting, sports aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V33 Sports & Athletic Edition — 50 prompts*
+*V33 Sports & Athletic Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-04*
+*Actualizado: 2026-01-09*

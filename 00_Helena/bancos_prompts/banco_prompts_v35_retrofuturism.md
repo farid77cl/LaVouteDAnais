@@ -370,9 +370,322 @@ Professional retro futurism duo photography. HELENA: Sacha Massacre look celebra
 
 ---
 
+## 🚀 IV. MISS DOLL — PINK RETRO FUTURE SENSUAL (15 PROMPTS)
+
+#### 51. Miss Doll - Space Bedroom
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). HEAVY GLAMOUR MAKEUP. Wearing PINK metallic negligee, lying on floating bed 60s future. PLEASER FLAMINGO-808 silver heels. Space apartment. Sensual bedroom pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 52. Miss Doll - Robot Companion
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK chrome bodysuit, being served by robot butler. PLEASER FLAMINGO-808 chrome heels. Future penthouse. Sensual service pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 53. Miss Doll - Teleporter Arrival
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK metallic dress, mid-teleportation sparkles. PLEASER FLAMINGO-808 pink heels. Teleport pad. Sensual arrival pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 54. Miss Doll - Flying Convertible
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK driving outfit, in pink flying convertible. PLEASER FLAMINGO-808 silver heels. Sky traffic sunset. Sensual driver pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 55. Miss Doll - Moon Pool
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK metallic bikini, in zero-gravity pool Moon colony. PLEASER FLAMINGO-808 clear heels beside. Earth visible. Sensual floating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 56. Miss Doll - Space Disco
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK holographic disco outfit, dancing in space disco. PLEASER FLAMINGO-808 mirror heels. Zero-gravity dance floor. Sensual dance pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 57. Miss Doll - Vitamin Pill
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK jumpsuit, taking meal vitamin pill futuristically. PLEASER FLAMINGO-808 pink heels. Space kitchen. Sensual eating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 58. Miss Doll - Jetpack Girl
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK flight suit, jetpack on back floating. PLEASER FLAMINGO-808 pink heels. City air traffic. Sensual flying pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 59. Miss Doll - Space Salon
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK salon robe, getting robot makeover. PLEASER FLAMINGO-808 pink heels. Space beauty salon. Sensual salon pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 60. Miss Doll - Hologram Date
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK dress, on holographic video date. PLEASER FLAMINGO-808 pink heels. Future bedroom. Sensual dating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 61. Miss Doll - Space Mall
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK shopping outfit, at space mall with robot bags. PLEASER FLAMINGO-808 pink heels. Orbital mall. Sensual shopping pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 62. Miss Doll - Anti-Gravity Yoga
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK yoga outfit, zero-gravity yoga pose floating. PLEASER FLAMINGO-808 pink heels beside. Space yoga studio. Sensual floating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 63. Miss Doll - Space Wedding
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK chrome bridal gown, space wedding venue. PLEASER FLAMINGO-808 crystal heels. Orbital chapel. Sensual bridal pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 64. Miss Doll - Astro Beach
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK space bikini, on artificial beach dome Mars. PLEASER FLAMINGO-808 clear heels. Mars colony beach. Sensual beach pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 65. Miss Doll - Space Selfie
+
+```
+Professional retro futurism photography of glamorous woman with platinum blonde bob (no bangs). Wearing PINK spacesuit partially unzipped, taking selfie with Earth. PLEASER FLAMINGO-808 pink heels beside helmet. Space station window. Sensual selfie pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
+## 🦇 V. HELENA — DARK RETRO FUTURE SENSUAL (10 PROMPTS)
+
+#### 66. Helena - Dark Space Queen
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK chrome gown futuristic, dark queen throne. PLEASER RAPTURE-1020 8-inch boots. Dark space throne. Sensual queen pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 67. Helena - Void Commander
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK military space suit, commanding dark fleet. PLEASER RAPTURE-1020 8-inch boots. Dark ship bridge. Sensual commander pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 68. Helena - Dark Nebula
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK holographic gown, standing in dark nebula. PLEASER RAPTURE-1020 8-inch boots. Nebula observation. Sensual nebula pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 69. Helena - Black Hole Edge
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK cosmic dress gravity pulling, near black hole. PLEASER RAPTURE-1020 8-inch boots. Event horizon. Sensual gravity pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 70. Helena - Dark Matter Lab
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK scientist coat short, dark matter experiment. PLEASER RAPTURE-1020 8-inch boots. Dark lab. Sensual scientist pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 71. Helena - Vampire Space
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK space cape flowing, vampire in space. PLEASER RAPTURE-1020 8-inch boots. Abandoned station. Sensual vampire pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 72. Helena - Time Rift
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK temporal suit, emerging from time portal. PLEASER RAPTURE-1020 8-inch boots. Time rift. Sensual emergence pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 73. Helena - Dark Robot Creator
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK lab coat, creating dark robots. PLEASER RAPTURE-1020 8-inch boots. Robot factory dark. Sensual creator pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 74. Helena - Dimension Traveler
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK dimension suit, between parallel worlds. PLEASER RAPTURE-1020 8-inch boots. Dimension portal. Sensual travel pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 75. Helena - Dark Star Singer
+
+```
+Professional retro futurism photography of Helena Sacha Massacre look. BLACK sequin space gown, singing on dark stage. PLEASER RAPTURE-1020 8-inch boots. Dark space club. Sensual singer pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
+## 👯 VI. DUO — RETRO FUTURE SENSUAL (25 PROMPTS)
+
+#### 76. Duo - Space Apartment
+
+```
+Professional retro duo photography. HELENA: black metallic robe, dark side. MISS DOLL: platinum blonde bob (no bangs) pink robe, HEAVY GLAMOUR MAKEUP. Shared space apartment. Sensual roommates pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 77. Duo - Flying Car Date
+
+```
+Professional retro duo photography. HELENA: driving black flying car. MISS DOLL: platinum blonde bob (no bangs) passenger pink, HEAVY GLAMOUR MAKEUP. Sky traffic sunset. Sensual date pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 78. Duo - Teleport Together
+
+```
+Professional retro duo photography. HELENA: materializing black sparkles. MISS DOLL: platinum blonde bob (no bangs) pink sparkles, HEAVY GLAMOUR MAKEUP. Teleport pad. Sensual arrival pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 79. Duo - Moon Dance
+
+```
+Professional retro duo photography. HELENA: black space dress dancing. MISS DOLL: platinum blonde bob (no bangs) pink space dress, HEAVY GLAMOUR MAKEUP. Moon club. Sensual dance pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 80. Duo - Space Spa
+
+```
+Professional retro duo photography. HELENA: in dark space spa treatment. MISS DOLL: platinum blonde bob (no bangs) pink treatment, HEAVY GLAMOUR MAKEUP. Zero-gravity spa. Sensual spa pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 81. Duo - Robot Servants
+
+```
+Professional retro duo photography. HELENA: served by black robot. MISS DOLL: platinum blonde bob (no bangs) served by pink robot, HEAVY GLAMOUR MAKEUP. Future penthouse. Sensual service pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 82. Duo - Space Shopping
+
+```
+Professional retro duo photography. HELENA: black shopping outfit. MISS DOLL: platinum blonde bob (no bangs) pink outfit, HEAVY GLAMOUR MAKEUP. Orbital mall together. Sensual shopping pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 83. Duo - Jetpack Race
+
+```
+Professional retro duo photography. HELENA: black jetpack racing. MISS DOLL: platinum blonde bob (no bangs) pink jetpack, HEAVY GLAMOUR MAKEUP. Sky race. Sensual flying pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 84. Duo - Hologram Show
+
+```
+Professional retro duo photography. HELENA: performing as hologram. MISS DOLL: platinum blonde bob (no bangs) hologram too, HEAVY GLAMOUR MAKEUP. Entertainment show. Sensual performance pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 85. Duo - Mars Colony
+
+```
+Professional retro duo photography. HELENA: black Mars colonist outfit. MISS DOLL: platinum blonde bob (no bangs) pink colonist, HEAVY GLAMOUR MAKEUP. Mars dome. Sensual colonist pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 86. Duo - Space Yoga
+
+```
+Professional retro duo photography. HELENA: zero-gravity yoga black. MISS DOLL: platinum blonde bob (no bangs) floating yoga pink, HEAVY GLAMOUR MAKEUP. Space studio. Sensual floating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 87. Duo - Future Fashion
+
+```
+Professional retro duo photography. HELENA: black chrome runway look. MISS DOLL: platinum blonde bob (no bangs) pink chrome, HEAVY GLAMOUR MAKEUP. Space fashion show. Sensual model pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 88. Duo - Space Kitchen
+
+```
+Professional retro duo photography. HELENA: cooking with floating pans. MISS DOLL: platinum blonde bob (no bangs) helping cook, HEAVY GLAMOUR MAKEUP. Future kitchen. Sensual cooking pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 89. Duo - Astro Beach
+
+```
+Professional retro duo photography. HELENA: black space bikini on beach. MISS DOLL: platinum blonde bob (no bangs) pink bikini, HEAVY GLAMOUR MAKEUP. Mars artificial beach. Sensual beach pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 90. Duo - Space Movie Night
+
+```
+Professional retro duo photography. HELENA: watching holographic movie. MISS DOLL: platinum blonde bob (no bangs) popcorn floating, HEAVY GLAMOUR MAKEUP. Future living room. Sensual movie pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 91. Duo - Zero-G Pool
+
+```
+Professional retro duo photography. HELENA: in floating water sphere. MISS DOLL: platinum blonde bob (no bangs) in same sphere, HEAVY GLAMOUR MAKEUP. Moon pool. Sensual floating pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 92. Duo - Space Sleepover
+
+```
+Professional retro duo photography. HELENA: in black space pajamas. MISS DOLL: platinum blonde bob (no bangs) pink pajamas, HEAVY GLAMOUR MAKEUP. Floating beds. Sensual sleepover pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 93. Duo - Future Brunch
+
+```
+Professional retro duo photography. HELENA: eating pill breakfast. MISS DOLL: platinum blonde bob (no bangs) drinking tube juice, HEAVY GLAMOUR MAKEUP. Space cafe. Sensual brunch pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 94. Duo - Rocket Girls
+
+```
+Professional retro duo photography. HELENA: on black rocket nose. MISS DOLL: platinum blonde bob (no bangs) on pink rocket, HEAVY GLAMOUR MAKEUP. Launch pad. Sensual pin-up pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 95. Duo - Space Selfie
+
+```
+Professional retro duo photography. HELENA: taking space selfie together. MISS DOLL: platinum blonde bob (no bangs) posing for selfie, HEAVY GLAMOUR MAKEUP. Space station window. Sensual selfie pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 96. Duo - Alien Planet
+
+```
+Professional retro duo photography. HELENA: exploring alien world. MISS DOLL: platinum blonde bob (no bangs) discovering together, HEAVY GLAMOUR MAKEUP. Alien landscape. Sensual explorer pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 97. Duo - Space Wedding
+
+```
+Professional retro duo photography. HELENA: in black chrome bridal. MISS DOLL: platinum blonde bob (no bangs) pink bridal, HEAVY GLAMOUR MAKEUP. Orbital chapel. Sensual brides pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 98. Duo - Command Bridge
+
+```
+Professional retro duo photography. HELENA: captain chair commanding. MISS DOLL: platinum blonde bob (no bangs) first officer, HEAVY GLAMOUR MAKEUP. Starship bridge. Sensual command pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 99. Duo - Year 3000 Kiss
+
+```
+Professional retro duo photography. HELENA: New Year 3000 kiss. MISS DOLL: platinum blonde bob (no bangs) kissing at midnight, HEAVY GLAMOUR MAKEUP. Space station party. Sensual kiss pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+#### 100. Duo - Ultimate Future Queens
+
+```
+Professional retro duo photography. HELENA: as dark space empress commanding galaxies, black chrome gown, 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as pink space princess at side, HEAVY GLAMOUR MAKEUP. Galactic throne. Sensual royalty pose. Seductive glamour photography. Photorealistic 8k. Vertical.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V35 Retro Futurism Edition — 50 prompts*
+*V35 Retro Futurism Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-04*
+*Actualizado: 2026-01-09*
