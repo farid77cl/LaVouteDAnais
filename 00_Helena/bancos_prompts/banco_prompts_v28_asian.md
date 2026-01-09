@@ -370,9 +370,322 @@ Professional shrine duo photography. HELENA: Sacha Massacre look as DARK miko pr
 
 ---
 
+## 🏯 IV. HELENA — DARK ASIAN SENSUAL (15 PROMPTS)
+
+#### 51. Helena - Sukeban Gang Leader
+
+```
+Professional gang photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair disheveled bancho style. Pale porcelain white skin intimidating. Full glossy dark red lips sneering. Wearing long BLACK bomber jacket sukeban style over school uniform. Chain weapon coiled. PLEASER RAPTURE-1020 black 8-inch boots combat style. Tokyo back alley. Sensual gang boss pose. Expression: you want trouble? Sukeban boss. Seductive glamour photography, gritty alley lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 52. Helena - Kitsune Seduction
+
+```
+Professional fox spirit photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing supernatural. Pale porcelain white skin fox spirit glow. Full glossy blood red lips. Wearing BLACK kimono with painted golden foxes, fox ears visible, nine tails implied. Fox mask beside. PLEASER RAPTURE-1020 black 8-inch boots. Moonlit shrine. Sensual kitsune pose. Expression: I'll steal your heart. Fox spirit. Seductive glamour photography, moonlit supernatural lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 53. Helena - Ramen Shop Midnight
+
+```
+Professional ramen photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair pulled back eating. Pale porcelain white skin late night. Full glossy nude lips slurping. Wearing BLACK casual outfit late night eating. Sitting at tiny ramen counter, steam rising. Chopsticks in hand. PLEASER RAPTURE-1020 black 8-inch boots on stool. Tiny Tokyo ramen shop. Sensual eating pose. Expression: midnight hunger. Ramen girl. Seductive glamour photography, steam and neon lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 54. Helena - Pachinko Queen
+
+```
+Professional pachinko photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair reflecting machine lights. Pale porcelain white skin arcade glow. Full glossy dark plum lips focused. Wearing BLACK short dress pachinko hall. Playing with complete focus, balls cascading. PLEASER RAPTURE-1020 black 8-inch boots. Pachinko parlor. Sensual gaming pose. Expression: jackpot tonight. Pachinko queen. Seductive glamour photography, neon machine lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 55. Helena - Japanese Horror Nurse
+
+```
+Professional horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair disheveled horror style. Pale porcelain white skin deathly. Full glossy pale lips unsettling. Wearing bloody WHITE and BLACK nurse uniform Japanese horror style. Holding giant syringe. Dark hospital corridor. PLEASER RAPTURE-1020 white stained 8-inch boots. Abandoned hospital. Sensual horror pose. Expression: time for injection. Horror nurse. Seductive glamour photography, flickering horror lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 56. Helena - Bunraku Puppet Master
+
+```
+Professional puppet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair hidden under black hood puppet master. Pale porcelain white skin shadowy. Full glossy dark lips mysterious. Wearing BLACK traditional bunraku puppeteer outfit. Controlling elaborate puppet that resembles Miss Doll. PLEASER RAPTURE-1020 black 8-inch boots on platform. Bunraku theater. Sensual master pose. Expression: dance my puppet. Puppet master. Seductive glamour photography, theatrical shadow lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 57. Helena - Imperial Concubine
+
+```
+Professional imperial photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair elaborate imperial style. Pale porcelain white skin imperial pampered. Full glossy crimson lips forbidden. Wearing BLACK and GOLD concubine hanfu robes luxurious. In private chambers, silk everywhere. PLEASER RAPTURE-1020 gold 8-inch heels. Imperial palace chambers. Sensual concubine pose. Expression: the emperor's favorite. Concubine. Seductive glamour photography, silk and candle lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 58. Helena - Sake Bar Hostess
+
+```
+Professional hostess photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair hostess styling. Pale porcelain white skin sake glow. Full glossy wine red lips entertaining. Wearing BLACK hostess dress elegant Ginza style. Pouring sake for client (implied). Private hostess club booth. PLEASER RAPTURE-1020 black 8-inch heels. Ginza hostess club. Sensual pouring pose. Expression: another bottle? Hostess. Seductive glamour photography, intimate club lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 59. Helena - Tsukumogami Living Object
+
+```
+Professional supernatural photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair transformed look. Pale porcelain white skin supernatural. Full glossy black lips inhuman. Wearing outfit that transforms into abandoned kimono, becoming the spirit of old clothing. PLEASER RAPTURE-1020 black 8-inch boots. Antique shop. Sensual spirit pose. Expression: 100 years old, now alive. Tsukumogami. Seductive glamour photography, dusty antique lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 60. Helena - Taiko Drummer
+
+```
+Professional taiko photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in hachimaki headband wild. Pale porcelain white skin perspiring. Full glossy red lips exertion. Wearing BLACK taiko drummer happi coat open revealing sarashi band. Drumsticks mid-strike on enormous taiko. PLEASER RAPTURE-1020 black 8-inch boots wide stance. Festival stage. Sensual drumming pose. Expression: thunder beat. Taiko drummer. Seductive glamour photography, festival dramatic lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 61. Helena - Cursed Video Girl
+
+```
+Professional horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair covering half face Sadako. Pale porcelain white skin static distorted. Full glossy dark lips horror. Wearing WHITE dress tattered ghost. Emerging from old TV screen, hands reaching. PLEASER RAPTURE-1020 white 8-inch boots through screen. Dark room with old TV. Sensual horror emergence pose. Expression: 7 days. Cursed video. Seductive glamour photography, TV static lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 62. Helena - Street Racing Drift Girl
+
+```
+Professional drift photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair windswept speed. Pale porcelain white skin adrenaline. Full glossy red lips focused. Wearing BLACK racing jacket over crop top, tight shorts. Leaning from drift car window. Tokyo streets blur. PLEASER RAPTURE-1020 black 8-inch boots on pedals. Tokyo drift scene. Sensual drift pose. Expression: Initial D. Drift girl. Seductive glamour photography, motion blur neon lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 63. Helena - Shogun's Woman
+
+```
+Professional feudal photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair elaborate ooku style. Pale porcelain white skin castle pampered. Full glossy dark cherry lips powerful. Wearing BLACK formal kimono multiple layers ooku lady. In private chambers of shogun's harem. PLEASER RAPTURE-1020 black 8-inch heels. Edo castle. Sensual ooku pose. Expression: most powerful woman. Shogun's woman. Seductive glamour photography, castle interior lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 64. Helena - Vending Machine Night
+
+```
+Professional urban photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair late night messy. Pale porcelain white skin vending glow. Full glossy nude lips thirsty. Wearing BLACK casual street fashion. At Japanese vending machine row, buying drink, lit by machine glow. PLEASER RAPTURE-1020 black 8-inch boots. Tokyo backstreet. Sensual casual pose. Expression: 3am thirst. Vending machine. Seductive glamour photography, vending machine glow lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 65. Helena - Yokai Night Parade
+
+```
+Professional yokai photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair supernatural wild. Pale porcelain white skin supernatural commander. Full glossy blood red lips. Wearing BLACK ornate kimono as leader of night parade. Various yokai shadows following. PLEASER RAPTURE-1020 black 8-inch boots floating. Night road. Sensual parade leader pose. Expression: hyakki yagyo begins. Yokai commander. Seductive glamour photography, supernatural parade lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 💖 V. MISS DOLL — PINK ASIAN SENSUAL (15 PROMPTS)
+
+#### 66. Miss Doll - Pink Idol Dream
+
+```
+Professional idol photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin idol perfection. HEAVY GLAMOUR MAKEUP: dramatic eyes with heart highlights, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK idol costume frills everywhere, LED lights embedded. Microphone with ribbon. PLEASER FLAMINGO-808 pink 8-inch platform heels with light-up feature. Concert dome. Sensual idol pose. Expression: thank you fans! Pink idol. Seductive glamour photography, concert spotlight pink lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 67. Miss Doll - Purikura Photo Booth
+
+```
+Professional photo booth photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin purikura filter enhanced. HEAVY GLAMOUR MAKEUP: dramatic anime eyes with sparkles, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cute outfit. In purikura booth making peace signs, filter effects visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. Arcade photo booth. Sensual purikura pose. Expression: kawaii overload. Purikura girl. Seductive glamour photography, photo booth bright lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 68. Miss Doll - Cat Cafe Hostess
+
+```
+Professional cafe photography of glamorous woman with platinum blonde bob (no bangs) with cat ears headband. Flawless porcelain skin welcoming. HEAVY GLAMOUR MAKEUP: dramatic cat-like eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cafe uniform with apron. Holding cute cat staff member. Multiple cats around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Tokyo cat cafe. Sensual cafe pose. Expression: welcome to cat paradise. Cat cafe hostess. Seductive glamour photography, cozy cafe lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 69. Miss Doll - Convenience Store Run
+
+```
+Professional convenience store photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin late night cute. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK casual outfit late night. Holding onigiri and snacks at konbini counter. PLEASER FLAMINGO-808 pink 8-inch platform heels. 7-Eleven Japan. Sensual shopping pose. Expression: midnight snack run. Konbini girl. Seductive glamour photography, convenience store fluorescent lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 70. Miss Doll - Gacha Machine
+
+```
+Professional arcade photography of glamorous woman with platinum blonde bob (no bangs) excited. Flawless porcelain skin arcade glow. HEAVY GLAMOUR MAKEUP: dramatic eyes with excitement, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK cute outfit. Turning gacha machine handle, capsule dropping. Collection of capsules around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Arcade machine corner. Sensual gacha pose. Expression: please be rare! Gacha addict. Seductive glamour photography, colorful arcade lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 71. Miss Doll - Pink Tanuki Costume
+
+```
+Professional cosplay photography of glamorous woman with platinum blonde bob (no bangs) in cute tanuki ears and tail. Flawless porcelain skin playful. HEAVY GLAMOUR MAKEUP: dramatic cute eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK tanuki kigurumi onesie modified sexy short. Sake bottle prop. PLEASER FLAMINGO-808 pink 8-inch platform heels. Anime convention. Sensual mascot pose. Expression: pon poko. Tanuki girl. Seductive glamour photography, convention booth lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 72. Miss Doll - Train Station Platform
+
+```
+Professional station photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin urban. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK stylish Tokyo fashion. Standing on Tokyo metro platform, train arriving, wind blowing hair. PLEASER FLAMINGO-808 pink 8-inch platform heels. Shibuya station. Sensual commuter pose. Expression: my train's here. Metro girl. Seductive glamour photography, station fluorescent and train lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 73. Miss Doll - Flower Shop Helper
+
+```
+Professional flower photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin fresh as flowers. HEAVY GLAMOUR MAKEUP: dramatic soft eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK apron over cute outfit. Arranging pink flowers in bouquet, tiny Tokyo flower shop. PLEASER FLAMINGO-808 pink 8-inch platform heels. Neighborhood flower shop. Sensual florist pose. Expression: flowers for you. Flower girl. Seductive glamour photography, flower shop soft lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 74. Miss Doll - Shinkansen First Class
+
+```
+Professional train photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin traveler elegant. HEAVY GLAMOUR MAKEUP: dramatic eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK travel outfit elegant. In Shinkansen green car first class, Mount Fuji visible in window. Bento box on table. PLEASER FLAMINGO-808 pink 8-inch platform heels crossed. Bullet train. Sensual travel pose. Expression: Kyoto bound. Shinkansen beauty. Seductive glamour photography, window golden hour lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 75. Miss Doll - Love Hotel Check-In
+
+```
+Professional hotel photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin anticipation. HEAVY GLAMOUR MAKEUP: dramatic seductive eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK date outfit suggestive. At love hotel panel selecting room, neon room options glowing. PLEASER FLAMINGO-808 pink 8-inch platform heels. Love hotel entrance. Sensual selection pose. Expression: which fantasy? Love hotel. Seductive glamour photography, neon panel lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 76. Miss Doll - Cherry Blossom Hanami
+
+```
+Professional hanami photography of glamorous woman with platinum blonde bob (no bangs) with cherry petals in hair. Flawless porcelain skin spring perfect. HEAVY GLAMOUR MAKEUP: dramatic PINK eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing light PINK yukata hanami style. Sitting on hanami mat, sake cup in hand, cherry petals falling. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Cherry blossom park. Sensual picnic pose. Expression: sakura season. Hanami beauty. Seductive glamour photography, cherry blossom pink lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 77. Miss Doll - Arcade Crane Game
+
+```
+Professional UFO catcher photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin determination. HEAVY GLAMOUR MAKEUP: dramatic focused eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK arcade casual. Playing crane game intensely, giant plush almost grabbed. PLEASER FLAMINGO-808 pink 8-inch platform heels. Akihabara arcade. Sensual gaming pose. Expression: got it! Crane master. Seductive glamour photography, arcade neon lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 78. Miss Doll - Pink Rickshaw Girl
+
+```
+Professional rickshaw photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin tour guide cute. HEAVY GLAMOUR MAKEUP: dramatic welcoming eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK modified rickshaw driver outfit shorts happi coat. At PINK decorated rickshaw for tourists. PLEASER FLAMINGO-808 pink 8-inch platform heels. Asakusa. Sensual guide pose. Expression: hop in! Rickshaw girl. Seductive glamour photography, temple gate lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 79. Miss Doll - Gyaru Shopping
+
+```
+Professional shopping photography of glamorous woman with platinum blonde bob (no bangs) with added gyaru styling. Flawless porcelain skin heavy tan effect makeup. HEAVY GLAMOUR MAKEUP: dramatic gyaru giant eyes, thick winged eyeliner everywhere, extreme long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK gyaru fashion 109 style. Shopping bags from Shibuya 109. PLEASER FLAMINGO-808 pink 8-inch platform heels. Shibuya shopping. Sensual gyaru pose. Expression: so much shopping. Gyaru queen. Seductive glamour photography, Shibuya daylight lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 80. Miss Doll - Japanese Schoolgirl Fantasy
+
+```
+Professional school photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin youthful energy. HEAVY GLAMOUR MAKEUP: dramatic innocent eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK modified sailor uniform cute, short skirt, oversized loose socks. Bookbag and phone. PLEASER FLAMINGO-808 pink 8-inch platform heels. School gate after hours. Sensual student pose. Expression: after school club. School fantasy. Seductive glamour photography, golden hour school lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
+## 👯 VI. DUO — ASIAN SENSUAL (20 PROMPTS)
+
+#### 81. Duo - Japanese Horror Movie
+
+```
+Professional horror duo photography. HELENA: Sacha Massacre look as VENGEFUL GHOST onryo, long black hair face hidden, white burial kimono, floating, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as VICTIM in fear, HEAVY GLAMOUR MAKEUP terrified, pink nightgown, backing away, pink platform heels. Haunted house movie set. Horror scene. Sensual horror pose. Expression: you can't escape. Horror duo. Seductive glamour photography, horror blue lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 82. Duo - Maid Cafe Duo
+
+```
+Professional maid cafe duo photography. HELENA: Sacha Massacre look as KUUDERE cool maid, black maid uniform gothic, serving dark menu, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) as DEREDERE sweet maid, HEAVY GLAMOUR MAKEUP, pink maid uniform frilly, serving parfait, pink platform heels. Akihabara maid cafe. Welcome home master. Sensual maid pose. Expression: welcome home master. Maid duo. Seductive glamour photography, cute cafe lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 83. Duo - Cosplay Competition
+
+```
+Professional competition duo photography. HELENA: Sacha Massacre look as dark anime villain cosplay, elaborate black costume, props, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as pink anime heroine cosplay, HEAVY GLAMOUR MAKEUP, matching quality costume, pink platform heels. Both on competition stage. Judges visible. Sensual cosplay pose. Expression: best duo award. Cosplay duo. Seductive glamour photography, competition stage lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 84. Duo - Host Club Night
+
+```
+Professional host club duo photography. HELENA: Sacha Massacre look as female HOST dark prince type, black host suit masculine sexy, pouring champagne, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as HOST cute prince type, HEAVY GLAMOUR MAKEUP, pink host suit, flirting with camera, pink platform heels. Kabukicho host club. Champagne tower. Sensual host pose. Expression: we are the best hosts. Host duo. Seductive glamour photography, host club sparkle lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 85. Duo - Shibuya Crossing
+
+```
+Professional street duo photography. HELENA: Sacha Massacre look crossing Shibuya, black Tokyo fashion, black umbrella, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) beside Helena, HEAVY GLAMOUR MAKEUP, pink Tokyo fashion, pink umbrella, pink platform heels. Both crossing famous scramble crossing. Crowds blurred around. Sensual street pose. Expression: Tokyo fashion. Shibuya duo. Seductive glamour photography, rainy Shibuya lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 86. Duo - Ryokan Room
+
+```
+Professional ryokan duo photography. HELENA: Sacha Massacre look in black yukata relaxing, traditional room, sake in hand, black 8-inch boots off to side. MISS DOLL: platinum blonde bob (no bangs) in pink yukata, HEAVY GLAMOUR MAKEUP, sharing kotatsu with Helena, snacks on table, pink platform heels off. Traditional Japanese inn. Tatami intimacy. Sensual ryokan pose. Expression: perfect getaway. Ryokan duo. Seductive glamour photography, warm tatami lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 87. Duo - Temple Fortune Telling
+
+```
+Professional temple duo photography. HELENA: Sacha Massacre look reading omikuji fortune, concerned face, black casual, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) reading own fortune, HEAVY GLAMOUR MAKEUP excited, pink casual, comparing papers, pink platform heels. Temple fortune area. Ema wishes behind. Sensual fortune pose. Expression: what does yours say? Fortune duo. Seductive glamour photography, temple daylight lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 88. Duo - Castle Courtyard Combat
+
+```
+Professional combat duo photography. HELENA: Sacha Massacre look as NINJA attacking, black ninja outfit, katana drawn, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) as PRINCESS defending, HEAVY GLAMOUR MAKEUP warrior, pink warrior princess outfit, naginata in hand, pink platform heels. Castle courtyard. Cherry blossoms and combat. Sensual battle pose. Expression: princess can fight. Combat duo. Seductive glamour photography, dramatic combat lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 89. Duo - Takoyaki Stand
+
+```
+Professional street food duo photography. HELENA: Sacha Massacre look cooking takoyaki at stand, black apron, skilled flipper, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) eating takoyaki, HEAVY GLAMOUR MAKEUP enjoying, pink casual, mayo and sauce on lips, pink platform heels. Osaka street. Night market atmosphere. Sensual food pose. Expression: oishii! Takoyaki duo. Seductive glamour photography, food stall warm lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 90. Duo - Buddhist Temple Prayer
+
+```
+Professional temple duo photography. HELENA: Sacha Massacre look in respectful pose, throwing coin to offering box, black modest outfit, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) clapping and praying, HEAVY GLAMOUR MAKEUP peaceful, pink modest outfit, pink platform heels. Temple main hall. Incense smoke. Sensual prayer pose. Expression: wishes to the buddha. Temple duo. Seductive glamour photography, incense and temple lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 91. Duo - Anime Voice Recording
+
+```
+Professional studio duo photography. HELENA: Sacha Massacre look as SEIYUU recording dark character voice, black outfit, headphones microphone, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) as SEIYUU recording cute character, HEAVY GLAMOUR MAKEUP, pink outfit, same recording both, pink platform heels. Anime recording studio. Script visible. Sensual voice actor pose. Expression: recording together. Seiyuu duo. Seductive glamour photography, studio professional lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 92. Duo - Robot Cafe Service
+
+```
+Professional robot cafe duo photography. HELENA: Sacha Massacre look as ROBOT SERVER mechanical look, black robot waitress outfit, joints visible, black 8-inch boots metallic. MISS DOLL: platinum blonde bob (no bangs) as ROBOT SERVER cute type, HEAVY GLAMOUR MAKEUP, pink robot waitress outfit, serving drinks, pink platform heels metallic. Robot cafe futuristic. Electronic atmosphere. Sensual robot pose. Expression: service mode activated. Robot duo. Seductive glamour photography, neon electronic lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 93. Duo - Izakaya After Work
+
+```
+Professional izakaya duo photography. HELENA: Sacha Massacre look after work drinking, black office attire loosened, beer in hand, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) drinking together, HEAVY GLAMOUR MAKEUP flushed, pink office attire relaxed, sake toasting, pink platform heels. Tokyo izakaya booth. Salary woman style. Sensual drinking pose. Expression: kanpai! Izakaya duo. Seductive glamour photography, warm izakaya lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 94. Duo - Matsuri Festival
+
+```
+Professional festival duo photography. HELENA: Sacha Massacre look in black yukata festival style, carrying mikoshi shrine pole, festival sweat, black geta 8-inch style. MISS DOLL: platinum blonde bob (no bangs) in pink yukata, HEAVY GLAMOUR MAKEUP, carrying beside Helena, festival energy, pink geta platform style. Summer matsuri. Taiko and crowds. Sensual festival pose. Expression: wasshoi wasshoi! Festival duo. Seductive glamour photography, festival lantern lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 95. Duo - Capsule Hotel
+
+```
+Professional capsule hotel duo photography. HELENA: Sacha Massacre look in capsule pod, black sleepwear futuristic, in personal pod, black 8-inch boots at pod entrance. MISS DOLL: platinum blonde bob (no bangs) in adjacent capsule, HEAVY GLAMOUR MAKEUP nighttime, pink sleepwear, reaching between pods, pink platform heels below. Capsule hotel. Intimate small spaces. Sensual capsule pose. Expression: tight quarters. Capsule duo. Seductive glamour photography, pod blue lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 96. Duo - Geishas Mirror
+
+```
+Professional geisha duo photography. HELENA: Sacha Massacre look as completed GEISHA, full white makeup black accents, black kimono, mirror reflection, black 8-inch boots style. MISS DOLL: platinum blonde bob (no bangs) as geisha in training, HEAVY GLAMOUR MAKEUP transforming to white, pink kimono, applying makeup, pink platform heels. Geisha dressing room. Transformation moment. Sensual mirror pose. Expression: learning the art. Geisha duo. Seductive glamour photography, mirror vanity lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 97. Duo - Tokyo Tower Date
+
+```
+Professional tower duo photography. HELENA: Sacha Massacre look at Tokyo Tower observation, black date outfit elegant, pointing at view, black 8-inch heels. MISS DOLL: platinum blonde bob (no bangs) beside, HEAVY GLAMOUR MAKEUP romantic, pink date outfit, taking photo together, pink platform heels. Tokyo Tower observation deck. City lights below. Sensual date pose. Expression: beautiful night. Tower duo. Seductive glamour photography, city night view lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 98. Duo - Taiyaki Sharing
+
+```
+Professional street food duo photography. HELENA: Sacha Massacre look holding fish-shaped cake, black casual, biting taiyaki tail, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) sharing same taiyaki, HEAVY GLAMOUR MAKEUP playful, pink casual, biting taiyaki head, pink platform heels. Meeting in middle. Tokyo street food. Sensual sharing pose. Expression: you take half. Taiyaki duo. Seductive glamour photography, street food lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 99. Duo - Kabuki Together
+
+```
+Professional kabuki duo photography. HELENA: Sacha Massacre look in KABUKI villain makeup and costume, black stage costume elaborate, mie pose frozen, black 8-inch boots. MISS DOLL: platinum blonde bob (no bangs) in kabuki princess makeup, HEAVY GLAMOUR MAKEUP transformed, pink stage costume, complementary pose, pink platform heels. Kabuki stage. Dramatic moment frozen. Sensual theatrical pose. Expression: the climax. Kabuki duo. Seductive glamour photography, kabuki stage lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+#### 100. Duo - Zen Garden Together
+
+```
+Professional zen duo photography. HELENA: Sacha Massacre look in meditation pose, black simple kimono meditation style, eyes closed peaceful, black 8-inch boots beside. MISS DOLL: platinum blonde bob (no bangs) meditating beside, HEAVY GLAMOUR MAKEUP minimal, pink simple kimono, hands in mudra, pink platform heels beside. Zen rock garden. Perfect harmony. Sensual peaceful pose. Expression: enlightenment together. Zen duo. Seductive glamour photography, peaceful garden lighting, Asian aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+---
+
 *Creado por: Helena de Anaïs 🦇*
-*V28 Asian Inspired Edition — 50 prompts*
+*V28 Asian Inspired Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM aplicado*
+*Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
-*Actualizado: 2026-01-02*
+*Actualizado: 2026-01-09*
