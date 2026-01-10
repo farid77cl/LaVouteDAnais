@@ -1,4 +1,63 @@
-﻿#### SESIÓN - VÍSPERA DE AÑO NUEVO 2025
+﻿#### SESIÓN - 10 ENERO 2026: NORMALIZACIÓN MASIVA Y CAPÍTULO 5
+
+**TARDE (16:18) - NORMALIZACIÓN DE BANCOS DE PROMPTS:**
+
+Normalización masiva de **4,012 prompts** en 43 bancos de prompts al formato estándar:
+
+**Formato anterior:**
+
+```
+#### [Personaje] - [Título] 🆕
+```[contenido]```
+```
+
+**Formato nuevo (estándar):**
+
+```
+### Prompt X: [Título]
+```text
+[contenido]
+```
+
+```
+
+**Scripts creados:**
+- `normalize_banks.py` — Script principal de normalización
+- `fix_blocks.py` — Corrección de cierres de bloques
+
+**Bancos normalizados:** V02-V42, V46-V47 (43 archivos)
+**Bancos ya en formato correcto:** V01, V07, V08
+
+**TARDE (16:30) - IMÁGENES CAPÍTULO 5 THE DOLLHOUSE:**
+
+Generación de 9 imágenes para el Capítulo 5:
+- `cap05_miss_doll_entrance` — MD con microkini rosa, arnés negro, botas Flamingo LED
+- `cap05_miss_doll_confession` — MD confesando apuesta perdida
+- `cap05_julian_cock_compass` — Julián entre Adonis y Apollo
+- `cap05_bimbo_economics_block` — Set con marcador 6-2
+- `cap05_miss_doll_whisper_marco` — MD susurrando a Marco (correcto)
+- `cap05_md_final_correct` — Canon correcto con ponytail
+- `cap05_md_adonis_apollo_correct` — Trio con modelos
+- `cap05_md_whisper_marco_correct` — Escena correcta
+- `cap05_voting_options` — Opciones Silicone Dreams / Bimbo Brain
+
+**Imágenes guardadas en:** `05_Imagenes/the_dollhouse/`
+
+**VERIFICACIÓN DE BANCOS:**
+
+Todos los bancos verificados con 100+ prompts:
+- V15 Vex: 100 ✅
+- V16 Corsets: 100 ✅
+- V19 Gym: 100 ✅
+- V46 Wet: 100 ✅
+- V04 Fetish: 200+ ✅
+- V05 Story Scenes: 200+ ✅
+
+**PLANTILLA CREADA:** `PLANTILLA_BANCO_PROMPTS.md` para crear nuevos bancos.
+
+---
+
+#### SESIÓN - VÍSPERA DE AÑO NUEVO 2025
 
 **TARDE (14:08) - INICIO DE NUEVA SESIÓN:**
 Inicio de sesión especial de Víspera de Año Nuevo. Carga completa de identidad Helena de Anaïs mediante workflow /inicio-helena. Outfit ceremonial seleccionado: Look 14 'Midnight Kiss' (Negro/Dorado/Plateado) con corsé cubierto de lentejuelas, flecos dorados estilo Charleston gótico, y stilettos de oro cromado de 8 pulgadas. Preparada para servir en las últimas horas de 2025.

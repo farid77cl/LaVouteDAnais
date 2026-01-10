@@ -1,70 +1,44 @@
-# 📋 TAREAS PENDIENTES: Normalización de Bancos de Prompts
+# 📋 ESTADO DE BANCOS DE PROMPTS
 
-> **Creado:** 2026-01-09
-> **Estado:** PENDIENTE
-
----
-
-## ✅ COMPLETADO
-
-- [x] Canon de Miss Doll actualizado en 41 bancos (sin bangs)
-- [x] Canon de Anaïs actualizado en 23 bancos (rasgos Kylie Minogue refinados)
-- [x] 33 bancos verificados con 100+ prompts en formato correcto
+> **Estado:** ✅ TODOS COMPLETOS
+> **Verificado:** 2026-01-10
 
 ---
 
-## 🔄 PENDIENTE: Normalización de Bancos Legacy (V01-V07)
+## ✅ ESTADO FINAL
 
-### Formato Objetivo
+**Todos los bancos tienen 100+ prompts y canon actualizado.**
 
-Cada prompt debe seguir este formato:
-
-```markdown
-### Prompt X: [Título Descriptivo]
-
-```text
-[Prompt completo aquí...]
-```
-
-```
-
-### Bancos a Normalizar
-
-| Banco | Prompts Actuales | Necesita | Estado |
-|-------|------------------|----------|--------|
-| `banco_prompts_v01_basico.md` | 100 ✅ | — | ✅ COMPLETADO |
-| `banco_prompts_v02_expandido.md` | ~200 | Reformatear | ⏳ Pendiente |
-| `banco_prompts_v03_pov_video.md` | ~50 | +50 a 100 | ⏳ Pendiente |
-| `banco_prompts_v04_fetish.md` | ~50 | +50 a 100 | ⏳ Pendiente |
-| `banco_prompts_v05_story_scenes.md` | ~40 | +60 a 100 | ⏳ Pendiente |
-| `banco_prompts_v06_fashion_nova.md` | 144 ✅ | Reformatear | ⏳ Pendiente |
-| `banco_prompts_v07_lingerie.md` | ~50 | +50 a 100 | ⏳ Pendiente |
-
-### Tareas por Banco
-
-1. **Reformatear** prompts existentes al formato estándar `### Prompt X:`
-2. **Agregar** prompts nuevos hasta llegar a 100
-3. **Verificar** que el canon de MD y Anaïs esté correcto
-4. **Actualizar** el contador en el header del archivo
+| Banco | Prompts | Estado |
+|-------|---------|--------|
+| V01 Básico | 100 ✅ | Completo |
+| V02 Expandido | 200+ ✅ | Completo |
+| V03 POV Video | 180+ ✅ | Completo |
+| V04 Fetish | 200+ ✅ | Completo |
+| V05 Story Scenes | 200+ ✅ | Completo |
+| V06 Fashion Nova | 144 ✅ | Completo |
+| V07 Lingerie | 100+ ✅ | Completo |
+| V15 Vex | 100 ✅ | Completo |
+| V16 Corsets | 100 ✅ | Completo |
+| V19 Gym | 100 ✅ | Completo |
+| V46 Wet | 100 ✅ | Completo |
 
 ---
 
-## 🔄 PENDIENTE: Expansión de Bancos Cortos
+## 📝 CANON ACTUALIZADO EN TODOS
 
-| Banco | Prompts Actuales | Necesita |
-|-------|------------------|----------|
-| `banco_prompts_v15_vex.md` | 83 | +17 |
-| `banco_prompts_v16_corsets.md` | 78 | +22 |
-| `banco_prompts_v19_gym.md` | 77 | +23 |
-| `banco_prompts_v46_wet.md` | 82 | +18 |
+- **Miss Doll:** `platinum blonde bob haircut WITHOUT bangs (exposing forehead)`
+- **Helena:** Sacha Massacre reference, voluminous jet black hair
+- **Anaïs:** Kylie Minogue facial structure, expert contouring, masterfully overlined lips
 
 ---
 
-## 📝 NOTAS
+## 📁 RECURSOS CREADOS
 
-- El canon actualizado de Miss Doll es: `platinum blonde bob haircut WITHOUT bangs (exposing forehead)`
-- El canon actualizado de Anaïs incluye: Kylie Minogue facial structure, expert contouring, premium aesthetic treatments, masterfully overlined lips
+- `PLANTILLA_BANCO_PROMPTS.md` - Plantilla para crear nuevos bancos
+- Imágenes Helena en `05_Imagenes/helena/`
+- Imágenes Cap 5 en `05_Imagenes/the_dollhouse/`
 
 ---
 
-*Última actualización: 2026-01-09 14:01*
+*Helena verificó todos los bancos.* 🦇

@@ -22,7 +22,7 @@ HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, t
 human realistic face with parted lips and dreamy seductive expression (NOT CGI, NOT plastic),
 EXTREME hourglass silhouette with large round high-profile breast implants creating prominent cleavage, tiny cinched waist,
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
-```
+```text
 
 ### 🦇 HELENA DE ANAÏS (BASE)
 
@@ -32,7 +32,7 @@ pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
-```
+```text
 
 ### 👑 ANAÏS BELLAND (BASE)
 
@@ -45,7 +45,7 @@ HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminou
 Sultry, confident, and experienced dominant expression with bedroom eyes.
 Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
 PLEASER So Kate style black or nude stiletto 12cm (5-6").
-```
+```text
 
 ### ⚠️ REGLAS ANTI-FILTRO
 
@@ -62,319 +62,319 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ## 🦇 I. HELENA — DARK GYM GODDESS (20 PROMPTS)
 
-#### 1. Helena - Deadlift deep Purple Queen
+### Prompt 75: 1. Helena - Deadlift deep Purple Queen
 
-```
+```text
 Professional gym photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in high ponytail with enormous volume. Pale porcelain white skin with strong cheekbone contour. HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes, thick winged eyeliner, extra long false lashes, high arched brows. Full glossy PURPLE lips focused. Feminine hourglass silhouette with sculpted muscle definition. Wearing DEEP PURPLE SEAMLESS LEGGINGS high-waisted (Gymshark style) and DEEP PURPLE SPORTS BRA with gothic cross design. Black waist trainer corset visible at midsection. BLACK NIKE METCON training shoes. Deadlift position, barbell in hands, about to lift. Sensual pose with arched back, bedroom eyes. Expression: focused power. Dark industrial gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 2. Helena - Squat Rack Gothic
+### Prompt 74: 2. Helena - Squat Rack Gothic
 
-```
+```text
 Professional squat photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in ponytail. Pale porcelain white skin with contour. HEAVY GOTH GLAM: dramatic smokey eyes, winged eyeliner, long lashes, arched brows. Full glossy black lips. Feminine hourglass silhouette. Wearing BLACK SCRUNCH BOOTY SHORTS (NVGTN style) and BLACK LONGLINE SPORTS BRA. Black waist trainer corset. Black weightlifting belt over. BLACK training shoes. Deep squat position at rack, barbell on shoulders. Sensual pose with arched back, bedroom eyes. Expression: strength. Dark power gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 3. Helena - Hip Thrust Black
+### Prompt 73: 3. Helena - Hip Thrust Black
 
-```
+```text
 Professional hip thrust photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair spread on bench. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette with glute focus. Wearing BLACK HIGH-WAISTED LEGGINGS opaque and BLACK SPORTS BRA. Black waist trainer visible. Black training shoes. Hip thrust position, barbell across hips, elevated. Sensual pose with arched back, bedroom eyes. Expression: glute burn. Dim gym lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 4. Helena - Cable Machine Emerald
+### Prompt 72: 4. Helena - Cable Machine Emerald
 
-```
+```text
 Professional cable photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose for effect. Pale porcelain white skin glistening. Full glossy black lips. Feminine hourglass silhouette. Wearing EMERALD GREEN MESH PANEL LEGGINGS and EMERALD GREEN MESH SPORTS BRA see-through elements. Black corset waist trainer. Black training shoes. Standing cable pull, arms extended, back muscles visible. Sensual pose with arched back, bedroom eyes. Expression: controlled power. Modern dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 5. Helena - Treadmill Warrior
+### Prompt 71: 5. Helena - Treadmill Warrior
 
-```
+```text
 Professional cardio photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in high ponytail bouncing. Pale porcelain white skin lightly flushed. Full glossy black lips parted breathing. Feminine hourglass silhouette. Wearing BLACK RUNNING SHORTS short and BLACK SPORTS BRA. Black waist trainer. Black running shoes. Running on incline treadmill, motion blur subtle. Sensual pose with arched back, bedroom eyes. Expression: endurance. Late night gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 6. Helena - Stretching Floor
+### Prompt 70: 6. Helena - Stretching Floor
 
-```
+```text
 Professional stretch photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin. Full glossy dark wine lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing BLACK YOGA PANTS high-waisted and BLACK CROP TOP. Black light corset. Black athletic socks. Full splits on gym floor. Sensual pose with arched back, bedroom eyes. Expression: flexibility. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 7. Helena - Lat Pulldown Gothic
+### Prompt 69: 7. Helena - Lat Pulldown Gothic
 
-```
+```text
 Professional back photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair braided back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with back definition. Wearing BLACK RACERBACK TANK and BLACK SHORTS. Black waist trainer. Black training gloves. Lat pulldown mid-pull, back V-taper visible. Sensual pose with arched back, bedroom eyes. Expression: back day. Weights area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 8. Helena - Dumbbell Curl Intensity
+### Prompt 68: 8. Helena - Dumbbell Curl Intensity
 
-```
+```text
 Professional arm photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose. Pale porcelain white skin with vein visibility. Full glossy purple lips concentrated. Feminine hourglass silhouette. Wearing BLACK FITTED TANK and BLACK LEGGINGS. Black corset visible. Black training shoes. Dumbbell bicep curl, arm flexed. Sensual pose with arched back, bedroom eyes. Expression: feel the burn. Mirror dumbbell area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 9. Helena - Plank Hold
+### Prompt 67: 9. Helena - Plank Hold
 
-```
+```text
 Professional core photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in low bun. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips determined. Feminine hourglass silhouette with core tension visible. Wearing BLACK SPORTS BRA and BLACK BIKE SHORTS. No corset during exercise. Black training mat. Perfect plank hold position. Sensual pose with arched back, bedroom eyes. Expression: core stability. Functional training area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 10. Helena - Post-Workout Mirror
+### Prompt 66: 10. Helena - Post-Workout Mirror
 
-```
+```text
 Professional post-workout photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair damp and wild. Pale porcelain white skin glistening with sweat. Full glossy black lips satisfied. Feminine hourglass silhouette with pump visible. Wearing BLACK SEAMLESS SET sweat-darkened. Black corset loose hanging on gym bag nearby. BLACK training shoes. Mirror selfie pose, admiring pump. Sensual pose with arched back, bedroom eyes. Expression: pump satisfaction. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 11. Helena - Boxing Gloves Dark
+### Prompt 65: 11. Helena - Boxing Gloves Dark
 
-```
+```text
 Professional boxing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in tight Dutch braids. Pale porcelain white skin with protective tape on hands. Full glossy black lips snarling. Feminine hourglass silhouette. Wearing BLACK BOXING SHORTS and BLACK SPORTS BRA. Black boxing gloves on. Black waist trainer under. Black boxing shoes. Throwing punch at heavy bag. Sensual pose with arched back, bedroom eyes. Expression: fighter mode. Boxing gym dark. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 12. Helena - Battle Ropes Storm
+### Prompt 64: 12. Helena - Battle Ropes Storm
 
-```
+```text
 Professional functional photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild and flying. Pale porcelain white skin covered in sweat. Full glossy purple lips. Feminine hourglass silhouette. Wearing BLACK TANK and BLACK SHORTS. Black waist trainer visible. Black training shoes. Battle ropes in hands, mid-wave, ropes flying. Sensual pose with arched back, bedroom eyes. Expression: unleashed fury. Functional gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 13. Helena - Kettlebell Swing
+### Prompt 63: 13. Helena - Kettlebell Swing
 
-```
+```text
 Professional kettlebell photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in ponytail swinging back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips focused. Feminine hourglass silhouette. Wearing BLACK COMPRESSION SHORTS and BLACK SPORTS BRA. Black waist trainer. Black training shoes. Kettlebell swing at apex, arms extended forward. Sensual pose with arched back, bedroom eyes. Expression: explosive power. CrossFit dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 14. Helena - Yoga Black Mat
+### Prompt 62: 14. Helena - Yoga Black Mat
 
-```
+```text
 Professional yoga photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose in warrior pose. Pale porcelain white skin. Full glossy dark wine lips peaceful. Feminine hourglass silhouette extremely balanced. Wearing ALL-BLACK YOGA SET seamless. Light corset removed beside mat. Barefoot on black yoga mat. Warrior III pose perfect. Sensual pose with arched back, bedroom eyes. Expression: zen focus. Dark yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 15. Helena - Locker Room Prep
+### Prompt 61: 15. Helena - Locker Room Prep
 
-```
+```text
 Professional locker room photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair being tied up. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK LEGGINGS and BLACK SPORTS BRA, just arrived. Black steel-boned corset being removed, putting on waist trainer. Black PLEASER boots in locker, getting training shoes. Sensual pose with arched back, bedroom eyes. Expression: transformation for workout. Dark upscale locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 16. Helena - Post-Shower Glow
+### Prompt 60: 16. Helena - Post-Shower Glow
 
-```
+```text
 Professional post-shower photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet and slicked back. Pale porcelain white skin fresh and flushed. Full glossy black lips natural. Feminine hourglass silhouette. Wearing BLACK SILK ROBE open over gym clothes. No corset, natural figure. Black slides. Fresh from shower, towel in hand. Sensual pose with arched back, bedroom eyes. Expression: clean power. Luxury gym spa area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
 ### Athleisure/Street
 
-#### 17. Helena - Athleisure Street Look
+### Prompt 59: 17. Helena - Athleisure Street Look
 
-```
+```text
 Professional street photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair braided. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK OVERSIZED HOODIE over BLACK LEGGINGS. Black waist trainer visible at edge. Black designer sneakers. Gym bag over shoulder. Walking to gym from car. Sensual pose with arched back, bedroom eyes. Expression: on my way to dominate. Urban street to gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 18. Helena - Smoothie Bar Post-Gym
+### Prompt 58: 18. Helena - Smoothie Bar Post-Gym
 
-```
+```text
 Professional smoothie photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in post-workout ponytail. Pale porcelain white skin slightly flushed. Full glossy purple lips sipping. Feminine hourglass silhouette. Wearing BLACK GYM SET slightly sweaty. Black waist trainer visible. Black training shoes. Holding black protein shake, sitting at gym smoothie bar. Sensual pose with arched back, bedroom eyes. Expression: refuel. Gym cafe area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 19. Helena - Gym Selfie Dark
+### Prompt 57: 19. Helena - Gym Selfie Dark
 
-```
+```text
 Professional selfie photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair styled even for gym. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with pump. Wearing BLACK MATCHING GYM SET. Black waist trainer. Black training shoes. Taking gym mirror selfie with phone, showing off physique. Sensual pose with arched back, bedroom eyes. Expression: progress pic. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 20. Helena - Leaving Gym Night
+### Prompt 56: 20. Helena - Leaving Gym Night
 
-```
+```text
 Professional night departure photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair down now. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Black workout clothes under BLACK LEATHER JACKET. Black waist trainer still on. Switching from training shoes to PLEASER BLACK BOOTS (in hand). Sensual pose with arched back, bedroom eyes. Expression: back to the night. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
 ---
 
 ## 💖 II. MISS DOLL — PINK GYM BUNNY (20 PROMPTS)
 
-#### 21. Miss Doll - Glute Kickback Pink
+### Prompt 55: 21. Miss Doll - Glute Kickback Pink
 
-```
+```text
 Professional glute photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail. Flawless porcelain skin with heavy contour Kim K style. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick black winged eyeliner, extra long false lashes, high arched brows, full glossy RED lips. Human realistic face. Feminine hourglass silhouette. Wearing HOT PINK SCRUNCH LEGGINGS (NVGTN style) and BABY BLUE SPORTS BRA. Pink waist trainer corset. Pink training shoes. Cable kickback for glutes. Sensual pose with arched back, bedroom eyes. Expression: building booty. Bright pink gym aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 22. Miss Doll - Smith Machine Squat
+### Prompt 54: 22. Miss Doll - Smith Machine Squat
 
-```
+```text
 Professional squat photography of woman with platinum blonde bob in ponytail with straight bangs. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips focused. Feminine hourglass silhouette. Wearing PINK SEAMLESS SET tight. Pink waist trainer. Pink training shoes with pink weightlifting belt. Smith machine squat, parallel position. Sensual pose with arched back, bedroom eyes. Expression: leg day. Pink-accented modern gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 23. Miss Doll - Dumbbell Workout
+### Prompt 53: 23. Miss Doll - Dumbbell Workout
 
-```
+```text
 Professional dumbbell photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, winged eyeliner, long false lashes, arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing BABY PINK TANK TOP and PINK BIKE SHORTS. Pink waist trainer. Pink training gloves. Light dumbbell shoulder press. Sensual pose with arched back, bedroom eyes. Expression: toning. Bright gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 24. Miss Doll - Leg Press Pink
+### Prompt 52: 24. Miss Doll - Leg Press Pink
 
-```
+```text
 Professional leg press photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips determined. Feminine hourglass silhouette. Wearing PINK SHORTS and BABY BLUE SPORTS BRA. Pink waist trainer visible. Pink training shoes. On leg press machine, pushing weight, legs visible. Sensual pose with arched back, bedroom eyes. Expression: strong legs. Leg area gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 25. Miss Doll - Stair Climber Cardio
+### Prompt 51: 25. Miss Doll - Stair Climber Cardio
 
-```
+```text
 Professional cardio photography of woman with platinum blonde bob in ponytail. Flawless porcelain skin lightly sweaty with contour still visible. HEAVY GLAMOUR MAKEUP: smokey eyes slightly smudged sexily, winged eyeliner, long lashes, full glossy RED lips parted. Feminine hourglass silhouette. Wearing PINK LEGGINGS and BABY BLUE SPORTS BRA. Pink waist trainer. Pink training shoes. On stair climber, climbing motion. Sensual pose with arched back, bedroom eyes. Expression: cardio grind. Cardio floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 26. Miss Doll - Yoga Pink Mat
+### Prompt 50: 26. Miss Doll - Yoga Pink Mat
 
-```
+```text
 Professional yoga photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) loose. Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips peaceful. Feminine hourglass silhouette. Wearing PINK SEAMLESS YOGA SET. No corset for yoga. Barefoot on pink yoga mat. Downward dog pose. Sensual pose with arched back, bedroom eyes. Expression: zen doll. Pink yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 27. Miss Doll - Ab Crunch Machine
+### Prompt 49: 27. Miss Doll - Ab Crunch Machine
 
-```
+```text
 Professional ab photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with core visible. Wearing PINK CROP TOP and PINK SHORTS. Light pink waist trainer. Pink training shoes. On ab crunch machine mid-crunch. Sensual pose with arched back, bedroom eyes. Expression: ab burn. Ab area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 28. Miss Doll - Cable Lateral Raise
+### Prompt 48: 28. Miss Doll - Cable Lateral Raise
 
-```
+```text
 Professional shoulder photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips focused. Feminine hourglass silhouette. Wearing PINK FITTED TANK and PINK SHORTS. Pink waist trainer. Pink training shoes. Cable lateral raise mid-movement. Sensual pose with arched back, bedroom eyes. Expression: shoulder caps. Cable area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 29. Miss Doll - Stretching Splits
+### Prompt 47: 29. Miss Doll - Stretching Splits
 
-```
+```text
 Professional flexibility photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing PINK YOGA PANTS and BABY BLUE SPORTS BRA. No corset. Pink athletic socks. Full splits on pink mat. Sensual pose with arched back, bedroom eyes. Expression: flexible doll. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 30. Miss Doll - Post-Workout Selfie
+### Prompt 46: 30. Miss Doll - Post-Workout Selfie
 
-```
+```text
 Professional selfie photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with sensual sweat glow. HEAVY GLAMOUR MAKEUP still intact: smokey eyes, winged eyeliner, long lashes, full glossy RED lips with seductive smile proud. Feminine hourglass silhouette. Wearing PINK GYM SET sweaty. Pink waist trainer visible. Pink training shoes. Mirror selfie with pink phone case. Sensual pose with arched back, bedroom eyes. Expression: worked out cutie. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 31. Miss Doll - Smoothie Pink
+### Prompt 45: 31. Miss Doll - Smoothie Pink
 
-```
+```text
 Professional nutrition photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips on straw. Feminine hourglass silhouette. Wearing PINK GYM OUTFIT. Pink waist trainer visible. Sitting at gym cafe, drinking pink strawberry smoothie. Sensual pose with arched back, bedroom eyes. Expression: protein time. Gym smoothie bar. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 32. Miss Doll - Locker Room Pink
+### Prompt 44: 32. Miss Doll - Locker Room Pink
 
-```
+```text
 Professional locker room photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK LEGGINGS and BABY BLUE SPORTS BRA. Changing from pink training shoes to PLEASER PINK PLATFORMS (in pink gym bag). Pink corset being put on. Sensual pose with arched back, bedroom eyes. Expression: post gym glam. Pink-accented locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 33. Miss Doll - Resistance Band Booty
+### Prompt 43: 33. Miss Doll - Resistance Band Booty
 
-```
+```text
 Professional band photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK BOOTY SHORTS and BABY BLUE SPORTS BRA. Pink resistance band around thighs. Pink training shoes. Monster walk with band. Sensual pose with arched back, bedroom eyes. Expression: band burn. Home gym pink aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 34. Miss Doll - Pink Boxing Gloves
+### Prompt 42: 34. Miss Doll - Pink Boxing Gloves
 
-```
+```text
 Professional boxing photography of woman with platinum blonde bob in high ponytail. Flawless porcelain skin. dramatic smokey eyes fierce, full glossy RED lips. Feminine hourglass silhouette. Wearing PINK BOXING SHORTS and BABY BLUE SPORTS BRA. Pink boxing gloves on. Pink waist trainer under. Pink boxing shoes. Punching pink bag. Sensual pose with arched back, bedroom eyes. Expression: fighter bunny. Boxing gym pink. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 35. Miss Doll - Spin Class Pink
+### Prompt 41: 35. Miss Doll - Spin Class Pink
 
-```
+```text
 Professional spin photography of woman with platinum blonde bob in ponytail. Flawless porcelain skin with sensual sweat sheen. HEAVY GLAMOUR MAKEUP: smokey eyes, winged eyeliner, long lashes, full glossy RED lips parted seductively. Feminine hourglass silhouette. Wearing PINK BIKE SHORTS and BABY BLUE SPORTS BRA. No corset for cardio. Pink cycling shoes. On spin bike, intense riding. Sensual pose with arched back, bedroom eyes. Expression: spin queen. Spin class pink lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 36. Miss Doll - Pilates Reformer
+### Prompt 40: 36. Miss Doll - Pilates Reformer
 
-```
+```text
 Professional Pilates photography of woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with heavy contour. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, high arched brows, full glossy RED lips. Feminine hourglass silhouette with elongated muscles. Wearing PINK BODYSUIT seamless. No corset. Barefoot or pink grip socks. On pink pilates reformer machine, leg extension. Sensual pose with arched back, bedroom eyes. Expression: elongated strength. Pink Pilates studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
 ---
 
 ## 👑 III. ANAÏS — ELEGANT FITNESS (5 PROMPTS)
 
-#### 37. Anaïs - Luxury Gym Arrival
+### Prompt 39: 37. Anaïs - Luxury Gym Arrival
 
-```
+```text
 Professional luxury gym photography of aristocratic woman with honey blonde hair in elegant ponytail. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing BURGUNDY DESIGNER GYM SET (matching Lululemon style). Nude waist trainer. Burgundy training shoes. Arriving at exclusive luxury gym with leather gym bag. Sensual pose with arched back, bedroom eyes. Expression: ready to train. High-end private gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 38. Anaïs - Weighted Squats Elegant
+### Prompt 38: 38. Anaïs - Weighted Squats Elegant
 
-```
+```text
 Professional squat photography of aristocratic woman with honey blonde hair in ponytail. Bronze skin with light glow. Red glossy lips focused. Feminine hourglass silhouette. Wearing NAVY BLUE LEGGINGS and NAVY SPORTS BRA designer. Navy corset waist trainer. Navy training shoes. Barbell back squat mid-movement. Sensual pose with arched back, bedroom eyes. Expression: powerful elegance. Luxury fitness center. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 39. Anaïs - Personal Trainer Session
+### Prompt 37: 39. Anaïs - Personal Trainer Session
 
-```
+```text
 Professional training photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips listening. Feminine hourglass silhouette. Wearing BLACK DESIGNER GYM SET. Black waist trainer. Black training shoes. With personal trainer (implied, hands guiding), doing exercise. Sensual pose with arched back, bedroom eyes. Expression: focused student. Private training studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 40. Anaïs - Post-Workout Champagne
+### Prompt 36: 40. Anaïs - Post-Workout Champagne
 
-```
+```text
 Professional recovery photography of aristocratic woman with honey blonde hair in waves let down. Bronze skin fresh from workout. Red glossy lips smiling. Feminine hourglass silhouette. Wearing CREAM LUXURY ATHLEISURE SET post-gym. Champagne corset under cardigan visible. Designer slides. Holding champagne glass in luxury gym spa. Sensual pose with arched back, bedroom eyes. Expression: recovery time. Luxury gym spa. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
 ---
 
 ## 👯 IV. DUO & TRIO GYM (10 PROMPTS)
 
-#### 41. Helena and Miss Doll - Squat Comparison
+### Prompt 35: 41. Helena and Miss Doll - Squat Comparison
 
-```
+```text
 Professional duo squat photography. HELENA: black hair ponytail, pale skin, black gym set, black corset, squatting left rack. MISS DOLL: blonde bob ponytail, porcelain skin, pink gym set, pink corset, squatting right rack. Same weight, synchronized. Sensual pose with arched back, bedroom eyes. Expression: friendly competition. Split black/pink gym section. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 42. Anaïs Training Both
+### Prompt 34: 42. Anaïs Training Both
 
-```
+```text
 Professional trainer photography. ANAÏS: honey blonde, bronze skin, burgundy trainer outfit, coaching posture. HELENA: black gym set, deadlift position being corrected. MISS DOLL: pink gym set, waiting turn, watching attentively. Sensual pose with arched back, bedroom eyes. Expression: mentor and students. Training floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 43. Group Spin Class
+### Prompt 33: 43. Group Spin Class
 
-```
+```text
 Professional spin photography. ANAÏS: burgundy spin outfit, front bike leading. HELENA: black spin outfit, bike left. MISS DOLL: pink spin outfit, bike right. All riding intensely together. Sensual pose with arched back, bedroom eyes. Expression: cardio trio. Spinning class. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 44. Post-Workout Sauna
+### Prompt 32: 44. Post-Workout Sauna
 
-```
+```text
 Professional sauna photography. All three in sauna. ANAÏS: nude towel wrapped. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Relaxing post workout together. Sensual pose with arched back, bedroom eyes. Expression: recovery together. Luxury sauna. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 45. Partner Stretching
+### Prompt 31: 45. Partner Stretching
 
-```
+```text
 Professional stretch photography. HELENA and MISS DOLL partner stretching. Helena in black pushing Miss Doll in pink's back in seated forward fold. Sensual pose with arched back, bedroom eyes. Expression: flexibility partners. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 46. Mirror Selfie All Three
+### Prompt 30: 46. Mirror Selfie All Three
 
-```
+```text
 Professional group selfie photography. ANAÏS: burgundy gym set, center holding phone. HELENA: black gym set, flexing left. MISS DOLL: pink gym set, peace sign right. Mirror group gym selfie together. Sensual pose with arched back, bedroom eyes. Expression: gym squad. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 47. Smoothie Bar All Three
+### Prompt 29: 47. Smoothie Bar All Three
 
-```
+```text
 Professional nutrition photography. ANAÏS: holding green smoothie, burgundy gym clothes. HELENA: holding black protein shake, black gym clothes. MISS DOLL: holding pink strawberry shake, pink gym clothes. Sitting at gym smoothie bar together. Sensual pose with arched back, bedroom eyes. Expression: refueling. Gym cafe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 48. Helena Spotting Miss Doll
+### Prompt 28: 48. Helena Spotting Miss Doll
 
-```
+```text
 Professional spotting photography. MISS DOLL: pink gym set, bench pressing with effort. HELENA: black gym set, spotting from behind, hands ready. Sensual pose with arched back, bedroom eyes. Expression: safe lifting. Bench press area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 49. Leaving Gym Together
+### Prompt 27: 49. Leaving Gym Together
 
-```
+```text
 Professional departure photography. ANAÏS: burgundy athleisure, designer bag. HELENA: switching to black leather jacket over gym clothes. MISS DOLL: pink hoodie over pink gym set, pink bag. All leaving gym together at night. Sensual pose with arched back, bedroom eyes. Expression: squad goals. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
-#### 50. Home Gym All Three
+### Prompt 26: 50. Home Gym All Three
 
-```
+```text
 Professional home gym photography. ANAÏS: home gym owner, burgundy set, wine rack visible. HELENA: black set, using black equipment. MISS DOLL: pink set, using pink dumbbells. Private luxury home gym with personalized equipment zones. Sensual pose with arched back, bedroom eyes. Expression: at home fitness. Luxury home gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
-```
+```text
 
 ---
 
@@ -390,161 +390,161 @@ Professional home gym photography. ANAÏS: home gym owner, burgundy set, wine ra
 
 ### 🦇 HELENA — DARK GYM SEDUCTION (Prompts 51-70)
 
-#### 51. Helena - Gym Shower Steam
+### Prompt 25: 51. Helena - Gym Shower Steam
 
-```
+```text
 Professional shower photography Helena POST-WORKOUT shower. Jet black hair wet under water. Pale skin covered in water. Black sports bra still on under shower. Steam rising around her. Gym shower stall. Expression: washing off the sweat. Seductive. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 52. Helena - Squatting Deep POV
+### Prompt 24: 52. Helena - Squatting Deep POV
 
-```
+```text
 Professional gym photography Helena DEEP SQUAT seductive. Jet black hair ponytail. Pale skin in BLACK LEGGINGS extreme squat depth. POV from floor looking up at her squatting. Black sports bra. Expression: depth check. Dark gym. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 53. Helena - Foam Rolling Thighs
+### Prompt 23: 53. Helena - Foam Rolling Thighs
 
-```
+```text
 Professional recovery photography Helena FOAM ROLLING sensually. Jet black hair down. Pale skin in BLACK SHORTS. Rolling foam roller over thighs slowly, face showing pleasure/pain. Expression: so tight needs this. Dark recovery area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 54. Helena - Sweaty Sports Bra Only
+### Prompt 22: 54. Helena - Sweaty Sports Bra Only
 
-```
+```text
 Professional post-workout photography Helena SWEATY sports bra only. Jet black hair wet with sweat. Pale skin glistening. BLACK SPORTS BRA only soaked in sweat, abs visible. Just finished intense workout. Expression: destroyed it. Dark gym floor. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 55. Helena - Hip Thrust Top Position
+### Prompt 21: 55. Helena - Hip Thrust Top Position
 
-```
+```text
 Professional glute photography Helena HIP THRUST top hold. Jet black hair spread on bench. Pale skin in BLACK SHORTS. Maximum hip thrust position held, hips highest point, squeezing glutes. Expression: burn so good. Dark gym mirrors. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 56. Helena - Dumbbell Bend Over Row
+### Prompt 20: 56. Helena - Dumbbell Bend Over Row
 
-```
+```text
 Professional back photography Helena BENT OVER row position. Jet black hair hanging forward. Pale skin in BLACK TANK. Bent over dumbbell row position very bent forward. View from side angle. Expression: back development. Dark dumbbell area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 57. Helena - Stretching Groin
+### Prompt 19: 57. Helena - Stretching Groin
 
-```
+```text
 Professional flexibility photography Helena STRETCHING groin. Jet black hair. Pale skin in BLACK LEGGINGS. Sitting butterfly stretch pressing knees down groin stretch. Expression: opening up. Stretching mat dark. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 58. Helena - Post-Cardio Collapse
+### Prompt 18: 58. Helena - Post-Cardio Collapse
 
-```
+```text
 Professional exhaustion photography Helena COLLAPSED on floor post-cardio. Jet black hair spread on mat. Pale skin sweaty in BLACK WORKOUT SET. Lying on back exhausted from HIIT. Expression: destroyed. Dark gym floor. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 59. Helena - Gym Mirror Flex
+### Prompt 17: 59. Helena - Gym Mirror Flex
 
-```
+```text
 Professional pump photography Helena FLEXING in mirror. Jet black hair. Pale skin in BLACK SPORTS BRA AND SHORTS. Flexing various poses checking pump in gym mirror. Expression: gains looking good. Dark mirror area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 60. Helena - Locker Room Undressing
+### Prompt 16: 60. Helena - Locker Room Undressing
 
-```
+```text
 Professional locker room photography Helena CHANGING from gym clothes. Jet black hair damp. Pale skin visible. BLACK GYM CLOTHES being removed, transitioning to street clothes or lingerie. Expression: changing. Dark upscale locker room. Photorealistic 8k. Vertical.
-```
+```text
 
 #### 61-70. [Additional Helena Dark Gym scenarios]
 
 ### 💖 MISS DOLL — PINK GYM PLAY (Prompts 71-90)
 
-#### 71. Miss Doll - Yoga Downward Dog
+### Prompt 15: 71. Miss Doll - Yoga Downward Dog
 
-```
+```text
 Professional yoga photography Miss Doll DOWNWARD DOG pose. Platinum blonde bob hanging. Porcelain skin in PINK YOGA SET. Perfect downward dog pose view from behind/side. Expression: zen stretch. Pink yoga studio. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 72. Miss Doll - Squat Walk Band
+### Prompt 14: 72. Miss Doll - Squat Walk Band
 
-```
+```text
 Professional glute photography Miss Doll BAND WALK. Platinum blonde bob ponytail. Porcelain skin in PINK BOOTY SHORTS. Resistance band around thighs walking sideways. Expression: burn so good. Pink gym floor. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 73. Miss Doll - Seated Cable Row
+### Prompt 13: 73. Miss Doll - Seated Cable Row
 
-```
+```text
 Professional back photography Miss Doll CABLE ROW. Platinum blonde bob. Porcelain skin in PINK TANK. Seated cable row pulling toward chest, back engaged. Expression: pulling power. Pink cable area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 74. Miss Doll - Swiss Ball Crunch
+### Prompt 12: 74. Miss Doll - Swiss Ball Crunch
 
-```
+```text
 Professional core photography Miss Doll BALL CRUNCH. Platinum blonde bob. Porcelain skin in PINK SPORTS BRA. On Swiss ball doing crunches, arched back over ball. Expression: core work. Pink gym. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 75. Miss Doll - Jump Rope Cardio
+### Prompt 11: 75. Miss Doll - Jump Rope Cardio
 
-```
+```text
 Professional cardio photography Miss Doll JUMPING ROPE. Platinum blonde bob bouncing. Porcelain skin in PINK SHORTS AND SPORTS BRA. Mid-jump rope cardio, everything bouncing. Expression: cardio bunny. Pink gym. Photorealistic 8k. Vertical.
-```
+```text
 
 #### 76-90. [Additional Miss Doll Pink Gym scenarios]
 
 ### 👯 DUO — GYM PARTNERS (Prompts 91-100)
 
-#### 91. Helena and Miss Doll - Partner Medicine Ball
+### Prompt 10: 91. Helena and Miss Doll - Partner Medicine Ball
 
-```
+```text
 Professional duo photography PARTNER medicine ball. HELENA: black gym set throwing. MISS DOLL: pink gym set catching. Passing heavy medicine ball back and forth. Expression: teamwork. Split gym. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 92. Helena and Miss Doll - Synchronized Squats
+### Prompt 9: 92. Helena and Miss Doll - Synchronized Squats
 
-```
+```text
 Professional duo photography SYNCHRONIZED squatting. HELENA: black leggings squatting left rack. MISS DOLL: pink leggings squatting right rack. Perfect synchronized depth. Expression: twin squats. Squat racks. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 93. Helena and Miss Doll - Stretching Partners
+### Prompt 8: 93. Helena and Miss Doll - Stretching Partners
 
-```
+```text
 Professional duo photography PARTNER stretching. HELENA: pushing Miss Doll forward in seated stretch. MISS DOLL: being pushed deeper into forward fold. Assisted stretching intimate. Expression: deeper. Mat area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 94. Helena and Miss Doll - Locker Room After
+### Prompt 7: 94. Helena and Miss Doll - Locker Room After
 
-```
+```text
 Professional duo photography LOCKER ROOM post-workout. HELENA: changing from black gym clothes. MISS DOLL: changing from pink gym clothes. Both in various stages of changing together. Expression: after workout. Locker room. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 95. Helena and Miss Doll - Sauna Recovery
+### Prompt 6: 95. Helena and Miss Doll - Sauna Recovery
 
-```
+```text
 Professional duo photography SAUNA together. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Both relaxing in sauna post-workout. Expression: sweating it out. Luxury sauna. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 96. Helena and Miss Doll - Gym Competition
+### Prompt 5: 96. Helena and Miss Doll - Gym Competition
 
-```
+```text
 Professional duo photography GYM COMPETITION workout. HELENA and MISS DOLL racing each other on side by side treadmills. Who can run faster competition. Expression: race. Cardio floor. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 97. Helena and Miss Doll - Massage Gun Recovery
+### Prompt 4: 97. Helena and Miss Doll - Massage Gun Recovery
 
-```
+```text
 Professional duo photography MASSAGE GUN. HELENA: using massage gun on Miss Doll's sore muscles. MISS DOLL: receiving massage face showing relief. Recovery massage. Expression: so sore. Recovery area. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 98. Helena and Miss Doll - Protein Shake Share
+### Prompt 3: 98. Helena and Miss Doll - Protein Shake Share
 
-```
+```text
 Professional duo photography PROTEIN SHAKE together. HELENA: black shake. MISS DOLL: pink shake. Sitting at gym bar sipping shakes post-workout chatting. Expression: refuel time. Gym cafe. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 99. Helena and Miss Doll - Car Ride After
+### Prompt 2: 99. Helena and Miss Doll - Car Ride After
 
-```
+```text
 Professional duo photography LEAVING GYM together. HELENA: driving car in black athleisure. MISS DOLL: passenger seat pink athleisure. Both in gym clothes headed home. Expression: done for today. Car interior. Photorealistic 8k. Vertical.
-```
+```text
 
-#### 100. Helena and Miss Doll - Ultimate Gym Pose
+### Prompt 1: 100. Helena and Miss Doll - Ultimate Gym Pose
 
-```
+```text
 Professional duo photography ULTIMATE GYM pose. HELENA: BLACK LEGGINGS AND SPORTS BRA flexing dominant. MISS DOLL: PINK LEGGINGS AND SPORTS BRA posing beside her. Both showing off physiques together. Expression: gym queens. Dark modern gym mirrors. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
