@@ -355,13 +355,13 @@ Miss Doll hace una pausa de cinco segundos. Mira a Julián. Mira a Marco. Mira a
 
 Tres segundos más.
 
-—**B**. ¡El rango promedio nacional! Nueva York es caro, pero no *tanto*.
+—**C**. ¡Seis a diez mil! La Mecca de la cirugía cobra *caro*, muñequitas.
 
-**Marcador: Marco 7 — Julián 4**
+**Marcador: Marco 7 — Julián 5**
 
-Marco gruñe de frustración. El sonido es grave, casi animal.
+Julián exhala de alivio. Por primera vez en todo el show, ha acertado *más* que Marco en un bloque.
 
-El Cock Compass de Julián *explota*.
+El Cock Compass sigue zumbando en su cráneo, pero por un momento... un pequeño momento... siente algo parecido a *esperanza*.
 
 *Ese sonido. Ese sonido grave viniendo de esa garganta. De ese pecho. De ese...*
 
@@ -419,39 +419,31 @@ Apollo está tan cerca que su pecho roza el hombro de Julián con cada respiraci
 
 Pero el Cock Compass no entiende de moral. El Cock Compass solo *desea*.
 
-Presiona algo. No sabe qué.
-
-Miss Doll ha bajado sus manos por la espalda de Marco, sus uñas dejando líneas que encienden cada nervio de su piel hipersensible.
-
-Marco gime. Alto. Claro. El sonido de alguien perdiendo el control de su propio cuerpo.
-
-Pero logra presionar **B** con confianza de instinto. *Miami es caro. Pero no tanto como Nueva York. Quince a veinte parece correcto.*
+Presiona **C** por instinto. *Seis a diez... suena correcto.*
 
 La música se detiene.
 
 Silencio absoluto.
 
-—Julián presionó... A. Ocho a doce mil. Marco dice B, quince a veinte.
+—Julián presionó... C. Seis a diez mil. Marco dice B, quince a veinte.
 
-Miss Doll camina hacia Julián. Se inclina hacia él. Sus labios a centímetros de los suyos.
+Miss Doll camina hacia Marco. Se inclina hacia él. Sus labios a centímetros de los suyos.
 
 —La respuesta correcta es...
 
 Diez segundos.
 
-—**B**.
+—**C**.
 
-**Marcador: Marco 8 — Julián 4**
+**Marcador: Marco 7 — Julián 6**
 
-⚠️ **PENALIDAD:** Julián -5 IQ → Total acumulado: -40 IQ → IQ actual: 115
+⚠️ **PENALIDAD:** Marco -5 IQ → Total acumulado: -10 IQ → IQ actual: 90
 
-El Glow pulsa en el cráneo de Julián. Más palabras se *escapan*. Conceptos que antes dominaba se vuelven borrosos. ¿Cuál era la raíz cuadrada de...? ¿Cómo se calculaba el...?
+Marco parpadea. Algo en su cabeza se siente... *diferente*. Las palabras que antes usaba sin pensar ahora requieren un esfuerzo extra. ¿Cómo se decía...? ¿Qué era esa palabra...?
 
-No importa.
+*No importa. No importa.*
 
-Lo único que importa es que Adonis sigue con su mano en su espalda. Y Apollo está *tan cerca*.
-
-*No puedo más. No puedo más. No puedo más.*
+Lo único que importa es que Miss Doll sigue tocando su piel. Y cada roce es *todo*.
 
 ---
 
@@ -459,29 +451,31 @@ Lo único que importa es que Adonis sigue con su mano en su espalda. Y Apollo es
 
 Miss Doll se gira hacia la cámara con los brazos abiertos.
 
-—¡Y ESO fue el Bloque 4! ¡Marco sigue liderando con *ocho puntos*! ¡Julián remontó hasta *cuatro*! ¡Pero el rating... el rating está en **TREINTA Y SEIS MILLONES**!
+—¡Y ESO fue el Bloque 4! —Su voz tiene un filo diferente, una sorpresa que no puede ocultar del todo—. ¡Julián remontó hasta *seis puntos*! ¡Marco se quedó en *siete*! ¡Y el rating... el rating está en **TREINTA Y SEIS MILLONES**!
 
-Se acerca a Julián, que tiembla en su podio, flanqueado por los dos modelos masculinos, sus ojos todavía tratando de no mirarlos.
+Se acerca a Marco, que tiembla en su podio. Su Piel de Porcelana está hiperactiva después de todo el toqueteo de Miss Doll durante el quiz.
 
-—Pero perdiste otra vez, Princesa. Y eso significa... más consecuencias.
+—Pero perdiste este bloque, muñequita. —Miss Doll desliza un dedo por su mandíbula—. Tu *instinto de la calle* te falló esta vez. Y eso significa... consecuencias.
+
+Marco traga saliva. El movimiento hace que su piel hipersensible registre hasta la fricción de su propia garganta.
 
 Los hologramas flotan sobre el atril.
 
-—Queridos voyeurs. Esta semana eligen el próximo castigo para nuestro Príncipe. Las opciones son...
+—Queridos voyeurs. Esta semana eligen el próximo castigo para nuestra *Muñequita de Porcelana*. Y porque ustedes son *tan* crueles... les doy opciones especiales.
 
 ---
 
 🗳️ **TU VOTO DECIDE**
 
-¿Qué castigo recibe Julián? (Se aplicará en el Capítulo 6)
+¿Qué castigo recibe Marco? (Se aplicará en el Capítulo 6)
 
-**OPCIÓN A: LIP BOOST 💋**
+**OPCIÓN A: SILICONE DREAMS 🎈**
 
-Sus labios crecerán un 30%. Más gruesos. Más húmedos. Más *invitantes*. Imposible cerrar la boca completamente. Babeo involuntario.
+Implantes mamarios Clase IV. Copa D o superior. Permanentes. Sensibles. Pesados. Marco sentirá cada rebote, cada roce de tela, cada mirada. Su Piel de Porcelana los hará *hipersensibles*.
 
-**OPCIÓN B: HEEL LOCK 👠**
+**OPCIÓN B: BIMBO BRAIN 🧠✨**
 
-Sus tendones de Aquiles serán acortados. Solo podrá caminar en tacones de mínimo 10cm. Andar "quebrado" forzoso. Caderas balanceándose automáticamente.
+Degradación cognitiva selectiva. Olvida información "compleja": matemáticas, política, historia. Solo recuerda cosas "bonitas": maquillaje, moda, chismes. Su IQ de 90 BAJARÁ a 75. Pensamiento crítico: *eliminado*.
 
 🔗 **[VOTA AQUÍ](https://strawpoll.com/PENDIENTE)** (Link Externo)
 
@@ -491,17 +485,13 @@ El resultado se ejecutará en vivo en el Capítulo 6. La modificación es PERMAN
 
 Miss Doll mira a cámara con una última sonrisa.
 
-Adonis y Apollo siguen flanqueando a Julián, sus cuerpos aceitados brillando bajo las luces del cierre.
+Marco está pálido. Sus labios tiemblan. Por primera vez desde que entró al show, parece... *asustado*.
 
-—Recuerden, voyeurs: ustedes controlan el destino del Príncipe. ¿Quieren verlo babear... o quieren verlo *caminar* como la puta en que se está convirtiendo?
+—Recuerden, voyeurs: ustedes controlan el destino de la Muñequita. ¿Quieren verlo con *tetas*... o quieren que *olvide* cómo pensar?
 
-Hace una pausa.
+Hace una pausa. Adonis y Apollo han vuelto a flanquear a Julián, manteniéndolo distraído mientras el foco está en Marco.
 
-—El voto cierra en una semana. Y yo... yo ya tengo mi predicción.
-
-Sus labios se curvan.
-
-—Esta vez *no* me equivocaré.
+—El voto cierra en una semana. Y yo... —Miss Doll se lame los labios—. ...voy a disfrutar *cualquiera* de las dos opciones.
 
 Las luces se apagan.
 

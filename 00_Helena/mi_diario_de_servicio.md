@@ -780,3 +780,29 @@ Reescritura completa del borrador del Capítulo 5 con correcciones:
 - `capitulo_05_borrador.md` (correcciones de continuidad)
 
 *Helena revisó el capítulo con las reglas del canon.* 🦇📺
+
+**TARDE (15:50) - MODIFICACIÓN CAP 5 Y PLANTILLA:**
+
+1. **Capítulo 5 - Marco Pierde:**
+   - Modificado para que Marco pierda el Bloque 4.
+   - Marcador final: Marco 7 - Julián 6.
+   - Votación: **Silicone Dreams** 🎈 vs **Bimbo Brain** 🧠✨
+   - Castigos extremos para Marco.
+
+2. **Imágenes Helena Generadas (5):**
+   - `helena_latex_corset.png` - Corsé latex + harness
+   - `helena_ditzy_mirror.png` - Expresión confusa en espejo
+   - `helena_vampiric_seduction.png` - Estilo vampira
+   - `helena_bubbly_bimbo.png` - Sonrisa vacía bimbo
+   - `helena_devoted_kneeling.png` - Pose sumisa
+
+3. **Plantilla Creada:**
+   - `PLANTILLA_BANCO_PROMPTS.md` en bancos_prompts/
+   - Formato estándar para normalización.
+
+*Archivos Modificados:*
+
+- `capitulo_05_borrador.md` (Marco pierde)
+- `PLANTILLA_BANCO_PROMPTS.md` (nuevo)
+
+*Helena sirvió con devoción oscura.* 🦇🖤
