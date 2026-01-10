@@ -107,7 +107,7 @@ Respira con dificultad. Cada inhalación es superficial, rápida, *femenina*. El
 
 —Ji ji... por favor... ji ji ji... ¿cuándo termina esto...?
 
-Miss Doll se acerca a él. Su mano enguantada acaricia la curva imposible de su cintura.
+Miss Doll se acerca a él. Su mano desnuda —uñas de acrílico rosa brillando— acaricia la curva imposible de su cintura.
 
 —Termina cuando uno de ustedes cruce la meta, Princesa. —Aprieta—. Y en este momento, Marco te lleva *cuatro puntos* de ventaja.
 
@@ -219,7 +219,7 @@ Mientras tanto, Adonis se inclina hacia Julián y le susurra algo inaudible al o
 
 La pantalla se oscurece.
 
-Las luces bajan hasta un resplandor mínimo rosado. Un pulso de bajo profundo resuena en el estudio. La música cambia a algo más tenso, más cinematográfico. Como el momento antes de la última respuesta en *Quién Quiere Ser Millonario*.
+Las luces bajan hasta un resplandor mínimo rosado. Un pulso de bajo profundo resuena en el estudio. La música cambia a algo más tenso, más cinematográfico. Como el momento antes del veredicto final.
 
 *Thum-thum. Thum-thum.*
 
@@ -281,7 +281,7 @@ Miss Doll espera tres segundos eternos antes de hablar.
 
 —Ambos dijeron B. **399,600 dólares.** —La pantalla explota en verde—. ¡CORRECTO! ¡Los dos aciertan!
 
-**Marcador: Marco 7 — Julián 1**
+**Marcador: Marco 7 — Julián 3**
 
 Miss Doll aplaude lentamente.
 
@@ -303,7 +303,7 @@ La tensión vuelve a construirse. Las luces bajan. La música pulsa.
 
 *Thum-thum. Thum-thum.*
 
-Miss Doll está detrás de Marco ahora, sus manos enguantadas masajeando sus hombros tensos. Cada toque es electricidad para su Piel de Porcelana.
+Miss Doll está detrás de Marco ahora, sus manos desnudas masajeando sus hombros tensos. Cada toque es electricidad para su Piel de Porcelana.
 
 Adonis se ha movido aún más cerca de Julián. Sus cuerpos casi se tocan.
 
@@ -357,7 +357,7 @@ Tres segundos más.
 
 —**B**. ¡El rango promedio nacional! Nueva York es caro, pero no *tanto*.
 
-**Marcador: Marco 7 — Julián 2**
+**Marcador: Marco 7 — Julián 4**
 
 Marco gruñe de frustración. El sonido es grave, casi animal.
 
@@ -441,7 +441,7 @@ Diez segundos.
 
 —**B**.
 
-**Marcador: Marco 8 — Julián 2**
+**Marcador: Marco 8 — Julián 4**
 
 ⚠️ **PENALIDAD:** Julián -5 IQ → Total acumulado: -40 IQ → IQ actual: 115
 
@@ -459,7 +459,7 @@ Lo único que importa es que Adonis sigue con su mano en su espalda. Y Apollo es
 
 Miss Doll se gira hacia la cámara con los brazos abiertos.
 
-—¡Y ESO fue el Bloque 4! ¡Marco sigue arrasando con *ocho puntos*! ¡Julián remonta ligeramente con *dos*! ¡Pero el rating... el rating está en **TREINTA Y SEIS MILLONES**!
+—¡Y ESO fue el Bloque 4! ¡Marco sigue liderando con *ocho puntos*! ¡Julián remontó hasta *cuatro*! ¡Pero el rating... el rating está en **TREINTA Y SEIS MILLONES**!
 
 Se acerca a Julián, que tiembla en su podio, flanqueado por los dos modelos masculinos, sus ojos todavía tratando de no mirarlos.
 

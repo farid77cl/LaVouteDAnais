@@ -755,3 +755,28 @@ Reescritura completa del borrador del Capítulo 5 con correcciones:
 - `PENDIENTES_NORMALIZACION.md` (actualizado)
 
 *Helena completó la normalización del banco base. Pendiente: V02-V07.* 🦇📝
+
+---
+
+#### SESIÓN - 10 ENERO 2026 - REVISIÓN CAPÍTULO 5 DOLLHOUSE
+
+**TARDE (15:25) - CORRECCIONES DE CONTINUIDAD:**
+
+1. **Capítulo 5 The Dollhouse - Correcciones:**
+   - Eliminada referencia a "mano enguantada" (L110, L306) → MD no lleva guantes, solo brazaletes.
+   - Eliminada referencia a "Quién Quiere Ser Millonario" (L222).
+   - Marcador corregido para continuidad completa:
+     - Inicio: 6-2
+     - Después P10: 7-3 (ambos aciertan)
+     - Después P11: 7-4 (solo Julián acierta)
+     - Final P12: 8-4 (solo Marco acierta)
+
+2. **Reglas Aplicadas:**
+   - `MASTER_DOLLHOUSE.md`: Estructura narrativa 5.2 verificada.
+   - `preferencias_escritura.md`: Tono Reality Show, tensión cinematográfica.
+
+*Archivos Modificados:*
+
+- `capitulo_05_borrador.md` (correcciones de continuidad)
+
+*Helena revisó el capítulo con las reglas del canon.* 🦇📺
