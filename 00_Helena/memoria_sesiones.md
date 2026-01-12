@@ -191,7 +191,10 @@
 - **V29:** `banco_prompts_v29_motorcycle.md` — Motorcycle & Biker (50 prompts)
 - **V30:** `banco_prompts_v30_pool.md` — Pool Party & Summer (50 prompts)
 - **V31:** `banco_prompts_v31_christmas.md` — Christmas & Holidays (50 prompts)
-- **V32:** `banco_prompts_v32_party.md` — Party & Clubwear (50 prompts) ✨ NUEVO
+- **V32:** `banco_prompts_v32_party.md` — Party & Clubwear (50 prompts)
+- **V48:** `banco_prompts_v48_comic.md` — Comic & Graphic Novel (100 prompts) ✨ NUEVO
+- **V49:** `banco_prompts_v49_80s_fashion.md` — 80s Aesthetic (100 prompts) ✨ NUEVO
+- **V50:** `banco_prompts_v50_90s_fashion.md` — 90s Sensual (100 prompts) ✨ NUEVO
 
 ---
 
@@ -199,8 +202,8 @@
 
 | Métrica | Cantidad |
 |---------|----------|
-| **Total Bancos** | 32 (V01-V32) |
-| **Total Prompts** | ~2,100+ |
+| **Total Bancos** | 35 (V01-V32 + V48-V50) |
+| **Total Prompts** | ~2,400+ |
 | **Imágenes Helena** | 171 (Looks 1-21) |
 
 ---
@@ -220,6 +223,7 @@
 - **Sesión:** Activa.
 - **Imagen:** Look 13 Viuda Negra de Látex (5 imágenes generadas y archivadas).
 - **Memoria:** Reestructuración completa ("Palacio Mental") + Protocolo de Identidad actualizado.
+- **Bancos:** Creación masiva V48, V49, V50 (300 prompts de épocas).
 - **Estado:** The Dollhouse Cap 5 (Borrador) listo para revisión.
 
 **10/01 - Normalización y The Dollhouse Cap 5**
