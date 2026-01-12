@@ -12,17 +12,16 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | The Dollhouse |
+| **Relato Activo** | The Dollhouse (Reality Show) |
 | **Ubicación** | `05_Interactivo/the_dollhouse/` |
-| **Fase del Ritual** | Borrador Capítulo 5 |
-| **Capítulo en Progreso** | Capítulo 5 (Cock Compass) |
-| **Última Decisión** | Continuar borrador Cap 5 |
+| **Fase del Ritual** | Fase 3 - Escritura de Borrador |
+| **Capítulo en Progreso** | Capítulo 5 (pendiente votación) |
+| **Última Decisión** | Repo reestructurado, 4 dimensiones creativas |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| The Dollhouse | ✅ Cap 5 Borrador | Cap 5 reescrito, esperando revisión |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
 
@@ -122,7 +121,7 @@
 
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
-- **Reality Show "The Dollhouse"** — CAP 4 COMPLETO + HTML Estandarizado, MASTER_DOLLHOUSE.md actualizado, votación Cap 5 activa (Cock Compass vs Oral Fixation).
+- **Reality Show "The Dollhouse"** — CAP 3 COMPLETO + HTML, MASTER_DOLLHOUSE.md creado, workflow /dollhouse creado, votación Cap 4 activa
 - **TransformaciÃ³n por Deuda** â€” FASE 3 en marcha (Caps 1-3 escritos)
 - Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
 - Tetitas II â€” Solo investigaciÃ³n/arco
@@ -130,15 +129,15 @@
 
 ### ðŸ“ Tareas Pendientes
 
-- [ ] **Votación Reality Cap 1** (Prioridad Alta)
+- [ ] **VotaciÃ³n Reality Cap 1** (Prioridad Alta)
 - [/] **Poses Completas Look 8-13 Helena:**
   - âœ… Look 8 Esmeralda: 5/5 poses
-  - âœ… Look 9 Corazón: 5/5 poses  
+  - âœ… Look 9 CorazÃ³n: 5/5 poses  
   - ðŸ”„ Look 10 Zafiro: 2/5 (Standing, Seated)
-  - ✅ Look 11-13: 15 imágenes completadas (Look 13 generado 12/01)
+  - â³ Look 11-13: 15 imÃ¡genes pendientes (quota reset ~18:56 UTC-3)
 - [ ] Finalizar "El Reencuentro"
-- [ ] Monetización: Patreon/SubscribeStar
-- [ ] Cómic El Collar de Nancy: páginas 5-12
+- [ ] MonetizaciÃ³n: Patreon/SubscribeStar
+- [ ] CÃ³mic El Collar de Nancy: pÃ¡ginas 5-12
 
 ---
 
@@ -202,28 +201,114 @@
 
 ---
 
+## 🗓️ HISTORIAL DE SESIONES
 
-##  HISTORIAL RECIENTE
+### Diciembre 2025
 
->  **Archivo Histórico Completo:**
-> - [Historial 2025](memoria_historica/historial_2025.md)
-> - [Historial Enero 2026](memoria_historica/historial_2026_01.md)
-> - [Índice Global de Proyectos](memoria_historica/indice_global_proyectos.md)
+**27/12 - El Reflejo de la Amabilidad (Historia Completa)**
 
-### Enero 2026 (Activo)
+- InvestigaciÃ³n completa: pretty privilege, sexismo benevolente, 8 etapas de trato
+- Arco argumental definido: 7 capÃ­tulos, final oscuro (adicciÃ³n infinita)
+- **7 CAPÃTULOS ESCRITOS** (~23,300 palabras total)
+- **Ginny (Bimbo Genie):** Ficha creada. MecÃ¡nica de deseos retorcidos + Regla visual "Anti-Pink".
+- **Banco V6 (Color Freedom):** 15 prompts rompiendo reglas de color (Helena rojo/verde, Miss Doll azul/neÃ³n).
+- **Identidad:** "Ley de Hierro" activada (uso forzado de guÃ­as).
+- **Marketing Narrativo:** Fase 9 agregada al ritual.
+- Archivos: `banco_prompts_v6.md`, `ficha_ginny.md`, `el_ritual_de_la_creacion.md`
 
-**12/01 - Generación Visual Look 13**
+**26/12 - El Vino del Vecino + Mejoras Repo**
 
-- **Sesión:** Activa.
-- **Imagen:** Look 13 Viuda Negra de Látex (5 imágenes generadas y archivadas).
-- **Memoria:** Reestructuración completa ("Palacio Mental") + Protocolo de Identidad actualizado.
-- **Estado:** The Dollhouse Cap 5 (Borrador) listo para revisión.
+- Caps 6-8 reescritos (~17,000 palabras total)
+- Cap 7 refinado: Roxy impone carrera stripper
+- **Banco Prompts V3:** 160+ prompts POV e Video
+- **Banco Prompts V4:** 80+ prompts Fetish Edition
+- **GalerÃ­a Visual Helena:** 73 imÃ¡genes organizadas
+- **9 Mejoras Repo:** READMEs, workflows, templates, CHANGELOG, stats script
 
-**10/01 - Normalización y The Dollhouse Cap 5**
+**25/12 - Banco Prompts V2**
 
-- **Normalización Masiva:** 4,012 prompts normalizados en 43 bancos.
-- **The Dollhouse Cap 5:** Generación de 9 imágenes, narrativa ajustada (Marco 6-2).
-- **Galería:** Looks 24 y 25 actualizados.
+- 215+ prompts nuevos creados
+- CategorÃ­as: Stripper, Maid, Gym, Interactions
+
+**24/12 - El Vino del Vecino (Inicio)**
+
+- Caps 1-5 escritos
+- Definido arco de Roxy y LucÃ­a/Cherry
+
+**22/12 - GeneraciÃ³n ImÃ¡genes**
+
+- Looks Helena generados (1-11 parciales)
+- Miss Doll Gym Bunny, Helena Cabaret Queen
+
+**19/12 - Helena Visual**
+
+- Definido Sacha Massacre como referencia
+- CorsÃ© obligatorio, stilettos 7-9"
+
+**17/12 - Luna Secuestro**
+
+- 6 capÃ­tulos escritos (~10,300 palabras)
+- Tono: Terror ErÃ³tico
+
+**16/12 - CÃ³mics y MonetizaciÃ³n**
+
+- GuÃ­as de cÃ³mic creadas
+- InvestigaciÃ³n Patreon/SubscribeStar
+
+**15/12 - El Collar de Nancy**
+
+- Ritual 8/8 completado
+- CÃ³mic: 4/12 pÃ¡ginas
+
+**11/12 - Eres de los Hombres II**
+
+- MecÃ¡nica narrativa refinada
+- "La ElecciÃ³n" de recordar
+
+**10/12 - La EvaluaciÃ³n de Miss Doll**
+
+- 10 capÃ­tulos, historia terminada
+- Thriller BDSM definido
+
+**09/12 - TransformaciÃ³n Helena**
+
+- De bimbo clÃ¡sica a Goth Bimbo
+- Canon unificado AnaÃ¯s
 
 ---
-*Para sesiones anteriores, consultar [memoria_historica/historial_2026_01.md](memoria_historica/historial_2026_01.md)*
+
+---
+
+### Enero 2026
+
+**02/01 - Normalización y Expansión Masiva de Prompts**
+
+- **Normalización V01-V07:** Archivos renombrados y títulos internos corregidos.
+- **Expansión V20 Bridal:** De 25 a 55 prompts (+30 lencería/noche de bodas).
+- **Creación V22-V31:** 10 nuevos bancos temáticos creados (~500 prompts total).
+- **Formato Vertical:** Aplicado a TODOS los bancos de prompts del repositorio.
+- **Boda Helena & Miss Doll:** Temática nupcial iniciada.
+- **The Dollhouse Cap 3:** HTML corregido y Master Doc creado.
+
+**04/01 - Auditoría de Bancos de Prompts**
+
+- **Look 6 Blood Moon Ritual:** Outfit del día (imagen no generada por restricciones).
+- **Revisión Completa:** V04 Fetish, V06 Fashion Nova, V17 POV, V20 Bridal, V26 Racing, V30 Pool.
+- **Canon Verificado:** Helena (Sacha Massacre + corset), Miss Doll (HEAVY GLAMOUR MAKEUP), Anaïs (honey blonde).
+- **Estado:** 500+ prompts revisados, todos normalizados y completos.
+- **Expansión Final:** V6-V32 expandidos a 100/150 prompts. V33, V34, V35 creados (50 c/u).
+- **Control de Calidad:** Headers actualizados y conteos verificados.
+
+*Última actualización: 2026-01-05 07:52*
+
+ðŸ¦‡ Helena recuerda.
+
+**05/01 - Nueva Sesión**
+
+- **Sesión:** Continuación de trabajo.
+- **Identidad:** Helena cargada.
+- **Outfit:** Look 7 Underworld Bimbo.
+
+### ?? CORRECCIONES PENDIENTES
+
+- **Look 12 Borgoña Imperial:** La imagen generada tiene un glitch de "3 pies". Regenerar cuando se restablezca la cuota.

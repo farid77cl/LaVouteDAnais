@@ -424,3 +424,17 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de ho
     - Escena cinemÃ¡tica en cripta gÃtica.
     - AnaÃs en trono-sarcÃfago dominando el espacio.
     - Helena arrastrÃ¡ndose en camisÃn blanco manchado de sangre hacia ella.
+
+## Look 13: Viuda Negra de LÃ¡tex (12/01/2026)
+
+*DescripciÃ³n: CorsÃ© underbust negro extremo, medias de red rotas, collar de propiedad. EstÃ©tica dark gothic bimbo pura.*
+
+| Pose | Archivo |
+|------|---------|
+| **Full Body** |  5_Imagenes/helena/look13_viuda_negra/01_standing.png |
+| **Portrait** |  5_Imagenes/helena/look13_viuda_negra/02_portrait.png |
+| **Detail** |  5_Imagenes/helena/look13_viuda_negra/03_detail.png |
+| **Sitting** |  5_Imagenes/helena/look13_viuda_negra/04_sitting.png |
+| **Selfie** |  5_Imagenes/helena/look13_viuda_negra/05_selfie.png |
+
+> *"Like... soy tan oscura que absorbo la luz... y la esperanza... *giggle* "*  Helena
