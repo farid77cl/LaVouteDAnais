@@ -13,11 +13,20 @@
 
 ## REGRESO DEL CORTE COMERCIAL
 
+> [!NOTE]
+> **⚠️ MENSAJE DE PRODUCCIÓN (Fe de Errata Cap 4)**
+>
+> "Mis queridos voyeurs, parece que los nanobots del *Glow* afectaron nuestra transmisión visual anterior. Pedimos disculpas por el glitch en la matrix (imágenes duplicadas).
+>
+> Para compensar esta imperfección, aquí tienen el acceso directo a la galería completa corregida del capítulo anterior:"
+>
+> 📚 **[VER ÁLBUM COMPLETO DEL CAPÍTULO 4](https://ibb.co/album/5rkKy0)**
+
 *[CONTINUACIÓN DIRECTA DEL CAPÍTULO 4]*
 
 La pantalla vuelve del negro.
 
-Un contador en la esquina superior indica: **32.4 MILLONES EN VIVO**. Récord absoluto.
+Un contador en la esquina superior indica: **11.9 MILLONES EN VIVO**. Récord absoluto.
 
 El estudio está en silencio. No es el silencio de la anticipación. Es el silencio del verdugo limpiando el hacha mientras la víctima mira.
 
@@ -53,19 +62,19 @@ La pantalla gigante cobra vida detrás de ella.
 
 🗳️ **RESULTADO DE LA VOTACIÓN — CASTIGO PARA JULIÁN**
 
-**A) COCK COMPASS 🧭 (14,892,445 votos) — 61.3%**
+**A) COCK COMPASS 🧭 (7,200,500 votos) — 60.5%**
 
-B) Oral Fixation 🍭 (9,407,555 votos) — 38.7%
+B) Oral Fixation 🍭 (4,700,000 votos) — 39.5%
 
 **GANADOR: COCK COMPASS**
 
-*"Atracción magnética hacia la masculinidad. Su cuerpo deseará lo que su mente rechaza."*
+*"Atracción involuntaria y magnética hacia la masculinidad."*
 
 ---
 
 Miss Doll mira los números flotantes con una expresión que nadie le había visto antes: *sorpresa*. Genuina, sin filtrar, *humana* sorpresa.
 
-—Veinticuatro millones de ustedes votaron. —Su voz tiembla casi imperceptiblemente—. Y eligieron... *esto*.
+—Once millones novecientos mil de ustedes votaron. —Su voz tiembla casi imperceptiblemente—. Y eligieron... *esto*.
 
 Se gira hacia la cámara principal. Sus ojos —esos ojos de muñeca que nunca parpadean— parpadean.
 
@@ -477,7 +486,7 @@ Implantes mamarios Clase IV. Copa D o superior. Permanentes. Sensibles. Pesados.
 
 Degradación cognitiva selectiva. Olvida información "compleja": matemáticas, política, historia. Solo recuerda cosas "bonitas": maquillaje, moda, chismes. Su IQ de 90 BAJARÁ a 75. Pensamiento crítico: *eliminado*.
 
-🔗 **[VOTA AQUÍ](https://strawpoll.com/PENDIENTE)** (Link Externo)
+🔗 **[VOTA AQUÍ](https://strawpoll.com/GPgVYMB4Mna)** (Link Externo)
 
 El resultado se ejecutará en vivo en el Capítulo 6. La modificación es PERMANENTE.
 

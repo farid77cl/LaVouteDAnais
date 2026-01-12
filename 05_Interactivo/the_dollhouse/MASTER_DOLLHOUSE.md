@@ -1,7 +1,7 @@
 # 📺 THE DOLLHOUSE — Documento Maestro de Producción
 
-> **Estado Actual:** Capítulo 4 completado, votación activa para Cap 5
-> **Última Actualización:** 06 Enero 2026
+> **Estado Actual:** Capítulo 5 completado (HTML Generado), votación activa para Cap 6
+> **Última Actualización:** 12 Enero 2026
 > **Tipo de Proyecto:** Reality Show Interactivo de Bimboficación MTF
 
 ---
@@ -96,11 +96,13 @@ flowchart TD
 | Atributo | Valor Inicial | Valor Actual | Cambio |
 |----------|---------------|--------------|--------|
 | IQ | 155 | 120 | -35 |
-| Transformaciones | Ninguna | Cintura de Avispa (48cm), Giggle Lock | +2 |
+| Transformaciones | Ninguna | Cintura de Avispa (48cm), Giggle Lock, **Cock Compass** | +3 |
 | Puntos Acumulados | 0 | 0 | — |
-| Estado Mental | Arrogante | Risa compulsiva, dificultad respiratoria, humillación total | Degradado |
+| Estado Mental | Arrogante | Risa compulsiva, atracción involuntaria a hombres (bultos) | Degradado++ |
 
-**Próxima Transformación (Pendiente Votación):**
+**Próxima Transformación (Aplicada en Cap 5):**
+
+- **Cock Compass** (Ganador 61.3%) ✅
 
 - **Opción A:** Cock Compass (atracción magnética a hombres)
 - **Opción B:** Oral Fixation (necesidad constante de objetos en boca)
@@ -132,7 +134,8 @@ flowchart TD
 |----------|----------|------|-----------|-------|
 | Cap 2 | Castigo Marco | [strawpoll.com/2ayLQwqGen4](https://strawpoll.com/2ayLQwqGen4) | Opción A (Porcelana) | 85/135 (62.96%) |
 | Cap 3 | Castigo Julián | [strawpoll.com/61gD9MmDAZw](https://strawpoll.com/61gD9MmDAZw) | **Cintura de Avispa** | 74/111 (66.67%) | [ibb.co/6c8dsHMP](https://ibb.co/6c8dsHMP) |
-| Cap 4 | Castigo Julián (Cap 5) | [strawpoll.com/X3nkPvYVLgE](https://strawpoll.com/X3nkPvYVLgE) | **EN CURSO** | - |
+| Cap 4 | Castigo Julián (Cap 5) | [strawpoll.com/X3nkPvYVLgE](https://strawpoll.com/X3nkPvYVLgE) | **Cock Compass** | 72/119 (60.5%) | [Result Img](https://ibb.co/WpMzd1W2) |
+| Cap 5 | Castigo Marco (Cap 6) | [strawpoll.com/GPgVYMB4Mna](https://strawpoll.com/GPgVYMB4Mna) | **EN CURSO** | - | - |
 
 ### 3.2 Crear Nueva Votación
 
@@ -320,19 +323,18 @@ FASE 4: PUBLICACIÓN (Viernes)
 
 ### 5.4 Generación de HTML
 
-**ESTÁNDAR 2026 (EMBED STYLE):**
-Desde el Capítulo 4, el formato HTML es estricto para asegurar consistencia visual en el editor web.
+**ESTÁNDAR 2026 (PLATFORM NATIVE):**
+Desde el Capítulo 5, se utiliza un formato "Plain HTML" simplificado para compatibilidad total con el editor de la plataforma.
 
-1. **Consultar Reglas:** Ver `formato_html.md`.
-2. **Usar Plantilla:** Copiar base de `template_embed.html`.
-3. **Requisitos Clave:**
-   - Solo `div` contenedor (sin html/body tags)
-   - Estilos inline obligatorios
-   - Fuente `Georgia, serif`
-   - Imágenes con borde rosa neón y sombra
+1. **Sin Contenedor:** No usar `div` contenedor con estilos. El texto fluye naturalmente.
+2. **Sin Títulos Redundantes:** Omitir H1/H2 principales (la plataforma los inserta).
+3. **Formato Simple:** 
+   - Cajas de estado -> Tablas simples o P con border/background inline.
+   - Imágenes -> P align center con borde rosa opcional.
+   - Fuentes -> Browser default (se adapta al CSS del sitio).
 
-**Ubicación de Plantilla:**
-`05_Interactivo/the_dollhouse/template_embed.html`
+**Ubicación de Referencia:**
+`03_Literatura/finalizadas/html/the_dollhouse_cap5.html`
 
 ---
 
@@ -348,6 +350,12 @@ Desde el Capítulo 4, el formato HTML es estricto para asegurar consistencia vis
 | Enfermeras Sin Rostro | [ibb.co/bjcnzF8D](https://ibb.co/bjcnzF8D) | Cap 1 |
 | Control Remoto | [ibb.co/5qZVntc](https://ibb.co/5qZVntc) | Cap 3 |
 | Julián - Cintura de Avispa | [ibb.co/6c8dsHMP](https://ibb.co/6c8dsHMP) | Cap 4 |
+| Miss Doll - Microkini Intro | [ibb.co/d0BzZ2pC](https://ibb.co/d0BzZ2pC) | Cap 5 |
+| Miss Doll - Lost Bet | [ibb.co/Xk3NZrPf](https://ibb.co/Xk3NZrPf) | Cap 5 |
+| Adonis & Apollo Intro | [ibb.co/wFfqbrxY](https://ibb.co/wFfqbrxY) | Cap 5 |
+| Pregunta 10 - OnlyFans | [ibb.co/q3LjgcG7](https://ibb.co/q3LjgcG7) | Cap 5 |
+| Pregunta 11 - Sugar Daddy | [ibb.co/Ldnvv4Cg](https://ibb.co/Ldnvv4Cg) | Cap 5 |
+| La Votación - Silicone vs Bimbo | [ibb.co/Y7khV1r5](https://ibb.co/Y7khV1r5) | Cap 5 |
 
 ### 6.2 Imágenes por Generar
 
@@ -380,7 +388,7 @@ Desde el Capítulo 4, el formato HTML es estricto para asegurar consistencia vis
 | 2 | Quiz Bloque 1, introducción reglas | — |
 | 3 | Transformación Marco (Porcelana), Quiz Bloque 2 | Piel de Porcelana (Marco) |
 | 4 | Aplicar castigo votado (Julián), Quiz Bloque 3 | Cintura o Lenguaje (Julián) |
-| 5 | Quiz Bloque 4, escalada | TBD |
+| 5 | Quiz Bloque 4, escalada | Cock Compass (Julián) |
 | 6-8 | Desarrollo medio | Acumulación de castigos |
 | 9 | Bloque Final | Castigo definitivo |
 | 10 | Finale | Bimboficación completa del perdedor |

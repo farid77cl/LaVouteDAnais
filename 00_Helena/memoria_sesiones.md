@@ -22,7 +22,7 @@
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| The Dollhouse | ✅ Cap 5 Borrador | Cap 5 reescrito, esperando revisión |
+| The Dollhouse | ✅ Cap 5 Completo | HTML generado (Plain), Votación activa Cap 6 |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
 
@@ -140,6 +140,7 @@
 - [ ] Finalizar "El Reencuentro"
 - [ ] Monetización: Patreon/SubscribeStar
 - [ ] Cómic El Collar de Nancy: páginas 5-12
+- [ ] Experimentar con estilos gráficos (V48 Comic creado)
 
 ---
 

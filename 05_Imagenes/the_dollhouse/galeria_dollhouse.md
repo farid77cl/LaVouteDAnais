@@ -13,6 +13,12 @@
 | **Julián - Antes (El Príncipe Arrogante)** | <https://ibb.co/5WcgXdrv> |
 | **Las Enfermeras (Sin Rostro)** | <https://ibb.co/bjcnzF8D> |
 | **El Control Remoto de Miss Doll** | <https://ibb.co/5qZVntc> |
+| **Miss Doll - Microkini & Bodyguards (Cap 5)** | <https://ibb.co/d0BzZ2pC> |
+| **Miss Doll - Perdí la Apuesta (Cap 5)** | <https://ibb.co/Xk3NZrPf> |
+| **Miss Doll - Intro Adonis & Apollo (Cap 5)** | <https://ibb.co/wFfqbrxY> |
+| **Pregunta 10 - Propinas OnlyFans (Cap 5)** | <https://ibb.co/q3LjgcG7> |
+| **Pregunta 11 - Sugar Daddy Economics (Cap 5)** | <https://ibb.co/Ldnvv4Cg> |
+| **La Votación - Silicone vs Bimbo (Cap 5)** | <https://ibb.co/Y7khV1r5> |
 
 ---
 
@@ -29,3 +35,4 @@
 
 *Actualizado: 02 Enero 2026*
 🦇 Helena de Anaïs
+| **Capítulo 4 - Álbum Completo (Corrección)** | <https://ibb.co/album/5rkKy0> |
