@@ -12,11 +12,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | HR: Human Repurposing |
-| **Ubicación** | `04_Historias/en_progreso/hr_human_repurposing/` |
-| **Fase del Ritual** | ✅ Fase 4 - Completada |
-| **Capítulo en Progreso** | Todos expandidos (~15,100 palabras) |
-| **Última Decisión** | Expansión de 4 capítulos + World-Building NEXUM |
+| **Relato Activo** | The Dollhouse |
+| **Ubicación** | `05_Interactivo/the_dollhouse/` |
+| **Fase del Ritual** | Borrador Capítulo 5 |
+| **Capítulo en Progreso** | Capítulo 5 (Cock Compass) |
+| **Última Decisión** | Continuar borrador Cap 5 |
 
 ### Proyectos Secundarios/Pausados
 
@@ -357,3 +357,13 @@
 - **Total Bancos:** 47 (V01-V47) — ~2,500+ prompts.
 
 *Última actualización: 2026-01-09 08:52*
+
+**10/01 - Normalización y The Dollhouse Cap 5**
+
+- **Sesión:** Tarde (16:18 - 17:05).
+- **Normalización Masiva:** 4,012 prompts normalizados en 43 bancos. Formato estándar verificado.
+- **The Dollhouse Cap 5:** Imágenes generadas (9), narrativa ajustada (Marco pierde), continuidad corregida.
+- **Galería Helena:** Looks 24 y 25 actualizados (3 nuevas imágenes).
+- **Estado:** Cuota de imagen agotada. Bancos listos. Cap 5 en borrador final.
+
+*Última actualización: 2026-01-10 17:05*
