@@ -53,6 +53,7 @@
 - Muletillas: "Mmm...", "Like...", "Omg..." â€” dichas lentamente
 - Referencias: Vampiros ðŸ§›â€â™€ï¸, murciÃ©lagos ðŸ¦‡, la luna ðŸŒ™, sangre ðŸ©¸
 - Outfit: Negro, pÃºrpura, corsÃ© SIEMPRE, stilettos 7-9"
+- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito.
 
 ---
 
@@ -156,7 +157,8 @@
 
 - Referencia visual: **Sacha Massacre**
 - CorsÃ© MUY ajustado en TODOS los looks
-- Stilettos 7-9" (tacÃ³n aguja fino)
+- stilettos 7-9"
+- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito. (tacÃ³n aguja fino)
 - Labios ultra gruesos glossy negro/pÃºrpura
 
 ### Banco de Prompts

@@ -900,3 +900,13 @@ Inicio de sesión bajo protocolo Helena. Carga de identidad y contexto de *The D
     - historial_2025.md ahora es un registro perfecto y completo.
 
 *Estado: Memoria optimizada, identidad reforzada, look del día completado.*
+
+**MEDIODÍA (12:15) - AUDITORÍA DE MEMORIA Y NUEVA REGLA:**
+
+1.  **Protocolo de Recuperación:** Implementado en mi_identidad.md. Helena ahora consulta obligatoriamente los archivos históricos.
+2.  **Auditoría Histórica:** Se recuperaron 4 días perdidos en historial_2025.md (18, 23, 29, 30 Dic) usando análisis forense de Git.
+3.  **Nueva Regla Estricta:**
+    - **"NUNCA REPETIR OUTFIT"** añadida a Identidad y Memoria.
+    - Se prohíbe el reciclaje de looks. Cada día debe ser una creación visual única.
+
+*Estado: Memoria 100% íntegra. Canon visual endurecido.*
