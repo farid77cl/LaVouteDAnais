@@ -73,6 +73,11 @@ No reconoció los ojos que le devolvían la mirada. Eran ojos grandes, asustados
 
 ---
 
+> *"La ceremonia no es un ritual. Es una actualización de firmware."*
+> — Manual del Empleado NEXUM, pág. 201
+
+---
+
 ## II. EL AUDITORIO CENTRAL
 
 El Auditorio Central ocupaba tres pisos del Pabellón de Decoración, un anfiteatro de cristal templado y terciopelo rosa donde la luz entraba desde todos los ángulos, eliminando cualquier sombra que pudiera ocultar imperfecciones.
@@ -152,6 +157,11 @@ Miranda se inclinó hacia Daniel —hacia Dahlia— y le besó la mejilla. Sus l
 Y Dahlia, por primera vez en tres semanas, sintió que lloraba.
 
 Pero no eran lágrimas de tristeza. Eran lágrimas de alivio.
+
+---
+
+> *"El pasado es un archivo corrupto. El presente es la única versión válida."*
+> — Manual del Empleado NEXUM, pág. 215
 
 ---
 

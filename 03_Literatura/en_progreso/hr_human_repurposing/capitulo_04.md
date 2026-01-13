@@ -67,6 +67,11 @@ Es un sistema simple. Es un sistema perfecto.
 
 ---
 
+> *"La productividad no es una meta. Es un estado natural del empleado optimizado."*
+> — Manual del Empleado NEXUM, pág. 3
+
+---
+
 ## II. LA LLAMADA
 
 Su terminal parpadea en rosa.
@@ -124,6 +129,11 @@ Dahlia se mira en el reflejo oscuro del monitor. Ve a una mujer perfecta, de lab
 Se levanta. Alisa su falda. Verifica su maquillaje en el espejo compacto que lleva siempre en el bolsillo.
 
 Y camina hacia el ascensor de las Decoraciones.
+
+---
+
+> *"Transmitir la cultura es el mayor honor que un activo puede recibir."*
+> — Manual del Empleado NEXUM, pág. 178
 
 ---
 
@@ -254,6 +264,11 @@ Se levanta. Sus movimientos son torpes, sus piernas débiles, sus pies luchando 
 —Gracias, Dahlia —dice Kevin. Su voz ya suena diferente. Más suave. Menos resistente.
 
 —De nada, Kevin —responde ella. Y en sus labios rojos aparece una sonrisa que es genuina, que es maternal, que es terrible—. Pronto tendrás un nombre mucho más bonito.
+
+---
+
+> *"La satisfacción no viene de lo que logras. Viene de saber que la Familia está orgullosa."*
+> — Manual del Empleado NEXUM, pág. 256
 
 ---
 

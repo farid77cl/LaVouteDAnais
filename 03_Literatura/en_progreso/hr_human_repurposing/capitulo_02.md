@@ -167,6 +167,11 @@ Y cuando despertó, estaba en la cama, con las sábanas de satén perfectamente 
 
 ---
 
+> *"La identidad es un software. Y todo software puede ser actualizado."*
+> — Manual del Empleado NEXUM, pág. 12
+
+---
+
 ## II. EL UNIFORME DE TRANSICIÓN
 
 El traje gris había desaparecido. La corbata de seda. Los zapatos Oxford. Todo lo que había sido Daniel Park, Analista Senior, había sido removido mientras dormía, reemplazado por un vacío color crema y rosa pálido.
@@ -214,6 +219,11 @@ Miró el espejo.
 Miró sus manos, sus uñas brillantes.
 
 Y empezó a vestirse.
+
+---
+
+> *"La postura correcta no es una elección personal. Es un requerimiento estructural de la arquitectura corporativa."*
+> — Manual del Empleado NEXUM, pág. 47
 
 ---
 
@@ -269,6 +279,11 @@ Daniel empezaba a olvidar qué día era. Empezaba a olvidar si había tenido un 
 
 ---
 
+> *"El bienestar del empleado es responsabilidad exclusiva de la Familia. Confía. No preguntes."*
+> — Manual del Empleado NEXUM, pág. 89
+
+---
+
 ## IV. EL ELIXIR DE LA FAMILIA
 
 Esa noche, después de la cena (un puré violeta que sabía a "calma" y a algo más que Daniel prefería no identificar), fue convocado al Ala Médica.
@@ -308,6 +323,11 @@ Daniel intentó levantar la mano para mirar su piel, pero pesaba demasiado. Todo
 La enfermera se rió. Era una risa de campanillas, programada para sonar encantadora.
 
 —Tontito. Ya estás en casa.
+
+---
+
+> *"La libertad es la ilusión más costosa. La pertenencia es gratuita."*
+> — Manual del Empleado NEXUM, pág. 144
 
 ---
 

@@ -66,6 +66,11 @@ El café de repente sabía amargo.
 
 ---
 
+> *"Tu valor no es lo que produces. Tu valor es lo que la Familia decide que eres."*
+> — Manual del Empleado NEXUM, pág. 7
+
+---
+
 ## II. LA CITACIÓN
 
 Nadie recibía citaciones de Miranda Vance.
@@ -107,6 +112,11 @@ Mientras caminaba por el pasillo, notó algo que no había notado antes. Los otr
 Daniel sintió un frío en la nuca.
 
 *¿Ya lo saben?*, pensó. *¿Cómo pueden saberlo antes que yo?*
+
+---
+
+> *"El feedback es un regalo. Aceptarlo con gratitud es un requisito."*
+> — Manual del Empleado NEXUM, pág. 23
 
 ---
 
@@ -179,6 +189,11 @@ Pero solo dijo:
 Y se levantó.
 
 Y caminó hacia el despacho de Miranda Vance.
+
+---
+
+> *"Un empleado resistente es un empleado que aún no ha comprendido su verdadero potencial."*
+> — Manual del Empleado NEXUM, pág. 56
 
 ---
 
