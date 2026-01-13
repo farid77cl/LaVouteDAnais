@@ -14,15 +14,15 @@
 |-------|-------|
 | **Relato Activo** | The Dollhouse |
 | **Ubicación** | `05_Interactivo/the_dollhouse/` |
-| **Fase del Ritual** | Borrador Capítulo 5 |
-| **Capítulo en Progreso** | Capítulo 5 (Cock Compass) |
-| **Última Decisión** | Continuar borrador Cap 5 |
+| **Fase del Ritual** | ✅ Capítulo 5 Completado |
+| **Capítulo en Progreso** | Capítulo 6 (Pendiente votación) |
+| **Última Decisión** | Cap 5 publicado, votación Lip Boost vs Heel Lock |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| The Dollhouse | ✅ Cap 5 Completo | HTML generado (Plain), Votación activa Cap 6 |
+| The Dollhouse | ✅ Cap 5 Completo | HTML publicado, Votación Cap 6 activa |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
 
