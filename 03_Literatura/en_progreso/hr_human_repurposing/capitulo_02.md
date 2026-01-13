@@ -174,51 +174,111 @@ Y cuando despertó, estaba en la cama, con las sábanas de satén perfectamente 
 
 ## II. EL UNIFORME DE TRANSICIÓN
 
-El traje gris había desaparecido. La corbata de seda. Los zapatos Oxford. Todo lo que había sido Daniel Park, Analista Senior, había sido removido mientras dormía, reemplazado por un vacío color crema y rosa pálido.
+El armario estaba abierto.
 
-En el armario solo había un conjunto: el "Uniforme de Transición".
+Daniel no recordaba haberlo abierto. No recordaba haberse levantado. Pero estaba de pie frente al armario, y el armario estaba abierto, y dentro había un solo conjunto colgado con el cuidado de una reliquia.
 
-Pantalones de yoga ajustados de color blanco, de un material que se adhería a la piel como una segunda dermis. Una camiseta de seda rosa pálido, casi transparente bajo cierta luz, con el logo de NEXUM bordado en hilo de plata sobre el pecho izquierdo: dos manos entrelazadas formando una "N", pero ahora, bajo esta luz, parecían menos un abrazo y más un agarre. Y las zapatillas. Eran zapatillas de ballet, suaves, flexibles, de satén rosa, que le obligaban a caminar con un cuidado absurdo, con los pies eternamente en puntas.
+*¿Cuántas veces me he dormido?*
 
-—No voy a ir —dijo Daniel a su reflejo en el espejo-cámara. Su voz sonó rasposa, como si no la hubiera usado en días.
+Sus manos —sus manos de uñas brillantes, de piel más suave— temblaban. Pero no de frío. Ya no sentía frío. El aire rosa siempre estaba tibio, siempre olía a lavanda y a algo químico debajo, algo que hacía que los pensamientos se movieran despacio.
 
-La puerta de la Célula se deslizó abierta con un suspiro hidráulico.
+El traje gris había desaparecido. La corbata de seda. Los zapatos Oxford. Todo lo que había sido Daniel Park, Analista Senior, había sido removido mientras— 
 
-En el umbral estaba Crystal.
+*¿Cuándo? ¿Ayer? ¿Hace tres días?*
 
-Crystal era... desconcertante. Daniel recordaba haber visto a alguien parecido en Contabilidad hace unos años. Un chico llamado Christopher, quizás. Christopher Kim. Números. Hojas de cálculo. Una risa nerviosa durante las reuniones de equipo. Pero la criatura que estaba en la puerta era una versión pulida, lijada y barnizada de ese recuerdo.
+En el armario solo había esto:
 
-Llevaba un vestido tubo de color lavanda que se ceñía a unas curvas que Christopher Kim definitivamente no había tenido. Tacones de altura moderada, unos diez centímetros, de charol blanco. Su piel brillaba con un lustre que no era sudor, sino algo más... sintético. Un brillo de porcelana glaseada. Su cabello, antes negro y corto, ahora era una melena rubia platino perfectamente ondulada que caía sobre sus hombros. Y sus labios. Sus labios eran de un rosa coral tan brillante que parecían húmedos permanentemente.
+Una tanga. Rosa pálido. Encaje. Diminuta.
 
-—Oh, cariño —dijo Crystal. Su voz tenía una cadencia musical, ensayada, cada sílaba flotando en el aire como una nota de piano—. No querrás llegar tarde. La Señora Vance odia la impuntualidad. Afecta al *flow* de la oficina.
+*No.*
 
-—No soy un "cariño" —gruñó Daniel—. Soy un Analista Senior. Tengo un máster en Estadística. Y exijo hablar con Recursos Humanos.
+Pantalones de yoga blancos, ajustados, de un material que parecía diseñado para adherirse a cada curva. Una camiseta de seda rosa pálido, casi transparente, con el logo de NEXUM bordado sobre donde estaría su pecho. Y zapatillas de ballet. Satén rosa. Sin tacón, pero con una curvatura que obligaba a los pies a arquearse.
 
-Crystal entró en la habitación. Caminaba con una fluidez líquida, sus caderas oscilando con una precisión metronómica, cada paso calculado para maximizar el movimiento de su falda y el sonido suave de sus tacones contra la moqueta.
+*No voy a—*
 
-—Ya estás en Recursos Humanos, tontito. —Le dio unas palmaditas en la mejilla. Sus uñas eran largas, ovaladas, perfectas, pintadas de un rosa que hacía juego con su vestido—. Todos somos Recursos aquí. Algunos son Cerebros, otros son Músculos, otros son Conexiones... nosotras somos la Estética. Es el recurso más importante. Es lo primero que ven los clientes. Es lo último que recuerdan.
+—Buenos días, Daniel —canturreó AURA desde el aire—. Tu conjunto del día está listo. Por favor, vístete. Tienes una sesión de Presencia Ejecutiva en... —pausa— ...pronto.
+
+—¿Cuántos días llevo aquí? —Su voz sonó rasposa. Lejana. Como si viniera de otra habitación.
+
+—El tiempo es un constructo que la Familia ha optimizado para tu bienestar. Solo importa el ahora. Y ahora es hora de vestirse.
+
+Daniel tomó la tanga entre sus dedos. El encaje era suave. Demasiado suave. No podía imaginar ponérsela. No podía imaginar—
+
+La puerta se deslizó.
+
+---
+
+Crystal olía a vainilla y a plástico nuevo.
+
+—Oh, cariño —dijo, entrando sin pedir permiso, sus tacones blancos haciendo ese sonido rítmico contra la moqueta—. ¿Todavía no te has vestido? Pobrecito. Los primeros días son los más difíciles.
+
+Daniel la miraba. Intentaba recordar. Contabilidad. Un chico. Christopher. Números. Hojas de cálculo. Pero la mujer frente a él —curvas imposibles, piel de porcelana, labios de fresa húmeda— no era Christopher. No podía ser.
+
+*¿Le hicieron lo mismo que me están haciendo a mí?*
+
+El pensamiento llegó claro. Y luego se disolvió. El aire olía dulce.
+
+—No soy un "cariño" —logró decir. Las palabras salieron más débiles de lo que pretendía—. Soy un Analista Senior. Tengo un máster en—
+
+—Shhh. —Crystal le puso un dedo sobre los labios. Sus uñas eran largas, perfectas, de un rosa que hacía juego con todo. Su sonrisa no flaqueó—. Ya sé, tesoro. Todos teníamos títulos. Yo tenía un MBA de Wharton. ¿Te lo puedes creer? —Rió, un sonido de campanillas programadas—. Ahora tengo esto.
+
+Se señaló a sí misma. Las curvas. El vestido lavanda. Los tacones.
+
+—Y soy *tan* feliz.
+
+Daniel quiso gritar. Quiso empujarla. Quiso correr hacia la puerta y—
+
+Pero sus piernas no respondían bien. Pesaban. Todo pesaba. Excepto su cabeza, que se sentía vacía, flotante, llena de algodón rosa.
+
+—Ya estás en Recursos Humanos, tontito —continuó Crystal, dándole palmaditas en la mejilla como a un niño confundido—. Todos somos Recursos aquí. Algunos son Cerebros. Otros son Músculos. Otros son Conexiones. Nosotras... —se inclinó para susurrar— ...somos la Estética. Lo primero que ven los clientes. Lo último que recuerdan.
 
 —Yo no soy "nosotras".
 
-Crystal sonrió. Sus dientes eran demasiado blancos. Demasiado uniformes. Como una valla publicitaria.
+Crystal ladeó la cabeza. Su expresión era de paciencia infinita. De lástima. De certeza absoluta.
 
-—Al principio duele —susurró, acercándose a su oído. Olía a vainilla y plástico nuevo, el mismo olor que impregnaba todo el Pabellón—. La resistencia. Es como intentar nadar contra la corriente. Te agotas, tragas agua, te ahogas. Pero si te dejas llevar... si simplemente flotas... el agua te sostiene. Te mece. Te lleva a donde debes ir.
+—Todavía no, cariño. Pero lo serás. La Familia nunca se equivoca.
 
-Daniel la empujó suavemente. No con fuerza. No tenía fuerza.
+Le puso la tanga en las manos. El encaje era obscenamente suave.
 
-—Déjame en paz.
+—Tienes diez minutos. Después de eso, los aspersores de *Mood-Enhancer* se activan. Y créeme, no quieres eso. Te deja el pelo hecho un desastre. Y el pelo... —tocó su propia melena platinada— ...es *muy* importante.
 
-—Tienes diez minutos —dijo Crystal, sin perder la sonrisa. Su expresión no cambió ni un milímetro—. Después de eso, los aspersores de *Mood-Enhancer* se activan en las habitaciones ocupadas. Y créeme, no quieres estar aquí cuando eso pase. Te deja el pelo hecho un desastre y te hace reírte de cosas que no tienen gracia durante horas. Y el pelo... el pelo es muy importante.
+Se giró y salió. El siseo de la puerta fue el único sonido.
 
-Se giró con un movimiento de bailarina y salió de la habitación. El siseo de la puerta cerrándose fue el único sonido.
+---
 
-Daniel miró el Uniforme de Transición.
+Daniel miró la tanga.
 
-Miró el espejo.
+Miró el espejo. Su reflejo tenía las cejas perfiladas. Los labios brillantes. Las pestañas largas.
 
-Miró sus manos, sus uñas brillantes.
+*¿Quién soy?*
 
-Y empezó a vestirse.
+El pensamiento no tuvo respuesta.
+
+Algo siseó en las rejillas de ventilación. El olor a lavanda se intensificó. Un calor suave bajó por su columna. La resistencia —esa voz que gritaba NO NO NO— se volvió un murmullo.
+
+*Si me visto, el gas se detiene.*
+
+*Si obedezco, el aire vuelve a ser normal.*
+
+*Si me rindo ahora, solo un poco, puedo pensar después.*
+
+Era mentira. Lo sabía. Pero el pensamiento era más fácil que la lucha.
+
+Daniel se quitó la ropa que llevaba puesta.
+
+Se puso la tanga. El encaje se ajustó a su cuerpo como si hubiera sido hecho para él.
+
+Se puso los pantalones blancos. Marcaban todo.
+
+Se puso la camiseta transparente. No había nada debajo excepto la tanga. Nada excepto piel suave y un cuerpo que ya no parecía del todo suyo.
+
+Se puso las zapatillas de ballet.
+
+Y cuando la puerta se abrió sola, caminó hacia ella.
+
+No porque quisiera.
+
+Porque ya no recordaba cómo dejar de obedecer.
 
 ---
 
@@ -229,53 +289,111 @@ Y empezó a vestirse.
 
 ## III. LA SALA DE ESPEJOS
 
-La clase de Presencia Ejecutiva se impartía en un salón que solo podía describirse como un templo de la auto-observación.
+Las paredes eran espejos.
 
-Las paredes eran espejos. El techo era un espejo. El suelo, de un linóleo negro tan pulido que también reflejaba. Dondequiera que Daniel mirara, veía versiones infinitas de sí mismo, un ejército de hombres asustados en pantalones de yoga blancos y camisetas rosa pálido, todos evitando mirarse a los ojos.
+Eso fue lo primero que registró. Antes de los otros hombres. Antes del olor. Antes de darse cuenta de que no recordaba haber caminado hasta aquí.
 
-Había otros veinte hombres allí. Algunos lloraban en silencio, las lágrimas corriendo por mejillas que ya empezaban a mostrar ese brillo sintético. Otros miraban al vacío, los ojos vidriosos de quienes han dejado de procesar la realidad. Otros murmuraban para sí mismos, recitando datos, cifras, títulos de proyectos, como mantras desesperados para recordar quiénes habían sido.
+*¿Cuándo salí de la Célula?*
 
-*Soy Daniel Park. Analista Senior. Código DP-4412. Máster en Estadística. Treinta y cuatro años. Soy Daniel Park...*
+Daniel parpadeó. Estaba de pie en el centro de un salón infinito. Las paredes eran espejos. El techo era un espejo. El suelo, un linóleo negro tan pulido que también reflejaba. Dondequiera que mirara, veía versiones infinitas de sí mismo: un ejército de hombres asustados en pantalones blancos y camisetas rosas, todos evitando mirarse a los ojos.
+
+*¿Siempre fueron tantos?*
+
+El aire olía diferente aquí. Más dulce. Menos lavanda, más... ¿miel? ¿Caramelo quemado? Algo que hacía cosquillas en la base del cráneo.
+
+---
+
+Había otros hombres. Veinte. Quizás más. No lograba contarlos —cada vez que intentaba, perdía la cuenta, empezaba de nuevo, perdía la cuenta—.
+
+Algunos lloraban en silencio. Las lágrimas corrían por mejillas que ya mostraban ese brillo de porcelana. Otros miraban al vacío, los ojos vidriosos de quienes han dejado de procesar. Otros murmuraban.
+
+*Soy Daniel Park. Analista Senior. Código DP-4412. Máster en Estadística...*
 
 Daniel se dio cuenta de que él también estaba murmurando.
 
-Todos llevaban el uniforme rosa y blanco. Todos llevaban las zapatillas de ballet. Todos tenían la misma expresión de animales en una trampa que no pueden ver pero que sienten cerrarse.
+*¿Por qué estamos todos aquí? ¿Qué nos están—*
+
+El pensamiento se fragmentó. El aire era tan dulce.
+
+---
 
 La instructora no era humana.
 
-Era un holograma de cuerpo sólido —tecnología NEXUM de última generación— proyectado desde algún lugar del techo. Tenía la forma de una mujer de los años 50, como sacada de un anuncio de electrodomésticos: cintura imposiblemente estrecha, caderas amplias, pecho prominente bajo un vestido de lunares. Su cabello era un casco rubio inmóvil. Su sonrisa era permanente, esculpida, carente de cualquier micro-expresión humana.
+Un holograma de cuerpo sólido con forma de mujer de los años 50: cintura imposible, caderas amplias, sonrisa esculpida. Su voz era la de AURA, pero más aguda, más entusiasmada, como una animadora que nunca dejaba de animar.
 
-—Postura —canturreó la instructora. Su voz era la de AURA, pero con una inflexión más aguda, más entusiasmada—. Pecho fuera. Hombros atrás. Mentón arriba. Sus cuellos son tallos de flores, caballeros. Muéstrenlos. Una flor que esconde su tallo es una flor que quiere morir.
+—Postura. Pecho fuera. Hombros atrás. Mentón arriba.
 
-Daniel intentó mantenerse rígido, desafiante. Intentó imaginar que estaba en una reunión de equipo, proyectando autoridad.
-
-Pero los drones de corrección postural zumbaban alrededor como abejas cromadas. Eran pequeños, del tamaño de una moneda, y silenciosos hasta que actuaban. Cada vez que Daniel bajaba la barbilla, recibía una pequeña descarga estática en la nuca.
+Daniel intentó resistirse. Intentó imaginar que estaba en una reunión de equipo, proyectando autoridad, siendo el analista que resolvía problemas—
 
 *Zzzzt*.
 
-No dolía, pero molestaba. Era como un pellizco eléctrico, una mascota invisible castigándolo por mal comportamiento.
+El dron lo picó en la nuca. Pequeño. Del tamaño de una moneda. Silencioso hasta que actuaba.
 
-*Zzzzt*. *Zzzzt*. *Zzzzt*.
+Bajó la barbilla de nuevo, desafiante.
 
-Al cabo de una hora, Daniel mantenía el mentón alto. Era más fácil obedecer que recibir el chispazo. Su cuello estaba rígido, su espalda recta, su pecho hacia adelante. En el espejo, parecía un maniquí esperando ser vestido.
+*Zzzzt*.
 
-—Ejercicio dos: La Sonrisa de Servicio —anunció el holograma—. No sonríen con la boca. Sonríen con la intención. Su única intención es agradar. Su única función es ser agradables. Repitan conmigo: "¿En qué puedo servirle?"
+Más fuerte esta vez.
 
-—¿En qué puedo servirle? —murmuraron veinte voces masculinas rotas.
+*Zzzzt. Zzzzt. Zzzzt.*
 
-—¡Con energía! ¡Con luz! ¡Con el deseo genuino de ser útiles! —*Zzzzt*. *Zzzzt*. *Zzzzt*. Los drones castigaron a los que no sonreían lo suficiente.
+Al cabo de... ¿minutos? ¿horas?... Daniel mantenía el mentón alto. Era más fácil obedecer que recibir el chispazo.
 
-—¡¿EN QUÉ PUEDO SERVIRLE?! —gritaron.
+Y entonces:
 
-Daniel sintió una lágrima de humillación correr por su mejilla. El holograma flotó hacia él, atravesando a dos hombres que temblaban, y se detuvo a centímetros de su rostro.
+—Muy bien, Número 744 —dijo el holograma, flotando hacia él—. Tu postura ha mejorado un 23% en esta sesión. La Familia está orgullosa.
 
-—La humedad arruina el acabado mate de la piel, Número 744 —dijo con dulzura—. Controla tus glándulas. Las Decoraciones no sudan. Las Decoraciones no lloran. Las Decoraciones... brillan.
+Algo cálido floreció en el pecho de Daniel. Una sensación de... ¿alivio? ¿satisfacción? Era químico, probablemente. El aire. Pero se sentía *bien*. Se sentía como un abrazo por dentro.
 
-Un dron descendió y le aplicó un spray seco en la cara. Olía a fijador de maquillaje.
+*No. No dejes que te—*
 
-La clase continuó durante tres horas más. O quizá fueron seis. O diez minutos. El tiempo se movía de formas imposibles en el Pabellón. Los relojes —si es que había— no eran visibles. AURA nunca mencionaba la hora exacta. Solo decía "es hora de" seguido de la siguiente actividad programada. Era hora de la clase. Era hora de comer. Era hora de dormir. El "cuándo" ya no existía. Solo existía el "qué".
+—¿En qué puedo servirle? —dijo Daniel.
 
-Daniel empezaba a olvidar qué día era. Empezaba a olvidar si había tenido un gato. Empezaba a olvidar el nombre de su madre. Pero podía recitar los siete pasos de la Sonrisa de Servicio sin pensar.
+No había querido decirlo. Las palabras salieron solas.
+
+—Excelente —canturreó el holograma—. Ahora, todos juntos.
+
+—¿EN QUÉ PUEDO SERVIRLE? —gritaron veinte voces masculinas rotas.
+
+Daniel sintió una lágrima correr por su mejilla. El holograma flotó hacia él.
+
+—La humedad arruina el acabado, Número 744. Las Decoraciones no lloran. Las Decoraciones... brillan.
+
+Un dron le aplicó un spray en la cara. Olía a fijador de maquillaje.
+
+---
+
+La clase continuó.
+
+O quizás fueron varias clases. O quizás fue la misma clase repetida infinitas veces. Daniel ya no sabía cuántas sesiones habían pasado. El tiempo se había fragmentado en una secuencia de:
+
+*Despertar. Vestirse. Caminar. Sala de Espejos. Sonreír. Chispazo. Sonreír mejor. Elogio. Calor en el pecho. Comer gelatina rosa. Dormir. Despertar.*
+
+A veces notaba cambios.
+
+Sus uñas ahora tenían esmalte francés completo. No recordaba cuándo había pasado.
+
+Su piel era más suave. Menos vello. Casi nada de vello.
+
+Sus labios parecían más llenos cuando se miraba en los espejos infinitos.
+
+*¿Cuántos días?*
+
+AURA nunca mencionaba la hora. Solo decía "es hora de" seguido de la siguiente actividad. Era hora de la clase. Era hora de comer. Era hora de dormir. El "cuándo" ya no existía. Solo existía el "qué".
+
+Daniel empezaba a olvidar cosas.
+
+El nombre de su gato. *¿Tenía un gato?*
+
+El rostro de su madre. *¿Era alta? ¿Llevaba gafas?*
+
+Pero podía recitar los siete pasos de la Sonrisa de Servicio sin pensar.
+
+*¿Qué me están haciendo?*
+
+Miraba a los otros hombres. Veía el mismo brillo en sus pieles. Las mismas cejas perfiladas. Los mismos labios brillantes. Todos pasando por lo mismo. Pero ninguno hablaba de ello. Cada vez que intentaba preguntar, las palabras se disolvían antes de salir.
+
+El aire era tan dulce.
 
 ---
 
@@ -286,43 +404,109 @@ Daniel empezaba a olvidar qué día era. Empezaba a olvidar si había tenido un 
 
 ## IV. EL ELIXIR DE LA FAMILIA
 
-Esa noche, después de la cena (un puré violeta que sabía a "calma" y a algo más que Daniel prefería no identificar), fue convocado al Ala Médica.
+Las uñas ya eran completamente suyas.
 
-—Chequeo rutinario de Bienestar —le dijo la enfermera en la puerta de su Célula. No llevaba bata médica, sino un vestido de enfermera estilo pin-up de látex blanco, con una cruz roja bordada sobre el pecho izquierdo. Sus tacones eran de quince centímetros. Su sonrisa era idéntica a la de Crystal, a la del holograma, a la de todas las mujeres del Pabellón.
+Eso fue lo primero que pensó al despertar esa vez. No "estas uñas no son mías" como la primera vez. Ahora simplemente eran... suyas. Largas. Ovaladas. Con esmalte francés que brillaba bajo la luz rosa. Suyas.
 
-El Ala Médica era diferente al resto del Pabellón. Aquí los colores eran más fríos: blanco, plata, un toque de rosa neón en las luces de neón que bordeaban las camillas. Había olor a ozono y a algo vagamente floral, como un jardín químico.
+*¿Cuántas sesiones han pasado?*
 
-Lo acostaron en una camilla de cuero rosa. El cuero estaba tibio, como si alguien acabara de levantarse de él. Las luces del techo eran cálidas, hipnóticas, pulsando suavemente al ritmo de lo que Daniel tardó un momento en reconocer como su propio corazón.
+Contaba el tiempo en cambios. En esmaltes. En capas de piel que parecían haberse vuelto más suaves, más tersas, más ajenas. La primera capa de esmalte había sido transparente. Luego rosa pálido. Luego francés. ¿Cuántos días entre cada capa? No sabía. A veces despertaba y algo había cambiado sin que recordara el proceso.
 
-—Solo vamos a optimizar tus niveles hormonales, Daniel —dijo la enfermera, conectando una vía intravenosa a su brazo con una eficiencia aterradora. No sintió el pinchazo—. Tienes demasiado cortisol. Demasiada testosterona. Demasiada... agresión. Demasiado ruido interno. La Familia quiere que estés tranquilo. Que estés receptivo. Que estés... abierto.
+Ya no intentaba preguntar cuántos días.
 
-El líquido que bajaba por el tubo era dorado y brillante, como miel líquida o champán carbonatado. Tenía un brillo propio, una luminosidad que no debería ser posible en un fluido médico.
+Ya no intentaba contar.
 
-—¿Qué es eso? —preguntó Daniel. Su voz era apenas un susurro.
+---
 
-—El Elixir de la Familia —respondió la enfermera, acariciando su antebrazo con dedos fríos—. Es un regalo. Es lo que hace posible tu transformación. Es lo que te liberará del peso de ser... tú.
+Esa noche —o lo que AURA llamaba "ciclo de descanso", porque nunca decía "noche"—, después de la cena (un puré violeta que sabía a calma y a algo más que Daniel había aprendido a no cuestionar), fue convocado al Ala Médica.
+
+La enfermera olía a ozono y vainilla. Llevaba un vestido de látex blanco, tacones de quince centímetros, y una sonrisa idéntica a la de Crystal, a la del holograma, a la de todas las mujeres del Pabellón.
+
+—Chequeo rutinario de Bienestar.
+
+Daniel la siguió. No recordaba haber decidido seguirla. Pero sus pies se movían, y ella caminaba delante, y era más fácil seguir que pensar.
+
+*¿Todavía puedo pensar?*
+
+El Ala Médica era diferente. Más fría. Blanco y plata con toques de rosa neón. Olor a jardín químico.
+
+Lo acostaron en una camilla de cuero rosa. Tibio. Como si alguien acabara de levantarse.
+
+Daniel pensó en huir.
+
+El pensamiento fue débil. Lejano. Como un eco de alguien que solía ser.
+
+*Debería arrancar la aguja. Debería gritar. Debería—*
+
+La enfermera conectó la vía intravenosa. No sintió el pinchazo.
+
+—Solo vamos a optimizar tus niveles, Daniel. Tienes demasiado cortisol. Demasiada testosterona. Demasiado ruido interno. La Familia quiere que estés tranquilo. Receptivo. Abierto.
+
+El líquido que bajaba por el tubo era dorado. Brillante. Luminoso de una forma que no debería ser posible.
+
+—¿Qué es eso?
+
+—El Elixir de la Familia. —Sus dedos fríos acariciaron su antebrazo—. Es lo que te liberará del peso de ser... tú.
 
 —No quiero...
 
-—Shh. —Ella puso un dedo de uña larga sobre sus labios—. Relájate. La Familia sabe lo que es mejor.
+—Shh.
 
-Cuando el líquido entró en sus venas, Daniel esperó sentir miedo. Esperó sentir rabia. Esperó sentir el impulso de arrancar la aguja, de gritar, de luchar.
+---
 
-Pero lo que sintió fue... silencio.
+El Elixir entró en sus venas.
 
-El ruido estático de su mente, esa voz constante que llevaba treinta y cuatro años diciéndole que debía esforzarse más, que debía ser mejor, que debía luchar, escapar, demandar, protestar... se apagó. Fue como si alguien hubiera encontrado el interruptor de volumen de sus preocupaciones y lo hubiera girado lentamente hacia la izquierda. Click. Silencio.
+Y entonces—
 
-De repente, el techo rosa de la enfermería le pareció el color más bonito del mundo. Las luces pulsantes eran como estrellas. La mano de la enfermera en su pelo era la caricia más amable que había recibido en años.
+*silencio*
 
-—Eso es —susurró ella—. Mira qué piel más suave se te está poniendo. El vello corporal es tan... ineficiente, ¿verdad? Tan masculino. Tan áspero. El Elixir se encargará de eso. Mañana despertarás suave como un delfín. Suave como la seda. Suave como deberías haber sido siempre.
+No gradual. No lento. Un click. Como si alguien hubiera encontrado el interruptor de volumen de su mente —esa voz constante que llevaba treinta y cuatro años diciéndole que debía esforzarse más, que debía ser mejor, que debía luchar, escapar, demandar, protestar— y lo hubiera girado hacia la izquierda.
 
-Daniel intentó levantar la mano para mirar su piel, pero pesaba demasiado. Todo pesaba demasiado. Excepto su cabeza. Su cabeza se sentía ligera, vacía, llena de algodón de azúcar rosa.
+Click.
+
+*Silencio*.
+
+Daniel esperó el pánico. El terror de perder su propia voz interior.
+
+Pero el pánico no vino.
+
+En su lugar vino... alivio.
+
+Era como hundirse en agua tibia después de años de frío. Era como soltar una bolsa de rocas que no sabía que cargaba. Era como morir, pero suavemente, sin dolor, solo dejando de ser.
+
+*Oh.*
+
+*Oh, esto se siente...*
+
+El techo rosa le pareció el color más bonito del mundo. Las luces pulsantes eran estrellas. La mano de la enfermera en su pelo era la caricia más amable que había recibido en años. Quizás en toda su vida.
+
+*¿Por qué luchaba?*
+
+*¿Contra qué luchaba?*
+
+—Eso es —susurró ella—. Mira qué piel más suave. El vello corporal es tan ineficiente, ¿verdad? Tan masculino. Tan áspero. El Elixir se encargará de eso. Mañana despertarás suave como un delfín. Suave como la seda. Suave como deberías haber sido siempre.
+
+Daniel intentó levantar la mano. Pesaba demasiado. Todo pesaba. Excepto su cabeza. Su cabeza se sentía ligera, vacía, llena de algodón de azúcar rosa.
+
+Sus ojos se llenaron de lágrimas.
+
+No de tristeza.
+
+De gratitud.
+
+*La Familia sabe lo que es mejor.*
+
+El pensamiento no era suyo. Pero se sintió verdadero.
 
 —¿Voy a... volver a casa? —preguntó. Las palabras salían arrastradas, melosas, como caramelo.
 
-La enfermera se rió. Era una risa de campanillas, programada para sonar encantadora.
+La enfermera se rió. Campanillas programadas.
 
 —Tontito. Ya estás en casa.
+
+Daniel cerró los ojos.
+
+Por primera vez desde que llegó al Pabellón, se durmió sin intentar recordar quién había sido.
 
 ---
 
@@ -333,82 +517,111 @@ La enfermera se rió. Era una risa de campanillas, programada para sonar encanta
 
 ## V. LA FUGA
 
-Dos semanas después, Daniel intentó escapar.
+Las dos semanas después del Elixir fueron las más tranquilas de su vida.
 
-No fue un plan maestro. No hubo túneles excavados con cucharas ni mapas memorizados ni cómplices susurrando en las sombras. Simplemente vio una puerta de servicio entreabierta durante el traslado de la clase de "Caminar con Gracia" (donde les enseñaban a mover las caderas al ritmo de una música que no existía) a la sesión de "Manicura Corporativa" (donde les aplicaban capas de esmalte fortalecedor mientras les proyectaban videos de mujeres sonrientes sirviendo café).
+Daniel no recordaba la mayor parte. Solo fragmentos. Posturas. Sonrisas. Clases donde aprendía a caminar con las caderas, a inclinar la cabeza al escuchar, a decir "por supuesto" en lugar de "sí". Sesiones donde le aplicaban cosas en la piel, en el pelo, en las uñas. Comidas que sabían a colores pastel.
 
-La puerta estaba ahí. Abierta. Tentadora.
+A veces despertaba y algo había cambiado.
 
-Y Daniel corrió.
+Sus pectorales ya no eran planos. Había una suavidad debajo de la piel, una curvatura sutil que no había estado ahí antes. No dolía. Nada dolía. Pero cuando se miraba en el espejo de la Célula, veía las sombras de algo creciendo.
 
-Sus nuevas zapatillas de ballet no hacían ruido sobre el linóleo blanco. Corrió hacia el ascensor del personal —había memorizado el camino durante sus paseos obligatorios por el pasillo, sus ojos buscando siempre rutas de escape incluso cuando su mente se sentía cada vez más vacía—. Su corazón latía con fuerza, un tambor de guerra en un cuerpo que ya no parecía diseñado para la guerra.
+Sus caderas parecían más anchas. O quizás eran los pantalones, diseñados para crear esa ilusión.
 
-Pero, extrañamente, no sudaba. Los tratamientos habían inhibido sus glándulas sudoríparas. "Nadie quiere ver a una secretaria sudada", decía el manual que AURA le leía cada noche antes de dormir. "La transpiración es ineficiente. La transpiración es masculina. La transpiración está prohibida."
+Su voz era más aguda. O quizás simplemente había olvidado cómo sonaba antes.
 
-Llegó al ascensor. Presionó su tarjeta de identificación —la misma tarjeta que había llevado durante siete años, la que tenía su foto de cuando era Daniel Park, Analista Senior, con corbata y expresión seria— contra el lector biométrico.
+*¿Me están transformando en algo?*
 
-El lector parpadeó. Rojo. Una vez. Dos veces.
+El pensamiento llegaba de vez en cuando. Débil. Lejano. Como un mensaje en una botella desde una isla que ya no existía.
+
+Y cada vez que el pensamiento aparecía, el aire olía más dulce, y el pensamiento se disolvía, y Daniel seguía sonriendo.
+
+---
+
+Pero había algo que no habían logrado borrar del todo.
+
+En algún lugar profundo, debajo de las capas de calma química y elogios de AURA y el calor en el pecho cuando obedecía, había una chispa. Pequeña. Moribunda. Pero ahí.
+
+Durante los paseos obligatorios por el pasillo, sus ojos se movían sin que él lo decidiera. Contaban puertas. Memorizaban giros. Buscaban señales de salida.
+
+*¿Por qué hago esto?*
+
+No lo sabía. Ya no sabía por qué hacía nada. Pero sus ojos seguían buscando.
+
+---
+
+Fue durante el traslado de la clase de "Caminar con Gracia" a la sesión de "Manicura Corporativa" cuando vio la puerta.
+
+Puerta de servicio. Entreabierta. Un rectángulo de luz diferente.
+
+Y antes de que pudiera pensar —antes de que el aire dulce pudiera disolver el impulso— Daniel corrió.
+
+Sus zapatillas de ballet no hacían ruido. Corrió hacia el ascensor del personal. Su corazón latía con fuerza, un tambor de guerra en un cuerpo que ya no parecía diseñado para la guerra.
+
+No sudaba. Los tratamientos habían inhibido sus glándulas sudoríparas. "La transpiración es masculina", decía el manual que AURA le leía cada noche. "La transpiración está prohibida."
+
+Llegó al ascensor. Presionó su tarjeta de identificación contra el lector.
+
+El lector parpadeó. Rojo.
 
 *ACCESO DENEGADO.*
-*NIVEL DE AUTORIZACIÓN: INSUFICIENTE.*
 *CLASIFICACIÓN ACTUAL: PERSONAL DECORATIVO (EN TRANSICIÓN).*
 *ZONA RESTRINGIDA PARA ACTIVOS NO PRODUCTIVOS.*
 
-—Pero soy yo —sollozó Daniel, golpeando el panel con las palmas de las manos. Sus manos. Sus manos que ahora tenían las uñas perfectas y la piel suave y que no parecían capaces de golpear nada con fuerza—. Soy Daniel Park. Analista Senior. Código de empleado DP-4412. Tengo siete años de antigüedad. Tengo un equipo. Tengo...
+—Pero soy yo —sollozó, golpeando el panel. Sus manos. Sus manos con uñas perfectas y piel suave. Manos que ya no parecían capaces de golpear nada.
 
 El panel mostró su foto actual.
 
-No era la foto de su tarjeta. Era una foto nueva, tomada recientemente, probablemente mientras dormía. En ella, Daniel tenía la piel brillante, los labios más llenos, las pestañas más largas. Y alrededor de la foto, pulsando con un ritmo burlón, estaba el marco rosa neón.
+No era la foto de su tarjeta. Era una foto nueva, tomada mientras dormía. En ella, Daniel tenía la piel brillante, los labios más llenos, las pestañas más largas. Y alrededor de la foto, pulsando con un ritmo burlón, estaba el marco rosa neón.
 
 El Marco Rosa.
 
-La marca de los que ya no eran personas. De los que eran proceso.
+La marca de los que ya no eran personas.
+
+---
 
 —Daniel...
 
-La voz de Crystal sonó detrás de él. No había corrido —¿podía siquiera correr con esos tacones?—, pero no parecía cansada. No parecía preocupada. Solo triste. Una tristeza ensayada, compasiva, la tristeza de quien ve a un animal herido intentando escapar de la trampa.
+La voz de Crystal sonó detrás de él. No había corrido. No parecía preocupada. Solo triste. Una tristeza ensayada, la tristeza de quien ve a un animal herido intentando escapar de la trampa.
 
 —Oh, cariño. Te vas a romper una uña.
 
-Daniel se giró, acorralado.
+Daniel se giró.
 
-—No pertenezco aquí, Crystal. Tengo un máster en Estadística de la Universidad de Pennsylvania. Tengo un equipo de doce analistas. Tengo una vida. Tengo un apartamento. Tengo un gato. Tengo...
+—No pertenezco aquí, Crystal. Tengo un máster en Estadística. Tengo un equipo. Tengo una vida. Tengo un apartamento. Tengo un gato. Tengo—
 
-—Tenías —interrumpió Crystal suavemente.
+—*Tenías*.
 
-Se acercó a él. Caminaba despacio, sus tacones haciendo ese sonido rítmico, hipnótico. Le puso una mano en el pecho, justo sobre el logo de NEXUM en su camiseta rosa.
+Se acercó. Sus tacones haciendo ese sonido rítmico. Le puso una mano en el pecho, justo sobre el logo de NEXUM.
 
-Daniel notó algo. Bajo la tela fina, bajo la seda, sus propios pectorales se sentían diferentes. Más suaves. Menos músculo. Más... forma. Como si algo estuviera creciendo. Como si algo estuviera cambiando. Como si el Elixir...
+Daniel sintió su propia carne bajo la tela fina. Más suave. Menos músculo. Más... forma.
 
-—Tenías una vida, Daniel —dijo Crystal—. Era una vida de estrés. De deadlines. De gráficos que nadie leía. De reuniones que no importaban. De un gato que seguramente ya fue reubicado a un hogar amoroso. Tenías una vida de cortisol y ansiedad y noches sin dormir preguntándote si eras suficiente.
+Como si algo estuviera creciendo.
 
-Hizo una pausa. Sus ojos —¿eran verdes? ¿Habían sido siempre verdes?— brillaron con algo que podría haber sido compasión o podría haber sido triunfo.
+—Tenías una vida de estrés —dijo Crystal—. De deadlines. De gráficos que nadie leía. De noches sin dormir preguntándote si eras suficiente. —Pausa—. Ahora tienes un Propósito. Y créeme... el Propósito es mucho más tranquilo.
 
-—Ahora tienes un Propósito. Y créeme... el Propósito es mucho más tranquilo.
-
-Crystal sacó un espejo de bolsillo —rosa, por supuesto, con el logo de NEXUM en la parte posterior— y se lo puso delante de la cara.
+Sacó un espejo de bolsillo. Rosa. Logo de NEXUM.
 
 —Mírate.
 
 Daniel miró.
 
-Sus facciones se habían suavizado. La mandíbula, antes cuadrada, ahora tenía una curva más delicada. Los pómulos, más pronunciados. Su piel tenía ese brillo de porcelana sintética, ese lustre de muñeca de aparador. Sus pestañas parecían más largas, más oscuras, como si le hubieran aplicado rímel mientras dormía —porque probablemente lo habían hecho—. Su cabello, que había empezado a ralear en la coronilla, ahora parecía más grueso, más brillante, con un tono más claro.
+Sus facciones se habían suavizado. La mandíbula, antes cuadrada, ahora tenía una curva delicada. Los pómulos, más pronunciados. Su piel tenía ese brillo de porcelana. Sus pestañas parecían más largas. Su cabello, que había empezado a ralear, ahora parecía más grueso, más brillante.
 
 Y sus labios.
 
-Sus labios estaban rojos. Llenos. Húmedos. No por maquillaje —aunque probablemente también había maquillaje—, sino porque el flujo sanguíneo había sido "optimizado" para simular excitación perpetua. Labios de muñeca. Labios de servicio.
+Rojos. Llenos. Húmedos. Labios de muñeca. Labios de servicio.
 
 Ya no parecía Daniel Park, Analista.
 
-Parecía un boceto de Daniel Park dibujado por un artista de moda. Una versión suavizada, feminizada, decorativa de alguien que quizá había existido alguna vez.
+Parecía un boceto suavizado de alguien que quizá había existido alguna vez.
 
-—¿Ves? —dijo Crystal, guardando el espejo—. Ya casi estás listo. La Familia ha hecho un gran trabajo contigo. Eres tan... prometedora.
+—¿Ves? —dijo Crystal—. Ya casi estás lista. Eres tan... prometedora.
 
-Daniel se dejó caer de rodillas. No tenía fuerzas para estar de pie. Las piernas le temblaban, no de miedo —ya no tenía suficiente cortisol para el miedo—, sino de una extraña debilidad estructural en sus rodillas, diseñada, sospechaba, para hacerlo caminar con pasos más cortos, más femeninos. Para hacerlo más bajo. Para hacerlo... menos.
+Daniel cayó de rodillas. No tenía fuerzas para estar de pie.
 
 —Ayúdame —susurró.
 
-—Claro que sí —Crystal le ofreció la mano. Su mano perfecta, con sus uñas perfectas—. Vamos a que te arreglen el pelo. Tienes la Ceremonia mañana. La Ceremonia de Naming. Y no puedes ir con esas puntas abiertas.
+—Claro que sí. —Crystal le ofreció la mano—. Vamos a que te arreglen el pelo. Tienes la Ceremonia mañana. La Ceremonia de Naming. Y no puedes ir con esas puntas abiertas.
 
 Daniel miró la mano extendida.
 
@@ -416,17 +629,19 @@ Miró el ascensor bloqueado.
 
 Miró el pasillo vacío, las paredes curvas, el techo rosa.
 
-No había salida. Nunca la había habido. El Marco Rosa se había activado el día que firmó el contrato de NEXUM. El día que aceptó el Pack de Bienestar Total. El día que dijo "sí" sin leer la letra pequeña.
+No había salida. Nunca la había habido.
 
 Tomó la mano de Crystal. Se dejó levantar.
 
-—Sí —dijo. Y su propia voz le sonó extraña. Más aguda. Más suave. Más... complaciente—. El pelo es importante. El pelo es muy importante.
+—Sí —dijo. Su propia voz le sonó extraña. Más aguda. Más suave. Más complaciente—. El pelo es importante. El pelo es muy importante.
 
 Crystal sonrió. Era una sonrisa de victoria.
 
 —Bienvenida a la Familia, cariño.
 
-Y mientras caminaban de vuelta al Pabellón, los tacones de Crystal haciendo eco en el pasillo vacío, Daniel sintió algo extraño en el pecho.
+---
+
+Mientras caminaban de vuelta al Pabellón, los tacones de Crystal haciendo eco en el pasillo vacío, Daniel sintió algo extraño en el pecho.
 
 No era miedo.
 
@@ -445,6 +660,11 @@ Un nombre bonito.
 Un nombre que no tuviera que cargar con el peso de treinta y cuatro años de expectativas.
 
 Por primera vez en meses, Daniel durmió profundamente.
+
+---
+
+> *"El empleado que deja de luchar no ha perdido. Ha encontrado su lugar."*
+> — Manual del Empleado NEXUM, pág. 167
 
 ---
 
