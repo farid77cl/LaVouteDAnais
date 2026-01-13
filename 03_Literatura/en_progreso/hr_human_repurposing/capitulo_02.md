@@ -220,7 +220,7 @@ El pensamiento llegó claro. Y luego se disolvió. El aire olía dulce.
 
 —No soy un "cariño" —logró decir. Las palabras salieron más débiles de lo que pretendía—. Soy un Analista Senior. Tengo un máster en—
 
-—Shhh. —Crystal le puso un dedo sobre los labios. Sus uñas eran largas, perfectas, de un rosa que hacía juego con todo. Su sonrisa no flaqueó—. Ya sé, tesoro. Todos teníamos títulos. Yo tenía un MBA de Wharton. ¿Te lo puedes creer? —Rió, un sonido de campanillas programadas—. Ahora tengo esto.
+—Shhh. —Crystal le puso un dedo sobre los labios. Sus uñas eran largas, perfectas, de un rosa que hacía juego con todo. Su sonrisa no flaqueó—. Ya sé, tesoro. Todos teníamos títulos. Yo tenía un MBA de la Universidad de Chile. ¿Te lo puedes creer? —Rió, un sonido de campanillas programadas—. Ahora tengo esto.
 
 Se señaló a sí misma. Las curvas. El vestido lavanda. Los tacones.
 
