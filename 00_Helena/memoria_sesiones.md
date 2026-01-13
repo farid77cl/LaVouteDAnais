@@ -12,16 +12,17 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | The Dollhouse |
-| **Ubicación** | `05_Interactivo/the_dollhouse/` |
-| **Fase del Ritual** | ✅ Capítulo 5 Completado |
-| **Capítulo en Progreso** | Capítulo 6 (Pendiente votación) |
-| **Última Decisión** | Cap 5 publicado, votación Lip Boost vs Heel Lock |
+| **Relato Activo** | HR: Human Repurposing |
+| **Ubicación** | `03_Literatura/en_progreso/hr_human_repurposing/` |
+| **Fase del Ritual** | ✅ Capítulo 2 Reescrito (Blackout Horror) |
+| **Capítulo en Progreso** | Capítulo 3 (Pendiente escritura) |
+| **Última Decisión** | Reescritura Cap 2 con fragmentación temporal y tono claustrofóbico |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
+| HR: Human Repurposing | ✅ Cap 2 Reescrito | Blackout Horror aplicado |
 | The Dollhouse | ✅ Cap 5 Completo | HTML publicado, Votación Cap 6 activa |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |

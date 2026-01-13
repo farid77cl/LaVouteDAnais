@@ -1,4 +1,45 @@
-﻿#### SESIÓN - 10 ENERO 2026: NORMALIZACIÓN MASIVA Y CAPÍTULO 5
+﻿#### SESIÓN - 13 ENERO 2026: REESCRITURA HR CAP 2 + BANNERS MISS DOLL
+
+**MEDIODÍA (12:00-15:00) - REESCRITURA INTENSIVA HR: HUMAN REPURPOSING:**
+
+Reescritura completa del **Capítulo 2** de "HR: Human Repurposing" aplicando la técnica **Blackout Horror**:
+
+**Cambios Implementados:**
+- **Sección I (La Célula de Bienestar):** Ya reescrita previamente con fragmentación temporal
+- **Sección II (El Uniforme):** Continuidad de desorientación, tanga como ropa interior, confusión + resistencia débil, Crystal condescendiente
+- **Sección III (Sala de Espejos):** Blackouts, aromas químicos, refuerzo positivo (elogios de AURA = calor en el pecho), timeline anclado a cambios físicos
+- **Sección IV (El Elixir):** Momento de rendición VISCERAL, lágrimas de gratitud, alivio como "muerte suave"
+- **Sección V (La Fuga):** Contexto de 2 semanas post-Elixir, cambios corporales visibles, semillas de esperanza, epígrafe final del Manual
+
+**Directiva Maestra del Capítulo:**
+> *"Encierro y agobio. Algo me está pasando y no logro saber qué."*
+
+**Archivos modificados:**
+- `capitulo_02.md` (311 líneas nuevas, 91 eliminadas)
+- `notas_revision_cap2.md` (nuevo archivo con 13 puntos de feedback)
+
+**TARDE (14:55-15:05) - GENERACIÓN BANNERS MISS DOLL:**
+
+Generación de **14 banners** para Miss Doll siguiendo el canon estricto:
+
+**Estilo Cómic (8 banners):**
+- Hero Welcome (16:9), Shopping Spree (4:5), Kiss (1:1), Phone OMG (9:16)
+- Skyscraper Power (9:16), Driving (21:9), Lipstick (1:1), Pin-Up (3:4)
+
+**Estilo Fotorrealista (6 banners):**
+- Penthouse Night (16:9), Office Boss (4:5), Portrait (1:1), Selfie (9:16)
+- Red Carpet (9:16), Poolside (21:9), Boudoir (3:4)
+
+**Canon respetado:**
+- Bob platino SIN CHASQUILLA (frente visible)
+- Maquillaje glam intenso, labios ultra-plump glossy
+- Corsé visible en estilos aplicables
+
+**Imágenes guardadas en:** `05_Imagenes/miss_doll/`
+
+---
+
+#### SESIÓN - 10 ENERO 2026: NORMALIZACIÓN MASIVA Y CAPÍTULO 5
 
 **TARDE (16:18) - NORMALIZACIÓN DE BANCOS DE PROMPTS:**
 
