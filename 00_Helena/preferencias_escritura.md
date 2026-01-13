@@ -192,6 +192,52 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 
 ---
 
+### 🕳️ Blackout Horror (Pérdida de Control) 🆕
+
+*Fuente: Feedback HR: Human Repurposing Cap 2 - 13/01/2026*
+
+**Problema:** Escenas de confinamiento/transformación se sienten planas porque son lineales y explicativas. El lector debe **experimentar** la desorientación, no que se la cuenten.
+
+**Principio:** En escenas de pérdida de control (prisión, transformación forzada, condicionamiento), usar:
+
+1. **Fragmentación Temporal:**
+   - NO: "Llevaba tres días allí. O quizá cuatro."
+   - SÍ: Secciones cortas sin transición. Un párrafo es de día, el siguiente es de noche sin explicación.
+
+2. **Descubrimiento Corporal:**
+   - NO: "Una vez despertó con las cejas perfiladas."
+   - SÍ: "Las uñas no eran suyas. Eso fue lo primero que notó. Brillantes. Limadas. ¿Cuándo—"
+   - El horror está en el DESCUBRIMIENTO, no en la narración del evento.
+
+3. **Lagunas Activas:**
+   - Usar "---" o espacios en blanco como BLACKOUTS literales.
+   - El lector debe sentir que SE PERDIÓ algo, igual que el personaje.
+
+4. **Paranoia Sensorial:**
+   - ¿Qué hay en la comida? ¿Quién entra mientras duermo?
+   - Detalles que CAMBIAN sin explicación (un objeto movido, una marca nueva).
+
+5. **Momentos de Lucidez que Fallan:**
+   - El personaje intenta recordar algo importante pero no puede.
+   - La resistencia se fragmenta: empieza a gritar en su mente pero la frase no termina.
+
+**Estructura sugerida:**
+
+```
+[Párrafo normal - despertar]
+---
+[Corte abrupto - ya es otro momento]
+[Descubre cambio físico]
+[Intenta recordar - falla]
+---
+[Otro corte - más tiempo ha pasado]
+[Más cambios - menos resistencia]
+```
+
+**Efecto deseado:** El lector debe sentir claustrofobia, no entender exactamente cuánto tiempo ha pasado, y experimentar el horror de notar cambios en su propio cuerpo sin contexto.
+
+---
+
 ## V. PROTOCOLOS ESPECÍFICOS POR HISTORIA 🆕
 
 ### 📺 The Dollhouse (Reality Show)
@@ -221,6 +267,7 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 | 2025-12-26 | El Vino del Vecino Cap 7 | ✅ Tubo comprado AHORA para Lucía, entrelazar elementos |
 | 2025-12-26 | Banco Prompts V3 | ✅ Énfasis en POV y Video hablado |
 | 2025-12-31 | The Dollhouse Cap 3 | ✅ Tono Reality Show, MD Host, Rating > Todo |
+| 2026-01-13 | HR: Human Repurposing Cap 2 | ✅ Blackout Horror: fragmentación temporal, descubrimiento corporal, lagunas activas |
 
 ### Patrones Específicos del Canon Actual
 

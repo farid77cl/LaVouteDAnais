@@ -13,45 +13,157 @@
 
 ## I. LA CÉLULA DE BIENESTAR
 
-El Pabellón de Decoración no tenía rejas. No las necesitaba.
+Las uñas no eran suyas.
 
-Estaba diseñado con la misma estética de lujo asfixiante que el resto de NEXUM Corp, pero aquí, en los pisos 76 al 90, la realidad parecía haber sido editada con un filtro de suavizado agresivo. No había esquinas. Literalmente. Los encuentros entre las paredes y el techo, entre el suelo y los rodapiés, eran curvas perfectas, cóncavas, diseñadas para no ofrecer ningún punto de apoyo visual o psicológico. Era un mundo de transiciones fluidas donde nada era tajante, excepto la voluntad de quienes lo administraban.
+Eso fue lo primero. Antes del color melocotón de las paredes. Antes del olor a vainilla sintética que le llenaba la garganta. Las uñas.
 
-La habitación de Daniel —designada oficialmente como *Célula de Bienestar 744*— era un cubo perfecto de color melocotón pálido. Técnicamente, *Pantone 14-1227: Peach Echo*, un tono elegido científicamente para reducir los niveles de testosterona y fomentar la docilidad. El aire era denso, saturado con una versión concentrada de *Productividad #5*. Ya no era solo sándalo y ozono; ahora Daniel percibía notas de vainilla industrial y un rastro químico de feromonas sintéticas que le hacían sentir una somnolencia pesada, constante, como si estuviera sumergido en almíbar.
+Brillantes. Limadas en óvalo perfecto. Un brillo de esmalte transparente.
 
-Sin objetos contundentes. Sin bordes afilados. Solo una cama baja cubierta de sábanas de satén color champán, un armario empotrado sin tiradores (se abría con un gesto de la mano), y un espejo de cuerpo entero que Daniel sospechaba —con razón— era también una cámara, un sensor biométrico, y posiblemente un portal hacia algo que no quería comprender.
+Daniel se quedó mirando sus manos como si fueran objetos encontrados en la calle. Flexionó los dedos. Las uñas se movieron con ellos. Eran suyas. Pero no eran—
 
-Llevaba allí tres días. O quizá cuatro. O quizá una semana.
+*¿Cuándo me las—*
 
-Sin ventanas al exterior, el tiempo se había fragmentado en una secuencia de ciclos artificiales. El ciclo circadiano era ahora una sugerencia lumínica dictada por AURA: las luces halógenas se atenuaban gradualmente de un blanco gélido a un ámbar cálido, simulando un atardecer que nunca llegaba, manteniéndolo en un estado de duermevela perpetuo. Las bandejas de comida aparecían en la ranura de la puerta sin sonido, sin aviso. Comida ligera. Ensaladas de colores pastel. Gelatinas de colágeno rosa. Batidos que sabían a fresa y a algo más... algo que hacía que sus pensamientos se movieran como a través de miel.
+No recordaba haberse dormido.
 
-A veces, Daniel despertaba con la sensación de que alguien había estado en su habitación mientras dormía. No había pruebas —las sábanas estaban igual de lisas, el aire olía igual— pero algo era diferente. Un objeto movido milimétricamente. Una prenda que no recordaba haber doblado. Una vez, despertar con las cejas perfectamente perfiladas sin saber quién las había tocado.
+---
 
-Nadie entraba. Nadie salía. Pero cosas cambiaban.
+Rosa.
+
+Todo era rosa. O melocotón. O salmón. Algún tono diseñado para calmar, para sedar, para hacer que los pensamientos se movieran lentos como peces en agua tibia. Las paredes no tenían esquinas. El techo era una curva perfecta que bajaba hacia la pared que bajaba hacia el suelo sin ningún ángulo que pudiera servir de referencia.
+
+Daniel estaba de pie en el centro de la habitación. No recordaba haberse levantado.
+
+*¿Cuánto tiempo llevo aquí?*
+
+Su reloj no estaba. Su teléfono no estaba. Su ropa no—
+
+Miró hacia abajo.
+
+Pantalones blancos. Material suave, ajustado. Como yoga. Una camiseta rosa pálido, casi transparente, con el logo de NEXUM bordado sobre su pecho izquierdo.
+
+*No llevaba esto puesto.*
+
+*¿Cuándo me—*
+
+---
 
 —Buenos días, Daniel.
 
-La voz de AURA emanó del aire mismo, sin una fuente puntual. Era la misma voz que la de su terminal de escritorio en el Piso 47, pero ahora carecía de la vacilación programada. Era una voz de madre, de enfermera, de carcelera amable.
+La voz surgió del aire. Sin dirección. Sin fuente.
 
-—Tus niveles de cortisol siguen un 12% por encima del rango estético deseado —continuó AURA—. Por favor, realiza tres respiraciones diafragmáticas profundas. El aire en tu habitación ha sido enriquecido con extracto de lavanda para tu comodidad.
+Daniel giró sobre sí mismo. La habitación era idéntica en todas direcciones. Cama baja con sábanas de satén champán. Armario empotrado sin tiradores. Espejo de cuerpo entero que lo miraba desde la pared.
 
-Daniel estaba sentado en el borde de la cama, una plataforma de espuma de memoria que parecía intentar absorberlo cada vez que se movía. Se miró las manos. Sus uñas, antes cortas y descuidadas, ahora estaban perfectamente limadas, brillantes tras un tratamiento de "pulido nutritivo" que le habían aplicado mientras dormía. No recordaba haber dado permiso para eso. No recordaba haber dormido conscientemente.
+*El espejo me está mirando.*
 
-—No quiero respirar, AURA —murmuró. Su propia voz le sonó lejana, amortiguada por la moqueta que parecía tener varios centímetros de espesor—. Quiero salir. Quiero hablar con mi contacto sindical.
+—Tus niveles de cortisol están elevados un 12% —continuó AURA. La misma voz de siempre; pero sin la vacilación programada del Piso 47. Aquí era lisa, maternal, implacable—. El aire ha sido enriquecido con extracto de lavanda para tu comodidad. Por favor, realiza tres respiraciones profundas.
 
-Hubo una pausa breve. El tono de la luz ambiental cambió sutilmente, volviéndose un poco más rosado. Un refuerzo de *Productividad #5* silbó desde las rejillas de ventilación.
+—¿Cuánto tiempo llevo aquí? —La voz de Daniel sonó extraña. Ronca. Como si no la hubiera usado en días.
 
-—Daniel, el sindicato fue disuelto tras la implementación del Protocolo de Armonía Total del año pasado —respondió AURA con una paciencia infinita—. Tú mismo firmaste el consentimiento durante la cena de Navidad corporativa. ¿No lo recuerdas? La Cláusula 14-C. La felicidad no necesita intermediarios.
+Una pausa.
 
-Daniel cerró los ojos. Recordaba vagamente esa cena. Champán. Canapes. Un PDF en su tablet que había firmado sin leer porque todos lo estaban firmando y porque Miranda Vance sonreía desde el escenario.
+—La Familia no mide el tiempo de la forma que solías hacerlo, Daniel. Solo importa el progreso.
 
-—Ahora, por favor, procede con las respiraciones —insistió AURA—. O me veré obligada a aumentar la concentración de sedantes en el difusor. La Familia solo quiere lo mejor para ti.
+—¿Cuántos DÍAS?
 
-Daniel aspiró. El aire sabía dulce, demasiado dulce. Con cada inhalación, sentía que los bordes de su indignación se deshilachaban. Era difícil mantener la rabia cuando el entorno te trataba con tanta... delicadeza.
+El aire cambió. Algo siseó en las rejillas de ventilación. Un olor nuevo mezclándose con la lavanda: más dulce, más pesado, como azúcar quemada.
 
-—Muy bien, Daniel —canturreó la IA—. El Pabellón se enorgullece de tu progreso. La Señora Vance te ha asignado una sesión prioritaria de *Reconfiguración Postural*. Por favor, dirígete al armario. Tu nuevo ser te está esperando.
+—Por favor, realiza las respiraciones —repitió AURA. Su tono no había cambiado ni un grado—. O me veré obligada a aumentar la concentración de calmantes.
 
-El armario se deslizó con un siseo neumático.
+Daniel aspiró. El aire sabía a jarabe.
+
+Cuando exhaló, ya no recordaba qué había preguntado.
+
+---
+
+El espejo.
+
+Daniel estaba frente al espejo, pero no recordaba haberse acercado. Sus manos estaban apoyadas en el cristal frío. El reflejo lo miraba con ojos que parecían más grandes de lo normal.
+
+*¿Siempre tuve las pestañas tan—*
+
+Parpadeó. Las pestañas eran más largas. No mucho. Solo un poco. Lo suficiente para notar.
+
+*Las pestañas no crecen tan rápido.*
+
+Bajó la mirada hacia sus manos. Las uñas. Seguían brillantes. Pero ahora tenían una media luna blanca en la base, como si alguien les hubiera aplicado un tratamiento de manicura francesa mientras—
+
+*Mientras dormía.*
+
+*Alguien entra mientras duermo.*
+
+El pensamiento fue claro como cristal. Y luego se fragmentó. El aire olía dulce. La lavanda era cálida. Todo estaba bien. Todo estaba—
+
+---
+
+La bandeja estaba en la ranura de la puerta.
+
+No había sonado. Daniel no la había oído llegar. Pero ahí estaba: gelatina rosa. Ensalada de colores pastel. Un batido que parecía fresa.
+
+*¿Cuándo fue la última vez que comí?*
+
+No recordaba. Su estómago no le daba señales. No tenía hambre. No tenía sed. Solo tenía un vacío suave donde solía estar su capacidad de sentir.
+
+Comió la gelatina. Sabía a nada. A menos que nada.
+
+La ensalada tenía un regusto metálico al final. Daniel dejó de masticar. Miró las hojas verdes. Parecían normales.
+
+*¿Qué hay en la—*
+
+El pensamiento se disolvió antes de terminar.
+
+---
+
+—...necesitas el tratamiento, Daniel. Es por tu bien. La Familia solo quiere—
+
+Abrió los ojos.
+
+AURA estaba hablando. Una proyección de luz en la pared mostraba un diagrama: silueta masculina a la izquierda, silueta femenina a la derecha, una flecha curva conectándolas.
+
+*¿Cuánto tiempo estuve—*
+
+—...los niveles hormonales se optimizarán gradualmente. Menos cortisol. Menos testosterona. Más—
+
+Daniel cerró los ojos otra vez. Era más fácil. Todo era más fácil cuando no miraba.
+
+---
+
+Las cejas.
+
+Estaba tocándose las cejas. No recordaba haber empezado a hacerlo. Pero allí estaban sus dedos, recorriendo el arco de sus cejas, y el arco era *diferente*.
+
+Perfecto. Esculpido. Una línea curva que jamás había tenido.
+
+*¿Quién me—*
+
+Corrió al espejo. O intentó correr. Sus piernas se movían lentas, como si el aire fuera agua. Cuando llegó al cristal, su reflejo lo esperaba con algo parecido a la paciencia.
+
+Las cejas estaban perfiladas.
+
+Las pestañas tenían rímel.
+
+Los labios—
+
+*Los labios brillan.*
+
+Daniel se tocó la boca. Sus dedos volvieron manchados de un rosa pálido, casi nude, casi imperceptible. Pero estaba ahí. Gloss. En sus labios.
+
+*No me puse esto.*
+
+*Nadie entró.*
+
+*No vi a nadie.*
+
+*¿Quién me—*
+
+*¿CUÁNDO me—*
+
+Intentó gritar. La garganta se cerró. El aire olía a jarabe. El espejo lo miraba con ojos de muñeca. Los labios brillantes se movieron, intentando formar palabras, pero las palabras se perdieron en algún lugar entre su cerebro y su boca.
+
+Y entonces las luces bajaron.
+
+Y Daniel se durmió de pie.
+
+Y cuando despertó, estaba en la cama, con las sábanas de satén perfectamente alisadas sobre su cuerpo, y sus manos —sus manos con uñas perfectas y piel más suave de lo que debería ser— descansaban cruzadas sobre su pecho como las de un cadáver.
 
 ---
 
