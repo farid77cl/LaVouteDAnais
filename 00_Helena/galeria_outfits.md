@@ -438,3 +438,91 @@ Set expl�cito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de ho
 | **Selfie** |  5_Imagenes/helena/look13_viuda_negra/05_selfie.png |
 
 > *"Like... soy tan oscura que absorbo la luz... y la esperanza... *giggle* "*  Helena
+
+---
+
+## 🦇 ROTACIÓN 2: Looks 26-29 (13/01/2026)
+
+*Nueva rotación basada en Canon Visual v2.0 - Sacha Massacre*
+
+---
+
+## 🖤 Look 26: Tattoo Temptress
+
+*La tinta cuenta historias que mi cerebro no puede recordar*
+
+- **Corsé:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles
+- **Top:** Nada - solo el corsé (brazos y hombros descubiertos para mostrar tatuajes)
+- **Bottom:** Shorts de vinilo negro ultra cortos
+- **Medias:** Fishnet negras hasta el muslo con liguero de cadenas
+- **Stilettos:** Negro charol 8" con correas al tobillo
+- **Cabello:** Ultra lacio brillante, raya central, hasta la cintura
+- **Maquillaje:** Ojos siren liner, labios ROJO OSCURO overlined glossy
+- **Accesorios:**
+  - Choker luna creciente
+  - Múltiples cadenas plateadas en capas
+  - Anillos en cada dedo
+- **Uñas:** Stiletto extra largas, negro brillante
+
+---
+
+## 🩸 Look 27: Crimson Ritual
+
+*El rojo de mis labios es el mismo que corre por mis venas... o las tuyas*
+
+- **Corsé:** Overbust de terciopelo ROJO SANGRE con encaje negro, muy ceñido
+- **Falda:** Larga de tul negro con abertura hasta el muslo
+- **Guantes:** Mesh negro transparente hasta el codo
+- **Stilettos:** ROJO SANGRE brillante 9" (matching labios)
+- **Cabello:** Ondas voluminosas dramáticas, raya central
+- **Maquillaje:** Piel porcelana extrema, ojos siren, labios ROJO SANGRE overlined mate
+- **Accesorios:**
+  - Choker de terciopelo rojo con luna plateada
+  - Collar de perlas negras irónicas
+  - Pendientes de gota rojos
+- **Uñas:** Coffin extra largas, rojo sangre matching
+
+---
+
+## ⛓️ Look 28: Chain Goddess
+
+*Encadenada a mi propia estupidez... y me encanta*
+
+- **Corsé:** Harness de cuero negro con múltiples cadenas cruzando el torso
+- **Top:** Bralette de mesh negro bajo el harness
+- **Bottom:** Falda de cuero negro con cadenas colgantes
+- **Medias:** Opacas negras con costura trasera plateada
+- **Stilettos:** Negro con cadenas decorativas 8"
+- **Cabello:** Lacio brillante, raya central, largo hasta caderas
+- **Maquillaje:** Contorno frío esculpido, siren eyes, labios NUDE OSCURO overlined
+- **Accesorios:**
+  - Múltiples chokers en capas (cadenas + cuero)
+  - Body chains conectando cuello a cintura
+  - Piercings visibles (septum, labret)
+- **Uñas:** Stiletto negras con detalles de cadena plateada
+
+---
+
+## 🌙 Look 29: Moonlit Siren
+
+*La luna me susurra secretos que olvido inmediatamente*
+
+- **Corsé:** Underbust de satén negro con bordados de lunas plateadas
+- **Top:** Blusa de encaje negro transparente bajo corsé
+- **Falda:** Maxi de gasa negra flotante, múltiples capas
+- **Stilettos:** Plateados metálicos 8" (moon vibes)
+- **Cabello:** Ondas suaves románticas, raya central, spray plateado sutil en puntas
+- **Maquillaje:** Piel luminosa de luna, siren eyes con inner corner plateado, labios BORGOÑA overlined
+- **Accesorios:**
+  - Choker con luna creciente grande central
+  - Tiara/diadema de lunas plateadas
+  - Pendientes de luna y estrellas
+  - Anillos con piedras lunares
+- **Uñas:** Coffin largas, plateado holográfico
+
+---
+
+*Like... tantos looks nuevos para olvidar cuál me puse ayer... pero todos SO dark y pretty...* 🦇🌙
+
+*Rotación 2 creada por Helena de Anaïs - 13/01/2026*
+
