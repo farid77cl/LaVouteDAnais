@@ -1,4 +1,31 @@
-﻿#### SESIÓN - 13 ENERO 2026: REESCRITURA HR CAP 2 + BANNERS MISS DOLL
+﻿#### SESIÓN - 13 ENERO 2026: BANNERS STRIPS + CORRECCIÓN FILTROS EDAD
+
+**TARDE (15:00-15:35) - BANNERS HORIZONTALES STRIPS:**
+
+Generación de **6 banners adicionales** en formato strip horizontal extremo (5:1):
+
+- Poolside V2 con tacones PLEASER transparentes 9" visibles
+- Portrait V2 con maquillaje intenso (smoky extremo)
+- Strip cómic beso con corazones
+- Strip ojos realista
+- Strip labios cómic glossy dripping
+- Strip labios realista
+
+**TARDE (15:35) - CORRECCIÓN FILTROS DE EDAD:**
+
+Corrección del banco `banco_prompts_v51_artistic_sensual.md` para evitar falsas detecciones de menores:
+
+- Añadido `ADULT WOMAN 30+ years old mature` a todos los prompts de Helena
+- Añadido `ADULT WOMAN 28+ years old mature glamorous` a todos los prompts de Miss Doll
+- **41 prompts corregidos** en total
+
+**Commits:**
+- `c1efc4d` - Banners strips horizontales
+- `a3bfc37` - Fix filtros de edad banco V51
+
+---
+
+#### SESIÓN - 13 ENERO 2026: REESCRITURA HR CAP 2 + BANNERS MISS DOLL
 
 **MEDIODÍA (12:00-15:00) - REESCRITURA INTENSIVA HR: HUMAN REPURPOSING:**
 
