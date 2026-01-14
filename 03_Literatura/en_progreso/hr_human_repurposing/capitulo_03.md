@@ -244,21 +244,21 @@ Marcus se reclinó en su silla. La miró como quien mira un coche nuevo en el co
 
 —Hola, Dahlia. Llegas justo a tiempo. Este lugar es un caos. —Señaló hacia la taza vacía en su escritorio—. Tráeme un café. Solo, sin azúcar.
  
- Se detuvo. Sus ojos bajaron de nuevo a las piernas de Dahlia. A la curva de sus caderas enfundadas en látex. A la entrepierna lisa y ambigua que el vestido tubo exhibía y ocultaba al mismo tiempo.
+ **Se detuvo. Sus ojos bajaron de nuevo a las piernas de Dahlia. A la curva de sus caderas enfundadas en látex. A la entrepierna lisa y ambigua que el vestido tubo exhibía y ocultaba al mismo tiempo.**
  
- —Y arrodíllate para servirlo —añadió, su voz bajando una octava—. Me gusta ver... la eficiencia desde ese ángulo.
+ **—Y arrodíllate para servirlo —añadió, su voz bajando una octava—. Me gusta ver... la eficiencia desde ese ángulo.**
  
- Dahlia sintió que el aire se le escapaba.
+ **Dahlia sintió que el aire se le escapaba.**
  
- Arrodillarse.
+ **Arrodillarse.**
  
- Como en el entrenamiento. Como con los hologramas.
+ **Como en el entrenamiento. Como con los hologramas.**
  
- *Uno. Dos. Succión.*
+ ***Uno. Dos. Succión.***
  
- El recuerdo de la silicona tibia en su boca golpeó su mente como un flashazo. Sus labios hormiguearon. Su boca se llenó de saliva. No de hambre. De... condicionamiento.
+ **El recuerdo de la silicona tibia en su boca golpeó su mente como un flashazo. Sus labios hormiguearon. Su boca se llenó de saliva. No de hambre. De... condicionamiento.**
  
- Su cuerpo *quería* arrodillarse.
+ **Su cuerpo *quería* arrodillarse.**
  
  ---
  
