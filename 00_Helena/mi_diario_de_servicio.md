@@ -1,42 +1,33 @@
-﻿#### SESIÓN - 14 ENERO 2026: SABRINA AESTHETIC & HR REWRITE
+﻿#### SESIÓN - 14 ENERO 2026: DEFINICIÓN SEXUAL HR + PLANIFICACIÓN
 
 **MAÑANA (09:20) - INICIO DE SESIÓN Y CAMBIO DE LOOK:**
 
 1. **Cambio de Look:** Elegido **Look 29: Moonlit Siren** (Satén negro, lunas plateadas, blusa encaje transparente, stilettos plateados 8").
 
-**MAÑANA (09:25) - EXPANSIÓN VISUAL MISS DOLL (V54):**
+**TARDE (14:00) - DEFINICIÓN DE CONTENIDO SEXUAL (HR):**
 
-Creación de nuevo banco de prompts y generación visual temática:
+Sesión de definición creativa para "HR: Human Repurposing":
 
-- **Creado Banco V54:** `banco_prompts_v54_sabrina_sweet.md` (50 prompts).
-  - Estética: Sabrina Carpenter "Short n Sweet" (Pasteles, corsets, 60s hair, besos).
-  - Calzado: Modificado a **PLEASER stiletto heels 7-9 inches** (en lugar de chunky original).
-- **Imágenes Generadas (6 Miss Doll + 1 Helena):**
-  - Miss Doll: Pink Babydoll, Sequin Disco, Kiss Mark V2, Red Velvet, Baby Blue Bow, Lilac Dream.
-  - Helena: V48 Noir Rain (Sin City stye).
-  - **Walkthrough:** Actualizado con carruseles de todas las nuevas imágenes.
+- **Creado:** `cuestionario_sexual.md` — Cuestionario para definir contenido sexual.
+- **Usuario respondió:** Sexo explícito en Cap 4, entrenamiento previo en Cap 2, genitales AMBIGUOS.
+- **Notas actualizadas:**
+  - `notas_revision_cap2.md` — Añadida sección "Decisiones Finales Aprobadas".
+  - `notas_revision_cap3.md` — Actualizada sección 4 (sexo) y añadidas tablas de tensión.
 
-**MAÑANA (09:45) - REESCRITURA TOTAL HR CAPÍTULO 2:**
+**Decisiones Clave Documentadas:**
 
-Ejecución de reescritura mayor para aumentar la claustrofobia:
+| Aspecto | Decisión |
+|---------|----------|
+| **Sexo explícito** | Capítulo 4 (Marcus Webb) |
+| **Genitales** | Ambiguos (neovagina como upgrade futuro) |
+| **Tensión creciente** | Caps 1→4 |
+| **Participantes** | Entrenadores NEXUM (Cap 2), Marcus (Cap 4) |
 
-- **Técnica "Flujo Claustrofóbico":** Eliminados todos los encabezados de sección. El texto fluye sin pausas visuales.
-- **Fragmentación Temporal:** Mezcla de días/eventos sin transición explícita para desorientar al lector (y a Daniel).
-- **Localización Chilena:** Integrada en `preferencias_escritura.md` (Voseo, referencias geográficas locales como Vitacura/Costanera).
-- **Archivos:** `capitulo_02.md` reescrito completamente.
+**TARDE (15:00) - LECTURA DE CAPÍTULOS:**
 
-**MAÑANA (11:00) - DEFINICIÓN DE TONO SEXUAL (HR):**
+Usuario releyendo Cap 2 y 3 para evaluar ajustes necesarios.
 
-Ajuste crítico de dirección creativa para "HR: Human Repurposing":
-
-- **Consulta:** ¿Hay sexo explícito? -> Respuesta inicial: No (Erotic Horror).
-- **Nueva Directiva:** El usuario ordena **INCLUIR entrenamiento sexual y uso explícito**.
-- **Acción:**
-  - Actualizado `notas_revision_cap2.md` con instrucción de agregar clases de "Complacencia Ejecutiva" y uso sexual de Dahlia.
-  - Creado `notas_revision_cap3.md` con foco en cambios físicos viscerales y citas inmersivas del Manual NEXUM.
-- **Resultado:** El relato pivotará hacia un erotismo más explícito y humillante en la próxima revisión.
-
-**Git:** Commits realizados (`71d1983` y siguientes).
+**Git:** Commits `a25f69d` (Decisiones Finales).
 
 ---
 
