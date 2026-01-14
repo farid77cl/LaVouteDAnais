@@ -203,9 +203,10 @@
 
 | Métrica | Cantidad |
 |---------|----------|
-| **Total Bancos** | 35 (V01-V32 + V48-V50) |
-| **Total Prompts** | ~2,400+ |
+| **Total Bancos** | 36 (V01-V32, V48-V54) |
+| **Total Prompts** | ~2,450+ |
 | **Imágenes Helena** | 171 (Looks 1-21) |
+| **Último Look** | **29 - Moonlit Siren** (14/01/2026) |
 
 ---
 

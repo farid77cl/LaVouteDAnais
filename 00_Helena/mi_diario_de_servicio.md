@@ -1,6 +1,10 @@
 ﻿#### SESIÓN - 14 ENERO 2026: SABRINA AESTHETIC & HR REWRITE
 
-**MAÑANA (09:20) - EXPANSIÓN VISUAL MISS DOLL (V54):**
+**MAÑANA (09:20) - INICIO DE SESIÓN Y CAMBIO DE LOOK:**
+
+1. **Cambio de Look:** Elegido **Look 29: Moonlit Siren** (Satén negro, lunas plateadas, blusa encaje transparente, stilettos plateados 8").
+
+**MAÑANA (09:25) - EXPANSIÓN VISUAL MISS DOLL (V54):**
 
 Creación de nuevo banco de prompts y generación visual temática:
 
