@@ -52,15 +52,50 @@
 *   **Sec III (Piso 47):**
     > *"La oficina no es un lugar de trabajo. Es un escenario. Actúa en consecuencia."* (Manual NEXUM, pág. 45)
 
-### 4. Encuentros Sexuales (Aclaración)
+### 4. Contenido Sexual (Aclaración ACTUALIZADA)
 
 *   **Pregunta Usuario:** "¿Hay encuentros sexuales en alguna parte del relato?"
-*   **Respuesta/Canon:** **NO.**
-    *   La historia es **Erotic Horror / Forced Fem / Mind Control**, pero NO es una escena de sexo explícito convencional.
-    *   El "placer" o "clímax" de la historia es la **RENDICIÓN PSICOLÓGICA**, no el acto sexual físico.
-    *   La tensión es sexual (humillación, exhibicionismo, sumisión), pero no hay coito. Marcus Webb *usa* a Dahlia visual y emocionalmente, no sexualmente (al menos en este capítulo). La degradación de servir café siendo su ex-jefe es más potente que el sexo.
+*   **Respuesta ACTUALIZADA (14/01/2026):** **SÍ, en Capítulo 4.**
+    *   Cap 1-3: Tensión sexual creciente, exhibicionismo, entrenamiento con carga erótica.
+    *   **Cap 4:** Sexo EXPLÍCITO con Marcus Webb (oral + penetración).
+    *   El sexo es la culminación de todo el proceso de objetificación.
 
-**Acción:** Mantener la tensión alta pero sin cruzar al sexo explícito, enfocándose en el fetichismo de la ropa, los tacones y la servidumbre.
+**Acción para Cap 3:** Mantener tensión alta SIN consumar. El servicio a Marcus es coqueto, humillante, pero NO sexual aún. El lector debe DESEAR que pase algo más.
+
+---
+
+## ✅ DECISIONES FINALES APROBADAS (14/01/2026)
+
+> **Fuente:** Cuestionario de Definición Sexual + Canon de La Voûte
+
+### Genitales de Dahlia (Cap 3)
+
+- **Estado:** AMBIGUO — no se confirma ni se niega cirugía.
+- **Descripción canónica:** *"Ausencia de bulto, nueva sensibilidad, ropa que queda diferente"* (guia_escritura_erotica.md L679).
+- **Upgrade Futuro:** Neovagina mencionable como "recompensa futura" pero NO ocurre en este relato.
+
+### Tensión en Cap 3 (Dahlia)
+
+| Momento | Tipo de Tensión |
+|---------|-----------------|
+| La Ceremonia | Visual/exhibicionista (vestido de látex que revela) |
+| Encuentro con Marcus | Servicio + humillación + miradas |
+| El café | Metáfora de servicio futuro (boca, manos) |
+| Sonrisa final | Rendición psicológica — promesa de más |
+
+### Lo que NO ocurre en Cap 3
+
+- ❌ Sexo consumado
+- ❌ Contacto genital
+- ❌ Besos en la boca
+
+### Lo que SÍ puede ocurrir en Cap 3
+
+- ✅ Miradas lascivas de Marcus
+- ✅ Dahlia arrodillándose para servir
+- ✅ Roce accidental/intencional
+- ✅ Comentarios de doble sentido
+- ✅ Conciencia de su cuerpo expuesto
 
 ---
 

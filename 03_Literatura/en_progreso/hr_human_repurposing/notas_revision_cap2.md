@@ -114,4 +114,53 @@ El Capítulo 2 debe transmitir:
 
 ---
 
+## ✅ DECISIONES FINALES APROBADAS (14/01/2026 - 18:35)
+
+> **Fuente:** Cuestionario de Definición Sexual + Canon de La Voûte
+
+### Estructura de Tensión Sexual por Capítulo
+
+| Capítulo | Nivel | Contenido |
+|----------|-------|-----------|
+| **Cap 1** | Nivel 1 (Iniciación) | Tensión ambiental, miradas, incomodidad |
+| **Cap 2** | Nivel 2 (Inmersión) | Entrenamiento físico con carga erótica, desnudez, exhibicionismo |
+| **Cap 3** | Nivel 3 (Profundización) | Tensión máxima, servicio a Marcus, coqueteo implícito |
+| **Cap 4** | Nivel 4 (Culminación) | **SEXO EXPLÍCITO** con Marcus (oral + penetración) |
+
+### Genitales de Dahlia
+
+- **Estado:** AMBIGUO (no se confirma ni se niega cirugía).
+- **Narrativa:** Describir *ausencia de bulto*, *nueva sensibilidad*, *ropa que queda diferente*.
+- **Upgrade Futuro:** Neovagina como "recompensa" si Dahlia es perfecta — MENCIONABLE pero no ocurre en este relato.
+
+### Participantes Sexuales
+
+| Personaje | Rol | Capítulo |
+|-----------|-----|----------|
+| **Entrenadores NEXUM** | Hologramas/clínico para enseñar técnicas | Cap 2 |
+| **Marcus Webb** | PRIMERO en usar a Dahlia — estreno de habilidades | **Cap 4** |
+
+### Actos a Incluir
+
+- ✅ Oral (entrenamiento de garganta/boca)
+- ✅ Penetración (anal o vaginal — ambiguo, el lector imagina)
+- ✅ Exhibicionismo/desnudez humillante
+- ❌ Juguetes/dildos
+- ❌ Masturbación forzada
+
+### Nivel de Explicitud
+
+**Moderadamente explícito:** Se entiende qué pasa sin ser pornografía clínica.
+- Usar vocabulario erótico del canon (`guia_escritura_erotica.md` Sec VIII).
+- Priorizar SENSACIÓN sobre ACCIÓN.
+- Construir tensión en Caps 1-3, explotar en Cap 4.
+
+### Líneas Rojas
+
+- Todo dentro de límites morales y legales.
+- Todos los personajes son ADULTOS (30+).
+- No violencia gratuita sin propósito narrativo.
+
+---
+
 *Guardado para futura reescritura.*
