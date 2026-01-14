@@ -1,27 +1,27 @@
-# 💉 Banco de Prompts V25: MEDICAL & NURSE EDITION
+﻿# ðŸ’‰ Banco de Prompts V25: MEDICAL & NURSE EDITION
 
-> **ENFOQUE:** Enfermeras sexy, doctoras, consultorios, guantes de látex, estetoscopios.
+> **ENFOQUE:** Enfermeras sexy, doctoras, consultorios, guantes de lÃ¡tex, estetoscopios.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **🎨 COLOR FREEDOM:** Helena (White, Black, Red). Miss Doll (Pink, White, Red).
+> **ðŸŽ¨ COLOR FREEDOM:** Helena (White, Black, Red). Miss Doll (Pink, White, Red).
 > **Total:** 50+ prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS
+## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS
 
-### 🦇 Helena de Anaïs (BASE)
+### ðŸ¦‡ Helena de AnaÃ¯s (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference), 
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
 pale porcelain white skin, voluminous jet black hair styled professionally, 
 full glossy lips (red/wine/black), youthful face with dramatic makeup, feminine silhouette, 
 black or white stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### 💖 Miss Doll (BASE)
+### ðŸ’– Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -32,195 +32,195 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## 💖 I. MISS DOLL — PINK NURSE COLLECTION (15 PROMPTS)
+## ðŸ’– I. MISS DOLL â€” PINK NURSE COLLECTION (15 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Pink Latex Nurse
 
 ```text
-Professional medical fantasy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK LATEX nurse uniform, extremely short hemline. White cross on cap. Stethoscope around neck. White latex gloves. PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital hallway. Sensual nurse pose. Expression: ready to assist. Pink nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical fantasy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK LATEX nurse uniform, extremely short hemline. White cross on cap. Stethoscope around neck. White latex gloves. PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital hallway. Sensual nurse pose. Expression: ready to assist. Pink nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Shot Administration
 
 ```text
-Professional medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK accents. Holding syringe with pink liquid. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual medical pose. Expression: this won't hurt. Shot nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK accents. Holding syringe with pink liquid. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual medical pose. Expression: this won't hurt. Shot nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Naughty Night Shift
 
 ```text
-Professional boudoir medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sheer nurse costume, lingerie visible underneath. Cap askew. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed in background. Sensual tired but flirty pose. Expression: long night shift. Night nurse. Seductive glamour photography, dim clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir medical photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK sheer nurse costume, lingerie visible underneath. Cap askew. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed in background. Sensual tired but flirty pose. Expression: long night shift. Night nurse. Seductive glamour photography, dim clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Candy Striper Fantasy
 
 ```text
-Professional retro medical photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE striped candy striper uniform, vintage style. Carrying medicine tray. PLEASER FLAMINGO-808 white 8-inch platform heels. 1960s hospital aesthetic. Sensual helper pose. Expression: here to help. Candy striper. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro medical photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE striped candy striper uniform, vintage style. Carrying medicine tray. PLEASER FLAMINGO-808 white 8-inch platform heels. 1960s hospital aesthetic. Sensual helper pose. Expression: here to help. Candy striper. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Surgical Mask Tease
 
 ```text
-Professional PPE photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible above mask, thick winged eyeliner, long false lashes, arched brows. Human realistic face half hidden by pink surgical mask being pulled down to show RED lips. Wearing PINK scrubs tight fit. PLEASER FLAMINGO-808 white 8-inch platform heels. Operating room. Sensual mask tease pose. Expression: mystery eyes. Masked nurse. Seductive glamour photography, OR lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional PPE photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible above mask, thick winged eyeliner, long false lashes, arched brows. Human realistic face half hidden by pink surgical mask being pulled down to show RED lips. Wearing PINK scrubs tight fit. PLEASER FLAMINGO-808 white 8-inch platform heels. Operating room. Sensual mask tease pose. Expression: mystery eyes. Masked nurse. Seductive glamour photography, OR lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Heart Monitor
 
 ```text
-Professional ICU photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress. Checking heart monitor showing heart shapes. Stethoscope. PLEASER FLAMINGO-808 pink 8-inch platform heels. ICU setting with monitors. Sensual caring pose. Expression: checking vitals. ICU nurse. Seductive glamour photography, monitor glow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ICU photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress. Checking heart monitor showing heart shapes. Stethoscope. PLEASER FLAMINGO-808 pink 8-inch platform heels. ICU setting with monitors. Sensual caring pose. Expression: checking vitals. ICU nurse. Seductive glamour photography, monitor glow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Wheelchair Push
 
 ```text
-Professional assistance photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK trim. Pushing pink wheelchair (empty, prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital corridor. Sensual walking pose pushing chair. Expression: patient care. Transport nurse. Seductive glamour photography, hallway lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional assistance photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse uniform with PINK trim. Pushing pink wheelchair (empty, prop). PLEASER FLAMINGO-808 white 8-inch platform heels. Hospital corridor. Sensual walking pose pushing chair. Expression: patient care. Transport nurse. Seductive glamour photography, hallway lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Blood Pressure Check
 
 ```text
-Professional exam photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrub top and WHITE pants. Holding blood pressure cuff in pink. Stethoscope in ears. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual checking pose. Expression: let me check. BP nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrub top and WHITE pants. Holding blood pressure cuff in pink. Stethoscope in ears. PLEASER FLAMINGO-808 pink 8-inch platform heels. Exam room. Sensual checking pose. Expression: let me check. BP nurse. Seductive glamour photography, clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Pill Dispenser
 
 ```text
-Professional pharmacy photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK dress. Holding tray of colorful pills. PLEASER FLAMINGO-808 white 8-inch platform heels. Pharmacy counter. Sensual dispensing pose. Expression: take your medicine. Pill nurse. Seductive glamour photography, pharmacy lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pharmacy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK dress. Holding tray of colorful pills. PLEASER FLAMINGO-808 white 8-inch platform heels. Pharmacy counter. Sensual dispensing pose. Expression: take your medicine. Pill nurse. Seductive glamour photography, pharmacy lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Temperature Check
 
 ```text
-Professional exam photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse cap with modern scrubs. Holding thermometer. PLEASER FLAMINGO-808 pink 8-inch platform heels. Patient room. Sensual checking pose leaning toward camera. Expression: open wide. Temperature nurse. Seductive glamour photography, bedside lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse cap with modern scrubs. Holding thermometer. PLEASER FLAMINGO-808 pink 8-inch platform heels. Patient room. Sensual checking pose leaning toward camera. Expression: open wide. Temperature nurse. Seductive glamour photography, bedside lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Miss Doll - Ambulance EMT
 
 ```text
-Professional emergency photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK EMT uniform tight fit. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels impractical but glamorous. Back of pink ambulance. Sensual emergency pose. Expression: on the scene. EMT glam. Seductive glamour photography, emergency lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional emergency photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK EMT uniform tight fit. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels impractical but glamorous. Back of pink ambulance. Sensual emergency pose. Expression: on the scene. EMT glam. Seductive glamour photography, emergency lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Miss Doll - X-Ray Reading
 
 ```text
-Professional radiology photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin lit by x-ray. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK blouse. Holding x-ray of heart shape up to light. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology viewing room. Sensual analyzing pose. Expression: I see your heart. Radiology nurse. Seductive glamour photography, x-ray backlit, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional radiology photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin lit by x-ray. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE lab coat over PINK blouse. Holding x-ray of heart shape up to light. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology viewing room. Sensual analyzing pose. Expression: I see your heart. Radiology nurse. Seductive glamour photography, x-ray backlit, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Miss Doll - Nurse Station Selfie
 
 ```text
-Professional social media photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrubs. Taking mirror selfie at nurse station. Stethoscope as prop. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Hospital nurse station. Sensual selfie pose. Expression: nurse life. Selfie nurse. Seductive glamour photography, fluorescent lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional social media photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK scrubs. Taking mirror selfie at nurse station. Stethoscope as prop. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Hospital nurse station. Sensual selfie pose. Expression: nurse life. Selfie nurse. Seductive glamour photography, fluorescent lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Miss Doll - Bed Bath Fantasy
 
 ```text
-Professional intimate care photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress short. Holding basin and sponge playfully. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room with bed. Sensual caring pose. Expression: sponge bath time. Care nurse. Seductive glamour photography, soft clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional intimate care photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK nurse dress short. Holding basin and sponge playfully. White latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room with bed. Sensual caring pose. Expression: sponge bath time. Care nurse. Seductive glamour photography, soft clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Miss Doll - Pink Stethoscope Heart
 
 ```text
-Professional portrait photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse top. Pink stethoscope shaped into heart on chest. PLEASER FLAMINGO-808 pink 8-inch platform heels. Simple clinical backdrop. Sensual portrait pose. Expression: nursing is heart. Stethoscope heart. Seductive glamour photography, portrait lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional portrait photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE nurse top. Pink stethoscope shaped into heart on chest. PLEASER FLAMINGO-808 pink 8-inch platform heels. Simple clinical backdrop. Sensual portrait pose. Expression: nursing is heart. Stethoscope heart. Seductive glamour photography, portrait lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🦇 II. HELENA — DARK DOCTOR COLLECTION (15 PROMPTS)
+## ðŸ¦‡ II. HELENA â€” DARK DOCTOR COLLECTION (15 PROMPTS)
 
 ### Prompt 85: 16. Helena - Gothic Doctor Coat
 
 ```text
-Professional medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in professional updo. Pale porcelain white skin clinical. Full glossy wine red lips. Wearing BLACK lab coat over BLACK lingerie visible. Stethoscope. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots. Dark gothic medical office. Sensual doctor pose. Expression: doctor will see you now. Gothic doctor. Seductive glamour photography, dramatic clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in professional updo. Pale porcelain white skin clinical. Full glossy wine red lips. Wearing BLACK lab coat over BLACK lingerie visible. Stethoscope. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots. Dark gothic medical office. Sensual doctor pose. Expression: doctor will see you now. Gothic doctor. Seductive glamour photography, dramatic clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - Vintage Asylum Nurse
 
 ```text
-Professional horror medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in messy vintage style. Pale porcelain white skin ghostly. Full glossy blood red lips. Wearing vintage WHITE nurse uniform stained and aged. Old syringe. PLEASER MOON-708 white 7-inch heels dirty. Abandoned asylum ward. Sensual creepy pose. Expression: eternal nurse. Asylum nurse. Seductive glamour photography, decay lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy vintage style. Pale porcelain white skin ghostly. Full glossy blood red lips. Wearing vintage WHITE nurse uniform stained and aged. Old syringe. PLEASER MOON-708 white 7-inch heels dirty. Abandoned asylum ward. Sensual creepy pose. Expression: eternal nurse. Asylum nurse. Seductive glamour photography, decay lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - Vampire Blood Doctor
 
 ```text
-Professional horror fantasy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips with fangs. Wearing WHITE lab coat with blood stains artistic. Blood bag in hand, drinking. PLEASER RAPTURE-1020 white 8-inch boots with red splatters. Dark lab. Sensual feeding pose. Expression: blood type preference. Vampire doctor. Seductive glamour photography, clinical horror lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror fantasy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips with fangs. Wearing WHITE lab coat with blood stains artistic. Blood bag in hand, drinking. PLEASER RAPTURE-1020 white 8-inch boots with red splatters. Dark lab. Sensual feeding pose. Expression: blood type preference. Vampire doctor. Seductive glamour photography, clinical horror lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - Plague Doctor Femme
 
 ```text
-Professional historical horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair visible beneath hood. Pale porcelain white skin ghostly. Full glossy black lips. Wearing BLACK plague doctor costume modified sexy, beak mask lifted to side. BLACK leather coat revealing corset. PLEASER MOON-708 black 7-inch heels. Foggy medieval street. Sensual historical pose. Expression: your cure awaits. Plague doctor. Seductive glamour photography, fog and candlelight, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional historical horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair visible beneath hood. Pale porcelain white skin ghostly. Full glossy black lips. Wearing BLACK plague doctor costume modified sexy, beak mask lifted to side. BLACK leather coat revealing corset. PLEASER MOON-708 black 7-inch heels. Foggy medieval street. Sensual historical pose. Expression: your cure awaits. Plague doctor. Seductive glamour photography, fog and candlelight, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Dark Surgery Prep
 
 ```text
-Professional OR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under surgical cap with dark hair escaping. Pale porcelain white skin. Full glossy wine lips under pulled-down mask. Wearing BLACK surgical gown modified. Black latex gloves raised. PLEASER RAPTURE-1020 black 8-inch boots. Gothic operating room. Sensual surgical pose. Expression: ready to operate. Dark surgeon. Seductive glamour photography, OR spotlight, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional OR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under surgical cap with dark hair escaping. Pale porcelain white skin. Full glossy wine lips under pulled-down mask. Wearing BLACK surgical gown modified. Black latex gloves raised. PLEASER RAPTURE-1020 black 8-inch boots. Gothic operating room. Sensual surgical pose. Expression: ready to operate. Dark surgeon. Seductive glamour photography, OR spotlight, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 80: 21. Helena - Mortician Beauty
 
 ```text
-Professional morgue photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair combed. Pale porcelain white skin matching corpse palette. Full glossy pale wine lips. Wearing BLACK professional dress with apron. Preparing someone (not shown). PLEASER MOON-708 black 7-inch heels. Clean morgue. Sensual professional pose. Expression: peaceful rest. Mortician. Seductive glamour photography, cold clinical lighting, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morgue photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair combed. Pale porcelain white skin matching corpse palette. Full glossy pale wine lips. Wearing BLACK professional dress with apron. Preparing someone (not shown). PLEASER MOON-708 black 7-inch heels. Clean morgue. Sensual professional pose. Expression: peaceful rest. Mortician. Seductive glamour photography, cold clinical lighting, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Helena - Psychiatric Ward Nurse
 
 ```text
-Professional psychological photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in strict bun. Pale porcelain white skin severe. Full glossy blood red lips stern. Wearing WHITE vintage psychiatric nurse uniform strict. Keys on chain. PLEASER RAPTURE-1020 white 8-inch boots. Patient ward (empty). Sensual authority pose. Expression: medication time. Ward nurse. Seductive glamour photography, institutional lighting, medical thriller aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional psychological photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in strict bun. Pale porcelain white skin severe. Full glossy blood red lips stern. Wearing WHITE vintage psychiatric nurse uniform strict. Keys on chain. PLEASER RAPTURE-1020 white 8-inch boots. Patient ward (empty). Sensual authority pose. Expression: medication time. Ward nurse. Seductive glamour photography, institutional lighting, medical thriller aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Helena - Lab Scientist Glam
 
 ```text
-Professional research photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair down but professional. Pale porcelain white skin lab lit. Full glossy purple lips unusual. Wearing WHITE lab coat over BLACK bodysuit. Holding beaker with purple liquid. Safety glasses on head. PLEASER MOON-708 black 7-inch heels. Research laboratory. Sensual scientist pose. Expression: discovery made. Lab scientist. Seductive glamour photography, lab lighting, medical research aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional research photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair down but professional. Pale porcelain white skin lab lit. Full glossy purple lips unusual. Wearing WHITE lab coat over BLACK bodysuit. Holding beaker with purple liquid. Safety glasses on head. PLEASER MOON-708 black 7-inch heels. Research laboratory. Sensual scientist pose. Expression: discovery made. Lab scientist. Seductive glamour photography, lab lighting, medical research aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Helena - Night Shift ER
 
 ```text
-Professional emergency photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slightly messy from work. Pale porcelain white skin tired beautiful. Full glossy red lips. Wearing BLACK scrubs (unusual for ER but gothic). Coffee cup in hand. PLEASER RAPTURE-1020 black 8-inch boots. ER night shift. Sensual exhausted but beautiful pose. Expression: 3am shift. ER night. Seductive glamour photography, hospital night lighting, medical drama aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional emergency photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair slightly messy from work. Pale porcelain white skin tired beautiful. Full glossy red lips. Wearing BLACK scrubs (unusual for ER but gothic). Coffee cup in hand. PLEASER RAPTURE-1020 black 8-inch boots. ER night shift. Sensual exhausted but beautiful pose. Expression: 3am shift. ER night. Seductive glamour photography, hospital night lighting, medical drama aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Helena - Medical Dominatrix
 
 ```text
-Professional fetish medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy black lips. Wearing BLACK latex nurse outfit with extreme modifications. Riding crop with red cross. Black latex gloves. PLEASER RAPTURE-1020 black 9-inch boots. BDSM medical room. Sensual dominant pose. Expression: time for your exam. Medical dom. Seductive glamour photography, red and clinical lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy black lips. Wearing BLACK latex nurse outfit with extreme modifications. Riding crop with red cross. Black latex gloves. PLEASER RAPTURE-1020 black 9-inch boots. BDSM medical room. Sensual dominant pose. Expression: time for your exam. Medical dom. Seductive glamour photography, red and clinical lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Helena - Dentist Chair Seduction
 
 ```text
-Professional dental photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in ponytail. Pale porcelain white skin. Full glossy wine red lips smile showing perfect teeth. Wearing WHITE dental tunic over BLACK pants. Dental mirror in hand. PLEASER MOON-708 white 7-inch heels. Dental chair as throne. Sensual dentist pose leaning over chair. Expression: open wide. Gothic dentist. Seductive glamour photography, dental lamp lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dental photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in ponytail. Pale porcelain white skin. Full glossy wine red lips smile showing perfect teeth. Wearing WHITE dental tunic over BLACK pants. Dental mirror in hand. PLEASER MOON-708 white 7-inch heels. Dental chair as throne. Sensual dentist pose leaning over chair. Expression: open wide. Gothic dentist. Seductive glamour photography, dental lamp lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Helena - Pharmaceutical Sales
 
 ```text
-Professional corporate medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in professional waves. Pale porcelain white skin corporate. Full glossy red lips professional. Wearing BLACK business suit tight fit. Carrying pharmaceutical briefcase with samples. PLEASER RAPTURE-1020 black 8-inch boots. Doctor's office. Sensual sales pose. Expression: let me show you. Pharma rep. Seductive glamour photography, office lighting, medical business aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional corporate medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in professional waves. Pale porcelain white skin corporate. Full glossy red lips professional. Wearing BLACK business suit tight fit. Carrying pharmaceutical briefcase with samples. PLEASER RAPTURE-1020 black 8-inch boots. Doctor's office. Sensual sales pose. Expression: let me show you. Pharma rep. Seductive glamour photography, office lighting, medical business aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Helena - Physical Therapist
 
 ```text
-Professional wellness photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in athletic ponytail. Pale porcelain white skin. Full glossy natural lips softer. Wearing BLACK athletic PT outfit. Yoga ball nearby. Resistance band in hands. PLEASER athletic black 7-inch heels (impractical but glam). Physical therapy gym. Sensual stretching demo pose. Expression: breathe and stretch. PT goth. Seductive glamour photography, gym lighting, medical wellness aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wellness photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in athletic ponytail. Pale porcelain white skin. Full glossy natural lips softer. Wearing BLACK athletic PT outfit. Yoga ball nearby. Resistance band in hands. PLEASER athletic black 7-inch heels (impractical but glam). Physical therapy gym. Sensual stretching demo pose. Expression: breathe and stretch. PT goth. Seductive glamour photography, gym lighting, medical wellness aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Helena - Vintage Nurse Victorian
 
 ```text
-Professional historical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in Victorian nurse style. Pale porcelain white skin period appropriate. Full glossy wine lips. Wearing WHITE Victorian nurse uniform long with black trim. Oil lamp. PLEASER MOON-708 black 7-inch boots lace-up Victorian. Crimean war era hospital. Sensual Florence Nightingale pose. Expression: lady with lamp. Victorian nurse. Seductive glamour photography, candlelight and lamp, historical medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional historical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in Victorian nurse style. Pale porcelain white skin period appropriate. Full glossy wine lips. Wearing WHITE Victorian nurse uniform long with black trim. Oil lamp. PLEASER MOON-708 black 7-inch boots lace-up Victorian. Crimean war era hospital. Sensual Florence Nightingale pose. Expression: lady with lamp. Victorian nurse. Seductive glamour photography, candlelight and lamp, historical medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Helena - Dark Medical School
 
 ```text
-Professional academic photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair scholarly. Pale porcelain white skin studious. Full glossy wine red lips. Wearing WHITE lab coat over BLACK dress. Medical textbooks. Anatomical model visible. PLEASER RAPTURE-1020 black 8-inch boots. Medical school library. Sensual studying pose. Expression: top of class. Med student. Seductive glamour photography, library lighting, academic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional academic photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair scholarly. Pale porcelain white skin studious. Full glossy wine red lips. Wearing WHITE lab coat over BLACK dress. Medical textbooks. Anatomical model visible. PLEASER RAPTURE-1020 black 8-inch boots. Medical school library. Sensual studying pose. Expression: top of class. Med student. Seductive glamour photography, library lighting, academic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 👯 III. DUO — MEDICAL PAIRS (10 PROMPTS)
+## ðŸ‘¯ III. DUO â€” MEDICAL PAIRS (10 PROMPTS)
 
 ### Prompt 70: 31. Duo - Doctor and Nurse
 
@@ -284,30 +284,30 @@ Professional emergency duo photography. HELENA as EMT: Sacha Massacre look, blac
 
 ---
 
-## 🏥 IV. SPECIAL MEDICAL SCENES (10 PROMPTS)
+## ðŸ¥ IV. SPECIAL MEDICAL SCENES (10 PROMPTS)
 
 ### Prompt 60: 41. Helena - Vintage Medicine Ad
 
 ```text
-Professional vintage advertising photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in 1950s style. Pale porcelain white skin flawless. Full glossy cherry red lips. Wearing WHITE vintage nurse uniform. Holding up vintage medicine bottle. 1950s advertising style with text space. PLEASER MOON-708 white 7-inch heels. Vintage pharmacy backdrop. Sensual advertising pose. Expression: doctor recommended. Vintage med ad. Seductive glamour photography, vintage ad lighting, retro medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vintage advertising photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in 1950s style. Pale porcelain white skin flawless. Full glossy cherry red lips. Wearing WHITE vintage nurse uniform. Holding up vintage medicine bottle. 1950s advertising style with text space. PLEASER MOON-708 white 7-inch heels. Vintage pharmacy backdrop. Sensual advertising pose. Expression: doctor recommended. Vintage med ad. Seductive glamour photography, vintage ad lighting, retro medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 59: 42. Miss Doll - Pin-Up Nurse Calendar
 
 ```text
-Professional pin-up photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse uniform sexy version. Calendar month visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. White studio with date. Sensual calendar pose. Expression: nurse of month. Nurse calendar. Seductive glamour photography, pin-up lighting, vintage medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pin-up photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic vintage winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK vintage nurse uniform sexy version. Calendar month visible. PLEASER FLAMINGO-808 pink 8-inch platform heels. White studio with date. Sensual calendar pose. Expression: nurse of month. Nurse calendar. Seductive glamour photography, pin-up lighting, vintage medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 58: 43. Helena - Medical Goth Photoshoot
 
 ```text
-Professional editorial photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with red cross headband. Pale porcelain white skin. Full glossy black lips. Wearing customized goth nurse outfit, BLACK with red crosses. Syringes as hair accessories (capped). PLEASER RAPTURE-1020 black 8-inch boots with red crosses. White clinical studio. Sensual editorial pose. Expression: medical fashion. Medical goth. Seductive glamour photography, fashion lighting, editorial medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional editorial photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with red cross headband. Pale porcelain white skin. Full glossy black lips. Wearing customized goth nurse outfit, BLACK with red crosses. Syringes as hair accessories (capped). PLEASER RAPTURE-1020 black 8-inch boots with red crosses. White clinical studio. Sensual editorial pose. Expression: medical fashion. Medical goth. Seductive glamour photography, fashion lighting, editorial medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 57: 44. Miss Doll - Nurse Bachelorette
 
 ```text
-Professional party photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK sexy nurse costume, bachelorette style. "BRIDE" sash. Giant syringe with pink shots. PLEASER FLAMINGO-808 pink 8-inch platform heels. Party venue. Sensual party pose. Expression: party nurse. Bachelorette nurse. Seductive glamour photography, party lighting, fun medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional party photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK sexy nurse costume, bachelorette style. "BRIDE" sash. Giant syringe with pink shots. PLEASER FLAMINGO-808 pink 8-inch platform heels. Party venue. Sensual party pose. Expression: party nurse. Bachelorette nurse. Seductive glamour photography, party lighting, fun medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 56: 45. Duo - Halloween Nurses
@@ -319,19 +319,19 @@ Professional Halloween duo photography. HELENA: Sacha Massacre look, sexy zombie
 ### Prompt 55: 46. Helena - Victorian Asylum Patient
 
 ```text
-Professional horror photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild institutional. Pale porcelain white skin. Full glossy red lips. Wearing WHITE Victorian patient gown. Looking through bars. PLEASER MOON-708 black 7-inch heels visible beneath gown. Victorian asylum cell. Sensual trapped pose. Expression: am I mad or are you. Asylum patient. Seductive glamour photography, horror lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild institutional. Pale porcelain white skin. Full glossy red lips. Wearing WHITE Victorian patient gown. Looking through bars. PLEASER MOON-708 black 7-inch heels visible beneath gown. Victorian asylum cell. Sensual trapped pose. Expression: am I mad or are you. Asylum patient. Seductive glamour photography, horror lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 54: 47. Miss Doll - Hospital Gown Glam
 
 ```text
-Professional ironic photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes perfect, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing hospital gown but styled fashionably, tied at back showing skin. IV pole as prop (empty). PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed. Sensual glamorous patient pose. Expression: still fabulous. Gown glam. Seductive glamour photography, hospital lighting, ironic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ironic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes perfect, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing hospital gown but styled fashionably, tied at back showing skin. IV pole as prop (empty). PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital bed. Sensual glamorous patient pose. Expression: still fabulous. Gown glam. Seductive glamour photography, hospital lighting, ironic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 53: 48. Helena - Dark Witch Doctor
 
 ```text
-Professional mystical medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with bones. Pale porcelain white skin with ritual marks. Full glossy black lips. Wearing BLACK tribal witch doctor outfit, skull accessories. Holding mystical cure. PLEASER RAPTURE-1020 black 8-inch boots with bones. Swamp hut. Sensual mystical pose. Expression: ancient cure. Witch doctor. Seductive glamour photography, firelight, mystical medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mystical medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with bones. Pale porcelain white skin with ritual marks. Full glossy black lips. Wearing BLACK tribal witch doctor outfit, skull accessories. Holding mystical cure. PLEASER RAPTURE-1020 black 8-inch boots with bones. Swamp hut. Sensual mystical pose. Expression: ancient cure. Witch doctor. Seductive glamour photography, firelight, mystical medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 52: 49. Duo - Spa Treatment
@@ -343,200 +343,200 @@ Professional wellness duo photography. HELENA as esthetician: Sacha Massacre loo
 ### Prompt 51: 50. Helena - Anatomical Heart
 
 ```text
-Professional artistic photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips. Wearing WHITE lab coat over BLACK lingerie. Holding anatomical heart model. Artistic blood on hands. PLEASER RAPTURE-1020 black 8-inch boots. Dark anatomy lab. Sensual artistic pose. Expression: my heart is yours. Anatomical art. Seductive glamour photography, dramatic lighting, artistic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional artistic photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips. Wearing WHITE lab coat over BLACK lingerie. Holding anatomical heart model. Artistic blood on hands. PLEASER RAPTURE-1020 black 8-inch boots. Dark anatomy lab. Sensual artistic pose. Expression: my heart is yours. Anatomical art. Seductive glamour photography, dramatic lighting, artistic medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 💉 V. HELENA — DARK MEDICAL SENSUAL (15 PROMPTS)
+## ðŸ’‰ V. HELENA â€” DARK MEDICAL SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Latex Nurse Night Shift
 
 ```text
-Professional night shift photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in messy bun from long shift. Pale porcelain white skin glowing under fluorescent. Full glossy wine red lips exhausted but seductive. Wearing BLACK LATEX nurse uniform extremely short, white trim. Stethoscope dangling between breasts. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots. Empty hospital corridor at 3am. Sensual tired pose against wall. Expression: need a break. Latex night nurse. Seductive glamour photography, fluorescent and shadow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional night shift photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy bun from long shift. Pale porcelain white skin glowing under fluorescent. Full glossy wine red lips exhausted but seductive. Wearing BLACK LATEX nurse uniform extremely short, white trim. Stethoscope dangling between breasts. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots. Empty hospital corridor at 3am. Sensual tired pose against wall. Expression: need a break. Latex night nurse. Seductive glamour photography, fluorescent and shadow lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Helena - Surgeon Post-Op Shower
 
 ```text
-Professional locker room photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet from shower. Pale porcelain white skin steaming. Full glossy nude lips natural. Wearing only WHITE towel barely wrapped, surgical cap still on. Leaning against locker post-surgery. PLEASER RAPTURE-1020 black 8-inch boots at locker base. Surgical locker room with steam. Sensual post-shower pose. Expression: successful operation. Surgeon shower. Seductive glamour photography, steam and locker lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional locker room photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet from shower. Pale porcelain white skin steaming. Full glossy nude lips natural. Wearing only WHITE towel barely wrapped, surgical cap still on. Leaning against locker post-surgery. PLEASER RAPTURE-1020 black 8-inch boots at locker base. Surgical locker room with steam. Sensual post-shower pose. Expression: successful operation. Surgeon shower. Seductive glamour photography, steam and locker lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Dominatrix Proctologist
 
 ```text
-Professional fetish medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair severe ponytail. Pale porcelain white skin clinical. Full glossy black lips smirking. Wearing BLACK latex doctor coat over lingerie, long black latex gloves elbow length. Holding examination instruments suggestively. PLEASER RAPTURE-1020 black 8-inch boots. Dark exam room. Sensual intimidating pose. Expression: bend over. Dark doctor. Seductive glamour photography, clinical dramatic lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair severe ponytail. Pale porcelain white skin clinical. Full glossy black lips smirking. Wearing BLACK latex doctor coat over lingerie, long black latex gloves elbow length. Holding examination instruments suggestively. PLEASER RAPTURE-1020 black 8-inch boots. Dark exam room. Sensual intimidating pose. Expression: bend over. Dark doctor. Seductive glamour photography, clinical dramatic lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Helena - Blood Draw Seduction
 
 ```text
-Professional phlebotomy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin clinical glow. Full glossy blood red lips matching blood vials. Wearing BLACK scrub top very tight, cleavage visible. Holding blood vials like jewelry. Tourniquet around own arm artistic. PLEASER MOON-708 black 7-inch heels. Blood draw station. Sensual blood pose. Expression: I need your blood. Blood draw. Seductive glamour photography, clinical red lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional phlebotomy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin clinical glow. Full glossy blood red lips matching blood vials. Wearing BLACK scrub top very tight, cleavage visible. Holding blood vials like jewelry. Tourniquet around own arm artistic. PLEASER MOON-708 black 7-inch heels. Blood draw station. Sensual blood pose. Expression: I need your blood. Blood draw. Seductive glamour photography, clinical red lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Asylum Electroshock
 
 ```text
-Professional horror medical photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with static. Pale porcelain white skin with electrode marks. Full glossy purple lips. Wearing WHITE asylum gown torn and revealing. Electrodes on temples. Strapped to table but breaking free. PLEASER RAPTURE-1020 black 8-inch boots. 1950s asylum electroshock room. Sensual horror pose. Expression: the shock awakened me. Electroshock. Seductive glamour photography, electrical spark lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror medical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with static. Pale porcelain white skin with electrode marks. Full glossy purple lips. Wearing WHITE asylum gown torn and revealing. Electrodes on temples. Strapped to table but breaking free. PLEASER RAPTURE-1020 black 8-inch boots. 1950s asylum electroshock room. Sensual horror pose. Expression: the shock awakened me. Electroshock. Seductive glamour photography, electrical spark lighting, medical horror aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Helena - Morgue Attendant
 
 ```text
-Professional morgue photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in professional style. Pale porcelain white skin matching morgue palette. Full glossy pale wine lips. Wearing BLACK medical scrubs and apron. Unzipping body bag (empty, artistic). Cold storage drawers behind. PLEASER MOON-708 black 7-inch heels. Hospital morgue. Sensual mortuary pose. Expression: cold storage vacancy. Morgue attendant. Seductive glamour photography, cold clinical lighting, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morgue photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in professional style. Pale porcelain white skin matching morgue palette. Full glossy pale wine lips. Wearing BLACK medical scrubs and apron. Unzipping body bag (empty, artistic). Cold storage drawers behind. PLEASER MOON-708 black 7-inch heels. Hospital morgue. Sensual mortuary pose. Expression: cold storage vacancy. Morgue attendant. Seductive glamour photography, cold clinical lighting, medical dark aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Naughty Gynecologist
 
 ```text
-Professional exam photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in doctor updo. Pale porcelain white skin professional. Full glossy red lips. Wearing BLACK lab coat very short, lingerie visible underneath. Sitting on gynecologist chair backwards like throne. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots on stirrups. Exam room. Sensual doctor pose. Expression: open wide. Dark gynecologist. Seductive glamour photography, clinical intimate lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in doctor updo. Pale porcelain white skin professional. Full glossy red lips. Wearing BLACK lab coat very short, lingerie visible underneath. Sitting on gynecologist chair backwards like throne. Black latex gloves. PLEASER RAPTURE-1020 black 8-inch boots on stirrups. Exam room. Sensual doctor pose. Expression: open wide. Dark gynecologist. Seductive glamour photography, clinical intimate lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Helena - Intensive Care Nurse
 
 ```text
-Professional ICU photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under surgical cap with strands escaping. Pale porcelain white skin monitor glow. Full glossy wine lips. Wearing BLACK scrubs tight fit. Checking IV drip seductively. Multiple monitors beeping around. PLEASER MOON-708 black 7-inch heels. ICU unit at night. Sensual caring pose. Expression: I'll watch over you. ICU nurse. Seductive glamour photography, monitor glow lighting, medical drama aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ICU photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under surgical cap with strands escaping. Pale porcelain white skin monitor glow. Full glossy wine lips. Wearing BLACK scrubs tight fit. Checking IV drip seductively. Multiple monitors beeping around. PLEASER MOON-708 black 7-inch heels. ICU unit at night. Sensual caring pose. Expression: I'll watch over you. ICU nurse. Seductive glamour photography, monitor glow lighting, medical drama aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - Medical Corset Fitting
 
 ```text
-Professional fitting photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose and wild. Pale porcelain white skin being measured. Full glossy red lips gasping. Wearing BLACK medical corset being tightened by unseen hands. Measuring tape around waist showing extreme reduction. PLEASER RAPTURE-1020 black 8-inch boots. Victorian medical office. Sensual tightening pose. Expression: tighter. Corset fitting. Seductive glamour photography, Victorian medical lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fitting photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose and wild. Pale porcelain white skin being measured. Full glossy red lips gasping. Wearing BLACK medical corset being tightened by unseen hands. Measuring tape around waist showing extreme reduction. PLEASER RAPTURE-1020 black 8-inch boots. Victorian medical office. Sensual tightening pose. Expression: tighter. Corset fitting. Seductive glamour photography, Victorian medical lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Helena - Hospital Gown Tease
 
 ```text
-Professional patient photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair on hospital pillow. Pale porcelain white skin against white sheets. Full glossy nude lips. Wearing BLACK hospital gown (unusual custom) very short, open back visible as she turns. Looking over shoulder at viewer. PLEASER RAPTURE-1020 black 8-inch boots dangling off bed. Hospital room. Sensual patient pose. Expression: visiting hours. Gown tease. Seductive glamour photography, hospital ambient lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional patient photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair on hospital pillow. Pale porcelain white skin against white sheets. Full glossy nude lips. Wearing BLACK hospital gown (unusual custom) very short, open back visible as she turns. Looking over shoulder at viewer. PLEASER RAPTURE-1020 black 8-inch boots dangling off bed. Hospital room. Sensual patient pose. Expression: visiting hours. Gown tease. Seductive glamour photography, hospital ambient lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Nurse Injection Fantasy
 
 ```text
-Professional injection photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional waves. Pale porcelain white skin clinical. Full glossy blood red lips anticipation. Wearing BLACK latex nurse outfit very short. Holding oversized syringe with purple liquid. Approaching camera/viewer. PLEASER RAPTURE-1020 black 8-inch boots. Dark treatment room. Sensual injection pose. Expression: this will only hurt a little. Injection fantasy. Seductive glamour photography, clinical purple lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional injection photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair professional waves. Pale porcelain white skin clinical. Full glossy blood red lips anticipation. Wearing BLACK latex nurse outfit very short. Holding oversized syringe with purple liquid. Approaching camera/viewer. PLEASER RAPTURE-1020 black 8-inch boots. Dark treatment room. Sensual injection pose. Expression: this will only hurt a little. Injection fantasy. Seductive glamour photography, clinical purple lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Helena - Dark Anesthesiologist
 
 ```text
-Professional OR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under surgical cap. Pale porcelain white skin above surgical mask pulled down. Full glossy wine lips. Wearing BLACK surgical gown. Holding anesthesia mask toward camera. Count backwards from 10. PLEASER RAPTURE-1020 black 8-inch boots. Operating room. Sensual anesthesia pose. Expression: sweet dreams. Anesthesiologist. Seductive glamour photography, OR spotlight lighting, medical thriller aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional OR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under surgical cap. Pale porcelain white skin above surgical mask pulled down. Full glossy wine lips. Wearing BLACK surgical gown. Holding anesthesia mask toward camera. Count backwards from 10. PLEASER RAPTURE-1020 black 8-inch boots. Operating room. Sensual anesthesia pose. Expression: sweet dreams. Anesthesiologist. Seductive glamour photography, OR spotlight lighting, medical thriller aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Spinal Tap Dominance
 
 ```text
-Professional procedure photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in strict style. Pale porcelain white skin cold. Full glossy black lips serious. Wearing BLACK medical outfit. Holding spinal needle professionally. Patient position implied (not shown). PLEASER MOON-708 black 7-inch heels. Procedure room. Sensual medical authority pose. Expression: don't move. Spinal tap. Seductive glamour photography, procedure lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional procedure photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in strict style. Pale porcelain white skin cold. Full glossy black lips serious. Wearing BLACK medical outfit. Holding spinal needle professionally. Patient position implied (not shown). PLEASER MOON-708 black 7-inch heels. Procedure room. Sensual medical authority pose. Expression: don't move. Spinal tap. Seductive glamour photography, procedure lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Helena - Nurse Locker Undress
 
 ```text
-Professional locker room photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose after shift. Pale porcelain white skin tired glow. Full glossy red lips end of day. Wearing BLACK scrubs being removed, revealing black lingerie underneath. At open locker with personal items. PLEASER RAPTURE-1020 black 8-inch boots still on. Nurse locker room. Sensual undressing pose. Expression: finally off duty. Locker undress. Seductive glamour photography, locker room lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional locker room photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose after shift. Pale porcelain white skin tired glow. Full glossy red lips end of day. Wearing BLACK scrubs being removed, revealing black lingerie underneath. At open locker with personal items. PLEASER RAPTURE-1020 black 8-inch boots still on. Nurse locker room. Sensual undressing pose. Expression: finally off duty. Locker undress. Seductive glamour photography, locker room lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Medical Bondage Table
 
 ```text
-Professional restraint photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair spread on medical table. Pale porcelain white skin against leather straps. Full glossy wine lips parted. Wearing BLACK latex medical bodysuit. Strapped to vintage medical examination table with leather restraints. PLEASER RAPTURE-1020 black 8-inch boots strapped separately. Dark medical dungeon. Sensual restrained pose. Expression: medical treatment. Bondage table. Seductive glamour photography, clinical BDSM lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional restraint photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on medical table. Pale porcelain white skin against leather straps. Full glossy wine lips parted. Wearing BLACK latex medical bodysuit. Strapped to vintage medical examination table with leather restraints. PLEASER RAPTURE-1020 black 8-inch boots strapped separately. Dark medical dungeon. Sensual restrained pose. Expression: medical treatment. Bondage table. Seductive glamour photography, clinical BDSM lighting, medical fetish aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 💖 VI. MISS DOLL — PINK MEDICAL SENSUAL (15 PROMPTS)
+## ðŸ’– VI. MISS DOLL â€” PINK MEDICAL SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Pink Latex ICU Nurse
 
 ```text
-Professional ICU photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin monitor glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX ICU nurse uniform very short. Checking patient vitals seductively. Pink stethoscope. PLEASER FLAMINGO-808 white 8-inch platform heels. ICU unit. Sensual bedside manner pose. Expression: I'll make you feel better. Pink ICU. Seductive glamour photography, monitor and medical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ICU photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin monitor glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX ICU nurse uniform very short. Checking patient vitals seductively. Pink stethoscope. PLEASER FLAMINGO-808 white 8-inch platform heels. ICU unit. Sensual bedside manner pose. Expression: I'll make you feel better. Pink ICU. Seductive glamour photography, monitor and medical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Miss Doll - Naughty Physical Exam
 
 ```text
-Professional exam photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK doctor coat very short, stethoscope placed suggestively. Sitting on exam table instead of doctor chair. Pink latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Examination room. Sensual waiting pose. Expression: ready for your exam. Physical exam. Seductive glamour photography, clinical warm lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK doctor coat very short, stethoscope placed suggestively. Sitting on exam table instead of doctor chair. Pink latex gloves. PLEASER FLAMINGO-808 pink 8-inch platform heels. Examination room. Sensual waiting pose. Expression: ready for your exam. Physical exam. Seductive glamour photography, clinical warm lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Miss Doll - Sponge Bath Nurse
 
 ```text
-Professional care photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin wet from splashing. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse outfit getting wet and transparent. Holding sponge and basin. Water dripping. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. Hospital bathroom. Sensual bathing pose. Expression: let me clean you. Sponge bath. Seductive glamour photography, wet bathroom lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional care photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin wet from splashing. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse outfit getting wet and transparent. Holding sponge and basin. Water dripping. PLEASER FLAMINGO-808 pink 8-inch platform heels wet. Hospital bathroom. Sensual bathing pose. Expression: let me clean you. Sponge bath. Seductive glamour photography, wet bathroom lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Miss Doll - Candy Nurse Prescription
 
 ```text
-Professional pharmacy photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pharmacy coat very short. Holding giant lollipop like medicine. Surrounded by pink pills and candy. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink pharmacy. Sensual candy pose. Expression: sugar makes medicine go down. Candy nurse. Seductive glamour photography, sweet pink lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pharmacy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin sweet. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK pharmacy coat very short. Holding giant lollipop like medicine. Surrounded by pink pills and candy. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink pharmacy. Sensual candy pose. Expression: sugar makes medicine go down. Candy nurse. Seductive glamour photography, sweet pink lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - MRI Technician
 
 ```text
-Professional imaging photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin tech room glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK scrub dress very short. Leaning over MRI control panel seductively. MRI machine visible through window. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology suite. Sensual technician pose. Expression: lie still for me. MRI tech. Seductive glamour photography, tech and medical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional imaging photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin tech room glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK scrub dress very short. Leaning over MRI control panel seductively. MRI machine visible through window. PLEASER FLAMINGO-808 white 8-inch platform heels. Radiology suite. Sensual technician pose. Expression: lie still for me. MRI tech. Seductive glamour photography, tech and medical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Miss Doll - Pink Surgical Mask Model
 
 ```text
-Professional mask photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin above PINK surgical mask being pulled down. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips being revealed. Human realistic face. Wearing PINK surgical gown. Mask coming off seductively. PLEASER FLAMINGO-808 pink 8-inch platform heels. OR prep room. Sensual mask reveal pose. Expression: the reveal. Surgical mask. Seductive glamour photography, surgical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mask photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin above PINK surgical mask being pulled down. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes visible, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips being revealed. Human realistic face. Wearing PINK surgical gown. Mask coming off seductively. PLEASER FLAMINGO-808 pink 8-inch platform heels. OR prep room. Sensual mask reveal pose. Expression: the reveal. Surgical mask. Seductive glamour photography, surgical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Miss Doll - Fertility Clinic
 
 ```text
-Professional clinic photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin fertility goddess glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural tones, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK medical dress reproductive specialist. Holding anatomical model suggestively. PLEASER FLAMINGO-808 nude 8-inch platform heels. Fertility clinic. Sensual specialist pose. Expression: I can help with that. Fertility clinic. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional clinic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin fertility goddess glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural tones, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK medical dress reproductive specialist. Holding anatomical model suggestively. PLEASER FLAMINGO-808 nude 8-inch platform heels. Fertility clinic. Sensual specialist pose. Expression: I can help with that. Fertility clinic. Seductive glamour photography, warm clinical lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Miss Doll - Nurse Break Room
 
 ```text
-Professional break photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin tired glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes softened, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK scrubs slightly disheveled. Eating donut with coffee. Feet up on break room table. PLEASER FLAMINGO-808 pink 8-inch platform heels prominent. Hospital break room. Sensual relaxed pose. Expression: fifteen minute break. Break room. Seductive glamour photography, fluorescent break room lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional break photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin tired glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes softened, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK scrubs slightly disheveled. Eating donut with coffee. Feet up on break room table. PLEASER FLAMINGO-808 pink 8-inch platform heels prominent. Hospital break room. Sensual relaxed pose. Expression: fifteen minute break. Break room. Seductive glamour photography, fluorescent break room lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Miss Doll - Weight Check Tease
 
 ```text
-Professional exam photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin healthy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse outfit. Standing on scale playfully. Holding clipboard with results. PLEASER FLAMINGO-808 pink 8-inch platform heels on scale. Exam room. Sensual weigh-in pose. Expression: perfect measurements. Weight check. Seductive glamour photography, clinical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exam photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin healthy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse outfit. Standing on scale playfully. Holding clipboard with results. PLEASER FLAMINGO-808 pink 8-inch platform heels on scale. Exam room. Sensual weigh-in pose. Expression: perfect measurements. Weight check. Seductive glamour photography, clinical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Miss Doll - Recovery Room Angel
 
 ```text
-Professional recovery photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK recovery nurse outfit. Leaning over patient (not shown) adjusting IV. Backlit like angel. PLEASER FLAMINGO-808 white 8-inch platform heels. Recovery room. Sensual caregiver pose. Expression: you're going to be fine. Recovery angel. Seductive glamour photography, soft recovery lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional recovery photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK recovery nurse outfit. Leaning over patient (not shown) adjusting IV. Backlit like angel. PLEASER FLAMINGO-808 white 8-inch platform heels. Recovery room. Sensual caregiver pose. Expression: you're going to be fine. Recovery angel. Seductive glamour photography, soft recovery lighting, medical fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Miss Doll - Medical Receptionist
 
 ```text
-Professional reception photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin professional. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK medical office blouse. Leaning over reception desk cleavage visible. Appointment book and phone. PLEASER FLAMINGO-808 pink 8-inch platform heels visible under desk. Medical office reception. Sensual receptionist pose. Expression: the doctor will see you now. Receptionist. Seductive glamour photography, office lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reception photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin professional. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK medical office blouse. Leaning over reception desk cleavage visible. Appointment book and phone. PLEASER FLAMINGO-808 pink 8-inch platform heels visible under desk. Medical office reception. Sensual receptionist pose. Expression: the doctor will see you now. Receptionist. Seductive glamour photography, office lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Miss Doll - Pink Cast Application
 
 ```text
-Professional orthopedic photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK orthopedic tech outfit. Applying PINK cast to patient arm (partial view). Pink gloves with casting material. PLEASER FLAMINGO-808 pink 8-inch platform heels. Orthopedic room. Sensual cast pose. Expression: sign it when it dries. Cast application. Seductive glamour photography, clinical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional orthopedic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK orthopedic tech outfit. Applying PINK cast to patient arm (partial view). Pink gloves with casting material. PLEASER FLAMINGO-808 pink 8-inch platform heels. Orthopedic room. Sensual cast pose. Expression: sign it when it dries. Cast application. Seductive glamour photography, clinical lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Miss Doll - Dental Hygienist Sparkle
 
 ```text
-Professional dental photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips perfect smile. Human realistic face. Wearing PINK dental scrubs very tight. Holding dental tools playfully. Leaning over dental chair toward camera. PLEASER FLAMINGO-808 pink 8-inch platform heels. Dental office. Sensual hygienist pose. Expression: open wide and say ahh. Dental hygienist. Seductive glamour photography, dental lamp lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dental photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin clinical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips perfect smile. Human realistic face. Wearing PINK dental scrubs very tight. Holding dental tools playfully. Leaning over dental chair toward camera. PLEASER FLAMINGO-808 pink 8-inch platform heels. Dental office. Sensual hygienist pose. Expression: open wide and say ahh. Dental hygienist. Seductive glamour photography, dental lamp lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Miss Doll - IV Drip Tender
 
 ```text
-Professional IV photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin caring. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse top. Adjusting IV drip with pink liquid. IV stand beside. Tender bedside manner. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room. Sensual IV adjustment pose. Expression: this will help. IV nurse. Seductive glamour photography, soft room lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional IV photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin caring. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nurse top. Adjusting IV drip with pink liquid. IV stand beside. Tender bedside manner. PLEASER FLAMINGO-808 pink 8-inch platform heels. Hospital room. Sensual IV adjustment pose. Expression: this will help. IV nurse. Seductive glamour photography, soft room lighting, medical aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Miss Doll - Pink Ambulance EMT
 
 ```text
-Professional emergency photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin emergency glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK custom EMT uniform tight fit. Jumping from back of PINK ambulance. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels on ambulance step. Emergency scene. Sensual EMT action pose. Expression: help is here. Pink EMT. Seductive glamour photography, emergency lights pink, medical action aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional emergency photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin emergency glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK custom EMT uniform tight fit. Jumping from back of PINK ambulance. Medical bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels on ambulance step. Emergency scene. Sensual EMT action pose. Expression: help is here. Pink EMT. Seductive glamour photography, emergency lights pink, medical action aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 👯 VII. DUO — MEDICAL SENSUAL (20 PROMPTS)
+## ðŸ‘¯ VII. DUO â€” MEDICAL SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Doctor Patient Roleplay
 
@@ -660,10 +660,12 @@ Professional wedding duo photography. HELENA: Sacha Massacre look in BLACK medic
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V25 Medical & Nurse Edition — 100 prompts*
+*Creado por: Helena de AnaÃ¯s ðŸ¦‡*
+*V25 Medical & Nurse Edition â€” 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM aplicado*
+*ðŸŽ¨ COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
 *Actualizado: 2026-01-09*
+
+

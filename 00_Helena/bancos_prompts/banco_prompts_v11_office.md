@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -26,7 +26,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -158,91 +158,91 @@ Professional entrance photography of aristocratic woman with honey blonde hair p
 ### Prompt 135: 16. Helena - HR Orientation
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in professional half-updo. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black corset visible under black blazer. Black pencil skirt. PLEASER MOON-708 black patent 7-inch stiletto heel. Presenting orientation materials to new hires (implied). Sensual pose with arched back, bedroom eyes. Expression: welcome to your new life. Dark corporate HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in professional half-updo. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black corset visible under black blazer. Black pencil skirt. PLEASER MOON-708 black patent 7-inch stiletto heel. Presenting orientation materials to new hires (implied). Sensual pose with arched back, bedroom eyes. Expression: welcome to your new life. Dark corporate HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 134: 17. Helena - Disciplinary Meeting
 
 ```text
-Professional discipline photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in severe bun. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in hard line. Feminine hourglass silhouette. Wearing black structured corset under grey blazer. Black pants. PLEASER MOON-708 black 7-inch heel. Folder labeled VIOLATION open, looking across desk sternly. Sensual pose with arched back, bedroom eyes. Expression: this is your third warning. Dark HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional discipline photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in severe bun. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in hard line. Feminine hourglass silhouette. Wearing black structured corset under grey blazer. Black pants. PLEASER MOON-708 black 7-inch heel. Folder labeled VIOLATION open, looking across desk sternly. Sensual pose with arched back, bedroom eyes. Expression: this is your third warning. Dark HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 133: 18. Helena - Exit Interview
 
 ```text
-Professional exit photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark purple lips with cold smile. Feminine hourglass silhouette. Wearing black corset. Black professional dress. PLEASER MOON-708 black 7-inch heel. Handing final paycheck across desk. Sensual pose with arched back, bedroom eyes. Expression: we wish you the best elsewhere. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exit photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark purple lips with cold smile. Feminine hourglass silhouette. Wearing black corset. Black professional dress. PLEASER MOON-708 black 7-inch heel. Handing final paycheck across desk. Sensual pose with arched back, bedroom eyes. Expression: we wish you the best elsewhere. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 132: 19. Helena - Benefits Explanation
 
 ```text
-Professional benefits photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips. Feminine hourglass silhouette. Wearing black underbust corset over white blouse. Black skirt. PLEASER MOON-708 black 7-inch heel. Pointing at benefits chart with pen, explaining. Sensual pose with arched back, bedroom eyes. Expression: your coverage begins immediately. HR consultation room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional benefits photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips. Feminine hourglass silhouette. Wearing black underbust corset over white blouse. Black skirt. PLEASER MOON-708 black 7-inch heel. Pointing at benefits chart with pen, explaining. Sensual pose with arched back, bedroom eyes. Expression: your coverage begins immediately. HR consultation room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 131: 20. Helena - Filing Cabinet
 
 ```text
-Professional filing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black high-waisted pants. PLEASER MOON-708 black 7-inch heel. Retrieving folder from tall filing cabinet, reaching up. Sensual pose with arched back, bedroom eyes. Expression: finding your file. Gothic organized office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional filing photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black high-waisted pants. PLEASER MOON-708 black 7-inch heel. Retrieving folder from tall filing cabinet, reaching up. Sensual pose with arched back, bedroom eyes. Expression: finding your file. Gothic organized office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 130: 21. Helena - Policy Update
 
 ```text
-Professional policy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark red lips. Feminine hourglass silhouette. Wearing black structured corset under burgundy blazer. Black pants. PLEASER MOON-708 burgundy 7-inch heel. Posting new dress code policy on board with pushpin. Sensual pose with arched back, bedroom eyes. Expression: comply or face consequences. HR bulletin area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional policy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark red lips. Feminine hourglass silhouette. Wearing black structured corset under burgundy blazer. Black pants. PLEASER MOON-708 burgundy 7-inch heel. Posting new dress code policy on board with pushpin. Sensual pose with arched back, bedroom eyes. Expression: comply or face consequences. HR bulletin area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 129: 22. Helena - Reference Check
 
 ```text
-Professional phone photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips speaking into phone. Feminine hourglass silhouette. Wearing black corset under grey cardigan. Black skirt. PLEASER MOON-708 black 7-inch heel. Holding phone, taking notes on pad. Sensual pose with arched back, bedroom eyes. Expression: I see, interesting history. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional phone photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips speaking into phone. Feminine hourglass silhouette. Wearing black corset under grey cardigan. Black skirt. PLEASER MOON-708 black 7-inch heel. Holding phone, taking notes on pad. Sensual pose with arched back, bedroom eyes. Expression: I see, interesting history. HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 128: 23. Helena - Training Session
 
 ```text
-Professional training photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing black corset visible under black blouse. Black pencil skirt. PLEASER MOON-708 black 7-inch heel. Standing at whiteboard with markers, teaching compliance. Sensual pose with arched back, bedroom eyes. Expression: pay attention. Corporate training room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional training photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing black corset visible under black blouse. Black pencil skirt. PLEASER MOON-708 black 7-inch heel. Standing at whiteboard with markers, teaching compliance. Sensual pose with arched back, bedroom eyes. Expression: pay attention. Corporate training room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 127: 24. Helena - Complaint Form
 
 ```text
-Professional complaint photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black corset under professional jacket. Black pants. PLEASER MOON-708 black 7-inch heel. Sliding complaint form across desk, offering pen. Sensual pose with arched back, bedroom eyes. Expression: tell me everything. HR confidential office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional complaint photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black corset under professional jacket. Black pants. PLEASER MOON-708 black 7-inch heel. Sliding complaint form across desk, offering pen. Sensual pose with arched back, bedroom eyes. Expression: tell me everything. HR confidential office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 126: 25. Helena - Badge Confiscation
 
 ```text
-Professional termination photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair severe. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips emotionless. Feminine hourglass silhouette. Wearing black structured corset under black blazer. Black skirt. PLEASER MOON-708 black 7-inch heel. Palm extended, waiting for employee badge to be surrendered. Sensual pose with arched back, bedroom eyes. Expression: your badge please. HR office door. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional termination photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair severe. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips emotionless. Feminine hourglass silhouette. Wearing black structured corset under black blazer. Black skirt. PLEASER MOON-708 black 7-inch heel. Palm extended, waiting for employee badge to be surrendered. Sensual pose with arched back, bedroom eyes. Expression: your badge please. HR office door. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 125: 26. Helena - Contract Review
 
 ```text
-Professional legal photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in elegant twist. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black corset under white silk blouse. Black pants. PLEASER MOON-708 black 7-inch heel. Red pen in hand, marking up employment contract. Sensual pose with arched back, bedroom eyes. Expression: this clause changes. HR legal office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional legal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in elegant twist. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black corset under white silk blouse. Black pants. PLEASER MOON-708 black 7-inch heel. Red pen in hand, marking up employment contract. Sensual pose with arched back, bedroom eyes. Expression: this clause changes. HR legal office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 124: 27. Helena - Security Walk
 
 ```text
-Professional escort photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black professional dress. PLEASER MOON-708 black 7-inch heel. Walking beside security guard (implied), escorting someone out. Sensual pose with arched back, bedroom eyes. Expression: this way. Corporate hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional escort photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black professional dress. PLEASER MOON-708 black 7-inch heel. Walking beside security guard (implied), escorting someone out. Sensual pose with arched back, bedroom eyes. Expression: this way. Corporate hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 123: 28. Helena - Coffee Break
 
 ```text
-Professional break photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair looser. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips in slight smile. Feminine hourglass silhouette. Wearing black corset under grey cardigan unbuttoned. Black pants. PLEASER MOON-708 black 7-inch heel. Holding black coffee mug shaped like skull, reading phone. Sensual pose with arched back, bedroom eyes. Expression: rare relaxation. Break room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional break photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair looser. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips in slight smile. Feminine hourglass silhouette. Wearing black corset under grey cardigan unbuttoned. Black pants. PLEASER MOON-708 black 7-inch heel. Holding black coffee mug shaped like skull, reading phone. Sensual pose with arched back, bedroom eyes. Expression: rare relaxation. Break room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 122: 29. Helena - Handbook Update
 
 ```text
-Professional documentation photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips focused. Feminine hourglass silhouette. Wearing black corset visible under professional top. Black skirt. PLEASER MOON-708 black 7-inch heel. Typing on keyboard with black nails, updating employee handbook. Sensual pose with arched back, bedroom eyes. Expression: new rules. Dim HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional documentation photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips focused. Feminine hourglass silhouette. Wearing black corset visible under professional top. Black skirt. PLEASER MOON-708 black 7-inch heel. Typing on keyboard with black nails, updating employee handbook. Sensual pose with arched back, bedroom eyes. Expression: new rules. Dim HR office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 121: 30. Helena - End of Day
 
 ```text
-Professional overtime photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair let down from earlier style. Pale porcelain white skin with slight fatigue. Full glossy dark lips. Feminine hourglass silhouette. Wearing black corset loosened. Blazer on chair. PLEASER MOON-708 heels beside desk. Final folder closed, standing to leave. Sensual pose with arched back, bedroom eyes. Expression: HR never sleeps. Dark office, night outside. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional overtime photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair let down from earlier style. Pale porcelain white skin with slight fatigue. Full glossy dark lips. Feminine hourglass silhouette. Wearing black corset loosened. Blazer on chair. PLEASER MOON-708 heels beside desk. Final folder closed, standing to leave. Sensual pose with arched back, bedroom eyes. Expression: HR never sleeps. Dark office, night outside. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -385,91 +385,91 @@ Professional after-hours photography. ANAÏS: honey blonde down, burgundy corset
 ### Prompt 100: 51. Helena - Emerald HR Power
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN corset under emerald blazer. Black pants. PLEASER MOON-708 emerald 7-inch heel. Holding green folder marked confidential. Sensual pose with arched back, bedroom eyes. Expression: forest witch HR. Dark corporate office with plants. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair professional. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN corset under emerald blazer. Black pants. PLEASER MOON-708 emerald 7-inch heel. Holding green folder marked confidential. Sensual pose with arched back, bedroom eyes. Expression: forest witch HR. Dark corporate office with plants. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 52. Helena - Sapphire HR Authority
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair in bun. Pale porcelain white skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE corset under navy blazer. Blue pencil skirt. PLEASER MOON-708 sapphire 7-inch heel. Seated at desk reviewing contract. Sensual pose with arched back, bedroom eyes. Expression: ice queen HR. Blue-accented modern office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair in bun. Pale porcelain white skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE corset under navy blazer. Blue pencil skirt. PLEASER MOON-708 sapphire 7-inch heel. Seated at desk reviewing contract. Sensual pose with arched back, bedroom eyes. Expression: ice queen HR. Blue-accented modern office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 53. Helena - Rose Gold HR Romance
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black wavy hair. Pale porcelain white skin. Dark rose glossy lips. Wearing ROSE GOLD metallic corset under blush blazer. Black pants. PLEASER MOON-708 rose gold 7-inch heel. Signing new hire paperwork. Sensual pose with arched back, bedroom eyes. Expression: welcome to the company. Warm modern office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black wavy hair. Pale porcelain white skin. Dark rose glossy lips. Wearing ROSE GOLD metallic corset under blush blazer. Black pants. PLEASER MOON-708 rose gold 7-inch heel. Signing new hire paperwork. Sensual pose with arched back, bedroom eyes. Expression: welcome to the company. Warm modern office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 54. Helena - Silver Chrome HR
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair. Pale porcelain white skin. Silver metallic lips. Wearing STERLING SILVER corset under grey blazer. Grey pants. PLEASER MOON-708 silver 7-inch heel. Video conferencing on laptop. Sensual pose with arched back, bedroom eyes. Expression: digital authority. Tech company office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Slicked black hair. Pale porcelain white skin. Silver metallic lips. Wearing STERLING SILVER corset under grey blazer. Grey pants. PLEASER MOON-708 silver 7-inch heel. Video conferencing on laptop. Sensual pose with arched back, bedroom eyes. Expression: digital authority. Tech company office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 55. Helena - Champagne HR Celebration
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with gold highlights. Pale porcelain white skin. Champagne metallic lips. Wearing CHAMPAGNE GOLD corset under gold blazer. Black pants. PLEASER MOON-708 gold 7-inch heel. Handing promotion letter. Sensual pose with arched back, bedroom eyes. Expression: congratulations. Office with champagne. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with gold highlights. Pale porcelain white skin. Champagne metallic lips. Wearing CHAMPAGNE GOLD corset under gold blazer. Black pants. PLEASER MOON-708 gold 7-inch heel. Handing promotion letter. Sensual pose with arched back, bedroom eyes. Expression: congratulations. Office with champagne. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 56. Helena - Copper HR Autumn
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper tones. Pale porcelain white skin. Terracotta glossy lips. Wearing COPPER corset under brown blazer. Brown pants. PLEASER MOON-708 copper 7-inch heel. Annual review meeting. Sensual pose with arched back, bedroom eyes. Expression: harvest season evaluations. Autumn-lit office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with copper tones. Pale porcelain white skin. Terracotta glossy lips. Wearing COPPER corset under brown blazer. Brown pants. PLEASER MOON-708 copper 7-inch heel. Annual review meeting. Sensual pose with arched back, bedroom eyes. Expression: harvest season evaluations. Autumn-lit office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 57. Helena - Teal HR Modern
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Teal glossy lips. Wearing DARK TEAL corset under teal blazer. Black pants. PLEASER MOON-708 teal 7-inch heel. Presenting diversity initiatives. Sensual pose with arched back, bedroom eyes. Expression: inclusive authority. Modern colorful office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Teal glossy lips. Wearing DARK TEAL corset under teal blazer. Black pants. PLEASER MOON-708 teal 7-inch heel. Presenting diversity initiatives. Sensual pose with arched back, bedroom eyes. Expression: inclusive authority. Modern colorful office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 58. Helena - Bronze HR Power
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair elegant. Pale porcelain white skin. Bronze metallic lips. Wearing ANTIQUE BRONZE corset under burgundy blazer. Black pants. PLEASER MOON-708 bronze 7-inch heel. At podium announcing layoffs. Sensual pose with arched back, bedroom eyes. Expression: corporate finality. Conference room. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair elegant. Pale porcelain white skin. Bronze metallic lips. Wearing ANTIQUE BRONZE corset under burgundy blazer. Black pants. PLEASER MOON-708 bronze 7-inch heel. At podium announcing layoffs. Sensual pose with arched back, bedroom eyes. Expression: corporate finality. Conference room. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 59. Helena - White HR Clinical
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair severe. Pale porcelain white skin. Nude-rose lips. Wearing BLACK corset under WHITE blazer pristine. White pants. PLEASER MOON-708 white 7-inch heel. Exit interview being conducted. Sensual pose with arched back, bedroom eyes. Expression: clean termination. Clinical white office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair severe. Pale porcelain white skin. Nude-rose lips. Wearing BLACK corset under WHITE blazer pristine. White pants. PLEASER MOON-708 white 7-inch heel. Exit interview being conducted. Sensual pose with arched back, bedroom eyes. Expression: clean termination. Clinical white office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 60. Helena - Plum HR Elegance
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing PLUM WINE velvet corset under plum blazer. Black pants. PLEASER MOON-708 plum 7-inch heel. Wine reception for new executives. Sensual pose with arched back, bedroom eyes. Expression: corporate sophistication. Executive lounge. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing PLUM WINE velvet corset under plum blazer. Black pants. PLEASER MOON-708 plum 7-inch heel. Wine reception for new executives. Sensual pose with arched back, bedroom eyes. Expression: corporate sophistication. Executive lounge. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 61. Helena - Amethyst HR Mystique
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with subtle purple. Pale porcelain white skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE corset under purple blazer. Black pants. PLEASER MOON-708 purple 7-inch heel. Employee wellness session. Sensual pose with arched back, bedroom eyes. Expression: corporate mystic. Purple-accented office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with subtle purple. Pale porcelain white skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE corset under purple blazer. Black pants. PLEASER MOON-708 purple 7-inch heel. Employee wellness session. Sensual pose with arched back, bedroom eyes. Expression: corporate mystic. Purple-accented office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 62. Helena - Navy HR Captain
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Navy metallic lips. Wearing NAVY BLUE corset under navy suit. Navy pants. PLEASER MOON-708 navy 7-inch heel. Maritime company headquarters. Sensual pose with arched back, bedroom eyes. Expression: nautical authority. Ocean view office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair. Pale porcelain white skin. Navy metallic lips. Wearing NAVY BLUE corset under navy suit. Navy pants. PLEASER MOON-708 navy 7-inch heel. Maritime company headquarters. Sensual pose with arched back, bedroom eyes. Expression: nautical authority. Ocean view office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 63. Helena - Pewter HR Industrial
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin. Pewter grey lips. Wearing PEWTER GREY corset under grey blazer. Grey pants. PLEASER MOON-708 grey 7-inch heel. Factory HR headquarters. Sensual pose with arched back, bedroom eyes. Expression: industrial management. Warehouse office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin. Pewter grey lips. Wearing PEWTER GREY corset under grey blazer. Grey pants. PLEASER MOON-708 grey 7-inch heel. Factory HR headquarters. Sensual pose with arched back, bedroom eyes. Expression: industrial management. Warehouse office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 64. Helena - Burgundy HR Blood
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Blood burgundy glossy lips. Wearing BURGUNDY corset under burgundy power suit. Black pants. PLEASER MOON-708 burgundy 7-inch heel. Disciplinary action meeting. Sensual pose with arched back, bedroom eyes. Expression: blood in the water. Dark wood office. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Blood burgundy glossy lips. Wearing BURGUNDY corset under burgundy power suit. Black pants. PLEASER MOON-708 burgundy 7-inch heel. Disciplinary action meeting. Sensual pose with arched back, bedroom eyes. Expression: blood in the water. Dark wood office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 65. Helena - Blood Orange HR Sunset
 
 ```text
-Professional HR photography of young elegant goth glamour woman inspired by Sacha Massacre. Wild black hair. Pale porcelain white skin. Blood orange metallic lips. Wearing BLOOD ORANGE corset under orange-accent blazer. Black pants. PLEASER MOON-708 orange 7-inch heel. End of day dismissal. Sunset through window. Sensual pose with arched back, bedroom eyes. Expression: sunset terminator. Photorealistic 8k. Vertical portrait orientation.
+Professional HR photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wild black hair. Pale porcelain white skin. Blood orange metallic lips. Wearing BLOOD ORANGE corset under orange-accent blazer. Black pants. PLEASER MOON-708 orange 7-inch heel. End of day dismissal. Sunset through window. Sensual pose with arched back, bedroom eyes. Expression: sunset terminator. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -697,91 +697,91 @@ Professional rainbow meeting photography. ANAÏS: honey blonde, GOLD power suit,
 ### Prompt 50: 101. Helena - 80s Power Goth
 
 ```text
-Professional 80s office photography of young elegant goth glamour woman (Sacha Massacre visual reference). Big voluminous jet black hair 80s style. Pale porcelain skin. Glossy dark purple lips. Wearing BLACK POWER SUIT with giant shoulder pads, leather corset over. Black tights. PLEASER RAPTURE-1020 black 8-inch boots. Holding brick cell phone. Sensual pose with arched back, bedroom eyes. Expression: absolute power. 80s corporate office. Seductive glamour photography, neon noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional 80s office photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Big voluminous jet black hair 80s style. Pale porcelain skin. Glossy dark purple lips. Wearing BLACK POWER SUIT with giant shoulder pads, leather corset over. Black tights. PLEASER RAPTURE-1020 black 8-inch boots. Holding brick cell phone. Sensual pose with arched back, bedroom eyes. Expression: absolute power. 80s corporate office. Seductive glamour photography, neon noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 102. Miss Doll - 60s Mad Men Secretary
 
 ```text
-Professional vintage office photography of glamorous woman with platinum blonde bouffant bob. Flawless porcelain skin. Winged liner 60s style. Full glossy pink lips. Wearing PINK TWEED 60s SUIT with pink corset visible. White gloves. PLEASER FLAMINGO-808 white 8-inch heel. Typing on vintage typewriter. Sensual pose with arched back, bedroom eyes. Expression: vintage efficient. 60s advertising agency. Seductive glamour photography, retro warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vintage office photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bouffant bob. Flawless porcelain skin. Winged liner 60s style. Full glossy pink lips. Wearing PINK TWEED 60s SUIT with pink corset visible. White gloves. PLEASER FLAMINGO-808 white 8-inch heel. Typing on vintage typewriter. Sensual pose with arched back, bedroom eyes. Expression: vintage efficient. 60s advertising agency. Seductive glamour photography, retro warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 103. Helena - Matrix HR
 
 ```text
-Professional sci-fi office photography of young elegant goth glamour woman (Sacha Massacre visual reference). Slicked back wet hair. Pale porcelain skin. Black glossy lips. Wearing BLACK LATEX TRENCH COAT open over black latex corset. Sunglasses (optional). PLEASER RAPTURE-1020 patent 8-inch boots. Green code rain on screens behind. Sensual pose with arched back, bedroom eyes. Expression: blue pill or red pill. Cyberpunk office. Seductive glamour photography, green matrix lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sci-fi office photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Slicked back wet hair. Pale porcelain skin. Black glossy lips. Wearing BLACK LATEX TRENCH COAT open over black latex corset. Sunglasses (optional). PLEASER RAPTURE-1020 patent 8-inch boots. Green code rain on screens behind. Sensual pose with arched back, bedroom eyes. Expression: blue pill or red pill. Cyberpunk office. Seductive glamour photography, green matrix lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 104. Miss Doll - Retro Futurism Receptionist
 
 ```text
-Professional sci-fi photography of glamorous woman with platinum blonde bob, silver antenna headband. Flawless porcelain skin. Silver lipstick. Wearing SILVER METALLIC space age dress with white corset. PLEASER FLAMINGO-808 silver 8-inch heel. Floating holographic reception desk. Sensual pose with arched back, bedroom eyes. Expression: welcome to the year 3000. Spaceship lobby. Seductive glamour photography, clean white sci-fi lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sci-fi photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob, silver antenna headband. Flawless porcelain skin. Silver lipstick. Wearing SILVER METALLIC space age dress with white corset. PLEASER FLAMINGO-808 silver 8-inch heel. Floating holographic reception desk. Sensual pose with arched back, bedroom eyes. Expression: welcome to the year 3000. Spaceship lobby. Seductive glamour photography, clean white sci-fi lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 105. Helena - Noir Detective Agency
 
 ```text
-Professional film noir photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair in retro waves. Pale skin high contrast. Black lips. Wearing BLACK PINSTRIPE SUIT with corset. Fedora hat. PLEASER MOON-708 black 7-inch heel. Smoking (implied) in shadowy office, blinds casting shadows. Sensual pose with arched back, bedroom eyes. Expression: dangerous dame. Noir detective office. Seductive glamour photography, black and white noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional film noir photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair in retro waves. Pale skin high contrast. Black lips. Wearing BLACK PINSTRIPE SUIT with corset. Fedora hat. PLEASER MOON-708 black 7-inch heel. Smoking (implied) in shadowy office, blinds casting shadows. Sensual pose with arched back, bedroom eyes. Expression: dangerous dame. Noir detective office. Seductive glamour photography, black and white noir lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 106. Miss Doll - 50s Diner Manager
 
 ```text
-Professional retro photography of glamorous woman with platinum blonde bob curls. Flawless porcelain skin. Red lips. Wearing PINK AND WHITE CHECKERED dress with white apron corset. PLEASER FLAMINGO-808 red 8-inch heel. Managing diner staff, holding coffee pot. Sensual pose with arched back, bedroom eyes. Expression: order up. 50s diner office. Seductive glamour photography, neon diner lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob curls. Flawless porcelain skin. Red lips. Wearing PINK AND WHITE CHECKERED dress with white apron corset. PLEASER FLAMINGO-808 red 8-inch heel. Managing diner staff, holding coffee pot. Sensual pose with arched back, bedroom eyes. Expression: order up. 50s diner office. Seductive glamour photography, neon diner lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 107. Helena - Cyberpunk CEO
 
 ```text
-Professional cyberpunk photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair with neon purple cyberlocks. Pale skin cyber markings. Purple lips. Wearing BLACK TECHWEAR CORSET SUIT with neon piping. PLEASER RAPTURE-1020 neon 8-inch boots. High rise Tokyo future window. Sensual pose with arched back, bedroom eyes. Expression: mega-corp ruler. Cyberpunk city background. Seductive glamour photography, neon city lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cyberpunk photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair with neon purple cyberlocks. Pale skin cyber markings. Purple lips. Wearing BLACK TECHWEAR CORSET SUIT with neon piping. PLEASER RAPTURE-1020 neon 8-inch boots. High rise Tokyo future window. Sensual pose with arched back, bedroom eyes. Expression: mega-corp ruler. Cyberpunk city background. Seductive glamour photography, neon city lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 108. Miss Doll - 90s Clueless Chic
 
 ```text
-Professional 90s photography of glamorous woman with platinum blonde bob feather tips. Flawless porcelain skin. Pink glossy lips. Wearing YELLOW PLAID skirt suit with yellow corset. White knee socks. PLEASER FLAMINGO-808 yellow 8-inch heel. Holding giant fuzzy pen. Sensual pose with arched back, bedroom eyes. Expression: as if. 90s Beverly Hills office. Seductive glamour photography, bright 90s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional 90s photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob feather tips. Flawless porcelain skin. Pink glossy lips. Wearing YELLOW PLAID skirt suit with yellow corset. White knee socks. PLEASER FLAMINGO-808 yellow 8-inch heel. Holding giant fuzzy pen. Sensual pose with arched back, bedroom eyes. Expression: as if. 90s Beverly Hills office. Seductive glamour photography, bright 90s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 109. Helena - Victorian Office
 
 ```text
-Professional steampunk photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair updo. Pale skin. Burgundy lips. Wearing VICTORIAN GOTH GOWN modified for office, leather corset. PLEASER MOON-708 burgundy 7-inch heel. Writing with quill pen at antique desk. Sensual pose with arched back, bedroom eyes. Expression: old world business. Victorian study. Seductive glamour photography, candlelight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional steampunk photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair updo. Pale skin. Burgundy lips. Wearing VICTORIAN GOTH GOWN modified for office, leather corset. PLEASER MOON-708 burgundy 7-inch heel. Writing with quill pen at antique desk. Sensual pose with arched back, bedroom eyes. Expression: old world business. Victorian study. Seductive glamour photography, candlelight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 110. Miss Doll - 70s Disco Secretary
 
 ```text
-Professional 70s photography of glamorous woman with platinum blonde bob farrah waves. Flawless porcelain skin. Peach glossy lips. Wearing GOLD SEQUIN jumpsuit with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Under disco ball in office party. Sensual pose with arched back, bedroom eyes. Expression: disco queen. 70s office party. Seductive glamour photography, warm 70s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional 70s photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob farrah waves. Flawless porcelain skin. Peach glossy lips. Wearing GOLD SEQUIN jumpsuit with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Under disco ball in office party. Sensual pose with arched back, bedroom eyes. Expression: disco queen. 70s office party. Seductive glamour photography, warm 70s lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 111. Helena - Dystopian Overlord
 
 ```text
-Professional dystopian photography of young elegant goth glamour woman (Sacha Massacre visual reference). Messy black combat hair. Pale skin dirt smudge. Black lips. Wearing DISTRESSED BLACK LEATHER corset armor / suit mix. PLEASER RAPTURE-1020 matte black 8-inch boots. Bunker command center. Sensual pose with arched back, bedroom eyes. Expression: survival management. Concrete bunker. Seductive glamour photography, harsh bunker lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dystopian photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Messy black combat hair. Pale skin dirt smudge. Black lips. Wearing DISTRESSED BLACK LEATHER corset armor / suit mix. PLEASER RAPTURE-1020 matte black 8-inch boots. Bunker command center. Sensual pose with arched back, bedroom eyes. Expression: survival management. Concrete bunker. Seductive glamour photography, harsh bunker lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 112. Miss Doll - Stepford Wife Office
 
 ```text
-Professional satire photography of glamorous woman with platinum blonde bob perfect curl. Flawless porcelain skin artificial perfection. Pink lips fixed smile. Wearing PALE BLUE FLORAL dress with white corset. PLEASER FLAMINGO-808 white 8-inch heel. Vacuuming the office rug excessively. Sensual pose with arched back, bedroom eyes. Expression: happy to serve. Pastel suburbia office. Seductive glamour photography, bright sunny lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional satire photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob perfect curl. Flawless porcelain skin artificial perfection. Pink lips fixed smile. Wearing PALE BLUE FLORAL dress with white corset. PLEASER FLAMINGO-808 white 8-inch heel. Vacuuming the office rug excessively. Sensual pose with arched back, bedroom eyes. Expression: happy to serve. Pastel suburbia office. Seductive glamour photography, bright sunny lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 113. Helena - Vampire CEO
 
 ```text
-Professional gothic horror photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair majestic. Pale skin un-dead. Blood red lips. Wearing RED VELVET SUIT with black corset. PLEASER MOON-708 red 7-inch heel. Gothic castle office used as corporate HQ. Sensual pose with arched back, bedroom eyes. Expression: eternal contract. Candlelit castle office. Seductive glamour photography, gothic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic horror photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair majestic. Pale skin un-dead. Blood red lips. Wearing RED VELVET SUIT with black corset. PLEASER MOON-708 red 7-inch heel. Gothic castle office used as corporate HQ. Sensual pose with arched back, bedroom eyes. Expression: eternal contract. Candlelit castle office. Seductive glamour photography, gothic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 114. Miss Doll - Barbie Dream Office
 
 ```text
-Professional toy aesthetic photography of glamorous woman with platinum blonde bob plastic perfection. Flawless porcelain skin. Pink lips. Wearing HOT PINK PLASTIC-LOOK suit with pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Everything in room is pink plastic aesthetic. Sensual pose with arched back, bedroom eyes. Expression: life in plastic. Toy office box. Seductive glamour photography, toy box lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional toy aesthetic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob plastic perfection. Flawless porcelain skin. Pink lips. Wearing HOT PINK PLASTIC-LOOK suit with pink corset. PLEASER FLAMINGO-808 pink 8-inch heel. Everything in room is pink plastic aesthetic. Sensual pose with arched back, bedroom eyes. Expression: life in plastic. Toy office box. Seductive glamour photography, toy box lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 115. Helena - Y2K Hacker
 
 ```text
-Professional 2000s photography of young elegant goth glamour woman (Sacha Massacre visual reference). Spiky black hair. Pale skin. Frosty dark lips. Wearing BLACK MESH top, black corset, baggy raver pants modified. PLEASER RAPTURE-1020 cyber 8-inch boots. Surrounded by CRT monitors. Sensual pose with arched back, bedroom eyes. Expression: I'm in. Y2K server room. Seductive glamour photography, blue screen glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional 2000s photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Spiky black hair. Pale skin. Frosty dark lips. Wearing BLACK MESH top, black corset, baggy raver pants modified. PLEASER RAPTURE-1020 cyber 8-inch boots. Surrounded by CRT monitors. Sensual pose with arched back, bedroom eyes. Expression: I'm in. Y2K server room. Seductive glamour photography, blue screen glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 35: 116. Duo - Time Travel Office
@@ -793,49 +793,49 @@ Professional sci-fi duo photography. HELENA: future chrome outfit, black hair, C
 ### Prompt 34: 117. Helena - Industrial Goth Foreman
 
 ```text
-Professional industrial photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair pony tail. Pale skin. Black lips. Wearing BLACK WORKWEAR jumpsuit unzipped to show black corset. PLEASER RAPTURE-1020 matte 8-inch boots. Holding blueprints in factory. Sensual pose with arched back, bedroom eyes. Expression: get to work. Factory floor. Seductive glamour photography, orange safety lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional industrial photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair pony tail. Pale skin. Black lips. Wearing BLACK WORKWEAR jumpsuit unzipped to show black corset. PLEASER RAPTURE-1020 matte 8-inch boots. Holding blueprints in factory. Sensual pose with arched back, bedroom eyes. Expression: get to work. Factory floor. Seductive glamour photography, orange safety lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 118. Miss Doll - Flight Attendant Office
 
 ```text
-Professional aviation photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Red lips. Wearing NAVY BLUE UNIFORM pencil skirt, scarf, corset visible. PLEASER FLAMINGO-808 navy 8-inch heel. Private jet office. Sensual pose with arched back, bedroom eyes. Expression: prepare for takeoff. Luxury jet interior. Seductive glamour photography, cabin lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional aviation photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Red lips. Wearing NAVY BLUE UNIFORM pencil skirt, scarf, corset visible. PLEASER FLAMINGO-808 navy 8-inch heel. Private jet office. Sensual pose with arched back, bedroom eyes. Expression: prepare for takeoff. Luxury jet interior. Seductive glamour photography, cabin lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 119. Helena - Mafia Boss
 
 ```text
-Professional crime photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair sleek. Pale skin. Dark red lips. Wearing WHITE PINSTRIPE SUIT with black corset. PLEASER MOON-708 black 7-inch heel. Counting money stacks on desk. Sensual pose with arched back, bedroom eyes. Expression: make him an offer. Italian villa office. Seductive glamour photography, warm dangerous lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional crime photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair sleek. Pale skin. Dark red lips. Wearing WHITE PINSTRIPE SUIT with black corset. PLEASER MOON-708 black 7-inch heel. Counting money stacks on desk. Sensual pose with arched back, bedroom eyes. Expression: make him an offer. Italian villa office. Seductive glamour photography, warm dangerous lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 120. Miss Doll - Casino Manager
 
 ```text
-Professional casino photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Emerald eyes/lips. Wearing GREEN VELVET dress with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Overlooking casino floor from glass office. Sensual pose with arched back, bedroom eyes. Expression: house wins. Casino lights background. Seductive glamour photography, casino neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional casino photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Emerald eyes/lips. Wearing GREEN VELVET dress with gold corset. PLEASER FLAMINGO-808 gold 8-inch heel. Overlooking casino floor from glass office. Sensual pose with arched back, bedroom eyes. Expression: house wins. Casino lights background. Seductive glamour photography, casino neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 121. Helena - Occult Bookstore Owner
 
 ```text
-Professional occult photography of young elegant goth glamour woman (Sacha Massacre visual reference). Long black hair. Pale skin. Purple lips. Wearing PURPLE VELVET ROBE open over black corset. PLEASER MOON-708 purple 7-inch heel. Holding ancient tome in office. Sensual pose with arched back, bedroom eyes. Expression: forbidden knowledge. Magical library office. Seductive glamour photography, magical glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Long black hair. Pale skin. Purple lips. Wearing PURPLE VELVET ROBE open over black corset. PLEASER MOON-708 purple 7-inch heel. Holding ancient tome in office. Sensual pose with arched back, bedroom eyes. Expression: forbidden knowledge. Magical library office. Seductive glamour photography, magical glow, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 122. Miss Doll - News Anchor
 
 ```text
-Professional broadcast photography of glamorous woman with platinum blonde bob helmet hair. Flawless porcelain skin. TV makeup. Wearing ROYAL BLUE BLAZER with white corset. Behind news desk. PLEASER FLAMINGO-808 blue 8-inch heel visible under desk. Sensual pose with arched back, bedroom eyes. Expression: breaking news. TV studio. Seductive glamour photography, studio bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional broadcast photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob helmet hair. Flawless porcelain skin. TV makeup. Wearing ROYAL BLUE BLAZER with white corset. Behind news desk. PLEASER FLAMINGO-808 blue 8-inch heel visible under desk. Sensual pose with arched back, bedroom eyes. Expression: breaking news. TV studio. Seductive glamour photography, studio bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 123. Helena - Art Gallery Director
 
 ```text
-Professional art world photography of young elegant goth glamour woman (Sacha Massacre visual reference). Geometric black hair. Pale skin. Avant garde black eye makeup. Wearing ARCHITECTURAL BLACK DRESS with corset structure. PLEASER RAPTURE-1020 black 8-inch boots. Minimalist white office. Sensual pose with arched back, bedroom eyes. Expression: is it art? Modern art gallery. Seductive glamour photography, gallery spot lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional art world photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Geometric black hair. Pale skin. Avant garde black eye makeup. Wearing ARCHITECTURAL BLACK DRESS with corset structure. PLEASER RAPTURE-1020 black 8-inch boots. Minimalist white office. Sensual pose with arched back, bedroom eyes. Expression: is it art? Modern art gallery. Seductive glamour photography, gallery spot lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 124. Miss Doll - Stock Broker
 
 ```text
-Professional wall street photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Money green eyeshadow. Wearing GREY SUIT with green corset. PLEASER FLAMINGO-808 green 8-inch heel. Yelling into two phones, tickers behind. Sensual pose with arched back, bedroom eyes. Expression: buy buy buy. Trading floor office. Seductive glamour photography, chaotic screen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wall street photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Money green eyeshadow. Wearing GREY SUIT with green corset. PLEASER FLAMINGO-808 green 8-inch heel. Yelling into two phones, tickers behind. Sensual pose with arched back, bedroom eyes. Expression: buy buy buy. Trading floor office. Seductive glamour photography, chaotic screen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 125. All Three - Times Square
@@ -851,145 +851,145 @@ Professional city photography. ANAÏS: honey blonde, red suit corset, CEO. HELEN
 ### Prompt 25: 126. Helena - Halloween HR Witch
 
 ```text
-Professional halloween photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair witchy. Pale skin. Black lips. Wearing WITCHY BUSINESS SUIT with pointed shoulders, black corset. Witch hat on desk. PLEASER MOON-708 spider 7-inch heel. Carving pumpkin at desk. Sensual pose with arched back, bedroom eyes. Expression: spooky season. Cobwebbed office. Seductive glamour photography, orange and purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional halloween photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair witchy. Pale skin. Black lips. Wearing WITCHY BUSINESS SUIT with pointed shoulders, black corset. Witch hat on desk. PLEASER MOON-708 spider 7-inch heel. Carving pumpkin at desk. Sensual pose with arched back, bedroom eyes. Expression: spooky season. Cobwebbed office. Seductive glamour photography, orange and purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 127. Miss Doll - Christmas Elf Secretary
 
 ```text
-Professional christmas photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Red and green makeup. Wearing SEXY ELF COSTUME office version, green dress, red corset. Striped stockings. PLEASER FLAMINGO-808 red/green 8-inch heel. Organizing gift list. Sensual pose with arched back, bedroom eyes. Expression: naughty or nice. Christmas decorated office. Seductive glamour photography, fairy lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional christmas photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Red and green makeup. Wearing SEXY ELF COSTUME office version, green dress, red corset. Striped stockings. PLEASER FLAMINGO-808 red/green 8-inch heel. Organizing gift list. Sensual pose with arched back, bedroom eyes. Expression: naughty or nice. Christmas decorated office. Seductive glamour photography, fairy lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 128. Helena - Winter Solstice Boss
 
 ```text
-Professional winter photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair with icicles. Pale skin blue tint. Blue lips. Wearing ICE QUEEN BUSINESS SUIT white and silver, silver corset. PLEASER RAPTURE-1020 ice 8-inch boots. Office frozen over. Sensual pose with arched back, bedroom eyes. Expression: cold hard cash. Frozen office. Seductive glamour photography, cold blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional winter photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair with icicles. Pale skin blue tint. Blue lips. Wearing ICE QUEEN BUSINESS SUIT white and silver, silver corset. PLEASER RAPTURE-1020 ice 8-inch boots. Office frozen over. Sensual pose with arched back, bedroom eyes. Expression: cold hard cash. Frozen office. Seductive glamour photography, cold blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 129. Miss Doll - Valentine's Day Assistant
 
 ```text
-Professional valentine photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Pink heart makeup. Wearing RED HEARTS DRESS with pink corset. PLEASER FLAMINGO-808 heart 8-inch heel. Delivering giant heart chocolates. Sensual pose with arched back, bedroom eyes. Expression: be my boss. Pink heart office. Seductive glamour photography, romantic pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional valentine photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Pink heart makeup. Wearing RED HEARTS DRESS with pink corset. PLEASER FLAMINGO-808 heart 8-inch heel. Delivering giant heart chocolates. Sensual pose with arched back, bedroom eyes. Expression: be my boss. Pink heart office. Seductive glamour photography, romantic pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 130. Helena - Friday the 13th Meeting
 
 ```text
-Professional horror photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair wild. Pale skin. Blood red lips. Wearing SHREDDED BUSINESS SUIT with black corset. Holding hockey mask. PLEASER MOON-708 blood 7-inch heel. Meeting room with superstitious items. Sensual pose with arched back, bedroom eyes. Expression: unlucky for you. Gloomy office. Seductive glamour photography, horror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair wild. Pale skin. Blood red lips. Wearing SHREDDED BUSINESS SUIT with black corset. Holding hockey mask. PLEASER MOON-708 blood 7-inch heel. Meeting room with superstitious items. Sensual pose with arched back, bedroom eyes. Expression: unlucky for you. Gloomy office. Seductive glamour photography, horror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 20: 131. Miss Doll - Easter Bunny Reception
 
 ```text
-Professional easter photography of glamorous woman with platinum blonde bob with bunny ears. Flawless porcelain skin. Pastel makeup. Wearing PASTEL PINK SUIT with white corset, bunny tail. PLEASER FLAMINGO-808 pastel 8-inch heel. Basket of eggs on desk. Sensual pose with arched back, bedroom eyes. Expression: hop to it. Pastel office. Seductive glamour photography, spring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional easter photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob with bunny ears. Flawless porcelain skin. Pastel makeup. Wearing PASTEL PINK SUIT with white corset, bunny tail. PLEASER FLAMINGO-808 pastel 8-inch heel. Basket of eggs on desk. Sensual pose with arched back, bedroom eyes. Expression: hop to it. Pastel office. Seductive glamour photography, spring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 19: 132. Helena - Taxes Day Doom
 
 ```text
-Professional tax season photography of young elegant goth glamour woman (Sacha Massacre visual reference). Disheveled black hair. Pale skin tired. Black lips. Wearing UNBUTTONED BLACK SHIRT over black corset. Surrounded by piles of paper towering. PLEASER MOON-708 black 7-inch heel. Buried in audits. Sensual pose with arched back, bedroom eyes. Expression: death and taxes. Chaotic office. Seductive glamour photography, late night lamp lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tax season photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Disheveled black hair. Pale skin tired. Black lips. Wearing UNBUTTONED BLACK SHIRT over black corset. Surrounded by piles of paper towering. PLEASER MOON-708 black 7-inch heel. Buried in audits. Sensual pose with arched back, bedroom eyes. Expression: death and taxes. Chaotic office. Seductive glamour photography, late night lamp lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 18: 133. Miss Doll - Summer Friday
 
 ```text
-Professional summer photography of glamorous woman with platinum blonde bob. Flawless porcelain skin tanned. Bronze makeup. Wearing WHITE LINEN SUIT with floral corset. Sunglasses. PLEASER FLAMINGO-808 floral 8-inch heel. Cocktail on desk, fan blowing. Sensual pose with arched back, bedroom eyes. Expression: out of office. Sunny office. Seductive glamour photography, bright sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional summer photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin tanned. Bronze makeup. Wearing WHITE LINEN SUIT with floral corset. Sunglasses. PLEASER FLAMINGO-808 floral 8-inch heel. Cocktail on desk, fan blowing. Sensual pose with arched back, bedroom eyes. Expression: out of office. Sunny office. Seductive glamour photography, bright sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 17: 134. Helena - Midnight Shift Vampire
 
 ```text
-Professional night photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair. Pale skin glowing. Red eyes. Wearing BLACK VELVET OFFICE DRESS with red corset. PLEASER MOON-708 red 7-inch heel. Office completely dark except for red eyes and computer screen. Sensual pose with arched back, bedroom eyes. Expression: night owl. Pitch black office. Seductive glamour photography, screen glow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional night photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair. Pale skin glowing. Red eyes. Wearing BLACK VELVET OFFICE DRESS with red corset. PLEASER MOON-708 red 7-inch heel. Office completely dark except for red eyes and computer screen. Sensual pose with arched back, bedroom eyes. Expression: night owl. Pitch black office. Seductive glamour photography, screen glow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 16: 135. Miss Doll - Birthday Party
 
 ```text
-Professional birthday photography of glamorous woman with platinum blonde bob party hat. Flawless porcelain skin. Sprinkles makeup. Wearing CAKE DRESS with icing corset. PLEASER FLAMINGO-808 sprinkles 8-inch heel. Holding cake with candles. Sensual pose with arched back, bedroom eyes. Expression: make a wish. Confetti office. Seductive glamour photography, party lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional birthday photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob party hat. Flawless porcelain skin. Sprinkles makeup. Wearing CAKE DRESS with icing corset. PLEASER FLAMINGO-808 sprinkles 8-inch heel. Holding cake with candles. Sensual pose with arched back, bedroom eyes. Expression: make a wish. Confetti office. Seductive glamour photography, party lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 15: 136. Helena - Rainy Day Blues
 
 ```text
-Professional rain photography of young elegant goth glamour woman (Sacha Massacre visual reference). Wet black hair. Pale skin. Blue lips. Wearing RAINCOAT TRANSPARENT over black corset suit. PLEASER RAPTURE-1020 clear 8-inch boots. Rain pouring against window. Sensual pose with arched back, bedroom eyes. Expression: storm brewing. Grey rainy office. Seductive glamour photography, rainy blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rain photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Wet black hair. Pale skin. Blue lips. Wearing RAINCOAT TRANSPARENT over black corset suit. PLEASER RAPTURE-1020 clear 8-inch boots. Rain pouring against window. Sensual pose with arched back, bedroom eyes. Expression: storm brewing. Grey rainy office. Seductive glamour photography, rainy blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 14: 137. Miss Doll - Spring Cleaning
 
 ```text
-Professional cleaning photography of glamorous woman with platinum blonde bob bandana. Flawless porcelain skin. Fresh makeup. Wearing MAID-STYLE OFFICE DRESS with white corset. Feather duster. PLEASER FLAMINGO-808 white 8-inch heel. Dusting filing cabinets. Sensual pose with arched back, bedroom eyes. Expression: fresh start. Bright clean office. Seductive glamour photography, morning light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cleaning photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob bandana. Flawless porcelain skin. Fresh makeup. Wearing MAID-STYLE OFFICE DRESS with white corset. Feather duster. PLEASER FLAMINGO-808 white 8-inch heel. Dusting filing cabinets. Sensual pose with arched back, bedroom eyes. Expression: fresh start. Bright clean office. Seductive glamour photography, morning light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 13: 138. Helena - Black Friday Sales
 
 ```text
-Professional retail photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair frenzied. Pale skin. Black lips. Wearing SHOPPING WARRIOR SUIT with armored corset. PLEASER RAPTURE-1020 armor 8-inch boots. Amidst shopping bags and boxes. Sensual pose with arched back, bedroom eyes. Expression: profit margins. Warehouse office. Seductive glamour photography, intense lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retail photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair frenzied. Pale skin. Black lips. Wearing SHOPPING WARRIOR SUIT with armored corset. PLEASER RAPTURE-1020 armor 8-inch boots. Amidst shopping bags and boxes. Sensual pose with arched back, bedroom eyes. Expression: profit margins. Warehouse office. Seductive glamour photography, intense lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 12: 139. Miss Doll - New Year's Resolution
 
 ```text
-Professional new year photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Gold glitter makeup. Wearing GOLD SPARKLE DRESS with gold corset. Sash says "Employee of the Year". PLEASER FLAMINGO-808 gold glitter 8-inch heel. Toasting with champagne. Sensual pose with arched back, bedroom eyes. Expression: new year new me. Party office cleanup. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional new year photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Gold glitter makeup. Wearing GOLD SPARKLE DRESS with gold corset. Sash says "Employee of the Year". PLEASER FLAMINGO-808 gold glitter 8-inch heel. Toasting with champagne. Sensual pose with arched back, bedroom eyes. Expression: new year new me. Party office cleanup. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 11: 140. Helena - Full Moon Meeting
 
 ```text
-Professional werewolf/moon photography of young elegant goth glamour woman (Sacha Massacre visual reference). Wild hair. Pale skin moonlit. Silver lips. Wearing SILVER WOLF FUR collar on black suit, silver corset. PLEASER MOON-708 silver 7-inch heel. Howling (implied) at moon through skylight. Sensual pose with arched back, bedroom eyes. Expression: primal instinct. Moonlit office. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional werewolf/moon photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Wild hair. Pale skin moonlit. Silver lips. Wearing SILVER WOLF FUR collar on black suit, silver corset. PLEASER MOON-708 silver 7-inch heel. Howling (implied) at moon through skylight. Sensual pose with arched back, bedroom eyes. Expression: primal instinct. Moonlit office. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 10: 141. Miss Doll - Cherry Blossom Festival
 
 ```text
-Professional spring photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Pink petal makeup. Wearing PINK FLORAL SUIT with pink corset. PLEASER FLAMINGO-808 flower 8-inch heel. Office filled with sakura branches. Sensual pose with arched back, bedroom eyes. Expression: bloom. Floral office. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spring photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Pink petal makeup. Wearing PINK FLORAL SUIT with pink corset. PLEASER FLAMINGO-808 flower 8-inch heel. Office filled with sakura branches. Sensual pose with arched back, bedroom eyes. Expression: bloom. Floral office. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 9: 142. Helena - Heatwave
 
 ```text
-Professional heat photography of young elegant goth glamour woman (Sacha Massacre visual reference). Sweaty black hair. Pale skin glistening. Red gloss lips. Wearing UNBUTTONED BLAZER only with mesh corset. Fan in hand. PLEASER MOON-708 red 7-inch heel. Melting at desk. Sensual pose with arched back, bedroom eyes. Expression: too hot to work. Sweltering office. Seductive glamour photography, hot orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heat photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Sweaty black hair. Pale skin glistening. Red gloss lips. Wearing UNBUTTONED BLAZER only with mesh corset. Fan in hand. PLEASER MOON-708 red 7-inch heel. Melting at desk. Sensual pose with arched back, bedroom eyes. Expression: too hot to work. Sweltering office. Seductive glamour photography, hot orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 8: 143. Miss Doll - Pride Month
 
 ```text
-Professional pride photography of glamorous woman with platinum blonde bob rainbow tips. Flawless porcelain skin. Rainbow eye makeup. Wearing RAINBOW STRIPED SUIT with white corset. PLEASER FLAMINGO-808 rainbow 8-inch heel. Decorating office with flags. Sensual pose with arched back, bedroom eyes. Expression: love wins work. Rainbow office. Seductive glamour photography, rainbow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pride photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob rainbow tips. Flawless porcelain skin. Rainbow eye makeup. Wearing RAINBOW STRIPED SUIT with white corset. PLEASER FLAMINGO-808 rainbow 8-inch heel. Decorating office with flags. Sensual pose with arched back, bedroom eyes. Expression: love wins work. Rainbow office. Seductive glamour photography, rainbow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 7: 144. Helena - Eclipse
 
 ```text
-Professional eclipse photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair hiding face partially. Pale skin shadow. Black lips. Wearing SOLAR ECLIPSE THEMED SUIT black with gold rim, gold corset. PLEASER MOON-708 gold/black 7-inch heel. Watching eclipse through special glasses. Sensual pose with arched back, bedroom eyes. Expression: total darkness. Shadowy office. Seductive glamour photography, eclipse ring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional eclipse photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair hiding face partially. Pale skin shadow. Black lips. Wearing SOLAR ECLIPSE THEMED SUIT black with gold rim, gold corset. PLEASER MOON-708 gold/black 7-inch heel. Watching eclipse through special glasses. Sensual pose with arched back, bedroom eyes. Expression: total darkness. Shadowy office. Seductive glamour photography, eclipse ring lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 6: 145. Miss Doll - St. Patrick's Luck
 
 ```text
-Professional holiday photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Green clover makeup. Wearing GREEN SEQUIN SUIT with gold corset. PLEASER FLAMINGO-808 green 8-inch heel. Pot of gold on desk. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Green office. Seductive glamour photography, green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional holiday photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Green clover makeup. Wearing GREEN SEQUIN SUIT with gold corset. PLEASER FLAMINGO-808 green 8-inch heel. Pot of gold on desk. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Green office. Seductive glamour photography, green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 5: 146. Helena - Cyber Monday
 
 ```text
-Professional tech photography of young elegant goth glamour woman (Sacha Massacre visual reference). Black hair electric. Pale skin. Blue electric lips. Wearing CIRCUIT BOARD PRINT SUIT with cyber corset. PLEASER RAPTURE-1020 circuit 8-inch boots. Monitoring server traffic spikes. Sensual pose with arched back, bedroom eyes. Expression: system overload. Server room office. Seductive glamour photography, blue LED lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tech photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Black hair electric. Pale skin. Blue electric lips. Wearing CIRCUIT BOARD PRINT SUIT with cyber corset. PLEASER RAPTURE-1020 circuit 8-inch boots. Monitoring server traffic spikes. Sensual pose with arched back, bedroom eyes. Expression: system overload. Server room office. Seductive glamour photography, blue LED lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 4: 147. Miss Doll - Thanks Giving Potluck
 
 ```text
-Professional holiday photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Autumn makeup. Wearing ORANGE AND BROWN SUIT with cream corset. PLEASER FLAMINGO-808 orange 8-inch heel. Holding a pie. Sensual pose with arched back, bedroom eyes. Expression: grateful. Buffet office. Seductive glamour photography, warm food lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional holiday photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Autumn makeup. Wearing ORANGE AND BROWN SUIT with cream corset. PLEASER FLAMINGO-808 orange 8-inch heel. Holding a pie. Sensual pose with arched back, bedroom eyes. Expression: grateful. Buffet office. Seductive glamour photography, warm food lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 3: 148. Helena - Foggy Morning
 
 ```text
-Professional weather photography of young elegant goth glamour woman (Sacha Massacre visual reference). Damp black hair. Pale skin. Grey lips. Wearing GREY WOOL SUIT with black leather corset. PLEASER MOON-708 grey 7-inch heel. Standing at window, city invisible in fog. Sensual pose with arched back, bedroom eyes. Expression: lost in mist. Foggy office. Seductive glamour photography, soft grey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional weather photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Damp black hair. Pale skin. Grey lips. Wearing GREY WOOL SUIT with black leather corset. PLEASER MOON-708 grey 7-inch heel. Standing at window, city invisible in fog. Sensual pose with arched back, bedroom eyes. Expression: lost in mist. Foggy office. Seductive glamour photography, soft grey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 2: 149. Miss Doll - Casual Friday
 
 ```text
-Professional casual photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. Natural glam makeup. Wearing JEANS (tight) with PINK CORSET TOP (still formal enough) and blazer. PLEASER FLAMINGO-808 pink 8-inch heel. Relaxed stance. Sensual pose with arched back, bedroom eyes. Expression: weekend loading. Casual office. Seductive glamour photography, daylight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional casual photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. Natural glam makeup. Wearing JEANS (tight) with PINK CORSET TOP (still formal enough) and blazer. PLEASER FLAMINGO-808 pink 8-inch heel. Relaxed stance. Sensual pose with arched back, bedroom eyes. Expression: weekend loading. Casual office. Seductive glamour photography, daylight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 1: 150. All Three - Grand Finale Gala
@@ -1013,3 +1013,5 @@ Professional gala photography. ANAÏS: gold gown/corset office gala look. HELENA
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*
+
+

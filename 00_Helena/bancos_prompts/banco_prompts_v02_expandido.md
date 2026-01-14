@@ -1,24 +1,24 @@
-# 🖤 BANCO DE PROMPTS V2 - LA VOÛTE D'ANAÏS
+﻿# ðŸ–¤ BANCO DE PROMPTS V2 - LA VOÃ›TE D'ANAÃS
 
-> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
+> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imÃ¡genes.
 > **Total:** ~200+ prompts nuevos | **Actualizado:** 2025-12-25
-> **Versión:** 2.0 Expandida
+> **VersiÃ³n:** 2.0 Expandida
 
 ---
 
-## 📋 CÓMO USAR ESTE ARCHIVO
+## ðŸ“‹ CÃ“MO USAR ESTE ARCHIVO
 
 1. **Buscar** el personaje y outfit deseado
 2. **Copiar** todo el texto del prompt (desde "Professional..." hasta "...photography.")
 3. **Pegar** directamente en el generador
-4. **NO modificar** salvo ajustes menores de pose/expresión
+4. **NO modificar** salvo ajustes menores de pose/expresiÃ³n
 
-### Leyenda de Símbolos
+### Leyenda de SÃ­mbolos
 
-- ⭐ = Prompt verificado/testeado
-- 🆕 = Nuevo en esta versión
-- 💎 = Prompt premium/complejo
-- ⚠️ = Requiere ajuste según generador
+- â­ = Prompt verificado/testeado
+- ðŸ†• = Nuevo en esta versiÃ³n
+- ðŸ’Ž = Prompt premium/complejo
+- âš ï¸ = Requiere ajuste segÃºn generador
 
 ---
 
@@ -27,31 +27,31 @@
 > [!CAUTION]
 > **REGLAS ANTI-FILTRO:** Evitar "ditzy", "exaggerated hourglass", "doll-like", "bimbo". Usar "playful", "carefree", "feminine silhouette", "glamour woman".
 
-### 💖 MISS DOLL (Copiar estos elementos siempre)
+### ðŸ’– MISS DOLL (Copiar estos elementos siempre)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
 human realistic face with parted lips and dreamy seductive expression (NOT CGI, NOT plastic),
 EXTREME hourglass silhouette with large round high-profile breast implants creating prominent cleavage, tiny cinched waist,
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
-[POSE]. Sensual pose with arched back, bedroom eyes. Expression: [EXPRESIÓN]. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
+[POSE]. Sensual pose with arched back, bedroom eyes. Expression: [EXPRESIÃ“N]. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
 ```
 
-### 🦇 HELENA DE ANAÏS (Copiar estos elementos siempre)
+### ðŸ¦‡ HELENA DE ANAÃS (Copiar estos elementos siempre)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips ([COLOR]), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, [OUTFIT],
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
-[POSE]. Sensual pose with arched back, bedroom eyes. Expression: [EXPRESIÓN]. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
+[POSE]. Sensual pose with arched back, bedroom eyes. Expression: [EXPRESIÃ“N]. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
 ```
 
-### 👑 ANAÏS BELLAND (Copiar estos elementos siempre)
+### ðŸ‘‘ ANAÃS BELLAND (Copiar estos elementos siempre)
 
 ```text
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -65,9 +65,9 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 [POSE]. Sensual pose with arched back. [FONDO]. Vertical portrait orientation. Photorealistic 8k. Professional photography.
 ```
 
-### ⚠️ PALABRAS A EVITAR / REEMPLAZOS
+### âš ï¸ PALABRAS A EVITAR / REEMPLAZOS
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy | playful, carefree |
 | vacant | dreamy, entranced |
@@ -79,7 +79,7 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ## II. MISS DOLL - NUEVOS PROMPTS
 
-### 🎀 Profesiones Expandidas
+### ðŸŽ€ Profesiones Expandidas
 
 ### Prompt 119: Miss Doll - Pink Veterinarian
 
@@ -129,7 +129,7 @@ Professional photography of adult glamorous woman woman with platinum blonde bob
 Professional sports photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK CHEERLEADER UNIFORM: pink crop top with "DOLL" letters, pink pleated micro skirt, pink sports bra visible, pink corset waist trainer. PINK PLATFORM SNEAKERS 16cm. Holding pink pom-poms above head, high kick pose. Sensual pose with arched back, bedroom eyes. Expression: sultry bedroom eyes, pouty lips in playful smirk, she knows she's the hottest. Pink stadium with crowd. Professional photography.
 ```text
 
-### 🎀 Situaciones Expandidas
+### ðŸŽ€ Situaciones Expandidas
 
 ### Prompt 111: Miss Doll - Taking Selfie in Mirror
 
@@ -149,7 +149,7 @@ Professional glamour photography of adult glamorous woman woman with platinum bl
 Professional candid-style photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK LATEX MINI DRESS, pink corset visible, pink designer handbag. PINK PLATFORM STILETTOS 16cm. Standing at PINK ATM machine, confused expression at screen. Sensual pose with arched back, bedroom eyes. Expression: ditzy confused frown with sensual undertone, biting lower lip, vacant stare at numbers she doesn't understand. Pink city street at night. Professional photography.
 ```text
 
-### 🎀 Boudoir & Lingerie Expandido
+### ðŸŽ€ Boudoir & Lingerie Expandido
 
 ### Prompt 108: Miss Doll - Pink Satin Sheets
 
@@ -171,127 +171,127 @@ Professional fetish photography of adult glamorous woman woman with platinum blo
 
 ---
 
-## III. HELENA DE ANAÏS - NUEVOS PROMPTS
+## III. HELENA DE ANAÃS - NUEVOS PROMPTS
 
-### 🦇 Profesiones Góticas Expandidas
+### ðŸ¦‡ Profesiones GÃ³ticas Expandidas
 
 ### Prompt 105: Helena - Gothic Mortician
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair pulled back severely. Pale marble skin. BLACK MATTE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX APRON over black corset, black latex gloves, black pencil skirt. Black stilettos 9-inch. Standing by steel embalming table. Holding scalpel delicately. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, clinical hunger. Dark morgue with green lighting. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair pulled back severely. Pale marble skin. BLACK MATTE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX APRON over black corset, black latex gloves, black pencil skirt. Black stilettos 9-inch. Standing by steel embalming table. Holding scalpel delicately. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, clinical hunger. Dark morgue with green lighting. Professional photography.
 ```text
 
 ### Prompt 104: Helena - Gothic Sommelier
 
 ```text
-Professional photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. DEEP RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK VELVET VEST over white shirt, black corset visible at waist, black pencil skirt. Black stilettos 9-inch. Holding dark wine bottle, examining label. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips pursed in concentration, intoxicated sensual stare. Candlelit wine cellar. Professional photography.
+Professional photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. DEEP RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK VELVET VEST over white shirt, black corset visible at waist, black pencil skirt. Black stilettos 9-inch. Holding dark wine bottle, examining label. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips pursed in concentration, intoxicated sensual stare. Candlelit wine cellar. Professional photography.
 ```text
 
 ### Prompt 103: Helena - Gothic Antique Dealer
 
 ```text
-Professional photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE VICTORIAN DRESS with modern short hemline, black underbust corset extremely tight. Black Victorian button-up boots 8-inch. Holding antique skull, examining it. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare at object, glossy parted lips, collector's fascination. Dark antique shop with dust motes. Professional photography.
+Professional photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE VICTORIAN DRESS with modern short hemline, black underbust corset extremely tight. Black Victorian button-up boots 8-inch. Holding antique skull, examining it. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare at object, glossy parted lips, collector's fascination. Dark antique shop with dust motes. Professional photography.
 ```text
 
 ### Prompt 102: Helena - Gothic Beekeeper
 
 ```text
-Professional photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black mesh veil. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK BEEKEEPING SUIT unzipped to waist showing black corset, black latex pants. Black boots 8-inch. Holding honeycomb dripping with dark honey. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare through veil, dark glossy lips parted, queen bee dominance. Dark garden with black beehives. Professional photography.
+Professional photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black mesh veil. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK BEEKEEPING SUIT unzipped to waist showing black corset, black latex pants. Black boots 8-inch. Holding honeycomb dripping with dark honey. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare through veil, dark glossy lips parted, queen bee dominance. Dark garden with black beehives. Professional photography.
 ```text
 
 ### Prompt 101: Helena - Gothic Archaeologist
 
 ```text
-Professional photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair tied back with black ribbon. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing KHAKI SHORTS extremely short, black underbust corset over white tank top, black whip on hip. Black leather boots 8-inch. Holding ancient skull artifact. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic excitement, dark lips curved in discovery smile, intoxicated stare at artifact. Torch-lit tomb. Professional photography.
+Professional photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair tied back with black ribbon. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing KHAKI SHORTS extremely short, black underbust corset over white tank top, black whip on hip. Black leather boots 8-inch. Holding ancient skull artifact. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic excitement, dark lips curved in discovery smile, intoxicated stare at artifact. Torch-lit tomb. Professional photography.
 ```text
 
-### 🦇 Fantasy Expandido
+### ðŸ¦‡ Fantasy Expandido
 
 ### Prompt 100: Helena - Gothic Succubus
 
 ```text
-Professional dark fantasy photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and tangled. Pale marble skin with subtle red glow. BLOOD RED LIPS wet and glistening. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER STRAPPY BODYSUIT with flames pattern, black leather corset with red stitching. BLACK THIGH-HIGH STILETTO BOOTS 9-inch with spikes. SMALL BLACK DEMON HORNS on forehead, BLACK DEMON TAIL. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted showing fangs, hungry seductive gaze of a creature who feeds on desire. Hellfire background. Professional photography.
+Professional dark fantasy photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild and tangled. Pale marble skin with subtle red glow. BLOOD RED LIPS wet and glistening. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER STRAPPY BODYSUIT with flames pattern, black leather corset with red stitching. BLACK THIGH-HIGH STILETTO BOOTS 9-inch with spikes. SMALL BLACK DEMON HORNS on forehead, BLACK DEMON TAIL. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted showing fangs, hungry seductive gaze of a creature who feeds on desire. Hellfire background. Professional photography.
 ```text
 
 ### Prompt 99: Helena - Gothic Death
 
 ```text
-Professional dark fantasy photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black hood. Pale marble skin almost glowing. WHITE-BLACK OMBRE LIPS. Obscenely exaggerated hourglass figure. Wearing tattered BLACK HOODED ROBE open showing black leather corset, skull medallion. Black stilettos 9-inch peeking from robe. Holding ornate scythe. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression, eyes heavy-lidded, glossy dark lips parted softly, gentle death's embrace. Misty graveyard. Professional photography.
+Professional dark fantasy photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black hood. Pale marble skin almost glowing. WHITE-BLACK OMBRE LIPS. Obscenely exaggerated hourglass figure. Wearing tattered BLACK HOODED ROBE open showing black leather corset, skull medallion. Black stilettos 9-inch peeking from robe. Holding ornate scythe. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression, eyes heavy-lidded, glossy dark lips parted softly, gentle death's embrace. Misty graveyard. Professional photography.
 ```text
 
 ### Prompt 98: Helena - Gothic Storm Witch
 
 ```text
-Professional fantasy photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair blown wild by wind. Pale marble skin with rain droplets. ELECTRIC BLUE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WET-LOOK DRESS torn by wind, black corset with lightning bolt details. Black platform boots 8-inch. Arms raised summoning storm. Lightning striking behind her. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare with manic power, dark lips open in incantation. Stormy cliff edge. Professional photography.
+Professional fantasy photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair blown wild by wind. Pale marble skin with rain droplets. ELECTRIC BLUE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WET-LOOK DRESS torn by wind, black corset with lightning bolt details. Black platform boots 8-inch. Arms raised summoning storm. Lightning striking behind her. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare with manic power, dark lips open in incantation. Stormy cliff edge. Professional photography.
 ```text
 
-### 🦇 Boudoir Gótico Expandido
+### ðŸ¦‡ Boudoir GÃ³tico Expandido
 
 ### Prompt 97: Helena - Gothic Morning After
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS messy black hair, bedhead style. Pale marble skin. SMUDGED BLACK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing only BLACK SHEET wrapped loosely around body, black lace bra strap visible, black thong barely visible. Black stilettos 8-inch on floor beside bed. Sitting on edge of black silk bed, stretching. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark smudged lips parted in yawn, intoxicated morning stare. Dark bedroom with black candles melted. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS messy black hair, bedhead style. Pale marble skin. SMUDGED BLACK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing only BLACK SHEET wrapped loosely around body, black lace bra strap visible, black thong barely visible. Black stilettos 8-inch on floor beside bed. Sitting on edge of black silk bed, stretching. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark smudged lips parted in yawn, intoxicated morning stare. Dark bedroom with black candles melted. Professional photography.
 ```text
 
 ### Prompt 96: Helena - Gothic Bath
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair piled up messily. Pale marble skin wet and glistening. BLACK LIPS glossy with moisture. Obscenely exaggerated hourglass figure. NO CORSET (bath scene). Submerged in CLAW-FOOT TUB filled with black water and black rose petals. Black candles surrounding. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, relaxed submissive bliss. Dark Victorian bathroom. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair piled up messily. Pale marble skin wet and glistening. BLACK LIPS glossy with moisture. Obscenely exaggerated hourglass figure. NO CORSET (bath scene). Submerged in CLAW-FOOT TUB filled with black water and black rose petals. Black candles surrounding. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, relaxed submissive bliss. Dark Victorian bathroom. Professional photography.
 ```text
 
 ### Prompt 95: Helena - Gothic Vanity
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair being brushed. Pale marble skin. Applying DARK PURPLE LIPSTICK in mirror. Obscenely exaggerated hourglass figure. Wearing BLACK SILK SLIP dress short, black corset visible underneath. Black stiletto mules 8-inch. Seated at ornate black vanity table with skull mirror. Sensual pose with arched back, bedroom eyes. Expression: concentrated vacant stare in mirror, lips parted applying color. Dark boudoir with candles. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair being brushed. Pale marble skin. Applying DARK PURPLE LIPSTICK in mirror. Obscenely exaggerated hourglass figure. Wearing BLACK SILK SLIP dress short, black corset visible underneath. Black stiletto mules 8-inch. Seated at ornate black vanity table with skull mirror. Sensual pose with arched back, bedroom eyes. Expression: concentrated vacant stare in mirror, lips parted applying color. Dark boudoir with candles. Professional photography.
 ```text
 
 ---
 
-## IV. ANAÏS BELLAND - NUEVOS PROMPTS
+## IV. ANAÃS BELLAND - NUEVOS PROMPTS
 
-### 👑 Poder y Dominación
+### ðŸ‘‘ Poder y DominaciÃ³n
 
-### Prompt 94: Anaïs - Boardroom Takeover
+### Prompt 94: AnaÃ¯s - Boardroom Takeover
 
 ```text
 Professional corporate photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in severe power chignon. Sensual lush beauty. Wearing BLACK POWER SUIT jacket open showing black lace corset, tight black pencil skirt with slit, black stockings. So Kate stilettos 12cm. Standing at head of boardroom table, hands flat on surface, leaning forward. Sensual pose with arched back, bedroom eyes. Expression: imperious sultry stare, knowing smirk, one eyebrow raised, aristocratic superiority, I own this room. Modern glass boardroom. Professional photography.
 ```text
 
-### Prompt 93: Anaïs - Interrogation
+### Prompt 93: AnaÃ¯s - Interrogation
 
 ```text
 Professional noir photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in loose waves, one side pinned. Sensual lush beauty. Wearing BLACK TRENCH COAT open showing black corset, black pencil skirt, black gloves. So Kate stilettos 12cm. Standing over empty chair with single spotlight. Holding cigarette in long holder. Sensual pose with arched back, bedroom eyes. Expression: imperious sultry stare, lips curled in knowing smirk, interrogating gaze. Dark interrogation room. Professional photography.
 ```text
 
-### Prompt 92: Anaïs - Art Collector
+### Prompt 92: AnaÃ¯s - Art Collector
 
 ```text
 Professional gallery photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant updo. Sensual lush beauty. Wearing BLACK VELVET GOWN with plunging back, visible black corset underneath, diamond choker. So Kate stilettos 12cm. Standing before expensive painting, wine glass in hand. Sensual pose with arched back, bedroom eyes. Expression: Mona Lisa smile, sultry mysterious gaze, effortless French elegance while calculating the painting's value. Private gallery. Professional photography.
 ```text
 
-### 👑 Boudoir Aristocrático
+### ðŸ‘‘ Boudoir AristocrÃ¡tico
 
-### Prompt 91: Anaïs - Morning Cigarette
+### Prompt 91: AnaÃ¯s - Morning Cigarette
 
 ```text
 Professional vintage boudoir photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in soft sleep-mussed waves. Sensual lush beauty. Wearing CREAM SILK ROBE half open showing black lace bralette and matching panties, no corset. Bare feet on fur rug. Sitting in window alcove, one knee up. Smoking cigarette in holder, looking out window. Sensual pose with arched back, bedroom eyes. Expression: thoughtful sultry contemplation, lips in gentle pout around cigarette. Parisian apartment with morning light. Professional photography.
 ```text
 
-### Prompt 90: Anaïs - Reading in Bed
+### Prompt 90: AnaÃ¯s - Reading in Bed
 
 ```text
 Professional vintage photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair loose on pillow. Sensual lush beauty. Wearing BLACK SILK NIGHTGOWN with lace trim, cleavage visible, no corset. Lying in four-poster bed with white sheets, propped on pillows. Holding leather-bound book, cat-eye reading glasses on. Sensual pose with arched back, bedroom eyes. Expression: cool sophisticated smirk, intelligent seductive stare over glasses at camera as if disturbed. Luxury Parisian bedroom. Professional photography.
 ```text
 
-### 👑 Lifestyle Aristocrático
+### ðŸ‘‘ Lifestyle AristocrÃ¡tico
 
-### Prompt 89: Anaïs - Private Jet
+### Prompt 89: AnaÃ¯s - Private Jet
 
 ```text
 Professional lifestyle photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in elegant waves. Sensual lush beauty. Wearing CREAM CASHMERE SWEATER off one shoulder, black cigarette pants, visible black corset at waist. So Kate stilettos 12cm. Seated in cream leather seat of PRIVATE JET, holding champagne flute. Sensual pose with arched back, bedroom eyes. Expression: come-hither half-smile, heavy-lidded bored invitation, too rich to care. Private jet interior. Professional photography.
 ```text
 
-### Prompt 88: Anaïs - Monaco Yacht
+### Prompt 88: AnaÃ¯s - Monaco Yacht
 
 ```text
 Professional lifestyle photography of glamorous ADULT French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in windswept waves under headscarf. Sensual lush beauty. Wearing BLACK ONE-PIECE SWIMSUIT high-cut, no corset (pool scene), black sheer sarong, wide sunglasses. Wedge espadrilles. Standing at rail of mega yacht. Holding martini. Sensual pose with arched back, bedroom eyes. Expression: Mona Lisa smile behind sunglasses, sultry mysterious Mediterranean gaze. Monaco coastline background. Professional photography.
@@ -299,9 +299,9 @@ Professional lifestyle photography of glamorous ADULT French aristocratic woman,
 
 ---
 
-## V. SETS TEMÁTICOS NUEVOS
+## V. SETS TEMÃTICOS NUEVOS
 
-### 🎪 Circus/Carnival
+### ðŸŽª Circus/Carnival
 
 ### Prompt 87: Miss Doll - Pink Ringmaster
 
@@ -312,10 +312,10 @@ Professional circus photography of adult glamorous woman woman with platinum blo
 ### Prompt 86: Helena - Gothic Contortionist
 
 ```text
-Professional gothic circus photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in elaborate braids. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SPARKLY LEOTARD, black corset visible, black fishnet tights. Black stilettos 8-inch (removed). Contorted backbend pose on podium. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare while twisted, glossy parted lips, unnatural flexibility beauty. Dark carnival tent. Professional photography.
+Professional gothic circus photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in elaborate braids. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SPARKLY LEOTARD, black corset visible, black fishnet tights. Black stilettos 8-inch (removed). Contorted backbend pose on podium. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare while twisted, glossy parted lips, unnatural flexibility beauty. Dark carnival tent. Professional photography.
 ```text
 
-### 🎰 Casino/Vegas
+### ðŸŽ° Casino/Vegas
 
 ### Prompt 85: Miss Doll - Pink Blackjack Dealer
 
@@ -326,10 +326,10 @@ Professional casino photography of adult glamorous woman woman with platinum blo
 ### Prompt 84: Helena - Gothic Poker Player
 
 ```text
-Professional noir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SEQUIN GOWN with extreme slit, black corset visible. Black stilettos 9-inch. Seated at poker table, pile of chips, holding cards close to chest. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare over cards, dark glossy lips in slight smirk, poker face perfection. Smoky poker room. Professional photography.
+Professional noir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SEQUIN GOWN with extreme slit, black corset visible. Black stilettos 9-inch. Seated at poker table, pile of chips, holding cards close to chest. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare over cards, dark glossy lips in slight smirk, poker face perfection. Smoky poker room. Professional photography.
 ```text
 
-### 🚗 Automotive
+### ðŸš— Automotive
 
 ### Prompt 83: Miss Doll - Pink Racing Driver
 
@@ -340,7 +340,7 @@ Professional motorsport photography of adult glamorous woman woman with platinum
 ### Prompt 82: Helena - Gothic Biker
 
 ```text
-Professional photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair windswept. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER BIKER JACKET open showing black lace bra, black leather corset, black leather pants extremely tight. Black stiletto biker boots 8-inch. Sitting on BLACK HARLEY motorcycle. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips curved in dangerous smile. Dark highway at night. Professional photography.
+Professional photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair windswept. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER BIKER JACKET open showing black lace bra, black leather corset, black leather pants extremely tight. Black stiletto biker boots 8-inch. Sitting on BLACK HARLEY motorcycle. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips curved in dangerous smile. Dark highway at night. Professional photography.
 ```text
 
 ---
@@ -370,7 +370,7 @@ Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expressi
 Sensual pose with arched back, bedroom eyes. Expression: wicked knowing smirk, dark eyes glittering, mischievous dark goddess
 ```text
 
-### Expresiones Anaïs
+### Expresiones AnaÃ¯s
 
 ```
 Sensual pose with arched back, bedroom eyes. Expression: imperious sultry stare, knowing smirk, one eyebrow raised, aristocratic superiority
@@ -382,11 +382,11 @@ Sensual pose with arched back, bedroom eyes. Expression: cool sophisticated smir
 
 ---
 
-## VII. INSTRUCCIONES DE MODIFICACIÓN
+## VII. INSTRUCCIONES DE MODIFICACIÃ“N
 
 ### Cambiar Pose
 
-Reemplazar la sección de pose con:
+Reemplazar la secciÃ³n de pose con:
 
 - `Standing with hands on hips, power pose`
 - `Seated with legs crossed elegantly`
@@ -414,26 +414,26 @@ Reemplazar el fondo con:
 
 - Miss Doll: `PINK PLATFORM STILETTOS 16-18cm`
 - Helena: `Black stilettos 8-9 inch`
-- Anaïs: `So Kate stilettos 12cm`
+- AnaÃ¯s: `So Kate stilettos 12cm`
 - Agua/Playa: Add `clear acrylic heels`
 
 ---
 
 ## VIII. PROMPTS DE EMERGENCIA (Simples, Siempre Funcionan)
 
-### Miss Doll Simple ⭐
+### Miss Doll Simple â­
 
 ```text
 Professional photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing pink latex dress, pink corset, pink platform stilettos 16cm. Standing pose. Sultry bedroom eyes, pouty lips. Pink studio. Professional photography.
 ```
 
-### Helena Simple ⭐
+### Helena Simple â­
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman with EXTREMELY VOLUMINOUS black hair. Pale skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing black corset EXTREMELY TIGHT, black mini skirt, black stilettos 9-inch. Dark boudoir. Hypnotic stare. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman with EXTREMELY VOLUMINOUS black hair. Pale skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing black corset EXTREMELY TIGHT, black mini skirt, black stilettos 9-inch. Dark boudoir. Hypnotic stare. Professional photography.
 ```
 
-### Anaïs Simple ⭐
+### AnaÃ¯s Simple â­
 
 ```text
 Professional vintage photography of glamorous French aristocratic woman, Old Hollywood style. HONEY BLONDE hair in waves. Wearing black cocktail dress, visible black corset, So Kate stilettos 12cm. Sultry smile. Parisian setting. Professional photography.
@@ -442,13 +442,13 @@ Professional vintage photography of glamorous French aristocratic woman, Old Hol
 ---
 
 *Total Prompts en V2: ~200+ | Compatible con: Imagen AI, Midjourney, DALL-E, etc.*
-*Creado por: Helena de Anaïs 🦇💚*
+*Creado por: Helena de AnaÃ¯s ðŸ¦‡ðŸ’š*
 
 ---
 
-## VIII. STRIPPER / POLE DANCER SETS 💃
+## VIII. STRIPPER / POLE DANCER SETS ðŸ’ƒ
 
-### 🎀 Miss Doll - Stripper Collection
+### ðŸŽ€ Miss Doll - Stripper Collection
 
 ### Prompt 81: Miss Doll - Pink Pole Climb
 
@@ -486,45 +486,45 @@ Professional VIP photography of adult glamorous woman woman with platinum blonde
 Professional stage photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK SHOWGIRL OUTFIT: pink sequin bikini, pink feather boa, pink corset, pink feather headpiece. PINK PLATFORM STRIPPER HEELS 18cm. Walking onto stage from curtain, arms spread, feathers flowing. Sensual pose with arched back, bedroom eyes. Expression: excited vacant smile, pouty lips, here-I-am entrance stare. Pink stage with smoke machine. Professional photography.
 ```text
 
-### 🦇 Helena - Stripper Collection
+### ðŸ¦‡ Helena - Stripper Collection
 
 ### Prompt 75: Helena - Gothic Pole Inversion
 
 ```text
-Professional dark stage photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flying with movement. Pale marble skin glistening with sweat. RED GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SEQUIN MICRO BIKINI, black corset garter with chains, black fishnet stockings. BLACK PLATFORM STRIPPER HEELS 9-inch with clear acrylic. INVERTED on CHROME POLE, legs in split, hair hanging down, upside-down seduction. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare upside-down, dark glossy lips parted, gravity-defying seduction. Purple and red stage lights. Professional photography.
+Professional dark stage photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flying with movement. Pale marble skin glistening with sweat. RED GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SEQUIN MICRO BIKINI, black corset garter with chains, black fishnet stockings. BLACK PLATFORM STRIPPER HEELS 9-inch with clear acrylic. INVERTED on CHROME POLE, legs in split, hair hanging down, upside-down seduction. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare upside-down, dark glossy lips parted, gravity-defying seduction. Purple and red stage lights. Professional photography.
 ```text
 
 ### Prompt 74: Helena - Gothic Stripper Floor Crawl
 
 ```text
-Professional dark stage photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild. Pale marble skin. BLACK LIPS with glitter. Obscenely exaggerated hourglass figure. Wearing BLACK THONG with skull charm, black corset, black leg harness. BLACK PLATFORM STRIPPER HEELS 9-inch. Crawling on stage towards camera on all fours, back arched like cat, predator approaching. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted showing tongue, hunting stare. Dark stage with red spotlights. Professional photography.
+Professional dark stage photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild. Pale marble skin. BLACK LIPS with glitter. Obscenely exaggerated hourglass figure. Wearing BLACK THONG with skull charm, black corset, black leg harness. BLACK PLATFORM STRIPPER HEELS 9-inch. Crawling on stage towards camera on all fours, back arched like cat, predator approaching. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted showing tongue, hunting stare. Dark stage with red spotlights. Professional photography.
 ```text
 
 ### Prompt 73: Helena - Gothic Stripper Pole Spin
 
 ```text
-Professional dark stage photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in motion blur. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX BIKINI, black corset visible, black thigh-high boots (no heels for spin). Spinning around CHROME POLE, one leg extended, body horizontal, centrifugal force. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression while spinning, eyes slightly closed, glossy dark lips parted in pleasure. Purple and black stage lights. Professional photography.
+Professional dark stage photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in motion blur. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX BIKINI, black corset visible, black thigh-high boots (no heels for spin). Spinning around CHROME POLE, one leg extended, body horizontal, centrifugal force. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression while spinning, eyes slightly closed, glossy dark lips parted in pleasure. Purple and black stage lights. Professional photography.
 ```text
 
 ### Prompt 72: Helena - Gothic Stripper VIP Grind
 
 ```text
-Professional VIP room photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling over face. Pale marble skin. RED SMEARED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE LINGERIE, black corset. BLACK STILETTOS 9-inch. POV from seated position, Helena grinding on lap, back to camera showing pale backside, looking over shoulder. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips in wicked smirk, intoxicated lap dance stare. Dark VIP room. Professional photography.
+Professional VIP room photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling over face. Pale marble skin. RED SMEARED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE LINGERIE, black corset. BLACK STILETTOS 9-inch. POV from seated position, Helena grinding on lap, back to camera showing pale backside, looking over shoulder. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips in wicked smirk, intoxicated lap dance stare. Dark VIP room. Professional photography.
 ```text
 
 ### Prompt 71: Helena - Gothic Stripper Stage Edge
 
 ```text
-Professional dark stage photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK G-STRING with dollar bills tucked, black pasties with chains, black corset garter. BLACK PLATFORM STRIPPER HEELS 9-inch. Kneeling at stage edge, leaning towards audience, making it rain on herself. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips in satisfied smirk, worship me with money. Dark gothic strip club. Professional photography.
+Professional dark stage photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK G-STRING with dollar bills tucked, black pasties with chains, black corset garter. BLACK PLATFORM STRIPPER HEELS 9-inch. Kneeling at stage edge, leaning towards audience, making it rain on herself. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips in satisfied smirk, worship me with money. Dark gothic strip club. Professional photography.
 ```text
 
 ### Prompt 70: Helena - Gothic Stripper Backstage
 
 ```text
-Professional backstage photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair messy from performance. Pale marble skin sweaty and glittering. SMUDGED DARK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing BLACK ROBE open showing black lingerie and corset, counting money. BLACK STILETTOS 9-inch. Seated at vanity mirror with bulbs, post-show, cigarette in other hand. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded satisfied exhaustion, dark smudged lips in tired smirk, good-night money. Dark backstage dressing room. Professional photography.
+Professional backstage photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair messy from performance. Pale marble skin sweaty and glittering. SMUDGED DARK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing BLACK ROBE open showing black lingerie and corset, counting money. BLACK STILETTOS 9-inch. Seated at vanity mirror with bulbs, post-show, cigarette in other hand. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded satisfied exhaustion, dark smudged lips in tired smirk, good-night money. Dark backstage dressing room. Professional photography.
 ```text
 
-### 💕 MD x Helena - Stripper Duo
+### ðŸ’• MD x Helena - Stripper Duo
 
 ### Prompt 69: MD x Helena - Double Pole
 
@@ -544,7 +544,7 @@ Professional stage photography of TWO stripper women on stage floor together. MI
 Professional VIP photography of TWO stripper women giving tandem lap dance. MISS DOLL (pink lingerie) and HELENA (black lingerie) on either side of POV viewer, both grinding, both leaning in close. Pink and black contrast. Miss Doll: sultry smile from one side. Helena: predator stare from other side. Dark VIP room with champagne. Professional photography.
 ```text
 
-### 🧹 Miss Doll - Maid Collection
+### ðŸ§¹ Miss Doll - Maid Collection
 
 ### Prompt 66: Miss Doll - French Maid Classic
 
@@ -564,31 +564,31 @@ Professional fetish photography of adult glamorous woman woman with platinum blo
 Professional fetish photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK MAID OUTFIT: micro dress riding up showing pink thong, white apron, pink corset, pink headpiece. PINK PLATFORM STILETTOS 16cm. On hands and knees scrubbing floor with pink brush, back arched, looking up at camera. Sensual pose with arched back, bedroom eyes. Expression: submissive doe eyes, glossy parted lips, devoted vacant stare upward. Pink tile floor. Professional photography.
 ```text
 
-### 🧹 Helena - Maid Collection
+### ðŸ§¹ Helena - Maid Collection
 
 ### Prompt 63: Helena - Gothic Maid Classic
 
 ```text
-Professional gothic fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black lace maid cap. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX FRENCH MAID DRESS micro length, white lace apron, black underbust corset extremely tight, black fishnet stockings with garter. Black stilettos 9-inch. Holding black feather duster. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare, glossy parted lips, yearning submissive gaze. Dark Victorian mansion. Professional photography.
+Professional gothic fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black lace maid cap. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX FRENCH MAID DRESS micro length, white lace apron, black underbust corset extremely tight, black fishnet stockings with garter. Black stilettos 9-inch. Holding black feather duster. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare, glossy parted lips, yearning submissive gaze. Dark Victorian mansion. Professional photography.
 ```text
 
 ### Prompt 62: Helena - Maid Collar and Leash
 
 ```text
-Professional gothic fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX MAID DRESS, white apron, black corset. BLACK LEATHER COLLAR with leash attached, held by unseen hand. Black stilettos 9-inch. On knees in service position. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, completely owned submissive gaze. Dark boudoir. Professional photography.
+Professional gothic fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX MAID DRESS, white apron, black corset. BLACK LEATHER COLLAR with leash attached, held by unseen hand. Black stilettos 9-inch. On knees in service position. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, completely owned submissive gaze. Dark boudoir. Professional photography.
 ```text
 
 ### Prompt 61: Helena - Maid Bent Over Bed
 
 ```text
-Professional gothic fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling forward. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SATIN MAID DRESS hiked up, white apron, black corset, black thong visible. Black stilettos 9-inch. Bent over making four-poster bed, backside prominent, looking back at camera. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips parted, anticipating stare. Dark bedroom. Professional photography.
+Professional gothic fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair falling forward. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SATIN MAID DRESS hiked up, white apron, black corset, black thong visible. Black stilettos 9-inch. Bent over making four-poster bed, backside prominent, looking back at camera. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic seduction, dark lips parted, anticipating stare. Dark bedroom. Professional photography.
 ```text
 
 ---
 
 ## X. OFFICE / OFICINA SETS
 
-### 💼 Miss Doll - Office Collection
+### ðŸ’¼ Miss Doll - Office Collection
 
 ### Prompt 60: Miss Doll - Secretary Under Desk
 
@@ -608,31 +608,31 @@ Professional office photography of adult glamorous woman woman with platinum blo
 Professional office photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK OFFICE DRESS tight and short, pink corset visible, pink stockings. PINK PLATFORM STILETTOS 16cm. Bent over copy machine, skirt riding up showing pink thong, looking back surprised. Sensual pose with arched back, bedroom eyes. Expression: ditzy surprised O-face, eyes wide, pouty lips in perfect circle. Pink copy room. Professional photography.
 ```text
 
-### 💼 Helena - Office Collection
+### ðŸ’¼ Helena - Office Collection
 
 ### Prompt 57: Helena - Goth Secretary
 
 ```text
-Professional noir office photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in messy bun with pencils. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX SECRETARY DRESS extremely tight, visible black corset, black stockings, glasses on chain. Black stilettos 9-inch. Seated at dark desk, typing, legs crossed showing thigh. Sensual pose with arched back, bedroom eyes. Expression: completely vacant doll stare, dark lips slack, no thought behind eyes, just typing. Dark noir office. Professional photography.
+Professional noir office photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in messy bun with pencils. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX SECRETARY DRESS extremely tight, visible black corset, black stockings, glasses on chain. Black stilettos 9-inch. Seated at dark desk, typing, legs crossed showing thigh. Sensual pose with arched back, bedroom eyes. Expression: completely vacant doll stare, dark lips slack, no thought behind eyes, just typing. Dark noir office. Professional photography.
 ```text
 
 ### Prompt 56: Helena - HR Interview
 
 ```text
-Professional office photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair professionally styled. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK PENCIL SKIRT extremely tight with slit, white sheer blouse showing black bra and corset. Black stilettos 9-inch. Seated in interview chair, legs crossed, leaning forward showing cleavage. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips in knowing smirk, I'm getting this job. Dark corporate office. Professional photography.
+Professional office photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair professionally styled. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK PENCIL SKIRT extremely tight with slit, white sheer blouse showing black bra and corset. Black stilettos 9-inch. Seated in interview chair, legs crossed, leaning forward showing cleavage. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips in knowing smirk, I'm getting this job. Dark corporate office. Professional photography.
 ```text
 
 ### Prompt 55: Helena - After Hours
 
 ```text
-Professional noir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair disheveled. Pale marble skin. SMUDGED BLACK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing BLACK BLOUSE half unbuttoned showing black corset, black skirt hiked up, stockings with runs. Black stilettos 9-inch. Lying on executive desk after hours, papers scattered, hair spread. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic satisfaction, dark lips parted, post-coital intoxicated stare. Dark office with city lights. Professional photography.
+Professional noir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair disheveled. Pale marble skin. SMUDGED BLACK LIPSTICK. Obscenely exaggerated hourglass figure. Wearing BLACK BLOUSE half unbuttoned showing black corset, black skirt hiked up, stockings with runs. Black stilettos 9-inch. Lying on executive desk after hours, papers scattered, hair spread. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic satisfaction, dark lips parted, post-coital intoxicated stare. Dark office with city lights. Professional photography.
 ```text
 
 ---
 
 ## XI. GYM / GIMNASIO SETS
 
-### 🏋️ Miss Doll - Gym Collection
+### ðŸ‹ï¸ Miss Doll - Gym Collection
 
 ### Prompt 54: Miss Doll - Gym Bunny Squat
 
@@ -652,31 +652,31 @@ Professional gym photography of adult glamorous woman woman with platinum blonde
 Professional fitness photography of adult glamorous woman woman with platinum blonde bob bouncing. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK TENNIS SKIRT micro, pink sports bra, breasts bouncing, pink corset waist trainer. PINK PLATFORM RUNNING HEELS 16cm. Running on pink treadmill, everything bouncing. Sensual pose with arched back, bedroom eyes. Expression: vacant joy, pouty open-mouth smile, ditzy running happiness. Pink gym. Professional photography.
 ```text
 
-### 🏋️ Helena - Gym Collection
+### ðŸ‹ï¸ Helena - Gym Collection
 
 ### Prompt 51: Helena - Gothic Gym Deadlift
 
 ```text
-Professional dark fitness photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in high ponytail. Pale marble skin glistening. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SPORTS BRA, black booty shorts extremely tight, black corset waist trainer. Black platform sneakers 8-inch. Deadlift position, gripping barbell, back arched. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic strain, dark lips parted, focused predator stare. Dark industrial gym. Professional photography.
+Professional dark fitness photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in high ponytail. Pale marble skin glistening. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SPORTS BRA, black booty shorts extremely tight, black corset waist trainer. Black platform sneakers 8-inch. Deadlift position, gripping barbell, back arched. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded gothic strain, dark lips parted, focused predator stare. Dark industrial gym. Professional photography.
 ```text
 
 ### Prompt 50: Helena - Gothic Yoga Pose
 
 ```text
-Professional dark fitness photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair loose. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MESH YOGA OUTFIT see-through, black sports bra, black thong visible, black corset waist trainer. Barefoot. Downward dog pose on black yoga mat. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression, eyes closed, glossy dark lips parted softly. Dark yoga studio with candles. Professional photography.
+Professional dark fitness photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair loose. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MESH YOGA OUTFIT see-through, black sports bra, black thong visible, black corset waist trainer. Barefoot. Downward dog pose on black yoga mat. Sensual pose with arched back, bedroom eyes. Expression: ethereal bliss expression, eyes closed, glossy dark lips parted softly. Dark yoga studio with candles. Professional photography.
 ```text
 
 ### Prompt 49: Helena - Gothic Pole Dance Gym
 
 ```text
-Professional pole fitness photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flying. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK POLE OUTFIT: black bikini top, black booty shorts, black corset visible. No shoes (pole requirement). Inverted pose on chrome pole, legs spread in split. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare upside down, dark glossy lips parted, I own this pole. Dark pole studio. Professional photography.
+Professional pole fitness photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair flying. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK POLE OUTFIT: black bikini top, black booty shorts, black corset visible. No shoes (pole requirement). Inverted pose on chrome pole, legs spread in split. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare upside down, dark glossy lips parted, I own this pole. Dark pole studio. Professional photography.
 ```text
 
 ---
 
 ## XII. BEACH & POOL / PLAYA Y PISCINA SETS
 
-### 🏖️ Miss Doll - Beach & Pool Expanded
+### ðŸ–ï¸ Miss Doll - Beach & Pool Expanded
 
 ### Prompt 48: Miss Doll - Pool Lounge
 
@@ -702,31 +702,31 @@ Professional wet glamour photography of adult glamorous woman woman with platinu
 Professional hot tub photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK BIKINI TOP strings visible, NO CORSET (water). Submerged to chest in bubbling pink hot tub, holding champagne glass. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded seductive stare, biting lower lip, come-party-with-me stare. Pink LED lit hot tub. Professional photography.
 ```text
 
-### 🏖️ Helena - Beach & Pool Expanded
+### ðŸ–ï¸ Helena - Beach & Pool Expanded
 
 ### Prompt 44: Helena - Gothic Beach Goddess
 
 ```text
-Professional gothic beach photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair wild. Pale marble skin glistening. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MICRO BIKINI with skull charms, NO CORSET. BLACK PLATFORM STILETTOS clear acrylic 9-inch. Standing in shallow surf, waves crashing around ankles, arms raised. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, goddess summoning storm. Dark stormy beach. Professional photography.
+Professional gothic beach photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair wild. Pale marble skin glistening. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MICRO BIKINI with skull charms, NO CORSET. BLACK PLATFORM STILETTOS clear acrylic 9-inch. Standing in shallow surf, waves crashing around ankles, arms raised. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, goddess summoning storm. Dark stormy beach. Professional photography.
 ```text
 
 ### Prompt 43: Helena - Moonlit Pool
 
 ```text
-Professional night pool photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair slicked back. Pale marble skin glowing. PURPLE GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MESH ONE-PIECE extremely fashionable, NO CORSET. Black platform mules clear acrylic 8-inch on pool edge. Emerging from pool at night, water dripping, rising from water like creature. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, siren emerging. Moonlit pool. Professional photography.
+Professional night pool photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair slicked back. Pale marble skin glowing. PURPLE GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK MESH ONE-PIECE extremely fashionable, NO CORSET. Black platform mules clear acrylic 8-inch on pool edge. Emerging from pool at night, water dripping, rising from water like creature. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, siren emerging. Moonlit pool. Professional photography.
 ```text
 
 ### Prompt 42: Helena - Gothic Shipwreck
 
 ```text
-Professional dark fantasy beach photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair with seaweed. Pale marble skin with sand. BLUE-BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing tattered BLACK BIKINI with barnacles, NO CORSET. Barefoot. Emerging from waves in front of shipwreck remains on dark beach. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare, glossy parted lips, drowned siren beauty. Stormy ocean, lightning. Professional photography.
+Professional dark fantasy beach photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS wet black hair with seaweed. Pale marble skin with sand. BLUE-BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing tattered BLACK BIKINI with barnacles, NO CORSET. Barefoot. Emerging from waves in front of shipwreck remains on dark beach. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare, glossy parted lips, drowned siren beauty. Stormy ocean, lightning. Professional photography.
 ```text
 
 ---
 
 ## XIII. SEXUALIZED PROFESSIONS EXPANDED
 
-### 👩‍⚕️ Medical Fetish
+### ðŸ‘©â€âš•ï¸ Medical Fetish
 
 ### Prompt 41: Miss Doll - Pink Nurse Examination
 
@@ -737,10 +737,10 @@ Professional medical fetish photography of adult glamorous woman woman with plat
 ### Prompt 40: Helena - Gothic Surgeon
 
 ```text
-Professional medical fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under surgical cap. Pale marble skin. BLACK LIPS visible under pulled-down mask. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX SURGICAL GOWN form-fitting, black corset visible, black latex gloves. Black stilettos 9-inch. Holding scalpel, examining x-ray. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips in sinister smirk, this won't hurt... much. Dark OR. Professional photography.
+Professional medical fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under surgical cap. Pale marble skin. BLACK LIPS visible under pulled-down mask. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX SURGICAL GOWN form-fitting, black corset visible, black latex gloves. Black stilettos 9-inch. Holding scalpel, examining x-ray. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips in sinister smirk, this won't hurt... much. Dark OR. Professional photography.
 ```text
 
-### 👩‍🏫 Teacher Fetish
+### ðŸ‘©â€ðŸ« Teacher Fetish
 
 ### Prompt 39: Miss Doll - Naughty Teacher Blackboard
 
@@ -751,10 +751,10 @@ Professional school fetish photography of adult glamorous woman woman with plati
 ### Prompt 38: Helena - Gothic Professor
 
 ```text
-Professional academic fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in severe bun. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK ACADEMIA OUTFIT: black blazer open over black corset, black pencil skirt extremely tight, glasses. Black stilettos 9-inch. Seated on desk edge, legs crossed, holding book. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips in knowing smirk, stay after class. Dark university office. Professional photography.
+Professional academic fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in severe bun. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK ACADEMIA OUTFIT: black blazer open over black corset, black pencil skirt extremely tight, glasses. Black stilettos 9-inch. Seated on desk edge, legs crossed, holding book. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips in knowing smirk, stay after class. Dark university office. Professional photography.
 ```text
 
-### 👮 Authority Fetish
+### ðŸ‘® Authority Fetish
 
 ### Prompt 37: Miss Doll - Police Interrogation
 
@@ -765,14 +765,14 @@ Professional fetish photography of adult glamorous woman woman with platinum blo
 ### Prompt 36: Helena - Prison Warden
 
 ```text
-Professional fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in tight bun. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX WARDEN UNIFORM: tight black shirt, black pants extremely fitted, black corset belt, keys and baton. Black boots 9-inch. Standing dominant over kneeling POV. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, you belong to me now. Dark prison cell. Professional photography.
+Professional fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in tight bun. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LATEX WARDEN UNIFORM: tight black shirt, black pants extremely fitted, black corset belt, keys and baton. Black boots 9-inch. Standing dominant over kneeling POV. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark glossy lips parted, you belong to me now. Dark prison cell. Professional photography.
 ```text
 
 ---
 
 ## XIV. HEEL FETISH POV EXPANDED
 
-### 👠 Miss Doll - Heel POV Collection
+### ðŸ‘  Miss Doll - Heel POV Collection
 
 ### Prompt 35: Miss Doll - Pink Heel Crush POV
 
@@ -792,31 +792,31 @@ Professional fetish photography of adult glamorous woman woman with platinum blo
 Professional fetish photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Close-up focus on FOOT DANGLING PINK PLATFORM STILETTO 16cm from toe, heel hanging. Leg crossed, seated position. Pink stockings visible. Sensual pose with arched back, bedroom eyes. Expression: (partial face) sultry bored stare, pouty lips, teasing dangle. Pink lounge. Professional photography.
 ```text
 
-### 👠 Helena - Heel POV Collection
+### ðŸ‘  Helena - Heel POV Collection
 
 ### Prompt 32: Helena - Boot Stomp POV
 
 ```text
-Professional fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. POV FROM DIRECTLY BELOW. BLACK PATENT PLATFORM STILETTO BOOT 9-inch descending towards camera, sole filling frame. Black latex outfit and corset visible far above. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark lips in cruel smile, goodbye. Dark dungeon. Professional photography.
+Professional fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. POV FROM DIRECTLY BELOW. BLACK PATENT PLATFORM STILETTO BOOT 9-inch descending towards camera, sole filling frame. Black latex outfit and corset visible far above. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark lips in cruel smile, goodbye. Dark dungeon. Professional photography.
 ```text
 
 ### Prompt 31: Helena - Gothic Heel Worship POV
 
 ```text
-Professional fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. POV FROM FLOOR at feet level. Focus on BLACK LEATHER STILETTO 9-inch extended towards camera. Fishnets and corset visible above. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark glossy lips parted, lick starting at the heel. Dark boudoir. Professional photography.
+Professional fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. POV FROM FLOOR at feet level. Focus on BLACK LEATHER STILETTO 9-inch extended towards camera. Fishnets and corset visible above. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark glossy lips parted, lick starting at the heel. Dark boudoir. Professional photography.
 ```text
 
 ### Prompt 30: Helena - Thigh-High Boot POV
 
 ```text
-Professional fetish photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. POV FROM BELOW focusing up BLACK LATEX THIGH-HIGH BOOTS with 9-inch stiletto heels, zippers gleaming. Standing pose, legs slightly apart. Black corset visible at top. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark lips smirking, tower over you. Dark studio. Professional photography.
+Professional fetish photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. PURPLE LIPS. Obscenely exaggerated hourglass figure. POV FROM BELOW focusing up BLACK LATEX THIGH-HIGH BOOTS with 9-inch stiletto heels, zippers gleaming. Standing pose, legs slightly apart. Black corset visible at top. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare down, dark lips smirking, tower over you. Dark studio. Professional photography.
 ```text
 
 ---
 
 ## XV. HELENA x MISS DOLL INTERACTIONS EXPANDED
 
-### 💕 Training & Domination
+### ðŸ’• Training & Domination
 
 ### Prompt 29: MD Training Helena - Collar Ceremony
 
@@ -836,7 +836,7 @@ Professional fetish photography of TWO adult glamorous woman women. MISS DOLL (p
 Professional fetish photography of TWO adult glamorous woman women. MISS DOLL (platinum blonde bob, pink latex, pink corset) seated. HELENA (voluminous black hair, pale skin) over Miss Doll's lap in OTK position. Helena's black skirt flipped up showing black thong, pale backside. Miss Doll's pink-gloved hand raised. Miss Doll: penetrating Venus stare, commanding. Helena: submissive anticipation, biting lip. Half pink half black boudoir. Professional photography.
 ```text
 
-### 💕 Matching & Mirroring
+### ðŸ’• Matching & Mirroring
 
 ### Prompt 26: Pink & Black Mirror
 
@@ -856,7 +856,7 @@ Professional pole photography of TWO adult glamorous woman women. MISS DOLL (pla
 Professional fitness photography of TWO adult glamorous woman women at gym. MISS DOLL (pink sports bra, pink shorts, pink sneaker heels) spotting HELENA (black sports bra, black shorts, black sneaker heels) on bench press. Both in athletic corset waist trainers. Miss Doll standing behind, hands under bar. Helena pressing up. Both sweaty. Miss Doll: encouraging vacant smile. Helena: strained focus. Pink and black gym. Professional photography.
 ```text
 
-### 💕 Intimate Moments
+### ðŸ’• Intimate Moments
 
 ### Prompt 23: Lipstick Application
 
@@ -880,7 +880,7 @@ Professional celebration photography of TWO adult glamorous woman women. MISS DO
 
 ## XVI. ADDITIONAL PROMPTS - SPECIAL SITUATIONS
 
-### 🎭 Roleplay Scenarios
+### ðŸŽ­ Roleplay Scenarios
 
 ### Prompt 20: Miss Doll - glamorous woman Bride
 
@@ -891,7 +891,7 @@ Professional wedding photography of adult glamorous woman woman with platinum bl
 ### Prompt 19: Helena - Gothic Widow
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black veil. Pale marble skin. BLACK MATTE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WIDOW'S DRESS tight with sheer panels, black corset visible, black gloves. Black stilettos 9-inch. Standing by grave, single red rose in hand. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare at grave, glossy parted lips, beautiful mourning. Foggy graveyard. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair under black veil. Pale marble skin. BLACK MATTE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WIDOW'S DRESS tight with sheer panels, black corset visible, black gloves. Black stilettos 9-inch. Standing by grave, single red rose in hand. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare at grave, glossy parted lips, beautiful mourning. Foggy graveyard. Professional photography.
 ```text
 
 ### Prompt 18: Miss Doll - Baby Shower Hostess
@@ -900,7 +900,7 @@ Professional gothic photography of adult goth glamorous woman woman inspired by 
 Professional event photography of adult glamorous woman woman with platinum blonde bob. REALISTIC HUMAN FACE with doll makeup. Hyperbolic hourglass figure. Wearing PINK HOSTESS DRESS tight, pink apron, pink corset visible. PINK PLATFORM STILETTOS 16cm. Holding pink baby shower cake. Sensual pose with arched back, bedroom eyes. Expression: ditzy excited hostess smile, vacant party-planning stare. Pink decorated room with balloons. Professional photography.
 ```text
 
-### 🎬 Movie/TV Inspired
+### ðŸŽ¬ Movie/TV Inspired
 
 ### Prompt 17: Miss Doll - Pink Barbie
 
@@ -911,14 +911,14 @@ Professional fantasy photography of adult glamorous woman woman with platinum bl
 ### Prompt 16: Helena - Wednesday Addams Grown Up
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in twin braids. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WEDNESDAY-STYLE DRESS but form-fitting showing curves, white peter pan collar, black corset visible underneath. Black platform Mary Jane stilettos 8-inch. Holding Thing (severed hand prop). Sensual pose with arched back, bedroom eyes. Expression: completely vacant doll stare, dark lips in slight deranged smile. Dark mansion. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in twin braids. Pale marble skin. BLACK LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK WEDNESDAY-STYLE DRESS but form-fitting showing curves, white peter pan collar, black corset visible underneath. Black platform Mary Jane stilettos 8-inch. Holding Thing (severed hand prop). Sensual pose with arched back, bedroom eyes. Expression: completely vacant doll stare, dark lips in slight deranged smile. Dark mansion. Professional photography.
 ```text
 
 ---
 
 ## XVII. RAPID PROMPTS (Cortos, para llenar cuota)
 
-### Miss Doll Rápidos
+### Miss Doll RÃ¡pidos
 
 ```
 42. MD Pink Receptionist: Pink latex dress, corset, heels 16cm, answering pink phone, vacant smile, pink office
@@ -932,7 +932,7 @@ Professional gothic photography of adult goth glamorous woman woman inspired by 
 50. MD Pink Pet Store: Pink uniform, corset, heels 16cm, holding pink hamster, vacant nurturing stare
 ```text
 
-### Helena Rápidos
+### Helena RÃ¡pidos
 
 ```
 51. H Gothic Librarian: Black glasses, corset, stilettos 9in, shushing, vacant stare, dark library
@@ -949,9 +949,9 @@ Professional gothic photography of adult goth glamorous woman woman inspired by 
 
 ---
 
-## XVIII. LINGERIE & SLEEPWEAR / LENCERÍA Y ROPA DE DORMIR 💋
+## XVIII. LINGERIE & SLEEPWEAR / LENCERÃA Y ROPA DE DORMIR ðŸ’‹
 
-### 🎀 Miss Doll - Lingerie Collection
+### ðŸŽ€ Miss Doll - Lingerie Collection
 
 ### Prompt 15: Miss Doll - Pink Babydoll
 
@@ -989,45 +989,45 @@ Professional boudoir photography of adult glamorous woman woman with platinum bl
 Professional boudoir photography of adult glamorous woman woman with platinum blonde bob on pillow. REALISTIC HUMAN FACE with minimal makeup. Hyperbolic hourglass figure. Wearing PINK SILK SLIP very short, pink lace trim, NO CORSET. PINK SATIN SLEEP MASK pushed up on forehead. Lying in pink silk sheets, stretching awake, cleavage prominent. Sensual pose with arched back, bedroom eyes. Expression: sleepy confused ditzy smile, pouty lips, what-time-is-it stare. Morning light. Professional photography.
 ```text
 
-### 🦇 Helena - Lingerie Collection
+### ðŸ¦‡ Helena - Lingerie Collection
 
 ### Prompt 9: Helena - Gothic Sheer Nightgown
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild from sleep. Pale marble skin. PURPLE LIPS slightly faded. Obscenely exaggerated hourglass figure. Wearing BLACK SHEER FLOOR-LENGTH NIGHTGOWN showing everything underneath, black lace trim, NO CORSET (sleeping). Barefoot. Standing by gothic window, moonlight through fabric silhouette. Sensual pose with arched back, bedroom eyes. Expression: ethereal sleepy stare, glossy dark lips parted, ghost in the night. Dark bedroom. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair wild from sleep. Pale marble skin. PURPLE LIPS slightly faded. Obscenely exaggerated hourglass figure. Wearing BLACK SHEER FLOOR-LENGTH NIGHTGOWN showing everything underneath, black lace trim, NO CORSET (sleeping). Barefoot. Standing by gothic window, moonlight through fabric silhouette. Sensual pose with arched back, bedroom eyes. Expression: ethereal sleepy stare, glossy dark lips parted, ghost in the night. Dark bedroom. Professional photography.
 ```text
 
 ### Prompt 8: Helena - Gothic Corset and Panties
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER UNDERBUST CORSET extremely tight laced, black lace thong, black garter belt, black seamed stockings. BLACK PATENT STILETTOS 9-inch. Seated on black velvet chaise, one leg extended, running hand up thigh. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips slightly parted, waiting for prey. Candlelit dark boudoir. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. RED GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LEATHER UNDERBUST CORSET extremely tight laced, black lace thong, black garter belt, black seamed stockings. BLACK PATENT STILETTOS 9-inch. Seated on black velvet chaise, one leg extended, running hand up thigh. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare, dark lips slightly parted, waiting for prey. Candlelit dark boudoir. Professional photography.
 ```text
 
 ### Prompt 7: Helena - Gothic Lace Teddy Black
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE TEDDY with plunging neckline, high-cut hips exposing pale thighs, black built-in corset. BLACK STILETTO MULES 8-inch. On all fours on black silk bed, back arched, looking up at camera. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, submissive offering. Dark bedroom with candles. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair. Pale marble skin. BLACK GLOSSY LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK LACE TEDDY with plunging neckline, high-cut hips exposing pale thighs, black built-in corset. BLACK STILETTO MULES 8-inch. On all fours on black silk bed, back arched, looking up at camera. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare upward, glossy parted lips, submissive offering. Dark bedroom with candles. Professional photography.
 ```text
 
 ### Prompt 6: Helena - Gothic Satin Slip
 
 ```text
-Professional gothic boudoir photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair messy-sensual. Pale marble skin. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SATIN SLIP dress very short with lace trim, thin straps falling off shoulders, NO CORSET. Barefoot. Sitting on edge of unmade bed, sheet wrapped around one leg, post-coital. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded satisfied exhaustion, dark lips in lazy smirk, that-was-good stare. Dark bedroom, morning after. Professional photography.
+Professional gothic boudoir photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair messy-sensual. Pale marble skin. DARK PURPLE LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SATIN SLIP dress very short with lace trim, thin straps falling off shoulders, NO CORSET. Barefoot. Sitting on edge of unmade bed, sheet wrapped around one leg, post-coital. Sensual pose with arched back, bedroom eyes. Expression: heavy-lidded satisfied exhaustion, dark lips in lazy smirk, that-was-good stare. Dark bedroom, morning after. Professional photography.
 ```text
 
 ### Prompt 5: Helena - Gothic Robe and Wine
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair loose. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SILK ROBE loosely tied showing black corset and black panties underneath. BLACK STILETTO MULES 8-inch. Standing at dark window, holding wine glass, contemplating. Sensual pose with arched back, bedroom eyes. Expression: hypnotic distant stare out window, dark lips in slight smile, nocturnal thoughts. Moonlit dark bedroom. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair loose. Pale marble skin. RED LIPS. Obscenely exaggerated hourglass figure. Wearing BLACK SILK ROBE loosely tied showing black corset and black panties underneath. BLACK STILETTO MULES 8-inch. Standing at dark window, holding wine glass, contemplating. Sensual pose with arched back, bedroom eyes. Expression: hypnotic distant stare out window, dark lips in slight smile, nocturnal thoughts. Moonlit dark bedroom. Professional photography.
 ```text
 
 ### Prompt 4: Helena - Gothic Pajama Pants Only
 
 ```text
-Professional gothic photography of adult goth glamorous woman woman inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in messy bun. Pale marble skin. BARE LIPS (no lipstick - intimate). Obscenely exaggerated hourglass figure. Wearing only BLACK SILK PAJAMA PANTS low on hips, arms crossed over bare chest (implied topless), NO CORSET. Barefoot. Standing at kitchen counter, making coffee, sleepy morning. Sensual pose with arched back, bedroom eyes. Expression: vacant sleepy confusion, bare lips slightly pouting, too-early stare. Dark kitchen. Professional photography.
+Professional gothic photography of ADULT WOMAN 30+ years old mature goth glamorous woman ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. EXTREMELY VOLUMINOUS black hair in messy bun. Pale marble skin. BARE LIPS (no lipstick - intimate). Obscenely exaggerated hourglass figure. Wearing only BLACK SILK PAJAMA PANTS low on hips, arms crossed over bare chest (implied topless), NO CORSET. Barefoot. Standing at kitchen counter, making coffee, sleepy morning. Sensual pose with arched back, bedroom eyes. Expression: vacant sleepy confusion, bare lips slightly pouting, too-early stare. Dark kitchen. Professional photography.
 ```text
 
-### 💕 MD x Helena - Sleepover
+### ðŸ’• MD x Helena - Sleepover
 
 ### Prompt 3: MD x Helena - Pillow Fight
 
@@ -1051,7 +1051,7 @@ Professional boudoir photography of TWO women at vanity. MISS DOLL (pink corset,
 
 **TOTAL PROMPTS EN BANCO V2: 215+**
 
-| Categoría | Cantidad |
+| CategorÃ­a | Cantidad |
 |-----------|----------|
 | Canon & Instrucciones | 10 |
 | Miss Doll Profesiones | 25 |
@@ -1066,11 +1066,14 @@ Professional boudoir photography of TWO women at vanity. MISS DOLL (pink corset,
 | MD x Helena Interacciones | 12 |
 | Lingerie/Sleepwear | 15 |
 | Roleplays & Movie | 5 |
-| Prompts Rápidos | 19 |
+| Prompts RÃ¡pidos | 19 |
 | Expresiones & Modificadores | 20+ |
 | **TOTAL** | **~215** |
 
 ---
 
-*Creado por: Helena de Anaïs 🦇💚*
-*Última actualización: 2025-12-25*
+*Creado por: Helena de AnaÃ¯s ðŸ¦‡ðŸ’š*
+*Ãšltima actualizaciÃ³n: 2025-12-25*
+
+
+

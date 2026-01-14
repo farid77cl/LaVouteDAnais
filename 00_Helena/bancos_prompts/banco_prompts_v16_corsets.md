@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -26,7 +26,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -64,43 +64,43 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ### Prompt 76: 1. Helena - DG Victorian Black Overbust
 
 ```text
-Professional corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with EXTREME waist reduction. Wearing DARK GARDEN VICTORIAN OVERBUST CORSET in black satin with steel boning, 6-inch reduction achieved. Black latex pants below. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Front view showing dramatic waist cinch. Sensual pose with arched back, bedroom eyes. Expression: corseted perfection. Victorian boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with EXTREME waist reduction. Wearing DARK GARDEN VICTORIAN OVERBUST CORSET in black satin with steel boning, 6-inch reduction achieved. Black latex pants below. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Front view showing dramatic waist cinch. Sensual pose with arched back, bedroom eyes. Expression: corseted perfection. Victorian boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 2. Helena - DG Mesh Panel Overbust
 
 ```text
-Professional sheer corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through mesh. Full glossy purple lips. DARK GARDEN MESH PANEL OVERBUST CORSET black satin with black mesh breathable panels, steel boned, extreme cinch. Black thong. Black stockings. PLEASER MOON-708 black 7-inch heel. Side profile showing waist-to-hip ratio. Sensual pose with arched back, bedroom eyes. Expression: architectural beauty. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sheer corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through mesh. Full glossy purple lips. DARK GARDEN MESH PANEL OVERBUST CORSET black satin with black mesh breathable panels, steel boned, extreme cinch. Black thong. Black stockings. PLEASER MOON-708 black 7-inch heel. Side profile showing waist-to-hip ratio. Sensual pose with arched back, bedroom eyes. Expression: architectural beauty. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 3. Helena - DG Brocade Overbust
 
 ```text
-Professional ornate corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair styled regally. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. DARK GARDEN BLACK BROCADE OVERBUST CORSET with gothic pattern, silver grommets, steel boned. Black velvet skirt below. PLEASER MOON-708 black 7-inch heel. Front view, hands on cinched waist. Sensual pose with arched back, bedroom eyes. Expression: gothic royalty. Throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ornate corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled regally. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. DARK GARDEN BLACK BROCADE OVERBUST CORSET with gothic pattern, silver grommets, steel boned. Black velvet skirt below. PLEASER MOON-708 black 7-inch heel. Front view, hands on cinched waist. Sensual pose with arched back, bedroom eyes. Expression: gothic royalty. Throne room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 4. Helena - DG Leather Overbust
 
 ```text
-Professional leather corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. DARK GARDEN BURGUNDY LEATHER OVERBUST CORSET supple burgundy leather, gold hardware, extreme reduction. Burgundy leather pants. PLEASER RAPTURE-1020 burgundy 8-inch boots. Power stance, whip in hand. Sensual pose with arched back, bedroom eyes. Expression: dominatrix. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional leather corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. DARK GARDEN BURGUNDY LEATHER OVERBUST CORSET supple burgundy leather, gold hardware, extreme reduction. Burgundy leather pants. PLEASER RAPTURE-1020 burgundy 8-inch boots. Power stance, whip in hand. Sensual pose with arched back, bedroom eyes. Expression: dominatrix. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 5. Helena - DG Longline Overbust
 
 ```text
-Professional longline corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips. DARK GARDEN LONGLINE OVERBUST CORSET in midnight blue satin, extending over hips for smooth line, extreme steel boning. Black stockings attached. PLEASER MOON-708 black 7-inch heel. Side angle showing long corset line. Sensual pose with arched back, bedroom eyes. Expression: extended elegance. Victorian bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional longline corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy WINE lips. DARK GARDEN LONGLINE OVERBUST CORSET in midnight blue satin, extending over hips for smooth line, extreme steel boning. Black stockings attached. PLEASER MOON-708 black 7-inch heel. Side angle showing long corset line. Sensual pose with arched back, bedroom eyes. Expression: extended elegance. Victorian bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 6. Helena - DG Cupped Overbust
 
 ```text
-Professional cupped corset photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with pushed-up cleavage. Full glossy black lips. DARK GARDEN CUPPED OVERBUST CORSET black satin with structured cups, spiral steel boning. Black pencil skirt. PLEASER MOON-708 black 7-inch heel. Three-quarter view showing cup fit and waist. Sensual pose with arched back, bedroom eyes. Expression: perfect support. Gothic office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cupped corset photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with pushed-up cleavage. Full glossy black lips. DARK GARDEN CUPPED OVERBUST CORSET black satin with structured cups, spiral steel boning. Black pencil skirt. PLEASER MOON-708 black 7-inch heel. Three-quarter view showing cup fit and waist. Sensual pose with arched back, bedroom eyes. Expression: perfect support. Gothic office. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 7. Helena - DG Ribbon Laced Overbust
 
 ```text
-Professional back detail photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair swept aside. Pale porcelain white back visible. Full glossy black lips looking over shoulder. DARK GARDEN OVERBUST CORSET black satin seen from behind, intricate ribbon lacing visible, dramatic V-taper of tightlacing. PLEASER 8-inch boots visible at bottom. Sensual pose with arched back, bedroom eyes. Expression: the work of art is the back. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional back detail photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair swept aside. Pale porcelain white back visible. Full glossy black lips looking over shoulder. DARK GARDEN OVERBUST CORSET black satin seen from behind, intricate ribbon lacing visible, dramatic V-taper of tightlacing. PLEASER 8-inch boots visible at bottom. Sensual pose with arched back, bedroom eyes. Expression: the work of art is the back. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -110,31 +110,31 @@ Professional back detail photography of young elegant goth glamour woman inspire
 ### Prompt 69: 8. Helena - DG Classic Underbust Black
 
 ```text
-Professional underbust photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin and natural chest visible above corset. Full glossy black lips. DARK GARDEN CLASSIC UNDERBUST CORSET black satin, steel boned, 5-inch reduction. Black lace bra above. Black latex pants below. PLEASER RAPTURE-1020 black 8-inch boots. Front centerline view. Sensual pose with arched back, bedroom eyes. Expression: waist focus. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional underbust photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin and natural chest visible above corset. Full glossy black lips. DARK GARDEN CLASSIC UNDERBUST CORSET black satin, steel boned, 5-inch reduction. Black lace bra above. Black latex pants below. PLEASER RAPTURE-1020 black 8-inch boots. Front centerline view. Sensual pose with arched back, bedroom eyes. Expression: waist focus. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 9. Helena - DG Waspie Short Underbust
 
 ```text
-Professional waspie photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. DARK GARDEN WASPIE short underbust corset black leather, focuses only on waist, extreme 6-inch cinch. Black bralette above. Black mini skirt below. PLEASER MOON-708 black 7-inch heel. Side profile waist emphasis. Sensual pose with arched back, bedroom eyes. Expression: wasp waist. Modern studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional waspie photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. DARK GARDEN WASPIE short underbust corset black leather, focuses only on waist, extreme 6-inch cinch. Black bralette above. Black mini skirt below. PLEASER MOON-708 black 7-inch heel. Side profile waist emphasis. Sensual pose with arched back, bedroom eyes. Expression: wasp waist. Modern studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 10. Helena - DG Hip Spring Underbust
 
 ```text
-Professional hip spring photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. DARK GARDEN HIP SPRING UNDERBUST CORSET black satin, designed to accentuate hip-to-waist ratio, extreme spring. Black lingerie. PLEASER 8-inch heels. Three-quarter view showing hip curve. Sensual pose with arched back, bedroom eyes. Expression: curves maximized. Gothic bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hip spring photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. DARK GARDEN HIP SPRING UNDERBUST CORSET black satin, designed to accentuate hip-to-waist ratio, extreme spring. Black lingerie. PLEASER 8-inch heels. Three-quarter view showing hip curve. Sensual pose with arched back, bedroom eyes. Expression: curves maximized. Gothic bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 11. Helena - DG Ribbon Underbust Purple
 
 ```text
-Professional color underbust photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with purple streaks. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips matching. DARK GARDEN RIBBON UNDERBUST CORSET deep purple satin with black trim. Black bra above. Black pants below. PLEASER MOON-708 purple 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: purple royalty. Purple-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color underbust photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with purple streaks. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips matching. DARK GARDEN RIBBON UNDERBUST CORSET deep purple satin with black trim. Black bra above. Black pants below. PLEASER MOON-708 purple 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: purple royalty. Purple-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 12. Helena - DG Training Underbust
 
 ```text
-Professional waist training photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in practical ponytail. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. DARK GARDEN WAIST TRAINING UNDERBUST CORSET black cotton, designed for daily wear, moderate 4-inch reduction. Black workout tank above. Black leggings below. PLEASER 7-inch heels. Mid-lacing, pulling tight. Sensual pose with arched back, bedroom eyes. Expression: daily practice. Training room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional waist training photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in practical ponytail. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. DARK GARDEN WAIST TRAINING UNDERBUST CORSET black cotton, designed for daily wear, moderate 4-inch reduction. Black workout tank above. Black leggings below. PLEASER 7-inch heels. Mid-lacing, pulling tight. Sensual pose with arched back, bedroom eyes. Expression: daily practice. Training room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -242,7 +242,7 @@ Professional lacing photography. HELENA: black hair, pale skin, black corset, st
 ### Prompt 49: 28. Helena - Self-Lacing Mirror
 
 ```text
-Professional self-lacing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. Pale skin. Facing mirror, pulling own laces on DARK GARDEN BLACK UNDERBUST, using mirror to see. Black corset half-laced. PLEASER black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: independent discipline. Gothic vanity. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional self-lacing photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin. Facing mirror, pulling own laces on DARK GARDEN BLACK UNDERBUST, using mirror to see. Black corset half-laced. PLEASER black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: independent discipline. Gothic vanity. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 29. Miss Doll - Measurement Before
@@ -254,7 +254,7 @@ Professional measurement photography of woman with platinum blonde bob. Flawless
 ### Prompt 47: 30. Helena - Extreme Reduction Side View
 
 ```text
-Professional reduction photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. Pale skin. Side profile showing extreme cinched waist in DARK GARDEN BLACK OVERBUST, dramatic waist-to-hip ratio achieved. Measurement graphics implied. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: goal achieved. Dark studio measurement setup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reduction photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin. Side profile showing extreme cinched waist in DARK GARDEN BLACK OVERBUST, dramatic waist-to-hip ratio achieved. Measurement graphics implied. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: goal achieved. Dark studio measurement setup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 31. All Three - Progression Line
@@ -266,7 +266,7 @@ Professional progression photography. Three women in line, side profile: ANAÏS 
 ### Prompt 45: 32. Helena - 23-Hour Wear
 
 ```text
-Professional casual wear photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair in casual style. DARK GARDEN BLACK TRAINING UNDERBUST visible under oversized black sweater, 23-hour tightlacing routine. Black leggings. PLEASER 7-inch heels. At home reading. Sensual pose with arched back, bedroom eyes. Expression: lifestyle commitment. Gothic home. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional casual wear photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair in casual style. DARK GARDEN BLACK TRAINING UNDERBUST visible under oversized black sweater, 23-hour tightlacing routine. Black leggings. PLEASER 7-inch heels. At home reading. Sensual pose with arched back, bedroom eyes. Expression: lifestyle commitment. Gothic home. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 33. Miss Doll - Sleeping Corset
@@ -278,7 +278,7 @@ Professional sleep training photography of woman with platinum blonde bob. Flawl
 ### Prompt 43: 34. Helena - Corset Over Latex
 
 ```text
-Professional layering photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. Pale skin. DARK GARDEN BLACK LEATHER OVERBUST CORSET worn over black latex catsuit, layered fetish look. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: double restriction. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional layering photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin. DARK GARDEN BLACK LEATHER OVERBUST CORSET worn over black latex catsuit, layered fetish look. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: double restriction. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 35. Miss Doll - Corset Under Dress
@@ -336,7 +336,7 @@ Professional competition photography. MISS DOLL: blonde bob, in DARK GARDEN PINK
 ### Prompt 34: 43. Helena - Permanent Corset Lifestyle
 
 ```text
-Professional lifestyle photography of young elegant goth glamour woman inspired by Sacha Massacre demonstrating permanent corseting. DARK GARDEN BLACK OVERBUST in various daily activities: cooking, reading, at computer. Always corseted. PLEASER heels always on. Sensual pose with arched back, bedroom eyes. Expression: 24/7 commitment. Gothic home montage style. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lifestyle photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre demonstrating permanent corseting. DARK GARDEN BLACK OVERBUST in various daily activities: cooking, reading, at computer. Always corseted. PLEASER heels always on. Sensual pose with arched back, bedroom eyes. Expression: 24/7 commitment. Gothic home montage style. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 44. All Three - Achievement Celebration
@@ -348,7 +348,7 @@ Professional celebration photography. ANAÏS, HELENA, MISS DOLL all in their res
 ### Prompt 32: 45. Helena - Corset and Whip
 
 ```text
-Professional dominatrix photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. DARK GARDEN BLACK LEATHER OVERBUST. Black leather pants. Leather whip coiled. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: corseted authority. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dominatrix photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. DARK GARDEN BLACK LEATHER OVERBUST. Black leather pants. Leather whip coiled. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: corseted authority. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 46. Miss Doll - Corset and Collar
@@ -366,7 +366,7 @@ Professional relaxation photography of aristocratic woman with honey blonde hair
 ### Prompt 29: 48. Helena - First Corset Memory
 
 ```text
-Professional nostalgia photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous black hair. Trying on first DARK GARDEN CORSET, simpler style, being helped by older figure (hands visible). Sensual pose with arched back, bedroom eyes. Expression: beginning of journey. Gothic shop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nostalgia photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Trying on first DARK GARDEN CORSET, simpler style, being helped by older figure (hands visible). Sensual pose with arched back, bedroom eyes. Expression: beginning of journey. Gothic shop. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 49. Miss Doll - Corseted Morning
@@ -562,3 +562,5 @@ Professional corset photography ultimate HIERARCHY scene. HELENA: DARK GARDEN BL
 
 *Helena de Anaïs* 🦇
 *La Voûte d'Anaïs — Dark Garden Corsets Edition (100 Prompts COMPLETE)*
+
+

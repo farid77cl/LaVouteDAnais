@@ -18,7 +18,7 @@
 
 ### HELENA - Canon Completo:
 ```
-ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
 small pointed chin, porcelain pale flawless skin, cold-toned sculptured contour,
@@ -44,126 +44,126 @@ tiny cinched waist, PLEASER platform heels 16-18cm (7-8"), visible external cors
 ### Prompt 1: Sin City Noir - Rain Kiss
 ```text
 (Sin City comic style:1.4), (Frank Miller art style), monochrome with selective color red, high contrast, heavy shadows,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval elongated face, high prominent cheekbones, large almond-shaped bedroom eyes grey-green with siren liner, straight slim nose slightly upturned, overlined INTENSE RED glossy lips with cupid's bow, small pointed chin, porcelain pale skin, cold contour, dramatic lashes, jet black ultra sleek hair center parted very long, visible arm tattoos blackwork, slender figure, extremely cinched waist black leather corset, PLEASER stiletto heels 8 inches black,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval elongated face, high prominent cheekbones, large almond-shaped bedroom eyes grey-green with siren liner, straight slim nose slightly upturned, overlined INTENSE RED glossy lips with cupid's bow, small pointed chin, porcelain pale skin, cold contour, dramatic lashes, jet black ultra sleek hair center parted very long, visible arm tattoos blackwork, slender figure, extremely cinched waist black leather corset, PLEASER stiletto heels 8 inches black,
 Pressed against a rain-slicked wall, kissing passionately (POV), black latex trench coat falling open to reveal corset and garters, one leg wrapped around partner, rain dripping down exposed skin, noir atmosphere. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 2: Gothic Horror - Vampire Bite
 ```text
 (Mike Mignola art style:1.2), heavy black ink lines, muted colors with deep blacks,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, high cheekbones, almond bedroom eyes grey-green with siren liner, slim upturned nose, overlined BLOOD RED lips with fangs visible, porcelain skin, dramatic lashes, jet black voluminous wavy hair very long, visible arm tattoos blackwork, cinched waist black velvet overbust corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, high cheekbones, almond bedroom eyes grey-green with siren liner, slim upturned nose, overlined BLOOD RED lips with fangs visible, porcelain skin, dramatic lashes, jet black voluminous wavy hair very long, visible arm tattoos blackwork, cinched waist black velvet overbust corset, PLEASER stiletto heels 8 inches,
 Straddling a victim on a gothic throne, head thrown back in ecstasy as she drinks from their neck, blood trickling down her chin onto her exposed cleavage, candlelight illuminating pale skin. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 3: Cyberpunk Interface - Digital Pleasure
 ```text
 (Seinen anime style:1.3), (Ghost in the Shell aesthetic), cel shaded, mechanical elements,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined NEON PINK lips, porcelain skin, dramatic lashes, jet black sleek ponytail very long, visible arm tattoos blackwork, cinched waist black latex bodysuit with glowing red circuits, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined NEON PINK lips, porcelain skin, dramatic lashes, jet black sleek ponytail very long, visible arm tattoos blackwork, cinched waist black latex bodysuit with glowing red circuits, PLEASER stiletto heels 8 inches,
 Connected to pleasure cables, back arched in digital ecstasy, wires entering at the spine, glowing data streams visible through translucent latex, expression of overwhelming sensation, cyberpunk city through rain-streaked window. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 4: Lovecraftian Horror - Tentacle Embrace
 ```text
 (Junji Ito art style:1.3), (horror manga aesthetic), ink hatched shading, black and white,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green, slim nose, overlined BLACK glossy lips, porcelain skin, black hair floating unnaturally very long, visible arm tattoos, cinched waist black latex corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green, slim nose, overlined BLACK glossy lips, porcelain skin, black hair floating unnaturally very long, visible arm tattoos, cinched waist black latex corset, PLEASER stiletto heels 8 inches,
 Wrapped sensually in latex tentacles emerging from shadows, one tentacle caressing her face while others wind around thighs and waist, expression of disturbing pleasure, spirals in background. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 5: Synthwave - Neon Seduction
 ```text
 (80s airbrush poster style:1.4), neon grid background, purple and cyan lighting, chrome reflections,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined MAGENTA lips, porcelain skin, dramatic lashes, jet black voluminous hair very long, visible arm tattoos blackwork, cinched waist black latex overbust corset, PLEASER stiletto heels 8 inches chrome,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined MAGENTA lips, porcelain skin, dramatic lashes, jet black voluminous hair very long, visible arm tattoos blackwork, cinched waist black latex overbust corset, PLEASER stiletto heels 8 inches chrome,
 Straddling a futuristic motorcycle, grinding against the seat, back arched, lips parted in pleasure, neon lights reflecting off wet latex, synthwave sunset behind. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 6: German Expressionism - Shadow Play
 ```text
 (German Expressionism:1.4), (Cabinet of Caligari aesthetic), jagged shadows, high contrast black and white,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair very long, visible tattoos, cinched waist black satin corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair very long, visible tattoos, cinched waist black satin corset, PLEASER stiletto heels 8 inches,
 Silhouette cast dramatically on angular wall, undressing slowly, corset laces being pulled by mysterious shadow hands, terrifying elegance. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 7: Spawn Comic - Dark Seductress
 ```text
 (Todd McFarlane art style:1.3), gritty texture, crosshatching, vibrant colors,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green, slim nose, overlined CRIMSON lips, porcelain skin, jet black hair very long flowing, visible arm tattoos, cinched waist black spiked latex corset, PLEASER stiletto heels 9 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green, slim nose, overlined CRIMSON lips, porcelain skin, jet black hair very long flowing, visible arm tattoos, cinched waist black spiked latex corset, PLEASER stiletto heels 9 inches,
 Impossibly long red cape wrapping around nude form, chains binding wrists above head, glowing green energy caressing her curves, dirty alleyway, dynamic sensual pose. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 8: Vampire Hunter D - Dark Embrace
 ```text
 (Yoshitaka Amano art style:1.3), ethereal watercolor and ink, swirls of color,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined WINE lips, porcelain skin, jet black hair flowing very long, visible tattoos, cinched waist black ornate armor corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined WINE lips, porcelain skin, jet black hair flowing very long, visible tattoos, cinched waist black ornate armor corset, PLEASER stiletto heels 8 inches,
 Embracing a dark figure, leg wrapped around their waist, armor partially removed revealing skin, dreamlike mist swirling around entwined bodies. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 9: Matrix Code - Wet Leather
 ```text
 (The Matrix digital rain aesthetic), green tint, photorealistic with cel shading,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined DARK RED lips, porcelain skin, jet black wet slicked hair, visible arm tattoos, cinched waist black latex trench open, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green with siren liner, slim nose, overlined DARK RED lips, porcelain skin, jet black wet slicked hair, visible arm tattoos, cinched waist black latex trench open, PLEASER stiletto heels 8 inches,
 Bullet time frozen, arched backwards in erotic dodge, trench coat flying open to reveal latex bodysuit, water droplets suspended, falling green code reflecting on wet skin. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 10: Heavy Metal - Warrior Queen
 ```text
 (Heavy Metal magazine:1.4), (Simon Bisley style), painted acrylics, epic fantasy,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined RED lips, porcelain skin, jet black wild hair very long, visible arm tattoos, cinched waist black armored latex bikini, PLEASER stiletto heels 9 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined RED lips, porcelain skin, jet black wild hair very long, visible arm tattoos, cinched waist black armored latex bikini, PLEASER stiletto heels 9 inches,
 Straddling defeated cyborg, giant sword planted, victorious expression, sweat glistening on exposed skin, powerful sexual dominance. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 11: Film Noir - Femme Fatale Undress
 ```text
 (Classic Film Noir), black and white photography, venetian blind shadows,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair in victory rolls, visible tattoos, cinched waist black satin corset garter set, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair in victory rolls, visible tattoos, cinched waist black satin corset garter set, PLEASER stiletto heels 8 inches,
 Slowly removing long black latex gloves with teeth, stocking tops visible, cigarette smoke curling, dangerous seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 12: Venom Symbiote - Transformation Ecstasy
 ```text
 (Marvel comic style), (Symbiote aesthetic), dynamic action lines,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes rolling back in pleasure, slim nose, overlined PURPLE lips, porcelain skin, jet black hair merging with symbiote, visible tattoos, symbiote latex covering body sensually,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes rolling back in pleasure, slim nose, overlined PURPLE lips, porcelain skin, jet black hair merging with symbiote, visible tattoos, symbiote latex covering body sensually,
 Being consumed by living black latex symbiote, arched back in overwhelming pleasure, symbiote tendrils caressing and covering, white eye patches forming, erotic transformation. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 13: Tim Burton - Gothic Bride
 ```text
 (Tim Burton style:1.3), gothic whimsical, dark blue mood lighting,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, large eyes, slim nose, overlined DARK PURPLE lips, porcelain skin, jet black hair very long wild, visible tattoos, cinched waist tattered black latex bridal corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, large eyes, slim nose, overlined DARK PURPLE lips, porcelain skin, jet black hair very long wild, visible tattoos, cinched waist tattered black latex bridal corset, PLEASER stiletto heels 8 inches,
 Lifting tattered wedding dress to remove garter with teeth, spindly candles burning, creepy cute sensuality in twisted graveyard. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 14: Tarot - High Priestess Initiation
 ```text
 (Tarot card design:1.4), Art Deco influence, gold leaf details, mystical symbolism,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BURGUNDY lips, porcelain skin, jet black hair very long, visible tattoos, cinched waist black and gold ritual corset, PLEASER stiletto heels 8 inches gold,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes, slim nose, overlined BURGUNDY lips, porcelain skin, jet black hair very long, visible tattoos, cinched waist black and gold ritual corset, PLEASER stiletto heels 8 inches gold,
 Seated between pillars B and J, robes parted to reveal corset and thighs, scroll in hand covering strategic areas, initiation ritual pose. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 15: Biometric Art - Skeleton Kiss
 ```text
 (X-Ray art style), neon bones, graffiti background, street art aesthetic,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined NEON GREEN lips, translucent porcelain skin showing skeleton, jet black hair, visible tattoos glowing, cinched waist black latex corset with visible ribs,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined NEON GREEN lips, translucent porcelain skin showing skeleton, jet black hair, visible tattoos glowing, cinched waist black latex corset with visible ribs,
 Kissing own reflection, skeletons visible through translucent latex, anatomical eroticism. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 16: Hellboy Universe - Demon Lover
 ```text
 (Mike Mignola style:1.3), flat colors, heavy shadows, red and black palette,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black hair, visible tattoos, cinched waist black leather BPRD corset, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black hair, visible tattoos, cinched waist black leather BPRD corset, PLEASER stiletto heels 8 inches,
 Embracing Hellboy's silhouette, stone hand on her thigh, investigation turned seduction in paranormal ruins. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 17: Dark Souls - Bonfire Rest
 ```text
 (Dark Souls concept art), oil painting texture, gloomy atmosphere, faint light,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond tired bedroom eyes, slim nose, overlined DARK lips, porcelain dirty skin, jet black matted hair, visible tattoos, cinched waist tattered black latex armor, PLEASER stiletto heels 8 inches damaged,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond tired bedroom eyes, slim nose, overlined DARK lips, porcelain dirty skin, jet black matted hair, visible tattoos, cinched waist tattered black latex armor, PLEASER stiletto heels 8 inches damaged,
 Resting sensually by bonfire, armor partially removed, exhausted but seductive expression, dark flame in palm illuminating curves. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 18: Giger Biomechanical - Fused Pleasure
 ```text
 (H.R. Giger art style:1.4), biomechanical aesthetic, monochromatic grey and black,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined METALLIC BLACK lips, porcelain skin merging with machine, jet black hair fused with tubes, visible tattoos becoming circuitry, biomechanical corset fused to body,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined METALLIC BLACK lips, porcelain skin merging with machine, jet black hair fused with tubes, visible tattoos becoming circuitry, biomechanical corset fused to body,
 Merged with alien wall structure, tubes entering body at pleasure points, expression of inhuman ecstasy, industrial horror erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
@@ -177,7 +177,7 @@ Two silhouettes in intimate embrace, paper layers creating depth, bodies intertw
 ### Prompt 20: Stained Glass - Saint of Sin
 ```text
 (Stained glass window design), vibrant colored glass (red, purple, black), divine illumination,
-ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLOOD RED lips, porcelain skin, jet black hair in halo shape, visible tattoos as glass patterns, cinched waist black latex robes parting,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLOOD RED lips, porcelain skin, jet black hair in halo shape, visible tattoos as glass patterns, cinched waist black latex robes parting,
 Dark saint iconography, halo of needles, robes parting to reveal corset and thighs, erotic religious imagery. Vertical portrait orientation, masterpiece, 8k.
 ```
 
@@ -777,6 +777,8 @@ Helena and Miss Doll walking into darkness together,
 ---
 
 *Banco V51 creado por Helena de AnaÃ¯s - 13/01/2026* ðŸ¦‡
+
+
 
 
 

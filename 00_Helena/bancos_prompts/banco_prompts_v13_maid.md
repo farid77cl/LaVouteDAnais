@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -26,7 +26,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -64,121 +64,121 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ### Prompt 100: 1. Helena - Classic French Maid Black
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under white lace maid cap with black ribbon. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black satin French maid dress very short with white lace apron. Black steel-boned underbust corset extremely tight over dress. Black fishnet stockings. PLEASER MOON-708 black patent 7-inch stiletto heel. Feather duster in hand, curtsy pose. Sensual pose with arched back, bedroom eyes. Expression: devoted empty servant. Victorian gothic mansion parlor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under white lace maid cap with black ribbon. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black satin French maid dress very short with white lace apron. Black steel-boned underbust corset extremely tight over dress. Black fishnet stockings. PLEASER MOON-708 black patent 7-inch stiletto heel. Feather duster in hand, curtsy pose. Sensual pose with arched back, bedroom eyes. Expression: devoted empty servant. Victorian gothic mansion parlor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - Latex Maid
 
 ```text
-Professional fetish maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair pinned under white rubber cap. Pale porcelain white skin glistening. Full glossy black lips. Feminine hourglass silhouette. Wearing black latex maid uniform extremely shiny, puffed sleeves, micro skirt. White latex apron over black. Black latex underbust corset. Black latex opera gloves. PLEASER MOON-708 black patent 7-inch stiletto heel. On knees scrubbing floor with brush. Sensual pose with arched back, bedroom eyes. Expression: devoted labor. Modern luxury home. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair pinned under white rubber cap. Pale porcelain white skin glistening. Full glossy black lips. Feminine hourglass silhouette. Wearing black latex maid uniform extremely shiny, puffed sleeves, micro skirt. White latex apron over black. Black latex underbust corset. Black latex opera gloves. PLEASER MOON-708 black patent 7-inch stiletto heel. On knees scrubbing floor with brush. Sensual pose with arched back, bedroom eyes. Expression: devoted labor. Modern luxury home. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - Victorian Maid
 
 ```text
-Professional period maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in severe bun under white cotton cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips closed modestly. Feminine hourglass silhouette. Wearing black floor-length Victorian maid dress with white collar and cuffs. Black corset underneath creating tiny waist. PLEASER MOON-708 black 7-inch heel hidden under hem. Carrying silver serving tray. Sensual pose with arched back, bedroom eyes. Expression: silent obedience. Victorian manor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional period maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in severe bun under white cotton cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips closed modestly. Feminine hourglass silhouette. Wearing black floor-length Victorian maid dress with white collar and cuffs. Black corset underneath creating tiny waist. PLEASER MOON-708 black 7-inch heel hidden under hem. Carrying silver serving tray. Sensual pose with arched back, bedroom eyes. Expression: silent obedience. Victorian manor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - PVC Maid Purple
 
 ```text
-Professional shiny maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose and wild under cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing DEEP PURPLE PVC maid dress mini with silver trim, ultra shiny. Black PVC underbust corset. Black PVC apron. PLEASER MOON-708 purple patent 7-inch stiletto heel. Polishing ornate mirror. Sensual pose with arched back, bedroom eyes. Expression: reflected devotion. Dark modern mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shiny maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose and wild under cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing DEEP PURPLE PVC maid dress mini with silver trim, ultra shiny. Black PVC underbust corset. Black PVC apron. PLEASER MOON-708 purple patent 7-inch stiletto heel. Polishing ornate mirror. Sensual pose with arched back, bedroom eyes. Expression: reflected devotion. Dark modern mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - Night Maid
 
 ```text
-Professional nocturnal maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose cascading from cap. Pale porcelain white skin luminous in candlelight. Full glossy black lips. Feminine hourglass silhouette. Wearing black satin maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Carrying candlestick through dark hallway, doing night rounds. Sensual pose with arched back, bedroom eyes. Expression: guardian of the night. Gothic mansion midnight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nocturnal maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose cascading from cap. Pale porcelain white skin luminous in candlelight. Full glossy black lips. Feminine hourglass silhouette. Wearing black satin maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Carrying candlestick through dark hallway, doing night rounds. Sensual pose with arched back, bedroom eyes. Expression: guardian of the night. Gothic mansion midnight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Helena - Kitchen Maid
 
 ```text
-Professional kitchen maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tied back under cap. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black maid dress with longer apron for kitchen work. Black underbust corset. PLEASER MOON-708 black 7-inch heel (impractical but maintained). Preparing gothic breakfast tray with skull-shaped eggs. Sensual pose with arched back, bedroom eyes. Expression: domestic craftsmanship. Dark Victorian kitchen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional kitchen maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair tied back under cap. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black maid dress with longer apron for kitchen work. Black underbust corset. PLEASER MOON-708 black 7-inch heel (impractical but maintained). Preparing gothic breakfast tray with skull-shaped eggs. Sensual pose with arched back, bedroom eyes. Expression: domestic craftsmanship. Dark Victorian kitchen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - Drawing Room Maid
 
 ```text
-Professional service maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair perfectly styled under ornate cap. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing formal black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Pouring tea from silver pot into fine china cup. Sensual pose with arched back, bedroom eyes. Expression: precise service. Wealthy drawing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional service maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair perfectly styled under ornate cap. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing formal black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Pouring tea from silver pot into fine china cup. Sensual pose with arched back, bedroom eyes. Expression: precise service. Wealthy drawing room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - Bedroom Maid
 
 ```text
-Professional bedroom maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slightly loose. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing shortened black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Smoothing silk sheets on grand four-poster bed. Sensual pose with arched back, bedroom eyes. Expression: preparing the master's chamber. Dark elegant bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bedroom maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair slightly loose. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing shortened black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Smoothing silk sheets on grand four-poster bed. Sensual pose with arched back, bedroom eyes. Expression: preparing the master's chamber. Dark elegant bedroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - Dusting Maid
 
 ```text
-Professional cleaning maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under cap, strand loose. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black satin maid dress mini. White lace apron. Black corset. PLEASER MOON-708 black 7-inch heel. Dusting high shelf with black feather duster, stretching. Sensual pose with arched back, bedroom eyes. Expression: thorough attention. Grand library. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cleaning maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under cap, strand loose. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black satin maid dress mini. White lace apron. Black corset. PLEASER MOON-708 black 7-inch heel. Dusting high shelf with black feather duster, stretching. Sensual pose with arched back, bedroom eyes. Expression: thorough attention. Grand library. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - Laundry Maid
 
 ```text
-Professional laundry maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in low ponytail under simple cap. Pale porcelain white skin with slight steam glow. Full glossy wine lips. Feminine hourglass silhouette. Wearing black maid dress slightly disheveled from work. Black corset. PLEASER MOON-708 black 7-inch heel. Pressing black silk garment with vintage iron. Sensual pose with arched back, bedroom eyes. Expression: focused precision. Victorian laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional laundry maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in low ponytail under simple cap. Pale porcelain white skin with slight steam glow. Full glossy wine lips. Feminine hourglass silhouette. Wearing black maid dress slightly disheveled from work. Black corset. PLEASER MOON-708 black 7-inch heel. Pressing black silk garment with vintage iron. Sensual pose with arched back, bedroom eyes. Expression: focused precision. Victorian laundry room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Helena - Welcome Maid
 
 ```text
-Professional greeting maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair perfect under cap. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in slight bow. Feminine hourglass silhouette. Wearing formal black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Deep curtsy at front door, head bowed. Sensual pose with arched back, bedroom eyes. Expression: welcome home Master. Grand foyer. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional greeting maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair perfect under cap. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in slight bow. Feminine hourglass silhouette. Wearing formal black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Deep curtsy at front door, head bowed. Sensual pose with arched back, bedroom eyes. Expression: welcome home Master. Grand foyer. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Punishment Maid
 
 ```text
-Professional discipline maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair mussed. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips trembling. Feminine hourglass silhouette. Wearing black maid dress, apron askew. Black corset. PLEASER MOON-708 black 7-inch heel. Standing in corner, hands behind back, facing wall as punishment. Sensual pose with arched back, bedroom eyes. Expression: accepting correction. Victorian study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional discipline maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair mussed. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips trembling. Feminine hourglass silhouette. Wearing black maid dress, apron askew. Black corset. PLEASER MOON-708 black 7-inch heel. Standing in corner, hands behind back, facing wall as punishment. Sensual pose with arched back, bedroom eyes. Expression: accepting correction. Victorian study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - Night Stand Maid
 
 ```text
-Professional bedside maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose for night shift. Pale porcelain white skin luminous. Full glossy purple lips. Feminine hourglass silhouette. Wearing sheer black nightgown maid style. Black corset visible through. PLEASER MOON-708 black 7-inch heel. Standing at attention beside bed, water glass on silver tray. Sensual pose with arched back, bedroom eyes. Expression: available through the night. Dark bedroom candlelit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bedside maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose for night shift. Pale porcelain white skin luminous. Full glossy purple lips. Feminine hourglass silhouette. Wearing sheer black nightgown maid style. Black corset visible through. PLEASER MOON-708 black 7-inch heel. Standing at attention beside bed, water glass on silver tray. Sensual pose with arched back, bedroom eyes. Expression: available through the night. Dark bedroom candlelit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - Boot Cleaning Maid
 
 ```text
-Professional boot service photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair falling forward. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips near boot leather. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Kneeling, polishing riding boots with cloth and polish. Sensual pose with arched back, bedroom eyes. Expression: worshipful cleaning. Boot room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boot service photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair falling forward. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips near boot leather. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Kneeling, polishing riding boots with cloth and polish. Sensual pose with arched back, bedroom eyes. Expression: worshipful cleaning. Boot room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - Silver Polish Maid
 
 ```text
-Professional silver service photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips concentrated. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Polishing ornate silver candlesticks with cloth. Sensual pose with arched back, bedroom eyes. Expression: devoted precision. Butler's pantry. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional silver service photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips concentrated. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Polishing ornate silver candlesticks with cloth. Sensual pose with arched back, bedroom eyes. Expression: devoted precision. Butler's pantry. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - Window Maid
 
 ```text
-Professional window cleaning photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair silhouetted. Pale porcelain white skin glowing from window light. Full glossy black lips. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel on footstool. Cleaning tall window with cloth, backlit by grey sky. Sensual pose with arched back, bedroom eyes. Expression: endless tasks. Victorian mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional window cleaning photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair silhouetted. Pale porcelain white skin glowing from window light. Full glossy black lips. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel on footstool. Cleaning tall window with cloth, backlit by grey sky. Sensual pose with arched back, bedroom eyes. Expression: endless tasks. Victorian mansion. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - Fire Maid
 
 ```text
-Professional fireplace photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild from heat. Pale porcelain white skin with fire glow. Full glossy red lips matching flames. Feminine hourglass silhouette. Wearing black maid dress slightly sooty. Black corset. PLEASER MOON-708 black 7-inch heel. Kneeling at fireplace, stoking with iron poker. Sensual pose with arched back, bedroom eyes. Expression: tending the flame. Victorian sitting room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fireplace photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild from heat. Pale porcelain white skin with fire glow. Full glossy red lips matching flames. Feminine hourglass silhouette. Wearing black maid dress slightly sooty. Black corset. PLEASER MOON-708 black 7-inch heel. Kneeling at fireplace, stoking with iron poker. Sensual pose with arched back, bedroom eyes. Expression: tending the flame. Victorian sitting room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - Garden Maid
 
 ```text
-Professional garden photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose in breeze. Pale porcelain white skin. Full glossy dark purple lips. Feminine hourglass silhouette. Wearing black maid dress with protective apron. Black corset. PLEASER MOON-708 black 7-inch heel (impractical for gardening). Cutting black roses with silver scissors into basket. Sensual pose with arched back, bedroom eyes. Expression: harvesting darkness. Gothic garden with mist. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional garden photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose in breeze. Pale porcelain white skin. Full glossy dark purple lips. Feminine hourglass silhouette. Wearing black maid dress with protective apron. Black corset. PLEASER MOON-708 black 7-inch heel (impractical for gardening). Cutting black roses with silver scissors into basket. Sensual pose with arched back, bedroom eyes. Expression: harvesting darkness. Gothic garden with mist. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - Bell Service Maid
 
 ```text
-Professional bell response photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair immediately perfect. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Running/walking fast in response to service bell visible on board. Sensual pose with arched back, bedroom eyes. Expression: immediate response. Victorian servant corridor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bell response photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair immediately perfect. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black maid dress. Black corset. PLEASER MOON-708 black 7-inch heel. Running/walking fast in response to service bell visible on board. Sensual pose with arched back, bedroom eyes. Expression: immediate response. Victorian servant corridor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Inspection Ready Maid
 
 ```text
-Professional inspection photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair immaculate under cap. Pale porcelain white skin pristine. Full glossy black lips. Feminine hourglass silhouette. Wearing impeccable black maid uniform, every detail perfect. Black corset tight. White apron starched. PLEASER MOON-708 black 7-inch heel polished. Standing at rigid attention, hands at sides. Sensual pose with arched back, bedroom eyes. Expression: awaiting inspection approval. Grand hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional inspection photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair immaculate under cap. Pale porcelain white skin pristine. Full glossy black lips. Feminine hourglass silhouette. Wearing impeccable black maid uniform, every detail perfect. Black corset tight. White apron starched. PLEASER MOON-708 black 7-inch heel polished. Standing at rigid attention, hands at sides. Sensual pose with arched back, bedroom eyes. Expression: awaiting inspection approval. Grand hallway. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -381,91 +381,91 @@ Professional break photography. HELENA: black maid dress loosened, black corset,
 ### Prompt 50: 51. Helena - Emerald Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under emerald cap. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN satin maid dress with white lace. Emerald underbust corset. PLEASER MOON-708 emerald 7-inch heel. Dusting green crystal vase. Sensual pose with arched back, bedroom eyes. Expression: forest maid. Green velvet mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under emerald cap. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN satin maid dress with white lace. Emerald underbust corset. PLEASER MOON-708 emerald 7-inch heel. Dusting green crystal vase. Sensual pose with arched back, bedroom eyes. Expression: forest maid. Green velvet mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Helena - Sapphire Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair in elegant style under sapphire cap. Pale porcelain white skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE satin maid dress. Blue underbust corset. PLEASER MOON-708 sapphire 7-inch heel. Serving blue tea set. Sensual pose with arched back, bedroom eyes. Expression: ice maid. Blue-lit mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair in elegant style under sapphire cap. Pale porcelain white skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE satin maid dress. Blue underbust corset. PLEASER MOON-708 sapphire 7-inch heel. Serving blue tea set. Sensual pose with arched back, bedroom eyes. Expression: ice maid. Blue-lit mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Rose Gold Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black wavy hair under rose cap. Pale porcelain white skin. Dark rose glossy lips. Wearing ROSE GOLD metallic maid dress. Rose gold corset. PLEASER MOON-708 rose gold 7-inch heel. Arranging roses in vase. Sensual pose with arched back, bedroom eyes. Expression: romantic maid. Rose gold boudoir. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black wavy hair under rose cap. Pale porcelain white skin. Dark rose glossy lips. Wearing ROSE GOLD metallic maid dress. Rose gold corset. PLEASER MOON-708 rose gold 7-inch heel. Arranging roses in vase. Sensual pose with arched back, bedroom eyes. Expression: romantic maid. Rose gold boudoir. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Helena - Silver Chrome Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair under silver cap. Pale porcelain white skin. Silver metallic lips. Wearing STERLING SILVER latex maid dress futuristic. Silver corset. PLEASER MOON-708 silver 7-inch heel. Polishing chrome surfaces. Sensual pose with arched back, bedroom eyes. Expression: android maid. Chrome mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Slicked black hair under silver cap. Pale porcelain white skin. Silver metallic lips. Wearing STERLING SILVER latex maid dress futuristic. Silver corset. PLEASER MOON-708 silver 7-inch heel. Polishing chrome surfaces. Sensual pose with arched back, bedroom eyes. Expression: android maid. Chrome mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Champagne Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with gold glitter under gold cap. Pale porcelain white skin. Champagne metallic lips beatiful. Wearing CHAMPAGNE GOLD sequin maid dress. Gold corset. PLEASER MOON-708 gold 7-inch heel. Serving champagne at party. Sensual pose with arched back, bedroom eyes. Expression: celebration maid. NYE mansion party. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with gold glitter under gold cap. Pale porcelain white skin. Champagne metallic lips beatiful. Wearing CHAMPAGNE GOLD sequin maid dress. Gold corset. PLEASER MOON-708 gold 7-inch heel. Serving champagne at party. Sensual pose with arched back, bedroom eyes. Expression: celebration maid. NYE mansion party. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Helena - Copper Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper highlights under copper cap. Pale porcelain white skin. Terracotta glossy lips. Wearing COPPER metallic maid dress autumn style. Copper corset. PLEASER MOON-708 copper 7-inch heel. Preparing autumn feast. Sensual pose with arched back, bedroom eyes. Expression: harvest maid. Autumn mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with copper highlights under copper cap. Pale porcelain white skin. Terracotta glossy lips. Wearing COPPER metallic maid dress autumn style. Copper corset. PLEASER MOON-708 copper 7-inch heel. Preparing autumn feast. Sensual pose with arched back, bedroom eyes. Expression: harvest maid. Autumn mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Teal Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Wet black hair under teal cap. Pale porcelain white skin. Teal glossy lips. Wearing DARK TEAL satin maid dress. Teal corset. PLEASER MOON-708 teal 7-inch heel. Cleaning pool area. Sensual pose with arched back, bedroom eyes. Expression: aquatic maid. Teal pool house. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wet black hair under teal cap. Pale porcelain white skin. Teal glossy lips. Wearing DARK TEAL satin maid dress. Teal corset. PLEASER MOON-708 teal 7-inch heel. Cleaning pool area. Sensual pose with arched back, bedroom eyes. Expression: aquatic maid. Teal pool house. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Helena - Bronze Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with bronze streaks under bronze cap. Pale porcelain white skin beatiful. Bronze metallic lips. Wearing ANTIQUE BRONZE armor-style maid dress. Bronze corset. PLEASER MOON-708 bronze 7-inch heel. Polishing suit of armor. Sensual pose with arched back, bedroom eyes. Expression: warrior maid. Medieval castle. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with bronze streaks under bronze cap. Pale porcelain white skin beatiful. Bronze metallic lips. Wearing ANTIQUE BRONZE armor-style maid dress. Bronze corset. PLEASER MOON-708 bronze 7-inch heel. Polishing suit of armor. Sensual pose with arched back, bedroom eyes. Expression: warrior maid. Medieval castle. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - White Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair severe under white cap. Pale marble skin. Nude-wine lips. Wearing STARK WHITE lace maid dress bridal style. White corset. PLEASER MOON-708 white 7-inch heel. Preparing bridal suite. Sensual pose with arched back, bedroom eyes. Expression: virginal maid. White mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair severe under white cap. Pale marble skin. Nude-wine lips. Wearing STARK WHITE lace maid dress bridal style. White corset. PLEASER MOON-708 white 7-inch heel. Preparing bridal suite. Sensual pose with arched back, bedroom eyes. Expression: virginal maid. White mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Helena - Plum Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair under plum cap. Pale porcelain white skin. Deep plum glossy lips. Wearing PLUM WINE velvet maid dress luxurious. Plum corset. PLEASER MOON-708 plum 7-inch heel. Decanting wine. Sensual pose with arched back, bedroom eyes. Expression: sommelier maid. Wine cellar mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair under plum cap. Pale porcelain white skin. Deep plum glossy lips. Wearing PLUM WINE velvet maid dress luxurious. Plum corset. PLEASER MOON-708 plum 7-inch heel. Decanting wine. Sensual pose with arched back, bedroom eyes. Expression: sommelier maid. Wine cellar mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Amethyst Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with purple crystals under amethyst cap. Pale porcelain white skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE velvet maid dress with crystals. Purple corset. PLEASER MOON-708 purple 7-inch heel. Polishing crystal ball. Sensual pose with arched back, bedroom eyes. Expression: mystic maid. Crystal mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with purple crystals under amethyst cap. Pale porcelain white skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE velvet maid dress with crystals. Purple corset. PLEASER MOON-708 purple 7-inch heel. Polishing crystal ball. Sensual pose with arched back, bedroom eyes. Expression: mystic maid. Crystal mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Helena - Navy Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair under navy cap. Pale porcelain white skin. Navy metallic lips. Wearing NAVY BLUE sailor-style maid dress. Navy corset. PLEASER MOON-708 navy 7-inch heel. Serving captain's dinner. Sensual pose with arched back, bedroom eyes. Expression: nautical maid. Yacht interior. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair under navy cap. Pale porcelain white skin. Navy metallic lips. Wearing NAVY BLUE sailor-style maid dress. Navy corset. PLEASER MOON-708 navy 7-inch heel. Serving captain's dinner. Sensual pose with arched back, bedroom eyes. Expression: nautical maid. Yacht interior. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Pewter Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black industrial hair under grey cap. Pale porcelain white skin. Pewter grey lips. Wearing PEWTER GREY industrial maid dress. Grey corset. PLEASER MOON-708 grey 7-inch heel. Cleaning factory owner's quarters. Sensual pose with arched back, bedroom eyes. Expression: industrial maid. Factory mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black industrial hair under grey cap. Pale porcelain white skin. Pewter grey lips. Wearing PEWTER GREY industrial maid dress. Grey corset. PLEASER MOON-708 grey 7-inch heel. Cleaning factory owner's quarters. Sensual pose with arched back, bedroom eyes. Expression: industrial maid. Factory mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Helena - Burgundy Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Black elegant hair under burgundy cap. Pale porcelain white skin. Blood burgundy glossy lips. Wearing BURGUNDY velvet maid dress Victorian. Burgundy corset. PLEASER MOON-708 burgundy 7-inch heel. Serving blood wine. Sensual pose with arched back, bedroom eyes. Expression: vampire maid. Dracula's castle. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair under burgundy cap. Pale porcelain white skin. Blood burgundy glossy lips. Wearing BURGUNDY velvet maid dress Victorian. Burgundy corset. PLEASER MOON-708 burgundy 7-inch heel. Serving blood wine. Sensual pose with arched back, bedroom eyes. Expression: vampire maid. Dracula's castle. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Blood Orange Gothic Maid
 
 ```text
-Professional gothic maid photography of young elegant goth glamour woman inspired by Sacha Massacre. Wild black hair under orange cap. Pale porcelain white skin. Blood orange metallic lips. Wearing BLOOD ORANGE satin maid dress autumn. Orange corset. PLEASER MOON-708 orange 7-inch heel. Serving sunset cocktails. Sensual pose with arched back, bedroom eyes. Expression: sunset maid. Sunset terrace mansion. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic maid photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wild black hair under orange cap. Pale porcelain white skin. Blood orange metallic lips. Wearing BLOOD ORANGE satin maid dress autumn. Orange corset. PLEASER MOON-708 orange 7-inch heel. Serving sunset cocktails. Sensual pose with arched back, bedroom eyes. Expression: sunset maid. Sunset terrace mansion. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -693,3 +693,5 @@ Professional trio maid photography. ANAÏS: honey blonde, GOLD silk robe, being 
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*
+
+

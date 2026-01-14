@@ -19,14 +19,14 @@ pómulos altos y prominentes, mentón pequeño y puntiagudo.
 
 | Rasgo | Prompt Keywords |
 |-------|-----------------|
-| **Frente** | `broad forehead, slightly rounded, clear` |
-| **Cejas** | `natural arched eyebrows, black, not too thick, subtle arch` |
-| **Ojos** | `large almond-shaped eyes, slightly downturned outer corners, bedroom eyes, light green-grey eyes, visible eyelids` |
-| **Nariz** | `straight refined nose, slightly upturned tip, defined bridge, slim nose` |
-| **Labios** | `overlined lips, defined cupid's bow, fuller lower lip, medium natural size` |
-| **Mentón** | `small pointed chin, delicate` |
-| **Mejillas** | `high cheekbones, contoured cheeks, slightly hollow below cheekbones, sculpted look` |
-| **Mandíbula** | `soft defined jawline, elegant, oval face shape` |
+| **Frente** | `broad forehead, slightly rounded, clear, contoured at hairline` |
+| **Cejas** | `THICK MICROBLADED TATTOOED EYEBROWS, dark brown, fuller wider, lifted outer tail` |
+| **Ojos** | `large almond-shaped bedroom eyes, grey-green, PROFESSIONAL ELABORATE EYE MAKEUP, siren fox eye liner dramatic upward wing, HEAVY SMOKY EYE gradient, SHIMMER on lid, GLITTER inner corner` |
+| **Nariz** | `straight refined nose, slightly upturned tip, defined bridge, slim nose, contoured` |
+| **Labios** | `EXTREMELY PLUMP OVERSIZED overlined glossy lips, bee stung, defined cupid's bow` |
+| **Mentón** | `small pointed chin, delicate, contoured` |
+| **Mejillas** | `high cheekbones, EXPERT CONTOUR, hollow below cheekbones, sculpted look` |
+| **Mandíbula** | `soft defined jawline, elegant, oval face shape, contoured` |
 
 ### Prompt Base Rostro
 ```text

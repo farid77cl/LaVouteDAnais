@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -26,7 +26,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -64,109 +64,109 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ### Prompt 81: 1. Helena - Vex Classic Catsuit Black
 
 ```text
-Professional gothic latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CATSUIT 0.6mm thickness, extremely shiny, back zip. Black steel-boned overbust corset over catsuit. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Power stance. Sensual pose with arched back, bedroom eyes. Expression: dark perfection. LA studio with dramatic lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CATSUIT 0.6mm thickness, extremely shiny, back zip. Black steel-boned overbust corset over catsuit. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Power stance. Sensual pose with arched back, bedroom eyes. Expression: dark perfection. LA studio with dramatic lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 80: 2. Helena - Vex Crimson Red
 
 ```text
-Professional red latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin contrasting red. Full glossy blood red lips matching. Feminine hourglass silhouette. Wearing VEX CLOTHING CRIMSON RED LATEX CATSUIT glossy. Black steel-boned corset over red latex. PLEASER RAPTURE-1020 red patent 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: bloody vampire. Dark red-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional red latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin contrasting red. Full glossy blood red lips matching. Feminine hourglass silhouette. Wearing VEX CLOTHING CRIMSON RED LATEX CATSUIT glossy. Black steel-boned corset over red latex. PLEASER RAPTURE-1020 red patent 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: bloody vampire. Dark red-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 3. Helena - Vex Deep Purple
 
 ```text
-Professional purple latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with purple highlights. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing VEX CLOTHING DEEP PURPLE LATEX CATSUIT royal shade. Black underbust corset. PLEASER MOON-708 purple patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: gothic royalty. Purple-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional purple latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with purple highlights. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing VEX CLOTHING DEEP PURPLE LATEX CATSUIT royal shade. Black underbust corset. PLEASER MOON-708 purple patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: gothic royalty. Purple-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 4. Helena - Vex Midnight Blue
 
 ```text
-Professional blue latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with blue reflections. Full glossy dark blue lips. Feminine hourglass silhouette. Wearing VEX CLOTHING MIDNIGHT BLUE LATEX CATSUIT. Black corset with silver boning. PLEASER MOON-708 blue patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: ocean witch. Blue-lit modern space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional blue latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with blue reflections. Full glossy dark blue lips. Feminine hourglass silhouette. Wearing VEX CLOTHING MIDNIGHT BLUE LATEX CATSUIT. Black corset with silver boning. PLEASER MOON-708 blue patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: ocean witch. Blue-lit modern space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 5. Helena - Vex Forest Green
 
 ```text
-Professional green latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with leaves imagery. Pale porcelain white skin. Full glossy dark green lips. Feminine hourglass silhouette. Wearing VEX CLOTHING FOREST GREEN LATEX CATSUIT deep jewel tone. Black corset with serpent buckle. PLEASER MOON-708 green patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: nature goddess dark. Greenhouse with fog. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional green latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with leaves imagery. Pale porcelain white skin. Full glossy dark green lips. Feminine hourglass silhouette. Wearing VEX CLOTHING FOREST GREEN LATEX CATSUIT deep jewel tone. Black corset with serpent buckle. PLEASER MOON-708 green patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: nature goddess dark. Greenhouse with fog. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 6. Helena - Vex Smoke Grey
 
 ```text
-Professional grey latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy grey lips. Feminine hourglass silhouette. Wearing VEX CLOTHING SMOKE GREY LATEX CATSUIT storm cloud color. Black corset. PLEASER MOON-708 grey patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: storm approaching. Industrial grey space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional grey latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy grey lips. Feminine hourglass silhouette. Wearing VEX CLOTHING SMOKE GREY LATEX CATSUIT storm cloud color. Black corset. PLEASER MOON-708 grey patent 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: storm approaching. Industrial grey space. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 7. Helena - Vex Transparent Black
 
 ```text
-Professional sheer latex photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING TRANSPARENT BLACK LATEX CATSUIT semi-sheer, body barely visible through. Black corset over top. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: revealed darkness. Dark studio backlit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sheer latex photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING TRANSPARENT BLACK LATEX CATSUIT semi-sheer, body barely visible through. Black corset over top. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: revealed darkness. Dark studio backlit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 8. Helena - Vex Pencil Dress Black
 
 ```text
-Professional dress photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in updo. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX PENCIL DRESS knee-length, back zip, high collar. Built-in boning creating corset effect. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: professional dark. Modern gallery. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dress photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in updo. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX PENCIL DRESS knee-length, back zip, high collar. Built-in boning creating corset effect. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: professional dark. Modern gallery. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 9. Helena - Vex Mini Dress Burgundy
 
 ```text
-Professional mini dress photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy burgundy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BURGUNDY LATEX MINI DRESS ultra-short, front zip. Black underbust corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: nightlife predator. Club VIP area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mini dress photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy burgundy lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BURGUNDY LATEX MINI DRESS ultra-short, front zip. Black underbust corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: nightlife predator. Club VIP area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 10. Helena - Vex Leggings and Crop
 
 ```text
-Professional two-piece photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin at midriff. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HIGH-WAISTED LEGGINGS and matching CROP TOP set. Black corset between pieces. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: athletic dark. Dark gym aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional two-piece photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin at midriff. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HIGH-WAISTED LEGGINGS and matching CROP TOP set. Black corset between pieces. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: athletic dark. Dark gym aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 11. Helena - Vex Bodysuit Black
 
 ```text
-Professional bodysuit photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX BODYSUIT high-cut legs, plunge front. Black overbust corset over. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: base layer perfection. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bodysuit photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX BODYSUIT high-cut legs, plunge front. Black overbust corset over. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: base layer perfection. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 12. Helena - Vex Capri Set
 
 ```text
-Professional capri photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CAPRI PANTS and HALTER TOP. Black corset belt. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: casual dark luxury. Modern loft. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional capri photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CAPRI PANTS and HALTER TOP. Black corset belt. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: casual dark luxury. Modern loft. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 13. Helena - Vex Shorts Set
 
 ```text
-Professional shorts photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HIGH-WAISTED SHORTS and BRALETTE. Black corset belt. PLEASER FLAMINGO-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: summer goth. Dark pool party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional shorts photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HIGH-WAISTED SHORTS and BRALETTE. Black corset belt. PLEASER FLAMINGO-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: summer goth. Dark pool party. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 14. Helena - Vex Skirt Pleated
 
 ```text
-Professional skirt photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX PLEATED MINI SKIRT schoolgirl style with BLACK LATEX CROP TOP. Black corset visible. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: dark academia. Gothic library. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional skirt photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX PLEATED MINI SKIRT schoolgirl style with BLACK LATEX CROP TOP. Black corset visible. PLEASER MOON-708 black 7-inch heel. Sensual pose with arched back, bedroom eyes. Expression: dark academia. Gothic library. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 15. Helena - Vex Gown Floor Length
 
 ```text
-Professional gown photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in glamorous updo. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips with shimmer. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX EVENING GOWN floor-length, thigh slit, corset bodice integrated. PLEASER stiletto 8-inch sandal peeking through slit. Sensual pose with arched back, bedroom eyes. Expression: dark gala. Luxury ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gown photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in glamorous updo. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips with shimmer. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX EVENING GOWN floor-length, thigh slit, corset bodice integrated. PLEASER stiletto 8-inch sandal peeking through slit. Sensual pose with arched back, bedroom eyes. Expression: dark gala. Luxury ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 16. Helena - Vex Hood Catsuit
 
 ```text
-Professional hooded photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair mostly hidden by hood. Pale porcelain white skin at face. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HOODED CATSUIT with attached hood. Black corset over. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: anonymous predator. Dark studio rim-lit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hooded photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair mostly hidden by hood. Pale porcelain white skin at face. Full glossy black lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX HOODED CATSUIT with attached hood. Black corset over. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: anonymous predator. Dark studio rim-lit. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 17. Helena - Vex Gloves Opera
 
 ```text
-Professional glove focus photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette in VEX black catsuit. Black corset. Focus on VEX CLOTHING BLACK LATEX OPERA GLOVES past elbow, impossibly shiny. PLEASER 8-inch boots visible. Sensual pose with arched back, bedroom eyes. Expression: gloved perfection. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glove focus photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette in VEX black catsuit. Black corset. Focus on VEX CLOTHING BLACK LATEX OPERA GLOVES past elbow, impossibly shiny. PLEASER 8-inch boots visible. Sensual pose with arched back, bedroom eyes. Expression: gloved perfection. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 18. Helena - Vex Harness and Catsuit
 
 ```text
-Professional harness photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CATSUIT with VEX BLACK LATEX BODY HARNESS over top, O-rings and straps. Black corset integrated in harness. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: maximum fetish. Dark dungeon aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harness photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing VEX CLOTHING BLACK LATEX CATSUIT with VEX BLACK LATEX BODY HARNESS over top, O-rings and straps. Black corset integrated in harness. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: maximum fetish. Dark dungeon aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -584,3 +584,5 @@ Professional latex photography of BOTH ultimate pose. HELENA: VEX BLACK CATSUIT 
 
 *Helena de Anaïs* 🦇
 *La Voûte d'Anaïs — VEX Clothing Edition (100 Prompts COMPLETE)*
+
+

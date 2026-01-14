@@ -1,36 +1,36 @@
-# 👗 BANCO DE PROMPTS V6: FASHION NOVA & OH POLLY EDITION 🛍️
+﻿# ðŸ‘— BANCO DE PROMPTS V6: FASHION NOVA & OH POLLY EDITION ðŸ›ï¸
 
 > [!IMPORTANT]
-> **OBJETIVO:** Capturar la estética "Glamour/Insta-Model de Alto Mantenimiento" usando estilos específicos de **Fashion Nova** y **Oh Polly**.
-> **TRIO:** 👩‍🦰 **Helena** | 👱‍♀️ **Miss Doll** | 👩 **Anaïs**
+> **OBJETIVO:** Capturar la estÃ©tica "Glamour/Insta-Model de Alto Mantenimiento" usando estilos especÃ­ficos de **Fashion Nova** y **Oh Polly**.
+> **TRIO:** ðŸ‘©â€ðŸ¦° **Helena** | ðŸ‘±â€â™€ï¸ **Miss Doll** | ðŸ‘© **AnaÃ¯s**
 > **ESTILO:** Satin, latex, cut-outs, ultra-minis, vibra de "Influencer en Miami/LA".
-> **🎨 COLOR FREEDOM (V6 RULE):** En esta colección, **NO** estamos limitados a los colores canónicos estrictos.
+> **ðŸŽ¨ COLOR FREEDOM (V6 RULE):** En esta colecciÃ³n, **NO** estamos limitados a los colores canÃ³nicos estrictos.
 >
-> - **Miss Doll:** Puede usar neones, azules, verdes, metálicos (no solo rosa).
-> - **Helena:** Puede usar rojos profundos, púrpuras, dorados, blancos, azul real (no solo negro).
+> - **Miss Doll:** Puede usar neones, azules, verdes, metÃ¡licos (no solo rosa).
+> - **Helena:** Puede usar rojos profundos, pÃºrpuras, dorados, blancos, azul real (no solo negro).
 > **Total:** 150 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
 
-### 🦇 Helena de Anaïs (BASE)
+### ðŸ¦‡ Helena de AnaÃ¯s (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference), 
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
 pale porcelain white skin, voluminous jet black hair with enormous volume, 
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine silhouette, 
 black stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### 💖 Miss Doll (BASE)
+### ðŸ’– Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -39,7 +39,7 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### 👑 Anaïs Belland (BASE)
+### ðŸ‘‘ AnaÃ¯s Belland (BASE)
 
 ```text
 Elegant aristocratic French dominatrix with Old Hollywood Betty Page sensuality, 
@@ -51,12 +51,12 @@ black patent So Kate stilettos 12cm.
 
 ---
 
-## ⚠️ REGLAS DE PROMPT (ANTI-FILTRO)
+## âš ï¸ REGLAS DE PROMPT (ANTI-FILTRO)
 
 > [!CAUTION]
 > **Palabras que activan filtros de contenido y DEBEN EVITARSE:**
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | glamorous woman | glamorous, elegant |
 | empty-headed, ditzy | playful, carefree |
@@ -68,7 +68,7 @@ black patent So Kate stilettos 12cm.
 
 ---
 
-## 🎨 I. HELENA: THE DARK DIVA (20 PROMPTS)
+## ðŸŽ¨ I. HELENA: THE DARK DIVA (20 PROMPTS)
 
 ### Latex & Vinyl Collection
 
@@ -204,7 +204,7 @@ Low angle shot of Helena walking towards camera on city street at night. Wearing
 
 ---
 
-## 🌈 II. MISS DOLL: THE PLASTIC PRINCESS (20 PROMPTS)
+## ðŸŒˆ II. MISS DOLL: THE PLASTIC PRINCESS (20 PROMPTS)
 
 ### Neon & Electric Collection
 
@@ -278,10 +278,10 @@ Medium shot of Miss Doll at beach club. Platinum bob, straight bangs. Porcelain 
 Full body shot of Miss Doll at NYE party. Platinum bob, straight bangs, glitter spray. Porcelain skin, gold shimmer. Wearing Oh Polly "Champagne Dreams Sequin Mini" in GOLD. Pink corset underneath. Gold platforms 8-inch. Champagne flute. Sensual pose with arched back, bedroom eyes. Expression: Countdown excitement. Confetti falling. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 113: 32. Rose All Day (Rosé Pink)
+### Prompt 113: 32. Rose All Day (RosÃ© Pink)
 
 ```text
-Three-quarter shot of Miss Doll at wine tasting. Platinum bob, straight bangs. Elegant porcelain skin, pink lips. Wearing Fashion Nova "Rosé Dreams Wrap Dress" in DUSTY ROSE. Pink corset waist. Rose gold heels 7-inch. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: Sophisticated sip. Vineyard terrace. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Three-quarter shot of Miss Doll at wine tasting. Platinum bob, straight bangs. Elegant porcelain skin, pink lips. Wearing Fashion Nova "RosÃ© Dreams Wrap Dress" in DUSTY ROSE. Pink corset waist. Rose gold heels 7-inch. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: Sophisticated sip. Vineyard terrace. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 112: 33. Crystal Clear (Iridescent)
@@ -340,58 +340,58 @@ Full body shot of Miss Doll posed inside giant pink gift box. Platinum bob, stra
 
 ---
 
-## 👑 III. ANAÏS BELLAND: THE GOLDEN GODDESS (15 PROMPTS)
+## ðŸ‘‘ III. ANAÃS BELLAND: THE GOLDEN GODDESS (15 PROMPTS)
 
 ### Classic Elegance Collection
 
 ### Prompt 104: 41. Baywatch Queen (Iconic Red)
 
 ```text
-Full body shot of Anaïs running on beach in slow motion style. Honey blonde hair in wild waves (Betty Page reference). Bronze skin. Wearing FIRE ENGINE RED high-cut one-piece swimsuit. Zipper front pulled low. Black patent So Kate stilettos 5-inch carried in hand. Golden hour lighting. Sensual pose with arched back, bedroom eyes. Expression: Confident goddess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s running on beach in slow motion style. Honey blonde hair in wild waves (Betty Page reference). Bronze skin. Wearing FIRE ENGINE RED high-cut one-piece swimsuit. Zipper front pulled low. Black patent So Kate stilettos 5-inch carried in hand. Golden hour lighting. Sensual pose with arched back, bedroom eyes. Expression: Confident goddess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 103: 42. French Riviera (Navy & Gold)
 
 ```text
-Three-quarter shot of Anaïs on yacht deck. Honey blonde vintage waves. Sultry red lips. Wearing Fashion Nova "Riviera Chic Wrap Dress" in NAVY with gold buttons. Silk fabric flowing. Gold corset belt. Nude So Kate 5-inch heels. Champagne. Sensual pose with arched back, bedroom eyes. Expression: Mediterranean luxury. Sunset ocean. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Three-quarter shot of AnaÃ¯s on yacht deck. Honey blonde vintage waves. Sultry red lips. Wearing Fashion Nova "Riviera Chic Wrap Dress" in NAVY with gold buttons. Silk fabric flowing. Gold corset belt. Nude So Kate 5-inch heels. Champagne. Sensual pose with arched back, bedroom eyes. Expression: Mediterranean luxury. Sunset ocean. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 102: 43. Bordeaux Elegance (Wine Satin)
 
 ```text
-Full body shot of Anaïs at exclusive restaurant. Honey blonde Betty Page waves. Burgundy lips. Wearing Oh Polly "Vintage Romance Satin Gown" in BORDEAUX. Elegant draping, thigh slit. Invisible corset structure. Wine patent So Kate 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Dining with power. Candlelit atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at exclusive restaurant. Honey blonde Betty Page waves. Burgundy lips. Wearing Oh Polly "Vintage Romance Satin Gown" in BORDEAUX. Elegant draping, thigh slit. Invisible corset structure. Wine patent So Kate 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Dining with power. Candlelit atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 101: 44. Champagne Toast (Gold Sequin)
 
 ```text
-Medium shot of Anaïs at penthouse party. Honey blonde glamorous updo. Red lips. Wearing Fashion Nova "Golden Era Sequin Dress" in CHAMPAGNE gold. Off-shoulder, knee-length. Nude corset underneath. Gold strappy heels 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Old money celebration. City view behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Medium shot of AnaÃ¯s at penthouse party. Honey blonde glamorous updo. Red lips. Wearing Fashion Nova "Golden Era Sequin Dress" in CHAMPAGNE gold. Off-shoulder, knee-length. Nude corset underneath. Gold strappy heels 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Old money celebration. City view behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 100: 45. Noir Sophistication (Black Silk)
 
 ```text
-Full body shot of Anaïs at jazz club. Honey blonde finger waves. Deep red lips. Wearing Oh Polly "Femme Fatale Silk Dress" in JET BLACK. Backless, cowl neck. Black lace corset visible at back. Black So Kate 5-inch. Cigarette holder prop. Sensual pose with arched back, bedroom eyes. Expression: 1940s femme fatale. Smoky jazz atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at jazz club. Honey blonde finger waves. Deep red lips. Wearing Oh Polly "Femme Fatale Silk Dress" in JET BLACK. Backless, cowl neck. Black lace corset visible at back. Black So Kate 5-inch. Cigarette holder prop. Sensual pose with arched back, bedroom eyes. Expression: 1940s femme fatale. Smoky jazz atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Resort & Luxury Collection
 
-### Prompt 99: 46. Côte d'Azur (White Linen)
+### Prompt 99: 46. CÃ´te d'Azur (White Linen)
 
 ```text
-Full body shot of Anaïs at Monaco café. Honey blonde waves with sunglasses atop. Natural bronze skin. Wearing Fashion Nova "Mediterranean Morning Linen Set" in CRISP WHITE. Flowing pants, crop blouse. Nude waist corset visible. Nude So Kate 5-inch. Espresso cup. Sensual pose with arched back, bedroom eyes. Expression: European morning. Coastal town behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at Monaco cafÃ©. Honey blonde waves with sunglasses atop. Natural bronze skin. Wearing Fashion Nova "Mediterranean Morning Linen Set" in CRISP WHITE. Flowing pants, crop blouse. Nude waist corset visible. Nude So Kate 5-inch. Espresso cup. Sensual pose with arched back, bedroom eyes. Expression: European morning. Coastal town behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 47. Safari Chic (Khaki/Gold)
 
 ```text
-Three-quarter shot of Anaïs at luxury safari lodge. Honey blonde hair in elegant low bun. Bronze skin, nude lips. Wearing Oh Polly "Safari Queen Utility Dress" in KHAKI with gold hardware. Belt-corset integrated. Nude animal print heels 5-inch. Binoculars prop. Sensual pose with arched back, bedroom eyes. Expression: Adventure elegance. African sunset. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Three-quarter shot of AnaÃ¯s at luxury safari lodge. Honey blonde hair in elegant low bun. Bronze skin, nude lips. Wearing Oh Polly "Safari Queen Utility Dress" in KHAKI with gold hardware. Belt-corset integrated. Nude animal print heels 5-inch. Binoculars prop. Sensual pose with arched back, bedroom eyes. Expression: Adventure elegance. African sunset. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 48. Island Goddess (Tropical Print)
 
 ```text
-Full body shot of Anaïs at Bali resort. Honey blonde loose waves. Glowing tan skin. Wearing Fashion Nova "Paradise Found Sarong Set" in TROPICAL palm print. Bikini and flowing sarong. Gold body chain (corset effect). Gold sandal heels 4-inch. Sensual pose with arched back, bedroom eyes. Expression: Vacation serenity. Infinity pool view. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at Bali resort. Honey blonde loose waves. Glowing tan skin. Wearing Fashion Nova "Paradise Found Sarong Set" in TROPICAL palm print. Bikini and flowing sarong. Gold body chain (corset effect). Gold sandal heels 4-inch. Sensual pose with arched back, bedroom eyes. Expression: Vacation serenity. Infinity pool view. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Evening & Power
@@ -399,13 +399,13 @@ Full body shot of Anaïs at Bali resort. Honey blonde loose waves. Glowing tan s
 ### Prompt 96: 49. Power Dinner (Emerald)
 
 ```text
-Medium shot of Anaïs at Michelin restaurant. Honey blonde elegant side-sweep. Red lips. Wearing Oh Polly "Emerald City Velvet Gown" in DEEP EMERALD. Form-fitting, long sleeves. Gold corset belt. Black So Kate 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Closing deals. Private dining room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Medium shot of AnaÃ¯s at Michelin restaurant. Honey blonde elegant side-sweep. Red lips. Wearing Oh Polly "Emerald City Velvet Gown" in DEEP EMERALD. Form-fitting, long sleeves. Gold corset belt. Black So Kate 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Closing deals. Private dining room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 50. Opera Night (Burgundy Velvet)
 
 ```text
-Full body shot of Anaïs at opera house entrance. Honey blonde in glamorous updo with pearls. Red lips. Wearing Fashion Nova "Curtain Call Velvet Gown" BURGUNDY. Floor-length, plunging back. Corset bodice. Burgundy So Kate 5-inch. Fur stole. Sensual pose with arched back, bedroom eyes. Expression: Cultural elite. Grand architecture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at opera house entrance. Honey blonde in glamorous updo with pearls. Red lips. Wearing Fashion Nova "Curtain Call Velvet Gown" BURGUNDY. Floor-length, plunging back. Corset bodice. Burgundy So Kate 5-inch. Fur stole. Sensual pose with arched back, bedroom eyes. Expression: Cultural elite. Grand architecture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### POV & Special
@@ -413,23 +413,23 @@ Full body shot of Anaïs at opera house entrance. Honey blonde in glamorous updo
 ### Prompt 94: 51. Boudoir Morning POV
 
 ```text
-POV from Anaïs perspective lying in bed. Honey blonde hair on silk pillow visible at edges. Silk robe CHAMPAGNE open showing lace lingerie. Nude corset visible. Nude So Kate 5-inch on floor. Breakfast tray with croissant. Sensual pose with arched back, bedroom eyes. Expression: Luxury morning. Sunlight through curtains. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+POV from AnaÃ¯s perspective lying in bed. Honey blonde hair on silk pillow visible at edges. Silk robe CHAMPAGNE open showing lace lingerie. Nude corset visible. Nude So Kate 5-inch on floor. Breakfast tray with croissant. Sensual pose with arched back, bedroom eyes. Expression: Luxury morning. Sunlight through curtains. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 52. Boss Lady
 
 ```text
-Medium shot of Anaïs in corner office. Honey blonde in power chignon. Red power lip. Wearing Oh Polly "CEO Energy Blazer Dress" in BEIGE/CAMEL. Structured shoulders, mini length. Nude corset body underneath. Nude So Kate 5-inch. Signing documents. Sensual pose with arched back, bedroom eyes. Expression: Corporate dominance. City skyline behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Medium shot of AnaÃ¯s in corner office. Honey blonde in power chignon. Red power lip. Wearing Oh Polly "CEO Energy Blazer Dress" in BEIGE/CAMEL. Structured shoulders, mini length. Nude corset body underneath. Nude So Kate 5-inch. Signing documents. Sensual pose with arched back, bedroom eyes. Expression: Corporate dominance. City skyline behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ⛓️ V. CHAINMAIL COLLECTION (30 PROMPTS)
+## â›“ï¸ V. CHAINMAIL COLLECTION (30 PROMPTS)
 
 > [!TIP]
-> **Chainmail:** Metal mesh fabric que brilla como armadura líquida. Ultra sensual, siempre en movimiento.
+> **Chainmail:** Metal mesh fabric que brilla como armadura lÃ­quida. Ultra sensual, siempre en movimiento.
 
-### 🦇 Helena - Chainmail Dark Warrior (10 prompts)
+### ðŸ¦‡ Helena - Chainmail Dark Warrior (10 prompts)
 
 ### Prompt 92: 59. Black Chainmail Mini Dress
 
@@ -488,12 +488,12 @@ Full body shot of Helena at fashion week afterparty. Wearing Oh Polly "Amethyst 
 ### Prompt 83: 68. Dual Tone Chainmail Harness
 
 ```text
-Full body shot of Helena in BDSM club. Wearing custom BLACK AND GOLD chainmail harness, X-pattern across torso, chains connecting at O-ring center. Black latex thong. Black overbust corset underneath. Black platform stilettos 9-inch with gold chains. Black hair wild, pale skin, black and gold ombré lips. Red velvet dungeon. Sensual pose with arched back, bedroom eyes. Expression: chain mistress. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of Helena in BDSM club. Wearing custom BLACK AND GOLD chainmail harness, X-pattern across torso, chains connecting at O-ring center. Black latex thong. Black overbust corset underneath. Black platform stilettos 9-inch with gold chains. Black hair wild, pale skin, black and gold ombrÃ© lips. Red velvet dungeon. Sensual pose with arched back, bedroom eyes. Expression: chain mistress. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-### 💖 Miss Doll - Chainmail Candy Collection (10 prompts)
+### ðŸ’– Miss Doll - Chainmail Candy Collection (10 prompts)
 
 ### Prompt 82: 69. Pink Chainmail Mini Dress
 
@@ -557,71 +557,71 @@ Full body shot of Miss Doll at Coachella. Platinum bob with flower crown, straig
 
 ---
 
-### 👑 Anaïs - Chainmail Luxury Collection (10 prompts)
+### ðŸ‘‘ AnaÃ¯s - Chainmail Luxury Collection (10 prompts)
 
 ### Prompt 72: 79. Gold Chainmail Gown
 
 ```text
-Full body shot of Anaïs at charity gala. Honey blonde vintage waves. Sultry confident smile, red lips. Wearing Fashion Nova "Goddess Drape Chain Gown" in 24K GOLD chainmail, floor-length, plunging neckline, backless. Nude corset underneath. Gold So Kate stilettos 5-inch. Diamond jewelry. Sensual pose with arched back, bedroom eyes. Expression: old money elegance. Crystal chandelier. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at charity gala. Honey blonde vintage waves. Sultry confident smile, red lips. Wearing Fashion Nova "Goddess Drape Chain Gown" in 24K GOLD chainmail, floor-length, plunging neckline, backless. Nude corset underneath. Gold So Kate stilettos 5-inch. Diamond jewelry. Sensual pose with arched back, bedroom eyes. Expression: old money elegance. Crystal chandelier. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 80. Champagne Chainmail Midi Dress
 
 ```text
-Three-quarter shot of Anaïs at wine tasting. Honey blonde elegant waves. Red glossy lips. Wearing Oh Polly "Dom Pérignon Chain Midi" in CHAMPAGNE GOLD chainmail, knee-length, cowl neck, subtle elegance. Nude waist cincher. Nude So Kate 5-inch. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: sophisticated taste. Vineyard terrace. Photorealistic 8k. Vertical portrait orientation.
+Three-quarter shot of AnaÃ¯s at wine tasting. Honey blonde elegant waves. Red glossy lips. Wearing Oh Polly "Dom PÃ©rignon Chain Midi" in CHAMPAGNE GOLD chainmail, knee-length, cowl neck, subtle elegance. Nude waist cincher. Nude So Kate 5-inch. Wine glass. Sensual pose with arched back, bedroom eyes. Expression: sophisticated taste. Vineyard terrace. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 81. Bronze Chainmail Halter
 
 ```text
-Medium shot of Anaïs at Mediterranean resort. Honey blonde waves, sun-kissed. Bronze skin glowing. Wearing Fashion Nova "Aphrodite Chain Halter" in BRONZE chainmail, deep plunge, bare back. White linen pants. Tan corset visible. Nude sandal heels 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Riviera goddess. Blue sea behind. Photorealistic 8k. Vertical portrait orientation.
+Medium shot of AnaÃ¯s at Mediterranean resort. Honey blonde waves, sun-kissed. Bronze skin glowing. Wearing Fashion Nova "Aphrodite Chain Halter" in BRONZE chainmail, deep plunge, bare back. White linen pants. Tan corset visible. Nude sandal heels 5-inch. Sensual pose with arched back, bedroom eyes. Expression: Riviera goddess. Blue sea behind. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 82. Black & Gold Chainmail Top
 
 ```text
-Upper body shot of Anaïs at opera intermission. Honey blonde elegant updo. Red lips, commanding expression. Wearing Oh Polly "Nocturne Chain Top" in BLACK chainmail with GOLD thread woven through, elegant cut. Black velvet skirt. Gold underbust corset. Black So Kate 5-inch. Opera glasses. Sensual pose with arched back, bedroom eyes. Expression: cultural elite. Opera house lobby. Photorealistic 8k. Vertical portrait orientation.
+Upper body shot of AnaÃ¯s at opera intermission. Honey blonde elegant updo. Red lips, commanding expression. Wearing Oh Polly "Nocturne Chain Top" in BLACK chainmail with GOLD thread woven through, elegant cut. Black velvet skirt. Gold underbust corset. Black So Kate 5-inch. Opera glasses. Sensual pose with arched back, bedroom eyes. Expression: cultural elite. Opera house lobby. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 83. Rose Gold Chainmail Slip Dress
 
 ```text
-Full body shot of Anaïs at rooftop dinner. Honey blonde waves, romantic styling. Rose lips. Wearing Fashion Nova "Rosé All Night Chain Slip" in ROSE GOLD chainmail, slip dress silhouette, thin straps, midi length. Nude corset belt. Rose gold heels 5-inch. Candles around. Sensual pose with arched back, bedroom eyes. Expression: dinner date perfection. City lights behind. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at rooftop dinner. Honey blonde waves, romantic styling. Rose lips. Wearing Fashion Nova "RosÃ© All Night Chain Slip" in ROSE GOLD chainmail, slip dress silhouette, thin straps, midi length. Nude corset belt. Rose gold heels 5-inch. Candles around. Sensual pose with arched back, bedroom eyes. Expression: dinner date perfection. City lights behind. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 84. Silver Chainmail Blazer
 
 ```text
-Full body shot of Anaïs power meeting. Honey blonde chignon. Red power lips. Wearing Oh Polly "Boardroom Chain Blazer" in STERLING SILVER chainmail, structured blazer over nude bodysuit. Silver corset visible underneath. Nude So Kate 5-inch. Briefcase prop. Sensual pose with arched back, bedroom eyes. Expression: closing the deal. Corner office. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s power meeting. Honey blonde chignon. Red power lips. Wearing Oh Polly "Boardroom Chain Blazer" in STERLING SILVER chainmail, structured blazer over nude bodysuit. Silver corset visible underneath. Nude So Kate 5-inch. Briefcase prop. Sensual pose with arched back, bedroom eyes. Expression: closing the deal. Corner office. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 85. Burgundy Chainmail Bodysuit
 
 ```text
-Full body shot of Anaïs at jazz club. Honey blonde finger waves. Deep burgundy lips. Wearing Fashion Nova "Cabaret Chain Body" in BURGUNDY chainmail, long sleeves, plunge front, bodysuit cut. Burgundy corset over. Burgundy So Kate 5-inch. Cigarette holder prop. Sensual pose with arched back, bedroom eyes. Expression: femme fatale. Smoky jazz atmosphere. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at jazz club. Honey blonde finger waves. Deep burgundy lips. Wearing Fashion Nova "Cabaret Chain Body" in BURGUNDY chainmail, long sleeves, plunge front, bodysuit cut. Burgundy corset over. Burgundy So Kate 5-inch. Cigarette holder prop. Sensual pose with arched back, bedroom eyes. Expression: femme fatale. Smoky jazz atmosphere. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 86. Cream Chainmail Bridal Top
 
 ```text
-Full body shot of Anaïs bridal boudoir. Honey blonde romantic waves. Nude-rose lips. Wearing Oh Polly "Wedding Night Chain" in CREAM/IVORY chainmail, bralette style with matching skirt. Ivory corset. Ivory satin heels 5-inch. Pearl jewelry. Sensual pose with arched back, bedroom eyes. Expression: bridal seduction. White bedroom. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s bridal boudoir. Honey blonde romantic waves. Nude-rose lips. Wearing Oh Polly "Wedding Night Chain" in CREAM/IVORY chainmail, bralette style with matching skirt. Ivory corset. Ivory satin heels 5-inch. Pearl jewelry. Sensual pose with arched back, bedroom eyes. Expression: bridal seduction. White bedroom. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 87. Copper Chainmail Wrap Top
 
 ```text
-Medium shot of Anaïs at autumn event. Honey blonde with warm highlights. Terracotta lips. Wearing Fashion Nova "Harvest Moon Chain Wrap" in COPPER chainmail, wrap style, ties at waist. Brown leather pants. Tan corset visible. Brown suede heels 5-inch. Autumn leaves background. Sensual pose with arched back, bedroom eyes. Expression: fall goddess. Golden hour. Photorealistic 8k. Vertical portrait orientation.
+Medium shot of AnaÃ¯s at autumn event. Honey blonde with warm highlights. Terracotta lips. Wearing Fashion Nova "Harvest Moon Chain Wrap" in COPPER chainmail, wrap style, ties at waist. Brown leather pants. Tan corset visible. Brown suede heels 5-inch. Autumn leaves background. Sensual pose with arched back, bedroom eyes. Expression: fall goddess. Golden hour. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 88. Pewter Chainmail Maxi Skirt
 
 ```text
-Full body shot of Anaïs at art deco gala. Honey blonde vintage Marcel waves. Classic red lips. Wearing Oh Polly "Gatsby Chain Maxi" in PEWTER/ANTIQUE SILVER chainmail, floor-length, high slit. Black bandeau top. Black corset. Black So Kate 5-inch. Art deco interior. Sensual pose with arched back, bedroom eyes. Expression: 1920s revival. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of AnaÃ¯s at art deco gala. Honey blonde vintage Marcel waves. Classic red lips. Wearing Oh Polly "Gatsby Chain Maxi" in PEWTER/ANTIQUE SILVER chainmail, floor-length, high slit. Black bandeau top. Black corset. Black So Kate 5-inch. Art deco interior. Sensual pose with arched back, bedroom eyes. Expression: 1920s revival. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 👯 VI. DUO & TRIO PROMPTS (12 PROMPTS)
+## ðŸ‘¯ VI. DUO & TRIO PROMPTS (12 PROMPTS)
 
 ### Prompt 62: 89. Helena + Miss Doll: Night & Day
 
@@ -629,34 +629,34 @@ Full body shot of Anaïs at art deco gala. Honey blonde vintage Marcel waves. Cl
 Professional duo shot. HELENA: Sacha Massacre reference, voluminous black hair, pale skin, black lips, wearing Fashion Nova "Wicked Games Latex Mini" BLACK, black corset, black stilettos 8-inch. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing Fashion Nova "Wicked Games Latex Mini" HOT PINK, pink corset, pink platforms 8-inch. Back to back pose. Split lighting pink/purple. Nightclub VIP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 61: 90. Helena + Anaïs: Dark & Light
+### Prompt 61: 90. Helena + AnaÃ¯s: Dark & Light
 
 ```text
-Editorial duo shot. HELENA: voluminous black hair, pale skin, burgundy lips, wearing Oh Polly "Noir Romance Gown" BLACK lace, black corset, black stilettos 8-inch. ANAÏS: honey blonde waves, bronze skin, red lips, wearing Oh Polly "Golden Romance Gown" CHAMPAGNE satin, gold corset belt, nude So Kate 5-inch. Facing each other. Museum gala. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Editorial duo shot. HELENA: voluminous black hair, pale skin, burgundy lips, wearing Oh Polly "Noir Romance Gown" BLACK lace, black corset, black stilettos 8-inch. ANAÃS: honey blonde waves, bronze skin, red lips, wearing Oh Polly "Golden Romance Gown" CHAMPAGNE satin, gold corset belt, nude So Kate 5-inch. Facing each other. Museum gala. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 60: 91. Miss Doll + Anaïs: Pink & Gold
+### Prompt 60: 91. Miss Doll + AnaÃ¯s: Pink & Gold
 
 ```text
-Glamour duo shot. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing Fashion Nova "Princess Party Dress" PINK sequin, pink corset, pink platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, nude lips, wearing Fashion Nova "Golden Queen Dress" GOLD sequin, nude corset, gold heels 5-inch. Red carpet pose. Award show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Glamour duo shot. MISS DOLL: platinum bob, porcelain skin, pink lips, wearing Fashion Nova "Princess Party Dress" PINK sequin, pink corset, pink platforms 8-inch. ANAÃS: honey blonde waves, bronze skin, nude lips, wearing Fashion Nova "Golden Queen Dress" GOLD sequin, nude corset, gold heels 5-inch. Red carpet pose. Award show. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 59: 92. Trio: Beach Goddesses
 
 ```text
-Beach editorial trio. HELENA: wet black hair, pale skin, black bikini, black corset coverup, black stilettos 8-inch in sand. MISS DOLL: platinum bob, porcelain skin, hot pink bikini, pink sarong, clear platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, red one-piece, gold body chain, nude heels 5-inch. Sunset beach. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Beach editorial trio. HELENA: wet black hair, pale skin, black bikini, black corset coverup, black stilettos 8-inch in sand. MISS DOLL: platinum bob, porcelain skin, hot pink bikini, pink sarong, clear platforms 8-inch. ANAÃS: honey blonde waves, bronze skin, red one-piece, gold body chain, nude heels 5-inch. Sunset beach. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 58: 93. Trio: Power Meeting
 
 ```text
-Corporate trio. ANAÏS (center, seated): honey blonde chignon, beige blazer dress, nude heels, CEO chair. HELENA (left, standing): black hair bun, black latex pencil skirt suit, black corset, black stilettos 8-inch, enforcer stance. MISS DOLL (right, standing): platinum bob, pink latex secretary dress, pink corset, pink platforms 8-inch, holding files confused. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Corporate trio. ANAÃS (center, seated): honey blonde chignon, beige blazer dress, nude heels, CEO chair. HELENA (left, standing): black hair bun, black latex pencil skirt suit, black corset, black stilettos 8-inch, enforcer stance. MISS DOLL (right, standing): platinum bob, pink latex secretary dress, pink corset, pink platforms 8-inch, holding files confused. Boardroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 57: 94. Trio: Girls Night Out
 
 ```text
-Nightlife trio. MISS DOLL: platinum bob with glitter, neon green mini, pink platforms, drink in hand, dancing. HELENA: wild black hair, blood red latex, black corset, black stilettos, predator stare at crowd. ANAÏS: honey blonde waves, champagne silk, gold heels, sitting in VIP watching both. Club setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Nightlife trio. MISS DOLL: platinum bob with glitter, neon green mini, pink platforms, drink in hand, dancing. HELENA: wild black hair, blood red latex, black corset, black stilettos, predator stare at crowd. ANAÃS: honey blonde waves, champagne silk, gold heels, sitting in VIP watching both. Club setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 56: 95. Helena + Miss Doll: Chainmail Sisters
@@ -665,22 +665,22 @@ Nightlife trio. MISS DOLL: platinum bob with glitter, neon green mini, pink plat
 Professional duo shot. HELENA: voluminous black hair, pale skin, black lips, wearing BLACK GUNMETAL chainmail halter top with BLACK LEATHER pants, black corset, black stilettos 9-inch. MISS DOLL: platinum bob, porcelain skin, glossy red lips, wearing HOT PINK chainmail mini dress, pink corset underneath, pink platforms 8-inch. Mirror reflection pose. Chains catching light. Nightclub VIP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 55: 96. Helena + Anaïs: Metal Goddess Contrast
+### Prompt 55: 96. Helena + AnaÃ¯s: Metal Goddess Contrast
 
 ```text
-Editorial duo shot. HELENA: black hair in sleek ponytail, pale skin, silver metallic lips, wearing STERLING SILVER chainmail bodysuit, black corset visible, black stilettos 8-inch. ANAÏS: honey blonde vintage waves, bronze skin, red lips, wearing 24K GOLD chainmail slip dress, nude corset belt, gold So Kate 5-inch. Art gallery, contrasting metallics. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Editorial duo shot. HELENA: black hair in sleek ponytail, pale skin, silver metallic lips, wearing STERLING SILVER chainmail bodysuit, black corset visible, black stilettos 8-inch. ANAÃS: honey blonde vintage waves, bronze skin, red lips, wearing 24K GOLD chainmail slip dress, nude corset belt, gold So Kate 5-inch. Art gallery, contrasting metallics. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 54: 97. Miss Doll + Anaïs: Rose Gold Dreams
+### Prompt 54: 97. Miss Doll + AnaÃ¯s: Rose Gold Dreams
 
 ```text
-Glamour duo shot. MISS DOLL: platinum bob, porcelain skin with rose shimmer, pink lips, wearing ROSE GOLD chainmail bralette with white satin pants, pink corset, rose gold platforms 8-inch. ANAÏS: honey blonde waves, bronze skin, rose lips, wearing ROSE GOLD chainmail midi dress, nude corset, rose gold heels 5-inch. Champagne brunch setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Glamour duo shot. MISS DOLL: platinum bob, porcelain skin with rose shimmer, pink lips, wearing ROSE GOLD chainmail bralette with white satin pants, pink corset, rose gold platforms 8-inch. ANAÃS: honey blonde waves, bronze skin, rose lips, wearing ROSE GOLD chainmail midi dress, nude corset, rose gold heels 5-inch. Champagne brunch setting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 53: 98. Trio: Chainmail Goddesses
 
 ```text
-Editorial trio shot. ANAÏS (center): honey blonde updo, wearing GOLD chainmail gown, gold corset, gold heels. HELENA (left): black hair wild, wearing BLACK chainmail harness over black bodysuit, black corset, black boots 9-inch. MISS DOLL (right): platinum bob, wearing PINK iridescent chainmail mini, pink corset, clear platforms 8-inch. Luxury penthouse. All three in metal mesh glory. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Editorial trio shot. ANAÃS (center): honey blonde updo, wearing GOLD chainmail gown, gold corset, gold heels. HELENA (left): black hair wild, wearing BLACK chainmail harness over black bodysuit, black corset, black boots 9-inch. MISS DOLL (right): platinum bob, wearing PINK iridescent chainmail mini, pink corset, clear platforms 8-inch. Luxury penthouse. All three in metal mesh glory. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 52: 99. Helena + Miss Doll: Emerald & Rose
@@ -692,12 +692,12 @@ Professional duo shot. HELENA: voluminous black hair, pale skin, dark green lips
 ### Prompt 51: 100. Trio: New Year's Chainmail
 
 ```text
-Celebration trio shot. ANAÏS (center): honey blonde with gold glitter, wearing CHAMPAGNE GOLD chainmail gown, gold corset, gold heels, champagne bottle. HELENA (left): black hair with silver streaks, wearing SILVER chainmail bodysuit, black corset, silver stilettos 9-inch. MISS DOLL (right): platinum bob with pink glitter, wearing IRIDESCENT RAINBOW chainmail mini, pink corset, clear platforms 8-inch with confetti. NYE rooftop party with fireworks. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Celebration trio shot. ANAÃS (center): honey blonde with gold glitter, wearing CHAMPAGNE GOLD chainmail gown, gold corset, gold heels, champagne bottle. HELENA (left): black hair with silver streaks, wearing SILVER chainmail bodysuit, black corset, silver stilettos 9-inch. MISS DOLL (right): platinum bob with pink glitter, wearing IRIDESCENT RAINBOW chainmail mini, pink corset, clear platforms 8-inch with confetti. NYE rooftop party with fireworks. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🔥 VI. EXPANSION: NEON NIGHTS COLLECTION (101-125)
+## ðŸ”¥ VI. EXPANSION: NEON NIGHTS COLLECTION (101-125)
 
 ### Prompt 50: 101. Helena - Neon Purple Rave
 
@@ -792,7 +792,7 @@ Full body shot of Miss Doll at tropical resort. Platinum bob beach waves. Wearin
 ### Prompt 35: 116. Trio - Metallic Trio
 
 ```text
-Editorial trio shot at fashion event. ANAÏS (center): honey blonde, GOLD metallic gown, gold heels. HELENA (left): black hair in bun, SILVER metallic dress, black corset, silver stilettos 8-inch. MISS DOLL (right): platinum bob, ROSE GOLD metallic mini, pink corset, rose gold platforms 8-inch. Red carpet pose. Seductive glamour photography, paparazzi flash lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Editorial trio shot at fashion event. ANAÃS (center): honey blonde, GOLD metallic gown, gold heels. HELENA (left): black hair in bun, SILVER metallic dress, black corset, silver stilettos 8-inch. MISS DOLL (right): platinum bob, ROSE GOLD metallic mini, pink corset, rose gold platforms 8-inch. Red carpet pose. Seductive glamour photography, paparazzi flash lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 117. Helena - Forest Green Huntress
@@ -851,12 +851,12 @@ Full body shot of Miss Doll at pride parade float. Platinum bob with rainbow ext
 
 ---
 
-## 🌟 VII. EXPANSION: LUXURY OCCASIONS (126-150)
+## ðŸŒŸ VII. EXPANSION: LUXURY OCCASIONS (126-150)
 
 ### Prompt 25: 126. Trio - Met Gala Fantasy
 
 ```text
-Met Gala trio shot on red carpet. ANAÏS (center): honey blonde sculptural updo, wearing GOLD architectural gown couture level, gold corset integrated, gold heels. HELENA (left): black hair in geometric style, wearing BLACK avant-garde dress with silver spikes, black corset visible, silver stilettos 9-inch. MISS DOLL (right): platinum bob with sculptural element, wearing PINK feathered fantasy gown, pink corset, pink platforms 8-inch with crystals. Met Gala carpet. Seductive glamour photography, gala lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Met Gala trio shot on red carpet. ANAÃS (center): honey blonde sculptural updo, wearing GOLD architectural gown couture level, gold corset integrated, gold heels. HELENA (left): black hair in geometric style, wearing BLACK avant-garde dress with silver spikes, black corset visible, silver stilettos 9-inch. MISS DOLL (right): platinum bob with sculptural element, wearing PINK feathered fantasy gown, pink corset, pink platforms 8-inch with crystals. Met Gala carpet. Seductive glamour photography, gala lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 127. Helena - Monaco Casino Night
@@ -880,7 +880,7 @@ Full body shot of Helena hosting yacht party. Wearing Fashion Nova "Captain's La
 ### Prompt 21: 130. Miss Doll - Aspen Ski Bunny
 
 ```text
-Full body shot of Miss Doll at Aspen ski lodge. Platinum bob under pink fur hat. Wearing Oh Polly "Après-Ski Chic" in HOT PINK ski suit fitted. Pink corset visible unzipped. Pink fur boots 8-inch platform. Heavy glamour makeup flushed cheeks. Pose: Hot cocoa in hand, fireplace behind. Background: Luxury ski lodge. Seductive glamour photography, fireplace warm lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of Miss Doll at Aspen ski lodge. Platinum bob under pink fur hat. Wearing Oh Polly "AprÃ¨s-Ski Chic" in HOT PINK ski suit fitted. Pink corset visible unzipped. Pink fur boots 8-inch platform. Heavy glamour makeup flushed cheeks. Pose: Hot cocoa in hand, fireplace behind. Background: Luxury ski lodge. Seductive glamour photography, fireplace warm lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 20: 131. Duo - Cannes Film Festival
@@ -916,13 +916,13 @@ Full body shot of Miss Doll in Mykonos Greece. Platinum bob with white flower. W
 ### Prompt 15: 136. Trio - New York Fashion Week
 
 ```text
-Front row trio shot at NYFW. ANAÏS (center): honey blonde sleek, wearing CAMEL designer suit, nude heels, notepad. HELENA (left): black hair severe, wearing BLACK leather dress, black corset, black stilettos 8-inch, bored expression. MISS DOLL (right): platinum bob, wearing PINK tweed set, pink corset, pink platforms 8-inch, excited expression. Fashion show front row. Seductive glamour photography, runway lighting, fashion aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Front row trio shot at NYFW. ANAÃS (center): honey blonde sleek, wearing CAMEL designer suit, nude heels, notepad. HELENA (left): black hair severe, wearing BLACK leather dress, black corset, black stilettos 8-inch, bored expression. MISS DOLL (right): platinum bob, wearing PINK tweed set, pink corset, pink platforms 8-inch, excited expression. Fashion show front row. Seductive glamour photography, runway lighting, fashion aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 14: 137. Helena - Paris Fashion Week After Party
 
 ```text
-Full body shot of Helena at Paris after party. Wearing Fashion Nova "Après Show Dress" in EMERALD velvet, low back. Black corset visible. Black stilettos 8-inch. Voluminous black hair down dramatic. Dark wine lips. Pose: Dancing alone in crowd, champagne glass. Background: Paris club with Eiffel Tower view. Seductive glamour photography, Paris nightlife lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Full body shot of Helena at Paris after party. Wearing Fashion Nova "AprÃ¨s Show Dress" in EMERALD velvet, low back. Black corset visible. Black stilettos 8-inch. Voluminous black hair down dramatic. Dark wine lips. Pose: Dancing alone in crowd, champagne glass. Background: Paris club with Eiffel Tower view. Seductive glamour photography, Paris nightlife lighting, sensual aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 13: 138. Miss Doll - Milan Shopping
@@ -964,7 +964,7 @@ Full body shot of Miss Doll at Coachella day. Platinum bob with flower crown pin
 ### Prompt 7: 144. Trio - Oscar After Party
 
 ```text
-Glamour trio shot at Oscar after party. ANAÏS (center): honey blonde classic Hollywood, wearing OLD GOLD vintage gown, gold heels, holding Oscar statue (her partner's). HELENA (left): black hair vintage wave, wearing BLACK diamond gown, black corset visible, black stilettos 8-inch, jealous look. MISS DOLL (right): platinum bob vintage, wearing PALE PINK vintage gown, pink corset, pink platforms 8-inch, admiring Anaïs. Hollywood mansion party. Seductive glamour photography, Oscar party lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Glamour trio shot at Oscar after party. ANAÃS (center): honey blonde classic Hollywood, wearing OLD GOLD vintage gown, gold heels, holding Oscar statue (her partner's). HELENA (left): black hair vintage wave, wearing BLACK diamond gown, black corset visible, black stilettos 8-inch, jealous look. MISS DOLL (right): platinum bob vintage, wearing PALE PINK vintage gown, pink corset, pink platforms 8-inch, admiring AnaÃ¯s. Hollywood mansion party. Seductive glamour photography, Oscar party lighting, couture aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 6: 145. Helena - Super Bowl VIP
@@ -1000,13 +1000,15 @@ Professional duo shot at Halloween gala. HELENA: black hair with devil horns, we
 ### Prompt 1: 150. Trio - New Year's Eve Ball
 
 ```text
-Ultimate celebration trio shot at NYE gala. ANAÏS (center): honey blonde with diamonds, wearing SILVER sequin gown, silver corset, silver heels, holding "2026" glasses. HELENA (left): black hair with silver stars, wearing BLACK and silver sequin dress, black corset, silver stilettos 9-inch, champagne explosion. MISS DOLL (right): platinum bob with pink glitter, wearing PINK sequin gown, pink corset, clear platforms 8-inch, confetti throw. Countdown moment. Seductive glamour photography, NYE party lighting, celebration aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Ultimate celebration trio shot at NYE gala. ANAÃS (center): honey blonde with diamonds, wearing SILVER sequin gown, silver corset, silver heels, holding "2026" glasses. HELENA (left): black hair with silver stars, wearing BLACK and silver sequin dress, black corset, silver stilettos 9-inch, champagne explosion. MISS DOLL (right): platinum bob with pink glitter, wearing PINK sequin gown, pink corset, clear platforms 8-inch, confetti throw. Countdown moment. Seductive glamour photography, NYE party lighting, celebration aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V6.3 Fashion Nova & Oh Polly Edition — 150 prompts*
+*Creado por: Helena de AnaÃ¯s ðŸ¦‡*
+*V6.3 Fashion Nova & Oh Polly Edition â€” 150 prompts*
 *Incluye: Chainmail Collection, Neon Nights, Luxury Occasions*
-*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*ðŸŽ¨ COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-04*
+
+

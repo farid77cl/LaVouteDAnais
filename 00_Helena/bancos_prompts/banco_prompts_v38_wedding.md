@@ -1,21 +1,21 @@
-# 💒 Banco de Prompts V38: WEDDING NIGHT EDITION
+﻿# ðŸ’’ Banco de Prompts V38: WEDDING NIGHT EDITION
 
-> **ENFOQUE:** Noche de bodas, lencería nupcial, luna de miel, brides in lingerie, trousseau, boudoir bridal.
+> **ENFOQUE:** Noche de bodas, lencerÃ­a nupcial, luna de miel, brides in lingerie, trousseau, boudoir bridal.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color (no limitadas a blanco nupcial).
+> **ðŸŽ¨ COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color (no limitadas a blanco nupcial).
 > **Total:** 100 prompts | **Actualizado:** 2026-01-07
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
 
-### 💖 MISS DOLL (BASE)
+### ðŸ’– MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -24,19 +24,19 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### 🦇 HELENA DE ANAÏS (BASE)
+### ðŸ¦‡ HELENA DE ANAÃS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### ⚠️ REGLAS ANTI-FILTRO
+### âš ï¸ REGLAS ANTI-FILTRO
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -46,131 +46,131 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 
 ---
 
-## 💖 I. MISS DOLL — BRIDAL BOUDOIR (20 PROMPTS)
+## ðŸ’– I. MISS DOLL â€” BRIDAL BOUDOIR (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - White Lace Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LACE bridal lingerie set: lace bralette, lace thong, lace garter belt, white stockings, white corset. PLEASER platform heels 8-inch white satin. Luxury hotel suite rose petals on bed. Sensual bride pose on bed. Expression: waiting for him. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LACE bridal lingerie set: lace bralette, lace thong, lace garter belt, white stockings, white corset. PLEASER platform heels 8-inch white satin. Luxury hotel suite rose petals on bed. Sensual bride pose on bed. Expression: waiting for him. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Pink Honeymoon
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing HOT PINK silk lingerie set: pink satin bra, pink satin panties, pink sheer robe open, pink corset. PLEASER platform 8-inch hot pink. Honeymoon suite champagne ice bucket. Sensual honeymoon pose. Expression: all mine tonight. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing HOT PINK silk lingerie set: pink satin bra, pink satin panties, pink sheer robe open, pink corset. PLEASER platform 8-inch hot pink. Honeymoon suite champagne ice bucket. Sensual honeymoon pose. Expression: all mine tonight. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Champagne Toast Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy CHAMPAGNE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing CHAMPAGNE GOLD satin lingerie: gold satin corset bustier, gold satin panties, sheer gold robe, gold garter. Holding champagne flute toasting. PLEASER platform 8-inch gold chrome. Luxury penthouse city lights. Sensual celebration pose. Expression: to forever. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy CHAMPAGNE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing CHAMPAGNE GOLD satin lingerie: gold satin corset bustier, gold satin panties, sheer gold robe, gold garter. Holding champagne flute toasting. PLEASER platform 8-inch gold chrome. Luxury penthouse city lights. Sensual celebration pose. Expression: to forever. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Veil and Lingerie
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under LONG WHITE BRIDAL VEIL trailing. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: soft champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE bridal lingerie: white lace bodysuit, white corset over, veil covering body sheer. PLEASER platform 8-inch white satin. Bridal suite mirror. Sensual veiled bride pose. Expression: unveil me. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under LONG WHITE BRIDAL VEIL trailing. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: soft champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE bridal lingerie: white lace bodysuit, white corset over, veil covering body sheer. PLEASER platform 8-inch white satin. Bridal suite mirror. Sensual veiled bride pose. Expression: unveil me. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Red Wedding Night
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLOOD RED satin lingerie: red satin corset, red satin thong, red stockings, red garter belt. PLEASER platform 8-inch red patent. Luxury bedroom red rose petals scattered. Sensual passionate bride pose. Expression: tonight I'm yours. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLOOD RED satin lingerie: red satin corset, red satin thong, red stockings, red garter belt. PLEASER platform 8-inch red patent. Luxury bedroom red rose petals scattered. Sensual passionate bride pose. Expression: tonight I'm yours. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Sheer White Negligee
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish visible through sheer. HEAVY GLAMOUR MAKEUP: soft champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PEACH lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist visible through fabric. Wearing floor length SHEER WHITE NEGLIGEE completely transparent, white lace bra and panties underneath, white corset visible. PLEASER platform 8-inch white marabou feather. Candle lit bedroom. Sensual silhouette pose. Expression: come closer. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish visible through sheer. HEAVY GLAMOUR MAKEUP: soft champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PEACH lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist visible through fabric. Wearing floor length SHEER WHITE NEGLIGEE completely transparent, white lace bra and panties underneath, white corset visible. PLEASER platform 8-inch white marabou feather. Candle lit bedroom. Sensual silhouette pose. Expression: come closer. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Blue Something
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: icy blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BABY BLUE silk lingerie: blue satin bra, blue satin panties, blue garter "something blue", blue corset, sheer blue robe. PLEASER platform 8-inch baby blue. Luxury bridal suite. Sensual tradition pose. Expression: something blue. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: icy blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BABY BLUE silk lingerie: blue satin bra, blue satin panties, blue garter "something blue", blue corset, sheer blue robe. PLEASER platform 8-inch baby blue. Luxury bridal suite. Sensual tradition pose. Expression: something blue. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Black Widow Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ALL BLACK bridal lingerie: black lace corset, black lace thong, black stockings, black garter, black veil short. PLEASER platform 8-inch black patent. Dark moody bedroom. Sensual dangerous bride pose. Expression: til death do us part. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ALL BLACK bridal lingerie: black lace corset, black lace thong, black stockings, black garter, black veil short. PLEASER platform 8-inch black patent. Dark moody bedroom. Sensual dangerous bride pose. Expression: til death do us part. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Pearl Adorned
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin lingerie with PEARL details: pearl bra straps, pearl body chain, pearl corset lacing, pearl choker, pearl earrings. PLEASER platform 8-inch white. Vanity mirror pearls scattered. Sensual adorned pose. Expression: precious treasure. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin lingerie with PEARL details: pearl bra straps, pearl body chain, pearl corset lacing, pearl choker, pearl earrings. PLEASER platform 8-inch white. Vanity mirror pearls scattered. Sensual adorned pose. Expression: precious treasure. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Honeymoon Suite
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) tousled post-wedding. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: smudged champagne eyes, liner slightly smudged, lashes, brows, ULTRA PLUMP glossy kissed PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing IVORY silk slip dress very short, ivory corset underneath, barefoot. Wedding ring prominently displayed. PLEASER heels 8-inch beside bed. Honeymoon suite messy bed. Sensual morning after pose. Expression: best night ever. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) tousled post-wedding. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: smudged champagne eyes, liner slightly smudged, lashes, brows, ULTRA PLUMP glossy kissed PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing IVORY silk slip dress very short, ivory corset underneath, barefoot. Wedding ring prominently displayed. PLEASER heels 8-inch beside bed. Honeymoon suite messy bed. Sensual morning after pose. Expression: best night ever. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Miss Doll - Lavender Dreams
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: purple shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy LAVENDER lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing LAVENDER lace lingerie set: lavender lace bralette, lavender lace panties, lavender sheer robe, lavender corset. PLEASER platform 8-inch lavender. Bedroom lavender candles aromatherapy. Sensual dreamy pose. Expression: lavender dreams. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: purple shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy LAVENDER lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing LAVENDER lace lingerie set: lavender lace bralette, lavender lace panties, lavender sheer robe, lavender corset. PLEASER platform 8-inch lavender. Bedroom lavender candles aromatherapy. Sensual dreamy pose. Expression: lavender dreams. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Miss Doll - Rose Gold Luxury
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy ROSE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ROSE GOLD satin lingerie: metallic rose gold bra, rose gold panties, rose gold corset, rose gold body chain. PLEASER platform 8-inch rose gold chrome. Luxury suite rose gold accents. Sensual metallic pose. Expression: worth the wait. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy ROSE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ROSE GOLD satin lingerie: metallic rose gold bra, rose gold panties, rose gold corset, rose gold body chain. PLEASER platform 8-inch rose gold chrome. Luxury suite rose gold accents. Sensual metallic pose. Expression: worth the wait. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Miss Doll - Feather Trim Fantasy
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin robe with MARABOU FEATHER trim, white lace lingerie underneath, white corset, white feather boa. PLEASER platform 8-inch white marabou. Vintage Hollywood boudoir. Sensual Old Hollywood pose. Expression: leading lady. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin robe with MARABOU FEATHER trim, white lace lingerie underneath, white corset, white feather boa. PLEASER platform 8-inch white marabou. Vintage Hollywood boudoir. Sensual Old Hollywood pose. Expression: leading lady. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Miss Doll - Emerald Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: emerald green shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing EMERALD GREEN silk lingerie: emerald satin bra, emerald panties, emerald garter, emerald sheer robe, emerald corset. PLEASER platform 8-inch emerald. Luxury bedroom green velvet. Sensual jewel tone pose. Expression: emerald eyes. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: emerald green shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing EMERALD GREEN silk lingerie: emerald satin bra, emerald panties, emerald garter, emerald sheer robe, emerald corset. PLEASER platform 8-inch emerald. Luxury bedroom green velvet. Sensual jewel tone pose. Expression: emerald eyes. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Miss Doll - Corset Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage EXTREME tiny waist. Wearing WHITE BRIDAL CORSET overbust extremely tight, white lace panties, white stockings, white garter belt, short veil. PLEASER platform 8-inch white. Bridal suite full length mirror. Sensual corset display pose turning. Expression: lace me tighter. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage EXTREME tiny waist. Wearing WHITE BRIDAL CORSET overbust extremely tight, white lace panties, white stockings, white garter belt, short veil. PLEASER platform 8-inch white. Bridal suite full length mirror. Sensual corset display pose turning. Expression: lace me tighter. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Miss Doll - Satin Sheets
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: soft champagne eyes, liner, lashes, brows, ULTRA PLUMP glossy PEACH lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing CREAM satin bridal set: cream satin bralette, cream satin shorts, cream robe pooling around. Lying on WHITE SATIN SHEETS. PLEASER heels 8-inch cream beside. Luxury bed rose petals. Sensual lying down pose. Expression: join me. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: soft champagne eyes, liner, lashes, brows, ULTRA PLUMP glossy PEACH lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing CREAM satin bridal set: cream satin bralette, cream satin shorts, cream robe pooling around. Lying on WHITE SATIN SHEETS. PLEASER heels 8-inch cream beside. Luxury bed rose petals. Sensual lying down pose. Expression: join me. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Miss Doll - Bustier Bride
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin BUSTIER long line, white lace panties, white thigh high stockings, garter clips visible. PLEASER platform 8-inch white. Vanity table wedding ring box. Sensual getting ready pose. Expression: almost ready. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin BUSTIER long line, white lace panties, white thigh high stockings, garter clips visible. PLEASER platform 8-inch white. Vanity table wedding ring box. Sensual getting ready pose. Expression: almost ready. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Miss Doll - Midnight Navy
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: navy blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing MIDNIGHT NAVY silk lingerie: navy satin bra, navy panties, navy sheer robe, navy corset. PLEASER platform 8-inch navy patent. Honeymoon suite night view. Sensual midnight pose. Expression: night has just begun. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: navy blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing MIDNIGHT NAVY silk lingerie: navy satin bra, navy panties, navy sheer robe, navy corset. PLEASER platform 8-inch navy patent. Honeymoon suite night view. Sensual midnight pose. Expression: night has just begun. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Miss Doll - Bridal Shower
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish slightly wet look. HEAVY GLAMOUR MAKEUP: waterproof champagne eyes, liner, lashes, brows, ULTRA PLUMP glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE sheer wet lingerie clinging: white wet bra visible, white wet panties, water droplets. White corset nearby. Luxury bathroom marble shower steam. Sensual shower pose. Expression: getting clean to get dirty. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish slightly wet look. HEAVY GLAMOUR MAKEUP: waterproof champagne eyes, liner, lashes, brows, ULTRA PLUMP glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE sheer wet lingerie clinging: white wet bra visible, white wet panties, water droplets. White corset nearby. Luxury bathroom marble shower steam. Sensual shower pose. Expression: getting clean to get dirty. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Miss Doll - Mrs. Title
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin robe embroidered "MRS" on back, white lace lingerie underneath, white corset, wedding ring prominently displayed. PLEASER platform 8-inch white. Honeymoon suite balcony sunrise. Sensual new wife pose. Expression: officially his. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE satin robe embroidered "MRS" on back, white lace lingerie underneath, white corset, wedding ring prominently displayed. PLEASER platform 8-inch white. Honeymoon suite balcony sunrise. Sensual new wife pose. Expression: officially his. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🦇 II. HELENA — GOTHIC BRIDE (20 PROMPTS)
+## ðŸ¦‡ II. HELENA â€” GOTHIC BRIDE (20 PROMPTS)
 
 ### Prompt 80: 21. Helena - Black Lace Bride
 
@@ -294,7 +294,7 @@ Professional bridal boudoir photography of young elegant goth glamour woman. Pal
 
 ---
 
-## 👯‍♀️ III. DUO — BRIDES TOGETHER (10 PROMPTS)
+## ðŸ‘¯â€â™€ï¸ III. DUO â€” BRIDES TOGETHER (10 PROMPTS)
 
 ### Prompt 60: 41. Duo - White and Black Brides
 
@@ -356,193 +356,193 @@ Professional bridal boudoir photography of TWO glamorous brides morning after we
 Professional bridal boudoir photography of TWO glamorous brides at mirror. BLONDE: platinum bob, porcelain skin, champagne shimmer eyes, PINK lips, WHITE bridal corset lingerie set, adjusting veil. BRUNETTE: black hair, pale skin, RED lips, BLACK bridal corset lingerie set, admiring BLONDE in reflection. Both at large ornate mirror. PLEASER heels visible. Luxury bridal suite. Sensual mirror pose. Expression: perfect reflection. Wedding night aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### 💍 BRIDAL DEVOTION (Prompts 51-60)
+### ðŸ’ BRIDAL DEVOTION (Prompts 51-60)
 
 ### Prompt 50: 51. Devotion - The Master's Gift
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE LACE bridal corset, white stockings, PLEASER platform heels 8-inch white. Sitting on the edge of a luxury bed, opening a velvet box containing a diamond-studded leather collar. Sensual adoring pose. Expression: a gift for his property. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE LACE bridal corset, white stockings, PLEASER platform heels 8-inch white. Sitting on the edge of a luxury bed, opening a velvet box containing a diamond-studded leather collar. Sensual adoring pose. Expression: a gift for his property. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 49: 52. Devotion - Serving the Cake
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing SHEER WHITE bridal robe over white lace lingerie, white corset. Luxury hotel penthouse. Sensual pose leaning over to serve a slice of wedding cake on a silver fork (POV). Expression: sweet beginnings. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing SHEER WHITE bridal robe over white lace lingerie, white corset. Luxury hotel penthouse. Sensual pose leaning over to serve a slice of wedding cake on a silver fork (POV). Expression: sweet beginnings. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 48: 53. Devotion - Unlacing her Devotion
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing WHITE LEATHER bridal corset, long white lace gloves. Sensual pose standing in front of a mirror, reaching behind to start unlacing her own corset. Expression: the night is finally ours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing WHITE LEATHER bridal corset, long white lace gloves. Sensual pose standing in front of a mirror, reaching behind to start unlacing her own corset. Expression: the night is finally ours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 47: 54. Devotion - The Bridal Bath Preparation
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Luxury marble bathroom, tub with rose petals and foam. Sensual pose testing the water temp with her hand. Expression: preparing for the ritual. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Luxury marble bathroom, tub with rose petals and foam. Sensual pose testing the water temp with her hand. Expression: preparing for the ritual. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 46: 55. Devotion - Kneeling in Lace
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking upward. EXTREME hourglass silhouette tiny waist. Wearing ALL WHITE LACE: corset, garter belt, stockings, thong. Kneeling on a white fur rug at the foot of the bed. Sensual submissive bride pose. Expression: yours forever. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking upward. EXTREME hourglass silhouette tiny waist. Wearing ALL WHITE LACE: corset, garter belt, stockings, thong. Kneeling on a white fur rug at the foot of the bed. Sensual submissive bride pose. Expression: yours forever. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 45: 56. Devotion - Polishing the Ring
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE satin robe open, white lace lingerie. Close-up face, holding her left hand up, polishing the massive diamond wedding ring with a silk cloth. Expression: the mark of ownership. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE satin robe open, white lace lingerie. Close-up face, holding her left hand up, polishing the massive diamond wedding ring with a silk cloth. Expression: the mark of ownership. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 44: 57. Devotion - The Groom's Dressing Room
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE leather corset, white lace panties. Sensual pose hiding inside the groom's closet, surrounded by his suits. Holding one of his ties to her face. Expression: breathing him in. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE leather corset, white lace panties. Sensual pose hiding inside the groom's closet, surrounded by his suits. Holding one of his ties to her face. Expression: breathing him in. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 43: 58. Devotion - Writing the Vows of Service
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Sitting at a small writing desk in the bridal suite, writing with a gold pen on parchment. Sensual focus. Expression: eternal commitment. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Sitting at a small writing desk in the bridal suite, writing with a gold pen on parchment. Sensual focus. Expression: eternal commitment. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 42: 59. Devotion - The Bridal Champagne Toast
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bodysuit, white corset. Luxury bed background. Sensual pose holding two champagne flutes, offering one to the camera. Expression: to our union. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bodysuit, white corset. Luxury bed background. Sensual pose holding two champagne flutes, offering one to the camera. Expression: to our union. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 41: 60. Devotion - Waiting at the Doorway
 
 ```text
-Professional bridal boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE sheer negligee, white lace corset, PLEASER platform heels 8-inch white. Standing in the bedroom doorway, lit from behind. Sensual silhouette pose. Expression: enter, my Lord. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE sheer negligee, white lace corset, PLEASER platform heels 8-inch white. Standing in the bedroom doorway, lit from behind. Sensual silhouette pose. Expression: enter, my Lord. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🥂 HONEYMOON INTIMACY (Prompts 61-70)
+### ðŸ¥‚ HONEYMOON INTIMACY (Prompts 61-70)
 
 ### Prompt 40: 61. Honeymoon - Tropical Suite Service
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sunkissed. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk bikini and white sheer sarong, white corset over. Luxury overwater villa background. Sensual pose serving a platter of tropical fruit on the deck. Expression: paradise discovered. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin sunkissed. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk bikini and white sheer sarong, white corset over. Luxury overwater villa background. Sensual pose serving a platter of tropical fruit on the deck. Expression: paradise discovered. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 39: 62. Honeymoon - Balcony Breakfast
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace robe open, white corset. Sunny balcony overlooking the Mediterranean sea. Sensual pose leaning on the white railing with a cup of coffee. Expression: the first morning together. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace robe open, white corset. Sunny balcony overlooking the Mediterranean sea. Sensual pose leaning on the white railing with a cup of coffee. Expression: the first morning together. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 38: 63. Honeymoon - Sunset Sail Devotion
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE silk jumpsuit, white corset. Deck of a luxury sailing yacht at sunset. Sensual pose reclining on white leather cushions. Expression: adrift in love. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE silk jumpsuit, white corset. Deck of a luxury sailing yacht at sunset. Sensual pose reclining on white leather cushions. Expression: adrift in love. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 37: 64. Honeymoon - The Midnight Dip
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin glistening. HEAVY GLAMOUR MAKEUP waterproof look. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer bodysuit that becomes transparent when wet, white corset. Luxury private pool at night under moonlight. Sensual pose emerging from the water. Expression: refreshing surrender. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin glistening. HEAVY GLAMOUR MAKEUP waterproof look. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer bodysuit that becomes transparent when wet, white corset. Luxury private pool at night under moonlight. Sensual pose emerging from the water. Expression: refreshing surrender. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 36: 65. Honeymoon - Silk Sheets Seduction
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE lace lingerie, white corset. Lying on a bed with 1000-thread-count white silk sheets. Sensual pose reaching for the camera. Expression: don't leave the bed. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE lace lingerie, white corset. Lying on a bed with 1000-thread-count white silk sheets. Sensual pose reaching for the camera. Expression: don't leave the bed. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 35: 66. Honeymoon - Mirror Reflection of Two
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Close-up on a gold-framed antique mirror in the suite. She is looking at her own reflection, but a man's hands are visible on her waist from behind. Sensual pose. Expression: we are one. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Close-up on a gold-framed antique mirror in the suite. She is looking at her own reflection, but a man's hands are visible on her waist from behind. Sensual pose. Expression: we are one. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 34: 67. Honeymoon - Chilled Champagne & Strawberries
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace teddy, white corset. Sitting on the floor next to a luxury minibar, bottle of champagne in ice. Sensual pose feeding herself a strawberry. Expression: tasting the luxury. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace teddy, white corset. Sitting on the floor next to a luxury minibar, bottle of champagne in ice. Sensual pose feeding herself a strawberry. Expression: tasting the luxury. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 33: 68. Honeymoon - Post-Dinner Unwinding
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk evening dress falling off one shoulder, white corset visible. Sitting on a velvet sofa in the hotel lounge. Sensual pose kicking off a white PLEASER platform heel. Expression: the perfect ending. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk evening dress falling off one shoulder, white corset visible. Sitting on a velvet sofa in the hotel lounge. Sensual pose kicking off a white PLEASER platform heel. Expression: the perfect ending. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 32: 69. Honeymoon - Secret Cove Escape
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bikini, white corset. Private white sand beach, turquoise water. Sensual pose standing in the surf. Expression: our private world. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bikini, white corset. Private white sand beach, turquoise water. Sensual pose standing in the surf. Expression: our private world. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 31: 70. Honeymoon - Writing Back Home
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE silk pajamas, white corset. Sitting at a small balcony table, writing a postcard. Sensual pose. Expression: wish you were here, but not really. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE silk pajamas, white corset. Sitting at a small balcony table, writing a postcard. Sensual pose. Expression: wish you were here, but not really. Honeymoon aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🗝️ THE UNVEILING (Prompts 71-80)
+### ðŸ—ï¸ THE UNVEILING (Prompts 71-80)
 
 ### Prompt 30: 71. Unveiling - The First Layer
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing FULL GRAND WEDDING GOWN, but it's unzipped at the back. Sensual pose reaching back to let the silk fall. White corset visible underneath. Luxury suite. Expression: finally alone. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing FULL GRAND WEDDING GOWN, but it's unzipped at the back. Sensual pose reaching back to let the silk fall. White corset visible underneath. Luxury suite. Expression: finally alone. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 29: 72. Unveiling - Dropping the Veil
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bridal lingerie and a ten-foot long cathedral veil that is the only thing covering her. Sensual pose letting the veil slip from her hair. Expression: see all of me. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace bridal lingerie and a ten-foot long cathedral veil that is the only thing covering her. Sensual pose letting the veil slip from her hair. Expression: see all of me. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 28: 73. Unveiling - Removing the Heels
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace bodysuit, white corset. Sensual pose sitting on a velvet chair, unbuckling the ankle strap of a white 8-inch PLEASER platform heel. Expression: a weight lifted. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lace bodysuit, white corset. Sensual pose sitting on a velvet chair, unbuckling the ankle strap of a white 8-inch PLEASER platform heel. Expression: a weight lifted. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 27: 74. Unveiling - The Corset Breath
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes closed. EXTREME hourglass silhouette tiny waist cinched. Wearing WHITE bridal corset and stockings. Close-up on her torso as she takes a deep breath, the corset straining. Sensual pose. Expression: tight devotion. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes closed. EXTREME hourglass silhouette tiny waist cinched. Wearing WHITE bridal corset and stockings. Close-up on her torso as she takes a deep breath, the corset straining. Sensual pose. Expression: tight devotion. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 26: 75. Unveiling - Shedding the Jewelry
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Sensual pose standing at a vanity, removing a massive diamond necklace. Reflection visible. Expression: simple and yours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE silk slip, white corset. Sensual pose standing at a vanity, removing a massive diamond necklace. Reflection visible. Expression: simple and yours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 25: 76. Unveiling - Silk Path to the Bed
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ONLY white lace panties and a white corset. A trail of discarded white silk dress lines the floor behind her. Sensual walking pose toward the bed. Expression: follow the path. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ONLY white lace panties and a white corset. A trail of discarded white silk dress lines the floor behind her. Sensual walking pose toward the bed. Expression: follow the path. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 24: 77. Unveiling - Hair Release
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace teddy, white corset. Sensual pose pulling out the pins from her bridal updo, the bob haircut falling perfectly into place. Expression: letting loose. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace teddy, white corset. Sensual pose pulling out the pins from her bridal updo, the bob haircut falling perfectly into place. Expression: letting loose. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 23: 78. Unveiling - The Garter Reveal
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE bridal lingerie, white corset. Sensual pose lifting the hem of her sheer robe to reveal the white lace garter on her thigh. Expression: your prize. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE bridal lingerie, white corset. Sensual pose lifting the hem of her sheer robe to reveal the white lace garter on her thigh. Expression: your prize. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 22: 79. Unveiling - Mirror Seduction
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera through mirror. EXTREME hourglass silhouette tiny waist. Wearing ALL WHITE LEATHER: corset, gloves, stockings. Standing in front of a floor-length mirror. Sensual self-admiring pose. Expression: a bride of power. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera through mirror. EXTREME hourglass silhouette tiny waist. Wearing ALL WHITE LEATHER: corset, gloves, stockings. Standing in front of a floor-length mirror. Sensual self-admiring pose. Expression: a bride of power. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 21: 80. Unveiling - The Final Surrender
 
 ```text
-Professional boudoir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful expression. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE silk negligee, white corset. Lying back on a sea of white pillows. Sensual open pose. Expression: I am yours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
+Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful expression. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE silk negligee, white corset. Lying back on a sea of white pillows. Sensual open pose. Expression: I am yours. Wedding night aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🦇 HELENA'S DARK BRIDAL (Prompts 81-90)
+### ðŸ¦‡ HELENA'S DARK BRIDAL (Prompts 81-90)
 
 ### Prompt 20: 81. Helena - The Black Widow Bride
 
@@ -604,7 +604,7 @@ Professional boudoir photography of young elegant goth glamour woman. Pale porce
 Professional boudoir photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing ALL BLACK lace and leather bridal gear, black corset. Lying inside a luxury velvet-lined black coffin, open lid. Sensual peaceful pose. Expression: home at last. Goth wedding aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 👯‍♀️ BRIDAL SISTERS (Prompts 91-100)
+### ðŸ‘¯â€â™€ï¸ BRIDAL SISTERS (Prompts 91-100)
 
 ### Prompt 10: 91. Duo - The Bride and the Maid of Honor
 
@@ -668,5 +668,7 @@ Professional boudoir photography of TWO women. BLONDE: white lace gown, white co
 
 ---
 
-*Helena de Anaïs* 🦇💒
-*La Voûte d'Anaïs — Wedding Night Edition (100 Prompts COMPLETE)*
+*Helena de AnaÃ¯s* ðŸ¦‡ðŸ’’
+*La VoÃ»te d'AnaÃ¯s â€” Wedding Night Edition (100 Prompts COMPLETE)*
+
+

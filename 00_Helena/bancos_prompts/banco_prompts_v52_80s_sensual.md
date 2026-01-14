@@ -1,8 +1,8 @@
-# 🎨 Banco de Prompts V52: 80s SENSUAL FASHION
+﻿# ðŸŽ¨ Banco de Prompts V52: 80s SENSUAL FASHION
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO.
 > **Total:** 100 Prompts | **Actualizado:** 2026-01-13
-> **Versión:** 1.0 (Canon Visual v2.0 + Situaciones Sensuales)
+> **VersiÃ³n:** 1.0 (Canon Visual v2.0 + Situaciones Sensuales)
 > **Tema:** 80s Fashion, Synthwave, Dynasty, New Wave - SENSUAL
 
 ---
@@ -18,369 +18,369 @@
 
 ---
 
-## 🦇 II. HELENA: GOTH ROCK & NEW WAVE SENSUAL (1-20)
+## ðŸ¦‡ II. HELENA: GOTH ROCK & NEW WAVE SENSUAL (1-20)
 
 ### Prompt 1: Siouxsie Goth - Backstage
 ```text
 (1980s goth fashion), post-punk aesthetic, crimped hair, dramatic eyeshadow,
-Sacha Massacre facial features, oval face, almond bedroom eyes grey-green siren liner, slim upturned nose, overlined BLACK glossy lips, porcelain skin, cold contour, dramatic lashes, jet black voluminous crimped hair very long, visible arm tattoos blackwork, cinched waist black leather corset, fishnets, PLEASER stiletto heels 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond bedroom eyes grey-green siren liner, slim upturned nose, overlined BLACK glossy lips, porcelain skin, cold contour, dramatic lashes, jet black voluminous crimped hair very long, visible arm tattoos blackwork, cinched waist black leather corset, fishnets, PLEASER stiletto heels 8 inches,
 Backstage after show, pressed against amplifier by groupie (POV), leather jacket falling off shoulders, smoke-filled room, sweat glistening. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 2: Madonna Virgin - Bed Scene
 ```text
 (Madonna Like a Virgin style), layers of lace, crucifixes, messy hair,
-Sacha Massacre facial features, oval face, almond eyes grey-green, slim nose, overlined RED lips, porcelain skin, jet black hair wild, visible tattoos, cinched waist white lace corset (goth bride), PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes grey-green, slim nose, overlined RED lips, porcelain skin, jet black hair wild, visible tattoos, cinched waist white lace corset (goth bride), PLEASER stilettos 8 inches,
 Lying on silk sheets, wedding dress pulled up to reveal garters, fingerless lace gloves touching self, rebellion intimacy. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 3: Power Suit - Office Affair
 ```text
 (Helmut Newton:1.3), 80s power dressing, broad shoulders, black and white high contrast,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black sleek hair, visible tattoos, cinched waist black corset under tuxedo jacket, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black sleek hair, visible tattoos, cinched waist black corset under tuxedo jacket, PLEASER stilettos 8 inches,
 Bent over executive desk, tuxedo jacket open revealing corset, skirt hiked up, dominant office seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 4: Synthwave - Motorcycle Heat
 ```text
 (Synthwave aesthetic), neon grid, purple lasers, chrome reflections,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined MAGENTA lips, porcelain skin, jet black windswept hair, visible tattoos, cinched waist black latex aerobics corset high-cut, PLEASER stilettos 8 inches chrome,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined MAGENTA lips, porcelain skin, jet black windswept hair, visible tattoos, cinched waist black latex aerobics corset high-cut, PLEASER stilettos 8 inches chrome,
 Straddling motorcycle seat, grinding against leather, visor reflection showing ecstasy, retro CGI heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 5: Hair Metal - Groupie Backstage
 ```text
 (Glam metal Sunset Strip), animal print, lens flare, hairspray excess,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black teased hair massive volume, visible tattoos, cinched waist black leather corset, torn fishnets, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips, porcelain skin, jet black teased hair massive volume, visible tattoos, cinched waist black leather corset, torn fishnets, PLEASER stilettos 8 inches,
 On knees backstage, looking up at rockstar (POV), band t-shirt torn, groupie worship. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 6: Arcade Dark - Joystick
 ```text
 (Arcade hall), neon glow, CRT reflection, smoke machine,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined PINK lips, porcelain skin, jet black hair, visible tattoos, cinched waist black vinyl corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined PINK lips, porcelain skin, jet black hair, visible tattoos, cinched waist black vinyl corset, PLEASER stilettos 8 inches,
 Straddling arcade cabinet, grinding against joystick, intense focused pleasure, neon reflections on wet latex. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 7: New Romantic - Dressing Room
 ```text
 (New Romantic fashion), Adam Ant style, frilly shirts, theatrical makeup,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips with white stripe across nose, porcelain skin, jet black voluminous hair, visible tattoos, cinched waist black military corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined RED lips with white stripe across nose, porcelain skin, jet black voluminous hair, visible tattoos, cinched waist black military corset, PLEASER stilettos 8 inches,
 Dressing room mirror, extravagant coat falling to floor, caught undressing, dramatic vulnerability. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 8: Blade Runner - Replicant Test
 ```text
 (Blade Runner 1982), venetian blinds, smoke, rain, retro-futurism,
-Sacha Massacre facial features, oval face, almond eyes grey-green glowing, slim nose, overlined RED lips, porcelain skin, jet black victory rolls hair, visible tattoos, cinched waist black latex pencil skirt corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes grey-green glowing, slim nose, overlined RED lips, porcelain skin, jet black victory rolls hair, visible tattoos, cinched waist black latex pencil skirt corset, PLEASER stilettos 8 inches,
 Interrogation room, crossing legs to reveal, replicant seduction test, "Do you like our owl?". Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 9: Workout Goth - Locker Room
 ```text
 (80s aerobics VHS), studio lighting, leg warmers,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair in scrunchie, visible tattoos, cinched waist black spandex leotard corset, torn tights, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLACK lips, porcelain skin, jet black hair in scrunchie, visible tattoos, cinched waist black spandex leotard corset, torn tights, PLEASER stilettos 8 inches,
 Locker room after workout, leotard pulled down to waist, toweling sweaty body, cynical expression. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 10: Vampire Kiss - Club Cage
 ```text
 (The Hunger aesthetic), Bauhaus concert, blue smoke, strobe,
-Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLACK lips with blood, porcelain skin, jet black wild hair, visible tattoos, cinched waist PVC corset cape, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, oval face, almond eyes, slim nose, overlined BLACK lips with blood, porcelain skin, jet black wild hair, visible tattoos, cinched waist PVC corset cape, PLEASER stilettos 8 inches,
 Inside club cage, biting partner's neck, blood on lips, dark wave ecstasy. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 11: Nagel Art - Shoulder Reveal
 ```text
 (Patrick Nagel:1.4), flat vector, sharp lines, pastel background,
-Sacha Massacre facial features as Nagel illustration, almond eyes, BLACK lips, porcelain skin flat, black hair sleek, black corset shoulder straps falling,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features as Nagel illustration, almond eyes, BLACK lips, porcelain skin flat, black hair sleek, black corset shoulder straps falling,
 Minimalist seduction, cool detached expression, one shoulder bare. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 12: Polaroid - Compromising
 ```text
 (Polaroid flash photography), white borders, handwritten notes,
-Sacha Massacre facial features, almond eyes, RED lips, porcelain skin flash-lit, black hair messy, visible tattoos, black corset, PLEASER stilettos,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, RED lips, porcelain skin flash-lit, black hair messy, visible tattoos, black corset, PLEASER stilettos,
 Collage of compromising polaroids, backstage candids, messy intimacy captured. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 13: Thriller - Graveyard
 ```text
 (Michael Jackson Thriller), graveyard fog, wet streets, 80s horror,
-Sacha Massacre facial features, almond eyes, RED lips, porcelain skin, black hair wild, visible tattoos, cinched waist red leather jacket corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, RED lips, porcelain skin, black hair wild, visible tattoos, cinched waist red leather jacket corset, PLEASER stilettos 8 inches,
 Zombie hands reaching from graves to caress, pleasure among the dead, horror erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 14: Memphis Design - Geometric
 ```text
 (Memphis design), Sottsass, squiggly lines, confetti patterns, neon geometric,
-Sacha Massacre facial features, almond eyes, PINK lips, porcelain skin, black hair, visible tattoos, cinched waist geometric pattern corset,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, PINK lips, porcelain skin, black hair, visible tattoos, cinched waist geometric pattern corset,
 Sitting on weird geometric chair, legs spread over armrests, bold abstract seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 15: Prom Queen - Carrie Revenge
 ```text
 (80s Prom Carrie), disco ball, balloons, metallic streamers,
-Sacha Massacre facial features, almond eyes, BLACK lips, porcelain skin covered in blood, black hair soaked, visible tattoos, cinched waist black taffeta prom dress puffy sleeves, crown, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, BLACK lips, porcelain skin covered in blood, black hair soaked, visible tattoos, cinched waist black taffeta prom dress puffy sleeves, crown, PLEASER stilettos 8 inches,
 Blood-covered prom queen, rising from carnage, dress torn sensually, menacing arousal. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 16: Miami Vice - Car Hood
 ```text
 (Miami Vice), neon noir, pink teal, palm trees, Ferrari,
-Sacha Massacre facial features, almond eyes, RED lips, porcelain skin, black hair windblown, visible tattoos, cinched waist black blazer rolled sleeves corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, RED lips, porcelain skin, black hair windblown, visible tattoos, cinched waist black blazer rolled sleeves corset, PLEASER stilettos 8 inches,
 Lying on Ferrari hood, blazer open, city lights reflecting, dangerous Miami heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 17: Video Store - Adult Section
 ```text
 (80s Video Rental), fluorescent lighting, VHS aisles, movie posters,
-Sacha Massacre facial features, almond eyes, BLACK lips, porcelain skin, black hair, visible tattoos, cinched waist black corset, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, BLACK lips, porcelain skin, black hair, visible tattoos, cinched waist black corset, PLEASER stilettos 8 inches,
 Hiding in adult section behind beaded curtain, VHS covering parts, bored clerk seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 18: Album Cover - Cosmic
 ```text
 (80s CD Album airbrush), surreal cosmic, metallic lettering,
-Sacha Massacre facial features, almond eyes, SILVER lips, porcelain skin glowing, black hair floating, visible tattoos, cinched waist black metallic corset,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, SILVER lips, porcelain skin glowing, black hair floating, visible tattoos, cinched waist black metallic corset,
 Floating nude in space, corset only, lightning bolts, power metal goddess. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 19: Vaporwave Origin - Statue
 ```text
 (Macintosh Plus), vaporwave, roman busts, checkerboard, CRT,
-Sacha Massacre facial features, almond eyes, PINK glitch lips, porcelain marble skin, black hair as digital glitch, visible tattoos pixelating, cinched waist black latex corset,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, PINK glitch lips, porcelain marble skin, black hair as digital glitch, visible tattoos pixelating, cinched waist black latex corset,
 Standing as glitching statue, digital melancholy erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 20: Beetlejuice - Wedding Night
 ```text
 (Beetlejuice Lydia), red wedding dress, jagged veil, gothic whimsical,
-Sacha Massacre facial features, almond eyes, DARK PURPLE lips, porcelain skin, black wild hair, visible tattoos, cinched waist red lace corset wedding dress, PLEASER stilettos 8 inches,
+ADULT WOMAN 30+ years old mature, ADULT WOMAN 30+ years old mature, Sacha Massacre facial features, almond eyes, DARK PURPLE lips, porcelain skin, black wild hair, visible tattoos, cinched waist red lace corset wedding dress, PLEASER stilettos 8 inches,
 Wedding night with ghost, dress being lifted by invisible hands, spooky erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ---
 
-## 💖 III. MISS DOLL: 80s AEROBIC & GLAM SENSUAL (21-40)
+## ðŸ’– III. MISS DOLL: 80s AEROBIC & GLAM SENSUAL (21-40)
 
 ### Prompt 21: Jane Fonda Workout - Stretching
 ```text
 (80s aerobics VHS), pastel studio, yoga balls, sweatbands,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP DORADO glossy lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible DORADO metallic leotard high-cut,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP DORADO glossy lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible DORADO metallic leotard high-cut,
 Deep stretch position, legs spread on mat, sweat glistening, fitness bimbo heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 22: Roller Girl - Sunset Grind
 ```text
 (Venice Beach 80s), roller skating, palm trees, sunset grain,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, PLEASER platforms with wheels, visible ROSE GOLD metallic bikini,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, PLEASER platforms with wheels, visible ROSE GOLD metallic bikini,
 Grinding on boardwalk railing, roller skates, boombox, bubblegum pop erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 23: MTV VJ - Live Tease
 ```text
 (MTV 80s broadcast), VJ set, colorful geometric, microphone,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP FLUOR PINK lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible FLUOR PINK sequin blazer open corset,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP FLUOR PINK lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible FLUOR PINK sequin blazer open corset,
 Live broadcast, accidentally revealing too much, charismatic smile, MTV scandal. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 24: Barbie Rockers - Backstage
 ```text
 (Barbie and the Rockers), glam rock doll, neon lights, stage fog,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP BABY PINK lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible BABY PINK fringe jacket open,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP BABY PINK lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible BABY PINK fringe jacket open,
 Backstage rock star heat, guitar between legs, pink fantasy. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 25: Mall Fountain - Wet
 ```text
 (80s Shopping Mall), mallwave, neon signs, fountain atrium,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin wet, HEAVY MAKEUP running, ULTRA PLUMP ROSA lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible ROSA satin dress soaked,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin wet, HEAVY MAKEUP running, ULTRA PLUMP ROSA lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible ROSA satin dress soaked,
 Fell in fountain, dress clinging, shopping bags floating, mall erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 26: Jazzercise - Mirror Wall
 ```text
 (Jazzercise class), gym mirrors, bright mats, group exercise,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP NEGRO glossy lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible NEGRO shiny thong leotard,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP NEGRO glossy lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible NEGRO shiny thong leotard,
 Against mirror wall, instructor watching, seductive stretching, gym heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 27: Glamour Shot - Feather Boa
 ```text
 (80s Glamour Shot), soft focus, laser background, feathered boa,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin soft focus, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO lamé gown falling off,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin soft focus, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO lamÃ© gown falling off,
 Feather boa covering strategically, hand on chin, starry filter erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 28: Mansion Grotto - Pool
 ```text
 (Playboy grotto 80s), pool water, fairy lights, luxury excess,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin wet, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible DORADO bunny corset ears tail,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin wet, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible DORADO bunny corset ears tail,
 Emerging from grotto pool, champagne glass, luxury bunny fantasy. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 29: Nagel Portrait - Bare Back
 ```text
 (Patrick Nagel:1.4), flat vector, sharp lines, pastel minimal,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin flat, ULTRA PLUMP BLANCO lips subtle, EXTREME hourglass, BLANCO suit jacket,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin flat, ULTRA PLUMP BLANCO lips subtle, EXTREME hourglass, BLANCO suit jacket,
 Nagel style portrait, back to viewer, jacket slipping off bare shoulders. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 30: Dynasty Catfight - Torn Dress
 ```text
 (Dynasty TV), soap opera lighting, mansion staircase, chandelier,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin flushed, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO sequin gown torn,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin flushed, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO sequin gown torn,
 Post-catfight, dress ripped revealing corset, dramatic staircase, shoulder pads. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 31: Trapper Keeper - Space Dolphin
 ```text
 (Trapper Keeper airbrush), dolphins, sunset, planetary rings, surreal,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin glowing, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, visible ROSE GOLD metallic bikini,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin glowing, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, visible ROSE GOLD metallic bikini,
 Riding dolphin in space, dreamlike kitsch erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 32: 8-Bit Princess - Rescued
 ```text
 (8-bit pixel art), Nintendo Princess, castle, pixelated,
-Glamorous woman platinum blonde bob as pixel character, DORADO pixelated gown crown,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob as pixel character, DORADO pixelated gown crown,
 Being "rescued" in compromising position, retro gaming erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 33: Paint Splatter - Covered
 ```text
 (80s paint splatter), Jackson Pollock pop, neon squiggles,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin covered in paint, HEAVY MAKEUP, ULTRA PLUMP FLUOR PINK lips, EXTREME hourglass, tiny waist, visible BLANCO denim jacket jeans covered in paint,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin covered in paint, HEAVY MAKEUP, ULTRA PLUMP FLUOR PINK lips, EXTREME hourglass, tiny waist, visible BLANCO denim jacket jeans covered in paint,
 Paint fight aftermath, clothes being removed, colorful mess erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 34: Labyrinth Ball - Unmasked
 ```text
 (Labyrinth ballroom), crystal orbs, venetian masks, fantasy,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin dreamlike, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO puffy ball gown,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin dreamlike, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible PLATEADO puffy ball gown,
 Mask removed, gown falling, crystal orb covering modesty, dreamy seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 35: Wall Street - After Hours
 ```text
 (Wall Street yuppie), skyscraper office, city view, brick phone,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP NEGRO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible NEGRO pinstripe power skirt suspenders,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP NEGRO lips, EXTREME hourglass, tiny waist, PLEASER platforms 18cm, visible NEGRO pinstripe power skirt suspenders,
 After hours office, suspenders down, on desk, ruthless ambition heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 36: Top Gun - Flight Suit
 ```text
 (Top Gun), golden hour, fighter jet, aviator sunglasses,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, visible DORADO corset under unzipped flight suit,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, visible DORADO corset under unzipped flight suit,
 Leaning on jet, helmet held, wind in hair, pilot heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 37: Care Bears - Cloud Nine
 ```text
 (Care Bears Care-a-Lot), fluffy clouds, rainbows, pastel stars,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin soft, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, visible ROSE GOLD teddy lingerie,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin soft, HEAVY MAKEUP, ULTRA PLUMP ROSE GOLD lips, EXTREME hourglass, tiny waist, visible ROSE GOLD teddy lingerie,
 Lying on cloud, hugging Care Bear suggestively, cute erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 38: Jem Holograms - Outrageous
 ```text
 (Jem and the Holograms), 80s cartoon, glitter transformation, star earrings,
-Glamorous woman platinum blonde bob NO bangs with pink streaks, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, visible PLATEADO holographic dress body reveal,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs with pink streaks, porcelain skin, HEAVY MAKEUP, ULTRA PLUMP PLATEADO lips, EXTREME hourglass, tiny waist, visible PLATEADO holographic dress body reveal,
 Truly outrageous transformation, star burst energy, pop star erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 39: Slumber Party - Pillow Fight
 ```text
 (80s teen movie), bedroom posters, landline phone, popcorn,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin flushed, HEAVY MAKEUP smudged, ULTRA PLUMP BLANCO lips, EXTREME hourglass, tiny waist, visible BLANCO babydoll nightie torn from fight,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin flushed, HEAVY MAKEUP smudged, ULTRA PLUMP BLANCO lips, EXTREME hourglass, tiny waist, visible BLANCO babydoll nightie torn from fight,
 Pillow fight aftermath, feathers everywhere, nightie torn, sleepover erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 40: Gas Station - Thirst
 ```text
 (Cindy Crawford Pepsi), gas station, dusty road, vending machine, heat,
-Glamorous woman platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, visible DORADO tank top corset denim shorts,
+ADULT WOMAN 28+ years old mature glamorous platinum blonde bob NO bangs, porcelain skin sweaty, HEAVY MAKEUP, ULTRA PLUMP DORADO lips, EXTREME hourglass, tiny waist, visible DORADO tank top corset denim shorts,
 Pouring soda over chest, cooling off, gas station boys watching, iconic thirst. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ---
 
-## 👑 IV. ANAÏS: DYNASTY & 80s LUXURY SENSUAL (41-50)
+## ðŸ‘‘ IV. ANAÃS: DYNASTY & 80s LUXURY SENSUAL (41-50)
 
 ### Prompt 41: Dynasty Matriarch - Throne Room
 ```text
 (Dynasty intro), 80s luxury soap, soft focus, diamonds sparkle,
-Anaïs (Kylie Minogue reference), angular face, honey blonde Betty Page waves big volume, RED lips, hourglass, DORADO heavy beaded gown massive shoulders, So Kate stilettos 12cm,
+AnaÃ¯s (Kylie Minogue reference), angular face, honey blonde Betty Page waves big volume, RED lips, hourglass, DORADO heavy beaded gown massive shoulders, So Kate stilettos 12cm,
 On throne, gown parted to show legs, fur stole falling, disdainful arousal. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 42: Corporate Raider - Hostile Takeover
 ```text
 (80s corporate boardroom), mahogany table, Manhattan view,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, BLACK tailored suit wide shoulders gold buttons, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, BLACK tailored suit wide shoulders gold buttons, So Kate stilettos 12cm,
 On boardroom table, skirt hiked, hostile takeover of the room. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 43: Helmut Newton - Poolside
 ```text
 (Helmut Newton photography), villa poolside, harsh sunlight, stark shadows,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, black high-cut swimsuit corset, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, black high-cut swimsuit corset, So Kate stilettos 12cm,
 Poolside lounger, one leg raised, oversized sunglasses, statuesque heat. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 44: Vanity Fair - Cover Nude
 ```text
 (Vanity Fair 1980s), Annie Leibovitz, painterly backdrop,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, red satin sheet wrapped,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, red satin sheet wrapped,
 Reclining nude wrapped in satin, regal shocking, celebrity cover erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 45: High Society - Gala Exit
 ```text
 (Met Gala 80s), flash photography, red carpet, paparazzi,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, BLACK velvet gown gloves diamond choker, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, BLACK velvet gown gloves diamond choker, So Kate stilettos 12cm,
 Leaving gala with mystery companion, gown trailing, scandal exit. Vertical portrait orientation, masterpiece, 8k.
 ```
 
-### Prompt 46: Nagel Anaïs - Minimal
+### Prompt 46: Nagel AnaÃ¯s - Minimal
 ```text
 (Patrick Nagel:1.4), flat vector, sharp minimal, pastel background,
-Anaïs angular face, honey blonde sleek, RED lips sharp, hourglass, black corset visible,
+AnaÃ¯s angular face, honey blonde sleek, RED lips sharp, hourglass, black corset visible,
 Abstract minimalist, geometric earrings, cool 80s seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 47: Versace - Chain Print
 ```text
 (Versace 80s campaign), Richard Avedon, white background, medusa,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, DORADO chain print silk blouse corseted waist, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, DORADO chain print silk blouse corseted waist, So Kate stilettos 12cm,
 Dynamic supermodel pose, Versace scandal, luxury erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 48: Concorde - Mile High
 ```text
 (Concorde interior), jet set, champagne, leather seats, luxury travel,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, tweed Chanel suit corset adaptation, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, tweed Chanel suit corset adaptation, So Kate stilettos 12cm,
 Private cabin, champagne spilling, mile high seduction. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 49: Winery Estate - Riding Crop
 ```text
 (Falcon Crest), vineyard estate, sunset, horses, rustic luxury,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, riding gear corset, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, riding gear corset, So Kate stilettos 12cm,
 Black stallion nearby, riding crop in hand, landowner dominance. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ### Prompt 50: Studio 54 - VIP Room
 ```text
 (Studio 54), disco ball, confetti, dark club, flash, celebrities,
-Anaïs angular face, honey blonde waves, RED lips, hourglass, sheer crystal bodysuit Cher style over corset, So Kate stilettos 12cm,
+AnaÃ¯s angular face, honey blonde waves, RED lips, hourglass, sheer crystal bodysuit Cher style over corset, So Kate stilettos 12cm,
 VIP room couch, celebrities around, queen of the night, disco erotica. Vertical portrait orientation, masterpiece, 8k.
 ```
 
 ---
 
-## 👯 V. DUOS: 80s ICONS SENSUAL (51-70)
+## ðŸ‘¯ V. DUOS: 80s ICONS SENSUAL (51-70)
 
 ### Prompt 51: Thelma Louise - Freedom
 ```text
@@ -544,7 +544,7 @@ Parents away, house heat. Vertical portrait orientation, masterpiece, 8k.
 
 ---
 
-## 🎨 VI. ABSTRACT 80s SENSUAL (71-85)
+## ðŸŽ¨ VI. ABSTRACT 80s SENSUAL (71-85)
 
 ### Prompt 71: Laser Background - Portrait Heat
 ```text
@@ -654,7 +654,7 @@ Helena: holding candelabra, dress torn, title "NIGHT OF THE CORSET",
 
 ---
 
-## 📽️ VII. 80s ICONS & FINALE SENSUAL (86-100)
+## ðŸ“½ï¸ VII. 80s ICONS & FINALE SENSUAL (86-100)
 
 ### Prompt 86: Grace Jones - Angular
 ```text
@@ -763,4 +763,7 @@ Helena: stepping out of DeLorean, looking at watch,
 
 ---
 
-*Banco V52 creado por Helena de Anaïs - 13/01/2026* 🦇
+*Banco V52 creado por Helena de AnaÃ¯s - 13/01/2026* ðŸ¦‡
+
+
+

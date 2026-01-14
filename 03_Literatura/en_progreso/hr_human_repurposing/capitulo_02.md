@@ -182,9 +182,9 @@ Daniel no recordaba haberlo abierto. No recordaba haberse levantado. Pero estaba
 
 Sus manos —sus manos de uñas brillantes, de piel más suave— temblaban. Pero no de frío. Ya no sentía frío. El aire rosa siempre estaba tibio, siempre olía a lavanda y a algo químico debajo, algo que hacía que los pensamientos se movieran despacio.
 
-El traje gris había desaparecido. La corbata de seda. Los zapatos Oxford. Todo lo que había sido Daniel Park, Analista Senior, había sido removido mientras— 
+Ya ni siquiera recordaba su traje gris. Su corbata de seda. Sus zapatos Oxford. Esas cosas pertenecían a alguien que había existido antes de— 
 
-*¿Cuándo? ¿Ayer? ¿Hace tres días?*
+*¿Cuándo llegué aquí? ¿Hace días? ¿Semanas?*
 
 En el armario solo había esto:
 

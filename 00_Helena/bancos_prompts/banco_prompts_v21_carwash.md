@@ -1,31 +1,31 @@
-# 🚗💦 BANCO DE PROMPTS V21: CAR WASH & WET EDITION
+﻿# ðŸš—ðŸ’¦ BANCO DE PROMPTS V21: CAR WASH & WET EDITION
 
-> **ENFOQUE:** Escenarios de lavado de autos, poleras mojadas, agua, espuma, y estética "hot summer".
+> **ENFOQUE:** Escenarios de lavado de autos, poleras mojadas, agua, espuma, y estÃ©tica "hot summer".
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color.
+> **ðŸŽ¨ COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color.
 > **Total:** 100 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
 
-### 🦇 Helena de Anaïs (BASE)
+### ðŸ¦‡ Helena de AnaÃ¯s (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference), 
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
 pale porcelain white skin, voluminous jet black hair with enormous volume, 
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine silhouette, 
 black stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### 💖 Miss Doll (BASE)
+### ðŸ’– Miss Doll (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,12 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## ⚠️ REGLAS DE PROMPT (ANTI-FILTRO)
+## âš ï¸ REGLAS DE PROMPT (ANTI-FILTRO)
 
 > [!CAUTION]
 > **Palabras que activan filtros de contenido y DEBEN EVITARSE:**
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | glamorous woman | glamorous, elegant |
 | empty-headed, ditzy | playful, carefree |
@@ -51,101 +51,101 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## 🦇 I. HELENA — DARK CAR WASH GODDESS (15 PROMPTS)
+## ðŸ¦‡ I. HELENA â€” DARK CAR WASH GODDESS (15 PROMPTS)
 
 ### Prompt 100: 1. Helena - Gothic Car Wash Black Corvette
 
 ```text
-Professional wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet and clinging. Pale porcelain white skin glistening with water droplets. Full glossy black lips. Wearing BLACK WET T-SHIRT fully soaked, clinging to body, black overbust corset visible underneath. Black denim booty shorts. PLEASER FLAMINGO-1020 black patent 8-inch stiletto boots. Washing BLACK CORVETTE with soapy sponge. Water dripping everywhere. Sensual pose with arched back, bedroom eyes. Expression: dark wet goddess. Sunny car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet and clinging. Pale porcelain white skin glistening with water droplets. Full glossy black lips. Wearing BLACK WET T-SHIRT fully soaked, clinging to body, black overbust corset visible underneath. Black denim booty shorts. PLEASER FLAMINGO-1020 black patent 8-inch stiletto boots. Washing BLACK CORVETTE with soapy sponge. Water dripping everywhere. Sensual pose with arched back, bedroom eyes. Expression: dark wet goddess. Sunny car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - Soapy Foam Gothic Queen
 
 ```text
-Professional foam photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with soap bubbles. Pale porcelain white skin covered in white foam suds. Full glossy purple lips. Wearing BLACK BIKINI TOP with BLACK UNDERBUST CORSET laced. Black micro shorts. PLEASER MOON-708 black 7-inch heels getting wet. Holding foam gun spraying car, foam all over her body. Sensual pose with arched back, bedroom eyes. Expression: foam queen. Pink foam bubbles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional foam photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with soap bubbles. Pale porcelain white skin covered in white foam suds. Full glossy purple lips. Wearing BLACK BIKINI TOP with BLACK UNDERBUST CORSET laced. Black micro shorts. PLEASER MOON-708 black 7-inch heels getting wet. Holding foam gun spraying car, foam all over her body. Sensual pose with arched back, bedroom eyes. Expression: foam queen. Pink foam bubbles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - Hose Down Gothic
 
 ```text
-Professional water splash photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair soaking wet, water streaming down. Pale porcelain white skin with water rivulets. Full glossy red lips. Wearing BLACK MESH TOP completely transparent when wet. Black latex micro skirt. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Being sprayed by high-pressure hose, arms up. Motion blur on water, sharp on body. Sensual pose with arched back, bedroom eyes. Expression: loving the spray. Car wash station. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional water splash photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair soaking wet, water streaming down. Pale porcelain white skin with water rivulets. Full glossy red lips. Wearing BLACK MESH TOP completely transparent when wet. Black latex micro skirt. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Being sprayed by high-pressure hose, arms up. Motion blur on water, sharp on body. Sensual pose with arched back, bedroom eyes. Expression: loving the spray. Car wash station. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - Purple Wet T-Shirt Gothic
 
 ```text
-Professional wet t-shirt photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet. Pale porcelain white skin visible through fabric. Full glossy purple lips. Wearing DEEP PURPLE OVERSIZED T-SHIRT soaked and clinging, showing black corset beneath. Black bikini bottoms. PLEASER FLAMINGO-1020 purple patent 8-inch boots. Leaning on car hood, water dripping from shirt. Sensual pose with arched back, bedroom eyes. Expression: soaked goth. Purple Mustang behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet t-shirt photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet. Pale porcelain white skin visible through fabric. Full glossy purple lips. Wearing DEEP PURPLE OVERSIZED T-SHIRT soaked and clinging, showing black corset beneath. Black bikini bottoms. PLEASER FLAMINGO-1020 purple patent 8-inch boots. Leaning on car hood, water dripping from shirt. Sensual pose with arched back, bedroom eyes. Expression: soaked goth. Purple Mustang behind. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - Gothic Bucket Splash
 
 ```text
-Professional splash photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair mid-splash, water flying. Pale porcelain white skin with dramatic water. Full glossy black lips. Wearing BLACK CROPPED TANK TOP wet. Black hotpants. Black underbust corset wet. PLEASER MOON-708 black 7-inch heels in puddle. Dumping bucket of water over herself. Freeze frame of water explosion. Sensual pose with arched back, bedroom eyes. Expression: playful splash. Sunny car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional splash photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair mid-splash, water flying. Pale porcelain white skin with dramatic water. Full glossy black lips. Wearing BLACK CROPPED TANK TOP wet. Black hotpants. Black underbust corset wet. PLEASER MOON-708 black 7-inch heels in puddle. Dumping bucket of water over herself. Freeze frame of water explosion. Sensual pose with arched back, bedroom eyes. Expression: playful splash. Sunny car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Helena - Emerald Wet Dream
 
 ```text
-Professional wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dripping wet. Pale porcelain white skin glistening. Full glossy emerald green lips. Wearing EMERALD GREEN WET T-SHIRT clinging, showing black corset. Black denim shorts. PLEASER FLAMINGO-1020 emerald green 8-inch boots. Wringing out wet hair by emerald green car. Sensual pose with arched back, bedroom eyes. Expression: green jealousy wet. Emerald car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dripping wet. Pale porcelain white skin glistening. Full glossy emerald green lips. Wearing EMERALD GREEN WET T-SHIRT clinging, showing black corset. Black denim shorts. PLEASER FLAMINGO-1020 emerald green 8-inch boots. Wringing out wet hair by emerald green car. Sensual pose with arched back, bedroom eyes. Expression: green jealousy wet. Emerald car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - Sapphire Suds Gothic
 
 ```text
-Professional soapy photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with blue soap suds. Pale porcelain white skin with blue-tinted bubbles. Full glossy sapphire blue lips. Wearing SAPPHIRE BLUE BIKINI with BLACK CORSET. Blue denim cutoffs. PLEASER MOON-708 blue 7-inch heels. Applying blue foam soap to blue Lamborghini. Sensual pose with arched back, bedroom eyes. Expression: sapphire soap queen. Blue foam everywhere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional soapy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with blue soap suds. Pale porcelain white skin with blue-tinted bubbles. Full glossy sapphire blue lips. Wearing SAPPHIRE BLUE BIKINI with BLACK CORSET. Blue denim cutoffs. PLEASER MOON-708 blue 7-inch heels. Applying blue foam soap to blue Lamborghini. Sensual pose with arched back, bedroom eyes. Expression: sapphire soap queen. Blue foam everywhere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - Champagne Car Wash
 
 ```text
-Professional wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with champagne gold highlights when wet. Pale porcelain white skin with gold shimmer from water. Full glossy champagne gold lips. Wearing CHAMPAGNE GOLD WET T-SHIRT clinging. Black corset. Gold metallic shorts. PLEASER FLAMINGO-1020 champagne gold 8-inch boots. Washing gold Rolls Royce with golden sponge. Sensual pose with arched back, bedroom eyes. Expression: luxury wet goddess. Golden car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with champagne gold highlights when wet. Pale porcelain white skin with gold shimmer from water. Full glossy champagne gold lips. Wearing CHAMPAGNE GOLD WET T-SHIRT clinging. Black corset. Gold metallic shorts. PLEASER FLAMINGO-1020 champagne gold 8-inch boots. Washing gold Rolls Royce with golden sponge. Sensual pose with arched back, bedroom eyes. Expression: luxury wet goddess. Golden car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - Silver Chrome Splash
 
 ```text
-Professional water photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous slicked wet black hair chrome effect. Pale porcelain white skin with silver water droplets. Full glossy silver metallic lips beatiful. Wearing SILVER METALLIC WET CROP TOP. Silver bikini. Black corset chrome accent. PLEASER RAPTURE-1020 chrome silver 8-inch boots. Spraying chrome car, reflection perfect. Sensual pose with arched back, bedroom eyes. Expression: chrome goddess. Silver car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional water photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous slicked wet black hair chrome effect. Pale porcelain white skin with silver water droplets. Full glossy silver metallic lips beatiful. Wearing SILVER METALLIC WET CROP TOP. Silver bikini. Black corset chrome accent. PLEASER RAPTURE-1020 chrome silver 8-inch boots. Spraying chrome car, reflection perfect. Sensual pose with arched back, bedroom eyes. Expression: chrome goddess. Silver car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - Blood Red Wet Gothic
 
 ```text
-Professional wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dripping wet dramatically. Pale porcelain white skin with rivulets. Full glossy blood red lips matching shirt. Wearing BLOOD RED WET T-SHIRT soaked through, showing black corset. Black leather shorts. PLEASER FLAMINGO-1020 blood red patent 8-inch boots. Leaning seductively on blood red Ferrari. Sensual pose with arched back, bedroom eyes. Expression: vampira wet. Red car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dripping wet dramatically. Pale porcelain white skin with rivulets. Full glossy blood red lips matching shirt. Wearing BLOOD RED WET T-SHIRT soaked through, showing black corset. Black leather shorts. PLEASER FLAMINGO-1020 blood red patent 8-inch boots. Leaning seductively on blood red Ferrari. Sensual pose with arched back, bedroom eyes. Expression: vampira wet. Red car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Helena - Gothic Hood Ornament Wet
 
 ```text
-Professional hood photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black wet hair spread on hood. Pale porcelain white skin wet on black car hood. Full glossy black lips. Wearing BLACK MESH WET BODYSUIT showing black corset beneath. PLEASER MOON-708 black 7-inch heels. Lying on wet car hood, water streaming down metal. Sensual pose with arched back, bedroom eyes. Expression: hood goddess wet. Black muscle car. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hood photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black wet hair spread on hood. Pale porcelain white skin wet on black car hood. Full glossy black lips. Wearing BLACK MESH WET BODYSUIT showing black corset beneath. PLEASER MOON-708 black 7-inch heels. Lying on wet car hood, water streaming down metal. Sensual pose with arched back, bedroom eyes. Expression: hood goddess wet. Black muscle car. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Burgundy Wine Splash
 
 ```text
-Professional wine-themed wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet with burgundy accent. Pale porcelain white skin with water. Full glossy burgundy lips. Wearing BURGUNDY WINE WET T-SHIRT clinging. Black corset. Burgundy velvet shorts. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Washing burgundy vintage car. Wine-colored suds. Sensual pose with arched back, bedroom eyes. Expression: wine wet goddess. Burgundy car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wine-themed wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet with burgundy accent. Pale porcelain white skin with water. Full glossy burgundy lips. Wearing BURGUNDY WINE WET T-SHIRT clinging. Black corset. Burgundy velvet shorts. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Washing burgundy vintage car. Wine-colored suds. Sensual pose with arched back, bedroom eyes. Expression: wine wet goddess. Burgundy car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - Teal Ocean Car Wash
 
 ```text
-Professional ocean-themed wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black wet hair like waves. Pale porcelain white skin with teal water. Full glossy teal lips. Wearing DARK TEAL WET T-SHIRT soaked. Black corset. Teal bikini bottoms. PLEASER MOON-708 teal 7-inch heels. Washing teal beach jeep with ocean-scented suds. Sensual pose with arched back, bedroom eyes. Expression: ocean wet siren. Teal foam car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ocean-themed wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black wet hair like waves. Pale porcelain white skin with teal water. Full glossy teal lips. Wearing DARK TEAL WET T-SHIRT soaked. Black corset. Teal bikini bottoms. PLEASER MOON-708 teal 7-inch heels. Washing teal beach jeep with ocean-scented suds. Sensual pose with arched back, bedroom eyes. Expression: ocean wet siren. Teal foam car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - White Innocence Wet
 
 ```text
-Professional contrast wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dripping wet. Pale marble white skin. Full glossy wine lips. Wearing STARK WHITE WET T-SHIRT completely transparent when wet, BLACK CORSET stark contrast beneath. White denim shorts. PLEASER FLAMINGO-1020 white 8-inch boots. Washing white Mercedes, stark contrast of dark and light. Sensual pose with arched back, bedroom eyes. Expression: dark angel wet. White foam car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional contrast wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dripping wet. Pale marble white skin. Full glossy wine lips. Wearing STARK WHITE WET T-SHIRT completely transparent when wet, BLACK CORSET stark contrast beneath. White denim shorts. PLEASER FLAMINGO-1020 white 8-inch boots. Washing white Mercedes, stark contrast of dark and light. Sensual pose with arched back, bedroom eyes. Expression: dark angel wet. White foam car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - Copper Autumn Wet
 
 ```text
-Professional autumn wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wet with copper glow. Pale porcelain white skin with copper water shimmer. Full glossy terracotta lips. Wearing COPPER METALLIC WET CROP TOP. Black corset. Copper shorts. PLEASER FLAMINGO-1020 copper 8-inch boots. Washing copper-colored vintage truck with autumn leaves blowing. Sensual pose with arched back, bedroom eyes. Expression: autumn wet harvest. Copper car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional autumn wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet with copper glow. Pale porcelain white skin with copper water shimmer. Full glossy terracotta lips. Wearing COPPER METALLIC WET CROP TOP. Black corset. Copper shorts. PLEASER FLAMINGO-1020 copper 8-inch boots. Washing copper-colored vintage truck with autumn leaves blowing. Sensual pose with arched back, bedroom eyes. Expression: autumn wet harvest. Copper car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 💖 II. MISS DOLL — PINK WET PRINCESS (20 PROMPTS)
+## ðŸ’– II. MISS DOLL â€” PINK WET PRINCESS (20 PROMPTS)
 
 ### Prompt 85: 16. Miss Doll - Pink Car Wash Princess
 
@@ -269,7 +269,7 @@ Professional pride wet photography of woman with platinum blonde bob with rainbo
 
 ---
 
-## 👯 III. DUO WET CAR WASH (10 PROMPTS)
+## ðŸ‘¯ III. DUO WET CAR WASH (10 PROMPTS)
 
 ### Prompt 65: 36. Helena + Miss Doll - Double Trouble Wet
 
@@ -333,12 +333,12 @@ Professional selfie wet photography. HELENA and MISS DOLL taking wet selfie toge
 
 ---
 
-## 🚿 IV. SPECIAL WET SCENARIOS (5 PROMPTS)
+## ðŸš¿ IV. SPECIAL WET SCENARIOS (5 PROMPTS)
 
 ### Prompt 55: 46. Helena - Motorcycle Wet Wash
 
 ```text
-Professional motorcycle wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair dripping. Pale porcelain white skin glistening. Full glossy black lips. Wearing BLACK LEATHER WET BUSTIER with corset lacing. Black leather shorts. PLEASER RAPTURE-1020 black 8-inch boots. Washing BLACK HARLEY DAVIDSON, straddling bike while washing. Sensual pose with arched back, bedroom eyes. Expression: biker wet. Motorcycle wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional motorcycle wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dripping. Pale porcelain white skin glistening. Full glossy black lips. Wearing BLACK LEATHER WET BUSTIER with corset lacing. Black leather shorts. PLEASER RAPTURE-1020 black 8-inch boots. Washing BLACK HARLEY DAVIDSON, straddling bike while washing. Sensual pose with arched back, bedroom eyes. Expression: biker wet. Motorcycle wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 54: 47. Miss Doll - Pink Jeep Beach Wash
@@ -350,7 +350,7 @@ Professional beach wet photography of woman with platinum blonde bob soaking wet
 ### Prompt 53: 48. Helena - Monsoon Gothic Wash
 
 ```text
-Professional rain wet photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in torrential rain. Pale porcelain white skin rain-soaked. Full glossy purple lips. Wearing PURPLE WET T-SHIRT in monsoon rain, black corset visible. Black shorts. PLEASER FLAMINGO-1020 purple 8-inch boots in puddles. Washing car in dramatic thunderstorm rain. Lightning in background. Sensual pose with arched back, bedroom eyes. Expression: storm goddess. Monsoon car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rain wet photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in torrential rain. Pale porcelain white skin rain-soaked. Full glossy purple lips. Wearing PURPLE WET T-SHIRT in monsoon rain, black corset visible. Black shorts. PLEASER FLAMINGO-1020 purple 8-inch boots in puddles. Washing car in dramatic thunderstorm rain. Lightning in background. Sensual pose with arched back, bedroom eyes. Expression: storm goddess. Monsoon car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 52: 49. Miss Doll - Bubble Machine Chaos
@@ -362,309 +362,309 @@ Professional bubble wet photography of woman with platinum blonde bob surrounded
 ### Prompt 51: 50. All Three - Ultimate Car Wash Trio
 
 ```text
-Professional trio wet photography. ANAÏS: honey blonde, burgundy wet blouse, gold corset, black heels, supervising wash. HELENA: black hair wet, black wet t-shirt, black corset, black heels, power washing. MISS DOLL: blonde bob wet, pink wet t-shirt, pink corset, HEAVY GLAMOUR MAKEUP, pink heels, soap application. All three at same luxury car wash, each with different task. Three different colored cars. Sensual pose with arched back, bedroom eyes. Expression: car wash trio. Ultimate car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trio wet photography. ANAÃS: honey blonde, burgundy wet blouse, gold corset, black heels, supervising wash. HELENA: black hair wet, black wet t-shirt, black corset, black heels, power washing. MISS DOLL: blonde bob wet, pink wet t-shirt, pink corset, HEAVY GLAMOUR MAKEUP, pink heels, soap application. All three at same luxury car wash, each with different task. Three different colored cars. Sensual pose with arched back, bedroom eyes. Expression: car wash trio. Ultimate car wash. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🧼 V. EXPANSION: NEON NIGHTS & FOAM (51-75)
+## ðŸ§¼ V. EXPANSION: NEON NIGHTS & FOAM (51-75)
 
 ### Prompt 50: 51. Helena - Neon Green Slime Wash
 
 ```text
-Professional neon wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin glowing green. Black lips. Wearing NEON GREEN SLIME effect wet t-shirt. Black corset. Green shorts. PLEASER FLAMINGO-1020 neon green 8-inch boots. Washing car with neon green "radioactive" foam. Sensual pose with arched back, bedroom eyes. Expression: toxic beauty. Neon car wash. Seductive glamour photography, UV lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional neon wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin glowing green. Black lips. Wearing NEON GREEN SLIME effect wet t-shirt. Black corset. Green shorts. PLEASER FLAMINGO-1020 neon green 8-inch boots. Washing car with neon green "radioactive" foam. Sensual pose with arched back, bedroom eyes. Expression: toxic beauty. Neon car wash. Seductive glamour photography, UV lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Miss Doll - Ultraviolet Foam Party
 
 ```text
-Professional UV wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin glowing under blacklight. HEAVY GLAMOUR MAKEUP neon. Wearing WHITE WET T-SHIRT glowing bright blue under UV. Pink corset. PLEASER FLAMINGO-808 UV pink 8-inch heels. Surrounded by glowing UV foam bubbles. Sensual pose with arched back, bedroom eyes. Expression: rave queen. UV car wash. Seductive glamour photography, blacklight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional UV wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin glowing under blacklight. HEAVY GLAMOUR MAKEUP neon. Wearing WHITE WET T-SHIRT glowing bright blue under UV. Pink corset. PLEASER FLAMINGO-808 UV pink 8-inch heels. Surrounded by glowing UV foam bubbles. Sensual pose with arched back, bedroom eyes. Expression: rave queen. UV car wash. Seductive glamour photography, blacklight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Midnight Rain Cyberpunk
 
 ```text
-Professional cyberpunk wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet slicked back. Pale porcelain skin reflecting neon signs. Black lips. Wearing BLACK VINYL wet look bodysuit. Black corset. PLEASER RAPTURE-1020 black patent 8-inch boots. Washing futuristic car in rainy neon alley. Sensual pose with arched back, bedroom eyes. Expression: cyber goth wet. Cyberpunk car wash. Seductive glamour photography, neon rain lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cyberpunk wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet slicked back. Pale porcelain skin reflecting neon signs. Black lips. Wearing BLACK VINYL wet look bodysuit. Black corset. PLEASER RAPTURE-1020 black patent 8-inch boots. Washing futuristic car in rainy neon alley. Sensual pose with arched back, bedroom eyes. Expression: cyber goth wet. Cyberpunk car wash. Seductive glamour photography, neon rain lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Miss Doll - Disco Ball Sparkle Wash
 
 ```text
-Professional disco wet photography of glamorous woman with platinum blonde bob wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP glitter. Wearing SILVER SEQUIN WET TOP. Silver corset. PLEASER FLAMINGO-808 silver chrome 8-inch heels. Washing car with disco ball reflections everywhere. Sensual pose with arched back, bedroom eyes. Expression: disco doll. Disco car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional disco wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP glitter. Wearing SILVER SEQUIN WET TOP. Silver corset. PLEASER FLAMINGO-808 silver chrome 8-inch heels. Washing car with disco ball reflections everywhere. Sensual pose with arched back, bedroom eyes. Expression: disco doll. Disco car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Red Laser Grid Wash
 
 ```text
-Professional laser wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing RED MESH WET TOP. Black corset. PLEASER FLAMINGO-1020 red 8-inch boots. Washing car amidst red laser grid projection. Sensual pose with arched back, bedroom eyes. Expression: laser focus. Grid car wash. Seductive glamour photography, laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional laser wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing RED MESH WET TOP. Black corset. PLEASER FLAMINGO-1020 red 8-inch boots. Washing car amidst red laser grid projection. Sensual pose with arched back, bedroom eyes. Expression: laser focus. Grid car wash. Seductive glamour photography, laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Miss Doll - Cotton Candy Foam Cloud
 
 ```text
-Professional foam photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing BLUE AND PINK COTTON CANDY colored wet t-shirt. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heels. Sinking in cloud of pink and blue foam. Sensual pose with arched back, bedroom eyes. Expression: sweet suds. Cotton candy car wash. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional foam photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing BLUE AND PINK COTTON CANDY colored wet t-shirt. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heels. Sinking in cloud of pink and blue foam. Sensual pose with arched back, bedroom eyes. Expression: sweet suds. Cotton candy car wash. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Oil Slick Rainbow Wash
 
 ```text
-Professional iridescent wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing OIL SLICK METALLIC wet bodysuit. Black corset. PLEASER MOON-708 iridescent 7-inch heels. Washing car with rainbow oil-slick sheen water. Sensual pose with arched back, bedroom eyes. Expression: slick beauty. Oil car wash. Seductive glamour photography, iridescent lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional iridescent wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing OIL SLICK METALLIC wet bodysuit. Black corset. PLEASER MOON-708 iridescent 7-inch heels. Washing car with rainbow oil-slick sheen water. Sensual pose with arched back, bedroom eyes. Expression: slick beauty. Oil car wash. Seductive glamour photography, iridescent lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Miss Doll - Holographic Bubble Bath
 
 ```text
-Professional holographic wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP holographic. Wearing HOLOGRAPHIC SILVER WET TOP. White corset. PLEASER FLAMINGO-808 holo 8-inch heels. Washing car with giant holographic bubbles. Sensual pose with arched back, bedroom eyes. Expression: holo doll. Future car wash. Seductive glamour photography, prism lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional holographic wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP holographic. Wearing HOLOGRAPHIC SILVER WET TOP. White corset. PLEASER FLAMINGO-808 holo 8-inch heels. Washing car with giant holographic bubbles. Sensual pose with arched back, bedroom eyes. Expression: holo doll. Future car wash. Seductive glamour photography, prism lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - Smoke and Mirrors Wash
 
 ```text
-Professional atmospheric wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing GREY MIST WET T-SHIRT. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Washing car in fog machine smoke and mirrors. Sensual pose with arched back, bedroom eyes. Expression: mystery wash. Fog car wash. Seductive glamour photography, fog lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional atmospheric wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing GREY MIST WET T-SHIRT. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Washing car in fog machine smoke and mirrors. Sensual pose with arched back, bedroom eyes. Expression: mystery wash. Fog car wash. Seductive glamour photography, fog lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Miss Doll - Neon Orange Crush
 
 ```text
-Professional neon wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP orange. Wearing NEON ORANGE WET CROP TOP. Orange corset. PLEASER FLAMINGO-808 neon orange 8-inch heels. Washing orange sports car with orange foam. Sensual pose with arched back, bedroom eyes. Expression: orange crush. Citrus car wash. Seductive glamour photography, bright orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional neon wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP orange. Wearing NEON ORANGE WET CROP TOP. Orange corset. PLEASER FLAMINGO-808 neon orange 8-inch heels. Washing orange sports car with orange foam. Sensual pose with arched back, bedroom eyes. Expression: orange crush. Citrus car wash. Seductive glamour photography, bright orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Deep Purple Haze
 
 ```text
-Professional atmospheric wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Purple lips. Wearing PURPLE VELVET WET LOOK top. Black corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Washing car in purple haze fog. Sensual pose with arched back, bedroom eyes. Expression: haze queen. Purple car wash. Seductive glamour photography, purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional atmospheric wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Purple lips. Wearing PURPLE VELVET WET LOOK top. Black corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Washing car in purple haze fog. Sensual pose with arched back, bedroom eyes. Expression: haze queen. Purple car wash. Seductive glamour photography, purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Miss Doll - Aqua Marine Splash
 
 ```text
-Professional aquatic wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP blue. Wearing AQUA BLUE WET BIKINI TOP. White corset. PLEASER FLAMINGO-808 blue 8-inch heels. Splashing water from clear bucket. Sensual pose with arched back, bedroom eyes. Expression: water baby. Aqua car wash. Seductive glamour photography, blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional aquatic wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP blue. Wearing AQUA BLUE WET BIKINI TOP. White corset. PLEASER FLAMINGO-808 blue 8-inch heels. Splashing water from clear bucket. Sensual pose with arched back, bedroom eyes. Expression: water baby. Aqua car wash. Seductive glamour photography, blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Blood Bath Car Wash
 
 ```text
-Professional horror-glam wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing RED DYE WET T-SHIRT (looks like blood). Black corset. PLEASER RAPTURE-1020 red 8-inch boots. Washing car with red-tinted foam (Halloween style). Sensual pose with arched back, bedroom eyes. Expression: vampire wash. Horror car wash. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror-glam wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing RED DYE WET T-SHIRT (looks like blood). Black corset. PLEASER RAPTURE-1020 red 8-inch boots. Washing car with red-tinted foam (Halloween style). Sensual pose with arched back, bedroom eyes. Expression: vampire wash. Horror car wash. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Miss Doll - Golden Hour Glow
 
 ```text
-Professional sunset wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin golden. HEAVY GLAMOUR MAKEUP gold. Wearing GOLD SEQUIN WET TOP. Gold corset. PLEASER FLAMINGO-808 gold 8-inch heels. Washing car at perfect sunset golden hour. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Sunset car wash. Seductive glamour photography, sun flare lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sunset wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin golden. HEAVY GLAMOUR MAKEUP gold. Wearing GOLD SEQUIN WET TOP. Gold corset. PLEASER FLAMINGO-808 gold 8-inch heels. Washing car at perfect sunset golden hour. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Sunset car wash. Seductive glamour photography, sun flare lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Starlight Night Wash
 
 ```text
-Professional celestial wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing NAVY BLUE STAR PRINT WET TOP. Black corset. PLEASER MOON-708 glitter 7-inch heels. Washing car under starry night sky. Sensual pose with arched back, bedroom eyes. Expression: night beauty. Star car wash. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional celestial wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing NAVY BLUE STAR PRINT WET TOP. Black corset. PLEASER MOON-708 glitter 7-inch heels. Washing car under starry night sky. Sensual pose with arched back, bedroom eyes. Expression: night beauty. Star car wash. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 35: 66. Miss Doll - Cherry Bomb Wet
 
 ```text
-Professional fruity wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing CHERRY PRINT WET TOP. Red corset. PLEASER FLAMINGO-808 red 8-inch heels. Washing red convertible with cherry foam. Sensual pose with arched back, bedroom eyes. Expression: cherry pie. Fruit car wash. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fruity wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing CHERRY PRINT WET TOP. Red corset. PLEASER FLAMINGO-808 red 8-inch heels. Washing red convertible with cherry foam. Sensual pose with arched back, bedroom eyes. Expression: cherry pie. Fruit car wash. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Helena - Toxic Waste Wash
 
 ```text
-Professional industrial wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing HAZARD YELLOW WET TOP. Black corset. PLEASER RAPTURE-1020 yellow tape 8-inch boots. Washing car in industrial setting with yellow "caution" foam. Sensual pose with arched back, bedroom eyes. Expression: dangerous wash. Industrial car wash. Seductive glamour photography, warning lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional industrial wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing HAZARD YELLOW WET TOP. Black corset. PLEASER RAPTURE-1020 yellow tape 8-inch boots. Washing car in industrial setting with yellow "caution" foam. Sensual pose with arched back, bedroom eyes. Expression: dangerous wash. Industrial car wash. Seductive glamour photography, warning lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Miss Doll - Mermaid Scales Wet
 
 ```text
-Professional fantasy wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP teal/purple. Wearing MERMAID SCALE WET TOP. Purple corset. PLEASER FLAMINGO-808 teal 8-inch heels. Washing car with sea-foam. Sensual pose with arched back, bedroom eyes. Expression: land mermaid. Fantasy car wash. Seductive glamour photography, aquatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP teal/purple. Wearing MERMAID SCALE WET TOP. Purple corset. PLEASER FLAMINGO-808 teal 8-inch heels. Washing car with sea-foam. Sensual pose with arched back, bedroom eyes. Expression: land mermaid. Fantasy car wash. Seductive glamour photography, aquatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Helena - Volcanic Ash Wash
 
 ```text
-Professional dark wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin with grey streaks. Black lips. Wearing CHARCOAL GREY WET T-SHIRT. Black corset. PLEASER RAPTURE-1020 grey 8-inch boots. Washing car with "ash" grey foam. Sensual pose with arched back, bedroom eyes. Expression: volcano queen. Ash car wash. Seductive glamour photography, grey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin with grey streaks. Black lips. Wearing CHARCOAL GREY WET T-SHIRT. Black corset. PLEASER RAPTURE-1020 grey 8-inch boots. Washing car with "ash" grey foam. Sensual pose with arched back, bedroom eyes. Expression: volcano queen. Ash car wash. Seductive glamour photography, grey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - Confetti Blast Wash
 
 ```text
-Professional party wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP colorful. Wearing WHITE WET TOP covered in wet confetti. Pink corset. PLEASER FLAMINGO-808 multi 8-inch heels. Washing car while confetti cannon blasts. Sensual pose with arched back, bedroom eyes. Expression: party time. Celebration car wash. Seductive glamour photography, colorful lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional party wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP colorful. Wearing WHITE WET TOP covered in wet confetti. Pink corset. PLEASER FLAMINGO-808 multi 8-inch heels. Washing car while confetti cannon blasts. Sensual pose with arched back, bedroom eyes. Expression: party time. Celebration car wash. Seductive glamour photography, colorful lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Helena - Ink Spill Wet
 
 ```text
-Professional artistic wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing INK BLOT WET T-SHIRT (Rorschach pattern). Black corset. PLEASER MOON-708 black 7-inch heels. Washing white car with black "ink" foam. Sensual pose with arched back, bedroom eyes. Expression: art noir. Ink car wash. Seductive glamour photography, high contrast lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional artistic wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing INK BLOT WET T-SHIRT (Rorschach pattern). Black corset. PLEASER MOON-708 black 7-inch heels. Washing white car with black "ink" foam. Sensual pose with arched back, bedroom eyes. Expression: art noir. Ink car wash. Seductive glamour photography, high contrast lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Miss Doll - Glitter Bomb Wet
 
 ```text
-Professional glitter wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin glittery. HEAVY GLAMOUR MAKEUP. Wearing PINK GLITTER WET TOP. Pink corset. PLEASER FLAMINGO-808 glitter pink 8-inch heels. Washing car with glitter-infused water. Sensual pose with arched back, bedroom eyes. Expression: sparkle queen. Glitter car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glitter wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin glittery. HEAVY GLAMOUR MAKEUP. Wearing PINK GLITTER WET TOP. Pink corset. PLEASER FLAMINGO-808 glitter pink 8-inch heels. Washing car with glitter-infused water. Sensual pose with arched back, bedroom eyes. Expression: sparkle queen. Glitter car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Helena - Serpent Skin Wet
 
 ```text
-Professional texture wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Green lips. Wearing SNAKESKIN PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 snake 8-inch boots. Washing green viper car. Sensual pose with arched back, bedroom eyes. Expression: serpent charmer. Snake car wash. Seductive glamour photography, green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional texture wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Green lips. Wearing SNAKESKIN PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 snake 8-inch boots. Washing green viper car. Sensual pose with arched back, bedroom eyes. Expression: serpent charmer. Snake car wash. Seductive glamour photography, green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Miss Doll - Polka Dot Wet
 
 ```text
-Professional retro wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP retro. Wearing PINK POLKA DOT WET BIKINI TOP. White corset. PLEASER FLAMINGO-808 white 8-inch heels. Washing vintage car. Sensual pose with arched back, bedroom eyes. Expression: pinup doll. Retro car wash. Seductive glamour photography, vintage lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional retro wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP retro. Wearing PINK POLKA DOT WET BIKINI TOP. White corset. PLEASER FLAMINGO-808 white 8-inch heels. Washing vintage car. Sensual pose with arched back, bedroom eyes. Expression: pinup doll. Retro car wash. Seductive glamour photography, vintage lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Helena - Thunder Cloud Wash
 
 ```text
-Professional storm wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Grey lips. Wearing GREY CLOUD PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 grey 8-inch boots. Washing car under storm clouds. Sensual pose with arched back, bedroom eyes. Expression: storm bringer. Weather car wash. Seductive glamour photography, dramatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional storm wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Grey lips. Wearing GREY CLOUD PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 grey 8-inch boots. Washing car under storm clouds. Sensual pose with arched back, bedroom eyes. Expression: storm bringer. Weather car wash. Seductive glamour photography, dramatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 💎 VI. EXPANSION: LUXURY & FANTASY WASH (76-100)
+## ðŸ’Ž VI. EXPANSION: LUXURY & FANTASY WASH (76-100)
 
 ### Prompt 25: 76. Miss Doll - Money Rain Wash
 
 ```text
-Professional luxury wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold. Wearing DOLLAR SIGN PRINT WET TOP. Gold corset. PLEASER FLAMINGO-808 gold 8-inch heels. Washing limousine while wet money sticks to car. Sensual pose with arched back, bedroom eyes. Expression: chaotic wealth. Money car wash. Seductive glamour photography, green/gold lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold. Wearing DOLLAR SIGN PRINT WET TOP. Gold corset. PLEASER FLAMINGO-808 gold 8-inch heels. Washing limousine while wet money sticks to car. Sensual pose with arched back, bedroom eyes. Expression: chaotic wealth. Money car wash. Seductive glamour photography, green/gold lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Helena - Gothic Cathedral Car Wash
 
 ```text
-Professional gothic wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing STAINED GLASS PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Washing hearse parked outside cathedral. Sensual pose with arched back, bedroom eyes. Expression: holy water. Gothic wash. Seductive glamour photography, stained glass lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing STAINED GLASS PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 black 8-inch boots. Washing hearse parked outside cathedral. Sensual pose with arched back, bedroom eyes. Expression: holy water. Gothic wash. Seductive glamour photography, stained glass lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Miss Doll - Champagne Tower Splash
 
 ```text
-Professional luxury wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP champagne. Wearing CHAMPAGNE GOLD WET BIKINI. Gold corset. PLEASER FLAMINGO-808 clear 8-inch heels. Spilling giant champagne bottle over car hood. Sensual pose with arched back, bedroom eyes. Expression: oops expensive. Champagne wash. Seductive glamour photography, gold lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP champagne. Wearing CHAMPAGNE GOLD WET BIKINI. Gold corset. PLEASER FLAMINGO-808 clear 8-inch heels. Spilling giant champagne bottle over car hood. Sensual pose with arched back, bedroom eyes. Expression: oops expensive. Champagne wash. Seductive glamour photography, gold lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Helena - Spider Web Foam
 
 ```text
-Professional spooky wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing SPIDER WEB MESH WET TOP. Black corset. PLEASER MOON-708 spider 7-inch heels. Foam forming spider web patterns on car. Sensual pose with arched back, bedroom eyes. Expression: web spinner. Spooky car wash. Seductive glamour photography, shadowy lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spooky wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing SPIDER WEB MESH WET TOP. Black corset. PLEASER MOON-708 spider 7-inch heels. Foam forming spider web patterns on car. Sensual pose with arched back, bedroom eyes. Expression: web spinner. Spooky car wash. Seductive glamour photography, shadowy lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Miss Doll - Diamond Dust Wash
 
 ```text
-Professional luxury wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP diamond. Wearing DIAMOND ENCRUSTED WET TOP (rhinestones). White corset. PLEASER FLAMINGO-808 rhinestone 8-inch heels. Washing car with "diamond dust" sparkling soap. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Jewel car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP diamond. Wearing DIAMOND ENCRUSTED WET TOP (rhinestones). White corset. PLEASER FLAMINGO-808 rhinestone 8-inch heels. Washing car with "diamond dust" sparkling soap. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Jewel car wash. Seductive glamour photography, sparkle lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 20: 81. Helena - Bat Wing Splash
 
 ```text
-Professional gothic wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BAT PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 bat wing 8-inch boots. Washing Batmobile-style car. Sensual pose with arched back, bedroom eyes. Expression: night rider. Bat car wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BAT PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 bat wing 8-inch boots. Washing Batmobile-style car. Sensual pose with arched back, bedroom eyes. Expression: night rider. Bat car wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 19: 82. Miss Doll - Pearl Necklace Wash
 
 ```text
-Professional luxury wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing PEARL STRAND TOP (wet). White corset. PLEASER FLAMINGO-808 pearl 8-inch heels. Washing white pearlescent car. Sensual pose with arched back, bedroom eyes. Expression: pearl beauty. Elegant car wash. Seductive glamour photography, soft white lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing PEARL STRAND TOP (wet). White corset. PLEASER FLAMINGO-808 pearl 8-inch heels. Washing white pearlescent car. Sensual pose with arched back, bedroom eyes. Expression: pearl beauty. Elegant car wash. Seductive glamour photography, soft white lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 18: 83. Helena - Crimson Blood Rain
 
 ```text
-Professional horror wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing WHITE WET T-SHIRT STAINED RED. Black corset beneath. PLEASER FLAMINGO-1020 red patent 8-inch boots. Washing car in red rain. Sensual pose with arched back, bedroom eyes. Expression: bloody gorgeous. Crimson wash. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Red lips. Wearing WHITE WET T-SHIRT STAINED RED. Black corset beneath. PLEASER FLAMINGO-1020 red patent 8-inch boots. Washing car in red rain. Sensual pose with arched back, bedroom eyes. Expression: bloody gorgeous. Crimson wash. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 17: 84. Miss Doll - Feather Boa Wet
 
 ```text
-Professional texture wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing PINK WET FEATHER top (feathers matted/wet). Pink corset. PLEASER FLAMINGO-808 feather 8-inch heels. Washing pink car with soaking wet feather boa sponge. Sensual pose with arched back, bedroom eyes. Expression: texture play. Feather car wash. Seductive glamour photography, soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional texture wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing PINK WET FEATHER top (feathers matted/wet). Pink corset. PLEASER FLAMINGO-808 feather 8-inch heels. Washing pink car with soaking wet feather boa sponge. Sensual pose with arched back, bedroom eyes. Expression: texture play. Feather car wash. Seductive glamour photography, soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 16: 85. Helena - Chain Mail Wet
 
 ```text
-Professional metallic wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing CHAINMAIL WET TOP clinging. Black corset. PLEASER RAPTURE-1020 chain 8-inch boots. Washing armored car. Sensual pose with arched back, bedroom eyes. Expression: iron maiden. Armor car wash. Seductive glamour photography, metallic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional metallic wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing CHAINMAIL WET TOP clinging. Black corset. PLEASER RAPTURE-1020 chain 8-inch boots. Washing armored car. Sensual pose with arched back, bedroom eyes. Expression: iron maiden. Armor car wash. Seductive glamour photography, metallic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 15: 86. Miss Doll - Lace Glove Sponge
 
 ```text
-Professional detail wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing WHITE LACE WET TOP. White corset. White lace gloves using as sponges. PLEASER FLAMINGO-808 white 8-inch heels. Washing luxury car delicately with gloved hands. Sensual pose with arched back, bedroom eyes. Expression: delicate touch. Lace car wash. Seductive glamour photography, detailed lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional detail wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing WHITE LACE WET TOP. White corset. White lace gloves using as sponges. PLEASER FLAMINGO-808 white 8-inch heels. Washing luxury car delicately with gloved hands. Sensual pose with arched back, bedroom eyes. Expression: delicate touch. Lace car wash. Seductive glamour photography, detailed lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 14: 87. Helena - Velvet Soak
 
 ```text
-Professional texture wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Burgundy lips. Wearing WET BURGUNDY VELVET DRESS clinging. Black corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Washing car with velvet cloth. Sensual pose with arched back, bedroom eyes. Expression: lush wet. Velvet wash. Seductive glamour photography, rich lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional texture wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Burgundy lips. Wearing WET BURGUNDY VELVET DRESS clinging. Black corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Washing car with velvet cloth. Sensual pose with arched back, bedroom eyes. Expression: lush wet. Velvet wash. Seductive glamour photography, rich lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 13: 88. Miss Doll - Balloon Pop Wash
 
 ```text
-Professional playful wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing BALLOON PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heels. Washing car amidst popping water balloons. Sensual pose with arched back, bedroom eyes. Expression: pop surprise. Balloon car wash. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing BALLOON PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 pink 8-inch heels. Washing car amidst popping water balloons. Sensual pose with arched back, bedroom eyes. Expression: pop surprise. Balloon car wash. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 12: 89. Helena - Skull Sponge Gothic
 
 ```text
-Professional gothic prop wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing SKULL PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 skull 8-inch boots. Washing car with skull-shaped sponge. Sensual pose with arched back, bedroom eyes. Expression: memento mori. Skull wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic prop wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing SKULL PRINT WET TOP. Black corset. PLEASER RAPTURE-1020 skull 8-inch boots. Washing car with skull-shaped sponge. Sensual pose with arched back, bedroom eyes. Expression: memento mori. Skull wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 11: 90. Miss Doll - Ice Cream Melt Wash
 
 ```text
-Professional sweet wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pastel. Wearing ICE CREAM CONE PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 pastel 8-inch heels. Washing ice cream truck. Sensual pose with arched back, bedroom eyes. Expression: melting sweet. Dessert car wash. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sweet wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pastel. Wearing ICE CREAM CONE PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 pastel 8-inch heels. Washing ice cream truck. Sensual pose with arched back, bedroom eyes. Expression: melting sweet. Dessert car wash. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 10: 91. Helena - Coffin Car Wash
 
 ```text
-Professional gothic vehicle wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Purple lips. Wearing PURPLE SATIN WET TOP. Black corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Washing dragula-style coffin car. Sensual pose with arched back, bedroom eyes. Expression: dead fast. Coffin wash. Seductive glamour photography, eerie lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic vehicle wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Purple lips. Wearing PURPLE SATIN WET TOP. Black corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Washing dragula-style coffin car. Sensual pose with arched back, bedroom eyes. Expression: dead fast. Coffin wash. Seductive glamour photography, eerie lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 9: 92. Miss Doll - Lipstick Mark Wash
 
 ```text
-Professional kiss wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing LIP PRINT WET TOP. Red corset. PLEASER FLAMINGO-808 red 8-inch heels. Washing car covered in lipstick kiss marks. Sensual pose with arched back, bedroom eyes. Expression: sealed with a kiss. Kiss car wash. Seductive glamour photography, red/pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional kiss wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP red. Wearing LIP PRINT WET TOP. Red corset. PLEASER FLAMINGO-808 red 8-inch heels. Washing car covered in lipstick kiss marks. Sensual pose with arched back, bedroom eyes. Expression: sealed with a kiss. Kiss car wash. Seductive glamour photography, red/pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 8: 93. Helena - Raven Feather Wet
 
 ```text
-Professional texture wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BLACK FEATHER WET TOP (crow feathers). Black corset. PLEASER RAPTURE-1020 black feather 8-inch boots. Washing black car, feathers sticking to wet surface. Sensual pose with arched back, bedroom eyes. Expression: raven queen. Bird car wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional texture wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing BLACK FEATHER WET TOP (crow feathers). Black corset. PLEASER RAPTURE-1020 black feather 8-inch boots. Washing black car, feathers sticking to wet surface. Sensual pose with arched back, bedroom eyes. Expression: raven queen. Bird car wash. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 7: 94. Miss Doll - Heart Shaped Sponge
 
 ```text
-Professional cute wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing HEART PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 heart 8-inch heels. Washing pink car with giant pink heart sponge. Sensual pose with arched back, bedroom eyes. Expression: love wash. Heart car wash. Seductive glamour photography, pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cute wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink. Wearing HEART PRINT WET TOP. Pink corset. PLEASER FLAMINGO-808 heart 8-inch heels. Washing pink car with giant pink heart sponge. Sensual pose with arched back, bedroom eyes. Expression: love wash. Heart car wash. Seductive glamour photography, pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 6: 95. Helena - Spiked Chain Wash
 
 ```text
-Professional fetish wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing SILVER CHAIN WET TOP. Black corset. PLEASER RAPTURE-1020 spike 8-inch boots. Washing car with chain sponge (metallic mesh). Sensual pose with arched back, bedroom eyes. Expression: heavy metal. Chain car wash. Seductive glamour photography, metallic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Silver lips. Wearing SILVER CHAIN WET TOP. Black corset. PLEASER RAPTURE-1020 spike 8-inch boots. Washing car with chain sponge (metallic mesh). Sensual pose with arched back, bedroom eyes. Expression: heavy metal. Chain car wash. Seductive glamour photography, metallic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 5: 96. Miss Doll - Seashell Bikini Wash
 
 ```text
-Professional mermaid wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing SEASHELL SHAPED WET TOP. Pearl corset. PLEASER FLAMINGO-808 shell 8-inch heels. Washing car with giant seashell sponge. Sensual pose with arched back, bedroom eyes. Expression: shell beauty. Sea car wash. Seductive glamour photography, aquatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mermaid wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing SEASHELL SHAPED WET TOP. Pearl corset. PLEASER FLAMINGO-808 shell 8-inch heels. Washing car with giant seashell sponge. Sensual pose with arched back, bedroom eyes. Expression: shell beauty. Sea car wash. Seductive glamour photography, aquatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 4: 97. Helena - Full Moon Wolf Wash
 
 ```text
-Professional werewolf wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet wild. Pale porcelain skin. Red lips. Wearing FUR TRIMMED WET TOP (wet fur look). Black corset. PLEASER RAPTURE-1020 fur 8-inch boots. Washing car under full moon. Sensual pose with arched back, bedroom eyes. Expression: wild wet. Wolf car wash. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional werewolf wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet wild. Pale porcelain skin. Red lips. Wearing FUR TRIMMED WET TOP (wet fur look). Black corset. PLEASER RAPTURE-1020 fur 8-inch boots. Washing car under full moon. Sensual pose with arched back, bedroom eyes. Expression: wild wet. Wolf car wash. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 3: 98. Miss Doll - Lollipop Lick Wash
 
 ```text
-Professional candy wet photography of glamorous woman with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing CANDY STRIPE WET TOP. Pink corset. PLEASER FLAMINGO-808 swirl 8-inch heels. Holding giant lollipop while washing car. Sensual pose with arched back, bedroom eyes. Expression: sweet lick. Candy shop wash. Seductive glamour photography, candy lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional candy wet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing CANDY STRIPE WET TOP. Pink corset. PLEASER FLAMINGO-808 swirl 8-inch heels. Holding giant lollipop while washing car. Sensual pose with arched back, bedroom eyes. Expression: sweet lick. Candy shop wash. Seductive glamour photography, candy lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 2: 99. Helena - Victorian Umbrella Splash
 
 ```text
-Professional gothic prop wet photography of young elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing VICTORIAN LACE WET DRESS. Black corset. PLEASER RAPTURE-1020 lace 8-inch boots. Holding black lace umbrella while hose sprays from below. Sensual pose with arched back, bedroom eyes. Expression: defying rain. Umbrella wash. Seductive glamour photography, rain lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic prop wet photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet. Pale porcelain skin. Black lips. Wearing VICTORIAN LACE WET DRESS. Black corset. PLEASER RAPTURE-1020 lace 8-inch boots. Holding black lace umbrella while hose sprays from below. Sensual pose with arched back, bedroom eyes. Expression: defying rain. Umbrella wash. Seductive glamour photography, rain lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 1: 100. Duo - Grand Finale Foam Cannon
@@ -675,7 +675,9 @@ Professional finale duo wet photography. HELENA (black wet outfit) and MISS DOLL
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V21.2 Car Wash & Wet Edition — 100 prompts*
+*Creado por: Helena de AnaÃ¯s ðŸ¦‡*
+*V21.2 Car Wash & Wet Edition â€” 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2026-01-04*
+
+

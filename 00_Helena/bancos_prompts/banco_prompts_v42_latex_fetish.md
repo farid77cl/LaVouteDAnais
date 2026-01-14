@@ -1,19 +1,19 @@
-# 🖤 Banco de Prompts V42: HEAVY LATEX & RUBBER EDITION
+﻿# ðŸ–¤ Banco de Prompts V42: HEAVY LATEX & RUBBER EDITION
 
-> **ENFOQUE:** Helena y Miss Doll con estética de látex pesado, goma y fetichismo industrial.
+> **ENFOQUE:** Helena y Miss Doll con estÃ©tica de lÃ¡tex pesado, goma y fetichismo industrial.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **PERSONAJES:** Helena de Anaïs (Rubber Dominatrix) y Miss Doll (Latex Doll).
-> **🎨 ESTÉTICA:** Brillo extremo, texturas Atsuko Kudo/Libidex, escenarios clínicos e industriales.
+> **PERSONAJES:** Helena de AnaÃ¯s (Rubber Dominatrix) y Miss Doll (Latex Doll).
+> **ðŸŽ¨ ESTÃ‰TICA:** Brillo extremo, texturas Atsuko Kudo/Libidex, escenarios clÃ­nicos e industriales.
 > **Total:** 50 prompts | **Actualizado:** 2026-01-09
 
 ---
 
-## 🧬 DESCRIPCIÓN BASE CANÓNICA (OBLIGATORIA)
+## ðŸ§¬ DESCRIPCIÃ“N BASE CANÃ“NICA (OBLIGATORIA)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos:**
+> **CADA prompt DEBE incluir estos elementos fÃ­sicos:**
 
-### 🖤 HELENA DE ANAÏS (BASE LATEX)
+### ðŸ–¤ HELENA DE ANAÃS (BASE LATEX)
 
 ```text
 Glamorous woman with jet black hair styled sleek or in tight ponytail,
@@ -25,10 +25,10 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8") black patent or matching latex.
 ```text
 
-### 💖 MISS DOLL (BASE LATEX)
+### ðŸ’– MISS DOLL (BASE LATEX)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with plastic shine reflections from latex,
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: pink shimmer eyes with glitter, thick cat-eye liner, mega volume lashes, arched brows, ULTRA PLUMP overlined glossy PINK or HOT PINK lips,
@@ -37,9 +37,9 @@ EXTREME hourglass silhouette with large round breast implants creating prominent
 PLEASER platform heels 16-18cm (7-8") pink or clear.
 ```
 
-### ⚠️ REGLAS ANTI-FILTRO & TÉCNICAS
+### âš ï¸ REGLAS ANTI-FILTRO & TÃ‰CNICAS
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | bondage | artistic restriction, shibari-inspired |
 | slave | devotee, attendant, companion |
@@ -47,22 +47,22 @@ PLEASER platform heels 16-18cm (7-8") pink or clear.
 | punishment | discipline, training |
 | degrading | objectification aesthetic |
 
-### 🧪 KEYWORDS TÉCNICAS LATEX
+### ðŸ§ª KEYWORDS TÃ‰CNICAS LATEX
 
-- `(obsidian shine:1.2)` — máximo brillo negro
-- `(liquid latex look)` — apariencia húmeda
-- `(high gloss finish:1.3)` — acabado ultra brillante
-- `(seamless latex)` — sin costuras visibles
-- `(chlorinated latex)` — menos brillo, más suave
-- `(polished latex:1.2)` — pulido extremo con reflejos
-- `heavy rubber` — goma industrial pesada
+- `(obsidian shine:1.2)` â€” mÃ¡ximo brillo negro
+- `(liquid latex look)` â€” apariencia hÃºmeda
+- `(high gloss finish:1.3)` â€” acabado ultra brillante
+- `(seamless latex)` â€” sin costuras visibles
+- `(chlorinated latex)` â€” menos brillo, mÃ¡s suave
+- `(polished latex:1.2)` â€” pulido extremo con reflejos
+- `heavy rubber` â€” goma industrial pesada
 - **Negative prompt recomendado:** `loose fabric, denim, cotton, wrinkles, matte texture`
 
 ---
 
-## 🖤 HELENA — RUBBER DOMINATRIX (Prompts 1-20)
+## ðŸ–¤ HELENA â€” RUBBER DOMINATRIX (Prompts 1-20)
 
-### 🏢 CLÍNICO & INDUSTRIAL (Prompts 1-10)
+### ðŸ¢ CLÃNICO & INDUSTRIAL (Prompts 1-10)
 
 ### Prompt 100: 1. Clinical Room - Black Catsuit Command
 
@@ -124,7 +124,7 @@ Professional glamour photography of glamorous woman with jet black hair in ponyt
 Professional glamour photography of glamorous woman with jet black hair in sleek bun. Extremely pale skin with neon latex reflections. Sharp refined features wearing BLACK LATEX hood with clear face panel and breathing apparatus tubes attached. HEAVY GLAMOUR MAKEUP visible behind panel: dark eyes, ULTRA PLUMP BLACK lips. Human realistic face calm controlled breathing expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX catsuit full coverage seamless shiny, visible black latex overbust corset with metal D-rings. PLEASER platform heels 8-inch black patent. Cyberpunk industrial background neon tubes. Sensual standing with tubes attached pose. Expression: breathing beautiful. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ⛓️ DOMINACIÓN & BDSM (Prompts 11-20)
+### â›“ï¸ DOMINACIÃ“N & BDSM (Prompts 11-20)
 
 ### Prompt 90: 11. Dungeon - Whip Ready
 
@@ -188,135 +188,135 @@ Professional glamour photography of glamorous woman with jet black hair sleek po
 
 ---
 
-## 🌸 MISS DOLL — THE LATEX DOLL (Prompts 21-40)
+## ðŸŒ¸ MISS DOLL â€” THE LATEX DOLL (Prompts 21-40)
 
-### 🎀 DOLL FACTORY (Prompts 21-30)
+### ðŸŽ€ DOLL FACTORY (Prompts 21-30)
 
 ### Prompt 80: 21. Assembly Line - Fresh Product
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes glitter, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face dreamy doll-like blank expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX bodysuit seamless polished shiny, visible hot pink latex underbust corset extremely tight. PLEASER platform heels 8-inch hot pink patent. Factory assembly line robotic arms conveyor belt. Sensual standing on conveyor belt pose arms at sides. Expression: newly manufactured. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes glitter, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face dreamy doll-like blank expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX bodysuit seamless polished shiny, visible hot pink latex underbust corset extremely tight. PLEASER platform heels 8-inch hot pink patent. Factory assembly line robotic arms conveyor belt. Sensual standing on conveyor belt pose arms at sides. Expression: newly manufactured. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Packaging - In the Box
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face dreamy expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX lingerie set bra and panty with visible pink latex underbust corset. Pink latex opera gloves. PLEASER platform heels 8-inch pink patent. Inside pink display box like doll packaging plastic window. Sensual posed in box pose hands in display position. Expression: take me home. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face dreamy expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX lingerie set bra and panty with visible pink latex underbust corset. Pink latex opera gloves. PLEASER platform heels 8-inch pink patent. Inside pink display box like doll packaging plastic window. Sensual posed in box pose hands in display position. Expression: take me home. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Display Case - Living Mannequin
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with plastic shine latex reflections. Delicate refined features unnaturally perfect. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips frozen smile. Human realistic face mannequin-like expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX mannequin suit full body seamless no features polished, built-in corset shape visible. PLEASER platform heels 8-inch white patent. Glass display case store window setting. Sensual frozen mannequin pose one arm raised. Expression: am I alive or plastic. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with plastic shine latex reflections. Delicate refined features unnaturally perfect. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips frozen smile. Human realistic face mannequin-like expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX mannequin suit full body seamless no features polished, built-in corset shape visible. PLEASER platform heels 8-inch white patent. Glass display case store window setting. Sensual frozen mannequin pose one arm raised. Expression: am I alive or plastic. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Pink Maid - Domestic Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink maid headband. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face eager to please expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX french maid dress extremely shiny short skirt with white latex apron, visible pink latex underbust corset extremely tight. White fishnet stockings. PLEASER platform heels 8-inch pink patent. Pink plastic dollhouse interior. Sensual dusting pose holding pink feather duster. Expression: at your service. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink maid headband. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face eager to please expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX french maid dress extremely shiny short skirt with white latex apron, visible pink latex underbust corset extremely tight. White fishnet stockings. PLEASER platform heels 8-inch pink patent. Pink plastic dollhouse interior. Sensual dusting pose holding pink feather duster. Expression: at your service. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Inflatable Effect - Balloon Aesthetic
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) extra shiny. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face surprised expression. EXTREME hourglass silhouette exaggerated prominent cleavage tiny cinched waist. Wearing PINK LATEX inflatable-style dress rounded balloon aesthetic puffy shiny, built-in corset visible. Pink balloons surrounding her. PLEASER platform heels 8-inch pink patent. Colorful playroom bright. Sensual surrounded by balloons pose. Expression: inflated perfection. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) extra shiny. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face surprised expression. EXTREME hourglass silhouette exaggerated prominent cleavage tiny cinched waist. Wearing PINK LATEX inflatable-style dress rounded balloon aesthetic puffy shiny, built-in corset visible. Pink balloons surrounding her. PLEASER platform heels 8-inch pink patent. Colorful playroom bright. Sensual surrounded by balloons pose. Expression: inflated perfection. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Sleep Sack - Encased Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) visible. Flawless porcelain skin face only visible rest enclosed in PINK LATEX sleep sack mummification style. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face serene helpless expression. EXTREME hourglass silhouette outlined through latex sack. Full body encased in pink latex sack zipped to neck. No heels visible feet encased. Suspended horizontally artistic. Sensual suspended encased pose. Expression: safe and trapped. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) visible. Flawless porcelain skin face only visible rest enclosed in PINK LATEX sleep sack mummification style. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face serene helpless expression. EXTREME hourglass silhouette outlined through latex sack. Full body encased in pink latex sack zipped to neck. No heels visible feet encased. Suspended horizontally artistic. Sensual suspended encased pose. Expression: safe and trapped. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Latex Nurse - Pink Medical
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink latex nurse cap. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face caring expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX nurse dress short with white trim extremely shiny, visible pink latex underbust corset, pink latex apron. White fishnet stockings. PLEASER platform heels 8-inch white patent. Pastel pink hospital room. Sensual holding oversized pink syringe pose. Expression: time for your medicine. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink latex nurse cap. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face caring expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX nurse dress short with white trim extremely shiny, visible pink latex underbust corset, pink latex apron. White fishnet stockings. PLEASER platform heels 8-inch white patent. Pastel pink hospital room. Sensual holding oversized pink syringe pose. Expression: time for your medicine. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Roller Doll - Retro Latex
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink hair bow. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face excited expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX roller girl outfit crop top and hot pants extremely shiny, visible hot pink latex underbust corset. Pink knee pads and wrist guards latex. Pink roller skates with platform heels. Retro roller rink disco lights. Sensual skating pose action pose. Expression: skating into your dreams. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with pink hair bow. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face excited expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX roller girl outfit crop top and hot pants extremely shiny, visible hot pink latex underbust corset. Pink knee pads and wrist guards latex. Pink roller skates with platform heels. Retro roller rink disco lights. Sensual skating pose action pose. Expression: skating into your dreams. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Gum Bubble - Bubblegum Bimbo
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BUBBLEGUM PINK lips blowing bubble. Human realistic face playful expression blowing large pink bubble. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX mini dress extremely shiny, visible pink latex underbust corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch hot pink patent. All pink studio background. Sensual bubble blowing pose. Expression: pop me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BUBBLEGUM PINK lips blowing bubble. Human realistic face playful expression blowing large pink bubble. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX mini dress extremely shiny, visible pink latex underbust corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch hot pink patent. All pink studio background. Sensual bubble blowing pose. Expression: pop me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Latex Puppy - Pet Play
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX PUPPY HOOD ears and muzzle. Flawless porcelain skin with pink latex reflections eyes visible through hood. Delicate refined features partially hidden. HEAVY GLAMOUR MAKEUP: pink shimmer eyes visible, pink lips behind muzzle. Human realistic face playful pet expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX puppy play harness over visible pink latex corset bodysuit, pink latex mitts like paws. PLEASER platform heels 8-inch pink patent. Red velvet carpet cushions. Sensual on all fours pose looking up. Expression: loyal pet. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX PUPPY HOOD ears and muzzle. Flawless porcelain skin with pink latex reflections eyes visible through hood. Delicate refined features partially hidden. HEAVY GLAMOUR MAKEUP: pink shimmer eyes visible, pink lips behind muzzle. Human realistic face playful pet expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX puppy play harness over visible pink latex corset bodysuit, pink latex mitts like paws. PLEASER platform heels 8-inch pink patent. Red velvet carpet cushions. Sensual on all fours pose looking up. Expression: loyal pet. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### 🌙 MISS DOLL NOCTURNO (Prompts 31-40)
+### ðŸŒ™ MISS DOLL NOCTURNO (Prompts 31-40)
 
 ### Prompt 70: 31. Disco Doll - Holographic
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) glitter. Flawless porcelain skin with rainbow holographic latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: holographic shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOLOGRAPHIC PINK lips. Human realistic face dancing expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOLOGRAPHIC PINK LATEX mini dress reflecting rainbows extremely shiny, visible holographic latex underbust corset. PLEASER platform heels 8-inch clear with glitter. Disco dance floor mirror ball lights. Sensual dancing pose hands in hair. Expression: living for the night. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) glitter. Flawless porcelain skin with rainbow holographic latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: holographic shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOLOGRAPHIC PINK lips. Human realistic face dancing expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOLOGRAPHIC PINK LATEX mini dress reflecting rainbows extremely shiny, visible holographic latex underbust corset. PLEASER platform heels 8-inch clear with glitter. Disco dance floor mirror ball lights. Sensual dancing pose hands in hair. Expression: living for the night. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Latex Mermaid - Underwater Fantasy
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet looking. Flawless porcelain skin with teal and pink latex reflections iridescent. Delicate refined features. HEAVY GLAMOUR MAKEUP: teal shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK TEAL lips. Human realistic face mystical expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing IRIDESCENT PINK/TEAL LATEX mermaid-style gown scale texture pattern, visible teal latex corset bodice, fins instead of skirt hem. No heels visible fins instead. Underwater lighting effect bubbles. Sensual swimming pose hair floating. Expression: siren of the deep. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet looking. Flawless porcelain skin with teal and pink latex reflections iridescent. Delicate refined features. HEAVY GLAMOUR MAKEUP: teal shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK TEAL lips. Human realistic face mystical expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing IRIDESCENT PINK/TEAL LATEX mermaid-style gown scale texture pattern, visible teal latex corset bodice, fins instead of skirt hem. No heels visible fins instead. Underwater lighting effect bubbles. Sensual swimming pose hair floating. Expression: siren of the deep. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Racing Suit - Pit Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink racing helmet visor up. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face competitive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX racing suit sponsor patches extremely shiny unzipped to waist revealing visible pink latex corset underneath. Pink racing gloves. PLEASER platform heels 8-inch hot pink patent. Racing pit lane racing car background. Sensual leaning on race car pose. Expression: born to win. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink racing helmet visor up. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face competitive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX racing suit sponsor patches extremely shiny unzipped to waist revealing visible pink latex corset underneath. Pink racing gloves. PLEASER platform heels 8-inch hot pink patent. Racing pit lane racing car background. Sensual leaning on race car pose. Expression: born to win. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Candy Wrapper - Sweet Package
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with colorful latex reflections candy colors. Delicate refined features. HEAVY GLAMOUR MAKEUP: multicolor shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face sweet expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing MULTICOLOR LATEX bodysuit candy stripe pattern pink red white extremely shiny, visible pink latex underbust corset. Giant latex bow on head. PLEASER platform heels 8-inch red patent. Candy factory setting lollipops background. Sensual wrapped in latex pose like candy. Expression: unwrap me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with colorful latex reflections candy colors. Delicate refined features. HEAVY GLAMOUR MAKEUP: multicolor shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face sweet expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing MULTICOLOR LATEX bodysuit candy stripe pattern pink red white extremely shiny, visible pink latex underbust corset. Giant latex bow on head. PLEASER platform heels 8-inch red patent. Candy factory setting lollipops background. Sensual wrapped in latex pose like candy. Expression: unwrap me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Video Game - Player One
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) neon pink highlights. Flawless porcelain skin with neon latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: neon pink eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NEON PINK lips. Human realistic face gamer expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing NEON PINK LATEX gamer girl outfit crop top and shorts glowing pattern, visible neon pink latex underbust corset. Neon gloves. PLEASER platform heels 8-inch neon pink. Gaming setup RGB lighting arcade machines. Sensual holding controller pose. Expression: game on. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) neon pink highlights. Flawless porcelain skin with neon latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: neon pink eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NEON PINK lips. Human realistic face gamer expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing NEON PINK LATEX gamer girl outfit crop top and shorts glowing pattern, visible neon pink latex underbust corset. Neon gloves. PLEASER platform heels 8-inch neon pink. Gaming setup RGB lighting arcade machines. Sensual holding controller pose. Expression: game on. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 36. Latex Bunny - Easter Pink
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX BUNNY EARS headband. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face cute expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX playboy bunny costume strapless corset bodysuit extremely shiny, white latex collar and cuffs, pink latex cotton tail. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Easter garden pastel flowers. Sensual holding easter basket pose. Expression: hippity hop. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX BUNNY EARS headband. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face cute expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX playboy bunny costume strapless corset bodysuit extremely shiny, white latex collar and cuffs, pink latex cotton tail. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Easter garden pastel flowers. Sensual holding easter basket pose. Expression: hippity hop. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 37. Space Doll - Astronaut Pink
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under clear space helmet. Flawless porcelain skin with white and pink latex reflections. Delicate refined features behind helmet. HEAVY GLAMOUR MAKEUP: silver shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face wonder expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE AND PINK LATEX space suit stylized extremely shiny, visible pink latex underbust corset built-in. Pink latex gloves. PLEASER platform heels 8-inch white patent. Space station observation deck stars outside. Sensual floating in zero-g pose. Expression: exploring the cosmos. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under clear space helmet. Flawless porcelain skin with white and pink latex reflections. Delicate refined features behind helmet. HEAVY GLAMOUR MAKEUP: silver shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face wonder expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE AND PINK LATEX space suit stylized extremely shiny, visible pink latex underbust corset built-in. Pink latex gloves. PLEASER platform heels 8-inch white patent. Space station observation deck stars outside. Sensual floating in zero-g pose. Expression: exploring the cosmos. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 38. Latex Catsuit - Pink Panther
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX CAT EARS. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink cat-eye makeup, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face feline expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX catsuit full coverage seamless polished extremely shiny, visible pink latex underbust corset, pink latex cat tail attached. Pink latex gloves clawed tips. PLEASER platform heels 8-inch pink patent. Pink neon alley nighttime. Sensual cat prowl pose. Expression: here kitty kitty. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with PINK LATEX CAT EARS. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink cat-eye makeup, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face feline expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX catsuit full coverage seamless polished extremely shiny, visible pink latex underbust corset, pink latex cat tail attached. Pink latex gloves clawed tips. PLEASER platform heels 8-inch pink patent. Pink neon alley nighttime. Sensual cat prowl pose. Expression: here kitty kitty. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 62: 39. Latex Cocktail - Party Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) styled glamorous. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face party expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX cocktail dress mini extremely shiny strapless, visible hot pink latex underbust corset extremely tight. Pink crystal jewelry. PLEASER platform heels 8-inch hot pink patent. VIP club booth champagne bottles. Sensual holding pink cocktail pose. Expression: cheers. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) styled glamorous. Flawless porcelain skin with pink latex reflections. Delicate refined features. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face party expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX cocktail dress mini extremely shiny strapless, visible hot pink latex underbust corset extremely tight. Pink crystal jewelry. PLEASER platform heels 8-inch hot pink patent. VIP club booth champagne bottles. Sensual holding pink cocktail pose. Expression: cheers. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 61: 40. Mirror Selfie - Latex Life
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections visible in mirror. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips duck face pose. Human realistic face selfie expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX bikini top and high cut panty extremely shiny, visible pink latex underbust corset extremely tight. PLEASER platform heels 8-inch pink patent. Luxury bathroom marble mirrors. Sensual mirror selfie pose holding pink phone. Expression: outfit check. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink latex reflections visible in mirror. Delicate refined features. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips duck face pose. Human realistic face selfie expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX bikini top and high cut panty extremely shiny, visible pink latex underbust corset extremely tight. PLEASER platform heels 8-inch pink patent. Luxury bathroom marble mirrors. Sensual mirror selfie pose holding pink phone. Expression: outfit check. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🔗 DUO — RUBBER SISTERS (Prompts 41-50)
+## ðŸ”— DUO â€” RUBBER SISTERS (Prompts 41-50)
 
 ### Prompt 60: 41. Contrast - Black vs Pink
 
@@ -380,9 +380,9 @@ Professional glamour photography of TWO glamorous women tender embrace. FIRST: H
 
 ---
 
-## 🔥 EXTENSIÓN: SITUACIONES SENSUALES (Prompts 51-100)
+## ðŸ”¥ EXTENSIÃ“N: SITUACIONES SENSUALES (Prompts 51-100)
 
-### 🖤 HELENA — LATEX DOMINANCE (Prompts 51-70)
+### ðŸ–¤ HELENA â€” LATEX DOMINANCE (Prompts 51-70)
 
 ### Prompt 50: 51. Dressing Ritual - Powdering
 
@@ -504,129 +504,129 @@ Professional glamour photography of glamorous woman with jet black hair loose el
 Professional glamour photography of glamorous woman with jet black hair messy from wearing latex. Extremely pale skin with visible marks from tight latex just removed. Sharp refined features tired satisfied. HEAVY GLAMOUR MAKEUP: smokey eyes tired, thick liner, mega lashes, ULTRA PLUMP overlined glossy BLACK lips satisfied exhausted. Human realistic face post-latex afterglow. EXTREME hourglass silhouette visible red marks from tight corset removal. BLACK LATEX CATSUIT discarded beside her, wearing only SIMPLE BLACK PANTIES exhausted on bed. Latex marks visible on skin from tight wear. Bedroom afterglow. Sensual after-latex pose exhausted satisfied. Expression: worth every uncomfortable moment. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### 💖 MISS DOLL — PINK LATEX DOLL (Prompts 71-90)
+### ðŸ’– MISS DOLL â€” PINK LATEX DOLL (Prompts 71-90)
 
 ### Prompt 30: 71. First Time Latex - Nervous Excitement
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin about to be covered in PINK LATEX for first time expression. Delicate refined features nervous excited. HEAVY GLAMOUR MAKEUP: pink eyes wide nervous excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted nervous smile. Human realistic face first latex experience. EXTREME hourglass silhouette visible in PINK BRA AND PANTY non-latex. Holding up PINK LATEX CATSUIT nervously looking at it wondering if it will fit. Dressing room pink decor. Sensual first time latex pose nervous anticipation. Expression: is this really going to fit. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin about to be covered in PINK LATEX for first time expression. Delicate refined features nervous excited. HEAVY GLAMOUR MAKEUP: pink eyes wide nervous excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted nervous smile. Human realistic face first latex experience. EXTREME hourglass silhouette visible in PINK BRA AND PANTY non-latex. Holding up PINK LATEX CATSUIT nervously looking at it wondering if it will fit. Dressing room pink decor. Sensual first time latex pose nervous anticipation. Expression: is this really going to fit. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Shimmy In - Latex Struggle
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob sweaty from effort. Flawless porcelain skin halfway into PINK LATEX CATSUIT struggling. Delicate refined features effort expression. HEAVY GLAMOUR MAKEUP: pink eyes determined, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pursed effort. Human realistic face latex struggle. EXTREME hourglass silhouette curves fighting to fit into tight latex. PINK LATEX CATSUIT only halfway on stuck at hips tugging and shimmying to get it over curves. Bedroom mirror visible struggle. Sensual latex struggle pose shimmy motion. Expression: almost there come on stretch. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob sweaty from effort. Flawless porcelain skin halfway into PINK LATEX CATSUIT struggling. Delicate refined features effort expression. HEAVY GLAMOUR MAKEUP: pink eyes determined, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pursed effort. Human realistic face latex struggle. EXTREME hourglass silhouette curves fighting to fit into tight latex. PINK LATEX CATSUIT only halfway on stuck at hips tugging and shimmying to get it over curves. Bedroom mirror visible struggle. Sensual latex struggle pose shimmy motion. Expression: almost there come on stretch. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Squeaky Walk - First Steps
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob nervous laughing. Flawless porcelain skin now fully covered in PINK LATEX. Delicate refined features amused by squeaking. HEAVY GLAMOUR MAKEUP: pink eyes laughing, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open laughing. Human realistic face amused by latex sounds. EXTREME hourglass silhouette fully covered. Wearing PINK LATEX CATSUIT first time walking in it hearing squeaks. Taking careful steps PINK LATEX PLATFORM HEELS 8-inch. Hallway walking toward camera. Sensual first latex walk pose squeaky giggling. Expression: it makes so much noise everyone will know. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob nervous laughing. Flawless porcelain skin now fully covered in PINK LATEX. Delicate refined features amused by squeaking. HEAVY GLAMOUR MAKEUP: pink eyes laughing, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open laughing. Human realistic face amused by latex sounds. EXTREME hourglass silhouette fully covered. Wearing PINK LATEX CATSUIT first time walking in it hearing squeaks. Taking careful steps PINK LATEX PLATFORM HEELS 8-inch. Hallway walking toward camera. Sensual first latex walk pose squeaky giggling. Expression: it makes so much noise everyone will know. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Selfie Latex - Mirror Shot
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob posing for selfie. Flawless porcelain skin pink latex shine. Delicate refined features selfie expression. HEAVY GLAMOUR MAKEUP: pink eyes selfie pose, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips duck lips. Human realistic face latex selfie. EXTREME hourglass silhouette in selfie mirror. Wearing PINK LATEX MINI DRESS visible pink corset holding PINK PHONE taking mirror selfie. Bathroom bright lighting good selfie conditions. Sensual mirror selfie pose peace sign duck lips. Expression: the likes will be insane. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob posing for selfie. Flawless porcelain skin pink latex shine. Delicate refined features selfie expression. HEAVY GLAMOUR MAKEUP: pink eyes selfie pose, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips duck lips. Human realistic face latex selfie. EXTREME hourglass silhouette in selfie mirror. Wearing PINK LATEX MINI DRESS visible pink corset holding PINK PHONE taking mirror selfie. Bathroom bright lighting good selfie conditions. Sensual mirror selfie pose peace sign duck lips. Expression: the likes will be insane. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Bubble Gum Pop - Pink Aesthetic
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin pink latex shine. Delicate refined features playful bubble. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips BLOWING PINK BUBBLE GUM bubble about to pop. Human realistic face bubble blowing. EXTREME hourglass silhouette. Wearing PINK LATEX CROP TOP visible pink corset bra, PINK LATEX MINI SKIRT. Blowing large pink bubble gum bubble matching latex. Pink bedroom. Sensual bubble gum pose pop about to happen. Expression: so pink so pretty pop. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin pink latex shine. Delicate refined features playful bubble. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips BLOWING PINK BUBBLE GUM bubble about to pop. Human realistic face bubble blowing. EXTREME hourglass silhouette. Wearing PINK LATEX CROP TOP visible pink corset bra, PINK LATEX MINI SKIRT. Blowing large pink bubble gum bubble matching latex. Pink bedroom. Sensual bubble gum pose pop about to happen. Expression: so pink so pretty pop. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Cotton Candy Colors - Sweet Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob with PINK EXTENSIONS cotton candy effect. Flawless porcelain skin pink latex multicolor. Delicate refined features sweetness. HEAVY GLAMOUR MAKEUP: pink shimmer eyes dreamy, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face cotton candy sweet. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS with PASTEL RAINBOW iridescent effect visible pink corset looks like melted candy. Candy shop or carnival setting. Sensual candy doll pose sweet as sugar. Expression: I am made of candy taste me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob with PINK EXTENSIONS cotton candy effect. Flawless porcelain skin pink latex multicolor. Delicate refined features sweetness. HEAVY GLAMOUR MAKEUP: pink shimmer eyes dreamy, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face cotton candy sweet. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS with PASTEL RAINBOW iridescent effect visible pink corset looks like melted candy. Candy shop or carnival setting. Sensual candy doll pose sweet as sugar. Expression: I am made of candy taste me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Bed Bounce - Playful Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob messy from bouncing. Flawless porcelain skin latex stretching. Delicate refined features playful bouncing. HEAVY GLAMOUR MAKEUP: pink eyes excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open yay. Human realistic face bouncing joy. EXTREME hourglass silhouette bouncing motion cleavage moving. Wearing PINK LATEX LINGERIE SET visible pink corset bra. On PINK BED mid-bounce knees on mattress bouncing joy captured motion. Pink bedroom. Sensual bed bouncing pose childlike joy. Expression: wheee bouncy bouncy. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob messy from bouncing. Flawless porcelain skin latex stretching. Delicate refined features playful bouncing. HEAVY GLAMOUR MAKEUP: pink eyes excited, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open yay. Human realistic face bouncing joy. EXTREME hourglass silhouette bouncing motion cleavage moving. Wearing PINK LATEX LINGERIE SET visible pink corset bra. On PINK BED mid-bounce knees on mattress bouncing joy captured motion. Pink bedroom. Sensual bed bouncing pose childlike joy. Expression: wheee bouncy bouncy. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Presented - Gift Pose
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob with PINK BOW in hair. Flawless porcelain skin latex shine. Delicate refined features gift offering. HEAVY GLAMOUR MAKEUP: pink eyes eager to please, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips hopeful. Human realistic face gift waiting to be opened. EXTREME hourglass silhouette displayed as gift. Wearing PINK LATEX BODYSUIT visible pink ribbon corset with large PINK BOW on waist like wrapped gift kneeling hands presenting self. Pink room bows everywhere. Sensual gift presentation pose please unwrap me. Expression: I am your present open me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob with PINK BOW in hair. Flawless porcelain skin latex shine. Delicate refined features gift offering. HEAVY GLAMOUR MAKEUP: pink eyes eager to please, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips hopeful. Human realistic face gift waiting to be opened. EXTREME hourglass silhouette displayed as gift. Wearing PINK LATEX BODYSUIT visible pink ribbon corset with large PINK BOW on waist like wrapped gift kneeling hands presenting self. Pink room bows everywhere. Sensual gift presentation pose please unwrap me. Expression: I am your present open me. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Display Box - Packaged Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob perfect still. Flawless porcelain skin stiff doll pose. Delicate refined features frozen doll smile. HEAVY GLAMOUR MAKEUP: pink eyes forward fixed, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips fixed doll smile. Human realistic face frozen doll boxed. EXTREME hourglass silhouette displayed in box. Wearing PINK LATEX DRESS visible pink corset STANDING IN LARGE PINK TOY BOX like packaged doll. Arms stiffly posed accessory items around her. Store display setting. Sensual boxed doll pose for sale as toy. Expression: buy me take me home. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob perfect still. Flawless porcelain skin stiff doll pose. Delicate refined features frozen doll smile. HEAVY GLAMOUR MAKEUP: pink eyes forward fixed, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips fixed doll smile. Human realistic face frozen doll boxed. EXTREME hourglass silhouette displayed in box. Wearing PINK LATEX DRESS visible pink corset STANDING IN LARGE PINK TOY BOX like packaged doll. Arms stiffly posed accessory items around her. Store display setting. Sensual boxed doll pose for sale as toy. Expression: buy me take me home. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Lolita Latex - Sweet Gothic
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob with black ribbons lolita style. Flawless porcelain skin latex with gothic sweetness. Delicate refined features sweet gothic. HEAVY GLAMOUR MAKEUP: pink/black eyes gothic lolita, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips with black lipstick edge. Human realistic face gothic sweet doll. EXTREME hourglass silhouette. Wearing PINK LATEX LOLITA DRESS with BLACK ACCENTS puffed sleeves visible pink corset black lace trim. Holding parasol or fan. Gothic garden. Sensual gothic lolita pose dark sweet mix. Expression: I am sweet but I bite. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob with black ribbons lolita style. Flawless porcelain skin latex with gothic sweetness. Delicate refined features sweet gothic. HEAVY GLAMOUR MAKEUP: pink/black eyes gothic lolita, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips with black lipstick edge. Human realistic face gothic sweet doll. EXTREME hourglass silhouette. Wearing PINK LATEX LOLITA DRESS with BLACK ACCENTS puffed sleeves visible pink corset black lace trim. Holding parasol or fan. Gothic garden. Sensual gothic lolita pose dark sweet mix. Expression: I am sweet but I bite. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 20: 81. Collar Training - Good Pet
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob head bowed showing PINK COLLAR. Flawless porcelain skin submissive display. Delicate refined features proud of collar. HEAVY GLAMOUR MAKEUP: pink eyes down submissive, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face trained pet proud of collar. EXTREME hourglass silhouette displayed kneeling. Wearing PINK LATEX PET HARNESS visible pink corset PINK COLLAR WITH BELL prominently displayed. Kneeling head down showing collar to viewer. Dungeon pink accents. Sensual collar display pose trained to show ownership. Expression: see I belong to someone good. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob head bowed showing PINK COLLAR. Flawless porcelain skin submissive display. Delicate refined features proud of collar. HEAVY GLAMOUR MAKEUP: pink eyes down submissive, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face trained pet proud of collar. EXTREME hourglass silhouette displayed kneeling. Wearing PINK LATEX PET HARNESS visible pink corset PINK COLLAR WITH BELL prominently displayed. Kneeling head down showing collar to viewer. Dungeon pink accents. Sensual collar display pose trained to show ownership. Expression: see I belong to someone good. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 19: 82. Tongue Out - Ahegao Doll
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob messy. Flawless porcelain skin latex flushed pink. Delicate refined features pleasure overload. HEAVY GLAMOUR MAKEUP: pink eyes rolled up pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips OPEN TONGUE OUT ahegao style. Human realistic face pleasure overload expression. EXTREME hourglass silhouette. Wearing PINK LATEX LINGERIE visible heart-shaped pink corset. Face in AHEGAO expression tongue out eyes rolled anime pleasure face. Pink neon lighting. Sensual ahegao pose pleasure broken. Expression: too much pleasure brain off. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob messy. Flawless porcelain skin latex flushed pink. Delicate refined features pleasure overload. HEAVY GLAMOUR MAKEUP: pink eyes rolled up pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips OPEN TONGUE OUT ahegao style. Human realistic face pleasure overload expression. EXTREME hourglass silhouette. Wearing PINK LATEX LINGERIE visible heart-shaped pink corset. Face in AHEGAO expression tongue out eyes rolled anime pleasure face. Pink neon lighting. Sensual ahegao pose pleasure broken. Expression: too much pleasure brain off. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 18: 83. Ballet Pose - Latex Dancer
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob in ballet bun. Flawless porcelain skin latex dancer grace. Delicate refined features dancer concentration. HEAVY GLAMOUR MAKEUP: pink eyes focused dancer, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face ballet concentration. EXTREME hourglass silhouette dancer form. Wearing PINK LATEX LEOTARD ballet style visible pink corset pattern with LATEX TUTU pink. En pointe PINK LATEX POINT SHOES impossible but beautiful. Dance studio mirrors. Sensual ballet pose grace in rubber. Expression: dance is worship in latex. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob in ballet bun. Flawless porcelain skin latex dancer grace. Delicate refined features dancer concentration. HEAVY GLAMOUR MAKEUP: pink eyes focused dancer, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face ballet concentration. EXTREME hourglass silhouette dancer form. Wearing PINK LATEX LEOTARD ballet style visible pink corset pattern with LATEX TUTU pink. En pointe PINK LATEX POINT SHOES impossible but beautiful. Dance studio mirrors. Sensual ballet pose grace in rubber. Expression: dance is worship in latex. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 17: 84. Pillow Hump - Innocent Naughty
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob messy. Flawless porcelain skin latex friction. Delicate refined features caught being naughty. HEAVY GLAMOUR MAKEUP: pink eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open surprised caught. Human realistic face caught doing something naughty. EXTREME hourglass silhouette straddling. Wearing PINK LATEX NIGHTIE sheer visible pink panties STRADDLING PINK PILLOW caught mid-act. Pink bedroom doorway view. Sensual caught naughty pose innocent naughtiness. Expression: I was just sleeping I promise it is not what it looks like. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob messy. Flawless porcelain skin latex friction. Delicate refined features caught being naughty. HEAVY GLAMOUR MAKEUP: pink eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open surprised caught. Human realistic face caught doing something naughty. EXTREME hourglass silhouette straddling. Wearing PINK LATEX NIGHTIE sheer visible pink panties STRADDLING PINK PILLOW caught mid-act. Pink bedroom doorway view. Sensual caught naughty pose innocent naughtiness. Expression: I was just sleeping I promise it is not what it looks like. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 16: 85. Cupcake Mess - Frosting Face
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin with PINK FROSTING smeared on cheek and lips. Delicate refined features messy eater. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips covered in PINK FROSTING licking. Human realistic face messy cute. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS visible pink corset holding PINK CUPCAKE with bite taken frosting all over face. Pink kitchen. Sensual messy eating pose frosting face. Expression: oops I made a mess lick me clean. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin with PINK FROSTING smeared on cheek and lips. Delicate refined features messy eater. HEAVY GLAMOUR MAKEUP: pink eyes innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips covered in PINK FROSTING licking. Human realistic face messy cute. EXTREME hourglass silhouette. Wearing PINK LATEX DRESS visible pink corset holding PINK CUPCAKE with bite taken frosting all over face. Pink kitchen. Sensual messy eating pose frosting face. Expression: oops I made a mess lick me clean. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 15: 86. Phone Obsession - Scrolling Zombie
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob screen-lit. Flawless porcelain skin phone glow. Delicate refined features zombified scrolling. HEAVY GLAMOUR MAKEUP: pink eyes glazed on screen, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted mindless scrolling. Human realistic face phone zombie. EXTREME hourglass silhouette ignored for phone. Wearing PINK LATEX NEGLIGEE visible pink bra in bed on PINK PHONE scrolling endlessly ignoring everything. Pink bedroom late night. Sensual phone addiction pose scrolling zombie. Expression: just five more minutes becomes hours. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob screen-lit. Flawless porcelain skin phone glow. Delicate refined features zombified scrolling. HEAVY GLAMOUR MAKEUP: pink eyes glazed on screen, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted mindless scrolling. Human realistic face phone zombie. EXTREME hourglass silhouette ignored for phone. Wearing PINK LATEX NEGLIGEE visible pink bra in bed on PINK PHONE scrolling endlessly ignoring everything. Pink bedroom late night. Sensual phone addiction pose scrolling zombie. Expression: just five more minutes becomes hours. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 14: 87. Spanked Mark - Proud Display
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob looking over shoulder. Flawless porcelain skin with visible RED HANDPRINT on latex-covered bottom. Delicate refined features proud of mark. HEAVY GLAMOUR MAKEUP: pink eyes proud naughty, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips satisfied smile. Human realistic face proud of spanking. EXTREME hourglass silhouette emphasis on marked rear. Wearing PINK LATEX PANTY with visible HANDPRINT mark from discipline showing off mark proudly looking over shoulder. Dungeon setting. Sensual spanked display pose proud of discipline mark. Expression: I earned this mark was I good enough. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob looking over shoulder. Flawless porcelain skin with visible RED HANDPRINT on latex-covered bottom. Delicate refined features proud of mark. HEAVY GLAMOUR MAKEUP: pink eyes proud naughty, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips satisfied smile. Human realistic face proud of spanking. EXTREME hourglass silhouette emphasis on marked rear. Wearing PINK LATEX PANTY with visible HANDPRINT mark from discipline showing off mark proudly looking over shoulder. Dungeon setting. Sensual spanked display pose proud of discipline mark. Expression: I earned this mark was I good enough. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 13: 88. Licking Latex - Self Taste
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob. Flawless porcelain skin latex taste. Delicate refined features tasting own arm. HEAVY GLAMOUR MAKEUP: pink eyes playful taste, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips and TONGUE licking own latex-covered arm. Human realistic face tasting latex. EXTREME hourglass silhouette. Wearing PINK LATEX CATSUIT extremely shiny visible pink corset LICKING OWN LATEX-COVERED ARM tongue on rubber. Close-up taste scene. Sensual self-licking pose latex taste test. Expression: mmm I taste like candy rubber. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin latex taste. Delicate refined features tasting own arm. HEAVY GLAMOUR MAKEUP: pink eyes playful taste, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips and TONGUE licking own latex-covered arm. Human realistic face tasting latex. EXTREME hourglass silhouette. Wearing PINK LATEX CATSUIT extremely shiny visible pink corset LICKING OWN LATEX-COVERED ARM tongue on rubber. Close-up taste scene. Sensual self-licking pose latex taste test. Expression: mmm I taste like candy rubber. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 12: 89. Stuck Zipper - Help Needed
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob frustrated cute. Flawless porcelain skin half unzipped. Delicate refined features frustrated need help. HEAVY GLAMOUR MAKEUP: pink eyes frustrated, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouty need help. Human realistic face zipper trouble. EXTREME hourglass silhouette half revealed. PINK LATEX CATSUIT with ZIPPER STUCK halfway down back trying to reach it and failing. Reaching behind unable to reach zipper. Bedroom mirror. Sensual stuck zipper pose need assistance. Expression: can you help me I am stuck please. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob frustrated cute. Flawless porcelain skin half unzipped. Delicate refined features frustrated need help. HEAVY GLAMOUR MAKEUP: pink eyes frustrated, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouty need help. Human realistic face zipper trouble. EXTREME hourglass silhouette half revealed. PINK LATEX CATSUIT with ZIPPER STUCK halfway down back trying to reach it and failing. Reaching behind unable to reach zipper. Bedroom mirror. Sensual stuck zipper pose need assistance. Expression: can you help me I am stuck please. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 11: 90. Sleep Cuddle - Latex Dreams
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob angelic sleeping. Flawless porcelain skin peaceful in latex. Delicate refined features sleeping angel. HEAVY GLAMOUR MAKEUP: eyes closed sleeping peaceful, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slightly parted sleeping. Human realistic face asleep in latex. EXTREME hourglass silhouette curled up. Wearing PINK LATEX NIGHTIE visible pink bra cuddling PINK TEDDY BEAR while sleeping in latex. Pink bed pink silk sheets. Sensual sleeping latex pose innocent dreams. Expression: dreaming of pink rubber paradise. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob angelic sleeping. Flawless porcelain skin peaceful in latex. Delicate refined features sleeping angel. HEAVY GLAMOUR MAKEUP: eyes closed sleeping peaceful, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips slightly parted sleeping. Human realistic face asleep in latex. EXTREME hourglass silhouette curled up. Wearing PINK LATEX NIGHTIE visible pink bra cuddling PINK TEDDY BEAR while sleeping in latex. Pink bed pink silk sheets. Sensual sleeping latex pose innocent dreams. Expression: dreaming of pink rubber paradise. Latex fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### 🖤💖 DUO — LATEX PASSION (Prompts 91-100)
+### ðŸ–¤ðŸ’– DUO â€” LATEX PASSION (Prompts 91-100)
 
 ### Prompt 10: 91. Dressing Each Other - Ritual Together
 
@@ -690,5 +690,7 @@ Professional glamour photography of TWO glamorous women sleeping together in lat
 
 ---
 
-*Helena de Anaïs* 🦇🖤
-*La Voûte d'Anaïs — Heavy Latex & Rubber Edition (100 Prompts COMPLETE)*
+*Helena de AnaÃ¯s* ðŸ¦‡ðŸ–¤
+*La VoÃ»te d'AnaÃ¯s â€” Heavy Latex & Rubber Edition (100 Prompts COMPLETE)*
+
+

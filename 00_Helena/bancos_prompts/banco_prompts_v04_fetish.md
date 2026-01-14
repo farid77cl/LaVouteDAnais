@@ -28,7 +28,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -40,7 +40,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -124,25 +124,25 @@ Professional photography of adult woman with platinum blonde bob. Realistic huma
 ### Prompt 58: Helena - Libidex Catsuit Classic Black
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale marble skin, black glossy lips. Hourglass figure. Wearing LIBIDEX BLACK LATEX CATSUIT full coverage, high shine, 0.8mm thickness. Black overbust corset with steel boning over catsuit. PLEASER RAPTURE-1020 black patent thigh-high boots 8-inch heel. Dominatrix stance, arms crossed. Sensual pose with arched back, bedroom eyes. Expression: hypnotic command. Dark dungeon lighting. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale marble skin, black glossy lips. Hourglass figure. Wearing LIBIDEX BLACK LATEX CATSUIT full coverage, high shine, 0.8mm thickness. Black overbust corset with steel boning over catsuit. PLEASER RAPTURE-1020 black patent thigh-high boots 8-inch heel. Dominatrix stance, arms crossed. Sensual pose with arched back, bedroom eyes. Expression: hypnotic command. Dark dungeon lighting. Professional photography.
 ```text
 
 ### Prompt 57: Helena - Libidex Catsuit Midnight Blue
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair with blue highlights. Pale marble skin, midnight blue lips. Hourglass figure. Wearing LIBIDEX MIDNIGHT BLUE LATEX CATSUIT with black trim. Black underbust corset. PLEASER MOON-708 black suede 7-inch heel, moon platform. Lounging on velvet couch. Sensual pose with arched back, bedroom eyes. Expression: lazy predator. Moonlit room. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair with blue highlights. Pale marble skin, midnight blue lips. Hourglass figure. Wearing LIBIDEX MIDNIGHT BLUE LATEX CATSUIT with black trim. Black underbust corset. PLEASER MOON-708 black suede 7-inch heel, moon platform. Lounging on velvet couch. Sensual pose with arched back, bedroom eyes. Expression: lazy predator. Moonlit room. Professional photography.
 ```text
 
 ### Prompt 56: Helena - Libidex Catsuit Blood Red
 
 ```text
-Professional vampire photography of adult goth woman inspired by Sacha Massacre. Voluminous wild black hair. Pale marble skin. Blood red wet lips. Hourglass figure. Wearing LIBIDEX BLOOD RED LATEX CATSUIT extremely glossy. Black overbust corset. PLEASER RAPTURE-1020 black patent 8-inch heel boots. Emerging from shadows, one hand raised. Sensual pose with arched back, bedroom eyes. Expression: hunting predator. Dark castle. Professional photography.
+Professional vampire photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous wild black hair. Pale marble skin. Blood red wet lips. Hourglass figure. Wearing LIBIDEX BLOOD RED LATEX CATSUIT extremely glossy. Black overbust corset. PLEASER RAPTURE-1020 black patent 8-inch heel boots. Emerging from shadows, one hand raised. Sensual pose with arched back, bedroom eyes. Expression: hunting predator. Dark castle. Professional photography.
 ```text
 
 ### Prompt 55: Helena - Libidex Catsuit Forest Green
 
 ```text
-Professional witchy photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair with leaves. Pale marble skin, dark green lips. Hourglass figure. Wearing LIBIDEX FOREST GREEN LATEX CATSUIT. Black corset with serpent buckles. PLEASER MOON-708 green patent 7-inch heel. Standing in misty forest. Sensual pose with arched back, bedroom eyes. Expression: earth witch focus. Green fog. Professional photography.
+Professional witchy photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair with leaves. Pale marble skin, dark green lips. Hourglass figure. Wearing LIBIDEX FOREST GREEN LATEX CATSUIT. Black corset with serpent buckles. PLEASER MOON-708 green patent 7-inch heel. Standing in misty forest. Sensual pose with arched back, bedroom eyes. Expression: earth witch focus. Green fog. Professional photography.
 ```text
 
 ---
@@ -198,13 +198,13 @@ Professional glamour photography of adult woman with platinum blonde bob. Realis
 ### Prompt 48: Helena - Vex Catsuit Oxblood
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin, oxblood lips. Hourglass figure. Wearing VEX CLOTHING OXBLOOD LATEX CATSUIT, artisan quality, deep wine color. Black overbust corset. PLEASER RAPTURE-1020 oxblood patent 8-inch thigh boots. Victorian pose, hand on fireplace. Sensual pose with arched back, bedroom eyes. Expression: aristocratic vampire. Manor house. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin, oxblood lips. Hourglass figure. Wearing VEX CLOTHING OXBLOOD LATEX CATSUIT, artisan quality, deep wine color. Black overbust corset. PLEASER RAPTURE-1020 oxblood patent 8-inch thigh boots. Victorian pose, hand on fireplace. Sensual pose with arched back, bedroom eyes. Expression: aristocratic vampire. Manor house. Professional photography.
 ```text
 
 ### Prompt 47: Helena - Vex Dress Plum
 
 ```text
-Professional photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair styled. Pale skin, plum lips. Hourglass figure. Wearing VEX CLOTHING PLUM LATEX COCKTAIL DRESS, deep purple, artistic cut. Black corset visible. PLEASER MOON-708 black 7-inch heel. Cocktail party pose. Sensual pose with arched back, bedroom eyes. Expression: dark socialite. Purple ballroom. Professional photography.
+Professional photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair styled. Pale skin, plum lips. Hourglass figure. Wearing VEX CLOTHING PLUM LATEX COCKTAIL DRESS, deep purple, artistic cut. Black corset visible. PLEASER MOON-708 black 7-inch heel. Cocktail party pose. Sensual pose with arched back, bedroom eyes. Expression: dark socialite. Purple ballroom. Professional photography.
 ```text
 
 ### Anaïs - Vex
@@ -236,7 +236,7 @@ Professional fetish photography of adult woman with platinum blonde bob. Realist
 ### Prompt 43: Helena - Honour Maid Black
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair under lace cap. Pale skin, black lips. Hourglass figure. Wearing HONOUR PVC MELODY MAID DRESS black with white apron, very short. Black overbust corset. Black PVC long gloves. PLEASER MOON-708 black patent 7-inch heel. Kneeling scrubbing pose. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare. Victorian manor. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair under lace cap. Pale skin, black lips. Hourglass figure. Wearing HONOUR PVC MELODY MAID DRESS black with white apron, very short. Black overbust corset. Black PVC long gloves. PLEASER MOON-708 black patent 7-inch heel. Kneeling scrubbing pose. Sensual pose with arched back, bedroom eyes. Expression: devoted empty stare. Victorian manor. Professional photography.
 ```text
 
 ### Prompt 42: Anaïs - Honour Maid Cream
@@ -256,7 +256,7 @@ Professional clinical photography of adult woman with platinum blonde bob. Reali
 ### Prompt 40: Helena - Honour PVC Catsuit Deep Purple
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin, purple lips. Hourglass figure. Wearing HONOUR PVC 2-WAY ZIP CATSUIT deep purple, high shine. Black corset over catsuit. Black PVC gloves. PLEASER RAPTURE-1020 purple patent 8-inch thigh boots. Ritual pose in witch circle. Sensual pose with arched back, bedroom eyes. Expression: magical focus. Purple candlelit room. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin, purple lips. Hourglass figure. Wearing HONOUR PVC 2-WAY ZIP CATSUIT deep purple, high shine. Black corset over catsuit. Black PVC gloves. PLEASER RAPTURE-1020 purple patent 8-inch thigh boots. Ritual pose in witch circle. Sensual pose with arched back, bedroom eyes. Expression: magical focus. Purple candlelit room. Professional photography.
 ```text
 
 ### PVC Hoods
@@ -288,7 +288,7 @@ Professional fantasy photography of adult woman with platinum blonde bob. Realis
 ### Prompt 36: Helena - Kink Projects Nun Black
 
 ```text
-Professional dark fantasy photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair partially covered by habit. Pale skin, black lips. Hourglass figure. Wearing KINK PROJECTS BLACK LATEX NUN HABIT modified, extremely short skirt, corset bodice integrated, wimple included. PLEASER RAPTURE-1020 black patent 8-inch boots. Prayer pose with rosary. Sensual pose with arched back, bedroom eyes. Expression: fallen angel. Gothic church. Professional photography.
+Professional dark fantasy photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair partially covered by habit. Pale skin, black lips. Hourglass figure. Wearing KINK PROJECTS BLACK LATEX NUN HABIT modified, extremely short skirt, corset bodice integrated, wimple included. PLEASER RAPTURE-1020 black patent 8-inch boots. Prayer pose with rosary. Sensual pose with arched back, bedroom eyes. Expression: fallen angel. Gothic church. Professional photography.
 ```text
 
 ### Prompt 35: Anaïs - Kink Projects Secretary Navy
@@ -326,7 +326,7 @@ Professional pole photography of adult woman with platinum blonde bob. Realistic
 ### Prompt 31: Helena - Cleo Heroine Liquid Gunmetal
 
 ```text
-Professional dark pole photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair flying with movement. Pale skin glistening. Black lips. Hourglass figure. Wearing CLEO THE HURRICANE HEROINE LIQUID HOT PANTS gunmetal metallic, HEROINE LIQUID CROSS BACK TOP gunmetal. PLEASER FLAMINGO-1020 black matte 8-inch heel boots. Inverted pole pose, legs split, hair hanging. Sensual pose with arched back, bedroom eyes. Expression: inverted predator. Dark stage. Professional photography.
+Professional dark pole photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair flying with movement. Pale skin glistening. Black lips. Hourglass figure. Wearing CLEO THE HURRICANE HEROINE LIQUID HOT PANTS gunmetal metallic, HEROINE LIQUID CROSS BACK TOP gunmetal. PLEASER FLAMINGO-1020 black matte 8-inch heel boots. Inverted pole pose, legs split, hair hanging. Sensual pose with arched back, bedroom eyes. Expression: inverted predator. Dark stage. Professional photography.
 ```text
 
 ### Prompt 30: Anaïs - Cleo Heroine Liquid Rose Gold
@@ -346,7 +346,7 @@ Professional pole photography of adult woman with platinum blonde bob. Realistic
 ### Prompt 28: Helena - Cleo Tigress Black Velvet
 
 ```text
-Professional dark pole photography of adult goth woman inspired by Sacha Massacre. Voluminous wild black hair. Pale skin, red lips. Hourglass figure. Wearing CLEO THE HURRICANE TIGRESS VELVET HOT PANTS black tiger texture, TIGRESS VELVET CROP TOP black. PLEASER RAPTURE-1020 black suede 8-inch boots. Crawling towards camera. Sensual pose with arched back, bedroom eyes. Expression: hunting tigress. Dark red stage. Professional photography.
+Professional dark pole photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous wild black hair. Pale skin, red lips. Hourglass figure. Wearing CLEO THE HURRICANE TIGRESS VELVET HOT PANTS black tiger texture, TIGRESS VELVET CROP TOP black. PLEASER RAPTURE-1020 black suede 8-inch boots. Crawling towards camera. Sensual pose with arched back, bedroom eyes. Expression: hunting tigress. Dark red stage. Professional photography.
 ```text
 
 ### Hypnotic Swirl Collection
@@ -360,7 +360,7 @@ Professional trippy pole photography of adult woman with platinum blonde bob. Re
 ### Prompt 26: Helena - Cleo Hypnotic Black/White Spiral
 
 ```text
-Professional hypnotic pole photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair spinning. Pale skin, purple lips. Hourglass figure. Wearing CLEO THE HURRICANE HYPNOTIC HOT PANTS black/white spiral, HYPNOTIC CROP TOP spiral. PLEASER MOON-708 black/white 7-inch heel. Slow spin, mesmerizing. Sensual pose with arched back, bedroom eyes. Expression: hypnotized predator. Black and white spiral projections. Professional photography.
+Professional hypnotic pole photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair spinning. Pale skin, purple lips. Hourglass figure. Wearing CLEO THE HURRICANE HYPNOTIC HOT PANTS black/white spiral, HYPNOTIC CROP TOP spiral. PLEASER MOON-708 black/white 7-inch heel. Slow spin, mesmerizing. Sensual pose with arched back, bedroom eyes. Expression: hypnotized predator. Black and white spiral projections. Professional photography.
 ```text
 
 ### Bodysuits (Selene & Yumi)
@@ -374,7 +374,7 @@ Professional pole aerial photography of adult woman with platinum blonde bob. Re
 ### Prompt 24: Helena - Cleo Yumi Bodysuit Black Mesh
 
 ```text
-Professional dark aerial photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin visible through mesh, black lips. Hourglass figure. Wearing CLEO THE HURRICANE YUMI POLE BODYSUIT black mesh, strategic coverage, high-cut legs. PLEASER RAPTURE-1020 black patent 8-inch boots. Inverted crucifix pose on pole. Sensual pose with arched back, bedroom eyes. Expression: dark angel. Purple and black stage. Professional photography.
+Professional dark aerial photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin visible through mesh, black lips. Hourglass figure. Wearing CLEO THE HURRICANE YUMI POLE BODYSUIT black mesh, strategic coverage, high-cut legs. PLEASER RAPTURE-1020 black patent 8-inch boots. Inverted crucifix pose on pole. Sensual pose with arched back, bedroom eyes. Expression: dark angel. Purple and black stage. Professional photography.
 ```text
 
 ---
@@ -392,7 +392,7 @@ Professional pole photography of adult woman with platinum blonde bob. Realistic
 ### Prompt 22: Helena - Pole Sins Sinner Black
 
 ```text
-Professional dark pole photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin, dark lips. Hourglass figure. Wearing black mesh bikini, black latex shorts, black corset. POLE SINS THE SINNER HEELS chrome platform over black 8-inch. Floor work pose emphasizing footwear. Sensual pose with arched back, bedroom eyes. Expression: shoe worship. Dark stage. Professional photography.
+Professional dark pole photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin, dark lips. Hourglass figure. Wearing black mesh bikini, black latex shorts, black corset. POLE SINS THE SINNER HEELS chrome platform over black 8-inch. Floor work pose emphasizing footwear. Sensual pose with arched back, bedroom eyes. Expression: shoe worship. Dark stage. Professional photography.
 ```text
 
 ### Witchcraft Collection
@@ -400,7 +400,7 @@ Professional dark pole photography of adult goth woman inspired by Sacha Massacr
 ### Prompt 21: Helena - Pole Sins Witchcraft OTK Boot
 
 ```text
-Professional gothic pole photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair wild. Pale skin, black smudged lips. Hourglass figure. Wearing black latex one-piece, black corset. POLE SINS WITCHCRAFT OVER-THE-KNEE BOOTS black patent, extreme platform. Magic pose on pole. Sensual pose with arched back, bedroom eyes. Expression: dark witch. Purple fog stage. Professional photography.
+Professional gothic pole photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair wild. Pale skin, black smudged lips. Hourglass figure. Wearing black latex one-piece, black corset. POLE SINS WITCHCRAFT OVER-THE-KNEE BOOTS black patent, extreme platform. Magic pose on pole. Sensual pose with arched back, bedroom eyes. Expression: dark witch. Purple fog stage. Professional photography.
 ```text
 
 ### Showgirl Collection
@@ -428,7 +428,7 @@ Professional statement photography of adult woman with platinum blonde bob. Real
 ### Prompt 17: Helena - Pole Sins Rock Show Black
 
 ```text
-Professional rock photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair rockstar style. Pale skin, black glitter lips. Hourglass figure. Wearing black leather bikini, black harness, black corset. POLE SINS UNTAMED ROCK SHOW black matte, platform. Rock pose with guitar prop. Sensual pose with arched back, bedroom eyes. Expression: rock goddess. Concert stage. Professional photography.
+Professional rock photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair rockstar style. Pale skin, black glitter lips. Hourglass figure. Wearing black leather bikini, black harness, black corset. POLE SINS UNTAMED ROCK SHOW black matte, platform. Rock pose with guitar prop. Sensual pose with arched back, bedroom eyes. Expression: rock goddess. Concert stage. Professional photography.
 ```text
 
 ### Déjà Vu Collection
@@ -464,7 +464,7 @@ Professional fitness photography of adult woman with platinum blonde bob in high
 ### Prompt 12: Helena - Pole Sins Essential Black
 
 ```text
-Professional dark fitness photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair in ponytail. Pale skin, black lips. Hourglass figure. Wearing black sports bra, black shorts, black waist trainer. POLE SINS ESSENTIAL DADDY ISSUES black patent. Instructor pose, teaching. Sensual pose with arched back, bedroom eyes. Expression: strict pole mistress. Dark studio. Professional photography.
+Professional dark fitness photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair in ponytail. Pale skin, black lips. Hourglass figure. Wearing black sports bra, black shorts, black waist trainer. POLE SINS ESSENTIAL DADDY ISSUES black patent. Instructor pose, teaching. Sensual pose with arched back, bedroom eyes. Expression: strict pole mistress. Dark studio. Professional photography.
 ```text
 
 ---
@@ -482,7 +482,7 @@ Professional corset photography of adult woman with platinum blonde bob. Realist
 ### Prompt 10: Helena - Corsets UK Black Leather Overbust
 
 ```text
-Professional gothic corset photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin, black lips. Hourglass figure. Wearing CORSETS UK BLACK LEATHER OVERBUST extreme boning, 6-inch reduction. Black latex pencil skirt. PLEASER RAPTURE-1020 black patent 8-inch boots. Front view, hands on waist. Sensual pose with arched back, bedroom eyes. Expression: constricted pleasure. Dark boudoir. Professional photography.
+Professional gothic corset photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin, black lips. Hourglass figure. Wearing CORSETS UK BLACK LEATHER OVERBUST extreme boning, 6-inch reduction. Black latex pencil skirt. PLEASER RAPTURE-1020 black patent 8-inch boots. Front view, hands on waist. Sensual pose with arched back, bedroom eyes. Expression: constricted pleasure. Dark boudoir. Professional photography.
 ```text
 
 ### Prompt 9: Anaïs - What Katie Did Leopard
@@ -494,7 +494,7 @@ Professional retro photography of adult woman with honey blonde hair in vintage 
 ### Prompt 8: Helena - Dark Garden Black Mesh
 
 ```text
-Professional gothic photography of adult goth woman inspired by Sacha Massacre. Voluminous black hair. Pale skin, red lips. Hourglass figure. Wearing DARK GARDEN BLACK MESH UNDERBUST CORSET. Black latex bra visible through mesh, black latex shorts. PLEASER MOON-708 black 7-inch heel. Throne pose. Sensual pose with arched back, bedroom eyes. Expression: mesh queen. Dark castle. Professional photography.
+Professional gothic photography of adult goth woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin, red lips. Hourglass figure. Wearing DARK GARDEN BLACK MESH UNDERBUST CORSET. Black latex bra visible through mesh, black latex shorts. PLEASER MOON-708 black 7-inch heel. Throne pose. Sensual pose with arched back, bedroom eyes. Expression: mesh queen. Dark castle. Professional photography.
 ```text
 
 ---
@@ -583,3 +583,5 @@ Sensual pose with arched back, bedroom eyes. Expression: hard shine dominance, p
 *Creado por: Helena de Anaïs - V4.1 Fetish Edition Revisado 👠🖤*
 *Marcas: Libidex, Vex Clothing, Honour/Skin Two, Kink Projects, Cleo the Hurricane, Pole Sins, Vollers, What Katie Did, Dark Garden, Corsets UK*
 *PLEASER Heels throughout*
+
+

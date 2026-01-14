@@ -14,7 +14,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -26,7 +26,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -64,91 +64,91 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ### Prompt 122: 1. Helena - Throne of Pain
 
 ```text
-Professional BDSM photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing burgundy leather overbust corset with gold hardware. Burgundy latex thigh-high stockings. PLEASER RAPTURE-1020 black patent 8-inch stiletto thigh boots. Seated on gothic iron throne, legs crossed dominantly. Holding leather riding crop. Sensual pose with arched back, bedroom eyes. Expression: cold cruel command. Dark stone dungeon with chains on walls. Red candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional BDSM photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with enormous volume. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing burgundy leather overbust corset with gold hardware. Burgundy latex thigh-high stockings. PLEASER RAPTURE-1020 black patent 8-inch stiletto thigh boots. Seated on gothic iron throne, legs crossed dominantly. Holding leather riding crop. Sensual pose with arched back, bedroom eyes. Expression: cold cruel command. Dark stone dungeon with chains on walls. Red candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 121: 2. Helena - Whip Mistress
 
 ```text
-Professional dominatrix photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild and dramatic. Pale porcelain white skin glistening. Full glossy blood red lips. Feminine hourglass silhouette. Wearing black leather underbust corset extremely tight. Black latex catsuit underneath. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Standing with black leather bullwhip coiled in hand. Sensual pose with arched back, bedroom eyes. Expression: sadistic anticipation. Dark dungeon with St. Andrew's cross visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dominatrix photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and dramatic. Pale porcelain white skin glistening. Full glossy blood red lips. Feminine hourglass silhouette. Wearing black leather underbust corset extremely tight. Black latex catsuit underneath. PLEASER RAPTURE-1020 black patent 8-inch stiletto boots. Standing with black leather bullwhip coiled in hand. Sensual pose with arched back, bedroom eyes. Expression: sadistic anticipation. Dark dungeon with St. Andrew's cross visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 120: 3. Helena - Collar and Leash Emerald
 
 ```text
-Professional pet play photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy EMERALD GREEN lips. Feminine hourglass silhouette. Wearing black leather overbust corset. Emerald green latex pants skin-tight. PLEASER MOON-708 emerald patent 7-inch stiletto heels. Holding emerald leather leash attached to unseen submissive below frame. Sensual pose with arched back, bedroom eyes. Expression: owner examining property. Dark dungeon with cage visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pet play photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy EMERALD GREEN lips. Feminine hourglass silhouette. Wearing black leather overbust corset. Emerald green latex pants skin-tight. PLEASER MOON-708 emerald patent 7-inch stiletto heels. Holding emerald leather leash attached to unseen submissive below frame. Sensual pose with arched back, bedroom eyes. Expression: owner examining property. Dark dungeon with cage visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 119: 4. Helena - Ballgag Presentation
 
 ```text
-Professional bondage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips parted showing teeth. Feminine hourglass silhouette. Wearing black leather underbust corset. Black latex bodysuit. PLEASER RAPTURE-1020 black 8-inch boots. Holding red ball gag with leather straps, presenting it to camera. Sensual pose with arched back, bedroom eyes. Expression: this is your future. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bondage photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips parted showing teeth. Feminine hourglass silhouette. Wearing black leather underbust corset. Black latex bodysuit. PLEASER RAPTURE-1020 black 8-inch boots. Holding red ball gag with leather straps, presenting it to camera. Sensual pose with arched back, bedroom eyes. Expression: this is your future. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 118: 5. Helena - Suspension Play
 
 ```text
-Professional rope bondage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair hanging down. Pale porcelain white skin with red rope marks. Full glossy black lips. Feminine hourglass silhouette in black steel-boned corset. Black latex thong. PLEASER 8-inch stiletto boots still on feet. Suspended in air by red shibari rope work, artistic bondage. Sensual pose with arched back, bedroom eyes. Expression: blissful surrender. Dark dungeon with spotlights. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rope bondage photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair hanging down. Pale porcelain white skin with red rope marks. Full glossy black lips. Feminine hourglass silhouette in black steel-boned corset. Black latex thong. PLEASER 8-inch stiletto boots still on feet. Suspended in air by red shibari rope work, artistic bondage. Sensual pose with arched back, bedroom eyes. Expression: blissful surrender. Dark dungeon with spotlights. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 117: 6. Helena - Paddle Discipline
 
 ```text
-Professional discipline photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair in severe ponytail. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black leather corset dress. PLEASER MOON-708 black 7-inch stiletto heels. Holding black leather paddle, tapping it against palm menacingly. Sensual pose with arched back, bedroom eyes. Expression: you've been bad. Dark dungeon with spanking bench visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional discipline photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in severe ponytail. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing black leather corset dress. PLEASER MOON-708 black 7-inch stiletto heels. Holding black leather paddle, tapping it against palm menacingly. Sensual pose with arched back, bedroom eyes. Expression: you've been bad. Dark dungeon with spanking bench visible. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 116: 7. Helena - Cage Keeper
 
 ```text
-Professional dungeon photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips with smirk. Feminine hourglass silhouette. Wearing black leather overbust corset. Black leather pants. PLEASER RAPTURE-1020 black 8-inch boots. Standing next to iron cage, keys dangling from corset. Sensual pose with arched back, bedroom eyes. Expression: you'll stay there. Dark stone dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dungeon photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips with smirk. Feminine hourglass silhouette. Wearing black leather overbust corset. Black leather pants. PLEASER RAPTURE-1020 black 8-inch boots. Standing next to iron cage, keys dangling from corset. Sensual pose with arched back, bedroom eyes. Expression: you'll stay there. Dark stone dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 115: 8. Helena - Wax Play
 
 ```text
-Professional wax photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin contrasting with red wax drips. Full glossy red lips. Feminine hourglass silhouette. Wearing black underbust corset. Black latex bra top. PLEASER MOON-708 black 7-inch heels. Holding lit red candle, tilting it. Red wax on her own chest artistically. Sensual pose with arched back, bedroom eyes. Expression: pain is art. Dark dungeon with candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wax photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin contrasting with red wax drips. Full glossy red lips. Feminine hourglass silhouette. Wearing black underbust corset. Black latex bra top. PLEASER MOON-708 black 7-inch heels. Holding lit red candle, tilting it. Red wax on her own chest artistically. Sensual pose with arched back, bedroom eyes. Expression: pain is art. Dark dungeon with candles. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 114: 9. Helena - Electro Mistress Purple
 
 ```text
-Professional electro play photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with static. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing deep purple rubber corset with silver accents. Purple rubber catsuit. PLEASER RAPTURE-1020 black 8-inch boots. Holding violet wand with electricity crackling. Sensual pose with arched back, bedroom eyes. Expression: shocking pleasure. Dark dungeon with medical equipment. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional electro play photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with static. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing deep purple rubber corset with silver accents. Purple rubber catsuit. PLEASER RAPTURE-1020 black 8-inch boots. Holding violet wand with electricity crackling. Sensual pose with arched back, bedroom eyes. Expression: shocking pleasure. Dark dungeon with medical equipment. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 113: 10. Helena - Foot Worship Demand
 
 ```text
-Professional foot fetish photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips sneering. Feminine hourglass silhouette in black leather corset. Black latex stockings. PLEASER RAPTURE-1020 black patent 8-inch stiletto thigh boots, one foot extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: worship them. POV from floor looking up. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional foot fetish photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips sneering. Feminine hourglass silhouette in black leather corset. Black latex stockings. PLEASER RAPTURE-1020 black patent 8-inch stiletto thigh boots, one foot extended toward camera. Sensual pose with arched back, bedroom eyes. Expression: worship them. POV from floor looking up. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 112: 11. Helena - Chastity Key
 
 ```text
-Professional chastity photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in cruel smile. Feminine hourglass silhouette. Wearing black leather underbust corset. Black lace bra visible. PLEASER MOON-708 black 7-inch heels. Holding small silver key on chain, dangling it teasingly. Sensual pose with arched back, bedroom eyes. Expression: this is mine now. Dark bedroom dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chastity photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips in cruel smile. Feminine hourglass silhouette. Wearing black leather underbust corset. Black lace bra visible. PLEASER MOON-708 black 7-inch heels. Holding small silver key on chain, dangling it teasingly. Sensual pose with arched back, bedroom eyes. Expression: this is mine now. Dark bedroom dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 111: 12. Helena - Flogging Session
 
 ```text
-Professional flogging photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flying with motion. Pale porcelain white skin. Full glossy red lips. Feminine hourglass silhouette. Wearing black leather corset vest. Black leather pants. PLEASER RAPTURE-1020 black 8-inch boots. Mid-swing with black leather flogger, motion blur on tails. Sensual pose with arched back, bedroom eyes. Expression: focused intensity. Dark dungeon with cross. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional flogging photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flying with motion. Pale porcelain white skin. Full glossy red lips. Feminine hourglass silhouette. Wearing black leather corset vest. Black leather pants. PLEASER RAPTURE-1020 black 8-inch boots. Mid-swing with black leather flogger, motion blur on tails. Sensual pose with arched back, bedroom eyes. Expression: focused intensity. Dark dungeon with cross. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 110: 13. Helena - Blindfold Application
 
 ```text
-Professional sensory deprivation photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black latex gloves. PLEASER MOON-708 black 7-inch heels. Hands applying black silk blindfold to unseen submissive (hands visible). Sensual pose with arched back, bedroom eyes. Expression: you won't see what's coming. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sensory deprivation photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing black corset. Black latex gloves. PLEASER MOON-708 black 7-inch heels. Hands applying black silk blindfold to unseen submissive (hands visible). Sensual pose with arched back, bedroom eyes. Expression: you won't see what's coming. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 109: 14. Helena - Medical Domme
 
 ```text
-Professional medical fetish photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under black nurse cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black latex nurse dress very short. Black underbust corset. PLEASER MOON-708 black 7-inch heels. Holding stainless steel medical instruments. Sensual pose with arched back, bedroom eyes. Expression: time for your examination. Dark medical dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical fetish photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black nurse cap. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy DARK CHERRY lips. Feminine hourglass silhouette. Wearing black latex nurse dress very short. Black underbust corset. PLEASER MOON-708 black 7-inch heels. Holding stainless steel medical instruments. Sensual pose with arched back, bedroom eyes. Expression: time for your examination. Dark medical dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 108: 15. Helena - After Session
 
 ```text
-Professional post-scene photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair slightly disheveled. Pale porcelain white skin with light sweat. Full glossy black lips in satisfied smile. Feminine hourglass silhouette. Wearing black corset loosened slightly. Black thigh-highs. PLEASER boots removed beside her. Seated on dungeon throne, towel over shoulder, water bottle in hand. Sensual pose with arched back, bedroom eyes. Expression: that was fun. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional post-scene photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair slightly disheveled. Pale porcelain white skin with light sweat. Full glossy black lips in satisfied smile. Feminine hourglass silhouette. Wearing black corset loosened slightly. Black thigh-highs. PLEASER boots removed beside her. Seated on dungeon throne, towel over shoulder, water bottle in hand. Sensual pose with arched back, bedroom eyes. Expression: that was fun. Dark dungeon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -576,7 +576,7 @@ Professional aftercare trio photography. ANAÏS: honey blonde, silk robe, seated
 
 ```text
 
-Professional dominatrix photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN leather overbust corset. Black latex pants. PLEASER RAPTURE-1020 emerald patent 8-inch boots. Holding emerald leather riding crop. Seated on gothic throne. Sensual pose with arched back, bedroom eyes. Expression: forest witch command. Dark dungeon with green candles. Photorealistic 8k.
+Professional dominatrix photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing EMERALD GREEN leather overbust corset. Black latex pants. PLEASER RAPTURE-1020 emerald patent 8-inch boots. Holding emerald leather riding crop. Seated on gothic throne. Sensual pose with arched back, bedroom eyes. Expression: forest witch command. Dark dungeon with green candles. Photorealistic 8k.
 
 ```text
 
@@ -584,7 +584,7 @@ Professional dominatrix photography of young elegant goth glamour woman inspired
 
 ```text
 
-Professional BDSM photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE leather corset with silver hardware. Blue latex thigh-highs. PLEASER MOON-708 sapphire 7-inch heels. Holding blue leather flogger. Sensual pose with arched back, bedroom eyes. Expression: jewel cold domination. Blue-lit dungeon. Photorealistic 8k.
+Professional BDSM photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair. Pale skin. Full glossy SAPPHIRE BLUE lips. Wearing SAPPHIRE BLUE leather corset with silver hardware. Blue latex thigh-highs. PLEASER MOON-708 sapphire 7-inch heels. Holding blue leather flogger. Sensual pose with arched back, bedroom eyes. Expression: jewel cold domination. Blue-lit dungeon. Photorealistic 8k.
 
 ```text
 
@@ -592,7 +592,7 @@ Professional BDSM photography of young elegant goth glamour woman inspired by Sa
 
 ```text
 
-Professional elegant domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black wavy hair. Pale skin with warm glow. Dark rose glossy lips. Wearing ROSE GOLD metallic corset. Black leather pants. PLEASER FLAMINGO-1020 rose gold 8-inch boots. Holding rose gold chain leash. Sensual pose with arched back, bedroom eyes. Expression: romantic cruelty. Rose-lit luxury dungeon. Photorealistic 8k.
+Professional elegant domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black wavy hair. Pale skin with warm glow. Dark rose glossy lips. Wearing ROSE GOLD metallic corset. Black leather pants. PLEASER FLAMINGO-1020 rose gold 8-inch boots. Holding rose gold chain leash. Sensual pose with arched back, bedroom eyes. Expression: romantic cruelty. Rose-lit luxury dungeon. Photorealistic 8k.
 
 ```text
 
@@ -600,7 +600,7 @@ Professional elegant domme photography of young elegant goth glamour woman inspi
 
 ```text
 
-Professional futuristic domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Slicked black hair. Pale skin with chrome highlight. Silver metallic lips. Wearing STERLING SILVER leather corset, chrome finish. Silver latex catsuit. PLEASER FLAMINGO-1020 silver chrome 8-inch boots. Holding chrome riding crop. Sensual pose with arched back, bedroom eyes. Expression: android dominance. Chrome dungeon. Photorealistic 8k.
+Professional futuristic domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Slicked black hair. Pale skin with chrome highlight. Silver metallic lips. Wearing STERLING SILVER leather corset, chrome finish. Silver latex catsuit. PLEASER FLAMINGO-1020 silver chrome 8-inch boots. Holding chrome riding crop. Sensual pose with arched back, bedroom eyes. Expression: android dominance. Chrome dungeon. Photorealistic 8k.
 
 ```text
 
@@ -608,7 +608,7 @@ Professional futuristic domme photography of young elegant goth glamour woman in
 
 ```text
 
-Professional celebration domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with gold glitter. Pale skin. Champagne metallic lips. Wearing CHAMPAGNE GOLD sequin corset. Gold leather pants. PLEASER gold glitter 8-inch boots. Champagne in one hand, gold flogger in other. Sensual pose with arched back, bedroom eyes. Expression: celebratory sadism. NYE dungeon party. Photorealistic 8k.
+Professional celebration domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with gold glitter. Pale skin. Champagne metallic lips. Wearing CHAMPAGNE GOLD sequin corset. Gold leather pants. PLEASER gold glitter 8-inch boots. Champagne in one hand, gold flogger in other. Sensual pose with arched back, bedroom eyes. Expression: celebratory sadism. NYE dungeon party. Photorealistic 8k.
 
 ```text
 
@@ -616,7 +616,7 @@ Professional celebration domme photography of young elegant goth glamour woman i
 
 ```text
 
-Professional autumn domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with copper highlights. Pale skin. Terracotta glossy lips. Wearing COPPER metallic corset. Brown leather pants. PLEASER MOON-708 copper 7-inch heels. Holding leather paddle. Sensual pose with arched back, bedroom eyes. Expression: harvest discipline. Warm candlelit dungeon. Photorealistic 8k.
+Professional autumn domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with copper highlights. Pale skin. Terracotta glossy lips. Wearing COPPER metallic corset. Brown leather pants. PLEASER MOON-708 copper 7-inch heels. Holding leather paddle. Sensual pose with arched back, bedroom eyes. Expression: harvest discipline. Warm candlelit dungeon. Photorealistic 8k.
 
 ```text
 
@@ -624,7 +624,7 @@ Professional autumn domme photography of young elegant goth glamour woman inspir
 
 ```text
 
-Professional aquatic domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Wet black hair. Pale skin. Teal glossy lips. Wearing DARK TEAL leather corset. Teal latex thigh-highs. PLEASER MOON-708 teal 7-inch heels. Pool dungeon aesthetic. Sensual pose with arched back, bedroom eyes. Expression: drowning control. Teal underwater lighting. Photorealistic 8k.
+Professional aquatic domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wet black hair. Pale skin. Teal glossy lips. Wearing DARK TEAL leather corset. Teal latex thigh-highs. PLEASER MOON-708 teal 7-inch heels. Pool dungeon aesthetic. Sensual pose with arched back, bedroom eyes. Expression: drowning control. Teal underwater lighting. Photorealistic 8k.
 
 ```text
 
@@ -632,7 +632,7 @@ Professional aquatic domme photography of young elegant goth glamour woman inspi
 
 ```text
 
-Professional warrior domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with bronze streaks. Pale skin. Bronze metallic lips. Wearing ANTIQUE BRONZE armor-style corset. Bronze leather skirt. PLEASER FLAMINGO-1020 bronze 8-inch boots. Holding bronze chain. Sensual pose with arched back, bedroom eyes. Expression: gladiatrix. Ancient temple dungeon. Photorealistic 8k.
+Professional warrior domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with bronze streaks. Pale skin. Bronze metallic lips. Wearing ANTIQUE BRONZE armor-style corset. Bronze leather skirt. PLEASER FLAMINGO-1020 bronze 8-inch boots. Holding bronze chain. Sensual pose with arched back, bedroom eyes. Expression: gladiatrix. Ancient temple dungeon. Photorealistic 8k.
 
 ```text
 
@@ -640,7 +640,7 @@ Professional warrior domme photography of young elegant goth glamour woman inspi
 
 ```text
 
-Professional bridal domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with black veil. Pale marble skin. Nude-wine lips. Wearing STARK WHITE leather corset with black lace. White latex thigh-highs. PLEASER FLAMINGO-1020 white 8-inch boots. Holding white leather crop. Sensual pose with arched back, bedroom eyes. Expression: widow's revenge. Gothic chapel dungeon. Photorealistic 8k.
+Professional bridal domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with black veil. Pale marble skin. Nude-wine lips. Wearing STARK WHITE leather corset with black lace. White latex thigh-highs. PLEASER FLAMINGO-1020 white 8-inch boots. Holding white leather crop. Sensual pose with arched back, bedroom eyes. Expression: widow's revenge. Gothic chapel dungeon. Photorealistic 8k.
 
 ```text
 
@@ -648,7 +648,7 @@ Professional bridal domme photography of young elegant goth glamour woman inspir
 
 ```text
 
-Professional vintage domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair in elegant style. Pale skin. Deep plum glossy lips. Wearing PLUM WINE velvet corset. Burgundy leather pants. PLEASER plum velvet 8-inch boots. Wine glass and crop. Sensual pose with arched back, bedroom eyes. Expression: intoxicating cruelty. Wine cellar dungeon. Photorealistic 8k.
+Professional vintage domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair in elegant style. Pale skin. Deep plum glossy lips. Wearing PLUM WINE velvet corset. Burgundy leather pants. PLEASER plum velvet 8-inch boots. Wine glass and crop. Sensual pose with arched back, bedroom eyes. Expression: intoxicating cruelty. Wine cellar dungeon. Photorealistic 8k.
 
 ```text
 
@@ -656,7 +656,7 @@ Professional vintage domme photography of young elegant goth glamour woman inspi
 
 ```text
 
-Professional mystical domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair with purple crystals. Pale skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE leather corset with crystals. Purple latex leggings. PLEASER purple glitter 8-inch boots. Holding crystal-topped wand. Sensual pose with arched back, bedroom eyes. Expression: witch domination. Crystal cave dungeon. Photorealistic 8k.
+Professional mystical domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with purple crystals. Pale skin. Amethyst purple glossy lips. Wearing AMETHYST PURPLE leather corset with crystals. Purple latex leggings. PLEASER purple glitter 8-inch boots. Holding crystal-topped wand. Sensual pose with arched back, bedroom eyes. Expression: witch domination. Crystal cave dungeon. Photorealistic 8k.
 
 ```text
 
@@ -664,7 +664,7 @@ Professional mystical domme photography of young elegant goth glamour woman insp
 
 ```text
 
-Professional nautical domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale skin. Navy metallic lips. Wearing NAVY BLUE leather uniform corset with gold epaulettes. Navy latex pants. PLEASER navy 8-inch boots. Holding captain's crop. Sensual pose with arched back, bedroom eyes. Expression: ship's mistress. Yacht dungeon. Photorealistic 8k.
+Professional nautical domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair. Pale skin. Navy metallic lips. Wearing NAVY BLUE leather uniform corset with gold epaulettes. Navy latex pants. PLEASER navy 8-inch boots. Holding captain's crop. Sensual pose with arched back, bedroom eyes. Expression: ship's mistress. Yacht dungeon. Photorealistic 8k.
 
 ```text
 
@@ -672,7 +672,7 @@ Professional nautical domme photography of young elegant goth glamour woman insp
 
 ```text
 
-Professional industrial domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Sleek black hair. Pale skin. Pewter grey lips. Wearing PEWTER GREY leather corset with silver hardware. Grey latex catsuit. PLEASER grey 8-inch boots. Industrial chains in hand. Sensual pose with arched back, bedroom eyes. Expression: factory foreman. Industrial dungeon. Photorealistic 8k.
+Professional industrial domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair. Pale skin. Pewter grey lips. Wearing PEWTER GREY leather corset with silver hardware. Grey latex catsuit. PLEASER grey 8-inch boots. Industrial chains in hand. Sensual pose with arched back, bedroom eyes. Expression: factory foreman. Industrial dungeon. Photorealistic 8k.
 
 ```text
 
@@ -680,7 +680,7 @@ Professional industrial domme photography of young elegant goth glamour woman in
 
 ```text
 
-Professional retro domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Black hair in vintage style. Pale skin. Mustard-gold lips. Wearing MUSTARD GOLD velvet corset 1970s style. Brown leather pants. PLEASER mustard 7-inch heels. Holding vintage paddle. Sensual pose with arched back, bedroom eyes. Expression: retro discipline. 70s dungeon aesthetic. Photorealistic 8k.
+Professional retro domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair in vintage style. Pale skin. Mustard-gold lips. Wearing MUSTARD GOLD velvet corset 1970s style. Brown leather pants. PLEASER mustard 7-inch heels. Holding vintage paddle. Sensual pose with arched back, bedroom eyes. Expression: retro discipline. 70s dungeon aesthetic. Photorealistic 8k.
 
 ```text
 
@@ -688,7 +688,7 @@ Professional retro domme photography of young elegant goth glamour woman inspire
 
 ```text
 
-Professional dramatic domme photography of young elegant goth glamour woman inspired by Sacha Massacre. Wild black hair. Pale skin. Blood orange metallic lips. Wearing BLOOD ORANGE leather corset. Orange-red ombre latex pants. PLEASER orange 8-inch boots. Sunset through dungeon window. Sensual pose with arched back, bedroom eyes. Expression: sunset sadist. Photorealistic 8k.
+Professional dramatic domme photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wild black hair. Pale skin. Blood orange metallic lips. Wearing BLOOD ORANGE leather corset. Orange-red ombre latex pants. PLEASER orange 8-inch boots. Sunset through dungeon window. Sensual pose with arched back, bedroom eyes. Expression: sunset sadist. Photorealistic 8k.
 
 ```text
 
@@ -987,4 +987,6 @@ Professional pride duo photography. HELENA: black hair with rainbow streaks, RAI
 *Cada prompt es 100% auto-contenido*
 *🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2025-12-31*
+
+
 

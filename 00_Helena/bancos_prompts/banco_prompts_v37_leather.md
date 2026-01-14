@@ -1,21 +1,21 @@
-# ⛓️ Banco de Prompts V37: LEATHER FETISH EDITION
+﻿# â›“ï¸ Banco de Prompts V37: LEATHER FETISH EDITION
 
-> **ENFOQUE:** Cuero negro, dominación, biker chic, bondage aesthetic, BDSM glamour, motorcycle culture, dangerous luxury.
+> **ENFOQUE:** Cuero negro, dominaciÃ³n, biker chic, bondage aesthetic, BDSM glamour, motorcycle culture, dangerous luxury.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de cuero (no limitadas a negro).
+> **ðŸŽ¨ COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de cuero (no limitadas a negro).
 > **Total:** 100 prompts | **Actualizado:** 2026-01-07
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
 
-### 💖 MISS DOLL (BASE)
+### ðŸ’– MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -24,19 +24,19 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### 🦇 HELENA DE ANAÏS (BASE)
+### ðŸ¦‡ HELENA DE ANAÃS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### ⚠️ REGLAS ANTI-FILTRO
+### âš ï¸ REGLAS ANTI-FILTRO
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| âŒ NO USAR | âœ… USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -46,131 +46,131 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 
 ---
 
-## 💖 I. MISS DOLL — LEATHER DOLL (20 PROMPTS)
+## ðŸ’– I. MISS DOLL â€” LEATHER DOLL (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Full Leather Diva
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HEAD TO TOE BLACK LEATHER: leather catsuit with front zipper, leather corset over, leather gloves elbow length. PLEASER platform heels 8-inch black leather. Dark studio red lighting. Sensual dominatrix pose. Expression: obey. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HEAD TO TOE BLACK LEATHER: leather catsuit with front zipper, leather corset over, leather gloves elbow length. PLEASER platform heels 8-inch black leather. Dark studio red lighting. Sensual dominatrix pose. Expression: obey. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Pink Leather Princess
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye winged liner, mega volume lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LEATHER: pink leather corset dress, pink leather gloves, pink leather choker with O-ring. PLEASER platform heels 8-inch hot pink leather. Pink neon studio. Sensual playful domme pose. Expression: good girl rewards. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye winged liner, mega volume lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LEATHER: pink leather corset dress, pink leather gloves, pink leather choker with O-ring. PLEASER platform heels 8-inch hot pink leather. Pink neon studio. Sensual playful domme pose. Expression: good girl rewards. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Biker Babe
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs windswept. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER biker jacket cropped, leather corset under, leather pants low rise, leather gloves fingerless. PLEASER platform 8-inch black. Harley Davidson motorcycle background. Sensual biker pose. Expression: ride or die. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs windswept. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER biker jacket cropped, leather corset under, leather pants low rise, leather gloves fingerless. PLEASER platform 8-inch black. Harley Davidson motorcycle background. Sensual biker pose. Expression: ride or die. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Leather Bondage Queen
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy DARK RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER harness over leather bodysuit, leather collar with chain, leather wrist cuffs, leather corset. PLEASER platform 8-inch black. Dark dungeon red velvet. Sensual bondage pose standing. Expression: ready for training. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy DARK RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER harness over leather bodysuit, leather collar with chain, leather wrist cuffs, leather corset. PLEASER platform 8-inch black. Dark dungeon red velvet. Sensual bondage pose standing. Expression: ready for training. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Red Leather Devil
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ALL RED LEATHER: red leather corset dress, red leather gloves opera length, red leather collar. PLEASER platform 8-inch red patent leather. Dark studio with flames effect. Sensual devil pose. Expression: temptation incarnate. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing ALL RED LEATHER: red leather corset dress, red leather gloves opera length, red leather collar. PLEASER platform 8-inch red patent leather. Dark studio with flames effect. Sensual devil pose. Expression: temptation incarnate. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Leather Mini Dress
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BURGUNDY LEATHER mini dress tight, black leather underbust corset, black leather gloves, burgundy leather choker. PLEASER platform 8-inch burgundy. Wine cellar dark luxury. Sensual tasting pose. Expression: aged to perfection. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BURGUNDY LEATHER mini dress tight, black leather underbust corset, black leather gloves, burgundy leather choker. PLEASER platform 8-inch burgundy. Wine cellar dark luxury. Sensual tasting pose. Expression: aged to perfection. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Leather Nurse
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs under leather nurse cap. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE LEATHER nurse uniform short, red cross details, leather corset, white leather gloves. PLEASER platform 8-inch white. Medical fantasy set. Sensual nurse pose. Expression: time for your medicine. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs under leather nurse cap. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE LEATHER nurse uniform short, red cross details, leather corset, white leather gloves. PLEASER platform 8-inch white. Medical fantasy set. Sensual nurse pose. Expression: time for your medicine. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Leather Corset Stack
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing THREE BLACK LEATHER CORSETS stacked: underbust, overbust, waist cincher layered, leather panties. PLEASER platform 8-inch black. Dark studio dramatic. Sensual waist training pose. Expression: tighter. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing THREE BLACK LEATHER CORSETS stacked: underbust, overbust, waist cincher layered, leather panties. PLEASER platform 8-inch black. Dark studio dramatic. Sensual waist training pose. Expression: tighter. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Gold Leather Goddess
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy GOLD lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GOLD METALLIC LEATHER: gold leather corset, gold leather hot pants, gold leather collar, gold leather gloves. PLEASER platform 8-inch gold chrome. Gold studio lighting. Sensual goddess pose. Expression: worship me. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy GOLD lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GOLD METALLIC LEATHER: gold leather corset, gold leather hot pants, gold leather collar, gold leather gloves. PLEASER platform 8-inch gold chrome. Gold studio lighting. Sensual goddess pose. Expression: worship me. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Leather Librarian
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs under leather glasses frames. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER pencil skirt tight, white leather corset blouse, black leather gloves. PLEASER platform 8-inch black. Dark library old books. Sensual strict librarian pose. Expression: silence or punishment. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs under leather glasses frames. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER pencil skirt tight, white leather corset blouse, black leather gloves. PLEASER platform 8-inch black. Dark library old books. Sensual strict librarian pose. Expression: silence or punishment. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Miss Doll - Leather Pet Handler
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER dominatrix outfit, leather corset, holding leather leash, leather riding crop. PLEASER platform 8-inch black. Dark dungeon. Sensual handler pose. Expression: heel. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER dominatrix outfit, leather corset, holding leather leash, leather riding crop. PLEASER platform 8-inch black. Dark dungeon. Sensual handler pose. Expression: heel. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Miss Doll - Purple Leather Punk
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs with purple streak. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: purple smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PURPLE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing PURPLE LEATHER: purple leather jacket studded, purple leather corset, purple leather mini skirt, purple leather collar spikes. PLEASER platform 8-inch purple. Punk club neon. Sensual punk pose. Expression: chaos queen. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs with purple streak. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: purple smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PURPLE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing PURPLE LEATHER: purple leather jacket studded, purple leather corset, purple leather mini skirt, purple leather collar spikes. PLEASER platform 8-inch purple. Punk club neon. Sensual punk pose. Expression: chaos queen. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Miss Doll - Leather Secretary
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing TAN LEATHER: tan leather pencil skirt, tan leather bustier, tan leather gloves, tan leather collar. PLEASER platform 8-inch tan patent. CEO office dark wood. Sensual secretary pose. Expression: ready for dictation. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing TAN LEATHER: tan leather pencil skirt, tan leather bustier, tan leather gloves, tan leather collar. PLEASER platform 8-inch tan patent. CEO office dark wood. Sensual secretary pose. Expression: ready for dictation. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Miss Doll - Leather Mask
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP visible: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Wearing BLACK LEATHER half mask covering upper face. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Black leather corset, leather gloves, leather bodysuit. PLEASER platform 8-inch black. Masquerade dark setting. Sensual mysterious pose. Expression: identity hidden. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP visible: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Wearing BLACK LEATHER half mask covering upper face. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Black leather corset, leather gloves, leather bodysuit. PLEASER platform 8-inch black. Masquerade dark setting. Sensual mysterious pose. Expression: identity hidden. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Miss Doll - Leather Pony
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob with leather hair accessories pony style. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER pony harness, leather corset waist, leather arm binders elegant. PLEASER platform 8-inch black with hooves style platform. Studio equestrian. Sensual pony pose prancing. Expression: trained. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob with leather hair accessories pony style. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER pony harness, leather corset waist, leather arm binders elegant. PLEASER platform 8-inch black with hooves style platform. Studio equestrian. Sensual pony pose prancing. Expression: trained. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Miss Doll - Chrome and Leather
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: silver smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy SILVER lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER with CHROME HARDWARE: leather corset chrome boning, leather straps chrome buckles, leather collar chrome ring. PLEASER platform 8-inch black chrome. Industrial setting metal. Sensual industrial pose. Expression: machine perfection. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: silver smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy SILVER lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER with CHROME HARDWARE: leather corset chrome boning, leather straps chrome buckles, leather collar chrome ring. PLEASER platform 8-inch black chrome. Industrial setting metal. Sensual industrial pose. Expression: machine perfection. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Miss Doll - Leather Maid
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs under leather maid headpiece. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK AND WHITE LEATHER maid uniform short, leather corset, leather apron, leather collar. PLEASER platform 8-inch black. Luxury mansion. Sensual maid pose. Expression: service with discipline. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs under leather maid headpiece. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK AND WHITE LEATHER maid uniform short, leather corset, leather apron, leather collar. PLEASER platform 8-inch black. Luxury mansion. Sensual maid pose. Expression: service with discipline. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Miss Doll - Leather Cage
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER cage dress: leather straps forming geometric cage pattern, leather corset underneath. PLEASER platform 8-inch black. Dark studio geometric shadows. Sensual caged pose. Expression: exhibit. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER cage dress: leather straps forming geometric cage pattern, leather corset underneath. PLEASER platform 8-inch black. Dark studio geometric shadows. Sensual caged pose. Expression: exhibit. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Miss Doll - Leather Glove Obsession
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER gloves EXTRA LONG past shoulder, black leather corset, minimal. Hands prominently displayed. PLEASER platform 8-inch black. Dark studio hands focus. Sensual glove pose pulling glove. Expression: second skin. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER gloves EXTRA LONG past shoulder, black leather corset, minimal. Hands prominently displayed. PLEASER platform 8-inch black. Dark studio hands focus. Sensual glove pose pulling glove. Expression: second skin. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Miss Doll - Leather Throne
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER royal outfit: leather corset regal, leather cape, leather crown. Sitting on BLACK LEATHER throne. PLEASER platform 8-inch black visible. Dark castle throne room. Sensual queen pose. Expression: kneel before your queen. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK LEATHER royal outfit: leather corset regal, leather cape, leather crown. Sitting on BLACK LEATHER throne. PLEASER platform 8-inch black visible. Dark castle throne room. Sensual queen pose. Expression: kneel before your queen. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🦇 II. HELENA — LEATHER WITCH (20 PROMPTS)
+## ðŸ¦‡ II. HELENA â€” LEATHER WITCH (20 PROMPTS)
 
 ### Prompt 80: 21. Helena - Full Black Leather
 
@@ -294,7 +294,7 @@ Professional fetish glamour photography of young elegant goth glamour woman. Pal
 
 ---
 
-## 👯‍♀️ III. DUO — LEATHER SISTERS (10 PROMPTS)
+## ðŸ‘¯â€â™€ï¸ III. DUO â€” LEATHER SISTERS (10 PROMPTS)
 
 ### Prompt 60: 41. Duo - Black Leather Twins
 
@@ -356,193 +356,193 @@ Professional fetish glamour photography of TWO glamorous women pet play. BLONDE:
 Professional fetish glamour photography of TWO glamorous women formal leather. BLONDE: platinum bob elegant, porcelain skin, champagne shimmer eyes, RED lips, BLACK LEATHER ball gown dramatic with corset boning, long leather gloves, PLEASER 8-inch. BRUNETTE: black hair updo elegant, pale skin, RED lips matching, BLACK LEATHER ball gown dramatic corset, long gloves, PLEASER 9-inch. Both at masked leather ball chandeliers. Sensual formal pose. Expression: leather aristocracy. Leather fetish aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ⛓️ BONDAGE RITUALS (Prompts 51-60)
+### â›“ï¸ BONDAGE RITUALS (Prompts 51-60)
 
 ### Prompt 50: 51. Ritual - Lacing the Masterpiece
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK LEATHER underbust corset, leather gloves. Sensual pose sitting on a leather bench, meticulously lacing up a tall leather boot on her own leg. Tight focus on the laces and fingers. Expression: precision in control. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK LEATHER underbust corset, leather gloves. Sensual pose sitting on a leather bench, meticulously lacing up a tall leather boot on her own leg. Tight focus on the laces and fingers. Expression: precision in control. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 49: 52. Ritual - The Rope Preparation
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather teddy, leather collar. Dark studio, coils of red hemp rope on the floor. Sensual pose running a length of rope through her gloved hands. Expression: ready for the knot. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather teddy, leather collar. Dark studio, coils of red hemp rope on the floor. Sensual pose running a length of rope through her gloved hands. Expression: ready for the knot. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 48: 53. Ritual - Oil and Shine
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing ALL BLACK LATEX catsuit, leather gloves. Sensual pose applying silicone oil to her own thigh to create a blinding shine. Expression: polished to perfection. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing ALL BLACK LATEX catsuit, leather gloves. Sensual pose applying silicone oil to her own thigh to create a blinding shine. Expression: polished to perfection. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 47: 54. Ritual - Mask of Devotion
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focus on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, holding a black leather cat mask with silver zippers. Sensual pose about to put it on. Expression: becoming the toy. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focus on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, holding a black leather cat mask with silver zippers. Sensual pose about to put it on. Expression: becoming the toy. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 46: 55. Ritual - The Measuring Tape
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather bra and panties, leather gloves. Sensual pose pulling a yellow measuring tape tight around her own cinched waist. Focus on the measurement. Expression: tighter than yesterday. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather bra and panties, leather gloves. Sensual pose pulling a yellow measuring tape tight around her own cinched waist. Focus on the measurement. Expression: tighter than yesterday. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 45: 56. Ritual - Testing the Whip
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing RED leather corset dress, black leather opera gloves. Dark studio, holding a black leather flogger. Sensual pose testing the strands against her own palm. Expression: sting and sweetness. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing RED leather corset dress, black leather opera gloves. Dark studio, holding a black leather flogger. Sensual pose testing the strands against her own palm. Expression: sting and sweetness. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 44: 57. Ritual - Suspension Prep
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather harness over silk lingerie, PLEASER platform heels 8-inch. Standing under a metal suspension ring with chains hanging down. Sensual pose reaching up for the rings. Expression: lift me higher. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather harness over silk lingerie, PLEASER platform heels 8-inch. Standing under a metal suspension ring with chains hanging down. Sensual pose reaching up for the rings. Expression: lift me higher. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 43: 58. Ritual - Cold Metal Warm Leather
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather sleeves. Close-up pose pressing a cold silver padlock to her own warm throat. Expression: locked in loyalty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather sleeves. Close-up pose pressing a cold silver padlock to her own warm throat. Expression: locked in loyalty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 42: 59. Ritual - The Mirror Check
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE leather corset, matching leather gloves, black leather stockings. Grand mirror background. Sensual pose checking the alignment of her corset laces in the reflection. Expression: perfect symmetry. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE leather corset, matching leather gloves, black leather stockings. Grand mirror background. Sensual pose checking the alignment of her corset laces in the reflection. Expression: perfect symmetry. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 41: 60. Ritual - Cleaning the Gear
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather robe open, black leather lingerie. Sitting on a velvet stool, using a soft cloth to polish a collection of silver handcuffs. Sensual focus on hands. Expression: clean and ready. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather robe open, black leather lingerie. Sitting on a velvet stool, using a soft cloth to polish a collection of silver handcuffs. Sensual focus on hands. Expression: clean and ready. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🛐 TOTAL SERVITUDINE (Prompts 61-70)
+### ðŸ› TOTAL SERVITUDINE (Prompts 61-70)
 
 ### Prompt 40: 61. Service - Kneeling at the Throne
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking upward. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather leotard, leather collar with leash, PLEASER platform heels 8-inch. Kneeling on a plush red rug in front of a giant leather armchair (empty). Sensual submissive pose. Expression: your servant awaits. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking upward. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather leotard, leather collar with leash, PLEASER platform heels 8-inch. Kneeling on a plush red rug in front of a giant leather armchair (empty). Sensual submissive pose. Expression: your servant awaits. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 39: 62. Service - Delivering the Boots
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK silk slip, leather underbust corset. Sensual pose crawling on a marble floor, carrying a pair of thigh-high leather boots by the heels. Expression: service with devotion. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK silk slip, leather underbust corset. Sensual pose crawling on a marble floor, carrying a pair of thigh-high leather boots by the heels. Expression: service with devotion. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 38: 63. Service - The Human Ashtray
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face with mouth slightly open dreamy. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather collar, silver jewelry. Sensual pose kneeling, holding a crystal ashtray on her head perfectly still. Expression: a useful object. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face with mouth slightly open dreamy. EXTREME hourglass silhouette. Wearing BLACK leather corset, leather collar, silver jewelry. Sensual pose kneeling, holding a crystal ashtray on her head perfectly still. Expression: a useful object. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 37: 64. Service - Tray of Temptation
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED leather apron over lace lingerie, leather gloves. Sensual pose carrying a silver tray with a single black leather flogger and a glass of champagne. Expression: choice of rewards. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED leather apron over lace lingerie, leather gloves. Sensual pose carrying a silver tray with a single black leather flogger and a glass of champagne. Expression: choice of rewards. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 36: 65. Service - Waiting in the Cage
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette visible through bars. Wearing PINK leather harness and thong. Sitting inside a luxury gold-plated birdcage. Sensual pose leaning against the bars. Expression: captive beauty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette visible through bars. Wearing PINK leather harness and thong. Sitting inside a luxury gold-plated birdcage. Sensual pose leaning against the bars. Expression: captive beauty. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 35: 66. Service - The Footstool
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking down. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather catsuit, leather collar. Sensual pose on all fours, back flat and rigid like a table. Expression: supporting the weight. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking down. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK leather catsuit, leather collar. Sensual pose on all fours, back flat and rigid like a table. Expression: supporting the weight. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 34: 67. Service - Polishing the Pedestal
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather mini skirt, leather corset, leather gloves. Sensual pose kneeling on the floor, polishing the base of a tall black pedestal. Expression: no spot left untouched. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather mini skirt, leather corset, leather gloves. Sensual pose kneeling on the floor, polishing the base of a tall black pedestal. Expression: no spot left untouched. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 33: 68. Service - The Leash Holder
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather bodysuit, gold leather collar with chain. Sensual pose holding the end of her own gold chain leash, offering it to the camera. Expression: take the lead. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE leather bodysuit, gold leather collar with chain. Sensual pose holding the end of her own gold chain leash, offering it to the camera. Expression: take the lead. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 32: 69. Service - Silent Statuete
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face blank expression. EXTREME hourglass silhouette. Wearing MATTE BLACK leather catsuit with external corset. Standing perfectly still on a marble plinth in a luxury foyer. Sensual mannequin pose. Expression: frozen in service. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP. Human realistic face blank expression. EXTREME hourglass silhouette. Wearing MATTE BLACK leather catsuit with external corset. Standing perfectly still on a marble plinth in a luxury foyer. Sensual mannequin pose. Expression: frozen in service. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 31: 70. Service - Room Service Goth
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather maid outfit: leather apron, leather corset, leather headband, PLEASER platforms. Sensual pose pushing a cart with leather restraints instead of food. Expression: room service is here. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather maid outfit: leather apron, leather corset, leather headband, PLEASER platforms. Sensual pose pushing a cart with leather restraints instead of food. Expression: room service is here. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🖤 DARK SENSUALITY & SHINE (Prompts 71-80)
+### ðŸ–¤ DARK SENSUALITY & SHINE (Prompts 71-80)
 
 ### Prompt 30: 71. Shine - Liquid Black Latex
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing HEAD TO TOE LIQUID SHINE BLACK LATEX: hooded catsuit (face open), external corset, platform boots. Sensual pose in a dark room with a single spotlight. Expression: blinding gloss. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) slicked back. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing HEAD TO TOE LIQUID SHINE BLACK LATEX: hooded catsuit (face open), external corset, platform boots. Sensual pose in a dark room with a single spotlight. Expression: blinding gloss. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 29: 72. Shine - Red Patent Heat
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ALL RED PATENT LEATHER: trench coat open, corset under, thigh-high boots. Standing in front of a wall of fire. Sensual pose feeling the heat. Expression: burning desire. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing ALL RED PATENT LEATHER: trench coat open, corset under, thigh-high boots. Standing in front of a wall of fire. Sensual pose feeling the heat. Expression: burning desire. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 28: 73. Shine - Metallic Silver Doll
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face robot-like. EXTREME hourglass silhouette prominent cleavage. Wearing METALLIC SILVER LEATHER: corset, gloves, leggings. Industrial set with blue neon. Sensual stiff pose. Expression: chrome soul. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face robot-like. EXTREME hourglass silhouette prominent cleavage. Wearing METALLIC SILVER LEATHER: corset, gloves, leggings. Industrial set with blue neon. Sensual stiff pose. Expression: chrome soul. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 27: 74. Shine - PVC Rain
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK PVC catsuit, PLEASER platforms. Standing in an indoor rain room, water slicking the PVC to intense shine. Sensual pose. Expression: washed in shadow. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing BLACK PVC catsuit, PLEASER platforms. Standing in an indoor rain room, water slicking the PVC to intense shine. Sensual pose. Expression: washed in shadow. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 26: 75. Shine - Gold Leather Mirror
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing MIRROR GOLD LEATHER: corset, opera gloves, collar. Luxury ballroom background. Sensual pose, her outfit reflecting the chandeliers. Expression: pure wealth. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing MIRROR GOLD LEATHER: corset, opera gloves, collar. Luxury ballroom background. Sensual pose, her outfit reflecting the chandeliers. Expression: pure wealth. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 25: 76. Shine - Cracked Leather Noir
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing DISTRESSED BLACK LEATHER: jacket, corset, boots. High contrast noir lighting, dramatic shadows. Sensual pose emerging from darkness. Expression: weathered but strong. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing DISTRESSED BLACK LEATHER: jacket, corset, boots. High contrast noir lighting, dramatic shadows. Sensual pose emerging from darkness. Expression: weathered but strong. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 24: 77. Shine - Electric Purple PVC
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing NEON PURPLE PVC: mini dress, corset, gloves. Dark club with UV lights. Sensual glowing pose. Expression: electric aura. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing NEON PURPLE PVC: mini dress, corset, gloves. Dark club with UV lights. Sensual glowing pose. Expression: electric aura. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 23: 78. Shine - Snake Skin Luxury
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing EMERALD GREEN SNAKE PRINT LEATHER: corset, skirt, boots. Library with dark wood. Sensual pose reclining on a desk. Expression: cold-blooded elegance. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing EMERALD GREEN SNAKE PRINT LEATHER: corset, skirt, boots. Library with dark wood. Sensual pose reclining on a desk. Expression: cold-blooded elegance. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 22: 79. Shine - White Leather Angel
 
 ```text
-Professional fetish glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing ALL WHITE LEATHER: corset, wings made of leather straps, white stockings. Bright white studio. Sensual angelic pose. Expression: fallen grace. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fetish glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing ALL WHITE LEATHER: corset, wings made of leather straps, white stockings. Bright white studio. Sensual angelic pose. Expression: fallen grace. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 21: 80. Shine - Carbon Fiber Tech
 
 ```text
-Professional glamour photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK LEATHER and CARBON FIBER armor plates: corset, gauntlets, shin guards. High-tech lab background. Sensual futuristic pose. Expression: upgraded. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
+Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK LEATHER and CARBON FIBER armor plates: corset, gauntlets, shin guards. High-tech lab background. Sensual futuristic pose. Expression: upgraded. Leather fetish aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 🦇 HELENA'S LEATHER RITUALS (Prompts 81-90)
+### ðŸ¦‡ HELENA'S LEATHER RITUALS (Prompts 81-90)
 
 ### Prompt 20: 81. Helena - The Shadow Girdle
 
@@ -604,7 +604,7 @@ Professional fetish glamour photography of young elegant goth glamour woman. Pal
 Professional glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK leather straitjacket (stylish fetish version), black leather corset. Standing in a padded white room. Sensual trapped pose. Expression: safe in the softness. Goth leather aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### 👯‍♀️ SISTERS IN LEATHER (Prompts 91-100)
+### ðŸ‘¯â€â™€ï¸ SISTERS IN LEATHER (Prompts 91-100)
 
 ### Prompt 10: 91. Duo - Master and Apprentice
 
@@ -668,5 +668,7 @@ Professional glamour photography of TWO women. BLONDE: platinum bob, red lips, B
 
 ---
 
-*Helena de Anaïs* 🦇⛓️
-*La Voûte d'Anaïs — Leather Fetish Edition (100 Prompts COMPLETE)*
+*Helena de AnaÃ¯s* ðŸ¦‡â›“ï¸
+*La VoÃ»te d'AnaÃ¯s â€” Leather Fetish Edition (100 Prompts COMPLETE)*
+
+

@@ -15,7 +15,7 @@
 ### 💖 MISS DOLL (BASE)
 
 ```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -27,7 +27,7 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
+Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
@@ -65,121 +65,121 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ### Prompt 100: 1. Helena - Corrupted Nun
 
 ```text
-Professional religious photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under torn black veil. Pale porcelain white skin sinful. Full glossy blood red lips. Wearing BLACK nun habit torn and modified to be revealing, crucifix inverted. Kneeling in dark chapel. Candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots under habit. Gothic cathedral. Sensual prayer pose. Expression: forgive me for I have sinned. Corrupted nun. Seductive glamour photography, candlelight dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional religious photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under torn black veil. Pale porcelain white skin sinful. Full glossy blood red lips. Wearing BLACK nun habit torn and modified to be revealing, crucifix inverted. Kneeling in dark chapel. Candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots under habit. Gothic cathedral. Sensual prayer pose. Expression: forgive me for I have sinned. Corrupted nun. Seductive glamour photography, candlelight dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - Fallen Angel Black Wings
 
 ```text
-Professional angel photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild and windswept. Pale porcelain white skin luminous. Full glossy black lips. Wearing BLACK feathered wings massive and dramatic, BLACK corset bodysuit. Fallen from heaven pose. Dark clouds behind. PLEASER RAPTURE-1020 black 8-inch boots. Ruined temple. Sensual fallen pose. Expression: cast out of heaven. Fallen angel. Seductive glamour photography, stormy dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional angel photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and windswept. Pale porcelain white skin luminous. Full glossy black lips. Wearing BLACK feathered wings massive and dramatic, BLACK corset bodysuit. Fallen from heaven pose. Dark clouds behind. PLEASER RAPTURE-1020 black 8-inch boots. Ruined temple. Sensual fallen pose. Expression: cast out of heaven. Fallen angel. Seductive glamour photography, stormy dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - Gothic Madonna
 
 ```text
-Professional Madonna photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair covered in black lace mantilla. Pale porcelain white skin holy glow. Full glossy wine red lips. Wearing BLACK velvet gown Virgin Mary inspired but sensual. Holding black roses instead of baby. Halo of thorns behind head. PLEASER RAPTURE-1020 black 8-inch heels. Dark altar. Sensual Madonna pose. Expression: dark mother. Gothic Madonna. Seductive glamour photography, religious painting lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Madonna photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair covered in black lace mantilla. Pale porcelain white skin holy glow. Full glossy wine red lips. Wearing BLACK velvet gown Virgin Mary inspired but sensual. Holding black roses instead of baby. Halo of thorns behind head. PLEASER RAPTURE-1020 black 8-inch heels. Dark altar. Sensual Madonna pose. Expression: dark mother. Gothic Madonna. Seductive glamour photography, religious painting lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - Church Confessional
 
 ```text
-Professional confessional photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin guilty pleasure. Full glossy red lips whispering. Wearing BLACK lace dress confessional appropriate but revealing. Inside confessional booth, screen visible. Leaning toward priest side. PLEASER RAPTURE-1020 black 8-inch heels. Church confessional. Sensual confession pose. Expression: bless me father. Confessional. Seductive glamour photography, confessional shadow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional confessional photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin guilty pleasure. Full glossy red lips whispering. Wearing BLACK lace dress confessional appropriate but revealing. Inside confessional booth, screen visible. Leaning toward priest side. PLEASER RAPTURE-1020 black 8-inch heels. Church confessional. Sensual confession pose. Expression: bless me father. Confessional. Seductive glamour photography, confessional shadow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - Gothic Cathedral Queen
 
 ```text
-Professional cathedral photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair crown of black flowers. Pale porcelain white skin stained glass reflections. Full glossy black cherry lips. Wearing BLACK velvet gown with GOLD trim medieval royalty. Standing at altar like unholy queen. Gothic cathedral interior. PLEASER RAPTURE-1020 black 8-inch heels. Grand cathedral. Sensual queen pose. Expression: dark coronation. Cathedral queen. Seductive glamour photography, stained glass colorful lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cathedral photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair crown of black flowers. Pale porcelain white skin stained glass reflections. Full glossy black cherry lips. Wearing BLACK velvet gown with GOLD trim medieval royalty. Standing at altar like unholy queen. Gothic cathedral interior. PLEASER RAPTURE-1020 black 8-inch heels. Grand cathedral. Sensual queen pose. Expression: dark coronation. Cathedral queen. Seductive glamour photography, stained glass colorful lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Helena - Stained Glass Silhouette
 
 ```text
-Professional stained glass photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair backlit halo effect. Pale porcelain white skin multicolor light. Full glossy red lips glowing. Wearing BLACK sheer gown silhouette visible through fabric. Standing before massive stained glass window. Light streaming through. PLEASER RAPTURE-1020 black 8-inch heels. Cathedral window. Sensual silhouette pose. Expression: divine light. Stained glass. Seductive glamour photography, stained glass backlight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stained glass photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair backlit halo effect. Pale porcelain white skin multicolor light. Full glossy red lips glowing. Wearing BLACK sheer gown silhouette visible through fabric. Standing before massive stained glass window. Light streaming through. PLEASER RAPTURE-1020 black 8-inch heels. Cathedral window. Sensual silhouette pose. Expression: divine light. Stained glass. Seductive glamour photography, stained glass backlight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - Lilith First Wife
 
 ```text
-Professional Lilith photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild serpentine. Pale porcelain white skin demonic beauty. Full glossy black lips with forked tongue hint. Wearing BLACK sheer gown serpent patterns, snake accessories. Garden of Eden setting with apple. PLEASER RAPTURE-1020 black 8-inch boots snake skin pattern. Dark garden. Sensual temptress pose. Expression: before Eve. Lilith. Seductive glamour photography, forbidden garden lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Lilith photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild serpentine. Pale porcelain white skin demonic beauty. Full glossy black lips with forked tongue hint. Wearing BLACK sheer gown serpent patterns, snake accessories. Garden of Eden setting with apple. PLEASER RAPTURE-1020 black 8-inch boots snake skin pattern. Dark garden. Sensual temptress pose. Expression: before Eve. Lilith. Seductive glamour photography, forbidden garden lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - Demon Possessing Nun
 
 ```text
-Professional possession photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair floating supernatural. Pale porcelain white skin veins visible. Full glossy black lips slightly open. Wearing WHITE nun habit being corrupted, turning BLACK. Levitating slightly. Eyes rolled back. PLEASER RAPTURE-1020 black 8-inch boots levitating. Exorcism room. Sensual possession pose. Expression: the power of what compels me. Possession. Seductive glamour photography, horror exorcism lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional possession photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair floating supernatural. Pale porcelain white skin veins visible. Full glossy black lips slightly open. Wearing WHITE nun habit being corrupted, turning BLACK. Levitating slightly. Eyes rolled back. PLEASER RAPTURE-1020 black 8-inch boots levitating. Exorcism room. Sensual possession pose. Expression: the power of what compels me. Possession. Seductive glamour photography, horror exorcism lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - Saint Martyrdom
 
 ```text
-Professional martyrdom photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin ecstatic suffering. Full glossy red lips parted pleasure-pain. Wearing BLACK torn saint robes, arrows piercing fabric (Saint Sebastian reference). Tied to column. PLEASER RAPTURE-1020 black 8-inch heels. Dungeon or plaza. Sensual martyrdom pose. Expression: exquisite agony. Saint martyr. Seductive glamour photography, renaissance painting lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional martyrdom photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin ecstatic suffering. Full glossy red lips parted pleasure-pain. Wearing BLACK torn saint robes, arrows piercing fabric (Saint Sebastian reference). Tied to column. PLEASER RAPTURE-1020 black 8-inch heels. Dungeon or plaza. Sensual martyrdom pose. Expression: exquisite agony. Saint martyr. Seductive glamour photography, renaissance painting lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - Hell's Bride Ceremony
 
 ```text
-Professional unholy wedding photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under black veil with horns. Pale porcelain white skin hellfire glow. Full glossy blood red lips. Wearing BLACK wedding gown infernal, flames pattern hem. At dark altar with demon groom silhouette. Fire surrounding. PLEASER RAPTURE-1020 black 8-inch boots. Hell's chapel. Sensual bride pose. Expression: til death do us unite. Hell bride. Seductive glamour photography, hellfire dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional unholy wedding photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black veil with horns. Pale porcelain white skin hellfire glow. Full glossy blood red lips. Wearing BLACK wedding gown infernal, flames pattern hem. At dark altar with demon groom silhouette. Fire surrounding. PLEASER RAPTURE-1020 black 8-inch boots. Hell's chapel. Sensual bride pose. Expression: til death do us unite. Hell bride. Seductive glamour photography, hellfire dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Helena - Dark Priestess Ritual
 
 ```text
-Professional ritual photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ritual braids. Pale porcelain white skin blood symbols painted. Full glossy black lips ritual marks. Wearing BLACK priestess robes occult, hood down. Holding ritual dagger. Altar with candles and symbols. PLEASER RAPTURE-1020 black 8-inch boots. Ritual chamber. Sensual priestess pose. Expression: the rite begins. Dark priestess. Seductive glamour photography, ritual candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ritual photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual braids. Pale porcelain white skin blood symbols painted. Full glossy black lips ritual marks. Wearing BLACK priestess robes occult, hood down. Holding ritual dagger. Altar with candles and symbols. PLEASER RAPTURE-1020 black 8-inch boots. Ritual chamber. Sensual priestess pose. Expression: the rite begins. Dark priestess. Seductive glamour photography, ritual candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Rosary Bondage
 
 ```text
-Professional bondage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tangled in rosary beads. Pale porcelain white skin rosary marks. Full glossy red lips prayer expression. Wearing BLACK latex nun-inspired bodysuit. Bound in giant BLACK rosary beads like rope. Cross pendant prominent. PLEASER RAPTURE-1020 black 8-inch boots. Dark chapel. Sensual bound pose. Expression: religious restraint. Rosary bondage. Seductive glamour photography, dramatic contrast lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bondage photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair tangled in rosary beads. Pale porcelain white skin rosary marks. Full glossy red lips prayer expression. Wearing BLACK latex nun-inspired bodysuit. Bound in giant BLACK rosary beads like rope. Cross pendant prominent. PLEASER RAPTURE-1020 black 8-inch boots. Dark chapel. Sensual bound pose. Expression: religious restraint. Rosary bondage. Seductive glamour photography, dramatic contrast lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - Grim Reaper's Mistress
 
 ```text
-Professional death photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under hood. Pale porcelain white skin deathly. Full glossy black lips death kiss. Wearing BLACK hooded cloak flowing, SCYTHE in hand. Skeleton decorations. Cemetery setting. PLEASER RAPTURE-1020 black 8-inch boots. Graveyard. Sensual reaper pose. Expression: death is seductive. Death mistress. Seductive glamour photography, foggy cemetery lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional death photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under hood. Pale porcelain white skin deathly. Full glossy black lips death kiss. Wearing BLACK hooded cloak flowing, SCYTHE in hand. Skeleton decorations. Cemetery setting. PLEASER RAPTURE-1020 black 8-inch boots. Graveyard. Sensual reaper pose. Expression: death is seductive. Death mistress. Seductive glamour photography, foggy cemetery lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - Temptation of Saint
 
 ```text
-Professional temptation photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair seductive waves. Pale porcelain white skin glowing temptation. Full glossy red lips whisper. Wearing BLACK sheer lingerie devil horns subtle. Approaching praying monk figure. Desert or monastery. PLEASER RAPTURE-1020 black 8-inch boots. Monastery cell. Sensual temptation pose. Expression: abandon your vows. Temptress. Seductive glamour photography, divine vs demonic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional temptation photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair seductive waves. Pale porcelain white skin glowing temptation. Full glossy red lips whisper. Wearing BLACK sheer lingerie devil horns subtle. Approaching praying monk figure. Desert or monastery. PLEASER RAPTURE-1020 black 8-inch boots. Monastery cell. Sensual temptation pose. Expression: abandon your vows. Temptress. Seductive glamour photography, divine vs demonic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - Gothic Cathedral Gargoyle
 
 ```text
-Professional gargoyle photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair stone texture effect. Pale porcelain white skin stone gray undertones. Full glossy gray lips stone effect. Wearing BLACK bodysuit with gargoyle wings attached. Perched on cathedral ledge like gargoyle. City below. PLEASER RAPTURE-1020 gray stone effect 8-inch boots. Cathedral rooftop. Sensual gargoyle pose. Expression: guardian of the night. Gargoyle. Seductive glamour photography, moonlit rooftop lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gargoyle photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair stone texture effect. Pale porcelain white skin stone gray undertones. Full glossy gray lips stone effect. Wearing BLACK bodysuit with gargoyle wings attached. Perched on cathedral ledge like gargoyle. City below. PLEASER RAPTURE-1020 gray stone effect 8-inch boots. Cathedral rooftop. Sensual gargoyle pose. Expression: guardian of the night. Gargoyle. Seductive glamour photography, moonlit rooftop lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - Satanic Bible Reading
 
 ```text
-Professional occult photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair cascading over book. Pale porcelain white skin candlelit. Full glossy black lips reading. Wearing BLACK occult robe open at shoulders. Reading from large dark grimoire. Pentagrams and candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots. Occult library. Sensual reading pose. Expression: forbidden knowledge. Satanic scholar. Seductive glamour photography, candlelit library lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading over book. Pale porcelain white skin candlelit. Full glossy black lips reading. Wearing BLACK occult robe open at shoulders. Reading from large dark grimoire. Pentagrams and candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots. Occult library. Sensual reading pose. Expression: forbidden knowledge. Satanic scholar. Seductive glamour photography, candlelit library lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - Mourning Mary
 
 ```text
-Professional mourning photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under black mourning veil. Pale porcelain white skin tears of blood. Full glossy wine red lips sorrowful. Wearing BLACK mourning gown Victorian, weeping Virgin Mary pose. At foot of cross. Roses wilting. PLEASER RAPTURE-1020 black 8-inch heels. Golgotha scene. Sensual mourning pose. Expression: mater dolorosa. Mourning Mary. Seductive glamour photography, dramatic sorrow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mourning photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black mourning veil. Pale porcelain white skin tears of blood. Full glossy wine red lips sorrowful. Wearing BLACK mourning gown Victorian, weeping Virgin Mary pose. At foot of cross. Roses wilting. PLEASER RAPTURE-1020 black 8-inch heels. Golgotha scene. Sensual mourning pose. Expression: mater dolorosa. Mourning Mary. Seductive glamour photography, dramatic sorrow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - Gothic Choir Director
 
 ```text
-Professional choir photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair severe bun. Pale porcelain white skin strict. Full glossy red lips demanding. Wearing BLACK choir director robe with blood red stole. Holding baton dramatically. Before cathedral organ pipes. PLEASER RAPTURE-1020 black 8-inch boots. Cathedral choir loft. Sensual conductor pose. Expression: sing for your souls. Choir director. Seductive glamour photography, organ pipe dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional choir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair severe bun. Pale porcelain white skin strict. Full glossy red lips demanding. Wearing BLACK choir director robe with blood red stole. Holding baton dramatically. Before cathedral organ pipes. PLEASER RAPTURE-1020 black 8-inch boots. Cathedral choir loft. Sensual conductor pose. Expression: sing for your souls. Choir director. Seductive glamour photography, organ pipe dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - Blood Chalice
 
 ```text
-Professional communion photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ritual arrangement. Pale porcelain white skin blood stained. Full glossy blood red lips drinking. Wearing BLACK ritual gown. Holding golden chalice with red liquid to lips. Blood drops trailing. PLEASER RAPTURE-1020 black 8-inch boots. Dark altar. Sensual communion pose. Expression: drink of my blood. Blood chalice. Seductive glamour photography, sacred horror lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional communion photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual arrangement. Pale porcelain white skin blood stained. Full glossy blood red lips drinking. Wearing BLACK ritual gown. Holding golden chalice with red liquid to lips. Blood drops trailing. PLEASER RAPTURE-1020 black 8-inch boots. Dark altar. Sensual communion pose. Expression: drink of my blood. Blood chalice. Seductive glamour photography, sacred horror lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Church Bell Tower
 
 ```text
-Professional bell tower photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild from wind. Pale porcelain white skin moonlit. Full glossy black lips mysterious. Wearing BLACK gothic dress, pulling church bell rope. Giant bell above. Moonlight through tower windows. PLEASER RAPTURE-1020 black 8-inch boots. Church bell tower. Sensual bell ringer pose. Expression: the bell tolls for thee. Bell tower. Seductive glamour photography, moonlit tower lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bell tower photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild from wind. Pale porcelain white skin moonlit. Full glossy black lips mysterious. Wearing BLACK gothic dress, pulling church bell rope. Giant bell above. Moonlight through tower windows. PLEASER RAPTURE-1020 black 8-inch boots. Church bell tower. Sensual bell ringer pose. Expression: the bell tolls for thee. Bell tower. Seductive glamour photography, moonlit tower lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -189,91 +189,91 @@ Professional bell tower photography of young elegant goth glamour woman inspired
 ### Prompt 80: 21. Miss Doll - Pink Angel
 
 ```text
-Professional angel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK feathered wings massive, WHITE heavenly gown sheer. Floating on clouds effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven setting. Sensual angel pose. Expression: heaven's beauty. Pink angel. Seductive glamour photography, divine soft lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional angel photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes PINK shadow, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK feathered wings massive, WHITE heavenly gown sheer. Floating on clouds effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven setting. Sensual angel pose. Expression: heaven's beauty. Pink angel. Seductive glamour photography, divine soft lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Miss Doll - Naughty Nun Pink Habit
 
 ```text
-Professional nun photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink veil. Flawless porcelain skin sinless. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nun habit modified short and tight, crucifix PINK. Rosary beads pink. PLEASER FLAMINGO-808 pink 8-inch platform heels. Convent setting. Sensual modest pose with twist. Expression: pink prayers. Pink nun. Seductive glamour photography, convent window lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nun photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink veil. Flawless porcelain skin sinless. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK nun habit modified short and tight, crucifix PINK. Rosary beads pink. PLEASER FLAMINGO-808 pink 8-inch platform heels. Convent setting. Sensual modest pose with twist. Expression: pink prayers. Pink nun. Seductive glamour photography, convent window lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Miss Doll - Heaven's Cheerleader
 
 ```text
-Professional heavenly photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with halo. Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK cheerleader outfit angel wings. Pom poms fluffy white. Cheering on clouds. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven stadium. Sensual cheer pose. Expression: give me an H-E-A-V-E-N. Heaven cheer. Seductive glamour photography, bright heaven lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heavenly photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with halo. Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK cheerleader outfit angel wings. Pom poms fluffy white. Cheering on clouds. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven stadium. Sensual cheer pose. Expression: give me an H-E-A-V-E-N. Heaven cheer. Seductive glamour photography, bright heaven lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Miss Doll - Church Choir Singer
 
 ```text
-Professional choir photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE choir robe with PINK sash. Holding hymn book singing. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral choir. Sensual singing pose. Expression: hallelujah. Choir singer. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional choir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes natural, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE choir robe with PINK sash. Holding hymn book singing. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral choir. Sensual singing pose. Expression: hallelujah. Choir singer. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Miss Doll - Cupid Valentine
 
 ```text
-Professional cupid photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK mini toga Cupid style, WHITE and PINK wings small. Bow and heart arrow. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud setting. Sensual cupid pose. Expression: struck by love. Cupid. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cupid photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK mini toga Cupid style, WHITE and PINK wings small. Bow and heart arrow. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud setting. Sensual cupid pose. Expression: struck by love. Cupid. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Miss Doll - Church Wedding Bride
 
 ```text
-Professional wedding photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE cathedral wedding gown, PINK bouquet roses. At church altar. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Church wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wedding photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE cathedral wedding gown, PINK bouquet roses. At church altar. Stained glass behind. PLEASER FLAMINGO-808 white 8-inch platform heels. Church wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Miss Doll - Gospel Singer
 
 ```text
-Professional gospel photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin spirit-filled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK gospel robe glamorous. Microphone in hand singing passionately. Gospel choir behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Black church setting. Sensual gospel pose. Expression: amazing grace. Gospel singer. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gospel photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin spirit-filled. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK gospel robe glamorous. Microphone in hand singing passionately. Gospel choir behind. PLEASER FLAMINGO-808 pink 8-inch platform heels. Black church setting. Sensual gospel pose. Expression: amazing grace. Gospel singer. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Miss Doll - Pink Devil Cute
 
 ```text
-Professional devil photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with tiny horns. Flawless porcelain skin mischievous. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes RED, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil costume cute, pitchfork tiny and pink. Devil tail pink heart tip. PLEASER FLAMINGO-808 red 8-inch platform heels. Pink hell setting playful. Sensual cute devil pose. Expression: naughty but nice. Cute devil. Seductive glamour photography, playful hellfire lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional devil photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with tiny horns. Flawless porcelain skin mischievous. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes RED, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil costume cute, pitchfork tiny and pink. Devil tail pink heart tip. PLEASER FLAMINGO-808 red 8-inch platform heels. Pink hell setting playful. Sensual cute devil pose. Expression: naughty but nice. Cute devil. Seductive glamour photography, playful hellfire lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Miss Doll - Saint Valentine
 
 ```text
-Professional saint photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with heart halo. Flawless porcelain skin saintly. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE saint robes romantic. Surrounded by hearts and roses. Blessing couples. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church setting Valentine. Sensual saint pose. Expression: patron of love. Saint Valentine. Seductive glamour photography, romantic candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional saint photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with heart halo. Flawless porcelain skin saintly. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and WHITE saint robes romantic. Surrounded by hearts and roses. Blessing couples. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church setting Valentine. Sensual saint pose. Expression: patron of love. Saint Valentine. Seductive glamour photography, romantic candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Miss Doll - Heaven's Gate Greeter
 
 ```text
-Professional heaven photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE hostess gown angelic. Standing at pearly gates pink. Welcome clipboard. Wings small white. PLEASER FLAMINGO-808 gold 8-inch platform heels. Heaven's gate. Sensual greeter pose. Expression: welcome to paradise. Heaven greeter. Seductive glamour photography, golden gate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional heaven photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE hostess gown angelic. Standing at pearly gates pink. Welcome clipboard. Wings small white. PLEASER FLAMINGO-808 gold 8-inch platform heels. Heaven's gate. Sensual greeter pose. Expression: welcome to paradise. Heaven greeter. Seductive glamour photography, golden gate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 31. Miss Doll - Pink Baptism
 
 ```text
-Professional baptism photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin cleansed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE baptism gown sheer when wet. Emerging from baptismal font. Water dripping. PLEASER FLAMINGO-808 white 8-inch platform heels poolside. Baptismal setting. Sensual emergence pose. Expression: born again. Baptism. Seductive glamour photography, underwater and surface lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baptism photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin cleansed. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE baptism gown sheer when wet. Emerging from baptismal font. Water dripping. PLEASER FLAMINGO-808 white 8-inch platform heels poolside. Baptismal setting. Sensual emergence pose. Expression: born again. Baptism. Seductive glamour photography, underwater and surface lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Miss Doll - Confetti Angel
 
 ```text
-Professional celebration photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin joyful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party angel costume. Wings pink feathered. Throwing confetti heavenward. PLEASER FLAMINGO-808 pink 8-inch platform heels. Heavenly party. Sensual celebration pose. Expression: heaven's party girl. Confetti angel. Seductive glamour photography, party sparkle lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional celebration photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin joyful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK party angel costume. Wings pink feathered. Throwing confetti heavenward. PLEASER FLAMINGO-808 pink 8-inch platform heels. Heavenly party. Sensual celebration pose. Expression: heaven's party girl. Confetti angel. Seductive glamour photography, party sparkle lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Miss Doll - Holy Communion Pink
 
 ```text
-Professional communion photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin reverent. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing WHITE first communion dress adult sized short. Receiving communion wafer. Pink rosary in hands. PLEASER FLAMINGO-808 white 8-inch platform heels. Church altar. Sensual communion pose. Expression: body of Christ. Holy communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional communion photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin reverent. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes subtle, thick winged eyeliner, long false lashes, arched brows, full glossy NATURAL lips. Human realistic face. Wearing WHITE first communion dress adult sized short. Receiving communion wafer. Pink rosary in hands. PLEASER FLAMINGO-808 white 8-inch platform heels. Church altar. Sensual communion pose. Expression: body of Christ. Holy communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Miss Doll - Pink Harem Heaven
 
 ```text
-Professional harem photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pampered. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK harem outfit sheer. Reclining on pink clouds. Grapes and wine. Heavenly reward setting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Paradise harem. Sensual reclining pose. Expression: 72 virgins who? Pink harem. Seductive glamour photography, soft paradise lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harem photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pampered. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK harem outfit sheer. Reclining on pink clouds. Grapes and wine. Heavenly reward setting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Paradise harem. Sensual reclining pose. Expression: 72 virgins who? Pink harem. Seductive glamour photography, soft paradise lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Miss Doll - Seraphim Six Wings
 
 ```text
-Professional seraph photography of glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin divine fire. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing WHITE and GOLD gown with SIX WINGS (seraphim style) pink and white. Face partially covered by wings. PLEASER FLAMINGO-808 gold 8-inch platform heels. Throne of God near. Sensual seraphim pose. Expression: holy holy holy. Seraphim. Seductive glamour photography, divine throne lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seraph photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin divine fire. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing WHITE and GOLD gown with SIX WINGS (seraphim style) pink and white. Face partially covered by wings. PLEASER FLAMINGO-808 gold 8-inch platform heels. Throne of God near. Sensual seraphim pose. Expression: holy holy holy. Seraphim. Seductive glamour photography, divine throne lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -377,91 +377,91 @@ Professional resurrection duo photography. HELENA: Sacha Massacre look as risen 
 ### Prompt 50: 51. Helena - Convent Strip
 
 ```text
-Professional convent photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair released from habit. Pale porcelain white skin forbidden. Full glossy wine red lips sinful. Wearing BLACK nun habit being slowly removed, revealing black lingerie underneath. Crucifix dangling between breasts. PLEASER RAPTURE-1020 black 8-inch boots. Private cell candlelit. Sensual undressing pose. Expression: shedding my vow. Convent strip. Seductive glamour photography, candlelight intimate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional convent photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair released from habit. Pale porcelain white skin forbidden. Full glossy wine red lips sinful. Wearing BLACK nun habit being slowly removed, revealing black lingerie underneath. Crucifix dangling between breasts. PLEASER RAPTURE-1020 black 8-inch boots. Private cell candlelit. Sensual undressing pose. Expression: shedding my vow. Convent strip. Seductive glamour photography, candlelight intimate lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Helena - Altar Sacrifice Pose
 
 ```text
-Professional altar photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair spread on altar stone. Pale porcelain white skin sacrificial. Full glossy blood red lips parted. Wearing BLACK sheer sacrificial gown. Lying on dark altar as willing sacrifice. Candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots at altar edge. Dark temple. Sensual sacrifice pose. Expression: take me. Altar sacrifice. Seductive glamour photography, ceremonial lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional altar photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on altar stone. Pale porcelain white skin sacrificial. Full glossy blood red lips parted. Wearing BLACK sheer sacrificial gown. Lying on dark altar as willing sacrifice. Candles surrounding. PLEASER RAPTURE-1020 black 8-inch boots at altar edge. Dark temple. Sensual sacrifice pose. Expression: take me. Altar sacrifice. Seductive glamour photography, ceremonial lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Dark Baptism Wet
 
 ```text
-Professional baptism photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair soaking wet. Pale porcelain white skin glistening. Full glossy nude lips. Wearing BLACK baptismal gown clinging wet and sheer. Emerging from dark baptismal pool. Water dripping. PLEASER RAPTURE-1020 black 8-inch boots in water. Dark cathedral pool. Sensual emergence pose. Expression: reborn in darkness. Dark baptism. Seductive glamour photography, underwater emergence lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baptism photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair soaking wet. Pale porcelain white skin glistening. Full glossy nude lips. Wearing BLACK baptismal gown clinging wet and sheer. Emerging from dark baptismal pool. Water dripping. PLEASER RAPTURE-1020 black 8-inch boots in water. Dark cathedral pool. Sensual emergence pose. Expression: reborn in darkness. Dark baptism. Seductive glamour photography, underwater emergence lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Helena - Temptress in Garden
 
 ```text
-Professional garden photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair wild with leaves. Pale porcelain white skin moonlit. Full glossy black lips seductive. Wearing BLACK serpent-patterned bodysuit. Holding apple offering to viewer. Serpent wrapped around arm. PLEASER RAPTURE-1020 black 8-inch boots in grass. Garden of Eden dark version. Sensual temptress pose. Expression: just one bite. Eve temptress. Seductive glamour photography, moonlit garden lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional garden photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with leaves. Pale porcelain white skin moonlit. Full glossy black lips seductive. Wearing BLACK serpent-patterned bodysuit. Holding apple offering to viewer. Serpent wrapped around arm. PLEASER RAPTURE-1020 black 8-inch boots in grass. Garden of Eden dark version. Sensual temptress pose. Expression: just one bite. Eve temptress. Seductive glamour photography, moonlit garden lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Gothic Communion
 
 ```text
-Professional communion photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ritual arrangement. Pale porcelain white skin holy pallor. Full glossy blood red lips stained. Wearing BLACK communion dress adult. Receiving dark communion, red wine on lips. Chalice held. PLEASER MOON-708 black 7-inch heels. Dark altar. Sensual communion pose. Expression: blood of my blood. Dark communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional communion photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual arrangement. Pale porcelain white skin holy pallor. Full glossy blood red lips stained. Wearing BLACK communion dress adult. Receiving dark communion, red wine on lips. Chalice held. PLEASER MOON-708 black 7-inch heels. Dark altar. Sensual communion pose. Expression: blood of my blood. Dark communion. Seductive glamour photography, altar candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Helena - Kneeling Penance
 
 ```text
-Professional penance photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair loose and penitent. Pale porcelain white skin humble. Full glossy wine lips prayer. Wearing BLACK lace penitent gown revealing. Kneeling on church stone floor, hands clasped. Prayer position provocative. PLEASER RAPTURE-1020 black 8-inch boots visible. Cathedral floor. Sensual penance pose. Expression: forgive my sins. Kneeling penance. Seductive glamour photography, shaft of light from window, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional penance photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose and penitent. Pale porcelain white skin humble. Full glossy wine lips prayer. Wearing BLACK lace penitent gown revealing. Kneeling on church stone floor, hands clasped. Prayer position provocative. PLEASER RAPTURE-1020 black 8-inch boots visible. Cathedral floor. Sensual penance pose. Expression: forgive my sins. Kneeling penance. Seductive glamour photography, shaft of light from window, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Demon Seduction
 
 ```text
-Professional demon photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair with small horns. Pale porcelain white skin hellfire glow. Full glossy crimson lips. Wearing RED and BLACK demon queen outfit revealing. Tail swishing seductively. Fire effects surrounding. PLEASER RAPTURE-1020 red 8-inch boots. Hell's boudoir. Sensual demon pose. Expression: sell me your soul. Demon queen. Seductive glamour photography, hellfire dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional demon photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with small horns. Pale porcelain white skin hellfire glow. Full glossy crimson lips. Wearing RED and BLACK demon queen outfit revealing. Tail swishing seductively. Fire effects surrounding. PLEASER RAPTURE-1020 red 8-inch boots. Hell's boudoir. Sensual demon pose. Expression: sell me your soul. Demon queen. Seductive glamour photography, hellfire dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Helena - Gothic Bride of Christ
 
 ```text
-Professional bride photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair under black veil. Pale porcelain white skin bridal. Full glossy wine lips. Wearing BLACK wedding gown nun-inspired. At altar as bride of the divine. Ring ceremony implied. PLEASER RAPTURE-1020 black 8-inch boots under gown. Dark cathedral. Sensual dark bride pose. Expression: married to darkness. Bride of Christ. Seductive glamour photography, ceremony candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bride photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black veil. Pale porcelain white skin bridal. Full glossy wine lips. Wearing BLACK wedding gown nun-inspired. At altar as bride of the divine. Ring ceremony implied. PLEASER RAPTURE-1020 black 8-inch boots under gown. Dark cathedral. Sensual dark bride pose. Expression: married to darkness. Bride of Christ. Seductive glamour photography, ceremony candlelight, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - Confessional Seduction
 
 ```text
-Professional confessional photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tumbling. Pale porcelain white skin confession glow. Full glossy red lips whispering. Wearing BLACK lace dress confession appropriate but revealing. Leaning through confessional screen seductively. PLEASER RAPTURE-1020 black 8-inch boots. Church confessional booth. Sensual whisper pose. Expression: my sins are many. Confessional seduction. Seductive glamour photography, confessional shadow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional confessional photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair tumbling. Pale porcelain white skin confession glow. Full glossy red lips whispering. Wearing BLACK lace dress confession appropriate but revealing. Leaning through confessional screen seductively. PLEASER RAPTURE-1020 black 8-inch boots. Church confessional booth. Sensual whisper pose. Expression: my sins are many. Confessional seduction. Seductive glamour photography, confessional shadow lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Helena - Fallen Angel Chains
 
 ```text
-Professional bondage photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair tangled in chains. Pale porcelain white skin marked. Full glossy black lips suffering. Wearing BLACK tattered angel gown with broken wings. Chained to dungeon wall like punished angel. PLEASER RAPTURE-1020 black 8-inch boots chained. Hell's dungeon. Sensual bound pose. Expression: punishment eternal. Chained angel. Seductive glamour photography, dungeon torch lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bondage photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair tangled in chains. Pale porcelain white skin marked. Full glossy black lips suffering. Wearing BLACK tattered angel gown with broken wings. Chained to dungeon wall like punished angel. PLEASER RAPTURE-1020 black 8-inch boots chained. Hell's dungeon. Sensual bound pose. Expression: punishment eternal. Chained angel. Seductive glamour photography, dungeon torch lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Ritual Circle
 
 ```text
-Professional occult photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair ritual wild. Pale porcelain white skin painted with symbols. Full glossy black lips chanting. Wearing BLACK ritual robe open revealing body. Standing in ritual circle drawn on floor. Candles at points. PLEASER RAPTURE-1020 black 8-inch boots in center. Ritual chamber. Sensual occult pose. Expression: the rite begins. Ritual circle. Seductive glamour photography, candlelit ritual lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual wild. Pale porcelain white skin painted with symbols. Full glossy black lips chanting. Wearing BLACK ritual robe open revealing body. Standing in ritual circle drawn on floor. Candles at points. PLEASER RAPTURE-1020 black 8-inch boots in center. Ritual chamber. Sensual occult pose. Expression: the rite begins. Ritual circle. Seductive glamour photography, candlelit ritual lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Helena - Church Organ Player
 
 ```text
-Professional organ photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin organ glow. Full glossy wine lips. Wearing BLACK gothic gown organist style. Playing massive church organ dramatically. Music sheets flying. PLEASER RAPTURE-1020 black 8-inch boots on pedals. Cathedral organ loft. Sensual dramatic pose. Expression: music of the damned. Organ player. Seductive glamour photography, organ pipe dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional organ photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin organ glow. Full glossy wine lips. Wearing BLACK gothic gown organist style. Playing massive church organ dramatically. Music sheets flying. PLEASER RAPTURE-1020 black 8-inch boots on pedals. Cathedral organ loft. Sensual dramatic pose. Expression: music of the damned. Organ player. Seductive glamour photography, organ pipe dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Stigmata Beauty
 
 ```text
-Professional stigmata photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin with artistic blood on palms. Full glossy blood red lips ecstatic. Wearing WHITE gown stained with red. Displaying stigmata wounds on hands, ecstatic expression. PLEASER MOON-708 white 7-inch heels. Cathedral floor. Sensual religious ecstasy pose. Expression: divine wounds. Stigmata. Seductive glamour photography, holy light dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stigmata photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin with artistic blood on palms. Full glossy blood red lips ecstatic. Wearing WHITE gown stained with red. Displaying stigmata wounds on hands, ecstatic expression. PLEASER MOON-708 white 7-inch heels. Cathedral floor. Sensual religious ecstasy pose. Expression: divine wounds. Stigmata. Seductive glamour photography, holy light dramatic lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Helena - Cemetery Angel Statue
 
 ```text
-Professional cemetery photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair stone effect. Pale porcelain white skin statue gray. Full glossy gray lips stone. Wearing stone-colored gown as living cemetery angel statue. Wings stone texture. Frozen statue pose on grave. PLEASER MOON-708 gray stone 7-inch heels. Victorian cemetery. Sensual statue pose. Expression: eternal mourning. Cemetery angel. Seductive glamour photography, foggy cemetery lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cemetery photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair stone effect. Pale porcelain white skin statue gray. Full glossy gray lips stone. Wearing stone-colored gown as living cemetery angel statue. Wings stone texture. Frozen statue pose on grave. PLEASER MOON-708 gray stone 7-inch heels. Victorian cemetery. Sensual statue pose. Expression: eternal mourning. Cemetery angel. Seductive glamour photography, foggy cemetery lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Dark Benediction
 
 ```text
-Professional blessing photography of young elegant goth glamour woman inspired by Sacha Massacre. Voluminous jet black hair flowing mysteriously. Pale porcelain white skin ethereal. Full glossy black lips blessing. Wearing BLACK priestess robes revealing. Hands raised in dark blessing over viewer. Eyes glowing subtle. PLEASER RAPTURE-1020 black 8-inch boots. Dark altar. Sensual blessing pose. Expression: I bless you in darkness. Dark blessing. Seductive glamour photography, mystical dark lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional blessing photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing mysteriously. Pale porcelain white skin ethereal. Full glossy black lips blessing. Wearing BLACK priestess robes revealing. Hands raised in dark blessing over viewer. Eyes glowing subtle. PLEASER RAPTURE-1020 black 8-inch boots. Dark altar. Sensual blessing pose. Expression: I bless you in darkness. Dark blessing. Seductive glamour photography, mystical dark lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -471,91 +471,91 @@ Professional blessing photography of young elegant goth glamour woman inspired b
 ### Prompt 35: 66. Miss Doll - Pink Angel Lingerie
 
 ```text
-Professional angel photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin heavenly glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK angel lingerie with small wings. Halo above head glowing. PLEASER FLAMINGO-808 white 8-inch platform heels. Cloud backdrop. Sensual heaven pose. Expression: heaven's gift. Angel lingerie. Seductive glamour photography, soft divine lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional angel photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin heavenly glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK angel lingerie with small wings. Halo above head glowing. PLEASER FLAMINGO-808 white 8-inch platform heels. Cloud backdrop. Sensual heaven pose. Expression: heaven's gift. Angel lingerie. Seductive glamour photography, soft divine lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Miss Doll - Naughty Nun Confession
 
 ```text
-Professional confessional photography of glamorous woman with platinum blonde bob (no bangs) under pink veil. Flawless porcelain skin confessing. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK modified nun outfit revealing. In confessional booth, revealing sins. PLEASER FLAMINGO-808 pink 8-inch platform heels. Confessional interior. Sensual confession pose. Expression: I have sinned. Pink nun confession. Seductive glamour photography, confessional lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional confessional photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) under pink veil. Flawless porcelain skin confessing. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK modified nun outfit revealing. In confessional booth, revealing sins. PLEASER FLAMINGO-808 pink 8-inch platform heels. Confessional interior. Sensual confession pose. Expression: I have sinned. Pink nun confession. Seductive glamour photography, confessional lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Miss Doll - Cherub Valentine
 
 ```text
-Professional cherub photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini toga cherub style, small wings. Bow with heart arrows. Hearts floating around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud hearts backdrop. Sensual cupid pose. Expression: aim at your heart. Valentine cherub. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cherub photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin cherubic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with hearts, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK mini toga cherub style, small wings. Bow with heart arrows. Hearts floating around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Cloud hearts backdrop. Sensual cupid pose. Expression: aim at your heart. Valentine cherub. Seductive glamour photography, romantic pink lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Miss Doll - Church Wedding Fantasy
 
 ```text
-Professional wedding photography of glamorous woman with platinum blonde bob (no bangs) under veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK wedding gown extravagant. At church altar with stained glass. Bouquet of pink roses. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wedding photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) under veil. Flawless porcelain skin bridal glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes bridal, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK wedding gown extravagant. At church altar with stained glass. Bouquet of pink roses. PLEASER FLAMINGO-808 white 8-inch platform heels. Cathedral wedding. Sensual bride pose. Expression: I do. Church bride. Seductive glamour photography, wedding ceremony lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - Pink Devil Party
 
 ```text
-Professional party photography of glamorous woman with platinum blonde bob (no bangs) with pink horns. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic RED smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil party costume cute and sexy. Pink pitchfork. Party atmosphere. PLEASER FLAMINGO-808 red 8-inch platform heels. Halloween party. Sensual cute devil pose. Expression: naughty not evil. Pink devil. Seductive glamour photography, party red lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional party photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with pink horns. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic RED smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK devil party costume cute and sexy. Pink pitchfork. Party atmosphere. PLEASER FLAMINGO-808 red 8-inch platform heels. Halloween party. Sensual cute devil pose. Expression: naughty not evil. Pink devil. Seductive glamour photography, party red lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Miss Doll - Heavenly Pole Dance
 
 ```text
-Professional pole photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin stage glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK angel dancer outfit. Small wings. Dancing on gold pole. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven-themed club. Sensual pole pose. Expression: dancing for heaven. Angel pole. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin stage glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK angel dancer outfit. Small wings. Dancing on gold pole. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven-themed club. Sensual pole pose. Expression: dancing for heaven. Angel pole. Seductive glamour photography, stage spotlight lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Miss Doll - Pink Votive Candles
 
 ```text
-Professional prayer photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin candlelit. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK chapel dress short. Lighting pink votive candle. Many candles glowing around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church votive area. Sensual prayer pose. Expression: prayers for love. Votive prayer. Seductive glamour photography, candlelight warm lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional prayer photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin candlelit. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK chapel dress short. Lighting pink votive candle. Many candles glowing around. PLEASER FLAMINGO-808 pink 8-inch platform heels. Church votive area. Sensual prayer pose. Expression: prayers for love. Votive prayer. Seductive glamour photography, candlelight warm lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Miss Doll - Goddess Venus
 
 ```text
-Professional goddess photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK and GOLD Venus goddess draping minimal. Emerging from seashell like Botticelli painting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Ocean backdrop. Sensual goddess pose. Expression: goddess of love. Venus. Seductive glamour photography, renaissance divine lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional goddess photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin divine. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes GOLD, thick winged eyeliner, long false lashes, arched brows, full glossy CORAL lips. Human realistic face. Wearing PINK and GOLD Venus goddess draping minimal. Emerging from seashell like Botticelli painting. PLEASER FLAMINGO-808 gold 8-inch platform heels. Ocean backdrop. Sensual goddess pose. Expression: goddess of love. Venus. Seductive glamour photography, renaissance divine lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Miss Doll - Pink Holy Water
 
 ```text
-Professional blessing photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin wet with droplets. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE gown splashed with holy water becoming sheer. Blessing herself with holy water. PLEASER FLAMINGO-808 clear 8-inch platform heels. Church font. Sensual blessing pose. Expression: blessed and pure. Holy water. Seductive glamour photography, water droplet lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional blessing photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin wet with droplets. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE gown splashed with holy water becoming sheer. Blessing herself with holy water. PLEASER FLAMINGO-808 clear 8-inch platform heels. Church font. Sensual blessing pose. Expression: blessed and pure. Holy water. Seductive glamour photography, water droplet lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Miss Doll - Pink Choir Robe Strip
 
 ```text
-Professional choir photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin choir glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK choir robe being opened to reveal lingerie. Music sheet dropping. PLEASER FLAMINGO-808 pink 8-inch platform heels. Choir loft. Sensual reveal pose. Expression: after practice. Choir strip. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional choir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin choir glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK choir robe being opened to reveal lingerie. Music sheet dropping. PLEASER FLAMINGO-808 pink 8-inch platform heels. Choir loft. Sensual reveal pose. Expression: after practice. Choir strip. Seductive glamour photography, stained glass lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Miss Doll - Easter Bunny Angel
 
 ```text
-Professional Easter photography of glamorous woman with platinum blonde bob (no bangs) with bunny ears halo combo. Flawless porcelain skin springtime. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes pastel, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bunny angel costume. Easter basket with eggs. Wings and ears. PLEASER FLAMINGO-808 white 8-inch platform heels. Spring garden. Sensual Easter pose. Expression: Easter blessings. Bunny angel. Seductive glamour photography, spring pastel lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Easter photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with bunny ears halo combo. Flawless porcelain skin springtime. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes pastel, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK bunny angel costume. Easter basket with eggs. Wings and ears. PLEASER FLAMINGO-808 white 8-inch platform heels. Spring garden. Sensual Easter pose. Expression: Easter blessings. Bunny angel. Seductive glamour photography, spring pastel lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Miss Doll - Pink Halo Selfie
 
 ```text
-Professional selfie photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin ring light. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK angel outfit casual. Taking selfie with halo ring light effect behind head. Small wings. PLEASER FLAMINGO-808 pink 8-inch platform heels. Influencer backdrop. Sensual selfie pose. Expression: angel vibes. Halo selfie. Seductive glamour photography, ring light halo lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional selfie photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin ring light. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK angel outfit casual. Taking selfie with halo ring light effect behind head. Small wings. PLEASER FLAMINGO-808 pink 8-inch platform heels. Influencer backdrop. Sensual selfie pose. Expression: angel vibes. Halo selfie. Seductive glamour photography, ring light halo lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Miss Doll - Pink Rosary Tease
 
 ```text
-Professional rosary photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin rosary glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK lace lingerie. PINK crystal rosary beads draped decoratively over body. Crucifix pendant between cleavage. PLEASER FLAMINGO-808 pink 8-inch platform heels. Boudoir setting. Sensual rosary pose. Expression: praying for you. Rosary tease. Seductive glamour photography, soft religious lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rosary photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin rosary glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK lace lingerie. PINK crystal rosary beads draped decoratively over body. Crucifix pendant between cleavage. PLEASER FLAMINGO-808 pink 8-inch platform heels. Boudoir setting. Sensual rosary pose. Expression: praying for you. Rosary tease. Seductive glamour photography, soft religious lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Miss Doll - Guardian Angel Dreams
 
 ```text
-Professional guardian photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK guardian angel nightgown. Watching over sleeping figure (implied, not shown). Wings spread protectively. PLEASER FLAMINGO-808 white 8-inch platform heels hovering. Bedroom nighttime. Sensual guardian pose. Expression: watching over you. Guardian angel. Seductive glamour photography, moonlight ethereal lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional guardian photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes soft, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE and PINK guardian angel nightgown. Watching over sleeping figure (implied, not shown). Wings spread protectively. PLEASER FLAMINGO-808 white 8-inch platform heels hovering. Bedroom nighttime. Sensual guardian pose. Expression: watching over you. Guardian angel. Seductive glamour photography, moonlight ethereal lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Miss Doll - Heavenly Spa
 
 ```text
-Professional spa photography of glamorous woman with platinum blonde bob (no bangs). Flawless porcelain skin spa glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes relaxed, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE spa robe angel-themed. In cloud-like bubble bath. Halo and mini wings. PLEASER FLAMINGO-808 pink 8-inch platform heels beside tub. Heaven spa. Sensual relaxation pose. Expression: heavenly pamper. Heaven spa. Seductive glamour photography, soft spa lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spa photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin spa glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes relaxed, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE spa robe angel-themed. In cloud-like bubble bath. Halo and mini wings. PLEASER FLAMINGO-808 pink 8-inch platform heels beside tub. Heaven spa. Sensual relaxation pose. Expression: heavenly pamper. Heaven spa. Seductive glamour photography, soft spa lighting, religious aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
@@ -691,3 +691,5 @@ Professional wedding duo photography. HELENA: Sacha Massacre look, BLACK wedding
 *Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
 *Actualizado: 2026-01-09*
+
+
