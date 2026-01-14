@@ -238,14 +238,31 @@ Pero también sintió algo más. Algo que no esperaba. Algo negro y profundo que
 Alivio.
 
 Marcus no la reconocía. Marcus no veía a Daniel. Marcus veía exactamente lo que ella era ahora: una Decoración. Un recurso estético. Algo sin pasado, sin máster, sin siete años de antigüedad, sin gato, sin ex-mujer, sin deudas de estudios, sin miedo a los lunes.
-
 —Buenos días, señor Webb —dijo Dahlia. Y su voz era perfecta. Suave. Sumisa. Musical. Todo lo que Aura y Crystal y la instructora holográfica le habían enseñado—. Soy Dahlia. Su nueva Asistente de Presencia Ejecutiva.
 
 Marcus se reclinó en su silla. La miró como quien mira un coche nuevo en el concesionario, decidiendo si el color le gusta.
 
-—Hola, Dahlia. Llegas justo a tiempo. Este lugar es un caos. —Señaló hacia la taza vacía en su escritorio—. Tráeme un café. Solo, sin azúcar. Y sonríe un poco, ¿quieres? El ambiente está muy tenso hoy.
-
-Dahlia miró la taza.
+—Hola, Dahlia. Llegas justo a tiempo. Este lugar es un caos. —Señaló hacia la taza vacía en su escritorio—. Tráeme un café. Solo, sin azúcar.
+ 
+ Se detuvo. Sus ojos bajaron de nuevo a las piernas de Dahlia. A la curva de sus caderas enfundadas en látex. A la entrepierna lisa y ambigua que el vestido tubo exhibía y ocultaba al mismo tiempo.
+ 
+ —Y arrodíllate para servirlo —añadió, su voz bajando una octava—. Me gusta ver... la eficiencia desde ese ángulo.
+ 
+ Dahlia sintió que el aire se le escapaba.
+ 
+ Arrodillarse.
+ 
+ Como en el entrenamiento. Como con los hologramas.
+ 
+ *Uno. Dos. Succión.*
+ 
+ El recuerdo de la silicona tibia en su boca golpeó su mente como un flashazo. Sus labios hormiguearon. Su boca se llenó de saliva. No de hambre. De... condicionamiento.
+ 
+ Su cuerpo *quería* arrodillarse.
+ 
+ ---
+ 
+ Dahlia miró la taza.
 
 Era SU antigua taza. La que decía "World's Okayest Analyst" en letras azules. La que Daniel había comprado en Amazon hace tres años como un chiste auto-deprecatorio. La que Marcus había heredado cuando Daniel "desapareció".
 
