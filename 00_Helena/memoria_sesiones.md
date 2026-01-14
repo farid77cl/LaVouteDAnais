@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | HR: Human Repurposing |
 | **Ubicación** | `03_Literatura/en_progreso/hr_human_repurposing/` |
-| **Fase del Ritual** | ✅ Capítulo 2 Reescrito (Blackout Horror) |
-| **Capítulo en Progreso** | Capítulo 3 (Pendiente escritura) |
-| **Última Decisión** | Reescritura Cap 2 con fragmentación temporal y tono claustrofóbico |
+| **Fase del Ritual** | ✅ Cap 2 Reescrito (Claustrofóbico) |
+| **Capítulo en Progreso** | Capítulo 3 (Pendiente escritura - Con directivas sexuales) |
+| **Última Decisión** | Incluir entrenamiento sexual explícito y uso de orificios en futuras revisiones |
 
 ### Proyectos Secundarios/Pausados
 

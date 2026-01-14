@@ -89,4 +89,29 @@ El Capítulo 2 debe transmitir:
 
 ---
 
+## Feedback Adicional: Citas Manual NEXUM (14/01/2026 - 15:30)
+
+14. **Intercalación de Citas:**
+    *   El usuario solicita **MÁS citas del Manual del Empleado NEXUM** intercaladas en el texto.
+    *   No deben ser solo epígrafes al principio/final, sino aparecer como pensamientos intrusivos o proyecciones de AURA durante el capítulo.
+    *   Efecto: Reforzar el adoctrinamiento y romper el flujo narrativo (aumentando la desorientación).
+
+---
+
+## Feedback Crítico: Sexo & Entrenamiento (14/01/2026 - 15:45)
+
+15. **Entrenamiento Sexual (Cambio de Tono):**
+    *   **Directiva:** El relato es ERÓTICO, debe haber sexo explícito o entrenamiento para ello.
+    *   **Implementación en Cap 2:**
+        *   Agregar clases de "Complacencia Ejecutiva" o similar.
+        *   Instrucción sobre cómo usar la boca, las manos, el cuerpo para dar placer.
+        *   Uso de "juguetes" o simuladores durante el entrenamiento.
+    
+16. **Dominancia a través del Sexo:**
+    *   La dominancia de NEXUM/La Familia se demuestra usando a Dahlia sexualmente.
+    *   Tratarla como un objeto sexual (uso de orificios) es la forma final de objetificación.
+    *   Eliminar la ambigüedad: las Decoraciones están ahí para *servir* en todos los sentidos.
+
+---
+
 *Guardado para futura reescritura.*

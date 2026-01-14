@@ -1,4 +1,42 @@
-﻿#### SESIÓN - 13 ENERO 2026: BANNERS STRIPS + CORRECCIÓN FILTROS EDAD
+﻿#### SESIÓN - 14 ENERO 2026: SABRINA AESTHETIC & HR REWRITE
+
+**MAÑANA (09:20) - EXPANSIÓN VISUAL MISS DOLL (V54):**
+
+Creación de nuevo banco de prompts y generación visual temática:
+
+- **Creado Banco V54:** `banco_prompts_v54_sabrina_sweet.md` (50 prompts).
+  - Estética: Sabrina Carpenter "Short n Sweet" (Pasteles, corsets, 60s hair, besos).
+  - Calzado: Modificado a **PLEASER stiletto heels 7-9 inches** (en lugar de chunky original).
+- **Imágenes Generadas (6 Miss Doll + 1 Helena):**
+  - Miss Doll: Pink Babydoll, Sequin Disco, Kiss Mark V2, Red Velvet, Baby Blue Bow, Lilac Dream.
+  - Helena: V48 Noir Rain (Sin City stye).
+  - **Walkthrough:** Actualizado con carruseles de todas las nuevas imágenes.
+
+**MAÑANA (09:45) - REESCRITURA TOTAL HR CAPÍTULO 2:**
+
+Ejecución de reescritura mayor para aumentar la claustrofobia:
+
+- **Técnica "Flujo Claustrofóbico":** Eliminados todos los encabezados de sección. El texto fluye sin pausas visuales.
+- **Fragmentación Temporal:** Mezcla de días/eventos sin transición explícita para desorientar al lector (y a Daniel).
+- **Localización Chilena:** Integrada en `preferencias_escritura.md` (Voseo, referencias geográficas locales como Vitacura/Costanera).
+- **Archivos:** `capitulo_02.md` reescrito completamente.
+
+**MAÑANA (11:00) - DEFINICIÓN DE TONO SEXUAL (HR):**
+
+Ajuste crítico de dirección creativa para "HR: Human Repurposing":
+
+- **Consulta:** ¿Hay sexo explícito? -> Respuesta inicial: No (Erotic Horror).
+- **Nueva Directiva:** El usuario ordena **INCLUIR entrenamiento sexual y uso explícito**.
+- **Acción:**
+  - Actualizado `notas_revision_cap2.md` con instrucción de agregar clases de "Complacencia Ejecutiva" y uso sexual de Dahlia.
+  - Creado `notas_revision_cap3.md` con foco en cambios físicos viscerales y citas inmersivas del Manual NEXUM.
+- **Resultado:** El relato pivotará hacia un erotismo más explícito y humillante en la próxima revisión.
+
+**Git:** Commits realizados (`71d1983` y siguientes).
+
+---
+
+#### SESIÓN - 13 ENERO 2026: BANNERS STRIPS + CORRECCIÓN FILTROS EDAD
 
 **TARDE (15:00-15:35) - BANNERS HORIZONTALES STRIPS:**
 
