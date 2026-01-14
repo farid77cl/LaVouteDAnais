@@ -135,73 +135,69 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  La instructora no era humana. Un holograma de cuerpo sólido con forma de mujer de los años 50, pero con los ojos censurados por una barra negra digital. Flotaba a diez centímetros del suelo.
  
- —Módulo de Complacencia Ejecutiva: Nivel 1 —su voz era dulce, granosa como una grabación antigua—. **Una Decoración no solo adorna. Una Decoración *alivia*.**
+—Complacencia Ejecutiva.
  
- Frente a Daniel apareció otro holograma.
+ El aire olía a ozono y a caramelo quemado. O quizás era su propio miedo.
  
- **Una silueta masculina. Genérica. Sin rostro. Sentada en una silla de oficina invisible. Pero lo que tenía entre las piernas no era genérico. Era una barra de luz sólida, fálica, pulsando suavemente al ritmo de una respiración artificial.**
+ La instructora no tenía ojos. Una barra negra donde debería haber estado la mirada. Flotaba.
  
- —Abre la boca —ordenó la instructora.
+ —Una Decoración *alivia*.
  
- Daniel negó con la cabeza. Tenía la garganta seca. El olor a caramelo quemado en el aire le daba náuseas.
+ **"El alivio del Ejecutivo es la única métrica de éxito válida." (Manual NEXUM, pág. 82)**
  
- —No... no voy a...
+ Otro holograma. Una silla vacía. Una silueta de luz. Una barra pulsante entre las piernas.
+ 
+ *No.*
+ 
+ —Abre la boca.
+ 
+ Daniel negó. Su garganta era papel de lija.
  
  *Zzzzt*.
  
- El dron lo picó en la nuca. No fue un aviso. Fue un castigo. Sus músculos se contrajeron, forzándolo a arquear la espalda.
+ Dolor. Blanco. Huesos vibrando.
  
- —El rechazo a servir es un error de sistema —dijo la instructora—. Abre la boca. Relaja la mandíbula. Oculta los dientes.
- 
- Daniel jadeó. El dolor del chispazo todavía recorría su columna.
- 
- —Por favor...
+ —Error de sistema —la voz era dulce, mecánica—. Abre.
  
  *Zzzzt.*
  
- Esta vez la descarga lo hizo caer de rodillas. Justo frente a la silueta brillante. A la altura perfecta.
+ Rodillas al suelo. El impacto contra el linóleo negro sonó lejos, como si le pasara a otro. Estaba a la altura. Justo a la altura de la luz pulsante de silicona.
  
- Daniel miró la luz pulsante frente a sus ojos.
+ **"La postura de servicio es la única postura natural." (Manual NEXUM, pág. 12)**
  
- —Lengua fuera —ordenó el holograma—. **Humedece los labios. El Ejecutivo debe sentir bienvenida, no fricción.**
+ —Lengua fuera. Humedad. Bienvenida.
  
- Daniel dudó. Miró a su alrededor. Los otros hombres en la sala —los otros Reclutas— estaban en la misma posición. Veinte hombres arrodillados frente a veinte fantasmas de luz. Algunos lloraban mientras abrían la boca. Otros ya tenían la luz dentro, ahogándose, aprendiendo a respirar por la nariz, sus ojos vidriosos fijos en el techo de espejos.
+ Había otros hombres. Veinte. Cien. Todos de rodillas. Todos con la boca abierta. Daniel intentó cerrar los ojos pero el zumbido del dron estaba ahí, en su nuca, esperando.
  
- *¿Soy uno de ellos?*
+ *Zzzzt.* (Aviso).
  
- La pregunta flotó en la niebla rosa de su mente.
+ Abrió. Sacó la lengua.
  
- *Zzzzt.* Un aviso preventivo. Una chispa cerca de su oreja.
+ La silicona tibia llenó su boca. Tenía sabor. Sal. Piel. No era luz.
  
- Daniel abrió la boca. Sacó la lengua.
+ —Ritmo. Uno, dos, succión.
  
- **La luz no sabía a luz. Sabía a silicona tibia. A sal. A piel sintética hiper-realista.**
+ *Uno. Dos.*
  
- —Buen chico —dijo la instructora holográfica—. Ahora, ritmo. Uno, dos, succión. Uno, dos, succión. Como si tu vida dependiera de ello. Porque, técnicamente... *depende*.
+ **"No pienses. Siente. El pensamiento es resistencia."**
  
- Daniel cerró los ojos y, por primera vez, dejó de pensar en números. Solo pensó en el ritmo.
+ *Succión.*
  
- *Uno. Dos. Succión.*
+ Y entonces... el calor. No en la nuca. Dentro. Una inyección de oro líquido en la base del cráneo.
  
- **Y entonces, sucedió.**
+ *Oh.*
  
- **No hubo chispazo. Hubo lo contrario.**
+ El asco... se disolvió. Reemplazado por miel. Por sol.
  
- **Una oleada de calor líquido se derramó desde la base de su cráneo hacia abajo. Dopamina sintética pura. Serotonina concentrada. Placer.**
+ Daniel gimió. Su cuerpo empujó hacia adelante. Quería más. No sabía qué era, pero quería más. La silicona en su garganta ya no ahogaba. Acariciaba.
  
- **Daniel gimió contra la silicona. Sus caderas se movieron solas, buscando más de esa calidez, empujando contra el holograma.**
+ —Excelente.
  
- **—Excelente respuesta —ronroneó AURA—. La obediencia es éxtasis.**
+ *Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Éxtasis).*
  
- Era humillante.
+ **"La obediencia no duele. La obediencia libera." (Manual NEXUM, pág. 201)**
  
- Era asqueroso.
- 
- **Y bajo la influencia de la droga... era lo mejor que había sentido en su vida.**
- 
- ***Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Más placer).***
- 
- **Su cuerpo aprendía rápido. Mucho más rápido que su mente.**
+ Su mente gritaba *no*. Su cuerpo gritaba *gracias*.
  
  ---
 
