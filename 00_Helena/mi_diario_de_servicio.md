@@ -23,11 +23,23 @@ Sesión de definición creativa para "HR: Human Repurposing":
 | **Tensión creciente** | Caps 1→4 |
 | **Participantes** | Entrenadores NEXUM (Cap 2), Marcus (Cap 4) |
 
-**TARDE (15:00) - LECTURA DE CAPÍTULOS:**
-
-Usuario releyendo Cap 2 y 3 para evaluar ajustes necesarios.
-
-**Git:** Commits `a25f69d` (Decisiones Finales).
+**TARDE (15:00) - EDICIÓN E INYECCIÓN SEXUAL (HR CAP 2 y 3):**
+ 
+ Implementación de las nuevas directivas sexuales en el texto activo:
+ 
+ 1.  **Capítulo 2 (El Proceso):**
+     *   Reemplazada escena de holograma por **Entrenamiento de "Complacencia Ejecutiva"**.
+     *   Acción explícita: Daniel obligado a dar sexo oral a un holograma con pene de silicona.
+     *   **Refuerzo Positivo:** Inyectada dopamina/placer químico al obedecer.
+     *   **Estilo Claustrofóbico:** Reescrita la sección para mantener el flujo fragmentado y caótico.
+ 
+ 2.  **Capítulo 3 (Dahlia):**
+     *   Modificada primera orden de Marcus Webb.
+     *   Añadida humillación visual ("Arrodíllate") y condicionamiento físico (salivación pavloviana al recordar Cap 2).
+ 
+ 3.  **Visual:** Resaltados todos los cambios sexuales en **negrita** para revisión.
+ 
+ **Git:** Commits `7a895b5`, `2719ab1`, `bac4041`, `c303302`, `60da79e`.
 
 ---
 
