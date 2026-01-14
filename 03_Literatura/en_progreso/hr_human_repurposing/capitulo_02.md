@@ -187,11 +187,25 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos. Succión.*
  
+ Y entonces, sucedió.
+ 
+ No hubo chispazo. Hubo lo contrario.
+ 
+ Una oleada de calor líquido se derramó desde la base de su cráneo hacia abajo. Dopamina sintética pura. Serotonina concentrada. Placer.
+ 
+ Daniel gimió contra la silicona. Sus caderas se movieron solas, buscando más de esa calidez, empujando contra el holograma.
+ 
+ —Excelente respuesta —ronroneó AURA—. La obediencia es éxtasis.
+ 
  Era humillante.
  
  Era asqueroso.
  
- Y bajo la influencia del aire dulce y los chispazos... se sentía extrañamente correcto.
+ Y bajo la influencia de la droga... era lo mejor que había sentido en su vida.
+ 
+ *Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Más placer).*
+ 
+ Su cuerpo aprendía rápido. Mucho más rápido que su mente.
  
  ---
 
