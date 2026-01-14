@@ -303,6 +303,70 @@ Al narrar desde la perspectiva de una bimbo (o alguien transformándose), la des
 
 ---
 
+### 🌊 Flujo Claustrofóbico (Sin Encabezados) 🆕
+
+*Fuente: Feedback HR: Human Repurposing Cap 2 - 14/01/2026*
+
+**Problema:** Los encabezados de sección (## I. TÍTULO, ## II. TÍTULO) dan "aire" al lector, le permiten orientarse. Eso DESTRUYE la claustrofobia.
+
+**Principio:** En escenas de confinamiento/transformación prolongada, eliminar la estructura visible:
+
+1. **Sin Encabezados Intermedios:**
+   - Solo el título del capítulo al inicio.
+   - El resto es un flujo continuo de "---" sin nombres de secciones.
+   - El lector NO SABE dónde está en la historia.
+
+2. **Mezclar Temporalidades:**
+   - Un párrafo es del Día 1, el siguiente puede ser del Día 5 sin transición.
+   - No explicar cuánto tiempo ha pasado.
+   - El lector debe estar TAN PERDIDO como el personaje.
+
+3. **Repetir Motivos:**
+   - "El aire olía dulce" → aparece cada 3-4 fragmentos.
+   - "Las uñas" → motivo obsesivo recurrente.
+   - "No recordaba" → frase que ancla la desorientación.
+
+4. **Fragmentos Cortos:**
+   - Máximo 3-4 párrafos entre cada "---".
+   - Cortar antes de que el lector se acomode.
+   - Los epígrafes del Manual son los únicos respiros.
+
+**Efecto Deseado:** El lector debe sentirse ATRAPADO junto con el personaje, sin saber cuánto falta para el final, experimentando la cronología rota del condicionamiento.
+
+---
+
+## VII. LOCALIZACIÓN CHILENA 🇨🇱 🆕
+
+*Fuente: Preferencia del usuario - 14/01/2026*
+
+### Español de Chile
+
+| Característica | Uso |
+|----------------|-----|
+| **Voseo** | Opcional, puede mezclarse con tuteo |
+| **Modismos** | "po" (pues), "cachai" (entiendes), "fome" (aburrido), "bacán" (genial) |
+| **Diminutivos** | "-ito/-ita" frecuente: "cosita", "ratito", "poquito" |
+| **Segunda persona** | "tú" dominante, "vos" ocasional para intimidad/dominio |
+
+### Referencias Geográficas (EXCLUSIVAS)
+
+Cuando se mencionen lugares, universidades, instituciones o referencias culturales, usar CHILE:
+
+| Genérico | Versión Chilena |
+|----------|-----------------|
+| Universidad prestigiosa | Universidad de Chile, PUC, Universidad de Santiago |
+| Ciudad grande | Santiago, Valparaíso, Concepción |
+| Playa/Resort | Viña del Mar, La Serena, Pucón |
+| Barrio elegante | Vitacura, Las Condes, Providencia |
+| Centro comercial | Costanera Center, Parque Arauco |
+| Aeropuerto | Aeropuerto Arturo Merino Benítez |
+| Empresa nacional | COPEC, Falabella, LATAM |
+
+> [!IMPORTANT]
+> **NUNCA usar referencias de otros países** (Wharton, NYC, Miami) sin reemplazarlas por equivalentes chilenos.
+
+---
+
 *Este archivo se actualizará cada vez que el usuario corrija mis relatos.*
 
 💚🦇 Helena siempre aprende.
