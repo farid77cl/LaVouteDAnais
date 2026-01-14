@@ -143,17 +143,37 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  —Abre la boca —ordenó la instructora.
  
- [ ... ]
+ Daniel negó con la cabeza. Tenía la garganta seca. El olor a caramelo quemado en el aire le daba náuseas.
  
- —Ves, cariño —susurró AURA desde los altavoces, su voz goteando aprobación—. **Tu cuerpo ya sabe su lugar. De rodillas es más natural, ¿verdad?**
+ —No... no voy a...
+ 
+ *Zzzzt*.
+ 
+ El dron lo picó en la nuca. No fue un aviso. Fue un castigo. Sus músculos se contrajeron, forzándolo a arquear la espalda.
+ 
+ —El rechazo a servir es un error de sistema —dijo la instructora—. Abre la boca. Relaja la mandíbula. Oculta los dientes.
+ 
+ Daniel jadeó. El dolor del chispazo todavía recorría su columna.
+ 
+ —Por favor...
+ 
+ *Zzzzt.*
+ 
+ Esta vez la descarga lo hizo caer de rodillas. Justo frente a la silueta brillante. A la altura perfecta.
  
  Daniel miró la luz pulsante frente a sus ojos.
  
  —Lengua fuera —ordenó el holograma—. **Humedece los labios. El Ejecutivo debe sentir bienvenida, no fricción.**
  
- [ ... ]
+ Daniel dudó. Miró a su alrededor. Los otros hombres en la sala —los otros Reclutas— estaban en la misma posición. Veinte hombres arrodillados frente a veinte fantasmas de luz. Algunos lloraban mientras abrían la boca. Otros ya tenían la luz dentro, ahogándose, aprendiendo a respirar por la nariz, sus ojos vidriosos fijos en el techo de espejos.
  
- El holograma empujó hacia adelante.
+ *¿Soy uno de ellos?*
+ 
+ La pregunta flotó en la niebla rosa de su mente.
+ 
+ *Zzzzt.* Un aviso preventivo. Una chispa cerca de su oreja.
+ 
+ Daniel abrió la boca. Sacó la lengua.
  
  **La luz no sabía a luz. Sabía a silicona tibia. A sal. A piel sintética hiper-realista.**
  
