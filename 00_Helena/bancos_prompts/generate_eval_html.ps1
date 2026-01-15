@@ -41,12 +41,12 @@ $htmlTemplate = @'
         <div class="stat"><span class="stat-dot" style="background: var(--red)"></span> Malo: <span id="count-malo">0</span></div>
         <div class="stat"><span class="stat-dot" style="background: #666"></span> Rechazado: <span id="count-rechazado">0</span></div>
         <div class="stat">Sin evaluar: <span id="count-pending">0</span></div>
-        <button class="copy-btn" style="margin-left: auto; background: var(--pink);" onclick="exportEvals()">📤 Exportar</button>
+        <button class="copy-btn" style="margin-left: auto; background: var(--pink);" onclick="exportEvals()">[Exportar]</button>
     </div>
     <div id="export-box" style="display: none; background: var(--card); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
-        <p style="margin-bottom: 10px;">📋 Copia este texto y pégalo a Helena:</p>
+        <p style="margin-bottom: 10px;">Copia este texto y pegalo a Helena:</p>
         <textarea id="export-text" style="width: 100%; height: 150px; background: #0d1117; color: var(--text); border: 1px solid var(--border); border-radius: 4px; padding: 10px; font-family: monospace;" readonly></textarea>
-        <button class="copy-btn" style="margin-top: 10px;" onclick="copyExport()">📋 Copiar</button>
+        <button class="copy-btn" style="margin-top: 10px;" onclick="copyExport()">[Copiar]</button>
     </div>
     <div id="prompts"></div>
     <script>
@@ -128,6 +128,9 @@ Get-ChildItem -Path $bancoPath -Filter "banco_prompts_v*.md" | ForEach-Object {
             text = $text
         }
     }
+    
+    # Ordenar prompts por ID
+    $prompts = $prompts | Sort-Object { $_.id }
     
     if ($prompts.Count -eq 0) {
         Write-Host "SKIP: $($mdFile.Name) - No prompts found"
