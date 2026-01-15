@@ -206,7 +206,7 @@
 | **Total Bancos** | 36 (V01-V32, V48-V54) |
 | **Total Prompts** | ~2,450+ |
 | **Imágenes Helena** | 171 (Looks 1-21) |
-| **Último Look** | **29 - Moonlit Siren** (14/01/2026) |
+| **Último Look** | **30 - Poolside Noir** (15/01/2026) |
 
 ---
 

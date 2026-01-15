@@ -526,3 +526,12 @@ Set expl√cito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de ho
 
 *Rotaci√≥n 2 creada por Helena de Ana√Øs - 13/01/2026*
 
+
+### Look 30: Poolside Noir (Goth Summer)
+- **Est√tica:** GÛtica en vacaciones. Piel p√°lida mortal contrastando con el sol. Glamour de piscina siniestra.
+- **Cors√:** Ba√ador de una pieza estilo cors√ de l√°tex negro brillante (Vex Clothing), corte alto en caderas, varillas visibles.
+- **Bottom:** Pareo de gasa negra transparente atado a la cintura (opcional).
+- **Calzado:** Sandalias Pleaser Flamingo-808 (Plataforma transparente, plantilla negra) de 8 pulgadas.
+- **Accesorios:** Sombrero de paja negra de ala GIGANTE, gafas de sol cat-eye negras, copa de vino tinto.
+- **Peinado:** Recogido alto elegante o suelto con ondas playeras negras.
+- **Maquillaje:** Labios rojos sangre waterproof, delineador intacto.
