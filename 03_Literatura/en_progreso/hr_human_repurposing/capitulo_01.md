@@ -331,7 +331,7 @@ La marca de los que ya no eran personas.
 
 La marca de los que eran proceso.
 
-—Bienvenido a tu nueva vida, Dahlia —dijo Miranda, sin levantar la vista.
+—Bienvenido a tu nueva vida, cariño —dijo Miranda, sin levantar la vista.
 
 Las puertas se cerraron.
 

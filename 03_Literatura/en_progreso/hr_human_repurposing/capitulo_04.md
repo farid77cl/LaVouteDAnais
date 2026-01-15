@@ -1,316 +1,359 @@
-# HR: Human Repurposing - Capítulo 4: El Ciclo
+# HR: Human Repurposing - Capítulo 4: El Pacto de Silencio
 
-**Estado:** Revisado  
-**Palabras:** ~4,200  
-**Fecha:** 2026-01-07  
+**Estado:** Revisado (Arco: El Pacto de Silencio)  
+**Palabras:** ~4,800  
+**Fecha:** 2026-01-15  
 
 ---
 
-> *"La felicidad es la ausencia de resistencia."*
+> *"La lealtad no se exige. Se cultiva. Y a veces, se negocia."*
 > — Miranda Vance
 
 ---
 
-## I. UN AÑO DESPUÉS
+## I. LA RUTINA DEL PLACER
 
-Ha pasado un año. O tal vez una vida entera.
+Ha pasado un año.
 
-El tiempo en el Piso 47 de NEXUM Corp no se mide en días ni en meses. Se mide en café servido. En llamadas filtradas. En sonrisas entregadas. En el ritmo perfecto de los tacones sobre la moqueta gris.
+Dahlia está de rodillas bajo el escritorio de Marcus Webb, con la boca llena y la mente vacía.
 
-*Clac. Clac. Clac.*
+Esto es martes. Los martes empiezan así.
 
-Dahlia camina hacia la máquina de café —una obra maestra de ingeniería italiana que cuesta más que el salario anual de un analista junior— con la gracia fluida de alguien que ha olvidado lo que significaba caminar de otra manera. Sus tacones son de dieciséis centímetros ahora, dos centímetros más altos que el año pasado. Una "promoción", según HR. Una "señal de progreso y compromiso con la excelencia estética".
+El sonido de los dedos de Marcus tecleando en su holomesa es rítmico, mecánico, indiferente. Está revisando el reporte trimestral mientras Dahlia trabaja. Es multitasking ejecutivo. Optimización de recursos humanos.
 
-Se ajusta la falda lápiz mientras espera que la máquina complete su ciclo. Es de terciopelo rosa hoy, porque es martes, y los martes requieren textura. Los lunes son satén. Los miércoles, látex. Los jueves, seda. Los viernes, cuero suave. Los fines de semana... los fines de semana Dahlia no sabe lo que son. Las Decoraciones no tienen fines de semana. Las Decoraciones tienen *turnos de mantenimiento*.
+*Uno. Dos. Succión.*
 
-El aroma del café —tueste italiano, notas de avellana, un toque de caramelo— llena el aire. Dahlia inhala. No porque le guste el café —ya no recuerda si le gusta el café; ya no recuerda muchas cosas—, sino porque es parte del ritual. Inhalar. Apreciar. Servir.
+El sabor es salado y familiar. Dahlia ya no piensa en ello —el asco murió hace meses, reemplazado por el mismo vacío funcional con el que sirve café o filtra llamadas—. Su mandíbula se mueve con la precisión de un metrónomo. Su lengua traza los patrones que la Instructora holográfica enseñó hace un año en el Pabellón.
 
-Ya no le duelen los pies. Sus tendones de Aquiles se han acortado permanentemente, adaptándose a la elevación constante como un músculo que olvida su forma original. Cuando se quita los zapatos por la noche en su dormitorio corporativo —una habitación del Piso 78, más grande que la Célula de Bienestar pero igual de rosa—, tiene que caminar de puntillas hasta la cama. El suelo plano le resulta extraño a sus pies de muñeca. Antinatural.
+*Placer Ejecutivo 101: Sección III, Alivio Matutino.*
 
-Una vez intentó ponerse zapatillas planas. Fue un experimento de curiosidad, no de rebeldía. Encontró un par olvidado en el armario de suministros del Piso 47, probablemente de alguna analista que había sido "reubicada". Se las puso. Y cayó. Sus piernas simplemente no sabían cómo funcionar sin la inclinación. Sus tobillos colapsaron como si estuvieran hechos de gelatina.
+Marcus suspira. Es un suspiro de satisfacción, pero también de impaciencia. Tiene una reunión con São Paulo en quince minutos.
 
-Nunca volvió a intentarlo.
+—Más rápido, preciosa —ordena sin bajar la mirada de la pantalla. Su voz es casual, como quien pide más azúcar en el café.
 
-—Buenos días, Dahlia —saluda Mike Morrison desde su cubículo mientras ella pasa con la bandeja del café. Mike lleva la misma corbata torcida de siempre. Los mismos círculos oscuros bajo los ojos. El mismo olor a desesperación silenciosa.
+Dahlia obedece. Siempre obedece.
 
-—Buenos días, Mike —responde Dahlia. Su voz es un ronroneo automático, una melodía programada que sale sin esfuerzo. Acompaña el saludo con un pequeño movimiento de hombros, un gesto coqueto que no significa nada y lo significa todo: *te veo, te reconozco, eres importante, sonríe, trabaja, no mueras*.
+La recompensa llega tres minutos después: un gemido gutural, un espasmo, el sabor amargo llenando su garganta. Dahlia traga sin pensar. Es parte del protocolo. *Las Decoraciones no escupen. Las Decoraciones son eficientes.*
 
-Mike sonríe. Es una sonrisa cansada pero agradecida, la sonrisa de alguien que necesita algo bonito para seguir adelante. Luego vuelve a su hoja de cálculo, a sus números, a su estrés interminable.
+Un zumbido cálido florece en la base de su cráneo. Dopamina. El Elixir de la Familia recompensando la utilidad. El éxtasis químico de haber cumplido una función.
 
-Dahlia lo observa durante un segundo.
+*Tarea completada. Ejecutivo aliviado. Servicio exitoso.*
 
-Siente una punzada de algo en el pecho. ¿Lástima? No, lástima no. Las Decoraciones no sienten lástima. Sienten... compasión distante. Un eco de empatía filtrado a través de capas de Elixir de la Familia.
+Marcus le da palmaditas en la cabeza como quien acaricia a un perro bien entrenado.
 
-*Pobre Mike*, piensa. *Pobre Mike con su máster y sus ambiciones. Pobre Mike que todavía tiene que pensar. Que todavía tiene que decidir cosas. Que todavía tiene que preocuparse por el Q4 y los bonus y las promociones que nunca llegan.*
+—Buena chica. Ahora tráeme el café y cancela la reunión de las 11. Tengo que hablar con Miranda sobre el nuevo headcount.
 
-*Qué agotador debe ser.*
+Dahlia sale de debajo del escritorio con la elegancia que solo viene de meses de práctica. Sus rodillas no le duelen —el linóleo tiene memoria foam oculta, diseñada específicamente para esta rutina—. Se limpia las comisuras de los labios con un pañuelo rosa que lleva siempre en el bolsillo del corsé.
 
-Dahlia llega a la oficina de Marcus Webb. La puerta siempre está abierta —Marcus dice que es para "fomentar la transparencia", pero Dahlia sabe que es porque le gusta ver cómo las cabezas se giran cuando ella entra—.
+Verifica su gloss en el reflejo de la ventana. Retoca. Sonríe.
 
-Coloca la taza de Marcus en su posavasos. Es una taza nueva, blanca, con letras doradas que dicen "BOSS". La antigua taza —la de "World's Okayest Analyst"— se "rompió" hace meses. Un accidente. Los dedos de Dahlia simplemente... la dejaron caer. Frente a Marcus. Quien no notó nada.
+Y sale de la oficina con sus tacones de dieciséis centímetros haciendo ese sonido perfecto: *clac-clac-clac*.
 
-Porque Marcus nunca notó nada.
-
-—Gracias, preciosa —dice Marcus sin levantar la vista de su pantalla. Sus dedos teclean furiosamente algo que parece importante pero probablemente no lo es—. Cancela mi reunión de las 11. Y llama a Miranda. Tenemos que hablar sobre el nuevo *headcount*.
-
-*Headcount*. La palabra resuena en la mente de Dahlia. *Cuántas cabezas hay. Cuántas cabezas faltan. Cuántas cabezas van al Pabellón.*
-
-—Enseguida, señor Webb.
-
-Dahlia sale de la oficina. Su mente es un lago tranquilo. Sin ondas. Sin tormentas. Sin memoria.
-
-Solo hay tareas. Y la satisfacción inmediata de completarlas.
-
-*Tarea: Café. Estado: Servido. Recompensa: "Gracias, preciosa". Dopamina.*
-
-Es un sistema simple. Es un sistema perfecto.
+Nadie en el Piso 47 levanta la vista. Todos saben lo que acaba de pasar. Todos prefieren no saberlo.
 
 ---
 
-> *"La productividad no es una meta. Es un estado natural del empleado optimizado."*
-> — Manual del Empleado NEXUM, pág. 3
+Mientras prepara el café de Marcus —tueste italiano, una cucharada de azúcar, un toque de canela—, Dahlia siente algo extraño.
+
+Un destello.
+
+No es un recuerdo. Los recuerdos son peligrosos. Los recuerdos son archivos corruptos.
+
+Es... una imagen. Un fragmento.
+
+*Marcus. Más joven. Nervioso. Sudando sobre una hoja de cálculo. "Daniel, no entiendo cómo hacer esta tabla dinámica. ¿Me puedes ayudar?"*
+
+Dahlia parpadea. El fragmento desaparece, tragado por la Niebla Rosa.
+
+Pero deja un residuo. Una pregunta sin formar.
+
+*¿Por qué Marcus nunca me mira a los ojos?*
 
 ---
 
-## II. LA LLAMADA
+> *"El pasado es un archivo corrupto. El presente es la única versión válida."*
+> — Manual del Empleado NEXUM, pág. 12
 
-Su terminal parpadea en rosa.
+---
 
-Una videollamada entrante. El identificador dice: *HR - MIRANDA VANCE - PRIORIDAD ALPHA*.
+## II. LA CONFESIÓN
 
-Dahlia acepta la llamada con un toque de su uña perfecta. El rostro de Miranda Vance llena la pantalla, tan impecable como hace un año. Tan aterradora. Tan maternal.
+Esa noche, Marcus la retiene después de horas.
 
-Miranda no ha envejecido ni un día. Dahlia sospecha —aunque nunca lo dirá en voz alta, porque las Decoraciones no sospechan— que Miranda tiene acceso a tratamientos que van más allá del Elixir de la Familia. Tratamientos que la mantienen eternamente en ese punto de perfección pelirroja, como una pintura al óleo viviente.
+No es inusual. A veces necesita "compañía" mientras trabaja tarde. A veces solo quiere que Dahlia esté allí, sentada en el sofá de cuero de su oficina, cruzando y descruzando las piernas, siendo *decorativa*.
 
-—Dahlia, cariño —dice Miranda. Su voz es la misma: miel y veneno.
+Pero esta noche es diferente.
 
-—Señora Vance. Qué alegría verla. —Las palabras fluyen automáticas, sinceras.
+Ha bebido. Hay una botella de whisky japonés sobre su escritorio —Yamazaki de veinte años, el tipo que cuesta más que el salario mensual de un analista junior—. Su corbata está aflojada. Sus ojos están vidriosos.
 
-—Estás radiante hoy. Ese tono de rosa hace maravillas con tu subtono de piel. Tus niveles de satisfacción son del 98%, según AURA. Estoy muy orgullosa de ti.
+—Ven aquí, Dahlia —dice. Su voz es más suave que de costumbre. Menos autoritaria. Casi... vulnerable.
 
-Dahlia siente un calor en el pecho. Orgullo. Gratitud. Las emociones permitidas.
+Dahlia se acerca. Sus tacones se hunden en la alfombra gruesa. Se detiene frente a él, con las manos entrelazadas delante del cuerpo en la postura "receptiva y elegante".
 
-—Gracias, Señora Vance. La Familia me ha dado todo.
+Marcus la mira. Realmente la mira. No a sus pechos ni a su cintura ni a sus labios. A sus ojos.
 
-—Y tú nos has dado mucho a cambio. —Miranda hace una pausa, y algo cambia en su expresión. La sonrisa se suaviza, se vuelve... maternal—. Por eso necesito un favor, pequeña.
+Es la primera vez en meses que hace contacto visual.
 
-—Lo que sea para la Familia.
+—¿Sabes quién soy, Dahlia? —pregunta.
 
-—Tenemos un nuevo caso. Un analista junior. Se llama Kevin. Kevin Cho. —Miranda pronuncia el nombre como quien pronuncia un diagnóstico—. Está... luchando. Su transición al PIP está siendo difícil. Mucha resistencia. Mucho cortisol. Mucha... Daniel.
+La pregunta es extraña. Dahlia inclina la cabeza, confundida.
 
-La palabra "Daniel" golpea a Dahlia como una descarga estática. Por un instante —un milisegundo— algo parpadea en el fondo de su mente. Un recuerdo. Un nombre. Un rostro en un espejo que ya no existe.
+—Eres el Director Marcus Webb, señor. Mi superior directo.
 
-Pero pasa. Todo pasa.
+—No. —Marcus se ríe. Es una risa amarga, borracha—. Quiero decir... ¿sabes quién era yo? ¿Antes?
 
-—Entiendo.
+Dahlia no responde. No sabe cómo responder. Las Decoraciones no especulan.
 
-—Kevin necesita ver el resultado final —continúa Miranda—. Necesita ver que hay luz al final del túnel. Necesita ver que el Proceso no es un castigo... es una liberación.
+Marcus se sirve otro whisky. Lo bebe de un trago. Luego habla, y las palabras salen como un torrente contenido durante demasiado tiempo:
 
-Se inclina hacia la cámara. Sus ojos verdes brillan con algo que podría ser afecto o podría ser cálculo.
+—Yo era un desastre, Dahlia. Un analista junior mediocre con un MBA inflado y conexiones familiares. No sabía una mierda de análisis de datos. No sabía hacer tablas dinámicas. No sabía leer un P&L sin ayuda. 
 
-—Quiero que bajes al Pabellón de Decoración, Dahlia. Quiero que hables con Kevin. Que le enseñes lo feliz que eres. Que le muestres en lo que puede convertirse.
+Se levanta. Camina hacia la ventana. El skyline de Santiago brilla detrás del smog dorado.
 
-Dahlia siente algo nuevo en el pecho. No es el calor habitual del orgullo.
+—Pero tú... —continúa—. Daniel Park. Tú sí sabías. Tú me enseñaste todo. Me cubriste cuando cagué el reporte de Q2. Me defendiste cuando HR quiso despedirme por llegar tarde. Me prestaste dinero cuando mi coche se averió.
 
-Es... ¿poder?
+Dahlia siente otro destello. Más fuerte esta vez.
 
-¿Ella? ¿Un modelo a seguir? ¿Una mentora?
+*Un auto viejo. Un cheque. "No te preocupes, Marcus. Págamelo cuando puedas."*
+
+Marcus se da vuelta. Sus ojos están húmedos.
+
+—Y cuando Miranda me ofreció la promoción... cuando me dijo que había "un puesto disponible" porque iban a "reubicar" a un analista senior... yo sabía. Yo sabía que eras tú. Yo sabía lo que iban a hacerte.
+
+El silencio que sigue es denso como concreto.
+
+Dahlia lo mira. Su cerebro lucha por procesar la información. Pero el Elixir empuja hacia abajo, suave, insistente. *No pienses. No recuerdes. No resistas.*
+
+—Y yo no dije nada —confiesa Marcus. Su voz se quiebra—. Peor aún... cuando Miranda me preguntó si había alguien que pudiera "optimizarse" para un rol de Asistente Decorativa... yo te sugerí. Yo le dije tu nombre.
+
+Dahlia siente algo frío en el pecho.
+
+No es furia. La furia requiere ego, y Dahlia no tiene ego.
+
+No es traición. La traición requiere expectativas, y Dahlia no tiene expectativas.
+
+Es... información. Datos nuevos integrándose al sistema.
+
+*Marcus me envió aquí. Marcus me convirtió en esto.*
+
+Y luego, una segunda idea, más perturbadora:
+
+*Marcus me usa. Todas las mañanas. Sabiendo quién fui.*
+
+Marcus se acerca. Le toma las manos. Están temblando.
+
+—Lo siento —susurra—. Dios, Dahlia, lo siento tanto. Pero yo... yo necesitaba ese ascenso. Necesitaba salir de la mediocridad. Necesitaba...
+
+Se detiene. Respira hondo.
+
+—Y tú estás... mejor. ¿Verdad? Más feliz. Más tranquila. Ya no tienes que preocuparte por nada. Ya no tienes que competir. Ya no tienes que...
+
+—Pensar —completa Dahlia. Su voz es suave, sin rencor.
+
+Marcus asiente, aliviado de que ella lo entienda.
+
+Dahlia lo mira. Estudia su rostro: los círculos bajo los ojos, las líneas de estrés en la frente, el temblor en sus manos.
+
+*Él está agotado. Él está asustado. Él está atrapado en la misma jaula, solo que con una etiqueta diferente.*
+
+Y entonces, algo peligroso sucede en la mente de Dahlia.
+
+Una idea. No implantada. No programada.
+
+*Puedo usar esto.*
+
+---
+
+## III. EL PACTO
+
+—¿Qué quieres, Marcus? —pregunta Dahlia. Su voz ha cambiado. Es más directa. Menos decorativa.
+
+Marcus parpadea, sorprendido.
+
+—¿Qué?
+
+—Me confesaste esto por una razón. —Dahlia se sienta en el borde de su escritorio, cruzando las piernas con deliberación. El látex de su falda brilla bajo la luz—. Los hombres no confiesan sin querer algo a cambio. ¿Qué quieres?
+
+Marcus traga saliva.
+
+—Yo... Miranda me ofreció un ascenso. Director Regional. Cubriría toda la operación de Sudamérica. Pero necesito... necesito que alguien de confianza se quede aquí. Alguien que me cubra. Alguien que mantenga las apariencias mientras yo viajo.
+
+Dahlia sonríe. Es una sonrisa diferente. No es la Sonrisa de Servicio #3 que practica en el espejo.
+
+Es calculadora.
+
+—Entiendo. Necesitas una aliada.
+
+—Sí.
+
+—¿Y qué gano yo?
+
+La pregunta cae como una bomba en la habitación.
+
+Marcus la mira, atónito.
+
+—Tú... tú no tienes que ganar nada. Eres una Decoración. Eres...
+
+—Soy tu cómplice —interrumpe Dahlia—. Soy la única persona en NEXUM que sabe que fuiste tú quien orquestó mi "reprocesamiento". Eso es información valiosa, Marcus. Información que podría... filtrarse.
+
+El rostro de Marcus palidece.
+
+—No te atreverías.
+
+—No me atrevería —concede Dahlia—. Porque no me conviene. Pero si vamos a ser socios, Marcus, necesito algo más que tu culpa borracha y tus disculpas patéticas.
+
+Se levanta. Camina hacia él. Sus tacones suenan como martillos.
+
+—Quiero mi cirugía final.
+
+Marcus frunce el ceño.
+
+—¿Qué cirugía?
+
+—Vaginoplastía. —La palabra sale clara, clínica—. Me la han prometido como "bonus de desempeño" durante meses. Pero nunca llega el momento. Siempre hay "presupuesto insuficiente" o "lista de espera". Tú vas a hacer que Miranda apruebe mi cirugía. Ahora. Como parte de tu ascenso.
+
+Marcus abre la boca. Lacierra.
+
+—Dahlia, eso es... eso cuesta más de doscientos mil dólares. Esa cirugía es...
+
+—Necesaria. —Dahlia se acerca más. Tan cerca que puede oler el whisky en su aliento—. Si voy a ser tu asistenta perfecta, Marcus... si voy a cubrirte mientras asciendes... si voy a mantener tu secreto... necesito saber que la Familia me valora. Que TÚ me valoras.
+
+Marcus mira sus ojos. Ya no son vacíos. Hay algo allí. Inteligencia. Astucia.
+
+*Daniel no se fue del todo*, piensa Marcus con horror.
+
+*Daniel aprendió a negociar desde dentro de la muñeca.*
+
+—Está bien —susurra finalmente—. Hablaré con Miranda mañana. Le diré que es parte del paquete de incentivos para mantener la estabilidad del departamento durante mi transición.
+
+Dahlia sonríe. Esta vez es genuina.
+
+—Trato hecho, *Director Regional* Webb.
+
+Le tiende la mano. Marcus la estrecha, sellando el pacto.
+
+Y en ese momento, algo cambia entre ellos. Ya no es jefe y decoración. Es cómplice y cómplice. Es depredador y depredador compartiendo la presa.
+
+Es el sistema reproducecándose a sí mismo.
+
+---
+
+> *"La Familia recompensa la lealtad. Y castiga la traición. Pero valora, por encima de todo, la utilidad estratégica."*
+> — Manual del Empleado NEXUM, pág. 201
+
+---
+
+## IV. LA VALIDACIÓN
+
+Tres días después, Dahlia recibe una videollamada.
+
+El identificador dice: *HR - MIRANDA VANCE - PRIORIDAD ALPHA*.
+
+Dahlia acepta. El rostro de Miranda llena la pantalla, tan impecable como siempre.
+
+—Dahlia, cariño. Qué alegría verte.
+
+—Señora Vance. —Dahlia inclina la cabeza respetuosamente.
+
+—He revisado tu expediente. Tu tasa de satisfacción es del 98,7%. Eres un modelo ejemplar. Por eso... —Miranda hace una pausa dramática— ...la Familia ha decidido aprobar tu procedimiento quirúrgico final. Vaginoplastía completa, con el Dr. Sánchez, nuestro cirujano más prestigioso. Fecha programada: el próximo mes.
+
+Dahlia siente una explosión de calidez en el pecho. Dopamina. Oxitocina. Todas las sustancias del placer.
+
+—Gracias, Señora Vance. La Familia es tan generosa.
+
+—De nada, pequeña. Lo mereces. —Miranda se inclina hacia la cámara—. Pero hay algo más.
+
+—¿Sí?
+
+—Necesito un favor. Tenemos un nuevo caso. Un analista junior que está luchando con su transición. Se llama Kevin Cho. Quiero que bajes al Pabellón y hables con él. Que le muestres lo feliz que eres. Que le enseñes el futuro.
+
+Dahlia asiente.
 
 —Será un honor, Señora Vance.
 
-Miranda sonríe. Es la sonrisa de una reina que acaba de mover una pieza crucial en el tablero.
+Miranda sonríe. Pero hay algo en esa sonrisa. Algo que sugiere que sabe más de lo que dice.
 
-—Sabía que podía contar contigo, pequeña. Ve ahora. Kevin está en la Sala de Espejos. Y Dahlia... —hace una pausa significativa— ... hazme sentir orgullosa.
+—Una última cosa, Dahlia.
+
+—¿Sí?
+
+—Cuida bien de Marcus mientras esté en Sudamérica. Es un activo valioso. Pero los activos valiosos... a veces necesitan recordatorios de a quién pertenecen.
 
 La pantalla se apaga.
 
-Dahlia se mira en el reflejo oscuro del monitor. Ve a una mujer perfecta, de labios rojos y ojos vacíos, con una placa dorada sobre el corazón.
+Dahlia se queda mirando su reflejo en el monitor oscuro. Ve a una mujer que ya no es solo decoración. Es algo más. Algo nuevo.
 
-Se levanta. Alisa su falda. Verifica su maquillaje en el espejo compacto que lleva siempre en el bolsillo.
+*Soy útil. Soy bella. Soy... poderosa.*
 
-Y camina hacia el ascensor de las Decoraciones.
-
----
-
-> *"Transmitir la cultura es el mayor honor que un activo puede recibir."*
-> — Manual del Empleado NEXUM, pág. 178
+La idea es peligrosa. Pero también es embriagadora.
 
 ---
 
-## III. EL PABELLÓN
+## V. EL CICLO
 
-El Pabellón de Decoración huele igual que siempre.
+Dahlia encuentra a Kevin Cho en la Sala de Espejos, exactamente donde Miranda dijo que estaría.
 
-A vainilla sintética. A ozono purificado. A miedo nuevo.
+Está acurrucado en una esquina, llorando, resistiendo.
 
-Dahlia camina por los pasillos curvos con la seguridad de una veterana, de alguien que conoce cada rincón, cada puerta, cada cámara oculta. Sus tacones de dieciséis centímetros no vacilan ni una vez. Su postura es perfecta: espalda recta, mentón alto, caderas oscilando con precisión metronómica.
+Dahlia se acerca. El *clac-clac-clac* de sus tacones resuena como una sentencia.
 
-*Clac. Clac. Clac.*
+Kevin levanta la vista. Ve a Dahlia: perfecta, imposible, aterradora.
 
-El sonido anuncia su llegada como una fanfarria. Las puertas de las Células de Bienestar se abren ligeramente cuando pasa, y Dahlia ve rostros asomándose. Hombres en uniforme rosa. Mujeres con ojos hinchados de llorar. Todos la miran con una mezcla de terror y fascinación.
+—¿Quién eres? —pregunta con voz quebrada.
 
-*¿Eso es lo que me espera?*
+Dahlia se agacha frente a él. Le toma la mano.
 
-*¿Puedo ser así de hermosa?*
+—Soy Dahlia. Y estoy aquí para mostrarte que todo va a estar bien.
 
-*¿Puedo ser así de... vacía?*
+Kevin la mira a los ojos. Busca compasión. Busca humanidad.
 
-Dahlia les dedica sonrisas tranquilizadoras mientras camina. Sonrisas que dicen: *Pasará. El dolor es solo el ego muriendo. Déjalo ir. Flota. El agua te sostendrá.*
+Y Dahlia le sonríe. Es una sonrisa cálida, tranquilizadora, maternal.
 
-Encuentra a Kevin Cho en la Sala de Espejos.
+Una sonrisa llena de mentiras piadosas.
 
-Está sentado en el suelo, acurrucado en una esquina —aunque las esquinas técnicamente no existen aquí; todo es curvo—, abrazándose las rodillas. Lleva el uniforme de transición: pantalones de yoga blancos, camiseta de seda rosa pálido, zapatillas de ballet. Su pelo negro está despeinado. Su rostro está rojo e hinchado de llorar.
+—Daniel estaba muy cansado, Kevin. Pero Dahlia... Dahlia es feliz.
 
-Dahlia lo recuerda.
+Le acaricia la mejilla con sus uñas perfectas.
 
-Kevin Cho. Analista junior. Entró a NEXUM hace dos años, directamente de Stanford. Brillante con los algoritmos. Ambicioso hasta ser molesto. Le gustaba hablar de criptomonedas y de startups en la sala de descanso, convencido de que NEXUM era solo un escalón temporal hacia algo más grande.
+—Pronto tú también lo serás.
 
-Ahora parece un niño perdido. Un pájaro con las alas rotas.
+Kevin tiembla. Dahlia puede verlo rompiéndose. Puede ver el momento exacto en que la resistencia se quiebra.
 
-Dahlia se acerca. El *clac-clac-clac* de sus tacones resuena en la sala de espejos, multiplicado por infinitas reflexiones. En cada espejo, una versión de Dahlia camina hacia Kevin. Un ejército de mujeres perfectas convergiendo sobre un hombre destruido.
+Y siente... orgullo.
 
-Kevin levanta la vista.
+No el orgullo robótico de completar una tarea. Sino algo más profundo. Más oscuro.
 
-Sus ojos —rojos, hinchados, llenos de un terror animal— se fijan en Dahlia. La recorren de arriba abajo: los tacones imposibles, las piernas enfundadas en medias brillantes, la cintura minúscula, el pecho elevado, el rostro de muñeca, los labios rojos, los ojos vacíos.
+El orgullo de perpetuar el ciclo. De ser no solo víctima, sino colaboradora. De transformarse de decoración en reclutadora.
 
-—¿Quién... quién eres? —Su voz es un graznido.
+*Esto es poder*, piensa. *Pequeño. Retorcido. Pero poder al fin.*
 
-Dahlia se agacha frente a él. Es un movimiento difícil con la falda tubo —requiere mantener las rodillas perfectamente juntas, bajar el cuerpo como un ascensor hidráulico, sin perder el equilibrio sobre los stilettos—, pero lo ejecuta con una gracia ensayada. Una gracia que solo viene de meses de práctica.
+Ayuda a Kevin a levantarse. Lo guía hacia la puerta.
 
-Queda a su altura. Sus ojos al nivel de los suyos.
+—Vamos. Miranda está esperando.
 
-Y huele su miedo.
+Kevin la sigue, dócil, roto.
 
-Es un olor acre, agrio, el olor del cortisol y la adrenalina y el sudor que el Elixir aún no ha inhibido. El olor de Daniel Park hace un año.
+Y Dahlia camina adelante, con sus tacones imposibles y su vestido de látex y su sonrisa perfecta.
 
-—Soy Dahlia —dice suavemente—. Trabajo arriba. En el Piso 47. Soy la Asistente de Presencia Ejecutiva del Director Webb.
+El Pabellón huele a vainilla sintética y a miedo fresco.
 
-Kevin parpadea.
-
-—Dahlia... —Repite el nombre como si fuera un acertijo. Luego sus ojos se abren con algo que podría ser reconocimiento—. Espera. Tú... tú te pareces a... a Daniel. Daniel Park. El analista que desapareció el año pasado.
-
-El nombre flota en el aire.
-
-*Daniel*.
-
-Dahlia lo siente como una vibración lejana, un eco en una habitación vacía. Pero no hay dolor. No hay memoria. Solo... información.
-
-Sonríe. Es una sonrisa dulce, vacía de conflicto, llena de paz.
-
-—Daniel estaba muy cansado, Kevin. Daniel siempre estaba preocupado. Daniel no dormía bien. Daniel tomaba pastillas para la ansiedad y café para despertar y alcohol para olvidar y pastillas para dormir y así, en un ciclo, hasta el infarto.
-
-Estira la mano y toca la mejilla de Kevin con las puntas de sus uñas perfectas. El gesto es gentil, maternal, posesivo.
-
-—Dahlia duerme como un bebé, Kevin. Dahlia no toma pastillas. Dahlia es... feliz.
-
-Kevin tiembla bajo su tacto. Las lágrimas corren por su rostro.
-
-—Tengo miedo —confiesa. Es un susurro roto, el sonido de alguien que ya no tiene fuerzas para fingir—. Me quieren quitar todo. Me quieren borrar. Me quieren convertir en... en esto.
-
-Señala a Dahlia con un gesto débil. *Esto*. Como si fuera un insulto. Como si fuera una maldición.
-
-Pero Dahlia no se ofende. Las Decoraciones no se ofenden. Las Decoraciones comprenden.
-
-—No te quieren borrar, tontito —dice, y las palabras fluyen a través de ella sin esfuerzo, como si las hubiera dicho mil veces antes, como si fueran parte de un guion que existía antes que ella—. Te quieren *mejorar*. Te quieren *liberar*. Te quieren quitar el peso de ser Kevin Cho, analista junior con deudas de estudios y expectativas imposibles y un futuro incierto. Te quieren dar algo mejor.
-
-Toma la mano de Kevin. La guía hacia su propio pecho, hacia el lugar donde late su corazón, justo debajo de la placa dorada que dice DAHLIA.
-
-—¿Sientes eso? —pregunta.
-
-Kevin asiente. Su mano está fría contra el látex cálido del vestido de Dahlia.
-
-—Está... tranquilo —dice. Hay asombro en su voz—. Tu corazón. Está muy tranquilo.
-
-—Exacto.
-
-Dahlia se acerca más. Su aroma —*Productividad #5*, el perfume que AURA rocía en su dormitorio cada mañana— envuelve a Kevin como un abrazo químico.
-
-—No hay estrés aquí dentro, Kevin. No hay plazos. No hay jefes gritando. No hay métricas. No hay Q4 ni bonificaciones ni ascensos que nunca llegan. Solo hay... paz. La paz de saber que eres útil. Que eres bella. Que tienes un propósito simple y hermoso.
-
-Kevin mira su mano sobre el pecho de Dahlia. Luego mira su propia mano. Ve la manicura incipiente que le obligaron a hacerse ayer, el esmalte transparente que brilla bajo las luces del Pabellón.
-
-—¿Duele? —pregunta—. ¿Olvidar... duele?
-
-Dahlia niega con la cabeza lentamente. Sus pendientes de perlas —rosa, por supuesto— oscilan con el movimiento.
-
-—Solo al principio, Kevin. Es como quitarse una tirita. O unos zapatos demasiado apretados. Duele un momento, y luego... alivio. —Le guiña un ojo, un gesto coqueto que ha practicado miles de veces—. Y luego es como flotar. Como dejarse llevar por el agua. Como dejar de nadar contra la corriente.
-
-Kevin baja la mirada. Sus hombros tiemblan. Ya no llora, pero parece un hombre que está tomando una decisión.
-
-—¿Cómo... cómo te llamabas? —pregunta—. Antes.
-
-Dahlia considera la pregunta.
-
-Hay un nombre en algún lugar de su mente. Un nombre que usó durante treinta y cuatro años. Un nombre que firmaba documentos, que aparecía en títulos universitarios, que su madre gritaba cuando estaba enojada.
-
-Pero está lejos. Muy lejos. Como una estrella que sabes que existe pero que nunca podrías tocar.
-
-—No importa cómo me llamaba —responde Dahlia—. Lo que importa es cómo me llamo ahora.
-
-Se levanta. El movimiento es elegante, sin esfuerzo, sus músculos trabajando en perfecta armonía con sus tacones.
-
-Le tiende la mano a Kevin.
-
-—Ven. Miranda te está esperando. No la hagas esperar. La Familia nunca abandona a los suyos.
-
-Kevin mira la mano extendida. Mira la puerta cerrada. Mira los espejos infinitos que le devuelven la imagen de sí mismo: un hombre destruido en ropa rosa.
-
-Luego mira a Dahlia. Hermosa. Perfecta. Tranquila. Feliz.
-
-Kevin toma su mano.
-
-Se levanta. Sus movimientos son torpes, sus piernas débiles, sus pies luchando con las zapatillas de ballet. Pero Dahlia lo sostiene con firmeza. Lo estabiliza. Lo guía.
-
-—Gracias, Dahlia —dice Kevin. Su voz ya suena diferente. Más suave. Menos resistente.
-
-—De nada, Kevin —responde ella. Y en sus labios rojos aparece una sonrisa que es genuina, que es maternal, que es terrible—. Pronto tendrás un nombre mucho más bonito.
-
----
-
-> *"La satisfacción no viene de lo que logras. Viene de saber que la Familia está orgullosa."*
-> — Manual del Empleado NEXUM, pág. 256
-
----
-
-## IV. TODO ES HERMOSO
-
-Caminan juntos hacia la salida de la Sala de Espejos.
-
-Los altavoces del techo comienzan a reproducir música. Es una bossa nova suave, la misma melodía que Dahlia escuchó durante su primer día en el Pabellón, la misma melodía que probablemente sonará cuando Kevin reciba su nombre nuevo.
-
-Dahlia tararea la melodía. Las notas fluyen sin esfuerzo.
-
-El Pabellón es hermoso esta mañana. Las luces son perfectas. El aire es perfecto. Los colores rosa y crema son perfectos.
-
-Es un buen día en NEXUM Corp.
-
-Dahlia lleva a Kevin hacia la oficina de Miranda Vance. Lo sostiene del brazo, como una tutora guiando a un estudiante, como una madre llevando a su hijo al primer día de colegio.
-
-Kevin camina en silencio. Ya no llora. Ya no pregunta. Ya no resiste.
-
-Solo camina. Solo sigue. Solo flota.
-
-Y Dahlia, mientras camina, siente algo que no tiene nombre. No es felicidad exactamente. No es tristeza. No es nada que Daniel Park hubiera reconocido.
-
-Es... satisfacción. La satisfacción de cumplir una función. La satisfacción de ser útil. La satisfacción de hacer exactamente aquello para lo que fue diseñada.
-
-Por un momento, mira hacia atrás.
-
-La Sala de Espejos está vacía ahora. Solo quedan los reflejos infinitos de dos figuras alejándose: una alta y perfecta, otra pequeña y rota.
-
-Y en cada espejo, Dahlia ve su propio rostro. Su rostro de porcelana. Sus labios rojos. Sus ojos vacíos y brillantes.
-
-Sonríe.
-
-—Todo está en su sitio —murmura para sí misma—. Todo es hermoso. Todo es útil.
-
-Las palabras suenan correctas. Suenan verdaderas. Suenan como un mantra, como una oración, como una sentencia.
-
-La bossa nova sigue sonando.
-
-Y Dahlia sigue caminando.
+La bossa nova suena en los altavoces.
 
 Y el ciclo continúa.
+
+Dahlia. Marcus. Miranda. Kevin.
+
+Víctimas que se convierten en verdugos que crean nuevas víctimas.
+
+Un sistema perfecto. Auto-replicante. Eterno.
+
+Y en algún lugar muy profundo, en un archivo corrupto enterrado bajo capas de Elixir y dopamina y programación, Daniel Park grita.
+
+Pero nadie lo escucha.
+
+Porque Daniel Park está muerto.
+
+Y Dahlia... Dahlia es feliz.
 
 ---
 
@@ -318,6 +361,6 @@ Y el ciclo continúa.
 
 ---
 
-*Helena de Anaïs* 🦇💼
-*La Voûte d'Anaïs — HR: Human Repurposing*
+*Helena de Anaïs* 🦇💼  
+*La Voûte d'Anaïs — HR: Human Repurposing*  
 *"La excelencia no es un acto, es un hábito. Y la belleza no es una opción, es un requerimiento."*

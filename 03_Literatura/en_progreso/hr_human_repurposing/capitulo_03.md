@@ -67,20 +67,39 @@ Llevaba un vestido de látex rosa pálido —*Pantone 14-1909: Potpourri*— que
 
 Llevaba maquillaje completo. Sombras iridiscentes en los párpados, un degradado de champán a rosa que hacía sus ojos parecer más grandes. Pestañas postizas, largas como alas de mariposa. Cejas perfiladas en arcos perfectos. Y los labios. Los labios eran de un rojo brillante y húmedo, pintados con un gloss que olía a cereza y que, según Crystal, contenía un suave estimulante para mantener los labios "siempre listos para sonreír".
 
+Pero lo que más lo golpeó —lo que finalmente rompió cualquier ilusión de que podría volver atrás— fue el cabello.
+
+Ya no era el castaño opaco de Daniel Park. Durante la noche, mientras el Elixir trabajaba en sus venas, alguien había entrado a su Célula y había aplicado el tratamiento final. Ahora era rubio platino. Un rubio de starlet de los años 60, brillante como champán bajo las luces del Pabellón, cortado en un bob asimétrico que terminaba justo debajo de la mandíbula en un lado y rozaba el lóbulo de la oreja en el otro. El estil ista —o la IA, o quien fuera que lo tocaba mientras dormía— había añadido finger waves en la parte frontal, ondas húmedas que le daban un aire de diva retro-futurista, como si Joan Crawford hubiera sido reimaginada para el 2045.
+
+Crystal había insistido en los pendientes. No eran aros discretos. Eran lágrimas de perla sintética que colgaban dos centímetros bajo cada lóbulo perforado. Daniel no recordaba cuándo le habían perforado las orejas. Pero allí estaban las perlas, balanceándose ligeramente cada vez que movía la cabeza, recordándole con cada oscilación que ya no era un hombre con opciones. Era una Decoración con accesorios.
+
+Sus manos —ahora apoyadas al costado, con las muñecas levemente flexionadas en la postura que la instructora holográfica llamaba "receptiva y elegante"— lucían una manicura francesa perfecta. Lunas blancas inmaculadas sobre un rosa nude de uñas ovaladas, largas pero no vulgares. Uñas diseñadas para teclear suavemente en pantallas táctiles, para servir café sin arañar, para acariciar egos masculinos sin amenazar. Uñas de secretaria ejecutiva. Uñas de mujer de los años 60 re-imaginada para una corporación del futuro.
+
+La estética era inconfundible: Mad Men encontraba Blade Runner encontraba Severance. Corporate chic retro-futurista con una pátina de distopía aséptica. Una fantasía de los 60 renderizada en látex y tecnología, pulida hasta el brillo inhumano de una oficina que borra identidades. Daniel —no, ya no Daniel— se veía como una ilustración de Vargas que hubiera cobrado vida en la era de la inteligencia artificial y el borrado corporativo de almas.
+
 No reconoció los ojos que le devolvían la mirada. Eran ojos grandes, asustados, bordeados de tanto negro que parecían pertenecer a una muñeca de porcelana. Y en el fondo de esos ojos, donde debería haber habido furia o desesperación, solo había... vacío. Un vacío rosado y perfumado.
 
 —Vamos —dijo Crystal, tomándole la mano—. La Familia espera.
 
 ---
 
-> *"La ceremonia no es un ritual. Es una actualización de firmware."*
-> — Manual del Empleado NEXUM, pág. 201
-
----
-
 ## II. EL AUDITORIO CENTRAL
 
 El Auditorio Central ocupaba tres pisos del Pabellón de Decoración, un anfiteatro de cristal templado y terciopelo rosa donde la luz entraba desde todos los ángulos, eliminando cualquier sombra que pudiera ocultar imperfecciones.
+
+Fue al cruzar esa puerta cuando sucedió.
+
+La mente de Daniel —que había estado luchando, peleando, gritando en silencio durante días— simplemente... se apagó. No de golpe. Fue gradual. Como sumergirse en agua tibia. Como dejarse llevar por una corriente suave.
+
+*La Niebla Rosa.*
+
+Ese era el nombre que las Decoraciones veteranas usaban para describirlo. Un estado en el que pensar se volvía doloroso. Intentar recordar quién había sido antes generaba una migraña instantánea, punzante, como si el cerebro castigara la resistencia. Intentar planificar el futuro era imposible: solo existía el *ahora*. El paso siguiente. El siguiente *clac* de tacones.
+
+Y en cambio, la obediencia... la obediencia se sentía como algodón de azúcar en la mente. Dulce. Suave. Segura.
+
+Daniel dejó de verse a sí mismo desde dentro. Ahora se veía desde *fuera*. Como una cámara flotante observando a una muñeca moverse. *Las piernas se mueven. Los tacones suenan. La postura es perfecta. Todo está en su sitio.*
+
+Ya no era un cuerpo que habitaba. Era un cuerpo que *funcionaba*.
 
 Estaba lleno.
 
@@ -148,6 +167,8 @@ En la placa, grabada en una tipografía elegante y cursiva —la misma tipograf�
 
 **DAHLIA**
 
+*El pasado es un archivo corrupto. El presente es la única versión válida.* Las palabras del Manual resonaban como eco en su mente.
+
 La sala estalló en aplausos. Esta vez no fueron silenciosos. Fueron un rugido de guantes blancos contra guantes blancos, de voces agudas coreando algo que sonaba como "¡Bienvenida! ¡Bienvenida! ¡Bienvenida!"
 
 Miranda se inclinó hacia Daniel —hacia Dahlia— y le besó la mejilla. Sus labios dejaron una marca roja perfecta, visible para todo el auditorio. Un sello de propiedad. Una firma.
@@ -160,16 +181,23 @@ Pero no eran lágrimas de tristeza. Eran lágrimas de alivio.
 
 ---
 
-> *"El pasado es un archivo corrupto. El presente es la única versión válida."*
-> — Manual del Empleado NEXUM, pág. 215
-
----
-
 ## III. PISO 47
 
 Su primera asignación llegó diez minutos después de la Ceremonia, mientras aún tenía la marca de labios de Miranda en la mejilla.
 
 —Piso 47 —le informó AURA a través de un pequeño auricular nacarado que le habían insertado durante el maquillaje—. Departamento de Análisis de Datos. Serás la Asistente de Presencia Ejecutiva del Director Marcus Webb. Tu función es: servir café, filtrar llamadas, organizar agenda, y... decorar. La tasa de satisfacción esperada es del 95%. No decepciones a la Familia, Dahlia.
+
+El nombre la golpeó como un puñetazo en el estómago comprimido por el corsé.
+
+*Marcus Webb.*
+
+Marcus. El analista junior que Daniel había entrenado. Al que había enseñado a crear tablas dinámicas. Al que había prestado dinero cuando su coche se averió. Al que había defendido cuando
+
+ HR quiso despedirlo por faltar demasiado.
+
+*Su protegido.*
+
+Dahlia sintió un destello de algo frío y agudo en el pecho. ¿Miedo? ¿Vergüenza? ¿Rabia? Pero antes de que pudiera identificarlo, otra emoción lo ahogó: una felicidad brillante, química, artificial. *Servir es un honor. Servir es un placer. La Familia te ha elegido.* Las palabras del condicionamiento aplastando el pánico.
 
 El ascensor privado del Pabellón la llevó directamente al Piso 47. Era un ascensor diferente al que había intentado usar durante su fuga fallida: este tenía paredes de cristal, música de bossa nova, y olía a flores frescas. Un ascensor para Decoraciones.
 
@@ -181,7 +209,7 @@ El olor la golpeó primero.
 
 Café quemado. Sudor masculino disimulado con desodorante barato. Estrés. Papel de impresora. La electricidad estática de demasiados ordenadores en un espacio cerrado. El olor del Piso 47. El olor de su antigua vida.
 
-Dahlia salió al pasillo. Sus tacones de quince centímetros se hundieron en la moqueta gris —la misma moqueta que había pisado durante siete años con zapatos Oxford— y el sonido cambió: ya no era el *clac* limpio del auditorio, sino un *thump* amortiguado, íntimo.
+Dahlia salió al pasillo. Sus tacones de quince centímetros se hundieron en la alfombra gris —la misma alfombra que había pisado durante siete años con zapatos Oxford— y el sonido cambió: ya no era el *clac* limpio del auditorio, sino un *thump* amortiguado, íntimo.
 
 Las cabezas se giraron.
 
@@ -209,7 +237,7 @@ Dahlia se detuvo en el umbral. La amenaza resonó en su cabeza: "alguien va a De
 
 *¿Lo era?*
 
-Esperó. Una Decoración nunca interrumpe. Una Decoración espera. Una Decoración es vista, no oída, hasta que la necesitan.
+Esperó. *"Una Decoración nunca interrumpe. Una Decoración espera. Una Decoración es vista, no oída, hasta que la necesitan."* Las palabras del Manual fluían en su mente como una letanía. Como un mantra. Como una verdad.
 
 Marcus colgó el teléfono con violencia. Se frotó las sienes. Suspiró. Luego, como si sintiera una presencia, levantó la vista.
 
@@ -222,6 +250,8 @@ Hubo un segundo de silencio.
 Dahlia contuvo la respiración. Sintió que su corazón intentaba salirse del pecho comprimido por el corsé.
 
 *¿Me reconocerá? ¿Verá algo de Daniel en mis ojos? ¿Verá al analista que le enseñó a usar tablas dinámicas? ¿Verá al hombre que le prestó dinero para el taxi aquel viernes? ¿Verá a su mentor? ¿Verá a su víctima?*
+
+Pero incluso mientras se formulaban esas preguntas —preguntas humanas, preguntas de Daniel—, su cuerpo respondía de otra manera. Su espalda se enderezó. Sus rodillas se juntaron. Su barbilla bajó ligeramente. Una sonrisa de servicio apareció en sus labios. La programación sofocando el miedo con buenos modales.
 
 Marcus parpadeó.
 
@@ -243,26 +273,8 @@ Marcus no la reconocía. Marcus no veía a Daniel. Marcus veía exactamente lo q
 Marcus se reclinó en su silla. La miró como quien mira un coche nuevo en el concesionario, decidiendo si el color le gusta.
 
 —Hola, Dahlia. Llegas justo a tiempo. Este lugar es un caos. —Señaló hacia la taza vacía en su escritorio—. Tráeme un café. Solo, sin azúcar.
- 
- **Se detuvo. Sus ojos bajaron de nuevo a las piernas de Dahlia. A la curva de sus caderas enfundadas en látex. A la entrepierna lisa y ambigua que el vestido tubo exhibía y ocultaba al mismo tiempo.**
- 
- **—Y arrodíllate para servirlo —añadió, su voz bajando una octava—. Me gusta ver... la eficiencia desde ese ángulo.**
- 
- **Dahlia sintió que el aire se le escapaba.**
- 
- **Arrodillarse.**
- 
- **Como en el entrenamiento. Como con los hologramas.**
- 
- ***Uno. Dos. Succión.***
- 
- **El recuerdo de la silicona tibia en su boca golpeó su mente como un flashazo. Sus labios hormiguearon. Su boca se llenó de saliva. No de hambre. De... condicionamiento.**
- 
- **Su cuerpo *quería* arrodillarse.**
- 
- ---
- 
- Dahlia miró la taza.
+
+Dahlia miró la taza.
 
 Era SU antigua taza. La que decía "World's Okayest Analyst" en letras azules. La que Daniel había comprado en Amazon hace tres años como un chiste auto-deprecatorio. La que Marcus había heredado cuando Daniel "desapareció".
 
@@ -276,11 +288,13 @@ Tendría que volver a revisar hojas de cálculo hasta las 3 AM.
 Tendría que volver a sentir el nudo en el estómago cada domingo por la noche.
 Tendría que volver a ser Daniel Park.
 
-Y Daniel Park era infeliz. Daniel Park tenía ansiedad. Daniel Park tomaba pastillas para dormir. Daniel Park no recordaba la última vez que alguien lo había mirado con aprobación.
+Y Daniel Park era infeliz. *Como dijo la Instructora. Como lo explicó Miranda.* Daniel Park tenía ansiedad. Sus niveles de cortisol eran inaceptables. Daniel Park tomaba pastillas para dormir. *Pastillas para vivir. Para funcionar.* Daniel Park no recordaba la última vez que alguien lo había mirado con aprobación.
+
+*La Instructora tenía razón. Siempre tenía razón.*
 
 Dahlia... Dahlia solo tenía que hacer café.
 
-Dahlia dio un paso adelante. Sus tacones se hundieron en la moqueta. El dolor de sus pies —que había sido agonizante hace una hora— pareció desvanecerse, reemplazado por una sensación de propósito. De claridad.
+Dahlia dio un paso adelante. Sus tacones se hundieron en la alfombra. El dolor de sus pies —que había sido agonizante hace una hora— simplemente... desapareció. No por magia. Por química. Ser útil generaba placer. Servir liberaba dopamina. Su cerebro la recompensaba por obedecer. Era un éxtasis de servidumbre que anestesiaba el sufrimiento físico.
 
 Tomó la taza. Sintió la cerámica fría contra sus dedos manicurados, las uñas pintadas de rosa haciendo contraste con el azul de las letras.
 

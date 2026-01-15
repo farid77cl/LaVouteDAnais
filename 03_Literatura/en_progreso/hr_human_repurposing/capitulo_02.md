@@ -142,7 +142,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  —Una Decoración *alivia*.
  
- ***El alivio del Ejecutivo es la única métrica de éxito válida.*** <!-- (Manual NEXUM, pág. 82) -->
+ La voz de la instructora resonaba: *El alivio del Ejecutivo es la única métrica de éxito válida.*
  
  Otro holograma. Una silla vacía. Una silueta de luz. Una barra pulsante entre las piernas.
  
@@ -162,7 +162,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  Rodillas al suelo. El impacto contra el linóleo negro sonó lejos, como si le pasara a otro. Estaba a la altura. Justo a la altura de la luz pulsante de silicona.
  
- ***La postura de servicio es la única postura natural.*** <!-- (Manual NEXUM, pág. 12) -->
+ *La postura de servicio es la única postura natural.* Las palabras flotaban en su mente como si siempre hubieran estado ahí.
  
  —Lengua fuera. Humedad. Bienvenida.
  
@@ -178,7 +178,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos.*
  
- ***No pienses. Siente. El pensamiento es resistencia.***
+ *No pienses. Siente.* La voz era suave, insistente. *El pensamiento es resistencia.*
  
  *Succión.*
  
@@ -194,7 +194,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Éxtasis).*
  
- ***La obediencia no duele. La obediencia libera.*** <!-- (Manual NEXUM, pág. 201) -->
+ Algo susurraba en el fondo de su mente: *La obediencia no duele. La obediencia libera.*
  
  Su mente gritaba *no*. Su cuerpo gritaba *gracias*.
  
@@ -260,11 +260,7 @@ Daniel se tocó la boca. Sus dedos volvieron manchados de un rosa pálido, casi 
 
 *¿CUÁNDO me—*
 
----
 
-***La identidad es un software. Y todo software puede ser actualizado.*** <!-- Manual del Empleado NEXUM, pág. 12 -->
-
----
 
 La clase continuó.
 
@@ -314,11 +310,7 @@ No porque quisiera.
 
 Porque ya no recordaba cómo dejar de obedecer.
 
----
 
-***La postura correcta no es una elección personal. Es un requerimiento estructural.*** <!-- Manual del Empleado NEXUM, pág. 47 -->
-
----
 
 —...necesitas el tratamiento, Daniel. Es por tu bien. La Familia solo quiere—
 
@@ -396,11 +388,7 @@ Era como hundirse en agua tibia después de años de frío. Era como soltar una 
 
 *Oh, esto se siente...*
 
----
 
-***El bienestar del empleado es responsabilidad exclusiva de la Familia.*** <!-- Manual del Empleado NEXUM, pág. 89 -->
-
----
 
 Las semanas después del Elixir fueron las más tranquilas de su vida.
 
@@ -535,11 +523,7 @@ Un nombre que no tuviera que cargar con el peso de treinta y cuatro años de exp
 
 Por primera vez en meses, Daniel durmió profundamente.
 
----
 
-***El empleado que deja de luchar no ha perdido. Ha encontrado su lugar.*** <!-- Manual del Empleado NEXUM, pág. 167 -->
-
----
 
 > *Continuará en Capítulo 3: "Dahlia"*
 
