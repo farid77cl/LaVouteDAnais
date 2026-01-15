@@ -1,31 +1,31 @@
-﻿# ðŸ‘°â€â™€ï¸ Banco de Prompts V20: WEDDING & HONEYMOON EDITION
+# 👰‍♀️ Banco de Prompts V20: WEDDING & HONEYMOON EDITION
 
-> **ENFOQUE:** Vestidos de novia extremos, lencerÃ­a de noche de bodas, velos, ligueros y "Just Married" vibes.
+> **ENFOQUE:** Vestidos de novia extremos, lencería de noche de bodas, velos, ligueros y "Just Married" vibes.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **ðŸŽ¨ COLOR FREEDOM:** Miss Doll (White, Black, Pink, Gold). Helena (Black, Red, White, Silver).
+> **🎨 COLOR FREEDOM:** Miss Doll (White, Black, Pink, Gold). Helena (Black, Red, White, Silver).
 > **Total:** 105 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
-### ðŸ¦‡ Helena de AnaÃ¯s (BASE)
+### 🦇 Helena de Anaïs (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
 pale porcelain white skin, voluminous jet black hair with enormous volume, 
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine silhouette, 
 black stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### ðŸ’– Miss Doll (BASE)
+### 💖 Miss Doll (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -36,12 +36,12 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## âš ï¸ REGLAS DE PROMPT (ANTI-FILTRO)
+## ⚠️ REGLAS DE PROMPT (ANTI-FILTRO)
 
 > [!CAUTION]
-> **Palabras que activan filtros o generan muÃ±ecas:**
+> **Palabras que activan filtros o generan muñecas:**
 
-| âŒ NO USAR | âœ… USAR EN SU LUGAR |
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
 | plastic glamorous woman | glamorous woman |
 | doll-like | human realistic |
@@ -50,135 +50,135 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## ðŸ’ I. MISS DOLL â€” THE PERFECT BRIDE (10 PROMPTS)
+## 💍 I. MISS DOLL — THE PERFECT BRIDE (10 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - White Latex Bridal Gown
 
 ```text
-Professional bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal gown, strapless ultra-low neckline, mermaid cut with massive tulle train. Long white latex gloves. Diamond choker with "BRIDE" pendant. Holding bouquet of white roses. Standing at gothic altar. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual pose with arched back, bedroom eyes. Expression: arrogant queen. High contrast cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal gown, strapless ultra-low neckline, mermaid cut with massive tulle train. Long white latex gloves. Diamond choker with "BRIDE" pendant. Holding bouquet of white roses. Standing at gothic altar. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual pose with arched back, bedroom eyes. Expression: arrogant queen. High contrast cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Honeymoon White Lingerie
 
 ```text
-Professional boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX honeymoon lingerie set. White latex corset with lace details, white stockings with bows. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white canopy bed, "Just Married" sign in background. Holding champagne glass. Sensual pose with arched back, bedroom eyes. Expression: newlywed bliss. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX honeymoon lingerie set. White latex corset with lace details, white stockings with bows. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white canopy bed, "Just Married" sign in background. Holding champagne glass. Sensual pose with arched back, bedroom eyes. Expression: newlywed bliss. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Bridal Veil Portrait
 
 ```text
-Professional close-up portrait photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes enhanced with white shimmer, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing massive white tulle veil covering face slightly. White latex collar. Diamond earrings. Sensual expression. Expression: vacuous perfection. Bridal portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional close-up portrait photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes enhanced with white shimmer, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing massive white tulle veil covering face slightly. White latex collar. Diamond earrings. Sensual expression. Expression: vacuous perfection. Bridal portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Walking Down the Aisle
 
 ```text
-Professional ceremony photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Walking down the aisle. White VINYL dress, incredibly tight, restricting movement. Corset back lacing visible. PLEASER FLAMINGO-808 white 8-inch platform heels. Guests taking photos with flash. Sensual pose with arched back, bedroom eyes. Expression: triumphant bride. Cinematic cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ceremony photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Walking down the aisle. White VINYL dress, incredibly tight, restricting movement. Corset back lacing visible. PLEASER FLAMINGO-808 white 8-inch platform heels. Guests taking photos with flash. Sensual pose with arched back, bedroom eyes. Expression: triumphant bride. Cinematic cathedral. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Garter Reveal
 
 ```text
-Professional playful bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lifting front of white latex dress to show white stockings and white garter belt with rhinestones. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual cheeky pose with arched back, bedroom eyes. Expression: playful tease. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lifting front of white latex dress to show white stockings and white garter belt with rhinestones. PLEASER FLAMINGO-808 white 8-inch platform heels. Sensual cheeky pose with arched back, bedroom eyes. Expression: playful tease. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Gothic Black Bridal Gown
 
 ```text
-Professional dark bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin stark contrast to black. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold. Human realistic face. Wearing BLACK LATEX bridal gown with GOLD lace overlays. Massive black veil. Black bouquet of dead roses. Gold crown. PLEASER FLAMINGO-808 black/gold 8-inch platform heels. Standing in gothic graveyard. Sensual pose with arched back, bedroom eyes. Expression: widow before wedding. Dark atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin stark contrast to black. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold. Human realistic face. Wearing BLACK LATEX bridal gown with GOLD lace overlays. Massive black veil. Black bouquet of dead roses. Gold crown. PLEASER FLAMINGO-808 black/gold 8-inch platform heels. Standing in gothic graveyard. Sensual pose with arched back, bedroom eyes. Expression: widow before wedding. Dark atmosphere. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Black Sheer Honeymoon
 
 ```text
-Professional dark boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing BLACK sheer lingerie. Black sheer robe with fur trim. PLEASER FLAMINGO-808 gold 8-inch platform heels. Sitting on black velvet chair. Holding sign "I DO... OBEY". Sensual pose with arched back, bedroom eyes. Expression: obedient bride. Dark honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing BLACK sheer lingerie. Black sheer robe with fur trim. PLEASER FLAMINGO-808 gold 8-inch platform heels. Sitting on black velvet chair. Holding sign "I DO... OBEY". Sensual pose with arched back, bedroom eyes. Expression: obedient bride. Dark honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Pink Bridal Princess
 
 ```text
-Professional fantasy bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SATIN princess ballgown with massive skirt. Pink underbust corset. Pink veil with crystals. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in pink rose garden. Sensual pose with arched back, bedroom eyes. Expression: princess bride. Pink fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SATIN princess ballgown with massive skirt. Pink underbust corset. Pink veil with crystals. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in pink rose garden. Sensual pose with arched back, bedroom eyes. Expression: princess bride. Pink fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Gold Luxury Bride
 
 ```text
-Professional luxury bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with gold shimmer. HEAVY GLAMOUR MAKEUP: dramatic gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing GOLD METALLIC latex bridal gown. Gold corset. Gold veil. Gold jewelry everywhere. PLEASER FLAMINGO-808 gold chrome 8-inch platform heels. Standing in gold ballroom. Sensual pose with arched back, bedroom eyes. Expression: trophy wife. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with gold shimmer. HEAVY GLAMOUR MAKEUP: dramatic gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing GOLD METALLIC latex bridal gown. Gold corset. Gold veil. Gold jewelry everywhere. PLEASER FLAMINGO-808 gold chrome 8-inch platform heels. Standing in gold ballroom. Sensual pose with arched back, bedroom eyes. Expression: trophy wife. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Rose Petals Honeymoon
 
 ```text
-Professional romantic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lying on bed covered in pink and white rose petals. Wearing only pearl necklace and pink latex thigh highs. "JUST MARRIED" sash across body. PLEASER FLAMINGO-808 pink 8-inch platform heels on feet. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Romantic honeymoon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional romantic photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Lying on bed covered in pink and white rose petals. Wearing only pearl necklace and pink latex thigh highs. "JUST MARRIED" sash across body. PLEASER FLAMINGO-808 pink 8-inch platform heels on feet. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Romantic honeymoon. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ¦‡ II. HELENA â€” VAMPIRE BRIDE (10 PROMPTS)
+## 🦇 II. HELENA — VAMPIRE BRIDE (10 PROMPTS)
 
 ### Prompt 90: 11. Helena - Blood Red Victorian Bride
 
 ```text
-Professional gothic bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with red ribbon. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED velvet wedding dress, victorian style black underbust corset extremely tight, massive skirt. Red lace veil. Holding bouquet of red spider lilies. PLEASER RAPTURE-1020 blood red 8-inch boots. Standing in foggy forest. Sensual pose with arched back, bedroom eyes. Expression: eternal bride. Blood red gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with red ribbon. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED velvet wedding dress, victorian style black underbust corset extremely tight, massive skirt. Red lace veil. Holding bouquet of red spider lilies. PLEASER RAPTURE-1020 blood red 8-inch boots. Standing in foggy forest. Sensual pose with arched back, bedroom eyes. Expression: eternal bride. Blood red gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Red Latex Honeymoon
 
 ```text
-Professional vampire boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on coffin pillow. Pale porcelain white skin. Full glossy blood red lips. Wearing RED LATEX honeymoon lingerie. Red latex waspie corset, red stockings. PLEASER FLAMINGO-1020 red patent 8-inch boots. Lying on coffin-shaped bed with red satin. Sensual pose with arched back, bedroom eyes. Expression: eternal night bride. Vampire boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vampire boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on coffin pillow. Pale porcelain white skin. Full glossy blood red lips. Wearing RED LATEX honeymoon lingerie. Red latex waspie corset, red stockings. PLEASER FLAMINGO-1020 red patent 8-inch boots. Lying on coffin-shaped bed with red satin. Sensual pose with arched back, bedroom eyes. Expression: eternal night bride. Vampire boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - Black Lace Cathedral Bride
 
 ```text
-Professional dark cathedral photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with black tiara with rubies. Pale porcelain white skin angelic. Full glossy wine lips. Wearing BLACK lace wedding dress, see-through black corset. Bleeding heart necklace pendant. PLEASER MOON-708 black 7-inch heels. Standing in gothic cathedral with stained glass. Sensual pose with arched back, bedroom eyes. Expression: dark angel bride. Cathedral gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark cathedral photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with black tiara with rubies. Pale porcelain white skin angelic. Full glossy wine lips. Wearing BLACK lace wedding dress, see-through black corset. Bleeding heart necklace pendant. PLEASER MOON-708 black 7-inch heels. Standing in gothic cathedral with stained glass. Sensual pose with arched back, bedroom eyes. Expression: dark angel bride. Cathedral gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - Vampire Fangs Portrait
 
 ```text
-Professional close-up portrait photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair framing face. Pale porcelain white skin vampire pale. Full glossy blood red lips parted showing vampire fangs. Red veil lifted. Heavy goth makeup with blood red accents. Intense predator stare at camera. Expression: vampire bride hunger. Dark portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional close-up portrait photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair framing face. Pale porcelain white skin vampire pale. Full glossy blood red lips parted showing vampire fangs. Red veil lifted. Heavy goth makeup with blood red accents. Intense predator stare at camera. Expression: vampire bride hunger. Dark portrait. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - Black Red Train Back View
 
 ```text
-Professional back view bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair reaching waist. Pale porcelain white skin of back visible. Walking away from camera. Massive red and black wedding dress train flowing behind. Black corset lacing visible up spine. PLEASER RAPTURE-1020 black 8-inch boots. Sensual walking pose. Expression: departing bride. Gothic ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional back view bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair reaching waist. Pale porcelain white skin of back visible. Walking away from camera. Massive red and black wedding dress train flowing behind. Black corset lacing visible up spine. PLEASER RAPTURE-1020 black 8-inch boots. Sensual walking pose. Expression: departing bride. Gothic ballroom. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - Ghost Bride Shredded
 
 ```text
-Professional ghost bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair messy ethereal. Pale porcelain white skin ghostly. Full glossy pale lips. Wearing SHREDDED white wedding dress, ruined silk and lace, dirty texture. Silver jewelry. Black underbust corset visible through tears. PLEASER MOON-708 white 7-inch heels. Standing in abandoned house. Tim Burton aesthetic. Sensual pose with arched back, bedroom eyes. Expression: spectral bride. Haunted aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ghost bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair messy ethereal. Pale porcelain white skin ghostly. Full glossy pale lips. Wearing SHREDDED white wedding dress, ruined silk and lace, dirty texture. Silver jewelry. Black underbust corset visible through tears. PLEASER MOON-708 white 7-inch heels. Standing in abandoned house. Tim Burton aesthetic. Sensual pose with arched back, bedroom eyes. Expression: spectral bride. Haunted aesthetic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - White Sheer Ghost Lingerie
 
 ```text
-Professional ethereal boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair floating effect. Pale porcelain white skin ghostly. Full glossy pale wine lips. Wearing WHITE sheer lingerie, ghostly and ethereal. Silver chains as body harness. Black corset beneath sheer. PLEASER FLAMINGO-1020 silver 8-inch boots. Pale blue lighting. Sensual floating pose. Expression: ethereal ghost. Spectral boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ethereal boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair floating effect. Pale porcelain white skin ghostly. Full glossy pale wine lips. Wearing WHITE sheer lingerie, ghostly and ethereal. Silver chains as body harness. Black corset beneath sheer. PLEASER FLAMINGO-1020 silver 8-inch boots. Pale blue lighting. Sensual floating pose. Expression: ethereal ghost. Spectral boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - White Corset Silver Chalice
 
 ```text
-Professional ceremonial bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin. Full glossy wine lips. Wearing white satin extremely tight black underbust corset. Silver embroidery on dress. White gloves with silver rings. Holding silver chalice. PLEASER RAPTURE-1020 silver 8-inch boots. Sensual ceremonial pose. Expression: ritual bride. Silver ceremony. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ceremonial bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin. Full glossy wine lips. Wearing white satin extremely tight black underbust corset. Silver embroidery on dress. White gloves with silver rings. Holding silver chalice. PLEASER RAPTURE-1020 silver 8-inch boots. Sensual ceremonial pose. Expression: ritual bride. Silver ceremony. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - Tombstone Till Death
 
 ```text
-Professional graveyard bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips. Sitting on gothic tombstone. White mini dress, tattered and torn. Black underbust corset. PLEASER RAPTURE-1020 white patent 9-inch thigh-high boots. "TILL DEATH" written on stone. Sensual seated pose with arched back, bedroom eyes. Expression: eternal vow. Graveyard wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional graveyard bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin. Full glossy blood red lips. Sitting on gothic tombstone. White mini dress, tattered and torn. Black underbust corset. PLEASER RAPTURE-1020 white patent 9-inch thigh-high boots. "TILL DEATH" written on stone. Sensual seated pose with arched back, bedroom eyes. Expression: eternal vow. Graveyard wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Ghost Bride Mirror Selfie
 
 ```text
-Professional selfie-style photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair reflected. Pale porcelain white skin ghostly. Full glossy pale lips. Mirror selfie pose with phone. White bridal lingerie. Silver tiara. Black underbust corset. PLEASER FLAMINGO-1020 white 8-inch boots. Ghostly pale makeup. Sensual pose with arched back, bedroom eyes. Expression: spectral selfie. Haunted mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional selfie-style photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair reflected. Pale porcelain white skin ghostly. Full glossy pale lips. Mirror selfie pose with phone. White bridal lingerie. Silver tiara. Black underbust corset. PLEASER FLAMINGO-1020 white 8-inch boots. Ghostly pale makeup. Sensual pose with arched back, bedroom eyes. Expression: spectral selfie. Haunted mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ‘¯ III. DUO BRIDES (5 PROMPTS)
+## 👯 III. DUO BRIDES (5 PROMPTS)
 
 ### Prompt 80: 21. Double Wedding Portrait
 
@@ -212,143 +212,143 @@ Professional action duo photography. MISS DOLL: platinum blonde bob, HEAVY GLAMO
 
 ---
 
-## ðŸ’ IV. MISS DOLL â€” EXTRA BRIDAL GOWNS (5 PROMPTS)
+## 💍 IV. MISS DOLL — EXTRA BRIDAL GOWNS (5 PROMPTS)
 
 ### Prompt 75: 26. Miss Doll - Mermaid Latex Ultra-Fitted
 
 ```text
-Professional bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX mermaid gown, impossibly tight from chest to knees, flaring dramatically at hem. Fishtail train. Visible corset boning. PLEASER FLAMINGO-808 white 8-inch platform heels. Standing at marble altar. Sensual pose with arched back, bedroom eyes. Expression: trophy bride. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX mermaid gown, impossibly tight from chest to knees, flaring dramatically at hem. Fishtail train. Visible corset boning. PLEASER FLAMINGO-808 white 8-inch platform heels. Standing at marble altar. Sensual pose with arched back, bedroom eyes. Expression: trophy bride. Luxury wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Miss Doll - Princess Pink Tulle Ballgown
 
 ```text
-Professional fantasy bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing massive PINK TULLE princess ballgown, layers upon layers of tulle. Pink satin corset bodice. Pink crystal tiara. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in rose garden. Sensual pose with arched back, bedroom eyes. Expression: fairy tale bride. Princess fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing massive PINK TULLE princess ballgown, layers upon layers of tulle. Pink satin corset bodice. Pink crystal tiara. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing in rose garden. Sensual pose with arched back, bedroom eyes. Expression: fairy tale bride. Princess fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Miss Doll - Short Reception Mini Dress
 
 ```text
-Professional reception photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Changed into WHITE LATEX mini dress for reception. Ultra short hemline. White corset visible. Garter showing. PLEASER FLAMINGO-808 white 8-inch platform heels. Dancing at reception. Sensual pose with arched back, bedroom eyes. Expression: party bride. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reception photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Changed into WHITE LATEX mini dress for reception. Ultra short hemline. White corset visible. Garter showing. PLEASER FLAMINGO-808 white 8-inch platform heels. Dancing at reception. Sensual pose with arched back, bedroom eyes. Expression: party bride. Wedding reception. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Miss Doll - Bridal Jumpsuit Avant-Garde
 
 ```text
-Professional avant-garde bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal jumpsuit, wide legs, plunging neckline. White cape flowing. White corset belt. PLEASER FLAMINGO-808 white 8-inch platform heels. Dramatic pose on angular stairs. Sensual pose with arched back, bedroom eyes. Expression: modern bride. Avant-garde wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional avant-garde bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LATEX bridal jumpsuit, wide legs, plunging neckline. White cape flowing. White corset belt. PLEASER FLAMINGO-808 white 8-inch platform heels. Dramatic pose on angular stairs. Sensual pose with arched back, bedroom eyes. Expression: modern bride. Avant-garde wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Miss Doll - Sculptural Architecture Gown
 
 ```text
-Professional haute couture bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sculptural WHITE architectural gown, geometric shapes, dramatic shoulders. Metallic silver accents. PLEASER FLAMINGO-808 silver 8-inch platform heels. Standing in modern art museum. Sensual pose with arched back, bedroom eyes. Expression: art piece bride. Futuristic wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional haute couture bridal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sculptural WHITE architectural gown, geometric shapes, dramatic shoulders. Metallic silver accents. PLEASER FLAMINGO-808 silver 8-inch platform heels. Standing in modern art museum. Sensual pose with arched back, bedroom eyes. Expression: art piece bride. Futuristic wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ’– V. MISS DOLL â€” BRIDAL LINGERIE SENSUAL (5 PROMPTS)
+## 💖 V. MISS DOLL — BRIDAL LINGERIE SENSUAL (5 PROMPTS)
 
 ### Prompt 70: 31. Miss Doll - White Lace Corset Set
 
 ```text
-Professional bridal boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LACE bridal corset set, overbust corset with intricate lace, matching lace thong. White stockings with bows. "BRIDE" choker. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white satin bed. Sensual pose with arched back, bedroom eyes. Expression: waiting bride. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE LACE bridal corset set, overbust corset with intricate lace, matching lace thong. White stockings with bows. "BRIDE" choker. PLEASER FLAMINGO-808 white 8-inch platform heels. Sitting on white satin bed. Sensual pose with arched back, bedroom eyes. Expression: waiting bride. Honeymoon suite. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Miss Doll - Pearl Body Chain Harness
 
 ```text
-Professional luxury boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only PEARL body chain harness over naked skin, strands of pearls creating intricate pattern. White thong. Diamond earrings. PLEASER FLAMINGO-808 clear 8-inch platform heels. Lying on white fur. Sensual pose with arched back, bedroom eyes. Expression: luxury bride. Pearl fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only PEARL body chain harness over naked skin, strands of pearls creating intricate pattern. White thong. Diamond earrings. PLEASER FLAMINGO-808 clear 8-inch platform heels. Lying on white fur. Sensual pose with arched back, bedroom eyes. Expression: luxury bride. Pearl fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Miss Doll - Sheer White Bridal Babydoll
 
 ```text
-Professional romantic boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE SHEER babydoll, completely see-through. White lace trim. Pink ribbon bows. Matching sheer thong. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by window with morning light. Sensual pose with arched back, bedroom eyes. Expression: innocent bride. Bridal morning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional romantic boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE SHEER babydoll, completely see-through. White lace trim. Pink ribbon bows. Matching sheer thong. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by window with morning light. Sensual pose with arched back, bedroom eyes. Expression: innocent bride. Bridal morning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Miss Doll - Garter Belt Showcase
 
 ```text
-Professional detail boudoir photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE satin garter belt, four straps holding WHITE stockings. Rhinestone details. "JUST MARRIED" embroidered on garter. PLEASER FLAMINGO-808 white 8-inch platform heels. Lifting dress to show. Sensual pose with arched back, bedroom eyes. Expression: tease bride. Garter reveal. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional detail boudoir photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE satin garter belt, four straps holding WHITE stockings. Rhinestone details. "JUST MARRIED" embroidered on garter. PLEASER FLAMINGO-808 white 8-inch platform heels. Lifting dress to show. Sensual pose with arched back, bedroom eyes. Expression: tease bride. Garter reveal. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Miss Doll - Pink Bridal Robe Reveal
 
 ```text
-Professional morning-after photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes slightly smudged, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SILK bridal robe, open to reveal white lace bra. Holding champagne glass. "MRS" written on robe back. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by balcony. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Morning after. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morning-after photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes slightly smudged, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK SILK bridal robe, open to reveal white lace bra. Holding champagne glass. "MRS" written on robe back. PLEASER FLAMINGO-808 pink 8-inch platform heels. Standing by balcony. Sensual pose with arched back, bedroom eyes. Expression: satisfied newlywed. Morning after. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ¦‡ VI. HELENA â€” GOTHIC BRIDE GOWNS (5 PROMPTS)
+## 🦇 VI. HELENA — GOTHIC BRIDE GOWNS (5 PROMPTS)
 
 ### Prompt 65: 36. Helena - Victorian Mourning Bride
 
 ```text
-Professional gothic bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with black veil. Pale porcelain white skin. Full glossy black lips. Wearing BLACK VELVET victorian mourning wedding dress, high neck, long sleeves, massive skirt. Black underbust corset extremely tight. Jet black jewelry. Black roses bouquet. PLEASER RAPTURE-1020 black 9-inch boots. Standing in graveyard. Sensual pose with arched back, bedroom eyes. Expression: mourning bride. Victorian gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with black veil. Pale porcelain white skin. Full glossy black lips. Wearing BLACK VELVET victorian mourning wedding dress, high neck, long sleeves, massive skirt. Black underbust corset extremely tight. Jet black jewelry. Black roses bouquet. PLEASER RAPTURE-1020 black 9-inch boots. Standing in graveyard. Sensual pose with arched back, bedroom eyes. Expression: mourning bride. Victorian gothic. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 37. Helena - Corpse Bride Inspired
 
 ```text
-Professional fantasy gothic bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with cobwebs. Pale porcelain white skin with blue undertones. Full glossy purple lips. Wearing TORN WHITE wedding dress, tattered elegance. Black underbust corset visible. Skeleton bouquet. PLEASER MOON-708 pale blue 7-inch heels. Tim Burton inspiration. Standing in moonlit cemetery. Sensual pose with arched back, bedroom eyes. Expression: deceased bride. Corpse bride fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy gothic bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with cobwebs. Pale porcelain white skin with blue undertones. Full glossy purple lips. Wearing TORN WHITE wedding dress, tattered elegance. Black underbust corset visible. Skeleton bouquet. PLEASER MOON-708 pale blue 7-inch heels. Tim Burton inspiration. Standing in moonlit cemetery. Sensual pose with arched back, bedroom eyes. Expression: deceased bride. Corpse bride fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 38. Helena - Black Cathedral Gown
 
 ```text
-Professional cathedral bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver tiara. Pale porcelain white skin angelic. Full glossy wine lips. Wearing BLACK SATIN cathedral wedding gown, 20-foot train. Black overbust corset with silver embroidery. Black veil with crystals. PLEASER RAPTURE-1020 silver 8-inch boots. Walking down cathedral aisle. Sensual pose with arched back, bedroom eyes. Expression: dark royalty. Cathedral wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cathedral bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver tiara. Pale porcelain white skin angelic. Full glossy wine lips. Wearing BLACK SATIN cathedral wedding gown, 20-foot train. Black overbust corset with silver embroidery. Black veil with crystals. PLEASER RAPTURE-1020 silver 8-inch boots. Walking down cathedral aisle. Sensual pose with arched back, bedroom eyes. Expression: dark royalty. Cathedral wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 62: 39. Helena - Red Velvet Ball Gown
 
 ```text
-Professional dramatic bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with red ribbon. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED velvet ball gown, massive skirt, sweetheart neckline. Black waspie corset over gown. Red crystal jewelry. PLEASER RAPTURE-1020 red patent 8-inch boots. Holding red wine glass. Sensual pose with arched back, bedroom eyes. Expression: vampire queen bride. Blood wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dramatic bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with red ribbon. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED velvet ball gown, massive skirt, sweetheart neckline. Black waspie corset over gown. Red crystal jewelry. PLEASER RAPTURE-1020 red patent 8-inch boots. Holding red wine glass. Sensual pose with arched back, bedroom eyes. Expression: vampire queen bride. Blood wedding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 61: 40. Helena - Silver Gothic Princess
 
 ```text
-Professional fantasy bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin. Full glossy silver lips. Wearing SILVER METALLIC gothic princess gown, chainmail details. Black underbust corset. Silver jewelry everywhere. PLEASER MOON-708 silver chrome 7-inch heels. Standing on gothic throne. Sensual pose with arched back, bedroom eyes. Expression: ice princess bride. Silver fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin. Full glossy silver lips. Wearing SILVER METALLIC gothic princess gown, chainmail details. Black underbust corset. Silver jewelry everywhere. PLEASER MOON-708 silver chrome 7-inch heels. Standing on gothic throne. Sensual pose with arched back, bedroom eyes. Expression: ice princess bride. Silver fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ–¤ VII. HELENA â€” VAMPIRIC BRIDAL LINGERIE (5 PROMPTS)
+## 🖤 VII. HELENA — VAMPIRIC BRIDAL LINGERIE (5 PROMPTS)
 
 ### Prompt 60: 41. Helena - Blood Red Corset Set
 
 ```text
-Professional vampire boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on red satin. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED LATEX corset set, overbust corset, red stockings, red garter. Red crystal choker. PLEASER FLAMINGO-1020 red patent 8-inch boots. Lying on coffin-shaped bed. Sensual pose with arched back, bedroom eyes. Expression: vampire bride hunger. Coffin boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vampire boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on red satin. Pale porcelain white skin. Full glossy blood red lips. Wearing BLOOD RED LATEX corset set, overbust corset, red stockings, red garter. Red crystal choker. PLEASER FLAMINGO-1020 red patent 8-inch boots. Lying on coffin-shaped bed. Sensual pose with arched back, bedroom eyes. Expression: vampire bride hunger. Coffin boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 59: 42. Helena - Black Widow Lingerie
 
 ```text
-Professional dark boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy black lips. Wearing BLACK LACE widow lingerie, intricate spiderweb lace pattern. Black corset with red hourglass. Black stockings. PLEASER MOON-708 black 7-inch heels. Sitting on black velvet chair. Sensual pose with arched back, bedroom eyes. Expression: predator bride. Black widow fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin. Full glossy black lips. Wearing BLACK LACE widow lingerie, intricate spiderweb lace pattern. Black corset with red hourglass. Black stockings. PLEASER MOON-708 black 7-inch heels. Sitting on black velvet chair. Sensual pose with arched back, bedroom eyes. Expression: predator bride. Black widow fantasy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 58: 43. Helena - Coffin Boudoir Set
 
 ```text
-Professional gothic boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair as pillow. Pale porcelain white skin ghostly. Full glossy wine lips. Wearing BLACK SHEER bridal set, see-through. Black corset. Lying inside open coffin lined with red velvet. Arms crossed on chest then opening. PLEASER RAPTURE-1020 black 8-inch boots. Sensual awakening pose. Expression: risen bride. Vampire awakening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair as pillow. Pale porcelain white skin ghostly. Full glossy wine lips. Wearing BLACK SHEER bridal set, see-through. Black corset. Lying inside open coffin lined with red velvet. Arms crossed on chest then opening. PLEASER RAPTURE-1020 black 8-inch boots. Sensual awakening pose. Expression: risen bride. Vampire awakening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 57: 44. Helena - Silver Chain Harness
 
 ```text
-Professional fetish bridal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy silver lips. Wearing SILVER CHAIN body harness, chains creating intricate pattern over black lace bra. Black corset belt. Silver choker with leash attachment. PLEASER MOON-708 silver 7-inch heels. Standing in dungeon setting. Sensual pose with arched back, bedroom eyes. Expression: owned bride. Silver bondage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fetish bridal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy silver lips. Wearing SILVER CHAIN body harness, chains creating intricate pattern over black lace bra. Black corset belt. Silver choker with leash attachment. PLEASER MOON-708 silver 7-inch heels. Standing in dungeon setting. Sensual pose with arched back, bedroom eyes. Expression: owned bride. Silver bondage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 56: 45. Helena - Sheer Black Bridal
 
 ```text
-Professional elegant gothic boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair elegant updo. Pale porcelain white skin. Full glossy blood red lips. Wearing BLACK SHEER bridal robe over black lace lingerie. Black corset visible through sheer. Black stockings with seams. PLEASER RAPTURE-1020 black patent 8-inch boots. Standing by candlelit window. Sensual pose with arched back, bedroom eyes. Expression: gothic elegance bride. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional elegant gothic boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair elegant updo. Pale porcelain white skin. Full glossy blood red lips. Wearing BLACK SHEER bridal robe over black lace lingerie. Black corset visible through sheer. Black stockings with seams. PLEASER RAPTURE-1020 black patent 8-inch boots. Standing by candlelit window. Sensual pose with arched back, bedroom eyes. Expression: gothic elegance bride. Dark boudoir. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ‘¯ VIII. DUO â€” WEDDING NIGHT COLLECTION (10 PROMPTS)
+## 👯 VIII. DUO — WEDDING NIGHT COLLECTION (10 PROMPTS)
 
 ### Prompt 55: 46. Duo - First Night Champagne Toast
 
@@ -412,131 +412,131 @@ Professional romantic wedding night ending duo photography. MISS DOLL: platinum 
 
 ---
 
-## ðŸŽ¨ IX. EXPANSION: ALTERNATIVE BRIDAL COLORS (56-80)
+## 🎨 IX. EXPANSION: ALTERNATIVE BRIDAL COLORS (56-80)
 
 ### Prompt 45: 56. Miss Doll - Pastel Blue Something Blue
 
 ```text
-Professional bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PASTEL BLUE latex bridal gown. Blue corset. White stockings. Blue veil. Something blue theme. PLEASER FLAMINGO-808 blue 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Blue wedding. Seductive glamour photography, soft blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Wearing PASTEL BLUE latex bridal gown. Blue corset. White stockings. Blue veil. Something blue theme. PLEASER FLAMINGO-808 blue 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: lucky charm. Blue wedding. Seductive glamour photography, soft blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Emerald Green Forest Bride
 
 ```text
-Professional gothic bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing EMERALD GREEN velvet wedding dress. Black underbust corset. Green crown. Forest setting. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: nature's bride. Green gothic. Seductive glamour photography, forest lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Black lips. Wearing EMERALD GREEN velvet wedding dress. Black underbust corset. Green crown. Forest setting. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: nature's bride. Green gothic. Seductive glamour photography, forest lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Miss Doll - Lavender Haze Bride
 
 ```text
-Professional fantasy bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink/purple. Wearing LAVENDER tulle bridal ballgown. Lavender corset bodice. Silver accessories. PLEASER FLAMINGO-808 silver 8-inch heels. Lavender field background. Sensual pose with arched back, bedroom eyes. Expression: dream bride. Lavender fantasy. Seductive glamour photography, purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pink/purple. Wearing LAVENDER tulle bridal ballgown. Lavender corset bodice. Silver accessories. PLEASER FLAMINGO-808 silver 8-inch heels. Lavender field background. Sensual pose with arched back, bedroom eyes. Expression: dream bride. Lavender fantasy. Seductive glamour photography, purple lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - Midnight Blue Star Bride
 
 ```text
-Professional celestial bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with star pins. Pale porcelain skin. Blue lips. Wearing MIDNIGHT BLUE satin gown with silver star embroidery. Black corset. PLEASER MOON-708 blue 7-inch heels. Night sky background. Sensual pose with arched back, bedroom eyes. Expression: starlight bride. Celestial gothic. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional celestial bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with star pins. Pale porcelain skin. Blue lips. Wearing MIDNIGHT BLUE satin gown with silver star embroidery. Black corset. PLEASER MOON-708 blue 7-inch heels. Night sky background. Sensual pose with arched back, bedroom eyes. Expression: starlight bride. Celestial gothic. Seductive glamour photography, moonlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Miss Doll - Rose Gold Metallic Bride
 
 ```text
-Professional luxury bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold tones. Wearing ROSE GOLD metallic latex gown. Rose gold corset. Rose gold jewelry. PLEASER FLAMINGO-808 rose gold 8-inch heels. Champagne reception background. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Metallic wedding. Seductive glamour photography, warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional luxury bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP gold tones. Wearing ROSE GOLD metallic latex gown. Rose gold corset. Rose gold jewelry. PLEASER FLAMINGO-808 rose gold 8-inch heels. Champagne reception background. Sensual pose with arched back, bedroom eyes. Expression: expensive taste. Metallic wedding. Seductive glamour photography, warm lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Purple Regality Bride
 
 ```text
-Professional royal gothic bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Purple lips. Wearing DEEP PURPLE silk wedding dress. Black corset overlay. Gold crown. PLEASER RAPTURE-1020 gold 8-inch boots. Throne room. Sensual pose with arched back, bedroom eyes. Expression: queen bride. Royal gothic. Seductive glamour photography, rich lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional royal gothic bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Purple lips. Wearing DEEP PURPLE silk wedding dress. Black corset overlay. Gold crown. PLEASER RAPTURE-1020 gold 8-inch boots. Throne room. Sensual pose with arched back, bedroom eyes. Expression: queen bride. Royal gothic. Seductive glamour photography, rich lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Miss Doll - Peach Spring Bride
 
 ```text
-Professional spring bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP peach tones. Wearing PEACH chiffon wedding dress. Peach corset. Flower crown. PLEASER FLAMINGO-808 clear 8-inch heels. Garden setting. Sensual pose with arched back, bedroom eyes. Expression: spring blossom. Peach wedding. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spring bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP peach tones. Wearing PEACH chiffon wedding dress. Peach corset. Flower crown. PLEASER FLAMINGO-808 clear 8-inch heels. Garden setting. Sensual pose with arched back, bedroom eyes. Expression: spring blossom. Peach wedding. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Silver Mist Bride
 
 ```text
-Professional ethereal bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Silver lips. Wearing SILVER GREY lace wedding dress, tattered edges. Black corset. Foggy graveyard. PLEASER RAPTURE-1020 silver 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: mist walker. Grey gothic. Seductive glamour photography, fog lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ethereal bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Silver lips. Wearing SILVER GREY lace wedding dress, tattered edges. Black corset. Foggy graveyard. PLEASER RAPTURE-1020 silver 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: mist walker. Grey gothic. Seductive glamour photography, fog lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Miss Doll - Mint Green Candy Bride
 
 ```text
-Professional playful bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP green tones. Wearing MINT GREEN latex mini dress bridal style. Mint corset. White veil. Candy theme. PLEASER FLAMINGO-808 green 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: sweet treat. Candy wedding. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP green tones. Wearing MINT GREEN latex mini dress bridal style. Mint corset. White veil. Candy theme. PLEASER FLAMINGO-808 green 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: sweet treat. Candy wedding. Seductive glamour photography, pastel lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Burgundy Blood Moon Bride
 
 ```text
-Professional vampire bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BURGUNDY red velvet gown. Black corset. Red moon background. PLEASER RAPTURE-1020 red 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: blood moon. Vampire wedding. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vampire bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing BURGUNDY red velvet gown. Black corset. Red moon background. PLEASER RAPTURE-1020 red 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: blood moon. Vampire wedding. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 35: 66. Miss Doll - Platinum Silver Future Bride
 
 ```text
-Professional futuristic bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP silver. Wearing PLATINUM SILVER plastic/vinyl gown. Silver corset. Tech veil. PLEASER FLAMINGO-808 chrome 8-inch heels. Neon altar. Sensual pose with arched back, bedroom eyes. Expression: future wife. Cyber wedding. Seductive glamour photography, neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional futuristic bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP silver. Wearing PLATINUM SILVER plastic/vinyl gown. Silver corset. Tech veil. PLEASER FLAMINGO-808 chrome 8-inch heels. Neon altar. Sensual pose with arched back, bedroom eyes. Expression: future wife. Cyber wedding. Seductive glamour photography, neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Helena - Charcoal Grey Ash Bride
 
 ```text
-Professional dark bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with ash. Pale porcelain skin. Grey lips. Wearing CHARCOAL GREY tulle dress as if burnt. Black corset. Ruined church. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: from the ashes. Burnt gothic. Seductive glamour photography, smokey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair with ash. Pale porcelain skin. Grey lips. Wearing CHARCOAL GREY tulle dress as if burnt. Black corset. Ruined church. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: from the ashes. Burnt gothic. Seductive glamour photography, smokey lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Miss Doll - Yellow Sunshine Bride
 
 ```text
-Professional bright bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP warm. Wearing YELLOW satin ballgown (Beauty and the Beast style). Yellow corset. PLEASER FLAMINGO-808 gold 8-inch heels. Sunny palace. Sensual pose with arched back, bedroom eyes. Expression: radiance. Yellow wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bright bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP warm. Wearing YELLOW satin ballgown (Beauty and the Beast style). Yellow corset. PLEASER FLAMINGO-808 gold 8-inch heels. Sunny palace. Sensual pose with arched back, bedroom eyes. Expression: radiance. Yellow wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Helena - Navy Blue Deep Sea Bride
 
 ```text
-Professional oceanic gothic bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet look. Pale porcelain skin. Blue lips. Wearing NAVY BLUE scale-texture dress. Black corset. Sea cave. PLEASER RAPTURE-1020 blue 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: abyssal bride. Sea gothic. Seductive glamour photography, blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional oceanic gothic bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair wet look. Pale porcelain skin. Blue lips. Wearing NAVY BLUE scale-texture dress. Black corset. Sea cave. PLEASER RAPTURE-1020 blue 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: abyssal bride. Sea gothic. Seductive glamour photography, blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - Neon Pink Vegas Bride
 
 ```text
-Professional vegas bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP neon pink. Wearing NEON PINK short dress with feathers. Pink corset. Elvis glasses. Vegas chapel. PLEASER FLAMINGO-808 neon pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: vegas baby. Neon wedding. Seductive glamour photography, neon lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vegas bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP neon pink. Wearing NEON PINK short dress with feathers. Pink corset. Elvis glasses. Vegas chapel. PLEASER FLAMINGO-808 neon pink 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: vegas baby. Neon wedding. Seductive glamour photography, neon lights, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Helena - Crimson Velvet Desire
 
 ```text
-Professional rich bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing CRIMSON red silk gown. Black lace corset overlay. Opera gloves. PLEASER RAPTURE-1020 black 8-inch boots. Opulent bedroom. Sensual pose with arched back, bedroom eyes. Expression: deepest desire. Red gothic. Seductive glamour photography, warm red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional rich bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin. Red lips. Wearing CRIMSON red silk gown. Black lace corset overlay. Opera gloves. PLEASER RAPTURE-1020 black 8-inch boots. Opulent bedroom. Sensual pose with arched back, bedroom eyes. Expression: deepest desire. Red gothic. Seductive glamour photography, warm red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Miss Doll - Pearl White Shimmer
 
 ```text
-Professional gleaming bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing PEARL WHITE latex with iridescent finish. White corset. Pearl strands. PLEASER FLAMINGO-808 pearlescent 8-inch heels. White room. Sensual pose with arched back, bedroom eyes. Expression: pure pearl. Shimmer wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gleaming bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP pearl. Wearing PEARL WHITE latex with iridescent finish. White corset. Pearl strands. PLEASER FLAMINGO-808 pearlescent 8-inch heels. White room. Sensual pose with arched back, bedroom eyes. Expression: pure pearl. Shimmer wedding. Seductive glamour photography, bright lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Helena - Slate Blue Storm Bride
 
 ```text
-Professional stormy bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair windswept. Pale porcelain skin. Blue-grey lips. Wearing SLATE BLUE flowing dress. Black corset. Cliff edge with storm. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: storm bringer. Weather gothic. Seductive glamour photography, dramatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stormy bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair windswept. Pale porcelain skin. Blue-grey lips. Wearing SLATE BLUE flowing dress. Black corset. Cliff edge with storm. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: storm bringer. Weather gothic. Seductive glamour photography, dramatic lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Miss Doll - Coral Reef Tropical Bride
 
 ```text
-Professional tropical bridal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP coral. Wearing CORAL reef inspired gown. Coral corset. Tropical flower bouquet. Beach sunset. PLEASER FLAMINGO-808 clear 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: tropical vows. Beach wedding. Seductive glamour photography, sunset lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tropical bridal photography of woman 28+ years old mature glamorous with platinum blonde bob. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP coral. Wearing CORAL reef inspired gown. Coral corset. Tropical flower bouquet. Beach sunset. PLEASER FLAMINGO-808 clear 8-inch heels. Sensual pose with arched back, bedroom eyes. Expression: tropical vows. Beach wedding. Seductive glamour photography, sunset lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Helena - Pure Black Void Bride
 
 ```text
-Professional absolute black bridal photography of young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin stark contrast. Black lips. Wearing VANTA BLACK velvet dress (light absorbing). Black corset. Black void background. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: absorb light. Void gothic. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional absolute black bridal photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Voluminous black hair. Pale porcelain skin stark contrast. Black lips. Wearing VANTA BLACK velvet dress (light absorbing). Black corset. Black void background. PLEASER RAPTURE-1020 black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: absorb light. Void gothic. Seductive glamour photography, dark lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸŒŽ X. EXPANSION: BRIDAL SCENARIOS & LOCATIONS (81-105)
+## 🌎 X. EXPANSION: BRIDAL SCENARIOS & LOCATIONS (81-105)
 
 ### Prompt 25: 81. Miss Doll - Limousine Arrival
 
@@ -690,8 +690,8 @@ Professional ending duo photography. MISS DOLL and HELENA walking away from came
 
 ---
 
-*Creado por: Helena de AnaÃ¯s ðŸ¦‡*
-*V20.2 Wedding & Honeymoon Collection â€” 105 prompts*
+*Creado por: Helena de Anaïs 🦇*
+*V20.2 Wedding & Honeymoon Collection — 105 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2026-01-04*
 

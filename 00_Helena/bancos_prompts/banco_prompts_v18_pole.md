@@ -1,4 +1,4 @@
-﻿# 💃 BANCO DE PROMPTS V18: POLE WEAR EDITION
+# ?? BANCO DE PROMPTS V18: POLE WEAR EDITION
 
 > **ENFOQUE:** Ropa de pole dance de **POLE SINS**, **CLEO THE HURRICANE**, y **LUNA POLEWEAR**.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
@@ -6,15 +6,15 @@
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
 
-### 💖 MISS DOLL (BASE)
+### ?? MISS DOLL (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -23,17 +23,17 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### 🦇 HELENA DE ANAÏS (BASE)
+### ?? HELENA DE ANA�S (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### 👑 ANAÏS BELLAND (BASE)
+### ?? ANA�S BELLAND (BASE)
 
 ```text
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -46,9 +46,9 @@ Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structure
 PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```text
 
-### ⚠️ REGLAS ANTI-FILTRO
+### ?? REGLAS ANTI-FILTRO
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| ? NO USAR | ? USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -59,38 +59,38 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## 🦇 I. HELENA — DARK POLE GODDESS (20 PROMPTS)
+## ?? I. HELENA � DARK POLE GODDESS (20 PROMPTS)
 
 ### Pole Sins Collection
 
 ### Prompt 100: 1. Helena - Pole Sins Black Mesh Set
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail with enormous volume. Pale porcelain white skin glistening with pole sweat. Full glossy black lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MESH HIGH-WAISTED SHORTS and matching MESH CROP TOP, skin visible through. Black steel-boned underbust corset visible at waist. PLEASER FLAMINGO-1020 black patent 8-inch platform ankle boots. Climbing chrome pole, strong grip. Sensual pose with arched back, bedroom eyes. Expression: dark athletic focus. Dark pole studio with purple lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail with enormous volume. Pale porcelain white skin glistening with pole sweat. Full glossy black lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MESH HIGH-WAISTED SHORTS and matching MESH CROP TOP, skin visible through. Black steel-boned underbust corset visible at waist. PLEASER FLAMINGO-1020 black patent 8-inch platform ankle boots. Climbing chrome pole, strong grip. Sensual pose with arched back, bedroom eyes. Expression: dark athletic focus. Dark pole studio with purple lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - Pole Sins Velvet Black Bottoms
 
 ```text
-Professional dance photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and free. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK VELVET BOOTY SHORTS ultra-short and BLACK VELVET BRA TOP. Black underbust corset at waist. PLEASER FLAMINGO-1020 black glitter 8-inch platform boots. Inverting on pole, upside down, hair hanging. Sensual pose with arched back, bedroom eyes. Expression: inverted confidence. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dance photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and free. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK VELVET BOOTY SHORTS ultra-short and BLACK VELVET BRA TOP. Black underbust corset at waist. PLEASER FLAMINGO-1020 black glitter 8-inch platform boots. Inverting on pole, upside down, hair hanging. Sensual pose with arched back, bedroom eyes. Expression: inverted confidence. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - Pole Sins Strappy Black Set
 
 ```text
-Professional exotic dance photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with straps creating patterns. Full glossy black lips. Feminine hourglass silhouette. Wearing POLE SINS STRAPPY BLACK BOTTOMS with multiple straps and matching STRAPPY TOP criss-cross design. Black corset belt. PLEASER ADORE-1020 black 7-inch heel boots. Spinning on pole, legs extended. Sensual pose with arched back, bedroom eyes. Expression: strappy goddess. Dark exotic studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional exotic dance photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin with straps creating patterns. Full glossy black lips. Feminine hourglass silhouette. Wearing POLE SINS STRAPPY BLACK BOTTOMS with multiple straps and matching STRAPPY TOP criss-cross design. Black corset belt. PLEASER ADORE-1020 black 7-inch heel boots. Spinning on pole, legs extended. Sensual pose with arched back, bedroom eyes. Expression: strappy goddess. Dark exotic studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - Pole Sins Burgundy Crushed Velvet
 
 ```text
-Professional wine-themed pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled dramatically. Pale porcelain white skin. Full glossy burgundy lips matching outfit. Feminine hourglass silhouette. Wearing POLE SINS BURGUNDY CRUSHED VELVET HIGH-WAISTED SHORTS and matching BRA TOP. Black underbust corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Climbing pole, mid-climb. Sensual pose with arched back, bedroom eyes. Expression: wine and dance. Burgundy lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wine-themed pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled dramatically. Pale porcelain white skin. Full glossy burgundy lips matching outfit. Feminine hourglass silhouette. Wearing POLE SINS BURGUNDY CRUSHED VELVET HIGH-WAISTED SHORTS and matching BRA TOP. Black underbust corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Climbing pole, mid-climb. Sensual pose with arched back, bedroom eyes. Expression: wine and dance. Burgundy lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - Pole Sins Wet-Look Black
 
 ```text
-Professional wet-look pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair slicked back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS WET-LOOK BLACK LEGGINGS high-waisted and WET-LOOK CROP TOP, extremely shiny like latex. Black corset over. PLEASER FLAMINGO-1020 black patent 8-inch boots. Floor work, legs split. Sensual pose with arched back, bedroom eyes. Expression: slick and sensual. Dark wet studio vibe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional wet-look pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair slicked back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS WET-LOOK BLACK LEGGINGS high-waisted and WET-LOOK CROP TOP, extremely shiny like latex. Black corset over. PLEASER FLAMINGO-1020 black patent 8-inch boots. Floor work, legs split. Sensual pose with arched back, bedroom eyes. Expression: slick and sensual. Dark wet studio vibe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Cleo the Hurricane Collection
@@ -98,31 +98,31 @@ Professional wet-look pole photography of young elegant goth glamour woman ADULT
 ### Prompt 95: 6. Helena - Cleo Hurricane Gothic Harness Set
 
 ```text
-Professional harness pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE GOTHIC HARNESS SET black strappy body harness with matching bottoms. Black underbust corset integrated in harness design. PLEASER FLAMINGO-1020 black 8-inch ankle boots. Suspended on pole in dramatic pose. Sensual pose with arched back, bedroom eyes. Expression: harnessed power. Dark industrial studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional harness pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE GOTHIC HARNESS SET black strappy body harness with matching bottoms. Black underbust corset integrated in harness design. PLEASER FLAMINGO-1020 black 8-inch ankle boots. Suspended on pole in dramatic pose. Sensual pose with arched back, bedroom eyes. Expression: harnessed power. Dark industrial studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - Cleo Hurricane Cut-Out Catsuit
 
 ```text
-Professional catsuit pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin visible through cut-outs. Full glossy purple lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK CUT-OUT CATSUIT with strategic openings, long sleeves. Black underbust corset over catsuit. PLEASER ADORE-1020 black 7-inch boots. Pole spin, fabric catching air. Sensual pose with arched back, bedroom eyes. Expression: dramatic dancer. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional catsuit pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing. Pale porcelain white skin visible through cut-outs. Full glossy purple lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK CUT-OUT CATSUIT with strategic openings, long sleeves. Black underbust corset over catsuit. PLEASER ADORE-1020 black 7-inch boots. Pole spin, fabric catching air. Sensual pose with arched back, bedroom eyes. Expression: dramatic dancer. Dark studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - Cleo Hurricane Lace Bodysuit
 
 ```text
-Professional lace pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through lace. Full glossy dark cherry lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK LACE BODYSUIT sheer with strategic coverage. Black underbust corset over. PLEASER FLAMINGO-1020 black 8-inch boots. Back bend on pole, arched dramatically. Sensual pose with arched back, bedroom eyes. Expression: flexible lace goddess. Gothic pole studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lace pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin visible through lace. Full glossy dark cherry lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK LACE BODYSUIT sheer with strategic coverage. Black underbust corset over. PLEASER FLAMINGO-1020 black 8-inch boots. Back bend on pole, arched dramatically. Sensual pose with arched back, bedroom eyes. Expression: flexible lace goddess. Gothic pole studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - Cleo Hurricane Deep Purple Set
 
 ```text
-Professional purple pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with purple streaks. Pale porcelain white skin with purple reflections. Full glossy purple lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE DEEP PURPLE VELVET TWO-PIECE shorts and top. Purple satin underbust corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Jamilla hold on pole. Sensual pose with arched back, bedroom eyes. Expression: purple reign. Purple lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional purple pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with purple streaks. Pale porcelain white skin with purple reflections. Full glossy purple lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE DEEP PURPLE VELVET TWO-PIECE shorts and top. Purple satin underbust corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Jamilla hold on pole. Sensual pose with arched back, bedroom eyes. Expression: purple reign. Purple lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - Cleo Hurricane Fishnet Catsuit
 
 ```text
-Professional fishnet pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair wild. Pale porcelain white skin visible through fishnet. Full glossy black lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK FISHNET FULL CATSUIT with modesty patches. Black overbust corset over fishnet. PLEASER FLAMINGO-1020 black 8-inch boots. Shoulder mount on pole. Sensual pose with arched back, bedroom eyes. Expression: caught in net. Dark industrial. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fishnet pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous black hair wild. Pale porcelain white skin visible through fishnet. Full glossy black lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK FISHNET FULL CATSUIT with modesty patches. Black overbust corset over fishnet. PLEASER FLAMINGO-1020 black 8-inch boots. Shoulder mount on pole. Sensual pose with arched back, bedroom eyes. Expression: caught in net. Dark industrial. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Luna Polewear Collection
@@ -130,13 +130,13 @@ Professional fishnet pole photography of young elegant goth glamour woman ADULT 
 ### Prompt 90: 11. Helena - Luna Midnight Set
 
 ```text
-Professional midnight pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR MIDNIGHT BLACK HIGH-WAISTED SHORTS and MATCHING BRA with subtle shimmer. Black corset belt. PLEASER FLAMINGO-1020 black 8-inch boots. Brass monkey hold on pole. Sensual pose with arched back, bedroom eyes. Expression: midnight practice. Low-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional midnight pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR MIDNIGHT BLACK HIGH-WAISTED SHORTS and MATCHING BRA with subtle shimmer. Black corset belt. PLEASER FLAMINGO-1020 black 8-inch boots. Brass monkey hold on pole. Sensual pose with arched back, bedroom eyes. Expression: midnight practice. Low-lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Luna Dark Floral
 
 ```text
-Professional floral pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with dark roses. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR DARK FLORAL PRINT TWO-PIECE black with dark red roses. Black underbust corset. PLEASER ADORE-1020 red 7-inch boots. Floor work, sensual crawl. Sensual pose with arched back, bedroom eyes. Expression: deadly flower. Dark garden studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional floral pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with dark roses. Pale porcelain white skin. Full glossy dark wine lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR DARK FLORAL PRINT TWO-PIECE black with dark red roses. Black underbust corset. PLEASER ADORE-1020 red 7-inch boots. Floor work, sensual crawl. Sensual pose with arched back, bedroom eyes. Expression: deadly flower. Dark garden studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Performance & Competition
@@ -144,13 +144,13 @@ Professional floral pole photography of young elegant goth glamour woman ADULT W
 ### Prompt 88: 13. Helena - Competition Black Rhinestone
 
 ```text
-Professional competition pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in competition style. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS COMPETITION BLACK SET with rhinestone accents sparkling. Black corset integrated. PLEASER FLAMINGO-1020 black with rhinestones 8-inch boots. Ayesha hold on pole. Sensual pose with arched back, bedroom eyes. Expression: competition focus. Competition stage lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional competition pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in competition style. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS COMPETITION BLACK SET with rhinestone accents sparkling. Black corset integrated. PLEASER FLAMINGO-1020 black with rhinestones 8-inch boots. Ayesha hold on pole. Sensual pose with arched back, bedroom eyes. Expression: competition focus. Competition stage lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - Performance Black Bodysuit
 
 ```text
-Professional performance pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair theatrical. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PERFORMANCE BLACK BODYSUIT with dramatic sleeves. Black corset element visible. PLEASER FLAMINGO-1020 black 8-inch boots. Superman hold on pole. Sensual pose with arched back, bedroom eyes. Expression: stage presence. Performance stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional performance pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair theatrical. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE PERFORMANCE BLACK BODYSUIT with dramatic sleeves. Black corset element visible. PLEASER FLAMINGO-1020 black 8-inch boots. Superman hold on pole. Sensual pose with arched back, bedroom eyes. Expression: stage presence. Performance stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Freestyle & Practice
@@ -158,13 +158,13 @@ Professional performance pole photography of young elegant goth glamour woman AD
 ### Prompt 86: 15. Helena - Practice Session Look
 
 ```text
-Professional practice pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy bun. Pale porcelain white skin lightly sweaty. Full glossy black lips natural. Feminine hourglass silhouette. Wearing simple POLE SINS BLACK BOOTY SHORTS and BLACK SPORTS BRA. Black training corset loosened. PLEASER 8-inch boots beside pole, practicing barefoot. Basic spin practice. Sensual pose with arched back, bedroom eyes. Expression: dedicated training. Home pole studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional practice pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy bun. Pale porcelain white skin lightly sweaty. Full glossy black lips natural. Feminine hourglass silhouette. Wearing simple POLE SINS BLACK BOOTY SHORTS and BLACK SPORTS BRA. Black training corset loosened. PLEASER 8-inch boots beside pole, practicing barefoot. Basic spin practice. Sensual pose with arched back, bedroom eyes. Expression: dedicated training. Home pole studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - Warm-Up Black Leggings
 
 ```text
-Professional warm-up photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR BLACK HIGH-WAISTED LEGGINGS for warm-up and BLACK CROP TOP. Black corset off to the side. PLEASER 8-inch boots ready nearby. Stretching beside pole. Sensual pose with arched back, bedroom eyes. Expression: preparing. Warm studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional warm-up photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR BLACK HIGH-WAISTED LEGGINGS for warm-up and BLACK CROP TOP. Black corset off to the side. PLEASER 8-inch boots ready nearby. Stretching beside pole. Sensual pose with arched back, bedroom eyes. Expression: preparing. Warm studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Music Video & Editorial Style
@@ -172,13 +172,13 @@ Professional warm-up photography of young elegant goth glamour woman ADULT WOMAN
 ### Prompt 84: 17. Helena - Music Video Goth Pole
 
 ```text
-Professional music video pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with fog machine effect behind. Pale porcelain white skin dramatic lighting. Full glossy purple lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MESH FULL BODYSUIT. Black corset over mesh. PLEASER FLAMINGO-1020 black 8-inch boots. Artistic pole move, smoke around. Sensual pose with arched back, bedroom eyes. Expression: music video star. Video set with fog. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional music video pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with fog machine effect behind. Pale porcelain white skin dramatic lighting. Full glossy purple lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MESH FULL BODYSUIT. Black corset over mesh. PLEASER FLAMINGO-1020 black 8-inch boots. Artistic pole move, smoke around. Sensual pose with arched back, bedroom eyes. Expression: music video star. Video set with fog. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - Editorial Dark Pole
 
 ```text
-Professional editorial pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair fashion-styled. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE EDITORIAL BLACK SET designer-level pole wear. Black fashion corset. PLEASER FLAMINGO-1020 black 8-inch boots. Artistic pose on pole, high fashion. Sensual pose with arched back, bedroom eyes. Expression: editorial intensity. Fashion photography studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional editorial pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair fashion-styled. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE EDITORIAL BLACK SET designer-level pole wear. Black fashion corset. PLEASER FLAMINGO-1020 black 8-inch boots. Artistic pose on pole, high fashion. Sensual pose with arched back, bedroom eyes. Expression: editorial intensity. Fashion photography studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Chair & Floor Work
@@ -186,18 +186,18 @@ Professional editorial pole photography of young elegant goth glamour woman ADUL
 ### Prompt 82: 19. Helena - Chair Dance Black
 
 ```text
-Professional chair dance photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair draped over chair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MICRO SET very minimal. Black corset visible. PLEASER FLAMINGO-1020 black 8-inch boots on chair rungs. Arched back over chair. Sensual pose with arched back, bedroom eyes. Expression: chair seduction. Dark cabaret stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chair dance photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair draped over chair. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK MICRO SET very minimal. Black corset visible. PLEASER FLAMINGO-1020 black 8-inch boots on chair rungs. Arched back over chair. Sensual pose with arched back, bedroom eyes. Expression: chair seduction. Dark cabaret stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Floor Work Serpent
 
 ```text
-Professional floor work photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on floor dramatically. Pale porcelain white skin on black floor. Full glossy black lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK SNAKE PRINT SET. Black corset visible. PLEASER FLAMINGO-1020 black 8-inch boots legs extended. Serpentine floor movement. Sensual pose with arched back, bedroom eyes. Expression: floor serpent. Dark studio floor level. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional floor work photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on floor dramatically. Pale porcelain white skin on black floor. Full glossy black lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BLACK SNAKE PRINT SET. Black corset visible. PLEASER FLAMINGO-1020 black 8-inch boots legs extended. Serpentine floor movement. Sensual pose with arched back, bedroom eyes. Expression: floor serpent. Dark studio floor level. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 💖 II. MISS DOLL — PINK POLE PRINCESS (20 PROMPTS)
+## ?? II. MISS DOLL � PINK POLE PRINCESS (20 PROMPTS)
 
 ### Pole Sins Collection
 
@@ -335,21 +335,21 @@ Professional kiss pole photography of woman with platinum blonde bob haircut WIT
 
 ---
 
-## 👑 III. ANAÏS — ELEGANT POLE (5 PROMPTS)
+## ?? III. ANA�S � ELEGANT POLE (5 PROMPTS)
 
-### Prompt 60: 41. Anaïs - Exotic Pole Burgundy
+### Prompt 60: 41. Ana�s - Exotic Pole Burgundy
 
 ```text
 Professional elegant pole photography of aristocratic woman with honey blonde hair in Betty Page vintage waves. Bronze skin with pole sheen. Red glossy lips. Feminine hourglass silhouette. Wearing CLEO THE HURRICANE BURGUNDY VELVET SET elegant. Burgundy satin corset. PLEASER AMUSE-20 burgundy 5-inch heel (rare pole in heels). Graceful pole spin, leg extended elegantly. Sensual pose with arched back, bedroom eyes. Expression: exotic elegance. Warm burgundy lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 59: 42. Anaïs - Champagne Pole
+### Prompt 59: 42. Ana�s - Champagne Pole
 
 ```text
 Professional champagne pole photography of aristocratic woman with honey blonde hair flowing. Bronze skin golden glow. Gold glossy lips. Feminine hourglass silhouette. Wearing LUNA POLEWEAR CHAMPAGNE GOLD SET shimmering. Gold corset. PLEASER CLASSIQUE-20 gold 5-inch heel. Pole descent, floating down. Sensual pose with arched back, bedroom eyes. Expression: golden goddess. Gold lit studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 58: 43. Anaïs - Mature Instructor
+### Prompt 58: 43. Ana�s - Mature Instructor
 
 ```text
 Professional instructor photography of aristocratic woman with honey blonde hair in professional ponytail. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing POLE SINS BLACK INSTRUCTOR SET professional. Black corset. PLEASER AMUSE-20 black 5-inch heel. Demonstrating pole technique. Sensual pose with arched back, bedroom eyes. Expression: teaching the art. Pole class studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -357,7 +357,7 @@ Professional instructor photography of aristocratic woman with honey blonde hair
 
 ---
 
-## 👯 IV. DUO & TRIO POLE (7 PROMPTS)
+## ?? IV. DUO & TRIO POLE (7 PROMPTS)
 
 ### Prompt 57: 44. Helena and Miss Doll - Double Pole
 
@@ -368,7 +368,7 @@ Professional duo pole photography. HELENA: black hair flying, pale skin, POLE SI
 ### Prompt 56: 45. All Three - Pole Line-Up
 
 ```text
-Professional trio pole photography. ANAÏS: honey blonde, burgundy set, gold corset, PLEASER burgundy 5-inch, center pole instructor. HELENA: black hair, black set, black corset, PLEASER black 8-inch, left pole student. MISS DOLL: blonde bob, pink set, pink corset, PLEASER pink 8-inch, right pole student. Class formation. Sensual pose with arched back, bedroom eyes. Expression: the pole class. Professional studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trio pole photography. ANA�S: honey blonde, burgundy set, gold corset, PLEASER burgundy 5-inch, center pole instructor. HELENA: black hair, black set, black corset, PLEASER black 8-inch, left pole student. MISS DOLL: blonde bob, pink set, pink corset, PLEASER pink 8-inch, right pole student. Class formation. Sensual pose with arched back, bedroom eyes. Expression: the pole class. Professional studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 55: 46. Helena and Miss Doll - Same Pole Share
@@ -386,123 +386,123 @@ Professional teaching photography. HELENA: black hair, black practice clothes, b
 ### Prompt 53: 48. Competition Trio
 
 ```text
-Professional competition photography. ANAÏS, HELENA, MISS DOLL in competition outfits. ANAÏS: gold rhinestone set, gold corset. HELENA: black rhinestone set, black corset. MISS DOLL: pink rhinestone set, pink corset. All PLEASER rhinestone heels. Victory pose together on stage. Sensual pose with arched back, bedroom eyes. Expression: winning trio. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional competition photography. ANA�S, HELENA, MISS DOLL in competition outfits. ANA�S: gold rhinestone set, gold corset. HELENA: black rhinestone set, black corset. MISS DOLL: pink rhinestone set, pink corset. All PLEASER rhinestone heels. Victory pose together on stage. Sensual pose with arched back, bedroom eyes. Expression: winning trio. Competition stage. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 52: 49. After Practice All Three
 
 ```text
-Professional after-practice photography. ANAÏS: honey blonde messy, burgundy sweaty outfit, corset off, water bottle. HELENA: black hair wild, black practice clothes, corset loose, toweling off. MISS DOLL: blonde bob messy, pink practice clothes, no corset, sipping smoothie. All heels off, barefoot. Exhausted smiles. Sensual pose with arched back, bedroom eyes. Expression: good session. Pole studio floor collapsed. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional after-practice photography. ANA�S: honey blonde messy, burgundy sweaty outfit, corset off, water bottle. HELENA: black hair wild, black practice clothes, corset loose, toweling off. MISS DOLL: blonde bob messy, pink practice clothes, no corset, sipping smoothie. All heels off, barefoot. Exhausted smiles. Sensual pose with arched back, bedroom eyes. Expression: good session. Pole studio floor collapsed. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 51: 50. Music Video All Three
 
 ```text
-Professional music video pole photography. ANAÏS: honey blonde flowing, gold video outfit, gold corset, center pole, smoke behind. HELENA: black hair dramatic, black mesh video outfit, black corset, left pole, backlit. MISS DOLL: blonde bob perfect, pink sparkle video outfit, pink corset, right pole, confetti. All in PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: pole video stars. Music video set. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional music video pole photography. ANA�S: honey blonde flowing, gold video outfit, gold corset, center pole, smoke behind. HELENA: black hair dramatic, black mesh video outfit, black corset, left pole, backlit. MISS DOLL: blonde bob perfect, pink sparkle video outfit, pink corset, right pole, confetti. All in PLEASER heels. Sensual pose with arched back, bedroom eyes. Expression: pole video stars. Music video set. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🎨 V. COLOR FREEDOM POLE (50 PROMPTS)
+## ?? V. COLOR FREEDOM POLE (50 PROMPTS)
 
 > [!TIP]
-> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color en pole wear.
+> **?? COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color en pole wear.
 
-### 🦇 Helena - Color Pole Variations (15 prompts)
+### ?? Helena - Color Pole Variations (15 prompts)
 
 ### Prompt 50: 51. Helena - Emerald Pole Goddess
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing POLE SINS EMERALD GREEN velvet set. Emerald corset. PLEASER FLAMINGO-1020 emerald 8-inch boots. Climbing pole in emerald light. Sensual pose with arched back, bedroom eyes. Expression: forest pole witch. Green lit studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy EMERALD GREEN lips. Wearing POLE SINS EMERALD GREEN velvet set. Emerald corset. PLEASER FLAMINGO-1020 emerald 8-inch boots. Climbing pole in emerald light. Sensual pose with arched back, bedroom eyes. Expression: forest pole witch. Green lit studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Helena - Sapphire Pole Ice Queen
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair slicked. Pale porcelain white skin with blue glow. Full glossy SAPPHIRE BLUE lips. Wearing CLEO THE HURRICANE SAPPHIRE BLUE mesh set. Blue corset. PLEASER FLAMINGO-1020 sapphire 8-inch boots. Spinning on pole in ice lighting. Sensual pose with arched back, bedroom eyes. Expression: ice pole queen. Blue frozen studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair slicked. Pale porcelain white skin with blue glow. Full glossy SAPPHIRE BLUE lips. Wearing CLEO THE HURRICANE SAPPHIRE BLUE mesh set. Blue corset. PLEASER FLAMINGO-1020 sapphire 8-inch boots. Spinning on pole in ice lighting. Sensual pose with arched back, bedroom eyes. Expression: ice pole queen. Blue frozen studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Rose Gold Pole Romance
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black wavy hair with rose highlights. Pale porcelain white skin with rose shimmer. Dark rose glossy lips. Wearing LUNA POLEWEAR ROSE GOLD metallic set. Rose gold corset. PLEASER FLAMINGO-1020 rose gold 8-inch boots. Romantic pole pose. Sensual pose with arched back, bedroom eyes. Expression: romantic pole goddess. Rose gold lit studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black wavy hair with rose highlights. Pale porcelain white skin with rose shimmer. Dark rose glossy lips. Wearing LUNA POLEWEAR ROSE GOLD metallic set. Rose gold corset. PLEASER FLAMINGO-1020 rose gold 8-inch boots. Romantic pole pose. Sensual pose with arched back, bedroom eyes. Expression: romantic pole goddess. Rose gold lit studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Helena - Silver Chrome Pole Cyborg
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Slicked black hair chrome wet look. Pale porcelain white skin with chrome reflection. Silver metallic lips. Wearing POLE SINS STERLING SILVER latex set futuristic. Silver corset. PLEASER FLAMINGO-1020 chrome 8-inch boots. Futuristic pole moves. Sensual pose with arched back, bedroom eyes. Expression: chrome pole cyborg. Silver studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Slicked black hair chrome wet look. Pale porcelain white skin with chrome reflection. Silver metallic lips. Wearing POLE SINS STERLING SILVER latex set futuristic. Silver corset. PLEASER FLAMINGO-1020 chrome 8-inch boots. Futuristic pole moves. Sensual pose with arched back, bedroom eyes. Expression: chrome pole cyborg. Silver studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Champagne Pole Celebration
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with gold glitter. Pale porcelain white skin with champagne glow. Champagne metallic lips. Wearing CLEO THE HURRICANE CHAMPAGNE GOLD sequin set. Gold corset. PLEASER FLAMINGO-1020 gold 8-inch boots. NYE pole performance. Sensual pose with arched back, bedroom eyes. Expression: celebration pole star. Gold confetti studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair with gold glitter. Pale porcelain white skin with champagne glow. Champagne metallic lips. Wearing CLEO THE HURRICANE CHAMPAGNE GOLD sequin set. Gold corset. PLEASER FLAMINGO-1020 gold 8-inch boots. NYE pole performance. Sensual pose with arched back, bedroom eyes. Expression: celebration pole star. Gold confetti studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Helena - Copper Pole Autumn
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with copper highlights. Pale porcelain white skin with copper glow. Terracotta glossy lips. Wearing LUNA POLEWEAR COPPER metallic set autumn. Copper corset. PLEASER FLAMINGO-1020 copper 8-inch boots. Autumn themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: autumn pole harvest. Copper autumn studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair with copper highlights. Pale porcelain white skin with copper glow. Terracotta glossy lips. Wearing LUNA POLEWEAR COPPER metallic set autumn. Copper corset. PLEASER FLAMINGO-1020 copper 8-inch boots. Autumn themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: autumn pole harvest. Copper autumn studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Teal Pole Aquatic
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wet black hair aquatic styling. Pale porcelain white skin with teal reflection. Teal glossy lips. Wearing POLE SINS DARK TEAL wet-look set. Teal corset. PLEASER FLAMINGO-1020 teal 8-inch boots. Mermaid pole moves. Sensual pose with arched back, bedroom eyes. Expression: aquatic pole siren. Teal underwater effect studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Wet black hair aquatic styling. Pale porcelain white skin with teal reflection. Teal glossy lips. Wearing POLE SINS DARK TEAL wet-look set. Teal corset. PLEASER FLAMINGO-1020 teal 8-inch boots. Mermaid pole moves. Sensual pose with arched back, bedroom eyes. Expression: aquatic pole siren. Teal underwater effect studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Helena - Bronze Pole Warrior
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with bronze streaks warrior styling. Pale porcelain white skin with bronze shimmer. Bronze metallic lips. Wearing CLEO THE HURRICANE ANTIQUE BRONZE armor-inspired set. Bronze corset. PLEASER FLAMINGO-1020 bronze 8-inch boots. Warrior pole poses. Sensual pose with arched back, bedroom eyes. Expression: warrior pole goddess. Bronze arena studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair with bronze streaks warrior styling. Pale porcelain white skin with bronze shimmer. Bronze metallic lips. Wearing CLEO THE HURRICANE ANTIQUE BRONZE armor-inspired set. Bronze corset. PLEASER FLAMINGO-1020 bronze 8-inch boots. Warrior pole poses. Sensual pose with arched back, bedroom eyes. Expression: warrior pole goddess. Bronze arena studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - White Pole Ethereal
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair severe contrast. Pale marble skin ethereal. Nude-wine lips. Wearing LUNA POLEWEAR STARK WHITE mesh set angelic. White corset. PLEASER FLAMINGO-1020 white 8-inch boots. Ethereal pole flow. Sensual pose with arched back, bedroom eyes. Expression: ethereal dark angel. White fog studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair severe contrast. Pale marble skin ethereal. Nude-wine lips. Wearing LUNA POLEWEAR STARK WHITE mesh set angelic. White corset. PLEASER FLAMINGO-1020 white 8-inch boots. Ethereal pole flow. Sensual pose with arched back, bedroom eyes. Expression: ethereal dark angel. White fog studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Helena - Plum Pole Wine
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing POLE SINS PLUM WINE velvet set luxurious. Plum corset. PLEASER FLAMINGO-1020 plum 8-inch boots. Sensual wine-themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: wine pole goddess. Plum wine cellar studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black elegant hair. Pale porcelain white skin. Deep plum glossy lips. Wearing POLE SINS PLUM WINE velvet set luxurious. Plum corset. PLEASER FLAMINGO-1020 plum 8-inch boots. Sensual wine-themed pole routine. Sensual pose with arched back, bedroom eyes. Expression: wine pole goddess. Plum wine cellar studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Amethyst Pole Crystal
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black hair with purple crystals. Pale porcelain white skin with purple glow. Amethyst purple glossy lips. Wearing CLEO THE HURRICANE AMETHYST PURPLE crystal-accent set. Purple corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Mystical pole performance. Sensual pose with arched back, bedroom eyes. Expression: crystal pole witch. Purple crystal cave studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black hair with purple crystals. Pale porcelain white skin with purple glow. Amethyst purple glossy lips. Wearing CLEO THE HURRICANE AMETHYST PURPLE crystal-accent set. Purple corset. PLEASER FLAMINGO-1020 purple 8-inch boots. Mystical pole performance. Sensual pose with arched back, bedroom eyes. Expression: crystal pole witch. Purple crystal cave studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Helena - Navy Pole Nautical
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black hair sailor styling. Pale porcelain white skin. Navy metallic lips. Wearing LUNA POLEWEAR NAVY BLUE sailor-inspired set. Navy corset. PLEASER FLAMINGO-1020 navy 8-inch boots. Nautical pole routine. Sensual pose with arched back, bedroom eyes. Expression: nautical pole captain. Navy yacht club studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Sleek black hair sailor styling. Pale porcelain white skin. Navy metallic lips. Wearing LUNA POLEWEAR NAVY BLUE sailor-inspired set. Navy corset. PLEASER FLAMINGO-1020 navy 8-inch boots. Nautical pole routine. Sensual pose with arched back, bedroom eyes. Expression: nautical pole captain. Navy yacht club studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Pewter Pole Industrial
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin industrial lighting. Pewter grey lips. Wearing POLE SINS PEWTER GREY industrial set. Grey corset. PLEASER FLAMINGO-1020 grey 8-inch boots. Industrial pole strength moves. Sensual pose with arched back, bedroom eyes. Expression: industrial pole machine. Grey factory studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Sleek black industrial hair. Pale porcelain white skin industrial lighting. Pewter grey lips. Wearing POLE SINS PEWTER GREY industrial set. Grey corset. PLEASER FLAMINGO-1020 grey 8-inch boots. Industrial pole strength moves. Sensual pose with arched back, bedroom eyes. Expression: industrial pole machine. Grey factory studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Helena - Burgundy Pole Vampire
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Black elegant hair vampire styling. Pale porcelain white skin with blood-red accent. Blood burgundy glossy lips. Wearing CLEO THE HURRICANE BURGUNDY velvet Victorian set. Burgundy corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Vampire seduction pole routine. Sensual pose with arched back, bedroom eyes. Expression: vampire pole seductress. Burgundy castle studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Black elegant hair vampire styling. Pale porcelain white skin with blood-red accent. Blood burgundy glossy lips. Wearing CLEO THE HURRICANE BURGUNDY velvet Victorian set. Burgundy corset. PLEASER FLAMINGO-1020 burgundy 8-inch boots. Vampire seduction pole routine. Sensual pose with arched back, bedroom eyes. Expression: vampire pole seductress. Burgundy castle studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Blood Orange Pole Sunset
 
 ```text
-Professional pole photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Wild black hair with orange tips. Pale porcelain white skin with orange glow. Blood orange metallic lips. Wearing LUNA POLEWEAR BLOOD ORANGE sunset set. Orange corset. PLEASER FLAMINGO-1020 orange 8-inch boots. Sunset silhouette pole routine. Sensual pose with arched back, bedroom eyes. Expression: sunset pole goddess. Orange sunset studio. Photorealistic 8k. Vertical portrait orientation.
+Professional pole photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Wild black hair with orange tips. Pale porcelain white skin with orange glow. Blood orange metallic lips. Wearing LUNA POLEWEAR BLOOD ORANGE sunset set. Orange corset. PLEASER FLAMINGO-1020 orange 8-inch boots. Sunset silhouette pole routine. Sensual pose with arched back, bedroom eyes. Expression: sunset pole goddess. Orange sunset studio. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-### 💖 Miss Doll - Color Pole Variations (20 prompts)
+### ?? Miss Doll - Color Pole Variations (20 prompts)
 
 ### Prompt 35: 66. Miss Doll - Mint Fresh Pole
 
@@ -626,7 +626,7 @@ Professional pole photography of woman with platinum blonde bob with rainbow str
 
 ---
 
-### 👯 Color Pole Duos (15 prompts)
+### ?? Color Pole Duos (15 prompts)
 
 ### Prompt 15: 86. Helena Emerald + Miss Doll Rose - Garden Poles
 
@@ -715,16 +715,16 @@ Professional duo pole photography. HELENA: wild hair, BLOOD ORANGE sunset set. M
 ### Prompt 1: 100. All Three - Rainbow Pole Performance
 
 ```text
-Professional trio pole photography. ANAÏS: honey blonde, GOLD instructor set, center supervising. HELENA: black hair, PURPLE dark set, left pole. MISS DOLL: blonde bob, PINK bright set, right pole. Rainbow pole class. Sensual pose with arched back, bedroom eyes. Expression: rainbow pole trio. Colorful pole studio. Photorealistic 8k. Vertical portrait orientation.
+Professional trio pole photography. ANA�S: honey blonde, GOLD instructor set, center supervising. HELENA: black hair, PURPLE dark set, left pole. MISS DOLL: blonde bob, PINK bright set, right pole. Rainbow pole class. Sensual pose with arched back, bedroom eyes. Expression: rainbow pole trio. Colorful pole studio. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V18.2 Pole Wear Edition — 100 prompts*
+*Creado por: Helena de Ana�s ??*
+*V18.2 Pole Wear Edition � 100 prompts*
 *Marcas: Pole Sins, Cleo the Hurricane, Luna Polewear*
 *Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
+*?? COLOR FREEDOM: Helena y Miss Doll pueden usar CUALQUIER color*
 *Actualizado: 2026-01-01*
 
 

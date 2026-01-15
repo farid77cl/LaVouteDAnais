@@ -1,21 +1,21 @@
-﻿# ðŸ‘Ÿ Banco de Prompts V39: SPORTSWEAR BRAND EDITION
+# 👟 Banco de Prompts V39: SPORTSWEAR BRAND EDITION
 
-> **ENFOQUE:** Outfits de marcas deportivas (Nike, Adidas, Puma, Reebok, Under Armour, Fila, Champion) pero con estÃ©tica glamurosa y sensual, NO deportes reales.
+> **ENFOQUE:** Outfits de marcas deportivas (Nike, Adidas, Puma, Reebok, Under Armour, Fila, Champion) pero con estética glamurosa y sensual, NO deportes reales.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **ðŸŽ¨ COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de sportswear.
+> **🎨 COLOR FREEDOM:** Helena y Miss Doll pueden usar CUALQUIER color de sportswear.
 > **Total:** 100 prompts | **Actualizado:** 2026-01-07
 
 ---
 
-## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS (OBLIGATORIAS)
+## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos fÃ­sicos especÃ­ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
 
-### ðŸ’– MISS DOLL (BASE)
+### 💖 MISS DOLL (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -24,19 +24,19 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### ðŸ¦‡ HELENA DE ANAÃS (BASE)
+### 🦇 HELENA DE ANAÏS (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### âš ï¸ REGLAS ANTI-FILTRO
+### ⚠️ REGLAS ANTI-FILTRO
 
-| âŒ NO USAR | âœ… USAR EN SU LUGAR |
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -46,131 +46,131 @@ PLEASER stiletto heels 7-9 inches with thin deadly heel.
 
 ---
 
-## ðŸ’– I. MISS DOLL â€” SPORTSWEAR GLAM (20 PROMPTS)
+## 💖 I. MISS DOLL — SPORTSWEAR GLAM (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Nike Air Max Diva
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE NIKE sports bra with swoosh logo, white Nike high waisted leggings, white cropped Nike hoodie open, white Nike Air Max sneakers. Visible corset underneath sports bra. Urban rooftop city skyline. Sensual athleisure pose. Expression: just did it. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in high ponytail. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE NIKE sports bra with swoosh logo, white Nike high waisted leggings, white cropped Nike hoodie open, white Nike Air Max sneakers. Visible corset underneath sports bra. Urban rooftop city skyline. Sensual athleisure pose. Expression: just did it. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Adidas Three Stripes Queen
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK ADIDAS tracksuit with white three stripes: Adidas crop top, Adidas track pants low rise, Adidas Superstar sneakers. Gold chain belt visible corset underneath. Luxury apartment minimalist. Sensual lounging pose on leather sofa. Expression: iconic stripes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK ADIDAS tracksuit with white three stripes: Adidas crop top, Adidas track pants low rise, Adidas Superstar sneakers. Gold chain belt visible corset underneath. Luxury apartment minimalist. Sensual lounging pose on leather sofa. Expression: iconic stripes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Puma Pink Panther
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing HOT PINK PUMA: hot pink Puma sports bra with logo, hot pink Puma biker shorts, hot pink Puma platform sneakers, pink Puma windbreaker tied at waist. Visible corset. Pink neon studio. Sensual fierce cat pose. Expression: Puma power. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing HOT PINK PUMA: hot pink Puma sports bra with logo, hot pink Puma biker shorts, hot pink Puma platform sneakers, pink Puma windbreaker tied at waist. Visible corset. Pink neon studio. Sensual fierce cat pose. Expression: Puma power. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Reebok Classic Elegance
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE REEBOK classic: white Reebok sports bra, white Reebok high waist shorts, white Reebok Classic leather sneakers, white Reebok windbreaker cropped. Visible corset. Clean white studio. Sensual retro sporty pose. Expression: classic never dies. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE REEBOK classic: white Reebok sports bra, white Reebok high waist shorts, white Reebok Classic leather sneakers, white Reebok windbreaker cropped. Visible corset. Clean white studio. Sensual retro sporty pose. Expression: classic never dies. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Under Armour Fierce
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK UNDER ARMOUR compression: black UA sports bra logo visible, black UA compression leggings, black UA training shoes. Visible corset over UA gear. Industrial gym background. Sensual powerful stance. Expression: protect this house. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs slicked back. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK UNDER ARMOUR compression: black UA sports bra logo visible, black UA compression leggings, black UA training shoes. Visible corset over UA gear. Industrial gym background. Sensual powerful stance. Expression: protect this house. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Fila Retro Vibes
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED WHITE BLUE FILA: Fila crop sweatshirt vintage, Fila high waisted shorts, Fila Disruptor chunky sneakers white. Visible corset underneath. 90s retro bedroom posters. Sensual throwback pose. Expression: 90s baby. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED WHITE BLUE FILA: Fila crop sweatshirt vintage, Fila high waisted shorts, Fila Disruptor chunky sneakers white. Visible corset underneath. 90s retro bedroom posters. Sensual throwback pose. Expression: 90s baby. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Champion Logo Lover
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs in messy bun. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BERRY lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GREY CHAMPION: grey Champion reverse weave hoodie oversized cropped, grey Champion sports bra visible, grey Champion jogger shorts, Champion slides. Visible corset. Cozy apartment morning light. Sensual lazy day pose. Expression: champion comfort. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs in messy bun. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BERRY lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GREY CHAMPION: grey Champion reverse weave hoodie oversized cropped, grey Champion sports bra visible, grey Champion jogger shorts, Champion slides. Visible corset. Cozy apartment morning light. Sensual lazy day pose. Expression: champion comfort. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Nike Tech Fleece Luxury
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GREY NIKE TECH FLEECE: grey Nike Tech Fleece cropped hoodie, grey Nike Tech Fleece joggers low rise, white Nike Air Force 1. Gold jewelry visible corset underneath. Luxury car interior Mercedes. Sensual expensive casual pose. Expression: money moves. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes shimmer, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing GREY NIKE TECH FLEECE: grey Nike Tech Fleece cropped hoodie, grey Nike Tech Fleece joggers low rise, white Nike Air Force 1. Gold jewelry visible corset underneath. Luxury car interior Mercedes. Sensual expensive casual pose. Expression: money moves. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Adidas Originals Neon
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: neon green shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NEON GREEN lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing NEON GREEN ADIDAS: neon green Adidas Originals sports bra, neon green Adidas track pants, Adidas Ozweego neon. Visible corset. Blacklight UV club setting. Sensual glow pose. Expression: originals only. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: neon green shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NEON GREEN lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing NEON GREEN ADIDAS: neon green Adidas Originals sports bra, neon green Adidas track pants, Adidas Ozweego neon. Visible corset. Blacklight UV club setting. Sensual glow pose. Expression: originals only. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Puma x Rihanna Fenty
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs teased. Flawless porcelain skin bronzed glow. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing OLIVE GREEN PUMA FENTY: olive Fenty Puma corset bra, olive Fenty Puma wide leg pants low, Fenty Puma creeper sneakers. Visible corset built into outfit. Industrial warehouse. Sensual Rihanna inspired pose. Expression: bad gal energy. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs teased. Flawless porcelain skin bronzed glow. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing OLIVE GREEN PUMA FENTY: olive Fenty Puma corset bra, olive Fenty Puma wide leg pants low, Fenty Puma creeper sneakers. Visible corset built into outfit. Industrial warehouse. Sensual Rihanna inspired pose. Expression: bad gal energy. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Miss Doll - Nike Pro Combat
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs in tight ponytail. Flawless porcelain skin satin finish slight sheen. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK NIKE PRO: black Nike Pro sports bra, black Nike Pro compression shorts, black Nike training shoes. Visible corset harness over Nike Pro. Boxing gym ring background. Sensual fighter stance. Expression: knockout. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs in tight ponytail. Flawless porcelain skin satin finish slight sheen. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK NIKE PRO: black Nike Pro sports bra, black Nike Pro compression shorts, black Nike training shoes. Visible corset harness over Nike Pro. Boxing gym ring background. Sensual fighter stance. Expression: knockout. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Miss Doll - Adidas Yeezy Vibes
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: nude smokey eyes, minimal liner, wispy lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BEIGE YEEZY: beige Yeezy sports bra, beige Yeezy bike shorts, Yeezy Boost 350 beige. Neutral corset visible. Minimalist concrete studio. Sensual Kanye aesthetic pose. Expression: Pablo vibes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: nude smokey eyes, minimal liner, wispy lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BEIGE YEEZY: beige Yeezy sports bra, beige Yeezy bike shorts, Yeezy Boost 350 beige. Neutral corset visible. Minimalist concrete studio. Sensual Kanye aesthetic pose. Expression: Pablo vibes. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Miss Doll - Reebok Pump Retro
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs 80s styled. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bright blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy CORAL lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE AND BLUE REEBOK: white Reebok leotard bodysuit, blue Reebok leg warmers, Reebok Pump sneakers retro. Visible corset belt. 80s aerobics studio mirrors. Sensual Jane Fonda pose. Expression: pump it up. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs 80s styled. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bright blue shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy CORAL lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE AND BLUE REEBOK: white Reebok leotard bodysuit, blue Reebok leg warmers, Reebok Pump sneakers retro. Visible corset belt. 80s aerobics studio mirrors. Sensual Jane Fonda pose. Expression: pump it up. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Miss Doll - Nike Dunk Collector
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED AND WHITE NIKE: red Nike sports bra, white Nike shorts, RED Nike Dunk Low sneakers matching. Visible corset. Sneaker collection wall background. Sensual collector pose sitting on sneaker boxes. Expression: sneakerhead queen. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED AND WHITE NIKE: red Nike sports bra, white Nike shorts, RED Nike Dunk Low sneakers matching. Visible corset. Sneaker collection wall background. Sensual collector pose sitting on sneaker boxes. Expression: sneakerhead queen. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Miss Doll - Adidas Soccer Jersey
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE ADIDAS SOCCER: white Adidas soccer jersey cropped tied, black Adidas soccer shorts tiny, Adidas Samba sneakers. Visible corset underneath jersey. Soccer field empty stadium. Sensual victory pose. Expression: goal. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE ADIDAS SOCCER: white Adidas soccer jersey cropped tied, black Adidas soccer shorts tiny, Adidas Samba sneakers. Visible corset underneath jersey. Soccer field empty stadium. Sensual victory pose. Expression: goal. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Miss Doll - Puma Motorsport
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED PUMA MOTORSPORT: red Puma Ferrari racing jacket cropped, red Puma leggings with logo, Puma Ferrari sneakers. Visible corset. Race track pit lane. Sensual racing pose. Expression: finish line. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips matching outfit. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED PUMA MOTORSPORT: red Puma Ferrari racing jacket cropped, red Puma leggings with logo, Puma Ferrari sneakers. Visible corset. Race track pit lane. Sensual racing pose. Expression: finish line. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Miss Doll - Nike Air Jordan Legacy
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED BLACK WHITE JORDAN: red Jordan sports bra with Jumpman, black Jordan shorts, Air Jordan 1 Chicago red. Visible corset. Basketball court empty. Sensual basketball pose holding ball. Expression: flight club. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing RED BLACK WHITE JORDAN: red Jordan sports bra with Jumpman, black Jordan shorts, Air Jordan 1 Chicago red. Visible corset. Basketball court empty. Sensual basketball pose holding ball. Expression: flight club. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Miss Doll - Adidas Stella McCartney
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs elegant. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE STELLA McCARTNEY x ADIDAS: white Stella sports bra mesh details, white Stella leggings cutouts, white Stella Adidas sneakers. Visible corset underneath. Luxury yoga studio. Sensual designer athleisure pose. Expression: elevated sport. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs elegant. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: champagne shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE STELLA McCARTNEY x ADIDAS: white Stella sports bra mesh details, white Stella leggings cutouts, white Stella Adidas sneakers. Visible corset underneath. Luxury yoga studio. Sensual designer athleisure pose. Expression: elevated sport. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Miss Doll - Champion Cropped Comfort
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs messy. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, liner, lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing PINK CHAMPION: pink Champion cropped sweatshirt logo, pink Champion sports bra visible, pink Champion sweatpants low, pink Champion slides. Visible corset. Cozy bedroom fairy lights. Sensual comfortable pose on bed. Expression: cozy queen. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs messy. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, liner, lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing PINK CHAMPION: pink Champion cropped sweatshirt logo, pink Champion sports bra visible, pink Champion sweatpants low, pink Champion slides. Visible corset. Cozy bedroom fairy lights. Sensual comfortable pose on bed. Expression: cozy queen. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Miss Doll - Nike x Off-White Collab
 
 ```text
-Professional streetwear glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE OFF-WHITE x NIKE: white Off-White Nike sports bra with quotes, white Off-White Nike shorts, Off-White Nike Air Force 1 with orange tab. Visible corset with industrial belt. Gallery space art installation. Sensual high fashion pose. Expression: deconstructed. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional streetwear glamour photography of woman 28+ years old mature glamorous with platinum blonde bob straight bangs. Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: bronze smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy NUDE lips. Human realistic face parted lips. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing WHITE OFF-WHITE x NIKE: white Off-White Nike sports bra with quotes, white Off-White Nike shorts, Off-White Nike Air Force 1 with orange tab. Visible corset with industrial belt. Gallery space art installation. Sensual high fashion pose. Expression: deconstructed. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ¦‡ II. HELENA â€” DARK SPORTSWEAR (20 PROMPTS)
+## 🦇 II. HELENA — DARK SPORTSWEAR (20 PROMPTS)
 
 ### Prompt 80: 21. Helena - Nike All Black Everything
 
@@ -294,7 +294,7 @@ Professional streetwear glamour photography of young elegant goth glamour woman.
 
 ---
 
-## ðŸ‘¯â€â™€ï¸ III. DUO â€” SPORTSWEAR SISTERS (10 PROMPTS)
+## 👯‍♀️ III. DUO — SPORTSWEAR SISTERS (10 PROMPTS)
 
 ### Prompt 60: 41. Duo - Nike vs Adidas
 
@@ -356,193 +356,193 @@ Professional streetwear glamour photography of TWO glamorous women retro mix. BL
 Professional streetwear glamour photography of TWO glamorous women designer collabs. BLONDE: platinum bob, porcelain skin, champagne eyes, NUDE lips, WHITE OFF-WHITE x NIKE: sports bra quotes, shorts, Air Force 1 orange tab, corset. BRUNETTE: pale skin, black hair, BURGUNDY lips, BURGUNDY IVY PARK x ADIDAS: sports bra, leggings, Adidas, black corset. Both in art gallery. Sensual high fashion pose. Expression: collab queens. Sportswear brand aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸ§´ POST-TRAINING RECOVERY (Prompts 51-60)
+### 🧴 POST-TRAINING RECOVERY (Prompts 51-60)
 
 ### Prompt 50: 51. Recovery - The Towel Service
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy and slightly damp. Flawless porcelain skin glistening with sweat. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PINK NEON sports bra and matching tight leggings, white corset over. Luxury home gym background. Sensual pose sitting on a weight bench, draped in a thick white towel. Expression: exhausted but satisfied. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) messy and slightly damp. Flawless porcelain skin glistening with sweat. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PINK NEON sports bra and matching tight leggings, white corset over. Luxury home gym background. Sensual pose sitting on a weight bench, draped in a thick white towel. Expression: exhausted but satisfied. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 49: 52. Recovery - The Protein Shake
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK spandex biker shorts, white cropped hoodie, white corset. Modern kitchen marble island. Sensual_pose holding a pink protein shaker, straw between lips. Expression: refueling the machine. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking at camera. EXTREME hourglass silhouette prominent cleavage. Wearing BLACK spandex biker shorts, white cropped hoodie, white corset. Modern kitchen marble island. Sensual_pose holding a pink protein shaker, straw between lips. Expression: refueling the machine. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 48: 53. Recovery - Foam Roller Stretch
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing ALL WHITE yoga set: bra, leggings, white corset. Yoga studio with soft natural light. Sensual_pose reclining on a black foam roller, arching her back. Expression: feeling the relief. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing ALL WHITE yoga set: bra, leggings, white corset. Yoga studio with soft natural light. Sensual_pose reclining on a black foam roller, arching her back. Expression: feeling the relief. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 47: 54. Recovery - The Massage Gun Ritual
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED lycra bodysuit, black corset. Sitting on a massage table. Sensual_pose using a sleek black massage gun on her own thigh. Expression: self-maintenance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing RED lycra bodysuit, black corset. Sitting on a massage table. Sensual_pose using a sleek black massage gun on her own thigh. Expression: self-maintenance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 46: 55. Recovery - Ice Bath Challenge
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) damp. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focused on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer sports bra, white thong, white corset. Sitting in a stainless steel tub filled with water and ice cubes. Sensual shivering pose. Expression: cold and disciplined. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) damp. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP focused on eyes. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer sports bra, white thong, white corset. Sitting in a stainless steel tub filled with water and ice cubes. Sensual shivering pose. Expression: cold and disciplined. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 45: 56. Recovery - Electrolyte Glow
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE metallic leggings, black sports bra, black corset. Close-up face, drinking from a blue electrolyte bottle, liquid droplet on lip. Expression: pure hydration. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing PURPLE metallic leggings, black sports bra, black corset. Close-up face, drinking from a blue electrolyte bottle, liquid droplet on lip. Expression: pure hydration. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 44: 57. Recovery - The Sauna Unwind
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping with moisture. HEAVY GLAMOUR MAKEUP waterproof. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing NOTHING but a white corset and a white towel wrapped around her waist. Wood-lined luxury sauna, steam in the air. Sensual_pose sitting on a wooden bench. Expression: heat of devotion. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping with moisture. HEAVY GLAMOUR MAKEUP waterproof. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing NOTHING but a white corset and a white towel wrapped around her waist. Wood-lined luxury sauna, steam in the air. Sensual_pose sitting on a wooden bench. Expression: heat of devotion. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 43: 58. Recovery - Checking the Vitals
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Close-up on her wrist wearing a high-tech diamond-encrusted fitness tracker. Sensual_pose. Expression: heart rate optimal. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Close-up on her wrist wearing a high-tech diamond-encrusted fitness tracker. Sensual_pose. Expression: heart rate optimal. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 42: 59. Recovery - The Post-Sesh Mirror Selfie
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking into mirror (POV camera). EXTREME hourglass silhouette prominent cleavage. Wearing NEON GREEN gym set, black corset. Holding a pink smartphone. Sensual mirror pose. Expression: earning the look. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking into mirror (POV camera). EXTREME hourglass silhouette prominent cleavage. Wearing NEON GREEN gym set, black corset. Holding a pink smartphone. Sensual mirror pose. Expression: earning the look. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 41: 60. Recovery - Deep Tissue Kneading
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful. EXTREME hourglass silhouette tiny waist. Wearing ONLY black lycra shorts and a black corset. Lying face down on a massage table (back view). Sensual_pose. Expression: surrender to the hands. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face blissful. EXTREME hourglass silhouette tiny waist. Wearing ONLY black lycra shorts and a black corset. Lying face down on a massage table (back view). Sensual_pose. Expression: surrender to the hands. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### ðŸš¿ LOCKER ROOM SEDUCTION (Prompts 61-70)
+### 🚿 LOCKER ROOM SEDUCTION (Prompts 61-70)
 
 ### Prompt 40: 61. Locker - The Steam Room Reveal
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face emerging from thick steam. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace sports set, white corset. Luxury gym steam room. Sensual_pose. Expression: follow me into the clouds. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face emerging from thick steam. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE lace sports set, white corset. Luxury gym steam room. Sensual_pose. Expression: follow me into the clouds. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 39: 62. Locker - Changing the Spandex
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK gym leggings half-pulled down, revealing black lace underwear, white corset staying on. Rows of metal lockers background. Sensual_pose. Expression: caught in the act. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking over shoulder. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK gym leggings half-pulled down, revealing black lace underwear, white corset staying on. Rows of metal lockers background. Sensual_pose. Expression: caught in the act. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 38: 63. Locker - The Shared Shower
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer lycra bodysuit, white corset. Standing under a rain shower head in a marble locker room. Sensual_pose. Expression: washed clean. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet. Flawless porcelain skin dripping. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sheer lycra bodysuit, white corset. Standing under a rain shower head in a marble locker room. Sensual_pose. Expression: washed clean. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 37: 64. Locker - Applying the Lotion
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing RED sports bra, black leggings, black corset. Sitting on a wooden locker room bench, applying cream to her own thigh. Sensual focus on skin. Expression: smooth as porcelain. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing RED sports bra, black leggings, black corset. Sitting on a wooden locker room bench, applying cream to her own thigh. Sensual focus on skin. Expression: smooth as porcelain. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 36: 65. Locker - The Hairdryer Pose
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) blowing in the air. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE tennis skirt, white cropped top, white corset. Vanity mirror background. Sensual_pose using a gold hairdryer. Expression: wind in my wings. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) blowing in the air. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing WHITE tennis skirt, white cropped top, white corset. Vanity mirror background. Sensual_pose using a gold hairdryer. Expression: wind in my wings. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 35: 66. Locker - Organizing the Gym Bag
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Sensual_pose kneeling on the floor, packing a designer leather gym bag with lacy items. Expression: ready for the next round. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK gym set, white corset. Sensual_pose kneeling on the floor, packing a designer leather gym bag with lacy items. Expression: ready for the next round. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 34: 67. Locker - The Bench Recline
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing LIME GREEN spandex set, black corset. Reclining across a long wooden bench in an empty locker room. Sensual_pose. Expression: total relaxation. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face dreamy. EXTREME hourglass silhouette prominent cleavage. Wearing LIME GREEN spandex set, black corset. Reclining across a long wooden bench in an empty locker room. Sensual_pose. Expression: total relaxation. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 33: 68. Locker - Tying the Platforms
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE gym shorts, white corset. Sensual_pose sitting with one leg up, tying the laces of a white 8-inch PLEASER platform heel (instead of sneakers). Expression: high-profile fitness. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE gym shorts, white corset. Sensual_pose sitting with one leg up, tying the laces of a white 8-inch PLEASER platform heel (instead of sneakers). Expression: high-profile fitness. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 32: 69. Locker - The Mirror Pep Talk
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking intensely at reflection. EXTREME hourglass silhouette prominent cleavage. Wearing SILVER metallic leggings, black sports bra, black corset. Sensual_pose hands on the vanity counter. Expression: I am the best. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face looking intensely at reflection. EXTREME hourglass silhouette prominent cleavage. Wearing SILVER metallic leggings, black sports bra, black corset. Sensual_pose hands on the vanity counter. Expression: I am the best. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 31: 70. Locker - Waiting for the Don
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather gym gear, black corset. Standing leaning against the locker room entrance, arms crossed. Sensual_pose. Expression: you're late for our session. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing BLACK leather gym gear, black corset. Standing leaning against the locker room entrance, arms crossed. Sensual_pose. Expression: you're late for our session. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### ðŸ’… INTIMATE ATHLEISURE (Prompts 71-80)
+### 💅 INTIMATE ATHLEISURE (Prompts 71-80)
 
 ### Prompt 30: 71. Athleisure - Silk and Spandex
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing PINK silk oversized shirt open over a black spandex bodysuit, black corset over that. Modern penthouse living room. Sensual_pose on a designer sofa. Expression: comfort in style. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing PINK silk oversized shirt open over a black spandex bodysuit, black corset over that. Modern penthouse living room. Sensual_pose on a designer sofa. Expression: comfort in style. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 29: 72. Athleisure - The Balcony Stretch
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lycra set, white corset. High-rise balcony overlooking a futuristic city. Sensual_pose stretching arms overhead. Expression: reaching for the sky. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE lycra set, white corset. High-rise balcony overlooking a futuristic city. Sensual_pose stretching arms overhead. Expression: reaching for the sky. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 28: 73. Athleisure - Coffee and Leggings
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing GREY marl yoga pants, black cropped hoodie, black corset. Luxury kitchen. Sensual_pose leaning against the counter with an espresso cup. Expression: morning focus. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing GREY marl yoga pants, black cropped hoodie, black corset. Luxury kitchen. Sensual_pose leaning against the counter with an espresso cup. Expression: morning focus. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 27: 74. Athleisure - The Private Yoga Flow
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK sheer lycra leggings (partially transparent), matching bra, black corset. Dimly lit studio with candles. Sensual yoga pose. Expression: spiritual precision. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny cinched waist. Wearing BLACK sheer lycra leggings (partially transparent), matching bra, black corset. Dimly lit studio with candles. Sensual yoga pose. Expression: spiritual precision. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 26: 75. Athleisure - Designer Tracksuit Glam
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing VELOUR JICY tracksuit unzipped, white corset visible, massive gold chains. Luxury car interior. Sensual_pose. Expression: Jersey girl in the city. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing VELOUR JICY tracksuit unzipped, white corset visible, massive gold chains. Luxury car interior. Sensual_pose. Expression: Jersey girl in the city. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 25: 76. Athleisure - The Rooftop Run
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing NEON ORANGE leggings, white sports bra, white corset. Modern rooftop with glass railings. Sensual jogging pose. Expression: peak performance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) windswept. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing NEON ORANGE leggings, white sports bra, white corset. Modern rooftop with glass railings. Sensual jogging pose. Expression: peak performance. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 24: 77. Athleisure - Braiding the Bob
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sports set, white corset. Sensual_pose trying to put her short bob into a tiny ponytail. Vanity mirror. Expression: perfection in the details. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette. Wearing WHITE sports set, white corset. Sensual_pose trying to put her short bob into a tiny ponytail. Vanity mirror. Expression: perfection in the details. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 23: 78. Athleisure - The Spandex Nap
 
 ```text
-Professional lifestyle photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes slightly open. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK lycra set, white corset. Lying on a pile of designer gym towels. Sensual sleepy pose. Expression: resting the doll. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional lifestyle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face eyes slightly open. EXTREME hourglass silhouette prominent cleavage tiny waist. Wearing BLACK lycra set, white corset. Lying on a pile of designer gym towels. Sensual sleepy pose. Expression: resting the doll. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 22: 79. Athleisure - Tennis Court Service
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE tennis dress, white corset, white PLEASER platform heels. Private tennis court. Sensual_pose leaning on the net. Expression: your serve. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette tiny waist. Wearing WHITE tennis dress, white corset, white PLEASER platform heels. Private tennis court. Sensual_pose leaning on the net. Expression: your serve. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
 ### Prompt 21: 80. Athleisure - The High-Tech Pilates
 
 ```text
-Professional fitness glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLUE metallic spandex set, black corset. Reclining on a futuristic Pilates reformer machine. Sensual_pose. Expression: engineered beauty. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
+Professional fitness glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. Human realistic face. EXTREME hourglass silhouette prominent cleavage. Wearing BLUE metallic spandex set, black corset. Reclining on a futuristic Pilates reformer machine. Sensual_pose. Expression: engineered beauty. Sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### ðŸ¦‡ HELENA'S DARK FITNESS (Prompts 81-90)
+### 🦇 HELENA'S DARK FITNESS (Prompts 81-90)
 
 ### Prompt 20: 81. Helena - The Goth Gym Rat
 
@@ -604,7 +604,7 @@ Professional fitness glamour photography of young elegant goth glamour woman. Pa
 Professional fitness glamour photography of young elegant goth glamour woman. Pale porcelain white skin, voluminous jet black hair. Full glossy BLACK lips. Wearing BLACK silk robe over gym gear, black corset. Lying on a stone floor in a dark hallway. Sensual exhausted pose. Expression: the work is done. Goth sportswear aesthetic. Photorealistic 8k. Vertical orientation.
 ```text
 
-### ðŸ‘¯â€â™€ï¸ GYM PARTNERS (Prompts 91-100)
+### 👯‍♀️ GYM PARTNERS (Prompts 91-100)
 
 ### Prompt 10: 91. Duo - The Personal Trainer
 
@@ -668,7 +668,7 @@ Professional fitness glamour photography of TWO women. BLONDE: all black gym gea
 
 ---
 
-*Helena de AnaÃ¯s* ðŸ¦‡ðŸ‘Ÿ
-*La VoÃ»te d'AnaÃ¯s â€” Sportswear Brand Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* 🦇👟
+*La Voûte d'Anaïs — Sportswear Brand Edition (100 Prompts COMPLETE)*
 
 

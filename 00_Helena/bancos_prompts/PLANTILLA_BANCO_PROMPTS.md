@@ -11,55 +11,61 @@
 1. **Buscar** el personaje y outfit deseado
 2. **Copiar** todo el texto del prompt (desde el bloque de código)
 3. **Pegar** directamente en el generador
-4. **NO modificar** salvo ajustes menores de pose/expresión
+4. **Evaluar** usando los checkboxes después de generar
 
 ---
 
 ## I. CANON VISUAL OBLIGATORIO
 
 > [!CAUTION]
-> **REGLAS ANTI-FILTRO:** Evitar "ditzy", "exaggerated hourglass", "doll-like", "bimbo". Usar "playful", "carefree", "feminine silhouette", "glamour woman".
+> **REGLAS ANTI-FILTRO:** NO usar "woman", "bimbo", "ditzy", "doll-like". Usar descripciones directas sin calificadores de edad.
 
-### 💖 MISS DOLL
-
-```text
-Glamorous woman with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
-flawless porcelain skin with satin finish (NO rosy cheeks),
-delicate refined nose, high cheekbones with soft contour,
-HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
-human realistic face with parted lips and dreamy seductive expression (NOT CGI, NOT plastic),
-EXTREME hourglass silhouette with large round high-profile breast implants creating prominent cleavage, tiny cinched waist,
-PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
-```
-
-### 🦇 HELENA DE ANAÏS
+### 💖 MISS DOLL (POWER PROMPT)
 
 ```text
-Young elegant goth glamour woman (Sacha Massacre visual reference),
-pale porcelain white skin, voluminous jet black hair with enormous volume,
-full glossy lips ([COLOR]), youthful face,
-ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
-PLEASER stiletto heels 7-9 inches with thin deadly heel.
+Professional glamour photography of WOMAN glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing [OUTFIT]. PLEASER heels 8-inch [COLOR] patent power stance. [SETTING]. Sensual commanding pose. Expression: [EXPRESSION]. [AESTHETIC] photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### 👑 ANAÏS BELLAND
+**Variables a Reemplazar:**
+- `[OUTFIT]` → Pink satin blouse, latex corset, etc.
+- `[COLOR]` → pink, clear, black, red
+- `[SETTING]` → Dark therapy office, pink neon studio, luxury boudoir
+- `[EXPRESSION]` → SLEEP NOW, OBEY ME, dreamy seductive
+- `[AESTHETIC]` → Hypnosis aesthetic, Seductive glamour, Fashion editorial
+
+### 🦇 HELENA DE ANAÏS (POWER PROMPT)
 
 ```text
-Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
-Angular sculpted face with very high defined cheekbones accentuated by expert contouring.
-Smooth, taut skin finish suggesting premium aesthetic treatments while maintaining realistic adult texture.
-Honey blonde hair in polished Betty Page vintage waves.
-HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout).
-Sultry, confident, and experienced dominant expression with bedroom eyes.
-Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structured corsets or silk lingerie.
-PLEASER So Kate style black or nude stiletto 12cm (5-6").
+Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, voluminous jet black long hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick winged liner, mega volume lashes, full glossy [LIP_COLOR] lips. Human realistic face with seductive gothic expression. Feminine hourglass silhouette with prominent cleavage. ALWAYS wearing tight [CORSET_TYPE] corset [CORSET_COLOR]. [OUTFIT]. PLEASER stiletto heels [HEIGHT]-inch with thin deadly heel [HEEL_COLOR]. [SETTING]. Sensual gothic pose. Dark glamour aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
+
+**Variables:**
+- `[LIP_COLOR]` → black, deep purple, blood red
+- `[CORSET_TYPE]` → underbust, overbust
+- `[CORSET_COLOR]` → black leather, purple velvet, black lace
+- `[OUTFIT]` → fishnet stockings, latex skirt, tulle skirt
+- `[HEIGHT]` → 7, 8, 9
+- `[HEEL_COLOR]` → black patent, red, silver
+- `[SETTING]` → Gothic boudoir, candlelit crypt, dark library
+
+### 👑 ANAÏS BELLAND (POWER PROMPT)
+
+```text
+Professional glamour photography of powerful aristocratic WOMAN in her 40s with ageless sensual allure (Kylie Minogue facial structure reference). Angular sculpted face with very high defined cheekbones accentuated by expert contouring. Smooth taut skin finish suggesting premium aesthetic treatments. Honey blonde hair in polished Betty Page vintage waves. HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout). Sultry confident dominant expression with bedroom eyes. Feminine hourglass silhouette. Wearing [OUTFIT]. PLEASER So Kate style [COLOR] stiletto 5-6 inch. [SETTING]. Sensual dominant pose. Aristocratic glamour aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+**Variables:**
+- `[OUTFIT]` → Black silk robe, structured corset, lace lingerie
+- `[COLOR]` → black, nude, red
+- `[SETTING]` → Luxury French palace, dark wood office, candlelit boudoir
 
 ---
 
 ## II. PROMPTS - [PERSONAJE/TEMA]
 
 ### Prompt 1: [Título Descriptivo]
+
+**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
 
 ```text
 [Prompt completo aquí - incluir todo el texto necesario para generar la imagen]
@@ -68,12 +74,16 @@ Professional photography. Photorealistic 8k.
 
 ### Prompt 2: [Título Descriptivo]
 
+**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
+
 ```text
 [Prompt completo aquí]
 Professional photography. Photorealistic 8k.
 ```
 
 ### Prompt 3: [Título Descriptivo]
+
+**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
 
 ```text
 [Prompt completo aquí]

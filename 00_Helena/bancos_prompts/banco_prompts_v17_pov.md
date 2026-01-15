@@ -1,20 +1,20 @@
-Ôªø# üëÄ BANCO DE PROMPTS V17: POV COLLECTION EDITION
+# ?? BANCO DE PROMPTS V17: POV COLLECTION EDITION
 
-> **ENFOQUE:** Primera persona (POV), desde arriba, desde abajo, inmersi√≥n del espectador.
+> **ENFOQUE:** Primera persona (POV), desde arriba, desde abajo, inmersiÛn del espectador.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **Total:** 100 prompts | **Actualizado:** 2026-01-04
 
 ---
 
-## üß¨ DESCRIPCIONES BASE CAN√ìNICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CAN”NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f√≠sicos espec√≠ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÌsicos especÌficos del personaje:**
 
-### üíñ MISS DOLL (BASE)
+### ?? MISS DOLL (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -23,17 +23,17 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### ü¶á HELENA DE ANA√èS (BASE)
+### ?? HELENA DE ANAœS (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### üëë ANA√èS BELLAND (BASE)
+### ?? ANAœS BELLAND (BASE)
 
 ```text
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -46,9 +46,9 @@ Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structure
 PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```text
 
-### ‚ö†Ô∏è REGLAS ANTI-FILTRO
+### ?? REGLAS ANTI-FILTRO
 
-| ‚ùå NO USAR | ‚úÖ USAR EN SU LUGAR |
+| ? NO USAR | ? USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -59,131 +59,131 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ü¶á I. HELENA ‚Äî POV DOMINANCE (20 PROMPTS)
+## ?? I. HELENA ó POV DOMINANCE (20 PROMPTS)
 
 ### Prompt 100: 1. Helena - POV Looking Down at You
 
 ```text
-Professional POV photography from floor angle. Camera on ground looking up at young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre standing over camera. Voluminous jet black hair with enormous volume hanging down. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips smirking. Feminine hourglass silhouette in black steel-boned overbust corset. Black latex pants. PLEASER RAPTURE-1020 black patent 8-inch stiletto boot sole visible, about to step on camera. Sensual pose with arched back, bedroom eyes. Expression: you belong down there. Dark dungeon floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional POV photography from floor angle. Camera on ground looking up at young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre standing over camera. Voluminous jet black hair with enormous volume hanging down. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic smokey eyes, thick eyeliner, long lashes, arched brows. Full glossy BLACK lips smirking. Feminine hourglass silhouette in black steel-boned overbust corset. Black latex pants. PLEASER RAPTURE-1020 black patent 8-inch stiletto boot sole visible, about to step on camera. Sensual pose with arched back, bedroom eyes. Expression: you belong down there. Dark dungeon floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - POV Boot Worship Angle
 
 ```text
-Professional boot worship POV photography. Camera at floor level, looking at PLEASER RAPTURE-1020 black patent 8-inch stiletto boot sole and heel extremely close. Pale porcelain leg visible in boot. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre above, voluminous black hair, black corset, looking down with command. Sensual pose with arched back, bedroom eyes. Expression: kiss it. Dark dungeon floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boot worship POV photography. Camera at floor level, looking at PLEASER RAPTURE-1020 black patent 8-inch stiletto boot sole and heel extremely close. Pale porcelain leg visible in boot. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre above, voluminous black hair, black corset, looking down with command. Sensual pose with arched back, bedroom eyes. Expression: kiss it. Dark dungeon floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - POV Leash Control
 
 ```text
-Professional leash POV photography. Camera angle as if viewer wearing collar. Hand of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre holding pink leash, pulling toward her. Voluminous black hair. Pale skin. Black lips. Black corset visible. PLEASER 8-inch boots visible below. Sensual pose with arched back, bedroom eyes. Expression: come here. Dark dungeon collar POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional leash POV photography. Camera angle as if viewer wearing collar. Hand of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre holding pink leash, pulling toward her. Voluminous black hair. Pale skin. Black lips. Black corset visible. PLEASER 8-inch boots visible below. Sensual pose with arched back, bedroom eyes. Expression: come here. Dark dungeon collar POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - POV Seated Above
 
 ```text
-Professional seated throne POV photography. Camera at foot level looking up. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre seated on gothic throne. Voluminous black hair. Pale skin. Black lips. Black corset. Black latex. PLEASER black 8-inch boots crossed, sole toward camera. Legs above camera menacingly. Sensual pose with arched back, bedroom eyes. Expression: how may you serve. Throne room floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seated throne POV photography. Camera at foot level looking up. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre seated on gothic throne. Voluminous black hair. Pale skin. Black lips. Black corset. Black latex. PLEASER black 8-inch boots crossed, sole toward camera. Legs above camera menacingly. Sensual pose with arched back, bedroom eyes. Expression: how may you serve. Throne room floor POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - POV Whip Approach
 
 ```text
-Professional whip POV photography. Camera angle as if viewer bound. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre approaching with leather flogger raised. Voluminous black hair wild. Pale skin. Black lips. Black corset. PLEASER 8-inch boots walking toward. Sensual pose with arched back, bedroom eyes. Expression: this will hurt. Dark dungeon victim POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional whip POV photography. Camera angle as if viewer bound. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre approaching with leather flogger raised. Voluminous black hair wild. Pale skin. Black lips. Black corset. PLEASER 8-inch boots walking toward. Sensual pose with arched back, bedroom eyes. Expression: this will hurt. Dark dungeon victim POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Helena - POV She's Looking at You
 
 ```text
-Professional direct stare POV photography. Extreme close-up face of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre staring directly into camera/viewer. Voluminous black hair framing face. Pale marble skin. Full glossy black lips slightly parted. Black corset at neck edge visible. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare. Dark background face POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional direct stare POV photography. Extreme close-up face of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre staring directly into camera/viewer. Voluminous black hair framing face. Pale marble skin. Full glossy black lips slightly parted. Black corset at neck edge visible. Sensual pose with arched back, bedroom eyes. Expression: hypnotic predator stare. Dark background face POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - POV Your Hands Bound
 
 ```text
-Professional bound hands POV photography. Camera angle showing viewer's own bound wrists in foreground (first person). Above: young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre standing, voluminous black hair, pale skin, black corset, black latex, PLEASER 8-inch boots, examining bound wrists. Sensual pose with arched back, bedroom eyes. Expression: you're not going anywhere. Dungeon bound POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bound hands POV photography. Camera angle showing viewer's own bound wrists in foreground (first person). Above: young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre standing, voluminous black hair, pale skin, black corset, black latex, PLEASER 8-inch boots, examining bound wrists. Sensual pose with arched back, bedroom eyes. Expression: you're not going anywhere. Dungeon bound POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - POV She Takes Your Hand
 
 ```text
-Professional hand-holding POV photography. Camera shows Helena's pale hand reaching toward camera, taking viewer's hand (implied). Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin. Black lips in rare gentle expression. Black corset. PLEASER 8-inch boots visible. Sensual pose with arched back, bedroom eyes. Expression: come with me. Dark hallway intimate POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hand-holding POV photography. Camera shows Helena's pale hand reaching toward camera, taking viewer's hand (implied). Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous black hair. Pale skin. Black lips in rare gentle expression. Black corset. PLEASER 8-inch boots visible. Sensual pose with arched back, bedroom eyes. Expression: come with me. Dark hallway intimate POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - POV Mirror Behind You
 
 ```text
-Professional mirror POV photography. First person looking forward, mirror behind showing young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre behind viewer, hands on viewer's shoulders. Voluminous black hair. Pale skin. Black lips near ear. Black corset. Sensual pose with arched back, bedroom eyes. Expression: don't you look nice. Dressing room mirror POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mirror POV photography. First person looking forward, mirror behind showing young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre behind viewer, hands on viewer's shoulders. Voluminous black hair. Pale skin. Black lips near ear. Black corset. Sensual pose with arched back, bedroom eyes. Expression: don't you look nice. Dressing room mirror POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - POV Collar Presentation
 
 ```text
-Professional collar POV photography. Camera as if viewer kneeling. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre holding open leather collar toward camera, presenting it. Voluminous black hair. Pale skin. Black lips. Black corset. PLEASER 8-inch boots visible below. Sensual pose with arched back, bedroom eyes. Expression: will you accept. Collar ceremony POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional collar POV photography. Camera as if viewer kneeling. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre holding open leather collar toward camera, presenting it. Voluminous black hair. Pale skin. Black lips. Black corset. PLEASER 8-inch boots visible below. Sensual pose with arched back, bedroom eyes. Expression: will you accept. Collar ceremony POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Helena - POV Walking Toward
 
 ```text
-Professional approach POV photography. Camera stationary, young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre walking toward camera down dark hallway. Voluminous black hair flowing. Pale skin. Black lips. Black corset. Black latex coat. PLEASER 8-inch boots clicking on floor. Sensual pose with arched back, bedroom eyes. Expression: found you. Gothic hallway approach POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional approach POV photography. Camera stationary, young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre walking toward camera down dark hallway. Voluminous black hair flowing. Pale skin. Black lips. Black corset. Black latex coat. PLEASER 8-inch boots clicking on floor. Sensual pose with arched back, bedroom eyes. Expression: found you. Gothic hallway approach POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - POV She's Bending Down
 
 ```text
-Professional bending POV photography. Camera at floor. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre bending down to camera level, face close. Voluminous black hair cascading. Pale skin. Black lips near. Black corset and cleavage from angle. Sensual pose with arched back, bedroom eyes. Expression: there you are. Floor level meeting POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional bending POV photography. Camera at floor. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre bending down to camera level, face close. Voluminous black hair cascading. Pale skin. Black lips near. Black corset and cleavage from angle. Sensual pose with arched back, bedroom eyes. Expression: there you are. Floor level meeting POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - POV Pinned Against Wall
 
 ```text
-Professional domination POV photography. First person against wall as if pinned. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre very close, hands on wall either side of camera. Voluminous black hair. Pale skin. Black lips inches away. Black corset pressing close. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: you're mine now. Wall pinned POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional domination POV photography. First person against wall as if pinned. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre very close, hands on wall either side of camera. Voluminous black hair. Pale skin. Black lips inches away. Black corset pressing close. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: you're mine now. Wall pinned POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - POV Your View from Below Her Heel
 
 ```text
-Professional extreme angle POV photography. Camera under PLEASER black 8-inch boot, looking up through clear platform if visible. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre above, black corset, black hair, looking down. Sole and heel filling frame. Sensual pose with arched back, bedroom eyes. Expression: getting closer. Under boot POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional extreme angle POV photography. Camera under PLEASER black 8-inch boot, looking up through clear platform if visible. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre above, black corset, black hair, looking down. Sole and heel filling frame. Sensual pose with arched back, bedroom eyes. Expression: getting closer. Under boot POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - POV Watching You Undress
 
 ```text
-Professional undressing POV photography. First person sitting as if viewer undressing. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre seated opposite watching intently. Voluminous black hair. Pale skin. Black lips. Black corset. Arms crossed. PLEASER black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: continue. Watching undress POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional undressing POV photography. First person sitting as if viewer undressing. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre seated opposite watching intently. Voluminous black hair. Pale skin. Black lips. Black corset. Arms crossed. PLEASER black 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: continue. Watching undress POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - POV Morning Light
 
 ```text
-Professional waking POV photography. First person lying in bed waking. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre beside, propped on elbow, watching viewer wake. Black hair messy on pillow. Pale skin. Black lips in slight smile. Black corset still on. Sensual pose with arched back, bedroom eyes. Expression: sleep well. Bedroom wake POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional waking POV photography. First person lying in bed waking. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre beside, propped on elbow, watching viewer wake. Black hair messy on pillow. Pale skin. Black lips in slight smile. Black corset still on. Sensual pose with arched back, bedroom eyes. Expression: sleep well. Bedroom wake POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - POV Dance Floor
 
 ```text
-Professional dancing POV photography. Club atmosphere. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre dancing close to camera. Voluminous black hair moving. Pale skin with club lights. Black lips. Black corset. Black latex. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: dance with me. Club dance POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dancing POV photography. Club atmosphere. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre dancing close to camera. Voluminous black hair moving. Pale skin with club lights. Black lips. Black corset. Black latex. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: dance with me. Club dance POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - POV At Your Throat
 
 ```text
-Professional throat POV photography. First person with pale hand at viewer's throat gently. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre attached to hand, close. Voluminous black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: so fragile. Throat grip POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional throat POV photography. First person with pale hand at viewer's throat gently. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre attached to hand, close. Voluminous black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: so fragile. Throat grip POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - POV She Offers Glass
 
 ```text
-Professional offering POV photography. First person seated. Young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre offering red wine glass toward camera. Voluminous black hair. Pale skin. Black lips. Black corset. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: drink. Wine offering POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional offering POV photography. First person seated. Young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre offering red wine glass toward camera. Voluminous black hair. Pale skin. Black lips. Black corset. PLEASER 8-inch boots. Sensual pose with arched back, bedroom eyes. Expression: drink. Wine offering POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - POV Behind You Mirror
 
 ```text
-Professional behind POV photography. First person at mirror, reflection showing young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre standing right behind viewer. Voluminous black hair. Pale skin. Black lips in smile. Black corset. Hands about to touch viewer's shoulders. Sensual pose with arched back, bedroom eyes. Expression: surprise. Behind in mirror POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional behind POV photography. First person at mirror, reflection showing young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre standing right behind viewer. Voluminous black hair. Pale skin. Black lips in smile. Black corset. Hands about to touch viewer's shoulders. Sensual pose with arched back, bedroom eyes. Expression: surprise. Behind in mirror POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## üíñ II. MISS DOLL ‚Äî POV RECEIVING (20 PROMPTS)
+## ?? II. MISS DOLL ó POV RECEIVING (20 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - POV Looking Up at Master
 
@@ -307,63 +307,63 @@ Professional performance POV photography. First person seated watching. Woman wi
 
 ---
 
-## üëë III. ANA√èS ‚Äî POV POWER (10 PROMPTS)
+## ?? III. ANAœS ó POV POWER (10 PROMPTS)
 
-### Prompt 60: 41. Ana√Øs - POV Board Meeting
+### Prompt 60: 41. AnaÔs - POV Board Meeting
 
 ```text
 Professional boardroom POV photography. First person seated at conference table. Aristocratic woman with honey blonde hair standing at head of table, commanding. Bronze skin. Red glossy lips. Burgundy corset under blazer. PLEASER 5-inch heels. Sensual pose with arched back, bedroom eyes. Expression: any questions. Meeting POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 59: 42. Ana√Øs - POV Interview
+### Prompt 59: 42. AnaÔs - POV Interview
 
 ```text
 Professional interview POV photography. First person seated across desk. Aristocratic woman with honey blonde hair interviewing viewer, reviewing resume. Bronze skin. Red glossy lips. Black corset visible under blouse. PLEASER 5-inch heels under glass desk. Sensual pose with arched back, bedroom eyes. Expression: convince me. Interview POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 58: 43. Ana√Øs - POV Champagne Toast
+### Prompt 58: 43. AnaÔs - POV Champagne Toast
 
 ```text
 Professional toast POV photography. First person holding champagne glass. Aristocratic woman with honey blonde hair clinking glass toward camera. Bronze skin. Red glossy lips smiling. Gold corset visible. PLEASER gold 5-inch heel. Sensual pose with arched back, bedroom eyes. Expression: to us. Celebration toast POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 57: 44. Ana√Øs - POV She Commands Entry
+### Prompt 57: 44. AnaÔs - POV She Commands Entry
 
 ```text
 Professional door POV photography. First person at office door. Aristocratic woman with honey blonde hair behind desk gesturing viewer to enter. Bronze skin. Red glossy lips. Power corset suit. Sensual pose with arched back, bedroom eyes. Expression: come in. Executive summons POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 56: 45. Ana√Øs - POV Dinner Date
+### Prompt 56: 45. AnaÔs - POV Dinner Date
 
 ```text
 Professional dinner POV photography. First person across elegant dinner table. Aristocratic woman with honey blonde hair dining opposite, wine glass raised. Bronze skin. Red glossy lips. Burgundy evening corset dress. Sensual pose with arched back, bedroom eyes. Expression: enjoying this. Romantic dinner POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 55: 46. Ana√Øs - POV Morning After
+### Prompt 55: 46. AnaÔs - POV Morning After
 
 ```text
 Professional intimate POV photography. First person beside in bed. Aristocratic woman with honey blonde hair propped beside viewer, morning light, silk sheet. Bronze skin. Red lips natural. Champagne corset under silk robe. Sensual pose with arched back, bedroom eyes. Expression: good morning. Morning after POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 54: 47. Ana√Øs - POV She Fixes Your Tie
+### Prompt 54: 47. AnaÔs - POV She Fixes Your Tie
 
 ```text
 Professional caring POV photography. First person standing. Aristocratic woman with honey blonde hair fixing viewer's tie, close. Bronze skin. Red glossy lips. Power corset suit. Sensual pose with arched back, bedroom eyes. Expression: there, perfect. Tie fixing POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 53: 48. Ana√Øs - POV Gallery Walk
+### Prompt 53: 48. AnaÔs - POV Gallery Walk
 
 ```text
 Professional gallery POV photography. First person walking through art gallery. Aristocratic woman with honey blonde hair beside, arm linked with viewer implied. Bronze skin. Red glossy lips. Black elegant corset dress. PLEASER 5-inch heels. Sensual pose with arched back, bedroom eyes. Expression: I love this piece. Gallery walk POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 52: 49. Ana√Øs - POV She Gives Orders
+### Prompt 52: 49. AnaÔs - POV She Gives Orders
 
 ```text
 Professional command POV photography. First person standing before. Aristocratic woman with honey blonde hair giving direct orders, finger pointing at viewer. Bronze skin. Red glossy lips firm. Power corset visible. Sensual pose with arched back, bedroom eyes. Expression: understood. Direct order POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 51: 50. Ana√Øs - POV Balcony Sunset
+### Prompt 51: 50. AnaÔs - POV Balcony Sunset
 
 ```text
 Professional romantic POV photography. First person on luxury balcony. Aristocratic woman with honey blonde hair beside viewer, both watching sunset. Bronze skin glowing. Red glossy lips. Elegant corset dress. Wine in hand. Sensual pose with arched back, bedroom eyes. Expression: beautiful isn't it. Sunset shared POV. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -371,21 +371,21 @@ Professional romantic POV photography. First person on luxury balcony. Aristocra
 
 ---
 
-## üëÅÔ∏è IV. EXPANSION: IMMERSIVE SCENARIOS (51-75)
+## ??? IV. EXPANSION: IMMERSIVE SCENARIOS (51-75)
 
 ### Prompt 50: 51. Helena - POV Cage View
 
 ```text
-Professional cage POV photography. Camera inside metal cage looking out through bars. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) standing outside looking in. Voluminous black hair. Pale skin. Black lips smiling cruel. Black corset. Fingertip on bar. Sensual pose with arched back, bedroom eyes. Expression: comfortable in there. Cage POV. Seductive glamour photography, dungeon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cage POV photography. Camera inside metal cage looking out through bars. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) standing outside looking in. Voluminous black hair. Pale skin. Black lips smiling cruel. Black corset. Fingertip on bar. Sensual pose with arched back, bedroom eyes. Expression: comfortable in there. Cage POV. Seductive glamour photography, dungeon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Miss Doll - POV Picnic Date
 
 ```text
-Professional picnic POV photography. First person view sitting on blanket. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob sitting across, offering strawberry. Flawless porcelain skin. Pink gingham outfit with white corset. PLEASER pink 8-inch heels kicked off nearby. Sensual pose with arched back, bedroom eyes. Expression: try this. Sunny park POV. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional picnic POV photography. First person view sitting on blanket. woman 28+ years old mature glamorous with platinum blonde bob sitting across, offering strawberry. Flawless porcelain skin. Pink gingham outfit with white corset. PLEASER pink 8-inch heels kicked off nearby. Sensual pose with arched back, bedroom eyes. Expression: try this. Sunny park POV. Seductive glamour photography, sunlight, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 48: 53. Ana√Øs - POV Signing Contract
+### Prompt 48: 53. AnaÔs - POV Signing Contract
 
 ```text
 Professional business POV photography. First person view of hand holding pen over contract. Aristocratic woman with honey blonde hair standing over viewer, pointing at signature line. Bronze skin. Red lips. Burgundy power corset. Sensual pose with arched back, bedroom eyes. Expression: sign it. Office desk POV. Seductive glamour photography, office lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -394,16 +394,16 @@ Professional business POV photography. First person view of hand holding pen ove
 ### Prompt 47: 54. Helena - POV Car Passenger
 
 ```text
-Professional driving POV photography. First person in passenger seat. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) driving luxury hearse/black car. Profile view. Voluminous black hair windswept. Pale skin. Black lips. Black leather driving gloves. Black corset. Sensual pose with arched back, bedroom eyes. Expression: enjoy the ride. Car interior POV. Seductive glamour photography, street lights passing, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional driving POV photography. First person in passenger seat. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) driving luxury hearse/black car. Profile view. Voluminous black hair windswept. Pale skin. Black lips. Black leather driving gloves. Black corset. Sensual pose with arched back, bedroom eyes. Expression: enjoy the ride. Car interior POV. Seductive glamour photography, street lights passing, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Miss Doll - POV Pillow Fight
 
 ```text
-Professional playful POV photography. First person view on bed. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob swinging pink pillow at camera. Flawless porcelain skin. Pink lingerie with corset. Feathers flying. Sensual pose with arched back, bedroom eyes. Expression: gotcha. Bedroom playful POV. Seductive glamour photography, soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful POV photography. First person view on bed. woman 28+ years old mature glamorous with platinum blonde bob swinging pink pillow at camera. Flawless porcelain skin. Pink lingerie with corset. Feathers flying. Sensual pose with arched back, bedroom eyes. Expression: gotcha. Bedroom playful POV. Seductive glamour photography, soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 45: 56. Ana√Øs - POV Red Carpet
+### Prompt 45: 56. AnaÔs - POV Red Carpet
 
 ```text
 Professional paparazzi POV photography. Camera in crowd of photographers. Aristocratic woman with honey blonde hair stopping to look directly at YOUR camera amidst flashes. Bronze skin. Red lips. Gold gown with corset. Sensual pose with arched back, bedroom eyes. Expression: make me look good. Red carpet POV. Seductive glamour photography, flash lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -412,16 +412,16 @@ Professional paparazzi POV photography. Camera in crowd of photographers. Aristo
 ### Prompt 44: 57. Helena - POV Ritual Victim
 
 ```text
-Professional ritual POV photography. First person lying on stone altar looking up. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) standing above with ceremonial dagger (prop). Voluminous black hair. Pale skin. Black lips. Black velvet robe over corset. Sensual pose with arched back, bedroom eyes. Expression: the sacrifice is ready. Candlelit temple POV. Seductive glamour photography, fire lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ritual POV photography. First person lying on stone altar looking up. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) standing above with ceremonial dagger (prop). Voluminous black hair. Pale skin. Black lips. Black velvet robe over corset. Sensual pose with arched back, bedroom eyes. Expression: the sacrifice is ready. Candlelit temple POV. Seductive glamour photography, fire lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Miss Doll - POV Nurse Checkup
 
 ```text
-Professional medical POV photography. First person in hospital bed. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob as nurse leaning over. Flawless porcelain skin. Pink nurse uniform with corset. Checking chart. Sensual pose with arched back, bedroom eyes. Expression: heart rate elevated. Hospital POV. Seductive glamour photography, clean lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional medical POV photography. First person in hospital bed. woman 28+ years old mature glamorous with platinum blonde bob as nurse leaning over. Flawless porcelain skin. Pink nurse uniform with corset. Checking chart. Sensual pose with arched back, bedroom eyes. Expression: heart rate elevated. Hospital POV. Seductive glamour photography, clean lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 42: 59. Ana√Øs - POV Chess Game
+### Prompt 42: 59. AnaÔs - POV Chess Game
 
 ```text
 Professional game POV photography. First person view of chessboard. Aristocratic woman with honey blonde hair sitting opposite, moving queen piece. Bronze skin. Red lips smirk. Black elegant dress with corset. Sensual pose with arched back, bedroom eyes. Expression: checkmate. Library game POV. Seductive glamour photography, warm library lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -430,16 +430,16 @@ Professional game POV photography. First person view of chessboard. Aristocratic
 ### Prompt 41: 60. Helena - POV Graveyard Walk
 
 ```text
-Professional gothic casual POV photography. First person walking hand in hand (implied) through cemetery. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) pulling viewer along path. Voluminous black hair. Pale skin. Black lips. Black umbrella. Black corset. Sensual pose with arched back, bedroom eyes. Expression: my favorite place. Graveyard POV. Seductive glamour photography, misty lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic casual POV photography. First person walking hand in hand (implied) through cemetery. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) pulling viewer along path. Voluminous black hair. Pale skin. Black lips. Black umbrella. Black corset. Sensual pose with arched back, bedroom eyes. Expression: my favorite place. Graveyard POV. Seductive glamour photography, misty lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Miss Doll - POV Feeding You Cake
 
 ```text
-Professional food POV photography. Close up of fork with cake coming toward camera. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob holding it. Flawless porcelain skin. Pink lips open. Pink outfit with corset. Sensual pose with arched back, bedroom eyes. Expression: open wide. Dessert POV. Seductive glamour photography, cafe lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional food POV photography. Close up of fork with cake coming toward camera. woman 28+ years old mature glamorous with platinum blonde bob holding it. Flawless porcelain skin. Pink lips open. Pink outfit with corset. Sensual pose with arched back, bedroom eyes. Expression: open wide. Dessert POV. Seductive glamour photography, cafe lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 39: 62. Ana√Øs - POV Private Jet
+### Prompt 39: 62. AnaÔs - POV Private Jet
 
 ```text
 Professional luxury POV photography. First person seated in private jet interact. Aristocratic woman with honey blonde hair sitting opposite with champagne. Bronze skin. Red lips. White luxury suit with corset. Sensual pose with arched back, bedroom eyes. Expression: to finding new worlds. Jet interior POV. Seductive glamour photography, luxury lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -448,16 +448,16 @@ Professional luxury POV photography. First person seated in private jet interact
 ### Prompt 38: 63. Helena - POV Tarot Reading
 
 ```text
-Professional fortune POV photography. First person looking at cards on table. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) turning over the Death card facing viewer. Voluminous black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: interesting destiny. Fortune teller POV. Seductive glamour photography, crystal ball lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fortune POV photography. First person looking at cards on table. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) turning over the Death card facing viewer. Voluminous black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: interesting destiny. Fortune teller POV. Seductive glamour photography, crystal ball lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Miss Doll - POV Fitting Room
 
 ```text
-Professional fashion POV photography. First person in fitting room chair. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob coming out of curtain to show outfit. Flawless porcelain skin. New pink dress with corset. Sensual pose with arched back, bedroom eyes. Expression: buy this for me. Fitting room POV. Seductive glamour photography, mirror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fashion POV photography. First person in fitting room chair. woman 28+ years old mature glamorous with platinum blonde bob coming out of curtain to show outfit. Flawless porcelain skin. New pink dress with corset. Sensual pose with arched back, bedroom eyes. Expression: buy this for me. Fitting room POV. Seductive glamour photography, mirror lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 36: 65. Ana√Øs - POV Tennis Match
+### Prompt 36: 65. AnaÔs - POV Tennis Match
 
 ```text
 Professional sports POV photography. First person across net. Aristocratic woman with honey blonde hair in white tennis outfit with corset, ready to serve. Bronze skin. Red lips. Racket raised. Sensual pose with arched back, bedroom eyes. Expression: love zero. Tennis court POV. Seductive glamour photography, outdoor lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -466,16 +466,16 @@ Professional sports POV photography. First person across net. Aristocratic woman
 ### Prompt 35: 66. Helena - POV Hypnosis
 
 ```text
-Professional hypnosis POV photography. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) swinging pocket watch in front of camera. Voluminous black hair. Pale skin. Black lips. Black corset. Eyes intense. Sensual pose with arched back, bedroom eyes. Expression: you are getting sleepy. Hypnotist POV. Seductive glamour photography, spiral background, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hypnosis POV photography. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) swinging pocket watch in front of camera. Voluminous black hair. Pale skin. Black lips. Black corset. Eyes intense. Sensual pose with arched back, bedroom eyes. Expression: you are getting sleepy. Hypnotist POV. Seductive glamour photography, spiral background, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Miss Doll - POV Beach Towel
 
 ```text
-Professional beach POV photography. First person looking down at towel. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob lying on towel looking up at viewer standing. Flawless porcelain skin. Pink bikini with corset. Sunglasses slid down. Sensual pose with arched back, bedroom eyes. Expression: put lotion on me. Beach POV. Seductive glamour photography, sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional beach POV photography. First person looking down at towel. woman 28+ years old mature glamorous with platinum blonde bob lying on towel looking up at viewer standing. Flawless porcelain skin. Pink bikini with corset. Sunglasses slid down. Sensual pose with arched back, bedroom eyes. Expression: put lotion on me. Beach POV. Seductive glamour photography, sun lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 33: 68. Ana√Øs - POV Opera Box
+### Prompt 33: 68. AnaÔs - POV Opera Box
 
 ```text
 Professional theatre POV photography. First person in private box. Aristocratic woman with honey blonde hair beside viewer using opera glasses. Bronze skin. Red lips. Burgundy gown with corset. Turning to whisper to viewer. Sensual pose with arched back, bedroom eyes. Expression: magnificent performance. Opera POV. Seductive glamour photography, theatre lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -484,16 +484,16 @@ Professional theatre POV photography. First person in private box. Aristocratic 
 ### Prompt 32: 69. Helena - POV Late Night Gaming
 
 ```text
-Professional gaming POV photography. First person holding controller. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) sitting on floor leaning against viewer's legs, watching screen. Voluminous black hair. Pale skin. Black lips. Casual black corset top. Sensual pose with arched back, bedroom eyes. Expression: you're gonna lose. Living room night POV. Seductive glamour photography, TV glow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gaming POV photography. First person holding controller. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) sitting on floor leaning against viewer's legs, watching screen. Voluminous black hair. Pale skin. Black lips. Casual black corset top. Sensual pose with arched back, bedroom eyes. Expression: you're gonna lose. Living room night POV. Seductive glamour photography, TV glow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - POV Spa Day
 
 ```text
-Professional spa POV photography. First person with cucumber slices (implied). ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob in robe next to viewer, face mask on. Flawless porcelain skin. Pink towel turban. Pink corset top. Sensual pose with arched back, bedroom eyes. Expression: relax. Spa POV. Seductive glamour photography, zen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spa POV photography. First person with cucumber slices (implied). woman 28+ years old mature glamorous with platinum blonde bob in robe next to viewer, face mask on. Flawless porcelain skin. Pink towel turban. Pink corset top. Sensual pose with arched back, bedroom eyes. Expression: relax. Spa POV. Seductive glamour photography, zen lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 30: 71. Ana√Øs - POV Ballroom Dance
+### Prompt 30: 71. AnaÔs - POV Ballroom Dance
 
 ```text
 Professional dance POV photography. First person holding partner's hand/waist. Aristocratic woman with honey blonde hair dancing with viewer, close up face. Bronze skin. Red lips. Gold ballgown with corset. Whirling background. Sensual pose with arched back, bedroom eyes. Expression: lead me. Ballroom POV. Seductive glamour photography, chandelier lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -502,16 +502,16 @@ Professional dance POV photography. First person holding partner's hand/waist. A
 ### Prompt 29: 72. Helena - POV Tattoo Artist
 
 ```text
-Professional tattoo POV photography. First person in chair looking at arm/leg being tattooed. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) as artist working on viewer. Voluminous black hair tied back. Pale skin. Black lips focused. Black corset. Tattoo machine in hand. Sensual pose with arched back, bedroom eyes. Expression: almost done. Tattoo shop POV. Seductive glamour photography, bright work light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tattoo POV photography. First person in chair looking at arm/leg being tattooed. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) as artist working on viewer. Voluminous black hair tied back. Pale skin. Black lips focused. Black corset. Tattoo machine in hand. Sensual pose with arched back, bedroom eyes. Expression: almost done. Tattoo shop POV. Seductive glamour photography, bright work light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Miss Doll - POV Library Study
 
 ```text
-Professional study POV photography. First person behind stack of books. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob peeking over books from other side of table. Flawless porcelain skin. Reading glasses. Pink sweater with corset. Sensual pose with arched back, bedroom eyes. Expression: shhh. Library POV. Seductive glamour photography, dusty light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional study POV photography. First person behind stack of books. woman 28+ years old mature glamorous with platinum blonde bob peeking over books from other side of table. Flawless porcelain skin. Reading glasses. Pink sweater with corset. Sensual pose with arched back, bedroom eyes. Expression: shhh. Library POV. Seductive glamour photography, dusty light, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 27: 74. Ana√Øs - POV Wine Tasting
+### Prompt 27: 74. AnaÔs - POV Wine Tasting
 
 ```text
 Professional wine POV photography. First person holding glass. Aristocratic woman with honey blonde hair swirling her glass, looking at viewer through the wine. Bronze skin. Red lips. Burgundy outfit with corset. Sensual pose with arched back, bedroom eyes. Expression: full bodied. Vineyard POV. Seductive glamour photography, sunset vineyard lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -520,26 +520,26 @@ Professional wine POV photography. First person holding glass. Aristocratic woma
 ### Prompt 26: 75. All Three - POV Judgement Panel
 
 ```text
-Professional panel POV photography. First person standing on stage. Table with three judges. ANA√èS (center): honey blonde, looking unimpressed. HELENA (left): black hair, looking critical. MISS DOLL (right): platinum bob, looking sympathetic. All in corset power suits. Sensual pose with arched back, bedroom eyes. Expression: show us what you got. Audition POV. Photorealistic 8k. Vertical portrait orientation.
+Professional panel POV photography. First person standing on stage. Table with three judges. ANAœS (center): honey blonde, looking unimpressed. HELENA (left): black hair, looking critical. MISS DOLL (right): platinum bob, looking sympathetic. All in corset power suits. Sensual pose with arched back, bedroom eyes. Expression: show us what you got. Audition POV. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## üé® V. EXPANSION: POV COLOR & MOOD (76-100)
+## ?? V. EXPANSION: POV COLOR & MOOD (76-100)
 
 ### Prompt 25: 76. Helena - POV Red Room
 
 ```text
-Professional color POV photography. First person entering red room. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) in center. Everything red. Black hair. Pale skin. Red lips. Red corset. Sensual pose with arched back, bedroom eyes. Expression: welcome to red. Red monochromatic POV. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person entering red room. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) in center. Everything red. Black hair. Pale skin. Red lips. Red corset. Sensual pose with arched back, bedroom eyes. Expression: welcome to red. Red monochromatic POV. Seductive glamour photography, red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Miss Doll - POV Blue Lagoon
 
 ```text
-Professional color POV photography. First person in blue water. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob floating nearby. Everything blue. Flawless porcelain skin. Blue swimsuit with corset. Sensual pose with arched back, bedroom eyes. Expression: water nymph. Blue aquatic POV. Seductive glamour photography, blue water lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in blue water. woman 28+ years old mature glamorous with platinum blonde bob floating nearby. Everything blue. Flawless porcelain skin. Blue swimsuit with corset. Sensual pose with arched back, bedroom eyes. Expression: water nymph. Blue aquatic POV. Seductive glamour photography, blue water lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 23: 78. Ana√Øs - POV Gold Vault
+### Prompt 23: 78. AnaÔs - POV Gold Vault
 
 ```text
 Professional color POV photography. First person in vault. Aristocratic woman with honey blonde hair surrounded by gold bars. Everything gold. Bronze skin. Gold lips. Gold corset dress. Sensual pose with arched back, bedroom eyes. Expression: pure gold. Gold luxury POV. Seductive glamour photography, golden lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -548,16 +548,16 @@ Professional color POV photography. First person in vault. Aristocratic woman wi
 ### Prompt 22: 79. Helena - POV Green Garden
 
 ```text
-Professional color POV photography. First person lying in grass. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) leaning over, framed by leaves. Green theme. Black hair. Pale skin. Green lips. Green corset. Sensual pose with arched back, bedroom eyes. Expression: poison ivy. Green nature POV. Seductive glamour photography, dappled green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person lying in grass. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) leaning over, framed by leaves. Green theme. Black hair. Pale skin. Green lips. Green corset. Sensual pose with arched back, bedroom eyes. Expression: poison ivy. Green nature POV. Seductive glamour photography, dappled green lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Miss Doll - POV Pink Cloud
 
 ```text
-Professional color POV photography. First person in clouds (dream). ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob sitting on pink cloud. Pink theme. Flawless porcelain skin. Pink lips. Pink angel corset. Sensual pose with arched back, bedroom eyes. Expression: dream of me. Pink dream POV. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in clouds (dream). woman 28+ years old mature glamorous with platinum blonde bob sitting on pink cloud. Pink theme. Flawless porcelain skin. Pink lips. Pink angel corset. Sensual pose with arched back, bedroom eyes. Expression: dream of me. Pink dream POV. Seductive glamour photography, soft pink lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 20: 81. Ana√Øs - POV Silver Skyscraper
+### Prompt 20: 81. AnaÔs - POV Silver Skyscraper
 
 ```text
 Professional color POV photography. First person on roof edge. Aristocratic woman with honey blonde hair against steel skyline. Silver theme. Bronze skin. Silver lips. Silver corset suit. Sensual pose with arched back, bedroom eyes. Expression: top of the world. Silver city POV. Seductive glamour photography, cool silver lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -566,16 +566,16 @@ Professional color POV photography. First person on roof edge. Aristocratic woma
 ### Prompt 19: 82. Helena - POV Purple Haze
 
 ```text
-Professional color POV photography. First person in smoke filled room. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) emerging from purple smoke. Purple theme. Black hair. Pale skin. Purple lips. Purple corset. Sensual pose with arched back, bedroom eyes. Expression: mystery. Purple smoke POV. Seductive glamour photography, purple laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in smoke filled room. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) emerging from purple smoke. Purple theme. Black hair. Pale skin. Purple lips. Purple corset. Sensual pose with arched back, bedroom eyes. Expression: mystery. Purple smoke POV. Seductive glamour photography, purple laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 18: 83. Miss Doll - POV Orange Sunset Driver
 
 ```text
-Professional color POV photography. First person in convertible. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob driving into sunset. Orange theme. Flawless porcelain skin. Orange lips. Orange corset top. Sensual pose with arched back, bedroom eyes. Expression: chasing sun. Orange sunset POV. Seductive glamour photography, warm orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in convertible. woman 28+ years old mature glamorous with platinum blonde bob driving into sunset. Orange theme. Flawless porcelain skin. Orange lips. Orange corset top. Sensual pose with arched back, bedroom eyes. Expression: chasing sun. Orange sunset POV. Seductive glamour photography, warm orange lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 17: 84. Ana√Øs - POV Black Tie Event
+### Prompt 17: 84. AnaÔs - POV Black Tie Event
 
 ```text
 Professional color POV photography. First person at gala. Aristocratic woman with honey blonde hair approaching. Black and white theme (except skin). Bronze skin. Dark lips. Black tuxedo corset dress. Sensual pose with arched back, bedroom eyes. Expression: shall we dance. Black and white elegant POV. Seductive glamour photography, contrast lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -584,16 +584,16 @@ Professional color POV photography. First person at gala. Aristocratic woman wit
 ### Prompt 16: 85. Helena - POV White Void
 
 ```text
-Professional color POV photography. First person in infinite white space. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) is the only contrast. Black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: binary contrast. White void POV. Seductive glamour photography, high key lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in infinite white space. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) is the only contrast. Black hair. Pale skin. Black lips. Black corset. Sensual pose with arched back, bedroom eyes. Expression: binary contrast. White void POV. Seductive glamour photography, high key lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 15: 86. Miss Doll - POV Yellow Daisy Field
 
 ```text
-Professional color POV photography. First person running through flowers. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob ahead in field. Yellow theme. Flawless porcelain skin. Yellow lips. Yellow sundress with corset. Sensual pose with arched back, bedroom eyes. Expression: catch me. Yellow field POV. Seductive glamour photography, bright yellow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person running through flowers. woman 28+ years old mature glamorous with platinum blonde bob ahead in field. Yellow theme. Flawless porcelain skin. Yellow lips. Yellow sundress with corset. Sensual pose with arched back, bedroom eyes. Expression: catch me. Yellow field POV. Seductive glamour photography, bright yellow lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 14: 87. Ana√Øs - POV Teal Ocean Yacht
+### Prompt 14: 87. AnaÔs - POV Teal Ocean Yacht
 
 ```text
 Professional color POV photography. First person on deck. Aristocratic woman with honey blonde hair against teal ocean. Teal theme. Bronze skin. Teal lips. Teal resort wear with corset. Sensual pose with arched back, bedroom eyes. Expression: ocean breeze. Teal yacht POV. Seductive glamour photography, teal ocean lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -602,16 +602,16 @@ Professional color POV photography. First person on deck. Aristocratic woman wit
 ### Prompt 13: 88. Helena - POV Neon Night
 
 ```text
-Professional color POV photography. First person on rainy street. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) under neon sign. Neon theme (cyan/magenta). Black hair. Pale skin. Neon lips. Black leather corset reflecting neon. Sensual pose with arched back, bedroom eyes. Expression: cyberpunk night. Neon rain POV. Seductive glamour photography, neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person on rainy street. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) under neon sign. Neon theme (cyan/magenta). Black hair. Pale skin. Neon lips. Black leather corset reflecting neon. Sensual pose with arched back, bedroom eyes. Expression: cyberpunk night. Neon rain POV. Seductive glamour photography, neon lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 12: 89. Miss Doll - POV Peach Bedroom
 
 ```text
-Professional color POV photography. First person entering room. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob on peach duvet. Peach theme. Flawless porcelain skin. Peach lips. Peach lingerie corset. Sensual pose with arched back, bedroom eyes. Expression: soft comfort. Peach bedroom POV. Seductive glamour photography, soft peach lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person entering room. woman 28+ years old mature glamorous with platinum blonde bob on peach duvet. Peach theme. Flawless porcelain skin. Peach lips. Peach lingerie corset. Sensual pose with arched back, bedroom eyes. Expression: soft comfort. Peach bedroom POV. Seductive glamour photography, soft peach lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 11: 90. Ana√Øs - POV Burgundy Wine Cellar
+### Prompt 11: 90. AnaÔs - POV Burgundy Wine Cellar
 
 ```text
 Professional color POV photography. First person in cellar. Aristocratic woman with honey blonde hair selecting vintage bottle. Burgundy theme. Bronze skin. Burgundy lips. Burgundy velvet corset dress. Sensual pose with arched back, bedroom eyes. Expression: aged perfection. Burgundy cellar POV. Seductive glamour photography, dark red lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -620,16 +620,16 @@ Professional color POV photography. First person in cellar. Aristocratic woman w
 ### Prompt 10: 91. Helena - POV Cyber Grid
 
 ```text
-Professional color POV photography. First person inside simulation. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) controlling grid. Grid theme. Black hair. Pale skin. Glowing eyes. Circuit corset. Sensual pose with arched back, bedroom eyes. Expression: system admin. Cyber grid POV. Seductive glamour photography, grid laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person inside simulation. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) controlling grid. Grid theme. Black hair. Pale skin. Glowing eyes. Circuit corset. Sensual pose with arched back, bedroom eyes. Expression: system admin. Cyber grid POV. Seductive glamour photography, grid laser lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 9: 92. Miss Doll - POV Rainbow Prisms
 
 ```text
-Professional color POV photography. First person in room with crystals. Beams of rainbow light hitting ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob. Rainbow theme. Flawless porcelain skin. Rainbow highlight. White corset reflecting rainbow. Sensual pose with arched back, bedroom eyes. Expression: spectrum. Rainbow prism POV. Seductive glamour photography, prism lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person in room with crystals. Beams of rainbow light hitting woman 28+ years old mature glamorous with platinum blonde bob. Rainbow theme. Flawless porcelain skin. Rainbow highlight. White corset reflecting rainbow. Sensual pose with arched back, bedroom eyes. Expression: spectrum. Rainbow prism POV. Seductive glamour photography, prism lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 8: 93. Ana√Øs - POV Bronze Statue
+### Prompt 8: 93. AnaÔs - POV Bronze Statue
 
 ```text
 Professional color POV photography. First person in museum looking at living statue. Aristocratic woman with honey blonde hair posing on pedestal. Bronze theme. Bronze skin metallic body paint. Bronze corset. Sensual pose with arched back, bedroom eyes. Expression: timeless art. Bronze museum POV. Seductive glamour photography, spotlight lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -638,16 +638,16 @@ Professional color POV photography. First person in museum looking at living sta
 ### Prompt 7: 94. Helena - POV Midnight Blue Roof
 
 ```text
-Professional color POV photography. First person on roof at midnight. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) silhouetted against dark blue sky. Midnight blue theme. Black hair. Pale skin. Blue lips. Dark blue corset. Sensual pose with arched back, bedroom eyes. Expression: night watcher. Midnight blue POV. Seductive glamour photography, moonlight blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person on roof at midnight. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) silhouetted against dark blue sky. Midnight blue theme. Black hair. Pale skin. Blue lips. Dark blue corset. Sensual pose with arched back, bedroom eyes. Expression: night watcher. Midnight blue POV. Seductive glamour photography, moonlight blue lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 6: 95. Miss Doll - POV Lavender Field
 
 ```text
-Professional color POV photography. First person walking in lavender. ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob surrounded by flowers. Lavender theme. Flawless porcelain skin. Lavender lips. Lavender corset dress. Sensual pose with arched back, bedroom eyes. Expression: scent of spring. Lavender field POV. Seductive glamour photography, purple soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person walking in lavender. woman 28+ years old mature glamorous with platinum blonde bob surrounded by flowers. Lavender theme. Flawless porcelain skin. Lavender lips. Lavender corset dress. Sensual pose with arched back, bedroom eyes. Expression: scent of spring. Lavender field POV. Seductive glamour photography, purple soft lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 5: 96. Ana√Øs - POV Emerald Library
+### Prompt 5: 96. AnaÔs - POV Emerald Library
 
 ```text
 Professional color POV photography. First person in green reading room. Aristocratic woman with honey blonde hair reading green book. Emerald theme. Bronze skin. Green lips. Emerald green corset gown. Sensual pose with arched back, bedroom eyes. Expression: wisdom. Emerald library POV. Seductive glamour photography, green banker lamp lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -656,16 +656,16 @@ Professional color POV photography. First person in green reading room. Aristocr
 ### Prompt 4: 97. Helena - POV Grey Fog
 
 ```text
-Professional color POV photography. First person on bridge in fog. Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) appearing from mist. Grey theme. Black hair. Pale skin. Grey lips. Grey corset coat. Sensual pose with arched back, bedroom eyes. Expression: bridge keeper. Grey fog POV. Seductive glamour photography, diffused lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person on bridge in fog. Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference) appearing from mist. Grey theme. Black hair. Pale skin. Grey lips. Grey corset coat. Sensual pose with arched back, bedroom eyes. Expression: bridge keeper. Grey fog POV. Seductive glamour photography, diffused lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 3: 98. Miss Doll - POV Coral Reef
 
 ```text
-Professional color POV photography. First person underwater (diving). ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob mermaid (implied). Coral theme. Flawless porcelain skin. Coral lips. Coral scale corset. Sensual pose with arched back, bedroom eyes. Expression: under the sea. Coral underwater POV. Seductive glamour photography, underwater refracted lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional color POV photography. First person underwater (diving). woman 28+ years old mature glamorous with platinum blonde bob mermaid (implied). Coral theme. Flawless porcelain skin. Coral lips. Coral scale corset. Sensual pose with arched back, bedroom eyes. Expression: under the sea. Coral underwater POV. Seductive glamour photography, underwater refracted lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 2: 99. Ana√Øs - POV Platinum Lobby
+### Prompt 2: 99. AnaÔs - POV Platinum Lobby
 
 ```text
 Professional color POV photography. First person entering luxury lobby. Aristocratic woman with honey blonde hair waiting. Platinum theme. Bronze skin. Nude lips. Platinum silver corset suit. Sensual pose with arched back, bedroom eyes. Expression: 5 star life. Platinum lobby POV. Seductive glamour photography, bright cool lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -674,13 +674,13 @@ Professional color POV photography. First person entering luxury lobby. Aristocr
 ### Prompt 1: 100. All Three - POV The Choice
 
 ```text
-Professional finale POV photography. First person standing before three doors. HELENA (black door), MISS DOLL (pink door), ANA√èS (gold door). Each standing in front of their colored door beckoning viewer. Ultimate choice. Sensual pose with arched back, bedroom eyes. Expression: choose your path. Three doors POV. Photorealistic 8k. Vertical portrait orientation.
+Professional finale POV photography. First person standing before three doors. HELENA (black door), MISS DOLL (pink door), ANAœS (gold door). Each standing in front of their colored door beckoning viewer. Ultimate choice. Sensual pose with arched back, bedroom eyes. Expression: choose your path. Three doors POV. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 ---
 
-*Creado por: Helena de Ana√Øs ü¶á*
-*V17.2 POV Collection ‚Äî 100 prompts*
+*Creado por: Helena de AnaÔs ??*
+*V17.2 POV Collection ó 100 prompts*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2026-01-04*
 

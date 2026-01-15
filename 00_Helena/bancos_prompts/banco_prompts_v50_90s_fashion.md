@@ -1,8 +1,8 @@
-﻿# ðŸŽ¨ Banco de Prompts V50: 1990s SENSUAL & AESTHETIC (VOL. 1)
+# 🎨 Banco de Prompts V50: 1990s SENSUAL & AESTHETIC (VOL. 1)
 
 > **USO:** Copiar el texto del prompt directamente. CADA PROMPT ES AUTO-CONTENIDO.
 > **Total:** 100 Prompts (Completo) | **Actualizado:** 2026-01-12
-> **VersiÃ³n:** 1.0 (Sensual Situations Focus)
+> **Versión:** 1.0 (Sensual Situations Focus)
 > **Tema:** 90s Fashion, Heroin Chic, Supermodels, Grunge, Erotica.
 
 ---
@@ -11,301 +11,301 @@
 
 > [!CAUTION]
 > **REGLAS DE ORO:**
-> 1.  **SITUACIONES SENSUALES:** El foco es la acciÃ³n provocativa.
+> 1.  **SITUACIONES SENSUALES:** El foco es la acción provocativa.
 > 2.  **Canon Miss Doll:** Bob Platino SIN FLEQUILLO.
 > 3.  **Formato:** Vertical Obligatorio.
 
 ---
 
-## ðŸ¦‡ II. HELENA: GRUNGE, HEROIN CHIC & DARK (1-20)
+## 🦇 II. HELENA: GRUNGE, HEROIN CHIC & DARK (1-20)
 
 ### Prompt 1: Heroin Chic - Messy Bedroom
 ```text
 (90s heroin chic aesthetic), (Corinne Day photography), flash photography, messy room background, smeared eyeliner, grunge texture,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair (bedhead style), full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair (bedhead style), full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Lying sprawled on a bare mattress, wearing a silk slip dress (latex texture) falling off one shoulder, staring with heavy lidded eyes, smoking a cigarette, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 2: The Crow - Rooftop Rain
 ```text
 (The Crow movie aesthetic), (Gothic noir), rain pouring, blue cinematic lighting, gargoyles,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair wet and slicked back, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair wet and slicked back, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Straddling a stone gargoyle edge, soaked clothes clinging to body, looking down at the city, sensual danger, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 3: Kinderwhore - Broken Doll
 ```text
 (Kinderwhore aesthetic), (Courtney Love style), torn velvet, harsh flash, smeared lipstick,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Sitting on the floor with legs spread (modest angle), wearing a torn babydoll dress over corset, one excessive leg warmer, looking up innocently yet corrupted, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 4: The Matrix - Dodge
 ```text
 (The Matrix 1999 aesthetic), (green tint), bullet time effect, concrete lobby background, shattered tiles,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Arched back backwards (limbo pose) showing off flexibility and bust, wearing shiny black POV trench coat opening to reveal latex body, wet look, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 5: MTV Unplugged - Stool
 ```text
 (MTV Unplugged stage), (candlelight), intimate atmosphere, acoustic guitar, lilies,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Perched high on a bar stool, legs crossed high exposing thigh high boots, singing sensually into a microphone, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 6: Cruel Intentions - Secret
 ```text
 (Cruel Intentions aesthetic), (Upper East Side luxury), silk sheets, stash of secrets, rosary,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Leaning close to the camera as if whispering a secret, finger on lips, wearing sheer black lace lingerie, manipulative gaze, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 7: CK One - Minimalist
 ```text
 (Calvin Klein 90s ad style), (black and white photography), minimalist studio grey background, raw sexuality,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Topless (arms covering chest), wearing unbuttoned black jeans revealing corset hip line, looking straight at camera, defiant, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 8: Grunge Alleyway
 ```text
 (Seattle grunge scene), (brick wall), rainy alley, plaid shirt flannel, gritty texture,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Pinned against the brick wall, wearing oversized flannel shirt open to reveal black latex corset, biting lower lip, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 9: Vampire The Masquerade
 ```text
 (90s RPG aesthetic), (Vampire The Masquerade art), goth club, red velvet, goblet of blood,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips with blood trickle, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips with blood trickle, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Licking blood from her finger, intense predator eyes, wearing Victorian lace and latex, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 10: Fight Club - Marla
 ```text
 (Fight Club movie aesthetic), (Marla Singer style), dingy apartment, smoke, dirty gloom,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Sliding down a wall in despair/ecstasy, wearing a black faux fur coat and sunglasses indoors, smoking, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 11: Scream - Phone Call
 ```text
 (Scream movie aesthetic), (suburban house night), landline cordless phone, popcorn, sliding glass doors,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Holding the phone to ear with shoulder, untying her robe to reveal corset, look of terror and arousal, "What's your favorite scary movie?", masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 12: Craft Witchcraft
 ```text
 (The Craft movie aesthetic), (candles ritual), beach at sunset, snakes, catholic school uniform remix,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Kneeling in wet sand, casting a spell, wearing wet catholic school skirt and corset, eyes rolled back in ecstasy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 13: Industrial Club Cage
 ```text
 (Nine Inch Nails video aesthetic), (Industrial club), rusty metal, strobe lights, sweat,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Grasping the bars of a cage, sweating, wearing distinct PVC outfit, screaming/singing, raw energy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 14: Twin Peaks - Red Room
 ```text
 (Twin Peaks Red Room), (David Lynch style), zigzag floor, red curtains, dream logic,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Dancing backwards sensually to jazz, dreamlike trance, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 15: Poison Ivy (Uma)
 ```text
 (Batman & Robin 1997 aesthetic), (Poison Ivy), jungle, bioluminescent plants, green pheromones dust,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Blowing magic dust from palm towards viewer, wearing green latex leaf corset, seductive villain pose, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 16: Edward Scissorhands - Ice
 ```text
 (Tim Burton aesthetic), (Ice angel scene), snow falling, magical atmosphere, scissors,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Dancing under falling snow (ice shavings), wearing white bondage dress, expression of pure wonder, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 17: Black Hole Sun
 ```text
 (Soundgarden video aesthetic), (surreal suburbs), melting face effect (subtle), warped sky, bright uncanny sun,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips (smiling too wide), youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips (smiling too wide), youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Lying on green grass, melting ice cream, uncanny valley sexy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 18: Trainspotting - Party
 ```text
 (Trainspotting rave aesthetic), (motion blur), shaky cam, dirty bathroom neon, graffiti,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Leaning over a sink looking in mirror, smudging lipstick intentionally, chaotic energy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 19: Fifth Element - Bandage
 ```text
 (Fifth Element aesthetic), (Leeloo style), futuristic city ledge, flying cars, orange hair accent,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Wearing only white thermal bandages (strategically placed), crouching ready to jump, fearful yet perfect, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 20: Garbage - Shirley
 ```text
 (Garbage music video aesthetic), (Shirley Manson style), fish eye lens, orange lighting, feathers,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Crawling towards the camera on a shag carpet, intense stare, wearing fuzzy sweater over latex, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ---
 
-## ðŸ’– III. MISS DOLL: BIMBO EXPLOSION & PLASTIC FANTASTIC (21-40)
+## 💖 III. MISS DOLL: BIMBO EXPLOSION & PLASTIC FANTASTIC (21-40)
 
 ### Prompt 21: Baywatch Run - Slow Mo
 ```text
 (Baywatch intro aesthetic), (Slow motion run), California beach, sunny, lens flare, bouncing,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, delicate refined nose, high cheekbones, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP overlined glossy lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, delicate refined nose, high cheekbones, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP overlined glossy lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Running on the sand carrying a rescue buoy, wearing high-cut RED latex swimsuit, water splashing, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 22: Pam & Tommy - Boat
 ```text
 (Paparaazzi photography), (VHS leak aesthetic), grainy footage, sun glare, speed boat, wind,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Driving a speed boat in white bikini, laughing wildly, hair blowing messily, careless rich vibe, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 23: Clueless - As If
 ```text
 (Clueless movie aesthetic), (Beverly Hills high school), yellow plaid, fluffy pen, flip phone, bright colors,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Bending over to pick up a pen (bend and snap), wearing yellow plaid skirt suit (latex version), looking back innocently, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 24: Guess Jeans Ad - B&W
 ```text
 (Anna Nicole Smith Guess ad style), (black and white), retro 60s influence in 90s, big hair volume, denim texture,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Lying on a haystack, wearing corset and unzipped tight jeans, laughing with head thrown back, pure bombshell energy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 25: Barbie Girl - Aqua
 ```text
 (Aqua music video style), (plastic world), vibrant pink and blue, dollhouse set, stiff poses,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Sitting by a plastic pool, brushing hair stiffly, wearing pink latex dress, blank doll stare, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 26: Showgirls - Pool
 ```text
 (Showgirls movie aesthetic), (Verpase scene), swimming pool, excessive splashing, glitter nails, gold jewelry,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Emerging from pool water (wet look), wearing gold necklace and sheer wet white top over corset, shaking wet hair, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 27: Spice Girls - Platform Shoes
 ```text
 (Spice World aesthetic), (Union Jack), double decker bus, fisheye lens, girl power,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Kicking high towards the camera showing off massive platform shoes, wearing Union Jack latex mini dress, peace sign, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 28: Versace Safety Pin
 ```text
 (Elizabeth Hurley safety pin dress), (Red carpet 1994), flash bulbs, black fabric, gold pins, skin exposure,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Turning to side to show dress held together only by safety pins, revealing sideboob and hip, confident smile, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 29: Daisy Duke - Car Wash
 ```text
 (Sexy car wash trope), (90s commercial style), soapy sponge, bubbles, denim short shorts, wet t-shirt,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Squeezing a soapy sponge over her chest, wearing denim cutoffs and pink corset, bent over hood of car, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 30: American Beauty - Roses
 ```text
 (American Beauty fantasy), (Aerial shot), bed of red rose petals, naked illusion, dreamlike,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Lying in a sea of red rose petals, only face and corset (pink) visible, petals covering strategic areas, seductive gaze, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 31: 2 Become 1 - Winter
 ```text
 (Spice Girls video aesthetic), (Blue screen city night), wind machine, velvet coats, sparkle filter, romantic,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Slowly taking off a heavy fur coat to reveal lingerie underneath, wind blowing hair, city lights bokeh, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 32: Austin Powers - Fembot
 ```text
 (Austin Powers Fembot), (60s retro in 90s), pink nightgown, marabou feathers, machine gun jubblies, smoke,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Puffing chest out, smoke coming from breast cannons, enticing walk, robotic but sexy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 33: Britney Schoolgirl
 ```text
 (Baby One More Time aesthetic), (School hallway), lockers, pink hair ribbons, grey cardigan, bell ringing,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Leaning against locker, tying shirt above belly button to show corset, popping bubblegum, bored expression, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 34: Victoria's Secret Angel wings
 ```text
 (90s VS Fashion Show), (Runway walk), giant feather wings, satin runway, glitter falling,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Blowing a kiss to camera while walking runway, wearing massive pink angel wings and lingerie, high kick, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 35: Sex and the City - Bus
 ```text
 (SATC intro), (New York street), tulle skirt, bus splash, Manolo Blahniks,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Spinning in a pink tutu and corset on NYC street, looking back over shoulder, holding a cosmopoltan, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 36: Starship Troopers - Recruit
 ```text
 (Starship Troopers aesthetic), (Co-ed shower orlocker room), grey futuristic military gear, propaganda vibe,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Sitting on locker bench, pulling on grey combat boots, wearing regulation tank top (tight), "Doing my part!", masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 37: Mars Attacks - Alien Girl
 ```text
 (Mars Attacks aesthetic), (Alien disguise), big beehive hair (wig), tight dress, weird walk, chewing gum,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Seductively walking towards a politician, unzipping human disguise (dress) to show latex, wide unblinking eyes, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 38: 90s Taco Bell Interior
 ```text
 (90s fast food aesthetic), (Memphis pattern seats), purple and pink decor, fluorescent lights, soda fountain,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Sharing a milkshake with two straws (but alone), sitting on table, messy eating, ketchup on finger, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 39: Disposable Camera Flash
 ```text
 (Disposable camera aesthetic), (overexposed flash), red eye effect, house party, red solo cups,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Lifting shirt top slightly (flashing), shocked/happy expression, candid energy, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 40: Blow Pop Lolly
 ```text
 (Candy commercial aesthetic), (extreme close up), glossy lips, sticky, vibrant colors, tongue,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist, PLEASER platform heels 16-18cm, visible external corset over clothing,
 Licking a giant pink lollipop, heavy eye contact, drool string, suggestive sweetness, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ---
 
-## ðŸ‘‘ IV. ANAÃS: VOGUE, POWER & EROTICA (41-50)
+## 👑 IV. ANAÏS: VOGUE, POWER & EROTICA (41-50)
 
 ### Prompt 41: Basic Instinct - The Crossing
 ```text
@@ -379,291 +379,291 @@ Pose replicating the nude cover but wearing painted-on corset (body paint), rega
 
 ---
 
-## ðŸ‘¯ V. DUOS & SCENARIOS: 90s POP CULTURE (51-80)
+## 👯 V. DUOS & SCENARIOS: 90s POP CULTURE (51-80)
 
 ### Prompt 51: Aerosmith Crazy - Convertible
 ```text
 (Aerosmith Crazy/Cryin video aesthetic), (Alicia & Liv), schoolgirl outfits stripped, convertible ride, wind,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, driving, laughing,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, standing on seat, stripping off plaid skirt,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, driving, laughing,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, standing on seat, stripping off plaid skirt,
 Rebellion, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 52: Showgirls - Dance Practice
 ```text
 (Showgirls dance studio), (sweat and mirrors), harsh lighting, leg warmers, rivalry,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pushing the other, aggressive stretch,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, falling gracefully, wearing gold leotard,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pushing the other, aggressive stretch,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, falling gracefully, wearing gold leotard,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 53: Double Team (Van Damme) - Cyber
 ```text
 (90s Cyberpunk Action movie), (orange jumpsuits), explosions, hacking, wet floor,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding dual pistols,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, typing on wrist computer, frantic,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding dual pistols,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, typing on wrist computer, frantic,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 54: Death Becomes Her - Hole
 ```text
 (Death Becomes Her aesthetic), (undead glamour), shotgun hole in stomach (clean like a doll), satin sheets, grandeur,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a shovel, smirking,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, head twisted 180 degrees backwards, fixing makeup in mirror,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a shovel, smirking,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, head twisted 180 degrees backwards, fixing makeup in mirror,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 55: Romy and Michele - Reunion
 ```text
 (Romy and Michele's High School Reunion), (entrance scene), metallic dresses, confidence, gym doors,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, wearing blue metallic dress, walking fierce,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing pink metallic dress, high fiving,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, wearing blue metallic dress, walking fierce,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing pink metallic dress, high fiving,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 56: Scream Queens - Mud Fight
 ```text
 (Generic 90s horror mud wrestling), (rain and mud), torn white t-shirts, flashing lightning,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pinning the other down, covered in mud,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, struggle, shirt wet and see through,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pinning the other down, covered in mud,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, struggle, shirt wet and see through,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 57: Titanic - Drawing Scene
 ```text
 (Titanic drawing scene), (warm golden light), sofa, "Draw me like one of your french girls",
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, sketching charcoal, focused,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, posing nude (except corset and Heart of Ocean necklace),
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, sketching charcoal, focused,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, posing nude (except corset and Heart of Ocean necklace),
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 58: The Simple Life - Farm (Pre-2000 vibe)
 ```text
 (Farm aesthetic), (overalls without shirt), pitchfork, muddy truck, confused expression,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a chicken with disgust,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, attempting to milk a cow, wearing pink overalls,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a chicken with disgust,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, attempting to milk a cow, wearing pink overalls,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 59: Pokemon Team Rocket
 ```text
 (Team Rocket cosplay), (anime villain entrance), smoke bomb, R logo,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, as Jessie (but goth), pointing,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, as stylized James (genderbend) or Meowth human form, rose in mouth,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, as Jessie (but goth), pointing,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, as stylized James (genderbend) or Meowth human form, rose in mouth,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 60: American Pie - Band Camp
 ```text
 (Band camp music room), (instruments), uniform twist, flutes, naughty secret,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, playing flute,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, trapped in a tuba/drum, laughing,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, playing flute,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, trapped in a tuba/drum, laughing,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 61: Rollerblading Boardwalk
 ```text
 (Venice Beach 90s), (neon rollerblades), knee pads, bikini tops, walkman cassette player,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels (on wheels), pulling the other,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, falling over dramatically, cute clumsy,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels (on wheels), pulling the other,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, falling over dramatically, cute clumsy,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 62: Gameboy Link Cable
 ```text
 (Bedroom floor), (sleepover), Gameboy Colors, link cable, snacks, messy room,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, winning, smirk,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, losing, pouting, throwing Gameboy,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, winning, smirk,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, losing, pouting, throwing Gameboy,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 63: Blockbuster Friday Night
 ```text
 (Video store aisles), (candy section), choosing movies, blue and yellow carpet,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a horror movie,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, holding a rom-com, arguing playfully,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a horror movie,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, holding a rom-com, arguing playfully,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 64: Tamagotchi Care
 ```text
 (Macro shot of hands), (Tamagotchi screen), school playground background,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, neglecting hers (skull icon),
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, feeding hers, obsessed expression,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, neglecting hers (skull icon),
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, feeding hers, obsessed expression,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 65: Furby collection
 ```text
 (Room filled with Furbies), (mildly cursed), staring eyes, shelf,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, looking terrified of the toys,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, hugging a giant Furby, bliss,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, looking terrified of the toys,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, hugging a giant Furby, bliss,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 66: Slap Bracelets Pain
 ```text
 (School desk background), (colorful slap bracelets), bright patterns,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, slapping a bracelet onto the other's wrist hard, malicious grin,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, yelping in pain/pleasure, arm covered in bracelets,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, slapping a bracelet onto the other's wrist hard, malicious grin,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, yelping in pain/pleasure, arm covered in bracelets,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 67: Inflatable Furniture
 ```text
 (90s inflatable room), (transparent pink and blue chairs), glitter inside plastic, precarious,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, popping a chair with her heel (accidentally/on purpose),
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, sinking into a deflating chair, legs in air,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, popping a chair with her heel (accidentally/on purpose),
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, sinking into a deflating chair, legs in air,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 68: Laser Pointer Cats
 ```text
 (Dark room), (red laser dot), cat behavior,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding the laser pointer, controlling,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, chasing the dot on all fours like a cat, mesmerized,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding the laser pointer, controlling,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, chasing the dot on all fours like a cat, mesmerized,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 69: Dial Up Internet Rage
 ```text
 (Computer desk), (beige bulky PC monitor), tangle of wires, loading bar 99%,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, yelling at modem,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, tangled in phone cord, trying to call,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, yelling at modem,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, tangled in phone cord, trying to call,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 70: Y2K Panic - Bunker
 ```text
 (New Years Eve 1999), (Bunker supplies), canned food, party hats, countdown clock,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, checkng watch, serious,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, popping champagne too early, oblivious,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, checkng watch, serious,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, popping champagne too early, oblivious,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 71: Slip n Slide - Garden
 ```text
 (Yellow plastic slip n slide), (water hose), summer grass, soap suds,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, watching judgmentally with umbrella,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, sliding face first, wet hair, chaos,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, watching judgmentally with umbrella,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, sliding face first, wet hair, chaos,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 72: Bubble Tape Gum
 ```text
 (School lockers), (Bubble Tape container), pink gum,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, unrolling the gum,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, eating the entire roll at once, cheeks stuffed,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, unrolling the gum,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, eating the entire roll at once, cheeks stuffed,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 73: Hackers - Rollerblades & Laptops
 ```text
 (Hackers movie aesthetic), (Cyberdelic club), neon paint, rollerblades, weird sunglasses, floppy disks,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a laptop, hacking the planet,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing camouflage and latex, dancing,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, holding a laptop, hacking the planet,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing camouflage and latex, dancing,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 74: Beanie Babies Pit
 ```text
 (Ball pit but with Beanie Babies), (collector obsession), tags protected,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, burying herself,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, throwing bears in air, joy,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, burying herself,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, throwing bears in air, joy,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 75: Magic Eye Poster
 ```text
 (Kiosk at mall), (Magic Eye stereogram poster), cross eyed, frustration,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pointing at the hidden image easily,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, nose touching the poster, cross-eyed, confused,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pointing at the hidden image easily,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, nose touching the poster, cross-eyed, confused,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 76: Nickelodeon Slime
 ```text
 (Game show set), (green slime bucket), goggles, orange logo,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pulling the rope,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, getting slimed heavily, shocked, dripping green,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, pulling the rope,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, getting slimed heavily, shocked, dripping green,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 77: Super Soaker Fight
 ```text
 (Backyard pool), (Neon Super Soakers), water stream, wet t-shirt,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, sniper aim with water gun,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, surrendering, soaked, laughing,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, sniper aim with water gun,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, surrendering, soaked, laughing,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 78: Easy Bake Oven
 ```text
 (Kitchen counter), (Tiny lightbulb oven), raw batter, mess,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, reading instructions skeptically,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, eating half-baked cake with fingers, messy face,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, reading instructions skeptically,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, eating half-baked cake with fingers, messy face,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 79: Pogs Tournament
 ```text
 (Concrete floor), (Stack of Pogs), Slammer, intensity,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, throwing slammer with force,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, collecting winnings eagerly,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, throwing slammer with force,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, collecting winnings eagerly,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 80: Disposable Cup Pattern
 ```text
 (Jazz cup pattern background), (90s cafeteria), plastic trays, square pizza,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, leaning on table, cool girl,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, drinking juice box, innocent pose,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, leaning on table, cool girl,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, drinking juice box, innocent pose,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ---
 
-## ðŸŽ¨ VI. 90s ART & ABSTRACT (81-100)
+## 🎨 VI. 90s ART & ABSTRACT (81-100)
 
 ### Prompt 81: Lisa Frank - Dolphins
 ```text
 (Lisa Frank aesthetic), (rainbow ocean), dolphins, sparkles, neon purple,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Riding a rainbow dolphin, wearing tie-dye wetsuit, ecstatic expression, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 82: Goosebumps Cover
 ```text
 (Goosebumps book cover art), (Tim Jacobus style), distorted perspective, slime, spooky eyes, title text "READER BEWARE",
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Running from a giant hamster (or skeleton), vivid colors, bumpy texture, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 83: Keith Haring Patterns
 ```text
 (Keith Haring style), (bold outlines), dancing figures, primary colors, graffiti,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Body painted white with black Haring scribbles, dancing with the figures, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 84: Windows 95 Maze
 ```text
 (Windows 95 screensaver), (brick maze), low res textures, floating logo, smiley face,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Trapped in the brick maze, looking for exit, digital artifacting, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 85: Nickelodeon Orange Splat
 ```text
 (Nickelodeon logo style), (orange fluid), white text, blue background, cartoonish,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Trapped inside a giant orange splat, sticking out tongue, wacky, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 86: Saved by the Bell Intro
 ```text
 (Memphis design patterns), (flying triangles), pastel and neon mix, sunglasses, cutout animation style,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Posing arms crossed, giant brick cell phone flying by, 90s cool, masterpiece, 8k. Vertical portrait orientation.
 ```
 
@@ -677,56 +677,56 @@ Catching a fly with eyelashes, bizarre acrobatics, masterpiece, 8k. Vertical por
 ### Prompt 88: Grunge Typography (Ray Gun)
 ```text
 (Ray Gun magazine style), (David Carson design), illegible fonts, distressed photos, collage, grunge texture,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Portrait overlaid with scratched text and textures, moody and artistic, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 89: Glow in the Dark Stars
 ```text
 (Bedroom ceiling aesthetic), (green glowing plastic stars), sticky tack, dark room, grainy night vision,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Floating among the plastic stars, glowing green skin accents, night dream, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 90: CD-ROM Glitch
 ```text
 (Skipping CD effect), (scratched disk), digital tearing, metallic rainbow reflection,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Face fragmented by digital errors, holding a scratched CD, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 91: Disposable Solos Cup Jazz
 ```text
 (Jazz cup iconic pattern), (teal/purple brushstroke), white wax paper cup, drink fountain,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Wearing a dress made of the Jazz cup pattern, drinking soda, 90s nostalgia, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 92: Furby Autopsy
 ```text
 (Scientific diagram), (Furby internal mechanics), creepy cute, electronic parts,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Dissecting a Furby on a table, wearing latex gloves, mad scientist 90s style, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 93: Nokia Snake
 ```text
 (Nokia 3310 screen), (green backlight), black pixels, snake game,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Her body is the snake, eating pixel apples, growing longer, digital abstraction, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 94: Talkboy Recorder
 ```text
 (Home Alone 2 Talkboy), (grey plastic gadget), red light, cassette, macro focus,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Speaking a prank into the Talkboy, mischievous grin, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 95: Scholastic Book Fair
 ```text
 (School library shelves), (stacks of colorful books), eraser toppers, highlighters, cardboard displays,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Buying all the posters and gel pens, holding a Ferrari poster, happy consumerism, masterpiece, 8k. Vertical portrait orientation.
 ```
 
@@ -740,29 +740,29 @@ Appearing as a historical figure in a small pixelated video window, educating th
 ### Prompt 97: Lunchables - Ham & Cheese
 ```text
 (Yellow plastic tray), (perfectly round ham), crackers, red sauce packet, cafeteria table,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Arranging a Lunchable like gourmet food, delicate fingers, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 98: Socker Boppers
 ```text
 (Inflatable boxing gloves), (translucent colors), "More fun than a pillow fight", bedroom background,
-Left: ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, wearing purple Socker Boppers, fierce,
-Right: ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing pink Socker Boppers, ready to fight,
+Left: woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre), pale skin, voluminous black hair, ALWAYS wearing tight corset, PLEASER stiletto heels, wearing purple Socker Boppers, fierce,
+Right: woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset, wearing pink Socker Boppers, ready to fight,
 Masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 99: Hypercolor T-Shirt
 ```text
 (Heat sensitive fabric), (hand prints changing color), purple to pink, t-shirt texture,
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP, ULTRA PLUMP lips, EXTREME hourglass silhouette, PLEASER platform heels, visible external corset,
 Wearing a tight Hypercolor shirt over corset, handprints on chest changing color, glowing effect, masterpiece, 8k. Vertical portrait orientation.
 ```
 
 ### Prompt 100: Y2K End of World
 ```text
 (Digital apocalypse), (matrix code raining), city lights going out, fireworks, 1999-2000 transition,
-ADULT WOMAN 30+ years old mature ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
+woman 30+ years old mature woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), pale porcelain white skin, voluminous jet black hair, full glossy lips, youthful face, ALWAYS wearing tight underbust or overbust corset, PLEASER stiletto heels 7-9 inches with thin deadly heel,
 Kissing Miss Doll (glamorous woman blonde bob) as the world ends/restarts, digital corruption effect surrounding them, silhouette against explosion, masterpiece, 8k. Vertical portrait orientation.
 ```
 

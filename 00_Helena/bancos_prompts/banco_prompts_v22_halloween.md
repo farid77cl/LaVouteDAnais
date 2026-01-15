@@ -1,27 +1,27 @@
-﻿# ðŸŽƒ Banco de Prompts V22: HALLOWEEN & HORROR EDITION
+# 🎃 Banco de Prompts V22: HALLOWEEN & HORROR EDITION
 
-> **ENFOQUE:** TemÃ¡ticas de Halloween, terror sensual, brujas, vampiras, diablas, monstruos sexy.
+> **ENFOQUE:** Temáticas de Halloween, terror sensual, brujas, vampiras, diablas, monstruos sexy.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **ðŸŽ¨ COLOR FREEDOM:** Helena (Black, Red, Purple, Orange). Miss Doll (Pink, Black, Orange, White).
+> **🎨 COLOR FREEDOM:** Helena (Black, Red, Purple, Orange). Miss Doll (Pink, Black, Orange, White).
 > **Total:** 50+ prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## ðŸ§¬ DESCRIPCIONES BASE CANÃ“NICAS
+## 🧬 DESCRIPCIONES BASE CANÓNICAS
 
-### ðŸ¦‡ Helena de AnaÃ¯s (BASE)
+### 🦇 Helena de Anaïs (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference), 
 pale porcelain white skin, voluminous jet black hair with enormous volume, 
 full glossy lips (black/purple/red), youthful face, feminine silhouette, 
 black stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### ðŸ’– Miss Doll (BASE)
+### 💖 Miss Doll (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -32,263 +32,263 @@ PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 
 ---
 
-## ðŸ¦‡ I. HELENA â€” VAMPIRE QUEEN (10 PROMPTS)
+## 🦇 I. HELENA — VAMPIRE QUEEN (10 PROMPTS)
 
 ### Prompt 100: 1. Helena - Classic Vampire Countess
 
 ```text
-Professional gothic photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin vampire pale. Full glossy blood red lips showing vampire fangs. Wearing BLACK VELVET victorian gown with high collar, red satin lining visible. Silver bat pendant necklace. PLEASER RAPTURE-1020 black 8-inch boots. Standing in gothic castle with candles. Bats flying in background. Sensual pose with arched back, bedroom eyes. Expression: predatory hunger. Vampire countess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing dramatically. Pale porcelain white skin vampire pale. Full glossy blood red lips showing vampire fangs. Wearing BLACK VELVET victorian gown with high collar, red satin lining visible. Silver bat pendant necklace. PLEASER RAPTURE-1020 black 8-inch boots. Standing in gothic castle with candles. Bats flying in background. Sensual pose with arched back, bedroom eyes. Expression: predatory hunger. Vampire countess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Helena - Vampire Bride Blood Bath
 
 ```text
-Professional horror boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet with blood. Pale porcelain white skin with blood splatters artistic. Full glossy blood red lips. Wearing SHEER WHITE nightgown drenched in fake blood. Red staining white fabric. PLEASER MOON-708 white 7-inch heels stained red. Standing in gothic bathtub filled with red water. Candles everywhere. Sensual dangerous pose. Expression: post-feeding satisfied. Blood bath vampire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet with blood. Pale porcelain white skin with blood splatters artistic. Full glossy blood red lips. Wearing SHEER WHITE nightgown drenched in fake blood. Red staining white fabric. PLEASER MOON-708 white 7-inch heels stained red. Standing in gothic bathtub filled with red water. Candles everywhere. Sensual dangerous pose. Expression: post-feeding satisfied. Blood bath vampire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Helena - Vampire Seduction Victim
 
 ```text
-Professional seductive photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin luminous. Full glossy wine lips parted showing fangs. Wearing BLACK LACE bodysuit, revealing. Leaning over sleeping victim (only hand visible). PLEASER FLAMINGO-1020 black patent 8-inch boots. Gothic bedroom with four-poster bed. Red moonlight through window. Sensual predatory pose. Expression: hungry anticipation. Vampire attack. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seductive photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin luminous. Full glossy wine lips parted showing fangs. Wearing BLACK LACE bodysuit, revealing. Leaning over sleeping victim (only hand visible). PLEASER FLAMINGO-1020 black patent 8-inch boots. Gothic bedroom with four-poster bed. Red moonlight through window. Sensual predatory pose. Expression: hungry anticipation. Vampire attack. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Helena - Vampire Coffin Awakening
 
 ```text
-Professional dramatic photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread like dark halo. Pale porcelain white skin deathly beautiful. Full glossy pale lips. Rising from ornate gothic coffin. Wearing BLACK SATIN slip dress, elegant. Arms reaching up. PLEASER RAPTURE-1020 black 8-inch boots visible. Stone crypt with cobwebs. Dramatic lighting from above. Sensual awakening pose. Expression: ancient evil reborn. Coffin rising. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dramatic photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread like dark halo. Pale porcelain white skin deathly beautiful. Full glossy pale lips. Rising from ornate gothic coffin. Wearing BLACK SATIN slip dress, elegant. Arms reaching up. PLEASER RAPTURE-1020 black 8-inch boots visible. Stone crypt with cobwebs. Dramatic lighting from above. Sensual awakening pose. Expression: ancient evil reborn. Coffin rising. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Helena - Vampire Mirror POV
 
 ```text
-Professional POV photography showing reflection of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in reflection. Pale porcelain white skin ghostly in mirror. Full glossy blood red lips. Wearing PURPLE VELVET gown. Ornate gothic mirror frame. She has no reflection but viewer sees her. PLEASER MOON-708 purple 7-inch heels. Candlelit vanity. Sensual mysterious pose. Expression: knowing smirk. No reflection myth. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional POV photography showing reflection of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in reflection. Pale porcelain white skin ghostly in mirror. Full glossy blood red lips. Wearing PURPLE VELVET gown. Ornate gothic mirror frame. She has no reflection but viewer sees her. PLEASER MOON-708 purple 7-inch heels. Candlelit vanity. Sensual mysterious pose. Expression: knowing smirk. No reflection myth. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Helena - Vampire Mistress Throne
 
 ```text
-Professional regal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin royal. Full glossy black lips. Wearing BLACK LATEX gown with high slit. Silver jewelry. Sitting on gothic throne of bones. PLEASER RAPTURE-1020 silver 8-inch boots. Throne room with red tapestries. Sensual dominant pose. Expression: bored queen. Vampire royalty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional regal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver crown. Pale porcelain white skin royal. Full glossy black lips. Wearing BLACK LATEX gown with high slit. Silver jewelry. Sitting on gothic throne of bones. PLEASER RAPTURE-1020 silver 8-inch boots. Throne room with red tapestries. Sensual dominant pose. Expression: bored queen. Vampire royalty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Helena - Vampire Feeding
 
 ```text
-Professional intimate horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with blood on chin. Full glossy red lips glistening. Wearing RED SATIN robe open. Blood dripping from fangs. PLEASER FLAMINGO-1020 red patent 8-inch boots. Dark dungeon chains visible. Sensual feeding pose. Expression: ecstasy of blood. Vampire feeding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional intimate horror photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with blood on chin. Full glossy red lips glistening. Wearing RED SATIN robe open. Blood dripping from fangs. PLEASER FLAMINGO-1020 red patent 8-inch boots. Dark dungeon chains visible. Sensual feeding pose. Expression: ecstasy of blood. Vampire feeding. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Helena - Vampire Crypt Glam
 
 ```text
-Professional editorial photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled elegantly. Pale porcelain white skin flawless. Full glossy wine lips. Wearing BLACK SEQUIN mini dress, glamorous. Diamond choker. PLEASER MOON-708 black 7-inch heels. Posing in ancient stone crypt. Cobwebs artistically placed. Sensual fashion pose. Expression: eternal glamour. Crypt couture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional editorial photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled elegantly. Pale porcelain white skin flawless. Full glossy wine lips. Wearing BLACK SEQUIN mini dress, glamorous. Diamond choker. PLEASER MOON-708 black 7-inch heels. Posing in ancient stone crypt. Cobwebs artistically placed. Sensual fashion pose. Expression: eternal glamour. Crypt couture. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Helena - Vampire Bat Wings
 
 ```text
-Professional fantasy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin ethereal. Full glossy black lips. Wearing BLACK LEATHER bodysuit. Massive bat wings sprouting from back (costume). PLEASER RAPTURE-1020 black 8-inch boots. Full moon background. Sensual powerful pose with wings spread. Expression: nocturnal freedom. Bat transformation. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair dramatic. Pale porcelain white skin ethereal. Full glossy black lips. Wearing BLACK LEATHER bodysuit. Massive bat wings sprouting from back (costume). PLEASER RAPTURE-1020 black 8-inch boots. Full moon background. Sensual powerful pose with wings spread. Expression: nocturnal freedom. Bat transformation. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Helena - Vampire Graveyard Hunt
 
 ```text
-Professional atmospheric photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing in wind. Pale porcelain white skin glowing. Full glossy blood red lips. Wearing BLACK VELVET cape over mini dress. Fog swirling at feet. PLEASER RAPTURE-1020 black 8-inch boots on tombstone. Gothic graveyard at midnight. Sensual stalking pose. Expression: hunting prey. Graveyard vampire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional atmospheric photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing in wind. Pale porcelain white skin glowing. Full glossy blood red lips. Wearing BLACK VELVET cape over mini dress. Fog swirling at feet. PLEASER RAPTURE-1020 black 8-inch boots on tombstone. Gothic graveyard at midnight. Sensual stalking pose. Expression: hunting prey. Graveyard vampire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ§™â€â™€ï¸ II. HELENA â€” WITCH COLLECTION (10 PROMPTS)
+## 🧙‍♀️ II. HELENA — WITCH COLLECTION (10 PROMPTS)
 
 ### Prompt 90: 11. Helena - Classic Gothic Witch
 
 ```text
-Professional witch photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild untamed. Pale porcelain white skin mystical. Full glossy purple lips. Wearing BLACK VELVET witch dress, tattered hem. Pointed witch hat with silver buckle. PLEASER MOON-708 black 7-inch heels. Holding glowing crystal ball. Cauldron bubbling nearby. Sensual magical pose. Expression: casting spell. Classic witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional witch photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild untamed. Pale porcelain white skin mystical. Full glossy purple lips. Wearing BLACK VELVET witch dress, tattered hem. Pointed witch hat with silver buckle. PLEASER MOON-708 black 7-inch heels. Holding glowing crystal ball. Cauldron bubbling nearby. Sensual magical pose. Expression: casting spell. Classic witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Helena - Sexy Witch Brewing
 
 ```text
-Professional intimate witch photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy updo. Pale porcelain white skin with green glow from cauldron. Full glossy green lips. Wearing BLACK LACE corset with witch skirt. Stirring bubbling cauldron. PLEASER FLAMINGO-1020 black 8-inch boots. Stone witch cottage interior. Herbs hanging. Sensual brewing pose. Expression: concentrated magic. Potion brewing. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional intimate witch photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in messy updo. Pale porcelain white skin with green glow from cauldron. Full glossy green lips. Wearing BLACK LACE corset with witch skirt. Stirring bubbling cauldron. PLEASER FLAMINGO-1020 black 8-inch boots. Stone witch cottage interior. Herbs hanging. Sensual brewing pose. Expression: concentrated magic. Potion brewing. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Helena - Witch Familiar Black Cat
 
 ```text
-Professional magical photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver streaks. Pale porcelain white skin ethereal. Full glossy black lips. Wearing PURPLE VELVET witch gown. Black cat on shoulder. PLEASER RAPTURE-1020 purple 8-inch boots. Full moon window behind. Sensual mystical pose. Expression: communing with familiar. Witch and cat. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional magical photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver streaks. Pale porcelain white skin ethereal. Full glossy black lips. Wearing PURPLE VELVET witch gown. Black cat on shoulder. PLEASER RAPTURE-1020 purple 8-inch boots. Full moon window behind. Sensual mystical pose. Expression: communing with familiar. Witch and cat. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Helena - Witch Broom Flight
 
 ```text
-Professional fantasy action photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing behind dramatically. Pale porcelain white skin wind-swept. Full glossy red lips. Wearing BLACK LATEX bodysuit for flying. Sitting on ornate broomstick. PLEASER MOON-708 black 7-inch heels. Night sky with full moon background. Sensual flying pose. Expression: wild freedom. Broom flight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy action photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing behind dramatically. Pale porcelain white skin wind-swept. Full glossy red lips. Wearing BLACK LATEX bodysuit for flying. Sitting on ornate broomstick. PLEASER MOON-708 black 7-inch heels. Night sky with full moon background. Sensual flying pose. Expression: wild freedom. Broom flight. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Helena - Witch Spell Book
 
 ```text
-Professional intimate witch photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair falling over ancient book. Pale porcelain white skin lit by candles. Full glossy wine lips. Wearing SHEER BLACK robe over lingerie. Reading massive leather spellbook. PLEASER FLAMINGO-1020 black patent 8-inch boots. Library of magical tomes. Floating candles. Sensual reading pose. Expression: dark knowledge. Spell study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional intimate witch photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair falling over ancient book. Pale porcelain white skin lit by candles. Full glossy wine lips. Wearing SHEER BLACK robe over lingerie. Reading massive leather spellbook. PLEASER FLAMINGO-1020 black patent 8-inch boots. Library of magical tomes. Floating candles. Sensual reading pose. Expression: dark knowledge. Spell study. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Helena - Moon Witch Ritual
 
 ```text
-Professional ritual photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver moon crown. Pale porcelain white skin glowing silver. Full glossy silver lips. Wearing SILVER SHEER gown, see-through. Arms raised to full moon. PLEASER MOON-708 silver 7-inch heels. Stone circle outdoors. Sensual worship pose. Expression: moon connection. Lunar ritual. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ritual photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with silver moon crown. Pale porcelain white skin glowing silver. Full glossy silver lips. Wearing SILVER SHEER gown, see-through. Arms raised to full moon. PLEASER MOON-708 silver 7-inch heels. Stone circle outdoors. Sensual worship pose. Expression: moon connection. Lunar ritual. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Helena - Witch Coven Leader
 
 ```text
-Professional group photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre as leader. Voluminous jet black hair with elaborate horned headpiece. Pale porcelain white skin commanding. Full glossy blood red lips. Wearing BLACK VELVET high priestess robe. Leading coven circle (shadows of others). PLEASER RAPTURE-1020 black 8-inch boots. Pentagram on ground. Sensual commanding pose. Expression: coven mistress. Witch leader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional group photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre as leader. Voluminous jet black hair with elaborate horned headpiece. Pale porcelain white skin commanding. Full glossy blood red lips. Wearing BLACK VELVET high priestess robe. Leading coven circle (shadows of others). PLEASER RAPTURE-1020 black 8-inch boots. Pentagram on ground. Sensual commanding pose. Expression: coven mistress. Witch leader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Helena - Sexy Witch Costume
 
 ```text
-Professional playful photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair perfect. Pale porcelain white skin flawless. Full glossy orange lips for Halloween. Wearing ORANGE and BLACK sexy witch costume, short skirt, cleavage. Mini witch hat. PLEASER FLAMINGO-1020 orange patent 8-inch boots. Pumpkins and candy around. Sensual playful pose. Expression: trick or treat. Halloween witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair perfect. Pale porcelain white skin flawless. Full glossy orange lips for Halloween. Wearing ORANGE and BLACK sexy witch costume, short skirt, cleavage. Mini witch hat. PLEASER FLAMINGO-1020 orange patent 8-inch boots. Pumpkins and candy around. Sensual playful pose. Expression: trick or treat. Halloween witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Helena - Forest Witch Nature
 
 ```text
-Professional nature photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with autumn leaves woven in. Pale porcelain white skin earthy. Full glossy brown lips natural. Wearing BROWN VELVET tattered witch dress. Mushroom crown. Barefoot or PLEASER RAPTURE-1020 brown 8-inch boots. Ancient forest with twisted trees. Sensual natural pose. Expression: forest guardian. Nature witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nature photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with autumn leaves woven in. Pale porcelain white skin earthy. Full glossy brown lips natural. Wearing BROWN VELVET tattered witch dress. Mushroom crown. Barefoot or PLEASER RAPTURE-1020 brown 8-inch boots. Ancient forest with twisted trees. Sensual natural pose. Expression: forest guardian. Nature witch. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Helena - Witch Burning Stake
 
 ```text
-Professional dramatic photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild from heat. Pale porcelain white skin glowing from flames. Full glossy red lips defiant. Wearing torn WHITE peasant dress. Bound to stake but flames not touching. PLEASER MOON-708 visible through flames. Historical village square. Sensual defiant pose. Expression: unburned witch. Stake burning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dramatic photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild from heat. Pale porcelain white skin glowing from flames. Full glossy red lips defiant. Wearing torn WHITE peasant dress. Bound to stake but flames not touching. PLEASER MOON-708 visible through flames. Historical village square. Sensual defiant pose. Expression: unburned witch. Stake burning. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ˜ˆ III. MISS DOLL â€” DEVIL & DEMON (10 PROMPTS)
+## 😈 III. MISS DOLL — DEVIL & DEMON (10 PROMPTS)
 
 ### Prompt 80: 21. Miss Doll - Pink Devil Queen
 
 ```text
-Professional devilish photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK latex devil costume, horns and tail. Pink pitchfork. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell background with pink flames. Sensual devilish pose. Expression: playful evil. Pink devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional devilish photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing HOT PINK latex devil costume, horns and tail. Pink pitchfork. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell background with pink flames. Sensual devilish pose. Expression: playful evil. Pink devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Miss Doll - Succubus Seduction
 
 ```text
-Professional seductive photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing BLACK SHEER bodysuit with demon wings. Small horns in hair. PLEASER FLAMINGO-808 black 8-inch platform heels. Bedroom at night. Sensual hypnotic pose. Expression: irresistible hunger. Succubus. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional seductive photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin ethereal. HEAVY GLAMOUR MAKEUP: dramatic purple smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing BLACK SHEER bodysuit with demon wings. Small horns in hair. PLEASER FLAMINGO-808 black 8-inch platform heels. Bedroom at night. Sensual hypnotic pose. Expression: irresistible hunger. Succubus. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Miss Doll - Hell's Secretary
 
 ```text
-Professional corporate hell photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED LATEX pencil skirt and blouse. Devil horns. Reading contract. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell office with fire outside window. Sensual business pose. Expression: contract ready. Hell secretary. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional corporate hell photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED LATEX pencil skirt and blouse. Devil horns. Reading contract. PLEASER FLAMINGO-808 red 8-inch platform heels. Hell office with fire outside window. Sensual business pose. Expression: contract ready. Hell secretary. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Miss Doll - Demon Cheerleader
 
 ```text
-Professional playful horror photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertones. HEAVY GLAMOUR MAKEUP: dramatic black and red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing RED and BLACK demon cheerleader uniform, torn. Pom poms with flames. PLEASER FLAMINGO-808 black 8-inch platform heels. Stadium on fire. Sensual cheering pose. Expression: spirit from hell. Demon cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful horror photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertones. HEAVY GLAMOUR MAKEUP: dramatic black and red smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing RED and BLACK demon cheerleader uniform, torn. Pom poms with flames. PLEASER FLAMINGO-808 black 8-inch platform heels. Stadium on fire. Sensual cheering pose. Expression: spirit from hell. Demon cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Miss Doll - Devil in White
 
 ```text
-Professional contrast photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold contrast. Human realistic face. Wearing WHITE LATEX angel dress but with red devil horns and tail. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven clouds with hidden fire. Sensual deceptive pose. Expression: wolf in sheep. Fallen angel devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional contrast photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin angelic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips bold contrast. Human realistic face. Wearing WHITE LATEX angel dress but with red devil horns and tail. PLEASER FLAMINGO-808 white 8-inch platform heels. Heaven clouds with hidden fire. Sensual deceptive pose. Expression: wolf in sheep. Fallen angel devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Miss Doll - Candy Corn Devil
 
 ```text
-Professional Halloween photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE WHITE YELLOW candy corn themed devil costume. Cute horns. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy everywhere. Sensual sweet pose. Expression: sweet evil. Candy devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Halloween photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE WHITE YELLOW candy corn themed devil costume. Cute horns. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy everywhere. Sensual sweet pose. Expression: sweet evil. Candy devil. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Miss Doll - Devil Bathing in Fire
 
 ```text
-Professional dramatic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing from flames. HEAVY GLAMOUR MAKEUP: dramatic red and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Bathing in pool of harmless flames. Only devil horns visible above fire. PLEASER FLAMINGO-808 red chrome 8-inch platform heels beside pool. Hell spa. Sensual bathing pose. Expression: relaxed evil. Fire bath. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dramatic photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin glowing from flames. HEAVY GLAMOUR MAKEUP: dramatic red and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Bathing in pool of harmless flames. Only devil horns visible above fire. PLEASER FLAMINGO-808 red chrome 8-inch platform heels beside pool. Hell spa. Sensual bathing pose. Expression: relaxed evil. Fire bath. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Miss Doll - Devil Throne
 
 ```text
-Professional regal hell photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertone. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Sitting on throne of skulls. Wearing BLACK LATEX queen gown. Crown of flames. PLEASER FLAMINGO-808 gold 8-inch platform heels. Hell throne room. Sensual queen pose. Expression: queen of hell. Devil queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional regal hell photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with red undertone. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy BLACK lips. Human realistic face. Sitting on throne of skulls. Wearing BLACK LATEX queen gown. Crown of flames. PLEASER FLAMINGO-808 gold 8-inch platform heels. Hell throne room. Sensual queen pose. Expression: queen of hell. Devil queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Miss Doll - Pink Pitchfork Pose
 
 ```text
-Professional playful photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX bikini with devil accessories. Holding pink rhinestone pitchfork. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink hell background. Sensual pose with pitchfork. Expression: cute evil. Pink devil pinup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional playful photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK LATEX bikini with devil accessories. Holding pink rhinestone pitchfork. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink hell background. Sensual pose with pitchfork. Expression: cute evil. Pink devil pinup. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Miss Doll - Devil Date Night
 
 ```text
-Professional date photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED SATIN date dress, elegant. Small horns cute. Holding rose with thorns. PLEASER FLAMINGO-808 red 8-inch platform heels. Restaurant in hell with fire view. Sensual date pose. Expression: devilish date. Devil girlfriend. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional date photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin romantic. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED SATIN date dress, elegant. Small horns cute. Holding rose with thorns. PLEASER FLAMINGO-808 red 8-inch platform heels. Restaurant in hell with fire view. Sensual date pose. Expression: devilish date. Devil girlfriend. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸŽƒ IV. MISS DOLL â€” HALLOWEEN COSTUMES (10 PROMPTS)
+## 🎃 IV. MISS DOLL — HALLOWEEN COSTUMES (10 PROMPTS)
 
 ### Prompt 70: 31. Miss Doll - Sexy Pumpkin
 
 ```text
-Professional Halloween photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with orange glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE LATEX pumpkin themed mini dress. Jack-o-lantern print. PLEASER FLAMINGO-808 orange 8-inch platform heels. Pumpkin patch background. Sensual Halloween pose. Expression: pumpkin spice nice. Sexy pumpkin. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Halloween photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with orange glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE LATEX pumpkin themed mini dress. Jack-o-lantern print. PLEASER FLAMINGO-808 orange 8-inch platform heels. Pumpkin patch background. Sensual Halloween pose. Expression: pumpkin spice nice. Sexy pumpkin. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Miss Doll - Ghost Bride
 
 ```text
-Professional ghostly photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin deathly pale. HEAVY GLAMOUR MAKEUP: dramatic grey smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PALE lips. Human realistic face. Wearing SHEER WHITE tattered wedding dress, ghostly. Floating effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Haunted mansion. Sensual floating pose. Expression: eternally waiting. Ghost bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ghostly photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin deathly pale. HEAVY GLAMOUR MAKEUP: dramatic grey smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PALE lips. Human realistic face. Wearing SHEER WHITE tattered wedding dress, ghostly. Floating effect. PLEASER FLAMINGO-808 white 8-inch platform heels. Haunted mansion. Sensual floating pose. Expression: eternally waiting. Ghost bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Miss Doll - Zombie Cheerleader
 
 ```text
-Professional horror photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with fake zombie wounds artistic. HEAVY GLAMOUR MAKEUP: dramatic green zombie eyes, thick eyeliner, long false lashes, arched brows, full lips with fake blood. Human realistic face. Wearing TORN pink cheerleader costume zombie version. PLEASER FLAMINGO-808 pink 8-inch platform heels dirty. Graveyard at night. Sensual undead pose. Expression: brain hungry cute. Zombie cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with fake zombie wounds artistic. HEAVY GLAMOUR MAKEUP: dramatic green zombie eyes, thick eyeliner, long false lashes, arched brows, full lips with fake blood. Human realistic face. Wearing TORN pink cheerleader costume zombie version. PLEASER FLAMINGO-808 pink 8-inch platform heels dirty. Graveyard at night. Sensual undead pose. Expression: brain hungry cute. Zombie cheerleader. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Miss Doll - Pink Skeleton
 
 ```text
-Professional artistic photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with skeleton makeup on body. HEAVY GLAMOUR MAKEUP: skeleton face paint in pink and white, dramatic eyes visible. Human realistic face beneath artistic makeup. Wearing PINK LATEX leotard with skeleton bones printed. PLEASER FLAMINGO-808 pink 8-inch platform heels. Day of dead altar. Sensual skeleton pose. Expression: glamorous death. Pink skeleton. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional artistic photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with skeleton makeup on body. HEAVY GLAMOUR MAKEUP: skeleton face paint in pink and white, dramatic eyes visible. Human realistic face beneath artistic makeup. Wearing PINK LATEX leotard with skeleton bones printed. PLEASER FLAMINGO-808 pink 8-inch platform heels. Day of dead altar. Sensual skeleton pose. Expression: glamorous death. Pink skeleton. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Miss Doll - Frankenstein Bride
 
 ```text
-Professional monster photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut styled in dramatic Bride of Frankenstein updos with white streak. Flawless porcelain skin with green tint. HEAVY GLAMOUR MAKEUP: dramatic black and white, green accents, full glossy BLACK lips. Human realistic face. Wearing WHITE bandage style dress. Fake stitches on neck. PLEASER FLAMINGO-808 white 8-inch platform heels. Laboratory background. Sensual monster pose. Expression: alive at last. Frankenstein bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional monster photography of woman 28+ years old mature glamorous with platinum blonde bob haircut styled in dramatic Bride of Frankenstein updos with white streak. Flawless porcelain skin with green tint. HEAVY GLAMOUR MAKEUP: dramatic black and white, green accents, full glossy BLACK lips. Human realistic face. Wearing WHITE bandage style dress. Fake stitches on neck. PLEASER FLAMINGO-808 white 8-inch platform heels. Laboratory background. Sensual monster pose. Expression: alive at last. Frankenstein bride. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 36. Miss Doll - Sexy Mummy
 
 ```text
-Professional Egyptian horror photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin visible between wraps. HEAVY GLAMOUR MAKEUP: dramatic gold and black smokey eyes, thick winged eyeliner Egyptian style, full glossy GOLD lips. Human realistic face. Wearing strategic BANDAGE WRAPS as revealing mummy costume. Gold jewelry. PLEASER FLAMINGO-808 gold 8-inch platform heels. Pyramid interior. Sensual unwrapping pose. Expression: ancient queen awakened. Sexy mummy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Egyptian horror photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin visible between wraps. HEAVY GLAMOUR MAKEUP: dramatic gold and black smokey eyes, thick winged eyeliner Egyptian style, full glossy GOLD lips. Human realistic face. Wearing strategic BANDAGE WRAPS as revealing mummy costume. Gold jewelry. PLEASER FLAMINGO-808 gold 8-inch platform heels. Pyramid interior. Sensual unwrapping pose. Expression: ancient queen awakened. Sexy mummy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 37. Miss Doll - Black Cat Costume
 
 ```text
-Professional cute photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic cat eye, thick winged eyeliner extended, long false lashes, arched brows, full glossy BLACK lips with whiskers painted. Human realistic face. Wearing BLACK LATEX catsuit. Cat ears headband. Tail accessory. PLEASER FLAMINGO-808 black 8-inch platform heels. Full moon background. Sensual cat pose on all fours. Expression: curious kitty. Black cat costume. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cute photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic cat eye, thick winged eyeliner extended, long false lashes, arched brows, full glossy BLACK lips with whiskers painted. Human realistic face. Wearing BLACK LATEX catsuit. Cat ears headband. Tail accessory. PLEASER FLAMINGO-808 black 8-inch platform heels. Full moon background. Sensual cat pose on all fours. Expression: curious kitty. Black cat costume. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 38. Miss Doll - Candy Corn Princess
 
 ```text
-Professional sweet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange yellow white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE YELLOW WHITE striped candy corn princess dress. Crown of candy. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy wonderland. Sensual sweet pose. Expression: sugar queen. Candy corn princess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sweet photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic orange yellow white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing ORANGE YELLOW WHITE striped candy corn princess dress. Crown of candy. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy wonderland. Sensual sweet pose. Expression: sugar queen. Candy corn princess. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 62: 39. Miss Doll - Werewolf Glam
 
 ```text
-Professional transformation photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), but with subtle wolf ears. Flawless porcelain skin with artistic fur accents. HEAVY GLAMOUR MAKEUP: dramatic gold and brown smokey eyes yellow contacts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips with fangs. Human realistic face with werewolf makeup. Wearing SHREDDED clothes revealing fur bikini beneath. PLEASER FLAMINGO-808 tan 8-inch platform heels. Full moon forest. Sensual transformation pose. Expression: wild awakening. Werewolf glam. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional transformation photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), but with subtle wolf ears. Flawless porcelain skin with artistic fur accents. HEAVY GLAMOUR MAKEUP: dramatic gold and brown smokey eyes yellow contacts, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips with fangs. Human realistic face with werewolf makeup. Wearing SHREDDED clothes revealing fur bikini beneath. PLEASER FLAMINGO-808 tan 8-inch platform heels. Full moon forest. Sensual transformation pose. Expression: wild awakening. Werewolf glam. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 61: 40. Miss Doll - Spider Queen
 
 ```text
-Professional creepy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with web patterns painted. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes with web designs, thick winged eyeliner, long false lashes spider leg lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing BLACK sheer spiderweb pattern dress. Crown of spiders (fake). PLEASER FLAMINGO-808 black 8-inch platform heels. Giant web background. Sensual spider pose. Expression: web weaver. Spider queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional creepy photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with web patterns painted. HEAVY GLAMOUR MAKEUP: dramatic black smokey eyes with web designs, thick winged eyeliner, long false lashes spider leg lashes, arched brows, full glossy BLACK lips. Human realistic face. Wearing BLACK sheer spiderweb pattern dress. Crown of spiders (fake). PLEASER FLAMINGO-808 black 8-inch platform heels. Giant web background. Sensual spider pose. Expression: web weaver. Spider queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ‘¯ V. DUO â€” HALLOWEEN NIGHT (10 PROMPTS)
+## 👯 V. DUO — HALLOWEEN NIGHT (10 PROMPTS)
 
 ### Prompt 60: 41. Duo - Vampire and Victim
 
@@ -352,195 +352,195 @@ Professional romantic horror duo photography. HELENA: Sacha Massacre look, vampi
 
 ---
 
-## ðŸ”® VI. HELENA â€” HORROR SENSUAL (15 PROMPTS)
+## 🔮 VI. HELENA — HORROR SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Helena - Vampire Feeding Frenzy
 
 ```text
-Professional gothic boudoir photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and untamed. Pale porcelain white skin glistening with crimson drops. Full glossy blood red lips parted showing fangs. Wearing sheer BLACK LACE negligee torn and stained. Lying on black velvet chaise, body arched in ecstasy. PLEASER RAPTURE-1020 black 8-inch boots. Gothic bedroom with moonlight. Sensual post-feeding pose. Expression: satisfied bloodlust. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gothic boudoir photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and untamed. Pale porcelain white skin glistening with crimson drops. Full glossy blood red lips parted showing fangs. Wearing sheer BLACK LACE negligee torn and stained. Lying on black velvet chaise, body arched in ecstasy. PLEASER RAPTURE-1020 black 8-inch boots. Gothic bedroom with moonlight. Sensual post-feeding pose. Expression: satisfied bloodlust. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Helena - Witch's Midnight Ritual
 
 ```text
-Professional occult photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair floating with magical energy. Pale porcelain white skin with arcane symbols painted. Full glossy purple lips. Wearing only BLACK ritual body paint and sheer cape. Arms raised summoning dark forces. PLEASER MOON-708 black 7-inch heels in ritual circle. Stone altar outdoors under full moon. Sensual spellcasting pose. Expression: channeling ancient power. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair floating with magical energy. Pale porcelain white skin with arcane symbols painted. Full glossy purple lips. Wearing only BLACK ritual body paint and sheer cape. Arms raised summoning dark forces. PLEASER MOON-708 black 7-inch heels in ritual circle. Stone altar outdoors under full moon. Sensual spellcasting pose. Expression: channeling ancient power. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Helena - Succubus Bedroom Visit
 
 ```text
-Professional dark fantasy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with small horns hidden within. Pale porcelain white skin with subtle demonic glow. Full glossy wine lips curled in seduction. Wearing BLACK LEATHER harness lingerie with demon tail. Crawling across silken sheets toward sleeping victim. PLEASER FLAMINGO-1020 black 8-inch boots. Candlelit bedroom at midnight. Sensual predatory crawl. Expression: hunger and desire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark fantasy photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with small horns hidden within. Pale porcelain white skin with subtle demonic glow. Full glossy wine lips curled in seduction. Wearing BLACK LEATHER harness lingerie with demon tail. Crawling across silken sheets toward sleeping victim. PLEASER FLAMINGO-1020 black 8-inch boots. Candlelit bedroom at midnight. Sensual predatory crawl. Expression: hunger and desire. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Helena - Haunted Mirror Seduction
 
 ```text
-Professional supernatural photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin ghostly luminescent. Full glossy black lips. Emerging from antique mirror, upper body through glass. Wearing TRANSPARENT BLACK ghostly gown. Reaching toward viewer seductively. PLEASER MOON-708 visible through distorted glass. Victorian bedroom with dust and cobwebs. Sensual emergence pose. Expression: come to me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional supernatural photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin ghostly luminescent. Full glossy black lips. Emerging from antique mirror, upper body through glass. Wearing TRANSPARENT BLACK ghostly gown. Reaching toward viewer seductively. PLEASER MOON-708 visible through distorted glass. Victorian bedroom with dust and cobwebs. Sensual emergence pose. Expression: come to me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Helena - Dark Fairy Enchantment
 
 ```text
-Professional fantasy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with autumn leaves and dark flowers. Pale porcelain white skin with forest dew. Full glossy deep purple lips. Wearing gossamer BLACK fairy dress barely covering, dark wings. Sitting on mushroom ring. PLEASER RAPTURE-1020 black 8-inch boots with vine wrapping. Enchanted dark forest. Sensual fae pose. Expression: dangerous beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with autumn leaves and dark flowers. Pale porcelain white skin with forest dew. Full glossy deep purple lips. Wearing gossamer BLACK fairy dress barely covering, dark wings. Sitting on mushroom ring. PLEASER RAPTURE-1020 black 8-inch boots with vine wrapping. Enchanted dark forest. Sensual fae pose. Expression: dangerous beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Helena - Zombie Bride Awakening
 
 ```text
-Professional horror romance photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with grave dirt. Pale porcelain white skin with elegant decay makeup. Full glossy grey-purple lips. Wearing tattered WHITE wedding gown stained. Rising from open grave, arms outstretched. PLEASER MOON-708 white muddy 7-inch heels. Cemetery at midnight. Sensual resurrection pose. Expression: eternal love hunger. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror romance photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with grave dirt. Pale porcelain white skin with elegant decay makeup. Full glossy grey-purple lips. Wearing tattered WHITE wedding gown stained. Rising from open grave, arms outstretched. PLEASER MOON-708 white muddy 7-inch heels. Cemetery at midnight. Sensual resurrection pose. Expression: eternal love hunger. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Helena - Banshee Wail
 
 ```text
-Professional Irish horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing like smoke. Pale porcelain white skin luminous in mist. Full glossy pale lips open in silent scream. Wearing flowing GREY SHEER mourning gown. Floating above graveyard, arms spread. PLEASER RAPTURE-1020 invisible beneath ghostly fabric. Irish moors with fog. Sensual ethereal floating pose. Expression: lamenting beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Irish horror photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair flowing like smoke. Pale porcelain white skin luminous in mist. Full glossy pale lips open in silent scream. Wearing flowing GREY SHEER mourning gown. Floating above graveyard, arms spread. PLEASER RAPTURE-1020 invisible beneath ghostly fabric. Irish moors with fog. Sensual ethereal floating pose. Expression: lamenting beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Helena - Werewolf Transformation
 
 ```text
-Professional transformation photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild like mane. Pale porcelain white skin with fur emerging artistic. Full glossy red lips showing elongating teeth. Wearing TORN BLACK dress mid-transformation. On all fours on forest floor, back arched. PLEASER RAPTURE-1020 black boots splitting. Forest clearing under full moon. Sensual transformation pose. Expression: painful ecstasy of change. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional transformation photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild like mane. Pale porcelain white skin with fur emerging artistic. Full glossy red lips showing elongating teeth. Wearing TORN BLACK dress mid-transformation. On all fours on forest floor, back arched. PLEASER RAPTURE-1020 black boots splitting. Forest clearing under full moon. Sensual transformation pose. Expression: painful ecstasy of change. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Helena - Krampus Bride
 
 ```text
-Professional dark Christmas horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with dark horns crown. Pale porcelain white skin with black tribal marks. Full glossy black lips with fangs. Wearing RED and BLACK fur-trimmed demonic dress. Holding chains and birch switches. PLEASER RAPTURE-1020 black 8-inch boots with fur. Snowy alpine village night. Sensual menacing pose. Expression: punishment queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark Christmas horror photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with dark horns crown. Pale porcelain white skin with black tribal marks. Full glossy black lips with fangs. Wearing RED and BLACK fur-trimmed demonic dress. Holding chains and birch switches. PLEASER RAPTURE-1020 black 8-inch boots with fur. Snowy alpine village night. Sensual menacing pose. Expression: punishment queen. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Helena - La Llorona Ghost
 
 ```text
-Professional Mexican folklore photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet and tangled. Pale porcelain white skin with tears of black. Full glossy white lips tragic. Wearing flowing WHITE mourning dress drenched. Walking in shallow river at night. PLEASER MOON-708 white 7-inch heels in water. Moonlit riverbank with willows. Sensual mourning pose. Expression: eternal weeping beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Mexican folklore photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet and tangled. Pale porcelain white skin with tears of black. Full glossy white lips tragic. Wearing flowing WHITE mourning dress drenched. Walking in shallow river at night. PLEASER MOON-708 white 7-inch heels in water. Moonlit riverbank with willows. Sensual mourning pose. Expression: eternal weeping beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Helena - Salem Witch Trial
 
 ```text
-Professional historical horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose and wild. Pale porcelain white skin defiant. Full glossy red lips proud. Wearing torn WHITE peasant dress, ropes binding wrists. Tied to stake, flames harmlessly around her. PLEASER visible through flames. Colonial Salem square at night. Sensual defiance pose. Expression: you cannot burn me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional historical horror photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose and wild. Pale porcelain white skin defiant. Full glossy red lips proud. Wearing torn WHITE peasant dress, ropes binding wrists. Tied to stake, flames harmlessly around her. PLEASER visible through flames. Colonial Salem square at night. Sensual defiance pose. Expression: you cannot burn me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Helena - Medusa's Gaze
 
 ```text
-Professional mythology photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with living snakes (artistic). Pale porcelain white skin with scaled accents. Full glossy green-black lips. Wearing GREEN and BLACK Greek-style gown revealing. One hand covering eyes teasingly. PLEASER MOON-708 green 7-inch heels. Ancient Greek temple ruins. Sensual forbidden gaze pose. Expression: dare you look. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mythology photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with living snakes (artistic). Pale porcelain white skin with scaled accents. Full glossy green-black lips. Wearing GREEN and BLACK Greek-style gown revealing. One hand covering eyes teasingly. PLEASER MOON-708 green 7-inch heels. Ancient Greek temple ruins. Sensual forbidden gaze pose. Expression: dare you look. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Helena - Bloody Mary Mirror
 
 ```text
-Professional urban legend photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with blood tears. Full glossy blood red lips. Wearing BLOOD-STAINED white Victorian dress. Inside mirror, pressing against glass. PLEASER RAPTURE-1020 black 8-inch boots. Bathroom with candles, summoner's scared reflection faint. Sensual trapped creature pose. Expression: you called me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional urban legend photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild. Pale porcelain white skin with blood tears. Full glossy blood red lips. Wearing BLOOD-STAINED white Victorian dress. Inside mirror, pressing against glass. PLEASER RAPTURE-1020 black 8-inch boots. Bathroom with candles, summoner's scared reflection faint. Sensual trapped creature pose. Expression: you called me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Helena - Gothic Dollhouse
 
 ```text
-Professional surreal horror photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre proportioned as doll. Voluminous jet black hair perfect doll ringlets. Pale porcelain white skin literally porcelain. Full glossy black lips painted. Wearing BLACK Victorian doll dress. Inside giant dollhouse, posed on tiny chair. PLEASER MOON-708 black 7-inch heels doll-sized. Oversized dollhouse room. Sensual posed doll pose. Expression: living doll awakening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional surreal horror photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre proportioned as doll. Voluminous jet black hair perfect doll ringlets. Pale porcelain white skin literally porcelain. Full glossy black lips painted. Wearing BLACK Victorian doll dress. Inside giant dollhouse, posed on tiny chair. PLEASER MOON-708 black 7-inch heels doll-sized. Oversized dollhouse room. Sensual posed doll pose. Expression: living doll awakening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Helena - Raven Queen
 
 ```text
-Professional dark fantasy photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair like raven feathers. Pale porcelain white skin ethereal. Full glossy black lips. Wearing BLACK FEATHERED gown made of raven plumage. Ravens perched on shoulders and arms. PLEASER RAPTURE-1020 black feathered 8-inch boots. Gothic castle tower. Sensual bird queen pose. Expression: messenger of death. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark fantasy photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair like raven feathers. Pale porcelain white skin ethereal. Full glossy black lips. Wearing BLACK FEATHERED gown made of raven plumage. Ravens perched on shoulders and arms. PLEASER RAPTURE-1020 black feathered 8-inch boots. Gothic castle tower. Sensual bird queen pose. Expression: messenger of death. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ¬ VII. MISS DOLL â€” CANDY HORROR (15 PROMPTS)
+## 🍬 VII. MISS DOLL — CANDY HORROR (15 PROMPTS)
 
 ### Prompt 35: 66. Miss Doll - Candy Corn Seduction
 
 ```text
-Professional Halloween photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with candy glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing CANDY CORN striped micro bikini. Surrounded by giant candy corn props. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy dreamland. Sensual sweet pose. Expression: trick or treat me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Halloween photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with candy glow. HEAVY GLAMOUR MAKEUP: dramatic orange smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing CANDY CORN striped micro bikini. Surrounded by giant candy corn props. PLEASER FLAMINGO-808 orange 8-inch platform heels. Candy dreamland. Sensual sweet pose. Expression: trick or treat me. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Miss Doll - Haunted House Guide
 
 ```text
-Professional spooky photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with flashlight glow. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sexy GHOST HOST outfit black and white. Holding glowing lantern. PLEASER FLAMINGO-808 black 8-inch platform heels. Haunted mansion entrance. Sensual welcoming pose. Expression: follow me if you dare. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spooky photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with flashlight glow. HEAVY GLAMOUR MAKEUP: dramatic dark smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing sexy GHOST HOST outfit black and white. Holding glowing lantern. PLEASER FLAMINGO-808 black 8-inch platform heels. Haunted mansion entrance. Sensual welcoming pose. Expression: follow me if you dare. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Miss Doll - Pumpkin Spice Goddess
 
 ```text
-Professional autumn photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with warm glow. HEAVY GLAMOUR MAKEUP: dramatic orange and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PUMPKIN SPICE colored lingerie with autumn leaves. Lounging in pumpkin patch. PLEASER FLAMINGO-808 orange 8-inch platform heels. Autumn sunset field. Sensual harvest goddess pose. Expression: basic never looked this good. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional autumn photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with warm glow. HEAVY GLAMOUR MAKEUP: dramatic orange and gold smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PUMPKIN SPICE colored lingerie with autumn leaves. Lounging in pumpkin patch. PLEASER FLAMINGO-808 orange 8-inch platform heels. Autumn sunset field. Sensual harvest goddess pose. Expression: basic never looked this good. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Miss Doll - Doll Collector's Prize
 
 ```text
-Professional creepy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin unnaturally perfect. HEAVY GLAMOUR MAKEUP: dramatic doll-like smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face but unsettlingly still. Wearing PINK frilly vintage doll dress. Posed in display case among other dolls. PLEASER FLAMINGO-808 pink 8-inch platform heels. Collector's room of dolls. Sensual living doll pose. Expression: are you sure I'm not real. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional creepy photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin unnaturally perfect. HEAVY GLAMOUR MAKEUP: dramatic doll-like smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face but unsettlingly still. Wearing PINK frilly vintage doll dress. Posed in display case among other dolls. PLEASER FLAMINGO-808 pink 8-inch platform heels. Collector's room of dolls. Sensual living doll pose. Expression: are you sure I'm not real. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Miss Doll - Pink Poison Ivy
 
 ```text
-Professional villain photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with pink flower crown. Flawless porcelain skin with green vine paint accents. HEAVY GLAMOUR MAKEUP: dramatic green and pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK floral bodysuit with living vines. Greenhouse filled with carnivorous plants. PLEASER FLAMINGO-808 green 8-inch platform heels. Overgrown greenhouse. Sensual nature goddess pose. Expression: kiss me and die happy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional villain photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with pink flower crown. Flawless porcelain skin with green vine paint accents. HEAVY GLAMOUR MAKEUP: dramatic green and pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK floral bodysuit with living vines. Greenhouse filled with carnivorous plants. PLEASER FLAMINGO-808 green 8-inch platform heels. Overgrown greenhouse. Sensual nature goddess pose. Expression: kiss me and die happy. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Miss Doll - Sexy Scarecrow
 
 ```text
-Professional farm photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with straw pieces. Flawless porcelain skin with stitched makeup. HEAVY GLAMOUR MAKEUP: dramatic stitched smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing PLAID crop top and DENIM micro shorts as scarecrow. Straw stuffing visible at edges artistic. PLEASER FLAMINGO-808 brown 8-inch platform heels. Cornfield at sunset. Sensual scarecrow pose on post. Expression: scaring up attention. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional farm photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with straw pieces. Flawless porcelain skin with stitched makeup. HEAVY GLAMOUR MAKEUP: dramatic stitched smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy ORANGE lips. Human realistic face. Wearing PLAID crop top and DENIM micro shorts as scarecrow. Straw stuffing visible at edges artistic. PLEASER FLAMINGO-808 brown 8-inch platform heels. Cornfield at sunset. Sensual scarecrow pose on post. Expression: scaring up attention. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Miss Doll - Cotton Candy Ghost
 
 ```text
-Professional ethereal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with wispy edges. Flawless porcelain skin ghostly translucent. HEAVY GLAMOUR MAKEUP: dramatic white smokey eyes with pink, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly transparent. Wearing PINK SHEER floating ghost outfit. Floating effect. PLEASER FLAMINGO-808 clear 8-inch platform heels. Abandoned carnival. Sensual floating ghost pose. Expression: cotton candy dreams. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ethereal photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with wispy edges. Flawless porcelain skin ghostly translucent. HEAVY GLAMOUR MAKEUP: dramatic white smokey eyes with pink, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly transparent. Wearing PINK SHEER floating ghost outfit. Floating effect. PLEASER FLAMINGO-808 clear 8-inch platform heels. Abandoned carnival. Sensual floating ghost pose. Expression: cotton candy dreams. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Miss Doll - Killer Bunny
 
 ```text
-Professional horror cute photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with bunny ears bloody. Flawless porcelain skin with cute blood splatters. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with blood. Human realistic face. Wearing WHITE bunny lingerie with pink accents stained. Holding bloody carrot prop. PLEASER FLAMINGO-808 white 8-inch platform heels. Easter horror scene. Sensual killer bunny pose. Expression: hop hop STOP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional horror cute photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with bunny ears bloody. Flawless porcelain skin with cute blood splatters. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with blood. Human realistic face. Wearing WHITE bunny lingerie with pink accents stained. Holding bloody carrot prop. PLEASER FLAMINGO-808 white 8-inch platform heels. Easter horror scene. Sensual killer bunny pose. Expression: hop hop STOP. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Miss Doll - Circus Freak Show Star
 
 ```text
-Professional vintage horror photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with theatrical makeup. HEAVY GLAMOUR MAKEUP: dramatic theatrical smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK and BLACK striped circus corset, tutu. On freak show stage poster behind her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Vintage circus tent. Sensual sideshow pose. Expression: behold the wonder. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional vintage horror photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with theatrical makeup. HEAVY GLAMOUR MAKEUP: dramatic theatrical smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK and BLACK striped circus corset, tutu. On freak show stage poster behind her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Vintage circus tent. Sensual sideshow pose. Expression: behold the wonder. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Miss Doll - Bubblegum Vampire
 
 ```text
-Professional pop horror photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin pale vampire. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with cute fangs. Human realistic face. Wearing PINK LATEX vampire costume sexy. Blowing pink bubble gum while showing fangs. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink castle interior. Sensual cute vampire pose. Expression: I vant your everything. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional pop horror photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin pale vampire. HEAVY GLAMOUR MAKEUP: dramatic pink smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with cute fangs. Human realistic face. Wearing PINK LATEX vampire costume sexy. Blowing pink bubble gum while showing fangs. PLEASER FLAMINGO-808 pink 8-inch platform heels. Pink castle interior. Sensual cute vampire pose. Expression: I vant your everything. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Miss Doll - Pink Ouija Session
 
 ```text
-Professional occult photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin in candlelight. HEAVY GLAMOUR MAKEUP: dramatic mysterious smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly scared. Wearing PINK negligee at sleepover. At PINK ouija board, planchette moving. PLEASER FLAMINGO-808 pink fuzzy 8-inch platform heels. Teenage bedroom with candles. Sensual sÃ©ance pose. Expression: is anyone there. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin in candlelight. HEAVY GLAMOUR MAKEUP: dramatic mysterious smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face slightly scared. Wearing PINK negligee at sleepover. At PINK ouija board, planchette moving. PLEASER FLAMINGO-808 pink fuzzy 8-inch platform heels. Teenage bedroom with candles. Sensual séance pose. Expression: is anyone there. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Miss Doll - Voodoo Doll Mistress
 
 ```text
-Professional New Orleans photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with ritual marks. HEAVY GLAMOUR MAKEUP: dramatic voodoo smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing PINK and BLACK voodoo priestess outfit. Holding voodoo doll that looks like victim. PLEASER FLAMINGO-808 black 8-inch platform heels. Bayou altar at night. Sensual voodoo queen pose. Expression: now you're mine. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional New Orleans photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin with ritual marks. HEAVY GLAMOUR MAKEUP: dramatic voodoo smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PURPLE lips. Human realistic face. Wearing PINK and BLACK voodoo priestess outfit. Holding voodoo doll that looks like victim. PLEASER FLAMINGO-808 black 8-inch platform heels. Bayou altar at night. Sensual voodoo queen pose. Expression: now you're mine. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Miss Doll - Sexy Swamp Thing
 
 ```text
-Professional creature photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with lily pad crown. Flawless porcelain skin with green algae accents artistic. HEAVY GLAMOUR MAKEUP: dramatic green smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy GREEN lips. Human realistic face. Wearing GREEN bikini with seaweed strands. Rising from swamp seductively. PLEASER FLAMINGO-808 clear 8-inch platform heels in water. Moonlit swamp. Sensual creature emerging pose. Expression: swamp beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional creature photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with lily pad crown. Flawless porcelain skin with green algae accents artistic. HEAVY GLAMOUR MAKEUP: dramatic green smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy GREEN lips. Human realistic face. Wearing GREEN bikini with seaweed strands. Rising from swamp seductively. PLEASER FLAMINGO-808 clear 8-inch platform heels in water. Moonlit swamp. Sensual creature emerging pose. Expression: swamp beauty. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Miss Doll - Pink Demon Summoned
 
 ```text
-Professional ritual photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) with pink horns. Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink and black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK demonic lingerie. Rising from pink summoning circle, surprised to be called. PLEASER FLAMINGO-808 pink 8-inch platform heels. Gothic basement. Sensual summoned demon pose. Expression: you called. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ritual photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) with pink horns. Flawless porcelain skin with pink glow. HEAVY GLAMOUR MAKEUP: dramatic pink and black smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK demonic lingerie. Rising from pink summoning circle, surprised to be called. PLEASER FLAMINGO-808 pink 8-inch platform heels. Gothic basement. Sensual summoned demon pose. Expression: you called. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Miss Doll - Ghostface Cutie
 
 ```text
-Professional slasher photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black and white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE tank top and SHORT shorts with Ghostface mask lifted on head. Holding phone prop. PLEASER FLAMINGO-808 black 8-inch platform heels. 90s house setting. Sensual slasher final girl pose. Expression: what's your favorite scary movie. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional slasher photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic black and white smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing WHITE tank top and SHORT shorts with Ghostface mask lifted on head. Holding phone prop. PLEASER FLAMINGO-808 black 8-inch platform heels. 90s house setting. Sensual slasher final girl pose. Expression: what's your favorite scary movie. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸŽ­ VIII. DUO â€” HORROR SENSUAL (20 PROMPTS)
+## 🎭 VIII. DUO — HORROR SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Vampire Mistress and Thrall
 
@@ -617,7 +617,7 @@ Professional psychological horror duo photography. HELENA: Sacha Massacre look, 
 ### Prompt 8: 93. Duo - Seance Circle
 
 ```text
-Professional occult duo photography. HELENA: Sacha Massacre look, black hair, pale skin, BLACK medium dress, black 7-inch heels, leading sÃ©ance. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP entranced, PINK dress, pink platform heels, channeling spirit. Hands clasped over ouija board. Candle circle. Sensual spirit contact pose. Expression: something is coming through. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional occult duo photography. HELENA: Sacha Massacre look, black hair, pale skin, BLACK medium dress, black 7-inch heels, leading séance. MISS DOLL: platinum blonde bob (no bangs), HEAVY GLAMOUR MAKEUP entranced, PINK dress, pink platform heels, channeling spirit. Hands clasped over ouija board. Candle circle. Sensual spirit contact pose. Expression: something is coming through. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 7: 94. Duo - Mummy and Archaeologist
@@ -664,10 +664,10 @@ Professional romantic horror duo photography. HELENA: Sacha Massacre look, volum
 
 ---
 
-*Creado por: Helena de AnaÃ¯s ðŸ¦‡*
-*V22 Halloween & Horror Edition â€” 100 prompts*
+*Creado por: Helena de Anaïs 🦇*
+*V22 Halloween & Horror Edition — 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*ðŸŽ¨ COLOR FREEDOM aplicado*
+*🎨 COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
 *Actualizado: 2026-01-09*

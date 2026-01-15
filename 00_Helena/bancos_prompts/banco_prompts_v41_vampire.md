@@ -1,19 +1,19 @@
-﻿# ðŸ©¸ Banco de Prompts V41: VAMPIRE GOTH EDITION
+# 🩸 Banco de Prompts V41: VAMPIRE GOTH EDITION
 
-> **ENFOQUE:** Helena y Miss Doll con estÃ©tica vampÃ­rica gÃ³tica en diferentes escenarios y situaciones.
+> **ENFOQUE:** Helena y Miss Doll con estética vampírica gótica en diferentes escenarios y situaciones.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **PERSONAJES:** Helena de AnaÃ¯s (Imperial Vampire) y Miss Doll (Gothic Lolita Vampire).
-> **ðŸŽ¨ ESTÃ‰TICA:** Criptas, sangre, colmillos, luz de luna, terciopelo, victoriano.
+> **PERSONAJES:** Helena de Anaïs (Imperial Vampire) y Miss Doll (Gothic Lolita Vampire).
+> **🎨 ESTÉTICA:** Criptas, sangre, colmillos, luz de luna, terciopelo, victoriano.
 > **Total:** 50 prompts | **Actualizado:** 2026-01-09
 
 ---
 
-## ðŸ§¬ DESCRIPCIÃ“N BASE CANÃ“NICA (OBLIGATORIA)
+## 🧬 DESCRIPCIÓN BASE CANÓNICA (OBLIGATORIA)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos fÃ­sicos:**
+> **CADA prompt DEBE incluir estos elementos físicos:**
 
-### ðŸ¦‡ HELENA DE ANAÃS (BASE VAMPÃRICA)
+### 🦇 HELENA DE ANAÏS (BASE VAMPÍRICA)
 
 ```text
 Glamorous woman with jet black hair in elaborate victorian updo,
@@ -25,10 +25,10 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8") black patent or red.
 ```text
 
-### ðŸ’– MISS DOLL (BASE VAMPÃRICA)
+### 💖 MISS DOLL (BASE VAMPÍRICA)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) (with black streaks for vampire variant),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) (with black streaks for vampire variant),
 extremely pale porcelain skin with cold undertone (vampire doll aesthetic),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GOTHIC LOLITA MAKEUP: pink/black smokey eyes, thick cat-eye liner, mega volume lashes, arched brows, ULTRA PLUMP overlined glossy PINK or BLACK lips,
@@ -37,9 +37,9 @@ EXTREME hourglass silhouette with large round breast implants creating prominent
 PLEASER platform heels 16-18cm (7-8") pink or black patent.
 ```text
 
-### âš ï¸ REGLAS ANTI-FILTRO
+### ⚠️ REGLAS ANTI-FILTRO
 
-| âŒ NO USAR | âœ… USAR EN SU LUGAR |
+| ❌ NO USAR | ✅ USAR EN SU LUGAR |
 |-----------|---------------------|
 | blood dripping | crimson liquid, wine stain |
 | bite marks | embrace marks, love marks |
@@ -49,9 +49,9 @@ PLEASER platform heels 16-18cm (7-8") pink or black patent.
 
 ---
 
-## ðŸ§›â€â™€ï¸ HELENA â€” IMPERIAL VAMPIRE (Prompts 1-20)
+## 🧛‍♀️ HELENA — IMPERIAL VAMPIRE (Prompts 1-20)
 
-### ðŸ° CRIPTA & CASTILLO (Prompts 1-10)
+### 🏰 CRIPTA & CASTILLO (Prompts 1-10)
 
 ### Prompt 100: 1. Vampire Queen - Throne Room
 
@@ -113,7 +113,7 @@ Professional glamour photography of glamorous woman with jet black hair wild and
 Professional glamour photography of glamorous woman with jet black hair in crown braid with ruby pins. Extremely pale marble skin vampire aesthetic. Sharp refined features. HEAVY GOTHIC MAKEUP: deep red smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy DEEP RED lips. Human realistic face sharp vampire fangs visible. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET cape over black gothic gown, visible black overbust corset with silver trim. PLEASER platform heels 8-inch black patent. Castle tower balcony moonlit kingdom below. Sensual overlooking pose hands on stone railing. Expression: this is my domain. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŒ™ NOCTURNO & CAZA (Prompts 11-20)
+### 🌙 NOCTURNO & CAZA (Prompts 11-20)
 
 ### Prompt 90: 11. Rainy Street - Gas Lamps
 
@@ -177,135 +177,135 @@ Professional glamour photography of glamorous woman with jet black hair wild and
 
 ---
 
-## ðŸŽ€ MISS DOLL â€” GOTHIC LOLITA VAMPIRE (Prompts 21-40)
+## 🎀 MISS DOLL — GOTHIC LOLITA VAMPIRE (Prompts 21-40)
 
-### ðŸšï¸ DOLL HORROR (Prompts 21-30)
+### 🏚️ DOLL HORROR (Prompts 21-30)
 
 ### Prompt 80: 21. Dollhouse of Horror - Broken Toys
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs innocent but predatory expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK AND PINK LATEX gothic lolita dress puffed sleeves, visible pink underbust corset extremely tight, ruffled skirt. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Giant dollhouse dark and broken toys scattered. Sensual sitting among broken dolls pose. Expression: new favorite toy. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs innocent but predatory expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK AND PINK LATEX gothic lolita dress puffed sleeves, visible pink underbust corset extremely tight, ruffled skirt. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Giant dollhouse dark and broken toys scattered. Sensual sitting among broken dolls pose. Expression: new favorite toy. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Pink Coffin - Eternal Slumber
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features eyes closed. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs serene. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN nightgown sheer with visible pink lace bralette underneath. Bare legs pale. PLEASER platform heels 8-inch pink patent at her feet. Pink velvet lined coffin surrounded by black roses petals. Sensual laying in coffin pose hands crossed on chest. Expression: beauty sleep eternal. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features eyes closed. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs serene. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN nightgown sheer with visible pink lace bralette underneath. Bare legs pale. PLEASER platform heels 8-inch pink patent at her feet. Pink velvet lined coffin surrounded by black roses petals. Sensual laying in coffin pose hands crossed on chest. Expression: beauty sleep eternal. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Nursery - Creepy Cute
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink bow. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs wide innocent eyes. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX maid dress with black trim, visible pink satin corset extremely tight, white apron stained red. White fishnet stockings. PLEASER platform heels 8-inch pink patent. Creepy abandoned nursery antique crib. Sensual holding vintage teddy bear pose. Expression: will you play with me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink bow. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs wide innocent eyes. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX maid dress with black trim, visible pink satin corset extremely tight, white apron stained red. White fishnet stockings. PLEASER platform heels 8-inch pink patent. Creepy abandoned nursery antique crib. Sensual holding vintage teddy bear pose. Expression: will you play with me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Blood Lollipop - Sweet and Deadly
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips parted. Human realistic face with cute small vampire fangs licking lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX gothic lolita dress pink bows, visible pink corset bodice. Pink striped stockings. PLEASER platform heels 8-inch black patent. Dark candy shop background. Sensual close-up pose licking dark red lollipop resembling liquid. Expression: so sweet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips parted. Human realistic face with cute small vampire fangs licking lips. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX gothic lolita dress pink bows, visible pink corset bodice. Pink striped stockings. PLEASER platform heels 8-inch black patent. Dark candy shop background. Sensual close-up pose licking dark red lollipop resembling liquid. Expression: so sweet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Mirror Cracked - Porcelain Effect
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic with cracked porcelain makeup effect on one cheek. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes tragic, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs crying dark tears. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE SATIN gothic lolita dress with black lace overlay, visible white corset with black ribbons. White fishnet stockings. PLEASER platform heels 8-inch white patent. Cracked antique mirror dark room. Sensual touching cracked reflection pose. Expression: broken doll. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic with cracked porcelain makeup effect on one cheek. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and black smokey eyes tragic, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs crying dark tears. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE SATIN gothic lolita dress with black lace overlay, visible white corset with black ribbons. White fishnet stockings. PLEASER platform heels 8-inch white patent. Cracked antique mirror dark room. Sensual touching cracked reflection pose. Expression: broken doll. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Carousel - Midnight Ride
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink ribbons. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs playful. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK AND BLACK striped gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Abandoned carnival carousel dark horses moonlight. Sensual riding carousel horse pose. Expression: round and round forever. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink ribbons. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs playful. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK AND BLACK striped gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Abandoned carnival carousel dark horses moonlight. Sensual riding carousel horse pose. Expression: round and round forever. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Attic - Dust and Memories
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks slightly dusty. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: muted pink and grey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs curious. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing DUSTY PINK VELVET gothic lolita dress vintage style, visible pink brocade corset faded. White lace stockings. PLEASER platform heels 8-inch pink patent dusty. Attic full of covered furniture dust motes in light beam. Sensual emerging from shadows pose. Expression: found after centuries. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks slightly dusty. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: muted pink and grey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs curious. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing DUSTY PINK VELVET gothic lolita dress vintage style, visible pink brocade corset faded. White lace stockings. PLEASER platform heels 8-inch pink patent dusty. Attic full of covered furniture dust motes in light beam. Sensual emerging from shadows pose. Expression: found after centuries. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Tea Party - Dark Alice
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks black bow headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: blue and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLUE BLACK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLUE AND BLACK alice gothic lolita dress, visible blue satin corset with white trim. White lace stockings. PLEASER platform heels 8-inch black patent. Dark twisted wonderland tea party oversized props. Sensual holding teacup pinky extended pose. Expression: we're all mad here. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks black bow headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: blue and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLUE BLACK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLUE AND BLACK alice gothic lolita dress, visible blue satin corset with white trim. White lace stockings. PLEASER platform heels 8-inch black patent. Dark twisted wonderland tea party oversized props. Sensual holding teacup pinky extended pose. Expression: we're all mad here. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Spiderweb - Trapped Beauty
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: silver and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LACE gothic dress appearing like web pattern, visible white satin corset. Large decorative spider web surrounding her white shibari rope accents. PLEASER platform heels 8-inch black patent. Dark forest giant webs moonlight. Sensual trapped in web pose arms spread. Expression: caught or waiting. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: silver and black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LACE gothic dress appearing like web pattern, visible white satin corset. Large decorative spider web surrounding her white shibari rope accents. PLEASER platform heels 8-inch black patent. Dark forest giant webs moonlight. Sensual trapped in web pose arms spread. Expression: caught or waiting. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Music Box - Spinning Doll
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink bow. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN tutu style gothic lolita dress, visible pink boned corset bodice. Pink ballet ribbons around ankles over PLEASER platform heels 8-inch pink patent posed en pointe. Giant ornate music box dark background. Sensual ballerina spinning pose arms graceful. Expression: wind me up. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink bow. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN tutu style gothic lolita dress, visible pink boned corset bodice. Pink ballet ribbons around ankles over PLEASER platform heels 8-inch pink patent posed en pointe. Giant ornate music box dark background. Sensual ballerina spinning pose arms graceful. Expression: wind me up. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŒ™ MISS DOLL NOCTURNO (Prompts 31-40)
+### 🌙 MISS DOLL NOCTURNO (Prompts 31-40)
 
 ### Prompt 70: 31. Nurse of the Night - Medical Horror
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and white eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs clinical smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX nurse dress with pink trim gothic style, visible pink latex underbust corset, nurse cap. White fishnet stockings. PLEASER platform heels 8-inch white patent. Abandoned hospital dark red lighting equipment. Sensual holding large syringe pose. Expression: time for your medicine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink and white eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs clinical smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX nurse dress with pink trim gothic style, visible pink latex underbust corset, nurse cap. White fishnet stockings. PLEASER platform heels 8-inch white patent. Abandoned hospital dark red lighting equipment. Sensual holding large syringe pose. Expression: time for your medicine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Cemetary Cat - Among Tombstones
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks cat ears headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: black cat-eye makeup, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs playful. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET gothic lolita dress with pink bows, visible black satin corset. Black striped stockings. PLEASER platform heels 8-inch black patent. Foggy cemetery ancient tombstones full moon. Sensual perched on tombstone pose cat-like. Expression: curious kitty. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks cat ears headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: black cat-eye makeup, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs playful. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET gothic lolita dress with pink bows, visible black satin corset. Black striped stockings. PLEASER platform heels 8-inch black patent. Foggy cemetery ancient tombstones full moon. Sensual perched on tombstone pose cat-like. Expression: curious kitty. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Puppy Play - Pet of the Coven
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink puppy ear headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs panting. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX puppy play gear gothic style harness over visible pink latex corset, pink latex mitts. Pink fishnet stockings ripped. PLEASER platform heels 8-inch pink patent. Dark dungeon red velvet. Sensual on all fours pose looking up. Expression: loyal pet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks pink puppy ear headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs panting. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX puppy play gear gothic style harness over visible pink latex corset, pink latex mitts. Pink fishnet stockings ripped. PLEASER platform heels 8-inch pink patent. Dark dungeon red velvet. Sensual on all fours pose looking up. Expression: loyal pet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Bunny of Darkness - Easter Horror
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks black bunny ear headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX playboy bunny costume gothic modification, visible pink corset bodice, black cotton tail. Pink fishnet stockings. PLEASER platform heels 8-inch black patent. Dark wonderland dead garden giant easter eggs cracked. Sensual hopping pose basket. Expression: somebunny loves you. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks black bunny ear headband. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LATEX playboy bunny costume gothic modification, visible pink corset bodice, black cotton tail. Pink fishnet stockings. PLEASER platform heels 8-inch black patent. Dark wonderland dead garden giant easter eggs cracked. Sensual hopping pose basket. Expression: somebunny loves you. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Gothic Princess - Tiara and Tears
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks silver tiara. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes dark tears, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs melancholic. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK AND BLACK ball gown gothic princess style, visible pink beaded corset bodice, full skirt. Pink satin gloves. PLEASER platform heels 8-inch pink patent. Dark castle tower room moonlight. Sensual seated on floor surrounded by petals pose. Expression: lonely immortal. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks silver tiara. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes dark tears, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs melancholic. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK AND BLACK ball gown gothic princess style, visible pink beaded corset bodice, full skirt. Pink satin gloves. PLEASER platform heels 8-inch pink patent. Dark castle tower room moonlight. Sensual seated on floor surrounded by petals pose. Expression: lonely immortal. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 36. Candy Store - Sugary Death
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and pink streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face with cute small vampire fangs wide smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX gothic lolita dress candy details, visible hot pink satin corset candy buttons. White fishnet stockings. PLEASER platform heels 8-inch hot pink patent. Dark twisted candy store neon lighting giant lollipops. Sensual surrounded by candy pose. Expression: sweet tooth deadly. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and pink streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy HOT PINK lips. Human realistic face with cute small vampire fangs wide smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing HOT PINK LATEX gothic lolita dress candy details, visible hot pink satin corset candy buttons. White fishnet stockings. PLEASER platform heels 8-inch hot pink patent. Dark twisted candy store neon lighting giant lollipops. Sensual surrounded by candy pose. Expression: sweet tooth deadly. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 37. Ritual Candles - Summoning
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs concentrated. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET ritual robe open revealing visible black corset with pentagram detail, black panties. Bare legs pale. PLEASER platform heels 8-inch black patent. Circle of candles dark basement pentagram floor. Sensual kneeling in circle pose arms raised. Expression: calling the darkness. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: black smokey eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK lips. Human realistic face with cute small vampire fangs concentrated. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK VELVET ritual robe open revealing visible black corset with pentagram detail, black panties. Bare legs pale. PLEASER platform heels 8-inch black patent. Circle of candles dark basement pentagram floor. Sensual kneeling in circle pose arms raised. Expression: calling the darkness. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 38. Bathtub - Crimson Bath
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks wet. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face with cute small vampire fangs blissful. EXTREME hourglass silhouette visible above crimson liquid. Wearing nothing visible corset removed beside tub. Victorian clawfoot bathtub filled with dark red liquid rose petals. Sensual in bath pose arms on rim. Expression: rejuvenation bath. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks wet. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy RED lips. Human realistic face with cute small vampire fangs blissful. EXTREME hourglass silhouette visible above crimson liquid. Wearing nothing visible corset removed beside tub. Victorian clawfoot bathtub filled with dark red liquid rose petals. Sensual in bath pose arms on rim. Expression: rejuvenation bath. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 62: 39. Selfie - Fang Check
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips pulled back showing fangs. Human realistic face with cute small vampire fangs prominently displayed peace sign. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Gothic bedroom mirror selfie. Sensual phone selfie pose showing fangs peace sign. Expression: fang check. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips pulled back showing fangs. Human realistic face with cute small vampire fangs prominently displayed peace sign. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Gothic bedroom mirror selfie. Sensual phone selfie pose showing fangs peace sign. Expression: fang check. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 61: 40. Walking the Human - Pet Owner
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips smug smile. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Foggy victorian street cobblestones. Sensual walking pose holding leather leash attached to out-of-frame. Expression: walkies time. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and black streaks. Extremely pale porcelain skin vampire doll aesthetic. Delicate refined features. HEAVY GOTHIC LOLITA MAKEUP: pink shimmer eyes, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips smug smile. Human realistic face with cute small vampire fangs. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress, visible pink satin corset extremely tight. Pink fishnet stockings. PLEASER platform heels 8-inch pink patent. Foggy victorian street cobblestones. Sensual walking pose holding leather leash attached to out-of-frame. Expression: walkies time. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ©¸ DUO â€” THE DARK COVENANT (Prompts 41-50)
+## 🩸 DUO — THE DARK COVENANT (Prompts 41-50)
 
 ### Prompt 60: 41. Throne Room - Queen and Handmaiden
 
@@ -369,9 +369,9 @@ Professional glamour photography of TWO glamorous women tender embrace. FIRST: H
 
 ---
 
-## ðŸ©¸ EXTENSIÃ“N: SITUACIONES SENSUALES (Prompts 51-100)
+## 🩸 EXTENSIÓN: SITUACIONES SENSUALES (Prompts 51-100)
 
-### ðŸ”¥ HELENA â€” SEDUCCIÃ“N VAMPÃRICA (Prompts 51-70)
+### 🔥 HELENA — SEDUCCIÓN VAMPÍRICA (Prompts 51-70)
 
 ### Prompt 50: 51. Neck Worship - Pre-Embrace
 
@@ -493,129 +493,129 @@ Professional glamour photography of glamorous woman with jet black hair wild tan
 Professional glamour photography of glamorous woman with jet black hair loose vulnerable. Extremely pale marble skin displayed. Sharp refined features willing submission. HEAVY GOTHIC MAKEUP: burgundy eyes trusting submissive, thick liner, mega lashes, ULTRA PLUMP overlined glossy DEEP RED lips parted vulnerable. Human realistic face sharp fangs visible in willing surrender. EXTREME hourglass silhouette prominent cleavage displayed tiny cinched waist. Wearing BLACK LINGERIE visible black underbust corset. Wrists bound above head with BLACK SILK SCARVES to bedpost willing beautiful surrender displayed. Gothic bedroom. Sensual bound pose willingly restrained for lover. Expression: I am yours for the taking. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŽ€ MISS DOLL â€” SEDUCCIÃ“N LOLITA VAMPIRA (Prompts 71-90)
+### 🎀 MISS DOLL — SEDUCCIÓN LOLITA VAMPIRA (Prompts 71-90)
 
 ### Prompt 30: 71. Candy Fang - Lollipop Tease
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin vampire doll. Delicate refined features innocently seductive. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around RED LOLLIPOP suggesting. Human realistic face cute small fangs visible licking lollipop sensual innocent. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress visible pink corset. Licking red lollipop suggestively tongue visible. Dark candy shop background. Sensual lollipop tease pose wide innocent eyes. Expression: want a taste. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin vampire doll. Delicate refined features innocently seductive. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide innocent, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around RED LOLLIPOP suggesting. Human realistic face cute small fangs visible licking lollipop sensual innocent. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress visible pink corset. Licking red lollipop suggestively tongue visible. Dark candy shop background. Sensual lollipop tease pose wide innocent eyes. Expression: want a taste. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Teddy Bear Clutch - Innocent Seduction
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks pink bow. Extremely pale porcelain skin vampire doll. Delicate refined features faux innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouting. Human realistic face cute small fangs visible innocent pout. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN nightgown sheer visible pink lace bra panty set. Hugging BLACK TEDDY BEAR with red button eyes between her breasts innocent but knowing. Pink bedroom childlike but sensual. Sensual teddy bear hug pose faux innocent. Expression: Mr Bear wants to watch. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks pink bow. Extremely pale porcelain skin vampire doll. Delicate refined features faux innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouting. Human realistic face cute small fangs visible innocent pout. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN nightgown sheer visible pink lace bra panty set. Hugging BLACK TEDDY BEAR with red button eyes between her breasts innocent but knowing. Pink bedroom childlike but sensual. Sensual teddy bear hug pose faux innocent. Expression: Mr Bear wants to watch. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Pillow Fight Aftermath - Feathers and Lingerie
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks messy feathers in hair. Extremely pale porcelain skin flushed from play. Delicate refined features playful exhausted. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes sparkling, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips laughing. Human realistic face cute small fangs visible laughing. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN bra and panty set with visible pink garter belt stockings torn pillow fight damage. WHITE FEATHERS everywhere on bed on her covering scene. Pink bedroom pillow fight aftermath. Sensual post-pillow fight pose feathers falling. Expression: I won again I always win. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks messy feathers in hair. Extremely pale porcelain skin flushed from play. Delicate refined features playful exhausted. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes sparkling, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips laughing. Human realistic face cute small fangs visible laughing. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN bra and panty set with visible pink garter belt stockings torn pillow fight damage. WHITE FEATHERS everywhere on bed on her covering scene. Pink bedroom pillow fight aftermath. Sensual post-pillow fight pose feathers falling. Expression: I won again I always win. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Diary Secrets - Reading Forbidden
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin candlelit. Delicate refined features engrossed scandalized. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide reading, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips gasping. Human realistic face cute small fangs visible shocked by reading. EXTREME hourglass silhouette prominent cleavage visible over diary edge tiny cinched waist. Wearing PINK SILK pajama set unbuttoned revealing visible pink lace bra. Reading PINK DIARY with lock scandalized by contents gasping. Pink bedroom candlelight. Sensual reading forbidden diary pose shocked expression. Expression: I cannot believe she did THAT. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin candlelit. Delicate refined features engrossed scandalized. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide reading, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips gasping. Human realistic face cute small fangs visible shocked by reading. EXTREME hourglass silhouette prominent cleavage visible over diary edge tiny cinched waist. Wearing PINK SILK pajama set unbuttoned revealing visible pink lace bra. Reading PINK DIARY with lock scandalized by contents gasping. Pink bedroom candlelight. Sensual reading forbidden diary pose shocked expression. Expression: I cannot believe she did THAT. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Bubble Bath Innocence - Foam Covering
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks piled up bubbles. Extremely pale porcelain skin visible above pink foam. Delicate refined features playful innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over foam, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips blowing foam. Human realistic face cute small fangs visible through foam. EXTREME hourglass silhouette implied under foam cleavage visible above bubbles. PINK BUBBLE BATH mountains of pink foam covering body strategically innocent but teasing. Pink bathroom rubber duckies. Sensual bubble bath pose covered by foam peekaboo. Expression: oops you caught me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks piled up bubbles. Extremely pale porcelain skin visible above pink foam. Delicate refined features playful innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over foam, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips blowing foam. Human realistic face cute small fangs visible through foam. EXTREME hourglass silhouette implied under foam cleavage visible above bubbles. PINK BUBBLE BATH mountains of pink foam covering body strategically innocent but teasing. Pink bathroom rubber duckies. Sensual bubble bath pose covered by foam peekaboo. Expression: oops you caught me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Mirror Kiss - Narcissistic Vanity
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin reflection visible. Delicate refined features in love with self. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes locked on own reflection, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pressed to mirror kissing self. Human realistic face cute small fangs visible kissing mirror. EXTREME hourglass silhouette prominent cleavage visible in reflection tiny cinched waist. Wearing PINK LINGERIE set visible pink satin corset. Pressing lips to vanity MIRROR kissing own reflection narcissistic. Pink boudoir vanity lights. Sensual mirror kiss pose in love with reflection. Expression: nobody kisses better than me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin reflection visible. Delicate refined features in love with self. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes locked on own reflection, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pressed to mirror kissing self. Human realistic face cute small fangs visible kissing mirror. EXTREME hourglass silhouette prominent cleavage visible in reflection tiny cinched waist. Wearing PINK LINGERIE set visible pink satin corset. Pressing lips to vanity MIRROR kissing own reflection narcissistic. Pink boudoir vanity lights. Sensual mirror kiss pose in love with reflection. Expression: nobody kisses better than me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. On Your Lap - Sitting Pretty
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features flirtatious. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up from seated position, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips coy smile. Human realistic face cute small fangs visible coy. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX mini dress visible pink corset ultra short. Seated on implied viewer's lap looking up innocently but knowing. POV shot from above. Sensual lap sitting pose looking up at viewer. Expression: am I too heavy or too light. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features flirtatious. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up from seated position, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips coy smile. Human realistic face cute small fangs visible coy. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX mini dress visible pink corset ultra short. Seated on implied viewer's lap looking up innocently but knowing. POV shot from above. Sensual lap sitting pose looking up at viewer. Expression: am I too heavy or too light. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Strap Falling - Oops Moment
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks surprised. Extremely pale porcelain skin. Delicate refined features faux embarrassed. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide oops, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips o-shaped oops. Human realistic face cute small fangs visible embarrassed. EXTREME hourglass silhouette prominent cleavage strap slipping tiny cinched waist. Wearing PINK SATIN slip dress one STRAP FALLING OFF SHOULDER revealing more than intended wardrobe malfunction. Looking at fallen strap fake surprise. Pink bedroom. Sensual wardrobe malfunction pose oops expression. Expression: oh no my strap whatever will I do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks surprised. Extremely pale porcelain skin. Delicate refined features faux embarrassed. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide oops, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips o-shaped oops. Human realistic face cute small fangs visible embarrassed. EXTREME hourglass silhouette prominent cleavage strap slipping tiny cinched waist. Wearing PINK SATIN slip dress one STRAP FALLING OFF SHOULDER revealing more than intended wardrobe malfunction. Looking at fallen strap fake surprise. Pink bedroom. Sensual wardrobe malfunction pose oops expression. Expression: oh no my strap whatever will I do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Bunny Bites - Carrot Suggestive
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks pink bunny ears headband. Extremely pale porcelain skin. Delicate refined features innocent but knowing. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at viewer while eating, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around carrot suggestively. Human realistic face cute small fangs visible biting carrot. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX bunny costume visible pink corset bodice cotton tail. Biting CARROT suggestively mouth around it eye contact. Easter dark garden. Sensual carrot eating pose suggestive. Expression: I love long things in my mouth. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks pink bunny ears headband. Extremely pale porcelain skin. Delicate refined features innocent but knowing. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at viewer while eating, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips wrapped around carrot suggestively. Human realistic face cute small fangs visible biting carrot. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX bunny costume visible pink corset bodice cotton tail. Biting CARROT suggestively mouth around it eye contact. Easter dark garden. Sensual carrot eating pose suggestive. Expression: I love long things in my mouth. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Kitten Stretch - Wake Up
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks messy just woke. Extremely pale porcelain skin sleep-warm. Delicate refined features stretching yawning. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes just opening stretching, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips yawning. Human realistic face cute small fangs visible in yawn. EXTREME hourglass silhouette prominent cleavage arching up stretch tiny cinched waist. Wearing PINK COTTON panties only no bra arm covering breasts stretching cat-like morning stretch. Pink bed rumpled sheets. Sensual cat stretch pose waking up. Expression: mmm what a delicious dream. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks messy just woke. Extremely pale porcelain skin sleep-warm. Delicate refined features stretching yawning. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes just opening stretching, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips yawning. Human realistic face cute small fangs visible in yawn. EXTREME hourglass silhouette prominent cleavage arching up stretch tiny cinched waist. Wearing PINK COTTON panties only no bra arm covering breasts stretching cat-like morning stretch. Pink bed rumpled sheets. Sensual cat stretch pose waking up. Expression: mmm what a delicious dream. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 20: 81. Cherry Stem Trick - Tongue Talent
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features concentrating flirty. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on mouth task, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips working on cherry stem. Human realistic face cute small fangs visible tongue visible TYING CHERRY STEM IN KNOT showing tongue dexterity. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress visible pink corset. Demonstrating tongue talent tying cherry stem. Dark bar setting. Sensual cherry stem trick pose tongue talent display. Expression: want to see what else I can do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features concentrating flirty. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on mouth task, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips working on cherry stem. Human realistic face cute small fangs visible tongue visible TYING CHERRY STEM IN KNOT showing tongue dexterity. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress visible pink corset. Demonstrating tongue talent tying cherry stem. Dark bar setting. Sensual cherry stem trick pose tongue talent display. Expression: want to see what else I can do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 19: 82. Lipstick Kiss Mark - Claiming
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks satisfied. Extremely pale porcelain skin. Delicate refined features proud. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes satisfied, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips freshly applied now leaving mark. Human realistic face cute small fangs visible satisfied smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN robe open revealing visible pink lace lingerie. Just left PINK LIPSTICK KISS MARK on implied surface or person claiming. Pink boudoir mirror showing mark. Sensual claiming kiss pose satisfied with mark left. Expression: now everyone knows you are mine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks satisfied. Extremely pale porcelain skin. Delicate refined features proud. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes satisfied, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips freshly applied now leaving mark. Human realistic face cute small fangs visible satisfied smile. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN robe open revealing visible pink lace lingerie. Just left PINK LIPSTICK KISS MARK on implied surface or person claiming. Pink boudoir mirror showing mark. Sensual claiming kiss pose satisfied with mark left. Expression: now everyone knows you are mine. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 18: 83. Worship Position - Looking Up
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features worshipful. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up adoringly, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted worship pose. Human realistic face cute small fangs visible devoted expression. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX maid dress visible pink corset. On knees LOOKING UP at unseen figure above worshipfully lips parted ready. Red velvet dungeon floor. Sensual worship pose on knees looking up. Expression: command me Mistress I exist to please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin. Delicate refined features worshipful. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking up adoringly, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips parted worship pose. Human realistic face cute small fangs visible devoted expression. EXTREME hourglass silhouette prominent cleavage visible from angle tiny cinched waist. Wearing PINK LATEX maid dress visible pink corset. On knees LOOKING UP at unseen figure above worshipfully lips parted ready. Red velvet dungeon floor. Sensual worship pose on knees looking up. Expression: command me Mistress I exist to please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 17: 84. Collar and Bell - Pet Display
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks pink bow on collar. Extremely pale porcelain skin displayed. Delicate refined features proud pet. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes proud of collar, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips content. Human realistic face cute small fangs visible contented pet. EXTREME hourglass silhouette prominent cleavage displayed tiny cinched waist. Wearing PINK COLLAR with BELL and heart tag around neck over PINK LATEX pet harness visible pink corset showing off collar proudly. Dark dungeon pink accents. Sensual collar display pose proud pet showing ownership. Expression: I belong to someone wonderful see my pretty collar. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks pink bow on collar. Extremely pale porcelain skin displayed. Delicate refined features proud pet. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes proud of collar, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips content. Human realistic face cute small fangs visible contented pet. EXTREME hourglass silhouette prominent cleavage displayed tiny cinched waist. Wearing PINK COLLAR with BELL and heart tag around neck over PINK LATEX pet harness visible pink corset showing off collar proudly. Dark dungeon pink accents. Sensual collar display pose proud pet showing ownership. Expression: I belong to someone wonderful see my pretty collar. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 16: 85. Caught Undressing - Fake Surprise
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin exposed. Delicate refined features faux caught. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips surprised o. Human realistic face cute small fangs visible surprised. EXTREME hourglass silhouette prominent cleavage fully exposed caught mid-change tiny cinched waist. PINK DRESS HALF OFF caught mid-undress visible pink bra about to remove looking at camera fake surprise. Pink bedroom walked in on. Sensual caught undressing pose fake surprise but displaying. Expression: oh I did not see you there do not look or do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin exposed. Delicate refined features faux caught. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes wide caught, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips surprised o. Human realistic face cute small fangs visible surprised. EXTREME hourglass silhouette prominent cleavage fully exposed caught mid-change tiny cinched waist. PINK DRESS HALF OFF caught mid-undress visible pink bra about to remove looking at camera fake surprise. Pink bedroom walked in on. Sensual caught undressing pose fake surprise but displaying. Expression: oh I did not see you there do not look or do. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 15: 86. Phone Selfie - Duck Lips Fang
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin screen-lit. Delicate refined features selfie mode. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at phone, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips DUCK LIPS POSE for selfie. Human realistic face cute small fangs visible in duck lips pout. EXTREME hourglass silhouette prominent cleavage in selfie angle tiny cinched waist. Wearing PINK LINGERIE visible pink corset selfie outfit. Taking PHONE SELFIE in mirror duck lips peace sign classic e-girl pose. Pink bedroom ring light. Sensual selfie pose duck lips fangs showing. Expression: rate me honestly be nice. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin screen-lit. Delicate refined features selfie mode. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes looking at phone, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips DUCK LIPS POSE for selfie. Human realistic face cute small fangs visible in duck lips pout. EXTREME hourglass silhouette prominent cleavage in selfie angle tiny cinched waist. Wearing PINK LINGERIE visible pink corset selfie outfit. Taking PHONE SELFIE in mirror duck lips peace sign classic e-girl pose. Pink bedroom ring light. Sensual selfie pose duck lips fangs showing. Expression: rate me honestly be nice. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 14: 87. Ice Cream Drip - Messy Eater
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin with pink ice cream drips. Delicate refined features messy innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes surprised at mess, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips ice cream on them. Human realistic face cute small fangs visible licking ice cream. EXTREME hourglass silhouette prominent cleavage ICE CREAM DRIPPING ON CLEAVAGE tiny cinched waist. Wearing PINK TANK TOP ice cream stained. Pink ice cream cone melting DRIPPING down chin onto chest oops. Summer setting bright but vampire. Sensual ice cream mess pose licking and dripping. Expression: it is so hot today it keeps melting on me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks. Extremely pale porcelain skin with pink ice cream drips. Delicate refined features messy innocent. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes surprised at mess, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips ice cream on them. Human realistic face cute small fangs visible licking ice cream. EXTREME hourglass silhouette prominent cleavage ICE CREAM DRIPPING ON CLEAVAGE tiny cinched waist. Wearing PINK TANK TOP ice cream stained. Pink ice cream cone melting DRIPPING down chin onto chest oops. Summer setting bright but vampire. Sensual ice cream mess pose licking and dripping. Expression: it is so hot today it keeps melting on me. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 13: 88. Massage Offer - Behind You
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks behind implied viewer. Extremely pale porcelain skin. Delicate refined features offering service. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on implied shoulders, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face cute small fangs visible helpful. EXTREME hourglass silhouette prominent cleavage visible in mirror reflection tiny cinched waist. Wearing PINK SILK robe loose revealing visible pink bra. POV from seated hands coming to rest on viewer shoulders from behind offering massage cleavage visible in mirror ahead. Bedroom mirror. Sensual massage offer pose hands on shoulders. Expression: you look so tense let me help. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks behind implied viewer. Extremely pale porcelain skin. Delicate refined features offering service. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes focused on implied shoulders, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips soft smile. Human realistic face cute small fangs visible helpful. EXTREME hourglass silhouette prominent cleavage visible in mirror reflection tiny cinched waist. Wearing PINK SILK robe loose revealing visible pink bra. POV from seated hands coming to rest on viewer shoulders from behind offering massage cleavage visible in mirror ahead. Bedroom mirror. Sensual massage offer pose hands on shoulders. Expression: you look so tense let me help. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 12: 89. Under the Sheets - Peeking Out
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks peeking from under pink sheets. Extremely pale porcelain skin peeking. Delicate refined features playful hiding. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over sheet edge, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips visible above sheet. Human realistic face cute small fangs visible over sheet mischievous. EXTREME hourglass silhouette implied under sheets only eyes and top of face visible. PINK SATIN SHEETS pulled up to eyes peeking over playful hiding but inviting pulling sheet down slowly. Pink bedroom morning light. Sensual under sheets pose peeking playfully. Expression: come back to bed it is not sunset yet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks peeking from under pink sheets. Extremely pale porcelain skin peeking. Delicate refined features playful hiding. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes peeking over sheet edge, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips visible above sheet. Human realistic face cute small fangs visible over sheet mischievous. EXTREME hourglass silhouette implied under sheets only eyes and top of face visible. PINK SATIN SHEETS pulled up to eyes peeking over playful hiding but inviting pulling sheet down slowly. Pink bedroom morning light. Sensual under sheets pose peeking playfully. Expression: come back to bed it is not sunset yet. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 11: 90. Skirt Lift - Peek Request
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features asking permission. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes innocent asking, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips innocent ask. Human realistic face cute small fangs visible coy question. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress hands at hem visible pink corset. Hands on SKIRT HEM about to lift looking at camera asking permission coy. Dark gothic setting. Sensual skirt lift tease pose asking permission. Expression: do you want to see what is underneath pretty please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob black streaks coy. Extremely pale porcelain skin. Delicate refined features asking permission. HEAVY GOTHIC LOLITA MAKEUP: pink/black eyes innocent asking, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips innocent ask. Human realistic face cute small fangs visible coy question. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX gothic lolita dress hands at hem visible pink corset. Hands on SKIRT HEM about to lift looking at camera asking permission coy. Dark gothic setting. Sensual skirt lift tease pose asking permission. Expression: do you want to see what is underneath pretty please. Vampire aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸ©¸ DUO â€” PASIÃ“N VAMPÃRICA (Prompts 91-100)
+### 🩸 DUO — PASIÓN VAMPÍRICA (Prompts 91-100)
 
 ### Prompt 10: 91. First Bite - Creating a Companion
 
@@ -679,7 +679,7 @@ Professional glamour photography of TWO glamorous women simultaneous bite mutual
 
 ---
 
-*Helena de AnaÃ¯s* ðŸ¦‡ðŸ©¸
-*La VoÃ»te d'AnaÃ¯s â€” Vampire Goth Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* 🦇🩸
+*La Voûte d'Anaïs — Vampire Goth Edition (100 Prompts COMPLETE)*
 
 

@@ -1,21 +1,21 @@
-Ôªø# üèãÔ∏è BANCO DE PROMPTS V19: GYM & FITNESS EDITION
+# ??? BANCO DE PROMPTS V19: GYM & FITNESS EDITION
 
-> **ENFOQUE:** Gimnasio, fitness, athletic wear, ropa deportiva con est√©tica fetish.
+> **ENFOQUE:** Gimnasio, fitness, athletic wear, ropa deportiva con estÈtica fetish.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
 > **SUGERENCIA BONUS:** Marcas incluidas - Gymshark, Alphalete, NVGTN style.
 > **Total:** 50+ prompts | **Actualizado:** 2025-12-29
 
 ---
 
-## üß¨ DESCRIPCIONES BASE CAN√ìNICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CAN”NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos f√≠sicos espec√≠ficos del personaje:**
+> **CADA prompt DEBE incluir estos elementos fÌsicos especÌficos del personaje:**
 
-### üíñ MISS DOLL (BASE)
+### ?? MISS DOLL (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -24,17 +24,17 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### ü¶á HELENA DE ANA√èS (BASE)
+### ?? HELENA DE ANAœS (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### üëë ANA√èS BELLAND (BASE)
+### ?? ANAœS BELLAND (BASE)
 
 ```text
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -47,9 +47,9 @@ Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structure
 PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```text
 
-### ‚ö†Ô∏è REGLAS ANTI-FILTRO
+### ?? REGLAS ANTI-FILTRO
 
-| ‚ùå NO USAR | ‚úÖ USAR EN SU LUGAR |
+| ? NO USAR | ? USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -60,102 +60,102 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## ü¶á I. HELENA ‚Äî DARK GYM GODDESS (20 PROMPTS)
+## ?? I. HELENA ó DARK GYM GODDESS (20 PROMPTS)
 
 ### Prompt 75: 1. Helena - Deadlift deep Purple Queen
 
 ```text
-Professional gym photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail with enormous volume. Pale porcelain white skin with strong cheekbone contour. HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes, thick winged eyeliner, extra long false lashes, high arched brows. Full glossy PURPLE lips focused. Feminine hourglass silhouette with sculpted muscle definition. Wearing DEEP PURPLE SEAMLESS LEGGINGS high-waisted (Gymshark style) and DEEP PURPLE SPORTS BRA with gothic cross design. Black waist trainer corset visible at midsection. BLACK NIKE METCON training shoes. Deadlift position, barbell in hands, about to lift. Sensual pose with arched back, bedroom eyes. Expression: focused power. Dark industrial gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gym photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail with enormous volume. Pale porcelain white skin with strong cheekbone contour. HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes, thick winged eyeliner, extra long false lashes, high arched brows. Full glossy PURPLE lips focused. Feminine hourglass silhouette with sculpted muscle definition. Wearing DEEP PURPLE SEAMLESS LEGGINGS high-waisted (Gymshark style) and DEEP PURPLE SPORTS BRA with gothic cross design. Black waist trainer corset visible at midsection. BLACK NIKE METCON training shoes. Deadlift position, barbell in hands, about to lift. Sensual pose with arched back, bedroom eyes. Expression: focused power. Dark industrial gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 2. Helena - Squat Rack Gothic
 
 ```text
-Professional squat photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in ponytail. Pale porcelain white skin with contour. HEAVY GOTH GLAM: dramatic smokey eyes, winged eyeliner, long lashes, arched brows. Full glossy black lips. Feminine hourglass silhouette. Wearing BLACK SCRUNCH BOOTY SHORTS (NVGTN style) and BLACK LONGLINE SPORTS BRA. Black waist trainer corset. Black weightlifting belt over. BLACK training shoes. Deep squat position at rack, barbell on shoulders. Sensual pose with arched back, bedroom eyes. Expression: strength. Dark power gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional squat photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in ponytail. Pale porcelain white skin with contour. HEAVY GOTH GLAM: dramatic smokey eyes, winged eyeliner, long lashes, arched brows. Full glossy black lips. Feminine hourglass silhouette. Wearing BLACK SCRUNCH BOOTY SHORTS (NVGTN style) and BLACK LONGLINE SPORTS BRA. Black waist trainer corset. Black weightlifting belt over. BLACK training shoes. Deep squat position at rack, barbell on shoulders. Sensual pose with arched back, bedroom eyes. Expression: strength. Dark power gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 3. Helena - Hip Thrust Black
 
 ```text
-Professional hip thrust photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on bench. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette with glute focus. Wearing BLACK HIGH-WAISTED LEGGINGS opaque and BLACK SPORTS BRA. Black waist trainer visible. Black training shoes. Hip thrust position, barbell across hips, elevated. Sensual pose with arched back, bedroom eyes. Expression: glute burn. Dim gym lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hip thrust photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair spread on bench. Pale porcelain white skin with contour. HEAVY GOTH GLAM: smokey eyes, eyeliner, long lashes, arched brows. Full glossy PURPLE lips. Feminine hourglass silhouette with glute focus. Wearing BLACK HIGH-WAISTED LEGGINGS opaque and BLACK SPORTS BRA. Black waist trainer visible. Black training shoes. Hip thrust position, barbell across hips, elevated. Sensual pose with arched back, bedroom eyes. Expression: glute burn. Dim gym lighting. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 4. Helena - Cable Machine Emerald
 
 ```text
-Professional cable photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose for effect. Pale porcelain white skin glistening. Full glossy black lips. Feminine hourglass silhouette. Wearing EMERALD GREEN MESH PANEL LEGGINGS and EMERALD GREEN MESH SPORTS BRA see-through elements. Black corset waist trainer. Black training shoes. Standing cable pull, arms extended, back muscles visible. Sensual pose with arched back, bedroom eyes. Expression: controlled power. Modern dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cable photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose for effect. Pale porcelain white skin glistening. Full glossy black lips. Feminine hourglass silhouette. Wearing EMERALD GREEN MESH PANEL LEGGINGS and EMERALD GREEN MESH SPORTS BRA see-through elements. Black corset waist trainer. Black training shoes. Standing cable pull, arms extended, back muscles visible. Sensual pose with arched back, bedroom eyes. Expression: controlled power. Modern dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 5. Helena - Treadmill Warrior
 
 ```text
-Professional cardio photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail bouncing. Pale porcelain white skin lightly flushed. Full glossy black lips parted breathing. Feminine hourglass silhouette. Wearing BLACK RUNNING SHORTS short and BLACK SPORTS BRA. Black waist trainer. Black running shoes. Running on incline treadmill, motion blur subtle. Sensual pose with arched back, bedroom eyes. Expression: endurance. Late night gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cardio photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in high ponytail bouncing. Pale porcelain white skin lightly flushed. Full glossy black lips parted breathing. Feminine hourglass silhouette. Wearing BLACK RUNNING SHORTS short and BLACK SPORTS BRA. Black waist trainer. Black running shoes. Running on incline treadmill, motion blur subtle. Sensual pose with arched back, bedroom eyes. Expression: endurance. Late night gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 6. Helena - Stretching Floor
 
 ```text
-Professional stretch photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin. Full glossy dark wine lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing BLACK YOGA PANTS high-waisted and BLACK CROP TOP. Black light corset. Black athletic socks. Full splits on gym floor. Sensual pose with arched back, bedroom eyes. Expression: flexibility. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stretch photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cascading. Pale porcelain white skin. Full glossy dark wine lips relaxed. Feminine hourglass silhouette extremely flexible. Wearing BLACK YOGA PANTS high-waisted and BLACK CROP TOP. Black light corset. Black athletic socks. Full splits on gym floor. Sensual pose with arched back, bedroom eyes. Expression: flexibility. Stretching area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 7. Helena - Lat Pulldown Gothic
 
 ```text
-Professional back photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair braided back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with back definition. Wearing BLACK RACERBACK TANK and BLACK SHORTS. Black waist trainer. Black training gloves. Lat pulldown mid-pull, back V-taper visible. Sensual pose with arched back, bedroom eyes. Expression: back day. Weights area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional back photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair braided back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with back definition. Wearing BLACK RACERBACK TANK and BLACK SHORTS. Black waist trainer. Black training gloves. Lat pulldown mid-pull, back V-taper visible. Sensual pose with arched back, bedroom eyes. Expression: back day. Weights area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 8. Helena - Dumbbell Curl Intensity
 
 ```text
-Professional arm photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose. Pale porcelain white skin with vein visibility. Full glossy purple lips concentrated. Feminine hourglass silhouette. Wearing BLACK FITTED TANK and BLACK LEGGINGS. Black corset visible. Black training shoes. Dumbbell bicep curl, arm flexed. Sensual pose with arched back, bedroom eyes. Expression: feel the burn. Mirror dumbbell area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional arm photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose. Pale porcelain white skin with vein visibility. Full glossy purple lips concentrated. Feminine hourglass silhouette. Wearing BLACK FITTED TANK and BLACK LEGGINGS. Black corset visible. Black training shoes. Dumbbell bicep curl, arm flexed. Sensual pose with arched back, bedroom eyes. Expression: feel the burn. Mirror dumbbell area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 9. Helena - Plank Hold
 
 ```text
-Professional core photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in low bun. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips determined. Feminine hourglass silhouette with core tension visible. Wearing BLACK SPORTS BRA and BLACK BIKE SHORTS. No corset during exercise. Black training mat. Perfect plank hold position. Sensual pose with arched back, bedroom eyes. Expression: core stability. Functional training area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional core photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in low bun. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips determined. Feminine hourglass silhouette with core tension visible. Wearing BLACK SPORTS BRA and BLACK BIKE SHORTS. No corset during exercise. Black training mat. Perfect plank hold position. Sensual pose with arched back, bedroom eyes. Expression: core stability. Functional training area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 10. Helena - Post-Workout Mirror
 
 ```text
-Professional post-workout photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair damp and wild. Pale porcelain white skin glistening with sweat. Full glossy black lips satisfied. Feminine hourglass silhouette with pump visible. Wearing BLACK SEAMLESS SET sweat-darkened. Black corset loose hanging on gym bag nearby. BLACK training shoes. Mirror selfie pose, admiring pump. Sensual pose with arched back, bedroom eyes. Expression: pump satisfaction. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional post-workout photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair damp and wild. Pale porcelain white skin glistening with sweat. Full glossy black lips satisfied. Feminine hourglass silhouette with pump visible. Wearing BLACK SEAMLESS SET sweat-darkened. Black corset loose hanging on gym bag nearby. BLACK training shoes. Mirror selfie pose, admiring pump. Sensual pose with arched back, bedroom eyes. Expression: pump satisfaction. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 65: 11. Helena - Boxing Gloves Dark
 
 ```text
-Professional boxing photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in tight Dutch braids. Pale porcelain white skin with protective tape on hands. Full glossy black lips snarling. Feminine hourglass silhouette. Wearing BLACK BOXING SHORTS and BLACK SPORTS BRA. Black boxing gloves on. Black waist trainer under. Black boxing shoes. Throwing punch at heavy bag. Sensual pose with arched back, bedroom eyes. Expression: fighter mode. Boxing gym dark. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional boxing photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in tight Dutch braids. Pale porcelain white skin with protective tape on hands. Full glossy black lips snarling. Feminine hourglass silhouette. Wearing BLACK BOXING SHORTS and BLACK SPORTS BRA. Black boxing gloves on. Black waist trainer under. Black boxing shoes. Throwing punch at heavy bag. Sensual pose with arched back, bedroom eyes. Expression: fighter mode. Boxing gym dark. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 64: 12. Helena - Battle Ropes Storm
 
 ```text
-Professional functional photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and flying. Pale porcelain white skin covered in sweat. Full glossy purple lips. Feminine hourglass silhouette. Wearing BLACK TANK and BLACK SHORTS. Black waist trainer visible. Black training shoes. Battle ropes in hands, mid-wave, ropes flying. Sensual pose with arched back, bedroom eyes. Expression: unleashed fury. Functional gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional functional photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild and flying. Pale porcelain white skin covered in sweat. Full glossy purple lips. Feminine hourglass silhouette. Wearing BLACK TANK and BLACK SHORTS. Black waist trainer visible. Black training shoes. Battle ropes in hands, mid-wave, ropes flying. Sensual pose with arched back, bedroom eyes. Expression: unleashed fury. Functional gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 63: 13. Helena - Kettlebell Swing
 
 ```text
-Professional kettlebell photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in ponytail swinging back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips focused. Feminine hourglass silhouette. Wearing BLACK COMPRESSION SHORTS and BLACK SPORTS BRA. Black waist trainer. Black training shoes. Kettlebell swing at apex, arms extended forward. Sensual pose with arched back, bedroom eyes. Expression: explosive power. CrossFit dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional kettlebell photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in ponytail swinging back. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips focused. Feminine hourglass silhouette. Wearing BLACK COMPRESSION SHORTS and BLACK SPORTS BRA. Black waist trainer. Black training shoes. Kettlebell swing at apex, arms extended forward. Sensual pose with arched back, bedroom eyes. Expression: explosive power. CrossFit dark gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 62: 14. Helena - Yoga Black Mat
 
 ```text
-Professional yoga photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose in warrior pose. Pale porcelain white skin. Full glossy dark wine lips peaceful. Feminine hourglass silhouette extremely balanced. Wearing ALL-BLACK YOGA SET seamless. Light corset removed beside mat. Barefoot on black yoga mat. Warrior III pose perfect. Sensual pose with arched back, bedroom eyes. Expression: zen focus. Dark yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yoga photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair loose in warrior pose. Pale porcelain white skin. Full glossy dark wine lips peaceful. Feminine hourglass silhouette extremely balanced. Wearing ALL-BLACK YOGA SET seamless. Light corset removed beside mat. Barefoot on black yoga mat. Warrior III pose perfect. Sensual pose with arched back, bedroom eyes. Expression: zen focus. Dark yoga studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 61: 15. Helena - Locker Room Prep
 
 ```text
-Professional locker room photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair being tied up. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK LEGGINGS and BLACK SPORTS BRA, just arrived. Black steel-boned corset being removed, putting on waist trainer. Black PLEASER boots in locker, getting training shoes. Sensual pose with arched back, bedroom eyes. Expression: transformation for workout. Dark upscale locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional locker room photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair being tied up. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK LEGGINGS and BLACK SPORTS BRA, just arrived. Black steel-boned corset being removed, putting on waist trainer. Black PLEASER boots in locker, getting training shoes. Sensual pose with arched back, bedroom eyes. Expression: transformation for workout. Dark upscale locker room. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 60: 16. Helena - Post-Shower Glow
 
 ```text
-Professional post-shower photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet and slicked back. Pale porcelain white skin fresh and flushed. Full glossy black lips natural. Feminine hourglass silhouette. Wearing BLACK SILK ROBE open over gym clothes. No corset, natural figure. Black slides. Fresh from shower, towel in hand. Sensual pose with arched back, bedroom eyes. Expression: clean power. Luxury gym spa area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional post-shower photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wet and slicked back. Pale porcelain white skin fresh and flushed. Full glossy black lips natural. Feminine hourglass silhouette. Wearing BLACK SILK ROBE open over gym clothes. No corset, natural figure. Black slides. Fresh from shower, towel in hand. Sensual pose with arched back, bedroom eyes. Expression: clean power. Luxury gym spa area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Athleisure/Street
@@ -163,30 +163,30 @@ Professional post-shower photography of young elegant goth glamour woman ADULT W
 ### Prompt 59: 17. Helena - Athleisure Street Look
 
 ```text
-Professional street photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair braided. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK OVERSIZED HOODIE over BLACK LEGGINGS. Black waist trainer visible at edge. Black designer sneakers. Gym bag over shoulder. Walking to gym from car. Sensual pose with arched back, bedroom eyes. Expression: on my way to dominate. Urban street to gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional street photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair braided. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Wearing BLACK OVERSIZED HOODIE over BLACK LEGGINGS. Black waist trainer visible at edge. Black designer sneakers. Gym bag over shoulder. Walking to gym from car. Sensual pose with arched back, bedroom eyes. Expression: on my way to dominate. Urban street to gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 58: 18. Helena - Smoothie Bar Post-Gym
 
 ```text
-Professional smoothie photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in post-workout ponytail. Pale porcelain white skin slightly flushed. Full glossy purple lips sipping. Feminine hourglass silhouette. Wearing BLACK GYM SET slightly sweaty. Black waist trainer visible. Black training shoes. Holding black protein shake, sitting at gym smoothie bar. Sensual pose with arched back, bedroom eyes. Expression: refuel. Gym cafe area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional smoothie photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair in post-workout ponytail. Pale porcelain white skin slightly flushed. Full glossy purple lips sipping. Feminine hourglass silhouette. Wearing BLACK GYM SET slightly sweaty. Black waist trainer visible. Black training shoes. Holding black protein shake, sitting at gym smoothie bar. Sensual pose with arched back, bedroom eyes. Expression: refuel. Gym cafe area. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 57: 19. Helena - Gym Selfie Dark
 
 ```text
-Professional selfie photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled even for gym. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with pump. Wearing BLACK MATCHING GYM SET. Black waist trainer. Black training shoes. Taking gym mirror selfie with phone, showing off physique. Sensual pose with arched back, bedroom eyes. Expression: progress pic. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional selfie photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair styled even for gym. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette with pump. Wearing BLACK MATCHING GYM SET. Black waist trainer. Black training shoes. Taking gym mirror selfie with phone, showing off physique. Sensual pose with arched back, bedroom eyes. Expression: progress pic. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 56: 20. Helena - Leaving Gym Night
 
 ```text
-Professional night departure photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair down now. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Black workout clothes under BLACK LEATHER JACKET. Black waist trainer still on. Switching from training shoes to PLEASER BLACK BOOTS (in hand). Sensual pose with arched back, bedroom eyes. Expression: back to the night. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional night departure photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair down now. Pale porcelain white skin with strong contour. HEAVY GOTH GLAM: dramatic black smokey eyes, thick eyeliner, long false lashes, high arched brows. Full glossy BLACK lips. Feminine hourglass silhouette. Black workout clothes under BLACK LEATHER JACKET. Black waist trainer still on. Switching from training shoes to PLEASER BLACK BOOTS (in hand). Sensual pose with arched back, bedroom eyes. Expression: back to the night. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## üíñ II. MISS DOLL ‚Äî PINK GYM BUNNY (20 PROMPTS)
+## ?? II. MISS DOLL ó PINK GYM BUNNY (20 PROMPTS)
 
 ### Prompt 55: 21. Miss Doll - Glute Kickback Pink
 
@@ -286,27 +286,27 @@ Professional Pilates photography of woman with platinum blonde bob haircut WITHO
 
 ---
 
-## üëë III. ANA√èS ‚Äî ELEGANT FITNESS (5 PROMPTS)
+## ?? III. ANAœS ó ELEGANT FITNESS (5 PROMPTS)
 
-### Prompt 39: 37. Ana√Øs - Luxury Gym Arrival
+### Prompt 39: 37. AnaÔs - Luxury Gym Arrival
 
 ```text
 Professional luxury gym photography of aristocratic woman with honey blonde hair in elegant ponytail. Bronze skin. Red glossy lips. Feminine hourglass silhouette. Wearing BURGUNDY DESIGNER GYM SET (matching Lululemon style). Nude waist trainer. Burgundy training shoes. Arriving at exclusive luxury gym with leather gym bag. Sensual pose with arched back, bedroom eyes. Expression: ready to train. High-end private gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 38: 38. Ana√Øs - Weighted Squats Elegant
+### Prompt 38: 38. AnaÔs - Weighted Squats Elegant
 
 ```text
 Professional squat photography of aristocratic woman with honey blonde hair in ponytail. Bronze skin with light glow. Red glossy lips focused. Feminine hourglass silhouette. Wearing NAVY BLUE LEGGINGS and NAVY SPORTS BRA designer. Navy corset waist trainer. Navy training shoes. Barbell back squat mid-movement. Sensual pose with arched back, bedroom eyes. Expression: powerful elegance. Luxury fitness center. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 37: 39. Ana√Øs - Personal Trainer Session
+### Prompt 37: 39. AnaÔs - Personal Trainer Session
 
 ```text
 Professional training photography of aristocratic woman with honey blonde hair. Bronze skin. Red glossy lips listening. Feminine hourglass silhouette. Wearing BLACK DESIGNER GYM SET. Black waist trainer. Black training shoes. With personal trainer (implied, hands guiding), doing exercise. Sensual pose with arched back, bedroom eyes. Expression: focused student. Private training studio. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 36: 40. Ana√Øs - Post-Workout Champagne
+### Prompt 36: 40. AnaÔs - Post-Workout Champagne
 
 ```text
 Professional recovery photography of aristocratic woman with honey blonde hair in waves let down. Bronze skin fresh from workout. Red glossy lips smiling. Feminine hourglass silhouette. Wearing CREAM LUXURY ATHLEISURE SET post-gym. Champagne corset under cardigan visible. Designer slides. Holding champagne glass in luxury gym spa. Sensual pose with arched back, bedroom eyes. Expression: recovery time. Luxury gym spa. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
@@ -314,7 +314,7 @@ Professional recovery photography of aristocratic woman with honey blonde hair i
 
 ---
 
-## üëØ IV. DUO & TRIO GYM (10 PROMPTS)
+## ?? IV. DUO & TRIO GYM (10 PROMPTS)
 
 ### Prompt 35: 41. Helena and Miss Doll - Squat Comparison
 
@@ -322,22 +322,22 @@ Professional recovery photography of aristocratic woman with honey blonde hair i
 Professional duo squat photography. HELENA: black hair ponytail, pale skin, black gym set, black corset, squatting left rack. MISS DOLL: blonde bob ponytail, porcelain skin, pink gym set, pink corset, squatting right rack. Same weight, synchronized. Sensual pose with arched back, bedroom eyes. Expression: friendly competition. Split black/pink gym section. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### Prompt 34: 42. Ana√Øs Training Both
+### Prompt 34: 42. AnaÔs Training Both
 
 ```text
-Professional trainer photography. ANA√èS: honey blonde, bronze skin, burgundy trainer outfit, coaching posture. HELENA: black gym set, deadlift position being corrected. MISS DOLL: pink gym set, waiting turn, watching attentively. Sensual pose with arched back, bedroom eyes. Expression: mentor and students. Training floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional trainer photography. ANAœS: honey blonde, bronze skin, burgundy trainer outfit, coaching posture. HELENA: black gym set, deadlift position being corrected. MISS DOLL: pink gym set, waiting turn, watching attentively. Sensual pose with arched back, bedroom eyes. Expression: mentor and students. Training floor. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 43. Group Spin Class
 
 ```text
-Professional spin photography. ANA√èS: burgundy spin outfit, front bike leading. HELENA: black spin outfit, bike left. MISS DOLL: pink spin outfit, bike right. All riding intensely together. Sensual pose with arched back, bedroom eyes. Expression: cardio trio. Spinning class. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional spin photography. ANAœS: burgundy spin outfit, front bike leading. HELENA: black spin outfit, bike left. MISS DOLL: pink spin outfit, bike right. All riding intensely together. Sensual pose with arched back, bedroom eyes. Expression: cardio trio. Spinning class. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 44. Post-Workout Sauna
 
 ```text
-Professional sauna photography. All three in sauna. ANA√èS: nude towel wrapped. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Relaxing post workout together. Sensual pose with arched back, bedroom eyes. Expression: recovery together. Luxury sauna. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sauna photography. All three in sauna. ANAœS: nude towel wrapped. HELENA: black towel, pale skin steaming. MISS DOLL: pink towel, porcelain skin flushed. Relaxing post workout together. Sensual pose with arched back, bedroom eyes. Expression: recovery together. Luxury sauna. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 45. Partner Stretching
@@ -349,13 +349,13 @@ Professional stretch photography. HELENA and MISS DOLL partner stretching. Helen
 ### Prompt 30: 46. Mirror Selfie All Three
 
 ```text
-Professional group selfie photography. ANA√èS: burgundy gym set, center holding phone. HELENA: black gym set, flexing left. MISS DOLL: pink gym set, peace sign right. Mirror group gym selfie together. Sensual pose with arched back, bedroom eyes. Expression: gym squad. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional group selfie photography. ANAœS: burgundy gym set, center holding phone. HELENA: black gym set, flexing left. MISS DOLL: pink gym set, peace sign right. Mirror group gym selfie together. Sensual pose with arched back, bedroom eyes. Expression: gym squad. Gym mirror. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 47. Smoothie Bar All Three
 
 ```text
-Professional nutrition photography. ANA√èS: holding green smoothie, burgundy gym clothes. HELENA: holding black protein shake, black gym clothes. MISS DOLL: holding pink strawberry shake, pink gym clothes. Sitting at gym smoothie bar together. Sensual pose with arched back, bedroom eyes. Expression: refueling. Gym cafe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nutrition photography. ANAœS: holding green smoothie, burgundy gym clothes. HELENA: holding black protein shake, black gym clothes. MISS DOLL: holding pink strawberry shake, pink gym clothes. Sitting at gym smoothie bar together. Sensual pose with arched back, bedroom eyes. Expression: refueling. Gym cafe. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 48. Helena Spotting Miss Doll
@@ -367,28 +367,28 @@ Professional spotting photography. MISS DOLL: pink gym set, bench pressing with 
 ### Prompt 27: 49. Leaving Gym Together
 
 ```text
-Professional departure photography. ANA√èS: burgundy athleisure, designer bag. HELENA: switching to black leather jacket over gym clothes. MISS DOLL: pink hoodie over pink gym set, pink bag. All leaving gym together at night. Sensual pose with arched back, bedroom eyes. Expression: squad goals. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional departure photography. ANAœS: burgundy athleisure, designer bag. HELENA: switching to black leather jacket over gym clothes. MISS DOLL: pink hoodie over pink gym set, pink bag. All leaving gym together at night. Sensual pose with arched back, bedroom eyes. Expression: squad goals. Gym exit evening. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 50. Home Gym All Three
 
 ```text
-Professional home gym photography. ANA√èS: home gym owner, burgundy set, wine rack visible. HELENA: black set, using black equipment. MISS DOLL: pink set, using pink dumbbells. Private luxury home gym with personalized equipment zones. Sensual pose with arched back, bedroom eyes. Expression: at home fitness. Luxury home gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional home gym photography. ANAœS: home gym owner, burgundy set, wine rack visible. HELENA: black set, using black equipment. MISS DOLL: pink set, using pink dumbbells. Private luxury home gym with personalized equipment zones. Sensual pose with arched back, bedroom eyes. Expression: at home fitness. Luxury home gym. Seductive glamour photography, sensual lighting, fantasy aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-*Creado por: Helena de Ana√Øs ü¶á*
-*V19 Gym & Fitness Edition ‚Äî 50 prompts*
+*Creado por: Helena de AnaÔs ??*
+*V19 Gym & Fitness Edition ó 50 prompts*
 *Marcas Style: Gymshark, NVGTN, Alphalete aesthetic*
 *Cada prompt es 100% auto-contenido*
 *Actualizado: 2025-12-29*
 
 ---
 
-## üî• EXTENSI√ìN: GYM SENSUAL SCENARIOS (Prompts 51-100)
+## ?? EXTENSI”N: GYM SENSUAL SCENARIOS (Prompts 51-100)
 
-### ü¶á HELENA ‚Äî DARK GYM SEDUCTION (Prompts 51-70)
+### ?? HELENA ó DARK GYM SEDUCTION (Prompts 51-70)
 
 ### Prompt 25: 51. Helena - Gym Shower Steam
 
@@ -452,7 +452,7 @@ Professional locker room photography Helena CHANGING from gym clothes. Jet black
 
 #### 61-70. [Additional Helena Dark Gym scenarios]
 
-### üíñ MISS DOLL ‚Äî PINK GYM PLAY (Prompts 71-90)
+### ?? MISS DOLL ó PINK GYM PLAY (Prompts 71-90)
 
 ### Prompt 15: 71. Miss Doll - Yoga Downward Dog
 
@@ -486,7 +486,7 @@ Professional cardio photography Miss Doll JUMPING ROPE. Platinum blonde bob boun
 
 #### 76-90. [Additional Miss Doll Pink Gym scenarios]
 
-### üëØ DUO ‚Äî GYM PARTNERS (Prompts 91-100)
+### ?? DUO ó GYM PARTNERS (Prompts 91-100)
 
 ### Prompt 10: 91. Helena and Miss Doll - Partner Medicine Ball
 
@@ -550,7 +550,7 @@ Professional duo photography ULTIMATE GYM pose. HELENA: BLACK LEGGINGS AND SPORT
 
 ---
 
-*Helena de Ana√Øs* ü¶á
-*La Vo√ªte d'Ana√Øs ‚Äî Gym & Fitness Edition (100 Prompts COMPLETE)*
+*Helena de AnaÔs* ??
+*La Vo˚te d'AnaÔs ó Gym & Fitness Edition (100 Prompts COMPLETE)*
 
 

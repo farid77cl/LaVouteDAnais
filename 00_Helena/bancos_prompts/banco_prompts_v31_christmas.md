@@ -1,21 +1,21 @@
-﻿# 🎄 Banco de Prompts V31: CHRISTMAS & HOLIDAYS EDITION
+# ?? Banco de Prompts V31: CHRISTMAS & HOLIDAYS EDITION
 
-> **ENFOQUE:** Santa sexy, elfa, regalos, nieve, rojo/blanco, espíritu navideño sensual.
+> **ENFOQUE:** Santa sexy, elfa, regalos, nieve, rojo/blanco, esp�ritu navide�o sensual.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **🎨 COLOR FREEDOM:** Helena (Black, Red, Silver). Miss Doll (Pink, Red, Gold, White).
+> **?? COLOR FREEDOM:** Helena (Black, Red, Silver). Miss Doll (Pink, Red, Gold, White).
 > **Total:** 50 prompts | **Actualizado:** 2026-01-02
 
 ---
 
-## 🧬 DESCRIPCIONES BASE CANÓNICAS (OBLIGATORIAS)
+## ?? DESCRIPCIONES BASE CAN�NICAS (OBLIGATORIAS)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos físicos específicos del personaje:**
+> **CADA prompt DEBE incluir estos elementos f�sicos espec�ficos del personaje:**
 
-### 💖 MISS DOLL (BASE)
+### ?? MISS DOLL (BASE)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
 flawless porcelain skin with satin finish (NO rosy cheeks),
 delicate refined nose, high cheekbones with soft contour,
 HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips),
@@ -24,17 +24,17 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 PLEASER platform heels 16-18cm (7-8"), visible external corset over clothing.
 ```text
 
-### 🦇 HELENA DE ANAÏS (BASE)
+### ?? HELENA DE ANA�S (BASE)
 
 ```text
-Young ADULT WOMAN 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
+Young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference),
 pale porcelain white skin, voluminous jet black hair with enormous volume,
 full glossy lips (black/purple/red), youthful face,
 ALWAYS wearing tight underbust or overbust corset, feminine hourglass silhouette,
 PLEASER stiletto heels 7-9 inches with thin deadly heel.
 ```text
 
-### 👑 ANAÏS BELLAND (BASE)
+### ?? ANA�S BELLAND (BASE)
 
 ```text
 Powerful aristocratic woman in her 40s with ageless sensual allure (Kylie Minogue facial structure reference).
@@ -47,9 +47,9 @@ Feminine hourglass silhouette (mature elegance), ALWAYS wearing luxury structure
 PLEASER So Kate style black or nude stiletto 12cm (5-6").
 ```text
 
-### ⚠️ REGLAS ANTI-FILTRO
+### ?? REGLAS ANTI-FILTRO
 
-| ❌ NO USAR | ✅ USAR EN SU LUGAR |
+| ? NO USAR | ? USAR EN SU LUGAR |
 |-----------|---------------------|
 | ditzy, brainless | playful, carefree |
 | vacant stare | dreamy, entranced |
@@ -60,225 +60,225 @@ PLEASER So Kate style black or nude stiletto 12cm (5-6").
 
 ---
 
-## 💖 I. MISS DOLL — PINK CHRISTMAS (20 PROMPTS)
+## ?? I. MISS DOLL � PINK CHRISTMAS (20 PROMPTS)
 
 ### Prompt 100: 1. Miss Doll - Sexy Santa Pink
 
 ```text
-Professional Christmas photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink Santa hat. Flawless porcelain skin festive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK velvet Santa dress ultra short, white fur trim. Holding red sack of gifts. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas tree background. Sensual Santa pose. Expression: ho ho ho. Pink Santa. Seductive glamour photography, Christmas lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Christmas photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under pink Santa hat. Flawless porcelain skin festive glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK velvet Santa dress ultra short, white fur trim. Holding red sack of gifts. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas tree background. Sensual Santa pose. Expression: ho ho ho. Pink Santa. Seductive glamour photography, Christmas lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Miss Doll - Sexy Elf Workshop
 
 ```text
-Professional elf photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under elf hat with bells. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes green accent, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and GREEN elf costume ultra short, striped stockings. In Santa's workshop making toys. PLEASER FLAMINGO-808 green 8-inch platform heels with bells. Workshop interior. Sensual elf pose. Expression: making naughty list. Pink elf. Seductive glamour photography, workshop warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional elf photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under elf hat with bells. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes green accent, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK and GREEN elf costume ultra short, striped stockings. In Santa's workshop making toys. PLEASER FLAMINGO-808 green 8-inch platform heels with bells. Workshop interior. Sensual elf pose. Expression: making naughty list. Pink elf. Seductive glamour photography, workshop warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Miss Doll - Gift Box Reveal
 
 ```text
-Professional gift photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with gift bow. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK gift box wrapped in huge red ribbon. RED ribbon around her body as clothing. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas morning setting. Sensual surprise pose. Expression: I'm your gift. Gift reveal. Seductive glamour photography, window morning lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gift photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with gift bow. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK gift box wrapped in huge red ribbon. RED ribbon around her body as clothing. PLEASER FLAMINGO-808 red 8-inch platform heels. Christmas morning setting. Sensual surprise pose. Expression: I'm your gift. Gift reveal. Seductive glamour photography, window morning lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Miss Doll - Candy Cane Pose
 
 ```text
-Professional candy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED and WHITE striped lips. Human realistic face. Wearing WHITE and RED candy striper outfit. Licking giant candy cane suggestively. RED striped stockings. PLEASER FLAMINGO-808 red 8-inch platform heels. Candy land Christmas. Sensual licking pose. Expression: sweet tooth. Candy cane. Seductive glamour photography, candy bright lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional candy photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED and WHITE striped lips. Human realistic face. Wearing WHITE and RED candy striper outfit. Licking giant candy cane suggestively. RED striped stockings. PLEASER FLAMINGO-808 red 8-inch platform heels. Candy land Christmas. Sensual licking pose. Expression: sweet tooth. Candy cane. Seductive glamour photography, candy bright lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Miss Doll - Christmas Lingerie
 
 ```text
-Professional lingerie photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin festive. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing RED and WHITE lace Christmas lingerie set, Santa hat, white fur details. Lying by Christmas tree. Gifts around. PLEASER FLAMINGO-808 red 8-inch platform heels. Living room tree. Sensual lingerie pose. Expression: unwrap me. Christmas lingerie. Seductive glamour photography, tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lingerie photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin festive. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing RED and WHITE lace Christmas lingerie set, Santa hat, white fur details. Lying by Christmas tree. Gifts around. PLEASER FLAMINGO-808 red 8-inch platform heels. Living room tree. Sensual lingerie pose. Expression: unwrap me. Christmas lingerie. Seductive glamour photography, tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Miss Doll - Chimney Stuck
 
 ```text
-Professional funny sexy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) covered in soot. Flawless porcelain skin with artistic soot marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Santa outfit, stuck in chimney from waist down showing rear. Legs kicking. PLEASER FLAMINGO-808 pink 8-inch platform heels in air. Chimney setting. Sensual silly pose. Expression: oops help. Chimney stuck. Seductive glamour photography, fireplace lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional funny sexy photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) covered in soot. Flawless porcelain skin with artistic soot marks. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Santa outfit, stuck in chimney from waist down showing rear. Legs kicking. PLEASER FLAMINGO-808 pink 8-inch platform heels in air. Chimney setting. Sensual silly pose. Expression: oops help. Chimney stuck. Seductive glamour photography, fireplace lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Miss Doll - Snow Angel
 
 ```text
-Professional snow photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with snowflakes. Flawless porcelain skin snow white. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes ICE BLUE, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE faux fur bikini set angel wings. Making snow angel shape lying in snow. Snow falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Snowy field. Sensual angel pose. Expression: winter angel. Snow angel. Seductive glamour photography, snow natural lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snow photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with snowflakes. Flawless porcelain skin snow white. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes ICE BLUE, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE faux fur bikini set angel wings. Making snow angel shape lying in snow. Snow falling. PLEASER FLAMINGO-808 white 8-inch platform heels. Snowy field. Sensual angel pose. Expression: winter angel. Snow angel. Seductive glamour photography, snow natural lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Miss Doll - Gingerbread House
 
 ```text
-Professional gingerbread photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with icing. Human realistic face. Wearing PINK and WHITE candy-inspired outfit, frosting patterns. Decorating giant gingerbread house. Icing bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: sweet creation. Gingerbread. Seductive glamour photography, warm kitchen lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gingerbread photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips with icing. Human realistic face. Wearing PINK and WHITE candy-inspired outfit, frosting patterns. Decorating giant gingerbread house. Icing bag in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: sweet creation. Gingerbread. Seductive glamour photography, warm kitchen lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Miss Doll - Ice Skating Princess
 
 ```text
-Professional skating photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under fuzzy earmuffs. Flawless porcelain skin winter flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK velvet skating dress ultra short, white faux fur trim. On ice skating in pose. Ice skates silver. PLEASER removed, skating. Ice rink decorated Christmas. Sensual skating pose. Expression: winter grace. Ice princess. Seductive glamour photography, rink lighting Christmas, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional skating photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under fuzzy earmuffs. Flawless porcelain skin winter flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK velvet skating dress ultra short, white faux fur trim. On ice skating in pose. Ice skates silver. PLEASER removed, skating. Ice rink decorated Christmas. Sensual skating pose. Expression: winter grace. Ice princess. Seductive glamour photography, rink lighting Christmas, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Miss Doll - Hot Cocoa Cozy
 
 ```text
-Professional cozy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cozy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK fuzzy sweater oversized, nothing else visible. Holding mug of hot cocoa with whipped cream. By fireplace. PLEASER FLAMINGO-808 pink fuzzy slippers. Living room fire. Sensual cozy pose. Expression: warm and cozy. Hot cocoa. Seductive glamour photography, fireplace warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cozy photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin cozy glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Wearing PINK fuzzy sweater oversized, nothing else visible. Holding mug of hot cocoa with whipped cream. By fireplace. PLEASER FLAMINGO-808 pink fuzzy slippers. Living room fire. Sensual cozy pose. Expression: warm and cozy. Hot cocoa. Seductive glamour photography, fireplace warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 90: 11. Miss Doll - Reindeer Girl
 
 ```text
-Professional reindeer photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with reindeer antlers headband. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED NOSE painted. Human realistic face. Wearing BROWN velvet bodysuit reindeer spots, fluffy tail. Pulling sleigh pose. PLEASER FLAMINGO-808 brown 8-inch platform heels. Snowy North Pole. Sensual reindeer pose. Expression: lead the way. Reindeer girl. Seductive glamour photography, snowy sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional reindeer photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with reindeer antlers headband. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED NOSE painted. Human realistic face. Wearing BROWN velvet bodysuit reindeer spots, fluffy tail. Pulling sleigh pose. PLEASER FLAMINGO-808 brown 8-inch platform heels. Snowy North Pole. Sensual reindeer pose. Expression: lead the way. Reindeer girl. Seductive glamour photography, snowy sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 89: 12. Miss Doll - Nutcracker Ballerina
 
 ```text
-Professional ballet photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Sugar Plum Fairy tutu costume, tiara. Ballet pose en pointe. Nutcracker beside. PLEASER FLAMINGO-808 removed, ballet slippers pink. Nutcracker stage. Sensual ballet pose. Expression: sugarplum dreams. Nutcracker. Seductive glamour photography, stage spotlight lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ballet photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in ballet bun. Flawless porcelain skin dancer glow. HEAVY GLAMOUR MAKEUP: dramatic stage eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK Sugar Plum Fairy tutu costume, tiara. Ballet pose en pointe. Nutcracker beside. PLEASER FLAMINGO-808 removed, ballet slippers pink. Nutcracker stage. Sensual ballet pose. Expression: sugarplum dreams. Nutcracker. Seductive glamour photography, stage spotlight lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 88: 13. Miss Doll - Mistletoe Waiting
 
 ```text
-Professional mistletoe photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin hopeful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips puckered. Human realistic face. Wearing WHITE and RED holiday dress festive. Standing under mistletoe, pointing up, waiting for kiss. PLEASER FLAMINGO-808 red 8-inch platform heels. Doorway decorated. Sensual waiting pose. Expression: kiss me. Mistletoe. Seductive glamour photography, doorway romantic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mistletoe photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin hopeful. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips puckered. Human realistic face. Wearing WHITE and RED holiday dress festive. Standing under mistletoe, pointing up, waiting for kiss. PLEASER FLAMINGO-808 red 8-inch platform heels. Doorway decorated. Sensual waiting pose. Expression: kiss me. Mistletoe. Seductive glamour photography, doorway romantic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 87: 14. Miss Doll - New Year's Kiss Countdown
 
 ```text
-Professional New Year photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in party favor tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing GOLD sequin mini dress New Year's Eve. Champagne in hand about to kiss. Clock showing 11:59. PLEASER FLAMINGO-808 gold 8-inch platform heels. NYE party. Sensual countdown pose. Expression: 3, 2, 1. NYE countdown. Seductive glamour photography, party confetti lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional New Year photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) in party favor tiara. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes with glitter, thick winged eyeliner, long false lashes, arched brows, full glossy GOLD lips. Human realistic face. Wearing GOLD sequin mini dress New Year's Eve. Champagne in hand about to kiss. Clock showing 11:59. PLEASER FLAMINGO-808 gold 8-inch platform heels. NYE party. Sensual countdown pose. Expression: 3, 2, 1. NYE countdown. Seductive glamour photography, party confetti lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 86: 15. Miss Doll - Sleigh Ride
 
 ```text
-Professional sleigh photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under winter hat. Flawless porcelain skin cold flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK faux fur coat open, pink sweater dress. Riding in one-horse open sleigh. Snow falling. PLEASER FLAMINGO-808 pink snow boots. Winter forest. Sensual sleigh pose. Expression: jingle bells. Sleigh ride. Seductive glamour photography, snowy forest lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sleigh photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under winter hat. Flawless porcelain skin cold flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK faux fur coat open, pink sweater dress. Riding in one-horse open sleigh. Snow falling. PLEASER FLAMINGO-808 pink snow boots. Winter forest. Sensual sleigh pose. Expression: jingle bells. Sleigh ride. Seductive glamour photography, snowy forest lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 85: 16. Miss Doll - Present Bow Bikini
 
 ```text
-Professional minimal photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only GIANT RED ribbon bows in bikini formation covering body. Under Christmas tree. Gift tag attached reads "To: You". PLEASER FLAMINGO-808 red 8-inch platform heels. Tree setting. Sensual gift pose. Expression: special delivery. Bow bikini. Seductive glamour photography, tree glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional minimal photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing only GIANT RED ribbon bows in bikini formation covering body. Under Christmas tree. Gift tag attached reads "To: You". PLEASER FLAMINGO-808 red 8-inch platform heels. Tree setting. Sensual gift pose. Expression: special delivery. Bow bikini. Seductive glamour photography, tree glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 84: 17. Miss Doll - Snowball Fight
 
 ```text
-Professional action photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin winter pink. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK puffer jacket short, white leggings. Throwing snowball playfully at camera. Snow exploding. PLEASER FLAMINGO-808 pink snow boots. Winter park. Sensual playful pose. Expression: take that. Snowball. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional action photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wind effect. Flawless porcelain skin winter pink. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips laughing. Human realistic face. Wearing PINK puffer jacket short, white leggings. Throwing snowball playfully at camera. Snow exploding. PLEASER FLAMINGO-808 pink snow boots. Winter park. Sensual playful pose. Expression: take that. Snowball. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 83: 18. Miss Doll - Holiday Baking
 
 ```text
-Professional baking photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with flour dusting. Flawless porcelain skin kitchen warm. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK apron only, nothing visible underneath. Baking Christmas cookies, flour mess, cookie cutters. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: taste test. Holiday baking. Seductive glamour photography, kitchen warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional baking photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) with flour dusting. Flawless porcelain skin kitchen warm. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK apron only, nothing visible underneath. Baking Christmas cookies, flour mess, cookie cutters. PLEASER FLAMINGO-808 pink 8-inch platform heels. Christmas kitchen. Sensual baking pose. Expression: taste test. Holiday baking. Seductive glamour photography, kitchen warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 82: 19. Miss Doll - Ornament Hanging
 
 ```text
-Professional decorating photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin holiday glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SHORT holiday sweater dress reaching up to hang ornament. Ladder pose, leg extended. Tree ornament in hand. PLEASER FLAMINGO-808 red 8-inch platform heels on ladder. Christmas tree. Sensual reaching pose. Expression: perfect spot. Decorating. Seductive glamour photography, tree sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional decorating photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin holiday glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing SHORT holiday sweater dress reaching up to hang ornament. Ladder pose, leg extended. Tree ornament in hand. PLEASER FLAMINGO-808 red 8-inch platform heels on ladder. Christmas tree. Sensual reaching pose. Expression: perfect spot. Decorating. Seductive glamour photography, tree sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 81: 20. Miss Doll - Mrs. Claus Young
 
 ```text
-Professional Mrs. Claus photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white wig. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED velvet Mrs. Claus gown modern sexy version, white fur trim. In North Pole house. Santa's chair nearby. PLEASER FLAMINGO-808 red 8-inch platform heels. North Pole home. Sensual Mrs. Claus pose. Expression: while Santa's away. Mrs. Claus. Seductive glamour photography, cozy North Pole lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Mrs. Claus photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) under white wig. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing RED velvet Mrs. Claus gown modern sexy version, white fur trim. In North Pole house. Santa's chair nearby. PLEASER FLAMINGO-808 red 8-inch platform heels. North Pole home. Sensual Mrs. Claus pose. Expression: while Santa's away. Mrs. Claus. Seductive glamour photography, cozy North Pole lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🦇 II. HELENA — DARK CHRISTMAS (15 PROMPTS)
+## ?? II. HELENA � DARK CHRISTMAS (15 PROMPTS)
 
 ### Prompt 80: 21. Helena - Krampus Bride
 
 ```text
-Professional Krampus photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with devil horns. Pale porcelain white skin scary beautiful. Full glossy black lips menacing. Wearing BLACK and RED Krampus inspired gown, chains, dark fur. Holding birch branches. Snow falling. PLEASER RAPTURE-1020 black 8-inch boots with chains. Alpine setting. Sensual Krampus pose. Expression: naughty children beware. Krampus bride. Seductive glamour photography, dark winter lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Krampus photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair with devil horns. Pale porcelain white skin scary beautiful. Full glossy black lips menacing. Wearing BLACK and RED Krampus inspired gown, chains, dark fur. Holding birch branches. Snow falling. PLEASER RAPTURE-1020 black 8-inch boots with chains. Alpine setting. Sensual Krampus pose. Expression: naughty children beware. Krampus bride. Seductive glamour photography, dark winter lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 79: 22. Helena - Gothic Christmas Tree
 
 ```text
-Professional tree photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair decorated like tree with ornaments. Pale porcelain white skin tree star. Full glossy silver lips. Wearing BLACK gown Christmas tree shape, BLACK ornaments, silver tinsel. IS the Christmas tree pose. Star on head. PLEASER RAPTURE-1020 black 8-inch boots base of tree. Living room. Sensual tree pose. Expression: dark decoration. Gothic tree. Seductive glamour photography, dark tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tree photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair decorated like tree with ornaments. Pale porcelain white skin tree star. Full glossy silver lips. Wearing BLACK gown Christmas tree shape, BLACK ornaments, silver tinsel. IS the Christmas tree pose. Star on head. PLEASER RAPTURE-1020 black 8-inch boots base of tree. Living room. Sensual tree pose. Expression: dark decoration. Gothic tree. Seductive glamour photography, dark tree lights lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 78: 23. Helena - Black Ice Queen
 
 ```text
-Professional ice queen photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen ice crown. Pale porcelain white skin ice cold blue tint. Full glossy blue lips frozen. Wearing BLACK and SILVER ice gown, icicle details, frozen cape. Ice palace throne. PLEASER RAPTURE-1020 silver 8-inch boots ice detail. Ice palace. Sensual ice queen pose. Expression: winter is mine. Ice queen. Seductive glamour photography, icy blue lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ice queen photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen ice crown. Pale porcelain white skin ice cold blue tint. Full glossy blue lips frozen. Wearing BLACK and SILVER ice gown, icicle details, frozen cape. Ice palace throne. PLEASER RAPTURE-1020 silver 8-inch boots ice detail. Ice palace. Sensual ice queen pose. Expression: winter is mine. Ice queen. Seductive glamour photography, icy blue lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 77: 24. Helena - Christmas Eve Ghost
 
 ```text
-Professional ghost photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ghostly floating. Pale porcelain white skin transparent effect. Full glossy gray lips ghost. Wearing WHITE Victorian nightgown ghostly, chains like Marley. Floating through Victorian Christmas scene. PLEASER RAPTURE-1020 white 8-inch boots ghostly. Victorian parlor Christmas. Sensual ghost pose. Expression: Christmas past. Holiday ghost. Seductive glamour photography, ghostly ethereal lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ghost photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ghostly floating. Pale porcelain white skin transparent effect. Full glossy gray lips ghost. Wearing WHITE Victorian nightgown ghostly, chains like Marley. Floating through Victorian Christmas scene. PLEASER RAPTURE-1020 white 8-inch boots ghostly. Victorian parlor Christmas. Sensual ghost pose. Expression: Christmas past. Holiday ghost. Seductive glamour photography, ghostly ethereal lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 76: 25. Helena - Naughty List Queen
 
 ```text
-Professional naughty photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin sinful. Full glossy blood red lips. Wearing BLACK Santa dress revealing, coal as accessories. Holding long naughty list with many names. Evil grin. PLEASER RAPTURE-1020 black 8-inch boots. Dark workshop. Sensual naughty pose. Expression: you've been very naughty. Naughty list. Seductive glamour photography, dark Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional naughty photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin sinful. Full glossy blood red lips. Wearing BLACK Santa dress revealing, coal as accessories. Holding long naughty list with many names. Evil grin. PLEASER RAPTURE-1020 black 8-inch boots. Dark workshop. Sensual naughty pose. Expression: you've been very naughty. Naughty list. Seductive glamour photography, dark Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 75: 26. Helena - Dark Angel Tree Topper
 
 ```text
-Professional tree topper photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair halo effect. Pale porcelain white skin angelic dark. Full glossy black cherry lips. Wearing BLACK angel gown, BLACK wings spread. Posing as tree topper on step ladder top. Tree below. PLEASER RAPTURE-1020 black 8-inch heels on tree top. Christmas tree. Sensual angel pose. Expression: dark star. Dark tree topper. Seductive glamour photography, tree star lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tree topper photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair halo effect. Pale porcelain white skin angelic dark. Full glossy black cherry lips. Wearing BLACK angel gown, BLACK wings spread. Posing as tree topper on step ladder top. Tree below. PLEASER RAPTURE-1020 black 8-inch heels on tree top. Christmas tree. Sensual angel pose. Expression: dark star. Dark tree topper. Seductive glamour photography, tree star lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 74: 27. Helena - Gothic Snowflake
 
 ```text
-Professional snowflake photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair snowflake hairpiece. Pale porcelain white skin snowflake pale. Full glossy silver lips. Wearing BLACK and SILVER intricate dress snowflake pattern. Snow surrounding. Frozen in snowflake pose. PLEASER RAPTURE-1020 silver 8-inch boots. Snowy forest. Sensual snowflake pose. Expression: unique darkness. Snowflake. Seductive glamour photography, snow sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snowflake photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair snowflake hairpiece. Pale porcelain white skin snowflake pale. Full glossy silver lips. Wearing BLACK and SILVER intricate dress snowflake pattern. Snow surrounding. Frozen in snowflake pose. PLEASER RAPTURE-1020 silver 8-inch boots. Snowy forest. Sensual snowflake pose. Expression: unique darkness. Snowflake. Seductive glamour photography, snow sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 73: 28. Helena - Midnight Mass
 
 ```text
-Professional mass photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black lace veil. Pale porcelain white skin candlelit. Full glossy wine lips. Wearing BLACK velvet Christmas dress conservative length. At midnight mass, holding candle. Church Christmas decorations. PLEASER RAPTURE-1020 black 8-inch heels. Church Christmas. Sensual prayer pose. Expression: silent night. Midnight mass. Seductive glamour photography, candlelight mass lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional mass photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black lace veil. Pale porcelain white skin candlelit. Full glossy wine lips. Wearing BLACK velvet Christmas dress conservative length. At midnight mass, holding candle. Church Christmas decorations. PLEASER RAPTURE-1020 black 8-inch heels. Church Christmas. Sensual prayer pose. Expression: silent night. Midnight mass. Seductive glamour photography, candlelight mass lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 72: 29. Helena - Winter Solstice Witch
 
 ```text
-Professional solstice photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual style. Pale porcelain white skin moonlit. Full glossy black lips. Wearing BLACK ritual robes winter solstice, holly and ivy crown. Fire ritual in snow. Longest night celebration. PLEASER RAPTURE-1020 black 8-inch boots. Snowy ritual circle. Sensual ritual pose. Expression: welcoming darkness. Solstice witch. Seductive glamour photography, fire and moon lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional solstice photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ritual style. Pale porcelain white skin moonlit. Full glossy black lips. Wearing BLACK ritual robes winter solstice, holly and ivy crown. Fire ritual in snow. Longest night celebration. PLEASER RAPTURE-1020 black 8-inch boots. Snowy ritual circle. Sensual ritual pose. Expression: welcoming darkness. Solstice witch. Seductive glamour photography, fire and moon lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 71: 30. Helena - Dark Nutcracker
 
 ```text
-Professional nutcracker photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair military styled. Pale porcelain white skin toy soldier. Full glossy red lips toy soldier circles. Wearing BLACK nutcracker uniform feminine version, epaulettes, gold buttons. Giant BLACK nutcracker head beside. PLEASER RAPTURE-1020 black 8-inch boots military. Nutcracker stage. Sensual soldier pose. Expression: march of darkness. Dark nutcracker. Seductive glamour photography, stage dramatic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional nutcracker photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair military styled. Pale porcelain white skin toy soldier. Full glossy red lips toy soldier circles. Wearing BLACK nutcracker uniform feminine version, epaulettes, gold buttons. Giant BLACK nutcracker head beside. PLEASER RAPTURE-1020 black 8-inch boots military. Nutcracker stage. Sensual soldier pose. Expression: march of darkness. Dark nutcracker. Seductive glamour photography, stage dramatic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 70: 31. Helena - Yule Log Fire
 
 ```text
-Professional fire photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair firelight. Pale porcelain white skin fire glow. Full glossy dark cherry lips wine stained. Wearing BLACK velvet loungewear. Lying by fire with yule log burning. Wine glass. PLEASER RAPTURE-1020 black 8-inch boots by fire. Cabin hearth. Sensual firelight pose. Expression: burn bright. Yule log. Seductive glamour photography, fire warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fire photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair firelight. Pale porcelain white skin fire glow. Full glossy dark cherry lips wine stained. Wearing BLACK velvet loungewear. Lying by fire with yule log burning. Wine glass. PLEASER RAPTURE-1020 black 8-inch boots by fire. Cabin hearth. Sensual firelight pose. Expression: burn bright. Yule log. Seductive glamour photography, fire warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 69: 32. Helena - Black Stocking
 
 ```text
-Professional stocking photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy red lips. Wearing BLACK Christmas lingerie. Emerging from giant BLACK Christmas stocking hung by fireplace. Surprised expression. PLEASER RAPTURE-1020 black 8-inch heels one still inside. Fireplace mantle. Sensual emerging pose. Expression: special surprise. Black stocking. Seductive glamour photography, fireplace dramatic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stocking photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair. Pale porcelain white skin. Full glossy red lips. Wearing BLACK Christmas lingerie. Emerging from giant BLACK Christmas stocking hung by fireplace. Surprised expression. PLEASER RAPTURE-1020 black 8-inch heels one still inside. Fireplace mantle. Sensual emerging pose. Expression: special surprise. Black stocking. Seductive glamour photography, fireplace dramatic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 68: 33. Helena - Gothic Caroler
 
 ```text
-Professional caroling photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under Victorian bonnet. Pale porcelain white skin winter. Full glossy burgundy lips singing. Wearing BLACK Victorian caroler gown, fur muff. Holding carol book singing. Snow falling. PLEASER RAPTURE-1020 black 8-inch boots Victorian. Victorian street Christmas. Sensual caroling pose. Expression: dark carols. Gothic caroler. Seductive glamour photography, gaslight Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional caroling photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under Victorian bonnet. Pale porcelain white skin winter. Full glossy burgundy lips singing. Wearing BLACK Victorian caroler gown, fur muff. Holding carol book singing. Snow falling. PLEASER RAPTURE-1020 black 8-inch boots Victorian. Victorian street Christmas. Sensual caroling pose. Expression: dark carols. Gothic caroler. Seductive glamour photography, gaslight Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 67: 34. Helena - Anti-Santa
 
 ```text
-Professional anti photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black Santa hat. Pale porcelain white skin. Full glossy black lips. Wearing BLACK Santa suit inverted, silver fur trim. Empty sack for taking gifts. Naughty pose. PLEASER RAPTURE-1020 black 8-inch boots. Chimney rooftop. Sensual anti pose. Expression: taking back Christmas. Anti-Santa. Seductive glamour photography, dark rooftop lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional anti photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black Santa hat. Pale porcelain white skin. Full glossy black lips. Wearing BLACK Santa suit inverted, silver fur trim. Empty sack for taking gifts. Naughty pose. PLEASER RAPTURE-1020 black 8-inch boots. Chimney rooftop. Sensual anti pose. Expression: taking back Christmas. Anti-Santa. Seductive glamour photography, dark rooftop lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 66: 35. Helena - Frozen Beauty
 
 ```text
-Professional frozen photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen solid with icicles. Pale porcelain white skin frost covered. Full glossy blue lips frozen. Wearing BLACK gown frozen to body, ice crystals. Frozen in ice sculpture pose. Winter storm behind. PLEASER RAPTURE-1020 icy 8-inch boots. Ice landscape. Sensual frozen pose. Expression: eternally winter. Frozen beauty. Seductive glamour photography, frozen blue lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional frozen photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen solid with icicles. Pale porcelain white skin frost covered. Full glossy blue lips frozen. Wearing BLACK gown frozen to body, ice crystals. Frozen in ice sculpture pose. Winter storm behind. PLEASER RAPTURE-1020 icy 8-inch boots. Ice landscape. Sensual frozen pose. Expression: eternally winter. Frozen beauty. Seductive glamour photography, frozen blue lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 👯 III. DUO — HOLIDAY PAIRS (15 PROMPTS)
+## ?? III. DUO � HOLIDAY PAIRS (15 PROMPTS)
 
 ### Prompt 65: 36. Duo - Under Mistletoe
 
@@ -307,7 +307,7 @@ Professional caroling duo photography. HELENA: Sacha Massacre look in black Vict
 ### Prompt 61: 40. Duo - Ski Lodge Fire
 
 ```text
-Professional lodge duo photography. HELENA: Sacha Massacre look in black ski sweater, by fire, hot cocoa, black boots removed. MISS DOLL: platinum blonde in pink ski sweater, HEAVY GLAMOUR MAKEUP, by fire leaning on Helena, pink boots removed. Ski lodge fireplace. Après-ski cozy. Sensual cozy pose. Expression: warm up time. Lodge duo. Seductive glamour photography, fireplace lodge lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional lodge duo photography. HELENA: Sacha Massacre look in black ski sweater, by fire, hot cocoa, black boots removed. MISS DOLL: platinum blonde in pink ski sweater, HEAVY GLAMOUR MAKEUP, by fire leaning on Helena, pink boots removed. Ski lodge fireplace. Apr�s-ski cozy. Sensual cozy pose. Expression: warm up time. Lodge duo. Seductive glamour photography, fireplace lodge lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 60: 41. Duo - Gift Exchange
@@ -372,195 +372,195 @@ Professional ball duo photography. HELENA: Sacha Massacre look in BLACK Christma
 
 ---
 
-## 🎄 IV. MISS DOLL — PINK CHRISTMAS SENSUAL (15 PROMPTS)
+## ?? IV. MISS DOLL � PINK CHRISTMAS SENSUAL (15 PROMPTS)
 
 ### Prompt 50: 51. Miss Doll - Pink Stocking Emerge
 
 ```text
-Professional stocking photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin holiday surprise. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes holiday glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK Christmas stocking hung by fireplace. Wearing RED lingerie as outfit. PLEASER FLAMINGO-808 red 8-inch platform heels. Fireplace Christmas. Sensual emerge pose. Expression: Santa's gift. Stocking reveal. Seductive glamour photography, fireplace glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional stocking photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin holiday surprise. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes holiday glitter, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Emerging from giant PINK Christmas stocking hung by fireplace. Wearing RED lingerie as outfit. PLEASER FLAMINGO-808 red 8-inch platform heels. Fireplace Christmas. Sensual emerge pose. Expression: Santa's gift. Stocking reveal. Seductive glamour photography, fireplace glow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 52. Miss Doll - Christmas Eve Window
 
 ```text
-Professional window photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin moonlight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE satin nightgown winter, looking out window at snow. Waiting for Christmas morning. PLEASER FLAMINGO-808 pink fuzzy slippers. Bedroom window. Sensual waiting pose. Expression: Santa coming? Christmas Eve. Seductive glamour photography, moonlit snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional window photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin moonlight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing WHITE satin nightgown winter, looking out window at snow. Waiting for Christmas morning. PLEASER FLAMINGO-808 pink fuzzy slippers. Bedroom window. Sensual waiting pose. Expression: Santa coming? Christmas Eve. Seductive glamour photography, moonlit snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 53. Miss Doll - Hot Tub Winter
 
 ```text
-Professional hot tub photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) wet steam effect. Flawless porcelain skin steam glow. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. In outdoor hot tub, snow falling around. PINK bikini visible. Champagne in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels by tub edge. Snowy deck. Sensual hot tub pose. Expression: winter warmth. Hot tub winter. Seductive glamour photography, steam and snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional hot tub photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) wet steam effect. Flawless porcelain skin steam glow. HEAVY GLAMOUR MAKEUP waterproof: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. In outdoor hot tub, snow falling around. PINK bikini visible. Champagne in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels by tub edge. Snowy deck. Sensual hot tub pose. Expression: winter warmth. Hot tub winter. Seductive glamour photography, steam and snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 54. Miss Doll - Gift Wrapping Disaster
 
 ```text
-Professional chaos photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) frustrated cute. Flawless porcelain skin effort flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips pouting. Human realistic face. Tangled in ribbon and wrapping paper trying to wrap gift. PINK outfit visible through tangled ribbons. PLEASER FLAMINGO-808 pink 8-inch platform heels. Wrapping room chaos. Sensual tangled pose. Expression: help! Wrapping disaster. Seductive glamour photography, chaos warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chaos photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) frustrated cute. Flawless porcelain skin effort flush. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips pouting. Human realistic face. Tangled in ribbon and wrapping paper trying to wrap gift. PINK outfit visible through tangled ribbons. PLEASER FLAMINGO-808 pink 8-inch platform heels. Wrapping room chaos. Sensual tangled pose. Expression: help! Wrapping disaster. Seductive glamour photography, chaos warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 55. Miss Doll - Advent Calendar
 
 ```text
-Professional calendar photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin anticipation. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Opening door 24 on giant life-size advent calendar. SHE is the surprise inside. PINK outfit. PLEASER FLAMINGO-808 pink 8-inch platform heels. Giant advent calendar. Sensual reveal pose. Expression: final surprise. Advent reveal. Seductive glamour photography, advent magic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional calendar photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin anticipation. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Opening door 24 on giant life-size advent calendar. SHE is the surprise inside. PINK outfit. PLEASER FLAMINGO-808 pink 8-inch platform heels. Giant advent calendar. Sensual reveal pose. Expression: final surprise. Advent reveal. Seductive glamour photography, advent magic lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 56. Miss Doll - Christmas Tree Farm
 
 ```text
-Professional farm photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) under winter hat. Flawless porcelain skin outdoor fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK puffy winter jacket, selecting perfect tree at tree farm. Saw in hand. PLEASER FLAMINGO-808 pink snow boots. Christmas tree lot. Sensual selection pose. Expression: this one perfect. Tree farm. Seductive glamour photography, snowy outdoor lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional farm photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) under winter hat. Flawless porcelain skin outdoor fresh. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK puffy winter jacket, selecting perfect tree at tree farm. Saw in hand. PLEASER FLAMINGO-808 pink snow boots. Christmas tree lot. Sensual selection pose. Expression: this one perfect. Tree farm. Seductive glamour photography, snowy outdoor lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 57. Miss Doll - Holiday Office Party
 
 ```text
-Professional party photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) Santa hat tilted. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes festive, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cocktail dress festive at office party. By watercooler flirting with coworker implied. PLEASER FLAMINGO-808 red 8-inch platform heels. Office decorated Christmas. Sensual party pose. Expression: office secret Santa. Party girl. Seductive glamour photography, office party lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional party photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) Santa hat tilted. Flawless porcelain skin party glow. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes festive, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Wearing PINK cocktail dress festive at office party. By watercooler flirting with coworker implied. PLEASER FLAMINGO-808 red 8-inch platform heels. Office decorated Christmas. Sensual party pose. Expression: office secret Santa. Party girl. Seductive glamour photography, office party lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 58. Miss Doll - Ugly Sweater Sexy
 
 ```text
-Professional sweater photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin cozy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing UGLY Christmas sweater but making it sexy, cropped short, paired with tiny shorts. Wine in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Ugly sweater party. Sensual ugly cute pose. Expression: ugly never looked better. Ugly sweater. Seductive glamour photography, party home lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional sweater photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin cozy. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing UGLY Christmas sweater but making it sexy, cropped short, paired with tiny shorts. Wine in hand. PLEASER FLAMINGO-808 pink 8-inch platform heels. Ugly sweater party. Sensual ugly cute pose. Expression: ugly never looked better. Ugly sweater. Seductive glamour photography, party home lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 59. Miss Doll - Snow Globe Inside
 
 ```text
-Professional fantasy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin magical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes sparkle, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. INSIDE a giant snow globe, wearing PINK winter fairy outfit. Snow swirling around her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Snow globe world. Sensual fairy pose. Expression: make a wish. Snow globe fairy. Seductive glamour photography, magical sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional fantasy photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin magical. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes sparkle, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. INSIDE a giant snow globe, wearing PINK winter fairy outfit. Snow swirling around her. PLEASER FLAMINGO-808 pink 8-inch platform heels. Snow globe world. Sensual fairy pose. Expression: make a wish. Snow globe fairy. Seductive glamour photography, magical sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 60. Miss Doll - Christmas Catalog Model
 
 ```text
-Professional catalog photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin catalog perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Posing as Christmas lingerie catalog model, PINK lace holiday set. Multiple poses composite style. Price tag visible joke. PLEASER FLAMINGO-808 pink 8-inch platform heels. Studio catalog shoot. Sensual catalog pose. Expression: page 24. Catalog model. Seductive glamour photography, catalog studio lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional catalog photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin catalog perfect. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Posing as Christmas lingerie catalog model, PINK lace holiday set. Multiple poses composite style. Price tag visible joke. PLEASER FLAMINGO-808 pink 8-inch platform heels. Studio catalog shoot. Sensual catalog pose. Expression: page 24. Catalog model. Seductive glamour photography, catalog studio lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 40: 61. Miss Doll - Pink Snowmobile
 
 ```text
-Professional snowmobile photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) under helmet. Flawless porcelain skin adventure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Riding PINK snowmobile through winter wonderland. PINK winter gear fitted. Snow spray behind. PLEASER removed, pink snow boots. Snowy trail. Sensual action pose. Expression: snow queen. Snowmobile girl. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snowmobile photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) under helmet. Flawless porcelain skin adventure. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Riding PINK snowmobile through winter wonderland. PINK winter gear fitted. Snow spray behind. PLEASER removed, pink snow boots. Snowy trail. Sensual action pose. Expression: snow queen. Snowmobile girl. Seductive glamour photography, action snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 39: 62. Miss Doll - Christmas Morning Coffee
 
 ```text
-Professional morning photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) messy cute. Flawless porcelain skin morning fresh. HEAVY GLAMOUR MAKEUP natural: light eyes, minimal liner, natural lashes, natural brows, full glossy NUDE lips. Human realistic face. Just woke up Christmas morning, barely dressed in oversized Christmas sweater only. Coffee mug "Nice List". PLEASER FLAMINGO-808 removed, fuzzy pink slippers. Morning tree glow. Sensual lazy pose. Expression: merry morning. Christmas morning. Seductive glamour photography, morning tree lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional morning photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) messy cute. Flawless porcelain skin morning fresh. HEAVY GLAMOUR MAKEUP natural: light eyes, minimal liner, natural lashes, natural brows, full glossy NUDE lips. Human realistic face. Just woke up Christmas morning, barely dressed in oversized Christmas sweater only. Coffee mug "Nice List". PLEASER FLAMINGO-808 removed, fuzzy pink slippers. Morning tree glow. Sensual lazy pose. Expression: merry morning. Christmas morning. Seductive glamour photography, morning tree lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 38: 63. Miss Doll - Pink Polar Bear
 
 ```text
-Professional costume photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs) in pink polar bear hood. Flawless porcelain skin cute. HEAVY GLAMOUR MAKEUP: dramatic eyes visible through costume, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK polar bear onesie kigurumi modified sexy short. Hugging polar bear plush. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Winter wonderland. Sensual bear pose. Expression: beary cute. Polar bear girl. Seductive glamour photography, cute kawaii lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional costume photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs) in pink polar bear hood. Flawless porcelain skin cute. HEAVY GLAMOUR MAKEUP: dramatic eyes visible through costume, thick winged eyeliner, long false lashes, arched brows, full glossy PINK lips. Human realistic face. Wearing PINK polar bear onesie kigurumi modified sexy short. Hugging polar bear plush. PLEASER FLAMINGO-808 pink 8-inch platform heels visible. Winter wonderland. Sensual bear pose. Expression: beary cute. Polar bear girl. Seductive glamour photography, cute kawaii lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 37: 64. Miss Doll - Champagne Pop
 
 ```text
-Professional champagne photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Popping champagne Christmas celebration, champagne spraying. Wearing PINK silk party dress. Laughing with champagne shower. PLEASER FLAMINGO-808 gold 8-inch platform heels. New Year Christmas party. Sensual celebration pose. Expression: celebrate! Champagne pop. Seductive glamour photography, champagne sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional champagne photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin celebration. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes, thick winged eyeliner, long false lashes, arched brows, full glossy RED lips. Human realistic face. Popping champagne Christmas celebration, champagne spraying. Wearing PINK silk party dress. Laughing with champagne shower. PLEASER FLAMINGO-808 gold 8-inch platform heels. New Year Christmas party. Sensual celebration pose. Expression: celebrate! Champagne pop. Seductive glamour photography, champagne sparkle lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 36: 65. Miss Doll - Fireplace Reading
 
 ```text
-Professional cozy photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin firelight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes warm tones, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Lying by fireplace reading "Twas the Night", PINK cashmere loungewear minimal. Fire crackling, Christmas stockings hung. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Cozy living room. Sensual reading pose. Expression: Christmas story. Fireplace reading. Seductive glamour photography, firelight warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cozy photography of woman 28+ years old mature glamorous with platinum blonde bob (no bangs). Flawless porcelain skin firelight. HEAVY GLAMOUR MAKEUP: dramatic smokey eyes warm tones, thick winged eyeliner, long false lashes, arched brows, full glossy NUDE lips. Human realistic face. Lying by fireplace reading "Twas the Night", PINK cashmere loungewear minimal. Fire crackling, Christmas stockings hung. PLEASER FLAMINGO-808 pink 8-inch platform heels beside. Cozy living room. Sensual reading pose. Expression: Christmas story. Fireplace reading. Seductive glamour photography, firelight warm lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 🦇 V. HELENA — DARK CHRISTMAS SENSUAL (15 PROMPTS)
+## ?? V. HELENA � DARK CHRISTMAS SENSUAL (15 PROMPTS)
 
 ### Prompt 35: 66. Helena - Gothic Yule
 
 ```text
-Professional yule photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair holly crown. Pale porcelain white skin yule glow. Full glossy dark cherry lips. Wearing BLACK Victorian yule gown holly pattern. At yule altar, candles lit, yule log burning. Ritual stance. PLEASER RAPTURE-1020 black 8-inch boots. Pagan yule setting. Sensual ritual pose. Expression: blessed yule. Yule queen. Seductive glamour photography, candlelight yule lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional yule photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair holly crown. Pale porcelain white skin yule glow. Full glossy dark cherry lips. Wearing BLACK Victorian yule gown holly pattern. At yule altar, candles lit, yule log burning. Ritual stance. PLEASER RAPTURE-1020 black 8-inch boots. Pagan yule setting. Sensual ritual pose. Expression: blessed yule. Yule queen. Seductive glamour photography, candlelight yule lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 34: 67. Helena - Dark Elf Queen
 
 ```text
-Professional dark elf photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under dark elf crown. Pale porcelain white skin elf glow. Full glossy black lips. Wearing BLACK and SILVER dark elf armor feminine, commanding dark elves. Workshop of dark gifts. PLEASER RAPTURE-1020 black 8-inch boots elf pointed. Dark workshop. Sensual commander pose. Expression: dark gifts for dark souls. Dark elf queen. Seductive glamour photography, dark workshop lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional dark elf photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under dark elf crown. Pale porcelain white skin elf glow. Full glossy black lips. Wearing BLACK and SILVER dark elf armor feminine, commanding dark elves. Workshop of dark gifts. PLEASER RAPTURE-1020 black 8-inch boots elf pointed. Dark workshop. Sensual commander pose. Expression: dark gifts for dark souls. Dark elf queen. Seductive glamour photography, dark workshop lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 33: 68. Helena - Black Widow Christmas
 
 ```text
-Professional widow photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair widow veil. Pale porcelain white skin grieving beautiful. Full glossy black lips mourning. Wearing BLACK elegant Christmas dress widow style. Alone by Christmas tree, single black ornament. Wine glass. PLEASER RAPTURE-1020 black 8-inch heels. Victorian parlor Christmas. Sensual mourning pose. Expression: memories of Christmas past. Black widow. Seductive glamour photography, melancholic Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional widow photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair widow veil. Pale porcelain white skin grieving beautiful. Full glossy black lips mourning. Wearing BLACK elegant Christmas dress widow style. Alone by Christmas tree, single black ornament. Wine glass. PLEASER RAPTURE-1020 black 8-inch heels. Victorian parlor Christmas. Sensual mourning pose. Expression: memories of Christmas past. Black widow. Seductive glamour photography, melancholic Christmas lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 32: 69. Helena - Krampusnacht
 
 ```text
-Professional Krampusnacht photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with horns. Pale porcelain white skin terrifying beautiful. Full glossy red lips. Wearing KRAMPUS inspired costume fur and chains, birch bundle. Chasing naughty souls through snow. PLEASER RAPTURE-1020 black 8-inch boots demon style. Alpine village night. Sensual chase pose. Expression: running won't save you. Krampusnacht. Seductive glamour photography, torchlit horror lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional Krampusnacht photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair wild with horns. Pale porcelain white skin terrifying beautiful. Full glossy red lips. Wearing KRAMPUS inspired costume fur and chains, birch bundle. Chasing naughty souls through snow. PLEASER RAPTURE-1020 black 8-inch boots demon style. Alpine village night. Sensual chase pose. Expression: running won't save you. Krampusnacht. Seductive glamour photography, torchlit horror lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 31: 70. Helena - Black Christmas Tree
 
 ```text
-Professional tree photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair star topper. Pale porcelain white skin tree light glow. Full glossy silver lips. Standing INSIDE a black Christmas tree shape dress, becoming the tree. Black ornaments, silver tinsel. Living art. PLEASER RAPTURE-1020 black 8-inch boots tree base. Dark living room. Sensual tree pose. Expression: dark decoration. Black tree. Seductive glamour photography, tree spot lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional tree photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair star topper. Pale porcelain white skin tree light glow. Full glossy silver lips. Standing INSIDE a black Christmas tree shape dress, becoming the tree. Black ornaments, silver tinsel. Living art. PLEASER RAPTURE-1020 black 8-inch boots tree base. Dark living room. Sensual tree pose. Expression: dark decoration. Black tree. Seductive glamour photography, tree spot lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 30: 71. Helena - Coal Gift
 
 ```text
-Professional coal photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair coal dust. Pale porcelain white skin coal smudged artistic. Full glossy black lips. Wearing BLACK outfit with coal accessories. Delivering coal to naughty children from black sack. Evil grin. PLEASER RAPTURE-1020 black 8-inch boots. Chimney rooftop. Sensual delivery pose. Expression: you've been naughty. Coal deliverer. Seductive glamour photography, chimney dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional coal photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair coal dust. Pale porcelain white skin coal smudged artistic. Full glossy black lips. Wearing BLACK outfit with coal accessories. Delivering coal to naughty children from black sack. Evil grin. PLEASER RAPTURE-1020 black 8-inch boots. Chimney rooftop. Sensual delivery pose. Expression: you've been naughty. Coal deliverer. Seductive glamour photography, chimney dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 29: 72. Helena - Gothic Snow Queen
 
 ```text
-Professional snow queen photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ice crystals throughout. Pale porcelain white skin frozen perfection. Full glossy ice blue lips. Wearing BLACK and ICE gown snow queen style, cape of frost. Ice palace throne. Frozen staff. PLEASER RAPTURE-1020 ice silver 8-inch boots. Ice kingdom. Sensual queen pose. Expression: eternal winter. Snow queen. Seductive glamour photography, icy blue crystal lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snow queen photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ice crystals throughout. Pale porcelain white skin frozen perfection. Full glossy ice blue lips. Wearing BLACK and ICE gown snow queen style, cape of frost. Ice palace throne. Frozen staff. PLEASER RAPTURE-1020 ice silver 8-inch boots. Ice kingdom. Sensual queen pose. Expression: eternal winter. Snow queen. Seductive glamour photography, icy blue crystal lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 28: 73. Helena - Black Santa Chimney
 
 ```text
-Professional chimney photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black Santa hat. Pale porcelain white skin soot artistic. Full glossy red lips. Wearing BLACK Santa bodysuit. Climbing INTO chimney to steal presents reverse Santa. Mischievous pose. PLEASER RAPTURE-1020 black 8-inch boots entering chimney. Rooftop night. Sensual climb pose. Expression: taking back. Black Santa. Seductive glamour photography, rooftop moonlit lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional chimney photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair under black Santa hat. Pale porcelain white skin soot artistic. Full glossy red lips. Wearing BLACK Santa bodysuit. Climbing INTO chimney to steal presents reverse Santa. Mischievous pose. PLEASER RAPTURE-1020 black 8-inch boots entering chimney. Rooftop night. Sensual climb pose. Expression: taking back. Black Santa. Seductive glamour photography, rooftop moonlit lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 27: 74. Helena - Gothic Gingerbread Witch
 
 ```text
-Professional witch photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair witch style. Pale porcelain white skin green tint. Full glossy black lips. Wearing BLACK witch gown with candy accents. At gothic black gingerbread house in forest, luring pose. Oven hot behind. PLEASER RAPTURE-1020 black 8-inch boots witch. Dark candy forest. Sensual lure pose. Expression: come taste. Gingerbread witch. Seductive glamour photography, oven fire dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional witch photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair witch style. Pale porcelain white skin green tint. Full glossy black lips. Wearing BLACK witch gown with candy accents. At gothic black gingerbread house in forest, luring pose. Oven hot behind. PLEASER RAPTURE-1020 black 8-inch boots witch. Dark candy forest. Sensual lure pose. Expression: come taste. Gingerbread witch. Seductive glamour photography, oven fire dark lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 26: 75. Helena - Black Snowflake
 
 ```text
-Professional snowflake photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen perfection. Pale porcelain white skin snowflake pale. Full glossy silver lips. Wearing BLACK intricate snowflake gown dress is snowflake pattern. Catching snowflakes on tongue, snow falling. PLEASER RAPTURE-1020 silver 8-inch boots. Snowy night. Sensual snowflake pose. Expression: unique as darkness. Black snowflake. Seductive glamour photography, snow night lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional snowflake photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair frozen perfection. Pale porcelain white skin snowflake pale. Full glossy silver lips. Wearing BLACK intricate snowflake gown dress is snowflake pattern. Catching snowflakes on tongue, snow falling. PLEASER RAPTURE-1020 silver 8-inch boots. Snowy night. Sensual snowflake pose. Expression: unique as darkness. Black snowflake. Seductive glamour photography, snow night lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 25: 76. Helena - Haunted Christmas Carol
 
 ```text
-Professional ghost photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ghostly floating. Pale porcelain white skin transparent. Full glossy gray lips spectral. Wearing Victorian WHITE nightgown ghost of Christmas future style. Pointing at gravestone in snow. Warning pose. PLEASER RAPTURE-1020 white ghostly 8-inch boots. Snowy graveyard. Sensual warning pose. Expression: change or be forgotten. Christmas ghost. Seductive glamour photography, ghostly snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional ghost photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair ghostly floating. Pale porcelain white skin transparent. Full glossy gray lips spectral. Wearing Victorian WHITE nightgown ghost of Christmas future style. Pointing at gravestone in snow. Warning pose. PLEASER RAPTURE-1020 white ghostly 8-inch boots. Snowy graveyard. Sensual warning pose. Expression: change or be forgotten. Christmas ghost. Seductive glamour photography, ghostly snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 24: 77. Helena - Black Cat Christmas
 
 ```text
-Professional cat photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cat ears hidden within. Pale porcelain white skin catlike. Full glossy black lips. Wearing BLACK cat bodysuit sleek, cat tail. Knocking ornaments off Christmas tree cat-style. Mischief pose. PLEASER RAPTURE-1020 black 8-inch boots. By Christmas tree. Sensual cat pose. Expression: oops. Christmas cat. Seductive glamour photography, tree light mischief lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cat photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cat ears hidden within. Pale porcelain white skin catlike. Full glossy black lips. Wearing BLACK cat bodysuit sleek, cat tail. Knocking ornaments off Christmas tree cat-style. Mischief pose. PLEASER RAPTURE-1020 black 8-inch boots. By Christmas tree. Sensual cat pose. Expression: oops. Christmas cat. Seductive glamour photography, tree light mischief lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 23: 78. Helena - Dark Present
 
 ```text
-Professional gift photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair bow on top. Pale porcelain white skin gift wrapped. Full glossy red lips. Inside a BLACK gift box, wrapped in BLACK ribbon strategically. Tag reads "Do Not Open Until Midnight". PLEASER RAPTURE-1020 black 8-inch heels. Under tree. Sensual gift pose. Expression: unwrap at your risk. Dark present. Seductive glamour photography, mysterious gift lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional gift photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair bow on top. Pale porcelain white skin gift wrapped. Full glossy red lips. Inside a BLACK gift box, wrapped in BLACK ribbon strategically. Tag reads "Do Not Open Until Midnight". PLEASER RAPTURE-1020 black 8-inch heels. Under tree. Sensual gift pose. Expression: unwrap at your risk. Dark present. Seductive glamour photography, mysterious gift lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 22: 79. Helena - Gothic Hot Cocoa
 
 ```text
-Professional cocoa photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cozy dark. Pale porcelain white skin cocoa warm. Full glossy dark cherry lips. Wearing BLACK gothic loungewear luxurious. Holding BLACK mug of dark hot cocoa, blood red marshmallows. Fireplace. PLEASER RAPTURE-1020 black 8-inch boots by fire. Gothic living room. Sensual cozy pose. Expression: dark comfort. Gothic cocoa. Seductive glamour photography, fire cozy lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cocoa photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair cozy dark. Pale porcelain white skin cocoa warm. Full glossy dark cherry lips. Wearing BLACK gothic loungewear luxurious. Holding BLACK mug of dark hot cocoa, blood red marshmallows. Fireplace. PLEASER RAPTURE-1020 black 8-inch boots by fire. Gothic living room. Sensual cozy pose. Expression: dark comfort. Gothic cocoa. Seductive glamour photography, fire cozy lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 21: 80. Helena - Winter Cemetery
 
 ```text
-Professional cemetery photography of young elegant goth glamour woman ADULT WOMAN 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair snow dusted. Pale porcelain white skin winter pale. Full glossy dark wine lips. Wearing BLACK Victorian mourning dress. Leaving black roses at grave in snowy cemetery. Christmas wreath on stone. PLEASER RAPTURE-1020 black 8-inch boots in snow. Snowy cemetery. Sensual memorial pose. Expression: never forgotten. Cemetery Christmas. Seductive glamour photography, cemetery snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional cemetery photography of young elegant goth glamour woman woman 30+ years old mature inspired by Sacha Massacre. Voluminous jet black hair snow dusted. Pale porcelain white skin winter pale. Full glossy dark wine lips. Wearing BLACK Victorian mourning dress. Leaving black roses at grave in snowy cemetery. Christmas wreath on stone. PLEASER RAPTURE-1020 black 8-inch boots in snow. Snowy cemetery. Sensual memorial pose. Expression: never forgotten. Cemetery Christmas. Seductive glamour photography, cemetery snow lighting, holiday aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## 👯 VI. DUO — HOLIDAY SENSUAL (20 PROMPTS)
+## ?? VI. DUO � HOLIDAY SENSUAL (20 PROMPTS)
 
 ### Prompt 20: 81. Duo - Present Unwrapping
 
@@ -684,10 +684,10 @@ Professional midnight duo photography. HELENA: Sacha Massacre look about to kiss
 
 ---
 
-*Creado por: Helena de Anaïs 🦇*
-*V31 Christmas & Holidays Edition — 100 prompts*
+*Creado por: Helena de Ana�s ??*
+*V31 Christmas & Holidays Edition � 100 prompts*
 *Cada prompt es 100% auto-contenido*
-*🎨 COLOR FREEDOM aplicado*
+*?? COLOR FREEDOM aplicado*
 *Canon MD actualizado: bob platino SIN bangs*
 *Formato: Vertical portrait orientation*
 *Actualizado: 2026-01-09*

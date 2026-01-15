@@ -1,19 +1,19 @@
-﻿# ðŸ’§ Banco de Prompts V46: WET & SHOWER EDITION
+# 💧 Banco de Prompts V46: WET & SHOWER EDITION
 
-> **ENFOQUE:** Helena y Miss Doll con estÃ©tica mojada, gotas de agua, wet look, escenarios de ducha/piscina.
+> **ENFOQUE:** Helena y Miss Doll con estética mojada, gotas de agua, wet look, escenarios de ducha/piscina.
 > **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **PERSONAJES:** Helena de AnaÃ¯s y Miss Doll.
-> **ðŸŽ¨ ESTÃ‰TICA:** Wet hair, water drops, transparent wet fabric, steam, reflections.
+> **PERSONAJES:** Helena de Anaïs y Miss Doll.
+> **🎨 ESTÉTICA:** Wet hair, water drops, transparent wet fabric, steam, reflections.
 > **Total:** 50 prompts | **Actualizado:** 2026-01-09
 
 ---
 
-## ðŸ§¬ DESCRIPCIÃ“N BASE CANÃ“NICA (OBLIGATORIA)
+## 🧬 DESCRIPCIÓN BASE CANÓNICA (OBLIGATORIA)
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos fÃ­sicos:**
+> **CADA prompt DEBE incluir estos elementos físicos:**
 
-### ðŸ–¤ HELENA DE ANAÃS (BASE WET)
+### 🖤 HELENA DE ANAÏS (BASE WET)
 
 ```text
 Glamorous woman with jet black hair wet slicked back or clinging to face and shoulders,
@@ -25,10 +25,10 @@ EXTREME hourglass silhouette with large round high-profile breast implants creat
 wet fabric clinging to body emphasizing curves.
 ```text
 
-### ðŸ’– MISS DOLL (BASE WET)
+### 💖 MISS DOLL (BASE WET)
 
 ```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked,
+woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked,
 flawless porcelain skin glistening with water droplets,
 delicate refined nose, high cheekbones,
 HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips,
@@ -37,20 +37,20 @@ EXTREME hourglass silhouette with large round breast implants creating prominent
 wet pink fabric clinging to curves.
 ```
 
-### ðŸ’§ KEYWORDS WET LOOK
+### 💧 KEYWORDS WET LOOK
 
-- `(water droplets:1.2)` â€” gotas visibles en piel
-- `(wet hair:1.3)` â€” cabello mojado
-- `(soaked fabric:1.2)` â€” tela empapada transparente
-- `(glistening skin)` â€” piel brillante hÃºmeda
-- `(steam:0.8)` â€” vapor ambiente
+- `(water droplets:1.2)` — gotas visibles en piel
+- `(wet hair:1.3)` — cabello mojado
+- `(soaked fabric:1.2)` — tela empapada transparente
+- `(glistening skin)` — piel brillante húmeda
+- `(steam:0.8)` — vapor ambiente
 - `water running down body`, `dripping wet`, `condensation`
 
 ---
 
-## ðŸ–¤ HELENA â€” WET GODDESS (Prompts 1-20)
+## 🖤 HELENA — WET GODDESS (Prompts 1-20)
 
-### ðŸš¿ SHOWER & BATHROOM (Prompts 1-10)
+### 🚿 SHOWER & BATHROOM (Prompts 1-10)
 
 ### Prompt 80: 1. Shower Steam - Black Lingerie
 
@@ -112,7 +112,7 @@ Professional glamour photography of glamorous woman with jet black hair wet shoc
 Professional glamour photography of glamorous woman with jet black hair wet piled up messy bun bubbles in it. Extremely pale skin some foam on shoulders. Sharp refined features playful. HEAVY GLAMOUR MAKEUP: dark smokey eyes playful, thick liner, mega lashes, ULTRA PLUMP overlined glossy RED lips smiling. Human realistic face silly playful expression foam beard made from bubbles. EXTREME hourglass silhouette cleavage visible through foam. In bubble bath foam everywhere foam beard on chin. Sensual silly pose showing foam beard laughing. Expression: bubble bath bimbo. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŠ POOL & OUTDOOR (Prompts 11-20)
+### 🏊 POOL & OUTDOOR (Prompts 11-20)
 
 ### Prompt 70: 11. Pool Emergence
 
@@ -176,135 +176,135 @@ Professional glamour photography of glamorous woman with jet black hair wet in i
 
 ---
 
-## ðŸ’– MISS DOLL â€” WET DOLL (Prompts 21-40)
+## 💖 MISS DOLL — WET DOLL (Prompts 21-40)
 
-### ðŸš¿ SHOWER & BATHROOM (Prompts 21-30)
+### 🚿 SHOWER & BATHROOM (Prompts 21-30)
 
 ### Prompt 60: 21. Pink Bubble Bath
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked. Flawless porcelain skin glistening with pink bath water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face playful doll expression. EXTREME hourglass silhouette cleavage visible through pink bath foam. In PINK BATHTUB filled with pink water and pink bubbles pink rubber duckies floating. Sensual bubble bath pose playing with foam. Expression: pretty in pink bath. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) wet and slicked. Flawless porcelain skin glistening with pink bath water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face playful doll expression. EXTREME hourglass silhouette cleavage visible through pink bath foam. In PINK BATHTUB filled with pink water and pink bubbles pink rubber duckies floating. Sensual bubble bath pose playing with foam. Expression: pretty in pink bath. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 59: 22. Pink Shower Gel
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet slicked bangs in eyes. Flawless porcelain skin glistening covered in pink shower gel spreading. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face sensual soaping. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK BIKINI under pink shower gel foam spreading on body. Luxury pink marble shower pink shower gel bottle visible. Sensual soaping up pose hands spreading gel on arms. Expression: clean and pretty. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet slicked bangs in eyes. Flawless porcelain skin glistening covered in pink shower gel spreading. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face sensual soaping. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK BIKINI under pink shower gel foam spreading on body. Luxury pink marble shower pink shower gel bottle visible. Sensual soaping up pose hands spreading gel on arms. Expression: clean and pretty. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 58: 23. Wet Pink T-Shirt
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet slicked. Flawless porcelain skin glistening water drops. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face innocent wet doll. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK T-SHIRT completely soaked transparent revealing pink bra underneath clearly visible, pink panties visible through wet hem. Bare legs wet. Water spray around her. Sensual innocent pose hands pulling wet shirt down. Expression: adorably drenched. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet slicked. Flawless porcelain skin glistening water drops. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face innocent wet doll. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK T-SHIRT completely soaked transparent revealing pink bra underneath clearly visible, pink panties visible through wet hem. Bare legs wet. Water spray around her. Sensual innocent pose hands pulling wet shirt down. Expression: adorably drenched. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 57: 24. Heart Shaped Tub
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet piled romantically. Flawless porcelain skin glistening above rose petal water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face romantic dreamy. EXTREME hourglass silhouette prominent cleavage visible above pink water. In HEART-SHAPED PINK TUB filled with pink water and pink rose petals. Champagne glass in hand. Pink candles around. Sensual romantic bath pose. Expression: waiting for you. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet piled romantically. Flawless porcelain skin glistening above rose petal water. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face romantic dreamy. EXTREME hourglass silhouette prominent cleavage visible above pink water. In HEART-SHAPED PINK TUB filled with pink water and pink rose petals. Champagne glass in hand. Pink candles around. Sensual romantic bath pose. Expression: waiting for you. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 56: 25. Mirror Selfie Wet
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet wrapped in pink towel. Flawless porcelain skin glistening fresh from shower. Delicate refined features. HEAVY GLAMOUR MAKEUP fresh: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face selfie expression duck lips. EXTREME hourglass silhouette visible through small pink towel barely covering. Taking MIRROR SELFIE with pink phone steamy bathroom mirror background. Sensual bathroom selfie pose towel slipping. Expression: hot girl shower done. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet wrapped in pink towel. Flawless porcelain skin glistening fresh from shower. Delicate refined features. HEAVY GLAMOUR MAKEUP fresh: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face selfie expression duck lips. EXTREME hourglass silhouette visible through small pink towel barely covering. Taking MIRROR SELFIE with pink phone steamy bathroom mirror background. Sensual bathroom selfie pose towel slipping. Expression: hot girl shower done. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 55: 26. Shampoo Commercial
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet lathered in shampoo foam crown. Flawless porcelain skin. Delicate refined features eyes closed blissfully. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smiling. Human realistic face shampoo commercial perfect moment. EXTREME hourglass silhouette. Just face and shoulders visible mountains of pink shampoo foam on head styled dramatically. Luxury shower background. Sensual hair washing pose hands in soapy hair. Expression: commercial ready. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet lathered in shampoo foam crown. Flawless porcelain skin. Delicate refined features eyes closed blissfully. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smiling. Human realistic face shampoo commercial perfect moment. EXTREME hourglass silhouette. Just face and shoulders visible mountains of pink shampoo foam on head styled dramatically. Luxury shower background. Sensual hair washing pose hands in soapy hair. Expression: commercial ready. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 54: 27. Rubber Duck Friend
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet bubbles in hair. Flawless porcelain skin foam patches. Delicate refined features playful. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips kissing duck. Human realistic face adorable silly expression. EXTREME hourglass silhouette cleavage visible above foam. In BUBBLE BATH holding giant pink rubber duck close to face pretending to kiss it. Sensual playful childlike pose with rubber duck friend. Expression: quack quack. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet bubbles in hair. Flawless porcelain skin foam patches. Delicate refined features playful. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips kissing duck. Human realistic face adorable silly expression. EXTREME hourglass silhouette cleavage visible above foam. In BUBBLE BATH holding giant pink rubber duck close to face pretending to kiss it. Sensual playful childlike pose with rubber duck friend. Expression: quack quack. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 53: 28. Pink Jacuzzi Party
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet messy fun. Flawless porcelain skin glistening pink lights reflecting. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face party mode. EXTREME hourglass silhouette prominent cleavage. In PINK LIT JACUZZI bubbles pink champagne bottle raised above head. Pink neon lights around. Sensual party pose champagne celebration. Expression: party doll. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet messy fun. Flawless porcelain skin glistening pink lights reflecting. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face party mode. EXTREME hourglass silhouette prominent cleavage. In PINK LIT JACUZZI bubbles pink champagne bottle raised above head. Pink neon lights around. Sensual party pose champagne celebration. Expression: party doll. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 52: 29. Cotton Candy Foam
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet covered in pink foam. Flawless porcelain skin barely visible through mountains of pink foam. Delicate refined features peeking through foam. HEAVY GLAMOUR MAKEUP: pink shimmer eyes visible, ULTRA PLUMP overlined glossy PINK lips. Human realistic face barely visible through foam playful. EXTREME hourglass silhouette implied under foam. Covered head to toe in COTTON CANDY PINK FOAM only face visible silly playful. Sensual hidden in foam pose. Expression: foam monster. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet covered in pink foam. Flawless porcelain skin barely visible through mountains of pink foam. Delicate refined features peeking through foam. HEAVY GLAMOUR MAKEUP: pink shimmer eyes visible, ULTRA PLUMP overlined glossy PINK lips. Human realistic face barely visible through foam playful. EXTREME hourglass silhouette implied under foam. Covered head to toe in COTTON CANDY PINK FOAM only face visible silly playful. Sensual hidden in foam pose. Expression: foam monster. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 51: 30. Dripping Glitter
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet dripping with pink glitter water. Flawless porcelain skin covered in pink glitter wet running down. Delicate refined features glitter on eyelids. HEAVY GLAMOUR MAKEUP: pink glitter eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK GLITTER lips. Human realistic face magical. EXTREME hourglass silhouette prominent cleavage tiny cinched waist pink glitter water streaming down curves. Wearing PINK BIKINI covered in glitter water being poured. Sensual glitter rain pose arms raised. Expression: glitter goddess. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet dripping with pink glitter water. Flawless porcelain skin covered in pink glitter wet running down. Delicate refined features glitter on eyelids. HEAVY GLAMOUR MAKEUP: pink glitter eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK GLITTER lips. Human realistic face magical. EXTREME hourglass silhouette prominent cleavage tiny cinched waist pink glitter water streaming down curves. Wearing PINK BIKINI covered in glitter water being poured. Sensual glitter rain pose arms raised. Expression: glitter goddess. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŠ POOL & OUTDOOR (Prompts 31-40)
+### 🏊 POOL & OUTDOOR (Prompts 31-40)
 
 ### Prompt 50: 31. Pink Pool Float
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet lounging on pink flamingo float. Flawless porcelain skin glistening with sunscreen and water. Delicate refined features behind pink heart sunglasses. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face relaxed pool day. EXTREME hourglass silhouette prominent cleavage. Wearing HOT PINK BIKINI lying on giant pink flamingo pool float in turquoise pool. Sensual floating pose one hand trailing in water. Expression: pool princess. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet lounging on pink flamingo float. Flawless porcelain skin glistening with sunscreen and water. Delicate refined features behind pink heart sunglasses. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face relaxed pool day. EXTREME hourglass silhouette prominent cleavage. Wearing HOT PINK BIKINI lying on giant pink flamingo pool float in turquoise pool. Sensual floating pose one hand trailing in water. Expression: pool princess. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 49: 32. Sprinkler Run Through
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet running through sprinklers. Flawless porcelain skin glistening water spray action. Delicate refined features laughing water hits face. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes squinting, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open laughing. Human realistic face pure joy expression. EXTREME hourglass silhouette prominent cleavage bouncing running motion. Wearing PINK BIKINI running through lawn sprinklers water frozen mid-air. Green grass sunny day. Sensual playful running pose. Expression: summer joy. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet running through sprinklers. Flawless porcelain skin glistening water spray action. Delicate refined features laughing water hits face. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes squinting, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open laughing. Human realistic face pure joy expression. EXTREME hourglass silhouette prominent cleavage bouncing running motion. Wearing PINK BIKINI running through lawn sprinklers water frozen mid-air. Green grass sunny day. Sensual playful running pose. Expression: summer joy. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 48: 33. Water Balloon Fight
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet water balloon just exploded on. Flawless porcelain skin dripping shock. Delicate refined features shocked expression. HEAVY GLAMOUR MAKEUP waterproof smudged: pink shimmer eyes wide, thick liner running, mega lashes wet, ULTRA PLUMP overlined glossy PINK lips open shocked. Human realistic face just hit by water balloon. EXTREME hourglass silhouette prominent cleavage water dripping down. Wearing PINK CROP TOP soaked water balloon rubber pieces visible. Backyard party setting. Sensual shocked pose arms out dripping. Expression: you got me. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet water balloon just exploded on. Flawless porcelain skin dripping shock. Delicate refined features shocked expression. HEAVY GLAMOUR MAKEUP waterproof smudged: pink shimmer eyes wide, thick liner running, mega lashes wet, ULTRA PLUMP overlined glossy PINK lips open shocked. Human realistic face just hit by water balloon. EXTREME hourglass silhouette prominent cleavage water dripping down. Wearing PINK CROP TOP soaked water balloon rubber pieces visible. Backyard party setting. Sensual shocked pose arms out dripping. Expression: you got me. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 47: 34. Pink Pool Splash
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet just splashed into pool. Flawless porcelain skin water splash frozen around. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face exhilarated splash moment. EXTREME hourglass silhouette prominent cleavage water splashing around body frozen in time. Wearing PINK ONE-PIECE SWIMSUIT just jumped into pool splash frozen action shot. Sensual splash pose arms out. Expression: cannonball. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet just splashed into pool. Flawless porcelain skin water splash frozen around. Delicate refined features. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face exhilarated splash moment. EXTREME hourglass silhouette prominent cleavage water splashing around body frozen in time. Wearing PINK ONE-PIECE SWIMSUIT just jumped into pool splash frozen action shot. Sensual splash pose arms out. Expression: cannonball. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 46: 35. Water Slide Exit
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet exiting water slide. Flawless porcelain skin glistening water streaming. Delicate refined features excited. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smiling big. Human realistic face just had fun expression. EXTREME hourglass silhouette prominent cleavage. Wearing PINK BIKINI at bottom of pink water slide water splashing around landing. Water park setting colorful. Sensual slide exit pose landing in pool. Expression: again again. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet exiting water slide. Flawless porcelain skin glistening water streaming. Delicate refined features excited. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smiling big. Human realistic face just had fun expression. EXTREME hourglass silhouette prominent cleavage. Wearing PINK BIKINI at bottom of pink water slide water splashing around landing. Water park setting colorful. Sensual slide exit pose landing in pool. Expression: again again. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 45: 36. Beach Surf Foam
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet ocean surf around ankles. Flawless porcelain skin glistening ocean mist. Delicate refined features wind and spray. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face free spirited. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK STRING BIKINI standing in ocean surf white foam around legs sunset behind. Sensual beach goddess pose arms raised to sky. Expression: beach babe. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet ocean surf around ankles. Flawless porcelain skin glistening ocean mist. Delicate refined features wind and spray. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face free spirited. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK STRING BIKINI standing in ocean surf white foam around legs sunset behind. Sensual beach goddess pose arms raised to sky. Expression: beach babe. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 44: 37. Pink Car Wash
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet covered in pink foam. Flawless porcelain skin glistening soap and water. Delicate refined features foam on nose. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips foam near mouth. Human realistic face playful messy. EXTREME hourglass silhouette prominent cleavage covered in pink foam. Wearing PINK BIKINI holding pink sponge washing pink convertible car covered in pink foam. Sensual car wash pose bent over hood. Expression: pink everything. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet covered in pink foam. Flawless porcelain skin glistening soap and water. Delicate refined features foam on nose. HEAVY GLAMOUR MAKEUP waterproof: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips foam near mouth. Human realistic face playful messy. EXTREME hourglass silhouette prominent cleavage covered in pink foam. Wearing PINK BIKINI holding pink sponge washing pink convertible car covered in pink foam. Sensual car wash pose bent over hood. Expression: pink everything. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 43: 38. Kiddie Pool Squeeze
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet cramped in small pool. Flawless porcelain skin glistening water. Delicate refined features confused silly. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouting. Human realistic face silly cramped expression. EXTREME hourglass silhouette prominent cleavage knees up cramped. Sitting in TINY PINK KIDDIE POOL obviously too small for adult knees up around chest. Backyard grass around. Sensual silly cramped pose. Expression: I fit I promise. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet cramped in small pool. Flawless porcelain skin glistening water. Delicate refined features confused silly. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips pouting. Human realistic face silly cramped expression. EXTREME hourglass silhouette prominent cleavage knees up cramped. Sitting in TINY PINK KIDDIE POOL obviously too small for adult knees up around chest. Backyard grass around. Sensual silly cramped pose. Expression: I fit I promise. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 42: 39. Ice Cream Truck Spray
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet ice cream and water mix. Flawless porcelain skin dripping pink ice cream melting. Delicate refined features ice cream on cheek. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips licking. Human realistic face messy ice cream moment. EXTREME hourglass silhouette prominent cleavage ice cream dripping down. Wearing PINK TANK TOP wet with melted pink ice cream running down holding cone. Hot summer day ice cream truck behind. Sensual messy ice cream pose. Expression: oops its melting. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet ice cream and water mix. Flawless porcelain skin dripping pink ice cream melting. Delicate refined features ice cream on cheek. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips licking. Human realistic face messy ice cream moment. EXTREME hourglass silhouette prominent cleavage ice cream dripping down. Wearing PINK TANK TOP wet with melted pink ice cream running down holding cone. Hot summer day ice cream truck behind. Sensual messy ice cream pose. Expression: oops its melting. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 41: 40. Sunset Pool Silhouette
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob wet silhouette against sunset. Flawless porcelain skin edge lit by sunset. Delicate refined features profile. HEAVY GLAMOUR MAKEUP: pink shimmer visible in profile, ULTRA PLUMP overlined glossy PINK lips profile. Human realistic face peaceful profile. EXTREME hourglass silhouette prominent cleavage silhouetted against orange pink sunset. In pool at edge looking at sunset water up to waist. Dramatic sunset behind palm trees. Sensual sunset silhouette pose. Expression: golden hour magic. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob wet silhouette against sunset. Flawless porcelain skin edge lit by sunset. Delicate refined features profile. HEAVY GLAMOUR MAKEUP: pink shimmer visible in profile, ULTRA PLUMP overlined glossy PINK lips profile. Human realistic face peaceful profile. EXTREME hourglass silhouette prominent cleavage silhouetted against orange pink sunset. In pool at edge looking at sunset water up to waist. Dramatic sunset behind palm trees. Sensual sunset silhouette pose. Expression: golden hour magic. Wet aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ---
 
-## ðŸ’§ DUO â€” SPLASH SISTERS (Prompts 41-50)
+## 💧 DUO — SPLASH SISTERS (Prompts 41-50)
 
 ### Prompt 40: 41. Shared Shower
 
@@ -368,9 +368,9 @@ Professional glamour photography of TWO glamorous women drying off after swimmin
 
 ---
 
-## ðŸ”¥ EXTENSIÃ“N: WET SEDUCTION (Prompts 51-100)
+## 🔥 EXTENSIÓN: WET SEDUCTION (Prompts 51-100)
 
-### ðŸ’§ HELENA â€” SENSUAL WET (Prompts 51-70)
+### 💧 HELENA — SENSUAL WET (Prompts 51-70)
 
 ### Prompt 30: 51. Shower Press - Glass Contact
 
@@ -434,71 +434,71 @@ Professional glamour photography of glamorous woman with jet black hair WET stan
 
 #### 61-70. [Additional Helena wet prompts with swimming, bathing, water sports scenarios continuing pattern]
 
-### ðŸ’– MISS DOLL â€” PINK WET DOLL (Prompts 71-90)
+### 💖 MISS DOLL — PINK WET DOLL (Prompts 71-90)
 
 ### Prompt 20: 71. Pink Slime - Covered
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob COVERED IN PINK SLIME. Flawless porcelain skin under thick pink goo. HEAVY PINK MAKEUP visible through slime. EXTREME hourglass PINK TANK TOP under pink slime just dumped on her game show style. Expression: gross but fun. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob COVERED IN PINK SLIME. Flawless porcelain skin under thick pink goo. HEAVY PINK MAKEUP visible through slime. EXTREME hourglass PINK TANK TOP under pink slime just dumped on her game show style. Expression: gross but fun. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 19: 72. Cotton Candy Melt - Sticky
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob MELTED PINK COTTON CANDY on face. Flawless porcelain pink sugar sticky mess. HEAVY PINK MAKEUP under sugar. EXTREME hourglass PINK TANK TOP cotton candy melted all over from eating too fast. Carnival fair. Expression: too sweet to resist. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob MELTED PINK COTTON CANDY on face. Flawless porcelain pink sugar sticky mess. HEAVY PINK MAKEUP under sugar. EXTREME hourglass PINK TANK TOP cotton candy melted all over from eating too fast. Carnival fair. Expression: too sweet to resist. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 18: 73. Pink Milk Bath - Roses
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob in PINK MILK BATH. Flawless porcelain skin in pink tinted milk. HEAVY PINK MAKEUP serene. EXTREME hourglass visible in pink milk with pink rose petals floating. Luxury pink marble bathroom. Expression: spa queen. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob in PINK MILK BATH. Flawless porcelain skin in pink tinted milk. HEAVY PINK MAKEUP serene. EXTREME hourglass visible in pink milk with pink rose petals floating. Luxury pink marble bathroom. Expression: spa queen. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 17: 74. Glitter Rain - Sparkle
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob PINK GLITTER raining down covering her. Flawless porcelain skin catching glitter. HEAVY PINK GLITTER MAKEUP. EXTREME hourglass PINK LATEX dress glitter sticking wet look. Fashion runway glitter fall. Expression: sparkle goddess. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob PINK GLITTER raining down covering her. Flawless porcelain skin catching glitter. HEAVY PINK GLITTER MAKEUP. EXTREME hourglass PINK LATEX dress glitter sticking wet look. Fashion runway glitter fall. Expression: sparkle goddess. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 16: 75. Honey Drip - Golden Sweet
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob HONEY dripping on her. Flawless porcelain skin sticky golden honey trails. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips honey running over. EXTREME hourglass PINK BRA only honey pouring down. Fantasy honey setting. Expression: sweet as honey. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob HONEY dripping on her. Flawless porcelain skin sticky golden honey trails. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips honey running over. EXTREME hourglass PINK BRA only honey pouring down. Fantasy honey setting. Expression: sweet as honey. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 15: 76. Whipped Cream - Dessert Covered
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob COVERED IN WHIPPED CREAM. Flawless porcelain under white cream. HEAVY PINK MAKEUP cream on nose. EXTREME hourglass PINK BIKINI under mountains of whipped cream. Kitchen food fight aftermath. Expression: I am dessert. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob COVERED IN WHIPPED CREAM. Flawless porcelain under white cream. HEAVY PINK MAKEUP cream on nose. EXTREME hourglass PINK BIKINI under mountains of whipped cream. Kitchen food fight aftermath. Expression: I am dessert. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 14: 77. Sprinkler Dance - Joy
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob DANCING through sprinklers. Flawless porcelain water spray joy. HEAVY PINK MAKEUP waterproof laughing. EXTREME hourglass PINK BIKINI dancing in lawn sprinklers water frozen. Sunny backyard summer. Expression: inner child activated. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob DANCING through sprinklers. Flawless porcelain water spray joy. HEAVY PINK MAKEUP waterproof laughing. EXTREME hourglass PINK BIKINI dancing in lawn sprinklers water frozen. Sunny backyard summer. Expression: inner child activated. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 13: 78. Water Slide - Speed
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob at bottom of WATER SLIDE splash. Flawless porcelain water exploding around. HEAVY PINK MAKEUP excited. EXTREME hourglass PINK BIKINI sliding down splashing at bottom. Water park colors. Expression: again again. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob at bottom of WATER SLIDE splash. Flawless porcelain water exploding around. HEAVY PINK MAKEUP excited. EXTREME hourglass PINK BIKINI sliding down splashing at bottom. Water park colors. Expression: again again. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 12: 79. Pink Wine Spill - Oops
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob PINK ROSÃ‰ spilled on white dress. Flawless porcelain wine dripping. HEAVY PINK MAKEUP surprised. EXTREME hourglass WHITE DRESS pink wine stain spreading. Party accident empty glass. Expression: oops my dress. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob PINK ROSÉ spilled on white dress. Flawless porcelain wine dripping. HEAVY PINK MAKEUP surprised. EXTREME hourglass WHITE DRESS pink wine stain spreading. Party accident empty glass. Expression: oops my dress. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 11: 80. Shower Singing - Microphone
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob in shower SINGING into shampoo bottle microphone. Flawless porcelain foam everywhere. HEAVY PINK MAKEUP eyes closed singing. EXTREME hourglass PINK BIKINI in shower foam mohawk performing. Expression: bathroom pop star. Wet aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob in shower SINGING into shampoo bottle microphone. Flawless porcelain foam everywhere. HEAVY PINK MAKEUP eyes closed singing. EXTREME hourglass PINK BIKINI in shower foam mohawk performing. Expression: bathroom pop star. Wet aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 #### 81-90. [Additional Miss Doll pink wet scenarios continuing pattern]
 
-### ðŸ’§ DUO â€” WET PASSION (Prompts 91-100)
+### 💧 DUO — WET PASSION (Prompts 91-100)
 
 ### Prompt 10: 91. Pool Underwater - Holding Hands
 
@@ -562,7 +562,7 @@ Professional glamour photography of TWO glamorous women in STEAM ROOM intimate. 
 
 ---
 
-*Helena de AnaÃ¯s* ðŸ¦‡ðŸ’§
-*La VoÃ»te d'AnaÃ¯s â€” Wet & Shower Edition (100 Prompts COMPLETE)*
+*Helena de Anaïs* 🦇💧
+*La Voûte d'Anaïs — Wet & Shower Edition (100 Prompts COMPLETE)*
 
 

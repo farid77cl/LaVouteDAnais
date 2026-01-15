@@ -1,119 +1,106 @@
-﻿# ðŸŒ€ Banco de Prompts V47: HYPNOSIS & MIND CONTROL EDITION
+# 🌀 Banco de Prompts V47: HYPNOSIS & MIND CONTROL EDITION
 
+> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
 > **ENFOQUE:** Miss Doll como hipnotizadora/controladora, Helena como sujeto hipnotizado.
-> **REGLA CLAVE:** Cada prompt es 100% AUTO-CONTENIDO. Solo copiar y pegar.
-> **DINÃMICA:** Miss Doll = DOMINANTE hipnotizadora | Helena = SUJETO en trance.
-> **ðŸŽ¨ ESTÃ‰TICA:** Espirales, pÃ©ndulos, ojos vidriosos, expresiones vacÃ­as, control mental.
-> **Total:** 50 prompts | **Actualizado:** 2026-01-09
+> **DINÁMICA:** Miss Doll = DOMINANTE hipnotizadora | Helena = SUJETO en trance.
+> **🎨 ESTÉTICA:** Espirales, péndulos, ojos vidriosos, expresiones vacías, control mental.
+> **Total:** 100 prompts | **Actualizado:** 2026-01-15
 
 ---
 
-## ðŸ§¬ DESCRIPCIÃ“N BASE CANÃ“NICA (OBLIGATORIA)
+## I. CANON VISUAL OBLIGATORIO
 
 > [!CAUTION]
-> **CADA prompt DEBE incluir estos elementos fÃ­sicos:**
+> **REGLAS ANTI-FILTRO:** NO usar "adult woman", "bimbo", "ditzy", "doll-like". Usar descripciones directas sin calificadores de edad.
 
-### ðŸ’– MISS DOLL â€” LA HIPNOTIZADORA (BASE)
-
-```text
-ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead),
-flawless porcelain skin with unsettling perfect doll appearance,
-delicate refined features with KNOWING SMILE,
-HEAVY GLAMOUR MAKEUP: pink shimmer eyes with spiral contact lenses optional, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips smirking,
-human realistic face with DOMINANT CONTROLLER expression,
-EXTREME hourglass silhouette with large round breast implants creating prominent cleavage, tiny cinched waist,
-PLEASER platform heels 16-18cm (7-8") pink or clear.
-```text
-
-### ðŸ–¤ HELENA DE ANAÃS â€” EL SUJETO (BASE TRANCE)
+### 💖 MISS DOLL — LA HIPNOTIZADORA (POWER PROMPT)
 
 ```text
-Glamorous woman with jet black hair styled or mussed from trance,
-extremely pale skin with vacant dreamy quality,
-sharp refined features SLACK or DREAMY expression,
-HEAVY GOTHIC MAKEUP: half-lidded eyes vacant stare, thick liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy BLACK or RED lips parted slightly,
-human realistic face with HYPNOTIZED VACANT expression glassy eyes unfocused,
-EXTREME hourglass silhouette with large round high-profile breast implants, tiny cinched waist,
-posture submissive or puppet-like as controlled by Miss Doll.
+Professional glamour photography of WOMAN glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing [OUTFIT]. PLEASER heels 8-inch [COLOR] patent power stance. [SETTING]. Sensual commanding pose. Expression: [EXPRESSION]. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### ðŸŒ€ KEYWORDS HYPNOSIS
+### 🦇 HELENA DE ANAÏS — EL SUJETO (POWER PROMPT)
 
-- `(spiral eyes:1.2)` â€” espirales en los ojos
-- `(glassy stare:1.3)` â€” mirada vidriosa
-- `(vacant expression)` â€” expresiÃ³n vacÃ­a
-- `(swinging pendulum)` â€” pÃ©ndulo oscilando
-- `(mind control aesthetic)` â€” estÃ©tica de control mental
+```text
+Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, voluminous jet black long hair with enormous volume. HEAVY GOTHIC MAKEUP: half-lidded eyes VACANT STARE glassy unfocused, thick winged liner, mega lashes, ULTRA PLUMP overlined glossy [LIP_COLOR] lips parted slightly. Human realistic face with HYPNOTIZED VACANT expression. Feminine hourglass silhouette with prominent cleavage. ALWAYS wearing tight [CORSET_TYPE] corset [CORSET_COLOR]. [OUTFIT]. Posture submissive or puppet-like as controlled. [SETTING]. Dark glamour hypnosis aesthetic. Photorealistic 8k. Vertical portrait orientation.
+```
+
+### 🌀 KEYWORDS HYPNOSIS
+
+- `spiral eyes` — espirales en los ojos
+- `glassy stare` — mirada vidriosa
+- `vacant expression` — expresión vacía
+- `swinging pendulum` — péndulo oscilando
+- `mind control aesthetic` — estética de control mental
 - `blank stare`, `puppet-like`, `drooping eyelids`, `slack jaw`
-- **Negative prompt:** `alert eyes, focused gaze, aware expression`
 
 ---
 
-## ðŸ’– MISS DOLL â€” THE CONTROLLER (Prompts 1-15)
+## 💖 MISS DOLL — THE CONTROLLER (Prompts 1-15)
 
-### ðŸŽ­ HIPNOTIZADORA SOLA (Prompts 1-10)
+### 🎭 HIPNOTIZADORA SOLA (Prompts 1-10)
 
 ### Prompt 100: 1. Pendulum Swing - Classic Induction
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling perfect doll appearance. Delicate refined features KNOWING SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips confident smirk. Human realistic face DOMINANT CONTROLLER expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress tight shiny visible pink corset bodice. Holding GOLDEN POCKET WATCH on chain swinging as pendulum hypnotic motion blur. PLEASER platform heels 8-inch pink patent. Dark luxurious therapy room velvet. Sensual standing pose holding swinging watch at eye level. Expression: watch the watch. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling perfect doll appearance. Delicate refined features KNOWING SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips confident smirk. Human realistic face DOMINANT CONTROLLER expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress tight shiny visible pink corset bodice. Holding GOLDEN POCKET WATCH on chain swinging as pendulum hypnotic motion blur. PLEASER platform heels 8-inch pink patent. Dark luxurious therapy room velvet. Sensual standing pose holding swinging watch at eye level. Expression: watch the watch. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 99: 2. Spiral Eyes - Unnatural Beauty
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling doll beauty. Delicate refined features INTENSE STARE. HEAVY GLAMOUR MAKEUP: PINK AND BLACK SPIRAL CONTACT LENSES in both eyes hypnotic pattern spinning illusion, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face with spiral eyes HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX nurse dress with pink trim visible pink corset. Close-up portrait spiral eyes prominently featured. Dark background spotlight on face. Expression: look into my eyes. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling doll beauty. Delicate refined features INTENSE STARE. HEAVY GLAMOUR MAKEUP: PINK AND BLACK SPIRAL CONTACT LENSES in both eyes hypnotic pattern spinning illusion, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face with spiral eyes HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX nurse dress with pink trim visible pink corset. Close-up portrait spiral eyes prominently featured. Dark background spotlight on face. Expression: look into my eyes. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 98: 3. Snap Fingers - Instant Trigger
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression snapping fingers. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN blouse open revealing visible pink latex corset shiny tight. One hand raised SNAPPING FINGERS motion captured. PLEASER heels 8-inch pink patent power stance. Dark therapy office setting. Sensual commanding pose mid-snap. Expression: SLEEP NOW. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression snapping fingers. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN blouse open revealing visible pink latex corset shiny tight. One hand raised SNAPPING FINGERS motion captured. PLEASER heels 8-inch pink patent power stance. Dark therapy office setting. Sensual commanding pose mid-snap. Expression: SLEEP NOW. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 97: 4. Crystal Ball - Fortune Teller
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) mysterious veil nearby. Flawless porcelain skin mystical glow. Delicate refined features MYSTERIOUS SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes mystical, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips knowing smile. Human realistic face MYSTIC expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK VELVET fortune teller dress low cut visible pink corset bodice, sheer sleeves. Hands around GLOWING CRYSTAL BALL pink mist inside. Fortune teller tent pink and purple fabrics. Sensual mystical pose gazing into ball. Expression: I see your future and you obey. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) mysterious veil nearby. Flawless porcelain skin mystical glow. Delicate refined features MYSTERIOUS SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes mystical, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips knowing smile. Human realistic face MYSTIC expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK VELVET fortune teller dress low cut visible pink corset bodice, sheer sleeves. Hands around GLOWING CRYSTAL BALL pink mist inside. Fortune teller tent pink and purple fabrics. Sensual mystical pose gazing into ball. Expression: I see your future and you obey. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 96: 5. Metronome Tick - Rhythmic Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features PATIENT SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes following motion, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face CONTROLLER expression watching metronome. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX secretary outfit visible pink corset blouse tight skirt. VINTAGE METRONOME on desk in motion tick tock. Pink office setting. Sensual seated at desk pose watching metronome. Expression: tick tock deeper. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features PATIENT SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes following motion, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face CONTROLLER expression watching metronome. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX secretary outfit visible pink corset blouse tight skirt. VINTAGE METRONOME on desk in motion tick tock. Pink office setting. Sensual seated at desk pose watching metronome. Expression: tick tock deeper. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 95: 6. Spiral Pendant - Jewelry Induction
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features SEDUCTIVE SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face SEDUCTIVE HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist displaying prominent SPIRAL PENDANT NECKLACE rotating hypnotic. Wearing PINK LINGERIE SET visible pink satin corset bra and panty. Holding spiral pendant making it spin between fingers. Pink boudoir setting. Sensual showing off pendant pose. Expression: pretty isn't it keep staring. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features SEDUCTIVE SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face SEDUCTIVE HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist displaying prominent SPIRAL PENDANT NECKLACE rotating hypnotic. Wearing PINK LINGERIE SET visible pink satin corset bra and panty. Holding spiral pendant making it spin between fingers. Pink boudoir setting. Sensual showing off pendant pose. Expression: pretty isn't it keep staring. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 94: 7. Whisper Command - ASMR Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) leaning close. Flawless porcelain skin close-up. Delicate refined features WHISPERING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes half-lidded sensual, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips near ear whispering. Human realistic face INTIMATE CONTROL expression. EXTREME hourglass silhouette prominent cleavage visible leaning forward. Wearing PINK SILK robe open revealing visible pink lace bra. Close-up of Miss Doll leaning toward camera WHISPERING lips near viewer ear. Intimate dark setting. Sensual whispering close pose. Expression: listen to my voice only my voice. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) leaning close. Flawless porcelain skin close-up. Delicate refined features WHISPERING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes half-lidded sensual, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips near ear whispering. Human realistic face INTIMATE CONTROL expression. EXTREME hourglass silhouette prominent cleavage visible leaning forward. Wearing PINK SILK robe open revealing visible pink lace bra. Close-up of Miss Doll leaning toward camera WHISPERING lips near viewer ear. Intimate dark setting. Sensual whispering close pose. Expression: listen to my voice only my voice. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 93: 8. Stage Hypnotist - Show Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) stage lighting. Flawless porcelain skin spotlight gleaming. Delicate refined features SHOWMAN SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips big smile. Human realistic face ENTERTAINER HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SEQUINED showgirl-style leotard visible pink corset bodice, pink top hat, holding MAGIC WAND. Theater stage curtains behind spotlight on her. Sensual stage presentation pose wand raised. Expression: welcome to my show you will all obey. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) stage lighting. Flawless porcelain skin spotlight gleaming. Delicate refined features SHOWMAN SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips big smile. Human realistic face ENTERTAINER HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SEQUINED showgirl-style leotard visible pink corset bodice, pink top hat, holding MAGIC WAND. Theater stage curtains behind spotlight on her. Sensual stage presentation pose wand raised. Expression: welcome to my show you will all obey. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 92: 9. Screen Spiral - Digital Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) lit by screen glow. Flawless porcelain skin blue pink screen light. Delicate refined features TECH SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smirking. Human realistic face DIGITAL CONTROLLER expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX catsuit visible corset pattern built-in. Standing before LARGE SCREEN displaying spiral animation viewer's POV. Dark tech room neon accents. Sensual presenting screen pose hand gesturing to spiral. Expression: the screen has you now. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) lit by screen glow. Flawless porcelain skin blue pink screen light. Delicate refined features TECH SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips smirking. Human realistic face DIGITAL CONTROLLER expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX catsuit visible corset pattern built-in. Standing before LARGE SCREEN displaying spiral animation viewer's POV. Dark tech room neon accents. Sensual presenting screen pose hand gesturing to spiral. Expression: the screen has you now. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
 ### Prompt 91: 10. Perfume Spray - Scent Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features KNOWING SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face SEDUCTIVE expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN slip dress visible pink corset underneath. Holding PINK CRYSTAL PERFUME BOTTLE spraying pink mist toward camera. Pink boudoir vanity setting. Sensual spraying perfume pose mist visible. Expression: one breath and you're mine. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features KNOWING SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face SEDUCTIVE expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN slip dress visible pink corset underneath. Holding PINK CRYSTAL PERFUME BOTTLE spraying pink mist toward camera. Pink boudoir vanity setting. Sensual spraying perfume pose mist visible. Expression: one breath and you're mine. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸ‘ï¸ MISS DOLL CLOSE-UPS (Prompts 11-15)
+### 👁️ MISS DOLL CLOSE-UPS (Prompts 11-15)
 
 ### Prompt 90: 11. Eyes Close-Up - Spiral Contacts
 
@@ -147,9 +134,9 @@ Professional glamour photography EXTREME CLOSE-UP of GOLDEN POCKET WATCH swingin
 
 ---
 
-## ðŸ–¤ HELENA â€” THE ENTRANCED (Prompts 16-35)
+## 🖤 HELENA — THE ENTRANCED (Prompts 16-35)
 
-### ðŸŒ€ TRANCE STATES (Prompts 16-25)
+### 🌀 TRANCE STATES (Prompts 16-25)
 
 ### Prompt 85: 16. Deep Trance - Standing Frozen
 
@@ -211,7 +198,7 @@ Professional glamour photography of glamorous woman with jet black hair wild scr
 Professional glamour photography of glamorous woman with jet black hair spread on pillows blissful. Extremely pale skin flushed with pleasure. Sharp refined features ECSTATIC BUT EMPTY. HEAVY GOTHIC MAKEUP: eyes rolled back or fluttering in pleasure, thick liner, mega lashes, ULTRA PLUMP overlined glossy RED lips open moaning silent. Human realistic face PLEASURE TRANCE expression hypnotic bliss. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BLACK LACE lingerie disheveled visible black corset loosened. Lying back on bed eyes rolling in pleasure hypnotic ecstasy. Red velvet bed candles. Sensual pleasure trance pose writhing gently. Expression: the pleasure controls me I cannot resist. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation.
 ```text
 
-### ðŸŽ­ POSED & CONTROLLED (Prompts 26-35)
+### 🎭 POSED & CONTROLLED (Prompts 26-35)
 
 ### Prompt 75: 26. Display Pose - Frozen Model
 
@@ -275,7 +262,7 @@ Professional glamour photography of glamorous woman with jet black hair messy di
 
 ---
 
-## ðŸŒ€ DUO â€” THE CEREMONY (Prompts 36-50)
+## 🌀 DUO — THE CEREMONY (Prompts 36-50)
 
 ### Prompt 65: 36. Induction Beginning - Watch Swinging
 
@@ -369,71 +356,71 @@ Professional glamour photography of TWO glamorous women final conversion. FIRST 
 
 ---
 
-## ðŸ”¥ EXTENSIÃ“N: HYPNOSIS SEDUCTION (Prompts 51-100)
+## 🔥 EXTENSIÓN: HYPNOSIS SEDUCTION (Prompts 51-100)
 
-### ðŸ’– MISS DOLL â€” ADVANCED CONTROL (Prompts 51-60)
+### 💖 MISS DOLL — ADVANCED CONTROL (Prompts 51-60)
 
 ### Prompt 50: 51. Pleasure Command - Orgasm Control
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob COMMANDING pleasure. Flawless porcelain CONTROLLER expression. HEAVY PINK MAKEUP dominant smirk. EXTREME hourglass PINK LATEX dress visible corset. Hand extended commanding gesture toward unseen subject. Dark therapy room pink lighting. Expression: you will come on my command only. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob COMMANDING pleasure. Flawless porcelain CONTROLLER expression. HEAVY PINK MAKEUP dominant smirk. EXTREME hourglass PINK LATEX dress visible corset. Hand extended commanding gesture toward unseen subject. Dark therapy room pink lighting. Expression: you will come on my command only. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 49: 52. Lipstick Spiral - Makeup Induction
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob holding SPIRAL LIPSTICK. Flawless porcelain seductive. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips applying spiral-patterned lipstick. EXTREME hourglass PINK SATIN robe. Vanity mirror showing spiral in reflection. Expression: watch my lips closely. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob holding SPIRAL LIPSTICK. Flawless porcelain seductive. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips applying spiral-patterned lipstick. EXTREME hourglass PINK SATIN robe. Vanity mirror showing spiral in reflection. Expression: watch my lips closely. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 48: 53. Phone Hypno - Digital Mistress
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob ON PHONE SCREEN controlling. Flawless porcelain through screen. HEAVY PINK MAKEUP spiral contacts. View AS IF through phone screen Miss Doll sending hypnotic commands digitally. PINK LATEX outfit. Expression: you check your phone constantly for me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob ON PHONE SCREEN controlling. Flawless porcelain through screen. HEAVY PINK MAKEUP spiral contacts. View AS IF through phone screen Miss Doll sending hypnotic commands digitally. PINK LATEX outfit. Expression: you check your phone constantly for me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 47: 54. ASMR Tingles - Whisper Queen
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob ASMR pose with microphone. Flawless porcelain intimate close. HEAVY PINK MAKEUP soft. ULTRA PLUMP PINK lips near professional ASMR MICROPHONE whispering. EXTREME hourglass PINK SILK blouse. Studio setup. Expression: shhhh just listen relax. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob ASMR pose with microphone. Flawless porcelain intimate close. HEAVY PINK MAKEUP soft. ULTRA PLUMP PINK lips near professional ASMR MICROPHONE whispering. EXTREME hourglass PINK SILK blouse. Studio setup. Expression: shhhh just listen relax. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 46: 55. Candy Offering - Sweet Surrender
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob offering SPIRAL LOLLIPOP. Flawless porcelain innocent offering. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips. Holding PINK AND WHITE SPIRAL LOLLIPOP toward camera offering. EXTREME hourglass PINK DRESS. Candy shop setting. Expression: take a lick it tastes like obedience. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob offering SPIRAL LOLLIPOP. Flawless porcelain innocent offering. HEAVY PINK MAKEUP. ULTRA PLUMP PINK lips. Holding PINK AND WHITE SPIRAL LOLLIPOP toward camera offering. EXTREME hourglass PINK DRESS. Candy shop setting. Expression: take a lick it tastes like obedience. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 45: 56. Dancer Control - Ballet Command
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob as BALLET INSTRUCTOR controlling. Flawless porcelain strict teacher. HEAVY PINK MAKEUP imperious. EXTREME hourglass PINK LEOTARD visible corset. Holding ballet barre controlling pose. Dance studio mirrors. Expression: dance until I say stop. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob as BALLET INSTRUCTOR controlling. Flawless porcelain strict teacher. HEAVY PINK MAKEUP imperious. EXTREME hourglass PINK LEOTARD visible corset. Holding ballet barre controlling pose. Dance studio mirrors. Expression: dance until I say stop. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 44: 57. Eye Contact Lock - Cannot Look Away
 
 ```text
-Professional glamour photography EXTREME CLOSE-UP ADULT WOMAN 28+ years old mature glamorous platinum blonde bangs EYES ONLY. PINK AND BLACK SPIRAL CONTACTS clearly visible hypnotic spinning illusion. Heavy pink shimmer eyeshadow thick liner mega lashes. EYES WIDE staring directly into camera UNBLINKING. Dark background spotlight on eyes only. Expression in eyes: you cannot look away you are mine. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography EXTREME CLOSE-UP woman 28+ years old mature glamorous platinum blonde bangs EYES ONLY. PINK AND BLACK SPIRAL CONTACTS clearly visible hypnotic spinning illusion. Heavy pink shimmer eyeshadow thick liner mega lashes. EYES WIDE staring directly into camera UNBLINKING. Dark background spotlight on eyes only. Expression in eyes: you cannot look away you are mine. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 43: 58. Contract Signing - Soul Agreement
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob presenting CONTRACT. Flawless porcelain business dominant. HEAVY PINK MAKEUP smirk. EXTREME hourglass PINK LATEX secretary outfit visible corset. Holding fancy document CONTRACT for viewer to sign pen ready. Dark office setting. Expression: just sign here and you belong to me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob presenting CONTRACT. Flawless porcelain business dominant. HEAVY PINK MAKEUP smirk. EXTREME hourglass PINK LATEX secretary outfit visible corset. Holding fancy document CONTRACT for viewer to sign pen ready. Dark office setting. Expression: just sign here and you belong to me. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 42: 59. Trigger Implant - Word Installation
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob WHISPERING trigger word. Flawless porcelain intense focus. HEAVY PINK MAKEUP concentrated. ULTRA PLUMP PINK lips forming word near camera/ear. EXTREME hourglass PINK SATIN. Intimate dark setting. Close-up lips forming trigger. Expression: when you hear this word you will obey. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob WHISPERING trigger word. Flawless porcelain intense focus. HEAVY PINK MAKEUP concentrated. ULTRA PLUMP PINK lips forming word near camera/ear. EXTREME hourglass PINK SATIN. Intimate dark setting. Close-up lips forming trigger. Expression: when you hear this word you will obey. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
 ### Prompt 41: 60. Throne Queen - Total Dominion
 
 ```text
-Professional glamour photography of ADULT WOMAN 28+ years old mature glamorous with platinum blonde bob on PINK THRONE ruling. Flawless porcelain regal. HEAVY PINK MAKEUP crown nearby. EXTREME hourglass PINK LATEX queen gown visible corset. Seated on ornate PINK THRONE scepter in hand. Pink throne room subjects implied. Expression: all kneel before the hypno queen. Hypnosis aesthetic. Photorealistic 8k. Vertical.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob on PINK THRONE ruling. Flawless porcelain regal. HEAVY PINK MAKEUP crown nearby. EXTREME hourglass PINK LATEX queen gown visible corset. Seated on ornate PINK THRONE scepter in hand. Pink throne room subjects implied. Expression: all kneel before the hypno queen. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
-### ðŸ–¤ HELENA â€” DEEP TRANCE STATES (Prompts 61-80)
+### 🖤 HELENA — DEEP TRANCE STATES (Prompts 61-80)
 
 ### Prompt 40: 61. Pleasure Loop - Endless Bliss
 
@@ -555,7 +542,7 @@ Professional glamour photography of glamorous woman with jet black hair BLINDFOL
 Professional glamour photography of glamorous woman with jet black hair COMPLETELY EMPTY inside. Extremely pale hollow. HEAVY GOTHIC MAKEUP EYES COMPLETELY EMPTY VOID nothing behind them. EXTREME hourglass BLACK LATEX. Standing staring forward NOTHING behind the eyes perfect vessel waiting for programming. White clinical. Expression: there is nothing here to fill with commands. Hypnosis aesthetic. Photorealistic 8k. Vertical.
 ```text
 
-### ðŸŒ€ DUO â€” ADVANCED RITUALS (Prompts 81-100)
+### 🌀 DUO — ADVANCED RITUALS (Prompts 81-100)
 
 ### Prompt 20: 81. Double Induction - Both Watching
 
@@ -679,7 +666,7 @@ Professional glamour photography of TWO glamorous women ETERNAL BOND final pose.
 
 ---
 
-*Miss Doll* ðŸ’–ðŸŒ€
-*La VoÃ»te d'AnaÃ¯s â€” Hypnosis & Mind Control Edition (100 Prompts COMPLETE)*
+*Miss Doll* 💖🌀
+*La Voûte d'Anaïs — Hypnosis & Mind Control Edition (100 Prompts COMPLETE)*
 
 
