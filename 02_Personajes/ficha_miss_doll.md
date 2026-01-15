@@ -113,18 +113,31 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 > **NUNCA usar:** `natural skin tone`, `warm skin`, `healthy complexion` (generan inconsistencias)
 
-**Rostro "Bratz Realista" (CANON ACTUALIZADO 2026-01-05):**
+**Rostro y Maquillaje (CANON ACTUALIZADO 2026-01-15):**
 
-| Elemento | Descripción Canon |
-|----------|-------------------|
-| **Estructura** | Ovalado con pómulos altos y prominentes, contorno suave |
-| **Nariz** | Delicada y refinada, respingona tipo "doll nose" |
-| **Ojos** | Grandes estilo Bratz con bronze/champagne smokey eye, shimmer en inner corners, delineado cat-eye grueso |
-| **Pestañas** | Mega volume wispy false lashes (densas, estilo foxy) |
-| **Cejas** | Muy altas, arqueadas, definidas (arco de villana) |
-| **Labios** | ULTRA PLUMP overlined glossy RED lips (bee-stung bimbo lips), forma de corazón |
-| **Expresión** | Labios entreabiertos húmedos, mirada dreamy seductora vacía, puchero sensual |
-| **Pupilas** | Normales en modo base; espiral violeta cuando activa hipnosis |
+> 💄 **Miss Doll es EXPERTA en maquillaje** (con cursos profesionales). Su maquillaje SIEMPRE es pesado, elaborado y perfecto. Nunca natural o sutil.
+
+| Elemento | Descripción Canon | Keywords OBLIGATORIAS |
+|----------|-------------------|----------------------|
+| **Estructura** | Ovalado con pómulos altos y prominentes | `oval face, high prominent cheekbones` |
+| **Contour** | HEAVY contour profesional, pómulos esculpidos, nariz afinada | `heavy professional contour, sculpted cheekbones, chiseled contour, nose contour` |
+| **Nariz** | Delicada y refinada, respingona tipo "doll nose" | `small refined upturned doll nose` |
+| **Ojos** | Grandes con smokey eye INTENSO, shimmer, glitter | `HEAVY GLAMOUR EYE MAKEUP, intense smokey eye, pink shimmer eyeshadow, glitter inner corners, dramatic eye makeup` |
+| **Delineado** | Cat-eye GRUESO dramático, winged liner exagerado | `thick dramatic cat-eye liner, exaggerated winged eyeliner` |
+| **Pestañas** | MEGA volume, densas, foxy/wispy | `mega volume false lashes, dramatic wispy lashes, extra long lashes` |
+| **Cejas** | Muy altas, arqueadas, perfetamente definidas | `high arched defined brows, villain arch eyebrows, heavily filled brows` |
+| **Labios** | ULTRA PLUMP sobredelineados glossy | `ULTRA PLUMP overlined glossy lips, bee-stung lips, exaggerated lip liner, wet shine lips` |
+| **Expresión** | Labios entreabiertos, mirada dreamy vacía | `parted glossy lips, dreamy seductive vacant stare` |
+
+**Colores de Labios (rotación):**
+
+| Color | Uso | Keywords |
+|-------|-----|----------|
+| **Hot Pink** | Canon principal | `hot pink glossy lips, magenta overlined lips` |
+| **Rojo** | Escenas intensas | `red glossy overlined lips, crimson lips` |
+| **Nude Rosa** | Variante suave | `nude pink glossy overlined lips` |
+
+> ⚠️ **NUNCA usar:** `natural makeup`, `subtle makeup`, `no makeup look`, `fresh-faced`
 
 > **Referencia Visual:** `05_Imagenes/miss_doll/referencia_canon_miss_doll.jpg`
 
