@@ -147,8 +147,8 @@ Get-ChildItem -Path $bancoPath -Filter "banco_prompts_v*.md" | ForEach-Object {
         -replace '{{STORAGE_KEY}}', "banco_${baseName}_eval" `
         -replace '{{BANCO_NAME}}', $baseName.ToUpper()
     
-    # Guardar HTML
-    $html | Out-File -FilePath $htmlPath -Encoding UTF8
+    # Guardar HTML con UTF-8 sin BOM
+    [System.IO.File]::WriteAllText($htmlPath, $html, [System.Text.UTF8Encoding]::new($false))
     Write-Host "CREATED: $htmlName ($($prompts.Count) prompts)"
 }
 

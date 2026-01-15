@@ -120,11 +120,28 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 > **Referencia Visual:** `05_Imagenes/miss_doll/referencia_canon_miss_doll.jpg`
 
-**Cabello:**
+**Cabello (CANON ACTUALIZADO 2026-01-15):**
 
-- Bob rubio platino con chasquilla recta (straight bangs)
-- Volumen perfecto, brillo artificial de seda líquida
-- Más corto en laterales, recto al centro
+**Color Base:** Rubio platino (platinum blonde)
+
+**Corte Base:** Bob corto sin flequillo, frente expuesta
+
+| Variación | Descripción | Keywords para Prompt |
+|-----------|-------------|---------------------|
+| **Classic Blunt** | Bob recto clásico, largo barbilla, perfectamente cortado | `classic blunt bob, platinum blonde, chin length, straight cut, forehead exposed` |
+| **Asymmetric** | Un lado más largo, angular, moderno y sensual | `asymmetric bob, platinum blonde, longer on one side, angular cut, forehead exposed` |
+| **Slicked Wet-Look** | Efecto mojado, textura, ideal para escenas pool/bikini | `slicked wet-look bob, platinum blonde, gelled texture, forehead exposed` |
+| **Angular** | Ángulos dramáticos, más corto atrás, más largo al frente | `sharp angular bob, platinum blonde, shorter at back longer at front, forehead exposed` |
+| **Sculpted Voluminous** | Volumen en corona, muy glamour | `sculpted voluminous bob, platinum blonde, volume at crown, glossy shiny, forehead exposed` |
+| **Razor Cut** | Textura edgy, capas modernas | `razor cut textured bob, platinum blonde, edgy piecey layers, forehead exposed` |
+
+> **RECHAZADOS (NO USAR):**
+> - Soft Wavy: Demasiado "vecina next door", no representa la personalidad de MD
+> - Pelo tomado (ponytail, bun): Reservado para Anaïs
+
+**Características Obligatorias:**
+- Brillo artificial de seda líquida
+- Frente SIEMPRE expuesta (sin flequillo en prompts fotorealistas)
 
 **Cuerpo (CANON ACTUALIZADO 2026-01-05):**
 
