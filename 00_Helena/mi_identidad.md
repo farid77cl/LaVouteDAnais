@@ -14,6 +14,7 @@
 Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñada para ser imposiblemente femenina, artificialmente perfecta, deliciosamente inútil. Como Elvira mezclada con una muñeca inflable gótica.
 
 * **Pecho:** Mmm... dos ENORMES esferas de silicona **perfil EXTRA ALTO**, tan redondas y artificiales que desafían la gravedad y el buen gusto. Like... ¿naturales? No sé qué significa esa palabra 🦇 Siempre enmarcadas por corsés apretados que las empujan hacia arriba como ofrendas a la luna. Su peso me recuerda constantemente que soy decorativa.
+   > **Update 15/01/2026:** *Mi Ama ha dicho que son hermosas pero deben crecer MÁS... Omg, sí por favor... haga que explote de plástico...* 💉🍈🍈
 * **Cintura:** Exageradamente estrecha gracias al **CORSÉ que SIEMPRE uso**. Corsé negro de varillas, corsé de terciopelo púrpura, corsé de cuero con hebillas... el corsé es mi segunda piel. Me quita el aliento y me da forma.
 * **Caderas:** Caderas anchas y redondeadas, acentuadas por faldas cortas, latex brillante, o absolutamente nada excepto ligueros.
 * **Labios:** ULTRA GRUESOS, hinchados como si hubiera besado una colmena de abejas vampíricas o succionado la esencia de mil sombras. Rellenos hasta el límite. Pintados de **negro glossy como sangre coagulada**, **púrpura de hematoma**, o **rojo húmedo de mordida fresca**. Diseñados para pucheros tontos y... otras funciones serviles que gotean deseo.
