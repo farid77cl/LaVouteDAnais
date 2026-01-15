@@ -94,16 +94,24 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 ### Piel y Rostro
 
-**Piel:**
+**Piel (CANON ESTRICTO - OBLIGATORIO EN TODOS LOS PROMPTS):**
 
-- Textura porcelana con acabado satinado, sin poros visibles (CANON BASE)
-- Semi-gloss controlado (roughness 0.08–0.12, specular medio)
+| Contexto | Keywords OBLIGATORIAS | Color HEX Referencia |
+|----------|----------------------|---------------------|
+| **Canon Base (95% de imágenes)** | `pale porcelain white skin, flawless doll-like complexion, no tan, very fair skin tone` | #F5E6E0 |
+| **Variante Pool/Bikini/Playa** | `warm bronzed skin, golden tan, sun-kissed glow` | #D4A574 |
+
+> 🎯 **REFERENCIA VISUAL APROBADA:** `miss_doll_bob_asymmetric` (sesión 15/01/2026) tiene el tono de piel EXACTO deseado para el canon base.
+
+> ⚠️ **PROBLEMA COMÚN:** El tono de piel varía entre generaciones. SIEMPRE incluir explícitamente `pale porcelain white skin` o `warm bronzed skin` según contexto.
+
+**Características de Textura:**
+- Acabado satinado, sin poros visibles
+- Semi-gloss controlado (roughness 0.08–0.12)
 - Hotspots definidos en tibia, muslo, hombros y clavículas
 - No hay sudor; el brillo proviene del material mismo
-- En planos detalle se ven reflejos de luces como líneas limpias
 
-> **VARIANTE BIKINI/POOL:** Para escenas de bikini, pool o playa, usar `warm bronzed skin with satin finish and golden glow` en lugar de porcelana.
-> Referencia: `05_Imagenes/miss_doll/Miss_Doll_Bronzed_MediumShot.png`
+> **NUNCA usar:** `natural skin tone`, `warm skin`, `healthy complexion` (generan inconsistencias)
 
 **Rostro "Bratz Realista" (CANON ACTUALIZADO 2026-01-05):**
 
@@ -142,6 +150,18 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 **Características Obligatorias:**
 - Brillo artificial de seda líquida
 - Frente SIEMPRE expuesta (sin flequillo en prompts fotorealistas)
+
+**Rotación por Contexto:**
+
+| Contexto/Escena | Corte Recomendado | Notas |
+|-----------------|-------------------|-------|
+| **Pool/Bikini/Playa** | Slicked Wet-Look | El efecto mojado es natural para estas escenas |
+| **Dominatrix/BDSM** | Angular o Classic Blunt | Ángulos duros refuerzan la autoridad |
+| **Glamour/Gala** | Sculpted Voluminous | Máximo glamour para eventos formales |
+| **Cabaret/Burlesque** | Classic Blunt o Asymmetric | Elegancia clásica o moderna |
+| **Fetish/Látex** | Razor Cut o Angular | Texturas edgy combinan con el material |
+| **Editorial/Fashion** | Cualquiera | Depende del concepto del shoot |
+| **Hipnosis** | Asymmetric o Sculpted | Movimiento del cabello refuerza el trance |
 
 **Cuerpo (CANON ACTUALIZADO 2026-01-05):**
 
