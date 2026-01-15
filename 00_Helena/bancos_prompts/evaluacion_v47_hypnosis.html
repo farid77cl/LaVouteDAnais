@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌀 Banco V47: Hypnosis - Evaluación</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --card: #161b22;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --pink: #ff69b4;
+            --green: #3fb950;
+            --yellow: #d29922;
+            --red: #f85149;
+            --purple: #a371f7;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 { color: var(--pink); margin-bottom: 10px; }
+        .stats {
+            background: var(--card);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .stat { display: flex; align-items: center; gap: 5px; }
+        .stat-dot { width: 12px; height: 12px; border-radius: 50%; }
+        .prompt-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+        .prompt-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .prompt-title { color: var(--pink); font-weight: bold; }
+        .prompt-text {
+            background: #0d1117;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 100px;
+            overflow-y: auto;
+            margin-bottom: 10px;
+        }
+        .eval-row {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .eval-option {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+            padding: 5px 10px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            transition: all 0.2s;
+        }
+        .eval-option:hover { border-color: var(--pink); }
+        .eval-option.selected { border-color: var(--pink); background: rgba(255,105,180,0.2); }
+        .eval-option input { display: none; }
+        .copy-btn {
+            background: var(--purple);
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .copy-btn:hover { opacity: 0.8; }
+        .bueno { color: var(--green); }
+        .normal { color: var(--yellow); }
+        .malo { color: var(--red); }
+        .rechazado { color: #666; text-decoration: line-through; }
+    </style>
+</head>
+<body>
+    <h1>🌀 Banco V47: Hypnosis & Mind Control</h1>
+    <p style="margin-bottom: 20px; opacity: 0.7;">Haz clic en una evaluación para guardarla. Los datos se almacenan en tu navegador.</p>
+    
+    <div class="stats" id="stats">
+        <div class="stat"><span class="stat-dot" style="background: var(--green)"></span> Bueno: <span id="count-bueno">0</span></div>
+        <div class="stat"><span class="stat-dot" style="background: var(--yellow)"></span> Normal: <span id="count-normal">0</span></div>
+        <div class="stat"><span class="stat-dot" style="background: var(--red)"></span> Malo: <span id="count-malo">0</span></div>
+        <div class="stat"><span class="stat-dot" style="background: #666"></span> Rechazado: <span id="count-rechazado">0</span></div>
+        <div class="stat">Sin evaluar: <span id="count-pending">0</span></div>
+    </div>
+
+    <div id="prompts"></div>
+
+    <script>
+        const prompts = [
+            {id: 1, title: "Pendulum Swing - Classic Induction", text: "Professional glamour photography of glamorous WOMAN with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling perfect doll appearance. Delicate refined features KNOWING SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips confident smirk. Human realistic face DOMINANT CONTROLLER expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX dress tight shiny visible pink corset bodice. Holding GOLDEN POCKET WATCH on chain swinging as pendulum hypnotic motion blur. PLEASER platform heels 8-inch pink patent. Dark luxurious therapy room velvet. Sensual standing pose holding swinging watch at eye level. Expression: watch the watch. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation."},
+            {id: 2, title: "Spiral Eyes - Unnatural Beauty", text: "Professional glamour photography of glamorous WOMAN with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin unsettling doll beauty. Delicate refined features INTENSE STARE. HEAVY GLAMOUR MAKEUP: PINK AND BLACK SPIRAL CONTACT LENSES in both eyes hypnotic pattern spinning illusion, thick cat-eye liner, mega lashes, arched brows, ULTRA PLUMP overlined glossy PINK lips slight smile. Human realistic face with spiral eyes HYPNOTIST expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing WHITE LATEX nurse dress with pink trim visible pink corset. Close-up portrait spiral eyes prominently featured. Dark background spotlight on face. Expression: look into my eyes. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation."},
+            {id: 3, title: "Snap Fingers - Instant Trigger", text: "Professional glamour photography of glamorous WOMAN with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression snapping fingers. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK SATIN blouse open revealing visible pink latex corset shiny tight. One hand raised SNAPPING FINGERS motion captured. PLEASER heels 8-inch pink patent power stance. Dark therapy office setting. Sensual commanding pose mid-snap. Expression: SLEEP NOW. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation."},
+            {id: 4, title: "Crystal Ball - Fortune Teller", text: "Professional glamour photography of glamorous WOMAN with platinum blonde bob haircut WITHOUT bangs (exposing forehead) mysterious veil nearby. Flawless porcelain skin mystical glow. Delicate refined features MYSTERIOUS SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes mystical, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips knowing smile. Human realistic face MYSTIC expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK VELVET fortune teller dress low cut visible pink corset bodice, sheer sleeves. Hands around GLOWING CRYSTAL BALL pink mist inside. Fortune teller tent pink and purple fabrics. Sensual mystical pose gazing into ball. Expression: I see your future and you obey. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation."},
+            {id: 5, title: "Metronome Tick - Rhythmic Control", text: "Professional glamour photography of glamorous WOMAN with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features PATIENT SMILE. HEAVY GLAMOUR MAKEUP: pink shimmer eyes following motion, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face CONTROLLER expression watching metronome. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing PINK LATEX secretary outfit visible pink corset blouse tight skirt. VINTAGE METRONOME on desk in motion tick tock. Pink office setting. Sensual seated at desk pose watching metronome. Expression: tick tock deeper. Hypnosis aesthetic. Seductive glamour photography. Photorealistic 8k. Vertical portrait orientation."}
+        ];
+
+        const STORAGE_KEY = 'banco_v47_eval';
+
+        function getEvals() {
+            return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+        }
+
+        function setEval(id, value) {
+            const evals = getEvals();
+            evals[id] = value;
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(evals));
+            updateStats();
+            renderPrompts();
+        }
+
+        function updateStats() {
+            const evals = getEvals();
+            const counts = {bueno: 0, normal: 0, malo: 0, rechazado: 0, pending: 0};
+            prompts.forEach(p => {
+                const val = evals[p.id];
+                if (val === 'bueno') counts.bueno++;
+                else if (val === 'normal') counts.normal++;
+                else if (val === 'malo') counts.malo++;
+                else if (val === 'rechazado') counts.rechazado++;
+                else counts.pending++;
+            });
+            document.getElementById('count-bueno').textContent = counts.bueno;
+            document.getElementById('count-normal').textContent = counts.normal;
+            document.getElementById('count-malo').textContent = counts.malo;
+            document.getElementById('count-rechazado').textContent = counts.rechazado;
+            document.getElementById('count-pending').textContent = counts.pending;
+        }
+
+        function copyPrompt(text) {
+            navigator.clipboard.writeText(text);
+            alert('✅ Prompt copiado!');
+        }
+
+        function renderPrompts() {
+            const evals = getEvals();
+            const container = document.getElementById('prompts');
+            container.innerHTML = prompts.map(p => {
+                const currentEval = evals[p.id] || '';
+                return `
+                <div class="prompt-card">
+                    <div class="prompt-header">
+                        <span class="prompt-title">Prompt ${p.id}: ${p.title}</span>
+                        <button class="copy-btn" onclick="copyPrompt(\`${p.text.replace(/`/g, '\\`')}\`)">📋 Copiar</button>
+                    </div>
+                    <div class="prompt-text">${p.text}</div>
+                    <div class="eval-row">
+                        <label class="eval-option ${currentEval === 'bueno' ? 'selected' : ''}" onclick="setEval(${p.id}, 'bueno')">
+                            <span class="bueno">✓ Bueno</span>
+                        </label>
+                        <label class="eval-option ${currentEval === 'normal' ? 'selected' : ''}" onclick="setEval(${p.id}, 'normal')">
+                            <span class="normal">~ Normal</span>
+                        </label>
+                        <label class="eval-option ${currentEval === 'malo' ? 'selected' : ''}" onclick="setEval(${p.id}, 'malo')">
+                            <span class="malo">✗ Malo</span>
+                        </label>
+                        <label class="eval-option ${currentEval === 'rechazado' ? 'selected' : ''}" onclick="setEval(${p.id}, 'rechazado')">
+                            <span class="rechazado">⊘ Rechazado</span>
+                        </label>
+                    </div>
+                </div>
+                `;
+            }).join('');
+        }
+
+        renderPrompts();
+        updateStats();
+    </script>
+</body>
+</html>
