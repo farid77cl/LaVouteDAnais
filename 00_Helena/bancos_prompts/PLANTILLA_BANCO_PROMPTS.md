@@ -65,7 +65,7 @@ Professional glamour photography of powerful aristocratic WOMAN in her 40s with 
 
 ### Prompt 1: [Título Descriptivo]
 
-**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
+**Eval:** _
 
 ```text
 [Prompt completo aquí - incluir todo el texto necesario para generar la imagen]
@@ -74,21 +74,20 @@ Professional photography. Photorealistic 8k.
 
 ### Prompt 2: [Título Descriptivo]
 
-**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
+**Eval:** _
 
 ```text
 [Prompt completo aquí]
 Professional photography. Photorealistic 8k.
 ```
 
-### Prompt 3: [Título Descriptivo]
-
-**Evaluación:** `[ ] Bueno` `[ ] Normal` `[ ] Malo` `[ ] Rechazado`
-
-```text
-[Prompt completo aquí]
-Professional photography. Photorealistic 8k.
-```
+> [!NOTE]
+> **Sistema de Evaluación:**
+> - `_` = Sin evaluar
+> - `+` = Bueno (funciona perfectamente)
+> - `~` = Normal (aceptable con ajustes)
+> - `-` = Malo (no funciona)
+> - `X` = Rechazado (filtrado/bloqueado)
 
 <!-- CONTINUAR HASTA PROMPT 100 -->
 
