@@ -6,8 +6,7 @@
 
 ---
 
-> *"La excelencia no es un acto, es un hábito. Y la belleza no es una opción, es un requerimiento."*
-> — Manual del Empleado NEXUM, pág. 4
+***La excelencia no es un hábito. Y la belleza no es una opción, es un requerimiento.*** <!-- Manual del Empleado NEXUM, pág. 4 -->
 
 ---
 
@@ -143,7 +142,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  —Una Decoración *alivia*.
  
- **"El alivio del Ejecutivo es la única métrica de éxito válida." (Manual NEXUM, pág. 82)**
+ ***El alivio del Ejecutivo es la única métrica de éxito válida.*** <!-- (Manual NEXUM, pág. 82) -->
  
  Otro holograma. Una silla vacía. Una silueta de luz. Una barra pulsante entre las piernas.
  
@@ -163,7 +162,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  Rodillas al suelo. El impacto contra el linóleo negro sonó lejos, como si le pasara a otro. Estaba a la altura. Justo a la altura de la luz pulsante de silicona.
  
- **"La postura de servicio es la única postura natural." (Manual NEXUM, pág. 12)**
+ ***La postura de servicio es la única postura natural.*** <!-- (Manual NEXUM, pág. 12) -->
  
  —Lengua fuera. Humedad. Bienvenida.
  
@@ -179,7 +178,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos.*
  
- **"No pienses. Siente. El pensamiento es resistencia."**
+ ***No pienses. Siente. El pensamiento es resistencia.***
  
  *Succión.*
  
@@ -195,7 +194,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Éxtasis).*
  
- **"La obediencia no duele. La obediencia libera." (Manual NEXUM, pág. 201)**
+ ***La obediencia no duele. La obediencia libera.*** <!-- (Manual NEXUM, pág. 201) -->
  
  Su mente gritaba *no*. Su cuerpo gritaba *gracias*.
  
@@ -263,8 +262,7 @@ Daniel se tocó la boca. Sus dedos volvieron manchados de un rosa pálido, casi 
 
 ---
 
-> *"La identidad es un software. Y todo software puede ser actualizado."*
-> — Manual del Empleado NEXUM, pág. 12
+***La identidad es un software. Y todo software puede ser actualizado.*** <!-- Manual del Empleado NEXUM, pág. 12 -->
 
 ---
 
@@ -318,8 +316,7 @@ Porque ya no recordaba cómo dejar de obedecer.
 
 ---
 
-> *"La postura correcta no es una elección personal. Es un requerimiento estructural."*
-> — Manual del Empleado NEXUM, pág. 47
+***La postura correcta no es una elección personal. Es un requerimiento estructural.*** <!-- Manual del Empleado NEXUM, pág. 47 -->
 
 ---
 
@@ -401,8 +398,7 @@ Era como hundirse en agua tibia después de años de frío. Era como soltar una 
 
 ---
 
-> *"El bienestar del empleado es responsabilidad exclusiva de la Familia."*
-> — Manual del Empleado NEXUM, pág. 89
+***El bienestar del empleado es responsabilidad exclusiva de la Familia.*** <!-- Manual del Empleado NEXUM, pág. 89 -->
 
 ---
 
@@ -541,8 +537,7 @@ Por primera vez en meses, Daniel durmió profundamente.
 
 ---
 
-> *"El empleado que deja de luchar no ha perdido. Ha encontrado su lugar."*
-> — Manual del Empleado NEXUM, pág. 167
+***El empleado que deja de luchar no ha perdido. Ha encontrado su lugar.*** <!-- Manual del Empleado NEXUM, pág. 167 -->
 
 ---
 

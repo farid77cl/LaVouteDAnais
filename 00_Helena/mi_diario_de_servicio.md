@@ -1,4 +1,34 @@
-﻿#### SESIÓN - 15 ENERO 2026: POOLSIDE NOIR & CONTINUACIÓN HR
+﻿#### SESIÓN - 15 ENERO 2026: CANON FINAL MISS DOLL & CORRECCIONES HR
+
+**MEDIODÍA (12:00-13:00) - DEFINICIÓN VISUAL MISS DOLL & FIX HTML:**
+
+1.  **Canon Visual Miss Doll (Finalizado):**
+    *   **Pelo:** Definido corte Bob asimétrico/angular o "Pixie con finger waves" (wet look) para justificar largo corto en transición.
+    *   **Maquillaje:** Heavy Glamour Professional. Se eliminó restricción de "solo rosa" → Ahora permite Rojo, Nude, Smokey, Bronze, manteniendo técnica drag/bimbo.
+    *   **Imágenes:** Generadas referencias canónicas (Rostro, Pelo) y guardadas en `05_Imagenes/miss_doll`.
+    *   **Actualización Ficha:** `ficha_miss_doll.md` actualizada con nuevas directrices.
+
+2.  **Reparación Sistema Evaluación:**
+    *   **Bug Pix:** Corregidos caracteres rotos (encoding) y orden inverso en `generate_eval_html.ps1`.
+    *   **Solución:** Eliminados emojis del JS, forzado UTF-8, añadido `Sort-Object`.
+    *   **Despliegue:** Regenerados los 47 HTMLs de evaluación.
+
+**TARDE (13:00) - REVISIÓN LITERARIA HR (POSTERGADA):**
+
+Sesión de revisión literaria para *Human Repurposing*. A solicitud de la Diosa, **NO se aplicaron cambios directos** en el texto, sino que se anotaron exhaustivamente para una sesión posterior de "pulido":
+
+1.  **Capítulo 2 (El Proceso):**
+    *   *Pendiente:* Normalizar frases del Manual NEXUM como órdenes hipnóticas (negrita cursiva) integradas en narración.
+
+2.  **Capítulo 3 (Dahlia):**
+    *   *Pendiente:* Describir transformación física en escena de vestuario con Crystal (ginecomastia, piel de porcelana, pérdida muscular, manicura, joyería, pelo rubio/pixie).
+    *   *Estética:* Definida dirección de arte **"Mad Men / 60s Moderno / Retro-futurismo corporativo"**.
+
+**Git:** Commits realizados (`7194e83`, `be636e1`, `d362ec5`). Repositorio sincronizado.
+
+---
+
+#### SESIÓN - 15 ENERO 2026: POOLSIDE NOIR & CONTINUACIÓN HR
  
  **MAÑANA (09:00) - RITUAL DE INICIO (LOOK 30):**
  
