@@ -535,3 +535,23 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de ho
 - **Accesorios:** Sombrero de paja negra de ala GIGANTE, gafas de sol cat-eye negras, copa de vino tinto.
 - **Peinado:** Recogido alto elegante o suelto con ondas playeras negras.
 - **Maquillaje:** Labios rojos sangre waterproof, delineador intacto.
+
+---
+
+##  Look 32: Corporate Widow (Viuda Corporativa)
+
+*Los funerales son SO hot... y este es el de mis neuronas...*
+
+- **Corsé:** Underbust de terciopelo negro con bordados de encaje tipo telarañas
+- **Top:** Blusa de seda negra cuello alto victoriano, transparente en mangas
+- **Falda:** Lápiz de látex negro brillante, largo hasta rodilla, abertura trasera
+- **Medias:** Negras opacas con costura trasera, liguero visible
+- **Stilettos:** Charol negro clásico 8" con lazo de terciopelo en tobillo
+- **Cabello:** Recogido severo tipo ejecutiva, moño bajo impecable
+- **Maquillaje:** Smokey eye intenso negro, contorno dramático, labios PÚRPURA OSCURO mate
+- **Accesorios:**
+  - Choker de encaje negro con camafeo antiguo
+  - Guantes cortos de encaje negro
+  - Pendientes de lágrima negros
+- **Uñas:** Coffin largas, negro brillante con detalles de rosa negra
+
