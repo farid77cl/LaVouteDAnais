@@ -314,7 +314,7 @@ Y lo decía completamente en serio.
 
 ---
 
-> *Continuará en Capítulo 4: "El Ciclo"*
+> *Continuará en Capítulo 4: "La Propiedad"*
 
 ---
 

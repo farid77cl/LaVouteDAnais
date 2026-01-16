@@ -331,7 +331,7 @@ La marca de los que ya no eran personas.
 
 La marca de los que eran proceso.
 
-—Bienvenido a tu nueva vida, cariño —dijo Miranda, sin levantar la vista.
+—Bienvenido a tu nueva vida, cariño —dijo Miranda, sin levantar la vista. <!-- ✅ EDITADO 15-Ene: Cambiado de "Dahlia" a "cariño" para no revelar nombre antes de Ceremonia -->
 
 Las puertas se cerraron.
 

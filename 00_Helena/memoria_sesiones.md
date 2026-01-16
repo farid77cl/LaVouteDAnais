@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | HR: Human Repurposing |
 | **Ubicación** | `03_Literatura/en_progreso/hr_human_repurposing/` |
-| **Fase del Ritual** | ✅ Cap 2 Reescrito (Claustrofóbico) |
-| **Capítulo en Progreso** | Capítulo 3 (Pendiente escritura - Con directivas sexuales) |
-| **Última Decisión** | Incluir entrenamiento sexual explícito y uso de orificios en futuras revisiones |
+| **Fase del Ritual** | ✅ FINALIZADO (4 Caps + Epílogo) |
+| **Capítulo en Progreso** | --- (Listo para publicación) |
+| **Última Decisión** | Versión erótica-fetichista definitiva aprobada |
 
 ### Proyectos Secundarios/Pausados
 

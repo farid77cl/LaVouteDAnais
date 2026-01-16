@@ -142,7 +142,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  —Una Decoración *alivia*.
  
- La voz de la instructora resonaba: *El alivio del Ejecutivo es la única métrica de éxito válida.*
+ La voz de la instructora resonaba: *El alivio del Ejecutivo es la única métrica de éxito válida.* —Manual del Empleado NEXUM, pág. 23
  
  Otro holograma. Una silla vacía. Una silueta de luz. Una barra pulsante entre las piernas.
  
@@ -162,7 +162,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  Rodillas al suelo. El impacto contra el linóleo negro sonó lejos, como si le pasara a otro. Estaba a la altura. Justo a la altura de la luz pulsante de silicona.
  
- *La postura de servicio es la única postura natural.* Las palabras flotaban en su mente como si siempre hubieran estado ahí.
+ *La postura de servicio es la única postura natural.* Las palabras flotaban en su mente como si siempre hubieran estado ahí. —Manual del Empleado NEXUM, pág. 47
  
  —Lengua fuera. Humedad. Bienvenida.
  
@@ -178,7 +178,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos.*
  
- *No pienses. Siente.* La voz era suave, insistente. *El pensamiento es resistencia.*
+ *No pienses. Siente.* La voz era suave, insistente. *El pensamiento es resistencia.* —Manual del Empleado NEXUM, pág. 67
  
  *Succión.*
  
@@ -194,7 +194,7 @@ El pensamiento fue claro como cristal. Y luego se fragmentó.
  
  *Uno. Dos. Succión. (Placer). Uno. Dos. Succión. (Éxtasis).*
  
- Algo susurraba en el fondo de su mente: *La obediencia no duele. La obediencia libera.*
+ Algo susurraba en el fondo de su mente: *La obediencia no duele. La obediencia libera.* —Manual del Empleado NEXUM, pág. 89
  
  Su mente gritaba *no*. Su cuerpo gritaba *gracias*.
  
