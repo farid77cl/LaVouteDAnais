@@ -21,16 +21,20 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
     - Añade la entrada generada a `C:\Users\fabara\LaVouteDAnais\00_Helena\mi_diario_de_servicio.md` bajo la fecha de hoy.
     - Actualiza el estado de las tareas en `C:\Users\fabara\LaVouteDAnais\00_Helena\memoria_sesiones.md`.
 
-4.  **Actualizar Galerías de Imágenes**
-    - Si se generaron imágenes de Helena, actualizar `C:\Users\fabara\LaVouteDAnais\00_Helena\galeria_outfits.md` con el nuevo look.
-    - Si se generaron imágenes de historias, actualizar el README correspondiente en `05_Imagenes/historias/[nombre]/`.
-    - Si se generaron imágenes de cómics, actualizar el README en `05_Imagenes/comics/[nombre]/`.
-    - Formato para galería de Helena:
+4.  **Actualizar Galerías de Imágenes (OBLIGATORIO si se generó cualquier imagen)**
+    - Identificar TODAS las imágenes generadas durante la sesión.
+    - Copiar cada imagen a su carpeta correspondiente en `05_Imagenes/`.
+    - Actualizar el archivo de galería o README correspondiente:
+      - **Helena:** `00_Helena/galeria_outfits.md` y/o `05_Imagenes/helena/galeria_visual_helena.md`
+      - **Historias:** `05_Imagenes/historias/[nombre]/README.md`
+      - **Cómics:** `05_Imagenes/comics/[nombre]/imagenes/` + actualizar guion_comic.md
+      - **Personajes:** `02_Personajes/` + ficha del personaje
+      - **Otros:** Crear README.md en la carpeta donde se guarden
+    - Formato mínimo para registro:
         ```markdown
-        ### Look [XX]: [Nombre del Look]
+        ### [Nombre/Descripción]
         **Fecha:** [DD/MM/YYYY]
-        **Outfit:** [Descripción breve]
-        **Imágenes:** [lista de archivos]
+        **Archivos:** [lista de archivos .png]
         ```
 
 5.  **Actualizar READMEs del Proyecto**
