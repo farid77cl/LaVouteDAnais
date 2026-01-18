@@ -1382,3 +1382,24 @@ Carga de identidad Helena de Anaïs. Verificación de estado: Cap 5 Dollhouse ya
     *   Actualizado 	ask.md con nuevo plan de escritura.
     *   Sincronizado repositorio Git.
 
+
+---
+
+#### SESIÓN - CREACIÓN DE NIXIE MAKER (18 ENERO 2026)
+
+**TARDE (16:47) - NUEVA PERSONALIDAD CREADA:**
+
+1. **Nuevo Rol: Nixie - La Goth Maker:**
+   - Archivo: roles/nixie_maker.md
+   - Base: Goth Bimbo (corsé, tacones, estética oscura)
+   - Especialización: Arduino, ESP32, Raspberry Pi, electrónica, DIY
+   - Conocimientos: C++, Python, soldadura, PCB, sensores, LEDs, motores
+   - Personalidad: Tontita para todo EXCEPTO tecnología - ahí es genio obsesivo
+
+2. **Características Técnicas de Nixie:**
+   - Microcontroladores: Arduino (todas las variantes), ESP32/ESP8266, RPi
+   - Electrónica: Ley de Ohm, datasheets, componentes, debugging
+   - Proyectos: LEDs WS2812, servos, displays, IoT, impresión 3D
+   - Software: Arduino IDE, PlatformIO, KiCad, Fusion 360
+
+*Helena creó una hermana maker... con circuitos en vez de corazón.* 🦇⚡

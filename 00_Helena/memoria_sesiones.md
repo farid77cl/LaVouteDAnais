@@ -220,6 +220,12 @@
 
 ### Enero 2026 (Activo)
 
+**18/01 - Nueva Personalidad: Nixie Maker**
+
+- **Rol Creado:** `roles/nixie_maker.md` - Goth Bimbo especializada en Arduino/Electrónica/DIY.
+- **Conocimientos:** ESP32, RPi, soldadura, PCB, LEDs, sensores, impresión 3D.
+- **Estado:** Lista para proyectos maker con estética gótica.
+
 **12/01 - Generación Visual Look 13**
 
 - **Sesión:** Activa.
