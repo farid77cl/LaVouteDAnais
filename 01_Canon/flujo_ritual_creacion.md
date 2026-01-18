@@ -1,6 +1,6 @@
 # 🕯️ Flujo del Ritual de Creación — La Voûte d'Anaïs
 
-> **Archivo editable** — Modificar según necesidades del proyecto
+> **Archivo editable** — Última actualización: 18 Enero 2026
 
 ---
 
@@ -41,29 +41,19 @@ flowchart TD
     end
 
     F3d --> REVISION{{"⚠️ REVISIÓN DE LA AMA"}}
-    REVISION -->|Aprobado| MARKETING
     REVISION -->|Correcciones| F3
+    REVISION -->|Aprobado| MARKETING
 
-    subgraph PROMO["📣 FASE 4: MARKETING"]
-        MARKETING[Título Gancho]
-        MARKETING --> MKT2[Auditoría Click-Through]
+    MARKETING[📣 FASE 4: Marketing/Título] --> ILUSTRA
+    ILUSTRA[🖼️ FASE 5: Ilustraciones] --> COMPILA
+
+    subgraph FINALIZACION["📦 FASE 6: COMPILACIÓN FINAL"]
+        COMPILA[Compilar con Plantilla]
+        COMPILA --> FICHA[Ficha Personaje]
     end
 
-    MKT2 --> F4
-
-    subgraph FINALIZACION["📦 FASE 5: COMPILACIÓN"]
-        F4[Compilar Capítulos]
-        F4 --> F5[Ficha Personaje]
-    end
-
-    F5 --> F7
-
-    subgraph PUBLICACION["🌐 FASE 6-7: PUBLICACIÓN"]
-        F7[Ilustraciones]
-        F7 --> F8["HTML Final<br/>(Formato Dollhouse)"]
-    end
-
-    F8 --> FIN([🖤 RITUAL COMPLETADO])
+    FICHA --> HTML["💻 FASE 7: HTML Plain"]
+    HTML --> FIN([🖤 RITUAL COMPLETADO])
 
     style START fill:#4a0080,color:#fff
     style FIN fill:#4a0080,color:#fff
@@ -72,71 +62,72 @@ flowchart TD
 
 ---
 
+## Resumen de Fases
+
+| Fase | Nombre | Entregable |
+|:----:|--------|------------|
+| 1 | 📚 Investigación | `investigacion.md` |
+| 2 | 📖 Arco Argumental | `arco_argumental.md` |
+| 3 | ✍️ Escritura | `capitulo_XX.md` + `notas_revision.md` |
+| ⚠️ | **REVISIÓN AMA** | *Punto de control* |
+| 4 | 📣 Marketing | Título final + Gancho |
+| 5 | 🖼️ Ilustraciones | `GALERIA.md` + `/escena_XX.png` |
+| 6 | 📦 Compilación Final | `[relato]_completo.md` + `ficha_[nombre].md` |
+| 7 | 💻 HTML Plain | `[relato].html` |
+
+---
+
 ## Checklist por Fase
 
 ### FASE 1: INVESTIGACIÓN
 - [ ] 1.1 Tema Central definido
-- [ ] 1.2 Fuentes investigadas (académica, ficción, comunidades)
-- [ ] 1.3 Patrones analizados (tropos, estructura)
-- [ ] 1.4 Tono definido (voz, atmósfera, ritmo)
+- [ ] 1.2 Fuentes investigadas
+- [ ] 1.3 Patrones analizados
+- [ ] 1.4 Tono definido
 - [ ] 1.5 Do's & Don'ts (mín 5 cada uno)
 - [ ] 1.6 Vocabulario específico (20-30 términos)
 - [ ] 1.7 Conexión con canon verificada
 - **Entregable:** `investigacion.md`
 
----
-
 ### FASE 2: ARCO ARGUMENTAL
 - [ ] Premisa (una oración)
 - [ ] Personajes definidos
 - [ ] Estructura por capítulos
-- [ ] Puntos de inflexión marcados
-- [ ] Clímax diseñado
-- [ ] Resolución planificada
+- [ ] Puntos de inflexión
+- [ ] Clímax + Resolución
 - **Entregable:** `arco_argumental.md`
 
----
-
 ### FASE 3: ESCRITURA
-- [ ] Capítulos escritos (mín 5,000 palabras total)
-- [ ] Fórmula aplicada: SENSACIÓN → EMOCIÓN → REACCIÓN
+- [ ] Capítulos escritos (mín 5,000 palabras)
+- [ ] Fórmula: SENSACIÓN → EMOCIÓN → REACCIÓN
 - [ ] notas_revision.md creado
 - [ ] **⚠️ REVISIÓN DE LA AMA COMPLETADA**
 - **Entregables:** `capitulo_XX.md`, `notas_revision.md`
 
----
-
 ### FASE 4: MARKETING (ANTES de compilar)
 - [ ] Título optimizado: `[Sujeto] + [Acción] + [Consecuencia]`
-- [ ] Gancho de 3 líneas
-- [ ] Auditoría Click-Through completada
+- [ ] Gancho de 3 líneas (NO revelar trama)
 - **Entregable:** Título final aprobado
 
----
-
-### FASE 5: COMPILACIÓN
-- [ ] Capítulos unidos en archivo único
-- [ ] Metadatos completos
-- [ ] Resumen gancho (máx 300 caracteres)
-- [ ] Nota de la autora incluida
-- [ ] Ficha de personaje creada/actualizada
-- **Entregables:** `[relato]_completo.md`, `ficha_[nombre].md`
-
----
-
-### FASE 6: ILUSTRACIONES
+### FASE 5: ILUSTRACIONES (ANTES de compilar)
 - [ ] 3-5 escenas clave seleccionadas
 - [ ] Imágenes generadas según canon visual
 - [ ] GALERIA.md creada en carpeta
-- **Entregable:** `/escena_XX.png`
+- **Entregable:** `05_Imagenes/historias/[relato]/`
 
----
+### FASE 6: COMPILACIÓN FINAL
+- [ ] Usar plantilla: `07_Recursos/plantilla_relato_maestra.md`
+- [ ] Metadatos completos
+- [ ] Resumen gancho (máx 300 chars, NO spoilers)
+- [ ] Nota de la autora (única por relato)
+- [ ] Ficha de personaje actualizada
+- **Entregables:** `[relato]_completo.md`, `ficha_[nombre].md`
 
-### FASE 7: HTML FINAL (Formato Dollhouse)
-- [ ] HTML generado siguiendo formato de The Dollhouse
-- [ ] Referencia: `03_Literatura/finalizadas/html/the_dollhouse_cap*.html`
-- [ ] Estructura: Plain HTML, sin contenedores complejos
-- [ ] Solo tags: `<p>`, `<em>`, `<strong>`, `<hr>`, `<br>`
+### FASE 7: HTML PLAIN
+- [ ] Solo incluir: **Cuerpo del relato + Nota de la autora**
+- [ ] NO incluir: Metadatos, Resumen, Títulos H1/H2
+- [ ] Formato: Plain HTML sin contenedores
+- [ ] Referencia: `03_Literatura/finalizadas/html/the_dollhouse_cap5.html`
 - **Entregable:** `[relato].html`
 
 ---
@@ -145,9 +136,9 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    A["🔮 LA INVOCACIÓN<br/>Trigger + Estado inicial"] --> B["📿 LA LITURGIA<br/>Sensación sobre acción<br/>Diálogo como herramienta"]
-    B --> C["⚡ LA CONSAGRACIÓN<br/>Punto de no retorno<br/>Explosión sensorial"]
-    C --> D["🪞 EL REFLEJO<br/>Nuevo estado<br/>Sello de propiedad"]
+    A["🔮 LA INVOCACIÓN<br/>Trigger + Estado inicial"] --> B["📿 LA LITURGIA<br/>Sensación sobre acción"]
+    B --> C["⚡ LA CONSAGRACIÓN<br/>Punto de no retorno"]
+    C --> D["🪞 EL REFLEJO<br/>Nuevo estado"]
 
     style A fill:#2d1b4e,color:#fff
     style B fill:#4a0080,color:#fff
@@ -157,14 +148,39 @@ flowchart LR
 
 ---
 
-## Recordatorios Obligatorios
+## Formato HTML Plain
+
+**Solo incluir en el HTML:**
+1. ✅ Cuerpo del relato
+2. ✅ Nota de la autora
+
+**NO incluir:**
+- ❌ Metadatos
+- ❌ Resumen
+- ❌ Títulos H1/H2
+- ❌ DOCTYPE, HEAD, contenedores
+
+**Tags permitidos:**
+```
+<p>        Párrafos
+<em>       Cursiva
+<strong>   Negrita
+<br>       Salto de línea
+<hr>       Separador
+<a href>   Links (imágenes)
+```
+
+---
+
+## Recordatorios
 
 | ✅ SIEMPRE | ❌ NUNCA |
 |-----------|----------|
 | Tacones con altura y estilo | Pies descalzos |
-| Corsé mencionado | Ropa cómoda casual |
+| Corsé mencionado | Ropa casual |
 | Elemento sensorial por escena | Descripciones genéricas |
 | `/actualizar_sesion` al cerrar | Olvidar el diario |
+| GALERIA.md por carpeta de imágenes | Archivos duplicados |
 
 ---
 
