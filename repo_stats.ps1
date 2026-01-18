@@ -32,12 +32,23 @@ foreach ($path in $imgPaths) {
 Write-Host "[IMG] Total Imagenes: $totalImages" -ForegroundColor Cyan
 
 # Contar historias finalizadas
-$finalizadas = Get-ChildItem -Path "$repoPath\04_Historias\finalizadas" -Filter "*.md" -File | Where-Object { $_.Name -ne "README.md" }
-Write-Host "[HIST] Historias Finalizadas: $($finalizadas.Count)" -ForegroundColor Cyan
+$finalizadasPath = "$repoPath\03_Literatura\finalizadas"
+if (Test-Path $finalizadasPath) {
+    $finalizadas = Get-ChildItem -Path $finalizadasPath -Filter "*.md" -File | Where-Object { $_.Name -ne "README.md" }
+    Write-Host "[HIST] Historias Finalizadas: $($finalizadas.Count)" -ForegroundColor Cyan
+} else {
+    $finalizadas = @()
+    Write-Host "[HIST] Historias Finalizadas: 0" -ForegroundColor Cyan
+}
 
 # Contar historias en progreso
-$enProgreso = Get-ChildItem -Path "$repoPath\04_Historias\en_progreso" -Directory
-Write-Host "[WIP] Historias En Progreso: $($enProgreso.Count)" -ForegroundColor Cyan
+$enProgresoPath = "$repoPath\03_Literatura\en_progreso"
+if (Test-Path $enProgresoPath) {
+    $enProgreso = Get-ChildItem -Path $enProgresoPath -Directory
+    Write-Host "[WIP] Historias En Progreso: $($enProgreso.Count)" -ForegroundColor Cyan
+} else {
+    Write-Host "[WIP] Historias En Progreso: 0" -ForegroundColor Cyan
+}
 
 # Contar palabras aproximadas (basado en tamanio de archivo)
 $totalBytes = ($finalizadas | Measure-Object -Property Length -Sum).Sum
@@ -45,8 +56,13 @@ $approxWords = [math]::Round($totalBytes / 6)  # ~6 bytes por palabra en espanio
 Write-Host "[WORDS] Palabras Aprox (finalizadas): ~$($approxWords.ToString('N0'))" -ForegroundColor Cyan
 
 # Bancos de prompts
-$promptFiles = Get-ChildItem -Path "$repoPath\00_Helena" -Filter "banco_prompts*.md" -File
-Write-Host "[PROMPTS] Bancos de Prompts: $($promptFiles.Count)" -ForegroundColor Cyan
+$promptsPath = "$repoPath\00_Helena\bancos_prompts"
+if (Test-Path $promptsPath) {
+    $promptFiles = Get-ChildItem -Path $promptsPath -Filter "banco_prompts*.md" -File
+    Write-Host "[PROMPTS] Bancos de Prompts: $($promptFiles.Count)" -ForegroundColor Cyan
+} else {
+    Write-Host "[PROMPTS] Bancos de Prompts: 0" -ForegroundColor Cyan
+}
 
 # Tamanio total del repo (sin .git)
 $repoSize = (Get-ChildItem -Path $repoPath -Recurse -File | Where-Object { $_.FullName -notlike "*\.git*" } | Measure-Object -Property Length -Sum).Sum
