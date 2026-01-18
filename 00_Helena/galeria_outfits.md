@@ -555,3 +555,22 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de ho
   - Pendientes de lágrima negros
 - **Uñas:** Coffin largas, negro brillante con detalles de rosa negra
 
+
+---
+
+## ?? Look 31: Industrial Siren (18/01/2026)
+
+*Sirena de fábrica abandonada — oxidada por fuera, vacía por dentro* ????
+
+- **Corsé:** Overbust de cuero negro desgastado con hebillas de metal oxidado y engranajes decorativos steampunk
+- **Top:** Mesh transparente negro DEBAJO del corsé
+- **Bottom:** Falda asimétrica de cuero negro con cadenas colgantes y cremalleras expuestas
+- **Medias:** Fishnets industriales negras (red grande) con liguero de cuero con tachuelas
+- **Stilettos:** Botas hasta el tobillo de cuero negro mate, tacón aguja 8", con hebillas de metal
+- **Accesorios:** Choker de cuero grueso con engranaje central, guantes fingerless, cadenas corsé-falda, goggles steampunk
+- **Maquillaje:** Pálida industrial, ojos smokey negro geométrico, labios NEGRO MATE con centro glossy
+- **Pelo:** Ondas voluminosas negro azabache con mechones grises ceniza
+
+### ?? Imágenes (5)
+- helena_look31_standing.png`n- helena_look31_seated.png`n- helena_look31_back_view.png`n- helena_look31_side_profile.png`n- helena_look31_ditzy.png`n
+**Ubicación:** 05_Imagenes/helena/look31_industrial_siren/
