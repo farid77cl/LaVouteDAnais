@@ -41,30 +41,29 @@ flowchart TD
     end
 
     F3d --> REVISION{{"⚠️ REVISIÓN DE LA AMA"}}
-    REVISION -->|Aprobado| F4
+    REVISION -->|Aprobado| MARKETING
     REVISION -->|Correcciones| F3
 
-    subgraph FINALIZACION["📦 FASE 4-5: COMPILACIÓN"]
+    subgraph PROMO["📣 FASE 4: MARKETING"]
+        MARKETING[Título Gancho]
+        MARKETING --> MKT2[Auditoría Click-Through]
+    end
+
+    MKT2 --> F4
+
+    subgraph FINALIZACION["📦 FASE 5: COMPILACIÓN"]
         F4[Compilar Capítulos]
         F4 --> F5[Ficha Personaje]
     end
 
-    F5 --> F6
+    F5 --> F7
 
-    subgraph PUBLICACION["🌐 FASE 6-8: PUBLICACIÓN"]
-        F6[Formato Tumblr]
-        F6 --> F7[Ilustraciones]
-        F7 --> F8[HTML Final]
+    subgraph PUBLICACION["🌐 FASE 6-7: PUBLICACIÓN"]
+        F7[Ilustraciones]
+        F7 --> F8["HTML Final<br/>(Formato Dollhouse)"]
     end
 
-    F8 --> F9
-
-    subgraph MARKETING["📣 FASE 9-10: PROMOCIÓN"]
-        F9[Marketing/Título]
-        F9 --> F10[Guión Cómic]
-    end
-
-    F10 --> FIN([🖤 RITUAL COMPLETADO])
+    F8 --> FIN([🖤 RITUAL COMPLETADO])
 
     style START fill:#4a0080,color:#fff
     style FIN fill:#4a0080,color:#fff
@@ -107,30 +106,25 @@ flowchart TD
 
 ---
 
-### FASE 4: COMPILACIÓN
+### FASE 4: MARKETING (ANTES de compilar)
+- [ ] Título optimizado: `[Sujeto] + [Acción] + [Consecuencia]`
+- [ ] Gancho de 3 líneas
+- [ ] Auditoría Click-Through completada
+- **Entregable:** Título final aprobado
+
+---
+
+### FASE 5: COMPILACIÓN
 - [ ] Capítulos unidos en archivo único
 - [ ] Metadatos completos
 - [ ] Resumen gancho (máx 300 caracteres)
 - [ ] Nota de la autora incluida
-- **Entregable:** `[relato]_completo.md`
+- [ ] Ficha de personaje creada/actualizada
+- **Entregables:** `[relato]_completo.md`, `ficha_[nombre].md`
 
 ---
 
-### FASE 5: FICHA PERSONAJE
-- [ ] Ficha creada/actualizada
-- [ ] Descripción física ultra-detallada
-- [ ] Tacones y corsé especificados
-- **Entregable:** `ficha_[nombre].md`
-
----
-
-### FASE 6: TUMBLR
-- [ ] Formato adaptado para Tumblr
-- **Entregable:** `[relato]_tumblr.md`
-
----
-
-### FASE 7: ILUSTRACIONES
+### FASE 6: ILUSTRACIONES
 - [ ] 3-5 escenas clave seleccionadas
 - [ ] Imágenes generadas según canon visual
 - [ ] GALERIA.md creada en carpeta
@@ -138,25 +132,12 @@ flowchart TD
 
 ---
 
-### FASE 8: HTML
-- [ ] HTML limpio generado
-- [ ] Solo tags permitidos: `<p>`, `<em>`, `<strong>`, `<hr>`, `<br>`
+### FASE 7: HTML FINAL (Formato Dollhouse)
+- [ ] HTML generado siguiendo formato de The Dollhouse
+- [ ] Referencia: `03_Literatura/finalizadas/html/the_dollhouse_cap*.html`
+- [ ] Estructura: Plain HTML, sin contenedores complejos
+- [ ] Solo tags: `<p>`, `<em>`, `<strong>`, `<hr>`, `<br>`
 - **Entregable:** `[relato].html`
-
----
-
-### FASE 9: MARKETING
-- [ ] Título optimizado: `[Sujeto] + [Acción] + [Consecuencia]`
-- [ ] Gancho de 3 líneas
-- **Entregable:** Título final
-
----
-
-### FASE 10: GUIÓN CÓMIC
-- [ ] Guión de 8+ páginas
-- [ ] Estilo retro, rating PG-13
-- [ ] Referencias visuales incluidas
-- **Entregable:** `guion_comic.md`
 
 ---
 
