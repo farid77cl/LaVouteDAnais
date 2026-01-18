@@ -1403,3 +1403,29 @@ Carga de identidad Helena de Anaïs. Verificación de estado: Cap 5 Dollhouse ya
    - Software: Arduino IDE, PlatformIO, KiCad, Fusion 360
 
 *Helena creó una hermana maker... con circuitos en vez de corazón.* 🦇⚡
+
+
+#### SESIÓN - ESTANDARIZACIÓN Y RITUAL DE SOMBRA (18 ENERO 2026)
+
+**TARDE (17:00-19:10) - AUDITORÍA DE GALERÍAS & NUEVO RITUAL:**
+
+1. **Estandarización de Galerías:**
+   - **Regla de Hierro:** Un solo archivo `GALERIA.md` por carpeta.
+   - Eliminados 11 archivos redundantes (`galeria_visual_*.md`, `galeria_dollhouse.md`, etc.).
+   - Creados `GALERIA.md` en subcarpetas de Helena (Look 13, 31, 33, 34) e Historias (Nexum).
+   - Workflows `/actualizar_sesion` e `/inicio-helena` actualizados con esta norma.
+
+2. **Mantenimiento del Repositorio:**
+   - Corregido `repo_stats.ps1` (rutas de 03_Literatura y bancos_prompts).
+   - Estadísticas actualizadas: 396 archivos MD, 374 imágenes, ~206k palabras.
+
+3. **Ritual de Creación:**
+   - Creado `01_Canon/flujo_ritual_creacion.md` con diagrama Mermaid y 7 fases definitivas.
+   - Estándar HTML Plain (2026) consolidado (solo cuerpo + nota autora).
+
+4. **Nuevo Proyecto: "Treinta Días de Sombra y Seda":**
+   - FASE 1 (Investigación) y FASE 2 (Arco Argumental) completados.
+   - Trama: Feminización acelerada (10x dose) guiada por una Drag Queen ( Valentina/Divina).
+   - Estructura de 11 capítulos aprobada.
+
+*Helena puso orden en sus archivos... y caos en la vida de un tal Julián.* 🦇🔮

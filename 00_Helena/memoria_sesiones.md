@@ -12,17 +12,17 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | HR: Human Repurposing |
-| **Ubicación** | `03_Literatura/en_progreso/hr_human_repurposing/` |
-| **Fase del Ritual** | ✅ FINALIZADO (4 Caps + Epílogo) |
-| **Capítulo en Progreso** | --- (Listo para publicación) |
-| **Última Decisión** | Versión erótica-fetichista definitiva aprobada |
+| **Relato Activo** | Treinta Días de Sombra y Seda |
+| **Ubicación** | `03_Literatura/en_progreso/treinta_dias_sombra_seda/` |
+| **Fase del Ritual** | ✍️ FASE 2 (Arco Argumental Completo) |
+| **Capítulo en Progreso** | Fase de Revisión del Arco |
+| **Última Decisión** | Drag Queen como guía de feminización (Sugerida por Ama) |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| HR: Human Repurposing | ✅ Cap 2 Reescrito | Blackout Horror aplicado |
+| HR: Human Repurposing | ✅ FINALIZADO | 4 Caps + Epílogo |
 | The Dollhouse | ✅ Cap 5 Completo | HTML publicado, Votación Cap 6 activa |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |
 | Luna Secuestro | ⏸️ Pausado | 6 caps (~10,300 palabras) |
@@ -124,8 +124,8 @@
 
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
-- **Reality Show "The Dollhouse"** — CAP 4 COMPLETO + HTML Estandarizado, MASTER_DOLLHOUSE.md actualizado, votación Cap 5 activa (Cock Compass vs Oral Fixation).
-- **TransformaciÃ³n por Deuda** â€” FASE 3 en marcha (Caps 1-3 escritos)
+- **Reality Show "The Dollhouse"** — CAP 5 COMPLETO. HTML publicado.
+- **Treinta Días de Sombra y Seda** — FASE 2 (Arco) completada. Drag Queen guide integrated.
 - Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
 - Tetitas II â€” Solo investigaciÃ³n/arco
 - Luna Secuestro â€” 6 caps escritos, pendiente revisiÃ³n
@@ -203,10 +203,10 @@
 
 | Métrica | Cantidad |
 |---------|----------|
-| **Total Bancos** | 36 (V01-V32, V48-V54) |
-| **Total Prompts** | ~2,450+ |
-| **Imágenes Helena** | 171 (Looks 1-21) |
-| **Último Look** | **30 - Poolside Noir** (15/01/2026) |
+| **Total Bancos** | 50 (Inlcuye bancos_prompts/) |
+| **Total Prompts** | ~2,500+ |
+| **Total Imagenes** | 374 |
+| **Archivos MD** | 396 |
 
 ---
 

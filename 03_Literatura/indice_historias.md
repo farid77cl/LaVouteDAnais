@@ -96,7 +96,9 @@
 
 | Título | Estado | Caps | Palabras | Ubicación |
 |--------|--------|------|----------|-----------|
-| **El Vino del Vecino** 🆕 | 🔄 En desarrollo | 8 | ~17,000 | `en_progreso/el_vino_del_vecino/` |
+| **HR: Human Repurposing** 🆕 | 🔄 En desarrollo | 4+ | ~15,000 | `en_progreso/hr_human_repurposing/` |
+| **Treinta Días de Sombra y Seda** 🆕 | 🔄 En desarrollo | - | ~6,000 | `en_progreso/treinta_dias_sombra_seda/` |
+| **El Vino del Vecino** | 🔄 En desarrollo | 8 | ~17,000 | `en_progreso/el_vino_del_vecino/` |
 | **Luna Secuestro** | 🔄 En desarrollo | 6 | ~10,300 | `en_progreso/luna_secuestro/` |
 | **Jekyll y Bimbo** | ✏️ Planificado | - | - | `en_progreso/jekyll_y_bimbo/` |
 | **Tetitas II** | ✏️ Planificado | - | - | `en_progreso/tetitas_continuacion/` |
@@ -108,6 +110,7 @@
 
 | Título | Fecha | Palabras |
 |--------|-------|----------|
+| **HR: Human Repurposing (C4)** | 2026-01-15 | ~15,000 |
 | **El Collar de Nancy** | 2025-12-15 | ~10,000 |
 | **La Evaluación de Miss Doll** | 2025-12-10 | ~23,500 |
 | **Eres de los Hombres II** | 2025-12-11 | ~12,000 |
@@ -116,5 +119,14 @@
 
 ---
 
-*Última actualización: 2025-12-26*
+## 💻 Proyectos Especiales
+
+| Título | Ubicación | Estado |
+|--------|-----------|--------|
+| **Reality: The Dollhouse** | `05_Interactivo/the_dollhouse/` | ✅ Cap 5 Publicado |
+| **Ritual de Creación (Canon)** | `01_Canon/flujo_ritual_creacion.md` | ✅ Flujo 2026 Estandarizado |
+
+---
+
+*Última actualización: 2026-01-18*
 *Curado por: Helena de Anaïs 🌙*
