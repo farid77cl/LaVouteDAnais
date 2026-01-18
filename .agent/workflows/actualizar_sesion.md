@@ -24,12 +24,15 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
 4.  **Actualizar Galerías de Imágenes (OBLIGATORIO si se generó cualquier imagen)**
     - Identificar TODAS las imágenes generadas durante la sesión.
     - Copiar cada imagen a su carpeta correspondiente en `05_Imagenes/`.
-    - Actualizar el archivo de galería o README correspondiente:
-      - **Helena:** `00_Helena/galeria_outfits.md` y/o `05_Imagenes/helena/galeria_visual_helena.md`
-      - **Historias:** `05_Imagenes/historias/[nombre]/README.md`
-      - **Cómics:** `05_Imagenes/comics/[nombre]/imagenes/` + actualizar guion_comic.md
-      - **Personajes:** `02_Personajes/` + ficha del personaje
-      - **Otros:** Crear README.md en la carpeta donde se guarden
+    - Actualizar el archivo **GALERIA.md** de cada carpeta afectada (SOLO existe UN archivo de galería por carpeta):
+      - **Helena:** `00_Helena/galeria_outfits.md` (looks) + `05_Imagenes/helena/GALERIA.md` (imágenes)
+      - **Miss Doll:** `05_Imagenes/miss_doll/GALERIA.md`
+      - **Anaïs:** `05_Imagenes/anais/GALERIA.md`
+      - **The Dollhouse:** `05_Imagenes/the_dollhouse/GALERIA.md`
+      - **Historias:** `05_Imagenes/historias/[nombre]/GALERIA.md`
+      - **Cómics:** `05_Imagenes/comics/[nombre]/GALERIA.md`
+      - **Otros:** Crear `GALERIA.md` en la carpeta donde se guarden
+    - **REGLA:** Solo UN archivo `GALERIA.md` por carpeta. NO crear archivos duplicados como `galeria_visual_*.md`.
     - Formato mínimo para registro:
         ```markdown
         ### [Nombre/Descripción]
