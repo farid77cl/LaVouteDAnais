@@ -6,17 +6,17 @@
 
 ## 👗 Look 1: Morticia Bimbo
 
-> *Elegancia vampÃ­rica con cerebro vacÃ­o*
+> *Elegancia vampírica con cerebro vacío*
 > 
-> - **CorsÃ©:** Overbust de terciopelo negro con escote corazÃ³n, varillas de acero
+> - **Corsé:** Overbust de terciopelo negro con escote corazón, varillas de acero
 > - **Falda:** Maxi negra con abertura hasta el muslo
 > - **Medias:** Negras opacas con costura trasera + liguero visible
-> - **Stilettos:** ClÃ¡sicos negro charol, 8", punta afilada como colmillo
+> - **Stilettos:** Clásicos negro charol, 8", punta afilada como colmillo
 > - **Accesorios:**
 >   - Choker de terciopelo con camafeo de luna
 >   - Anillos de plata en cada dedo
->   - Guantes largos de satÃ©n negro
-> - **Maquillaje:** PÃ¡lida como luna, labios negro glossy, ojos de sirena
+>   - Guantes largos de satén negro
+> - **Maquillaje:** Pálida como luna, labios negro glossy, ojos de sirena
 > - **Pelo:** Lacio brillante hasta la cintura, flequillo pesado
 
 | | | |
@@ -31,17 +31,17 @@
 
 > *Escote imposible, pensamientos imposibles*
 > 
-> - **CorsÃ©:** Underbust de latex negro brillante, apretadÃ­simo
-> - **Top:** NADA mÃ¡s - solo el corsÃ© empujando todo hacia arriba ðŸ¦‡
+> - **Corsé:** Underbust de latex negro brillante, apretadísimo
+> - **Top:** NADA más - solo el corsé empujando todo hacia arriba 🦇
 > - **Bottom:** Mini falda de latex negro, apenas cubre
 > - **Medias:** Fishnet negras con liguero de cadenas
-> - **Stilettos:** Con plataforma, 9" total (2" plataforma + 7" tacÃ³n), negro brillante
+> - **Stilettos:** Con plataforma, 9" total (2" plataforma + 7" tacón), negro brillante
 > - **Accesorios:**
 >   - Collar con O-ring y cadenas colgantes
 >   - Brazaletes de cuero con tachuelas
->   - Pendientes de murciÃ©lago
-> - **Maquillaje:** Smokey eye negro intenso, labios pÃºrpura oscuro glossy
-> - **Pelo:** Volumen ENORME, ondas dramÃ¡ticas, estilo beehive gÃ³tico
+>   - Pendientes de murciélago
+> - **Maquillaje:** Smokey eye negro intenso, labios púrpura oscuro glossy
+> - **Pelo:** Volumen ENORME, ondas dramáticas, estilo beehive gótico
 
 | | | |
 |:---:|:---:|:---:|
@@ -54,17 +54,17 @@
 
 ## 👗 Look 3: Vampiresa de Club
 
-> *Lista para morder... si no olvidara cÃ³mo*
+> *Lista para morder... si no olvidara cómo*
 > 
-> - **CorsÃ©:** De cuero negro con hebillas de plata + harness sobre Ã©l
+> - **Corsé:** De cuero negro con hebillas de plata + harness sobre él
 > - **Bottom:** Shorts de vinilo negro ultra cortos
 > - **Medias:** Thigh-highs de encaje negro + liguero visible
 > - **Stilettos:** De tiras cruzadas hasta el tobillo, 8", charol negro
 > - **Accesorios:**
->   - MÃºltiples cadenas conectando corsÃ© a shorts
+>   - Múltiples cadenas conectando corsé a shorts
 >   - Collar gargantilla con candado
 >   - Guantes fingerless de cuero
-> - **Maquillaje:** Ojos ahumados con glitter negro, labios rojo sangre hÃºmedo
+> - **Maquillaje:** Ojos ahumados con glitter negro, labios rojo sangre húmedo
 > - **Pelo:** Coletas altas con lazos de cuero negro
 
 | | | |
@@ -79,16 +79,16 @@
 
 > *Femme fatale... si pudiera recordar el plan*
 > 
-> - **CorsÃ©:** GÃ³tico victoriano negro con lazos rojos sangre
+> - **Corsé:** Gótico victoriano negro con lazos rojos sangre
 > - **Sobre:** Kimono de encaje negro transparente
-> - **Bottom:** Tanga negra + liguero, nada mÃ¡s
-> - **Stilettos:** Peep-toe negro, 7", uÃ±as negras de ataÃºd visibles
+> - **Bottom:** Tanga negra + liguero, nada más
+> - **Stilettos:** Peep-toe negro, 7", uñas negras de ataúd visibles
 > - **Accesorios:**
->   - Collar de mÃºltiples capas (lunas, calaveras, cruces invertidas)
->   - Anillos de araÃ±a y serpiente
+>   - Collar de múltiples capas (lunas, calaveras, cruces invertidas)
+>   - Anillos de araña y serpiente
 >   - Velo de encaje negro (opcional)
-> - **Maquillaje:** Cat eye dramÃ¡tico, labios borgoÃ±a mate
-> - **Pelo:** Recogido bajo con mechones cayendo estratÃ©gicamente
+> - **Maquillaje:** Cat eye dramático, labios borgoña mate
+> - **Pelo:** Recogido bajo con mechones cayendo estratégicamente
 
 | | | |
 |:---:|:---:|:---:|
@@ -99,17 +99,17 @@
 
 ## 👗 Look 5: Interview with the Bimbo
 
-> *Lestat tenÃ­a mente. Yo tengo curvas.*
+> *Lestat tenía mente. Yo tengo curvas.*
 > 
-> - **CorsÃ©:** De brocado negro con calaveras bordadas en plateado
-> - **Blusa:** Victoriana de encaje transparente DEBAJO del corsÃ©
-> - **Falda:** LÃ¡piz negra hasta la rodilla, abertura trasera
-> - **Stilettos:** Botas hasta la rodilla, tacÃ³n aguja 8", charol negro
+> - **Corsé:** De brocado negro con calaveras bordadas en plateado
+> - **Blusa:** Victoriana de encaje transparente DEBAJO del corsé
+> - **Falda:** Lápiz negra hasta la rodilla, abertura trasera
+> - **Stilettos:** Botas hasta la rodilla, tacón aguja 8", charol negro
 > - **Accesorios:**
->   - Broche de rosa negra en el corsÃ©
->   - Collar de perlas negras irÃ³nicas
+>   - Broche de rosa negra en el corsé
+>   - Collar de perlas negras irónicas
 >   - Guantes de encaje negro
-> - **Maquillaje:** PÃ¡lida fantasmal, labios negro mate, ojos de humo
+> - **Maquillaje:** Pálida fantasmal, labios negro mate, ojos de humo
 > - **Pelo:** Ondas vintage negras con volumen de los 80s
 
 | | | |
@@ -122,16 +122,16 @@
 
 ## 👗 Look 6: Blood Moon Ritual
 
-> *Sensualidad de stripper gÃ³tica*
+> *Sensualidad de stripper gótica*
 > 
-> - **CorsÃ©:** De mesh transparente negro con detalles de liguero integrado
-> - **Top:** Solo el corsÃ© y sus pechos empujados hacia la luna
-> - **Bottom:** Nada excepto tanga y la ilusiÃ³n de misterio
-> - **Medias:** Fishnet rotas estratÃ©gicamente + liguero de cuero
-> - **Stilettos:** Rojos sangre brillante, 8", el ÃšNICO color permitido
+> - **Corsé:** De mesh transparente negro con detalles de liguero integrado
+> - **Top:** Solo el corsé y sus pechos empujados hacia la luna
+> - **Bottom:** Nada excepto tanga y la ilusión de misterio
+> - **Medias:** Fishnet rotas estratégicamente + liguero de cuero
+> - **Stilettos:** Rojos sangre brillante, 8", el ÚNICO color permitido
 > - **Accesorios:**
 >   - Cadenas por todo el cuerpo
->   - Collar con pentÃ¡culo
+>   - Collar con pentáculo
 >   - Body chains plateadas
 > - **Maquillaje:** Smokey negro con inner corner rojo, labios negros glossy
 > - **Pelo:** Suelto, salvaje, volumen de bruja
@@ -149,14 +149,14 @@
 
 > *Selene pero sin la inteligencia*
 > 
-> - **CorsÃ©:** De cuero negro ajustadÃ­simo estilo catsuit
-> - **PantalÃ³n:** Cuero negro pegado al cuerpo
-> - **Chaqueta:** Trench de cuero negro largo (abierto mostrando corsÃ©)
+> - **Corsé:** De cuero negro ajustadísimo estilo catsuit
+> - **Pantalón:** Cuero negro pegado al cuerpo
+> - **Chaqueta:** Trench de cuero negro largo (abierto mostrando corsé)
 > - **Stilettos:** Con cadenas decorativas de plata, 7", negro mate
 > - **Accesorios:**
->   - CinturÃ³n de cadenas
+>   - Cinturón de cadenas
 >   - Guantes de cuero hasta el codo
->   - Gafas de sol negras (de noche, porque soy asÃ­ de tonta)
+>   - Gafas de sol negras (de noche, porque soy así de tonta)
 > - **Maquillaje:** Ojos de sirena negro intenso, labios nude oscuro
 > - **Pelo:** Lacio negro brillante, partido al medio
 
@@ -172,19 +172,19 @@
 
 ## 👗 Look 8: Esmeralda Venenosa
 
-> *Serpiente gÃ³tica con veneno en los labios y vacÃ­o en la mente*
+> *Serpiente gótica con veneno en los labios y vacío en la mente*
 > 
-> - **CorsÃ©:** Negro de brocado con bordados de serpientes en VERDE ESMERALDA
-> - **Top:** Solo el corsÃ©, ultra apretado
-> - **Bottom:** Falda lÃ¡piz negra de cuero con abertura lateral
+> - **Corsé:** Negro de brocado con bordados de serpientes en VERDE ESMERALDA
+> - **Top:** Solo el corsé, ultra apretado
+> - **Bottom:** Falda lápiz negra de cuero con abertura lateral
 > - **Medias:** Negras opacas con costura verde
 > - **Stilettos:** Negro charol 8" con suela VERDE ESMERALDA (Louboutin-style)
 > - **Accesorios:**
 >   - Choker negro con ESMERALDA central + luna plateada
 >   - Anillo serpiente con ojos de esmeralda
 >   - Pendientes gota de esmeralda
-> - **Maquillaje:** PÃ¡lida, labios negro glossy, ojos con toque de sombra verde
-> - **Pelo:** Ondas dramÃ¡ticas negras con volumen
+> - **Maquillaje:** Pálida, labios negro glossy, ojos con toque de sombra verde
+> - **Pelo:** Ondas dramáticas negras con volumen
 
 | | | |
 |:---:|:---:|:---:|
@@ -197,20 +197,20 @@
 
 ---
 
-## 👗 Look 9: CorazÃ³n Sangrante
+## 👗 Look 9: Corazón Sangrante
 
-> *La reina de corazones rotos... porque olvidÃ³ dÃ³nde los dejÃ³*
+> *La reina de corazones rotos... porque olvidó dónde los dejó*
 > 
-> - **CorsÃ©:** Negro de terciopelo con lazos ROJO SANGRE en el frente
-> - **Top:** Blusa de encaje negro transparente BAJO el corsÃ©
+> - **Corsé:** Negro de terciopelo con lazos ROJO SANGRE en el frente
+> - **Top:** Blusa de encaje negro transparente BAJO el corsé
 > - **Bottom:** Mini falda de cuero negro con cadenas rojas
 > - **Medias:** Fishnet negras con liguero ROJO SANGRE
-> - **Stilettos:** Negro mate 8" con tacÃ³n ROJO BRILLANTE
+> - **Stilettos:** Negro mate 8" con tacón ROJO BRILLANTE
 > - **Accesorios:**
 >   - Choker negro con luna + corazÃ³n de RUBÃ� colgante
 >   - Collar de capas con gotas rojas (simulando sangre)
 >   - Anillos con piedras rojas
-> - **Maquillaje:** PÃ¡lida, labios ROJO SANGRE hÃºmedo, ojos smokey negro con glitter rojo
+> - **Maquillaje:** Pálida, labios ROJO SANGRE húmedo, ojos smokey negro con glitter rojo
 > - **Pelo:** Lacio brillante con flores negras y rojas
 
 | | | |
@@ -226,16 +226,16 @@
 
 > *Medianoche cristalizada en curvas imposibles*
 > 
-> - **CorsÃ©:** Negro satinado con detalles en AZUL ZAFIRO
-> - **Top:** Harness de cuero negro sobre corsÃ© con piedras azules
-> - **Bottom:** PantalÃ³n de cuero negro ultra ajustado
+> - **Corsé:** Negro satinado con detalles en AZUL ZAFIRO
+> - **Top:** Harness de cuero negro sobre corsé con piedras azules
+> - **Bottom:** Pantalón de cuero negro ultra ajustado
 > - **Stilettos:** Negro brillante 8" con detalles AZUL MEDIANOCHE
 > - **Accesorios:**
 >   - Choker negro con luna + ZAFIRO central
->   - Collar gargantilla con zafiros pequeÃ±os
+>   - Collar gargantilla con zafiros pequeños
 >   - Guantes de cuero hasta el codo con anillos azules
-> - **Maquillaje:** PÃ¡lida, labios AZUL NEGRO metÃ¡lico, ojos con pÃ¡rpado azul
-> - **Pelo:** Recogido alto gÃ³tico con mechones azules sutiles
+> - **Maquillaje:** Pálida, labios AZUL NEGRO metálico, ojos con párpado azul
+> - **Pelo:** Recogido alto gótico con mechones azules sutiles
 
 | | | |
 |:---:|:---:|:---:|
@@ -249,16 +249,16 @@
 
 > *El hada verde corrompida y lobotomizada*
 > 
-> - **CorsÃ©:** Negro de mesh con corseterÃ­a visible, lazos VERDE VENENO
-> - **Top:** Nada excepto el corsÃ© y harness de cadenas
+> - **Corsé:** Negro de mesh con corsetería visible, lazos VERDE VENENO
+> - **Top:** Nada excepto el corsé y harness de cadenas
 > - **Bottom:** Tanga negra + liguero con detalles verdes
 > - **Medias:** Thigh-highs negras con borde de encaje VERDE
-> - **Stilettos:** Negro con plataforma sutil, acentos VERDE NEÃ“N
+> - **Stilettos:** Negro con plataforma sutil, acentos VERDE NEÓN
 > - **Accesorios:**
 >   - Choker negro con luna + cristal VERDE ABSINTHE
 >   - Cadenas corporales negras con detalles verdes
 >   - Anillos con piedras verdes
-> - **Maquillaje:** PÃ¡lida fantasmal, labios VERDE OSCURO glossy, ojos con glitter verde
+> - **Maquillaje:** Pálida fantasmal, labios VERDE OSCURO glossy, ojos con glitter verde
 > - **Pelo:** Volumen salvaje, spray verde sutil en las puntas
 
 | | | |
@@ -269,22 +269,22 @@
 
 ---
 
-## 👗 Look 12: BorgoÃ±a Imperial
+## 👗 Look 12: Borgoña Imperial
 
-> *Aristocracia vampÃ­rica con gusto por el vino... y la vacuidad*
+> *Aristocracia vampírica con gusto por el vino... y la vacuidad*
 > 
-> - **CorsÃ©:** Negro de terciopelo con ribetes BORGOÃ‘A/VINO
-> - **Sobre:** Chaqueta victoriana negra con bordados borgoÃ±a
+> - **Corsé:** Negro de terciopelo con ribetes BORGOÑA/VINO
+> - **Sobre:** Chaqueta victoriana negra con bordados borgoña
 > - **Bottom:** Falda larga negra con abertura trasera profunda
-> - **Medias:** Negras con costura BORGOÃ‘A
-> - **Stilettos:** Negro charol clÃ¡sico 8" con suela BORGOÃ‘A
+> - **Medias:** Negras con costura BORGOÑA
+> - **Stilettos:** Negro charol clásico 8" con suela BORGOÑA
 > - **Accesorios:**
->   - Choker negro de terciopelo con camafeo BORGOÃ‘A y luna
->   - Collar de perlas NEGRAS con broche de rubÃ­
->   - Guantes de satÃ©n negro hasta el codo
->   - Broche de rosa negra con centro borgoÃ±a
-> - **Maquillaje:** PÃ¡lida regia, labios BORGOÃ‘A mate profundo, ojos de humo
-> - **Pelo:** Ondas vintage elegantes, estilo aÃ±os 40
+>   - Choker negro de terciopelo con camafeo BORGOÑA y luna
+>   - Collar de perlas NEGRAS con broche de rubí
+>   - Guantes de satén negro hasta el codo
+>   - Broche de rosa negra con centro borgoña
+> - **Maquillaje:** Pálida regia, labios BORGOÑA mate profundo, ojos de humo
+> - **Pelo:** Ondas vintage elegantes, estilo años 40
 
 | | | |
 |:---:|:---:|:---:|
@@ -294,9 +294,9 @@
 
 ---
 
-## 👗 Look 13: Viuda Negra de LÃ¡tex (12/01/2026)
+## 👗 Look 13: Viuda Negra de Látex (12/01/2026)
 
-> *DescripciÃ³n: CorsÃ© underbust negro extremo, medias de red rotas, collar de propiedad. EstÃ©tica dark gothic bimbo pura.*
+> *Descripción: Corsé underbust negro extremo, medias de red rotas, collar de propiedad. Estética dark gothic bimbo pura.*
 > 
 > | Pose | Archivo |
 > |------|---------|
@@ -319,18 +319,18 @@
 
 ## 👗 Look 14: Midnight Kiss (New Year Special)
 
-> *Fuegos artificiales en mi ropa, vacÃ­o absoluto en mi mente*
+> *Fuegos artificiales en mi ropa, vacío absoluto en mi mente*
 > 
 > - **Corset:** Negro profundo cubierto de LENTEJUELAS DORADAS y PLATEADAS (efecto lluvia de estrellas)
-> - **Top:** Escote vertiginoso con "2026" (o el aÃ±o que sea, no sÃ© contar) en strass en el pecho
-> - **Bottom:** Falda de flecos dorados estilo Charleston gÃ³tico (muy corta)
+> - **Top:** Escote vertiginoso con "2026" (o el año que sea, no sé contar) en strass en el pecho
+> - **Bottom:** Falda de flecos dorados estilo Charleston gótico (muy corta)
 > - **Medias:** Fishnet negras con brillo dorado
-> - **Stilettos:** ORO CROMADO metÃ¡lico de 8 pulgadas, tacÃ³n aguja
+> - **Stilettos:** ORO CROMADO metálico de 8 pulgadas, tacón aguja
 > - **Accesorios:**
 >   - Diadema de tiara con "Happy New Year"
 >   - Copa de champagne siempre llena en la mano
 >   - Boa de plumas negras y doradas
-> - **Maquillaje:** Lluvia de glitter dorado sobre base pÃ¡lida, labios ORO o NEGRO con hoja de oro
+> - **Maquillaje:** Lluvia de glitter dorado sobre base pálida, labios ORO o NEGRO con hoja de oro
 > - **Pelo:** Recogido festivo desordenado con confeti atrapado
 
 | | | |
@@ -495,8 +495,8 @@
 
 > *La tinta cuenta historias que mi cerebro no puede recordar*
 > 
-> - **CorsÃ©:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles
-> - **Top:** Nada - solo el corsÃ© (brazos y hombros descubiertos para mostrar tatuajes)
+> - **Corsé:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles
+> - **Top:** Nada - solo el corsé (brazos y hombros descubiertos para mostrar tatuajes)
 > - **Bottom:** Shorts de vinilo negro ultra cortos
 > - **Medias:** Fishnet negras hasta el muslo con liguero de cadenas
 > - **Stilettos:** Negro charol 8" con correas al tobillo
@@ -504,9 +504,9 @@
 > - **Maquillaje:** Ojos siren liner, labios ROJO OSCURO overlined glossy
 > - **Accesorios:**
 >   - Choker luna creciente
->   - MÃºltiples cadenas plateadas en capas
+>   - Múltiples cadenas plateadas en capas
 >   - Anillos en cada dedo
-> - **UÃ±as:** Stiletto extra largas, negro brillante
+> - **Uñas:** Stiletto extra largas, negro brillante
 
 | | | |
 |:---:|:---:|:---:|
