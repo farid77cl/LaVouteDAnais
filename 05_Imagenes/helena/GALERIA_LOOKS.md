@@ -1,6 +1,6 @@
 # 👗 Galería de Looks: La Voûte de Helena
 
-> *Galería curada de vestuarios canónicos.*
+> *Galería curada de vestuarios canónicos de Helena.*
 
 ---
 
