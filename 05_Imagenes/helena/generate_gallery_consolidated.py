@@ -109,8 +109,8 @@ for root, dirs, files in os.walk(base_dir):
 sorted_ids = sorted(looks_images.keys())
 
 # 3. Generate Markdown with Extra Newlines
-md = "# 👗 Galería de Looks: La Voûte de Helena\n\n"
-md += "> *Galería curada de vestuarios canónicos.*\n\n"
+md = "# 👗 Galería de Looks: La Voûte de Helena  \n\n"
+md += "> *Galería curada de vestuarios canónicos.*  \n\n"
 md += "---\n\n"
 
 for look_id in sorted_ids:
@@ -118,12 +118,12 @@ for look_id in sorted_ids:
     meta = looks_metadata.get(look_id, {'title': '', 'description': ''})
     
     title_str = f": {meta['title']}" if meta['title'] else ""
-    md += f"## 👗 Look {look_id}{title_str}\n\n"
+    md += f"## 👗 Look {look_id}{title_str}  \n\n"
     
     if meta['description']:
-        # Double newline after each block ensures GitHub doesn't collapse them
+        # Ensure description lines have trailing spaces for breaks
         desc_lines = meta['description'].split('\n')
-        quoted_lines = [f"> {line}" if line.strip() else ">" for line in desc_lines]
+        quoted_lines = [f"> {line.strip()}  " if line.strip() else ">  " for line in desc_lines]
         md += "\n".join(quoted_lines) + "\n\n"
     
     # Grid Header
@@ -145,10 +145,10 @@ for look_id in sorted_ids:
     
     md += "\n---\n\n"
 
-md += "*Generado automáticamente por Helena v2026*"
+md += "*Generado automáticamente por Helena v2026*  \n"
 
-# Write with newline='\n' to force LF line endings (Git friendly)
-with open(output_file, "w", encoding="utf-8", newline='\n') as f:
+# Write with standard newline handling
+with open(output_file, "w", encoding="utf-8") as f:
     f.write(md)
 
 print(f"Gallery V4 generated with encoding fixes. Processed {len(sorted_ids)} looks.")
