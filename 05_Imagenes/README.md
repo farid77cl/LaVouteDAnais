@@ -62,7 +62,8 @@ Ejemplos:
 
 ## 🔗 Galerías Visuales
 
-- [Galería Helena](helena/galeria_visual_helena.md) - Índice detallado por Look
+- [Catálogo Completo](helena/GALERIA.md) - Todas las imágenes de Helena
+- [Galería de Looks](helena/GALERIA_LOOKS.md) - Índice visual curado por Looks canónicos
 - [Galería Unificada](galeria_master.md) - Todos los personajes
 
 ---

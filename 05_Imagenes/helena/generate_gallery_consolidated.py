@@ -9,7 +9,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 base_dir = r"C:\Users\fabara\LaVouteDAnais\05_Imagenes\helena"
 outfits_file = r"C:\Users\fabara\LaVouteDAnais\00_Helena\galeria_outfits.md"
-output_file = os.path.join(base_dir, "GALERIA_VISUAL_CONSOLIDADA.md")
+output_file = os.path.join(base_dir, "GALERIA_LOOKS.md")
 
 def fix_mojibake(text):
     if not text:
@@ -23,7 +23,8 @@ def fix_mojibake(text):
         return text
 
 def get_look_id(line):
-    m = re.search(r"Look\s*0?(\d+)", line, re.IGNORECASE)
+    # Strictly matches Look followed by numbers, allows helena_lookXX or lookXX
+    m = re.search(r"look\s*0?(\d+)", line, re.IGNORECASE)
     if m:
         return int(m.group(1))
     return None
@@ -80,34 +81,36 @@ for lid, data in looks_metadata.items():
     full_text = "".join(raw_lines).strip()
     data['description'] = full_text
 
-# 2. Scan Images
+# 2. Scan Images (Strict Look Filtering)
 looks_images = {}
 for root, dirs, files in os.walk(base_dir):
     for filename in files:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
-            look_num = get_look_id(filename)
-            if look_num is None:
-                look_num = get_look_id(os.path.basename(root))
-            
-            if look_num is not None:
-                if look_num not in looks_images:
-                    looks_images[look_num] = []
+            # Only include if filename contains "look"
+            if "look" in filename.lower() or "look" in os.path.basename(root).lower():
+                look_num = get_look_id(filename)
+                if look_num is None:
+                    look_num = get_look_id(os.path.basename(root))
                 
-                full_path = os.path.join(root, filename)
-                rel_path = os.path.relpath(full_path, base_dir)
-                rel_path = rel_path.replace("\\", "/")
-                rel_path_encoded = urllib.parse.quote(rel_path)
-                
-                looks_images[look_num].append({
-                    'name': filename,
-                    'path': rel_path_encoded
-                })
+                if look_num is not None:
+                    if look_num not in looks_images:
+                        looks_images[look_num] = []
+                    
+                    full_path = os.path.join(root, filename)
+                    rel_path = os.path.relpath(full_path, base_dir)
+                    rel_path = rel_path.replace("\\", "/")
+                    rel_path_encoded = urllib.parse.quote(rel_path)
+                    
+                    looks_images[look_num].append({
+                        'name': filename,
+                        'path': rel_path_encoded
+                    })
 
 sorted_ids = sorted(looks_images.keys())
 
 # 3. Generate Markdown with Extra Newlines
-md = "# 📸 Galería Visual: La Voûte de Helena\n\n"
-md += "> *Colección completa con descripciones y nombres de archivo.*\n\n"
+md = "# 👗 Galería de Looks: La Voûte de Helena\n\n"
+md += "> *Galería curada de vestuarios canónicos.*\n\n"
 md += "---\n\n"
 
 for look_id in sorted_ids:
@@ -118,9 +121,9 @@ for look_id in sorted_ids:
     md += f"## 👗 Look {look_id}{title_str}\n\n"
     
     if meta['description']:
-        # Ensure description lines are quoted properly
+        # Double newline after each block ensures GitHub doesn't collapse them
         desc_lines = meta['description'].split('\n')
-        quoted_lines = [f"> {line}" for line in desc_lines]
+        quoted_lines = [f"> {line}" if line.strip() else ">" for line in desc_lines]
         md += "\n".join(quoted_lines) + "\n\n"
     
     # Grid Header
@@ -132,8 +135,6 @@ for look_id in sorted_ids:
         chunk = imgs[i:i+3]
         row_imgs = "|"
         for item in chunk:
-            # Add <br> explicitly only for the break between image and text
-            # Ensure proper spacing in MD table cells
             row_imgs += f" ![]({item['path']})<br>`{item['name']}` |"
         
         while len(chunk) < 3:
