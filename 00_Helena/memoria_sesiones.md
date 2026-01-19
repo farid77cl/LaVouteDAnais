@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | Treinta Días de Sombra y Seda |
 | **Ubicación** | `03_Literatura/en_progreso/treinta_dias_sombra_seda/` |
-| **Fase del Ritual** | ✍️ FASE 2 (Arco Argumental Completo) |
-| **Capítulo en Progreso** | Fase de Revisión del Arco |
-| **Última Decisión** | Drag Queen como guía de feminización (Sugerida por Ama) |
+| **Fase del Ritual** | ✍️ FASE 3 (Escritura del Borrador) |
+| **Capítulo en Progreso** | Borrador Completo (Revisión) |
+| **Última Decisión** | Twist final: Patricia orquestó todo |
 
 ### Proyectos Secundarios/Pausados
 
