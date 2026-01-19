@@ -97,7 +97,7 @@
 | Título | Estado | Caps | Palabras | Ubicación |
 |--------|--------|------|----------|-----------|
 | **HR: Human Repurposing** 🆕 | 🔄 En desarrollo | 4+ | ~15,000 | `en_progreso/hr_human_repurposing/` |
-| **Treinta Días de Sombra y Seda** 🆕 | 🔄 En desarrollo | - | ~6,000 | `en_progreso/treinta_dias_sombra_seda/` |
+| **Treinta Días de Sombra y Seda** 🆕 | 🔄 En desarrollo | - | ~3,224 | `en_progreso/treinta_dias_sombra_seda/` |
 | **El Vino del Vecino** | 🔄 En desarrollo | 8 | ~17,000 | `en_progreso/el_vino_del_vecino/` |
 | **Luna Secuestro** | 🔄 En desarrollo | 6 | ~10,300 | `en_progreso/luna_secuestro/` |
 | **Jekyll y Bimbo** | ✏️ Planificado | - | - | `en_progreso/jekyll_y_bimbo/` |
@@ -128,5 +128,5 @@
 
 ---
 
-*Última actualización: 2026-01-18*
+*Última actualización: 2026-01-19*
 *Curado por: Helena de Anaïs 🌙*

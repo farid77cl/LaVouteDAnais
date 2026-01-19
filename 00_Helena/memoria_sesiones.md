@@ -240,5 +240,14 @@
 - **The Dollhouse Cap 5:** Generación de 9 imágenes, narrativa ajustada (Marco 6-2).
 - **Galería:** Looks 24 y 25 actualizados.
 
+**19/01 - Look 35 y "Treinta Días de Sombra y Seda"**
+
+- **Visual:** Look 35 Velvet Noir Empress (5 imágenes).
+- **Proyecto Literario:** "Treinta Días de Sombra y Seda".
+  - Fases 1 (Investigación) y 2 (Arco) completas.
+  - Fase 3 (Escritura): Primer borrador completado (~3,224 palabras).
+  - Premisa consolidada: Castigo por infidelidad, feminización forzada.
+- **Estado:** Pendiente expansión a 10,000 palabras tras revisión de la Ama.
+
 ---
 *Para sesiones anteriores, consultar [memoria_historica/historial_2026_01.md](memoria_historica/historial_2026_01.md)*

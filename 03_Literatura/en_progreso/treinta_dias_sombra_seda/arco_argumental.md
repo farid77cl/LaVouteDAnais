@@ -2,200 +2,163 @@
 
 ---
 
-## PREMISA (Una Oración)
+## PREMISA
 
-> Un hombre casado conoce a una drag queen en una salida con su esposa, mantienen comunicación en secreto, y cuando él finalmente confiesa sus deseos ocultos, ella le propone escapar juntos para guiarlo en una feminización extrema de 30 días que borrará todo lo que él solía ser.
+> Cristóbal, un infiel compulsivo, intenta seducir a Valentina Sombra para "agregar una drag a su colección". Esa noche, ella lo inyecta. 30 días de feminización FORZADA. Patricia —su esposa— es la arquitecta oculta. Seis meses después, Nena narra mientras le ponen el collar definitivo. TWIST en la última línea.
 
 ---
 
 ## PERSONAJES
 
-### Protagonista: Julián → Nena
-| Aspecto | Antes (Julián) | Después (Nena) |
-|---------|----------------|----------------|
-| **Identidad** | Hombre casado, deseos ocultos | Muñeca Goth Bimbo |
-| **Voz** | Normal, masculina | Suave, aguda, fragmentada |
-| **Cuerpo** | Masculino estándar | Feminizado, pechos, curvas |
-| **Mente** | Racional, con culpa | Vacía, obediente, adicta |
-| **Tacones** | Nunca | 7-9" siempre |
-
-### La Drag Queen / Guía (Nueva)
-- **Nombre artístico:** [Por definir — sugerencia: "Valentina Sombra", "Divina"]
-- Glamorosa, magnética, conocedora del mundo femenino
-- La conoce en un bar de moda con su esposa
-- Mantienen comunicación secreta (mensajes, llamadas)
-- Él le confiesa sus deseos → Ella propone la huida
-- Se convierte en su **guía hacia lo femenino**
-- Conoce la química, los rituales, el arte de la transformación
-- ¿Conexión con el mundo de La Voûte?
-
-### Elena (Esposa)
-- Presente en el encuentro inicial (sin sospechar)
-- Testigo del horror del regreso
-- Tiene el poder al final: ¿destruir o usar a Nena?
-- No es víctima pasiva — toma decisiones
+| Personaje | Rol | Arco |
+|-----------|-----|------|
+| **Cristóbal → Nena** | Protagonista | Cazador → Presa |
+| **Valentina Sombra** | Ejecutora | Anzuelo + Transformadora |
+| **Patricia** | Arquitecta | Víctima aparente → Ama |
 
 ---
 
-## ESTRUCTURA POR CAPÍTULOS
+## COARTADA
 
-### PRÓLOGO: EL ENCUENTRO
+> "Curso de liderazgo ejecutivo en Miami. 4 semanas."
 
-**Capítulo 0: La Noche del Bar**
-- Julián y Elena salen a un bar de moda
-- Espectáculo de drag / ambiente LGBTQ+
-- Julián queda fascinado por UNA drag en particular
-- Cruce de miradas, quizás un breve intercambio
-- Ella le deja una tarjeta / número
-- Elena no nota nada
-- *Punto de inflexión:* La semilla se planta
+- Patricia fabricó la excusa
+- Nadie lo busca
+- Al volver: "¿Cómo te fue en Miami?"
 
 ---
 
-### PARTE I: LA SEDUCCIÓN (Semanas previas)
+## ESTRUCTURA POR SECCIONES
 
-**Capítulo 1: Los Mensajes Secretos**
-- Comunicación clandestina con la Drag
-- Julián confiesa poco a poco sus deseos ocultos
-- Ella escucha sin juzgar, provoca curiosidad
-- Le envía fotos, le habla del mundo femenino
-- La culpa y la excitación coexisten
-- *Punto de inflexión:* "Podría mostrarte cómo se siente"
+### SECCIÓN 1: EL PRESENTE (Marco)
+*Nena arrodillada, Patricia poniéndole collar + cinturón de castidad*
 
-**Capítulo 2: La Confesión**
-- Julián finalmente revela TODO: quiere ser mujer
-- La Drag le propone: "Tengo una casa de campo. 30 días. Tu esposa viaja, ¿no?"
-- Él acepta (terror + deseo)
-- Planifican la huida
-- *Punto de inflexión:* La decisión está tomada
+- Voz fragmentada de Nena: "¿Cómo llegué aquí?"
+- Descripción del collar, del momento
+- Transición al flashback
 
 ---
 
-### PARTE II: LA CAÍDA (Días 1-7)
+### SECCIÓN 2: LA CACERÍA (Día 0)
+*Bar en Bellavista, la noche de la trampa*
 
-**Capítulo 3: La Purga**
-- Llegada a la casa de campo
-- La Drag lo prepara: depilación total
-- Primera inyección de hormonas (ella sabe de química)
-- Sensaciones inmediatas: neblina mental, piel sensible
-- Primer outfit femenino: lencería, tacones básicos
-- *Punto de inflexión:* La aguja entra → no hay vuelta atrás
-
-**Capítulo 4: El Bautismo**
-- La Drag lo lleva a un bar de ambiente como "Nena"
-- Tacones de 9 pulgadas, corsé, maquillaje
-- Primeras miradas masculinas
-- Quizás primer encuentro sexual (con hombre que la Drag presenta)
-- La urgencia biológica de ser deseada
-- *Punto de inflexión:* El placer supera al miedo
-
-**Capítulo 5: La Consagración**
-- Sometimiento sexual más profundo
-- La Drag como maestra y también como dominante (¿bisexual/pansexual?)
-- "Olvida quién eras" — orden que resuena
-- Mente que se vuelve "jiggly... como gloss"
-- *Punto de inflexión:* Rendición celular
+| Momento | Qué Pasa | Cristóbal Cree | Realidad |
+|---------|----------|----------------|----------|
+| El show | Ve a Valentina | "Quiero esa" | Ella ya lo eligió |
+| Coqueteo | Se acerca, trago | "Está cayendo" | Él está cayendo |
+| Privacidad | Van solos | "La tengo" | Ella lo tiene |
+| Inyección | Droga + hormona | (Inconsciente) | Punto de no retorno |
+| Despertar | Casa aislada | Horror | Los 30 días comienzan |
 
 ---
 
-### PARTE III: LA METAMORFOSIS (Días 8-29)
+### SECCIÓN 3: LA PURGA (Días 1-7)
+*Quiebre de la resistencia*
 
-**Capítulo 6: El Cuerpo Traidor**
-- Semana 2: cambios físicos acelerados por las dosis
-- Pechos sensibles, piel de porcelana
-- La Drag le enseña: maquillaje, caminar, hablar
-- Primera vez que no reconoce su reflejo
-- *Punto de inflexión:* El espejo muestra a una mujer
+**Día 1:** Furia, intentos de escape, golpes
+**Día 3:** Debilidad física, primera humillación
+**Día 5:** Primer llanto, ropa femenina obligatoria
+**Día 7:** No se reconoce en el espejo
 
-**Capítulo 7: La Educación Completa**
-- La Drag trae a otros (hombres, quizás otras drags)
-- Nena es compartida, educada en el arte de complacer
-- Aprende a servir, a arrodillarse, a obedecer
-- Pérdida total de resistencia
-- *Punto de inflexión:* Encuentra placer en ser usada
+**Elementos:**
+- Aislamiento total (sin teléfono, sin ventanas)
+- Inyecciones diarias
+- Depilación, tacones, maquillaje forzado
+- Valentina como ama absoluta
 
 ---
 
-### PARTE IV: LA MUÑECA (Día 30)
+### SECCIÓN 4: LA METAMORFOSIS (Días 8-21)
+*El cuerpo traiciona*
 
-**Capítulo 8: El Espejo Final**
-- Día 30: transformación irreversible
-- Mujer perfecta: vacía, hermosa, dependiente
-- La Drag la admira: "Eres perfecta ahora"
-- Despedida — ahora Nena debe volver al mundo
-- La Drag desaparece (¿o queda como contacto?)
-- *Punto de inflexión:* Julián ha muerto completamente
+| Día | Cambio Físico | Cambio Mental |
+|-----|---------------|---------------|
+| 10 | Sensibilidad extrema | Confusión constante |
+| 14 | Pechos visibles | Responde a "Nena" |
+| 18 | Voz aguda | Busca aprobación |
+| 21 | Rostro suavizado | Cristóbal muere |
 
----
-
-### PARTE V: EL REGRESO (Epílogo)
-
-**Capítulo 9: El Umbral de la Mentira**
-- Taxi de regreso a casa
-- Ropa holgada ocultando el nuevo cuerpo
-- Faja reductora, voz aguda incontrolable
-- Elena la recibe — algo está muy mal
-- *Punto de inflexión:* La mentira comienza a colapsar
-
-**Capítulo 10: El Desmoronamiento**
-- Elena nota los cambios: piel, labios, voz, forma de moverse
-- Cada toque provoca reacción de sumisión
-- Nena no puede sostener la mirada
-- La faja se revela — los pechos quedan expuestos
-- *Punto de inflexión:* El secreto al descubierto
-
-**Capítulo 11: El Nuevo Orden**
-- Elena no encuentra a su marido, encuentra una muñeca
-- Nena necesita instrucciones para existir
-- En secreto: busca maquillaje, se pone tacones, espera órdenes
-- *CLÍMAX:* Elena debe decidir: ¿destruir o empezar a usar?
+**Elementos:**
+- Entrenamiento en sumisión
+- Servicio sexual (Valentina + otros)
+- Orgasmos solo en posición sumisa
+- Dependencia de tacones/maquillaje
 
 ---
 
-## PUNTOS DE INFLEXIÓN (Resumen)
+### SECCIÓN 5: LA CONSAGRACIÓN (Días 22-30)
+*La muñeca terminada*
 
-| Momento | Efecto |
-|---------|--------|
-| Encuentro en el bar | La semilla se planta |
-| Confesión a la Drag | La decisión se toma |
-| Primera inyección | Inicio químico irreversible |
-| Primer encuentro sexual | Adicción al placer |
-| Espejo Día 14 | No reconoce su reflejo |
-| Compartida con otros | Pérdida de límites |
-| Despedida de la Drag | Soledad de la muñeca |
-| Regreso a casa | Horror de la mentira |
-| Revelación a Elena | Colapso total |
-| Decisión de Elena | Nuevo status quo (abierto) |
+- Nena es todo lo que queda
+- Valentina la "gradúa"
+- Instrucciones para volver a casa
+- "Tu esposa te espera, muñeca"
 
 ---
 
-## CLÍMAX
+### SECCIÓN 6: EL REGRESO
+*La farsa de Patricia*
 
-**Momento:** Elena descubre la verdad completa.
+**Lo que Nena intenta ocultar:**
+- Pechos (faja reductora)
+- Voz (falla constantemente)
+- Manera de caminar
+- Reacciones involuntarias
 
-**Escena:** Nena de rodillas, en pose de sumisión automática, susurrando "soy una buena chica... ya no sé ser otra cosa."
+**Lo que Patricia "descubre":**
+1. "Te ves raro" → "¿Por qué hablas así?"
+2. Encuentra maquillaje escondido
+3. La faja se abre → pechos expuestos
+4. "¿Qué te hicieron?"
 
-**Pregunta sin responder:** ¿Elena la destruye o la usa?
+**Actuación de Patricia:** Shock, llanto, silencio, "aceptación gradual"
 
 ---
 
-## RESOLUCIÓN
+### SECCIÓN 7: LA DOMESTICACIÓN (6 meses)
+*El sometimiento total*
 
-**Opción A (Cerrada):** Elena decide usar a Nena, convirtiéndose en su nueva dueña.
-
-**Opción B (Abierta):** El relato termina con la pregunta sin responder.
-
-> **Recomendación:** Opción B — más perturbador, más memorable.
+| Mes | Estado de Nena | Patricia |
+|-----|----------------|----------|
+| 1 | Vergüenza | "Apoyo" condescendiente |
+| 2 | Abandona ropa masculina | Elige su ropa |
+| 3 | No puede trabajar | Dependencia económica |
+| 4 | Tacones 24/7 | Reglas formales |
+| 5 | Servicio doméstico | Castigos |
+| 6 | Sumisión total | Collar |
 
 ---
 
-## Estado: ✅ FASE 2 COMPLETA (Revisada)
+### SECCIÓN 8: EL PRESENTE FINAL (Twist)
+*Cierre del racconto*
 
-**Cambios aplicados:**
-- Reemplazado "macho anónimo" por Drag Queen como guía
-- Añadido prólogo (encuentro en bar con esposa)
-- Añadida Parte I: La Seducción (comunicación, confesión)
-- Estructura expandida a 11 capítulos + prólogo
-- La Drag es maestra, guía y catalizadora
+- El collar está puesto
+- El cinturón de castidad cierra
+- Nena acepta
+- **ÚLTIMA LÍNEA:** Patricia revela:
 
-**Siguiente:** Aprobación de la Ama para Fase 3 (Escritura)
+> "¿Creíste que tú eras el cazador, Nena?"
+
+---
+
+## REGLA DEL TWIST
+
+> **El lector NO sospecha hasta la última línea.**
+
+- Nena narra sin saber
+- Patricia actúa genuinamente
+- Valentina parece la única villana
+
+---
+
+## TONO
+
+- **Perturbador** + **Triunfante oscuro**
+- Escenas: explícitas + insinuadas
+- Localización: Chile (Bellavista, Cajón del Maipo)
+
+---
+
+## Estado: ✅ LISTO PARA ESCRIBIR
+
+*Última actualización: 19/01/2026*
