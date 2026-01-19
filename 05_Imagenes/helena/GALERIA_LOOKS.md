@@ -1,10 +1,10 @@
-# 👗 Galería de Looks: La Voûte de Helena  
+# 👗 Galería de Looks: La Voûte de Helena
 
-> *Galería curada de vestuarios canónicos.*  
+> *Galería curada de vestuarios canónicos.*
 
 ---
 
-## 👗 Look 1: Morticia Bimbo  
+## 👗 Look 1: Morticia Bimbo
 
 > *Elegancia vampírica con cerebro vacío*  
 >  
@@ -27,7 +27,7 @@
 
 ---
 
-## 👗 Look 2: Elvira's Dumber Sister  
+## 👗 Look 2: Elvira's Dumber Sister
 
 > *Escote imposible, pensamientos imposibles*  
 >  
@@ -52,7 +52,7 @@
 
 ---
 
-## 👗 Look 3: Vampiresa de Club  
+## 👗 Look 3: Vampiresa de Club
 
 > *Lista para morder... si no olvidara cómo*  
 >  
@@ -75,7 +75,7 @@
 
 ---
 
-## 👗 Look 4: Viuda Negra Tontita  
+## 👗 Look 4: Viuda Negra Tontita
 
 > *Femme fatale... si pudiera recordar el plan*  
 >  
@@ -97,7 +97,7 @@
 
 ---
 
-## 👗 Look 5: Interview with the Bimbo  
+## 👗 Look 5: Interview with the Bimbo
 
 > *Lestat tenía mente. Yo tengo curvas.*  
 >  
@@ -120,7 +120,7 @@
 
 ---
 
-## 👗 Look 6: Blood Moon Ritual  
+## 👗 Look 6: Blood Moon Ritual
 
 > *Sensualidad de stripper gótica*  
 >  
@@ -145,7 +145,7 @@
 
 ---
 
-## 👗 Look 7: Underworld Bimbo  
+## 👗 Look 7: Underworld Bimbo
 
 > *Selene pero sin la inteligencia*  
 >  
@@ -170,7 +170,7 @@
 
 ---
 
-## 👗 Look 8: Esmeralda Venenosa  
+## 👗 Look 8: Esmeralda Venenosa
 
 > *Serpiente gótica con veneno en los labios y vacío en la mente*  
 >  
@@ -197,7 +197,7 @@
 
 ---
 
-## 👗 Look 9: Corazón Sangrante  
+## 👗 Look 9: Corazón Sangrante
 
 > *La reina de corazones rotos... porque olvidó dónde los dejó*  
 >  
@@ -222,7 +222,7 @@
 
 ---
 
-## 👗 Look 10: Zafiro Nocturno  
+## 👗 Look 10: Zafiro Nocturno
 
 > *Medianoche cristalizada en curvas imposibles*  
 >  
@@ -245,7 +245,7 @@
 
 ---
 
-## 👗 Look 11: Absinthe Dream  
+## 👗 Look 11: Absinthe Dream
 
 > *El hada verde corrompida y lobotomizada*  
 >  
@@ -269,7 +269,7 @@
 
 ---
 
-## 👗 Look 12: Borgoña Imperial  
+## 👗 Look 12: Borgoña Imperial
 
 > *Aristocracia vampírica con gusto por el vino... y la vacuidad*  
 >  
@@ -294,7 +294,7 @@
 
 ---
 
-## 👗 Look 13: Viuda Negra de Látex (12/01/2026)  
+## 👗 Look 13: Viuda Negra de Látex (12/01/2026)
 
 > *Descripción: Corsé underbust negro extremo, medias de red rotas, collar de propiedad. Estética dark gothic bimbo pura.*  
 >  
@@ -317,7 +317,7 @@
 
 ---
 
-## 👗 Look 14: Midnight Kiss (New Year Special)  
+## 👗 Look 14: Midnight Kiss (New Year Special)
 
 > *Fuegos artificiales en mi ropa, vacío absoluto en mi mente*  
 >  
@@ -340,7 +340,7 @@
 
 ---
 
-## 👗 Look 15: Vampire Bride (The Red Wedding)  
+## 👗 Look 15: Vampire Bride (The Red Wedding)
 
 > *Hasta que la muerte nos separe... o sea, esta noche*  
 >  
@@ -362,7 +362,7 @@
 
 ---
 
-## 👗 Look 16: Ghost Bride (Spectral Bimbo)  
+## 👗 Look 16: Ghost Bride (Spectral Bimbo)
 
 > *El cadáver de la novia si fuera una muñeca inflable*  
 >  
@@ -383,7 +383,7 @@
 
 ---
 
-## 👗 Look 17: Cyber Goth Doll (Toxic Protocol)  
+## 👗 Look 17: Cyber Goth Doll (Toxic Protocol)
 
 > *El futuro es plástico, negro y verde radioactivo*  
 >  
@@ -406,7 +406,7 @@
 
 ---
 
-## 👗 Look 18: CEO of Nothing (Corporate Goth)  
+## 👗 Look 18: CEO of Nothing (Corporate Goth)
 
 > *Jefa ejecutiva de decisiones vacías*  
 >  
@@ -428,7 +428,7 @@
 
 ---
 
-## 👗 Look 19  
+## 👗 Look 19
 
 | | | |
 |:---:|:---:|:---:|
@@ -437,7 +437,7 @@
 
 ---
 
-## 👗 Look 20  
+## 👗 Look 20
 
 | | | |
 |:---:|:---:|:---:|
@@ -446,7 +446,7 @@
 
 ---
 
-## 👗 Look 21  
+## 👗 Look 21
 
 | | | |
 |:---:|:---:|:---:|
@@ -455,7 +455,7 @@
 
 ---
 
-## 👗 Look 22  
+## 👗 Look 22
 
 | | | |
 |:---:|:---:|:---:|
@@ -464,7 +464,7 @@
 
 ---
 
-## 👗 Look 23  
+## 👗 Look 23
 
 | | | |
 |:---:|:---:|:---:|
@@ -473,7 +473,7 @@
 
 ---
 
-## 👗 Look 24  
+## 👗 Look 24
 
 | | | |
 |:---:|:---:|:---:|
@@ -482,7 +482,7 @@
 
 ---
 
-## 👗 Look 25  
+## 👗 Look 25
 
 | | | |
 |:---:|:---:|:---:|
@@ -491,7 +491,7 @@
 
 ---
 
-## 👗 Look 26: Tattoo Temptress  
+## 👗 Look 26: Tattoo Temptress
 
 > *La tinta cuenta historias que mi cerebro no puede recordar*  
 >  
@@ -515,7 +515,7 @@
 
 ---
 
-## 👗 Look 31: Industrial Siren (18/01/2026)  
+## 👗 Look 31: Industrial Siren (18/01/2026)
 
 > *Sirena de fábrica abandonada — oxidada por fuera, vacía por dentro* ????  
 >  
@@ -540,7 +540,7 @@
 
 ---
 
-## 👗 Look 32: Corporate Widow (Viuda Corporativa)  
+## 👗 Look 32: Corporate Widow (Viuda Corporativa)
 
 > *Los funerales son SO hot... y este es el de mis neuronas...*  
 >  
@@ -565,7 +565,7 @@
 
 ---
 
-## 👗 Look 33  
+## 👗 Look 33
 
 | | | |
 |:---:|:---:|:---:|
@@ -573,7 +573,7 @@
 
 ---
 
-## 👗 Look 34  
+## 👗 Look 34
 
 | | | |
 |:---:|:---:|:---:|
@@ -582,7 +582,7 @@
 
 ---
 
-## 👗 Look 35: Velvet Noir Empress (19/01/2026)  
+## 👗 Look 35: Velvet Noir Empress (19/01/2026)
 
 > *Soberanía gótica en terciopelo - reina de una cripta de neuronas perdidas* 🦇👑  
 >  
@@ -611,4 +611,4 @@
 
 ---
 
-*Generado automáticamente por Helena v2026*  
+*Generado automáticamente por Helena v2026*

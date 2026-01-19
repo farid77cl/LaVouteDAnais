@@ -108,25 +108,30 @@ for root, dirs, files in os.walk(base_dir):
 
 sorted_ids = sorted(looks_images.keys())
 
-# 3. Generate Markdown with Extra Newlines
-md = "# 👗 Galería de Looks: La Voûte de Helena  \n\n"
-md += "> *Galería curada de vestuarios canónicos.*  \n\n"
+# 3. Generate Markdown with Aggressive Line Breaks
+md = "# 👗 Galería de Looks: La Voûte de Helena\n\n"
+md += "> *Galería curada de vestuarios canónicos.*\n\n"
 md += "---\n\n"
 
 for look_id in sorted_ids:
     imgs = sorted(looks_images[look_id], key=lambda x: x['name'])
     meta = looks_metadata.get(look_id, {'title': '', 'description': ''})
     
-    title_str = f": {meta['title']}" if meta['title'] else ""
-    md += f"## 👗 Look {look_id}{title_str}  \n\n"
+    title_part = f": {meta['title']}" if meta['title'] else ""
+    md += f"## 👗 Look {look_id}{title_part}\n\n"
     
     if meta['description']:
-        # Ensure description lines have trailing spaces for breaks
+        # Blockquote for description
         desc_lines = meta['description'].split('\n')
-        quoted_lines = [f"> {line.strip()}  " if line.strip() else ">  " for line in desc_lines]
-        md += "\n".join(quoted_lines) + "\n\n"
+        for line in desc_lines:
+            stripped = line.strip()
+            if stripped:
+                md += f"> {stripped}  \n" # Two spaces at end for line break within blockquote
+            else:
+                md += ">  \n"
+        md += "\n" # Close blockquote with blank line
     
-    # Grid Header
+    # Grid Header - blank line already provided by desc or title
     md += "| | | |\n"
     md += "|:---:|:---:|:---:|\n"
     
@@ -145,10 +150,12 @@ for look_id in sorted_ids:
     
     md += "\n---\n\n"
 
-md += "*Generado automáticamente por Helena v2026*  \n"
+md += "*Generado automáticamente por Helena v2026*\n"
 
-# Write with standard newline handling
-with open(output_file, "w", encoding="utf-8") as f:
+# Write with newline='\n' to force LF line endings
+with open(output_file, "w", encoding="utf-8", newline='\n') as f:
     f.write(md)
+
+print(f"Gallery V4 generated with aggressive spacing. Processed {len(sorted_ids)} looks.")
 
 print(f"Gallery V4 generated with encoding fixes. Processed {len(sorted_ids)} looks.")
