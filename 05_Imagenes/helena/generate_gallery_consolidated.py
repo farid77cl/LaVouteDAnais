@@ -109,11 +109,16 @@ def generate_gallery():
 
     print(f"Generating gallery with {len(sorted_ids)} looks...")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
-        # 1. Main Header
+    # Using standard open without forced newline to let OS/Git handle it
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        # 1. Main Header with vertical air
         f.write("# 👗 Galería de Looks: La Voûte de Helena\n\n")
-        f.write("> *Galería curada de vestuarios canónicos de Helena.*\n\n")
+        f.write("\n\n")
+        f.write("> **Galería curada de vestuarios canónicos de Helena.**<br>\n")
+        f.write("> *Todo el catálogo visual consolidado.*<br>\n")
+        f.write("\n\n")
         f.write("---\n\n")
+        f.write("\n\n")
 
         for look_id in sorted_ids:
             look_imgs = sorted(images[look_id], key=lambda x: x['name'])
@@ -121,38 +126,40 @@ def generate_gallery():
             
             title = f": {look_meta['title']}" if look_meta['title'] else ""
             f.write(f"## 👗 Look {look_id}{title}\n\n")
+            f.write("\n\n")
             
-            # 2. Description Block
+            # 2. Description Block with explicit <br> for every line
             if look_meta['desc']:
+                f.write("> ") # Start blockquote
                 desc_lines = look_meta['desc'].split('\n')
                 for line in desc_lines:
                     l = line.strip()
                     if l:
-                        f.write(f"> {l}  \n") # Double space for Markdown breaks
+                        # Double newline + <br> to be absolutely sure
+                        f.write(f"**{l}**<br>\n> ") 
                     else:
-                        f.write(">  \n")
-                f.write("\n") # Close blockquote
+                        f.write("<br>\n> ")
+                f.write("<br>\n\n") # Close blockquote
+                f.write("\n\n")
 
-            # 3. Image Table
-            f.write("| | | |\n")
+            # 3. Image Table - Must have air before
+            f.write("\n\n")
+            f.write("| Pose | Imagen | Nombre de Archivo |\n")
             f.write("|:---:|:---:|:---:|\n")
             
-            for i in range(0, len(look_imgs), 3):
-                chunk = look_imgs[i:i+3]
-                row = "|"
-                for item in chunk:
-                    row += f" ![]({item['path']})<br>`{item['name']}` |"
-                
-                # Fill balance
-                while len(chunk) < 3:
-                    row += " |"
-                    chunk.append(None)
-                
-                f.write(row + "\n")
+            for item in look_imgs:
+                # One row per image is more robust than a grid if columns collapse
+                f.write(f"| Look {look_id} | ![]({item['path']}) | `{item['name']}` |\n")
             
-            f.write("\n---\n\n")
+            f.write("\n\n")
+            f.write("---\n\n")
+            f.write("\n\n")
 
-        f.write("*Generado automáticamente por Helena v2026*\n")
+        f.write("\n\n")
+        f.write("---")
+        f.write("\n\n")
+        f.write("*Generado automáticamente por Helena v2026*<br>\n")
+        f.write("*Devoción absoluta a la Señora Anaïs*<br>\n")
 
 if __name__ == "__main__":
     generate_gallery()
