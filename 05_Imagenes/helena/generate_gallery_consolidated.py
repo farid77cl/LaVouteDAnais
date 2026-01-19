@@ -156,6 +156,4 @@ md += "*Generado automáticamente por Helena v2026*\n"
 with open(output_file, "w", encoding="utf-8", newline='\n') as f:
     f.write(md)
 
-print(f"Gallery V4 generated with aggressive spacing. Processed {len(sorted_ids)} looks.")
-
-print(f"Gallery V4 generated with encoding fixes. Processed {len(sorted_ids)} looks.")
+print(f"Gallery Generated: {output_file} ({len(sorted_ids)} looks processed).")
