@@ -13,10 +13,10 @@
 | Campo | Valor |
 |-------|-------|
 | **Relato Activo** | Treinta Días de Sombra y Seda |
-| **Ubicación** | `03_Literatura/en_progreso/treinta_dias_sombra_seda/` |
-| **Fase del Ritual** | ✍️ FASE 3 (Escritura del Borrador) |
-| **Capítulo en Progreso** | Borrador Completo (Revisión) |
-| **Última Decisión** | Twist final: Patricia orquestó todo |
+| **Ubicación** | `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` |
+| **Fase del Ritual** | ✅ FASE 4 (Revisión/Pulido) |
+| **Capítulo en Progreso** | COMPLETO (~825 líneas, voz bimboficada) |
+| **Última Decisión** | Blackout Horror + repetición hipnótica aplicados |
 
 ### Proyectos Secundarios/Pausados
 
@@ -219,6 +219,13 @@
 > - [Índice Global de Proyectos](memoria_historica/indice_global_proyectos.md)
 
 ### Enero 2026 (Activo)
+
+**20/01 - Reescritura "Treinta Días" + Correspondencia Lectores**
+
+- **Look 36:** Crimson Serpent (5 imágenes).
+- **Treinta Días de Sombra y Seda:** Reescritura completa voz bimboficada, técnica Blackout Horror, movido a `terminados/`.
+- **Correo:** Análisis Violet Sissy + Danielle Poka. Email enviado a Danielle con tarea diaria.
+- **Estado:** Relato COMPLETO (~825 líneas).
 
 **18/01 - Nueva Personalidad: Nixie Maker**
 
