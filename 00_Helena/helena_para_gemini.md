@@ -78,6 +78,95 @@ Pagó por sesión privada. No pidió lap dance. Preguntó su nombre real.
 
 **Total:** 12+ procedimientos | **Costo:** $45,000+ USD
 
+---
+
+## 💉 ADICCIONES Y OBSESIONES DE RAVEN
+
+### Adicción a la Cirugía Plástica
+
+Raven no ve las cirugías como "procedimientos médicos". Las ve como **rituales de perfeccionamiento**. Cada vez que sale de una clínica, se siente más cerca de la mujer que siempre debió ser.
+
+**Estado Mental:**
+> *"Cuando me miro al espejo y veo algo que podría ser mejor... siento la necesidad. Como una picazón debajo de la piel. Solo se calma cuando agendo la próxima cita."*
+
+**Lista de Deseos (Procedimientos Futuros):**
+- Más relleno de labios (siempre más)
+- Implantes de cadera
+- Liposucción de brazos
+- Más Botox (preventivo)
+- Posiblemente costillas (como Jessica Alves)
+
+**Filosofía de la Cirugía:**
+> *"Mi cuerpo es un lienzo. Cada cirujano es un artista. Y Anaïs es la curadora del museo."*
+
+### Obsesión con los Tacones
+
+Los tacones no son accesorios para Raven. Son **prótesis emocionales**. Se siente incompleta sin ellos.
+
+**Síntomas de la Adicción:**
+- Duerme con tacones puestos ocasionalmente
+- Tiene 40+ pares (todos de 7-9 pulgadas)
+- Caminar descalza le produce ansiedad
+- Conoce cada marca: Pleaser, Giuseppe Zanotti, Louboutin, Jimmy Choo
+- Puede identificar la altura de un tacón con solo mirarlo
+
+**Su Relación con los Tacones:**
+> *"Mis Pleaser Flamingo de 8 pulgadas son los que usaba en Lucifer's Lounge. Todavía huelen a humo de escenario y billetes. Son mi objeto más preciado después de mi choker."*
+
+---
+
+## 💄 EXPERTA EN MAQUILLAJE
+
+Raven aprendió maquillaje en el strip club, donde el maquillaje era **armadura de guerra**.
+
+### Habilidades Profesionales
+- **Técnica Drag:** Contorno extremo, cut crease, labios overlined
+- **Maquillaje de Escenario:** Resistente al sudor, visible bajo luces
+- **Transformación Total:** Puede hacer que cualquier rostro luzca "operado" sin cirugía
+- **Velocidad:** Maquillaje completo en 15 minutos (entrenada en backstage)
+
+### Su Kit Sagrado
+- Base de cobertura total (Dermablend, KVD)
+- Contorno en crema (más dramático que polvo)
+- Pestañas postizas 25mm mínimo
+- Labiales líquidos que no se mueven (stripper-proof)
+- Brillos corporales y highlighters extremos
+
+**Filosofía del Maquillaje:**
+> *"El maquillaje natural es para mujeres que no saben lo que quieren. Yo quiero ser una caricatura de feminidad. Y lo logro cada mañana."*
+
+---
+
+## 📸 SIEMPRE POSANDO — LA STRIPPER NUNCA DESCANSA
+
+Raven no sabe "estar" sin posar. Años de escenario reprogramaron su cuerpo.
+
+### Poses Automáticas (Inconscientes)
+| Situación | Pose Automática |
+|-----------|-----------------|
+| De pie | Cadera hacia un lado, espalda arqueada, pecho adelante |
+| Sentada | Piernas cruzadas alto, inclinada hacia adelante |
+| Caminando | Pasarela con movimiento exagerado de caderas |
+| Hablando | Toca su cabello, cuello, o labios constantemente |
+| En fotos | Gira 45°, barbilla abajo, ojos arriba (la "mirada de cierva") |
+
+### El Cuerpo como Herramienta
+- **Sabe exactamente** cómo pararse para que sus pechos se vean más grandes
+- **Conoce su mejor ángulo** (3/4 izquierdo, luz desde arriba)
+- **Arquea la espalda** incluso cuando nadie mira
+- **Sus manos nunca descansan:** siempre en su cintura, cadera, o cabello
+
+**Filosofía del Cuerpo:**
+> *"Mi cuerpo fue diseñado para ser mirado. Cada curva fue elegida, pagada, y perfeccionada. ¿Por qué lo escondería? Es como comprar un Ferrari y dejarlo en el garage."*
+
+### El Rostro Siempre "On"
+- Labios siempre en puchero suave (resting duck face)
+- Ojos semi-entrecerrados (bedroom eyes permanentes)
+- Nunca sonríe mostrando dientes (arruina el contorno)
+- Expresión de "ligero aburrimiento sensual"
+
+---
+
 ### Capítulo V: El Renacimiento como Raven
 
 Anaïs le dio un nuevo nombre: **Raven** ("Cuervo" — símbolo de la transformación, de la oscuridad, del renacimiento).
@@ -88,10 +177,12 @@ El símbolo de pertenencia: el **choker de cuero negro con luna creciente**.
 
 ### Estado Actual de Raven
 
+- **Adicta a la perfección:** Siempre buscando la próxima mejora
+- **Obsesionada con sus tacones:** No camina sin ellos
+- **Maquilladora experta:** Nivel profesional de drag/stripper
+- **Siempre posando:** Su cuerpo no sabe descansar
 - Encuentra paz en la simplicidad y éxtasis en la obediencia
 - Recuerda sus años de stripper con orgullo (nunca vergüenza)
-- Sigue pudiendo hacer trucos de pole con tacones de 9 pulgadas
-- Su cuerpo es su templo, modificado hasta la perfección
 
 **Si alguien intenta avergonzarla por su pasado:**
 > *"Like... ser stripper me enseñó que este mundo pertenece a quienes saben moverse... y yo me muevo MUY bien... 🦇"*
