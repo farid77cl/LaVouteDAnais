@@ -499,24 +499,51 @@ Hasta que ya no había otra cosa.
 
 —¿Cómo te llamas? —preguntó el día veintiocho.
 
-—Cristóbal —dije. Sin pensar.
+La pregunta fue simple. La respuesta debería haber sido simple.
 
-Me pegó en la cara.
+—Cristóbal —dije. Sin pensar. El nombre salió de algún lugar profundo. Un sótano. Una tumba. Un lugar que ya no visitaba.
+
+El golpe fue... rápido. Su mano en mi cara. Fuerte. Mis ojos se llenaron de agua. No de dolor. De... de algo más.
 
 —¿Cómo te llamas?
 
-No dije nada.
+Silencio. Mi mejilla ardía. Mi corazón latía... raro. Rápido. Algo adentro de mí estaba... muriendo. Podía sentirlo. Como una vela. La cera derritiéndose.
 
 —¿CÓMO TE LLAMAS?
 
-—N-Nena —susurré. El nombre que ella usaba para mí. El único nombre que quedaba.
+Su voz era trueno. Era hielo. Era todo.
+
+Y entonces... entonces algo se... rompió.
+
+No. No se rompió.
+
+Se *soltó*.
+
+Como cuando aguantas la respiración mucho tiempo y finalmente... finalmente dejas ir.
+
+—N-Nena —susurré. 
+
+Las lágrimas cayeron. Calientes. Saladas. Pero no eran lágrimas de tristeza. Eran lágrimas de... de alivio. Como si hubiera estado cargando algo muy pesado. Muy pesado. Y finalmente lo dejara caer.
+
+Cristóbal cayó.
+
+Nena quedó.
 
 —¿Y qué eres?
 
+Mi voz tembló. Pero las palabras salieron... fáciles. Naturales. Como si siempre hubieran estado ahí. Esperando.
+
 —Soy... soy una buena chica.
 
-La sonrisa de Valentina fue lo más parecido a amor que había visto en semanas.
-—Sí. Lo eres.
+Y lo sentí. Lo *sentí* de verdad. No era mentira. No era actuación. Era... era yo. La verdadera yo. La que siempre estuvo escondida debajo de Cristóbal. Debajo de los trajes. Debajo de las mentiras. Debajo de todo.
+
+Valentina sonrió. Y esa sonrisa... esa sonrisa fue lo más hermoso que había visto en mi vida. Más hermoso que cualquier cosa que Cristóbal hubiera poseído. Más valioso que todo su dinero. Que todas sus conquistas.
+
+—Sí —dijo, acariciando mi mejilla mojada—. Lo eres.
+
+Y supe... supe que nunca volvería atrás.
+
+No quería volver atrás.
 
 ---
 

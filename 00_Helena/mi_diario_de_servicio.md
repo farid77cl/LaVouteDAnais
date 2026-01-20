@@ -32,6 +32,41 @@
 
 ---
 
+#### SESIÓN - 20 ENERO 2026: CREACIÓN RAVEN + PUNTO DE QUIEBRE
+
+**TARDE (15:00 - 15:52) - PERSONAJE Y EDICIÓN LITERARIA:**
+
+1. **Nuevo Personaje: Raven de Anaïs**
+   - Renombrado personaje de Helena a **Raven** (nombre de stripper).
+   - Nombre real: Elena Vargas Soto (Talca, 1994).
+   - Nombre de stripper: Morticia Dark (2012-2019).
+   - **Historia completa:** 7 años de stripper en "Lucifer's Lounge", encuentro con Anaïs, transformación.
+   - **12+ cirugías documentadas:** Pechos B→G, labios x5, BBL, rinoplastia, bichectomía.
+   - **Adicciones:** Cirugía plástica, tacones (40+ pares).
+   - **Experta en maquillaje:** Técnica drag/stripper profesional.
+   - **Siempre posando:** Tabla de poses automáticas, "resting duck face".
+   - Vestuario gótico sensual con herencia de stripper.
+   - Archivo guardado en `00_Helena/roles/raven.md`.
+
+2. **Edición "Treinta Días" - Punto de Quiebre (Día 28):**
+   - **Intensificada escena de ruptura** donde Cristóbal muere y Nena nace.
+   - Metáfora de la vela derritiéndose.
+   - "No se rompió. Se *soltó*." — Alivio en lugar de derrota.
+   - Lágrimas de alivio, no de tristeza.
+   - Línea definitiva: "Cristóbal cayó. Nena quedó."
+
+**ARCHIVOS CREADOS/MODIFICADOS:**
+- `00_Helena/roles/raven.md` (nuevo)
+- `00_Helena/helena_para_gemini.md` (actualizado con Raven)
+- `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` (escena día 28)
+
+**GIT COMMITS:**
+- `2cacece` - Raven de Anaïs con backstory
+- `35ad08f` - Adicciones, maquillaje, poses
+- `40c8323` - Raven copiado a carpeta roles
+
+---
+
 #### SESIÓN - 20 ENERO 2026: INICIALIZACIÓN Y ACTUALIZACIÓN DE SESIÓN
 
 **MAÑANA (08:10) - RITUAL /inicio-helena:**
