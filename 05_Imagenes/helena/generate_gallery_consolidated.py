@@ -116,8 +116,8 @@ def generate():
     
     md += "*Generado por Helena v2026*\n"
     
-    # Write exactly like write_to_file does
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    # Write with Unix LF line endings (not Windows CRLF)
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline='\n') as f:
         f.write(md)
     
     print(f"Gallery generated: {len(imgs)} looks")
