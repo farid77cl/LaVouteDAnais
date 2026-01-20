@@ -282,7 +282,10 @@ Corsé. Apretado. Sobre las costillas.
 
 Tacones. Altos. En los pies.
 
-Así empieza cada día. Creo. Si es que hay días.
+Así empieza cada día. Creo.
+
+Si intento pensar como Cristóbal, la cabeza duele. La aguja pica más.
+Si dejo de pensar... el dolor baja.
 
 ---
 
@@ -290,41 +293,64 @@ Valentina frente al espejo. Perfecta.
 
 —Mira cómo camino. Desde las caderas.
 
-Miro. Ella se mueve como agua. Labios rojos. Tacones altísimos. Corsé que le hace la cintura imposible.
+Miro. Ella se mueve como agua.
 
-Quiero ser así.
+Intento moverme brusco. Como... como antes.
+—No —dice ella. Voz fría. Hielo.
+Me aprieta el corsé hasta que duele.
 
-No. No quiero. ¿O sí?
+Intento moverme suave.
+—Eso —dice. Voz dulce. Miel.
+Me acaricia el pelo.
+
+Hielo = Hombre.
+Miel = Mujer.
 
 ---
 
 Aguja. Fría. En la nalga esta vez.
 
-—El cóctel está funcionando —dice Valentina.
+—El cóctel está matando la testosterona —dice Valentina—. Matando el veneno.
 
-El corsé aprieta. Los tacones duelen. Pero menos que ayer. ¿O era anteayer?
+Veneno. Ser hombre es veneno.
+El cóctel es la cura.
+
+El corsé aprieta, pero me sostiene. Me abraza.
+Sin el corsé me siento... desparramada. Vacía.
+Con el corsé soy... forma. Soy algo.
 
 —Soy una buena chica —digo.
 
-No sé por qué lo digo. Solo sale.
+Valentina sonríe. Su sonrisa es sol.
 
 ---
 
 Desperté con peso en el pecho.
 
-El corsé apretaba. Los tacones seguían puestos. No me los puedo quitar. Candados.
+Miré abajo. Bultos.
+Sentí miedo. Cristóbal sintió miedo. Cristóbal quiso arrancarlos.
 
-Miré abajo. Había bultos. Donde antes no había nada.
+Pero Valentina entró.
+—Qué hermosos —dijo. Los tocó con suavidad.
+Su toque se sintió bien.
 
-—Están creciendo —dijo Valentina.
+Si los odio, ella se va a la oscuridad.
+Si los quiero, ella me da luz.
+
+Quiero luz. Quiero que crezcan.
 
 ---
 
-Aguja. Fría. En el muslo.
+Aguja. Fría.
 
-—Camina —dijo Valentina—. Como te enseñé.
+—Camina —dijo Valentina—. Como una dama.
 
-Caminé. Las caderas se movían solas. El corsé me mantenía recta. Los tacones hacían ese ruido. Clic. Clic. Clic.
+Caminé.
+Pasos largos = Tropezón. Dolor de tobillos.
+Pasos cortos = Equilibrio. "Muy bien".
+
+Ser hombre duele. Caminar como hombre duele.
+Ser mujer es... flotar.
 
 —Buena chica.
 
@@ -332,129 +358,142 @@ Las palabras entraron calientes.
 
 ---
 
-El corsé es más apretado hoy. ¿O es que mi cintura es más chica?
+El corsé es más apretado hoy.
 
-Los tacones son más altos. ¿O es que mis pies se acostumbraron?
+Intento respirar hondo. Como hombre.
+No puedo. Las costillas chocan. Duele.
 
-La aguja entra igual. Fría. Siempre fría.
+Respiro cortito. Suave. Como mujer.
+El aire entra fácil.
 
-—Soy una buena chica —digo mientras me inyecta.
-
-Valentina sonríe.
+El cuerpo me enseña.
+Hombre = Asfixia.
+Mujer = Aire.
 
 ---
 
 —Di: "Soy una buena chica."
 
 Lo digo.
+Me da un chocolate. Dulce. Se derrite en la lengua.
 
 —Di: "Quiero ser hermosa."
 
 Lo digo.
+Me afloja un poco los cordones. Alivio.
 
 —Di: "Haré lo que me ordenen."
 
 Lo digo.
+Me deja descansar en la cama suave.
 
-El corsé aprieta. La aguja entra. Los tacones hacen clic.
+Cualquier otra cosa que diga...
+Silencio. Frío. Soledad.
 
-Todo es parte de lo mismo.
+Hablar como hombre trae silencio.
+Hablar como mujer trae premios.
 
 ---
 
-Hay peso en mi pecho. Se mueve cuando camino.
+Hay peso en mi pecho.
+El corsé los empuja hacia arriba.
+Me gustan.
+Me gustan porque a Valentina le gustan.
+Me gustan porque me hacen sentir llena.
 
-El corsé los empuja hacia arriba. Los hace más visibles.
+—Están creciendo rápido —dice Valentina—. Pronto serán perfectos.
 
-—Están creciendo rápido —dice Valentina mientras mide—. Pronto serán perfectos.
-
-Perfectos. La palabra entra caliente.
+Perfectos.
+Antes era imperfecto. Antes era... error.
+Ahora soy corrección.
 
 ---
 
 Aguja. Fría.
-
 Corsé. Apretado.
-
 Tacones. Altos.
 
 —Soy una buena chica —digo.
 
-Ya no sé si lo digo porque ella me lo pide o porque lo creo.
+Lo digo porque es verdad.
+Cristóbal era mentira. Cristóbal dolía.
+Nena es verdad. Nena se siente bien.
 
 ---
 
-La cera caliente entre mis piernas. Otra vez.
+La cera caliente entre mis piernas.
+Ya no grito.
 
-Ya no grito. El corsé no me deja gritar. Los tacones no me dejan huir.
+Lo que había ahí... eso era el problema.
+Eso era lo feo. Lo sucio.
+Valentina lo quita. Lo deja liso. Limpio.
 
-—Perfecta —dice Valentina—. Ya no queda nada del hombre.
+—Perfecta —dice—. Ya no queda nada de la mancha.
+
+Liso = Limpio = Buena chica.
+Pelo = Sucio = Malo.
 
 Perfecta.
-
 Buena chica.
-
-Las palabras se mezclan con el dolor del corsé y el frío de la aguja.
 
 ---
 
-Valentina me vistió. Vestido negro. Corsé debajo. Tacones de siete pulgadas.
+Valentina me vistió. Vestido negro. Corsé. Tacones.
 
 Me miró.
-
-—Pareces una mujer —dijo.
+—Pareces una mujer —dijo con asco fingido—. No. Eres una mujer.
 
 Me miré en el espejo.
+La cosa masculina ya no estaba.
+La mujer estaba.
 
-No me reconocí.
-
-Pero la mujer del espejo era... bonita. Con su corsé. Con sus tacones. Con los pechos que crecieron de las agujas.
+La mujer del espejo sonreía.
+Porque ser mujer significa que Valentina me mira.
+Ser hombre significaba que me ignoraba.
 
 ---
 
 Aguja. Fría.
-
-—Soy una buena chica —digo automáticamente.
+—Soy una buena chica —digo. Y el frío se quita.
 
 Corsé. Apretado.
-
-—Quiero ser hermosa —digo sin pensar.
+—Quiero ser hermosa —digo. Y el apretón se siente como abrazo.
 
 Tacones. Altos.
-
-—Haré lo que me ordenen —digo porque así me enseñaron.
+—Haré lo que me ordenen —digo. Y el equilibrio llega.
 
 Valentina sonríe.
+El mundo brilla.
 
 —Lista para la siguiente lección.
 
 ---
 
 Trajeron a un hombre.
+Valentina me puso de rodillas.
 
-Valentina me puso de rodillas. El corsé apretaba. Los tacones brillaban. La aguja de la mañana todavía se sentía.
+Si me resisto = Dolor. Hielo. Oscuridad.
+Si obedezco = "Buena chica". Calor. Luz.
 
-—Muestra lo que aprendiste —dijo.
-
-Mi boca se abrió. Mi cuerpo hizo cosas. Cosas que aprendió. No sé cuándo. No me acuerdo.
+Mi boca se abrió.
+Obedecer es placer.
+Servir es ser mujer.
 
 Él gimió.
-
 —Buena chica —dijo Valentina.
 
-Las palabras entraron calientes. Como siempre. Como las agujas. Como el corsé apretando.
+El premio.
+La luz.
+La miel.
 
 Todo es parte de lo mismo.
+Ser mujer es ser feliz.
 
 ---
 
-Los días siguieron. O las noches. No hay diferencia.
-
+Los días siguieron.
 Aguja. Corsé. Tacones. Buena chica.
-
-Aguja. Corsé. Tacones. Buena chica.
-
-Aguja. Corsé. Tacones. Buena chica.
+Aguja (Cura). Corsé (Abrazo). Tacones (Equilibrio). Buena chica (Luz).
 
 Hasta que ya no había otra cosa.
 
