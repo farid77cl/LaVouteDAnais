@@ -66,7 +66,7 @@ Y entonces...
 
 Valentina.
 
-Subió al escenario. Vestido dorado. Brillante como... como agua con luz. Labios rojos. Muy rojos. Ojos que... que brillaban. Era alta. Más alta que yo. Tacones enormes. Su voz era como... como ronroneo de gato.
+Subió al escenario. Un hombre vestido de mujer, pero... pero no se veía como hombre. Se veía como... como algo más. Vestido dorado. Brillante como agua con luz. Labios rojos. Muy rojos. Hombros anchos debajo del brillo. Mandíbula fuerte debajo del maquillaje. Pero todo lo demás... curvas. Caderas. Pecho. Era alta. Muy alta. Más que cualquier mujer. Más que yo. Tacones enormes. Su voz era como... como ronroneo de gato. Grave pero suave.
 
 Algo pasó dentro de mí. En el estómago. O más abajo.
 
@@ -162,7 +162,7 @@ Intenté pararme. Mi cuerpo pesaba. Mucho. La cabeza me dolía.
 
 La puerta se abrió.
 
-Valentina. Sin maquillaje. Sin pestañas falsas. Sin vestido. Se veía... diferente. Más real. Más... más peligrosa.
+Valentina. Todavía perfecta. El maquillaje intacto. Las pestañas largas. Un vestido de seda negro ahora. Tacones altos. Se veía... hermosa. Peligrosa. Como algo que yo nunca podría ser. O eso pensaba entonces.
 
 —Buenos días, Cristóbal.
 
@@ -190,7 +190,7 @@ Intenté pararme. Ella me empujó. Fácil. Yo estaba... débil. Muy débil.
 
 —¿Qué me... qué me inyectaste?
 
-—Estrógenos, principalmente. Una dosis bastante alta. —Cruzó las piernas. Se veía tan... tan tranquila—. También un poco de sedante. Para que no hagas tonterías.
+—Estrógenos. Una dosis muy alta. —Cruzó las piernas. Se veía tan tranquila. Tan segura—. También antiandrógenos. Para que tu cuerpo deje de producir testosterona. Y tranquilizantes. Para que tu mente se vuelva... suave. Maleable. —Sonrió—. Es un cóctel especial. Diseñado para reprogramarte. Cuerpo y mente.
 
 Estró... esa palabra. Grande. Difícil. Tardó en... en entrar en mi cabeza.
 
@@ -232,7 +232,21 @@ Me la puso igual. Mientras yo lloraba.
 
 La primera semana fue... mala. Muy mala.
 
-Me sacaron todo el pelo del cuerpo. Con cera caliente. Dolía mucho. Mordía la almohada. Me pusieron tacones. Chiquitos primero. Tres... ¿pulgadas? Me caía todo el tiempo. Los tobillos me dolían.
+Me sacaron todo el pelo del cuerpo. Con cera caliente. Valentina me amarró a la cama para que no me moviera. Empezó por las piernas. Dolía. Después el pecho. Dolía más. Después los brazos. Después las axilas. Cada tirón era fuego.
+
+Pero lo peor fue abajo.
+
+Cuando puso la cera caliente ahí... entre las piernas... en las partes que todavía eran de hombre... grité. Grité tan fuerte que me tapó la boca con la mano. Cuando arrancó la cera... el dolor fue... no hay palabras. Como si me arrancaran parte de mí. Mordí la almohada hasta romperla. Las lágrimas no paraban. Y ella seguía. Arrancando pelo por pelo de los lugares más sensibles.
+
+Cuando terminó, mi piel estaba roja. Hinchada. Pero suave. Como la de ella.
+
+Después los tacones.
+
+Los primeros eran chiquitos. Tres... ¿pulgadas? Valentina los cerró con candado alrededor de mis tobillos. Candados pequeños. No podía quitármelos. Me caía todo el tiempo. Los tobillos gritaban de dolor. Pero no podía sacarlos. Dormía con ellos. Caminaba con ellos. Siempre con ellos.
+
+La ropa era igual. Candados en los cierres de los corsés. Cinturones que no se abrían. La lencería pegada con algo que no salía con agua. Si intentaba quitarme algo, venía el castigo. Sin comida. Sin agua. Sola en la oscuridad.
+
+Aprendí rápido a no intentar.
 
 La comida sabía rara. Después supe por qué. Cosas para vaciar el cuerpo. Mi cuerpo se... se vaciaba.
 
@@ -260,83 +274,189 @@ El espejo no contestó.
 
 ## La Metamorfosis
 
-Los días se... se mezclaron.
+---
 
-No había ventanas. No había reloj. Solo las agujas. La comida. Las lecciones.
+Aguja. Fría. En el muslo.
 
-Valentina me enseñaba cosas.
+Corsé. Apretado. Sobre las costillas.
 
-—Camina. Desde las caderas. Así.
+Tacones. Altos. En los pies.
 
-Los tacones eran más altos ahora. ¿Cinco... pulgadas? Después más. Mi cuerpo aprendía. Mi cabeza gritaba por dentro. Pero el cuerpo... el cuerpo aprendía.
-
-—Habla. Más suave. Más agudo.
-
-Practicaba. Horas y horas. Mi voz antes era grave. Ahora se rompía. Se volvía otra voz. Una voz que no conocía.
-
-—Maquillaje. Presta atención.
-
-Me sentaba frente al espejo. Ella pintaba mi cara. Cosas para tapar la barba que ya casi no había. Líneas negras en los ojos. Colores. Labios rojos. Siempre rojos.
-
-—Bien. Casi humana.
-
-Mi cuerpo cambiaba. Mucho. No podía no verlo.
-
-El pecho crecía. Cada día un poco más. Al día diez... necesitaba sujetador. Uno de verdad. Pesaban. Los hombros me dolían. Se movían cuando caminaba. Cuando me agachaba, caían hacia adelante. Me acordaban... me acordaban de lo que me estaban haciendo.
-
-Las caderas se hicieron más anchas. La grasa iba a lugares diferentes. Los pantalones —los que Valentina me dejaba usar— se sentían diferentes.
-
-La piel se puso muy suave. Muy sensible. Cuando algo me tocaba, era como... como electricidad. Cuando Valentina me rozaba, mi cuerpo hacía cosas. Cosas que mi cabeza odiaba.
-
-Y abajo...
-
-No quiero hablar de eso. De cómo se hacía chiquito. De cómo ya no podía... ya no funcionaba como antes. De cómo el placer se movía a otros lugares. Lugares nuevos.
-
-Valentina veía todo.
-
-—Estás progresando —dijo el día quince.
-
-—Déjame ir —pedí. Ya no gritaba. No tenía fuerzas para gritar.
-
-—Todavía no. —Me tocó la mejilla—. Pero pronto tendrás visitas.
-
-Esa noche... trajeron a un hombre.
-
-No sé cómo se llamaba. No me importó. Lo que importó fue después.
-
-Valentina me vistió. Vestido negro. Corto. Tacones de siete pulgadas. Maquillaje completo.
-
-—Vas a ser una buena chica para él —dijo.
-
-—No —dije. Todavía decía no.
-
-—Sí.
-
-No fui buena chica.
-
-Al principio.
-
-Resistí. Lloré. Pedí que parara. Pero mi cuerpo... mi cuerpo traidor...
-
-Cuando sus manos me tocaron. Cuando sus dedos encontraron lugares que las agujas habían hecho sensibles. Mi resistencia se... se derritió. No porque quería. Porque mi cuerpo ya no era mío.
-
-Gemí.
-
-Valentina miraba todo.
-
-—Buena chica —dijo cuando terminó.
-
-Y algo dentro de mí... algo roto... se puso caliente con esas palabras.
+Así empieza cada día. Creo. Si es que hay días.
 
 ---
 
-Los días siguieron.
+Valentina frente al espejo. Perfecta.
 
-Más hombres. Más entrenamiento. Más agujas.
+—Mira cómo camino. Desde las caderas.
 
-Al día veinte... ya no me acordaba de mi voz de antes. Al día veinticinco... los tacones altos se sentían normales. Al día veintisiete... me puse el maquillaje yo sola. Sin que nadie me dijera cómo.
+Miro. Ella se mueve como agua. Labios rojos. Tacones altísimos. Corsé que le hace la cintura imposible.
 
-Valentina me miraba. Con algo como... ¿orgullo?
+Quiero ser así.
+
+No. No quiero. ¿O sí?
+
+---
+
+Aguja. Fría. En la nalga esta vez.
+
+—El cóctel está funcionando —dice Valentina.
+
+El corsé aprieta. Los tacones duelen. Pero menos que ayer. ¿O era anteayer?
+
+—Soy una buena chica —digo.
+
+No sé por qué lo digo. Solo sale.
+
+---
+
+Desperté con peso en el pecho.
+
+El corsé apretaba. Los tacones seguían puestos. No me los puedo quitar. Candados.
+
+Miré abajo. Había bultos. Donde antes no había nada.
+
+—Están creciendo —dijo Valentina.
+
+---
+
+Aguja. Fría. En el muslo.
+
+—Camina —dijo Valentina—. Como te enseñé.
+
+Caminé. Las caderas se movían solas. El corsé me mantenía recta. Los tacones hacían ese ruido. Clic. Clic. Clic.
+
+—Buena chica.
+
+Las palabras entraron calientes.
+
+---
+
+El corsé es más apretado hoy. ¿O es que mi cintura es más chica?
+
+Los tacones son más altos. ¿O es que mis pies se acostumbraron?
+
+La aguja entra igual. Fría. Siempre fría.
+
+—Soy una buena chica —digo mientras me inyecta.
+
+Valentina sonríe.
+
+---
+
+—Di: "Soy una buena chica."
+
+Lo digo.
+
+—Di: "Quiero ser hermosa."
+
+Lo digo.
+
+—Di: "Haré lo que me ordenen."
+
+Lo digo.
+
+El corsé aprieta. La aguja entra. Los tacones hacen clic.
+
+Todo es parte de lo mismo.
+
+---
+
+Hay peso en mi pecho. Se mueve cuando camino.
+
+El corsé los empuja hacia arriba. Los hace más visibles.
+
+—Están creciendo rápido —dice Valentina mientras mide—. Pronto serán perfectos.
+
+Perfectos. La palabra entra caliente.
+
+---
+
+Aguja. Fría.
+
+Corsé. Apretado.
+
+Tacones. Altos.
+
+—Soy una buena chica —digo.
+
+Ya no sé si lo digo porque ella me lo pide o porque lo creo.
+
+---
+
+La cera caliente entre mis piernas. Otra vez.
+
+Ya no grito. El corsé no me deja gritar. Los tacones no me dejan huir.
+
+—Perfecta —dice Valentina—. Ya no queda nada del hombre.
+
+Perfecta.
+
+Buena chica.
+
+Las palabras se mezclan con el dolor del corsé y el frío de la aguja.
+
+---
+
+Valentina me vistió. Vestido negro. Corsé debajo. Tacones de siete pulgadas.
+
+Me miró.
+
+—Pareces una mujer —dijo.
+
+Me miré en el espejo.
+
+No me reconocí.
+
+Pero la mujer del espejo era... bonita. Con su corsé. Con sus tacones. Con los pechos que crecieron de las agujas.
+
+---
+
+Aguja. Fría.
+
+—Soy una buena chica —digo automáticamente.
+
+Corsé. Apretado.
+
+—Quiero ser hermosa —digo sin pensar.
+
+Tacones. Altos.
+
+—Haré lo que me ordenen —digo porque así me enseñaron.
+
+Valentina sonríe.
+
+—Lista para la siguiente lección.
+
+---
+
+Trajeron a un hombre.
+
+Valentina me puso de rodillas. El corsé apretaba. Los tacones brillaban. La aguja de la mañana todavía se sentía.
+
+—Muestra lo que aprendiste —dijo.
+
+Mi boca se abrió. Mi cuerpo hizo cosas. Cosas que aprendió. No sé cuándo. No me acuerdo.
+
+Él gimió.
+
+—Buena chica —dijo Valentina.
+
+Las palabras entraron calientes. Como siempre. Como las agujas. Como el corsé apretando.
+
+Todo es parte de lo mismo.
+
+---
+
+Los días siguieron. O las noches. No hay diferencia.
+
+Aguja. Corsé. Tacones. Buena chica.
+
+Aguja. Corsé. Tacones. Buena chica.
+
+Aguja. Corsé. Tacones. Buena chica.
+
+Hasta que ya no había otra cosa.
 
 —¿Cómo te llamas? —preguntó el día veintiocho.
 
