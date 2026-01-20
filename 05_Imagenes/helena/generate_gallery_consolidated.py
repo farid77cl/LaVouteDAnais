@@ -15,7 +15,6 @@ def parse_metadata():
     with open(OUTFITS_FILE, "r", encoding="utf-8", errors="replace") as f:
         content = f.read()
     
-    # Split by look headers
     sections = re.split(r'(?=## [🖤👗🐍⚡✨💀🦇]* ?Look \d+)', content)
     
     for section in sections:
@@ -30,15 +29,13 @@ def parse_metadata():
         if look_id is None:
             continue
         
-        # Extract title after colon
         title = ""
         if ':' in header:
             title = header.split(':', 1)[1].strip()
         
-        # Description is everything after header until --- or ### or ## or end
         desc_lines = []
         for line in lines[1:]:
-            if line.strip().startswith('---') or line.strip().startswith('###') or (line.strip().startswith('## ') and 'Look' not in line):
+            if line.strip().startswith('---') or line.strip().startswith('###'):
                 break
             desc_lines.append(line)
         
@@ -72,53 +69,52 @@ def generate():
     meta = parse_metadata()
     imgs = scan_images()
     
-    # Build the markdown content as a single string
-    md = """# 👗 Galería de Looks: Helena de Anaïs
-
-> Galería curada de vestuarios canónicos.
-
----
-
-"""
-    
-    for look_id in sorted(imgs.keys()):
-        look_imgs = sorted(imgs[look_id], key=lambda x: x['name'])
-        look_meta = meta.get(look_id, {'title': '', 'desc': ''})
+    # Use print() with file= to guarantee proper newlines
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        print("# 👗 Galería de Looks: Helena de Anaïs", file=f)
+        print("", file=f)
+        print("> Galería curada de vestuarios canónicos.", file=f)
+        print("", file=f)
+        print("---", file=f)
+        print("", file=f)
         
-        title = f": {look_meta['title']}" if look_meta['title'] else ""
-        md += f"## Look {look_id}{title}\n\n"
+        for look_id in sorted(imgs.keys()):
+            look_imgs = sorted(imgs[look_id], key=lambda x: x['name'])
+            look_meta = meta.get(look_id, {'title': '', 'desc': ''})
+            
+            title = f": {look_meta['title']}" if look_meta['title'] else ""
+            print(f"## Look {look_id}{title}", file=f)
+            print("", file=f)
+            
+            # Description as blockquote
+            if look_meta['desc']:
+                for line in look_meta['desc'].split('\n'):
+                    line = line.strip()
+                    if line:
+                        print(f"> {line}", file=f)
+                    else:
+                        print(">", file=f)
+                print("", file=f)
+            
+            # Image table
+            print("| Imagen | Imagen |", file=f)
+            print("|:---:|:---:|", file=f)
+            
+            for i in range(0, len(look_imgs), 2):
+                row = "|"
+                for j in range(2):
+                    if i + j < len(look_imgs):
+                        img = look_imgs[i + j]
+                        row += f" ![]({img['path']}) |"
+                    else:
+                        row += " |"
+                print(row, file=f)
+            
+            print("", file=f)
+            print("---", file=f)
+            print("", file=f)
         
-        # Description as blockquote
-        if look_meta['desc']:
-            for line in look_meta['desc'].split('\n'):
-                line = line.strip()
-                if line:
-                    md += f"> {line}\n"
-                else:
-                    md += ">\n"
-            md += "\n"
-        
-        # Image table - 2 columns like the test
-        md += "| Imagen | Imagen |\n"
-        md += "|:---:|:---:|\n"
-        
-        for i in range(0, len(look_imgs), 2):
-            row = "|"
-            for j in range(2):
-                if i + j < len(look_imgs):
-                    img = look_imgs[i + j]
-                    row += f" ![]({img['path']}) |"
-                else:
-                    row += " |"
-            md += row + "\n"
-        
-        md += "\n---\n\n"
-    
-    md += "*Generado por Helena v2026*\n"
-    
-    # Write with Unix LF line endings (not Windows CRLF)
-    with open(OUTPUT_FILE, "w", encoding="utf-8", newline='\n') as f:
-        f.write(md)
+        print("*Generado por Helena v2026*", file=f)
     
     print(f"Gallery generated: {len(imgs)} looks")
 
