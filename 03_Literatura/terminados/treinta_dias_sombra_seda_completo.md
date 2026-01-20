@@ -40,57 +40,63 @@ Cristóbal.
 
 ## La Cacería
 
-Todo empezó en Bellavista.
+Todo empezó en... en un lugar. Bellavista. Creo que se llamaba así.
 
-Un bar de esos con luces de neón y música demasiado alta. Patricia había insistido en venir. "Algo diferente", dijo. "Cultura queer". Yo había aceptado porque aceptar era más fácil que discutir, y porque siempre aceptaba lo que Patricia quería cuando necesitaba algo de ella después.
+Un bar. Con luces. Muchas luces. Y música fuerte. Patricia quiso ir. Mi... mi esposa. Antes era mi esposa. Ahora es mi... mi ama. Pero entonces era mi esposa. Dijo algo de... ¿cultura? Palabras difíciles. Yo dije que sí. Siempre decía que sí cuando quería algo después.
 
-Patricia. Mi esposa. La mujer que creía conocer.
+Patricia. La mujer que yo creía... que no era...
 
-Yo era Cristóbal entonces. Cristóbal Alvarado. Ejecutivo. Costanera Center, piso 42. Corbatas de seda y relojes que costaban más que autos. Tenía cuarenta y tres años, un matrimonio de quince, y una colección.
+No. Espera. Estoy contando mal.
 
-La colección no era de relojes.
+Yo era Cristóbal. Eso me acuerdo. Cristóbal... Al-algo. Alvarado. Trabajaba en un edificio alto. Muy alto. ¿Piso cuarenta y... algo? Los números. Usaba ropa cara. Relojes. Corbatas. Era... era importante. Creo.
 
-Era de mujeres.
+Tenía una colección.
 
-No las contaba, pero si lo hubiera hecho... veinte, quizás. Treinta. Patricia nunca supo. O eso creía yo. Ella estaba tan ocupada con sus cosas, sus amigas, su yoga. Tan ciega.
+No de relojes.
+
+De... de mujeres.
+
+¿Cuántas? No sé. ¿Veinte? ¿Treinta? Los números son difíciles. Patricia no sabía. Eso creía yo. Ella hacía sus cosas. Amigas. Yoga. No miraba. No veía.
 
 Eso creía yo.
 
-El show empezó a las diez. Drag queens. Lentejuelas y pestañas postizas del tamaño de alas de murciélago. Me aburría. Pensaba en la cuenta del restaurante, en el informe que tenía que revisar mañana, en la pelirroja de contabilidad que me había sonreído el viernes.
+El show empezó. Mujeres bonitas en el escenario. Brillantes. Con pestañas grandes. Yo estaba... ¿aburrido? Pensaba en cosas de trabajo. En una chica de la oficina. Pelo rojo.
 
-Y entonces la vi.
+Y entonces...
 
-Valentina Sombra.
+Valentina.
 
-Subió al escenario como si fuera dueña de él. Vestido dorado que parecía líquido, labios rojos como sangre fresca, ojos que brillaban con algo que no pude identificar. Era alta. Más alta que yo, incluso sin los tacones imposibles que llevaba. Su voz era un ronroneo cuando empezó a cantar.
+Subió al escenario. Vestido dorado. Brillante como... como agua con luz. Labios rojos. Muy rojos. Ojos que... que brillaban. Era alta. Más alta que yo. Tacones enormes. Su voz era como... como ronroneo de gato.
 
-Algo se movió dentro de mí.
+Algo pasó dentro de mí. En el estómago. O más abajo.
 
-No era deseo, exactamente. Era algo más primitivo. El instinto del cazador que ve una presa nueva.
+No era que la quisiera. Era otra cosa. Como... como cuando ves algo que quieres tener. Yo era el... el cazador. Eso pensaba. Los hombres como yo cazan. No son... no son cazados.
 
-"Quiero esa", pensé.
+Pensé: "Quiero esa."
 
-Agregar una drag a mi colección. Algo diferente. Algo que contar.
+Para mi colección. Algo diferente. Una drag. Algo que contar.
 
-Patricia estaba distraída, hablando con alguien en la barra. Me levanté. Me acerqué al escenario. Cuando Valentina terminó su número, nuestros ojos se encontraron.
+Patricia hablaba con alguien. No miraba. Me levanté. Caminé. Cuando Valentina bajó del escenario, nuestros ojos se... se encontraron.
 
-Ella sonrió.
+Sonrió.
 
-Debí haber visto el peligro en esa sonrisa. La trampa detrás de los dientes perfectos. Pero yo era Cristóbal Alvarado, y los hombres como yo no caen en trampas.
+Debí ver el peligro. La trampa. Pero yo era Cristóbal. Los hombres como yo no caen en trampas.
 
 Los hombres como yo ponen las trampas.
 
-—Increíble show —le dije cuando bajó.
+Qué idiota era.
+
+—Lindo show —le dije. O algo así.
 
 —Gracias, cariño. —Su voz era más grave de cerca. Más real.
 
-—¿Puedo invitarte un trago?
+—¿Un trago?
 
-Me miró de arriba abajo. Lentamente. Como si me estuviera evaluando. Como si yo fuera el producto en exhibición.
+Me miró. De arriba abajo. Lento. Como si yo fuera la cosa en venta. No ella.
 
 —Claro —dijo—. Pero no aquí.
 
-Me dio una tarjeta. Negra con letras doradas. Una dirección. Un número.
+Me dio una tarjeta. Negra. Con letras doradas. Números. Una dirección.
 
 —Mañana. Medianoche. Si te atreves.
 
@@ -98,279 +104,278 @@ Me atreví.
 
 Por supuesto que me atreví.
 
-El taxi me dejó en una calle oscura de un barrio que no reconocí. La dirección era un edificio antiguo, sin nombre. Subí al tercer piso. La puerta estaba entreabierta.
+El taxi me llevó a una calle. Oscura. No sabía dónde era. Un edificio viejo. Sin nombre. Subí escaleras. ¿Tres pisos? La puerta estaba... abierta. Un poco.
 
 —Pasa, cazador.
 
-Su voz venía de la oscuridad.
+Su voz. Desde lo oscuro.
 
-Entré. El departamento olía a incienso y algo más dulce. Velas. Muchas velas. Valentina estaba recostada en un diván de terciopelo rojo, todavía con el maquillaje de la noche anterior. Pero sin el vestido dorado. Solo una bata de seda negra que no ocultaba nada.
+Entré. Olía a... a esas cosas que se prenden. Incienso. Y algo dulce. Velas. Muchas velas. Valentina estaba acostada en un... un mueble rojo. Terciopelo. Ya no tenía el vestido dorado. Solo una bata. Negra. De seda. Se veía... todo.
 
 —Sabía que vendrías —dijo.
 
-—¿Ah sí?
+—¿Sí? —pregunté. Tonto.
 
-—Los hombres como tú siempre vienen. —Se levantó. Se acercó. Sus tacones sonaban contra el piso de madera—. ¿Qué quieres, Cristóbal?
+—Los hombres como tú siempre vienen. —Se paró. Caminó hacia mí. Sus tacones hacían ruido en el piso—. ¿Qué quieres, Cristóbal?
 
-No le había dicho mi nombre.
+Mi nombre. No se lo había dicho.
 
-Debí haber preguntado cómo lo sabía. Debí haber dado media vuelta y huido. Pero su mano ya estaba en mi pecho. Sus uñas, largas y negras, rozaban la tela de mi camisa.
+Debí... debí preguntar. Debí irme. Pero su mano ya estaba en mi pecho. Sus uñas negras. Largas. Tocaban mi camisa.
 
-—Quiero... —tragué—. Quiero probarte.
+—Quiero... —tragué— ...probarte.
 
-Ella rio. Un sonido bajo, oscuro, como campanas enterradas.
+Se rio. Un sonido oscuro. Como campanas debajo de la tierra.
 
-—Qué dulce. Pero primero, necesitas relajarte.
+—Qué dulce. Pero primero... relájate.
 
-Me ofreció un trago. Whisky. Lo tomé de un sorbo.
+Me dio un trago. Whisky. Lo tomé rápido.
 
-El calor bajó por mi garganta. Y algo más. Algo que no era whisky.
+El calor bajó por mi garganta. Y algo más. Algo que no era... que no era solo...
 
 —¿Qué...?
 
-El cuarto empezó a girar.
+El cuarto empezó a... a moverse. Girar.
 
-—Shh —la voz de Valentina sonaba lejana—. Deja que funcione.
+—Shh —su voz estaba lejos—. Deja que funcione.
 
-Intenté moverme. Mis piernas no respondían.
+Intenté moverme. Mis piernas no... no funcionaban.
 
-—¿Qué me diste?
+—¿Qué me... diste?
 
-—El principio, cariño. —Su rostro flotaba sobre el mío—. El principio de tu nueva vida.
+—El principio, cariño. —Su cara flotaba sobre mí—. El principio de tu nueva vida.
 
-Sentí un pinchazo en el cuello. Una aguja.
+Sentí algo en el cuello. Un pinchazo. Una aguja.
 
-Y después, oscuridad.
+Y después... negro.
 
 ---
 
 ## La Purga
 
-Desperté en un lugar que no reconocí.
+Me desperté en... en un lugar.
 
-Una habitación blanca. Sin ventanas. Una cama individual. Una puerta cerrada.
+Blanco. Todo blanco. Sin ventanas. Una cama chiquita. Una puerta cerrada.
 
-Intenté levantarme. Mi cuerpo pesaba como si estuviera lleno de plomo. La cabeza me pulsaba.
+Intenté pararme. Mi cuerpo pesaba. Mucho. La cabeza me dolía.
 
-—¿Hola? —mi voz sonaba ronca—. ¿Hay alguien?
+—¿Hola? —mi voz sonaba rara. Ronca—. ¿Alguien?
 
 La puerta se abrió.
 
-Valentina entró. Ya no llevaba maquillaje. Sin las pestañas postizas, sin el vestido, parecía... diferente. Más real. Más peligrosa.
+Valentina. Sin maquillaje. Sin pestañas falsas. Sin vestido. Se veía... diferente. Más real. Más... más peligrosa.
 
 —Buenos días, Cristóbal.
 
-—¿Dónde estoy? ¿Qué me hiciste?
+—¿Dónde... dónde estoy? ¿Qué me hiciste?
 
-—Estás en mi casa de campo. Cajón del Maipo. Muy lejos de todo. —Se sentó en una silla junto a la cama—. Y lo que te hice... bueno. Eso lo irás descubriendo.
+—Mi casa de campo. Cajón del Maipo. —Se sentó en una silla—. Muy lejos de todo. Y lo que te hice... ya lo vas a ver.
 
 —Estás loca. Mi esposa... mi trabajo... Van a buscarme.
 
-Ella sonrió. Esa sonrisa que debí haber reconocido como peligro.
+Sonrió. Esa sonrisa. Debí haberla reconocido.
 
-—Tu esposa cree que estás en Miami. Un curso de liderazgo ejecutivo. Cuatro semanas. Todo pagado. —Inclinó la cabeza—. Tú mismo lo arreglaste. ¿No recuerdas?
+—Tu esposa cree que estás en Miami. Un curso de... ¿cómo se dice? Liderazgo. Cuatro semanas. —Inclinó la cabeza—. Tú mismo lo arreglaste. ¿No te acuerdas?
 
-No recordaba nada.
+No me acordaba de nada.
 
 —Déjame ir.
 
+Eso dije. Creo. Las palabras de antes son... borrosas.
+
 —No.
 
-La palabra fue simple. Final.
+Una sola palabra. Final. Como una puerta que se cierra.
 
-Intenté levantarme. Ella me empujó de vuelta a la cama sin esfuerzo. Estaba débil. Demasiado débil.
+Intenté pararme. Ella me empujó. Fácil. Yo estaba... débil. Muy débil.
 
-—¿Qué me inyectaste?
+—¿Qué me... qué me inyectaste?
 
-—Estrógenos, principalmente. Una dosis bastante alta. —Cruzó las piernas—. También un poco de sedante. Para que no hagas tonterías.
+—Estrógenos, principalmente. Una dosis bastante alta. —Cruzó las piernas. Se veía tan... tan tranquila—. También un poco de sedante. Para que no hagas tonterías.
 
-Estrógenos.
-
-La palabra tardó en procesarse.
+Estró... esa palabra. Grande. Difícil. Tardó en... en entrar en mi cabeza.
 
 —¿Qué?
 
-—Hormonas femeninas, cariño. —Su voz era casi maternal—. Las primeras de muchas.
+—Hormonas femeninas, cariño. —Su voz era como de mamá. Suave. Pero no era suave de verdad—. Las primeras de muchas.
 
-El pánico llegó entonces. Visceral. Primitivo.
+El miedo vino entonces. Grande. En el estómago. En todo el cuerpo.
 
-—¡Estás loca! ¡No puedes...!
+—¡Estás loca! ¡No puedes...! —grité. O algo así. Ya no me acuerdo bien.
 
-—Puedo. —Se levantó—. Y voy a hacerlo. Cada día durante los próximos treinta días.
+—Puedo. —Se paró—. Y voy a hacerlo. Cada día durante los próximos treinta días.
 
 —¿Por qué?
 
 —Porque puedo. —Se detuvo en la puerta—. Y porque te lo mereces.
 
-Me dejó solo.
+Se fue.
 
-Grité. Golpeé las paredes. Intenté romper la puerta. Nada funcionó.
+Grité. Golpeé las paredes con las manos. Intenté romper la puerta. Nada. Nada funcionaba.
 
-Las horas pasaron. O los días. Sin ventanas, sin reloj, era imposible saberlo.
+Las horas pasaron. O los días. No había ventanas. No había reloj. No sabía cuánto tiempo.
 
-Valentina volvía dos veces al día. Con comida. Con inyecciones. Con órdenes.
+Valentina venía dos veces al día. Creo. Con comida. Con las agujas. Con órdenes.
 
 —Desvístete.
 
-—No.
+—No —dije. Todavía decía no. Antes podía decir no.
 
-Me desvistió ella. Con tijeras. Mi ropa —mi traje de diseñador, mis zapatos italianos— quedó en tiras en el suelo.
+Me desvistió ella. Con tijeras. Mi ropa cayó al suelo. En pedazos.
 
 —Ahora, esto.
 
-Me dio ropa interior. Rosa. De encaje.
+Ropa interior. Rosa. Con encaje.
 
 —Jamás.
 
-Me la puso mientras yo lloraba de rabia.
+Me la puso igual. Mientras yo lloraba.
 
-La primera semana fue un infierno.
+La primera semana fue... mala. Muy mala.
 
-Me depilaron. Todo. Cada vello de mi cuerpo arrancado con cera caliente mientras mordía una almohada. Me obligaron a usar tacones. Al principio pequeños, tres pulgadas. Caía constantemente. Mis tobillos gritaban de dolor.
+Me sacaron todo el pelo del cuerpo. Con cera caliente. Dolía mucho. Mordía la almohada. Me pusieron tacones. Chiquitos primero. Tres... ¿pulgadas? Me caía todo el tiempo. Los tobillos me dolían.
 
-La comida sabía rara. Después supe por qué: laxantes, diuréticos. Mi cuerpo se vaciaba. Literalmente.
+La comida sabía rara. Después supe por qué. Cosas para vaciar el cuerpo. Mi cuerpo se... se vaciaba.
 
-Y las inyecciones. Cada día. Siempre en el muslo o las nalgas. El líquido entraba frío y después venía el calor. Un calor extraño que se extendía por todo mi cuerpo.
+Y las agujas. Cada día. En la pierna. O en el trasero. El líquido entraba frío. Después caliente. Un calor raro que iba por todo el cuerpo.
 
-Al tercer día, mi pecho empezó a doler.
+Al tercer día... el pecho empezó a doler.
 
-Al quinto, mis pezones estaban hinchados. Sensibles. Cada roce de tela era una tortura.
+Al quinto... los... los pezones. Hinchados. Cuando la tela los tocaba... dolía. Pero también otra cosa.
 
-Al séptimo día, me miré en el espejo que Valentina había puesto en la habitación.
+Al séptimo día... me miré en el espejo.
 
-No me reconocí.
+No me conocí.
 
 ---
 
-Mis ojos seguían siendo míos. Pero todo lo demás...
+Mis ojos seguían siendo míos. Creo. Pero todo lo demás...
 
-La piel de mi rostro parecía más suave. Mis labios, más llenos. Y bajo la lencería que me obligaban a usar, había... curvas. Pequeñas todavía, pero ahí. Imposibles de ignorar.
+La piel de la cara se veía... más suave. Los labios más gordos. Y abajo de la ropa rosada había... cosas. Curvas. Chiquitas todavía. Pero ahí. No podía no verlas.
 
-—No —susurré al espejo—. No, no, no.
+—No —le dije al espejo—. No, no, no.
 
-El reflejo no respondió.
+El espejo no contestó.
 
 ---
 
 ## La Metamorfosis
 
-Los días se confundieron.
+Los días se... se mezclaron.
 
-Sin ventanas. Sin reloj. Solo el ritmo de las inyecciones, de la comida, de las lecciones.
+No había ventanas. No había reloj. Solo las agujas. La comida. Las lecciones.
 
-Valentina me enseñaba.
+Valentina me enseñaba cosas.
 
 —Camina. Desde las caderas. Así.
 
-Tacones más altos ahora. Cinco pulgadas. Después seis. Mi cuerpo se adaptaba aunque mi mente gritaba.
+Los tacones eran más altos ahora. ¿Cinco... pulgadas? Después más. Mi cuerpo aprendía. Mi cabeza gritaba por dentro. Pero el cuerpo... el cuerpo aprendía.
 
 —Habla. Más suave. Más agudo.
 
-Practicaba durante horas. Mi voz, antes grave, se quebraba en tonos que no reconocía.
+Practicaba. Horas y horas. Mi voz antes era grave. Ahora se rompía. Se volvía otra voz. Una voz que no conocía.
 
 —Maquillaje. Presta atención.
 
-Me sentaba frente al espejo mientras ella pintaba mi rostro. Base para ocultar la sombra de barba que ya casi no existía. Delineador. Sombras. Labios rojos, siempre rojos.
+Me sentaba frente al espejo. Ella pintaba mi cara. Cosas para tapar la barba que ya casi no había. Líneas negras en los ojos. Colores. Labios rojos. Siempre rojos.
 
 —Bien. Casi humana.
 
-Los cambios físicos eran imposibles de ignorar.
+Mi cuerpo cambiaba. Mucho. No podía no verlo.
 
-Mi pecho crecía. Cada día un poco más. Al día diez, necesitaba sujetador. Uno de verdad. El peso tiraba de mis hombros. Se balanceaban cuando caminaba. Cuando me inclinaba, caían hacia adelante, recordándome a cada segundo lo que me estaban haciendo.
+El pecho crecía. Cada día un poco más. Al día diez... necesitaba sujetador. Uno de verdad. Pesaban. Los hombros me dolían. Se movían cuando caminaba. Cuando me agachaba, caían hacia adelante. Me acordaban... me acordaban de lo que me estaban haciendo.
 
-Mis caderas se ensanchaban. La grasa se redistribuía de formas que no entendía. Mis pantalones —los que Valentina me permitía usar, si es que se les podía llamar así— se ajustaban diferente.
+Las caderas se hicieron más anchas. La grasa iba a lugares diferentes. Los pantalones —los que Valentina me dejaba usar— se sentían diferentes.
 
-Mi piel se volvió ultrasuave. Sensible. Cada toque era eléctrico. Cuando Valentina me rozaba, mi cuerpo reaccionaba de maneras que mi mente repudiaba.
+La piel se puso muy suave. Muy sensible. Cuando algo me tocaba, era como... como electricidad. Cuando Valentina me rozaba, mi cuerpo hacía cosas. Cosas que mi cabeza odiaba.
 
-Y mi sexo...
+Y abajo...
 
-No quiero hablar de mi sexo. De cómo se encogía. De cómo cada erección era más difícil, más rara. De cómo el placer cambiaba, se desplazaba a otros lugares que no conocía.
+No quiero hablar de eso. De cómo se hacía chiquito. De cómo ya no podía... ya no funcionaba como antes. De cómo el placer se movía a otros lugares. Lugares nuevos.
 
-Valentina notó todo.
+Valentina veía todo.
 
 —Estás progresando —dijo el día quince.
 
-—Déjame ir —supliqué. Ya no gritaba. Las fuerzas para gritar se habían ido.
+—Déjame ir —pedí. Ya no gritaba. No tenía fuerzas para gritar.
 
-—Todavía no. —Me acarició la mejilla—. Pero pronto tendrás visitas.
+—Todavía no. —Me tocó la mejilla—. Pero pronto tendrás visitas.
 
-Esa noche, trajeron a un hombre.
+Esa noche... trajeron a un hombre.
 
-No sé cómo se llamaba. No me importó. Lo que importó fue lo que pasó después.
+No sé cómo se llamaba. No me importó. Lo que importó fue después.
 
-Valentina me vistió. Un vestido negro, corto. Tacones de siete pulgadas. Maquillaje completo.
+Valentina me vistió. Vestido negro. Corto. Tacones de siete pulgadas. Maquillaje completo.
 
 —Vas a ser una buena chica para él —dijo.
 
-—No.
+—No —dije. Todavía decía no.
 
 —Sí.
 
-No fui una buena chica.
+No fui buena chica.
 
 Al principio.
 
-Resistí. Lloré. Supliqué. Pero mi cuerpo... mi cuerpo traidor...
+Resistí. Lloré. Pedí que parara. Pero mi cuerpo... mi cuerpo traidor...
 
-Cuando sus manos me tocaron, cuando sus dedos encontraron lugares que la química había vuelto sensibles, mi resistencia se derritió. No porque quisiera. Porque mi cuerpo ya no me pertenecía.
+Cuando sus manos me tocaron. Cuando sus dedos encontraron lugares que las agujas habían hecho sensibles. Mi resistencia se... se derritió. No porque quería. Porque mi cuerpo ya no era mío.
 
 Gemí.
 
-Valentina observó todo.
+Valentina miraba todo.
 
 —Buena chica —dijo cuando terminó.
 
-Y algo dentro de mí... algo oscuro y roto... se calentó con esas palabras.
+Y algo dentro de mí... algo roto... se puso caliente con esas palabras.
 
 ---
 
-Los días siguieron pasando.
+Los días siguieron.
 
-Más hombres. Más entrenamiento. Más inyecciones.
+Más hombres. Más entrenamiento. Más agujas.
 
-Al día veinte, ya no recordaba cómo se sentía mi voz anterior. Al día veinticinco, los tacones de nueve pulgadas se sentían naturales. Al día veintisiete, me puse el maquillaje yo sola sin instrucciones.
+Al día veinte... ya no me acordaba de mi voz de antes. Al día veinticinco... los tacones altos se sentían normales. Al día veintisiete... me puse el maquillaje yo sola. Sin que nadie me dijera cómo.
 
-Valentina me miraba con algo parecido al orgullo.
+Valentina me miraba. Con algo como... ¿orgullo?
 
 —¿Cómo te llamas? —preguntó el día veintiocho.
 
-—Cristóbal —dije automáticamente.
+—Cristóbal —dije. Sin pensar.
 
-Me abofeteó.
+Me pegó en la cara.
 
 —¿Cómo te llamas?
 
-Silencio.
+No dije nada.
 
 —¿CÓMO TE LLAMAS?
 
-—N-Nena —susurré. El nombre que ella había usado para mí. El único nombre que quedaba.
+—N-Nena —susurré. El nombre que ella usaba para mí. El único nombre que quedaba.
 
 —¿Y qué eres?
 
 —Soy... soy una buena chica.
 
-La sonrisa de Valentina fue lo más cercano a amor que había visto en semanas.
-
+La sonrisa de Valentina fue lo más parecido a amor que había visto en semanas.
 —Sí. Lo eres.
 
 ---
 
 ## La Consagración
 
-El día treinta amaneció igual que los demás.
+El día treinta empezó igual.
 
-Valentina entró a mi habitación temprano. Traía un vestido nuevo. Blanco esta vez. Encaje delicado. Y una maleta pequeña.
+Valentina entró. Temprano. Traía un vestido. Blanco. Con encaje. Y una maleta chiquita.
 
 —Hoy es el día —dijo.
 
-—¿Qué día?
+—¿Qué... qué día?
 
 —El día que vuelves a casa.
 
 Casa.
 
-La palabra sonaba extraña. Como un idioma olvidado.
+La palabra sonaba rara. Como un idioma que hablé hace mucho y se me olvidó.
 
 —¿Patricia...?
 
@@ -378,31 +383,31 @@ La palabra sonaba extraña. Como un idioma olvidado.
 
 Me miré en el espejo.
 
-La persona que me devolvía la mirada era... una mujer. No había otra palabra. Curvas suaves, rostro delicado, cabello largo (extensiones, pero parecían mías). Los pechos que llenaban el sujetador eran pequeños pero reales. Míos.
+La persona que me miraba era... mujer. No había otra palabra. Curvas suaves. Cara delicada. Pelo largo. Las cosas que había adentro del sujetador eran chiquitas pero... reales. Mías.
 
-El vestido blanco ocultaba algo. Pero no todo. Había curvas donde antes no las había. Suavidad donde antes había ángulos.
+El vestido blanco tapaba cosas. Pero no todo. Había curvas donde antes no. Suavidad donde antes había... otra cosa.
 
 —No puedo...
 
-—Puedes. —Valentina me puso ropa encima del vestido. Un abrigo largo. Pantalones holgados sobre las medias. Zapatos planos sobre los pies que ya solo se sentían cómodos en tacones—. Y lo vas a hacer.
+—Puedes. —Valentina me puso ropa encima del vestido. Un abrigo largo. Pantalones flojos sobre las medias. Zapatos planos que se sentían raros. Mis pies querían tacones—. Y lo vas a hacer.
 
 —¿Por qué hiciste esto?
 
-Valentina me miró. Por primera vez, vi algo detrás de la máscara. Algo que podría haber sido compasión.
+Valentina me miró. Por primera vez vi algo detrás de su cara. Algo que podría haber sido... ¿triste?
 
 —Porque tenías que pagar, Nena. —Me besó en la frente—. Ahora ve a casa.
 
-El taxi me esperaba afuera.
+El taxi esperaba afuera.
 
-No sé cuántas horas viajé. Las montañas del Cajón del Maipo quedaron atrás. Santiago apareció en el horizonte. Mi edificio. Mi puerta.
+No sé cuántas horas viajé. Las montañas quedaron atrás. Santiago apareció. Mi edificio. Mi puerta.
 
-Patricia abrió antes de que pudiera tocar.
+Patricia abrió antes de que yo tocara.
 
 —Llegaste —dijo.
 
-Su rostro era neutro. Cauteloso. Como si estuviera mirando a un extraño.
+Su cara era... no sé. Como si mirara a alguien que no conocía.
 
-—Sí —mi voz sonó extraña. Aguda. Ajena.
+—Sí —mi voz sonó rara. Aguda. Como de otra persona.
 
 —¿Cómo te fue en Miami?
 
@@ -410,17 +415,17 @@ Su rostro era neutro. Cauteloso. Como si estuviera mirando a un extraño.
 
 Me dejó entrar.
 
-Entré a mi propia casa sintiéndome una intrusa.
+Entré a mi casa. Pero se sentía como si no fuera mía.
 
 ---
 
 ## El Regreso
 
-Los primeros días fueron un ejercicio en terror.
+Los primeros días fueron... malos. Muy malos.
 
-Intenté actuar normal. Pero nada era normal. Mi voz se quebraba cuando intentaba bajarla. Mi manera de caminar era diferente —las caderas se movían solas, un balanceo que no podía controlar. Mis manos buscaban cosas que no debían: maquillaje en el baño, tacones escondidos en el armario.
+Intenté actuar normal. Pero nada era normal. Mi voz se rompía cuando intentaba hacerla grave. Mi manera de caminar era diferente. Las caderas se movían solas. No podía parar. Mis manos buscaban cosas. Maquillaje en el baño. Tacones escondidos en el armario.
 
-Patricia me observaba.
+Patricia me miraba.
 
 —Te ves diferente —dijo el segundo día.
 
@@ -430,77 +435,85 @@ Patricia me observaba.
 
 —Usé protector solar.
 
-Las excusas se agotaban.
+Las excusas se... se acababan.
 
-El tercer día, me descubrió.
+El tercer día me... me encontró.
 
-Estaba en el baño. Había cerrado la puerta con llave. Me estaba maquillando —solo un poco, lo suficiente para sentirme yo misma— cuando ella golpeó.
+Estaba en el baño. La puerta cerrada con llave. Me estaba poniendo maquillaje. Solo un poco. Para sentirme... yo. Ella golpeó.
 
 —Cristóbal. Abre.
 
 —Un momento.
 
-Intenté limpiarme. Pero el rímel no salía. El labial había manchado.
+Intenté limpiarme. Pero el rímel no salía. El labial había... manchado.
 
-La puerta se abrió. Patricia tenía llave de repuesto.
+La puerta se abrió. Patricia tenía otra llave.
 
 Me vio.
 
-Vi sus ojos recorrer mi rostro maquillado. Bajar a mi pecho, donde la camiseta se ajustaba diferente. A mis caderas. A mis manos temblorosas sosteniendo el delineador.
+Vi sus ojos. Mirando mi cara pintada. Bajando al pecho donde la camiseta se ajustaba diferente. A las caderas. A mis manos temblando con el delineador.
 
-—¿Qué... —su voz era un susurro— ...qué es esto?
+—¿Qué... —su voz era muy bajita— ...qué es esto?
 
 —Patricia, puedo explicar...
 
 —¿EXPLICAR QUÉ?
 
-Dio un paso adelante. Agarró mi camiseta. La levantó.
+Caminó hacia mí. Agarró mi camiseta. La levantó.
 
-El sujetador que llevaba —rosa, de encaje— quedó expuesto. Y dentro de él, los pechos que habían crecido durante treinta días de hormonas.
+El sujetador rosa quedó a la vista. Y las cosas adentro. Los pechos que crecieron en treinta días.
 
-Patricia no dijo nada.
+Patricia no habló.
 
-Por un momento eterno, solo me miró.
+Por un momento largo largo largo... solo me miró.
 
-Después, comenzó a llorar.
+Después lloró.
 
-—¿Qué te hicieron? —preguntó entre sollozos—. ¿Qué te pasó en Miami?
+—¿Qué te hicieron? —preguntó llorando—. ¿Qué te pasó en Miami?
 
-Las lágrimas parecían reales.
+Las lágrimas se veían reales.
 
-Su confusión parecía real.
+Su confusión se veía real.
 
-Su dolor parecía real.
+Su dolor se veía real.
 
-—Fui... secuestrado —murmuré—. Una mujer... me inyectó cosas... me obligó a...
+—Fui... secuestrado —dije—. Una mujer... me inyectó cosas... me obligó a...
 
-La historia salió a medias. Fragmentada. No mencioné que había ido voluntariamente a casa de Valentina. No mencioné que había querido seducirla. Solo la versión de víctima que me permitía sobrevivir.
+La historia salió a pedazos. No dije que había ido yo solo. No dije que quería seducirla. Solo la versión de víctima. La que me dejaba sobrevivir.
 
 Patricia me abrazó.
 
 —Vamos a superar esto —dijo—. Juntos.
 
-Por un momento, le creí.
+Por un momento le creí.
 
-Qué estúpida fui.
+Qué tonta fui.
 
 ---
 
 ## La Domesticación
 
-Los meses que siguieron fueron una lenta caída.
+Los meses que siguieron fueron... una caída. Lenta.
 
-Patricia tomó el control de todo. "Por tu propio bien", decía. Yo estaba demasiado confundida, demasiado frágil para resistir.
+Patricia tomó control de todo. "Por tu propio bien", decía. Yo estaba muy confundida. Muy... frágil. No podía resistir.
 
-Primero fue la ropa.
+Primero la ropa.
 
-—Esto es ridículo —dijo señalando mis pantalones de hombre—. No te quedan bien. —Me compró faldas. Blusas. Vestidos—. Así está mejor.
+—Esto es ridículo —dijo mirando mis pantalones de hombre—. No te quedan bien.
 
-Después, el maquillaje.
+Me compró faldas. Blusas. Vestidos.
 
-—Si vas a usarlo, al menos hazlo bien. —Me enseñó técnicas. Colores. La base perfecta para mi nueva piel—. Pareces presentable.
+—Así está mejor.
 
-Después, las reglas.
+Después el maquillaje.
+
+—Si vas a usarlo, al menos hazlo bien.
+
+Me enseñó cosas. Colores. Cómo poner la base.
+
+—Pareces presentable.
+
+Después las reglas.
 
 —No salgas sin permiso.
 
@@ -510,23 +523,23 @@ Después, las reglas.
 
 —Cuando yo entre a una habitación, te pones de pie.
 
-Las órdenes eran pequeñas al principio. Después crecieron.
+Las órdenes eran chiquitas al principio. Después crecieron.
 
-Al segundo mes, yo ya no tomaba decisiones. Patricia decidía qué comía, qué vestía, cuándo dormía. A veces me dejaba usar tacones dentro de la casa. A veces me los prohibía.
+Al segundo mes... ya no decidía nada. Patricia decidía qué comía. Qué vestía. Cuándo dormía. A veces me dejaba usar tacones en la casa. A veces no.
 
 —Tienes que ganártelos —decía.
 
 Me los ganaba. Como ella quería.
 
-Al tercer mes, el trabajo era un recuerdo lejano. Patricia había llamado para decir que estaba enfermo. Después, que había renunciado. Ya no existía para el mundo exterior.
+Al tercer mes... el trabajo era un recuerdo. Lejano. Patricia había llamado para decir que estaba enfermo. Después que había renunciado. Ya no existía para nadie.
 
 Solo para ella.
 
-Al cuarto mes, empezaron los castigos.
+Al cuarto mes... los castigos.
 
-Por errores pequeños —un plato mal lavado, una respuesta demasiado lenta— venían consecuencias. A veces me ignoraba durante horas. A veces me hacía dormir en el suelo. A veces peores.
+Por cosas chiquitas. Un plato mal lavado. Una respuesta lenta. Venían cosas malas. A veces me ignoraba por horas. A veces dormía en el suelo. A veces peor.
 
-Al quinto mes, ya no podía imaginar otra vida.
+Al quinto mes... ya no podía pensar en otra vida.
 
 Cristóbal era un fantasma. Un recuerdo borroso de alguien que creía ser fuerte. Que creía ser cazador.
 
@@ -534,17 +547,17 @@ Solo quedaba Nena.
 
 Y Nena... Nena necesitaba a Patricia.
 
-Necesitaba sus órdenes para funcionar. Necesitaba su aprobación para respirar. Necesitaba el dolor que le daba para recordar que existía.
+Necesitaba las órdenes para funcionar. Necesitaba que me dijera que estaba bien para respirar. Necesitaba el dolor para recordar que existía.
 
-El sexto mes, Patricia me mostró el collar.
+Al sexto mes... Patricia me mostró el collar.
 
 —Esto es para ti —dijo—. Cuando estés lista.
 
-Lo miré. Cuero negro. Metal frío. Una placa con una palabra grabada.
+Lo miré. Cuero negro. Metal frío. Una placa con una palabra.
 
 "NENA".
 
-—¿Cuándo? —susurré.
+—¿Cuándo? —pregunté. Bajito.
 
 —Cuando yo lo decida.
 
