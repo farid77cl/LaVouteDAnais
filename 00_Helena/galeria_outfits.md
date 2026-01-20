@@ -619,12 +619,12 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - **Pelo:** Ondas salvajes negro azabache con mechas ROJAS ocultas que se revelan al mover, volumen extremo.
 - **Uñas:** Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas.
 
-### 📸 Imágenes (Pendiente)
-- helena_look36_standing.png
-- helena_look36_seated.png
-- helena_look36_back_view.png
-- helena_look36_side_profile.png
-- helena_look36_ditzy.png
+### 📸 Imágenes (5)
+- helena_look36_standing_1768908089584.png
+- helena_look36_seated_1768908201332.png
+- helena_look36_back_view_1768908125068.png
+- helena_look36_side_profile_1768908142604.png
+- helena_look36_ditzy_1768908160393.png
 
 **Ubicación:** 05_Imagenes/helena/look36_crimson_serpent/
 
