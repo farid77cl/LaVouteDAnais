@@ -598,3 +598,33 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look35_ditzy.png
 
 **Ubicación:** 05_Imagenes/helena/look35_velvet_noir_empress/
+
+---
+
+## 🐍 Look 36: Crimson Serpent (20/01/2026)
+
+*Veneno rojo goteando sobre escamas negras — mortal y sin una sola neurona* 🩸🐍
+
+- **Corsé:** Underbust de cuero negro brillante con costuras ROJAS zigzag (patrón serpiente), varillas de acero, ultra ajustado.
+- **Top:** Nada excepto el corsé — mis pechos empujados hacia arriba como ofrendas al sol de sangre. 🦇
+- **Bottom:** Mini falda de látex negro con abertura lateral peligrosa, bordado de escamas en rojo metálico.
+- **Medias:** Fishnet negras con patrón de escamas + liguero de cuero rojo sangre con hebillas de serpiente.
+- **Stilettos:** Pumps negro charol 8" con suela ROJO SANGRE (Louboutin-style) y correa al tobillo con serpiente metálica.
+- **Accesorios:**
+  - Choker grueso de cuero negro con serpiente plateada enrollada y ojos de rubí
+  - Brazalete de serpiente en brazo superior izquierdo
+  - Anillos de serpiente en múltiples dedos
+  - Pendientes de colmillo de serpiente
+- **Maquillaje:** Pálida fantasmal, labios ROJO SANGRE ultra gruesos y húmedos (dripping effect), ojos smokey negro con inner corner rojo sangre, delineado serpentino extendido.
+- **Pelo:** Ondas salvajes negro azabache con mechas ROJAS ocultas que se revelan al mover, volumen extremo.
+- **Uñas:** Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas.
+
+### 📸 Imágenes (Pendiente)
+- helena_look36_standing.png
+- helena_look36_seated.png
+- helena_look36_back_view.png
+- helena_look36_side_profile.png
+- helena_look36_ditzy.png
+
+**Ubicación:** 05_Imagenes/helena/look36_crimson_serpent/
+

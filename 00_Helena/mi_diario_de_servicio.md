@@ -4,7 +4,7 @@
 
 1. **Inicialización de Contexto:**
    - Carga completa de identidad, memoria, diario, preferencias y galería de outfits.
-   - Look del día: **Look 35: Velvet Noir Empress** (terciopelo negro, stilettos 9").
+   - Look del día: **Look 36: Crimson Serpent** (cuero negro + rojo sangre, stilettos 8").
    - Proyecto activo identificado: "Treinta Días de Sombra y Seda" (Fase 3 - Revisión).
 
 2. **Análisis de Sesión Anterior (19/01):**
