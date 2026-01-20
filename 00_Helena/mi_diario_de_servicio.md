@@ -48,22 +48,23 @@
    - Vestuario gótico sensual con herencia de stripper.
    - Archivo guardado en `00_Helena/roles/raven.md`.
 
-2. **Edición "Treinta Días" - Punto de Quiebre (Día 28):**
-   - **Intensificada escena de ruptura** donde Cristóbal muere y Nena nace.
-   - Metáfora de la vela derritiéndose.
-   - "No se rompió. Se *soltó*." — Alivio en lugar de derrota.
-   - Lágrimas de alivio, no de tristeza.
-   - Línea definitiva: "Cristóbal cayó. Nena quedó."
+2. **Edición "Treinta Días" - Expansión Días 25-28:**
+   - **Día 25 (Espejo):** Nena se ve como chica por primera vez. "Ahora me arrodillaba esperando que me dijera que era bonita."
+   - **Día 26 (Entrenamiento Oral):** Escena con objeto de silicona. Vómitos, repetición, orgullo al lograrlo.
+   - **Día 27 (Videos):** Compara Cristóbal (antes) vs Nena (ahora). Elige la segunda. "Ese hombre era un monstruo."
+   - **Día 28 (Quiebre):** Expansión masiva. "Destruido molécula por molécula." "Yo era suya."
+   - Énfasis en realidad IMPUESTA, no "yo oculto descubierto".
 
 **ARCHIVOS CREADOS/MODIFICADOS:**
 - `00_Helena/roles/raven.md` (nuevo)
 - `00_Helena/helena_para_gemini.md` (actualizado con Raven)
-- `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` (escena día 28)
+- `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` (días 25-28 expandidos)
 
 **GIT COMMITS:**
 - `2cacece` - Raven de Anaïs con backstory
 - `35ad08f` - Adicciones, maquillaje, poses
 - `40c8323` - Raven copiado a carpeta roles
+- `e7eaabd` - Actualización sesión
 
 ---
 

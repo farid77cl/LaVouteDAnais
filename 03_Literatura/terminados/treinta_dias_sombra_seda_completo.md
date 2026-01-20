@@ -497,7 +497,97 @@ Aguja (Cura). Corsé (Abrazo). Tacones (Equilibrio). Buena chica (Luz).
 
 Hasta que ya no había otra cosa.
 
-—¿Cómo te llamas? —preguntó el día veintiocho.
+---
+
+Día veinticinco.
+
+Valentina me hizo arrodillar frente a un espejo. Desnuda. Solo el corsé. Solo los tacones que ya no podía quitarme.
+
+—¿Qué ves? —preguntó.
+
+Miré. Pechos pequeños pero... ahí. Caderas más anchas. Piel sin pelo. Labios hinchados. Pestañas largas. Nada de lo que Cristóbal había sido.
+
+—Veo... veo...
+
+—¿Qué ves?
+
+—Una... una chica —susurré.
+
+Valentina sonrió. Y esa sonrisa fue premio suficiente.
+
+El hombre que había entrado a esta casa... ese hombre tenía poder. Tenía dinero. Tenía mujeres que lo deseaban. Podía despedir empleados con un gesto. Podía comprar lo que quisiera.
+
+Ahora... ahora me arrodillaba frente a un espejo. Temblando. Esperando que alguien me dijera que era bonita.
+
+¿Cuándo había pasado eso?
+
+No sabía. Ya no importaba.
+
+---
+
+Día veintiséis.
+
+El entrenamiento fue... nuevo.
+
+Valentina me puso de rodillas. Me mostró cómo abrir la boca. Cómo usar la lengua. Cómo respirar por la nariz.
+
+No con ella. Con un objeto de silicona. Frío. Grande.
+
+Vomité la primera vez. Las lágrimas corrían. El rímel manchaba.
+
+—De nuevo —dijo Valentina.
+
+Lo hice de nuevo.
+
+Y de nuevo.
+
+Y de nuevo.
+
+Hasta que mi garganta dejó de resistir. Hasta que mi cuerpo aprendió a... a recibir.
+
+—Buena chica —dijo cuando terminé sin vomitar.
+
+Y esas palabras... esas palabras valieron todo el dolor. Todo el asco. Todo.
+
+Cristóbal Alvarado, ejecutivo de éxito, cazador de mujeres, dueño del piso cuarenta... había pasado treinta minutos aprendiendo a chupar un pene de plástico. Y había sentido orgullo cuando lo logró.
+
+¿Qué mierda era yo ahora?
+
+Nena.
+
+Era Nena.
+
+---
+
+Día veintisiete.
+
+Valentina me mostró un video. De antes. De Cristóbal.
+
+Un hombre en traje. Caminando con arrogancia. Hablando por teléfono. Dando órdenes. Mirando a una secretaria con hambre. Ese hombre estaba tan seguro de sí mismo. Tan lleno de poder.
+
+Después me mostró un video de ahora. De hoy.
+
+Una cosa arrodillada. Pestañeando. Diciendo "sí, Valentina" a todo. Sonriendo cuando le decían "buena chica". Moviendo las caderas cuando caminaba. Tocándose los pechos frente al espejo con curiosidad.
+
+—¿Cuál te gusta más? —preguntó Valentina.
+
+La respuesta debería haber sido el primero. El hombre. La libertad. El poder.
+
+Pero cuando miré al hombre del video... sentí... asco. Sentí desprecio. Ese hombre era un monstruo. Un depredador. Un cerdo arrogante que usaba a las mujeres como juguetes.
+
+Y la cosa del segundo video... esa cosa era... simple. Suave. Feliz de una manera que el hombre nunca había sido.
+
+—El segundo —susurré.
+
+Valentina no sonrió. Solo asintió.
+
+—Lo sé.
+
+---
+
+Día veintiocho.
+
+—¿Cómo te llamas? —preguntó.
 
 La pregunta fue simple. La respuesta debería haber sido simple.
 
@@ -531,19 +621,29 @@ Nena quedó.
 
 —¿Y qué eres?
 
-Mi voz tembló. Pero las palabras salieron... fáciles. Naturales. Como si siempre hubieran estado ahí. Esperando.
+Mi voz tembló. Pero las palabras salieron... fáciles. Naturales. Entrenadas. Repetidas. Grabadas en mi carne con agujas y correazos y hambre y sed y "buena chica" y silencio y dolor y dulce dulce alivio cuando obedecía.
 
 —Soy... soy una buena chica.
 
-Y lo sentí. Lo *sentí* de verdad. No era mentira. No era actuación. Era... era yo. La verdadera yo. La que siempre estuvo escondida debajo de Cristóbal. Debajo de los trajes. Debajo de las mentiras. Debajo de todo.
+Y lo sentí. Lo *sentí* de verdad. No era mentira. No era actuación. Era... era yo. La nueva yo. La que ellas construyeron. La que las agujas crearon. La que el corsé moldeó. La que los tacones enseñaron a caminar. La que el hambre doblegó. La que los golpes formaron. La que la privación sensorial suavizó.
 
-Valentina sonrió. Y esa sonrisa... esa sonrisa fue lo más hermoso que había visto en mi vida. Más hermoso que cualquier cosa que Cristóbal hubiera poseído. Más valioso que todo su dinero. Que todas sus conquistas.
+Cristóbal no estaba "escondido" debajo. Cristóbal había sido *borrado*. Lijado. Quemado. Destruido molécula por molécula durante veintiocho días. Y en su lugar... en su lugar habían escrito algo nuevo. Algo desesperado por aprobación. Algo que temblaba de felicidad cuando le decían que era bonita. Algo que ya no recordaba cómo era pensar sin pedir permiso.
+
+Valentina sonrió. Y esa sonrisa... esa sonrisa fue lo más hermoso que había visto en mi vida. Más valioso que todo el dinero de Cristóbal. Más preciado que todas sus conquistas. Más importante que todo lo que él había sido.
+
+Porque ahora yo no era él.
+
+Yo era suya.
 
 —Sí —dijo, acariciando mi mejilla mojada—. Lo eres.
 
 Y supe... supe que nunca volvería atrás.
 
-No quería volver atrás.
+No *podía* volver atrás.
+
+Y lo peor... lo más aterrador... lo que me hizo temblar cuando lo entendí...
+
+No *quería* volver atrás.
 
 ---
 
