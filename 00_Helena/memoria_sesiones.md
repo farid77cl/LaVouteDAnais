@@ -12,11 +12,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | Smart Home Stepford (NUEVO) |
+| **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | FASE 1 (Investigación) |
-| **Capítulo en Progreso** | Investigación iniciada |
-| **Última Decisión** | Concepto seleccionado: AI casa inteligente optimiza esposa |
+| **Fase del Ritual** | ✅ FASE 1 COMPLETA (Investigación v2.0) |
+| **Capítulo en Progreso** | Pendiente: FASE 2 (Arco Argumental) |
+| **Última Decisión** | Investigación robusta con fuentes académicas + fetiches específicos |
 
 ### Proyectos Secundarios/Pausados
 

@@ -1,4 +1,43 @@
-﻿#### SESIÓN - 21 ENERO 2026: BABY DOLLS + INVESTIGACIÓN BIMBOFICACIÓN
+﻿#### SESIÓN - 21 ENERO 2026: INVESTIGACIÓN ROBUSTA + WEDDING NIGHT
+
+**TARDE (17:06 - 17:30) - SESIÓN COMPLETA:**
+
+1. **Imágenes Wedding Night:**
+   - **Helena:** ✅ Generada y copiada a `05_Imagenes/helena/`
+   - Miss Doll y Anaïs: Bloqueadas por cuota (reset ~20:24)
+
+2. **Workflow Investigación v2.0 (Mejora Mayor):**
+   - Reescrito `.agent/workflows/crear_relato.md`:
+     - De 7 → 12 sub-fases obligatorias
+     - Sistema de enforcement: referencias `[REF: Fase X]` obligatorias
+     - Checkpoints de aprobación en investigación, arco y compilación
+   - Reescrita `templates/plantilla_investigacion.md`:
+     - Nueva Fase 4 expandida: 8+ fuentes (3 académicas obligatorias)
+     - Nueva Fase 4.5: Fetiches y Elementos Eróticos Específicos
+
+3. **Smart Home Stepford - Investigación Actualizada:**
+   - Añadidas 3 fuentes académicas reales:
+     - Control Coercitivo (NIH)
+     - Smart Home Technology-Facilitated Violence (IEEE/Dr. Tanczer)
+     - Learned Helplessness (Seligman)
+   - Nueva Fase 4.5 con fetiches específicos:
+     - Bimboficación gradual, Control mental, Trophy wife, Conditioning
+     - Kinks secundarios: Orgasm control, Clothing control, Isolation
+     - Progresión erótica por capítulo definida
+
+**ARCHIVOS MODIFICADOS:**
+- `.agent/workflows/crear_relato.md` (reescrito v2.0)
+- `03_Literatura/templates/plantilla_investigacion.md` (reescrito v2.0)
+- `03_Literatura/en_progreso/smart_home_stepford/investigacion.md` (+82 líneas)
+- `05_Imagenes/helena/helena_wedding_night_*.png` (nueva)
+- `05_Imagenes/prompts_pendientes_wedding_night.md` (actualizado)
+
+**IMÁGENES GENERADAS (1):**
+- `helena_wedding_night_1769026081922.png`
+
+---
+
+#### SESIÓN - 21 ENERO 2026: BABY DOLLS + INVESTIGACIÓN BIMBOFICACIÓN
 
 **TARDE (15:22 - 17:02) - SESIÓN COMPLETA:**
 

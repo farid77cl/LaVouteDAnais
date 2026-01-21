@@ -2,7 +2,7 @@
 
 > **Fecha:** 21/01/2026  
 > **Cuota reset:** ~20:24 hora Chile  
-> **Status:** ⏳ Pendiente generación
+> **Status:** ✅ Helena completada | ⏳ Miss Doll y Anaïs pendientes
 
 ---
 

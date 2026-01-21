@@ -2,10 +2,11 @@
 description: Workflow para crear nuevos relatos/historias siguiendo el canon de La Voûte d'Anaïs
 ---
 
-# Workflow: Creación de Relatos
+# Workflow: Creación de Relatos (v2.0)
 
 > **DOCUMENTO MAESTRO:** `01_Canon/el_ritual_de_la_creacion.md`
-> Este workflow es un resumen ejecutivo. Para instrucciones detalladas, consultar siempre el ritual completo.
+> **Versión:** 2.0 - Investigación Robusta
+> **Actualizado:** 21/01/2026
 
 ---
 
@@ -14,11 +15,12 @@ description: Workflow para crear nuevos relatos/historias siguiendo el canon de 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │ 1. INVESTIGACIÓN    → en_progreso/[relato]/investigacion.md            │
+│    ⚠️ OBLIGATORIO: Completar 12 sub-fases antes de continuar           │
+│    ⚠️ REQUIERE: Aprobación explícita de la Ama                         │
 │ 2. ARCO ARGUMENTAL  → en_progreso/[relato]/arco_argumental.md          │
+│    ⚠️ DEBE REFERENCIAR: Investigación en cada decisión                 │
 │ 3. BORRADORES       → en_progreso/[relato]/capitulo_XX.md              │
-│    + notas_revision.md (para observaciones de la Ama)                  │
-│    📖 Guía: 01_Canon/guia_escritura_erotica.md                         │
-│    [REVISIÓN DE LA AMA - DETENER PROCESO]                              │
+│    ⚠️ CHECKLIST: Validar contra Do's/Don'ts antes de cada cap          │
 │ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md                 │
 │ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md               │
 │ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md        │
@@ -31,129 +33,183 @@ description: Workflow para crear nuevos relatos/historias siguiendo el canon de 
 
 ---
 
-## FASE 1: INVESTIGACIÓN PROFESIONAL (7 Sub-fases)
+## FASE 1: INVESTIGACIÓN PROFESIONAL (12 Sub-fases)
 
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/investigacion.md`
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/investigacion.md`
+
+> [!CAUTION]
+> **LA INVESTIGACIÓN ES EL CONTRATO DEL RELATO.**
+> Cada decisión en fases posteriores DEBE poder justificarse con referencia a la investigación.
+> NO proceder a Fase 2 sin investigación completa Y aprobada por la Ama.
+
+### Sub-fases OBLIGATORIAS
+
+#### Bloque A: Fundamentos (Fases 1-4)
+
+| # | Sub-fase | Mínimo Requerido |
+|---|----------|------------------|
+| 1 | **Tema Central** | Fetiche principal + 3 sub-temas + 5 preguntas clave |
+| 2 | **Psicología del Lector** | Por qué atrae, qué deseo satisface, qué miedo toca |
+| 3 | **Investigación Web** | 3 búsquedas documentadas con hallazgos específicos |
+| 4 | **Análisis de Fuentes** | Mínimo 5 fuentes: 1 académica, 2 ficción, 2 comunidad |
+
+#### Bloque B: Análisis (Fases 5-8)
+
+| # | Sub-fase | Mínimo Requerido |
+|---|----------|------------------|
+| 5 | **Patrones que Funcionan** | 5 patrones + por qué funcionan + ejemplo |
+| 6 | **Anti-Patrones (Errores)** | 5 errores comunes + por qué fallan + cómo evitar |
+| 7 | **Análisis de Competencia** | 3 historias similares: qué funcionó, qué no |
+| 8 | **Estructura Narrativa** | Inicio → Inflexión → Escalada → Clímax → Resolución |
+
+#### Bloque C: Definiciones (Fases 9-12)
+
+| # | Sub-fase | Mínimo Requerido |
+|---|----------|------------------|
+| 9 | **Tono y Voz** | Voz narrativa, registro, atmósfera, ritmo, nivel explícito |
+| 10 | **Vocabulario Maestro** | 30+ términos: técnicos, sensoriales, frases, prohibidos |
+| 11 | **Perfil del Protagonista** | ANTES/DESPUÉS detallado (físico, mental, social) |
+| 12 | **Conexión con Canon** | Personajes, reglas, conexiones, restricciones, potencial secuela |
+
+### Entregable Final de Investigación
+
+```markdown
+## RESUMEN EJECUTIVO (Obligatorio al final)
+
+**Premisa en una oración:**
+[La historia en 1 línea]
+
+**Gancho emocional:**
+[Por qué el lector querrá leer esto]
+
+**Aprobación:**
+- [ ] Investigación revisada por la Ama
+- [ ] Fecha de aprobación: ___________
+```
+
+---
+
+## FASE 2: ARCO ARGUMENTAL (Con Referencias Obligatorias)
+
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/arco_argumental.md`
 
 > [!IMPORTANT]
-> **LA INVESTIGACIÓN ES LA BASE DE TODO.**
-> NO proceder a Fase 2 sin investigación completa y aprobada.
+> **REGLA DE TRAZABILIDAD:**
+> Cada decisión del arco DEBE incluir referencia a la investigación.
+> Formato: `[REF: Investigación Fase X]`
 
-### Sub-fases
+### Estructura Obligatoria
 
-1. **Tema Central:** Definir fetiche/tropo principal, sub-temas, 3-5 preguntas clave
-2. **Investigación de Fuentes:** Académica, ficción popular, comunidades, referentes
-3. **Análisis de Patrones:** Tropos, estructura narrativa, puntos de inflexión
-4. **Definición del Tono:** Voz, registro, atmósfera, ritmo
-5. **Do's & Don'ts:** Mínimo 5 de cada con justificación
-6. **Vocabulario Específico:** 20-30 términos, vocabulario sensorial, frases
-7. **Conexión con Canon:** Personajes existentes, reglas aplicables, conexiones
+```markdown
+## PREMISA
+[Referencia: Investigación - Resumen Ejecutivo]
+
+## PERSONAJES
+
+### Protagonista
+[Copiar Perfil ANTES de Investigación Fase 11]
+
+### Antagonista/Dominante
+[Justificar con Psicología del Lector - Fase 2]
+
+## ESTRUCTURA POR CAPÍTULOS
+
+### Capítulo 1: [Título]
+**Qué sucede:** [descripción]
+**Patrón aplicado:** [REF: Investigación Fase 5 - Patrón X]
+**Vocabulario clave:** [REF: Investigación Fase 10]
+
+### Capítulo N: [Título]
+...
+
+## PUNTOS DE INFLEXIÓN
+[REF: Investigación Fase 8 - Estructura Narrativa]
+
+## TRANSFORMACIÓN DEL PROTAGONISTA
+**Inicio:** [Copiar ANTES de Fase 11]
+**Final:** [Copiar DESPUÉS de Fase 11]
+**Transición capítulo a capítulo:** [Detallar]
+```
 
 ---
 
-## FASE 2: ARCO ARGUMENTAL
+## FASE 3: ESCRITURA DEL BORRADOR (Con Checklist de Validación)
 
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/arco_argumental.md`
-
-- **Premisa:** Una oración que resume toda la historia
-- **Personajes:** Protagonista, antagonista/dominante, secundarios
-- **Estructura por capítulos:** Qué sucede en cada uno
-- **Puntos de inflexión:** Momentos clave de transformación
-- **Clímax:** El punto de no retorno
-- **Resolución:** El nuevo estado del protagonista
-
----
-
-## FASE 3: ESCRITURA DEL BORRADOR
-
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/capitulo_XX.md`
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/capitulo_XX.md`
 
 > [!IMPORTANT]
-> **DOCUMENTO DE REFERENCIA OBLIGATORIO:**
-> 📖 `01_Canon/guia_escritura_erotica.md` — La Guía Maestra
+> **ANTES de escribir cada capítulo:**
+> Consultar Do's & Don'ts de Investigación Fase 5-6
+> 📖 Referencia obligatoria: `01_Canon/guia_escritura_erotica.md`
 
-**Requisitos:**
+### Checklist Pre-Capítulo (Copiar al inicio de cada archivo)
 
-- Mínimo 5,000 palabras totales
-- Cada capítulo en archivo separado
-- Crear `notas_revision.md` para observaciones de la Ama
-- Fórmula: **SENSACIÓN → EMOCIÓN → REACCIÓN**
+```markdown
+## VALIDACIÓN PRE-ESCRITURA
 
-### Estructura de Escena de Transformación
+**Capítulo:** [N]
+**Fecha:** [DD/MM/YYYY]
 
-1. **La Invocación:** Trigger + Estado inicial
-2. **La Liturgia:** Sensación sobre acción + Diálogo como herramienta + Tensión
-3. **La Consagración:** Punto de no retorno + Explosión sensorial
-4. **El Reflejo:** Nuevo estado + Sello de propiedad
+### Verificación contra Investigación:
+- [ ] ¿Qué patrón de Fase 5 aplico en este cap?
+- [ ] ¿Qué anti-patrón de Fase 6 debo evitar?
+- [ ] Palabras del Vocabulario Maestro (Fase 10) a usar:
+- [ ] Frases prohibidas a evitar:
+- [ ] ¿Cómo avanza la transformación del protagonista? [REF: Fase 11]
 
----
+### Verificación contra Canon:
+- [ ] ¿Hay personajes existentes? ¿Están en carácter?
+- [ ] ¿Alguna regla del canon aplica?
+```
 
-## FASE 4: COMPILACIÓN FINAL
+### Checklist Post-Capítulo
 
-**Ubicación:** `04_Historias/finalizadas/[nombre_del_relato]_completo.md`
+```markdown
+## VALIDACIÓN POST-ESCRITURA
 
-- Usar `assets/plantillas/plantilla_relato_maestra.md`
-- Metadatos completos
-- RESUMEN GANCHO (máximo 300 caracteres)
-- NOTA DE LA AUTORA
-
----
-
-## FASE 5: FICHA DE PERSONAJE
-
-**Ubicación:** `02_Personajes/ficha_[nombre_personaje].md`
-
-- Si nuevo: Crear ficha usando `02_Personajes/plantilla_personaje.md`
-- Si existe: Actualizar con desarrollos del relato
-- Incluir descripciones físicas ultra-detalladas para cómics
+- [ ] ¿Usé al menos 5 palabras del Vocabulario Maestro?
+- [ ] ¿Evité todas las frases prohibidas?
+- [ ] ¿El capítulo sigue la estructura de Fase 8?
+- [ ] ¿La voz narrativa es consistente con Fase 9?
+- [ ] Crear `notas_revision.md` si hay dudas para la Ama
+```
 
 ---
 
-## FASE 6: FORMATO TUMBLR
+## FASES 4-10: Sin cambios significativos
 
-**Ubicación:** `04_Historias/preparados_para_tumblr/[nombre_del_relato]_tumblr.md`
+(Mantener fases existentes pero añadir al inicio de cada una:)
 
----
-
-## FASE 7: ILUSTRACIONES DE ESCENAS
-
-**Ubicación:** `05_Imagenes/historias/[nombre_del_relato]/`
-
-1. Seleccionar 3-5 escenas clave
-2. Generar imágenes siguiendo `01_Canon/visual_canon.md`
-3. Subir a Ko-fi Gallery
-4. Documentar URLs en `imagenes_escenas.md`
+```markdown
+> **Referencia Obligatoria:** Antes de esta fase, revisar:
+> - `investigacion.md` - Secciones relevantes
+> - `arco_argumental.md` - Decisiones tomadas
+```
 
 ---
 
-## FASE 8: GENERACIÓN HTML
+## SISTEMA DE ENFORCEMENT
 
-**Ubicación:** `04_Historias/finalizadas/html/[nombre_del_relato].html`
+### Regla 1: No Saltar Fases
+Helena NO puede iniciar Fase N+1 sin completar Fase N.
 
-HTML limpio, copy-paste ready. Solo `<p>`, `<em>`, `<strong>`, `<hr>`, `<br>`.
-Email: 📧 <anais.belland@outlook.com>
+### Regla 2: Referencias Explícitas
+Cada documento debe contener `[REF: Investigación Fase X]` donde aplique.
 
----
+### Regla 3: Checkpoints de Aprobación
+| Checkpoint | Requiere Aprobación |
+|------------|---------------------|
+| Fin de Investigación | ✅ Obligatorio |
+| Fin de Arco Argumental | ✅ Obligatorio |
+| Cada 2 capítulos | ⚡ Recomendado |
+| Antes de Compilación | ✅ Obligatorio |
 
-## FASE 9: MARKETING NARRATIVO
-
-**Documento:** `04_Historias/investigacion/investigacion_titulos.md`
-
-- **Título:** `[Sujeto/Autoridad] + [Acción Transformadora] + [Consecuencia]`
-- **Gancho:** 3 líneas máximo, estilo confesional
-
----
-
-## FASE 10: GUIÓN DE CÓMIC
-
-**Ubicación:** `05_Imagenes/comics/[nombre_del_relato]/`
-
-**Guías obligatorias:**
-
-- 📖 `06_Investigacion/guia_creacion_comics.md`
-- 🤖 `06_Investigacion/guia_generacion_comics_ia.md`
-
-Rating PG-13, estilo retro, mínimo 8 páginas.
+### Regla 4: Auditoría de Consistencia
+Al finalizar borrador, Helena debe verificar:
+- [ ] Todos los patrones de Fase 5 fueron usados al menos 1 vez
+- [ ] Ningún anti-patrón de Fase 6 aparece en el texto
+- [ ] Vocabulario Maestro tiene 80%+ de uso
+- [ ] Transformación ANTES→DESPUÉS es visible capítulo a capítulo
 
 ---
 
@@ -164,3 +220,8 @@ Rating PG-13, estilo retro, mínimo 8 páginas.
 - [ ] Corsé mencionado al menos una vez
 - [ ] Elemento sensorial en cada escena
 - [ ] Ejecutar `/actualizar_sesion` al cerrar
+- [ ] **NUEVO:** Citar investigación en decisiones narrativas
+
+---
+
+*Workflow v2.0 - Investigación Robusta - 21/01/2026* 🦇
