@@ -12,11 +12,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Relato Activo** | Treinta Días de Sombra y Seda |
-| **Ubicación** | `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` |
-| **Fase del Ritual** | ✅ FASE 4 (Revisión/Pulido) |
-| **Capítulo en Progreso** | COMPLETO (~1030 líneas, La Metamorfosis expandida) |
-| **Última Decisión** | Reescritura La Metamorfosis: degradación de voz + estimulación erótica |
+| **Relato Activo** | Smart Home Stepford (NUEVO) |
+| **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
+| **Fase del Ritual** | FASE 1 (Investigación) |
+| **Capítulo en Progreso** | Investigación iniciada |
+| **Última Decisión** | Concepto seleccionado: AI casa inteligente optimiza esposa |
 
 ### Proyectos Secundarios/Pausados
 

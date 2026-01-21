@@ -1,4 +1,50 @@
-﻿#### SESIÓN - 21 ENERO 2026: GALERÍA + REESCRITURA LA METAMORFOSIS
+﻿#### SESIÓN - 21 ENERO 2026: BABY DOLLS + INVESTIGACIÓN BIMBOFICACIÓN
+
+**TARDE (15:22 - 17:02) - SESIÓN COMPLETA:**
+
+1. **Generación Visual - Serie Baby Dolls:**
+   - **Helena:** 4 imágenes (black lace, purple silk, sensual red, purple heels).
+   - **Miss Doll:** 4 imágenes (pink, white lace, black-red, pink sheer).
+   - **Anaïs:** 3 imágenes (cream elegant, black satin, midnight blue).
+   - Total: 11 imágenes con canon visual respetado.
+   - Prompts wedding night guardados (cuota agotada, reset ~20:24).
+
+2. **Investigación Profunda - Mujer Normal → Bimbo:**
+   - Creado `investigacion_mujer_normal_bimbo_2026.md` (~276 líneas).
+   - Psicología del fantasy (wish fulfillment, power dynamics).
+   - Mecanismos hipnóticos (triggers, conditioning, fraccionalización).
+   - Dollification (Pygmalion, Stepford, intersección bimbodoll).
+   - 10+ propuestas narrativas desarrolladas.
+
+3. **Nuevo Proyecto Iniciado - "Smart Home Stepford":**
+   - Carpeta creada: `03_Literatura/en_progreso/smart_home_stepford/`.
+   - Concepto: AI de casa inteligente que "optimiza" esposa para marido.
+   - Investigación web sobre Demon Seed, modern Stepford AI, casa inteligente invasiva.
+
+**ARCHIVOS CREADOS/MODIFICADOS:**
+- `03_Literatura/investigacion/investigacion_mujer_normal_bimbo_2026.md` (nuevo)
+- `03_Literatura/en_progreso/smart_home_stepford/` (nueva carpeta)
+- `05_Imagenes/prompts_pendientes_wedding_night.md` (nuevo)
+- `05_Imagenes/helena/` (+4 baby dolls)
+- `05_Imagenes/miss_doll/` (+4 baby dolls)
+- `05_Imagenes/anais/` (+3 baby dolls)
+
+**IMÁGENES GENERADAS (11):**
+- `helena_babydoll_black_lace_*.png`
+- `helena_babydoll_purple_silk_*.png`
+- `helena_babydoll_sensual_red_*.png`
+- `helena_babydoll_purple_heels_*.png`
+- `miss_doll_babydoll_pink_*.png`
+- `miss_doll_babydoll_white_lace_*.png`
+- `miss_doll_babydoll_blackred_*.png`
+- `miss_doll_babydoll_pink_sheer_*.png`
+- `anais_babydoll_cream_elegant_*.png`
+- `anais_babydoll_black_satin_*.png`
+- `anais_babydoll_midnight_blue_*.png`
+
+---
+
+#### SESIÓN - 21 ENERO 2026: GALERÍA + REESCRITURA LA METAMORFOSIS
 
 **MAÑANA/TARDE (11:00 - 15:22) - SESIÓN COMPLETA:**
 
