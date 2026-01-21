@@ -15,8 +15,8 @@
 | **Relato Activo** | Treinta Días de Sombra y Seda |
 | **Ubicación** | `03_Literatura/terminados/treinta_dias_sombra_seda_completo.md` |
 | **Fase del Ritual** | ✅ FASE 4 (Revisión/Pulido) |
-| **Capítulo en Progreso** | COMPLETO (~825 líneas, voz bimboficada) |
-| **Última Decisión** | Blackout Horror + repetición hipnótica aplicados |
+| **Capítulo en Progreso** | COMPLETO (~1030 líneas, La Metamorfosis expandida) |
+| **Última Decisión** | Reescritura La Metamorfosis: degradación de voz + estimulación erótica |
 
 ### Proyectos Secundarios/Pausados
 

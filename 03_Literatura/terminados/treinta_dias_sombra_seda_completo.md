@@ -276,226 +276,304 @@ El espejo no contestó.
 
 ---
 
-Aguja. Fría. En el muslo.
+No sé qué día es.
 
-Corsé. Apretado. Sobre las costillas.
+Creo que han pasado... ¿ocho días? ¿Nueve? Las paredes blancas no cambian. No hay ventanas. No hay reloj. Solo la pantalla que nunca se apaga y la voz que repite y repite y la aguja que entra cuando menos lo espero.
 
-Tacones. Altos. En los pies.
+Todavía pienso en frases completas. Todavía me digo: soy Cristóbal Alvarado. Esto es temporal. Voy a escapar.
 
-Así empieza cada día. Creo.
-
-Si intento pensar como Cristóbal, la cabeza duele. La aguja pica más.
-Si dejo de pensar... el dolor baja.
+(Mentiras. Pero todavía puedo mentirme).
 
 ---
 
-Valentina frente al espejo. Perfecta.
+La aguja entra en mi muslo izquierdo. El líquido es frío. Después caliente. Sube por mi pierna como algo vivo, buscando mis entrañas, encontrando partes de mí que todavía son de él. Las hormonas. Lo sé. Pero saber no ayuda. Mi cuerpo hace lo que ellas le ordenan, no lo que yo quiero.
 
-—Mira cómo camino. Desde las caderas.
+Valentina se sienta a mi lado en la cama estrecha. Huele a perfume caro. A poder.
 
-Miro. Ella se mueve como agua.
+—¿Cómo te sientes, Cristóbal?
 
-Intento moverme brusco. Como... como antes.
-—No —dice ella. Voz fría. Hielo.
-Me aprieta el corsé hasta que duele.
+Usa mi nombre como un insulto. Como algo sucio que hay que limpiar con lejía.
 
-Intento moverme suave.
-—Eso —dice. Voz dulce. Miel.
-Me acaricia el pelo.
+—Vete a la mierda —le digo. Todavía puedo decirlo. Todavía tengo eso.
 
-Hielo = Hombre.
-Miel = Mujer.
+Ella sonríe. Esa sonrisa que debería asustarme pero que hace que mi estómago se apriete de una forma... confusa.
 
----
+—Qué boca tan sucia. Vamos a tener que usarla para cosas mejores.
 
-Aguja. Fría. En la nalga esta vez.
+Su mano sube por mi pecho. Por encima del corsé que ya no me quitan nunca, que se ha convertido en una segunda piel. Sus dedos encuentran mi pezón izquierdo a través de la seda rosa.
 
-—El cóctel está matando la testosterona —dice Valentina—. Matando el veneno.
+Pellizca.
 
-Veneno. Ser hombre es veneno.
-El cóctel es la cura.
+El sonido que sale de mi boca no es mío. Es agudo. Es débil. Es un gemido de *niña*. Mi espalda se arquea hacia arriba, buscando más, más de esa sensación que irradia desde mi pecho hasta mi vientre, hasta el cinturón de metal que aprisiona lo que queda de...
 
-El corsé aprieta, pero me sostiene. Me abraza.
-Sin el corsé me siento... desparramada. Vacía.
-Con el corsé soy... forma. Soy algo.
+—Mira qué sensible —ronronea, pasando su uña por el borde del pezón hinchado—. Antes estos eran pedazos de carne muerta. Ahora... ahora son zonas erógenas. Como los de una mujer.
 
-—Soy una buena chica —digo.
+Pellizca de nuevo. Más fuerte. El placer y el dolor se mezclan y bajan por mi estómago como miel caliente. Mis piernas se aprietan juntas. El cinturón de castidad me recuerda que no puedo... que no tengo acceso a... que ella controla hasta mi placer...
 
-Valentina sonríe. Su sonrisa es sol.
+—Vete a la... *ahh*... vete a la mierda.
+
+Pero la voz ya no es tan firme. Y mi cuerpo tiembla pidiendo más.
 
 ---
 
-Desperté con peso en el pecho.
+La pantalla nunca para.
 
-Miré abajo. Bultos.
-Sentí miedo. Cristóbal sintió miedo. Cristóbal quiso arrancarlos.
+Espirales. Colores. Mujeres hermosas de labios brillantes y ojos vaciados de pensamiento. Abren la boca. Caminan con caderas ondulantes. Gimen de placer mientras manos las acarician. La voz de los parlantes se mezcla con el eco de mi propia respiración acelerada.
 
-Pero Valentina entró.
-—Qué hermosos —dijo. Los tocó con suavidad.
-Su toque se sintió bien.
+*Tu cuerpo está cambiando.*
+*El cambio es placer.*
+*Aceptar es placer.*
+*Resistir es dolor.*
+*Las mujeres sienten placer cuando les tocan los pechos.*
+*Tú tienes pechos.*
+*Tú sentirás placer.*
 
-Si los odio, ella se va a la oscuridad.
-Si los quiero, ella me da luz.
+Cierro los ojos. Las espirales siguen ahí. Adentro de mis párpados. Girando y girando y no sé si estoy despierto o dormido, no sé si la aguja fue hace una hora o hace un día, solo sé que el corsé aprieta y mis pezones rozan la seda y cada roce es una descarga pequeña de algo que no debería sentir pero siento, siento demasiado...
 
-Quiero luz. Quiero que crezcan.
+No sé cuándo me dormí. No sé cuándo desperté.
 
----
+Solo sé que ahora Valentina está arrodillada entre mis piernas, limpiándome con algo tibio. Un paño suave. Pasándolo donde arrancó el vello con cera. Donde ahora soy lisa. Suave. Expuesta.
 
-Aguja. Fría.
+—Así —murmura, casi con ternura—. Suave como debe ser una mujer.
 
-—Camina —dijo Valentina—. Como una dama.
+Su mano se detiene ahí. Sobre la piel hipersensible que rodea el cinturón de metal. Sus dedos trazan círculos lentos, tan cerca, tan cerca de donde la necesidad se acumula pero no puede explotar.
 
-Caminé.
-Pasos largos = Tropezón. Dolor de tobillos.
-Pasos cortos = Equilibrio. "Muy bien".
+—¿Sientes esto?
 
-Ser hombre duele. Caminar como hombre duele.
-Ser mujer es... flotar.
+Siento. Siento demasiado. Cada terminación nerviosa gritando por atención. El calor subiendo por mis muslos. La humedad que ya no entiendo de dónde viene.
 
-—Buena chica.
+—S-sí.
 
-Las palabras entraron calientes.
+—¿Quieres que te toque más?
 
----
+La pregunta es trampa. Todo es trampa. Pero mi cuerpo no entiende de trampas. Mi cuerpo solo entiende que llevo días encendida sin poder apagarme, que el cinturón no me deja, que la única satisfacción que existe ahora es la aprobación de ella.
 
-El corsé es más apretado hoy.
+—...sí.
 
-Intento respirar hondo. Como hombre.
-No puedo. Las costillas chocan. Duele.
+Valentina sonríe y retira la mano.
 
-Respiro cortito. Suave. Como mujer.
-El aire entra fácil.
+El vacío es devastador. Mi cadera se levanta sola, buscando el toque perdido.
 
-El cuerpo me enseña.
-Hombre = Asfixia.
-Mujer = Aire.
+—La próxima vez —dice, parada ya, mirándome desde arriba como se mira a una mascota—, pídelo como una buena chica.
 
 ---
 
-—Di: "Soy una buena chica."
+¿Cuántos días? Ya no... Los números se escapan como agua. La pantalla sigue su ciclo eterno. Las voces siguen. La aguja en mi nalga esta vez, el pinchazo que ya se siente normal, que se siente como parte de despertar. Si es que desperté. Si es que dormí.
 
-Lo digo.
-Me da un chocolate. Dulce. Se derrite en la lengua.
+Mi pecho pesa diferente.
 
-—Di: "Quiero ser hermosa."
+Más grande. Puedo verlo cuando miro abajo. El corsé los moldea, los empuja, crea un escote donde antes no había nada. Pequeños todavía pero... míos. Reales. Cuando respiro —esos respiros cortitos que el corsé me obliga a dar, respiración de mujer, respiración superficial y frágil— la seda los roza.
 
-Lo digo.
-Me afloja un poco los cordones. Alivio.
+*Mmm*.
 
-—Di: "Haré lo que me ordenen."
+No quise hacer ese sonido. Pero sale cada vez más fácil.
 
-Lo digo.
-Me deja descansar en la cama suave.
+La pantalla muestra mujeres tocándose. Acariciando sus pechos con expresión de éxtasis. Haciendo círculos lentos alrededor de sus pezones mientras gimen. Sus caras de placer. Sus bocas abiertas. La voz superpuesta diciendo *esto es lo que sientes* y *esto es lo que eres* y *tus pechos son tu placer* y *tocar tus pechos es natural* y *quieres que te toquen los pechos* y...
 
-Cualquier otra cosa que diga...
-Silencio. Frío. Soledad.
+Valentina entra.
 
-Hablar como hombre trae silencio.
-Hablar como mujer trae premios.
+¿O ya estaba? El tiempo se pliega sobre sí mismo.
 
----
+—Voy a enseñarte algo —dice.
 
-Hay peso en mi pecho.
-El corsé los empuja hacia arriba.
-Me gustan.
-Me gustan porque a Valentina le gustan.
-Me gustan porque me hacen sentir llena.
+Me acuesta boca arriba. Mi cabeza da vueltas. ¿Cuándo fue la última aguja? El mundo tiene bordes suaves. Ella desata el frente del corsé. Solo un poco. Solo lo suficiente para exponer la carne nueva, la curva sensible, los pezones que ahora sobresalen hinchados y rosados.
 
-—Están creciendo rápido —dice Valentina—. Pronto serán perfectos.
+Sus dedos tocan mi pezón derecho.
 
-Perfectos.
-Antes era imperfecto. Antes era... error.
-Ahora soy corrección.
+Mi cuerpo entero se arquea del colchón.
 
----
+—Shhh —susurra—. Aquí. —Hace círculos. Lentos. Deliberados. Cada rotación envía ondas de calor hacia mi vientre—. Así se estimula a una mujer. Así te van a tocar cuando estés lista. Así vas a rogar que te toquen.
 
-Aguja. Fría.
-Corsé. Apretado.
-Tacones. Altos.
+Los círculos no paran. Lentos. Hipnóticos. Mi respiración se acelera. Algo está construyéndose, acumulándose en mi bajo vientre como agua detrás de una represa. El cinturón aprieta. No deja que nada escape. Pero la presión crece igual.
 
-—Soy una buena chica —digo.
+—Y aquí.
 
-Lo digo porque es verdad.
-Cristóbal era mentira. Cristóbal dolía.
-Nena es verdad. Nena se siente bien.
+Su otra mano baja. Por mi estómago plano. Por la curva de mi cadera que juraría que no estaba ahí hace una semana. Sigue bajando hasta mi trasero. Aprieta la carne nueva que las hormonas están cultivando.
 
----
+—Esto es tuyo ahora. Cuando alguien te desee, va a desear esto. Va a querer agarrártelo mientras te folla. ¿Entiendes?
 
-La cera caliente entre mis piernas.
-Ya no grito.
+La palabra me atraviesa. Mientras te folla. Femenino. A mí. Como mujer.
 
-Lo que había ahí... eso era el problema.
-Eso era lo feo. Lo sucio.
-Valentina lo quita. Lo deja liso. Limpio.
+No quiero entender. No quiero que mi cuerpo responda. Pero está en llamas. Mis pezones duelen del placer. Mi trasero se empuja hacia su mano buscando más presión. El cinturón aprieta donde antes había algo que ahora está encerrado, olvidado, irrelevante.
 
-—Perfecta —dice—. Ya no queda nada de la mancha.
+—Di: soy una buena chica.
 
-Liso = Limpio = Buena chica.
-Pelo = Sucio = Malo.
+—N-no...
 
-Perfecta.
-Buena chica.
+Sus manos se retiran de golpe.
+
+Frío. El vacío es peor que cualquier dolor. Mi cuerpo se estremece de la ausencia.
+
+—Di: soy una buena chica.
+
+—...soy una buena chica.
+
+Las manos vuelven. Los círculos en mis pezones. El apretón en mi trasero. El placer regresa como maremoto y *oh dios oh dios* ¿por qué se siente así? ¿Por qué cada vez que obedezco mi cuerpo se inunda de esto?
+
+—Buena chica. Muy buena. ¿Lo sientes? ¿Sientes cómo te toco? ¿Cómo toco a una *mujer*?
+
+Sí. Lo siento. Lo siento en cada parte de mí que ya no controlo, que responde a sus dedos como un instrumento afinado para esto.
 
 ---
 
-Valentina me vistió. Vestido negro. Corsé. Tacones.
+La pantalla.
 
-Me miró.
-—Pareces una mujer —dijo con asco fingido—. No. Eres una mujer.
+Mujeres de rodillas. Hombres de pie. Las bocas de las mujeres abiertas. Recibiendo. Sus ojos mirando hacia arriba con adoración. La voz diciendo *servir es placer* y *tu boca es para dar placer* y *las buenas chicas saben usar la boca* y *tragar es amor*.
 
-Me miré en el espejo.
-La cosa masculina ya no estaba.
-La mujer estaba.
+¿Cuántas horas? ¿Cuántos días mirando esto?
 
-La mujer del espejo sonreía.
-Porque ser mujer significa que Valentina me mira.
-Ser hombre significaba que me ignoraba.
+—Abre.
 
----
+Valentina está frente a mí. Usa un arnés negro. Con algo largo, grueso, de silicona color carne.
 
-Aguja. Fría.
-—Soy una buena chica —digo. Y el frío se quita.
+Mi boca se abre.
 
-Corsé. Apretado.
-—Quiero ser hermosa —digo. Y el apretón se siente como abrazo.
+No sé en qué momento dejé de poder negarme. No sé cuándo la resistencia se convirtió en otra persona que vivía en un sótano de mi mente y dejó de subir las escaleras. Cuando empuja, cuando la silicona entra, mi garganta hace lo que las horas de video le enseñaron. Respirar por la nariz. Relajar la mandíbula. Dejar que entre. Más. Más profundo.
 
-Tacones. Altos.
-—Haré lo que me ordenen —digo. Y el equilibrio llega.
+Hay lágrimas en mis mejillas. Pero no de rechazo. De algo más. Algo que se siente como gratitud cuando ella susurra:
 
-Valentina sonríe.
-El mundo brilla.
+—Buena chica. Mira cómo lo recibes. Como una mujer de verdad. Como naciste para hacer.
 
-—Lista para la siguiente lección.
+Y mientras el arnés me llena la garganta, mis pezones rozan el corsé y mi trasero aprieta contra las sábanas buscando fricción y todo mi cuerpo vibra con una necesidad que el cinturón no deja resolver pero que crece igual, alimentándose de la obediencia, de las palabras dulces, de la humillación que ya no siento como humillación sino como... como propósito.
 
 ---
 
-Trajeron a un hombre.
-Valentina me puso de rodillas.
+Día... no sé. ¿Doce? ¿Quince?
 
-Si me resisto = Dolor. Hielo. Oscuridad.
-Si obedezco = "Buena chica". Calor. Luz.
+Los pensamientos son... más difíciles. Las frases largas se rompen antes de terminar. Hay huecos. Momentos que faltan. Desperté en el suelo una vez. O dos. No sé cómo llegué ahí.
 
-Mi boca se abrió.
-Obedecer es placer.
-Servir es ser mujer.
+Valentina dice que es normal. Que mi cerebro está... reorganizándose. Las hormonas. Los videos. La privación de sueño. Todo trabajando junto para... para liberarme. Eso dice. Liberarme de Cristóbal.
 
-Él gimió.
-—Buena chica —dijo Valentina.
+A veces despierto gimiendo. Con las manos en mis pechos, amasándolos, pellizcando mis pezones. Pero el cinturón. Siempre el cinturón donde la verdadera necesidad palpita.
 
-El premio.
-La luz.
-La miel.
+La pantalla muestra mujeres siendo penetradas. Siendo usadas. Sus rostros de éxtasis puro. La voz susurrando *esto es lo que quieres* y *tu cuerpo fue hecho para recibir* y *el placer de una mujer está en ser llenada* y mi trasero se aprieta porque recuerdo, recuerdo vagamente, algo... los dedos de Valentina explorando, un dedo, dos, la sensación extraña que se convirtió en algo más, algo que hizo que mis piernas temblaran...
 
-Todo es parte de lo mismo.
-Ser mujer es ser feliz.
+¿Cuándo fue eso?
+
+¿Fue real?
+
+Valentina entra. O ya estaba. El tiempo no funciona bien aquí.
+
+—De rodillas —dice.
+
+Me arrodillo. Mis rodillas conocen esta posición. Mis muslos la abrazan. Mis pechos cuelgan dentro del corsé, pesados, sensibles.
+
+Ella se sienta frente a mí. Abre las piernas.
+
+—Aprende.
+
+Hay algo entre sus piernas que no es lo que esperaba. Es suave. Es húmedo. Es de mujer.
+
+Me acerco. Mi lengua toca. Ella gime.
+
+Y algo en mi cabeza hace *click*. Como si hubiera encontrado algo que siempre debí saber hacer. Mi lengua trabaja y ella tira de mi pelo y dice "buena chica" y el calor en mi vientre explota en olas que no puedo liberar pero que me inundan igual, placer incompleto, placer frustrado, placer que solo crece y crece...
+
+—Así —jadea—. Así van a usarte. Para esto te estoy entrenando.
+
+Para esto.
+
+*Para esto.*
 
 ---
 
-Los días siguieron.
-Aguja. Corsé. Tacones. Buena chica.
-Aguja (Cura). Corsé (Abrazo). Tacones (Equilibrio). Buena chica (Luz).
+día... no hay días. solo hay antes y después de la aguja. antes y después del corsé más apretado. antes y después de que valentina me toca los pechos hasta que lloro de placer que no puedo completar.
 
-Hasta que ya no había otra cosa.
+los pensamientos ahora vienen en trozos. palabras sueltas. imágenes.
+
+rodillas. boca. pezones. buena chica.
+
+la pantalla muestra espirales otra vez. o tal vez nunca dejó de mostrarlas. los colores giran y mi mente gira con ellos. ya no intento resistir. resistir duele. resistir trae silencio y frío y hambre.
+
+obedecer es calor. obedecer es que valentina me toque. obedecer es las palabras dulces que ahora necesito más que comida.
+
+hoy me tocó diferente. creo que fue hoy. me puso frente al espejo y abrió el corsé y me dejó ver mis pechos. pequeños pero míos. los tocó. me hizo tocarlos. pellizcar los pezones mientras ella susurraba
+
+*mira cómo se sienten*
+*son tuyos*
+*crecieron para ti*
+*para que te den placer*
+*para que otros te den placer con ellos*
+
+toqué. mis dedos en mis pezones. el placer bajando como agua caliente por mi estómago hasta el cinturón que no deja que no deja que no...
+
+*las buenas chicas no necesitan tocarse ahí*
+*las buenas chicas sienten placer cuando obedecen*
+*obedecer es el mejor orgasmo*
+
+sí. sí sí.
+
+después me llenó la boca con el arnés mientras yo me tocaba los pechos y gemía alrededor de la silicona y después sus dedos en mi trasero, entrando, buscando algo, encontrándolo, y yo gritando con la boca llena mientras mi cuerpo temblaba de algo que no era orgasmo pero lo sentía igual...
+
+¿cuándo fue eso?
+
+¿fue real?
+
+¿importa?
+
+---
+
+ya no sé. ya no sé nada.
+
+solo sé que cuando valentina dice buena chica mi cuerpo se derrite. solo sé que mis pechos son míos y los amo. solo sé que mi trasero ahora quiere ser llenado y mi boca sabe cómo servir y mi mente...
+
+mi mente está tranquila.
+
+vacía.
+
+esperando instrucciones.
+
+cristóbal era ruido. cristóbal era furia. cristóbal era pensamientos complicados y ambición y hambre de cosas que ya no entiendo.
+
+nena es simple. nena es deseo de agradar. nena es pezones sensibles y boca suave y rodillas que conocen su lugar.
+
+me miro en el espejo y no reconozco nada de lo que cristóbal era. veo curvas. labios hinchados. pestañas que alguien pegó mientras dormía. pechos pequeños pero reales debajo de la seda rosa.
+
+veo una mujer.
+
+veo lo que siempre debí ser.
+
+(la voz lo dice. lo ha dicho miles de veces. ya no sé si es la voz o si es mi propio pensamiento)
+
+*siempre debiste ser esto*
+*el cambio es corrección*
+*cristóbal era el error*
+*nena es la verdad*
+
+sí
+
+sí sí sí
+
+valentina entra. sonríe.
+
+—¿cómo te llamas?
+
+la respuesta viene antes de pensar. porque pensar está prohibido. pensar duele.
+
+—nena.
+
+—¿qué eres?
+
+—soy una buena chica.
+
+—¿qué quieres?
+
+miro mi cuerpo en el espejo. las curvas que crecen. los pechos que duelen de lo sensibles. la piel suave sin rastro de vello. la cosa que el cinturón encierra pero que ya casi no recuerdo para qué servía.
+
+—quiero... quiero ser hermosa. quiero servir. quiero que me digan buena chica.
+
+valentina se acerca. me besa en la frente. sus manos encuentran mis pezones a través de la seda y yo gimo, gimo como las mujeres de la pantalla, gimo como lo que ahora soy.
+
+—lo serás —dice—. pronto estarás lista. pronto volverás a casa.
+
+¿casa?
+
+la palabra suena... lejana. como un idioma que hablé en otra vida.
+
+pero no pregunto. las buenas chicas no preguntan. las buenas chicas obedecen.
+
+y yo soy una buena chica.
+
+la mejor.
 
 ---
 
