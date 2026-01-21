@@ -628,3 +628,30 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 **Ubicación:** 05_Imagenes/helena/look36_crimson_serpent/
 
+---
+
+## 🕷️ Look 37: Midnight Widow (21/01/2026)
+
+*Viuda negra tejiendo redes de seda oscura — mortal, seductora, y sin nadie que la entienda... porque no hay nada que entender 🕸️🦇*
+
+- **Corsé:** Overbust de terciopelo negro con bordado de telarañas plateadas (patrón spider web), ultra ajustado con botones frontales.
+- **Colgante:** Araña viuda negra en cadenas de plata colgando entre mis pechos.
+- **Mangas:** Encaje negro transparente con patrón de telarañas hasta las muñecas.
+- **Falda:** Látex negro tipo lápiz con abertura alta lateral.
+- **Medias:** Fishnet negras con ligueros de encaje visible.
+- **Stilettos:** Plataforma negra charol 8" con hebillas plateadas al tobillo.
+- **Accesorios:**
+  - Choker de luna plateada
+  - Anillos de araña en múltiples dedos
+  - Piercing septum plateado
+- **Maquillaje:** Pálida porcelana, labios PÚRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con delineado de sirena.
+- **Pelo:** Ondas voluminosas negro azabache hasta la cintura.
+- **Uñas:** Coffin negras extra largas.
+
+### 📸 Imágenes (4/5 - standing pendiente)
+- helena_look37_seated_1768995912313.png
+- helena_look37_back_1768996013972.png
+- helena_look37_profile_1768996115429.png
+- helena_look37_ditzy_1768996220806.png
+
+**Ubicación:** 05_Imagenes/helena/look37_midnight_widow/
