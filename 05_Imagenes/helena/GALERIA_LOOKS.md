@@ -290,9 +290,9 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look33_velvet_chains/helena_look33_standing.png) | - | - | - | ![Ditzy](look33_velvet_chains/helena_look33_ditzy.png) |
+| ![Standing](look33_velvet_chains/helena_look33_standing.png) | - | ![Profile](look33_velvet_chains/helena_look33_profile_1769005305133.png) | ![Back](look33_velvet_chains/helena_look33_back_1769005479154.png) | ![Ditzy](look33_velvet_chains/helena_look33_ditzy.png) |
 
-*⚠️ Solo 2 imágenes disponibles*
+*⚠️ Imagen seated pendiente*
 
 ---
 
@@ -332,9 +332,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| - | ![Seated](look37_midnight_widow/helena_look37_seated_1768995912313.png) | ![Profile](look37_midnight_widow/helena_look37_profile_1768996115429.png) | ![Back](look37_midnight_widow/helena_look37_back_1768996013972.png) | ![Ditzy](look37_midnight_widow/helena_look37_ditzy_1768996220806.png) |
-
-*⚠️ Imagen standing pendiente*
+| ![Standing](look37_midnight_widow/helena_look37_standing_1769005602832.png) | ![Seated](look37_midnight_widow/helena_look37_seated_1768995912313.png) | ![Profile](look37_midnight_widow/helena_look37_profile_1768996115429.png) | ![Back](look37_midnight_widow/helena_look37_back_1768996013972.png) | ![Ditzy](look37_midnight_widow/helena_look37_ditzy_1768996220806.png) |
 
 ---
 
