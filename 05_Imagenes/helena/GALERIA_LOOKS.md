@@ -164,16 +164,6 @@
 
 ---
 
-## 👻 Look 16: Ghost Bride
-
-> *Novia fantasmal, memoria perdida*
-
-| De Pie | Sentada | Perfil | Espalda | Ditzy |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look16_ghost_bride/helena_look16_ghost_bride_standing_1767194692838.png) | ![Seated](look16_ghost_bride/helena_look16_ghost_bride_seated_1767313786908.png) | ![Profile](look16_ghost_bride/helena_look16_ghost_bride_side_profile_1767313818893.png) | ![Back](look16_ghost_bride/helena_look16_ghost_bride_back_view_1767313802773.png) | ![Ditzy](look16_ghost_bride/helena_look16_ghost_bride_ditzy_1767313835146.png) |
-
----
-
 ## ⚡ Look 17: Cybergoth
 
 > *Neón y cables, cerebro desconectado*
