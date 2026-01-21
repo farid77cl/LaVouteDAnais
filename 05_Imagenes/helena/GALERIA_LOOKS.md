@@ -80,7 +80,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look08_esmeralda/helena_look8_esmeralda_standing_1766090143844.png) | ![Seated](look08_esmeralda/helena_look8_esmeralda_seated_1766090176107.png) | ![Profile](look08_esmeralda/helena_look8_esmeralda_side_1766090111420.png) | ![Back](look08_esmeralda/helena_look8_esmeralda_back_1766090191765.png) | ![Ditzy](look08_esmeralda/helena_look8_esmeralda_ditzy_1766090128090.png) |
+| ![Standing](look08_esmeralda/look8_esmeralda_standing.png) | ![Seated](look08_esmeralda/look8_esmeralda_seated.png) | ![Profile](look08_esmeralda/look8_esmeralda_side.png) | ![Back](look08_esmeralda/look8_esmeralda_back.jpg) | ![Ditzy](look08_esmeralda/look8_esmeralda_ditzy.jpg) |
 
 ---
 
@@ -90,7 +90,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look09_corazon/helena_look9_corazon_standing_1766093078614.png) | ![Seated](look09_corazon/helena_look9_corazon_seated_1766093111376.png) | ![Profile](look09_corazon/helena_look9_corazon_side_1766093093941.png) | ![Back](look09_corazon/helena_look9_corazon_back_1766093128186.png) | ![Ditzy](look09_corazon/helena_look9_corazon_ditzy_1766093063007.png) |
+| ![Standing](look09_corazon/helena_look9_standing.png) | ![Seated](look09_corazon/helena_look9_seated.png) | ![Profile](look09_corazon/helena_look09_side_profile_1767035351278.png) | ![Back](look09_corazon/helena_look9_bleeding_back_view.png) | ![Ditzy](look09_corazon/helena_look9_ditzy.png) |
 
 ---
 
@@ -100,7 +100,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look10_zafiro/helena_look10_zafiro_standing_1766093281117.png) | ![Seated](look10_zafiro/helena_look10_zafiro_seated_1766093297171.png) | ![Profile](look10_zafiro/helena_look10_zafiro_side_profile_1766093312896.png) | ![Back](look10_zafiro/helena_look10_zafiro_back_1766093330269.png) | ![Ditzy](look10_zafiro/helena_look10_zafiro_ditzy_1766093263555.png) |
+| ![Standing](look10_zafiro/helena_look10_zafiro_standing.png) | ![Seated](look10_zafiro/helena_look10_zafiro_seated.png) | ![Profile](look10_zafiro/helena_look10_zafiro_side_profile.png) | ![Back](look10_zafiro/helena_look10_zafiro_back_view.png) | ![Ditzy](look10_zafiro/helena_look10_zafiro_ditzy.png) |
 
 ---
 
@@ -110,7 +110,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look11_absinthe/helena_look11_absinthe_standing_1766093495003.png) | ![Seated](look11_absinthe/helena_look11_absinthe_seated_1766093576788.png) | ![Profile](look11_absinthe/helena_look11_absinthe_side_profile_1766093593001.png) | ![Back](look11_absinthe/helena_look11_absinthe_back_view_1766093608668.png) | ![Ditzy](look11_absinthe/helena_look11_absinthe_ditzy_1766093560118.png) |
+| ![Standing](look11_absinthe/helena_look11_absinthe_standing.png) | ![Seated](look11_absinthe/helena_look11_absinthe_seated.png) | ![Profile](look11_absinthe/helena_look11_absinthe_side_profile_1767187975218.png) | ![Back](look11_absinthe/helena_look11_absinthe_back_view_1767187990705.png) | ![Ditzy](look11_absinthe/helena_look11_absinthe_ditzy.png) |
 
 ---
 
@@ -120,7 +120,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look12_borgona/helena_look12_borgona_standing_1766093752422.png) | ![Seated](look12_borgona/helena_look12_borgona_seated_1766093768268.png) | ![Profile](look12_borgona/helena_look12_borgona_side_profile_1766093784171.png) | ![Back](look12_borgona/helena_look12_borgona_back_view_1766093800227.png) | ![Ditzy](look12_borgona/helena_look12_borgona_ditzy_1766093818159.png) |
+| ![Standing](look12_borgona/helena_look12_standing_1767093169687.png) | ![Seated](look12_borgona/helena_look12_burgundy_seated.png) | ![Profile](look12_borgona/helena_look12_burgundy_side_profile.png) | ![Back](look12_borgona/helena_look12_back_1767092339091.png) | ![Ditzy](look12_borgona/helena_look12_ditzy.png) |
 
 ---
 
@@ -130,7 +130,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look13_amatista/helena_look13_amatista_standing_1766093960971.png) | ![Seated](look13_amatista/helena_look13_amatista_seated_1766093977008.png) | ![Profile](look13_amatista/helena_look13_amatista_side_profile_1766093993045.png) | ![Back](look13_amatista/helena_look13_amatista_back_view_1766094009058.png) | ![Ditzy](look13_amatista/helena_look13_amatista_ditzy_1766094029023.png) |
+| ![Standing](look13_amatista/helena_look13_amatista_hipnotica_1767034617669.png) | ![Seated](look13_amatista/helena_look13_amatista_seated_1767188065355.png) | ![Profile](look13_amatista/helena_look13_amatista_side_profile_1767188034246.png) | ![Back](look13_amatista/helena_look13_amatista_back_view_1767188050060.png) | ![Ditzy](look13_amatista/helena_look13_amatista_ditzy.png) |
 
 ---
 
@@ -140,7 +140,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look14_midnight/helena_look14_midnight_standing_1767313511405.png) | ![Seated](look14_midnight/helena_look14_midnight_seated_1767313527513.png) | ![Profile](look14_midnight/helena_look14_midnight_side_profile_1767313543587.png) | ![Back](look14_midnight/helena_look14_midnight_back_view_1767313559649.png) | ![Ditzy](look14_midnight/helena_look14_midnight_ditzy_1767313575630.png) |
+| ![Standing](look14_midnight/helena_look14_midnight_kiss_standing.png) | ![Seated](look14_midnight/helena_look14_midnight_kiss_seated.png) | ![Profile](look14_midnight/helena_look14_midnight_kiss_side_profile.png) | ![Back](look14_midnight/helena_look14_midnight_kiss_back_view.png) | ![Ditzy](look14_midnight/helena_look14_midnight_kiss_ditzy.png) |
 
 ---
 
@@ -150,7 +150,17 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look15_vampire_bride/helena_look15_vampire_bride_standing_1767313702891.png) | ![Seated](look15_vampire_bride/helena_look15_vampire_bride_seated_1767313718774.png) | ![Profile](look15_vampire_bride/helena_look15_vampire_bride_side_profile_1767313734879.png) | ![Back](look15_vampire_bride/helena_look15_vampire_bride_back_view_1767313750849.png) | ![Ditzy](look15_vampire_bride/helena_look15_vampire_bride_ditzy_1767313766899.png) |
+| ![Standing](look15_vampire_bride/helena_look15_vampire_bride_standing_1767194676975.png) | ![Seated](look15_vampire_bride/helena_look15_vampire_bride_seated_1767313742806.png) | ![Profile](look15_vampire_bride/helena_look15_vampire_bride_side_profile_1767313756605.png) | ![Back](look15_vampire_bride/helena_look15_vampire_bride_back_view_1767313770776.png) | ![Ditzy](look15_vampire_bride/helena_look15_vampire_bride_ditzy_1767194753223.png) |
+
+---
+
+## 👻 Look 16: Ghost Bride
+
+> *Novia fantasmal, memoria perdida*
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Standing](look16_ghost_bride/helena_look16_ghost_bride_standing_1767194692838.png) | ![Seated](look16_ghost_bride/helena_look16_ghost_bride_seated_1767313804658.png) | ![Profile](look16_ghost_bride/helena_look16_ghost_bride_side_profile_1767313818893.png) | ![Back](look16_ghost_bride/helena_look16_ghost_bride_back_view_1767313832219.png) | ![Ditzy](look16_ghost_bride/helena_look16_ghost_bride_ditzy_1767194769351.png) |
 
 ---
 
@@ -290,9 +300,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Standing](look33_velvet_chains/helena_look33_standing.png) | - | ![Profile](look33_velvet_chains/helena_look33_profile_1769005305133.png) | ![Back](look33_velvet_chains/helena_look33_back_1769005479154.png) | ![Ditzy](look33_velvet_chains/helena_look33_ditzy.png) |
-
-*⚠️ Imagen seated pendiente*
+| ![Standing](look33_velvet_chains/helena_look33_standing.png) | ![Seated](look33_velvet_chains/helena_look33_seated_1769006547927.png) | ![Profile](look33_velvet_chains/helena_look33_profile_1769005305133.png) | ![Back](look33_velvet_chains/helena_look33_back_1769005479154.png) | ![Ditzy](look33_velvet_chains/helena_look33_ditzy.png) |
 
 ---
 
