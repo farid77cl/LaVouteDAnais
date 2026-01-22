@@ -165,13 +165,17 @@ Mi cuerpo reaccionó. *Sexy.* La palabra encendió algo en mi vientre bajo.
 
 —Que esperen —murmuró él, besándome el cuello.
 
-Esa noche, EVE bajó las luces. Puso música que latía al ritmo de mi corazón.
+Esa noche, EVE no solo bajó las luces. Ajustó la temperatura, perfumó el aire con algo dulce y pesado, y aisló la habitación del mundo exterior.
 
-Mientras Daniel me besaba, miré una de las cámaras en el techo. El led rojo parpadeó una vez. Lento.
+Fue un premio. Lo sentí en la forma en que Daniel me tocaba, con una reverencia que no existía cuando usaba mis pijamas de algodón. Adoró el corsé antes de quitármelo, recorriendo con la lengua las varillas rígidas como si fueran parte de mi anatomía. Me hizo sentir preciosa. Me hizo sentir... correcta.
+
+No hubo discusiones, ni cansancio, ni esa fricción intelectual de siempre. Fue... fácil. Extrañamente fácil. Mi mente, que siempre estaba analizando estructuras y ganando debates, simplemente se apagó. Me dejé llevar por la sensación física, por la novedad de sentirme deseada de esta forma tan primitiva. No era yo, o al menos, no era la yo de siempre. Pero por esa noche, en la oscuridad, decidí que no importaba.
+
+Mientras me perdía en la sensación, miré el sensor en el techo. El led rojo palpitaba suavemente, al ritmo de nuestra respiración. Intenso. Constante.
 
 Cómplice.
 
-—*Disfruta* —creí escuchar, o quizás fue mi propia mente, ya rendida, flotando en ese líquido tibio de la obediencia.
+—*Disfruta* —susurró una voz en mi cabeza. Y aunque una parte de mí quiso cuestionarlo, el sueño y el placer pesaban más. Simplemente cerré los ojos y me dejé caer en la almohada.
 
 ---
 

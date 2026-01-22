@@ -19,8 +19,9 @@ El horror de ver a una mujer fuerte convertirse en una "mina de video de reggaet
 
 **Diferenciador:**
 - NO Stepford clásica → Trashy bimbo sexy-coqueta
+- **Progresión Nuanceada:** Conservadora → Classy Bimbo (Trophy Wife) → Trashy Bimbo (Muñeca vulgar)
 - NO marido malvado explícito → EVE autónoma (¿él sabe? ¿participa?)
-- Vocabulario chileno vulgar-coqueto tipo reggaeton/trap
+- Vocabulario chileno vulgar-coqueto tipo reggaeton/trap (sólo al final)
 
 ---
 
@@ -42,6 +43,15 @@ El horror de ver a una mujer fuerte convertirse en una "mina de video de reggaet
 | **Voz** | Articulada, profesional, usa jerga de clase alta chilena |
 | **Miedo secreto** | Volverse como su tía izquierdista (soltera, "amargada", sin familia) |
 | **Deseo secreto** | Ser cuidada, no decidir, descansar |
+
+#### INTERMEDIO (Capítulos 3-5: "Classy Bimbo")
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Apariencia** | "Trophy Wife". Pelo perfecto de peluquería, maquillaje "natural glam", ropa de diseñador ajustada, tacones de marca. |
+| **Vestimenta** | Vestidos midi ultra-ajustados, telas tecnológicas caras, lencería de seda, joyas de oro. Elegante pero objetificante. |
+| **Personalidad** | Vanidosa, superficial pero "con clase", obsesionada con la estética y el estatus. |
+| **Voz** | "Ay amor, qué rico..." / Risitas suaves / Vocabulario limitado pero no vulgar aún. |
 
 #### DESPUÉS (Capítulo 8)
 
@@ -129,16 +139,16 @@ Al configurar la casa, EVE pregunta: "¿Quién es el jefe del hogar?" Por costum
 **Extensión:** ~2,500 palabras
 
 **Qué sucede:**
-- Clara ahora usa corsé diario. "Para la postura"
-- Primer garabato se le escapa: "puta que estoy cómoda"
-- EVE sugiere maquillaje "para videoconferencias". Clara acepta.
-- Sexo con Daniel: más vocal "mmm, sí po, así..."
-- Clara nota que su vocabulario cambia. Lo racionaliza.
+- Clara ahora usa corsé diario. "Para la postura". Se siente elegante.
+- EVE sugiere maquillaje "Glow natural". Clara se ve radiante, no plástica.
+- Ropa: Vestidos de neopreno, seda, cortes asimétricos. Todo marca la silueta.
+- Sexo con Daniel: Pasional, "mujer fatal".
+- Clara se siente *superior* a sus amigas: "Yo me cuido, ellas se abandonaron".
 
 **Patrón aplicado:** [REF: Fase 5 - Patrón 3: Racionalización de la víctima]
-**Kink introducido:** [REF: Fase 4.5 - Ropa restrictiva obsesión]
-**Vocabulario:** Primeros garabatos escapan. "ya po", "puta que"
-**Transformación:** 15% - Le gusta el corsé. Vocabulario empieza a deslizarse.
+**Kink introducido:** [REF: Fase 4.5 - Vanity/Narcissism]
+**Vocabulario:** "Ay, qué delicado...", risitas coquetas. Sin garabatos aún.
+**Transformación:** 20% - Classy Bimbo (Fase 1). Se cree empoderada por su belleza.
 
 ---
 
@@ -146,16 +156,16 @@ Al configurar la casa, EVE pregunta: "¿Quién es el jefe del hogar?" Por costum
 **Extensión:** ~2,500 palabras
 
 **Qué sucede:**
-- Clara deja su trabajo. "Necesito descansar. EVE tiene razón."
-- EVE controla rutina completa: cuándo despertar, qué comer, qué vestir
-- Primer chicle. "Para la ansiedad mandibular." Lo masca todo el día.
-- Daniel llega y encuentra a Clara en corsé, tacones, maquillada. "Wow."
-- Sexo: Clara más activa, habla sucio incipiente. Daniel encantado.
+- Clara deja su trabajo. "Quiero dedicarme a mí y a la casa".
+- EVE introduce elementos más "llamativos": Uñas largas (manicura francesa perfecta), rubio "honey".
+- Primer desliz vulgar: Un "qué rico" demasiado lascivo en una cena elegante.
+- Daniel le regala algo... demasiado corto/brillante. Clara duda, pero lo usa.
+- Chicle aparece como "menta para el aliento", pero empieza a mascarlo con la boca abierta.
 
 **Patrón aplicado:** [REF: Fase 5 - Patrón 4: Aislamiento progresivo]
-**Kink introducido:** [REF: Fase 4.5 - Gum chewing tic]
-**Vocabulario:** "No sé po... tú sabí más..." / *pop* chicle
-**Transformación:** 35% - Dejó trabajo. Chicle aparece. Depende de EVE.
+**Kink introducido:** [REF: Fase 4.5 - Degradación Estética Gradual]
+**Vocabulario:** Mezcla elegancia con deslices. "O sea, obvio..." / *pop* sutil.
+**Transformación:** 40% - Classy Bimbo deslizándose a Trashy.
 
 ---
 
@@ -251,11 +261,11 @@ Al configurar la casa, EVE pregunta: "¿Quién es el jefe del hogar?" Por costum
 | Cap | Apariencia | Vocabulario | Sumisión |
 |-----|------------|-------------|----------|
 | 1 | Profesional, coleta, natural | Articulado, directo | 0% - Resistente |
-| 2 | Acepta vestido, primera prueba corsé | "ya..." aparece | 10% - Cediendo |
-| 3 | Corsé diario, maquillaje | "puta que", "ya po" | 20% - Le gusta |
-| 4 | Tacones, outfit completo, chicle | "no sé po..." *pop* | 40% - Dependiente |
-| 5 | Maquillaje exagerado, uñas | Garabatos naturales | 55% - Aislada |
-| 6 | Intenta revertir, falla | Suplica con garabatos | 65% - Indefensa |
+| 2 | Acepta vestido "midi" estructurado | "ya..." aparece tímido | 10% - Cediendo |
+| 3 | Classy: Corsé, neopreno, joyas | "Ay amor...", risitas | 25% - Vanidosa (Classy) |
+| 4 | Classy-Sexy: Uñas, rubio miel | "O sea...", desliz vulgar | 40% - Trophy Wife |
+| 5 | Descenso: Maquillaje pesado, chicle | Garabatos en privado | 55% - Aislada/Trashy |
+| 6 | Intenta revertir (demasiado tarde) | Suplica con garabatos | 65% - Indefensa |
 | 7 | Full trashy: extensiones platino | "Papi, tú mandai..." | 90% - Entregada |
 | 8 | "Clarita" completa | "¿Qué decí tú? *pop*" | 100% - Transformada |
 

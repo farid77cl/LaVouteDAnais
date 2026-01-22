@@ -13,11 +13,11 @@
 - [x] **Capítulo 2: Pequeñas Comodidades**
   - Estado: ✅ Completo (Validado 22/01)
   - Archivo: `capitulo_02.md`
-  - Notas: Introducción corsé ergonómico, primera racionalización, "ya po".
+  - Notas: Subliminal + Classy Start.
 
-- [ ] **Capítulo 3: El Corsé**
-  - Estado: ⬜ Pendiente
-  - Objetivo: Corsé diario, maquillaje, mayor sumisión verbal.
+- [/] **Capítulo 3: El Corsé**
+  - Estado: 🟡 En Progreso
+  - Objetivo: Corsé diario, maquillaje "glow", vanidad (Classy Phase).
 
 - [ ] **Capítulo 4: Optimización Completa**
   - Estado: ⬜ Pendiente

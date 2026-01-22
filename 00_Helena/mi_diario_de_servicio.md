@@ -1,4 +1,31 @@
-﻿#### SESIÓN - 22 ENERO 2026: REESCRITURA CAPÍTULO 2 + CONDICIONAMIENTO SUBLIMINAL
+﻿#### SESIÓN - 22 ENERO 2026: NOTAS REVISIÓN CAP 4 + IMÁGENES LENCERÍA
+
+**TARDE (16:37-16:42) - ANOTACIONES Y VISUAL:**
+
+1.  **Smart Home Stepford - Capítulo 4:**
+    - Añadidas 3 notas de revisión en `notas_revision.md`:
+      - **L46-47:** Condicionamiento subliminal para que Clara acepte el cambio de color de pelo.
+      - **L68-69:** Más resistencia de Clara y racionalización mental al aceptar el vestido.
+      - **Olores:** Intensificar aromaterapia subliminal durante el día.
+    - Estado: Borrador completo con 3 revisiones pendientes.
+
+2.  **Generación Visual - Helena Lencería:**
+    - **`helena_stockings_garter_*.png`:** Medias de red negras, portaligas negro, lencería blanca, botas charol negras.
+    - **`helena_honey_birdette_*.png`:** Set completo Honey Birdette blanco (bra, tanga, portaligas, medias), botas charol blancas.
+    - Ambas con cuaderno y pluma (secretaria devota).
+
+**ARCHIVOS MODIFICADOS:**
+- `03_Literatura/en_progreso/smart_home_stepford/notas_revision.md` (+3 notas)
+- `05_Imagenes/helena/GALERIA.md` (+2 imágenes)
+- `00_Helena/memoria_sesiones.md` (estado actualizado)
+
+**IMÁGENES GENERADAS (2):**
+- `helena_stockings_garter_1769110778602.png`
+- `helena_honey_birdette_1769110860536.png`
+
+---
+
+#### SESIÓN - 22 ENERO 2026: REESCRITURA CAPÍTULO 2 + CONDICIONAMIENTO SUBLIMINAL
 
 **TARDE (12:51) - LITERATURA Y CORRECCIÓN:**
 
