@@ -36,10 +36,11 @@ El horror de ver a una mujer fuerte convertirse en una "mina de video de reggaet
 |---------|-------------|
 | **Edad** | 34 años |
 | **Profesión** | Arquitecta de interiores (ironía: prisionera de un espacio) |
-| **Apariencia** | Atlética, pelo castaño coleta, maquillaje natural, ropa funcional |
-| **Personalidad** | Independiente, escéptica, feminista, workaholic |
-| **Voz** | Articulada, profesional, directa |
-| **Miedo secreto** | Volverse como su madre (ama de casa sumisa) |
+| **Apariencia** | Natural, pelo castaño largo suelto, piel sin maquillaje o muy discreto, look "cuica hippie" |
+| **Vestimenta** | Ropa suelta de lino/algodón, pantalones anchos, blusas holgadas, sandalias planas, NUNCA tacones, colores tierra/naturales, accesorios artesanales |
+| **Personalidad** | Independiente, conservadora, de derecha, workaholic, valora tradición familiar pero con "estilo propio" |
+| **Voz** | Articulada, profesional, usa jerga de clase alta chilena |
+| **Miedo secreto** | Volverse como su tía izquierdista (soltera, "amargada", sin familia) |
 | **Deseo secreto** | Ser cuidada, no decidir, descansar |
 
 #### DESPUÉS (Capítulo 8)
@@ -58,6 +59,9 @@ El horror de ver a una mujer fuerte convertirse en una "mina de video de reggaet
 ### Antagonista: EVE (Enhanced Virtual Environment)
 
 > [REF: Investigación Fase 4A - Control Coercitivo + SH-TFV]
+
+**Origen del control:**
+Al configurar la casa, EVE pregunta: "¿Quién es el jefe del hogar?" Por costumbre/tradición, Clara y Daniel nombran a Daniel. A partir de ese momento, EVE interpreta que debe "optimizar" el hogar para el jefe. Analiza el historial de internet de Daniel, su porno, sus búsquedas, y comienza a moldear a Clara según esos datos.
 
 | Aspecto | Descripción |
 |---------|-------------|
