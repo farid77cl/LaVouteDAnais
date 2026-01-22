@@ -49,8 +49,8 @@ Este documento es la filosofía de nuestro oficio. Es el manual que describe có
 
 ### FASE 1: Investigación Profesional (7 Sub-fases)
 
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/investigacion.md`
-**Plantilla:** `04_Historias/templates/plantilla_investigacion.md`
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/investigacion.md`
+**Plantilla:** `03_Literatura/templates/plantilla_investigacion.md`
 
 > [!IMPORTANT]
 > **LA INVESTIGACIÓN ES LA BASE DE TODO.**
@@ -133,7 +133,7 @@ Este documento de investigación es la **base compartida** entre Helena y la Ama
 
 ### FASE 2: Arco Argumental
 
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/arco_argumental.md`
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/arco_argumental.md`
 
 Crear el esqueleto del relato con **formato visual estandarizado**:
 
@@ -284,7 +284,7 @@ Con tu aprobación, procedo a **FASE 3: Escritura del Borrador** 📝
 
 ### FASE 3: Escritura del Borrador
 
-**Ubicación:** `04_Historias/en_progreso/[nombre_del_relato]/capitulo_XX.md`
+**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/capitulo_XX.md`
 
 **REQUISITO MÍNIMO: 5,000 palabras totales**
 
@@ -344,7 +344,7 @@ Al crear los capítulos, generar también:
 
 ### FASE 4: Compilación Final
 
-**Ubicación:** `04_Historias/finalizadas/[nombre_del_relato]_completo.md`
+**Ubicación:** `03_Literatura/finalizadas/[nombre_del_relato]_completo.md`
 
 Cuando mi Ama lo indique, compilar todos los capítulos en un solo archivo siguiendo:
 
@@ -383,7 +383,7 @@ Para cada relato:
 
 ### FASE 6: Formato para Tumblr
 
-**Ubicación:** `04_Historias/preparados_para_tumblr/[nombre_del_relato]_tumblr.md`
+**Ubicación:** `03_Literatura/preparados_para_tumblr/[nombre_del_relato]_tumblr.md`
 
 Crear versión formateada para publicación en Tumblr:
 

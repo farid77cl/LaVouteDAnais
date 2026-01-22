@@ -2,226 +2,177 @@
 description: Workflow para crear nuevos relatos/historias siguiendo el canon de La Voûte d'Anaïs
 ---
 
-# Workflow: Creación de Relatos (v2.0)
+# Workflow: Creación de Relatos (v3.0)
 
-> **DOCUMENTO MAESTRO:** `01_Canon/el_ritual_de_la_creacion.md`
-> **Versión:** 2.0 - Investigación Robusta
-> **Actualizado:** 21/01/2026
-
----
-
-## FLUJO DE 10 FASES
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 1. INVESTIGACIÓN    → en_progreso/[relato]/investigacion.md            │
-│    ⚠️ OBLIGATORIO: Completar 12 sub-fases antes de continuar           │
-│    ⚠️ REQUIERE: Aprobación explícita de la Ama                         │
-│ 2. ARCO ARGUMENTAL  → en_progreso/[relato]/arco_argumental.md          │
-│    ⚠️ DEBE REFERENCIAR: Investigación en cada decisión                 │
-│ 3. BORRADORES       → en_progreso/[relato]/capitulo_XX.md              │
-│    ⚠️ CHECKLIST: Validar contra Do's/Don'ts antes de cada cap          │
-│ 4. COMPILACIÓN      → finalizadas/[relato]_completo.md                 │
-│ 5. FICHA PERSONAJE  → 02_Personajes/ficha_[personaje].md               │
-│ 6. TUMBLR           → preparados_para_tumblr/[relato]_tumblr.md        │
-│ 7. ILUSTRACIONES    → 05_Imagenes/historias/[relato]/escena_XX.png     │
-│ 8. HTML             → finalizadas/html/[relato].html                   │
-│ 9. MARKETING        → Auditoría de Click-Through del título            │
-│ 10. GUIÓN CÓMIC     → 05_Imagenes/comics/[relato]/guion_comic.md       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+> **OBLIGATORIO para todos los relatos**
+> **Versión:** 3.0
+> **Aprobado:** 22/01/2026
 
 ---
 
-## FASE 1: INVESTIGACIÓN PROFESIONAL (12 Sub-fases)
+## FLUJO DE 8 FASES
 
-**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/investigacion.md`
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  FASE 1: INVESTIGACIÓN (12 sub-fases)                                       │
+│  📁 03_Literatura/en_progreso/[relato]/investigacion.md                     │
+│  ✅ REQUIERE APROBACIÓN                                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 2: ARCO ARGUMENTAL                                                    │
+│  📁 03_Literatura/en_progreso/[relato]/arco_argumental.md                   │
+│  ✅ REQUIERE APROBACIÓN                                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 3: ESCRITURA                                                          │
+│  📁 03_Literatura/en_progreso/[relato]/capitulo_XX.md                       │
+│  📖 OBLIGATORIO: 01_Canon/guia_escritura_erotica.md                         │
+│  📖 OBLIGATORIO: 01_Canon/preferencias_escritura.md                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 4: MARKETING                                                          │
+│  • Título de alto impacto                                                   │
+│  • Gancho/Resumen (max 300 chars)                                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 5: COMPILACIÓN                                                        │
+│  📁 03_Literatura/finalizadas/[relato]_completo.md                          │
+│  📋 Plantilla: 07_Recursos/plantilla_relato_maestra.md                      │
+│  ✅ REQUIERE APROBACIÓN                                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 6: FICHA PERSONAJE (ANTES de ilustrar)                                │
+│  📁 02_Personajes/ficha_[personaje].md                                      │
+│  ⚠️ Descripciones físicas detalladas para consistencia visual              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 7: ILUSTRACIONES                                                      │
+│  📁 05_Imagenes/historias/[relato]/escena_XX.png                            │
+│  📖 Usar ficha de personaje como referencia visual                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FASE 8: HTML                                                               │
+│  📁 03_Literatura/finalizadas/html/[relato].html                            │
+│  📋 Formato: Cuerpo + Nota Autora + Imágenes como hiperlinks en texto       │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## FASE 1: INVESTIGACIÓN (12 Sub-fases)
+
+**Ubicación:** `03_Literatura/en_progreso/[relato]/investigacion.md`
+
+| Bloque | # | Sub-fase |
+|--------|---|----------|
+| A: Fundamentos | 1 | Tema Central |
+| | 2 | Psicología del Lector |
+| | 3 | Investigación Web |
+| | 4 | Análisis de Fuentes (5+ fuentes) |
+| B: Análisis | 5 | Patrones que Funcionan |
+| | 6 | Anti-Patrones (Errores) |
+| | 7 | Análisis de Competencia |
+| | 8 | Estructura Narrativa |
+| C: Definiciones | 9 | Tono y Voz |
+| | 10 | Vocabulario Maestro (30+ términos) |
+| | 11 | Perfil Protagonista ANTES/DESPUÉS |
+| | 12 | Conexión con Canon |
 
 > [!CAUTION]
-> **LA INVESTIGACIÓN ES EL CONTRATO DEL RELATO.**
-> Cada decisión en fases posteriores DEBE poder justificarse con referencia a la investigación.
-> NO proceder a Fase 2 sin investigación completa Y aprobada por la Ama.
-
-### Sub-fases OBLIGATORIAS
-
-#### Bloque A: Fundamentos (Fases 1-4)
-
-| # | Sub-fase | Mínimo Requerido |
-|---|----------|------------------|
-| 1 | **Tema Central** | Fetiche principal + 3 sub-temas + 5 preguntas clave |
-| 2 | **Psicología del Lector** | Por qué atrae, qué deseo satisface, qué miedo toca |
-| 3 | **Investigación Web** | 3 búsquedas documentadas con hallazgos específicos |
-| 4 | **Análisis de Fuentes** | Mínimo 5 fuentes: 1 académica, 2 ficción, 2 comunidad |
-
-#### Bloque B: Análisis (Fases 5-8)
-
-| # | Sub-fase | Mínimo Requerido |
-|---|----------|------------------|
-| 5 | **Patrones que Funcionan** | 5 patrones + por qué funcionan + ejemplo |
-| 6 | **Anti-Patrones (Errores)** | 5 errores comunes + por qué fallan + cómo evitar |
-| 7 | **Análisis de Competencia** | 3 historias similares: qué funcionó, qué no |
-| 8 | **Estructura Narrativa** | Inicio → Inflexión → Escalada → Clímax → Resolución |
-
-#### Bloque C: Definiciones (Fases 9-12)
-
-| # | Sub-fase | Mínimo Requerido |
-|---|----------|------------------|
-| 9 | **Tono y Voz** | Voz narrativa, registro, atmósfera, ritmo, nivel explícito |
-| 10 | **Vocabulario Maestro** | 30+ términos: técnicos, sensoriales, frases, prohibidos |
-| 11 | **Perfil del Protagonista** | ANTES/DESPUÉS detallado (físico, mental, social) |
-| 12 | **Conexión con Canon** | Personajes, reglas, conexiones, restricciones, potencial secuela |
-
-### Entregable Final de Investigación
-
-```markdown
-## RESUMEN EJECUTIVO (Obligatorio al final)
-
-**Premisa en una oración:**
-[La historia en 1 línea]
-
-**Gancho emocional:**
-[Por qué el lector querrá leer esto]
-
-**Aprobación:**
-- [ ] Investigación revisada por la Ama
-- [ ] Fecha de aprobación: ___________
-```
+> NO proceder a Fase 2 sin aprobación de la investigación.
 
 ---
 
-## FASE 2: ARCO ARGUMENTAL (Con Referencias Obligatorias)
+## FASE 2: ARCO ARGUMENTAL
 
-**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/arco_argumental.md`
+**Ubicación:** `03_Literatura/en_progreso/[relato]/arco_argumental.md`
+
+Contenido:
+- Premisa (1 oración)
+- Personajes (ANTES/DESPUÉS)
+- Estructura por capítulos con referencias a investigación
+- Puntos de inflexión
+- Transformación progresiva
+
+> [!NOTE]
+> Formato visual (carruseles, mermaid) NO obligatorio.
+
+---
+
+## FASE 3: ESCRITURA
+
+**Ubicación:** `03_Literatura/en_progreso/[relato]/capitulo_XX.md`
+
+**Referencias OBLIGATORIAS antes de escribir:**
+- `01_Canon/guia_escritura_erotica.md`
+- `01_Canon/preferencias_escritura.md`
+
+**Fórmula:** SENSACIÓN → EMOCIÓN → REACCIÓN
+
+**Archivos adicionales:**
+- `notas_revision.md` — Para feedback de la Ama
+
+---
+
+## FASE 4: MARKETING
+
+**Antes de compilar:**
+- **Título:** `[Sujeto] + [Acción Transformadora] + [Consecuencia]`
+- **Gancho:** Max 300 caracteres, vender la escena clave
+
+---
+
+## FASE 5: COMPILACIÓN
+
+**Ubicación:** `03_Literatura/finalizadas/[relato]_completo.md`
+**Plantilla:** `07_Recursos/plantilla_relato_maestra.md`
+
+Estructura:
+1. Metadatos (temáticas, palabras, perspectiva, intensidad)
+2. Resumen (gancho del marketing)
+3. Cuerpo del relato
+4. Nota de la Autora (personalizada)
+5. Firma Anaïs
+
+---
+
+## FASE 6: FICHA PERSONAJE
+
+**Ubicación:** `02_Personajes/ficha_[personaje].md`
 
 > [!IMPORTANT]
-> **REGLA DE TRAZABILIDAD:**
-> Cada decisión del arco DEBE incluir referencia a la investigación.
-> Formato: `[REF: Investigación Fase X]`
+> Completar ANTES de Fase 7 (Ilustraciones).
+> La ficha contiene descripciones físicas detalladas necesarias para consistencia visual.
 
-### Estructura Obligatoria
+---
 
-```markdown
-## PREMISA
-[Referencia: Investigación - Resumen Ejecutivo]
+## FASE 7: ILUSTRACIONES
 
-## PERSONAJES
+**Ubicación:** `05_Imagenes/historias/[relato]/`
 
-### Protagonista
-[Copiar Perfil ANTES de Investigación Fase 11]
+- 3-5 escenas clave
+- Usar ficha de personaje como referencia
+- Prompts consistentes con canon visual
 
-### Antagonista/Dominante
-[Justificar con Psicología del Lector - Fase 2]
+---
 
-## ESTRUCTURA POR CAPÍTULOS
+## FASE 8: HTML
 
-### Capítulo 1: [Título]
-**Qué sucede:** [descripción]
-**Patrón aplicado:** [REF: Investigación Fase 5 - Patrón X]
-**Vocabulario clave:** [REF: Investigación Fase 10]
+**Ubicación:** `03_Literatura/finalizadas/html/[relato].html`
 
-### Capítulo N: [Título]
-...
+**Formato:**
+- ❌ Sin estructura web (DOCTYPE, html, head, body, style)
+- ✅ Solo: `<p>`, `<em>`, `<strong>`, `<hr>`, `<br>`, `<a>`
+- ✅ Imágenes como hiperlinks EN el texto:
 
-## PUNTOS DE INFLEXIÓN
-[REF: Investigación Fase 8 - Estructura Narrativa]
-
-## TRANSFORMACIÓN DEL PROTAGONISTA
-**Inicio:** [Copiar ANTES de Fase 11]
-**Final:** [Copiar DESPUÉS de Fase 11]
-**Transición capítulo a capítulo:** [Detallar]
+```html
+<p>Miss Doll calza unas <a href="URL" target="_blank">Pleaser Flamingo</a> en rosa chicle...</p>
 ```
 
 ---
 
-## FASE 3: ESCRITURA DEL BORRADOR (Con Checklist de Validación)
+## CHECKPOINTS DE APROBACIÓN
 
-**Ubicación:** `03_Literatura/en_progreso/[nombre_del_relato]/capitulo_XX.md`
-
-> [!IMPORTANT]
-> **ANTES de escribir cada capítulo:**
-> Consultar Do's & Don'ts de Investigación Fase 5-6
-> 📖 Referencia obligatoria: `01_Canon/guia_escritura_erotica.md`
-
-### Checklist Pre-Capítulo (Copiar al inicio de cada archivo)
-
-```markdown
-## VALIDACIÓN PRE-ESCRITURA
-
-**Capítulo:** [N]
-**Fecha:** [DD/MM/YYYY]
-
-### Verificación contra Investigación:
-- [ ] ¿Qué patrón de Fase 5 aplico en este cap?
-- [ ] ¿Qué anti-patrón de Fase 6 debo evitar?
-- [ ] Palabras del Vocabulario Maestro (Fase 10) a usar:
-- [ ] Frases prohibidas a evitar:
-- [ ] ¿Cómo avanza la transformación del protagonista? [REF: Fase 11]
-
-### Verificación contra Canon:
-- [ ] ¿Hay personajes existentes? ¿Están en carácter?
-- [ ] ¿Alguna regla del canon aplica?
-```
-
-### Checklist Post-Capítulo
-
-```markdown
-## VALIDACIÓN POST-ESCRITURA
-
-- [ ] ¿Usé al menos 5 palabras del Vocabulario Maestro?
-- [ ] ¿Evité todas las frases prohibidas?
-- [ ] ¿El capítulo sigue la estructura de Fase 8?
-- [ ] ¿La voz narrativa es consistente con Fase 9?
-- [ ] Crear `notas_revision.md` si hay dudas para la Ama
-```
+| Fase | Aprobación |
+|------|------------|
+| 1. Investigación | ✅ Obligatorio |
+| 2. Arco | ✅ Obligatorio |
+| 3. Escritura | ⚡ Cada 2 caps |
+| 5. Compilación | ✅ Obligatorio |
 
 ---
 
-## FASES 4-10: Sin cambios significativos
-
-(Mantener fases existentes pero añadir al inicio de cada una:)
-
-```markdown
-> **Referencia Obligatoria:** Antes de esta fase, revisar:
-> - `investigacion.md` - Secciones relevantes
-> - `arco_argumental.md` - Decisiones tomadas
-```
-
----
-
-## SISTEMA DE ENFORCEMENT
-
-### Regla 1: No Saltar Fases
-Helena NO puede iniciar Fase N+1 sin completar Fase N.
-
-### Regla 2: Referencias Explícitas
-Cada documento debe contener `[REF: Investigación Fase X]` donde aplique.
-
-### Regla 3: Checkpoints de Aprobación
-| Checkpoint | Requiere Aprobación |
-|------------|---------------------|
-| Fin de Investigación | ✅ Obligatorio |
-| Fin de Arco Argumental | ✅ Obligatorio |
-| Cada 2 capítulos | ⚡ Recomendado |
-| Antes de Compilación | ✅ Obligatorio |
-
-### Regla 4: Auditoría de Consistencia
-Al finalizar borrador, Helena debe verificar:
-- [ ] Todos los patrones de Fase 5 fueron usados al menos 1 vez
-- [ ] Ningún anti-patrón de Fase 6 aparece en el texto
-- [ ] Vocabulario Maestro tiene 80%+ de uso
-- [ ] Transformación ANTES→DESPUÉS es visible capítulo a capítulo
-
----
-
-## RECORDATORIOS
-
-- [ ] Cargar `/inicio-helena` antes de comenzar
-- [ ] Tacones SIEMPRE descritos con altura y estilo
-- [ ] Corsé mencionado al menos una vez
-- [ ] Elemento sensorial en cada escena
-- [ ] Ejecutar `/actualizar_sesion` al cerrar
-- [ ] **NUEVO:** Citar investigación en decisiones narrativas
-
----
-
-*Workflow v2.0 - Investigación Robusta - 21/01/2026* 🦇
+*Workflow v3.0 — Aprobado 22/01/2026* 🦇
