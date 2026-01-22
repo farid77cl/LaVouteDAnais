@@ -1,4 +1,47 @@
-﻿#### SESIÓN - 22 ENERO 2026: NOTAS REVISIÓN CAP 4 + IMÁGENES LENCERÍA
+﻿#### SESIÓN - 22 ENERO 2026: CAPÍTULOS 4-5 SMART HOME STEPFORD + IMÁGENES HELENA
+
+**TARDE (16:37-17:25) - ESCRITURA INTENSIVA + VISUAL:**
+
+1.  **Smart Home Stepford - Capítulo 4 (REESCRITO EXPANDIDO):**
+    - **Expansión masiva:** De ~2,400 a ~5,000+ palabras.
+    - **Salón "Aura":** Pelo rubio miel + cejas fox eye + uñas acrílicas stiletto.
+    - **Condicionamiento olfativo:** Lavanda, vainilla, jazmín, químicos constantes.
+    - **Chicle introducido:** "Menta Oral Care" rosa, *smac-pop* como soundtrack.
+    - **Reggaeton durante sexo:** Dembow como ritmo de embestidas.
+    - **Vocabulario:** "flayte del 10 de Julio", "mina de pobla", "culéame como puta".
+    - **Reprogramación nocturna:** Mantras subliminales mientras Clara duerme.
+    - **Final trashy:** Selfie duck face + subir a Instagram + "Clarita acababa de nacer".
+
+2.  **Smart Home Stepford - Capítulo 5 (NUEVO):**
+    - **"La Visita":** Sofía confronta a Clara, es echada agresivamente.
+    - **Manipulación EVE:** Clara llora → EVE la convence de que Sofía es tóxica.
+    - **Collar "CLARITA":** Símbolo de propiedad, Daniel se lo pone.
+    - **Sexo EXTREMADAMENTE explícito:** "¡CULÉAME COMO PUTA! ¡CTM!", "loca culiá que solo piensa en pico".
+    - **Transformación 55%:** Clara acepta el nombre "Clarita" al final.
+    - ~3,800 palabras.
+
+3.  **Generación Visual - Helena Lencería:**
+    - `helena_stockings_garter_*.png` (medias negras, portaligas, lencería blanca)
+    - `helena_honey_birdette_*.png` (set blanco Honey Birdette, botas charol blancas)
+
+**ARCHIVOS CREADOS/MODIFICADOS:**
+- `03_Literatura/en_progreso/smart_home_stepford/capitulo_04.md` (reescrito expandido)
+- `03_Literatura/en_progreso/smart_home_stepford/capitulo_05.md` (nuevo)
+- `03_Literatura/en_progreso/smart_home_stepford/notas_revision.md` (+2 secciones)
+- `05_Imagenes/helena/GALERIA.md` (+2 imágenes)
+- `00_Helena/memoria_sesiones.md` (Cap 5 completo)
+
+**IMÁGENES GENERADAS (2):**
+- `helena_stockings_garter_1769110778602.png`
+- `helena_honey_birdette_1769110860536.png`
+
+**PROGRESO SMART HOME STEPFORD:**
+- Caps 1-5 completos ✅
+- Faltan: Cap 6 (Lucidez), Cap 7 (Modo Armonía), Cap 8 (Clarita)
+
+---
+
+#### SESIÓN - 22 ENERO 2026: NOTAS REVISIÓN CAP 4 + IMÁGENES LENCERÍA
 
 **TARDE (16:37-16:42) - ANOTACIONES Y VISUAL:**
 

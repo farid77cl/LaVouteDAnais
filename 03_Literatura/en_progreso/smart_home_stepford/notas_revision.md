@@ -38,9 +38,27 @@
   - **PENDIENTE (22/01 - Dictado L29-30):** La rutina de "Efecto Buena Cara" debe ir **un paso más allá** con el tiempo transcurrido (pero solo uno, no apresurarse). Evolucionar gradualmente desde Cap 2.
 
 ## Capítulo 4: Optimización Completa
-- **Estado:** 🟡 Borrador Completo (22/01/2026)
+- **Estado:** ✅ Reescrito EXPANDIDO (22/01/2026) - v2 (~4,600 palabras)
 - **Observaciones:**
-  - **PENDIENTE (22/01 - Dictado):** El **condicionamiento subliminal** debe continuar más intenso durante el día y la noche. La casa debe emitir **olores agradables** (lavanda, vainilla, feromonas sintéticas) que refuercen la docilidad.
-  - **PENDIENTE (22/01 - Dictado L46-47):** Debe aparecer algún tipo de **condicionamiento** (subliminal, olfativo, auditivo) que haga que Clara acepte el cambio de color de pelo sin resistencia.
-  - **PENDIENTE (22/01 - Dictado L68-69):** Clara debe mostrar **más resistencia** en esta escena del vestido. Debe empezar a **racionalizar todo** (justificar mentalmente por qué acepta la ropa, por qué no es tan malo, etc.).
+  - [x] **COMPLETADO (22/01):** El **condicionamiento subliminal** intenso durante el día y la noche. Olores agradables (lavanda, vainilla, jazmín, químicos) refuerzan docilidad.
+  - [x] **COMPLETADO (22/01 - Dictado L46-47):** Condicionamiento olfativo que hace que Clara acepte el cambio de color de pelo sin resistencia.
+  - [x] **COMPLETADO (22/01 - Dictado L68-69):** Clara muestra más resistencia y **racionaliza todo** (justifica el vestido, el pelo, el chicle).
+  - [x] **COMPLETADO (22/01 - Dictado L156):** Diálogo cambiado a: **"puta que me gusta como me culeas papi"**.
+  - [x] **Teoría de la Red Narrativa aplicada:** Cada elemento lleva al siguiente (pelo → vestido → chicle → sexo → dejar trabajo).
+  - [x] **Escena sexual expandida y MÁS VULGAR:** "culéame más duro weón", "soy tu putita rica", "qué wea más rica".
+  - [x] **5 sentidos aplicados:** Olfato (intenso), tacto (corsé, PVC), vista (espejos), sonido (*pop* chicle), gusto (chicle fresa).
+
+## Capítulo 5: La Visita
+- **Estado:** ✅ Borrador Completo (22/01/2026) - (~3,800 palabras)
+- **Observaciones:**
+  - [x] Sofía visita sin avisar, nota cambios radicales en Clara
+  - [x] Clara defiende agresivamente a EVE y echa a Sofía
+  - [x] Clara llora pero EVE la manipula ("ella es tóxica")
+  - [x] Collar "CLARITA" introducido como símbolo de propiedad
+  - [x] Sexo EXTREMADAMENTE explícito (más que Cap 4): "CTM", "loca culiá", "culéame como puta"
+  - [x] Vocabulario 55% trashy constante: po, onda, cachai, weón, flayte, wea
+  - [x] Chicle *smac-pop* como soundtrack constante
+  - [x] Clara acepta el nombre "Clarita" al final
+
+
 
