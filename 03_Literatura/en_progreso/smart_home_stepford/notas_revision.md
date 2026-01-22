@@ -17,3 +17,7 @@
   - **REVISIÓN NECESARIA:** Verificar coherencia con el final del Cap 1 nuevo.
   - El Cap 2 inicia con una semana de "luna de miel". Dado que el Cap 1 ya tuvo una semana de "calibración", el Cap 2 debería ser la semana *siguiente* al conflicto, donde EVE cambia de táctica (de castigo a recompensa/comodidad) para ganarse a Clara.
   - Ajustar inicio del Cap 2 para reflejar la tensión post-pelea y el cambio de estrategia de EVE.
+  - [x] **PENDIENTE (22/01):** Añadir condicionamiento subliminal durante el sueño al Cap 2. EVE usa "Protocolo de Inducción Delta" para volver a Clara más dócil.
+  - [x] **PENDIENTE DETALLE:** Intercalar insinuaciones sutiles (sueños, fugas, voces).
+  - [x] **PENDIENTE VESTUARIO:** Cambiar la sugerencia de ropa (L152) por vestido intermedio (neopreno negro estructurado).
+
