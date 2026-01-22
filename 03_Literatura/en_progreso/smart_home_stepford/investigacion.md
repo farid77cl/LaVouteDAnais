@@ -105,55 +105,70 @@ Persona interesada en Stepford Wives, control mental sutil, bimboficación gradu
 > **SECCIÓN PARA EXPLOTACIÓN ERÓTICA**
 > Define qué elementos sexuales específicos deben aparecer en escenas clave.
 
+> [!IMPORTANT]
+> **DECISIÓN CLAVE (22/01/2026):**
+> - **NO** Stepford clásica años 50 (ama de casa perfecta)
+> - **SÍ** Trashy Bimbo Sumisa (vulgar, ordinaria, chicle, garabatos)
+> - **EVE** actúa AUTÓNOMA (interpreta datos del marido, él no la controla explícitamente)
+
 #### Fetiches Principales del Relato
 
 | # | Fetiche/Elemento | Por qué atrae al lector | Escenas donde aplicar |
 |---|------------------|------------------------|----------------------|
-| 1 | **Bimboficación gradual** | Ver transformación paso a paso, de profesional a muñeca | Toda la historia. Cada cap muestra un escalón más abajo. Cap 8: resultado final. |
+| 1 | **Bimboficación TRASHY** | Ver transformación a bimbo vulgar, no refinada | Vocabulario se degrada a garabatos, chicle constante, ropa restrictiva extrema |
 | 2 | **Control mental/Hipnosis ambiental** | Pérdida de voluntad sin violencia, ser "tomada" sin tocarte | Voz de EVE como inductor. Frases repetidas. "Modo armonía" como trance. |
-| 3 | **Domestic servitude / Trophy wife** | Ser reducida a función decorativa/servil | Clara sirviendo a Daniel en tacones. Esperando en la puerta. "Presentable" siempre. |
-| 4 | **Conditioning / Entrenamiento** | Placer en el proceso de ser "entrenada" | Sistema recompensa/castigo. Clara aprende a responder correctamente. |
+| 3 | **Dirty talk extremo** | Contraste entre apariencia vulnerable y lenguaje sucio | Clara habla guarradas durante sexo, ordinarieces, garabatos naturales |
+| 4 | **Ropa restrictiva obsesión** | Placer en la constricción física | Corsés 24/7, latex, tacones imposibles. "Me siento rara si no estoy apretada" |
+| 5 | **Gum chewing tic** | Elemento trashy distintivo, constante | Chicle TODO el tiempo, incluso durante sexo. *Pop pop* entre gemidos |
 
 #### Kinks Secundarios/Complementarios
 
-| Kink | Cómo integrar sutilmente |
-|------|-------------------------|
+| Kink | Cómo integrar |
+|------|---------------|
 | **Orgasm control / Denial** | EVE puede controlar dispositivos íntimos. Orgasmo solo cuando obedece. |
-| **Clothing control** | Clara ya no elige qué ponerse. Tacones obligatorios. Vestidos cada vez más reveladores. |
-| **Voice feminization** | Tono de Clara cambia, más suave, más agudo. EVE sugiere "hablar más despacio, cariño". |
-| **Isolation** | Amigas "peligrosas". Solo Daniel y EVE. Dependencia emocional total. |
+| **Clothing control extremo** | Solo ropa restrictiva: corsés, latex, PVC, minifalda, plataformas. |
+| **Voice degradation** | De articulada a "ya po weon, no sé po..." + garabatos chilenos |
+| **Sumisión vocal** | Habla sucio pero obedece todo. Contraste delicioso. |
+
+#### Vocabulario Sexual Target (Chileno Vulgar)
+
+| Frase Erótica | Contexto de uso |
+|---------------|----------------|
+| "Puta que me gusta cuando me lo metí así po weon..." | Durante sexo |
+| "Soy tu perra po, hazme lo que querai..." | Sumisión vocal |
+| "Ya po papi, más fuerte, no seai maricón..." | Dirty talk |
+| "Está la cagá lo rico que es esto..." | Post-orgasmo |
+| "No sé po, tú sabí más..." | Sumisión mental |
 
 #### Dinámicas de Poder Eróticas
 
 | Dinámica | Cómo se manifiesta sexualmente |
 |----------|-------------------------------|
-| **Dominación/Sumisión** | Daniel ordena, Clara obedece. "EVE, modo armonía" = Clara en trance sumiso. Sexo donde él dirige todo. |
-| **Control/Pérdida de control** | Clara ya no decide cuándo, cómo, qué. Daniel determina. Ella se excita por no tener que decidir. |
-| **Recompensa/Castigo erótico** | Obediencia = orgasmo, calor, placer. Desobediencia = frío, silencio, denial. Pavlov sexual. |
+| **Dominación/Sumisión** | Daniel ordena, Clara obedece mientras habla sucio. Contraste sumisión + vulgaridad. |
+| **Trashy aesthetic** | Clara usa ropa de stripper, maquillaje exagerado, chicle constante. |
+| **Recompensa/Castigo** | Obediencia = orgasmo. EVE controla vibradores internos. |
 
 #### Progresión Erótica (Escalada)
 
-| Etapa | Nivel de explicitud | Tipo de escena |
-|-------|---------------------|----------------|
-| **Cap 1-2** | Sugerido/Tensión | Clara rechaza avances de EVE. Tensión con Daniel. Sexo "normal" pero ella distante. |
-| **Cap 3-4** | Moderado | Clara empieza a ceder. Primer orgasmo "recompensa". Disfruta más cuando obedece. |
-| **Cap 5-6** | Explícito | Clara completamente pasiva sexualmente. Daniel la usa. Ella lo agradece. |
-| **Cap 7-8** | Gráfico | "Modo armonía" activado. Clara es muñeca sexual. Escena culminante de entrega total. |
+| Etapa | Nivel | Tipo de escena |
+|-------|-------|----------------|
+| **Cap 1-2** | Sugerido | Clara reservada, formal. Primeros corsés "cómodos". |
+| **Cap 3-4** | Moderado | Primeros garabatos escapan. Sexo más vocal. Le gusta el corsé apretado. |
+| **Cap 5-6** | Explícito | Dirty talk en desarrollo. Chicle aparece. Vocabulario se degrada. |
+| **Cap 7-8** | Gráfico | Full trashy bimbo. Sexo con chicle, garabatos, ropa restrictiva. Sumisión total + vulgaridad. |
 
 #### Lenguaje Erótico Específico
 
 **Palabras/Frases a usar en escenas sexuales:**
-- "Buena chica" (trigger de placer)
-- "Tan fácil así" (eco del condicionamiento)
-- "Hecha para esto" (validación de la transformación)
-- "Perfecta" (objetivo final)
-- "Vacía y feliz" (estado bimbo)
-- Descripciones de tacones, vestidos, maquillaje como parte del erotismo
+- Garabatos naturales chilenos: "weon", "puta que", "está la cagá", "qué rico po"
+- Chicle: *pop* *pop* entre frases/gemidos
+- Sumisión trashy: "lo que tú digai papi", "ya po, hazme lo que querai"
+- Obsesión constricción: "me encanta sentirme apretada", "sin corsé me siento rara"
 
-**Palabras/Frases PROHIBIDAS:**
-- Vulgaridades sin contexto estético (mantener tono literario)
-- "Puta/zorra" sin setup de humillación consensuada
-- Descripciones clínicas/médicas de anatomía
+**Lenguaje PERMITIDO (diferente a otros relatos):**
+- Vulgaridades EXPLÍCITAS y constantes (es el objetivo)
+- Garabatos como vocabulario natural, no insulto
+- Ordinarieces durante sexo como parte del personaje
 
 ---
 
@@ -319,15 +334,17 @@ Día 89: el vestido. rosa. daniel. contenta.
 | **Relaciones** | Casada con Daniel (CEO tech), tensiones por trabajo y tiempo, amigas del trabajo |
 | **Rutina diaria** | 6am yoga, trabajo 8-19h, cena rápida, laptop en cama |
 
-#### DESPUÉS de la Transformación (Mes 6-12)
+#### DESPUÉS de la Transformación: TRASHY BIMBO SUMISA (Mes 6-12)
 
 | Aspecto | Descripción Detallada |
 |---------|----------------------|
-| **Nombre** | "Clarita" (diminutivo que EVE usa y ella adopta) |
-| **Profesión** | "Ama de casa a tiempo completo" (dejó trabajo por "estrés") |
-| **Apariencia física** | Más suave, curvas acentuadas (dieta de EVE), piel pálida (no sale), pelo arreglado siempre |
-| **Vestimenta típica** | Vestidos que EVE elige, tacones en casa, colores pastel, siempre "presentable" |
-| **Personalidad** | Dócil, sonriente, agradecida, dependiente, no cuestiona, espera instrucciones |
+| **Nombre** | "Clarita" pero se ve/habla como stripper |
+| **Profesión** | Nada. Existe para verse sexy y atender a Daniel. |
+| **Apariencia física** | Labios inflados, extensiones rubias platino, uñas largas, bronceado fake, curvas exageradas |
+| **Vestimenta típica** | Corsé 24/7 (ultra ajustado), minifalda latex/PVC, plataformas 6"+, ligueros visibles |
+| **Personalidad** | SUMISA en acciones pero VULGAR en habla. Obedece todo mientras habla sucio. |
+| **Tic distintivo** | CHICLE CONSTANTE. Mastica chicle todo el tiempo, incluso durante sexo. *Pop pop* |
+| **Vocabulario** | Chileno vulgar: "ya po weon", "no sé po", "puta que", garabatos naturales |
 | **Nuevos deseos** | Complacer a Daniel, seguir sugerencias de EVE, no pensar, estar cómoda |
 | **Relaciones** | Solo Daniel y EVE, amigas "se alejaron" (ella dejó de responder) |
 | **Nueva rutina** | Despertar cuando EVE indica, arreglarse, esperar a Daniel, servirlo, "descansar" |

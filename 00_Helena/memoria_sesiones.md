@@ -126,7 +126,7 @@
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
 - **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
 - **Reality Show "The Dollhouse"** — CAP 5 COMPLETO. HTML publicado.
-- **Treinta Días de Sombra y Seda** — FASE 2 (Arco) completada. Drag Queen guide integrated.
+- **Treinta Días de Sombra y Seda** — ⏸️ PAUSADO (similar a HR). Borrador completo archivado.
 - Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
 - Tetitas II â€” Solo investigaciÃ³n/arco
 - Luna Secuestro â€” 6 caps escritos, pendiente revisiÃ³n
