@@ -17,7 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
 | **Capítulo en Progreso** | Pendiente: FASE 3 (Escritura - 8 capítulos) |
 | **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
-| **Último Look Helena** | **38 - Victorian Mourning** (22/01/2026) |
+| **Último Look Helena** | **39 - Cyber Goth Oracle** (22/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 

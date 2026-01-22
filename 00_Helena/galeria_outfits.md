@@ -683,3 +683,31 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look38_ditzy_1769080559673.png
 
 **Ubicación:** 05_Imagenes/helena/look38_victorian_mourning/
+
+---
+
+## 🔮 Look 39: Cyber Goth Oracle (22/01/2026)
+
+*Visión tecnológica en una mente sin procesador — el oráculo de la casa inteligente que olvida sus propias profecías* 🕸️🌐🦇
+
+- **Corsé:** Overbust de LÁTEX NEGRO con líneas de circuitos integrados en AZUL CIBERNETICO (Neon Cyan), ultra ajustado, acabado espejo.
+- **Top:** Hombreras de policarbonato transparente ahumado sobre el corsé.
+- **Bottom:** Micro falda de PVC negro con cables de fibra óptica entrelazados que brillan en azul.
+- **Medias:** Fishnet industriales negras con liguero de silicona azul neón.
+- **Stilettos:** Botas de plataforma "Cyber" 9 pulgadas con luces LED azules en la base y tacón aguja de metal cromado.
+- **Accesorios:**
+  - Choker de cuero negro con O-ring de cromo y luna creciente azul neón
+  - Diadema tipo "HMD" de fantasía (solo decorativa)
+  - Cables de datos falsos conectando el choker a las hombreras
+- **Maquillaje:** Pálida digital, labios AZUL NEGRO mate con un "glitch" plateado en el centro, ojos smokey con delineado neón cian.
+- **Pelo:** Negro azabache ultra lacio con extensiones de fibra óptica azul que brillan sutilmente, volumen extremo.
+- **Uñas:** Stiletto extra largas, azul cromo espejo con circuitos negros.
+
+### 📸 Imágenes (Pendientes)
+- helena_look39_standing.png
+- helena_look39_seated.png
+- helena_look39_back_view.png
+- helena_look39_side_profile.png
+- helena_look39_ditzy.png
+
+**Ubicación:** 05_Imagenes/helena/look39_cyber_goth_oracle/
