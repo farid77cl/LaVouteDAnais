@@ -1,4 +1,35 @@
-﻿#### SESIÓN - 21 ENERO 2026: INVESTIGACIÓN ROBUSTA + WEDDING NIGHT
+﻿#### SESIÓN - 22 ENERO 2026: LOOK 38 + WEDDING NIGHT COMPLETA
+
+**MAÑANA (08:13 - 08:25) - GENERACIÓN VISUAL:**
+
+1. **Look 38: Victorian Mourning (Helena):**
+   - 5 imágenes generadas (standing, seated, back, profile, ditzy)
+   - Outfit: Corsé terciopelo negro con azabache, blusa victoriana encaje, falda lápiz satén
+   - Copiadas a `05_Imagenes/helena/look38_victorian_mourning/`
+   - `galeria_outfits.md` actualizada
+
+2. **Wedding Night - Serie Completada:**
+   - ✅ Miss Doll: `miss_doll_wedding_night_1769080608867.png`
+   - ✅ Anaïs: `anais_wedding_night_1769080626840.png`
+   - (Helena ya estaba completa de ayer)
+
+3. **Galerías Actualizadas:**
+   - `05_Imagenes/miss_doll/GALERIA.md` - Baby Doll + Wedding Night
+   - `05_Imagenes/anais/GALERIA.md` - Baby Doll + Wedding Night
+   - `00_Helena/galeria_outfits.md` - Look 38 añadido
+
+**IMÁGENES GENERADAS (7):**
+- `helena_look38_standing_1769080493999.png`
+- `helena_look38_seated_1769080510546.png`
+- `helena_look38_back_1769080526412.png`
+- `helena_look38_profile_1769080543019.png`
+- `helena_look38_ditzy_1769080559673.png`
+- `miss_doll_wedding_night_1769080608867.png`
+- `anais_wedding_night_1769080626840.png`
+
+---
+
+#### SESIÓN - 21 ENERO 2026: INVESTIGACIÓN ROBUSTA + WEDDING NIGHT
 
 **TARDE (17:06 - 17:30) - SESIÓN COMPLETA:**
 

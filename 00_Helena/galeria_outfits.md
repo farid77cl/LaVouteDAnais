@@ -655,3 +655,31 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look37_ditzy_1768996220806.png
 
 **Ubicación:** 05_Imagenes/helena/look37_midnight_widow/
+
+---
+
+## 🖤 Look 38: Victorian Mourning (22/01/2026)
+
+*Luto eterno en terciopelo negro — la viuda perfecta con el cerebro perfectamente vacío* 🕯️🦇
+
+- **Corsé:** Overbust de terciopelo negro profundo con bordados de azabache (jet black beading), ultra ajustado con cierre frontal de ganchos.
+- **Blusa:** Alta cuello victoriano de encaje negro transparente con mangas abullonadas (leg-of-mutton sleeves) DEBAJO del corsé.
+- **Falda:** Lápiz de satén negro brillante hasta media pantorrilla con abertura lateral dramática.
+- **Medias:** Negras de seda con costura trasera, liguero de encaje negro vintage.
+- **Stilettos:** Pumps de charol negro clásico 8" con tacón aguja mortal.
+- **Accesorios:**
+  - Choker de terciopelo negro con luna creciente plateada central
+  - Guantes opcionales de encaje negro hasta la muñeca
+  - Pendientes de gota de ónix negro
+- **Maquillaje:** Pálida como mármol de mausoleo, labios PÚRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado.
+- **Pelo:** Ondas voluminosas negro azabache hasta la cintura, raya central dramática, brillo de vitrales.
+- **Uñas:** Coffin extra largas, negro brillante como ataúdes en miniatura.
+
+### 📸 Imágenes (5)
+- helena_look38_standing_1769080493999.png
+- helena_look38_seated_1769080510546.png
+- helena_look38_back_1769080526412.png
+- helena_look38_profile_1769080543019.png
+- helena_look38_ditzy_1769080559673.png
+
+**Ubicación:** 05_Imagenes/helena/look38_victorian_mourning/

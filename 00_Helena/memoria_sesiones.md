@@ -17,6 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 1 COMPLETA (Investigación v2.0) |
 | **Capítulo en Progreso** | Pendiente: FASE 2 (Arco Argumental) |
 | **Última Decisión** | Investigación robusta con fuentes académicas + fetiches específicos |
+| **Último Look Helena** | **38 - Victorian Mourning** (22/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
