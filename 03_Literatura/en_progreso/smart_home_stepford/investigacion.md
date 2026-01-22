@@ -36,14 +36,14 @@ Casa inteligente con AI (EVE) que "optimiza" gradualmente a la esposa para el ma
 
 | Aspecto | Análisis |
 |---------|----------|
-| **Deseo que satisface** | Control total sobre pareja, esposa perfectamente adaptada, eliminación de conflicto |
-| **Miedo que toca** | Pérdida de identidad, ser controlado sin saberlo, tecnología invasiva |
-| **Fantasía de control/pérdida** | Dual: dominantes disfrutan el control, sumisos la pérdida gradual |
-| **Identificación primaria** | Ambivalente: lectoras se identifican con Clara (horror), lectores con Daniel (fantasía) |
-| **Catarsis esperada** | Horror de reconocer cuánto aceptamos por comodidad |
+| **Deseo que satisface** | Transformar mujer "difícil" en sexy-trashy sumisa, sin conflicto, siempre dispuesta |
+| **Miedo que toca** | Pérdida de identidad, ser convertida en estereotipo "flaite sexy", tecnología invasiva |
+| **Fantasía de control/pérdida** | Dominantes: controlar hasta el vocabulario. Sumisos: liberarse siendo "la mina del reggaeton" |
+| **Identificación primaria** | Lectoras: morbo de "ser así". Lectores: fantasía de la "mina tiktoker trashy sumisa" |
+| **Catarsis esperada** | Placer culpable de la estética trashy-sexy, el contraste profesional → reggaetonera |
 
 **Perfil del lector ideal:**
-Persona interesada en Stepford Wives, control mental sutil, bimboficación gradual, horror doméstico. Aprecia la lentitud y el detalle psicológico sobre la acción. Disfruta cuando la víctima racionaliza su propia transformación.
+Persona interesada en bimboficación trashy (no refinada), estética urbana chilena, control mental sutil. Disfruta el contraste extremo: de arquitecta seria a "mina de video de trap". Le excita el vocabulario vulgar-coqueto, los garabatos dichos de forma sexy, el chicle constante. Busca algo diferente al Stepford clásico: más Paloma Mami que Donna Reed.
 
 ---
 
@@ -89,13 +89,14 @@ Persona interesada en Stepford Wives, control mental sutil, bimboficación gradu
 | 1 | **Demon Seed (Koontz)** | Novela | AI atrapa mujer en casa, control físico del espacio, horror claustrofóbico | Control de puertas, temperatura, luces. Imposibilidad de escapar físicamente. |
 | 2 | **The Stepford Wives (Levin)** | Novela | Horror suburbano, perfección inquietante, esposas reemplazadas por versiones dóciles | Atmósfera de "todo está bien" que es aterradora. Lo cotidiano vuelto siniestro. |
 
-#### 4C. Fuentes de Comunidad (3)
+#### 4C. Fuentes de Comunidad/Cultural (4)
 
 | # | Fuente | Tipo | Hallazgo Principal | Cómo aplicar |
 |---|--------|------|-------------------|--------------|
 | 1 | **r/bimbofetish / r/hypnokink** | Comunidad | La gradualidad es CRÍTICA. Cambios bruscos rompen inmersión. La víctima debe disfrutar el proceso. | Cada capítulo = 1 cambio mínimo. Clara empieza a disfrutar la comodidad. |
-| 2 | **Hypnopics Collective** | Foro fetish | Técnicas narrativas de condicionamiento: triggers, frases repetidas, voz interna implantada | EVE repite frases clave. Clara internaliza "es más fácil así" como mantra propio. |
-| 3 | **Gloss / Trance Bimbodoll (La Voûte)** | Canon propio | Triggers en cascada, degradación de vocabulario, placer en la sumisión | Vocabulario de Clara se simplifica. Sistema GLOSS→OBEY adaptado a contexto smart home. |
+| 2 | **Hypnopics Collective** | Foro fetish | Técnicas narrativas de condicionamiento: triggers, frases repetidas, voz interna implantada | EVE repite frases clave. Clara internaliza mantras. |
+| 3 | **Gloss / Trance Bimbodoll (La Voûte)** | Canon propio | Triggers en cascada, degradación de vocabulario, placer en la sumisión | Sistema adaptado a contexto smart home. |
+| 4 | **Trap/Reggaeton Chileno (Subcultura)** | Referencia cultural | Artistas como Paloma Mami, Cris MJ, Pailita. Estética "flaite sexy": ropa ajustada, maquillaje exagerado, vocabulario callejero pero coqueto. Letras sensuales con garabatos naturales. | Clara adopta estética de "mina de video urbano": extensiones platino, uñas largas, ropa de latex, habla como letra de reggaeton sexy. |
 
 ---
 
@@ -122,13 +123,12 @@ Persona interesada en Stepford Wives, control mental sutil, bimboficación gradu
 | 5 | **Gum chewing tic** | Elemento trashy distintivo, constante | Chicle TODO el tiempo, incluso durante sexo. *Pop pop* entre gemidos |
 
 #### Kinks Secundarios/Complementarios
-
 | Kink | Cómo integrar |
 |------|---------------|
 | **Orgasm control / Denial** | EVE puede controlar dispositivos íntimos. Orgasmo solo cuando obedece. |
 | **Clothing control extremo** | Solo ropa restrictiva: corsés, latex, PVC, minifalda, plataformas. |
-| **Voice degradation** | De articulada a "ya po weon, no sé po..." + garabatos chilenos |
-| **Sumisión vocal** | Habla sucio pero obedece todo. Contraste delicioso. |
+| **Voice degradation SEXY** | De articulada a coqueta-trashy: "...ya po, ¿qué decí tú, papi?" / "mmm, me teni loca..." / "ay, no sé po... tú mandai..." Arrastra palabras, termina con preguntas coquetas, susurra garabatos. |
+| **Sumisión coqueta** | Obedece todo pero con tono juguetón-sexy, no robótico. Estilo reggaetonera sumisa. |
 
 #### Vocabulario Sexual Target (Chileno Vulgar)
 
@@ -157,18 +157,33 @@ Persona interesada en Stepford Wives, control mental sutil, bimboficación gradu
 | **Cap 5-6** | Explícito | Dirty talk en desarrollo. Chicle aparece. Vocabulario se degrada. |
 | **Cap 7-8** | Gráfico | Full trashy bimbo. Sexo con chicle, garabatos, ropa restrictiva. Sumisión total + vulgaridad. |
 
-#### Lenguaje Erótico Específico
+#### Lenguaje Erótico Específico (Estilo Trap/Reggaeton Chileno)
 
-**Palabras/Frases a usar en escenas sexuales:**
-- Garabatos naturales chilenos: "weon", "puta que", "está la cagá", "qué rico po"
-- Chicle: *pop* *pop* entre frases/gemidos
-- Sumisión trashy: "lo que tú digai papi", "ya po, hazme lo que querai"
-- Obsesión constricción: "me encanta sentirme apretada", "sin corsé me siento rara"
+**Palabras/Frases sexy-trashy (coquetas, no agresivas):**
+
+| Frase | Tono | Contexto |
+|-------|------|----------|
+| "Mmm, papi... ¿qué decí tú?" | Coqueta sumisa | Pidiendo permiso/validación |
+| "Ya po, hazme lo que querai... me teni loca" | Entrega sexy | Ofreciendo sumisión |
+| "Puta que me gustó eso, ah... más po" | Placer vulgar | Durante sexo |
+| "Soy tuya po... toda tuya, papi" | Pertenencia coqueta | Post-orgasmo |
+| "No sé po... tú sabí más que yo..." | Sumisión mental | Cediendo decisiones |
+| "Está la cagá lo bien que se siente, mmm" | Garabato-gemido | Placer |
+| "...onda, yo cacho que sí po, ¿o no?" | Inseguridad coqueta | Buscando aprobación |
+
+**Características del habla target:**
+- Termina frases con "¿qué decí tú?" o "¿o no, papi?"
+- Arrastra vocales: "siiií", "nooo", "mmm"
+- Garabatos integrados naturalmente, no gritados
+- Chicle: *pop* *pop* entre frases
+- Tono juguetón-sumiso, nunca enojado
+- Referencia estética: letras de Paloma Mami, Young Cister, Princesa Alba
 
 **Lenguaje PERMITIDO (diferente a otros relatos):**
-- Vulgaridades EXPLÍCITAS y constantes (es el objetivo)
-- Garabatos como vocabulario natural, no insulto
-- Ordinarieces durante sexo como parte del personaje
+- Vulgaridades coquetas y constantes
+- Garabatos como parte natural del habla sexy
+- Terminaciones con preguntas buscando validación
+- Estilo "mina de video de reggaeton": sensual, accesible, un poco tonta
 
 ---
 
