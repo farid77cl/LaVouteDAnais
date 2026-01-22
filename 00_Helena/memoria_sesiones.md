@@ -14,9 +14,9 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ✅ FASE 1 COMPLETA (Investigación v2.0) |
-| **Capítulo en Progreso** | Pendiente: FASE 2 (Arco Argumental) |
-| **Última Decisión** | Investigación robusta con fuentes académicas + fetiches específicos |
+| **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
+| **Capítulo en Progreso** | Pendiente: FASE 3 (Escritura - 8 capítulos) |
+| **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
 | **Último Look Helena** | **38 - Victorian Mourning** (22/01/2026) |
 
 ### Proyectos Secundarios/Pausados
