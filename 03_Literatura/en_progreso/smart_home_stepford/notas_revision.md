@@ -9,6 +9,7 @@
   - **CORRECCIÓN PENDIENTE (Ama):** La intervención de EVE es demasiado rápida. Darle una semana de análisis pasivo antes de empezar a sugerir cambios. No debe actuar el primer día. Ajustar timeline en revisión v2.
   - **LOGÍSTICA DEFINIDA (Ama):** EVE ordena la ropa por internet (e-commerce normal) basándose en los gustos/likes de Daniel. Los paquetes llegan a un buzón inteligente/conserjería y EVE notifica. Nada de drones sci-fi ni impresión mágica (salvo cosas chicas). Mantener realismo.
   - **CONFLICTO MARITAL (Ama):** Profundizar en la reacción de Clara ante los "likes" de Daniel. Ella debe sentirse ofendida/celosa de que su marido mire mujeres "plásticas/falsas" cuando ella es natural. Debe haber una discusión real sobre esto: "¿Eso es lo que te gusta? ¿Por qué estás conmigo entonces?".
+  - **ESTÉTICA DE LA CASA (Ama):** Enfatizar el diseño ultra-moderno: superficies blancas reflectantes, luces LED empotradas, espacios amplios, colores neutros. Debe sentirse estéril y clínica en contraste con el estilo "hippie chic" de Clara.
 
 ## Capítulo 2: Pequeñas Comodidades
 - [ ] Revisado por la Ama
