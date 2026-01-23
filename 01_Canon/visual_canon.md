@@ -58,7 +58,7 @@
 - **Vestimenta:** Catsuit de látex rosa flúor con CORSÉ EXTERNO VISIBLE
 - **Proporciones:** Silueta de reloj de arena hiperbólica
 - **Tacones:** Plataformas rosas 16-18cm
-- **Paleta:** Monocromo rosa (flúor, pastel, crema)
+- **Paleta:** Monocromo rosa (flúor, pastel, crema) y ANIMAL PRINT (Leopardo/Cheetah de lujo)
 
 ### Actitud Escénica — ESENCIA MISS DOLL
 

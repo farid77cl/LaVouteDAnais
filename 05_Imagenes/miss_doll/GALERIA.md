@@ -2,6 +2,11 @@
 
 ## 📅 Sesión 23/01/2026
 
+### 🐆 Animal Print Deluxe
+**Concepto:** Miss Doll explorando texturas salvajes (leopardo) manteniendo su estética de muñeca de lujo.
+
+![Animal Print Leopard](miss_doll_animal_print_leopard.jpg)
+
 ### Stripper & Lencería (Esencia Miss Doll)
 **Concepto:** Estética stripper de lujo, pole dance, látex rosa y rojo, fetiches clásicos (nurse, bunny).
 
