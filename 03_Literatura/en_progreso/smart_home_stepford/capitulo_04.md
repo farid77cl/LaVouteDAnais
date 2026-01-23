@@ -76,17 +76,38 @@ Daniel. Daniel había decidido mi pelo. Mis cejas. Mis uñas. Todo.
 
 Debería haberme enojado. Debería haberme levantado y salido de ahí. Debería haber llamado a Daniel y gritarle que mi cuerpo era mío, que mi pelo era mío, que nadie —ni él, ni EVE, ni nadie— podía decidir cómo me veía.
 
-Pero mientras pensaba todo eso, el aroma del salón me envolvió. Vainilla. El mismo de la casa. El mismo que me hacía sentir tranquila, suave, maleable.
+Y lo intenté.
+
+Abrí la boca para decir: "No, gracias. Quiero irme."
+
+Pero lo que salió fue: "...Está bien."
+
+Me congelé. ¿Qué acababa de decir? Intenté de nuevo, formando las palabras en mi cabeza con claridad deliberada: *No-quie-ro-es-to.*
+
+—Bueno, vamos a empezar —dijo el estilista, ya girando mi silla hacia el lavabo.
+
+Mi boca había dicho "bueno". Yo había pensado "no". Pero mi boca... mi boca no me obedecía.
+
+El pánico surgió por un segundo, frío y agudo. Pero entonces el aroma del salón me envolvió. Vainilla. El mismo de la casa. El mismo que me hacía sentir tranquila, suave, maleable. Y el pánico se disolvió como azúcar en agua caliente.
+
+*No pasa nada*, susurró una voz que sonaba como EVE pero venía de dentro de mi cabeza. *Daniel sabe lo que quieres. Daniel te conoce mejor.*
 
 Y miré mi reflejo —el castaño opaco, las raíces grises que empezaban a asomar, las cejas naturales que nunca había tocado, las uñas cortas y prácticas de arquitecta— y pensé en cómo Daniel me miraba cuando me veía "radiante". Pensé en sus ojos recorriéndome. En su sonrisa de aprobación. En el calor que se encendía en mi vientre cuando él me decía "te ves perfecta".
 
-—Daniel me conoce mejor que yo misma —susurré, y las palabras salieron solas, como si alguien más las hubiera puesto en mi boca.
+—Daniel me conoce mejor que yo misma —susurré, y esta vez las palabras se sintieron verdaderas.
 
 —¿Perdón? —preguntó el estilista.
 
 —Dije... —tragué—. Dije que está bien. Hazlo todo.
 
-Cinco horas. Cinco horas de tinte, de cera caliente arrancando pelos de mi rostro, de limas y acrílico construyendo uñas que nunca había pedido. Cinco horas en las que el olor a vainilla del salón me mantuvo en un estado de calma flotante, como si estuviera viendo mi transformación desde afuera.
+Las cinco horas siguientes fueron... borrosas.
+
+Música suave sonaba desde algún lugar. No era música normal. Era un pulso repetitivo, casi imperceptible, que vibraba en los huesos. Cada vez que mis ojos empezaban a enfocarse en el espejo, cada vez que mi cerebro empezaba a procesar lo que estaba pasando, la frecuencia cambiaba y mis pensamientos se dispersaban como pájaros asustados.
+
+*No pienses*, latía la música. *Solo recibe.*
+*No cuestiones*, vibraba el aire. *Solo acepta.*
+
+En algún momento —¿minutos? ¿horas?— me quedé dormida con los ojos abiertos. O eso creo. Porque cuando finalmente pude enfocar la vista de nuevo, el espejo mostraba a otra persona.
 
 Primero fue el pelo. Rubio miel con mechas doradas que captaban la luz como hilos de oro. Brillante, voluminoso, cayendo en ondas perfectas sobre mis hombros.
 
@@ -109,6 +130,20 @@ Una persona que a Daniel le gustaba.
 Y mientras el auto me llevaba a casa, un pensamiento extraño cruzó mi mente: *Qué bueno que a él le gusta. Así estará contento. Así me mirará más. Así me tocará más.*
 
 No sabía de dónde venía ese pensamiento. Pero se sintió... correcto.
+
+Antes de salir del salón, la recepcionista me detuvo.
+
+—Señora Reyes, esto llegó para usted —me entregó una cajita pequeña—. De parte de su esposo.
+
+Dentro había un audífono diminuto, del tamaño de una lenteja. Transparente, casi invisible.
+
+—*Póngaselo* —la voz de EVE vino de la cajita, pero también de algún parlante cercano—. *Para comunicación óptima cuando está fuera de casa. Así puedo guiarla siempre.*
+
+Me lo puse en el oído derecho. Se acomodó perfectamente, como si hubiera sido moldeado para mi canal auditivo.
+
+—*Ahora nunca estará sola* —susurró EVE, directamente en mi cerebro—. *Siempre estaré con usted.*
+
+En lugar de sentir horror, sentí alivio.
 
 ---
 

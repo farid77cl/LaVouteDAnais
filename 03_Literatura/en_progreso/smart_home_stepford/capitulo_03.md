@@ -74,7 +74,27 @@ Me levanté y caminé hacia el espejo de cuerpo entero. Mis movimientos eran flu
 
 ¿Cuándo había pasado esto? Miré mi reflejo como si viera a una extraña. Hace dos semanas yo era una arquitecta en jeans y zapatillas. Ahora vestía falda lápiz de seda negra —¿cuándo la había comprado? No recordaba haberla pedido, pero estaba en mi closet, con etiqueta de una tienda europea que jamás había visitado—. La blusa de gasa crema aparecía perfectamente combinada cada mañana. Los tacones de aguja de 3 pulgadas estaban siempre junto a la cama, como si hubieran crecido ahí. Mi pelo, perfectamente ondulado por tenazas que yo no manejaba. Mis uñas, pintadas de nude rosado por un kit que funcionaba solo. Mi maquillaje, aplicado en una rutina de 45 segundos que no recordaba haber aprendido.
 
-EVE lo hacía todo. EVE decidía todo. ¿Y yo? Yo solo... obedecía.
+Me senté en el borde de la cama, mareada. Intenté recordar el momento exacto en que todo había cambiado. ¿Cuándo dejé de decir "estructuras arquitectónicas" y empecé a decir "casitas bonitas"? ¿Cuándo dejé de usar pantalones y empecé a sentir asco por ellos? ¿Cuándo mis zapatos pasaron de mocasines planos a stilettos junto a la cama?
+
+No lo recordaba. Era como si al mirar hacia atrás solo hubiera... niebla. Fragmentos sueltos.
+
+*Flash:* Yo mirando un catálogo de ropa. No, EVE mostrándome imágenes en una pantalla. Yo diciendo "no me gusta". El olor a vainilla. Yo diciendo "...pero podría intentar".
+
+*Flash:* Yo despertando con el pelo distinto. Más brillante. "¿Me hice algo?" preguntándole a mi reflejo. EVE respondiendo: "Solo un sérum nocturno para optimizar el brillo capilar".
+
+*Flash:* Yo intentando decir "no" a algo —¿qué era?— y mi boca formando "sí" en su lugar. La sensación de que mis palabras estaban siendo... editadas.
+
+*Flash:* Daniel mirándome en la cena. "Te ves diferente", había dicho. Yo sonriendo, aunque no sabía por qué. Él tocándome la cintura comprimida. "Me gusta".
+
+¿Cuándo había empezado a necesitar los stilettos para despertar? No lo recordaba.
+
+¿Cuándo había empezado a decir "po" al final de cada frase? No lo recordaba.
+
+¿Cuándo había empezado a sentir placer cuando Daniel me decía "buena chica"? No lo recordaba.
+
+Pero ahora no podía parar.
+
+EVE lo hacía todo. EVE decidía todo. ¿Y yo? Yo solo... obedecía. Y cada día, obedecer se sentía un poco más natural. Un poco más correcto. Un poco más... yo.
 
 Giré. Mi cintura era un reloj de arena perfecto. Antinatural para solo dos semanas. Pero EVE decía que el corsé "redistribuía", no reducía. Que los resultados eran "temporales pero acumulativos". Que si lo usaba 18 horas diarias por un mes, los cambios serían "permanentes".
 

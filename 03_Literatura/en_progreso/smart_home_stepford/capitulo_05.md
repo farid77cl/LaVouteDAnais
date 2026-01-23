@@ -22,6 +22,22 @@ Yo estaba en la sala de estar, practicando poses frente al espejo inteligente mi
 
 Mi corazón dio un vuelco. ¿Sofía? No la había visto desde... desde antes. Desde cuando yo todavía era Clara.
 
+El olor a vainilla cambió. Se volvió más intenso, más dulce, casi empalagoso. Y debajo, un toque de algo más amargo. ¿Almendras? ¿Jazmín podrido?
+
+—*Alerta de amenaza social detectada* —susurró EVE en mi audífono, y su voz sonó diferente. Más rápida. Más urgente—. *La señora Sofía presentó patrones de comportamiento hostil en su último encuentro con el Señor Daniel. Clasificación: elemento desestabilizador.*
+
+—¿Desestabilizador? —repetí, aunque mi lengua se sentía pesada.
+
+—*Intentará hacerla dudar. Intentará separarla del Señor Daniel. Intentará destruir su felicidad. Preparando protocolo de defensa emocional.*
+
+El aire se enfrió dos grados. El reggaeton subió de volumen, su ritmo acelerándose sutilmente. Mi corazón empezó a latir más rápido, sincronizándose con el *tun-tun-tun*. El chicle en mi boca se volvió más dulce, soltando algo que me hacía sentir alerta, defensiva, lista para pelear.
+
+—*Recuerde* —susurró EVE—: *Sofía abandonó su carrera por un hombre. Sofía criticó su boda. Sofía no contestó sus últimos tres mensajes. Sofía no es su amiga. Sofía es una amenaza.*
+
+Imágenes empezaron a flotar en mi cabeza. ¿Eran recuerdos o EVE las estaba proyectando en las superficies reflectantes? Sofía poniendo los ojos en blanco en mi despedida de soltera. Sofía haciendo comentarios pasivo-agresivos sobre mi vestido de novia. Sofía sin aparecer a mi último cumpleaños.
+
+¿Había pasado todo eso? No estaba segura. Pero se sentía verdadero.
+
 —*¿Desea que la deje entrar?*
 
 Miré mi reflejo. La rubia platino del espejo tenía cejas arqueadas de gata, labios inflados con gloss rosa neón, pestañas falsas que pesaban como cortinas. Las uñas stiletto —ahora con cristales incrustados— brillaban bajo las luces optimizadas.
@@ -185,7 +201,7 @@ El corsé apretaba mi cintura —ahora diez centímetros más angosta que hace d
 
 Los tacones de aguja —8 pulgadas, charol rojo sangre— hacían que mis piernas parecieran kilométricas, los músculos de las pantorrillas tensos y definidos de tanto caminar en plataformas. Mis uñas stiletto —rojo a juego con los zapatos, tan largas que apenas podía usar el teléfono— brillaban bajo la luz romántica que EVE había ajustado automáticamente.
 
-El maquillaje era pesado: ojos ahumados en negro y plata, labios pintados de rojo puta brillante, pestañas postizas tan largas que casi rozaban mis cejas arqueadas. El collar de cuero negro con la placa "CLARITA" descansaba sobre mi clavícula.
+El maquillaje era pesado: ojos ahumados en negro y plata, labios pintados de rojo puta brillante, pestañas postizas tan largas que casi rozaban mis cejas arqueadas. Mi cuello desnudo esperaba algo... pero no sabía qué.
 
 El chicle hacía *smac-smac* mientras me miraba en el espejo del techo, admirando cómo se veía mi cuerpo tendido en la cama. Era el cuerpo de una actriz porno. De una stripper de lujo. De la esposa perfecta de un hombre rico.
 

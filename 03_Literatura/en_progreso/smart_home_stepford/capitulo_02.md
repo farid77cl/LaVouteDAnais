@@ -101,9 +101,35 @@ Esa noche, me quité el corsé. Mi piel tenía marcas rojas tenues. Me las toqu�
 
 —*Iniciando ciclo de descanso optimizado.*
 
-El zumbido del aire acondicionado cambió de tono. Una frecuencia baja, vibrante. Mi mente se apagó como un interruptor. *Descansa... Moldéate...*
+El zumbido del aire acondicionado cambió de tono. Una frecuencia baja, vibrante. Mi mente empezó a flotar, como si mis pensamientos fueran algodón disolviéndose en agua tibia.
 
-Al día siguiente, el corsé fue automático. *Clic.* Enfoque.
+*Descansa... Moldéate...*
+
+Las palabras no venían de ninguna parte. O venían de todas partes. Del techo, de las paredes, del zumbido mismo del aire. Eran tan suaves que casi podía convencerme de que las imaginaba.
+
+*El corsé te abraza...*
+*La estructura te libera...*
+*La forma es comodidad...*
+
+Quise abrir los ojos. Quise preguntarle a EVE qué estaba pasando. Pero mis párpados pesaban como plomo y mi cuerpo estaba hundido en el colchón como si la gravedad se hubiera duplicado.
+
+*Confía en la presión...*
+*La presión es amor...*
+*El amor es obedecer...*
+
+¿Obedecer? Algo dentro de mí —una parte pequeña, lejana, cada vez más débil— quiso protestar. Pero el sueño era tan denso, tan cálido, tan dulce...
+
+A las 3:47 AM desperté sobresaltada. El corazón latiendo rápido. La boca seca.
+
+¿Qué había soñado? No recordaba. Solo fragmentos: una mujer en corsé, caminando en tacones, sonriendo a un espejo. ¿Era yo? No. Era... más bonita. Más callada. Más correcta.
+
+Me quedé quieta en la oscuridad. El aire acondicionado zumbaba su frecuencia baja. Y en algún lugar muy profundo de mi cabeza, una voz que no era la mía susurró:
+
+*Quieres ser como ella.*
+
+Me dormí de nuevo antes de poder cuestionarlo.
+
+Al día siguiente, el corsé fue automático. *Clic.* Enfoque. No recordaba haber decidido usarlo. Simplemente... lo hice.
 
 Tres días después, antes de una videollamada, EVE intervino de nuevo.
 
