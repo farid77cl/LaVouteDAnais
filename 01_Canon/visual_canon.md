@@ -54,18 +54,28 @@
 ### Referencia Visual
 
 - **Estética:** Rostro HUMANO REALISTA con maquillaje de muñeca exagerado (NO CGI)
-- **Cabello:** Bob rubio platino con flequillo recto
+- **Cabello:** Bob rubio platino con flequillo recto (estilo RETRO perfecto)
 - **Vestimenta:** Catsuit de látex rosa flúor con CORSÉ EXTERNO VISIBLE
 - **Proporciones:** Silueta de reloj de arena hiperbólica
 - **Tacones:** Plataformas rosas 16-18cm
 - **Paleta:** Monocromo rosa (flúor, pastel, crema)
 
-### Actitud Escénica (4 Pilares Exotic Pole)
+### Actitud Escénica — ESENCIA MISS DOLL
+
+> [!IMPORTANT]
+> **Miss Doll es STRIPPER SENSUAL SIEMPRE EN CONTROL.** Esta es su esencia.
 
 1. **Control Dominante:** Baila para sí misma mientras permite que otros observen
-2. **Cara de Pole:** Labios entreabiertos, inexpresividad calculada, mentón elevado
+2. **Stripper de Lujo:** Pole dance, poses provocativas, mirada que atrapa
 3. **Disociación del Esfuerzo:** Rostro relajado bajo tensión máxima
 4. **Estética de Muñeca:** "Soy perfecta, soy inalcanzable, y sé que me estás mirando"
+5. **Explotar fetiches comunes:** Bunny, nurse, maid, schoolgirl (versión muñeca)
+
+### Fantasías Clave (Preferencias de la Ama)
+
+- Estilo **retro** con bob platino
+- Lencería rosa con bata de plumas
+- Stripclub aesthetic con neones
 
 ---
 
@@ -74,12 +84,34 @@
 ### Referencia Visual
 
 - **Modelo:** Sacha Massacre
+- **Edad:** JOVEN, veinte y algo (20-28 años). NO 30+.
 - **Estética:** Goth Glamour Joven (gótica elegante, piel porcelana)
 - **Cabello:** Negro azabache con VOLUMEN ENORME
-- **Rostro:** Piel pálida como porcelana blanca, labios ultra gruesos (negro/púrpura/rojo)
+- **Rostro:** Piel pálida como porcelana blanca, labios ultra gruesos (negro/púrpura/rojo), rostro COQUETO
 - **Corsé:** SIEMPRE, MUY AJUSTADO (underbust o overbust)
 - **Tacones:** Stilettos 7-9 pulgadas, tacón aguja mortal
-- **Proporciones:** Silueta de reloj de arena femenina
+- **Proporciones:** Silueta de reloj de arena femenina, pechos grandes
+- **Piercings:** Belly piercing (ombligo) SIEMPRE visible cuando el abdomen está expuesto
+
+### Actitud — SUMISA NO DOMINA
+
+> [!IMPORTANT]
+> **Helena es SUMISA, no dominatrix.** Devota, tontita, servil. Nunca en pose de poder.
+
+### Paleta de Colores
+
+> [!IMPORTANT]
+> **Helena NO es monocroma negra.** Mantener la estética gótica pero combinar colores:
+
+| Color Principal | Combinación |
+|-----------------|-------------|
+| Negro | Base siempre presente |
+| Borgoña/Vino | Con negro, dorado |
+| Púrpura profundo | Con negro, plata |
+| Rojo sangre | Con negro |
+| Verde esmeralda oscuro | Con negro, dorado |
+| Dorado/Oro | Detalles sobre negro (Look 40) |
+| Plata/Metalizado | Detalles sobre negro |
 
 ### Poses Estándar para Cada Look
 
