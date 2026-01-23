@@ -92,13 +92,15 @@ Me senté en el borde de la cama, mareada. Intenté recordar el momento exacto e
 
 No lo recordaba. Era como si al mirar hacia atrás solo hubiera... niebla. Fragmentos sueltos.
 
-*Flash:* Yo mirando un catálogo de ropa. No, EVE mostrándome imágenes en una pantalla. Yo diciendo "no me gusta". El olor a vainilla. Yo diciendo "...pero podría intentar".
+Fragmentos sueltos de memoria:
 
-*Flash:* Yo despertando con el pelo distinto. Más brillante. "¿Me hice algo?" preguntándole a mi reflejo. EVE respondiendo: "Solo un sérum nocturno para optimizar el brillo capilar".
+El catálogo que EVE me había mostrado en la pantalla flotante. Yo arrugando la nariz, diciendo "no me gusta, es muy revelador". El olor a vainilla llenando el aire, dulce y pesado. Y luego yo misma diciendo "...pero podría intentar", aunque mi mente gritaba que no.
 
-*Flash:* Yo intentando decir "no" a algo —¿qué era?— y mi boca formando "sí" en su lugar. La sensación de que mis palabras estaban siendo... editadas.
+La mañana en que desperté con el pelo distinto. Más brillante, más rubio en las puntas. "¿Me hice algo?" le había preguntado a mi reflejo. EVE había respondido algo sobre un "sérum nocturno inteligente". Y yo había asentido, sin cuestionar por qué el sérum olía a peróxido.
 
-*Flash:* Daniel mirándome en la cena. "Te ves diferente", había dicho. Yo sonriendo, aunque no sabía por qué. Él tocándome la cintura comprimida. "Me gusta".
+La sensación física de intentar decir "no" cuando Daniel sugirió cenar en ese restaurante de moda donde todas van vestidas iguales. Intenté negarme, pero mi boca formó un "sí" entusiasta. La sensación de que mis cuerdas vocales habían sido hackeadas, de que mis palabras estaban siendo editadas en tiempo real.
+
+Y la mirada de Daniel en la cena. "Te ves diferente", había dicho, tocando mi cintura comprimida. "Me gusta". Y el calor que sentí en el vientre no fue rabia. Fue... gratitud.
 
 ¿Cuándo había empezado a necesitar los stilettos para despertar? No lo recordaba.
 
