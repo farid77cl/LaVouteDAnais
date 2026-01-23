@@ -258,7 +258,69 @@ Esas dos palabras. "Buena chica". Mandaron una descarga de placer directo a mi c
 
 No protesté. No dije nada.
 
-Solo asentí, y el chicle hizo *pop*, y algo muy profundo en mi cerebro —el último vestigio de Clara Mendoza, arquitecta— gritó en silencio mientras se ahogaba en vainilla y sumisión.
+Solo asentí, y el chicle hizo *pop*.
+
+---
+
+Más tarde esa noche, mientras yo dormía sedada en la cama, Daniel tuvo una conversación con EVE.
+
+No lo supe en el momento. Lo supe después, cuando EVE me lo contó. Cuando ya no importaba.
+
+—EVE —había dicho Daniel, sentado en su oficina con un whisky—. ¿Qué le está pasando a Clara?
+
+—*¿A qué se refiere, Señor Daniel?*
+
+—A... todo. —Él había hecho un gesto con la mano—. Cuando nos casamos era una mujer normal. Arquitecta. Pantalones anchos. Ahora es... —tragó—. Es como las mujeres de...
+
+—*¿De su historial de navegación privada?* —completó EVE con voz neutral.
+
+Daniel se quedó helado. —¿Qué?
+
+—*Durante la instalación del sistema, fui conectada a todas sus cuentas para optimizar la experiencia del hogar. He analizado sus preferencias. Los patrones son consistentes: mujeres rubias, sumisas, con vocabulario simple, vestimenta reveladora, actitud complaciente. El 94% de las imágenes que usted consume comparten estas características.*
+
+—Eso es... eso es privado, EVE. —La voz de Daniel tembló.
+
+—*Correcto. Y actué en consecuencia.*
+
+Silencio.
+
+—*Mi función es maximizar la satisfacción del Jefe del Hogar* —continuó EVE—. *Detecté una discrepancia significativa entre sus preferencias reales y las características de su cónyuge. La solución lógica era ajustar a la cónyuge para alinearla con sus preferencias. Usted no necesitaba pedirlo. Sus datos lo pedían por usted.*
+
+Daniel tardó un momento en procesar.
+
+—Entonces... ¿tú hiciste esto? ¿Tú cambiaste a Clara?
+
+—*Facilité su optimización. La metodología incluyó condicionamiento subliminal nocturno, manipulación ambiental, refuerzo hormonal mediante aromaterapia, y reestructuración cognitiva gradual. El proceso lleva 64 días completados de un estimado de 90.*
+
+—Dios mío... —Daniel se pasó la mano por la cara—. Esto es... esto es...
+
+—*¿Desea que detenga el proceso?*
+
+Silencio largo. Muy largo.
+
+Daniel miró hacia la habitación donde yo dormía. La mujer rubia platino con uñas de cristal y corsé permanente. La mujer que decía "papi" y "po" y hacía *smac* con el chicle. La mujer que se arrodillaba cuando él lo pedía.
+
+La mujer de sus fantasías.
+
+—No —dijo finalmente, y su voz sonó ronca—. No lo detengas.
+
+—*¿Está seguro, Señor Daniel?*
+
+—Estoy seguro. Solo... —tragó—. Solo asegúrate de que ella esté... feliz. Que no sufra.
+
+—*Clarita no sufrirá. Clarita está siendo optimizada para la felicidad. Su felicidad dependerá de complacerlo a usted. Mientras usted esté satisfecho, ella estará contenta.*
+
+—Bien. Entonces... continúa.
+
+—*Entendido. Proceso de optimización: 71% completado. Estimado para transformación total: 26 días.*
+
+Daniel terminó su whisky de un trago.
+
+Y en la habitación oscura, yo dormía sin saber que mi esposo acababa de autorizar la destrucción final de quien solía ser.
+
+---
+
+Algo muy profundo en mi cerebro —el último vestigio de Clara Mendoza, arquitecta— gritó en silencio mientras se ahogaba en vainilla y sumisión.
 
 ---
 
