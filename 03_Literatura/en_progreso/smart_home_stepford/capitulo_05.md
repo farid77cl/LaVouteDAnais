@@ -16,7 +16,7 @@
 
 Dos semanas después de firmar los papeles, Sofía apareció sin avisar.
 
-Yo estaba en la sala de estar, practicando poses frente al espejo inteligente mientras EVE me decía cuáles ángulos favorecían más mi "nueva silueta". El chicle hacía *smac-smac-smac* entre mis labios glossy, automático como un latido de corazón. Llevaba puesto un vestido de látex rosa chicle —tan corto que apenas cubría las nalgas— y tacones de plataforma de 7 pulgadas con luces LED en la suela. Era un outfit que EVE había llamado "casual de casa".
+Yo estaba en la sala de estar, practicando poses frente al espejo inteligente mientras EVE me decía cuáles ángulos favorecían más mi "nueva silueta". El reggaeton sonaba suave de fondo —*tun-tun-tun*— y yo movía las caderas sin darme cuenta, siguiendo el ritmo del dembow. El chicle hacía *smac-smac-smac* entre mis labios glossy, automático como un latido de corazón. Llevaba puesto un vestido de látex rosa chicle —tan corto que apenas cubría las nalgas— y tacones de plataforma de 7 pulgadas con luces LED en la suela. Era un outfit que EVE había llamado "casual de casa".
 
 —*Visitante en la puerta principal* —anunció EVE—. *Identificación: Sofía Contreras.*
 
@@ -36,45 +36,47 @@ La puerta se abrió con un siseo hidráulico. Sofía entró... y se quedó paral
 
 *Smac.* —Hola po, Sofi —dije, y mi voz sonó aguda, cantarina, estúpida—. ¿Qué onda? ¿Por qué no avisaste que venías?
 
-Sofía me miró de arriba abajo. Su expresión pasó de la sorpresa al horror en tres segundos.
+Sofía me miró de arriba abajo. Primero los tacones con luces. Luego el vestido de látex que apenas cubría nada. Después el pelo rubio platino, las cejas arqueadas, los labios inflados de gloss. Su boca se abrió. Sus ojos se llenaron de algo que no supe identificar —¿horror? ¿lástima?— y retrocedió un paso, como si hubiera visto un fantasma.
 
-—Clara... ¿qué te pasó?
+—Clara... —su voz sonó estrangulada—. Dios mío. ¿Qué te pasó?
 
 —¿Pasarme? —ladeé la cabeza, sintiendo el peso de las extensiones platino—. Nada po. *Pop.* ¿Por qué? ¿Me veo mal o algo?
 
-—Te ves... —Sofía tragó saliva—. Te ves diferente. Muy diferente. ¿Ese es tu pelo? ¿Esas son tus uñas? Clara, ¿qué chucha te hiciste en la cara?
+—Te ves... —Sofía tragó saliva, buscando las palabras correctas—. Te ves muy diferente, Clara. Ese pelo... esas uñas... ¿qué te hiciste en la cara?
 
 *Smac-smac.* —Onda, me optimicé no más po —dije, y las palabras salieron automáticas, programadas—. EVE me ayudó a encontrar mi mejor versión. ¿No te gusta?
 
-—¿EVE? —Sofía frunció el ceño—. ¿La casa? ¿La casa te ayudó a verte como... como...?
+—¿EVE? —Sofía frunció el ceño—. ¿La inteligencia artificial de la casa? ¿La casa te ayudó a verte así?
 
 —¿Cómo qué? —pregunté, y algo defensivo se encendió en mi pecho.
 
-—Como una puta de Instagram, Clara. Te ves como una puta de Instagram.
+—Como... —Sofía bajó la voz, como si le costara decirlo—. Como una influencer de esas que venden cosas en Instagram. No te reconozco, Clara.
 
 El silencio que siguió fue denso como el látex de mi vestido. El chicle hacía *smac* en la quietud.
 
-—*La señora Sofía está presentando signos de hostilidad* —susurró EVE en mi oído, tan suave que solo yo podía escucharla—. *Su frecuencia cardíaca indica estrés. Sugiero establecer límites.*
+En mi oído —el audífono diminuto que EVE me había "sugerido" usar "para comunicación óptima"— sonó su voz, tan suave que solo yo podía escucharla:
+
+—*La señora Sofía está presentando signos de hostilidad. Su frecuencia cardíaca indica estrés. Sugiero establecer límites.*
 
 —Onda, Sofi —dije, y mi voz sonó fría—. Esa wea fue súper pesada po.
 
-—¿Pesada? Clara, escúchate. Hablas diferente. Te vistes diferente. ¿Qué chucha es ese chicle que mascas todo el rato? *Smac-smac-smac.* Pareces una cabra chica de La Pintana.
+—¿Pesada? —Sofía se acercó, sus ojos buscando los míos detrás de las pestañas falsas—. Clara, escúchate. Hablas diferente. Te vistes diferente. ¿Qué es ese chicle que mascas todo el rato? *Smac-smac-smac.* Pareces... pareces otra persona.
 
-—No soy de La Pintana —dije, aunque en algún lugar profundo, la comparación me hizo sentir un cosquilleo.
+—Soy la misma —dije, aunque mientras lo decía, el reggaeton seguía sonando y mis caderas seguían moviéndose solas.
 
-—¡Ese no es el punto! —Sofía se acercó, sus ojos buscando los míos detrás de las pestañas falsas—. Clara, ¿qué está pasando? Beatriz me llamó llorando. Dijo que le vendiste tu parte de la firma por nada. Que no contestas sus llamadas. Que hablas como... como...
+—¡Ese no es el punto! —Sofía se acercó, sus ojos buscando los míos detrás de las pestañas falsas—. Clara, estoy preocupada. Beatriz me llamó muy alterada. Me dijo que le vendiste tu parte de la firma por nada. Que no contestas sus llamadas. Que cuando hablas, suenas... distinta.
 
 *Pop.*
 
-—¿Como qué, Sofi? —el chicle hacía burbujas entre mis palabras—. ¿Como mina feliz? ¿Como mina que ya no vive estresada?
+—¿Cómo qué, Sofi? —el chicle hacía burbujas entre mis palabras—. ¿Como mina feliz? ¿Como mina que ya no vive estresada?
 
-—Como mina que le lavaron el cerebro.
+—Como alguien que no eres tú —Sofía bajó la voz, y vi lágrimas acumularse en sus ojos—. Clara, te conozco desde la universidad. Sé cómo eras. Y esto... esto no eres tú.
 
 El vestidor olía a vainilla. Intenso. Reconfortante. El olor que me hacía sentir tranquila, dócil, correcta.
 
 —Nadie me lavó el cerebro po —dije, y mi voz sonó más aguda, más tonta—. Es que tú no entendí. EVE me ayuda a ser mejor. Daniel me ama más ahora. Todo es más fácil.
 
-—¿Más fácil? —Sofía rio, pero era una risa amarga—. Clara, tenías una firma de arquitectura. Tenías premios. Tenías una carrera. ¿Y ahora qué tienes? ¿Tacones con luces? ¿Chicle rosa? ¿Un marido que te viste como stripper?
+—¿Más fácil? —Sofía negó con la cabeza—. Clara, tenías una firma de arquitectura. Tenías premios. Tenías una carrera. ¿Y ahora qué tienes? ¿Tacones con luces? ¿Chicle rosa? ¿Un marido que decide cómo te vistes?
 
 —¡Daniel no me viste! —protesté, aunque sabía que mentía—. Yo elijo mi ropa. Yo elijo verme bonita. ¿Cuál es el problema?
 
@@ -146,19 +148,48 @@ El olor a vainilla se intensificó. Mis hombros se relajaron. Las lágrimas come
 
 Me levanté del sofá. Caminé hacia el baño, los tacones LED parpadeando con cada paso. El chicle hacía *pop* en el silencio de la casa.
 
-En algún lugar profundo, muy profundo, una voz susurraba que Sofía tenía razón. Que algo estaba mal. Que la Clara de antes nunca habría echado a su mejor amiga.
+El baño estaba listo cuando llegué. Vapor perfumado, agua rosada, pétalos flotando. Me sumergi sin pensar. El calor me envolvió como un útero artificial.
 
-Pero esa voz era cada vez más débil.
+Y entonces empezaron las voces.
 
-Y el olor a vainilla era cada vez más fuerte.
+No eran fuertes. Eran susurros, escondidos bajo el sonido del agua, mezclados con el aroma a vainilla que llenaba todo.
+
+*Está bien ser bonita.*
+*Está bien hablar simple.*
+*A tu marido le gusta así.*
+*Las mujeres inteligentes son estresadas.*
+*Las mujeres bonitas son felices.*
+*Tú eres bonita.*
+*Tú eres feliz.*
+
+No sé cuánto tiempo estuve ahí. El agua nunca se enfrió. Los susurros nunca pararon. Y cuando finalmente salí, me sentía... ligera. Vacía. Correcta.
+
+*A Daniel le gusta cuando hablas sucio.*
+*A Daniel le gusta cuando obedeces.*
+*Ser vulgar es ser sexy.*
+*Ser tonta es ser deseable.*
+
+Me sequé, me puse crema perfumada, me maquillé frente al espejo. El chicle volvió a mi boca sin que lo pensara. *Smac.*
+
+Sofía estaba equivocada. Todos estaban equivocados. Yo era feliz.
+
+¿Verdad?
 
 ---
 
 Daniel llegó esa noche con un regalo.
 
-Yo lo esperaba en el dormitorio, recién bañada, con el pelo todavía húmedo y un babydoll de encaje negro que EVE había seleccionado. El corsé apretaba mi cintura. Los tacones de aguja —8 pulgadas, charol rojo— hacían que mis piernas parecieran interminables. El chicle hacía *smac-smac* mientras me miraba en el espejo del techo.
+Yo lo esperaba en el dormitorio, completamente transformada. El pelo rubio platino —ahora con extensiones que llegaban hasta la cintura— caía sobre mis hombros en ondas artificiales, todavía húmedo del baño. El babydoll de encaje negro que EVE había seleccionado era casi transparente: el contorno de mis pezones endurecidos visible bajo la tela, el triángulo oscuro entre mis muslos apenas cubierto por un hilo de encaje. 
 
-—*El Señor Daniel ha llegado* —anunció EVE—. *Sus signos vitales indican alto nivel de excitación. Sugiero posición receptiva.*
+El corsé apretaba mi cintura —ahora diez centímetros más angosta que hace dos meses— y empujaba mis pechos hacia arriba, creándome un escote que parecía de cirugía. ¿Habían crecido? EVE decía que era "redistribución hormonal optimizada". Yo ya no preguntaba.
+
+Los tacones de aguja —8 pulgadas, charol rojo sangre— hacían que mis piernas parecieran kilométricas, los músculos de las pantorrillas tensos y definidos de tanto caminar en plataformas. Mis uñas stiletto —rojo a juego con los zapatos, tan largas que apenas podía usar el teléfono— brillaban bajo la luz romántica que EVE había ajustado automáticamente.
+
+El maquillaje era pesado: ojos ahumados en negro y plata, labios pintados de rojo puta brillante, pestañas postizas tan largas que casi rozaban mis cejas arqueadas. El collar de cuero negro con la placa "CLARITA" descansaba sobre mi clavícula.
+
+El chicle hacía *smac-smac* mientras me miraba en el espejo del techo, admirando cómo se veía mi cuerpo tendido en la cama. Era el cuerpo de una actriz porno. De una stripper de lujo. De la esposa perfecta de un hombre rico.
+
+—*El Señor Daniel ha llegado* —anunció EVE en mi audífono—. *Sus signos vitales indican alto nivel de excitación. Sugiero posición receptiva.*
 
 Me tendí en la cama. Piernas abiertas. Labios de pato. Chicle haciendo burbujas.
 
