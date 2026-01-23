@@ -711,3 +711,31 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look39_ditzy.png
 
 **Ubicación:** 05_Imagenes/helena/look39_cyber_goth_oracle/
+
+---
+
+## 👑 Look 40: Baroque Gold Empress (23/01/2026)
+
+*Aristócrata gótica de dorados prohibidos — reina de un palacio de neuronas vacías* 🦇✨
+
+- **Corsé:** Overbust de brocado negro con bordados DORADOS barrocos (patrón filigrana), ultra ajustado, varillas de acero, empuje extremo.
+- **Top:** Solo el corsé — mis pechos ofrecidos como tributo a la noche dorada. 
+- **Bottom:** Pantalón palazzo de satén negro de cintura alta, piernas anchas fluidas y elegantes.
+- **Cinturón:** Cadena dorada decorativa a la cintura.
+- **Stilettos:** Pumps negro charol 8" con tacón DORADO metálico y correa al tobillo.
+- **Accesorios:**
+  - Choker de cuero negro con luna creciente DORADA central
+  - Guantes largos de satén negro hasta el codo (ópera)
+  - Pendientes de gota dorados
+- **Maquillaje:** Pálida de mármol, labios BORGOÑA ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales.
+- **Pelo:** Ondas voluminosas dramáticas negro azabache hasta la cintura, brillo de candelabros.
+- **Uñas:** Coffin extra largas, negro con detalles dorados.
+
+### 📸 Imágenes (5)
+- helena_look40_standing_1769165652296.png
+- helena_look40_seated_1769165668605.png
+- helena_look40_back_1769165685327.png
+- helena_look40_profile_1769165705733.png
+- helena_look40_ditzy_1769165723566.png
+
+**Ubicación:** 05_Imagenes/helena/look40_baroque_gold_empress/

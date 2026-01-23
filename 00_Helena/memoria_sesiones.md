@@ -15,9 +15,9 @@
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
-| **Capítulo en Progreso** | Cap 5 Borrador Completo (Faltan 3 caps: 6, 7, 8) |
+| **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
 | **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
-| **Último Look Helena** | **39 - Cyber Goth Oracle** (22/01/2026) |
+| **Último Look Helena** | **40 - Baroque Gold Empress** (23/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
