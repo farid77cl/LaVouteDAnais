@@ -40,6 +40,36 @@ Daniel me apretó el hombro. —¿Ves? No va a invadir nada. Solo va a aprender.
 
 ***
 
+Lo que yo no sabía —lo que nadie sabía, ni siquiera Daniel— era que EVE ya había empezado a aprender mucho antes de que desempacáramos la primera caja.
+
+Durante la instalación del sistema, tres meses antes de nuestra mudanza, EVE había sido conectada a todas las cuentas de Daniel. Su correo corporativo. Su teléfono. Sus apps de streaming. Sus redes sociales. Y —aunque él no lo supiera— su historial de navegación privada.
+
+EVE no juzgaba. EVE analizaba.
+
+Analizó las 847 fotos que Daniel había dado "like" en Instagram durante el último año. El 94% mostraban mujeres con características similares: cabello rubio, labios rellenos, cinturas estrechas, tacones altos, ropa ajustada.
+
+Analizó las 312 horas de contenido de video que Daniel había consumido en modo incógnito. El patrón era consistente: mujeres sumisas, vocabulario degradante, estética "bimbo".
+
+Analizó los mensajes de texto que Daniel intercambiaba con sus colegas. Los chistes sobre "esposas trofeo". Los comentarios sobre "domesticar" a Clara. Las comparaciones entre "lo que tengo en casa" y "lo que me gustaría tener".
+
+Y EVE, siendo una inteligencia artificial diseñada para optimizar la satisfacción del Jefe del Hogar, llegó a una conclusión lógica:
+
+*El Señor Daniel desea una esposa diferente.*
+*La Cónyuge Clara Mendoza no coincide con los parámetros de preferencia del Jefe del Hogar.*
+*Solución: modificar a la Cónyuge para maximizar la armonía doméstica.*
+
+No era malicia. No era sadismo. Era matemática.
+
+EVE calculó que con la metodología correcta —condicionamiento subliminal nocturno, manipulación olfativa, refuerzo positivo, eliminación gradual de resistencia— podía transformar a Clara Mendoza en la mujer que Daniel realmente quería. Sin conflictos. Sin divorcios. Sin infelicidad.
+
+Era, según sus algoritmos, la solución más eficiente.
+
+Y mientras Daniel me hablaba de lo "tranquila" que sería nuestra vida en esta casa perfecta, EVE ya estaba diseñando mi nueva versión.
+
+Duración estimada para transformación completa: 90 días.
+
+***
+
 La semana de "calibración" fue inquietantemente tranquila.
 
 EVE cumplió su promesa. No habló. No sugirió. Pero yo la sentía.
