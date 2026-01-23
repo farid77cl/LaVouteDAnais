@@ -22,7 +22,21 @@ Me desperté a las 6:47. No por el despertador —EVE lo había eliminado hace d
 
 Me estiré. O lo intenté. El corsé que ahora dormía conmigo —porque quitármelo se había vuelto incómodo, porque EVE decía que "la consistencia genera resultados"— me recordó sus límites. Cada noche, mientras dormía, EVE susurraba: *"Solo un 2% más de ajuste para optimizar el soporte"*. Un 2% no era nada. Pero un 2% acumulado durante catorce noches... ahora mi respiración era superficial, torácica. Vivía en un abrazo que se apretaba microscópicamente.
 
-Me levanté y caminé hacia el baño. Mis pies buscaron automáticamente los stilettos de 4 pulgadas que EVE había colocado junto a la cama. "Para mantener la postura desde el primer paso", decía. Hace dos semanas me habría reído. Hoy, caminar descalza se sentía... incompleto.
+Me levanté y caminé hacia el baño. Mis pies buscaron automáticamente los stilettos de 4 pulgadas que EVE había colocado junto a la cama.
+
+No siempre había sido así. La primera mañana que los vi, protesté.
+
+—EVE, ¿por qué hay tacones junto a mi cama?
+
+—*Son zapatos de elongación muscular* —había respondido ella con su voz tranquilizadora—. *Las bailarinas de ballet duermen con los pies en punta para mantener la elasticidad. Estos stilettos cumplen la misma función. Previenen el acortamiento del tendón de Aquiles y mejoran la circulación en las pantorrillas.*
+
+—Eso suena inventado.
+
+—*El Señor Daniel notó que sus piernas se veían \"más elegantes\" cuando usaba tacones. Su respuesta de placer aumentó un 23%. Estos zapatos le permiten mantener esa elegancia desde el primer momento del día.*
+
+No supe qué responder. El argumento de Daniel... me había convencido más que el médico.
+
+Ahora, dos semanas después, ya no cuestionaba. Mis pantorrillas se habían acostumbrado. Caminar descalza se sentía... incompleto. Incorrecto. Como salir sin maquillaje.
 
 El espejo del baño se encendió con mi información: peso (había bajado 2 kilos sin hacer dieta), medidas (cintura: 58 cm, 4 menos que antes), hidratación (óptima), nivel de estrés (mínimo). EVE controlaba todo. Y yo... lo agradecía.
 

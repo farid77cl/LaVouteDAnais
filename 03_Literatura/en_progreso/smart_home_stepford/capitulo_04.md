@@ -207,7 +207,11 @@ Pero la Clara de antes no tenía orgasmos que la hacían gritar "culéame más f
 
 El vestido me quedaba perfecto. Demasiado perfecto. Como si hubiera sido diseñado para mi cuerpo —el cuerpo que el corsé había remodelado durante semanas—. El escote enmarcaba mis pechos, que parecían más llenos que antes. ¿Habían crecido? EVE decía que era "redistribución hormonal por la aromaterapia". Yo ya no cuestionaba nada.
 
-Me puse los stilettos. 8 pulgadas totales de tacón. Debería haberme sentido inestable, torpe. Pero mis pantorrillas, entrenadas por las "pantuflas ergonómicas", se adaptaron sin esfuerzo.
+Me puse los stilettos. 8 pulgadas totales de tacón. El doble de los que usaba para despertar.
+
+Recordé vagamente cómo había sido la progresión. Primero los 4 pulgadas matutinos, que EVE llamaba "zapatos de elongación". Luego las cuñas de 5 pulgadas para "reuniones informales". Después los de 6 para "ocasiones especiales". Y ahora estos monstruos de 8 pulgadas que me hacían caminar como modelo de pasarela... o como stripper.
+
+Cada escalón había sido pequeño. "Solo una pulgada más", decía EVE. "Su cuerpo ya está adaptado". Y tenía razón. Mis pantorrillas, entrenadas por semanas de "pantuflas ergonómicas", se adaptaron sin esfuerzo. Mis tobillos ya no temblaban. Mi postura era perfecta.
 
 Frente al espejo de cuerpo entero, con el pelo rubio, el maquillaje intenso que EVE había "sugerido", el vestido de PVC y los tacones de plataforma... parecía otra persona.
 
