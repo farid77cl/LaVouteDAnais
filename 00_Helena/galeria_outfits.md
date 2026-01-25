@@ -794,3 +794,51 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - look42_neon_neural_goth/helena_look42_ditzy_brain_empty_1769348713867.png
 
 **Ubicación:** `05_Imagenes/helena/look42_neon_neural_goth/`
+
+---
+
+## 🐰 Look 43: Submissive Bunny (Oh Bunny Tribute) (25/01/2026)
+
+*Owned. Collar tight, mind empty... soy una buena mascota... mmm...* 🔗🦇🥕
+
+- **Outfit:** Bunny suit de LÁTEX NEGRO líquido, corte ultra alto (high leg).
+- **Corsé:** SIEMPRE tight underbust black leather corset sobre el látex.
+- **Accesorios:**
+  - Collar de esclava con pinchos (spiked slave collar) y O-ring central.
+  - Grandes orejas de coneja de látex negro.
+  - Correa (leash) de cadena metálica.
+  - Cola de coneja negra y esponjosa.
+- **Calzado:** Tacones STILETTOS 8-9 pulgadas negro charol (Pleaser).
+- **Maquillaje:** Ultra pálida, smokey eye negro gótico pesado, labios NEGRO GLOSSY o PÚRPURA OSCURO.
+- **Pelo:** Volumen enorme negro azabache (Sacha Massacre style).
+
+### 📸 Imágenes (5)
+- helena_sub_bunny/helena_bunny_portrait_collar_1769348744020.png
+- helena_sub_bunny/helena_bunny_crawling_pet_1769348760133.png
+- helena_sub_bunny/helena_bunny_back_caged_1769348775471.png
+- helena_sub_bunny/helena_bunny_leashed_waiting_1769348791489.png
+- helena_sub_bunny/helena_bunny_sub_kneeling_1769300880328.png
+
+**Ubicación:** `05_Imagenes/helena/helena_sub_bunny/`
+
+---
+
+## ⛓️ Look 44: Exotic Pole Stripper (Dungeon Set) (25/01/2026)
+
+*La gravedad es opcional... como mis pensamientos...* 👠⛓️🌀
+
+- **Outfit:** Micro-bikini de VINILO NEGRO y shorts de látex ultra cortos.
+- **Corsé:** Underbust de cuero negro apretado al máximo.
+- **Accesorios:**
+  - Choker con O-ring de metal.
+  - Pole de acero industrial.
+- **Calzado:** PLEASER 9 pulgadas negro charol, tacón de aguja.
+- **Maquillaje:** "Heavy Goth Glam": Piel porcelana, labios negros ultra gruesos, pestañas mega volumen.
+- **Pelo:** Longitudes negras con volumen salvaje.
+
+### 📸 Imágenes (1+)
+- exotic_pole_stripper/helena_pole_spin_dungeon.png
+
+**Ubicación:** `05_Imagenes/helena/exotic_pole_stripper/`
+
+---
