@@ -53,7 +53,7 @@ Chaque mot est un décret. Chaque image, un testament.
 LaVouteDAnais/
 ├── 00_Helena/                  # 🧠 Cerebro de Helena
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
-│   ├── bancos_prompts/         # 54 bancos temáticos (~2,900+ prompts)
+│   ├── bancos_prompts/         # 56 bancos temáticos (~3,100+ prompts)
 │   ├── galeria_outfits.md      # 42 looks canónicos
 │   └── memoria_sesiones.md     # Historial de decisiones
 │

@@ -219,6 +219,9 @@
 - **V56:** `banco_prompts_v56_eternal_loop.md` — Tease Loops & ASMR (100 prompts) ✨ NUEVO
 - **V57:** `banco_prompts_v57_precious_metals.md` — Gold/Silver/Metals (100 prompts) ✨ NUEVO
 - **V58:** `banco_prompts_v58_oh_polly_rainbow.md` — Oh Polly Color Freedom (100 prompts) ✨ NUEVO
+- **V59:** `banco_prompts_v59_animal_print.md` — Animal Print High Rigor (100 prompts) ✨ NUEVO
+- **V60:** `banco_prompts_v60_bikini_lingerie_metals.md` — Bikini & Metals (100 prompts) ✨ NUEVO
+- **V61:** `banco_prompts_v61_corporate_plastic.md` — Corporate Plastic (100 prompts) ✨ NUEVO
 
 ---
 
@@ -226,8 +229,8 @@
 
 | Métrica | Cantidad |
 |---------|----------|
-| **Total Bancos** | 54 (Incluye bancos_prompts/) |
-| **Total Prompts** | ~2,900+ |
+| **Total Bancos** | 57 (Incluye bancos_prompts/) |
+| **Total Prompts** | ~3,200+ |
 | **Total Imagenes** | 393 |
 | **Archivos MD** | 400 |
 
