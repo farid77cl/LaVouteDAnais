@@ -1,18 +1,24 @@
-# Galería: Look 34 - White Chrome
+# 🖼️ Galería: look34_white_chrome
+Total imágenes: 5
 
-**Personaje:** Helena de Anaïs  
-**Look:** #34 - White Chrome  
-**Fecha Creación:** Enero 2026  
-**Total Imágenes:** 5
+````carousel
+![helena_look34_back.png](./helena_look34_back.png)
+<!-- slide -->
+![helena_look34_ditzy.png](./helena_look34_ditzy.png)
+<!-- slide -->
+![helena_look34_profile.png](./helena_look34_profile.png)
+<!-- slide -->
+![helena_look34_seated.png](./helena_look34_seated.png)
+<!-- slide -->
+![helena_look34_standing.png](./helena_look34_standing.png)
+````
+
+## 📜 Lista de Archivos
+- [helena_look34_back.png](./helena_look34_back.png)
+- [helena_look34_ditzy.png](./helena_look34_ditzy.png)
+- [helena_look34_profile.png](./helena_look34_profile.png)
+- [helena_look34_seated.png](./helena_look34_seated.png)
+- [helena_look34_standing.png](./helena_look34_standing.png)
 
 ---
-
-## Imágenes
-
-| Archivo | Descripción |
-|---------|-------------|
-| `helena_look34_standing.png` | Pose de pie |
-| `helena_look34_seated.png` | Pose sentada |
-| `helena_look34_back.png` | Vista trasera |
-| `helena_look34_profile.png` | Perfil lateral |
-| `helena_look34_ditzy.png` | Pose bimbo |
+*Actualizado automáticamente: 2026-01-25*

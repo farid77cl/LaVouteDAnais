@@ -1,0 +1,30 @@
+# 🖼️ Galería: look05_interview
+Total imágenes: 7
+
+````carousel
+![helena_look5_ditzy_bimbo.png](./helena_look5_ditzy_bimbo.png)
+<!-- slide -->
+![helena_look5_interview_back_view.png](./helena_look5_interview_back_view.png)
+<!-- slide -->
+![helena_look5_interview_side_profile.png](./helena_look5_interview_side_profile.png)
+<!-- slide -->
+![helena_look5_interview_walking.png](./helena_look5_interview_walking.png)
+<!-- slide -->
+![helena_look5_mirror_reflection.png](./helena_look5_mirror_reflection.png)
+<!-- slide -->
+![helena_look5_seated_desk.png](./helena_look5_seated_desk.png)
+<!-- slide -->
+![helena_look5_standing.png](./helena_look5_standing.png)
+````
+
+## 📜 Lista de Archivos
+- [helena_look5_ditzy_bimbo.png](./helena_look5_ditzy_bimbo.png)
+- [helena_look5_interview_back_view.png](./helena_look5_interview_back_view.png)
+- [helena_look5_interview_side_profile.png](./helena_look5_interview_side_profile.png)
+- [helena_look5_interview_walking.png](./helena_look5_interview_walking.png)
+- [helena_look5_mirror_reflection.png](./helena_look5_mirror_reflection.png)
+- [helena_look5_seated_desk.png](./helena_look5_seated_desk.png)
+- [helena_look5_standing.png](./helena_look5_standing.png)
+
+---
+*Actualizado automáticamente: 2026-01-25*

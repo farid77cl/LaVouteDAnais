@@ -4,517 +4,323 @@
 **Estética:** High-Fashion Fetish, Artistic Bondage, D/S Power Dynamic, Latex Encasing.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. 
-> - **Miss Doll (Dom):** 28+, Bob platino SIN FLEQUILLO, labios pouting bee-stung, maquillaje pesado, corsé blanco/rosa, tacones Pleaser 18cm.
-> - **Helena (Sub):** 30+, Pelo negro voluminoso, piel pálida porcelana, maquillaje oscuro pesado, corsé negro, tacones Pleaser negros.
-> - **Dinámica:** La tensión se centra en la asimetría de poder, la mirada dominante de Doll y la devoción sumisa de Helena.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED V38):**
+> - **MISS DOLL (DOM):** Woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin with satin finish, HEAVY GLAMOUR MAKEUP: wispy lashes, ULTRA PLUMP overlined glossy lips, EXTREME hourglass silhouette with large round high-profile breast implants, tight corset cinched to 18 inches, PLEASER platform heels 18-20cm.
+> - **HELENA (SUB):** Woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, HEAVY DARK MAKEUP, full glossy lips (black/purple), always wearing tight underbust corset, feminine hourglass silhouette, PLEASER stiletto heels 7-9 inches.
+> - **REGLA DE ORO:** Cada prompt es un bloque de texto independiente de 100-150 palabras.
 
 ---
 
 ## 🔒 SECCIÓN 1: Obedience & Sensory Deprivation (Prompts 1-25)
 
 ### Prompt 1: The Blindfolded Devotion (Hero Shot)
-```text
-Professional High-Detail Masterpiece Glamour photography of a High-Fashion D/S dynamic. MISS DOLL (28+ years old, platinum blonde bob WITHOUT bangs, pouting pink bee-stung lips, heavy glamour makeup) standing in a dominant power pose. She is wearing a WHITE HIGH-SHINE LATEX bodysuit and a white leather corset cinched to 18 inches, with 18cm pink patent PLEASER heels. HELENA (30+ years old, voluminous jet black hair, pale porcelain skin, heavy dark makeup) is kneeling submissively at Miss Doll's feet. Helena is wearing a BLACK HIGH-SHINE LATEX catsuit and a black leather corset cinched to 18 inches. Helena's eyes are covered by a luxurious PINK SATIN blindfold tied in a big bow. Miss Doll is resting a manicured hand on Helena's shoulder in a gesture of ownership. Modern minimalist white studio with dramatic rim lighting creating sharp highlights on the liquid-like latex textures. Photorealistic 8k. Vertical portrait.
-```
+Professional High-Detail Masterpiece Glamour photography of a High-Fashion D/S dynamic. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP with wispy false lashes and ULTRA PLUMP overlined glossy RED lips. She stands in a dominant power pose wearing a WHITE HIGH-SHINE LATEX bodysuit and white leather corset cinched to 18 inches, 20cm pink PLEASER platform heels. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, HEAVY DARK MAKEUP with glossy black lips. She is kneeling submissively at Miss Doll's feet, wearing a BLACK HIGH-SHINE LATEX catsuit and black leather corset. Helena's eyes are covered by a luxurious PINK SATIN blindfold. Miss Doll rests a manicured hand on Helena's shoulder in a gesture of ownership. Modern minimalist studio, dramatic rim lighting. 8k vertical portrait.
 
-### Prompt 2: Sensory Stillness (Close-Up)
-```text
-Professional High-Detail CLOSE UP photography. MISS DOLL (28+, platinum bob NO BANGS) leaning in close to HELENA's (30+, black hair) ear, whisperung a command. Helena is wearing a pink satin blindfold and pouting black bee-stung lips in silent obedience. Miss Doll's pouting pink bee-stung lips are inches away. Heavy glamour makeup visible on both. Flawless porcelain skin contrast (White vs Black latex collars). Dramatic studio shadows. 8k.
-```
+### Prompt 2: Sensory Stillness (Close-Up Portrait)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP with wispy lashes and ULTRA PLUMP overlined glossy lips. She leans in close to the ear of HELENA, a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale porcelain skin. Helena is blindfolded with a pink satin ribbon, her glossy black lips pouting in silent obedience. Miss Doll's pouting red lips are inches away, whisperung a secret command. Sharp focus on the flawless skin texture, thick lashes, and the contrast between the white and black high-shine latex collars. Cinematic shadows, intense high-fidelity textures. Photorealistic 8k vertical portrait.
 
-### Prompt 3: The Silk Tether
-```text
-Professional High-Detail Glamour photography of MISS DOLL (Dominant, Platinum bob NO BANGS) leading HELENA (Submissive, Black hair) by a long pink satin ribbon tether attached to Helena's black latex collar. Helena is blindfolded and walking cautiously behind Miss Doll's extreme hourglass silhouette. Both wearing tight corsets cinched to 18 inches. High-shine latex reflecting the luxury studio lights. Pleaser platform heels clicking on marble. 8k.
-```
+### Prompt 3: The Silk Tether (Full Body)
+Professional High-Detail Masterpiece Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, wearing a WHITE HIGH-SHINE LATEX catsuit and white corset. She leads HELENA, a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and feminine hourglass silhouette, by a long pink satin ribbon tether attached to Helena's black latex collar. Helena is wearing a black latex suit and black corset, her eyes blindfolded with pink satin. Helena walks cautiously three steps behind Miss Doll. Both women wear 20cm PLEASER platform heels. High-shine material reflections on mirror-polished floor. Luxury studio lighting, dramatic highlights on the cinched 18-inch waists. Photorealistic 8k vertical portrait.
 
-### Prompt 4: Earplug Silence Logic
-```text
-Professional High-Detail CLOSE UP. MISS DOLL (Platinum bob NO BANGS) inserting a pink custom earplug into the ear of HELENA (Black hair, pale skin). Helena is blindfolded and still. Focus on the delicate hand of the Dominant and the passive obedience of the Submissive. Both in heavy glamour makeup and latex. Cinematic lighting. 8k.
-```
+### Prompt 4: Earplug Silence Logic (Macro Detail)
+Professional High-Detail CLOSE UP photography focusing on hands and ears. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. With her gloved hand in pink latex, she is inserting a pink custom earplug into the ear of HELENA, a woman 30+ years old mature elegant goth glamour with pale porcelain white skin and voluminous jet black hair. Helena is blindfolded and perfectly still, her full glossy black lips slightly parted in obedience. Focus on the delicate tactile interaction and the high-fidelity skin texture. Both characters wearing high-shine latex and extreme corsets. Cinematic studio lighting, deep depth of field. Photorealistic 8k.
 
-### Prompt 5: The Master's Gaze (Low Angle)
-```text
-Professional High-Detail LOW ANGLE photography. View from Helena's perspective (Submissive, kneeling). MISS DOLL (Platinum bob NO BANGS) looking down with an arrogant, pouting expression. Her pouting pink bee-stung lips are prominent. She is wearing a white leather corset and holding a pink leather strap. Heavy volume lashes. Blinding studio highlights on her white latex curves. 8k.
-```
+### Prompt 5: The Master's Gaze (Perspective Shift)
+Professional High-Detail LOW ANGLE photography from the perspective of a kneeling submissive. Viewing MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, and HEAVY GLAMOUR MAKEUP. Her ULTRA PLUMP overlined glossy pink lips are set in an arrogant, pouting expression as she looks down. She has an EXTREME hourglass silhouette, wearing a white high-shine latex bodysuit and white corset. She holds a pink leather strap with authority. In the blurry foreground, the voluminous jet black hair of HELENA (30+ years old, kneeling) is visible. Dramatic rim lighting creates blinding highlights on Doll's curves. Photorealistic 8k vertical portrait.
 
-### Prompt 6: Mouth Gag Texture (Pink vs Black)
-```text
-Professional High-Detail CLOSE UP of HELENA (30+, black hair) wearing a pink ball gag matching Miss Doll's aesthetic. Small saliva drop on the glossy black bee-stung lips. MISS DOLL's (28+, platinum bob) hand is under Helena's chin, forcing her gaze up. Cinematic fetish photography. High-shine latex and leather textures. 8k.
-```
+### Prompt 6: Mouth Gag Texture (Pink vs Black Contrast)
+Professional High-Detail CLOSE UP photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, and HEAVY DARK MAKEUP. She is wearing a pink ball gag that matches the aesthetic of her owner. Her full glossy black lips are forced open around the gag. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is placing a manicured finger under Helena's chin to lift her head. Doll's pouting pink lips and wispy lashes are in sharp focus. High-shine black and white latex material contrast. Cinematic fetish photography styling, intense lighting. Photorealistic 8k.
 
-### Prompt 7: The Obedience Mirror
-```text
-Professional High-Detail Glamour photography. MISS DOLL (Dominant) holding a mirror in front of a blindfolded HELENA (Submissive). Miss Doll is looking at herself, while Helena is trapped in sensory darkness. Duality of narcissism and devotion. Both in extreme hourglass silhouettes, cinched corsets, and high-shine latex. 8k.
-```
+### Prompt 7: The Obedience Mirror (Duo Composition)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, and HEAVY GLAMOUR MAKEUP. She is holding a large ornate mirror in front of HELENA, a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale porcelain skin. Helena is blindfolded with pink satin and encased in a black high-shine latex suit and corset. Miss Doll admires her own reflection while the blindfolded Helena remains a passive, sightless prop at her side. Duality of narcissism and total devotion. High-key studio lighting with reflective surfaces. Photorealistic 8k vertical portrait.
 
-### Prompt 8: Sensory Deprivation Helmet (Futuristic)
-```text
-Professional High-Detail Glamour photography of HELENA (30+, black hair) wearing a sleek black high-shine latex sensory hood with no eye or mouth openings. MISS DOLL (28+, platinum bob NO BANGS) stands behind her, hands on the helmet. Cyberpunk fetish aesthetic. White vs Black latex contrast. Dramatic neon rim lighting. 8k.
-```
+### Prompt 8: Sensory Deprivation Hood (Futuristic Fetish)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, wearing a sleek black high-shine latex sensory hood with no eye or mouth openings, rendering her completely anonymous and helpless. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), wearing a white high-shine latex suit. She stands behind Helena, her manicured hands resting authoritatively on the hood's sides. Cyberpunk fetish aesthetic. Blinding highlights on the reflective latex, dramatic neon pink rim lighting. EXTREME hourglass silhouettes on both women. Photorealistic 8k.
 
-### Prompt 9: The Bell Collar (Sound Fetish)
-```text
-Professional High-Detail MACRO of a small silver bell on HELENA's (30+, black hair) black leather collar. MISS DOLL's (28+, platinum bob) finger is flicking the bell. Helena's pouting black bee-stung lips visible in bokeh. Tension of the cinched collars and neck muscles. High-fidelity skin texture. 8k.
-```
+### Prompt 9: The Bell Collar (Sensory Macro)
+Professional High-Detail MACRO photography. Focusing on a small silver bell attached to the black leather collar of HELENA, a woman 30+ years old mature elegant goth glamour with pale porcelain white skin and voluminous jet black hair. The manicured hand of MISS DOLL (woman 28+ years old, platinum bob) is seen flicking the bell. In the background bokeh, Helena's full glossy black lips and heavy dark makeup are visible. Miss Doll's pouting pink lips are also present. High-fidelity texture of the leather, metal, and skin. Tension of the cinched collars and neck muscles. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 10: Waiting in the Void
-```text
-Professional High-Detail Glamour photography of HELENA (30+, black hair) kneeling in a pitch-black room, blindfolded and in a full black latex catsuit. A single white spotlight on her. In the shadows, the silhouette of MISS DOLL (Platinum bob) is visible, watching. Absolute obedience. EXTREME hourglass silhouettes. 8k.
-```
+### Prompt 10: Waiting in the Void (Tension Shot)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, kneeling in a pitch-black room. She is wearing a full BLACK HIGH-SHINE LATEX catsuit and a black leather corset cinched to 18 inches, with a pink satin blindfold over her eyes. A single harsh white spotlight illuminates her from above. In the deep shadows behind her, the silhouette of MISS DOLL (28+ years old, platinum blonde bob WITHOUT bangs) is visible, watching with an arrogant expression and pouting pink lips. Absolute obedience and psychological tension. EXTREME hourglass silhouettes. Photorealistic 8k vertical portrait.
 
-### Prompt 11: The Feather Tease (Obedience)
-```text
-Professional High-Detail Glamour photography of MISS DOLL (28+, platinum bob NO BANGS) teasing a blindfolded HELENA (30+, black hair) with a pink ostrich feather. Helena is staying perfectly still in her black latex bodysuit. Miss Doll's pouting expression is mocking and dominant. Reflective surfaces everywhere. 8k.
-```
+### Prompt 11: The Feather Tease (Tactile Interaction)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, and ULTRA PLUMP overlined glossy lips. She is teasing a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin) with a long pink ostrich feather. Helena is staying perfectly still in her black high-shine latex bodysuit and corset, her head tilted back in submission. Miss Doll's expression is mocking and superior. Reflective studio surfaces, sharp highlights on the latex and feather textures. Photorealistic 8k vertical portrait.
 
-### Prompt 12: Precision Scent (Perfume)
-```text
-MISS DOLL (28+, platinum bob NO BANGS) spraying a luxury perfume on the neck of a blindfolded HELENA (30+, black hair). Helena's head is tilted back, exposed. Focus on the mist and the skin texture. Both in heavy glamour makeup and tight corsets. High-shine latex gloss. 8k.
-```
+### Prompt 12: Precision Scent (Perfume Service)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is spraying a luxury perfume onto the neck of a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena's head is tilted back, exposed and vulnerable in her black high-shine latex catsuit and tight corset. Focus on the fine mist of the perfume and the high-fidelity skin texture. Both women wear heavy glamour makeup and are cinched to 18-inch waists. Blinding reflective gloss on the latex. Photorealistic 8k vertical portrait.
 
-### Prompt 13: The Hand over Mouth (Silence)
-```text
-Professional High-Detail CLOSE UP of MISS DOLL (Platinum bob NO BANGS) covering HELENA's (Black hair) mouth with her pink latex-gloved hand. Helena's eyes are blindfolded. Only the noses and the hand are in focus. Muffled obedience. High-fidelity texture of the latex glove against pale skin. 8k.
-```
+### Prompt 13: The Hand over Mouth (Absolute Silence)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, and HEAVY GLAMOUR MAKEUP. She is covering the mouth of HELENA (woman 30+ years old, voluminous jet black hair, pale skin) with her pink latex-gloved hand. Helena is blindfolded with pink satin, her face manifesting silent obedience. Only the noses, the blindfold, and the pink latex hand are in sharp focus. Muffled devotion. High-fidelity texture of the latex glove against the pale porcelain skin. Cinematic studio lighting with deep shadows. Photorealistic 8k.
 
-### Prompt 14: Kneeling at the Throne
-```text
-Professional High-Detail Glamour photography of MISS DOLL (Dominant) sitting on a pink high-shine latex throne. HELENA (Submissive) is kneeling between her legs, head resting on Doll's lap. Helena is blindfolded. Miss Doll's pink PLEASER heels 18cm are flanking Helena. Static power dynamic. Extreme curves. 8k.
-```
+### Prompt 14: Kneeling at the Throne (D/S Hierarchy)
+Professional High-Detail Masterpiece Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, sitting on a high-shine pink latex throne. She wears a white high-shine latex suit and white corset. HELENA is a woman 30+ years old mature elegant goth glamour, voluminous jet black hair, pale skin, wearing a black latex suit and corset. Helena is kneeling between Miss Doll's legs, her blindfolded head resting submissively on Doll's lap. Miss Doll's 20cm pink PLEASER platform heels are flanking Helena's shoulders. Static power dynamic, luxurious studio setting. Photorealistic 8k vertical portrait.
 
-### Prompt 15: The Breath Check
-```text
-MISS DOLL (28+, platinum bob NO BANGS) leaning very close to a blindfolded HELENA (30+, black hair), their noses almost touching. Doll is monitoring Helena's breathing. Intense psychological D/S tension. Heavy glamour makeup, bee-stung lips, and high-shine latex detail. 8k.
-```
+### Prompt 15: The Breath Check (Psychological Close-Up)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, HEAVY GLAMOUR MAKEUP, and ULTRA PLUMP overlined glossy lips. She leans very close to the face of a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin), their noses almost touching. Miss Doll is monitoring Helena's breathing as a form of sensory control. Intense psychological D/S tension. Sharp focus on the wispy lashes, bee-stung lips, and the reflective high-shine latex collars of both women. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 16: Cold Metal vs Warm Skin
-```text
-Professional High-Detail CLOSE UP. MISS DOLL (28+) pressing a cold silver tray against the pale stomach of HELENA (30+, black hair). Helena is blindfolded and her black latex suit is unzipped to the waist to reveal the skin. Indentation of the metal. Both in extreme corsets. 8k.
-```
+### Prompt 16: Cold Metal vs Warm Skin (Texture Contrast)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, wearing a white high-shine latex suit. She is pressing a cold silver tray against the pale stomach of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is blindfolded and her black high-shine latex catsuit is unzipped to the waist to reveal her flawless skin. Visible indentation of the metal against the soft skin. Both women are cinched in extreme leather corsets to 18 inches. High-fidelity textures of metal, latex, and porcelain skin. Photorealistic 8k.
 
-### Prompt 17: The Command Whisper (Profile)
-```text
-Profile view of MISS DOLL (Dominant, platinum bob) whispering into the ear of a blindfolded HELENA (Submissive, black hair). The contrast between Doll's arrogant pouting lips and Helena's submissive stillness. High-shine latex collars. Cinematic lighting. 8k.
-```
+### Prompt 17: The Command Whisper (Side Profile)
+Professional High-Detail SIDE PROFILE photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, and arrogant pouting lips. She is whispering a command into the ear of HELENA, a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale porcelain skin. Helena is blindfolded with pink satin, her face holding an expression of absolute stillness and silent devotion. Contrast between Doll's white latex collar and Helena's black latex collar. Sharp focus on the eyelashes and lip textures. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 18: Sensory Pacing (Metronome)
-```text
-HELENA (30+, black hair) kneeling in front of a metronome, blindfolded. MISS DOLL (28+, platinum bob NO BANGS) standing behind her, counting the beats. "Time belongs to me". Abstract D/S concept. High-fashion fetish aesthetic. 8k.
-```
+### Prompt 18: Sensory Pacing (Metronome Discipline)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, kneeling in front of a ticking silver metronome. She is blindfolded and wearing a black high-shine latex catsuit and corset. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, standing behind her and counting the beats with a dominant smile on her pouting pink lips. Abstract D/S concept: "Time belongs to me". High-fashion fetish aesthetic, minimalist studio, dramatic rim lighting on the extreme hourglass curves. Photorealistic 8k.
 
-### Prompt 19: The Velvet Hood (Pink doll)
-```text
-MISS DOLL (Platinum bob NO BANGS) placing a soft pink velvet hood over HELENA's (Black hair) head. Helena's black latex catsuit provides a sharp textural contrast. Doll's manicured hands are precise. Extreme hourglass silhouettes. 8k.
-```
+### Prompt 19: The Velvet Hood (Pink Doll Enclosure)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, and EXTREME hourglass silhouette. She is placing a soft pink velvet hood over the head of HELENA, a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale paleskin. Helena is wearing a black high-shine latex catsuit and tight corset, providing a sharp textural contrast to the velvet. Miss Doll's manicured hands are precise. High-fashion fetish aesthetic. Blinding highlights on the latex curves. Photorealistic 8k vertical portrait.
 
-### Prompt 20: Still Life with Submissive
-```text
-Artistic composition. MISS DOLL (Dominant) standing like a statue, while HELENA (Submissive) is curled in a ball at her feet, blindfolded and encased in black latex. High-key lighting. Focus on the sculptural quality of the two bodies and the shine of the latex. 8k.
-```
+### Prompt 20: Still Life with Submissive (Artistic Composition)
+Professional High-Detail Artistic photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), standing perfectly still like a high-fashion statue in a white high-shine latex suit and white corset. At her feet, HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is curled in a ball, blindfolded and encased in a full black high-shine latex catsuit. High-key studio lighting with strong shadows. Focus on the sculptural quality of the two bodies and the intense shine of the reflective latex. EXTREME hourglass silhouettes. Photorealistic 8k vertical portrait.
 
-### Prompt 21: The Secret Mark
-```text
-MISS DOLL (28+, platinum bob) drawing a pink "D" on HELENA's (30+, black hair) pale shoulder with lipstick. Helena is blindfolded and obedient. Focus on the lipstick tip and the skin texture. Both in heavy glamour makeup and latex. 8k.
-```
+### Prompt 21: The Secret Mark (Lipstick Ownership)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is using a pink lipstick to draw a "D" on the pale shoulder of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is blindfolded and perfectly still in her black high-shine latex suit. Focus on the lipstick tip and the texture of the pale skin. Both women have pouting bee-stung lips and are cinched in extreme corsets. High-fidelity skin and material textures. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 22: Sensory Overload (Lights)
-```text
-MISS DOLL (Dominant) holding a bright pink light panel in front of HELENA's (Submissive) face. Helena is blindfolded, but the light bleeds through. She is squinting underneath. High contrast and lens flares. High-shine latex everywhere. 8k.
-```
+### Prompt 22: Sensory Overload (Intense Light)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is holding a bright pink LED light panel in front of the face of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is blindfolded with pink satin, but the intense light bleeds through, causing her to squint underneath. High contrast composition with lens flares and blinding highlights on the high-shine white and black latex suits. D/S power dynamic. Photorealistic 8k vertical portrait.
 
-### Prompt 23: The Frozen Submissive
-```text
-HELENA (30+, black hair) in a complex static pose (arms behind back), blindfolded. MISS DOLL (28+, platinum bob NO BANGS) is walking around her, inspecting the "object". High fashion fetish museum aesthetic. 18cm Pleaser heels. 8k.
-```
+### Prompt 23: The Frozen Submissive (Gallery Pose)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, held in a complex static pose with her arms bound behind her back. She is blindfolded and wearing a full black high-shine latex catsuit and black corset. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is walking around her with a superior expression, inspecting her "object". Both women wear 20cm PLEASER platform heels. High-fashion fetish museum aesthetic. Minimalist studio. Photorealistic 8k vertical portrait.
 
-### Prompt 24: Water Drop Torture (Artistic)
-```text
-Professional High-Detail MACRO of a single water drop falling onto the forehead of a blindfolded HELENA (30+, black hair). MISS DOLL (28+, platinum bob) is holding the dropper. Perfect skin texture and "frozen" water droplet. 8k.
-```
+### Prompt 24: Water Drop Torture (Artistic Macro)
+Professional High-Detail MACRO photography. A single crystal-clear water drop is about to fall onto the forehead of a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin). MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs and HEAVY GLAMOUR MAKEUP, is holding the glass dropper with absolute precision. Perfect skin texture and "frozen" water droplet detail. Both women are wearing high-shine latex and have pouting bee-stung lips. Cinematic lighting with sharp high-fidelity focus. Photorealistic 8k.
 
-### Prompt 25: The Reward (After Silence)
-```text
-MISS DOLL (Dominant) removing the pink blindfold from HELENA (Submissive). Helena's eyes are wide and dilated. Doll is smirking. The end of the sensory session. Both in heavy makeup, corsets, and high-shine latex. 8k.
-```
+### Prompt 25: The Reward (Vision Restored)
+Professional High-Detail Masterpiece Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), flawless porcelain skin, and arrogance. She is removing the pink satin blindfold from HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena's eyes are wide, dilated, and full of devotion. The end of a sensory deprivation session. Both women are in heavy glamour makeup, wearing extreme corsets cinched to 18 inches and high-shine latex suits. Reflective studio lighting, blinding highlights. Photorealistic 8k vertical portrait.
+
+---
 
 ## ⛓️ SECCIÓN 2: Heavy Bondage & Latex Encasing (Prompts 26-50)
 
 ### Prompt 26: The Vacuum Bed (Encased Helena)
-```text
-Professional High-Detail Glamour photography of HELENA (30+, black hair) encased in a clear PVC vacuum bed, her body perfectly contoured and flattened by the air pressure. MISS DOLL (28+, platinum bob NO BANGS) is standing over the bed, hand on the control valve. Doll is wearing a white latex bodysuit and pink corset. High visual tension. 8k.
-```
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, encased horizontally in a clear PVC vacuum bed. Her body is perfectly contoured and flattened by the intense air pressure, visible through the transparent plastic. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is standing over the bed with her hand on the silver control valve. Doll is wearing a white high-shine latex bodysuit and pink corset. High visual tension and material reflections. EXTREME hourglass silhouettes. Photorealistic 8k vertical portrait.
 
-### Prompt 27: Pink Ribbon Mummification
-```text
-MISS DOLL (28+, platinum bob NO BANGS) wrapping a blindfolded HELENA (30+, black hair) in hundreds of yards of pink satin ribbon. Helena is already wearing a black latex catsuit. Doll is meticulous. The ribbon creates a complex pattern over the extreme hourglass curves. High-fashion fetish. 8k.
-```
+### Prompt 27: Pink Ribbon Mummification (Complex Wrap)
+Professional High-Detail Masterpiece Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is wrapping a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin) in hundreds of yards of pink satin ribbon. Helena is already wearing a black high-shine latex catsuit and tight corset. The ribbon creates an intricate, geometric pattern over Helena's curves. Miss Doll is meticulous and focused. High-fashion fetish aesthetic. Blinding highlights on the latex and satin textures. Photorealistic 8k vertical portrait.
 
-### Prompt 28: The Latex Sleeping Bag (Pink vs Black)
-```text
-HELENA (Submissive) inside a heavy black latex "mummy" bag, only her face visible. MISS DOLL (Dominant) is zipping the bag closed up to the chin. Helena's black bee-stung lips are pouting. Miss Doll is in white latex. Dramatic vertical composition. 8k.
-```
+### Prompt 28: The Latex Sleeping Bag (Total Enclosure)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, inside a heavy black high-shine latex "mummy" bag, with only her face visible. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is zipping the bag closed up to the chin with an arrogant smirk. Helena's full glossy black lips are pouting in submission. Miss Doll is wearing a white latex suit. Dramatic vertical composition with intense studio highlights on the reflective surfaces. Photorealistic 8k.
 
-### Prompt 29: Arm-binder Discipline
-```text
-Professional High-Detail BACK VIEW of HELENA (30+, black hair) wearing a black leather arm-binder that forces her elbows together. MISS DOLL (28+, platinum bob NO BANGS) is tightening the straps. Helena's back skin is slightly indented. EXTREME hourglass silhouette in frame. 8k.
-```
+### Prompt 29: Arm-binder Discipline (Back View Texture)
+Professional High-Detail BACK VIEW photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, wearing a black leather arm-binder that forces her elbows together behind her back. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is tightening the silver buckle straps. Helena's pale skin is slightly indented by the leather. Focus on the material tension and the extreme hourglass silhouette cinched in a black corset. Reflective high-shine latex details and sharp cinematic lighting. Photorealistic 8k.
 
-### Prompt 30: The Human Parcel (Boxed)
-```text
-Surreal fetish photography. HELENA (Submissive, black hair) folded into a transparent acrylic box, blindfolded and in black latex. MISS DOLL (Dominant, platinum bob) is sitting on top of the box, legs crossed, wearing pink PLEASER heels. "Special Delivery". 8k.
-```
+### Prompt 30: The Human Parcel (Acrylic Boxed)
+Professional High-Detail Surreal Fetish photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, folded into a small transparent acrylic box. She is blindfolded and wearing a full black high-shine latex catsuit and corset. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is sitting directly on top of the box with her legs crossed. Doll is wearing a white latex suit and 20cm pink PLEASER platform heels. "Special Delivery" concept. Blinding reflections on the box and latex. Photorealistic 8k.
 
-### Prompt 31: Suspension Beam (Artistic Bondage)
-```text
-Professional High-Detail Glamour photography of HELENA (30+, black hair) suspended a few inches off the floor by pink silk ropes. MISS DOLL (28+, platinum bob NO BANGS) is holding the main rope, controlling the height. Both in high-shine latex and 18-inch corsets. High tension. 8k.
-```
+### Prompt 31: Suspension Beam (Artistic Bondage Height)
+Professional High-Detail Masterpiece Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, suspended a few inches off the floor by pink silk ropes. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is holding the main rope, controlling Helena's height. Both women are wearing high-shine latex suits and extreme leather corsets cinched to 18-inch waists. High visual tension and athletic fetish geometry. Cinematic lighting with deep shadows. Photorealistic 8k vertical portrait.
 
-### Prompt 32: The Heavy Hood (Weighted)
-```text
-HELENA (30+, black hair) wearing a black latex hood with heavy silver chains hanging from it. Her head is bowed. MISS DOLL (28+, platinum bob) is lifting Helena's chin with one finger. Contrast of heavy metal and pale skin. Cinematic lighting. 8k.
-```
+### Prompt 32: The Heavy Hood (Chain Weight)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, wearing a full black high-shine latex hood with heavy silver chains hanging from the collar. Her head is bowed under the weight. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is lifting Helena's chin with one gloved finger. Sharp contrast between the heavy industrial metal and the pale porcelain skin. Cinematic lighting, dramatic highlights on the reflective hood. Photorealistic 8k.
 
-### Prompt 33: Total Latex Mask (Blind)
-```text
-MISS DOLL (Dominant) adjusting a silver-chrome latex mask on HELENA's (30+) face. The mask has no eye holes. Helena is a "living statue". Doll is wearing a white corset. Blinding highlights on both reflective surfaces. 8k.
-```
+### Prompt 33: Total Latex Mask (The Living Idol)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), wearing a white high-shine latex bodysuit and white corset. She is adjusting a silver-chrome latex mask onto the face of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). The mask has no eye or mouth openings, turning Helena into a "living statue". Blinding highlights on both the chrome mask and the reflective white latex. EXTREME hourglass silhouettes. Photorealistic 8k vertical portrait.
 
-### Prompt 34: The Straitjacket Walk
-```text
-MISS DOLL (Platinum bob NO BANGS) leading HELENA (Black hair) who is wearing a black high-shine latex straitjacket. Helena's arms are hugged to her chest. Doll is holding a tether. Both in 18cm Pleaser heels. White sterile hall. 8k.
-```
+### Prompt 34: The Straitjacket Walk (Studio Hall)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, leading HELENA (woman 30+ years old, voluminous jet black hair, pale skin) by a pink leather lead. Helena is wearing a black high-shine latex straitjacket with her arms bound tightly to her chest. Both women wear 20cm PLEASER platform heels. They are walking through a sterile white studio hall with reflective floors. Absolute power dynamic. High-fashion fetish aesthetic. Photorealistic 8k vertical portrait.
 
-### Prompt 35: Crunched in Latex (Extreme Hourglass)
-```text
-Professional High-Detail CLOSE UP on the waists of the duo. MISS DOLL (White corset) and HELENA (Black corset) both cinched to impossible 18-inch proportions. Helena's hands are bound in front of her waist with pink latex tape. Focus on the compression and the materials. 8k.
-```
+### Prompt 35: Crunched in Latex (Waist Compression Macro)
+Professional High-Detail CLOSE UP photography focusing on the waists. MISS DOLL is a woman 28+ years old in a white leather corset and HELENA is a woman 30+ years old in a black leather corset. Both waists are cinched to impossible 18-inch proportions. Helena's hands are bound in front of her waist with pink high-shine latex tape. Focus on the compression of the material and the extreme body modification aesthetic. Both characters wear high-shine latex suits and heavy glamour makeup. Blinding highlights on the reflective surfaces. Photorealistic 8k.
 
-### Prompt 36: The Sensory Chair
-```text
-HELENA (30+, black hair) strapped to a black high-shine latex chair with pink velvet restraints. Blindfolded. MISS DOLL (Dominant) is leaning over her, checking the pulse on Helena's neck. High-fidelity skin and material texture. 8k.
-```
+### Prompt 36: The Sensory Chair (Submission Bound)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, strapped to a black high-shine latex chair with pink velvet restraints. She is blindfolded with pink satin. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is leaning over her, checking the pulse on Helena's neck with a clinical, arrogant expression. High-fidelity skin and material textures. Intricate bondage detail. Photorealistic 8k vertical portrait.
 
-### Prompt 37: Bondage Tape Art (Duo)
-```text
-MISS DOLL (28+, platinum bob) applying pink latex tape over HELENA's (30+, black hair) black catsuit, creating a geometric bondage pattern. Artistic "tape art" fetish. Both in heavy glamour makeup. Minimalist studio. 8k.
-```
+### Prompt 37: Bondage Tape Art (Geometric Duo)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is applying pink high-shine latex tape over the black catsuit of HELENA (woman 30+ years old, voluminous jet black hair, pale skin), creating an artistic, geometric bondage pattern. Both women have EXTREME hourglass silhouettes and are cinched in tight corsets. Minimalist studio setting with dramatic lighting. Photorealistic 8k vertical portrait.
 
-### Prompt 38: The Head Harness (Posture)
-```text
-Professional High-Detail PROFILE of HELENA (Black hair) wearing a complex black leather head harness that forces her to look up. MISS DOLL (Platinum bob) is holding the lead. Pouting bee-stung lips visible on both. Sharp jawlines. 8k.
-```
+### Prompt 38: The Head Harness (Posture Control Profile)
+Professional High-Detail PROFILE photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, wearing a complex black leather head harness that forces her to look upwards continuously. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is holding the leather lead. Sharp focus on the pouting bee-stung lips and the jawlines of both women. High-shine latex and leather material textures. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 39: Encased in Bubbles (Packing Peanuts)
-```text
-Playful but dark fetish shot. HELENA (Black hair) in a glass container filled with pink foam packing peanuts, blindfolded. MISS DOLL (Platinum bob) is looking through the glass with a curious expression. "Fragile Doll". 8k.
-```
+### Prompt 39: Encased in Bubbles (Pink Foam Confinement)
+Professional High-Detail Surreal photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, placed inside a high-tech glass container filled with thousands of pink foam packing peanuts. She is blindfolded and wearing a black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is looking through the glass with a curious, superior expression. "Fragile Doll" concept. Blinding highlights on the glass and reflective latex. Photorealistic 8k.
 
-### Prompt 40: The Heavy Garter (Weighted Heels)
-```text
-MISS DOLL (Dominant) attaching heavy silver weights to HELENA's (Submissive) black PLEASER heels. Helena is standing on a platform, legs trembling slightly. Doll is kneeling to adjust the weights. High texture detail on metal and patent leather. 8k.
-```
+### Prompt 40: The Heavy Garter (Weighted Heel Discipline)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), kneeling to attach heavy silver weights to the black PLEASER stiletto heels of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is standing on a high pedestal, her legs trembling slightly under the added weight. She is blindfolded and in full black latex. High texture detail on metal, patent leather, and high-shine latex. Dramatic studio lighting. Photorealistic 8k vertical portrait.
 
-### Prompt 41: Latex Body Wrap (Saran)
-```text
-HELENA (30+, black hair) being wrapped in clear industrial plastic wrap by MISS DOLL (28+, platinum bob). The plastic is tight over Helena's black latex suit, creating a unique gloss effect. Both in extreme hourglass corsets. 8k.
-```
+### Prompt 41: Latex Body Wrap (Industrial Gloss)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, being wrapped in layers of clear industrial plastic wrap by MISS DOLL (woman 28+ years old, platinum blonde bob WITHOUT bangs). The plastic is pulled tight over Helena's black high-shine latex bodysuit, creating an unique double-gloss effect. Both women have EXTREME hourglass silhouettes cinched to 18-inch waists. Arrogant power dynamic. Photorealistic 8k vertical portrait.
 
-### Prompt 42: The Gantry Suspension
-```text
-Wide shot. HELENA (Submissive) hanging horizontally from a silver gantry in a complex rope harness. MISS DOLL (Dominant) is standing below, looking up. Industrial dungeon aesthetic with neon pink highlights. 8k.
-```
+### Prompt 42: The Gantry Suspension (Industrial Aesthetic)
+Professional High-Detail Wide shot. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, hanging horizontally from a silver industrial gantry in a complex pink rope harness. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), stands below her looking up with an ownership gaze. Industrial dungeon aesthetic with dramatic neon pink rim lighting and blinding highlights on the high-shine black and white latex suits. Photorealistic 8k.
 
-### Prompt 43: Handcuffed to the Master
-```text
-Close up of MISS DOLL's (White suit) and HELENA's (Black suit) wrists joined by a silver chain. A short tether. Miss Doll is pulling Helena along. High-shine latex and metallic glints. 8k.
-```
+### Prompt 43: Handcuffed to the Master (Tight Tether)
+Professional High-Detail CLOSE UP photography. Focusing on the wrists of MISS DOLL (woman 28+ years old, platinum bob) in a white high-shine latex suit and HELENA (woman 30+ years old, jet black hair) in a black latex suit, joined by a short silver chain handcuff. Miss Doll is pulling Helena along, exerting total control. High texture detail on the metallic links and the reflective glossy rubber. Both women have pouting bee-stung lips and are cinched in tight corsets. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 44: The Latex Sack (Complete Cover)
-```text
-A large pink high-shine latex "sack" on the floor. The shape of HELENA (30+) is visible inside as she moves. MISS DOLL (Platinum bob) is sitting on the sack, indifferent. Surreal fetish concept. 8k.
-```
+### Prompt 44: The Latex Sack (Dynamic Shape)
+Professional High-Detail Surreal photography. A large, bulbous sack made of pink high-shine latex lies on a white studio floor. The distinct feminine shape of HELENA (woman 30+ years old, voluminous jet black hair) is visible as she moves within the enclosure. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is sitting indifferently on the sack. EXTREME hourglass silhouettes. Blinding highlights on the reflective pink latex surface. Photorealistic 8k vertical portrait.
 
-### Prompt 45: Spreader Bar Balance
-```text
-HELENA (30+, black hair) wearing a black leather spreader bar between her ankles, forcing a wide stance. She is blindfolded. MISS DOLL (Dominant, platinum bob) is standing behind her, hands on Helena's hips. 18cm heels in frame. 8k.
-```
+### Prompt 45: Spreader Bar Balance (Posture Discipline)
+Professional High-Detail Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, wearing a black leather spreader bar between her ankles, forcing her legs into a wide, fixed stance. She is blindfolded with pink satin and wearing a black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, stands behind her with her manicured hands on Helena's hips, guiding her balance. Both wear 20cm platform heels. Photorealistic 8k vertical portrait.
 
-### Prompt 46: The Web of Latex
-```text
-Artistic shot. HELENA (Submissive) centered in a web made of black latex strips. MISS DOLL (Dominant) is at the edge of the web, pulling one strand. Spider vs Fly dynamic. Dramatic lighting. 8k.
-```
+### Prompt 46: The Web of Latex (Predator and Prey)
+Professional High-Detail Artistic photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, centered in a large web constructed from strips of black high-shine latex. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob WITHOUT bangs, stands at the edge of the web, pulling on a single strand. Spider and Fly metaphorical dynamic. Blinding highlights on the reflective latex, dramatic cinematic lighting. Both women in extreme corsets. Photorealistic 8k.
 
-### Prompt 47: Corset Lace Bondage
-```text
-MISS DOLL (Dominant) using the long laces of HELENA's (Submissive) black corset to bind Helena's hands behind her back. Focus on the criss-cross pattern and the gloved hands of the Dominant. Extreme cinching. 8k.
-```
+### Prompt 47: Corset Lace Bondage (Manual Cinching)
+Professional High-Detail CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and pink latex gloves. She is using the long extra laces of HELENA's (woman 30+ years old, black hair) black leather corset to bind Helena's hands behind her back. Focus on the intricate criss-cross lacing pattern and the tension of the strings. Helena is blindfolded and encased in black high-shine latex. Extreme body modification aesthetic. Photorealistic 8k.
 
-### Prompt 48: The Inverted Submissive
-```text
-Professional High-Detail shot of HELENA (30+, black hair) hanging upside down (safely) from a black frame. MISS DOLL (28+, platinum bob) is standing next to her, brushing Helena's hair. Surreal D/S imagery. High-shine latex. 8k.
-```
+### Prompt 48: The Inverted Submissive (Hair Maintenance)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, hanging upside down from a black suspension frame in a safe harness. She is blindfolded and wearing a black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob WITHOUT bangs, stands next to her calmly brushing Helena's long hair as if grooming a pet. Surreal D/S imagery. Sharp highlights on the latex and hair textures. Photorealistic 8k.
 
-### Prompt 49: Plaster Casting (Stillness)
-```text
-MISS DOLL (Dominant) applying white plaster bandages to the legs of HELENA (Submissive) who is in a black latex catsuit. "Making a statue". Contrast of wet plaster and shiny rubber. Both in heavy makeup. 8k.
-```
+### Prompt 49: Plaster Casting (Stillness Ritual)
+Professional High-Detail Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is applying wet white plaster bandages to the legs of HELENA (woman 30+ years old, voluminous jet black hair, pale skin) who is standing perfectly still in a black high-shine latex catsuit. "Making a living statue". Contrast between the rough matte plaster and the reflective rubber. Both women in extreme hourglass corsets. Photorealistic 8k vertical portrait.
 
-### Prompt 50: The Total Encasement Finalé
-```text
-HELENA (30+, black hair) completely encased in a pink high-shine latex "Doll Box" with a transparent front. She is blindfolded. MISS DOLL (28+, platinum bob) is standing next to the box, hand on the glass. "Owned for eternity". 8k.
-```
+### Prompt 50: The Total Encasement Finalé (Box Locked)
+Professional High-Detail Masterpiece Glamour photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, completely encased in a pink high-shine latex "Doll Box" with a thick transparent front panel. She is blindfolded and perfectly still. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is standing next to the box with her manicured hand on the glass. "Owned for eternity". EXTREME hourglass silhouettes. Photorealistic 8k vertical portrait.
+
+---
 
 ## 👠 SECCIÓN 3: Footwear & Worship (Prompts 51-75)
 
-### Prompt 51: The Silver Heel Worship
-```text
-Professional High-Detail LOW ANGLE photography. MISS DOLL (Dominant, platinum bob NO BANGS) standing with one pink patent PLEASER heel (18cm) resting on the chest of HELENA (Submissive, black hair). Helena is lying on the floor, looking up with a devoted, pouting expression. Doll's white latex leg is in sharp focus. Helena's pouting black bee-stung lips are inches from the platform. 8k.
-```
+### Prompt 51: The Silver Heel Worship (Dominant Stance)
+Professional High-Detail LOW ANGLE photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, and arrogant expression. She is standing with one pink patent PLEASER platform heel (20cm) resting authoritatively on the chest of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is lying submissively on the floor, looking up with a devoted pouting expression. Doll's white high-shine latex legs are in sharp focus. Helena's glossy black lips are inches from the platform. 8k vertical portrait.
 
-### Prompt 52: Boot Polish (Latex Hands)
-```text
-Professional High-Detail CLOSE UP. HELENA (Submissive, black hair) using a soft cloth to polish the thigh-high white latex boots of MISS DOLL (Dominant). Helena is kneeling. Doll's legs are crossed. Focus on the high-shine reflection and Helena's concentrated, submissive face. 8k.
-```
+### Prompt 52: Boot Polish (Latex Service)
+Professional High-Detail CLOSE UP photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, and HEAVY DARK MAKEUP. She is using a soft pink cloth to meticulously polish the thigh-high white patent leather boots of MISS DOLL (woman 28+ years old, platinum bob). Helena is kneeling in her black high-shine latex suit. Miss Doll's legs are crossed in a superior pose. Focus on the high-shine reflections on the boots and Helena's concentrated, devoted face. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 53: Walking on the Submissive
-```text
-Artistic shot. HELENA (black hair, pale skin) lying face down on a white shag rug. MISS DOLL (platinum bob, white suit) is delicately stepping over her, one pink heel making contact with Helena's back. 18-inch waists visible on both. Power and grace. 8k.
-```
+### Prompt 53: Walking on the Submissive (Soft Rug)
+Professional High-Detail Artistic photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, lying face down on a thick white shag rug in her black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is delicately stepping over her. One 20cm pink PLEASER platform heel is making contact with Helena's back. Both women have 18-inch waists cinched in corsets. Power, grace, and weight. Photorealistic 8k vertical portrait.
 
-### Prompt 54: The Heel Lead (Tethered)
-```text
-MISS DOLL (Dominant) leading HELENA (Submissive) by a chain attached to Helena's black boots. Helena is crawling on all fours. Doll is walking with a high-fashion strut. Dramatic floor reflections. Both in 18cm heels. 8k.
-```
+### Prompt 54: The Heel Lead (Tethered Crawl)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She leads HELENA (woman 30+ years old, voluminous jet black hair, pale skin) by a short silver chain attached to Helena's black high-shine latex boots. Helena is crawling on all fours in her black latex suit and corset. Miss Doll is walking with a high-fashion strut in her white latex bodysuit. Dramatic floor reflections. Both wear 20cm platform heels. Photorealistic 8k.
 
-### Prompt 55: Toe-Point Discipline
-```text
-MISS DOLL (28+, platinum bob) forcing HELENA's (30+, black hair) feet into an extreme ballet-point vertical position inside black fetish boots. Doll is holding a pink strap. Helena's face shows a mix of strain and devotion. 8k.
-```
+### Prompt 55: Toe-Point Discipline (Ballet Point)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is forcing the feet of HELENA (woman 30+ years old, voluminous jet black hair, pale skin) into an extreme ballet-point vertical position inside black fetish boots. Doll is holding a pink leather strap with authority. Helena's face shows an expression of intense strain and devotion through her heavy dark makeup. Both women in high-shine latex and corsets. Photorealistic 8k.
 
-### Prompt 56: The Stiletto Indentation
-```text
-Professional High-Detail MACRO of the thin metal heel of MISS DOLL's (White suit) boot pressing into the black high-shine latex covering HELENA's (Submissive) thigh. Visible material strain and reflection. "The weight of the Master". 8k.
-```
+### Prompt 56: The Stiletto Indentation (Material Strain)
+Professional High-Detail MACRO photography. Focusing on the thin metal stiletto heel of MISS DOLL's (woman 28+ years old, platinum bob) white patent boot pressing firmly into the black high-shine latex covering the thigh of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Visible material strain and sharp reflections on the glossy rubber. "The weight of the Master" concept. Both women cinched in extreme leather corsets to 18-inch proportions. Cinematic studio lighting with high-fidelity detail. Photorealistic 8k.
 
-### Prompt 57: Licking the Platform
-```text
-Extreme Close-up. HELENA's (30+, black hair) pink tongue touching the clear acrylic platform of MISS DOLL's (Dominant) 18cm PLEASER heel. Miss Doll's pouting pink lips visible in background. High-fidelity texture and moisture detail. 8k.
-```
+### Prompt 57: Licking the Platform (Extreme Close-Up)
+Professional High-Detail EXTREME CLOSE-UP photography. Focusing on HELENA's (woman 30+ years old, black hair) pink tongue as it gently touches the clear acrylic platform of MISS DOLL's (woman 28+ years old, platinum bob) 20cm pink PLEASER heel. Miss Doll's pouting pink bee-stung lips are visible in the soft bokeh background. High-fidelity texture of the tongue, the moisture, and the smooth acrylic surface. Both women in heavy glamour makeup and high-shine latex collars. Intense psychological D/S devotion. Photorealistic 8k.
 
-### Prompt 58: Shoe Box Confinement
-```text
-Surreal fetish. HELENA (Submissive) curled inside a giant luxury shoebox, blindfolded. MISS DOLL (Dominant) is opening the lid. "A gift to myself". Both in high-shine latex and heavy glamour makeup. 8k.
-```
+### Prompt 58: Shoe Box Confinement (Surreal Scale)
+Professional High-Detail Surreal photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, curled up inside an oversized luxury designer shoebox. She is blindfolded and wearing a full black high-shine latex catsuit and corset. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is slowly opening the lid with a smirk. "A gift to myself" concept. Both characters in heavy glamour makeup and reflective latex. Photorealistic 8k.
 
-### Prompt 59: The Human Footstool
-```text
-HELENA (30+, black hair) on all fours, back flat. MISS DOLL (Dominant) is sitting on a chair, resting her feet (in pink platform boots) on Helena's back. Doll is drinking champagne. "Furniture" status. 8k.
-```
+### Prompt 59: The Human Footstool (Champagne Service)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, on all fours with her back perfectly flat in her black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), is sitting on a chair, resting her feet (in pink platform boots) on Helena's back. Doll is drinking champagne with an arrogant expression. "Furniture" status. EXTREME hourglass silhouettes. Photorealistic 8k.
 
-### Prompt 60: Tightening the Corset (Foot on Back)
-```text
-Professional High-Detail BACK VIEW. MISS DOLL (White latex) has one pink heel planted firmly between HELENA's (Black latex) shoulder blades while she pulls the laces of Helena's corset. Extreme hourglass silhouettes. 8k.
-```
+### Prompt 60: Tightening the Corset (Foot Brace)
+Professional High-Detail BACK VIEW photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), wearing a white high-shine latex suit. She has one pink platform heel planted firmly between the shoulder blades of HELENA (woman 30+ years old, voluminous jet black hair, pale skin) while she pulls the laces of Helena's black corset. EXTREME hourglass silhouettes cinched to 18-inch waists. High material tension and blinding highlights on the reflective latex. Photorealistic 8k.
 
-### Prompt 61: The Glass Slipper (Acrylic)
-```text
-MISS DOLL (Dominant) forcing HELENA's (Submissive) foot into a tight acrylic boot. Helena's face is blindfolded. Doll is using a shoehorn. Contrast of clear plastic and black latex. Studio ring light reflections. 8k.
-```
+### Prompt 61: The Glass Slipper (Acrylic Enclosure)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is forcing the foot of a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin) into a tight, transparent acrylic boot. Helena is encased in a black high-shine latex catsuit. Miss Doll is using a shoehorn with clinical precision. Contrast between the clear plastic and the black glossy rubber. Studio ring light reflections. Photorealistic 8k.
 
-### Prompt 62: Walking across the Hands
-```text
-HELENA (30+, black hair) lying on her back, hands flat on the floor. MISS DOLL (Dominant) is walking across Helena's palms with her stiletto heels. Focus on the pressure and the latex texture. Dangerous beauty. 8k.
-```
+### Prompt 62: Walking across the Hands (Pressure Points)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, lying on her back with her hands flat on the floor in her black high-shine latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob WITHOUT bangs, is walking directly across Helena's palms with her 20cm stiletto heels. Focus on the pressure exerted and the intense reflection on the latex texture. Dangerous beauty aesthetic. Extreme hourglass silhouettes. Photorealistic 8k.
 
-### Prompt 63: The Scent of Authority (Boots)
-```text
-MISS DOLL (Dominante) holding her pink patent boot up to HELENA's (Submissive) nose. Helena is blindfolded and inhaling. Miss Doll looks bored and superior. Close up of the two faces and the boot. 8k.
-```
+### Prompt 63: The Scent of Authority (Boot Worship)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is holding her pink patent leather boot up to the nose of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is blindfolded and inhaling the scent with devotion. Miss Doll looks bored and superior. Close up of the two faces and the boot. Both in heavy glamour makeup and high-shine latex collars. Photorealistic 8k vertical portrait.
 
-### Prompt 64: Bound in Laces (Duo)
-```text
-MISS DOLL (Platinum bob) has used the extra long laces of her white thigh-high boots to wrap around HELENA's (Black hair) neck and wrists. They are physically connected. 8k.
-```
+### Prompt 64: Bound in Laces (Permanent Connection)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She has used the extra-long white satin laces from her thigh-high boots to wrap around the neck and bound wrists of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). They are physically and permanently connected by the lacing. Both women are wearing high-shine latex and 18-inch corsets. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 65: The Pedestal (Submissive Base)
-```text
-MISS DOLL (Dominant) standing on top of a pile of black latex cushions. HELENA (Submissive) is underneath the cushions, only her hands and 18cm heels visible. "The foundation of power". Surreal fashion. 8k.
-```
+### Prompt 65: The Pedestal (Submissive Base Layer)
+Professional High-Detail Surreal photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), standing on top of a large pile of black high-shine latex cushions. HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is buried at the bottom of the pile, only her hands and black 20cm PLEASER heels visible. "The foundation of power" concept. High-fashion fetish aesthetic. Blinding highlights on the reflective latex surfaces. Photorealistic 8k vertical portrait.
 
-### Prompt 66: Polishing with the Face
-```text
-HELENA (30+, black hair) rubbing her cheek against the high-shine surface of MISS DOLL's (28+, platinum bob) white patent leather boots. Expression of intense devotion. Both in heavy makeup. 8k.
-```
+### Prompt 66: Polishing with the Face (Heel Devotion)
+Professional High-Detail CLOSE UP photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, and HEAVY DARK MAKEUP. She is rubbing her cheek against the high-shine white patent leather surface of the boots worn by MISS DOLL (woman 28+ years old, platinum bob). Expression of intense devotion and surrender. Miss Doll looks down with an arrogant smirk and pouting lips. Both women are in extreme 18-inch corsets and high-shine latex suits. Photorealistic 8k.
 
-### Prompt 67: The Stiletto Bridge
-```text
-MISS DOLL (Dominant) and HELENA (Submissive) in an arched "bridge" pose, but Miss Doll's heels are resting on Helena's 18-inch cinched waist. High athletic fetish geometry. Blinding highlights on latex. 8k.
-```
+### Prompt 67: The Stiletto Bridge (Extreme Geometry)
+Professional High-Detail Artistic photography. MISS DOLL and HELENA are in an arched, shared "bridge" pose. MISS DOLL (woman 28+ years old, platinum blonde bob) has her 20cm pink PLEASER platform heels resting directly on the black leather corset of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). High athletic fetish geometry. Blinding highlights on the reflective white and black latex suits. EXTREME hourglass silhouettes cinched to 18-inch waists. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 68: Measuring the Heel
-```text
-MISS DOLL (Dominant) using a ruler to check the height of HELENA's (Submissive) heels. "Not high enough". Helena looks ashamed. Doll's pouting expression is stern. Extreme hourglass silhouettes. 8k.
-```
+### Prompt 68: Measuring the Heel (Rigor Check)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and arrogant expression. She is using a silver ruler to measure the height of the heels worn by HELENA (woman 30+ years old, voluminous jet black hair, pale skin). "Not high enough" concept. Helena looks ashamed and submissive in her black latex suit. Doll's pouting pink lips are stern. Both women have EXTREME hourglass silhouettes and wear heavy glamour makeup. Photorealistic 8k.
 
-### Prompt 69: The Boot as a Pillow
-```text
-HELENA (Submissive, black hair) lying on the floor, her head resting on MISS DOLL's (Dominant) pink boot. Doll is standing still. A moment of quiet ownership. Soft studio lighting. 8k.
-```
+### Prompt 69: The Boot as a Pillow (Owned Slumber)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, lying on the white studio floor in her black latex catsuit and corset. Her head is resting submissively on the pink platform boot of MISS DOLL (woman 28+ years old, platinum bob). Miss Doll is standing perfectly still, looking into the distance with a superior expression. A moment of quiet ownership. Soft studio lighting with dramatic highlights on the latex curves. Photorealistic 8k.
 
-### Prompt 70: Walking through the Latex Sea
-```text
-Surreal wide shot. Floor covered in liquid black latex. MISS DOLL (in white) is walking across, while HELENA (in black) is partially submerged, reaching up to touch Doll's boots. Cinematic. 8k.
-```
+### Prompt 70: Walking through the Latex Sea (Surreal Flood)
+Professional High-Detail Wide shot. The studio floor is covered in a shallow pool of liquid black latex. MISS DOLL (woman 28+ years old, platinum bob) in a white high-shine latex suit is walking across with grace. HELENA (woman 30+ years old, black hair, pale skin) is partially submerged in the liquid, reaching up with a submissive hand to touch Doll's pink platform boots. Cinematic and surreal D/S imagery. Blinding highlights on the reflective surfaces. EXTREME hourglass silhouettes. Photorealistic 8k.
 
-### Prompt 71: The Heel Mark (Impression)
-```text
-Professional High-Detail MACRO of a deep indentation in HELENA's (Submissive) black latex suit on her thigh, left by MISS DOLL's (Dominant) heel. Doll is walking away in bokeh. Texture of the stretched rubber. 8k.
-```
+### Prompt 71: The Heel Mark (Stretched Rubber Macro)
+Professional High-Detail MACRO photography. Focusing on a prominent, deep indentation in HELENA's (woman 30+ years old, black hair) black high-shine latex suit on her thigh, left by the pressure of MISS DOLL's (woman 28+ years old, platinum bob) stiletto heel. Miss Doll is walking away in the softly blurred background. Texture of the extreme stretched rubber and the material strain. High-fidelity skin and material textures. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 72: Balancing on Platforms
-```text
-HELENA (Submissive) standing on one foot on a narrow pillar, blindfolded. MISS DOLL (Dominant) is gently pushing her with her boot to test her balance. High tension D/S. 8k.
-```
+### Prompt 72: Balancing on Platforms (Pillar Discipline)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, standing on one foot on a narrow silver pillar. She is blindfolded and wearing a black high-shine latex suit and black corset. MISS DOLL (woman 28+ years old, platinum blonde bob) is standing next to her, gently pushing Helena with her pink platform boot to test her absolute balance and obedience. High tension D/S dynamic. Photorealistic 8k vertical portrait.
 
-### Prompt 73: The Velvet Carpet (Helena)
-```text
-HELENA (30+, black hair) lying flat, covered in a pink velvet cloth. MISS DOLL (28+, platinum bob) is walking on top of the cloth. Helena is the "living carpet". 8k.
-```
+### Prompt 73: The Velvet Carpet (Human Walkway)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, lying flat on the floor in her black high-shine latex suit. She is covered by a long pink velvet cloth. MISS DOLL (woman 28+ years old, platinum blonde bob WITHOUT bangs) is walking on top of the velvet cloth, her weight supported by Helena. Helena is the "living carpet". Arrogant ownership expression on Miss Doll's face. Both in extreme 18-inch corsets. Photorealistic 8k.
 
-### Prompt 74: The Golden Boot Punishment
-```text
-MISS DOLL (Dominant) presenting a heavy gold-plated boot to HELENA (Submissive). Helena must carry it in her arms while kneeling. "The Weight of the Idol". Both in high-shine latex. 8k.
-```
+### Prompt 74: The Golden Boot Punishment (Heavy Burden)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is presenting a heavy, solid gold-plated boot to HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena must carry the heavy object in her arms while kneeling submissively. "The Weight of the Idol" concept. Both women are wearing high-shine latex and have EXTREME hourglass silhouettes. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 75: Total Footwear Finalé
-```text
-MISS DOLL (Dominant) sitting in a pile of 100 pairs of pink and black heels. HELENA (Submissive) is buried at the bottom, blindfolded, with only one hand reaching out to touch Doll's current boot. "Obsession". 8k.
-```
+### Prompt 75: Total Footwear Finalé (Obsessive Burial)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette, sitting on a chair surrounded by a mountain of 200 pairs of pink and black PLEASER platform heels. HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is buried at the bottom of the mountain, blindfolded, with only one hand reaching out to touch the boot Miss Doll is currently wearing. "Obsession" final ritual. Blinding highlights on patent leather and latex. Photorealistic 8k.
+
+---
 
 ## 🍷 SECCIÓN 4: Total Domination & Service (Prompts 76-100)
 
-### Prompt 76: The Serving Platter (Helena)
-```text
-MISS DOLL (Dominant, 28+, platinum bob NO BANGS) sitting on a sofa. HELENA (Submissive, 30+, black hair) is on all fours in front of her, a silver tray balanced on her back. On the tray is a glass of wine. Helena is blindfolded and wearing a black latex bodysuit. Doll is wearing white latex and pink corset. High-status service. 8k.
-```
+### Prompt 76: The Serving Platter (Human Table)
+Professional High-Detail Masterpiece Glamour photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), sitting on a luxury pink latex sofa in her white catsuit and white corset. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, on all fours in front of her. A silver tray is balanced perfectly on Helena's back, holding a glass of wine. Helena is blindfolded and wearing a black high-shine latex bodysuit. High-status service. Photorealistic 8k vertical portrait.
 
-### Prompt 77: Brushing the Master's Hair
-```text
-MISS DOLL (Dominant) sitting at a vanity. HELENA (Submissive) is standing behind her, brushing Doll's platinum bob. Helena is wearing a black latex maid-style apron and a blindfold. Focus on Doll's arrogant reflection and Helena's sightless service. 8k.
-```
+### Prompt 77: Brushing the Master's Hair (Sightless Service)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), sitting at a high-fashion vanity. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, standing behind her and brushing Doll's hair. Helena is wearing a black high-shine latex maid-style apron and a pink satin blindfold. Focus on Doll's arrogant reflection in the mirror and Helena's devoted, sightless service. Both in extreme 18-inch corsets. Photorealistic 8k.
 
-### Prompt 78: The Human Cloak (Duo)
-```text
-MISS DOLL (28+, platinum bob) wearing a "cloak" made of HELENA's (30+) long jet black hair. Helena is standing behind Doll, draped over her shoulders. Helena is blindfolded. Surreal and intimate ownership. Both in tight corsets and latex. 8k.
-```
+### Prompt 78: The Human Cloak (Hair Ownership)
+Professional High-Detail Surreal photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is wearing a "cloak" made of HELENA's long jet black hair. Helena (woman 30+ years old, pale skin) is standing behind Doll, draped over her shoulders like a garment. Helena is blindfolded and perfectly still. Surreal and intimate ownership dynamic. Both women are wearing tight corsets and high-shine latex suits. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 79: Feeding the Master
-```text
-HELENA (Submissive, black hair) kneeling, holding a pink strawberry to MISS DOLL's (Dominant, platinum bob) pouting lips. Helena is blindfolded. Doll is holding Helena's wrist, guiding her. Heavy glamour makeup and high-shine latex. 8k.
-```
+### Prompt 79: Feeding the Master (Total Trust)
+Professional High-Detail CLOSE UP photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale porcelain skin. She is kneeling and holding a pink strawberry up to the pouting pink lips of MISS DOLL (woman 28+ years old, platinum bob). Helena is blindfolded with pink satin. Miss Doll is holding Helena's wrist firmly, guiding the hand to her mouth. Both women have HEAVY GLAMOUR MAKEUP and wear high-shine latex. Sharp focus on the fruit texture, the gloss of the lips, and the reflective latex. Photorealistic 8k.
 
-### Prompt 80: The Living Table (Chess)
-```text
-MISS DOLL (Dominant) playing a game of chess. The board is on HELENA's (Submissive) back while she is in a table-top pose. Helena is blindfolded and encased in black latex. "Strategic Domination". 8k.
-```
+### Prompt 80: The Living Table (Strategic Chess)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), playing a game of chess. The heavy silver board is placed on the back of HELENA (woman 30+ years old, voluminous jet black hair, pale skin) who is in a static table-top pose. Helena is blindfolded and encased in a full black high-shine latex catsuit and black corset. "Strategic Domination" concept. Both women have EXTREME hourglass silhouettes. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 81: Applying Doll's Makeup
-```text
-Professional High-Detail CLOSE UP. HELENA's (Submissive) hand (pink latex glove) applying lipstick to MISS DOLL's (Dominant) pouting lips. Helena is blindfolded, working by touch and instinct. Doll is guiding the hand. High-fidelity lip texture. 8k.
-```
+### Prompt 81: Applying Doll's Makeup (Blind Precision)
+Professional High-Detail Masterpiece photography. Focusing on HELENA's (woman 30+ years old, voluminous jet black hair, pale skin) pink latex-gloved hand as it applies glossy pink lipstick to the pouting lips of MISS DOLL (woman 28+ years old, platinum bob). Helena is blindfolded with pink satin, working only by touch and instinct. Miss Doll is guiding Helena's hand with her own. High-fidelity lip texture, wispy lashes, and heavy makeup detail. Both women in high-shine latex and 18-inch corsets. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 82: The Leashed Walking Strut
-```text
-MISS DOLL (Dominant, platinum bob) walking down a urban-style studio street, leading HELENA (Submissive, black hair) on a short silver chain. Helena is crawling on all fours, blindfolded. High-fashion fetish commercial aesthetic. 18cm Pleaser heels. 8k.
-```
+### Prompt 82: The Leashed Walking Strut (Studio Urban)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is walking down a modern studio street set, leading HELENA (woman 30+ years old, voluminous jet black hair, pale skin) on a short silver chain. Helena is crawling on all fours, blindfolded and in a black high-shine latex suit. High-fashion fetish commercial aesthetic. Both wear 20cm PLEASER platform heels. Blinding highlights on reflective floors and latex. Photorealistic 8k.
 
-### Prompt 83: Bathing the Idol
-```text
-MISS DOLL (Dominant) lying in a bathtub of pink milk. HELENA (Submissive, black hair) is kneeling next to the tub, sponging Doll's arm. Helena is blindfolded. Contrast of milk, pale skin, and black latex. 8k.
-```
+### Prompt 83: Bathing the Idol (Milk Ritual)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), lying in a luxury bathtub filled with pink milk. HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is kneeling next to the tub, sponging Doll's arm with devotion. Helena is blindfolded with pink satin and wearing a black latex suit. Contrast between the matte pink milk, Doll's flawless porcelain skin, and the reflective black rubber. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 84: The Human Coat Rack
-```text
-MISS DOLL (Dominant) hanging her luxury white fur coat on HELENA's (Submissive) outstretched arms. Helena is standing perfectly still, blindfolded and encased in black latex. "Usefulness". 8k.
-```
+### Prompt 84: The Human Coat Rack (Stasis Service)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and arrogant expression. She is hanging her heavy luxury white faux-fur coat over the outstretched arms of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is standing perfectly still, blindfolded and encased in a full black high-shine latex suit and corset. "Usefulness" concept. EXTREME hourglass silhouettes. Blinding highlights on the latex curves. Photorealistic 8k.
 
-### Prompt 85: The Silence Chamber (Glass)
-```text
-HELENA (Submissive) trapped in a glass cylinder filled with pink smoke. MISS DOLL (Dominant) is leaning against the glass, blowing a kiss. D/S through a barrier. High-shine latex reflections. 8k.
-```
+### Prompt 85: The Silence Chamber (Glass Paradox)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, trapped inside a cylindrical glass decompression chamber filled with swirling pink smoke. She is blindfolded and in black latex. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs, is leaning against the glass from the outside, blowing a kiss. D/S through a barrier. High-shine latex reflections on both sides of the glass. Photorealistic 8k vertical portrait.
 
-### Prompt 86: The Throne of Helena
-```text
-Surreal shot. MISS DOLL (Dominant) sitting on a "chair" that is actually HELENA (Submissive) folded and bound into a stool shape. Helena is encased in black latex. Miss Doll is looking directly at the camera. 8k.
-```
+### Prompt 86: The Throne of Helena (Body Stool)
+Professional High-Detail Surreal photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is sitting on a "chair" that is actually HELENA (woman 30+ years old, voluminous jet black hair, pale skin) folded and bound into a permanent stool shape. Helena is encased in full black high-shine latex. Miss Doll is looking directly at the camera with a superior, pouting expression. Both wear 20cm platform heels. Cinematic studio lighting. Photorealistic 8k.
 
-### Prompt 87: Matching the Master (Tattooing)
-```text
-MISS DOLL (Dominant) using a pink marker (temporary tattoo) to write "PROPERTY" on HELENA's (Submissive) forehead. Helena is blindfolded. Focus on the word and the pouting black bee-stung lips. 8k.
-```
+### Prompt 87: Matching the Master (Lipstick Mark)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is using a thick pink marker to write the word "PROPERTY" across the forehead of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is blindfolded with pink satin, her full glossy black lips pouting in submission. Focus on the sharp lettering and the high-fidelity skin texture. Both characters in high-shine latex and corsets. Photorealistic 8k.
 
-### Prompt 88: The Waiting Dog (Doll)
-```text
-MISS DOLL (Dominant) pointing to a spot on the floor. HELENA (Submissive) is already there, curled up like a pet, blindfolded. Miss Doll is holding a pink leather leash. Absolute command. Extreme hourglass silhouettes. 8k.
-```
+### Prompt 88: The Waiting Pet (Floor Command)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and EXTREME hourglass silhouette. She is pointing authoritatively to a specific spot on the white studio floor. HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is already there, curled up submissively like a pet, blindfolded and in black latex. Miss Doll holds a pink leather leash. Absolute command dynamic. High-key studio lighting with strong shadows. Photorealistic 8k vertical portrait.
 
-### Prompt 89: Dressing the Master (Corset)
-```text
-HELENA (Submissive, black hair) kneeling behind MISS DOLL (Dominant), pulling the laces of Doll's white corset. Helena is blindfolded. Miss Doll is looking in the mirror. High tension of the laces. 8k.
-```
+### Prompt 89: Dressing the Master (Corset Service)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, kneeling behind MISS DOLL (woman 28+ years old, platinum blonde bob WITHOUT bangs). Helena is blindfolded with pink satin and is pulling the long white leather laces of Doll's white corset. Miss Doll is looking at her own reflection in a vanity mirror with an arrogant expression. High tension in the laces and the 18-inch waists. Reflective white and black latex. Photorealistic 8k.
 
-### Prompt 90: The Footpath of Devotion
-```text
-Wide shot. HELENA (Submissive) lying down repeatedly to create a "bridge" for MISS DOLL (Dominant) to walk across without touching the floor. Miss Doll is stepping on Helena's latex-covered body. 8k.
-```
+### Prompt 90: The Footpath of Devotion (Human Bridge)
+Professional High-Detail Masterpiece Wide shot. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, lying down repeatedly across a luxury suite floor to create a "human bridge" for MISS DOLL (woman 28+ years old, platinum bob) to walk across. Miss Doll is stepping only on Helena's black high-shine latex-covered body to avoid touching the floor. Arrogant power dynamic. Both women in extreme hourglass corsets and 20cm platform heels. Cinematic lighting. Photorealistic 8k.
 
-### Prompt 91: The Sensory Cage (Duo)
-```text
-MISS DOLL (Dominant) standing inside a cage. HELENA (Submissive) is on the OUTSIDE, pressing her blindfolded face against the bars. D/S paradox. Both in high-shine latex and corsets. 8k.
-```
+### Prompt 91: The Sensory Cage (Asymmetry Paradox)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), standing inside a large pink high-shine latex cage. HELENA (woman 30+ years old, voluminous jet black hair, pale skin) is on the outside, pressing her blindfolded face submissively against the silver bars. D/S paradox: the Dominant is enclosed, the Submissive is "free" yet remains devoted. Both women in high-shine latex and extreme corsets. Blinding reflections and depth. Photorealistic 8k.
 
-### Prompt 92: Cleaning with the Hair
-```text
-HELENA (Submissive, 30+, black hair) using her own long hair to dust MISS DOLL's (28+, platinum bob) pink PLEASER heels. Helena is blindfolded. Doll is smirking. High fashion fetish irony. 8k.
-```
+### Prompt 92: Cleaning with the Hair (Fringe Duty)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin. She is using her own long hair as a brush to dust the 20cm pink PLEASER platform heels of MISS DOLL (woman 28+ years old, platinum bob). Helena is blindfolded with pink satin. Miss Doll is looking down with a smirking, superior expression and pouting pink lips. High fashion fetish irony. Both women in extreme hourglass silhouettes and reflective latex. Photorealistic 8k.
 
-### Prompt 93: The Living Mirror (Pose)
-```text
-HELENA (Submissive) holding a giant mirror for MISS DOLL (Dominant) for ten minutes without moving. Helena is blindfolded and in a full black latex catsuit. Doll is adjusting her platinum bob. 8k.
-```
+### Prompt 93: The Living Mirror (Sturdy Support)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, holding a giant ornate mirror steady for MISS DOLL (woman 28+ years old, platinum bob). Helena is blindfolded and encased in a full black high-shine latex catsuit and tight corset. Miss Doll is calmly adjusting her platinum bob in the reflection. Helena must remain perfectly still for the idol's convenience. Extreme body modification aesthetic. Photorealistic 8k vertical portrait.
 
-### Prompt 94: Bound to the Bedpost
-```text
-HELENA (Submissive) standing bound to a black bedpost with pink latex tape. Blindfolded. MISS DOLL (Dominant) is lying on the bed, watching her. "Night guard". Both in extreme hourglass silhouettes. 8k.
-```
+### Prompt 94: Bound to the Bedpost (Guard Duty)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, standing bound to a black baroque bedpost with layers of pink high-shine latex tape. She is blindfolded. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob WITHOUT bangs, is lying comfortably on the bed, watching Helena's still form. "Night guard" concept. Both women in extreme hourglass corsets and reflective high-shine latex. Cinematic candle-lit atmosphere. Photorealistic 8k.
 
-### Prompt 95: The Scent of Ownership (Collar)
-```text
-CLOSE UP of MISS DOLL (Dominant) smelling the back of HELENA's (Submissive) neck. Helena is blindfolded and wearing a black latex collar. Doll's pouting pink lips against Helena's pale skin. 8k.
-```
+### Prompt 95: The Scent of Ownership (Nape Close-up)
+Professional High-Detail Masterpiece CLOSE UP photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is smelling the back of the neck of a blindfolded HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Doll's pouting pink lips are pressed lightly against Helena's pale porcelain skin. Helena is wearing a black high-shine latex collar and black corset. Focus on the contrast between the pink lips and the pale neck. Intense psychological D/S intimacy. Photorealistic 8k.
 
-### Prompt 96: Total Submission (Floor)
-```text
-HELENA (Submissive, black hair) lying flat on the floor, perfectly still. MISS DOLL (Dominant, platinum bob) is standing with one foot on Helena's neck (delicately) and the other on her stomach. Ownership. 8k.
-```
+### Prompt 96: Total Submission (Neck Pressure)
+Professional High-Detail Masterpiece photography. HELENA is a woman 30+ years old mature elegant goth glamour, pale porcelain white skin, voluminous jet black hair, lying flat and still on the white studio floor in her black latex suit. MISS DOLL, a woman 28+ years old mature glamorous with platinum blonde bob WITHOUT bangs (exposing forehead), is standing with one 20cm pink PLEASER platform heel resting delicately but firmly on Helena's neck. Total ownership and surrender. EXTREME hourglass silhouettes cinched to 18-inch waists. Blinding high-shine latex reflections. Photorealistic 8k.
 
-### Prompt 97: The Human Lamp
-```text
-Artistic shot. HELENA (Submissive) holding a glowing pink orb above her head, blindfolded. MISS DOLL (Dominant) is reading a magazine by the light of the orb. Both in high-shine latex. 8k.
-```
+### Prompt 97: The Human Lamp (Pink Illumination)
+Professional High-Detail Artistic photography. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair and pale skin, holding a large, glowing pink crystal orb above her head. She is blindfolded and encased in a black high-shine latex catsuit. MISS DOLL (woman 28+ years old, platinum bob) is sitting in a chair, reading a black leather magazine by the pink light of the orb. "Living furniture" aesthetic. Both women in extreme corsets. Blinding highlights on the reflective latex curves. Photorealistic 8k.
 
-### Prompt 98: Tying the Final Knot
-```text
-MISS DOLL (Dominant) tying a final pink satin bow around HELENA's (Submissive) neck. Helena is completely bound in black latex. "Finished Piece". Both in heavy glamour makeup. 8k.
-```
+### Prompt 98: Tying the Final Knot (Satin Enclosure)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and HEAVY GLAMOUR MAKEUP. She is tying a final, perfect pink satin bow around the neck of HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is already completely bound in black high-shine latex and a black corset. "The Finished Piece" ritual. Both women have pouting bee-stung lips and EXTREME hourglass silhouettes. Cinematic lighting with deep shadows. Photorealistic 8k.
 
-### Prompt 99: The Eternal Gaze (Sub)
-```text
-MISS DOLL (Dominant) has removed Helena's blindfold. Helena (Submissive) is looking into Doll's eyes with absolute adoration and dilated pupils. Doll is unmoved. Deep psychological D/S. 8k.
-```
+### Prompt 99: The Eternal Gaze (Blindfold Removed)
+Professional High-Detail Masterpiece photography. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead) and arrogant expression. She has just removed the blindfold from HELENA (woman 30+ years old, voluminous jet black hair, pale skin). Helena is looking directly into Doll's eyes with absolute adoration and dilated pupils. Miss Doll remains cold and superior. Deep psychological D/S tension. Both women are in heavy glamour makeup, wearing extreme corsets and high-shine latex. Reflective studio surfaces. Photorealistic 8k.
 
-### Prompt 100: Total Mixed Fetish Finalé
-```text
-Professional High-Detail Masterpiece. MISS DOLL (Dominant, white latex, pink corset) and HELENA (Submissive, black latex, black corset) in a complex, multi-level D/S composition. Chains, satin ribbons, blindfolds, and 18cm Pleaser heels. No background, purely the hierarchy of the two bodies. Extreme hourglass silhouettes. Blinding chrome and latex gloss. The ultimate expression of La Voûte d'Anaïs. 8k. Vertical portrait.
-```
+### Prompt 100: Total Mixed Fetish Finalé (The Masterpiece)
+Professional High-Detail Masterpiece Grand Finalé. MISS DOLL is a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead), EXTREME hourglass silhouette with large high-profile implants, wearing a white high-shine latex suit and white corset. HELENA is a woman 30+ years old mature elegant goth glamour with voluminous jet black hair, pale porcelain skin, wearing a black latex suit and black corset. They are in a complex, multi-level D/S composition involving silver chains, pink satin ribbons, and 20cm PLEASER platform heels. No background, purely the hierarchy of the two bodies. Blinding chrome and liquid latex gloss. The ultimate expression of La Voûte d'Anaïs. Photorealistic 8k vertical portrait.

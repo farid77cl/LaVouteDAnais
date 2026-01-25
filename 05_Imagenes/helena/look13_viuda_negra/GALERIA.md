@@ -1,18 +1,24 @@
-# Galería: Look 13 - Viuda Negra de Látex
+# 🖼️ Galería: look13_viuda_negra
+Total imágenes: 5
 
-**Personaje:** Helena de Anaïs  
-**Look:** #13 - Viuda Negra de Látex  
-**Fecha Creación:** Enero 2026  
-**Total Imágenes:** 5
+````carousel
+![01_standing.png](./01_standing.png)
+<!-- slide -->
+![02_portrait.png](./02_portrait.png)
+<!-- slide -->
+![03_detail.png](./03_detail.png)
+<!-- slide -->
+![04_sitting.png](./04_sitting.png)
+<!-- slide -->
+![05_selfie.png](./05_selfie.png)
+````
+
+## 📜 Lista de Archivos
+- [01_standing.png](./01_standing.png)
+- [02_portrait.png](./02_portrait.png)
+- [03_detail.png](./03_detail.png)
+- [04_sitting.png](./04_sitting.png)
+- [05_selfie.png](./05_selfie.png)
 
 ---
-
-## Imágenes
-
-| Archivo | Descripción |
-|---------|-------------|
-| `01_standing.png` | Pose de pie, cuerpo completo |
-| `02_portrait.png` | Retrato/busto |
-| `03_detail.png` | Detalle del outfit |
-| `04_sitting.png` | Pose sentada |
-| `05_selfie.png` | Selfie style |
+*Actualizado automáticamente: 2026-01-25*

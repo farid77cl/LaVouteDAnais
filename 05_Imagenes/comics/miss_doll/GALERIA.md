@@ -1,17 +1,9 @@
-# Galería de Imágenes: miss_doll
+# 🖼️ Galería: miss_doll
+Total imágenes: 2
 
-> **Total Imágenes:** 2
-
-### MISS_DOLL_CANON_COMIC.jpg
-
-![MISS_DOLL_CANON_COMIC.jpg](MISS_DOLL_CANON_COMIC.jpg)
-
----
-
-### miss_doll_canon_referencia.png
-
-![miss_doll_canon_referencia.png](miss_doll_canon_referencia.png)
+## 📜 Lista de Archivos
+- [MISS_DOLL_CANON_COMIC.jpg](./MISS_DOLL_CANON_COMIC.jpg)
+- [miss_doll_canon_referencia.png](./miss_doll_canon_referencia.png)
 
 ---
-
-*Generado automáticamente el 2026-01-09 13:29*
+*Actualizado automáticamente: 2026-01-25*

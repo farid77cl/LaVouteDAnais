@@ -1,14 +1,9 @@
-# Galería: Nexum Human Repurposing
+# 🖼️ Galería: nexum_human_repurposing
+Total imágenes: 2
 
-**Proyecto:** HR: Human Repurposing (Historia)  
-**Fecha Creación:** Enero 2026  
-**Total Imágenes:** 2
+## 📜 Lista de Archivos
+- [dahlia_fullbody.png](./dahlia_fullbody.png)
+- [dahlia_portrait.png](./dahlia_portrait.png)
 
 ---
-
-## Imágenes
-
-| Archivo | Descripción |
-|---------|-------------|
-| `dahlia_fullbody.png` | Dahlia - Cuerpo completo |
-| `dahlia_portrait.png` | Dahlia - Retrato |
+*Actualizado automáticamente: 2026-01-25*
