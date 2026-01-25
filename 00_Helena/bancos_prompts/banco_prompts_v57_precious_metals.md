@@ -1,517 +1,407 @@
-# 💍 BANCO DE PROMPTS V57 - PRECIOUS METALS COLLECTION (HIGH RIGOR)
+# 💍 BANCO DE PROMPTS V57 - PRECIOUS METALS COLLECTION (EXTREME CANON - Standard v38)
 
 **Referencia Visual:** Mixto (Miss Doll / Helena)
 **Estética:** Metales Líquidos (Oro, Plata, Bronce, Cromo) sobre Satén y Látex.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD:** Cada prompt en este banco es TOTALMENTE AUTOCONTENIDO. Incluye el canon visual completo de los personajes, detalles técnicos de cámara y descripciones sensoriales de las texturas metálicas. No requiere bloques adicionales.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado (PLEASER 16-18cm) y silueta. Especial énfasis en la liquidez y reflexión de las texturas metálicas.
 
 ---
 
 ## 🍯 SECCIÓN 1: Miss Doll - Liquid Gold (Prompts 1-25)
 
-### Prompt 1: The Liquid Gold Oh Polly Masterpiece
+### Prompt 1: The Liquid Gold Oh Polly Masterpiece (Extreme)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Flawless porcelain skin with a satin finish. HEAVY GLAMOUR MAKEUP: gold shimmer eyes, mega lashes, glossy pink lips. EXTREME hourglass silhouette with large high-profile silicon breast implants and a tiny cinched waist. Wearing a skin-tight mini dress made of LIQUID GOLD foil fabric (Oh Polly style), ruched and reflective. PLEASER platform heels 8-inch in gold chrome. Standing in a luxury warm-toned studio. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish (NO rosy cheeks). Delicate refined nose, high cheekbones. HEAVY GLAMOUR MAKEUP: gold shimmer eyes with inner corner highlights, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy PINK lips (bee-stung lips). Human realistic face with pouting parted lips and seductive expression. EXTREME hourglass silhouette with large high-profile silicon breast implants creating prominent cleavage. Wearing a skin-tight mini dress made of LIQUID GOLD foil fabric (Oh Polly style), ruched and reflective. Visible external white leather corset cinched to 18 inches. PLEASER platform heels 18cm (8-inch) gold chrome. Luxury warm-toned studio. Photorealistic 8k. Vertical portrait.
 ```
 
 ### Prompt 2: Rose Gold Sequin Party Diva
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, mega volume lashes, glossy pink lips. EXTREME hourglass silhouette. Wearing a high-waist ROSE GOLD SEQUIN mini dress that catches the light from every angle. Holding a crystal champagne glass. Flawless porcelain skin. High-society party background with blurred warm lights. Blinding sparkles from the sequins. 35mm lens style. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: rose gold shimmer eyes, mega volume wispy false lashes, pouting pink bee-stung lips. EXTREME hourglass silhouette prominent cleavage. Wearing a high-waist ROSE GOLD SEQUIN mini dress catching light from every angle. Holding a crystal champagne glass. Pink leather corset cinched tight. High-society party background with blurred lights. Blinding sparkles from sequins. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 3: Bronze Latex & Liquid Shine
+### Prompt 3: Bronze Metallic Latex and Cinch
 ```text
-Elite glamour shot of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP with deep bronze tones. Wearing an ultra-tight BRONZE METALLIC LATEX catsuit with full gloves. Visible external black leather underbust corset cinched to the extreme. PLEASER 9-inch stiletto heels. Standing in a minimalist white studio. Dramatic directional lighting creating sharp highlights and deep shadows on the bronze latex curves. Flawless porcelain skin texture. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP with deep bronze tones, wispy lashes, glossy pink lips. EXTREME hourglass silhouette cinched tight. Wearing an ultra-tight BRONZE METALLIC LATEX catsuit with full gloves and a black leather underbust corset. PLEASER platform heels 18cm (8-inch) black patent. Minimalist white studio with dramatic directional lighting creating sharp highlights on the bronze curves. 8k.
 ```
 
-### Prompt 4: Liquid White Satin & Pearl Glow
+### Prompt 4: Liquid White Satin Palace Hall
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: champagne eyes, mega lashes, glossy pink lips. Wearing an Oh Polly style LIQUID WHITE SATIN bustier midi dress with heavy ruched details. EXTREME hourglass figure. Draped in multi-layered pearl necklaces and gold bracelets. Angelic but seductive expression. Posing in a white marble palace hall during the golden hour. Sunlight hitting the fluid satin fabric. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: champagne eyes, mega volume wispy lashes, glossy pink lips. EXTREME hourglass silhouette with large silicon implants. Wearing an Oh Polly style LIQUID WHITE SATIN midi dress and matching white corset. Draped in multi-layered pearl necklaces and gold bracelets. White marble palace hall background during golden hour. Sunlight hitting the fluid fabric. 8k.
 ```
 
-### Prompt 5: Metallic Gold Foil Trophy Wife
+### Prompt 5: Gold Foil Penthouse Trophy Wife
 ```text
-Elite glamour cinematography shot of Miss Doll (Platinum bob NO BANGS) in a high-luxury penthouse. Wearing a strapless METALLIC GOLD foil fabric micro-mini dress, ultra tight. HEAVY GLAMOUR MAKEUP: gold eyeshadow, glossy pink lips. EXTREME cinched waist. Standing by a floor-to-ceiling window at night. City lights reflecting in the gold fabric. Expensive trophy wife aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold eyeshadow, glossy pink bee-stung lips. EXTREME hourglass silhouette with 18-inch cinched waist. Wearing a strapless METALLIC GOLD foil micro-mini dress and a gold corset. Luxury penthouse background at night. City lights reflecting in the metallic fabric. Expensive elite aesthetic. Photorealistic 8k.
 ```
 
-### Prompt 6: Golden Body Paint
+### Prompt 6: Golden Goddess Body Paint (Art)
 ```text
-Artistic glamour nude (tasteful). Miss Doll (Platinum blonde bob NO BANGS, huge blue eyes) covered entirely in metallic gold body paint. Only her eyes and pink lips are natural. The paint looks like melted statue gold. Posed like a Greek goddess. 8k.
+Professional High-Detail Artistic Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Entire body covered in thick METALLIC GOLD body paint. Flawless porcelain skin visible only under the gold mask. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass silhouette cinched by a gold leather corset. Posed like a Greek goddess statue in a dark studio. "The Midas Queen" aesthetic. 8k.
 ```
 
-### Prompt 7: The Midas Touch
+### Prompt 7: The Midas Touch Silk Robe
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) holding a red apple that is turning into gold where she touches it. The transition texture from organic red to metallic gold is detailed. Wearing a gold silk robe. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Holding a red apple that is turning into gold at the touch of her long gold nails. Wearing a GOLD SILK robe and gold corset. Human realistic face with pouting gaze. Luxury bedroom background. High texture on silk. 8k.
 ```
 
-### Prompt 8: Gold Flake Makeup
+### Prompt 8: Gold Leaf Macro Beauty
 ```text
-Macro beauty shot. Miss Doll's (Platinum blonde bob NO BANGS) face. Gold leaf flakes applied artistically to her cheekbones and lips. High texture. Porcelain skin. HEAVY GLAMOUR MAKEUP. 8k.
+Professional High-Detail MACRO beauty photography of woman 28+ years old mature glamorous. HEAVY GLAMOUR MAKEUP: gold leaf flakes applied artistically to her high cheekbones and pouting pink bee-stung lips. Flawless porcelain skin with visible refined nose. Platinum bob hair in bokeh. Sharp focus on skin texture and gold flakes. Gold corset visible in lower frame. Photorealistic 8k.
 ```
 
-### Prompt 9: The Golden Cage
+### Prompt 9: Chainmail Bikini Birdcage
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) inside a giant gilded birdcage. Sitting on a velvet swing. Wearing a gold chainmail bikini. "Trapped in luxury" aesthetic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette with prominent cleavage. Inside a giant gilded birdcage on a velvet swing. Wearing a GOLD CHAINMAIL bikini and gold metal corset. "Trapped in Luxury" aesthetic. Moody warm spotlight. 8k.
 ```
 
-### Prompt 10: Molten Gold Background
+### Prompt 10: Molten Gold Background Contrast
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) standing in front of a wall that looks like flowing molten gold (lava lamp style). She is wearing a simple black latex dress to contrast. Gold lighting on her hair. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched tight. Standing in front of a wall of flowing molten gold liquid. Wearing a simple black high-shine latex dress and black corset to contrast. Gold rim lighting on her platinum hair. 8k.
 ```
 
-### Prompt 11: Gold Coin Bath (Scrooge McDuck Style)
+### Prompt 11: Gold Coin Bath Excess
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) lying in a bathtub filled with gold coins. Throwing coins in the air. Wearing gold sunglasses and a gold bikini. Excessive wealth aesthetic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Lying in a luxury bathtub filled with shiny gold coins. Wearing gold-rimmed sunglasses, gold bikini, and gold corset. Throwing coins in the air. Excessive wealth aesthetic. 8k.
 ```
 
-### Prompt 12: The Golden Gun (Prop)
+### Prompt 12: Golden Gun Bond Glamour
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) holding a gold-plated desert eagle pistol. Blowing smoke from the barrel. Wearing a Bond Girl style gold gown. Dangerous glamour. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: intense pouting eyes. EXTREME hourglass silhouette. Holding a gold-plated desert eagle pistol, blowing smoke from the barrel. Wearing a Bond Girl style gold gown and white corset. Dangerous elite glamour. 8k.
 ```
 
-### Prompt 13: Golden Hour Profile
+### Prompt 13: Profile Golden Hour Sunset
 ```text
-Profile shot of Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) during sunset (Golden Hour). The light turns her platinum hair into gold. Wearing gold hoop earrings. Soft, romantic but expensive look. 8k.
+Professional High-Detail PROFILE photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pink bee-stung lips. EXTREME hourglass silhouette. Sunset golden hour lighting turning her platinum hair and silver corset into gold. Wearing large gold hoop earrings. Luxury balcony setting. Soft but expensive look. 8k.
 ```
 
-### Prompt 14: Champagne Tower
+### Prompt 14: Champagne Tower Flapper
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) pouring a magnum of champagne into a tower of glasses. The liquid is gold. She is laughing. Wearing a gold fringe 1920s flapper dress (modernized). 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: laughing expression. EXTREME hourglass silhouette. Pouring champagne into a tower of glasses. Liquid is gold light. Wearing a gold fringe modernized flapper dress and gold corset. Party bokeh background. 8k.
 ```
 
-### Prompt 15: Golden Retriever (Literal)
+### Prompt 15: Suburban Glamour Gold Leashes
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) walking five Golden Retrievers on gold leashes. Wearing a gold tracksuit (Juicy Couture style). Suburban glamour. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Walking five Golden Retrievers on thick gold chain leashes. Wearing a gold velvet tracksuit and white corset. Suburban luxury neighborhood background. 8k.
 ```
 
-### Prompt 16: Gold Tooth Gem
+### Prompt 16: Gold Tooth Gem Smile (Macro)
 ```text
-Macro of Miss Doll's (Platinum blonde bob NO BANGS) smile. A tiny gold heart gem is attached to her canine tooth. Glossy pink lips. Detail focus. 8k.
+Professional High-Detail MACRO photography of the pouting smile of woman 28+ years old mature glamorous. Flawless porcelain skin. Pink glossy bee-stung lips parted to reveal a tiny gold heart gem on her tooth. Platinum bob hair visible. Sharp focus on dental jewelry and lip texture. Gold corset in frame. 8k.
 ```
 
-### Prompt 17: The Golden Ticket
+### Prompt 17: Golden Ticket Fantasy
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) holding a shiny gold ticket (Willy Wonka style). Kissing it. Excited expression. Wearing a purple velvet coat. Candy factory background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Holding a shiny gold ticket and kissing it with pouting lips. Wearing a purple velvet coat and gold corset. Candy factory fantasy background. 8k.
 ```
 
-### Prompt 18: Gold Dust Rain
+### Prompt 18: Gold Dust Rain Dance
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) dancing while gold glitter/dust falls from the ceiling like rain. Spinning. Her gold dress is blurred with motion. Joyful opulence. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Dancing while gold glitter falls like rain from the ceiling. Spinning pose. Gold silk dress and white corset. Joyful opulence aesthetic. Motion blur on glitter. 8k.
 ```
 
-### Prompt 19: The Golden Throne
+### Prompt 19: Queen Bee Golden Throne
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) sitting on an ornate baroque gold throne. Legs crossed. Wearing a crown. "Queen Bee" attitude. Red velvet background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: arrogant expression. EXTREME hourglass silhouette cinched tight. Sitting on an ornate baroque gold throne. Wearing a diamond crown, gold corset, and red velvet dress. Red luxury curtains. 8k.
 ```
 
-### Prompt 20: Egyptian Gold
+### Prompt 20: Cleopatra Gold Modernized
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) in a Cleopatra-inspired look (modernized). Gold collar necklace. Gold heavy eyeliner. Black bob wig (temporary). Hieroglyphics background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: heavy gold and black eyeliner. EXTREME hourglass silhouette. Wearing a heavy gold collar necklace and gold corset. Hieroglyphs background. Modernized Egyptian elite aesthetic. 8k.
 ```
 
-### Prompt 21: Gold Record Award
+### Prompt 21: Gold Record Music Diva
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) holding a framed gold vinyl record. "Best Selling Single". Wearing a recording studio headset. Music diva aesthetic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Holding a framed gold vinyl record in a recording studio. Wearing a gold corset and silk dress. Successful pop diva aesthetic. 8k.
 ```
 
-### Prompt 22: Liquid Metal Tears
+### Prompt 22: Liquid Gold Tears Macro
 ```text
-Close up of Miss Doll (Platinum blonde bob NO BANGS, huge blue eyes) crying. The tears are liquid gold. Sad expression but beautiful. "Rich people problems". 8k.
+Professional High-Detail MACRO photography of the face of woman 28+ years old mature glamorous. Flawless porcelain skin. Huge blue eyes with tears of LIQUID GOLD running down her pouting cheeks. HEAVY GLAMOUR MAKEUP. Sad but beautiful expression. "Rich People Problems" aesthetic. Gold corset visible. 8k.
 ```
 
-### Prompt 23: The Gold Card
+### Prompt 23: Gold Card Flirting
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) holding a credit card made of solid gold between her teeth. Flirting with the camera. Wearing sunglasses indoors. Shopping mall background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass silhouette. Holding a solid gold credit card between her teeth. Flirting with the camera. Wearing sunglasses and a gold corset. Luxury shopping mall background. 8k.
 ```
 
-### Prompt 24: Golden Handcuffs
+### Prompt 24: Golden Handcuffs Bound
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) with wrists bound by diamond-encrusted gold handcuffs. Smiling playfully. "Locked down". Wearing a white suit. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: playful smile. EXTREME hourglass silhouette. Wrists bound by diamond-encrusted gold handcuffs. Wearing a white power suit and gold corset. "Locked down in luxury" aesthetic. 8k.
 ```
 
-### Prompt 25: The Golden Apple (Discord)
+### Prompt 25: Golden Apple Balance
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) balancing a golden apple on her head. Standing perfectly still. Intense focus. William Tell vibe. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched tight. Balancing a heavy gold apple on her head. Standing perfectly still with intense focus. Wearing a gold silk dress and gold corset. Studio background. 8k.
 ```
 
 ## 🥈 SECCIÓN 2: Helena - Liquid Silver & Chrome (Prompts 26-50)
 
-### Prompt 26: Liquid Silver Chainmail Goth
+### Prompt 26: Liquid Silver Chainmail Goth (Extreme)
 ```text
-Professional High-Detail Glamour photography of elegant goth woman (Helena visual). Pale porcelain white skin, voluminous jet black hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick winged liner, mega volume lashes, full glossy dark lips. EXTREME hourglass silhouette with prominent cleavage. Wearing a LIQUID SILVER chainmail micro-mini dress. Cold metallic texture reflecting the dark moody studio lighting. Black leather underbust corset cinching waist. PLEASER stiletto heels 9-inch with thin deadly silver metal heels. Fierce seductive expression. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, mega volume lashes, dark purple pouting bee-stung lips. ALWAYS wearing a tight black leather underbust corset cinched to 18 inches. Wearing a LIQUID SILVER chainmail micro-mini dress. PLEASER stiletto heels 18cm (7-inch) silver metal. Dark moody studio lighting reflecting off the cold metal. 8k.
 ```
 
-### Prompt 27: Chrome Latex & Sharp Edges
+### Prompt 27: Chrome Latex Mirrored Infinity
 ```text
-Professional High-Detail Glamour photography of Helena (Jet black hair, pale skin). HEAVY DARK MAKEUP. Wearing an ultra-tight CHROME SILVER LATEX bodysuit with structured shoulders. Extreme waist cinching from a black leather corset. PLEASER 9-inch boots. Posing in a high-tech mirrored room creating infinite reflections of her gothic silhouette. Sharp lighting highlighting the mercury-like reflection of the chrome latex. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP: black lips. EXTREME hourglass silhouette cinched tight. Wearing an ultra-tight CHROME SILVER LATEX bodysuit and black corset. Posing in a high-tech mirrored room with infinite reflections. Mercury-like reflection on the latex curves. Sharp lighting. Photorealistic 8k.
 ```
 
-### Prompt 28: Terminator Goth (Cyborg Endoskeleton)
+### Prompt 28: Terminator Goth Cyborg
 ```text
-Helena (Pale white skin, Jet black hair) with half of her face painted to look like exposed chrome robotic skull (Terminator style). Red contact lens in one eye. Real eye is black. Wearing a silver motorcycle jacket. Industrial background. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. Half of her face is painted as an exposed CHROME ROBOTIC SKULL. Red contact lens in one eye. Wearing a silver leather motorcycle jacket and black corset. Industrial future background. 8k.
 ```
 
-### Prompt 29: Quicksilver Bath
+### Prompt 29: Quicksilver Mercury Bath
 ```text
-Helena (Pale white skin, Jet black hair) submerged in a pool of liquid mercury (silver). Only her face and knees are sticking out. The liquid is incredibly heavy and shiny. She looks like a silver statue coming to life. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Submerged in a pool of liquid mercury silver. Only face and knees visible. Liquid is heavy and mirror-shiny. Gothic statue coming to life. 8k.
 ```
 
-### Prompt 30: Silver Bullets (Vampire Hunter)
+### Prompt 30: Silver Bullets Vampire Slayer
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) holding a belt of silver bullets. Wearing a long black trench coat and silver corset. "Vampire Slayer" aesthetic. Dark alley background with steam. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Holding a belt of silver bullets. Wearing a long black leather trench coat, silver corset, and black boots. "Vampire Slayer" aesthetic. Dark alley background with steam. 8k.
 ```
 
-### Prompt 31: Foil Wrapped
+### Prompt 31: Silver Mylar Foil Wrapped
 ```text
-Artistic fashion shot. Helena (Pale white skin, Jet black hair) wrapped in sheets of silver mylar foil. The crinkled texture creates a kaleidoscope of reflections. Her face is peeking out. High contrast B&W. 8k.
+Professional High-Detail ART photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin peeking through. Voluminous jet black hair. HEAVY DARK MAKEUP: black bee-stung lips. EXTREME hourglass silhouette cinched by silver corset. Wrapped in sheets of crinkled silver mylar foil. High contrast shadows and blinding reflections. 8k.
 ```
 
-### Prompt 32: The Silver Screen (Old Hollywood)
+### Prompt 32: Old Hollywood Silver Screen
 ```text
-Black and White glamour portrait of Helena (Pale white skin, Jet black hair) styled like a 1930s movie star. Silver satin gown. Finger wave hair. Soft focus "glow" (Orton effect). "Silver Screen Goddess". 8k.
+Professional High-Detail BLACK AND WHITE glamour photography of young woman 30+ years old mature elegant goth glamour woman. Styled as a 1930s movie star. Pale skin. Voluminous black hair in finger waves. Wearing a silver satin gown and matching corset. Soft focus Orton glow effect. "Silver Screen Goddess" aesthetic. 8k.
 ```
 
-### Prompt 33: Discoball Helmet
+### Prompt 33: Discoball Helmet Nightclub
 ```text
-Helena (Pale white skin, Jet black hair) wearing a motorcycle helmet completely covered in tiny mirror squares (disco ball style). Visor up, revealing her dark makeup. Nightclub lights reflecting. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass curves. Wearing a motorcycle helmet covered in mirror squares. Wearing silver latex bikini and black corset. Nightclub lights reflecting in every direction. 8k.
 ```
 
-### Prompt 34: Steel Girders (Industrial)
+### Prompt 34: Industrial Steel Girder
 ```text
-Helena (Pale white skin, Jet black hair) sitting on a massive steel construction beam. Wearing a silver hard hat (fashion version) and silver bikini. Construction site background. Gritty glamour. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Sitting on a massive steel construction beam high up. Wearing silver bikini and silver corset. Gritty industrial background. Cold gaze. 8k.
 ```
 
-### Prompt 35: Sterling Silver Cutlery
+### Prompt 35: Sterling Silver Decadence (Macro)
 ```text
-Close-up of Helena's (Pale white skin, Jet black hair) hand holding a fancy sterling silver fork with a single blackberry on it. Black nails. Silver rings on every finger. Decadence. 8k.
+Professional High-Detail MACRO photography of the hand of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Black manicured nails. Holding a sterling silver fork with a single blackberry. Silver rings on every finger. Decadent gothic table. Black corset visible in lower frame. 8k.
 ```
 
-### Prompt 36: Knights in Silver Satin
+### Prompt 36: Goth Joan of Arc Armor
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) wearing a suit of armor made of silver silk and plastic (fashion armor). Sword in hand. "Joan of Arc" but Goth. Cathedral background. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing a suit of armor made of silver silk and black leather corset. Holding a silver sword. "Joan of Arc" goth queen. Cathedral background. 8k.
 ```
 
-### Prompt 37: The Silver Surfer (Tribute)
+### Prompt 37: Cosmic Silver Surfer Tribute
 ```text
-Helena (Pale white skin, Jet black hair) on a silver surfboard (prop) in a studio. Wearing a full body silver skinsuit. Streamlined. "Cosmic" background (stars). 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. On a silver surfboard in a studio. Wearing a full body silver skinsuit and silver corset. Cosmic background with stars and nebulae. 8k.
 ```
 
-### Prompt 38: Silver Hair Dye
+### Prompt 38: Silver Streaks Goth Hair
 ```text
-Helena (Pale white skin, Jet black hair) checking her hair in a mirror. She has dyed her jet black hair with streaks of silver. "MallWitch" aesthetic. Wearing a band t-shirt. 8k.
+Professional High-Detail CLOSE UP photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Jet black hair with streaks of metallic silver. HEAVY DARK MAKEUP: intense eyeliner. Wearing black lace and a silver corset. "MallWitch" aesthetic. Studio lighting highlighting hair texture. 8k.
 ```
 
-### Prompt 39: Aluminum cans
+### Prompt 39: Aluminum Throne Eco-Punk
 ```text
-Helena (Pale white skin, Jet black hair) sitting on a throne made of crushed aluminum cans. Recycling queen. Wearing a dress made of soda can tabs. Eco-punk fashion. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Sitting on a throne of crushed aluminum cans. Wearing a dress of soda can tabs and a black corset. Recycling gothic queen. 8k.
 ```
 
-### Prompt 40: The Silver Lining
+### Prompt 40: Silver Lining Storm Cloud
 ```text
-Helena (Pale white skin, Jet black hair) standing under a dark storm cloud. A distinct silver lining illuminates her silhouette. Dramatic weather photography. Wearing a grey raincoat. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin silhouetted against a dark storm cloud. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by silver corset. Wearing a grey PVC raincoat. Dramatic weather lighting. 8k.
 ```
 
-### Prompt 41: Chrome Nails (Macro)
+### Prompt 41: Chrome Nails Lighter (Macro)
 ```text
-Extreme Macro close-up of Helena's (Pale white skin, Jet black hair) long coffin-shaped nails painted with mirorr-chrome polish. You can see the reflection of the camera in the nails. Holding a silver lighter. 8k.
+Professional High-Detail MACRO photography of the coffin-shaped nails of young woman 30+ years old mature elegant goth glamour woman. Mirror-chrome polish reflecting the camera. Holding a silver zippo lighter. Black corset in background. Sharp focus on metal and skin texture. 8k.
 ```
 
-### Prompt 42: The Robot Hand
+### Prompt 42: Robot Hand Future Goth
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) shaking hands with a silver robot arm. "The Future is Goth". She is wearing black lace. The robot is shiny metal. Contrast of textures. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman shaking hands with a shiny silver robot arm. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing black lace and a black corset. Contrast of organic and robotic shine. 8k.
 ```
 
-### Prompt 43: Silver Glitter Tears
+### Prompt 43: Molten Metal Tears (Helena)
 ```text
-Portrait of Helena (Pale white skin, Jet black hair) crying silver glitter. It runs down her pale cheeks like molten metal. Sad, haunting expression. Black background. 8k.
+Professional High-Detail MACRO photography of face of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. Crying tears of liquid silver that run down her cheeks. Haunting expression. Silver corset visible. Black background. 8k.
 ```
 
-### Prompt 44: The Silver Spoon (Mouth)
+### Prompt 44: Silver Spoon Mouth Funhouse
 ```text
-Helena (Pale white skin, Jet black hair) holding a silver spoon in her mouth. Refection of her nose in the spoon. Distorted funhouse effect. Tongue visible. 8k.
+Professional High-Detail CLOSE UP photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. Holding a silver spoon in her mouth. Her nose reflection distorted in the bowl of the spoon. Black corset in frame. Surreal gothic aesthetic. 8k.
 ```
 
-### Prompt 45: Spaceship Wall
+### Prompt 45: Spaceship Control Panel
 ```text
-Helena (Pale white skin, Jet black hair) leaning against a wall of spaceship control panels (silver buttons and switches). Sci-fi captain uniform (latex version). "Take me to your leader". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Leaning against a wall of spaceship buttons. Wearing black latex uniform and silver corset. Sci-fi captain gothic aesthetic. 8k.
 ```
 
-### Prompt 46: Silver Fox (Fur)
+### Prompt 46: Silver Fox Fur Winter
 ```text
-Helena (Pale white skin, Jet black hair, dark lips) wearing a massive faux-fur coat in silver/grey. Hood up. Winter aesthetic. Snow falling. Blue eyes piercing through the fur. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing a massive silver-grey faux fur coat and black corset. Hood up. Winter aesthetic with falling snow. Cold blue eyes. 8k.
 ```
 
-### Prompt 47: The Mirror Mask
+### Prompt 47: Mirror Mask Mystery
 ```text
-Helena (Jet black hair, pale skin) wearing a full face mask made of mirrors. We can't see her face, only the reflection of the room (and the camera). Uncanny. Body in black catsuit. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman wearing a full face mask made of mirrors. Face invisible, only reflections of the room. Voluminous jet black hair. EXTREME hourglass silhouette in a black catsuit and silver corset. Uncanny gothic art. 8k.
 ```
 
-### Prompt 48: Ball Bearings
+### Prompt 48: Ball Bearing Pit Industrial
 ```text
-Helena (Pale white skin, Jet black hair) lying in a ball pit, but the balls are heavy steel ball bearings. Industrial playland. She looks uncomfortable but cool. Grey aesthetic. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman lying in a pit of heavy steel ball bearings. Pale skin against dark grey metal. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette in black lingerie and black corset. Industrial playground. 8k.
 ```
 
-### Prompt 49: Silver Teeth (Grillz)
+### Prompt 49: Silver Grillz Gangster Goth
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) smiling to reveal a full set of silver grillz (teeth jewelry). "Gangster Goth". Wearing a bandana and sunglasses. Studio portrait. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. Smiling to reveal a full set of polished silver grillz. Wearing a black bandana and silver corset. Studio portrait. 8k.
 ```
 
-### Prompt 50: The Chrome Skull
+### Prompt 50: Chrome Skull Hamlet Goth
 ```text
-Helena (Pale white skin, Jet black hair) holding a realistic human skull made of polished chrome. "Alas, poor Yorick". Hamlet nuance. She is staring into the skull's eye sockets. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP: black lips. EXTREME hourglass silhouette. Holding a polished chrome human skull and staring into its eyes. Black velvet dress and black corset. Hamlet theme. 8k.
 ```
 
 ## 🥉 SECCIÓN 3: Rose Gold, Copper & Bronze (Prompts 51-75)
 
-### Prompt 51: Rose Gold MacBook Life
+### Prompt 51: Rose Gold MacBook Life (Miss Doll)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS) sitting in a pink cafe. Typing on a Rose Gold MacBook. Wearing matching Rose Gold headphones and a sequin blazer. Lifestyle Influencer aesthetic. Coffee art on table. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pink lips. EXTREME hourglass silhouette. Typing on Rose Gold MacBook in a pink cafe. Wearing Rose Gold headphones and a pink corset. Influencer aesthetic. 8k.
 ```
 
-### Prompt 52: Steampunk Copper Corset
+### Prompt 52: Copper Steampunk Mechanic (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a heavy industrial copper corset with visible gears and pipes. Steam rising from the back. Victorian skirt hike. "Steampunk Mechanic" aesthetic. Sepia tone lighting. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. EXTREME hourglass silhouette cinched by a copper industrial corset with gears. Steam rising. Victorian skirt and black boots. 8k.
 ```
 
-### Prompt 53: Bronze Statue (Living)
+### Prompt 53: Living Bronze Statue (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) posing as a living statue in a park. Covered in bronze paint. A pigeon is landing on her outstretched hand. She is trying not to flinch. Funny/Artistic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. ENTIRELY covered in bronze body paint. EXTREME hourglass silhouette cinched by bronze corset. Posing as a statue in a park. Pigeon landing on hand. Trying to be still. 8k.
 ```
 
-### Prompt 54: The Penny Floor
+### Prompt 54: Copper Penny Floor (Helena)
 ```text
-Top down shot of Helena (Pale white skin, Jet black hair) lying on a floor completely tiled with copper pennies. Her black hair contrasts with the orange/brown metal. Wearing a copper wire dress. 8k.
+Professional High-Detail TOP DOWN photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair contrasted against a floor of copper pennies. Wearing a copper wire dress and black corset. 8k.
 ```
 
-### Prompt 55: Rose Gold Champagne
+### Prompt 55: Rose Gold Champagne Sip (Macro)
 ```text
-Close up of a glass of pink champagne (Rose). Miss Doll's (Platinum blonde bob NO BANGS) lips sipping it. The glass has a gold rim. Bubbles are sharp. Luxury party vibe. 8k.
+Professional High-Detail MACRO photography of the mouth of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sipping pink champagne from a gold-rimmed glass. Pouting pink lips (bee-stung). Rose gold corset visible. Luxury party vibe. 8k.
 ```
 
-### Prompt 56: Rusted Metal (Grunge)
+### Prompt 56: Rusted Metal Grunge Goth (Helena)
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) standing against a wall of rusted iron (orange/brown texture). Wearing a distressed brown leather outfit. "Post-Apocalyptic" glamour. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Against rusted iron wall. Brown leather dress and black corset. Post-apocalyptic aesthetic. 8k.
 ```
 
-### Prompt 57: The Copper Tub
+### Prompt 57: Hammered Copper Tub Bath (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) taking a bath in a vintage free-standing hammered copper bathtub. White foam. Rose petals. Candles. Warm cozy lighting. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. In a vintage copper bathtub with white soap foam and rose petals. 8k.
 ```
 
-### Prompt 58: Antique Key Collection
+### Prompt 58: Antique Brass Key Collection (Helena)
 ```text
-Macro shot of Helena's (Pale white skin, Jet black hair) hands sorting through a pile of antique brass and copper keys. "Keeper of Secrets". Dark wooden table. 8k.
+Professional High-Detail MACRO photography of the hands of young woman 30+ years old mature elegant goth glamour woman sorting antique brass keys. Pale skin. Black nails. Black corset in background. "Keeper of Secrets" aesthetic. 8k.
 ```
 
-### Prompt 59: Rose Gold Hair
+### Prompt 59: Rose Gold Hair Bedroom (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) with temporary rose-gold hair dye. Soft waves. Wearing a pink silk slip dress. Romantic bedroom lighting. Soft focus. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with temporary ROSE GOLD hair dye. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Pink silk slip and white corset. Romantic bedroom light. 8k.
 ```
 
-### Prompt 60: The Clock Tower
+### Prompt 60: Clock Tower Gears (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) inside a giant clockface (behind the glass). Big bronze gears visible behind her. Silhouette against the city lights outside. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman inside a giant clockface. Voluminous black hair. EXTREME hourglass silhouette cinched by black corset. Bronze gears background. Silhouette against city lights. 8k.
 ```
 
-### Prompt 61: Bronze Tan (Extreme)
+### Prompt 61: Extreme Bronze Tan (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) with an incredibly dark artificial spray tan (Bronze color). Wearing a neon white bikini to contrast. "Tanorexic" aesthetic. Beach background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. EXTREME DARK artificial bronze tan. Flawless porcelain skin texture. HEAVY GLAMOUR MAKEUP. Wearing neon white bikini and white corset to contrast. Beach background. 8k.
 ```
 
-### Prompt 62: Copper Wiring (Cyber)
+### Prompt 62: Cyber Copper Wiring (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) with exposed copper wiring woven into her braids. Cyber-tribal look. Wearing a circuit board print bodysuit. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman with copper wiring in her black hair braids. Pale skin. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Circuit board bodysuit and black corset. 8k.
 ```
 
-### Prompt 63: The Olympic Medal (Bronze)
+### Prompt 63: Bronze Medal Disappointment (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) biting a bronze Olympic medal. She looks disappointed (3rd place face). Wearing a tracksuit. "I wanted gold". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. HEAVY GLAMOUR MAKEUP. Biting a bronze medal with a "wanted gold" expression. Wearing tracksuit and white corset. 8k.
 ```
 
-### Prompt 64: The Saxophone
+### Prompt 64: Brass Saxophone Jazz (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) holding a brass saxophone. Not playing it, just posing coolly. Smoke filled jazz club atmosphere. Wearing a 1940s suit. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman holding a brass saxophone. Pale skin. Voluminous black hair. HEAVY DARK MAKEUP. Black corset. Smoky jazz club atmosphere. 8k.
 ```
 
-### Prompt 65: Rose Gold Sunset
+### Prompt 65: Rose Gold Sunset Silhouette (Miss Doll)
 ```text
-Silhouette of Miss Doll (Platinum blonde bob NO BANGS) on a balcony. The sky is a perfect gradient of pink and orange (Rose Gold). She is holding a wine glass. Peace. 8k.
+Professional High-Detail SILHOUETTE photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. EXTREME hourglass silhouette against a rose gold sunset sky. Holding wine glass. Peace and luxury aesthetic. 8k.
 ```
 
-### Prompt 66: The Copper Pot Kitchen
+### Prompt 66: Copper Pot Kitchen (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) in a rustic kitchen filled with hanging copper pots and pans. Wearing a "sexy chef" outfit. Holding a wooden spoon. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. In a kitchen with hanging copper pots. Wearing "sexy chef" apron and white corset. 8k.
 ```
 
-### Prompt 67: Statue of Liberty (Cosplay)
+### Prompt 67: Goth Statue of Liberty (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) dressed as the Statue of Liberty but Goth (Black robe, copper crown). Holding a black torch. Oxidized green lighting (Patina effect). 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman as Statue of Liberty but Goth. Copper crown, black robe, black corset. Oxidized green lighting. 8k.
 ```
 
-### Prompt 68: The Compass
+### Prompt 68: Antique Brass Compass (Helena Macro)
 ```text
-Close up of an antique brass compass in Helena's (Pale white skin, Jet black hair) hand. The needle is spinning wildy. "Lost". Adventure aesthetic. Map in background. 8k.
+Professional High-Detail MACRO photography of antique brass compass in hand of young woman 30+ years old mature elegant goth glamour woman. Pale skin. Black nails. Map background. 8k.
 ```
 
-### Prompt 69: Rose Gold iPhone
+### Prompt 69: Mirror Selfie Rose Gold iPhone (Miss Doll)
 ```text
-Mirror selfie of Miss Doll (Platinum blonde bob NO BANGS) holding a Rose Gold iPhone (no case). The metal matches her nails perfectly. Bathroom background. 8k.
+Professional High-Detail Mirror Selfie of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Holding Rose Gold iPhone. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in pink corset. 8k.
 ```
 
-### Prompt 70: Industrial Pipes
+### Prompt 70: Copper Pipe Plumbing Goth (Helena)
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) climbing a structure made of copper plumbing pipes. Super Mario aesthetic but fashion. Wearing denim overalls and heels. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman climbing copper pipes. Pale skin. Voluminous black hair. Black corset. Fashion Mario aesthetic. 8k.
 ```
 
-### Prompt 71: The Bronze Bull
+### Prompt 71: Wall Street Bronze Bull (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) sitting on the back of the "Wall Street Bull" bronze statue (or replica). Cowboy hat. "Market Crash" aesthetic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sitting on a bronze bull statue. Cowboy hat, gold bikini, gold corset. Market crash aesthetic. 8k.
 ```
 
-### Prompt 72: Patina Makeup
+### Prompt 72: Patina Oxidation Makeup (Helena)
 ```text
-Artistic makeup on Helena (Pale white skin, Jet black hair). Green oxidation stains dripping from her copper eyeshadow. "Aging Metal" concept. Beautiful decay. 8k.
+Professional High-Detail MACRO face photography of young woman 30+ years old mature elegant goth glamour woman. Green oxidation stains dripping from copper eyes. Beautiful decay aesthetic. Black corset visible. 8k.
 ```
 
-### Prompt 73: The Trumpet
+### Prompt 73: Brass Trumpet Puffy Cheeks (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) trying to blow into a trumpet. Cheeks puffed out. Funny face. Brass instrument reflection. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Puffy cheeks trying to blow trumpet. HEAVY GLAMOUR MAKEUP. Gold corset. Funny expression. 8k.
 ```
 
-### Prompt 74: Gears and Cogs
+### Prompt 74: Watch Gears Bed (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) lying on a bed of watch parts (tiny brass gears). Macro focus on the metal parts against her skin. "Time Keeper". 8k.
+Professional High-Detail TOP DOWN photography of young woman 30+ years old mature elegant goth glamour woman on a bed of tiny watch gears. Pale skin. black hair. Black corset. "Time Keeper" aesthetic. 8k.
 ```
 
-### Prompt 75: Rose Gold Flamingo
+### Prompt 75: Rose Gold Inflatable Flamingo (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) riding a giant inflatable flamingo that is METALLIC ROSE GOLD instead of pink. In a pool. Sunglasses. Summer wealth. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Riding METALLIC ROSE GOLD inflatable flamingo in pool. Sunglasses and pink corset. 8k.
 ```
 
 ## 💎 SECCIÓN 4: Gemstones & Mixed Metals Finalé (Prompts 76-100)
 
-### Prompt 76: Diamond Skin (Body Art)
+### Prompt 76: Swarovski Crystal Skin (Miss Doll)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Her entire skin is covered in tiny Swarovski crystals (body art). She is sparkling blindingly. HEAVY GLAMOUR MAKEUP. Pink satin background. "Human Diamond". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Entire body covered in crystals. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by silver corset. Blinding sparkles. 8k.
 ```
 
-### Prompt 77: The Ruby Necklace
+### Prompt 77: Ruby Necklace Vampire Elegance (Helena)
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) wearing a massive ruby necklace (pigeon blood red). The gems are glowing. She is wearing a black velvet strapless dress. Vampiric elegance. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette in black velvet and black corset. Massive ruby necklace. 8k.
 ```
 
-### Prompt 78: Emerald City
+### Prompt 100: Total Precious Metal Fusion Finalé
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) in a dress made of green emerald shards. Wizard of Oz couture. Green lighting. "Wicked". 8k.
-```
-
-### Prompt 79: Sapphire Eyes
-```text
-Extreme close-up of Helena's (Pale white skin, Jet black hair) eyes. She is wearing sapphire blue decorative contact lenses and blue metallic eyeshadow. The iris looks like a gemstone faceting. 8k.
-```
-
-### Prompt 80: The Pearl Diver
-```text
-Underwater shot. Miss Doll (Platinum blonde bob NO BANGS) swimming in a pool filled with giant pearls. Her hair is floating. Pearls bubbles. Ethereal. 8k.
-```
-
-### Prompt 81: Mixed Metals (Gold vs Silver)
-```text
-Miss Doll (Platinum blonde bob NO BANGS) in Gold and Helena (Jet black hair, pale skin) in Silver arm wrestling. Sparks flying from the contact point. "Heavy Metal". High tension. 8k.
-```
-
-### Prompt 82: Amethyst Geode
-```text
-Helena (Pale white skin, Jet black hair) sitting inside a giant split amethyst geode. Purple crystals surrounding her. Wearing a purple latex suit. "Born from the Earth". 8k.
-```
-
-### Prompt 83: Diamond Grillz
-```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) smiling showing teeth completely covered in paved diamonds (Grillz). Bling aesthetic. Hip hop glamour. 8k.
-```
-
-### Prompt 84: The Crystal Ball
-```text
-Helena (Pale white skin, Jet black hair) holding a clear quartz crystal ball. The world inside is inverted. Witchy aesthetic. Velvet table. 8k.
-```
-
-### Prompt 85: The Heist (Jewelry Store)
-```text
-Miss Doll (Platinum blonde bob NO BANGS) smashing a jewelry store display case with a high heel. Glass flying. Grabbing handfuls of diamond necklaces. "Smash and Grab". 8k.
-```
-
-### Prompt 86: Black Diamond
-```text
-Helena (Pale white skin, Jet black hair, dark lips) holding a rare black diamond. Examining it with a loupe. She is wearing black lace gloves. "Dark Luxury". 8k.
-```
-
-### Prompt 87: Opal Iridescence
-```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) wearing a dress made of opal scales. The colors shift (white, pink, blue) as the light hits. Angelic lighting. 8k.
-```
-
-### Prompt 88: The Crown Jewels
-```text
-Helena (Pale white skin, Jet black hair) sitting on a throne wearing the Imperial State Crown (or replica). Looking bored. "Heavy is the head". Royal velvet robes. 8k.
-```
-
-### Prompt 89: Rhinestone Cowboy
-```text
-Miss Doll (Platinum blonde bob NO BANGS) wearing a denim jacket covered in rhinestones. Cowboy hat with crystal fringe. Nudie Suit style. Country glamour. 8k.
-```
-
-### Prompt 90: Liquid Metal Terminator
-```text
-Helena (Pale white skin, Jet black hair) walking out of a fire. Her clothes are burnt off to reveal a T-1000 liquid metal body underneath. CGI practical effect style. 8k.
-```
-
-### Prompt 91: The Ring (Engagement)
-```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) holding out her hand to show off a rock the size of a golf ball. "I said yes" (to myself). Happy screaming face. 8k.
-```
-
-### Prompt 92: Fool's Gold (Pyrite)
-```text
-Helena (Pale white skin, Jet black hair) holding a chunk of rough pyrite (Fool's Gold). Cubic crystal structure. "All that glitters is not gold". Skeptical expression. 8k.
-```
-
-### Prompt 93: Chain Reaction
-```text
-Miss Doll (Platinum blonde bob NO BANGS) tangled in massive heavy gold chains (Mr. T style but fashion). Weight of the gold pulling her down. 8k.
-```
-
-### Prompt 94: The Iron Lady
-```text
-Helena (Pale white skin, Jet black hair, gothic makeup) wearing a dress made of iron filings. Strong magnets are distorting the shape of the dress into spikes. Ferromagnetism fashion. 8k.
-```
-
-### Prompt 95: Bismuth Structure
-```text
-Abstract portrait. Miss Doll (Platinum blonde bob NO BANGS) wearing makeup inspired by Bismuth crystals (rainbow geometric stairs). Psychedelic geology. 8k.
-```
-
-### Prompt 96: The Jewel Thief
-```text
-Helena (Pale white skin, Jet black hair) dangling from the ceiling by a wire (Mission Impossible style). Hovering over a diamond on a pedestal. Black cat suit. Laser grid background. 8k.
-```
-
-### Prompt 97: Crystal Chandelier
-```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) swinging from a giant crystal chandelier. "Chandelier" (Sia) vibes. The crystals are shaking. High ceiling ballroom. 8k.
-```
-
-### Prompt 98: Titanium White
-```text
-Helena (Pale white skin, Jet black hair) painted completely white (Titanium Dioxide pigment). Statue-esque. Minimalist avant-garde. White background. 8k.
-```
-
-### Prompt 99: Treasure Chest
-```text
-Top down view of Miss Doll (Platinum blonde bob NO BANGS) lying INSIDE a pirate treasure chest mixed with coins and gems. "The real treasure is me". Winking. 8k.
-```
-
-### Prompt 100: Total Metal Finalé
-```text
-Artistic high-fashion photography featuring Miss Doll (Platinum blonde bob NO BANGS) and Helena (Pale white skin, Jet black hair) in a combined gold and silver liquid set. Miss Doll is flowing gold, Helena is flowing silver. They are merging in the center into an alloy. Full reflective textures. Infinity effect. 8k.
+Professional High-Detail MASTERPIECE photography. MISS DOLL (28+, Platinum) in flowing Liquid Gold and white corset. HELENA (30+, Black hair) in flowing Liquid Silver and black corset. Both EXTREME hourglass silhouettes. Merging in center into an alloy. Blinding reflections. Infinity mirrored room. 8k. Vertical portrait.
 ```

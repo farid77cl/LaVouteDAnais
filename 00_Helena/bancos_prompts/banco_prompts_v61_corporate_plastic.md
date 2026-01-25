@@ -1,520 +1,517 @@
-# 💼 BANCO DE PROMPTS V61 - CORPORATE PLASTIC & DARK BOARDROOM (HIGH RIGOR)
+# 💼 BANCO DE PROMPTS V61 - CORPORATE PLASTIC & DARK BOARDROOM (EXTREME CANON - Standard v38)
 
-**Referencia Visual:** Miss Doll & Helena (SOLO).
+**Referencia Visual:** Miss Doll & Helena.
 **Estética:** Office Fetish, Power Suits, Glass & Steel, Latex Business Wear, High Contrast.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD:** Cada prompt en este banco es TOTALMENTE AUTOCONTENIDO (100-150 palabras). Incluye el canon visual completo de los personajes, detalles técnicos de cámara y descripciones sensoriales de las texturas (Seda, Lana Fría, Piel, Plástico de Oficina).
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado y silueta. No requiere contexto externo.
 
 ---
 
 ## 💅 SECCIÓN 1: Miss Doll - The Bimbo CEO (Prompts 1-25)
 
-### Prompt 1: The Pink Power Suit
+### Prompt 1: The Pink Power Suit (Extreme Detail)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS, porcelain skin, heavy glamour makeup, voluptuous hourgalss figure). Wearing a HOT PINK tailored business suit (skirt and blazer) in shiny satin. No shirt underneath, deep cleavage. Sitting at a massive glass executive desk. Feet up on the desk wearing 8-inch white heels. Holding a gold pen. "Boss Bitch" expression. Modern skyline view through floor-to-ceiling windows. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish (NO rosy cheeks). Delicate refined nose, high cheekbones. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy PINK lips (bee-stung lips). Human realistic face with pouting parted lips and dreamy seductive expression. EXTREME hourglass silhouette with large high-profile implants creating prominent cleavage. Wearing a HOT PINK tailored satin business suit (skirt and blazer). No shirt underneath, revealing deep cleavage. Visible external white leather corset cinching her tiny waist over the blazer. PLEASER platform heels 16cm (7-inch) white patent. Sitting at a massive glass executive desk. Skyline view through floor-to-ceiling windows. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 2: Boardroom Presentation
+### Prompt 2: Boardroom Presentation Diva
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin, heavy glamour makeup) standing in front of a whiteboard filled with gibberish pink diagrams. Wearing a white latex pencil skirt and a pink silk blouse (buttons straining). Holding a pointer. Glasses perched on nose. "Pay attention". Conference room setting. Bright fluorescent luxury lighting. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: champagne eyes, mega volume wispy lashes, ULTRA PLUMP overlined glossy PINK lips. EXTREME hourglass silhouette with prominent cleavage. Standing in front of a white glass presentation board. Wearing a tight WHITE LATEX pencil skirt and a pink silk blouse, buttons straining. Visible external pink corset cinching her tiny waist. Wearing cat-eye reading glasses perched ditzily on her nose. Holding a gold pointer. Human realistic face with "pay attention" playful expression. Bright fluorescent luxury office lighting. 8k. Vertical portrait.
 ```
 
-### Prompt 3: The Executive Chair
+### Prompt 3: Spinning Executive Chair
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) spinning in a giant black leather executive chair. Tossing a stack of money in the air. Wearing a pinstripe mini dress (navy and pink). Big smile. "Bonus season". Office background blurred. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by a black corset. Spinning in a giant black leather executive chair. Tossing a massive stack of $100 bills in the air. Wearing a pinstripe mini dress (navy and pink) and PLEASER platform heels 16cm navy. Human realistic face with a joyous, ditzy "Bonus season" expression. High texture detail on currency and leather. Blinding office highlight. 8k. Vertical portrait.
 ```
 
-### Prompt 4: Coffee Break (Venti)
+### Prompt 4: Venti Coffee Coffee Break
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, huge blue eyes) holding a comically large iced coffee cup (Venti+). Straw in mouth. Wearing a tweed Chanel-style suit in pastel yellow. "Fueling the empire". Standing by the water cooler. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: wispy lashes, PINK lips. EXTREME hourglass silhouette. Wearing a tweed Chanel-style suit in pastel yellow. Visible external yellow leather corset cinching her waist extremely tight. Holding a comically large iced coffee cup with a pink straw. Human realistic face with dreamy "Fueling the empire" expression. Standing by a designer water cooler. Modern office background. 8k. Vertical portrait.
 ```
 
-### Prompt 5: The Glass Elevator
+### Prompt 5: Glass Elevator Reflection
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) inside a glass elevator. City lights behind her. Wearing a sheer mesh turtleneck tucked into high-waisted trousers. "Going up". Reflection in the glass. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette with prominent cleavage. Inside a high-speed glass elevator. City lights blurring behind her. Wearing a sheer white mesh turtleneck tucked into high-waisted magenta trousers. Visible external magenta corset cinching her cinched waist. Human realistic face looking at her own reflection in the glass elevator doors. PLEASER platform heels 16cm magenta. Sharp focus. 8k. Vertical portrait.
 ```
 
-### Prompt 6: Late Night Paperwork
+### Prompt 6: Late Night Document Pile
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) sitting on the floor surrounded by piles of documents. Looking overwhelmed but cute. Wearing a loose men's white dress shirt (unbuttoned) and pink lingerie. Desk lamp lighting. "Overtime". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Sitting on the carpeted office floor surrounded by piles of white documents. Looking overwhelmed and ditzy. Wearing a loose men's white dress shirt, unbuttoned, revealing pink lace lingerie underneath and a tight pink corset. Human realistic face with messy bob. Desk lamp lighting creating long shadows. "Overtime" aesthetic. 8k. Vertical portrait.
 ```
 
-### Prompt 7: Secretary Fantasy
+### Prompt 7: Vintage Secretary Typewriter
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) typing on a vintage typewriter (Pink). Wearing cat-eye reading glasses. "Take a letter". Retro 60s office aesthetic (Mad Men style). Beehive hair volume. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: thick cat-eye liner, wispy lashes, RED lips. EXTREME hourglass silhouette. Typing on a vintage bubblegum pink typewriter. Wearing a 60s style pink pencil dress and a white external corset. Cat-eye reading glasses. Human realistic face with focused ditzy expression. Mid-century modern office background. High texture detail on keys and fabric. 8k. Vertical portrait.
 ```
 
-### Prompt 8: The Photocopier
+### Prompt 8: Photocopier Self-Portrait
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) sitting ON TOP of the photocopier. Printing copies of her own face. The light from the scanner illuminates her from below. Wearing a black vinyl dress. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Sitting ON TOP of a large office photocopier. Printing copies of her own face. The green scanner light illuminating her curves from below. Wearing a black vinyl bodycon dress and black corset. PLEASER platform heels 16cm black. Human realistic face laughing at the scanner. Dark copy room atmosphere. 8k. Vertical portrait.
 ```
 
-### Prompt 9: Business Lunch
+### Prompt 9: 80s Wall Street Martini Lunch
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) at a fancy restaurant table. Holding a martini. "Martini Lunch". Wearing a red power dress with shoulder pads. 80s Wall Street vibe. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette with shoulder pads. Wearing a bright RED power dress and a red external leather corset. Sitting at a fancy restaurant table with a martini. Human realistic face with "Martini Lunch" smile. Gold jewelry. 80s wealthy aesthetic. Sharp focus on the glass and her face. 8k. Vertical portrait.
 ```
 
-### Prompt 10: The Interview
+### Prompt 10: POV Interrogation Interview
 ```text
-POV shot: Miss Doll (Platinum blonde bob NO BANGS, huge blue eyes) looking down at you from across her desk. Interlaced fingers. "Why should I hire you?". Stern but sexy face. Wearing a grey suit with a tight corset. 8k.
+Professional High-Detail Glamour photography POV SHOT of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Looking down at the camera from across an executive desk. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: wispy lashes, NUDE lips. EXTREME hourglass silhouette prominent cleavage. Wearing a grey tailored business suit and a tight grey corset. Stern but seductive "Why should I hire you?" expression. Interlaced manicured fingers. Modern corporate board room. 8k. Vertical portrait.
 ```
 
-### Prompt 11: Office Golf
+### Prompt 11: Office Putting (Golf)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) putting a golf ball into a coffee mug on the floor. Wearing a plaid golf skirt and visor. "Closing the deal". Executive office background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Putting a golf ball into a ceramic coffee mug on the office floor. Wearing a plaid pink and white golf skirt and a tight white visor. Visible external pink corset. Human realistic face focused on the ball. PLEASER platform heels 16cm pink beside her. Executive office background. 8k.
 ```
 
-### Prompt 12: Shredding Evidence
+### Prompt 12: Shredding Secrets Manically
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) feeding papers into a shredder. Laughing maniacally. Confetti flying. Wearing a black trench coat over lingerie. Film Noir office vibes. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Feeding documents into a heavy-duty shredder. Confetti-like paper flying in the air. Wearing a black trench coat over red lingerie and a red corset. Human realistic face laughing maniacally. Film Noir lighting with high contrast. 8k. Vertical portrait.
 ```
 
-### Prompt 13: The Rolodex
+### Prompt 13: Rolodex Close Up (Hands)
 ```text
-Close up of Miss Doll's (Platinum blonde bob NO BANGS) manicured hands flipping through a vintage rolodex. "Who to call?". Gold bracelets. 8k.
+Professional High-Detail Glamour CLOSE UP of the hands of woman 28+ years old mature glamorous. Long pink manicured nails flipping through a vintage metal rolodex. Flawless porcelain skin. Gold bracelets and rings. We see her face (Miss Doll - platinum bob) in the bokeh background. Wearing a silk blouse. Focus on the texture of the paper and the jewelry. 8k. Vertical portrait.
 ```
 
-### Prompt 14: Corner Office Silhouette
+### Prompt 14: Sunset Building Silhouette
 ```text
-Silhouette of Miss Doll (Platinum blonde bob NO BANGS, extreme hourglass shape) standing against a window at sunset. The city skyline is orange. Holding a phone. 8k.
+Professional High-Detail Glamour SILHOUETTE photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Standing against a massive floor-to-ceiling window. EXTREME hourglass silhouette perfectly outlined against a vibrant orange and purple city sunset. Holding a slim smartphone. Background shows a vertical city landscape. Modern corporate aesthetic. 8k. Vertical portrait.
 ```
 
-### Prompt 15: Casual Friday
+### Prompt 15: Casual Friday - Juicy Couture
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) wearing "Casual" clothes: A pink Juicy Couture tracksuit but with high heels and a briefcase. "Business Casual". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a "Business Casual" PINK Juicy Couture velour tracksuit with "JUICY" on the rear. Wearing 16cm PLEASER white platform heels and carrying a leather briefcase. Human realistic face with a confused ditzy expression. Corporate lobby background. 8k. Vertical portrait.
 ```
 
-### Prompt 16: The Stapler
+### Prompt 16: The Red Stapler (Defensive)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) holding a red stapler (Office Space reference). Protective expression. "My stapler". Wearing a grey cardigan and tight skirt. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a grey cashmere cardigan and a tight black pencil skirt with a black corset. Holding a bright RED stapler protectively against her chest. Human realistic face with defensive "My stapler" expression. Mundane office cubicle setting. 8k.
 ```
 
-### Prompt 17: Water Cooler Gossip
+### Prompt 17: Talking to the Water Cooler Plant
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, huge blue eyes) whispering to a plant (no one else there). "Did you hear?". Leaning in. Wearing a floral blouse. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Whispering gossip to a large potted palm tree in the office kitchen. Wearing a floral silk blouse and a white corset. Human realistic face with "Did you hear?" wide-eyed expression. Bright high-key lighting. 8k.
 ```
 
-### Prompt 18: File Room Ladder
+### Prompt 18: File Room Library Ladder
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) high up on a library ladder in the file room. Reaching for a box. Skirt hiked up. "Filing". Sepia tone lighting. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. High up on a rolling library ladder in a dark file room. Reaching for a dusty box marked "FINANCIALS". Flawless porcelain skin. EXTREME hourglass silhouette. Wearing a tight blue skirt hiked up and a blue corset. PLEASER platform heels 16cm blue. Sepia-toned warehouse lighting. 8k. Vertical portrait.
 ```
 
-### Prompt 19: Employee of the Month
+### Prompt 19: Employee of the Month Sash
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) holding a plaque that says "Employee of the Month". It has her picture on it. She is pointing to it proudly. Wearing a sash. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Holding a plaque with her own picture as "Employee of the Month". Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a PINK SATIN SASH over her tailored grey suit and white corset. Human realistic face pointing at the award proudly. Office background with balloons. 8k.
 ```
 
-### Prompt 20: The Red Pen
+### Prompt 20: Red Heart Corrections
 ```text
-Close up of Miss Doll (Platinum blonde bob NO BANGS) correcting a document with a giant red marker. Drawing hearts instead of corrections. "Approved". 8k.
+Professional High-Detail CLOSE UP of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Holding a giant red marker, drawing a big heart on a white contract. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: wispy lashes, RED lips. Human realistic face smiling mischievously. EXTREME hourglass silhouette prominent cleavage visible. Sharp focus on the document and her face. 8k.
 ```
 
-### Prompt 21: Business Class
+### Prompt 21: First Class Business Trip
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) sitting in a first-class airplane seat. Drinking champagne. Laptop open showing a graph going up. "Global Business". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sitting in an ultra-luxury first-class airplane seat. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Drinking champagne from a crystal flute. A laptop shows a "Profit" graph going straight up. Wearing a white silk shirt and pink corset. High altitude sunlight through the window. 8k.
 ```
 
-### Prompt 22: Stock Market Crash
+### Prompt 22: Unbothered Market Crash
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) watching a screen with red arrows going down. Eating popcorn. Unbothered. "Buy low". Wearing a gold dress. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Watching a stock ticker screen filled with RED downward arrows. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a GOLD sequin dress and white corset. Eating popcorn from a silver bowl. Human realistic face with unbothered ditzy expression. "Buy low" vibe. 8k.
 ```
 
-### Prompt 23: The Briefcase
+### Prompt 23: The Glowing Briefcase (Asset)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) opening a briefcase. It is glowing gold from inside (Pulp Fiction). Her face is illuminated by the glow. "We have the asset". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Opening a black leather briefcase. A bright golden glow emanates from inside, illuminating her face and cleavage. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a black vinyl suit and black corset. Human realistic face looking into the glow. Dark parking garage background. 8k.
 ```
 
-### Prompt 24: Networking Event
+### Prompt 24: I'm The Boss (Networking)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) holding a name tag that says "Hello, I'm The Boss". Wearing a cocktail dress. Party lighting. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Wearing a name tag that says "Hello, I'm THE BOSS". Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a tight black cocktail dress and a pink corset. Holding a martini. Human realistic face with arrogant gaze. Party background with colorful bokeh. 8k.
 ```
 
-### Prompt 25: Retirement Party
+### Prompt 25: Retirement Cake Solo
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) cutting a cake. "Happy Retirement". Winking. She is the only one at the party. Balloons. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Cutting a giant cake that says "HAPPY RETIREMENT". Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a white power suit and pink corset. She is the ONLY person in the room. Human realistic face winking at the camera. Balloons. 8k.
 ```
-
 
 ## 🕷️ SECCIÓN 2: Helena - Corporate Goth (Prompts 26-50)
 
-### Prompt 26: The Brutalist Boardroom
+### Prompt 26: The Brutalist Boardroom (Extreme Detail)
 ```text
-Professional High-Detail Glamour photography of Helena (Pale white skin, Jet black hair, heavy dark gothic makeup). Wearing a BLACK PINSTRIPE SUIT with extreme shoulder pads. The suit is cut low to reveal a black latex corset underneath. Standing in a BRUTALIST concrete boardroom. Shadows are harsh. "Hostile Takeover". Cold, intimidating expression. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman (Sacha Massacre visual reference). Pale porcelain white skin. Voluminous jet black hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick cat-eye liner, dark plum glossy lips. ALWAYS wearing a tight black latex and leather overbust corset creating a feminine hourglass silhouette. Wearing a BLACK PINSTRIPE SUIT with extreme shoulder pads over the corset. Standing at the head of a massive concrete table in a BRUTALIST boardroom. Shadows are harsh and cinematic. Expression: cold, dominant, ready for a hostile takeover. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 27: Liquid Latex Tie
+### Prompt 27: Liquid Latex Executive Tie
 ```text
-Close up portrait. Helena (Pale white skin, Jet black hair, dark eyes) wearing a crisp white dress shirt (buttoned to the top). Wearing a TIE made of shiny BLACK LIQUID LATEX. Her hair is slicked back into a severe bun. Red contact lenses. "Strict Policy". 8k.
+Professional High-Detail Glamour CLOSE UP PORTRAIT of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair slicked back into a severe high-gloss bun. HEAVY DARK MAKEUP: black lipstick. Wearing a crisp white dress shirt buttoned to the top. Around her neck is a TIE made of shiny BLACK LIQUID LATEX. EXTREME hourglass silhouette cinched by a black corset visible in lower frame. Human realistic face with intense, cold "Strict Policy" gaze. Dark office lighting. 8k.
 ```
 
-### Prompt 28: CEO of Darkness
+### Prompt 28: CEO of the Dark Web
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) sitting behind a desk made of black obsidian stone. The only light comes from a laptop screen illuminating her face from below. "The Dark Web". Wearing fingerless leather gloves for typing. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Sitting behind an executive desk made of black obsidian. Pale porcelain white skin illuminated ONLY by the neon green glow of multiple laptop screens. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Wearing fingerless black leather gloves. Typing on a mechanical keyboard. Dark, atmospheric office cellar. 8k.
 ```
 
-### Prompt 29: The Firing Squad
+### Prompt 29: Caped Firing Execution
 ```text
-Helena (Pale white skin, Jet black hair, dark lips) pointing a finger at the camera (You). "You're Fired". Wearing a magnificent black velvet cape over her business suit. Dramatic lightning outside the window. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP: dark red lips. EXTREME hourglass silhouette. Wearing a black velvet CAPE with high collar over her pinstripe business suit and black corset. Pointing a single finger directly at the camera. Human realistic face with "You're Fired" cold expression. Background shows a rainy night through city windows with lightning. 8k.
 ```
 
-### Prompt 30: Corporate Espionage
+### Prompt 30: Skyscraper Rappel (Espionage)
 ```text
-Helena (Pale white skin, Jet black hair) rappelling down the side of a glass skyscraper. Wearing a tactical business suit (Black). Holding a briefcase in one hand. "Mission Impossible" corporate edition. Night time city lights. 8k.
+Professional High-Detail Action Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Rappelling down the side of a massive glass skyscraper at night. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by a black corset. Wearing a tactical black leather business suit. Holding a black briefcase. City lights blurring below. Cinematic high-stakes atmosphere. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 31: The Black Coffee
+### Prompt 31: Pitch-Black Coffee Ritual
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) holding a cup of coffee. The liquid is PITCH BLACK and viscous like oil. "Black like my soul". Smiling slightly. Office kitchen background. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Holding a white porcelain cup filled with viscous, PITCH BLACK liquid. a single wisp of steam. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP: black lips smiling slightly. EXTREME hourglass silhouette cinched in a black corset and suit. Sterile, cold office kitchen background. Sharp focus on her face and the cup. 8k.
 ```
 
-### Prompt 32: HR Nightmare
+### Prompt 32: The Human Resources Fire
 ```text
-Helena (Pale white skin, Jet black hair) sitting in the HR office. A stack of "Complaint" forms on the desk. She is burning one with a lighter. "I am Human Resources". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Sitting at an HR desk. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by a tight black corset. Holding a lighter, burning a paper marked "COMPLAINT". Human realistic face with cold indifference. Dark office lighting. 8k.
 ```
 
-### Prompt 33: The Server Room
+### Prompt 33: Matrix Server Room Walk
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) walking through a dark server room. Blue and Green LEDs blinking. Wearing a shiny PVC trench coat (Matrix style). "Mainframe hacked". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Walking through a dark corridor of blinking computer servers. Pale porcelain white skin with blue and green LED reflections. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing a shiny black PVC floor-length trench coat and a black corset. PLEASER stiletto heels 9-inch. "System Administrator" vibe. 8k.
 ```
 
-### Prompt 34: Elevator Pitch (Goth)
+### Prompt 34: Red Emergency Elevator Pitch
 ```text
-Helena (Pale white skin, Jet black hair) standing in an elevator with red emergency lights flashing. She looks calm. Checking her watch. "Going down?". Wearing a pencil skirt with a high slit. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman inside a stalled elevator. Pale porcelain white skin illuminated by pulsing RED emergency lights. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Wearing a black pencil skirt with a high slit. Looking at her black watch. Stoic, calm expression. Dark shadows. 8k.
 ```
 
-### Prompt 35: The Archive
+### Prompt 35: Top Secret Archive Basement
 ```text
-Helena (Pale white skin, Jet black hair, gothic aesthetic) in a dusty basement archive. Rows of metal shelves. She is holding a file marked "TOP SECRET". Spiderwebs in the corner. "Secrets buried". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman in a dusty, dimly lit basement archive. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing a black velvet business suit and black corset. Holding a manila folder marked "TOP SECRET". Rows of industrial metal shelves. Spiderwebs. Dark atmospheric lighting. 8k.
 ```
 
-### Prompt 36: Chains & Suits
+### Prompt 36: Bound by Contract (Chains)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a bespoke grey business suit, but instead of a belt, she is wearing HEAVY INDUSTRIAL CHAINS. "Bound by contract". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. Wearing a bespoke grey suit, but instead of a belt, she is wrapped in HEAVY RUSTY IRON CHAINS that cinch her waist. Black corset underneath visible. Low angle. Gritty corporate dungeon aesthetic. 8k.
 ```
 
-### Prompt 37: The Fountain Pen
+### Prompt 37: Signed in Blood (Quill)
 ```text
-Macro shot of Helena (Pale white skin, Jet black hair) signing a contract. She is using a quill pen dipped in red ink (Blood?). "Signed in blood". Black nail polish. 8k.
+Professional High-Detail Macro Glamour photography of the hand of young woman 30+ years old mature elegant goth glamour woman. Signing a paper with a silver quill pen dipped in red ink. Pale white skin with black nail polish. Black leather corset visible in the background. Focus on the pen tip and the red signature. Human realistic skin texture. 8k. Vertical portrait.
 ```
 
-### Prompt 38: Office Dominatrix
+### Prompt 38: Desk-Top Office Dominatrix
 ```text
-Helena (Pale white skin, Jet black hair, dark gothic makeup) standing on a desk. Holding a riding crop. "Get back to work". Wearing thigh-high leather boots and a blazer. Workers (blurred) are typing frantically. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Standing on top of a dark wood executive desk. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by a black leather corset. Holding a riding crop. Wearing 9-inch PLEASER stiletto boots. Below her, blurred office workers type frantically. 8k.
 ```
 
-### Prompt 39: The Merger
+### Prompt 39: Deadly Merger (Skeleton)
 ```text
-Helena (Pale white skin, Jet black hair) shaking hands with a skeleton in a suit. "Deadly merger". Symbolic art. Corporate background. 8k.
+Professional High-Detail Surreal Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Shaking hands with a human skeleton wearing a tailored suit. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Dark corporate lobby background. Cinematic art style. 8k.
 ```
 
-### Prompt 40: Zero Hour
+### Prompt 40: Zero Hour Urgency (Sweat)
 ```text
-Helena (Pale white skin, Jet black hair, dark lips) looking at a wall clock. It has no numbers, just "NOW". "Time is money". Urgent expression. Sweating. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Looking at a huge wall clock with no numbers, just the word "NOW". Pale porcelain white skin with beads of sweat. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Urgent, intense expression. High contrast office lighting. 8k.
 ```
 
-### Prompt 41: The Goth Receptionist
+### Prompt 41: Dagger Receptionist
 ```text
-Helena (Pale white skin, Jet black hair, gothic makeup) filing her nails with a dagger at the reception desk. "Do you have an appointment?". Unimpressed. Wearing a headset over one ear. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman at a black reception desk. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP: purple lips. EXTREME hourglass silhouette cinched by black corset. She is filing her long black nails with a sharp Dagger. Wearing a black headset. Unimpressed, cold gaze. 8k.
 ```
 
-### Prompt 42: Paper Cut
+### Prompt 42: Blood Tasting Paper Cut
 ```text
-Close up of Helena (Pale white skin, Jet black hair) sucking a drop of blood from a paper cut on her finger. "Blood, sweat, and tears". Intense gaze. 8k.
+Professional High-Detail CLOSE UP of young woman 30+ years old mature elegant goth glamour woman. Sucking a drop of blood from a paper cut on her finger. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP: intense eyes looking at camera. Black corset visible. Sharp focus on her lips and the red blood. Introspective, animalistic gaze. 8k.
 ```
 
-### Prompt 43: The Panic Room
+### Prompt 43: Panic Room Interrogation
 ```text
-Helena (Pale white skin, Jet black hair) inside a steel safe room. Drinking whiskey. CCTV screens in the background showing chaos outside. "Safe". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman inside a reinforced steel panic room. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black leather corset. Drinking straight from a crystal whiskey bottle. CCTV monitors behind her showing static and chaos. Cold, safe expression. 8k.
 ```
 
-### Prompt 44: Corporate Ladder
+### Prompt 44: Ladder of Swords (Ambition)
 ```text
-Helena (Pale white skin, Jet black hair) climbing a ladder made of swords. "Climbing the corporate ladder is dangerous". Bare feet. 8k.
+Professional High-Detail Surreal Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Climbing a vertical ladder made of sharp, pointing swords. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Bare feet bleeding slightly. Atmospheric dark lighting. "Corporate ladder" allegory. 8k.
 ```
 
-### Prompt 45: The Black Card
+### Prompt 45: Centurion Black Card (Macro)
 ```text
-Helena (Pale white skin, Jet black hair, black lipstick) holding a "Centurion" credit card made of black metal. It has her face embossed on it. "Limitless". 8k.
+Professional High-Detail Macro Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Holding a matte black metal "Centurion" credit card. Pale porcelain white skin. Black nail polish. Black lips winking in the background. Focus on the card's metallic texture. 8k.
 ```
 
-### Prompt 46: Under Construction
+### Prompt 46: Construction Corset (High Vis)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a hard hat (black) and a high-vis vest over her corset. Standing on a steel beam. "Building the future". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Standing on a steel construction beam high in the air. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Wearing a high-vis orange vest over her suit. Black leather hard hat. Blue sky background. 8k.
 ```
 
-### Prompt 47: The NDA
+### Prompt 47: The NDA (Silk Gag)
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) holding a finger to her lips. "Shhh". Holding a document titled "NDA". Wearing a gag made of black silk tape. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Wearing a black silk gag tied around her mouth. Holding a document titled "NON-DISCLOSURE AGREEMENT". "Shhh" gesture with finger. Dark interrogation lighting. 8k.
 ```
 
-### Prompt 48: Toxic Work Environment
+### Prompt 48: Toxic Workplace (Gas Mask)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a gas mask with her business suit. Green smoke filling the office. "Toxic". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP visible through the glass lens of a vintage GAS MASK. EXTREME hourglass silhouette cinched by black corset. Wearing a business suit. Thick green toxic smoke filling the office background. Eerie, post-apocalyptic corporate vibe. 8k.
 ```
 
-### Prompt 49: The Golden Parachute
+### Prompt 49: Golden Parachute Skydive
 ```text
-Helena (Pale white skin, Jet black hair) jumping out of a plane with a literal GOLDEN PARACHUTE. "Bailing out". Skydiving in heels. 8k.
+Professional High-Detail Action Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Skydiving through the air. Pale porcelain white skin. Voluminous jet black hair flying. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Wearing a literal GOLDEN PARACHUTE. 9-inch PLEASER heels on her feet mid-air. High altitude background. 8k.
 ```
 
-### Prompt 50: Annual Review
+### Prompt 50: Annual Self-Review (Mirror)
 ```text
-Helena (Pale white skin, Jet black hair, dark gothic makeup) holding a mirror up to the camera. "Look at yourself". A judging expression. Dark interrogation room lighting. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Holding a mirror up to the camera. Pale porcelain white skin. Voluminous jet black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. A cold, judging expression. Low key interrogation lighting. Focus on her face and the mirror reflection. 8k.
 ```
-
 
 ## 🏢 SECCIÓN 3: Office Scenarios & Power Plays (Prompts 51-75)
 
-### Prompt 51: The Copy Room Scandal (Miss Doll)
+### Prompt 51: Copy Room Green Light (Miss Doll)
 ```text
-Professional High-Detail Glamour. Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) sitting on a photocopier in a dim copy room. The green light of the scanner is scanning her legs. Holding a "Confidential" stamp. Wearing a micro-miniskirt and blazer. Mischievous smile. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Sitting on the glass of a photocopier. The green scanning light illuminating her legs and pink corset from below. Holding a stamp marked "CONFIDENTIAL". Mischievous ditzy smile. Dark copy room atmosphere. 8k.
 ```
 
-### Prompt 52: CEO vs CEO (Duo)
+### Prompt 52: CEO vs CEO Boardroom Duel (Duo)
 ```text
-Duo Shot. Miss Doll (Platinum blonde bob NO BANGS, Pink Suit) and Helena (Jet black hair, Black Suit, Pale skin) sitting at opposite ends of a long glass table. Staring contest. "Negotiations". The city skyline reflect in the table. Tension. 8k.
+Professional High-Detail DUO Glamour photography. Sitting at opposite ends of a 30-foot glass boardroom table. MISS DOLL (28+, pink suit, white corset) vs HELENA (30+, black pinstripe suit, black corset). Staring contest. Both EXTREME hourglass silhouettes. City skyline reflected in the table surface. High tension corporate atmosphere. 8k.
 ```
 
-### Prompt 53: The Window Washer (Miss Doll)
+### Prompt 53: Window Washer Distraction
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) inside her office, pressing her hand against the glass. Outside, a window washer (blurred) is working. She is winking. Wearing a sheer blouse. "Distraction". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Pressing her hand and cleavage against a glass office window. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by pink corset. Winking at a blurry window washer outside. Wearing a sheer silk blouse. Vertical cityscape background. 8k.
 ```
 
-### Prompt 54: Coffee Spill (Helena)
+### Prompt 54: Indifferent Coffee Spill (Helena)
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) watching a cup of coffee spill over a stack of white papers. The dark liquid spreads. She does not move to stop it. "Chaos Agent". Cold indifference. 8k.
+Professional High-Detail Action Glamour photography of Helena (30+, pale skin, black hair). Watching a cup of black coffee knock over and spill across a stack of important reports. HEAVY DARK MAKEUP. EXTREME hourglass silhouette in a black corset and suit. She does not reach to stop it. Cold, indifferent expression. Sterile white office background for contrast. 8k.
 ```
 
-### Prompt 55: The Golden Stapler (Miss Doll)
+### Prompt 55: The Golden Desk Flatlay (Miss Doll)
 ```text
-Close up of Miss Doll's (Platinum blonde bob NO BANGS) desk. It is organized perfectly. Everything is GOLD. Gold stapler, gold tape dispenser, gold pens. She is typing on a gold keyboard with pink nails. 8k.
+Professional High-Detail STILL LIFE Glamour photography of MISS DOLL'S (28+) desk. Everything is polished GOLD: stapler, tape dispenser, pen, keyboard. Her manicured hands (pink nails) are typing. We see her face (platinum bob) and EXTREME hourglass cleavage in the bokeh background. Wearing a pink corset over white silk. Luxury office aesthetic. 8k.
 ```
 
-### Prompt 56: Night Shift (Helena)
+### Prompt 56: Graveyard Shift Monitor Glow (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) working alone in a dark open-plan office. Only her monitor is on. Shadows of empty chairs around her. "The Graveyard Shift". Green matrix code on screen. 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair) working alone at 3 AM. The only light is the cold blue glow of a massive curved monitor reflecting on her face and black latex corset. EXTREME hourglass silhouette. Empty office chairs and dark shadows in background. "Mainframe access" vibe. 8k.
 ```
 
-### Prompt 57: Sticky Notes art (Miss Doll)
+### Prompt 57: Sticky Note Heart Art (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) covering a glass wall with pink and yellow sticky notes. She has made a giant heart shape. "Brainstorming". Wearing a cute pencil dress. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Covering a glass wall with hundreds of PINK and YELLOW sticky notes in a giant heart shape. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by yellow corset. Human realistic face with proud ditzy expression. 8k.
 ```
 
-### Prompt 58: Cable Management (Helena)
+### Prompt 58: Computer Cable Bondage (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) entangled in a mess of black computer cables. "System Failure". She is wrapped in them like bondage ropes. Server room lights. 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair). Entangled and wrapped in hundreds of thick black computer cables and server wires. Pale porcelain white skin. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Dark server room background with red and blue LEDs. Seductive "System Failure" pose. 8k.
 ```
 
-### Prompt 59: The Presentation (Miss Doll)
+### Prompt 59: Q3 Kitten Strategy (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) pointing a laser pointer at a projection screen. The screen just shows a picture of a kitten. "Q3 Strategy". Serious face. Boardroom setting. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Pointing a laser pointer at a projection screen that just shows a picture of a cute fluffy kitten. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a tight pink suit and corset. Deeply serious, professional expression. 8k.
 ```
 
-### Prompt 60: Security Desk (Helena)
+### Prompt 60: Donut and Dagger Security (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) watching a wall of security monitors. Wearing a black uniform cap. Eating a donut with a knife and fork. "Observing". 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair). Sitting at a high-tech security desk with 20 monitors. Pale porcelain white skin. Voluminous black hair under a black uniform cap. HEAVY DARK MAKEUP. EXTREME hourglass silhouette in a black corset. Eating a glazed donut with a silver dagger. Unimpressed cold gaze. 8k.
 ```
 
-### Prompt 61: The Promotion (Miss Doll)
+### Prompt 61: Promotion Champagne Pop (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) popping a bottle of champagne. The cork is flying towards the camera. "I got the job!". Confetti falling. Wearing a party hat with her suit. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Popping a bottle of expensive champagne. The cork flying at the camera. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by white corset. Posing in a rain of gold confetti. Winking. "I got the job!". 8k.
 ```
 
-### Prompt 62: Office Romance (Solo)
+### Prompt 62: Under-Desk Hiding (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) hiding under a desk. "Hiding from the boss". Finger to lips. Cute expression. We see legs of people walking by. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Hiding under a massive mahogany desk. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: finger to lips "Shhh". EXTREME hourglass silhouette in a tight pencil skirt and pink corset. We see the shoes of people walking past in the foreground. Playful ditzy face. 8k.
 ```
 
-### Prompt 63: The Hacker (Helena)
+### Prompt 63: VR Hacker (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a VR headset in the office. Typing on invisible keyboards. "Cyberspace". Neon blue reflections on her suit. 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair). Wearing a high-tech black VR headset. Pale porcelain white skin with pink and blue neon reflections. Voluminous black hair. EXTREME hourglass silhouette cinched by a black latex corset. Her hands are in the air typing on an invisible keyboard. "Cyber Goth Corporate" aesthetic. 8k.
 ```
 
-### Prompt 64: Water Cooler moment (Duo)
+### Prompt 64: Water Cooler Contrast (Duo)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) and Helena (Jet black hair, Pale skin) standing at the water cooler. Miss Doll is talking excitedly. Helena is staring into the void. Contrast of personalities. 8k.
+Professional High-Detail DUO Glamour photography. Standing at an office water cooler. MISS DOLL (28+, platinum blonde, pink suit): talking excitedly with wide eyes. HELENA (30+, black hair, black suit, pale skin): staring into space with cold indifference. Both EXTREME hourglass silhouettes cinched by tight corsets. Sharp focus, high contrast lighting. 8k.
 ```
 
-### Prompt 65: The Shredder Accident (Miss Doll)
+### Prompt 65: Shredder Tie Accident (Miss Doll)
 ```text
-Miss Doll's (Platinum blonde bob NO BANGS) tie is caught in the paper shredder. She is pulling back dramatically. "Oops". Cartoonish distress. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Her silk tie is being sucked into a paper shredder. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: wide-eyed ditzy shock. EXTREME hourglass silhouette in a tight vest and pink corset. Pulling back dramatically. Comedy/Glamour fusion. 8k.
 ```
 
-### Prompt 66: Fire Drill (Helena)
+### Prompt 66: Calm in the Fire Drill (Helena)
 ```text
-Red emergency lights flashing. Everyone is running. Helena (Pale white skin, Jet black hair) is walking slowly, calmly drinking tea. "Let it burn". 8k.
+Professional High-Detail Glamour photography. Red emergency lights flashing, blurry office workers running. Helena (30+, pale skin, black hair) is walking slowly and calmly toward the camera, drinking a cup of tea. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset and suit. Cold "Let it burn" expression. 8k.
 ```
 
-### Prompt 67: Employee ID (Macro)
+### Prompt 67: HBIC Employee ID (Macro)
 ```text
-Extreme close up of Miss Doll's (Platinum blonde bob NO BANGS, heavy makeup) Employee ID card. It lists her job title as "HBIC" (Head Bitch In Charge). Photo is glamorous. 8k.
+Professional High-Detail Macro photography of a plastic Employee ID card. Job Title reads: "HBIC - Head Bitch In Charge". The photo on the ID is MISS DOLL (platinum blonde bob, heavy makeup). A manicured hand (pink nails) is holding the card against a white silk blouse and pink corset. Sharp focus on text. 8k.
 ```
 
-### Prompt 68: The Commute (Miss Doll)
+### Prompt 68: Pink Convertible Commute
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) driving a pink convertible with the top down. "Rush Hour". Wearing oversized sunglasses and a scarf. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Driving a hot pink convertible in heavy traffic. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: oversized sunglasses. EXTREME hourglass silhouette cinched by white corset. Wearing a silk scarf and power suit. Looking bored. Sun flare. 8k.
 ```
 
-### Prompt 69: Underground (Helena)
+### Prompt 69: Vampire Commuter Subway
 ```text
-Helena (Pale white skin, Jet black hair, gothic aesthetic) waiting for the subway. The station is tiled and grimy. She looks like a vampire commuter. Wearing a long trench coat. 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair) waiting at a grimy, tiled underground subway station. Pale porcelain white skin contrast. HEAVY DARK MAKEUP: black lips. EXTREME hourglass silhouette in a long black leather trench coat and corset. Atmospheric subterranean lighting. Cinematic, lonely vibe. 8k.
 ```
 
-### Prompt 70: Donuts (Miss Doll)
+### Prompt 70: Kitchen Bribery Donuts (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, porcelain skin) holding a box of donuts. Offering one to the camera. "Bribery". Pink glazing. Office kitchen. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Holding a box of colorful glazed donuts. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by pink corset. Posing in the office kitchen. Offering a donut to the camera with a flirtatious ditzy smile. "Bribery". 8k.
 ```
 
-### Prompt 71: The Boss's Daughter (Miss Doll)
+### Prompt 71: Spoiled Brat CEO's Daughter
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) sitting on the CEO's desk, swinging her legs. "Daddy owns the company". Spoiled brat aesthetic. Lollipop. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sitting ON TOP of a massive executive desk, swinging her 16cm PLEASER platform heels. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: sucking a pink lollipop. EXTREME hourglass silhouette in a white tennis skirt and pink corset. Spoiled, arrogant expression. 8k.
 ```
 
-### Prompt 72: Cubicle Maze (Helena)
+### Prompt 72: Splash of Black (Cubicle Maze)
 ```text
-Top down shot of a maze of grey office cubicles. Helena (Pale white skin, Jet black hair) is the only splash of black in the center. "Rat Race". 8k.
+Professional High-Detail TOP DOWN WIDE SHOT of a massive office with 100 grey cubicles. HELENA (30+, pale skin, black hair, black suit) is the only person visible, standing in the exact center of the maze. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. High contrast. "Systemic isolation" aesthetic. 8k.
 ```
 
-### Prompt 73: The Award (Miss Doll)
+### Prompt 73: High Heel Trophy (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) polishing a gold trophy shaped like a high heel. "Best Dressed". Sitting on her desk. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Polishing a gold trophy shaped like a high-heeled shoe that says "BEST DRESSED". Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a yellow corset and suit. Sitting on her desk. Proud expression. 8k.
 ```
 
-### Prompt 74: Performance Review (Helena)
+### Prompt 74: Performance Interrogation (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) sitting across from an empty chair. The room is dark. A single lightbulb swings above. "Interrogation". 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair). Sitting across an empty chair in a dark, concrete room. A single bare lightbulb swinging above. HEAVY DARK MAKEUP. EXTREME hourglass silhouette in black leather and corset. Cold, intimidating "Annual Review" expression. Cinema noir lighting. 8k.
 ```
 
-### Prompt 75: Friday 5PM (Miss Doll)
+### Prompt 75: Friday 5PM Freedom Throw
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) running out of the revolving doors. Throwing papers in the air. "Freedom!". Sunset. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Running through the revolving glass doors of an office tower into the sunset. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a pink suit and corset. Throwing a stack of papers into the air. Blissful exuberant expression. 8k.
 ```
-
 
 ## 💎 SECCIÓN 4: Executive Finale - High Power (Prompts 76-100)
 
-### Prompt 76: The Takeover (Duo)
+### Prompt 76: Shady Garage Deal (Duo)
 ```text
-Duo Shot. Helena (Jet black hair, pale skin) handing Miss Doll (Platinum blonde bob NO BANGS) a suitcase full of money. Miss Doll handing Helena a golden key. A shady deal in a parking garage. 8k.
+Professional High-Detail DUO Glamour photography. In a dark, underground parking garage. HELENA (30+, black hair, pale skin, black corset): handing a silver briefcase to MISS DOLL. MISS DOLL (28+, platinum bob, pink suit, white corset): handing Helena a gold key. Both EXTREME hourglass silhouettes. Cinematic lighting, headlight beams. "Corporate Takeover". 8k.
 ```
 
-### Prompt 77: Diamond Handcuffs
+### Prompt 77: Diamond Office Handcuffs
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) locked into her office chair with handcuffs made of pure diamond. "Workoholic". She looks delighted. Wearing a white power suit. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Handcuffed to her own executive desk with handcuffs made of pure SPARKLING DIAMONDS. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a white power suit and pink corset. Human realistic face looking at the "shackles" with a delighted ditzy smile. 8k.
 ```
 
-### Prompt 78: The Board (Helena)
+### Prompt 78: The Board of Mannequins (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) standing at the head of a table. 12 lifeless mannequins in suits are seated around it. She is addressing "The Board". Creepy corporate art. 8k.
+Professional High-Detail Surreal Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Standing at the head of a long table. 12 lifeless, hairless grey mannequins in suits are seated around her. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Addressing "The Board". Creepy, clinical atmosphere. 8k.
 ```
 
-### Prompt 79: Rain of Money (Miss Doll)
+### Prompt 79: Raining Money Vent (Miss Doll)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) in her office. It is "raining" money from the ceiling vents. She is dancing in the paper rain. Pure joy. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Hundreds of $100 bills are falling from the air conditioning vents in her office. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a black vinyl dress and pink corset. Dancing in the rain of money. Pure greed and joy. 8k.
 ```
 
-### Prompt 80: The Glass Ceiling
+### Prompt 80: Sledgehammer Glass Ceiling (Helena)
 ```text
-Helena (Pale white skin, Jet black hair, dark gothic makeup) smashing a glass ceiling with a sledgehammer. Shards falling everywhere. Looking up triumphantly. "Breaking barriers". 8k.
+Professional High-Detail Action Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Swinging a massive black sledgehammer upward. Shards of glass falling like rain. Pale porcelain white skin contrast. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Triumphant, powerful expression. Cinematic lighting. 8k.
 ```
 
-### Prompt 81: Executive Jet (Interior)
+### Prompt 81: Sleeping Private Jet Luxury
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) sleeping in a lie-flat bed on a private jet. Wearing a silk eye mask. Champagne on the side table. "Red Eye". 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Fast asleep in a lie-flat bed on a Gulfstream private jet. Wearing a black silk eye mask. Flawless porcelain skin. EXTREME hourglass silhouette under a silk blanket. Champagne on a side table. Pink corset discarded on the seat. High altitude golden hour light. 8k.
 ```
 
-### Prompt 82: The Server Farm (Helena)
+### Prompt 82: Ghost in the Server Farm (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) walking down an endless corridor of servers. The heat creates a haze. She is the "Ghost in the Machine". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Walking down an infinite corridor of server racks. Pale porcelain white skin with heat haze effect. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black latex corset. The air is shimmering with heat. Moody green digital lighting. 8k.
 ```
 
-### Prompt 83: Pink Limousine
+### Prompt 83: Pink Limo Arrival (Pap Flash)
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) stepping out of a stretch pink limo. Red carpet aimed at the office door. Paps flashing. Work arrival. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Stepping out of a massive hot pink stretch limousine at the office entrance. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by white corset. Paps flashes creating white starbursts. Power walk posture. Arrogant smile. 16cm PLEASER white heels. 8k.
 ```
 
-### Prompt 84: The Shareholders Meeting
+### Prompt 84: 50ft Screen Cult (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) on a stage. A giant screen behind her shows her face 50ft tall. Addressing a stadium of people. "Cult of Personality". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman on a stage. Behind her, a GIANT LED screen shows her own face 50ft tall. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. Addressing an invisible crowd of thousands. Cold, god-like expression. 8k.
 ```
 
-### Prompt 85: The Golden Parachute (Miss Doll)
+### Prompt 85: Golden Parachute Mary Poppins
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) floating down from the sky holding a giant golden umbrella (Mary Poppins style). Landing on the roof of the bank. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Floating down from the sky holding a giant umbrella made of literal gold fabric. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a pink suit and white corset. Landing on the roof of a skyscraper. Surreal dreamlike aesthetics. 8k.
 ```
 
-### Prompt 86: Office Jungle
+### Prompt 86: Overgrown Office Jungle
 ```text
-The office is overgrown with vines and tropical plants. Miss Doll (Platinum blonde bob NO BANGS, heavy makeup) is sitting at her desk as if this is normal. "Nature takes over". 8k.
+Professional High-Detail Surreal Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Her office is completely taken over by thick tropical vines, flowers, and monkeys. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Typing on her laptop as if it's perfectly normal. "Nature takes over". 8k.
 ```
 
-### Prompt 87: The Void (Helena)
+### Prompt 87: Stepping into the White Void (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) opening a door marked "Exit". Behind it is just pure white void. She is stepping into it. Mental health day. 8k.
+Professional High-Detail Surreal Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Opening a door marked "EXIT" in a dark office. Behind the door is just blinding, infinite pure WHITE VOID. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP black lips. EXTREME hourglass silhouette. Stepping into the light. 8k.
 ```
 
-### Prompt 88: Post-It Monster
+### Prompt 88: Post-It Note Desk Monster
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) fighting a monster made entirely of yellow post-it notes. It has consumed her desk. Funny action shot. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Fighting a monster made of thousands of yellow sticky notes that has consumed her chair. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a pink corset. Kung-fu pose. Funny high-rigor fashion shot. 8k.
 ```
 
-### Prompt 89: The Time Clock
+### Prompt 89: Industrial Time Clock Explosion
 ```text
-Helena (Pale white skin, Jet black hair) punching a time card. The clock explodes. Sparks flying. "Time's Up". Industrial revolution vibes. 8k.
+Professional High-Detail Action Glamour photography of Helena (30+, pale skin, black hair). Punching a vintage metal time clock so hard it explodes into gears and sparks. Pale porcelain white skin. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Intense warehouse lighting. "Time's Up" cold expression. 8k.
 ```
 
-### Prompt 90: Business Trip (Miss Doll)
+### Prompt 90: Commute Luggage Pile
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, heavy glamour makeup) sitting on a pile of Louis Vuitton luggage at the airport. "Light packer". Looking at her passport. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sitting on a mountain of 20 Louis Vuitton suitcases at a private airport terminal. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a pink tracksuit and white corset. Looking at a gold passport. "Global CEO" aesthetic. 8k.
 ```
 
-### Prompt 91: The Cleaners (Helena)
+### Prompt 91: Hazmat Dress Cleaning (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) wearing a hazmat suit but it's fashioned into a dress. Scrubbing a "stain" (Red) from the carpet. "Cleaning up the mess". 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Wearing a custom-tailored HAZMAT SUIT that resembles an evening gown. Pale porcelain white skin visible through clear visor. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched by black corset. Scrubbing a "red stain" from a plush white carpet. Cold, clinical atmosphere. 8k.
 ```
 
-### Prompt 92: Elevator Kiss (Solo)
+### Prompt 92: Elevator Mirror Kiss
 ```text
-Miss Doll (Platinum blonde bob NO BANGS) kissing her own reflection in the gold elevator doors. "Self Love". Doors opening to reveal shocked employees. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Kissing her own reflection in the gold-plated elevator doors. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: leaving a red lipstick mark on the gold. EXTREME hourglass silhouette cinched by pink corset. Self-obsessed dity expression. Doors opening behind her. 8k.
 ```
 
-### Prompt 93: The Stock Ticker
+### Prompt 93: Ticker Tape Bondage Helena
 ```text
-Helena (Pale white skin, Jet black hair, dark makeup) wrapped in ticker tape paper. The numbers are glowing green. She is "The Market". Wall Street background. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman. Wrapped tight in hundreds of yards of paper ticker tape with green glowing stock numbers. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP. EXTREME hourglass silhouette. She IS "The Market". Wall Street floor background with blur. 8k.
 ```
 
-### Prompt 94: CEO Portrait (Miss Doll)
+### Prompt 94: Gilded Oil Portrait Miss Doll
 ```text
-A classic oil painting style portrait of Miss Doll (Platinum blonde bob NO BANGS, heavy makeup). Gilded frame. She is holding a globe. "Queen of the World". Hanging in the office. 8k.
+Professional High-Detail photography of a large OIL PAINTING in a heavy gold frame. The painting shows MISS DOLL (28+, platinum bob, heavy makeup) holding a gold globe of the earth. Formal "Queen" pose. EXTREME hourglass silhouette in a royal robe and corset. The painting hangs in a dark corporate gallery. Dramatic museum lighting. 8k.
 ```
 
-### Prompt 95: The Vault (Helena)
+### Prompt 95: Locked in Gold Vault (Helena)
 ```text
-Helena (Pale white skin, Jet black hair) locked INSIDE the vault. Not trying to get out. Sitting on the gold. "This is my room now". 8k.
+Professional High-Detail Glamour photography of Helena (30+, pale skin, black hair) locked INSIDE a massive bank vault. Pale porcelain white skin. HEAVY DARK MAKEUP. EXTREME hourglass silhouette cinched tight. She is lounging on a pile of literal gold bars and bags of coins. Human realistic face with relaxed, dominant expression. "My room now". 8k.
 ```
 
-### Prompt 96: Paper Airplane
+### Prompt 96: $100 Bill Paper Airplane
 ```text
-Miss Doll (Platinum blonde bob NO BANGS, voluptuous figure) throwing a paper airplane made of a $100 bill. Watching it glide out the window. "Investing". 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Throwing a paper airplane made of a crisp $100 bill out of a 50th floor window. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette in a pink suit and white corset. Watching it fly. Arrogant ditzy expression. 8k.
 ```
 
-### Prompt 97: The Black Phone
+### Prompt 97: Unplugged Rotary Paranoia
 ```text
-Helena (Pale white skin, Jet black hair, gothic aesthetic) answering a black rotary phone that is not plugged in. "They are listening". Paranoia aesthetic. 8k.
+Professional High-Detail Glamour photography of young woman 30+ years old mature elegant goth glamour woman answering a black vintage rotary phone. The cord is visibly CUT and not plugged in. Pale porcelain white skin. Voluminous black hair. HEAVY DARK MAKEUP. "They are whispering" expression. EXTREME hourglass silhouette. Cinematic noir atmosphere. 8k.
 ```
 
-### Prompt 98: Corner Office View
+### Prompt 98: Melancholy Corner Office View
 ```text
-Wide shot of Miss Doll (Platinum blonde bob NO BANGS) alone in a massive empty office. City lights below. A sense of loneliness at the top. Melancholy beauty. 8k.
+Professional High-Detail WIDE SHOT Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Sitting alone in a massive 2000sq ft empty office at night. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Looking out at the vast sea of city lights. Sense of lonely power. Seductive melancholy. 8k. Vertical portrait.
 ```
 
-### Prompt 99: The Key Card
+### Prompt 99: Red Access Denied Keycard
 ```text
-Macro shot of Helena (Pale white skin, Jet black hair) swiping a key card. The light turns Red (Access Denied). Her eye twitches. 8k.
+Professional High-Detail CLOSE UP of the hand of young woman 30+ years old mature elegant goth glamour woman swiping a black keycard. The reader light flashes RED (Access Denied). Pale porcelain white skin. Voluminous black hair and intense eyes visible in the background. EXTREME hourglass silhouette cinched tight. Her expression turns to cold fury. 8k.
 ```
 
-### Prompt 100: Corporate Empire Finalé
+### Prompt 100: Corporate Empire Grand Finale
 ```text
-Cinematic Masterpiece. Miss Doll (Platinum blonde bob NO BANGS) and Helena (Pale white skin, Jet black hair) standing back-to-back on the roof of the tallest skyscraper. The city below is made of gold and circuits. Miss Doll represents "Capital", Helena represents "Control". They own everything. The sky is purple. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Cinematic Masterpiece DUO photography. MISS DOLL (28+) and HELENA (30+) standing back-to-back on the heliport of the world's tallest building. MISS DOLL: platinum blonde bob NO BANGS, pink suit, white corset, "Capital". HELENA: voluminous black hair, pale skin, black suit, black corset, "Control". The city below is a grid of gold lights and purple shadows. They own the horizon. EXTREME hourglass silhouettes. Photorealistic 8k. Vertical portrait.
 ```

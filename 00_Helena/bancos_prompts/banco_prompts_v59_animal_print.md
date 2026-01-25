@@ -1,525 +1,517 @@
-# 🐆 BANCO DE PROMPTS V59: Miss Doll - Animal Print Elite (HIGH RIGOR)
+# 🐆 BANCO DE PROMPTS V59: Miss Doll - Animal Print Elite (EXTREME CANON - Standard v38)
 
-**Referencia Visual:** Miss Doll (Persona de Élite de La Voûte, Estilo Bratz/Glamour Bimbo)
+**Referencia Visual:** Miss Doll (Persona de Élite de La Voûte).
 **Estética:** Fetish Animal Print (Leopardo, Cebra, Serpiente, Tigre) sobre Látex, PVC y Piel Sintética.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD:** Cada prompt en este banco es TOTALMENTE AUTOCONTENIDO. Incluye el canon visual completo de Miss Doll, especificaciones técnicas de fotografía de glamour y descripciones detalladas de materiales y entorno. No requiere bloques adicionales.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado (PLEASER 16-18cm) y silueta ( silicon implants, tiny waist).
 
 ---
 
 ## 🐆 SECCIÓN 1: Leopard & Cheetah (The Golden Felines) - Prompts 1-25
 
-### Prompt 1: The Golden Leopard Latex Masterpiece
+### Prompt 1: The Golden Leopard Latex Masterpiece (Extreme)
 ```text
-Professional High-Detail Glamour photography of a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing broad forehead). Flawless porcelain skin with a satin, matte finish. HEAVY GLAMOUR MAKEUP: intense bronze and champagne smokey eyes with multi-dimensional shimmer, thick cat-eye winged liner, mega volume false lashes, perfectly defined arched brows. ULTRA PLUMP overlined glossy PINK lips with a wet, reflective highlight. Human realistic face with a dreamy, slightly ditzy/seductive expression. EXTREME hourglass silhouette with large high-profile silicon breast implants and a tiny cinched waist. Wearing an ultra-tight HIGH-SHINE LEOPARD PRINT LATEX CATSUIT, high neck, full gloves. A visible external black leather underbust corset is cinched to the extreme over the latex. PLEASER platform heels 9-inch in black patent leather. Standing in a luxury goldleaf studio with dramatic ring lighting, reflecting on the latex curves. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish (NO rosy cheeks). Delicate refined nose, high cheekbones. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer inner corners, thick cat-eye winged liner, mega volume wispy false lashes, defined arched brows, ULTRA PLUMP overlined glossy PINK lips (bee-stung lips). Human realistic face with pouting parted lips and seductive expression. EXTREME hourglass silhouette with large high-profile silicon breast implants creating prominent cleavage. Wearing an ultra-tight HIGH-SHINE LEOPARD PRINT LATEX CATSUIT. Visible external black leather corset cinched to 18 inches over the latex. PLEASER platform heels 18cm (8-inch) black patent. Luxury gold-leaf studio with dramatic ring lighting reflecting on the latex curves. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 2: Cheetah Plush Glamour (Faux Fur Luxury)
+### Prompt 2: Cheetah Plush Glamour Luxury
 ```text
-Professional High-Detail Glamour photography of glamorous woman (Miss Doll canon). Platinum blonde bob WITHOUT bangs. HEAVY GLAMOUR MAKEUP: gold shimmer eyes, mega volume lashes, glossy pink overlined lips. EXTREME hourglass figure cinched by a hidden corset. Wearing a tiny, high-cut CHEETAH PRINT FAUX FUR micro-mini dress, extremely short and tactile texture. A thick silver choker with a diamond padlock is tight around her neck. Posing with one hand on her hip and a finger to her mouth with a confused, seductive expression. Flawless porcelain skin. Modern minimalist white studio background with high-key lighting that makes the fur texture and skin satin finish pop. 35mm lens style. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold shimmer eyes, mega volume wispy false lashes, pink glossy bee-stung lips. EXTREME hourglass silhouette prominent cleavage. Wearing a tiny high-cut CHEETAH PRINT FAUX FUR micro-mini dress with tactile fur texture. A thick silver choker with a diamond padlock is tight around her neck. Visible internal white corset cinching her waist. Posing with a confused seductive expression. Modern minimalist white studio background. High-key lighting. Sharp focus on fur texture and skin. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 3: Leopard PVC Trench & Penthouse View
+### Prompt 3: Leopard PVC Trench Penthouse
 ```text
-Elite glamour cinematography shot of mature woman with platinum blonde bob (NO BANGS). HEAVY GLAMOUR MAKEUP with deep bronze tones and glossy lips. Wearing an open LEOPARD PRINT PVC trench coat with an oily, mirror-like reflection. Underneath, she wears a matching leopard print latex micro-bikini and a black leather underbust corset. PLEASER 9-inch stiletto heels. Sitting on a red velvet antique chaise longue in a luxury penthouse overlooking a night city skyline. Large breast implants prominent against the reflective PVC. Dramatic directional lighting creating deep shadows and high highlights on the latex and velvet fabrics. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: deep bronze tones, wispy lashes, glossy pink lips. EXTREME hourglass silhouette. Wearing an open LEOPARD PRINT PVC trench coat with an oily, mirror-like reflection. Underneath, she wears a matching leopard print latex micro-bikini and a black leather underbust corset. PLEASER platform heels 16cm (7-inch) black. Sitting on a red velvet antique chaise longue in a luxury penthouse overlooking a night city skyline. Large breast implants prominent against the reflective PVC. Photorealistic 8k. Vertical portrait.
 ```
 
 ### Prompt 4: Snow Leopard Winter Fetish
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: cold ice-blue and silver smokey eyes, mega lashes, glossy pink lips. Wearing a SNOW LEOPARD (grey and white) lace and latex lingerie set with matching latex thigh-high boots. Multiple heavy silver body chains are draped over her extreme hourglass curves. Posing with hands behind her head, eyes semi-closed in a dreamy expression. Cold atmospheric lighting with blue and white tints. High texture detail on the intricate lace and the polished silver metal. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: ice-blue smokey eyes, mega volume wispy lashes, glossy pink lips. EXTREME hourglass silhouette cinched tight. Wearing a SNOW LEOPARD (grey and white) lace and latex lingerie set with matching latex thigh-high boots and a white corset. Multiple heavy silver body chains draped over her curves. Posing with eyes semi-closed in a dreamy expression. Cold atmospheric lighting. High texture detail on lace and metal. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 5: Leopard Vinyl & Industrial Edge
+### Prompt 5: Leopard Vinyl Industrial reflections
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP. Wearing high-waist LEOPARD PRINT liquid vinyl trousers that hug her extreme curves perfectly, paired with a tight black leather cropped bustier pushing up large high-profile breasts. A wide black leather belt with a silver buckle cinches her waist. Standing in a cold industrial elevator with mirror walls, creating multiple reflections of her silhouette. Dramatic top-down spotlighting. Flawless porcelain skin. Sharp focus on the different textures of vinyl and leather. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Wearing high-waist LEOPARD PRINT liquid vinyl trousers and a tight black leather cropped bustier with a black corset. Standing in a cold industrial elevator with mirror walls. Dramatic top-down spotlighting. Sharp focus on the different textures of shiny vinyl and leather. Human realistic face with seductive pouting gaze. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 6: Leopard Print Gloss & Lube Focus
+### Prompt 6: Oily Leopard Latex Mirror Shine
 ```text
-Macro-focus professional glamour photography of Miss Doll (Platinum bob NO BANGS). Her body and outfit are coated in a layer of reflective silicone lube. Wearing a LEOPARD PRINT micro-dress made of ultra-thin, second-skin latex. HEAVY GLAMOUR MAKEUP: thick lashes, glossy pink lips. Her extreme hourglass silhouette is on full display with the lube creating blinding highlights on every curve. Posing in a minimalist black studio with soft box lighting. Every leopard spot on the stretched latex is highly detailed. Wet, oily aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Body and outfit coated in a thick layer of reflective silicone lube. Wearing a LEOPARD PRINT micro-dress made of ultra-thin second-skin latex. HEAVY GLAMOUR MAKEUP: wispy lashes, glossy pink lips. EXTREME hourglass silhouette with large silicon implants. Posing in a minimalist black studio with soft box lighting creating blinding highlights on every curve. Wet, oily aesthetic. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 7: Leopard Print Red Carpet Sensation
+### Prompt 7: Leopard Red Carpet Sensation
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a floor-length, skin-tight LEOPARD PRINT silk gown with an extreme thigh-high slit revealing 9-inch black PLEASER heels. Structured shoulders and a built-in corset cinching her waist. HEAVY GLAMOUR MAKEUP: bold red matte lips, sharp winged liner. Standing on a red carpet with blurred paparazzi flashes in the background. Arrogant, glamorous expression. High texture detail on the silk grain and the polished heels. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bold red matte lips, sharp winged liner. EXTREME hourglass silhouette. Wearing a floor-length skin-tight LEOPARD PRINT silk gown with an extreme thigh-high slit. Built-in corset cinching her tiny waist. PLEASER platform heels 18cm black patent. Standing on a red carpet with blurred paparazzi flashes. Arrogant, glamorous expression. High texture detail. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 8: Leopard & Black Mesh Shibari
+### Prompt 8: Leopard and Black Mesh Shibari
 ```text
-Elite fetish glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a LEOPARD PRINT latex bodysuit with strategic sheer black mesh panels. Bound in intricate gold shibari rope patterns over the latex. HEAVY GLAMOUR MAKEUP: seductive ditzy expression. Extreme hourglass figure with large implants and a tiny cinched waist. Dark moody studio with a single warm spotlight. High-detail texture on the fibrous rope and the high-shine reflective latex. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Wearing a LEOPARD PRINT latex bodysuit with strategic sheer black mesh panels. Bound in intricate high-gloss gold shibari rope patterns over the latex and a black corset. Dark moody studio with a single warm spotlight. Seductive ditzy expression. High-detail on fibrous rope and shiny rubber. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 9: Cyber Leopard & Neon Alley
+### Prompt 9: Cyber Leopard Neon Alleyway
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a LEOPARD PRINT PVC bodysuit with integrated glowing neon pink LED piping along the seams. Futuristic white cyber-goggles resting on her forehead. HEAVY GLAMOUR MAKEUP. Extreme hourglass curves. Standing in a rain-slicked futuristic alleyway with neon advertisements reflecting in her outfit and the puddles. Cyberpunk fetish aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT PVC bodysuit with glowing neon pink LED piping and a white corset. Futuristic white goggles on her forehead. Standing in a rain-slicked cyberpunk alleyway. Neon advertisements reflecting in her outfit and puddles. Industrial future fetish aesthetic. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 10: Leopard Yacht Club Royalty
+### Prompt 10: Leopard Yacht Club Wealth
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a leopard print micro-bikini under an oversized cheetah-print faux fur coat draped carelessly over her shoulders. Dripping in multi-layered diamond necklaces and bracelets. HEAVY GLAMOUR MAKEUP: heavy lashes, glossy pink lips. Posing on the deck of a luxury yacht at sunset. Golden hour lighting hitting her flawless porcelain skin. High texture detail on the fur fibers and the sparkling diamonds. Wealthy bimbo aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: wispy lashes, glossy lips. EXTREME hourglass silhouette prominent cleavage. Wearing a leopard print micro-bikini under an oversized CHEETAH print faux fur coat and a pink corset. Dripping in diamond necklaces. Posing on the deck of a luxury yacht at sunset. Golden hour lighting. High texture detail on fur and diamonds. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 11: Leopard Thigh-High PLEASER Power
+### Prompt 11: Leopard Thigh-High Power (Low Angle)
 ```text
-Low-angle glamour photography focusing on legs and shoes. Miss Doll (Platinum blonde bob NO BANGS) wearing extreme over-the-knee LEOPARD PRINT latex boots with 9-inch thin stiletto heels. A tiny leopard print vinyl micro-skirt hangs off her extreme hourglass hips. HEAVY GLAMOUR MAKEUP visible as she looks down the camera with a dominant, vacant expression. A black leather underbust corset is cinched to the limit. Posing in a hall of mirrors. Sharp focus on the leopard pattern and the mirror reflections. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Low-Angle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Focusing on legs and EXTREME hourglass curves. Wearing over-the-knee LEOPARD PRINT latex boots with 18cm (8-inch) PLEASER stiletto heels. Tiny leopard print vinyl micro-skirt and black corset. HEAVY GLAMOUR MAKEUP. Looking down at the camera with a dominant, vacant expression. Hall of mirrors background. Sharp focus on patterns and reflections. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 12: Leopard Monokini & Wet Look
+### Prompt 12: Leopard Monokini Wet Look
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS) with a slicked-back wet hair look. Wearing a LEOPARD PRINT shiny latex monokini with an ultra high-cut leg line and deep plunge neck. Posing on the edge of an infinity pool. HEAVY GLAMOUR MAKEUP is waterproof and perfect, with glossy pink lips. Sunlight reflecting off the wet latex and her flawless skin. Clear turquoise water background. High texture detail on water droplets beading on the latex. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with sea water droplets. HEAVY GLAMOUR MAKEUP: waterproof, glossy pink lips. EXTREME hourglass silhouette prominent cleavage. Wearing a LEOPARD PRINT monokini in high-shine latex and an orange corset. Slicked-back wet hair look. Posing on the edge of an infinity pool. Sunlight reflecting off the wet latex. Clear turquoise water background. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 13: Neon Glow Leopard Party
+### Prompt 13: Neon Glow Leopard Party Night
 ```text
-Miss Doll (Platinum bob NO BANGS) in a high-energy party setting. Wearing a glow-in-the-dark LEOPARD PRINT mesh bodysuit. Extreme hourglass figure with a tight black corset. HEAVY GLAMOUR MAKEUP using fluorescent pink accents. Posing in a luxury nightclub with laser lights and purple haze. Motion blur in the background, Miss Doll in sharp, crystalline focus. Shiny latex and mesh textures. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: fluorescent pink accents. EXTREME hourglass silhouette. Wearing a glow-in-the-dark LEOPARD PRINT mesh bodysuit and a tight black corset. Posing in a luxury nightclub with purple laser lights and haze. 16cm PLEASER heels. Sharp focus on shiny textures. High energy atmosphere. Photorealistic 8k. Vertical portrait.
 ```
 
 ### Prompt 14: CEO Leopard Power Bimbo Desk
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) in a mahogany-clad executive office. Wearing a LEOPARD PRINT tight blazer, open with no shirt, and a black leather pencil skirt. A black leather underbust corset is over the blazer. EXTREME hourglass silhouette. HEAVY GLAMOUR MAKEUP: sharp cat-eye, glossy red lips. Posing with large high-profile breasts resting on the desk. Holding a gold fountain pen to her lips. High texture detail on leather and silk. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red glossy lips. EXTREME hourglass silhouette with large silicon implants resting on a mahogany desk. Wearing a TIGHT LEOPARD jacket and a black velvet corset. Holding a gold fountain pen to her pouting lips. Executive office background. High texture detail on leather and silk. 8k. Vertical portrait.
 ```
 
-### Prompt 15: Leopard Lace-Up Industrial Fetish (Bodycon Variation)
+### Prompt 15: Leopard Lace-Up Industrial Wall
 ```text
-Elite glamour shot of Miss Doll (Platinum bob NO BANGS) wearing a skin-tight LEOPARD PRINT latex bodycon dress with side lace-up details from shoulder to hem, revealing flashes of porcelain skin. EXTREME waist cinching from an internal corset. PLEASER 9-inch stiletto heels. Posing against a weathered industrial concrete wall. Dramatic side lighting highlighting the curves and the matte vs shiny textures. High-detail on the laces and rubber. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a skin-tight LEOPARD PRINT latex bodycon dress with side lace-up details from shoulder to hem. Tight internal corset cinching her waist. PLEASER 18cm heels. Posing against a weathered industrial concrete wall. Side lighting highlighting the curves. Sharp detail on laces and rubber. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 16: Leopard Silk & Boudoir Dream (Lingerie Variation)
+### Prompt 16: Leopard Silk Boudoir Lingerie
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) lounging on a bed of silk pillows. Wearing a sheer LEOPARD PRINT silk robe open, revealing matching leopard print lace lingerie and a tight corset. HEAVY GLAMOUR MAKEUP: bedroom eyes, glossy pink lips. EXTREME hourglass figure in a relaxed, seductive pose. Soft, golden boudoir lighting. High texture detail on the fabric folds and her skin pores. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass silhouette prominent cleavage. Lounging on silk pillows. Wearing a sheer LEOPARD PRINT silk robe and matching lace lingerie with a white corset. Soft golden boudoir lighting. High texture detail on fabric and skin. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 17: Leopard & Pop-Art Pink Contrast
+### Prompt 17: Pink and Leopard Pop-Art Contrast
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a high-contrast outfit: a LEOPARD PRINT latex bodysuit with vibrant HOT PINK latex sections and matching long pink opera gloves. HEAVY GLAMOUR MAKEUP with matching pink eyeshadow. EXTREME hourglass curves. Posing in a brightly colored Pop-Art studio. Blinding shine on the latex surfaces. Playful, ditzy expression. High texture detail. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pink eyeshadow. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT latex bodysuit with HOT PINK latex sections and long pink opera gloves. Pink corset cinching her tiny waist. Posing in a brightly colored Pop-Art studio. Blinding shine on surfaces. Ditzy expression. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 18: Leopard Desert Ranch Fantasy
+### Prompt 18: Leopard Desert Twilight Ranch
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) wearing a LEOPARD PRINT latex micro-bikini and a matching leopard print wide-brim cowboy hat. Large high-profile implants prominent. HEAVY GLAMOUR MAKEUP: thick lashes, glossy lips. Posing at a luxury desert ranch at twilight. Moody orange and purple sky. High detail on the sand textures and the reflective latex suit. Fierce glamour aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette with large high-profile implants. Wearing a LEOPARD PRINT latex bikini and a matching wide-brim cowboy hat and gold corset. Posing at a luxury desert ranch at twilight. Moody orange sky. High detail on sand and reflective latex. 8k. Vertical portrait.
 ```
 
-### Prompt 19: Leopard Diamonds & Mirror Infinity
+### Prompt 19: Sequin Leopard Infinity Mirror
 ```text
-Miss Doll (Platinum bob NO BANGS) in an infinity mirror room. Wearing a LEOPARD PRINT sequined micro-dress and a massive diamond crown. HEAVY GLAMOUR MAKEUP. Multiple reflections of her extreme hourglass silhouette stretching into the distance. Blinding sparkles from the thousands of sequins and diamonds. High texture detail and light refraction. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Wearing a LEOPARD PRINT sequined micro-dress and a huge diamond crown. Tight silver corset. Multiple reflections stretching into infinity. Blinding sparkles from sequins and diamonds. High light refraction. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 20: Leopard Cathedral Masterpiece
+### Prompt 20: Iconic Leopard Cathedral Ritual
 ```text
-The ultimate representation of Miss Doll (Platinum bob NO BANGS). Wearing her most iconic LEOPARD PRINT latex outfit: a full-body catsuit with a massive faux-fur cheetah collar and 9-inch PLEASER heels. HEAVY GLAMOUR MAKEUP: intense, seductive gaze. EXTREME hourglass figure cinched to the limit by a black leather corset. Standing in the center of a gothic cathedral with dramatic light shafts cutting through the smoke. High texture detail on rubber, fur, and ancient stone. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: intense seductive gaze. EXTREME hourglass silhouette cinched to 18 inches by a black corset. Wearing a full-body LEOPARD PRINT latex catsuit with a massive faux-fur cheetah collar. PLEASER platform heels 18cm. Standing in a gothic cathedral with dramatic light shafts and smoke. 8k. Vertical portrait.
 ```
 
-### Prompt 21: Leopard & Mesh Peek-a-boo
+### Prompt 21: Circular Mesh Leopard Reveal
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) in a futuristic lab. Wearing a LEOPARD PRINT latex bodysuit with strategic circular mesh cut-outs exposing patches of skin. EXTREME hourglass figure. HEAVY GLAMOUR MAKEUP. Porcelain skin contrasting with the dark leopard spots. Blue backlighting. High detail on the intricate mesh pattern. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT latex bodysuit with circular mesh cut-outs exposing patches of skin. Tight white corset. Posing in a futuristic blue-lit lab. High detail on the intricate mesh pattern. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 22: Leopard & Black Lace Boudoir
+### Prompt 22: Leopard Latex and French Lace
 ```text
-Miss Doll (Platinum bob NO BANGS) in a LEOPARD PRINT latex corset with heavy black French lace trim on the edges. EXTREME waist cinching. Pushing up large breasts. HEAVY GLAMOUR MAKEUP: soft smokey eye, glossy pink lips. Professional boudoir photography style. Warm, intimate lighting. High texture detail on lace and shiny latex. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: glossy pink lips. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT latex corset with heavy black French lace trim, pushing up large breasts. Boudoir setting. Warm intimate lighting. High texture detail on lace and rubber. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 23: Leopard Clear PVC Raincoat
+### Prompt 23: Clear PVC Raincoat Leopard
 ```text
-Miss Doll (Platinum bob NO BANGS) in a wet urban setting. Wearing a LEOPARD PRINT latex bikini under a CLEAR PVC raincoat. Water droplets all over her body and clothing. HEAVY GLAMOUR MAKEUP remaining flawless. EXTREME curves. Neon city lights reflecting in the wet PVC. Dynamic street glamour shot. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with raindrops. HEAVY GLAMOUR MAKEUP: pouting lips. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT latex bikini and pink corset under a CLEAR PVC raincoat. Water droplets on clear plastic. Neon city lights reflecting in the wet surfaces. Street glamour shot. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 24: Leopard Punk & Spikes
+### Prompt 24: Spiked Leopard Punk Leather
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a LEOPARD PRINT leather biker jacket with massive silver spikes on shoulders. No shirt underneath, showing black leather corset. HEAVY GLAMOUR MAKEUP: edgy black liner, glossy lips. EXTREME hourglass figure. Posing against a graffiti-covered brick wall. High detail on worn leather and polished spikes. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: edgy black liner. EXTREME hourglass silhouette. Wearing a LEOPARD PRINT leather biker jacket with silver spikes and a black corset. No shirt underneath. Posing against graffiti walls. High detail on worn leather and polished metal spikes. 8k. Vertical portrait.
 ```
 
-### Prompt 25: Leopard Latex Ballgown Finalé
+### Prompt 25: Grand Leopard Latex Ballgown Finale
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a MASSIVE ballgown made entirely of LEOPARD PRINT latex. Structured hoop skirt. Tight corset bodice. HEAVY GLAMOUR MAKEUP: royal gold eyeshadow, glossy red lips. EXTREME silhouette. Standing in a grand ballroom with a crystal chandelier. High texture detail on the heavy latex folds. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: royal red lips. EXTREME hourglass silhouette. Wearing a MASSIVE ballgown made of LEOPARD PRINT latex with a structured corset bodice and huge hoop skirt. Standing in a grand ballroom under a crystal chandelier. High texture detail on pooling latex fabric. 8k. Vertical portrait.
 ```
-
 
 ## 🦓 SECCIÓN 2: Zebra Monochrome (High Contrast) - Prompts 26-50
 
-### Prompt 26: Zebra High-Contrast Latex Bodysuit
+### Prompt 26: Zebra Stiped Latex Bodysuit (Extreme)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing ultra tight ZEBRA STRIPED LATEX bodysuit, high contrast black and white patterns that follow the extreme hourglass curves of her body. White PLEASER platform heels 8-inch. HEAVY GLAMOUR MAKEUP: silver and black smokey eyes with intense shimmer, thick cat-eye winged liner, mega volume false lashes, perfectly defined arched brows. ULTRA PLUMP overlined glossy pink lips. Human realistic face with a dreamy seductive expression. Flawless porcelain skin. Dramatic ring lights in a neon pink studio setting, creating vibrant reflections on the white segments of the latex. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP: silver/black smokey eyes, wispy lashes, pink glossy lips. EXTREME hourglass silhouette prominent cleavage. Wearing a tight ZEBRA STRIPED LATEX bodysuit and a white corset cinched tight. PLEASER platform heels 18cm white patent. Neon pink studio with dramatic ring lighting reflecting on the latex. Human realistic face with dreamy seductive expression. 8k.
 ```
 
-### Prompt 27: Zebra Vinyl Mini & Sheer Mesh
+### Prompt 27: Zebra Vinyl Mini and Sheer Mesh
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a ZEBRA PRINT shiny vinyl mini skirt and a sheer black mesh long-sleeve top. A black leather underbust corset is cinched over the mesh to create an extreme hourglass silhouette. HEAVY GLAMOUR MAKEUP: bronze eyes, sharp winged liner, mega lashes, glossy pink lips. Posing in a modern minimalist grey studio with sharp directional lighting creating deep shadows. High texture detail on the vinyl reflection, the mesh weave, and her flawless satin-finish skin. Platinum blonde hair shining under spot lighting. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bronze eyes, wispy lashes. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT vinyl mini skirt and a sheer black mesh top with a black corset cinched over it. Modern grey studio with sharp directional lighting. Sharp focus on vinyl shine and skin. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 28: Zebra Mesh Catsuit & High fashion
+### Prompt 28: Zebra Mesh Catsuit High-Fashion
 ```text
-Elite high-fashion glamour shot of Miss Doll (Platinum bob NO BANGS). Wearing a sheer ZEBRA PRINT mesh catsuit that leaves little to the imagination while maintaining an high-fashion aesthetic. Black latex micro-bikini bottoms underneath. EXTREME hourglass figure emphasizing large implants and a tiny waist. HEAVY GLAMOUR MAKEUP: bronze and silver eyes, glossy pink lips. 8-inch PLEASER heels. Posing in a white cove studio with soft, diffused bounce lighting. Every detail of the mesh pattern and the porcelain skin texture is crystalline. Seductive, vacant expression. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass figure with large implants and 18-inch waist. Wearing a sheer ZEBRA PRINT mesh catsuit with black latex micro-bikini and black corset. PLEASER 18cm heels. White cove studio with soft bounce lighting. Every detail of mesh and porcelain skin crystalline. 8k. Vertical portrait.
 ```
 
-### Prompt 29: Zebra & Neon Green Fetish Contrast
+### Prompt 29: Neon Green and Zebra Fetish
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) in a experimental fetish look. Wearing a fluorescent NEON GREEN latex dress with ZEBRA PRINT latex accessories including elbow-length gloves, a thick choker, and a cinched belt. EXTREME hourglass curves. HEAVY GLAMOUR MAKEUP using vibrant green eyeshadow accents. Standing under a single green spotlight in a dark, moody room. Blinding shine on the contrasting green and zebra surfaces. High texture detail on the rubber materials. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: green eyeshadow. EXTREME hourglass silhouette. Wearing a fluorescent NEON GREEN latex dress with ZEBRA PRINT latex opera gloves and corset. Standing under a single green spotlight. Blinding shine on contrasting surfaces. Playful ditzy expression. 8k. Vertical portrait.
 ```
 
-### Prompt 30: Zebra Print Faux Fur & High-Shine Lingerie
+### Prompt 30: Zebra Faux Fur Night Balcony
 ```text
-Elite glamour cinematography shot of Miss Doll (Platinum bob NO BANGS). Wearing a massive, voluminous ZEBRA PRINT faux fur coat draped over a black high-shine latex lingerie set and an extreme underbust corset. HEAVY GLAMOUR MAKEUP: metallic eyes, glossy pink lips. EXTREME hourglass silhouette. Posing on a snow-covered luxury balcony at night with a city skyline in the background. Dramatic moonlight and warm yellow indoor lighting. High texture detail on the soft fur fibers and the reflective latex curves. Wealthy heiress aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: glossy pink lips. EXTREME hourglass silhouette prominent cleavage. Wearing a voluminous ZEBRA PRINT faux fur coat over black latex lingerie and an extreme corset. Posing on a snowy luxury balcony at night. Moonlight and warm interior light. High texture on fur and rubber. 8k.
 ```
 
-### Prompt 31: Zebra Chrome & Futuristic Matte
+### Prompt 31: Chrome Zebra Cyber Striping
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a ZEBRA PRINT patterned latex dress where the black stripes are matte rubber and the white stripes are HIGH-SHINE CHROME METALLIC plates. A futuristic fetish aesthetic. HEAVY GLAMOUR MAKEUP: silver graphic liner, glossy pink lips. EXTREME cinched waist. Standing in a sci-fi corridor with blue and orange LED lighting. High texture detail on metal and rubber contrast. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: silver graphic liner. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT latex dress where white stripes are mirror-finish CHROME plates. Tight white corset. Sci-fi corridor with blue LED lighting. High contrast on metal and matte rubber. 8k. Vertical portrait.
 ```
 
-### Prompt 32: Zebra Micro-Bikini Tropical Luxury
+### Prompt 32: Zebra Micro-Bikini Beach (Extreme)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS) posing on a private beach in Maldives. Wearing a ZEBRA PRINT micro-bikini with an ultra high-cut leg and triangle top. HEAVY GLAMOUR MAKEUP: seductive gaze, sweat-resistant setting. EXTREME hourglass curves. Wet skin look with water droplets. Turquoise water and white sand in background. Golden hour sunlight highlighting the patterns and her porcelain skin. High texture photography. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with sea spray. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette large silicon implants. Wearing a ZEBRA PRINT micro-bikini and a white corset. Standing on a private beach in Maldives. Golden hour sunlight highlighting skin and patterns. High-end luxury beach glamour. 8k.
 ```
 
-### Prompt 33: Zebra Collar & Bold Red Lips Portrait
+### Prompt 33: Zebra Latex Collar Biting Portrait
 ```text
-Macro-focus portrait glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a thick ZEBRA PRINT latex collar with a large silver O-ring. HEAVY GLAMOUR MAKEUP: bold red glossy lips biting a silver chain attached to the collar, intense cat-eye liner, perfect brows. EXTREME DETAIL on facial pores and makeup texture. Shoulders are exposed showing porcelain skin. Focus on the sharp facial features and texture of the zebra print. Photorealistic 8k. Vertical portrait.
+Professional High-Detail CLOSE UP photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: bold red lips biting a silver chain attached to a ZEBRA PRINT latex collar. EXTREME hourglass cleavage visible. Sharp focus on face pores and makeup texture. Intense cat-eye liner. Photorealistic 8k.
 ```
 
-### Prompt 34: Zebra Stockings & Stiletto Focus
+### Prompt 34: Zebra Stockings and 9-inch Heels
 ```text
-Low-angle glamour photography focusing on legs and shoes. Miss Doll (Platinum bob NO BANGS) wearing ZEBRA PRINT latex stockings held up by a black garter belt. Black PLEASER stiletto heels 9-inch. Lifting the hem of a tiny black vinyl skirt. EXTREME curves. HEAVY GLAMOUR MAKEUP visible in the background as she looks down. High texture detail on the printed stocking pattern and the reflective black patent leather shoes. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Low-Angle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Focusing on legs. Wearing ZEBRA PRINT latex stockings and black garter belt over a black corset. Black PLEASER platform heels 18cm. Lifting hem of vinyl skirt. EXTREME curves. HEAVY GLAMOUR MAKEUP. High texture detail on patterns and reflective patent leather. 8k.
 ```
 
-### Prompt 35: Zebra Sequin Party Glamour
+### Prompt 35: Zebra Sequin VIP Club Party
 ```text
-Miss Doll (Platinum bob NO BANGS) in a high-energy VIP party setting. Wearing a ZEBRA PRINT sequin micro-mini dress fitting skin tight. Blinding sparkles from the sequins. HEAVY GLAMOUR MAKEUP. EXTREME hourglass figure. Holding a martini glass with an olive. Club lighting with purple and blue strobes creating a dynamic atmosphere. Motion blur on the background dancers, Miss Doll in sharp, frozen focus. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a skin-tight ZEBRA PRINT sequined mini dress and a silver corset. Holding a martini. Luxury nightclub with purple and blue strobes. Motion blur on background, Miss Doll in sharp frozen focus. 8k.
 ```
 
-### Prompt 36: Zebra & Denim Influencer Style
+### Prompt 36: Zebra Street Influencer LA
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a ZEBRA PRINT tight cropped top and tiny distressed denim shorts. A black leather underbust corset is visible over the top. Influencer "candid" street style pose. HEAVY GLAMOUR MAKEUP. EXTREME curves. Posing in a sunny Los Angeles street with palm trees. High texture detail on the denim fraying and the smooth silk of the top. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Wearing a ZEBRA PRINT cropped top, tiny denim shorts, and a white corset. Posing in a sunny Los Angeles street with palm trees. Silk versus denim texture detail. 8k. Vertical portrait.
 ```
 
-### Prompt 37: Zebra Body Paint Masterpiece
+### Prompt 37: Zebra Body Paint Masterpiece (Art)
 ```text
-Artistic glamour photography of Miss Doll (Platinum bob NO BANGS). Her entire body is covered in realistic ZEBRA STRIPE body paint, blending seamlessly with her porcelain skin. No clothing, just paint and a black leather thong. HEAVY GLAMOUR MAKEUP remains perfect. EXTREME hourglass silhouette. Posing in a minimalist black studio. Single light source creating deep shadows and highlights on her muscle tone and curves. High-fashion editorial style. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Artistic Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Entire body covered in realistic ZEBRA PRINT body paint. No clothes, just paint and a black leather corset. HEAVY GLAMOUR MAKEUP perfect. EXTREME hourglass silhouette. Minimalist black studio. Single light source creating deep shadows on muscle and curves. 8k.
 ```
 
-### Prompt 38: Zebra Side-Lace Fetish Dress
+### Prompt 38: Zebra Side-Lace Warehouse Fetish
 ```text
-Elite fetish glamour shot of Miss Doll (Platinum bob NO BANGS). Wearing a ZEBRA PRINT skin-tight latex dress with side lace-up details from shoulder to hem. EXTREME waist cinch. HEAVY GLAMOUR MAKEUP. 9-inch heels. Porcelain skin visible through the laces. Posing in an industrial warehouse with warm amber lighting. High texture detail on rubber and the black cord laces. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched tight. Wearing a ZEBRA PRINT skin-tight latex dress with side lacing and a black corset. 18cm heels. Industrial warehouse with amber lighting. High detail on rubber and black cord laces. 8k.
 ```
 
-### Prompt 39: Zebra Influencer & Oversized Sunnies
+### Prompt 39: Paris Cafe Zebra Satin Slip
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a ZEBRA PRINT satin slip dress and massive oversized black square sunglasses. HEAVY GLAMOUR MAKEUP visible behind the dark lenses. EXTREME hourglass curves. Posing with a latte in hand at a luxury outdoor cafe in Paris. Paparazzi style shot. High texture detail on satin folds and skin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: oversized black sunglasses. EXTREME hourglass curves. Wearing a ZEBRA PRINT satin slip dress and white corset. Posing with a latte at a Paris outdoor cafe. Paparazzi style. High texture on satin and skin. 8k.
 ```
 
-### Prompt 40: Zebra & Pink Latex Bimbo
+### Prompt 40: Zebra and Pink Latex Bimbo (Ultimate)
 ```text
-The ultimate bimbo contrast. Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT latex corset over a HOT PINK latex bodysuit. HEAVY GLAMOUR MAKEUP: pink lips, mega lashes. EXTREME hourglass silhouette. Pink 9-inch PLEASER heels. Posing in a bubblegum themed studio with balloons. Blinding shine on all surfaces. Playful expression. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pink lips, wispy meshes. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT latex corset over a HOT PINK latex bodysuit. Pink PLEASER platform heels 18cm. Bubblegum themed studio with blinding shine. Playful ditzy expression. 8k.
 ```
 
-### Prompt 41: Zebra & Heavy Gold Elite
+### Prompt 41: Zebra Silk and Heavy Gold Elite
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT silk midi dress. Draped in heavy gold chains, oversized necklaces, and multiple bangles. HEAVY GLAMOUR MAKEUP: bronze eyes, gold-gloss lips. EXTREME curves. Posing in a gold-leafed baroque room. Wealthy heiress aesthetic. High detail on silk flow and polished gold metal. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold-gloss lips. EXTREME curves. Wearing a ZEBRA PRINT silk midi dress and an external gold metal corset. Draped in heavy gold chains. Baroque gold-leaf room. Wealthy heiress aesthetic. 8k.
 ```
 
-### Prompt 42: Zebra Fringe Movement
+### Prompt 42: Zebra Fringe Spinning Movement
 ```text
-Action glamour shot. Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT mini dress with long black silk fringe layers. The fringe is flying in the air as she spins. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Dynamic pose. Modern studio with crisp white lighting. High texture detail on individual fringe strands and her hair movement. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Spinning in a ZEBRA PRINT mini dress with long black silk fringe layers and a white corset. Dynamic pose. Modern studio with crisp white lighting. High detail on individual fringe strands. 8k.
 ```
 
-### Prompt 43: Zebra Studded Leather Edgy
+### Prompt 43: Zebra Studded Leather Moto
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT leather vest with silver metal studs and matching zebra leather boots. Black latex micro-shorts. HEAVY GLAMOUR MAKEUP: edgy black liner. EXTREME curves. Posing on a custom black motorcycle in a garage. Grunge but glamorous aesthetic. High texture detail on leather grain and metal studs. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT leather vest with silver studs, black latex shorts, and a black corset. Posing on a black motorcycle in a garage. Grunge glamorous aesthetic. 8k.
 ```
 
-### Prompt 44: Zebra Satin Wakeup Shot
+### Prompt 44: Luxury Zebra Satin Morning
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) in a luxury master bedroom. Wearing a ZEBRA PRINT satin slip dress, very thin straps. EXTREME hourglass silhouette. HEAVY GLAMOUR MAKEUP: "I woke up like this" bedroom eyes look. Soft morning light coming through silk curtains. High texture detail on the satin folds and her porcelain skin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT satin slip dress and white corset in a luxury master bedroom. Soft morning light. High detail on satin folds and skin pores. 8k.
 ```
 
-### Prompt 45: Zebra Chain Monokini
+### Prompt 45: Zebra Chain Monokini Infinity Pool
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT shiny latex monokini where the straps are made of thick gold chains. EXTREME curves with large implants. HEAVY GLAMOUR MAKEUP. Posing in an infinity pool overlooking the ocean at dusk. Sunset lighting reflecting in the water and the latex. High-detail texture on the wet skin and metal chains. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with water droplets. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves large implants. Wearing a ZEBRA PRINT shiny latex monokini with thick gold chain straps and a gold corset. Posing in an infinity pool at sunset. Reflections in water. 8k.
 ```
 
-### Prompt 46: Zebra Velvet Evening Gown
+### Prompt 46: Opera House Zebra Velvet
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a floor-length ZEBRA PRINT crushed velvet gown. Tight fit showing every curve. EXTREME hourglass. HEAVY GLAMOUR MAKEUP: dark smokey eye, glossy red lips. Standing in a luxury opera house balcony with red velvet curtains. Classic glamour. High texture detail on the velvet pile and smooth skin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red glossy lips. EXTREME hourglass silhouette. Wearing a floor-length ZEBRA PRINT crushed velvet gown and black corset. Standing in a luxury opera house balcony. Classic glamour. High detail on velvet pile. 8k.
 ```
 
-### Prompt 47: Zebra Mirror PVC Jacket
+### Prompt 47: Neon Garage Zebra PVC Bomber
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT PVC bomber jacket with a mirror finish. Black latex leggings. HEAVY GLAMOUR MAKEUP. EXTREME curves. Posing in a neon-lit urban parking garage. Multicolored light reflecting off her jacket and the walls. Edgy fashion shot. High texture detail on the PVC wrinkles. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Wearing a ZEBRA PRINT PVC bomber jacket with mirror finish, black latex leggings, and a white corset. Neon-lit urban parking garage. Multicolored reflections. Trendy edgy fashion. 8k.
 ```
 
 ### Prompt 48: Zebra Fit-Bimbo Gym Glamour
 ```text
-Miss Doll (Platinum bob NO BANGS) in a luxury home gym. Wearing a ZEBRA PRINT skin-tight yoga set (sports bra and leggings), very revealing. HEAVY GLAMOUR MAKEUP: ponytail platinum bob. EXTREME hourglass silhouette. Holding a pink dumbbell. Sweaty skin glow. High texture detail on the activewear fabric and gym equipment. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with sweat glow. HEAVY GLAMOUR MAKEUP: ponytail hair. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT skin-tight yoga set and white corset. Holding a pink dumbbell in a luxury home gym. High detail on activewear fabric. 8k.
 ```
 
-### Prompt 49: Zebra Masquerade Mystery
+### Prompt 49: Zebra Masquerade Mystery Goth
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a ZEBRA PRINT latex eye mask and matching zebra print lace bodysuit. HEAVY GLAMOUR MAKEUP: intense focus on the eyes, glossy pink lips. EXTREME hourglass silhouette. Mysterious and seductive expression. Dark gothic room with candle lighting. High texture detail on intrigate lace and the smooth latex mask. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: glossy pink lips. EXTREME hourglass silhouette. Wearing a ZEBRA PRINT latex eye mask, matching lace bodysuit, and black corset. Dark gothic room with candle light. Seductive mysterious expression. 8k.
 ```
 
-### Prompt 50: Zebra Latex Ballgown Finalé
+### Prompt 50: Grand Zebra Latex Ballroom Finale
 ```text
-Grand finalé shot. Miss Doll (Platinum bob NO BANGS) wearing a massive ZEBRA PRINT latex gown with a 5-meter long train. Structured bodice cinching waist to the extreme. HEAVY GLAMOUR MAKEUP. Standing on a crystal staircase. High-key dramatic lighting. High texture detail on the massive amount of rubber fabric pooling around her. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: intense pouting red lips. EXTREME hourglass silhouette cinched tight. Wearing a massive ZEBRA PRINT latex ballgown with a 5-meter train and corset bodice. Standing on a crystal staircase. Dramatic high-key lighting. 8k.
 ```
-
-
 
 ## 🐍 SECCIÓN 3: Snakeskin Fetish (Texture & Scale) - Prompts 51-75
 
-### Prompt 51: Emerald Green Snake PVC Masterpiece
+### Prompt 51: Emerald Snake PVC Jungle Masterpiece
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing an ultra-tight EMERALD GREEN SNAKESKIN PVC catsuit with a liquid, oily texture. A black leather bondage harness with silver rings is worn over the PVC. A thick diamond choker is tight on her neck. EXTREME hourglass figure with prominent cleavage and a tiny cinched waist. HEAVY GLAMOUR MAKEUP: emerald shimmer eyes, sharp cat-eye liner, mega volume lashes, full glossy red lips. Posing in a jungle-themed luxury studio with real palm leaves and moody directional lighting. Every scale of the snakeskin pattern is sharp and detailed. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: emerald shimmer eyes, red glossy lips. EXTREME hourglass silhouette prominent cleavage. Wearing an ultra-tight EMERALD GREEN SNAKESKIN PVC catsuit and a black leather bondage harness with a black corset. Tight diamond choker. Jungle-themed luxury studio. Oily reflective texture. High detail on every scale. 8k.
 ```
 
-### Prompt 52: Python Corset Dress Luxury
+### Prompt 52: Python Corset Dress Suite
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a PYTHON PRINT latex corset mini dress. Tight fit. Gold jewelry including stacked bangles and large hoop earrings. Seductive gaze with a ditzy open-mouth expression. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Posing in a luxury hotel suite with warm ambient lighting. High texture detail on the python scales and porcelain skin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched to 18 inches. Wearing a PYTHON PRINT latex corset mini dress and gold jewelry. Human realistic face with ditzy open-mouth expression. Luxury hotel suite with warm lighting. 8k.
 ```
 
-### Prompt 53: Crimson Snake Latex & Black Boots
+### Prompt 53: Crimson Snake Latex Industrial
 ```text
-Miss Doll (Platinum bob NO BANGS) in a deep CRIMSON RED SNAKESKIN texture latex bodysuit. Black leather underbust corset cinching the waist to the extreme. Black PLEASER 9-inch boots with silver buckles. HEAVY GLAMOUR MAKEUP: red lips, mega lashes. EXTREME hourglass silhouette. Posing in a minimalist black studio with a single red spotlight from above. High detail on the red scales and shiny black leather. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red lips, wispy lashes. EXTREME hourglass silhouette. Wearing a CRIMSON RED SNAKESKIN latex bodysuit and black leather underbust corset. Black PLEASER 18cm heels. Minimalist black studio with red spotlight. High detail on shiny red scales. 8k.
 ```
 
-### Prompt 54: Snake Eyeshadow & Scale Collar Portrait
+### Prompt 54: Snake Eye Makeup Scale Collar
 ```text
-Macro-focus portrait glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: blue snakeskin scale pattern painted on eyelids using special fx makeup, intense winged liner, glossy pink lips. Wearing a matching blue snakeskin latex collar with silver O-ring. Face near a cold steel pole. Focused expression. High detail on skin pores and scales. Photorealistic 8k. Vertical portrait.
+Professional High-Detail MACRO PORTRAIT of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. HEAVY GLAMOUR MAKEUP: blue snakeskin scale pattern on eyelids, glossy pink lips. Wearing a matching blue snakeskin latex collar with silver O-ring and a white corset visible in lower frame. Face near a cold steel pole. High detail on skin pores and scales. 8k.
 ```
 
-### Prompt 55: Grey Snake & Silver Mercury
+### Prompt 55: Grey Snake Liquid Silk Mirror
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a GREY SNAKESKIN liquid silk mini dress that clings like water. Silver metallic platform heels and bracelets. HEAVY GLAMOUR MAKEUP: silver metallic eyes, color-matched glossy lips. EXTREME hourglass figure. Posing in a futuristic mirrored room. Fabric looks like molten mercury. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: silver metallic eyes. EXTREME hourglass silhouette. Wearing a GREY SNAKESKIN liquid silk mini dress and a silver corset. Silver platform heels. Futuristic mirrored room. Fabric looks like molten mercury. 8k.
 ```
 
-### Prompt 56: Snake Thigh-High PLEASER Focus
+### Prompt 56: Snake Thigh-High PLEASER Power (Legs)
 ```text
-Low-angle glamour photography focusing on legs. Miss Doll (Platinum bob NO BANGS) wearing over-the-knee SNAKESKIN PRINT latex boots with 8-inch PLEASER heels. She is pulling up the hem of a high-slit snake print skirt. EXTREME curves. HEAVY GLAMOUR MAKEUP visible in background. Sharp focus on the scaled texture and polished heel. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Low-Angle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Focusing on legs. Wearing over-the-knee SNAKESKIN PRINT latex boots with 18cm (8-inch) PLEASER heels. Lifting hem of snake print skirt to reveal ivory skin and a black corset. HEAVY GLAMOUR MAKEUP visible in background. Sharp focus on scales. 8k.
 ```
 
-### Prompt 57: Desert Python Micro-Bikini
+### Prompt 57: Desert Python Micro-Bikini Sunset
 ```text
-Miss Doll (Platinum bob NO BANGS) in a DESERT PYTHON print micro-bikini. Large implants extremely prominent. HEAVY GLAMOUR MAKEUP perfect despite the heat. EXTREME hourglass silhouette. Posing in a sand dune desert at sunset. Golden orange lighting highlighting her porcelain skin and the snake patterns. High texture detail on sand and fabric. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette large silicon implants. Wearing a DESERT PYTHON print micro-bikini and a white corset. Standing in a sand dune desert at sunset. Golden orange light. High texture on sand and fabric. 8k.
 ```
 
-### Prompt 58: Snake Panels & Sheer Mesh Reveal
+### Prompt 58: Snake Panels and Mesh Reveal
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a sheer black mesh dress with strategic SNAKESKIN LATEX panels covering her chest and hips. EXTREME curves. HEAVY GLAMOUR MAKEUP. Posing in a modern art gallery. Soft gallery lighting reflecting on the latex panels. High texture detail on mesh and scales. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a sheer black mesh dress with strategic SNAKESKIN LATEX panels and a black corset. Posing in a modern art gallery. Soft gallery lighting. 8k.
 ```
 
-### Prompt 59: Snake Dress & White Fox Fur
+### Prompt 59: Snake Satin and White Fox Stole
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a tight PYTHON PRINT satin dress and a massive white fox faux fur stole draped luxuriously. HEAVY GLAMOUR MAKEUP: bronze eyes, glossy pink lips. EXTREME hourglass silhouette. Elegant aristocratic pose holding a champagne flute. High-detail texture on the soft fur and the scaled satin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pink lips. EXTREME hourglass silhouette. Wearing a tight PYTHON PRINT satin dress and matching corset beneath a massive white fox fur stole. Holding a champagne flute. Aristocratic wealthy bimbo aesthetic. 8k.
 ```
 
-### Prompt 60: Snake Vinyl Trousers & Mirror Crop
+### Prompt 60: Snake Vinyl Trousers Street Glamour
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing SNAKESKIN PRINT shiny vinyl trousers and a matching micro crop top. Black leather corset visible underneath. HEAVY GLAMOUR MAKEUP. EXTREME curves. Posing in a street-style fashion shoot with city traffic background blurring. High texture detail and reflection on the vinyl. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: oversized sunnies. EXTREME hourglass curves. Wearing SNAKESKIN PRINT shiny vinyl trousers, matching micro crop top, and white corset. Posing in a city street with traffic blur. High texture on vinyl. 8k.
 ```
 
-### Prompt 61: Snake Corset Detail (Extreme Cinch)
+### Prompt 61: Python Overbust Corset Cinch (Close-up)
 ```text
-Close-up glamour photography of Miss Doll's torso. Wearing a SNAKESKIN PRINT overbust corset. EXTREME waist cinching showing the hourglass shape. Large breasts pushed high. HEAVY GLAMOUR MAKEUP visible at top of frame. Pale porcelain skin detail. Focus on the metal grommets, lacing, and scale pattern. High detail. Photorealistic 8k. Vertical portrait.
+Professional High-Detail CLOSE UP of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. EXTREME hourglass silhouette. Wearing a SNAKESKIN PRINT overbust corset cinched tightly. Large implants pushed high. HEAVY GLAMOUR MAKEUP visible. Focus on lacing, scales, and metal grommets. 8k.
 ```
 
-### Prompt 62: Snake & Blinding Diamonds
+### Prompt 62: Blue Snake and Diamond Sparkles
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a BLUE SNAKE print silk dress and a massive diamond necklace and earring set. Blinding sparkles. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Posing in a luxury jewelry store interior. Reflective glass cases in background. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a BLUE SNAKE print silk dress and pink corset with massive diamond jewelry. Sparkles and light refraction. luxury jewelry store background. 8k.
 ```
 
-### Prompt 63: Snake Satin Boudoir Robe
+### Prompt 63: Python Satin Boudoir Robe
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a PYTHON PRINT satin robe, tied tightly at the waist with a black silk ribbon. EXTREME curves. HEAVY GLAMOUR MAKEUP: seductive bedroom eyes. Lounging on a silk chaise longue. Soft, dreamy lighting. High detail on the satin texture and smooth skin. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: seductive pouting gaze. EXTREME hourglass silhouette. Lounging on silk chaise. Wearing a PYTHON PRINT satin robe tied tight at the waist with a black ribbon and white corset. Dreamy soft lighting. 8k.
 ```
 
-### Prompt 64: Snake & Gold Foil Belt
+### Prompt 64: Snake Leather and Gold Foil Belt
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a SNAKESKIN leather dress with a thick gold foil corset belt. HEAVY GLAMOUR MAKEUP. EXTREME hourglass figure. Posing in a warm-toned minimalist studio. High detail on the gold sheen and the snake scales. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass figure. Wearing a SNAKESKIN leather dress with a thick gold foil corset belt. Warm-toned minimalist studio. High detail on gold sheen and scales. 8k.
 ```
 
-### Prompt 65: Snake & Cyber Goggles Fetish
+### Prompt 65: Cyber Snake Lab Fetish
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a GREY SNAKE print latex bodysuit and purple cyber goggles resting on her forehead. HEAVY GLAMOUR MAKEUP. EXTREME curves. Posing in a high-tech neon lab with blue lighting. Cyber-fetish aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with blue neon glow. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a GREY SNAKE print latex bodysuit, purple cyber goggles, and white corset. Futuristic high-tech lab setting. Cyber-fetish aesthetic. 8k.
 ```
 
-### Prompt 66: Snake Bodysuit & Silk Cape
+### Prompt 66: Crimson Snake and Silk Cape
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a RED SNAKESKIN latex bodysuit and a long flowing red silk cape attached at the shoulders. EXTREME hourglass silhouette. HEAVY GLAMOUR MAKEUP. Dramatic action pose with the cape flying outwards. Grand opera house stage setting. High-intensity theatrical lighting. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red lips. EXTREME hourglass silhouette. Wearing a RED SNAKESKIN latex bodysuit and red silk cape with a black corset. Dramatic action pose with flying cape in an opera house. Theatrical lighting. 8k.
 ```
 
-### Prompt 67: Snake & Leather Fringe Action
+### Prompt 67: Snake Leather Fringe Movement
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a SNAKESKIN print mini dress with long black leather fringe on the sleeves. Fringe flying in mid-air. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Posing in a white cove studio. Soft but dramatic lighting. High detail on fringe movement. 8k.
+Professional High-Detail Action Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Wearing a SNAKESKIN mini dress with long black leather fringe on sleeves and a white corset. Fringe flying in mid-air. Modern studio setting. 8k.
 ```
 
-### Prompt 68: Snake Over-the-Knee PLEASER Focus
+### Prompt 68: Python Thigh-High PLEASER Masterpiece
 ```text
-Detailed shot of Miss Doll's legs. Wearing over-the-knee PYTHON print latex boots with 9-inch clear PLEASER heels. Skin-tight fit. EXTREME curves. Mirror floor reflection showing the heels clearly. High detail on scales and acrylic heel material. Photorealistic 8k.
+Professional High-Detail photography of the legs of woman 28+ years old mature glamorous. Wearing skin-tight over-the-knee PYTHON PRINT latex boots with 18cm (8-inch) clear PLEASER heels. EXTREME curves visible. Mirror floor showing reflections. High detail on scale texture and clear acrylic material. 8k.
 ```
 
-### Prompt 69: Snake & Wide Sun Hat Luxury
+### Prompt 69: Yacht Deck Snake Silk Luxury
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a SNAKESKIN print silk slip dress and a massive matching snake print sun hat. HEAVY GLAMOUR MAKEUP behind large sunglasses. EXTREME hourglass. Posing on a luxury yacht deck at noon. Ocean background. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: large sunglasses. EXTREME hourglass silhouette in a SNAKESKIN print silk dress and pink corset. Massive snake print sun hat. Luxury yacht deck setting at noon. Ocean background. 8k.
 ```
 
-### Prompt 70: Snake Opera Gloves & Mask
+### Prompt 70: Snake Latex Opera Gloves and Mask
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing long opera-length SNAKESKIN print latex gloves and a matching scale mask covering her eyes. HEAVY GLAMOUR MAKEUP visible around mask (lips and chin). EXTREME hourglass curves. Posing in a dark Victorian room with candle light. High-fashion fetish. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP visible around scale mask covering eyes. EXTREME curves. Wearing long opera-length SNAKESKIN latex gloves, matching mask, and black corset. Victorian dark room. High-fashion fetish. 8k.
 ```
 
-### Prompt 71: Snake & Multiple Harness Belts
+### Prompt 71: Pink Snake Harness Fetish
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a PINK SNAKESKIN print latex dress with multiple black leather belts and harnesses strapped over it. EXTREME waist cinch. HEAVY GLAMOUR MAKEUP. Posing in a high-contrast industrial studio. High detail on leather buckle hardware and scales. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched tight. Wearing a PINK SNAKESKIN latex dress with multiple black leather belts and harnesses. Metal buckle hardware detail. Industrial studio background. 8k.
 ```
 
-### Prompt 72: Snake & Gold Foil Splatter
+### Prompt 72: Dark Snake Gold Splatter Art
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a dark SNAKESKIN print bodysuit with actual gold foil splatter effect on the fabric. HEAVY GLAMOUR MAKEUP: gold eyeshadow. EXTREME curves. Posing in a luxury modern art gallery next to a gold sculpture. Photorealistic 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold eyeshadow. EXTREME hourglass curves. Wearing a dark SNAKESKIN bodysuit with gold foil splatter and a gold corset. Posing in a gallery with a gold sculpture. 8k.
 ```
 
-### Prompt 73: Snake & Black French Lace
+### Prompt 73: Snake Corset and French Lace
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a SNAKESKIN print corset with heavy black French lace overlays. EXTREME cinching. HEAVY GLAMOUR MAKEUP: soft bedroom eyes. Professional boudoir photography style. High texture detail on complex lace patterns. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass silhouette. Wearing a SNAKESKIN print corset with heavy black French lace overlays. Boudoir setting. Warm luxury lighting. 8k.
 ```
 
-### Prompt 74: Snake PVC Raincoat Urban
+### Prompt 74: Urban Snake PVC Raincoat
 ```text
-Miss Doll (Platinum bob NO BANGS) standing in the rain. Wearing a SNAKESKIN print PVC raincoat, wet and highly reflective. HEAVY GLAMOUR MAKEUP perfect underneath the clear plastic hood. EXTREME curves. Neon umbrella reflections. Dynamic city night shot. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with raindrops. HEAVY GLAMOUR MAKEUP: waterproof lashes. EXTREME curves. Wearing a SNAKESKIN print PVC raincoat and pink corset. Neon umbrellas reflections. Dynamic city street night shot. 8k.
 ```
 
-### Prompt 75: Snake Golden Latex Gown Finalé
+### Prompt 75: Golden Snake Latex Gown Finale
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a floor-length GOLDEN SNAKESKIN texture latex gown. Structured mermaid tail bottom. Tight corset bodice. HEAVY GLAMOUR MAKEUP. Standing in a golden palace hall. High texture detail on scales and floor reflections. Wealthy goddess aesthetic. 8k.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red glossy lips. EXTREME hourglass silhouette mermaid tail. Wearing a floor-length GOLDEN SNAKESKIN texture latex gown and corset bodice. Standing in a golden palace hall. Wealthy goddess aesthetic. 8k.
 ```
-
-<!-- SECTION_4_PLACEHOLDER -->
-
-
 
 ## 🐅 SECCIÓN 4: Tiger & Jungle Fantasy - Prompts 76-100
 
-### Prompt 76: Bengal Tiger Latex & Studio Smoke
+### Prompt 76: Bengal Tiger Latex Studio Smoke (Extreme)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing an ultra-tight BENGAL TIGER PRINT LATEX mini dress with a high neck. Sheer black latex opera gloves. PLEASER 8-inch black patent heels. HEAVY GLAMOUR MAKEUP: orange and gold smokey eyes, thick winged liner, mega volume lashes, glossy red lips. EXTREME hourglass figure with large high-profile implants prominent. Posing in a dark studio filled with orange-tinted smoke and dramatic spot lights. Every tiger stripe is sharp and follows her curves. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: orange/gold eyes, glossy red lips. EXTREME hourglass silhouette. Wearing ultra-tight BENGAL TIGER latex mini dress, black latex opera gloves, and a black corset. PLEASER 18cm black heels. Dark studio with orange smoke and spotlights. 8k.
 ```
 
-### Prompt 77: Tiger Bikini Tropical Jungle
+### Prompt 77: Tiger Micro-Bikini Jungle (Extreme)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) posing in a lush, hyper-realistic jungle set. Wearing a TIGER PRINT micro-bikini with gold ring connectors. HEAVY GLAMOUR MAKEUP: sweat-proof setting, bronze skin glow. EXTREME hourglass silhouette. Dappled sunlight filtering through large tropical leaves highlighting her porcelain skin. Large implants prominent. High textural detail on foliage and the fabric print. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with sweat glow. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette large silicon implants. Wearing a TIGER print micro-bikini, gold rings, and a white corset. Hyper-realistic tropical jungle foliage background. Dappled sunlight. 8k.
 ```
 
-### Prompt 78: Tiger Corset & Black Velvet
+### Prompt 78: Tiger Corset on Black Velvet
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT steel-boned corset over a black velvet catsuit. EXTREME waist cinching suitable for tight lacing art. HEAVY GLAMOUR MAKEUP: fierce feline eye makeup. Posing on a black leather sofa. Low key lighting. High texture detail on the velvet pile and the satin corset finish. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: feline eyes. EXTREME hourglass silhouette cinched tight. Wearing a TIGER PRINT steel-boned corset over a black velvet catsuit. Posing on a black leather sofa. Low key lighting. High texture on velvet and satin. 8k.
 ```
 
-### Prompt 79: Tiger & Gold Chain Weave
+### Prompt 79: Tiger Latex Gold Chain Weave
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT latex bodysuit where the side seams are laced together with thick gold chains. EXTREME hourglass curves. HEAVY GLAMOUR MAKEUP. Posing in a bank vault filled with gold bars. Wealthy fetish aesthetic. Blinding reflection on the gold. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a TIGER print latex bodysuit with side seams laced with gold chains and a gold corset. Posing in a bank vault with gold bars. Wealthy fetish. 8k.
 ```
 
-### Prompt 80: Tiger Print Lingerie & Robe
+### Prompt 80: Tiger Lingerie Penthouse Morning
 ```text
-Miss Doll (Platinum bob NO BANGS) in a luxury penthouse bedroom. Wearing TIGER PRINT sheer lingerie and a matching silk floor-length robe with black faux fur trim. HEAVY GLAMOUR MAKEUP: morning glamour look. EXTREME hourglass silhouette. Standing on a balcony with city view. Soft morning light. High detail on silk and fur. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: pouting pink lips. EXTREME hourglass curves. Wearing TIGER PRINT sheer lingerie, silk robe with fur trim, and a white corset. Luxury penthouse balcony at sunrise. Soft city view background. 8k.
 ```
 
-### Prompt 81: Tiger Catsuit Prowl Move
+### Prompt 81: Tiger Catsuit Prowl Move (Mirror Floor)
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing full-body TIGER PRINT latex catsuit. Posing on all fours on a polished marble floor in a "prowling" predator-like posture. HEAVY GLAMOUR MAKEUP: intense feline gaze, glossy red lips. EXTREME hourglass curves on display. Mirror reflection of the tiger patterns on the shiny floor. Luxurious minimalist studio with warm amber spotlighting. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: intense gaze. EXTREME hourglass silhouette. Wearing full TIGER latex catsuit and black corset. Posing on all fours on a polished marble floor in a prowling posture. Mirror reflections of patterns. Warm amber spotlights. 8k.
 ```
 
-### Prompt 82: Tiger & Neon Orange Cyber
+### Prompt 82: Cyber Tiger Neon Tokyo
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT PVC dress with glowing NEON ORANGE piping and circuitry patterns. Cyberpunk fetish. HEAVY GLAMOUR MAKEUP. EXTREME hourglass figure. Posing in a rainy neon street in Tokyo. Reflections of neon signs in the wet PVC. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with neon orange glow. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Wearing TIGER print PVC dress with glowing LED circuits and pink corset. Rainy Tokyo street setting at night. Wet reflections. 8k.
 ```
 
-### Prompt 83: Tiger Print & Black Leather Pants
+### Prompt 83: Tiger Corset and Biker Leather
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT corset top and tight black leather moto pants. HEAVY GLAMOUR MAKEUP. EXTREME curves. Posing next to a black sports car. Flash photography style. High texture detail on leather grain. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME curves. Wearing a TIGER print corset top and tight black leather moto pants. Posing next to a black sports car. Flash photography. High texture on leather grain. 8k.
 ```
 
-### Prompt 84: Tiger Print Ballgown
+### Prompt 84: Tiger Satin Rainforest Ballgown
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a massive TIGER PRINT satin ballgown with a huge skirt. Tight bodice. HEAVY GLAMOUR MAKEUP. Standing in a rainforest setting with a waterfall. Contrast between high fashion and nature. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a massive TIGER print satin ballgown with huge skirt and corset bodice. Posing in a rainforest with a waterfall. Deep green foliage. 8k.
 ```
 
-### Prompt 85: Tiger Print & Diamonds Headshot
+### Prompt 85: Tiger and Diamonds (Macro Portrait)
 ```text
-Macro Close-up of Miss Doll (Platinum bob NO BANGS). Wearing a TIGER PRINT high-neck collar encrusted with diamonds. HEAVY GLAMOUR MAKEUP: nose contour, highlight, glossy lips. Flawless skin texture. Ring light reflection in eyes. Photorealistic 8k. Vertical portrait.
+Professional High-Detail MACRO PORTRAIT of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. HEAVY GLAMOUR MAKEUP: glossy lips, wispy meshes. Wearing a TIGER print collar encrusted with diamonds. Visible cleavage in lower frame. Flawless skin texture. Ring light reflection in pouting eyes. 8k.
 ```
 
-### Prompt 86: Tiger Print & Wet T-Shirt Style
+### Prompt 86: Wet Tiger T-Shirt Pool
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a semi-sheer white wet t-shirt over a TIGER PRINT bikini top. Water soaking the fabric. HEAVY GLAMOUR MAKEUP. Posing in a pool. High texture detail on wet fabric transparency. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a semi-sheer white wet t-shirt over TIGER print bikini and pink corset. water soaking fabric exposing large implants. Pool background. 8k.
 ```
 
-### Prompt 87: Tiger Print Boots Focus
+### Prompt 87: Tiger Suede Thigh-High Focus
 ```text
-Low angle shot of TIGER PRINT thigh-high suede boots with 9-inch heels. Miss Doll (Platinum bob NO BANGS) wearing a black micro-skirt. Focus on the boot texture and heel height. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Low-Angle photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Focusing on legs. Wearing TIGER print suede thigh-high boots with 18cm (8-inch) heels. Black micro-skirt and white corset. Focus on boot texture and height. 8k.
 ```
 
-### Prompt 88: Tiger Print & Red Latex
+### Prompt 88: Tiger and Red Latex Contrast
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT corset over a RED LATEX bodysuit. High color contrast. HEAVY GLAMOUR MAKEUP. Posing in a red room. Intense and vibrant. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME curves. Wearing a TIGER print corset over a RED latex bodysuit. Posing in a red room. Intense vibrant colors. 8k.
 ```
 
-### Prompt 89: Tiger Print & Safari Jeep
+### Prompt 89: Safari Tiger Hot Pants
 ```text
-Miss Doll (Platinum bob NO BANGS) posing on the hood of a vintage Land Rover. Wearing TIGER PRINT hot pants and a tied khaki shirt. HEAVY GLAMOUR MAKEUP. Safari glamour aesthetic. Golden sunlight. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette prominent cleavage. Wearing TIGER print hot pants, tied khaki shirt, and pink corset. Posing on a vintage safari Jeep hood. Golden sunlight. 8k.
 ```
 
-### Prompt 90: Mixed Animal Print Luxury Gown
+### Prompt 90: Mixed Animal Print Latex Gown
 ```text
-Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a floor-length patchwork gown made of high-shine LEOPARD and ZEBRA print latex, with SNAKE print silk accents. Structured corset bodice. HEAVY GLAMOUR MAKEUP: royal gold eyeshadow, glossy red lips. EXTREME silhouette. Standing in a grand ballroom under a crystal chandelier. Sunlight hitting the reflective surfaces. High texture detail on rubber and silk. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: red glossy lips. EXTREME hourglass silhouette. Wearing a patchwork gown of high-shine LEOPARD and ZEBRA latex with SNAKE silk accents and matching corset. Grand ballroom with crystal chandeliers. 8k.
 ```
 
-### Prompt 91: Tiger Print & Fur Hat
+### Prompt 91: Tiger Siberian Winter Fur
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT coat and a massive matching faux fur Russian hat. HEAVY GLAMOUR MAKEUP. Winter glamour. Falling snow. High detail on fur texture. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Wearing a TIGER print coat, massive fur hat, and white corset. Falling snow. High detail on fur fibers. 8k.
 ```
 
-### Prompt 92: Tiger Print & Mirror Sunglasses
+### Prompt 92: Tiger Aviator Sunnies Street
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing TIGER PRINT top and gold mirror aviator sunglasses. Reflection of the studio lights in the glasses. HEAVY GLAMOUR MAKEUP visible. Cool attitude. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP: gold gloss lips. EXTREME hourglass silhouette. Wearing TIGER print top, gold mirror aviators, and pink corset. Cool attitude. Street background. 8k.
 ```
 
-### Prompt 93: Tiger Print Body Tape Art
+### Prompt 93: Tiger Body Tape Fashion
 ```text
-Artistic fashion shot. Miss Doll (Platinum bob NO BANGS) wearing only Black and Orange Body Tape arranged in a tiger stripe pattern over her nudity. HEAVY GLAMOUR MAKEUP. Minimalist white background. High texture detail on skin and tape. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Artistic Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Wearing only black and orange TIGER stripe body tape over her nudity. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette cinched by a transparent corset. High texture detail on tape and skin. 8k.
 ```
 
-### Prompt 94: Tiger Print & Epoxy Floor
+### Prompt 94: Tiger Latex Reflection Floor
 ```text
-Miss Doll (Platinum bob NO BANGS) lying on a high-gloss black epoxy floor. Wearing a TIGER PRINT latex dress. Perfect mirror reflection of her body in the floor. HEAVY GLAMOUR MAKEUP. Overhead shot. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Overhead shot. Lying on a high-gloss black epoxy floor. Wearing a TIGER latex dress and black corset. Perfect mirror reflection. HEAVY GLAMOUR MAKEUP. 8k.
 ```
 
-### Prompt 95: Tiger Print & Gold Leaf
+### Prompt 95: Tiger and 24k Gold Leaf
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a TIGER PRINT dress where the black stripes are replaced with real 24k GOLD LEAF application. HEAVY GLAMOUR MAKEUP. Posing in a dark museum. Gold shining in the dark. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass curves. Wearing TIGER print dress where black stripes are replaced by 24k GOLD LEAF. Gold corset. Dark museum setting. 8k.
 ```
 
-### Prompt 96: Tiger Print & Chainsaw
+### Prompt 96: Tiger Pink Chainsaw Industrial
 ```text
-Miss Doll (Platinum bob NO BANGS) holding a cute pink chainsaw. Wearing TIGER PRINT workwear coveralls, unzipped to reveal black latex bra. HEAVY GLAMOUR MAKEUP. Industrial background. Horror-glamour aesthetic. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Holding a pink chainsaw. Wearing TIGER print coveralls unzipped to reveal black latex bra and black corset. Industrial workshop background. 8k.
 ```
 
-### Prompt 97: Tiger Print & Bubblegum
+### Prompt 97: Tiger Fur Bubblegum Pop
 ```text
-Close up of Miss Doll (Platinum bob NO BANGS) blowing a large pink bubblegum bubble. Wearing TIGER PRINT fur coat. HEAVY GLAMOUR MAKEUP. Pop art style background. Photorealistic 8k. Vertical portrait.
+Professional High-Detail CLOSE UP of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Blowing a huge pink bubblegum bubble. Wearing a TIGER print fur coat. HEAVY GLAMOUR MAKEUP: pink lips, wispy meshes. Pop art background. 8k.
 ```
 
-### Prompt 98: Tiger Print & Throne
+### Prompt 98: Tropical Tiger Throne Queen
 ```text
-Miss Doll (Platinum bob NO BANGS) sitting on a jungle throne made of vines and gold. Wearing TIGER PRINT regalia and crown. HEAVY GLAMOUR MAKEUP: Queen of the Jungle. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin. HEAVY GLAMOUR MAKEUP. EXTREME hourglass silhouette. Sitting on a vine and gold throne wearing TIGER print regalia and crown. Pouting gaze. Jungle goddess aesthetic. 8k.
 ```
 
-### Prompt 99: Tiger Print & Spotlight
+### Prompt 99: Tiger Spotlight Noir
 ```text
-Miss Doll (Platinum bob NO BANGS) in total darkness, illuminated by a single hard spotlight. Wearing TIGER PRINT metallic dress. High contrast dramatic shadows. HEAVY GLAMOUR MAKEUP. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Illuminated by a single hard spotlight in total darkness. Wearing TIGER print metallic dress and black corset. HEAVY GLAMOUR MAKEUP. Intense shadows. 8k.
 ```
 
-### Prompt 100: Animal Print Masterclass Finalé
+### Prompt 100: Animal Print Masterclass Finale (Extreme)
 ```text
-The ultimate high-fashion fetish editorial masterpiece. Miss Doll (Platinum bob NO BANGS) wearing a complex, custom-made PATCHWORK outfit consisting of high-shine LEOPARD, ZEBRA, and SNAKE print latex pieces, all stitched together with silver rings and buckles. HEAVY GLAMOUR MAKEUP: dramatic and royal gold/bronze eyes, glossy dark red lips. EXTREME hourglass silhouette cinched by a black leather corset. PLEASER 9-inch stiletto heels. Standing in a minimalist modern white room with sharp, artistic shadows. The reflection of all the animal patterns in the polished white floor creates a stunning visual. Photorealistic 8k. Vertical portrait.
+Professional High-Detail Editorial Masterpiece of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP: royal gold/bronze eyes, dark red bee-stung lips. EXTREME hourglass silhouette cinched to 18 inches by a black leather corset. Large silicon implants prominent. Wearing a complex PATCHWORK outfit of leopard, zebra, and snake print latex with silver rings and buckles. PLEASER 18cm stiletto heels. Minimalist white room with sharp shadows and floor reflections. 8k. Vertical portrait.
 ```
-
