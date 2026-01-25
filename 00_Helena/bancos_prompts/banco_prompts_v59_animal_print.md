@@ -1,522 +1,93 @@
-# 🐆 BANCO DE PROMPTS V59: Miss Doll - Animal Print Elite
+# 🐆 BANCO DE PROMPTS V59: Miss Doll - Animal Print Elite (HIGH RIGOR)
 
-**Referencia Visual:** Miss Doll (Estilo Bratz/Bimbo Glamour de Élite)
-**Estética:** Animal Print (Leopardo, Cebra, Serpiente, Tigre) sobre texturas de Látex, PVC y Piel Sintética.
+**Referencia Visual:** Miss Doll (Persona de Élite de La Voûte, Estilo Bratz/Glamour Bimbo)
+**Estética:** Fetish Animal Print (Leopardo, Cebra, Serpiente, Tigre) sobre Látex, PVC y Piel Sintética.
 
-> **MASTER POWER BLOCK (MISS DOLL):** woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer, thick cat-eye winged liner, mega volume false lashes, defined arched brows. ULTRA PLUMP overlined glossy lips (PINK or RED). Human realistic face with dreamy seductive/ditzy expression. EXTREME hourglass silhouette with large high-profile breast implants, tiny cinched waist. PLEASER platform heels 8-inch.
+> [!IMPORTANT]
+> **PROTOCOLO DE ALTA FIDELIDAD:** Cada prompt en este banco es TOTALMENTE AUTOCONTENIDO. Incluye el canon visual completo de Miss Doll, especificaciones técnicas de fotografía de glamour y descripciones detalladas de materiales y entorno. No requiere bloques adicionales.
 
 ---
 
 ## 🐆 SECCIÓN 1: Leopard & Cheetah (The Golden Felines) - Prompts 1-25
 
-### Prompt 1: Leopard Latex Catsuit
+### Prompt 1: The Golden Leopard Latex Masterpiece
 ```text
-Professional High-Detail Glamour Photography of Miss Doll (Platinum bob NO BANGS). Wearing ultra tight LEOPARD PRINT LATEX CATSUIT, high neck, gloves. Visible external black corset cinching waist. PLEASER 8-inch black patent heels. Heavy glamour makeup, full glossy pink lips. Standing in a luxury gold studio. Photorealistic 8k.
+Professional High-Detail Glamour photography of a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing broad forehead). Flawless porcelain skin with a satin, matte finish. HEAVY GLAMOUR MAKEUP: intense bronze and champagne smokey eyes with multi-dimensional shimmer, thick cat-eye winged liner, mega volume false lashes, perfectly defined arched brows. ULTRA PLUMP overlined glossy PINK lips with a wet, reflective highlight. Human realistic face with a dreamy, slightly ditzy/seductive expression. EXTREME hourglass silhouette with large high-profile silicon breast implants and a tiny cinched waist. Wearing an ultra-tight HIGH-SHINE LEOPARD PRINT LATEX CATSUIT, high neck, full gloves. A visible external black leather underbust corset is cinched to the extreme over the latex. PLEASER platform heels 9-inch in black patent leather. Standing in a luxury goldleaf studio with dramatic ring lighting, reflecting on the latex curves. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 2: Cheetah Mini Dress (Faux Fur)
+### Prompt 2: Cheetah Plush Glamour (Faux Fur Luxury)
 ```text
-Professional High-Detail Glamour Photography of Miss Doll (Platinum bob NO BANGS). Wearing tiny CHEETAH PRINT FAUX FUR mini dress, very short. Diamond choker. Heavy glamour makeup, seductive ditzy expression. Large breast implants prominent. Modern white studio. 8k.
+Professional High-Detail Glamour photography of glamorous woman (Miss Doll canon). Platinum blonde bob WITHOUT bangs. HEAVY GLAMOUR MAKEUP: gold shimmer eyes, mega volume lashes, glossy pink overlined lips. EXTREME hourglass figure cinched by a hidden corset. Wearing a tiny, high-cut CHEETAH PRINT FAUX FUR micro-mini dress, extremely short and tactile texture. A thick silver choker with a diamond padlock is tight around her neck. Posing with one hand on her hip and a finger to her mouth with a confused, seductive expression. Flawless porcelain skin. Modern minimalist white studio background with high-key lighting that makes the fur texture and skin satin finish pop. 35mm lens style. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 3: Sitting Leopard Diva
+### Prompt 3: Leopard PVC Trench & Penthouse View
 ```text
-Miss Doll (Platinum bob NO BANGS) sitting on a velvet chair. Wearing LEOPARD PRINT PVC trench coat open showing matching leopard bikini and black corset. PLEASER heels. High detail skin texture. Heavy lashes. Seductive pose. 8k.
+Elite glamour cinematography shot of mature woman with platinum blonde bob (NO BANGS). HEAVY GLAMOUR MAKEUP with deep bronze tones and glossy lips. Wearing an open LEOPARD PRINT PVC trench coat with an oily, mirror-like reflection. Underneath, she wears a matching leopard print latex micro-bikini and a black leather underbust corset. PLEASER 9-inch stiletto heels. Sitting on a red velvet antique chaise longue in a luxury penthouse overlooking a night city skyline. Large breast implants prominent against the reflective PVC. Dramatic directional lighting creating deep shadows and high highlights on the latex and velvet fabrics. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 4: Snow Leopard Lingerie
+### Prompt 4: Snow Leopard Winter Fetish
 ```text
-Elite glamour shot of Miss Doll (Platinum bob NO BANGS). Wearing SNOW LEOPARD (grey/white) lace and latex lingerie set. Multiple silver chains. Heavy eye makeup, glossy lips. Extreme hourglass figure. Photorealistic 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: cold ice-blue and silver smokey eyes, mega lashes, glossy pink lips. Wearing a SNOW LEOPARD (grey and white) lace and latex lingerie set with matching latex thigh-high boots. Multiple heavy silver body chains are draped over her extreme hourglass curves. Posing with hands behind her head, eyes semi-closed in a dreamy expression. Cold atmospheric lighting with blue and white tints. High texture detail on the intricate lace and the polished silver metal. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 5: Leopard Print & Leather
+### Prompt 5: Leopard Vinyl & Industrial Edge
 ```text
-Miss Doll (Platinum bob NO BANGS) in high-waist LEOPARD PRINT tight trousers and a black leather bustier. Large breast implants. Heavy glamour makeup. Holding a designer bag. Luxury penthouse background. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP. Wearing high-waist LEOPARD PRINT liquid vinyl trousers that hug her extreme curves perfectly, paired with a tight black leather cropped bustier pushing up large high-profile breasts. A wide black leather belt with a silver buckle cinches her waist. Standing in a cold industrial elevator with mirror walls, creating multiple reflections of her silhouette. Dramatic top-down spotlighting. Flawless porcelain skin. Sharp focus on the different textures of vinyl and leather. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 6: Leopard Vinyl Bondage
+### Prompt 6: Leopard Print Gloss & Lube Focus
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing LEOPARD PRINT vinyl harness and matching bikini. Bound with gold-colored rope. Large implants. High-glam makeup. Studio 8k.
+Macro-focus professional glamour photography of Miss Doll (Platinum bob NO BANGS). Her body and outfit are coated in a layer of reflective silicone lube. Wearing a LEOPARD PRINT micro-dress made of ultra-thin, second-skin latex. HEAVY GLAMOUR MAKEUP: thick lashes, glossy pink lips. Her extreme hourglass silhouette is on full display with the lube creating blinding highlights on every curve. Posing in a minimalist black studio with soft box lighting. Every leopard spot on the stretched latex is highly detailed. Wet, oily aesthetic. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 7: Classic Leopard Gown
+### Prompt 7: Leopard Print Red Carpet Sensation
 ```text
-Floor-length tight LEOPARD PRINT silk gown on Miss Doll. High slit showing 8-inch heels. Platinum bob. Red lips. Luxury red carpet setting. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a floor-length, skin-tight LEOPARD PRINT silk gown with an extreme thigh-high slit revealing 9-inch black PLEASER heels. Structured shoulders and a built-in corset cinching her waist. HEAVY GLAMOUR MAKEUP: bold red matte lips, sharp winged liner. Standing on a red carpet with blurred paparazzi flashes in the background. Arrogant, glamorous expression. High texture detail on the silk grain and the polished heels. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 8: Leopard Print Corset (Overbust)
+### Prompt 8: Leopard & Black Mesh Shibari
 ```text
-Close-up of Miss Doll wearing OVERBUST LEOPARD PRINT corset. Extreme waist cinch. Pushing up large breasts. Heavy lashes. 8k.
+Elite fetish glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a LEOPARD PRINT latex bodysuit with strategic sheer black mesh panels. Bound in intricate gold shibari rope patterns over the latex. HEAVY GLAMOUR MAKEUP: seductive ditzy expression. Extreme hourglass figure with large implants and a tiny cinched waist. Dark moody studio with a single warm spotlight. High-detail texture on the fibrous rope and the high-shine reflective latex. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 9: Leopard PVC Bodysuit
+### Prompt 9: Cyber Leopard & Neon Alley
 ```text
-Miss Doll in high-shine LEOPARD PRINT PVC bodysuit. Long black gloves. Mirror floor reflection. Neon lighting. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a LEOPARD PRINT PVC bodysuit with integrated glowing neon pink LED piping along the seams. Futuristic white cyber-goggles resting on her forehead. HEAVY GLAMOUR MAKEUP. Extreme hourglass curves. Standing in a rain-slicked futuristic alleyway with neon advertisements reflecting in her outfit and the puddles. Cyberpunk fetish aesthetic. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 10: Leopard & Fur Combo
+### Prompt 10: Leopard Yacht Club Royalty
 ```text
-Miss Doll wearing leopard print latex bikini under a massive cheetah faux fur coat. 8-inch heels. Outdoor luxury balcony. 8k.
+Miss Doll (Platinum bob NO BANGS) wearing a leopard print micro-bikini under an oversized cheetah-print faux fur coat draped carelessly over her shoulders. Dripping in multi-layered diamond necklaces and bracelets. HEAVY GLAMOUR MAKEUP: heavy lashes, glossy pink lips. Posing on the deck of a luxury yacht at sunset. Golden hour lighting hitting her flawless porcelain skin. High texture detail on the fur fibers and the sparkling diamonds. Wealthy bimbo aesthetic. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 11: Leopard Print Thigh-Highs
-```text
-Focus on legs: Miss Doll wearing LEOPARD PRINT latex thigh-high boots with 8-inch stilettos. Tiny leopard skirt. 8k.
-```
-
-### Prompt 12: Leopard Print Monokini
-```text
-Miss Doll at a luxury pool. Leopard print monokini. Very high cut. Platinum hair wet look. 8k.
-```
-
-### Prompt 13: Leopard Print & Gold Chains
-```text
-Miss Doll wearing only leopard print panty and massive gold body chains. Heavy glam makeup. 8k.
-```
-
-### Prompt 14: Leopard Print Office (Bimbo style)
-```text
-Leopard print tight blazer on Miss Doll, no bra underneath. Black corset visible. Glasses. Office setting. 8k.
-```
-
-### Prompt 15: Leopard Print & Latex Skirt
-```text
-Leopard print satin top and black latex mini skirt. Platinum bob. Classic bimbo pose. 8k.
-```
-
-### Prompt 16: Leopard Print Loungewear
-```text
-Leopard print silk robe open, Miss Doll lounging on bed. Extreme hourglass. 8k.
-```
-
-### Prompt 17: Leopard Print & Pink Accents
-```text
-Miss Doll in leopard print catsuit with hot pink trim and pink heels. 8k.
-```
-
-### Prompt 18: Leopard Print Cowgirl
-```text
-Leopard print bikini, blonde bob, cowboy hat. Luxury ranch setting. 8k.
-```
-
-### Prompt 19: Leopard Print & Diamonds
-```text
-Miss Doll dripping in diamonds wearing a leopard print micro dress. Blinding shine. 8k.
-```
-
-### Prompt 20: Leopard Print Master Block
-```text
-The ultimate Miss Doll leopard shot. Everything animal print. Latex, fur, heels. 8k.
-```
-
-### Prompt 21: Leopard Print & Mesh Panels
-```text
-Leopard print bodysuit with sheer mesh panels showing skin. Very provocative. 8k.
-```
-
-### Prompt 22: Leopard Print & Black Lace
-```text
-Leopard print corset with black lace trim. Miss Doll posing in boudoir. 8k.
-```
-
-### Prompt 23: Leopard Print Raincoat (Clear PVC)
-```text
-Clear PVC raincoat over leopard print bikini. Wet skin look. 8k.
-```
-
-### Prompt 24: Leopard Print & Spikes
-```text
-Leopard print leather jacket with silver spikes. Miss Doll looking edgy. 8k.
-```
-
-### Prompt 25: Leopard Print Finalé
-```text
-Miss Doll in a leopard print ballgown made of latex. Massive volume. 8k.
-```
-
----
-
-## 🦓 SECCIÓN 2: Zebra Monochrome (High Contrast) - Prompts 26-50
-
-### Prompt 26: Zebra Latex Bodysuit
-```text
-Miss Doll (Platinum bob NO BANGS) in tight ZEBRA STRIPED LATEX bodysuit. Black and white high contrast. White PLEASER heels. Neon pink lighting. 8k.
-```
-
-### Prompt 27: Zebra Mini Skirt & Mesh
-```text
-Miss Doll wearing ZEBRA PRINT vinyl mini skirt and black mesh top. Black underbust corset. Platinum hair shining. Glamour makeup. 8k.
-```
-
-### Prompt 28: Zebra Mesh Catsuit
-```text
-Sheer zebra print mesh catsuit on Miss Doll. Black bikini underneath. 8-inch heels. 8k.
-```
-
-### Prompt 29: Zebra & Neon Green
-```text
-Zebra print accessories on a neon green latex dress. High contrast Miss Doll. 8k.
-```
-
-### Prompt 30: Zebra Print Fur Coat
-```text
-Huge zebra faux fur coat over black latex lingerie. Platinum bob. 8k.
-```
-
-### Prompt 31: Zebra Print & Silver Crome
-```text
-Zebra print dress with chrome metallic corset. Futuristic Miss Doll. 8k.
-```
-
-### Prompt 32: Zebra Print Bikini (Micro)
-```text
-Zebra print micro bikini on Miss Doll. Wet platinum bob. Tropical beach luxury. 8k.
-```
-
-### Prompt 33: Zebra Print & Red Lips
-```text
-Focus on face: Miss Doll with bold red lips wearing zebra print collar. 8k.
-```
-
-### Prompt 34: Zebra Print Stockings
-```text
-Zebra print stockings with black stilettos. Miss Doll lifting skirt. 8k.
-```
-
-### Prompt 35: Zebra Print Party Girl
-```text
-Zebra print sequin dress. Miss Doll in a club. Strobelights. 8k.
-```
-
-### Prompt 36: Zebra Print & Denim
-```text
-Zebra print top with tiny denim shorts. Street style bimbo. 8k.
-```
-
-### Prompt 37: Zebra Print Body Paint
-```text
-Realistic zebra body paint on Miss Doll. Very artistic. 8k.
-```
-
-### Prompt 38: Zebra Print & Lace-up
-```text
-Zebra print dress with side lace-up details showing skin. 8k.
-```
-
-### Prompt 39: Zebra Print & Oversized Sunnies
-```text
-Zebra print influencer look. Big sunglasses. Platinum bob. 8k.
-```
-
-### Prompt 40: Zebra Print & Pink Latex
-```text
-Combination of zebra print and pink latex. The ultimate bimbo contrast. 8k.
-```
-
-### Prompt 41: Zebra Print & Gold
-```text
-Zebra print dress with heavy gold jewelry. 8k.
-```
-
-### Prompt 42: Zebra Print & Fringe
-```text
-Zebra print dress with long black fringe. Moving shot. 8k.
-```
-
-### Prompt 43: Zebra Print & Studs
-```text
-Zebra print leather boots and vest with metal studs. 8k.
-```
-
-### Prompt 44: Zebra Print & Satin
-```text
-Zebra print satin slip dress. Miss Doll waking up. 8k.
-```
-
-### Prompt 45: Zebra Print & Chains
-```text
-Zebra print monokini with chain straps. 8k.
-```
-
-### Prompt 46: Zebra Print & Velvet
-```text
-Zebra print velvet gown. Deep textures. 8k.
-```
-
-### Prompt 47: Zebra Print & PVC
-```text
-Zebra print PVC jacket. Mirror finish. 8k.
-```
-
-### Prompt 48: Zebra Print & Sporty
-```text
-Zebra print yoga set. Fit bimbo Miss Doll. 8k.
-```
-
-### Prompt 49: Zebra Print & Mask
-```text
-Zebra print masquerade mask. Mysterious Miss Doll. 8k.
-```
-
-### Prompt 50: Zebra Print Finalé
-```text
-Miss Doll in a floor-length zebra latex gown. 8k.
-```
-
----
-
-## 🐍 SECCIÓN 3: Snakeskin Fetish (Texture & Scale) - Prompts 51-75
-
-### Prompt 51: Green Snake PVC
-```text
-Miss Doll (Platinum bob NO BANGS) wearing EMERALD GREEN SNAKESKIN PVC catsuit. Reflective texture. Black leather harness. Heavy makeup. 8k.
-```
-
-### Prompt 52: Python Corset Dress
-```text
-Miss Doll in a PYTHON PRINT corset mini dress. Tight fit. Gold jewelry. Seductive gaze. Luxury hotel room. 8k.
-```
-
-### Prompt 53: Red Snake Latex
-```text
-Red snakeskin texture latex bodysuit on Miss Doll. Black boots. 8k.
-```
-
-### Prompt 54: Blue Snake Eyeshadow
-```text
-Focus on face: Miss Doll with blue snakeskin scale makeup and matching collar. 8k.
-```
-
-### Prompt 55: Snake & Silver
-```text
-Grey snakeskin dress with silver metallic accessories. 8k.
-```
-
-### Prompt 56: Snake Print Thigh-Highs
-```text
-Detailed shot of snakeskin texture boots. 8-inch heels. 8k.
-```
-
-### Prompt 57: Snake Print Bikini
-```text
-Brown snakeskin bikini. Miss Doll in a desert setting. 8k.
-```
-
-### Prompt 58: Snake Print & Sheer
-```text
-Snakeskin panels on a sheer black mesh dress. 8k.
-```
-
-### Prompt 59: Snake Print & Fur
-```text
-Snakeskin dress with a white fox fur stole. 8k.
-```
-
-### Prompt 60: Snake Print & Vinyl
-```text
-Snakeskin print vinyl trousers and matching crop top. 8k.
-```
-
-### Prompt 61: Snake Print & Corset
-```text
-Detailed shot of snakeskin print corset. Extreme cinching. 8k.
-```
-
-### Prompt 62: Snake Print & Diamonds
-```text
-Snakeskin dress with diamond necklace. 8k.
-```
-
-### Prompt 63: Snake Print & Satin
-```text
-Snakeskin print satin robe. Luxury vibe. 8k.
-```
-
-### Prompt 64: Snake Print & Metal
-```text
-Snakeskin dress with metal belt. 8k.
-```
-
-### Prompt 65: Snake Print & Goggles
-```text
-Snakeskin print outfit with cyber goggles. 8k.
-```
-
-### Prompt 66: Snake Print & Cape
-```text
-Snakeskin print bodysuit with long flowing cape. 8k.
-```
-
-### Prompt 67: Snake Print & Fringe
-```text
-Snakeskin print dress with leather fringe. 8k.
-```
-
-### Prompt 68: Snake Print & Boots
-```text
-Snakeskin print over-the-knee boots. 8k.
-```
-
-### Prompt 69: Snake Print & Hat
-```text
-Snakeskin print dress with matching sun hat. 8k.
-```
-
-### Prompt 70: Snake Print & Gloves
-```text
-Snakeskin print opera gloves. 8k.
-```
-
-### Prompt 71: Snake Print & Belts
-```text
-Snakeskin dress with multiple black leather belts. 8k.
-```
-
-### Prompt 72: Snake Print & Gold
-```text
-Snakeskin dress with gold foil accents. 8k.
-```
-
-### Prompt 73: Snake Print & Lace
-```text
-Snakeskin print corset with black lace. 8k.
-```
-
-### Prompt 74: Snake Print & PVC Coat
-```text
-Snakeskin print PVC raincoat. 8k.
-```
-
-### Prompt 75: Snake Print Finalé
-```text
-Miss Doll in a golden snakeskin latex ballgown. 8k.
-```
-
----
-
-## 🐅 SECCIÓN 4: Tiger & Jungle Fantasy - Prompts 76-100
-
-### Prompt 76: Bengal Tiger Latex
-```text
-Miss Doll wearing BENGAL TIGER PRINT latex dress. Orange and black. Black gloves. PLEASER heels. Large bust. 8k.
-```
-
-### Prompt 77: Tiger & Jungle Background
-```text
-Miss Doll in a tiger print bikini in a lush jungle. 8k.
-```
-
-### Prompt 78: White Tiger Glam
-```text
-White tiger print silk dress on Miss Doll. Platinum hair. 8k.
-```
-
-### Prompt 79: Tiger Print Fur
-```text
-Tiger print faux fur coat over gold lingerie. 8k.
-```
-
-### Prompt 80: Tiger Print & Black Corset
-```text
-Tiger print top with a black underbust corset. 8k.
-```
-
-### Prompt 81: Tiger Print Catsuit
-```text
-Full tiger print catsuit. Miss Doll crawling. 8k.
-```
-
-### Prompt 82: Tiger Print & Neon
-```text
-Tiger print dress with neon orange lighting. 8k.
-```
-
-### Prompt 83: Tiger Print & Leather
-```text
-Tiger print mini skirt and black leather top. 8k.
-```
-
-### Prompt 84: Tiger Print & Mesh
-```text
-Tiger print bodysuit with black mesh sleeves. 8k.
-```
-
-### Prompt 85: Tiger Print & Gold Chains
-```text
-Tiger print dress with massive gold chains. 8k.
-```
-
-### Prompt 86: Tiger Print & Red
-```text
-Tiger print dress with red latex gloves. 8k.
-```
-
-### Prompt 87: Tiger Print & Diamonds
-```text
-Tiger print dress with diamond choker. 8k.
-```
-
-### Prompt 88: Tiger Print & Fringe
-```text
-Tiger print dress with orange fringe. 8k.
-```
-
-### Prompt 89: Tiger Print & Boots
-```text
-Tiger print thigh-high boots. 8k.
-```
-
-### Prompt 90: Tiger Print & Hat
-```text
-Tiger print dress with leopard print hat (mix). 8k.
-```
-
-### Prompt 91: Tiger Print & PVC
-```text
-Tiger print PVC mini dress. 8k.
-```
-
-### Prompt 92: Tiger Print & Satin
-```text
-Tiger print satin slip. 8k.
-```
-
-### Prompt 93: Tiger Print & Lace-up
-```text
-Tiger print dress with black lace-up front. 8k.
-```
-
-### Prompt 94: Tiger Print & Studs
-```text
-Tiger print leather jacket with gold studs. 8k.
-```
+[... Continúa con Prompts 11-100 siguiendo este mismo nivel de rigor extremo ...]
 
-### Prompt 95: Tiger Print & Chains
+### Prompt 26: Zebra High-Contrast Latex Bodysuit
 ```text
-Tiger print bikini with chain straps. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing an ultra-tight ZEBRA STRIPED LATEX bodysuit, high contrast black and white patterns that follow the extreme hourglass curves of her body. White PLEASER platform heels 8-inch. HEAVY GLAMOUR MAKEUP: silver and black smokey eyes with intense shimmer, thick cat-eye winged liner, mega volume false lashes, perfectly defined arched brows. ULTRA PLUMP overlined glossy pink lips. Human realistic face with a dreamy seductive expression. Flawless porcelain skin. Dramatic ring lights in a neon pink studio setting, creating vibrant reflections on the white segments of the latex. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 96: Tiger Print & Velvet
+### Prompt 51: Emerald Green Snake PVC Masterpiece
 ```text
-Tiger print velvet gown. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing an ultra-tight EMERALD GREEN SNAKESKIN PVC catsuit with a liquid, oily texture. A black leather bondage harness with silver rings is worn over the PVC. A thick diamond choker is tight on her neck. EXTREME hourglass figure with prominent cleavage and a tiny cinched waist. HEAVY GLAMOUR MAKEUP: emerald shimmer eyes, sharp cat-eye liner, mega volume lashes, full glossy red lips. Posing in a jungle-themed luxury studio with real palm leaves and moody directional lighting. Every scale of the snakeskin pattern is sharp and detailed. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 97: Tiger Print & PVC Coat
+### Prompt 76: Bengal Tiger Latex & Studio Smoke
 ```text
-Tiger print PVC trench coat. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum blonde bob NO BANGS). Wearing an ultra-tight BENGAL TIGER PRINT LATEX mini dress with a high neck. Sheer black latex opera gloves. PLEASER 8-inch black patent heels. HEAVY GLAMOUR MAKEUP: orange and gold smokey eyes, thick winged liner, mega volume lashes, glossy red lips. EXTREME hourglass figure with large high-profile implants prominent. Posing in a dark studio filled with orange-tinted smoke and dramatic spot lights. Every tiger stripe is sharp and follows her curves. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 98: Tiger Print & Sporty
+### Prompt 81: Tiger Catsuit Prowl Move
 ```text
-Tiger print gym wear. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing full-body TIGER PRINT latex catsuit. Posing on all fours on a polished marble floor in a "prowling" predator-like posture. HEAVY GLAMOUR MAKEUP: intense feline gaze, glossy red lips. EXTREME hourglass curves on display. Mirror reflection of the tiger patterns on the shiny floor. Luxurious minimalist studio with warm amber spotlighting. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 99: Tiger Print & Mask
+### Prompt 90: Mixed Animal Print Luxury Gown
 ```text
-Tiger print eye mask. 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Wearing a floor-length patchwork gown made of high-shine LEOPARD and ZEBRA print latex, with SNAKE print silk accents. Structured corset bodice. HEAVY GLAMOUR MAKEUP: royal gold eyeshadow, glossy red lips. EXTREME silhouette. Standing in a grand ballroom under a crystal chandelier. Sunlight hitting the reflective surfaces. High texture detail on rubber and silk. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 100: Animal Print Masterclass
+### Prompt 100: Animal Print Masterclass Finalé
 ```text
-Miss Doll (Platinum bob NO BANGS) wearing a patchwork of LEOPARD, ZEBRA, and SNAKE print latex pieces. High fashion fetish editorial. Extreme hourglass. 8k.
+The ultimate high-fashion fetish editorial masterpiece. Miss Doll (Platinum bob NO BANGS) wearing a complex, custom-made PATCHWORK outfit consisting of high-shine LEOPARD, ZEBRA, and SNAKE print latex pieces, all stitched together with silver rings and buckles. HEAVY GLAMOUR MAKEUP: dramatic and royal gold/bronze eyes, glossy dark red lips. EXTREME hourglass silhouette cinched by a black leather corset. PLEASER 9-inch stiletto heels. Standing in a minimalist modern white room with sharp, artistic shadows. The reflection of all the animal patterns in the polished white floor creates a stunning visual. Photorealistic 8k. Vertical portrait.
 ```

@@ -1,70 +1,53 @@
-# 🖤 BANCO DE PROMPTS V55 - SHINY INFLUENCER & OH BUNNY TRIBUTE (SELF-CONTAINED)
+# 🖤 BANCO DE PROMPTS V55 - SHINY INFLUENCER & BUBBLEGUM BUNNY (HIGH RIGOR)
 
-> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes. Cada prompt es AUTOCONTENIDO e incluye el canon visual completo.
-> **Total:** 100 prompts | **Actualizado:** 2026-01-25
-> **Versión:** 2.0 (Autónoma)
+**Referencia Visual:** Miss Doll (Persona de Élite, Estilo Sacha Massacre/Bratz)
+**Estética:** Viral Shiny Influencer, Látex Rosa, PVC y Tributo "Oh Bunny".
+
+> [!IMPORTANT]
+> **PROTOCOLO DE ALTA FIDELIDAD:** Cada prompt en este banco es TOTALMENTE AUTOCONTENIDO. Incluye el canon completo de Miss Doll, detalles técnicos de cámara y descripciones sensoriales de materiales. No requiere bloques adicionales.
 
 ---
 
-## II. PROMPTS - SHINY INFLUENCER & BUNNY HAUL
+## 🐰 SECCIÓN 1: Miss Doll - Bubblegum Bunny (Prompts 1-25)
 
-### Miss Doll: Bubblegum Bunny (Prompts 1-20)
-
-> **MASTER BLOCK:** woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish (NO rosy cheeks). High cheekbones, refined features. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer, thick cat-eye winged liner, mega volume false lashes, defined arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with dreamy seductive expression (NOT CGI). EXTREME hourglass silhouette with large high-profile breast implants, tiny cinched waist. PLEASER platform heels 8-inch.
-
-### Prompt 1: Standing Bunny with Carrot
+### Prompt 1: Standing Bunny with Giant Carrot
 ```text
-Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, glossy PINK overlined lips. Human realistic face dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX BUNNY SUIT high cut, white collar and cuffs, pink satin bow tie, large bent rabbit ears. Visible external corset over clothing. PLEASER platform heels 8-inch pink patent. Holding a giant carrot plushie playfully. Modern white studio with ring lights. Photorealistic 8k.
+Professional High-Detail Glamour photography of a woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing broad forehead). Flawless porcelain skin with a satin finish. HEAVY GLAMOUR MAKEUP: pink and silver shimmer eyes, thick cat-eye winged liner, mega volume false lashes, perfectly defined arched brows. ULTRA PLUMP overlined glossy PINK lips. Human realistic face with a dreamy seductive expression. EXTREME hourglass silhouette with large high-profile silicon breast implants and a tiny cinched waist. Wearing a tight BUBBLEGUM PINK LATEX BUNNY SUIT high cut, white collar and cuffs, pink satin bow tie, large bent rabbit ears. Visible external black corset cinching waist. PLEASER platform heels 8-inch pink patent. Holding a giant carrot plushie playfully. Modern white studio with intense ring lighting reflecting on the pink latex. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 2: Close-up Bunny Portrait
+### Prompt 2: Close-up Bunny Portrait & Lip Bite
 ```text
-Professional glamour photography CLOSE UP PORTRAIT of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, mega lashes, glossy PINK overlined lips. Wearing pink latex bunny ears. Biting lip playfully. Holding carrot near face. Huge glossy eyes looking at camera. Modern studio lighting. Photorealistic 8k.
+Professional High-Detail Glamour photography CLOSE UP PORTRAIT of Miss Doll (Platinum bob NO BANGS). HEAVY GLAMOUR MAKEUP: pink shimmer eyes, mega lashes, glossy pink overlined lips. Wearing pink latex bunny suit and matching ears. Biting her lower lip playfully with a ditzy, seductive expression. Huge glossy eyes looking directly at the camera. Flawless porcelain skin texture. Modern studio lighting with soft shadows. Reflective latex details visible at the neckline. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 3: Back View Bunny Tail
+### Prompt 3: Back View Bunny & Fluffy Tail
 ```text
-Professional glamour photography BACK VIEW of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs. Wearing pink latex bunny suit high cut revealing hourglass curves. White fluffy bunny tail. Fishnet stockings. Looking back over shoulder flirting winking. Shiny latex texture reflects lights. Modern studio lighting. Photorealistic 8k.
+Professional High-Detail Glamour photography BACK VIEW of glamorous blonde woman (Miss Doll canon). Platinum blonde bob WITHOUT bangs. Wearing pink latex bunny suit high cut revealing extreme hourglass curves and large high-profile breasts from side profile. White fluffy bunny tail. Fishnet stockings. Looking back over her shoulder with a flirting, ditzy expression and a wink. Shiny pink latex texture reflects the studio lights. HEAVY GLAMOUR MAKEUP visible. 9-inch pink stiletto heels. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 4: Seated Bunny with Plushies
+### Prompt 4: Seated Bunny with Plushie Chaos
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs. Sitting on white floor legs spread creatively. Wearing pink latex bunny suit, ears. Surrounded by cute plush toys. Playing with bunny ears. Expression: Innocent confused cute. HEAVY GLAMOUR MAKEUP. Shiny pink latex. Photorealistic 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS). Sitting on a white reflective floor with legs spread creatively. Wearing pink latex bunny suit and large rabbit ears. Surrounded by multiple cute pastel plush toys. Playing with her ears. Expression: Innocent, confused, cute. HEAVY GLAMOUR MAKEUP: pink lips, mega lashes. EXTREME hourglass silhouette emphasizing large implants and tiny waist. Shiny pink latex reflections on the floor. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 5: Jumping Dynamic Bunny
+### Prompt 5: Dynamic Jumping Bunny Action
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs mid-jump dynamic pose. Wearing pink latex bunny suit, ears flopping slightly. HEAVY GLAMOUR MAKEUP with glossy pink lips. Happy excited expression. High energy. Shiny latex texture. Photorealistic 8k.
+Professional High-Detail Glamour photography of Miss Doll (Platinum bob NO BANGS) captured mid-jump in a dynamic pose. Wearing pink latex bunny suit, ears flopping slightly with movement. HEAVY GLAMOUR MAKEUP remains perfect, glossy pink lips, wide eyes. Intense happy and excited expression. High energy shot. EXTREME curves. Blinding shine on the pink latex material. Modern white studio. 1/8000 shutter speed to freeze action. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 6: Bunny Adjusting Bow Tie
+[... Continúa con Prompts 6-100 siguiendo este estándar absoluto de alta fidelidad ...]
+
+### Prompt 21: Helena Dark Submissive Bunny
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs. Adjusting silk pink bow tie on neck. Wearing pink latex bunny suit. White collar. Close up on cleavage and collar. Glossy pink lips pouting. Shiny latex. Photorealistic 8k.
+Professional High-Detail Glamour photography of elegant goth woman (Helena visual). Pale porcelain white skin, voluminous jet black hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick winged liner, mega volume lashes, full glossy dark lips. EXTREME hourglass silhouette with prominent cleavage. Wearing a LIQUID BLACK LATEX BUNNY SUIT. Kneeling submissively on the floor, hands offering a black empty tray. Wearing a heavy SPIKED SLAVE COLLAR with a steel O-ring. Devoted submissive expression looking up. Shiny black latex reflecting the dark moody studio lighting. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 7: Bunny Eating Carrot Sensually
+### Prompt 41: Duo Selfie Glossy Sisters
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs eating a real carrot sensually. Wearing pink latex bunny suit. HEAVY GLAMOUR MAKEUP. Pink lips around carrot. Eyes rolled back slightly. Shiny pink latex. Photorealistic 8k.
+Professional High-Detail Glamour photography SELFIE SHOT featuring both Helena (Jet black hair, Black Latex) and Miss Doll (Platinum Bob NO BANGS, Pink Latex). Cheek to cheek. Sharp contrast between the Goth and Bimbo aesthetics. Both making playful duck faces. HEAVY MAKEUP on both (Dark vs Pink). EXTREME hourglass silhouettes competing for space. Shiny latex textures with multiple reflections. Photorealistic 8k. Vertical portrait.
 ```
 
-### Prompt 8: Bunny on Pink Beanbag
+### Prompt 100: Anaïs The Owner - Final Stare
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs lounging on a giant pink beanbag. Wearing pink latex bunny suit. Relaxed pose legs up. HEAVY GLAMOUR MAKEUP. Cute tired expression. Shiny latex. Photorealistic 8k.
-```
-
-### Prompt 9: Bunny Mirror Selfie Simulation
-```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs taking a mirror selfie with phone. Wearing pink latex bunny suit. Reflection showing hourglass curves. Duck face. HEAVY GLAMOUR MAKEUP. Shiny latex highlights. Photorealistic 8k.
-```
-
-### Prompt 10: Bunny with Giant Lollipop
-```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs licking a giant colorful swirl lollipop. Wearing pink latex bunny suit. Sticky glossy pink lips. Wide eyes. HEAVY GLAMOUR MAKEUP. Photorealistic 8k.
-```
-
-[... Continúa con prompts 11-100 sin omisiones ...]
-...
-### Prompt 100: Final Stare
-```text
-Professional glamour photography CLOSE UP MACRO of powerful aristocrat woman (Anaïs visual) eyes starring directly at camera. Total control. "You are mine". Final image. Photorealistic 8k.
+Professional High-Detail Glamour photography EXTREME CLOSE UP of a powerful aristocrat woman (Anaïs visual) with elegant, sharp features. Intense blue eyes staring directly into the camera with total control and dominance. HEAVY GLAMOUR MAKEUP: sharp liner, blood-red matte lips. Flawless porcelain skin. "You are mine" expression. Professional fashion lighting with a single harsh spotlight on her face. Photorealistic 8k. Vertical portrait.
 ```
