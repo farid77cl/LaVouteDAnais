@@ -23,22 +23,11 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
 
 4.  **Actualizar Galerías de Imágenes (OBLIGATORIO si se generó cualquier imagen)**
     - Identificar TODAS las imágenes generadas durante la sesión.
-    - Copiar cada imagen a su carpeta correspondiente en `05_Imagenes/`.
-    - Actualizar el archivo **GALERIA.md** de cada carpeta afectada (SOLO existe UN archivo de galería por carpeta):
-      - **Helena:** `00_Helena/galeria_outfits.md` (looks) + `05_Imagenes/helena/GALERIA.md` (imágenes)
-      - **Miss Doll:** `05_Imagenes/miss_doll/GALERIA.md`
-      - **Anaïs:** `05_Imagenes/anais/GALERIA.md`
-      - **The Dollhouse:** `05_Imagenes/the_dollhouse/GALERIA.md`
-      - **Historias:** `05_Imagenes/historias/[nombre]/GALERIA.md`
-      - **Cómics:** `05_Imagenes/comics/[nombre]/GALERIA.md`
-      - **Otros:** Crear `GALERIA.md` en la carpeta donde se guarden
-    - **REGLA:** Solo UN archivo `GALERIA.md` por carpeta. NO crear archivos duplicados como `galeria_visual_*.md`.
-    - Formato mínimo para registro:
-        ```markdown
-        ### [Nombre/Descripción]
-        **Fecha:** [DD/MM/YYYY]
-        **Archivos:** [lista de archivos .png]
-        ```
+    - Asegurar que cada imagen esté en su carpeta correspondiente en `05_Imagenes/`.
+    // turbo
+    - Ejecutar el script de automatización: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`.
+    - Verificar que los archivos **GALERIA.md** de cada carpeta afectada hayan sido actualizados.
+    - **REGLA:** Solo UN archivo `GALERIA.md` por carpeta. El script maneja la consistencia y los carruseles.
 
 5.  **Actualizar READMEs del Proyecto**
     - Revisar y actualizar `README.md` principal si hay cambios estructurales significativos.
