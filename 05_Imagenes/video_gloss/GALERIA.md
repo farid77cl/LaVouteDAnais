@@ -1,6 +1,18 @@
 # Galería de Imágenes: video_gloss
 
-> **Total Imágenes:** 2
+> **Total Imágenes:** 4
+
+### Oh Polly: Rainbow Edit (Batch 1)
+**Fecha:** 25/01/2026
+**Archivos:**
+- `oh_polly_rainbow_pink_doll.png`
+- `oh_polly_rainbow_emerald_helena_sub.png`
+
+### Precious Metals: Gold & Silver (Batch 1)
+**Fecha:** 25/01/2026
+**Archivos:**
+- `precious_metals_liquid_gold_miss_doll.png`
+- `precious_metals_liquid_silver_helena_sub.png`
 
 ### lipstick_macro.png
 

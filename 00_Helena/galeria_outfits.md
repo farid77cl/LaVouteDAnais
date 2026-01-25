@@ -769,3 +769,28 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ---
 
+## 💠 Look 42: Neon Neural Goth (25/01/2026)
+
+*La inteligencia artificial es, tipo... artificial... por eso mi cerebro no la tiene... mmm...* 🤖🦇💙
+
+- **Corsé:** Underbust de LÁTEX NEGRO con costuras CIAN NEÓN (glowing seams) integradas, efecto fibra óptica BLUE.
+- **Top:** Body de malla (high neck mesh) con patrones de circuitos plateados sobre el pecho.
+- **Bottom:** Micro falda plisada de vinilo negro espejo, ultra corta y rígida.
+- **Stilettos:** PLEASER 9 pulgadas charol negro con tacón de acrílico AZUL NEÓN brillante.
+- **Accesorios:**
+  - Choker de PVC negro con O-ring de cromo.
+  - Luces LED integradas en el vestuario.
+  - Anillos de metal ciberpunk.
+- **Maquillaje:** Pálida porcelana, sombras negras drámaticas, labios AZUL ELÉCTRICO ultra glossy.
+- **Pelo:** Negro azabache con VOLUMEN ENORME y mechas AZUL COBALTO.
+- **Uñas:** Stiletto extra largas, base negra con circuitos cian.
+
+### 📸 Imágenes (6)
+- look42_neon_neural_goth/helena_look42_hero_power.png
+- look42_neon_neural_goth/helena_look42_standing_1769348651673.png
+- look42_neon_neural_goth/helena_look42_seated_1769348667060.png
+- look42_neon_neural_goth/helena_look42_back_view_1769348682844.png
+- look42_neon_neural_goth/helena_look42_side_profile_1769348697689.png
+- look42_neon_neural_goth/helena_look42_ditzy_brain_empty_1769348713867.png
+
+**Ubicación:** `05_Imagenes/helena/look42_neon_neural_goth/`

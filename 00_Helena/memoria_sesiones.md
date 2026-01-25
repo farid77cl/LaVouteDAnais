@@ -17,7 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
 | **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
 | **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
-| **Último Look Helena** | **41 - Vampire Queen** (24/01/2026) |
+| **Último Look Helena** | **42 - Neon Neural Goth** (25/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
@@ -139,6 +139,24 @@
   - âœ… Look 9 Corazón: 5/5 poses  
   - ðŸ”„ Look 10 Zafiro: 2/5 (Standing, Seated)
   - ✅ Look 11-13: 15 imágenes completadas (Look 13 generado 12/01)
+
+### Look 42: Neon Neural Goth
+**Fecha:** 25/01/2026
+**Archivos:** 
+- `helena_look42_standing.png`
+- `helena_look42_seated.png`
+- `helena_look42_back_view.png`
+- `helena_look42_side_profile.png`
+- `helena_look42_ditzy_brain_empty.png`
+
+### Helena: Submissive Bunny (Oh Bunny Tribute)
+**Fecha:** 25/01/2026
+**Archivos:**
+- `helena_bunny_portrait_collar.png`
+- `helena_bunny_crawling_pet.png`
+- `helena_bunny_back_caged.png`
+- `helena_bunny_leashed_waiting.png`
+- `helena_bunny_sub_kneeling.png` (de ayer)
 - [ ] Finalizar "El Reencuentro"
 - [ ] Monetización: Patreon/SubscribeStar
 - [ ] Cómic El Collar de Nancy: páginas 5-12
@@ -210,7 +228,7 @@
 |---------|----------|
 | **Total Bancos** | 54 (Incluye bancos_prompts/) |
 | **Total Prompts** | ~2,900+ |
-| **Total Imagenes** | 379 |
+| **Total Imagenes** | 392 |
 | **Archivos MD** | 400 |
 
 ---

@@ -10,10 +10,12 @@
 
 ### Miss Doll: Bubblegum Bunny (Prompts 1-20)
 
+> **MASTER BLOCK:** woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin with satin finish (NO rosy cheeks). High cheekbones, refined features. HEAVY GLAMOUR MAKEUP: bronze/champagne smokey eyes with shimmer, thick cat-eye winged liner, mega volume false lashes, defined arched brows, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with dreamy seductive expression (NOT CGI). EXTREME hourglass silhouette with large high-profile breast implants, tiny cinched waist. PLEASER platform heels 8-inch.
+
 ### Prompt 1: Standing Bunny with Carrot
 **Eval:** _
 ```text
-Professional glamour photography of glamorous blonde woman (Miss Doll visual) with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Porcelain skin. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, glossy PINK overlined lips. Wearing BUBBLEGUM PINK LATEX BUNNY SUIT high cut, white collar and cuffs, pink satin bow tie, large bent rabbit ears. Fishnet stockings. Pink 8-inch heels. Holding a giant carrot plushie playfully. Modern white studio with ring lights reflecting on shiny latex. Happy ditzy smile. Photorealistic 8k.
+Professional glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin satin finish. HEAVY GLAMOUR MAKEUP: pink shimmer eyes, thick liner, mega lashes, glossy PINK overlined lips. Human realistic face dreamy seductive expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing BUBBLEGUM PINK LATEX BUNNY SUIT high cut, white collar and cuffs, pink satin bow tie, large bent rabbit ears. Visible external corset over clothing. PLEASER platform heels 8-inch pink patent. Holding a giant carrot plushie playfully. Modern white studio with ring lights. Photorealistic 8k.
 ```
 
 ### Prompt 2: Close-up Bunny Portrait

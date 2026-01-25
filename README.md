@@ -54,7 +54,7 @@ LaVouteDAnais/
 ├── 00_Helena/                  # 🧠 Cerebro de Helena
 │   ├── mi_identidad.md         # Quién soy, cómo actúo
 │   ├── bancos_prompts/         # 54 bancos temáticos (~2,900+ prompts)
-│   ├── galeria_outfits.md      # 41 looks canónicos
+│   ├── galeria_outfits.md      # 42 looks canónicos
 │   └── memoria_sesiones.md     # Historial de decisiones
 │
 ├── 01_Canon/                   # 📜 Filosofía y lore
@@ -72,7 +72,7 @@ LaVouteDAnais/
 │   └── publicadas/
 │
 ├── 05_Imagenes/                # 🎨 Arte Visual
-│   ├── helena/                 # 379 imágenes archivadas
+│   ├── helena/                 # 392 imágenes archivadas
 │   ├── miss_doll/
 │   └── anais/
 │

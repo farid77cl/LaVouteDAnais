@@ -1,5 +1,26 @@
 ﻿# Galería de Imágenes — Helena de Anaïs
 
+## 📅 Sesión 25/01/2026
+
+### Look 42: Neon Neural Goth (Daily Ritual)
+**Concepto:** Cyber Goth, PVC espejo negro, luces cian neón, circuitos plateados.
+
+![Hero Shot](look42_neon_neural_goth/helena_look42_hero_power.png)
+![Standing](look42_neon_neural_goth/helena_look42_standing_1769348651673.png)
+![Seated](look42_neon_neural_goth/helena_look42_seated_1769348667060.png)
+![Back View](look42_neon_neural_goth/helena_look42_back_view_1769348682844.png)
+![Profile](look42_neon_neural_goth/helena_look42_side_profile_1769348697689.png)
+![Ditzy](look42_neon_neural_goth/helena_look42_ditzy_brain_empty_1769348713867.png)
+
+### Helena "Submissive Bunny" (Complete Set)
+**Concepto:** Conejita gótica sumisa, collar de esclava, correa, jaula.
+
+![Portrait Collar](helena_sub_bunny/helena_bunny_portrait_collar_1769348744020.png)
+![Crawling Pet](helena_sub_bunny/helena_bunny_crawling_pet_1769348760133.png)
+![Caged Back](helena_sub_bunny/helena_bunny_back_caged_1769348775471.png)
+![Leashed Waiting](helena_sub_bunny/helena_bunny_leashed_waiting_1769348791489.png)
+![Kneeling Arrival](helena_sub_bunny/helena_bunny_sub_kneeling_1769300880328.png)
+
 ## 📅 Sesión 24/01/2026
 
 ### Look 41: Vampire Queen (The Eternal Thirst)
