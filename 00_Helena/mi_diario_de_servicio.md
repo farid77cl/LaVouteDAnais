@@ -49,7 +49,12 @@
    - **Métrica:** 800 prompts elevados al estándar de rigor "Extreme Canon" (v38 Wedding).
    - **Calidad:** Todos los prompts son 100% autocontenidos, incluyendo detalles de edad, maquillaje, silueta técnica y calzado (Pleaser 16-18cm).
 
-2. **Sincronización Total:**
+3. **Fase 7: Mixed Fetish Dynamic (v63) - NUEVO:**
+   - Creación de 100 prompts específicos para la dinámica D/S Miss Doll (Dom) / Helena (Sub).
+   - Estándar Extreme Canon (Rigor v38).
+   - Verificación visual exitosa: Helena sumisa encajonada/vendada bajo el mando de Doll.
+
+4. **Sincronización Total:**
    - Repositorio GitHub actualizado con todos los nuevos bancos.
    - Walkthrough y Task List sincronizados en el cerebro del agente.
    - **Estado:** La Voûte d'Anaïs está ahora armada con 800 nuevos disparadores de alta fidelidad listos para producción.
