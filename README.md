@@ -72,7 +72,7 @@ LaVouteDAnais/
 │   └── publicadas/
 │
 ├── 05_Imagenes/                # 🎨 Arte Visual
-│   ├── helena/                 # 392 imágenes archivadas
+│   ├── helena/                 # 393 imágenes archivadas
 │   ├── miss_doll/
 │   └── anais/
 │

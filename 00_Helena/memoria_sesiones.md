@@ -228,7 +228,7 @@
 |---------|----------|
 | **Total Bancos** | 54 (Incluye bancos_prompts/) |
 | **Total Prompts** | ~2,900+ |
-| **Total Imagenes** | 392 |
+| **Total Imagenes** | 393 |
 | **Archivos MD** | 400 |
 
 ---

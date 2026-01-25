@@ -21,6 +21,11 @@
 ![Leashed Waiting](helena_sub_bunny/helena_bunny_leashed_waiting_1769348791489.png)
 ![Kneeling Arrival](helena_sub_bunny/helena_bunny_sub_kneeling_1769300880328.png)
 
+### Helena "Exotic Pole" (Dungeon Set - PARTIAL)
+**Concepto:** Dungeon gótico, pole industrial de acero, látex negro, stripper aesthetic.
+
+![Pole Spin](exotic_pole_stripper/helena_pole_spin_dungeon.png)
+
 ## 📅 Sesión 24/01/2026
 
 ### Look 41: Vampire Queen (The Eternal Thirst)
