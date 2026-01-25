@@ -1,5 +1,16 @@
 ﻿# Galería de Imágenes — Helena de Anaïs
 
+## 📅 Sesión 24/01/2026
+
+### Look 41: Vampire Queen (The Eternal Thirst)
+**Concepto:** Vampiresa real, corona gótica, copa de vino (sangre), castillo oscuro.
+
+![Standing](look41_vampire_queen/helena_look41_standing_1769294245944.png)
+![Seated](look41_vampire_queen/helena_look41_seated_1769294259874.png)
+![Back View](look41_vampire_queen/helena_look41_back_view_1769294288880.png)
+![Profile](look41_vampire_queen/helena_look41_side_profile_1769294304545.png)
+![Ditzy](look41_vampire_queen/helena_look41_ditzy_1769294318451.png)
+
 ## 📅 Sesión 23/01/2026
 
 ### Look 40: Baroque Gold Empress

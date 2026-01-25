@@ -17,7 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
 | **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
 | **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
-| **Último Look Helena** | **40 - Baroque Gold Empress** (23/01/2026) |
+| **Último Look Helena** | **41 - Vampire Queen** (24/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
@@ -196,7 +196,11 @@
 - **V32:** `banco_prompts_v32_party.md` — Party & Clubwear (50 prompts)
 - **V48:** `banco_prompts_v48_comic.md` — Comic & Graphic Novel (100 prompts) ✨ NUEVO
 - **V49:** `banco_prompts_v49_80s_fashion.md` — 80s Aesthetic (100 prompts) ✨ NUEVO
-- **V50:** `banco_prompts_v50_90s_fashion.md` — 90s Sensual (100 prompts) ✨ NUEVO
+- **V53:** `banco_prompts_v53_90s_sensual.md` — 90s Sensual (100 prompts) ✨ NUEVO
+- **V55:** `banco_prompts_v55_shiny_influencer.md` — Shiny & Bunny (100 prompts) ✨ NUEVO
+- **V56:** `banco_prompts_v56_eternal_loop.md` — Tease Loops & ASMR (100 prompts) ✨ NUEVO
+- **V57:** `banco_prompts_v57_precious_metals.md` — Gold/Silver/Metals (100 prompts) ✨ NUEVO
+- **V58:** `banco_prompts_v58_oh_polly_rainbow.md` — Oh Polly Color Freedom (100 prompts) ✨ NUEVO
 
 ---
 
@@ -204,10 +208,10 @@
 
 | Métrica | Cantidad |
 |---------|----------|
-| **Total Bancos** | 50 (Inlcuye bancos_prompts/) |
-| **Total Prompts** | ~2,500+ |
-| **Total Imagenes** | 374 |
-| **Archivos MD** | 396 |
+| **Total Bancos** | 54 (Incluye bancos_prompts/) |
+| **Total Prompts** | ~2,900+ |
+| **Total Imagenes** | 379 |
+| **Archivos MD** | 400 |
 
 ---
 

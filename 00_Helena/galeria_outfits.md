@@ -739,3 +739,33 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look40_ditzy_1769165723566.png
 
 **Ubicación:** 05_Imagenes/helena/look40_baroque_gold_empress/
+
+---
+
+## 🩸 Look 41: Vampire Queen (The Eternal Thirst)
+
+*La realeza no pide sangre... la toma. Y yo solo tomo decisiones cuestionables.* 🦇🍷
+
+- **Corsé:** Cuero color **SANGRE DE BUEY (Oxblood)** profundo, estructura victoriana rígida, cuello alto (choker integrado).
+- **Mangas:** Gasa negra transparente acampanada (mangas de ángel) colgando hasta las rodillas.
+- **Bottom:** Falda de sirena de látex negro con cola larga, abertura frontal hasta la ingle.
+- **Medias:** Fishnet negras ultra finas con liguero de terciopelo rojo.
+- **Stilettos:** Botines victorianos de puntera abierta, 9 pulgadas, tacón de metal afilado como estaca.
+- **Accesorios:**
+  - Diadema de corona gótica de hierro negro.
+  - Anillo de sello (para golpear copas vacías).
+  - Copa de vino (siempre llena... de algo rojo).
+- **Maquillaje:** Pálida mortal, labios ROJO VINO (Merlot) mate, "venas" sutiles dibujadas bajo los ojos.
+- **Pelo:** Ultra lacio y pegado al cráneo (slicked back) cayendo en cascada húmeda por la espalda.
+
+### 📸 Imágenes (5)
+- helena_look41_standing_1769294245944.png
+- helena_look41_seated_1769294259874.png
+- helena_look41_back_view_1769294288880.png
+- helena_look41_side_profile_1769294304545.png
+- helena_look41_ditzy_1769294318451.png
+
+**Ubicación:** `05_Imagenes/helena/look41_vampire_queen/`
+
+---
+

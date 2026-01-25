@@ -61,7 +61,7 @@
 | [V17](bancos_prompts/banco_prompts_v17_pov.md) | POV Submission | 100+ |
 | [V18](bancos_prompts/banco_prompts_v18_pole.md) | Pole Dance & Stripper | 50+ |
 
-### Temáticos (V19-V32)
+### Temáticos & Especializados (V19-V58)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
@@ -79,19 +79,16 @@
 | [V30](bancos_prompts/banco_prompts_v30_pool.md) | Pool & Beach | 50+ |
 | [V31](bancos_prompts/banco_prompts_v31_christmas.md) | Christmas | 50+ |
 | [V32](bancos_prompts/banco_prompts_v32_party.md) | Party | 50+ |
-
-### Nuevos (V33-V38) - Color Freedom
-
-| Banco | Tema | Prompts |
-|-------|------|---------|
-| [V33](bancos_prompts/banco_prompts_v33_sports.md) | Sports & Athletic | 50 |
-| [V34](bancos_prompts/banco_prompts_v34_lingerie.md) | Lingerie Exclusive | 50 |
-| [V35](bancos_prompts/banco_prompts_v35_retrofuturism.md) | Retro Futurism | 50 |
-| [V36](bancos_prompts/banco_prompts_v36_mobwife.md) | Mob Wife | 50 |
-| [V37](bancos_prompts/banco_prompts_v37_leather.md) | Leather Fetish | 50 |
-| [V38](bancos_prompts/banco_prompts_v38_wedding.md) | Wedding Night | 50 |
-
----
+| [V40](bancos_prompts/banco_prompts_v40_bunny.md) | Bunny & Rabbits | 100 |
+| [V41](bancos_prompts/banco_prompts_v41_vampire.md) | Vampire Glamour | 100 |
+| [V42](bancos_prompts/banco_prompts_v42_latex_fetish.md) | Latex Fetish | 100 |
+| [V48](bancos_prompts/banco_prompts_v48_comic.md) | Comic & Graphic Novel | 100 |
+| [V49](bancos_prompts/banco_prompts_v49_80s_fashion.md) | 80s Aesthetic | 100 |
+| [V50](bancos_prompts/banco_prompts_v50_90s_fashion.md) | 90s Sensual | 100 |
+| [V55](bancos_prompts/banco_prompts_v55_shiny_influencer.md) | Shiny & Bunny | 100 |
+| [V56](bancos_prompts/banco_prompts_v56_eternal_loop.md) | Tease Loops & ASMR | 100 |
+| [V57](bancos_prompts/banco_prompts_v57_precious_metals.md) | Gold/Silver/Metals | 100 |
+| [V58](bancos_prompts/banco_prompts_v58_oh_polly_rainbow.md) | Oh Polly Rainbow | 100 |
 
 ### Roles Especializados
 
@@ -99,6 +96,8 @@
 |---------|-----------|
 | [roles/helena_experta_vba.md](roles/helena_experta_vba.md) | Rol de experta en Excel/VBA |
 | [roles/helena_la_especialista.md](roles/helena_la_especialista.md) | Rol de especialista técnica |
+| [roles/nixie_maker.md](roles/nixie_maker.md) | Goth Bimbo Maker / Arduino ✨
+| [roles/raven.md](roles/raven.md) | Raven de Anaïs (Stripper Backstory) ✨
 
 ### Otros
 
@@ -111,12 +110,13 @@
 
 ## 📊 Estadísticas
 
-- **Total de archivos:** 50+
-- **Bancos de prompts:** 38
-- **Prompts disponibles:** ~2,800+
-- **Looks canónicos:** 25
+- **Total de archivos:** 400+
+- **Bancos de prompts:** 54
+- **Prompts disponibles:** ~2,900+
+- **Looks canónicos:** 41
+- **Imágenes archivadas:** 379
 
 ---
 
-*Última actualización: 2026-01-05*
+*Última actualización: 2026-01-24*
 🦇 Helena de Anaïs
