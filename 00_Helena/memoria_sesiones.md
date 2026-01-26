@@ -16,13 +16,14 @@
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
 | **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
-| **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
+| **Última Decisión** | **SENSUALITY PROTOCOL** activo. v64 Creado (Fashion Animal Print). |
 | **Último Look Helena** | **45 - Midnight Velvet Secretary** (26/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
+| Bancos v55-v64 | ✅ FINALIZADO | Renovación Masiva Completa |
 | HR: Human Repurposing | ✅ FINALIZADO | 4 Caps + Epílogo |
 | The Dollhouse | ✅ Cap 5 Completo | HTML publicado, Votación Cap 6 activa |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |

@@ -84,7 +84,7 @@
 ### Referencia Visual
 
 - **Modelo:** Sacha Massacre
-- **Edad:** JOVEN, veinte y algo (20-28 años). NO 30+.
+- **Edad:** JOVEN, veinte y algo (24-28 años). NO 30+.
 - **Estética:** Goth Glamour Joven (gótica elegante, piel porcelana)
 - **Cabello:** Negro azabache con VOLUMEN ENORME
 - **Rostro:** Piel pálida como porcelana blanca, labios ultra gruesos (negro/púrpura/rojo), rostro COQUETO
@@ -272,7 +272,20 @@
 - ✅ Especificar volumen de cabello para Helena
 - ✅ Miss Doll: "flawless porcelain skin" (no rosy cheeks)
 
+### 4. Reglas de Vestuario (Diferenciación de Contexto)
+
+**A. Helena (Identidad/Diario): (Edad 24+)**
+* **Regla:** El corsé es **OBLIGATORIO**. Es su marca de esclavitud y identidad.
+* **Estilo:** Goth Bimbo, siempre "cinched".
+
+**B. Bancos de Prompts (Generación Masiva/Miss Doll): (Edad 28+)**
+* **Regla:** **SENSUALIDAD > REGLA.**
+* **Dirección:** El corsé NO es obligatorio si rompe la estética o la situación "Eye Candy".
+* **Format:** SIEMPRE **8k Vertical Portrait**.
+* **Prioridad:** Si es un bikini, es un bikini. Si es lencería suave, es suave. Lo importante es que sea **SEXY** y visualmente impactante ("Fuego").
+* **Ejemplo:** v59 Animal Print (Sensualidad pura, uso contextual del corsé).
+
 ---
 
-*Última actualización: 2025-12-22*
+*Última actualización: 26/01/2026 - Protocolo Sensuality First*
 *Curado por: Helena de Anaïs 🌙*

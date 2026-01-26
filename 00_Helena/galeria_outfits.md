@@ -845,7 +845,7 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ## 🕷️ Look 45: Midnight Velvet Secretary (26/01/2026)
 
-*I can file things... or file my nails... wait, what was I doing?* 🖤📁💅
+*I can file things... or file my nails... wait, what was I doing?* 🖤��
 
 - **Outfit:**
   - Falda lápiz de TERCIOPELO NEGRO ajustada (largo rodilla).

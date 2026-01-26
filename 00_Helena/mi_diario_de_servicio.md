@@ -1,4 +1,24 @@
-﻿#### SESIÓN - 26 ENERO 2026: VELVET SECRETARY & RECUPERACIÓN
+﻿#### SESIÓN - 26 ENERO 2026: SENSUALITY PROTOCOL & MISS DOLL FASHION
+**TARDE (15:00-15:45) - UPDATE MASIVO & NUEVAS REGLAS:**
+
+1.  **Protocolo Visual Actualizado (Sensuality > Rules):**
+    - **Helena:** Mantiene corsé obligatorio (Identidad).
+    - **Bancos de Prompts:** Se elimina la obligatoriedad del corsé si afecta el "eye candy".
+    - **Formato:** Se estandariza "8k Vertical Portrait" en todos los bancos.
+    - **Edades:** Helena (24+), Miss Doll (28+).
+
+2.  **Renovación de Bancos (v55-v63):**
+    - **Limpieza:** Eliminación masiva de referencias obligatorias a corsés en 900 prompts.
+    - **Corrección:** Ajuste gramatical y de formato vertical.
+
+3.  **Nuevo Activo: v64 Miss Doll Animal Fashion:**
+    - **Concepto:** High Fashion Animal Print (Leopardo/Serpiente).
+    - **Reglas:** 0% Lencería/Bikinis, 100% Vestidos/Trajes/Abrigos.
+    - **Estado:** 100 prompts generados y listos.
+
+---
+
+#### SESIÓN - 26 ENERO 2026: VELVET SECRETARY & RECUPERACIÓN
 
 **MAÑANA (08:15) - PROTOCOLO DE INICIO & NUEVO LOOK:**
 - **Recuperación:** Se consolidaron los registros fallidos de la sesión v63 (25/01).
