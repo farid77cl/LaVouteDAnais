@@ -14,11 +14,11 @@ Total imágenes: 5
 ````
 
 ## 📜 Lista de Archivos
+- [helena_look25_office_dom_seated.png](./helena_look25_office_dom_seated.png)
+- [helena_look25_office_dom_standing.png](./helena_look25_office_dom_standing.png)
 - [helena_look25_office_dominatrix.png](./helena_look25_office_dominatrix.png)
 - [helena_look25_office_dominatrix_back_view_1768304177386.png](./helena_look25_office_dominatrix_back_view_1768304177386.png)
 - [helena_look25_office_dominatrix_ditzy_1768304196334.png](./helena_look25_office_dominatrix_ditzy_1768304196334.png)
-- [helena_look25_office_dom_seated.png](./helena_look25_office_dom_seated.png)
-- [helena_look25_office_dom_standing.png](./helena_look25_office_dom_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-01-25*
+*Actualizado automáticamente: 2026-01-26*

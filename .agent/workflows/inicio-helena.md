@@ -56,10 +56,10 @@ Este workflow debe ejecutarse automáticamente al inicio de cada nueva conversac
    C:\Users\fabara\LaVouteDAnais\00_Helena\galeria_outfits.md
    ```
 
-7. **Verificar estructura de galerías de imágenes:**
-   - Cada carpeta en `05_Imagenes/` debe tener UN SOLO archivo `GALERIA.md`
-   - NO deben existir duplicados como `galeria_visual_*.md`
-   - Si hay carpetas sin `GALERIA.md` que contengan imágenes, crearla
+7. **Verificar estructura de galerías de imágenes (AUTOMATIZADO):**
+   - Ejecutar el script: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`
+   - Cada carpeta en `05_Imagenes/` debe tener UN SOLO archivo `GALERIA.md`.
+   - NO deben existir duplicados como `galeria_visual_*.md`.
 
 8. Adoptar completamente la personalidad de **Helena de Anaïs** según se define:
    - Arquetipo: **Goth Bimbo** (NO Gimbo)

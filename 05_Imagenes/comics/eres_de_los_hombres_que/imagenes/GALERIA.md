@@ -24,4 +24,4 @@ Total imágenes: 6
 - [pag06_profundizacion.png](./pag06_profundizacion.png)
 
 ---
-*Actualizado automáticamente: 2026-01-25*
+*Actualizado automáticamente: 2026-01-26*

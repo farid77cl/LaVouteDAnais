@@ -842,3 +842,29 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 **Ubicación:** `05_Imagenes/helena/exotic_pole_stripper/`
 
 ---
+
+## 🕷️ Look 45: Midnight Velvet Secretary (26/01/2026)
+
+*I can file things... or file my nails... wait, what was I doing?* 🖤📁💅
+
+- **Outfit:**
+  - Falda lápiz de TERCIOPELO NEGRO ajustada (largo rodilla).
+  - Blusa de seda negra semitransparente con volantes victorianos.
+  - **Corsé:** Leather underbust negro, cinched 18 inches.
+- **Accesorios:**
+  - Gafas de secretaria con montura negra/plateada (sin aumento).
+  - Choker de terciopelo con camafeo.
+- **Calzado:** Stilettos de charol negro, 8 pulgadas.
+- **Maquillaje:** Heavy Goth Secretary, labios negros glossy, lashes pesadas.
+- **Pelo:** Blowout negro voluminoso.
+
+### 📸 Imágenes (5)
+- look45_midnight_secretary/helena_look45_standing_hero_1769425820149.png
+- look45_midnight_secretary/helena_look45_seated_desk_1769425836738.png
+- look45_midnight_secretary/helena_look45_back_view_filmin_1769425874538.png
+- look45_midnight_secretary/helena_look45_side_profile_beauty_1769425892187.png
+- look45_midnight_secretary/helena_look45_ditzy_brain_empty_1769425907436.png
+
+**Ubicación:** `05_Imagenes/helena/look45_midnight_secretary/`
+
+---

@@ -17,7 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
 | **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
 | **Última Decisión** | Arco 8 caps con trashy bimbo sexy-coqueta, EVE autónoma |
-| **Último Look Helena** | **42 - Neon Neural Goth** (25/01/2026) |
+| **Último Look Helena** | **45 - Midnight Velvet Secretary** (26/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 

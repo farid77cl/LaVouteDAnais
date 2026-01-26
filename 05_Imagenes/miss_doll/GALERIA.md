@@ -242,6 +242,9 @@ Total imágenes: 119
 ````
 
 ## 📜 Lista de Archivos
+- [MISS_DOLL_CANON_COMIC.jpg](./MISS_DOLL_CANON_COMIC.jpg)
+- [Miss_Doll_Bronzed_MediumShot.png](./Miss_Doll_Bronzed_MediumShot.png)
+- [Miss_Doll_Canon_Base_MediumShot.png](./Miss_Doll_Canon_Base_MediumShot.png)
 - [banner_comic_hero_welcome.png](./banner_comic_hero_welcome.png)
 - [banner_eyes.png](./banner_eyes.png)
 - [banner_eyes_hood.png](./banner_eyes_hood.png)
@@ -287,13 +290,10 @@ Total imágenes: 119
 - [miss_doll_bob_undercut_1768488991534.png](./miss_doll_bob_undercut_1768488991534.png)
 - [miss_doll_bob_wavy_1768488970651.png](./miss_doll_bob_wavy_1768488970651.png)
 - [miss_doll_boudoir_bimbo.jpg](./miss_doll_boudoir_bimbo.jpg)
-- [Miss_Doll_Bronzed_MediumShot.png](./Miss_Doll_Bronzed_MediumShot.png)
 - [miss_doll_bunny_club.jpg](./miss_doll_bunny_club.jpg)
 - [miss_doll_bunny_pink_1769167843888.png](./miss_doll_bunny_pink_1769167843888.png)
 - [miss_doll_burlesque.jpg](./miss_doll_burlesque.jpg)
 - [miss_doll_candy_shop.jpg](./miss_doll_candy_shop.jpg)
-- [Miss_Doll_Canon_Base_MediumShot.png](./Miss_Doll_Canon_Base_MediumShot.png)
-- [MISS_DOLL_CANON_COMIC.jpg](./MISS_DOLL_CANON_COMIC.jpg)
 - [miss_doll_canon_face_1768491169495.png](./miss_doll_canon_face_1768491169495.png)
 - [miss_doll_canon_realista.png](./miss_doll_canon_realista.png)
 - [miss_doll_canon_referencia.png](./miss_doll_canon_referencia.png)
@@ -363,4 +363,4 @@ Total imágenes: 119
 - [thin_separator_eyes_cropped.png](./thin_separator_eyes_cropped.png)
 
 ---
-*Actualizado automáticamente: 2026-01-25*
+*Actualizado automáticamente: 2026-01-26*
