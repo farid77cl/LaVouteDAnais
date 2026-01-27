@@ -224,6 +224,10 @@
 - **V59:** `banco_prompts_v59_animal_print.md` — Animal Print High Rigor (100 prompts) ✨ NUEVO
 - **V60:** `banco_prompts_v60_bikini_lingerie_metals.md` — Bikini & Metals (100 prompts) ✨ NUEVO
 - **V61:** `banco_prompts_v61_corporate_plastic.md` — Corporate Plastic (100 prompts) ✨ NUEVO
+- **V64:** `banco_prompts_v64_miss_doll_animal_fashion.md` — Animal Fashion (100 prompts) ✨ NUEVO
+- **V65:** `banco_prompts_v65_miss_doll_animal_lingerie.md` — Animal Lingerie (100 prompts) ✨ NUEVO
+- **V66:** `banco_prompts_v66_90s_nostalgia.md` — 90s Pop Culture (100 prompts) ✨ NUEVO
+- **V67:** `banco_prompts_v67_red_carpet_paparazzi.md` — Red Carpet Fix (100 prompts) ✅ REPARADO
 
 ---
 

@@ -570,6 +570,8 @@ Professional High-Detail Masterpiece Glamour DUO photography. MISS DOLL (28+) an
 
 ---
 
+---
+
 ## III. NOTAS Y VARIACIONES
 
 - **Fondo Sugerido:** Studio lighting, Club neon, Luxury interior.

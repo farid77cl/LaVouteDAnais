@@ -98,6 +98,8 @@ Professional glamour photography of powerful aristocratic WOMAN in her 40s with 
 
 ---
 
+---
+
 ## III. NOTAS Y VARIACIONES
 
 - **Fondo Sugerido:** Studio lighting, Club neon, Luxury interior.

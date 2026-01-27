@@ -570,6 +570,8 @@ Professional High-Detail MASTERPIECE photography. MISS DOLL (28+, Platinum) and 
 
 ---
 
+---
+
 ## III. NOTAS Y VARIACIONES
 
 - **Fondo Sugerido:** Studio lighting, Club neon, Luxury interior.

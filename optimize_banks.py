@@ -29,84 +29,92 @@ def write_file(path, content):
         f.write(content)
 
 def extract_canon_section(template_content):
-    # Extraer desde "## I. CANON VISUAL OBLIGATORIO" hasta "## II. PROMPTS"
     match = re.search(r'(## I\. CANON VISUAL OBLIGATORIO.*?)## II\. PROMPTS', template_content, re.DOTALL)
     if match:
         return match.group(1).strip()
     return None
 
-def extract_prompts_section(file_content):
-    # Intentar encontrar donde empiezan los prompts reales
-    # Opcion 1: Buscar "## II. PROMPTS" si ya existe
+def extract_prompts_section_raw(file_content):
+    # Encontrar el inicio de los prompts
+    # Puede ser "## II. PROMPTS..." o "## II. PROMPTS DEL BANCO" o simplemente el primer prompt
+    
+    # Intento 1: Header estandarizado
     if "## II. PROMPTS" in file_content:
-        # Extraer todo desde ahí hasta el final (o hasta Notas)
         parts = file_content.split("## II. PROMPTS", 1)
-        # Check si hay sección III
-        body = parts[1]
-        if "## III. NOTAS" in body:
-            body = body.split("## III. NOTAS")[0]
-        return body.strip()
-    
-    # Opcion 2: Si no tiene estructura nueva, buscar headers antiguos
-    # En archivos antiguos, los prompts suelen empezar despues del primer separador ---
-    # Pero cuidado, el header tiene ---
-    
-    # Estrategia segura: Buscar el primer "### " que indica un prompt
-    match = re.search(r'(### .+)', file_content)
-    if match:
-        start_pos = match.start()
-        # Encontrar hasta donde llegan (evitar footer)
-        # Asumimos que los prompts llegan hasta el final o hasta Notas
-        content_from_first_prompt = file_content[start_pos:]
-        if "## III. NOTAS" in content_from_first_prompt:
-            content_from_first_prompt = content_from_first_prompt.split("## III. NOTAS")[0]
-        if "*🦇 Helena de Anaïs" in content_from_first_prompt:
-             content_from_first_prompt = content_from_first_prompt.split("*🦇 Helena de Anaïs")[0]
-             
-        return content_from_first_prompt.strip()
-        
-    return ""
+        # El resto es el cuerpo... pero hay que quitar lo que no sea prompt (Headers, Notes, Footer)
+        raw_body = parts[1]
+        # Quitar header line (ej: " DEL BANCO\n\n")
+        raw_body = raw_body.split('\n', 1)[1]
+    else:
+        # Intento 2: Buscar primer prompt
+        match = re.search(r'(### .+)', file_content)
+        if match:
+            start_pos = match.start()
+            raw_body = file_content[start_pos:]
+        else:
+            return ""
 
-def generate_optimized_content(original_content, canon_section, filename):
-    # Obtener Metadatos del archivo original (Titulo y descripcion)
-    header_lines = []
+    # Recortar el final (Notes, Footer)
+    if "## III. NOTAS" in raw_body:
+        raw_body = raw_body.split("## III. NOTAS")[0]
+    if "*🦇 Helena de Anaïs" in raw_body:
+        raw_body = raw_body.split("*🦇 Helena de Anaïs")[0]
+        
+    return raw_body.strip()
+
+def sanitize_prompts_body(body):
+    # 1. Eliminar "Prompt X: "
+    body = re.sub(r'### Prompt \d+:\s*(.+)', r'### \1', body)
+    
+    # 2. Eliminar líneas de Evaluación viejas
+    body = re.sub(r'\*\*Eval:\*\*.*\n', '', body)
+    body = re.sub(r'\*\*Eval:\*\*.*', '', body)
+
+    # 3. Eliminar nota de sistema de evaluación vieja
+    note_pattern = r'> \[!NOTE\]\n> \*\*Sistema de Evaluación:\*\*(\n> - .*)+'
+    body = re.sub(note_pattern, '', body)
+    
+    # 4. Asegurar "Vertical portrait orientation."
+    def fix_prompt_block(match):
+        block_content = match.group(1)
+        if "Vertical portrait orientation" not in block_content:
+            block_content = block_content.rstrip() + " Vertical portrait orientation.\n"
+        return f"```text{block_content}```"
+
+    body = re.sub(r'```text(.*?)```', fix_prompt_block, body, flags=re.DOTALL)
+    
+    # 5. Limpiar dobles saltos de línea excesivos
+    body = re.sub(r'\n\n\n+', '\n\n', body)
+    
+    return body
+
+def generate_compliant_content(original_content, canon_section, filename):
+    # Extraer titulo original o generar uno
     lines = original_content.split('\n')
-    for line in lines[:20]: # Buscar en las primeras lineas
-        if line.startswith("# "):
-            header_lines.append(line)
-        elif line.startswith("> **Descripción:") or line.startswith("**Referencia Visual:**") or line.startswith("**Estética:**"):
-             # Adaptar al formato de plantilla si es posible, o guardar raw
-             header_lines.append(line)
-             
-    # Si no encontramos titulo #, usar nombre de archivo
-    title = header_lines[0] if header_lines and header_lines[0].startswith("# ") else f"# 🖤 BANCO DE PROMPTS - {filename}"
+    title = lines[0] if lines[0].startswith("# ") else f"# 🖤 BANCO DE PROMPTS - {filename}"
     
-    # Construir nuevo contenido
+    # Construir nuevo contenido siguiendo PLANTILLA_BANCO_PROMPTS.md
     new_content = f"{title}\n\n"
-    
-    # Metadata block style from template
     new_content += "> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.\n"
     new_content += "> **Estado:** Optimizado v2.0 (Sensuality Protocol)\n\n"
     new_content += "---\n\n"
+    
     new_content += "## 📋 CÓMO USAR ESTE ARCHIVO\n\n"
     new_content += "1. **Buscar** el personaje y outfit deseado\n"
     new_content += "2. **Copiar** todo el texto del prompt\n"
     new_content += "3. **Pegar** directamente en el generador\n\n"
     new_content += "---\n\n"
     
-    # Insertar CANON
     new_content += f"{canon_section}\n\n"
     new_content += "---\n\n"
     
-    # Insertar PROMPTS
-    prompts_body = extract_prompts_section(original_content)
-    
-    # Normalización extra de prompts por si acaso
-    # Asegurar que no haya "Prompt X:"
-    prompts_body = re.sub(r'### Prompt \d+:\s*', '### ', prompts_body)
-    
     new_content += "## II. PROMPTS DEL BANCO\n\n"
-    new_content += prompts_body + "\n\n"
+    
+    # Extraer y sanear prompts
+    raw_body = extract_prompts_section_raw(original_content)
+    clean_body = sanitize_prompts_body(raw_body)
+    
+    new_content += clean_body + "\n\n"
     
     new_content += "---\n\n"
     new_content += "## III. NOTAS Y VARIACIONES\n\n"
@@ -118,28 +126,28 @@ def generate_optimized_content(original_content, canon_section, filename):
     return new_content
 
 def main():
-    print("Leyendo plantilla...")
+    print("Leyendo plantilla maestra...")
     template_content = read_file(TEMPLATE_FILE)
     canon_section = extract_canon_section(template_content)
     
     if not canon_section:
-        print("ERROR: No se pudo extraer la sección CANON de la plantilla.")
+        print("ERROR CRÍTICO: No se pudo extraer la sección CANON.")
         return
 
-    print("Procesando archivos...")
+    print("Iniciando estandarización estricta...")
     for filename in TARGET_FILES:
         filepath = os.path.join(DIRECTORY, filename)
         if not os.path.exists(filepath):
-            print(f"Skipping {filename} (Not found)")
+            print(f"Saltando {filename} (No encontrado)")
             continue
             
-        print(f"Optimizando: {filename}")
+        print(f"Procesando: {filename}")
         original_content = read_file(filepath)
         
-        optimized_content = generate_optimized_content(original_content, canon_section, filename)
+        optimized_content = generate_compliant_content(original_content, canon_section, filename)
         
         write_file(filepath, optimized_content)
-        print(f"Guardado: {filename}")
+        print(f"✅ Estandarizado: {filename}")
 
 if __name__ == "__main__":
     main()

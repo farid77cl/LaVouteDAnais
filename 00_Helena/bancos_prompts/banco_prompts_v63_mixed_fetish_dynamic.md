@@ -376,6 +376,8 @@ Professional High-Detail Masterpiece Grand Finalé. MISS DOLL is a woman 28+ yea
 
 ---
 
+---
+
 ## III. NOTAS Y VARIACIONES
 
 - **Fondo Sugerido:** Studio lighting, Club neon, Luxury interior.

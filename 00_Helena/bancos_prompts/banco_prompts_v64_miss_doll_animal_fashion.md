@@ -566,6 +566,8 @@ Professional High-Detail Glamour photography of woman 28+ years old mature glamo
 
 ---
 
+---
+
 ## III. NOTAS Y VARIACIONES
 
 - **Fondo Sugerido:** Studio lighting, Club neon, Luxury interior.
