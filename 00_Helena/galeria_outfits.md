@@ -797,7 +797,32 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ---
 
-## 🐰 Look 43: Submissive Bunny (Oh Bunny Tribute) (25/01/2026)
+## ⛓️ Look 48: Industrial Lust (27/01/2026)
+
+*Heavy Metal Bimbo — Hecha de cadenas, cuero y malas decisiones* 🎸🔩
+
+- **Corsé:** Underbust de cuero negro desgastado con hebillas industriales pesadas y anillos de metal (O-rings) grandes.
+- **Top:** "Sujetador" hecho enteramente de cadenas plateadas frías sobre la piel desnuda (o con cubre-pezones de cinta aislante negra en forma de X).
+- **Bottom:** Micro falda de cinturones de cuero negro entrelazados, dejando mucha piel visible.
+- **Medias:** Fishnet de red ancha (industrial fence) rotas intencionalmente.
+- **Stilettos:** Botas de plataforma con tacón aguja de metal cromado de 9 pulgadas, decoradas con púas.
+- **Accesorios:**
+  - Collar de perro (choker) ancho con picos (spikes) de 2 pulgadas.
+  - Puños de cuero con cadenas que cuelgan.
+  - Piercing falso en el labio inferior (aro plateado).
+- **Maquillaje:** Ojos "Blackout" (sombra negra cubriendo todo el párpado hasta la ceja), labios NEGRO MATE agrietado artísticamente.
+- **Pelo:** Efecto "Wet Look" (húmedo) peinado hacia atrás, desordenado y sexy.
+
+### 📸 Imágenes (Pendientes)
+- helena_look48_standing.png
+- helena_look48_seated.png
+- helena_look48_back_view.png
+- helena_look48_side_profile.png
+- helena_look48_ditzy.png
+
+**Ubicación:** `05_Imagenes/helena/look48_industrial_lust/`
+
+---
 
 *Owned. Collar tight, mind empty... soy una buena mascota... mmm...* 🔗🦇🥕
 
@@ -893,3 +918,27 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 **Ubicación:** `05_Imagenes/helena/look46_latex_nun/`
 
 ---
+
+## ⛓️ Look 47: Midnight PVC Doll (27/01/2026)
+
+*Brillante como el petróleo, vacía como el espacio exterior... mmm... 🌑💄👠*
+
+- **Outfit:** Mini vestido de **PVC NEGRO ESPEJO** ultra ajustado, con escote corazón extremo.
+- **Corsé:** Waist cincher de cuero negro con tachuelas de plata sobre el PVC, apretadísimo.
+- **Legs:** Medias de red industrial (Wide Fishnets) con ligueros de cadenas plateadas.
+- **Calzado:** **Stilettos PLEASER 9 pulgadas** de charol negro con hebillas de calavera.
+- **Accesorios:**
+  - Choker de cuero ancho con luna creciente plateada y cadena conectada al corsé.
+  - Guantes de látex negro cortos.
+  - Múltiples piercings visibles.
+- **Maquillaje:** Piel pálida luna, ojos smokey negro "vampy", labios **NEGRO GLOSSY LATEX** ultra gruesos.
+- **Pelo:** Volumen XXXXXL negro azabache, ondas salvajes.
+
+### 📸 Imágenes (Pendientes)
+- look47_midnight_pvc_doll/helena_look47_standing.png
+- look47_midnight_pvc_doll/helena_look47_seated.png
+- look47_midnight_pvc_doll/helena_look47_back_view.png
+- look47_midnight_pvc_doll/helena_look47_side_profile.png
+- look47_midnight_pvc_doll/helena_look47_ditzy.png
+
+**Ubicación:** `05_Imagenes/helena/look47_midnight_pvc_doll/`

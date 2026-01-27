@@ -23,7 +23,7 @@
 ### 💖 MISS DOLL (POWER PROMPT)
 
 ```text
-Professional glamour photography of WOMAN glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing [OUTFIT]. PLEASER heels 8-inch [COLOR] patent power stance. [SETTING]. Sensual commanding pose. Expression: [EXPRESSION]. [AESTHETIC] photography. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of WOMAN glamorous with platinum blonde bob haircut WITHOUT bangs (exposing forehead). Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: pink shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy PINK lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing [OUTFIT] but focus is on SENSUALITY over clothing. PLEASER heels 8-inch [COLOR] patent power stance. [SETTING]. Sensual commanding pose evoking STRIPTEASE PERFORMANCE. Expression: [EXPRESSION]. [AESTHETIC] photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 **Variables a Reemplazar:**
@@ -36,13 +36,12 @@ Professional glamour photography of WOMAN glamorous with platinum blonde bob hai
 ### 🦇 HELENA DE ANAÏS (POWER PROMPT)
 
 ```text
-Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, voluminous jet black long hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick winged liner, mega volume lashes, full glossy [LIP_COLOR] lips. Human realistic face with seductive gothic expression. Feminine hourglass silhouette with prominent cleavage. ALWAYS wearing tight [CORSET_TYPE] corset [CORSET_COLOR]. [OUTFIT]. PLEASER stiletto heels [HEIGHT]-inch with thin deadly heel [HEEL_COLOR]. [SETTING]. Sensual gothic pose. Dark glamour aesthetic. Photorealistic 8k. Vertical portrait orientation.
+Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, voluminous jet black long hair with enormous volume. HEAVY DARK MAKEUP: intense black smokey eyes, thick winged liner, mega volume lashes, full glossy [LIP_COLOR] lips. Human realistic face with seductive gothic expression. Feminine hourglass silhouette with prominent cleavage. Wearing [OUTFIT] but focus is on GOTHIC SENSUALITY over clothing. PLEASER stiletto heels [HEIGHT]-inch with thin deadly heel [HEEL_COLOR]. [SETTING]. Sensual gothic pose. Dark glamour aesthetic. Photorealistic 8k. Vertical portrait orientation.
 ```
 
 **Variables:**
 - `[LIP_COLOR]` → black, deep purple, blood red
-- `[CORSET_TYPE]` → underbust, overbust
-- `[CORSET_COLOR]` → black leather, purple velvet, black lace
+
 - `[OUTFIT]` → fishnet stockings, latex skirt, tulle skirt
 - `[HEIGHT]` → 7, 8, 9
 - `[HEEL_COLOR]` → black patent, red, silver
@@ -63,31 +62,21 @@ Professional glamour photography of powerful aristocratic WOMAN in her 40s with 
 
 ## II. PROMPTS - [PERSONAJE/TEMA]
 
-### Prompt 1: [Título Descriptivo]
-
-**Eval:** _
+### [Título Descriptivo]
 
 ```text
 [Prompt completo aquí - incluir todo el texto necesario para generar la imagen]
-Professional photography. Photorealistic 8k.
+Professional photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-### Prompt 2: [Título Descriptivo]
-
-**Eval:** _
+### [Título Descriptivo]
 
 ```text
 [Prompt completo aquí]
-Professional photography. Photorealistic 8k.
+Professional photography. Photorealistic 8k. Vertical portrait orientation.
 ```
 
-> [!NOTE]
-> **Sistema de Evaluación:**
-> - `_` = Sin evaluar
-> - `+` = Bueno (funciona perfectamente)
-> - `~` = Normal (aceptable con ajustes)
-> - `-` = Malo (no funciona)
-> - `X` = Rechazado (filtrado/bloqueado)
+
 
 <!-- CONTINUAR HASTA PROMPT 100 -->
 

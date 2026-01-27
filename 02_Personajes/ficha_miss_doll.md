@@ -24,7 +24,7 @@
 #### Prompt Definitivo para IA (usar SIEMPRE)
 
 ```
-Estilo cómic romance años 60, textura halftone puntos Ben-Day. Miss Doll: mujer con apariencia de muñeca viviente. Cabello bob rubio platino voluminoso con flequillo recto. Ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados. Cejas altas arqueadas. Labios forma de corazón color rosa/nude brillante. Expresión coqueta y seductora. Piel rosada artificial sin poros, textura plástica. Figura de reloj de arena: busto grande y redondeado, cintura muy estrecha, caderas curvilíneas. Vistiendo catsuit rosa flúor látex brillante ajustado que cubre todo el cuerpo (escote en V), choker rosa. Tacones plataforma rosa altísimos. Pose elegante y sensual. Fondo con textura halftone rosa pastel y crema. Líneas negras limpias estilo cómic vintage. Paleta monocromo rosa.
+Estilo cómic romance años 60, textura halftone puntos Ben-Day. Miss Doll: mujer con apariencia de muñeca viviente. Cabello bob rubio platino voluminoso con flequillo recto. Ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados. Cejas altas arqueadas. Labios forma de corazón color rosa/nude brillante. Expresión coqueta y seductora. Piel rosada artificial sin poros, textura plástica. Figura de reloj de arena: busto grande y redondeado, cintura muy estrecha, caderas curvilíneas. Vistiendo catsuit rosa flúor látex brillante ajustado que cubre todo el cuerpo (escote en V), choker rosa. SENSUALIDAD EXTREMA sobre la ropa, actitud de STRIPPER en cada gesto. Tacones plataforma rosa altísimos. Pose elegante y provocativa. Fondo con textura halftone rosa pastel y crema. Líneas negras limpias estilo cómic vintage. Paleta monocromo rosa.
 ```
 
 #### Tabla de Referencia Visual
@@ -240,6 +240,13 @@ Miss Doll domina los principios del Exotic Pole Dance, donde el rostro y la acti
 - **Perfección plástica:** Cada gesto refuerza la ilusión de ser una muñeca que cobró vida.
 
 > *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
+
+#### 3.5. El Fantasma del Club
+Miss Doll fue una estrella del circuito underground de striptease, y **nunca ha bajado del escenario**.
+- **Permanent Performance:** Camina, se sienta y respira como si estuviera a mitad de un baile privado de alto nivel.
+- **Micro-movimientos:** Arquea la espalda al alcanzar un objeto, cruza las piernas con lentitud hipnótica, se muerde el labio inferior al pensar.
+- **Ropa como Accesorio:** La ropa no la cubre, la *decora*. Su actitud sugiere que está a punto de quitárselo todo, incluso cuando está vestida.
+- **Mirada de Stripper:** Mantiene contacto visual intenso mientras realiza acciones mundanas, convirtiendo todo en un show erótico.
 
 #### 💋 Guía de Expresiones para Prompts de IA
 

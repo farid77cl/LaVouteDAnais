@@ -17,7 +17,7 @@
 | **Fase del Ritual** | ✅ FASE 3 PARCIAL (Correcting Chapters 1-3 v3.0) |
 | **Capítulo en Progreso** | Capítulo 4 (Pendiente) |
 | **Última Decisión** | **STRICT LORE v2.1** (Conditioning & Class Downfall) |
-| **Último Look Helena** | **46 - Latex Nun** (27/01/2026) |
+| **Último Look Helena** | **48 - Industrial Lust** (27/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
@@ -140,6 +140,7 @@
   - âœ… Look 9 Corazón: 5/5 poses  
   - ðŸ”„ Look 10 Zafiro: 2/5 (Standing, Seated)
   - ✅ Look 11-13: 15 imágenes completadas (Look 13 generado 12/01)
+  - ✅ **Miss Doll Stripper Series:** 10 Imágenes (No Corset/High Fetish) - 27/01/2026
 
 ### Look 42: Neon Neural Goth
 **Fecha:** 25/01/2026
