@@ -868,3 +868,28 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 **Ubicación:** `05_Imagenes/helena/look45_midnight_secretary/`
 
 ---
+
+## 🖤 Look 46: Latex Nun (Sinful Devotion) (27/01/2026)
+
+*Forgive me Mother, for I have been... ditzy. Fishnets for extra sin.* ✝️💄
+
+- **Outfit:** Hábito de monja de LÁTEX NEGRO "Wet Look", corte obscenamente alto en las caderas.
+- **Corsé:** Underbust de cuero negro SIEMPRE encima del hábito, apretado al máximo.
+- **Legs:** **MEDIAS DE RED (Fishnets)** negras de rombo medio, con ligueros visibles si el corte lo permite.
+- **Calzado:** Pleaser "Sinner" de 9 pulgadas charol negro con crucifijos.
+- **Accesorios:**
+  - Velo de monja de PVC negro.
+  - Rosario negro pesado usado como collar.
+- **Maquillaje:** Labios Rojo Sacrificio ultra glossy, smokey eye sacrílego.
+- **Pelo:** Volumen negro masivo.
+
+### 📸 Imágenes (5)
+- look46_latex_nun/helena_look46_standing.png
+- look46_latex_nun/helena_look46_seated.png
+- look46_latex_nun/helena_look46_back_view.png
+- look46_latex_nun/helena_look46_side_profile.png
+- look46_latex_nun/helena_look46_ditzy.png
+
+**Ubicación:** `05_Imagenes/helena/look46_latex_nun/`
+
+---

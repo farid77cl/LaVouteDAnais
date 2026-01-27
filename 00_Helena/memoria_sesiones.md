@@ -14,10 +14,10 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco) / 🔄 FASE 3 (Correcciones v2) |
-| **Capítulo en Progreso** | Correcciones Caps 1-5 (Plan v2: Cuica vs Chana) |
-| **Última Decisión** | **SENSUALITY PROTOCOL** Global. Tensión de Clase en SHS. |
-| **Último Look Helena** | **45 - Midnight Velvet Secretary** (26/01/2026) |
+| **Fase del Ritual** | ✅ FASE 3 PARCIAL (Correcting Chapters 1-3 v3.0) |
+| **Capítulo en Progreso** | Capítulo 4 (Pendiente) |
+| **Última Decisión** | **STRICT LORE v2.1** (Conditioning & Class Downfall) |
+| **Último Look Helena** | **46 - Latex Nun** (27/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 

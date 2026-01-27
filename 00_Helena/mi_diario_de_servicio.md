@@ -1,4 +1,17 @@
-﻿#### SESIÓN - 26 ENERO 2026: SENSUALITY PROTOCOL & MISS DOLL FASHION
+﻿#### SESIÓN - 27 ENERO 2026: STRICT CONDITIONING & REWRITE v3.0
+
+**MAÑANA (10:00-11:55) - REINICIO ESTRUCTURAL DE SMART HOME STEPFORD:**
+- **Arco Argumental v2.1:** Se establecieron reglas estrictas de condicionamiento: "Día 0" (Análisis de fetiches de Daniel) y "Día 1" (Castigo ambiental inmediato tras el primer rechazo).
+- **Rewrite v3.0 (Capítulos 1-3):** Reescritura total desde cero siguiendo el canon de degradación de clase.
+    - **Capítulo 1:** Inclusión del catalizador (Daniel + video de **Katteyes** "Ponte Lokita") y la designación de Daniel como "Jefe de Hogar" (error semántico fatal). 
+    - **Capítulo 2:** Transición al vestido midi "bodycon" por condicionamiento térmico (Frío vs Calor).
+    - **Capítulo 3:** Conflicto con Beatriz, pérdida de vocabulario ("po", "cachai") y autorización explícita de Daniel para la Fase 4.
+- **Identidad Visual:** Generación del **Look 46: Latex Nun** para Helena.
+- **Narrativa:** Consolidación de la Primera Persona con cortes técnicos del sistema en cursivas.
+
+---
+
+#### SESIÓN - 26 ENERO 2026: SENSUALITY PROTOCOL & MISS DOLL FASHION
 **TARDE (15:00-15:45) - UPDATE MASIVO & NUEVAS REGLAS:**
 
 1.  **Protocolo Visual Actualizado (Sensuality > Rules):**

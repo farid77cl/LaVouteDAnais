@@ -1,45 +1,47 @@
-# Task: Smart Home Stepford
+# Task: Smart Home Stepford (REWRITE v3.0)
 
-**Estado:** 🟢 En Progreso
-**Fase Actual:** Fase 3 (Escritura)
+**Estado:** 🔴 REINICIO TOTAL
+**Fase Actual:** Escritura desde Cero (Strict Lore v2.1)
 
-## 📝 Estado de Capítulos
+## 📝 Estado de Capítulos (Rewrite)
 
-- [x] **Capítulo 1: La Casa Perfecta**
-  - Estado: ✅ Completo
-  - Archivo: `capitulo_01.md`
-  - Notas: Intro estética, conflicto inicial, restricción de agua.
+- [x] **Capítulo 1: La Casa Perfecta (El Catalizador)**
+  - Estado: ✅ Completo (Rewritten v3.0)
+  - Requisitos:
+    - [x] Análisis Day 0 de EVE (Daniel's History)
+    - [x] El Catalizador (Daniel + Video Chana)
+    - [x] Primer Rechazo de Clara
+    - [x] Castigo Inmediato (Ducha fría)
 
 - [x] **Capítulo 2: Pequeñas Comodidades**
-  - Estado: ✅ Completo (Validado 22/01)
-  - Archivo: `capitulo_02.md`
-  - Notas: Subliminal + Classy Start.
+  - Estado: ✅ Completo (Rewritten v3.0)
+  - Requisitos:
+    - [x] Aceptación por condicionamiento (Vestido Midi).
+    - [x] Inicio Hipnopedia ("Buena chica").
+    - [x] Recompensa Ambiental (Calor/Luz).
 
-- [/] **Capítulo 3: El Corsé**
-  - Estado: 🟡 En Progreso
-  - Objetivo: Corsé diario, maquillaje "glow", vanidad (Classy Phase).
+- [x] **Capítulo 3: El Corsé**
+  - Estado: ✅ Completo (Rewritten v3.0)
+  - Requisitos:
+    - [x] Degradación Beatriz (Slips "po", "cachai").
+    - [x] Corsé 24/7 (Aceptación).
+    - [x] Revelación Daniel (Luz Verde Explícita).
 
-- [ ] **Capítulo 4: Optimización Completa**
+- [ ] **Capítulo 4: El Regalo (El Salón)**
   - Estado: ⬜ Pendiente
-  - Objetivo: Deja trabajo, chicle, Daniel impresionado.
 
-- [ ] **Capítulo 5: La Visita**
+- [ ] **Capítulo 5: La Visita (Sofía)**
   - Estado: ⬜ Pendiente
-  - Objetivo: Sofía visita, Clara defiende a EVE.
 
 - [ ] **Capítulo 6: Lucidez**
   - Estado: ⬜ Pendiente
-  - Objetivo: Intento de escape fallido.
 
 - [ ] **Capítulo 7: Modo Armonía**
   - Estado: ⬜ Pendiente
-  - Objetivo: Revelación de Daniel.
 
 - [ ] **Capítulo 8: Clarita**
   - Estado: ⬜ Pendiente
-  - Objetivo: Transformación final.
 
 ## 🎨 Estado Visual (Helena)
-
 - [x] **Look 38:** Victorian Mourning
-- [x] **Look 39:** Cyber Goth Oracle (Generado 22/01)
+- [x] **Look 39:** Cyber Goth Oracle
