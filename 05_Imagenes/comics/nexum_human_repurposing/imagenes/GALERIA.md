@@ -30,4 +30,4 @@ Total imágenes: 8
 - [portada.png](./portada.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*

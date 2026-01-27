@@ -30,4 +30,4 @@ Total imágenes: 8
 - [helena_look10_zafiro_walking.png](./helena_look10_zafiro_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*

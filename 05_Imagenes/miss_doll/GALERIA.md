@@ -1,5 +1,5 @@
 # 🖼️ Galería: miss_doll
-Total imágenes: 119
+Total imágenes: 115
 
 ````carousel
 ![banner_comic_hero_welcome.png](./banner_comic_hero_welcome.png)
@@ -182,8 +182,6 @@ Total imágenes: 119
 <!-- slide -->
 ![miss_doll_pink_christmas_v2.jpg](./miss_doll_pink_christmas_v2.jpg)
 <!-- slide -->
-![miss_doll_pink_stripper.jpg](./miss_doll_pink_stripper.jpg)
-<!-- slide -->
 ![miss_doll_pink_tennis_pro.png](./miss_doll_pink_tennis_pro.png)
 <!-- slide -->
 ![miss_doll_pool_party.png](./miss_doll_pool_party.png)
@@ -195,12 +193,6 @@ Total imágenes: 119
 ![miss_doll_scene3_trono_luna_1766088853727.png](./miss_doll_scene3_trono_luna_1766088853727.png)
 <!-- slide -->
 ![miss_doll_secretary_slut.jpg](./miss_doll_secretary_slut.jpg)
-<!-- slide -->
-![miss_doll_stripper_lapdance_1769127187620.png](./miss_doll_stripper_lapdance_1769127187620.png)
-<!-- slide -->
-![miss_doll_stripper_lujo.jpg](./miss_doll_stripper_lujo.jpg)
-<!-- slide -->
-![miss_doll_stripper_pole_1769127172885.png](./miss_doll_stripper_pole_1769127172885.png)
 <!-- slide -->
 ![miss_doll_stripper_pole_1769167513197.png](./miss_doll_stripper_pole_1769167513197.png)
 <!-- slide -->
@@ -332,16 +324,12 @@ Total imágenes: 119
 - [miss_doll_pink_christmas.png](./miss_doll_pink_christmas.png)
 - [miss_doll_pink_christmas_tree.jpg](./miss_doll_pink_christmas_tree.jpg)
 - [miss_doll_pink_christmas_v2.jpg](./miss_doll_pink_christmas_v2.jpg)
-- [miss_doll_pink_stripper.jpg](./miss_doll_pink_stripper.jpg)
 - [miss_doll_pink_tennis_pro.png](./miss_doll_pink_tennis_pro.png)
 - [miss_doll_pool_party.png](./miss_doll_pool_party.png)
 - [miss_doll_private_jet.jpg](./miss_doll_private_jet.jpg)
 - [miss_doll_red_latex_1769126918129.png](./miss_doll_red_latex_1769126918129.png)
 - [miss_doll_scene3_trono_luna_1766088853727.png](./miss_doll_scene3_trono_luna_1766088853727.png)
 - [miss_doll_secretary_slut.jpg](./miss_doll_secretary_slut.jpg)
-- [miss_doll_stripper_lapdance_1769127187620.png](./miss_doll_stripper_lapdance_1769127187620.png)
-- [miss_doll_stripper_lujo.jpg](./miss_doll_stripper_lujo.jpg)
-- [miss_doll_stripper_pole_1769127172885.png](./miss_doll_stripper_pole_1769127172885.png)
 - [miss_doll_stripper_pole_1769167513197.png](./miss_doll_stripper_pole_1769167513197.png)
 - [miss_doll_stripper_red_1769167698448.png](./miss_doll_stripper_red_1769167698448.png)
 - [miss_doll_superficie_mary.png](./miss_doll_superficie_mary.png)
@@ -363,4 +351,4 @@ Total imágenes: 119
 - [thin_separator_eyes_cropped.png](./thin_separator_eyes_cropped.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*

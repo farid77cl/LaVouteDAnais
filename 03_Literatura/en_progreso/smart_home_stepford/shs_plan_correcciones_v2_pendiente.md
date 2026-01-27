@@ -8,6 +8,22 @@
 
 ---
 
+## 🇨🇱 Contexto Cultural Crítico: La Tensión de Clase (Cuica vs. Chana)
+
+> [!IMPORTANT]
+> **DIRECTIVA DE USUARIO (26/01):** La transformación NO es solo "Modesta -> Sexy". Es **"Alta Sociedad Conservadora -> Chana/Bimbo Urbana"**.
+
+**El Arquetipo Clara (ANTES):**
+*   **Perfil:** Cuica de colegio privado (influencia católica), conservadora, círculo social cerrado y elitista.
+*   **Estética:** Hippie Chic / Boho. Ropa relajada pero cara, zapatos planos, cero ostentación. "La discreción es elegancia".
+*   **Mentalidad:** Lo "trashy" (tacos, corsés, chicle, ropa ajustada) es una anormalidad, de "otra clase", algo que ella y sus amigas (Sofía, Beatriz) mirarían con horror o lástima.
+
+**El Fetiche de Daniel:**
+*   **Motivación:** No es solo tener una esposa sexy, es **Degradación de Clase**. Desea corromper esa pureza conservadora y convertirla en todo lo que su clase desprecia: la estética de "video de música urbana" o "modelo de Instagram".
+*   **Conflicto:** Él sabe que esto es "anormal" en su mundo. Es un fetiche privado y oscuro.
+
+---
+
 ## Detalle de Correcciones
 
 ### 1. ✅ Cap 1: Eliminar Revelación Temprana

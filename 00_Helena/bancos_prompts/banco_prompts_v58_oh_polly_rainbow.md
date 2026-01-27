@@ -4,7 +4,7 @@
 **Estética:** Satén Oh Polly, Neones, High Saturation, Rainbow Gradient.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado (PLEASER 16-18cm) y silueta. Especial énfasis en la saturación del color y la textura del satén.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** SENSUALITY > RULES. Corsets are OPTIONAL. Focus on " Eye Candy\. Standard: Extreme Canon (v38).
 
 ---
 

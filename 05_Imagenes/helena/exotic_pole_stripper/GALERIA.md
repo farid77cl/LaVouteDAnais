@@ -5,4 +5,4 @@ Total imágenes: 1
 - [helena_pole_spin_dungeon.png](./helena_pole_spin_dungeon.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*

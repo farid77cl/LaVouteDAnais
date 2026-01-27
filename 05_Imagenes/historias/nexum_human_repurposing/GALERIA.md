@@ -6,4 +6,4 @@ Total imágenes: 2
 - [dahlia_portrait.png](./dahlia_portrait.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*

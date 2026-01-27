@@ -4,7 +4,7 @@
 **Estética:** Sci-Fi Glamour, Time Loops, Zippers, Mirrors, Glitches.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado (PLEASER 16-18cm) y silueta. Especial énfasis en la tensión de materiales (látex/zips) y la complejidad visual de los bucles.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** SENSUALITY > RULES. Corsets are OPTIONAL. Focus on " Eye Candy\. Standard: Extreme Canon (v38).
 
 ---
 

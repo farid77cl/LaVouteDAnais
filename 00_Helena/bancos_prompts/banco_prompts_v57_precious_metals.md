@@ -4,7 +4,7 @@
 **Estética:** Metales Líquidos (Oro, Plata, Bronce, Cromo) sobre Satén y Látex.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado (PLEASER 16-18cm) y silueta. Especial énfasis en la liquidez y reflexión de las texturas metálicas.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** SENSUALITY > RULES. Corsets are OPTIONAL. Focus on " Eye Candy\. Standard: Extreme Canon (v38).
 
 ---
 

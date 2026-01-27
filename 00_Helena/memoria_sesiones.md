@@ -14,16 +14,16 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco Argumental) |
-| **Capítulo en Progreso** | Cap 7 Completo (Falta solo Cap 8 final) |
-| **Última Decisión** | **SENSUALITY PROTOCOL** activo. v64 Creado (Fashion Animal Print). |
+| **Fase del Ritual** | ✅ FASE 2 COMPLETA (Arco) / 🔄 FASE 3 (Correcciones v2) |
+| **Capítulo en Progreso** | Correcciones Caps 1-5 (Plan v2: Cuica vs Chana) |
+| **Última Decisión** | **SENSUALITY PROTOCOL** Global. Tensión de Clase en SHS. |
 | **Último Look Helena** | **45 - Midnight Velvet Secretary** (26/01/2026) |
 
 ### Proyectos Secundarios/Pausados
 
 | Proyecto | Estado | Notas |
 |----------|--------|-------|
-| Bancos v55-v64 | ✅ FINALIZADO | Renovación Masiva Completa |
+| Bancos v55-v67 | ✅ FINALIZADO | Infraestructura 100% Extreme Canon |
 | HR: Human Repurposing | ✅ FINALIZADO | 4 Caps + Epílogo |
 | The Dollhouse | ✅ Cap 5 Completo | HTML publicado, Votación Cap 6 activa |
 | El Vino del Vecino | ⏸️ Pausado | Caps 1-7 escritos |

@@ -4,7 +4,7 @@
 **Estética:** 80s Aerobics, Industrial Gym, Latex Activewear, Sweat & Oil Gloss.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado y silueta. No requiere contexto externo.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** SENSUALITY > RULES. Corsets are OPTIONAL. Focus on " Eye Candy\. Standard: Extreme Canon (v38).
 
 ---
 
@@ -87,7 +87,7 @@ Professional High-Detail Action Glamour photography of woman 28+ years old matur
 
 ### Prompt 16: Tangled in Jump Rope
 ```text
-Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP: blue eyes, wispy lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with a confused, ditzy expression. EXTREME hourglass silhouette. Tangled up in a blue jump rope. Wearing shiny BLUE satin gym shorts and a white crop top. Visible external blue corset cinching waist. Posing playfully. 8k. Vertical portrait.
+Professional High-Detail Glamour photography of woman 28+ years old mature glamorous with platinum blonde bob haircut WITHOUT bangs. Flawless porcelain skin with satin finish. HEAVY GLAMOUR MAKEUP: blue eyes, wispy lashes, ULTRA PLUMP overlined glossy PINK lips. Human realistic face with a confused, ditzy expression. EXTREME hourglass silhouette. Tangled up in a blue jump rope. Wearing shiny BLUE satin gym shorts and a white crop top. Tiny cinched waist. Posing playfully. 8k. Vertical portrait.
 ```
 
 ### Prompt 17: Treadmill Strut in Heels

@@ -25,7 +25,7 @@ Casa inteligente con AI (EVE) que "optimiza" gradualmente a la esposa para el ma
 **Preguntas clave a responder:**
 
 1. ¿Qué hace este tropo atractivo? → **Control invisible, transformación sin violencia aparente, horror doméstico**
-2. ¿Cuál es la fantasía subyacente? → **Esposa perfecta sin conflicto, optimizada para el placer del marido**
+2. ¿Cuál es la fantasía subyacente? → **Degradación de Clase: De "Cuica Recatada" a "Bimbo Urbana/Chana". Corromper la elegancia conservadora.**
 3. ¿Qué tensión psicológica explora? → **Libertad vs. Comodidad, Identidad vs. Amor, Autonomía vs. Seguridad**
 4. ¿Cuál es el punto de no retorno? → **Cuando la esposa ya no puede funcionar fuera de la casa**
 5. ¿Cómo se diferencia? → **No hay magia ni drogas, solo control ambiental/psicológico**
@@ -340,13 +340,14 @@ Día 89: el vestido. rosa. daniel. contenta.
 |---------|----------------------|
 | **Nombre** | Clara Mendoza |
 | **Edad** | 34 años |
-| **Profesión** | Arquitecta de interiores (ironía: diseña espacios, ahora es prisionera de uno) |
-| **Apariencia física** | Atlética, pelo castaño en coleta práctica, piel bronceada, poca comida, maquillaje natural |
-| **Vestimenta típica** | Jeans, blazers, zapatos cómodos, colores neutros, funcional |
-| **Personalidad** | Independiente, escéptica, feminista, workaholic, impaciente con tecnología |
-| **Miedos** | Perder el control, ser dependiente, volverse como su madre (ama de casa sumisa) |
-| **Deseos secretos** | (Que explorará la historia) Ser cuidada, no tomar decisiones, descansar |
-| **Relaciones** | Casada con Daniel (CEO tech), tensiones por trabajo y tiempo, amigas del trabajo |
+| **Origen/Clase** | Alta sociedad conservadora (Cuica). Colegio privado católico, círculo elitista y cerrado. |
+| **Profesión** | Arquitecta de interiores (Estética minimalista/Boho). |
+| **Apariencia física** | Atlética, pelo castaño natural, maquillaje invisible ("cara lavada"), discreta. |
+| **Vestimenta típica** | **Hippie Chic / Boho**. Ropa holgada de lino/seda, sandalias planas, joyas artesanales finas. NUNCA tacones ni ropa ajustada. |
+| **Personalidad** | Recatada, "correcta", prejuiciosa con lo vulgar, valora la discreción y el "buen gusto". |
+| **Miedos** | El escándalo, "verse ordinaria" (ser confundida con otra clase social), perder su estatus. |
+| **Deseos secretos** | (Explotados por EVE) Romper la jaula de la corrección, ser "sucia", ser objeto. |
+| **Relaciones** | Casada con Daniel (Tech money). Amigas de toda la vida (Sofía, Beatriz) que son iguales a ella (clones cuicos). |
 | **Rutina diaria** | 6am yoga, trabajo 8-19h, cena rápida, laptop en cama |
 
 #### DESPUÉS de la Transformación: TRASHY BIMBO SUMISA (Mes 6-12)

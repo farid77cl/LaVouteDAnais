@@ -4,7 +4,7 @@
 **Estética:** Animal Print, Gold, Silver, Rose Gold, Luxury Lingerie & Bikinis.
 
 > [!IMPORTANT]
-> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** Cada prompt en este banco es TOTALMENTE AUTO-CONTENIDO y sigue el estándar de rigor extremo de v38. Incluye edad, rasgos faciales refinados, maquillaje detallado (pestañas wispy, labios bee-stung), y especificaciones técnicas de calzado y silueta. Especial énfasis en la textura de metales y animal print.
+> **PROTOCOLO DE ALTA FIDELIDAD (AUDITED):** SENSUALITY > RULES. Corsets are OPTIONAL. Focus on " Eye Candy\. Standard: Extreme Canon (v38).
 
 ---
 

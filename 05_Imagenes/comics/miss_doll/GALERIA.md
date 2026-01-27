@@ -6,4 +6,4 @@ Total imágenes: 2
 - [miss_doll_canon_referencia.png](./miss_doll_canon_referencia.png)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-01-27*
