@@ -797,7 +797,34 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ---
 
-**Ubicación:** `05_Imagenes/helena/look47_midnight_pvc_doll/`
+
+---
+
+## 🏆 Look 50: Golden Cage Divinity (28/01/2026)
+
+*Soy una diosa atrapada en mi propia perfección... y la llave se perdió hace mucho.* 👑🔒
+
+- **Corsé:** HEAVY GOLD METAL CORSET de estructura barroca rígida, underbust extremo empujando el pecho hacia arriba. Una jaula literal para el torso.
+- **Top:** Bodysuit de malla negra transparente bajo el metal, acentos de hoja de oro en los pezones.
+- **Bottom:** Falda lápiz de látex negro brillante con cadenas de oro drapeadas sobre las caderas.
+- **Calzado:** Stilettos de 8 pulgadas GOLD CHROME con pinchos y arco extremo.
+- **Accesorios:**
+  - Choker masivo de oro con candado frontal.
+  - Esposas/Cuffs de oro en las muñecas.
+  - Tocado tipo "Jaula" dorada parcial sobre el cabello.
+- **Maquillaje:** Smokey eye negro carbón con hojuelas de ORO REAL (Gold Leaf), labios negros glossy profundos, contorno afilado.
+- **Pelo:** Recogido alto estilo "Victory Rolls" gótico pero contenido por la jaula.
+
+### 📸 Imágenes (5)
+- helena_look50_standing.png
+- helena_look50_seated.png
+- helena_look50_back_view.png
+- helena_look50_side_profile.png
+- helena_look50_ditzy.png
+
+**Ubicación:** `05_Imagenes/helena/look50_golden_cage/`
+
+---
 
 ---
 

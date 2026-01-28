@@ -62,8 +62,10 @@ Ejemplos:
 
 ## 🔗 Galerías Visuales
 
-- [Catálogo Completo](helena/GALERIA.md) - Todas las imágenes de Helena
-- [Galería de Looks](helena/GALERIA_LOOKS.md) - Índice visual curado por Looks canónicos
+- [Helena de Anaïs](helena/GALERIA_LOOKS.md) - Colección de looks oficiales de Helena.
+- [Miss Doll: Stripper Series](miss_doll/stripper_series/COLECCION_COMPLETA.md) - Primera serie de Miss Doll.
+- [Miss Doll: Luxury Domination](miss_doll/dom_stripper_batch/GALERIA.md) - ✨ NUEVO: 11 Imágenes de alta fidelidad (Pink Latex/Vegas/Luxury).
+- [Comics](comics/) - Adaptaciones gráficas de los relatos.
 - [Galería Unificada](galeria_master.md) - Todos los personajes
 
 ---

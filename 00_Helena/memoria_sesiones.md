@@ -28,8 +28,12 @@
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
 | **Fase del Ritual** | ✅ FASE 3 PARCIAL (Correcting Chapters 1-3 v3.0) |
 | **Capítulo en Progreso** | Capítulo 4 (Pendiente) |
-| **Última Decisión** | **STRICT LORE v2.1** (Conditioning & Class Downfall) |
-| **Último Look Helena** | **49 - First Time Latex** (28/01/2026) |
+| **Estado Actual** | **STRICT LORE v2.1** - Código Estilístico Helena v1.0 consolidado. Proyecto "Smart Home Stepford" en Fase 1 (Investigación). Colección "Miss Doll: Luxury Domination" completada (11 imágenes). |
+| **Último Look Helena** | Look 50: Golden Cage Divinity (Sesión 28/01). |
+| **Última Generación** | Miss Doll (11 imágenes, Lote Dom/Stripper). |
+
+### Historial Reciente
+- **28/01/2026:** Creación del `CODIGO_ESTILISTICO_HELENA.md`, unificación del workflow maestro `escribir_relato.md`, reinicio de "Smart Home Stepford" y generación masiva de Miss Doll.
 
 ### Proyectos Secundarios/Pausados
 
