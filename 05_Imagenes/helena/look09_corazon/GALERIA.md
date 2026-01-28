@@ -36,4 +36,4 @@ Total imágenes: 10
 - [helena_look9_standing.png](./helena_look9_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-01-27*
+*Actualizado automáticamente: 2026-01-28*

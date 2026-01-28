@@ -797,6 +797,10 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 
 ---
 
+**Ubicación:** `05_Imagenes/helena/look47_midnight_pvc_doll/`
+
+---
+
 ## ⛓️ Look 48: Industrial Lust (27/01/2026)
 
 *Heavy Metal Bimbo — Hecha de cadenas, cuero y malas decisiones* 🎸🔩
@@ -821,6 +825,31 @@ Set explÃcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de h
 - helena_look48_ditzy.png
 
 **Ubicación:** `05_Imagenes/helena/look48_industrial_lust/`
+
+---
+
+## 🖤 Look 49: First Time Latex (Memoria Recuperada) (28/01/2026)
+
+*El primer beso del caucho... cuando aún intentaba resistirme... tontamente* 🕯️🗝️
+
+> **Concepto:** Regresión visual al momento exacto en que Helena usó su primer catsuit. La mezcla de nervios, sudor y la lucha física contra el material.
+
+- **Base:** Ropa interior de algodón negro simple (antes de la transformación total).
+- **Prenda Principal:** **Catsuit de Látex Negro** (Black Latex Catsuit) a medio poner, o recién cerrado.
+- **Corsé:** Ninguno visible al inicio, luego un underbust básico de entrenamiento.
+- **Estado:** Pelo revuelto por el esfuerzo, piel brillando por sudor/talco, expresión de "Oh dios, esto aprieta".
+- **Maquillaje:** Glamour pesado pero corrido o imperfecto por la lucha. Labios negros glossy mordidos por nervios.
+- **Vibe:** Vulnerabilidad, asfixia erótica inicial, la transición de humano a muñeca.
+
+### 📸 Imágenes (5)
+- helena_look49_standing.png (Sosteniendo el traje con miedo/deseo)
+- helena_look49_seated_struggle.png (Luchando por subirlo en las caderas)
+- helena_look49_back_zipper.png (El dilema del cierre inalcanzable)
+- helena_look49_profile_admiring.png (El primer vistazo en el espejo: narcisismo naciendo)
+- helena_look49_ditzy_lips.png (Primer plano de labios negros: la identidad sellada)
+
+**Ubicación:** `05_Imagenes/helena/look49_first_time_latex/`
+
 
 ---
 

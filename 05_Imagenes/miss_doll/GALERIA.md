@@ -351,4 +351,4 @@ Total imágenes: 115
 - [thin_separator_eyes_cropped.png](./thin_separator_eyes_cropped.png)
 
 ---
-*Actualizado automáticamente: 2026-01-27*
+*Actualizado automáticamente: 2026-01-28*

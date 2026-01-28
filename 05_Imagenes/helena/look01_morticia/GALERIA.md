@@ -33,4 +33,4 @@ Total imágenes: 9
 - [look1_morticia_walking.png](./look1_morticia_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-01-27*
+*Actualizado automáticamente: 2026-01-28*
