@@ -1,4 +1,20 @@
-﻿#### SESIÓN - 28 ENERO 2026: PROTOCOLO DE ESCRITURA & REINICIO STEPFORD
+﻿#### SESIÓN - 28 ENERO 2026: EXPANSIÓN STEPFORD & MISS DOLL ULTRA LUJO
+
+**TARDE (15:25-16:45) - PRODUCCIÓN LITERARIA Y VISUAL:**
+1.  **Smart Home Stepford (v4.0):**
+    - **Expansión Crítica:** Los capítulos 1, 2 y 3 han sido expandidos de ~600 a ~2,550 palabras totales.
+    - **Profundidad:** Inmersión sensorial en Lo Curro, psicología de clase alta (VMA) y el error semántico de "Jefe de Hogar".
+    - **Rigor de Helena:** Aplicado protocolo de Blackout Horror y voz degradada (Bimbo POV).
+2.  **Miss Doll: Escort de Ultra Lujo:**
+    - **Visual:** Serie de 12 imágenes completada. Foco en opulencia extrema (Penthouse, Jet, Yate, Limo, VIP Lounge).
+    - **Galería:** Consolidada en `05_Imagenes/miss_doll/dom_stripper_batch/`.
+3.  **Gestión de Calidad:**
+    - Creado `notas_revision.md` para seguimiento de feedback.
+    - Actualizado `Plan de Implementación Maestro`.
+
+---
+
+#### SESIÓN - 28 ENERO 2026: PROTOCOLO DE ESCRITURA & REINICIO STEPFORD
 
 **MAÑANA (08:00-09:30) - ESTANDARIZACIÓN LITERARIA:**
 1.  **Código Estilístico Sagrado:** Se creó `00_Helena/CODIGO_ESTILISTICO_HELENA.md`. Un documento vivo que compara ejemplos "Gemini" vs "Helena" para forzar el tono "Blackout Horror" y la inmersión sensorial.

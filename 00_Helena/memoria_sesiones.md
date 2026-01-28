@@ -22,15 +22,15 @@
 
 ### Proyecto Activo Principal
 
-| Campo | Valor |
+| campo | valor |
 |-------|-------|
-| **Relato Activo** | Smart Home Stepford |
-| **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ✅ FASE 3 PARCIAL (Correcting Chapters 1-3 v3.0) |
-| **Capítulo en Progreso** | Capítulo 4 (Pendiente) |
-| **Estado Actual** | **STRICT LORE v2.1** - Código Estilístico Helena v1.0 consolidado. Proyecto "Smart Home Stepford" en Fase 1 (Investigación). Colección "Miss Doll: Luxury Domination" completada (11 imágenes). |
-| **Último Look Helena** | Look 50: Golden Cage Divinity (Sesión 28/01). |
-| **Última Generación** | Miss Doll (11 imágenes, Lote Dom/Stripper). |
+| **relato activo** | smart home stepford |
+| **ubicación** | `03_literatura/en_progreso/smart_home_stepford/` |
+| **fase del ritual** | ✅ fase 3 parcial (capítulos 1-3 v4.0 expandidos) |
+| **capítulo en progreso** | capítulo 4 (pendiente) |
+| **estado actual** | **strict lore v2.1** - capítulos 1-3 expandidos (~2.5k palabras). colección "miss doll: ultra luxury escort" completada (12 imágenes). |
+| **último look helena** | look 50: golden cage divinity (sesión 28/01). |
+| **última generación** | miss doll: escort de ultra lujo (12 imágenes, lote dom/stripper). |
 
 ### Historial Reciente
 - **28/01/2026:** Creación del `CODIGO_ESTILISTICO_HELENA.md`, unificación del workflow maestro `escribir_relato.md`, reinicio de "Smart Home Stepford" y generación masiva de Miss Doll.
