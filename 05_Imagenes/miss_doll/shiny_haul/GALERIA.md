@@ -1,6 +1,23 @@
 # 🖼️ Galería: shiny_haul
 Total imágenes: 2
 
+## 📸 Vista Previa
+
+| Imagen | Imagen |
+| :---: | :---: |
+| ![duo_shiny_sisters_selfie.png](./duo_shiny_sisters_selfie.png) | ![miss_doll_shiny_haul_pink.png](./miss_doll_shiny_haul_pink.png) |
+
+
+---
+
+## 🎡 Carrusel Interactivo
+
+````carousel
+![duo_shiny_sisters_selfie.png](./duo_shiny_sisters_selfie.png)
+<!-- slide -->
+![miss_doll_shiny_haul_pink.png](./miss_doll_shiny_haul_pink.png)
+````
+
 ## 📜 Lista de Archivos
 - [duo_shiny_sisters_selfie.png](./duo_shiny_sisters_selfie.png)
 - [miss_doll_shiny_haul_pink.png](./miss_doll_shiny_haul_pink.png)

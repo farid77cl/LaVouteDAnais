@@ -1,6 +1,18 @@
 # 🖼️ Galería: imagenes
 Total imágenes: 4
 
+## 📸 Vista Previa
+
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![pag01_portada.png](./pag01_portada.png) | ![pag02_el_hallazgo.png](./pag02_el_hallazgo.png) | ![pag03_activacion.png](./pag03_activacion.png) |
+| ![pag04_el_uniforme.png](./pag04_el_uniforme.png) |
+
+
+---
+
+## 🎡 Carrusel Interactivo
+
 ````carousel
 ![pag01_portada.png](./pag01_portada.png)
 <!-- slide -->

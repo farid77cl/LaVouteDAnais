@@ -1,6 +1,18 @@
 # 🖼️ Galería: look34_white_chrome
 Total imágenes: 5
 
+## 📸 Vista Previa
+
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![helena_look34_back.png](./helena_look34_back.png) | ![helena_look34_ditzy.png](./helena_look34_ditzy.png) | ![helena_look34_profile.png](./helena_look34_profile.png) |
+| ![helena_look34_seated.png](./helena_look34_seated.png) | ![helena_look34_standing.png](./helena_look34_standing.png) |
+
+
+---
+
+## 🎡 Carrusel Interactivo
+
 ````carousel
 ![helena_look34_back.png](./helena_look34_back.png)
 <!-- slide -->

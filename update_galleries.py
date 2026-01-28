@@ -14,7 +14,23 @@ def generate_gallery(directory):
         f.write(f"# 🖼️ Galería: {rel_dir_name}\n")
         f.write(f"Total imágenes: {len(files)}\n\n")
         
-        if len(files) > 3:
+        # --- GITHUB COMPATIBILITY TABLE ---
+        f.write("## 📸 Vista Previa\n\n")
+        cols = 3
+        # Header
+        f.write("| " + " | ".join(["Imagen"] * min(len(files), cols)) + " |\n")
+        f.write("| " + " | ".join([":---:"] * min(len(files), cols)) + " |\n")
+        
+        for i in range(0, len(files), cols):
+            chunk = files[i:i+cols]
+            # GitHub needs relative paths to work in the web view
+            row = "| " + " | ".join([f"![{img}](./{img})" for img in chunk]) + " |\n"
+            f.write(row)
+        f.write("\n\n---\n\n")
+
+        # --- ASSISTANT CAROUSEL ---
+        if len(files) > 0:
+            f.write("## 🎡 Carrusel Interactivo\n\n")
             f.write("````carousel\n")
             for i, img in enumerate(files):
                 f.write(f"![{img}](./{img})\n")

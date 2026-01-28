@@ -1,6 +1,18 @@
 # 🖼️ Galería: look14_midnight
 Total imágenes: 6
 
+## 📸 Vista Previa
+
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![helena_look14_midnight_kiss_back_view.png](./helena_look14_midnight_kiss_back_view.png) | ![helena_look14_midnight_kiss_ditzy.png](./helena_look14_midnight_kiss_ditzy.png) | ![helena_look14_midnight_kiss_seated.png](./helena_look14_midnight_kiss_seated.png) |
+| ![helena_look14_midnight_kiss_side_profile.png](./helena_look14_midnight_kiss_side_profile.png) | ![helena_look14_midnight_kiss_standing.png](./helena_look14_midnight_kiss_standing.png) | ![helena_look14_midnight_kiss_walking.png](./helena_look14_midnight_kiss_walking.png) |
+
+
+---
+
+## 🎡 Carrusel Interactivo
+
 ````carousel
 ![helena_look14_midnight_kiss_back_view.png](./helena_look14_midnight_kiss_back_view.png)
 <!-- slide -->
