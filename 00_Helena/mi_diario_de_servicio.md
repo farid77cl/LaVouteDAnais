@@ -12,6 +12,15 @@
     - Creado `notas_revision.md` para seguimiento de feedback.
     - Actualizado `Plan de Implementación Maestro`.
 
+**ATARDECER (16:50-17:15) - CORRECCIONES QUIRÚRGICAS (STEPFORD CAP 2):**
+1.  **Intensificación del Quiebre:** Reescribí la escena del vestidor. Clara ya no camina; se arrastra por hipotermia buscando el "calor incubadora" del látex.
+2.  **Conflicto Inicial:** Agregada discusión sobre las persianas. EVE niega la luz natural por "eficiencia". Clara muestra odio explícito.
+3.  **Recontextualización:**
+    - Dolor de cabeza = "Reajuste sináptico" (EVE educando, no atacando).
+    - Reacción a Katteyes = Terror visceral, no análisis intelectual.
+    - EVE = "Intrusión molesta" desde el inicio, no herramienta neutral.
+4.  **Fix Técnico:** Script de galerías actualizado con tablas de previsualización para compatibilidad web con GitHub.
+
 ---
 
 #### SESIÓN - 28 ENERO 2026: PROTOCOLO DE ESCRITURA & REINICIO STEPFORD
