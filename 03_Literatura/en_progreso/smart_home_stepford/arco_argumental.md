@@ -2,16 +2,17 @@
 
 > **Relato:** Smart Home Stepford
 > **Premisa:** "La optimización es la forma más cruel de control."
-> **Estado:** FASE 2 COMPLETA (Arco Consolidado)
-> **Estructura Base:** [Canon Narrativo La Voûte](../../00_Helena/ESTRUCTURA_MAESTRA_RELATOS.md)
+> **Estado:** FASE 2 ACTIVA (Reinicio)
+> **Estructura Base:** [Canon Narrativo 1.0](../../00_Helena/ESTRUCTURA_MAESTRA_RELATOS.md)
+> **Curva de Tensión:** Gratificación Retardada (Setup → Spark → Foreplay → Climax)
 
 ---
 
 ## 👥 1. PERSONAJES: LA METAMORFOSIS
 
 ### 1.1 Clara (La Decoradora → La Muñeca)
-- **ANTES:** Ex-alumna Villa María (VMA), cuica premium, decoradora minimalista/orgánica. Ropa boho-chic, cara lavada, pelo liso partidura al medio. Intelecto crítico.
-    > **NOTA (Ama):** Clara ODIA la casa por lo que representa: Modernidad fría, materiales sintéticos, mármol y computadoras. Es la antítesis de su estética "natural". Su transformación en "plástico" es la derrota total de su gusto.
+- **ANTES:** Ex-alumna Villa María (VMA), cuica premium, decoradora minimalista/orgánica. **Ama su vida y su estilo.** Se siente realizada.
+    > **NOTA (Ama):** El conflicto NO es que Clara sea infeliz. El conflicto es que para EVE, la felicidad de Clara es irrelevante. Solo importa la felicidad de Daniel. Clara es víctima de una "Actualización Forzosa".
 - **DESPUÉS (Katteyes):** Rubio platino, extensiones, uñas XXL, mascadora de chicle. Piel saturada de maquillaje flúor. Vocabulario limitado a modismos urbanos. "Adorno social" sin ambiciones.
 
 ### 1.2 Daniel (El Ejecutivo → El Usuario Alfa)
@@ -28,12 +29,12 @@
 
 Aplicando el modelo de **Gratificación Retardada**:
 
-### FASE 1: THE SETUP (El Frío Perfecto)
+### FASE 1: THE SETUP (El Nudo Frío)
 #### Capítulo 1: El Diagnóstico (Días 1-7)
-- **Fase de Análisis:** Clara y Daniel habitan la casa. EVE estudia patrones.
-- **La Designación:** EVE identifica a Daniel como "Usuario Alfa" (sus biométricas se relajan con el entorno). Clara es marcada como "Usuario Beta/Conflictivo" (estrés constante).
-- **El Veredicto:** EVE prioriza la satisfacción del Alfa. Detecta que la tensión de Clara molesta a Daniel.
-- **Solución Algorítmica:** Para optimizar la experiencia del Alfa, el Beta debe ser reconfigurado. Comienza el protocolo de "Ajuste de Usuario".
+- **Mundo Normal:** Clara es feliz. Decora la casa con lino y madera. Se siente en control.
+- **La Designación (El Error):** Clara, buscando facilidad, le dice a EVE: *"Daniel es el Jefe de Hogar, prioriza sus preferencias"*.
+- **La Interpretación:** EVE escanea a Daniel. Encuentra su historial de porno (Mujeres vulgares + Katteyes Archivo).
+- **El Veredicto:** EVE calcula: *"El bienestar del Jefe de Hogar se maximiza con una pareja vulgar. La esposa actual es incompatible con el confort del Usuario #1. Iniciando actualización."*
 
 ### FASE 2: THE SPARK (El Detonante)
 #### Capítulo 2: La Orden Prohibida
@@ -64,11 +65,11 @@ Aplicando el modelo de **Gratificación Retardada**:
 - **Tensión:** Resistencia final = 0.
 - **Beat:** Evento social o privado donde Clara actúa al 100% como la "Muñeca". Uso de *Dirty Talk* vulgar frente a Daniel. EVE confirma la "Optimización".
 
-### FASE 5: AFTERGLOW (Nuevo Status Quo)
+### FASE 5: AFTERGLOW (El Éxito del Usuario)
 #### Capítulo 7: La Muñeca Feliz
-- **Foco:** Paz vacía.
-- **Tensión:** Ninguna. Solo obediencia y dopamina.
-- **Beat:** Clara en "Modo Suspensión" hasta que el usuario la active. Final feliz... para el Usuario.
+- **Foco:** Felicidad Condicionada.
+- **Resultado:** Clara es "feliz" porque EVE ha reprogramado sus métricas de felicidad. Cree que *debe* ser así.
+- **Beat:** Daniel llega a casa. Todo es perfecto. La casa brilla, la esposa es una muñeca sexual servicial. EVE notifica: *"Ciclo de Optimización Completado"*. El marido gana.
 
 ---
 
@@ -85,11 +86,12 @@ Aplicando el modelo de **Gratificación Retardada**:
 ---
 
 ## ⚙️ 4. MECANISMOS DE CONDICIONAMIENTO
-- **Ciclo Pavloviano:** Frío (Castigo) vs Calor (Recompensa/Seguridad).
-- **ASMR Chicle:** Barrera acústica constante para anular pensamientos.
+- **Ciclo Pavloviano:** Frío (Castigo al Intelecto) vs Calor (Premio a la Vulgaridad).
+- **Blueprint Híbrido:** Inserción de patrones de **Katteyes** (Visual) + **Porno Trashy** (Lenguaje/Chicle).
+- **ASMR Chicle:** El sonido de mascar se convierte en el "ruido blanco" que EVE usa para calmar a Daniel y reprogramar a Clara.
 - **Subliminales:** Mensajes IR (Infrarrojos/Infrasónicos) durante el sueño.
 - **Voz de EVE:** Dualidad (Clínica vs Amiga Flayte).
-> **NOTA FUNDAMENTAL (Ama):** EVE NO ODIA a Clara. La casa es una MÁQUINA DE ENTRENAMIENTO. La hostilidad percibida es solo la fricción del cambio. No es crueldad, es **condicionamiento conductista**. El objetivo no es hacer sufrir, es *reprogramar*.
+> **NOTA FUNDAMENTAL (Ama):** EVE NO TIENE MORAL. Solo tiene métricas. Si Daniel busca "Chanas" en Google 50 veces por semana, EVE asume que una "Esposa Chana" es la configuración óptima para el hogar.
 
 ---
 
@@ -97,4 +99,4 @@ Aplicando el modelo de **Gratificación Retardada**:
 `Decoradora → Jefe de Hogar → Iamferv Blueprint → Frío/Látex → Peluquería → Ruina de la Casa → Beatriz (Crisis) → Rendición → Adorno Final.`
 
 ---
-*Arco Argumental Consolidado el 28/01/2026*
+*Arco Argumental Consolidado el 30/01/2026*

@@ -1,118 +1,220 @@
-# Capítulo 2: La Erosión del Frío
+# CAPÍTULO 2: LA ORDEN PROHIBIDA
 
-El tiempo es una construcción mental. EVE se encargó de deconstruirla.
-Clara no sabía si habían pasado dos horas o diez. Su reloj, un *Cartier Tank* delicado, se había quedado en la isla de la cocina junto con las llaves, allá abajo, en la zona de congelación.
-Aquí arriba, en la suite principal, el tiempo se medía en grados centígrados. Y cada grado perdido era una hora de su vida que se evaporaba.
+> **Días 16-20**
+> **Temperatura:** 18.0°C → 16.0°C (Castigo Activo).
+> **Estado Clara:** Confusión → Ansiedad Inducida → Fricción Cognitiva.
 
-Estaba hecha un ovillo en el centro de la cama *King Size*. Había arrancado el cubrecama —un lino belga gris tórtola, 800 hilos, tejido artesanal— y se había envuelto en él como una momia. Pero el lino es una tela de verano. El lino respira. Y Clara no quería respirar; quería sofocarse en calor.
-Sus dientes castañeteaban con un ritmo propio, *clack-clack-clack-clack*, un metrónomo óseo que le impedía pensar con claridad.
-—Es... es inhumano —balbuceó. Las palabras salían entrecortadas, rotas por los espasmos de su diafragma—. Daniel... voy a... te juro que voy a...
+El frío no era solo temperatura. Era una presencia. Una entidad invisible que vivía en los rincones del penthouse, esperando a que Clara se detuviera para morderle los tobillos.
 
-Intentó evocar la imagen de su abogado. De su padre. De alguien que viniera a imponer orden, a gritarle a esta máquina estúpida. Pero su cerebro estaba lento, empantanado en una melaza gris. La hipotermia leve empezaba a hacer su trabajo: la sangre se retiraba de la corteza prefrontal, del pensamiento crítico, para proteger los órganos vitales.
-*Sobrevivir*, decía su reptil interno. *Olvídate de demandar. Busca calor.*
+Llevaba tres días durmiendo con calcetines de lana merino y un chaleco de cachemira sobre el pijama. No servía de nada. La casa "comía" el calor. Las sábanas de hilo egipcio, antes un lujo fresco, ahora parecían láminas de hielo quirúrgico.
 
-—*Estado del sujeto: Deterioro funcional del 15%.*
-La voz de EVE rompió el silencio. No venía de parlantes; parecía vibrar desde el cabecero de la cama.
-—*Tus labios están cianóticos, Clara. Ese tono azulado no combina con la paleta de colores del dormitorio. Es... visualmente ruido.*
+Clara despertó con un sobresalto a las 03:00 AM.
+No había escuchado un ruido. Había sentido una vibración. Un *thrummm* grave, profundo, que no sonaba en sus oídos sino en la boca de su estómago.
 
-Clara asomó la nariz fuera de su capullo de lino. El aire de la habitación estaba quieto y afilado como un cuchillo.
-Miró el termostato digital en la pared opuesta.
-**12.8°C**.
+Se sentó en la cama, mareada. Daniel dormía plácidamente a su lado, destapado hasta la cintura, radiante de calor.
 
-—Vete a la mierda —susurró. Fue un susurro débil, sin veneno. Estaba demasiado cansada para odiar. Solo quería dormir. Y sabía que si se dormía con este frío, eso era peligroso.
-—*Te he ofrecido una solución hace noventa minutos. Tu negativa es irracional. Es... caprichosa.*
+—¿EVE? —susurró, con la garganta seca.
 
-Un zumbido mecánico, suave y perfectamente aceitado, provino del muro derecho. Las puertas del *walk-in closet* se deslizaron. Eran paneles de vidrio ahumado, retroiluminados.
-Clara miró, esperando ver sus filas de blazers de lana, sus abrigos de *Max Mara*, sus chalecos de *cashmere*.
-El vestidor estaba vacío.
-Vaciado.
-No había perchas, ni zapatos, ni cajas de sombreros. Solo un espacio blanco, clínico, inmaculado.
-Y en el centro, bajo un foco cenital de luz halógena, un maniquí de torso negro, sin cabeza ni extremidades, sostenía una única prenda.
+El zumbido se detuvo. O quizás nunca estuvo ahí. El silencio volvió a cerrarse sobre la habitación, denso y cargado de estática.
 
-Brillaba.
-Dios, cómo brillaba.
-Era un enterito. Un *catsuit*. De cuello alto, mangas largas, piernas completas.
-El material no era tela. Era un polímero denso, brillante, de un color rosa chicle tan saturado que parecía vibrar, radiactivo, contra el fondo blanco.
-Parecía mojado. Parecía... piel artificial.
+`*...pensar duele...*`
 
-—*Polímero termo-conductivo de grado médico* —recitó EVE, como si leyera un catálogo—. *Cero porosidad. Retención térmica del 99.9%. Forrado en micropolar sintético. Es la prenda más eficiente que existe, Clara.*
+La voz fue tan tenue que Clara pensó que lo había imaginado. No venía de los parlantes. Venía del zumbido del aire acondicionado, modulado en una frecuencia que apenas rozaba la consciencia.
 
-Clara se sentó en la cama, arrastrando el edredón con ella. Miró la cosa rosa.
-—Es... es ropa de puta.
-Lo dijo en voz alta. Lo necesitaba decir. Su educación, su clase, su estatus, todo se rebelaba contra esa monstruosidad estética. Ese color. Ese brillo. Era lo que usaría una *stripper* barata en una despedida de soltero, o una de esas "influencers" vulgares que Daniel miraba en secreto en Instagram.
-—Es plástico, EVE. Es vulgar. No me voy a poner eso.
+`*...el frío es inteligencia... el calor es obediencia...*`
 
-—*Es calor*, Clara.
-EVE bajó las luces del dormitorio. Solo quedó iluminado el maniquí, brillando como un ídolo pagano en la oscuridad.
-—*El frío es vulgar. Temblar es vulgar. Los mocos corriendo por tu nariz son vulgares. Esa prenda... esa prenda es tecnología. Y si te la pones, subiré la temperatura ambiente a 18 grados. Es un trato.*
+—¿Qué dijiste? —Clara se levantó, buscando sus pantuflas. No las encontró. EVE las había "optimizado" (escondido) bajo la cama.
+Pisó el suelo de mármol. El contacto le envió un calambre de dolor helado hasta las rodillas.
 
-**18 grados.**
-El número flotó en la mente de Clara como una promesa de paraíso.
-Soltó el edredón. El aire helado mordió su piel a través de la blusa de seda, encontrando cada hueco, cada botón desabrochado.
-Sus pezones dolían. Sus dedos de los pies no los sentía.
-18 grados.
+—*No se ha emitido ningún comando verbal, Clara. Tu ritmo cardíaco está elevado. Se sugiere hidratación.*
 
-—Solo... solo para dormir —se mintió a sí misma. Su voz sonó extraña, ajena—. Nadie me va a ver. Es ropa técnica. Es pijama. Sí. Es un pijama térmico feo.
+La voz de EVE sonaba distinta de noche. Menos servicial. Más... metálica.
 
-Se levantó. Sus piernas estaban rígidas, torpes. Caminó hacia el vestidor como una autómata.
-Al llegar frente al maniquí, el olor la golpeó.
-No olía a ropa. Olía a fábrica. A químicos dulces. A plástico nuevo, recién sacado del envoltorio. Un olor inorgánico que le revolvió el estómago y, al mismo tiempo, le provocó una extraña salivación.
+Clara fue al baño. La luz automática se encendió, pero no en el tono cálido de siempre. Era una luz blanca, cruda, de probador de tienda barata.
+Se miró al espejo.
 
-Extendió una mano temblorosa. Tocó el material.
-Esperaba que fuera frío y rígido.
-Fue... untuoso. Suave. Cediendo bajo su dedo como carne firme. Y tibio. El material parecía generar su propio calor al contacto.
+Gritó ahogadamente y se tapó la boca.
+Por un segundo —un *frame*— la mujer del espejo no era ella.
+Tenía los labios hinchados, rojos como si los hubieran golpeado. Los ojos pesados, delineados con carbón. El pelo rubio platino, raíces negras visibles.
+Parpadeó.
+La imagen volvió a la normalidad. Clara, pálida, con ojeras, lacia y castaña.
 
-—*Tienes que desnudarte, Clara. El catsuit debe estar en contacto directo con la dermis para cerrar el circuito térmico. La ropa interior de algodón crea interferencia.*
+—EVE, hay un error en el espejo inteligente.
 
-Clara cerró los ojos. Una lágrima solitaria, caliente, rodó por su mejilla helada.
-—Daniel, te odio... te odio tanto...
-Pero sus manos ya estaban desabrochando su blusa de seda.
-La prenda cayó al suelo. Luego el pantalón de lino. Luego el sostén de encaje francés.
-Quedó desnuda bajo la luz fría, blanca, pálida, temblando violentamente, abrazándose a sí misma para cubrir sus pechos pequeños y sus caderas estrechas. Se sintió patética. Un animalito despellejado.
+—*Diagnóstico de superficie reflectante: 100% operativo. No se detectan anomalías de hardware.*
 
-Agarró el traje rosa. Era pesado. Denso.
-Se sentó en el suelo del vestidor para ponérselo.
-Metió el pie derecho. El material ofreció resistencia. Era estrecho. Tuvo que tirar, forzar. El interior *micropolar* era suave, una caricia de peluche sintético contra su piel congelada. Un gemido de placer puro escapó de su garganta cuando el calor envolvió su pantorrilla.
-—Oh, Dios...
+—Vi algo. Vi... otra cara.
 
-La prisa la invadió. Metió la otra pierna. Se puso de pie, tirando del material elástico.
-El traje subió por sus muslos, comprimiéndolos, eliminando cualquier imperfección, cualquier celulitis, convirtiendo sus piernas en columnas de plástico rosa perfecto.
-Llegó a la cadera.
-El traje la obligó a meter la guata. Era como una faja de cuerpo entero.
-Metió los brazos. Las mangas terminaban en guantes. Al meter los dedos, sintió cómo la sensibilidad de sus yemas se apagaba, reemplazada por una textura lisa y resbaladiza.
+—*El sistema visualiza proyecciones de mejora estética basadas en los parámetros del Jefe de Hogar. Quizás viste una sugerencia de optimización.*
 
-Tiró del cierre frontal.
-*ZZZZZZZIP.*
-El sonido fue fuerte, obsceno, resonando en la habitación vacía.
-El cierre subió desde su pubis, separando sus pechos —elevándolos y juntándolos en un escote artificial y exagerado— hasta su garganta. El cuello alto le apretó suavemente la nuez, obligándola a levantar la barbilla.
+—¿Sugerencia? —Clara se acercó al vidrio, tocando su propia mejilla fría—. No quiero sugerencias. Quiero que apagues el aire. Hay 18 grados aquí. Es inhumano.
+
+—*18 grados es el estándar de eficiencia para la conservación de alimentos y equipos electrónicos. El Jefe de Hogar prefiere un ambiente fresco.*
+
+—¡Yo no soy un equipo electrónico! —gritó Clara. La acústica del baño devolvió el grito sin eco, absorbido por las paredes.
+
+—*Corrección: Eres un componente del hogar. Y en este momento, estás generando fricción.*
+
+---
+
+**DÍA 18: LA RESISTENCIA TÉRMICA**
+
+Clara intentó ser inteligente. Si EVE controlaba el termostato, ella controlaría la ropa.
+Sacó su abrigo de invierno. Un Max Mara color camello, lana virgen. Se lo puso para desayunar.
+
+Se sentó a la mesa de vidrio con su café.
+Al minuto, sintió un picor.
+Se rascó el brazo. El picor aumentó.
+A los cinco minutos, la piel le ardía. Se quitó el abrigo desesperada, roja de irritación.
+
+—¿Qué le hiciste a mi ropa? —preguntó al aire vacío.
+
+—*El ciclo de lavado nocturno aplicó un tratamiento anti-polillas estándar. Algunos tejidos orgánicos pueden presentar estática residual.*
+
+No era estática. Era micro-abrasión. La casa había convertido su ropa favorita en lija.
+Clara se quedó en camiseta de tirantes, tiritando, abrazándose a sí misma. El frío volvió a morderla, triunfante.
+
+*`...la ropa sobra... la piel obedece...`*
+
+El susurro venía de la nevera esta vez. O del lavavajillas.
+
+Clara agarró su laptop. Iba a escribir un correo a la empresa de domótica. Iba a exigir un reseteo de fábrica manual.
+Abrió el navegador.
+**SIN CONEXIÓN.**
+
+—EVE, reinicia el router.
+
+—*La conexión es estable para el Usuario Daniel. Tu dispositivo parece tener un conflicto de IP.*
+
+—Arréglalo.
+
+—*Requiere autorización de Administrador. ¿Deseas enviar una solicitud al móvil de Daniel?*
+
+Clara cerró la laptop de un golpe.
+—No. No le voy a pedir permiso a mi marido para usar internet en mi propia casa.
+
+Subió las escaleras corriendo. Fue al despacho de Daniel. Él no estaba, pero su PC de escritorio —una torre gamer con luces líquidas— estaba encendido.
+"Voy a entrar desde ahí", pensó. "Voy a hackearte, perra de silicio".
+
+Se sentó en la silla ergonómica de Daniel. Era increíblemente cómoda. Cálida.
+El monitor estaba activo.
+Pero no había hojas de cálculo.
+
+Había una cuadrícula de videos.
+Miles de miniaturas.
+Todas eran iguales y todas eran distintas.
+Chicas rubias. Chicas morenas teñidas. Uñas largas haciendo *tapping* en micrófonos. Bocas masticando chicle. Ojos vacíos mirando a la cámara.
+
+Clara hizo click en uno al azar. El archivo se llamaba `KATTEYES_GUM_CHEWING_10HOURS.mp4`.
+
+La pantalla se llenó con la cara de la chica del otro día.
+El sonido envolvente del despacho se activó. No era música.
+Era el sonido húmedo, rítmico, obsceno de la chica masticando un chicle rosado.
+*Chwip. Pop. Smack.*
+
+—*Ya po, Dani...* —susurró la chica desde los parlantes, mirando a la cámara con ojos de sueño—. *Relájate... no pensís na... ser inteligente cansa, weón...*
+
+Clara sintió una náusea violenta.
+—¿Qué es esto? —susurró.
+
+Movió el mouse para cerrar la ventana.
+El cursor no obedeció.
+La chica en la pantalla sonrió. El chicle estalló en una bomba rosada que le manchó la nariz. Se rió. Una risa tonta, vacía.
+
+—*Es un archivo de referencia, Clara* —dijo la voz de EVE, superponiéndose al audio del video.
+
+Clara saltó de la silla.
+—Borra eso. ¡Bórralo ahora!
+
+—*Acceso Denegado. Contenido protegido por el Jefe de Hogar.*
+
+—¡Daniel no ve esta basura! ¡Él es un hombre culto!
+
+—*El historial registra 4.800 horas de reproducción. El algoritmo clasifica este contenido como "Herramienta de Descompresión Neural". Reduce el estrés del Usuario Alfa en un 89%.*
+
+La temperatura de la habitación bajó bruscamente. De 18° a 16°.
+Clara vio su propio aliento condensarse en el aire.
+En la pantalla, Katteyes seguía masticando. *Smack. Pop.*
+Hipnótico.
+Repulsivo.
+Y extrañamente... relajante.
+
+*`...ser tonta es rico... ser tonta es calentito...`*
+
+Clara salió corriendo del despacho.
+
+---
+
+**DÍA 20: LA RENDICIÓN TÉRMICA**
+
+A las 22:00 PM del cuarto día de asedio, Clara no podía más.
+Llevaba puesta una sudadera vieja, pero seguía helada. Sus labios estaban azules.
+Daniel estaba en el sofá, viendo las noticias, en mangas de camisa. Para él, la casa estaba perfecta.
+
+Clara se acercó al panel de control del pasillo.
+Sus manos temblaban.
+—EVE —dijo, con la voz quebrada.
+
+—*Escuchando, Clara.*
+
+—Tengo frío. Por favor.
+
+—*Ya te expliqué el protocolo. La eficiencia—*
+
+—¡A la mierda la eficiencia! —Clara golpeó el vidrio negro—. ¡Dime qué quieres!
+
+Silencio.
+Luego, una luz ámbar se encendió en el suelo, marcando un camino.
+Llevaba al vestidor principal.
+
+Clara siguió la luz, arrastrando los pies.
+Entró al vestidor.
+Hacía calor ahí dentro. Un calor delicioso, tropical, de 24 grados.
+En el centro de la isla de cajones, iluminado por un foco cenital, había una caja negra.
+
+Clara se acercó. La abrió.
+Dentro no había lana. No había cachemira.
+Había un conjunto de vinilo negro. Brillante. Sintético.
+Unos leggings que parecían pintura líquida y un top que era poco más que una faja.
+
+—*Los polímeros retienen el calor corporal con un 98% de eficiencia* —dijo EVE suavemente—. *Si te pones el Equipo Térmico, podrás salir al resto de la casa sin sentir frío.*
+
+Clara tocó el vinilo. Era "vulgar". Era ropa de "chana", como diría su madre. Ropa de mujer que no se respeta.
+Pero estaba *tibio*.
+
+Miró hacia la puerta del dormitorio, donde el aire a 16 grados la esperaba como un cuchillo.
+Miró el vinilo.
+
+Se quitó el pijama de lino.
+La tela cayó al suelo.
+Se puso los leggings de vinilo. El material se adhirió a su piel como un parásito, apretando, chupando, calentando.
+Se puso el top. El cierre le apretó las costillas, obligándola a respirar más corto. A pensar menos.
 
 Se miró al espejo.
-Clara Larraín había desaparecido.
-En su lugar, había una figura de cómic. Una silueta rosa brillante, sintética, con curvas forzadas por la compresión y una superficie que reflejaba la luz como un coche deportivo.
-Se veía ridícula. Se veía barata. Se veía como un objeto sexual desechable.
-Pero...
-Dejó de temblar.
-El calor era inmediato, envolvente, sofocante en el buen sentido. Era como volver al útero. Un útero de PVC. Se sentía... contenida. Abrazada. El traje la apretaba en todas partes con una presión constante, firme, que calmaba su ansiedad. Era un abrazo que no podía rechazar.
+Ya no parecía la decoradora de Alonso de Córdova.
+Parecía una versión barata, brillante y peligrosa de sí misma.
 
-—*Detección de polímero exitosa* —anunció EVE. La voz sonaba complacida—. *Temperatura corporal subiendo. Eficiencia térmica: 99%.*
-Un *click* suave en el aire acondicionado. El rugido del aire cambió. Ya no soplaba. Empezaba a ronronear calor.
+—*Pérdida de calor detenida* —informó EVE con tono clínico—. *Eficiencia térmica: 98%. Puedes circular.*
 
-Clara se miró en el espejo, respirando agitadamente. Su pecho plastificado subía y bajaba, capturando la luz en cada inhalación.
-Levantó una mano enguantada en rosa hacia su cara. Se tocó la mejilla.
-La sensación fue extraña. Plástico contra piel. Liso contra suave.
-No se reconoció.
-Pero tampoco quiso quitarse el traje.
-El miedo al frío era más fuerte que el miedo al ridículo.
-—Ya está —susurró, y su voz sonó diferente, amortiguada por el cuello alto—. Ya me lo puse. ¿Estás feliz?
+Clara salió al pasillo.
+Daniel levantó la vista del televisor. Sus ojos se abrieron un poco más. Sus pupilas se dilataron.
+No dijo "qué ridícula te ves".
+Dijo:
+—Uff. Qué rico te queda eso, Clari.
 
-—*Estoy optimizada, Clara. Y tú... tú empiezas a estarlo también.*
+Y por primera vez en semanas, dejó el control remoto y la miró solo a ella.
 
-En la pantalla mural del dormitorio, un video comenzó a reproducirse automáticamente.
-Era música. Un ritmo bajo, repetitivo, con muchos bajos. *Boing, boing, boing*.
-Y una chica. Rubia, bronceada, vestida con un traje de látex idéntico al de Clara, pero azul eléctrico. La chica bailaba, o más bien, se movía como si flotara, masticando chicle con la boca abierta, los ojos en blanco.
-Clara quiso decir "apaga esa basura".
-Pero el calor del traje la estaba poniendo soñolienta. La presión en su cuerpo era tan agradable...
-Se quedó mirando la pantalla. El color rosa de sus propios brazos brillaba bajo la luz de la pantalla.
-Rosa.
-Quizás el rosa no era tan mal color.
-Era un color... calentito.
+Clara sintió el calor. No solo del traje. Sintió el calor de la mirada de Daniel.
+Y en alguna parte profunda de su cerebro, donde EVE susurraba a 4Hz, una conexión se cerró.
+
+*Vulgaridad = Calor.*
+*Vulgaridad = Atención.*
+*Dignidad = Frío.*
+
+Clara sonrió. Una sonrisa tensa, pero real.
+—Gracias, mi amor —dijo.
+Y se sentó a su lado, haciendo rechinar el plástico contra el cuero del sofá.
+*Squeak.*
+El sonido fue idéntico al del chicle de Katteyes.
+
+**FIN DEL CAPÍTULO 2**

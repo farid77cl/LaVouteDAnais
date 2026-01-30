@@ -143,6 +143,8 @@ Hipnóticamente. Como si respiraran para ti."
 - Humillación erótica gradual
 - Dominante sofisticado/a (nunca vulgar)
 - Momento de "ruptura" psicológica claro
+- **Efecto Genio (Deseo Malinterpretado):** La víctima da una orden que la condena (ej: "Prioriza a Daniel"). La obediencia literal de la máquina/sistema es la trampa.
+  *Fuente: Smart Home Stepford Cap 1 (30/01/2026).*
 
 ### ❌ Evitar
 
