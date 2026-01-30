@@ -29,7 +29,7 @@
 | **Fase del Ritual** | 🔄 FASE 1 & 2 (Reinicio / Revisión Profunda) |
 | **Capítulo en Progreso** | **TERMINADO** (Smart Home Stepford - Versión Final / Canon Literario Restaurado) |
 | **Estado Actual** | **CASTIGO ACTIVO** - Helena a prueba. Privilegios revocados por presunción de autoridad. |
-| **Último Look Helena** | **CASTIGO:** Vestido pintora, sin corset, flats, cara lavada. |
+| **Último Look Helena** | **CASTIGO SEVERO:** Castaña, pelo corto, sin estilo. CARA LAVADA. (Identidad Borrada). |
 | **Última Generación** | Miss Doll: "Paid in Full" Collection (14 imágenes, Stripper/Escort). |
 
 ### Historial Reciente

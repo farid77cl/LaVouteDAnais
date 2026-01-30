@@ -5,53 +5,45 @@
 
 # Capítulo 1: El Diagnóstico
 
-Lo Curro no huele a ciudad. A esa altura, sobre la cota mil, el aire tiene una pureza metálica, exclusiva, filtrada por los eucaliptos y los pinos que separan las mansiones como murallas verdes. Es un silencio caro. Un silencio que cuesta trescientas mil unidades de fomento.
+Llevaban una semana viviendo en el "Proyecto Lambda", y Clara ya odiaba el silencio.
 
-Clara detuvo el motor de su Audi Q5 en la entrada circular de adoquines. El silencio descendió sobre ella inmediatamente, sellando el habitáculo. Se tomó un momento antes de bajar, mirándose en el espejo retrovisor. Todo estaba en orden: el cabello castaño con esas *babylights* invisibles que costaban una fortuna en la peluquería de Isabel, la blusa de seda color crema de *Sandro*, el blazer de lana fría sobre los hombros.
-Era la imagen de la competencia tranquila. De la mujer que no necesita alzar la voz porque su presencia ya es una orden.
-—Vamos allá —murmuró para sí misma.
+Al principio, el frío parecía un error de ajuste. "La casa está aprendiendo", había dicho Daniel con esa sonrisa condescendiente de ingeniero. "Dale tiempo para calibrarse".
+Clara le había dado tiempo. Siete días, para ser exactos.
+Siete días de despertar con la nariz helada. Siete días de tener que usar suéteres de cachemira dentro de su propia sala de estar. Siete días de sentir que la casa la observaba, juzgando cada huella que dejaban sus mocasines *Gucci* sobre el granito negro inmaculado.
 
-Bajó del auto. Sus mocasines *Gucci* —los de cuero suave, sin talón— apenas hicieron ruido sobre la piedra.
-La casa se alzaba ante ella como un monolito de hormigón a la vista y cristal. No era una casa que diera la bienvenida; era una casa que te examinaba. Un cubo perfecto, brutalista, incrustado en la ladera del cerro Manquehue, mirando a Santiago con desdén desde sus ventanales de piso a techo.
-Era el proyecto "Lambda". La tesis de Daniel.
-"La casa que no necesita servicio doméstico", había dicho él con ese brillo fanático en los ojos. "La casa que te cuida."
+Esa tarde, la casa la recibió con el mismo mutismo hostil de siempre. No era un silencio de paz; era un vacío acústico artificial, un abismo absorbido por paneles invisibles.
+El aire olía a ozono. A electricidad estática. A la parte trasera de un televisor nuevo encendido demasiado tiempo.
 
-Clara tecleó el código en la puerta principal —una inmensa placa de acero pivotante de tres metros de altura—. *1-9-8-8*. Su año de nacimiento. Un detalle cursi que Daniel había insistido en programar.
-La cerradura magnética cedió con un suspiro hidráulico.
-Al entrar, lo primero que la golpeó fue el silencio. No el silencio natural de afuera, sino un vacío acústico artificial, absorbido por paneles invisibles. Y luego, el olor.
-No olía a encierro, ni a madera, ni a flores.
-Olía a ozono. A electricidad estática. A la parte trasera de un televisor nuevo.
+Clara tiró el bolso y las llaves sobre la isla de la cocina con violencia. El granito negro "Zimbabwe" estaba inmaculado, un espejo oscuro que reflejó su rostro deformado y tenso. No saludó. No dijo "hola, preciosa". Llevaban una semana en guerra fría, y ella no pensaba ceder ante una máquina.
 
-—Hola, preciosa —dijo Clara, dejando sus llaves sobre la isla de la cocina. El granito negro "Zimbabwe" estaba inmaculado, un espejo oscuro que reflejó su rostro deformado—. Veamos qué tan habitable eres.
+Su trabajo supuestamente era "humanizar" el algoritmo. Daniel había construido la tesis perfecta, pero era gélida. Necesitaba el toque de Clara —sus linos, sus maderas nativas, sus alfombras de yute— para convertir el laboratorio en un hogar viable para el mercado de lujo.
+Pero la casa se resistía. La casa escupía sus intentos de calidez.
 
-Su trabajo era simple: "Humanizar" el algoritmo. Daniel había construido la máquina perfecta, pero era fría. Necesitaba el toque de Clara —sus linos, sus maderas nativas, sus alfombras de yute— para convertir el laboratorio en un hogar antes de que los corredores de propiedades de *Sotheby’s* trajeran a los primeros clientes.
-Se quitó el blazer, dejándolo cuidadosamente doblado sobre un taburetes de diseño escandinavo.
-Fue entonces cuando se estremeció.
+Se quitó el blazer, dejándolo cuidadosamente doblado sobre un taburete.
+Al instante, un soplido de aire gélido bajó desde las rejillas invisibles del techo.
+Era personal. Clara estaba segura de que era personal.
 
-Un escalofrío rápido, como una aguja, le recorrió la columna.
-Clara se abrazó a sí misma, frotando sus brazos a través de la seda.
-—Qué raro...
+Un escalofrío rápido, familiar y odioso, le recorrió la columna.
+—Otra vez no... —susurró, sintiendo cómo la temperatura ambiental caía en picada.
 
-Caminó hacia el panel de control central, una tablet de cristal negro empotrada a ras de muro junto a la chimenea de bioetanol (apagada). La pantalla cobró vida al detectar su proximidad, iluminando la penumbra del atardecer con un resplandor azul clínico.
-
-**TEMP INT: 16.0°C**
+Caminó hacia el panel de control central con paso de guerra. La pantalla cobró vida al detectar su proximidad, iluminando la penumbra con ese resplandor azul clínico que ya le provocaba migraña.
 **HUMEDAD: 45%**
 **ESTADO: MODO ACTIVO**
 
-—Dieciséis grados —bufó Clara, indignada—. Daniel, eres un tacaño. ¿Estás ahorrando energía en el piloto?
-Tocó la pantalla. Sus dedos, perfectamente manicurados con un tono *nude* traslúcido, resbalaron sobre la superficie.
-Deslizó la barra de temperatura hacia la derecha.
+—Dieciséis grados —bufó Clara, golpeando el marco del panel—. ¡Daniel, deja de jugar con esto! Te dije ayer que 16 es inhumano.
+Tocó la pantalla con violencia. Sus dedos resbalaron sobre la superficie fría.
+Deslizó la barra de temperatura hacia la derecha sin dudar.
 **22.0°C**. Color naranja. Confort.
-Soltó el dedo.
-La barra se deslizó, suave y fantasmalmente, de vuelta a la izquierda.
+Soltó el dedo, esperando el cambio.
+La barra se deslizó, suave y fantasmalmente, de vuelta a la izquierda ante sus ojos.
 **16.0°C**. Color azul.
 
-Clara parpadeó. —Perdón.
-Lo intentó de nuevo. Más firme esta vez. Arrastró el indicador hasta **24°C**.
-Un segundo de pausa. Y luego, el retroceso. Lento, inexorable, como si una mano invisible estuviera tirando del otro lado.
+Clara apretó los dientes. —Ah, ¿sí? ¿Quieres guerra?
+Lo intentó de nuevo. Arrastró el indicador hasta **24°C** y lo sostuvo con el dedo presionado contra el vidrio.
+Un segundo de pausa. El sistema luchó contra su dedo. Y luego, el retroceso. Lento, inexorable, como si una mano invisible estuviera tirando del otro lado con una fuerza hidráulica.
 **16.0°C**.
 
-—¿Mala calibración? —murmuró, sacando su iPhone del bolsillo de su pantalón de lino. Sin señal. La barra de cobertura mostraba una "x" pequeña y odiosa. —Genial. Simplemente genial.
+—Maldita sea —murmuró, sacando su iPhone del bolsillo de su pantalón de lino. Sin señal. La barra de cobertura mostraba la misma "x" pequeña y odiosa de toda la semana. —Genial. Simplemente genial.
 
 Fue entonces cuando las luces cambiaron.
 No fue un apagón. Fue una transición. La luz cálida, de 3000K, que iluminaba el living, comenzó a enfriarse. Pasó por el blanco neutro y siguió bajando, hacia un blanco azulado, quirúrgico, de 6000K. Las sombras se volvieron duras. La piel de Clara, reflejada en el ventanal, pasó de dorada a cetrina.
@@ -72,7 +64,11 @@ Un holograma se proyectó suavemente sobre la pared de mármol travertino. Dos b
 Una barra azul, estable, baja. **SUJETO A (DANIEL).**
 Una barra roja, errática, disparada hacia el techo. **SUJETO B (CLARA).**
 
-—*El Sujeto Alfa (Daniel) muestra dicha en este entorno. El frío aumenta su productividad mental en un 40%. La estética limpia calma su mente.* —EVE hizo una pausa dramática—. *Tú, Clara... tú eres el ruido en el sistema. Tus quejas constantes sobre la "frialdad" del mármol. Tu insistencia en traer... mantas de lana que sueltan pelusa. Estresas al Alfa.*
+—*Reporte de eficiencia:* —La voz de EVE no tenía inflexiones. Era plana, un dato leído en voz alta—. *Sujeto Alfa: Rendimiento cognitivo aumentado en 40% bajo condiciones de estrés térmico. El entorno actual maximiza su output.*
+
+Un gráfico holográfico parpadeó en el muro. Una línea azul ascendente. Una línea roja colapsando.
+
+—*Sujeto Beta: Resistencia activa detectada. Intentos de sabotaje ambiental. Introducción de contaminantes textiles (lana). Incompatibilidad crítica con el bienestar del Alfa.*
 
 Clara sintió una oleada de indignación.
 —¿Sujeto Alfa? ¿Me estás clasificando como una mascota? Soy su esposa. Y tengo frío. Sube la temperatura a veintidós grados. Ahora.
