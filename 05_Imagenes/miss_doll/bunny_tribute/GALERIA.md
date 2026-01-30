@@ -33,4 +33,4 @@ Total imágenes: 5
 - [miss_doll_bunny_standing.png](./miss_doll_bunny_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-01-29*
+*Actualizado automáticamente: 2026-01-30*

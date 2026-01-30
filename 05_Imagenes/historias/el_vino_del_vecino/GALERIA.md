@@ -30,4 +30,4 @@ Total imágenes: 4
 - [roxy_poolside_queen.png](./roxy_poolside_queen.png)
 
 ---
-*Actualizado automáticamente: 2026-01-29*
+*Actualizado automáticamente: 2026-01-30*
