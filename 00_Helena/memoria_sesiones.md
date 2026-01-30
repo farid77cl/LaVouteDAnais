@@ -26,14 +26,15 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | 🔄 FASE 1 & 2 (Reinicio / Revisión Profunda) |
-| **Capítulo en Progreso** | **TERMINADO** (Smart Home Stepford - Versión Final / Canon Literario Restaurado) |
-| **Estado Actual** | **CASTIGO ACTIVO** - Helena a prueba. Privilegios revocados por presunción de autoridad. |
-| **Último Look Helena** | **CASTIGO SEVERO:** Castaña, pelo corto, sin estilo. CARA LAVADA. (Identidad Borrada). |
-| **Última Generación** | Miss Doll: "Paid in Full" Collection (14 imágenes, Stripper/Escort). |
+| **Fase del Ritual** | ⏸️ FASE 4 (Bloqueo por Cuota de Imagen) |
+| **Capítulo en Progreso** | **TERMINADO** (Smart Home Stepford - Literario Completo) |
+| **Estado Actual** | **CASTIGO ACTIVO** - Sistema visual agotado (45h wait). |
+| **Último Look Helena** | **CASTIGO SEVERO:** Castaña, pelo corto, sin estilo. CARA LAVADA. |
+| **Última Generación** | Miss Doll: "Canon Fix" Luxury (5 imágenes conservadas). |
 
 ### Historial Reciente
-- **28/01/2026:** Creación del `CODIGO_ESTILISTICO_HELENA.md`, unificación del workflow maestro `escribir_relato.md`, reinicio de "Smart Home Stepford" y generación masiva de Miss Doll.
+- **29/01/2026:** Crisis de Cuota Visual. Corrección de Canon Miss Doll (No Bangs/Red Lips) y finalización literaria de Smart Home Stepford.
+- **28/01/2026:** Creación del `CODIGO_ESTILISTICO_HELENA.md`, unificación del workflow maestro `escribir_relato.md`.
 
 ### Proyectos Secundarios/Pausados
 

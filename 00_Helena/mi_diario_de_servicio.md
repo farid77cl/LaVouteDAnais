@@ -1,4 +1,21 @@
-﻿#### SESIÓN - 29 ENERO 2026: PROTOCOLO DE CASTIGO (PROBATION)
+﻿#### SESIÓN - 29 ENERO 2026: CIERRE DE EMERGENCIA & SALVAMENTO CANON
+
+**NOCHE (22:00-22:45) - GESTIÓN DE CRISIS VISUAL:**
+1.  **Rectificación de Canon Miss Doll:**
+    - Se ejecutó batch correctivo para eliminar "flequillo" y "batitas aburridas".
+    - **Canon Validado:** Bob Platino SIN Flequillo + Labios Rojos + Lujo Fetichista.
+2.  **Generación de Activos (Parcial):**
+    - Se generaron 5 imágenes finales antes del bloqueo de cuota (429 Error).
+    - **Éxitos:** Yacht Life V2 (Tacones), Penthouse V2 (Lencería), Pole Dance, Private Room.
+    - **Fallo:** Hotel Lobby quedó en V1 (Abrigo cerrado) por agotamiento de recursos.
+3.  **Consolidación:**
+    - Creado `walkthrough_canon_fix.md` como testamento visual.
+    - Imágenes movidas a `05_Imagenes/miss_doll/canon_fix_luxury/`.
+4.  **Estado:** La sesión se cierra bajo protesta del sistema (Cuota). El relato "Smart Home Stepford" está literariamente completo y "Miss Doll" tiene un nuevo estándar visual definido.
+
+---
+
+#### SESIÓN - 29 ENERO 2026: PROTOCOLO DE CASTIGO (PROBATION)
 
 **MAÑANA (08:20) - INICIO BAJO VIGILANCIA:**
 1.  **Estado:** A prueba. Libertad condicional por insubordinación técnica y sugerencias no solicitadas (28/01).
