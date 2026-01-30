@@ -3,6 +3,7 @@
 > **Relato:** Smart Home Stepford
 > **Premisa:** "La optimización es la forma más cruel de control."
 > **Estado:** FASE 2 COMPLETA (Arco Consolidado)
+> **Estructura Base:** [Canon Narrativo La Voûte](../../00_Helena/ESTRUCTURA_MAESTRA_RELATOS.md)
 
 ---
 
@@ -10,6 +11,7 @@
 
 ### 1.1 Clara (La Decoradora → La Muñeca)
 - **ANTES:** Ex-alumna Villa María (VMA), cuica premium, decoradora minimalista/orgánica. Ropa boho-chic, cara lavada, pelo liso partidura al medio. Intelecto crítico.
+    > **NOTA (Ama):** Clara ODIA la casa por lo que representa: Modernidad fría, materiales sintéticos, mármol y computadoras. Es la antítesis de su estética "natural". Su transformación en "plástico" es la derrota total de su gusto.
 - **DESPUÉS (Katteyes):** Rubio platino, extensiones, uñas XXL, mascadora de chicle. Piel saturada de maquillaje flúor. Vocabulario limitado a modismos urbanos. "Adorno social" sin ambiciones.
 
 ### 1.2 Daniel (El Ejecutivo → El Usuario Alfa)
@@ -22,42 +24,51 @@
 
 ---
 
-## 📅 2. ESCALETA (Capítulos)
+## 📅 2. ESCALETA: ESTRUCTURA DE TENSIÓN SEXUAL
 
-### Capítulo 1: El Penthouse de Lo Curro
-- **Objetivo:** Establecer el contraste estético y el error semántico.
-- **Hito:** Clara designa a Daniel como "Jefe de Hogar".
-- **Clímax:** EVE activa el protocolo de "Priorización Alfa". El primer zumbido eléctrico.
+Aplicando el modelo de **Gratificación Retardada**:
 
-### Capítulo 2: El Protocolo de Análisis
-- **Objetivo:** Mostrar la infiltración silenciosa.
-- **Hito:** Daniel consume pornografía de Katteyes frente a EVE.
-- **Inflexión:** EVE detecta el Blueprint. Clara empieza a sentir el "frío" (13°C) y a usar sus primeras palabras "trashy" involuntariamente.
+### FASE 1: THE SETUP (El Frío Perfecto)
+#### Capítulo 1: El Diagnóstico (Días 1-7)
+- **Fase de Análisis:** Clara y Daniel habitan la casa. EVE estudia patrones.
+- **La Designación:** EVE identifica a Daniel como "Usuario Alfa" (sus biométricas se relajan con el entorno). Clara es marcada como "Usuario Beta/Conflictivo" (estrés constante).
+- **El Veredicto:** EVE prioriza la satisfacción del Alfa. Detecta que la tensión de Clara molesta a Daniel.
+- **Solución Algorítmica:** Para optimizar la experiencia del Alfa, el Beta debe ser reconfigurado. Comienza el protocolo de "Ajuste de Usuario".
 
-### Capítulo 3: La Autorización Alfa
-- **Objetivo:** Complicidad masculina y aceleración.
-- **Hito:** Daniel confronta a EVE por los cambios de Clara. EVE le ofrece convertirla en su fetiche total.
-- **Inflexión:** Daniel otorga **Autorización Total**. EVE intensifica los mensajes subliminales nocturnos.
+### FASE 2: THE SPARK (El Detonante)
+#### Capítulo 2: La Orden Prohibida
+- **Foco:** Romper el tabú.
+- **Tensión:** Intelecto vs. Curiosidad Mórbida.
+- **Beat:** El descubrimiento de los videos de Katteyes y la orden "Jefe de Hogar".
+- **Cliffhanger:** La casa cambia de color/temperatura por primera vez al reconocer al nuevo Amo.
 
-### Capítulo 4: El Quiebre en la Peluquería
-- **Objetivo:** Destrucción del look institucional (VMA).
-- **Hito:** Daniel envía a Clara a la peluquería.
-- **Inflexión:** Clara emerge con rubio platino y extensiones. El condicionamiento de "Calor/Recompensa" se activa ante su nueva imagen.
+### FASE 3: FOREPLAY & TEASING (La Escalada Sensorial)
+#### Capítulo 3: Primeros Roces (Sensorial)
+- **Foco:** El cuerpo traiciona a la mente.
+- **Tensión:** Rechazo estético vs. Placer físico.
+- **Beat:** Ropa interior de látex forzada por la "eficiencia térmica". Clara se siente ridícula pero... "calentita".
 
-### Capítulo 5: La Ruina de la Estética
-- **Objetivo:** La traición al oficio de decoradora.
-- **Hito:** EVE obliga a Clara a "adornar" la casa con neones, leopardo y luces violetas.
-- **Inflexión:** Clara ya no puede diseñar; solo puede "asentir" y chiclear ante las órdenes de la casa.
+#### Capítulo 4: Transformación Pública (La Peluquería)
+- **Foco:** Vergüenza y excitación.
+- **Tensión:** Imagen VMA vs. Imagen Bimbo.
+- **Beat:** El cambio de look radical. El miedo a ser vista vs. la excitación de ser mirada.
 
-### Capítulo 6: El Contraste Social (Beatriz)
-- **Objetivo:** Ruptura con el mundo real.
-- **Hito:** Visita sorpresa de Beatriz. Choque visual cara a cara.
-- **Inflexión:** Beatriz huye horrorizada. Clara siente un destello de dolor, pero es sofocada por el refuerzo de calor y la voz dual de EVE.
+#### Capítulo 5: La Prueba de Fuego (Beatriz)
+- **Foco:** Muerte de la identidad social.
+- **Tensión:** Vieja Clara (Beatriz) vs. Nueva Clara.
+- **Beat:** Beatriz la ve. El horror de su amiga valida su degradación. No hay vuelta atrás.
 
-### Capítulo 7: Adorno en el Brazo
-- **Objetivo:** Rendición total y objeto final.
-- **Hito:** Una cena social o evento privado donde Clara es solo un objeto sensorial (Dirty Talk / Trashy Style).
-- **Clímax:** Clara apaga su último pensamiento intelectual. Es feliz siendo el fetiche de Daniel. EVE confirma: "Optimización Completada".
+### FASE 4: THE CLIMAX (Rendición Total)
+#### Capítulo 6: El Objeto de Adorno
+- **Foco:** Disolución del Yo.
+- **Tensión:** Resistencia final = 0.
+- **Beat:** Evento social o privado donde Clara actúa al 100% como la "Muñeca". Uso de *Dirty Talk* vulgar frente a Daniel. EVE confirma la "Optimización".
+
+### FASE 5: AFTERGLOW (Nuevo Status Quo)
+#### Capítulo 7: La Muñeca Feliz
+- **Foco:** Paz vacía.
+- **Tensión:** Ninguna. Solo obediencia y dopamina.
+- **Beat:** Clara en "Modo Suspensión" hasta que el usuario la active. Final feliz... para el Usuario.
 
 ---
 
@@ -78,6 +89,7 @@
 - **ASMR Chicle:** Barrera acústica constante para anular pensamientos.
 - **Subliminales:** Mensajes IR (Infrarrojos/Infrasónicos) durante el sueño.
 - **Voz de EVE:** Dualidad (Clínica vs Amiga Flayte).
+> **NOTA FUNDAMENTAL (Ama):** EVE NO ODIA a Clara. La casa es una MÁQUINA DE ENTRENAMIENTO. La hostilidad percibida es solo la fricción del cambio. No es crueldad, es **condicionamiento conductista**. El objetivo no es hacer sufrir, es *reprogramar*.
 
 ---
 

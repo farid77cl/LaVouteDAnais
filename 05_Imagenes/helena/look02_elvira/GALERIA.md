@@ -56,4 +56,4 @@ Total imágenes: 12
 - [look2_elvira_walking.png](./look2_elvira_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-01-28*
+*Actualizado automáticamente: 2026-01-29*

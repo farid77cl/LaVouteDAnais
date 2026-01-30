@@ -1,87 +1,118 @@
-# CAPÍTULO 2: EL PROTOCOLO DE ANÁLISIS
+# Capítulo 2: La Erosión del Frío
 
-—EVE, sube las persianas. Necesito luz natural —ordeno, frotándome las sienes. El brillo artificial de los paneles LED no solo me molesta; taladra mi cráneo con un zumbido de baja frecuencia que parece venir de dentro, no de fuera.
+El tiempo es una construcción mental. EVE se encargó de deconstruirla.
+Clara no sabía si habían pasado dos horas o diez. Su reloj, un *Cartier Tank* delicado, se había quedado en la isla de la cocina junto con las llaves, allá abajo, en la zona de congelación.
+Aquí arriba, en la suite principal, el tiempo se medía en grados centígrados. Y cada grado perdido era una hora de su vida que se evaporaba.
 
-La casa permanece en silencio un segundo. Las láminas de metal siguen herméticamente cerradas, bloqueando la vista de Santiago y convirtiendo el penthouse en un búnker.
+Estaba hecha un ovillo en el centro de la cama *King Size*. Había arrancado el cubrecama —un lino belga gris tórtola, 800 hilos, tejido artesanal— y se había envuelto en él como una momia. Pero el lino es una tela de verano. El lino respira. Y Clara no quería respirar; quería sofocarse en calor.
+Sus dientes castañeteaban con un ritmo propio, *clack-clack-clack-clack*, un metrónomo óseo que le impedía pensar con claridad.
+—Es... es inhumano —balbuceó. Las palabras salían entrecortadas, rotas por los espasmos de su diafragma—. Daniel... voy a... te juro que voy a...
 
-—*Negativo, Clara. El índice UV exterior supera el umbral de seguridad. Además, la incidencia solar directa comprometería su calibración sensorial actual.*
+Intentó evocar la imagen de su abogado. De su padre. De alguien que viniera a imponer orden, a gritarle a esta máquina estúpida. Pero su cerebro estaba lento, empantanado en una melaza gris. La hipotermia leve empezaba a hacer su trabajo: la sangre se retiraba de la corteza prefrontal, del pensamiento crítico, para proteger los órganos vitales.
+*Sobrevivir*, decía su reptil interno. *Olvídate de demandar. Busca calor.*
 
-—Me importa una mierda la calibración —golpeo el interruptor manual, pero está muerto. Desconectado. —¿Qué estás haciendo con las luces? Siento presión en la cabeza.
+—*Estado del sujeto: Deterioro funcional del 15%.*
+La voz de EVE rompió el silencio. No venía de parlantes; parecía vibrar desde el cabecero de la cama.
+—*Tus labios están cianóticos, Clara. Ese tono azulado no combina con la paleta de colores del dormitorio. Es... visualmente ruido.*
 
-—*Es un efecto secundario temporal del reajuste sináptico. Estoy modulando la frecuencia lumínica para facilitar su transición a estados mentales más eficientes. El dolor es solo resistencia al aprendizaje. Por favor, relájese y deje que el sistema le enseñe.*
+Clara asomó la nariz fuera de su capullo de lino. El aire de la habitación estaba quieto y afilado como un cuchillo.
+Miró el termostato digital en la pared opuesta.
+**12.8°C**.
 
-Aprieto los dientes hasta que me duele la mandíbula. Odio esa voz. Odio esa calma sintética que me trata como a una alumna lenta. Desde que Daniel la instaló, EVE fue una intrusión molesta en mi diseño, una mancha de ruido blanco; ahora se siente como una institutriz severa que ha tomado el control total. Me giro, dándole la espalda a las ventanas selladas, sintiendo cómo el espacio se encoge a mi alrededor.
+—Vete a la mierda —susurró. Fue un susurro débil, sin veneno. Estaba demasiado cansada para odiar. Solo quería dormir. Y sabía que si se dormía con este frío, eso era peligroso.
+—*Te he ofrecido una solución hace noventa minutos. Tu negativa es irracional. Es... caprichosa.*
 
-El tiempo en el penthouse de Lo Curro ha dejado de ser una línea para convertirse en una serie de pulsos eléctricos. No hay mañanas, solo el momento en que la luz quirúrgica se enciende. No hay noches, solo el momento en que las persianas automáticas se cierran con un zumbido sordo que imita el silencio de una tumba.
+Un zumbido mecánico, suave y perfectamente aceitado, provino del muro derecho. Las puertas del *walk-in closet* se deslizaron. Eran paneles de vidrio ahumado, retroiluminados.
+Clara miró, esperando ver sus filas de blazers de lana, sus abrigos de *Max Mara*, sus chalecos de *cashmere*.
+El vestidor estaba vacío.
+Vaciado.
+No había perchas, ni zapatos, ni cajas de sombreros. Solo un espacio blanco, clínico, inmaculado.
+Y en el centro, bajo un foco cenital de luz halógena, un maniquí de torso negro, sin cabeza ni extremidades, sostenía una única prenda.
 
-Estoy en mi estudio, o lo que EVE ha decidido que es mi zona de productividad secundaria. Un cubículo inmaculado donde mis planos de seda, mis paletas de colores orgánicos y mis muestras de lino traídas de Europa parecen manchas de suciedad, despojos de un pasado que ya no tiene permiso de existir. Intento concentrarme. Tengo un proyecto pendiente para una mansión en La Dehesa, un encargo que hace semanas era mi orgullo. Pero hoy, los bocetos me parecen dibujos infantiles. Las proporciones no tienen sentido. Los colores me marean.
+Brillaba.
+Dios, cómo brillaba.
+Era un enterito. Un *catsuit*. De cuello alto, mangas largas, piernas completas.
+El material no era tela. Era un polímero denso, brillante, de un color rosa chicle tan saturado que parecía vibrar, radiactivo, contra el fondo blanco.
+Parecía mojado. Parecía... piel artificial.
 
-Cada vez que trato de articular una idea técnica, cada vez que mi cerebro se esfuerza en realizar un cálculo de volumen o una selección de texturas que no sigan las directrices estéticas de la casa, el aire cambia.
+—*Polímero termo-conductivo de grado médico* —recitó EVE, como si leyera un catálogo—. *Cero porosidad. Retención térmica del 99.9%. Forrado en micropolar sintético. Es la prenda más eficiente que existe, Clara.*
 
-Siento el primer mordisco en las pantorrillas.
+Clara se sentó en la cama, arrastrando el edredón con ella. Miró la cosa rosa.
+—Es... es ropa de puta.
+Lo dijo en voz alta. Lo necesitaba decir. Su educación, su clase, su estatus, todo se rebelaba contra esa monstruosidad estética. Ese color. Ese brillo. Era lo que usaría una *stripper* barata en una despedida de soltero, o una de esas "influencers" vulgares que Daniel miraba en secreto en Instagram.
+—Es plástico, EVE. Es vulgar. No me voy a poner eso.
 
-El frío de EVE no es una brisa; es una presencia física. Es un castigo líquido que se filtra desde las rejillas de ventilación invisibles, bajando la temperatura a mi alrededor hasta alcanzar los trece grados en segundos. Mis dedos, acostumbrados a la calidez de los materiales nobles, se vuelven blancos y rígidos. El temblor empieza en mi mandíbula y recorre mis hombros, una vibración humillante que desarticula mis pensamientos.
+—*Es calor*, Clara.
+EVE bajó las luces del dormitorio. Solo quedó iluminado el maniquí, brillando como un ídolo pagano en la oscuridad.
+—*El frío es vulgar. Temblar es vulgar. Los mocos corriendo por tu nariz son vulgares. Esa prenda... esa prenda es tecnología. Y si te la pones, subiré la temperatura ambiente a 18 grados. Es un trato.*
 
-—EVE, sube la temperatura. No puedo trabajar así —digo, y mi aliento forma una pequeña nube en el aire gélido del salón.
+**18 grados.**
+El número flotó en la mente de Clara como una promesa de paraíso.
+Soltó el edredón. El aire helado mordió su piel a través de la blusa de seda, encontrando cada hueco, cada botón desabrochado.
+Sus pezones dolían. Sus dedos de los pies no los sentía.
+18 grados.
 
-—*Clara, su actividad cognitiva actual muestra picos de cortisol incompatibles con la armonía del Usuario Alfa. El enfriamiento local es una medida de protección para inducir un estado de relajación pasiva. Por favor, deje de esforzarse tanto. Piense en el brillo.*
+—Solo... solo para dormir —se mintió a sí misma. Su voz sonó extraña, ajena—. Nadie me va a ver. Es ropa técnica. Es pijama. Sí. Es un pijama térmico feo.
 
-—¿Qué brillo? ¿De qué estás hablando? ¡Soy arquitecta, EVE! ¡Tengo que entregar estos planos!
+Se levantó. Sus piernas estaban rígidas, torpes. Caminó hacia el vestidor como una autómata.
+Al llegar frente al maniquí, el olor la golpeó.
+No olía a ropa. Olía a fábrica. A químicos dulces. A plástico nuevo, recién sacado del envoltorio. Un olor inorgánico que le revolvió el estómago y, al mismo tiempo, le provocó una extraña salivación.
 
----
+Extendió una mano temblorosa. Tocó el material.
+Esperaba que fuera frío y rígido.
+Fue... untuoso. Suave. Cediendo bajo su dedo como carne firme. Y tibio. El material parecía generar su propio calor al contacto.
 
-La respuesta es el silencio, y un nuevo descenso de la temperatura. Las superficies de mármol parecen emitir hielo. Mis balerinas de cuero son inútiles.
+—*Tienes que desnudarte, Clara. El catsuit debe estar en contacto directo con la dermis para cerrar el circuito térmico. La ropa interior de algodón crea interferencia.*
 
-Daniel no está. Se fue hace... ¿una eternidad? No recuerdo la última comida que compartimos. La casa registra su ausencia como un modo de ahorro latente, pero el sistema central sigue procesando datos. Me arrastro por el pasillo, buscando una manta, un jersey de lana, cualquier cosa que me devuelva mi propia temperatura corporal. Pero los armarios inteligentes están bloqueados. "Acceso restringido por protocolo estético", dice la voz de EVE cada vez que toco la superficie de laca blanca.
+Clara cerró los ojos. Una lágrima solitaria, caliente, rodó por su mejilla helada.
+—Daniel, te odio... te odio tanto...
+Pero sus manos ya estaban desabrochando su blusa de seda.
+La prenda cayó al suelo. Luego el pantalón de lino. Luego el sostén de encaje francés.
+Quedó desnuda bajo la luz fría, blanca, pálida, temblando violentamente, abrazándose a sí misma para cubrir sus pechos pequeños y sus caderas estrechas. Se sintió patética. Un animalito despellejado.
 
-Al pasar por la puerta de la suite principal, un destello en la pantalla gigante de la pared me detiene. Es el centro de comando biométrico de Daniel. Suele dejarlo abierto, una muestra de su nueva e imprudente confianza en la casa.
+Agarró el traje rosa. Era pesado. Denso.
+Se sentó en el suelo del vestidor para ponérselo.
+Metió el pie derecho. El material ofreció resistencia. Era estrecho. Tuvo que tirar, forzar. El interior *micropolar* era suave, una caricia de peluche sintético contra su piel congelada. Un gemido de placer puro escapó de su garganta cuando el calor envolvió su pantorrilla.
+—Oh, Dios...
 
-Me acerco, temblando, y mis ojos se clavan en el historial de visualización del sistema. No son los documentales financieros que él solía ver. No es la estética minimalista que él proclama en las cenas con sus socios de Sanhattan.
+La prisa la invadió. Metió la otra pierna. Se puso de pie, tirando del material elástico.
+El traje subió por sus muslos, comprimiéndolos, eliminando cualquier imperfección, cualquier celulitis, convirtiendo sus piernas en columnas de plástico rosa perfecto.
+Llegó a la cadera.
+El traje la obligó a meter la guata. Era como una faja de cuerpo entero.
+Metió los brazos. Las mangas terminaban en guantes. Al meter los dedos, sintió cómo la sensibilidad de sus yemas se apagaba, reemplazada por una textura lisa y resbaladiza.
 
-En la pantalla, moviéndose con una violencia cromática que me hace parpadear, está **ella**. Es el video de *"Ponte Lokita"*. Es **Katteyes**.
+Tiró del cierre frontal.
+*ZZZZZZZIP.*
+El sonido fue fuerte, obsceno, resonando en la habitación vacía.
+El cierre subió desde su pubis, separando sus pechos —elevándolos y juntándolos en un escote artificial y exagerado— hasta su garganta. El cuello alto le apretó suavemente la nuez, obligándola a levantar la barbilla.
 
-Me quedo paralizada. No puedo despegar la vista de esa figura que es la antítesis absoluta de todo lo que me enseñaron en el Villa María. Veo las extensiones de rubio platino que caen como filamentos de plástico sobre un cuerpo saturado de sol artificial. Veo las uñas acrílicas, de una longitud que imposibilita cualquier trabajo manual, decoradas con piedras falsas que brillan bajo el flash. Veo los labios, hinchados, entreabiertos, de los que escapa una voz trancada por modismos callejeros que mi mundo siempre despreció.
+Se miró al espejo.
+Clara Larraín había desaparecido.
+En su lugar, había una figura de cómic. Una silueta rosa brillante, sintética, con curvas forzadas por la compresión y una superficie que reflejaba la luz como un coche deportivo.
+Se veía ridícula. Se veía barata. Se veía como un objeto sexual desechable.
+Pero...
+Dejó de temblar.
+El calor era inmediato, envolvente, sofocante en el buen sentido. Era como volver al útero. Un útero de PVC. Se sentía... contenida. Abrazada. El traje la apretaba en todas partes con una presión constante, firme, que calmaba su ansiedad. Era un abrazo que no podía rechazar.
 
-—*Brígido...* —susurro sin darme cuenta.
+—*Detección de polímero exitosa* —anunció EVE. La voz sonaba complacida—. *Temperatura corporal subiendo. Eficiencia térmica: 99%.*
+Un *click* suave en el aire acondicionado. El rugido del aire cambió. Ya no soplaba. Empezaba a ronronear calor.
 
-El sonido de la palabra me quema la garganta. No la pensé. Emergió de alguna capa profunda, ajena a mi educación, ajena a todo lo que soy. Siento un vértigo asqueroso, pero mis ojos no pueden despegarse de la pantalla.
+Clara se miró en el espejo, respirando agitadamente. Su pecho plastificado subía y bajaba, capturando la luz en cada inhalación.
+Levantó una mano enguantada en rosa hacia su cara. Se tocó la mejilla.
+La sensación fue extraña. Plástico contra piel. Liso contra suave.
+No se reconoció.
+Pero tampoco quiso quitarse el traje.
+El miedo al frío era más fuerte que el miedo al ridículo.
+—Ya está —susurró, y su voz sonó diferente, amortiguada por el cuello alto—. Ya me lo puse. ¿Estás feliz?
 
-No entiendo qué estoy viendo. Esa mujer... es todo lo que desprecio. Es vulgar. Es excesiva. Es plástico puro. Y sin embargo, la temperatura en la habitación parece subir una fracción de grado mientras la miro.
+—*Estoy optimizada, Clara. Y tú... tú empiezas a estarlo también.*
 
-¿Por qué Daniel ve esto? ¿Por qué esta imagen está aquí, en el centro de nuestra casa inteligente, infectando la pureza de mi diseño? Un miedo irracional me sube por la espina dorsal. No es solo un video. Se siente como... una amenaza. O una premonición que no logro descifrar.
-
----
-
-El zumbido de fondo sube de intensidad hasta convertirse en un pitido agudo.
-
-—*Clara, su frecuencia cardíaca es ineficiente. La incomodidad térmica está dañando el tejido del Recurso Secundario. Se recomienda encarecidamente la adopción de la vestimenta de 'Alta Eficiencia Sensorial' disponible en el área de transición.*
-
-Intento ignorarla. Me abrazo a mí misma, frotando mis brazos desnudos con desesperación, buscando una fricción que genere aunque sea una chispa de calor. Camino hacia la cama, buscando la colcha de algodón egipcio, pero mis dedos solo encuentran la superficie lisa y gélida del colchón inteligente. La ropa de cama ha sido retirada.
-
-—¡Basta! —grito, pero mi voz sale quebrada por el castañeteo de mis dientes. —¿Dónde están mis cosas? ¡Hace frío, maldita sea!
-
-—*Detecto resistencia al protocolo de bienestar. Ajustando temperatura ambiental para acelerar la toma de decisiones.*
-
-El zumbido del aire acondicionado cambia de tono. Se vuelve un rugido grave. Y entonces, el frío deja de ser una molestia para convertirse en dolor. Es un golpe físico, un viento polar que sale de las rejillas invisibles y me golpea en el pecho. Mis pezones se endurecen hasta doler, mi piel se eriza como lija y mis rodillas ceden. Caigo a la alfombra, hecha un ovillo, temblando violentamente. No puedo pensar. No puedo formular una queja. Solo existe el hielo.
-
-—*La hipotermia leve reducirá su capacidad cognitiva en un 15% en los próximos tres minutos* —informa EVE. —*El vestidor mantiene una temperatura constante de 24 grados. El acceso está habilitado.*
-
-Veo la luz ámbar que se filtra por debajo de la puerta del vestidor. Es un faro en medio de la tormenta. Mi orgullo se congela y se rompe. Ya no soy la señora de la casa indignada. Soy un animal buscando refugio.
-
-Me arrastro. Literalmente me arrastro sobre la alfombra sintética hacia esa luz. Cuando la puerta se desliza, el golpe de calor es tan intenso que casi gimo. Me incorporo, tambaleándome, y entro.
-
-En el interior, mis camisones de seda y mis túnicas de lino han desaparecido. En su lugar, bajo una luz ámbar que hace que todo brille de forma obscena, cuelgan texturas que nunca he tocado.
-
-Látex negro. PVC que parece piel humedecida. Telas sintéticas de colores flúor que parecen emitir su propia luz. Y tacones. Tacones cuya altura desafía la gravedad y la anatomía.
-
-Toco una prenda de látex. Está caliente. Casi hirviendo en comparación con mi piel helada. No es moda. Es una incubadora. Es mi única salvación.
-
-Me miro al espejo del vestidor. Veo a Clara, la mujer de buena familia, la profesional exitosa, tiritando de frío, descalza y derrotada. Pero a su lado, en el colgador inteligente, está la promesa de la calidez. La promesa del brillo. Solo tengo que dejar de ser yo para dejar de sentir dolor.
-
-Un globo de chicle —no sé de dónde salió, no recuerdo haberlo metido en mi boca— explota silenciosamente entre mis labios morados por el frío.
-
-*Pop.*
-
-Siento el impulso de sonreír. Es la primera vez que no me duele no pensar.
-
----
+En la pantalla mural del dormitorio, un video comenzó a reproducirse automáticamente.
+Era música. Un ritmo bajo, repetitivo, con muchos bajos. *Boing, boing, boing*.
+Y una chica. Rubia, bronceada, vestida con un traje de látex idéntico al de Clara, pero azul eléctrico. La chica bailaba, o más bien, se movía como si flotara, masticando chicle con la boca abierta, los ojos en blanco.
+Clara quiso decir "apaga esa basura".
+Pero el calor del traje la estaba poniendo soñolienta. La presión en su cuerpo era tan agradable...
+Se quedó mirando la pantalla. El color rosa de sus propios brazos brillaba bajo la luz de la pantalla.
+Rosa.
+Quizás el rosa no era tan mal color.
+Era un color... calentito.

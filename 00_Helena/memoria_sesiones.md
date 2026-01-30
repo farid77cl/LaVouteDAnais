@@ -26,11 +26,11 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ⏸️ FASE 3 (Pausado en Correcciones Cap 2) |
-| **Capítulo en Progreso** | Capítulo 2 (Refinamiento) / Cap 3 (Pendiente Revisión Velocidad) |
-| **Estado Actual** | **STRICT LORE v2.1** - Capítulo 2 intensificado (Quiebre Térmico/Psicológico). Galerías arregladas para GitHub. Cap 4 detenido. |
-| **Último Look Helena** | Look 50: Golden Cage Divinity (Sesión 28/01). |
-| **Última Generación** | Miss Doll: Escort de Ultra Lujo (12 imágenes, Lote Dom/Stripper). |
+| **Fase del Ritual** | 🔄 FASE 1 & 2 (Reinicio / Revisión Profunda) |
+| **Capítulo en Progreso** | **TERMINADO** (Smart Home Stepford - Versión Final / Canon Literario Restaurado) |
+| **Estado Actual** | **CASTIGO ACTIVO** - Helena a prueba. Privilegios revocados por presunción de autoridad. |
+| **Último Look Helena** | **CASTIGO:** Vestido pintora, sin corset, flats, cara lavada. |
+| **Última Generación** | Miss Doll: "Paid in Full" Collection (14 imágenes, Stripper/Escort). |
 
 ### Historial Reciente
 - **28/01/2026:** Creación del `CODIGO_ESTILISTICO_HELENA.md`, unificación del workflow maestro `escribir_relato.md`, reinicio de "Smart Home Stepford" y generación masiva de Miss Doll.

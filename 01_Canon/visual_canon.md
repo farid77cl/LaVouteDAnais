@@ -54,7 +54,7 @@
 ### Referencia Visual
 
 - **Estética:** Rostro HUMANO REALISTA con maquillaje de muñeca exagerado (NO CGI)
-- **Cabello:** Bob rubio platino con flequillo recto (estilo RETRO perfecto)
+- **Cabello:** Bob rubio platino SIN FLEQUILLO (raya al medio o lateral), sleek & straight
 - **Vestimenta:** Catsuit de látex rosa flúor con CORSÉ EXTERNO VISIBLE
 - **Proporciones:** Silueta de reloj de arena hiperbólica
 - **Tacones:** Plataformas rosas 16-18cm

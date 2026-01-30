@@ -30,4 +30,4 @@ Total imágenes: 4
 - [pag04_el_uniforme.png](./pag04_el_uniforme.png)
 
 ---
-*Actualizado automáticamente: 2026-01-28*
+*Actualizado automáticamente: 2026-01-29*

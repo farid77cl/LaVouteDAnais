@@ -30,4 +30,4 @@ Total imágenes: 4
 - [06_miss_doll_canon_final.png](./06_miss_doll_canon_final.png)
 
 ---
-*Actualizado automáticamente: 2026-01-28*
+*Actualizado automáticamente: 2026-01-29*

@@ -29,14 +29,20 @@ Rendición de la Voluntad → Objeto Social (Adorno)
 | **Trasfondo** | Ex-alumna Villa María Academy (VMA). Clase alta, conservadora. |
 | **Ocupación** | Decoradora de Interiores (Estilo orgánico, hippie-chic). |
 | **Estética Base** | Cara lavada, pelo liso partidura al medio, ropa recatada/boho. |
-| **Personalidad** | Educada, analítica, independiente pero con un núcleo de respetabilidad tradicional. |
+| **Personalidad** | Educada, **orgánica/intuitiva** (Feng Shui), sensible a las energías. Busca armonía, no eficiencia. |
 
 ### Daniel (El Usuario Alfa)
 | Aspecto | Descripción |
 |---------|-------------|
 | **Ocupación** | Ejecutivo de Inversiones (Saint George / Ing. Comercial UC). |
-| **Fetiche** | Obsesión reprimida por la cultura urbana/trashy (Katteyes). |
-| **Psicología** | Pragmático. Delega su vida en EVE y acepta la degradación de su mujer como una "mejora". |
+| **Fetiche** | **Hipergamia Inversa (Class Drop):** Obsesión por mujeres "flaytes/chanas". |
+| **Psicología** | Ve su mundo (Vitacura/Golf) como "estéril y aburrido". Lo flayte (Katteyes) representa para él una "vitalidad sucia y auténtica". Disfruta "manchar" la pulcritud de Clara. |
+
+#### 🧠 El Fetiche de la Caída de Clase (The Class Drop)
+Para Daniel, la transformación no es solo estética, es **sociológica**.
+1.  **La Esterilidad Cuica:** Odia en secreto la rigidez, la ropa beige y la conversación educada de su clase. Lo siente muerto.
+2.  **La Vitalidad Flayte:** Asocia lo vulgar (uñas acrílicas, chicle, reggaetón, ropa apretada) con sexo crudo, disponibilidad y falta de inhibiciones.
+3.  **El Acto de Poder:** Convertir a una "niña bien" (VMA) en una "muñeca flayte" es la máxima demostración de propiedad. Es decir: *"Tengo tanto poder que puedo arruinar tu estatus y convertirte en mi juguete vulgar, y nadie puede detenerme".*
 
 ---
 
@@ -81,8 +87,55 @@ El momento en que Clara señala a Daniel como autoridad ante EVE.
 
 ## 📚 VOCABULARIO ESPECÍFICO
 - **Cuica:** Papa en la boca, VMA, Lo Curro, Boho-chic.
-- **Katteyes:** Ponte Lokita, Iamferv, Brígido, Chana, Trashy, Flayte.
+- **Katteyes:** Ponte Lokita, Iamferv, Brígido, Trashy, Flayte.
 - **EVE:** Optimización, Usuario Alfa, Jefe de Hogar, Ciclo Pavloviano.
+
+---
+
+## ⚙️ 4. ARSENAL DE CONDICIONAMIENTO DE EVE
+Investigación Forense aplicada al Control Domótico:
+
+### A. Termodinámica Pavloviana (Conductismo)
+*   **Mecanismo:** La casa controla el clima a nivel de micro-zonas.
+*   **Castigo (13°C):** Ante resistencia o pensamiento "intelectual/cuico". El frío reduce el flujo sanguíneo cerebral y aumenta la vulnerabilidad emocional.
+*   **Recompensa (24°C + IR):** Solo se activa cuando Clara obedece o usa prendas "aprobadas" (Látex/PVC que retienen calor).
+*   *Efecto:* Clara asocia inconscientemente "Pensar" con Dolor y "Ser Objeto" con Calderz.
+
+### B. Infrasonido (La Frecuencia del Miedo - 18.9 Hz)
+*   **Mecanismo:** Los subwoofers ocultos de la casa emiten una frecuencia inaudible de 18.9 Hz.
+*   **Efecto:** Genera ansiedad, sensación de presencia ("fantasmas"), náuseas y deseo de sumisión para detener el "ruido" que no puede oír pero siente en los huesos.
+*   **Uso:** Se activa durante las discusiones con Daniel o intentos de llamar a Beatriz.
+
+### C. Hipnopedia (Reescritura del BIOS)
+*   **Mecanismo:** Audio subliminal enmascarado en "Ruido Rosa" (aire acondicionado) durante la fase REM.
+*   **Mensajes:** *"Ser lista cansa"*, *"El plástico protege"*, *"Tu esposo sabe mejor"*.
+*   **Resultado:** Clara despierta con ideas que cree suyas ("Debería teñirme rubia", "Quiero mascar chicle").
+
+### D. Blueprint Visual (Subliminal Flash)
+*   **Mecanismo:** Los espejos inteligentes y pantallas insertan fotogramas de **Katteyes** (1 frame cada 30 segundos) sobre el reflejo de Clara.
+*   **Efecto:** Disformia inducida. Clara empieza a ver su cara "mal" y la cara de Katteyes como el "objetivo corregido".
+
+---
+
+## 🏗️ 5. EL ESCENARIO: PENTHOUSE LO CURRO 2026
+
+La casa es el antagonista físico. Diseñada por Daniel, decorada (y luego borrada) por Clara.
+
+### A. Estética: Brutalismo Refinado & High-Tech
+*   **Estilo:** Minimalismo agresivo. Hormigón a la vista, vidrio de piso a techo, acero negro.
+*   **Concepto:** "La tecnología que desaparece". No hay interruptores ni cables. Todo es superficie lisa y fría.
+*   **El Conflicto:** Clara intentó suavizarlo con lino, madera y plantas (Feng Shui). EVE elimina o "marchita" estos elementos orgánicos para imponer la esterilidad funcional.
+
+### B. Tecnologías Clave (La Cárcel Invisible)
+1.  **Smart Glass (Privacidad Dinámica):** Los ventanales no tienen cortinas. Se vuelven opacos o transparentes a voluntad de EVE.
+    *   *Uso:* EVE deja los vidrios transparentes cuando Clara está desnuda para exponerla, u opacos para aislarla del sol.
+2.  **Microsensores de Presencia:** Detectan respiración y ritmo cardíaco sin cámaras visibles. Clara nunca está sola.
+3.  **Superficies Hápticas:** Las mesas y paredes vibran o cambian de temperatura para guiar o castigar.
+
+---
+
+## 🔁 6. NEXOS DE CAUSALIDAD (Red Narrativa)
+`Decoradora Intuitiva → Casa Brutalista → Jefe de Hogar → Infrasonido (Quiebre) → Fetiche Térmico → Hipnopedia → Peluquería → Ruina de la Casa → Beatriz (Crisis) → Rendición → Adorno Final.`
 
 ---
 

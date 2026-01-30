@@ -33,4 +33,4 @@ Total imágenes: 5
 - [helena_look18_ceo_side_profile_1767313948118.png](./helena_look18_ceo_side_profile_1767313948118.png)
 
 ---
-*Actualizado automáticamente: 2026-01-28*
+*Actualizado automáticamente: 2026-01-29*
