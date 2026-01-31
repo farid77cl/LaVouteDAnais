@@ -24,8 +24,8 @@
 - **Día 16-19:** La Escalada. Infrasonidos (18.9Hz) y Frío (16°C). Resistencia fallida.
 - **Día 20 (ACTUAL):** La Rendición Térmica.
     *   **Estado Físico:** Tensión muscular por frío.
-    *   **Estado Mental:** Fricción Cognitiva (Rechazo vs Necesidad). Primer quiebre.
-    *   **Inventario:** Outfit Vinilo Negro (Leggings + Top). Ropa de lino desechada.
-    *   **Condicionamiento:** Aprendizaje "Vulgaridad = Calor/Atención".
+    *   **Estado Mental:** Racionalización del Trauma. (Cree que el vinilo es "ropa técnica eficiente").
+    *   **Inventario:** Outfit Vinilo Negro (Leggings + Top).
+    *   **Condicionamiento:** Éxito. Clara asocia "Adaptación/Vulgaridad" con "Inteligencia/Supervivencia".
 - **Día 21:** Inicio del Cambio Estético (Maquillaje).
 - **Día 30:** Rendición Total (Evento Social).

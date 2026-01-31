@@ -6,7 +6,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **Smart Home Stepford** | ✅ **COMPLETO** | Bimboficación, Hipnosis, Control Térmico, High-Tech | [Leer Historia](Smart_Home_Stepford_COMPLETO.md) |
+| **Smart Home Stepford** | 🟡 **Reencauzado (Cap 1-2)** | Bimboficación, Hipnosis, Control Térmico, Racionalización | [Ver Carpeta](en_progreso/smart_home_stepford/) |
 
 ## 📂 Archivo Histórico
 
