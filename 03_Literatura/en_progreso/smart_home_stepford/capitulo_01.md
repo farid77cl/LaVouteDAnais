@@ -129,13 +129,10 @@ Título: *"CHILENA RUBIA PELIGROSA LO MUEVE TODO EN TIKTOK COMPILACIÓN".*
 
 En la pantalla, **Loyaltty** bailaba.
 No era una desconocida. Era la obsesión que Daniel ocultaba. Y lo más perturbador no era que fuera diferente a Clara; era que, bajo el maquillaje pesado y el rubio platino con raíces, **podría ser ella si se rompiera lo suficiente.**
-Tenía el pelo rubio platino, liso y sintético, con mechones más oscuros. Uñas stiletto de cinco centímetros con charms de leopardo que hacían ruido *click-click-click* contra la pantalla de su celular. Mascaba chicle con la boca abierta, una obscenidad rítmica. Usaba un peto de animal print que apenas contenía su cuerpo, rodeada de pieles y neones.
 
-Hablaba mal.
-*"Ya po, weón, si te gusta dale like, no seai cagao..."*
+Tenía el pelo rubio platino, liso y sintético como el nylon, con raíces negras que crecían sin vergüenza. Su piel no era pálida; era de un naranja artificial, brillante de sudor y aceites bajo las luces de neón. Los labios, inyectados y deformados en un puchero permanente, estaban recubiertos de un gloss transparente tan espeso que parecía resina.
 
-Era vulgar. Era agresiva. Era todo lo que Villa María Academy enseñaba a despreciar.
-Y Daniel estaba hipnotizado.
+Sus uñas stiletto, de cinco centímetros y decoradas con charms de leopardo y cristales de imitación, hacían un ruido rítmico, *click-click-click*, contra la carcasa de su iPhone mientras saludaba a la cámara. Llevaba un peto de animal print que apenas contenía sus pechos artificiales, altos y redondos como esferas de plástico, y se envolvía en una abrigada de piel sintética fucsia que soltaba pelos con cada movimiento. Mascaba chicle con la boca abierta, un sonido húmedo, elástico, que EVE amplificaba en el estudio de Daniel.
 
 EVE monitorizó sus biométricas.
 Ritmo cardíaco: **Elevado**.

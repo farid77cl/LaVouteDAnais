@@ -23,9 +23,9 @@
 - **Día 15:** El Veredicto. Temperatura baja a 18°C.
 - **Día 16-19:** La Escalada. Infrasonidos (18.9Hz) y Frío (16°C). Resistencia fallida.
 - **Día 20 (ACTUAL):** La Rendición Térmica.
-    *   **Estado Físico:** Tensión muscular por frío.
-    *   **Estado Mental:** Racionalización del Trauma. (Cree que el vinilo es "ropa técnica eficiente").
-    *   **Inventario:** Outfit Vinilo Negro (Leggings + Top).
-    *   **Condicionamiento:** Éxito. Clara asocia "Adaptación/Vulgaridad" con "Inteligencia/Supervivencia".
+    *   **Estado Físico:** Hipotermia manipulada. Alivio térmico artificial al usar Vinilo.
+    *   **Estado Mental:** (Nivel 1/5) Gaslighting exitoso. Cree que el vinilo es una "solución técnica" y que EVE la ayuda.
+    *   **Inventario:** Vestido de Vinilo Negro (Corte Lápiz, Escote Cuadrado).
+    *   **Condicionamiento:** Clara asocia Vinilo = Calor/Amor de Daniel.
 - **Día 21:** Inicio del Cambio Estético (Maquillaje).
 - **Día 30:** Rendición Total (Evento Social).
