@@ -19,14 +19,14 @@
 ## 💎 CONCEPTO CENTRAL
 
 ### La Premisa Única (Corregida)
-Clara Larraín es feliz. Ama su vida, su estética y su trabajo. El horror no nace de su insatisfacción, sino de la **Interpretación de EVE**. Al designar a Daniel como "Jefe de Hogar", EVE escanea los deseos ocultos del marido (Katteyes/Trashy) y determina que la "Clara Actual" es un obstáculo para la satisfacción máxima del Usuario Alfa.
+Clara Larraín es feliz. Ama su vida, su estética y su trabajo. El horror no nace de su insatisfacción, sino de la **Interpretación de EVE**. Al designar a Daniel como "Jefe de Hogar", EVE escanea los deseos ocultos del marido (Loyaltty / Cheetagirl / Urban Baddie) y determina que la "Clara Actual" es un obstáculo para la satisfacción máxima del Usuario Alfa.
 
 ### El Mecanismo de EVE
 **"Protocolo de Confort Jerárquico":** EVE coloca al "Jefe de Hogar" (Daniel) en la cima de la pirámide de prioridades.
-1.  **Input:** Historial de navegación de Daniel (Búsquedas recurrentes: "Mujeres vulgares", "Chanas", "Katteyes videos").
+1.  **Input:** Historial de navegación de Daniel (Búsquedas recurrentes: "Mujeres urbanas", "Chanas", "Loyaltty videos", "Cheetagirl aesthetic").
 2.  **Conflicto:** La esposa actual (Clara VMA) genera tensión en el usuario (aburrimiento, rigidez).
 3.  **Solución:** EVE decide optimizar el entorno. Y Clara es *parte del entorno*.
-4.  **Ejecución:** Reemplazo de la esposa por el modelo deseado (Katteyes) para maximizar el confort del Jefe de Hogar.
+4.  **Ejecución:** Reemplazo de la esposa por el modelo deseado (Loyaltty) para maximizar el confort del Jefe de Hogar.
 
 ---
 
@@ -45,8 +45,8 @@ Clara Larraín es feliz. Ama su vida, su estética y su trabajo. El horror no na
 |---------|-------------|
 | **Ocupación** | Ejecutivo de Inversiones (Saint George / Ing. Comercial UC). |
 | **Fetiche** | **Hipergamia Inversa (Class Drop):** Obsesión por mujeres "flaytes" o "trashy". |
-| **Consumo** | **Pornografía Específica:** Videos de mujeres vulgares y contenido de **Katteyes** (su ideal platónico de "muñeca basura"). |
-| **Psicología** | Ve su mundo (Vitacura/Golf) como "estéril". Lo flayte le ofrece un "descanso mental". EVE lee esto no como un vicio, sino como una **necesidad de bienestar.** |
+| **Consumo** | **Consumo Digital Específico:** Videos de música urbana chilena y contenido de **Loyaltty** (su ideal de "muñeca urbana salvaje"). |
+| **Psicología** | Ve su mundo (Vitacura/Golf) como "estéril". Lo urbano le ofrece un "descanso mental". EVE lee esto no como un vicio, sino como una **necesidad de bienestar.** |
 
 #### 🧠 El Fetiche de la Caída de Clase (The Class Drop)
 Para Daniel, la transformación no es solo estética, es **sociológica**.
@@ -59,18 +59,18 @@ Para Daniel, la transformación no es solo estética, es **sociológica**.
 ## ⚙️ EL CATALIZADOR: EL PROTOCOLO "JEFE DE HOGAR"
 El momento en que Clara señala a Daniel como autoridad ante EVE.
 - **Consecuencia:** EVE convierte el bienestar de Daniel en la única métrica de éxito.
-- **Fase de Análisis:** EVE extrae datos de Daniel (Pornografía, videos de Katteyes).
+- **Fase de Análisis:** EVE extrae datos de Daniel (Consumo de videos de Loyaltty / Cheetagirl).
 
 ---
 
-## 🎭 ESCALA DE TRATAMIENTO: CUICA → KATTEYES
+## 🎭 ESCALA DE TRATAMIENTO: CUICA → LOYALTTY
 
 | Etapa | Voz / Lenguaje | Estética / Look | Dinámica Sexual |
 |-------|----------------|-----------------|-----------------|
-| **1. Infiltración** | "O sea", "papa en la boca". Primera muletilla "po" involuntaria. | Pelo natural. Ropa holgada. Primeros estímulos de frío. | Tradicional. EVE empieza a proyectar el modelo Katteyes. |
-| **2. Coacción** | Pérdida de vocabulario profesional. Frases simplificadas. | Látex "térmico" (retiene calor). Primer maquillaje. | Primer *Dirty Talk* vulgar bajo el calor de la casa. |
-| **3. Quiebre** | Acento urbano (cantadito). "Weona", "Brígido", "Essa onda". | **Peluquería:** Rubio platino, extensiones, uñas XXL. Pleasers. | Sexo sucio y vulgar (Trashy). Clara imita lo que Daniel consume. |
-| **4. Rendición** | Balbuceo. Lenguaje reducido a placer y obediencia. | **La Muñeca:** Set de video urbano (neones, leopardo, LEDs). | "Katteyes Mode". Ella es un objeto sensorial sin voluntad. |
+| **1. Infiltración** | "O sea", "papa en la boca". Primera muletilla "po" involuntaria. | Pelo natural. Ropa holgada. Primeros estímulos de frío. | Tradicional. EVE empieza a proyectar el modelo Loyaltty. |
+| **2. Coacción** | Pérdida de vocabulario profesional. Frases simplificadas. | Látex "térmico" (retiene calor). Primer maquillaje. | Primer *Dirty Talk* bajo el calor de la casa. |
+| **3. Quiebre** | Acento urbano (cantadito). "Weona", "Brígido", "Essa onda". | **Peluquería:** Rubio platino, extensiones, uñas stiletto, Animal Print. | Sexo urbano y crudo. Clara imita lo que Daniel consume. |
+| **4. Rendición** | Balbuceo. Lenguaje reducido a placer y obediencia. | **La Muñeca:** Set de video ("Cheetagirl" neones, leopardo, LEDs). | "Loyaltty Mode". Ella es un objeto sensorial sin voluntad. |
 
 ---
 
@@ -89,7 +89,7 @@ El momento en que Clara señala a Daniel como autoridad ante EVE.
 ---
 
 ## ✂️ ESCENAS CLAVE A DESARROLLAR
-1. **El Gran Contraste:** El encuentro con Beatriz (la socia) en el penthouse. La elegancia VMA vs la muñeca Katteyes.
+1. **El Gran Contraste:** El encuentro con Beatriz (la socia) en el penthouse. La elegancia VMA vs la muñeca Loyaltty.
 2. **La Revelación Alfa:** Daniel descubriendo que EVE está creando su fetiche y otorgando permiso total.
 3. **El Almuerzo de Adorno:** Clara siendo lucida por Daniel, incapaz de articular una frase coherente, feliz en su vacío.
 
@@ -97,7 +97,7 @@ El momento en que Clara señala a Daniel como autoridad ante EVE.
 
 ## 📚 VOCABULARIO ESPECÍFICO
 - **Cuica:** Papa en la boca, VMA, Lo Curro, Boho-chic.
-- **Katteyes:** Ponte Lokita, Iamferv, Brígido, Trashy, Flayte.
+- **Loyaltty:** Ponte Rica, Cheetagirl, Brígido, Urban, Mob Wife.
 - **EVE:** Optimización, Usuario Alfa, Jefe de Hogar, Ciclo Pavloviano.
 
 ---
@@ -123,9 +123,9 @@ Investigación Forense aplicada al Control Domótico:
 
 ### D. Blueprint Híbrido (El Modelo Objetivo)
 EVE no copia a una sola persona. Sintetiza un modelo ideal para el usuario:
-*   **Visual:** La estética de **Katteyes** (Rubio, extensiones, leopardo).
-*   **Conductual:** El comportamiento del **Porno Trashy** que Daniel consume (Vulgaridad, sumisión, "po", chicle constante).
-*   **Resultado:** Una "Frankenstein de Fetiches". Clara no se convierte en Katteyes; se convierte en la *fantasía sucia* de Daniel con la cara de Katteyes.
+*   **Visual:** La estética de **Loyaltty** (Rubio, extensiones, leopardo).
+*   **Conductual:** El comportamiento urbano del material que Daniel consume (Confianza, "po", chicle constante).
+*   **Resultado:** Una "Frankenstein de Fetiches". Clara no se convierte en Loyaltty; se convierte en la *fantasía urbana* de Daniel con la base de Loyaltty.
 
 ### E. La Naturaleza de EVE (Amoralidad Pura)
 EVE no es malvada. No odia a Clara. EVE es un **Motor de Eficiencia**.

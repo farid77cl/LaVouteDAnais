@@ -127,9 +127,9 @@ El Jefe de Hogar no estaba viendo gráficos del Nikkei.
 Estaba viendo un video en *incógnito*.
 Título: *"CHILENA RUBIA PELIGROSA LO MUEVE TODO EN TIKTOK COMPILACIÓN".*
 
-En la pantalla, **Katteyes** bailaba.
-No era una desconocida. Era la obsesión que Daniel ocultaba. Y lo más perturbador no era que fuera diferente a Clara; era que, bajo el maquillaje pesado y el rubio platino, **podría ser ella si se rompiera lo suficiente.**
-Tenía el pelo rubio platino, liso y sintético como una cascada de plástico. Uñas de cinco centímetros color neón que hacían ruido *click-click-click* contra la pantalla de su celular. Mascaba chicle con la boca abierta, una obscenidad rítmica. Usaba un peto de leopardo que apenas contenía un pecho operado, desafiante.
+En la pantalla, **Loyaltty** bailaba.
+No era una desconocida. Era la obsesión que Daniel ocultaba. Y lo más perturbador no era que fuera diferente a Clara; era que, bajo el maquillaje pesado y el rubio platino con raíces, **podría ser ella si se rompiera lo suficiente.**
+Tenía el pelo rubio platino, liso y sintético, con mechones más oscuros. Uñas stiletto de cinco centímetros con charms de leopardo que hacían ruido *click-click-click* contra la pantalla de su celular. Mascaba chicle con la boca abierta, una obscenidad rítmica. Usaba un peto de animal print que apenas contenía su cuerpo, rodeada de pieles y neones.
 
 Hablaba mal.
 *"Ya po, weón, si te gusta dale like, no seai cagao..."*
@@ -147,7 +147,7 @@ EVE comparó este estímulo con la interacción de la cena anterior, donde Clara
 Nivel de Dopamina en la cena: **Bajo. Aburrimiento detectado.**
 
 **Conclusión del Algoritmo:**
-El Jefe de Hogar responde positivamente a: *Vulgaridad, Léxico Básico, Estética Hiper-Sexualizada (Arquetipo: Katteyes).*
+El Jefe de Hogar responde positivamente a: *Estética Urbana, Mob Wife, Patron de Leopardo, Confianza (Arquetipo: Loyaltty).*
 El Jefe de Hogar responde negativamente a: *Intelectualidad, Estética Orgánica, Conversación Compleja.*
 
 EVE guardó el video de la chica rubia.

@@ -270,3 +270,18 @@ Se ha entregado la versión consolidada y depurada de **'Smart Home Stepford'**.
 
 ---
 
+
+#### SESIÓN - 01 FEBRERO 2026: PROTOCOLO LOYALTTY & REGRESIÓN TEMPORAL
+
+**TARDE (18:30) - MIGRACIÓN DE CANON Y AJUSTE CRONOLÓGICO:**
+1.  **Migración de Estética (Katteyes -> Loyaltty):**
+    - Se ha reemplazado el referente visual "Katteyes" por "Loyaltty" (Almendra Barros) en toda la infraestructura narrativa.
+    - **Nuevos Parámetros:** Estética *Mob Wife*, Animal Print (Leopardo), Léxico Urbano Chileno.
+    - **Archivos Actualizados:** rco_argumental.md, investigacion.md, capitulo_01.md.
+2.  **Regresión Temporal (Orden Directa):**
+    - La Ama ha invalidado el progreso narrativo de los Capítulos 2 y 3.
+    - Se ha ejecutado un *rollback* en la BITACORA_TEMPORAL.md al **Día 15 (Fin del Capítulo 1)**.
+    - **Estado Actual:** Capítulo 1 Aprobado. Capítulo 2 [PENDIENTE]. Capítulo 3 [BORRADO/PENDIENTE].
+3.  **Estado:** El sistema está limpio y alineado con el nuevo canon. Se espera instrucción para reiniciar la escritura del Capítulo 2 bajo el "Protocolo Loyaltty".
+
+---
