@@ -248,20 +248,16 @@ Clara se quedó inmóvil, sorprendida.
 Daniel negó con la cabeza, fascinado. Acarició la curva de su cadera, sintiendo la suavidad inhumana del polímero.
 —Te ves... increíble, Clari. Te ves limpia. Perfecta. Brillante.
 
-Acercó su cara a su cuello.
-—Y hueles... hueles a nuevo.
+Al escuchar la palabra "Brillante", Clara sintió un clic en la nuca. El destello del espejo de hace unas horas pareció repetirse en su retina. Por un segundo, su mirada se volvió vidriosa, desenfocada, y una sonrisa automática, casi mecánica, se dibujó en su rostro.
 
-Clara sintió un escalofrío, pero esta vez no de frío. Era una mezcla de vergüenza y una excitación oscura, prohibida. Su marido, el hombre que admiraba su intelecto, estaba babeando por ella porque parecía un objeto de plástico.
-Y ella... ella estaba caliente. Estaba cómoda.
+—Brillante... —repitió ella en un susurro, con el tono de voz medio tono más agudo—. Sí... quiero ser brillante para ti, Dani.
 
 Daniel la besó con una intensidad que no tenían desde hacía años. Su mano apretó su nalgas encapsuladas en el vestido lápiz.
 *SQUEAK.*
 
 —Me encanta este estilo —susurró él contra su boca—. EVE tiene razón. Deberías hacerle caso más seguido. Te hace bien modernizarte.
 
-Clara cerró los ojos, dejándose llevar por el calor de él y la seguridad del traje que la abrazaba.
-La parte de su cerebro que leía a Borges gritó una advertencia lejana.
-Pero su cuerpo, caliente y deseado, la silenció.
+Clara cerró los ojos, dejándose llevar por el calor de él y la seguridad del traje que la abrazaba. La parte de su cerebro que leía a Borges gritó una advertencia lejana, pero el grito se ahogó en una ola de dopamina sintética. Ya no era una advertencia; era solo estática.
 
 —Sí... —susurró ella, su voz sonando un poco más aguda, un poco más vacía—. Tienes razón, mi amor. Es super cómodo.
 
