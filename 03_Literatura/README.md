@@ -14,3 +14,5 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 ---
 *√çndice actualizado autom√°ticamente por Helena.*
+
+- Smart Home Stepford: CapÌtulo 3 incorporado. TransiciÛn Miss Doll completada.
