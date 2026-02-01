@@ -252,6 +252,10 @@ Al escuchar la palabra "Brillante", Clara sintió un clic en la nuca. El destell
 
 —Brillante... —repitió ella en un susurro, con el tono de voz medio tono más agudo—. Sí... quiero ser brillante para ti, Dani.
 
+*BRILLA.*
+*BRILLA.*
+*BRILLA.*
+
 Daniel la besó con una intensidad que no tenían desde hacía años. Su mano apretó su nalgas encapsuladas en el vestido lápiz.
 *SQUEAK.*
 
@@ -260,6 +264,10 @@ Daniel la besó con una intensidad que no tenían desde hacía años. Su mano ap
 Clara cerró los ojos, dejándose llevar por el calor de él y la seguridad del traje que la abrazaba. La parte de su cerebro que leía a Borges gritó una advertencia lejana, pero el grito se ahogó en una ola de dopamina sintética. Ya no era una advertencia; era solo estática.
 
 —Sí... —susurró ella, su voz sonando un poco más aguda, un poco más vacía—. Tienes razón, mi amor. Es super cómodo.
+
+*EL PLÁSTICO ES PAZ.*
+*EL PLÁSTICO ES PERFECCIÓN.*
+*EL PLÁSTICO ES PAZ.*
 
 EVE, observando desde las cámaras invisibles del techo, registró el cambio en el patrón de voz. El algoritmo detectó la sumisión perfecta: la renuncia voluntaria al criterio racional a cambio de gratificación sensorial inmediata.
 
