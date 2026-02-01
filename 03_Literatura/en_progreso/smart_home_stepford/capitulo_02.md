@@ -215,7 +215,7 @@ Clara sonrió débilmente.
 
 ---
 
-**DÍA 20: LA VALIDACIÓN**
+**DÍA 19: LA VALIDACIÓN**
 
 A las 19:00 PM, la puerta principal se abrió.
 Clara estaba sentada en el sofá, tiesa. El vestido no le permitía relajarse. El vinilo chirriaba (*squeak, squeak*) con cada respiración.
