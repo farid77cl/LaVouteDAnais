@@ -13,7 +13,7 @@ Total imágenes: 12
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look2_elvira_back_view_1767312464768.png](./helena_look2_elvira_back_view_1767312464768.png)

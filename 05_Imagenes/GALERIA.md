@@ -1,24 +1,17 @@
 # 🖼️ Galería: 05_Imagenes
-Total imágenes: 5
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
 
-````carousel
-![miss_doll_bunny_pink_1769167843888.png](./miss_doll_bunny_pink_1769167843888.png)
-<!-- slide -->
-![miss_doll_latex_white_1769167752618.png](./miss_doll_latex_white_1769167752618.png)
-<!-- slide -->
-![miss_doll_lingerie_pink_1769167581035.png](./miss_doll_lingerie_pink_1769167581035.png)
-<!-- slide -->
-![miss_doll_stripper_pole_1769167513197.png](./miss_doll_stripper_pole_1769167513197.png)
-<!-- slide -->
-![miss_doll_stripper_red_1769167698448.png](./miss_doll_stripper_red_1769167698448.png)
-````
-
-## 📜 Lista de Archivos
-- [miss_doll_bunny_pink_1769167843888.png](./miss_doll_bunny_pink_1769167843888.png)
-- [miss_doll_latex_white_1769167752618.png](./miss_doll_latex_white_1769167752618.png)
-- [miss_doll_lingerie_pink_1769167581035.png](./miss_doll_lingerie_pink_1769167581035.png)
-- [miss_doll_stripper_pole_1769167513197.png](./miss_doll_stripper_pole_1769167513197.png)
-- [miss_doll_stripper_red_1769167698448.png](./miss_doll_stripper_red_1769167698448.png)
+- ✅ [**Anais**](./anais/GALERIA.md)
+- ✅ [**Comics**](./comics/GALERIA.md)
+- ✅ [**Helena**](./helena/GALERIA.md)
+- ✅ [**Historias**](./historias/GALERIA.md)
+- ✅ [**Miss Doll**](./miss_doll/GALERIA.md)
+- ✅ [**Mixed Fetish V63**](./mixed_fetish_v63/GALERIA.md)
+- ✅ [**Personajes**](./personajes/GALERIA.md)
+- ✅ [**The Dollhouse**](./the_dollhouse/GALERIA.md)
+- ✅ [**Video Gloss**](./video_gloss/GALERIA.md)
+- ✅ [**Video Trance I**](./video_trance_i/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-01-26*
+*Actualizado automáticamente: 2026-02-02*

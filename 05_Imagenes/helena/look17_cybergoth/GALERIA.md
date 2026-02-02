@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look17_cybergoth_back_view_1767313893345.png](./helena_look17_cybergoth_back_view_1767313893345.png)

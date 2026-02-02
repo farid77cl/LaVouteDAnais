@@ -13,7 +13,7 @@ Total imágenes: 12
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_bunny_back_caged.png](./helena_bunny_back_caged.png)

@@ -11,7 +11,7 @@ Total imágenes: 6
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look14_midnight_kiss_back_view.png](./helena_look14_midnight_kiss_back_view.png)

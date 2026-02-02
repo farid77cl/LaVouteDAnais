@@ -13,7 +13,7 @@ Total imágenes: 10
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look39_back_view_1769094403033.png](./helena_look39_back_view_1769094403033.png)

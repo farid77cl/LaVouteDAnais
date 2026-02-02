@@ -10,7 +10,7 @@ Total imágenes: 1
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_reward_heels_beyond_3028.png](./helena_reward_heels_beyond_3028.png)

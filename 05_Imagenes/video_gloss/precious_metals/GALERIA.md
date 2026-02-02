@@ -11,7 +11,7 @@ Total imágenes: 4
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![precious_metals_liquid_gold_miss_doll.png](./precious_metals_liquid_gold_miss_doll.png)

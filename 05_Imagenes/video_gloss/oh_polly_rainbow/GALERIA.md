@@ -11,7 +11,7 @@ Total imágenes: 4
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![oh_polly_rainbow_emerald_helena_sub.png](./oh_polly_rainbow_emerald_helena_sub.png)

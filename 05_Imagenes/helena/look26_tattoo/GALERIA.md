@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look26_tattoo_temptress_back_view_1768305758301.png](./helena_look26_tattoo_temptress_back_view_1768305758301.png)

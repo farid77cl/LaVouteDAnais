@@ -10,7 +10,7 @@ Total imágenes: 2
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![duo_shiny_sisters_selfie.png](./duo_shiny_sisters_selfie.png)

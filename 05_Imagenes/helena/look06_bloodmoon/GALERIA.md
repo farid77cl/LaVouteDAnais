@@ -13,7 +13,7 @@ Total imágenes: 11
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![Helena_Look06_BloodMoon_Back_v1.png](./Helena_Look06_BloodMoon_Back_v1.png)

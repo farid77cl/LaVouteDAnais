@@ -12,7 +12,7 @@ Total imágenes: 8
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look10_seated_1767040005240.png](./helena_look10_seated_1767040005240.png)

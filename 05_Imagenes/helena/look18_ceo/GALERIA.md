@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look18_ceo_back_view_1767313961470.png](./helena_look18_ceo_back_view_1767313961470.png)

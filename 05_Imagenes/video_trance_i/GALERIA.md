@@ -12,7 +12,7 @@ Total imágenes: 8
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![clinic_background.png](./clinic_background.png)

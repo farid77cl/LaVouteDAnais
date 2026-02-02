@@ -11,7 +11,7 @@ Total imágenes: 6
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png)

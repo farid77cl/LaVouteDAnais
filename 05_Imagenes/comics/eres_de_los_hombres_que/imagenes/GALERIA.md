@@ -11,7 +11,7 @@ Total imágenes: 6
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![pag01_portada.png](./pag01_portada.png)
@@ -27,6 +27,12 @@ Total imágenes: 6
 ![pag06_profundizacion.png](./pag06_profundizacion.png)
 ````
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Descartadas**](./descartadas/GALERIA.md)
+
+---
 ## 📜 Lista de Archivos
 - [pag01_portada.png](./pag01_portada.png)
 - [pag02_llegada.png](./pag02_llegada.png)

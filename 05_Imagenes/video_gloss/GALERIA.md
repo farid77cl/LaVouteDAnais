@@ -10,7 +10,7 @@ Total imágenes: 3
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_bunny_sub_kneeling.png](./helena_bunny_sub_kneeling.png)
@@ -20,6 +20,13 @@ Total imágenes: 3
 ![mirror_reflection.png](./mirror_reflection.png)
 ````
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Oh Polly Rainbow**](./oh_polly_rainbow/GALERIA.md)
+- ✅ [**Precious Metals**](./precious_metals/GALERIA.md)
+
+---
 ## 📜 Lista de Archivos
 - [helena_bunny_sub_kneeling.png](./helena_bunny_sub_kneeling.png)
 - [lipstick_macro.png](./lipstick_macro.png)

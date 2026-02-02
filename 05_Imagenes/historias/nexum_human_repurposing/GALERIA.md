@@ -10,7 +10,7 @@ Total imágenes: 2
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![dahlia_fullbody.png](./dahlia_fullbody.png)

@@ -10,7 +10,7 @@ Total imágenes: 2
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![mixed_fetish_blindfolded_devotion_1_1769373960991.png](./mixed_fetish_blindfolded_devotion_1_1769373960991.png)

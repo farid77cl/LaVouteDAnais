@@ -10,7 +10,7 @@ Total imágenes: 2
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![clarita_full_trashy_1769086814214.png](./clarita_full_trashy_1769086814214.png)

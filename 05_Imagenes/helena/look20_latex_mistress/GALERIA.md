@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look20_latex_mistress_back_view_1767351728689.png](./helena_look20_latex_mistress_back_view_1767351728689.png)

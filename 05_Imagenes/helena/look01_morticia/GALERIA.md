@@ -12,7 +12,7 @@ Total imágenes: 9
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look1_morticia_back_view_1767312626882.png](./helena_look1_morticia_back_view_1767312626882.png)

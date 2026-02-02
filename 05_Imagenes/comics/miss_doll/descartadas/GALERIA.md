@@ -11,7 +11,7 @@ Total imágenes: 4
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![02_miss_doll_v1.png](./02_miss_doll_v1.png)

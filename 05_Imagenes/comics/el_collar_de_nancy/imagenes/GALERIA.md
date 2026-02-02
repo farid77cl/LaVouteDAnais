@@ -11,7 +11,7 @@ Total imágenes: 4
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![pag01_portada.png](./pag01_portada.png)
@@ -23,6 +23,12 @@ Total imágenes: 4
 ![pag04_el_uniforme.png](./pag04_el_uniforme.png)
 ````
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Descartadas**](./descartadas/GALERIA.md)
+
+---
 ## 📜 Lista de Archivos
 - [pag01_portada.png](./pag01_portada.png)
 - [pag02_el_hallazgo.png](./pag02_el_hallazgo.png)

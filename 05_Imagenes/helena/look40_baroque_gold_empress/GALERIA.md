@@ -13,7 +13,7 @@ Total imágenes: 12
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_corset_bedroom_1769167636565.png](./helena_corset_bedroom_1769167636565.png)

@@ -10,7 +10,7 @@ Total imágenes: 1
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png)

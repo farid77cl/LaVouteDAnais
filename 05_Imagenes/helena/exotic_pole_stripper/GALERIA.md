@@ -10,7 +10,7 @@ Total imágenes: 1
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_pole_spin_dungeon.png](./helena_pole_spin_dungeon.png)

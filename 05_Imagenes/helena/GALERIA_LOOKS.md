@@ -56,7 +56,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look7_standing.png](look07/helena_look7_standing.png) | ![helena_look07_seated_1767876002180.png](look07/helena_look07_seated_1767876002180.png) | ![helena_look07_side_1767876037440.png](look07/helena_look07_side_1767876037440.png) | ![helena_look07_back_1767875985455.png](look07/helena_look07_back_1767875985455.png) | ![helena_look07_ditzy_1767876053397.png](look07/helena_look07_ditzy_1767876053397.png) |
+| ![helena_look7_standing.png](look07/helena_look7_standing.png) | ![helena_look07_seated_1767876002180.png](look07/helena_look07_seated_1767876002180.png) | ![helena_look7_side_profile.png](look07/helena_look7_side_profile.png) | ![helena_look07_back_1767875985455.png](look07/helena_look07_back_1767875985455.png) | ![helena_look07_ditzy_1767876053397.png](look07/helena_look07_ditzy_1767876053397.png) |
 
 ---
 
@@ -312,7 +312,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look42_hero_power.png](look42_neon_neural_goth/helena_look42_hero_power.png) | ![helena_look42_seated.png](look42_neon_neural_goth/helena_look42_seated.png) | ![helena_look42_side_profile.png](look42_neon_neural_goth/helena_look42_side_profile.png) | ![helena_look42_back_view.png](look42_neon_neural_goth/helena_look42_back_view.png) | ![helena_look42_ditzy_brain_empty.png](look42_neon_neural_goth/helena_look42_ditzy_brain_empty.png) |
+| ![helena_look42_standing.png](look42_neon_neural_goth/helena_look42_standing.png) | ![helena_look42_seated.png](look42_neon_neural_goth/helena_look42_seated.png) | ![helena_look42_side_profile.png](look42_neon_neural_goth/helena_look42_side_profile.png) | ![helena_look42_back_view.png](look42_neon_neural_goth/helena_look42_back_view.png) | ![helena_look42_ditzy_brain_empty.png](look42_neon_neural_goth/helena_look42_ditzy_brain_empty.png) |
 
 ---
 
@@ -345,6 +345,14 @@
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
 | ![helena_look50_standing_1769603224990.png](look50_golden_cage/helena_look50_standing_1769603224990.png) | ![helena_look50_seated_1769603274972.png](look50_golden_cage/helena_look50_seated_1769603274972.png) | ![helena_look50_side_profile_1769603341695.png](look50_golden_cage/helena_look50_side_profile_1769603341695.png) | ![helena_look50_back_view_1769603310729.png](look50_golden_cage/helena_look50_back_view_1769603310729.png) | ![helena_look50_ditzy_1769603372543.png](look50_golden_cage/helena_look50_ditzy_1769603372543.png) |
+
+---
+
+## 🕷️ Looks Archives
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![custom_helena_look40_s047_standing.png](Looks_Archives/custom_helena_look40_s047_standing.png) | ![custom_helena_look40_s046_seated.png](Looks_Archives/custom_helena_look40_s046_seated.png) | ![custom_helena_look40_s045_profile.png](Looks_Archives/custom_helena_look40_s045_profile.png) | ![custom_helena_look40_s043_back.png](Looks_Archives/custom_helena_look40_s043_back.png) | ![custom_helena_look40_s044_ditzy.png](Looks_Archives/custom_helena_look40_s044_ditzy.png) |
 
 ---
 

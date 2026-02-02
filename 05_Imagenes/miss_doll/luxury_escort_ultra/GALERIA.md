@@ -11,7 +11,7 @@ Total imágenes: 6
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![miss_doll_escort_arrival.png](./miss_doll_escort_arrival.png)

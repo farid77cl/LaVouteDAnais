@@ -11,7 +11,7 @@ Total imágenes: 4
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![roxy_cougar_hunt.jpg](./roxy_cougar_hunt.jpg)

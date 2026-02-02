@@ -11,7 +11,7 @@ Total imágenes: 6
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look13_amatista_back_view_1767188050060.png](./helena_look13_amatista_back_view_1767188050060.png)

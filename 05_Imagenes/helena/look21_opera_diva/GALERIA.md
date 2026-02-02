@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look21_opera_diva_back_view_1767351815917.png](./helena_look21_opera_diva_back_view_1767351815917.png)

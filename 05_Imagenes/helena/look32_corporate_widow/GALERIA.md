@@ -13,7 +13,7 @@ Total imágenes: 12
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![Helena_Look31_Secretary_Bending.png](./Helena_Look31_Secretary_Bending.png)

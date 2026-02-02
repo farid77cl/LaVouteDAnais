@@ -12,7 +12,7 @@ Total imágenes: 7
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look5_ditzy_bimbo.png](./helena_look5_ditzy_bimbo.png)

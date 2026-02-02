@@ -15,7 +15,7 @@ Total imágenes: 18
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look08_back_1767958110922.png](./helena_look08_back_1767958110922.png)
@@ -47,12 +47,6 @@ Total imágenes: 18
 ![look8_esmeralda_ditzy.jpg](./look8_esmeralda_ditzy.jpg)
 <!-- slide -->
 ![look8_esmeralda_seated.png](./look8_esmeralda_seated.png)
-<!-- slide -->
-![look8_esmeralda_side.png](./look8_esmeralda_side.png)
-<!-- slide -->
-![look8_esmeralda_standing.png](./look8_esmeralda_standing.png)
-<!-- slide -->
-![look8_esmeralda_walking.png](./look8_esmeralda_walking.png)
 ````
 
 ## 📜 Lista de Archivos

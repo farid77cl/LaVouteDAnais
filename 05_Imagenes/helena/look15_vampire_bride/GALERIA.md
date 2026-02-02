@@ -11,7 +11,7 @@ Total imágenes: 5
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![helena_look15_vampire_bride_back_view_1767313770776.png](./helena_look15_vampire_bride_back_view_1767313770776.png)

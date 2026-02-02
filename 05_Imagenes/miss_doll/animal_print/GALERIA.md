@@ -10,7 +10,7 @@ Total imágenes: 2
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png)

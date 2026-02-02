@@ -12,7 +12,7 @@ Total imágenes: 7
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![pag01_portada.png](./pag01_portada.png)

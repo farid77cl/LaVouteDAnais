@@ -12,7 +12,7 @@ Total imágenes: 8
 
 ---
 
-## 🎡 Carrusel Interactivo
+## 🎡 Carrusel Interactivo (Top 15)
 
 ````carousel
 ![miss_doll_escort_hotel_lobby_1769735766303.png](./miss_doll_escort_hotel_lobby_1769735766303.png)
