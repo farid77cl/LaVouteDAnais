@@ -2,6 +2,16 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
+## 🗂️ Estructura del Directorio
+
+El archivo de personajes está organizado por categorías para facilitar la gestión del canon:
+
+- **`01_Principales/`**: Figuras centrales del universo (Anaïs, Miss Doll).
+- **`02_Secundarios/`**: Aliados, antagonistas menores y víctimas de relatos.
+- **`03_Transformados/`**: Fichas de personajes que han pasado por procesos de feminización o bimboficación (incluye arcos de transición).
+- **`04_Masculinos/`**: Personajes que mantienen su identidad masculina (esposos, depredadores, aliados).
+- **`99_Recursos_y_Templates/`**: Plantillas para nuevas fichas y arcos argumentales.
+
 ---
 
 ## 📋 Plantilla
