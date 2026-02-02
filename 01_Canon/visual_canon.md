@@ -55,10 +55,10 @@
 
 - **Estética:** Rostro HUMANO REALISTA con maquillaje de muñeca exagerado (NO CGI)
 - **Cabello:** Bob rubio platino SIN FLEQUILLO (raya al medio o lateral), sleek & straight
-- **Vestimenta:** Catsuit de látex rosa flúor con CORSÉ EXTERNO VISIBLE
+- **Vestimenta:** Variada (Látex, Lencería, Alta Costura). Corsé opcional (no obligatorio).
 - **Proporciones:** Silueta de reloj de arena hiperbólica
-- **Tacones:** Plataformas rosas 16-18cm
-- **Paleta:** Monocromo rosa (flúor, pastel, crema) y ANIMAL PRINT (Leopardo/Cheetah de lujo)
+- **Tacones:** Plataformas rosas o combinadas 16-18cm
+- **Paleta:** Flexible. Rosa predominante pero permite variantes (Negro, Rojo, Blanco, Metálicos).
 
 ### Actitud Escénica — ESENCIA MISS DOLL
 
