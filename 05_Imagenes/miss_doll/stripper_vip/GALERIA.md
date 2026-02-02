@@ -5,7 +5,7 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: |
-| ![md_stripper_vip_action.png](./md_stripper_vip_action.png) | ![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png) | ![miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png) |
+| ![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png) | ![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png) | ![miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png) |
 | ![miss_doll_stripper_vip_01.png](./miss_doll_stripper_vip_01.png) | ![miss_doll_stripper_vip_02.png](./miss_doll_stripper_vip_02.png) | ![miss_doll_stripper_vip_03.png](./miss_doll_stripper_vip_03.png) |
 
 
@@ -14,7 +14,7 @@ Total imágenes: 6
 ## 🎡 Carrusel Interactivo
 
 ````carousel
-![md_stripper_vip_action.png](./md_stripper_vip_action.png)
+![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png)
 <!-- slide -->
 ![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png)
 <!-- slide -->
@@ -28,7 +28,7 @@ Total imágenes: 6
 ````
 
 ## 📜 Lista de Archivos
-- [md_stripper_vip_action.png](./md_stripper_vip_action.png)
+- [custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png)
 - [miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png)
 - [miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png)
 - [miss_doll_stripper_vip_01.png](./miss_doll_stripper_vip_01.png)

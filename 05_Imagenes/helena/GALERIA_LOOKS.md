@@ -336,7 +336,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look47_standing.png](look47_midnight_pvc_doll/helena_look47_standing.png) | ![helena_look47_seated.png](look47_midnight_pvc_doll/helena_look47_seated.png) | ![helena_look47_side_profile.png](look47_midnight_pvc_doll/helena_look47_side_profile.png) | ![helena_look47_back_view.png](look47_midnight_pvc_doll/helena_look47_back_view.png) | ![helena_look47_ditzy.png](look47_midnight_pvc_doll/helena_look47_ditzy.png) |
+| ![custom_helena_latex_s001_standing.png](look47_midnight_pvc_doll/custom_helena_latex_s001_standing.png) | ![custom_helena_latex_s002_seated.png](look47_midnight_pvc_doll/custom_helena_latex_s002_seated.png) | ![custom_helena_latex_s004_profile.png](look47_midnight_pvc_doll/custom_helena_latex_s004_profile.png) | ![custom_helena_latex_s003_back.png](look47_midnight_pvc_doll/custom_helena_latex_s003_back.png) | ![custom_helena_latex_s005_ditzy.png](look47_midnight_pvc_doll/custom_helena_latex_s005_ditzy.png) |
 
 ---
 

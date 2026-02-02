@@ -5,8 +5,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: |
-| ![helena_look47_back_view.png](./helena_look47_back_view.png) | ![helena_look47_ditzy.png](./helena_look47_ditzy.png) | ![helena_look47_seated.png](./helena_look47_seated.png) |
-| ![helena_look47_side_profile.png](./helena_look47_side_profile.png) | ![helena_look47_standing.png](./helena_look47_standing.png) |
+| ![custom_helena_latex_s001_standing.png](./custom_helena_latex_s001_standing.png) | ![custom_helena_latex_s002_seated.png](./custom_helena_latex_s002_seated.png) | ![custom_helena_latex_s003_back.png](./custom_helena_latex_s003_back.png) |
+| ![custom_helena_latex_s004_profile.png](./custom_helena_latex_s004_profile.png) | ![custom_helena_latex_s005_ditzy.png](./custom_helena_latex_s005_ditzy.png) |
 
 
 ---
@@ -14,23 +14,23 @@ Total imágenes: 5
 ## 🎡 Carrusel Interactivo
 
 ````carousel
-![helena_look47_back_view.png](./helena_look47_back_view.png)
+![custom_helena_latex_s001_standing.png](./custom_helena_latex_s001_standing.png)
 <!-- slide -->
-![helena_look47_ditzy.png](./helena_look47_ditzy.png)
+![custom_helena_latex_s002_seated.png](./custom_helena_latex_s002_seated.png)
 <!-- slide -->
-![helena_look47_seated.png](./helena_look47_seated.png)
+![custom_helena_latex_s003_back.png](./custom_helena_latex_s003_back.png)
 <!-- slide -->
-![helena_look47_side_profile.png](./helena_look47_side_profile.png)
+![custom_helena_latex_s004_profile.png](./custom_helena_latex_s004_profile.png)
 <!-- slide -->
-![helena_look47_standing.png](./helena_look47_standing.png)
+![custom_helena_latex_s005_ditzy.png](./custom_helena_latex_s005_ditzy.png)
 ````
 
 ## 📜 Lista de Archivos
-- [helena_look47_back_view.png](./helena_look47_back_view.png)
-- [helena_look47_ditzy.png](./helena_look47_ditzy.png)
-- [helena_look47_seated.png](./helena_look47_seated.png)
-- [helena_look47_side_profile.png](./helena_look47_side_profile.png)
-- [helena_look47_standing.png](./helena_look47_standing.png)
+- [custom_helena_latex_s001_standing.png](./custom_helena_latex_s001_standing.png)
+- [custom_helena_latex_s002_seated.png](./custom_helena_latex_s002_seated.png)
+- [custom_helena_latex_s003_back.png](./custom_helena_latex_s003_back.png)
+- [custom_helena_latex_s004_profile.png](./custom_helena_latex_s004_profile.png)
+- [custom_helena_latex_s005_ditzy.png](./custom_helena_latex_s005_ditzy.png)
 
 ---
 *Actualizado automáticamente: 2026-02-02*
