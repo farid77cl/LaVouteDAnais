@@ -28,9 +28,9 @@
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
 | **Fase del Ritual** | ✅ FASE 2: ESCRITURA (Hito Cap 2) |
 | **Capítulo en Progreso** | **CAPÍTULO 2 REESCRITO** (Borrador Definitivo - Auto-Justificación) |
-| **Estado Actual** | ✅ **ORDEN TOTAL** - Galerías Universales y PromptFactory V71. |
+| **Estado Actual** | ✅ **ORDEN TOTAL** - Producción Visual Miss Doll Escort (15 imgs) & Fix Canon. |
 | **Último Look Helena** | **Look 47:** Midnight PVC Doll. |
-| **Última Generación** | Banco V71 (VIP & Escort). |
+| **Última Generación** | Set Ultra-Luxury Escort & Yacht (v61/v70/v71). |
 
 ### Historial Reciente
 - **02/02/2026 (MEDIODÍA):** Implementación de PromptFactory. Refinamiento de Cánones Visuales. Reorganización total de Galerías.

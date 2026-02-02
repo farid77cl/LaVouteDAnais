@@ -50,7 +50,7 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 20 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
+Total: 21 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
