@@ -332,6 +332,14 @@
 
 ---
 
+## 🕷️ Look 47: Midnight Pvc Doll
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look47_standing.png](look47_midnight_pvc_doll/helena_look47_standing.png) | ![helena_look47_seated.png](look47_midnight_pvc_doll/helena_look47_seated.png) | ![helena_look47_side_profile.png](look47_midnight_pvc_doll/helena_look47_side_profile.png) | ![helena_look47_back_view.png](look47_midnight_pvc_doll/helena_look47_back_view.png) | ![helena_look47_ditzy.png](look47_midnight_pvc_doll/helena_look47_ditzy.png) |
+
+---
+
 ## 🕷️ Look 50: Golden Cage
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -340,4 +348,4 @@
 
 ---
 
-*Galería generada automáticamente - 30/01/2026* 🦇
+*Galería generada automáticamente - 02/02/2026* 🦇

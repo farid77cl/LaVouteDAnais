@@ -53,4 +53,4 @@ Total imágenes: 11
 - [helena_look6_walking.png](./helena_look6_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-01-30*
+*Actualizado automáticamente: 2026-02-02*

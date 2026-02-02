@@ -26,4 +26,4 @@ Total imágenes: 3
 - [mirror_reflection.png](./mirror_reflection.png)
 
 ---
-*Actualizado automáticamente: 2026-01-30*
+*Actualizado automáticamente: 2026-02-02*

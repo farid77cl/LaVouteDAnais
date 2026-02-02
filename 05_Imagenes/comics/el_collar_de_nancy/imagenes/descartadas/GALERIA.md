@@ -40,4 +40,4 @@ Total imágenes: 7
 - [pag05_transformacion.png](./pag05_transformacion.png)
 
 ---
-*Actualizado automáticamente: 2026-01-30*
+*Actualizado automáticamente: 2026-02-02*
