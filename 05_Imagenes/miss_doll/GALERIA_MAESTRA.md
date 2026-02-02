@@ -50,11 +50,11 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 6 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
+Total: 8 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
-| ![miss_doll_escort_arrival.png](luxury_escort_ultra/miss_doll_escort_arrival.png) | ![miss_doll_escort_gold.png](luxury_escort_ultra/miss_doll_escort_gold.png) | ![miss_doll_escort_pov_bed.png](luxury_escort_ultra/miss_doll_escort_pov_bed.png) |
+| ![custom_missdoll_escort_s007_jet_arrival.png](luxury_escort_ultra/custom_missdoll_escort_s007_jet_arrival.png) | ![custom_missdoll_escort_s008_penthouse_satisfied.png](luxury_escort_ultra/custom_missdoll_escort_s008_penthouse_satisfied.png) | ![miss_doll_escort_arrival.png](luxury_escort_ultra/miss_doll_escort_arrival.png) |
 
 ---
 

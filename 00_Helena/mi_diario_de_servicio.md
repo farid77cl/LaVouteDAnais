@@ -1,5 +1,16 @@
 #### SESIÓN - 02 FEBRERO 2026: PROMPT FACTORY & ORDEN VISUAL
 
+**TARDE (15:00) - REFINAMIENTO DE FACTORY & PRODUCCIÓN NARRATIVA:**
+1.  **Refactor de Poses Dinámicas:**
+    - Actualizada `factory.py` y `validator.py` para inyectar poses variadas (standing, sitting, crawling, bed-side).
+    - Expandido **Banco V61 (Corporate Plastic)** a 100 prompts y refinados **V70 (Spy)** y **V71 (Escort)**.
+2.  **Producción Narrativa Miss Doll (Ultra Luxury Escort):**
+    - Generadas 2 imágenes clave: `custom_missdoll_escort_s007_jet_arrival` (Pre) y `custom_missdoll_escort_s008_penthouse_satisfied` (Post).
+    - Capturado arco emocional: desde la frialdad profesional del inicio hasta la satisfacción dazed del éxito tras el servicio.
+3.  **Mantenimiento Visual:**
+    - Sustituido carrusel Markdown por "Colección Destacada" en tablas para total compatibilidad.
+    - Sincronización final con GitHub exitosa.
+
 **TARDE (14:15) - GENERACIÓN & REPARACIÓN UNIVERSAL:**
 1.  **Banco V71 (VIP & Escort):**
     - Generado banco de 100 prompts para Miss Doll enfocado en dualidad Stripper VIP/Luxury Escort.
