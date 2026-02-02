@@ -54,6 +54,7 @@
 ### Referencia Visual
 
 - **Estética:** Rostro HUMANO REALISTA con maquillaje de muñeca exagerado (NO CGI)
+- **Edad:** 35 años (Madurez plástica perfecta)
 - **Cabello:** Bob rubio platino SIN FLEQUILLO (raya al medio o lateral), sleek & straight
 - **Vestimenta:** Variada (Látex, Lencería, Alta Costura) pero SIEMPRE SENSUAL Y FETICHISTA.
 - **Proporciones:** Silueta de reloj de arena hiperbólica

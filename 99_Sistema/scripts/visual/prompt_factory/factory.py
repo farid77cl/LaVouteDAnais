@@ -43,15 +43,26 @@ class PromptFactory:
             # Variables especificas por personaje para rellenar huecos
             color = random.choice(variables.get('colors', ['pink', 'black'])) # For Miss Doll / Anais
             heel_height = random.choice(variables.get('heel_heights', ['8'])) # For Helena
-            lip_color = random.choice(variables.get('lip_colors', ['black'])) # For Helena
             
+            # Lip Color for Helena (New Palette)
+            if char.lower() == "helena":
+                lip_color = random.choice(['black', 'blood red', 'dark chrome', 'toxic green'])
+            else:
+                lip_color = random.choice(variables.get('lip_colors', ['black']))
+
             # Hair selection
             if char.lower() == "miss doll":
                 hair = random.choice(CanonValidator.MISS_DOLL_HAIR_OPTIONS)
                 makeup_color = random.choice(variables.get('makeup_colors', ['pink', 'red', 'nude', 'dark']))
+                # Aesthetic for Miss Doll comes from JSON variables usually, or fallbacks
+            elif char.lower() == "helena":
+                hair = random.choice(CanonValidator.HELENA_HAIR_OPTIONS)
+                makeup_color = "dark"
+                # Override JSON aesthetic with Helena's specific dynamic aesthetics
+                aesthetic = random.choice(CanonValidator.HELENA_AESTHETICS)
             else:
-                hair = "" # Helena and Anais have static hair in their templates currently
-                makeup_color = "dark" # Default fallback
+                hair = "" 
+                makeup_color = "dark"
             
             # Obtener base power prompt
             base_prompt = CanonValidator.get_power_prompt(char)
