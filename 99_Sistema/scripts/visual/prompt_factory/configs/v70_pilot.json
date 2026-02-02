@@ -1,0 +1,39 @@
+{
+  "id": "v70",
+  "slug": "neon_noir_detective",
+  "title": "🖤 BANCO DE PROMPTS V70 - NEON NOIR DETECTIVE",
+  "theme": "Cyberpunk Noir / Detective",
+  "target_count": 50,
+  "characters": ["Miss Doll", "Helena"],
+  "variables": {
+    "outfits": [
+      "transparent plastic raincoat over latex bodysuit",
+      "black trench coat with nothing underneath",
+      "pvc detective hat and suspenders",
+      "high-tech visor and metallic corset",
+      "sleek leather spy suit with plunging neckline",
+      "wet-look vinyl dress with crime scene tape accessories"
+    ],
+    "settings": [
+      "rainy neon-lit cyber city street",
+      "smoky detective office with blinds shadows",
+      "futuristic noodle bar at night",
+      "dark alleyway with holographic ads",
+      "cyberpunk interrogation room"
+    ],
+    "expressions": [
+      "mysterious and dangerous",
+      "seductive detective gaze",
+      "cold calculating femme fatale",
+      "suspicious squint"
+    ],
+    "aesthetics": [
+      "Cyberpunk Noir",
+      "Cinematic Rain",
+      "High Contrast Neon"
+    ],
+    "colors": ["neon pink", "electric blue", "black", "chrome"],
+    "heel_heights": ["8", "9"],
+    "lip_colors": ["black", "dark purple", "blood red"]
+  }
+}
