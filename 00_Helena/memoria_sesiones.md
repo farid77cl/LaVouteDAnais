@@ -248,6 +248,8 @@
 - **V65:** `banco_prompts_v65_miss_doll_animal_lingerie.md` — Animal Lingerie (100 prompts) ✨ NUEVO
 - **V66:** `banco_prompts_v66_90s_nostalgia.md` — 90s Pop Culture (100 prompts) ✨ NUEVO
 - **V67:** `banco_prompts_v67_red_carpet_paparazzi.md` — Red Carpet Fix (100 prompts) ✅ REPARADO
+- **V74:** `banco_prompts_v74_stepford_automated.md` — Stepford Automated (100 prompts) ✨ NUEVO
+- **V75:** `banco_prompts_v75_celestial_body.md` — Celestial Body Escort (100 prompts) ✨ NUEVO
 
 ---
 
