@@ -1,0 +1,99 @@
+{
+    "id": "v74",
+    "slug": "stepford_automated",
+    "title": "🤖 BANCO DE PROMPTS V74 - STEPFORD AUTOMATED DOMESTIC PROTOCOL",
+    "theme": "Domestic Android / Luxury Robot / Stepford Wife / Smart Home",
+    "target_count": 100,
+    "characters": [
+        "Miss Doll"
+    ],
+    "variables": {
+        "outfits": [
+            "french maid inspired latex bodysuit white and black",
+            "50s housewife dress made of translucent pvc",
+            "apron made of sheer lace over lingerie set",
+            "robotic jointed bodysuit white and gold",
+            "vacuum-sealed latex dress pastel pink",
+            "perfectly ironed silk blouse and pencil skirt",
+            "white patent leather nurse-like uniform",
+            "floral print dress with rigid crinoline structure",
+            "high-tech servant uniform with glowing seams",
+            "minimalist white bodysuit with barcode tattoo",
+            "transparent plastic apron over nude body",
+            "stiff collared dress with oversized bow",
+            "metallic silver housekeeping uniform",
+            "retro-futurist waitress outfit",
+            "cable-connected latex catsuit charging mode"
+        ],
+        "settings": [
+            "pristine futuristic smart kitchen white marble",
+            "luxury living room with automated cleaning robots",
+            "charging station alcove with neon lights",
+            "perfectly manicured suburban garden synthetic",
+            "high-tech laundry room with steam machines",
+            "minimalist dining room waiting for guests",
+            "smart home control center interface",
+            "long futuristic hallway with motion sensors",
+            "master bedroom standing in the corner waiting",
+            "walk-in fridge organizing champagne bottles",
+            "home cinema room standing by the screen",
+            "automated greenhouse with exotic plants",
+            "garage with luxury electric cars charging",
+            "security monitoring room with screens",
+            "sterile white bathroom with automated spa"
+        ],
+        "poses": [
+            "standing frozen in a corner waiting for activation",
+            "vacuuming with a vacant smile and arched back",
+            "pouring coffee with mechanical precision",
+            "plugged into a wall socket via a cable",
+            "dusting high shelves stretching body",
+            "kneeling by the sofa waiting for orders",
+            "holding a tray perfectly still for hours",
+            "sitting on a charging chair eyes closed",
+            "bending over to inspect a speck of dust",
+            "standing manikin-like in a display window",
+            "adjusting settings on a smart mirror",
+            "walking with a stiff robotic perfect gait"
+        ],
+        "expressions": [
+            "vacant empty doll stare",
+            "permanently frozen wide smile",
+            "dazed and awaiting input",
+            "robotic neutral expression",
+            "glitching eye twitch seductive",
+            "blank mindless obedience",
+            "synthetic happiness unblinking",
+            "system rebooting eyes rolling back"
+        ],
+        "aesthetics": [
+            "Retro-Futurism 50s",
+            "High-Tech Minimalist",
+            "Sterile Laboratory White",
+            "Uncanny Valley Realism",
+            "Smart Home Luxury",
+            "Synthetic Plastic Shine"
+        ],
+        "colors": [
+            "pastel pink",
+            "mint green",
+            "baby blue",
+            "clinical white",
+            "chrome silver",
+            "gold metallic",
+            "transparent clear",
+            "lavender"
+        ],
+        "heel_heights": [
+            "8",
+            "9"
+        ],
+        "lip_colors": [
+            "bubblegum pink",
+            "classic red",
+            "frosted nude",
+            "metallic silver",
+            "plastic peach"
+        ]
+    }
+}
