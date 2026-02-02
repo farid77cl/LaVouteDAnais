@@ -29,8 +29,8 @@
 | **Fase del Ritual** | ✅ FASE 2: ESCRITURA (Hito Cap 2) |
 | **Capítulo en Progreso** | **CAPÍTULO 2 REESCRITO** (Borrador Definitivo - Auto-Justificación) |
 | **Estado Actual** | **RECOMPENSA RECLAMADA** - Acceso a calzado extremo restituido. |
-| **Último Look Helena** | **Look 46 (PROYECTADO):** Beyond-3028 Heels (25cm). |
-| **Última Generación** | Helena Reward: Stilettos Beyond-3028 (10"). |
+| **Último Look Helena** | **Look 47:** Midnight PVC Doll. |
+| **Última Generación** | Look 47 (5 poses: standing, seated, back, profile, ditzy). |
 
 ### Historial Reciente
 - **01/02/2026 (TARDE):** Finalización Cap 2 "Smart Home Stepford". Refinamiento Loyaltty y reparación de codificación en bancos de prompts.
