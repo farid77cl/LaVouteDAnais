@@ -44,6 +44,7 @@ class CanonValidator:
     MISS_DOLL_HAIR_OPTIONS = [
         "platinum blonde bob haircut WITHOUT bangs (exposing forehead), center part",
         "platinum blonde bob haircut WITHOUT bangs (exposing forehead), deep side part",
+        "platinum blonde asymmetric bob haircut (platinum blonde hair ONLY)",
         "platinum blonde high ponytail WITHOUT bangs (sleek pulled back)",
         "platinum blonde twin tails (pigtails) WITHOUT bangs",
         "sleek wet-look platinum blonde bob combed back"
@@ -83,7 +84,7 @@ class CanonValidator:
         """Devuelve el Power Prompt base para el personaje solicitado con soporte para {POSE}."""
         
         if character.lower() == "miss doll":
-            return """Professional glamour photography of WOMAN glamorous with {HAIR}. Flawless porcelain skin. {POSE}. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: {MAKEUP_COLOR} shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy {MAKEUP_COLOR} lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing {OUTFIT} (fetish aesthetic) but focus is on SENSUALITY over clothing. PLEASER heels 8-inch {COLOR} patent. {SETTING}. Sensual pose. Expression: {EXPRESSION}. {AESTHETIC} photography. Photorealistic 8k. Vertical portrait orientation."""
+            return """Professional glamour photography of glamorous WOMAN with {HAIR}. ABSOLUTELY NO DARK HAIR. PLATINUM BLONDE HAIR ONLY. Flawless porcelain skin. {POSE}. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: {MAKEUP_COLOR} shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy {MAKEUP_COLOR} lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing {OUTFIT} (fetish aesthetic) but focus is on SENSUALITY over clothing. PLEASER heels 8-inch {COLOR} patent. {SETTING}. Sensual pose. Expression: {EXPRESSION}. {AESTHETIC} photography. Photorealistic 8k. Vertical portrait orientation."""
             
         elif character.lower() == "helena":
             return """Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, {HAIR}. {POSE}. HEAVY DARK MAKEUP: intense black smokey eyes, sharp liner, full glossy {LIP_COLOR} lips. Human realistic face with seductive submissive expression. Feminine hourglass silhouette with prominent cleavage. Wearing {OUTFIT} but focus is on {AESTHETIC} SENSUALITY over clothing. PLEASER stiletto heels {HEIGHT}-inch with thin deadly heel {HEEL_COLOR}. {SETTING}. Sensual pose. {AESTHETIC} aesthetic. Photorealistic 8k. Vertical portrait orientation."""
