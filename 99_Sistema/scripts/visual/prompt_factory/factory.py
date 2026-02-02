@@ -45,6 +45,12 @@ class PromptFactory:
             heel_height = random.choice(variables.get('heel_heights', ['8'])) # For Helena
             lip_color = random.choice(variables.get('lip_colors', ['black'])) # For Helena
             
+            # Hair selection
+            if char.lower() == "miss doll":
+                hair = random.choice(CanonValidator.MISS_DOLL_HAIR_OPTIONS)
+            else:
+                hair = "" # Helena and Anais have static hair in their templates currently
+            
             # Obtener base power prompt
             base_prompt = CanonValidator.get_power_prompt(char)
             
@@ -59,7 +65,8 @@ class PromptFactory:
                     COLOR=color,
                     HEIGHT=heel_height,
                     LIP_COLOR=lip_color,
-                    HEEL_COLOR=color # Reusing color for heel color simplicity in mix
+                    HEEL_COLOR=color,
+                    HAIR=hair
                 )
             except KeyError as e:
                 # Si falta alguna key en el format string del power prompt, manejamos
@@ -73,6 +80,7 @@ class PromptFactory:
                 final_prompt = final_prompt.replace("{HEIGHT}", heel_height)
                 final_prompt = final_prompt.replace("{LIP_COLOR}", lip_color)
                 final_prompt = final_prompt.replace("{HEEL_COLOR}", color)
+                final_prompt = final_prompt.replace("{HAIR}", hair)
             
             # Validar y Corregir
             final_prompt = CanonValidator.validate_and_fix(final_prompt)
