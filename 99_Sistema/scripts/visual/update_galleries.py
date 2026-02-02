@@ -114,7 +114,10 @@ def generate_master_outfit_gallery(base_path):
     print(f"Master Gallery Updated: {output_file}")
 
 def main():
-    base_path = r'C:\Users\fabara\LaVouteDAnais\05_Imagenes'
+    # Identificar la raíz del repo (2 niveles arriba de scripts/visual/)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.abspath(os.path.join(script_dir, "..", "..", ".."))
+    base_path = os.path.join(repo_root, '05_Imagenes')
     
     # 1. Update individual folder galleries
     for root, dirs, files in os.walk(base_path):

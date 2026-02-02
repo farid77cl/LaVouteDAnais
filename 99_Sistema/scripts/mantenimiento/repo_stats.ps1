@@ -5,8 +5,8 @@ Write-Host "ESTADISTICAS DE LA VOUTE D'ANAIS" -ForegroundColor Magenta
 Write-Host "=================================" -ForegroundColor Magenta
 Write-Host ""
 
-$repoPath = $PSScriptRoot
-if (-not $repoPath) { $repoPath = "C:\Users\fabara\LaVouteDAnais" }
+$repoPath = Join-Path $PSScriptRoot "..\..\.." 
+$repoPath = [System.IO.Path]::GetFullPath($repoPath)
 
 # Contar archivos markdown
 $mdFiles = Get-ChildItem -Path $repoPath -Recurse -Filter "*.md" -File | Where-Object { $_.FullName -notlike "*\.git*" }
@@ -32,17 +32,18 @@ foreach ($path in $imgPaths) {
 Write-Host "[IMG] Total Imagenes: $totalImages" -ForegroundColor Cyan
 
 # Contar historias finalizadas
-$finalizadasPath = "$repoPath\03_Literatura\finalizadas"
-if (Test-Path $finalizadasPath) {
-    $finalizadas = Get-ChildItem -Path $finalizadasPath -Filter "*.md" -File | Where-Object { $_.Name -ne "README.md" }
-    Write-Host "[HIST] Historias Finalizadas: $($finalizadas.Count)" -ForegroundColor Cyan
+# Contar historias finalizadas (Consolidadas en 02_Terminados)
+$terminadosPath = "$repoPath\03_Literatura\02_Terminados"
+if (Test-Path $terminadosPath) {
+    $finalizadas = Get-ChildItem -Path $terminadosPath -Filter "*.md" -File | Where-Object { $_.Name -ne "README.md" }
+    Write-Host "[HIST] Historias Terminadas: $($finalizadas.Count)" -ForegroundColor Cyan
 } else {
     $finalizadas = @()
-    Write-Host "[HIST] Historias Finalizadas: 0" -ForegroundColor Cyan
+    Write-Host "[HIST] Historias Terminadas: 0" -ForegroundColor Cyan
 }
 
 # Contar historias en progreso
-$enProgresoPath = "$repoPath\03_Literatura\en_progreso"
+$enProgresoPath = "$repoPath\03_Literatura\01_En_Progreso"
 if (Test-Path $enProgresoPath) {
     $enProgreso = Get-ChildItem -Path $enProgresoPath -Directory
     Write-Host "[WIP] Historias En Progreso: $($enProgreso.Count)" -ForegroundColor Cyan
