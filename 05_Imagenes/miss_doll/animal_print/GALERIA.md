@@ -1,7 +1,14 @@
 # 🖼️ Galería: animal_print
 Total imágenes: 2
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png) | ![miss_doll_v59_zebra_bodysuit.png](./miss_doll_v59_zebra_bodysuit.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen | Imagen |
 | :---: | :---: |
@@ -9,14 +16,6 @@ Total imágenes: 2
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png)
-<!-- slide -->
-![miss_doll_v59_zebra_bodysuit.png](./miss_doll_v59_zebra_bodysuit.png)
-````
 
 ## 📜 Lista de Archivos
 - [miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png)

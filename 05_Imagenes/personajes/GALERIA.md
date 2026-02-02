@@ -1,7 +1,14 @@
 # 🖼️ Galería: personajes
 Total imágenes: 1
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen |
 | :---: |
@@ -9,12 +16,6 @@ Total imágenes: 1
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png)
-````
 
 ## 📜 Lista de Archivos
 - [ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png)

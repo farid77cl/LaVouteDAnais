@@ -1,41 +1,24 @@
 # 🖼️ Galería: UI_Assets
 Total imágenes: 10
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![ui_missdoll_asset_s106_eyes_hood.png](./ui_missdoll_asset_s106_eyes_hood.png) | ![ui_missdoll_asset_s107_lips_gloss.png](./ui_missdoll_asset_s107_lips_gloss.png) | ![ui_missdoll_asset_s108_lips_hood_v1.png](./ui_missdoll_asset_s108_lips_hood_v1.png) |
 | ![ui_missdoll_asset_s109_lips_hood_v1_cropped.png](./ui_missdoll_asset_s109_lips_hood_v1_cropped.png) | ![ui_missdoll_asset_s110_lips_hood_v2.png](./ui_missdoll_asset_s110_lips_hood_v2.png) | ![ui_missdoll_asset_s111_lips_hood_v2_cropped.png](./ui_missdoll_asset_s111_lips_hood_v2_cropped.png) |
-| ![ui_missdoll_asset_s112_lips_hood_v3.png](./ui_missdoll_asset_s112_lips_hood_v3.png) | ![ui_missdoll_asset_s113_lips_hood_v3_cropped.png](./ui_missdoll_asset_s113_lips_hood_v3_cropped.png) | ![ui_missdoll_asset_s114_thin_eyes.png](./ui_missdoll_asset_s114_thin_eyes.png) |
-| ![ui_missdoll_asset_s115_thin_eyes_cropped.png](./ui_missdoll_asset_s115_thin_eyes_cropped.png) |
-
 
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![ui_missdoll_asset_s106_eyes_hood.png](./ui_missdoll_asset_s106_eyes_hood.png)
-<!-- slide -->
-![ui_missdoll_asset_s107_lips_gloss.png](./ui_missdoll_asset_s107_lips_gloss.png)
-<!-- slide -->
-![ui_missdoll_asset_s108_lips_hood_v1.png](./ui_missdoll_asset_s108_lips_hood_v1.png)
-<!-- slide -->
-![ui_missdoll_asset_s109_lips_hood_v1_cropped.png](./ui_missdoll_asset_s109_lips_hood_v1_cropped.png)
-<!-- slide -->
-![ui_missdoll_asset_s110_lips_hood_v2.png](./ui_missdoll_asset_s110_lips_hood_v2.png)
-<!-- slide -->
-![ui_missdoll_asset_s111_lips_hood_v2_cropped.png](./ui_missdoll_asset_s111_lips_hood_v2_cropped.png)
-<!-- slide -->
-![ui_missdoll_asset_s112_lips_hood_v3.png](./ui_missdoll_asset_s112_lips_hood_v3.png)
-<!-- slide -->
-![ui_missdoll_asset_s113_lips_hood_v3_cropped.png](./ui_missdoll_asset_s113_lips_hood_v3_cropped.png)
-<!-- slide -->
-![ui_missdoll_asset_s114_thin_eyes.png](./ui_missdoll_asset_s114_thin_eyes.png)
-<!-- slide -->
-![ui_missdoll_asset_s115_thin_eyes_cropped.png](./ui_missdoll_asset_s115_thin_eyes_cropped.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ui_missdoll_asset_s106_eyes_hood.png](./ui_missdoll_asset_s106_eyes_hood.png) | ![ui_missdoll_asset_s107_lips_gloss.png](./ui_missdoll_asset_s107_lips_gloss.png) | ![ui_missdoll_asset_s108_lips_hood_v1.png](./ui_missdoll_asset_s108_lips_hood_v1.png) | ![ui_missdoll_asset_s109_lips_hood_v1_cropped.png](./ui_missdoll_asset_s109_lips_hood_v1_cropped.png) |
+| ![ui_missdoll_asset_s110_lips_hood_v2.png](./ui_missdoll_asset_s110_lips_hood_v2.png) | ![ui_missdoll_asset_s111_lips_hood_v2_cropped.png](./ui_missdoll_asset_s111_lips_hood_v2_cropped.png) | ![ui_missdoll_asset_s112_lips_hood_v3.png](./ui_missdoll_asset_s112_lips_hood_v3.png) | ![ui_missdoll_asset_s113_lips_hood_v3_cropped.png](./ui_missdoll_asset_s113_lips_hood_v3_cropped.png) |
+| ![ui_missdoll_asset_s114_thin_eyes.png](./ui_missdoll_asset_s114_thin_eyes.png) | ![ui_missdoll_asset_s115_thin_eyes_cropped.png](./ui_missdoll_asset_s115_thin_eyes_cropped.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [ui_missdoll_asset_s106_eyes_hood.png](./ui_missdoll_asset_s106_eyes_hood.png)

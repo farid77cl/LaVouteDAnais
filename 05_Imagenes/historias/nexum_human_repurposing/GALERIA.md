@@ -1,7 +1,14 @@
 # 🖼️ Galería: nexum_human_repurposing
 Total imágenes: 2
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![dahlia_fullbody.png](./dahlia_fullbody.png) | ![dahlia_portrait.png](./dahlia_portrait.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen | Imagen |
 | :---: | :---: |
@@ -9,14 +16,6 @@ Total imágenes: 2
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![dahlia_fullbody.png](./dahlia_fullbody.png)
-<!-- slide -->
-![dahlia_portrait.png](./dahlia_portrait.png)
-````
 
 ## 📜 Lista de Archivos
 - [dahlia_fullbody.png](./dahlia_fullbody.png)

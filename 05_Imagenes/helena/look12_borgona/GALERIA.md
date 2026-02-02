@@ -1,38 +1,24 @@
 # 🖼️ Galería: look12_borgona
 Total imágenes: 9
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![helena_look12_back_1767092339091.png](./helena_look12_back_1767092339091.png) | ![helena_look12_borgona_imperial.png](./helena_look12_borgona_imperial.png) | ![helena_look12_borgona_imperial_1767034601346.png](./helena_look12_borgona_imperial_1767034601346.png) |
 | ![helena_look12_borgona_imperial_1767902256364.png](./helena_look12_borgona_imperial_1767902256364.png) | ![helena_look12_burgundy_seated.png](./helena_look12_burgundy_seated.png) | ![helena_look12_burgundy_side_profile.png](./helena_look12_burgundy_side_profile.png) |
-| ![helena_look12_ditzy.png](./helena_look12_ditzy.png) | ![helena_look12_standing_1767093169687.png](./helena_look12_standing_1767093169687.png) | ![helena_look12_walking_1767092323198.png](./helena_look12_walking_1767092323198.png) |
-
 
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![helena_look12_back_1767092339091.png](./helena_look12_back_1767092339091.png)
-<!-- slide -->
-![helena_look12_borgona_imperial.png](./helena_look12_borgona_imperial.png)
-<!-- slide -->
-![helena_look12_borgona_imperial_1767034601346.png](./helena_look12_borgona_imperial_1767034601346.png)
-<!-- slide -->
-![helena_look12_borgona_imperial_1767902256364.png](./helena_look12_borgona_imperial_1767902256364.png)
-<!-- slide -->
-![helena_look12_burgundy_seated.png](./helena_look12_burgundy_seated.png)
-<!-- slide -->
-![helena_look12_burgundy_side_profile.png](./helena_look12_burgundy_side_profile.png)
-<!-- slide -->
-![helena_look12_ditzy.png](./helena_look12_ditzy.png)
-<!-- slide -->
-![helena_look12_standing_1767093169687.png](./helena_look12_standing_1767093169687.png)
-<!-- slide -->
-![helena_look12_walking_1767092323198.png](./helena_look12_walking_1767092323198.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![helena_look12_back_1767092339091.png](./helena_look12_back_1767092339091.png) | ![helena_look12_borgona_imperial.png](./helena_look12_borgona_imperial.png) | ![helena_look12_borgona_imperial_1767034601346.png](./helena_look12_borgona_imperial_1767034601346.png) | ![helena_look12_borgona_imperial_1767902256364.png](./helena_look12_borgona_imperial_1767902256364.png) |
+| ![helena_look12_burgundy_seated.png](./helena_look12_burgundy_seated.png) | ![helena_look12_burgundy_side_profile.png](./helena_look12_burgundy_side_profile.png) | ![helena_look12_ditzy.png](./helena_look12_ditzy.png) | ![helena_look12_standing_1767093169687.png](./helena_look12_standing_1767093169687.png) |
+| ![helena_look12_walking_1767092323198.png](./helena_look12_walking_1767092323198.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [helena_look12_back_1767092339091.png](./helena_look12_back_1767092339091.png)

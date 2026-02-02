@@ -2,7 +2,7 @@
     "id": "v71",
     "slug": "vip_escort_stripper",
     "title": "💎 BANCO DE PROMPTS V71 - VIP STRIPPER & ULTRA LUXURY ESCORT",
-    "theme": "High End Sex Work / Fetish Glamour",
+    "theme": "High End Sex Work / Fetish Glamour / Escort",
     "target_count": 100,
     "characters": [
         "Miss Doll"
@@ -16,7 +16,14 @@
             "thigh-high platform boots and diamond body chain",
             "white fur coat open with lingerie underneath",
             "strappy bondage harness glitter finish",
-            "wet-look gold bikini tiny"
+            "wet-look gold bikini tiny",
+            "tight silk slip dress with excessive side slit",
+            "sparkling see-through mesh bodysuit",
+            "strapless leather cocktail dress with waist cincher",
+            "barely-there wrap-around silk scarf top",
+            "transparent pvc corset and matching thong",
+            "vintage lace teddy with pearl details",
+            "metallic silver monokini with massive cutouts"
         ],
         "settings": [
             "private jet cabin cream leather interior",
@@ -25,35 +32,68 @@
             "neon-lit pole dance stage with dollars on floor",
             "penthouse bedroom with city skyline view",
             "backstage dressing room with vanity mirrors",
-            "red carpet champagne reception night"
+            "red carpet champagne reception night",
+            "gold leaf bathroom next to a marble bathtub",
+            "edge of an infinity pool overlooking the desert",
+            "vintage casino penthouse suite at night",
+            "private helipad at the top of a skyscraper",
+            "luxury walk-in closet filled with designer bags",
+            "darkened library with leather armchairs",
+            "mirror-walled rehearsal studio",
+            "underground secret fetish lounge"
+        ],
+        "poses": [
+            "sprawled seductively on a king-size bed",
+            "sitting elegantly on a velvet sofa with legs spread",
+            "crawling across a polished glass floor",
+            "leaning against a private jet window with a champagne glass",
+            "standing with a powerful authoritative stance",
+            "bending over a marble vanity mirror",
+            "kneeling on a plush rug looking up with bedroom eyes",
+            "captured mid-performance on a brass pole",
+            "lounging in an oversized leather chair with one leg over the arm",
+            "walking towards the camera while shedding a fur coat",
+            "leaning back in a bathtub filled with bubbles and glitter",
+            "sitting on the edge of a balcony with a dangerous calm"
         ],
         "expressions": [
             "haughty superior smirk",
             "fake sweet innocent smile",
             "seductive bedroom eyes half closed",
             "greedy looking at money",
-            "dominant demanding worship"
+            "dominant demanding worship",
+            "dazed and empty-headed with a faint smile",
+            "intense analytical gaze for clients",
+            "sensual pouting directed at the camera"
         ],
         "aesthetics": [
             "Ultra Luxury High Key",
             "Dark Club Neon",
             "Paparazzi Flash",
-            "Cinematic Glamour"
+            "Cinematic Glamour",
+            "Vogue Editorial Style",
+            "Flashy Nightlife Esthetic"
         ],
         "colors": [
             "gold",
             "platinum",
             "diamond",
             "hot pink",
-            "white"
+            "white",
+            "royal purple",
+            "emerald green",
+            "ruby red"
         ],
-        "helix_heights": [
-            "8"
+        "heel_heights": [
+            "8",
+            "9"
         ],
         "lip_colors": [
             "nude shimmer",
             "hot pink",
-            "glossy red"
+            "glossy red",
+            "dark berry",
+            "frosted silver"
         ]
     }
 }

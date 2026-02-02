@@ -1,27 +1,22 @@
 # 🖼️ Galería: imagenes
 Total imágenes: 4
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![pag01_portada.png](./pag01_portada.png) | ![pag02_el_hallazgo.png](./pag02_el_hallazgo.png) | ![pag03_activacion.png](./pag03_activacion.png) |
 | ![pag04_el_uniforme.png](./pag04_el_uniforme.png) |
 
-
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![pag01_portada.png](./pag01_portada.png)
-<!-- slide -->
-![pag02_el_hallazgo.png](./pag02_el_hallazgo.png)
-<!-- slide -->
-![pag03_activacion.png](./pag03_activacion.png)
-<!-- slide -->
-![pag04_el_uniforme.png](./pag04_el_uniforme.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![pag01_portada.png](./pag01_portada.png) | ![pag02_el_hallazgo.png](./pag02_el_hallazgo.png) | ![pag03_activacion.png](./pag03_activacion.png) | ![pag04_el_uniforme.png](./pag04_el_uniforme.png) |
+
+
+---
 
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:

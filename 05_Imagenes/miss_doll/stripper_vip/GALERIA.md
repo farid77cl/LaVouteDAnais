@@ -1,31 +1,23 @@
 # 🖼️ Galería: stripper_vip
 Total imágenes: 6
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png) | ![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png) | ![miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png) |
 | ![miss_doll_stripper_vip_01.png](./miss_doll_stripper_vip_01.png) | ![miss_doll_stripper_vip_02.png](./miss_doll_stripper_vip_02.png) | ![miss_doll_stripper_vip_03.png](./miss_doll_stripper_vip_03.png) |
 
-
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png)
-<!-- slide -->
-![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png)
-<!-- slide -->
-![miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png)
-<!-- slide -->
-![miss_doll_stripper_vip_01.png](./miss_doll_stripper_vip_01.png)
-<!-- slide -->
-![miss_doll_stripper_vip_02.png](./miss_doll_stripper_vip_02.png)
-<!-- slide -->
-![miss_doll_stripper_vip_03.png](./miss_doll_stripper_vip_03.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png) | ![miss_doll_stripper_mirror.png](./miss_doll_stripper_mirror.png) | ![miss_doll_stripper_pole_split.png](./miss_doll_stripper_pole_split.png) | ![miss_doll_stripper_vip_01.png](./miss_doll_stripper_vip_01.png) |
+| ![miss_doll_stripper_vip_02.png](./miss_doll_stripper_vip_02.png) | ![miss_doll_stripper_vip_03.png](./miss_doll_stripper_vip_03.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [custom_missdoll_bimbo_s001_action.png](./custom_missdoll_bimbo_s001_action.png)

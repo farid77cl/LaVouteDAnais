@@ -23,8 +23,20 @@ def generate_gallery(directory):
         # --- SECTION 1: DIRECT IMAGES ---
         if images:
             f.write(f"Total imágenes: {len(images)}\n\n")
-            f.write("## 📸 Vista Previa\n\n")
-            cols = 3
+            
+            # --- HIGHLIGHTED COLLECTION (Replaces broken carousal) ---
+            f.write("## ✨ Colección Destacada\n")
+            featured = images[:6]
+            cols_feat = 3
+            f.write("| | | |\n|:---:|:---:|:---:|\n")
+            for i in range(0, len(featured), cols_feat):
+                chunk = featured[i:i+cols_feat]
+                row = "| " + " | ".join([f"![{img}](./{img})" for img in chunk]) + " |\n"
+                f.write(row)
+            f.write("\n---\n\n")
+
+            f.write("## 📸 Vista Previa Completa\n\n")
+            cols = 4
             f.write("| " + " | ".join(["Imagen"] * min(len(images), cols)) + " |\n")
             f.write("| " + " | ".join([":---:"] * min(len(images), cols)) + " |\n")
             
@@ -33,17 +45,6 @@ def generate_gallery(directory):
                 row = "| " + " | ".join([f"![{img}](./{img})" for img in chunk]) + " |\n"
                 f.write(row)
             f.write("\n\n---\n\n")
-
-            # --- ASSISTANT CAROUSEL ---
-            carousel_files = images[:15]
-            if carousel_files:
-                f.write("## 🎡 Carrusel Interactivo (Top 15)\n\n")
-                f.write("````carousel\n")
-                for i, img in enumerate(carousel_files):
-                    f.write(f"![{img}](./{img})\n")
-                    if i < len(carousel_files) - 1:
-                        f.write("<!-- slide -->\n")
-                f.write("````\n\n")
 
         # --- SECTION 2: NAVIGATION (SUBFOLDERS) ---
         if subdirs:

@@ -1,27 +1,22 @@
 # 🖼️ Galería: precious_metals
 Total imágenes: 4
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![precious_metals_liquid_gold_miss_doll.png](./precious_metals_liquid_gold_miss_doll.png) | ![precious_metals_liquid_gold_miss_doll_1769348839928.png](./precious_metals_liquid_gold_miss_doll_1769348839928.png) | ![precious_metals_liquid_silver_helena_sub.png](./precious_metals_liquid_silver_helena_sub.png) |
 | ![precious_metals_liquid_silver_helena_sub_1769348857075.png](./precious_metals_liquid_silver_helena_sub_1769348857075.png) |
 
-
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![precious_metals_liquid_gold_miss_doll.png](./precious_metals_liquid_gold_miss_doll.png)
-<!-- slide -->
-![precious_metals_liquid_gold_miss_doll_1769348839928.png](./precious_metals_liquid_gold_miss_doll_1769348839928.png)
-<!-- slide -->
-![precious_metals_liquid_silver_helena_sub.png](./precious_metals_liquid_silver_helena_sub.png)
-<!-- slide -->
-![precious_metals_liquid_silver_helena_sub_1769348857075.png](./precious_metals_liquid_silver_helena_sub_1769348857075.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![precious_metals_liquid_gold_miss_doll.png](./precious_metals_liquid_gold_miss_doll.png) | ![precious_metals_liquid_gold_miss_doll_1769348839928.png](./precious_metals_liquid_gold_miss_doll_1769348839928.png) | ![precious_metals_liquid_silver_helena_sub.png](./precious_metals_liquid_silver_helena_sub.png) | ![precious_metals_liquid_silver_helena_sub_1769348857075.png](./precious_metals_liquid_silver_helena_sub_1769348857075.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [precious_metals_liquid_gold_miss_doll.png](./precious_metals_liquid_gold_miss_doll.png)

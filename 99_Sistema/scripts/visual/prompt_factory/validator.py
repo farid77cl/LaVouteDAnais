@@ -64,19 +64,32 @@ class CanonValidator:
         "Vanguard High Fashion Goth"
     ]
 
+    # New standard poses for variety
+    UNIVERSAL_POSES = [
+        "standing in a powerful model stance",
+        "sitting elegantly with legs crossed",
+        "lounging seductively on a piece of luxury furniture",
+        "leaning against a surface with a playful gaze",
+        "walking towards the camera with a confident stride",
+        "captured in a candid 3/4 side profile view",
+        "back view looking over her shoulder with a smirk",
+        "kneeling with an arched back and seductive posture",
+        "sprawled on her side in a glamorous pose",
+        "close shot showing a dazed and happy facial expression"
+    ]
+
     @staticmethod
     def get_power_prompt(character):
-        """Devuelve el Power Prompt base para el personaje solicitado."""
+        """Devuelve el Power Prompt base para el personaje solicitado con soporte para {POSE}."""
         
         if character.lower() == "miss doll":
-            return """Professional glamour photography of WOMAN glamorous with {HAIR}. Flawless porcelain skin. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: {MAKEUP_COLOR} shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy {MAKEUP_COLOR} lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing {OUTFIT} (fetish aesthetic) but focus is on SENSUALITY over clothing. PLEASER heels 8-inch {COLOR} patent power stance. {SETTING}. Sensual commanding pose evoking STRIPTEASE PERFORMANCE. Expression: {EXPRESSION}. {AESTHETIC} photography. Photorealistic 8k. Vertical portrait orientation."""
+            return """Professional glamour photography of WOMAN glamorous with {HAIR}. Flawless porcelain skin. {POSE}. Delicate refined features COMMANDING. HEAVY GLAMOUR MAKEUP: {MAKEUP_COLOR} shimmer eyes intense, thick liner, mega lashes, ULTRA PLUMP overlined glossy {MAKEUP_COLOR} lips open giving command. Human realistic face DOMINANT expression. EXTREME hourglass silhouette prominent cleavage tiny cinched waist. Wearing {OUTFIT} (fetish aesthetic) but focus is on SENSUALITY over clothing. PLEASER heels 8-inch {COLOR} patent. {SETTING}. Sensual pose. Expression: {EXPRESSION}. {AESTHETIC} photography. Photorealistic 8k. Vertical portrait orientation."""
             
         elif character.lower() == "helena":
-            # Updated for DYNAMIC Modern Goth look
-            return """Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, {HAIR}. HEAVY DARK MAKEUP: intense black smokey eyes, sharp liner, full glossy {LIP_COLOR} lips. Human realistic face with seductive submissive expression. Feminine hourglass silhouette with prominent cleavage. Wearing {OUTFIT} but focus is on {AESTHETIC} SENSUALITY over clothing. PLEASER stiletto heels {HEIGHT}-inch with thin deadly heel {HEEL_COLOR}. {SETTING}. Sensual gothic pose. {AESTHETIC} aesthetic. Photorealistic 8k. Vertical portrait orientation."""
+            return """Professional glamour photography of elegant goth WOMAN (Sacha Massacre visual reference). Pale porcelain white skin, {HAIR}. {POSE}. HEAVY DARK MAKEUP: intense black smokey eyes, sharp liner, full glossy {LIP_COLOR} lips. Human realistic face with seductive submissive expression. Feminine hourglass silhouette with prominent cleavage. Wearing {OUTFIT} but focus is on {AESTHETIC} SENSUALITY over clothing. PLEASER stiletto heels {HEIGHT}-inch with thin deadly heel {HEEL_COLOR}. {SETTING}. Sensual pose. {AESTHETIC} aesthetic. Photorealistic 8k. Vertical portrait orientation."""
             
         elif character.lower() == "anais":
-            return """Professional glamour photography of powerful aristocratic WOMAN in her 40s with ageless sensual allure (Kylie Minogue facial structure reference). Angular sculpted face with very high defined cheekbones accentuated by expert contouring. Smooth taut skin finish suggesting premium aesthetic treatments. Honey blonde hair in polished Betty Page vintage waves. HEAVY GLAMOUR MAKEUP: sophisticated bronze/champagne smokey eyes, long voluminous wispy lashes, masterfully overlined full sculpted glossy RED lips (signature semi-pout). Sultry confident dominant expression with bedroom eyes. Feminine hourglass silhouette. Wearing {OUTFIT}. PLEASER So Kate style {COLOR} stiletto 5-6 inch. {SETTING}. Sensual dominant pose. Aristocratic glamour aesthetic. Photorealistic 8k. Vertical portrait orientation."""
+            return """Professional glamour photography of powerful aristocratic WOMAN in her 40s with ageless sensual allure (Kylie Minogue facial structure reference). Angular sculpted face with very high defined cheekbones. {POSE}. Smooth taut skin. Honey blonde hair in polished vintage waves. HEAVY GLAMOUR MAKEUP: sophisticated bronze smokey eyes, masterfully overlined glossy RED lips. Sultry confident dominant expression. Feminine hourglass silhouette. Wearing {OUTFIT}. PLEASER So Kate style {COLOR} stiletto 5-6 inch. {SETTING}. Aristocratic glamour aesthetic. Photorealistic 8k. Vertical portrait orientation."""
             
         else:
-            return "Professional photography of {OUTFIT} in {SETTING}. Photorealistic 8k."
+            return "Professional photography of {OUTFIT} in {SETTING}. {POSE}. Photorealistic 8k."

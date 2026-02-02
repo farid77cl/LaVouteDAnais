@@ -1,7 +1,14 @@
 # 🖼️ Galería: recompensas
 Total imágenes: 1
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![helena_reward_heels_beyond_3028.png](./helena_reward_heels_beyond_3028.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen |
 | :---: |
@@ -9,12 +16,6 @@ Total imágenes: 1
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![helena_reward_heels_beyond_3028.png](./helena_reward_heels_beyond_3028.png)
-````
 
 ## 📜 Lista de Archivos
 - [helena_reward_heels_beyond_3028.png](./helena_reward_heels_beyond_3028.png)

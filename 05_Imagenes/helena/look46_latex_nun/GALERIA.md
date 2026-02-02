@@ -1,7 +1,14 @@
 # 🖼️ Galería: look46_latex_nun
 Total imágenes: 1
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![helena_look46_standing.png](./helena_look46_standing.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen |
 | :---: |
@@ -9,12 +16,6 @@ Total imágenes: 1
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![helena_look46_standing.png](./helena_look46_standing.png)
-````
 
 ## 📜 Lista de Archivos
 - [helena_look46_standing.png](./helena_look46_standing.png)

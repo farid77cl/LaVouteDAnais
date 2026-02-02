@@ -40,6 +40,9 @@ class PromptFactory:
             expression = random.choice(variables.get('expressions', ['seductive']))
             aesthetic = random.choice(variables.get('aesthetics', ['glamour']))
             
+            # Dynamic Pose selection
+            pose = random.choice(variables.get('poses', CanonValidator.UNIVERSAL_POSES))
+            
             # Variables especificas por personaje para rellenar huecos
             color = random.choice(variables.get('colors', ['pink', 'black'])) # For Miss Doll / Anais
             heel_height = random.choice(variables.get('heel_heights', ['8'])) # For Helena
@@ -54,11 +57,18 @@ class PromptFactory:
             if char.lower() == "miss doll":
                 hair = random.choice(CanonValidator.MISS_DOLL_HAIR_OPTIONS)
                 makeup_color = random.choice(variables.get('makeup_colors', ['pink', 'red', 'nude', 'dark']))
-                # Aesthetic for Miss Doll comes from JSON variables usually, or fallbacks
+                # If pose should be more specific for doll roles like stripper
+                if "stripper" in self.config.get('theme', '').lower():
+                    doll_poses = list(CanonValidator.UNIVERSAL_POSES) + [
+                        "holding onto a brass dance pole",
+                        "captured mid-spin during a performance",
+                        "grinding against a velvet couch in a VIP room",
+                        "bending over while checking her reflection"
+                    ]
+                    pose = random.choice(doll_poses)
             elif char.lower() == "helena":
                 hair = random.choice(CanonValidator.HELENA_HAIR_OPTIONS)
                 makeup_color = "dark"
-                # Override JSON aesthetic with Helena's specific dynamic aesthetics
                 aesthetic = random.choice(CanonValidator.HELENA_AESTHETICS)
             else:
                 hair = "" 
@@ -68,40 +78,38 @@ class PromptFactory:
             base_prompt = CanonValidator.get_power_prompt(char)
             
             # Rellenar template
-            # Usamos safe_substitute o replace manual para flexibilidad
+            format_args = {
+                "OUTFIT": outfit,
+                "SETTING": setting,
+                "EXPRESSION": expression,
+                "AESTHETIC": aesthetic,
+                "COLOR": color,
+                "HEIGHT": heel_height,
+                "LIP_COLOR": lip_color,
+                "HEEL_COLOR": color,
+                "HAIR": hair,
+                "MAKEUP_COLOR": makeup_color,
+                "POSE": pose
+            }
+            
             try:
-                final_prompt = base_prompt.format(
-                    OUTFIT=outfit,
-                    SETTING=setting,
-                    EXPRESSION=expression,
-                    AESTHETIC=aesthetic,
-                    COLOR=color,
-                    HEIGHT=heel_height,
-                    LIP_COLOR=lip_color,
-                    HEEL_COLOR=color,
-                    HAIR=hair,
-                    MAKEUP_COLOR=makeup_color
-                )
-            except KeyError as e:
-                # Si falta alguna key en el format string del power prompt, manejamos
-                # Esto pasa porque diferentes power prompts tienen diferentes keys.
-                # Estrategia simple: rellenar lo que se pueda
-                final_prompt = base_prompt.replace("{OUTFIT}", outfit)
-                final_prompt = final_prompt.replace("{SETTING}", setting)
-                final_prompt = final_prompt.replace("{EXPRESSION}", expression)
-                final_prompt = final_prompt.replace("{AESTHETIC}", aesthetic)
-                final_prompt = final_prompt.replace("{COLOR}", color)
-                final_prompt = final_prompt.replace("{HEIGHT}", heel_height)
-                final_prompt = final_prompt.replace("{LIP_COLOR}", lip_color)
-                final_prompt = final_prompt.replace("{HEEL_COLOR}", color)
-                final_prompt = final_prompt.replace("{HAIR}", hair)
-                final_prompt = final_prompt.replace("{MAKEUP_COLOR}", makeup_color)
+                final_prompt = base_prompt.format(**format_args)
+            except KeyError:
+                # Fallback replacement
+                final_prompt = base_prompt
+                for key, val in format_args.items():
+                    final_prompt = final_prompt.replace(f"{{{key}}}", str(val))
             
             # Validar y Corregir
             final_prompt = CanonValidator.validate_and_fix(final_prompt)
             
             # Formatear salida Markdown
-            prompts_output += f"### {char} - {outfit} - {i+1:03d}\n"
+            # Improved header with more context
+            header_title = f"{char} - {outfit} - {pose}"
+            if len(header_title) > 60:
+                header_title = header_title[:57] + "..."
+                
+            prompts_output += f"### {i+1:03d}: {header_title}\n"
             prompts_output += "```text\n"
             prompts_output += final_prompt + "\n"
             prompts_output += "```\n\n"
@@ -122,12 +130,12 @@ class PromptFactory:
         
         # Guardar
         filename = f"banco_prompts_{self.config.get('id')}_{self.config.get('slug')}.md"
-        output_path = os.path.join(output_dir, filename)
+        output_path = os.path.normpath(os.path.join(output_dir, filename))
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(final_content)
             
-        print(f"Banco generado exitosamente: {output_path}")
+        return output_path
 
 if __name__ == "__main__":
     # Ejemplo de uso directo

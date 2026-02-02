@@ -1,7 +1,14 @@
 # 🖼️ Galería: Reference
 Total imágenes: 2
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![custom_helena_general_s011_canon_test_fullbody.png](./custom_helena_general_s011_canon_test_fullbody.png) | ![custom_helena_general_s012_canon_test_portrait.png](./custom_helena_general_s012_canon_test_portrait.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen | Imagen |
 | :---: | :---: |
@@ -9,14 +16,6 @@ Total imágenes: 2
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![custom_helena_general_s011_canon_test_fullbody.png](./custom_helena_general_s011_canon_test_fullbody.png)
-<!-- slide -->
-![custom_helena_general_s012_canon_test_portrait.png](./custom_helena_general_s012_canon_test_portrait.png)
-````
 
 ## 📜 Lista de Archivos
 - [custom_helena_general_s011_canon_test_fullbody.png](./custom_helena_general_s011_canon_test_fullbody.png)

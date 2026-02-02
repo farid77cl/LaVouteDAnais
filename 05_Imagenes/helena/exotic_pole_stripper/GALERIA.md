@@ -1,7 +1,14 @@
 # 🖼️ Galería: exotic_pole_stripper
 Total imágenes: 1
 
-## 📸 Vista Previa
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![helena_pole_spin_dungeon.png](./helena_pole_spin_dungeon.png) |
+
+---
+
+## 📸 Vista Previa Completa
 
 | Imagen |
 | :---: |
@@ -9,12 +16,6 @@ Total imágenes: 1
 
 
 ---
-
-## 🎡 Carrusel Interactivo (Top 15)
-
-````carousel
-![helena_pole_spin_dungeon.png](./helena_pole_spin_dungeon.png)
-````
 
 ## 📜 Lista de Archivos
 - [helena_pole_spin_dungeon.png](./helena_pole_spin_dungeon.png)

@@ -1,34 +1,23 @@
 # 🖼️ Galería: descartadas
 Total imágenes: 7
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![pag01_portada.png](./pag01_portada.png) | ![pag01_portada_v1.png](./pag01_portada_v1.png) | ![pag02_el_hallazgo.png](./pag02_el_hallazgo.png) |
 | ![pag02_el_hallazgo_v1.png](./pag02_el_hallazgo_v1.png) | ![pag03_activacion.png](./pag03_activacion.png) | ![pag04_el_uniforme.png](./pag04_el_uniforme.png) |
-| ![pag05_transformacion.png](./pag05_transformacion.png) |
-
 
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![pag01_portada.png](./pag01_portada.png)
-<!-- slide -->
-![pag01_portada_v1.png](./pag01_portada_v1.png)
-<!-- slide -->
-![pag02_el_hallazgo.png](./pag02_el_hallazgo.png)
-<!-- slide -->
-![pag02_el_hallazgo_v1.png](./pag02_el_hallazgo_v1.png)
-<!-- slide -->
-![pag03_activacion.png](./pag03_activacion.png)
-<!-- slide -->
-![pag04_el_uniforme.png](./pag04_el_uniforme.png)
-<!-- slide -->
-![pag05_transformacion.png](./pag05_transformacion.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![pag01_portada.png](./pag01_portada.png) | ![pag01_portada_v1.png](./pag01_portada_v1.png) | ![pag02_el_hallazgo.png](./pag02_el_hallazgo.png) | ![pag02_el_hallazgo_v1.png](./pag02_el_hallazgo_v1.png) |
+| ![pag03_activacion.png](./pag03_activacion.png) | ![pag04_el_uniforme.png](./pag04_el_uniforme.png) | ![pag05_transformacion.png](./pag05_transformacion.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [pag01_portada.png](./pag01_portada.png)

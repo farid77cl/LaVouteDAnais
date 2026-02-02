@@ -2,9 +2,12 @@
   "id": "v70",
   "slug": "neon_noir_detective",
   "title": "🖤 BANCO DE PROMPTS V70 - NEON NOIR DETECTIVE",
-  "theme": "Cyberpunk Noir / Detective",
-  "target_count": 50,
-  "characters": ["Miss Doll", "Helena"],
+  "theme": "Cyberpunk Noir / Detective / Spy",
+  "target_count": 100,
+  "characters": [
+    "Miss Doll",
+    "Helena"
+  ],
   "variables": {
     "outfits": [
       "transparent plastic raincoat over latex bodysuit",
@@ -12,28 +15,84 @@
       "pvc detective hat and suspenders",
       "high-tech visor and metallic corset",
       "sleek leather spy suit with plunging neckline",
-      "wet-look vinyl dress with crime scene tape accessories"
+      "wet-look vinyl dress with crime scene tape accessories",
+      "augmented reality glasses and tactical lingerie set",
+      "mirrored chrome bodysuit with high collar",
+      "neon-fiber optic micro dress that glows",
+      "distressed leather jacket and sheer stockings",
+      "holographic fabric catsuit with laser-cut details",
+      "military-style latex uniform with officer cap",
+      "undercover evening gown with hidden holster",
+      "industrial pvc apron over lace lingerie",
+      "glitch-patterned bodycon dress with tech-booties",
+      "cyber-ninja mesh suit with carbon fiber plates",
+      "strappy tactical harness over wet-look bikini",
+      "oversized techwear hoodie with platform boots"
     ],
     "settings": [
       "rainy neon-lit cyber city street",
       "smoky detective office with blinds shadows",
       "futuristic noodle bar at night",
       "dark alleyway with holographic ads",
-      "cyberpunk interrogation room"
+      "cyberpunk interrogation room",
+      "rooftop with massive neon signs backdrop",
+      "cluttered black market tech lab",
+      "sleek high-rise corporate executive lounge",
+      "underground cyber-club dance floor",
+      "wet ship deck in a futuristic harbor",
+      "data center with glowing server racks",
+      "abandoned metro station with flickering lights",
+      "high-speed maglev train interior",
+      "overcrowded shanty town market at night"
     ],
     "expressions": [
       "mysterious and dangerous",
       "seductive detective gaze",
       "cold calculating femme fatale",
-      "suspicious squint"
+      "suspicious squint",
+      "superior playful smirk",
+      "intense focused analytical look",
+      "dazed post-interrogation look",
+      "confident hidden smile"
+    ],
+    "poses": [
+      "leaning against a neon wall with a gun",
+      "sitting on a desk with legs crossed seductively",
+      "standing under the rain with a wet look",
+      "walking through the smoke with a confident stride",
+      "crawling on a server table checking data",
+      "kneeling while hacking a terminal",
+      "sitting in an interrogation chair with an arched back",
+      "laying on a rooftop overlooking the city",
+      "turning around with a dangerous gaze",
+      "leaning into the camera with a mysterious whisper"
     ],
     "aesthetics": [
       "Cyberpunk Noir",
       "Cinematic Rain",
-      "High Contrast Neon"
+      "High Contrast Neon",
+      "Dark Glitch Aesthetic",
+      "Retro-Futuristic Analog",
+      "Gritty Tech Noir"
     ],
-    "colors": ["neon pink", "electric blue", "black", "chrome"],
-    "heel_heights": ["8", "9"],
-    "lip_colors": ["black", "dark purple", "blood red"]
+    "colors": [
+      "neon pink",
+      "electric blue",
+      "black",
+      "chrome",
+      "acid green",
+      "toxic purple"
+    ],
+    "heel_heights": [
+      "8",
+      "9"
+    ],
+    "lip_colors": [
+      "black",
+      "dark purple",
+      "blood red",
+      "neon cyan",
+      "chrome silver"
+    ]
   }
 }

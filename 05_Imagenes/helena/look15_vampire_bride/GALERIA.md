@@ -1,29 +1,23 @@
 # 🖼️ Galería: look15_vampire_bride
 Total imágenes: 5
 
-## 📸 Vista Previa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
 | ![helena_look15_vampire_bride_back_view_1767313770776.png](./helena_look15_vampire_bride_back_view_1767313770776.png) | ![helena_look15_vampire_bride_ditzy_1767194753223.png](./helena_look15_vampire_bride_ditzy_1767194753223.png) | ![helena_look15_vampire_bride_seated_1767313742806.png](./helena_look15_vampire_bride_seated_1767313742806.png) |
 | ![helena_look15_vampire_bride_side_profile_1767313756605.png](./helena_look15_vampire_bride_side_profile_1767313756605.png) | ![helena_look15_vampire_bride_standing_1767194676975.png](./helena_look15_vampire_bride_standing_1767194676975.png) |
 
-
 ---
 
-## 🎡 Carrusel Interactivo (Top 15)
+## 📸 Vista Previa Completa
 
-````carousel
-![helena_look15_vampire_bride_back_view_1767313770776.png](./helena_look15_vampire_bride_back_view_1767313770776.png)
-<!-- slide -->
-![helena_look15_vampire_bride_ditzy_1767194753223.png](./helena_look15_vampire_bride_ditzy_1767194753223.png)
-<!-- slide -->
-![helena_look15_vampire_bride_seated_1767313742806.png](./helena_look15_vampire_bride_seated_1767313742806.png)
-<!-- slide -->
-![helena_look15_vampire_bride_side_profile_1767313756605.png](./helena_look15_vampire_bride_side_profile_1767313756605.png)
-<!-- slide -->
-![helena_look15_vampire_bride_standing_1767194676975.png](./helena_look15_vampire_bride_standing_1767194676975.png)
-````
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![helena_look15_vampire_bride_back_view_1767313770776.png](./helena_look15_vampire_bride_back_view_1767313770776.png) | ![helena_look15_vampire_bride_ditzy_1767194753223.png](./helena_look15_vampire_bride_ditzy_1767194753223.png) | ![helena_look15_vampire_bride_seated_1767313742806.png](./helena_look15_vampire_bride_seated_1767313742806.png) | ![helena_look15_vampire_bride_side_profile_1767313756605.png](./helena_look15_vampire_bride_side_profile_1767313756605.png) |
+| ![helena_look15_vampire_bride_standing_1767194676975.png](./helena_look15_vampire_bride_standing_1767194676975.png) |
+
+
+---
 
 ## 📜 Lista de Archivos
 - [helena_look15_vampire_bride_back_view_1767313770776.png](./helena_look15_vampire_bride_back_view_1767313770776.png)
