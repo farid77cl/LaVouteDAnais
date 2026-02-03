@@ -45,16 +45,25 @@ class CanonValidator:
         "platinum blonde bob haircut WITHOUT bangs (exposing forehead), center part",
         "platinum blonde bob haircut WITHOUT bangs (exposing forehead), deep side part",
         "platinum blonde asymmetric bob haircut (platinum blonde hair ONLY)",
-        "platinum blonde high ponytail WITHOUT bangs (sleek pulled back)",
-        "platinum blonde twin tails (pigtails) WITHOUT bangs",
-        "sleek wet-look platinum blonde bob combed back"
+        "sleek wet-look platinum blonde bob combed back",
+        "sharp geometric platinum blonde bob",
+        "chin-length platinum blonde bob with shaved nape"
+    ]
+
+    MISS_DOLL_MAKEUP_COLORS = [
+        "pink", "hot pink", "fuchsia", "nude", "red", "rose gold"
     ]
 
     HELENA_HAIR_OPTIONS = [
         "long sleek straight jet black hair, center part",
         "tight high jet black ponytail, sleek pulled back",
         "long jet black hair with sharp straight bangs",
-        "wet-look jet black hair combed back"
+        "wet-look jet black hair combed back",
+        "voluminous 80s goth backcombed jet black hair"
+    ]
+
+    HELENA_LIP_COLORS = [
+        "blood red", "black matte", "dark chrome", "toxic green", "deep purple", "oxblood"
     ]
 
     HELENA_AESTHETICS = [
@@ -62,7 +71,8 @@ class CanonValidator:
         "Severely Elegant Corporate Goth",
         "Futuristic Cyber Noir",
         "Architectural Minimalist Neo-Goth",
-        "Vanguard High Fashion Goth"
+        "Vanguard High Fashion Goth",
+        "Vampiric Aristocrat"
     ]
 
     # New standard poses for variety

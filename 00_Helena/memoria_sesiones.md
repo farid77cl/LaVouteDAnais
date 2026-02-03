@@ -28,9 +28,9 @@
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
 | **Fase del Ritual** | ✅ FASE 2: ESCRITURA (Hito Cap 2) |
 | **Capítulo en Progreso** | **CAPÍTULO 2 REESCRITO** (Borrador Definitivo - Auto-Justificación) |
-| **Estado Actual** | ✅ **ORDEN TOTAL** - Producción Visual Miss Doll Escort (15 imgs) & Fix Canon. |
+| **Estado Actual** | ✅ **ORDEN TOTAL** - Miss Doll Luxury Series (13 nuevas imgs). Canon Bob Cut aplicado. |
 | **Último Look Helena** | **Look 51:** Obsidian Rose Queen. |
-| **Última Generación** | Look 51 (5 poses) + Sets Ultra-Luxury Escort & Yacht (v61/v70/v71). |
+| **Última Generación** | Custom Miss Doll Escort (After Job + Pre-Work). |
 
 ### Historial Reciente
 - **02/02/2026 (MEDIODÍA):** Implementación de PromptFactory. Refinamiento de Cánones Visuales. Reorganización total de Galerías.

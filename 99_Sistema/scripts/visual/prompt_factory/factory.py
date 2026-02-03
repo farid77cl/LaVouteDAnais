@@ -13,8 +13,8 @@ class PromptFactory:
     def load_config(self):
         with open(self.config_path, 'r', encoding='utf-8') as f:
             self.config = json.load(f)
-            
-    def generate(self, output_dir):
+
+    def generate(self, output_dir, force_count=None):
         # Sanitize title for console output
         safe_title = self.config.get('title', 'Unknown').encode('ascii', 'ignore').decode('ascii')
         print(f"Iniciando PromptFactory para: {safe_title}")
@@ -23,15 +23,20 @@ class PromptFactory:
         total_generated = 0
         
         # Estrategia: Generar combinaciones
-        # Si 'strategies' está definido en JSON, usarlo. Si no, random mix básico.
-        
         characters = self.config.get('characters', ['Miss Doll'])
         variables = self.config.get('variables', {})
         
-        # Generar 100 prompts por defecto o lo que diga config
-        target_count = self.config.get('target_count', 100)
+        # Generar target_count o force_count
+        target_count = force_count if force_count else self.config.get('target_count', 100)
         
-        for i in range(target_count):
+        # Anti-duplicates tracking
+        seen_combinations = set()
+        attempts = 0
+        max_attempts = target_count * 5  # Evitar ciclos infinitos
+
+        
+        while total_generated < target_count and attempts < max_attempts:
+            attempts += 1
             char = random.choice(characters)
             
             # Seleccionar variables random
@@ -44,18 +49,21 @@ class PromptFactory:
             pose = random.choice(variables.get('poses', CanonValidator.UNIVERSAL_POSES))
             
             # Variables especificas por personaje para rellenar huecos
-            color = random.choice(variables.get('colors', ['pink', 'black'])) # For Miss Doll / Anais
-            heel_height = random.choice(variables.get('heel_heights', ['8'])) # For Helena
+            # Default values initialization
+            color = random.choice(variables.get('colors', ['pink', 'black'])) 
+            heel_height = random.choice(variables.get('heel_heights', ['8']))
             
-            # Lip Color for Helena (New Palette)
+            # Character Specific Logic
             if char.lower() == "helena":
-                lip_color = random.choice(['black', 'blood red', 'dark chrome', 'toxic green'])
-            else:
-                lip_color = random.choice(variables.get('lip_colors', ['black']))
-
-            # Hair selection
-            if char.lower() == "miss doll":
+                lip_color = random.choice(CanonValidator.HELENA_LIP_COLORS)
+                hair = random.choice(CanonValidator.HELENA_HAIR_OPTIONS)
+                makeup_color = "dark"
+                aesthetic = random.choice(CanonValidator.HELENA_AESTHETICS)
+                
+            elif char.lower() == "miss doll":
+                lip_color = random.choice(variables.get('lip_colors', CanonValidator.MISS_DOLL_MAKEUP_COLORS))
                 hair = random.choice(CanonValidator.MISS_DOLL_HAIR_OPTIONS)
+                makeup_color = random.choice(variables.get('makeup_colors', CanonValidator.MISS_DOLL_MAKEUP_COLORS))
                 makeup_color = random.choice(variables.get('makeup_colors', ['pink', 'red', 'nude', 'dark']))
                 # If pose should be more specific for doll roles like stripper
                 if "stripper" in self.config.get('theme', '').lower():
@@ -66,14 +74,18 @@ class PromptFactory:
                         "bending over while checking her reflection"
                     ]
                     pose = random.choice(doll_poses)
-            elif char.lower() == "helena":
-                hair = random.choice(CanonValidator.HELENA_HAIR_OPTIONS)
-                makeup_color = "dark"
-                aesthetic = random.choice(CanonValidator.HELENA_AESTHETICS)
             else:
+                # Fallback for others (Anais)
                 hair = "" 
+                lip_color = "red"
                 makeup_color = "dark"
             
+            # Anti-Duplicate Check
+            combo_key = f"{char}|{outfit}|{setting}|{pose}|{expression}"
+            if combo_key in seen_combinations:
+                continue
+            seen_combinations.add(combo_key)
+
             # Obtener base power prompt
             base_prompt = CanonValidator.get_power_prompt(char)
             
@@ -109,12 +121,15 @@ class PromptFactory:
             if len(header_title) > 60:
                 header_title = header_title[:57] + "..."
                 
-            prompts_output += f"### {i+1:03d}: {header_title}\n"
+            prompts_output += f"### {total_generated+1:03d}: {header_title}\n"
             prompts_output += "```text\n"
             prompts_output += final_prompt + "\n"
             prompts_output += "```\n\n"
             
             total_generated += 1
+            
+        print(f"Generated {total_generated} unique prompts (Attempts: {attempts})")
+
             
         # Leer Template Maestro
         with open(self.template_path, 'r', encoding='utf-8') as f:
@@ -137,8 +152,21 @@ class PromptFactory:
             
         return output_path
 
+        return output_path
+
 if __name__ == "__main__":
-    # Ejemplo de uso directo
-    # factory = PromptFactory("configs/v70_pilot.json")
-    # factory.generate("../../../00_Helena/bancos_prompts/")
-    pass
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="PromptFactory CLI")
+    parser.add_argument("--config", "-c", required=True, help="Path to config JSON file")
+    parser.add_argument("--output", "-o", default="../../../00_Helena/bancos_prompts/", help="Output directory")
+    parser.add_argument("--count", "-n", type=int, help="Override number of prompts to generate")
+    
+    args = parser.parse_args()
+    
+    if os.path.exists(args.config):
+        factory = PromptFactory(args.config)
+        output_file = factory.generate(args.output, args.count)
+        print(f"✅ Banco generado en: {output_file}")
+    else:
+        print(f"❌ Config file not found: {args.config}")
