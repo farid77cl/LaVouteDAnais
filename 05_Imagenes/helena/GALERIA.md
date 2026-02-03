@@ -53,8 +53,9 @@ Explora las secciones de esta categoría:
 - ✅ [**Look46 Latex Nun**](./look46_latex_nun/GALERIA.md)
 - ✅ [**Look47 Midnight Pvc Doll**](./look47_midnight_pvc_doll/GALERIA.md)
 - ✅ [**Look50 Golden Cage**](./look50_golden_cage/GALERIA.md)
+- ✅ [**Look51 Obsidian Rose Queen**](./look51_obsidian_rose_queen/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-02-02*
+*Actualizado automáticamente: 2026-02-03*

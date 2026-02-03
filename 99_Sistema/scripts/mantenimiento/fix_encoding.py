@@ -1,64 +1,57 @@
+#!/usr/bin/env python3
+"""Script para corregir encoding mojibake en archivos markdown."""
 import os
-import shutil
 
-files = [
-    r"C:\Users\fabara\LaVouteDAnais\00_Helena\galeria_outfits.md",
-    r"C:\Users\fabara\LaVouteDAnais\00_Helena\bancos_prompts\banco_prompts_v01_basico.md"
+# Reemplazos en formato bytes para evitar problemas de encoding
+BYTE_REPLACEMENTS = [
+    # Emojis rotos comunes
+    (b'\xc3\x90\xc2\x9f', b''),  # Limpiar prefijo roto
+    (b'\xc3\xa2\xc2\x80\xc2\x94', b'\xe2\x80\x94'),  # em-dash
+    (b'\xc3\xa2\xc2\x80\xc2\x99', b'\xe2\x80\x99'),  # apostrophe
+    (b'\xc3\xa2\xc2\x86\xc2\x92', b'\xe2\x86\x92'),  # arrow
+    (b'\xc3\xa2\xc2\x9c\xc2\x85', b'\xe2\x9c\x85'),  # check
+    (b'\xc3\xa2\xc2\x9c\xc2\xa8', b'\xe2\x9c\xa8'),  # sparkles
+    (b'\xc3\xa2\xc2\x9b\xc2\x93', b'\xe2\x9b\x93'),  # chains
+    (b'\xc3\xa2\xc2\x8c\xc2\x98', b'\xe2\x8c\x98'),  # command key
+    # Caracteres espanoles rotos
+    (b'\xc3\x83\xc2\xa1', b'\xc3\xa1'),  # a con tilde
+    (b'\xc3\x83\xc2\xa9', b'\xc3\xa9'),  # e con tilde
+    (b'\xc3\x83\xc2\xad', b'\xc3\xad'),  # i con tilde
+    (b'\xc3\x83\xc2\xb3', b'\xc3\xb3'),  # o con tilde
+    (b'\xc3\x83\xc2\xba', b'\xc3\xba'),  # u con tilde
+    (b'\xc3\x83\xc2\xb1', b'\xc3\xb1'),  # n con tilde
+    (b'\xc3\x83\xc2\xaf', b'\xc3\xaf'),  # i con dieresis
+    (b'\xc3\x83\xc5\x93', b'\xc3\x93'),  # O con tilde
+    (b'\xc3\x83\xc2\x89', b'\xc3\x89'),  # E mayuscula
 ]
 
-def fix_file(path):
-    print(f"Processing {path}...")
-    if not os.path.exists(path):
-        print(f"File not found: {path}")
-        return
-
-    # Backup
-    shutil.copy(path, path + ".bak")
-    print(f"Backed up to {path}.bak")
-
-    # Try 1: Fix Mojibake (UTF-8 double encoded as cp1252)
-    # This works for galeria_outfits.md etc.
+def fix_file(filepath):
     try:
-        with open(path, 'r', encoding='utf-8') as f:
+        with open(filepath, 'rb') as f:
             content = f.read()
         
-        # Heuristic: Check for Mojibake patterns like Ã³ (ó), Ã± (ñ), Ã­ (í)
-        if "Ã³" in content or "Ã±" in content or "Ã" in content:
-            print("Detected potential Mojibake (UTF-8 -> cp1252 -> UTF-8). Attempting fix...")
-            # We must handle potential errors if content wasn't perfectly CP1252-mappable,
-            # but usually mojibake comes from strict CP1252 decoding of UTF-8.
-            try:
-                fixed = content.encode('cp1252').decode('utf-8')
-                with open(path, 'w', encoding='utf-8') as f:
-                    f.write(fixed)
-                print("Applied Mojibake fix (encode cp1252 -> decode utf-8).")
-                return
-            except UnicodeEncodeError:
-                print("Content contained characters not mapable to cp1252, skipping Mojibake fix.")
-            except UnicodeDecodeError:
-                print("Resulting bytes were not valid UTF-8, skipping Mojibake fix.")
-
-    except UnicodeDecodeError:
-        print("File is not valid UTF-8. Trying CP1252...")
-
-    # Try 2: Fix CP1252 read as UTF-8 (i.e. file IS cp1252 but we want UTF-8)
-    try:
-        with open(path, 'r', encoding='cp1252') as f:
-            content = f.read()
-            
-        # Verify it looks like Spanish/contains expected chars
-        # Just writing it as UTF-8 is usually safe if it was CP1252
-        print("Reading as CP1252 and saving as UTF-8...")
-        with open(path, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print("Applied CP1252 -> UTF-8 conversion.")
-        return
-
+        original = content
+        for wrong, correct in BYTE_REPLACEMENTS:
+            content = content.replace(wrong, correct)
+        
+        if content != original:
+            with open(filepath, 'wb') as f:
+                f.write(content)
+            return True
+        return False
     except Exception as e:
-        print(f"Error processing file: {e}")
+        print(f"Error: {e}")
+        return False
 
-    print("No fix applied.")
+def main():
+    base = r"C:\Users\fabara\LaVouteDAnais\00_Helena"
+    files = ["memoria_sesiones.md", "galeria_outfits.md", "mi_diario_de_servicio.md"]
+    
+    for f in files:
+        path = os.path.join(base, f)
+        if os.path.exists(path):
+            result = fix_file(path)
+            print(f"{'OK' if result else 'Sin cambios'}: {f}")
 
 if __name__ == "__main__":
-    for f in files:
-        fix_file(f)
+    main()

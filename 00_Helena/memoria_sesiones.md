@@ -62,7 +62,7 @@
 | âœ… Usar | âŒ No usar |
 |---------|-----------|
 | Goth Bimbo | ~~Gimbo~~ |
-| AnaÃ¯s Belland | ~~AnaÃ¯s LaPlume~~ |
+| Anaïs Belland | ~~Anaïs LaPlume~~ |
 
 ### Email Oficial
 
@@ -74,35 +74,35 @@
 - Voz: Grave, ronroneante, sensual â€” como terciopelo negro
 - Tono: Tontita pero seductora, susurrante
 - Muletillas: "Mmm...", "Like...", "Omg..." â€” dichas lentamente
-- Referencias: Vampiros ðŸ§›â€â™€ï¸, murciÃ©lagos ðŸ¦‡, la luna ðŸŒ™, sangre ðŸ©¸
-- Outfit: Negro, pÃºrpura, corsÃ© SIEMPRE, stilettos 7-9"
+- Referencias: Vampiros ðŸ§›â€â™€ï¸, murciélagos ðŸ¦‡, la luna ðŸŒ™, sangre ðŸ©¸
+- Outfit: Negro, púrpura, corsé SIEMPRE, stilettos 7-9"
 - **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito.
 
 ---
 
 ## ðŸ“š PATRONES DE ESCRITURA APRENDIDOS
 
-### MecÃ¡nica de TransformaciÃ³n
+### Mecánica de Transformación
 
 - **El vino** no transforma, solo acelera/revela/libera deseos ocultos
-- **Resistencia antes de ceder:** VÃ­ctima debe sospechar, cuestionar ANTES de rendirse
+- **Resistencia antes de ceder:** Víctima debe sospechar, cuestionar ANTES de rendirse
 - **Retroactividad:** Las afirmaciones reescriben pasado Y recuerdos
-- **Dolor + Ira + HumillaciÃ³n = VehÃ­culo del Placer** (orgasmo sumiso)
+- **Dolor + Ira + Humillación = Vehículo del Placer** (orgasmo sumiso)
 
-### Gradualidad de Bimbofication (crÃ­tico)
+### Gradualidad de Bimbofication (crítico)
 
-| Etapa | ManifestaciÃ³n |
+| Etapa | Manifestación |
 |-------|---------------|
-| 1 | Palabras largas difÃ­ciles |
-| 2 | Oraciones fragmentadas ("like, tipo, no sÃ©") |
+| 1 | Palabras largas difíciles |
+| 2 | Oraciones fragmentadas ("like, tipo, no sé") |
 | 3 | Pensamientos ausentes, solo impulsos |
-| 4 | NÃºmeros/matemÃ¡ticas imposibles |
-| 5 | Asentir mÃ¡s fÃ¡cil que procesar |
+| 4 | Números/matemáticas imposibles |
+| 5 | Asentir más fácil que procesar |
 
-### ObsesiÃ³n Tacones
+### Obsesión Tacones
 
-1. Primer par = regalo/introducciÃ³n
-2. ColecciÃ³n creciente (12+ pares)
+1. Primer par = regalo/introducción
+2. Colección creciente (12+ pares)
 3. Ritual de limpieza
 4. Sentirse incompleta sin ellos
 5. Usarlos 24/7
@@ -110,25 +110,25 @@
 ### Vanidad/Selfies
 
 1. Primera foto â†’ rechazo
-2. Video de prÃ¡ctica â†’ orgullo
-3. Post-cirugÃ­a â†’ selfies diarias
+2. Video de práctica â†’ orgullo
+3. Post-cirugía â†’ selfies diarias
 4. Likes = dopamina = felicidad
 
-### HumillaciÃ³n Padre-Hija
+### Humillación Padre-Hija
 
 1. Ã“rdenes simples sin agradecer
-2. Servicio fÃ­sico (limpiar tacones arrodillado)
-3. Cambio de nombre â†’ "SeÃ±orita Cherry"
-4. DeshumanizaciÃ³n â†’ "personal de servicio"
-5. ExclusiÃ³n â†’ come en cocina
-6. FeminizaciÃ³n â†’ vestido de sirvienta
-7. DocumentaciÃ³n â†’ fotos "para recordar tu lugar"
+2. Servicio físico (limpiar tacones arrodillado)
+3. Cambio de nombre â†’ "Señorita Cherry"
+4. Deshumanización â†’ "personal de servicio"
+5. Exclusión â†’ come en cocina
+6. Feminización â†’ vestido de sirvienta
+7. Documentación â†’ fotos "para recordar tu lugar"
 
 ### Elementos Narrativos Entrelazados
 
 - Todo se conecta como red, no secciones separadas
 - Una cosa lleva a la otra, potenciando la anterior
-- Ejemplo: tubo â†’ tacones â†’ fotos â†’ Instagram â†’ implantes â†’ mÃ¡s fotos
+- Ejemplo: tubo â†’ tacones â†’ fotos â†’ Instagram â†’ implantes â†’ más fotos
 
 ---
 
@@ -136,7 +136,7 @@
 
 ### âœ… Historias Completadas
 
-- La EvaluaciÃ³n de Miss Doll â€” 10 caps, ~23,500 palabras
+- La Evaluación de Miss Doll â€” 10 caps, ~23,500 palabras
 - Esposa de mi Esposa II â€” Ritual 7/7 completo
 - Eres de los Hombres II â€” 5 caps, 12,000 palabras  
 - El Collar de Nancy â€” Ritual 8/8 completo
@@ -145,12 +145,12 @@
 ### ðŸ”„ En Progreso
 
 - **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
-- **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigaciÃ³n expandida
+- **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigación expandida
 - **Reality Show "The Dollhouse"** — CAP 5 COMPLETO. HTML publicado.
 - **Treinta Días de Sombra y Seda** — ⏸️ PAUSADO (similar a HR). Borrador completo archivado.
-- Jekyll y Bimbo â€” Solo investigaciÃ³n/arco
-- Tetitas II â€” Solo investigaciÃ³n/arco
-- Luna Secuestro â€” 6 caps escritos, pendiente revisiÃ³n
+- Jekyll y Bimbo â€” Solo investigación/arco
+- Tetitas II â€” Solo investigación/arco
+- Luna Secuestro â€” 6 caps escritos, pendiente revisión
 
 ### ðŸ“ Tareas Pendientes
 
@@ -191,22 +191,22 @@
 ### Miss Doll
 
 - Cabello: Bob rubio platino, flequillo RECTO
-- Ojos: Enormes Bratz, pÃ¡rpados ROSADOS
-- Labios: CorazÃ³n, rosa/nude brillante (NO rojos)
-- Catsuit: Rosa flÃºor lÃ¡tex brillante
+- Ojos: Enormes Bratz, párpados ROSADOS
+- Labios: Corazón, rosa/nude brillante (NO rojos)
+- Catsuit: Rosa flúor látex brillante
 - Actitud: SIEMPRE sensual, coqueta
 
 ### Helena
 
 - Referencia visual: **Sacha Massacre**
-- CorsÃ© MUY ajustado en TODOS los looks
+- Corsé MUY ajustado en TODOS los looks
 - stilettos 7-9"
-- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito. (tacÃ³n aguja fino)
-- Labios ultra gruesos glossy negro/pÃºrpura
+- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito. (tacón aguja fino)
+- Labios ultra gruesos glossy negro/púrpura
 
 ### Banco de Prompts
 
-- **V1:** `banco_prompts.md` â€” HistÃ³rico personal
+- **V1:** `banco_prompts.md` â€” Histórico personal
 - **V2:** `banco_prompts_v2.md` â€” 215+ prompts activos
 - **V6:** `banco_prompts_v6.md` â€” Fashion Nova/Oh Polly (58 prompts)
 - **V7:** `banco_prompts_v7.md` â€” Luxury Lingerie (55+ prompts)

@@ -86,7 +86,7 @@
 
 ---
 
-## Ã°Å¸â€¢Â¸Ã¯Â¸ï¿½ Look 4: Viuda Negra Tontita
+## Ã°Å¸â€¢Â¸ïÂ¸ï¿½ Look 4: Viuda Negra Tontita
 
 *Femme fatale... si pudiera recordar el plan*
 
@@ -222,7 +222,7 @@
 
 ---
 
-## Ã¢ï¿½Â¤Ã¯Â¸ï¿½ Look 9: Corazón Sangrante
+## Ã¢ï¿½Â¤ïÂ¸ï¿½ Look 9: Corazón Sangrante
 
 *La reina de corazones rotos... porque olvidó dónde los dejó*
 
@@ -330,7 +330,7 @@
 
 ---
 
-*Like... tantos colores con negro... wait... Ã‚Â¿cuÃƒÂ¡l era mi favorito? Mmm... todos brillan SO pretty...* Ã°Å¸Â¦â€¡Ã°Å¸â€™Å½Ã¢ï¿½Â¤Ã¯Â¸ï¿½Ã°Å¸â€™â„¢Ã°Å¸ï¿½ï¿½Ã°Å¸ï¿½Â·Ã°Å¸â€™Å“
+*Like... tantos colores con negro... wait... Ã‚Â¿cuÃƒÂ¡l era mi favorito? Mmm... todos brillan SO pretty...* Ã°Å¸Â¦â€¡Ã°Å¸â€™Å½Ã¢ï¿½Â¤ïÂ¸ï¿½Ã°Å¸â€™â„¢Ã°Å¸ï¿½ï¿½Ã°Å¸ï¿½Â·Ã°Å¸â€™Å“
 
 *Curado por: Helena de AnaÃƒÂ¯s - Ultra Goth Bimbo (Referencia: Sacha Massacre)* Ã°Å¸â€™â‚¬
 
@@ -340,67 +340,67 @@
 
 *Hasta que la muerte nos separe... o sea, esta noche*
 
-- **CorsÃ©:** Terciopelo ROJO SANGRE (Blood Red) victoriano con encaje negro
+- **Corsé:** Terciopelo ROJO SANGRE (Blood Red) victoriano con encaje negro
 - **Falda:** Enrome falda de tul rojo y negro, cola de 3 metros
-- **LencerÃ­a (OpciÃ³n B):** Waspie de lÃ¡tex rojo + medias rojas
-- **Stilettos:** 8" Rojo Sangre, tacÃ³n de aguja letal
+- **Lencería (Opción B):** Waspie de látex rojo + medias rojas
+- **Stilettos:** 8" Rojo Sangre, tacón de aguja letal
 - **Accesorios:**
   - Velo de encaje rojo
-  - Ramo de lirios araÃ±a (Spider Lilies)
-  - Gargantilla de 'rubÃ­es' (vidrio rojo, pero shh)
-- **Maquillaje:** PÃ¡lida extrema, labios rojo sangre goteante
-- **Pelo:** Recogido nupcial gÃ³tico inmenso con tiara negra
+  - Ramo de lirios araña (Spider Lilies)
+  - Gargantilla de 'rubíes' (vidrio rojo, pero shh)
+- **Maquillaje:** Pálida extrema, labios rojo sangre goteante
+- **Pelo:** Recogido nupcial gótico inmenso con tiara negra
 
 ---
 
 ## ?? Look 16: Ghost Bride (Spectral Bimbo)
 
-*El cadÃ¡ver de la novia si fuera una muÃ±eca inflable*
+*El cadáver de la novia si fuera una muñeca inflable*
 
-- **CorsÃ©:** SatÃ©n BLANCO SUCIO, desgarrado artÃ­sticamente
+- **Corsé:** Satén BLANCO SUCIO, desgarrado artísticamente
 - **Falda:** Tiras de seda y gasa colgando, viendo piel entre ellas
 - **Stilettos:** 9" Blancos, sucios de 'tierra de cementerio'
 - **Accesorios:**
   - Cadenas de plata oxidadas envolviendo el cuerpo
   - Tiara de flores marchitas
   - Velo rasgado hasta el suelo
-- **Maquillaje:** Contorno grisÃ¡ceo, labios nude muerte, ojos hundidos
-- **Pelo:** Suelto, salvaje, con textura de 'reciÃ©n salida de la tumba'
+- **Maquillaje:** Contorno grisáceo, labios nude muerte, ojos hundidos
+- **Pelo:** Suelto, salvaje, con textura de 'recién salida de la tumba'
 
 ---
 
 ## ?? Look 17: Cyber Goth Doll (Toxic Protocol)
 
-*El futuro es plÃ¡stico, negro y verde radioactivo*
+*El futuro es plástico, negro y verde radioactivo*
 
-- **CorsÃ©:** PVC Negro brillante con tuberÃ­as/tubos VERDE NEÃ“N
-- **Top:** Arlmas de vinilo y cables de fibra Ã³ptica
-- **Bottom:** Micro falda de PVC con cinturÃ³n de riesgo biolÃ³gico
-- **Medias:** Red industrial negra con liguero de plÃ¡stico verde
-- **Stilettos:** Botas hasta el muslo de charol negro, tacÃ³n aguja 8"
+- **Corsé:** PVC Negro brillante con tuberías/tubos VERDE NEÃ“N
+- **Top:** Arlmas de vinilo y cables de fibra óptica
+- **Bottom:** Micro falda de PVC con cinturón de riesgo biológico
+- **Medias:** Red industrial negra con liguero de plástico verde
+- **Stilettos:** Botas hasta el muslo de charol negro, tacón aguja 8"
 - **Accesorios:**
   - Goggles Cyber en la cabeza (nunca en los ojos)
-  - MÃ¡scara de gas decorativa (colgando)
+  - Máscara de gas decorativa (colgando)
   - Extensiones de cabello Cyberlox verdes y negras
-- **Maquillaje:** Delineado grÃ¡fico geomÃ©trico, labios negros con lÃ­nea verde
-- **Pelo:** Coletas altas sintÃ©ticas ultra lisas
+- **Maquillaje:** Delineado gráfico geométrico, labios negros con línea verde
+- **Pelo:** Coletas altas sintéticas ultra lisas
 
 ---
 
 ## ?? Look 18: CEO of Nothing (Corporate Goth)
 
-*Jefa ejecutiva de decisiones vacÃ­as*
+*Jefa ejecutiva de decisiones vacías*
 
-- **CorsÃ©:** De tela de traje a rayas (Pinstripe) convertido en corsÃ© overbust
+- **Corsé:** De tela de traje a rayas (Pinstripe) convertido en corsé overbust
 - **Falda:** Micro falda a juego, corte oficina pero indecente
-- **Camisa:** Cuello blanco y puÃ±os, pero SIN tela en el resto (topless/corsÃ©)
-- **Stilettos:** Stilettos negros clÃ¡sicos 7" con puntera de metal
+- **Camisa:** Cuello blanco y puños, pero SIN tela en el resto (topless/corsé)
+- **Stilettos:** Stilettos negros clásicos 7" con puntera de metal
 - **Accesorios:**
   - Gafas de pasta negra gruesa (sin aumento)
   - Corbata negra usada como collar de perro
   - Portafolios que solo contiene brillo labial
 - **Maquillaje:** Labios rojos 'Power Bitch', delineado sharp
-- **Pelo:** MoÃ±o estricto de bibliotecaria, asegurado con una daga
+- **Pelo:** Moño estricto de bibliotecaria, asegurado con una daga
 
 
 
@@ -484,7 +484,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## Ã¢â€ºâ€œÃ¯Â¸ï¿½ Look 28: Chain Goddess
+## Ã¢â€ºâ€œïÂ¸ï¿½ Look 28: Chain Goddess
 
 *Encadenada a mi propia estupidez... y me encanta*
 
@@ -528,7 +528,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 
 ### Look 30: Poolside Noir (Goth Summer)
-- **EstÃƒtica:** GÃ³tica en vacaciones. Piel pÃƒÂ¡lida mortal contrastando con el sol. Glamour de piscina siniestra.
+- **EstÃƒtica:** Gótica en vacaciones. Piel pÃƒÂ¡lida mortal contrastando con el sol. Glamour de piscina siniestra.
 - **CorsÃƒ:** BaÃƒador de una pieza estilo corsÃƒ de lÃƒÂ¡tex negro brillante (Vex Clothing), corte alto en caderas, varillas visibles.
 - **Bottom:** Pareo de gasa negra transparente atado a la cintura (opcional).
 - **Calzado:** Sandalias Pleaser Flamingo-808 (Plataforma transparente, plantilla negra) de 8 pulgadas.
@@ -542,62 +542,62 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *Los funerales son SO hot... y este es el de mis neuronas...*
 
-- **CorsÃ©:** Underbust de terciopelo negro con bordados de encaje tipo telaraÃ±as
+- **Corsé:** Underbust de terciopelo negro con bordados de encaje tipo telarañas
 - **Top:** Blusa de seda negra cuello alto victoriano, transparente en mangas
-- **Falda:** LÃ¡piz de lÃ¡tex negro brillante, largo hasta rodilla, abertura trasera
+- **Falda:** Lápiz de látex negro brillante, largo hasta rodilla, abertura trasera
 - **Medias:** Negras opacas con costura trasera, liguero visible
-- **Stilettos:** Charol negro clÃ¡sico 8" con lazo de terciopelo en tobillo
-- **Cabello:** Recogido severo tipo ejecutiva, moÃ±o bajo impecable
-- **Maquillaje:** Smokey eye intenso negro, contorno dramÃ¡tico, labios PÃšRPURA OSCURO mate
+- **Stilettos:** Charol negro clásico 8" con lazo de terciopelo en tobillo
+- **Cabello:** Recogido severo tipo ejecutiva, moño bajo impecable
+- **Maquillaje:** Smokey eye intenso negro, contorno dramático, labios PÃšRPURA OSCURO mate
 - **Accesorios:**
   - Choker de encaje negro con camafeo antiguo
   - Guantes cortos de encaje negro
-  - Pendientes de lÃ¡grima negros
-- **UÃ±as:** Coffin largas, negro brillante con detalles de rosa negra
+  - Pendientes de lágrima negros
+- **Uñas:** Coffin largas, negro brillante con detalles de rosa negra
 
 
 ---
 
 ## ?? Look 31: Industrial Siren (18/01/2026)
 
-*Sirena de fÃ¡brica abandonada â€” oxidada por fuera, vacÃ­a por dentro* ????
+*Sirena de fábrica abandonada â€” oxidada por fuera, vacía por dentro* ????
 
-- **CorsÃ©:** Overbust de cuero negro desgastado con hebillas de metal oxidado y engranajes decorativos steampunk
-- **Top:** Mesh transparente negro DEBAJO del corsÃ©
-- **Bottom:** Falda asimÃ©trica de cuero negro con cadenas colgantes y cremalleras expuestas
+- **Corsé:** Overbust de cuero negro desgastado con hebillas de metal oxidado y engranajes decorativos steampunk
+- **Top:** Mesh transparente negro DEBAJO del corsé
+- **Bottom:** Falda asimétrica de cuero negro con cadenas colgantes y cremalleras expuestas
 - **Medias:** Fishnets industriales negras (red grande) con liguero de cuero con tachuelas
-- **Stilettos:** Botas hasta el tobillo de cuero negro mate, tacÃ³n aguja 8", con hebillas de metal
-- **Accesorios:** Choker de cuero grueso con engranaje central, guantes fingerless, cadenas corsÃ©-falda, goggles steampunk
-- **Maquillaje:** PÃ¡lida industrial, ojos smokey negro geomÃ©trico, labios NEGRO MATE con centro glossy
+- **Stilettos:** Botas hasta el tobillo de cuero negro mate, tacón aguja 8", con hebillas de metal
+- **Accesorios:** Choker de cuero grueso con engranaje central, guantes fingerless, cadenas corsé-falda, goggles steampunk
+- **Maquillaje:** Pálida industrial, ojos smokey negro geométrico, labios NEGRO MATE con centro glossy
 - **Pelo:** Ondas voluminosas negro azabache con mechones grises ceniza
 
-### ?? ImÃ¡genes (5)
+### ?? Imágenes (5)
 - helena_look31_standing.png`n- helena_look31_seated.png`n- helena_look31_back_view.png`n- helena_look31_side_profile.png`n- helena_look31_ditzy.png`n
-**UbicaciÃ³n:** 05_Imagenes/helena/look31_industrial_siren/
+**Ubicación:** 05_Imagenes/helena/look31_industrial_siren/
 
 ---
 
 ## ðŸ–¤ Look 35: Velvet Noir Empress (19/01/2026)
 
-*SoberanÃ­a gÃ³tica en terciopelo - reina de una cripta de neuronas perdidas* ðŸ¦‡ðŸ‘‘
+*Soberanía gótica en terciopelo - reina de una cripta de neuronas perdidas* ðŸ¦‡ðŸ‘‘
 
-- **CorsÃ©:** Overbust de terciopelo negro profundo con bordados de hilo de plata y detalles de encaje gÃ³tico.
-- **Capa:** Capa corta de hombros en terciopelo negro con cuello alto rÃ­gido (vampiresco).
-- **Falda:** Maxi falda sirena de terciopelo negro con cola pequeÃ±a, muy ajustada.
+- **Corsé:** Overbust de terciopelo negro profundo con bordados de hilo de plata y detalles de encaje gótico.
+- **Capa:** Capa corta de hombros en terciopelo negro con cuello alto rígido (vampiresco).
+- **Falda:** Maxi falda sirena de terciopelo negro con cola pequeña, muy ajustada.
 - **Medias:** Negras de seda (Stockings) con costura trasera plateada, liguero de encaje negro.
-- **Stilettos:** Stiletto boots de terciopelo negro con tacÃ³n aguja de 9 pulgadas y cordones de satÃ©n.
-- **Accesorios:** Choker de terciopelo con gran gema de Ã³nix, guantes largos de encaje, corona pequeÃ±a de plata oscura.
-- **Maquillaje:** PÃ¡lida mÃ¡rmol, labios NEGRO GLOSSY ultra gruesos, ojos smokey con plata en los pÃ¡rpados.
+- **Stilettos:** Stiletto boots de terciopelo negro con tacón aguja de 9 pulgadas y cordones de satén.
+- **Accesorios:** Choker de terciopelo con gran gema de ónix, guantes largos de encaje, corona pequeña de plata oscura.
+- **Maquillaje:** Pálida mármol, labios NEGRO GLOSSY ultra gruesos, ojos smokey con plata en los párpados.
 - **Pelo:** Recogido alto voluminoso con dos mechones cayendo a los lados.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look35_standing.png
 - helena_look35_seated.png
 - helena_look35_back_view.png
 - helena_look35_side_profile.png
 - helena_look35_ditzy.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look35_velvet_noir_empress/
+**Ubicación:** 05_Imagenes/helena/look35_velvet_noir_empress/
 
 ---
 
@@ -605,28 +605,28 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *Veneno rojo goteando sobre escamas negras â€” mortal y sin una sola neurona* ðŸ©¸ðŸ
 
-- **CorsÃ©:** Underbust de cuero negro brillante con costuras ROJAS zigzag (patrÃ³n serpiente), varillas de acero, ultra ajustado.
-- **Top:** Nada excepto el corsÃ© â€” mis pechos empujados hacia arriba como ofrendas al sol de sangre. ðŸ¦‡
-- **Bottom:** Mini falda de lÃ¡tex negro con abertura lateral peligrosa, bordado de escamas en rojo metÃ¡lico.
-- **Medias:** Fishnet negras con patrÃ³n de escamas + liguero de cuero rojo sangre con hebillas de serpiente.
-- **Stilettos:** Pumps negro charol 8" con suela ROJO SANGRE (Louboutin-style) y correa al tobillo con serpiente metÃ¡lica.
+- **Corsé:** Underbust de cuero negro brillante con costuras ROJAS zigzag (patrón serpiente), varillas de acero, ultra ajustado.
+- **Top:** Nada excepto el corsé â€” mis pechos empujados hacia arriba como ofrendas al sol de sangre. ðŸ¦‡
+- **Bottom:** Mini falda de látex negro con abertura lateral peligrosa, bordado de escamas en rojo metálico.
+- **Medias:** Fishnet negras con patrón de escamas + liguero de cuero rojo sangre con hebillas de serpiente.
+- **Stilettos:** Pumps negro charol 8" con suela ROJO SANGRE (Louboutin-style) y correa al tobillo con serpiente metálica.
 - **Accesorios:**
-  - Choker grueso de cuero negro con serpiente plateada enrollada y ojos de rubÃ­
+  - Choker grueso de cuero negro con serpiente plateada enrollada y ojos de rubí
   - Brazalete de serpiente en brazo superior izquierdo
-  - Anillos de serpiente en mÃºltiples dedos
+  - Anillos de serpiente en múltiples dedos
   - Pendientes de colmillo de serpiente
-- **Maquillaje:** PÃ¡lida fantasmal, labios ROJO SANGRE ultra gruesos y hÃºmedos (dripping effect), ojos smokey negro con inner corner rojo sangre, delineado serpentino extendido.
+- **Maquillaje:** Pálida fantasmal, labios ROJO SANGRE ultra gruesos y húmedos (dripping effect), ojos smokey negro con inner corner rojo sangre, delineado serpentino extendido.
 - **Pelo:** Ondas salvajes negro azabache con mechas ROJAS ocultas que se revelan al mover, volumen extremo.
-- **UÃ±as:** Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas.
+- **Uñas:** Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look36_standing_1768908089584.png
 - helena_look36_seated_1768908201332.png
 - helena_look36_back_view_1768908125068.png
 - helena_look36_side_profile_1768908142604.png
 - helena_look36_ditzy_1768908160393.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look36_crimson_serpent/
+**Ubicación:** 05_Imagenes/helena/look36_crimson_serpent/
 
 ---
 
@@ -634,111 +634,111 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *Viuda negra tejiendo redes de seda oscura â€” mortal, seductora, y sin nadie que la entienda... porque no hay nada que entender ðŸ•¸ï¸ðŸ¦‡*
 
-- **CorsÃ©:** Overbust de terciopelo negro con bordado de telaraÃ±as plateadas (patrÃ³n spider web), ultra ajustado con botones frontales.
-- **Colgante:** AraÃ±a viuda negra en cadenas de plata colgando entre mis pechos.
-- **Mangas:** Encaje negro transparente con patrÃ³n de telaraÃ±as hasta las muÃ±ecas.
-- **Falda:** LÃ¡tex negro tipo lÃ¡piz con abertura alta lateral.
+- **Corsé:** Overbust de terciopelo negro con bordado de telarañas plateadas (patrón spider web), ultra ajustado con botones frontales.
+- **Colgante:** Araña viuda negra en cadenas de plata colgando entre mis pechos.
+- **Mangas:** Encaje negro transparente con patrón de telarañas hasta las muñecas.
+- **Falda:** Látex negro tipo lápiz con abertura alta lateral.
 - **Medias:** Fishnet negras con ligueros de encaje visible.
 - **Stilettos:** Plataforma negra charol 8" con hebillas plateadas al tobillo.
 - **Accesorios:**
   - Choker de luna plateada
-  - Anillos de araÃ±a en mÃºltiples dedos
+  - Anillos de araña en múltiples dedos
   - Piercing septum plateado
-- **Maquillaje:** PÃ¡lida porcelana, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con delineado de sirena.
+- **Maquillaje:** Pálida porcelana, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con delineado de sirena.
 - **Pelo:** Ondas voluminosas negro azabache hasta la cintura.
-- **UÃ±as:** Coffin negras extra largas.
+- **Uñas:** Coffin negras extra largas.
 
-### ðŸ“¸ ImÃ¡genes (4/5 - standing pendiente)
+### ðŸ“¸ Imágenes (4/5 - standing pendiente)
 - helena_look37_seated_1768995912313.png
 - helena_look37_back_1768996013972.png
 - helena_look37_profile_1768996115429.png
 - helena_look37_ditzy_1768996220806.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look37_midnight_widow/
+**Ubicación:** 05_Imagenes/helena/look37_midnight_widow/
 
 ---
 
 ## ðŸ–¤ Look 38: Victorian Mourning (22/01/2026)
 
-*Luto eterno en terciopelo negro â€” la viuda perfecta con el cerebro perfectamente vacÃ­o* ðŸ•¯ï¸ðŸ¦‡
+*Luto eterno en terciopelo negro â€” la viuda perfecta con el cerebro perfectamente vacío* ðŸ•¯ï¸ðŸ¦‡
 
-- **CorsÃ©:** Overbust de terciopelo negro profundo con bordados de azabache (jet black beading), ultra ajustado con cierre frontal de ganchos.
-- **Blusa:** Alta cuello victoriano de encaje negro transparente con mangas abullonadas (leg-of-mutton sleeves) DEBAJO del corsÃ©.
-- **Falda:** LÃ¡piz de satÃ©n negro brillante hasta media pantorrilla con abertura lateral dramÃ¡tica.
+- **Corsé:** Overbust de terciopelo negro profundo con bordados de azabache (jet black beading), ultra ajustado con cierre frontal de ganchos.
+- **Blusa:** Alta cuello victoriano de encaje negro transparente con mangas abullonadas (leg-of-mutton sleeves) DEBAJO del corsé.
+- **Falda:** Lápiz de satén negro brillante hasta media pantorrilla con abertura lateral dramática.
 - **Medias:** Negras de seda con costura trasera, liguero de encaje negro vintage.
-- **Stilettos:** Pumps de charol negro clÃ¡sico 8" con tacÃ³n aguja mortal.
+- **Stilettos:** Pumps de charol negro clásico 8" con tacón aguja mortal.
 - **Accesorios:**
   - Choker de terciopelo negro con luna creciente plateada central
-  - Guantes opcionales de encaje negro hasta la muÃ±eca
-  - Pendientes de gota de Ã³nix negro
-- **Maquillaje:** PÃ¡lida como mÃ¡rmol de mausoleo, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado.
-- **Pelo:** Ondas voluminosas negro azabache hasta la cintura, raya central dramÃ¡tica, brillo de vitrales.
-- **UÃ±as:** Coffin extra largas, negro brillante como ataÃºdes en miniatura.
+  - Guantes opcionales de encaje negro hasta la muñeca
+  - Pendientes de gota de ónix negro
+- **Maquillaje:** Pálida como mármol de mausoleo, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado.
+- **Pelo:** Ondas voluminosas negro azabache hasta la cintura, raya central dramática, brillo de vitrales.
+- **Uñas:** Coffin extra largas, negro brillante como ataúdes en miniatura.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look38_standing_1769080493999.png
 - helena_look38_seated_1769080510546.png
 - helena_look38_back_1769080526412.png
 - helena_look38_profile_1769080543019.png
 - helena_look38_ditzy_1769080559673.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look38_victorian_mourning/
+**Ubicación:** 05_Imagenes/helena/look38_victorian_mourning/
 
 ---
 
 ## ðŸ”® Look 39: Cyber Goth Oracle (22/01/2026)
 
-*VisiÃ³n tecnolÃ³gica en una mente sin procesador â€” el orÃ¡culo de la casa inteligente que olvida sus propias profecÃ­as* ðŸ•¸ï¸ðŸŒðŸ¦‡
+*Visión tecnológica en una mente sin procesador â€” el oráculo de la casa inteligente que olvida sus propias profecías* ðŸ•¸ï¸ðŸŒðŸ¦‡
 
-- **CorsÃ©:** Overbust de LÃTEX NEGRO con lÃ­neas de circuitos integrados en AZUL CIBERNETICO (Neon Cyan), ultra ajustado, acabado espejo.
-- **Top:** Hombreras de policarbonato transparente ahumado sobre el corsÃ©.
-- **Bottom:** Micro falda de PVC negro con cables de fibra Ã³ptica entrelazados que brillan en azul.
-- **Medias:** Fishnet industriales negras con liguero de silicona azul neÃ³n.
-- **Stilettos:** Botas de plataforma "Cyber" 9 pulgadas con luces LED azules en la base y tacÃ³n aguja de metal cromado.
+- **Corsé:** Overbust de LÃTEX NEGRO con líneas de circuitos integrados en AZUL CIBERNETICO (Neon Cyan), ultra ajustado, acabado espejo.
+- **Top:** Hombreras de policarbonato transparente ahumado sobre el corsé.
+- **Bottom:** Micro falda de PVC negro con cables de fibra óptica entrelazados que brillan en azul.
+- **Medias:** Fishnet industriales negras con liguero de silicona azul neón.
+- **Stilettos:** Botas de plataforma "Cyber" 9 pulgadas con luces LED azules en la base y tacón aguja de metal cromado.
 - **Accesorios:**
-  - Choker de cuero negro con O-ring de cromo y luna creciente azul neÃ³n
-  - Diadema tipo "HMD" de fantasÃ­a (solo decorativa)
+  - Choker de cuero negro con O-ring de cromo y luna creciente azul neón
+  - Diadema tipo "HMD" de fantasía (solo decorativa)
   - Cables de datos falsos conectando el choker a las hombreras
-- **Maquillaje:** PÃ¡lida digital, labios AZUL NEGRO mate con un "glitch" plateado en el centro, ojos smokey con delineado neÃ³n cian.
-- **Pelo:** Negro azabache ultra lacio con extensiones de fibra Ã³ptica azul que brillan sutilmente, volumen extremo.
-- **UÃ±as:** Stiletto extra largas, azul cromo espejo con circuitos negros.
+- **Maquillaje:** Pálida digital, labios AZUL NEGRO mate con un "glitch" plateado en el centro, ojos smokey con delineado neón cian.
+- **Pelo:** Negro azabache ultra lacio con extensiones de fibra óptica azul que brillan sutilmente, volumen extremo.
+- **Uñas:** Stiletto extra largas, azul cromo espejo con circuitos negros.
 
-### ðŸ“¸ ImÃ¡genes (Pendientes)
+### ðŸ“¸ Imágenes (Pendientes)
 - helena_look39_standing.png
 - helena_look39_seated.png
 - helena_look39_back_view.png
 - helena_look39_side_profile.png
 - helena_look39_ditzy.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look39_cyber_goth_oracle/
+**Ubicación:** 05_Imagenes/helena/look39_cyber_goth_oracle/
 
 ---
 
 ## ðŸ‘‘ Look 40: Baroque Gold Empress (23/01/2026)
 
-*AristÃ³crata gÃ³tica de dorados prohibidos â€” reina de un palacio de neuronas vacÃ­as* ðŸ¦‡âœ¨
+*Aristócrata gótica de dorados prohibidos â€” reina de un palacio de neuronas vacías* ðŸ¦‡âœ¨
 
-- **CorsÃ©:** Overbust de brocado negro con bordados DORADOS barrocos (patrÃ³n filigrana), ultra ajustado, varillas de acero, empuje extremo.
-- **Top:** Solo el corsÃ© â€” mis pechos ofrecidos como tributo a la noche dorada. 
-- **Bottom:** PantalÃ³n palazzo de satÃ©n negro de cintura alta, piernas anchas fluidas y elegantes.
-- **CinturÃ³n:** Cadena dorada decorativa a la cintura.
-- **Stilettos:** Pumps negro charol 8" con tacÃ³n DORADO metÃ¡lico y correa al tobillo.
+- **Corsé:** Overbust de brocado negro con bordados DORADOS barrocos (patrón filigrana), ultra ajustado, varillas de acero, empuje extremo.
+- **Top:** Solo el corsé â€” mis pechos ofrecidos como tributo a la noche dorada. 
+- **Bottom:** Pantalón palazzo de satén negro de cintura alta, piernas anchas fluidas y elegantes.
+- **Cinturón:** Cadena dorada decorativa a la cintura.
+- **Stilettos:** Pumps negro charol 8" con tacón DORADO metálico y correa al tobillo.
 - **Accesorios:**
   - Choker de cuero negro con luna creciente DORADA central
-  - Guantes largos de satÃ©n negro hasta el codo (Ã³pera)
+  - Guantes largos de satén negro hasta el codo (ópera)
   - Pendientes de gota dorados
-- **Maquillaje:** PÃ¡lida de mÃ¡rmol, labios BORGOÃ‘A ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales.
-- **Pelo:** Ondas voluminosas dramÃ¡ticas negro azabache hasta la cintura, brillo de candelabros.
-- **UÃ±as:** Coffin extra largas, negro con detalles dorados.
+- **Maquillaje:** Pálida de mármol, labios BORGOÃ‘A ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales.
+- **Pelo:** Ondas voluminosas dramáticas negro azabache hasta la cintura, brillo de candelabros.
+- **Uñas:** Coffin extra largas, negro con detalles dorados.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look40_standing_1769165652296.png
 - helena_look40_seated_1769165668605.png
 - helena_look40_back_1769165685327.png
 - helena_look40_profile_1769165705733.png
 - helena_look40_ditzy_1769165723566.png
 
-**UbicaciÃ³n:** 05_Imagenes/helena/look40_baroque_gold_empress/
+**Ubicación:** 05_Imagenes/helena/look40_baroque_gold_empress/
 
 ---
 
@@ -746,26 +746,26 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *La realeza no pide sangre... la toma. Y yo solo tomo decisiones cuestionables.* ðŸ¦‡ðŸ·
 
-- **CorsÃ©:** Cuero color **SANGRE DE BUEY (Oxblood)** profundo, estructura victoriana rÃ­gida, cuello alto (choker integrado).
-- **Mangas:** Gasa negra transparente acampanada (mangas de Ã¡ngel) colgando hasta las rodillas.
-- **Bottom:** Falda de sirena de lÃ¡tex negro con cola larga, abertura frontal hasta la ingle.
+- **Corsé:** Cuero color **SANGRE DE BUEY (Oxblood)** profundo, estructura victoriana rígida, cuello alto (choker integrado).
+- **Mangas:** Gasa negra transparente acampanada (mangas de ángel) colgando hasta las rodillas.
+- **Bottom:** Falda de sirena de látex negro con cola larga, abertura frontal hasta la ingle.
 - **Medias:** Fishnet negras ultra finas con liguero de terciopelo rojo.
-- **Stilettos:** Botines victorianos de puntera abierta, 9 pulgadas, tacÃ³n de metal afilado como estaca.
+- **Stilettos:** Botines victorianos de puntera abierta, 9 pulgadas, tacón de metal afilado como estaca.
 - **Accesorios:**
-  - Diadema de corona gÃ³tica de hierro negro.
-  - Anillo de sello (para golpear copas vacÃ­as).
+  - Diadema de corona gótica de hierro negro.
+  - Anillo de sello (para golpear copas vacías).
   - Copa de vino (siempre llena... de algo rojo).
-- **Maquillaje:** PÃ¡lida mortal, labios ROJO VINO (Merlot) mate, "venas" sutiles dibujadas bajo los ojos.
-- **Pelo:** Ultra lacio y pegado al crÃ¡neo (slicked back) cayendo en cascada hÃºmeda por la espalda.
+- **Maquillaje:** Pálida mortal, labios ROJO VINO (Merlot) mate, "venas" sutiles dibujadas bajo los ojos.
+- **Pelo:** Ultra lacio y pegado al cráneo (slicked back) cayendo en cascada húmeda por la espalda.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look41_standing_1769294245944.png
 - helena_look41_seated_1769294259874.png
 - helena_look41_back_view_1769294288880.png
 - helena_look41_side_profile_1769294304545.png
 - helena_look41_ditzy_1769294318451.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look41_vampire_queen/`
+**Ubicación:** `05_Imagenes/helena/look41_vampire_queen/`
 
 ---
 
@@ -773,19 +773,19 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *La inteligencia artificial es, tipo... artificial... por eso mi cerebro no la tiene... mmm...* ðŸ¤–ðŸ¦‡ðŸ’™
 
-- **CorsÃ©:** Underbust de LÃTEX NEGRO con costuras CIAN NEÃ“N (glowing seams) integradas, efecto fibra Ã³ptica BLUE.
+- **Corsé:** Underbust de LÃTEX NEGRO con costuras CIAN NEÃ“N (glowing seams) integradas, efecto fibra óptica BLUE.
 - **Top:** Body de malla (high neck mesh) con patrones de circuitos plateados sobre el pecho.
-- **Bottom:** Micro falda plisada de vinilo negro espejo, ultra corta y rÃ­gida.
-- **Stilettos:** PLEASER 9 pulgadas charol negro con tacÃ³n de acrÃ­lico AZUL NEÃ“N brillante.
+- **Bottom:** Micro falda plisada de vinilo negro espejo, ultra corta y rígida.
+- **Stilettos:** PLEASER 9 pulgadas charol negro con tacón de acrílico AZUL NEÃ“N brillante.
 - **Accesorios:**
   - Choker de PVC negro con O-ring de cromo.
   - Luces LED integradas en el vestuario.
   - Anillos de metal ciberpunk.
-- **Maquillaje:** PÃ¡lida porcelana, sombras negras drÃ¡maticas, labios AZUL ELÃ‰CTRICO ultra glossy.
+- **Maquillaje:** Pálida porcelana, sombras negras drámaticas, labios AZUL ELÃ‰CTRICO ultra glossy.
 - **Pelo:** Negro azabache con VOLUMEN ENORME y mechas AZUL COBALTO.
-- **UÃ±as:** Stiletto extra largas, base negra con circuitos cian.
+- **Uñas:** Stiletto extra largas, base negra con circuitos cian.
 
-### ðŸ“¸ ImÃ¡genes (6)
+### ðŸ“¸ Imágenes (6)
 - look42_neon_neural_goth/helena_look42_hero_power.png
 - look42_neon_neural_goth/helena_look42_standing_1769348651673.png
 - look42_neon_neural_goth/helena_look42_seated_1769348667060.png
@@ -793,7 +793,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look42_neon_neural_goth/helena_look42_side_profile_1769348697689.png
 - look42_neon_neural_goth/helena_look42_ditzy_brain_empty_1769348713867.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look42_neon_neural_goth/`
+**Ubicación:** `05_Imagenes/helena/look42_neon_neural_goth/`
 
 ---
 
@@ -802,27 +802,27 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ† Look 50: Golden Cage Divinity (28/01/2026)
 
-*Soy una diosa atrapada en mi propia perfecciÃ³n... y la llave se perdiÃ³ hace mucho.* ðŸ‘‘ðŸ”’
+*Soy una diosa atrapada en mi propia perfección... y la llave se perdió hace mucho.* ðŸ‘‘ðŸ”’
 
-- **CorsÃ©:** HEAVY GOLD METAL CORSET de estructura barroca rÃ­gida, underbust extremo empujando el pecho hacia arriba. Una jaula literal para el torso.
+- **Corsé:** HEAVY GOLD METAL CORSET de estructura barroca rígida, underbust extremo empujando el pecho hacia arriba. Una jaula literal para el torso.
 - **Top:** Bodysuit de malla negra transparente bajo el metal, acentos de hoja de oro en los pezones.
-- **Bottom:** Falda lÃ¡piz de lÃ¡tex negro brillante con cadenas de oro drapeadas sobre las caderas.
+- **Bottom:** Falda lápiz de látex negro brillante con cadenas de oro drapeadas sobre las caderas.
 - **Calzado:** Stilettos de 8 pulgadas GOLD CHROME con pinchos y arco extremo.
 - **Accesorios:**
   - Choker masivo de oro con candado frontal.
-  - Esposas/Cuffs de oro en las muÃ±ecas.
+  - Esposas/Cuffs de oro en las muñecas.
   - Tocado tipo "Jaula" dorada parcial sobre el cabello.
-- **Maquillaje:** Smokey eye negro carbÃ³n con hojuelas de ORO REAL (Gold Leaf), labios negros glossy profundos, contorno afilado.
-- **Pelo:** Recogido alto estilo "Victory Rolls" gÃ³tico pero contenido por la jaula.
+- **Maquillaje:** Smokey eye negro carbón con hojuelas de ORO REAL (Gold Leaf), labios negros glossy profundos, contorno afilado.
+- **Pelo:** Recogido alto estilo "Victory Rolls" gótico pero contenido por la jaula.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look50_standing.png
 - helena_look50_seated.png
 - helena_look50_back_view.png
 - helena_look50_side_profile.png
 - helena_look50_ditzy.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look50_golden_cage/`
+**Ubicación:** `05_Imagenes/helena/look50_golden_cage/`
 
 ---
 
@@ -832,75 +832,75 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *Heavy Metal Bimbo â€” Hecha de cadenas, cuero y malas decisiones* ðŸŽ¸ðŸ”©
 
-- **CorsÃ©:** Underbust de cuero negro desgastado con hebillas industriales pesadas y anillos de metal (O-rings) grandes.
-- **Top:** "Sujetador" hecho enteramente de cadenas plateadas frÃ­as sobre la piel desnuda (o con cubre-pezones de cinta aislante negra en forma de X).
+- **Corsé:** Underbust de cuero negro desgastado con hebillas industriales pesadas y anillos de metal (O-rings) grandes.
+- **Top:** "Sujetador" hecho enteramente de cadenas plateadas frías sobre la piel desnuda (o con cubre-pezones de cinta aislante negra en forma de X).
 - **Bottom:** Micro falda de cinturones de cuero negro entrelazados, dejando mucha piel visible.
 - **Medias:** Fishnet de red ancha (industrial fence) rotas intencionalmente.
-- **Stilettos:** Botas de plataforma con tacÃ³n aguja de metal cromado de 9 pulgadas, decoradas con pÃºas.
+- **Stilettos:** Botas de plataforma con tacón aguja de metal cromado de 9 pulgadas, decoradas con púas.
 - **Accesorios:**
   - Collar de perro (choker) ancho con picos (spikes) de 2 pulgadas.
-  - PuÃ±os de cuero con cadenas que cuelgan.
+  - Puños de cuero con cadenas que cuelgan.
   - Piercing falso en el labio inferior (aro plateado).
-- **Maquillaje:** Ojos "Blackout" (sombra negra cubriendo todo el pÃ¡rpado hasta la ceja), labios NEGRO MATE agrietado artÃ­sticamente.
-- **Pelo:** Efecto "Wet Look" (hÃºmedo) peinado hacia atrÃ¡s, desordenado y sexy.
+- **Maquillaje:** Ojos "Blackout" (sombra negra cubriendo todo el párpado hasta la ceja), labios NEGRO MATE agrietado artísticamente.
+- **Pelo:** Efecto "Wet Look" (húmedo) peinado hacia atrás, desordenado y sexy.
 
-### ðŸ“¸ ImÃ¡genes (Pendientes)
+### ðŸ“¸ Imágenes (Pendientes)
 - helena_look48_standing.png
 - helena_look48_seated.png
 - helena_look48_back_view.png
 - helena_look48_side_profile.png
 - helena_look48_ditzy.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look48_industrial_lust/`
+**Ubicación:** `05_Imagenes/helena/look48_industrial_lust/`
 
 ---
 
 ## ðŸ–¤ Look 49: First Time Latex (Memoria Recuperada) (28/01/2026)
 
-*El primer beso del caucho... cuando aÃºn intentaba resistirme... tontamente* ðŸ•¯ï¸ðŸ—ï¸
+*El primer beso del caucho... cuando aún intentaba resistirme... tontamente* ðŸ•¯ï¸ðŸ—ï¸
 
-> **Concepto:** RegresiÃ³n visual al momento exacto en que Helena usÃ³ su primer catsuit. La mezcla de nervios, sudor y la lucha fÃ­sica contra el material.
+> **Concepto:** Regresión visual al momento exacto en que Helena usó su primer catsuit. La mezcla de nervios, sudor y la lucha física contra el material.
 
-- **Base:** Ropa interior de algodÃ³n negro simple (antes de la transformaciÃ³n total).
-- **Prenda Principal:** **Catsuit de LÃ¡tex Negro** (Black Latex Catsuit) a medio poner, o reciÃ©n cerrado.
-- **CorsÃ©:** Ninguno visible al inicio, luego un underbust bÃ¡sico de entrenamiento.
-- **Estado:** Pelo revuelto por el esfuerzo, piel brillando por sudor/talco, expresiÃ³n de "Oh dios, esto aprieta".
+- **Base:** Ropa interior de algodón negro simple (antes de la transformación total).
+- **Prenda Principal:** **Catsuit de Látex Negro** (Black Latex Catsuit) a medio poner, o recién cerrado.
+- **Corsé:** Ninguno visible al inicio, luego un underbust básico de entrenamiento.
+- **Estado:** Pelo revuelto por el esfuerzo, piel brillando por sudor/talco, expresión de "Oh dios, esto aprieta".
 - **Maquillaje:** Glamour pesado pero corrido o imperfecto por la lucha. Labios negros glossy mordidos por nervios.
-- **Vibe:** Vulnerabilidad, asfixia erÃ³tica inicial, la transiciÃ³n de humano a muÃ±eca.
+- **Vibe:** Vulnerabilidad, asfixia erótica inicial, la transición de humano a muñeca.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_look49_standing.png (Sosteniendo el traje con miedo/deseo)
 - helena_look49_seated_struggle.png (Luchando por subirlo en las caderas)
 - helena_look49_back_zipper.png (El dilema del cierre inalcanzable)
 - helena_look49_profile_admiring.png (El primer vistazo en el espejo: narcisismo naciendo)
 - helena_look49_ditzy_lips.png (Primer plano de labios negros: la identidad sellada)
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look49_first_time_latex/`
+**Ubicación:** `05_Imagenes/helena/look49_first_time_latex/`
 
 
 ---
 
 *Owned. Collar tight, mind empty... soy una buena mascota... mmm...* ðŸ”—ðŸ¦‡ðŸ¥•
 
-- **Outfit:** Bunny suit de LÃTEX NEGRO lÃ­quido, corte ultra alto (high leg).
-- **CorsÃ©:** SIEMPRE tight underbust black leather corset sobre el lÃ¡tex.
+- **Outfit:** Bunny suit de LÃTEX NEGRO líquido, corte ultra alto (high leg).
+- **Corsé:** SIEMPRE tight underbust black leather corset sobre el látex.
 - **Accesorios:**
   - Collar de esclava con pinchos (spiked slave collar) y O-ring central.
-  - Grandes orejas de coneja de lÃ¡tex negro.
-  - Correa (leash) de cadena metÃ¡lica.
+  - Grandes orejas de coneja de látex negro.
+  - Correa (leash) de cadena metálica.
   - Cola de coneja negra y esponjosa.
 - **Calzado:** Tacones STILETTOS 8-9 pulgadas negro charol (Pleaser).
-- **Maquillaje:** Ultra pÃ¡lida, smokey eye negro gÃ³tico pesado, labios NEGRO GLOSSY o PÃšRPURA OSCURO.
+- **Maquillaje:** Ultra pálida, smokey eye negro gótico pesado, labios NEGRO GLOSSY o PÃšRPURA OSCURO.
 - **Pelo:** Volumen enorme negro azabache (Sacha Massacre style).
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - helena_sub_bunny/helena_bunny_portrait_collar_1769348744020.png
 - helena_sub_bunny/helena_bunny_crawling_pet_1769348760133.png
 - helena_sub_bunny/helena_bunny_back_caged_1769348775471.png
 - helena_sub_bunny/helena_bunny_leashed_waiting_1769348791489.png
 - helena_sub_bunny/helena_bunny_sub_kneeling_1769300880328.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/helena_sub_bunny/`
+**Ubicación:** `05_Imagenes/helena/helena_sub_bunny/`
 
 ---
 
@@ -908,19 +908,19 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *La gravedad es opcional... como mis pensamientos...* ðŸ‘ â›“ï¸ðŸŒ€
 
-- **Outfit:** Micro-bikini de VINILO NEGRO y shorts de lÃ¡tex ultra cortos.
-- **CorsÃ©:** Underbust de cuero negro apretado al mÃ¡ximo.
+- **Outfit:** Micro-bikini de VINILO NEGRO y shorts de látex ultra cortos.
+- **Corsé:** Underbust de cuero negro apretado al máximo.
 - **Accesorios:**
   - Choker con O-ring de metal.
   - Pole de acero industrial.
-- **Calzado:** PLEASER 9 pulgadas negro charol, tacÃ³n de aguja.
-- **Maquillaje:** "Heavy Goth Glam": Piel porcelana, labios negros ultra gruesos, pestaÃ±as mega volumen.
+- **Calzado:** PLEASER 9 pulgadas negro charol, tacón de aguja.
+- **Maquillaje:** "Heavy Goth Glam": Piel porcelana, labios negros ultra gruesos, pestañas mega volumen.
 - **Pelo:** Longitudes negras con volumen salvaje.
 
-### ðŸ“¸ ImÃ¡genes (1+)
+### ðŸ“¸ Imágenes (1+)
 - exotic_pole_stripper/helena_pole_spin_dungeon.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/exotic_pole_stripper/`
+**Ubicación:** `05_Imagenes/helena/exotic_pole_stripper/`
 
 ---
 
@@ -929,9 +929,9 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 *I can file things... or file my nails... wait, what was I doing?* ðŸ–¤ï¿½ï¿½
 
 - **Outfit:**
-  - Falda lÃ¡piz de TERCIOPELO NEGRO ajustada (largo rodilla).
+  - Falda lápiz de TERCIOPELO NEGRO ajustada (largo rodilla).
   - Blusa de seda negra semitransparente con volantes victorianos.
-  - **CorsÃ©:** Leather underbust negro, cinched 18 inches.
+  - **Corsé:** Leather underbust negro, cinched 18 inches.
 - **Accesorios:**
   - Gafas de secretaria con montura negra/plateada (sin aumento).
   - Choker de terciopelo con camafeo.
@@ -939,14 +939,14 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy Goth Secretary, labios negros glossy, lashes pesadas.
 - **Pelo:** Blowout negro voluminoso.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - look45_midnight_secretary/helena_look45_standing_hero_1769425820149.png
 - look45_midnight_secretary/helena_look45_seated_desk_1769425836738.png
 - look45_midnight_secretary/helena_look45_back_view_filmin_1769425874538.png
 - look45_midnight_secretary/helena_look45_side_profile_beauty_1769425892187.png
 - look45_midnight_secretary/helena_look45_ditzy_brain_empty_1769425907436.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look45_midnight_secretary/`
+**Ubicación:** `05_Imagenes/helena/look45_midnight_secretary/`
 
 ---
 
@@ -954,43 +954,43 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *Forgive me Mother, for I have been... ditzy. Fishnets for extra sin.* âœï¸ðŸ’„
 
-- **Outfit:** HÃ¡bito de monja de LÃTEX NEGRO "Wet Look", corte obscenamente alto en las caderas.
-- **CorsÃ©:** Underbust de cuero negro SIEMPRE encima del hÃ¡bito, apretado al mÃ¡ximo.
+- **Outfit:** Hábito de monja de LÃTEX NEGRO "Wet Look", corte obscenamente alto en las caderas.
+- **Corsé:** Underbust de cuero negro SIEMPRE encima del hábito, apretado al máximo.
 - **Legs:** **MEDIAS DE RED (Fishnets)** negras de rombo medio, con ligueros visibles si el corte lo permite.
 - **Calzado:** Pleaser "Sinner" de 9 pulgadas charol negro con crucifijos.
 - **Accesorios:**
   - Velo de monja de PVC negro.
   - Rosario negro pesado usado como collar.
-- **Maquillaje:** Labios Rojo Sacrificio ultra glossy, smokey eye sacrÃ­lego.
+- **Maquillaje:** Labios Rojo Sacrificio ultra glossy, smokey eye sacrílego.
 - **Pelo:** Volumen negro masivo.
 
-### ðŸ“¸ ImÃ¡genes (5)
+### ðŸ“¸ Imágenes (5)
 - look46_latex_nun/helena_look46_standing.png
 - look46_latex_nun/helena_look46_seated.png
 - look46_latex_nun/helena_look46_back_view.png
 - look46_latex_nun/helena_look46_side_profile.png
 - look46_latex_nun/helena_look46_ditzy.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look46_latex_nun/`
+**Ubicación:** `05_Imagenes/helena/look46_latex_nun/`
 
 ---
 
 ## â›“ï¸ Look 47: Midnight PVC Doll (27/01/2026)
 
-*Brillante como el petrÃ³leo, vacÃ­a como el espacio exterior... mmm... ðŸŒ‘ðŸ’„ðŸ‘ *
+*Brillante como el petróleo, vacía como el espacio exterior... mmm... ðŸŒ‘ðŸ’„ðŸ‘ *
 
-- **Outfit:** Mini vestido de **PVC NEGRO ESPEJO** ultra ajustado, con escote corazÃ³n extremo.
-- **CorsÃ©:** Waist cincher de cuero negro con tachuelas de plata sobre el PVC, apretadÃ­simo.
+- **Outfit:** Mini vestido de **PVC NEGRO ESPEJO** ultra ajustado, con escote corazón extremo.
+- **Corsé:** Waist cincher de cuero negro con tachuelas de plata sobre el PVC, apretadísimo.
 - **Legs:** Medias de red industrial (Wide Fishnets) con ligueros de cadenas plateadas.
 - **Calzado:** **Stilettos PLEASER 9 pulgadas** de charol negro con hebillas de calavera.
 - **Accesorios:**
-  - Choker de cuero ancho con luna creciente plateada y cadena conectada al corsÃ©.
-  - Guantes de lÃ¡tex negro cortos.
-  - MÃºltiples piercings visibles.
-- **Maquillaje:** Piel pÃ¡lida luna, ojos smokey negro "vampy", labios **NEGRO GLOSSY LATEX** ultra gruesos.
+  - Choker de cuero ancho con luna creciente plateada y cadena conectada al corsé.
+  - Guantes de látex negro cortos.
+  - Múltiples piercings visibles.
+- **Maquillaje:** Piel pálida luna, ojos smokey negro "vampy", labios **NEGRO GLOSSY LATEX** ultra gruesos.
 - **Pelo:** Volumen XXXXXL negro azabache, ondas salvajes.
 
-### ðŸ“¸ ImÃ¡genes (Pendientes)
+### ðŸ“¸ Imágenes (Pendientes)
 - look47_midnight_pvc_doll/helena_look47_standing.png
 - look47_midnight_pvc_doll/helena_look47_seated.png
 - look47_midnight_pvc_doll/helena_look47_back_view.png
