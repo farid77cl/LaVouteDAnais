@@ -272,6 +272,7 @@ Reservó la cita para el viernes.
 > * **Estado Físico:** Uñas stiletto rojas con charms dorados. Vestimenta: Vinilo/Leopardo.
 > * **Estado Mental:** Primeros síntomas de Horror Corporal (no recuerda decisiones). Acepta los cambios porque "brillan".
 > * **Inventario/Vestuario:** Vestido vinilo negro, vestido leopardo, botas charol, uñas acrílicas.
+> * **NOTAS REVISIÓN (Escena Salida 14:00):** Detallar el vestido de leopardo (lycra sintética, escote V profundo, animal print saturado). EVE lo justifica por "termodinámica". Añadir maquillaje: delineado negro grueso, labios nude/gloss. Clara siente que aceptar fue "más fácil" que el vinilo. Sensación de protección/máscara y calor eléctrico en los muslos.
 > ```
 
 ---
