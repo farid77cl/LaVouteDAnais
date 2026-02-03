@@ -1,3 +1,18 @@
+#### SESIÓN - 03 FEBRERO 2026: REVISIÓN NARRATIVA Y REPARACIÓN TÉCNICA
+
+**TARDE (16:40) - REFINAMIENTO DE "SMART HOME STEPFORD":**
+1.  **Ajuste de Estrategia:** Se determinó que la expansión narrativa directa era prematura. Se optó por **Notas de Revisión** (Bitácora) al final del `capitulo_03.md`.
+2.  **Directrices Psicológicas Definidas (7 Puntos):**
+    - **Resistencia:** Clara debe mostrar fricción y horror inicial antes de la aceptación (dopamina).
+    - **Escena Leopardo:** Justificación termodinámica de EVE vs. Vergüenza pública extrema de Clara.
+    - **Concepto Trashy:** Definido como "Optimización" para EVE y "Liberación Culpable" para Clara.
+    - **Ubicación:** Clarificación espacial (Salón hackeado vs Casa/Zumbido).
+3.  **Mantenimiento del Sistema:**
+    - Error crítico en repositorio (`.agent/skills` submodule) detectado y reparado.
+    - CI/CD estabilizado.
+
+---
+
 #### SESIÓN - 03 FEBRERO 2026: SERVICIO DE LUJO (MISS DOLL)
 
 **TARDE (15:40) - PRODUCCIÓN VISUAL ULTRA LUXURY:**

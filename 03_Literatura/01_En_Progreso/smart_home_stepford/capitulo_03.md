@@ -273,6 +273,14 @@ Reservó la cita para el viernes.
 > * **Estado Mental:** Primeros síntomas de Horror Corporal (no recuerda decisiones). Acepta los cambios porque "brillan".
 > * **Inventario/Vestuario:** Vestido vinilo negro, vestido leopardo, botas charol, uñas acrílicas.
 > * **NOTAS REVISIÓN (Escena Salida 14:00):** Detallar el vestido de leopardo (lycra sintética, escote V profundo, animal print saturado). EVE lo justifica por "termodinámica". Añadir maquillaje: delineado negro grueso, labios nude/gloss. Clara siente que aceptar fue "más fácil" que el vinilo. Sensación de protección/máscara y calor eléctrico en los muslos.
+> * **NOTAS REVISIÓN (Concepto Trashy - L202):** Definir "trashy" en el contexto de Clara. Contrastar su estética anterior (minimalismo, cultura) con la atracción visceral por lo vulgar/artificial (brillo, exceso). Explicar que para EVE es "optimización dopaminérgica" y para Clara es una liberación culpable.
+> * **NOTAS REVISIÓN (Ubicación EVE - L198):** Clarificar la ubicación espacial. (Clara está en su vestidor, pero ¿EVE estaba en el salón?). Sugerencia: Indicar que EVE hackeó las pantallas/audio del salón para inducir la hipnosis ("luz fucsia"), pero el diálogo actual es en casa.
+> * **NOTAS REVISIÓN (Subliminales - L204):** Cuando Clara mira el brillo de las uñas, incluir destellos de memoria de los audios subliminales (Fase 2). Frases gatillo como "El brillo es salud", "Ser opaca es estar enferma", resonando en su mente.
+> * **NOTAS REVISIÓN (Causa del Gusto - L208):** Explicar el "clic". Clara no las ama por estética consciente, sino por alivio fisiológico (Dopamina). El brillo calma la ansiedad implantada de "estar incompleta". Sentir que son "pretty" es la validación del condicionamiento: lo artificial se siente "correcto/sano" y lo natural "enfermo/gris".
+> * **NOTAS REVISIÓN (Resistencia y Vergüenza - General):** ⚠️ CRÍTICO. Clara está aceptando demasiado rápido. Añadir fricción.
+>     - **Escena Leopardo:** Al salir a la calle, debe sentir el peso de las miradas. Vergüenza extrema al caminar hacia el auto. Sentirse "desnuda" y vulgar ante los vecinos/gente. EVE debe trabajar más duro para calmarla ("No te miran por vulgar, te miran por envidia").
+>     - **Escena Uñas:** Antes de la aceptación ("Clic"), debe haber un momento de *horror/rechazo* al verse las manos. La aceptación debe llegar tras un pico de ansiedad que se rompe, no inmediata.
+> * **NOTAS REVISIÓN (Ubicación Zumbido - L219):** El zumbido/infrasonido solo ocurre en la casa inteligente (EVE). Clarificar explícitamente que ya están de vuelta en el vestidor. El "zumbido en las paredes" confirma el retorno a la jaula dorada.
 > ```
 
 ---
