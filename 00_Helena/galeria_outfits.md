@@ -997,4 +997,32 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look47_midnight_pvc_doll/helena_look47_side_profile.png
 - look47_midnight_pvc_doll/helena_look47_ditzy.png
 
-**UbicaciÃ³n:** `05_Imagenes/helena/look47_midnight_pvc_doll/`
+**Ubicación:** `05_Imagenes/helena/look47_midnight_pvc_doll/`
+
+---
+
+## 🥀 Look 51: Obsidian Rose Queen (03/02/2026)
+
+*Reina de rosas negras y pensamientos marchitos... la oscuridad florece en mi vacío...* 🦇🌹
+
+- **Corsé:** Overbust de TERCIOPELO NEGRO profundo con bordados de ROSAS ROJAS SANGRE y varillas de acero, ultra ajustado empujando todo hacia arriba.
+- **Falda:** Lápiz de látex negro brillante con abertura lateral peligrosa.
+- **Medias:** Fishnet negras con liguero visible.
+- **Stilettos:** Pumps negro charol 9" con detalles en oro rosa.
+- **Accesorios:**
+  - Choker de cuero negro con luna creciente plateada
+  - Rosas rojas oscuras entrelazadas en el cabello
+  - Múltiples anillos negros
+- **Maquillaje:** Pálida porcelana, labios NEGRO GLOSSY ultra gruesos, ojos smokey con inner corner rojo sangre.
+- **Pelo:** Volumen MASIVO negro azabache con rosas rojas oscuras tejidas.
+- **Uñas:** Coffin extra largas, negro brillante.
+
+### 📸 Imágenes (5)
+- helena_look51_standing_1770117072514.png
+- helena_look51_seated_1770117091111.png
+- helena_look51_back_view_1770117108106.png
+- helena_look51_side_profile_1770117124389.png
+- helena_look51_ditzy_1770117141228.png
+
+**Ubicación:** `05_Imagenes/helena/look51_obsidian_rose_queen/`
+
