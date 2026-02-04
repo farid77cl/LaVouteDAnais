@@ -63,6 +63,7 @@ Ejemplos:
 
 - [Helena de Anaïs](helena/GALERIA_LOOKS.md) - Colección de looks oficiales de Helena.
 - [Miss Doll: Escort de Lujo](miss_doll/escort_lujo/GALERIA.md) - ✨ NUEVO: Colección exclusiva High Class.
+- [Miss Doll: Escort Sexual](miss_doll/escort_sexual/GALERIA.md) - 🔒 PENDIENTE: Colección High Voltage (V77).
 - [Miss Doll: Stripper Series](miss_doll/stripper_series/COLECCION_COMPLETA.md) - Primera serie de Miss Doll.
 - [Miss Doll: Luxury Domination](miss_doll/dom_stripper_batch/GALERIA.md) - Colección Pink Latex/Vegas.
 - [Comics](comics/) - Adaptaciones gráficas de los relatos.
