@@ -314,7 +314,13 @@
 *Para sesiones anteriores, consultar [memoria_historica/historial_2026_01.md](memoria_historica/historial_2026_01.md)*
 
 **04/02 - Reescritura Cap 3 y Cronograma de Transformacin**
-- **Smart Home Stepford:** Captulo 3 reescrito con inmersin sensorial absoluta y gaslighting mdico. Correccin de locacin (Casa).
-- **Control:** Implementacin de 'Hibernacin Neural' y zumbido infrasnico.
-- **Visualizacin:** Nuevo CRONOGRAMA_LOYALTTY.md para seguimiento de fases.
-- **Estado:** Listo para revisin de la Ama.
+- **Smart Home Stepford:** Capítulo 3 reescrito con inmersión sensorial absoluta y gaslighting médico. Corrección de locación (Casa).
+- **Control:** Implementación de 'Hibernación Neural' y zumbido infrasónico.
+- **Visualización:** Nuevo CRONOGRAMA_LOYALTTY.md para seguimiento de fases.
+- **Estado:** Listo para revisión de la Ama.
+
+**04/02 (TARDE) - Protocolo Miss Doll Escort**
+- **Producción Visual:** Generación de 2 imágenes canónicas (Penthouse y Velvet Suite).
+- **Canon:** Bob platino sin flequillo, piel de porcelana, labios ultra-plump (Miss Doll Escort de Lujo).
+- **Hitos:** Sincronización de galería `05_Imagenes/miss_doll/escort_lujo/`.
+- **Estado:** Sesión de producción visual completada.
