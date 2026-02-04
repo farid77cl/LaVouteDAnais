@@ -26,9 +26,9 @@
 |-------|-------|
 | **Relato Activo** | Smart Home Stepford |
 | **Ubicación** | `03_Literatura/en_progreso/smart_home_stepford/` |
-| **Fase del Ritual** | ✅ FASE 2: ESCRITURA (Hito Cap 2) |
-| **Capítulo en Progreso** | **CAPÍTULO 2 REESCRITO** (Borrador Definitivo - Auto-Justificación) |
-| **Estado Actual** | ✅ **LISTO PARA REESCRITURA** - Notas Cap 3 completas (Resistencia/Horror). Repo reparado. |
+| **Fase del Ritual** | 🔄 FASE 2.5: REESCRITURA SENSORIAL (Corrección de Estilo) |
+| **Capítulo en Progreso** | **CAPÍTULO 3** (Borrador Rechazado por Superficialidad) |
+| **Estado Actual** | ⚠️ **ATENCIÓN CRÍTICA** - Reescritura obligatoria Cap 3. Foco: Inmersión/Lentitud. |
 | **Último Look Helena** | **Look 51:** Obsidian Rose Queen. |
 | **Última Generación** | Custom Miss Doll Escort (After Job + Pre-Work). |
 

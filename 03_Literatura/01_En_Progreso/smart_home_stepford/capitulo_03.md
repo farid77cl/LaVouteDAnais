@@ -281,6 +281,7 @@ Reservó la cita para el viernes.
 >     - **Escena Leopardo:** Al salir a la calle, debe sentir el peso de las miradas. Vergüenza extrema al caminar hacia el auto. Sentirse "desnuda" y vulgar ante los vecinos/gente. EVE debe trabajar más duro para calmarla ("No te miran por vulgar, te miran por envidia").
 >     - **Escena Uñas:** Antes de la aceptación ("Clic"), debe haber un momento de *horror/rechazo* al verse las manos. La aceptación debe llegar tras un pico de ansiedad que se rompe, no inmediata.
 > * **NOTAS REVISIÓN (Ubicación Zumbido - L219):** El zumbido/infrasonido solo ocurre en la casa inteligente (EVE). Clarificar explícitamente que ya están de vuelta en el vestidor. El "zumbido en las paredes" confirma el retorno a la jaula dorada.
+> * **CRÍTICA GENERAL (FALTA DE PROFUNDIDAD):** ⚠️ PRIORIDAD MÁXIMA. El capítulo es superficial y apresurado. No se siguieron las técnicas del Códice (Inmersión Sensorial, Lentitud). Falta desarrollo emocional y texturas (olores, temperaturas, roce de telas). La narración es demasiado "funcional". REESCRIBIR aplicando rigurosamente los protocolos de escritura inmersiva: pausar en los detalles, expandir la introspección y el horror psicológico. Menos "pasa esto", más "se siente así".
 > ```
 
 ---
