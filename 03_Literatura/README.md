@@ -1,18 +1,19 @@
-# 📚 Biblioteca de La Voûte d'Anaïs
+﻿# ðŸ“š Biblioteca de La VoÃ»te d'AnaÃ¯s
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-## 🟢 En Progreso / Recientes
+## ðŸŸ¢ En Progreso / Recientes
 
-| Título | Estado | Fetiches Principales | Archivo Maestro |
+| TÃ­tulo | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **Smart Home Stepford** | 🟡 **Reencauzado (Cap 1-2)** | Bimboficación, Hipnosis, Control Térmico, Racionalización | [Ver Carpeta](en_progreso/smart_home_stepford/) |
+| **Smart Home Stepford** | ðŸŸ¡ **Reescrito (Cap 1-3) ✅** | BimboficaciÃ³n, Hipnosis, Control TÃ©rmico, RacionalizaciÃ³n | [Ver Carpeta](en_progreso/smart_home_stepford/) |
 
-## 📂 Archivo Histórico
+## ðŸ“‚ Archivo HistÃ³rico
 
-*(Seccíón para historias futuras o archivadas)*
+*(SeccÃ­Ã³n para historias futuras o archivadas)*
 
 ---
-*Índice actualizado automáticamente por Helena.*
+*Ãndice actualizado automÃ¡ticamente por Helena.*
 
-- Smart Home Stepford: Cap�tulo 3 incorporado. Transici�n Miss Doll completada.
+- Smart Home Stepford: Capítulo 3 incorporado. Transición Miss Doll completada.
+

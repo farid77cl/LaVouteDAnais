@@ -1026,3 +1026,61 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 **Ubicación:** `05_Imagenes/helena/look51_obsidian_rose_queen/`
 
+
+---
+
+## 🐆 Look 52: Feline Noir Mistress (04/02/2026)
+
+*Depredadora nocturna con instinto asesino... y la atención de un gatito distraído* 🐱🖤
+
+- **Corsé:** Overbust de TERCIOPELO NEGRO con patrón de leopardo en relieve (black-on-black leopard print), escote corazón profundo, varillas de acero.
+- **Top:** Bolero de piel sintética negra (faux fur) sobre los hombros.
+- **Bottom:** Micro falda de cuero negro con cremallera frontal completa.
+- **Medias:** Fishnet negras clásicas con liguero de cuero y hebillas de gato.
+- **Stilettos:** Pleaser 9 pulgadas negros con suela de leopardo.
+- **Accesorios:**
+  - Diadema de orejas de gato góticas (encaje y cristales).
+  - Choker de cuero con cascabel plateado (silencioso, solo decorativo).
+  - Guantes de encaje negro con uñas como garras.
+- **Maquillaje:** Cat eye EXTREMO gráfico, nariz de gato sutil pintada (opcional pero cute), labios VINO TINTO glossy.
+- **Pelo:** Volumen salvaje cardado estilo años 80, negro azabache.
+
+### 📸 Imágenes (Pendientes)
+- helena_look52_standing.png
+- helena_look52_seated.png
+- helena_look52_back_view.png
+- helena_look52_side_profile.png
+- helena_look52_ditzy.png
+
+**Ubicación:** \ 5_Imagenes/helena/look52_feline_noir/\
+
+
+---
+
+## 🌙 Look 53: Silver Moon Goddess (04/02/2026)
+
+*Diosa de plata líquida y sombras eternas... la luna me hizo de metal y vacío...* ✨🖤
+
+- **Corsé:** Overbust de LÁTEX PLATEADO ESPEJO (Chrome Silver) con ribetes de encaje negro, varillas de acero, escote corazón profundo.
+- **Top:** Harness de cadenas de plata fina sobre el corsé, formando patrón de luna y estrellas.
+- **Bottom:** Falda sirena de satén negro brillante con abertura lateral hasta el muslo.
+- **Medias:** Negras de seda con costuras plateadas traseras, liguero de encaje negro con hebillas de plata.
+- **Stilettos:** Pleaser 9 pulgadas CROMO PLATEADO espejo con correa al tobillo.
+- **Accesorios:**
+  - Choker de cuero negro con luna creciente plateada GRANDE central
+  - Tiara/diadema de lunas y estrellas plateadas
+  - Guantes largos de satén negro hasta el codo
+  - Pendientes de gota de luna plateada
+- **Maquillaje:** Pálida como la luna, labios NEGRO GLOSSY con centro plateado (efecto holográfico), ojos smokey negro con inner corner PLATA brillante.
+- **Pelo:** Volumen MASIVO negro azabache con mechas plateadas/grises sutiles, ondas dramáticas.
+- **Uñas:** Stiletto extra largas, cromo plateado espejo.
+
+### 📸 Imágenes (Pendientes)
+- helena_look53_standing.png
+- helena_look53_seated.png
+- helena_look53_back_view.png
+- helena_look53_side_profile.png
+- helena_look53_ditzy.png
+
+**Ubicación:** \ 5_Imagenes/helena/look53_silver_moon_goddess/\
+
