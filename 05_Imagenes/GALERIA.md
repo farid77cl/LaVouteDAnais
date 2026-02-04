@@ -2,6 +2,7 @@
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
+- ✅ [**01 Personajes**](./01_Personajes/GALERIA.md)
 - ✅ [**Anais**](./anais/GALERIA.md)
 - ✅ [**Comics**](./comics/GALERIA.md)
 - ✅ [**Helena**](./helena/GALERIA.md)
