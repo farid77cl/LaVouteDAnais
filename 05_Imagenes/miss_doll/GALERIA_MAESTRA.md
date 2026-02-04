@@ -50,11 +50,11 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 21 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
+Total: 47 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
-| ![custom_missdoll_escort_s007_jet_arrival.png](luxury_escort_ultra/custom_missdoll_escort_s007_jet_arrival.png) | ![custom_missdoll_escort_s008_penthouse_satisfied.png](luxury_escort_ultra/custom_missdoll_escort_s008_penthouse_satisfied.png) | ![custom_missdoll_escort_s009_midnight_crawling.png](luxury_escort_ultra/custom_missdoll_escort_s009_midnight_crawling.png) |
+| ![custom_helena_latex_s001_standing.png](luxury_escort_ultra/custom_helena_latex_s001_standing.png) | ![custom_helena_latex_s002_seated.png](luxury_escort_ultra/custom_helena_latex_s002_seated.png) | ![custom_helena_latex_s003_back.png](luxury_escort_ultra/custom_helena_latex_s003_back.png) |
 
 ---
 
@@ -85,4 +85,4 @@ Total: 50 imágenes. [Ver carpeta completa](./General/GALERIA.md)
 
 ---
 
-*Galería maestra coordinada por Helena — 03/02/2026* 🌹
+*Galería maestra coordinada por Helena — 04/02/2026* 🌹

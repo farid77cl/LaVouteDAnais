@@ -27,4 +27,4 @@ Total imágenes: 5
 - [05_selfie.png](./05_selfie.png)
 
 ---
-*Actualizado automáticamente: 2026-02-03*
+*Actualizado automáticamente: 2026-02-04*

@@ -12,6 +12,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Bunny Tribute**](./bunny_tribute/GALERIA.md)
 - ✅ [**Canon Fix Luxury**](./canon_fix_luxury/GALERIA.md)
 - ✅ [**Dom Stripper Batch**](./dom_stripper_batch/GALERIA.md)
+- ✅ [**Escort Lujo**](./escort_lujo/GALERIA.md)
 - ✅ [**Luxury Escort Ultra**](./luxury_escort_ultra/GALERIA.md)
 - ✅ [**Shiny Haul**](./shiny_haul/GALERIA.md)
 - ✅ [**Stripper Series**](./stripper_series/GALERIA.md)
@@ -19,4 +20,4 @@ Explora las secciones de esta categoría:
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-02-03*
+*Actualizado automáticamente: 2026-02-04*
