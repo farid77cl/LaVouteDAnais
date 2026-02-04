@@ -13,6 +13,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Canon Fix Luxury**](./canon_fix_luxury/GALERIA.md)
 - ✅ [**Dom Stripper Batch**](./dom_stripper_batch/GALERIA.md)
 - ✅ [**Escort Lujo**](./escort_lujo/GALERIA.md)
+- ✅ [**Escort Sexual**](./escort_sexual/GALERIA.md)
 - ✅ [**Luxury Escort Ultra**](./luxury_escort_ultra/GALERIA.md)
 - ✅ [**Shiny Haul**](./shiny_haul/GALERIA.md)
 - ✅ [**Stripper Series**](./stripper_series/GALERIA.md)

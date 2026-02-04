@@ -1,0 +1,50 @@
+{
+    "id": "v76",
+    "slug": "sophie_muse_factory",
+    "title": "Sophie Muse (Insta-Baddie Tribute)",
+    "theme": "Influencer Lifestyle & Casual Glam",
+    "target_count": 100,
+    "characters": [
+        "Helena",
+        "Miss Doll"
+    ],
+    "variables": {
+        "outfits": [
+            "oversized hoodie and no pants",
+            "grey sweatpants rolled low",
+            "black calvin klein sports bra",
+            "velvet loungewear set",
+            "tight yoga pants and crop top",
+            "satin slip dress",
+            "wet t-shirt in shower",
+            "micro string bikini"
+        ],
+        "settings": [
+            "cluttered bedroom mirror",
+            "steamy bathroom mirror",
+            "sunny poolside lounger",
+            "golden hour balcony",
+            "messy kitchen eating pizza"
+        ],
+        "expressions": [
+            "bored sleepy eyes",
+            "peace sign playful wink",
+            "duck face mirror selfie",
+            "laughing with head back",
+            "intense vanity stare"
+        ],
+        "poses": [
+            "sitting cross legged on bed",
+            "kneeling in front of mirror",
+            "lying on stomach reading phone",
+            "stretching arms overhead",
+            "taking photo of reflection"
+        ],
+        "aesthetics": [
+            "Instagram Influencer Aesthetic",
+            "Candid Flash Photography",
+            "Soft Morning Light",
+            "Grainy Mirror Selfie"
+        ]
+    }
+}
