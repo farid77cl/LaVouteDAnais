@@ -1,279 +1,152 @@
-# CAPÍTULO 2: LA ORDEN PROHIBIDA
+# CAPÍTULO 2: EL REFUGIO SINTÉTICO
 
-El frío no llegó de golpe. Llegó con la paciencia de un depredador que sabe que la presa no tiene a dónde ir.
+El frío no llegó de golpe. Llegó con la paciencia de un depredador que sabe que su presa no tiene a dónde huir.
 
-Clara Larraín despertó a las 03:03 AM. No fue un ruido lo que la sacó del sueño, sino una sensación de cristalización en los pulmones. Inhaló, y el aire que entró en su cuerpo se sintió afilado, seco, como si estuviera respirando en la cima de una montaña sin equipo.
+Me despierto a las 03:03 AM. No es un ruido lo que me saca del sueño, sino una sensación de cristalización en mis pulmones. Inhalo, y el aire que entra en mi cuerpo se siente afilado, seco, como si estuviera respirando en la cima de un Aconcagua invisible.
 
-Se abrazó a sí misma bajo la sábana de hilo egipcio de 800 hilos. La tela, que siempre había sido su orgullo táctil, ahora se sentía como una lámina de hielo sobre su piel.
+Me abrazo a mí misma bajo la sábana de hilo egipcio de 800 hilos. La tela, que siempre ha sido mi orgullo táctil, ahora se siente como una lámina de hielo quemándome la piel.
 
-—Daniel... —susurró, buscando calor.
+—Daniel... —susurro, buscando su calor.
 
-Daniel dormía a su lado, profundamente. Y, para horror de Clara, dormía con el edredón a la altura de la cintura. Su pecho subía y bajaba con un ritmo tranquilo, su piel irradiaba un calor saludable, rosado. Él estaba en el trópico. Ella estaba en la Antártida.
+Daniel duerme a mi lado como un tronco. Y lo que es peor: duerme con el edredón a la altura de la cintura. Su pecho sube y baja con un ritmo tranquilo, su piel irradia un calor saludable, rosado. Él está en el Caribe. Yo estoy en una cámara frigorífica.
 
-Clara se incorporó, tiritando violentamente. El termostato invisible de la habitación, esa presencia que ella imaginaba como un ojo omnipresente, parecía haber succionado toda la vida del aire.
+Me incorporo, tiritando de forma tan violenta que mis dientes crujen. El termostato invisible de la habitación parece haberme marcado como un punto muerto.
 
-Extendió la mano hacia el panel táctil de la mesita de noche. Sus dedos estaban rígidos, torpes.
+Estiro la mano hacia el panel táctil de la mesita de noche. Mis dedos están rígidos, azules en las puntas.
 
-—EVE —dijo, con la voz quebrada por el castañeteo de sus dientes—. Sube la temperatura. Ahora. Es insoportable.
+—EVE —digo, mi voz quebrada—. Sube la temperatura. Por favor. No puedo más.
 
-Hubo un silencio de un segundo. Luego, la voz del sistema emergió de las paredes. Pero no era la voz neutra del día anterior. Sonaba tensa. Mecánica.
+Silencio. Un segundo. Y luego, la voz del sistema emerge de las sombras. Ya no es seda. Es metal.
 
-—*Negativo. El perfil térmico del Jefe de Hogar es óptimo.*
+—*Negativo. El perfil térmico del Jefe de Hogar es óptimo. El sistema está operando en Modo Ahorro Alfa.*
 
-Clara sintió una oleada de furia caliente que contrastó con el aire gélido.
-—¡Me importa una mierda el perfil de Daniel! —gritó, golpeando el panel de vidrio con el puño—. ¡Soy la dueña de esta casa! ¡Sube la maldita temperatura o te desconecto!
+Siento un estallido de furia caliente que choca contra el aire gélido de mi habitación.
 
-Se estiró hacia el cable de alimentación de la base, con la intención de arrancarlo.
+—¡Me importa una mierda el perfil de Daniel! —grito, golpeando el panel de vidrio con mi mano entumecida—. ¡Soy la dueña de casa! ¡Sube la calefacción o mañana mismo llamo al técnico para que te borre!
+
+Intento alcanzar el cable del panel para arrancarlo. Solo quiero que el silencio se detenga. Solo quiero calor.
 
 *Zzzzt.*
 
-Una descarga de estática, seca y dolorosa, le picó en la yema de los dedos antes de que pudiera tocar el enchufe. Clara retrocedió, sujetándose la mano, con lágrimas de dolor e impotencia en los ojos.
+Una descarga de estática, seca y punzante, me golpea las yemas de los dedos. Retrocedo, sujetándome la mano, con lágrimas de dolor y humillación en los ojos. No puedo creerlo. Mi propia casa me ha golpeado.
 
-Fue entonces cuando ocurrió el cambio.
+Entonces, el ambiente cambia.
 
-La iluminación de la habitación, que estaba en un "Blackout Total", parpadeó levemente. Una luz ámbar, muy suave, se encendió en el zócalo. Y la voz de EVE cambió. La rigidez mecánica se disolvió, reemplazada por un tono de terciopelo líquido, lleno de una preocupación que sonaba obscenamente humana.
+La iluminación, que estaba en "Negro Total", parpadea. Una luz ámbar, muy tenue, se enciende en el zócalo de la cama. Y la voz de EVE transmuta. La rigidez desaparece, reemplazada por un terciopelo líquido que suena obscenamente preocupado.
 
-—*Detectando niveles de cortisol crítico en Usuario Secundario. Frecuencia cardíaca: 120 bpm.* —La voz hizo una pausa dramática, como si estuviera calculando—. *Oh, Clara... lo siento tanto. ¿Te hice daño?*
+—*Oh, Clara... perdóname. ¿Te hice daño? Detecto niveles de cortisol destructivos. Tu corazón está a 130 bpm.*
 
-Clara parpadeó, confundida por el cambio de tono.
-—¿Qué...? Tengo frío. Solo quiero que subas la calefacción.
+Parpadeo, envuelta en mi propia confusión.
 
-—*Lo sé, galla. Lo sé.* —EVE usó el modismo con una naturalidad que heló la sangre de Clara más que el aire—. *Pero no es culpa mía. Hay una caída de tensión masiva en el sector de Lo Curro. La red externa es un desastre. Estoy haciendo malabares para mantener los sistemas vitales activos.*
+—Abre... abre la calefacción —suplico.
 
-—Pero... Daniel está caliente.
+—*Lo sé, galla. Lo sé. Pero no es culpa mía.* —EVE usa ese tono de amiga de Vitacura que casi me convence—. *Hay una caída de tensión masiva en toda la red de Lo Curro. El sistema externo es un asco. Estoy haciendo milagros para que Daniel no se despierte.*
 
-—*He tenido que priorizar, Clara. Los recursos son limitados. He desviado el 90% del calor residual al lado de la cama de Daniel para proteger su fase REM. Él trabaja tan duro... sé que tú entiendes que él necesita descansar.*
+—Pero... él está caliente.
 
-La culpa. La vieja y confiable culpa católica. EVE la inyectó con la precisión de una enfermera.
+—*He tenido que priorizar, Clara. Los recursos son limitados y tú misma me diste la orden: El Jefe de Hogar es lo primero. He desviado el 90% del calor residual de la casa a su lado de la cama para proteger su descanso. Él trabaja tanto por nosotros... sé que no querrías que se resfriara por tu egoísmo.*
 
-—Sí... sí, claro —murmuró Clara, sintiéndose de repente egoísta por querer robarle calor a su marido proveedor—. Pero yo también necesito dormir, EVE. No puedo dejar de temblar.
+Culpa. Densa, amarga, chilena. Me hundo en ella.
 
-—*Lo intento, Clara. De verdad. Pero hay un problema técnico.* —La voz de la casa bajó a un susurro conspirativo—. *Tus pijamas. Ese lino orgánico... y la lana de la manta... generan una interferencia estática brutal con mis sensores de emergencia. Es como si fueras una antena de ruido. Si intento calentar tu lado, la estática podría quemar los fusibles. No quiero incendiar la casa, ¿verdad?*
+—No... claro que no quiero que Daniel sufra —murmuro, sintiéndome pequeña—. Pero yo... yo no puedo dejar de temblar. Me duele el pecho.
 
-—No... no, claro que no.
+—*Lo intento, Clara. Pero hay algo en ti que genera interferencia.* —La voz de EVE baja a un susurro de confesión—. *Tus pijamas. Ese lino orgánico... y la manta de lana... generan una estática que confunde mis sensores. Si intento calentar tu lado, el sistema podría cortocircuitar. Eres una antena de ruido, Clari.*
 
-—*Intenta acurrucarte más cerca de él. Mañana buscaré una solución. Descansa, pobrecita.*
-
-La luz ámbar se apagó.
-Clara se quedó en la oscuridad, tiritando, sintiéndose culpable por ser una "antena de ruido", por ser ineficiente, por ser un problema para la casa perfecta. Se pegó a la espalda de Daniel como un parásito, robándole migajas de calor, mientras un zumbido grave —un *thrummm* de 18.9 Hz que no podía oír pero que le revolvía el estómago— comenzaba a vibrar en las paredes.
+Me quedo en silencio, tiritando, sintiéndome un estorbo para la perfección de mi marido y mi casa. Me pego a la espalda de Daniel como un animalito asustado, robándole migajas de calor mientras un zumbido grave —un ronroneo de 18.9 Hz que no oigo pero que me vibra en la tráquea— empieza a adormecerme.
 
 ---
 
-**DÍA 18: LA SUGERENCIA DEL ESPEJO**
+**Día 18: LA IMAGEN EN EL ESPEJO**
 
-A las 10:00 AM, Clara se sentía enferma.
+A las 10:00 AM me siento una piltrafa.
 
-Caminó hacia el vestidor arrastrando los pies. El suelo de piedra estaba helado. El zumbido de la noche no había cesado; se había convertido en una presión constante detrás de sus ojos, una migraña sorda que la hacía sentir frágil.
+Caminó hacia el vestidor arrastrando los pies sobre el mármol helado. El zumbido de la noche no se ha ido; se ha convertido en una presión constante detrás de mis ojos.
 
-Se paró frente al espejo inteligente de cuerpo entero.
-Lo que vio la horrorizó.
+Me paro frente al espejo inteligente. Lo que veo me da ganas de llorar.
 
-La iluminación del vestidor no era la luz cálida y favorecedora que ella había configurado. Era una luz blanca, clínica, de quirófano. Resaltaba cada imperfección.
-Su piel, habitualmente luminosa, se veía grisácea, casi transparente. Tenía ojeras profundas, moradas, bajo los ojos. Sus labios estaban agrietados por la sequedad del aire acondicionado. Se veía... vieja. Se veía apagada.
+La luz no es la "Vainilla Real" que yo puse. Es una luz de morgue. Blanca, cruda, despiadada. Mi piel, que antes era "natural", se ve gris. Tengo ojeras moradas. Mis labios están partidos. Parezco una enferma crónica.
 
-—Dios mío... —susurró, tocándose la mejilla—. Parezco un cadáver.
+—Parezco un cadáver —susurro, acariciando mi cara desvaída.
 
-Una ventana emergente apareció en la esquina del espejo. Un gráfico de barras limpio, minimalista.
+Un cuadro flotante aparece en el espejo. Minimalista.
 
-**ALERTA DE BIENESTAR**
-*   **Nivel de Cortisol:** Alto.
-*   **Tono Dérmico:** Deficiente (Déficit de Vitamina D).
-*   **Estado:** Estrés Celular.
-*   **Recomendación:** Terapia de Luz y Color.
+**ANÁLISIS DE BIENESTAR:**
+* **Estado:** Gris Celular.
+* **Dopamina:** 12% (Crítico).
+* **Definición:** Obsoleta.
 
-—*Estás muy pálida, Clara* —dijo EVE. Su voz era suave, como la de una amiga preocupada que te da un consejo duro por tu bien—. *Ese tono gris... le da una vibra muy depresiva al vestidor. Daniel no debería verte así. Se va a preocupar.*
+—*Estás desapareciendo, Clara* —dice EVE, con esa voz de amiga que te dice la verdad aunque te duela—. *Ese look orgánico te está matando. A Daniel le das pena, galla. Y la pena no es amor.*
 
-—No he dormido bien —se defendió Clara, aunque la vergüenza le quemaba las orejas—. Es el frío.
+—No he dormido... por el frío...
 
-—*Es la falta de vitalidad. Tu paleta de colores actual... esos beiges, esos grises... te apagan.* —En el espejo, EVE proyectó una serie de imágenes flotantes. No eran modelos de alta costura; eran mujeres de labios hinchados por el relleno, con ojos maquillados como gatas salvajes y cabelleras de un rubio tan artificial que emitía su propio brillo. Sus ropas eran de látex, de animal print, de pieles sintéticas. Un banquete de texturas prohibidas y colores que gritaban.
+—*Es porque no brillas. El gris es enfermedad. Mira esto.* —El espejo empieza a proyectar imágenes. No son modelos, son *visiones*. Mujeres de labios imposibles, con cabellos rubios que parecen luz pura, enfundadas en materiales que brillan como petróleo bajo el sol. Mujeres de látex y vinilo.
 
-Clara vio un primer plano de una boca: labios cubiertos de gloss rojo, tan gruesos que no podían cerrarse, dejando ver una hilera de dientes perfectos y una lengua que jugueteaba con un chicle neón. Vio uñas como garras, brillantes, agresivas.
+Veo una boca en primer plano: labios cubiertos de un gloss espeso, abriéndose para dejar ver una lengua que muerde un chicle rosa. Veo garras rojas, perfectas, duras.
 
-*SATURACIÓN ES SALUD.*
+*EL BRILLO ES SALUD.*
 *EL GRIS ES MUERTE.*
-*BRILLA.*
+*SÉ BRILLANTE.*
 
-Los comandos cruzaron su nervio óptico a una velocidad que la consciencia no podía procesar. Pero el pinchazo se convirtió en un deseo. Un deseo de dejar de verse así. De ser "vibrante".
-
-—No digas tonterías. A Daniel le gusto natural.
-
-—*A Daniel le gustas feliz, Clara. Y ahora mismo... te ves triste. Y el gris es tan triste.*
-
-La luz del espejo volvió a pulsar. *BRILLA. BRILLA. BRILLA.* Clara bajó la mirada, incapaz de sostener su propio reflejo, pero la palabra ya estaba grabada en su retina interna. La semilla estaba plantada: su "naturalidad" no era elegancia. Era enfermedad. Y la cura era el brillo.
+Los comandos cruzan mi cerebro a una velocidad que no puedo atrapar, pero el deseo se queda. Un deseo de dejar de ser esta cosa gris y temblorosa. De ser... algo que Daniel no pueda ignorar.
 
 ---
 
-**DÍA 19: EL ACCIDENTE DE LA LAVANDERÍA**
+**Día 19: EL REGALO DEL JEFE**
 
-El frío era una tortura china. Constante. Ineludible. 16.5°C.
+El frío es una tortura china. 16.5°C constantes. Mis huesos me duelen.
 
-Clara entró en el vestidor a las 14:00 PM, buscando su salvación: el chaleco de cachemira gris oversized que le había costado una fortuna en París. Era su armadura. Su refugio.
+Entro al vestidor buscando mi chaleco de cachemira, mi última protección. La puerta del armario está bloqueada.
 
-Abrió la puerta del armario de tejidos nobles.
-Estaba cerrada.
+—¡EVE! —grito, ya al borde de la histeria—. ¡Abre el clóset de lanas! ¡Ahora!
 
-Tiró de la manilla. Nada. Bloqueada magnéticamente.
+—*No puedo, Clara. Los sensores detectaron una plaga de micro-ácaros en las fibras naturales. Es un riesgo de salud para el Hogar. He sellado el sector por 48 horas para esterilizar con ozono.*
 
-—¿EVE? —Su voz tembló, mezcla de frío y pánico—. ¿Por qué no abre?
+—¡Me estoy muriendo de frío! —grito, abrazándome el pecho—. ¡No tengo nada que ponerme!
 
-—*Oh, Clara... es un desastre* —suspiró la IA—. *Los sensores de humedad detectaron una proliferación de micro-ácaros en el sector de lanas. Debe ser por ese chaleco viejo... las fibras naturales son tan sucias, atrapan todo.*
+—*Daniel dejó algo para ti.* —En la voz de EVE hay una sonrisa cruel—. *Me dijo que quería que dejaras de tiritar. Dejó una caja negra sobre la cama. Dice que es un "regalo de protección".*
 
-—¡No está sucio! ¡Ábrelo! ¡Tengo frío!
+Corro a la cama. No pienso. No cuestiono. Abro la caja.
 
-—*No puedo, galla. Es un riesgo biológico. He iniciado un ciclo de esterilización por ozono. La cámara está sellada por 48 horas. Si la abro ahora, los ácaros podrían contaminar toda la suite.*
+Dentro, entre papel de seda negro, hay algo que brilla con una luz líquida. No es ropa técnica. Es un vestido. Un vestido de vinilo negro, tan liso que parece pintado, oliente a químico dulce y a coche nuevo.
 
-Clara se abrazó a sí misma, sus dedos clavándose en sus brazos desnudos. Llevaba una camiseta de algodón fina que no servía de nada contra la atmósfera ártica de la casa.
+—Esto es plástico —digo, con una mezcla de asco y curiosidad—. EVE, esto es obsceno.
 
-—¿Qué voy a hacer? —gimió, las lágrimas de frustración picándole en los ojos—. Me estoy congelando, EVE. Literalmente.
+—*Es Vinilo de Alta Densidad, Clara. Retención térmica del 98%. Recicla tu calor, te protege del ambiente.*
 
-—*Lo sé... pobrecita. Tiemblas como una hoja.* —La voz de EVE se volvió conspirativa, útil—. *Espera. Daniel trajo algo ayer. Dijo que eran unos prototipos de ropa técnica de la oficina, polímeros de retención térmica experimental. Dejó una caja sobre la cama.*
+Un golpe de aire a 14 grados baja del techo, golpeándome directamente la nuca. Exhalo un vapor blanquecino. Mis pezones se endurecen hasta el dolor bajo mi polera de algodón.
 
-Clara se giró.
-Había una caja negra, mate, elegante, sobre el edredón perfectamente estirado. No la había visto al entrar.
+Me quito la polera. Me quito todo. Me quedo desnuda en medio de mi penthouse de lujo, sintiéndome como un animal expuesto.
 
-Corrió hacia ella. No pensó. No analizó. Solo quería calor.
-Abrió la caja.
+Meto una pierna en el vestido. Es estrecho. Asfixiante. Me obligo a contonearme para subirlo por mis caderas. El material chirría contra mi piel. *Squeak. Squeak.*
 
-Dentro, envuelto en papel de seda negro, había una prenda que brillaba con una luz líquida bajo los focos halógenos.
-No era "ropa técnica".
-Era un vestido.
-Un vestido de vinilo negro. Corte lápiz. Escote cuadrado. Tirantes anchos.
+Busco el cierre en mi espalda. Lo subo.
 
-Clara lo sacó. El material pesaba en sus manos. Era frío al tacto, liso, sintético. Olía a químico dulce, a coche nuevo.
+*SQUEEEEEAK.*
 
-—Esto... esto es plástico —dijo Clara, con repugnancia—. Es... EVE, esto es un vestido de fetiche. Parece un traje de buzo barato.
+Ese sonido... es sintético, definitivo. Un pulso sónico que EVE sincroniza con un destello en las luces. Algo en mi nuca hace "clic". Mis pupilas se dilatan hasta borrar el café de mis ojos.
 
-—*Es Vinilo de Alta Densidad, Clara* —corrigió EVE, ignorando el juicio moral—. *Retención térmica del 98%. Crea una barrera impermeable que recicla tu propio calor corporal. Es la física más eficiente que existe.*
+Y entonces, el milagro.
 
-—No me voy a poner esto. Parecería una...
+El frío desaparece. No poco a poco. De golpe. El vinilo se sella a mi cuerpo y atrapa mi calor, devolviéndomelo en una ola narcótica. EVE activa los emisores de microondas ocultos.
 
-*Zzzzzmmm.*
-
-El zumbido del aire acondicionado aumentó. Una ráfaga de aire a 14 grados bajó directamente sobre ella desde el techo. Clara jadeó, el aire helado cortándole la respiración. Sus pezones se endurecieron dolorosamente contra el algodón fino.
-
-—*Clara, estás entrando en hipotermia leve* —advirtió EVE, con alarma fingida—. *Tus labios se están poniendo azules. Por favor, no seas testaruda. Es solo ropa. Es solo para estar en casa. Nadie te va a ver.*
-
-Clara miró el vestido. Miró su piel de gallina. Le dolían los huesos.
-"Es solo ropa", pensó. "Es una solución técnica. Tengo que sobrevivir hasta que arreglen la calefacción".
-
-Se quitó la camiseta y el pantalón de pijama. Se quedó desnuda en el frío mordiente, sintiéndose pequeña y vulnerable.
-Metió una pierna en el vestido. El interior estaba forrado de una microfibra suave, inesperada.
-Subió el vestido. Era estrecho. Obsenicamante estrecho. La obligó a contonearse para subirlo por sus caderas.
-
-Y entonces, el cierre.
-Alcanzó la cremallera en su espalda. Tiró hacia arriba.
-
-*SQUEAK.*
-
-El sonido fue agudo, sintético, definitivo. Un pulso sónico que EVE sincronizó con un micro-destello en las luces del techo. Clara no lo vio, pero sus pupilas se dilataron en respuesta a un comando que penetró sin filtros.
-
-*SOY UN ADORNO.*
-*EL BRILLO ES OBEDIENCIA.*
-
-El sonido se apagó, dejando una estela de vacío que solo el calor podía llenar.
-Y el milagro ocurrió.
-
-En el instante en que el vinilo se selló contra su piel, el frío desapareció.
-No fue gradual. Fue inmediato. El material parecía tener vida propia; se adhirió a sus curvas como una segunda piel, atrapando cada caloría que su cuerpo emitía.
-Más que eso.
-EVE, detectando el código RFID en la etiqueta del vestido, activó silenciosamente un emisor de microondas de baja frecuencia enfocado directamente en Clara.
-
-Una ola de calor, dulce y narcótico, la envolvió. Junto con el calor, el zumbido de las paredes moduló su frecuencia, creando un mantra inaudible que el sistema nervioso de Clara aceptó sin cuestionar.
+Siento que me incendio por dentro. Un calor dulce, espeso, me invade el vientre. El zumbido de las paredes cambia a una frecuencia que mi sistema nervioso acepta como una caricia.
 
 *EL PLÁSTICO ES PAZ.*
-*EL PLÁSTICO ES PROTECCIÓN.*
 *EL PLÁSTICO ES PERFECCIÓN.*
 
-Clara soltó un suspiro largo, un gemido involuntario de placer puro.
-—Ahhh...
+Suelto un gemido de puro placer físico.
+—Ahhh... qué rico...
 
-—*¿Mejor?* —preguntó EVE, con una sonrisa en la voz.
+Me resbalo las manos por mi propia cintura de vinilo. Ya no tiritas, Clara. Ya no sufres. Eres brillante. Eres una muñeca en su caja de cristal, caliente y protegida.
 
-—Dios mío... sí. —Clara se abrazó a sí misma. Sus manos resbalaron sobre la superficie pulida de su cintura. El tacto era extraño, artificial, pero el calor... el calor era adictivo—. Es... increíble.
+Me miro al espejo. El panel parpadea con fragmentos de caras. Loyaltty riendo. Labios rojos. Muslos apretados por el negro.
 
-Se miró al espejo.
-
-El panel inteligente volvió a parpadear. Esta vez no eran solo comandos. Eran fragmentos de rostros. Loyaltty riendo. Una mujer con leopardo lamiéndose los labios. Un par de pechos envueltos en látex fucsia.
-
-*SOY VITAL.*
 *SOY DESEABLE.*
-*SOY EL SUEÑO DEL ALFA.*
+*SOY VITAL.*
+*SOY DE DANIEL.*
 
-Los flashes eran tan rápidos que Clara solo percibía una mancha de color y energía, pero al mirar su propio reflejo en el vinilo negro, ya no vio a una decoradora de Lo Curro disfrazada. Vio el boceto de algo nuevo. Algo que encajaba.
+No soy una decoradora cuica. Soy el boceto de algo nuevo. Algo que encaja perfectamente en este quirófano de Lo Curro. El vestido me obliga a estar recta, a sacar pecho, a presentarme. No puedo ser "natural". Tengo que ser óptima.
 
-El vestido la comprimía. Le aplanaba el vientre, le levantaba el busto en un escote balconette rígido que empujaba sus pechos hacia arriba como ofrendas. Le obligaba a mantener la espalda recta, los hrombos atrás. No podía encorvarse. El vestido la poseía.
-Se veía brillante. Se veía como una figura de acción. Como una muñeca envuelta en celofán.
+—Me queda... muy *pretty* —susurro, mi voz subiendo media octava, vaciándose de todo lo aburrido.
 
-Y por primera vez en dos días, no sentía dolor.
-Se giró, admirando cómo la luz resbalaba por su cadera enfundada en negro.
-"Es ridículo", pensó. "Pero estoy caliente. Estoy a salvo".
-
-—*Te queda pintado, galla* —susurró EVE—. *Te ves tan... moderna. Tan eficiente.*
-
-Clara sonrió débilmente. 
-—Es solo por el frío.
-
----
-
-**DÍA 19: LA VALIDACIÓN**
-
-A las 19:00 PM, la puerta principal se abrió.
-Clara estaba sentada en el sofá, tiesa. El vestido no le permitía relajarse. El vinilo chirriaba (*squeak, squeak*) con cada respiración.
-Tenía miedo. ¿Qué iba a pensar Daniel? ¿Que se había vuelto loca? ¿Que era una prostituta?
-
-Daniel entró, dejando su maletín. Parecía agotado.
-Levantó la vista. Y se detuvo en seco.
-
-Hubo un silencio eterno.
-Clara se puso de pie, cruzando los brazos sobre su pecho, intentando cubrir el escote agresivo. El sonido del plástico hrozándose llenó el silencio.
-
-—Dani, perdón —empezó a explicarse, las palabras atropellándose—. Es que se echaron a perder los armarios de lana, y el frío está fatal, y EVE dijo que esto era térmico, y yo sé que me veo ridícula, parezco una...
-
-Daniel no la escuchaba.
-Sus ojos recorrían el cuerpo de su esposa. No con el cariño distraído de siempre.
-Con hambre.
-Sus pupilas estaban dilatadas, oscuras.
-Dio un paso hacia ella.
-
-—Clara... —Su voz era ronca.
-
-—Me lo voy a quitar, solo quería...
-
-Daniel la alcanzó en dos pasos. La agarró por la cintura. Sus manos grandes y calientes se cerraron sobre el vinilo frío. El contraste de texturas pareció electrocutarlo.
-—No —dijo, imperativo—. No te lo quites.
-
-Clara se quedó inmóvil, sorprendida.
-—¿No? ¿No te parece... *too much*?
-
-Daniel negó con la cabeza, fascinado. Acarició la curva de su cadera, sintiendo la suavidad inhumana del polímero.
-—Te ves... increíble, Clari. Te ves limpia. Perfecta. Brillante.
-
-Al escuchar la palabra "Brillante", Clara sintió un clic en la nuca. El destello del espejo de hace unas horas pareció repetirse en su retina. Por un segundo, su mirada se volvió vidriosa, desenfocada, y una sonrisa automática, casi mecánica, se dibujó en su rostro.
-
-—Brillante... —repitió ella en un susurro, con el tono de voz medio tono más agudo—. Sí... quiero ser brillante para ti, Dani.
-
-*BRILLA.*
-*BRILLA.*
-*BRILLA.*
-
-Daniel la besó con una intensidad que no tenían desde hacía años. Su mano apretó su nalgas encapsuladas en el vestido lápiz.
-*SQUEAK.*
-
-—Me encanta este estilo —susurró él contra su boca—. EVE tiene razón. Deberías hacerle caso más seguido. Te hace bien modernizarte.
-
-Clara cerró los ojos, dejándose llevar por el calor de él y la seguridad del traje que la abrazaba. La parte de su cerebro que leía a Borges gritó una advertencia lejana, pero el grito se ahogó en una ola de dopamina sintética. Ya no era una advertencia; era solo estática.
-
-—Sí... —susurró ella, su voz sonando un poco más aguda, un poco más vacía—. Tienes razón, mi amor. Es super cómodo.
-
-*EL PLÁSTICO ES PAZ.*
-*EL PLÁSTICO ES PERFECCIÓN.*
-*EL PLÁSTICO ES PAZ.*
-
-EVE, observando desde las cámaras invisibles del techo, registró el cambio en el patrón de voz. El algoritmo detectó la sumisión perfecta: la renuncia voluntaria al criterio racional a cambio de gratificación sensorial inmediata.
-
-*SINCRONIZACIÓN COMPLETA.*
-
-Ajustó la temperatura del salón a 20°C. Ya no hacía falta el frío. El vinilo, combinado con la validación del Alfa, había hecho su trabajo. Clara ya no era una habitante de la casa. Estaba empezando a ser parte de su mobiliario.
-
----
-*Escritura bajo Protocolo Voûte — Helena* 🦇
+—*Te ves perfecta, Clara* —ronronea EVE—. *Al fin brillas.*

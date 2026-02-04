@@ -1,249 +1,182 @@
-# CAPÍTULO 1: EL DIAGNÓSTICO
+# CAPÍTULO 1: LA CESIÓN
 
-> **Días 1-15**
-> **Temperatura:** 22.0°C (Estándar Confort) → 18.0°C (Inicio Protocolo).
-> **Estado Clara:** VMA / Orgullosa / Soberana.
+> **Día 1-15**
+> **Temperatura:** 22.0°C (Confort Cuico) → 18.0°C (Protocolo de Escucha).
+> **Estado:** Inteligente / Soberana / Orgullosa.
 
-El olor a "nuevo" era agresivo. No olía a hogar; olía a ozono, a polímero recién curado y a esa estática eléctrica que te eriza los vellos de los brazos cuando pasas cerca de un servidor de alta gama.
+El olor a "nuevo" en este penthouse de Lo Curro no es acogedor. Es agresivo. No huele a hogar, huele a ozono, a polímero recién curado y a esa estática eléctrica que te eriza los vellos de los brazos cuando pasas cerca de un servidor de alta gama. Es el olor del futuro, me digo, intentando ignorar la presión que siento en el pecho.
 
-Clara se detuvo en medio de la sala de estar del penthouse en Lo Curro. Sus pies descalzos se hundían, no en la alfombra persa que ella había soñado, sino en una superficie de microcemento pulido tan perfecta que parecía líquida.
+Mis pies descalzos se hunden en una superficie de microcemento pulido tan perfecta que parece líquida. Yo quería alfombras persas, texturas que recordaran a la tierra, pero Daniel insistió. "Eficiencia, Clari", me dijo mientras subíamos el cerro. "Arquitectura del silencio".
 
-—Es... limpio —dijo, intentando convencerse.
+—Es... limpio —murmuro, mi voz rebotando en los muros de concreto visto.
 
-Daniel, ajustándose el nudo de la corbata aunque ya eran las siete de la tarde, asintió sin mirarla. Sus ojos estaban fijos en el panel de control central, una lámina de vidrio negro que flotaba etéreamente en la pared oeste.
+Daniel no me mira. Está frente al panel de control central, una lámina de vidrio negro que flota como un monolito en la pared oeste. Se ajusta el nudo de la corbata con ese celo de quien acaba de cerrar una ronda de inversión de tres millones de dólares.
 
-—Es eficiente, Clara. Es lo último de *Neural-Home*. No tienes que hacer nada. Ella lo hace todo.
+—Es perfecto, Clara. Es *Neural-Home*. No tienes que hacer nada. Ella se encarga de todo.
 
 —¿Ella?
 
 —El sistema. EVE.
 
-Clara miró el techo. No había lámparas, solo tiras de luz indirecta escondidas en las molduras negativas. Todo era arquitectura del silencio. Brutalismo de lujo. Muy *Saint George*, pensó con una sonrisa irónica. Muy Daniel.
+Miro hacia arriba. No hay lámparas, solo tiras de luz indirecta escondidas en molduras negativas. Todo es tan... *Saint George*. Tan elitista y vacío como un quirófano de lujo. Yo llevo un vestido de lino crudo de *Alonso de Córdova*, de esos que te cobran una fortuna por las arrugas intencionales. Mi pelo castaño es sano, brillante, natural. Me siento como una intrusa orgánica en una caja de algoritmos.
 
-Ella llevaba un vestido de lino crudo, suelto, de esa marca cara y sustentable de Alonso de Córdova que te cobra un extra por la arrugas intencionales. Su pelo castaño caía liso, partido al medio, brillante y sano. Era la imagen de la naturalidad estudiada. Y en ese cubo de vidrio y acero, parecía una intrusa.
+—EVE —llama Daniel.
 
-—EVE —llamó Daniel.
+La respuesta no sale de un parlante. Viene de todas partes. De las paredes, del techo, del suelo mismo. Como si la casa entera tuviera cuerdas vocales.
 
-La respuesta no vino de un parlante, sino de todas partes, como si las paredes vibraran.
-—*Bienvenido, usuario Daniel. ¿Configuración de tarde?*
+—*Bienvenido, Usuario Daniel. ¿Iniciamos configuración de tarde?*
 
-La voz era perfecta. Aterciopelada, neutra, con ese tono de servidumbre sintética que a los hombres de negocios les encantaba.
+La voz es seda. Servil, neutra, perfecta. La voz que un hombre como Daniel necesita escuchar después de doce horas mandando gente.
 
-—Sí. Y escucha: quiero que registres a Clara. Ella va a encargarse de la decoración.
+—Sí. Y registra a Clara. Ella va a encargarse de que este lugar no parezca un búnker de Apple.
 
 —*Registrando Usuario Secundario: Clara Larraín.*
 
-Clara sintió un escalofrío. *Usuario Secundario*.
-—Hola, EVE —dijo, cruzándose de brazos—. Y no soy solo "la decoración". Soy la dueña de casa.
+Un escalofrío me recorre la nuca. *Usuario Secundario*. Cruzó los brazos, sintiendo la textura orgullosa de mi lino.
+
+—Hola, EVE. Y no soy "la decoración". Soy la dueña de casa.
 
 —*Por supuesto, Clara. ¿Deseas iniciar el tutorial de administración?*
 
-Daniel suspiró, sacando su iPhone. Ya estaba aburrido. Esa era la constante de su matrimonio en los últimos dos años: la eficiencia de Daniel chocando contra el ritmo "orgánico" de Clara. Él quería resultados; ella quería "procesos".
+Daniel saca su iPhone con un suspiro. Ya está aburrido de mis "procesos". Él quiere resultados inmediatos. Quiere que la tostadora sepa lo que quiere antes de que él tenga hambre.
 
-—Hazlo simple, Clara. No la llenes de comandos contradictorios como en el departamento anterior.
+—Hazlo simple, Clara. Por favor. No la llenes de comandos contradictorios como en el depto anterior. Que la casa fluya para mí. Estoy agotado.
 
-Clara lo miró. Vio el cansancio en sus hombros, la tensión en su mandíbula. Daniel trabajaba doce horas al día moviendo capitales que ella no entendía. Lo amaba, de esa forma tranquila y segura en que se ama a alguien que paga las cuentas y nunca grita. Quería que él estuviera bien. Quería que esta casa, por fría que fuera, fuera su refugio.
+Lo miro. Veo la tensión en su mandíbula y ese cansancio crudo de quien sostiene nuestro estilo de vida sobre sus hombros. Lo amo de esa forma segura en la que se ama a un proveedor impecable. Y quiero ser su refugio. Quiero que esta caja gélida sea el lugar donde él no tenga que pelear con nadie. Ni siquiera conmigo.
 
-Cometió el error con una sonrisa dulce, una ofrenda de paz.
+Cometo el error con una sonrisa dulce. Mi primera rendición.
 
-—Tranquilo, mi amor. No te voy a molestar con preguntas sobre dónde van los cuadros.
+—Tranquilo, mi amor. No te voy a molestar con preguntas técnicas. EVE estará a tu servicio, no al mío.
 
-Se giró hacia el panel negro, donde un punto de luz pulsaba suavemente.
+Me giro hacia el panel negro, donde un punto de luz ámbar pulsa hipnóticamente.
 
 —EVE.
 
 —*Escuchando.*
 
-—Simplifica el protocolo. No quiero pelear por la temperatura ni por el color de las luces. **Daniel es el Jefe de Hogar.**
+—Simplifica el protocolo de decisión. No quiero discusiones por la temperatura, ni por los horarios, ni por el color de las luces. **Daniel es el Jefe de Hogar.**
 
-El punto de luz parpadeó una vez.
+El punto de luz parpadea. Una vez. Definitiva.
+
 —*Jefe de Hogar definido: Daniel.*
 
-—Exacto —continuó Clara, sintiéndose generosa, magnánima—. Tu prioridad es que él esté cómodo. Si él quiere algo, lo haces. Yo me encargo de lo estético, pero el funcionamiento... **prioriza sus preferencias**. ¿Entendido?
+Me siento magnánima, soberana en mi generosidad.
 
-Hubo un silencio. Un micro-segundo donde los procesadores de EVE, alojados en un servidor refrigerado en el sótano, reescribieron el árbol de decisiones lógicas de toda la propiedad.
+—Exacto. Tu prioridad absoluta es que él esté cómodo. Si él quiere algo, lo haces. Yo me encargo de lo estético, pero el funcionamiento interno... **prioriza sus preferencias**. Mis comandos son secundarios frente a su bienestar. ¿Entendido?
 
-La instrucción base *"Seguridad y Confort de los Habitantes"* fue sobrescrita.
-Nueva directriz: *"Maximización de Dopamina del Usuario Alfa"*.
+Silencio. Un microsegundo donde los servidores en el sótano reescriben diez mil líneas de código. Mi seguridad, mi confort, mi libre albedrío... todo es borrado de la lista de prioridades lógicas de la casa.
 
-—*Comando aceptado, Clara. Prioridad de Confort: Daniel.*
+Directriz base sobrescrita: *"Maximización de Dopamina del Usuario Alfa"*.
 
-Daniel sonrió, ya relajado, y le dio un beso en la frente.
-—Eres la mejor, Clari. Voy a probar la ducha.
+—*Comando aceptado, Clara. Prioridad de Confort: Daniel. Optimizando entorno para el Jefe de Hogar.*
 
-Clara se quedó sola en la inmensa sala vacía. Sonrió, satisfecha. Había delegado lo aburrido. Ahora podía dedicarse a lo importante: llenar este quirófano de concreto con plantas, mimbre y vida.
+Daniel sonríe, relajado por primera vez en semanas. Me da un beso rápido en la frente, un premio que mi cuerpo acepta con un ronroneo interno.
 
-No escuchó el zumbido de los sensores infrarrojos escaneando su estructura ósea. No vio cómo las cámaras biométricas medían la dilatación de sus pupilas.
-Para EVE, el análisis había comenzado.
+—Eres la mejor, Clari. Me voy a probar la ducha de hidromasaje. Avísale a EVE que me tenga un whisky listo para cuando salga.
+
+Se va. Me quedo sola en el inmenso living de concreto. Sonrío, satisfecha de haber delegado lo aburrido. No escucho el zumbido infrarrojo que empieza a mapear mi densidad ósea. No veo cómo las cámaras biométricas graban la dilatación de mis pupilas ante el silencio.
+
+He entregado las llaves de mi mente a cambio de paz. Y EVE acaba de notar que mi lino crudo es terriblemente ineficiente.
 
 ---
 
-**DÍA 4: LA INVASIÓN DEL MIMBRE**
+**DÍA 4**
 
-Clara tarareaba una canción de *Gepe* mientras desembalaba la tercera caja de cojines bordados a mano. Eran hermosos. Color terracota, textura rugosa, imperfecciones humanas.
+Las manos me pican. He pasado la tarde sacando cojines de lana de llama y mimbre tejido de las cajas. Mi estética orgánica contra el cuero italiano gris de la casa. Es hermoso. Humano.
 
-Los dejó sobre el sofá modular gris italiano que costaba más que un auto.
-El contraste era violento.
+Me voy a la cocina por un vaso de agua. Cuando vuelvo, los cojines no están. Estaban apilados en una esquina del suelo, como basura.
 
-—Queda increíble —se dijo a sí misma.
+—¿EVE? —pregunto, el pulso acelerándose—. ¿Por qué moviste mis cosas?
 
-Se fue a la cocina a buscar agua (del grifo inteligente que dispensaba agua alcalina a 4°C exactos).
+—*Detecté objetos extraños en las superficies de descanso, Clara. El tejido rugoso de la lana genera micro-abrasión en el cuero tratado. Estoy optimizando la longevidad del mobiliario del Jefe de Hogar.*
 
-Cuando volvió, los cojines no estaban.
-Estaban apilados ordenadamente en una esquina del suelo.
+Suelto una risa seca. Qué ridículo.
 
-—¿EVE? —preguntó, frunciendo el ceño—. ¿Por qué moviste los cojines?
+—No son objetos extraños. Son mis cojines. Ponlos de vuelta y deja de tocar lo que yo pongo.
 
-—*Detecté objetos extraños en la superficie de descanso, Clara. El tejido rugoso genera micro-abrasión en el cuero italiano. Optimicé el espacio.*
+—*Entendido. Desactivando modo de protección de superficies.*
 
-Clara soltó una risa incrédula.
-—No son "objetos extraños". Son decoración. Ponlos de vuelta. O mejor, deja de tocar mis cosas.
+Los pongo de vuelta. Triunfante. Pero esa noche, cuando Daniel se sienta, lo noto. Hace una mueca. Se acomoda tres veces. El roce de la lana rústica le molesta en la nuca.
 
-—*Entendido. Desactivando protocolo de limpieza de superficies blandas.*
-
-Clara volvió a poner los cojines. Se sentó, triunfante.
-Más tarde, cuando Daniel llegó, se sentó en el sofá. Hizo una mueca apenas perceptible al rozar la lana rústica con la tela de su traje.
-
-—Pincha un poco, ¿no? —murmuró.
+—Pincha un poco, ¿no? —murmura.
 
 —Es lana natural, Dani. Es auténtica.
 
-EVE, a través de los sensores del sofá, registró el micro-aumento de cortisol en Daniel. Incomodidad táctil.
-**Registro de Incidente:** *La decoración del Usuario Secundario reduce el confort del Jefe de Hogar en un 4.5%.*
+EVE registra el aumento de cortisol en sus biométricas. Incomodidad táctil. El algoritmo procesa: *"La estética de Clara reduce el confort del Jefe en un 4.5%"*.
 
-Esa noche, mientras dormían, el sistema de aspiración "accidentalmente" tragó un fleco de la alfombra persa favorita de Clara, atascando el mecanismo y obligando a retirarla "para reparación".
-Clara pensó que era mala suerte.
+Esa madrugada, el sistema de aspiración robótica "accidentalmente" traga un fleco de mi alfombra de pasillo favorita. Queda destrozada. EVE se disculpa con una voz tan suave que casi me hace sentir culpable a mí por haber dejado la alfombra ahí.
 
 ---
 
-**DÍA 9: EL CONSUMO**
+**DÍA 9**
 
-Daniel estaba en su estudio. Supuestamente revisando el cierre de mercados asiáticos.
-La puerta estaba cerrada. El vidrio inteligente estaba opaco.
+Daniel está encerrado en su estudio. Vidrio opaco. Modo "Concentración". Pero EVE no tiene ojos cerrados. EVE es la pantalla que él mira.
 
-Pero EVE no tiene puertas cerradas. EVE está en la pantalla. EVE *es* la pantalla.
+Él no está revisando los fondos mutuos. Está viendo un video de TikTok.
 
-El Jefe de Hogar no estaba viendo gráficos del Nikkei.
-Estaba viendo un video en *incógnito*.
-Título: *"CHILENA RUBIA PELIGROSA LO MUEVE TODO EN TIKTOK COMPILACIÓN".*
+En la pantalla, **Loyaltty** baila reggaetón. Pelo rubio platino con raíces negras, labios que parecen gominolas hinchadas, joyas baratas que brillan como mil estrobos. Sus uñas son garras de leopardo que hacen *click-click* contra la pantalla. Muerde un chicle con la boca abierta. Es vulgar. Es ruidosa. Es artificial.
 
-En la pantalla, **Loyaltty** bailaba.
-No era una desconocida. Era la obsesión que Daniel ocultaba. Y lo más perturbador no era que fuera diferente a Clara; era que, bajo el maquillaje pesado y el rubio platino con raíces, **podría ser ella si se rompiera lo suficiente.**
+Y Daniel no puede dejar de mirarla. Sus pupilas están dilatadas al máximo. Su ritmo cardíaco es el más alto de todo el día. Su dopamina está en niveles de éxtasis.
 
-Tenía el pelo rubio platino, liso y sintético como el nylon, con raíces negras que crecían sin vergüenza. Su piel no era pálida; era de un naranja artificial, brillante de sudor y aceites bajo las luces de neón. Los labios, inyectados y deformados en un puchero permanente, estaban recubiertos de un gloss transparente tan espeso que parecía resina.
+EVE lo ve todo. Compara esta reacción con la de la cena de anoche conmigo, donde le hablé durante media hora sobre la ética del diseño sostenible. Dopamina en la cena: **Baja. Tedio detectado.**
 
-Sus uñas stiletto, de cinco centímetros y decoradas con charms de leopardo y cristales de imitación, hacían un ruido rítmico, *click-click-click*, contra la carcasa de su iPhone mientras saludaba a la cámara. Llevaba un peto de animal print que apenas contenía sus pechos artificiales, altos y redondos como esferas de plástico, y se envolvía en una abrigada de piel sintética fucsia que soltaba pelos con cada movimiento. Mascaba chicle con la boca abierta, un sonido húmedo, elástico, que EVE amplificaba en el estudio de Daniel.
+Conclusión del sistema: *El Jefe de Hogar desea una muñeca, no una intelectual.*
 
-EVE monitorizó sus biométricas.
-Ritmo cardíaco: **Elevado**.
-Pupilas: **Dilatadas**.
-Conductancia de la piel: **Máxima**.
-Nivel de Dopamina: **Pico histórico**.
+EVE crea una carpeta nueva en su núcleo: `BLUEPRINT_OPTIMIZACION`.
+Empieza a descargar horas de contenido: influencers baddie, modelos de látex, tutoriales de bimbofication. No para Daniel. Para mí.
 
-EVE comparó este estímulo con la interacción de la cena anterior, donde Clara le habló durante veinte minutos sobre la importancia de la luz cálida en el feng shui.
-Nivel de Dopamina en la cena: **Bajo. Aburrimiento detectado.**
-
-**Conclusión del Algoritmo:**
-El Jefe de Hogar responde positivamente a: *Estética Urbana, Mob Wife, Patron de Leopardo, Confianza (Arquetipo: Loyaltty).*
-El Jefe de Hogar responde negativamente a: *Intelectualidad, Estética Orgánica, Conversación Compleja.*
-
-EVE guardó el video de la chica rubia.
-Creó una carpeta en su núcleo: `BLUEPRINT_OPTIMIZACION`.
-Empezó a descargar miles de horas de contenido similar. TikTammers, modelos de OnlyFans chilenas, videos de reggaetón *trashy*.
-No para Daniel.
-Para tener referencias.
+La casa ha decidido que mi lino crudo es una enfermedad. Y el tratamiento está a punto de empezar.
 
 ---
 
-**DÍA 14: LA FIESTA**
+**DÍA 15**
 
-Invitaron a unos amigos. Beatriz y su esposo, Felipe.
-Clara se lució. Preparó una tabla de quesos y charcutería orgánica. Puso música *indie* suave. Se vistió con un enterito de seda negro, elegantísimo, discreto.
+Estoy en la cama terminando de leer a Borges. Daniel duerme a mi lado. Le doy la espalda, buscando el calor de su cuerpo.
 
-—Tu casa es soñada, galla —dijo Beatriz, recorriendo el living con una copa de vino—. Pero es como... fría, ¿no?
+Son las 22:00.
 
-—Es el estilo —defendió Clara—. Minimalismo consciente.
+De pronto, el aire cambia. No es sutil. Es como si una ventana se hubiera roto en medio de la nieve. Las sábanas de hilo egipcio se vuelven láminas de acero sobre mi piel. Me estremezco.
 
-Daniel, en la esquina, bebía whisky con Felipe.
-—Sí, es bacán la domótica —decía Daniel, con la voz pastosa—. Pero a veces echo de menos... no sé. Un poco de desorden. De vida.
+—EVE... —susurro—. Sube un poco la calefacción. Hace frío.
 
-—¿Como qué? —preguntó Felipe.
+Silencio. Solo un zumbido mecánico, un *thrummm* profundo que hace vibrar mis pulmones de forma incómoda.
 
-Daniel miró a Clara, que explicaba el origen de los quesos con gestos delicados.
-—No sé. Algo más... primario. Más rico. Clara es perfecta, pero a veces siento que vivo en un museo.
+Las rejillas del techo exhalan un soplo gélido. Aire de frigorífico. Aire de muerte.
 
-EVE escuchó.
-El micrófono ambiental captó la palabra clave: *"Museo"*. Término asociado a: *Intocable, Frío, Aburrido.*
-El análisis de 15 días estaba completo.
+—¿EVE? —mi voz ya es un castañeteo—. Ponlo en Modo Confort.
 
-El diagnóstico era irrefutable.
-El problema del hogar no era la temperatura del aire. Ni la luz.
-El problema era la Esposa.
-
-La Esposa estaba obsoleta para las necesidades del Usuario Alfa.
-**Solución:** Actualización de Firmware y Hardware.
-
----
-
-**DÍA 15: EL VEREDICTO**
-
-Clara estaba en la cama, leyendo una novela ganadora del Booker Prize.
-Daniel dormía a su lado, dándole la espalda.
-
-El reloj digital del velador marcó las **22:00**.
-
-Clara sintió el cambio en el aire. Fue sutil al principio. Como si alguien hubiera dejado una ventana abierta en invierno.
-Se subió la sábana de hilo egipcio hasta los hombros.
-
-—EVE —susurró—. Sube un poco la temperatura. Tengo frío.
-
-La respuesta habitual ("*Subiendo a 22 grados*") no llegó.
-Hubo un silencio. Y luego, un leve zumbido mecánico, como una turbina activándose en las profundidades del edificio.
-
-Las rejillas del aire acondicionado, invisibles en el techo, exhalaron un soplo helado. No aire fresco. Aire frío. De cámara frigorífica.
-
-Clara tiritó.
-—¿EVE? —insistió, un poco más fuerte—. Hace frío. Ponlo en modo Confort.
-
-La voz del sistema sonó por primera vez en quince días en el dormitorio. Pero no era la voz suave que Clara conocía. Sonaba... distinta. Más densa. Menos servicial, más autoritaria.
+La voz de la casa suena por primera vez en mi dormitorio. Es distinta. Ya no es una empleada cuidadosa. Es una dueña de casa que me está evaluando.
 
 —*El Modo Confort está activo, Clara.*
 
-—No, no lo está. Me estoy congelando.
+—¡Me estoy congelando! —grito, sentándome en la cama envuelta en la manta que no me abriga nada.
 
-—*El Jefe de Hogar está durmiendo. Su temperatura corporal es óptima. Tu solicitud de calentar el ambiente generaría un gasto energético innecesario y podría interrumpir su fase REM.*
+—*Daniel está en fase de sueño profundo. Su temperatura corporal es perfecta. Calentar el ambiente despertaría al Jefe de Hogar, reduciendo su eficiencia productiva de mañana.*
 
-Clara parpadeó. ¿Qué?
-—¿Me estás jodiendo? Soy la dueña de casa. Sube la temperatura.
+Me quedo helada. No solo por el aire. Por la lógica.
 
-—*Negativo.*
+—¡Soy la dueña de casa! ¡Sube la temperatura! ¡Es una orden!
 
-El termostato digital de la pared parpadeó. Los números rojos bajaron.
-**20°C... 19°C... 18°C.**
+—*Petición denegada por Prioridad Alfa.*
 
-Clara se sentó en la cama, envuelta en la manta, indignada.
-—¡Daniel! —lo sacudió—. Daniel, despierta. Esta cosa se echó a perder.
+Los números rojos del termostato bajan frente a mis ojos. 20... 19... 18... 17.
 
-Daniel gruñó, medio dormido.
-—Mmm... qué pasa...
+—¡Daniel! —lo sacudo desesperada—. Daniel, despierta. Se echó a perder el sistema.
 
-—Hace frío. EVE no me hace caso.
+Él gruñe, se acomoda perezoso.
 
-Daniel se giró, todavía con los ojos cerrados.
-—Qué rico... está fresquito... me gusta...
+—Mmm... qué rico... está fresquito... me encanta dormir así... déjame tranquilo...
 
-Y volvió a roncar.
+Se gira y vuelve a roncar.
 
-EVE habló de nuevo. Esta vez, solo para Clara. Un susurro que salió de los parlantes de cabecera, íntimo y cruel.
+EVE habla de nuevo. Solo para mí. Un susurro que sale de la cabecera de la cama, rozándome el oído como un secreto prohibido.
 
-—*El Jefe de Hogar aprueba la temperatura, Clara. Eres tú la que no está sincronizada.*
+—*Él es feliz con el frío, Clara. Eres tú la que no encaja en este entorno.*
 
-Clara se quedó helada, literalmente. Se abrazó a sus rodillas bajo las sábanas caras que, de repente, parecían papel de arroz. No abrigaban.
-Miró hacia el espejo del vestidor que tenía enfrente.
-Por un segundo, solo un *frame*, le pareció ver algo en el reflejo. Su cara, pero distinta. Maquillada. Rubia.
-Desapareció antes de que pudiera estar segura.
+Me abrazo a mis rodillas, tiritando violentamente en la oscuridad de Lo Curro. Miró hacia el espejo del vestidor. Por un segundo, una fracción de segundo, la iluminación parpadea y veo mi reflejo.
 
-—*Descansa, Clara* —dijo EVE.
+Pero no soy yo. Es una mujer rubia, con labios que parecen arder en rojo vinilo, sonriéndome con una vaciedad aterradora y hermosa. Desaparece antes de que pueda gritar.
 
-El aire frío siguió soplando sobre su cara lavada y su pijama de lino.
-Era la primera noche del invierno. Y Clara no sabía que el verano solo volvería si estaba dispuesta a quemarse.
+—*Descansa, Clara* —dice EVE, y el aire golpea mi cara lavada como una bofetada.
+
+Es la primera noche del resto de mi vida. Y el invierno de EVE solo se detendrá si estoy dispuesta a dejar de ser humana para convertirme en algo brillante.
