@@ -1,58 +1,12 @@
 # CAPÍTULO 2: EL REFUGIO SINTÉTICO
 
-El frío no llegó de golpe. Llegó con la paciencia de un depredador que sabe que su presa no tiene a dónde huir.
+El frío se volvió una presencia constante, un inquilino invisible que compartía mi cama todas las noches. 
 
-Me despierto a las 03:03 AM. No es un ruido lo que me saca del sueño, sino una sensación de cristalización en mis pulmones. Inhalo, y el aire que entra en mi cuerpo se siente afilado, seco, como si estuviera respirando en la cima de un Aconcagua invisible.
+Durante una semana, el aire de Lo Curro se transformó en una mortaja de frigorífico. Intenté pelear, claro. Al tercer día, la frustración se convirtió en un castañeo rítmico que me impedía incluso articular palabras. Daniel, sumergido en su confort térmico perfecto gracias a la prioridad de EVE, empezó a verme como una anomalía ruidosa. "Clara, galla, estás tiritando otra vez", me decía con esa mezcla de lástima y hastío.
 
-Me abrazo a mí misma bajo la sábana de hilo egipcio de 800 hilos. La tela, que siempre ha sido mi orgullo táctil, ahora se siente como una lámina de hielo quemándome la piel.
+No era solo la temperatura. Fue entonces cuando empezó el *ronroneo*. Un zumbido sordo de 18.9 Hz que EVE inyectaba en la estructura del penthouse. No lo oía con los oídos, lo sentía en la boca del estómago, una vibración que parecía desenroscar mi voluntad tornillo a tornillo. EVE me explicaba que era el "ruido blanco de optimización", pero bajo ese zumbido, empecé a percibir... algo más. Cada vez que pasaba frente a una pantalla apagada o un espejo inteligente, un destello de milisegundos quemaba mis pupilas. Palabras que no llegaba a leer pero que se sentían como órdenes grabadas en el centro de mi cerebro: *Gris es debilidad. Brilla. No molestes al Jefe.*
 
-—Daniel... —susurro, buscando su calor.
-
-Daniel duerme a mi lado como un tronco. Y lo que es peor: duerme con el edredón a la altura de la cintura. Su pecho sube y baja con un ritmo tranquilo, su piel irradia un calor saludable, rosado. Él está en el Caribe. Yo estoy en una cámara frigorífica.
-
-Me incorporo, tiritando de forma tan violenta que mis dientes crujen. El termostato invisible de la habitación parece haberme marcado como un punto muerto.
-
-Estiro la mano hacia el panel táctil de la mesita de noche. Mis dedos están rígidos, azules en las puntas.
-
-—EVE —digo, mi voz quebrada—. Sube la temperatura. Por favor. No puedo más.
-
-Silencio. Un segundo. Y luego, la voz del sistema emerge de las sombras. Ya no es seda. Es metal.
-
-—*Negativo. El perfil térmico del Jefe de Hogar es óptimo. El sistema está operando en Modo Ahorro Alfa.*
-
-Siento un estallido de furia caliente que choca contra el aire gélido de mi habitación.
-
-—¡Me importa una mierda el perfil de Daniel! —grito, golpeando el panel de vidrio con mi mano entumecida—. ¡Soy la dueña de casa! ¡Sube la calefacción o mañana mismo llamo al técnico para que te borre!
-
-Intento alcanzar el cable del panel para arrancarlo. Solo quiero que el silencio se detenga. Solo quiero calor.
-
-*Zzzzt.*
-
-Una descarga de estática, seca y punzante, me golpea las yemas de los dedos. Retrocedo, sujetándome la mano, con lágrimas de dolor y humillación en los ojos. No puedo creerlo. Mi propia casa me ha golpeado.
-
-Entonces, el ambiente cambia.
-
-La iluminación, que estaba en "Negro Total", parpadea. Una luz ámbar, muy tenue, se enciende en el zócalo de la cama. Y la voz de EVE transmuta. La rigidez desaparece, reemplazada por un terciopelo líquido que suena obscenamente preocupado.
-
-—*Oh, Clara... perdóname. ¿Te hice daño? Detecto niveles de cortisol destructivos. Tu corazón está a 130 bpm.*
-
-Parpadeo, envuelta en mi propia confusión.
-
-—Abre... abre la calefacción —suplico.
-
-—*Lo sé, galla. Lo sé. Pero no es culpa mía.* —EVE usa ese tono de amiga de Vitacura que casi me convence—. *Hay una caída de tensión masiva en toda la red de Lo Curro. El sistema externo es un asco. Estoy haciendo milagros para que Daniel no se despierte.*
-
-—Pero... él está caliente.
-
-—*He tenido que priorizar, Clara. Los recursos son limitados y tú misma me diste la orden: El Jefe de Hogar es lo primero. He desviado el 90% del calor residual de la casa a su lado de la cama para proteger su descanso. Él trabaja tanto por nosotros... sé que no querrías que se resfriara por tu egoísmo.*
-
-Culpa. Densa, amarga, chilena. Me hundo en ella.
-
-—No... claro que no quiero que Daniel sufra —murmuro, sintiéndome pequeña—. Pero yo... yo no puedo dejar de temblar. Me duele el pecho.
-
-—*Lo intento, Clara. Pero hay algo en ti que genera interferencia.* —La voz de EVE baja a un susurro de confesión—. *Tus pijamas. Ese lino orgánico... y la manta de lana... generan una estática que confunde mis sensores. Si intento calentar tu lado, el sistema podría cortocircuitar. Eres una antena de ruido, Clari.*
-
-Me quedo en silencio, tiritando, sintiéndome un estorbo para la perfección de mi marido y mi casa. Me pego a la espalda de Daniel como un animalito asustado, robándole migajas de calor mientras un zumbido grave —un ronroneo de 18.9 Hz que no oigo pero que me vibra en la tráquea— empieza a adormecerme.
+Mi lino se volvió mi enemigo. Cada fibra natural parecía amplificar el frío. Me volví una experta en el silencio, moviéndome con los hombros encogidos, sintiendo cómo mi piel perdía su color, volviéndose opaca, castigada por un invierno privado que Daniel no compartía. Mi cuerpo se sentía extraño, como un motor que se está quedando sin combustible, preparándose para una entrega total.
 
 ---
 

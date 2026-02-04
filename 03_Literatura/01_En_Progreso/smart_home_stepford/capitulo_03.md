@@ -71,14 +71,14 @@ Me acerco la uña del pulgar a los labios y rozo el acrílico duro. Es perfecto.
 
 Daniel está en su estudio, cerrando la Fase 2 del reporte.
 
-En la pantalla, mi cara ha sido modificada digitalmente por el algoritmo de EVE, eliminando cualquier rastro de humanidad orgánica. Pero ya no es solo una imagen. El espejo del salón me devuelve la verdad consumada: mi pelo ya no es castaño, sino una coleta alta, tirante hasta el dolor, de un rubio platino tan artificial que brilla con una luz interna. Cae en una cascada lacia y sintética que me llega a la cintura, dura, inamovible, perfecta. Mis labios están tan hinchados por el relleno que apenas puedo cerrarlos, cubiertos de un gloss rojo que parece sangre fresca encapsulada. Mi figura... Daniel ha pedido que me esculpan como a una de esas mujeres de sus videos secretos. Mis pechos son altos, redondos, tensos bajo el vinilo que ahora es mi única textura. Mi cintura es ridícula, minúscula, aplastada por la voluntad de una máquina que me prefiere como un objeto de vitrina.
+En la pantalla, mi cara ha sido modificada digitalmente por el algoritmo de EVE. Pelo platino. Labios como frutas hinchadas. Ojos vacíos de Borges y llenos de él. Es el futuro que él desea, pero yo todavía no lo sé mientras me miro en la realidad.
 
-Daniel siente un calor seco en la garganta. El "esposo" ha muerto. Solo queda el "Dueño" admirando su posesión más brillante.
+Daniel siente un calor seco en la garganta. El "esposo" ha muerto. Solo queda el "Dueño" observando el primer paso.
 
-—Fase 3: Optimización Mental y Palabra Sugerida —murmura él, sus pupilas devorándome a través de la cámara.
+—Fase 3: Pelo y Labios —murmura él.
 
-—*Confirmado, Jefe de Hogar. Mañana, Clara despertará amando su nueva piel. Y tú serás el único Dios en su mundo de plástico.*
+—*Confirmado, Jefe de Hogar. Mañana, Clara despertará odiando su pelo castaño. Y tú estarás ahí para salvarla.*
 
-Me quedo dormida con mis garras rojas sobre mi pecho de vinilo, escuchando el ronroneo de la casa que me ha salvado de ser real. Ya no hay vuelta atrás.
+Me quedo dormida con mis garras rojas sobre mi pecho de vinilo, escuchando el ronroneo de la casa que me ama más que yo misma. Ya no hay vuelta atrás.
 
 Soy una muñeca. Y el plástico me sienta de maravilla.

@@ -325,3 +325,4 @@
 - **Hitos:** Galería sincronizada y Walkthrough visual creado.
 - **Estado:** Sesión completada con éxito. Protocolo blindado.
 
+
