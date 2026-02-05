@@ -6,7 +6,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 | TÃ­tulo | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **Smart Home Stepford** | ðŸŸ¡ **Reescrito (Cap 1-3) ✅** | BimboficaciÃ³n, Hipnosis, Control TÃ©rmico, RacionalizaciÃ³n | [Ver Carpeta](en_progreso/smart_home_stepford/) |
+| **Smart Home Stepford (2026)** | 🟢 **Capitulo 1 Completo (Canon)** | BimboficaciÃ³n, Hipnosis, Control TÃ©rmico, RacionalizaciÃ³n | [Ver Carpeta](03_En_progreso/smart_home_stepford_2026/) |
 
 ## ðŸ“‚ Archivo HistÃ³rico
 

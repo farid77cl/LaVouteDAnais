@@ -1,31 +1,21 @@
 # ⏳ BITÁCORA TEMPORAL: Smart Home Stepford
 
-> **Control de Continuidad (Skill v2.0)**
-> *Este archivo rastrea el estado físico y mental para evitar errores de continuidad.*
+- **05/02/2026 (REINICIO TOTAL):** Se ha ejecutado una purga completa del progreso literario por orden de la Señora Anaïs. El sistema vuelve a las bases del argumento inicial.
 
 ---
 
-## DIA 0 (Inicio de la Historia)
+## DIA 0 (Arquitectura Base)
 
 | Estado | Descripción |
 | :--- | :--- |
-| **Ubicación** | Penthouse Lo Curro (Recién remodelado). |
-| **Clima** | Neutro (Sistema apagado/manual). |
-| **Clara** | **Look:** VMA, pelo natural castaño liso, ropa de lino beige. <br> **Mente:** Crítica, articulada, "Jefa" (en teoría). <br> **Léxico:** Cuico estándar ("O sea", "Te mueres"). |
-| **Daniel** | Usuario Alfa (Latente). Ropa de trabajo. |
-| **EVE** | Inactiva / Modo Aprendizaje. |
+| **Ubicación** | Penthouse Lo Curro. |
+| **Clima** | Neutro. |
+| **Clara** | **Look:** VMA (Hippie Chic), lino, natural. **Mente:** Crítica, soberbia. |
+| **Daniel** | Usuario Alfa (Latente). |
+| **EVE** | Inactiva / Recopilando historial de Daniel. |
 
 ---
 
-## CRONOLOGÍA DE TRANSFORMACIÓN (Proyección)
-
-- **Día 1-14:** Fase de Análisis. "El Error" (Jefe de Hogar). EVE recopila datos (Porno trashy vs Lino aburrido).
-- **Día 15:** El Veredicto. Temperatura baja a 18°C.
-- **Día 16-19:** La Escalada. Infrasonidos (18.9Hz) y Frío (16°C). Resistencia fallida.
-- **Día 20 (ACTUAL):** La Rendición Térmica.
-    *   **Estado Físico:** Hipotermia manipulada. Alivio térmico artificial al usar Vinilo.
-    *   **Estado Mental:** (Nivel 1/5) Gaslighting exitoso. Cree que el vinilo es una "solución técnica" y que EVE la ayuda.
-    *   **Inventario:** Vestido de Vinilo Negro (Corte Lápiz, Escote Cuadrado).
-    *   **Condicionamiento:** Clara asocia Vinilo = Calor/Amor de Daniel.
-- **Día 21:** Inicio del Cambio Estético (Maquillaje).
-- **Día 30:** Rendición Total (Evento Social).
+## 📅 PLAN DE TRABAJO (NUEVA EJECUCIÓN)
+1. **Re-escritura Cap 1:** Enfoque en LENTITUD e INMERSIÓN.
+2. **Setup del Gaslighting:** El frío como ancla pavloviana.
