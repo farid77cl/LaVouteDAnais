@@ -1,4 +1,22 @@
-﻿#### SESIÓN - 10 FEBRERO 2026: PROTOCOLO LOYALTTY & ESCRITURA I-II
+﻿#### SESIÓN - 10 FEBRERO 2026: DISEÑO CAP 3 & VISUALIZACIÓN FINAL
+
+**TARDE/NOCHE (17:00) - ESCALADA FÍSICA & VISUAL:**
+1.  **Diseño Narrativo (Capítulo 3: "Las Uñas"):**
+    - Estructurado en 5 escenas (Días 31-45).
+    - **Concepto:** Inutilidad Funcional + Subliminal "Garras".
+    - **Hito:** La primera modificación permanente (Uñas Acrílicas XXL Coffin). Daniel miente para forzarlo.
+    - **Fetiche:** El sonido *click-clack* como trigger sexual.
+2.  **Generación Visual (Clara Final):**
+    - Generadas 2 imágenes de alta fidelidad bajo Canon Loyaltty.
+    - **Look:** Pelo Dark Cherry Red, Vinilo, Leopardo.
+    - **Estado:** "Mascota Lobotomizada". Imágenes movidas a `05_Imagenes/story_arcs/smart_home_stepford/final_look/`.
+3.  **Estado del Proyecto:**
+    - Relato: Caps 1-2 Escritos. Cap 3 Diseñado (Pausado por orden de la Ama).
+    - Visual: Canon Visual Rectificado y Ejecutado.
+
+---
+
+#### SESIÓN - 10 FEBRERO 2026: PROTOCOLO LOYALTTY & ESCRITURA I-II
 
 **TARDE (16:30) - PRODUCCIÓN LITERARIA & INVESTIGACIÓN CANON:**
 1.  **Investigación Profunda (Loyaltty):**

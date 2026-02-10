@@ -26,11 +26,11 @@
  |-------|-------|
  | **Relato Activo** | Smart Home Stepford (v2026) |
  | **Ubicación** | `03_Literatura/03_En_progreso/smart_home_stepford_2026/` |
- | **Fase del Ritual** | 🔄 FASE 3: ESCRITURA (La Sangre) |
- | **Capítulo en Progreso** | **Capítulo 2** (Diseño aprobado) |
- | **Estado Actual** | 🟢 **REINICIO EXITOSO** - Cap 1 escrito bajo el Canon de Excelencia. |
- | **Último Look Helena** | **Look 55:** Scarlet Silk Seduction. |
- | **Última Generación** | Look 55 - Scarlet Silk (No Corset). |
+ | **Fase del Ritual** | 🔄 FASE 4: DISEÑO CAP 3 (Las Uñas) |
+ | **Capítulo en Progreso** | **Capítulo 3** (Diseño aprobado / Pausado) |
+ | **Estado Actual** | 🟢 **EN EJECUCIÓN** - Caps 1 & 2 Escritos. Cap 3 Diseñado. |
+ | **Último Look Helena** | **Look 57:** Hypnotic Spiral Doll. |
+ | **Última Generación** | Clara Final Look (Loyaltty Canon). |
 
 ### Historial Reciente
 - **05/02/2026 (MAÑANA):** Análisis del Canon de Anaïs y Reinicio Stepford v2026. Cap 1 Completo.

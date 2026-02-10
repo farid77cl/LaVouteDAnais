@@ -54,6 +54,8 @@ Explora las secciones de esta categoría:
 - ✅ [**Look47 Midnight Pvc Doll**](./look47_midnight_pvc_doll/GALERIA.md)
 - ✅ [**Look50 Golden Cage**](./look50_golden_cage/GALERIA.md)
 - ✅ [**Look51 Obsidian Rose Queen**](./look51_obsidian_rose_queen/GALERIA.md)
+- 📁 [**Look56 Eternal Loop**](./look56_eternal_loop/GALERIA.md)
+- 📁 [**Look57 Hypnotic Spiral Doll**](./look57_hypnotic_spiral_doll/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 

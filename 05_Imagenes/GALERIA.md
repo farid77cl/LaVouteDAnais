@@ -10,6 +10,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Miss Doll**](./miss_doll/GALERIA.md)
 - ✅ [**Mixed Fetish V63**](./mixed_fetish_v63/GALERIA.md)
 - ✅ [**Personajes**](./personajes/GALERIA.md)
+- ✅ [**Story Arcs**](./story_arcs/GALERIA.md)
 - ✅ [**The Dollhouse**](./the_dollhouse/GALERIA.md)
 - ✅ [**Video Gloss**](./video_gloss/GALERIA.md)
 - ✅ [**Video Trance I**](./video_trance_i/GALERIA.md)
