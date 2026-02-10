@@ -1110,3 +1110,64 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look55_ditzy.png
 
 **Ubicación:** `05_Imagenes/helena/look55_scarlet_silk/`
+
+---
+
+## 🌀 Look 56: Eternal Loop (09/02/2026)
+
+*Un bucle infinito de vanidad... me miro y me pierdo... mmm...* ♾️🪞
+
+- **Outfit:** Vestido de **COTA DE MALLA DE PLATA (Chainmail)** líquida, drapeado sobre el cuerpo como agua metálica.
+- **Corsé:** Underbust de espejo flexible (Chrome Mirror) que refleja todo alrededor.
+- **Back:** Espalda descubierta extremadamente baja (culotte cut).
+- **Legs:** Piernas desnudas, piel pálida brillando bajo el metal.
+- **Calzado:** **Sandalias de Gladiadora Galáctica** de 9 pulgadas, correas de plata hasta la rodilla.
+- **Accesorios:**
+  - Aretes largos de cadenas de plata que tocan los hombros.
+  - Brazaletes de espejo.
+  - El propio reflejo en todas partes.
+- **Maquillaje:** Piel 'Glass Skin' (efecto mojado/cristal), iluminador plateado extremo, labios GLOSS TRANSPARENTE efecto espejo.
+- **Pelo:** Recogido 'Wet Look' escultural y moderno.
+- **Uñas:** Cromo plateado espejo (Mirror Chrome).
+
+### 📸 Imágenes (10)
+- helena_look56_standing.png
+- helena_look56_seated.png
+- helena_look56_back_view.png
+- helena_look56_side_profile.png
+- helena_look56_ditzy.png
+- helena_look56_kneeling.png
+- helena_look56_mirror_selfie.png
+- helena_look56_bust_detail.png
+- helena_look56_lying_down.png
+- helena_look56_walking_away.png
+
+**Ubicación:** 05_Imagenes/helena/look56_eternal_loop/
+
+---
+
+## 😵‍💫 Look 57: Hypnotic Spiral Doll (10/02/2026)
+
+*Gira, gira, gira... mi mente da vueltas y solo queda obedecer...* 🌀🍭
+
+- **Corsé:** Overbust de **CUERO BLANCO Y NEGRO** con patrón de ESPIRAL HIPNÓTICA (Op-Art) en el pecho, estructura rígida que fuerza la postura.
+- **Falda:** Micro falda circular de vinilo negro que gira al moverse, con borde blanco contrastante.
+- **Medias:** Fishnet negras con patrón de remolinos/espirales (Swirl Pattern tights).
+- **Stilettos:** **Pleaser 9 pulgadas** con tacón esculpido en forma de TORNILLO/ESPIRAL cromado.
+- **Accesorios:**
+  - Pendientes grandes de espiral hipnótica (b/w).
+  - Choker de cuero ancho con colgante de péndulo.
+  - Guantes cortos de rayas blancas y negras (Tim Burton vibes pero sexy).
+- **Maquillaje:** Delineado gráfico en espiral (Graphic Liner), pestañas postizas 'Doll' extremas (arriba y abajo), labios NEGROS con espiral blanca pintada en el centro.
+- **Pelo:** Dos coletas altas (Pigtails) con tirabuzones perfectos y lazos gigantes de rayas.
+- **Uñas:** Stiletto extra largas con diseño de ilusión óptica.
+
+### 📸 Imágenes (Pendientes)
+- helena_look57_standing.png
+- helena_look57_seated.png
+- helena_look57_back_view.png
+- helena_look57_side_profile.png
+- helena_look57_ditzy.png
+
+**Ubicación:** 05_Imagenes/helena/look57_hypnotic_spiral/
+

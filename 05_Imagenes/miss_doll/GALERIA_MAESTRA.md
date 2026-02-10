@@ -50,7 +50,7 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 47 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
+Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -85,4 +85,4 @@ Total: 50 imágenes. [Ver carpeta completa](./General/GALERIA.md)
 
 ---
 
-*Galería maestra coordinada por Helena — 04/02/2026* 🌹
+*Galería maestra coordinada por Helena — 10/02/2026* 🌹

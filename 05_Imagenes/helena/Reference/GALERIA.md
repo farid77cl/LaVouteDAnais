@@ -22,4 +22,4 @@ Total imágenes: 2
 - [custom_helena_general_s012_canon_test_portrait.png](./custom_helena_general_s012_canon_test_portrait.png)
 
 ---
-*Actualizado automáticamente: 2026-02-04*
+*Actualizado automáticamente: 2026-02-10*
