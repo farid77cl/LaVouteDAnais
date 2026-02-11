@@ -30,4 +30,4 @@ Explora las secciones de esta categoría:
 - [mirror_reflection.png](./mirror_reflection.png)
 
 ---
-*Actualizado automáticamente: 2026-02-10*
+*Actualizado automáticamente: 2026-02-11*

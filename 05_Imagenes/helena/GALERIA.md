@@ -55,9 +55,10 @@ Explora las secciones de esta categoría:
 - ✅ [**Look50 Golden Cage**](./look50_golden_cage/GALERIA.md)
 - ✅ [**Look51 Obsidian Rose Queen**](./look51_obsidian_rose_queen/GALERIA.md)
 - 📁 [**Look56 Eternal Loop**](./look56_eternal_loop/GALERIA.md)
+- ✅ [**Look57 Hypnotic Spiral**](./look57_hypnotic_spiral/GALERIA.md)
 - 📁 [**Look57 Hypnotic Spiral Doll**](./look57_hypnotic_spiral_doll/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-02-10*
+*Actualizado automáticamente: 2026-02-11*

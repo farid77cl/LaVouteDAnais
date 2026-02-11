@@ -85,4 +85,4 @@ Total: 50 imágenes. [Ver carpeta completa](./General/GALERIA.md)
 
 ---
 
-*Galería maestra coordinada por Helena — 10/02/2026* 🌹
+*Galería maestra coordinada por Helena — 11/02/2026* 🌹

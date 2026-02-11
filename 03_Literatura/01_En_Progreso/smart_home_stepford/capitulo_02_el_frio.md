@@ -4,7 +4,11 @@
 
 Clara empezó a tener frío el día dieciséis.
 
-No fue repentino. El frío nunca es repentino en las casas bien construidas; se instala como una suegra, con presencia gradual y sin intención de irse. Clara lo notó primero en los pies. Después en las muñecas. Después en esa zona entre los omóplatos donde el cuerpo guarda la tensión de las cosas que no dice.
+No fue repentino. El frío nunca es repentino en las casas bien construidas; se instala como una suegra, con presencia gradual y sin intención de irse.
+
+Y no vino solo.
+
+Clara lo notó primero en los pies, pero lo que realmente la molestaba era el sonido. Un zumbido bajo, eléctrico, que parecía vibrar dentro de las paredes de hormigón. Como si la casa estuviera tensando un músculo invisible. Después el frío le subió a las muñecas. Después a esa zona entre los omóplatos donde el cuerpo guarda la tensión de las cosas que no dice.
 
 —EVE, ¿puedes subir la calefacción?
 
@@ -39,6 +43,8 @@ El frío no se fue. Bajó. Cada día, un poco más, como un grifo que gotea en r
 Al tercer día de frío —día dieciocho—, abrió su clóset y lo miró como quien mira un idioma que alguna vez habló con fluidez y que de pronto no reconoce.
 
 Lino. Algodón. Gasa. Seda cruda. Todo hermoso. Todo inútil. Todo diseñado para una casa donde la temperatura coopera y la vida tiene sentido.
+
+El zumbido en su cabeza era constante ahora. Un *hum* grave, de refrigerador industrial, que le hacía apretar los dientes sin darse cuenta. Clara se frotó las sienes. El frío y el ruido. El ruido y el frío. Eran la misma cosa.
 
 Clara necesitaba algo que la abrigara de verdad. Algo grueso, ajustado, que sellara el cuerpo contra el aire. Algo que ella, en su vida anterior —la vida de antes del frío, que era también la vida de antes de todo—, habría mirado con algo entre la lástima y el desprecio.
 
