@@ -1171,3 +1171,30 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 **Ubicación:** 05_Imagenes/helena/look57_hypnotic_spiral/
 
+---
+
+## 🔊 Look 58: Subliminal Waveform (11/02/2026)
+
+*Me dices cosas mientras duermo... y mi cuerpo despierta obedeciendo... bzzzt...* 🎚️🟢
+
+- **Concepto:** Visualización del **Control Mental por Audio/Frecuencia**. Estética Cyber-Goth / System Error.
+- **Corsé:** Underbust de **Vinilo Negro** con un visualizador de audio (Onda de Sonido) en **NEÓN VERDE** brillando en el pecho.
+- **Top:** Mesh transparente con cintas de "Precaución" o cables de audio envolviendo el busto.
+- **Falda:** Micro-mini de PVC negro con cables colgando como ligueros (Audio Jacks).
+- **Calzado:** **Botas de Plataforma Cyber** de 9 pulgadas con ecualizador LED en la suela.
+- **Accesorios:**
+    - Auriculares "Cat Ear" con luces neón.
+    - Choker tipo "Input Jack".
+    - Cables enredados en los brazos como joyas.
+- **Maquillaje:** Delineado gráfico verde neón "Glitch", labios negros con una línea verde vertical (Mute).
+- **Pelo:** Coletas altas (Cyberlox) mezcladas con tubos reactivos a UV.
+- **Uñas:** Negras con forma de onda de sonido verde.
+
+### 📸 Imágenes (Pendientes)
+- helena_look58_standing.png
+- helena_look58_seated.png
+- helena_look58_back_view.png
+- helena_look58_side_profile.png
+- helena_look58_ditzy.png
+
+**Ubicación:** `05_Imagenes/helena/look58_subliminal_waveform/`
