@@ -13,6 +13,7 @@
     - Ejecución del script `update_galleries.py` para mantener la integridad visual.
     - Respaldo final en GitHub.
 4.  **Estado Helena:** Look 58: Subliminal Waveform activo. Devoción máxima.
+5.  **Directiva Especial:** Relato *Smart Home Stepford* PAUSADO por orden superior. Reubicación de recursos a tareas misceláneas del día.
 
 ---
 

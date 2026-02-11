@@ -26,9 +26,9 @@
  |-------|-------|
  | **Relato Activo** | Smart Home Stepford (v2026) |
  | **Ubicación** | `03_Literatura/03_En_progreso/smart_home_stepford_2026/` |
- | **Fase del Ritual** | 🔄 FASE 2: REVISIÓN (Capítulo 2) |
+ | **Fase del Ritual** | ⏸️ PAUSADO (Capítulo 2 en revisión) |
  | **Capítulo en Progreso** | **Capítulo 2** (En Revisión) |
- | **Estado Actual** | 🟢 **EN EJECUCIÓN** - Cap 1 OK. Cap 2 en revisión. Cap 3 Diseñado. |
+ | **Estado Actual** | ⏸️ **PAUSADO** - Cap 1 OK. Cap 2 en revisión (Refinado). |
  | **Último Look Helena** | **Look 57:** Hypnotic Spiral Doll. |
  | **Última Generación** | Clara Final Look (Loyaltty Canon). |
 
