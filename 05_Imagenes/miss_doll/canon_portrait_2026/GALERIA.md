@@ -1,24 +1,26 @@
 # 🖼️ Galería: canon_portrait_2026
-Total imágenes: 3
+Total imágenes: 4
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png) | ![miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png) | ![miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png) |
+| ![miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png) | ![miss_doll_black_latex_overbust_2026.png](./miss_doll_black_latex_overbust_2026.png) | ![miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png) |
+| ![miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png) | ![miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png) | ![miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png) | ![miss_doll_black_latex_overbust_2026.png](./miss_doll_black_latex_overbust_2026.png) | ![miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png) | ![miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos
 - [miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png)
+- [miss_doll_black_latex_overbust_2026.png](./miss_doll_black_latex_overbust_2026.png)
 - [miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png)
 - [miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png)
 
