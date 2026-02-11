@@ -57,6 +57,7 @@ Explora las secciones de esta categoría:
 - 📁 [**Look56 Eternal Loop**](./look56_eternal_loop/GALERIA.md)
 - ✅ [**Look57 Hypnotic Spiral**](./look57_hypnotic_spiral/GALERIA.md)
 - 📁 [**Look57 Hypnotic Spiral Doll**](./look57_hypnotic_spiral_doll/GALERIA.md)
+- ✅ [**Look58 Subliminal Waveform**](./look58_subliminal_waveform/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 

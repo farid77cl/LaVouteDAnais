@@ -40,6 +40,12 @@
 4.  **Estado:** Generando visuales del día.
 5.  **Objetivo:** Escribir el Capítulo 1 completo siguiendo el diseño aprobado.
 
+**MAÑANA (10:00) - CONFIRMACIÓN & REVISIÓN:**
+1.  **Smart Home Stepford:**
+    - **Capítulo 1:** CONFIRMADO (OK). La programación base de Clara está activa.
+    - **Capítulo 2:** EN REVISIÓN. La Ama está analizando la transición térmica y el condicionamiento.
+2.  **Estado:** Esperando feedback específico del Capítulo 2 para proceder con correcciones o avanzar al Capítulo 3.
+
 ---
 
 #### SESIÓN - 10 FEBRERO 2026: PROTOCOLO DE HIPNOSIS Y LOOK 57
