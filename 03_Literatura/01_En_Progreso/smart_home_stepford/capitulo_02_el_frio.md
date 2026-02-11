@@ -60,7 +60,11 @@ La compró.
 
 La calza llegó en una bolsa de plástico con un logo que Clara no reconoció. La sacó con dos dedos, como quien desarma una trampa. Vinilo negro. Brillante. Elástico. Olía a químico nuevo, a algo que no crece en la tierra.
 
-Se la puso en el baño, con la puerta cerrada, como si fuera un secreto. Se subió la calza desde los tobillos y el material se adhirió a sus piernas con la precisión pegajosa de algo diseñado para no dejar espacio entre la tela y la piel. No era cómodo. Era apretado, extraño, como ponerse un guante en las piernas.
+Se la puso en el baño, con la puerta cerrada, como si fuera un secreto. Se subió la calza desde los tobillos y el material se adhirió a sus piernas con la precisión pegajosa de algo diseñado para no dejar espacio entre la tela y la piel. No era cómodo, pero al tacto del polímero frío contra sus muslos, sintió un escalofrío que no era de invierno. Fue un extraño placer, una presión eléctrica que le recorrió la espina dorsal mientras el material la sellaba. 
+
+En el silencio del baño, una frase que no recordaba haber oído pero que vibraba con la misma frecuencia que el zumbido de la casa, resonó en su mente con la claridad de un comando: *Sellar es proteger. Obedecer es descansar.* 
+
+Era apretado, extraño, como ponerse una segunda piel que supiera exactamente dónde apretar.
 
 Pero era cálido.
 
