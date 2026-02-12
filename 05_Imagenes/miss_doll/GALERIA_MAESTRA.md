@@ -5,11 +5,11 @@
 ---
 
 ## 👗 Outfits
-Total: 19 imágenes. [Ver carpeta completa](./Outfits/GALERIA.md)
+Total: 1 imágenes. [Ver carpeta completa](./Outfits/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
-| ![custom_missdoll_outfit_s031_babydoll_blackred.png](Outfits/custom_missdoll_outfit_s031_babydoll_blackred.png) | ![custom_missdoll_outfit_s032_babydoll_pink.png](Outfits/custom_missdoll_outfit_s032_babydoll_pink.png) | ![custom_missdoll_outfit_s033_babydoll_pink_sheer.png](Outfits/custom_missdoll_outfit_s033_babydoll_pink_sheer.png) |
+| ![custom_missdoll_outfit_s039_black_lace.png](Outfits/custom_missdoll_outfit_s039_black_lace.png) | - | - |
 
 ---
 
@@ -59,7 +59,7 @@ Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 ---
 
 ## 📑 Referencia Canon
-Total: 17 imágenes. [Ver carpeta completa](./Reference/GALERIA.md)
+Total: 20 imágenes. [Ver carpeta completa](./Reference/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -68,20 +68,11 @@ Total: 17 imágenes. [Ver carpeta completa](./Reference/GALERIA.md)
 ---
 
 ## ⚙️ UI Assets
-Total: 10 imágenes. [Ver carpeta completa](./UI_Assets/GALERIA.md)
+Total: 18 imágenes. [Ver carpeta completa](./UI_Assets/GALERIA.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
-| ![ui_missdoll_asset_s106_eyes_hood.png](UI_Assets/ui_missdoll_asset_s106_eyes_hood.png) | ![ui_missdoll_asset_s107_lips_gloss.png](UI_Assets/ui_missdoll_asset_s107_lips_gloss.png) | ![ui_missdoll_asset_s108_lips_hood_v1.png](UI_Assets/ui_missdoll_asset_s108_lips_hood_v1.png) |
-
----
-
-## 📦 General
-Total: 50 imágenes. [Ver carpeta completa](./General/GALERIA.md)
-
-| Destacada 1 | Destacada 2 | Destacada 3 |
-|:---:|:---:|:---:|
-| ![custom_missdoll_general_s001_escort_jet.png](General/custom_missdoll_general_s001_escort_jet.png) | ![custom_missdoll_general_s001_miss_doll_canon_comic.jpg](General/custom_missdoll_general_s001_miss_doll_canon_comic.jpg) | ![custom_missdoll_general_s002_miss_doll_bronzed_mediumshot.png](General/custom_missdoll_general_s002_miss_doll_bronzed_mediumshot.png) |
+| ![custom_missdoll_general_s004_banner_comic_hero_welcome.png](UI_Assets/custom_missdoll_general_s004_banner_comic_hero_welcome.png) | ![custom_missdoll_general_s005_banner_eyes.png](UI_Assets/custom_missdoll_general_s005_banner_eyes.png) | ![custom_missdoll_general_s006_banner_eyes_hood.png](UI_Assets/custom_missdoll_general_s006_banner_eyes_hood.png) |
 
 ---
 

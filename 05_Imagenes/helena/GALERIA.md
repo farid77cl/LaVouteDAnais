@@ -3,11 +3,20 @@
 Explora las secciones de esta categoría:
 
 - ✅ [**Action Poses**](./Action_Poses/GALERIA.md)
-- ✅ [**General**](./General/GALERIA.md)
+- 📁 [**General**](./General/GALERIA.md)
 - ✅ [**Looks Archives**](./Looks_Archives/GALERIA.md)
-- ✅ [**Outfits**](./Outfits/GALERIA.md)
+- 📁 [**Outfits**](./Outfits/GALERIA.md)
 - ✅ [**Reference**](./Reference/GALERIA.md)
 - ✅ [**Story Arcs**](./Story_Arcs/GALERIA.md)
+- ✅ [**Collection Dominatrix**](./collection_dominatrix/GALERIA.md)
+- ✅ [**Collection Equestrian**](./collection_equestrian/GALERIA.md)
+- ✅ [**Collection Fantasy Archetypes**](./collection_fantasy_archetypes/GALERIA.md)
+- ✅ [**Collection Goth Gym**](./collection_goth_gym/GALERIA.md)
+- ✅ [**Collection Gothic Bride**](./collection_gothic_bride/GALERIA.md)
+- ✅ [**Collection Latex Fetish**](./collection_latex_fetish/GALERIA.md)
+- ✅ [**Collection Lingerie Archive**](./collection_lingerie_archive/GALERIA.md)
+- ✅ [**Collection Miscellaneous Archive**](./collection_miscellaneous_archive/GALERIA.md)
+- ✅ [**Collection Vampire Christmas**](./collection_vampire_christmas/GALERIA.md)
 - ✅ [**Exotic Pole Stripper**](./exotic_pole_stripper/GALERIA.md)
 - ✅ [**Helena Sub Bunny**](./helena_sub_bunny/GALERIA.md)
 - ✅ [**Look01 Morticia**](./look01_morticia/GALERIA.md)
@@ -60,6 +69,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look58 Subliminal Waveform**](./look58_subliminal_waveform/GALERIA.md)
 - ✅ [**Look59 Midnight Cowgirl**](./look59_midnight_cowgirl/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
+- ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---

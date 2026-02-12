@@ -1,23 +1,24 @@
 # 🖼️ Galería: theme_cowgirl_bimbo
-Total imágenes: 1
+Total imágenes: 2
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
+| ![custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen |
-| :---: |
-| ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
+| Imagen | Imagen |
+| :---: | :---: |
+| ![custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
 
 
 ---
 
 ## 📜 Lista de Archivos
+- [custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png)
 - [custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg)
 
 ---

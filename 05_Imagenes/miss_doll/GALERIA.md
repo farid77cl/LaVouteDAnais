@@ -3,7 +3,7 @@
 Explora las secciones de esta categoría:
 
 - ✅ [**Banners**](./Banners/GALERIA.md)
-- ✅ [**General**](./General/GALERIA.md)
+- 📁 [**General**](./General/GALERIA.md)
 - ✅ [**Outfits**](./Outfits/GALERIA.md)
 - ✅ [**Reference**](./Reference/GALERIA.md)
 - ✅ [**Strips**](./Strips/GALERIA.md)
@@ -20,6 +20,21 @@ Explora las secciones de esta categoría:
 - ✅ [**Shiny Haul**](./shiny_haul/GALERIA.md)
 - ✅ [**Stripper Series**](./stripper_series/GALERIA.md)
 - ✅ [**Stripper Vip**](./stripper_vip/GALERIA.md)
+- ✅ [**Theme Animal Print**](./theme_animal_print/GALERIA.md)
+- ✅ [**Theme Bimbo Bride**](./theme_bimbo_bride/GALERIA.md)
+- ✅ [**Theme Bunny Girl**](./theme_bunny_girl/GALERIA.md)
+- ✅ [**Theme Cowgirl Bimbo**](./theme_cowgirl_bimbo/GALERIA.md)
+- ✅ [**Theme Dominatrix**](./theme_dominatrix/GALERIA.md)
+- ✅ [**Theme Lingerie Collection**](./theme_lingerie_collection/GALERIA.md)
+- ✅ [**Theme Luxury Escort**](./theme_luxury_escort/GALERIA.md)
+- ✅ [**Theme Miscellaneous Archive**](./theme_miscellaneous_archive/GALERIA.md)
+- ✅ [**Theme Office Siren**](./theme_office_siren/GALERIA.md)
+- ✅ [**Theme Performance**](./theme_performance/GALERIA.md)
+- ✅ [**Theme Pink Mas**](./theme_pink_mas/GALERIA.md)
+- ✅ [**Theme Plastic Fantastic**](./theme_plastic_fantastic/GALERIA.md)
+- ✅ [**Theme Roleplay Uniforms**](./theme_roleplay_uniforms/GALERIA.md)
+- ✅ [**Theme Sporty Spice**](./theme_sporty_spice/GALERIA.md)
+- ✅ [**Theme Summer Vibes**](./theme_summer_vibes/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
