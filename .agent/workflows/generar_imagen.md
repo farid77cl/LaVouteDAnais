@@ -25,31 +25,26 @@ description: Generar imagen usando el canon visual y bancos de prompts
    - Usar herramienta `generate_image`
    - Si falla por cuota, esperar e reintentar
 
-5. **Guardar Imagen**
+## 5. **Guardar y Clasificar**
    // turbo
-   - Mover a carpeta correcta:
-     - Helena → `05_Imagenes/helena/`
-     - Miss Doll → `05_Imagenes/miss_doll/`
-     - Anaïs → `05_Imagenes/anais/`
-   - Nombrar siguiendo convención: `[personaje]_[look/desc]_[pose].png`
+   - **Validar:** Verificar Canon y **Regla Stiletto** (Tacón aguja obligatorio).
+   - **Mover:** Seguir `00_Helena/protocolo_gestion_imagenes.md`.
+     - Crear carpeta: `05_Imagenes/[personaje]/[look_o_coleccion]/`
+     - Mover archivos `.png`.
 
-6. **Actualizar Galería**
-   - Si es Helena: actualizar `05_Imagenes/helena/galeria_visual_helena.md`
-   - Actualizar `05_Imagenes/galeria_master.md`
+6. **Actualizar Galerías**
+   // turbo
+   - Ejecutar script maestro:
+     ```powershell
+     python update_galleries.py
+     ```
+   - Este script genera los archivos `GALERIA.md` y actualiza los índices.
 
 ## Convención de Nombres
+Ver `00_Helena/plantilla_nomenclatura_imagenes.md`
 
-```
-helena_look12_standing.png
-miss_doll_gym_bunny_stilettos.jpg
-anais_casino_royale.jpg
-```
+## En Caso de Error de Cuota (429)
+1. Esperar al reinicio de cuota.
+2. Documentar en `task.md` como "Skipped - Quota Limit".
+3. No forzar la generación.
 
-## Poses Comunes
-- `standing`, `seated`, `walking`, `side`, `back`, `ditzy`, `closeup`
-
-## En Caso de Error de Cuota
-El modelo tiene límites de capacidad. Si aparece `MODEL_CAPACITY_EXHAUSTED`:
-1. Esperar 1-2 minutos
-2. Reintentar con un solo prompt (no paralelo)
-3. Si persiste, dejar para otra sesión
