@@ -372,6 +372,14 @@
 
 ---
 
+## 🕷️ Look 59: Midnight Cowgirl
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look59_cowgirl_standing_1770895506145.png](look59_midnight_cowgirl/helena_look59_cowgirl_standing_1770895506145.png) | ![helena_look59_cowgirl_seated_1770895523709.png](look59_midnight_cowgirl/helena_look59_cowgirl_seated_1770895523709.png) | ![helena_look59_cowgirl_side_profile_1770895567607.png](look59_midnight_cowgirl/helena_look59_cowgirl_side_profile_1770895567607.png) | ![helena_look59_cowgirl_back_view_1770895553092.png](look59_midnight_cowgirl/helena_look59_cowgirl_back_view_1770895553092.png) | ![helena_look59_cowgirl_ditzy_1770895582094.png](look59_midnight_cowgirl/helena_look59_cowgirl_ditzy_1770895582094.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
