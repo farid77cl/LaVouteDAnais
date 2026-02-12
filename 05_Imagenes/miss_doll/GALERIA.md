@@ -12,6 +12,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Bunny Tribute**](./bunny_tribute/GALERIA.md)
 - ✅ [**Canon Fix Luxury**](./canon_fix_luxury/GALERIA.md)
 - ✅ [**Canon Portrait 2026**](./canon_portrait_2026/GALERIA.md)
+- ✅ [**Descartadas**](./descartadas/GALERIA.md)
 - ✅ [**Dom Stripper Batch**](./dom_stripper_batch/GALERIA.md)
 - ✅ [**Escort Lujo**](./escort_lujo/GALERIA.md)
 - ✅ [**Escort Sexual**](./escort_sexual/GALERIA.md)
