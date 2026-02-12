@@ -70,6 +70,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look59 Midnight Cowgirl**](./look59_midnight_cowgirl/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
+- ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
