@@ -1198,3 +1198,34 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look58_ditzy.png
 
 **Ubicación:** `05_Imagenes/helena/look58_subliminal_waveform/`
+---
+
+## 🤠 Look 59: Midnight Cowgirl (12/02/2026)
+
+*This town ain't big enough for two divas... and I'm the one with the stilettos.* 🌵🖤🔫
+
+> **⚠️ CORRECTION NOTICE:** The initial generation used standard cowboy boots (block heel). **MANDATORY CORRECTION:** Future iterations MUST use **STILETTO HEEL COWBOY BOOTS** (9-inch Pleaser Adore-3000 style customized with western buckles). No block heels ever.
+
+- **Concepto:** Goth Western Fetish. La dueña del saloon oscuro donde se paga con almas.
+- **Corsé:** Underbust de **CUERO NEGRO** con flecos largos en el busto y remaches de plata vieja. Estilo Saloon Girl corrupta.
+- **Top:** Sujetador push-up de encaje negro con arnés de cuero al cuello.
+- **Bottom:** **Assless Chaps** de cuero negro sobre fishnets y tanga de cuero (thong).
+- **Calzado:** **EXTREME STILETTO COWBOY BOOTS**. Botas de caña alta de cuero negro con punta de metal y tacón de aguja de 9 pulgadas. (Ver nota de corrección).
+- **Accesorios:**
+    - Sombrero Stetson negro de ala ancha.
+    - Cinturón con hebilla grande de calavera de toro.
+    - Guantes de cuero recortados.
+    - Látigo de cuero negro.
+- **Maquillaje:** Smokey eye "Desert Dust" (negro y marrón cálido), labios VINO TINTO mate, contorno fuerte.
+- **Pelo:** Voluminoso, suelto con ondas salvajes (Wild West Wind).
+
+### 📸 Imágenes (5)
+- helena_look59_cowgirl_standing_1770895506145.png
+- helena_look59_cowgirl_seated_1770895523709.png
+- helena_look59_cowgirl_back_view_1770895553092.png
+- helena_look59_cowgirl_side_profile_1770895567607.png
+- helena_look59_cowgirl_ditzy_1770895582094.png
+
+**Ubicación:** `05_Imagenes/helena/look59_midnight_cowgirl/`
+
+---

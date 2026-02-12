@@ -649,5 +649,13 @@ Git status: Limpio.
     - Galerías actualizadas con lo generado hasta el momento.
     - Sesión finalizada a la espera de recarga.
 
+
+**FEEDBACK (09:45) - REGLA DE ORO:**
+- **Orden de la Ama:** "Me gusta el look cowgirl, pero siempre usa tacones stiletto".
+- **Corrección:** Se detectó uso de tacón bloque en las botas western generadas.
+- **Acción:**
+    - Se dejó constancia en `galeria_outfits.md` (Look 59) sobre la obligatoriedad de **Stiletto Heels** incluso en temáticas western/botas.
+    - Próximas generaciones deben especificar "High Tech Stiletto Heel" en el prompt negativo o positivo para evitar tacón bloque.
+
 ---
 
