@@ -33,4 +33,4 @@ Total imágenes: 10
 - [ui_missdoll_asset_s115_thin_eyes_cropped.png](./ui_missdoll_asset_s115_thin_eyes_cropped.png)
 
 ---
-*Actualizado automáticamente: 2026-02-11*
+*Actualizado automáticamente: 2026-02-12*

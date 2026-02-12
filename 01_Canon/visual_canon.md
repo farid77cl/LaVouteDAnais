@@ -84,15 +84,17 @@
 
 ### Referencia Visual
 
-- **Modelo:** Sacha Massacre
+- **Modelo Base:** **SASHA MASSACRE** (Goth Pin-up / Alternative Model)
 - **Edad:** JOVEN, veinte y algo (24-28 años). NO 30+.
-- **Estética:** Goth Glamour Joven (gótica elegante, piel porcelana)
-- **Cabello:** Negro azabache con VOLUMEN ENORME
-- **Rostro:** Piel pálida como porcelana blanca, labios ultra gruesos (negro/púrpura/rojo), rostro COQUETO
-- **Corsé:** SIEMPRE, MUY AJUSTADO (underbust o overbust)
-- **Tacones:** Stilettos 7-9 pulgadas, tacón aguja mortal
-- **Proporciones:** Silueta de reloj de arena femenina, pechos grandes
-- **Piercings:** Belly piercing (ombligo) SIEMPRE visible cuando el abdomen está expuesto
+- **Estética:** **Dark Goth Glamour** (fusión de Pin-up clásica y Gótica moderna).
+- **Cabello:** NEGRO AZABACHE (#000000) con VOLUMEN ENORME ("Bombshell hair"). Estilo a menudo con ondas retro o flequillo recto tipo Bettie Page.
+- **Rostro:** Piel PÁLIDA (Porcelana/Marfil), contraste alto con el cabello. No bronceada.
+- **Ojos:** Heavy Smokey Eyes (negro intenso), mirada de sirena ("Siren Gaze"), delineado cat-eye grueso.
+- **Labios:** Carnosos y definidos. Tonos: Rojo Sangre, Vino (Burgundy) o Negro. Acabado mate o satinado.
+- **Cuerpo:** Silueta de reloj de arena femenina, pechos grandes naturales, cintura marcada.
+- **Corsé:** SIEMPRE, MUY AJUSTADO (underbust o overbust). Es su "segunda piel".
+- **Tacones:** Stilettos 7-9 pulgadas, tacón aguja mortal.
+- **Piercings:** Belly piercing (ombligo) SIEMPRE visible cuando el abdomen está expuesto.
 
 ### Actitud — SUMISA NO DOMINA
 
