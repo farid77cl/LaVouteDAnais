@@ -1,165 +1,189 @@
-const btnGenerate = document.getElementById('btn-generate');
-const btnApprove = document.getElementById('btn-approve');
-const btnReject = document.getElementById('btn-reject');
-const userPromptArea = document.getElementById('user-prompt');
-const agentOutputArea = document.getElementById('agent-output');
+const $ = id => document.getElementById(id);
+const btnGenerate = $('btn-generate');
+const btnApprove = $('btn-approve');
+const btnReject = $('btn-reject');
+const userPrompt = $('user-prompt');
+const agentOutput = $('agent-output');
 const loader = document.querySelector('.loader');
 const btnText = document.querySelector('.btn-text');
-const checkpointControls = document.getElementById('checkpoint-controls');
-const promptLabel = document.getElementById('prompt-label');
+const checkpointControls = $('checkpoint-controls');
+const promptLabel = $('prompt-label');
+const streamStatus = $('stream-status');
+const streamAgentName = $('stream-agent-name');
+const tokenCountEl = $('token-count');
 
-const steps = ['ideador', 'arquitecto', 'personajes', 'escritor', 'critico', 'editor', 'contador'];
-let currentStepIndex = 0;
-let storyContext = {
-    premisa: '',
-    arco: '',
-    personajes: '',
-    capitulo: '',
-    critica: '',
-    final: '',
-    metricas: ''
-};
+const AGENTS = [
+    { key: 'ideador',    label: 'El Ideador',    verb: 'Invocar al Ideador' },
+    { key: 'arquitecto', label: 'El Arquitecto', verb: 'Invocar al Arquitecto' },
+    { key: 'personajes', label: 'Los Personajes', verb: 'Invocar Personajes' },
+    { key: 'escritor',   label: 'El Escritor',   verb: 'Invocar al Escritor' },
+    { key: 'critico',    label: 'El Crítico',    verb: 'Invocar al Crítico' },
+    { key: 'editor',     label: 'El Editor',     verb: 'Invocar al Editor' },
+    { key: 'contador',   label: 'El Contador',   verb: 'Invocar al Contador' }
+];
 
-// Update UI based on current agent
-function updateUIForStep(index) {
-    const agent = steps[index];
-    
-    // Update progress tracker
-    document.querySelectorAll('.step').forEach(el => el.classList.remove('active'));
-    if (index === 0) document.getElementById('step-ideador').classList.add('active');
-    else if (index <= 2) document.getElementById('step-arquitecto').classList.add('active');
-    else if (index <= 5) document.getElementById('step-escritor').classList.add('active');
-    else document.getElementById('step-critico').classList.add('active');
+let step = 0;
+let ctx = {};   // accumulated context from each agent
+let tokenCount = 0;
 
-    // Update active card
-    document.querySelectorAll('.agent-card').forEach(el => el.classList.remove('active'));
-    if (index === 0) document.getElementById('card-ideador').classList.add('active');
-    else if (index === 1 || index === 2) document.getElementById('card-arquitecto').classList.add('active');
-    else if (index === 3) document.getElementById('card-escritor').classList.add('active');
-    else document.getElementById('card-critico').classList.add('active');
-
-    // Update button text
-    btnText.textContent = `Generar (${agent.charAt(0).toUpperCase() + agent.slice(1)})`;
-    
-    // Reset output area
-    agentOutputArea.value = '';
+function updateUI() {
+    // Progress tracker: highlight current, mark done
+    for (let i = 0; i < AGENTS.length; i++) {
+        const el = $(`step-${i}`);
+        el.className = 'step' + (i === step ? ' active' : i < step ? ' done' : '');
+    }
+    // Agent cards
+    for (let i = 0; i < AGENTS.length; i++) {
+        const card = $(`card-${i}`);
+        card.className = 'agent-card' + (i === step ? ' active' : i < step ? ' done' : '');
+    }
+    // Button
+    btnText.textContent = AGENTS[step].verb;
+    // Reset output
+    agentOutput.value = '';
     checkpointControls.classList.add('hidden');
     btnGenerate.classList.remove('hidden');
-    agentOutputArea.readOnly = false;
+    btnGenerate.disabled = false;
+    agentOutput.readOnly = false;
+    tokenCount = 0;
+    tokenCountEl.textContent = '0 tokens';
 }
 
-// Build the prompt for the current agent based on previous context
-function buildAgentPrompt(agent) {
-    let basePrompt = userPromptArea.value;
-
-    switch(agent) {
+function buildPrompt() {
+    const a = AGENTS[step].key;
+    const p = ctx.premisa || userPrompt.value;
+    switch (a) {
         case 'ideador':
-            return basePrompt;
+            return userPrompt.value;
         case 'arquitecto':
-            return `Premisa original: ${storyContext.premisa}\n\nPropuesta del Ideador: ${storyContext.ideador}\n\nCon esto en mente, genera la estructura narrativa.`;
+            return `PREMISA: ${p}\n\nPROPUESTA DEL IDEADOR:\n${ctx.ideador}\n\nGenera la estructura narrativa completa.`;
         case 'personajes':
-            return `Premisa original: ${storyContext.premisa}\n\nArcos argumentales propuestos por el Arquitecto:\n${storyContext.arquitecto}\n\nCrea las fichas detalladas de los personajes para esta historia.`;
+            return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto}\n\nCrea fichas detalladas de personajes.`;
         case 'escritor':
-            return `TÍTULO / PREMISA: ${storyContext.premisa}\n\nARCO: \n${storyContext.arquitecto}\n\nPERSONAJES: \n${storyContext.personajes}\n\nINSTRUCCIÓN: Basado absolutamente en esto, escribe el capítulo completo de principio a fin.`;
+            return `PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo completo.`;
         case 'critico':
-            return `Pautas de personajes y arco: \n${storyContext.arquitecto}\n${storyContext.personajes}\n\nCAPÍTULO A EVALUAR:\n${storyContext.escritor}`;
+            return `ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO:\n${ctx.escritor}`;
         case 'editor':
-            return `NOTAS DEL CRÍTICO:\n${storyContext.critica}\n\nCAPÍTULO ORIGINAL:\n${storyContext.escritor}\n\nINSTRUCCIÓN: Aplica las correcciones y reescribe el capítulo mejorado.`;
+            return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe.`;
         case 'contador':
-            return `Evalúa este capítulo final:\n\n${storyContext.editor}`;
+            return `Evalúa este capítulo final:\n\n${ctx.editor}`;
     }
 }
 
-async function callAgent(agent) {
-    const prompt = buildAgentPrompt(agent);
-    
-    try {
-        btnGenerate.disabled = true;
-        loader.classList.remove('hidden');
-        btnText.textContent = 'Procesando...';
+async function callAgent() {
+    const agent = AGENTS[step];
+    const prompt = buildPrompt();
 
-        const response = await fetch(`/api/agent/${agent}`, {
+    btnGenerate.disabled = true;
+    loader.classList.remove('hidden');
+    btnText.textContent = 'Conectando...';
+    streamStatus.classList.remove('hidden');
+    streamAgentName.textContent = `${agent.label} está escribiendo...`;
+    agentOutput.value = '';
+    tokenCount = 0;
+
+    try {
+        const response = await fetch(`/api/agent/${agent.key}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ prompt: prompt })
+            body: JSON.stringify({ prompt })
         });
 
-        const data = await response.json();
-        
-        if (data.error) {
-            agentOutputArea.value = data.error;
-        } else {
-            agentOutputArea.value = data.output;
-            
-            // Checkpoints: Ideador (0), Arquitecto (1), Personajes (2), Escritor (3), Critico (4), Editor (5), Contador (6)
-            // Show checkpoints for human approval
-            btnGenerate.classList.add('hidden');
-            checkpointControls.classList.remove('hidden');
-            
-            if (agent === 'contador') {
-                btnApprove.textContent = "Finalizar y Guardar";
-            } else {
-                btnApprove.textContent = "Aprobar & Continuar";
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = '';
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+
+            buffer += decoder.decode(value, { stream: true });
+            const lines = buffer.split('\n');
+            buffer = lines.pop();   // keep incomplete line
+
+            for (const line of lines) {
+                if (line.startsWith('data: ')) {
+                    try {
+                        const data = JSON.parse(line.slice(6));
+                        if (data.token) {
+                            agentOutput.value += data.token;
+                            tokenCount++;
+                            tokenCountEl.textContent = `${tokenCount} tokens`;
+                            // Auto-scroll output
+                            agentOutput.scrollTop = agentOutput.scrollHeight;
+                        }
+                        if (data.done) {
+                            streamStatus.classList.add('hidden');
+                            btnGenerate.classList.add('hidden');
+                            checkpointControls.classList.remove('hidden');
+                            loader.classList.add('hidden');
+                            btnText.textContent = agent.verb;
+
+                            if (step === AGENTS.length - 1) {
+                                btnApprove.textContent = '✦ Finalizar';
+                            } else {
+                                btnApprove.textContent = 'Aprobar & Continuar →';
+                            }
+                        }
+                    } catch (e) { /* skip malformed */ }
+                }
             }
         }
-    } catch (error) {
-        agentOutputArea.value = "Error de red: No se pudo conectar con el servidor Flask. " + error;
-    } finally {
-        btnGenerate.disabled = false;
+
+        // In case stream ended without 'done' flag
+        streamStatus.classList.add('hidden');
         loader.classList.add('hidden');
-        btnText.textContent = `Generar (${agent.charAt(0).toUpperCase() + agent.slice(1)})`;
+        if (!checkpointControls.classList.contains('hidden')) return;
+        btnGenerate.classList.add('hidden');
+        checkpointControls.classList.remove('hidden');
+
+    } catch (err) {
+        agentOutput.value = `[Error de conexión: ${err.message}]`;
+        streamStatus.classList.add('hidden');
+        loader.classList.add('hidden');
+        btnGenerate.disabled = false;
+        btnText.textContent = agent.verb;
     }
 }
 
 btnGenerate.addEventListener('click', () => {
-    const currentAgent = steps[currentStepIndex];
-    if (currentStepIndex === 0 && userPromptArea.value.trim() === '') {
-        alert("Por favor, ingrese una premisa inicial antes de comenzar.");
+    if (step === 0 && !userPrompt.value.trim()) {
+        userPrompt.focus();
+        userPrompt.style.borderColor = '#cc3333';
+        setTimeout(() => userPrompt.style.borderColor = '', 2000);
         return;
     }
-    
-    // Guardo la premisa inicial si es el primer paso
-    if (currentStepIndex === 0) {
-        storyContext.premisa = userPromptArea.value;
-    }
-
-    callAgent(currentAgent);
+    if (step === 0) ctx.premisa = userPrompt.value;
+    callAgent();
 });
 
 btnReject.addEventListener('click', () => {
-    // Regenerate current step
-    callAgent(steps[currentStepIndex]);
+    checkpointControls.classList.add('hidden');
+    btnGenerate.classList.remove('hidden');
+    callAgent();
 });
 
 btnApprove.addEventListener('click', () => {
-    const currentAgent = steps[currentStepIndex];
-    
-    // Save the (potentially edited) output into context
-    storyContext[currentAgent] = agentOutputArea.value;
-    
-    if (currentStepIndex < steps.length - 1) {
-        // Move to next step
-        currentStepIndex++;
-        
-        // Hide the editable input if we are past ideador, show it as context
-        if (currentStepIndex === 1) {
-            userPromptArea.value = "Contexto guardado. Avanzando por el pipeline...";
-            userPromptArea.disabled = true;
-            promptLabel.textContent = "Estado:";
+    // Save edited output
+    ctx[AGENTS[step].key] = agentOutput.value;
+
+    if (step < AGENTS.length - 1) {
+        step++;
+        if (step === 1) {
+            userPrompt.value = ctx.premisa;
+            userPrompt.disabled = true;
+            userPrompt.style.opacity = '0.5';
+            promptLabel.textContent = 'Premisa (bloqueada)';
         }
-        
-        updateUIForStep(currentStepIndex);
-        
-        // Auto-trigger next steps up to Writer to minimize clicking
-        if (['arquitecto', 'personajes', 'critico', 'contador'].includes(steps[currentStepIndex])) {
-            callAgent(steps[currentStepIndex]);
+        updateUI();
+        // Auto-fire non-interactive agents
+        if (['arquitecto', 'personajes', 'critico', 'contador'].includes(AGENTS[step].key)) {
+            callAgent();
         }
-        
     } else {
-        alert("¡Pipeline Completado! El documento final está listo para ser guardado en La Voûte.");
-        // Here we could add a save to disk feature
+        alert('¡Pipeline completado! El relato final está listo.');
     }
 });
 
-// Init UI
-updateUIForStep(0);
+// Init
+updateUI();
