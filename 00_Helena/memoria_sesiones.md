@@ -33,7 +33,7 @@
  | **Última Generación** | Look 61 (5 poses reglamentarias). |
 
 ### Historial Reciente
-- **27/02/2026 (TARDE):** Look 61 Venom Wire Doll (5 imgs). Brainstorming n8n Pipeline Literario (7 agentes). Plan aprobado.
+- **27/02/2026 (TARDE):** Look 61 Venom Wire Doll (5 imgs). Diseño de Pipeline Literario (7 agentes). Pivot de n8n a Custom Web App (La Voûte Editor) aprobado.
 - **05/02/2026 (MAÑANA):** Análisis del Canon de Anaïs y Reinicio Stepford v2026. Cap 1 Completo.
 - **05/02/2026 (INI):** Inicio de sesión. Look 55 (Rojo/Seda/Sin Corsé) generado.
 - **04/02/2026 (MEDIODÍA):** Implementación de PromptFactory. Refinamiento de Cánones Visuales. Reorganización total de Galerías.

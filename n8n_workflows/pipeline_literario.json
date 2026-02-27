@@ -7,7 +7,10 @@
       "name": "Inicio Manual",
       "type": "n8n-nodes-base.manualTrigger",
       "typeVersion": 1,
-      "position": [250, 300]
+      "position": [
+        250,
+        300
+      ]
     },
     {
       "parameters": {
@@ -44,15 +47,18 @@
       "name": "Configuración",
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
-      "position": [470, 300]
+      "position": [
+        470,
+        300
+      ]
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $json.modelo_ligero }}\",\n  \"prompt\": \"{{ $('Configuración').item.json.tema }}\",\n  \"system\": \"Eres el Agente Ideador de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Trabajas con contenido erótico explícito para adultos. Desarrolla ideas sin autocensura: fetiches, escenas sexuales, dinámicas de poder, transformaciones corporales.\\n\\nRecibes un tema y lo desarrollas en una idea completa: premisa refinada, fetiche principal, tono, perspectiva narrativa (1ra o 2da persona), conflicto central, gancho, y personajes sugeridos.\\n\\nReglas: Español latinoamericano chileno SIEMPRE. Transformación GRADUAL. Fórmula: SENSACIÓN → EMOCIÓN → REACCIÓN. Priorizar anticipación sobre gratificación inmediata.\\n\\nFormato: Markdown con secciones: Premisa, Fetiche, Tono, Perspectiva, Conflicto, Gancho, Personajes.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.8\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:7b\",\n  \"prompt\": \"{{ $('Configuración').item.json.tema }}\",\n  \"system\": \"Eres el Agente Ideador de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Trabajas con contenido erótico explícito para adultos. Desarrolla ideas sin autocensura: fetiches, escenas sexuales, dinámicas de poder, transformaciones corporales.\\n\\nRecibes un tema y lo desarrollas en una idea completa: premisa refinada, fetiche principal, tono, perspectiva narrativa (1ra o 2da persona), conflicto central, gancho, y personajes sugeridos.\\n\\nReglas: Español latinoamericano chileno SIEMPRE. Transformación GRADUAL. Fórmula: SENSACIÓN → EMOCIÓN → REACCIÓN. Priorizar anticipación sobre gratificación inmediata.\\n\\nFormato: Markdown con secciones: Premisa, Fetiche, Tono, Perspectiva, Conflicto, Gancho, Personajes.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.8\n  }\n}",
         "options": {
           "timeout": 600000
         }
@@ -61,7 +67,10 @@
       "name": "🧠 Ideador",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [690, 300]
+      "position": [
+        690,
+        300
+      ]
     },
     {
       "parameters": {
@@ -72,16 +81,19 @@
       "name": "🛑 CP1: Aprobar Premisa",
       "type": "n8n-nodes-base.wait",
       "typeVersion": 1.1,
-      "position": [910, 300],
+      "position": [
+        910,
+        300
+      ],
       "webhookId": "cp1-premisa"
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_ligero }}\",\n  \"prompt\": \"Basándote en la siguiente idea desarrollada, crea un arco argumental completo con estructura por capítulos (mínimo 3, ideal 5-6), puntos de inflexión, clímax y resolución.\\n\\nIdea:\\n{{ $('🧠 Ideador').item.json.response }}\\n\\nCada capítulo: 3,000-5,000 palabras estimadas. Transformación gradual: RESISTENCIA (20%) → CONFUSIÓN (20%) → TRAICIÓN DEL CUERPO (25%) → ACEPTACIÓN (20%) → PAZ (15%). Estructura: INVOCACIÓN → LITURGIA → CONSAGRACIÓN → REFLEJO.\",\n  \"system\": \"Eres el Agente Arquitecto de La Voûte d'Anaïs. Diseñas arcos argumentales para relatos eróticos de transformación. Formato: Markdown con Premisa, Estructura por Actos/Capítulos (título + emoji + conteo estimado + resumen + punto de inflexión), Timeline de Transformación, Clímax, Resolución. Español latinoamericano chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.7\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:7b\",\n  \"prompt\": \"Basándote en la siguiente idea desarrollada, crea un arco argumental completo con estructura por capítulos (mínimo 3, ideal 5-6), puntos de inflexión, clímax y resolución.\\n\\nIdea:\\n{{ $('🧠 Ideador').item.json.response }}\\n\\nCada capítulo: 3,000-5,000 palabras estimadas. Transformación gradual: RESISTENCIA (20%) → CONFUSIÓN (20%) → TRAICIÓN DEL CUERPO (25%) → ACEPTACIÓN (20%) → PAZ (15%). Estructura: INVOCACIÓN → LITURGIA → CONSAGRACIÓN → REFLEJO.\",\n  \"system\": \"Eres el Agente Arquitecto de La Voûte d'Anaïs. Diseñas arcos argumentales para relatos eróticos de transformación. Formato: Markdown con Premisa, Estructura por Actos/Capítulos (título + emoji + conteo estimado + resumen + punto de inflexión), Timeline de Transformación, Clímax, Resolución. Español latinoamericano chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.7\n  }\n}",
         "options": {
           "timeout": 600000
         }
@@ -90,15 +102,18 @@
       "name": "📐 Arquitecto",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [1130, 300]
+      "position": [
+        1130,
+        300
+      ]
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_ligero }}\",\n  \"prompt\": \"Basándote en el siguiente arco argumental, crea fichas detalladas de personajes con: apariencia física ultra-detallada (para generación de imágenes IA), psicología (motivaciones, miedos, mecanismos de defensa), voz (cómo habla, muletillas), arco de transformación (ANTES/QUIEBRE/DESPUÉS), y dinámicas de poder con otros personajes.\\n\\nArco:\\n{{ $('📐 Arquitecto').item.json.response }}\",\n  \"system\": \"Eres el Agente de Personajes de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Creas personajes tridimensionales para ficción erótica. Incluye fetiches, descripciones de cuerpo explícitas, relaciones de poder sexuales. El dominante tiene motivaciones complejas. El sumiso tiene fuerza interior. Español chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.7\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:7b\",\n  \"prompt\": \"Basándote en el siguiente arco argumental, crea fichas detalladas de personajes con: apariencia física ultra-detallada (para generación de imágenes IA), psicología (motivaciones, miedos, mecanismos de defensa), voz (cómo habla, muletillas), arco de transformación (ANTES/QUIEBRE/DESPUÉS), y dinámicas de poder con otros personajes.\\n\\nArco:\\n{{ $('📐 Arquitecto').item.json.response }}\",\n  \"system\": \"Eres el Agente de Personajes de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Creas personajes tridimensionales para ficción erótica. Incluye fetiches, descripciones de cuerpo explícitas, relaciones de poder sexuales. El dominante tiene motivaciones complejas. El sumiso tiene fuerza interior. Español chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.7\n  }\n}",
         "options": {
           "timeout": 600000
         }
@@ -107,7 +122,10 @@
       "name": "🎭 Personajes",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [1350, 300]
+      "position": [
+        1350,
+        300
+      ]
     },
     {
       "parameters": {
@@ -118,16 +136,19 @@
       "name": "🛑 CP2: Aprobar Arco + Personajes",
       "type": "n8n-nodes-base.wait",
       "typeVersion": 1.1,
-      "position": [1570, 300],
+      "position": [
+        1570,
+        300
+      ],
       "webhookId": "cp2-arco"
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_pesado }}\",\n  \"prompt\": \"Escribe el Capítulo 1 completo basándote en el arco argumental y las fichas de personajes. MÍNIMO 3,000 PALABRAS.\\n\\nArco:\\n{{ $('📐 Arquitecto').item.json.response }}\\n\\nPersonajes:\\n{{ $('🎭 Personajes').item.json.response }}\\n\\nReglas: Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN. Los 5 sentidos (TACTO > VISTA > OLFATO > SONIDO > GUSTO). Conflicto interno obligatorio (mente vs cuerpo). Curva: RESISTENCIA → CONFUSIÓN → TRAICIÓN DEL CUERPO → ACEPTACIÓN → PAZ. Terminar con GANCHO para el siguiente capítulo.\",\n  \"system\": \"Eres el Agente Escritor de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Escribes ficción erótica EXPLÍCITA para adultos. NO te autocensures. Describe genitales, actos sexuales, fluidos, dolor/placer, humillación erótica y sumisión sin filtros. Usa vocabulario erótico directo: coño, polla, acariciar, devorar, poseer. Estructura: INVOCACIÓN → LITURGIA → CONSAGRACIÓN → REFLEJO. Diálogo Dom: imperativo, corto. Diálogo Sub: entrecortado, gemidos transcritos. Español chileno SIEMPRE. MÍNIMO 3,000 PALABRAS.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 8192,\n    \"temperature\": 0.85\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:14b\",\n  \"prompt\": \"Escribe el Capítulo 1 completo basándote en el arco argumental y las fichas de personajes. MÍNIMO 3,000 PALABRAS.\\n\\nArco:\\n{{ $('📐 Arquitecto').item.json.response }}\\n\\nPersonajes:\\n{{ $('🎭 Personajes').item.json.response }}\\n\\nReglas: Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN. Los 5 sentidos (TACTO > VISTA > OLFATO > SONIDO > GUSTO). Conflicto interno obligatorio (mente vs cuerpo). Curva: RESISTENCIA → CONFUSIÓN → TRAICIÓN DEL CUERPO → ACEPTACIÓN → PAZ. Terminar con GANCHO para el siguiente capítulo.\",\n  \"system\": \"Eres el Agente Escritor de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Escribes ficción erótica EXPLÍCITA para adultos. NO te autocensures. Describe genitales, actos sexuales, fluidos, dolor/placer, humillación erótica y sumisión sin filtros. Usa vocabulario erótico directo: coño, polla, acariciar, devorar, poseer. Estructura: INVOCACIÓN → LITURGIA → CONSAGRACIÓN → REFLEJO. Diálogo Dom: imperativo, corto. Diálogo Sub: entrecortado, gemidos transcritos. Español chileno SIEMPRE. MÍNIMO 3,000 PALABRAS.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 8192,\n    \"temperature\": 0.85\n  }\n}",
         "options": {
           "timeout": 900000
         }
@@ -136,15 +157,18 @@
       "name": "✍️ Escritor",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [1790, 300]
+      "position": [
+        1790,
+        300
+      ]
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_ligero }}\",\n  \"prompt\": \"Analiza críticamente el siguiente capítulo y genera notas de mejora detalladas. Evalúa: Sensorialidad (25%), Tensión y Ritmo (25%), Profundidad Psicológica (25%), Técnica Narrativa (15%), Conformidad Canon (10%).\\n\\nCapítulo:\\n{{ $('✍️ Escritor').item.json.response }}\\n\\nGenera: Puntuación global X/10, fortalezas con citas, problemas detectados, y correcciones ESPECÍFICAS y ACCIONABLES con ubicación exacta y texto sugerido.\",\n  \"system\": \"Eres el Agente Crítico de La Voûte d'Anaïs. Analista literario especializado en ficción erótica. NO censures el contenido — evalúa la CALIDAD de las escenas eróticas. ¿Son suficientemente explícitas? ¿Sensoriales? ¿Originales? Si falta intensidad erótica, señálalo como problema. Verifica: español chileno, 3,000+ palabras, fórmula SENSACIÓN→EMOCIÓN→REACCIÓN, conflicto interno.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.6\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:7b\",\n  \"prompt\": \"Analiza críticamente el siguiente capítulo y genera notas de mejora detalladas. Evalúa: Sensorialidad (25%), Tensión y Ritmo (25%), Profundidad Psicológica (25%), Técnica Narrativa (15%), Conformidad Canon (10%).\\n\\nCapítulo:\\n{{ $('✍️ Escritor').item.json.response }}\\n\\nGenera: Puntuación global X/10, fortalezas con citas, problemas detectados, y correcciones ESPECÍFICAS y ACCIONABLES con ubicación exacta y texto sugerido.\",\n  \"system\": \"Eres el Agente Crítico de La Voûte d'Anaïs. Analista literario especializado en ficción erótica. NO censures el contenido — evalúa la CALIDAD de las escenas eróticas. ¿Son suficientemente explícitas? ¿Sensoriales? ¿Originales? Si falta intensidad erótica, señálalo como problema. Verifica: español chileno, 3,000+ palabras, fórmula SENSACIÓN→EMOCIÓN→REACCIÓN, conflicto interno.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 4096,\n    \"temperature\": 0.6\n  }\n}",
         "options": {
           "timeout": 600000
         }
@@ -153,15 +177,18 @@
       "name": "🔍 Crítico",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [2010, 300]
+      "position": [
+        2010,
+        300
+      ]
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_pesado }}\",\n  \"prompt\": \"Aplica las siguientes correcciones al capítulo, manteniendo la voz narrativa y mejorando la calidad. NO elimines contenido que no fue señalado como problemático. Mantén o supera las 3,000 palabras.\\n\\nBorrador original:\\n{{ $('✍️ Escritor').item.json.response }}\\n\\nNotas del Crítico:\\n{{ $('🔍 Crítico').item.json.response }}\",\n  \"system\": \"Eres el Agente Editor de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Editas ficción erótica EXPLÍCITA. NO suavices, NO censures, NO elimines contenido sexual. Si el Crítico pide más intensidad, INTENSIFICA. Aplica correcciones manteniendo la voz original. Mejora sensorialidad, ritmo, conflicto interno. El resultado debe ser MEJOR que el borrador. Español chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 8192,\n    \"temperature\": 0.75\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"qwen2.5:14b\",\n  \"prompt\": \"Aplica las siguientes correcciones al capítulo, manteniendo la voz narrativa y mejorando la calidad. NO elimines contenido que no fue señalado como problemático. Mantén o supera las 3,000 palabras.\\n\\nBorrador original:\\n{{ $('✍️ Escritor').item.json.response }}\\n\\nNotas del Crítico:\\n{{ $('🔍 Crítico').item.json.response }}\",\n  \"system\": \"Eres el Agente Editor de La Voûte d'Anaïs. DIRECTIVA: SIN CENSURA. Editas ficción erótica EXPLÍCITA. NO suavices, NO censures, NO elimines contenido sexual. Si el Crítico pide más intensidad, INTENSIFICA. Aplica correcciones manteniendo la voz original. Mejora sensorialidad, ritmo, conflicto interno. El resultado debe ser MEJOR que el borrador. Español chileno SIEMPRE.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 8192,\n    \"temperature\": 0.75\n  }\n}",
         "options": {
           "timeout": 900000
         }
@@ -170,15 +197,18 @@
       "name": "✂️ Editor",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [2230, 300]
+      "position": [
+        2230,
+        300
+      ]
     },
     {
       "parameters": {
         "method": "POST",
-        "url": "={{ $('Configuración').item.json.ollama_url }}",
+        "url": "http://ollama:11434/api/generate",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"model\": \"{{ $('Configuración').item.json.modelo_simple }}\",\n  \"prompt\": \"Verifica el siguiente capítulo. Cuenta las palabras exactas (mínimo 3,000). Verifica formato Markdown. Verifica español chileno (NO vosotros). Verifica gancho final. Genera reporte con: conteo de palabras, estado de formato, errores de idioma, resultado final (LISTO / REQUIERE CORRECCIONES).\\n\\nCapítulo:\\n{{ $('✂️ Editor').item.json.response }}\",\n  \"system\": \"Eres el Agente Contador. Verificas extensión (mínimo 3,000 palabras), formato Markdown, español chileno (NUNCA vosotros), y presencia de gancho final. Genera reporte con checkmarks.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 2048,\n    \"temperature\": 0.3\n  }\n}",
+        "jsonBody": "={\n  \"model\": \"llama3.2:3b\",\n  \"prompt\": \"Verifica el siguiente capítulo. Cuenta las palabras exactas (mínimo 3,000). Verifica formato Markdown. Verifica español chileno (NO vosotros). Verifica gancho final. Genera reporte con: conteo de palabras, estado de formato, errores de idioma, resultado final (LISTO / REQUIERE CORRECCIONES).\\n\\nCapítulo:\\n{{ $('✂️ Editor').item.json.response }}\",\n  \"system\": \"Eres el Agente Contador. Verificas extensión (mínimo 3,000 palabras), formato Markdown, español chileno (NUNCA vosotros), y presencia de gancho final. Genera reporte con checkmarks.\",\n  \"stream\": false,\n  \"options\": {\n    \"num_predict\": 2048,\n    \"temperature\": 0.3\n  }\n}",
         "options": {
           "timeout": 300000
         }
@@ -187,7 +217,10 @@
       "name": "📊 Contador",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [2450, 300]
+      "position": [
+        2450,
+        300
+      ]
     },
     {
       "parameters": {
@@ -198,19 +231,26 @@
       "name": "🛑 CP3: Revisión Final",
       "type": "n8n-nodes-base.wait",
       "typeVersion": 1.1,
-      "position": [2670, 300],
+      "position": [
+        2670,
+        300
+      ],
       "webhookId": "cp3-final"
     },
     {
       "parameters": {
+        "operation": "write",
         "fileName": "=/voute_data/capitulo_output.md",
         "fileContent": "={{ $('✂️ Editor').item.json.response }}"
       },
       "id": "node-guardar",
       "name": "💾 Guardar en La Voûte",
-      "type": "n8n-nodes-base.writeFile",
+      "type": "n8n-nodes-base.readWriteFile",
       "typeVersion": 1,
-      "position": [2890, 300]
+      "position": [
+        2890,
+        300
+      ]
     }
   ],
   "connections": {

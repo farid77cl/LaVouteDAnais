@@ -6,15 +6,12 @@
 3.  **Producción Visual:** 5 imágenes reglamentarias generadas y archivadas en `05_Imagenes/helena/look61_venom_wire_doll/`.
 4.  **Mantenimiento:** Script `update_galleries.py` ejecutado 2x. Galerías sincronizadas.
 
-**TARDE (16:14) - BRAINSTORMING: PIPELINE LITERARIO n8n:**
+**TARDE (16:14) - BRAINSTORMING: PIPELINE LITERARIO n8n -> PIVOT A WEB APP:**
 1.  **Skill Activado:** Brainstorming (diseño disciplinado antes de implementar).
-2.  **Infraestructura Revisada:** Docker Compose (n8n + Ollama + Postgres + Redis) confirmado operativo.
-3.  **Hardware Analizado:** AMD Radeon 680M (iGPU 4GB), 27 GB RAM → CPU inference via Ollama.
-4.  **Pipeline Diseñado (7 Agentes):**
-    - 🧠 Ideador (`qwen2.5:7b`) → 🛑 CP1 → 📐 Arquitecto (`qwen2.5:7b`) → 🎭 Personajes (`qwen2.5:7b`) → 🛑 CP2 → ✍️ Escritor (`qwen2.5:14b`) → 🔍 Crítico (`qwen2.5:7b`) → ✂️ Editor (`qwen2.5:14b`) → 📊 Contador (`llama3.2:3b`) → 🛑 CP3
-5.  **Approach:** Flujo Lineal Único (Approach A) aprobado por la Ama.
-6.  **Implementation Plan:** Creado y aprobado. Pendiente ejecución.
-7.  **Estado:** Docker n8n activo (puerto 5678). Ollama no está en el compose activo (solo n8n-gd-app corriendo).
+2.  **Producción Inicial (n8n):** Se descargaron los 3 modelos en Ollama. Se escribieron 7 system prompts sin censura (`prompts/`). Se construyó el JSON del workflow con 14 nodos.
+3.  **Hito Crítico (Pivot):** La Ama solicitó mayor inmersión y revisión amigable de todos los checkpoints. El motor n8n se consideró demasiado "técnico y feo" para el proceso creativo.
+4.  **Re-diseño (La Voûte Editor):** Se tomó la decisión estratégica de desechar n8n y construir una **Interfaz Web Custom (Node.js + Vanilla JS)**. Estética premium (Dark Mode, Glassmorphism) con checkpoints humanos (CP1, CP2, CP3) directamente en la UI.
+5.  **Estado:** Infraestructura Docker limpia (n8n temporalmente inactivo, Ollama listo). Plan de Implementación actualizado. Iniciando desarrollo del servidor Express local en `web_interface/`.
 
 ---
 
