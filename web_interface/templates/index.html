@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Voûte Editor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Google Fonts: Playfair Display for headers, Inter for text -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        
+        <header class="top-nav">
+            <h1 class="brand-title">La Voûte <span class="neon-accent">Editor</span></h1>
+            <div class="progress-tracker">
+                <span class="step active" id="step-ideador">1. Ideador</span>
+                <span class="step" id="step-arquitecto">2. Estructura</span>
+                <span class="step" id="step-escritor">3. Escritor</span>
+                <span class="step" id="step-critico">4. Revisión</span>
+            </div>
+        </header>
+
+        <main class="workspace">
+            <!-- Sidebar for active agent info -->
+            <aside class="agent-panel">
+                <div class="agent-card active" id="card-ideador">
+                    <div class="agent-icon">🧠</div>
+                    <div class="agent-info">
+                        <h3>El Ideador</h3>
+                        <p>Qwen2.5:7b</p>
+                        <small>Desarrolla la premisa inicial, define fetiches y establece el tono Blackout Horror.</small>
+                    </div>
+                </div>
+                <div class="agent-card" id="card-arquitecto">
+                    <div class="agent-icon">📐🎭</div>
+                    <div class="agent-info">
+                        <h3>Arcos & PJs</h3>
+                        <p>Qwen2.5:7b</p>
+                        <small>Construye la macroestructura del relato y psicolgía profunda de las víctimas.</small>
+                    </div>
+                </div>
+                <div class="agent-card" id="card-escritor">
+                    <div class="agent-icon">✍️</div>
+                    <div class="agent-info">
+                        <h3>El Escritor</h3>
+                        <p>Qwen2.5:14b</p>
+                        <small>Prosa puramente sensorial. Mínimo 3000 palabras por capítulo.</small>
+                    </div>
+                </div>
+                <div class="agent-card" id="card-critico">
+                    <div class="agent-icon">🔍✂️</div>
+                    <div class="agent-info">
+                        <h3>Crítico & Editor</h3>
+                        <p>Qwen2.5:14b</p>
+                        <small>Evalúa pacing y corrige desviaciones de estilo.</small>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Main Editor Area -->
+            <section class="editor-area">
+                
+                <div class="io-container">
+                    
+                    <div class="input-section">
+                        <label for="user-prompt" id="prompt-label">Premisa Inicial:</label>
+                        <textarea id="user-prompt" placeholder="Una mujer descubre que su espejo inteligente le está robando su vocabulario y reduciendo sus pensamientos a estímulos sexuales cada vez que se desnuda frente a él..."></textarea>
+                    </div>
+                    
+                    <div class="action-bar">
+                        <button id="btn-generate" class="primary-btn">
+                            <span class="btn-text">Generar (Ideador)</span>
+                            <div class="loader hidden"></div>
+                        </button>
+                    </div>
+
+                    <div class="output-section">
+                        <label>Respuesta (Editable para el siguiente paso):</label>
+                        <textarea id="agent-output" placeholder="El texto del agente aparecerá aquí. Puedes editarlo antes de aprobarlo para el siguiente checkpoint."></textarea>
+                    </div>
+                    
+                    <div class="checkpoint-actions hidden" id="checkpoint-controls">
+                        <button id="btn-reject" class="danger-btn">Re-generar</button>
+                        <button id="btn-approve" class="success-btn">Aprobar & Continuar</button>
+                    </div>
+
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Script that powers the interactive flow -->
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
