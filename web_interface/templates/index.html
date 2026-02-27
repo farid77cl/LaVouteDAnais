@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Voûte d'Anaïs — Editor</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+
 <body>
     <div class="app-container">
-        
+
         <header class="top-nav">
             <div>
                 <h1 class="brand-title">La Voûte <span class="brand-accent">d'Anaïs</span></h1>
@@ -94,15 +96,17 @@
             <section class="editor-area">
                 <div class="input-section">
                     <label for="user-prompt" id="prompt-label">Tu premisa oscura</label>
-                    <textarea id="user-prompt" placeholder="Una mujer descubre que su espejo inteligente le está robando su vocabulario y reduciendo sus pensamientos a estímulos sexuales cada vez que se desnuda frente a él..."></textarea>
+                    <textarea id="user-prompt"
+                        placeholder="Una mujer descubre que su espejo inteligente le está robando su vocabulario y reduciendo sus pensamientos a estímulos sexuales cada vez que se desnuda frente a él..."></textarea>
                 </div>
-                
+
                 <div class="action-bar">
                     <div class="streaming-indicator hidden" id="stream-status">
                         <div class="streaming-dot"></div>
                         <span id="stream-agent-name">El Ideador está escribiendo...</span>
                         <span class="token-counter" id="token-count">0 tokens</span>
                     </div>
+                    <button id="btn-stop" class="danger-btn hidden">■ Detener</button>
                     <button id="btn-generate" class="primary-btn">
                         <span class="btn-text">Invocar al Ideador</span>
                         <div class="loader hidden"></div>
@@ -111,10 +115,12 @@
 
                 <div class="output-section">
                     <label>Respuesta del agente <small>(editable)</small></label>
-                    <textarea id="agent-output" placeholder="El texto del agente aparecerá aquí, token por token, mientras piensa. Puedes editarlo antes de aprobarlo."></textarea>
+                    <textarea id="agent-output"
+                        placeholder="El texto del agente aparecerá aquí, token por token, mientras piensa. Puedes editarlo antes de aprobarlo."></textarea>
                 </div>
-                
+
                 <div class="checkpoint-actions hidden" id="checkpoint-controls">
+                    <button id="btn-save" class="save-btn">💾 Guardar</button>
                     <button id="btn-reject" class="danger-btn">↻ Re-generar</button>
                     <button id="btn-approve" class="success-btn">Aprobar & Continuar →</button>
                 </div>
@@ -124,4 +130,5 @@
 
     <script src="{{ url_for('static', filename='app.js') }}"></script>
 </body>
+
 </html>
