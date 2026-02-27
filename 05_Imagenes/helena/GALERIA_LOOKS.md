@@ -380,6 +380,14 @@
 
 ---
 
+## 🕷️ Look 61: Venom Wire Doll
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look61_standing.png](look61_venom_wire_doll/helena_look61_standing.png) | ![helena_look61_seated.png](look61_venom_wire_doll/helena_look61_seated.png) | ![helena_look61_side_profile.png](look61_venom_wire_doll/helena_look61_side_profile.png) | ![helena_look61_back_view.png](look61_venom_wire_doll/helena_look61_back_view.png) | ![helena_look61_ditzy.png](look61_venom_wire_doll/helena_look61_ditzy.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -388,4 +396,4 @@
 
 ---
 
-*Galería generada automáticamente - 12/02/2026* 🦇
+*Galería generada automáticamente - 27/02/2026* 🦇
