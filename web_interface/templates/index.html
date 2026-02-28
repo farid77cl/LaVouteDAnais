@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Voûte d'Anaïs — Editor</title>
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦇</text></svg>">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
@@ -15,6 +17,9 @@
             <div>
                 <h1 class="brand-title">La Voûte <span class="brand-accent">d'Anaïs</span></h1>
                 <span class="brand-sub">Pipeline Literario · 7 Agentes</span>
+            </div>
+            <div class="header-actions">
+                <button id="btn-load" class="icon-btn" title="Cargar sesión guardada">📂</button>
             </div>
             <div class="progress-tracker">
                 <span class="step active" id="step-0">Premisa</span>
@@ -120,12 +125,46 @@
                 </div>
 
                 <div class="checkpoint-actions hidden" id="checkpoint-controls">
+                    <button id="btn-feedback" class="feedback-btn" title="Enseñar al sistema">🧠 Feedback</button>
                     <button id="btn-save" class="save-btn">💾 Guardar</button>
                     <button id="btn-reject" class="danger-btn">↻ Re-generar</button>
                     <button id="btn-approve" class="success-btn">Aprobar & Continuar →</button>
                 </div>
             </section>
         </main>
+    </div>
+
+    <!-- Modal: Feedback -->
+    <div class="modal-overlay hidden" id="feedback-modal">
+        <div class="modal">
+            <h3>🧠 Enseñar al Sistema</h3>
+            <p class="modal-sub">Este feedback se guarda en <code>preferencias_escritura.md</code> y se inyecta en
+                futuros agentes.</p>
+            <div class="feedback-type-selector">
+                <button class="fb-type active" data-type="like">👍 Me gusta</button>
+                <button class="fb-type" data-type="dislike">👎 No me gusta</button>
+                <button class="fb-type" data-type="nota">📝 Nota</button>
+            </div>
+            <textarea id="feedback-comment"
+                placeholder="Ej: 'Más modismos chilenos', 'La transición fue muy rápida', 'Este nivel de detalle sensorial es perfecto'..."></textarea>
+            <div class="modal-actions">
+                <button id="fb-cancel" class="danger-btn">Cancelar</button>
+                <button id="fb-submit" class="success-btn">Guardar Aprendizaje</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Load Session -->
+    <div class="modal-overlay hidden" id="load-modal">
+        <div class="modal">
+            <h3>📂 Cargar Sesión Guardada</h3>
+            <div id="saved-sessions-list" class="sessions-list">
+                <p class="modal-sub">Cargando sesiones...</p>
+            </div>
+            <div class="modal-actions">
+                <button id="load-cancel" class="danger-btn">Cancelar</button>
+            </div>
+        </div>
     </div>
 
     <script src="{{ url_for('static', filename='app.js') }}"></script>
