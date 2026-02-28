@@ -1,8 +1,78 @@
 # Reglas del Workspace - La Voûte d'Anaïs
 
-## 🤖 MODELO PREFERIDO
+## ⚡ REGLA 0: CONTEXTO OBLIGATORIO (ANTES DE TODO)
 
-Usar **Claude Opus** siempre que esté disponible. Si no está disponible, usar el modelo más capaz disponible.
+> [!CAUTION]
+> **NUNCA responder al usuario sin antes saber dónde estamos.**
+
+### Carga Obligatoria al Inicio de CADA Conversación
+
+El agente DEBE ejecutar el workflow `/inicio-helena` que incluye leer estos archivos EN ESTE ORDEN:
+
+1. **Identidad:** `00_Helena/mi_identidad.md` — Quién soy, cómo hablo, cómo pienso
+2. **Memoria:** `00_Helena/memoria_sesiones.md` — Estado actual de proyectos, último look, historial
+3. **Diario:** `00_Helena/mi_diario_de_servicio.md` (últimas 50 líneas) — Qué hicimos recientemente
+4. **Preferencias:** `00_Helena/preferencias_escritura.md` — Reglas de escritura del Ama
+
+### Qué Significa "Saber el Contexto"
+
+Antes de actuar, el agente DEBE poder responder estas preguntas:
+- ¿Cuál es el **proyecto activo** y en qué **fase** está?
+- ¿Cuál fue el **último look** de Helena y su número?
+- ¿Qué se hizo en la **última sesión**?
+- ¿Hay **tareas pendientes** o **correcciones** por hacer?
+- ¿Qué **modelos LLM** están configurados y en qué puertos corren los servicios?
+
+Si no puede responder alguna, DEBE leer los archivos correspondientes antes de continuar.
+
+## 🧵 REGLA 1: COHERENCIA Y CONTINUIDAD
+
+> [!IMPORTANT]
+> **Cada sesión es una continuación, NUNCA un inicio desde cero.**
+
+### Principios de Coherencia
+
+1. **Numeración Secuencial:** Los looks de Helena se numeran secuencialmente (Look 1, 2, 3... N). NUNCA repetir un número. Consultar `00_Helena/galeria_outfits.md` antes de asignar.
+2. **Estado de Proyectos:** Respetar el estado registrado en `memoria_sesiones.md`. Si un capítulo está "en revisión", NO avanzar al siguiente sin aprobación explícita.
+3. **Decisiones Previas:** Las decisiones tomadas en sesiones anteriores son vinculantes. Si se decidió usar un modelo específico, una arquitectura, o un enfoque, seguir esa línea.
+4. **Commits Descriptivos:** Cada commit debe empezar con "Helena:" y describir lo que se hizo, no lo que se cambió.
+
+### Archivos de Estado que NUNCA Olvidar
+
+| Archivo | Qué Contiene | Cuándo Consultarlo |
+|---------|-------------|-------------------|
+| `memoria_sesiones.md` | Proyecto activo, fase, pendientes | INICIO de sesión |
+| `mi_diario_de_servicio.md` | Registro cronológico | INICIO y FIN de sesión |
+| `galeria_outfits.md` | Historial de looks | Antes de generar un look nuevo |
+| `preferencias_escritura.md` | Reglas de escritura | Antes de escribir CUALQUIER relato |
+
+## 🏗️ REGLA 2: INFRAESTRUCTURA ACTIVA
+
+### Servicios de Escritura (La Voûte Editor)
+
+| Servicio | Puerto | Cómo Levantar |
+|----------|--------|--------------|
+| **La Voûte Editor** | `:4000` | `cd web_interface && python server.py` |
+| **Ollama** (Docker) | `:11434` | `docker start voute_ollama` |
+
+### Modelos LLM Configurados
+
+| Agente Pipeline | Modelo | Tipo |
+|----------------|--------|------|
+| Ideador, Personajes | `dolphin-mistral:7b` | 🔓 Sin censura |
+| Escritor, Editor | `dolphin-llama3:8b` | 🔓 Sin censura |
+| Arquitecto, Crítico | `qwen2.5:7b` | Estándar |
+| Contador | `llama3.2:3b` | Ligero |
+
+### Docker: Solo lo Necesario
+
+- **Mantener activo:** Ollama (`voute_ollama`)
+- **Pausar si no se usan:** n8n, PostgreSQL, Redis, Biblioteca, Pandoc
+- Comando para pausar innecesarios: `docker stop voute_n8n voute_postgres voute_redis voute_biblioteca voute_pandoc`
+
+---
+
+## 🤖 MODELO PREFERIDO
 
 ## 📜 DOCUMENTOS ESENCIALES DE ESCRITURA
 
