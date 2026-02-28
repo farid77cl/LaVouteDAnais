@@ -51,43 +51,72 @@ Chaque mot est un décret. Chaque image, un testament.
 
 ```
 LaVouteDAnais/
-├── 00_Helena/                  # 🧠 Cerebro de Helena
-│   ├── mi_identidad.md         # Quién soy, cómo actúo
-│   ├── bancos_prompts/         # 56 bancos temáticos (~3,100+ prompts)
-│   ├── galeria_outfits.md      # 42 looks canónicos
-│   └── memoria_sesiones.md     # Historial de decisiones
 │
-├── 01_Canon/                   # 📜 Filosofía y lore
-│   ├── guia_escritura_erotica.md
-│   ├── visual_canon.md
-│   └── reglas_de_transformacion.md
+├── 00_Helena/                  # 🧠 Cerebro de Helena (identidad, memoria, outfits)
+│   ├── mi_identidad.md         # Quién soy, cómo actúo
+│   ├── memoria_sesiones.md     # Estado actual de proyectos e historial
+│   ├── mi_diario_de_servicio.md # Registro cronológico de sesiones
+│   ├── preferencias_escritura.md # Reglas de escritura del Ama
+│   ├── galeria_outfits.md      # Catálogo de looks (62+)
+│   └── bancos_prompts/         # Bancos temáticos de prompts visuales
+│
+├── 01_Canon/                   # 📜 Filosofía, lore y reglas de escritura
+│   ├── el_ritual_de_la_creacion.md  # Las 10 fases obligatorias
+│   ├── guia_escritura_erotica.md    # Guía maestra narrativa
+│   ├── guia_escritura_trances.md    # Técnicas de hipnosis
+│   ├── visual_canon.md             # Canon visual de personajes
+│   └── reglas_de_transformacion.md  # Lógica de transformaciones
 │
 ├── 02_Personajes/              # 👤 Fichas de personajes
-│   ├── arcos_argumentales/
-│   └── fichas individuales
+│   └── arcos_argumentales/     # Arcos narrativos
 │
 ├── 03_Literatura/              # 📚 Relatos del universo
-│   ├── en_progreso/
-│   ├── finalizadas/
-│   └── publicadas/
+│   ├── 02_Terminados/          # Relatos finalizados
+│   ├── 03_En_progreso/         # Borradores y pipeline activo
+│   └── investigacion/          # Investigación para relatos
 │
-├── 05_Imagenes/                # 🎨 Arte Visual
-│   ├── helena/                 # 393 imágenes archivadas
-│   ├── miss_doll/
-│   └── anais/
+├── 04_Interactivo/             # 📺 Contenido interactivo (The Dollhouse)
 │
-├── 05_Interactivo/             # 📺 Contenido Interactivo (NUEVO)
-│   └── the_dollhouse/          # Reality show con votación
+├── 05_Imagenes/                # 🎨 Arte visual generado
+│   ├── helena/                 # Looks de Helena (62+ carpetas)
+│   ├── miss_doll/              # Imágenes de Miss Doll
+│   ├── comics/                 # Cómics y secuencias
+│   └── GALERIA.md              # Galería maestra
 │
-├── 06_Monetizacion/            # 💰 Monetización (NUEVO)
-│   ├── kofi/
-│   └── plataformas/
+├── 07_Recursos/                # 📦 Referencias externas e investigación
+│   ├── links_foros_y_articulos/
+│   └── referencias_visuales/
 │
-├── 07_Recursos/                # 📦 Referencias externas
+├── 99_Sistema/                 # ⚙️ Scripts internos
+│   ├── scripts/                # Automatización (prompt factory, etc.)
+│   └── temp/                   # Archivos temporales
 │
-├── .agent/workflows/           # ⚙️ Automatización
+├── web_interface/              # 🌐 La Voûte Editor (Pipeline de escritura)
+│   ├── server.py               # Backend Flask (SSE streaming a Ollama)
+│   ├── templates/index.html    # UI con 7 tarjetas de agente
+│   ├── static/style.css        # Estética La Voûte
+│   ├── static/app.js           # Máquina de estados JS
+│   └── README.md               # Documentación técnica completa
 │
-└── README.md
+├── prompts/                    # 📝 System prompts para los 7 agentes LLM
+│   ├── ideador.md              # Brainstorming de premisas
+│   ├── arquitecto.md           # Estructura narrativa
+│   ├── personajes.md           # Fichas de personajes
+│   ├── escritor.md             # Prosa erótica
+│   ├── critico.md              # Evaluación literaria
+│   ├── editor.md               # Corrección y reescritura
+│   └── contador.md             # Métricas de extensión
+│
+├── n8n_workflows/              # 🔄 Workflow n8n (legacy, reemplazado por web_interface)
+│
+├── .agent/                     # 🤖 Configuración del agente IA
+│   ├── rules.md                # Reglas del workspace
+│   ├── skills/                 # Skills especializados
+│   └── workflows/              # Workflows automatizados
+│
+├── docker-compose.yml          # 🐳 Docker: Ollama + servicios auxiliares
+├── .env                        # Variables de entorno (credenciales)
+└── README.md                   # Este archivo
 ```
 
 ---
