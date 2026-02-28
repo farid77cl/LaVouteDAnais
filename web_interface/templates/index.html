@@ -16,7 +16,16 @@
         <header class="top-nav">
             <div>
                 <h1 class="brand-title">La Voûte <span class="brand-accent">d'Anaïs</span></h1>
-                <span class="brand-sub">Pipeline Literario · 7 Agentes</span>
+                <div style="display: flex; gap: 1rem; align-items: center; margin-top: 2px;">
+                    <span class="brand-sub" style="margin-top:0">Pipeline Literario · 7 Agentes</span>
+                    <select id="chapter-select" class="dropdown">
+                        <option value="1">Capítulo 1</option>
+                        <option value="2">Capítulo 2</option>
+                        <option value="3">Capítulo 3</option>
+                        <option value="4">Capítulo 4</option>
+                        <option value="5">Capítulo 5</option>
+                    </select>
+                </div>
             </div>
             <div class="header-actions">
                 <button id="btn-load" class="icon-btn" title="Cargar sesión guardada">📂</button>
@@ -126,6 +135,8 @@
                 </div>
 
                 <div class="checkpoint-actions hidden" id="checkpoint-controls">
+                    <button id="btn-export" class="icon-btn" title="Exportar a HTML" style="margin-right:auto">📄
+                        HTML</button>
                     <button id="btn-feedback" class="feedback-btn" title="Enseñar al sistema">🧠 Feedback</button>
                     <button id="btn-save" class="save-btn">💾 Guardar</button>
                     <button id="btn-reject" class="danger-btn">↻ Re-generar</button>

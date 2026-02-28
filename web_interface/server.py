@@ -247,7 +247,7 @@ def load_session(filename):
 
 @app.route('/api/chat', methods=['POST'])
 def chat_mentor():
-    """Multi-turn conversation with El Confesor mentor agent."""
+    """Multi-turn streaming conversation with El Confesor mentor agent."""
     data = request.json
     message = data.get('message', '')
     history = data.get('history', [])
@@ -263,26 +263,120 @@ def chat_mentor():
     conv_parts = []
     if sample:
         conv_parts.append(f"[Texto del agente '{agent_context}' que estamos discutiendo]:\n{sample}\n---")
-    for msg in history[:-1]:  # Exclude last message (it's the current one)
+    for msg in history[:-1]:
         role = "AUTORA" if msg['role'] == 'user' else "CONFESOR"
         conv_parts.append(f"{role}: {msg['content']}")
     conv_parts.append(f"AUTORA: {message}")
 
     prompt = "\n\n".join(conv_parts) + "\n\nCONFESOR:"
 
+    payload = {
+        "model": "dolphin-mistral:7b",
+        "system": system_prompt,
+        "prompt": prompt,
+        "stream": True,
+        "options": {"num_predict": 512, "temperature": 0.7, "repeat_penalty": 1.2}
+    }
+
+    def generate():
+        try:
+            with requests.post(OLLAMA_URL, json=payload, stream=True, timeout=120) as resp:
+                resp.raise_for_status()
+                for line in resp.iter_lines():
+                    if line:
+                        chunk = json.loads(line)
+                        token = chunk.get('response', '')
+                        done = chunk.get('done', False)
+                        yield f"data: {json.dumps({'token': token, 'done': done})}\n\n"
+        except Exception as e:
+            yield f"data: {json.dumps({'token': f'[Error: {str(e)}]', 'done': True})}\n\n"
+
+    return Response(
+        stream_with_context(generate()),
+        mimetype='text/event-stream',
+        headers={'Cache-Control': 'no-cache', 'X-Accel-Buffering': 'no'}
+    )
+
+@app.route('/api/export', methods=['POST'])
+def export_html():
+    """Export a saved session or current pipeline as styled HTML."""
+    import subprocess, tempfile
+    data = request.json
+    content = data.get('content', '')
+    title = data.get('title', 'La Voûte d\'Anaïs')
+
+    if not content:
+        return jsonify({"error": "Contenido vacío"}), 400
+
+    # Add title header
+    md_content = f"# {title}\n\n{content}"
+
+    # Try Pandoc Docker first
     try:
-        resp = requests.post(OLLAMA_URL, json={
-            "model": "dolphin-mistral:7b",
-            "system": system_prompt,
-            "prompt": prompt,
-            "stream": False,
-            "options": {"num_predict": 512, "temperature": 0.7, "repeat_penalty": 1.2}
-        }, timeout=120)
-        resp.raise_for_status()
-        response_text = resp.json().get('response', '').strip()
-        return jsonify({"response": response_text})
-    except Exception as e:
-        return jsonify({"response": f"[Error: {str(e)}]"}), 500
+        result = subprocess.run(
+            ['docker', 'start', 'voute_pandoc'],
+            capture_output=True, timeout=10
+        )
+    except: pass
+
+    export_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), '03_Literatura', '04_Exportados')
+    os.makedirs(export_dir, exist_ok=True)
+
+    import datetime
+    slug = title[:30].strip().replace(' ', '_').lower()
+    slug = ''.join(c for c in slug if c.isalnum() or c == '_')
+    ts = datetime.datetime.now().strftime('%Y%m%d_%H%M')
+    filename = f"{slug}_{ts}.html"
+    filepath = os.path.join(export_dir, filename)
+
+    # Write temp md file
+    md_path = os.path.join(export_dir, f"_temp_{ts}.md")
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(md_content)
+
+    # Try Pandoc Docker
+    try:
+        result = subprocess.run(
+            ['docker', 'exec', 'voute_pandoc', 'pandoc',
+             '-f', 'markdown', '-t', 'html5', '--standalone',
+             '--metadata', f'title={title}',
+             '-c', 'https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css'],
+            input=md_content.encode('utf-8'),
+            capture_output=True, timeout=30
+        )
+        if result.returncode == 0:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(result.stdout.decode('utf-8'))
+            os.remove(md_path)
+            app.logger.info(f"[EXPORT] Pandoc → {filepath}")
+            return jsonify({"ok": True, "path": filepath, "filename": filename, "method": "pandoc"})
+    except: pass
+
+    # Fallback: simple HTML wrap
+    html = f"""<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title} — La Voûte d'Anaïs</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
+    <style>body {{ max-width: 800px; font-size: 1.1rem; line-height: 1.8; }}</style>
+</head>
+<body>
+<article>
+{md_content.replace(chr(10), '<br>')}
+</article>
+</body>
+</html>"""
+
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(html)
+    
+    try: os.remove(md_path)
+    except: pass
+
+    app.logger.info(f"[EXPORT] Fallback HTML → {filepath}")
+    return jsonify({"ok": True, "path": filepath, "filename": filename, "method": "fallback"})
 
 @app.route('/api/status', methods=['GET'])
 def system_status():

@@ -4,9 +4,11 @@ const btnApprove = $('btn-approve');
 const btnReject = $('btn-reject');
 const btnStop = $('btn-stop');
 const btnSave = $('btn-save');
+const btnExport = $('btn-export');
 const btnFeedback = $('btn-feedback');
 const btnLoad = $('btn-load');
 const btnChat = $('btn-chat');
+const chapterSelect = $('chapter-select');
 const userPrompt = $('user-prompt');
 const agentOutput = $('agent-output');
 const loader = document.querySelector('.loader');
@@ -52,13 +54,16 @@ function updateUI() {
 function buildPrompt() {
     const a = AGENTS[step].key;
     const p = ctx.premisa || userPrompt.value;
+    const ch = parseInt(chapterSelect.value || 1);
+    const contextStr = ch > 1 ? `\nESTAMOS EN EL CAPÍTULO: ${ch}. Asegúrate de continuar la historia desde donde quedó el capítulo anterior.\n` : '';
+
     switch (a) {
         case 'ideador': return userPrompt.value;
         case 'arquitecto': return `PREMISA: ${p}\n\nPROPUESTA DEL IDEADOR:\n${ctx.ideador}\n\nGenera la estructura narrativa completa.`;
         case 'personajes': return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto}\n\nCrea fichas detalladas de personajes con descripción física, psicológica, fetiches y arco de transformación.`;
-        case 'escritor': return `PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo completo. Mínimo 3000 palabras.`;
-        case 'critico': return `ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO:\n${ctx.escritor}\n\nEvalúa tensión, ritmo, sensorialidad y extensión.`;
-        case 'editor': return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe manteniendo la voz.`;
+        case 'escritor': return `${contextStr}PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo ${ch} completo. Mínimo 3000 palabras.`;
+        case 'critico': return `${contextStr}ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO ${ch}:\n${ctx.escritor}\n\nEvalúa tensión, ritmo, sensorialidad y extensión.`;
+        case 'editor': return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ${ch} ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe manteniendo la voz.`;
         case 'contador': return `Evalúa este capítulo final:\n\n${ctx.editor || ctx.escritor}`;
     }
 }
@@ -134,7 +139,7 @@ async function callAgent() {
         if (err.name === 'AbortError') {
             finishStream(agent);
         } else {
-            agentOutput.value = `[Error: ${err.message}]\n\nVerifica que Ollama esté corriendo:\n  docker start voute_ollama`;
+            agentOutput.value = `[Error: ${err.message}]\n\nSi dice 'Failed to fetch', significa que el servidor Python se reinició mientras cargabas, interrumpiendo la conexión. Dale a Re-generar.\n\nVerifica que Ollama esté corriendo:\n  docker start voute_ollama`;
             streamStatus.classList.add('hidden');
             btnStop.classList.add('hidden');
             loader.classList.add('hidden');
@@ -200,7 +205,13 @@ async function saveState() {
     if (agentOutput.value.trim()) {
         ctx[AGENTS[step].key] = agentOutput.value.trim();
     }
-    const payload = { step, agent: AGENTS[step].key, premisa: ctx.premisa || userPrompt.value, context: ctx };
+    const payload = {
+        step,
+        agent: AGENTS[step].key,
+        premisa: ctx.premisa || userPrompt.value,
+        context: ctx,
+        chapter: chapterSelect.value
+    };
     try {
         btnSave.disabled = true; btnSave.textContent = '⏳ Guardando...';
         const res = await fetch('/api/save', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
@@ -213,6 +224,29 @@ async function saveState() {
     }
 }
 btnSave.addEventListener('click', () => saveState());
+
+// ═══ Export HTML ═══
+btnExport.addEventListener('click', async () => {
+    const content = agentOutput.value.trim();
+    if (!content) return;
+    try {
+        btnExport.disabled = true;
+        btnExport.textContent = '⏳ Exportando...';
+        const res = await fetch('/api/export', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ content: content, title: `${ctx.premisa ? ctx.premisa.substring(0, 30) : 'Capítulo ' + chapterSelect.value}...` })
+        });
+        const data = await res.json();
+        if (data.ok) {
+            btnExport.textContent = `✓ ${data.method}`;
+            setTimeout(() => { btnExport.textContent = '📄 HTML'; btnExport.disabled = false; }, 3000);
+        }
+    } catch (e) {
+        btnExport.textContent = '✗ Error';
+        setTimeout(() => { btnExport.textContent = '📄 HTML'; btnExport.disabled = false; }, 2000);
+    }
+});
 
 // ═══ Feedback Modal ═══
 let feedbackType = 'like';
@@ -281,6 +315,12 @@ async function sendChat() {
     appendChat('user', msg);
     chatHistory.push({ role: 'user', content: msg });
 
+    const msgDiv = document.createElement('div');
+    msgDiv.className = 'chat-msg chat-mentor';
+    msgDiv.textContent = '...';
+    chatMessages.appendChild(msgDiv);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+
     try {
         const res = await fetch('/api/chat', {
             method: 'POST',
@@ -292,12 +332,38 @@ async function sendChat() {
                 sample: agentOutput.value.substring(0, 500)
             })
         });
-        const data = await res.json();
-        appendChat('mentor', data.response);
-        chatHistory.push({ role: 'assistant', content: data.response });
+
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = '';
+        let fullResponse = '';
+        msgDiv.textContent = '';
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+            buffer += decoder.decode(value, { stream: true });
+            const lines = buffer.split('\n');
+            buffer = lines.pop();
+
+            for (const line of lines) {
+                if (line.startsWith('data: ')) {
+                    try {
+                        const data = JSON.parse(line.slice(6));
+                        if (data.token && !data.token.startsWith('[Error')) {
+                            fullResponse += data.token;
+                            msgDiv.textContent = fullResponse;
+                            chatMessages.scrollTop = chatMessages.scrollHeight;
+                        }
+                    } catch (e) { }
+                }
+            }
+        }
+
+        chatHistory.push({ role: 'assistant', content: fullResponse });
 
         // Check if response contains a consensuated rule
-        if (data.response.includes('[REGLA CONSENSUADA]') || data.response.includes('[/REGLA]')) {
+        if (fullResponse.includes('[REGLA CONSENSUADA]') || fullResponse.includes('[/REGLA]')) {
             const saveBtn = document.createElement('button');
             saveBtn.className = 'success-btn';
             saveBtn.style.margin = '0.5rem 0';
@@ -307,7 +373,7 @@ async function sendChat() {
                 await fetch('/api/feedback', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ agent: 'mentor', type: 'nota', comment: data.response })
+                    body: JSON.stringify({ agent: 'mentor', type: 'nota', comment: fullResponse })
                 });
                 saveBtn.textContent = '✓ Guardada';
                 saveBtn.disabled = true;
@@ -316,7 +382,7 @@ async function sendChat() {
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     } catch (e) {
-        appendChat('mentor', '[Error de conexión con El Confesor]');
+        msgDiv.textContent = '[Error de conexión con El Confesor]';
     }
 }
 

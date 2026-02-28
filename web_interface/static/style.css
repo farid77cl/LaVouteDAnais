@@ -118,6 +118,26 @@ h3 {
     margin-top: 2px;
 }
 
+.dropdown {
+    background: var(--bg-card);
+    border: 1px solid var(--border-dim);
+    color: var(--text-bright);
+    font-family: 'Inter', sans-serif;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+}
+
+.dropdown:focus {
+    border-color: var(--gold);
+}
+
+.dropdown option {
+    background: var(--bg-panel);
+}
+
 .progress-tracker {
     display: flex;
     gap: 0.5rem;
