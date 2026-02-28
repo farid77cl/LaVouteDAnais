@@ -20,6 +20,7 @@
             </div>
             <div class="header-actions">
                 <button id="btn-load" class="icon-btn" title="Cargar sesión guardada">📂</button>
+                <button id="btn-chat" class="icon-btn" title="El Confesor — Chat de preferencias">🕯️</button>
             </div>
             <div class="progress-tracker">
                 <span class="step active" id="step-0">Premisa</span>
@@ -164,6 +165,19 @@
             <div class="modal-actions">
                 <button id="load-cancel" class="danger-btn">Cancelar</button>
             </div>
+        </div>
+    </div>
+
+    <!-- Chat Drawer: El Confesor -->
+    <div class="chat-drawer hidden" id="chat-drawer">
+        <div class="chat-header">
+            <span>🕯️ El Confesor</span>
+            <button id="chat-close" class="icon-btn" style="font-size:0.8rem">✕</button>
+        </div>
+        <div class="chat-messages" id="chat-messages"></div>
+        <div class="chat-input-bar">
+            <textarea id="chat-input" placeholder="¿Qué te gustó o qué falló? Conversemos..." rows="2"></textarea>
+            <button id="chat-send" class="primary-btn" style="padding:0.4rem 0.8rem">→</button>
         </div>
     </div>
 

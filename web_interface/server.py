@@ -245,5 +245,62 @@ def load_session(filename):
     app.logger.info(f"[LOAD] {filename} → step {step_num}")
     return jsonify({"step": step_num, "context": context, "premisa": premisa})
 
+@app.route('/api/chat', methods=['POST'])
+def chat_mentor():
+    """Multi-turn conversation with El Confesor mentor agent."""
+    data = request.json
+    message = data.get('message', '')
+    history = data.get('history', [])
+    agent_context = data.get('agent_context', '')
+    sample = data.get('sample', '')
+
+    if not message:
+        return jsonify({"error": "Mensaje vacío"}), 400
+
+    system_prompt = load_prompt('mentor')
+
+    # Build conversation context
+    conv_parts = []
+    if sample:
+        conv_parts.append(f"[Texto del agente '{agent_context}' que estamos discutiendo]:\n{sample}\n---")
+    for msg in history[:-1]:  # Exclude last message (it's the current one)
+        role = "AUTORA" if msg['role'] == 'user' else "CONFESOR"
+        conv_parts.append(f"{role}: {msg['content']}")
+    conv_parts.append(f"AUTORA: {message}")
+
+    prompt = "\n\n".join(conv_parts) + "\n\nCONFESOR:"
+
+    try:
+        resp = requests.post(OLLAMA_URL, json={
+            "model": "dolphin-mistral:7b",
+            "system": system_prompt,
+            "prompt": prompt,
+            "stream": False,
+            "options": {"num_predict": 512, "temperature": 0.7, "repeat_penalty": 1.2}
+        }, timeout=120)
+        resp.raise_for_status()
+        response_text = resp.json().get('response', '').strip()
+        return jsonify({"response": response_text})
+    except Exception as e:
+        return jsonify({"response": f"[Error: {str(e)}]"}), 500
+
+@app.route('/api/status', methods=['GET'])
+def system_status():
+    """Return system health: Ollama, models, sessions."""
+    import glob
+    status = {"ollama": False, "models": [], "sessions_count": 0, "port": 4000}
+    try:
+        resp = requests.get("http://localhost:11434/api/tags", timeout=5)
+        if resp.ok:
+            status["ollama"] = True
+            status["models"] = [m["name"] for m in resp.json().get("models", [])]
+    except: pass
+
+    save_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), '03_Literatura', '03_En_progreso')
+    if os.path.exists(save_dir):
+        status["sessions_count"] = len(glob.glob(os.path.join(save_dir, '*.md')))
+
+    return jsonify(status)
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=4000, debug=True)

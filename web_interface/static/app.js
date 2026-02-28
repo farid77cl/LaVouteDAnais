@@ -6,6 +6,7 @@ const btnStop = $('btn-stop');
 const btnSave = $('btn-save');
 const btnFeedback = $('btn-feedback');
 const btnLoad = $('btn-load');
+const btnChat = $('btn-chat');
 const userPrompt = $('user-prompt');
 const agentOutput = $('agent-output');
 const loader = document.querySelector('.loader');
@@ -17,15 +18,16 @@ const streamAgentName = $('stream-agent-name');
 const tokenCountEl = $('token-count');
 
 const AGENTS = [
-    { key: 'ideador',    label: 'El Ideador',    verb: 'Invocar al Ideador' },
+    { key: 'ideador', label: 'El Ideador', verb: 'Invocar al Ideador' },
     { key: 'arquitecto', label: 'El Arquitecto', verb: 'Invocar al Arquitecto' },
     { key: 'personajes', label: 'Los Personajes', verb: 'Invocar Personajes' },
-    { key: 'escritor',   label: 'El Escritor',   verb: 'Invocar al Escritor' },
-    { key: 'critico',    label: 'El Crítico',    verb: 'Invocar al Crítico' },
-    { key: 'editor',     label: 'El Editor',     verb: 'Invocar al Editor' },
-    { key: 'contador',   label: 'El Contador',   verb: 'Invocar al Contador' }
+    { key: 'escritor', label: 'El Escritor', verb: 'Invocar al Escritor' },
+    { key: 'critico', label: 'El Crítico', verb: 'Invocar al Crítico' },
+    { key: 'editor', label: 'El Editor', verb: 'Invocar al Editor' },
+    { key: 'contador', label: 'El Contador', verb: 'Invocar al Contador' }
 ];
 
+const AUTO_INVOKE = ['arquitecto', 'personajes', 'critico', 'contador'];
 let step = 0;
 let ctx = {};
 let tokenCount = 0;
@@ -51,13 +53,13 @@ function buildPrompt() {
     const a = AGENTS[step].key;
     const p = ctx.premisa || userPrompt.value;
     switch (a) {
-        case 'ideador':    return userPrompt.value;
+        case 'ideador': return userPrompt.value;
         case 'arquitecto': return `PREMISA: ${p}\n\nPROPUESTA DEL IDEADOR:\n${ctx.ideador}\n\nGenera la estructura narrativa completa.`;
-        case 'personajes': return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto}\n\nCrea fichas detalladas de personajes.`;
-        case 'escritor':   return `PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo completo.`;
-        case 'critico':    return `ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO:\n${ctx.escritor}`;
-        case 'editor':     return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe.`;
-        case 'contador':   return `Evalúa este capítulo final:\n\n${ctx.editor}`;
+        case 'personajes': return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto}\n\nCrea fichas detalladas de personajes con descripción física, psicológica, fetiches y arco de transformación.`;
+        case 'escritor': return `PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo completo. Mínimo 3000 palabras.`;
+        case 'critico': return `ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO:\n${ctx.escritor}\n\nEvalúa tensión, ritmo, sensorialidad y extensión.`;
+        case 'editor': return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe manteniendo la voz.`;
+        case 'contador': return `Evalúa este capítulo final:\n\n${ctx.editor || ctx.escritor}`;
     }
 }
 
@@ -74,6 +76,12 @@ function finishStream(agent) {
 async function callAgent() {
     const agent = AGENTS[step];
     const prompt = buildPrompt();
+    if (!prompt || prompt.includes('undefined')) {
+        console.error(`[BUG] Prompt vacío o con undefined para ${agent.key}. Context:`, JSON.stringify(Object.keys(ctx)));
+        agentOutput.value = `[ERROR: Falta contexto del agente anterior. Contexto disponible: ${Object.keys(ctx).join(', ')}]`;
+        finishStream(agent);
+        return;
+    }
     abortController = new AbortController();
 
     btnGenerate.disabled = true;
@@ -93,6 +101,9 @@ async function callAgent() {
             body: JSON.stringify({ prompt }),
             signal: abortController.signal
         });
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
         const reader = response.body.getReader();
         const decoder = new TextDecoder();
         let buffer = '';
@@ -123,7 +134,7 @@ async function callAgent() {
         if (err.name === 'AbortError') {
             finishStream(agent);
         } else {
-            agentOutput.value = `[Error de conexión: ${err.message}]`;
+            agentOutput.value = `[Error: ${err.message}]\n\nVerifica que Ollama esté corriendo:\n  docker start voute_ollama`;
             streamStatus.classList.add('hidden');
             btnStop.classList.add('hidden');
             loader.classList.add('hidden');
@@ -153,9 +164,18 @@ btnGenerate.addEventListener('click', () => {
 // ═══ Re-generate ═══
 btnReject.addEventListener('click', () => { checkpointControls.classList.add('hidden'); callAgent(); });
 
-// ═══ Approve ═══
+// ═══ Approve & advance ═══
 btnApprove.addEventListener('click', () => {
-    ctx[AGENTS[step].key] = agentOutput.value;
+    const output = agentOutput.value.trim();
+    if (!output) {
+        agentOutput.style.borderColor = '#cc3333';
+        setTimeout(() => agentOutput.style.borderColor = '', 2000);
+        return;
+    }
+    // Save current output to context
+    ctx[AGENTS[step].key] = output;
+    console.log(`[APPROVE] ${AGENTS[step].key} saved (${output.length} chars). Context keys: ${Object.keys(ctx).join(', ')}`);
+
     if (step < AGENTS.length - 1) {
         step++;
         if (step === 1) {
@@ -165,7 +185,10 @@ btnApprove.addEventListener('click', () => {
             promptLabel.textContent = 'Premisa (bloqueada)';
         }
         updateUI();
-        if (['arquitecto', 'personajes', 'critico', 'contador'].includes(AGENTS[step].key)) callAgent();
+        // Auto-invoke agents with a small delay to ensure UI is updated
+        if (AUTO_INVOKE.includes(AGENTS[step].key)) {
+            setTimeout(() => callAgent(), 100);
+        }
     } else {
         saveState();
     }
@@ -173,14 +196,17 @@ btnApprove.addEventListener('click', () => {
 
 // ═══ Save ═══
 async function saveState() {
-    ctx[AGENTS[step].key] = agentOutput.value;
+    // Always save current output if there is one
+    if (agentOutput.value.trim()) {
+        ctx[AGENTS[step].key] = agentOutput.value.trim();
+    }
     const payload = { step, agent: AGENTS[step].key, premisa: ctx.premisa || userPrompt.value, context: ctx };
     try {
         btnSave.disabled = true; btnSave.textContent = '⏳ Guardando...';
         const res = await fetch('/api/save', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
         const data = await res.json();
-        btnSave.textContent = '✓ Guardado';
-        setTimeout(() => { btnSave.textContent = '💾 Guardar'; btnSave.disabled = false; }, 2000);
+        btnSave.textContent = data.ok ? `✓ ${data.filename}` : '✗ Error';
+        setTimeout(() => { btnSave.textContent = '💾 Guardar'; btnSave.disabled = false; }, 3000);
     } catch (e) {
         btnSave.textContent = '✗ Error';
         setTimeout(() => { btnSave.textContent = '💾 Guardar'; btnSave.disabled = false; }, 2000);
@@ -223,6 +249,80 @@ $('fb-submit').addEventListener('click', async () => {
     }
 });
 
+// ═══ Chat Drawer (El Confesor) ═══
+const chatDrawer = $('chat-drawer');
+const chatMessages = $('chat-messages');
+const chatInput = $('chat-input');
+const chatHistory = [];
+
+btnChat.addEventListener('click', () => {
+    chatDrawer.classList.toggle('hidden');
+    if (!chatDrawer.classList.contains('hidden')) {
+        chatInput.focus();
+        if (chatMessages.children.length === 0) {
+            appendChat('mentor', 'Hola. Soy El Confesor. ¿Qué te gustó o qué falló del texto? Conversemos y definimos una regla juntos.');
+        }
+    }
+});
+$('chat-close').addEventListener('click', () => chatDrawer.classList.add('hidden'));
+
+function appendChat(role, text) {
+    const div = document.createElement('div');
+    div.className = `chat-msg chat-${role}`;
+    div.textContent = text;
+    chatMessages.appendChild(div);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+async function sendChat() {
+    const msg = chatInput.value.trim();
+    if (!msg) return;
+    chatInput.value = '';
+    appendChat('user', msg);
+    chatHistory.push({ role: 'user', content: msg });
+
+    try {
+        const res = await fetch('/api/chat', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                message: msg,
+                history: chatHistory,
+                agent_context: AGENTS[step].key,
+                sample: agentOutput.value.substring(0, 500)
+            })
+        });
+        const data = await res.json();
+        appendChat('mentor', data.response);
+        chatHistory.push({ role: 'assistant', content: data.response });
+
+        // Check if response contains a consensuated rule
+        if (data.response.includes('[REGLA CONSENSUADA]') || data.response.includes('[/REGLA]')) {
+            const saveBtn = document.createElement('button');
+            saveBtn.className = 'success-btn';
+            saveBtn.style.margin = '0.5rem 0';
+            saveBtn.style.width = '100%';
+            saveBtn.textContent = '✓ Guardar esta regla en preferencias';
+            saveBtn.addEventListener('click', async () => {
+                await fetch('/api/feedback', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ agent: 'mentor', type: 'nota', comment: data.response })
+                });
+                saveBtn.textContent = '✓ Guardada';
+                saveBtn.disabled = true;
+            });
+            chatMessages.appendChild(saveBtn);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+    } catch (e) {
+        appendChat('mentor', '[Error de conexión con El Confesor]');
+    }
+}
+
+chatInput.addEventListener('keydown', (e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); } });
+$('chat-send').addEventListener('click', sendChat);
+
 // ═══ Load Session Modal ═══
 const loadModal = $('load-modal');
 const sessionsList = $('saved-sessions-list');
@@ -257,8 +357,6 @@ async function loadSession(filename) {
         const res = await fetch(`/api/sessions/${filename}`);
         const data = await res.json();
         if (data.error) { alert(data.error); return; }
-
-        // Restore state
         ctx = data.context || {};
         step = data.step || 0;
         if (ctx.premisa) {
@@ -269,13 +367,11 @@ async function loadSession(filename) {
                 promptLabel.textContent = 'Premisa (bloqueada)';
             }
         }
-        // Update UI to the right step
         for (let i = 0; i < AGENTS.length; i++) {
             $(`step-${i}`).className = 'step' + (i === step ? ' active' : i < step ? ' done' : '');
             $(`card-${i}`).className = 'agent-card' + (i === step ? ' active' : i < step ? ' done' : '');
         }
         btnText.textContent = AGENTS[step].verb;
-        // Show last agent output if exists
         const currentKey = AGENTS[step].key;
         agentOutput.value = ctx[currentKey] || '';
         if (agentOutput.value) {
@@ -294,9 +390,7 @@ async function loadSession(filename) {
 
 // Close modals on overlay click
 document.querySelectorAll('.modal-overlay').forEach(overlay => {
-    overlay.addEventListener('click', (e) => {
-        if (e.target === overlay) overlay.classList.add('hidden');
-    });
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.classList.add('hidden'); });
 });
 
 // Init
