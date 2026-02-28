@@ -9,13 +9,13 @@ logging.basicConfig(level=logging.INFO)
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODELS = {
-    "ideador": "qwen2.5:7b",
-    "arquitecto": "qwen2.5:7b",
-    "personajes": "qwen2.5:7b",
-    "escritor": "qwen2.5:14b",
-    "critico": "qwen2.5:7b",
-    "editor": "qwen2.5:14b",
-    "contador": "llama3.2:3b"
+    "ideador": "dolphin-mistral:7b",       # SIN CENSURA — brainstorming erótico
+    "arquitecto": "qwen2.5:7b",            # Solo estructura, no necesita uncensored
+    "personajes": "dolphin-mistral:7b",     # SIN CENSURA — fichas con fetiches
+    "escritor": "dolphin-llama3:8b",        # SIN CENSURA — prosa erótica explícita
+    "critico": "qwen2.5:7b",               # Solo análisis
+    "editor": "dolphin-llama3:8b",          # SIN CENSURA — reescritura explícita
+    "contador": "llama3.2:3b"               # Solo métricas
 }
 
 def load_prompt(agent_name):

@@ -29,4 +29,4 @@ Total imágenes: 7
 - [clara_larrain_umbralle_chic_inicio_1770233989306.png](./clara_larrain_umbralle_chic_inicio_1770233989306.png)
 
 ---
-*Actualizado automáticamente: 2026-02-27*
+*Actualizado automáticamente: 2026-02-28*

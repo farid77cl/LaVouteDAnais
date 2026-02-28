@@ -76,4 +76,4 @@ Total: 18 imágenes. [Ver carpeta completa](./UI_Assets/GALERIA.md)
 
 ---
 
-*Galería maestra coordinada por Helena — 27/02/2026* 🌹
+*Galería maestra coordinada por Helena — 28/02/2026* 🌹

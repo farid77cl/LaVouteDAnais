@@ -69,10 +69,11 @@ Explora las secciones de esta categoría:
 - ✅ [**Look58 Subliminal Waveform**](./look58_subliminal_waveform/GALERIA.md)
 - ✅ [**Look59 Midnight Cowgirl**](./look59_midnight_cowgirl/GALERIA.md)
 - ✅ [**Look61 Venom Wire Doll**](./look61_venom_wire_doll/GALERIA.md)
+- ✅ [**Look62 Sporty Latex Goth**](./look62_sporty_latex_goth/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-02-27*
+*Actualizado automáticamente: 2026-02-28*
