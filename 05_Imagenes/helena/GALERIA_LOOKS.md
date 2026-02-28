@@ -392,7 +392,15 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look62_standing.png](look62_sporty_latex_goth/helena_look62_standing.png) | ![helena_look62_seated.png](look62_sporty_latex_goth/helena_look62_seated.png) | Pending | ![helena_look62_back_view.png](look62_sporty_latex_goth/helena_look62_back_view.png) | Pending |
+| ![helena_look62_standing.png](look62_sporty_latex_goth/helena_look62_standing.png) | ![helena_look62_seated.png](look62_sporty_latex_goth/helena_look62_seated.png) | ![helena_look62_side_profile.png](look62_sporty_latex_goth/helena_look62_side_profile.png) | ![helena_look62_back_view.png](look62_sporty_latex_goth/helena_look62_back_view.png) | ![helena_look62_ditzy.png](look62_sporty_latex_goth/helena_look62_ditzy.png) |
+
+---
+
+## 🕷️ Look 63: Beach Goth Bimbo
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look63_standing_1772322053188.png](look63_beach_goth_bimbo/helena_look63_standing_1772322053188.png) | ![helena_look63_seated_1772322014745.png](look63_beach_goth_bimbo/helena_look63_seated_1772322014745.png) | ![helena_look63_side_profile_1772322095368.png](look63_beach_goth_bimbo/helena_look63_side_profile_1772322095368.png) | ![helena_look63_back_view_1772322072263.png](look63_beach_goth_bimbo/helena_look63_back_view_1772322072263.png) | ![helena_look63_ditzy_1772322114907.png](look63_beach_goth_bimbo/helena_look63_ditzy_1772322114907.png) |
 
 ---
 
