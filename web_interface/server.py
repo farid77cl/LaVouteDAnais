@@ -70,6 +70,7 @@ def run_agent(agent_name):
         "stream": True,
         "options": {
             "num_predict": max_tokens,
+            "num_ctx": 16384,
             "temperature": 0.75,
             "repeat_penalty": 1.3,
             "repeat_last_n": 256
@@ -275,7 +276,12 @@ def chat_mentor():
         "system": system_prompt,
         "prompt": prompt,
         "stream": True,
-        "options": {"num_predict": 512, "temperature": 0.7, "repeat_penalty": 1.2}
+        "options": {
+            "num_predict": 512, 
+            "num_ctx": 8192,
+            "temperature": 0.7, 
+            "repeat_penalty": 1.2
+        }
     }
 
     def generate():
