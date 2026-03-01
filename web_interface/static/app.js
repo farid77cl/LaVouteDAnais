@@ -37,8 +37,19 @@ let abortController = null;
 
 function updateUI() {
     for (let i = 0; i < AGENTS.length; i++) {
-        $(`step-${i}`).className = 'step' + (i === step ? ' active' : i < step ? ' done' : '');
-        $(`card-${i}`).className = 'agent-card' + (i === step ? ' active' : i < step ? ' done' : '');
+        const stepEl = $(`step-${i}`);
+        const cardEl = $(`card-${i}`);
+        stepEl.className = 'step' + (i === step ? ' active' : i < step ? ' done' : '');
+        cardEl.className = 'agent-card' + (i === step ? ' active' : i < step ? ' done' : '');
+
+        // Add pointer cursor if the step is clickable (completed or current)
+        if (i <= step || i < Object.keys(ctx).length) {
+            cardEl.style.cursor = 'pointer';
+            cardEl.onclick = () => jumpToStep(i);
+        } else {
+            cardEl.style.cursor = 'default';
+            cardEl.onclick = null;
+        }
     }
     btnText.textContent = AGENTS[step].verb;
     agentOutput.value = '';
@@ -47,8 +58,50 @@ function updateUI() {
     btnStop.classList.add('hidden');
     btnGenerate.disabled = false;
     agentOutput.readOnly = false;
+    agentOutput.readOnly = false;
     tokenCount = 0;
     tokenCountEl.textContent = '0 tokens';
+
+    // Si regresamos a un agente anterior, recuperar su texto
+    if (ctx[AGENTS[step].key]) {
+        agentOutput.value = ctx[AGENTS[step].key];
+        btnApprove.textContent = 'Re-Aprobar & Continuar →';
+        checkpointControls.classList.remove('hidden');
+        btnGenerate.classList.add('hidden');
+    }
+}
+
+function jumpToStep(targetStep) {
+    if (targetStep === step) return;
+
+    // Solo permitir saltar a pasos anteriores o al paso máximo desbloqueado
+    if (targetStep > step) {
+        // Verificar si el usuario ya había avanzado más allá leyendo el context
+        let canAdvance = true;
+        for (let i = step; i < targetStep; i++) {
+            if (!ctx[AGENTS[i].key]) {
+                canAdvance = false;
+                break;
+            }
+        }
+        if (!canAdvance) return; // No saltar pasos en blanco
+    }
+
+    // Save current step before jumping
+    if (agentOutput.value.trim() && !checkpointControls.classList.contains('hidden')) {
+        ctx[AGENTS[step].key] = agentOutput.value.trim();
+    }
+
+    step = targetStep;
+
+    // Refrescar el text area de la premisa si volvemos muy atrás
+    if (step === 0) {
+        userPrompt.disabled = false;
+        userPrompt.style.opacity = '1';
+        promptLabel.textContent = 'Tu premisa oscura';
+    }
+
+    updateUI();
 }
 
 function buildPrompt() {
@@ -59,8 +112,8 @@ function buildPrompt() {
 
     switch (a) {
         case 'ideador': return userPrompt.value;
-        case 'arquitecto': return `PREMISA: ${p}\n\nPROPUESTA DEL IDEADOR:\n${ctx.ideador}\n\nGenera la estructura narrativa completa.`;
-        case 'personajes': return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto}\n\nCrea fichas detalladas de personajes con descripción física, psicológica, fetiches y arco de transformación.`;
+        case 'arquitecto': return `PREMISA: ${p}\n\nPROPUESTA DEL IDEADOR:\n${ctx.ideador || 'Sin propuesta'}\n\nGenera la estructura narrativa completa.`;
+        case 'personajes': return `PREMISA: ${p}\n\nARCO DEL ARQUITECTO:\n${ctx.arquitecto || 'Sin arco'}\n\nCrea fichas detalladas de personajes con descripción física, psicológica, fetiches y arco de transformación.`;
         case 'escritor': return `${contextStr}PREMISA: ${p}\n\nARCO:\n${ctx.arquitecto}\n\nPERSONAJES:\n${ctx.personajes}\n\nEscribe el capítulo ${ch} completo. Mínimo 3000 palabras.`;
         case 'critico': return `${contextStr}ARCO:\n${ctx.arquitecto}\nPERSONAJES:\n${ctx.personajes}\n\nCAPÍTULO ${ch}:\n${ctx.escritor}\n\nEvalúa tensión, ritmo, sensorialidad y extensión.`;
         case 'editor': return `NOTAS DEL CRÍTICO:\n${ctx.critico}\n\nCAPÍTULO ${ch} ORIGINAL:\n${ctx.escritor}\n\nAplica correcciones y reescribe manteniendo la voz.`;
@@ -81,9 +134,12 @@ function finishStream(agent) {
 async function callAgent() {
     const agent = AGENTS[step];
     const prompt = buildPrompt();
-    if (!prompt || prompt.includes('undefined')) {
-        console.error(`[BUG] Prompt vacío o con undefined para ${agent.key}. Context:`, JSON.stringify(Object.keys(ctx)));
-        agentOutput.value = `[ERROR: Falta contexto del agente anterior. Contexto disponible: ${Object.keys(ctx).join(', ')}]`;
+
+    console.log(`[CALL AGENT] Convocando a ${agent.key}... Prompt length: ${prompt ? prompt.length : 0}`);
+
+    if (!prompt) {
+        console.error(`[BUG] Prompt vacío para ${agent.key}. Context:`, JSON.stringify(Object.keys(ctx)));
+        agentOutput.value = `[ERROR: Falta contexto de la premisa o agente anterior.]`;
         finishStream(agent);
         return;
     }

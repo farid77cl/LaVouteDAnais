@@ -11,7 +11,7 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 MODELS = {
     "ideador": "dolphin-mistral:7b",       # SIN CENSURA — brainstorming erótico
     "arquitecto": "qwen2.5:7b",            # Solo estructura, no necesita uncensored
-    "personajes": "dolphin-mistral:7b",     # SIN CENSURA — fichas con fetiches
+    "personajes": "dolphin-phi:2.7b",     # SIN CENSURA — modelo muy ligero y rápido
     "escritor": "dolphin-llama3:8b",        # SIN CENSURA — prosa erótica explícita
     "critico": "qwen2.5:7b",               # Solo análisis
     "editor": "dolphin-llama3:8b",          # SIN CENSURA — reescritura explícita
@@ -70,7 +70,7 @@ def run_agent(agent_name):
         "stream": True,
         "options": {
             "num_predict": max_tokens,
-            "num_ctx": 16384,
+            "num_ctx": 8192,
             "temperature": 0.75,
             "repeat_penalty": 1.3,
             "repeat_last_n": 256

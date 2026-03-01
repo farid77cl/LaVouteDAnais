@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 title La Voûte Editor - Iniciando...
 echo.
 echo  🦇 La Voûte d'Anaïs — Editor
