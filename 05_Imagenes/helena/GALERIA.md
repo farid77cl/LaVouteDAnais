@@ -71,6 +71,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look61 Venom Wire Doll**](./look61_venom_wire_doll/GALERIA.md)
 - ✅ [**Look62 Sporty Latex Goth**](./look62_sporty_latex_goth/GALERIA.md)
 - ✅ [**Look63 Beach Goth Bimbo**](./look63_beach_goth_bimbo/GALERIA.md)
+- ✅ [**Look64 Goth Pop Princess**](./look64_goth_pop_princess/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)

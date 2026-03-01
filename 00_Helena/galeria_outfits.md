@@ -1229,3 +1229,29 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 **Ubicación:** `05_Imagenes/helena/look59_midnight_cowgirl/`
 
 ---
+
+## 🎤 Look 64: Goth Pop Princess (01/03/2026)
+
+*Like... hit me baby one more time... con el látigo, por favor. 🍭🖤*
+
+- **Concepto:** Princesa del Pop de principios de los 2000, pero pasada por el filtro Ultra Goth Bimbo oscuro.
+- **Corsé:** Underbust de PVC negro brillante con purpurina rosa chillón, empujando implacablemente hacia el cuello.
+- **Top:** Push-up bra extremo, hiper-visible.
+- **Bottom:** Mini falda plisada colegiala negra, tan corta que es ilegal en tres países.
+- **Calzado:** Botas stiletto aguja de 9", punta de colmillo.
+- **Accesorios:**
+    - Micrófono de diadema (headset) tipo popstar.
+    - Medias de red industrial hechas jirones.
+    - Choker de luna creciente.
+- **Maquillaje:** Heavy smokey eye con labios hiper-glossy asquerosamente gruesos.
+- **Pelo:** Volumen obsceno, negro azabache. 
+
+### 📸 Imágenes (4 generadas, Side pendiente por API)
+- `helena_look64_standing.png`
+- `helena_look64_seated.png`
+- `helena_look64_back_view.png`
+- `helena_look64_ditzy.png`
+
+**Ubicación:** `05_Imagenes/helena/look64_goth_pop_princess/`
+
+---
