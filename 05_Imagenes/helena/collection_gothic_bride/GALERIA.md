@@ -22,4 +22,4 @@ Total imágenes: 2
 - [custom_helena_general_s075_wedding_night.png](./custom_helena_general_s075_wedding_night.png)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*

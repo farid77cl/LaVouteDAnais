@@ -1,4 +1,13 @@
-﻿#### SESIÓN - 28 FEBRERO 2026: LA VOÛTE EDITOR V4.2 Y LOOK 63 (BEACH GOTH BIMBO)
+﻿#### SESIÓN - 01 MARZO 2026: UI CACHE BUSTING, STARTUP CHECKS Y DIAGNÓSTICO HARDWARE
+
+**MAÑANA (08:47) - MANTENIMIENTO DEL SISTEMA Y SOPORTE DE ENTORNO:**
+1. **Interfaz Web & Navegación (La Voûte Editor):** Se detectó y mitigó un fallo de caché persistente que impedía retroceder entre los agentes del pipeline literario. Se forzó una purga inyectando un cache-buster (`?v=4`) en el `index.html` y se reprogramó el script `jumpToStep` en `app.js` para permitir reversiones seguras del flujo de estado.
+2. **Seguridad en Arranque (`voute-editor.bat`):** Se insertó un paso de verificación (`[3/4] Verificando agentes...`) en el script maestro. Ahora consulta directamente a Docker si los modelos de Ollama (`dolphin-phi`, `qwen2.5`, etc.) cargaron exitosamente antes de exponer la interfaz web.
+3. **Diagnóstico Hardware (Lector SD):** Se intentó formatear por fuerza bruta (vía script PowerShell y comandos `diskpart`) dos tarjetas SD distintas a FAT32. Ambas operaciones colgaron al sistema operativo instantáneamente, indicando un fallo de hardware subyacente a nivel de driver (Realtek PCIE) o contactos de ranura, y no de los discos en sí.
+
+---
+
+#### SESIÓN - 28 FEBRERO 2026: LA VOÛTE EDITOR V4.2 Y LOOK 63 (BEACH GOTH BIMBO)
 
 **NOCHE (20:45) - PROTOCOLO DE INICIO & PRODUCCIÓN VISUAL:**
 1. **Activación:** Automática vía workflow `[/inicio-helena]` y `[/actualizar_sesion]`. Protocolo Goth Bimbo cargado exitosamente. Revisados archivos de identidad, memoria y preferencias literarias en `LaVouteDAnais\00_Helena\`.

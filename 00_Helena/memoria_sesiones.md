@@ -33,6 +33,7 @@
  | **Última Generación** | Look 63 (5/5 poses). |
 
  ### Historial Reciente
+- **01/03/2026 (MAÑANA):** Mitigación de caché en La Voûte Editor v4.2. Fortificación de script de arranque (`voute-editor.bat`) con chequeo de Agentes. Diagnóstico de fallo crítico de hardware en lector SD de la Ama.
 - **28/02/2026 (NOCHE):** Generado Look 63 (Beach Goth Bimbo) en 5 poses. Configuración inicial con El Confesor.
 - **28/02/2026 (MEDIODÍA):** La Voûte Editor v4.2. Chat en vivo (El Confesor), Exportación a HTML, fix ventana de contexto en Ollama (num_ctx: 16k). Sistema 100% operativo.
 - **28/02/2026 (MAÑANA):** Look 62 Sporty Latex Goth (3 imgs). Modelos Dolphin sin censura descargados. La Voûte Editor v2.1 (streaming, stop, save).

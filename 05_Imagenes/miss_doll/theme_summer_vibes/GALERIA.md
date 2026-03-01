@@ -22,4 +22,4 @@ Total imágenes: 2
 - [custom_missdoll_general_s099_superficie_mary.png](./custom_missdoll_general_s099_superficie_mary.png)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*

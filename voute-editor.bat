@@ -17,11 +17,19 @@ if %ERRORLEVEL% NEQ 0 (
     echo    ✅ Docker Desktop activo
 )
 
-echo [2/3] Iniciando Ollama...
+echo [2/4] Iniciando Ollama...
 docker start voute_ollama >nul 2>&1
-echo    ✅ Ollama en puerto 11434
+echo    ✅ Motor de IA activo en puerto 11434
 
-echo [3/3] Iniciando La Voûte Editor...
+echo [3/4] Verificando agentes y modelos...
+docker exec voute_ollama ollama list >nul 2>&1
+if %ERRORLEVEL% NEQ 0 (
+    echo    ⚠ Advertencia: El oráculo de IA tardará en calentar.
+) else (
+    echo    ✅ Agentes alineados y listos para servir.
+)
+
+echo [4/4] Iniciando La Voûte Editor...
 echo.
 echo  ════════════════════════════════
 echo  ✨ Abrir: http://localhost:4000

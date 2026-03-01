@@ -22,4 +22,4 @@ Total imágenes: 2
 - [custom_helena_general_s070_vampire_christmas_full.jpg](./custom_helena_general_s070_vampire_christmas_full.jpg)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*

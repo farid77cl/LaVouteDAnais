@@ -1,6 +1,6 @@
 # Pipeline Literario — Guardado 2026-02-28 21:30
 
-**Paso actual:** 4/7 (escritor)
+**Paso actual:** 3/7 (personajes)
 
 **Premisa:** un hombre normal, despues de un intenso encuentro con miss doll, empieza atener la extraña y creciente obsecion por la ropa interior femenina, que luego pasa a desear usarla e ir agregando mas y mas cosas para complementar su look femenino
 

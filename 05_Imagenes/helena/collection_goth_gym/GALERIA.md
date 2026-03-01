@@ -21,4 +21,4 @@ Total imágenes: 1
 - [custom_helena_general_s023_goth_gym.jpg](./custom_helena_general_s023_goth_gym.jpg)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*

@@ -25,4 +25,4 @@ Total imágenes: 4
 - [custom_helena_general_s018_dark_mermaid.jpg](./custom_helena_general_s018_dark_mermaid.jpg)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*

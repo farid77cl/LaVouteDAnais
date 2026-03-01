@@ -29,4 +29,4 @@ Total imágenes: 7
 - [story_helena_secretary_arc_s082_v2_tension.png](./story_helena_secretary_arc_s082_v2_tension.png)
 
 ---
-*Actualizado automáticamente: 2026-02-28*
+*Actualizado automáticamente: 2026-03-01*
