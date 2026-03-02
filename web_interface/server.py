@@ -7,15 +7,19 @@ from flask import Flask, render_template, request, jsonify, Response, stream_wit
 app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
+# URL compatible con LM Studio (Ollama / OpenAI Format)
+LM_STUDIO_URL = "http://127.0.0.1:1234/v1/chat/completions"
+
+# Modelos en LM Studio - Se configuran DENTRO de la aplicacion de LM Studio.
+# Esta lista ahora solo asocia IDs lógicos para enviar en el Request.
 MODELS = {
-    "ideador": "dolphin-mistral:7b",       # SIN CENSURA — brainstorming erótico
-    "arquitecto": "qwen2.5:7b",            # Solo estructura, no necesita uncensored
-    "personajes": "dolphin-phi:2.7b",     # SIN CENSURA — modelo muy ligero y rápido
-    "escritor": "dolphin-llama3:8b",        # SIN CENSURA — prosa erótica explícita
-    "critico": "qwen2.5:7b",               # Solo análisis
-    "editor": "dolphin-llama3:8b",          # SIN CENSURA — reescritura explícita
-    "contador": "llama3.2:3b"               # Solo métricas
+    "ideador": "model-ideador",       
+    "arquitecto": "model-arquitecto",
+    "personajes": "model-personajes",
+    "escritor": "model-escritor",     
+    "critico": "model-critico",       
+    "editor": "model-editor",         
+    "contador": "model-contador"      
 }
 
 def load_prompt(agent_name):
@@ -65,30 +69,38 @@ def run_agent(agent_name):
 
     payload = {
         "model": model,
-        "system": system_prompt,
-        "prompt": user_prompt,
-        "stream": True,
-        "options": {
-            "num_predict": max_tokens,
-            "num_ctx": 8192,
-            "temperature": 0.75,
-            "repeat_penalty": 1.3,
-            "repeat_last_n": 256
-        }
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": f"El Input actual para ti es:\n\n{user_prompt}"}
+        ],
+        "temperature": 0.75,
+        "max_tokens": max_tokens,
+        "stream": True
     }
 
     app.logger.info(f"[STREAM] {agent_name} → {model}")
 
     def generate():
         try:
-            with requests.post(OLLAMA_URL, json=payload, stream=True, timeout=600) as resp:
+            with requests.post(LM_STUDIO_URL, json=payload, stream=True, timeout=600) as resp:
                 resp.raise_for_status()
                 for line in resp.iter_lines():
                     if line:
-                        chunk = json.loads(line)
-                        token = chunk.get('response', '')
-                        done = chunk.get('done', False)
-                        yield f"data: {json.dumps({'token': token, 'done': done})}\n\n"
+                        decoded_line = line.decode('utf-8')
+                        if decoded_line.startswith('data: '):
+                            data_str = decoded_line[6:]
+                            if data_str.strip() == "[DONE]":
+                                yield f"data: {json.dumps({'token': '', 'done': True})}\n\n"
+                                break
+                            try:
+                                data = json.loads(data_str)
+                                if "choices" in data and len(data["choices"]) > 0:
+                                    token = data["choices"][0].get('delta', {}).get('content', '')
+                                    if token:
+                                        # Send back in the format expected by the frontend
+                                        yield f"data: {json.dumps({'token': token, 'done': False})}\n\n"
+                            except json.JSONDecodeError:
+                                pass
         except Exception as e:
             yield f"data: {json.dumps({'token': f'[ERROR: {str(e)}]', 'done': True})}\n\n"
 
@@ -260,40 +272,44 @@ def chat_mentor():
 
     system_prompt = load_prompt('mentor')
 
-    # Build conversation context
-    conv_parts = []
+    messages = [{"role": "system", "content": system_prompt}]
+    
     if sample:
-        conv_parts.append(f"[Texto del agente '{agent_context}' que estamos discutiendo]:\n{sample}\n---")
+        messages.append({"role": "user", "content": f"[Texto del agente '{agent_context}' que estamos discutiendo]:\n{sample}"})
+    
     for msg in history[:-1]:
-        role = "AUTORA" if msg['role'] == 'user' else "CONFESOR"
-        conv_parts.append(f"{role}: {msg['content']}")
-    conv_parts.append(f"AUTORA: {message}")
-
-    prompt = "\n\n".join(conv_parts) + "\n\nCONFESOR:"
+        messages.append({"role": msg['role'], "content": msg['content']})
+        
+    messages.append({"role": "user", "content": message})
 
     payload = {
-        "model": "dolphin-mistral:7b",
-        "system": system_prompt,
-        "prompt": prompt,
-        "stream": True,
-        "options": {
-            "num_predict": 512, 
-            "num_ctx": 8192,
-            "temperature": 0.7, 
-            "repeat_penalty": 1.2
-        }
+        "model": MODELS["ideador"], # Fallback standard model
+        "messages": messages,
+        "temperature": 0.7,
+        "max_tokens": 512,
+        "stream": True
     }
 
     def generate():
         try:
-            with requests.post(OLLAMA_URL, json=payload, stream=True, timeout=120) as resp:
+            with requests.post(LM_STUDIO_URL, json=payload, stream=True, timeout=120) as resp:
                 resp.raise_for_status()
                 for line in resp.iter_lines():
                     if line:
-                        chunk = json.loads(line)
-                        token = chunk.get('response', '')
-                        done = chunk.get('done', False)
-                        yield f"data: {json.dumps({'token': token, 'done': done})}\n\n"
+                        decoded_line = line.decode('utf-8')
+                        if decoded_line.startswith('data: '):
+                            data_str = decoded_line[6:]
+                            if data_str.strip() == "[DONE]":
+                                yield f"data: {json.dumps({'token': '', 'done': True})}\n\n"
+                                break
+                            try:
+                                data = json.loads(data_str)
+                                if "choices" in data and len(data["choices"]) > 0:
+                                    token = data["choices"][0].get('delta', {}).get('content', '')
+                                    if token:
+                                        yield f"data: {json.dumps({'token': token, 'done': False})}\n\n"
+                            except json.JSONDecodeError:
+                                pass
         except Exception as e:
             yield f"data: {json.dumps({'token': f'[Error: {str(e)}]', 'done': True})}\n\n"
 
