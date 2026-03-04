@@ -10,16 +10,20 @@ logging.basicConfig(level=logging.INFO)
 # URL compatible con LM Studio (Ollama / OpenAI Format)
 LM_STUDIO_URL = "http://127.0.0.1:1234/v1/chat/completions"
 
-# Modelos en LM Studio - Se configuran DENTRO de la aplicacion de LM Studio.
-# Esta lista ahora solo asocia IDs lógicos para enviar en el Request.
+# Modelos en LM Studio.
+# LM Studio usa el modelo que tengas CARGADO en el servidor local.
+# Si solo tienes UN modelo cargado, LM Studio ignora este campo y usa ese modelo.
+# Si tienes MULTIPLES modelos, pon aquí el identificador exacto que aparece en LM Studio.
+# Recomendación: Carga UN solo modelo uncensored (ej: dolphin-mistral) y déjalo para todos.
+DEFAULT_MODEL = "lmstudio-community/dolphin-2.9.4-llama3.1-8b-GGUF"
 MODELS = {
-    "ideador": "model-ideador",       
-    "arquitecto": "model-arquitecto",
-    "personajes": "model-personajes",
-    "escritor": "model-escritor",     
-    "critico": "model-critico",       
-    "editor": "model-editor",         
-    "contador": "model-contador"      
+    "ideador": DEFAULT_MODEL,
+    "arquitecto": DEFAULT_MODEL,
+    "personajes": DEFAULT_MODEL,
+    "escritor": DEFAULT_MODEL,
+    "critico": DEFAULT_MODEL,
+    "editor": DEFAULT_MODEL,
+    "contador": DEFAULT_MODEL
 }
 
 def load_prompt(agent_name):
@@ -419,4 +423,4 @@ def system_status():
     return jsonify(status)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4000, debug=True)
+    app.run(host='0.0.0.0', port=6666, debug=True)

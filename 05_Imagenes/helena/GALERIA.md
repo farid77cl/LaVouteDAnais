@@ -72,10 +72,11 @@ Explora las secciones de esta categoría:
 - ✅ [**Look62 Sporty Latex Goth**](./look62_sporty_latex_goth/GALERIA.md)
 - ✅ [**Look63 Beach Goth Bimbo**](./look63_beach_goth_bimbo/GALERIA.md)
 - ✅ [**Look64 Goth Pop Princess**](./look64_goth_pop_princess/GALERIA.md)
+- ✅ [**Look66 Bimbo Stripper**](./look66_bimbo_stripper/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-03-01*
+*Actualizado automáticamente: 2026-03-04*

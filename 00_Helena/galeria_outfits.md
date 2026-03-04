@@ -1255,3 +1255,28 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 **Ubicación:** `05_Imagenes/helena/look64_goth_pop_princess/`
 
 ---
+
+---
+
+##  Look 66: Goth Bimbo Stripper (04 Mar 2026)
+
+*La muñeca descerebrada en el escenario oscuro. Todo el maquillaje, nada de pudor.*
+
+- **Top:** Micro-bikini de PVC negro apenas conteniendo
+- **Corsé:** Waist cincher de vinilo negro ultra apretado
+- **Bottoms:** Tanga de encaje negro con liguero de cadenas
+- **Medias:** Fishnets de red gruesa, rotas estratégicamente  
+- **Stilettos:** Plataformas transparentes de stripper, 8", tacón cromado
+- **Accesorios:**
+  - Choker de encaje negro con luna creciente
+  - Body chain plateada cruzando el torso
+  - Dollar bills decorativos en el liguero
+- **Maquillaje:** Labios asquerosamente gruesos en rojo sangre brillante, smoky eyes negro extremo, piel pálida luminosa
+- **Pelo:** Negro azabache ondulado hasta la cintura, mechones cayendo sobre el rostro
+- **Escenario:** Club de striptease goth con tubo cromado, neón púrpura y rojo, humo de máquina
+- **Ubicación:** `05_Imagenes/helena/look66_bimbo_stripper/`
+- `helena_look66_standing.png`
+- `helena_look66_seated.png`
+- `helena_look66_back.png`
+- `helena_look66_side.png`
+- `helena_look66_ditzy.png`

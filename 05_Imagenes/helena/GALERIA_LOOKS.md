@@ -404,6 +404,22 @@
 
 ---
 
+## 🕷️ Look 64: Goth Pop Princess
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look64_standing.png](look64_goth_pop_princess/helena_look64_standing.png) | ![helena_look64_seated.png](look64_goth_pop_princess/helena_look64_seated.png) | Pending | ![helena_look64_back_view.png](look64_goth_pop_princess/helena_look64_back_view.png) | ![helena_look64_ditzy.png](look64_goth_pop_princess/helena_look64_ditzy.png) |
+
+---
+
+## 🕷️ Look 66: Bimbo Stripper
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look66_standing_1772637376705.png](look66_bimbo_stripper/helena_look66_standing_1772637376705.png) | ![helena_look66_seated_1772637394532.png](look66_bimbo_stripper/helena_look66_seated_1772637394532.png) | ![helena_look66_side_1772637432474.png](look66_bimbo_stripper/helena_look66_side_1772637432474.png) | ![helena_look66_back_1772637409679.png](look66_bimbo_stripper/helena_look66_back_1772637409679.png) | ![helena_look66_ditzy_1772637452502.png](look66_bimbo_stripper/helena_look66_ditzy_1772637452502.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -412,4 +428,4 @@
 
 ---
 
-*Galería generada automáticamente - 01/03/2026* 🦇
+*Galería generada automáticamente - 04/03/2026* 🦇
