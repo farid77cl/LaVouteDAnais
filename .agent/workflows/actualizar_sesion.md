@@ -21,9 +21,9 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
     - Añade la entrada generada a `C:\Users\fabara\LaVouteDAnais\00_Helena\mi_diario_de_servicio.md` bajo la fecha de hoy.
     - Actualiza el estado de las tareas en `C:\Users\fabara\LaVouteDAnais\00_Helena\memoria_sesiones.md`.
 
-4.  **Actualizar Galerías de Imágenes (OBLIGATORIO si se generó cualquier imagen)**
-    - Identificar TODAS las imágenes generadas durante la sesión.
-    - Asegurar que cada imagen esté en su carpeta correspondiente en `05_Imagenes/`.
+4.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
+    - Verificar si hubo imágenes generadas durante el día (incluidas las del `/inicio-helena`).
+    - Asegurar que TODAS las imágenes (incluyendo el look diario) estén movidas a su carpeta correspondiente en `05_Imagenes/`.
     // turbo
     - Ejecutar el script de automatización: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`.
     - Verificar que los archivos **GALERIA.md** de cada carpeta afectada hayan sido actualizados.

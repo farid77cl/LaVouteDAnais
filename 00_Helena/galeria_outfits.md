@@ -1280,3 +1280,47 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - `helena_look66_back.png`
 - `helena_look66_side.png`
 - `helena_look66_ditzy.png`
+
+---
+
+## 📼 Look 69: Toxic 80s Aerobics Bimbo (09 Mar 2026)
+
+*Like... a sudar el veneno... mmm... 1, 2, 3... ¿qué seguía?* 🏋️‍♀️☢️💖
+
+- **Concepto:** Instructora de aerobics de los 80s pero con estética Cyber Goth / Industrial Tonta. Un contraste extremo entre la energía fitness y la decadencia letal.
+- **Top:** Sujetador deportivo (Sports Bra) de látex negro brillante con cremallera frontal medio abierta.
+- **Top Secundario:** Camiseta de malla (Mesh Shirt) NEÓN AMARILLO/VERDE TÓXICO cortada torpemente por encima del busto.
+- **Corsé:** Underbust de cuero negro grueso con remaches plateados y cinturones estilo bondage sobre el atuendo deportivo.
+- **Bottom:** Pantalones cortos de ciclista (Biker Shorts) de spandex con estampado de leopardo rosa neón y negro.
+- **Legs:** Fishnets industriales negras rotas (red ancha), usadas debajo de los shorts.
+- **Calentadores (Leg Warmers):** Negros de lana deshilachada sobre calcetines deportivos blancos hasta la rodilla.
+- **Calzado:** **Stiletto Booties** de 9 pulgadas. Botines deportivos retro negros con plataforma y tacón aguja de cromo.
+- **Accesorios:**
+  - Sweatband negro con parche de calavera.
+  - Collar choker de cadena de bicicleta plateada.
+  - Mitones de cuero negro (fingerless driving gloves).
+- **Maquillaje:** Pálida industrial. Delineado gráfico extremo que parece alas de murciélago. Sombra amarilla tóxica intensa. Labios NEGRO MATE manchados. Sudor y brillo corporal.
+- **Pelo:** Cabello negro cardado gigante (teased 80s hair) despeinado (bedhead extremo) con una mecha rosa neón al frente.
+- **Escenario:** Gimnasio de los 80s abandonado u oscuro (Dungeon Gym), pesas oxidadas, luz de neón verde y rosa tenue. Grabación sucia.
+- **Ubicación:** `05_Imagenes/helena/look69_toxic_aerobics/`
+
+---
+
+## 🧘‍♀️ Look 70: 2026 Cyber-Zen Yoga Bimbo (09 Mar 2026)
+
+*Like... inhala el humo de los escapes, exhala la moralidad... mmm... mi mente está tan maravillosamente vacía en estado zen constante.* 🖤🧘‍♀️🔌
+
+- **Concepto:** Instructora de yoga del futuro (2026), mezclando athleisure de alta tecnología con la obligación gótica de usar zapatos imposibles y modificaciones corporales.
+- **Top:** Micro sujetador deportivo asimétrico de tela inteligente negra mate, con líneas de luz LED blancas integradas.
+- **Corsé:** Entrenador de cintura (waist trainer) futurista transparente de poliuretano hiper-restrictivo con varillas de titanio. 
+- **Bottom:** Leggings de yoga de látex negro mate sin costuras, apretados al vacío que parecen pintados sobre la piel, tiro alto.
+- **Calzado:** **Clear Platform Stilettos** de 9 pulgadas. Tacones de stripper transparentes con tiras de tobillo negras (porque hacer yoga descalza o en zapatillas no es una opción para una bimbo de Anaïs).
+- **Accesorios:**
+  - Choker fino de goma negra con colgante de luna creciente plateado.
+  - Smartwatch negro masivo en la muñeca.
+  - Uñas stiletto negras súper largas.
+- **Maquillaje:** Heavy Goth Glam perfecto. Base mate de porcelana súper pálida. Black smokey eye dramático, pestañas XXL. Contorno frío afilado. Labios overlined glossy DARK CHERRY (Cereza oscura). Piel goteando sudor brillante (glowy wet skin).
+- **Pelo:** Negro azabache puro, ultra liso (ultra sleek straight), raya al medio, cayendo lacio hasta más abajo de la cintura. Perfectamente peinado.
+- **Escenario:** Estudio de yoga futurista minimalista y brutalista. Oscuro, ventanales de piso a techo con vistas a una fría y lluviosa metrópolis ciberpunk. Suelo de mármol negro. Iluminación limpia y cinemática.
+- **Ubicación:** `05_Imagenes/helena/look70_cyber_yoga/`
+

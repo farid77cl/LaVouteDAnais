@@ -9,22 +9,74 @@ logging.basicConfig(level=logging.INFO)
 
 # URL compatible con LM Studio (Ollama / OpenAI Format)
 LM_STUDIO_URL = "http://127.0.0.1:1234/v1/chat/completions"
+LM_STUDIO_MODELS_URL = "http://127.0.0.1:1234/v1/models"
 
-# Modelos en LM Studio.
-# LM Studio usa el modelo que tengas CARGADO en el servidor local.
-# Si solo tienes UN modelo cargado, LM Studio ignora este campo y usa ese modelo.
-# Si tienes MULTIPLES modelos, pon aquí el identificador exacto que aparece en LM Studio.
-# Recomendación: Carga UN solo modelo uncensored (ej: dolphin-mistral) y déjalo para todos.
-DEFAULT_MODEL = "lmstudio-community/dolphin-2.9.4-llama3.1-8b-GGUF"
-MODELS = {
-    "ideador": DEFAULT_MODEL,
-    "arquitecto": DEFAULT_MODEL,
-    "personajes": DEFAULT_MODEL,
-    "escritor": DEFAULT_MODEL,
-    "critico": DEFAULT_MODEL,
-    "editor": DEFAULT_MODEL,
-    "contador": DEFAULT_MODEL
+# ─── Configuración de modelos optimizada para Ryzen 7 7735HS / 32GB RAM / sin GPU dedicada ───
+#
+# HARDWARE: CPU-only inference (Radeon 680M iGPU no tiene soporte ROCm en LM Studio/Windows)
+# RAM disponible para modelos: ~24-26 GB
+#
+# ESTRATEGIA: 2 modelos únicamente para minimizar tiempos de carga entre agentes (~30-90s c/u)
+#
+#   MODELO CREATIVO  → dolphin-2.9.4-llama3.1-8b Q4_K_M (~4.9 GB, ~5-8 tok/s)
+#     Agentes: ideador, personajes, escritor, editor, mentor, contador
+#     Razón: sin censura, prosa de calidad, contexto 8192, cabe cómodo en RAM
+#
+#   MODELO ANALÍTICO → qwen2.5-7b-instruct Q4_K_M (~4.4 GB, ~5-8 tok/s)
+#     Agentes: arquitecto, critico
+#     Razón: mejor razonamiento estructurado, output en markdown/tablas
+#     ⚠️  Requiere context length = 8192 en LM Studio (por defecto viene en 4096)
+#
+# ORDEN ÓPTIMO DEL PIPELINE para minimizar swaps de modelo:
+#   Ideador → Personajes (dolphin) → Arquitecto → Crítico (qwen) → Escritor → Editor → Contador (dolphin)
+#   = solo 2 cambios de modelo en todo el pipeline
+#
+AGENT_MODEL_PREFERENCES = {
+    "ideador":    "dolphin",   # Creativo — brainstorming sin censura
+    "arquitecto": "qwen2.5",  # Analítico — estructura lógica en 3 actos
+    "personajes": "dolphin",  # Creativo — psicología y fichas detalladas
+    "escritor":   "dolphin",  # Creativo — prosa larga explícita (8192 tokens)
+    "critico":    "qwen2.5",  # Analítico — evaluación con tabla de puntuación
+    "editor":     "dolphin",  # Creativo — reescritura manteniendo voz
+    "contador":   "dolphin",  # Creativo (tarea simple, no vale cambiar de modelo)
+    "mentor":     "dolphin",  # Creativo — conversación natural con la autora
 }
+
+def get_available_models():
+    """Consulta LM Studio y devuelve lista de modelos cargados."""
+    try:
+        resp = requests.get(LM_STUDIO_MODELS_URL, timeout=5)
+        if resp.ok:
+            data = resp.json()
+            return [m["id"] for m in data.get("data", [])]
+    except Exception as e:
+        app.logger.warning(f"No se pudo consultar modelos de LM Studio: {e}")
+    return []
+
+def resolve_model(agent_name):
+    """Determina qué modelo usar para un agente.
+    Prioridad: 1) preferencia configurada si está cargada, 2) primer modelo disponible."""
+    available = get_available_models()
+    if not available:
+        app.logger.error("LM Studio no tiene modelos cargados.")
+        return None
+
+    preference = AGENT_MODEL_PREFERENCES.get(agent_name)
+    if preference:
+        # Busca coincidencia parcial (case-insensitive)
+        for m in available:
+            if preference.lower() in m.lower():
+                app.logger.info(f"[MODEL] {agent_name} → {m} (preferido)")
+                return m
+        app.logger.warning(f"[MODEL] Preferencia '{preference}' no encontrada para {agent_name}, usando fallback.")
+
+    # Fallback: primer modelo disponible
+    app.logger.info(f"[MODEL] {agent_name} → {available[0]} (disponible)")
+    return available[0]
+
+# MODELS se mantiene por compatibilidad pero ya no se usa directamente
+DEFAULT_MODEL = "auto"
+MODELS = {k: "auto" for k in AGENT_MODEL_PREFERENCES}
 
 def load_prompt(agent_name):
     prompt_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'prompts', f'{agent_name}.md')
@@ -68,8 +120,26 @@ def run_agent(agent_name):
         return jsonify({"error": "Prompt vacío"}), 400
 
     system_prompt = load_prompt(agent_name)
-    model = MODELS[agent_name]
-    max_tokens = 8192 if agent_name in ['escritor', 'editor'] else 4096
+    model = resolve_model(agent_name)
+    if not model:
+        return jsonify({"error": "No hay modelos cargados en LM Studio. Carga un modelo y vuelve a intentar."}), 503
+
+    # max_tokens según capacidad del modelo asignado:
+    # - escritor/editor usan dolphin-llama3 con contexto amplio → 8192
+    # - arquitecto/critico usan qwen2.5 con contexto limitado → 2048 para dejar margen al prompt
+    # - contador usa llama3.2 liviano → 1024 (tarea simple)
+    # - resto → 4096
+    MAX_TOKENS_BY_AGENT = {
+        "escritor":   8192,
+        "editor":     8192,
+        "arquitecto": 2048,
+        "critico":    2048,
+        "contador":   1024,
+        "ideador":    4096,
+        "personajes": 4096,
+        "mentor":     1024,
+    }
+    max_tokens = MAX_TOKENS_BY_AGENT.get(agent_name, 4096)
 
     payload = {
         "model": model,
@@ -287,7 +357,7 @@ def chat_mentor():
     messages.append({"role": "user", "content": message})
 
     payload = {
-        "model": MODELS["ideador"], # Fallback standard model
+        "model": resolve_model("mentor") or resolve_model("ideador"), # Fallback standard model
         "messages": messages,
         "temperature": 0.7,
         "max_tokens": 512,
@@ -423,4 +493,4 @@ def system_status():
     return jsonify(status)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=6666, debug=True)
+    app.run(host='0.0.0.0', port=8666, debug=True)

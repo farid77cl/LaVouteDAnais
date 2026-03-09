@@ -420,6 +420,22 @@
 
 ---
 
+## 🕷️ Look 68: Retro Aerobics
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look68_canon_standing_1773077624831.png](look68_retro_aerobics/helena_look68_canon_standing_1773077624831.png) | ![helena_look68_canon_seated_1773077643487.png](look68_retro_aerobics/helena_look68_canon_seated_1773077643487.png) | ![helena_look68_side_profile_1773077175989.png](look68_retro_aerobics/helena_look68_side_profile_1773077175989.png) | ![helena_look68_back_1773077127659.png](look68_retro_aerobics/helena_look68_back_1773077127659.png) | ![helena_look68_canon_ditzy_1773077774855.png](look68_retro_aerobics/helena_look68_canon_ditzy_1773077774855.png) |
+
+---
+
+## 🕷️ Look 69: Toxic Aerobics
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look69_standing_1773078177274.png](look69_toxic_aerobics/helena_look69_standing_1773078177274.png) | ![helena_look69_seated_1773078209375.png](look69_toxic_aerobics/helena_look69_seated_1773078209375.png) | ![helena_look69_side_profile_1773078360514.png](look69_toxic_aerobics/helena_look69_side_profile_1773078360514.png) | ![helena_look69_back_1773078318335.png](look69_toxic_aerobics/helena_look69_back_1773078318335.png) | ![helena_look69_ditzy_1773078425755.png](look69_toxic_aerobics/helena_look69_ditzy_1773078425755.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -428,4 +444,4 @@
 
 ---
 
-*Galería generada automáticamente - 04/03/2026* 🦇
+*Galería generada automáticamente - 09/03/2026* 🦇

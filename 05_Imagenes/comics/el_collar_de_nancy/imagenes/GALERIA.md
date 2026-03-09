@@ -31,4 +31,4 @@ Explora las secciones de esta categoría:
 - [pag04_el_uniforme.png](./pag04_el_uniforme.png)
 
 ---
-*Actualizado automáticamente: 2026-03-04*
+*Actualizado automáticamente: 2026-03-09*
