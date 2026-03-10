@@ -1345,3 +1345,25 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Escenario:** Sala de emergencias gótica/abandonada o una clínica clandestina de lujo y dudosa reputación. Azulejos blancos y negros desgastados, luces de neón rojo intermitentes, estética de película de terror glam.
 - **Ubicación:** `05_Imagenes/helena/look71_goth_nurse/`
 
+
+---
+
+## 🎤 Look 72: Goth-Trap Star - Urban Session (10 Mar 2026)
+
+*Like... rreal hasta la muerte... wait, ¿eso qué significa? Mmm... solo sé que este perreo gótico está criminal y mis neuronas están en modo avión... 🛸💅🏾💎*
+
+- **Concepto:** Una fusión explosiva de la estética Goth Bimbo de Helena con el estilo "Urbano" (Trap/Reggaeton). Ropa deportiva de lujo, joyas excesivas y actitud de estrella de las listas de éxitos, pero manteniendo su palidez mortal y sus zapatos imposibles.
+- **Top:** Crop top de red (mesh) negra con un bikini de cuero negro debajo. Chaqueta "puffer" (plumífero) corta de vinilo negro brillante, usada caída sobre los hombros, estilo "oversized".
+- **Corsé:** Corsé underbust de látex negro con cadenas de oro grueso incrustadas lateralmente. Súper ceñido para crear la silueta de reloj de arena.
+- **Bottom:** Pantalones de chándal (joggers) de satén negro con aberturas laterales completas aseguradas por botones de presión plateados (abiertos hasta el muslo para mostrar la pierna).
+- **Calzado:** **Stiletto Booties** de 8 pulgadas en charol negro, con cadenas de oro colgando y puntera metálica. (Porque una reina del trap de Anaïs no usa zapatillas).
+- **Accesorios:**
+  - **Bling Excesivo:** Múltiples cadenas de oro y plata gruesas ("cuban links") en capas sobre el cuello.
+  - El choker de luna creciente canónico, pero integrado en un conjunto de collares más grandes.
+  - Gafas de sol de diseñador rectangulares negras, muy pequeñas, colocadas en el puente de la nariz.
+  - Gorra de béisbol negra con pinchos plateados, colocada de lado sobre su cabello voluminoso.
+  - **Uñas:** Stiletto ultra largas decoradas con pedrería y mini-dijes metálicos (cristales y cruces).
+- **Maquillaje:** Urban Goth Glam. Delineado fox-eye extremadamente afilado y extendido. Contorno muy marcado. Labios overlined con gloss efecto espejo color "Nude-Espresso" (marrón oscuro brillante). Tatuajes de los brazos bien visibles.
+- **Pelo:** Volumen exagerado. Dos coletas altas muy tirantes (high pigtails) pero con el resto del cabello suelto y ondulado cayendo por la espalda.
+- **Escenario:** Un garaje industrial lleno de graffitis góticos (calaveras, lunas, rosas negras). Un coche deportivo negro mate (SUV o Lamborghini) con luces de neón bajo el chasis. Ambiente nocturno con iluminación de focos de estudio "Backstage vibe".
+- **Ubicación:** `05_Imagenes/helena/look72_urban_trap/`
