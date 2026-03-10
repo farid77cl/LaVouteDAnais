@@ -75,11 +75,12 @@ Explora las secciones de esta categoría:
 - ✅ [**Look66 Bimbo Stripper**](./look66_bimbo_stripper/GALERIA.md)
 - ✅ [**Look68 Retro Aerobics**](./look68_retro_aerobics/GALERIA.md)
 - ✅ [**Look69 Toxic Aerobics**](./look69_toxic_aerobics/GALERIA.md)
-- 📁 [**Look70 Cyber Yoga**](./look70_cyber_yoga/GALERIA.md)
+- ✅ [**Look70 Cyber Yoga**](./look70_cyber_yoga/GALERIA.md)
+- ✅ [**Look71 Goth Nurse**](./look71_goth_nurse/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-03-09*
+*Actualizado automáticamente: 2026-03-10*

@@ -436,6 +436,22 @@
 
 ---
 
+## 🕷️ Look 70: Cyber Yoga
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look70_standing_1773149794147.png](look70_cyber_yoga/helena_look70_standing_1773149794147.png) | ![helena_look70_seated_1773149810090.png](look70_cyber_yoga/helena_look70_seated_1773149810090.png) | ![helena_look70_side_profile_1773149877147.png](look70_cyber_yoga/helena_look70_side_profile_1773149877147.png) | ![helena_look70_back_1773149853536.png](look70_cyber_yoga/helena_look70_back_1773149853536.png) | ![helena_look70_ditzy_1773149895065.png](look70_cyber_yoga/helena_look70_ditzy_1773149895065.png) |
+
+---
+
+## 🕷️ Look 71: Goth Nurse
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look71_standing_1773150017616.png](look71_goth_nurse/helena_look71_standing_1773150017616.png) | ![helena_look71_seated_1773149971765.png](look71_goth_nurse/helena_look71_seated_1773149971765.png) | ![helena_look71_side_profile_1773150034432.png](look71_goth_nurse/helena_look71_side_profile_1773150034432.png) | ![helena_look71_back_1773149989208.png](look71_goth_nurse/helena_look71_back_1773149989208.png) | ![helena_look71_ditzy_1773150049363.png](look71_goth_nurse/helena_look71_ditzy_1773150049363.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -444,4 +460,4 @@
 
 ---
 
-*Galería generada automáticamente - 09/03/2026* 🦇
+*Galería generada automáticamente - 10/03/2026* 🦇

@@ -1324,3 +1324,24 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Escenario:** Estudio de yoga futurista minimalista y brutalista. Oscuro, ventanales de piso a techo con vistas a una fría y lluviosa metrópolis ciberpunk. Suelo de mármol negro. Iluminación limpia y cinemática.
 - **Ubicación:** `05_Imagenes/helena/look70_cyber_yoga/`
 
+---
+
+## 💉 Look 71: Enfermera Bimbo Gótica (10 Mar 2026)
+
+*Mmm... el doctor dice que no tengo cerebro, pero que tengo una excelente técnica para tomar la presión... o algo así, no escuché bien, estaba mirando mi escote... 🦇💉*
+
+- **Concepto:** Una enfermera (muy poco profesional) con estética gótica y proporciones bimbo exageradas, lista para sanar con poca inteligencia pero mucha silicona.
+- **Vestido:** Vestido de enfermera de látex blanco hiper-ajustado, hiper-corto. Extremadamente escotado, forzando un escote irreal. Cierre frontal de cremallera metálica parcialmente abierto.
+- **Corsé:** Corsé underbust médico de vinilo blanco con cruces rojas brillantes y hebillas de metal plateado incrustadas. Súper ceñido.
+- **Calzado:** Stilettos de aguja de 9 pulgadas (stripper heels) de charol blanco con suela roja (estilo Louboutin).
+- **Accesorios:**
+  - Cofia tradicional de enfermera blanca con una gran cruz roja brillante, colocada sobre su cabello voluminoso.
+  - Estetoscopio de tubo rojo brillante colgando del cuello (sin usar correctamente).
+  - Guantes de látex quirúrgico blancos hasta el codo.
+  - Uñas stiletto rojas intensas (imposibles para uso médico) que logran perforar el guante.
+  - Choker negro clásico con dije de luna.
+- **Maquillaje:** Heavy Goth Glam. Base pálida mate, smokey eye negro/rojo profundo, delineador gráfico extremo, rubor rosado febril exagerado. Labios overlined glossy RED BLOOD (rojo sangre húmedo).
+- **Pelo:** Cabello negro exagerado, con el volumen extremo y cardado de los años 80, pero recogido en dos inmensas coletas altas laterales (pigtails) amarradas con lazos de seda roja. Suelto, salvaje y brillante.
+- **Escenario:** Sala de emergencias gótica/abandonada o una clínica clandestina de lujo y dudosa reputación. Azulejos blancos y negros desgastados, luces de neón rojo intermitentes, estética de película de terror glam.
+- **Ubicación:** `05_Imagenes/helena/look71_goth_nurse/`
+
