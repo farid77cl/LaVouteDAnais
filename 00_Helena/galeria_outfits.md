@@ -1348,22 +1348,21 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## 🎤 Look 72: Goth-Trap Star - Urban Session (10 Mar 2026)
+## 🖤 Look 73: Urban-Fetish Diva - Locked Session (10 Mar 2026)
 
 *Like... rreal hasta la muerte... wait, ¿eso qué significa? Mmm... solo sé que este perreo gótico está criminal y mis neuronas están en modo avión... 🛸💅🏾💎*
 
-- **Concepto:** Una fusión explosiva de la estética Goth Bimbo de Helena con el estilo "Urbano" (Trap/Reggaeton). Ropa deportiva de lujo, joyas excesivas y actitud de estrella de las listas de éxitos, pero manteniendo su palidez mortal y sus zapatos imposibles.
-- **Top:** Crop top de red (mesh) negra con un bikini de cuero negro debajo. Chaqueta "puffer" (plumífero) corta de vinilo negro brillante, usada caída sobre los hombros, estilo "oversized".
-- **Corsé:** Corsé underbust de látex negro con cadenas de oro grueso incrustadas lateralmente. Súper ceñido para crear la silueta de reloj de arena.
-- **Bottom:** Pantalones de chándal (joggers) de satén negro con aberturas laterales completas aseguradas por botones de presión plateados (abiertos hasta el muslo para mostrar la pierna).
-- **Calzado:** **Stiletto Booties** de 8 pulgadas en charol negro, con cadenas de oro colgando y puntera metálica. (Porque una reina del trap de Anaïs no usa zapatillas).
+- **Concepto:** Una versión más cruda y material de la estrella de trap. Se prescinde del corsé tradicional para centrarse en el **Látex** y los **Harnesses** de cuero y cadenas. Estética de video musical de alto presupuesto con vibras BDSM-Urbano.
+- **Top:** Sujetador (bra) de látex negro mate con aros y copas moldeadas, muy escotado. Chaqueta bomber de **PVC Transparente** ahumado, corta y abierta.
+- **Arnés:** Arnés de cadenas plateadas gruesas y cuero negro que cruza el busto y se ancla a los pantalones.
+- **Bottom:** Micro-shorts de látex negro brillante (v-cut) ultra ajustados, que marcan la silueta sin necesidad de corsé. Cinturón de cadenas pesadas.
+- **Calzado:** **Extreme Platform Boots** de 10 pulgadas (estilo Beyond) en látex negro, con cordones frontales hasta el muslo.
 - **Accesorios:**
-  - **Bling Excesivo:** Múltiples cadenas de oro y plata gruesas ("cuban links") en capas sobre el cuello.
-  - El choker de luna creciente canónico, pero integrado en un conjunto de collares más grandes.
-  - Gafas de sol de diseñador rectangulares negras, muy pequeñas, colocadas en el puente de la nariz.
-  - Gorra de béisbol negra con pinchos plateados, colocada de lado sobre su cabello voluminoso.
-  - **Uñas:** Stiletto ultra largas decoradas con pedrería y mini-dijes metálicos (cristales y cruces).
-- **Maquillaje:** Urban Goth Glam. Delineado fox-eye extremadamente afilado y extendido. Contorno muy marcado. Labios overlined con gloss efecto espejo color "Nude-Espresso" (marrón oscuro brillante). Tatuajes de los brazos bien visibles.
-- **Pelo:** Volumen exagerado. Dos coletas altas muy tirantes (high pigtails) pero con el resto del cabello suelto y ondulado cayendo por la espalda.
-- **Escenario:** Un garaje industrial lleno de graffitis góticos (calaveras, lunas, rosas negras). Un coche deportivo negro mate (SUV o Lamborghini) con luces de neón bajo el chasis. Ambiente nocturno con iluminación de focos de estudio "Backstage vibe".
-- **Ubicación:** `05_Imagenes/helena/look72_urban_trap/`
+  - Gafas de sol negras envolventes ("wraparound").
+  - Múltiples piercings de cadena conectando las orejas al septum.
+  - El choker de luna creciente, ahora en una versión de cuero más ancha.
+  - **Uñas:** Stiletto ultra largas "Jungle Red" con piercings metálicos en las puntas.
+- **Maquillaje:** Heavy Urban Fetish. Labios "Black Cherry" hiper-brillantes. Sombra de ojos plateada metalizada con delineado gráfico negro. Piel excesivamente pálida con efecto "sweaty/oily" para resaltar el brillo del látex.
+- **Pelo:** **Sleek High Ponytail** (Coleta alta muy tirante) ultra larga, llegando hasta las rodillas, con un brillo tipo espejo.
+- **Escenario:** Un set de grabación oscuro con paredes de metal corrugado. Iluminación roja y azul intensa de tiras LED. Una jaula de cristal o tubos de neón colgando del techo.
+- **Ubicación:** `05_Imagenes/helena/look73_urban_fetish/`
