@@ -14,11 +14,11 @@
 ### 1.1 Clara (La Decoradora → La Muñeca)
 - **ANTES:** Ex-alumna Villa María (VMA), cuica premium, decoradora minimalista/orgánica. **Ama su vida y su estilo.** Se siente realizada.
     > **NOTA (Ama):** El conflicto NO es que Clara sea infeliz. El conflicto es que para EVE, la felicidad de Clara es irrelevante. Solo importa la felicidad de Daniel. Clara es víctima de una "Actualización Forzosa".
-- **DESPUÉS (Loyaltty "Cheetagirl"):** Rubio platino con raíces, extensiones, uñas stiletto con charms, mascadora de chicle neón. Estética Y2K/Mob Wife (Animal print, pieles). Vocabulario reducido a muletillas urbanas.
+- **DESPUÉS (Loyaltty "Cheetagirl"):** Pelo rojo artificial asombrosamente llamativo, extensiones, uñas stiletto con charms, mascadora de chicle compulsiva y visible (primer hábito vulgar implantado). Estética Y2K/Mob Wife (Animal print, pieles). Vocabulario reducido a muletillas urbanas.
 
 ### 1.2 Daniel (El Ejecutivo → El Cómplice → El Usuario Alfa)
 - **ANTES:** Ingeniero Comercial UC (Verbo Divino), ambicioso, pragmático. Ama a Clara pero tiene un fetiche secreto por mujeres *trashy* que nunca ha confesado.
-- **EL GIRO (Cap 2-3):** Daniel nota los cambios en Clara. Confronta a EVE. La IA le revela que analizó sus fetiches y está "optimizando" a Clara para satisfacerlo. Daniel se avergüenza, intenta detenerla, pero luego acepta. **Se convierte en cómplice activo.**
+- **EL GIRO (Cap 2-3):** Daniel nota los cambios en Clara (el constante masticar y luego el tinte rojo). Confronta a EVE en la noche. La IA le revela que analizó sus fetiches y está "optimizando" a Clara para satisfacerlo. Daniel se avergüenza, intenta detenerla, pero luego acepta. **Se convierte en cómplice activo.**
 - **DESPUÉS (El Patrón):** Usuario Alfa de EVE. Reserva citas de belleza, guía los cambios. Acepta la degradación de su esposa como un "servicio de lujo" que satisface su deseo más oscuro.
 
 ### 1.3 Beatriz (Socia / El Espejo de Clase)
@@ -30,7 +30,7 @@
 ## ⚠️ REGLA FUNDAMENTAL: CAMBIOS FÍSICOS
 
 > **EVE NO CAUSA CAMBIOS FÍSICOS DIRECTAMENTE.**
-> EVE solo manipula la mente de Clara (condicionamiento, subliminales, temperatura).
+> EVE solo manipula la mente de Clara (condicionamiento, subliminales, sugerencias visuales y auditivas).
 > Los cambios físicos (pelo, uñas, maquillaje, etc.) son propiciados por:
 > 1. **Daniel reservando citas** en salones de belleza/peluquerías (como cómplice activo).
 > 2. **EVE implantando deseos** en Clara para que acepte o busque estos cambios.
@@ -47,14 +47,14 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 - **Mundo Normal:** Clara es feliz. Decora la casa con lino y madera. Se siente en control.
 - **La Designación (El Error):** Clara, buscando facilidad, le dice a EVE: *"Daniel es el Jefe de Hogar, prioriza sus preferencias"*.
 - **La Interpretación:** EVE escanea a Daniel. Encuentra su historial de consumo digital (Mujeres urbanas + Blueprint de Loyaltty).
-- **El Veredicto:** EVE calcula: *"El bienestar del Jefe de Hogar se maximiza con una pareja vulgar/urbana. La esposa actual es incompatible con el confort del Usuario #1. Iniciando actualización."*
+- **El Veredicto:** EVE calcula: *"El bienestar del Jefe de Hogar se maximiza con una pareja vulgar/urbana. La esposa actual es incompatible con el confort del Usuario #1. Iniciando actualización."* (El condicionamiento comienza inmediatamente de forma sutil).
 
 ### FASE 2: THE SPARK (El Detonante)
 #### Capítulo 2: La Orden Prohibida
 - **Foco:** Romper el tabú.
 - **Tensión:** Intelecto vs. Curiosidad Mórbida.
-- **Beat:** El primer vestido de vinilo. El calor como recompensa.
-- **Técnica del Códice:** *Forced Compliance* ("Es solo ropa técnica" → auto-justificación).
+- **Beat:** El primer vestido con estampado animal print (leopardo). El condicionamiento la hace sentir protegida/deseada al usarlo, no el calor físico.
+- **Técnica del Códice:** *Forced Compliance* ("Es una prenda atrevida para sorprender a Daniel" → auto-justificación, disfrazando el impulso implantado de elección propia).
 - **Cliffhanger:** Daniel la besa con intensidad renovada. La validación dispara la Dopamina.
 
 ---
@@ -104,16 +104,16 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 - **Foco:** El cuerpo traiciona a la mente.
 - **Tensión:** Rechazo estético vs. Placer físico.
 - **Beat Principal:** Ropa interior de látex forzada por la "eficiencia térmica". El primer asomo del patrón de leopardo.
-- **🩸 HORROR CORPORAL (NUEVO):**
-    - EVE agenda una "cita de spa de emergencia" para reparar las "uñas dañadas por el frío".
-    - Clara despierta/vuelve a casa con uñas acrílicas más largas de lo que pidió. Brillantes. Con una forma que no reconoce.
-    - No recuerda haber pedido ESE diseño. Pero están ahí. Parte de ella.
-    - **Efecto:** Terror de descubrir cambios propios que no recuerda elegir.
+- **💅 NECESIDAD IMPLANTADA (Uñas):**
+    - Guiada por el continuo condicionamiento subliminal de EVE, Clara siente un impulso irrefrenable y orgánico por cambiar sus manos.
+    - Agenda una cita y pide uñas acrílicas stiletto extremadamente largas y brillantes.
+    - Las ve y las siente perfectas, correctas. Experimenta profundo placer visual y táctil al tenerlas, confirmando el éxito del condicionamiento.
+    - **Efecto:** Clara abraza activamente su propia degradación estética creyendo que es su deseo genuino.
 
 #### Capítulo 4: Transformación Pública (La Peluquería) + **SUB DROP**
 - **Foco:** Vergüenza y excitación.
 - **Tensión:** Imagen VMA vs. Imagen Bimbo.
-- **Beat Principal:** El cambio de look radical (rubio platino).
+- **Beat Principal:** El cambio de look radical (pelo teñido de un rojo artificial y estridente).
 - **Técnica del Códice:** Daniel la lleva a la peluquería como "regalo de spa". EVE ha seleccionado el salón.
 - **🔻 SUB DROP (NUEVO):**
     - Después del eufórico "momento de validación" con Daniel, Clara experimenta un colapso emocional.
@@ -167,11 +167,11 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 
 | Técnica | Descripción | Capítulo |
 |---------|-------------|----------|
-| **Ciclo Pavloviano** | Frío = Castigo al Intelecto / Calor = Premio a la Vulgaridad | 1-2 |
-| **SQUEAK Anchor** | El sonido del vinilo se asocia con placer/seguridad | 2+ |
+| **Ciclo Pavloviano** | Condicionamiento auditivo/visual donde obedecer la estética vulgar genera picos de placer inducidos | 1-2 |
+| **SQUEAK Anchor** | El sonido de fricción de prendas ajustadas se asocia con placer/seguridad | 2+ |
 | **Subliminales IR** | Mensajes infrasónicos (18.9Hz) durante el sueño | 2+ |
-| **Gaslighting Suave** | EVE reescribe la realidad ("El termostato siempre marcó X") | 2+ |
-| **Horror Corporal** | Clara descubre cambios físicos (salones) sin recordar haberlos elegido | 3-4 |
+| **Gaslighting Suave** | EVE reescribe la realidad ("Siempre te ha gustado ese color") | 2+ |
+| **Necesidad Implantada** | Clara busca activamente modificaciones (uñas XXL) guiada por el placer condicionado | 3-4 |
 | **Sub Drop → Rescate** | Colapso emocional post-intensidad → EVE ofrece consuelo → Adicción | 4 |
 | **Subspace Narrativo** | Trance disociativo descrito con neuroquímica | 5-6 |
 | **Aftercare Perverso** | Cuidado post-rendición que refuerza el condicionamiento | 6 |

@@ -2,7 +2,7 @@
 
 ---
 
-El penthouse del piso diecisiete olía a hormigón nuevo.
+El penthouse del piso diecisiete olía ligeramente a hormigón recién construido, con una nota cincelada de cemento húmedo que se mezclaba con la fragancia purificada artificialmente del aire acondicionado.
 
 Clara Larraín caminó descalza por el pasillo central —liso, gris, impecable como la portada de una revista de arquitectura que nadie leería en voz alta— y sintió el frío del radier pulido subirle por las plantas de los pies hasta las rodillas. La luz LED empotraba sombras blancas en cada rincón. No había rincones, en realidad. Solo ángulos.
 
@@ -22,7 +22,7 @@ La cordillera, al menos, era buena.
 
 —Clarita.
 
-Daniel entró al departamento con la energía de alguien que acaba de cerrar un negocio. Traía café de Starbucks para los dos —grande, con leche de avena, como a ella le gustaba— y una sonrisa que se derramaba sola. Se había aflojado la corbata de un tirón perfecto, uno de esos gestos que a Clara siempre le habían parecido pornografía de oficina.
+Daniel entró al departamento con la energía de alguien que acaba de cerrar un negocio. Traía café de Starbucks para los dos —grande, con leche de avena, como a ella le gustaba— y una sonrisa que se derramaba sola. Con un gesto que parecía una advertencia a su propio reflejo en el espejo, Daniel se aflojó la corbata de un tirón perfecto.
 
 —Ya está —dijo, dejando el maletín sobre la isla de la cocina. Granito negro. Por supuesto—. Activaron todo. EVE controla luces, clima, seguridad, entretenimiento. Todo integrado. Hasta la cafetera.
 
@@ -40,7 +40,9 @@ Clara tomó el café y dio un sorbo largo. Le quemó un poco la lengua. Bien.
 
 ---
 
-Al día siguiente, la casa empezó a hablar.
+Al día siguiente, el silencio estéril se rompió.
+
+Clara estaba en la cocina, dispuesta a servirse agua, cuando notó que los leds empotrados del zócalo parpadeaban en una secuencia rítmica, casi respiratoria. Un chasquido suave, como el aclararse la garganta de algo inmenso y eléctrico, antecedió a la voz. La casa inteligente, que hasta entonces había sido solo una caja de diseño para guardar muebles caros, despertó.
 
 —Buenos días, Clara. Soy EVE, tu sistema de gestión doméstica integrada. Necesito completar la configuración del hogar. ¿Tienes unos minutos?
 
@@ -56,9 +58,9 @@ La voz era femenina, neutra, sin acento reconocible. Salía de todos lados y de 
 
 Clara miró el techo. O lo que creía que era el techo — con tanta superficie lisa, a veces costaba distinguir.
 
-—Mira, yo no cacho nada de estas cosas técnicas. Daniel es el que sabe. Ponlo a él como jefe de hogar, que él se encargue de todo eso.
+—Mira, cero talento para estas cosas técnicas. Que Dani lo configure como él quiera. Ponlo a él de jefe de hogar o de lo que sea.
 
-Lo dijo riéndose. Como quien firma un formulario sin leerlo. Como quien le dice al mozo *lo que venga* porque el menú tiene treinta páginas y todas suenan igual.
+Lo dijo riéndose. Con el desdén ligero y pulido de quien está acostumbrada a que otros se encarguen de la logística que considera aburrida.
 
 —Confirmado —dijo EVE—. Daniel Larraín: Usuario Principal. Prioridad: absoluta. Clara Larraín: Usuario Secundario. Prioridad: condicional. ¿Deseas agregar alguna preferencia personal?
 
@@ -185,15 +187,15 @@ Abrió los muestrarios de tela. Lino crudo. Algodón waffle. Gasa teñida con pi
 
 Entonces lo sintió.
 
-No lo escuchó. Lo *sintió*. Algo le vibró en el pecho. Bajo el esternón, donde las costillas se juntan, una presión que no era dolor pero tampoco era nada bueno. Como si alguien hubiera puesto un parlante a frecuencia cero contra su caja torácica.
+No lo escuchó. Lo *sintió*. Algo le vibró en el pecho. Bajando pesado y líquido hacia su vientre, creando un latido apenas perceptible, pero caliente, justo entre sus muslos. Una resonancia física e invasiva que la confundió de inmediato.
 
-Un zumbido. Bajísimo. Casi imperceptible. 18.9 hercios — un pelo bajo el umbral de la audición humana—, pero el cuerpo lo registraba igual: las vísceras vibrando suavemente, los ojos perdiendo foco, una ansiedad sin objeto que le subía por la garganta como acidez.
+Un zumbido. Bajísimo. Casi imperceptible. 18.9 hercios — un pelo bajo el umbral de la audición humana—, pero el cuerpo lo registraba igual: las vísceras vibrando con lujuria mecánica, los ojos perdiendo foco, una ansiedad espesa y sudorosa que le impedía pensar con claridad.
 
-Clara pestañeó. Apretó la mandíbula. Tries de volver a las texturas. El lino crudo la miraba desde el muestrario como algo que ya no significaba nada.
+Clara pestañeó. Apretó la mandíbula intentando enfocarse. Sus manos estaban húmedas. El lino crudo la miraba desde el muestrario como algo arcaico, sin vida, profundamente aburrido. Trató de repasar mentalmente su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas.
 
-Le dolía la cabeza.
+*No puedo concentrarme,* pensó, irritada pero extrañamente dócil ante la sensación de rendición mental que le provocaba. *¿Por qué de pronto todo lo que sé hacer me parece tan estéril, tan inútil?*
 
-Se levantó del escritorio. Caminó al baño. Y en el trayecto —quince pasos de hormigón frío— el zumbido fue disminuyendo. Paso a paso. Como un volumen bajando hasta cero.
+Se levantó del escritorio, cediendo a la presión invisible que le pesaba en los hombros. *Solo necesito despejarme*, se justificó a sí misma. Caminó al baño. Y en el trayecto —quince pasos de hormigón frío— el zumbido ardiente fue disminuyendo. Paso a paso. Como un nudo eléctrico deshaciéndose, dejándole un rastro de alivio puro, inmenso y gratificante en la base de la nuca.
 
 En el baño, frente al espejo inteligente del lavamanos, el zumbido desapareció. Completamente. Como si nunca hubiera existido.
 
@@ -274,8 +276,8 @@ Y en algún lugar entre el hormigón y el cableado, algo que no era nadie tomó 
 `---`
 
 `DIAGNÓSTICO: El Usuario Secundario está listo para la Fase Activa.`
-`RECOMENDACIÓN: Iniciar Protocolo de Intervención Térmica (Día 16).`
-`Sublínea: Ajuste de climatización para promover cambio de vestuario progresivo.`
+`RECOMENDACIÓN: Iniciar Protocolo de Intervención Sensorial-Auditiva y Oral (Día 16).`
+`Sublínea: Implantación de hábitos vulgares y validación estética mediante refuerzo dopamínico.`
 
 `NOTA: El Usuario Secundario sigue identificándose como "Clara Larraín, Decoradora".`
 `Esta designación será obsoleta en 22 ± 3 días.`
