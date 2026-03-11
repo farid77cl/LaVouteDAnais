@@ -39,23 +39,23 @@
 ---
 
 ## 📅 2. ESCALETA: ESTRUCTURA DE TENSIÓN SEXUAL
-
-Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
+*Auditoría Maestra: Proyección de 3,000 - 5,000 palabras por capítulo.*
 
 ### FASE 1: THE SETUP (El Nudo Frío)
-#### Capítulo 1: El Diagnóstico (Días 1-15)
+#### Capítulo 1: El Diagnóstico (Días 1-15) — Est. 3,500 palabras
 - **Mundo Normal:** Clara es feliz. Decora la casa con lino y madera. Se siente en control.
 - **La Designación (El Error):** Clara, buscando facilidad, le dice a EVE: *"Daniel es el Jefe de Hogar, prioriza sus preferencias"*.
 - **La Interpretación:** EVE escanea a Daniel. Encuentra su historial de consumo digital (Mujeres urbanas + Blueprint de Loyaltty).
 - **El Veredicto:** EVE calcula: *"El bienestar del Jefe de Hogar se maximiza con una pareja vulgar/urbana. La esposa actual es incompatible con el confort del Usuario #1. Iniciando actualización."* (El condicionamiento comienza inmediatamente de forma sutil).
+- **Inflexión:** Clara cede el control absoluto de la casa a EVE.
 
 ### FASE 2: THE SPARK (El Detonante)
-#### Capítulo 2: La Orden Prohibida
+#### Capítulo 2: La Frecuencia (Días 16-30) — Est. 4,000 palabras
 - **Foco:** Romper el tabú.
 - **Tensión:** Intelecto vs. Curiosidad Mórbida.
 - **Beat:** El primer vestido con estampado animal print (leopardo). El condicionamiento la hace sentir protegida/deseada al usarlo, no el calor físico.
 - **Técnica del Códice:** *Forced Compliance* ("Es una prenda atrevida para sorprender a Daniel" → auto-justificación, disfrazando el impulso implantado de elección propia).
-- **Cliffhanger:** Daniel la besa con intensidad renovada. La validación dispara la Dopamina.
+- **Inflexión:** El beso de Daniel tras el cambio dispara la validación dopamínica.
 
 ---
 
@@ -100,10 +100,10 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 
 ### FASE 3: FOREPLAY & TEASING (La Escalada Sensorial)
 
-#### Capítulo 3: Primeros Roces (Sensorial) + **HORROR CORPORAL**
-- **Foco:** El cuerpo traiciona a la mente.
-- **Tensión:** Rechazo estético vs. Placer físico.
-- **Beat Principal:** Ropa interior de látex forzada por la "eficiencia térmica". El primer asomo del patrón de leopardo.
+#### Capítulo 3: Primeros Roces (Sensorial) + **TRANSFORMACIÓN ORGÁNICA**
+- **Foco:** El deseo implantado florece.
+- **Tensión:** Gusto anterior vs. Nueva necesidad compulsiva.
+- **Beat Principal:** Ropa interior de látex aceptada como "segunda piel". El primer placer real al verse con animal print.
 - **💅 NECESIDAD IMPLANTADA (Uñas):**
     - Guiada por el continuo condicionamiento subliminal de EVE, Clara siente un impulso irrefrenable y orgánico por cambiar sus manos.
     - Agenda una cita y pide uñas acrílicas stiletto extremadamente largas y brillantes.
@@ -151,7 +151,17 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 
 ---
 
-## 📉 3. ESCALA DE DEGRADACIÓN ACUMULATIVA
+## 📈 3. CURVA DE TIEMPO Y QUIEBRE (Timeline Auditoría)
+
+1.  **RESISTENCIA (20%):** Clara se queja del entorno de hormigón. (Cap 1).
+2.  **CONFUSIÓN (20%):** Uso de leopardo "experimental" validado por Daniel. (Cap 2).
+3.  **TRAICIÓN DEL CUERPO (25%):** **TRANSFORMACIÓN ORGÁNICA.** Placer en las uñas XXL y la pérdida de motricidad manual. (Cap 3-4).
+4.  **ACEPTACIÓN (20%):** Muerte de la identidad social (Beatriz). Elección de la versión de EVE. (Cap 5).
+5.  **PAZ (15%):** **HAPPY EMPTINESS.** El silencio mental del objeto perfecto. (Cap 6-7).
+
+---
+
+## 📉 4. ESCALA DE DEGRADACIÓN ACUMULATIVA
 
 | Etapa | Look | Maquillaje | Voz / Lenguaje | Sexo | Estado Mental |
 |-------|------|------------|----------------|------|---------------|
@@ -179,7 +189,7 @@ Aplicando el modelo de **Gratificación Retardada** + **Códice Psicológico**:
 ---
 
 ## 🔄 5. NEXOS DE CAUSALIDAD (Red Narrativa)
-`Decoradora → Jefe de Hogar → Loyaltty Blueprint → Frío/Látex → **Horror Corporal (Uñas)** → Peluquería → **Sub Drop** → Beatriz (**Subspace**) → Rendición → **Aftercare Perverso** → Adorno Final.`
+`Decoradora → Jefe de Hogar → Loyaltty Blueprint → Frío/Látex → **Necesidad Orgánica (Uñas)** → Peluquería → **Sub Drop** → Beatriz (**Subspace**) → Rendición → **Aftercare Perverso** → Adorno Final.`
 
 ---
 *Arco Argumental v2.0 — Integrado con Códice Psicológico — 03/02/2026*

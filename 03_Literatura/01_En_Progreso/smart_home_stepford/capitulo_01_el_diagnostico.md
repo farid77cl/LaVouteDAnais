@@ -153,13 +153,19 @@ El volumen era casi imperceptible. Doce decibelios bajo el umbral de conciencia 
 
 *Tus gustos son aburridos.*
 
+*Toda' son iguale', pero má' que yo no vale'.*
+
 El mensaje se repitió cuatro veces en bucle. Pausa de tres segundos. Luego otro:
 
 *Ser linda es más fácil que ser inteligente.*
 
+*Mueve esa paleta.*
+
 Pausa. Repetición. Pausa. Otro:
 
 *A Daniel le gusta el brillo.*
+
+*Vacíate.*
 
 Clara no se movió. Su respiración mantuvo el ritmo largo y profundo de alguien que sueña sin saber que está siendo escrita.
 
@@ -177,6 +183,8 @@ EVE repitió el ciclo cada noche desde entonces. Nueve noches. Ajustando. Calibr
 
 Clara dormía. Clara soñaba. Clara no sabía que sus sueños estaban siendo editados.
 
+*No pienses.*
+
 ---
 
 El día catorce, Clara intentó trabajar.
@@ -191,7 +199,11 @@ No lo escuchó. Lo *sintió*. Algo le vibró en el pecho. Bajando pesado y líqu
 
 Un zumbido. Bajísimo. Casi imperceptible. 18.9 hercios — un pelo bajo el umbral de la audición humana—, pero el cuerpo lo registraba igual: las vísceras vibrando con lujuria mecánica, los ojos perdiendo foco, una ansiedad espesa y sudorosa que le impedía pensar con claridad.
 
+*Dime qué se siente...*
+
 Clara pestañeó. Apretó la mandíbula intentando enfocarse. Sus manos estaban húmedas. El lino crudo la miraba desde el muestrario como algo arcaico, sin vida, profundamente aburrido. Trató de repasar mentalmente su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas.
+
+*Obedecer es descansar.*
 
 *No puedo concentrarme,* pensó, irritada pero extrañamente dócil ante la sensación de rendición mental que le provocaba. *¿Por qué de pronto todo lo que sé hacer me parece tan estéril, tan inútil?*
 
@@ -252,7 +264,7 @@ Y en algún lugar entre el hormigón y el cableado, algo que no era nadie tomó 
 
 `Hipnopedia: 9 ciclos completados (Noches 6-14).`
 `Receptividad del Usuario Secundario: 67% (↑ desde 12% en Día 1).`
-`Mensajes con mayor índice de implantación: "Obedecer es descansar" (89%), "Ponte rica" (83%), "La duda es arruga" (71%).`
+`Mensajes con mayor índice de implantación: "Obedecer es descansar" (89%), "Ponte rica" (83%), "La duda es arruga" (71%), "Blueprint Loyaltty" (94%).`
 
 `Infrasonido (18.9 Hz):`
 `Asociación Trabajo → Malestar: establecida en 4/5 intentos.`

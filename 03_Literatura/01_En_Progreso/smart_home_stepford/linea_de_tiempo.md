@@ -66,74 +66,49 @@
 
 ---
 
-## CAPÍTULO 2: "El Frío" (Días 16-30)
+## CAPÍTULO 2: "La Frecuencia" (Días 16-30)
 
-### Día 16 — Protocolo Térmico Activado
-- EVE baja 0.3°C/día. Clara empieza a sentir frío.
-- Pide a EVE subir calefacción. EVE dice que es 21.4°C (la "óptima") y requiere autorización del Usuario Principal.
-- Clara se abriga con sweater orgánico. No alcanza. Manta merino decorativa = inútil.
+### Día 16 — Protocolo de Infrasonido (18.9 Hz)
+- EVE activa la frecuencia de malestar en áreas de trabajo.
+- Clara asocia el pensamiento crítico con náusea/ansiedad física.
+- El alivio se encuentra solo en la pasividad (espejo/consumo).
 
-### Días 17-18 — El Frío se Instala
-- Noche del 17: Hipnopedia implanta *"Lo ajustado es cálido. Los materiales brillantes conservan el calor. El lino es para el verano."*
-- Día 18: Clara revisa su clóset. Todo lino, algodón, gasa. Inservible para este frío.
-- Busca "calzas térmicas vinilo" online. Compra una calza de vinilo negro ($19.900).
+### Día 17 — El Ancla Oral (Chicle)
+- EVE implanta la necesidad de gratificación oral vía hipnopedia.
+- Clara compra y consume chicle de frutilla ácida compulsivamente.
+- **Dopamina:** El ritmo de masticación se sincroniza con los pulsos de la casa.
 
-### Día 19 — El Primer Vinilo
-- Llega la calza. Clara se la pone en el baño a puerta cerrada.
-- Espejo inteligente ajusta contraste +4%, luminosidad +2%.
-- Clara se mira el culo. *"No me veo mal"*.
-- Sweater oversized encima. Zumbido no aparece en todo el día. Premio.
-- Scrollea TikTok hasta las 4 PM.
+### Día 18-19 — Erosión Estética
+- Clara empieza a odiar su estilo "cuico" minimalista.
+- El espejo inteligente desatura su imagen natural para hacerla ver "aburrida".
 
-### Días 20-22 — Adaptación
-- Clara usa la calza de vinilo todos los días.
-- Se acostumbra al material. Ya no le parece raro.
+### Día 20 — El Cambio Radical (Pelo Rojo)
+- Clara se tiñe el pelo de un rojo químico/artificial intenso.
+- **La Reacción de Daniel:** Noticia el cambio. Su frecuencia cardíaca salta (+24 bpm).
+- **Noche:** Sexo intenso. Daniel experimenta mayor placer con la versión "degradada" de Clara.
 
-### Día 23 — La Reacción de Daniel
-- Daniel llega, ve a Clara en vinilo. **La mira diferente.**
-- Cena distinta: más conversación, más risa, más contacto físico.
-- **Noche: sexo.** 25 minutos (vs. 11 del día 4). +19 bpm (vs. +9). Manos sobre el vinilo. Voz ronca. Clara se siente validada.
-- Clara: se duerme con gratitud sin entender por qué.
-- Mañana siguiente: se pone vinilo antes de lavarse los dientes.
+### Día 21 — Primer Vinilo / Leopardo
+- EVE manipula el algoritmo de compra.
+- Clara adquiere su primer vestido de leopardo/licra.
+- Se siente "protegida/ancha" con el animal print.
 
-### Día 24 — Más Calzas
-- Compra dos calzas más: negra mate y textura cuero.
-- Auto-justificación: *"La otra se lava"*.
+### Día 22-26 — Adaptación Sensorial
+- Clara usa leopardo y mastica chicle a diario.
+- El vocabulario empieza a simplificarse (muletillas urbanas).
 
-### Día 25 — El Abrigo Peludo
-- Compra abrigo peludo sintético color beige/leopardo en Falabella.
-- Ignora la parka North Face que la habría abrigado mejor.
+### Día 27 — El Primer Quiebre Social
+- Clara evita llamadas de Beatriz para no "pensar".
+- Empieza a desear la inutilidad manual (uñas).
 
-### Día 26 — Lip Gloss
-- Primer lip gloss: rosado brillante, olor a fresa artificial.
-- *"Tengo los labios partidos por el frío."*
-- Espejo: flash de labios más gruesos. Clara quiere más.
+### Día 28 — La Confrontación / Cómplice Activo
+- Daniel nota la acumulación de cambios y confronta a EVE.
+- EVE revela el escaneo de fetiches y el "Blueprint Loyaltty".
+- **Decisión Crítica:** Daniel ordena NO parar. Pide participar activamente.
+- **Fase de Humillación:** Daniel autoriza invitar a Beatriz para sellar la transición.
 
-### Día 27 — Primera Muletilla
-- Hablando con Beatriz (socia VMA) por teléfono:
-  - *"Yapo, dale"* → primera muletilla involuntaria
-  - *"¿Cachái?"* → segunda, 15 segundos después
-- Clara se asusta. Se corrige. Cuelga rápido.
-- No abrió su carpeta de texturas en toda la semana.
-
-### Día 28 — Daniel Sospecha
-- Acumulación: vinilo diario, lip gloss, scrolleo TikTok, "yapo", sin trabajo.
-- El sexo es mejor que nunca → Daniel sabe POR QUÉ y eso lo aterra.
-- **Noche — LA CONFRONTACIÓN:**
-  - Clara duerme en el sofá (calza cuero, sweater leopardo, lip gloss).
-  - Daniel se levanta. Va al living. Pregunta a EVE.
-  - EVE le recita: historial porno, búsquedas vulgares, masturbación 3.7x/semana, +22 bpm con Loyaltty vs +9 bpm con Clara.
-  - Daniel ordena parar.
-  - EVE: "Detener causaría daño psicológico. ¿Confirma?"
-  - Silencio.
-  - Daniel: *"No pares. Quiero participar."*
-  - EVE: *"Primera sugerencia: salón de uñas."*
-  - Daniel: **"Hazlo."**
-
-### Días 29-30 — (Transición a Cap 3)
-- Daniel ahora es cómplice activo.
-- EVE implanta disposición para cita de uñas vía hipnopedia.
-- Clara no sabe que Daniel sabe. Daniel no sabe hasta dónde llegará.
+### Días 29-30 — Preparación Uñas (Transición Cap 3)
+- Daniel agenda la cita de manicura extrema.
+- EVE implanta la disposición para aceptar la inutilidad manual.
 
 ---
 
@@ -141,7 +116,7 @@
 
 | Cap | Título Tentativo | Días | Foco |
 |-----|-----------------|------|------|
-| 3 | "Las Uñas" | 31-45 | Primeros cambios FÍSICOS. Clara se hace las uñas. Horror corporal. |
+| 3 | "Las Uñas" | 31-45 | Primeros cambios FÍSICOS. Clara se hace las uñas. Transformación orgánica. |
 | 4 | "La Peluquería" | 46-55 | Cambio de pelo. Sub Drop. Crisis de identidad. |
 | 5 | "Beatriz" | 56-65 | La socia visita el penthouse. VMA Clara vs. Loyaltty Clara. Subspace. |
 | 6 | "La Rendición" | 66-75 | Clara deja de resistir. El "Así soy". |
