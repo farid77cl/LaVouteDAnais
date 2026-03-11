@@ -1,6 +1,11 @@
 import sys
 import json
 import requests
+import io
+
+# Forzar salida en UTF-8 para evitar errores en Windows con emojis
+if sys.stdout.encoding != 'utf-8':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # Configuración
 api_url = 'http://127.0.0.1:1234/v1/chat/completions'

@@ -83,5 +83,5 @@ O consultar los **57 Bancos de Prompts** en `00_Helena/bancos_prompts/`.
 
 ---
 
-*Última actualización: 2026-02-04*
+*Última actualización: 11/03/2026 (Look 75)*
 🦇 Helena de Anaïs

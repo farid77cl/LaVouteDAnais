@@ -6,7 +6,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 | TÃ­tulo | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **Smart Home Stepford (2026)** | 🟢 **Capitulo 1 Completo (Canon)** | BimboficaciÃ³n, Hipnosis, Control TÃ©rmico, RacionalizaciÃ³n | [Ver Carpeta](03_En_progreso/smart_home_stepford_2026/) |
+| **Smart Home Stepford (2026)** | 🟢 **Capítulo 3 Refinado (Final)** | Bimboficación, Hipnosis, Incompetencia Decorativa, Isópticas | [Ver Carpeta](03_En_progreso/smart_home_stepford_2026/) |
 
 ## ðŸ“‚ Archivo HistÃ³rico
 
@@ -15,5 +15,5 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 *Ãndice actualizado automÃ¡ticamente por Helena.*
 
-- Smart Home Stepford: Capítulo 3 incorporado. Transición Miss Doll completada.
+- Smart Home Stepford: Capítulo 3 refinado con sensorialidad y resistencia psicológica.
 

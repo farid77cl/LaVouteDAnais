@@ -1348,21 +1348,66 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## 🖤 Look 73: Urban-Fetish Diva - Locked Session (10 Mar 2026)
+## 🖤 Look 73: Urban-Fetish Trap (Restitución de Canon - 11/03/2026)
 
-*Like... rreal hasta la muerte... wait, ¿eso qué significa? Mmm... solo sé que este perreo gótico está criminal y mis neuronas están en modo avión... 🛸💅🏾💎*
+*Like... mi flow es tan oscuro que traga mis pensamientos... wait... ¿qué iba a decir? Mmm...* 🦇💅🏾💎
 
-- **Concepto:** Una versión más cruda y material de la estrella de trap. Se prescinde del corsé tradicional para centrarse en el **Látex** y los **Harnesses** de cuero y cadenas. Estética de video musical de alto presupuesto con vibras BDSM-Urbano.
-- **Top:** Sujetador (bra) de látex negro mate con aros y copas moldeadas, muy escotado. Chaqueta bomber de **PVC Transparente** ahumado, corta y abierta.
-- **Arnés:** Arnés de cadenas plateadas gruesas y cuero negro que cruza el busto y se ancla a los pantalones.
-- **Bottom:** Micro-shorts de látex negro brillante (v-cut) ultra ajustados, que marcan la silueta sin necesidad de corsé. Cinturón de cadenas pesadas.
-- **Calzado:** **Extreme Platform Boots** de 10 pulgadas (estilo Beyond) en látex negro, con cordones frontales hasta el muslo.
+- **Concepto:** Goth Bimbo asumiendo una estética de Trap Urbano Fetichista. Sustituye la chaqueta y arnés originales por un top de red y hot pants de látex.
+- **Top:** Sheer mesh underboob crop top (red negra transparente) que revela el underboob masivo. (NO CORSET para dar agresividad).
+- **Bottom:** Micro hot pants de látex negro brillante (estilo cheeky peeking).
+- **Calzado:** Stiletto boots de 9 pulgadas, charol negro, punta muy afilada.
 - **Accesorios:**
-  - Gafas de sol negras envolventes ("wraparound").
-  - Múltiples piercings de cadena conectando las orejas al septum.
-  - El choker de luna creciente, ahora en una versión de cuero más ancha.
-  - **Uñas:** Stiletto ultra largas "Jungle Red" con piercings metálicos en las puntas.
-- **Maquillaje:** Heavy Urban Fetish. Labios "Black Cherry" hiper-brillantes. Sombra de ojos plateada metalizada con delineado gráfico negro. Piel excesivamente pálida con efecto "sweaty/oily" para resaltar el brillo del látex.
-- **Pelo:** **Sleek High Ponytail** (Coleta alta muy tirante) ultra larga, llegando hasta las rodillas, con un brillo tipo espejo.
-- **Escenario:** Un set de grabación oscuro con paredes de metal corrugado. Iluminación roja y azul intensa de tiras LED. Una jaula de cristal o tubos de neón colgando del techo.
-- **Ubicación:** `05_Imagenes/helena/look73_urban_fetish/`
+  - Pesadas cadenas de oro en el cuello estilo reggaeton/trap.
+  - Grandes aros ("hoop earrings") dorados o plateados.
+  - El choker clásico de luna creciente.
+  - **Uñas:** Stiletto extra largas, color rojo oscuro mate.
+  - Tatuajes blackwork visibles en los brazos.
+- **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
+- **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
+- **Escenario:** Callejón urbano nocturno iluminado por neones rosas y púrpuras, con luces y graffiti.
+- **Ubicación:** `05_Imagenes/helena/look73_urban_fetish_trap_canon/`
+
+---
+
+## 🥤 Look 74: 50s Diner Waitress Goth (11/03/2026)
+
+*Like... servimos milkshake y neuronas derretidas... SO aesthetic* 🍒🦇
+
+- **Corsé:** Underbust de cuero negro muy apretado.
+- **Vestido:** Vestido retro 50s de camarera, negro con vivos rojo sangre, micro mini, delantal blanco victoriano retro.
+- **Medias:** Fishnet negras con costura trasera.
+- **Stilettos:** Mary Jane stilettos charol negro, 8 pulgadas.
+- **Accesorios:** Sombrerito de camarera retro, choker luna creciente, bandeja con milkshake.
+- **Maquillaje:** Sacha Massacre canon, labios rojo oscuro muy gruesos.
+- **Pelo:** Negro azabache gran volumen con ondas estilo dramáticas, raya en medio.
+
+### 📸 Imágenes (5)
+- helena_look74_diner_standing
+- helena_look74_diner_seated
+- helena_look74_diner_back
+- helena_look74_diner_profile
+- helena_look74_diner_ditzy
+
+**Ubicación:** `05_Imagenes/helena/look74_50s_diner/`
+
+---
+
+## 💎 Look 75: Golden Urban Trap Diva (11/03/2026)
+
+*Like... rreal hasta la muerte... wait, ¿eso qué significa? Mmm... solo sé que este perreo de oro está criminal y mis neuronas están en modo avión... 🛸💅🏾💎*
+
+- **Concepto:** Una versión lujosa y urbana de la diva del trap. Centrada en el brillo metálico y la licra líquida.
+- **Outfit:** Jumpsuit de licra dorada líquida ("liquid gold"), ultra ajustado, de pierna alta. Sin corsé.
+- **Calzado:** Botas stiletto de 9 pulgadas en oro metálico.
+- **Accesorios:**
+  - Cadenas gruesas de eslabones cubanos dorados.
+  - Aros ("hoop earrings") dorados gigantes.
+  - El choker clásico de luna creciente.
+  - **Uñas:** Stiletto extra largas, color rojo oscuro brillante.
+  - Tatuajes blackwork visibles en los brazos.
+- **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
+- **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
+- **Escenario:** Estación de metro urbana, graffiti, luces de neón parpadeantes.
+- **Ubicación:** `05_Imagenes/helena/look75_golden_trap_diva/`
+
+---

@@ -452,6 +452,30 @@
 
 ---
 
+## 🕷️ Look 73: Urban Fetish Trap Canon
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look73_canon_standing_1773228092662.png](look73_urban_fetish_trap_canon/helena_look73_canon_standing_1773228092662.png) | ![helena_look73_canon_seated_1773228108774.png](look73_urban_fetish_trap_canon/helena_look73_canon_seated_1773228108774.png) | ![helena_look73_canon_profile_1773228184634.png](look73_urban_fetish_trap_canon/helena_look73_canon_profile_1773228184634.png) | ![helena_look73_canon_back_1773228123916.png](look73_urban_fetish_trap_canon/helena_look73_canon_back_1773228123916.png) | ![helena_look73_canon_ditzy_1773228244935.png](look73_urban_fetish_trap_canon/helena_look73_canon_ditzy_1773228244935.png) |
+
+---
+
+## 🕷️ Look 74: 50S Diner
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look74_diner_standing_1773228216471.png](look74_50s_diner/helena_look74_diner_standing_1773228216471.png) | ![helena_look74_diner_seated_1773228262148.png](look74_50s_diner/helena_look74_diner_seated_1773228262148.png) | ![helena_look74_diner_profile_1773228292611.png](look74_50s_diner/helena_look74_diner_profile_1773228292611.png) | ![helena_look74_diner_back_1773228278302.png](look74_50s_diner/helena_look74_diner_back_1773228278302.png) | ![helena_look74_diner_ditzy_1773228306971.png](look74_50s_diner/helena_look74_diner_ditzy_1773228306971.png) |
+
+---
+
+## 🕷️ Look 75: Golden Trap Diva
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look75_golden_standing_1773233351727.png](look75_golden_trap_diva/helena_look75_golden_standing_1773233351727.png) | ![helena_look75_golden_seated_1773233366343.png](look75_golden_trap_diva/helena_look75_golden_seated_1773233366343.png) | ![helena_look75_golden_profile_leaning_1773233395282.png](look75_golden_trap_diva/helena_look75_golden_profile_leaning_1773233395282.png) | ![helena_look75_golden_back_1773233381537.png](look75_golden_trap_diva/helena_look75_golden_back_1773233381537.png) | ![helena_look75_golden_ditzy_closeups_1773233411974.png](look75_golden_trap_diva/helena_look75_golden_ditzy_closeups_1773233411974.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
