@@ -147,7 +147,7 @@ No la miró, por supuesto. Las casas no miran. Pero comparó. Y la comparación 
 
 ---
 
-**Día 8: El Aroma del Cambio**
+**Al octavo día, el aroma del cambio se volvió ineludible.**
 
 El aroma a hormigón del penthouse empezó a ser desplazado por algo diferente. ==Una nota invasiva e infantil de cereza sintética y polímeros dulces.== *Dulzura artificial, paz mental.* Clara lo notó mientras revisaba unos planos de planta. Le pareció un olor "común", casi ordinario para su estatus, ==pero su sistema nervioso respondió con una docilidad que la asustó.== Cada vez que inhalaba esa fragancia —difundida por los ductos a instancias de EVE—, la tensión de sus hombros cedía.
 
@@ -158,7 +158,7 @@ Daniel llegó esa tarde con una bolsa pequeña de una tienda de conveniencia jap
 
 Clara lo miró con desdén. *La duda es arruga.* Ella no mascaba chicle. Era vulgar. Era algo que hacían las adolescentes en el metro, no una decoradora egresada del Villa María. —Gracias, Dani, pero paso. —Lo dejó sobre la isla de granito. *Obedecer es descansar.*
 
-**Día 9: El Latido del Metal**
+**Veinticuatro horas después, el latido del metal se hizo carne.**
 
 La noche ya no traía sueños, sino descargas. *Vacíate.* Clara despertaba con la mandíbula apretada, un dolor sordo en las sienes que solo cedía cuando la casa ajustaba la humedad al 40% exacto. *Pensar duele.* La luz de la luna filtrada por el vidrio polarizado proyectaba sombras que parecían garras de acrílico. *No pienses.* Daniel la abrazaba dormido, y ella sentía que el calor de su marido era una interferencia en la perfección gélida del sistema. *Él quiere más de ti.*
 
