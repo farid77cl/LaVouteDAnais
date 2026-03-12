@@ -80,10 +80,12 @@ Explora las secciones de esta categoría:
 - ✅ [**Look73 Urban Fetish Trap Canon**](./look73_urban_fetish_trap_canon/GALERIA.md)
 - ✅ [**Look74 50S Diner**](./look74_50s_diner/GALERIA.md)
 - ✅ [**Look75 Golden Trap Diva**](./look75_golden_trap_diva/GALERIA.md)
+- ✅ [**Look76 Liquid Metal Silver**](./look76_liquid_metal_silver/GALERIA.md)
+- ✅ [**Look77 Alpine Goth Luxury**](./look77_alpine_goth_luxury/GALERIA.md)
 - ✅ [**Recompensas**](./recompensas/GALERIA.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/GALERIA.md)
 - ✅ [**Theme Secretary**](./theme_secretary/GALERIA.md)
 - 📁 [**Wedding Night**](./wedding_night/GALERIA.md)
 
 ---
-*Actualizado automáticamente: 2026-03-11*
+*Actualizado automáticamente: 2026-03-12*

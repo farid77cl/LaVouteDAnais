@@ -1411,3 +1411,20 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Ubicación:** `05_Imagenes/helena/look75_golden_trap_diva/`
 
 ---
+## ❄️ Look 77: Alpine Goth Luxury (Swiss Lodge)
+
+*Snow Bimbo en un lodge de lujo - piel pálida, piel de zorro (faux) y vacío mental entre montañas.*
+
+- **Corsé:** Overbust de cuero negro "quilted" con bordes de piel blanca esponjosa, ultra ajustado.
+- **Top:** Estola de piel blanca (faux fur) cubriendo los hombros pero revelando el escote.
+- **Bottom:** Leggings de látex negro estilo térmico (acabado mate/brillante híbrido).
+- **Calzado:** Botas de plataforma de piel blanca con tacón stiletto de 9 pulgadas (Pleaser-style).
+- **Escenario:** Ventanales gigantes mostrando los Alpes Suizos nevados, chimenea encendida, alfombra de piel sintética.
+- **Accesorios:**
+  - Choker de terciopelo negro con cristal de nieve plateado.
+  - Copa de Cognac en la mano.
+  - Gafas de sol de diseñador sobre el pelo.
+- **Maquillaje:** Sombras azules/plata frías, labios NEGRO GLOSSY extremos, piel porcelana.
+- **Pelo:** Volumen exagerado negro con mechas blancas sutiles "frosty".
+
+---

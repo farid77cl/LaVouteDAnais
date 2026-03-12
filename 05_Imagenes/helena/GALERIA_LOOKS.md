@@ -476,6 +476,22 @@
 
 ---
 
+## 🕷️ Look 76: Liquid Metal Silver
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![01_standing.png](look76_liquid_metal_silver/01_standing.png) | ![04_kneeling.png](look76_liquid_metal_silver/04_kneeling.png) | ![02_profile.png](look76_liquid_metal_silver/02_profile.png) | ![06_back.png](look76_liquid_metal_silver/06_back.png) | ![03_ditzy.png](look76_liquid_metal_silver/03_ditzy.png) |
+
+---
+
+## 🕷️ Look 77: Alpine Goth Luxury
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![01_standing.png](look77_alpine_goth_luxury/01_standing.png) | ![02_seated.png](look77_alpine_goth_luxury/02_seated.png) | ![04_profile.png](look77_alpine_goth_luxury/04_profile.png) | ![03_back.png](look77_alpine_goth_luxury/03_back.png) | ![05_ditzy.png](look77_alpine_goth_luxury/05_ditzy.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -484,4 +500,4 @@
 
 ---
 
-*Galería generada automáticamente - 11/03/2026* 🦇
+*Galería generada automáticamente - 12/03/2026* 🦇
