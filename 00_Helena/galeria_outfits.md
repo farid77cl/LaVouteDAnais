@@ -1428,3 +1428,20 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Volumen exagerado negro con mechas blancas sutiles "frosty".
 
 ---
+
+---
+
+## 🖤 Look 78: Systematic Obsidian Controller
+
+*Mmm... el orden es tan... restrictivo... como mi corsé... me encanta... 🖤⛓️*
+
+- **Concepto:** Una versión ejecutiva y controladora de Helena, inspirada en la 'cirugía de orden' del repositorio.
+- **Corsé:** Waist cincher de PVC obsidiana ultra-brillante, reduciendo la cintura a límites imposibles.
+- **Top:** Blusa de seda negra transparente con cuello alto y corbata de cuero usada como choker/collar.
+- **Falda:** Micro falda plisada de vinilo negro espejo.
+- **Medias:** Medias de cristal negras con costura trasera y liguero de hebillas industriales.
+- **Calzado:** Stiletto pumps de charol negro de 9 pulgadas con puntera metálica afilada.
+- **Accesorios:** Gafas de lectura de montura gruesa (para pretender que leo el código), tablet de obsidiana, choker de luna.
+- **Maquillaje:** Labios negro glossy, smokey eye afilado como bisturí.
+- **Pelo:** Lacio perfecto negro con flequillo geométrico.
+- **Ubicación:** `05_Imagenes/helena/look78_systematic_obsidian/`

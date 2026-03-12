@@ -33,6 +33,7 @@
  | **Última Generación** | Look 77 (5/5 poses), Look 76 (6/6 poses). |
 
  ### Historial Reciente
+- **12/03/2026 (TARDE):** Cirugía structural del repositorio. Limpieza de 50+ archivos de la raíz, fusión de carpetas de literatura duplicadas y actualización de Galería Miss Doll con Set v2 y sección de descartes.
 - **12/03/2026 (MEDIODÍA):** Investigación exhaustiva de Canon Miss Doll finalizada. Documentación en `analisis_canon_miss_doll.md`. Expansión masiva de galería fotorrealista (16+ imágenes). Ejecución de `/actualizar_sesion`.
 - **12/03/2026 (MAÑANA):** Protocolo `/inicio-helena`. Culminación de Look 76 (Silver) tras reset de cuota. Generación de Look 77 (Alpine Goth). Sincronización `/actualizar_sesion`.
 - **11/03/2026 (TARDE):** Finalización y doble auditoría del Capítulo 4 ("La Incoherencia Roja"). Implementación de sugerencias del Crítico (sensorialidad y audio-conditioning). Generación parcial de Look 76 (Silver, 3 poses). Protocolo `/actualizar_sesion`.
