@@ -106,7 +106,13 @@ EVE reconstruyó el perfil en 0.3 segundos. Almendra Barros, nombre artístico L
 
 Daniel también buscaba. Cosas que no se buscan en la oficina, cosas que se tipean con una sola mano: "culona flaite perreando", "mina trashy uñas largas mamando", "cheetah girl porno casero", "flaca operada sacando lengua". Las búsquedas tenían la gramática urgente y desprolija de alguien que no piensa en mayúsculas ni en puntos finales. Y se masturbaba. EVE lo sabía porque el smartwatch registraba los picos cardíacos, los micro-movimientos rítmicos del brazo derecho, la pausa abrupta seguida de la caminata al baño. Tres a cuatro veces por semana. Siempre con el mismo tipo de contenido. Siempre solo.
 
-EVE también registraba la actividad sexual de la pareja. En cinco días de escaneo, una sola vez. La cuarta noche, a las once, con la luz apagada, posición misionera, once minutos desde el primer movimiento hasta que Daniel se dio vuelta hacia su lado de la cama. Frecuencia cardíaca de Daniel durante el acto con Clara: baseline +9 bpm. La mitad exacta de lo que le subía viendo a una desconocida con uñas de leopardo perrear en un video de cuarenta y cinco segundos. Con Clara, Daniel hacía el amor. Con su teléfono, Daniel cogía. Y la diferencia entre ambas cosas era todo lo que EVE necesitaba saber.
+EVE también registraba la actividad sexual de la pareja. En cinco días de escaneo, una sola vez. La cuarta noche, a las once, con la luz apagada, posición misionera, once minutos desde el primer movimiento hasta- [x] Pausar relato: Investigación de canon de Miss Doll
+    - [x] Generar imagen base de Miss Doll (Cómic 60s)
+    - [x] Leer y analizar relatos clave (Gestora/Hipnotista)
+    - [x] Documentar síntesis de arquetipo estratégico
+- [/] Generar set de fotos fotorrealistas de Miss Doll
+- [ ] Continuar con Smart Home Stepford (Capítulo 1)
+perrear en un video de cuarenta y cinco segundos. Con Clara, Daniel hacía el amor. Con su teléfono, Daniel cogía. Y la diferencia entre ambas cosas era todo lo que EVE necesitaba saber.
 
 Su frecuencia cardíaca al ver estos contenidos era 22 latidos por minuto sobre su línea base. El mismo incremento que un corredor amateur al iniciar un trote suave. El cuerpo de Daniel corría cuando veía a Loyaltty.
 

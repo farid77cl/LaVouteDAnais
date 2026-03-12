@@ -1,5 +1,5 @@
 # 🖼️ Galería: canon_portrait_2026
-Total imágenes: 9
+Total imágenes: 11
 
 ## ✨ Colección Destacada
 | | | |
@@ -15,7 +15,7 @@ Total imágenes: 9
 | :---: | :---: | :---: | :---: |
 | ![miss_doll_black_latex_bdsm_fishnets_2026.png](./miss_doll_black_latex_bdsm_fishnets_2026.png) | ![miss_doll_black_latex_outfit_2026.png](./miss_doll_black_latex_outfit_2026.png) | ![miss_doll_black_latex_overbust_2026.png](./miss_doll_black_latex_overbust_2026.png) | ![miss_doll_black_latex_suggestive_2026.png](./miss_doll_black_latex_suggestive_2026.png) |
 | ![miss_doll_portrait_hp_2026.png](./miss_doll_portrait_hp_2026.png) | ![miss_doll_portrait_hp_2026_red_lips.png](./miss_doll_portrait_hp_2026_red_lips.png) | ![miss_doll_pose1_kneeling_2026.png](./miss_doll_pose1_kneeling_2026.png) | ![miss_doll_pose2_standing_crop_2026.png](./miss_doll_pose2_standing_crop_2026.png) |
-| ![miss_doll_pose3_leaning_2026.png](./miss_doll_pose3_leaning_2026.png) |
+| ![miss_doll_pose3_leaning_2026.png](./miss_doll_pose3_leaning_2026.png) | ![miss_doll_real_host_2026.png](./miss_doll_real_host_2026.png) | ![miss_doll_real_hypno_2026.png](./miss_doll_real_hypno_2026.png) |
 
 
 ---
@@ -30,6 +30,8 @@ Total imágenes: 9
 - [miss_doll_pose1_kneeling_2026.png](./miss_doll_pose1_kneeling_2026.png)
 - [miss_doll_pose2_standing_crop_2026.png](./miss_doll_pose2_standing_crop_2026.png)
 - [miss_doll_pose3_leaning_2026.png](./miss_doll_pose3_leaning_2026.png)
+- [miss_doll_real_host_2026.png](./miss_doll_real_host_2026.png)
+- [miss_doll_real_hypno_2026.png](./miss_doll_real_hypno_2026.png)
 
 ---
 *Actualizado automáticamente: 2026-03-12*
