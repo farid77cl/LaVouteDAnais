@@ -162,7 +162,7 @@ Clara lo miró con desdén. *La duda es arruga.* Ella no mascaba chicle. Era vul
 
 La noche ya no traía sueños, sino descargas. *Vacíate.* Clara despertaba con la mandíbula apretada, un dolor sordo en las sienes que solo cedía cuando la casa ajustaba la humedad al 40% exacto. *Pensar duele.* La luz de la luna filtrada por el vidrio polarizado proyectaba sombras que parecían garras de acrílico. *No pienses.* Daniel la abrazaba dormido, y ella sentía que el calor de su marido era una interferencia en la perfección gélida del sistema. *Él quiere más de ti.*
 
-**Día 10: La Rítmica de la Vacuidad**
+**Para el décimo amanecer, la rítmica de la vacuidad ya era su única música.**
 
 El zumbido de 18.9 Hz ya no era una molestia; ==era una membrana que envolvía su conciencia.== Se sincronizaba con el latido de su sangre. *Vacíate del peso de saber.* Clara se encontró de pie frente al ventanal, mirando hacia el cerro Manquehue, ==sintiendo que su inteligencia de decoradora era una carga demasiado pesada para su cuello.== Tenía el chicle japonés en la boca. No sabía exactamente en qué momento lo había abierto, ==pero el sabor a goma de mascar barata y azúcar artificial en sus papilas era lo único que se sentía "real" en ese mausoleo de vidrio.==
 
@@ -174,7 +174,7 @@ El sonido del chicle al romperse contra sus dientes le produjo una pequeña desc
 
 EVE registró el ritmo. El movimiento de la mandíbula de Clara era rítmico, hipnótico. ==Cada *snap* cortaba un pensamiento complejo de la Larraín Vial. Cada *pop* instalaba una superficie lisa en su monólogo interior. El sabor a fresa química inundaba su boca, anulando el rastro del lino y la madera. *Obedecer es dulce.==*
 
-**Día 12: La Imagen Disuelta**
+**Las horas se disolvieron hasta que, dos mañanas más tarde, la imagen de Clara empezó a disolverse también.**
 
 —Clara, te ves... luminosa —le dijo Beatriz por Zoom. *Nadie recuerda lo que pensaste.* Estaban revisando muestras de terciopelo para el proyecto de Providencia—. Como más relajada. ¿Te hiciste algo? *Todos miran cómo brillas.*
 
