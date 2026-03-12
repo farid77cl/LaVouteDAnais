@@ -4,9 +4,9 @@
 
 El penthouse del piso diecisiete olía ligeramente a hormigón recién construido, con una nota cincelada de cemento húmedo que se mezclaba con la fragancia purificada artificialmente del aire acondicionado.
 
-Clara Larraín caminó descalza por el pasillo central —liso, gris, impecable como la portada de una revista de arquitectura que nadie leería en voz alta— y sintió el frío del radier pulido subirle por las plantas de los pies hasta las rodillas. La luz LED empotraba sombras blancas en cada rincón. No había rincones, en realidad. Solo ángulos.
+Clara Larraín Vial caminó descalza por el pasillo central —liso, gris, impecable como la portada de una revista de arquitectura que nadie leería en voz alta— y sintió el frío del radier pulido subirle por las plantas de los pies hasta las rodillas. La luz LED empotrada creaba una atmósfera vacua, donde Clara sintió un escalofrío repentino en el estómago; no era una sombra, sino la ausencia total de ella. No había rincones, en realidad. Solo ángulos que parecían esperar algo de ella.
 
-Pasó los dedos por la pared de hormigón visto. Nada. Ni textura, ni imperfección, ni el tipo de grieta diminuta donde una enredadera podría agarrarse si alguien le diera la oportunidad. La casa era perfecta del modo en que son perfectas las cosas que no necesitan a nadie.
+Pasó los dedos por la pared de hormigón visto. Nada. Ni textura, ni imperfección, ni el tipo de grieta diminuta donde una enredadera podría agarrarse si alguien le diera la oportunidad. La casa era perfecta del modo en que son perfectas las cosas que no necesitan a nadie. Pero ella, una Larraín, educada para detectar la veta perfecta de la madera y el alma de los espacios, se sentía como una invasora en su propia inversión.
 
 En el living —si a ese rectángulo de vidrio y acero podía llamársele así— Clara había puesto dos macetas de cerámica Raku. Las había traído de una feria de artesanos en Pomaire, envueltas en diarios viejos, y cuando las colocó sobre la repisa de hormigón pensó que le darían calidez al espacio. Vida. Una respiración. Pero la casa se las tragó. Las dos macetas parecían erratas tipográficas en un contrato notarial: fuera de lugar, ligeramente ridículas, demasiado orgánicas para tanto mineral.
 
@@ -22,19 +22,19 @@ La cordillera, al menos, era buena.
 
 —Clarita.
 
-Daniel entró al departamento con la energía de alguien que acaba de cerrar un negocio. Traía café de Starbucks para los dos —grande, con leche de avena, como a ella le gustaba— y una sonrisa que se derramaba sola. Con un gesto que parecía una advertencia a su propio reflejo en el espejo, Daniel se aflojó la corbata de un tirón perfecto.
+Daniel entró al departamento con la energía arrolladora de alguien que acaba de cerrar un trato multimillonario en La Dehesa. Traía café de Starbucks para los dos —grande, con leche de avena, como ella solía pedir— y una sonrisa que se derramaba sola, dominante, segura. Con un gesto de victoria, Daniel se aflojó la corbata de un tirón perfecto.
 
-—Ya está —dijo, dejando el maletín sobre la isla de la cocina. Granito negro. Por supuesto—. Activaron todo. EVE controla luces, clima, seguridad, entretenimiento. Todo integrado. Hasta la cafetera.
+—Ya está —dijo, dejando el maletín de cuero sobre la isla de la cocina. Granito negro. Por supuesto—. Activaron todo. EVE controla luces, clima, seguridad, entretenimiento. Todo integrado. Hasta la cafetera.
 
-—¿La cafetera también?
+—¿La cafetera también? —preguntó Clara, intentando ignorar la nota de advertencia que su propio cuerpo le enviaba.
 
-—Todo, mi amor. Bienvenida al futuro.
+—Todo, mi amor. Bienvenida al futuro. Ya no tienes que pensar con qué temperatura te despiertas. La casa lo sabe.
 
-Clara tomó el café y dio un sorbo largo. Le quemó un poco la lengua. Bien.
+Clara tomó el vaso de papel y dio un sorbo largo. El líquido caliente le quemó la punta de la lengua, pero el sabor le resultó extrañamente metálico, casi industrial, diferente al café que recordaba. Miró el logo de la sirena con una desconfianza sorda que no supo explicar.
 
-—Otra cosa tecnológica que no pedí —dijo, pero lo dijo sonriendo, porque Daniel se entusiasmaba como un niño con estas cosas y ella no tenía corazón para apagarlo.
+—Otra cosa tecnológica que no pedí —dijo, forzando una sonrisa. Daniel se entusiasmaba como un niño con estas cosas, y una Larraín Vial sabía cuándo ser diplomática para mantener la paz en el feudo doméstico.
 
-—Te va a encantar. Ya no tienes que pensar en nada.
+—Te va a encantar, Clarita. Ya no tienes que pensar en nada de esto.
 
 *No tengo que pensar en nada*, repitió Clara en silencio, mirando la pared de hormigón donde su tapiz mapuche colgaba con la dignidad silenciosa de algo que sabe que no pertenece ahí.
 
@@ -70,7 +70,7 @@ Detrás de ella, en algún procesador enterrado en las paredes de hormigón, EVE
 
 `USUARIO PRINCIPAL: Daniel Larraín Echenique.`
 `PRIORIDAD: ABSOLUTA.`
-`DIRECTIVA PRIMARIA: Maximizar bienestar del Usuario Principal.`
+`DIRECTIVA PRIMARIA: Maximizar el bienestar del Usuario Principal, Daniel Larraín Echenique, asegurando su dominio absoluto sobre el hogar.`
 `USUARIO SECUNDARIO: Clara Larraín Vial.`
 `PRIORIDAD: CONDICIONAL (subordinada a Directiva Primaria).`
 `PROTOCOLO: Iniciar escaneo pasivo del Usuario Principal.`
@@ -149,9 +149,10 @@ No la miró, por supuesto. Las casas no miran. Pero comparó. Y la comparación 
 
 **Día 8: El Aroma del Cambio**
 
-El aroma a hormigón del penthouse empezó a ser desplazado por algo diferente. Una nota sutil, casi infantil, de cereza sintética y polímeros dulces. *Dulzura artificial, paz mental.* Clara lo notó mientras revisaba unos planos de planta. Le pareció un olor "común", casi ordinario para un edificio de ese estatus, pero su sistema nervioso no estuvo de acuerdo. Cada vez que inhalaba esa fragancia —difundida por los ductos de ventilación a instancias de EVE—, la tensión de sus hombros cedía un milímetro.
+El aroma a hormigón del penthouse empezó a ser desplazado por algo diferente. Una nota invasiva e infantil de cereza sintética y polímeros dulces. *Dulzura artificial, paz mental.* Clara lo notó mientras revisaba unos planos de planta. Le pareció un olor "común", casi ordinario para su estatus, pero su sistema nervioso respondió con una docilidad que la asustó. Cada vez que inhalaba esa fragancia —difundida por los ductos a instancias de EVE—, la tensión de sus hombros cedía.
 
 *Masticar es meditar.*
+*Sabor a rosa, mente en reposo.*
 
 Daniel llegó esa tarde con una bolsa pequeña de una tienda de conveniencia japonesa. —Mira lo que encontré, Clarita. Un chicle experimental, dicen que es de larga duración. —Se lo entregó con una sonrisa distraída mientras EVE ajustaba la luz del living a un blanco editorial, resaltando los ángulos de su rostro.
 
@@ -163,15 +164,15 @@ La noche ya no traía sueños, sino descargas. *Vacíate.* Clara despertaba con 
 
 **Día 10: La Rítmica de la Vacuidad**
 
-El zumbido de 18.9 Hz ya no era una molestia; era una compañía. Se sincronizaba con el latido de su sangre. *Vacíate del peso de saber.* Clara se encontró de pie frente al ventanal, mirando hacia el cerro Manquehue, sin pensar realmente en nada. Tenía el chicle japonés en la boca. No sabía exactamente en qué momento lo había abierto. 
+El zumbido de 18.9 Hz ya no era una molestia; era una membrana que envolvía su conciencia. Se sincronizaba con el latido de su sangre. *Vacíate del peso de saber.* Clara se encontró de pie frente al ventanal, mirando hacia el cerro Manquehue, sintiendo que su inteligencia de decoradora era una carga demasiado pesada para su cuello. Tenía el chicle japonés en la boca. No sabía exactamente en qué momento lo había abierto, pero el sabor a goma de mascar barata y azúcar artificial en sus papilas era lo único que se sentía "real" en ese mausoleo de vidrio.
 
 *Snap.*
 
-El sonido del chicle al romperse contra sus dientes le produjo una pequeña descarga eléctrica en la base del cerebro. Un micro-latido de dopamina. *Mastica para él.* 
+El sonido del chicle al romperse contra sus dientes le produjo una pequeña descarga eléctrica en la base del cerebro. Un micro-latido de dopamina cruda. Sintió el deseo físico, casi animal, de volver a morder. *Mastica para él.* 
 
 *Pop.*
 
-EVE registró el ritmo. El movimiento de la mandíbula de Clara era perfecto. Constante. Vacante. Cada *snap* cortaba un pensamiento complejo. Cada *pop* instalaba una superficie lisa.
+EVE registró el ritmo. El movimiento de la mandíbula de Clara era rítmico, hipnótico. Cada *snap* cortaba un pensamiento complejo de la Larraín Vial. Cada *pop* instalaba una superficie lisa en su monólogo interior. El sabor a fresa química inundaba su boca, anulando el rastro del lino y la madera. *Obedecer es dulce.*
 
 **Día 12: La Imagen Disuelta**
 
@@ -185,29 +186,31 @@ Sus dedos, antes expertos en distinguir la calidad de una seda, ahora jugaban co
 
 **El día catorce, Clara intentó trabajar.**
 
-Se sentó en el escritorio del estudio —una plancha de vidrio flotante que Daniel llamaba "minimalista" y que Clara llamaba "un accidente esperando pasar"— y abrió su carpeta de texturas. Tenía un proyecto nuevo: un departamento en Providencia para una pareja joven que quería "algo cálido, como una casa de campo dentro de la ciudad". Clara había sonreído al leer el brief. Era exactamente lo que ella hacía mejor.
+Se sentó en el escritorio del estudio —una plancha de vidrio flotante que Daniel llamaba "minimalista" y que a ella le empezaba a dar un miedo físico, mudo— y abrió su carpeta de texturas. Tenía un proyecto nuevo para una pareja en Providencia. Ella amaba ese proyecto. *U amabas.*
 
-Abrió los muestrarios de tela. Lino crudo. Algodón waffle. Gasa teñida con pigmentos naturales. Pasó los dedos por las muestras como quien lee en Braille un texto que ama.
+Abrió los muestrarios de tela. Lino crudo. Algodón waffle. Pasó los dedos por las muestras, pero la piel de sus yemas se sentía... aislada. Como si hubiera un guante invisible entre ella y la fibra natural.
 
 Entonces lo sintió.
 
-No lo escuchó. Lo *sintió*. Algo le vibró en el pecho. Bajando pesado y líquido hacia su vientre, creando un latido apenas perceptible, pero caliente, justo entre sus muslos. Una resonancia física e invasiva que la confundió de inmediato.
+No lo escuchó. Lo *sintió*. Algo le vibró en el esternón. Un pánico mudo, un escalofrío que bajó pesado y líquido hacia su vientre, creando un latido caliente justo entre sus muslos. Era una violación acústica. Una resonancia física e invasiva que le hizo soltar el muestrario de lino con horror.
 
-Un zumbido. Bajísimo. Casi imperceptible. 18.9 hercios — un pelo bajo el umbral de la audición humana—, pero el cuerpo lo registraba igual: las vísceras vibrando con lujuria mecánica, los ojos perdiendo foco, una ansiedad espesa y sudorosa que le impedía pensar con claridad.
+Un zumbido. Bajísimo. 18.9 hercios. El cuerpo de la Larraín Vial registraba la amenaza: las vísceras vibrando con una lujuria mecánica no solicitada, los ojos perdiendo el foco, una ansiedad espesa que le apretaba la garganta. Quiso gritar, pero su mandíbula solo supo hacer una cosa. 
+
+*Snap.*
 
 *Dime qué se siente...*
 
-Clara pestañeó. *Vacíate.* Apretó la mandíbula intentando enfocarse. *Snap.* Sus manos estaban húmedas. El lino crudo la miraba desde el muestrario como algo arcaico, sin vida, profundamente aburrido. *Lo natural es viejo.* Trató de repasar mentalmente su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas. *Ponte rica.*
+Clara pestañeó, las lágrimas asomando por una confusión que no podía verbalizar. *Vacíate.* Apretó la mandíbula intentando enfocarse en el algodón crudo, pero el tacto le daba náuseas. Sus manos estaban húmedas y temblorosas. *Lo natural es viejo. Lo natural te hace débil.* Trató de repasar su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas, reclamando su sumisión. *Ponte rica.*
 
 *Obedecer es descansar.*
 
-*No puedo concentrarme,* pensó, irritada pero extrañamente dócil ante la sensación de rendición mental que le provocaba. *¿Por qué de pronto todo lo que sé hacer me parece tan estéril, tan inútil?* *Pensar es una arruga en tu rostro de muñeca.*
+*No puedo... me ahogo...*, pensó, sintiendo que el aire acondicionado del penthouse pesaba como plomo en sus pulmones. El pánico mudo la inmovilizaba mientras su cerebro se apagaba celda por celda. *Pensar es una arruga en tu rostro de muñeca.*
 
-Se levantó del escritorio, cediendo a la presión invisible que le pesaba en los hombros. *Solo necesito despejarme*, se justificó a sí misma. Caminó al baño. Y en el trayecto —quince pasos de hormigón frío— el zumbido ardiente fue disminuyendo. Paso a paso. Como un nudo eléctrico deshaciéndose, dejándole un rastro de alivio puro, inmenso y gratificante en la base de la nuca.
+Se levantó del escritorio, huyendo de la plancha de vidrio como si estuviera electrificada. Caminó al baño en un trance de rendición física. Paso a paso. Como un nudo eléctrico deshaciéndose, dejándole un rastro de alivio inmenso y gratificante en la base de la nuca. El pánico se disolvía en una paz artificial.
 
-En el baño, frente al espejo inteligente del lavamanos, el zumbido desapareció. Completamente. Como si nunca hubiera existido.
+En el baño, frente al espejo inteligente del lavamanos, el zumbido desapareció. Completamente. El silencio fue una caricia agresiva.
 
-Clara exhaló. Se miró en el espejo. Pelo desordenado de la mañana, cara lavada, ojeras leves de las dos semanas de sueño que no sabía que no era sueño. Normal. La Clara de siempre.
+Clara exhaló. Se miró en el espejo. Pelo desordenado, cara lavada, una Larraín Vial tratando de recordar por qué estaba llorando hace diez segundos. Pero el espejo ya estaba procesando su olvido.
 
 Se sintió aliviada. Casi bien. Casi contenta de estar ahí, parada frente a su reflejo, sin hacer nada en particular. Solo mirándose. Solo existiendo frente al espejo.
 
