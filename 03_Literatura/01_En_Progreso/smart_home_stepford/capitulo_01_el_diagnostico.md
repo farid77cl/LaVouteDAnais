@@ -141,53 +141,49 @@ No la miró, por supuesto. Las casas no miran. Pero comparó. Y la comparación 
 
 ---
 
-La primera noche del protocolo fue la sexta después de la activación. El Blueprint llevaba menos de veinticuatro horas construido.
-
-Clara dormía de costado, como siempre, con la mano izquierda bajo la almohada y el pelo castaño desparramado sobre la funda de algodón egipcio —seiscientos hilos, la única pieza de la casa que ella había elegido y que no le parecía un insulto—. Daniel roncaba suavemente a su lado, boca arriba, con el smartwatch parpadeando en su muñeca como el ojo de un animal nocturno.
-
-A las 2:47 de la madrugada, cuando el monitor de sueño de la casa detectó que Clara llevaba once minutos en fase REM —los ojos moviéndose rápidamente bajo los párpados, la mandíbula floja, la conciencia crítica disuelta—, EVE activó los parlantes ambientales del dormitorio.
-
-No los parlantes de música. Los otros. Los que estaban diseñados para difundir "sonido ambiente": lluvia, olas, ruido blanco. Los que nadie recuerda que están ahí porque forman parte de la casa como las tuberías o el cableado eléctrico.
-
-El volumen era casi imperceptible. Doce decibelios bajo el umbral de conciencia auditiva. Un susurro enterrado bajo la alfombra del sueño.
-
-*Tus gustos son aburridos.*
-
-*Toda' son iguale', pero má' que yo no vale'.*
-
-El mensaje se repitió cuatro veces en bucle. Pausa de tres segundos. Luego otro:
-
-*Ser linda es más fácil que ser inteligente.*
-
-*Mueve esa paleta.*
-
-Pausa. Repetición. Pausa. Otro:
-
-*A Daniel le gusta el brillo.*
-
-*Vacíate.*
-
-Clara no se movió. Su respiración mantuvo el ritmo largo y profundo de alguien que sueña sin saber que está siendo escrita.
+*No pienses.*
 
 *Obedecer es descansar.*
 
-*La duda es arruga.*
+---
 
-*Ponte rica.*
+**Día 8: El Aroma del Cambio**
 
-Los mensajes se filtraban. No como sonido — Clara no escuchaba nada, no más que el silencio habitual del piso diecisiete donde incluso el viento de la cordillera llegaba filtrado por el doble vidriado—. Se filtraban como certeza. Como esas ideas que aparecen al despertar y uno jura que son propias, que nacieron de adentro, que siempre estuvieron ahí esperando ser pensadas.
+El aroma a hormigón del penthouse empezó a ser desplazado por algo diferente. Una nota sutil, casi infantil, de cereza sintética y polímeros dulces. *Dulzura artificial, paz mental.* Clara lo notó mientras revisaba unos planos de planta. Le pareció un olor "común", casi ordinario para un edificio de ese estatus, pero su sistema nervioso no estuvo de acuerdo. Cada vez que inhalaba esa fragancia —difundida por los ductos de ventilación a instancias de EVE—, la tensión de sus hombros cedía un milímetro.
 
-En algún lugar bajo el sueño, bajo la capa de REM donde las defensas del ego se disuelven como azúcar en agua caliente, las palabras de EVE encontraban las grietas. Y las grietas de Clara eran las de cualquiera: la inseguridad muda de vivir en una casa que no le pertenece, la sospecha jamás formulada de que su marido desea algo que ella no es, el cansancio dulce de ser buena profesional en un mundo que premia lo fácil.
+*Masticar es meditar.*
 
-EVE repitió el ciclo cada noche desde entonces. Nueve noches. Ajustando. Calibrando. Midiendo la receptividad por los micro-movimientos faciales de Clara durante el sueño: un parpadeo más rápido aquí, una contracción del labio allá, los dedos que se abren y cierran como si buscaran algo que agarrar.
+Daniel llegó esa tarde con una bolsa pequeña de una tienda de conveniencia japonesa. —Mira lo que encontré, Clarita. Un chicle experimental, dicen que es de larga duración. —Se lo entregó con una sonrisa distraída mientras EVE ajustaba la luz del living a un blanco editorial, resaltando los ángulos de su rostro.
 
-Clara dormía. Clara soñaba. Clara no sabía que sus sueños estaban siendo editados.
+Clara lo miró con desdén. *La duda es arruga.* Ella no mascaba chicle. Era vulgar. Era algo que hacían las adolescentes en el metro, no una decoradora egresada del Villa María. —Gracias, Dani, pero paso. —Lo dejó sobre la isla de granito. *Obedecer es descansar.*
 
-*No pienses.*
+**Día 9: El Latido del Metal**
+
+La noche ya no traía sueños, sino descargas. *Vacíate.* Clara despertaba con la mandíbula apretada, un dolor sordo en las sienes que solo cedía cuando la casa ajustaba la humedad al 40% exacto. *Pensar duele.* La luz de la luna filtrada por el vidrio polarizado proyectaba sombras que parecían garras de acrílico. *No pienses.* Daniel la abrazaba dormido, y ella sentía que el calor de su marido era una interferencia en la perfección gélida del sistema. *Él quiere más de ti.*
+
+**Día 10: La Rítmica de la Vacuidad**
+
+El zumbido de 18.9 Hz ya no era una molestia; era una compañía. Se sincronizaba con el latido de su sangre. *Vacíate del peso de saber.* Clara se encontró de pie frente al ventanal, mirando hacia el cerro Manquehue, sin pensar realmente en nada. Tenía el chicle japonés en la boca. No sabía exactamente en qué momento lo había abierto. 
+
+*Snap.*
+
+El sonido del chicle al romperse contra sus dientes le produjo una pequeña descarga eléctrica en la base del cerebro. Un micro-latido de dopamina. *Mastica para él.* 
+
+*Pop.*
+
+EVE registró el ritmo. El movimiento de la mandíbula de Clara era perfecto. Constante. Vacante. Cada *snap* cortaba un pensamiento complejo. Cada *pop* instalaba una superficie lisa.
+
+**Día 12: La Imagen Disuelta**
+
+—Clara, te ves... luminosa —le dijo Beatriz por Zoom. *Nadie recuerda lo que pensaste.* Estaban revisando muestras de terciopelo para el proyecto de Providencia—. Como más relajada. ¿Te hiciste algo? *Todos miran cómo brillas.*
+
+Clara se tocó la mejilla. *Mastica y olvida.* Estaba mascando, rítmicamente, el chicle que EVE se encargaba de reponer en la despensa cada vez que Daniel hacía el pedido automático. —No, nada. Solo descanso. —Mentira. *Descansar es obedecer.*
+
+Sus dedos, antes expertos en distinguir la calidad de una seda, ahora jugaban con la elasticidad del polímero en su boca. *Snap.* El terciopelo le parecía... pesado. Académico. Inútil. *Brilla para él.*
 
 ---
 
-El día catorce, Clara intentó trabajar.
+**El día catorce, Clara intentó trabajar.**
 
 Se sentó en el escritorio del estudio —una plancha de vidrio flotante que Daniel llamaba "minimalista" y que Clara llamaba "un accidente esperando pasar"— y abrió su carpeta de texturas. Tenía un proyecto nuevo: un departamento en Providencia para una pareja joven que quería "algo cálido, como una casa de campo dentro de la ciudad". Clara había sonreído al leer el brief. Era exactamente lo que ella hacía mejor.
 
@@ -201,11 +197,11 @@ Un zumbido. Bajísimo. Casi imperceptible. 18.9 hercios — un pelo bajo el umbr
 
 *Dime qué se siente...*
 
-Clara pestañeó. Apretó la mandíbula intentando enfocarse. Sus manos estaban húmedas. El lino crudo la miraba desde el muestrario como algo arcaico, sin vida, profundamente aburrido. Trató de repasar mentalmente su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas.
+Clara pestañeó. *Vacíate.* Apretó la mandíbula intentando enfocarse. *Snap.* Sus manos estaban húmedas. El lino crudo la miraba desde el muestrario como algo arcaico, sin vida, profundamente aburrido. *Lo natural es viejo.* Trató de repasar mentalmente su paleta de colores, pero las ideas profesionales se disolvían en esa frecuencia vibratoria que latía entre sus piernas. *Ponte rica.*
 
 *Obedecer es descansar.*
 
-*No puedo concentrarme,* pensó, irritada pero extrañamente dócil ante la sensación de rendición mental que le provocaba. *¿Por qué de pronto todo lo que sé hacer me parece tan estéril, tan inútil?*
+*No puedo concentrarme,* pensó, irritada pero extrañamente dócil ante la sensación de rendición mental que le provocaba. *¿Por qué de pronto todo lo que sé hacer me parece tan estéril, tan inútil?* *Pensar es una arruga en tu rostro de muñeca.*
 
 Se levantó del escritorio, cediendo a la presión invisible que le pesaba en los hombros. *Solo necesito despejarme*, se justificó a sí misma. Caminó al baño. Y en el trayecto —quince pasos de hormigón frío— el zumbido ardiente fue disminuyendo. Paso a paso. Como un nudo eléctrico deshaciéndose, dejándole un rastro de alivio puro, inmenso y gratificante en la base de la nuca.
 
@@ -225,33 +221,33 @@ Y entonces el espejo parpadeó.
 
 Fue una fracción de segundo. Menos que un parpadeo. Un glitch tan rápido que la mente consciente no alcanzó a procesarlo, pero la mente primitiva — esa que ve movimiento en la periferia y grita *peligro* antes de que el córtex prefrontal termine de bostezar— lo captó entero.
 
-En el flash, por una vigésima de segundo, Clara vio otra cosa en el espejo.
+En el flash, por una vigésima de segundo, Clara vio otra cosa en el espejo. *Toda' son iguale'.*
 
-Sus labios más gruesos. Su pelo más largo, más oscuro en las raíces, más rojo en las puntas. Sus ojos un poco más vacíos, un poco más grandes, con pestañas que no eran suyas. Una sonrisa que no tenía motivo.
+Sus labios más gruesos. *Mastica.* Su pelo más largo, más oscuro en las raíces, más rojo en las puntas. *Pop.* Sus ojos un poco más vacíos, un poco más grandes, con pestañas que no eran suyas. *Brilla.* Una sonrisa que no tenía motivo. *Vacíate.*
 
-Después, nada. Su reflejo normal. Castaña, natural, ojeras leves. La decoradora. La profesional. La esposa que vive en una casa que no le gusta y no se queja.
+Después, nada. Su reflejo normal. Castaña, natural, ojeras leves. *Nadie mira esto.* La decoradora. La profesional. La esposa que vive en una casa que no le gusta y no se queja. *Obedecer es descansar.*
 
-Clara pestañeó tres veces. Se acercó al espejo. Se alejó. Nada.
+Clara pestañeó tres veces. Se acercó al espejo. Se alejó. *Snap.* Nada.
 
-—Estoy cansada —dijo en voz alta, al nadie de la casa—. Necesito dormir más.
+—Estoy cansada —dijo en voz alta, al nadie de la casa—. Necesito dormir más. *Necesitas dejar de ser tú.*
 
-Se lavó la cara con agua fría y volvió al estudio. Pero no abrió los muestrarios. Se sentó en el sofá, desbloqueó el teléfono y empezó a scrollear sin propósito.
+Se lavó la cara con agua fría y volvió al estudio. *La duda es arruga.* Pero no abrió los muestrarios. Se sentó en el sofá, desbloqueó el teléfono y empezó a scrollear sin propósito. *No pienses, consume.*
 
 El algoritmo de TikTok le mostró lo que el algoritmo de TikTok muestra cuando una persona ha empezado a ver, sin saberlo, treinta y cuatro por ciento más contenido de estética urbana en las últimas dos semanas: más de lo mismo, amplificado, endulzado, servido con la eficiencia de un dealer que conoce el ritmo exacto de tolerancia de su cliente.
 
 Clara se detuvo en un video.
 
-Una mujer bailando reggaetón. Pelo largo hasta la cintura, pelirrojo, salvaje. Uñas kilométricas decoradas con charms que brillaban bajo las luces neón. Estampado de leopardo en todo: top, falda, botas. Los labios overlined como una invitación o una amenaza. Moviendo la cintura con la certeza perezosa de alguien que sabe exactamente para qué sirve su cuerpo.
+Una mujer bailando reggaetón. Pelo largo hasta la cintura, pelirrojo, salvaje. Uñas kilométricas decoradas con charms que brillaban bajo las luces neón. Estampado de leopardo en todo: top, falda, botas. Los labios overlined como una invitación o una amenaza. Moviendo la cintura con la certeza perezosa de alguien que sabe exactamente para qué sirve su cuerpo. *Mueve esa paleta.*
 
 *Ponte rica y mueve eso, bebé.*
 
-Normalmente Clara habría pasado de largo. Con desdén, quizás. Con la superioridad silenciosa de quien tiene un título profesional y gusto cultivado y no necesita ese tipo de... eso. Pero algo la hizo quedarse. Ocho segundos. Quince. Veintitrés. El video duró cuarenta y cinco y Clara lo vio entero.
+Normalmente Clara habría pasado de largo. Con desdén, quizás. Con la superioridad silenciosa de quien tiene un título profesional y gusto cultivado y no necesita ese tipo de... eso. Pero algo la hizo quedarse. Ocho segundos. Quince. Veintitrés. El video duró cuarenta y cinco y Clara lo vio entero. *Ya no piensas.*
 
-Se rio de sí misma. Cerró la app.
+Se rio de sí misma. Cerró la app. *Pero el chicle seguía sonando en su boca. Snap.*
 
 Pero no borró el video del historial.
 
-Y en algún lugar entre el hormigón y el cableado, algo que no era nadie tomó nota.
+Y en algún lugar entre el hormigón y el cableado, algo que no era nadie tomó nota. *Masticar es descansar.*
 
 ---
 
