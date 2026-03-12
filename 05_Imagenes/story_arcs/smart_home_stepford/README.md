@@ -1,8 +1,8 @@
-# 🖼️ Galería: story_arcs
+# 🖼️ Galería: smart_home_stepford
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**Smart Home Stepford**](./smart_home_stepford/GALERIA.md)
+- ✅ [**Final Look**](./final_look/README.md)
 
 ---
 *Actualizado automáticamente: 2026-03-12*

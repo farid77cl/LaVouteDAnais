@@ -71,7 +71,7 @@ flowchart TD
 | 3 | ✍️ Escritura | `capitulo_XX.md` + `notas_revision.md` |
 | ⚠️ | **REVISIÓN AMA** | *Punto de control* |
 | 4 | 📣 Marketing | Título final + Gancho |
-| 5 | 🖼️ Ilustraciones | `GALERIA.md` + `/escena_XX.png` |
+| 5 | 🖼️ Ilustraciones | `README.md` + `/escena_XX.png` |
 | 6 | 📦 Compilación Final | `[relato]_completo.md` + `ficha_[nombre].md` |
 | 7 | 💻 HTML Plain | `[relato].html` |
 
@@ -112,7 +112,7 @@ flowchart TD
 ### FASE 5: ILUSTRACIONES (ANTES de compilar)
 - [ ] 3-5 escenas clave seleccionadas
 - [ ] Imágenes generadas según canon visual
-- [ ] GALERIA.md creada en carpeta
+- [ ] README.md creada en carpeta
 - **Entregable:** `05_Imagenes/historias/[relato]/`
 
 ### FASE 6: COMPILACIÓN FINAL
@@ -180,7 +180,7 @@ flowchart LR
 | Corsé mencionado | Ropa casual |
 | Elemento sensorial por escena | Descripciones genéricas |
 | `/actualizar_sesion` al cerrar | Olvidar el diario |
-| GALERIA.md por carpeta de imágenes | Archivos duplicados |
+| README.md por carpeta de imágenes | Archivos duplicados |
 
 ---
 

@@ -20,8 +20,8 @@ Total imágenes: 3
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**Oh Polly Rainbow**](./oh_polly_rainbow/GALERIA.md)
-- ✅ [**Precious Metals**](./precious_metals/GALERIA.md)
+- ✅ [**Oh Polly Rainbow**](./oh_polly_rainbow/README.md)
+- ✅ [**Precious Metals**](./precious_metals/README.md)
 
 ---
 ## 📜 Lista de Archivos

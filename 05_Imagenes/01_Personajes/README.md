@@ -1,8 +1,8 @@
-# 🖼️ Galería: el_collar_de_nancy
+# 🖼️ Galería: 01_Personajes
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**Imagenes**](./imagenes/GALERIA.md)
+- ✅ [**Clara Larrain**](./Clara_Larrain/README.md)
 
 ---
 *Actualizado automáticamente: 2026-03-12*

@@ -8,7 +8,7 @@ def generate_gallery(directory):
     images = [f for f in all_items if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
     subdirs = [d for d in all_items if os.path.isdir(os.path.join(directory, d)) and not d.startswith('.')]
     
-    gallery_path = os.path.join(directory, 'GALERIA.md')
+    gallery_path = os.path.join(directory, 'README.md')
     rel_dir_name = os.path.basename(directory)
     
     # If folder is completely empty (no images, no subdirs), clean up or skip
@@ -52,9 +52,9 @@ def generate_gallery(directory):
             f.write("Explora las secciones de esta categoría:\n\n")
             for d in sorted(subdirs):
                 # Check if subfolder has a gallery
-                sub_gallery = os.path.join(directory, d, 'GALERIA.md')
+                sub_gallery = os.path.join(directory, d, 'README.md')
                 status = "✅" if os.path.exists(sub_gallery) or any(f.lower().endswith(('.png', '.jpg', '.jpeg')) for f in os.listdir(os.path.join(directory, d))) else "📁"
-                f.write(f"- {status} [**{d.replace('_', ' ').title()}**](./{d}/GALERIA.md)\n")
+                f.write(f"- {status} [**{d.replace('_', ' ').title()}**](./{d}/README.md)\n")
             f.write("\n---\n")
         
         # --- SECTION 3: FILE LIST ---
@@ -69,7 +69,7 @@ def generate_gallery(directory):
 def generate_miss_doll_master_gallery(base_path):
     """Generates the master GALERIA_MAESTRA.md for Miss Doll with richer layout."""
     md_path = os.path.join(base_path, 'miss_doll')
-    output_file = os.path.join(md_path, 'GALERIA_MAESTRA.md')
+    output_file = os.path.join(md_path, 'README.md')
     if not os.path.exists(md_path): return
 
     categories = [
@@ -92,7 +92,7 @@ def generate_miss_doll_master_gallery(base_path):
         if not os.path.exists(folder_path): continue
         images = [f for f in os.listdir(folder_path) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
         if not images: continue
-        content.append(f"## {title}\nTotal: {len(images)} imágenes. [Ver carpeta completa](./{folder_name}/GALERIA.md)\n\n")
+        content.append(f"## {title}\nTotal: {len(images)} imágenes. [Ver carpeta completa](./{folder_name}/README.md)\n\n")
         sample = images[:3]
         content.append("| Destacada 1 | Destacada 2 | Destacada 3 |\n|:---:|:---:|:---:|\n")
         row = "| " + " | ".join([f"![{img}]({folder_name}/{img})" for img in sample])
@@ -105,7 +105,7 @@ def generate_miss_doll_master_gallery(base_path):
 def generate_master_outfit_gallery(base_path):
     """Generates the master GALERIA_LOOKS.md for Helena."""
     helena_path = os.path.join(base_path, 'helena')
-    output_file = os.path.join(helena_path, 'GALERIA_LOOKS.md')
+    output_file = os.path.join(helena_path, 'README.md')
     if not os.path.exists(helena_path): return
 
     look_folders = []

@@ -81,7 +81,7 @@ LaVouteDAnais/
 │   ├── helena/                 # Looks de Helena (62+ carpetas)
 │   ├── miss_doll/              # Imágenes de Miss Doll
 │   ├── comics/                 # Cómics y secuencias
-│   └── GALERIA.md              # Galería maestra
+│   └── README.md               # Galería maestra
 │
 ├── 07_Recursos/                # 📦 Referencias externas e investigación
 │   ├── links_foros_y_articulos/

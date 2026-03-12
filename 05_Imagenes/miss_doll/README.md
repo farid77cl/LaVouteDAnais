@@ -5,7 +5,7 @@
 ---
 
 ## 👗 Outfits
-Total: 1 imágenes. [Ver carpeta completa](./Outfits/GALERIA.md)
+Total: 1 imágenes. [Ver carpeta completa](./Outfits/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -14,7 +14,7 @@ Total: 1 imágenes. [Ver carpeta completa](./Outfits/GALERIA.md)
 ---
 
 ## 💵 Stripper VIP
-Total: 6 imágenes. [Ver carpeta completa](./stripper_vip/GALERIA.md)
+Total: 6 imágenes. [Ver carpeta completa](./stripper_vip/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -23,7 +23,7 @@ Total: 6 imágenes. [Ver carpeta completa](./stripper_vip/GALERIA.md)
 ---
 
 ## 🎀 Stripper Series
-Total: 29 imágenes. [Ver carpeta completa](./stripper_series/GALERIA.md)
+Total: 29 imágenes. [Ver carpeta completa](./stripper_series/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -32,7 +32,7 @@ Total: 29 imágenes. [Ver carpeta completa](./stripper_series/GALERIA.md)
 ---
 
 ## ✂️ Strips / Closeups
-Total: 4 imágenes. [Ver carpeta completa](./Strips/GALERIA.md)
+Total: 4 imágenes. [Ver carpeta completa](./Strips/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -41,7 +41,7 @@ Total: 4 imágenes. [Ver carpeta completa](./Strips/GALERIA.md)
 ---
 
 ## 📢 Banners
-Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
+Total: 17 imágenes. [Ver carpeta completa](./Banners/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -50,7 +50,7 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/GALERIA.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
+Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -59,7 +59,7 @@ Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/GALERIA.md)
 ---
 
 ## 📑 Referencia Canon
-Total: 20 imágenes. [Ver carpeta completa](./Reference/GALERIA.md)
+Total: 20 imágenes. [Ver carpeta completa](./Reference/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -68,7 +68,7 @@ Total: 20 imágenes. [Ver carpeta completa](./Reference/GALERIA.md)
 ---
 
 ## ⚙️ UI Assets
-Total: 18 imágenes. [Ver carpeta completa](./UI_Assets/GALERIA.md)
+Total: 18 imágenes. [Ver carpeta completa](./UI_Assets/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|

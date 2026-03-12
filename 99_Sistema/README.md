@@ -16,5 +16,5 @@ Directorio de scripts de automatización y archivos temporales del sistema La Vo
 
 | Script | Ubicación | Función |
 |--------|-----------|---------|
-| `update_galleries.py` | Raíz del repo | Actualiza GALERIA.md en cada carpeta de 05_Imagenes |
+| `update_galleries.py` | Raíz del repo | Actualiza README.md en cada carpeta de 05_Imagenes |
 | `prompt_factory/` | `scripts/visual/` | Genera prompts de imagen a partir de bancos temáticos |

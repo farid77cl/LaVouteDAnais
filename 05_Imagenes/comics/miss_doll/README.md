@@ -20,7 +20,7 @@ Total imágenes: 2
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**Descartadas**](./descartadas/GALERIA.md)
+- ✅ [**Descartadas**](./descartadas/README.md)
 
 ---
 ## 📜 Lista de Archivos

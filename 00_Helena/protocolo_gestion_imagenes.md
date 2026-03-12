@@ -47,7 +47,7 @@ Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) 
     ```powershell
     python C:\Users\fabara\LaVouteDAnais\update_galleries.py
     ```
-    *Este script actualiza automáticamente los archivos `GALERIA.md`, los `README.md` y los índices maestros.*
+    *Este script actualiza automáticamente los archivos `README.md` y los índices maestros.*
 
 ---
 

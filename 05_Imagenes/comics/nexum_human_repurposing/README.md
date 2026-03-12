@@ -1,8 +1,8 @@
-# 🖼️ Galería: 01_Personajes
+# 🖼️ Galería: nexum_human_repurposing
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**Clara Larrain**](./Clara_Larrain/GALERIA.md)
+- ✅ [**Imagenes**](./imagenes/README.md)
 
 ---
 *Actualizado automáticamente: 2026-03-12*

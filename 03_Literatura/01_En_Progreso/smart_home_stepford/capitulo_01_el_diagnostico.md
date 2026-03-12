@@ -158,7 +158,7 @@ No la miró, por supuesto. Las casas no miran. Pero comparó. Y la comparación 
 El aroma a hormigón del penthouse empezó a ser desplazado por algo diferente. ==Una nota invasiva e infantil de cereza sintética y polímeros dulces.== *Dulzura artificial, paz mental.* Clara lo notó mientras revisaba unos planos de planta. Le pareció un olor "común", casi ordinario para su estatus, ==pero su sistema nervioso respondió con una docilidad que la asustó.== Cada vez que inhalaba esa fragancia —difundida por los ductos a instancias de EVE—, la tensión de sus hombros cedía.
 
 *Masticar es meditar.*
-==*Sabor a rosa, mente en reposo.*==
+*Sabor a rosa, mente en reposo.*
 
 Daniel llegó esa tarde con una bolsa pequeña de una tienda de conveniencia japonesa. —Mira lo que encontré, Clarita. Un chicle experimental, dicen que es de larga duración. —Se lo entregó con una sonrisa distraída mientras EVE ajustaba la luz del living a un blanco editorial, resaltando los ángulos de su rostro.
 
