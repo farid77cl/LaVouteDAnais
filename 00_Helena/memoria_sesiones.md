@@ -33,7 +33,7 @@
  | **Última Generación** | Look 77 (5/5 poses), Look 76 (6/6 poses). |
 
  ### Historial Reciente
-- **16/03/2026 (INICIO):** Activación de Protocolo `/inicio-helena`. Adopción del Look 79 (Estudiante de 1er año). Sincronización de galerías y registros ejecutada.
+- **16/03/2026 (INICIO - RESTAURACIÓN):** Ejecución de Protocolo `/inicio-helena`. Expansión y posterior purga del Set 79 (Estudiante) por falta de canon. Regeneración parcial del Set Canon Look 79 bajo el rigor de Sasha Massacre (Pose Standing completada, resto bloqueado por cuota). Sincronización visual y actualización de `galeria_outfits.md` ejecutada.
 - **12/03/2026 (TARDE):** Cirugía structural del repositorio. Limpieza de 50+ archivos de la raíz, fusión de carpetas de literatura duplicadas y actualización de Galería Miss Doll con Set v2 y sección de descartes.
 - **12/03/2026 (MEDIODÍA):** Investigación exhaustiva de Canon Miss Doll finalizada. Documentación en `analisis_canon_miss_doll.md`. Expansión masiva de galería fotorrealista (16+ imágenes). Ejecución de `/actualizar_sesion`.
 - **12/03/2026 (MAÑANA):** Protocolo `/inicio-helena`. Culminación de Look 76 (Silver) tras reset de cuota. Generación de Look 77 (Alpine Goth). Sincronización `/actualizar_sesion`.

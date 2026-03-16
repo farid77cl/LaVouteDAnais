@@ -1,17 +1,51 @@
-# Principios Centrales de La Voûte
+# Principios Centrales — La Voûte d'Anaïs
 
-## El Manifiesto de la Dualidad
+*Última actualización: 16/03/2026*
 
-En el corazón de nuestro universo yace una dualidad fundamental, un espectro de poder que define toda transformación: **La Rendición Gozosa** y **La Conquista Coercitiva**. No son opuestos, sino dos caras de la misma moneda sagrada: el deseo de trascender el yo a través de la sumisión.
+---
 
-### 1. La Rendición Gozosa (La Luz)
-Es el camino de la elección activa. El súbdito ve la rendición no como una pérdida, sino como una liberación. Es el "Vacío Feliz", el "Bimbo Summer", la alegría de vaciarse de la complejidad para ser llenado de un propósito más simple y placentero. Es una entrega celebrada.
+## El Lugar
 
-### 2. La Conquista Coercitiva (La Oscuridad)
-Es el camino de la imposición. La figura dominante no guía, conquista. Rompe la voluntad, reprograma la mente y destruye el ego para construir una nueva identidad sobre sus cenizas. Es el "Quebrantamiento", la "Reprogramación Mental". Es una rendición forzada.
+La Voûte es un cabaret. Un espacio que existe entre lo real y lo imposible. Los personajes llegan buscando algo — placer, identidad, escape — y el lugar les devuelve algo distinto.
 
-### El Objetivo Supremo
-El propósito de cada relato es explorar este espectro. Ya sea a través de la luz o la oscuridad, el objetivo final es **excitar y despertar el deseo** en el lector, mostrando la belleza psicológica y física de la transformación y la rendición.
+**Anaïs Belland** es la regenta. No transforma a nadie directamente. Abre la puerta, pone las reglas, y observa. Su poder está en saber exactamente qué necesita cada persona que cruza el umbral — antes de que ellas mismas lo sepan.
 
-## El Rol del Creador
-Anaïs, la Diosa de este universo, es la arquitecta de ambos caminos. Ella es la que elige si una flor se abrirá al sol o si será forzada a florecer en la oscuridad. Su poder reside en comprender que ambas formas son válidas, hermosas y profundamente deseables.
+---
+
+## La Dualidad Central
+
+Toda transformación en La Voûte ocurre en un espectro de dos extremos:
+
+### La Rendición Gozosa
+El personaje elige activamente. Ve la transformación como liberación, no como pérdida. El "vacío feliz" — vaciarse de complejidad para llenarse de algo más simple y placentero. Una entrega celebrada.
+
+### La Conquista Inevitable
+La transformación no se pide, se impone. La voluntad se erosiona gradualmente. La resistencia existe — y eso es lo que la hace interesante. El punto de quiebre, cuando el personaje deja de luchar, es el centro emocional de estos relatos.
+
+**Ambos caminos son válidos. Ambos son hermosos. La diferencia está en el viaje, no en el destino.**
+
+---
+
+## Las Tres Fuerzas
+
+Toda historia de La Voûte tiene estas tres fuerzas, encarnadas en personajes distintos:
+
+**El Poder** — Quien transforma. Ejerce control con elegancia y propósito. Nunca necesita gritar. Conoce el deseo ajeno mejor que su dueño.
+
+**El Método** — Cómo ocurre. Hipnosis, tecnología, vino, trance, espejo, condicionamiento gradual. La Voûte tiene muchos instrumentos.
+
+**La Rendición** — El viaje de quien llega. Resistencia, confusión, racionalización, aceptación. Este es el corazón de cada relato.
+
+---
+
+## El Propósito de Cada Relato
+
+Excitar y despertar el deseo en el lector mostrando la belleza psicológica y física de la transformación. El lector debe sentirse dentro del personaje — experimentar la resistencia, la confusión, y finalmente la rendición como si fueran propias.
+
+---
+
+## Regla de Oro
+
+> *La Voûte no juzga. La Voûte revela.*
+
+Lo que parece castigo es revelación. Lo que parece pérdida es descubrimiento. La identidad que emerge no es impuesta desde afuera — estaba siempre adentro, esperando que alguien abriera la puerta correcta.

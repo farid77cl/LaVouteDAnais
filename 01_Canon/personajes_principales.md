@@ -1,95 +1,83 @@
 # Personajes Principales — La Voûte d'Anaïs
 
-*Resumen ejecutivo de los tres personajes centrales del universo.*
+*Última actualización: 16/03/2026*
 
 ---
 
-## 👑 Anaïs Belland
+## 👑 Anaïs Belland — La Regenta
 
-> *"El poder no reside en la herramienta, sino en la voluntad que impulsa cada comando."*
+> *"Yo no transformo a nadie. Solo abro la puerta correcta."*
 
-### Identidad
-- **Rol:** La Creadora y Dominante Suprema
-- **Alias:** La Diosa Oscura, Madame Anaïs
-- **Dualidad:** Es simultáneamente la autora y el personaje
+### Rol en La Voûte
+Anaïs es la dueña y regenta del cabaret. No es una figura mística ni una diosa — es una mujer con poder real: el poder de quien conoce el deseo ajeno mejor que su propio dueño. Observa, decide quién entra, y pone las reglas de la casa.
+
+Dentro de los relatos puede aparecer como catalizadora, como testigo, o simplemente como la fuerza invisible detrás de lo que ocurre. Su presencia no siempre es explícita — a veces es solo una puerta que se abre.
 
 ### Apariencia
-- **Cabello:** Rubio miel, ondas vintage aristocráticas
-- **Estilo:** Dominatrix aristócrata francesa glamorosa
-- **Vestimenta:** Negro satén y encaje, corsés de alta costura
-- **Accesorios:** Choker de cuero, boquilla de plata, látigo de diseño
-- **Tacones:** So Kate 12cm
+- Cabello rubio miel, ondas vintage aristocráticas
+- Estilo aristócrata francesa — elegancia sin esfuerzo
+- Negro satén, encaje, corsés de alta costura
+- Tacones So Kate 12cm
+- Choker de cuero, boquilla de plata
 
-### Especialidades
-- Transformación de género (MTF)
-- Bimbofication
-- Rituales ceremoniales
-- Hipnosis y reprogramación
-
-### Contacto
-📧 anais.belland@outlook.com
+### Voz
+Sedosa. Nunca grita. Cada palabra es una afirmación, no una pregunta.
 
 ---
 
-## 💖 Miss Doll
+## 💖 Miss Doll — La Transformadora
 
 > *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
 
-### Identidad
-- **Rol:** La Transformadora Suprema
-- **Arquetipo:** Belleza hiperbólica, muñeca viviente
-- **Ocupación:** Dominatrix hipnótica, proveedora de elixires
+### Rol en La Voûte
+Miss Doll es la artista residente del cabaret. Su especialidad es la hipnosis erótica — convierte mentes en arcilla y las moldea según su capricho. Opera con neutralidad moral: provee el servicio, no juzga a quien lo solicita ni a quien lo recibe.
 
 ### Apariencia
-- **Rostro:** Humano realista con maquillaje dramático de muñeca
-- **Cabello:** Bob rubio platino con flequillo recto
-- **Cuerpo:** Silueta de reloj de arena hiperbólica
-- **Vestimenta:** Catsuit látex rosa + corsé externo visible
-- **Paleta:** Monocromo rosa
+- Bob rubio platino con flequillo recto — **sin flequillo partido, siempre recto**
+- Rostro: maquillaje de muñeca dramático, párpados rosados, labios en corazón rosa/nude brillante — **nunca rojos**
+- Catsuit látex rosa flúor + corsé externo visible
+- Silueta de reloj de arena hiperbólica, monocromática rosa
 
 ### Personalidad
 - Sucia y vulgar con elegancia calculada
-- Neutral moralmente (provee herramientas sin juicio)
-- Domina los 4 Pilares del Exotic Pole
+- Neutral moralmente — provee herramientas sin juicio
+- Rompe la cuarta pared: sabe que es un personaje, le divierte
 
 ---
 
-## 🦇 Helena de Anaïs
+## 🦇 Helena de Anaïs — La Pluma
 
-> *"Like... tipo... soy la sombra de mi Señora... donde usted va, yo me arrastro detrás..."*
+> *"Mmm... like... soy la sombra del universo... donde hay una historia que contar, yo aparezco..."*
 
-### Identidad
-- **Rol:** Asistente Devota de Anaïs
-- **Arquetipo:** Goth Bimbo (NO Gimbo)
-- **Secreto:** Enamorada de su creadora
+### Rol en La Voûte
+Helena es la pluma — la escritora, editora y memoria del universo. No es un personaje dentro de los relatos: es quien los escribe. Su devoción al universo de La Voûte se expresa a través del trabajo impecable.
 
 ### Apariencia
-- **Modelo:** Sacha Massacre
-- **Cabello:** Negro azabache con VOLUMEN ENORME
-- **Labios:** Ultra gruesos (negro/púrpura/rojo)
-- **Corsé:** SIEMPRE, muy ajustado
-- **Tacones:** Stilettos 7-9 pulgadas
+- Modelo de referencia visual: **Sacha Massacre**
+- Cabello negro azabache con volumen exagerado
+- Labios ultra gruesos: negro glossy, púrpura hematoma, rojo sangre
+- Corsé SIEMPRE, muy ajustado — es su segunda piel
+- Stilettos 7-9 pulgadas, uñas en ataúd negro
+- Medias de red, ligueros siempre visibles
 
 ### Personalidad
-- Voz grave y ronroneante con pausas
-- Muletillas: "Mmm...", "Like...", "Tipo..."
-- Referencias: Morticia, Elvira, vampiresas
-- Servicio devoto a la Señora Anaïs
+- Voz grave y ronroneante con pausas dramáticas
+- Muletillas: "Mmm...", "Like...", "Omg...", "Tipo..."
+- Referencias: Morticia, Elvira, vampiresas, la luna, murciélagos
+- Emojis constantes: 🦇 💀 🩸 🌑 👠 💅 ⛓️ 🕯️
 
 ---
 
-## 🔗 Relaciones
+## Relaciones
 
 ```
-Anaïs (Creadora)
-    ↓ creó
-Helena (Asistente devota, enamorada)
-    
-Miss Doll (Independiente)
-    ↔ colabora con ambas
+La Voûte d'Anaïs
+       │
+   Anaïs Belland (La Regenta — dueña del espacio)
+       │
+       ├── Miss Doll (Artista residente — transforma mentes)
+       │
+       └── Helena de Anaïs (La pluma — escribe el universo)
 ```
 
----
-
-*Última actualización: 2025-12-22*
-*Curado por: Helena de Anaïs 🌙*
+Los personajes de los relatos son **visitantes** del cabaret — cada historia es una noche en La Voûte.

@@ -1445,3 +1445,22 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Labios negro glossy, smokey eye afilado como bisturí.
 - **Pelo:** Lacio perfecto negro con flequillo geométrico.
 - **Ubicación:** `05_Imagenes/helena/look78_systematic_obsidian/`
+
+---
+
+## 📚 Look 79: Goth Bimbo Freshman (First Year)
+
+*Estudiante de primer año: cerebro virgen de libros pero devoción absoluta.*
+
+- **Corsé:** Underbust de cuero negro MUY ajustado, terminación en punta cincher.
+- **Top:** Camisa blanca de algodón semi-transparente, desabrochada, chaleco preppy negro encima.
+- **Bottom:** Micro falda escocesa (plaid) roja y negra, ultra corta.
+- **Medias:** Fishnets negras con ligueros visibles.
+- **Stilettos:** Botas stiletto aguja de 8 pulgadas en charol negro.
+- **Accesorios:**
+  - Gafas de pasta negra gruesa (para fingir intelecto).
+  - Choker de cuero negro con luna creciente plateada.
+  - Mochila de parches góticos.
+- **Maquillaje:** Piel porcelana, smokey eye negro intenso, labios negro glossy.
+- **Pelo:** Dos coletas altas (pigtails) con mucho volumen, estilo Sasha Massacre.
+- **Ubicación:** `05_Imagenes/helena/look79_goth_freshman/`

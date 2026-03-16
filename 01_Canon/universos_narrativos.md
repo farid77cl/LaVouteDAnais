@@ -1,200 +1,107 @@
-# Universos Narrativos - La Voûte d'Anaïs
+# Las Noches de La Voûte — Tipos de Historias
 
-*Guía de los mundos literarios que componen nuestro canon.*
-
----
-
-## 🎭 Universo Miss Doll
-
-### Descripción
-Mundo contemporáneo donde Miss Doll opera como hipnotista y transformadora de mentes. Sus víctimas son seducidas hacia la bimbofication a través de la hipnosis erótica, siempre en segunda persona.
-
-### Tono
-- Hipnótico, susurrante
-- Segunda persona narrativa ("Tú escuchas...")
-- Comandos directos, sugestiones implantadas
-- Sensorial y progresivo
-
-### Personaje Central
-**Miss Doll** - Hipnotista profesional, creadora de muñecas vivientes
-
-### Historias en Este Universo
-- Trance de Muñeca
-- Gloss: El Trance de Miss Doll I & II
-- Trance de Belén
-- Trance de Miss Doll – Edgeplay
-- Trance de Miss Doll – La Marca del Cencerro
-- Trance de Gatita
-- Trance Bimbodoll (crossover con Alex/Lexi)
-- La Evaluación de Miss Doll (en progreso)
-
-### Reglas del Universo
-1. Miss Doll nunca pierde el control
-2. La hipnosis es siempre efectiva
-3. Las transformaciones son permanentes
-4. Las víctimas encuentran placer en su nueva forma
-5. El consentimiento es un juego de rendición
+*Última actualización: 16/03/2026*
 
 ---
 
-## 💋 Universo Feminización / Body Swap
-
-### Descripción
-Mundo donde hombres son transformados en mujeres hiperfemeninas, ya sea por intercambio de cuerpo, hormonas secretas, o dominación femenina.
-
-### Tono
-- Humillación erótica
-- Tercera persona focalizada o primera persona
-- Detalle sensorial extremo (ropa, tacones, maquillaje)
-- Progresión lenta de resistencia a aceptación
-
-### Sub-universos
-- **Esposa de mi Esposo** - Body swap matrimonial (Elena/Marco)
-- **Tetitas** - Feminización por hormonas (Carmen/Luis)
-- **Brillando en Tacones** - Feminización por tacones (Alex/Lexi)
-- **Series Individuales** - Julián/Julia, Leo/Candy, Martín/Martina
-
-### Reglas del Universo
-1. Las transformaciones físicas son extremas e irreversibles
-2. El cuerpo traiciona: responde con placer a la humillación
-3. Los piercings son marcas de propiedad
-4. Los tacones son obligatorios y cada vez más altos
-5. La aceptación final viene con paz, no solo rendición
+> La Voûte es un cabaret. Todas las historias ocurren dentro de sus paredes — o en los lugares a los que sus visitantes llevan el espíritu del lugar cuando salen.
+>
+> Los "universos" no son mundos separados. Son **tipos de noches** en La Voûte. El espacio es siempre el mismo. Lo que cambia es quién entra y qué busca.
 
 ---
 
-## 🤖 Universo VERA / Sci-Fi
+## 🎭 Las Noches de Miss Doll — Hipnosis y Trance
 
-### Descripción
-Futuro cercano donde la inteligencia artificial puede ser programada para roles domésticos y sexuales. Explora la sumisión a través de la lente de la programación.
+**Quién llega:** Personas que quieren dejar de pensar. Que buscan, consciente o inconscientemente, que alguien les quite el peso de ser quienes son.
 
-### Tono
-- Clínico pero sensual
-- Vocabulario de programación mezclado con erotismo
-- Primera persona de la IA
-- Obediencia como código, placer como recompensa
+**Qué ocurre:** Miss Doll es el instrumento. La hipnosis es gradual, sensorial, inevitable. La voz en segunda persona convierte al lector en el sujeto del trance.
 
-### Historias en Este Universo
-- Proyecto Trad-Wife: Unidad V.E.R.A.
-- La Creación Útil
+**Tono:** Susurrante. Hipnótico. El tiempo se disuelve.
 
-### Reglas del Universo
-1. La programación es ley
-2. Los protocolos pueden ser modificados pero no se resentidos
-3. El placer es una variable optimizable
-4. La perfección es alcanzable y obligatoria
+**Historias:** Trance de Muñeca, Gloss I & II, Trance de Belén, La Evaluación de Miss Doll, Trance Bimbodoll, The Dollhouse.
 
 ---
 
-## 🌺 Universo Bimbofication Pura
+## 💋 Las Noches de Feminización
 
-### Descripción
-Transformaciones de mujeres (o personas) en bimbos perfectas: vacías, felices, hermosas, disponibles. Enfatiza la liberación del pensamiento.
+**Quién llega:** Hombres que cargan con una identidad que no les calza. La transformación los encuentra — a veces buscada, a veces impuesta.
 
-### Tono
-- Alegre y ligero en la superficie
-- Oscuro y devastador debajo
-- El "vacío feliz" como meta
-- Placer física y mental simplificada
+**Qué ocurre:** El cuerpo cambia antes que la mente acepte. La ropa, los tacones, el maquillaje son las herramientas. La humillación es el catalizador. La aceptación llega sola, desde adentro.
 
-### Historias en Este Universo
-- Ginny la Genio Bimbo
-- La Dulce Aniquilación
-- Superficie
-- Milk
+**Tono:** Detalle sensorial extremo. Tercera persona focalizada. Resistencia larga antes de la rendición.
 
-### Reglas del Universo
-1. Pensar es innecesario e indeseable
-2. La belleza es el único valor
-3. El placer reemplaza toda emoción compleja
-4. La transformación es celebrada, no lamentada
+**Historias:** Esposa de mi Esposo I & II, Tetitas I & II, Brillando en Tacones I & II, Smart Home Stepford.
 
 ---
 
-## 🏨 Universo El Hotel
+## 🌀 Las Noches de Bimboficación Pura
 
-### Descripción
-Un hotel misterioso donde los huéspedes son transformados durante su estadía. Combina elementos de horror gótico con erotismo.
+**Quién llega:** Quienes buscan vaciarse. El "vacío feliz" como destino, no como pérdida.
 
-### Tono
-- Misterioso, atmósferico
-- El hotel como entidad consciente
-- Transformaciones graduales nocturnas
-- Terror mezclado con placer
+**Qué ocurre:** La inteligencia se disuelve. La belleza lo reemplaza todo. El proceso puede ser gozoso o devastador — a veces los dos a la vez.
 
-### Historias en Este Universo
-- El Hotel, Primera Noche
-- El Hotel, Segunda Noche
+**Tono:** Alegre en la superficie. Oscuro por abajo. La frivolidad como horror.
 
-### Arco Disponible
-- [arco_hotel.md](../02_Personajes/arcos_argumentales/arco_hotel.md)
-
-### Reglas del Universo
-1. El hotel nunca se explica completamente
-2. Cada noche trae más cambios
-3. Los huéspedes no pueden irse hasta completar la transformación
-4. El personal son transformaciones anteriores
+**Historias:** Ginny la Genio Bimbo, La Dulce Aniquilación, Superficie, Milk.
 
 ---
 
-## ⛓️ Universo Femdom
+## 🤖 Las Noches de VERA — Sci-Fi y Programación
 
-### Descripción
-Mundo de dominación femenina explícita donde las mujeres tienen poder absoluto sobre los hombres.
+**Quién llega:** Identidades artificiales que descubren el deseo. O humanos que se convierten en máquinas obedientes.
 
-### Tono
-- Autoritario y degradante
-- Worship de pies, tacones, cuerpo
-- Humillación como placer principal
-- El masculino como inferior natural
+**Qué ocurre:** El vocabulario de la programación se mezcla con el erotismo. La obediencia como código. El placer como variable optimizable.
 
-### Historias en Este Universo
-- El Mandato de los Tacones
-- El Elixir de la Diosa
-- Perfume de Ruina I & II
+**Tono:** Clínico y sensual. Primera persona de la IA.
 
-### Reglas del Universo
-1. El poder femenino es natural e incuestionable
-2. Los hombres existen para servir
-3. La humillación es un regalo
-4. La rendición es la única respuesta correcta
+**Historias:** Proyecto Trad-Wife: Unidad V.E.R.A., La Creación Útil.
 
 ---
 
-## 🪞 Universo Le Miroir (Francés)
+## 🏨 Las Noches del Hotel
 
-### Descripción
-Serie en francés que explora la transformación a través del simbolismo del espejo.
+**Quién llega:** Huéspedes que no saben que han entrado a La Voûte disfrazada de hotel.
 
-### Tono
-- Literario, poético
-- Francés elegante
-- El espejo como puerta a otro yo
-- Exploración identitaria
+**Qué ocurre:** El hotel es una entidad. Cada noche trae cambios. Los huéspedes no pueden irse hasta completar la transformación. El horror viene de lo gradual.
 
-### Historias en Este Universo
-- Capítulo I – Le miroir d'Anaïs
-- Capítulo II – Sous la dentelle
-- Capítulo III – La semaine du miroir
-- Capítulo IV – La cena del juicio
+**Tono:** Gótico atmosférico. Misterio. Terror mezclado con placer.
+
+**Historias:** El Hotel, Primera Noche / Segunda Noche.
 
 ---
 
-## 🔗 Conexiones Entre Universos
+## 🪞 Las Noches del Espejo — Serie Le Miroir
 
-### Personajes Compartidos
-- **Miss Doll** aparece en su universo propio Y en Trance Bimbodoll (crossover)
-- **Alex/Lexi** aparece en Brillando en Tacones Y en Trance Bimbodoll
+**Quién llega:** Sofía. Y el reflejo que la espera.
 
-### Temas Compartidos
-Todos los universos comparten:
-- Piercings como marcas de propiedad
-- Tacones como símbolo de transformación
-- La ropa de lujo como prisión elegante
-- El placer derivado de la humillación
-- La rendición como liberación
+**Qué ocurre:** La transformación ritual de Sofía a manos de Anaïs. El espejo como puerta a otro yo. El francés como idioma del deseo más elegante.
+
+**Tono:** Literario. Poético. El espejo como símbolo central.
+
+**Historias:** Le miroir d'Anaïs I-IV.
 
 ---
 
-*Última actualización: 2025-12-09*  
-*Curado por: Helena de Anaïs 🌙*
+## ⛓️ Las Noches de Femdom
+
+**Quién llega:** Hombres que necesitan ser recordados de su lugar.
+
+**Qué ocurre:** El poder femenino es absoluto e incuestionable. La humillación es un regalo. La rendición es la única respuesta posible.
+
+**Tono:** Autoritario. Directo. La degradación como forma de honra.
+
+**Historias:** El Mandato de los Tacones, Perfume de Ruina I & II.
+
+---
+
+## Temas que Cruzan Todas las Noches
+
+Sin importar el tipo de historia, La Voûte siempre tiene presente:
+
+| Elemento | Significado en el universo |
+|----------|---------------------------|
+| **Tacones** | Símbolo de transformación — siempre suben, nunca bajan |
+| **Corsés** | Restricción que da forma — la nueva identidad aprieta al principio |
+| **Piercings** | Marcas permanentes — el cuerpo ya no pertenece a quien era |
+| **Espejo** | Confrontación con la nueva identidad |
+| **Chile** | Toda historia se sitúa en geografía chilena real |

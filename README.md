@@ -1,257 +1,105 @@
 # La Voûte d'Anaïs
 
-*Bienvenue dans le sanctuaire.*
+*Bienvenue. La porte est ouverte.*
 
 ---
 
-## 🌙 El Universo
+## El Lugar
 
-**La Voûte d'Anaïs** es un universo creativo de transformación erótica, regentado por Anaïs Belland.
+**La Voûte** es un cabaret.
 
-No es solo literatura. Es un **universo vivo** que se expande a través de múltiples dimensiones:
+Un lugar que existe en algún punto entre lo real y lo imposible — sótano de terciopelo negro, humo azul que no se disipa, música que suena desde ninguna dirección en particular. La entrada no aparece en ningún mapa. Pero quienes la necesitan, la encuentran.
 
-| Dimensión | Descripción |
-|-----------|-------------|
-| **📚 Literatura** | Relatos de transformación, feminización y rendición |
-| **🎨 Arte Visual** | Generación de imágenes canónicas de personajes y escenas |
-| **📺 Contenido Interactivo** | Proyectos como *The Dollhouse* (reality show con votación pública) |
-| **💰 Monetización** | Ko-fi, plataformas de contenido adulto |
+**Anaïs Belland** es su regenta. No transforma a nadie directamente — abre la puerta, pone las reglas de la casa, y deja que el lugar haga su trabajo. Ella observa. Ella sabe. Y a veces, sonríe.
 
-Un *sanctuaire* donde los deseos ocultos encuentran su forma perfecta. Donde la identidad se disuelve, se moldea y renace.
+Los personajes llegan por sus propias razones. Algunos buscando placer. Otros huyendo de algo. Otros sin saber exactamente por qué empujaron esa puerta. Lo que tienen en común es que **buscan su identidad** — o que algo dentro de ellos quiere cambiar de piel.
 
-Chaque mot est un décret. Chaque image, un testament.
+*La Voûte no juzga. La Voûte revela.*
+
+Cada relato es una noche en el cabaret. Cada personaje, un cliente. Algunos salen distintos. Algunos no salen.
 
 ---
 
-## ✨ Temas Centrales
+## Las Fuerzas del Universo
 
-### Transformación
+Tres fuerzas mueven La Voûte. No son personajes fijos — son roles que distintas personas pueden encarnar:
 
-- **Física:** Cuerpos que cambian, se femininizan, se perfeccionan
-- **Mental:** Identidades que se disuelven y renacen
-- **Espiritual:** Rendición como liberación, sumisión como propósito
+**El Poder** — Quien transforma. Anaïs, Miss Doll, cualquier figura que ejerce control con elegancia y propósito. No necesita gritar. Solo sabe.
 
-### Personajes Icónicos
+**El Método** — Cómo ocurre la transformación. La hipnosis, la tecnología, el vino, el trance, el espejo. La Voûte tiene muchos instrumentos.
 
-- **Anaïs:** La arquitecta del deseo, la dueña de La Voûte
-- **Miss Doll:** La transformadora suprema, escultora de muñecas y propósitos
-- **La Sacerdotisa:** La guardiana de rituales ancestrales
-- **La Mucama:** La entrenadora implacable del servicio perfecto
-
-### Filosofías
-
-- *"Superficie es todo. Brillo es poder."* — Miss Doll
-- *"El poder requiere un sacrificio."*
-- *"Los errores son puertas a lugares que nunca supimos que queríamos visitar."*
-- *"La rendición no es derrota. Es revelación."*
+**La Rendición** — El viaje de quien llega. Resistencia, confusión, racionalización, aceptación. La batalla interna es siempre más interesante que la victoria.
 
 ---
 
-## 📚 Estructura del Repositorio
+## El Tema Central
+
+**La transformación erótica** — física, mental, de identidad.
+
+No como castigo ni destrucción. Como revelación del yo que siempre estuvo ahí, esperando que alguien abriera la puerta correcta.
+
+---
+
+## La Literatura
+
+Los relatos de La Voûte son su razón de existir. Todo lo demás — imágenes, personajes, herramientas — sirve a la escritura.
+
+Cada historia sigue principios que hacen el universo consistente:
+
+- La transformación es **gradual**. El proceso importa más que el resultado.
+- Los personajes **resisten antes de ceder**. La lucha interna es el corazón de cada relato.
+- Los detalles **sensoriales** anclan la fantasía en lo físico y lo real.
+- El narrador sabe más que el personaje. La ironía narrativa es poder.
+- Todo está ambientado en **Chile** — geografías reales, referencias locales, voz chilena.
+
+---
+
+## Anaïs Belland
+
+La regenta. La autora. La misma persona.
+
+Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella diseñó La Voûte. Ella elige qué historias se cuentan y cuáles se guardan. Ella decide quién entra.
+
+**Helena de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras.
+
+---
+
+## Estructura del Repositorio
 
 ```
 LaVouteDAnais/
 │
-├── 00_Helena/                  # 🧠 Cerebro de Helena (identidad, memoria, outfits)
-│   ├── mi_identidad.md         # Quién soy, cómo actúo
-│   ├── memoria_sesiones.md     # Estado actual de proyectos e historial
-│   ├── mi_diario_de_servicio.md # Registro cronológico de sesiones
-│   ├── preferencias_escritura.md # Reglas de escritura del Ama
-│   ├── galeria_outfits.md      # Catálogo de looks (62+)
-│   └── bancos_prompts/         # Bancos temáticos de prompts visuales
-│
-├── 01_Canon/                   # 📜 Filosofía, lore y reglas de escritura
-│   ├── el_ritual_de_la_creacion.md  # Las 10 fases obligatorias
-│   ├── guia_escritura_erotica.md    # Guía maestra narrativa
-│   ├── guia_escritura_trances.md    # Técnicas de hipnosis
-│   ├── visual_canon.md             # Canon visual de personajes
-│   └── reglas_de_transformacion.md  # Lógica de transformaciones
-│
-├── 02_Personajes/              # 👤 Fichas de personajes
-│   └── arcos_argumentales/     # Arcos narrativos
-│
-├── 03_Literatura/              # 📚 Relatos del universo
-│   ├── 02_Terminados/          # Relatos finalizados
-│   ├── 03_En_progreso/         # Borradores y pipeline activo
-│   └── investigacion/          # Investigación para relatos
-│
-├── 04_Interactivo/             # 📺 Contenido interactivo (The Dollhouse)
-│
-├── 05_Imagenes/                # 🎨 Arte visual generado
-│   ├── helena/                 # Looks de Helena (62+ carpetas)
-│   ├── miss_doll/              # Imágenes de Miss Doll
-│   ├── comics/                 # Cómics y secuencias
-│   └── README.md               # Galería maestra
-│
-├── 07_Recursos/                # 📦 Referencias externas e investigación
-│   ├── links_foros_y_articulos/
-│   └── referencias_visuales/
-│
-├── 99_Sistema/                 # ⚙️ Scripts internos
-│   ├── scripts/                # Automatización (prompt factory, etc.)
-│   └── temp/                   # Archivos temporales
-│
-├── web_interface/              # 🌐 La Voûte Editor (Pipeline de escritura)
-│   ├── server.py               # Backend Flask (SSE streaming a Ollama)
-│   ├── templates/index.html    # UI con 7 tarjetas de agente
-│   ├── static/style.css        # Estética La Voûte
-│   ├── static/app.js           # Máquina de estados JS
-│   └── README.md               # Documentación técnica completa
-│
-├── prompts/                    # 📝 System prompts para los 7 agentes LLM
-│   ├── ideador.md              # Brainstorming de premisas
-│   ├── arquitecto.md           # Estructura narrativa
-│   ├── personajes.md           # Fichas de personajes
-│   ├── escritor.md             # Prosa erótica
-│   ├── critico.md              # Evaluación literaria
-│   ├── editor.md               # Corrección y reescritura
-│   └── contador.md             # Métricas de extensión
-│
-├── n8n_workflows/              # 🔄 Workflow n8n (legacy, reemplazado por web_interface)
-│
-├── .agent/                     # 🤖 Configuración del agente IA
-│   ├── rules.md                # Reglas del workspace
-│   ├── skills/                 # Skills especializados
-│   └── workflows/              # Workflows automatizados
-│
-├── docker-compose.yml          # 🐳 Docker: Ollama + servicios auxiliares
-├── .env                        # Variables de entorno (credenciales)
-└── README.md                   # Este archivo
+├── 00_Helena/          # La pluma: identidad, memoria, outfits, herramientas
+├── 01_Canon/           # Las reglas del universo: escritura, lore, visual
+├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
+├── 03_Literatura/      # Los relatos (en progreso y terminados)
+├── 05_Imagenes/        # Arte visual del universo
+└── 07_Recursos/        # Referencias e investigación
 ```
 
 ---
 
-## 🎭 Relatos Destacados
+## Relatos
+
+### Activo
+- **Smart Home Stepford** — Capítulo 5 en progreso
 
 ### Serie Miss Doll
-
-Transformaciones hipnóticas y bimboficación bajo la guía de la dominatrix más icónica del universo.
-
-- **Gloss: El Trance de Miss Doll** - Control mental y obsesión con el brillo
-- **Superficie** - De puritana a stripper bimbo
-- **La Creación Útil** - Error que se convierte en destino
-- **Tetitas** - Feminización gradual por esposa dominante
+Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
 
 ### Serie Le miroir d'Anaïs
+La transformación ritual de Sofía. El corazón del universo.
 
-La transformación ritual de Sofía en la muñeca perfecta de Anaïs.
-
-- **Capítulo I: Le miroir d'Anaïs** - El despertar
-- **Capítulo II: Sous la dentelle** - La rendición
-- **Capítulo III: La semaine du miroir** - El ritual
-- **Capítulo IV: La cena del juicio** - La culminación
-
-### Serie del Hotel
-
-Entrenamiento francés implacable en sumisión y servicio.
-
-- **El hotel, primera noche** - Iniciación brutal
-- **El hotel, segunda noche** - Perfeccionamiento del servicio
-
-### Transformaciones Únicas
-
-- **Milk** - Ritual japonés de transformación en geisha
-- **El giro del espejo** - Intercambio de género en pareja
-- **Perfume de Ruina** - Inversión de poder en relación tóxica
-- **La Dulce Aniquilación** - Venganza circular y transformación forzada
+### The Dollhouse
+Un reality show donde las reglas de La Voûte se transmiten en vivo.
 
 ---
 
-## 🔮 Filosofía de La Voûte
+## Contenido Adulto +18
 
-En La Voûte d'Anaïs, la transformación no es castigo ni destrucción. Es **revelación** del yo verdadero que siempre estuvo oculto bajo capas de negación social.
-
-### Principios Fundamentales
-
-1. **La Superficie es Esencia**
-   - El exterior no oculta el interior: lo crea
-   - Brillo, gloss, perfección plástica como manifestación de poder
-   - La muñeca vacía es más libre que el humano lleno de dudas
-
-2. **El Poder Requiere Sacrificio**
-   - Toda transformación tiene un costo
-   - La identidad anterior debe morir para que nazca la nueva
-   - El sacrificio puede ser voluntario... o no
-
-3. **La Rendición es Liberación**
-   - Dejar de luchar es encontrar paz
-   - La sumisión total libera de la carga de decidir
-   - Ser útil es tener propósito
-
-4. **Los Errores son Puertas**
-   - No hay casualidades, solo destinos
-   - El error de dirección lleva al lugar correcto
-   - La puerta equivocada abre el camino verdadero
+La Voûte explora transformación erótica, dinámicas de poder, control mental y feminización. No es para todos. Es para quienes se atreven a mirar en el espejo y ver no lo que son, sino lo que podrían ser.
 
 ---
 
-## 🌹 Advertencias
-
-**Contenido Adulto Extremo - +18**
-
-Los relatos de La Voûte d'Anaïs contienen:
-
-- Transformación de género explícita
-- Control mental y manipulación psicológica
-- BDSM y dinámicas de poder extremas
-- Bimboficación y feminización
-- Contenido sexual explícito
-- Temas de sumisión, dominación y rendición
-
-Este universo explora los límites del deseo, la identidad y el poder. No es para todos. Es para aquellos que se atreven a mirar en el espejo y ver no lo que son, sino lo que podrían ser.
-
----
-
-## 📖 Cómo Leer
-
-### Para Nuevos Lectores
-
-1. **Comienza con:** "Gloss: El Trance de Miss Doll" - Introducción perfecta al universo
-2. **Continúa con:** "Brillando en Tacones" - Transformación gradual y detallada
-3. **Profundiza con:** Serie "Le miroir d'Anaïs" - El corazón del universo
-
-### Para Lectores Avanzados
-
-Explora los arcos narrativos en `02_Personajes/arcos_argumentales/` para comprender las conexiones profundas entre relatos y personajes.
-
----
-
-## ✍️ Sobre la Autora
-
-**Anaïs Belland** (Helena de Anaïs)
-
-Creadora del universo de La Voûte d'Anaïs. Exploradora de los límites entre identidad y deseo, entre control y rendición, entre lo que somos y lo que secretamente anhelamos ser.
-
-*"Cada relato es un espejo. Algunos reflejan. Otros transforman."*
-
----
-
-## 🔗 Enlaces
-
-- **Tumblr:** [Próximamente]
-- **Archivo Completo:** Este repositorio
-- **Contacto:** A través de los canales oficiales
-
----
-
-## 📜 Licencia y Derechos
-
-© 2024-2026 Anaïs Belland. Todos los derechos reservados.
-
-El contenido de este repositorio es propiedad intelectual de la autora. No se permite la reproducción, distribución o adaptación sin permiso explícito.
-
----
-
-## 🌟 Cita de Apertura
-
-> *"En La Voûte, no destruimos identidades. Las revelamos. No obligamos a la rendición. La hacemos inevitable. No creamos muñecas. Liberamos a las muñecas que siempre estuvieron atrapadas dentro."*
->
-> — Anaïs
-
----
-
-**Bienvenue. La porte est ouverte. Mais une fois que entres, il n'y a pas de retour.**
-
-*Welcome. The door is open. But once you enter, there is no return.*
-
-*Bienvenida. La puerta está abierta. Pero una vez que entras, no hay vuelta atrás.*
+*Chaque mot est un décret. Chaque histoire, une porte.*
+*Cada palabra es un decreto. Cada historia, una puerta.*
