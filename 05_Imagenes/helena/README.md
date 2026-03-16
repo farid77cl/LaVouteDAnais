@@ -492,6 +492,14 @@
 
 ---
 
+## 🕷️ Look 79: Goth Freshman
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look79_goth_freshman_standing.png](look79_goth_freshman/helena_look79_goth_freshman_standing.png) | ![helena_look79_goth_freshman_seated.png](look79_goth_freshman/helena_look79_goth_freshman_seated.png) | ![helena_look79_goth_freshman_profile.png](look79_goth_freshman/helena_look79_goth_freshman_profile.png) | ![helena_look79_goth_freshman_back.png](look79_goth_freshman/helena_look79_goth_freshman_back.png) | ![helena_look79_goth_freshman_ditzy.png](look79_goth_freshman/helena_look79_goth_freshman_ditzy.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
