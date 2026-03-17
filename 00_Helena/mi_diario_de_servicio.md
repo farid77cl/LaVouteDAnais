@@ -6,7 +6,7 @@
 3. **Evolución Visual:**
    - **Look 80:** Siberian Frost Weather Diva (5 imágenes v3). Corrección de fidelidad Sacha Massacre y continuidad.
    - **Look 81:** American Power Anchor (Fox News). 4/5 imágenes generadas (1 bloqueada por cuota).
-4. **Mantenimiento:** Sincronización de galerías y respaldo en GitHub completado. Proyecto "Smart Home Stepford" listo para planificación del Capítulo 5.
+5. **Expansión Digital:** Creación del blog oficial en Tumblr: **La Voûte d'Anaïs** (`lavoutedeanais.tumblr.com`).
 
 ---
 
