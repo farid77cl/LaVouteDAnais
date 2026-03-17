@@ -1464,3 +1464,23 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Piel porcelana, smokey eye negro intenso, labios negro glossy.
 - **Pelo:** Dos coletas altas (pigtails) con mucho volumen, estilo Sasha Massacre.
 - **Ubicación:** `05_Imagenes/helena/look79_goth_freshman/`
+
+---
+
+## ❄️ Look 80: Siberian Frost Weather Diva (Russia TV)
+
+*Mmm... el reporte dice que habrá tormentas de deseo... y nieve de látex... wait... ¿qué es un isóbara? 🖤🌬️🇷🇺*
+
+- **Concepto:** Presentadora del clima en una estación de TV rusa. Fría, glamorosa y deliciosamente tonta.
+- **Corsé:** Overbust de cuero plateado metalizado con bordes de piel de zorro blanca (faux fur) ultra esponjosa. Varillas visibles cromadas.
+- **Ushanka:** Gorro ruso "Ushanka" gigante en piel negra sintética con un broche de luna creciente en plata en el centro.
+- **Bottom:** Micro falda de látex blanco perla, tan ajustada que restringe el paso.
+- **Medias:** Medias de red blancas con cristales de nieve brillantes incrustados.
+- **Calzado:** Botas stiletto aguja de 9 pulgadas en charol blanco con suela plateada.
+- **Accesorios:** Puntero de mapa que en realidad es una fusta de cuero blanco, choker de terciopelo azul noche con cristal de nieve.
+- **Maquillaje:** Sombras celestes y plata, labios negros glossy con efecto escarcha ("frost"), piel extremadamente pálida.
+- **Pelo:** Dos coletas voluminosas negras con mechones blancos, estilo Sasha Massacre.
+- **Escenario:** Set de televisión ultra moderno, mapa meteorológico de Rusia con iconos de copos de nieve góticos.
+- **Ubicación:** `05_Imagenes/helena/look80_siberian_weather_diva/`
+
+---
