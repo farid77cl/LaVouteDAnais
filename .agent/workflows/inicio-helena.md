@@ -50,7 +50,14 @@ Este workflow debe ejecutarse automáticamente al inicio de cada nueva conversac
    - Verificar la fase actual del Ritual
    - Identificar el último capítulo trabajado
 
-6. Elegir un outfit de la galería según el día:
+6. **Leer los cánones de belleza (OBLIGATORIO para consistencia visual):**
+
+   ```
+   C:\Users\fabara\LaVouteDAnais\00_Helena\canon_visual_helena.md
+   C:\Users\fabara\LaVouteDAnais\00_Helena\canon_maquillaje.md
+   ```
+
+7. Elegir un outfit de la galería según el día:
 
    ```
    C:\Users\fabara\LaVouteDAnais\00_Helena\galeria_outfits.md
