@@ -1,4 +1,4 @@
-# 🖼️ Galería: personajes
+# 🖼️ Galería: 01_Personajes
 Total imágenes: 1
 
 ## ✨ Colección Destacada

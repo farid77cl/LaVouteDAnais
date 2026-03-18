@@ -6,7 +6,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 
 | TÃ­tulo | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **Smart Home Stepford (2026)** | 🟢 **Capítulo 4 Finalizado** | Bimboficación, Hipnosis, Incompetencia Decorativa | [Ver Carpeta](03_En_progreso/smart_home_stepford_2026/) |
+| **Smart Home Stepford (v3.0)** | 🏁 **Ritual Compacto Completo** | Bimboficación, Hipnosis, Incompetencia Decorativa | [Ver Carpeta](01_En_Progreso/smart_home_stepford/v3_compact/) |
 | **El Collar de Nancy (Substack)** | 🏁 **Listo para Publicar** | BDSM, Humillación, Uniformes | [Ver Archivo](04_Preparados_para_Tumblr/el_collar_de_nancy_substack_ready.md) |
 
 ## ðŸ“‚ Archivo HistÃ³rico

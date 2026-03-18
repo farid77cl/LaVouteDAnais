@@ -24,7 +24,6 @@ Explora las secciones de esta categoría:
 - ✅ [**Duos**](./Duos/README.md)
 - ✅ [**Outfits**](./Outfits/README.md)
 - ✅ [**Scenes**](./Scenes/README.md)
-- 📁 [**Wedding Night**](./wedding_night/README.md)
 
 ---
 ## 📜 Lista de Archivos
