@@ -10,10 +10,11 @@ Explora las secciones de esta categoría:
 - ✅ [**Miss Doll**](./miss_doll/README.md)
 - ✅ [**Mixed Fetish V63**](./mixed_fetish_v63/README.md)
 - ✅ [**Personajes**](./personajes/README.md)
+- ✅ [**Relatos**](./relatos/README.md)
 - ✅ [**Story Arcs**](./story_arcs/README.md)
 - ✅ [**The Dollhouse**](./the_dollhouse/README.md)
 - ✅ [**Video Gloss**](./video_gloss/README.md)
 - ✅ [**Video Trance I**](./video_trance_i/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-16*
+*Actualizado automáticamente: 2026-03-18*

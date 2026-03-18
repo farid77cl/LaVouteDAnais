@@ -1,4 +1,22 @@
 # 🖼️ Galería: anais
+Total imágenes: 2
+
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![avatar_oficial_anais.png](./avatar_oficial_anais.png) | ![header_oficial_voute.png](./header_oficial_voute.png) |
+
+---
+
+## 📸 Vista Previa Completa
+
+| Imagen | Imagen |
+| :---: | :---: |
+| ![avatar_oficial_anais.png](./avatar_oficial_anais.png) | ![header_oficial_voute.png](./header_oficial_voute.png) |
+
+
+---
+
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
@@ -9,4 +27,9 @@ Explora las secciones de esta categoría:
 - 📁 [**Wedding Night**](./wedding_night/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-16*
+## 📜 Lista de Archivos
+- [avatar_oficial_anais.png](./avatar_oficial_anais.png)
+- [header_oficial_voute.png](./header_oficial_voute.png)
+
+---
+*Actualizado automáticamente: 2026-03-18*

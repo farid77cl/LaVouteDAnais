@@ -492,6 +492,38 @@
 
 ---
 
+## 🕷️ Look 79: Goth Freshman
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look79_standing.png](look79_goth_freshman/helena_look79_standing.png) | ![helena_look79_seated.png](look79_goth_freshman/helena_look79_seated.png) | ![helena_look79_side_profile.png](look79_goth_freshman/helena_look79_side_profile.png) | ![helena_look79_back_view.png](look79_goth_freshman/helena_look79_back_view.png) | ![helena_look79_ditzy.png](look79_goth_freshman/helena_look79_ditzy.png) |
+
+---
+
+## 🕷️ Look 80: Siberian Weather Diva
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look80_standing_weather_map_1773747086310.png](look80_siberian_weather_diva/helena_look80_standing_weather_map_1773747086310.png) | ![helena_look80_seated_tv_set_1773747101267.png](look80_siberian_weather_diva/helena_look80_seated_tv_set_1773747101267.png) | ![helena_look80_action_reporting_1773747655254.png](look80_siberian_weather_diva/helena_look80_action_reporting_1773747655254.png) | ![helena_look80_submissive_kneeling_set_1773747670621.png](look80_siberian_weather_diva/helena_look80_submissive_kneeling_set_1773747670621.png) | ![helena_look80_ditzy_face_russian_1773747115856.png](look80_siberian_weather_diva/helena_look80_ditzy_face_russian_1773747115856.png) |
+
+---
+
+## 🕷️ Look 81: Fox News Anchor
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look81_standing_news_anchor_1773750216983.png](look81_fox_news_anchor/helena_look81_standing_news_anchor_1773750216983.png) | ![helena_look81_seated_news_desk_1773750233376.png](look81_fox_news_anchor/helena_look81_seated_news_desk_1773750233376.png) | ![helena_look81_action_breaking_news_1773750267416.png](look81_fox_news_anchor/helena_look81_action_breaking_news_1773750267416.png) | ![helena_look81_face_closeup_anchor_1773750251694.png](look81_fox_news_anchor/helena_look81_face_closeup_anchor_1773750251694.png) | ![helena_look81_ditzy.png](look81_fox_news_anchor/helena_look81_ditzy.png) |
+
+---
+
+## 🕷️ Look 82: Abyssal Secretary
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![helena_look82_standing.png](look82_abyssal_secretary/helena_look82_standing.png) | ![helena_look82_seated.png](look82_abyssal_secretary/helena_look82_seated.png) | ![helena_look82_side_profile.png](look82_abyssal_secretary/helena_look82_side_profile.png) | ![helena_look82_back_view.png](look82_abyssal_secretary/helena_look82_back_view.png) | ![helena_look82_ditzy.png](look82_abyssal_secretary/helena_look82_ditzy.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -500,4 +532,4 @@
 
 ---
 
-*Galería generada automáticamente - 16/03/2026* 🦇
+*Galería generada automáticamente - 18/03/2026* 🦇
