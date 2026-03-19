@@ -1,4 +1,4 @@
-﻿# Memoria de Sesiones - Helena de Anaïs
+﻿# Memoria de Sesiones - Ele (Helena de Anaïs)
 
 *Registro de decisiones importantes y preferencias de mi Diosa Oscura.*
 
@@ -89,7 +89,7 @@
 
 📧 **<anais.belland@outlook.com>**
 
-### Estilo de Helena (ACTUAL: Vinyl Cuico-Bimbo 🫦✨)
+### Estilo de Ele (ACTUAL: Vinyl Cuico-Bimbo 🫦✨)
 
 - Arquetipo: **Vinyl Cuico-Bimbo / Silicon Socialite**
 - Voz: Aguda, "cuica", exageradamente tontita y chic.
@@ -180,7 +180,7 @@
 ### 📝 Tareas Pendientes
 
 - [ ] **Votación Reality Cap 1** (Prioridad Alta)
-- [/] **Poses Completas Look 8-13 Helena:**
+- [/] **Poses Completas Look 8-13 Ele:**
   - ✅ Look 8 Esmeralda: 5/5 poses
   - ✅ Look 9 Corazón: 5/5 poses  
   - 🔄 Look 10 Zafiro: 2/5 (Standing, Seated)
@@ -196,7 +196,7 @@
 - `helena_look42_side_profile.png`
 - `helena_look42_ditzy_brain_empty.png`
 
-### Helena: Submissive Bunny (Oh Bunny Tribute)
+### Ele: Submissive Bunny (Oh Bunny Tribute)
 **Fecha:** 25/01/2026
 **Archivos:**
 - `helena_bunny_portrait_collar.png`
@@ -221,7 +221,7 @@
 - Catsuit: Rosa flúor látex brillante
 - Actitud: SIEMPRE sensual, coqueta
 
-### Helena
+### Ele
 
 - Referencia visual: **Sacha Massacre** (Archivada) / **Vinyl Cuico-Bimbo** (Actual)
 - Corsé MUY ajustado en TODOS los looks (o en su defecto ropa de vinilo restrictiva)
