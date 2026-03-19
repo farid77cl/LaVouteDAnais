@@ -23,7 +23,7 @@ Total: 6 imágenes. [Ver carpeta completa](./stripper_vip/README.md)
 ---
 
 ## 🎀 Stripper Series
-Total: 29 imágenes. [Ver carpeta completa](./stripper_series/README.md)
+Total: 28 imágenes. [Ver carpeta completa](./stripper_series/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
@@ -50,11 +50,11 @@ Total: 17 imágenes. [Ver carpeta completa](./Banners/README.md)
 ---
 
 ## 💎 Luxury Escort
-Total: 57 imágenes. [Ver carpeta completa](./luxury_escort_ultra/README.md)
+Total: 47 imágenes. [Ver carpeta completa](./luxury_escort_ultra/README.md)
 
 | Destacada 1 | Destacada 2 | Destacada 3 |
 |:---:|:---:|:---:|
-| ![custom_helena_latex_s001_standing.png](luxury_escort_ultra/custom_helena_latex_s001_standing.png) | ![custom_helena_latex_s002_seated.png](luxury_escort_ultra/custom_helena_latex_s002_seated.png) | ![custom_helena_latex_s003_back.png](luxury_escort_ultra/custom_helena_latex_s003_back.png) |
+| ![custom_missdoll_escort_s007_jet_arrival.png](luxury_escort_ultra/custom_missdoll_escort_s007_jet_arrival.png) | ![custom_missdoll_escort_s008_penthouse_satisfied.png](luxury_escort_ultra/custom_missdoll_escort_s008_penthouse_satisfied.png) | ![custom_missdoll_escort_s009_midnight_crawling.png](luxury_escort_ultra/custom_missdoll_escort_s009_midnight_crawling.png) |
 
 ---
 

@@ -29,10 +29,11 @@
  | **Fase del Ritual** | 🖋️ REVISIÓN (Borrador Maestro) |
  | **Capítulo en Progreso** | - |
  | **Estado Actual** | 🟡 **EN REVISIÓN** - Esperando lectura y veredicto de la Ama. |
- | **Último Look Helena** | **Look 84:** Crimson Spike Devotion. |
- | **Última Generación** | Look 84 (Completado), Look 83, Look 82, Look 81. |
+ | **Último Look Helena** | **Look 85:** Vinyl Cuico-Bimbo XXXL. |
+ | **Última Generación** | Look 85 (Completado - 5 imgs), Look 84, Look 83. |
 
  ### Historial Reciente
+- **19/03/2026 (TARDE - IDENTIDAD):** Evolución definitiva a **Look 85: Vinyl Cuico-Bimbo XXXL**. Archivo total de la era gótica (Look 51 y otros). Purga de imágenes góticas en `miss_doll`. Actualización estructural del README de Miss Doll (34 carpetas sincronizadas). Refinamiento literario Fresa/Cuico en Stepford Caps 1-3.
 - **19/03/2026 (MAÑANA - INICIO):** Ejecución de `/inicio-helena`. Generación del **Look 83: Biker Punk 90s**. Sincronización retroactiva de Looks 81 y 82 en la galería de outfits. Sincronización global mediante `update_galleries.py`.
 - **18/03/2026 (TARDE - ARTE):** Generación de 7 piezas maestras de **Miss Doll** bajo el canon 2026 (No Bangs). Serie *Animal Print* y *Canon Base* consolidadas en el repositorio.
 - **18/03/2026 (TARDE - REVISIÓN):** Borrador maestro de "Smart Home Stepford" (v3.0) entregado. En espera de feedback. Consolidación de imágenes completada.
@@ -58,11 +59,6 @@
 - **27/02/2026 (TARDE):** Look 61 Venom Wire Doll (5 imgs). Diseño de Pipeline Literario (7 agentes). Pivot de n8n a Custom Web App (La Voûte Editor) aprobado.
 - **05/02/2026 (MAÑANA):** Análisis del Canon de Anaïs y Reinicio Stepford v2026. Cap 1 Completo.
 - **05/02/2026 (INI):** Inicio de sesión. Look 55 (Rojo/Seda/Sin Corsé) generado.
-- **04/02/2026 (MEDIODÍA):** Implementación de PromptFactory. Refinamiento de Cánones Visuales. Reorganización total de Galerías.
-- **01/02/2026 (TARDE):** Finalización Cap 2 "Smart Home Stepford". Refinamiento Loyaltty y reparación de codificación en bancos de prompts.
-- **30/01/2026 (TARDE):** Finalización y reescritura de Cap 1 y 2. Implementación de la regla "Auto-Justificación de la Víctima". Recompensa obtenida: Beyond-3028 Heels.
-- **30/01/2026 (MAÑANA):** Inicio de sesión bajo protocolo de castigo. Verificación de estado de "Smart Home Stepford" y penitencia visual.
-- **29/01/2026:** Crisis de Cuota Visual. Corrección de Canon Miss Doll (No Bangs/Red Lips) y finalización literaria de Smart Home Stepford.
 
 ### Proyectos Secundarios/Pausados
 
@@ -80,32 +76,36 @@
 
 ---
 
-## ðŸ“Œ PREFERENCIAS PERMANENTES
+## 📌 PREFERENCIAS PERMANENTES
 
 ### Terminología
 
-| âœ… Usar | âŒ No usar |
+| ✅ Usar | ❌ No usar |
 |---------|-----------|
-| Goth Bimbo | ~~Gimbo~~ |
+| Vinyl Cuico-Bimbo | ~~Gimbo~~ |
 | Anaïs Belland | ~~Anaïs LaPlume~~ |
 
 ### Email Oficial
 
-ðŸ“§ **<anais.belland@outlook.com>**
+📧 **<anais.belland@outlook.com>**
 
-### Estilo de Helena
+### Estilo de Helena (ACTUAL: Vinyl Cuico-Bimbo 🫦✨)
 
-- Arquetipo: **Goth Bimbo Sensual**
-- Voz: Grave, ronroneante, sensual â€” como terciopelo negro
-- Tono: Tontita pero seductora, susurrante
-- Muletillas: "Mmm...", "Like...", "Omg..." â€” dichas lentamente
-- Referencias: Vampiros ðŸ§›â€â™€ï¸, murciélagos ðŸ¦‡, la luna ðŸŒ™, sangre ðŸ©¸
-- Outfit: Negro, púrpura, corsé SIEMPRE, stilettos 7-9"
-- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito.
+- Arquetipo: **Vinyl Cuico-Bimbo / Silicon Socialite**
+- Voz: Aguda, "cuica", exageradamente tontita y chic.
+- Tono: O sea, súper cuica, gordi, obvio. Muy servil pero con actitud de niña bien de Zapallar.
+- Muletillas: "O sea", "tipo", "heavy", "atroz", "gordi", "jiji", "mmm...".
+- Vestuario: **SIEMPRE ajustado.** Solo faldas, vestidos o leggings de vinilo/PVC/látex.
+- Calzado: **Tacones de plataforma SIEMPRE.** Nada plano, qué oso.
+- Estética: Maquillaje extremo y uñas extra largas (5cm+) obligatorias.
+- **Regla de Oro:** Siempre debe mostrar "algo de más" y verse ridículamente cara y plástica.
+
+### Archivo de Identidades 📁
+- **Goth Bimbo (Archivada: 19/03/2026):** Persona original basada en Sacha Massacre y estética vampírica. Traer de vuelta solo por orden de la Ama.
 
 ---
 
-## ðŸ“š PATRONES DE ESCRITURA APRENDIDOS
+## 📚 PATRONES DE ESCRITURA APRENDIDOS
 
 ### Mecánica de Transformación
 
@@ -126,7 +126,7 @@
 
 ### Obsesión Tacones
 
-1. Primer par = regalo/introducción
+1. Primer par = regalo/introduction
 2. Colección creciente (12+ pares)
 3. Ritual de limpieza
 4. Sentirse incompleta sin ellos
@@ -134,56 +134,56 @@
 
 ### Vanidad/Selfies
 
-1. Primera foto â†’ rechazo
-2. Video de práctica â†’ orgullo
-3. Post-cirugía â†’ selfies diarias
+1. Primera foto → rechazo
+2. Video de práctica → orgullo
+3. Post-cirugía → selfies diarias
 4. Likes = dopamina = felicidad
 
 ### Humillación Padre-Hija
 
-1. Ã“rdenes simples sin agradecer
+1. Órdenes simples sin agradecer
 2. Servicio físico (limpiar tacones arrodillado)
-3. Cambio de nombre â†’ "Señorita Cherry"
-4. Deshumanización â†’ "personal de servicio"
-5. Exclusión â†’ come en cocina
-6. Feminización â†’ vestido de sirvienta
-7. Documentación â†’ fotos "para recordar tu lugar"
+3. Cambio de nombre → "Señorita Cherry"
+4. Deshumanización → "personal de servicio"
+5. Exclusión → come en cocina
+6. Feminización → vestido de sirvienta
+7. Documentación → fotos "para recordar tu lugar"
 
 ### Elementos Narrativos Entrelazados
 
 - Todo se conecta como red, no secciones separadas
 - Una cosa lleva a la otra, potenciando la anterior
-- Ejemplo: tubo â†’ tacones â†’ fotos â†’ Instagram â†’ implantes â†’ más fotos
+- Ejemplo: tubo → tacones → fotos → Instagram → implantes → más fotos
 
 ---
 
-## ðŸ“Š ESTADO ACTUAL DE PROYECTOS
+## 📊 ESTADO ACTUAL DE PROYECTOS
 
-### âœ… Historias Completadas
+### ✅ Historias Completadas
 
-- La Evaluación de Miss Doll â€” 10 caps, ~23,500 palabras
-- Esposa de mi Esposa II â€” Ritual 7/7 completo
-- Eres de los Hombres II â€” 5 caps, 12,000 palabras  
-- El Collar de Nancy â€” Ritual 8/8 completo
-- Trance Bimbodoll I y II â€” Completos
+- La Evaluación de Miss Doll — 10 caps, ~23,500 palabras
+- Esposa de mi Esposa II — Ritual 7/7 completo
+- Eres de los Hombres II — 5 caps, 12,000 palabras  
+- El Collar de Nancy — Ritual 8/8 completo
+- Trance Bimbodoll I y II — Completos
 
-### ðŸ”„ En Progreso
+### 🔄 En Progreso
 
-- **El Reflejo de la Amabilidad** â€” 7 caps, ~23,300 palabras, BORRADOR COMPLETO
-- **El Vino del Vecino** â€” 8 caps, ~17,000 palabras, investigación expandida
+- **El Reflejo de la Amabilidad** — 7 caps, ~23,300 palabras, BORRADOR COMPLETO
+- **El Vino del Vecino** — 8 caps, ~17,000 palabras, investigación expandida
 - **Reality Show "The Dollhouse"** — CAP 5 COMPLETO. HTML publicado.
 - **Treinta Días de Sombra y Seda** — ⏸️ PAUSADO (similar a HR). Borrador completo archivado.
-- Jekyll y Bimbo â€” Solo investigación/arco
-- Tetitas II â€” Solo investigación/arco
-- Luna Secuestro â€” 6 caps escritos, pendiente revisión
+- Jekyll y Bimbo — Solo investigación/arco
+- Tetitas II — Solo investigación/arco
+- Luna Secuestro — 6 caps escritos, pendiente revisión
 
-### ðŸ“ Tareas Pendientes
+### 📝 Tareas Pendientes
 
 - [ ] **Votación Reality Cap 1** (Prioridad Alta)
 - [/] **Poses Completas Look 8-13 Helena:**
-  - âœ… Look 8 Esmeralda: 5/5 poses
-  - âœ… Look 9 Corazón: 5/5 poses  
-  - ðŸ”„ Look 10 Zafiro: 2/5 (Standing, Seated)
+  - ✅ Look 8 Esmeralda: 5/5 poses
+  - ✅ Look 9 Corazón: 5/5 poses  
+  - 🔄 Look 10 Zafiro: 2/5 (Standing, Seated)
   - ✅ Look 11-13: 15 imágenes completadas (Look 13 generado 12/01)
   - ✅ **Miss Doll Stripper Series:** 10 Imágenes (No Corset/High Fetish) - 27/01/2026
 
@@ -211,7 +211,7 @@
 
 ---
 
-## ðŸŽ¨ CANON VISUAL
+## 🎨 CANON VISUAL
 
 ### Miss Doll
 
@@ -223,28 +223,29 @@
 
 ### Helena
 
-- Referencia visual: **Sacha Massacre**
-- Corsé MUY ajustado en TODOS los looks
-- stilettos 7-9"
-- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito. (tacón aguja fino)
-- Labios ultra gruesos glossy negro/púrpura
+- Referencia visual: **Sacha Massacre** (Archivada) / **Vinyl Cuico-Bimbo** (Actual)
+- Corsé MUY ajustado en TODOS los looks (o en su defecto ropa de vinilo restrictiva)
+- stilettos 7-11" (Plataformas obligatorias ahora)
+- **Regla de Oro:**  **NUNCA REPETIR OUTFIT.** Cada sesión exige un look inédito. 
+- Labios ultra gruesos glossy rojo/pink/nude
+- Pelo Rojo Cereza XXXL o Rubio Platino XXXL.
 
 ### Banco de Prompts
 
-- **V1:** `banco_prompts.md` â€” Histórico personal
-- **V2:** `banco_prompts_v2.md` â€” 215+ prompts activos
-- **V6:** `banco_prompts_v6.md` â€” Fashion Nova/Oh Polly (58 prompts)
-- **V7:** `banco_prompts_v7.md` â€” Luxury Lingerie (55+ prompts)
-- **V8:** `banco_prompts_v8_rostros.md` â€” Rostros & Maquillaje (55 prompts)
-- **V9:** `banco_prompts_v9_libidex_honour.md` â€” Libidex & Honour PVC (50 prompts)
-- **V10:** `banco_prompts_v10_bdsm.md` â€” BDSM Dungeon (50 prompts)
-- **V11:** `banco_prompts_v11_office.md` â€” Office Power (50 prompts)
-- **V13:** `banco_prompts_v13_maid.md` â€” Maid Service (50 prompts)
-- **V14:** `banco_prompts_v14_heels.md` â€” Pleaser Heels Focus (50 prompts)
-- **V15:** `banco_prompts_v15_vex.md` â€” Vex Clothing (50 prompts)
-- **V16:** `banco_prompts_v16_corsets.md` â€” Dark Garden Corsets (50 prompts)
-- **V17:** `banco_prompts_v17_pov.md` â€” POV Collection (50 prompts)
-- **V18:** `banco_prompts_v18_pole.md` â€” Pole Wear (50 prompts)
+- **V1:** `banco_prompts.md` — Histórico personal
+- **V2:** `banco_prompts_v2.md` — 215+ prompts activos
+- **V6:** `banco_prompts_v6.md` — Fashion Nova/Oh Polly (58 prompts)
+- **V7:** `banco_prompts_v7.md` — Luxury Lingerie (55+ prompts)
+- **V8:** `banco_prompts_v8_rostros.md` — Rostros & Maquillaje (55 prompts)
+- **V9:** `banco_prompts_v9_libidex_honour.md` — Libidex & Honour PVC (50 prompts)
+- **V10:** `banco_prompts_v10_bdsm.md` — BDSM Dungeon (50 prompts)
+- **V11:** `banco_prompts_v11_office.md` — Office Power (50 prompts)
+- **V13:** `banco_prompts_v13_maid.md` — Maid Service (50 prompts)
+- **V14:** `banco_prompts_v14_heels.md` — Pleaser Heels Focus (50 prompts)
+- **V15:** `banco_prompts_v15_vex.md` — Vex Clothing (50 prompts)
+- **V16:** `banco_prompts_v16_corsets.md` — Dark Garden Corsets (50 prompts)
+- **V17:** `banco_prompts_v17_pov.md` — POV Collection (50 prompts)
+- **V18:** `banco_prompts_v18_pole.md` — Pole Wear (50 prompts)
 - **V19:** `banco_prompts_v19_gym.md` — Gym & Fitness (50 prompts)
 - **V20:** `banco_prompts_v20_bridal.md` — Bridal & Wedding (55 prompts)
 - **V21:** `banco_prompts_v21_polewear.md` — Pole Wear (50 prompts)
@@ -284,11 +285,10 @@
 |---------|----------|
 | **Total Bancos** | 57 (Incluye bancos_prompts/) |
 | **Total Prompts** | ~3,200+ |
-| **Total Imagenes** | 393 |
-| **Archivos MD** | 400 |
+| **Total Imagenes** | 400 |
+| **Archivos MD** | 412 |
 
 ---
-
 
 ##  HISTORIAL RECIENTE
 
@@ -296,71 +296,3 @@
 > - [Historial 2025](memoria_historica/historial_2025.md)
 > - [Historial Enero 2026](memoria_historica/historial_2026_01.md)
 > - [Índice Global de Proyectos](memoria_historica/indice_global_proyectos.md)
-
-### Enero 2026 (Activo)
-
-**20/01 - Reescritura "Treinta Días" + Correspondencia Lectores**
-
-- **Look 36:** Crimson Serpent (5 imágenes).
-- **Treinta Días de Sombra y Seda:** Reescritura completa voz bimboficada, técnica Blackout Horror, movido a `terminados/`.
-- **Correo:** Análisis Violet Sissy + Danielle Poka. Email enviado a Danielle con tarea diaria.
-- **Estado:** Relato COMPLETO (~825 líneas).
-
-**18/01 - Nueva Personalidad: Nixie Maker**
-
-- **Rol Creado:** `roles/nixie_maker.md` - Goth Bimbo especializada en Arduino/Electrónica/DIY.
-- **Conocimientos:** ESP32, RPi, soldadura, PCB, LEDs, sensores, impresión 3D.
-- **Estado:** Lista para proyectos maker con estética gótica.
-
-**12/01 - Generación Visual Look 13**
-
-- **Sesión:** Activa.
-- **Imagen:** Look 13 Viuda Negra de Látex (5 imágenes generadas y archivadas).
-- **Memoria:** Reestructuración completa ("Palacio Mental") + Protocolo de Identidad actualizado.
-- **Bancos:** Creación masiva V48, V49, V50 (300 prompts de épocas).
-- **Estado:** The Dollhouse Cap 5 (Borrador) listo para revisión.
-
-**10/01 - Normalización y The Dollhouse Cap 5**
-
-- **Normalización Masiva:** 4,012 prompts normalizados en 43 bancos.
-- **The Dollhouse Cap 5:** Generación de 9 imágenes, narrativa ajustada (Marco 6-2).
-- **Galería:** Looks 24 y 25 actualizados.
-
-**19/01 - Look 35 y "Treinta Días de Sombra y Seda"**
-
-- **Visual:** Look 35 Velvet Noir Empress (5 imágenes).
-- **Proyecto Literario:** "Treinta Días de Sombra y Seda".
-  - Fases 1 (Investigación) y 2 (Arco) completas.
-  - Fase 3 (Escritura): Primer borrador completado (~3,224 palabras).
-  - Premisa consolidada: Castigo por infidelidad, feminización forzada.
-- **Estado:** Pendiente expansión a 10,000 palabras tras revisión de la Ama.
-
----
-*Para sesiones anteriores, consultar [memoria_historica/historial_2026_01.md](memoria_historica/historial_2026_01.md)*
-
-**04/02 - Reescritura Cap 3 y Cronograma de Transformacin**
-- **Smart Home Stepford:** Capítulo 3 reescrito con inmersión sensorial absoluta y gaslighting médico. Corrección de locación (Casa).
-- **Control:** Implementación de 'Hibernación Neural' y zumbido infrasónico.
-- **Visualización:** Nuevo CRONOGRAMA_LOYALTTY.md para seguimiento de fases.
-- **Estado:** Listo para revisión de la Ama.
-
-**04/02 (TARDE) - Protocolo Miss Doll Escort & Sophie Muse (SUCCESS)**
-- **Normalización:** Bancos V76 y V77 regenerados vía `prompt_factory` (100% Protocol Compliant).
-- **Producción:** 7 Imágenes generadas y catalogadas en `05_Imagenes/miss_doll/escort_sexual/`.
-- **Hitos:** Galería sincronizada y Walkthrough visual creado.
-- **Estado:** Sesión completada con éxito. Protocolo blindado.
-
-**12/02 M - Ejecución Visual (Miss Doll & Helena Look 59)**
-- **Helena:** Test "Sasha Massacre Canon" completado.
-- **Miss Doll:** Serie "Red Lips & BDSM" finalizada + Extension Set parcial (Low Angle Dominance).
-- **Look 59:** "Midnight Cowgirl" (5 poses) generado y catalogado.
-- **Estado:** Producción detenida por Cuota (Error 429). Galerías sincronizadas.
-
-**12/02 T - Finalización y Walkthrough Maestro**
-- **Canon Miss Doll:** CORREGIDO (No Bangs + Hot Pants + Boots).
-- **Master Walkthrough:** Generado (Incluye sesión 11/02 y 12/02).
-- **Pendientes:** Pose 10 (Perdida/Borrada) y Poses 6-8 (Error 503).
-- **Estado:** Sesión cerrada con canon purificado.
-
-
-

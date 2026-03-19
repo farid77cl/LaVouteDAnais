@@ -21,6 +21,12 @@ Total imágenes: 14
 
 ---
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Era Gotica**](./ERA_GOTICA/README.md)
+
+---
 ## 📜 Lista de Archivos
 - [custom_helena_look40_s043_back.png](./custom_helena_look40_s043_back.png)
 - [custom_helena_look40_s044_ditzy.png](./custom_helena_look40_s044_ditzy.png)

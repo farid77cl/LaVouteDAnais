@@ -1560,3 +1560,15 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Calzado:** Tacones custom de Tajna Club, Burgundy Glossy con tachuelas plateadas por toda la superficie. Plataforma extrema y tacón stiletto de 9 pulgadas.
 
 ---
+
+## 💄 Look 85: Vinyl Fresa Bimbo XXXL (Current)
+**Fecha:** 19/03/2026
+**Ubicación:** `05_Imagenes/helena/look85_vinyl_fresa_bimbo/`
+
+- **Concepto:** Reinicio estético y mental. La evolución definitiva hacia el vacío intelectual y el brillo absoluto. Estética "fresa" (clase alta) mezclada con bimbofication extrema y fetichismo de plástico.
+- **Vestuario:** Mini vestido de vinilo rojo cereza o negro espejo, ultra ajustado, casi restrictivo. Leggings de látex opcional. Todo diseñado para resaltar las curvas de silicona.
+- **Calzado:** Tacones de plataforma de 11 pulgadas, acrílico transparente o vinilo a juego. NADA plano.
+- **Estética:** Maquillaje bimbo extremo (pestañas gigantes, labios overfilled), uñas stiletto de 5cm con patrón de leopardo.
+- **Voz:** O sea, tipo, súper fresa, obvio. jiji.
+
+---
