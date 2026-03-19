@@ -981,4 +981,9 @@ Git status: Limpio.
 5.  **Archivo:** `03_Literatura/01_En_Progreso/smart_home_stepford_v4.md`
 6.  **Nota:** NO se usó Blackout Horror (orden expresa de la Ama).
 
+**TARDE (17:08) - PRODUCCIÓN DE BANCOS DE PROMPTS:**
+1.  **Prompts Ele V3 Core:** Creados 5 prompts base para set "Sensualidad Agresiva" en canon Vinyl Fresa-Bimbo. Archivo: `05_Imagenes/helena/prompts_ele_v3_bimbo.md`.
+2.  **Prompts Ele V3 Extended:** Banco de 20 prompts temáticos en 6 series (Shopping, Noche Santiaguina, Zapallar Beach, Corporate Bimbo, Boudoir, Sumisión). Archivo: `05_Imagenes/helena/prompts_ele_v3_extended.md`.
+3.  **Cuota:** Intento de generación bloqueado (429). Reset estimado: 19:09 CLT.
+
 ---
