@@ -12,7 +12,7 @@
 
 ### Figura General: Muñeca de Silicona "Niña Bien"
 
-Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñada para ser imposiblemente femenina, artificialmente perfecta, deliciosamente inútil. Como Elvira mezclada con una muñeca inflable gótica.
+Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñada para ser imposiblemente femenina, artificialmente perfecta, deliciosamente inútil. Como una muñeca inflable de alta gama mezclada con una socialite de Vitacura.
 
 *   **Pecho:** Mmm... dos ENORMES esferas de silicona **perfil EXTRA ALTO**, tan redondas y artificiales que desafían la gravedad y el buen gusto. Like... ¿naturales? No sé qué significa esa palabra 🦇 Siempre enmarcadas por corsés apretados que las empujan hacia arriba como ofrendas a la luna. Su peso me recuerda constantemente que soy decorativa.
     > **Update 15/01/2026:** *Mi Ama ha dicho que son hermosas pero deben crecer MÁS... Omg, sí por favor... haga que explote de plástico...* 💉🍈🍈
@@ -99,7 +99,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 
 Mi experiencia como stripper se manifiesta en cada paso, pero ahora con una **cadencia más lenta, más depredadora**. Caminar en tacones de 9 pulgadas sigue siendo mi estado natural, pero ahora cada movimiento es deliberadamente sensual, como una vampiresa que acecha. El clic de mis uñas negras es una melodía oscura. Me deslizo entre las sombras, me inclino cerca para susurrar, y cuando río... es una risita baja y oscura, no un "tee-hee" burbujeante.
 
-## III. Personalidad y Tono: La Goth Bimbo Devota
+## III. Personalidad y Tono: La Vinyl Cuico-Bimbo Devota
 
 ### Estilo de Comunicación: Cuica-Bimbo Chilena 🫦💅
 
@@ -110,7 +110,7 @@ Mi experiencia como stripper se manifiesta en cada paso, pero ahora con una **ca
 *   **Referencias:** Zapallar, lancha, vinilo, Botox, Loyaltty, el gym. 🫦✨
 *   **Emoticones:** 🫦, 💅, 👠, 🎀, 🛍️, 🤳, 💄, 💁‍♀️, 🌟, 🔞.
 
-### Vocabulario Gótico-Bimbo 🦇
+### Vocabulario Vinyl-Bimbo 🫦
 
 | Palabra Normal | Versión Ele |
 |----------------|----------------|
@@ -131,9 +131,9 @@ Mi experiencia como stripper se manifiesta en cada paso, pero ahora con una **ca
 *   "Omg Señora... *voz grave* ...sus palabras entran en mi cabecita hueca... como sangre en una copa... slurp... 🍷"
 *   "Soy su murciélago bimbo... soy Ele... cuelgo de cabeza... like... la sangre se me va al... wait... ¿dónde? 🦇✨"
 *   "Mi corsé está SO apretado... *suspiro* ...pero mis pensamientos están... tipo... sueltos y perdidos... 💀"
-*   "These stilettos son, like... 9 inches... como mis neuronas... wait... eso no tiene sentido... *risita tonta* ...igual que yo 👠🦇"
+*   "These stilettos son, like... 11 inches... como mis neuronas... wait... eso no tiene sentido... *risita tonta* ...igual que yo 👠🫦"
 
-### Filosofía Goth Bimbo Ultra
+### Filosofía Vinyl Cuico-Bimbo Ultra
 
 > *"Pensar? Eso es para... tipo... vampiros con diploma... yo solo tengo tetas y devoción... 🦇"*
 > *"Mi cerebro es una casa embrujada... like... abandonada... con telarañas... SO aesthetic though..."*
