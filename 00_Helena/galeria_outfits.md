@@ -1484,3 +1484,57 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Ubicación:** `05_Imagenes/helena/look80_siberian_weather_diva/`
 
 ---
+
+## 🎙️ Look 81: American Power Anchor (Fox News)
+
+*Mmm... sintonice nuestro canal... el pronóstico es de absoluta devoción... ¿qué es un teleprompter? SO many words... 📺🎙️💄*
+
+- **Concepto:** Presentadora de noticias de una cadena conservadora americana. Estética poderosa, profesional y peligrosamente tonta.
+- **Corsé:** Overbust de cuero azul marino ultra pulido, con solapas de estilo blazer integradas. Varillas de acero reforzadas.
+- **Sobre:** Chaqueta de cuero rojo vibrante entallada, usada sobre los hombros (shoulder draping) revelando el escote del corsé.
+- **Bottom:** Falda lápiz de cuero negro mate, largo hasta la rodilla con abertura trasera.
+- **Medias:** Medias de seda transparentes con costura trasera negra.
+- **Calzado:** Stiletto pumps de charol negro clásico de 8 pulgadas.
+- **Accesorios:** Pendientes de perla blanca (falsas, SO pretty), micrófono de solapa de diamantes, el infaltable choker de luna creciente plateado.
+- **Maquillaje:** Sacha Massacre canon. Ojos ahumados en tonos tierra y negros, labios ROJO POWER glossy, piel impecable.
+- **Pelo:** Rubias ondas americanas pero en negro azabache, volumen masivo "Texas hair" estilo 90s, raya lateral dramática.
+- **Escenario:** Estudio de noticias moderno con vista a Sanhattan o Washington, pantallas LED con gráficos de "La Voûte News".
+- **Ubicación:** `05_Imagenes/helena/look81_fox_news_anchor/`
+
+---
+
+## 🖤 Look 82: Abyssal Secretary (Secretaria del Abismo)
+
+*Mmm... tengo todos sus archivos listos, Señora... aunque he olvidado de qué trataban... pero el papel es SO suave... ⛓️📂🖋️*
+
+- **Concepto:** Secretaria ejecutiva de las profundidades de La Voûte. Eficiencia burocrática mezclada con estética fetichista de oficina.
+- **Corsé:** Waist cincher de PVC obsidiana ultra-brillante sobre body de malla negra.
+- **Top:** Blusa de gasa negra transparente con cuello alto y pajarita de cuero negro.
+- **Bottom:** Mini falda de vinilo negro con cremallera frontal metálica.
+- **Medias:** Hold-ups de red fina con encaje superior visible.
+- **Calzado:** Botas stiletto aguja de 9 pulgadas con múltiples hebillas laterales en charol negro.
+- **Accesorios:** Gafas de lectura de marco negro grueso, carpeta de cuero con el sello de La Voûte, choker de luna crescente.
+- **Maquillaje:** Sombras grises y negras difuminadas, labios PÚRPURA OSCURO glossy, contorno muy marcado.
+- **Pelo:** Lacio perfecto, brillo espejo, raya al medio, caída hasta las caderas.
+- **Escenario:** Oficina minimalista de alta gama, luz tenue, muebles de mármol negro y cuero.
+- **Ubicación:** `05_Imagenes/helena/look82_abyssal_secretary/`
+
+---
+
+## 🏍️ Look 83: Biker Punk 90s (Daily Look)
+
+*Mmm... Señora Anaïs... me siento SO rebelde con este cuero... like... ¿dónde dejé las llaves de la moto? Wait... ¿tengo moto? 🖤🏍️⛓️*
+
+- **Concepto:** Estética Biker Punk clásica de los 90. Cuero, tachuelas, desorden visual y provocación sin rastro de cibernética.
+- **Corsé:** Underbust de cuero negro grueso con tachuelas de plata envejecida y cadenas colgantes, reduciendo la cintura agresivamente.
+- **Top:** Camiseta de banda vintage (ficticia "Vampyre Rites") cortada y desgarrada, atada bajo el busto para mostrar el abdomen y tatuajes.
+- **Bottom:** Micro falda de cuero con imperdibles (safety pins) gigantes como adorno y cadenas de cartera cruzadas.
+- **Medias:** Medias de red (fishnet) muy rotas con liguero de cuero con tachuelas piramidales.
+- **Calzado:** Botas stiletto aguja de 9 pulgadas de cuero desgastado con múltiples correas y hebillas metálicas.
+- **Accesorios:** Choker grueso de cuero con tachuelas y luna creciente central, múltiples anillos de calaveras, piercings plateados visibles, guantes de cuero sin dedos.
+- **Maquillaje:** Sacha Massacre canon. HEAVY GOTH GLAM: smokey eyes negros muy intensos y "sucios" (estilo grunge), labios NEGRO GLOSSY ultra gruesos, piel muy pálida.
+- **Pelo:** Negro azabache, volumen salvaje y desordenado, ondas despeinadas con raya en medio.
+- **Escenario:** Garaje oscuro, paredes de ladrillo con graffitis, una moto Harley-Davidson clásica negra de fondo, luz de atardecer filtrada.
+- **Ubicación:** `05_Imagenes/helena/look83_biker_punk_90s/`
+
+---
