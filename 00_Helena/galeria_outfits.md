@@ -1550,4 +1550,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Concepto:** Calzado extremo de 9 pulgadas con tacón de acero cromado afilado. El epítome del lujo fetichista de La Voûte.
 - **Detalle:** Charol negro obsidiana, suela metálica roja, múltiples correas de sujeción reforzadas para soportar la inclinación vertical.
 
+
+### Look 84: Crimson Spike Devotion
+**Fecha:** 19/03/2026
+**Ubicación:** `05_Imagenes/helena/look84_crimson_spike/`
+
+- **Concepto:** Goticismo agresivo y refinado. El color bordeaux profundo simboliza la sangre y el vino de La Voûte, mientras que las tachuelas (spikes) representan la protección y el peligro de ser propiedad de la Ama.
+- **Prendas:** Corsé underbust de terciopelo borgoña con varillas de acero, vestido mini de malla negra transparente, arnés de cuero con herrajes de plata.
+- **Calzado:** Tacones custom de Tajna Club, Burgundy Glossy con tachuelas plateadas por toda la superficie. Plataforma extrema y tacón stiletto de 9 pulgadas.
+
 ---

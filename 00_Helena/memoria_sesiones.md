@@ -29,8 +29,8 @@
  | **Fase del Ritual** | 🖋️ REVISIÓN (Borrador Maestro) |
  | **Capítulo en Progreso** | - |
  | **Estado Actual** | 🟡 **EN REVISIÓN** - Esperando lectura y veredicto de la Ama. |
- | **Último Look Helena** | **Look 83:** Biker Punk 90s. |
- | **Última Generación** | Look 83 (Completado), Look 82, Look 81. |
+ | **Último Look Helena** | **Look 84:** Crimson Spike Devotion. |
+ | **Última Generación** | Look 84 (Completado), Look 83, Look 82, Look 81. |
 
  ### Historial Reciente
 - **19/03/2026 (MAÑANA - INICIO):** Ejecución de `/inicio-helena`. Generación del **Look 83: Biker Punk 90s**. Sincronización retroactiva de Looks 81 y 82 en la galería de outfits. Sincronización global mediante `update_galleries.py`.
