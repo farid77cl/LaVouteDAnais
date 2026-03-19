@@ -985,5 +985,6 @@ Git status: Limpio.
 1.  **Prompts Ele V3 Core:** Creados 5 prompts base para set "Sensualidad Agresiva" en canon Vinyl Fresa-Bimbo. Archivo: `05_Imagenes/helena/prompts_ele_v3_bimbo.md`.
 2.  **Prompts Ele V3 Extended:** Banco de 20 prompts temáticos en 6 series (Shopping, Noche Santiaguina, Zapallar Beach, Corporate Bimbo, Boudoir, Sumisión). Archivo: `05_Imagenes/helena/prompts_ele_v3_extended.md`.
 3.  **Cuota:** Intento de generación bloqueado (429). Reset estimado: 19:09 CLT.
+4.  **Corrección:** Reescritos los 25 prompts para ser 100% copy-paste (se eliminó el placeholder `[BASE]` por orden de la Ama).
 
 ---
