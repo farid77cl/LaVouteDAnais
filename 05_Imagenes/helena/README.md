@@ -528,7 +528,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look83_standing.png](look83_biker_punk_90s/helena_look83_standing.png) | ![helena_look83_seated.png](look83_biker_punk_90s/helena_look83_seated.png) | ![helena_look83_side_profile.png](look83_biker_punk_90s/helena_look83_side_profile.png) | ![helena_look83_back_view.png](look83_biker_punk_90s/helena_look83_back_view.png) | ![helena_look83_ditzy.png](look83_biker_punk_90s/helena_look83_ditzy.png) |
+| ![helena_look83_modeling_standing.png](look83_biker_punk_90s/helena_look83_modeling_standing.png) | ![helena_look83_seated.png](look83_biker_punk_90s/helena_look83_seated.png) | ![helena_look83_side_profile.png](look83_biker_punk_90s/helena_look83_side_profile.png) | ![helena_look83_back_view.png](look83_biker_punk_90s/helena_look83_back_view.png) | ![helena_look83_ditzy.png](look83_biker_punk_90s/helena_look83_ditzy.png) |
 
 ---
 

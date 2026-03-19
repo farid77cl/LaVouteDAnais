@@ -17,6 +17,12 @@ Total imágenes: 1
 
 ---
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Obsidian Chrome 2026**](./obsidian_chrome_2026/README.md)
+
+---
 ## 📜 Lista de Archivos
 - [helena_reward_heels_beyond_3028.png](./helena_reward_heels_beyond_3028.png)
 
