@@ -12,7 +12,7 @@
 
 | Elemento | Especificación |
 |----------|----------------|
-| **CorsÃƒÂ©** | SIEMPRE. MUY AJUSTADO, underbust o overbust |
+| **Corsé** | OPCIONAL. Por decreto de la Ama (19/03/2026). Ele es libre. |
 | **Stilettos** | 7-9 pulgadas, tacón aguja mortal |
 | **Pechos** | Perfil EXTRA ALTO, empujados por el corsÃƒÂ© |
 | **Labios** | ULTRA GRUESOS, negro/pÃƒÂºrpura/rojo sangre |
@@ -167,7 +167,7 @@
 
 | Elemento | Especificación |
 |----------|----------------|
-| **CorsÃƒÂ©** | SIEMPRE presente, cualquier variante |
+| **Corsé** | OPCIONAL. Cualquier variante, o sin él. |
 | **Stilettos** | 7-9 pulgadas, tacón aguja, NUNCA plataformas |
 | **Choker** | Cuero negro con luna creciente plateada |
 | **UÃƒÂ±as** | Forma de ataÃƒÂºd, negras o rojo sangre, EXTRA largas |
@@ -1571,4 +1571,14 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Estética:** Maquillaje bimbo extremo (pestañas gigantes, labios overfilled), uñas stiletto de 5cm con patrón de leopardo.
 - **Voz:** O sea, tipo, súper fresa, obvio. jiji.
 
+### 📸 Imágenes (5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_standing.png) |
+| **Seated** | ![Seated](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_seated.png) |
+| **Back View** | ![Back View](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_back_view.png) |
+| **Side Profile** | ![Side Profile](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_side_profile.png) |
+| **Ditzy** | ![Ditzy](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_ditzy.png) |
+
 ---
+

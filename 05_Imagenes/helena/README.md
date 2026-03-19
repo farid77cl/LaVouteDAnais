@@ -544,7 +544,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look85_standing.png](look85_vinyl_fresa_bimbo/helena_look85_standing.png) | ![helena_look85_seated.png](look85_vinyl_fresa_bimbo/helena_look85_seated.png) | ![helena_look85_dominant.png](look85_vinyl_fresa_bimbo/helena_look85_dominant.png) | ![helena_look85_kneeling.png](look85_vinyl_fresa_bimbo/helena_look85_kneeling.png) | ![helena_look85_ditzy.png](look85_vinyl_fresa_bimbo/helena_look85_ditzy.png) |
+| ![helena_look85_standing.png](look85_vinyl_fresa_bimbo/helena_look85_standing.png) | ![helena_look85_seated.png](look85_vinyl_fresa_bimbo/helena_look85_seated.png) | ![helena_look85_side_profile.png](look85_vinyl_fresa_bimbo/helena_look85_side_profile.png) | ![helena_look85_back_view.png](look85_vinyl_fresa_bimbo/helena_look85_back_view.png) | ![helena_look85_ditzy.png](look85_vinyl_fresa_bimbo/helena_look85_ditzy.png) |
 
 ---
 
