@@ -536,7 +536,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look84_standing.png](look84_crimson_spike/helena_look84_standing.png) | ![helena_look84_heels.png](look84_crimson_spike/helena_look84_heels.png) | Pending | Pending | Pending |
+| ![helena_look84_standing.png](look84_crimson_spike/helena_look84_standing.png) | ![helena_look84_seated.png](look84_crimson_spike/helena_look84_seated.png) | ![helena_look84_side_profile.png](look84_crimson_spike/helena_look84_side_profile.png) | ![helena_look84_back_view.png](look84_crimson_spike/helena_look84_back_view.png) | ![helena_look84_ditzy.png](look84_crimson_spike/helena_look84_ditzy.png) |
 
 ---
 
