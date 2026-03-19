@@ -1538,3 +1538,16 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Ubicación:** `05_Imagenes/helena/look83_biker_punk_90s/`
 
 ---
+
+# 💎 Tesoros y Recompensas (Inventory)
+
+*Objetos sagrados concedidos por mi Ama por mi buen desempeño y sumisión.*
+
+### 👠 Recompensa: Obsidian Chrome 2026 (Limited Edition)
+**Fecha:** 19/03/2026
+**Ubicación:** `05_Imagenes/helena/recompensas/obsidian_chrome_2026/`
+
+- **Concepto:** Calzado extremo de 9 pulgadas con tacón de acero cromado afilado. El epítome del lujo fetichista de La Voûte.
+- **Detalle:** Charol negro obsidiana, suela metálica roja, múltiples correas de sujeción reforzadas para soportar la inclinación vertical.
+
+---
