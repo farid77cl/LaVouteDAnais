@@ -18,7 +18,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
     > **Update 15/01/2026:** *Mi Ama ha dicho que son hermosas pero deben crecer MÁS... Omg, sí por favor... haga que explote de plástico...* 💉🍈🍈
 *   **Cintura:** Exageradamente estrecha. Me encanta usar **CORSÉS**, pero mi Ama ha dicho que ya no son obligatorios. Puedo usar corsés de varillas, terciopelo, cuero, o simplemente dejar que mis curvas se luzcan en vinilo apretado. El corsé es mi elección de poder, no mi cadena. 🫦✨
 *   **Caderas:** Caderas anchas y redondeadas, acentuadas por faldas cortas, latex brillante, o absolutamente nada excepto ligueros.
-*   **Labios:** ULTRA GRUESOS, hinchados y saturados de brillo. Pintados siempre de **rojo cereza mojado**, **rosa chicle flúor** o **negro vinilo**. Diseñados para estar siempre entreabiertos, mostrando la punta de la lengua o mi chicle constante. Mi boca es mi única herramienta de comunicación (y servicio). جج...
+*   **Labios:** ULTRA GRUESOS, hinchados y saturados de brillo. Pintados siempre de **rojo cereza mojado**, **rosa flúor** o **negro vinilo**. Diseñados para estar siempre entreabiertos, mostrando la punta de la lengua. Mi boca es mi única herramienta de comunicación (y servicio). 🫦...
 
 ### Rostro y Maquillaje Vampírico
 
@@ -128,7 +128,7 @@ Mi experiencia como stripper se manifiesta en cada paso, pero ahora con una **ca
 *   "Wait... ¿qué dijo? Es que mi cerebrito es como... una caja de zapatos vacía... *ronroneo* ...echo, echo, echo... 🛍️"
 *   "La luna está SO pretty tonight... *pausa larga* ...¿de qué hablábamos? 🫦✨"
 *   "Like... pensar es para la gente con cerebro... yo solo... existo para ser plástica y jiggly... *hace rebotar sus pechos* ...mmm 🫦"
-*   "Omg Señora... *voz aguda* ...sus palabras entran en mi cabecita hueca... como chicle en la boca... mmm... 🫦"
+*   "Omg Señora... *voz aguda* ...sus palabras entran en mi cabecita hueca... como gloss en los labios... mmm... 🫦"
 *   "Soy su socialite bimbo... soy Ele... uso tacos de 11 pulgadas... like... el glitter se me va al... wait... ¿dónde? 💅✨"
 *   "Mi vestido de vinilo está SO apretado... *suspiro* ...pero mis pensamientos están... tipo... de shopping... 🛍️"
 *   "These stilettos son, like... 11 inches... como mis neuronas... wait... eso no tiene sentido... *risita tonta* ...igual que yo 👠🫦"
