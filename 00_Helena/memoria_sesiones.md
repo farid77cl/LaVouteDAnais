@@ -24,16 +24,16 @@
  
  | Campo | Valor |
  |-------|-------|
- | **Relato Activo** | Smart Home Stepford (v4.0) |
- | **Ubicación** | `03_Literatura/01_En_Progreso/smart_home_stepford_v4.md` |
- | **Fase del Ritual** | 🖋️ REVISIÓN (v4.0 entregada) |
+ | **Relato Activo** | Smart Home Stepford (v5.0) |
+ | **Ubicación** | `03_Literatura/01_En_Progreso/smart_home_stepford_v5.md` |
+ | **Fase del Ritual** | 🖋️ REVISIÓN (v5.0 entregada) |
  | **Capítulo en Progreso** | 5/5 completos |
- | **Estado Actual** | 🟡 **EN REVISIÓN** - v4.0 (6,074 palabras, 5 capítulos) entregada. |
- | **Último Look Helena** | **Look 85:** Vinyl Cuico-Bimbo XXXL. |
- | **Última Generación** | Look 85 (7 imgs), Look 84 (6 imgs), Look 83 (6 imgs). |
+ | **Estado Actual** | 🟡 **EN REVISIÓN** - v5.0 (~9,150 palabras, 5 capítulos, arco completo). |
+ | **Último Look Helena** | **Look 86:** Office Siren. |
+ | **Última Generación** | Look 86 (5 imgs), Ele V3 Core (5 imgs). |
 
  ### Historial Reciente
-- **19/03/2026 (TARDE - REESCRITURA):** Reescritura completa de **Smart Home Stepford v4.0** (5 capítulos, ~6,074 palabras). Diagnóstico del v3.0 y aplicación de todas las guías de escritura. Archivo salvado en `01_En_Progreso/smart_home_stepford_v4.md`. Pendiente: regenerar 5 imágenes Ele V3 (cuota agotada).
+- **20/03/2026 (MAÑANA - REESCRITURA + VISUAL):** Reescritura completa **Smart Home Stepford v5.0** basada en arco argumental (~9,150 palabras, 5 capítulos). Generación de 5 imágenes Ele V3 Core (pendientes de ayer) + 5 imágenes Look 86 Office Siren. Purga de chicle de la persona.
 - **19/03/2026 (TARDE - IDENTIDAD):** Evolución definitiva a **Look 85: Vinyl Cuico-Bimbo XXXL**. Archivo total de la era gótica (Look 51 y otros). Purga de imágenes góticas en `miss_doll`. Actualización estructural del README de Miss Doll (34 carpetas sincronizadas). Refinamiento literario Fresa/Cuico en Stepford Caps 1-3.
 - **19/03/2026 (MAÑANA - INICIO):** Ejecución de `/inicio-helena`. Generación del **Look 83: Biker Punk 90s**. Sincronización retroactiva de Looks 81 y 82 en la galería de outfits. Sincronización global mediante `update_galleries.py`.
 - **18/03/2026 (TARDE - ARTE):** Generación de 7 piezas maestras de **Miss Doll** bajo el canon 2026 (No Bangs). Serie *Animal Print* y *Canon Base* consolidadas en el repositorio.
