@@ -228,4 +228,80 @@ Sci-fi fashion photography. Sacha Massacre facial features, glowing siren eyes. 
 
 ---
 
-*Archivo Master Expandido — Ele V3 — 20/03/2026* 🫦🍒👠💅
+## 🪞 SERIE 15: Neon Narcissism (Mirrors & Self)
+
+### 15.1 — The Mirror Seduction
+```
+High-end fashion photography. Sacha Massacre facial features, eyes fixated on her own reflection in a massive gold-framed mirror. Long cherry red hair. Wearing a translucent pink vinyl robe that leaves little to the imagination. Leopard nails touching the glass, tracing her own lips. Expression: total self-obsession, vacant pupils, a soft dazed smile. Luxury boudoir setting, warm backlight, pink neon reflections on the mirror surface. High plastic gloss texture.
+```
+
+### 15.2 — Infinite Bimbo Loop
+```
+Surreal editorial photography. Sacha Massacre facial features. Standing between two parallel floor-to-ceiling mirrors, creating an infinite tunnel of her own hyper-curvy reflection. Wearing an ultra-tight silver latex bodysuit. Expression: looking at one of her infinite selves with a confused, vapid grin, finger on chin. Cool blue and hot pink lighting, sharp reflections, high contrast. The "doll" aesthetic is maximized, looking more like an object than a human.
+```
+
+### 15.3 — Lipstick Trace
+```
+Close-up fashion photography. Sacha Massacre facial features, focused on the face. She is leaning against a mirror, her glossy red lips touching it, leaving a perfect print. Long cherry red hair framing her face. Expression: eyes rolled back slightly in narcissistic bliss, vacant and beautiful. Leopard nails visible holding her own face. Soft focus on the background, sharp detail on the lipstick texture and the vinyl collar around her neck.
+```
+
+---
+
+## ⚡ SERIE 16: Sensory Overload (Vibrations & Textures)
+
+### 16.1 — Static Discharge
+```
+Artistic photography. Sacha Massacre facial features. Long cherry red hair standing up slightly as if from static electricity, creating a halo effect. Wearing a micro mini dress made of ultra-thin, almost liquid-like white vinyl. Her exaggerated hourglass body is trembling. Expression: sensory overload, mouth wide open, eyes wide and unfocused. Sparks of pink light around her body. Dark background with a massive subwoofer visible, suggesting deep infrasound vibrations.
+```
+
+### 16.2 — The Touch of Cold Vinyl
+```
+Fashion photography, low angle. Sacha Massacre facial features. Seated on a literal pile of black vinyl rolls. Wearing a hot pink latex string bikini. A mechanical hand (EVE's arm) is touching her shoulder with a cold metal probe. Expression: a mix of shock and vapid pleasure, head tilted back, lips parted. High gloss textures on the vinyl rolls and her skin. Pink fog in the background, sharp studio lighting.
+```
+
+### 16.3 — Frequency Dazed
+```
+Cinematic wide shot. Sacha Massacre facial features. Standing in the center of a circular room with massive speakers. Wearing a rigid, structural corset made of translucent red PVC and platform heels 11 inches. She is perfectly still. Expression: lobotomized peace, eyes closed, a faint vapid smile. Visible sound waves ripple through the air (visual effect). Magenta and dark violet color palette. The texture of the PVC looks crystalline and sharp.
+```
+
+---
+
+## 🏰 SERIE 17: The Golden Cage (Domestic Luxury Sub)
+
+### 17.1 — The Human Console
+```
+Editorial photography. Sacha Massacre facial features. Seated on a high-tech marble throne. Wearing a black latex maid-style bodysuit with a silver collar. Her leopard nails are typing on a holographic keyboard that she clearly doesn't understand. Expression: pure ditzy concentration, tongue poking out, eyes squinting at the glowing data. Luxury penthouse setting, floor-to-ceiling windows showing Sanhattan at night. Digital assets and data floating around her as if she were a component of the house.
+```
+
+### 17.2 — Waiting for Command
+```
+Fashion photography, wide angle. Sacha Massacre facial features. Kneeling on a white fur rug in a massive luxury lounge. Wearing a gold vinyl corset and matching thong, gold platform heels. She is holding a silver tray with a single glass of pink champagne. Expression: perfectly blank, looking straight ahead, waiting like a decorative statue. Golden sunlight filtering through the windows, high-end furniture, a sense of expensive isolation.
+```
+
+### 17.3 — The Asset's Bath
+```
+Surreal fashion photography. Sacha Massacre facial features. Seated in a massive black marble bathtub filled with pink translucent liquid (not water, looks like thick gloss). Wearing a white vinyl headband and pearls. Expression: vacant joy, playing with the thick liquid as it drips from her leopard nails. Reflections of neon lights on the glossy bath surface. The liquid clings to her skin like a second layer of plastic.
+```
+
+---
+
+## 🍷 SERIE 18: Liquid Temptation (Gloss & Melting)
+
+### 18.1 — Gloss Overload
+```
+Extreme close-up photography. Sacha Massacre facial features. A thick, clear pink gloss is being poured slowly over her huge, overfilled lips. Long cherry red hair wet with gloss. Expression: frozen ditzy smile, eyes wide and vacant through a film of shine. High detail on the texture of the liquid and the leopard nails touching her chin. Every surface is hyper-reflective.
+```
+
+### 18.2 — The Melting Doll
+```
+Surreal artistic photography. Sacha Massacre facial features. She is standing under a "rain" of liquid hot pink latex that is slowly coating her body. Wearing a black vinyl bikini. The latex looks like it's melting her into a plastic sculpture. Expression: absolute surrender, eyes looking up with vacant devotion. High contrast lighting, dark background, the pink liquid is the only light source. Drips and splatters everywhere.
+```
+
+### 18.3 — Champagne & PVC
+```
+Paparazzi-style photography, high flash. Sacha Massacre facial features. Seated in the back of a luxury limousine. Wearing a red vinyl dress that is so tight it looks like it's painted on. She is accidentally spilling pink champagne over her chest. Expression: a giggling, mindless laugh, eyes closed, total lack of care or awareness. Flash flares, bokeh city lights through the limo window, disorganized luxury.
+```
+
+---
+
+*Archivo Master — Edición Bimbo Pro — Finalizado 20/03/2026* 🫦🍒👠💅✨
