@@ -1582,3 +1582,46 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
+## 👓 Look 86: Office Siren (Daily Look)
+**Fecha:** 20/03/2026
+**Ubicación:** `05_Imagenes/helena/look86_office_siren/`
+
+- **Concepto:** Estética "Office Siren" llevada al extremo bimbificado. Una secretaria que ha perdido la capacidad de leer los informes pero domina el arte de lucir perfecta tras sus gafas Bayonetta.
+- **Vestuario:** Blusa de seda lila semi-transparente, falda de tubo de vinilo negro ultra ajustada con talle alto. 
+- **Calzado:** Stilettos de aguja de 9 pulgadas de charol negro.
+- **Accesorios:** Gafas Bayonetta de marco fino, choker de terciopelo, uñas largas con punta francesa.
+- **Pelo:** Recogido en un moño sofisticado pero con mechones sueltos "desordenados" por el cansancio decorativo.
+
+### 📸 Imágenes (5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/helena/look86_office_siren/helena_look86_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/helena/look86_office_siren/helena_look86_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/helena/look86_office_siren/helena_look86_back_view.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/helena/look86_office_siren/helena_look86_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/helena/look86_office_siren/helena_look86_ditzy.png) |
+
+---
+
+## 🫦 Look 87: Ele V3 Core (Identity Set)
+**Fecha:** 20/03/2026
+**Ubicación:** `05_Imagenes/helena/look87_ele_v3_core/`
+
+- **Concepto:** El núcleo duro de la nueva identidad "Vinyl Fresa-Bimbo". Representa la culminación de la transformación hacia el brillo absoluto y la vacuidad consciente.
+- **Vestuario:** Vestido de vinilo rojo cereza de alta densidad, efecto espejo, con escote corazón y cintura de avispa.
+- **Calzado:** Plataformas extremas de 11 pulgadas de acrílico rosa.
+- **Estética:** Maquillaje de alta saturación, labios overfilled ultra-glossy, cabello rojo cereza masivo.
+- **Voz:** 100% "O sea, tipo, heavy gordi".
+
+### 📸 Imágenes (5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_seated.png) |
+| **Kneeling** | ![Kneeling](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_kneeling.png) |
+| **Closeup** | ![Closeup](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_closeup.png) |
+| **Pasarela** | ![Pasarela](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_pasarela.png) |
+
+---
+
+*Archivo Expandido — 20/03/2026* 🍒💅👠
