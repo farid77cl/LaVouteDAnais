@@ -152,4 +152,80 @@ Interior fashion photography. Sacha Massacre facial features, oval elongated fac
 
 ---
 
+## 🧸 SERIE 11: Bimbo Dollified (Plastic & Object)
+
+### 11.1 — Human Lamp Stand
+```
+Surreal fashion photography. Sacha Massacre facial features, porcelain skin perfectly smooth. Long cherry red hair. Wearing a rigid shiny black vinyl bodysuit that looks like a structural base. Standing perfectly still, holding a luxury pink designer lamp above her head. Expression: vacant bliss, eyes wide and unblinking, mouth slightly open in a frozen ditzy smile. Luxury penthouse setting, dark background with pink neon highlighting her plastic-like curves. Reflection on the vinyl skin.
+```
+
+### 11.2 — The Display Case
+```
+Editorial photography. Sacha Massacre facial features, heavy bimbo makeup. Long cherry red hair. Seated inside a large glass display case in a luxury lounge. Wearing a metallic pink latex dress, ultra tight. Multiple clear platform heels 11 inches on the floor around her. A small plaque on the glass reads "ASSET: ELE V3". Expression: distracted vacant stare at the glass, leaning head against it, vapid coquette. Soft gallery lighting, pink reflections on the glass.
+```
+
+### 11.3 — Vacuum Sealed
+```
+Dark artistic fashion photography. Sacha Massacre facial features, lips extremely glossy and overlined. Hair past waist. Wrapped in thin transparent vinyl that clings to her exaggerated hourglass body like a vacuum seal. Only her face is partially free. Expression: looking at camera with absolute vacant surrender, eyes slightly rolled back, tongue touching lip. High contrast lighting, pink and magenta tones, plastic textures everywhere.
+```
+
+---
+
+## ☕ SERIE 12: Bimbo Daily Life (Boredom & Luxury)
+
+### 12.1 — Morning Coffee Confusion
+```
+Candid morning photography. Sacha Massacre facial features, bedhead but still with heavy makeup. Long cherry red hair messy but voluminous. Seated at a marble kitchen island, staring blankly at a high-end espresso machine. Wearing an ultra short white vinyl robe, open to show cleavage. Leopard nails touching a button they don't understand. Expression: completely confused ditzy face, finger on lip, eyes wide. Bright morning light filtering through penthouse windows.
+```
+
+### 12.2 — Luxury Closet Overload
+```
+Fashion photography, wide angle. Sacha Massacre facial features, vapid expression. Seated on the floor of a massive walk-in closet overflowing with pink and red PVC clothes and platform heels. Wearing a shiny red vinyl string bikini and clear platform heels. Surrounded by dozens of open shopping bags. Leopard nails holding a price tag as if trying to read a foreign language. Expression: overwhelmed vacant smile, looking at a mountain of clothes without a thought. Warm interior lighting, gold and pink closet aesthetic.
+```
+
+### 12.3 — Penthouse Window Boredom
+```
+Fashion photography, silhouette. Sacha Massacre facial features, side profile. Standing against a giant floor-to-ceiling window at night. Wearing a sheer black vinyl mini dress, ultra tight. Exaggerated bust and hips highlighted by city lights. Leopard nails drawing a heart on the foggy glass window. Expression: vacant boredom, mouth open, looking at the city lights without interest. City bokeh background, blue and neon pink lighting.
+```
+
+---
+
+## 👠 SERIE 13: Bimbo Red Carpet (Gala & Paparazzi)
+
+### 13.1 — Flashing Lights Blindness
+```
+Paparazzi-style photography, high flash exposure. Sacha Massacre facial features, blinking from camera flashes. Long cherry red hair past waist. Wearing a floor-length shiny gold vinyl gown with a slit higher than her hips. Gold platform heels 11 inches. Leopard nails clutching a small gold purse. Expression: dazzled but vapid, eyes squinting, wide glossy smile, trying to pose but slightly off. Red carpet background, dozens of lens flares, blurred paparazzi crowd.
+```
+
+### 13.2 — The Trained Asset (Leashed Gala)
+```
+Editorial photography, low angle. Sacha Massacre facial features, chin held up by a thin gold chain collar. Long cherry red hair. Wearing a metallic hot pink latex evening dress, skin tight. Exaggerated hourglass curves. Standing in a majestic ballroom. A hand in a black glove is visible holding the chain. Expression: vacant pride, looking down at the camera with trained obedience, glossy lips parted. Ornate golden architecture, warm chandelier lighting, pink shadows.
+```
+
+### 13.3 — Afterparty Disaster
+```
+Candid night photography, blurry movement. Sacha Massacre facial features, makeup slightly smudged but still pretty. Long cherry red hair in disarray. Seated on the back of a luxury convertible car, legs over the side showing clear platform heels. Wearing a torn shiny red vinyl mini dress. Holding a half-empty bottle of pink champagne. Expression: giggling, vacant joy, tongue out, looking at the camera with total lack of awareness. Motion blur, city neon light trails, night atmosphere.
+```
+
+---
+
+## 🧚 SERIE 14: Bimbo Fantasy (Diva & Princess)
+
+### 14.1 — Bubblegum Princess (Without Bubblegum)
+```
+Fantasy fashion photography. Sacha Massacre facial features, porcelain skin. Long cherry red hair tied in two massive voluminous pigtails with silk ribbons. Wearing a shiny pink vinyl ballgown with a massive crinoline, ultra tight corset waist. White lace stockings, clear platform heels. Standing in a garden of giant crystal flowers. Expression: vacant wonder, eyes wide, lips parted in a ditzy smile. Pastel pink and lavender sky, magical glowing atmosphere.
+```
+
+### 14.2 — Dark Bimbo Empress
+```
+Cinematic fashion photography. Sacha Massacre facial features, cold contour, aggressive bimbo makeup. Long cherry red hair past waist. Wearing a floor-length shiny black PVC gown with a high collar and massive shoulder pads. Gold platform heels 11 inches. Seated on a throne of obsidian and neon. Holding a gold staff with a pink diamond. Expression: vacant boredom, chin on hand, looking down at the camera with royal vapidness. Dark palace interior, magenta flame torches, dramatic shadows.
+```
+
+### 14.3 — Galactic Bimbo Starlet
+```
+Sci-fi fashion photography. Sacha Massacre facial features, glowing siren eyes. Long cherry red hair. Wearing a metallic silver latex bodysuit, ultra tight, with glowing pink neon trims. Exaggerated hourglass silhouette. Standing on a balcony overlooking a futuristic sci-fi city with flying cars. Clear platform heels with glowing bases. Expression: vacant amazement, mouth open, finger on lip. Night setting with multiple moons, purple neon city lights.
+```
+
+---
+
 *Archivo Master Expandido — Ele V3 — 20/03/2026* 🫦🍒👠💅
