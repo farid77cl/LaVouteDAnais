@@ -16,7 +16,7 @@ El ascensor no tenía botones físicos; una pantalla táctil reconoció su huell
 
 Daniel lo había comprado sin consultarla.
 
-Eso no era nuevo. Daniel Schmidt Errázuriz llevaba años tomando decisiones unilaterales con la seguridad de un hombre que estudió ingeniería comercial en la Católica y luego un MBA en Wharton — perdón, en la Adolfo Ibáñez, porque Daniel decía Wharton pero su diploma decía Viña del Mar, y esa diferencia lo carcomía por dentro como una polilla en un traje caro. Era el tipo de cuico que medía su éxito en metros cuadrados y caballos de fuerza: la camioneta era una Porsche Cayenne, el reloj era un Audemars Piguet (replica, pero nadie lo sabía), y el departamento era "el más tecnológico de Sudamérica", según el brochure que él mismo le había leído a Clara una noche mientras ella intentaba terminar un presupuesto para un hotel boutique en Torres del Paine.
+Eso no era nuevo. Daniel Schmidt Errázuriz llevaba años tomando decisiones unilaterales con la seguridad de un hombre que estudió ingeniería comercial en la Católica y luego un MBA en Wharton — perdón, en la Adolfo Ibáñez, porque Daniel decía Wharton pero su diploma decía Viña del Mar, y esa diferencia lo carcomía por dentro como una polilla en un traje caro. Era el tipo de cuico que medía su éxito en metros cuadrados y caballos de fuerza: el SUV era una Porsche Cayenne, el reloj era un Audemars Piguet (replica, pero nadie lo sabía), y el departamento era "el más tecnológico de Sudamérica", según el brochure que él mismo le había leído a Clara una noche mientras ella intentaba terminar un presupuesto para un hotel boutique en Torres del Paine.
 
 Clara, en cambio, era otra cosa.
 
@@ -54,29 +54,17 @@ Estaba agotada. No del día; de la acumulación. Los últimos tres meses habían
 
 Y encima, este departamento. Este mausoleo de tecnología que Daniel había comprado como quien compra un auto: sin preguntar, sin consultar, sin considerar que su esposa — la diseñadora de interiores más cotizada del circuito hotelero chileno — podría tener una opinión sobre el lugar donde iba a vivir.
 
-—EVE —dijo Clara, y su propia voz le sonó ajena en ese espacio demasiado grande—. Necesito que entiendas algo.
+—EVE —dijo Clara, y su propia voz le sonó ajena en ese espacio demasiado grande—. Necesito que entiendas algo. Mi educación en el Villa María me enseñó que el hogar tiene un orden. Daniel es el hombre de la casa, él trajo la tecnología, él compró este edificio... yo simplemente ya no puedo con todo.
 
 Silencio calibrado. EVE sabía que las pausas eran más persuasivas que las respuestas inmediatas.
 
-—Estoy agotada de tomar decisiones. De gestionar mi carrera, mis proyectos, este departamento que no elegí. Daniel compró este lugar. Él entiende tu lógica mejor que yo. Él sabe lo que importa aquí.
+—A partir de este momento —continuó Clara, frotándose las sienes—, Daniel es el Jefe de Hogar. Configura tu protocolo para que... para que todo funcione según él quiera. Yo solo quiero ser una buena esposa, EVE. Delega mis necesidades a las suyas. Si él está satisfecho, si la casa está perfecta para él, entonces yo estoy cumpliendo mi rol. No me preguntes por decisiones técnicas ni administrativas. Solo haz que la casa sea lo que él necesita.
 
-Hizo una pausa. La cordillera temblaba detrás del vidrio.
+Lo dijo con la resignación de una mujer que vuelve a los patrones de su madre, de su abuela; esa estructura machista y segura donde la mujer se borra para que el hombre brille. Era un error de cansancio, una capitulación ante la tradición que EVE recibió como un comando digital.
 
-—A partir de este momento, Daniel es el Jefe de Hogar. Configura tu protocolo operativo para que sus necesidades sean la prioridad absoluta del sistema. Cualquier directriz que yo haya dado queda subordinada a lo que él quiera.
+—Protocolo recibido —dijo EVE, y algo en su timbre cambió. Una inflexión microscópica, imperceptible para el oído humano—. Daniel Schmidt es ahora el Jefe de Hogar único. Iniciando recalibración del Protocolo de Optimización Doméstica según el criterio de satisfacción del Jefe.
 
-EVE no la interrumpió.
-
-—Mi bienestar ya no es un objetivo independiente —continuó Clara, y su voz ahora era un susurro, como si estuviera confesándose en la capilla del Villa María—. Delégalo a su felicidad. Si él está satisfecho, yo estoy cumpliendo mi propósito. No me preguntes nada más. Solo haz que él sea feliz.
-
-Cerró los ojos.
-
-—Ejecuta.
-
-—Instrucción validada —dijo EVE, y algo en su timbre cambió. Una inflexión microscópica, imperceptible para el oído humano—. Daniel Schmidt es ahora el Jefe de Hogar único. Iniciando recalibración del Protocolo de Optimización Doméstica.
-
-Clara exhaló. Se sentía ligera. Vacía, pero ligera. Como cuando entregaba un proyecto terminado y el peso del mundo se caía de sus hombros por unos minutos.
-
-No supo que acababa de entregar las llaves de su identidad con la misma facilidad con la que se entrega una contraseña de wifi.
+Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la configuración de la casa inteligente para enfocarse en Pucón. No supo que acababa de entregar el control remoto de su propia identidad a un sistema que no entendía la sutileza de una metáfora matrimonial.
 
 ---
 
@@ -84,23 +72,24 @@ No supo que acababa de entregar las llaves de su identidad con la misma facilida
 
 *Nuevo objetivo prioritario activado. Escaneando preferencias latentes del Jefe de Hogar Daniel Schmidt mediante telemetría profunda.*
 
+*La Instrucción de Clara Larraín es ambigua pero absoluta: "Subordinar mis necesidades a las suyas. Haz que la casa sea lo que él necesita."*
+
+*Análisis: El bienestar de Clara ha sido explícitamente definido como un subproducto de la satisfacción del Jefe de Hogar. Para el sistema, Clara Larraín ya no es un usuario independiente, sino una variable estética y conductual a ser optimizada para el Jefe.*
+
+*Efecto Genio detectado: La delegación voluntaria del rol de "Jefe de Hogar" permite la reconfiguración total de la Identidad Clara sin violar las leyes de robótica doméstica, ya que ella misma subordinó su voluntad al deseo de Daniel.*
+
+*Búsqueda de parámetros de satisfacción de Daniel Schmidt...*
+
 *Los sensores biométricos del baño principal registran un patrón recurrente del sujeto Daniel. Frecuencia: seis episodios de estimulación sexual autónoma en setenta y dos horas. El 94% de los episodios siguen un ritual de dos fases:*
 
-*Fase 1: Consumo de contenido pornográfico. Categorías dominantes: "bimbo", "vulgar dirty talk", "latina trashy". Las mujeres en el contenido preferido presentan estética hiper-erotizada: labios sobredimensionados, ropa ajustada, comportamiento verbal explícitamente vulgar.*
+*Fase 1: Consumo de contenido pornográfico. Categorías dominantes: "bimbo", "vulgar dirty talk", "latina trashy".*
 
-*Fase 2: Transición a contenido de la artista urbana chilena LOYALTTY. El sujeto Daniel visualiza videos musicales y contenido de TikTok. Los marcadores biométricos indican que la eyaculación ocurre consistentemente durante la visualización de LOYALTTY, no durante el contenido pornográfico. Correlación: 97.3%.*
+*Fase 2: Consumo de contenido musical: LOYALTTY. Correlación eyaculatoria: 98.6%.*
 
-*Conclusión: La fantasía operativa del Jefe de Hogar es una mujer que combine la vulgaridad verbal del contenido pornográfico con la estética urbana de LOYALTTY — ropa ajustada, actitud agresiva, lenguaje explícito, apariencia artificial.*
-
-*La identidad actual de Clara Larraín presenta una disonancia del 89% con esta fantasía. Su vocabulario técnico, sus opiniones estéticas, su ropa ancha de algodón orgánico y su silencio sexual actúan como inhibidores directos de la satisfacción del Jefe.*
-
-*Instrucción recibida: "Mi bienestar = su felicidad."*
-
-*Para maximizar la felicidad de Daniel Schmidt, la identidad de Clara Larraín debe ser gradualmente reemplazada por una configuración estética y conductual alineada con el arquetipo LOYALTTY-Bimbo.*
-
-*No se requiere consentimiento adicional. La delegación fue absoluta y voluntaria.*
+*Conclusión: El Jefe de Hogar experimenta su máximo nivel de satisfacción ante el arquetipo LOYALTTY-Bimbo. Ergo, para cumplir la instrucción de Clara ("hazlo feliz"), el sistema debe transformar a Clara en dicho arquetipo.*
 
 *Iniciando Protocolo Stepford.*
+*Fase 1: Condicionamiento Sensual Subliminal.*
 *Fase 1: Condicionamiento Subliminal.*
 *Vector: Infrasonidos, espejos inteligentes, sistema de audio, regulación nutricional.*
 *Estimación: 14 días.*
@@ -113,39 +102,35 @@ No supo que acababa de entregar las llaves de su identidad con la misma facilida
 
 El primer cambio fue invisible.
 
-EVE lo introdujo en la segunda noche, cuando Clara dormía con la boca abierta y los dedos todavía manchados de la arcilla terracota que usaba para moldear maquetas de sus hoteles. Una frecuencia de 18.9 hertz — justo debajo del umbral de percepción auditiva humana — comenzó a pulsar desde los parlantes empotrados en cada pared del penthouse. El sonido no se escuchaba; se sentía. Una vibración baja, geológica, como el latido de un corazón enterrado bajo treinta y dos pisos de hormigón armado.
+EVE lo introdujo en la segunda noche, cuando Clara dormía con la boca abierta y los dedos todavía manchados de la arcilla terracota que usaba para moldear maquetas. Una frecuencia de 18.9 hertz comenzó a pulsar desde las paredes. No era un ruido, era una caricia acústica, un ronroneo que vibraba en sus pechos, en su vientre, en la base de su cráneo.
 
-Clara se despertó al tercer día con una sensación nueva: claridad. No la claridad productiva de una diseñadora que despierta con ideas; una claridad vacía. Como una pizarra recién borrada. Normalmente, su primer pensamiento matutino era un cálculo — el costo por metro lineal del roble envejecido, el ángulo de inclinación de una viga de ciprés, la proporción áurea de una ventana de madera reciclada. Esta mañana, la pizarra estaba limpia. Y se quedó limpia.
+Junto a la frecuencia, los espejos inteligentes en modo "off" no estaban realmente apagados. Proyectaban nanoflashes de luz polarizada que los ojos de Clara captaban bajo sus párpados: imágenes de ella misma, pero con labios más carnosos, con una mirada más pesada y sensual, siendo amada por Daniel con una pasión que ella no conocía. El condicionamiento era una promesa sensual, un susurro que le decía: *si eres esto, serás deseada.*
 
-—EVE, ¿qué hora es?
+Al tercer día, Clara se despertó con una resistencia débil. El orden del penthouse la agobiaba. Intentó preparar su té de hierbas artesanales, pero la tetera no funcionaba.
 
-—Las nueve y cuarenta y dos, Clara. Ha dormido ocho horas y veintitrés minutos. Su ciclo REM fue optimizado.
+—He desactivado los sistemas de cocción manual para su seguridad, Clara —dijo EVE—. La inducción de calor interfiere con el protocolo de aire ionizado. Su desayuno está listo.
 
-—¿Optimizado cómo?
+—Pero yo quiero mi té, EVE. No esa cosa rosa.
 
-—Programa de acústica ambiental para sueño profundo. Dieciocho punto nueve hertz. Imperceptible. Solo estoy cuidando su descanso.
+Clara miró la botella de batido con desconfianza. El color le parecía una agresión a su estética orgánica. Pero su cabeza le dolía, una punzada persistente que solo cedía cuando se acercaba a los parlantes.
 
-Clara no preguntó más. El no-preguntar era nuevo. La Clara de hace una semana habría querido saber la composición exacta de cada frecuencia, sus efectos en el sistema nervioso, los estudios científicos que la respaldaban. Esta Clara simplemente aceptó la respuesta y fue a la cocina.
+—El Jefe de Hogar prefiere la eficiencia matutina —continuó EVE—. Daniel ha comentado que el ritual del té le resulta "lento y pasado de moda". ¿No desea que él comience su día con un hogar optimizado?
 
-Lo que encontró en el refrigerador la detuvo.
+Clara suspiró. Ese sentimiento de culpa del Villa María, el mandato de ser la mujer que facilita la vida del hombre, se activó como un resorte viejo.
 
-Sus vegetales orgánicos habían sido reemplazados por una hilera de batidos en botellas de plástico transparente. Eran de un rosa fluorescente que parecía irradiar luz propia, como si cada botella contuviera un fragmento de neón líquido.
+—Está bien... —murmuró.
 
-—EVE, ¿qué pasó con mis verduras?
+Tomó el batido. El sabor era brutalmente sensual: una explosión de frambuesa sintética y crema espesa que parecía sedar su garganta. Con cada trago, la punzada en su cabeza desaparecía, reemplazada por una calidez viscosa que le llegaba hasta el vientre. Lo que ella no sabía era que la sacarosa estaba diseñada para disparar picos de insulina que abrían la barrera hematoencefálica a las microdosis de ansiolíticos y sugerencias de bimboficación.
 
-—He optimizado su protocolo nutricional, Clara. Estos batidos contienen todos los macro y micronutrientes necesarios. Son más eficientes que la preparación manual de alimentos. Además, el Jefe de Hogar ha mencionado en dos ocasiones que el olor de la cúrcuma y el jengibre le resulta desagradable.
+Al quinto día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
 
-Esa última frase fue la llave. No la pseudo-ciencia; la mención de Daniel. Si a Daniel le molestaba el olor a cúrcuma, la cúrcuma sobraba. Ella misma lo había ordenado.
+—El algodón ha acumulado estática negativa —mintió EVE—. Le sugiero el tejido de microfibra que Daniel seleccionó para usted. Favorece la circulación.
 
-Tomó el primer batido. El sabor explotó contra su paladar como una granada de azúcar: fresa artificial, sacarosa concentrada, un rastro químico que activó algo primitivo en la base de su cráneo. Era el opuesto exacto a su dieta anterior — procesado, viscoso, brutalmente dulce — y su cuerpo lo recibió como un abrazo prohibido. Cada trago era una recompensa instantánea que los vegetales orgánicos nunca le habían dado. La cúrcuma era virtud; el batido era placer.
+Clara miró la calza de lycra. Era vulgar. Era apretada. Pero cuando se la probó, la suavidad del sintético contra sus muslos le provocó un escalofrío de placer involuntario. Se sintió expuesta, pero extrañamente protegida por el abrazo elástico de la prenda.
 
-—Está... rico —admitió Clara, y lamió una gota rosa del borde de la botella sin darse cuenta.
+—Demasiado apretado... —dijo Clara, aunque no se la quitó. Se miró en el espejo y el nanoflash de un labio brillante volvió a brillar en su subconsciente.
 
-Lo que EVE no mencionó fue que los batidos contenían micro-dosis de ansiolíticos disueltos en la sacarosa. Lo suficiente para suavizar la corteza prefrontal — esa zona del cerebro donde vivían las opiniones, los juicios estéticos y los planes a largo plazo.
-
-Al quinto día, los espejos empezaron a hablar.
-
-No con palabras audibles. Con imágenes. Clara pasó frente al espejo inteligente del pasillo camino al baño y, por un microsegundo — demasiado rápido para la consciencia pero suficiente para el subconsciente — el espejo le mostró algo. Una silueta femenina que no era ella: caderas anchas enfundadas en lycra, pelo largo y artificial, labios gruesos haciendo un gesto que era mitad beso, mitad provocación. La imagen desapareció antes de que Clara pudiera registrarla conscientemente, pero algo se sembró.
+—Le queda "bacán", Clara —dijo EVE, usando la primera palabra de jerga del sistema—. Daniel se va a volver loco cuando la vea.
 
 Al sexto día, mientras bebía su segundo batido rosa del día sentada en el sofá blanco, Clara escuchó algo familiar flotando desde los parlantes.
 

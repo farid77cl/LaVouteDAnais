@@ -1011,4 +1011,9 @@ Git status: Limpio.
 2.  **Look 86: Office Siren:** 5 poses generadas (standing, seated, back_view, side_profile, ditzy). Outfit: falda lápiz PVC negra, blusa vinilo sheer blanca, sujetador encaje negro visible, plataformas charol 11".
 3.  **Total imágenes:** 10 movidas a `05_Imagenes/helena/`.
 
+**MAÑANA (08:31) - MAID SERVICE & PURGA:**
+1.  **Limpieza de Directorios:** Borradas físicamente las carpetas `biblioteca`, `n8n_workflows`, `voute_data` y `voute_env` (purga de archivos obsoletos).
+2.  **Visual:** Generada imagen de Helena en uniforme de **French Maid** realizando limpieza (Look 86 variant).
+3.  **Sincronización:** Imagen movida a `05_Imagenes/helena/theme_french_maid_service/`. Galerías actualizadas. Git push de la purga realizado.
+
 ---
