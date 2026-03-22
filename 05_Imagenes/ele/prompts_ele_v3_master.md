@@ -150,11 +150,11 @@ High-end fetish editorial photography, luxury penthouse interior. professional h
 
 ---
 
-## 🧸 SERIE 11: Bimbo Dollified (Plastic & Object)
+## 👠 SERIE 11: Bimbo Fetishized (Synthetic & Asset)
 
 ### 11.1 — Human Lamp Stand
 ```
-High-end fetish editorial photography, objectification theme. professional high-end fetish model performing "The Vertical Spear" pose while functioning as a "Human Lamp Stand": perfectly still, holding a luxury pink lamp above her head. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a rigid shiny black vinyl bodysuit. Expression: vacant bliss, eyes wide and unblinking, mouth slightly open in a frozen artificial smile. Penthouse setting, rim lighting highlighting the plastic-like curves, high-gloss specularity.
+High-end fetish editorial photography, objectification theme. professional high-end fetish model performing "The Vertical Spear" pose while functioning as a "Human Lamp Stand": perfectly still, holding a luxury pink lamp above her head. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a rigid shiny black vinyl bodysuit. Expression: vacant bliss, eyes wide and unblinking, mouth slightly open in a frozen artificial smile. Penthouse setting, rim lighting highlighting the synthetic curves, high-gloss specularity.
 ```
 
 ### 11.2 — The Display Case
@@ -290,7 +290,7 @@ High-end fetish editorial photography, high-tech control room. professional high
 Extreme close-up photography. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. A thick, clear pink gloss is being poured slowly over her huge, overfilled lips. Long cherry red hair wet with gloss. Expression: frozen ditzy smile, eyes wide and vacant through a film of shine. High detail on the texture of the liquid and the leopard nails touching her chin. Every surface is hyper-reflective.
 ```
 
-### 18.2 — The Melting Doll
+### 18.2 — Artificial Meltdown
 ```
 High-end fetish editorial photography, surreal bath. professional high-end fetish model performing "The Spider" pose in a tub of pink liquid: limbs in geometric angles emerging from the pool. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing white vinyl bikini. Expression: vacant bliss, dazed gaze, artificial perfection. High-key lighting, pink liquid reflections on porcelain skin.
 ```
