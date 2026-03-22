@@ -1,6 +1,6 @@
 # 👁️ CANON VISUAL HELENA - Ultra Detallado
 
-> **Modelo de Referencia:** Sacha Massacre  
+> **Modelo de Referencia:** Bimbo Aesthetic Plástica  
 > **Versión:** 2.0  
 > **Actualizado:** 13/01/2026  
 > **Propósito:** Guía obligatoria para generación de imágenes de Helena
@@ -30,7 +30,7 @@ pómulos altos y prominentes, mentón pequeño y puntiagudo.
 
 ### Prompt Base Rostro
 ```text
-Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
+bimbofied doll facial features, oval elongated face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color, straight slim nose
 with slightly upturned tip, overlined full lips with defined cupid's bow,
 small pointed chin, soft defined jawline, contoured sculpted cheeks
@@ -104,16 +104,14 @@ dark cherry red hair, artificial XXXL hair extensions, very long hip-length, cen
 | **Cuello** | Largo, elegante | `long elegant neck` |
 | **Hombros** | Estrechos | `narrow shoulders` |
 | **Busto** | Moderado a pronunciado | `moderate to full bust` |
-| **Cintura** | Muy estrecha (corsé) | `extremely cinched waist, corset-shaped` |
+| **Cintura** | Estrecha (corsé) | `cinched waist, corset-shaped` |
 | **Caderas** | Curvas definidas | `defined curves, hourglass` |
 | **Piel** | Blanca con spray tan Miami | `caucasian with dark artificial spray tan, sun-kissed glowing skin` |
 | **Tatuajes** | Brazos (blackwork, líneas finas) | `visible arm tattoos, blackwork fine lines` |
 
 ### Prompt Base Cuerpo
 ```text
-slender elegant figure, long neck, narrow shoulders,
-moderate to full bust, extremely cinched waist,
-caucasian with dark artificial spray tan, sun-kissed glowing skin, visible arm tattoos blackwork style
+slender eEl canon visual de Helena está estructurado alrededor de una estética "Bimbo/Plástica", con rasgos faciales altamente estilizados para transmitir vacuidad y devoción.g skin, visible arm tattoos blackwork style
 ```
 
 ---
@@ -148,7 +146,7 @@ caucasian with dark artificial spray tan, sun-kissed glowing skin, visible arm t
 ### Full Body
 ```text
 Fashion photography, vertical portrait orientation.
-Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
+bimbofied doll facial features, oval face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
 small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed sculptured contour,
@@ -162,8 +160,7 @@ visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
 
 ### Portrait/Closeup
 ```text
-Portrait photography, vertical orientation.
-Sacha Massacre facial features, oval face, high cheekbones, almond bedroom eyes
+Portrait photography,| **Ancla Facial** | Estética Plástica / Bimbo | `bimbofied doll facial features` |oval face, high cheekbones, almond bedroom eyes
 grey-green with siren liner, slim upturned nose, overlined [COLOR] lips cupid's bow,
 small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed contour, dramatic lashes,
 dark cherry red hair voluminous waves center parted hip-length, long elegant neck,
