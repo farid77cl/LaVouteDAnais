@@ -30,7 +30,7 @@ pómulos altos y prominentes, mentón pequeño y puntiagudo.
 
 ### Prompt Base Rostro
 ```text
-bimbofied doll facial features, oval elongated face, high prominent cheekbones,
+stunning woman with bimbofied facial features, oval elongated face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color, straight slim nose
 with slightly upturned tip, overlined full lips with defined cupid's bow,
 small pointed chin, soft defined jawline, contoured sculpted cheeks
@@ -106,7 +106,7 @@ dark cherry red hair, artificial XXXL hair extensions, very long hip-length, cen
 | **Busto** | Moderado a pronunciado | `moderate to full bust` |
 | **Cintura** | Estrecha (corsé) | `cinched waist, corset-shaped` |
 | **Caderas** | Curvas definidas | `defined curves, hourglass` |
-| **Piel** | Blanca con spray tan Miami | `caucasian with dark artificial spray tan, sun-kissed glowing skin` |
+| **Piel** | Porcelana Blanca | `white porcelain skin, smooth plastic texture, flawless white complexion` |
 | **Tatuajes** | Brazos (blackwork, líneas finas) | `visible arm tattoos, blackwork fine lines` |
 
 ### Prompt Base Cuerpo
@@ -146,7 +146,7 @@ slender eEl canon visual de Helena está estructurado alrededor de una estética
 ### Full Body
 ```text
 Fashion photography, vertical portrait orientation.
-porcelain skin, smooth plastic texture, bimbofied doll facial features., oval face, high prominent cheekbones,
+stunning woman with bimbofied facial features., oval face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
 small pointed chin, warm bronzed sculptured contour,
@@ -160,9 +160,9 @@ visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
 
 ### Portrait/Closeup
 ```text
-Portrait photography,| **Ancla Facial** | Estética Plástica / Bimbo | `bimbofied doll facial features` |oval face, high cheekbones, almond bedroom eyes
+Portrait photography, bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes
 grey-green with siren liner, slim upturned nose, overlined [COLOR] lips cupid's bow,
-small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed contour, dramatic lashes,
+small pointed chin, porcelain skin, smooth plastic texture, warm contour, dramatic lashes,
 dark cherry red hair voluminous waves center parted hip-length, long elegant neck,
 [ACCESSORIES], [EXPRESSION]. Professional lighting.
 ```
