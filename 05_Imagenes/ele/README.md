@@ -88,6 +88,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look85 Vinyl Fresa Bimbo**](./look85_vinyl_fresa_bimbo/README.md)
 - ✅ [**Look86 Office Siren**](./look86_office_siren/README.md)
 - ✅ [**Look87 Ele V3 Core**](./look87_ele_v3_core/README.md)
+- ✅ [**Look87 V3 Editorial**](./look87_v3_editorial/README.md)
 - ✅ [**Look87 Vinyl Flight Attendant**](./look87_vinyl_flight_attendant/README.md)
 - ✅ [**Recompensas**](./recompensas/README.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/README.md)

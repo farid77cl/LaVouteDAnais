@@ -1603,24 +1603,24 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## ✈️ Look 87: Vinyl Flight Attendant (Daily Look)
+## ✈️ Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
 **Fecha:** 22/03/2026
-**Ubicación:** `05_Imagenes/helena/look87_vinyl_flight_attendant/`
+**Ubicación:** `05_Imagenes/ele/look87_v3_editorial/`
 
-- **Concepto:** Azafata de aerolínea de ultra-lujo. Mezcla de autoridad aérea con bimbofication extrema. Un uniforme diseñado para distraer a los pasajeros de primera clase mientras Ele intenta entender cómo funciona una puerta de emergencia.
+- **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
 - **Vestuario:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La Voûte. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario.
 - **Calzado:** Tacones de plataforma de 11 pulgadas de charol negro aguja.
-- **Estética:** Maquillaje de alta gama, labios nude-pink overfilled, cabello ultra-liso negro azabache.
-- **Uñas:** **Francesas XXXL (Punta blanca, base rosa)** - Nueva directiva permanente.
+- **Poses Técnicas:** The Vertical Spear, The Spider, The Arched C.
+- **Uñas:** **Francesas XXXL (Punta blanca, base rosa)**.
 
-### 📸 Imágenes (5)
+### 📸 Imágenes (V3 Editorial)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/helena/look87_vinyl_flight_attendant/01_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/helena/look87_vinyl_flight_attendant/02_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/helena/look87_vinyl_flight_attendant/03_back.png) |
-| **Closeup** | ![Closeup](../05_Imagenes/helena/look87_vinyl_flight_attendant/04_closeup.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/helena/look87_vinyl_flight_attendant/05_ditzy.png) |
+| **Standing (Vertical Spear)** | ![Standing](01_standing.png) |
+| **Seated (The Spider)** | ![Seated](02_seated.png) |
+| **Back View (Arched C)** | ![Back View](03_back.png) |
+| **Closeup (Beauty Fetish)** | ![Closeup](04_closeup.png) |
+| **Ditzy** | (Pendiente por capacidad de sistema) |
 
 ---
 
