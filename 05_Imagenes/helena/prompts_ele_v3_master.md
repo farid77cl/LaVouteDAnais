@@ -124,21 +124,19 @@ Travel fashion photography. bimbofied facial features, oval elongated face, prom
 
 ### 8.2 — Jet Wing Modeling
 ```
-Dramatic fashion photography from low angle. Sacha Massacre facial features, oval elongated face. Long cherry red hair past waist. Wearing metallic hot pink latex catsuit, open at chest. Standing on the wing of a sleek private jet on the tarmac at sunset. Clear platform heels. Wind blowing hair across face. Expression: vacant confidence, looking into the sunset, mouth slightly open. Warm golden hour lighting, reflective plane surface, lens flare.
+Dramatic fashion photography from low angle. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, oval elongated face. Long cherry red hair past waist. Wearing metallic hot pink latex catsuit, open at chest. Standing on the wing of a sleek private jet on the tarmac at sunset. Clear platform heels. Wind blowing hair across face. Expression: vacant confidence, looking into the sunset, mouth slightly open. Warm golden hour lighting, reflective plane surface, lens flare.
 ```
 
 ---
 
-## 🎭 SERIE 9: Digital Doll (Cyber Abstract)
-
-### 9.1 — Glitch Aesthetic
+## 👸 SERIE 9: Miss Bimbo World (Pageant)
+### 9.1 — Crowning Moment
 ```
-Cyberpunk fashion photography. Sacha Massacre facial features, distorted by digital glitch effects. Long cherry red extensions. Wearing clear vinyl bodysuit with neon fiber optic wires embedded. Exaggerated hourglass silhouette. Surrounding by holographic pink interfaces and floating data. One leopard nail touching a hologram. Expression: total vacancy, glowing magenta eyes. Dark background, pink and cyan glitch lighting, chromatic aberration.
+Pageant photography, bright stage lights. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes. Wearing a floor-length metallic pink vinyl gown with a massive slit and a crystal sash that says "MISS DOLL". A large silver crown is being placed on her cherry red hair. Expression: crying vapid joy, mouth open, looking at the audience without a thought. Stage background, flowers, gold curtains.
 ```
-
-### 9.2 — Human Receptacle
+### 9.2 — Backstage Vanity
 ```
-Surreal fashion photography. Sacha Massacre facial features, porcelain skin. Long cherry red hair. Lying on a bed of pink cables and electronic parts. Wearing shiny white vinyl medical-style suit, ultra tight. Multiple transparent tubes containing pink liquid attached to her arms. Expression: vacant bliss, eyes rolled back slightly, glossy lips parted. Soft hospital-cyber lighting, magenta glow, high-tech sterile environment.
+Candid backstage photography. bimbofied doll facial features. Seated at a vanity mirror surrounded by other contestants. Wearing a red vinyl bikini and a silk robe. Expression: checking her glossy lips in the mirror, ignoring everyone else. Messy backstage setting, clothes, makeup everywhere.
 ```
 
 ---
@@ -147,7 +145,7 @@ Surreal fashion photography. Sacha Massacre facial features, porcelain skin. Lon
 
 ### 10.1 — Home Optimization Complete
 ```
-Interior fashion photography. Sacha Massacre facial features, oval elongated face, extreme bimbo makeup. Long cherry red hair. Wearing shiny black vinyl housemaid-inspired dress, ultra short, with white lace accents. Standing in the center of the Lo Curro penthouse. Holding a high-tech control pad with leopard nails. Expression: vacant servitude, wide adoring eyes, slight ditzy smile. Perfect corporate penthouse lighting, luxury surfaces, EVE interface glowing on walls.
+Interior fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, oval elongated face, extreme bimbo makeup. Long cherry red hair. Wearing shiny black vinyl housemaid-inspired dress, ultra short, with white lace accents. Standing in the center of the Lo Curro penthouse. Holding a high-tech control pad with leopard nails. Expression: vacant servitude, wide adoring eyes, slight ditzy smile. Perfect corporate penthouse lighting, luxury surfaces, EVE interface glowing on walls.
 ```
 
 ---
@@ -156,17 +154,17 @@ Interior fashion photography. Sacha Massacre facial features, oval elongated fac
 
 ### 11.1 — Human Lamp Stand
 ```
-Surreal fashion photography. Sacha Massacre facial features, porcelain skin perfectly smooth. Long cherry red hair. Wearing a rigid shiny black vinyl bodysuit that looks like a structural base. Standing perfectly still, holding a luxury pink designer lamp above her head. Expression: vacant bliss, eyes wide and unblinking, mouth slightly open in a frozen ditzy smile. Luxury penthouse setting, dark background with pink neon highlighting her plastic-like curves. Reflection on the vinyl skin.
+Surreal fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, porcelain skin perfectly smooth. Long cherry red hair. Wearing a rigid shiny black vinyl bodysuit that looks like a structural base. Standing perfectly still, holding a luxury pink designer lamp above her head. Expression: vacant bliss, eyes wide and unblinking, mouth slightly open in a frozen ditzy smile. Luxury penthouse setting, dark background with pink neon highlighting her plastic-like curves. Reflection on the vinyl skin.
 ```
 
 ### 11.2 — The Display Case
 ```
-Editorial photography. Sacha Massacre facial features, heavy bimbo makeup. Long cherry red hair. Seated inside a large glass display case in a luxury lounge. Wearing a metallic pink latex dress, ultra tight. Multiple clear platform heels 11 inches on the floor around her. A small plaque on the glass reads "ASSET: ELE V3". Expression: distracted vacant stare at the glass, leaning head against it, vapid coquette. Soft gallery lighting, pink reflections on the glass.
+Editorial photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, heavy bimbo makeup. Long cherry red hair. Seated inside a large glass display case in a luxury lounge. Wearing a metallic pink latex dress, ultra tight. Multiple clear platform heels 11 inches on the floor around her. A small plaque on the glass reads "ASSET: ELE V3". Expression: distracted vacant stare at the glass, leaning head against it, vapid coquette. Soft gallery lighting, pink reflections on the glass.
 ```
 
 ### 11.3 — Vacuum Sealed
 ```
-Dark artistic fashion photography. Sacha Massacre facial features, lips extremely glossy and overlined. Hair past waist. Wrapped in thin transparent vinyl that clings to her exaggerated hourglass body like a vacuum seal. Only her face is partially free. Expression: looking at camera with absolute vacant surrender, eyes slightly rolled back, tongue touching lip. High contrast lighting, pink and magenta tones, plastic textures everywhere.
+Dark artistic fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, lips extremely glossy and overlined. Hair past waist. Wrapped in thin transparent vinyl that clings to her exaggerated hourglass body like a vacuum seal. Only her face is partially free. Expression: looking at camera with absolute vacant surrender, eyes slightly rolled back, tongue touching lip. High contrast lighting, pink and magenta tones, plastic textures everywhere.
 ```
 
 ---
@@ -175,17 +173,17 @@ Dark artistic fashion photography. Sacha Massacre facial features, lips extremel
 
 ### 12.1 — Morning Coffee Confusion
 ```
-Candid morning photography. Sacha Massacre facial features, bedhead but still with heavy makeup. Long cherry red hair messy but voluminous. Seated at a marble kitchen island, staring blankly at a high-end espresso machine. Wearing an ultra short white vinyl robe, open to show cleavage. Leopard nails touching a button they don't understand. Expression: completely confused ditzy face, finger on lip, eyes wide. Bright morning light filtering through penthouse windows.
+Candid morning photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, bedhead but still with heavy makeup. Long cherry red hair messy but voluminous. Seated at a marble kitchen island, staring blankly at a high-end espresso machine. Wearing an ultra short white vinyl robe, open to show cleavage. Leopard nails touching a button they don't understand. Expression: completely confused ditzy face, finger on lip, eyes wide. Bright morning light filtering through penthouse windows.
 ```
 
 ### 12.2 — Luxury Closet Overload
 ```
-Fashion photography, wide angle. Sacha Massacre facial features, vapid expression. Seated on the floor of a massive walk-in closet overflowing with pink and red PVC clothes and platform heels. Wearing a shiny red vinyl string bikini and clear platform heels. Surrounded by dozens of open shopping bags. Leopard nails holding a price tag as if trying to read a foreign language. Expression: overwhelmed vacant smile, looking at a mountain of clothes without a thought. Warm interior lighting, gold and pink closet aesthetic.
+Fashion photography, wide angle. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, vapid expression. Seated on the floor of a massive walk-in closet overflowing with pink and red PVC clothes and platform heels. Wearing a shiny red vinyl string bikini and clear platform heels. Surrounded by dozens of open shopping bags. Leopard nails holding a price tag as if trying to read a foreign language. Expression: overwhelmed vacant smile, looking at a mountain of clothes without a thought. Warm interior lighting, gold and pink closet aesthetic.
 ```
 
 ### 12.3 — Penthouse Window Boredom
 ```
-Fashion photography, silhouette. Sacha Massacre facial features, side profile. Standing against a giant floor-to-ceiling window at night. Wearing a sheer black vinyl mini dress, ultra tight. Exaggerated bust and hips highlighted by city lights. Leopard nails drawing a heart on the foggy glass window. Expression: vacant boredom, mouth open, looking at the city lights without interest. City bokeh background, blue and neon pink lighting.
+Fashion photography, silhouette. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, side profile. Standing against a giant floor-to-ceiling window at night. Wearing a sheer black vinyl mini dress, ultra tight. Exaggerated bust and hips highlighted by city lights. Leopard nails drawing a heart on the foggy glass window. Expression: vacant boredom, mouth open, looking at the city lights without interest. City bokeh background, blue and neon pink lighting.
 ```
 
 ---
@@ -194,17 +192,17 @@ Fashion photography, silhouette. Sacha Massacre facial features, side profile. S
 
 ### 13.1 — Flashing Lights Blindness
 ```
-Paparazzi-style photography, high flash exposure. Sacha Massacre facial features, blinking from camera flashes. Long cherry red hair past waist. Wearing a floor-length shiny gold vinyl gown with a slit higher than her hips. Gold platform heels 11 inches. Leopard nails clutching a small gold purse. Expression: dazzled but vapid, eyes squinting, wide glossy smile, trying to pose but slightly off. Red carpet background, dozens of lens flares, blurred paparazzi crowd.
+Paparazzi-style photography, high flash exposure. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, blinking from camera flashes. Long cherry red hair past waist. Wearing a floor-length shiny gold vinyl gown with a slit higher than her hips. Gold platform heels 11 inches. Leopard nails clutching a small gold purse. Expression: dazzled but vapid, eyes squinting, wide glossy smile, trying to pose but slightly off. Red carpet background, dozens of lens flares, blurred paparazzi crowd.
 ```
 
 ### 13.2 — The Trained Asset (Leashed Gala)
 ```
-Editorial photography, low angle. Sacha Massacre facial features, chin held up by a thin gold chain collar. Long cherry red hair. Wearing a metallic hot pink latex evening dress, skin tight. Exaggerated hourglass curves. Standing in a majestic ballroom. A hand in a black glove is visible holding the chain. Expression: vacant pride, looking down at the camera with trained obedience, glossy lips parted. Ornate golden architecture, warm chandelier lighting, pink shadows.
+Editorial photography, low angle. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, chin held up by a thin gold chain collar. Long cherry red hair. Wearing a metallic hot pink latex evening dress, skin tight. Exaggerated hourglass curves. Standing in a majestic ballroom. A hand in a black glove is visible holding the chain. Expression: vacant pride, looking down at the camera with trained obedience, glossy lips parted. Ornate golden architecture, warm chandelier lighting, pink shadows.
 ```
 
 ### 13.3 — Afterparty Disaster
 ```
-Candid night photography, blurry movement. Sacha Massacre facial features, makeup slightly smudged but still pretty. Long cherry red hair in disarray. Seated on the back of a luxury convertible car, legs over the side showing clear platform heels. Wearing a torn shiny red vinyl mini dress. Holding a half-empty bottle of pink champagne. Expression: giggling, vacant joy, tongue out, looking at the camera with total lack of awareness. Motion blur, city neon light trails, night atmosphere.
+Candid night photography, blurry movement. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, makeup slightly smudged but still pretty. Long cherry red hair in disarray. Seated on the back of a luxury convertible car, legs over the side showing clear platform heels. Wearing a torn shiny red vinyl mini dress. Holding a half-empty bottle of pink champagne. Expression: giggling, vacant joy, tongue out, looking at the camera with total lack of awareness. Motion blur, city neon light trails, night atmosphere.
 ```
 
 ---
@@ -213,17 +211,17 @@ Candid night photography, blurry movement. Sacha Massacre facial features, makeu
 
 ### 14.1 — Bubblegum Princess (Without Bubblegum)
 ```
-Fantasy fashion photography. Sacha Massacre facial features, porcelain skin. Long cherry red hair tied in two massive voluminous pigtails with silk ribbons. Wearing a shiny pink vinyl ballgown with a massive crinoline, ultra tight corset waist. White lace stockings, clear platform heels. Standing in a garden of giant crystal flowers. Expression: vacant wonder, eyes wide, lips parted in a ditzy smile. Pastel pink and lavender sky, magical glowing atmosphere.
+Fantasy fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, porcelain skin. Long cherry red hair tied in two massive voluminous pigtails with silk ribbons. Wearing a shiny pink vinyl ballgown with a massive crinoline, ultra tight corset waist. White lace stockings, clear platform heels. Standing in a garden of giant crystal flowers. Expression: vacant wonder, eyes wide, lips parted in a ditzy smile. Pastel pink and lavender sky, magical glowing atmosphere.
 ```
 
 ### 14.2 — Dark Bimbo Empress
 ```
-Cinematic fashion photography. Sacha Massacre facial features, cold contour, aggressive bimbo makeup. Long cherry red hair past waist. Wearing a floor-length shiny black PVC gown with a high collar and massive shoulder pads. Gold platform heels 11 inches. Seated on a throne of obsidian and neon. Holding a gold staff with a pink diamond. Expression: vacant boredom, chin on hand, looking down at the camera with royal vapidness. Dark palace interior, magenta flame torches, dramatic shadows.
+Cinematic fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, cold contour, aggressive bimbo makeup. Long cherry red hair past waist. Wearing a floor-length shiny black PVC gown with a high collar and massive shoulder pads. Gold platform heels 11 inches. Seated on a throne of obsidian and neon. Holding a gold staff with a pink diamond. Expression: vacant boredom, chin on hand, looking down at the camera with royal vapidness. Dark palace interior, magenta flame torches, dramatic shadows.
 ```
 
 ### 14.3 — Galactic Bimbo Starlet
 ```
-Sci-fi fashion photography. Sacha Massacre facial features, glowing siren eyes. Long cherry red hair. Wearing a metallic silver latex bodysuit, ultra tight, with glowing pink neon trims. Exaggerated hourglass silhouette. Standing on a balcony overlooking a futuristic sci-fi city with flying cars. Clear platform heels with glowing bases. Expression: vacant amazement, mouth open, finger on lip. Night setting with multiple moons, purple neon city lights.
+Sci-fi fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, glowing siren eyes. Long cherry red hair. Wearing a metallic silver latex bodysuit, ultra tight, with glowing pink neon trims. Exaggerated hourglass silhouette. Standing on a balcony overlooking a futuristic sci-fi city with flying cars. Clear platform heels with glowing bases. Expression: vacant amazement, mouth open, finger on lip. Night setting with multiple moons, purple neon city lights.
 ```
 
 ---
@@ -232,7 +230,7 @@ Sci-fi fashion photography. Sacha Massacre facial features, glowing siren eyes. 
 
 ### 15.1 — The Mirror Seduction
 ```
-High-end fashion photography. Sacha Massacre facial features, eyes fixated on her own reflection in a massive gold-framed mirror. Long cherry red hair. Wearing a translucent pink vinyl robe that leaves little to the imagination. Leopard nails touching the glass, tracing her own lips. Expression: total self-obsession, vacant pupils, a soft dazed smile. Luxury boudoir setting, warm backlight, pink neon reflections on the mirror surface. High plastic gloss texture.
+High-end fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, eyes fixated on her own reflection in a massive gold-framed mirror. Long cherry red hair. Wearing a translucent pink vinyl robe that leaves little to the imagination. Leopard nails touching the glass, tracing her own lips. Expression: total self-obsession, vacant pupils, a soft dazed smile. Luxury boudoir setting, warm backlight, pink neon reflections on the mirror surface. High plastic gloss texture.
 ```
 
 ### 15.2 — Infinite Bimbo Loop
@@ -242,7 +240,7 @@ Surreal editorial photography. Sacha Massacre facial features. Standing between 
 
 ### 15.3 — Lipstick Trace
 ```
-Close-up fashion photography. Sacha Massacre facial features, focused on the face. She is leaning against a mirror, her glossy red lips touching it, leaving a perfect print. Long cherry red hair framing her face. Expression: eyes rolled back slightly in narcissistic bliss, vacant and beautiful. Leopard nails visible holding her own face. Soft focus on the background, sharp detail on the lipstick texture and the vinyl collar around her neck.
+Close-up fashion photography. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, focused on the face. She is leaning against a mirror, her glossy red lips touching it, leaving a perfect print. Long cherry red hair framing her face. Expression: eyes rolled back slightly in narcissistic bliss, vacant and beautiful. Leopard nails visible holding her own face. Soft focus on the background, sharp detail on the lipstick texture and the vinyl collar around her neck.
 ```
 
 ---
@@ -261,7 +259,7 @@ Fashion photography, low angle. Sacha Massacre facial features. Seated on a lite
 
 ### 16.3 — Frequency Dazed
 ```
-Cinematic wide shot. Sacha Massacre facial features. Standing in the center of a circular room with massive speakers. Wearing a rigid, structural corset made of translucent red PVC and platform heels 11 inches. She is perfectly still. Expression: lobotomized peace, eyes closed, a faint vapid smile. Visible sound waves ripple through the air (visual effect). Magenta and dark violet color palette. The texture of the PVC looks crystalline and sharp.
+Cinematic wide shot. bimbofied facial features, glowing eyes. center of a circular room with massive speakers. Wearing a rigid, structural corset made of translucent red PVC and platform heels 11 inches. She is perfectly still. Expression: lobotomized peace, eyes closed, a faint vapid smile. Visible sound waves ripple through the air (visual effect). Magenta and dark violet color palette. The texture of the PVC looks crystalline and sharp.
 ```
 
 ---
@@ -299,9 +297,295 @@ Surreal artistic photography. Sacha Massacre facial features. She is standing un
 
 ### 18.3 — Champagne & PVC
 ```
-Paparazzi-style photography, high flash. Sacha Massacre facial features. Seated in the back of a luxury limousine. Wearing a red vinyl dress that is so tight it looks like it's painted on. She is accidentally spilling pink champagne over her chest. Expression: a giggling, mindless laugh, eyes closed, total lack of care or awareness. Flash flares, bokeh city lights through the limo window, disorganized luxury.
+Paparazzi-style photography, high flash. bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes, oval elongated face. Seated in the back of a luxury limousine. Wearing a red vinyl dress that is so tight it looks like it's painted on. She is accidentally spilling pink champagne over her chest. Expression: a giggling, mindless laugh, eyes closed, total lack of care or awareness. Flash flares, bokeh city lights through the limo window, disorganized luxury.
 ```
 
 ---
 
-*Archivo Master — Edición Bimbo Pro — Finalizado 20/03/2026* 🫦🍒👠💅✨
+## ☕ SERIE 19: High Society Tea
+### 19.1 — Etiquette Failure
+```
+High-end fashion photography. bimbofied doll facial features, cherry red hair. Seated at a tea table with fine china. Wearing a metallic pink latex dress with a white lace collar. Holding a tea cup with pinky finger extended 5cm nails, looking confused. Expression: vacant stare at a macaroon, mouth slightly open. Bright garden sunlight, soft focus greenery.
+```
+### 19.2 — Porcelain & PVC
+```
+Editorial photography. bimbofied doll facial features. Posing with a silver tea set. Wearing a shiny white vinyl corset and mini skirt. Expression: vacant perfection, chin up, eyes wide. Luxury hotel interior, marble surfaces, soft reflections.
+```
+### 19.3 — Sugar High
+```
+Candid-style photography. bimbofied doll facial features. Eating a tray of pink cupcakes. Wearing a red vinyl bodysuit. Expression: eyes rolled back in sugary bliss, pink frosting on glossy lips. High key lighting, vibrant pink colors.
+```
+
+---
+
+## 🧖‍♀️ SERIE 20: VIP Spa & Beauty
+### 20.1 — Mud Mask PVC
+```
+Surreal fashion photography. bimbofied doll facial features. Face covered in pink mud mask, except for huge glossy lips. Wearing a shiny black vinyl robe open to show cleavage. Expression: unblinking vacant stare. Luxury spa background, steam, ambient purple lighting.
+```
+### 20.2 — Cucumber Eyes Glitch
+```
+Surreal photography. bimbofied doll facial features. Lying on a massage table with cucumber slices over eyes. Wearing a metallic silver latex bikini. Expression: frozen ditzy smile. Soft zen lighting, candles, pink neon accent.
+```
+### 20.3 — Salon Throne
+```
+Fashion photography. bimbofied doll facial features. Seated in a high-end salon chair, multiple hands styling cherry red hair. Wearing a shiny pink PVC cape. Expression: narcissistic trance, looking at own reflection. Bright salon lights, mirrors everywhere.
+```
+
+---
+
+## 🛥️ SERIE 21: Yacht Life
+### 21.1 — Captain's Bimbo
+```
+Golden hour photography. bimbofied doll facial features. Standing at the yacht helm holding a steering wheel. Wearing a white vinyl sailor-style bikini and clear 11-inch heels. Expression: vacant gaze at the horizon, mouth slightly open. Ocean background, lens flare, luxury deck.
+```
+### 21.2 — Sun Deck Gloss
+```
+Fashion photography. bimbofied doll facial features. Lying on a yacht deck, body coated in tanning oil. Wearing a metallic gold latex micro bikini. Expression: eyes closed, head tilted back, vapid bliss. High sun, crystalline water, sharp shadows.
+```
+### 21.3 — Anchor Weight
+```
+Editorial photography. bimbofied doll facial features. Posing next to a large chrome anchor. Wearing a navy blue vinyl bodysuit. Expression: leaning on anchor, looking exhausted from doing nothing, vacant coquette. Marine setting, soft blue tones.
+```
+
+---
+
+## 🎨 SERIE 22: Art Gallery (Confusion)
+### 22.1 — Abstract Non-Sense
+```
+Gallery photography. bimbofied doll facial features. Standing in front of a giant abstract red painting. Wearing an ultra-tight black PVC dress. Expression: head tilted 45 degrees, finger on lip, eyes wide with total lack of comprehension. Minimalist white gallery, sharp tracking lights.
+```
+### 22.2 — Statue or Asset?
+```
+Surreal photography. bimbofied doll facial features. Posing perfectly still next to a white marble statue. Wearing a shiny white latex catsuit. Expression: frozen vacant stare. Modern art museum, industrial lighting, high contrast.
+```
+### 22.3 — Installation Object
+```
+Fashion photography. bimbofied doll facial features. Seated inside a modern art installation made of pink neon tubes. Wearing metallic pink vinyl. Expression: mindless joy, looking at the lights. Dark gallery, vibrant glow, geometric shadows.
+```
+
+---
+
+## 📚 SERIE 23: Library Glitch
+### 23.1 — Reading Upside Down
+```
+Candid photography. bimbofied doll facial features. Seated in a library, holding a thick book upside down. Wearing a red vinyl sweater and plaid mini skirt. Expression: intense ditzy focus, tongue out. Old library background, wooden shelves, soft dust motes.
+```
+### 23.2 — Bookshelf Pose
+```
+Fashion photography. bimbofied doll facial features. Leaning against a bookshelf, pushing books over with hips. Wearing shiny black PVC pencils skirt. Expression: looking at camera, mouth open, hand in hair. Moody library lighting, leather textures.
+```
+### 23.3 — The Magazine Rack
+```
+Fashion photography, bookstore interior. bimbofied doll facial features. Standing in front of a magazine rack, pointing at her own face on a cover. Wearing a shiny white vinyl jacket and pink skirt. Expression: wide-eyed vacant surprise, "Is that me?". Warm shop lighting, rows of colorful books.
+```
+
+---
+
+## 🍳 SERIE 24: Cooking Disaster
+### 24.1 — Flour Bomb
+```
+Action photography. bimbofied doll facial features. Covered in white flour in a luxury kitchen. Wearing a hot pink vinyl apron over a bikini. Expression: giggling mindless mess, eyes closed. High end kitchen, pink appliances, soft lighting.
+```
+### 24.2 — Burning Toast
+```
+Candid photography. bimbofied doll facial features. Staring at a smoking toaster. Wearing a red latex negligee. Expression: confused pout, tilted head. Modern kitchen, morning light, smoke effect.
+```
+### 24.3 — Plastic Chef
+```
+Fashion photography. bimbofied doll facial features. Holding a giant whisk as if it were a scepter. Wearing shiny white vinyl chef-style mini dress. Expression: vacant pride. Professional kitchen lighting, chrome surfaces.
+```
+
+---
+
+## 🧼 SERIE 25: Car Wash Diva
+### 25.1 — Soap Foam Fun
+```
+Action fashion photography. bimbofied doll facial features. Covered in soap suds next to a luxury pink car. Wearing a white vinyl bikini. Expression: laughing, mouth open, vacant joy. Outdoor sunlight, water droplets, rainbow refractions.
+```
+### 25.2 — Hose Mishap
+```
+Candid photography. bimbofied doll facial features. Accidnetally spraying self with a water hose. Wearing metallic blue latex. Expression: shocked ditzy face, eyes wide. High gloss car paint, wet pavement, bright sun.
+```
+### 25.3 — Wax & Shine
+```
+Editorial photography. bimbofied doll facial features. Polishing a car hood with a pink cloth. Wearing shiny black PVC. Expression: narcissistic reflection focus. Studio car wash setting, neon lights.
+```
+
+---
+
+## 🎾 SERIE 26: Tennis Glam
+### 26.1 — Court Side Vacancy
+```
+Sports fashion photography. bimbofied doll facial features. Leaning on a tennis net. Wearing a white vinyl tennis skirt and crop top. Expression: vacant stare at the ball, mouth open. Bright outdoor court, blue sky, sharp shadows.
+```
+### 26.2 — Racket Malfunction
+```
+Candid photography. bimbofied doll facial features. Holding a tennis racket by the wrong end. Wearing pink latex activewear. Expression: confused shrug, vapid smile. Green tennis court, soft focus.
+```
+### 26.3 — Umpire Diva
+```
+Fashion photography. bimbofied doll facial features. Seated on a high umpire chair. Wearing shiny red PVC and oversized sunglasses. Expression: looking down at camera, chin raised. Stadium lighting, dramatic angle.
+```
+
+---
+
+## ❄️ SERIE 27: Ski Resort PVC
+### 27.1 — Snow Bimbo
+```
+Winter fashion photography. bimbofied doll facial features. Standing in deep snow. Wearing a white vinyl puffer jacket open over a metallic pink bikini. Expression: shivering but pretty, vacant smile. Alp landscape, blue hour, soft snow glow.
+```
+### 27.2 — Lodge Fireside
+```
+Cozy fashion photography. bimbofied doll facial features. Seated by a fireplace. Wearing a red latex bodysuit and furry boots. Expression: staring blankly at the flames, gloss reflecting fire. Warm lodge interior, wood textures.
+```
+### 27.3 — Ice Sculpture
+```
+Surreal photography. bimbofied doll facial features. Posing next to an ice sculpture of herself. Wearing clear vinyl. Expression: frozen match. Night resort setting, blue and pink LED lights.
+```
+
+---
+
+## 🎰 SERIE 28: Casino Royale
+### 28.1 — Roulette Luck
+```
+Night photography. bimbofied doll facial features. Leaning over a roulette table. Wearing a floor-length red vinyl gown, plunging neckline. Expression: eyes wide with excitement, mouth open, total lack of strategy. Luxury casino, green felt, gold accents.
+```
+### 28.2 — Slot Machine Trance
+```
+Candid photography. bimbofied doll facial features. Staring blankly at a flashing slot machine. Wearing shiny gold latex. Expression: hypnotic vacancy, mouth slightly open. Neon casino floor, multiple reflections.
+### 28.3 — Poker Bluff
+```
+Fashion photography. bimbofied doll facial features. Holding all cards facing the wrong way. Wearing shiny black PVC. Expression: confident ditzy grin. Smokey room, warm overhead light.
+```
+
+---
+
+## 🎤 SERIE 29: Music Industry Asset
+### 29.1 — Studio Booth Blank
+```
+Music photography. bimbofied doll facial features. Wearing oversized headphones. Wearing a metallic pink vinyl bodysuit. Expression: eyes closed, mouth open as if singing but no sound. Professional recording studio, purple ambient light.
+```
+### 29.2 — Album Cover Diva
+```
+Editorial photography. bimbofied doll facial features. Lying on a bed of vinyl records. Wearing a red latex dress. Expression: vacant stare at camera. High fashion lighting, high contrast.
+```
+### 29.3 — Autograph Confusion
+```
+Candid photography. bimbofied doll facial features. Trying to sign a poster with the cap still on the pen. Wearing shiny white vinyl. Expression: confused pout. Backstage setting, warm lights.
+```
+
+---
+
+## 🎬 SERIE 30: Cinema Premiere
+### 30.1 — Red Carpet Flash
+```
+Paparazzi photography. bimbofied doll facial features. Standing on a red carpet. Wearing a metallic silver latex gown. Expression: blinded vacant smile. Hundreds of flashlights, crowd blur.
+```
+### 30.2 — Popcorn Spill
+```
+Candid photography. bimbofied doll facial features. Seated in a velvet cinema seat, spilling popcorn on cleavage. Wearing red vinyl. Expression: giggling mindless laugh. Cinematic blue lighting.
+```
+### 30.3 — Movie Poster Copy
+```
+Fashion photography. bimbofied doll facial features. Posing next to her own movie poster. Wearing shiny black PVC. Expression: comparing herself to the poster. Luxury lobby, gold frames.
+```
+
+---
+
+## 🍟 SERIE 31: Late Night Snack
+### 31.1 — Burger & Latex
+```
+Candid photography. bimbofied doll facial features. Eating a burger in a diner booth. Wearing a pink vinyl crop top. Expression: messy mindless joy, ketchup on gloss. Retro diner, neon signs, 4am atmosphere.
+```
+### 31.2 — Fries Deep Dive
+```
+Close-up photography. bimbofied doll facial features. Dipping a fry into a milkshake. Wearing shiny red PVC. Expression: intense ditzy focus. High key lighting.
+```
+### 31.3 — Pizza Bed
+```
+Fashion photography. bimbofied doll facial features. Lying on a bed with pizza boxes. Wearing metallic gold latex lingerie. Expression: vacant pleasure. Soft bedroom lighting, pink sheets.
+```
+
+---
+
+## 💻 SERIE 32: Tech Support Nightmare
+### 32.1 — The Pink Monitor Stare
+```
+Candid photography. bimbofied doll facial features. Staring blankly at a pink vintage computer monitor. Wearing a white vinyl bodysuit. Expression: total non-comprehension, head tilted, finger on chin. Luxury pink office setting, fluffy desk accessories.
+```
+### 32.2 — Keyboard Cleaning
+```
+Action photography. bimbofied doll facial features. Spraying perfume on a keyboard. Wearing metallic pink latex. Expression: proud ditzy smile. Office setting, soft focus.
+```
+### 32.3 — Phone as a Mouse
+```
+Fashion photography. bimbofied doll facial features. Holding a computer mouse like a cell phone. Wearing shiny black PVC. Expression: "Hello?". Professional luxury office, glass surfaces, soft pink lighting.
+```
+
+---
+
+## 📱 SERIE 33: Influencer Life
+### 33.1 — Ring Light Trance
+```
+POV photography. bimbofied doll facial features. Looking directly into a ring light. Wearing a red vinyl bikini. Expression: mindless narcissistic stare. Soft beauty lighting, circular catchlights in eyes.
+```
+### 33.2 — Unboxing Empty Box
+```
+Candid photography. bimbofied doll facial features. Excitedly opening an empty designer box. Wearing metallic silver latex. Expression: wide smile, vacant joy. Luxury bedroom background.
+```
+### 33.3 — Live Stream Glitch
+```
+Sreencap-style photography. bimbofied doll facial features. Mid-sentence during a live stream. Wearing pink vinyl. Expression: blank frozen face. UI elements overlay, heart emojis.
+```
+
+---
+
+## 🐩 SERIE 34: Pet Care (Grooming)
+### 34.1 — Pink Poodle Matching
+```
+Fashion photography. bimbofied doll facial features. Holding a pink dyed poodle. Wearing a matching pink vinyl mini dress. Expression: vacant twin-like smile. Studio pink background.
+```
+### 34.2 — Leash Confusion
+```
+Candid photography. bimbofied doll facial features. Wrapping a dog leash around herself. Wearing metallic gold latex. Expression: confused mindless tangles. Sunny park, soft focus trees.
+### 34.3 — Pet Spa Diva
+```
+Editorial photography. bimbofied doll facial features. Giving a dog a bath in a crystal tub. Wearing shiny white vinyl. Expression: mindless joy, bubbles everywhere. Luxury bathroom.
+```
+
+---
+
+## 🌸 SERIE 35: Garden Party
+### 35.1 — Flower Petal Rain
+```
+Action photography. bimbofied doll facial features. Standing under falling pink petals. Wearing a floral print vinyl dress. Expression: vacant ecstasy, mouth open. Sunny garden, soft bokeh.
+```
+### 35.2 — Hedge Maze Lost
+```
+Wide angle photography. bimbofied doll facial features. Standing in a green hedge maze. Wearing red latex and clear 11-inch heels. Expression: worried but pretty, finger on lip. Green labyrinth, overhead sun.
+```
+### 35.3 — Picnic PVC
+```
+Fashion photography. bimbofied doll facial features. Seated on a checkered blanket. Wearing metallic pink vinyl. Expression: staring at an ant, vacant fascination. Green grass, picnic basket.
+```
+
+---
+
+## 🐎 SERIE 36: Equestrian Glam
+### 36.1 — Pink Saddle Diva
+```
+Fashion photography. bimbofied doll facial features. Seated on a white horse with a pink saddle. Wearing a shiny black vinyl riding suit, ultra tight. Expression: chin up, vacant dignity. Countryside sunset, golden light.
+```
+### 36.2 — Stable Gloss
+```
+Editorial photography. bimbofied doll facial features. Leaning against a stable door. Wearing red latex leggings and a white PVC jacket. Expression: mindless boredom, playing with a crop. Rustic wood textures, sharp lighting.
+```
+### 36.3 — Trophy Girl
+```
+Fashion photography. bimbofied doll facial features. Holding a gold trophy. Wearing metallic gold vinyl. Expression: vacant pride, kissing the trophy. Grandstand background, bright sun.
+```
+
+---
+
+*Archivo Master — Edición Bimbo Pro — Finalizado 22/03/2026* 👄🍒👠💅✨

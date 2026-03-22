@@ -1,4 +1,4 @@
-# 👁️ CANON VISUAL HELENA - Ultra Detallado
+# 👁️ CANON VISUAL ELE - Ultra Detallado
 
 > **Modelo de Referencia:** Bimbo Aesthetic Plástica  
 > **Versión:** 2.0  
