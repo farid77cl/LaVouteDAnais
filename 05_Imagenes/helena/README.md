@@ -564,6 +564,14 @@
 
 ---
 
+## 🕷️ Look 87: Vinyl Flight Attendant
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![01_standing.png](look87_vinyl_flight_attendant/01_standing.png) | ![02_seated.png](look87_vinyl_flight_attendant/02_seated.png) | ![04_closeup.png](look87_vinyl_flight_attendant/04_closeup.png) | ![03_back.png](look87_vinyl_flight_attendant/03_back.png) | ![05_ditzy.png](look87_vinyl_flight_attendant/05_ditzy.png) |
+
+---
+
 ## 🕷️ Looks Archives
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -572,4 +580,4 @@
 
 ---
 
-*Galería generada automáticamente - 20/03/2026* 🦇
+*Galería generada automáticamente - 22/03/2026* 🦇

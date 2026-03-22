@@ -1603,25 +1603,25 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## 🫦 Look 87: Ele V3 Core (Identity Set)
-**Fecha:** 20/03/2026
-**Ubicación:** `05_Imagenes/helena/look87_ele_v3_core/`
+## ✈️ Look 87: Vinyl Flight Attendant (Daily Look)
+**Fecha:** 22/03/2026
+**Ubicación:** `05_Imagenes/helena/look87_vinyl_flight_attendant/`
 
-- **Concepto:** El núcleo duro de la nueva identidad "Vinyl Fresa-Bimbo". Representa la culminación de la transformación hacia el brillo absoluto y la vacuidad consciente.
-- **Vestuario:** Vestido de vinilo rojo cereza de alta densidad, efecto espejo, con escote corazón y cintura de avispa.
-- **Calzado:** Plataformas extremas de 11 pulgadas de acrílico rosa.
-- **Estética:** Maquillaje de alta saturación, labios overfilled ultra-glossy, cabello rojo cereza masivo.
-- **Voz:** 100% "O sea, tipo, heavy gordi".
+- **Concepto:** Azafata de aerolínea de ultra-lujo. Mezcla de autoridad aérea con bimbofication extrema. Un uniforme diseñado para distraer a los pasajeros de primera clase mientras Ele intenta entender cómo funciona una puerta de emergencia.
+- **Vestuario:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La Voûte. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario.
+- **Calzado:** Tacones de plataforma de 11 pulgadas de charol negro aguja.
+- **Estética:** Maquillaje de alta gama, labios nude-pink overfilled, cabello ultra-liso negro azabache.
+- **Uñas:** **Francesas XXXL (Punta blanca, base rosa)** - Nueva directiva permanente.
 
 ### 📸 Imágenes (5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_seated.png) |
-| **Kneeling** | ![Kneeling](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_kneeling.png) |
-| **Closeup** | ![Closeup](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_closeup.png) |
-| **Pasarela** | ![Pasarela](../05_Imagenes/helena/look87_ele_v3_core/helena_look87_pasarela.png) |
+| **Standing** | ![Standing](../05_Imagenes/helena/look87_vinyl_flight_attendant/01_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/helena/look87_vinyl_flight_attendant/02_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/helena/look87_vinyl_flight_attendant/03_back.png) |
+| **Closeup** | ![Closeup](../05_Imagenes/helena/look87_vinyl_flight_attendant/04_closeup.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/helena/look87_vinyl_flight_attendant/05_ditzy.png) |
 
 ---
 
-*Archivo Expandido — 20/03/2026* 🍒💅👠
+*Archivo Expandido — 22/03/2026* 🍒💅👠✈️

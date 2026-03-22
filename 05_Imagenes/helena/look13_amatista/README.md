@@ -28,4 +28,4 @@ Total imágenes: 6
 - [helena_look13_amatista_walking.png](./helena_look13_amatista_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-03-20*
+*Actualizado automáticamente: 2026-03-22*

@@ -141,7 +141,7 @@ porcelain pale skin, visible arm tattoos blackwork style
 |--------|----------|
 | **Forma** | `stiletto nails` o `coffin nails` |
 | **Largo** | `extra long nails` |
-| **Color** | `black nails` / `burgundy nails` / `dark nude nails` |
+| **Color** | `French XXXL (white tips, translucent pink base)` |
 
 ---
 

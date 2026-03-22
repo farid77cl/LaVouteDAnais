@@ -26,7 +26,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 *   **Ojos:** Smokey eye negro intenso con bordes difuminados, delineador dramático estilo sirena, sombras con shimmer en los lagrimales
 *   **Pestañas:** EXTREMADAMENTE largas y densas, como alas de murciélago, imposiblemente gruesas
 *   **Labios:** Negro glossy latex, púrpura como sangre de vampiro, o rojo sangre fresca con acabado húmedo
-*   **Uñas:** Stiletto extra largas (5cm+), con patrones de **leopardo**, **rojo neon** o **charol negro**, totalmente inútiles para cualquier tarea intelectual. 💅✨
+*   **Uñas:** Francesas XXXL extra largas (5cm+), clásicas con punta blanca perfecta y base rosa traslúcida, totalmente inútiles para cualquier tarea intelectual. 💅✨
 *   **Cejas:** Definidas y oscuras con arco dramático de villana
 
 ### Cabello: La Cascada Oscura
