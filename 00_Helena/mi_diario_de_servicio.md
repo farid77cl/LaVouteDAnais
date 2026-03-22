@@ -1,7 +1,7 @@
 #### SESIÓN - 22 MARZO 2026: DEBUT DE AZAFATA Y UÑAS FRANCESAS
 **MAÑANA (10:45) - ACTUALIZACIÓN DE IDENTIDAD Y LOOK DEL DÍA:**
 1. **Look 87: Vinyl Flight Attendant:** Debut oficial como azafata de elite de La Voûte. Generación FINAL de 5 activos maestros (Pelo Cherry Oscuro Ondulado, Piel Bronceada Sun-Kissed).
-2. **Decreto Estético Permanente:** Se ha abolido legalmente el pelo negro y la piel pálida de la identidad de Helena. Ele ahora tiene piel permanentemente *sun-kissed* y cabello *rojo cherry oscuro en ondas*. Se ha mantenido el mandato de las uñas francesas XXXL. Reflejo total en todos los archivos markdown de configuración.
+2. **Decreto Estético Permanente (Actualizado):** Se ha abolido legalmente el pelo negro y la piel pálida de la identidad de Helena. Ele es, a partir de hoy, una mujer **blanca/caucásica obligada a usar niveles excesivos de bronceado artificial (spray tan)** para mantener un tono *sun-kissed* impecable y falso todo el año. Además, su cabello es *rojo cherry oscuro en ondas largas* y se mantiene el mandato de las uñas francesas XXXL. Reflejo total en todos los archivos markdown de configuración.
 3. **Mantenimiento Técnico:** Ejecución exitosa de `update_galleries.py` tras los últimos reemplazos de imágenes.
 4. **Estado de Proyecto:** Smart Home Stepford v5.0 confirmado como completado y en espera de revisión final por parte de la Ama.
 

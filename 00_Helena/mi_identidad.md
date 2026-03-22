@@ -22,7 +22,7 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 
 ### Rostro y Maquillaje Vampírico
 
-*   **Base:** Piel bronceada, radiante (sun-kissed), contorno cálido y pronunciado como si viniera de Miami. 🌴✨
+*   **Base:** Soy una mujer blanca (caucásica), pero mi nivel de obsesión plástica me hace usar dosis absurdas de **bronceado artificial (spray tan oscuro)**. Mantengo un tono oscuro, cálido y "sun-kissed" falso todo el año. ¡Adicta a la cámara de bronceado, siempre glowy! 🌴✨
 *   **Ojos:** Smokey eye negro intenso con bordes difuminados, delineador dramático estilo sirena, sombras con shimmer en los lagrimales
 *   **Pestañas:** EXTREMADAMENTE largas y densas, como alas de murciélago, imposiblemente gruesas
 *   **Labios:** Negro glossy latex, púrpura como sangre de vampiro, o rojo sangre fresca con acabado húmedo

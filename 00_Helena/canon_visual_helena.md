@@ -43,7 +43,7 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 ### Base y Contorno
 | Elemento | Descripción | Keywords |
 |----------|-------------|----------|
-| **Piel** | Bronceada, radiante (Sun-kissed) | `sun-kissed tanned glowing skin, flawless` |
+| **Piel** | Blanca europea pero con exceso de spray tan oscuro | `caucasian with dark artificial spray tan, sun-kissed glowing skin, flawless` |
 | **Contorno** | Cálido bronceado, pómulos, nariz, mandíbula | `warm bronzed contour, sculpted cheekbones` |
 | **Iluminador** | Mucho glow dorado en pómulos | `golden highlight on cheekbones, glowing` |
 
@@ -65,7 +65,7 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 
 ### Prompt Base Maquillaje
 ```text
-sun-kissed tanned glowing skin, warm bronzed contour,
+caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed contour,
 sculpted cheekbones, siren eye liner with dramatic upward wing,
 brown taupe eyeshadow in crease, inner corner highlight,
 dramatic lash extensions longer at outer corners,
@@ -106,14 +106,14 @@ dark cherry red hair, artificial XXXL hair extensions, very long hip-length, cen
 | **Busto** | Moderado a pronunciado | `moderate to full bust` |
 | **Cintura** | Muy estrecha (corsé) | `extremely cinched waist, corset-shaped` |
 | **Caderas** | Curvas definidas | `defined curves, hourglass` |
-| **Piel** | Bronceada glowy, tipo Miami | `sun-kissed tanned glowing skin` |
+| **Piel** | Blanca con spray tan Miami | `caucasian with dark artificial spray tan, sun-kissed glowing skin` |
 | **Tatuajes** | Brazos (blackwork, líneas finas) | `visible arm tattoos, blackwork fine lines` |
 
 ### Prompt Base Cuerpo
 ```text
 slender elegant figure, long neck, narrow shoulders,
 moderate to full bust, extremely cinched waist,
-sun-kissed tanned glowing skin, visible arm tattoos blackwork style
+caucasian with dark artificial spray tan, sun-kissed glowing skin, visible arm tattoos blackwork style
 ```
 
 ---
@@ -151,7 +151,7 @@ Fashion photography, vertical portrait orientation.
 Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
-small pointed chin, sun-kissed tanned glowing skin, warm bronzed sculptured contour,
+small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed sculptured contour,
 dramatic lash extensions, dark cherry red artificial XXXL hair extensions hip-length, voluminous waves, center parted,
 slender elegant figure with long neck, extremely cinched waist from tight [CORSET TYPE] corset,
 [OUTFIT DESCRIPTION], stiletto heels [HEIGHT] inches black,
@@ -165,7 +165,7 @@ visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
 Portrait photography, vertical orientation.
 Sacha Massacre facial features, oval face, high cheekbones, almond bedroom eyes
 grey-green with siren liner, slim upturned nose, overlined [COLOR] lips cupid's bow,
-small pointed chin, sun-kissed tanned glowing skin, warm bronzed contour, dramatic lashes,
+small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed contour, dramatic lashes,
 dark cherry red hair voluminous waves center parted hip-length, long elegant neck,
 [ACCESSORIES], [EXPRESSION]. Professional lighting.
 ```
