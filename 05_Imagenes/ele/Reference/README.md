@@ -25,6 +25,7 @@ Explora las secciones de esta categoría:
 
 - ✅ [**Ditzy Tests**](./ditzy_tests/README.md)
 - ✅ [**Look87 Evolutions**](./look87_evolutions/README.md)
+- ✅ [**Look88 Chrome Asset**](./look88_chrome_asset/README.md)
 
 ---
 ## 📜 Lista de Archivos
