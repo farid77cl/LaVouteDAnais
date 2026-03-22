@@ -43,7 +43,7 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 ### Base y Contorno
 | Elemento | Descripción | Keywords |
 |----------|-------------|----------|
-| **Piel** | Blanca europea pero con exceso de spray tan oscuro | `caucasian with dark artificial spray tan, sun-kissed glowing skin, flawless` |
+| **Piel** | Porcelana, blanca, extremadamente pálida y brillante, textura de plástico/vinilo suave. Tono bronceado descartado. | `porcelain skin, smooth plastic texture, flawless` |
 | **Contorno** | Cálido bronceado, pómulos, nariz, mandíbula | `warm bronzed contour, sculpted cheekbones` |
 | **Iluminador** | Mucho glow dorado en pómulos | `golden highlight on cheekbones, glowing` |
 
@@ -65,7 +65,7 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 
 ### Prompt Base Maquillaje
 ```text
-caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed contour,
+porcelain skin, smooth plastic texture, warm bronzed contour,
 sculpted cheekbones, siren eye liner with dramatic upward wing,
 brown taupe eyeshadow in crease, inner corner highlight,
 dramatic lash extensions longer at outer corners,
@@ -146,10 +146,10 @@ slender eEl canon visual de Helena está estructurado alrededor de una estética
 ### Full Body
 ```text
 Fashion photography, vertical portrait orientation.
-bimbofied doll facial features, oval face, high prominent cheekbones,
+porcelain skin, smooth plastic texture, bimbofied doll facial features., oval face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
-small pointed chin, caucasian with dark artificial spray tan, sun-kissed glowing skin, warm bronzed sculptured contour,
+small pointed chin, warm bronzed sculptured contour,
 dramatic lash extensions, dark cherry red artificial XXXL hair extensions hip-length, voluminous waves, center parted,
 slender elegant figure with long neck, extremely cinched waist from tight [CORSET TYPE] corset,
 [OUTFIT DESCRIPTION], stiletto heels [HEIGHT] inches black,

@@ -20,6 +20,13 @@ Total imágenes: 9
 
 ---
 
+## 📁 Subcarpetas / Colecciones
+Explora las secciones de esta categoría:
+
+- ✅ [**Ditzy Tests**](./ditzy_tests/README.md)
+- ✅ [**Look87 Evolutions**](./look87_evolutions/README.md)
+
+---
 ## 📜 Lista de Archivos
 - [custom_helena_general_s011_canon_test_fullbody.png](./custom_helena_general_s011_canon_test_fullbody.png)
 - [custom_helena_general_s012_canon_test_portrait.png](./custom_helena_general_s012_canon_test_portrait.png)
