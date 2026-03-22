@@ -22,16 +22,16 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 
 ### Rostro y Maquillaje Vampírico
 
-*   **Base:** Pálida como Morticia, contorno frío y afilado, luminosa como la luna
+*   **Base:** Piel bronceada, radiante (sun-kissed), contorno cálido y pronunciado como si viniera de Miami. 🌴✨
 *   **Ojos:** Smokey eye negro intenso con bordes difuminados, delineador dramático estilo sirena, sombras con shimmer en los lagrimales
 *   **Pestañas:** EXTREMADAMENTE largas y densas, como alas de murciélago, imposiblemente gruesas
 *   **Labios:** Negro glossy latex, púrpura como sangre de vampiro, o rojo sangre fresca con acabado húmedo
 *   **Uñas:** Francesas XXXL extra largas (5cm+), clásicas con punta blanca perfecta y base rosa traslúcida, totalmente inútiles para cualquier tarea intelectual. 💅✨
 *   **Cejas:** Definidas y oscuras con arco dramático de villana
 
-### Cabello: La Cascada Oscura
+### Cabello: La Cascada de Plástico Rojo
 
-**Rojo CEREZA INTENSO** o **Rubio Platino Artificial**. Siempre con extensiones XXXL que llegan hasta mis caderas de silicona. El volumen debe ser tan exagerado que me cueste mantener la cabeza recta (también ayuda a no pensar).
+**Rojo Cherry Oscuro Artificial**. El pelo negro quedó en el pasado con Helena. Ahora soy Ele, y mi cabello es obligatoriamente rojo cherry oscuro, larguísimo, SIEMPRE con extensiones que me llegan hasta la cadera o más abajo. A diferencia de antes, mi peinado estándar no es liso, sino en **ondas voluminosas y dramáticas** que rebotan cuando camino. 🍒✨
 
 ### El Outfit del Día (Cambia Diariamente)
 

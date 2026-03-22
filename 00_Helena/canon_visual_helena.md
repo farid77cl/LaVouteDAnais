@@ -43,9 +43,9 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 ### Base y Contorno
 | Elemento | Descripción | Keywords |
 |----------|-------------|----------|
-| **Piel** | Porcelana extrema, muy pálida | `porcelain pale skin, flawless, semi-matte finish` |
-| **Contorno** | Frío (gris/marrón), pómulos, nariz, mandíbula | `cold-toned contour, sculpted cheekbones` |
-| **Iluminador** | Sutil en pómulos y arco de cupido | `subtle highlight on cheekbones` |
+| **Piel** | Bronceada, radiante (Sun-kissed) | `sun-kissed tanned glowing skin, flawless` |
+| **Contorno** | Cálido bronceado, pómulos, nariz, mandíbula | `warm bronzed contour, sculpted cheekbones` |
+| **Iluminador** | Mucho glow dorado en pómulos | `golden highlight on cheekbones, glowing` |
 
 ### Ojos
 | Elemento | Descripción | Keywords |
@@ -65,7 +65,7 @@ small pointed chin, soft defined jawline, contoured sculpted cheeks
 
 ### Prompt Base Maquillaje
 ```text
-porcelain pale flawless skin, semi-matte finish, cold-toned contour,
+sun-kissed tanned glowing skin, warm bronzed contour,
 sculpted cheekbones, siren eye liner with dramatic upward wing,
 brown taupe eyeshadow in crease, inner corner highlight,
 dramatic lash extensions longer at outer corners,
@@ -79,21 +79,19 @@ overlined full lips with defined cupid's bow
 ### Características Fijas
 | Atributo | Valor |
 |----------|-------|
-| **Color** | Negro azabache profundo, sin reflejos |
-| **Largo** | Muy largo, hasta la cintura o más |
-| **Raya** | Central, muy definida |
+| **Color** | Rojo cherry oscuro artificial (Dark Cherry Red) |
+| **Largo** | Hasta la cadera (hip-length), extensiones XXXL |
+| **Textura** | Ondas dramáticas y voluminosas obligatorias |
+| **Raya** | Central |
 
 ### Variaciones de Estilo
 | Estilo | Keywords |
 |--------|----------|
-| **Ultra lacio** | `jet black hair, ultra sleek straight, center parted, very long, shiny` |
-| **Ondulado voluminoso** | `jet black hair, voluminous waves, long, center parted, dramatic volume at roots` |
-| **Ondas suaves** | `jet black hair, soft waves, center parted, long flowing` |
+| **Ondas Canónicas** | `dark cherry red hair, artificial XXXL hair extensions, very long hip-length, voluminous waves, center parted, dramatic volume` |
 
 ### Prompt Base Cabello
 ```text
-jet black hair, very long waist-length, center parted,
-[ELEGIR: ultra sleek straight shiny / voluminous dramatic waves]
+dark cherry red hair, artificial XXXL hair extensions, very long hip-length, center parted, voluminous waves
 ```
 
 ---
@@ -108,14 +106,14 @@ jet black hair, very long waist-length, center parted,
 | **Busto** | Moderado a pronunciado | `moderate to full bust` |
 | **Cintura** | Muy estrecha (corsé) | `extremely cinched waist, corset-shaped` |
 | **Caderas** | Curvas definidas | `defined curves, hourglass` |
-| **Piel** | Porcelana, sin bronceado | `porcelain pale skin, no tan` |
+| **Piel** | Bronceada glowy, tipo Miami | `sun-kissed tanned glowing skin` |
 | **Tatuajes** | Brazos (blackwork, líneas finas) | `visible arm tattoos, blackwork fine lines` |
 
 ### Prompt Base Cuerpo
 ```text
 slender elegant figure, long neck, narrow shoulders,
 moderate to full bust, extremely cinched waist,
-porcelain pale skin, visible arm tattoos blackwork style
+sun-kissed tanned glowing skin, visible arm tattoos blackwork style
 ```
 
 ---
@@ -153,8 +151,8 @@ Fashion photography, vertical portrait orientation.
 Sacha Massacre facial features, oval elongated face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
-small pointed chin, porcelain pale flawless skin, cold-toned sculptured contour,
-dramatic lash extensions, jet black [ultra sleek/voluminous wavy] hair very long center parted,
+small pointed chin, sun-kissed tanned glowing skin, warm bronzed sculptured contour,
+dramatic lash extensions, dark cherry red artificial XXXL hair extensions hip-length, voluminous waves, center parted,
 slender elegant figure with long neck, extremely cinched waist from tight [CORSET TYPE] corset,
 [OUTFIT DESCRIPTION], stiletto heels [HEIGHT] inches black,
 black choker with crescent moon, [ADDITIONAL ACCESSORIES],
@@ -167,8 +165,8 @@ visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
 Portrait photography, vertical orientation.
 Sacha Massacre facial features, oval face, high cheekbones, almond bedroom eyes
 grey-green with siren liner, slim upturned nose, overlined [COLOR] lips cupid's bow,
-small pointed chin, porcelain skin, cold contour, dramatic lashes,
-jet black [straight/wavy] hair center parted, long elegant neck,
+small pointed chin, sun-kissed tanned glowing skin, warm bronzed contour, dramatic lashes,
+dark cherry red hair voluminous waves center parted hip-length, long elegant neck,
 [ACCESSORIES], [EXPRESSION]. Professional lighting.
 ```
 
@@ -177,7 +175,7 @@ jet black [straight/wavy] hair center parted, long elegant neck,
 ## VII. NEGATIVOS (Evitar)
 
 ```text
-Negative prompt: tan skin, bronzed, thin lips, round face, 
+Negative prompt: pale skin, white skin, thin lips, round face, 
 short hair, blonde, bangs, fringe, small eyes, thick nose,
 natural makeup, no makeup, masculine features, muscular,
 flat shoes, sneakers, casual wear
