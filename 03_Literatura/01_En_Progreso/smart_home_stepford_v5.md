@@ -500,7 +500,7 @@ No fue un quiebre dramático. No hubo llanto ni revelación. Fue más como un mu
 
 Clara se levantó del sillón. Los tacones de plataforma resonaron contra las baldosas del salón. Se miró una vez más, giró las caderas, y le soltó una sonrisa que era todo labios y nada de cerebro.
 
-—Sí, papi. Me encanta. Estoy re' bonita. ¿O no?
+—Papi... mírame bien —susurró ella, la voz arrastrada, perdiendo la dicción en el dulce pegajoso del chicle de frutilla—. Soy tu mami chula. ¿Cachái? Estoy entera prendía', como gata en celo. Papi, hazme lo que querái... dile que yo soy la que manda, dile que tú eres el que me rompe. ¡Toy' de pana, mmm! ¡Soy tu perrita, jiji!
 
 En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza revoloteando en el aire de Santiago como un incendio portátil. Daniel la miraba de reojo y sentía que el corazón le latía con la fuerza de un animal enjaulado que acaba de ser liberado.
 
