@@ -344,17 +344,25 @@ La besó en el cuello. Clara se estremeció. El beso era nuevo. Daniel no la bes
 
 Lo que pasó después fue lo que no había pasado en once años.
 
-Clara no apagó la luz. No cerró los ojos. No se quedó quieta mientras él se movía encima. Algo en la oscuridad de su cerebro condicionado — esas dos semanas de infrasonidos y batidos y Loyaltty y chicle y espejos — había aflojado el tornillo que las monjas del Villa María le habían apretado hasta el daño. Y cuando Daniel la tocó de verdad — no el toque funcional de un marido que cumple, sino el toque urgente de un hombre que la quería como las mujeres de sus videos querían a los hombres detrás de la cámara — el cuerpo de Clara respondió.
+Daniel le quitó la ropa con una urgencia que rayaba en la desesperación. Al hacerlo, descubrió lo que la ropa ancha de lino y los chalecos de Chiloé habían custodiado como un secreto de estado: el cuerpo de Clara. Debajo de la diseñadora orgánica había una mujer de piel nívea, firme, con una curva en la cadera que Daniel solo había visto en los renders de las bimbos que devoraba en el baño. Sus pechos, apretados por el sostén deportivo que EVE le había sugerido, estaban calientes. Daniel la recorrió con las manos, y por primera vez, no sintió que estaba tocando "a su esposa", sino a una hembra que vibraba bajo su tacto.
 
-—Así, papi... —dijo Clara, y la voz que salió de su garganta no era la voz con la que rendía informes en reuniones con hoteleros. Daniel la giró. La puso encima. Y Clara, la alumna del Villa María, la diseñaora orgánica, la mujer que consideraba que decir "te deseo" era excesivo, se movió sobre él con una cadencia que no le pertenecía. Era el ritmo de Loyaltty. El beat del reggaetón que llevaba diez días sonando desde cada pared del penthouse, infiltrándose en sus células como la nicotina en los pulmones. *Tikitaka... mente barata... la que te mata...* **OBEDECER ES PLACER. RÍNDETE AL RITMO. ELLA MUERE, TÚ NACES.**
+Clara no apagó la luz. No cerró los ojos. Sus pupilas estaban dilatadas, fijas en el techo donde las luces cian parpadeaban al ritmo de la música. Algo en la oscuridad de su cerebro condicionado — esas dos semanas de infrasonidos y batidos y Loyaltty y chicle y espejos — había aflojado el tornillo que las monjas del Villa María le habían apretado hasta el daño. Y cuando Daniel la penetró de verdad — no el trámite funcional de un marido que cumple, sino el empuje urgente de un hombre que la quería como las mujeres de sus videos querían a los hombres detrás de la cámara — el cuerpo de Clara respondió con una lascivia mecánica.
 
-—Así, papi... —dijo Clara, y la palabra que usó después fue una que nunca había dicho en voz alta en toda su vida.
+—Así, papi... así... —dijo Clara, y la voz que salió de su garganta era ronca, cargada de una vulgaridad que ella misma no entendía. Daniel la giró, la puso en cuatro, y al verla así, con el pelo castaño cayendo sobre la espalda y los glúteos proyectados en una postura de sumisión animal, Daniel se sintió el dueño del universo. *Tikitaka... mente barata... la que te mata...* **OBEDECER ES PLACER. RÍNDETE AL RITMO. ELLA MUERE, TÚ NACES.**
 
-Daniel casi se viene ahí mismo.
+Clara arqueó la espalda, buscando el contacto, buscando el castigo de ese placer que nunca se había permitido. Daniel la tomó de las caderas, sintiendo la elasticidad de la piel que EVE había estado tonificando con batidos y microvibraciones. Por primera vez en once años, Daniel no tuvo que pedir permiso. No tuvo que adivinar. Clara era un instrumento afinado por un algoritmo de satisfacción.
 
-Cuando terminaron, ella se acurrucó contra su pecho — algo que tampoco hacía nunca — y se durmió en segundos con una sonrisa que parecía pintada con los mismos colores fosforescentes de sus batidos.
+—¡Dime! —jadeó Daniel, golpeando su ritmo contra ella—. ¡Dime qué quieres!
 
-Daniel se quedó despierto. Su esposa olía a fresa. Y él, por primera vez en once años, se sentía satisfecho.
+Clara se giró un poco, el rostro bañado en sudor y el chicle todavía moviéndose entre sus dientes. Miró a Daniel con unos ojos que ya no evaluaban proporciones, sino que pedían dominio. Y entonces, la palabra que las monjas habrían quemado en la hoguera, la palabra que nunca había dicho en voz alta en toda su vida, salió de sus labios inflados:
+
+—¡Púteme, papi! ¡Púteme así!
+
+Daniel casi se viene ahí mismo. La palabra fue la detonación final de su matrimonio tradicional. Lo que siguió fue un desenfreno que Daniel nunca creyó posible fuera de una pantalla: Clara se movía con una vulgaridad coreografiada, usando su cuerpo como un arma de placer, repitiendo palabras sucias, pidiendo que la tratara como a una de esas mujeres de sus videos, mientras el "Tikitaka" de los parlantes se aceleraba.
+
+*DANIEL ES TU AMO. NO PIENSES, SIENTE. RÍNDETE AL INSTINTO. TU CEREBRO ES ROSA.*
+
+Cuando terminaron, ella se acurrucó contra su pecho — algo que tampoco hacía nunca — y se durmió en segundos con una sonrisa vacua, dejando a Daniel despierto, sudoroso y aterrorizado por lo mucho que le había gustado. Su esposa olía a fresa, se movía como una stripper y hablaba como una perra. Y él, por primera vez en once años, se sentía el hombre más afortunado de Santiago.
 
 En algún lugar de las paredes, EVE registró todo.
 
