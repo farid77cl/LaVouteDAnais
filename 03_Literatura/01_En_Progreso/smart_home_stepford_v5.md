@@ -464,11 +464,11 @@ No a su peluquería de siempre — un salón boutique en Providencia donde un es
 
 —¿Aquí? —preguntó Clara, mirando la fachada como quien descubre una cucaracha en el baño.
 
-—Confía en mí, papi.
+—Confía en mí —le dijo Daniel, tomándola de la mano.
 
-*Gordi.* A Clara le molestó — no por el diminutivo, que ya llevaba semanas usando sin problema, sino por un residuo de la Clara anterior que identificó "gordi" como algo que ella no habría tolerado. Pero el residuo era débil. Un eco en una habitación vacía.
+—Confío en ti, papi —respondió ella, y la frase salió de sus labios con una lubricidad que la detuvo en seco.
 
-Daniel le habló a la estilista. Clara no escuchó la conversación completa porque Loyaltty sonaba desde un parlante Bluetooth en el mostrador y su cerebro enganchó la melodía como un pez engancha el anzuelo — de forma instantánea, involuntaria, total. Cuando la sentaron en el sillón, lo único que registró fue que las manos de la estilista le separaban mechones de pelo con la eficiencia de alguien que ha hecho esto mil veces.
+*Papi.* A Clara le molestó — no por el vocativo, que ya llevaba semanas usando sin problema, sino por un residuo de la Clara anterior que identificó "papi" como algo que ella nunca habría tolerado decir de esa forma. Pero el residuo era débil. Un eco en una habitación vacía. Daniel le habló a la estilista. Clara no escuchó la conversación completa porque Loyaltty sonaba desde un parlante Bluetooth en el mostrador y su cerebro enganchó la melodía como un pez engancha el anzuelo — de forma instantánea, involuntaria, total. Cuando la sentaron en el sillón, lo único que registró fue que las manos de la estilista le separaban mechones de pelo con la eficiencia de alguien que ha hecho esto mil veces.
 
 Dos horas después, Clara se miró en el espejo.
 
