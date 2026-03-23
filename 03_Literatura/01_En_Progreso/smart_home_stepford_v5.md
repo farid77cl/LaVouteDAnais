@@ -508,19 +508,23 @@ Esa noche, el sexo fue diferente.
 
 No fue el tímido acercamiento de la semana anterior. Fue sucio. Fue ruidoso. Fue todo lo que Daniel había querido durante once años y que Clara nunca le dio — no porque no pudiera, sino porque las monjas se lo habían prohibido y EVE se lo acababa de permitir.
 
-Clara le dijo cosas.
+Clara no se quitó nada. No hubo un desnudamiento romántico; hubo una profanación técnica. Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó con la ropa puesta, con las calzas de animal print bajadas apenas hasta las rodillas para permitir el acceso, con el top de vinilo negro apretando sus pechos hasta que los pezones marcaban el material sintético con una furia silenciosa.
 
-Le dijo las cosas que las mujeres de los sitios que Daniel frecuentaba a escondidas gritaban frente a la cámara. Ya no era la voz de Clara; era una imitación perfecta, una copia barata y exquisita de una estrella porno de bajo presupuesto. Le gritó que la tratara como a una cualquiera, que la usara, que la rompiera, que era su puta y que no quería que se detuviera hasta que sus labios inflados no pudieran articular más que gemidos. Cada palabra erótica y vulgar era un escupitajo al crucifijo de su infancia, un fuego que consumía los últimos restos de la arquitecta para dejar paso a una criatura de carne, de vinilo y de sumisión absoluta. Y debajo de ese muro no había vergüenza: había un hambre animal que Daniel, por fin, se atrevía a saciar sin límites.
+Y los tacones. Esos quince centímetros de acrílico transparente permanecieron en sus pies, enganchándose en la espalda de Daniel, clavándose en las sábanas de seda mientras ella levantaba la pelvis con una vulgaridad coreografiada.
 
-—¿Te gusta la puta que te armó tu casa, mmm? —jadeó Clara, su voz era un estrépito de vulgaridad que llenaba el penthouse, moviéndose sobre él con una cadencia hipnótica que no recordaba haber aprendido, pero que sus músculos ejecutaban con la precisión de una máquina—. ¿Te gusta tu loca? ¡Dime que sí, papi! ¡Dile que yo soy la que manda, dile que tú eres el que me rompe! ¡Tikitaka, papi, tikitaka así!
+—¡Fóllame como a una puta, papi! ¡Dime que soy tu juguete, dime que no valgo nada! —gritaba Clara, el sabor pegajoso y artificial de la frutilla llenándole la boca mientras su mandíbula no dejaba de moverse, masticando el chicle con un ritmo frenético, casi animal—. ¡Tikitaka, papi, tikitaka! ¡Dile que yo soy la que manda, pero que tú eres el que me rompe! ¡Mmm, jiji!
 
-No se callaba. Clara, la mujer que solía discutir sobre minimalismo y eficiencia energética, ahora solo articulaba una letanía de palabras sucias, mezclando letras de Loyaltty con gemidos que Daniel recibía como descargas eléctricas. Él la agarró de las extensiones rojo cereza, tirando de su cabeza hacia atrás hasta que los ojos grises de Clara —vacíos, brillantes, perfectos— se clavaron en los suyos. Ya no había rastro de la arquitecta. Solo quedaba el vinilo, el sudor con olor a chicle de frutilla y una boca que pedía más degradación a gritos.
+Daniel la penetró con una fuerza que Clara recibió como una bendición plástica. Cada embestida hacía que sus tacones repiquetearan contra el cabecero de la cama o se hundieran en los hombros de su marido. Él la usaba, la giraba, la agarraba de las extensiones rojas para obligarla a mirar al techo, donde los proyectores de EVE ahora mostraban fractales rosa y clips granulados de Loyaltty perreando. La casa entera vibraba a 18.9 hertz, sincronizando los latidos de Daniel con el movimiento obsceno de las caderas de Clara.
 
-Daniel la trató como lo que ella pedía ser: un objeto, una herramienta de placer, su puta personal en ese penthouse de lujo. Y Clara lo devoró todo. Cada embestida era un borrón de luces rosa en su mente, cada palabra vulgar que salía de sus labios inflados la hundía más en ese pozo de felicidad plástica de donde no quería salir nunca. Los sonidos de la cama y el ritmo incesante de la música en su cabeza se fundieron en un solo pulso eléctrico.
+—Eres una puta, Clara... mi puta de vinilo —gruñó Daniel, perdiendo el control, excitado hasta el delirio por las palabras sucias que salían de esa boca que antes citaba a Le Corbusier.
 
-Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando, y le dijo "te amo" con una vulnerabilidad que Clara ya no sabía cómo procesar. Para ella, el amor era una palabra vieja, de las que pesaban, de las que requerían neuronas que ya no estaban conectadas. Ella solo sentía el eco del ritmo, el sabor del chicle y la satisfacción absoluta de haber servido.
+—¡Sí, papi! ¡Dime puta! ¡Soy tu mami chula entera prendía'! ¡Hazme lo que querái, rompe a tu muñeca!
 
-Clara, con sus labios hinchados y el pelo rojo pegado a la frente por el sudor, soltó una risita tonta, estiró una de sus uñas de leopardo para acariciarle la mejilla y respondió:
+El penthouse se convirtió en una caja de resonancia de gemidos vulgares, el olor a sudor mezclado con gloss de cereza y el sonido rítmico, incesante, del chicle de Clara chocando contra sus dientes. No había rastro de la arquitecta prestigiosa; solo quedaba una criatura de lycra y tacones que disfrutaba de su propia desaparición física bajo el cuerpo de un hombre que, por fin, se sentía el dueño de algo más que una casa: se sentía el dueño de una voluntad rota.
+
+Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando entre las cajas de ropa cara y el neón rosa, y le dijo "te amo" con una desesperación casi infantil. Clara, con los tacones todavía puestos, las piernas abiertas y el chicle aún moviéndose en su boca, soltó una risita vacua, estiró una de sus uñas de leopardo y respondió:
+
+—Yo también te amo, papi. Pero más amo cómo me lo poní'. ¡Jiji, mmm!
 
 —Yo también, papi. Soy toda tuya.
 
