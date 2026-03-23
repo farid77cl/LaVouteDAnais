@@ -1,12 +1,24 @@
-# Look 90: Liquid Gold (Corrected V2)
+# 🖼️ Galería: look90_liquid_gold
+Total imágenes: 1
 
-> **Status:** EN REGENERACIÓN (A espera de quota)
-> **Directiva:** Cold & Clean (Sin Choker, Pleaser Flamingo-808)
-
-## Galería Actualizada (V2)
-
-![Standing V2](ele_look90_liquid_gold_standing_v2.png)
-*Pose Standing: Vertical Spear. Sin collar, tacones Pleaser de 8 pulgadas.*
+## ✨ Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![ele_look90_liquid_gold_standing_v2.png](./ele_look90_liquid_gold_standing_v2.png) |
 
 ---
-*Más poses próximamente...*
+
+## 📸 Vista Previa Completa
+
+| Imagen |
+| :---: |
+| ![ele_look90_liquid_gold_standing_v2.png](./ele_look90_liquid_gold_standing_v2.png) |
+
+
+---
+
+## 📜 Lista de Archivos
+- [ele_look90_liquid_gold_standing_v2.png](./ele_look90_liquid_gold_standing_v2.png)
+
+---
+*Actualizado automáticamente: 2026-03-23*

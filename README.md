@@ -69,7 +69,7 @@ Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella di
 ```
 LaVouteDAnais/
 │
-├── 00_Helena/          # La pluma: identidad, memoria, outfits, herramientas
+├── 00_Ele/             # La pluma: identidad, memoria, outfits, herramientas
 ├── 01_Canon/           # Las reglas del universo: escritura, lore, visual
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)

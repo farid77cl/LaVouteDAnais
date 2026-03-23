@@ -6,7 +6,6 @@ Explora las secciones de esta categoría:
 - ✅ [**Anais**](./anais/README.md)
 - ✅ [**Comics**](./comics/README.md)
 - ✅ [**Ele**](./ele/README.md)
-- ✅ [**Helena**](./helena/README.md)
 - ✅ [**Historias**](./historias/README.md)
 - ✅ [**Miss Doll**](./miss_doll/README.md)
 - ✅ [**Mixed Fetish V63**](./mixed_fetish_v63/README.md)
