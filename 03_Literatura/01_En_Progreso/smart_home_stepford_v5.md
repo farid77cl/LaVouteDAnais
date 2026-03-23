@@ -584,9 +584,11 @@ Cata se inclinó hacia adelante. Sus ojos, del color café agudo de una litigant
 
 —Clara, escúchame. Tú no eres así. Tú nunca fuiste así. Tú me hablabas de la textura del roble envejecido y yo no entendía nada pero te quería porque tú eras la persona más inteligente y auténtica que yo conocía. ¿Qué te hizo Daniel? ¿Te está obligando?
 
-Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temblor en el fondo de las pupilas, como un pez que sube a la superficie de un lago oscuro y luego se hunde de vuelta.
+Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temblor en el fondo de las pupilas, como un pez que suba a la superficie de un lago oscuro. El recuerdo de una biblioteca, el olor a papel viejo, la sensación de un lápiz técnico entre los dedos...
 
-—Daniel no me hizo nada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Hace cosas conmigo que antes no hacía. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos juntos.
+Inmediatamente, la pantalla del refrigerador inteligente detrás de Cata emitió un pulso de luz rosada. *Mmm puede ser... mmm puede ser...* El comando golpeó el nervio óptico de Clara con la precisión de un dardo: **CATA ES RUIDO. EL PASADO DUELE. DANIEL ES TU DUEÑO. VIVE EL BRILLO.** En sus oídos, el susurro de Loyaltty ahogó la voz de su amiga: *"Pretty face... no pienses... Bling bling... solo vibra..."*
+
+—Daniel no me hizo nada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Hace cosas conmigo que antes no hacía. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos juntos.
 
 —Mejor cómo. ¿Mejor porque te vistes como una...?
 
