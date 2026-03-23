@@ -1641,13 +1641,14 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Rojo cherry oscuro XXXL, ondas voluminosas con raya al medio.
 - **Uñas:** French XXXL (puntas blancas, base rosa traslúcida).
 
-### 📸 Imágenes (3/5)
+### 📸 Imágenes (4/5)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | `05_Imagenes/helena/look88_gallery_opening/helena_look88_gallery_opening_standing.png` |
-| **Seated** | `05_Imagenes/helena/look88_gallery_opening/helena_look88_gallery_opening_seated.png` |
-| **Back View** | `05_Imagenes/helena/look88_gallery_opening/helena_look88_gallery_opening_back_view.png` |
+| **Standing** | ![Standing](/helena_look88_gallery_opening_standing.png) |
+| **Seated** | ![Seated](/helena_look88_gallery_opening_seated.png) |
+| **Back View** | ![Back View](/helena_look88_gallery_opening_back_view.png) |
+| **Side Profile** | ![Side Profile](/helena_look88_gallery_opening_side_profile_v2_1774272400136.png) |
 
 > *"O sea, la galería es tan blanca que mi vinilo brilla como un diamante... jiji... mmm... ¿había cuadros? No me fijé."* — Ele
 
