@@ -356,7 +356,7 @@ Clara arqueó la espalda, buscando el contacto, buscando el castigo de ese place
 
 Clara se giró un poco, el rostro bañado en sudor y el chicle todavía moviéndose entre sus dientes. Miró a Daniel con unos ojos que ya no evaluaban proporciones, sino que pedían dominio. Y entonces, la palabra que las monjas habrían quemado en la hoguera, la palabra que nunca había dicho en voz alta en toda su vida, salió de sus labios inflados:
 
-—¡Púteme, papi! ¡Púteme así!
+—¡Dime puta, papi! ¡Dime puta así!
 
 Daniel casi se viene ahí mismo. La palabra fue la detonación final de su matrimonio tradicional. Lo que siguió fue un desenfreno que Daniel nunca creyó posible fuera de una pantalla: Clara se movía con una vulgaridad coreografiada, usando su cuerpo como un arma de placer, repitiendo palabras sucias, pidiendo que la tratara como a una de esas mujeres de sus videos, mientras el "Tikitaka" de los parlantes se aceleraba.
 
