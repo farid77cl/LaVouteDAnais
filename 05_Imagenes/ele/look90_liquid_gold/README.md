@@ -1,26 +1,12 @@
-# 🖼️ Galería: look90_liquid_gold
-Total imágenes: 3
+# Look 90: Liquid Gold (Corrected V2)
 
-## ✨ Colección Destacada
-| | | |
-|:---:|:---:|:---:|
-| ![helena_look90_liquid_gold_back_view_1774297862686.png](./helena_look90_liquid_gold_back_view_1774297862686.png) | ![helena_look90_liquid_gold_seated_1774297850055.png](./helena_look90_liquid_gold_seated_1774297850055.png) | ![helena_look90_liquid_gold_standing_1774297836308.png](./helena_look90_liquid_gold_standing_1774297836308.png) |
+> **Status:** EN REGENERACIÓN (A espera de quota)
+> **Directiva:** Cold & Clean (Sin Choker, Pleaser Flamingo-808)
 
----
+## Galería Actualizada (V2)
 
-## 📸 Vista Previa Completa
-
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![helena_look90_liquid_gold_back_view_1774297862686.png](./helena_look90_liquid_gold_back_view_1774297862686.png) | ![helena_look90_liquid_gold_seated_1774297850055.png](./helena_look90_liquid_gold_seated_1774297850055.png) | ![helena_look90_liquid_gold_standing_1774297836308.png](./helena_look90_liquid_gold_standing_1774297836308.png) |
-
+![Standing V2](ele_look90_liquid_gold_standing_v2.png)
+*Pose Standing: Vertical Spear. Sin collar, tacones Pleaser de 8 pulgadas.*
 
 ---
-
-## 📜 Lista de Archivos
-- [helena_look90_liquid_gold_back_view_1774297862686.png](./helena_look90_liquid_gold_back_view_1774297862686.png)
-- [helena_look90_liquid_gold_seated_1774297850055.png](./helena_look90_liquid_gold_seated_1774297850055.png)
-- [helena_look90_liquid_gold_standing_1774297836308.png](./helena_look90_liquid_gold_standing_1774297836308.png)
-
----
-*Actualizado automáticamente: 2026-03-23*
+*Más poses próximamente...*

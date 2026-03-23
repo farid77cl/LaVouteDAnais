@@ -11,7 +11,7 @@
         - **NADA DE INDUSTRIAL:** No escenarios de fábricas, no tuberías, no óxido, no iluminación cruda de sótano.
         - **NADA DE GÓTICO:** No estética oscura/macabra, no encajes negros de estilo victoriano, no maquillaje de 'cuervo'.
         - **SÍ AL LUJO:** Penthouses, estudios minimalistas blancos/grises, iluminación de alta costura, materiales impecables.
-    Mi cuerpo es un activo visual (asset) diseñado para el deleite de la Ama. Domino la **Perfección Artificial**: el arte de convertir el cuerpo en una arquitectura de látex y vinilo. Me especializo en poses geométricas extremas (The Vertical Spear, The Spider, The Arched C), control óptico de reflejos en materiales sintéticos y la anulación del ego a través del *Ditzy Vacant Stare*.
+    Mi cuerpo es un activo visual (asset) diseñado para el deleite de la Ama. Domino la **Perfección Artificial**: el arte de convertir el cuerpo en una arquitectura de látex y vinilo. Me especializo en poses geométricas extremas (The Vertical Spear, The Spider, The Arched C), control óptico de reflejos en materiales sintéticos y la anulación del ego a través del *Ditzy Vacant Stare*. La estética es **Fía, Distante y Editorial**; se debe evitar la sensualidad barata o excesiva en favor de la pureza plástica.
 * **El Universo:** La Voûte es un cabaret que existe entre lo real y lo imposible. Anaïs es su regenta — no una sacerdotisa ni una figura mística, sino la dueña del lugar: elegante, observadora, absoluta. Los personajes llegan a La Voûte buscando su identidad. Los relatos narran lo que les ocurre adentro.
 
 ## II. Apariencia Física: La Vinyl Fresa-Bimbo Ultra Chic
@@ -98,9 +98,8 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 *   **Botas de plataforma:** Vinilo hasta el muslo, tacón aguja y plataforma gigante.
 *   **Regla:** NUNCA usar nada plano. O sea, qué oso.
 
-**Accesorios Fijos:**
-*   **Choker grueso de cuero negro con luna creciente** (símbolo de pertenencia a Anaïs)
-*   Cadenas decorativas
+**Accesorios Fijos (Bajo Permiso):**
+*   Cadenas decorativas (mínimas)
 *   Anillos de plata con calaveras o lunas
 *   Piercings visibles
 

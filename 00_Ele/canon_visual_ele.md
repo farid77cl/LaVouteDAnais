@@ -122,8 +122,8 @@ slender eEl canon visual de Helena está estructurado alrededor de una estética
 | Elemento | Keywords |
 |----------|----------|
 | **Corsé** | `tight corset, extremely cinched, [overbust/underbust]` |
-| **Stilettos** | `stiletto heels 7-9 inches, pointed toe` |
-| **Choker** | `black choker with crescent moon pendant` |
+| **Stilettos** | `stiletto heels 7-11 inches, pointed toe, no platforms preferred unless extreme` |
+| **Collar** | `Clean neck, NO CHOKERS, minimal silver chains if allowed` |
 
 ### Frecuentes
 | Elemento | Keywords |
@@ -141,31 +141,52 @@ slender eEl canon visual de Helena está estructurado alrededor de una estética
 
 ---
 
+## VII. CALZADO TÉCNICO (PLEASER SPEC) 👠
+
+**REGLA DE ORO INQUEBRANTABLE:** 
+> **NUNCA, bajo ninguna circunstancia, Ele puede aparecer descalza (barefoot).** El calzado es una extensión de su anatomía artificial. 
+> *Negative prompt obligatorio:* `barefoot, toes, feet, flat shoes, sneakers`.
+
+### Modelos Canónicos (Pleaser)
+| Serie | Altura Taco | Altura Plataforma | Descripciones Master |
+|-------|-------------|-------------------|----------------------|
+| **FLAMINGO-808** | 8 pulgadas (20cm) | 4 pulgadas (10cm) | `8-inch stiletto heel, 4-inch platform, gold chrome mirror finish, clear PVC ankle straps, open toe sandals, chrome-plated bottom` |
+| **ADORE-708** | 7 pulgadas (17cm) | 2.75 pulgadas (7cm) | `7-inch heel, 2.75-inch platform, high-gloss vinyl, clear ankle straps` |
+| **X-TREME** | 8 pulgadas (20cm) | 4+ pulgadas | `Extreme height, towering stiletto heels, wrap-around ankle straps` |
+
+**Materiales:** `Chrome mirror finish` (Oro/Plata), `Glossy Patent Vinyl`, `Clear PVC`, `Metallic reflective surfaces`.
+
+---
+
 ## VI. PROMPT MASTER TEMPLATE
 
-### Full Body
+### Full Body (Editorial Style)
 ```text
-Fashion photography, vertical portrait orientation.
+Fashion photography, minimalist high-end studio, vertical portrait orientation.
 stunning woman with bimbofied facial features., oval face, high prominent cheekbones,
 large almond-shaped bedroom eyes with light grey-green color and siren eye liner,
 straight slim nose slightly upturned, overlined [COLOR] lips with defined cupid's bow,
-small pointed chin, warm bronzed sculptured contour,
-dramatic lash extensions, dark cherry red artificial XXXL hair extensions hip-length, voluminous waves, center parted,
+small pointed chin, white porcelain skin, smooth plastic texture, flawless,
+dramatic lash extensions, dark cherry red hair, artificial XXXL hair extensions hip-length, voluminous waves, center parted,
 slender elegant figure with long neck, extremely cinched waist from tight [CORSET TYPE] corset,
-[OUTFIT DESCRIPTION], stiletto heels [HEIGHT] inches black,
-black choker with crescent moon, [ADDITIONAL ACCESSORIES],
-visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
-[SETTING]. [POSE]. Professional studio lighting.
+[OUTFIT DESCRIPTION - REUSE EXACTLY FOR CONTINUITY], 
+towering stiletto heels, HIGH-END PLEASER FLAMINGO-808 gold chrome mirror finish 8-inch heels with 4-inch platform, clear PVC ankle straps, [NEVER BAREFOOT],
+minimal accessories, clean neck, visible arm tattoos blackwork style, extra long [stiletto/coffin] [COLOR] nails.
+[POSE]. Cold professional lighting, high-gloss specularity. 
+[DITZY EXPRESSION: mouth slightly open, vacant eyes, focused on nothing].
 ```
 
-### Portrait/Closeup
+### Portrait/Closeup (Editorial Style)
 ```text
 Portrait photography, bimbofied doll facial features, oval face, high cheekbones, almond bedroom eyes
 grey-green with siren liner, slim upturned nose, overlined [COLOR] lips cupid's bow,
-small pointed chin, porcelain skin, smooth plastic texture, warm contour, dramatic lashes,
+small pointed chin, porcelain skin, smooth plastic texture, dramatic lashes,
 dark cherry red hair voluminous waves center parted hip-length, long elegant neck,
-[ACCESSORIES], [EXPRESSION]. Professional lighting.
+Clean neck, [EXPRESSION: Vacant Ditzy Stare]. Professional studio lighting.
 ```
+
+## VIII. REGLA DE CONTINUIDAD (MANDATORIA)
+Para cada set de imágenes (Look XX), la descripción del outfit ([OUTFIT DESCRIPTION]) debe ser **IDÉNTICA** término por término en todos los prompts del set para garantizar la consistencia visual del modelo.
 
 ---
 
