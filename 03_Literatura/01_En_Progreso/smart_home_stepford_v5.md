@@ -574,7 +574,7 @@ Cata no la reconoció.
 
 No inmediatamente. Hubo un lapso — quizás medio segundo, quizás una eternidad comprimida — en el que Catalina miró a la mujer frente a ella y su cerebro se negó a conectar esa imagen con la persona que conocía. El pelo rojo cereza hasta la cintura. Las extensiones tan voluminosas que parecían una peluca de drag queen pero no lo eran — eran reales, pegadas, permanentes. Los labios hinchados como si le hubieran metido una colmena debajo de la piel. Las uñas de leopardo, largas como cuchillos, inútiles como joyas. Las calzas de animal print. Los tacones transparentes de plataforma. Y la cara — la cara era lo peor — porque era la cara de Clara pero con una expresión que Cata no había visto jamás: vacía, dulce, ida, como una Barbie que alguien dejó al sol y se le derritió la parte de atrás del cerebro.
 
-—¡Cata! ¡Locaaa! —Clara la abrazó con una efusividad que la Clara anterior habría considerado de mal gusto—. ¡Qué rica que viniste, huevona! Pasa, pasa. ¿Querí' un batido? Están de pana, te juro. Son rosados y te dejan... mmm... tontita.
+—¡Cata! ¡Locaaa! —Clara la abrazó con una efusividad que la Clara anterior habría considerado de mal gusto—. ¡Qué rica que viniste, huevona! Pasa, pasa. ¿Querí' un batido? Están bacanes, te juro. Son rosados y te dejan... mmm... tontita.
 
 Cata entró al penthouse caminando despacio, como quien entra a la escena de un crimen. Sus ojos registraban cada detalle: las cajas de ropa con logos de fast fashion apiladas junto al sofá, los tacones de plataforma alineados contra la pared como un regimiento de soldados de acrílico, los batidos rosados en la cocina, el olor a fresa sintética que lo impregnaba todo, y la ausencia total de los objetos que antes definían a Clara — ni libros, ni muestras de tela, ni maquetas de madera, ni la tableta con sus planos de arquitectura.
 
@@ -612,7 +612,7 @@ Cata se detuvo. La palabra se le trabó en la boca.
 
 Clara la miró. Y en esa mirada, debajo de los labios hinchados y las extensiones y el gloss, la Clara del Villa María asomó una última vez — no como rescate, sino como defensa.
 
-—¿Como una qué, Catalina? ¿Como una puta? —Clara soltó la palabra y sintió un escalofrío de excitación que le recorrió la espalda—. Dilo, huevona. Como una puta. Porque eso es lo que soy ahora, y te juro que se siente de pana no tener que pensar en ni una huevada más que en calentar a mi hombre.
+—¿Como una qué, Catalina? ¿Como una puta? —Clara soltó la palabra y sintió un escalofrío de excitación que le recorrió la espalda—. Dilo, huevona. Como una puta. Porque eso es lo que soy ahora, y te juro que se siente rico no tener que pensar en ni una huevada más que en calentar a mi hombre.
 
 El nombre completo. Arma cargada.
 
