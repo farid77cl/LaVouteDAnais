@@ -208,7 +208,7 @@ Daniel se congeló. Clara nunca le había dicho "gordo". Era un chilenismo cari�
 
 Clara parpadeó. Frunció el ceño como si intentara recordar algo que había soñado.
 
-—¿Ah? O sea... sí, el trabajo, eso. No sé, gordo. ¿Está rico el batido? ¿Quieres uno?
+—¿Ah? O sea... sí, el trabajo, eso. No sé, papi. ¿Está rico el batido? ¿Quieres uno?
 
 Daniel la observó con una mezcla de extrañeza y algo más que no supo nombrar pero que le calentó la base del estómago. Su esposa estaba cambiando. La mujer que le soltaba monólogos sobre "la nobleza de la madera" y "la ética de la extracción" estaba ahí, en calzas de lycra, mascando chicle, hablándole como si fuera su pololo del colegio y no su marido de once años.
 
