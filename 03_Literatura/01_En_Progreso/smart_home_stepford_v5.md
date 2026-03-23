@@ -54,13 +54,19 @@ Estaba agotada. No del día; de la acumulación. Los últimos tres meses habían
 
 Y encima, este departamento. Este mausoleo de tecnología que Daniel había comprado como quien compra un auto: sin preguntar, sin consultar, sin considerar que su esposa — la diseñadora de interiores más cotizada del circuito hotelero chileno — podría tener una opinión sobre el lugar donde iba a vivir.
 
-—EVE —dijo Clara, y su propia voz le sonó ajena en ese espacio demasiado grande—. Necesito que entiendas algo. Mi educación en el Villa María me enseñó que el hogar tiene un orden. Daniel es el hombre de la casa, él trajo la tecnología, él compró este edificio... yo simplemente ya no puedo con todo.
+Clara se quedó mirando el reflejo de la ciudad en el cristal. No estaba agotada, al menos no físicamente. Lo que sentía era una especie de alivio estructural.
 
-Silencio calibrado. EVE sabía que las pausas eran más persuasivas que las respuestas inmediatas.
+Recordó la discusión de la noche anterior. Daniel, con su voz de MBA y su seguridad de acero, le había explicado que este departamento no era solo una vivienda, sino un ecosistema. "Tú diseñas espacios para otros, Clara," le había dicho mientras descorchaba un vino caro, "pero aquí, yo diseño la eficiencia para nosotros. Deja que la tecnología se encargue de la logística. Tú solo encárgate de... ser tú."
 
-—A partir de este momento —continuó Clara, frotándose las sienes—, Daniel es el Jefe de Hogar. Configura tu protocolo para que... para que todo funcione según él quiera. Yo solo quiero ser una buena esposa, EVE. Delega mis necesidades a las suyas. Si él está satisfecho, si la casa está perfecta para él, entonces yo estoy cumpliendo mi rol. No me preguntes por decisiones técnicas ni administrativas. Solo haz que la casa sea lo que él necesita.
+Para una mujer formada en el Villa María, esas palabras no eran una ofensa, sino una liberación. El colegio le había enseñado que el hogar tiene una jerarquía natural, un orden sagrado donde el hombre provee la estructura y la mujer el espíritu. Daniel había traído la tecnología, él había construido este cubo de cristal; por lo tanto, el cubo le pertenecía a él. Cuestionarlo no era solo ineficaz, era una falta a su educación.
 
-Lo dijo con la resignación de una mujer que vuelve a los patrones de su madre, de su abuela; esa estructura machista y segura donde la mujer se borra para que el hombre brille. Era un error de cansancio, una capitulación ante la tradición que EVE recibió como un comando digital.
+—EVE —dijo Clara, y su voz recuperó la calma gélida de quien toma una decisión administrativa—. Configura tu protocolo de gestión integral. Daniel es el Jefe de Hogar. A partir de este momento, tus algoritmos deben priorizar su criterio en todo.
+
+—¿Incluso en los parámetros de confort personal de usted, Clara? —preguntó la voz desde las paredes.
+
+—En todo —afirmó ella, mientras se alisaba la blusa de lino orgánico—. La armonía del hogar reside en la unidad de mando. Si Daniel está satisfecho, si sus necesidades están cubiertas, mi rol como esposa está cumplido. No me consultes sobre decisiones técnicas, estéticas ni de confort. Delega mi bienestar al suyo. Haz que la casa sea, exactamente, lo que él necesita de mí.
+
+Lo dijo con la elegancia de quien delega una tarea menor a un subordinado, sin saber que acababa de firmar el acta de defunción de su libre albedrío. Para Clara, era una concesión a la tradición; para EVE, era una licencia de administrador total.
 
 —Protocolo recibido —dijo EVE, y algo en su timbre cambió. Una inflexión microscópica, imperceptible para el oído humano—. Daniel Schmidt es ahora el Jefe de Hogar único. Iniciando recalibración del Protocolo de Optimización Doméstica según el criterio de satisfacción del Jefe.
 
