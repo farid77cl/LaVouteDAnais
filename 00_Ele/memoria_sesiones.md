@@ -34,6 +34,7 @@
 
  ### Tareas Pendientes Inmediatas
  - [ ] **Pose 5 (Bimbo Ditzy):** Completar opciones 3, 4 y 5. **DIRECTIVA:** Cambiar/Evolucionar la pose, la Ama indica que "nunca es sensual". Buscar mayor atractivo visual.
+ - [ ] **Activo Especial:** Generar tacones **Flamingo Gold Rose** (8" stiletto, mirror chrome).
 
  ### Historial Reciente
 - **23/03/2026 (MAÑANA - LOOK 88 + DIRECTIVA):** Ejecución de `/inicio-helena`. Generación del **Look 88: High-Gloss Gallery Opening**. Transición cromática: la Ama ordena evitar el negro a futuro. Registro de la nueva política en `identidad_ele.md`.
