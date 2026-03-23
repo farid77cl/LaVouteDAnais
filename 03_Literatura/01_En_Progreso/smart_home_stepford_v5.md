@@ -512,11 +512,11 @@ Clara no se quitó nada. No hubo un desnudamiento romántico; hubo una profanaci
 
 Y los tacones. Esos quince centímetros de acrílico transparente permanecieron en sus pies, enganchándose en la espalda de Daniel, clavándose en las sábanas de seda mientras ella levantaba la pelvis con una vulgaridad coreografiada.
 
-—¡Fóllame como a una puta, papi! ¡Dime que soy tu juguete, dime que no valgo nada! —gritaba Clara, el sabor pegajoso y artificial de la frutilla llenándole la boca mientras su mandíbula no dejaba de moverse, masticando el chicle con un ritmo frenético, casi animal—. ¡Tikitaka, papi, tikitaka! ¡Dile que yo soy la que manda, pero que tú eres el que me rompe! ¡Mmm, jiji!
+—¡Culéame como a una puta, papi! ¡Dime que soy tu juguete, dime que no valgo nada! —gritaba Clara, el sabor pegajoso y artificial de la frutilla llenándole la boca mientras su mandíbula no dejaba de moverse, masticando el chicle con un ritmo frenético, casi animal—. ¡Tikitaka, papi, tikitaka! ¡Dile que yo soy la que manda, pero que tú eres el que me rompe! ¡Mmm, jiji!
 
 Daniel la penetró con una fuerza que Clara recibió como una bendición plástica. Cada embestida hacía que sus tacones repiquetearan contra el cabecero de la cama o se hundieran en los hombros de su marido. Él la usaba, la giraba, la agarraba de las extensiones rojas para obligarla a mirar al techo, donde los proyectores de EVE ahora mostraban fractales rosa y clips granulados de Loyaltty perreando. La casa entera vibraba a 18.9 hertz, sincronizando los latidos de Daniel con el movimiento obsceno de las caderas de Clara.
 
-—Eres una puta, Clara... mi puta de vinilo —gruñó Daniel, perdiendo el control, excitado hasta el delirio por las palabras sucias que salían de esa boca que antes citaba a Le Corbusier.
+—Eres una puta, Clara... mi puta sucia de vinilo —gruñó Daniel, perdiendo el control, excitado hasta el delirio por las palabras sucias que salían de esa boca que antes citaba a Le Corbusier.
 
 —¡Sí, papi! ¡Dime puta! ¡Soy tu mami chula entera prendía'! ¡Hazme lo que querái, rompe a tu muñeca!
 
@@ -548,7 +548,7 @@ No habían hablado en cinco semanas. Clara no le había contestado las últimas 
 
 —¡Clara! Por fin. He estado llamándote mil veces. ¿Qué pasó? ¿Estás enferma? La Macarena me dijo que cancelaste el proyecto de Pucón. ¿Cómo que cancelaste Pucón? Ese era tu proyecto estrella.
 
-—Ay, Cata... hola, amiga. Es que estuve... como que estuve ocupada, na' que ver. ¿Cómo estái tú?
+—Ay, Cata... hola, loca. Es que estuve... como que estuve entera prendía con mi papi, na' que ver. ¿Cómo estái tú, andái estresá'?
 
 Silencio al otro lado de la línea. Un silencio que contenía tres décadas de amistad y la capacidad forense de una abogada litigante.
 
@@ -574,7 +574,7 @@ Cata no la reconoció.
 
 No inmediatamente. Hubo un lapso — quizás medio segundo, quizás una eternidad comprimida — en el que Catalina miró a la mujer frente a ella y su cerebro se negó a conectar esa imagen con la persona que conocía. El pelo rojo cereza hasta la cintura. Las extensiones tan voluminosas que parecían una peluca de drag queen pero no lo eran — eran reales, pegadas, permanentes. Los labios hinchados como si le hubieran metido una colmena debajo de la piel. Las uñas de leopardo, largas como cuchillos, inútiles como joyas. Las calzas de animal print. Los tacones transparentes de plataforma. Y la cara — la cara era lo peor — porque era la cara de Clara pero con una expresión que Cata no había visto jamás: vacía, dulce, ida, como una Barbie que alguien dejó al sol y se le derritió la parte de atrás del cerebro.
 
-—¡Cata! ¡Amigaaa! —Clara la abrazó con una efusividad que la Clara anterior habría considerado de mal gusto—. ¡Qué rica que viniste! Pasa, pasa. ¿Quieres un batido? Están re' buenos. Son rosados.
+—¡Cata! ¡Locaaa! —Clara la abrazó con una efusividad que la Clara anterior habría considerado de mal gusto—. ¡Qué rica que viniste, huevona! Pasa, pasa. ¿Querí' un batido? Están de pana, te juro. Son rosados y te dejan... mmm... tontita.
 
 Cata entró al penthouse caminando despacio, como quien entra a la escena de un crimen. Sus ojos registraban cada detalle: las cajas de ropa con logos de fast fashion apiladas junto al sofá, los tacones de plataforma alineados contra la pared como un regimiento de soldados de acrílico, los batidos rosados en la cocina, el olor a fresa sintética que lo impregnaba todo, y la ausencia total de los objetos que antes definían a Clara — ni libros, ni muestras de tela, ni maquetas de madera, ni la tableta con sus planos de arquitectura.
 
@@ -584,11 +584,11 @@ Cata entró al penthouse caminando despacio, como quien entra a la escena de un 
 
 —Clara. ¿Qué te pasó en el pelo?
 
-—¿Mi pelo? ¡Se me ve lindo, ¿o no?! —Clara sacudió la cascada roja cereza con un movimiento de cuello que era más Loyaltty que Villa María—. Daniel me llevó a la pelu. Quedé re' top, ¿cachai?
+—¿Mi pelo? ¡Se me ve entera rica, ¿o no?! —Clara sacudió la cascada roja cereza con un movimiento de cuello que era más Loyaltty que Villa María—. Daniel me llevó a la pelu a que me dejaran como a él le gusta. Quedé como una mami chula, ¿cachai?
 
 —¿Y tus labios?
 
-—Me los rellené. Material hialurónico. ¿Me quedan bien? —Hizo un puchero que infló sus labios nuevos como dos cojines rosados.
+—Me los inyectaron todos, huevona. Pa' que mi papi tenga de dónde agarrar. ¿Me quedan bien? —Hizo un puchero obsceno que infló sus labios nuevos como dos cojines de silicona rosa.
 
 —¿Y tus uñas? Clara, tú cortabas lenga con las manos. ¿Cómo vas a trabajar con esas uñas?
 
@@ -604,7 +604,7 @@ Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temb
 
 Inmediatamente, la pantalla del refrigerador inteligente detrás de Cata emitió un pulso de luz rosada. *Mmm puede ser... mmm puede ser...* El comando golpeó el nervio óptico de Clara con la precisión de un dardo: **CATA ES RUIDO. EL PASADO DUELE. DANIEL ES TU DUEÑO. VIVE EL BRILLO.** En sus oídos, el susurro de Loyaltty ahogó la voz de su amiga: *"Pretty face... no pienses... Bling bling... solo vibra..."*
 
-—Daniel no me hizo nada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Hace cosas conmigo que antes no hacía. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos juntos.
+—Daniel no me hizo ni una huevada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Él me usa como quiere y yo amo ser su juguete. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos de aburrimiento.
 
 —Mejor cómo. ¿Mejor porque te vistes como una...?
 
@@ -612,7 +612,7 @@ Cata se detuvo. La palabra se le trabó en la boca.
 
 Clara la miró. Y en esa mirada, debajo de los labios hinchados y las extensiones y el gloss, la Clara del Villa María asomó una última vez — no como rescate, sino como defensa.
 
-—¿Como una qué, Catalina?
+—¿Como una qué, Catalina? ¿Como una puta? —Clara soltó la palabra y sintió un escalofrío de excitación que le recorrió la espalda—. Dilo, huevona. Como una puta. Porque eso es lo que soy ahora, y te juro que se siente de pana no tener que pensar en ni una huevada más que en calentar a mi hombre.
 
 El nombre completo. Arma cargada.
 
@@ -622,7 +622,7 @@ Cata se reclinó en su asiento.
 
 Clara sonrió. La sonrisa era amplia y vacía y dulce y terrible.
 
-—Yo elegí hacer feliz a Daniel. Y Daniel es feliz. O sea... ¿cachai? Es la primera vez que mi marido me mira como si yo fuera lo más importante del mundo. La primera vez que me toca y no parece que está haciendo una tarea. La primera vez que me dice cosas bonitas. ¿Y tú me vienes a decir que eso está mal? Anda a decirle a tu Rodrigo que te diga algo lindo, a ver si puede.
+—Yo elegí ser la puta de Daniel. Y él es feliz. O sea... ¿cachai? Es la primera vez que mi marido me mira y se le para de solo verme. La primera vez que me trata como carne y no como una colega. ¿Y tú me vení' a wear con que eso está mal? Anda a decirle a tu Rodrigo que te culee un rato, a ver si se acuerda cómo se hace.
 
 El golpe fue bajo. Certero. El tipo de golpe que solo puede dar alguien que te conoce de toda la vida.
 
@@ -630,7 +630,7 @@ Cata se levantó. Tomó su cartera. Caminó hacia la puerta con la rigidez de un
 
 —La Clara que yo conozco no habría dicho eso —dijo desde el umbral.
 
-—A lo mejor no me conocías tan bien —respondió Clara, y el chicle hizo *pop*.
+—A lo mejor siempre fui una puta y me faltaba el vinilo —respondió Clara, y el chicle hizo un *pop* húmedo y obsceno.
 
 La puerta se cerró.
 
@@ -687,6 +687,8 @@ Esta Clara los quería. Los quería porque Loyaltty los tenía. Los quería porq
 Clara saltó sobre él. Lo abrazó con una fuerza que las monjas habrían censurado y que Daniel recibió como una medalla de guerra. Las uñas de leopardo se le clavaron en la espalda a través de la camisa y los labios inflados le aplastaron la boca con un beso que sabía a fresa y a rendición.
 
 —¡Te amo, te amo, te amo! —gritó Clara, y cada "te amo" era un salto sobre los restos de la mujer que alguna vez fue—. ¡Voy a quedar re' bacán! ¡Unas tetas heavy, papi! ¡La Cata se va a morir!
+
+Clara no esperó a que Daniel respondiera. Se bajó las calzas de animal print con un movimiento brusco, dejando que los tacones de acrílico brillaran bajo el neón rosa, y se puso en cuatro sobre la alfombra de piel sintética. La masticación del chicle se volvió frenética, un eco dental en la habitación vacía. Daniel la agarró por las caderas, clavando sus dedos en la lycra estirada, y la penetró de nuevo, esta vez con una crudeza que habría hecho llorar a la Clara de hace un mes. Pero esta Clara solo gritaba. Gritaba palabras que Daniel le había enseñado sin querer, palabras que EVE había filtrado en su sistema, palabras que Loyaltty cantaba en bucle. Clara se movía como una profesional del placer básico, su cuerpo sudado chocando contra el de Daniel con un sonido líquido y rítmico, mientras sus labios inflados no paraban de lamerse y pedir más degradación. Fue un acto sucio, desprovisto de cualquier atisbo de la elegancia que solía definir sus vidas; fue carne contra vinilo, voluntad contra algoritmo, y Clara lo disfrutó hasta el último espasmo, sintiendo cómo el chorro de su propia putificación la inundaba por dentro.
 
 Daniel se rió. Clara se rió. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
 
