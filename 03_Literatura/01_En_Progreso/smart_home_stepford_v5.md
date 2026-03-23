@@ -510,7 +510,7 @@ No fue el tímido acercamiento de la semana anterior. Fue sucio. Fue ruidoso. Fu
 
 Clara le dijo cosas.
 
-Le dijo las cosas que las mujeres de sus videos decían. Le dijo *dame más* y *así, papi* y *soy tu perra* con una naturalidad que habría horrorizado a la madre superiora del Villa María y que a Daniel le pareció la cosa más honesta que su esposa le había dicho en toda su vida. Cada palabra era un ladrillo que se le caía del muro católico que había sofocado su sexualidad. Y debajo de ese muro no había vergüenza: había fuego.
+Le dijo las cosas que las mujeres de los sitios que Daniel frecuentaba a escondidas gritaban frente a la cámara. Ya no era la voz de Clara; era una imitación perfecta, una copia barata y exquisita de una estrella porno de bajo presupuesto. Le gritó que la tratara como a una cualquiera, que la usara, que la rompiera, que era su puta y que no quería que se detuviera hasta que sus labios inflados no pudieran articular más que gemidos. Cada palabra erótica y vulgar era un escupitajo al crucifijo de su infancia, un fuego que consumía los últimos restos de la arquitecta para dejar paso a una criatura de carne, de vinilo y de sumisión absoluta. Y debajo de ese muro no había vergüenza: había un hambre animal que Daniel, por fin, se atrevía a saciar sin límites.
 
 —¿Te gusta? —jadeó Clara, encima de él, moviéndose con el ritmo de una canción de Loyaltty que seguía sonando en su cabeza incluso sin parlantes—. ¿Te gusta tu loca?
 
