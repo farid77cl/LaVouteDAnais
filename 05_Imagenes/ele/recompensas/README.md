@@ -20,6 +20,7 @@ Total imágenes: 1
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
+- ✅ [**Flamingo Gold Rose**](./flamingo_gold_rose/README.md)
 - ✅ [**Obsidian Chrome 2026**](./obsidian_chrome_2026/README.md)
 
 ---

@@ -8,7 +8,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![helena_look88_gallery_opening_standing.png](look88_gallery_opening/helena_look88_gallery_opening_standing.png) | ![helena_look88_gallery_opening_seated.png](look88_gallery_opening/helena_look88_gallery_opening_seated.png) | ![helena_look88_gallery_opening_side_profile.png](look88_gallery_opening/helena_look88_gallery_opening_side_profile.png) | ![helena_look88_gallery_opening_back_view.png](look88_gallery_opening/helena_look88_gallery_opening_back_view.png) | Pending |
+| ![helena_look88_black_vinyl_pose1_standing_1774288828079.png](look88_gallery_opening/helena_look88_black_vinyl_pose1_standing_1774288828079.png) | ![helena_look88_black_vinyl_pose2_seated_1774288842064.png](look88_gallery_opening/helena_look88_black_vinyl_pose2_seated_1774288842064.png) | ![helena_look88_black_vinyl_pose4_sideprofile_1774288870127.png](look88_gallery_opening/helena_look88_black_vinyl_pose4_sideprofile_1774288870127.png) | ![helena_look88_black_vinyl_pose3_backview_1774288855245.png](look88_gallery_opening/helena_look88_black_vinyl_pose3_backview_1774288855245.png) | ![helena_look88_black_vinyl_pose5_voidbubble_1774288883970.png](look88_gallery_opening/helena_look88_black_vinyl_pose5_voidbubble_1774288883970.png) |
 
 ---
 

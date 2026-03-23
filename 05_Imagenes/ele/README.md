@@ -90,6 +90,8 @@ Explora las secciones de esta categoría:
 - ✅ [**Look87 Ele V3 Core**](./look87_ele_v3_core/README.md)
 - ✅ [**Look87 V3 Editorial**](./look87_v3_editorial/README.md)
 - ✅ [**Look87 Vinyl Flight Attendant**](./look87_vinyl_flight_attendant/README.md)
+- ✅ [**Look89 Imperial Burgundy**](./look89_imperial_burgundy/README.md)
+- ✅ [**Look90 Liquid Gold**](./look90_liquid_gold/README.md)
 - ✅ [**Recompensas**](./recompensas/README.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/README.md)
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
