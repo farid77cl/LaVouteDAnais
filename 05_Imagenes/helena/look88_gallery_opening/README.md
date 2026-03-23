@@ -1,18 +1,19 @@
 # 🖼️ Galería: look88_gallery_opening
-Total imágenes: 3
+Total imágenes: 4
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![helena_look88_gallery_opening_back_view.png](./helena_look88_gallery_opening_back_view.png) | ![helena_look88_gallery_opening_seated.png](./helena_look88_gallery_opening_seated.png) | ![helena_look88_gallery_opening_standing.png](./helena_look88_gallery_opening_standing.png) |
+| ![helena_look88_gallery_opening_back_view.png](./helena_look88_gallery_opening_back_view.png) | ![helena_look88_gallery_opening_seated.png](./helena_look88_gallery_opening_seated.png) | ![helena_look88_gallery_opening_side_profile.png](./helena_look88_gallery_opening_side_profile.png) |
+| ![helena_look88_gallery_opening_standing.png](./helena_look88_gallery_opening_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![helena_look88_gallery_opening_back_view.png](./helena_look88_gallery_opening_back_view.png) | ![helena_look88_gallery_opening_seated.png](./helena_look88_gallery_opening_seated.png) | ![helena_look88_gallery_opening_standing.png](./helena_look88_gallery_opening_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![helena_look88_gallery_opening_back_view.png](./helena_look88_gallery_opening_back_view.png) | ![helena_look88_gallery_opening_seated.png](./helena_look88_gallery_opening_seated.png) | ![helena_look88_gallery_opening_side_profile.png](./helena_look88_gallery_opening_side_profile.png) | ![helena_look88_gallery_opening_standing.png](./helena_look88_gallery_opening_standing.png) |
 
 
 ---
@@ -20,6 +21,7 @@ Total imágenes: 3
 ## 📜 Lista de Archivos
 - [helena_look88_gallery_opening_back_view.png](./helena_look88_gallery_opening_back_view.png)
 - [helena_look88_gallery_opening_seated.png](./helena_look88_gallery_opening_seated.png)
+- [helena_look88_gallery_opening_side_profile.png](./helena_look88_gallery_opening_side_profile.png)
 - [helena_look88_gallery_opening_standing.png](./helena_look88_gallery_opening_standing.png)
 
 ---
