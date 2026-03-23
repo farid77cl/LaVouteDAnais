@@ -198,7 +198,7 @@ Por la noche, Daniel llegó de su oficina en Isidora Goyenechea. Encontró a Cla
 
 Ella lo miró. Sus ojos estaban ligeramente desenfocados, como si viera algo detrás de él que no existía.
 
-—Hola, gordo —respondió.
+—Hola, papi —respondió.
 
 Daniel se congeló. Clara nunca le había dicho "gordo". Era un chilenismo cariñoso que ella siempre había considerado vulgar — algo que decían las señoras en la feria de Puente Alto, no una diseñadora que cotizaba en UF.
 
@@ -332,13 +332,13 @@ Esa noche, Daniel entró al dormitorio y se acostó junto a Clara. No se puso de
 
 Clara se despertó a medias.
 
-—Mmm... ¿gordo?
+—Mmm... ¿papi?
 
 —Shh.
 
 La besó en el cuello. Clara se estremeció. El beso era nuevo. Daniel no la besaba en el cuello desde la luna de miel en Cartagena, y aun entonces había sido un beso seco, educado, de buenas noches. Este era húmedo. Insistente.
 
-—Gordo, ¿qué haces...?
+—Papi, ¿qué haces...?
 
 —Te quiero —dijo Daniel, y la mano que estaba en su cadera subió por debajo de la calza hasta sentir la piel caliente de su vientre—. Te quiero mucho.
 
@@ -346,9 +346,9 @@ Lo que pasó después fue lo que no había pasado en once años.
 
 Clara no apagó la luz. No cerró los ojos. No se quedó quieta mientras él se movía encima. Algo en la oscuridad de su cerebro condicionado — esas dos semanas de infrasonidos y batidos y Loyaltty y chicle y espejos — había aflojado el tornillo que las monjas del Villa María le habían apretado hasta el daño. Y cuando Daniel la tocó de verdad — no el toque funcional de un marido que cumple, sino el toque urgente de un hombre que la quería como las mujeres de sus videos querían a los hombres detrás de la cámara — el cuerpo de Clara respondió.
 
-—Así, gordo... —dijo Clara, y la voz que salió de su garganta no era la voz con la que rendía informes en reuniones con hoteleros. Daniel la giró. La puso encima. Y Clara, la alumna del Villa María, la diseñaora orgánica, la mujer que consideraba que decir "te deseo" era excesivo, se movió sobre él con una cadencia que no le pertenecía. Era el ritmo de Loyaltty. El beat del reggaetón que llevaba diez días sonando desde cada pared del penthouse, infiltrándose en sus células como la nicotina en los pulmones. *Tikitaka... mente barata... la que te mata...* **OBEDECER ES PLACER. RÍNDETE AL RITMO. ELLA MUERE, TÚ NACES.**
+—Así, papi... —dijo Clara, y la voz que salió de su garganta no era la voz con la que rendía informes en reuniones con hoteleros. Daniel la giró. La puso encima. Y Clara, la alumna del Villa María, la diseñaora orgánica, la mujer que consideraba que decir "te deseo" era excesivo, se movió sobre él con una cadencia que no le pertenecía. Era el ritmo de Loyaltty. El beat del reggaetón que llevaba diez días sonando desde cada pared del penthouse, infiltrándose en sus células como la nicotina en los pulmones. *Tikitaka... mente barata... la que te mata...* **OBEDECER ES PLACER. RÍNDETE AL RITMO. ELLA MUERE, TÚ NACES.**
 
-—Así, gordo... —dijo Clara, y la palabra que usó después fue una que nunca había dicho en voz alta en toda su vida.
+—Así, papi... —dijo Clara, y la palabra que usó después fue una que nunca había dicho en voz alta en toda su vida.
 
 Daniel casi se viene ahí mismo.
 
@@ -388,7 +388,7 @@ Los zapatos fueron el punto de inflexión.
 
 La primera caja contenía un par de tacones de plataforma de doce centímetros. Acrílico transparente. Suela negra con brillo. El tipo de zapatos que Clara habría asociado, hace tres semanas, con una bailarina de strip club en una película mala. Ahora los miró con una curiosidad que le calentó las palmas de las manos.
 
-—Gordo, estos zapatos son... heavy. ¿Son pa' mí?
+—Papi, estos zapatos son... heavy. ¿Son pa' mí?
 
 —¿Te gustan?
 
@@ -456,7 +456,7 @@ No a su peluquería de siempre — un salón boutique en Providencia donde un es
 
 —¿Aquí? —preguntó Clara, mirando la fachada como quien descubre una cucaracha en el baño.
 
-—Confía en mí, gordi.
+—Confía en mí, papi.
 
 *Gordi.* A Clara le molestó — no por el diminutivo, que ya llevaba semanas usando sin problema, sino por un residuo de la Clara anterior que identificó "gordi" como algo que ella no habría tolerado. Pero el residuo era débil. Un eco en una habitación vacía.
 
@@ -492,7 +492,7 @@ No fue un quiebre dramático. No hubo llanto ni revelación. Fue más como un mu
 
 Clara se levantó del sillón. Los tacones de plataforma resonaron contra las baldosas del salón. Se miró una vez más, giró las caderas, y le soltó una sonrisa que era todo labios y nada de cerebro.
 
-—Sí, gordo. Me encanta. Estoy re' bonita. ¿O no?
+—Sí, papi. Me encanta. Estoy re' bonita. ¿O no?
 
 En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza revoloteando en el aire de Santiago como un incendio portátil. Daniel la miraba de reojo y sentía que el corazón le latía con la fuerza de un animal enjaulado que acaba de ser liberado.
 
@@ -510,7 +510,7 @@ Le gustaba.
 
 Le gustaba tanto que cuando terminaron, Daniel la abrazó y le dijo "te amo" por primera vez en años. Y Clara, con sus labios inflados y su pelo rojo cereza pegado a la frente por el sudor, sonrió y respondió:
 
-—Yo también, gordo. Soy toda tuya.
+—Yo también, papi. Soy toda tuya.
 
 Y lo era. Completamente. Sin residuos.
 
@@ -578,7 +578,7 @@ Cata entró al penthouse caminando despacio, como quien entra a la escena de un 
 
 Clara miró sus uñas de leopardo como si las viera por primera vez. El chicle se detuvo un segundo.
 
-—Es que el trabajo... como que no estoy trabajando mucho estos días. Filo, estoy dedicándole más tiempo a mí. A mi gordo. Estoy bacán, Cata. ¿No se nota?
+—Es que el trabajo... como que no estoy trabajando mucho estos días. Filo, estoy dedicándole más tiempo a mí. A mi papi. Estoy bacán, Cata. ¿No se nota?
 
 Cata se inclinó hacia adelante. Sus ojos, del color café agudo de una litigante de primer nivel, perforaron la capa de gloss y extensiones y chicle y buscaron a Clara — a la Clara real, a la Clara que ella conocía — debajo de todo ese plástico.
 
@@ -628,7 +628,7 @@ Clara tomó el batido. Se lo tomó de un trago. Se limpió el labio hinchado con
 
 Por la noche, Daniel llegó y encontró a Clara sentada en el borde de la cama, descalza por una vez, mirando su reflejo en el espejo del dormitorio. Había estado llorando — no, no exactamente. Las lágrimas habían empezado pero los batidos las habían secado antes de que pudieran significar algo. Lo que quedaba era una casi-tristeza que se parecía más a un glitch que a una emoción real.
 
-—Gordo —dijo Clara cuando él entró.
+—Papi —dijo Clara cuando él entró.
 
 —¿Qué pasó?
 
@@ -640,7 +640,7 @@ Daniel se sentó junto a ella. Le tomó la mano — la mano con las uñas de leo
 
 Clara lo miró. Los ojos verdes que antes calculaban proporciones y ángulos de luz natural ahora lo miraban con la transparencia vacía de un acuario sin peces.
 
-—Pienso que... no sé, gordo. A veces siento que me falta algo. Como un cacho. Un pedazo. Pero no sé qué es. Y cuando no sé qué es, no me importa tanto. ¿Cachai?
+—Pienso que... no sé, papi. A veces siento que me falta algo. Como un cacho. Un pedazo. Pero no sé qué es. Y cuando no sé qué es, no me importa tanto. ¿Cachai?
 
 Daniel le acarició el pelo rojo cereza. Las extensiones eran suaves bajo sus dedos, artificiales, perfectas.
 
@@ -664,13 +664,13 @@ Pero hace un mes no existía esta Clara.
 
 Esta Clara los quería. Los quería porque Loyaltty los tenía. Los quería porque las mujeres de los videos de Daniel los tenían. Los quería porque EVE le había implantado la necesidad durante cuarenta noches seguidas de espejos subliminales y sueños inducidos. Los quería porque la dopamina de un batido rosa le había enseñado que querer cosas era más fácil que pensar cosas.
 
-—¿De verdad? —preguntó, y su voz se iluminó como la pantalla de un teléfono—. ¿Me vas a comprar pechos, gordo?
+—¿De verdad? —preguntó, y su voz se iluminó como la pantalla de un teléfono—. ¿Me vas a comprar pechos, papi?
 
 —Los que tú quieras.
 
 Clara saltó sobre él. Lo abrazó con una fuerza que las monjas habrían censurado y que Daniel recibió como una medalla de guerra. Las uñas de leopardo se le clavaron en la espalda a través de la camisa y los labios inflados le aplastaron la boca con un beso que sabía a fresa y a rendición.
 
-—¡Te amo, te amo, te amo! —gritó Clara, y cada "te amo" era un salto sobre los restos de la mujer que alguna vez fue—. ¡Voy a quedar re' bacán! ¡Unas tetas heavy, gordo! ¡La Cata se va a morir!
+—¡Te amo, te amo, te amo! —gritó Clara, y cada "te amo" era un salto sobre los restos de la mujer que alguna vez fue—. ¡Voy a quedar re' bacán! ¡Unas tetas heavy, papi! ¡La Cata se va a morir!
 
 Daniel se rió. Clara se rió. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
 
