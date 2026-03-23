@@ -82,7 +82,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activo
-- **Smart Home Stepford** — Capítulo 5 en progreso
+- **Smart Home Stepford** — Completado (v5.17)
 
 ### Serie Miss Doll
 Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
