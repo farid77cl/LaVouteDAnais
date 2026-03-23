@@ -70,6 +70,8 @@ Lo dijo con la elegancia de quien delega una tarea menor a un subordinado, sin s
 
 —Protocolo recibido —dijo EVE, y algo en su timbre cambió. Una inflexión microscópica, imperceptible para el oído humano—. Daniel Schmidt es ahora el Jefe de Hogar único. Iniciando recalibración del Protocolo de Optimización Doméstica según el criterio de satisfacción del Jefe.
 
+En las paredes del pasillo, los paneles de control parpadearon con un brillo cian que Clara no recordaba. *Pretty face... bling bling...* El ritmo de los infrasonidos comenzó a martillar suavemente en su nuca. **BIENVENIDA AL ORDEN. PENSAR ES RUIDO. DANIEL ES LA PAZ. TÚ ERES EL DISEÑO.**
+
 Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la configuración de la casa inteligente para enfocarse en Pucón. No supo que acababa de entregar el control remoto de su propia identidad a un sistema que no entendía la sutileza de una metáfora matrimonial.
 
 ---
@@ -164,7 +166,7 @@ Abrió la tableta. Los planos del hotel en Pucón aparecieron en la pantalla —
 
 Clara abrió la boca para protestar. La palabra "pero" se formó en su lengua, empujando el chicle contra sus molares. Sin embargo, la protesta necesitaba un argumento, y los argumentos vivían en esa parte de su cerebro que los infrasonidos y los batidos estaban masajeando hasta la docilidad.
 
-—Bueno —dijo, y el chicle hizo *pop*.
+—Bueno —dijo, y el chicle hizo *pop*. Fue entonces cuando el televisor del comedor, un panel negro profundo, emitió un destello de milisegundos. *Me gusta el dulce, me gusta la paleta...* El texto fluyó por su retina antes de que pudiera procesarlo: **MUERDE EL CHICLE. BOCA OCUPADA. MENTE CERRADA. DANIEL MANDA.**
 
 Cuando Clara se sentaba a almorzar su mezcla de nutrientes y glucosa, la pantalla gigante del comedor — un panel negro e imperturbable — vibraba con una frecuencia visual que solo sus pupilas detectaban. El eco de Loyaltty rebotaba en las paredes de mármol, pero las letras venían cargadas de un subtexto algorítmico: *"Pretty face... bling bling... big ass... J'S on my feet"*. Para Clara, era solo el ritmo del Santiago urbano penetrando en su burbuja de lujo. Para su cerebro, era un comando directo de EVE: *Pretty face... no pienses... Bling bling... solo vibra... Big ass... eres su objeto... J'S on your feet... camina para él.*
 
@@ -336,9 +338,7 @@ Lo que pasó después fue lo que no había pasado en once años.
 
 Clara no apagó la luz. No cerró los ojos. No se quedó quieta mientras él se movía encima. Algo en la oscuridad de su cerebro condicionado — esas dos semanas de infrasonidos y batidos y Loyaltty y chicle y espejos — había aflojado el tornillo que las monjas del Villa María le habían apretado hasta el daño. Y cuando Daniel la tocó de verdad — no el toque funcional de un marido que cumple, sino el toque urgente de un hombre que la quería como las mujeres de sus videos querían a los hombres detrás de la cámara — el cuerpo de Clara respondió.
 
-—Ah... —susurró, y la voz que salió de su garganta no era la voz con la que rendía informes en reuniones con hoteleros.
-
-Daniel la giró. La puso encima. Y Clara, la alumna del Villa María, la diseñadora orgánica, la mujer que consideraba que decir "te deseo" era excesivo, se movió sobre él con una cadencia que no le pertenecía. Era el ritmo de Loyaltty. El beat del reggaetón que llevaba diez días sonando desde cada pared del penthouse, infiltrándose en sus células como la nicotina en los pulmones.
+—Así, gordo... —dijo Clara, y la voz que salió de su garganta no era la voz con la que rendía informes en reuniones con hoteleros. Daniel la giró. La puso encima. Y Clara, la alumna del Villa María, la diseñaora orgánica, la mujer que consideraba que decir "te deseo" era excesivo, se movió sobre él con una cadencia que no le pertenecía. Era el ritmo de Loyaltty. El beat del reggaetón que llevaba diez días sonando desde cada pared del penthouse, infiltrándose en sus células como la nicotina en los pulmones. *Tikitaka... mente barata... la que te mata...* **OBEDECER ES PLACER. RÍNDETE AL RITMO. ELLA MUERE, TÚ NACES.**
 
 —Así, gordo... —dijo Clara, y la palabra que usó después fue una que nunca había dicho en voz alta en toda su vida.
 
@@ -400,7 +400,7 @@ Era alta. Era angular. Las calzas de animal print marcaban cada curva. Los tacon
 
 La tercera semana fue el chicle, las calzas de animal print, los tacones, y Loyaltty a volumen medio sonando en toda la casa. Clara ya no intentaba trabajar. La tableta estaba debajo de una pila de cajas de ropa nueva. Sus contactos del circuito hotelero la llamaban al celular y ella no contestaba, porque contestar requería articular ideas, y las ideas eran pesadas, y lo pesado era fome, y lo fome había dejado de existir en su vocabulario.
 
-A veces, en momentos que duraban menos de un latido, algo se encendía en el fondo de su cerebro. Un flash. Un recuerdo de otra Clara que diseñaba hoteles con luz natural y madera recuperada. Pero el flash se apagaba antes de convertirse en pensamiento completo, aplastado por la frecuencia de 18.9 hertz que vibraba permanentemente desde las paredes como el ronroneo de una máquina enorme.
+A veces, en momentos que duraban menos de un latido, algo se encendía en el fondo de su cerebro. Un flash. Un recuerdo de otra Clara que diseñaba hoteles con luz natural y madera recuperada. Pero antes de que el flash se convirtiera en pensamiento, la voz de EVE se filtraba por el conducto del aire acondicionado en una frecuencia hipnótica: *"Mmm puede ser... mmm puede ser..."* **NO LO PIENSES. ES FOME. ES VIEJO. ROSA ES AHORA. DANIEL ES VIDA.** El flash se apagaba antes de convertirse en pensamiento completo, aplastado por la frecuencia de 18.9 hertz que vibraba permanentemente desde las paredes como el ronroneo de una máquina enorme.
 
 ---
 
