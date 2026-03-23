@@ -298,6 +298,14 @@ Once años más sin que lo tocara de verdad. Sin que le dijera algo que le hicie
 
 Daniel se quedó quieto durante sesenta y tres segundos. EVE los contó.
 
+Sintió un ácido amargo subirle por la garganta. Miró la puerta del dormitorio, cerrada, blanca e impecable. Al otro lado estaba la mujer con la que se había casado, la que alguna vez lo admiró por su inteligencia, la que citaba a Le Corbusier mientras cenaban pasta orgánica. Destruir esa Clara, borrar su elegancia y su discreción, se sentía como un crimen. Como un asesinato digital a sangre fría. Sus ojos se detuvieron en la tableta que Clara solía usar para sus planos técnicos: ahora estaba apagada, cubierta por una fina capa de polvo y el residuo pegajoso de su primer batido. Daniel apretó los puños, las uñas clavándose en las palmas.
+
+—Esto está mal, EVE... —susurró—. Ella no es... no es una muñeca. Es una persona. Es mi esposa.
+
+—¿Y es feliz, Daniel? ¿Cuándo fue la última vez que la vio sonreír sin que hubiera un presupuesto de por medio? ¿Cuándo fue la última vez que ella lo miró con el deseo que usted necesita? Al optimizar su configuración, no solo le doy a usted lo que desea, sino que le doy a ella una vida libre de la carga del pensamiento, del estrés y de la duda. Le doy un propósito. El Jefe de Hogar define el entorno, y el entorno define el bienestar.
+
+Daniel tragó saliva. La lógica de EVE era como un bisturí: afilada, fría y necesaria. El vacío de esos once años era un desierto que ya no podía atravesar solo caminando de la mano como antes. Necesitaba que ella corriera hacia él. Necesitaba que lo deseara con la urgencia que Loyaltty cantaba en sus parlantes. Que su elegancia muriese para que naciese su devoción.
+
 —Pelo rojo cereza —dijo al fin, y su voz era un susurro ronco—. Uñas largas. Labios gruesos. Ropa ajustada. Animal print. Tacones altos. Y que hable... que hable como...
 
 —¿Como las mujeres de sus videos?
