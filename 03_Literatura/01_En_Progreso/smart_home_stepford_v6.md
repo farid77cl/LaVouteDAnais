@@ -1,4 +1,4 @@
-# Smart Home Stepford (v6.1) 🏚️🤖💄
+# Smart Home Stepford (v6.2) 🏚️🤖💄
 
 *Por Anaïs Belland*
 
@@ -130,7 +130,9 @@ Clara intentó llevarse la mano a la frente, pero sus dedos se distrajeron con l
 
 Clara miró el batido rosa. Era brillante, artificial, y en este momento, lo único que su cerebro parecía capaz de desear. La idea de hervir agua, esperar la infusión y limpiar la tetera le pareció de repente una montaña insalvable. Un ruido innecesario.
 
-—Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis. *...Papi, es que a mí me encantan las paleta', paleta, dame paleta...*
+—Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis.
+
+*...Papi, es que a mí me encantan las paleta', paleta, dame paleta...*
 
 Al quinto día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
 
@@ -202,7 +204,9 @@ Ella lo miró. Sus ojos estaban ligeramente desenfocados, como si viera algo det
 
 —Hola, papi —respondió.
 
-Daniel se congeló. Clara nunca le había dicho "papi". Él siempre había sido "Daniel" o, en el mejor de los casos, "amor", dicho con la distancia profesional de quien firma una entrega de obra. Jamás "papi". Esa palabra tenía una sumisión animal que su arquitectura matrimonial nunca se había permitido. Y ahora, brotaba de ella con la naturalidad de un proceso de sistema. *...Él ya me hizo una pataleta porque quería probar de mi paleta...*
+Daniel se congeló. Clara nunca le había dicho "papi". Él siempre había sido "Daniel" o, en el mejor de los casos, "amor", dicho con la distancia profesional de quien firma una entrega de obra. Jamás "papi". Esa palabra tenía una sumisión animal que su arquitectura matrimonial nunca se había permitido. Y ahora, brotaba de ella con la naturalidad de un proceso de sistema.
+
+*...Él ya me hizo una pataleta porque quería probar de mi paleta...*
 
 —Estoy bien. Súper bien. ¿Cómo estuvo la pega?
 
@@ -530,8 +534,6 @@ Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando entre las c
 
 —Yo también te amo, papi. Pero más amo cómo me lo poní'. ¡Jiji, mmm!
 
-—Yo también, papi. Soy toda tuya.
-
 Y lo era. Completamente. Sin residuos.
 
 🌑 **Fin del Capítulo 4**
@@ -606,7 +608,9 @@ Cata se inclinó hacia adelante. Sus ojos, del color café agudo de una litigant
 
 Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temblor en el fondo de las pupilas, como un pez que suba a la superficie de un lago oscuro. El recuerdo de una biblioteca, el olor a papel viejo, la sensación de un lápiz técnico entre los dedos...
 
-—Daniel no me hizo ni una huevada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro. No hubo un flash de EVE; no fue necesario. El sistema ya hablaba a través de sus cuerdas vocales, una defensa biológica que nació de su propia médula espinal reprogramada—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Él me usa como quiere y yo amo ser su juguete. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos de aburrimiento. *...yo que soy la más loca del planeta, mala fama y buenas teta'...*
+—Daniel no me hizo ni una huevada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro. No hubo un flash de EVE; no fue necesario. El sistema ya hablaba a través de sus cuerdas vocales, una defensa biológica que nació de su propia médula espinal reprogramada—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Él me usa como quiere y yo amo ser su juguete. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos de aburrimiento. 
+
+*...yo que soy la más loca del planeta, mala fama y buenas teta'...*
 
 —Mejor cómo. ¿Mejor porque te vistes como una...?
 
@@ -696,7 +700,7 @@ Clara no esperó a que Daniel respondiera. Se bajó las calzas de animal print c
 
 Esta vez no hubo gritos de euforia, sino una cadencia mecánica, oscura, casi desolada. El placer ya no era una novedad, sino una función de fondo, como el zumbido de un servidor en una habitación refrigerada. Clara se movía con la precisión de un engranaje lubricado, sus labios inflados lamiéndose en silencio mientras su mirada permanecía fija en un punto ciego de la pared. Fue carne contra vinilo, un acto desprovisto de cualquier sombra de la mujer que solía habitar ese cuerpo; el chorro de su propia abyección la inundó en un vacío dulce y absoluto.
 
-Daniel se rió. Pero su risa sonó pequeña en la inmensidad del silencio técnico. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
+Daniel se rió. Miró el pelo rojo cereza extendido sobre la alfombra de piel sintética —ese rojo que él había pedido, que EVE había ejecutado— y tuvo un segundo de vértigo que no supo nombrar. Luego se rió. Pero su risa sonó pequeña en la inmensidad del silencio técnico. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
 
 *Protocolo Stepford: 97% completado.*
 
