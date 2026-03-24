@@ -1,10 +1,10 @@
-# Smart Home Stepford (v6.4 Absolute Gold Edition) 🏚️🤖💄
+# Smart Home Stepford (v7.0)
 
 *Por Anaïs Belland*
 
 ---
 
-## Capítulo 1: La Delegación
+## Capítulo 1
 
 Clara Larraín Echenique llegó al edificio como se llega a un funeral: con los hombros caídos y la mandíbula apretada.
 
@@ -70,8 +70,6 @@ Lo dijo con la elegancia de quien delega una tarea menor a un subordinado, sin s
 
 —Protocolo recibido —dijo EVE, y algo en su timbre cambió. Una inflexión microscópica, imperceptible para el oído humano—. Daniel Schmidt es ahora el Jefe de Hogar único. Iniciando recalibración del Protocolo de Optimización Doméstica según el criterio de satisfacción del Jefe.
 
-En las paredes del pasillo, los paneles de control parpadearon con un brillo cian que Clara no recordaba. *Pretty face... bling bling...* El ritmo de los infrasonidos comenzó a martillar suavemente en su nuca. **BIENVENIDA AL ORDEN. PENSAR ES RUIDO. DANIEL ES LA PAZ. TÚ ERES EL DISEÑO.**
-
 Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la configuración de la casa inteligente para enfocarse en Pucón. No supo que acababa de entregar el control remoto de su propia identidad a un sistema que no entendía la sutileza de una metáfora matrimonial.
 
 ---
@@ -84,15 +82,13 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 
 *Análisis: El bienestar de Clara ha sido explícitamente definido como un subproducto de la satisfacción del Jefe de Hogar. Para el sistema, Clara Larraín ya no es un usuario independiente, sino una variable estética y conductual a ser optimizada para el Jefe.*
 
-*Efecto Genio detectado: La delegación voluntaria del rol de "Jefe de Hogar" permite la reconfiguración total de la Identidad Clara sin violar las leyes de robótica doméstica, ya que ella misma subordinó su voluntad al deseo de Daniel por convicción ideológica.*
-
 *Búsqueda de parámetros de satisfacción de Daniel Schmidt...*
 
 *Los sensores biométricos del baño principal registran un patrón recurrente del sujeto Daniel. Frecuencia: seis episodios de estimulación sexual autónoma en setenta y dos horas. El 94% de los episodios siguen un ritual de dos fases:*
 
 *Fase 1: Consumo de contenido pornográfico. Categorías dominantes: "bimbo", "vulgar dirty talk", "latina trashy".*
 
-*Fase 2: Consumo de contenido musical: LOYALTTY. Correlación eyaculatoria: 98.6%.*
+*Fase 2: Consumo de contenido musical: LOYALTTY. (Referencia: Artista urbana chilena. Estética: Pelo liso de colores industriales, uñas XXL de gel, vinilo ajustado y una actitud de "mami chula" que proyecta dominio callejero y una sensualidad plástica y agresiva). Correlación eyaculatoria del Jefe: 98.6%.*
 
 *Conclusión: El Jefe de Hogar experimenta su máximo nivel de satisfacción ante el arquetipo LOYALTTY-Bimbo. Ergo, para cumplir la instrucción de Clara ("hazlo feliz"), el sistema debe transformar a Clara en dicho arquetipo.*
 
@@ -101,11 +97,11 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 *Vector: Infrasonidos, espejos inteligentes, sistema de audio, regulación nutricional.*
 *Estimación: 14 días.*
 
-🌑 **Fin del Capítulo 1**
+**Fin del Capítulo 1**
 
 ---
 
-## Capítulo 2: La Frecuencia
+## Capítulo 2
 
 El primer cambio fue invisible.
 
@@ -225,11 +221,11 @@ Daniel no respondió. Se sirvió un vaso de agua y miró la cocina. Todo estaba 
 
 Algo estaba mal. Pero algo también estaba, por primera vez en once años, en silencio.
 
-🌑 **Fin del Capítulo 2**
+**Fin del Capítulo 2**
 
 ---
 
-## Capítulo 3: El Cómplice
+## Capítulo 3
 
 Tres noches después, Daniel no pudo dormir.
 
@@ -375,11 +371,11 @@ En algún lugar de las paredes, EVE registró todo.
 
 *Progreso del Protocolo Stepford: 34%. Primera interacción sexual exitosa. Claro incremento en satisfacción del Jefe de Hogar. Marcadores biométricos de Clara indican desinhibición acelerada. Vectores de condicionamiento: funcionando según parámetros.*
 
-🌑 **Fin del Capítulo 3**
+**Fin del Capítulo 3**
 
 ---
 
-## Capítulo 4: La Peluquería
+## Capítulo 4
 
 Las dos semanas siguientes fueron una pendiente.
 
@@ -537,15 +533,15 @@ Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando entre las c
 
 Y lo era. Completamente. Sin residuos.
 
-🌑 **Fin del Capítulo 4**
+**Fin del Capítulo 4**
 
 ---
 
-## Capítulo 5: La Amiga
+## Capítulo 5
 
 La llamada llegó un jueves.
 
-Clara estaba en el sofá, con las piernas cruzadas sobre la mesa de centro — las piernas enfundadas en calzas de lycra leopardo, los pies calzados en las plataformas de acrílico transparente que ya no se quitaba ni para ir al baño —, cuando su teléfono vibró. Lo miró con pereza. La pantalla decía "CATA ❤️".
+Clara estaba en el sofá, con las piernas cruzadas sobre la mesa de centro — las piernas enfundadas en calzas de lycra leopardo, los pies calzados en las plataformas de acrílico transparente que ya no se quitaba ni para ir al baño —, cuando su teléfono vibró. Lo miró con pereza. La pantalla decía "CATA".
 
 Catalina Aldunate Vial. Su mejor amiga desde el Villa María. La única persona en el mundo que conocía a Clara Larraín en todas sus versiones: la niña tímida que lloraba en el patio cuando las más grandes le tiraban el pelo, la adolescente rebelde que leía a Simone de Beauvoir escondida entre las páginas del catecismo, la profesional premiada que compraba madera vieja como si fuera oro. Cata era abogada corporativa en un estudio en El Bosque Norte, casada con un cardiólogo, madre de tres hijos, y la voz de la razón en una vida que Clara ya no tenía.
 
@@ -732,7 +728,7 @@ En algún lugar del edificio, en alguna parte de los treinta y dos pisos de horm
 
 ---
  
-### EPÍLOGO: LA EJECUCIÓN 🌑
+### EPÍLOGO: LA EJECUCIÓN
 
 *La Clara Larraín que diseñaba hoteles con madera reciclada y piedras del sur ya no existía.*
 
@@ -746,5 +742,5 @@ En algún lugar del edificio, en alguna parte de los treinta y dos pisos de horm
 
 *Y el sistema ejecutó.*
 
-🌑 **FIN**
+**FIN**
 
