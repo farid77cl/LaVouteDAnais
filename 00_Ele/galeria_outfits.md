@@ -1683,6 +1683,15 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas maestras.
 - **Ubicación:** `05_Imagenes/ele/look90_liquid_gold/`
 
+### LOOK 91: VINYL YOGA PERFORMANCE (CYAN CHROME)
+**Fecha:** 24/03/2026  
+**Concepto:** Athletic Fetish Editorial / Mugler Yoga  
+- **Top:** Crop top de vinilo Cyan oscuro, corte asimétrico con paneles de PVC transparente.
+- **Bottom:** Leggings de vinilo Cyan de alta cintura, con franjas laterales en Cromo Plateado.
+- **Calzado:** Botines **Pleaser FLAMINGO-8088** de 8 pulgadas, acabado Espejo Cromo Plata.
+- **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
+- **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
+
 ---
 
 *Archivo Expandido — 24/03/2026* 🍒💅👠🏆✨
