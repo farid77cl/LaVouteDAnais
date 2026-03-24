@@ -7,15 +7,16 @@
 
 ---
 
-## 🧬 CONSTANTES DE IDENTIDAD (Base Obligatoria)
+## 🧬 CONSTANTES DE IDENTIDAD (Base Obligatoria - V3 Master)
 
-Estas líneas deben copiarse **textualmente** en cada prompt de generación visual:
+Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente en cada prompt (segmento extraído de `prompts_ele_v3_master.md`):
 
-1. **Rostro/Piel:** `Stunning woman with Sacha Massacre facial structure. Flawless porcelain white skin, smooth plastic texture.`
-2. **Makeup:** `HEAVY DARK MAKEUP: grey-green almond bedroom eyes, thick siren winged liner, mega lashes, full glossy dark cherry red overlined lips, bee-stung pout.`
-3. **Cabello:** `DARK CHERRY RED hair (artificial XXXL extensions, hip-length, voluminous waves, center parted).`
-4. **Cuerpo:** `EXTREME hourglass silhouette, tiny cinched waist from tight internal corset.`
-5. **Calzado:** `Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.`
+`stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.`
+
+**Protocolos Adicionales:**
+- **Calzado:** Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.
+- **Expresión:** Vacant, ditzy, eyes wide, mouth slightly open.
+- **Aesthetic:** High-end fetish editorial, Mugler-inspired, rim lighting, high-gloss specularity.
 
 ---
 
