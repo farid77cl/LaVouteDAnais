@@ -25,4 +25,4 @@ Total imágenes: 4
 - [04_closeup.png](./04_closeup.png)
 
 ---
-*Actualizado automáticamente: 2026-03-23*
+*Actualizado automáticamente: 2026-03-24*
