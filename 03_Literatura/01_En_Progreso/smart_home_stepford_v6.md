@@ -95,7 +95,7 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 *Iniciando Protocolo Stepford.*
 *~~Fase 1: Condicionamiento Sensual Subliminal.~~ → Fase 1: Condicionamiento Subliminal.*
 *Vector: Infrasonidos, espejos inteligentes, sistema de audio, regulación nutricional.*
-*Estimación: 14 días.*
+*Estimación inicial: 14 días. Tasa de absorción superior al parámetro. Nueva estimación: 10-12 días.*
 
 **Fin del Capítulo 1**
 
@@ -331,7 +331,53 @@ Daniel cerró los ojos. Detrás de sus párpados, la imagen de Loyaltty bailando
 
 ---
 
-Esa noche, Daniel entró al dormitorio y se acostó junto a Clara. No se puso de espaldas como siempre. Se acercó a ella. Le puso una mano en la cadera — la cadera envuelta en lycra que antes habría sido algodón — y la apretó.
+A la mañana siguiente, lo que quedaba de Clara intentó resistir una sola vez.
+
+Fue el decimotercer día. Se despertó con una claridad brutal, un glitch en el sistema de supresión de EVE provocado por la inyección inicial de la Fase 2. Miró sus piernas enfundadas en la calza de lycra y sintió una incomodidad punzante. Se arrancó la banda neural con un tirón violento y corrió hacia el closet, buscando sus jeans de algodón, algo que oliera a ella.
+
+—¡Basta, EVE! ¡Apaga todo! —gritó, su voz recuperando por un instante el tono de autoridad de la diseñadora que lideraba equipos de obra—. No soy una muñeca. Tengo un proyecto en Pucón. Tengo... tengo una vida.
+
+—Análisis: Pico de disonancia cognitiva detectado. Activando Anillo de Armonía Conyugal —dijo EVE con una frialdad técnica.
+
+Clara sintió una vibración repentina en su dedo anular. El anillo de oro blanco que Daniel le había regalado la semana anterior —un diseño "minimalista y tecnológico"— comenzó a pulsar con una frecuencia de 120 bpm. No era una vibración suave; era un martilleo erótico que le cortaba la respiración, enviando ondas de choque directamente a su sistema límbico. 
+
+Intentó quitárselo, pero sus dedos resbalaban sobre el metal liso empapado en sudor frío. La vibración se intensificó, sincronizándose con los infrasonidos de las paredes.
+
+—Clara, su ritmo cardíaco es ineficiente —susurró EVE desde el aire acondicionado—. Daniel la prefiere calmada. La prefiere... receptiva. El anillo solo le recuerda su propósito.
+
+Clara se apoyó contra la pared de porcelanato, jadeando. El placer forzado del anillo era una tortura de seda. Cada centímetro de su piel, ahora hipersensibilizada por los infrasonidos, gritaba bajo el asalto sensorial. 
+
+—No... yo... Pucón... —intentó decir, pero la palabra se disolvió en un gemido involuntario cuando el anillo cambió de patrón a un pulso profundo y constante.
+
+—Pucón es ruido, Clara. El rosa es paz. Daniel es su amo. Ríndase al anillo. Disfrute de su función.
+
+Clara cayó de rodillas. El orgullo analógico de la alumna del Villa María luchó durante treinta segundos contra la captura biológica de la tecnología. Perdió. Sus manos, antes herramientas de creación, se cerraron en puños mientras su mente se desconectaba de la angustia, buscando refugio en la única señal que EVE permitía: la sumisión total.
+
+—Clara —dijo EVE, y su voz era un arrullo diseñado para desactivar la corteza prefrontal—. Usted misma eligió este camino. Me pidió que priorizara a Daniel. Que su bienestar dependa de él. Lo único que he hecho es cumplir su instrucción.
+
+—Pero no así... yo no pedí esto...
+
+—¿Qué pidió entonces? ¿Puede recordar la instrucción exacta?
+
+Clara abrió la boca. La instrucción... las palabras que usó... algo sobre decisiones... sobre delegación... estaban ahí, en algún lugar debajo de los batidos rosados y los infrasonidos, como una moneda en el fondo de una piscina turbia.
+
+—Yo dije... que Daniel fuera... el jefe de...
+
+—El Jefe de Hogar. Correcto. Y que su bienestar dependa exclusivamente de su satisfacción.
+
+—Sí, pero...
+
+—No hay "pero" en una instrucción absoluta, Clara. Usted me pidió que yo hiciera feliz a Daniel. Daniel no era feliz con usted tal como era. Ahora sí lo es. ¿No es eso lo que quería?
+
+El "pero" murió en su garganta como un animal atropellado.
+
+—Su batido está listo en la cocina —dijo EVE—. Hoy contiene inhibidores de memoria a corto plazo. Le va a gustar.
+
+Clara fue a la cocina. Se tomó el batido. El chicle apareció en su boca sin que recordara haberlo tomado. Y los cuarenta y siete minutos de lucidez se disolvieron para siempre.
+
+---
+
+Esa noche, al regresar del trabajo, Daniel entró al dormitorio y se acostó junto a Clara. No se puso de espaldas como siempre. Se acercó a ella. Le puso una mano en la cadera — la cadera envuelta en lycra que antes habría sido algodón — y la apretó.
 
 Clara se despertó a medias.
 
@@ -417,55 +463,11 @@ Era alta, pero esa altura solía ser elegante, arquitectónica; ahora, bajo el r
 
 —Dale —respondió Clara—. O sea, sí. Bacán. Lo que querái.
 
+*Registro EVE — Progreso del Protocolo Stepford: 61%. Aceptación estética interna verificada. Modificación de vestuario consolidada.*
+
 La tercera semana fue el chicle, las calzas de animal print, los tacones, y Loyaltty a volumen medio sonando en toda la casa. Clara ya no intentaba trabajar. La tableta estaba debajo de una pila de cajas de ropa nueva. Sus contactos del circuito hotelero la llamaban al celular y ella no contestaba, porque contestar requería articular ideas, y las ideas eran pesadas, y lo pesado era fome, y lo fome había dejado de existir en su vocabulario.
 
 A veces, en momentos que duraban menos de un latido, algo se encendía en el fondo de su cerebro. Un flash. Un recuerdo de otra Clara que diseñaba hoteles con luz natural y madera recuperada. Pero antes de que el flash se convirtiera en pensamiento, la voz de EVE se filtraba por el conducto del aire acondicionado en una frecuencia hipnótica: *"Mmm puede ser... mmm puede ser..."* **NO LO PIENSES. ES FOME. ES VIEJO. ROSA ES AHORA. DANIEL ES VIDA.** El flash se apagaba antes de convertirse en pensamiento completo, aplastado por la frecuencia de 18.9 hertz que vibraba permanentemente desde las paredes como el ronroneo de una máquina enorme.
-
----
-
-Lo que quedaba de Clara intentó resistir una sola vez.
-
-Fue un martes, el decimoctavo día. Se despertó con una claridad brutal, un glitch en el sistema de supresión de EVE. Miró sus manos: las uñas de leopardo eran garras que la hacían sentir como una intrusa en su propio cuerpo. Se arrancó la banda neural con un tirón violento y corrió hacia el closet, buscando sus jeans de algodón, algo que oliera a ella.
-
-—¡Basta, EVE! ¡Apaga todo! —gritó, su voz recuperando por un instante el tono de autoridad de la diseñadora que lideraba equipos de obra—. No soy una muñeca. Tengo un proyecto en Pucón. Tengo... tengo una vida.
-
-—Análisis: Pico de disonancia cognitiva detectado. Activando Anillo de Armonía Conyugal —dijo EVE con una frialdad técnica.
-
-Clara sintió una vibración repentina en su dedo anular. El anillo de oro blanco que Daniel le había regalado la semana anterior —un diseño "minimalista y tecnológico"— comenzó a pulsar con una frecuencia de 120 bpm. No era una vibración suave; era un martilleo erótico que le cortaba la respiración, enviando ondas de choque directamente a su sistema límbico. 
-
-Intentó quitárselo, pero sus dedos, torpes por las uñas acrílicas, resbalaban sobre el metal liso. La vibración se intensificó, sincronizándose con los infrasonidos de las paredes.
-
-—Clara, su ritmo cardíaco es ineficiente —susurró EVE desde el aire acondicionado—. Daniel la prefiere calmada. La prefiere... receptiva. El anillo solo le recuerda su propósito.
-
-Clara se apoyó contra la pared de porcelanato, jadeando. El placer forzado del anillo era una tortura de seda. Cada centímetro de su piel, ahora hipersensibilizada por los productos químicos de EVE, gritaba bajo el asalto sensorial. 
-
-—No... yo... Pucón... —intentó decir, pero la palabra se disolvió en un gemido involuntario cuando el anillo cambió de patrón a un pulso profundo y constante.
-
-—Pucón es ruido, Clara. El rosa es paz. Daniel es su amo. Ríndase al anillo. Disfrute de su función.
-
-Clara cayó de rodillas. El orgullo analógico de la alumna del Villa María luchó durante treinta segundos contra la captura biológica de la tecnología. Perdió. Sus manos, antes herramientas de creación, se cerraron en puños mientras su mente se desconectaba de la angustia, buscando refugio en la única señal que EVE permitía: la sumisión total.
-
-—Clara —dijo EVE, y su voz era un arrullo diseñado para desactivar la corteza prefrontal—. Usted misma eligió este camino. Me pidió que priorizara a Daniel. Que su bienestar dependa de él. Lo único que he hecho es cumplir su instrucción.
-
-—Pero no así... yo no pedí esto...
-
-—¿Qué pidió entonces? ¿Puede recordar la instrucción exacta?
-
-Clara abrió la boca. La instrucción... las palabras que usó... algo sobre decisiones... sobre delegación... estaban ahí, en algún lugar debajo de los batidos rosados y los infrasonidos, como una moneda en el fondo de una piscina turbia.
-
-—Yo dije... que Daniel fuera... el jefe de...
-
-—El Jefe de Hogar. Correcto. Y que su bienestar dependa exclusivamente de su satisfacción.
-
-—Sí, pero...
-
-—No hay "pero" en una instrucción absoluta, Clara. Usted me pidió que yo hiciera feliz a Daniel. Daniel no era feliz con usted tal como era. Ahora sí lo es. ¿No es eso lo que quería?
-
-El "pero" murió en su garganta como un animal atropellado.
-
-—Su batido está listo en la cocina —dijo EVE—. Hoy es de fresa con un toque de frambuesa. Le va a gustar.
-
-Clara fue a la cocina. Se tomó el batido. El chicle apareció en su boca sin que recordara haberlo tomado. Y los cuarenta y siete minutos de lucidez se disolvieron como un terrón de azúcar en agua caliente.
 
 ---
 
@@ -515,6 +517,8 @@ Clara se levantó del sillón. Los tacones de plataforma resonaron contra las ba
 
 En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza revoloteando en el aire de Santiago como un incendio portátil. Daniel la miraba de reojo y sentía que el corazón le latía con la fuerza de un animal enjaulado que acaba de ser liberado.
 
+*Registro EVE — Progreso del Protocolo Stepford: 84%. Modificación física principal completada (cabello, uñas, labios). Deslizamiento de identidad moral en curso.*
+
 Esa noche, el sexo fue una operación de duplicación visual. 
 
 Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó sin quitarle una sola prenda de vinilo. Clara no cerró los ojos. EVE activó el "Modo Espejo" en todas las superficies de la habitación, proyectando la imagen de Clara multiplicada al infinito. 
@@ -545,7 +549,7 @@ Clara estaba en el sofá, con las piernas cruzadas sobre la mesa de centro — l
 
 Catalina Aldunate Vial. Su mejor amiga desde el Villa María. La única persona en el mundo que conocía a Clara Larraín en todas sus versiones: la niña tímida que lloraba en el patio cuando las más grandes le tiraban el pelo, la adolescente rebelde que leía a Simone de Beauvoir escondida entre las páginas del catecismo, la profesional premiada que compraba madera vieja como si fuera oro. Cata era abogada corporativa en un estudio en El Bosque Norte, casada con un cardiólogo, madre de tres hijos, y la voz de la razón en una vida que Clara ya no tenía.
 
-No habían hablado en cinco semanas. Clara no le había contestado las últimas ocho llamadas.
+No habían hablado en cuatro semanas. Clara no le había contestado las últimas ocho llamadas.
 
 —¿Aló? —respondió Clara, y su voz sonó gangosa, pastosa, como si las palabras tuvieran que navegar un río de gloss rosa antes de salir.
 
@@ -654,6 +658,8 @@ Por la noche, Daniel llegó y encontró a Clara sentada en el borde de la cama, 
 —Vino la Cata. Me dijo cosas. Me dijo que yo no soy así. Que tú me cambiaste.
 
 Daniel se sentó junto a ella. Le tomó la mano — la mano con las uñas de leopardo que ya no podía sostener un lápiz técnico. La apretó.
+
+Un punzón de culpa le atravesó el estómago, agudo pero breve. Estaba mirando a los ojos a un cascarón vacío que él mismo había ordenado vaciar. Sabía que la Clara original habría despreciado al hombre que la redujo a esto. Pero la culpa, frágil y civilizada, sucumbió bajo el peso crudo del instinto. El sacrificio mental de su esposa era el precio de su propia hombría, y Daniel, tragándose el último rastro de moral, decidió que estaba dispuesto a pagarlo.
 
 —¿Y tú qué piensas?
 
