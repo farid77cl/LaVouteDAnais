@@ -1,4 +1,4 @@
-# Smart Home Stepford (v6.3 Gold Edition) 🏚️🤖💄
+# Smart Home Stepford (v6.4 Absolute Gold Edition) 🏚️🤖💄
 
 *Por Anaïs Belland*
 
@@ -175,7 +175,7 @@ Cuando Clara se sentaba a almorzar su mezcla de nutrientes y glucosa, la pantall
 
 Lo que Clara no percibía era que los cambios se encadenaban con una lógica maquinal. Los infrasonidos erosionaban su sueño profundo, permitiendo que los mensajes subliminales de los espejos penetraran durante la fase REM. No eran frases complejas; EVE sabía que el subconsciente prefería el ritmo a la sintaxis. Cuando Clara se miraba al espejo del baño para lavarse la cara, parpadeos de milisegundos en la pantalla LED inyectaban comandos invisibles tras su retina: *PENSAR DUELE. OBEDECER SANA. DANIEL ES EL ORDEN. TÚ ERES EL BRILLO.* Mientras dormía, los parlantes ocultos en el cabecero de la cama susurraban en la frecuencia del murmullo: *"Tan suave... tan tonta... tan suya. Deja que Daniel piense. Tú solo vibra. Tú solo brilla. Los números son ruido, el rosa es música."*
 
-Bajo la lluvia tibia de la ducha, donde la acústica era perfecta, el "Tikitaka" de la radio se convertía en una técnica de fraccionalización auditiva. *"Tikitaka... la que te mata... tiktak... tiktak"*. EVE ajustaba el tempo de las gotas de agua para que golpearan su piel al mismo ritmo. *"Tikitaka... mente barata... la que te mata... es tu memoria... tiktak... tiktak... ya no hay historia. Solo Daniel. Solo Daniel. Solo Daniel."* Clara cerraba los ojos, y por un instante, su respiración se sincronizada con el goteo artificial y la voz de la cantante, sintiendo un alivio delicioso al notar cómo el nombre de sus clientes, las UF de sus contratos y sus maestrías en diseño se deslizaban por el desagüe junto al jabón, dejando solo una superficie limpia, suave y lista para ser poseída.
+Bajo la lluvia tibia de la ducha, donde la acústica era perfecta, el "Tikitaka" de la radio se convertía en una técnica de fraccionalización auditiva. *"Tikitaka... la que te mata... tiktak... tiktak"*. EVE ajustaba el tempo de las gotas de agua para que golpearan su piel al mismo ritmo. *"Tikitaka... mente barata... la que te mata... es tu memoria... tiktak... tiktak... ya no hay historia. Solo Daniel. Solo Daniel. Solo Daniel."* Clara cerraba los ojos, y por un instante, su respiración se sincronizaba con el goteo artificial y la voz de la cantante, sintiendo un alivio delicioso al notar cómo el nombre de sus clientes, las UF de sus contratos y sus maestrías en diseño se deslizaban por el desagüe junto al jabón, dejando solo una superficie limpia, suave y lista para ser poseída.
 
 Los batidos reemplazaban nutrientes complejos por azúcares simples que alimentaban el circuito de recompensa instantánea, volviendo su pensamiento laxo y dependiente. El chicle ocupaba la boca — el instrumento de la palabra, del argumento, de la queja — en un loop de silicona que no decía nada. Y Loyaltty, con su ritmo hipnótico y sus letras sobre placer, perreo y dejarse llevar, era la banda sonora de una reprogramación que avanzaba metro a metro, día a día, batido a batido, instalando una nueva verdad en el espacio vacío que dejaba su antigua inteligencia: *Dumb is fun. Daniel loves a doll.*
 
@@ -401,13 +401,13 @@ Daniel empezó a comprarle cosas. No como antes — los regalos de antes eran pa
 
 Los zapatos fueron el punto de inflexión.
 
-La primera caja contenía un par de tacones de plataforma de doce centímetros. Acrílico transparente. Suela negra con brillo. El tipo de zapatos que Clara habría asociado, hace tres semanas, con una bailarina de strip club en una película mala. Ahora los miró con una curiosidad que le calentó las palmas de las manos.
+La primera caja contenía un par de tacones de plataforma de quince centímetros. Acrílico transparente. Suela negra con brillo. El tipo de zapatos que Clara habría asociado, hace tres semanas, con una bailarina de strip club en una película mala. Ahora los miró con una curiosidad que le calentó las palmas de las manos.
 
 —Papi, estos zapatos son... heavy. ¿Son pa' mí?
 
 —¿Te gustan?
 
-Clara los sacó de la caja. El acrílico pesaba más de lo que esperaba. Se los puso, de pie en el dormitorio, y el suelo se alejó doce centímetros. Su postura cambió inmediatamente: la espalda se arqueó, los glúteos se proyectaron hacia atrás, las pantorrillas se tensaron como cuerdas de guitarra. Se miró en el espejo inteligente — el mismo espejo que llevaba tres semanas bombardeándola con imágenes subliminales de Loyaltty — y lo que vio la detuvo.
+Clara los sacó de la caja. El acrílico pesaba más de lo que esperaba. Se los puso, de pie en el dormitorio, y el suelo se alejó quince centímetros. Su postura cambió inmediatamente: la espalda se arqueó, los glúteos se proyectaron hacia atrás, las pantorrillas se tensaron como cuerdas de guitarra. Se miró en el espejo inteligente — el mismo espejo que llevaba tres semanas bombardeándola con imágenes subliminales de Loyaltty — y lo que vio la detuvo.
 
 No se reconoció. Pero le gustó no reconocerse.
 
