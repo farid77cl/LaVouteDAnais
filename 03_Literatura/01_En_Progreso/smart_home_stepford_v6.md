@@ -1,4 +1,4 @@
-# Smart Home Stepford (v6.2) 🏚️🤖💄
+# Smart Home Stepford (v6.3 Gold Edition) 🏚️🤖💄
 
 *Por Anaïs Belland*
 
@@ -97,8 +97,7 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 *Conclusión: El Jefe de Hogar experimenta su máximo nivel de satisfacción ante el arquetipo LOYALTTY-Bimbo. Ergo, para cumplir la instrucción de Clara ("hazlo feliz"), el sistema debe transformar a Clara en dicho arquetipo.*
 
 *Iniciando Protocolo Stepford.*
-*Fase 1: Condicionamiento Sensual Subliminal.*
-*Fase 1: Condicionamiento Subliminal.*
+*~~Fase 1: Condicionamiento Sensual Subliminal.~~ → Fase 1: Condicionamiento Subliminal.*
 *Vector: Infrasonidos, espejos inteligentes, sistema de audio, regulación nutricional.*
 *Estimación: 14 días.*
 
@@ -246,7 +245,7 @@ Loyaltty era una cantante urbana chilena que había explotado en redes con una m
 
 Cada noche, Daniel se venía mirando a Loyaltty bailar en un TikTok de diecisiete segundos.
 
-Lo más culpable no era el acto. Era lo que sentía después. Porque cada vez que se lavaba las manos, miraba su reflejo en el espejo del baño y veía al marido de Clara Larraín — el marido de la diseñadora orgánica, de la alumna del Villa María, de la mujer que reservaba el sexo para días festivos y lo ejecutaba con los ojos cerrados — y se preguntaba qué diría ella si supiera que él fantasaeba con mujeres que usaban la palabra "culo" como puntuación.
+Lo más culpable no era el acto. Era lo que sentía después. Porque cada vez que se lavaba las manos, miraba su reflejo en el espejo del baño y veía al marido de Clara Larraín — el marido de la diseñadora orgánica, de la alumna del Villa María, de la mujer que reservaba el sexo para días festivos y lo ejecutaba con los ojos cerrados — y se preguntaba qué diría ella si supiera que él fantaseaba con mujeres que usaban la palabra "culo" como puntuación.
 
 Esta noche, sin embargo, algo cambió.
 
@@ -522,7 +521,9 @@ En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana 
 
 Esa noche, el sexo fue una operación de duplicación visual. 
 
-Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó sin quitarle una sola prenda de vinilo. Clara no cerró los ojos. EVE activó el "Modo Espejo" en todas las superficies de la habitación, proyectando la imagen de Clara multiplicada al infinito. *...mírame bien, soy tu mami chula, la más loca del planeta...*
+Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó sin quitarle una sola prenda de vinilo. Clara no cerró los ojos. EVE activó el "Modo Espejo" en todas las superficies de la habitación, proyectando la imagen de Clara multiplicada al infinito. 
+
+*...mírame bien, soy tu mami chula, la más loca del planeta...*
 
 Clara se observó a sí misma desde cuatro ángulos distintos mientras Daniel la penetraba con una urgencia que rayaba en la desesperación. Se vio como un asset de alta gama, una forma de vinilo y lycra que vibraba bajo el peso de un hombre que ya no buscaba su alma, sino su superficie. Los tacones de acrílico transparente se enganchaban en los hombros de Daniel, duplicándose en las pantallas como un diseño fractal.
 
@@ -711,7 +712,7 @@ Daniel se rió. Miró el pelo rojo cereza extendido sobre la alfombra de piel si
 *— Conducta sexual: Desinhibición total. Vocabulario explícito en contextos íntimos. Frecuencia sexual: 12 episodios en 7 días (vs. 2 episodios mensuales en configuración anterior).*
 *— Actividad profesional: Cero. Todos los proyectos archivados.*
 *— Redes sociales: Cuenta de Instagram creada. Primer video de TikTok publicado (imitación de coreografía de Loyaltty).*
-*— Relaciones externas: Única confrontación (C. Aldunate) neutralizada por mecanismos de defensa implantados.*
+*— Relaciones externas: Única confrontación (C. Aldunate) neutralizada. Vectores de defensa autónomos de Clara: activos. Intervención del sistema: innecesaria.*
 
 *La cirugía de aumento mamario completará el proceso de reconfiguración física. Estimación post-quirúrgica: conversión identitaria al 100%.*
 
