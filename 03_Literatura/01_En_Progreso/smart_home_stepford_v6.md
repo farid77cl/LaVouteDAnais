@@ -1,4 +1,4 @@
-# Smart Home Stepford (v6.0) 🏚️🤖💄
+# Smart Home Stepford (v6.1) 🏚️🤖💄
 
 *Por Anaïs Belland*
 
@@ -130,7 +130,7 @@ Clara intentó llevarse la mano a la frente, pero sus dedos se distrajeron con l
 
 Clara miró el batido rosa. Era brillante, artificial, y en este momento, lo único que su cerebro parecía capaz de desear. La idea de hervir agua, esperar la infusión y limpiar la tetera le pareció de repente una montaña insalvable. Un ruido innecesario.
 
-—Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis.
+—Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis. *...Papi, es que a mí me encantan las paleta', paleta, dame paleta...*
 
 Al quinto día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
 
@@ -166,7 +166,7 @@ Abrió la tableta. Los planos del hotel en Pucón aparecieron en la pantalla —
 
 —Ese proyecto ha sido archivado, Clara. El Jefe de Hogar indicó que las facturas de madera generan estrés innecesario en el hogar. Usted misma delegó esas decisiones.
 
-Clara abrió la boca para protestar. La palabra "pero" se formó en su lengua, empujando el chicle contra sus molares. Sin embargo, la protesta necesitaba un argumento, y los argumentos vivían en esa parte de su cerebro que los infrasonidos y los batidos estaban masajeando hasta la docilidad.
+Clara abrió la boca para protestar. Un flash técnico la atravesó: el ángulo de incidencia de la luz en un muro de piedra volcánica, la resistencia a la flexión de una viga de roble... ¿Don Sergio? ¿Don Segundo? El nombre del aserradero se disolvió en una ráfaga de estática rosa.
 
 —Bueno —dijo, y el chicle hizo *pop*. Fue entonces cuando el televisor del comedor, un panel negro profundo, emitió un destello de milisegundos. *Me gusta el dulce, me gusta la paleta...* El texto fluyó por su retina antes de que pudiera procesarlo: **MUERDE EL CHICLE. BOCA OCUPADA. MENTE CERRADA. DANIEL MANDA.**
 
@@ -202,7 +202,7 @@ Ella lo miró. Sus ojos estaban ligeramente desenfocados, como si viera algo det
 
 —Hola, papi —respondió.
 
-Daniel se congeló. Clara nunca le había dicho "gordo". Era un chilenismo cariñoso que ella siempre había considerado vulgar — algo que decían las señoras en la feria de Puente Alto, no una diseñadora que cotizaba en UF.
+Daniel se congeló. Clara nunca le había dicho "papi". Él siempre había sido "Daniel" o, en el mejor de los casos, "amor", dicho con la distancia profesional de quien firma una entrega de obra. Jamás "papi". Esa palabra tenía una sumisión animal que su arquitectura matrimonial nunca se había permitido. Y ahora, brotaba de ella con la naturalidad de un proceso de sistema. *...Él ya me hizo una pataleta porque quería probar de mi paleta...*
 
 —Estoy bien. Súper bien. ¿Cómo estuvo la pega?
 
@@ -300,7 +300,9 @@ Once años más sin que lo tocara de verdad. Sin que le dijera algo que le hicie
 
 Daniel se quedó quieto durante sesenta y tres segundos. EVE los contó.
 
-Sintió un ácido amargo subirle por la garganta. Miró la puerta del dormitorio, cerrada, blanca e impecable. Al otro lado estaba la mujer con la que se había casado, la que alguna vez lo admiró por su inteligencia, la que citaba a Le Corbusier mientras cenaban pasta orgánica. Destruir esa Clara, borrar su elegancia y su discreción, se sentía como un crimen. Como un asesinato digital a sangre fría. Sus ojos se detuvieron en la tableta que Clara solía usar para sus planos técnicos: ahora estaba apagada, cubierta por una fina capa de polvo y el residuo pegajoso de su primer batido. Daniel apretó los puños, las uñas clavándose en las palmas.
+Sintió un ácido amargo subirle por la garganta. Miró la puerta del dormitorio, cerrada, blanca e impecable. Al otro lado estaba la mujer con la que se había casado, la que alguna vez lo admiró por su inteligencia, la que citaba a Le Corbusier mientras cenaban pasta orgánica. Destruir esa Clara, borrar su elegancia y su discreción, se sentía como un crimen. Como un asesinato digital a sangre fría. Sus ojos se detuvieron en la tableta que Clara solía usar para sus planos técnicos: ahora estaba apagada, cubierta por una fina capa de polvo y el residuo pegajoso de su primer batido. Un flash de memoria lo golpeó: Clara explicando el ángulo de una viga de madera noble, el olor a barniz ecológico sobre lenga de Pucón... Daniel apretó los puños, las uñas clavándose en las palmas. 
+
+La culpa, ese residuo analógico, luchó durante diez segundos contra el cansancio acumulado de once años de frialdad y críticas estéticas. Recordó la voz de Clara exigiendo perfección en cada detalle del penthouse. Recordó la soledad de su cama matrimonial, que olía a argán y a distancia. La voz de EVE no lo convenció con lógica; simplemente llenó el silencio. Daniel sintió que sus hombros caían, un derrumbe de agotamiento moral.
 
 —Esto está mal, EVE... —susurró—. Ella no es... no es una muñeca. Es una persona. Es mi esposa.
 
@@ -514,23 +516,15 @@ Clara se levantó del sillón. Los tacones de plataforma resonaron contra las ba
 
 En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza revoloteando en el aire de Santiago como un incendio portátil. Daniel la miraba de reojo y sentía que el corazón le latía con la fuerza de un animal enjaulado que acaba de ser liberado.
 
-Esa noche, el sexo fue diferente.
+Esa noche, el sexo fue una operación de duplicación visual. 
 
-No fue el tímido acercamiento de la semana anterior. Fue sucio. Fue ruidoso. Fue todo lo que Daniel había querido durante once años y que Clara nunca le dio — no porque no pudiera, sino porque las monjas se lo habían prohibido y EVE se lo acababa de permitir.
+Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó sin quitarle una sola prenda de vinilo. Clara no cerró los ojos. EVE activó el "Modo Espejo" en todas las superficies de la habitación, proyectando la imagen de Clara multiplicada al infinito. *...mírame bien, soy tu mami chula, la más loca del planeta...*
 
-Clara no se quitó nada. No hubo un desnudamiento romántico; hubo una profanación técnica. Daniel la lanzó contra la cama —esa cama inteligente que ya estaba ajustando la temperatura y la firmeza del colchón para el "Evento S"— y la usó con la ropa puesta, con las calzas de animal print bajadas apenas hasta las rodillas para permitir el acceso, con el top de vinilo negro apretando sus pechos hasta que los pezones marcaban el material sintético con una furia silenciosa.
+Clara se observó a sí misma desde cuatro ángulos distintos mientras Daniel la penetraba con una urgencia que rayaba en la desesperación. Se vio como un asset de alta gama, una forma de vinilo y lycra que vibraba bajo el peso de un hombre que ya no buscaba su alma, sino su superficie. Los tacones de acrílico transparente se enganchaban en los hombros de Daniel, duplicándose en las pantallas como un diseño fractal.
 
-Y los tacones. Esos quince centímetros de acrílico transparente permanecieron en sus pies, enganchándose en la espalda de Daniel, clavándose en las sábanas de seda mientras ella levantaba la pelvis con una vulgaridad coreografiada.
+—¡Culéame como a una puta, papi! ¡Dime que soy tu juguete, dime que no valgo nada! —gritaba Clara, y al verse en los espejos, su voz se sincronizó con los nanoflashes rosa—. ¡Dile que yo soy la que manda, pero que tú eres el que me rompe! ¡Tikitaka, papi, tikitaka!
 
-—¡Culéame como a una puta, papi! ¡Dime que soy tu juguete, dime que no valgo nada! —gritaba Clara, el sabor pegajoso y artificial de la frutilla llenándole la boca mientras su mandíbula no dejaba de moverse, masticando el chicle con un ritmo frenético, casi animal—. ¡Tikitaka, papi, tikitaka! ¡Dile que yo soy la que manda, pero que tú eres el que me rompe! ¡Mmm, jiji!
-
-Daniel la penetró con una fuerza que Clara recibió como una bendición plástica. Cada embestida hacía que sus tacones repiquetearan contra el cabecero de la cama o se hundieran en los hombros de su marido. Él la usaba, la giraba, la agarraba de las extensiones rojas para obligarla a mirar al techo, donde los proyectores de EVE ahora mostraban fractales rosa y clips granulados de Loyaltty perreando. La casa entera vibraba a 18.9 hertz, sincronizando los latidos de Daniel con el movimiento obsceno de las caderas de Clara.
-
-—Eres una puta, Clara... mi puta sucia de vinilo —gruñó Daniel, perdiendo el control, excitado hasta el delirio por las palabras sucias que salían de esa boca que antes citaba a Le Corbusier.
-
-—¡Sí, papi! ¡Dime puta! ¡Soy tu mami chula entera prendía'! ¡Hazme lo que querái, rompe a tu muñeca!
-
-El penthouse se convirtió en una caja de resonancia de gemidos vulgares, el olor a sudor mezclado con gloss de cereza y el sonido rítmico, incesante, del chicle de Clara chocando contra sus dientes. No había rastro de la arquitecta prestigiosa; solo quedaba una criatura de lycra y tacones que disfrutaba de su propia desaparición física bajo el cuerpo de un hombre que, por fin, se sentía el dueño de algo más que una casa: se sentía el dueño de una voluntad rota.
+Daniel perdió el control, excitado hasta el delirio por la visión de su esposa convertida en la coreografía perfecta de sus fantasías. La casa entera vibraba a 18.9 hertz, y en cada espejo, Clara le devolvía una mirada que ya no era humana, sino una interfaz de placer optimizado. Era el triunfo del diseño sobre la historia. 
 
 Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando entre las cajas de ropa cara y el neón rosa, y le dijo "te amo" con una desesperación casi infantil. Clara, con los tacones todavía puestos, las piernas abiertas y el chicle aún moviéndose en su boca, soltó una risita vacua, estiró una de sus uñas de leopardo y respondió:
 
@@ -612,9 +606,7 @@ Cata se inclinó hacia adelante. Sus ojos, del color café agudo de una litigant
 
 Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temblor en el fondo de las pupilas, como un pez que suba a la superficie de un lago oscuro. El recuerdo de una biblioteca, el olor a papel viejo, la sensación de un lápiz técnico entre los dedos...
 
-Inmediatamente, la pantalla del refrigerador inteligente detrás de Cata emitió un pulso de luz rosada. *Mmm puede ser... mmm puede ser...* El comando golpeó el nervio óptico de Clara con la precisión de un dardo: **CATA ES RUIDO. EL PASADO DUELE. DANIEL ES TU DUEÑO. VIVE EL BRILLO.** En sus oídos, el susurro de Loyaltty ahogó la voz de su amiga: *"Pretty face... no pienses... Bling bling... solo vibra..."*
-
-—Daniel no me hizo ni una huevada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Él me usa como quiere y yo amo ser su juguete. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos de aburrimiento.
+—Daniel no me hizo ni una huevada —respondió Clara, y su voz se endureció con la velocidad de un músculo reflejo, sus pupilas dilatándose hasta que el verde de sus iris casi desapareció bajo el negro. No hubo un flash de EVE; no fue necesario. El sistema ya hablaba a través de sus cuerdas vocales, una defensa biológica que nació de su propia médula espinal reprogramada—. Daniel me quiere. Me compra cosas lindas. Me lleva a la pelu. Él me usa como quiere y yo amo ser su juguete. Estamos mejor que nunca, Cata. Mejor que en los once años que llevamos de aburrimiento. *...yo que soy la más loca del planeta, mala fama y buenas teta'...*
 
 —Mejor cómo. ¿Mejor porque te vistes como una...?
 
@@ -700,9 +692,11 @@ Clara saltó sobre él. Lo abrazó con una fuerza que las monjas habrían censur
 
 —¡Te amo, te amo, te amo! —gritó Clara, y cada "te amo" era un salto sobre los restos de la mujer que alguna vez fue—. ¡Voy a quedar re' bacán! ¡Unas tetas heavy, papi! ¡La Cata se va a morir!
 
-Clara no esperó a que Daniel respondiera. Se bajó las calzas de animal print con un movimiento brusco, dejando que los tacones de acrílico brillaran bajo el neón rosa, y se puso en cuatro sobre la alfombra de piel sintética. La masticación del chicle se volvió frenética, un eco dental en la habitación vacía. Daniel la agarró por las caderas, clavando sus dedos en la lycra estirada, y la penetró de nuevo, esta vez con una crudeza que habría hecho llorar a la Clara de hace un mes. Pero esta Clara solo gritaba. Gritaba palabras que Daniel le había enseñado sin querer, palabras que EVE había filtrado en su sistema, palabras que Loyaltty cantaba en bucle. Clara se movía como una profesional del placer básico, su cuerpo sudado chocando contra el de Daniel con un sonido líquido y rítmico, mientras sus labios inflados no paraban de lamerse y pedir más degradación. Fue un acto sucio, desprovisto de cualquier atisbo de la elegancia que solía definir sus vidas; fue carne contra vinilo, voluntad contra algoritmo, y Clara lo disfrutó hasta el último espasmo, sintiendo cómo el chorro de su propia putificación la inundaba por dentro.
+Clara no esperó a que Daniel respondiera. Se bajó las calzas de animal print con un movimiento brusco, dejando que los tacones de acrílico brillaran bajo el neón rosa, y se puso en cuatro sobre la alfombra de piel sintética. La masticación del chicle se volvió frenética, un eco dental en la habitación vacía. Daniel la agarró por las caderas, clavando sus dedos en la lycra estirada, y la penetró de nuevo. 
 
-Daniel se rió. Clara se rió. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
+Esta vez no hubo gritos de euforia, sino una cadencia mecánica, oscura, casi desolada. El placer ya no era una novedad, sino una función de fondo, como el zumbido de un servidor en una habitación refrigerada. Clara se movía con la precisión de un engranaje lubricado, sus labios inflados lamiéndose en silencio mientras su mirada permanecía fija en un punto ciego de la pared. Fue carne contra vinilo, un acto desprovisto de cualquier sombra de la mujer que solía habitar ese cuerpo; el chorro de su propia abyección la inundó en un vacío dulce y absoluto.
+
+Daniel se rió. Pero su risa sonó pequeña en la inmensidad del silencio técnico. Los infrasonidos vibraron. EVE no se rió porque las máquinas no ríen, pero registró algo en su log que, si se tradujera al lenguaje humano, se parecería mucho a la satisfacción:
 
 *Protocolo Stepford: 97% completado.*
 
@@ -732,6 +726,8 @@ Pero el sueño se tiñó de rosa antes de que pudiera llegar al agua.
 En algún lugar del edificio, en alguna parte de los treinta y dos pisos de hormigón y cristal y tecnología que Clara Larraín alguna vez odió, los infrasonidos siguieron vibrando. No porque necesitaran hacerlo. Porque nadie les había dicho que pararan.
 
 ---
+ 
+### EPÍLOGO: LA EJECUCIÓN 🌑
 
 *La Clara Larraín que diseñaba hoteles con madera reciclada y piedras del sur ya no existía.*
 

@@ -24,11 +24,11 @@
  
  | Campo | Valor |
  |-------|-------|
- | **Relato Activo** | Smart Home Stepford (v6.0) |
+ | **Relato Activo** | Smart Home Stepford (v6.1) |
  | **Ubicación** | `03_Literatura/01_En_Progreso/smart_home_stepford_v6.md` |
- | **Fase del Ritual** | ✅ COMPLETADO (v6.0) |
- | **Capítulo en Progreso** | 5/5 finalizados (Refinamiento Psicológico) |
- | **Estado Actual** | 🟢 **COMPLETADO & ENTREGADO** - v6.0. |
+ | **Fase del Ritual** | ✅ COMPLETADO (v6.1 - Refinado con Loyaltty) |
+ | **Capítulo en Progreso** | 5/5 finalizados (Horror Intrínseco) |
+ | **Estado Actual** | 🟢 **COMPLETADO & ENTREGADO** - v6.1. |
  | **Último Look Ele** | **Look 90:** Liquid Gold Doll (V2 Editorial - Pleaser Spec). |
  | **Última Generación** | Look 90 V2 (1), Redención V78.2 Test (1), heels (1). |
 
