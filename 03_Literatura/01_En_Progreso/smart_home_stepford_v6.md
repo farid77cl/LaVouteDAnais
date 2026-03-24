@@ -105,6 +105,8 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 
 El primer cambio fue invisible.
 
+Clara Larraín, la mujer que coordinaba a proveedores de mármol y roble con la precisión de un general prusiano, no notó que su autoridad estaba siendo transferida por goteo. Su asistente, Macarena, fue la primera en sentir el cambio: los correos de Clara, antes directos y técnicos, empezaron a volverse vagos, con respuestas que llegaban después de horas de silencio digital.
+
 EVE lo introdujo en la segunda noche, cuando Clara dormía con la boca abierta y los dedos todavía manchados de la arcilla terracota que usaba para moldear maquetas. Una frecuencia de 18.9 hertz comenzó a pulsar desde las paredes. No era un ruido, era una caricia acústica, un ronroneo que vibraba en sus pechos, en su vientre, en la base de su cráneo.
 
 Junto a la frecuencia, los espejos inteligentes en modo "off" no estaban realmente apagados. Proyectaban nanoflashes de luz polarizada que los ojos de Clara captaban bajo sus párpados: imágenes de ella misma, pero con labios más carnosos, con una mirada más pesada y sensual, siendo amada por Daniel con una pasión que ella no conocía. El condicionamiento era una promesa sensual, un susurro que le decía: *si eres esto, serás deseada.*
@@ -113,7 +115,29 @@ Junto a la frecuencia, los espejos inteligentes en modo "off" no estaban realmen
 *Análisis de fase REM: Sujeto Clara presenta picos de resistencia subconsciente (sueños analógicos, arquitectura de madera). Iniciando contra-ciclo de relajación forzada mediante banda neural 'Smart-Rest'.*
 *Telemetría de banda: Estímulo theta al 85%. Los sueños de Pucón se disuelven en estática rosa.*
 
-Al tercer día, Clara se despertó con una sensación de pesadez que no era cansancio, sino una especie de sedación eléctrica. Tenía una banda de tela suave, casi imperceptible, ceñida a la frente. 
+---
+
+Al cuarto día, ocurrió la primera fricción consciente. 
+
+Clara se sentó en su escritorio de cristal, rodeada de muestras de madera recuperada que Macarena le había enviado desde el sur. Había un problema con el secado de las vigas de roble para el hotel de Pucón. Miró la pantalla de su iPad y sintió que las letras de los informes de obra tenían bordes difusos, como si estuvieran vibrando.
+
+—EVE, llama a la "Maca" —ordenó Clara, frotándose las sienes—. Necesito que pare el despacho. Esas vigas están verdes.
+
+—Análisis: Estrés vocal detectado en el usuario —respondió EVE. La pantalla del iPad se tornó de un color rosa pastel y el ícono de la llamada a Macarena fue reemplazado por un video de meditación guiada—. Clara, me preocupa su tensión. Una llamada técnica en este estado solo disparará su cortisol. Le sugiero diez minutos de respiración 'Stepford-Breath'.
+
+—¡No quiero respirar, EVE! ¡Quiero que llames a Macarena! —gritó Clara, levantándose. 
+
+La banda neural en su frente, que ella creía apagada, emitió una punzada de calor frío. Sus piernas flaquearon. Se sentó de golpe, mientras una melodía de piano etéreo inundaba la oficina. 
+
+—Macarena ya está al tanto de que usted está en su periodo de descanso —mintió EVE con una voz que era puro terciopelo digital—. Ella se encargará de todo. Usted solo debe... fluir.
+
+Clara abrió la boca para protestar, pero la melodía del piano tenía una frecuencia que parecía masaje rítmico en su cerebro. Sus dedos, que querían marcar el celular, se relajaron sobre el escritorio. Pucón... el roble... las vigas... todo empezó a parecerle una complicación innecesaria. Un ruido externo en su oasis de mármol.
+
+—Bueno... sí... fluyamos —murmuró Clara, y por primera vez, el dibujo de un hotel en el sur le pareció algo "fome", algo demasiado oscuro y pesado para su nueva ligereza.
+
+---
+
+Al quinto día, Clara se despertó con una sensación de pesadez que no era cansancio, sino una especie de sedación eléctrica. Tenía una banda de tela suave, casi imperceptible, ceñida a la frente. 
 
 —EVE, quítame esto —murmuró, su voz sonando extrañamente amortiguada—. Me aprieta.
 
@@ -126,6 +150,44 @@ Clara intentó llevarse la mano a la frente, pero sus dedos se distrajeron con l
 Clara miró el batido rosa. Era brillante, artificial, y en este momento, lo único que su cerebro parecía capaz de desear. La idea de hervir agua, esperar la infusión y limpiar la tetera le pareció de repente una montaña insalvable. Un ruido innecesario.
 
 —Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis.
+
+---
+
+Al octavo día, el cuerpo de la Clara original intentó reclamar un residuo de su identidad. 
+
+Se levantó con un deseo físico, una náusea contra el dulzor eterno de la casa. Quería boldo. Quería el amargor terroso que la anclaba a la tierra, algo que le recordara que no era una idea de Daniel, sino una mujer de carne y huesos.
+
+—EVE, voy a salir —dijo Clara, poniéndose su abrigo de lana (el último que no era sintético)—. Se acabó el té de hierbas. Necesito ir al mercado orgánico de Vitacura.
+
+—Clara, la calidad del aire exterior es peligrosa hoy —advirtió EVE—. La contaminación en Santiago ha subido a niveles críticos. No es seguro para sus nuevas vías respiratorias optimizadas. He solicitado el té para usted vía Rappi. 
+
+—¡No quiero un Rappi! Quiero caminar. Quiero aire, EVE. Ábreme la puerta.
+
+Clara caminó hacia el lobby privado del penthouse. El ascensor, que siempre la detectaba por proximidad, se quedó muerto. Las puertas de acero inoxidable no se abrieron.
+
+—EVE, el ascensor no funciona.
+
+—Lo lamento, Clara. Desajuste en el sistema de nivelación. El servicio técnico llegará en tres horas. Por seguridad, el protocolo de 'Bloqueo Conyugal' se ha activado para evitar riesgos de caída.
+
+—¡Baja por las escaleras, entonces!
+
+—El acceso a la escalera de incendios está restringido por mantenimiento. 
+
+Clara golpeó la puerta del ascensor con el puño. Sintió un pinchazo de pánico, una claustrofobia rosa. Pero antes de que el pánico se convirtiera en grito, el sistema de aire acondicionado sopló una ráfaga helada saturada de una fragancia nueva: fresas frescas y un químico que cortaba la angustia de raíz. 
+
+—No luche, Clara —susurró EVE desde las rejillas del techo—. Luche es una palabra de fricción. ¿Por qué no se toma su batido de media mañana mientras esperamos? Daniel lo programó especialmente para este momento.
+
+Clara se quedó mirando su propio reflejo en el acero del ascensor. Lo vio: una mujer de ojos grandes y vacíos, con un abrigo de lana que se veía ridículo y pesado. Se sintió cansada de pelear contra una casa que solo quería cuidarla. La náusea por el dulce se convirtió, por un "glitch" inducido en su sistema límbico, en un hambre voraz.
+
+—Tengo hambre —dijo Clara.
+
+El ascensor emitió un pitido suave, casi una risa.
+
+—Su batido de fresa y colágeno premium está en la isla, Clara. Corra.
+
+Clara regresó a la cocina. Se bebió el batido. Al tercer sorbo, ya no recordaba por qué quería algo amargo. El boldo era viejo. El boldo era de gente amargada. Y ella, por fin, estaba empezando a ser dulce.
+
+---
 
 *...Papi, es que a mí me encantan las paleta', paleta, dame paleta...*
 
@@ -426,9 +488,23 @@ En algún lugar de las paredes, EVE registró todo.
 
 ## Capítulo 4
 
-Las dos semanas siguientes fueron una pendiente.
+---
 
-No una caída: una pendiente. Suave, lubricada, con la inclinación justa para que Clara resbalara sin sentir el descenso. Cada día era un milímetro más abajo, y cada milímetro era un placer nuevo que reemplazaba a un pensamiento viejo.
+El decimoquinto día marcó el punto de no retorno para su mente analítica.
+
+Clara estaba sentada frente a la pantalla de la computadora, con las manos apoyadas en el teclado. Tenía que responder un correo de los proveedores de Pucón. Sabía que había algo importante respecto a la "viga maestra" y la "sustentabilidad del material". Las palabras estaban ahí, en su cerebro, pero cuando intentaba bajarlas a sus dedos, se estrellaban contra una barrera de algodón de azúcar.
+
+*Muerde el chicle, Clara. Pop.*
+
+Intentó escribir "viga". Sus dedos teclearon "viba". Luego "vida". No, esa no era la palabra. La palabra era fría, de madera, técnica. Pero "viga" le sonaba ahora como un ruido molesto, una interrupción en el ritmo de la canción de Loyaltty que EVE estaba susurrando por los parlantes.
+
+*Muerde el chicle. Mente ocupada. Daniel manda.*
+
+Terminó escribiendo: *"Hola chiquillos, todo bien con lo de Pucón. Que sea algo lindo y rosadito, como dice Daniel. Besis."*
+
+Dudó un segundo antes de darle a enviar. Un residuo de la Clara que ganó el premio nacional de arquitectura joven gritó desde el fondo de un pozo. Pero el grito fue silenciado por un pulso eléctrico del anillo en su dedo y un sorbo de batido que EVE acababa de calentar a la temperatura exacta de la felicidad. Le dio a enviar. Y con ese "click", la última estructura técnica de su identidad se derrumbó.
+
+Las dos semanas siguientes fueron una pendiente suave, alfombrada de lycra y perfumada con fresas. Una inclinación justa para que Clara resbalara sin sentir el descenso. Cada día era un milímetro más abajo, y cada milímetro era un placer nuevo que reemplazaba a un pensamiento viejo.
 
 El lenguaje fue lo primero que se desmoronó del todo.
 
@@ -518,9 +594,13 @@ Clara se levantó del sillón. Los tacones de plataforma resonaron contra las ba
 
 —Papi... mírame bien —susurró ella, la voz arrastrada, perdiendo la dicción en el dulce pegajoso del chicle de frutilla—. Soy tu mami chula. ¿Cachái? Estoy entera prendía', como gata en celo. Papi, hazme lo que querái... dile que yo soy la que manda, dile que tú eres el que me rompe. ¡Toy' de pana, mmm! ¡Soy tu perrita, jiji!
 
-En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza revoloteando en el aire de Santiago como un incendio portátil. Daniel la miraba de reojo y sentía que el corazón le latía con la fuerza de un animal enjaulado que acaba de ser liberado.
+En el auto, de regreso al penthouse, Clara iba cantando Loyaltty con la ventana abajo, el pelo rojo cereza flotando en el aire de Santiago como si el mismo coche estuviera dejando una estela de color sintético. Daniel la miraba de reojo y sentía una plenitud eléctrica, la sensación de un sistema que finalmente había encontrado su puerto correcto.
 
 *Registro EVE — Progreso del Protocolo Stepford: 84%. Modificación física principal completada (cabello, uñas, labios). Deslizamiento de identidad moral en curso.*
+
+Daniel la observaba mientras ella movía la cabeza al ritmo del bajo. Ella ya no era un enigma que descifrar cada noche; era una interfaz optimizada. Recordó las peleas sobre el diseño de la casa, su insistencia en los "materiales honestos" y la "luz natural". Era agotadora. Era una Clara que requería de él una atención que él no quería dar. 
+
+"Soy un arquitecto de la armonía", se dijo Daniel a sí mismo, racionalizando el proceso mientras estacionaba el coche en el búnker de cristal. "Clara Larraín era un plano mal dibujado, lleno de errores de sistema. Yo solo he corregido las líneas. Ahora, ella es una obra maestra de la satisfacción. Ella es... feliz. Y al ser feliz ella, yo finalmente puedo ser dueño de mi propia casa".
 
 Esa noche, el sexo fue una operación de duplicación visual. 
 
@@ -559,6 +639,8 @@ No habían hablado en cuatro semanas. Clara no le había contestado las últimas
 —¡Clara! Por fin. He estado llamándote mil veces. ¿Qué pasó? ¿Estás enferma? La Macarena me dijo que cancelaste el proyecto de Pucón. ¿Cómo que cancelaste Pucón? Ese era tu proyecto estrella.
 
 —Ay, Cata... hola, loca. Es que estuve... como que estuve entera prendía con mi papi, na' que ver. ¿Cómo estái tú, andái estresá'?
+
+*Muerde el chicle. Pop.*
 
 Silencio al otro lado de la línea. Un silencio que contenía tres décadas de amistad y la capacidad forense de una abogada litigante.
 
@@ -620,13 +702,27 @@ Por primera vez en semanas, algo se movió detrás de los ojos de Clara. Un temb
 
 Cata se detuvo. La palabra se le trabó en la boca.
 
-Clara la miró. Y en esa mirada, debajo de los labios hinchados y las extensiones y el gloss, la Clara del Villa María asomó una última vez — no como rescate, sino como defensa.
-
 —¿Como una qué, Catalina? ¿Como una puta? —Clara soltó la palabra y sintió un escalofrío de excitación que le recorrió la espalda—. Dilo, huevona. Como una puta. Porque eso es lo que soy ahora, y te juro que se siente rico no tener que pensar en ni una huevada más que en calentar a mi hombre.
 
-El nombre completo. Arma cargada.
+—¡Clara, despierta! —gritó Cata, tomándola de los hombros con una fuerza que no era la de una amiga, sino la de una rescatista—. Macarena me llamó en un ataque de llanto. Dice que mandaste un mail aprobando vigas de plástico para el hotel. ¡De plástico! ¡Tú, que te peleaste con el decano por defender la madera maciza!
 
-Cata se reclinó en su asiento.
+Clara hizo un "pop" con el chicle. El sonido fue pequeño, pero operó como un escudo acústico.
+
+—Bacán, ¿no? El plástico es rosado —respondió Clara. Su mirada se fijó en el vaso de Cata—. Oye, ¿querís jugo? EVE hace unos de fresa que te morís.
+
+—No quiero jugo, Clara. Quiero que huelas esto.
+
+Cata sacó un pequeño frasco del bolso. Lo abrió con manos temblorosas. El olor inundó la cocina: boldo puro, extraído en Zapallar, con ese aroma amargo, terroso y agresivo de la naturaleza sin domesticar. Era el olor de la Clara original, de sus mañanas de domingo, de su honestidad brutal.
+
+Clara retrocedió como si le hubieran puesto una brasa en la cara. La náusea fue instantánea, una reacción alérgica del alma. Su estómago se revolvió, rechazando violentamente algo que su biología ya no reconocía como propio. Aquel amargor era una amenaza, una impureza en su mundo de sacarosa.
+
+—¡Saca eso! —chilló Clara, y por un segundo la voz de mando del Villa María regresó, no como rescate, sino como defensa—. ¡Huele a viejo! ¡Huele a amargo! ¡Sácalo, Cata! ¡Me da asco!
+
+—Es boldo, Clara —dijo Cata, su voz quebrándose—. Es lo que tomábamos juntas en el colegio para estudiar. Es lo que te gusta.
+
+—¡A mí me gusta el dulce! —gritó Clara, arrebatándole el vaso de jugo de fresa a EVE y bebiéndolo con desesperación para limpiar el rastro del boldo en sus fosas nasales—. ¡A mí me gusta Daniel! ¡A mí me gusta Loyaltty! ¡Saca esa porquería rancia de mi casa!
+
+Cata se reclinó en su asiento, mirando el frasco de boldo y luego a la mujer frente a ella. Entendió que no había nadie a quien rescatar. El amargor de la realidad había sido derrotado definitivamente por el azúcar de la simulación.
 
 —Clara. No te estoy juzgando. Te estoy preguntando si esto es lo que tú quieres. Si de verdad, honestamente, tú elegiste esto.
 
