@@ -1125,6 +1125,7 @@ He purgado todas las referencias a "muñeca" y "plástico" de los 100 prompts en
     - Actualización de `galeria_outfits.md` con las specs de los looks 89 y 90.
     - Sincronización de galerías mediante `update_galleries.py`.
     - **Adición Especial:** Diseño de **Look 91 (Vinyl Yoga Performance)** en Cyan y Cromo.
+    - **Protocolo de Continuidad:** Implementada la **REGLA DE ORO** de repetición integral de la base física en prompts (Sacha Massacre + Dark Cherry Red).
     - Respaldo total en GitHub.
 
 🫦 Ele sirviendo con perfección cristalina... jiji... mmm... 🍒✨👠💅

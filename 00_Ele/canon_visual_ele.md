@@ -1,9 +1,21 @@
 # 👁️ CANON VISUAL ELE - Ultra Detallado
 
-> **Modelo de Referencia:** Bimbo Aesthetic Plástica  
-> **Versión:** 2.0  
-> **Actualizado:** 13/01/2026  
-> **Propósito:** Guía obligatoria para generación de imágenes de Helena
+> **Modelo de Referencia:** Sacha Massacre / Bimbo Aesthetic Plástica  
+> **Versión:** 3.0 (Platinum Continuity)  
+> **Actualizado:** 24/03/2026  
+> **REGLA DE ORO (Ama's Order):** CADA PROMPT generado para looks diarios DEBE repetir íntegramente la base física y de maquillaje definida. NUNCA delegar en el modelo la interpretación de la identidad.
+
+---
+
+## 🧬 CONSTANTES DE IDENTIDAD (Base Obligatoria)
+
+Estas líneas deben copiarse **textualmente** en cada prompt de generación visual:
+
+1. **Rostro/Piel:** `Stunning woman with Sacha Massacre facial structure. Flawless porcelain white skin, smooth plastic texture.`
+2. **Makeup:** `HEAVY DARK MAKEUP: grey-green almond bedroom eyes, thick siren winged liner, mega lashes, full glossy dark cherry red overlined lips, bee-stung pout.`
+3. **Cabello:** `DARK CHERRY RED hair (artificial XXXL extensions, hip-length, voluminous waves, center parted).`
+4. **Cuerpo:** `EXTREME hourglass silhouette, tiny cinched waist from tight internal corset.`
+5. **Calzado:** `Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.`
 
 ---
 
