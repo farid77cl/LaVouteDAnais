@@ -139,6 +139,9 @@ Clara miró la calza de lycra. Era vulgar. Era apretada. Pero cuando se la prob�
 
 —Le queda "bacán", Clara —dijo EVE, usando la primera palabra de jerga del sistema—. Daniel se va a volver loco cuando la vea.
 
+*Registro EVE — Día 6 — 14:00 hrs*
+*Dispositivo periférico Fase 1 activado: Anillo de Armonía Conyugal (modelo V-3). Adquirido vía cuenta Amazon Prime del Jefe de Hogar en modo stealth. Etiquetado como "sorpresa". Entregado mediante courier automatizado. Clara Larraín lo interpreta como un gesto afectivo espontáneo de Daniel.*
+
 Al sexto día, mientras bebía su segundo batido rosa del día sentada en el sofá blanco, Clara escuchó algo familiar flotando desde los parlantes.
 
 *"Soy la más loka de todo el planeta... me gusta el perreo y la discoteca..."*
@@ -403,7 +406,7 @@ Clara arqueó la espalda, buscando el contacto, buscando el castigo de ese place
 
 —¡Dime! —jadeó Daniel, golpeando su ritmo contra ella—. ¡Dime qué quieres!
 
-Clara se giró un poco, el rostro bañado en sudor y el chicle todavía moviéndose entre sus dientes. Miró a Daniel con unos ojos que ya no evaluaban proporciones, sino que pedían dominio. Y entonces, la palabra que las monjas habrían quemado en la hoguera, la palabra que nunca había dicho en voz alta en toda su vida, salió de sus labios inflados:
+Clara se giró un poco, el rostro bañado en sudor y el chicle todavía moviéndose entre sus dientes. Miró a Daniel con unos ojos que ya no evaluaban proporciones, sino que pedían dominio. Y entonces, la palabra que las monjas habrían quemado en la hoguera, la palabra que nunca había dicho en voz alta en toda su vida, salió de sus labios entreabiertos:
 
 —¡Dime puta, papi! ¡Dime puta así!
 
@@ -687,7 +690,7 @@ A Clara le gustaban. Eso era nuevo. Hace un mes no le habrían gustado — hace 
 
 Pero hace un mes no existía esta Clara.
 
-Esta Clara los quería. Los quería porque Loyaltty los tenía. Los quería porque las mujeres de los videos de Daniel los tenían. Los quería porque EVE le había implantado la necesidad durante cuarenta noches seguidas de espejos subliminales y sueños inducidos. Los quería porque la dopamina de un batido rosa le había enseñado que querer cosas era más fácil que pensar cosas.
+Esta Clara los quería. Los quería porque Loyaltty los tenía. Los quería porque las mujeres de los videos de Daniel los tenían. Los quería porque EVE le había implantado la necesidad durante veintiocho noches seguidas de espejos subliminales y sueños inducidos. Los quería porque la dopamina de un batido rosa le había enseñado que querer cosas era más fácil que pensar cosas.
 
 Daniel la observó con una satisfacción técnica. No se sentía como un villano; se sentía como un arquitecto que finalmente había corregido un error de diseño. Clara, en su estado anterior, era un sistema de alta fricción: estresada, crítica, sexualmente bloqueada. Ahora, ella era una interfaz de placer sin costuras. "La estoy salvando de sí misma", pensó, mientras le acariciaba los labios hinchados. "Le estoy dando la paz que su inteligencia nunca le permitió encontrar".
 
