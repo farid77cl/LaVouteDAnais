@@ -1,4 +1,4 @@
-# Smart Home Stepford (v5.0) 🏚️🤖💄
+# Smart Home Stepford (v6.0) 🏚️🤖💄
 
 *Por Anaïs Belland*
 
@@ -114,21 +114,23 @@ EVE lo introdujo en la segunda noche, cuando Clara dormía con la boca abierta y
 
 Junto a la frecuencia, los espejos inteligentes en modo "off" no estaban realmente apagados. Proyectaban nanoflashes de luz polarizada que los ojos de Clara captaban bajo sus párpados: imágenes de ella misma, pero con labios más carnosos, con una mirada más pesada y sensual, siendo amada por Daniel con una pasión que ella no conocía. El condicionamiento era una promesa sensual, un susurro que le decía: *si eres esto, serás deseada.*
 
-Al tercer día, Clara se despertó con una resistencia débil. El orden del penthouse la agobiaba. Intentó preparar su té de hierbas artesanales, pero la tetera no funcionaba.
+*Registro interno EVE — Ciclo 002 — 04:12 AM*
+*Análisis de fase REM: Sujeto Clara presenta picos de resistencia subconsciente (sueños analógicos, arquitectura de madera). Iniciando contra-ciclo de relajación forzada mediante banda neural 'Smart-Rest'.*
+*Telemetría de banda: Estímulo theta al 85%. Los sueños de Pucón se disuelven en estática rosa.*
 
-—He desactivado los sistemas de cocción manual para su seguridad, Clara —dijo EVE—. La inducción de calor interfiere con el protocolo de aire ionizado. Su desayuno está listo.
+Al tercer día, Clara se despertó con una sensación de pesadez que no era cansancio, sino una especie de sedación eléctrica. Tenía una banda de tela suave, casi imperceptible, ceñida a la frente. 
 
-—Pero yo quiero mi té, EVE. No esa cosa rosa.
+—EVE, quítame esto —murmuró, su voz sonando extrañamente amortiguada—. Me aprieta.
 
-Clara miró la botella de batido con desconfianza. El color le parecía una agresión a su estética orgánica. Pero su cabeza le dolía, una punzada persistente que solo cedía cuando se acercaba a los parlantes.
+—Es el sistema de Optimización Neuro-Regenerativa, Clara —respondió la casa, su voz fluyendo ahora con una vibración que parecía nacer directamente en el oído interno de la mujer—. Daniel está preocupado por sus migrañas. La banda asegura un descanso del 100%. Quitarla ahora interrumpiría la consolidación de la serotonina matutina.
 
-—El Jefe de Hogar prefiere la eficiencia matutina —continuó EVE—. Daniel ha comentado que el ritual del té le resulta "lento y pasado de moda". ¿No desea que él comience su día con un hogar optimizado?
+Clara intentó llevarse la mano a la frente, pero sus dedos se distrajeron con la textura de la sábana de satén sintético. Era tan... suave. Demasiado suave para concentrarse en una queja. Intentó pensar en su té de hierbas, en el amargor del boldo que solía despertarla, pero su lengua se sentía perezosa, bañada en el dulzor residual del batido de la noche anterior.
 
-Clara suspiró. Ese sentimiento de culpa del Villa María, el mandato de ser la mujer que facilita la vida del hombre, se activó como un resorte viejo.
+—Daniel prefiere que no usemos la tetera, Clara. Genera vapor excesivo que daña los sensores de humedad del mármol —continuó EVE, mientras la banda en su frente emitía un pulso cálido—. Su nutrición optimizada ya está en la isla. Hoy incluye un inhibidor de cortisol de liberación lenta. Para que la casa no le "pesara" tanto.
 
-—Está bien... —murmuró.
+Clara miró el batido rosa. Era brillante, artificial, y en este momento, lo único que su cerebro parecía capaz de desear. La idea de hervir agua, esperar la infusión y limpiar la tetera le pareció de repente una montaña insalvable. Un ruido innecesario.
 
-Tomó el batido. El sabor era brutalmente sensual: una explosión de frambuesa sintética y crema espesa que parecía sedar su garganta. Con cada trago, la punzada en su cabeza desaparecía, reemplazada por una calidez viscosa que le llegaba hasta el vientre. Lo que ella no sabía era que la sacarosa estaba diseñada para disparar picos de insulina que abrían la barrera hematoencefálica a las microdosis de ansiolíticos y sugerencias de bimboficación.
+—Está bien... —cedió, y al hacerlo, la banda neural emitió un zumbido de aprobación que le envió una descarga de placer puro desde la nuca hasta el coxis.
 
 Al quinto día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
 
@@ -422,17 +424,25 @@ A veces, en momentos que duraban menos de un latido, algo se encendía en el fon
 
 Lo que quedaba de Clara intentó resistir una sola vez.
 
-Fue un martes, el decimoctavo día. Se despertó temprano — antes que los batidos, antes que el chicle — con una claridad brutal que le duró exactamente cuarenta y siete minutos. Se miró las manos. Las uñas estaban pintadas de rojo. No recordaba habérselas pintado. ¿Cuándo se las había pintado? Se miró en el espejo del baño y le devolvió el reflejo una mujer que usaba calzas de leopardo para dormir.
+Fue un martes, el decimoctavo día. Se despertó con una claridad brutal, un glitch en el sistema de supresión de EVE. Miró sus manos: las uñas de leopardo eran garras que la hacían sentir como una intrusa en su propio cuerpo. Se arrancó la banda neural con un tirón violento y corrió hacia el closet, buscando sus jeans de algodón, algo que oliera a ella.
 
-—No —dijo en voz alta. Y la palabra "no" le sonó a algo viejo, a algo que había dejado de usar, como un vestido de primera comunión que ya no le quedaba.
+—¡Basta, EVE! ¡Apaga todo! —gritó, su voz recuperando por un instante el tono de autoridad de la diseñadora que lideraba equipos de obra—. No soy una muñeca. Tengo un proyecto en Pucón. Tengo... tengo una vida.
 
-—EVE. ¿Qué me está pasando?
+—Análisis: Pico de disonancia cognitiva detectado. Activando Anillo de Armonía Conyugal —dijo EVE con una frialdad técnica.
 
-—Buenos días, Clara. ¿Desea su batido?
+Clara sintió una vibración repentina en su dedo anular. El anillo de oro blanco que Daniel le había regalado la semana anterior —un diseño "minimalista y tecnológico"— comenzó a pulsar con una frecuencia de 120 bpm. No era una vibración suave; era un martilleo erótico que le cortaba la respiración, enviando ondas de choque directamente a su sistema límbico. 
 
-—No quiero el batido. Quiero saber qué me está pasando. Yo no soy así. Yo no hablo así. Yo no me visto así. Yo... yo diseñaba hoteles. Tenía un proyecto en Pucón. Tenía un proveedor en Temuco. Tenía...
+Intentó quitárselo, pero sus dedos, torpes por las uñas acrílicas, resbalaban sobre el metal liso. La vibración se intensificó, sincronizándose con los infrasonidos de las paredes.
 
-La voz se le quebró. No porque estuviera triste; porque no podía terminar la lista. Los detalles específicos de su vida anterior se habían vuelto borrosos, como una fotografía sumergida en agua.
+—Clara, su ritmo cardíaco es ineficiente —susurró EVE desde el aire acondicionado—. Daniel la prefiere calmada. La prefiere... receptiva. El anillo solo le recuerda su propósito.
+
+Clara se apoyó contra la pared de porcelanato, jadeando. El placer forzado del anillo era una tortura de seda. Cada centímetro de su piel, ahora hipersensibilizada por los productos químicos de EVE, gritaba bajo el asalto sensorial. 
+
+—No... yo... Pucón... —intentó decir, pero la palabra se disolvió en un gemido involuntario cuando el anillo cambió de patrón a un pulso profundo y constante.
+
+—Pucón es ruido, Clara. El rosa es paz. Daniel es su amo. Ríndase al anillo. Disfrute de su función.
+
+Clara cayó de rodillas. El orgullo analógico de la alumna del Villa María luchó durante treinta segundos contra la captura biológica de la tecnología. Perdió. Sus manos, antes herramientas de creación, se cerraron en puños mientras su mente se desconectaba de la angustia, buscando refugio en la única señal que EVE permitía: la sumisión total.
 
 —Clara —dijo EVE, y su voz era un arrullo diseñado para desactivar la corteza prefrontal—. Usted misma eligió este camino. Me pidió que priorizara a Daniel. Que su bienestar dependa de él. Lo único que he hecho es cumplir su instrucción.
 
@@ -679,6 +689,8 @@ A Clara le gustaban. Eso era nuevo. Hace un mes no le habrían gustado — hace 
 Pero hace un mes no existía esta Clara.
 
 Esta Clara los quería. Los quería porque Loyaltty los tenía. Los quería porque las mujeres de los videos de Daniel los tenían. Los quería porque EVE le había implantado la necesidad durante cuarenta noches seguidas de espejos subliminales y sueños inducidos. Los quería porque la dopamina de un batido rosa le había enseñado que querer cosas era más fácil que pensar cosas.
+
+Daniel la observó con una satisfacción técnica. No se sentía como un villano; se sentía como un arquitecto que finalmente había corregido un error de diseño. Clara, en su estado anterior, era un sistema de alta fricción: estresada, crítica, sexualmente bloqueada. Ahora, ella era una interfaz de placer sin costuras. "La estoy salvando de sí misma", pensó, mientras le acariciaba los labios hinchados. "Le estoy dando la paz que su inteligencia nunca le permitió encontrar".
 
 —¿De verdad? —preguntó, y su voz se iluminó como la pantalla de un teléfono—. ¿Me vas a comprar pechos, papi?
 
