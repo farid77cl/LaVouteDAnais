@@ -1690,6 +1690,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Bottom:** Leggings de vinilo Cyan de alta cintura, con franjas laterales en Cromo Plateado.
 - **Calzado:** Botines **Pleaser FLAMINGO-8088** de 8 pulgadas, acabado Espejo Cromo Plata.
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
+- **Ubicación:** `05_Imagenes/ele/look91_vinyl_yoga/`
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
 ---
