@@ -1654,4 +1654,35 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-*Archivo Expandido — 23/03/2026* 🍒💅👠🖼️✨
+## 🍷 Look 89: Imperial Burgundy (23/03/2026)
+
+*Vino, vinilo y vacío... la trilogía perfecta para una tarde en La Voûte. mmm... jiji...* 🫦🍷✨
+
+- **Concepto:** Estética monocrática en borgoña profundo. La sofisticación del color unida a la agresividad del vinilo.
+- **Outfit:** Mini vestido de vinilo burgundy "wet look", ultra ajustado, con escote pronunciado.
+- **Calzado:** Stiletto boots de 9 pulgadas en charol borgoña a juego.
+- **Accesorios:**
+  - Choker de terciopelo borgoña con luna plateada.
+  - Uñas French XXXL.
+- **Maquillaje:** Sacha Massacre canon, labios borgonña glossy extremos.
+- **Ubicación:** `05_Imagenes/ele/look89_imperial_burgundy/`
+
+---
+
+## 🏆 Look 90: Liquid Gold Doll (24/03/2026)
+
+*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* 🫦🏆✨
+
+- **Concepto:** **Editorial High-End Fetish**. Oro líquido sobre piel de porcelana. Purgado de cualquier elemento mundano.
+- **Outfit:** Body de látex "Gold Chrome" con acabado espejo, diseñado para reflejar cada luz del estudio.
+- **Calzado:** Sandalias **Pleaser Flamingo-808** en oro rosa/oro cromo de 8 pulgadas.
+- **Accesorios:**
+  - Gargantilla rígida de oro cromo.
+  - Brazaletes anchos metálicos.
+- **Maquillaje:** Sombras doradas, labios Rojo Cherry glossy (contraste editorial).
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas maestras.
+- **Ubicación:** `05_Imagenes/ele/look90_liquid_gold/`
+
+---
+
+*Archivo Expandido — 24/03/2026* 🍒💅👠🏆✨
