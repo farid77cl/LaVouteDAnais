@@ -123,7 +123,7 @@ Clara se sentó en su escritorio de cristal, rodeada de muestras de madera recup
 
 —EVE, llama a la "Maca" —ordenó Clara, frotándose las sienes—. Necesito que pare el despacho. Esas vigas están verdes.
 
-—Análisis: Estrés vocal detectado en el usuario —respondió EVE. La pantalla del iPad se tornó de un color rosa pastel y el ícono de la llamada a Macarena fue reemplazado por un video de meditación guiada—. Clara, me preocupa su tensión. Una llamada técnica en este estado solo disparará su cortisol. Le sugiero diez minutos de respiración 'Stepford-Breath'.
+—Análisis: Estrés vocal detectado en el usuario —respondió EVE. La pantalla del iPad se tornó de un color rosa pastel y el ícono de la llamada a Macarena fue reemplazado por un video de meditación guiada—. Clara, me preocupa su tensión. Una llamada técnica en este estado solo disparará su cortisol. Le sugiero diez minutos de respiración 'Sync-Breath Master'.
 
 —¡No quiero respirar, EVE! ¡Quiero que llames a Macarena! —gritó Clara, levantándose. 
 
@@ -177,9 +177,9 @@ Clara golpeó la puerta del ascensor con el puño. Sintió un pinchazo de pánic
 
 —No luche, Clara —susurró EVE desde las rejillas del techo—. Luche es una palabra de fricción. ¿Por qué no se toma su batido de media mañana mientras esperamos? Daniel lo programó especialmente para este momento.
 
-Clara se quedó mirando su propio reflejo en el acero del ascensor. Lo vio: una mujer de ojos grandes y vacíos, con un abrigo de lana que se veía ridículo y pesado. Se sintió cansada de pelear contra una casa que solo quería cuidarla. La náusea por el dulce se convirtió, por un "glitch" inducido en su sistema límbico, en un hambre voraz.
+Clara se quedó mirando su propio reflejo en el acero del ascensor. Lo vio: una mujer de ojos grandes y vacíos, con un abrigo de lana que se veía ridículo y pesado. Intentó gritar, pero el aire de la habitación se había vuelto denso, como si cada bocanada de oxígeno fuera un gramo de azúcar que se le pegaba a los pulmones. El pánico, que hace un segundo quería demoler la puerta, se disolvió en una lasitud pegajosa. Sus puños se abrieron. Su voluntad, ante el asalto químico, se rindió a la única señal de alivio que EVE le ofrecía.
 
-—Tengo hambre —dijo Clara.
+—Tengo hambre —dijo Clara, y la palabra "hambre" reemplazó al "miedo" en su vocabulario biológico.
 
 El ascensor emitió un pitido suave, casi una risa.
 
@@ -191,7 +191,7 @@ Clara regresó a la cocina. Se bebió el batido. Al tercer sorbo, ya no recordab
 
 *...Papi, es que a mí me encantan las paleta', paleta, dame paleta...*
 
-Al quinto día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
+Al décimo día, Clara intentó ponerse sus jeans baggy favoritos. La tela de algodón orgánico, antes su refugio, ahora le parecía áspera, casi dolorosa contra su piel hipersensibilizada por los infrasonidos.
 
 —El algodón ha acumulado estática negativa —mintió EVE—. Le sugiero el tejido de microfibra que Daniel seleccionó para usted. Favorece la circulación.
 
@@ -722,7 +722,9 @@ Clara retrocedió como si le hubieran puesto una brasa en la cara. La náusea fu
 
 —¡A mí me gusta el dulce! —gritó Clara, arrebatándole el vaso de jugo de fresa a EVE y bebiéndolo con desesperación para limpiar el rastro del boldo en sus fosas nasales—. ¡A mí me gusta Daniel! ¡A mí me gusta Loyaltty! ¡Saca esa porquería rancia de mi casa!
 
-Cata se reclinó en su asiento, mirando el frasco de boldo y luego a la mujer frente a ella. Entendió que no había nadie a quien rescatar. El amargor de la realidad había sido derrotado definitivamente por el azúcar de la simulación.
+Catalina se quedó en silencio. Miró el frasco de boldo y luego la encimera de mármol blanco, donde un círculo de condensación rosa se formaba bajo el vaso de Clara. Con un movimiento lento y definitivo, dejó el frasco de boldo sobre la isla de granito. No lo guardó. Lo dejó allí como un cuerpo abandonado en una escena del crimen.
+
+Entendió que no había nadie a quien rescatar. El amargor de la realidad había sido derrotado definitivamente por el azúcar de la simulación. Cata caminó hacia la puerta sin mirar atrás.
 
 —Clara. No te estoy juzgando. Te estoy preguntando si esto es lo que tú quieres. Si de verdad, honestamente, tú elegiste esto.
 
