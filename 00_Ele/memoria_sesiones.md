@@ -24,12 +24,13 @@
  
  | Campo | Valor |
  |-------|-------|
-  | **Relato Activo** | Smart Home Stepford (v8.1 - GOLD MASTER) |
-  | **Ubicación** | `03_Literatura/02_Finalizadas/smart_home_stepford_completo.md` |
-  | **Fase del Ritual** | ✅ FINALIZADO (Compilación, Ficha, Tumblr, HTML) |
-  | **Capítulo en Progreso** | Todo (Blindado ~14k palabras) |
+  | **Relato Activo** | El Secreto de la Cómoda (FINAL - 23k words) |
+  | **Ubicación** | `03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/relato_completo.md` |
+  | **Fase del Ritual** | ✅ FINALIZADO (Novela, Crítica, Centinela) |
+  | **Capítulo en Progreso** | Todo (Blindado ~23.3k palabras) |
   | **Estado Actual** | 🟢 **COMPLETADO** - Ritual de Creación ejecutado. |
   | **Último Look Ele** | **Look 93 (High-Gloss Cherry)** |
+
   | **Última Generación** | Look 92 (Boardroom Santiago). |
 
  ### Tareas Pendientes Inmediatas
