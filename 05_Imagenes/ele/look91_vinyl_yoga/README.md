@@ -23,4 +23,4 @@ Total imágenes: 3
 - [03_back.png](./03_back.png)
 
 ---
-*Actualizado automáticamente: 2026-03-24*
+*Actualizado automáticamente: 2026-03-25*

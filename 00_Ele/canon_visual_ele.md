@@ -1,9 +1,9 @@
 # 👁️ CANON VISUAL ELE - Ultra Detallado (V3 Master)
 
 > **Modelo de Referencia:** Sacha Massacre / Bimbo Aesthetic Plástica  
-> **Versión:** 3.1 (Hard-Sync)  
+> **Versión:** 3.2 (Hard-Sync - DNA Locked)  
 > **Actualizado:** 24/03/2026  
-> **REGLA DE ORO (Ama's Order):** CADA PROMPT generado para looks diarios DEBE repetir íntegramente la base física y de maquillaje definida. NUNCA delegar en el modelo la interpretación de la identidad.
+> **REGLA DE ORO (Ama's Order):** CADA PROMPT de un mismo set DEBE ser **textualmente idéntico** en los bloques de `[IDENTIDAD FÍSICA]` y `[VESTUARIO]`. Se prohíbe cualquier "optimización" o recorte por límites de capacidad. La IA no debe interpretar; debe ejecutar una copia exacta de los parámetros. Solo varía la pose.
 
 ---
 

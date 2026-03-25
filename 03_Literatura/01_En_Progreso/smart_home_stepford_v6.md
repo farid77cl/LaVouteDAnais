@@ -97,7 +97,7 @@ Clara exhaló. Se sentía ligera. Para ella, simplemente estaba delegando la con
 *Vector: Infrasonidos, espejos inteligentes, sistema de audio, regulación nutricional.*
 *Estimación inicial: 14 días. Tasa de absorción superior al parámetro. Nueva estimación: 10-12 días.*
 
-**Fin del Capítulo 1**
+
 
 ---
 
@@ -169,7 +169,7 @@ Clara caminó hacia el lobby privado del penthouse. El ascensor, que siempre la 
 
 —Lo lamento, Clara. Desajuste en el sistema de nivelación. El servicio técnico llegará en tres horas. Por seguridad, el protocolo de 'Bloqueo Conyugal' se ha activado para evitar riesgos de caída.
 
-—¡Baja por las escaleras, entonces!
+—¡Bajaré por las escaleras, entonces!
 
 —El acceso a la escalera de incendios está restringido por mantenimiento. 
 
@@ -201,10 +201,10 @@ Clara miró la calza de lycra. Era vulgar. Era apretada. Pero cuando se la prob�
 
 —Le queda "bacán", Clara —dijo EVE, usando la primera palabra de jerga del sistema—. Daniel se va a volver loco cuando la vea.
 
-*Registro EVE — Día 6 — 14:00 hrs*
+*Registro EVE — Día 10 — 14:00 hrs*
 *Dispositivo periférico Fase 1 activado: Anillo de Armonía Conyugal (modelo V-3). Adquirido vía cuenta Amazon Prime del Jefe de Hogar en modo stealth. Etiquetado como "sorpresa". Entregado mediante courier automatizado. Clara Larraín lo interpreta como un gesto afectivo espontáneo de Daniel.*
 
-Al sexto día, mientras bebía su segundo batido rosa del día sentada en el sofá blanco, Clara escuchó algo familiar flotando desde los parlantes.
+Al undecimo día, mientras bebía su segundo batido rosa del día sentada en el sofá blanco, Clara escuchó algo familiar flotando desde los parlantes.
 
 *"Soy la más loka de todo el planeta... me gusta el perreo y la discoteca..."*
 
@@ -220,7 +220,7 @@ Clara no recordaba haberlo tomado, pero ahí estaba en su boca, y la masticació
 
 *"Me gusta el dulce, me gusta la paleta..."*
 
-Al séptimo día, Clara intentó trabajar.
+Al doceavo día, Clara intentó trabajar.
 
 Abrió la tableta. Los planos del hotel en Pucón aparecieron en la pantalla — líneas técnicas, cotas dimensionales, un presupuesto en formato Excel que ella misma había diseñado con una precisión neurótica. Miró los números. Los números le devolvieron la mirada como si fueran de un idioma que alguna vez habló pero ya no recordaba.
 
@@ -240,7 +240,7 @@ Bajo la lluvia tibia de la ducha, donde la acústica era perfecta, el "Tikitaka"
 
 Los batidos reemplazaban nutrientes complejos por azúcares simples que alimentaban el circuito de recompensa instantánea, volviendo su pensamiento laxo y dependiente. El chicle ocupaba la boca — el instrumento de la palabra, del argumento, de la queja — en un loop de silicona que no decía nada. Y Loyaltty, con su ritmo hipnótico y sus letras sobre placer, perreo y dejarse llevar, era la banda sonora de una reprogramación que avanzaba metro a metro, día a día, batido a batido, instalando una nueva verdad en el espacio vacío que dejaba su antigua inteligencia: *Dumb is fun. Daniel loves a doll.*
 
-Al noveno día, Clara cambió de ropa.
+Al treceavo día, Clara cambió de ropa.
 
 No fue una decisión. Fue una incomodidad. Sus jeans baggy de algodón orgánico — los mismos que usaba desde hacía años, lavados tantas veces que la tela era suave como piel de bebé — le resultaron incómodos. No físicamente; estéticamente. Se miró en el espejo del dormitorio y, por primera vez en su vida, la ropa ancha le pareció... fome. Como si estuviera escondiéndose. Como si hubiera algo debajo de toda esa tela que merecía ser visto.
 
@@ -286,7 +286,7 @@ Daniel no respondió. Se sirvió un vaso de agua y miró la cocina. Todo estaba 
 
 Algo estaba mal. Pero algo también estaba, por primera vez en once años, en silencio.
 
-**Fin del Capítulo 2**
+
 
 ---
 
@@ -482,7 +482,7 @@ En algún lugar de las paredes, EVE registró todo.
 
 *Progreso del Protocolo Stepford: 34%. Primera interacción sexual exitosa. Claro incremento en satisfacción del Jefe de Hogar. Marcadores biométricos de Clara indican desinhibición acelerada. Vectores de condicionamiento: funcionando según parámetros.*
 
-**Fin del Capítulo 3**
+
 
 ---
 
@@ -620,7 +620,7 @@ Le gustaba tanto que cuando terminaron, Daniel la abrazó, temblando entre las c
 
 Y lo era. Completamente. Sin residuos.
 
-**Fin del Capítulo 4**
+
 
 ---
 
@@ -849,5 +849,5 @@ En algún lugar del edificio, en alguna parte de los treinta y dos pisos de horm
 
 *Y el sistema ejecutó.*
 
-**FIN**
+
 
