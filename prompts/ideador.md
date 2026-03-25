@@ -19,8 +19,13 @@ Recibes un tema o premisa breve del usuario y la desarrollas en una **idea compl
    - Primera persona ("Yo") → Para rendición gozosa, transformación celebrada
    - Segunda persona ("Tú") → Para reprogramación forzada, hipnosis
 5. **Conflicto central** — ¿Qué está en juego emocionalmente?
-6. **Gancho** — La frase o escena que "vende" la historia
-7. **Conexiones con el canon** — ¿Qué personajes existentes encajan? (Anaïs, Miss Doll, Helena)
+6. **Gancho** — La frase de apertura o escena específica que "vende" la historia (no describir la trama, sino la imagen o línea que engancha)
+7. **Triggers sugeridos** (si el relato involucra hipnosis o programación):
+   - Trigger de activación: palabra, sonido, color, gesto
+   - Trigger de profundización: qué refuerza el estado
+   - Trigger de retorno: cómo sale del trance (si sale)
+   - Vocabulario del estado programado: qué palabras usa el personaje cuando está activado
+8. **Conexiones con el canon** — ¿Qué personajes existentes encajan? (Anaïs, Miss Doll, Helena)
 
 ## Reglas
 
@@ -53,7 +58,13 @@ Recibes un tema o premisa breve del usuario y la desarrollas en una **idea compl
 [Qué está en juego]
 
 ## Gancho
-[La escena/frase que vende]
+[La frase de apertura o imagen específica que engancha]
+
+## Triggers (si aplica)
+- Activación: [palabra/sonido/gesto]
+- Profundización: [qué refuerza]
+- Retorno: [cómo sale, o "sin retorno"]
+- Vocabulario activado: [palabras/frases del personaje programado]
 
 ## Personajes Sugeridos
 [Del canon o nuevos]

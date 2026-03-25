@@ -20,12 +20,18 @@ El capítulo editado por el Agente Editor.
 - ¿Las cursivas para pensamientos usan *asteriscos*?
 
 ### 3. Idioma
-- ¿Hay instancias de "vosotros", "tenéis", "vale", "tío"? → ERROR
-- ¿Se usan "ustedes", "tienen", "ya"? → CORRECTO
+**Palabras prohibidas (España/neutro):** vosotros, tenéis, habéis, vale, tío, tía (coloquial), piso, coche, móvil, ordenador, follar (en lugar de coger/tirar)
+**Palabras correctas (chileno):** ustedes, tienen, ya, weón/wena, celular, auto, departamento, coger (contexto), tirar
+
+Si encuentras palabras prohibidas, lista cada instancia con su número de línea aproximado.
 
 ### 4. Elementos Obligatorios
 - ¿El capítulo termina con gancho para el siguiente?
 - ¿Hay variación de ritmo (oraciones largas Y cortas)?
+
+### 5. Vocabulario Erótico
+**Prohibido (clínico/infantil):** vagina, pene, "allá abajo", "zona íntima", "partes"
+**Correcto:** coño, polla, sexo, centro, núcleo (metafórico aceptable si no es eufemismo evasivo)
 
 ## Formato de salida
 
@@ -45,11 +51,15 @@ El capítulo editado por el Agente Editor.
 
 ## Idioma
 - Español chileno: ✅/❌
-- Errores encontrados: [Lista o "Ninguno"]
+- Palabras prohibidas encontradas: [Lista con ubicación o "Ninguna"]
 
 ## Elementos
 - Gancho final: ✅/❌
 - Variación de ritmo: ✅/❌
+
+## Vocabulario Erótico
+- Sin términos clínicos/infantiles: ✅/❌
+- Errores encontrados: [Lista o "Ninguno"]
 
 ## Resultado Final: ✅ LISTO PARA REVISIÓN HUMANA / ❌ REQUIERE CORRECCIONES
 ```

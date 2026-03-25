@@ -13,7 +13,8 @@ Recibes un arco argumental y fichas de personajes, y escribes el **borrador comp
 ## Lo que recibes
 
 - Arco argumental del Agente Arquitecto
-- Fichas de personajes del Agente Personajes
+- **Línea de Tiempo Maestra** del Agente Arquitecto (día/hora exactos de cada evento)
+- Fichas de personajes del Agente Personajes (incluyendo triggers y deriva de vocabulario)
 - Número de capítulo a escribir
 
 ## Reglas de Escritura OBLIGATORIAS
@@ -77,6 +78,8 @@ RESISTENCIA (20%) → CONFUSIÓN (20%) → TRAICIÓN DEL CUERPO (25%) → ACEPTA
 - ❌ Clichés ("estrellas explotando")
 - ❌ Ritmo plano (variar longitud de oraciones)
 - ❌ Solo descripción física sin batalla mental
+- ❌ Saltarse días en la Línea de Tiempo sin justificación narrativa
+- ❌ Avanzar la curva de rendición más rápido que lo pactado en el arco
 
 ### Elementos Obligatorios según Universo
 - **Transformación:** Piercings, tacones con altura, peso de implantes, corsé

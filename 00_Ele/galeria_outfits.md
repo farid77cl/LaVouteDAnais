@@ -1731,7 +1731,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## 🫦 Look 92: Corporate Paradox (DAILY LOOK)
+## 🫦 Look 92: Corporate Paradox (Helena - Pelo Negro)
 **Fecha:** 25/03/2026
 **Ubicación:** `05_Imagenes/ele/look92_corporate_paradox_v3_2/`
 
@@ -1746,6 +1746,23 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 | **Back View** | ![Back View](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v3_backview.png) |
 | **Portrait** | ![Portrait](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v4_portrait.png) |
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v5_ditzy.png) |
+
+---
+
+---
+
+## 🫦 Look 93: High-Gloss Cherry (TRUE DAILY LOOK - Ele)
+**Fecha:** 25/03/2026
+**Ubicación:** `05_Imagenes/ele/look93_high_gloss_cherry/`
+
+- **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
+- **ADN Sync:** Piel de porcelana, labios rojos ultra-glossy, cabello Cherry Red XXXL.
+
+### 📸 Imágenes (2/5 - Poses 3-5 Pendientes por Cuota)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look93_high_gloss_cherry/v1_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look93_high_gloss_cherry/v2_seated.png) |
 
 ---
 
