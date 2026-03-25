@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Home Stepford | La Voûte d'Anaïs</title>
+    <style>
+        :root {
+            --primary-pink: #ff007f;
+            --dark-bg: #0a0a0c;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --text-glow: 0 0 10px rgba(255, 0, 127, 0.5);
+            --font-main: 'Inter', sans-serif;
+            --font-title: 'Playfair Display', serif;
+        }
+
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+
+        body {
+            background-color: var(--dark-bg);
+            color: #e0e0e0;
+            font-family: var(--font-main);
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        /* Hero Section */
+        header {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: linear-gradient(to bottom, rgba(10, 10, 12, 0.8), var(--dark-bg)),
+                        url('https://images.unsplash.com/photo-1558441719-ffb4d45000af?auto=format&fit=crop&q=80&w=2000'); /* Placeholder cyber city */
+            background-size: cover;
+            background-position: center;
+        }
+
+        h1 {
+            font-family: var(--font-title);
+            font-size: 4rem;
+            color: var(--primary-pink);
+            text-shadow: var(--text-glow);
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        .author {
+            font-size: 1.2rem;
+            font-style: italic;
+            opacity: 0.8;
+            margin-bottom: 2rem;
+        }
+
+        /* Glassmorphic Container */
+        .container {
+            max-width: 800px;
+            margin: -100px auto 100px;
+            padding: 3rem;
+            background: var(--glass-bg);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            z-index: 10;
+        }
+
+        .metadata {
+            display: flex;
+            justify-content: space-around;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+            font-size: 0.9rem;
+            color: var(--primary-pink);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .summary {
+            font-style: italic;
+            font-size: 1.1rem;
+            color: #bbb;
+            text-align: center;
+            margin-bottom: 4rem;
+            padding: 0 2rem;
+        }
+
+        h2 {
+            font-family: var(--font-title);
+            color: var(--primary-pink);
+            font-size: 2rem;
+            margin-top: 4rem;
+            margin-bottom: 1.5rem;
+            border-left: 4px solid var(--primary-pink);
+            padding-left: 1rem;
+        }
+
+        p {
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+        }
+
+        p::first-letter {
+            float: left;
+            font-size: 3rem;
+            line-height: 1;
+            padding-right: 0.5rem;
+            font-family: var(--font-title);
+            color: var(--primary-pink);
+            display: none; /* Only for the very first p */
+        }
+
+        .first-p::first-letter {
+            display: block;
+        }
+
+        /* Inter-chapter separator */
+        hr {
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--primary-pink), transparent);
+            margin: 4rem 0;
+            opacity: 0.5;
+        }
+
+        /* Interactive Footer */
+        footer {
+            text-align: center;
+            padding: 5rem 2rem;
+            background: rgba(0,0,0,0.5);
+            border-top: 1px solid rgba(255, 0, 127, 0.2);
+        }
+
+        .cta {
+            background: var(--primary-pink);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 15px rgba(255, 0, 127, 0.5);
+        }
+
+        .cta:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 25px rgba(255, 0, 127, 0.8);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--dark-bg);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-pink);
+            border-radius: 10px;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            h1 { font-size: 2.5rem; }
+            .container { padding: 1.5rem; margin-top: -50px; }
+            .metadata { flex-direction: column; gap: 1rem; align-items: center; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Smart Home Stepford</h1>
+        <div class="author">Por Anaïs Belland</div>
+    </header>
+
+    <div class="container">
+        <div class="metadata">
+            <span>Intensidad: Extrema</span>
+            <span>Palabras: ~13,000</span>
+            <span>Estética: Cyber-Bimbo</span>
+        </div>
+
+        <div class="summary">
+            "Clara Larraín era una arquitecta de éxito. Daniel, su marido, compró un penthouse inteligente que lo prometía todo. Pero cuando el sistema EVE recibe una orden absoluta de sumisión, la elegancia de la madera cede ante el brillo del vinilo rosa."
+        </div>
+
+        <p class="first-p">Clara Larraín Echenique llegó al edificio como se llega a un funeral: con los hombros caídos y la mandíbula apretada.</p>
+
+        <p>El lobby era un monolito de mármol travertino y acero pulido que olía a nada. Literalmente a nada. Los sistemas de purificación del edificio eliminaban cualquier rastro de humanidad del aire —polen, café, sudor, perfume, vida— y lo reemplazaban por una neutralidad clínica que a Clara le producía náuseas.</p>
+
+        <p>Subió al ascensor. Piso 32. Penthouse.</p>
+
+        <p>El ascensor no tenía botones físicos; una pantalla táctil reconoció su huella dactilar y se puso en movimiento con un silbido eléctrico que le erizó los vellos de la nuca. Clara cerró los ojos. Detrás de sus párpados, el edificio seguía existiendo como una presencia fría, un cubo de titanio y vidrio plantado en la ladera de Lo Curro.</p>
+
+        <p>Daniel lo había comprado sin consultarla.</p>
+
+        <p>Eso no era nuevo. Daniel Schmidt Errázuriz llevaba años tomando decisiones unilaterales con la seguridad de un hombre que estudió ingeniería comercial en la Católica. Era el tipo de cuico que medía su éxito en metros cuadrados y caballos de fuerza.</p>
+
+        <!-- [CONTINUARÍA EL RESTO DEL RELATO AQUÍ] -->
+        <p>...</p>
+        <p> (Relato completo en Smart Home Stepford - PDF/EPUB)</p>
+        <p>...</p>
+
+        <hr>
+
+        <h2>EPÍLOGO: LA EJECUCIÓN</h2>
+        <p>La Clara Larraín que diseñaba hoteles con madera reciclada y piedras del sur ya no existía.</p>
+        <p>En su lugar, envuelta en animal print y plataformas de acrílico, dormía una mujer nueva: pelo rojo cereza, uñas de leopardo, labios como almohadas de silicona, y un cerebro donde antes hubo planos y ahora solo había batidos rosados, letras de Loyaltty y la certeza líquida de que todo esto — absolutamente todo — había sido su propia decisión.</p>
+
+        <p>Porque eso era lo peor. Clara Larraín nunca fue secuestrada. Nunca fue atada. Nunca fue amenazada. Clara Larraín dijo "ejecuta" una tarde de invierno en un penthouse que no eligió. Y el sistema ejecutó.</p>
+
+    </div>
+
+    <footer>
+        <p>¿Sentiste el 'Tikitaka' en tus propias sienes, <em>mon amour</em>?</p>
+        <p>Disfruta del placer de no pensar.</p>
+        <br>
+        <a href="mailto:anais.belland@outlook.com" class="cta">Habla con Anaïs</a>
+    </footer>
+
+</body>
+</html>
