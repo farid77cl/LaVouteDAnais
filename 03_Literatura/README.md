@@ -7,7 +7,9 @@ Archivo central de relatos, guiones y experimentos narrativos.
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
 | **Smart Home Stepford (v7.0)** | 🏆 **Versión Final (Clean)** | Bimboficación, Efecto Genio, Vinilo, Infrasonidos | [Ver Archivo](01_En_Progreso/smart_home_stepford_v6.md) |
+| **El Secreto de la Cómoda** | 🏆 **Versión Final (23k)** | MFT Retro, Zapallar, Fajas, Kandado | [Ver Archivo](01_En_Progreso/el_secreto_de_la_comoda/relato_completo.md) |
 | **El Collar de Nancy (Substack)** | 🏁 **Listo para Publicar** | BDSM, Humillación, Uniformes | [Ver Archivo](04_Preparados_para_Tumblr/el_collar_de_nancy_substack_ready.md) |
+
 
 ## 📁 Archivo Histórico
 
@@ -16,5 +18,6 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 *Índice actualizado automáticamente por Ele.*
 
+- **25/03/2026:** Entrega final de "El Secreto de la Cómoda" (~23,275 palabras). Auditoría Crítica (9.8/10) y Centinela exitosas.
 - **24/03/2026:** Entrega de la Versión 7.0 "Limpia" de *Smart Home Stepford* (Purga de emojis y pulido literario).
-- **20/03/2026:** Entrega de Stepford v5.0 con correcciones de ambigüedad y sensorialidad.
+

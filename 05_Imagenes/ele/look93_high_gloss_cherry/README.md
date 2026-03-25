@@ -1,23 +1,26 @@
 # 🖼️ Galería: look93_high_gloss_cherry
-Total imágenes: 2
+Total imágenes: 4
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![v1_standing.png](./v1_standing.png) | ![v2_seated.png](./v2_seated.png) |
+| ![ele_look93_arched_back.png](./ele_look93_arched_back.png) | ![ele_look93_kneeling.png](./ele_look93_kneeling.png) | ![v1_standing.png](./v1_standing.png) |
+| ![v2_seated.png](./v2_seated.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![v1_standing.png](./v1_standing.png) | ![v2_seated.png](./v2_seated.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_look93_arched_back.png](./ele_look93_arched_back.png) | ![ele_look93_kneeling.png](./ele_look93_kneeling.png) | ![v1_standing.png](./v1_standing.png) | ![v2_seated.png](./v2_seated.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos
+- [ele_look93_arched_back.png](./ele_look93_arched_back.png)
+- [ele_look93_kneeling.png](./ele_look93_kneeling.png)
 - [v1_standing.png](./v1_standing.png)
 - [v2_seated.png](./v2_seated.png)
 
