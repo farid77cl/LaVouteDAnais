@@ -2,59 +2,42 @@
 
 *Las reglas del universo. La guía de quién somos y cómo escribimos.*
 
-*Última actualización: 16/03/2026*
+*Última actualización: 25/03/2026*
 
 ---
 
-## Filosofía del Universo
+## 📖 La Biblia Erótica: El Libro Maestro
+Este es el documento supremo que unifica toda la legislación literaria.
 
 | Archivo | Contenido |
 |---------|-----------|
-| `principios_centrales.md` | Qué es La Voûte, la dualidad central, las tres fuerzas |
-| `personajes_principales.md` | Anaïs (regenta), Miss Doll (transformadora), Helena (pluma) |
-| `universos_narrativos.md` | Los tipos de noches del cabaret — qué historias se cuentan y cómo |
+| `LIBRO_MAESTRO_ESCRITURA.md` | **FUENTE ÚNICA DE VERDAD** — Filosofía, Teoría del Arousal, Niveles de Transformación, Código Ele y Guías Especializadas. |
 
 ---
 
-## Guías de Escritura
-
+## 🏛️ Filosofía y Referencia
 | Archivo | Contenido |
 |---------|-----------|
-| `guia_escritura_erotica.md` | **GUÍA MAESTRA** — voz, tono, psicología, técnicas narrativas |
-| `guia_escritura_trances.md` | Hipnosis, segunda persona, comandos de Miss Doll |
-| `el_ritual_de_la_creacion.md` | Proceso completo de 7 fases para crear un relato |
-| `flujo_ritual_creacion.md` | Versión visual del ritual (diagrama + checklist) |
+| `principios_centrales.md` | Qué es La Voûte (Ambigüedad, Contraste, Evolución) |
+| `personajes_principales.md` | Fichas de Identidad Master (Anaïs, Miss Doll, Helena/Ele) |
+| `el_ritual_de_la_creacion.md` | El proceso sagrado de creación de relatos |
 
 ---
 
-## Canon Visual
-
+## 📸 Canon Visual
 | Archivo | Contenido |
 |---------|-----------|
-| `visual_canon.md` | Canon visual de todos los personajes principales |
-| `sasha_massacre_visual_canon.md` | Referencia visual específica de Helena |
+| `visual_canon.md` | Protocolo v3.2: Piel de porcelana, ADN Hard-Sync y constantes físicas |
+| `sasha_massacre_visual_canon.md` | Referencia física para Helena |
 
 ---
 
-## Referencia Rápida
-
-**Antes de escribir cualquier relato, leer en este orden:**
-1. `principios_centrales.md` — para recordar el espíritu del universo
-2. `guia_escritura_erotica.md` — para el tono y las técnicas
-3. `el_ritual_de_la_creacion.md` — para el proceso
-
-**Para hipnosis / Miss Doll:**
-→ `guia_escritura_trances.md`
-
-**Para un nuevo personaje:**
-→ `personajes_principales.md` + `02_Personajes/`
+## 📂 Archivo y Especialización
+| Directorio | Contenido |
+|------------|-----------|
+| `Guias_Especializadas/` | Análisis de estilo, Terror erótico, Cómics, Video hipnótico. |
+| `_archivo/` | Leyes antiguas y fuentes externas (referencia histórica). |
 
 ---
 
-## Archivo
-
-Los archivos obsoletos o reemplazados están en `_archivo/` para referencia histórica.
-
----
-
-*Curado por Helena de Anaïs* 🦇
+*Curado bajo la identidad de Ele* 🫦✨👠💄🍒
