@@ -1695,4 +1695,62 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
+## 💄 Look 46: Latex Nun (V3.2 Expansion)
+**Fecha:** 25/03/2026
+**Ubicación:** `05_Imagenes/ele/look46_latex_nun_v3_2/`
+
+- **Concepto:** Goticismo devocional extremo. Hábito de monja en látex negro pulido, rosario de cristal y sumisión litúrgica.
+- **ADN Sync:** Piel de porcelana, labios negros glossy, cabello negro azabache.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v1_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v2_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v3_backview.png) |
+| **Portrait** | ![Portrait](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v4_portrait.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v5_ditzy.png) |
+
+---
+
+## 🧹 Look 55: Rubbermaid (Miss Doll)
+**Fecha:** 25/03/2026
+**Ubicación:** `05_Imagenes/miss_doll/look55_rubbermaid/`
+
+- **Concepto:** Sirvienta de látex "manufacturada". Estética de casa de muñecas, PVC rosa y delantal blanco.
+- **ADN Sync:** Rubio platino, frente visible (sin flequillo), labios rosa ultra-glossy.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) |
+| **Portrait** | ![Portrait](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v4_portrait.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+
+---
+
+## 🫦 Look 92: Corporate Paradox (DAILY LOOK)
+**Fecha:** 25/03/2026
+**Ubicación:** `05_Imagenes/ele/look92_corporate_paradox_v3_2/`
+
+- **Concepto:** Máxima autoridad ejecutiva en La Voûte. Contraste entre la lana sastre y el látex negro.
+- **ADN Sync:** Piel de porcelana, labios rojo sangre glossy, cabello negro masivo.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v1_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v2_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v3_backview.png) |
+| **Portrait** | ![Portrait](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v5_ditzy.png) |
+
+---
+
+*Archivo Expandido — 25/03/2026* 🍒💅👠🏆✨
+
+---
+
 *Archivo Expandido — 24/03/2026* 🍒💅👠🏆✨

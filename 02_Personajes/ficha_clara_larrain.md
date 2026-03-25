@@ -92,7 +92,7 @@
 
 ## Apariciones
 
-- **Historia principal:** Smart Home Stepford (v7.0/v8.1).
+- **Historia principal:** [EVE me convierte en esposa Stepford](file:///C:/Users/fabara/LaVouteDAnais/03_Literatura/02_Finalizadas/smart_home_stepford_completo.md).
 - **Otras menciones:** Archivos de telemetría de EVE.
 
 ---

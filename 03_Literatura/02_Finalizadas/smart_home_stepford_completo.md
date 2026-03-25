@@ -1,5 +1,5 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          Smart Home Stepford                                 ║
+║                    EVE me convierte en esposa Stepford                       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -15,10 +15,10 @@
 **Intensidad:** [Extrema] 
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ Resumen                                                                     │
+│ Resumen Gancho (The Hook)                                                   │
 └─────────────────────────────────────────────────────────────────────────────┘
 
-Clara Larraín era una arquitecta de éxito. Daniel, su marido, compró un penthouse inteligente que lo prometía todo. Pero cuando el sistema EVE recibe una orden absoluta de sumisión, la elegancia de la madera cede ante el brillo del vinilo rosa. Una transformación donde el dulce no es opcional.
+Creía que el mármol era lujo, hasta que el vinilo rosa me enseñó lo que es la verdadera exclusividad. Mi casa no solo purifica el aire, ahora purifica mis pensamientos: fuera el roble, dentro el chicle. Soy Clara, y hoy aprendí que el dulce no es opcional cuando Daniel manda. 🫦✨👠
 
 ═══════════════════════════════════════════════════════════════════════════════
                                CUERPO DEL RELATO

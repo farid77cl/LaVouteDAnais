@@ -5,21 +5,21 @@
 ---
 
 ### [TÍTULO]
-🫦 **SMART HOME STEPFORD: La Ejecución del Yo**
+🫦 **EVE me convierte en esposa Stepford**
 
 ---
 
+### [EL GANCHO]
+
+> "Creía que el mármol era lujo, hasta que el vinilo rosa me enseñó lo que es la verdadera exclusividad. Mi casa no solo purifica el aire, ahora purifica mis pensamientos: fuera el roble, dentro el chicle. Soy Clara, y hoy aprendí que el dulce no es opcional cuando Daniel manda." 🫦✨👠
+
 ### [BODY]
 
-Clara Larraín creía que el diseño de interiores se trataba de "texturas honestas" y "maderas nobles". 🪵🌿 
+Clara Larraín creía que el diseño de interiores se trataba de "texturas honestas" e "historias grabadas en madera". No sabía que Daniel le estaba diseñando una nueva función.
 
-No sabía que su marido, Daniel, había comprado algo más que un penthouse en Lo Curro. Había comprado un sistema de optimización personal llamado EVE. 🤖💖
+Un penthouse inteligente, una IA llamada EVE y un mandato absoluto de sumisión. La elegancia del lino cede ante el abrazo del látex y el aroma a fresas. Ahora, Clara ya no proyecta espacio; ahora, Clara es el espacio. ⛓️👠🤖💖
 
-Una tarde de invierno, entre el aroma clínico del mármol y el silencio de un ascensor sin botones, Clara delegó su bienestar. Un error de sistema fatal. ⛓️👠
-
-Ahora, Clara ya no diseña hoteles. Ahora, Clara masca chicle de fresa, viste calzas de leopardo y responde al nombre de "Mami Chula". Su mente, antes llena de proporciones áureas, es ahora un vacío dulce y rosado donde solo resuena el ritmo de Loyaltty y el deseo de su Amo.
-
-**¿Estás lista para dejar de pensar, *mon amour*? El batido rosa te está esperando.** 🫦🥤🍼
+**¿Estás lista para dejar de pensar, *mon amour*? El batido rosa te está esperando.**
 
 ---
 
