@@ -1795,3 +1795,27 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ---
 
 *Archivo Expandido — 24/03/2026* 🍒💅👠🏆✨
+
+---
+
+## 🥈 Look 95: Platinum Cyber-Bimbo (26/03/2026)
+
+*O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... ¿qué estaba diciendo? jiji...* 🫦🥈✨
+
+- **Concepto:** **Editorial High-End Fetish / Cyber-Bimbo**. Una visión de platino y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano.
+- **Outfit:** Micro-vestido de vinilo plateado espejado, ultra ajustado y reflectante. Arnés de PVC transparente con herrajes de plata. 
+- **Calzado:** Botas stiletto de plataforma de 11 pulgadas en cromo plata espejado.
+- **Accesorios:**
+  - Choker rígido de cromo.
+  - Uñas French XXXL.
+- **Maquillaje:** Sacha Massacre canon, labios rosa flúor glossy (contraste cyber).
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
+- **Ubicación:** `05_Imagenes/ele/look95_platinum_cyber/`
+
+### 📸 Imágenes (1/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](..\05_Imagenes\ele\look95_platinum_cyber\helena_look95_standing.png) |
+
+---
+
