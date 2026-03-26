@@ -81,8 +81,9 @@ LaVouteDAnais/
 
 ## Relatos
 
-### Activo
-- **Smart Home Stepford** — Completado (v5.17)
+### Activos
+- **El Deseo de la Cancha** — Pausado (Auditoría de imágenes)
+- **El Secreto de la Cómoda** — Completado (v8.1 Gold Master)
 
 ### Serie Miss Doll
 Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.

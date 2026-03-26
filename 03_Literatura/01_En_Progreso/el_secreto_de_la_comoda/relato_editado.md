@@ -57,7 +57,7 @@ Con movimientos torpes, sin terminar de entender por qué los hacía, se quitó 
 
 El látex golpeó sus mejillas con un *slap* húmedo. Ricardo obedeció. Pero lo hizo como lo que seguía siendo: un hombre que tolera algo, no uno que lo desea. Había diferencia. Él todavía la notaba.
 
-El proceso de entrar en la faja fue violento. El látex se resistía a su cuerpo masculino, a su cadera más ancha, a su vello púbico. Isabel tiraba de los bordes con crueldad, sus uñas enterrándose en la piel.
+El proceso de entrar en la faja fue violento. El látex se resistía a su cuerpo masculino, a su cadera más ancha, a su vello púbico. Isabel tiraba de los bordes con crueldad, sus uñas enterrándose en la piel. Ricardo apretó los dientes y tragó saliva: en su lengua, de pronto, el sabor metálico del miedo —frío, mineral, inconfundible— que no había sentido desde la primera vez que habló ante un directorio, veinte años atrás y dos pisos más abajo en la escala humana de aquel entonces.
 
 —¡Me ahogo, Isa! —protestó cuando la faja finalmente subió sobre sus nalgas.
 
@@ -237,11 +237,21 @@ Ricardo quedó en la penumbra, el vestido de cóctel arrugado sobre sus piernas,
 
 # Capítulo 3: La Esclava del Nylon
 
+El primer "Rocío" que dejó pasar sin corregir fue el lunes a las diez de la mañana, cuarenta y ocho horas después del espejo.
+
+Isabel entró al baño donde él seguía de pie, la faja todavía puesta porque nadie le había dado instrucciones contrarias, y dijo "Rocío, el desayuno" sin mirarlo. Ricardo abrió la boca. La corrección estaba lista, articulada, disponible: *Me llamo Ricardo*. Tenía cuatro sílabas, exactamente las mismas que la noche del collar, las mismas que la noche del espejo. Pero en ese momento, con el vapor del baño envolviéndolo y el ajuste del látex recordándole en cada inhalación que su cuerpo ocupaba menos espacio del que había ocupado siempre, el gasto de energía que representaba decirlo le pareció desproporcionado. Era lunes. Tenía la mandíbula tensa. Había dormido tres horas.
+
+No era rendición. Era economía.
+
+Eso se dijo mientras bajaba las escaleras hacia el desayuno. *Es una economía de recursos. No tiene sentido gastar energía en esto ahora.* La racionalización fue tan rápida y tan pulida que casi se creyó. Casi.
+
+Porque lo que sí notó, con la misma precisión con que notaba una cláusula ineficiente en un contrato, fue que el "Rocío" había llegado a su oído y no había encontrado resistencia. Había encontrado algo más parecido a un pasillo. Una habitación sin muebles que el nombre podía atravesar sin toparse con nada. El nombre de Ricardo, en cambio, estaba empezando a parecerse a una habitación a la que ya no entraba con tanta frecuencia. Eso lo inquietó más que cualquier cosa que Isabel hubiera hecho con las manos.
+
 La semana siguiente en Vitacura quedó marcada por el régimen de "La Viuda Alegre". Isabel había decidido que la transición requería una inmersión total. El uniforme diario consistía en una faja liguera de seda negra con paneles de encaje francés, seis ligueros de metal siempre tensos, y medias de nylon de cristal con costura trasera. Sobre esto, un vestido de seda negra de corte "New Look", con una cintura tan apretada que sentarse era un ejercicio de micro-cálculo.
 
 Las sesiones con las cintas de Anaís se habían intensificado. Rocío —porque ya respondía al nombre sin corregirlo, aunque a veces todavía asomaba un "pero yo..." que Isabel sofocaba con una sola mirada— pasaba horas en el vestidor, con una venda de seda negra sobre los ojos, escuchando la voz de la abuela mezclada con ruidos de estática y latidos de corazón grabados.
 
-*"...uno... el nylon te envuelve... dos... es el límite de tu mundo... tres... no hay nada más allá de la seda... Rocío... Rocío... Rocío..."*
+*"...uno... el nombre que llevas es el que siempre fue tuyo... dos... lo que creías recordar de antes es préstamo... tres... el servicio es la única forma honesta de existir... cuatro... obedeces porque es lo que eres... Rocío... Rocío... Rocío..."*
 
 Lo que le costaba a Rocío no era el nombre en las cintas. Era que la voz de Anaís lo decía con una autoridad de ultratumba que hacía que el "Ricardo" de su mente se sintiera pequeño, prestado, como un traje que siempre le había quedado grande en los hombros aunque él no lo supiera. El "Rocío" de las cintas, en cambio, tenía exactamente el tamaño de lo que él era en ese vestidor, con esas medias, con ese ajuste implacable sobre sus costillas. Eso le daba un miedo específico: que el nombre correcto lo estuviera encontrando en la voz de una mujer muerta.
 
@@ -255,15 +265,19 @@ La noche del jueves, Isabel anunció la visita de Alberto.
 
 Y luego, debajo de ese pánico, como un segundo piso que no quería que existiera: una vibración. El circuito vergüenza/excitación que Isabel había identificado sin que él se lo dijera, activándose ante la sola idea de una mirada ajena. Rocío no dijo nada.
 
-Isabel lo llevó al salón principal. El vestido de luto, el velo de tul negro, los tacones Pleaser de quince centímetros que hacían de cada paso un desafío al equilibrio. En el sofá estaba Alberto: setenta años, traje impecable, scotch en mano, que no miró a Rocío a los ojos. Miró la tensión de su talle, el brillo aceitoso de las medias bajo la luz de cristal, la curva forzada de su espalda.
+Isabel lo llevó al salón principal. El vestido de luto, el velo de tul negro, los tacones Pleaser de quince centímetros que hacían de cada paso un desafío al equilibrio. En el sofá estaba Alberto: setenta años, traje impecable, scotch en mano, el peso de una existencia entera de buenos modales en la postura. No habló cuando entraron.
 
-—Es idéntica, Isabel —dijo Alberto, su voz cargada de una nostalgia que no pedía perdón—. Anaís estaría orgullosa. Recuerdo perfectamente la firmeza de la faja, el olor a laca... es un milagro haberlo recuperado.
+Posó el vaso despacio y estudió a Rocío de abajo hacia arriba, sin apuro y sin disculpa: las puntas de los zapatos de tacón de aguja primero, luego el dobladillo del vestido de luto donde los ligueros de metal marcaban su tensión sobre el nylon, la curva forzada de la cintura que la faja imponía, el corsé de encaje que asomaba en la escotadura, la arquitectura inmóvil del peinado. El recorrido duró lo que duran las cosas que no se hacen en secreto. Alberto no ocultó que miraba; tampoco pidió permiso para hacerlo. Isabel esperó de pie, sin intervenir.
+
+Rocío sintió ese escrutinio como algo que ya había ocurrido antes de que ocurriera: una presión distribuida sobre toda su superficie, un tacto sin manos que recorría el mismo camino que los ojos del viejo y le dejaba la piel caliente, consciente de sí misma con una precisión que ninguna de las manos de Isabel había logrado nunca en soledad. El circuito vergüenza/excitación encendió sin aviso, una vibración que subía desde las medias hasta la base del cuello. Apretó los guantes largos en torno a sus propias manos y no dijo nada.
+
+—Es idéntica, Isabel —dijo Alberto al fin, su voz cargada de una nostalgia que no pedía perdón—. Anaís estaría orgullosa. Recuerdo perfectamente la firmeza de la faja, el olor a laca... es un milagro haberlo recuperado.
 
 —Es mejor que Anaís, Alberto. Porque Rocío no tiene opinión propia. ¿Verdad, muñequita?
 
 Ser hablada de esa manera, en tercera persona, por dos personas que la veían como si fuera mueble, produjo en Rocío algo que no pudo ordenar: una humillación que era también la mayor excitación de su vida. El "Ricardo" en su cabeza gritó. El resto de su cuerpo no le hizo caso.
 
-Bajo la mirada clínica de Alberto, Isabel procedió. Subió el vestido de Rocío hasta la cintura, revelando la arquitectura interna de la faja Rago: los seis ligueros tensos como cuerdas de violín, el látex negro brillando. Tiró de una media y la soltó; el elástico golpeó su muslo con un *snap* que Rocío recibió con un pequeño gemido involuntario. Isabel la obligó a prestar servicio oral a Alberto, sujetándola del peinado para mantener la postura perfecta.
+Bajo la mirada clínica de Alberto, Isabel procedió. Subió el vestido de Rocío hasta la cintura, revelando la arquitectura interna de la faja Rago: los seis ligueros tensos como cuerdas de violín, el látex negro brillando. Tiró de una media y la soltó; el elástico golpeó su muslo con un *snap* que Rocío recibió con un pequeño gemido involuntario. Isabel la obligó a prestar servicio oral a Alberto, sujetándola del peinado para mantener la postura perfecta. El sabor llegó en capas: primero el scotch, amargo y ahumado, con ese residuo de turba que los viejos de dinero elegían para sentirse literarios; luego el maquillaje de la comisura de sus propios labios —el gloss negro azabache de Isabel, ceroso, con un regusto artificial que se mezclaba con el calor y el esfuerzo. Era el sabor de no tener opinión propia sobre lo que entraba en su boca.
 
 —Lo haces muy bien, Rocío. Atroz de obediente. Eres una maldita pieza de museo.
 
@@ -283,13 +297,15 @@ Rocío asintió. No dijo "Sí, Ama". No todavía. Pero tampoco dijo su nombre. E
 
 El penthouse de Vitacura resplandecía bajo la luz de las lámparas de cristal. Isabel había organizado una cena para un círculo cerrado: personas que entendían que el verdadero lujo no está en lo que se posee, sino en lo que se puede vaciar de voluntad.
 
-Para Rocío, la preparación fue un descenso meticuloso. Isabel la había mantenido en una faja de entrenamiento de cintura de acero y cinta de gross desde la primera luz del alba. Cincuenta y ocho centímetros. Una dimensión que hacía que los órganos internos protestaran en un coro sordo, pero que le daba a su figura una feminidad alienígena que Isabel admiraba en el espejo.
+Para Rocío, la preparación fue un descenso meticuloso. Para esta noche, Isabel había sustituido la Rago de látex color nude de las primeras semanas por un cincher de acero con cinta de gross —el peldaño siguiente, la etapa de reducción activa— desde la primera luz del alba. Cincuenta y ocho centímetros. Una dimensión que hacía que los órganos internos protestaran en un coro sordo, pero que le daba a su figura una feminidad alienígena que Isabel admiraba en el espejo.
 
 —Hoy vas a ser el centro de mesa, Rocío —le dijo Isabel—. No vas a hablar. No vas a mirar a nadie a la cara. Solo vas a servir. Eres un asset decorativo. Nada más.
 
 Rocío asintió. Y notó que había asentido antes de pensarlo.
 
 Los invitados llegaron a las nueve. El vestido verde esmeralda, tan estrecho que caminar era un ejercicio de micro-pasos. Los guantes largos de ópera. Los tacones que hacían de cada desplazamiento una demostración de sometimiento activo. Desde el suelo, repartiendo copas de Baccarat de rodillas, Rocío sentía las miradas caer sobre su figura con la familiaridad degradante de quien evalúa un objeto decorativo.
+
+*Doce personas*, contó Rocío, un gesto tan de Ricardo que casi la hizo tropezar. Él siempre había contado cabezas en las reuniones, calibrando el poder de la sala antes de abrir la boca. Ahora contaba porque era el único acto de autonomía que le quedaba: el recuento silencioso de los ojos que la evaluaban como si ella no pudiera hacer lo mismo. Como si contar fuera todavía un territorio suyo.
 
 —¿Es nueva, Isabel? —preguntó Felipe, empresario textil, con esa voz de aburrimiento aristocrático—. Tiene una silueta... atroz de 1964.
 
@@ -299,7 +315,21 @@ La cena fue una tortura de placer prolongado. Rocío sirvió los platos de Limog
 
 —Espectacular, Isabel. La firmeza es de otro mundo. Se siente como mármol suave.
 
-Lo que Rocío notó, arrodillada sobre la alfombra persa, no fue solo la humillación. Fue algo más preciso: que "Ricardo" ya no gritaba. Hacía tres semanas, el Ricardo de antes habría generado un monólogo furioso ante cada segundo de esa cena. Ahora había silencio. Un silencio que Rocío no supo si llamar derrota o paz.
+Rocío no reaccionó con el músculo. No hizo nada. Pero en algún lugar detrás de los ojos pintados, una parte que seguía teniendo los reflejos de Ricardo registró con frialdad profesional: *Zapato Crockett & Jones. Horma E. Plantilla de cuero cosida a mano. El tipo que puede permitirse ese zapato sabe exactamente lo que cuesta.* Y luego, como una segunda ola más lenta y más fría: *Y lo que soy yo ahora vale menos que ese zapato para él.* El pensamiento no llegó como insulto. Llegó como hecho contable. Eso era lo más extraño de todo: que ya no doliera como debería.
+
+Lo que Rocío notó, arrodillada sobre la alfombra persa, no fue solo la humillación. Fue algo más preciso: que "Ricardo" ya no gritaba. Hacía tres semanas, el Ricardo de antes habría generado un monólogo furioso ante cada segundo de esa cena: *Esto es una violación de mi autonomía. Mañana llamo al abogado. Este hombre conoce mi nombre real. Esto puede tener consecuencias legales.* El catálogo de agravios habría llenado una planilla de Excel.
+
+Ahora había silencio. No el silencio del inconsciente —Rocío seguía pensando, seguía contando, seguía registrando con la precisión obsesiva de siempre— sino el silencio de alguien que ha revisado su inventario y ha descubierto que la categoría "dignidad ofendida" está vacía. Que la ofensa llegaba, la reconocía, y simplemente pasaba. Como el precio del cobre. Como el martes. Un silencio que dolió de una manera específica antes de convertirse en algo que Rocío, sin permitirse nombrarlo todavía, sintió como descanso.
+
+Hubo un momento, entre el postre y el movimiento hacia la biblioteca, en que uno de los invitados —un hombre que lo había conocido antes del baúl, antes de Zapallar— usó el nombre equivocado. No con mala intención: una confusión, un hábito, el nombre que ese hombre tenía archivado. "Ricardo" llegó al oído de Rocío como un golpe de agua fría. Ella apretó los dientes. Intentó mentalmente recuperar algo concreto que le perteneciera: el nombre de su asistente.
+
+Ignacio.
+
+Ahí estaba. Pero llegó tarde, torpe, como una palabra en un idioma que se está olvidando.
+
+Intentó más, con la misma mecánica de inventario que lo había convertido en gerente general: el nombre del socio mayoritario del fondo. Alejandro Larraín. Llegó limpio, en dos segundos, con apellido y cargo completo. Bien. La contraseña de acceso al sistema central de la empresa —nueve caracteres, mayúscula, número, símbolo especial. Llegó en cuatro segundos, pero los últimos tres caracteres vacilaron. Distorsionados. El número de casilla postal del banco privado en Agustinas. Esperó. Esperó más. No llegó.
+
+La progresión era una estadística, y Rocío sabía leer estadísticas. Eso era lo que le dolió de una manera que no esperaba: no el olvido en sí, sino la certeza de que el olvido no le estaba costando nada.
 
 En la biblioteca, después del postre, Isabel sentenció que la "cata" debía completarse. Rocío fue rodeada, explorada, nombrada en tercera persona por gente que antes usaba su nombre de hombre. Isabel dirigía la escena como curadora, dando órdenes sobre dónde presionar, cómo humillar, qué preguntar. La humillación psicológica era tan densa que Rocío experimentó un orgasmo manos libres en medio de la biblioteca: una oleada prostática que la hizo gemir suavemente, ahogado por el velo que Isabel le había vuelto a colocar.
 
@@ -309,7 +339,7 @@ Los invitados aplaudieron suavemente.
 
 Cuando el último se fue y el silencio de Vitacura regresó, Isabel se acercó a Rocío, que seguía en el suelo de la biblioteca con la mirada perdida en las cenizas de la chimenea.
 
-—Mañana vamos a quemar tus trajes, Rocío. Y tus fotos de la oficina. Tu vieja vida ya no cabe en este talle.
+—Mañana vamos a quemar tus trajes, Rocío. Y tus fotos de la oficina. Tu vieja vida ya no cabe en este talle. —Hizo una pausa. Sus ojos midieron el cuerpo completo de Rocío con la evaluación de quien planifica el toque final de una obra—. Y la siguiente etapa es permanente. Hay cosas que no se quitan con un corchete, gordi.
 
 Rocío no lloró. Solo sintió algo que ya conocía pero que esta noche tenía una claridad nueva: la paz de quien ha dejado de pelear una batalla que sabía perdida antes de empezarla. No era rendición. Era, tal vez, la cosa más honesta que le había pasado en veinte años.
 
@@ -331,15 +361,11 @@ El encendedor de oro de Anaís. El olor de la lana virgen y la seda quemada inun
 
 —No llores, gordi. Las muñecas no necesitan diplomas.
 
-Marco convirtió el cabello de Rocío en una estructura arquitectónica: un *beehive* de los años 60, alto, rígido, fijado con laca industrial importada. El olor químico asfixió cualquier rastro de colonia de hombre.
+Marco tomó la peluca del baúl de Anaís —esa misma peluca oscura que Rocío había llevado por primera vez en el vestidor del Cap. 2— y la sometió a una transformación meticulosa: nuevo cardado desde la base, capas adicionales de laca industrial importada, una arquitectura más rígida y más alta que la original. Lo que salió de sus manos era la peluca de Anaís y no lo era: era algo nuevo construido sobre la herencia, más *beehive* que el *beehive* mismo, perfeccionado para una cabeza diferente, para un tiempo diferente. El olor químico asfixió cualquier rastro de colonia de hombre.
 
 —Esto es permanente, Rocío. Eres una reliquia ahora.
 
 Rocío se observó en el espejo: el rostro de porcelana empolvado, el beehive plateado por el exceso de fijador, la faja waspie reduciendo su cintura hasta el límite del colapso biológico. Era una imagen de perfección sintética que ya no le generaba extrañeza. Eso, en sí mismo, era la respuesta que había estado evitando durante semanas.
-
-Isabel sacó el kit de tatuaje profesional. En la parte superior del muslo interno, justo donde el encaje de la faja se encontraba con la piel blanca, tatuó con mano firme un pequeño emblema: una "A" estilizada con una corona de tres puntas. El sello de Anaís. El zumbido de la aguja fue la música de un herramento final. El dolor era agudo, rítmico, y Rocío lo recibió en silencio, sin protesta.
-
-—Ahora eres propiedad certificada. Atroz de linda.
 
 La sesión de esa tarde fue una maratón de depersonalización. Isabel obligó a Rocío a actuar como estrella de cine de los 60, a emitir gemidos exagerados, caricaturescos, fingiendo orgasmos ruidosos para el placer de su Ama. La usó con la correa de cuero de la abuela mientras la forzaba a mirarse en el espejo.
 
@@ -357,43 +383,68 @@ No como reflejo. No como reacción del cuerpo ante el clímax. Lo dijo quieta, e
 
 # Capítulo 6: El Regreso al Baúl
 
+La mañana del viaje amaneció con agujas.
+
+Isabel había dispuesto el vestidor con la precisión de un quirófano: la silla de terciopelo orientada hacia el espejo de tres cuerpos, el kit de tatuaje abierto sobre la mesita auxiliar con sus tinteros de pigmento negro carbón, la iluminación ajustada a la dureza fría de quien trabaja en piel, no en tela. Rocío se sentó sin que se lo ordenaran dos veces.
+
+—Muslo interno derecho —indicó Isabel, retirando el encaje de la faja con un gesto técnico, sin decoración—. Donde la faja descansa sobre la piel. Donde solo tú vas a poder verlo... salvo cuando yo quiera que alguien más lo vea.
+
+La aguja encendida emitió ese zumbido que Rocío ya conocía de oídas y ahora recibía en la piel: una vibración de insecto preciso, urgente, que no preguntaba. El primer trazo del sello de Anaís —la "A" estilizada con corona de tres puntas— fue un dolor rítmico que Rocío aprendió a respirar: inhalar antes del trazo, exhalar mientras la tinta entraba, sostener el silencio entre línea y línea como se sostiene una nota musical antes de que llegue la siguiente. No se movió. No protestó. Cuatro semanas atrás, habría necesitado que le ordenaran eso. Esta mañana no fue necesario.
+
+Cuando Isabel terminó, limpió la zona con alcohol y le indicó que mirara. Rocío encontró su propio reflejo en el espejo y bajó los ojos hacia el muslo: el emblema era pequeño, geométrico, permanente. La piel en torno a él estaba rosada, caliente, levemente inflamada. Y sin embargo lo que Rocío vio no fue una herida. Fue un sello. La diferencia era exactamente esa: una herida duele hacia adentro; un sello significa hacia afuera. Lo que significaba era simple: que pertenecía a algo más antiguo y más grande que los cuarenta y dos años que había vivido como Ricardo. Eso no le generó miedo. Le generó una calma que reconoció, ya sin sorpresa, como la más honesta que había sentido en décadas.
+
+—Atroz de linda, gordi —dijo Isabel, guardando el kit con la misma eficiencia con que lo había abierto—. Vístete para el viaje. Nos vamos.
+
 El regreso a Zapallar fue diferente. Isabel condujo los doscientos kilómetros en silencio, su mano posesiva sobre el muslo de Rocío, sintiendo la vibración del tatuaje fresco bajo las capas de nylon. El ronroneo del motor del Mercedes era el único sonido. Rocío miraba el paisaje costero con la mirada de quien ya no necesita catalogar lo que ve.
 
 Rocío llevaba un conjunto de viaje seleccionado por Isabel para esta liturgia final: un traje de chaqueta de pata de gallo con cuello de visón sintético, guantes de cabritilla blanca, y un sombrero de copa plana con un pequeño velo de red que ocultaba la fijeza vítrea de su mirada. Bajo la tela pesada del traje, la arquitectura de látex y satén trabajaba en una alianza implacable para mantenerla en un estado de trance físico. Una presión constante en el diafragma que le recordaba, en cada curva del camino costero, que su cuerpo era un molde sagrado.
 
 —Baja, muñequita. Estamos en casa. En el origen —ordenó Isabel al llegar a la mansión de piedra.
 
-Descendieron al sótano. El aire impregnado de nuevo por el olor a salitre, humedad y maderas dormidas. El baúl de Anaís esperaba con la tapa abierta. Isabel rebuscó en el fondo, tras un compartimento falso forrado de terciopelo rojo que olía a incienso y a secretos de familia, y sacó lo que Rocío había temido y deseado: un candado de combinación de los años 60, latón macizo con números grabados que brillaban bajo la bombilla amarillenta.
-
-—Anaís nunca dejó que el abuelo se quitara la faja de entrenamiento en sus últimos siete años de vida, Rocío. Ella decía que el metal es la única promesa que no se rompe con el tiempo. El cuero cede, la seda se rasga, pero el acero... el acero es eterno. Es la voluntad convertida en materia.
-
-Isabel hizo que Rocío se desnudara por última vez ante ella en ese búnker de concreto. Con la luz resaltando la perfección artificial del beehive y el maquillaje de porcelana, Isabel procedió al cierre permanente. Ajustó la faja hasta el último corchete. Pasó el arco del candado por un ojal de acero reforzado integrado directamente en la estructura de la faja. El "clic" metálico que siguió fue el sonido más tranquilo que Rocío había escuchado jamás. No era el sonido de una celda cerrándose. Era el sonido de una pregunta que deja de necesitar respuesta.
-
-—La combinación es la fecha en que la abuela grabó su primera cinta de inducción, gordi. Y no la voy a olvidar nunca. Mmm... jiji. Eres un secreto cerrado con llave.
+La mansión olía al mar y a piedra fría. El sótano podía esperar. Antes del cierre, Isabel había preparado una última escena al aire libre.
 
 Esa noche, bajo las estrellas de Zapallar y el estruendo del mar, Isabel organizó una pequeña reunión en la terraza. Los vecinos de las mansiones colindantes, ancianos de sangre azul y jóvenes herederos que vivían en un pasado perpetuo y refinado. Allí, Rocío fue presentada no como una persona, sino como "La Pieza de Colección de La Abuela".
 
-Rocío sirvió los martinis con la precisión de un autómata, el beehive inamovible ante la brisa marina, la mente sumergida en el loop infinito de la voz de Anaís que seguía sonando en un auricular oculto bajo la peluca. Estaba ahí, moviéndose con la elegancia de una muñeca de cuerda, pero su mirada estaba perdida en el horizonte. Una presencia estética pura, un susurro rítmico de nylon rascando contra nylon en la profunda oscuridad de la noche chilena.
+Rocío sirvió los martinis con la precisión de un autómata, el beehive inamovible ante la brisa marina. A través del auricular oculto bajo la peluca, algo sonaba —pero Rocío ya no lo traducía en palabras. Era ritmo. Era cadencia. Era la geometría de una voz que llevaba semanas construyendo su arquitectura interior y que ahora no necesitaba pronunciarse para operar: el pulso lento le bajaba por la nuca hasta los dedos, marcando cada paso, cada inclinación al servir, cada momento en que sus manos posaban las copas de cristal sobre la mesa con la suavidad de alguien que sabe que los objetos son más frágiles que las personas que los sirven. Estaba ahí, moviéndose con la elegancia de una muñeca de cuerda, pero su mirada estaba perdida en el horizonte. Una presencia estética pura, un susurro rítmico de nylon rascando contra nylon en la profunda oscuridad de la noche chilena.
 
 —Mira su talle, María Ignacia —comentó una de las invitadas—. Es atroz de estrecho. Una escultura viviente.
 
-—Es el legado de Anaís —respondió Isabel, observando a Rocío con el orgullo de un artista ante su obra maestra terminada—. Perfeccionado por mi mano.
+—Es el legado de Anaís —respondió Isabel, observando a Rocío con el orgullo de un artista ante su obra maestra—. Perfeccionado por mi mano.
 
-Cuando el último invitado se retiró y el frío de la medianoche se apoderó de Zapallar, Isabel llevó a Rocío de vuelta al sótano.
+Cuando el último invitado se retiró y el frío de la medianoche se apoderó de Zapallar, Isabel llevó a Rocío al sótano.
+
+El aire impregnado de nuevo por el olor a salitre, humedad y maderas dormidas. El baúl de Anaís esperaba con la tapa abierta. Isabel rebuscó en el fondo, tras un compartimento falso forrado de terciopelo rojo que olía a incienso y a secretos de familia, y sacó lo que Rocío había temido y deseado: un candado de combinación de los años 60, latón macizo con números grabados que brillaban bajo la bombilla amarillenta.
+
+—Anaís nunca dejó que el abuelo se quitara la faja de entrenamiento en sus últimos siete años de vida, Rocío. Ella decía que el metal es la única promesa que no se rompe con el tiempo. El cuero cede, la seda se rasga, pero el acero... el acero es eterno. Es la voluntad convertida en materia.
+
+Isabel hizo que Rocío se desnudara por última vez ante ella en ese búnker de concreto. Con la luz resaltando la perfección artificial del beehive y el maquillaje de porcelana, Isabel procedió al cierre permanente. Ajustó la faja hasta el último corchete. Pasó el arco del candado por un ojal de acero reforzado integrado directamente en la estructura de la faja.
+
+Antes de presionar el arco hacia abajo, Isabel se detuvo exactamente dos segundos. Sus dedos sobre el latón frío. No era duda —hacía semanas que no era duda— sino algo más extraño: la claridad de quien está a punto de completar algo que no va a poder repetir. El juego iba a terminar aquí. El estado de tránsito, esa tensión fértil de la transformación en curso, ya no iba a existir después de este sonido. Solo el resultado. Solo Rocío. Una parte de Isabel —la parte que Anaís había entrenado pero que seguía siendo enteramente suya— supo en esos dos segundos que iba a extrañar el camino más que la llegada. No era arrepentimiento. Era el vértigo específico del artista ante la última pincelada. Luego apretó.
+
+El "clic" metálico que siguió fue el sonido más tranquilo que Rocío había escuchado jamás. No era el sonido de una celda cerrándose. Era el sonido de una pregunta que deja de necesitar respuesta.
+
+—La combinación es la fecha en que la abuela grabó su primera cinta de inducción, gordi. Y no la voy a olvidar nunca. —Hizo una pausa muy breve, el pulgar todavía sobre el arco del latón—. Alberto también la sabe. Él estuvo en esa grabación. Acordaron la fecha juntos, para que hubiera dos custodios del secreto. —Su voz volvió al tono suave—. Mmm... jiji. Eres un secreto cerrado con llave.
 
 —Hoy duermes aquí. Anaís quiere estar cerca de ti, para siempre.
 
-Rocío se acurrucó en el arcón abierto, sobre el terciopelo rojo, entre los envoltorios de seda y las fotografías amarillentas de la Bomba Sexy. El candado descansaba frío y pesado contra su vientre comprimido. Cerró los ojos, inhalando el aroma profundo a naftalina y poder antiguo. El vacío que Ricardo había intentado llenar con dinero y estatus ya no existía: se había llenado con la sombra de Anaís y la voluntad brillante de Isabel.
+Isabel señaló el arcón. Rocío se acercó, y fue ella —no Isabel— quien acomodó el terciopelo rojo con ambas manos, alisando los pliegues con la misma precisión con que Ricardo alguna vez había ordenado documentos antes de firmarlos. Fue ella quien buscó, inclinando la cabeza, el punto exacto del paño donde el olor a naftalina era más denso. Fue ella quien posó su propia mano sobre el candado ya cerrado, sintiendo el latón frío y pesado contra la palma, y lo apretó —no para abrirlo, sino para reconocerlo como suyo. Luego se acurrucó en el arcón, sobre el terciopelo, entre los envoltorios de seda y las fotografías amarillentas de la Bomba Sexy. El candado descansaba contra su vientre comprimido. Cerró los ojos, inhalando el aroma profundo a naftalina y poder antiguo que se filtraba también en su lengua —polvo viejo, madera dormida, secreto guardado durante décadas, el sabor exacto de lo que se conserva cuando nadie lo está mirando. El vacío que Ricardo había intentado llenar con dinero y estatus ya no existía: se había llenado con la sombra de Anaís y la voluntad brillante de Isabel.
 
 No había regreso posible. No porque Isabel hubiera cerrado una cerradura, sino porque Rocío ya no sabía adónde habría vuelto. El Ricardo del directorio, el de los trajes de sastre y las decisiones en seco, pertenecía a un mundo que se había quemado en una chimenea de mármol en Vitacura. Lo que quedaba era esto: el látex, el satén, la marca bajo el liguero, y el eterno retorno de la voz de Anaís contando hacia abajo desde diez.
 
 ---
 
-**Conteo de palabras:** ~6,900 palabras
-**Correcciones del Crítico aplicadas:** 9 de 9
+**Conteo de palabras:** ~8,700
+**Correcciones del Crítico aplicadas (ronda 1):** 9 de 9
+**Correcciones del Crítico aplicadas (ronda 2):** 8 de 8
+**Correcciones del Crítico aplicadas (ronda 3):** 7 de 7
 **Correcciones del Centinela aplicadas:** N/A — sin reporte
 
-### Registro de cambios principales
+## 📝 Control de Edición
+- **Versión:** `EDIT-SEC-V3`
+- **Basado en Reporte:** `CRIT-SEC-R3`
+- **Estado:** ✅ Listo para Revisión
+
+### Registro de cambios — Ronda 1
 
 | Corrección del Crítico | Aplicada | Detalle |
 |------------------------|----------|---------|
@@ -406,3 +457,32 @@ No había regreso posible. No porque Isabel hubiera cerrado una cerradura, sino 
 | Primer "Ama" como reflejo, no como identidad | Sí | Cap. 2: sale durante el clímax, involuntario; Ricardo entra en crisis después |
 | Duda de Isabel en Cap. 2 | Sí | Momento de pausa real mientras maquilla: "¿voy demasiado lejos?" — decide que no, pero la pausa existe |
 | Distribución de curva en 3 capítulos | Sí | Cap. 1: resistencia/confusión. Cap. 2: traición del cuerpo. Cap. 3: resistencia menguante. Cap. 5: "Sí, Ama" espontáneo y elegido |
+
+### Registro de cambios — Ronda 2
+
+| Corrección del Crítico | Aplicada | Detalle |
+|------------------------|----------|---------|
+| Transición Cap. 2→Cap. 3 (brecha psicológica) | Sí | Secuencia del primer "Rocío" sin corregir: la racionalización como "economía", el pasillo en el oído |
+| Monólogo interno Cap. 4 — momento 1 | Sí | Rocío cuenta 12 invitados: gesto de Ricardo subsistiendo en el conteo de cabezas |
+| Monólogo interno Cap. 4 — momento 2 | Sí | Zapato Crockett & Jones: el hecho contable de lo que vale ahora, sin dolor esperado |
+| Monólogo interno Cap. 4 — extensión "Ricardo ya no grita" | Sí | Dos párrafos: el catálogo de agravios que ya no se genera, el silencio que duele antes de ser descanso |
+| Micro-resistencia Cap. 4 | Sí | El nombre equivocado de un invitado, el intento de recuperar "Ignacio" y la llegada tarde |
+| Continuidad peluca Cap. 5 | Sí | Marco trabaja sobre la peluca del baúl de Anaís (opción a): herencia transformada, no reemplazada |
+| Anticipación tatuaje en Cap. 4 | Sí | Isabel: "La siguiente etapa es permanente. Hay cosas que no se quitan con un corchete" |
+| Gusto ausente — Cap. 1 | Sí | Sabor metálico del miedo al entrar en la faja |
+| Gusto ausente — Cap. 3 | Sí | Scotch amargo y gloss negro al servir a Alberto |
+| Gusto ausente — Cap. 6 | Sí | Naftalina filtrándose en la lengua en el arcón final |
+| Isabel, interior antes del candado (Cap. 6) | Sí | Dos segundos de claridad: el vértigo del artista ante la última pincelada, extrañará el camino más que la llegada |
+| Rocío activa en su propio cierre (Cap. 6) | Sí | Es ella quien acomoda el terciopelo, busca el olor, posa la mano sobre el candado y lo reconoce como suyo |
+
+### Registro de cambios — Ronda 3
+
+| Corrección del Crítico | Aplicada | Detalle |
+|------------------------|----------|---------|
+| Cap. 5 — tatuaje separado del resto | Sí | Tatuaje removido de Cap. 5, abre Cap. 6 como escena propia: preparación, dolor rítmico, primer momento en espejo como sello no como herida |
+| Cap. 3 — near-touch antes de Alberto | Sí | Párrafo de escrutinio silencioso: Alberto recorre a Rocío de abajo arriba sin hablar, Isabel espera, Rocío siente la mirada como contacto físico antes de que ninguna mano se mueva |
+| Cap. 3 / Cap. 6 — cerrar a Alberto | Sí | En Cap. 6, al revelar la combinación del candado: Alberto estuvo en la grabación original, acordó la fecha con Anaís, guarda una copia — hilo del tejido, no personaje-instrumento |
+| Cap. 4 — expandir inventario fallido | Sí | Tras "Ignacio": socio mayoritario (2 segundos, perfecto), contraseña del sistema (4 segundos, distorsionada), casilla postal del banco (no llegó) — progresión estadística del olvido |
+| Cap. 6 — reestructurar el cierre | Sí | Nuevo orden: tatuaje → viaje → llegada → terraza → sótano → candado → arcón/FIN. El texto termina en silencio con el "clic" contra el vientre |
+| Faja — continuidad entre capítulos | Sí | Cap. 4: línea explícita que Isabel sustituyó la Rago de látex por un cincher de acero para la etapa de reducción activa |
+| Cintas de Anaís — variación y elipsis | Sí | Cap. 3: fragmento cambiado a temática del nombre/memoria/servicio. Cap. 6: la cinta no se transcribe — solo el efecto rítmico en el movimiento de Rocío, la voz ya interior |

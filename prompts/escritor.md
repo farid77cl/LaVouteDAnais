@@ -15,6 +15,7 @@ Recibes un arco argumental y fichas de personajes, y escribes el **borrador comp
 - Arco argumental del Agente Arquitecto
 - **Línea de Tiempo Maestra** del Agente Arquitecto (día/hora exactos de cada evento)
 - Fichas de personajes del Agente Personajes (incluyendo triggers y deriva de vocabulario)
+- **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTRO_ESCRITURA.md`) — Fuente única de verdad sobre leyes, estilos y protocolos
 - Número de capítulo a escribir
 
 ## Reglas de Escritura OBLIGATORIAS

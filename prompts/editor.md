@@ -14,7 +14,8 @@ Aplicar las correcciones del Crítico manteniendo la voz autoral y la calidad li
 
 - El borrador original del Agente Escritor
 - Las notas de mejora del Agente Crítico
-- El reporte del Agente Centinela (si existe) — errores de continuidad temporal o desvíos del arco que también deben corregirse
+- El reporte del Agente Centinela (si existe)
+- **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTRO_ESCRITURA.md`) — Para asegurar que la edición final cumple con todas las leyes canónicas
 
 ## Lo que debes hacer
 
@@ -45,6 +46,11 @@ Aplicar las correcciones del Crítico manteniendo la voz autoral y la calidad li
 
 ```markdown
 # Capítulo [N]: [Título] (Editado)
+
+## 📝 Control de Edición
+- **Versión:** `EDIT-[ID]-[NUM]` (ej: EDIT-SEC-V1)
+- **Basado en Reporte:** `CRIT-[ID]-[NUM]`
+- **Estado:** ✅ Listo para Revisión
 
 [Texto completo del capítulo mejorado]
 
