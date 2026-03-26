@@ -69,7 +69,7 @@ Eso lo aterró más que cualquier otra cosa que hubiera pasado en ese sótano.
 
 Se miró en un espejo roto apoyado contra la pared. Su cintura había desaparecido, reemplazada por una curva comprimida, artificial. Sus genitales, aplastados contra el panel frontal de la faja, palpitaban. El látex grisáceo brillaba bajo la bombilla desnuda.
 
-—Mírate... —Isabel rodeó su cuello con los brazos, sus manos bajando hacia el bulto aprisionado—. Tu verga está como loca, ¿verdad? Quiere salir, pero Anaís no la deja. El látex te tiene, Ricardo.
+—Mírate... —Isabel rodeó su cuello con los brazos, sus manos bajando hacia el bulto aprisionado—. Tu verga está como loca, ¿verdad? Quiere salir, pero Anaís no la deja. El látex te exita, Ricardo.
 
 Ella empezó a masajearlo a través del material rígido. La fricción del caucho era intensa, eléctrica. No era la suavidad de la mano de Isabel: era la frialdad impersonal de algo más grande, más antiguo.
 
@@ -77,7 +77,7 @@ Ella empezó a masajearlo a través del material rígido. La fricción del cauch
 
 —¿Por qué, gordi? Tu cuerpo no dice para.
 
-Tenía razón. Eso era lo que lo enfurecía: tenía razón.
+Tenía razón. Eso era lo que lo enfurecía: tenía razón. Ricardo sentía el calor de su propio cuerpo atrapado, incapaz de escapar del látex que ahora palpitaba al ritmo de su sangre. Cada movimiento de la mano de Isabel sobre el panel frontal era un roce de caucho contra piel, una fricción sorda y eléctrica que se clavaba en sus nervios con una intensidad que el tacto directo jamás habría logrado. La rigidez de las varillas de acero de la Rago le recordaba su nueva silueta, una arquitectura que no le permitía ni siquiera doblarse bajo la oleada de placer que lo invadía. El placer no era suave; era una presión hidráulica, una marea que subía por sus piernas, cargada del aroma a hule viejo y el perfume de Isabel, quebrando la última frontera de su hombría ejecutiva.
 
 —Di que eres la muñequita de Anaís —ordenó ella, aumentando el ritmo.
 
