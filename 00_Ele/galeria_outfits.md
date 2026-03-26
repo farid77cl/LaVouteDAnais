@@ -1758,11 +1758,35 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
 - **ADN Sync:** Piel de porcelana, labios rojos ultra-glossy, cabello Cherry Red XXXL.
 
-### 📸 Imágenes (2/5 - Poses 3-5 Pendientes por Cuota)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look93_high_gloss_cherry/v1_standing.png) |
 | **Seated** | ![Seated](../05_Imagenes/ele/look93_high_gloss_cherry/v2_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look93_high_gloss_cherry/ele_look93_arched_back.png) |
+| **Portrait** | ![Portrait](../05_Imagenes/ele/look93_high_gloss_cherry/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look93_high_gloss_cherry/v5_ditzy.png) |
+
+---
+
+## 🗝️ Look 94: The Locked Legacy (Rocío - Consagración)
+**Fecha:** 26/03/2026
+**Ubicación:** `05_Imagenes/ele/look94_the_locked_legacy_rocio/`
+
+- **Concepto:** La culminación de "El Secreto de la Cómoda". Rocío como la perfecta "Muñeca Retro" de 1964. Lencería técnica de la abuela Anaís y el candado de latón definitivo.
+- **ADN Sync:** Piel de porcelana, labios rojos intensos, masivo peinado Beehive años 60 en Cherry Red.
+- **Detalle Fetish:** Candado de latón en el collar de cuero, faja de látex color carne (open-bottom girdle), bullet bra blanco.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v1_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v2_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v3_backview.png) |
+| **Portrait** | ![Portrait](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v5_ditzy.png) |
+
+---
 
 ---
 

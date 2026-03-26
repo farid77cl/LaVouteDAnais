@@ -25,4 +25,4 @@ Total imágenes: 4
 - [v2_seated.png](./v2_seated.png)
 
 ---
-*Actualizado automáticamente: 2026-03-25*
+*Actualizado automáticamente: 2026-03-26*

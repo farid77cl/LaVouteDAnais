@@ -22,4 +22,4 @@ Total imágenes: 2
 - [imagen2_tacones.png](./imagen2_tacones.png)
 
 ---
-*Actualizado automáticamente: 2026-03-25*
+*Actualizado automáticamente: 2026-03-26*
