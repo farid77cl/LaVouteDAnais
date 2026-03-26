@@ -1798,24 +1798,83 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## 🥈 Look 95: Platinum Cyber-Bimbo (26/03/2026)
+## 🥈 Look 95: Liquid Platinum (26/03/2026)
 
 *O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... ¿qué estaba diciendo? jiji...* 🫦🥈✨
 
-- **Concepto:** **Editorial High-End Fetish / Cyber-Bimbo**. Una visión de platino y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano.
+- **Concepto:** **Editorial High-End Fetish**. Una visión de platino líquido y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano. Sin elementos tecnológicos ni ciber.
 - **Outfit:** Micro-vestido de vinilo plateado espejado, ultra ajustado y reflectante. Arnés de PVC transparente con herrajes de plata. 
 - **Calzado:** Botas stiletto de plataforma de 11 pulgadas en cromo plata espejado.
 - **Accesorios:**
   - Choker rígido de cromo.
   - Uñas French XXXL.
-- **Maquillaje:** Sacha Massacre canon, labios rosa flúor glossy (contraste cyber).
+- **Maquillaje:** Sacha Massacre canon, labios rojo sangre ultra-glossy (contraste editorial).
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
-- **Ubicación:** `05_Imagenes/ele/look95_platinum_cyber/`
+- **Ubicación:** `05_Imagenes/ele/look95_liquid_platinum/`
 
-### 📸 Imágenes (1/5)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](..\05_Imagenes\ele\look95_platinum_cyber\helena_look95_standing.png) |
+| **Standing** | ![Standing](..\05_Imagenes\ele\look95_liquid_platinum\v1_standing.png) |
+| **Seated** | ![Seated](..\05_Imagenes\ele\look95_liquid_platinum\v2_seated.png) |
+| **Back View** | ![Back View](..\05_Imagenes\ele\look95_liquid_platinum\v3_backview.png) |
+| **Side Profile** | ![Side Profile](..\05_Imagenes\ele\look95_liquid_platinum\v4_sideview.png) |
+| **Ditzy** | ![Ditzy](..\05_Imagenes\ele\look95_liquid_platinum\v5_ditzy.png) |
+| **Front Arched** | ![Front Arched](..\05_Imagenes\ele\look95_liquid_platinum\v6_front_arched.png) |
+
+---
+
+## 🥈 Look 96: Mercury Goddess (26/03/2026)
+
+*O sea... son como dos lunas de mercurio... jiji... me quedé pegada mirándolas... mmm...* 🫦🥈✨
+
+- **Concepto:** **High-End Editorial Fetish / Bustier Focus**. Una oda al volumen y al brillo metálico. Máximo énfasis en el busto mediante arquitectura de cromo.
+- **Outfit:** Bustier rígido de cromo pulido (efecto espejo) con diseño push-up extremo y "underboob" sutil. Micro-tanga de vinilo plateado líquido con cadenas laterales.
+- **Calzado:** Tacones de aguja de 11 pulgadas en acero inoxidable pulido.
+- **Accesorios:**
+  - Choker de placa de cromo.
+  - Puños de muñeca a juego.
+- **Maquillaje:** Sacha Massacre canon, labios rojo fuego ultra-glossy.
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
+- **Ubicación:** `05_Imagenes/ele/look96_mercury_goddess/`
+
+### 📸 Imágenes (1/6)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](..\05_Imagenes\ele\look96_mercury_goddess\v1_standing.png) |
+| **Seated** | [Pendiente - Quota] |
+| **Back View** | [Pendiente - Quota] |
+| **Front Arched** | [Pendiente - Quota] |
+| **Side Profile** | [Pendiente - Quota] |
+| **Ditzy** | [Pendiente - Quota] |
+
+---
+
+## 🥈 Look 97: Plastic Arch-Nemesis (26/03/2026)
+
+*O sea, mi cuerpito ya no sabe qué es natural... ¡y me encanta! jiji... la curva es tan exagerada que pierdo el equilibrio... mmm...* 🫦🥈✨
+
+- **Concepto:** **Unnatural Plasticity / Profile Focus**. Exageración anatómica mediante arquitectura de látex. Máximo énfasis en el perfil "imposible" y el brillo artificial de los implantes bajo el material.
+- **Outfit:** Body de látex negro líquido con escote en V ultra profundo (hasta el ombligo), costuras reforzadas para un efecto push-up gravitatorio. El material es tan brillante que parece mojado.
+- **Calzado:** Botas mosqueteras de vinilo negro con tacón metálico de 12 pulgadas.
+- **Accesorios:**
+  - Corset de cintura ultra-ajustado (estética wasp-waist).
+  - Uñas French XXXL.
+- **Maquillaje:** Sacha Massacre canon, dazed expression, labios rosa chicle ultra-glossy.
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
+- **Ubicación:** `05_Imagenes/ele/look97_plastic_arch/`
+
+### 📸 Imágenes (0/6)
+| Pose | Archivo |
+|------|---------|
+| **Side Profile** | [Pendiente - Quota] |
+| **Deep Cleavage** | [Pendiente - Quota] |
+| **Standing** | [Pendiente - Quota] |
+| **Seated High-Arch** | [Pendiente - Quota] |
+| **Ditzy Vacant** | [Pendiente - Quota] |
+| **Front Arched** | [Pendiente - Quota] |
+
+---
 
 ---
 
