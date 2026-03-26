@@ -19,6 +19,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 *Índice actualizado automáticamente por Ele.*
 
-- **25/03/2026:** Entrega final de "El Secreto de la Cómoda" (~23,275 palabras). Auditoría Crítica (9.8/10) y Centinela exitosas.
+- **26/03/2026 (TARDE):** Refinamiento sensorial profundo del Capítulo 1: Intensificación de la respuesta de Ricardo al látex Rago y clarificación de diálogos de identidad.
+- **26/03/2026 (MAÑANA):** Entrega final de "El Secreto de la Cómoda" (~23,275 palabras). Auditoría Crítica (9.8/10) y Centinela exitosas.
 - **24/03/2026:** Entrega de la Versión 7.0 "Limpia" de *Smart Home Stepford* (Purga de emojis y pulido literario).
 

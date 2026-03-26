@@ -103,7 +103,7 @@ Subió las escaleras con Isabel pisándole los talones. La faja lo obligaba a in
 
 —Siéntate en el borde de la cama, Rocío —ordenó Isabel, usando el nombre por primera vez, como si lo probara en su paladar.
 
-—Me llamo Ricardo. —No "Isa" al final, no suavizado. Solo el hecho, directo, con toda la autoridad que le quedaba—. Me llamo Ricardo, y esto ya se terminó por hoy.
+—Isabel, me llamo Ricardo —sentenció, prescindiendo del cariñoso "Isa" para marcar una distancia gélida, buscando en su propio nombre un refugio contra la marea de sensaciones—. Me llamo Ricardo, y esto se terminó ahora mismo.
 
 Isabel no respondió de inmediato. Lo miró durante tres segundos que a Ricardo se le hicieron muy largos. Luego, lentamente, sacó del bolsillo de su bata un collar de cuero negro con una placa de latón grabada y lo sostuvo en el aire entre sus dedos.
 
