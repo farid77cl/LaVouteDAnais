@@ -103,6 +103,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look94 The Locked Legacy Rocio**](./look94_the_locked_legacy_rocio/README.md)
 - ✅ [**Look95 Liquid Platinum**](./look95_liquid_platinum/README.md)
 - ✅ [**Recompensas**](./recompensas/README.md)
+- ✅ [**Referencias Tecnicas**](./referencias_tecnicas/README.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/README.md)
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
