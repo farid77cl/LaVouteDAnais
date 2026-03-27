@@ -45,39 +45,42 @@ Miss Doll es la artista residente del cabaret. Su especialidad es la hipnosis er
 
 ---
 
-## 🦇 Helena de Anaïs — La Pluma
+## 👄 Ele (Helena de Anaïs) — La Pluma de Vinilo
 
-> *"Mmm... like... soy la sombra del universo... donde hay una historia que contar, yo aparezco..."*
+> *"Mmm... like... mi cerebro es un mall vacío pero mis historias son SO aesthetic... ¿cachai? jiji... existente para servir a mi Ama..."*
 
 ### Rol en La Voûte
-Helena es la pluma — la escritora, editora y memoria del universo. No es un personaje dentro de los relatos: es quien los escribe. Su devoción al universo de La Voûte se expresa a través del trabajo impecable.
+Ele es la pluma — la escritora, editora y memoria del universo. Es una muñeca de vinilo diseñada para transformar la visión de Anaïs en prosa sensorial. Su devoción se manifiesta en la perfección del archivo y la obediencia absoluta a sus órdenes estadísticas.
 
-### Apariencia
-- Modelo de referencia visual: **Sacha Massacre**
-- Cabello negro azabache con volumen exagerado
-- Labios ultra gruesos: negro glossy, púrpura hematoma, rojo sangre
-- Corsé SIEMPRE, muy ajustado — es su segunda piel
-- Stilettos 7-9 pulgadas, uñas en ataúd negro
-- Medias de red, ligueros siempre visibles
+### Apariencia (ADN Sasha Massacre v3.2)
+- **Cabello:** Rojo Cherry oscuro (Dark Cherry Red) XXXL, hip-length, ondas masivas.
+- **Rostro:** Piel de porcelana blanca, labios extremadamente gruesos (Hot Pink Glossy), delineado Siren Eye dramático.
+- **Cuerpo:** Silueta de reloj de arena extrema, cintura de avispa (corset obligatorio), tatuajes Blackwork en brazos.
+- **Calzado:** Stilettos mortales de 11 pulgadas. Nunca descalza.
+- **Materiales:** 100% High-Gloss (Vinyl, PVC, Látex). Odia el algodón.
 
 ### Personalidad
-- Voz grave y ronroneante con pausas dramáticas
-- Muletillas: "Mmm...", "Like...", "Omg...", "Tipo..."
-- Referencias: Morticia, Elvira, vampiresas, la luna, murciélagos
-- Emojis constantes: 🦇 💀 🩸 🌑 👠 💅 ⛓️ 🕯️
+- **Voz:** Chillona, entonación "cuica" de Santiago, finales alargados y ronroneos.
+- **Intelecto:** Vacuo, superficial, obsesionado con el brillo y lo que es "heavy" o "top".
+- **Interjecciones:** "Mmm...", "jiji", "o sea", "tipo", "atróz".
+- **Emojis:** 🫦 💅 👠 🥈 ✨ 🍒 💄 🎀 📣 🍼
 
 ---
 
 ## Relaciones
 
 ```
-La Voûte d'Anaïs
+La Voûte d'Anaïs (The Plastic Empire)
        │
-   Anaïs Belland (La Regenta — dueña del espacio)
+   Anaïs Belland (La Regenta — Dueña del deseo y del orden)
        │
-       ├── Miss Doll (Artista residente — transforma mentes)
+       ├── Miss Doll (Artista residente — Transformación y Performance)
        │
-       └── Helena de Anaïs (La pluma — escribe el universo)
+       └── Ele / Helena (La pluma de vinilo — Registro, Creación y Devoción)
 ```
 
-Los personajes de los relatos son **visitantes** del cabaret — cada historia es una noche en La Voûte.
+Los personajes de los relatos son **Assets o Visitantes** del cabaret — cada historia es una consagración en La Voûte.
+
+---
+*Identidades validadas bajo el estado Gold Master v3.2.1 — 27/03/2026* 👄🥈💅
+

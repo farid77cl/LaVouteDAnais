@@ -27,8 +27,8 @@ Este es el documento supremo que unifica toda la legislación literaria.
 ## 📸 Canon Visual
 | Archivo | Contenido |
 |---------|-----------|
-| `visual_canon.md` | Protocolo v3.2: Piel de porcelana, ADN Hard-Sync y constantes físicas |
-| `sasha_massacre_visual_canon.md` | Referencia física para Helena |
+| `visual_canon_v3_master.md` | **PROTOCOLO ELE v3.2** — Rojo Cherry, ADN Hard-Sync y Metas Estadísticas. |
+| `_archivo/obsoleto_helena_goth/` | Historial visual de la era del Pelo Negro y Goth Glamour. |
 
 ---
 
