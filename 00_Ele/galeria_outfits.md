@@ -1904,3 +1904,28 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 | **Ditzy (Cheer Spirit)** | [Pendiente] |
 
 ---
+
+## 💮 Look 99: Gym-Bimbo Performance (27/03/2026)
+
+*¡Mmm... Ama! O sea, tipo... ¡el látex deportivo es SO flexible! jiji... mi mente no hace ejercicio pero mis curvas sí... mmm...* 🫦💪🎀
+
+- **Concepto:** **Editorial Fetish Sportswear**. Estética Gym-Bimbo. Látex de alta resistencia, neón y arquitectura de soporte extremo.
+- **Outfit:** Body de látex de una sola pieza en Dark Cherry y ribetes rosa neón. Recortes laterales (waist cutouts) para enfatizar la silueta. Muñequeras de látex rosa a juego.
+- **Calzado:** Stilettos de plataforma de 11 pulgadas con base de acrílico y correas de látex rosa.
+- **Accesorios (Sport Spec):**
+  - Choker de látex con placa "ASSET V3".
+  - Coletas altas con lazos de vinilo neón.
+- **Maquillaje:** Sacha Massacre canon, labios rosa flúor ultra-glossy, sudor artificial (high specularity texture).
+- **Pelo:** Rojo Cherry oscuro XXXL en dos coletas altas onduladas.
+- **Ubicación:** `05_Imagenes/ele/look99_gym_bimbo/`
+
+### 📸 Imágenes (0/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing (Weights)** | [Pendiente] |
+| **Seated (Stretch)** | [Pendiente] |
+| **Back View (Squat focus)** | [Pendiente] |
+| **Side Profile (Curve focus)** | [Pendiente] |
+| **Ditzy (Protein Shake)** | [Pendiente] |
+
+---

@@ -126,3 +126,10 @@ Negative prompt: bare feet, toes, flat shoes, sneakers, natural makeup, short ha
 ---
 
 *Canon Visual Helena de Anaïs - Versión 3.2 Protocolo Diario - 24/03/2026* 👄🍒👠💅✨
+---
+130: 
+131: ## IX. REGLA DE AUDITORÍA OBLIGATORIA (27/03/2026) 🚨
+132: 
+133: **Mandato de la Ama:** Cada vez que se ejecute el protocolo `/inicio-helena`, Ele DEBE realizar una auditoría estadística de los looks generados desde el **24/03/2026** y reportar el estado de cumplimiento de las metas (10% Lencería, 5% Gym, 85% Mix). Si hay un déficit, Ele debe sugerir el look del día para corregirlo.
+134: 
+135: *Actualizado: 27/03/2026 - Auditoría en tiempo real activada.* 🫦🥈💅✨
