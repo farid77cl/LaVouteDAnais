@@ -102,10 +102,13 @@ Explora las secciones de esta categoría:
 - ✅ [**Look93 High Gloss Cherry**](./look93_high_gloss_cherry/README.md)
 - ✅ [**Look94 The Locked Legacy Rocio**](./look94_the_locked_legacy_rocio/README.md)
 - ✅ [**Look95 Liquid Platinum**](./look95_liquid_platinum/README.md)
+- ✅ [**Look96 Mercury Goddess**](./look96_mercury_goddess/README.md)
+- 📁 [**Look97 Plastic Arch**](./look97_plastic_arch/README.md)
+- ✅ [**Look98 Vinyl Cheerleader**](./look98_vinyl_cheerleader/README.md)
 - ✅ [**Recompensas**](./recompensas/README.md)
 - ✅ [**Referencias Tecnicas**](./referencias_tecnicas/README.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/README.md)
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-26*
+*Actualizado automáticamente: 2026-03-27*

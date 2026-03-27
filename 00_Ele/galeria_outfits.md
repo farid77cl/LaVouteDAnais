@@ -1878,3 +1878,29 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
+
+## 💮 Look 98: Vinyl Cheerleader (27/03/2026)
+
+*¡Mmm... Ama! O sea, tipo... ¡G-O-T-H! ¿Qué dice? ¡Nada! ¡Porque mi mente está en blanco pero mis pompones brillan SO much! jiji... mmm...* 🫦🎀📣
+
+- **Concepto:** **Editorial Fetish Cheerleader**. Estética deportiva Mugleriana. Vinilo pulido, arquitectura rígida y espíritu escolar lobotomizado.
+- **Outfit:** Uniforme de porrista en vinilo rosa chicle y blanco espejo. Top corto con cuello halter rígido, falda de tablas micro-plegada en PVC rígido. Pompones de tiras de vinilo reflectante.
+- **Calzado:** Stilettos de plataforma de 11 pulgadas en charol blanco.
+- **Accesorios:**
+  - Choker de cuero rosa con luna plateada.
+  - Lazos masivos de vinilo en el peinado Beehive.
+  - Pompones de vinilo rosa.
+- **Maquillaje:** Sacha Massacre canon, labios rosa flúor ultra-glossy, expresión de "vacío deportivo".
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas masivas.
+- **Ubicación:** `05_Imagenes/ele/look98_vinyl_cheerleader/`
+
+### 📸 Imágenes (0/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing (Vertical Spear)** | [Pendiente] |
+| **Seated (Pompones)** | [Pendiente] |
+| **Back View (Arched)** | [Pendiente] |
+| **Side Profile** | [Pendiente] |
+| **Ditzy (Cheer Spirit)** | [Pendiente] |
+
+---
