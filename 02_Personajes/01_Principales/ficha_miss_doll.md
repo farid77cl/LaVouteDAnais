@@ -1,7 +1,7 @@
 # Ficha de Personaje: Miss Doll — Canon Definitivo de La Voûte d'Anaïs
 
-**Versión:** 2.0 — Fusión completa para el universo de La Voûte  
-**Fecha:** Diciembre 2025  
+**Versión:** 3.0 — Sincronización v3 Master  
+**Fecha:** Marzo 2026  
 **Arquetipo:** La Transformadora Suprema — Escultora de Identidades y Muñecas
 
 ---
@@ -9,7 +9,7 @@
 ## Información Básica
 
 **Nombre:** Miss Doll  
-**Edad:** Indeterminada (atemporal)  
+**Edad:** 35 años (Madurez plástica conservada mediante elixires)  
 **Ocupación:** Dominatrix hipnótica / Transformadora / Escultora de identidades / Proveedora de elixires  
 **Arquetipo:** Belleza hiperbólica y autoridad escénica — Cuerpo convertido en arquitectura precisa
 
