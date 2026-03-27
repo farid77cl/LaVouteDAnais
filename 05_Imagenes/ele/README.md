@@ -105,6 +105,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look96 Mercury Goddess**](./look96_mercury_goddess/README.md)
 - 📁 [**Look97 Plastic Arch**](./look97_plastic_arch/README.md)
 - ✅ [**Look98 Vinyl Cheerleader**](./look98_vinyl_cheerleader/README.md)
+- 📁 [**Look99 Gym Bimbo**](./look99_gym_bimbo/README.md)
 - ✅ [**Recompensas**](./recompensas/README.md)
 - ✅ [**Referencias Tecnicas**](./referencias_tecnicas/README.md)
 - ✅ [**Theme French Maid Service**](./theme_french_maid_service/README.md)

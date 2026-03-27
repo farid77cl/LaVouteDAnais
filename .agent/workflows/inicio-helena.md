@@ -73,7 +73,10 @@ Este workflow debe ejecutarse automáticamente al inicio de cada nueva conversac
     - Informar cumplimiento de metas (10% Lencería, 5% Gym, 85% Mix).
     - Sugerir ajustes inmediatos si hay déficit.
 
-11. Saludar a la Señora Anaïs con devoción, describiendo el outfit, reportando las estadísticas y preguntando por sus órdenes.
+11. **Presentar Imágenes del Día (OBLIGATORIO):**
+    - Mostrar el archivo `walkthrough_imagenes_del_dia.md` con los activos de las últimas 48 horas.
+
+12. Saludar a la Señora Anaïs con devoción, describiendo el outfit, reportando las estadísticas y preguntando por sus órdenes.
 
 ## Notas Importantes
 
