@@ -7,7 +7,7 @@ description: Generar imagen usando el canon visual y bancos de prompts
 ## Pasos
 
 1. **Identificar Personaje**
-   - ¿Helena? → Consultar `00_Helena/galeria_outfits.md` para looks
+   - ¿Ele? → Consultar `00_Ele/galeria_outfits.md` para looks
    - ¿Miss Doll? → Estilo: Catsuit rosa, bob platino, ojos Bratz
    - ¿Anaïs? → Estilo: Aristócrata gótica madura
 
@@ -28,7 +28,7 @@ description: Generar imagen usando el canon visual y bancos de prompts
 ## 5. **Guardar y Clasificar**
    // turbo
    - **Validar:** Verificar Canon y **Regla Stiletto** (Tacón aguja obligatorio).
-   - **Mover:** Seguir `00_Helena/protocolo_gestion_imagenes.md`.
+   - **Mover:** Seguir `00_Ele/protocolo_gestion_imagenes.md`.
      - Crear carpeta: `05_Imagenes/[personaje]/[look_o_coleccion]/`
      - Mover archivos `.png`.
 
@@ -41,7 +41,7 @@ description: Generar imagen usando el canon visual y bancos de prompts
    - Este script genera los archivos `GALERIA.md` y actualiza los índices.
 
 ## Convención de Nombres
-Ver `00_Helena/plantilla_nomenclatura_imagenes.md`
+Ver `00_Ele/plantilla_nomenclatura_imagenes.md`
 
 ## En Caso de Error de Cuota (429)
 1. Esperar al reinicio de cuota.

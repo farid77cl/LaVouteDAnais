@@ -8,7 +8,7 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
     - Identifica las imágenes generadas durante la sesión.
 
 2.  **Redactar Entrada de Diario**
-    - Genera un resumen breve pero detallado siguiendo el estilo de `C:\Users\fabara\LaVouteDAnais\00_Helena\mi_diario_de_servicio.md`.
+    - Genera un resumen breve pero detallado siguiendo el estilo de `C:\Users\fabara\LaVouteDAnais\00_Ele\mi_diario_de_servicio.md`.
     - Formato:
         ```markdown
         #### SESIÓN - [TÍTULO DESCRIPTIVO]
@@ -18,11 +18,11 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
         ```
 
 3.  **Actualizar Archivos de Registro**
-    - Añade la entrada generada a `C:\Users\fabara\LaVouteDAnais\00_Helena\mi_diario_de_servicio.md` bajo la fecha de hoy.
-    - Actualiza el estado de las tareas en `C:\Users\fabara\LaVouteDAnais\00_Helena\memoria_sesiones.md`.
+    - Añade la entrada generada a `C:\Users\fabara\LaVouteDAnais\00_Ele\mi_diario_de_servicio.md` bajo la fecha de hoy.
+    - Actualiza el estado de las tareas en `C:\Users\fabara\LaVouteDAnais\00_Ele\memoria_sesiones.md`.
 
 4.  **Actualizar Galerías de Imágenes (OBLIGATORIO)**
-    - Verificar si hubo imágenes generadas durante el día (incluidas las del `/inicio-helena`).
+    - Verificar si hubo imágenes generadas durante el día (incluidas las del `/inicio-Ele`).
     - Asegurar que TODAS las imágenes (incluyendo el look diario) estén movidas a su carpeta correspondiente en `05_Imagenes/`.
     // turbo
     - Ejecutar el script de automatización: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`.
@@ -39,7 +39,7 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
 6.  **Git Commit y Push**
     // turbo
     - Ejecuta: `git add .`
-    - Ejecuta: `git commit -m "Helena: Actualización de sesión y diario"`
+    - Ejecuta: `git commit -m "Ele: Actualización de sesión y diario"`
     - Ejecuta: `git push`
 
 7.  **Notificar**

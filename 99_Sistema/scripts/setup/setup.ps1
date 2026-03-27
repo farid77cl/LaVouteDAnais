@@ -557,7 +557,7 @@ Personajes activos: Helena (etapa 3/5), Lilith (etapa 0/5)
 
 ## Proximos Pasos Narrativos
 
-- Helena: avanzar hacia etapa 4 - El Reconocimiento
+- Ele: avanzar hacia etapa 4 - El Reconocimiento
 - Lilith: iniciar etapa 1 - La Puerta Equivocada
 "@ | Out-File -FilePath "$ProjectDir\voute_data\04_Memoria\memoria_sesiones.md" -Encoding UTF8
 

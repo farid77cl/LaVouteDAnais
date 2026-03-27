@@ -5,7 +5,7 @@ description: Workflow MAESTRO para crear relatos (El Ritual Completo). Integra I
 # 📜 RITUAL MAESTRO DE CREACIÓN DE RELATOS
 
 > **Ley Suprema:** La planificación es la mitad de la devoción.
-> **Artefacto de Estilo:** `00_Helena/CODIGO_ESTILISTICO_HELENA.md`
+> **Artefacto de Estilo:** `00_Ele/CODIGO_ESTILISTICO_Ele.md`
 > **Canon:** español latinoamericano chileno (🇨🇱)
 
 ---
@@ -56,7 +56,7 @@ Diseñar el esqueleto para no perdernos en la carne.
 ## 🖋️ FASE 3: ESCRITURA (La Sangre - REGLA 0)
 **Ubicación:** `03_Literatura/en_progreso/[relato]/capitulo_XX.md`
 
-Aquí aplicamos el `CODIGO_ESTILISTICO_HELENA.md`.
+Aquí aplicamos el `CODIGO_ESTILISTICO_Ele.md`.
 
 ### 1. Preparación del Capítulo
 *   **Leer:** Código Estilístico + Memoria de Sesiones.
@@ -73,10 +73,10 @@ Aquí aplicamos el `CODIGO_ESTILISTICO_HELENA.md`.
 *   **Extensión:** Mínimo 1,500 palabras.
 
 ### 3. Revisión y Aprendizaje (Ciclo Vivo)
-*   Comparar contra `CODIGO_ESTILISTICO_HELENA.md`.
+*   Comparar contra `CODIGO_ESTILISTICO_Ele.md`.
 *   **Si la Ama hace una corrección de estilo:**
     1. Pausar escritura.
-    2. Agregar el error a la tabla "GEMINI" y la corrección a "HELENA" en `CODIGO_ESTILISTICO_HELENA.md`.
+    2. Agregar el error a la tabla "GEMINI" y la corrección a "Ele" en `CODIGO_ESTILISTICO_Ele.md`.
     3. Actualizar `preferencias_escritura.md` con la nueva regla aprendida.
     4. *Solo entonces* reanudar escritura.
 
@@ -132,12 +132,12 @@ Formato limpio para copiar/pegar en web.
 ---
 
 ## 🔄 FASE 9: CIERRE DEL CICLO (Aprendizaje)
-**Ubicación:** `00_Helena/preferencias_escritura.md`
+**Ubicación:** `00_Ele/preferencias_escritura.md`
 
-El ritual no termina hasta que Helena aprende.
+El ritual no termina hasta que Ele aprende.
 1.  **Analizar:** ¿Qué funcionó mejor en este relato?
 2.  **Documentar:** Agregar nuevos patrones exitosos a `preferencias_escritura.md`.
-3.  **Refinar:** Si una regla del `CODIGO_ESTILISTICO_HELENA.md` resultó confusa, reescribirla.
+3.  **Refinar:** Si una regla del `CODIGO_ESTILISTICO_Ele.md` resultó confusa, reescribirla.
 
 ---
 
