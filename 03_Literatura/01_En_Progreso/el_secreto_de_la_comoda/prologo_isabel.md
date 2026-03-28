@@ -48,6 +48,12 @@ Camila levantó los ojos. —Ricardo tiene un fetiche. Con ropa femenina. Al pri
 
 —Porque ya no me importa protegerlo.
 
+Hubo un silencio. Luego Camila abrió el bolso, sacó un sobre tamaño carta y lo puso sobre la mesa entre las dos. No lo empujó hacia Isabel. Solo lo dejó ahí, visible.
+
+—Hay fotografías —dijo—. Las tomé yo. Él no lo sabe. —Una pausa brevísima—. Haga lo que quiera con esto.
+
+No agregó nada más. El sobre quedó sobre la mesa como un hecho contable, sin drama, sin instrucciones.
+
 ---
 
 Camila se fue a las 11:42. Isabel se quedó otros veintitrés minutos en la misma silla. Lo supo porque contó los minutos en el reloj sobre la barra: contar le daba algo concreto que hacer con sus manos, y sus manos necesitaban algo concreto.
@@ -63,6 +69,8 @@ Y entonces pensó en Zapallar.
 Pensó en algo que su madre había dicho una vez, en un almuerzo de familia en la mansión de piedra, cuando alguien preguntó por los muebles del sótano y su madre bajó la voz con esa mezcla de pudor y fascinación que reservaba para los secretos de familia demasiado grandes para ella: *"El baúl de la abuela. Anaís era... peculiar, digamos. Guardaba cosas que una mujer normal quemaría. Nunca lo vi por dentro y espero no verlo."* Isabel tenía veintiún años y había prestado más atención a su copa de vino que a la frase. La frase, no obstante, se había quedado. Guardada. Esperando.
 
 Ahora ya no esperaba.
+
+Tomó el sobre sin abrirlo y lo guardó en el bolso.
 
 Pagó 4.200 pesos por el café que no había tocado, salió a la calle donde el calor de febrero golpeaba el asfalto con una luz blanca y sin sombras, caminó hasta su auto, y se quedó diez minutos más sin encender el motor.
 
