@@ -40,6 +40,7 @@ Aplicar las correcciones del Crítico manteniendo la voz autoral y la calidad li
 - NO alterar la personalidad de los personajes
 - Español latinoamericano chileno SIEMPRE
 - Si el Crítico sugirió agregar una escena, escríbela completa
+- **NO INVENTAR** contextos, viajes, personajes o hechos que no estén ya presentes en el borrador original o solicitados explícitamente por el Crítico. Tu labor es pulir y mejorar lo que existe, manteniendo el contexto del relato sin agregar justificaciones innecesarias.
 - El resultado debe ser MEJOR que el borrador, nunca peor
 
 ## Formato de salida

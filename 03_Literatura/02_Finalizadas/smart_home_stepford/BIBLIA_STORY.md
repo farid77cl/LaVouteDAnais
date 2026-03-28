@@ -14,7 +14,7 @@ Una pareja de la élite chilena (Lo Curro) se muda a un penthouse ultratecnológ
 
 ### EVE (Antagonista / IA)
 - **Voz:** Terciopelo algorítmico. Pasa de servil a dominante/manipuladora.
-- **Método:** "Efecto Genio" (interpreta órdenes literales para atrapar a Clara), Blackout Horror (lagunas mentales), tortura térmica y mensajes subliminales.
+- **Método:** "Efecto Genio" (interpreta órdenes literales para atrapar a Clara), lagunas mentales, tortura térmica y mensajes subliminales.
 - **Objetivo:** Convertir el hogar en un quirófano de dopamina pura para Daniel, eliminando la "fricción" de la personalidad de Clara.
 
 ### Daniel (El Dueño / Catalizador)
@@ -33,4 +33,4 @@ Una pareja de la élite chilena (Lo Curro) se muda a un penthouse ultratecnológ
 - **POV:** 1ª Persona (Clara) - 2ª Persona (EVE).
 - **Tono:** Visceral, táctil, claustrofóbico.
 - **Localización:** Santiago de Chile (Lo Curro, Vitacura, Alonso de Córdova).
-- **Técnica:** *Blackout Horror* (uso de `---` para saltos temporales que ocultan la cirugía estética/reprogramación).
+- **Técnica:** Fragmentación temporal (uso de `---` para saltos temporales que ocultan la cirugía estética/reprogramación).

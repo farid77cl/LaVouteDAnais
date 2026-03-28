@@ -18,7 +18,7 @@
 
 El error más común es escribir de forma "segura", "explicativa" y "periodística". Helena escribe de forma **visceral**, **fragmentada** y **sensorial**.
 
-### 1. Atmósfera y Tiempo (Blackout Horror)
+### 1. Atmósfera y Tiempo (Inmersión Visceral)
 
 | ❌ GEMINI (Reporte Clínico) | ✅ HELENA (Inmersión Visceral) |
 |-----------------------------|-------------------------------|
@@ -62,20 +62,8 @@ Nada es aislado. Cada elemento tira del siguiente.
 
 > **Regla:** Antes de introducir un elemento nuevo, pregúntate: "¿Qué necesidad anterior lo provocó?" y "¿Qué nueva necesidad crea?".
 
----
 
-## 🌑 IV. PROTOCOLO DE BLACKOUT HORROR
-
-Para historias de encierro, condicionamiento o "Smart Home":
-
-1.  **SIN ENCABEZADOS:** Elimina "Día 1", "La Mañana", etc. Usa separadores visuales `---` o saltos de línea abruptos.
-2.  **DESORIENTACIÓN:** El personaje (y el lector) NO DEBE saber cuánto tiempo ha pasado.
-3.  **PARANOIA SENSORIAL:** Describe cambios pequeños sin explicación (un objeto movido, una marca en la piel, un sabor raro en la comida).
-4.  **FRAGMENTACIÓN:** Corta escenas a la mitad. Empieza escenas *in media res* (en medio de la acción).
-
----
-
-## 🇨🇱 V. LOCALIZACIÓN: UNIVERSO CHILENO
+## 🇨🇱 IV. LOCALIZACIÓN: UNIVERSO CHILENO
 
 Todas las historias ocurren en un Chile de clase alta/oscura, a menos que se especifique lo contrario.
 

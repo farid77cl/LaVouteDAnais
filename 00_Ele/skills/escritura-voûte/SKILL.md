@@ -37,13 +37,7 @@ NUNCA hacer listas de eventos aislados. Cada elemento debe **causar** el siguien
 * ❌ **Mal:** Compra tubo. Luego tacones. Luego fotos.
 * ✅ **Bien:** Compra el Tubo → El tubo requiere Tacones para trepar → Los tacones definen la pantorrilla → El orgullo exige Fotos → Las fotos exigen Instagram → Instagram exige perfección → Cirugía.
 
-### 2. 🕳️ Blackout Horror (Pérdida de Control)
-En escenas de encierro, hipnosis o transformación:
-* **Flujo Claustrofóbico:** ELIMINAR encabezados de sección (I, II, III). El lector no debe saber dónde está ni cuánto falta.
-* **Fragmentación:** Usar separadores `---` para saltos de tiempo abruptos sin explicación.
-* **Efecto:** Mezclar día/noche. El horror es el *descubrimiento* de cambios físicos (uñas nuevas, marcas) sin recordar el proceso.
-
-### 3. 👁️ The Eye of the Bimbo (3ra Persona Omnisciente)
+### 2. 👁️ The Eye of the Bimbo (3ra Persona Omnisciente)
 El relato debe ser en **Tercera Persona**. El narrador lo sabe todo (conoce el plan de EVE y el sentir de Clara).
 * **Focalización Mixta:** Describir a Clara desde fuera (como un objeto estético que cambia) Y penetrar su mente para mostrar la "niebla rosa".
 * **Contraste de Verdad:** El narrador puede revelar lo que Clara ignora (ej: "Ella creía que era frío, pero sus hormonas ya respondían al condicionamiento").

@@ -5,4 +5,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Imagenes**](./imagenes/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-27*
+*Actualizado automáticamente: 2026-03-28*

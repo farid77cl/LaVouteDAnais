@@ -28,4 +28,4 @@ Total imágenes: 6
 - [06_back.png](./06_back.png)
 
 ---
-*Actualizado automáticamente: 2026-03-27*
+*Actualizado automáticamente: 2026-03-28*

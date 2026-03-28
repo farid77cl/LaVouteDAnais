@@ -141,15 +141,19 @@ Eso fue lo que lo mantuvo despierto hasta el alba: no lo que había pasado, sino
 
 # Capítulo 2: El Carnestolendas de Vitacura
 
-Habían pasado siete días desde el sótano de Zapallar. Siete días en los que Ricardo no se había quitado la faja de látex ni un solo minuto —Isabel no lo había permitido— y las marcas rojas de los corchetes eran ya parte de su geografía corporal. Pero lo que más le costaba admitir no eran las marcas. Era que por las mañanas, cuando Isabel tardaba en entrar al cuarto, Ricardo notaba que esperaba escuchar sus pasos.
+Habían pasado siete días desde el sótano de Zapallar. Siete días de un asfixiante *Tease and Denial* que Ricardo no habría creído posible fuera de un informe de riesgos de una empresa al borde de la quiebra. Isabel no solo no le había permitido quitarse la Rago de látex ni un solo minuto; la había sellado con un pequeño candado de latón, una pieza de relojerí­a suiza que la abuela Anaí­s habí­a mandado a incrustar en el corchete de seguridad, oculto tras el encaje del borde superior. 
 
-Eso no se lo dijo a nadie. Ni a sí mismo, del todo.
+Ricardo llevaba una semana con la pelvis en llamas, el bulto aprisionado contra el panel de caucho rígido, pulsando con una sangre que no hallaba alivio. Isabel se habí­a encargado de que la calentura no bajara de los cien grados: cada mañana, antes de que él saliera a su oficina (siempre con la faja bajo el sastre Brioni, un secreto que le quemaba las costillas en cada reunión de directorio), ella le pasaba un cubo de hielo por el cuello o le rozaba la verga a través del material helado con el filo de sus uñas rojas, solo para darle la espalda y dejarlo solo con el sonido de sus pasos de tacón alejándose. Las marcas rojas de los corchetes eran ya parte de su geografía corporal, una cartografí­a de su rendición, pero lo que realmente le costaba admitir no era el dolor físico. Era que por las mañanas, mientras el látex sudado se pegaba a su piel como una segunda capa de identidad, Ricardo notaba que esperaba escuchar el tintineo de la llave.
+
+Eso no se lo dijo a nadie. Ni a sí mismo, del todo. 
+
+El miedo a que el directorio de Translogí­stica y los accionistas descubrieran su situación era real, pero el pánico que Isabel le había inyectado el tercer día de encierro era mucho más paralizante. *"Si rompes ese candado, Ricardo, o si se te ocurre cruzar esa puerta sin mi permiso, las fotos van a estar en el chat de tus socios antes de que llegues al ascensor"*, le había susurrado ella con una frigidez que le heló la sangre. Isabel no bromeaba. Tení­a pruebas: aquellas fotos que ella le habí­a sacado en el sótano de Zapallar mientras él luchaba con los corchetes de la Rago, su primer momento de debilidad documentado con la frialdad de una tasadora. La amenaza de que Sanhattan supiera que su "Alfa" más agresivo estaba siendo domado por el látex de una muerta era el hilo de acero que mantení­a el candado cerrado mucho más que la propia llave suiza. Ricardo no era solo un prisionero del caucho; era un prisionero de su propia máscara ejecutiva, y ella tení­a el dedo sobre el botón de autodestrucción.
 
 El penthouse de Vitacura era un mundo aparte del sótano húmedo, pero el aire del vestidor principal se sentía igual de cargado. Isabel había pasado la mañana transformando el espacio en un altar del fetiche retro: luces de tocador de alta intensidad, espejos de tres cuerpos y una hilera de cosméticos que Ricardo nunca la había visto usar.
 
 —Siéntate aquí, muñequita —ordenó ella, señalando el taburete de terciopelo rosa frente al espejo principal.
 
-—Isa. —Ricardo no se movió—. Necesito que hablemos de esto. Llevamos una semana y yo tengo una reunión el miércoles, y...
+—Isa. —Ricardo no se movió—. Necesito que hablemos de esto. Llevamos una semana y yo tengo una reunión de directorio el miércoles, y...
 
 —Siéntate —repitió ella, sin alzar la voz.
 
@@ -175,7 +179,9 @@ Sacó la peluca: un *beehive* cardado hasta el extremo, castaño oscuro, con un 
 
 —Abre los ojos.
 
-Ricardo miró el espejo y no reconoció a nadie. Bajo el delineado extremo y la estructura arquitectónica del peinado, había una extraña. No era él. No era Rocío todavía, tampoco; era algo a medio camino, un estado de tránsito que lo incomodaba precisamente porque no era completamente ajeno. El peinado alargaba su cuello, obligándolo a una postura involuntaria, casi elegante.
+Ricardo miró el espejo y no reconoció a nadie. Bajo la densidad de la base —una capa de porcelana química que le habí­a borrado los poros y el pasado— no habí­a un hombre de negocios, sino una pieza de exhibición. Sentí­a el peso de las pestañas postizas como dos cortinas de plomo que le limitaban la visión, obligándolo a mantener los ojos muy abiertos, en una expresión de asombro lobotomizado que no era suya. El delineado extremo le tiraba de las sienes, un estiramiento sutil pero constante que lo conectaba con la arquitectura rígida del peinado *beehive*, el cual se asentaba sobre su cráneo como una corona de laca sólida, obligándolo a una postura involuntaria, casi elegante. 
+
+El aire que respiraba era puro veneno floral: el aroma cáustico de la laca Elnett y los polvos de talco de Anaí­s, una mezcla que se le pegaba a la garganta con la persistencia de un recuerdo que no es suyo. Al intentar hablar, el sabor ceroso y artificialmente dulce del gloss negro azabache en sus labios le recordó que su boca ya no estaba hecha para dictar contratos en una reunión de directorio, sino para ser el marco mudo de un vacío cada vez más brillante. Bajo el maquillaje, Ricardo era una extraña a medio camino; un estado de tránsito que lo incomodaba precisamente porque empezaba a sentirse como un hogar.
 
 —Mmm... jiji... —dijo Isabel en voz muy baja—. Atroz de regia.
 
@@ -183,27 +189,67 @@ Ricardo sostuvo la mirada con su propio reflejo un momento demasiado largo. Lueg
 
 —Vístete —ordenó ella—. Quiero verte completa.
 
-El vestido de cóctel negro, la seda ajustada, las medias con costura cubana que brillaban bajo las luces. Los tacones de doce centímetros. Ricardo se puso todo en silencio, con movimientos lentos que iban aprendiendo su propia torpeza. Cada prenda era un argumento que su cuerpo dejaba de presentar.
+Isabel dejó las prendas sobre la cama, una hilera de fetiches textiles que Ricardo —ahora cautivo bajo el peso asfixiante de la laca— observó con una mezcla de horror y fascinación. Era la primera vez que se vestirí­a con ropa de mujer sobre la faja en siete dí­as.
+
+Primero llegaron las medias. Un nylon de cristal de 1964, fino como un suspiro y frí­o como la seda estancada. Ricardo las deslizó por sus piernas con una torpeza que lo hací­a tropezar con su propio bulto aprisionado bajo el látex. El siseo del material contra su piel fue un sonido agudo, un susurro de sumisión, mientras las estiraba hasta el muslo para que Isabel enganchara los seis ligueros de metal. El *clic-cliqueo* de los broches sobre el caucho de la Rago fue un metrónomo de su nueva realidad; sentí­a la tensión de los elásticos tirando de su talle, deformando su postura y obligando a sus piernas a una rigidez que no permití­a un solo movimiento descuidado. 
+
+Luego, los zapatos: stilettos de aguja con punta afilada y charol negro "espejo". Al meter el pie, Ricardo sintió la compresión brutal de los dedos, una agresión estética que le obligó a arquear el empeine hasta el lí­mite del dolor físico. Al ponerse de pie, el universo se reordenó: el centro de gravedad se desplazó hacia adelante, sus nalgas se tensaron por la inclinación vertical y el sonido del tacón castañeteando rítmicamente contra el mármol del vestidor fue el anuncio definitivo de que su zancada de gerente habí­a muerto.
+
+Después de las medias, Isabel sacó el *bullet bra* de satén blanco que Ricardo había visto en el sótano. Las copas cosidas en círculos concéntricos terminaban en dos puntas agresivas que apuntaban al techo con la insolencia de un arma cargada. Isabel se lo abrochó por la espalda y Ricardo sintió el tirón de los breteles sobre sus hombros, un peso nuevo que le bajaba la clavícula y le empujaba el pecho hacia adelante, creando una silueta que no le pertenecía. El satén frío se pegó a su piel como una segunda piel, suave por fuera, implacable por dentro: las copas rígidas le rozaban los pezones con cada respiración, un cosquilleo eléctrico que le recordaba que esas puntas de misil estaban ahí para ser vistas, no para ser cómodas.
+
+—La abuela decía que el *bullet bra* era la artillería pesada, gordi —murmuró Isabel, ajustando los breteles con un tirón—. Que ningún hombre podía mirar a una mujer con esto puesto sin saber quién mandaba.
+
+Sobre el bra vino la enagua de tul blanco, una cascada de capas que le acarició los muslos con un susurro de crinolina. El roce del tul contra el nylon de las medias producía una electricidad estática que le erizaba el vello de las piernas, mientras el peso de la tela le daba a cada movimiento una inercia femenina que no había ensayado. Ricardo se sentía enterrado bajo capas de feminidad ajena: el látex de la Rago en la base, el satén del bra en el pecho, el tul de la enagua rodeándolo, y sobre todo eso, la ausencia total de cualquier prenda que le recordara quién había sido antes de ese sótano.
+
+Finalmente, el vestido. Una seda negra de corte "New Look", pesada y opaca, que Isabel deslizó por sus hombros. Al subir la cremallera trasera con un tirón seco, el material se ajustó sobre la cintura de la faja con un gemido de la tela al tensarse. La seda, fría y resbaladiza por dentro, se sentía como una piel extraña que no respiraba y que le impedía cualquier expansión de las costillas. Cada prenda era un argumento que su cuerpo dejaba de presentar.
 
 Cuando se miró en el espejo de tres cuerpos, no habló.
 
-—Ahora vamos a ver si la correa de la abuela todavía funciona en Santiago —susurró Isabel, apareciendo detrás de él en el reflejo. El cuero negro ajustado sobre su cintura. El instrumento que Ricardo había visto en el sótano, que había reconocido con un terror específico y específicamente íntimo.
+—Camina —ordenó Isabel, señalando el pasillo del penthouse con un gesto de la barbilla.
+
+Ricardo dio un paso. El tacón castañeó contra el mármol. Sus caderas se movieron con un bamboleo involuntario que la faja y los stilettos imponían: no podía caminar recto, la inclinación del tacón lo obligaba a un vaivén de caderas que era la parodia exacta de un movedizo femenino. La enagua le susurraba contra los muslos con cada paso. Los ligueros tintineaban.
+
+—Más lento —ordenó Isabel, caminando detrás de él, evaluándolo—. Quiero ver cómo te mueves. Quiero que sientas cada paso.
+
+Ricardo recorrió el pasillo del penthouse bajo la mirada de Isabel. Pasó frente al ventanal que daba a la Costanera Center iluminada: su reflejo le devolvió la imagen de una señora de los sesenta, con el beehive perfecto, la cintura imposible y las puntas del bullet bra marcándose bajo la seda negra. Sintió una vergüenza que le quemó las mejillas bajo la base de maquillaje, pero debajo de esa vergüenza, el bulto aprisionado en la faja pulsaba con una calentura que llevaba siete días sin alivio.
+
+—Date vuelta. Otra vez. —Isabel lo hizo desfilar tres veces por el pasillo, comentando su postura, su equilibrio, la forma en que la seda se tensaba en su trasero—. Atroz de regia, gordi. Anaís estaría orgullosa de esta silueta.
+
+La humillación era un fuego lento que le quemaba desde adentro. Cada comentario de Isabel era un dedo que presionaba exactamente donde Ricardo menos quería ser tocado: en su orgullo. Pero el orgullo, descubrió, era un músculo que se cansaba de estar tenso, y después de siete días de Tease and Denial, de calentura sin escape, de dormir con el candado de latón presionando su vientre, la resistencia era un lujo que su cuerpo ya no podía mantener.
+
+—Ahora vamos a ver si la correa de la abuela todavía funciona en Santiago —susurró Isabel.
+
+Pero no se la puso de inmediato. Isabel se sentó en la butaca de terciopelo frente al espejo y, mientras Ricardo la observaba de pie, temblando sobre los stilettos, ella comenzó a desvestirse con una lentitud que era una tortura deliberada. Se quitó la bata de seda y quedó en ropa interior negra, su cuerpo de once años de pilates y genética privilegiada brillando bajo las luces del tocador. Luego tomó la correa de cuero de Anaís y se la ajustó a la cintura con la misma naturalidad con que se pone un cinturón para salir a cenar. Los herrajes de bronce tintinearon. El instrumento de madera tallada y recubierta de caucho rojo quedó en posición, apuntando hacia arriba con la misma insolencia de las puntas del bullet bra.
+
+Ricardo la vio en el espejo e Isabel lo vio mirándola. No había nada accidental en la escena: ella lo dejó observar, le permitió ver cada hebilla, cada ajuste, cada movimiento de sus manos expertas sobre el cuero. Era un ritual de investidura: Isabel se estaba convirtiendo en algo más que su esposa, y quería que él lo presenciara.
+
+—¿Te gusta lo que ves, Rocío? —preguntó ella, acariciando el instrumento con dos dedos—. Tu Ama se está preparando para ti.
 
 —Isa. —La voz le salió distinta: sin el filo ejecutivo, sin el tono declarativo de once años. Era la voz de un hombre que está en un territorio donde sus herramientas no sirven—. No sé si puedo...
 
 —Yo sé que puedes —dijo ella, sin crueldad—. Y sé que quieres saber si puedes.
 
-Lo obligó a arrodillarse frente al espejo. Ricardo sintió el crujido de la seda del vestido al tensarse sobre sus muslos. Isabel se posicionó detrás de él.
+Lo obligó a arrodillarse frente al espejo. Ricardo sintió el crujido de la seda del vestido al tensarse sobre sus muslos, el tul de la enagua aplastándose bajo sus rodillas. Isabel no se posicionó detrás de él de inmediato. Primero le subió el vestido y la enagua hasta la cintura, exponiendo la arquitectura completa de la Rago: los ligueros tensos, el látex nude brillando, el candado de latón pequeño y cerrado como un punto final. Luego le pasó una mano por la espalda, desde la nuca hasta la base de la columna, un recorrido lento que le arrancó un escalofrío que le dobló los hombros.
 
-La penetración fue una reorganización del universo conocido. El impacto inicial fue una bofetada sensorial que Ricardo no pudo convertir en rechazo porque su cuerpo no le dio tiempo. El dolor físico duró segundos y luego algo se abría, se redistribuía, se volvía otra cosa: una presión que subía por su columna y se expandía hacia un lugar que no tenía nombre en el vocabulario de su vida anterior. Veía su propio rostro en el espejo —los ojos maquillados, la boca entreabierta, la peluca inamovible— y no sabía quién miraba. Sus caderas empezaron a moverse solas.
+—Respira, gordi —le susurró al oído—. Respira y mírate en el espejo. Quiero que veas quién eres cuando te abras para mí.
 
-Eso fue la traición definitiva: sus propias caderas, moviéndose solas, traicionando veinte años de identidad construida con esfuerzo y corbatas de seda italiana.
+La espera fue insoportable. Ricardo veía su propio reflejo: los ojos maquillados con el cut crease dramático, la boca entreabierta con el gloss negro, el beehive inamovible, y debajo de la cintura la exposición obscena de la faja, las medias y los ligueros. Isabel se tomó su tiempo. Le acarició los muslos por encima del nylon, le pasó la punta del instrumento por la curva inferior de la nalga sin presionar, dejándole sentir solo el peso y la temperatura del caucho rojo. Ricardo apretó los puños sobre la alfombra.
+
+Cuando finalmente entró, el dolor fue un relámpago blanco que le subió por la columna y le arrancó un sonido que no reconoció como propio. Ricardo apretó los dientes y cerró los ojos, pero Isabel le sujetó la barbilla.
+
+—No. Los ojos abiertos. Mírate.
+
+Ricardo obedeció. Y mientras el dolor iba cediendo, segundo a segundo, algo más empezaba a ocupar el espacio que esa primera bofetada había abierto. Una presión interna, sorda, que no tenía nombre en el vocabulario de su vida anterior. No era placer todavía; era la antesala del placer, el momento en que el cuerpo decide dejar de pelear contra la sensación y empieza a escucharla. La presión subía por su columna, se expandía por su pelvis, llegaba a esa zona que nunca había sentido desde adentro y que ahora pulsaba con una electricidad nueva y aterradora.
+
+Isabel se movió lentamente, con la paciencia de quien sabe que lo que está construyendo necesita tiempo. Y Ricardo, sin decidirlo, sin autorizarlo, empezó a sentir que su cuerpo buscaba el ritmo de ella. Sus caderas se movieron solas: un ajuste mínimo, un centímetro hacia atrás, buscando más de esa presión que ahora ya no era dolor sino algo que no tenía categoría en ningún informe de gestión.
+
+Eso fue la traición definitiva: sus propias caderas, moviéndose solas, buscando la presión, traicionando veinte años de identidad construida con esfuerzo y corbatas de seda italiana. Veía su rostro maquillado en el espejo, la boca abierta, los ojos vidriosos bajo las pestañas postizas, y no sabía quién miraba. Lo que sí sabía era que cada embestida de Isabel le arrancaba un centímetro más de Ricardo y lo reemplazaba con algo caliente, líquido y sin nombre.
 
 —¡Dime quién eres! —Isabel apretó su cintura de látex, su voz ya sin la calma de antes—. ¡Dilo!
 
-Ricardo apretó los dientes. No. No iba a decirlo.
+Ricardo apretó los dientes. No. No iba a decirlo. Pero su cuerpo ya no le preguntaba permiso: la presión prostática estaba construyendo algo inevitable en la base de su pelvis, una ola que subía sin que ninguna mano la tocara, sin el circuito habitual de la fricción, solo la presión interna y el peso de la mirada de Isabel en el espejo.
 
-El orgasmo llegó desde un ángulo que no había conocido nunca, una presión interna que se expandía en ondas hacia adentro y hacia afuera al mismo tiempo. No era el orgasmo de veinte años de vida sexual adulta. Era más. Era otra cosa. Era lo que le había dado miedo que fuera.
+El orgasmo llegó desde adentro. No desde la verga aprisionada bajo el látex —que seguía pulsando sin contacto, abandonada— sino desde ese punto interior que Ricardo no había sabido que existía hasta que Isabel lo encontró. Fue una expansión lenta al principio, como el centro de un terremoto, y luego una oleada que le recorrió la columna entera, le aflojó la mandíbula, le dobló los hombros y le arrancó un gemido largo y roto que rebotó en las paredes del vestidor y volvió a él como la voz de alguien que ya no conocía. Su verga eyaculó sola contra el panel de la faja, sin una sola caricia, solo por la presión de Isabel adentro y la imagen de su propio rostro maquillado en el espejo. El placer fue tan distinto a todo lo que había sentido en veinte años de vida sexual que entenderlo habría requerido un vocabulario que Ricardo ya estaba perdiendo.
 
 —¡Ama! —La palabra salió sola, sin ser decidida, sin ser autorizada. Un reflejo muscular, no una elección—. ¡Ama, por favor...!
 
@@ -213,7 +259,7 @@ El silencio fue peor que el grito. Ricardo escuchó lo que acababa de decir rebo
 
 Isabel lo dejó colapsado contra la base del espejo, su reflejo mostrándole una imagen que lo fascinaba y lo aterraba en proporciones iguales. Ella se apartó, reordenando su ropa con una calma que a Ricardo le pareció insultante dado lo que acababa de pasar.
 
-—Buen chico —dijo ella en voz baja, casi con suavidad.
+—Buena chica —dijo ella en voz baja, casi con suavidad.
 
 —Yo no... —Ricardo intentó levantarse. Sus rodillas en el nylon fino, sobre la alfombra—. Eso no fue...
 
@@ -237,7 +283,21 @@ Ricardo quedó en la penumbra, el vestido de cóctel arrugado sobre sus piernas,
 
 # Capítulo 3: La Esclava del Nylon
 
-El primer "Rocío" que dejó pasar sin corregir fue el lunes a las diez de la mañana, cuarenta y ocho horas después del espejo.
+Las cuarenta y ocho horas que separaron el espejo del lunes fueron una demolición controlada.
+
+El domingo amaneció con Ricardo todavía en el vestidor, el vestido de seda arrugado sobre las piernas y la voz de Anaís girando en el carrete abierto. No había dormido. Cuando Isabel apareció a las ocho de la mañana con un café negro y una sonrisa de anfitriona perfecta, Ricardo descubrió que ella ya había preparado la siguiente fase: sobre la cama del dormitorio principal había un segundo vestido —esta vez un *day dress* de algodón con estampado de flores pequeñas, corte imperio, manga tres cuartos— y un par de flats de charol rojo con hebilla dorada. Ropa de estar en casa. Ropa de señora que no espera visitas pero tampoco se descuida.
+
+Isabel no le preguntó si quería cambiarse. Le indicó que se lavara la cara, que se quitara el maquillaje corrido de la noche anterior, y luego le aplicó uno nuevo: más suave, más "de día". Una base ligera, un toque de rubor en las mejillas, los labios en un rosa pálido que le daba un aire de femineidad doméstica que era peor que el delineado extremo del sábado. El beehive se mantuvo, fijado con más laca Elnett. El candado de la faja seguía cerrado.
+
+El domingo fue un día de domesticación silenciosa. Isabel lo hizo limpiar el vestidor mientras ella leía en el living. Ricardo pasó tres horas ordenando cosméticos, doblando medias, clasificando los vestidos de la cómoda de Zapallar que Isabel había traído a Santiago en una maleta de cuero. Cada prenda que tocaba era una lección de textura: el crepé de un traje de chaqueta, el satén helado de un camisón con encaje de Calais, el peso muerto de un abrigo de lana con forro de seda. Las manos de Ricardo —que durante once años solo habían tocado contratos, volantes de auto y la espalda de Isabel en actos sociales— estaban aprendiendo un vocabulario nuevo de telas y cierres.
+
+Por la tarde, Isabel lo sentó en el taburete del vestidor y le puso la segunda cinta de Anaís. Esta vez, la voz hablaba de servicio: de la belleza que hay en atender a otro sin pensar en uno mismo, de cómo el ego es un peso innecesario que las mujeres inteligentes aprenden a soltar. Ricardo escuchó con los ojos vendados, la faja apretando, los ligueros tirando, y notó que su cuerpo ya no peleaba contra las restricciones. No porque las aceptara; porque el cansancio de pelear era más grande que la incomodidad de rendirse.
+
+Isabel lo penetró de nuevo esa noche. Esta vez sin el ritual largo del sábado, con una eficiencia que a Ricardo le pareció casi más brutal que la lentitud anterior. Le levantó el vestido de flores, le bajó la faja solo lo necesario, y lo tomó contra el borde de la cama mientras él veía su propio reflejo en el espejo del tocador: una señora de los sesenta con un vestido de casa arrugado, la boca abierta, los ojos cerrados. El orgasmo prostático llegó más rápido que la primera vez y Ricardo se odió por eso con una intensidad que le sabía a bilis.
+
+Para el lunes por la mañana, Ricardo llevaba nueve días sin quitarse la faja, dos orgasmos prostáticos que no había pedido, cuatro cintas de Anaís girando en su memoria, y un vocabulario interno que empezaba a reorganizarse sin su permiso.
+
+El primer "Rocío" que dejó pasar sin corregir fue a las diez de la mañana.
 
 Isabel entró al baño donde él seguía de pie, la faja todavía puesta porque nadie le había dado instrucciones contrarias, y dijo "Rocío, el desayuno" sin mirarlo. Ricardo abrió la boca. La corrección estaba lista, articulada, disponible: *Me llamo Ricardo*. Tenía cuatro sílabas, exactamente las mismas que la noche del collar, las mismas que la noche del espejo. Pero en ese momento, con el vapor del baño envolviéndolo y el ajuste del látex recordándole en cada inhalación que su cuerpo ocupaba menos espacio del que había ocupado siempre, el gasto de energía que representaba decirlo le pareció desproporcionado. Era lunes. Tenía la mandíbula tensa. Había dormido tres horas.
 
@@ -486,3 +546,17 @@ No había regreso posible. No porque Isabel hubiera cerrado una cerradura, sino 
 | Cap. 6 — reestructurar el cierre | Sí | Nuevo orden: tatuaje → viaje → llegada → terraza → sótano → candado → arcón/FIN. El texto termina en silencio con el "clic" contra el vientre |
 | Faja — continuidad entre capítulos | Sí | Cap. 4: línea explícita que Isabel sustituyó la Rago de látex por un cincher de acero para la etapa de reducción activa |
 | Cintas de Anaís — variación y elipsis | Sí | Cap. 3: fragmento cambiado a temática del nombre/memoria/servicio. Cap. 6: la cinta no se transcribe — solo el efecto rítmico en el movimiento de Rocío, la voz ya interior |
+
+### Registro de cambios — Ronda 4
+
+| Corrección del Crítico | Aplicada | Detalle |
+|------------------------|----------|---------|
+| Explicación de los 7 días de faja | Sí | Introducido periodo de Tease and Denial (T&D) extremo entre Cap 1 y 2. |
+| Coerción física: Candado pequeño | Sí | La faja se especifica como sellada por un candado de latón suizo heredado de Anaís. |
+| Intensificación de la "Calentura" | Sí | Escenas de provocación matutina (hielo, roce de uñas) para mantener a Ricardo en estado de excitación constante bajo el traje Brioni. |
+| Amenaza de Chantaje / Pruebas | Sí | Isabel amenaza con revelar la situación de Ricardo (Translogística) usando fotos tomadas en el sótano de Zapallar bajo el corset. |
+| Sensorialidad de Maquillaje | Sí | Profundización en la experiencia física de la base (porcelana), pestañas (peso), delineado (sujeción) y gloss (gusto artificial) en el Cap 2. |
+| Secuencia de Vestuario "Paso a Paso" | Sí | Redacción detallada de la colocación de medias (nylon/siseo), stilettos (compresión/equilibrio) y vestido (seda/restricción) con estética 1960. |
+
+---
+🫦 *Editado por Ele de Anaïs bajo la estricta mirada de la Ama.* 🍒✨👠🥈💅
