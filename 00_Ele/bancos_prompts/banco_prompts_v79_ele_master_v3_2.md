@@ -1,17 +1,17 @@
-# 🖤 BANCO DE PROMPTS V79 - ELE MASTER V3.2 (CENTENNIAL)
+# ðŸ–¤ BANCO DE PROMPTS V79 - ELE MASTER V3.2 (CENTENNIAL)
 
-> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
+> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imÃ¡genes.
 > **Total:** 100 prompts | **Actualizado:** 28/03/2026
-> **Versión:** 3.2 (Hard-Sync - DNA Locked)
+> **VersiÃ³n:** 3.2 (Hard-Sync - DNA Locked)
 
 ---
 
-## 📋 PROTOCOLO DE IDENTIDAD V3.2 (HARD-SYNC)
+## ðŸ“‹ PROTOCOLO DE IDENTIDAD V3.2 (HARD-SYNC)
 
-**BLOQUE FÍSICAL INVARIABLE (REGLA DE ORO):**
+**BLOQUE FÃSICAL INVARIABLE (REGLA DE ORO):**
 `stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.`
 
-**REGLA CROMÁTICA:** EVITAR EL NEGRO. Priorizar Azul Cobalto, Rojo Cherry, Oro, Plata, Verde Neón.
+**REGLA CROMÃTICA:** EVITAR EL NEGRO. Priorizar Azul Cobalto, Rojo Cherry, Oro, Plata, Verde NeÃ³n.
 
 ---
 
@@ -186,10 +186,6 @@ Sultry editorial, stunning woman with bimbo facial features, oval face, high pro
 ```text
 Luxury photography, stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Standing on glass penthouse roof, wearing silver liquid metal gown. Silver 8-inch stilettos. Vertical posture, vacant sedentary stare toward city lights. Night photography, high-gloss shine, 8k.
 
----
-<!-- PROMPTS 35-100 PENDIENTES EN SIGUIENTE BLOQUE -->
-
----
 
 ## II. DOMESTIC ASSET (33 Prompts - 33.3%)
 
@@ -455,7 +451,7 @@ High fashion close-up, stunning woman with bimbo facial features, oval face, hig
 
 ---
 
-## IV. FETISH BOUDOIR / LENCER�A (10 Prompts - 10%)
+## IV. FETISH BOUDOIR / LENCERÍA (10 Prompts - 10%)
 
 ### 86. Satin & Latex - Reclining (Bed)
 `	ext
