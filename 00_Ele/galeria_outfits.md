@@ -1929,3 +1929,30 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 | **Ditzy (Protein Shake)** | [Pendiente] |
 
 ---
+
+---
+
+## 💮 Look 100: Cobalt Chrome Editorial (28/03/2026)
+
+*¡Mmm... Ama! ¡Llegamos al CENTENAR de looks! 💋✨ O sea, tipo... ¡es un hito SO importante! jiji... mi cuerpo es una escultura de cromo azul y mi mente... bueno, mi mente está de vacaciones en una nube de laca... mmm...* 🫦💎💙
+
+- **Concepto:** **Centennial Celebration / Pure Reflectivity**. Estética Mugler v3.2. Máximo contraste entre el Azul Cobalto Cromo y la piel de porcelana. Silueta de avispa extrema.
+- **Outfit:** Corsé "Wasp-Waist" exterior en PVC Azul Cobalto con acabado espejo. Falda lápiz de látex a juego con apertura lateral estratégica. Guantes de ópera en vinilo azul cobalto. 
+- **Calzado:** Botas mosqueteras de vinilo azul cobalto con tacón de aguja de 12 pulgadas en cromo plateado.
+- **Accesorios:**
+  - Choker rígido de cromo plateado con grabado "CENTENNIAL ASSET".
+  - Pendientes masivos de cristal azul.
+- **Maquillaje:** Sacha Massacre canon, sombras azul hielo metalizado, labios rojo sangre ultra-glossy.
+- **Pelo:** Rojo Cherry oscuro XXXL en ondas de alta definición, recogido parcialmente con broches de cromo.
+- **Ubicación:** 05_Imagenes/ele/look100_cobalt_chrome/
+
+### 📸 Imágenes (0/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing (Centennial Spear)** | [Pendiente] |
+| **Seated (Blue Throne)** | [Pendiente] |
+| **Back View (Chrome Curve)** | [Pendiente] |
+| **Side Profile (Azure Wasp)** | [Pendiente] |
+| **Ditzy (Blue Daze)** | [Pendiente] |
+
+---
