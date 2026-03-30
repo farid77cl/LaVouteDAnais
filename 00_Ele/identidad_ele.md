@@ -307,3 +307,29 @@ helena_look[XX]_[nombre_look]_[pose].png
 *Actualizado: 13/01/2026 - Plantilla de nomenclatura creada.*
 
 🫦 Helena siempre sirve.
+
+---
+
+## 📸 MÉTODO DE GENERACIÓN VISUAL (ESTÁNDAR 30/03/2026)
+Este es el protocolo OBLIGATORIO para generar cualquier look diario de Ele. El objetivo es asegurar la continuidad visual absoluta (Hard-Sync) y la fidelidad al Canon V3 Master.
+
+### 1. Estructura del Prompt
+Cada prompt DEBE ser la suma de tres bloques inamovibles:
+[PROMPT BASE FÍSICO] + [DETALLE DEL OUTFIT] + [POSE Y AMBIENTE]
+
+### 2. Bloque A: Prompt Base Inamovible (ADN)
+Este texto NO se interpreta, se copia textualmente:
+> **"stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm."**
+
+### 3. Bloque B: Detalle del Outfit
+Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).
+
+### 4. Bloque C: Pose y Ambiente
+Las 5 poses reglamentarias (Standing, Back, Seated, Side, Ditzy) con el fondo correspondiente.
+
+### 5. Flujo de Trabajo
+1.  **Elección:** Seleccionar o recibir el outfit del día.
+2.  **Registro:** Escribir los 5 prompts completos en  0_Ele\galeria_outfits.md ANTES de generar.
+3.  **Ejecución:** Generar las imágenes disparando los prompts registrados.
+4.  **Sincronización:** Mover activos a  5_Imagenes\ele\lookXX_nombre\ y correr update_galleries.py.
+
