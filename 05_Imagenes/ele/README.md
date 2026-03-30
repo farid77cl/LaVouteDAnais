@@ -27,6 +27,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look07**](./look07/README.md)
 - ✅ [**Look08 Esmeralda**](./look08_esmeralda/README.md)
 - ✅ [**Look09 Corazon**](./look09_corazon/README.md)
+- ✅ [**Look100 Cobalt Chrome**](./look100_cobalt_chrome/README.md)
 - ✅ [**Look10 Zafiro**](./look10_zafiro/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
@@ -112,4 +113,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-28*
+*Actualizado automáticamente: 2026-03-30*
