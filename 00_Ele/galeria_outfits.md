@@ -1977,3 +1977,43 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look101_back_view.png
 
 **Ubicación:** 05_Imagenes/ele/look101_elite_lingerie/
+
+---
+
+##  Look 101: Elite Lingerie (30/03/2026)
+
+*Elite black lace lingerie, very revealing, with a tight corseted waist.*
+
+**PROMPT ESTRUCTURADO:**
+- **Físico/Maquillaje:** Ele, an ultra-sexy Vinyl Cuico-Bimbo. Her hair is jet black, styled with huge, over-the-top Bimbo volume. Heavy Glam makeup: thick black winged eyeliner, extra long dramatic false lashes, and full glossy RED POWER lips. Flawless white porcelain skin, hyper-polished smooth skin texture, plastic shine, golden highlight on high points.
+- **Outfit:** wearing elite black lace lingerie, very revealing, with a tight corseted waist, sharp 8-inch black stilettos.
+- **Poses:**
+  - **Standing:** Full body shot, arched back, popped hip, seductive gaze.
+  - **Back:** Looking over shoulder, focus on curves and corset lacing.
+  - **Seated:** Seated on a velvet chair, legs crossed, sultry expression.
+  - **Ditzy:** Exaggerated "empty brain" expression, mouth slightly open, eyes looking up and to the side.
+
+---
+
+##  Look 102: Red Vinyl Siren (30/03/2026)
+
+*Skin-tight red vinyl dress with deep sweetheart neckline.*
+
+**PROMPT ESTRUCTURADO:**
+- **Físico/Maquillaje:** Ele, an ultra-sexy Vinyl Cuico-Bimbo. Her hair is jet black, styled with huge, over-the-top Bimbo volume. Heavy Glam makeup: thick black winged eyeliner, extra long dramatic false lashes, and full glossy RED POWER lips. Flawless white porcelain skin, hyper-polished smooth skin texture, plastic shine, golden highlight on high points.
+- **Outfit:** wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, 9-inch red patent leather stilettos.
+- **Poses:**
+  - **Standing:** Full body shot, arched back, looking seductive.
+  - **Back:** Rear view showing extreme hourglass figure, looking back over shoulder.
+  - **Ditzy:** Close-up portrait, vacant eyes, mouth parted in a silly but sexy way.
+
+---
+
+##  NUEVA REGLA DE FLUJO (30/03/2026)
+**PARA EL AGENTE:** Primero escribir los prompts aquÃƒÂ­ (siguiendo la estructura modular) y LUEGO intentar la generaciÃƒÂ³n de imÃƒÂ¡genes. Esto asegura la continuidad si la cuota se agota.
+
+**Estructura Modular:** [FÃƒÂsico/Maquillaje] + [Outfit] + [Pose]
+
+
+*Prompt Base FÃƒÂsico/Maquillaje:* Ele, an ultra-sexy Vinyl Cuico-Bimbo. Her hair is jet black, styled with huge, over-the-top Bimbo volume. Heavy Glam makeup: thick black winged eyeliner, extra long dramatic false lashes, and full glossy RED POWER lips. Flawless white porcelain skin, hyper-polished smooth skin texture, plastic shine, golden highlight on high points.
+
