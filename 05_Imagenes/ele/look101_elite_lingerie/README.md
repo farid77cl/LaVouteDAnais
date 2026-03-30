@@ -1,18 +1,19 @@
 # 🖼️ Galería: look101_elite_lingerie
-Total imágenes: 3
+Total imágenes: 4
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![look101_back_view.png](./look101_back_view.png) | ![look101_seated.png](./look101_seated.png) | ![look101_standing.png](./look101_standing.png) |
+| ![look101_back_view.png](./look101_back_view.png) | ![look101_seated.png](./look101_seated.png) | ![look101_side_profile.png](./look101_side_profile.png) |
+| ![look101_standing.png](./look101_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![look101_back_view.png](./look101_back_view.png) | ![look101_seated.png](./look101_seated.png) | ![look101_standing.png](./look101_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![look101_back_view.png](./look101_back_view.png) | ![look101_seated.png](./look101_seated.png) | ![look101_side_profile.png](./look101_side_profile.png) | ![look101_standing.png](./look101_standing.png) |
 
 
 ---
@@ -20,6 +21,7 @@ Total imágenes: 3
 ## 📜 Lista de Archivos
 - [look101_back_view.png](./look101_back_view.png)
 - [look101_seated.png](./look101_seated.png)
+- [look101_side_profile.png](./look101_side_profile.png)
 - [look101_standing.png](./look101_standing.png)
 
 ---
