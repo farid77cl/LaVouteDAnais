@@ -64,7 +64,7 @@ Este workflow debe ejecutarse automáticamente al inicio de cada nueva conversac
    ```
 
 7. **Verificar estructura de galerías de imágenes (AUTOMATIZADO):**
-   - Ejecutar el script: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`
+   - Ejecutar el script: `python C:\Users\fabara\LaVouteDAnais\99_Sistema\scripts\visual\update_galleries.py`
    - Cada carpeta en `05_Imagenes/` debe tener UN SOLO archivo `GALERIA.md`.
    - NO deben existir duplicados como `galeria_visual_*.md`.
 
