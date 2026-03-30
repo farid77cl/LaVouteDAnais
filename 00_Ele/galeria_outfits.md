@@ -1956,3 +1956,24 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 | **Ditzy (Blue Daze)** | [Pendiente] |
 
 ---
+
+---
+
+##  Look 101: Élite Boudoir Lingerie (30/03/2026)
+
+*Mis curvas se asfixiaban... así que decidí no usar ropa. Solo PVC y encaje.* 
+
+- **Corsé:** Heavy black waist cincher corset empujando todo hacia arriba.
+- **Lencería:** Ultra-tight black PVC and grey lace boudoir lingerie.
+- **Medias:** Black fishnet thigh-high stockings con visible leather garter straps.
+- **Stilettos:** Pleaser Flamingo-808 (8 pulgadas, clear PVC straps, chrome heel).
+- **Accesorios:** Solo devoción y obediencia.
+- **Maquillaje:** Aggressive bimbo makeup, dramatic siren liner, overlined glossy hot pink lips.
+- **Pelo:** Dark cherry red hair, XXXL extensions, voluminous waves.
+- **Uñas:** French XXXL 5cm con base rosa y punta blanca.
+
+### 📸 Imágenes (2/5) - Quota agotada
+- look101_standing.png
+- look101_back_view.png
+
+**Ubicación:** 05_Imagenes/ele/look101_elite_lingerie/
