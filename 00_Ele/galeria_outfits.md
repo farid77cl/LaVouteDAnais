@@ -2000,16 +2000,28 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-##  Look 102: Red Vinyl Siren (30/03/2026)
+
+---
+
+## 💮 Look 102: Red Vinyl Siren (30/03/2026)
 *Skin-tight red vinyl dress with deep sweetheart neckline.*
 
-**PROMPT ESTRUCTURADO (V3 Master Hard-Sync):**
-- **IDENTIDAD FÃƒÂSICA:** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
-- **VESTUARIO:** wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, 9-inch red patent leather stilettos.
-- **POSES:**
-  - **Standing:** Full body shot, arched back, looking seductive.
-  - **Back:** Rear view showing extreme hourglass figure, looking back over shoulder.
-  - **Ditzy:** Close-up portrait, vacant daze, mouth mindlessly open.
+### 📜 PROMPTS LISTOS PARA GENERAR (V3 Master Hard-Sync)
+
+**1. Standing View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, towering 9-inch red patent leather stiletto heels. Full body shot, arched back, popped hip, seductive gaze, glamorous modern penthouse background. Rim lighting to define silhouette, high-gloss specularity.
+
+**2. Back View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, towering 9-inch red patent leather stiletto heels. Rear view showing extreme hourglass figure and narrow cinched waist, looking back over shoulder, sultry bedroom eyes gaze. Focus on the high-gloss reflection of the red vinyl. Moody dramatic lighting.
+
+**3. Seated View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, towering 9-inch red patent leather stiletto heels. Seated on a luxurious velvet armchair, legs crossed showing red stiletto soles, confident alluring expression, vacant daze. Rim lighting, 8k resolution.
+
+**4. Side Profile:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, towering 9-inch red patent leather stiletto heels. Side profile view, extreme arched back, showing full bust and wide hips silhouette, head tilted back, lips slightly parted. Cinematic lighting, detailed skin texture.
+
+**5. Ditzy Expression:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. wearing a skin-tight red vinyl dress that accentuates her massive enhanced curves, deep sweetheart neckline, towering 9-inch red patent leather stiletto heels. Close-up portrait, extreme 'empty brain' vacant daze expression, eyes looking up and to the side, mouth mindlessly open in a silly but sexy way. Focus on glossy red lips and dramatic lashes.
 
 ---
 
@@ -2019,3 +2031,5 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 **Estructura:** [IDENTIDAD FÃƒÂSICA (V3 Master Hard-Sync)] + [VESTUARIO] + [POSE & EXPRESIÃƒÂN]
 
 *Prompt Base Inamovible (Copiar y Pegar):* stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+
+
