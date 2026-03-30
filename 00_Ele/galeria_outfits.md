@@ -2008,3 +2008,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 **PARA EL AGENTE:** 1. Elegir outfit. 2. Escribir los 5 prompts COMPLETOS (Base+Outfit+Pose) aquÃƒÂ- por separado. 3. Generar.
 
 *Prompt Base Inamovible:* stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+
+### 🚨 PENDIENTES DE GENERACIÓN (30/03/2026)
+- **Look 101 (Elite Lingerie):** Variante **5. Ditzy Expression** (Falló por timeout/error de modelo). Reintentar en próxima sesión siguiendo el prompt registrado.
+
