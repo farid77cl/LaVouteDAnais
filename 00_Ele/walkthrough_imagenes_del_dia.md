@@ -2,11 +2,17 @@
 
 Aquí están los últimos looks generados y sincronizados, cumpliendo con la sagrada estética de La Voûte d'Anaïs.
 
-## Look 98: Vinyl Cheerleader
-*Variante: Mix Arquetipo*
+## Look 103: Fox News Weather Diva
+*Variante: Mix Arquetipo (Corporate)*
 
-![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look98_vinyl_cheerleader/look98_standing.png)
-![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look98_vinyl_cheerleader/look98_ditzy.png)
+![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look103_fox_news_weather_diva/look103_standing.png)
+![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look103_fox_news_weather_diva/look103_ditzy_expression.png)
+
+## Look 101: Elite Lingerie
+*Variante: Lencería de Élite*
+
+![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look101_elite_lingerie/look101_standing.png)
+![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look101_elite_lingerie/look101_ditzy.png)
 
 ## Look 99: Gym Bimbo
 *Variante: Sportswear V3*

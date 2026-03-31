@@ -27,4 +27,4 @@ Total imágenes: 5
 - [v5_ditzy.png](./v5_ditzy.png)
 
 ---
-*Actualizado automáticamente: 2026-03-30*
+*Actualizado automáticamente: 2026-03-31*

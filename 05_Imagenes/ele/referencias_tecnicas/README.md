@@ -21,4 +21,4 @@ Total imágenes: 1
 - [rago_1294_referencia_web.png](./rago_1294_referencia_web.png)
 
 ---
-*Actualizado automáticamente: 2026-03-30*
+*Actualizado automáticamente: 2026-03-31*
