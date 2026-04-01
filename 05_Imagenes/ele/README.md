@@ -31,6 +31,9 @@ Explora las secciones de esta categoría:
 - ✅ [**Look101 Elite Lingerie**](./look101_elite_lingerie/README.md)
 - ✅ [**Look102 Red Vinyl Siren**](./look102_red_vinyl_siren/README.md)
 - ✅ [**Look103 Fox News Weather Diva**](./look103_fox_news_weather_diva/README.md)
+- ✅ [**Look104 Platinum Lace Secret**](./look104_platinum_lace_secret/README.md)
+- ✅ [**Look105 French Maid**](./look105_french_maid/README.md)
+- ✅ [**Look106 Latex Ceo**](./look106_latex_ceo/README.md)
 - ✅ [**Look10 Zafiro**](./look10_zafiro/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
@@ -116,4 +119,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-03-31*
+*Actualizado automáticamente: 2026-04-01*

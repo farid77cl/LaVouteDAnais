@@ -1,4 +1,18 @@
-# 🖼️ Walkthrough: Imágenes del Día (26/03 - 27/03)
+# 🖼️ Walkthrough: Imágenes del Día (26/03 - 31/03)
+
+## 💮 Look 104: Platinum Lace Secret (31/03/2026)
+*Status: COMPLETO (5/5)*
+Lencería de élite en vinilo platino y encaje negro. Ultra-revelador.
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look104_platinum_lace_secret/v1_standing.png) |
+| **Back View** | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look104_platinum_lace_secret/v2_backview.png) |
+| **Seated** | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look104_platinum_lace_secret/v3_seated.png) |
+| **Side View** | ![Side View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look104_platinum_lace_secret/v4_sideview.png) |
+| **Ditzy** | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look104_platinum_lace_secret/v5_ditzy.png) |
+
+---
 
 ## 💮 Look 98: Vinyl Cheerleader (27/03/2026)
 *Status: COMPLETO (5/5)*

@@ -9,7 +9,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 | **Smart Home Stepford (v7.0)** | 🏆 **Versión Final (Clean)** | Bimboficación, Efecto Genio, Vinilo, Infrasonidos | [Ver Archivo](01_En_Progreso/smart_home_stepford_v6.md) |
 | **El Secreto de la Cómoda** | 🏆 **Versión Final (23k)** | MFT Retro, Zapallar, Fajas, Kandado | [Ver Archivo](01_En_Progreso/el_secreto_de_la_comoda/relato_completo.md) |
 | **El Deseo de la Cancha** | 🟡 **PAUSADO** | Bimboficación Deportiva, Impotencia, Traición | [Ver Carpeta](02_Publicado/el_deseo_de_la_cancha/) |
-| **El Collar de Nancy (Substack)** | 🏁 **Listo para Publicar** | BDSM, Humillación, Uniformes | [Ver Archivo](04_Preparados_para_Tumblr/el_collar_de_nancy_substack_ready.md) |
+| **El Collar de Nancy** | 🕸️ **Publicado Substack** | BDSM, Humillación, Uniformes | [Ver Post](05_Publicado_Substack/el_collar_de_nancy_post.md) |
 
 
 ## 📁 Archivo Histórico

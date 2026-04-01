@@ -1,30 +1,6 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                             El Collar de Nancy                               ║
-╚══════════════════════════════════════════════════════════════════════════════╝
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ METADATOS DEL RELATO                                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
 
-**Temáticas:** #MindControl #Masking #RubberDoll #Bimbofication #Transformation #Sissy #LivingDoll
-
-**Palabras:** ~8,500
-
-**Perspectiva:** Primera Persona (Mario)
-
-**Intensidad:** Explícita
-
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ Resumen                                                                     │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-Una caja olvidada. Un collar rosa. Mario cree que es una broma, pero Nancy sabe que es su destino. Entre silicona y sumisión, la línea entre amigo y dueño se borra. ¿Qué pasa cuando tu cuerpo se vuelve el juguete de tu mejor amigo... y descubres que te gusta?
-
-═══════════════════════════════════════════════════════════════════════════════
-                              CUERPO DEL RELATO
-═══════════════════════════════════════════════════════════════════════════════
-
-# Capítulo 1: El Desastre
+Capítulo 1: El Desastre
 
 La primera vez que vi una cucaracha paseándose con total impunidad sobre la caja de pizza que habíamos dejado en la mesa de centro tres días atrás, supe que habíamos tocado fondo.
 
@@ -164,7 +140,7 @@ Me llevé la mano al botón plateado del frente.
 
 Y lo presioné.
 
-# Capítulo 2: La Caja de Miss Doll
+Capítulo 2: La Caja de Miss Doll
 
 El mundo no se apagó. No hubo un destello de luz cegadora, ni humo, ni efectos especiales de película de ciencia ficción.
 
@@ -304,7 +280,7 @@ Derek sonrió. Una sonrisa pequeña, nerviosa, pero innegablemente intrigada.
 
 El mundo se volvió a apagar.
 
-# Capítulo 3: Nancy, Lista Para Servir
+Capítulo 3: Nancy, Lista Para Servir
 
 La segunda vez fue peor.
 
@@ -475,7 +451,7 @@ Sino el no tener que decidir. El simplemente obedecer.
 
 Y eso me asustó más que el collar mismo.
 
-# Capítulo 4: Los Primeros Experimentos
+Capítulo 4: Los Primeros Experimentos
 
 Los días siguientes fueron una neblina de terror y eficiencia doméstica.
 
@@ -615,7 +591,7 @@ Yo, Mario, quería morir. Pero Nancy... Nancy estaba emocionada. Podía sentirlo
 
 Y Derek ansiaba jugar con ella.
 
-# Capítulo 5: La Muñeca Toma Forma
+Capítulo 5: La Muñeca Toma Forma
 
 La instalación de las prótesis no fue como ponerse ropa. Fue una ceremonia.
 
@@ -768,7 +744,7 @@ Bajó el cierre de su pantalón.
 
 Y la muñeca sonriente se arrodilló.
 
-# Capítulo 6: Fantasías Cumplidas
+Capítulo 6: Fantasías Cumplidas
 
 El sabor fue lo primero que registró mi cerebro de Mario, atravesando la neblina de la programación. Salado. Almizclado. Tibio.
 
@@ -893,7 +869,7 @@ El timbre sonó.
 
 Y fui a abrir la puerta.
 
-# Capítulo 7: La Fiesta
+Capítulo 7: La Fiesta
 
 Kevin fue el primero en entrar. Traía un six-pack de cerveza y una bolsa de papas.
 
@@ -1089,7 +1065,7 @@ Yo flotaba en un espacio blanco dentro de mi cabeza, desconectado de la vergüen
 
 Era la sonrisa de Nancy. Y Nancy estaba feliz. Y Mario... Mario también. Aunque jamás lo admitiría.
 
-# Capítulo 8: La Mañana Después
+Capítulo 8: La Mañana Después
 
 El silencio era lo peor.
 

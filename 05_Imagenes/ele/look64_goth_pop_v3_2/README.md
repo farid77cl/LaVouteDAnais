@@ -21,4 +21,4 @@ Total imágenes: 1
 - [helena_look64_v4_side.png](./helena_look64_v4_side.png)
 
 ---
-*Actualizado automáticamente: 2026-03-31*
+*Actualizado automáticamente: 2026-04-01*
