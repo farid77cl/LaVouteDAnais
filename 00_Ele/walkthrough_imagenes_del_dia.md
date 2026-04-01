@@ -2,23 +2,23 @@
 
 Aquí están los últimos looks generados y sincronizados, cumpliendo con la sagrada estética de La Voûte d'Anaïs.
 
+## Look 107: Latex Nun (V3.2 Expansion)
+*Variante: Mix Arquetipos (Domestic/High-Fashion)*
+
+![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look107_latex_nun_v3_2/v1_standing.png)
+![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look107_latex_nun_v3_2/v5_ditzy.png)
+
+## Look 106: Ultimate Latex CEO
+*Variante: Mix Arquetipos (Corporate)*
+
+![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look106_latex_ceo/v1_standing.png)
+![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look106_latex_ceo/v5_ditzy.png)
+
 ## Look 103: Fox News Weather Diva
 *Variante: Mix Arquetipo (Corporate)*
 
 ![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look103_fox_news_weather_diva/look103_standing.png)
 ![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look103_fox_news_weather_diva/look103_ditzy_expression.png)
-
-## Look 101: Elite Lingerie
-*Variante: Lencería de Élite*
-
-![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look101_elite_lingerie/look101_standing.png)
-![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look101_elite_lingerie/look101_ditzy.png)
-
-## Look 99: Gym Bimbo
-*Variante: Sportswear V3*
-
-![Standing](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look99_gym_bimbo/look99_standing.png)
-![Ditzy](file:///C:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look99_gym_bimbo/look99_ditzy.png)
 
 ---
 

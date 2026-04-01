@@ -1,4 +1,4 @@
-# 🖼️ Galería: look106_latex_ceo
+# 🖼️ Galería: look107_latex_nun_v3_2
 Total imágenes: 5
 
 ## ✨ Colección Destacada
