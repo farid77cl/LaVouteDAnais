@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 La galería olía a sándalo y a silencio respetuoso. Era una exhibición de arte asiático, y la atmósfera era de solemnidad y elegancia contenida. Los invitados, un selecto grupo de críticos, coleccionistas y dinero viejo, se movían como sombras por las salas, susurrando admiraciones. Las mujeres vestían largos vestidos de seda negra o quimonos de gracia sobria. Los hombres, trajes oscuros y serios. Era un templo para la sutileza.
 
 Y entonces, entró ella. Jinx.

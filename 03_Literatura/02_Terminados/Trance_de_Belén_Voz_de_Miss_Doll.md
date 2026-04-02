@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Trance de Belén – Voz de Miss Doll
 
 El cuarto está cerrado. Solo tú y yo. Una única luz cenital cae sobre tu cuerpo: piel blanca iluminada como ofrenda frente al espejo, caderas definidas, busto firme, cabello castaño cayendo sobre tus hombros, ojos verdes que titilan entre vergüenza y deseo. Huelo tu perfume mezclado con mi humo dulce. Te sientas dócil, con el rubor en tus mejillas. Sé por qué has venido: porque tu timidez ya no te protege, porque deseas ser mirada, porque ansías que yo te convierta en lo que siempre estuvo en ti… mi muñeca provocadora, putona, sin vergüenza.

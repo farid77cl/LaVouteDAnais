@@ -1,4 +1,6 @@
-Brillando en Tacones: La Metamorfosis de Esteban
+# 👠 BRILLANDO EN TACONES: LA METAMORFOSIS DE ESTEBAN
+*Un relato de Anaïs Belland*
+*Una historia del universo La Voûte d'Anaïs*
 
 Capítulo 1: Reflejo
 

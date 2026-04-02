@@ -1,5 +1,7 @@
 ### **Ginny la Genio Bimbo**
 
+*Un relato de Anaïs Belland*
+
 La oficina olía a alcohol barato y a plástico quemado. Era la noche de Halloween, y el espacio de trabajo se había transformado en una fiesta de disfraces mediocres. Luces de colores parpadeaban sobre gente con máscaras compradas a última hora, que bebía de más y reía con una fuerza que sonaba falsa. Julián, de 52 años, se movía por la fiesta como un fantasma en su propia casa, una copa en la mano que no servía para nada más que para parecer ocupado. Nadie lo miraba. Nadie lo notaba. Era parte del decorado, invisible y silencioso.
 
 Sobre una mesa abandonada, junto a una caja de donaciones para una causa olvidada, había una lámpara de latón vieja y opaca. Una etiqueta manuscrita decía: "Sorpresa". Aburrido y sin nada mejor que hacer, se acercó. La tomó. El metal era cálido bajo sus dedos, un calor inesperado que no correspondía al ambiente frío de la oficina. Sin pensarlo, la guardó bajo el brazo y, huyendo del ruido estridente, se refugió en un pequeño armario de utilería, cerrando la puerta a su espalda.

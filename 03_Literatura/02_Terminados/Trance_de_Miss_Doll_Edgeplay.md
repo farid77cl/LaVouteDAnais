@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Obedece.
 
 Cierra los ojos. El mundo exterior se disuelve, y en su lugar, solo queda la oscuridad y mi presencia. Esta oscuridad no está vacía; es un terciopelo negro y espeso que huele a mí. Al dulce químico de mi látex se mezcla el jazmín frío y penetrante. Respira hondo. No es aire lo que inhalas, es mi esencia. Y al exhalar, suelta tu nombre, tu historia, tu voluntad. Ya no te pertenecen. Son cenizas.

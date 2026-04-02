@@ -1,4 +1,5 @@
 # 🏩 SMART HOME STEPFORD: LA CORRUPCIÓN DE CLARA
+*Un relato de Anaïs Belland*
 *Una historia del universo La Voûte d'Anaïs*
 
 ---

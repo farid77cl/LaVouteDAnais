@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 El mandato de los tacones
 
 Lo eligió porque vio la grieta. Un hombre común, correcto, invisible entre la multitud. Pero sus ojos lo delataban: siempre se desviaban hacia los zapatos de las mujeres. No era deseo abierto, era curiosidad reprimida, escondida bajo una vida seria.

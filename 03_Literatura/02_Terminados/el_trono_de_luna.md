@@ -1,5 +1,7 @@
 # El Trono de Luna
 
+*Un relato de Anaïs Belland*
+
 El olor en el apartamento número 7B era una mezcla familiar de café rancio, polvo acumulado y el perfume silencioso de la rendición. Patricio se sentó en el borde del sofá, el control del mando de la televisión sintético y frío en su mano. Pasaba por los canales, una luz azul y parpadeante bañando su cara inexpresiva. Afuera, la ciudad se ahogaba en el atardecer, pero dentro, el tiempo parecía haberse detenido en un bucle de grises mediocridad.
 
 En el rincón, frente a un caballete de madera barata, estaba Luna. Su cabello oscuro caía en una cortina opaca sobre su rostro, ocultándolo mientras sus manos se movían con una furia contenida sobre el lienzo. Patricio no podía ver lo que pintaba. Rara vez podía. Era su ritual, su santuario, el único lugar donde la tensión que se solidificaba en el aire como la grasa de una sartén vieja parecía disiparse, aunque solo fuera por unas horas.

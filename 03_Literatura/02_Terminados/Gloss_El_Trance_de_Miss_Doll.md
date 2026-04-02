@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Gloss: El Trance de Miss Doll
 
 El cuarto está oscuro, una única luz cenital cae sobre dos sillas de metal, como un viejo cuarto de interrogatorio de los años 80. Miss Doll ya está allí, esperándote. Su cuerpo hipnótico brilla bajo el haz de luz: látex negro ajustado, curvas imposibles de ignorar, labios rojos húmedos. El aire está impregnado de su perfume, una mezcla envolvente de vainilla densa y humo dulce que lo cubre todo. Te señala una de las sillas y te invita a sentarte. Su mirada fija te clava al asiento, su aroma te amarra.

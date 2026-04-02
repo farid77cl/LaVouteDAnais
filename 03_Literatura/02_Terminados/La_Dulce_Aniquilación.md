@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 El cuarto olía a pizza fría y a sueños muertos. Julián y Martín, dos parias del primer año de universidad, se hundían en el silencio espeso de su mediocridad. Amigos desde la guardería, unidos por el mismo halo de invisibilidad y el mismo tormento: Víctor.
 
 Víctor no era solo un popular; era un cataclismo con camiseta de fraternidad. Desde el instituto, había hecho de sus vidas un infierno de bajo perfil. Recordaban el día que le rompió el proyecto de ciencias a Julián delante de toda la clase, sonriendo mientras los papeles volaban. O la vez que empujó a Martín contra las casilleras por "mirarlo raro", un delito que Martín ni siquiera había cometido. Víctor era la encarnación de su impotencia, un macho alfa que despreciaba la debilidad, y en sus ojos, ellos eran la definición misma de la palabra.

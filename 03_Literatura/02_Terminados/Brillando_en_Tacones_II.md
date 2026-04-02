@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Brillando en Tacones II: La Bimbo que Soy
 
 Capítulo 3: Despertar en puntas

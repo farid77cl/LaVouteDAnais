@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 La puerta se abrió con un gemido de metal oxidado, un sonido quejumbroso que hablaba de mil noches de lluvia y negligencia. Leo entró, torpemente, con una caja de cartón en las manos. Su vida era una rutina de rutas predecibles, de calles grises y edificios idénticos. Era un repartidor, una pieza anónima en la maquinaria del consumo, un hombre tan normal que era casi invisible. El lugar al que había llegado por error era el opuesto a su mundo: un infierno de neón parpadeante y olores densos, una pasta pegajosa de cerveza rancia, sudor oxidado y un dulzor químico que se pegaba al fondo de la garganta.
 
 En el centro de aquella basura de lujo, recostada en un sofá de vinilo agrietado como una piel vieja, estaba ella. Miss Doll. Llevaba una minifalda de plástico brillante que se adhería a sus curvas como una segunda piel mojada, y un top que contenía a duras penas dos pechos perfectos, desafiantes. Era un caramelo envenenado, y él era el niño con hambre que acababa de encontrarlo tirado en un suelo sucio.

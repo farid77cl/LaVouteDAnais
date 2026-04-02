@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Llevamos diez años casados. Diez años. A veces, cuando la noche es tranquila y puedo escuchar el ritmo de su respiración mientras se duerme a mi lado, intento recordar al hombre que era antes de Carmen. La imagen es borrosa, como una fotografía antigua cuyo color se ha desvanecido con el tiempo. Recuerdo a alguien más serio, más contenido. Un hombre que medía su valor en la firmeza de su apretón de manos y en la capacidad de mantener sus emociones a raya, bajo llave. Un hombre que, sin saberlo, vivía en un mundo en blanco y negro.
 
 Luego llegó Carmen, y el mundo explotó en color.

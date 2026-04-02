@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Son las dos de la mañana. El aire en el penthouse de Alex huele a sexo caro, a perfume de mujer y a la sutil acre de la sumisión. Yo observo desde la penumbra de un sillón, un vaso de cristal en mi mano, mientras se desarrolla el ritual nocturno. Mi presencia no es física; soy un reflejo en el cristal oscuro de la ventana, un susurro en el cambio de corriente del aire, la quintaesencia del perfume que impregna cada fibra de la alfombra. Soy la idea que se arrastra, la sugerencia que florece en la mente de Alex cuando necesita un poco más de crueldad.
 
 Alex ha llegado hace un momento. Irradia una energía que solo dan las mujeres bien folladas, una confianza que se derrama de cada poro. Lleva un vestido de seda negra que se adhiere a sus curvas como una segunda piel, y en su cuello, una marca roja y oscura, un morado sutil que promete violencia y placer. Sus labios están hinchados, brillantes, y sus ojos, dos pozos de poder, brillan con una luz satisfecha.

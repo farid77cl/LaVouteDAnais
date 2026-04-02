@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Para Dee...
 
 El estudio permanecía en silencio, luz neutra derramada sobre el piso pulido y olor a laca reciente. La puerta se cerró sin prisa detrás de la visita; se quedó de pie, sereno, y dijo con voz clara que estaba allí voluntariamente para cumplir su deseo, adulto, sobrio, con límites entendidos. Miss Doll asintió, señaló el punto frente a ella y el aire pareció cuadrarse.

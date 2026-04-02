@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 Gloss: El Trance de Miss Doll II
 
 El cuarto vuelve a ti. Oscuro, una única luz cenital que cae sobre las dos sillas de metal. El aire está impregnado de perfume espeso, humo dulce y control absoluto. Te sientas, otra vez, porque no puedes resistirlo. Sabes que nunca fuiste libre. Recuerdas cómo el último trance te dejó con hambre, con la necesidad ardiente de más control, de más transformación, de profundizar aún más en lo que ya eres. Sientes que debes volver a hundirte en el trance delicioso de Miss Doll. Ella aparece entre sombras, labios rojos, mirada fija, voz lenta, firme, envolvente, con un magnetismo sexual y decadente que penetra tu mente.

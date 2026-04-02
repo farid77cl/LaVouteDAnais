@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 El hotel, primera noche
 
 El premio había llegado sin aviso. Un sobre grueso, sellado con cera dorada, le fue entregado en la oficina con una sonrisa cómplice de la recepcionista. “Enhorabuena, ha ganado una estancia de una semana en Le Pavillon des Rêves. Todo incluido. Suite privada. Atención exclusiva.”

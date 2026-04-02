@@ -31,6 +31,8 @@ Daniel era un activo valioso en NEXUM Corp, hasta que su ambición lo convirtió
 
 # HR: Human Repurposing - CapÃ­tulo 2: El Proceso
 
+*Un relato de Anaïs Belland*
+
 **Estado:** Revisado (VersiÃ³n ClaustrofÃ³bica)  
 **Palabras:** ~4,200  
 **Fecha:** 2026-01-14  

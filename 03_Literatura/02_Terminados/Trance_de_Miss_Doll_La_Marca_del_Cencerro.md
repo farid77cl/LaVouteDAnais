@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 El cuarto está oscuro, denso, cargado de un perfume dulce y decadente. Solo tú y yo respiramos en este silencio pesado. Una luz cenital cae sobre tu piel como si fueras ofrenda desnuda frente al espejo, atrapada en la penumbra que yo domino. Tus ojos apenas distinguen las sombras, y en esa penumbra un sonido comienza: ding… ding… ding… suave, lento, inevitable. Cada eco resuena en tu pecho, cada tañido abre espacio en tu mente y erosiona tu resistencia. Con cada vibración sientes tus hombros caer, tu respiración hacerse más profunda, tu voluntad más blanda. Ya sabes que cada campana es mía, que cada sonido es control, que cada cadencia es el principio de tu rendición.
 
 — “Inhala… escucha el tañido. Exhala… suelta tu orgullo. Otra vez… más hondo. Cada respiración borra tu voluntad y abre espacio para mi voz. Cada ding entra en ti, marca el ritmo de tu cuerpo, instala obediencia en tu mente.”

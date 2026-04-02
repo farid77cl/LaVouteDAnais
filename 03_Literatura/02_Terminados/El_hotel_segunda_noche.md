@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 El hotel, segunda noche
 
 La puerta aún vibraba del impacto cuando el aroma a jazmín, denso y persistente, se deslizó por la rendija como un recuerdo que se niega a morir. La madera, tibia bajo la palma; la manija, fría, desafiante. No hubo deliberación: los dedos obedecieron antes que el pensamiento. Al abrir, el universo se ordenó con una crueldad exacta: la mucama idéntica a la del sueño, uniforme impecable, cofia alineada, guantes que susurraban al rozar el tejido del delantal. La ceja, apenas elevada. Una pregunta muda que no admitía respuesta.

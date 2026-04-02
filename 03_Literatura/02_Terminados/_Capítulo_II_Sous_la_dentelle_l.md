@@ -1,3 +1,5 @@
+*Un relato de Anaïs Belland*
+
 ✦ Capítulo II – Sous la dentelle, le feu ✦
 
 “Algunas jaulas se construyen desde adentro. Pero también desde adentro se abren.”
