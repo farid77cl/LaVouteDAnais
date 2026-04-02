@@ -325,7 +325,12 @@ Este texto NO se interpreta, se copia textualmente:
 Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).
 
 ### 4. Bloque C: Pose y Ambiente
-Las 5 poses reglamentarias (Standing, Back, Seated, Side, Ditzy) con el fondo correspondiente.
+Las 5 poses reglamentarias con el fondo correspondiente:
+1.  **Standing View:** Plano general.
+2.  **Back View:** Plano posterior con giro.
+3.  **Seated View:** Plano sentado / editorial.
+4.  **Side Profile:** Plano perfil / silueta.
+5.  **Ditzy Expression:** **OBLIGATORIO Plano Medio.** Debe mostrar rostro con expresión vacía, manos y uñas XXXL visibles. Canon de maquillaje 100% aplicado.
 
 ### 5. Flujo de Trabajo
 1.  **Elección:** Seleccionar o recibir el outfit del día.

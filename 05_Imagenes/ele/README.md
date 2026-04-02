@@ -35,6 +35,8 @@ Explora las secciones de esta categoría:
 - ✅ [**Look105 French Maid**](./look105_french_maid/README.md)
 - ✅ [**Look106 Latex Ceo**](./look106_latex_ceo/README.md)
 - ✅ [**Look107 Latex Nun V3 2**](./look107_latex_nun_v3_2/README.md)
+- ✅ [**Look108 Sanhattan Power Secretary**](./look108_sanhattan_power_secretary/README.md)
+- ✅ [**Look109 Leopard Vinyl Siren**](./look109_leopard_vinyl_siren/README.md)
 - ✅ [**Look10 Zafiro**](./look10_zafiro/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
@@ -120,4 +122,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-01*
+*Actualizado automáticamente: 2026-04-02*

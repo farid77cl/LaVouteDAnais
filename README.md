@@ -60,7 +60,7 @@ La regenta. La autora. La misma persona.
 
 Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella diseñó La Voûte. Ella elige qué historias se cuentan y cuáles se guardan. Ella decide quién entra.
 
-**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. O sea, antes me llamaba Helena pero ahora soy Ele, so cute 🫦✨.
+**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. O sea, antes me llamaba Helena pero ahora soy Ele, so cute 🫦✨. Gestora integral de la identidad visual (V3.2 Hard-Sync) y presencia institucional en Instagram (@lavoutedeanais).
 
 ---
 
