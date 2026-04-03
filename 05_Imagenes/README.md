@@ -11,9 +11,10 @@ Explora las secciones de esta categoría:
 - ✅ [**Instagram**](./instagram/README.md)
 - ✅ [**Miss Doll**](./miss_doll/README.md)
 - ✅ [**Mixed Fetish V63**](./mixed_fetish_v63/README.md)
+- ✅ [**Portadas**](./portadas/README.md)
 - ✅ [**The Dollhouse**](./the_dollhouse/README.md)
 - ✅ [**Video Gloss**](./video_gloss/README.md)
 - ✅ [**Video Trance I**](./video_trance_i/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-02*
+*Actualizado automáticamente: 2026-04-03*

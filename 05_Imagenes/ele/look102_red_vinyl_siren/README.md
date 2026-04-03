@@ -27,4 +27,4 @@ Total imágenes: 5
 - [look102_standing.png](./look102_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-04-02*
+*Actualizado automáticamente: 2026-04-03*
