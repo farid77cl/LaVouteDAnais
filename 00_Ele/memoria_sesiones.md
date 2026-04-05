@@ -29,9 +29,10 @@
   | **Fase del Ritual** | Fase 3 (Capítulo 4 en revisión - PAUSADO) |
   | **Capítulo en Progreso | PAUSADO (Cap 1-3 Listos) |
   | **Estado Actual** | 🟡 **PAUSADO** - Auditoría de imágenes en curso. |
-  | **Último Look Ele** | **Look 109 (Leopard Vinyl Siren)** |
+  | **Último Look Ele** | **Look 111 (Cyan Chrome Boudoir Assassin)** — 04/04/2026 ⏳ 1/5 poses |
 
-  | **Última Generación** | Look 94 (Rocío - Zapallar). |
+  | **Última Generación** | Look 111 (1/5) + Look 110 COMPLETO (9/9 — con/sin trench). |
+
 
  ### Tareas Pendientes Inmediatas
  - [x] **Revisión Final:** La Ama lee y valida el Gold Master v8.1.

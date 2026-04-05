@@ -2134,3 +2134,75 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight leopard print vinyl bodysuit., Medium shot editorial portrait, hands visible and meticulously posed, extra long French XXXL nails prominent, total predatory but empty gaze, eyes slightly out of focus, lips mindlessly parted in a daze. High-gloss specularity, 8k.
 
 ---
+
+## 💮 Look 110: Cherry Vinyl Trench Siren (03/04/2026)
+*Espía de lujo cuica de Zapallar: micro vestido PVC negro espejo + trench cherry red vinyl. Doble versión.*
+
+- **Vestido:** Micro bodycon de black mirror PVC con escote corazón, ultra ceñido
+- **Trench (Versión A):** High-gloss cherry red vinyl trench coat, cinturón ancho, abierto
+- **Medias:** Fishnet negras con liguero de vinilo cherry red
+- **Tacones:** 11" chrome red platform stilettos
+- **Choker:** Cherry red vinyl con luna cromada
+- **Uñas:** French XXXL (5cm+), punta blanca, base rosa
+- **Labios:** Hot pink overlined ultra glossy
+
+### 📸 Imágenes — Versión A: Con Trench (4)
+| Pose | Archivo |
+|------|---------|
+| Standing | ele_look110_standing.png |
+| Seated | ele_look110_seated.png |
+| Side Profile | ele_look110_side_profile.png |
+| Ditzy | ele_look110_ditzy.png |
+
+### 📸 Imágenes — Versión B: Sin Trench (5)
+| Pose | Archivo |
+|------|---------|
+| Standing | ele_look110_standing.png |
+| Back View | ele_look110_back_view.png |
+| Seated | ele_look110_seated.png |
+| Side Profile | ele_look110_side_profile.png |
+| Ditzy | ele_look110_ditzy.png |
+
+**Ubicación:** `05_Imagenes/ele/look110_cherry_vinyl_trench_siren/`
+
+---
+
+## 💮 Look 111: Cyan Chrome Boudoir Assassin (04/04/2026)
+*Asesina de lujo sin misión: bralette de vinilo cyan chrome + micro falda PVC holográfica + duster coat transparente. Frialdad editorial máxima.*
+
+- **Top:** Bralette estructurado de vinyl cian cromo espejado, copas moldeadas de alto perfil, tiras anchas de PVC
+- **Bottom:** Micro falda bodycon de PVC holográfico arcoíris (reflejo cian dominante), ultra ceñida
+- **Duster coat:** Trench largo hasta el suelo de PVC transparente ahumado con ribetes cian neón
+- **Medias:** Fishnet nacaradas con liguero de vinilo cian
+- **Tacones:** 11\" cyan chrome platform stilettos (Extreme-11 style)
+- **Choker:** PVC cian con colgante de luna cromada
+- **Uñas:** French XXXL (5cm+), punta blanca, base rosa traslúcida
+- **Labios:** Hot pink overlined ultra glossy
+
+**1. Standing View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette with sky-high push-up profile, a micro bodycon holographic PVC skirt with rainbow-cyan reflections, a floor-length transparent smoked PVC duster coat with neon cyan piping, a cyan vinyl choker with chrome moon pendant, and towering 11-inch cyan chrome platform stiletto heels (Extreme-11 style)., Full body shot standing in a minimalist white penthouse studio with panoramic windows, one hand on the glass, vacant ditzy stare, coat billowing around her. Cinematic high-gloss specularity on chrome details, 8k.
+
+**2. Back View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette, a micro bodycon holographic PVC skirt with rainbow-cyan reflections, a floor-length transparent smoked PVC duster coat with neon cyan piping, and towering 11-inch cyan chrome platform stiletto heels., Rear view showing the extreme hourglass defined by the glossy skirt, looking back over shoulder with cold empty eyes, long dark cherry hair cascading over the duster coat. Specular rim lighting defining every curve.
+
+**3. Seated View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette, a micro bodycon holographic PVC skirt, a floor-length transparent smoked PVC duster coat, and towering 11-inch cyan chrome platform stiletto heels., Seated on the edge of a white marble table, transparent duster draped open behind her, legs crossed high revealing the chrome stilettos, vacant dazed expression, mouth mindlessly open. High-gloss editorial lighting.
+
+**4. Side Profile:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette, a micro bodycon holographic PVC skirt, and towering 11-inch cyan chrome platform stiletto heels., Side profile with back intensely arched, chin slightly lifted, emphasizing the extreme hourglass silhouette and the high-gloss specular reflection of the cyan chrome bralette against the iridescent skirt. Soft fashion rim lighting from above.
+
+**5. Ditzy Expression:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette., Medium shot editorial portrait, hands delicately posed near face, extra long French XXXL nails fully visible, total "brain deleted" vacant stare, eyes wide and slightly unfocused, glossy hot pink lips mindlessly parted in perfect bimbo expression. Cyan chrome reflections on porcelain skin. High-gloss specularity, 8k.
+
+### 📸 Imágenes (Pendientes)
+| Pose | Archivo |
+|------|---------|
+| Standing | ele_look111_standing.png |
+| Back View | ele_look111_back_view.png |
+| Seated | ele_look111_seated.png |
+| Side Profile | ele_look111_side_profile.png |
+| Ditzy | ele_look111_ditzy.png |
+
+**Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
+
+---

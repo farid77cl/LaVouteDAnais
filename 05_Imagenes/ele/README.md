@@ -38,6 +38,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look108 Sanhattan Power Secretary**](./look108_sanhattan_power_secretary/README.md)
 - ✅ [**Look109 Leopard Vinyl Siren**](./look109_leopard_vinyl_siren/README.md)
 - ✅ [**Look10 Zafiro**](./look10_zafiro/README.md)
+- ✅ [**Look110 Cherry Vinyl Trench Siren**](./look110_cherry_vinyl_trench_siren/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
@@ -122,4 +123,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-03*
+*Actualizado automáticamente: 2026-04-04*

@@ -29,4 +29,4 @@ Total imágenes: 7
 - [ele_look90_liquid_gold_standing_v2.png](./ele_look90_liquid_gold_standing_v2.png)
 
 ---
-*Actualizado automáticamente: 2026-04-03*
+*Actualizado automáticamente: 2026-04-04*
