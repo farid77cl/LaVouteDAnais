@@ -40,6 +40,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look10 Zafiro**](./look10_zafiro/README.md)
 - ✅ [**Look110 Cherry Vinyl Trench Siren**](./look110_cherry_vinyl_trench_siren/README.md)
 - ✅ [**Look111 Cyan Chrome Boudoir Assassin**](./look111_cyan_chrome_boudoir_assassin/README.md)
+- ✅ [**Look112 Stepford Gold**](./look112_stepford_gold/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)

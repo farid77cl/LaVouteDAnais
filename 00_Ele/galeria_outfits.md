@@ -2194,15 +2194,53 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 **5. Ditzy Expression:**
 High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured cyan chrome mirror-vinyl bralette., Medium shot editorial portrait, hands delicately posed near face, extra long French XXXL nails fully visible, total "brain deleted" vacant stare, eyes wide and slightly unfocused, glossy hot pink lips mindlessly parted in perfect bimbo expression. Cyan chrome reflections on porcelain skin. High-gloss specularity, 8k.
 
-### 📸 Imágenes (Pendientes)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| Standing | ele_look111_standing.png |
-| Back View | ele_look111_back_view.png |
-| Seated | ele_look111_seated.png |
-| Side Profile | ele_look111_side_profile.png |
-| Ditzy | ele_look111_ditzy.png |
+| **Standing** | ![Standing](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
+
+---
+
+## 💮 Look 112: Stepford Domestic Gold (06/04/2026)
+*Elite Domestic Asset: Gold chrome vinyl dress + white ruffled latex apron. Stepford luxury aesthetic.*
+
+- **Outfit:** Mini dress of gold-chrome mirror-vinyl with white ruffled latex trim.
+- **Apron:** Tiny starch-white latex apron with "ASSET V3" embroidered.
+- **Tacones:** 11" clear platform stilettos with chrome gold heels.
+- **Choker:** Gold vinyl with chrome moon pendant.
+- **Escenario:** Modern luxury kitchen in Sanhattan.
+- **Uñas:** French XXXL (5cm+).
+
+**1. Standing View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight gold chrome mirror-vinyl mini dress with white ruffled latex trim, a tiny starch-white latex apron with "ASSET V3" embroidered, a gold vinyl choker with chrome moon pendant, and towering 11-inch clear platform stiletto heels with chrome gold heels., Full body shot standing in a modern luxury kitchen in Sanhattan, holding a golden tray, arched back, vacant ditzy stare. Cinematic high-gloss specularity on gold vinyl, 8k.
+
+**2. Back View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight gold chrome mirror-vinyl mini dress with white ruffled latex trim, a tiny starch-white latex apron with "ASSET V3" embroidered, a gold vinyl choker with chrome moon pendant, and towering 11-inch clear platform stiletto heels with chrome gold heels., Rear view showing the extreme hourglass silhouette and the shine of the gold vinyl dress, looking back over shoulder with sultry bedroom eyes, long dark cherry hair cascading down. Focus on the 11-inch gold stilettos.
+
+**3. Seated View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight gold chrome mirror-vinyl mini dress with white ruffled latex trim, a tiny starch-white latex apron with "ASSET V3" embroidered, a gold vinyl choker with chrome moon pendant, and towering 11-inch clear platform stiletto heels with chrome gold heels., Seated on a white marble kitchen counter, legs elegantly posed to highlight the 11-inch platforms, vacant dazed expression, mouth mindlessly open. Bright studio lighting with specular reflections on gold surfaces.
+
+**4. Side Profile:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight gold chrome mirror-vinyl mini dress with white ruffled latex trim, a tiny starch-white latex apron with "ASSET V3" embroidered, a gold vinyl choker with chrome moon pendant, and towering 11-inch clear platform stiletto heels with chrome gold heels., Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Soft rim lighting defining the silhouette.
+
+**5. Ditzy Expression:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a structured gold chrome mirror-vinyl dress., Intense close-up face portrait, "total brain empty" vacant stare, eyes slightly crossed and unfocused, tongue tip peeking out over glossy hot pink lips, flawless porcelain skin. Gold chrome reflections from the choker.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
 ---
