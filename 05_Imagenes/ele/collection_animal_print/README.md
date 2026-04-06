@@ -28,4 +28,4 @@ Total imágenes: 6
 - [helena_animal_print_leopard_side_profile.png](./helena_animal_print_leopard_side_profile.png)
 
 ---
-*Actualizado automáticamente: 2026-04-04*
+*Actualizado automáticamente: 2026-04-06*
