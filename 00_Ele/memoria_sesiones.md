@@ -31,7 +31,7 @@
   | **Estado Actual** | 🟡 **PAUSADO** - Despliegue editorial Wattpad completado. |
   | **Último Look Ele** | **Look 112 (Stepford Domestic Gold)** — 06/04/2026 ✅ 5/5 poses |
 
-  | **Última Generación** | Look 112 (5/5) + Look 111 COMPLETO (5/5). |
+  | **Última Generación** | Batch Portadas (4 relatos) + Look 112 (5/5). Look 113 (Pausado por cuota API). |
 
 
  ### Tareas Pendientes Inmediatas

@@ -1,5 +1,5 @@
 # 🖼️ Galería: portadas
-Total imágenes: 42
+Total imágenes: 50
 
 ## ✨ Colección Destacada
 | | | |
@@ -21,7 +21,9 @@ Total imágenes: 42
 | ![look106_v5.png](./look106_v5.png) | ![look107_v1.png](./look107_v1.png) | ![look107_v2.png](./look107_v2.png) | ![look107_v3.png](./look107_v3.png) |
 | ![look107_v4.png](./look107_v4.png) | ![look107_v5.png](./look107_v5.png) | ![look108_v1.png](./look108_v1.png) | ![look108_v2.png](./look108_v2.png) |
 | ![look108_v3.png](./look108_v3.png) | ![look108_v4.png](./look108_v4.png) | ![look108_v5.png](./look108_v5.png) | ![portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png) |
-| ![portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png) | ![portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png) | ![portada_smart_home_stepford.png](./portada_smart_home_stepford.png) | ![v1_standing_106.png](./v1_standing_106.png) |
+| ![portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png) | ![portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png) | ![portada_esposa_de_mi_esposa.png](./portada_esposa_de_mi_esposa.png) | ![portada_esposa_de_mi_esposa_descartada.png](./portada_esposa_de_mi_esposa_descartada.png) |
+| ![portada_hr_human_repurposing.png](./portada_hr_human_repurposing.png) | ![portada_hr_human_repurposing_descartada.png](./portada_hr_human_repurposing_descartada.png) | ![portada_proyecto_trad_wife.png](./portada_proyecto_trad_wife.png) | ![portada_proyecto_trad_wife_descartada.png](./portada_proyecto_trad_wife_descartada.png) |
+| ![portada_smart_home_stepford.png](./portada_smart_home_stepford.png) | ![portada_trance_bimbodoll.png](./portada_trance_bimbodoll.png) | ![portada_trance_bimbodoll_descartada.png](./portada_trance_bimbodoll_descartada.png) | ![v1_standing_106.png](./v1_standing_106.png) |
 | ![v1_standing_107.png](./v1_standing_107.png) | ![v5_ditzy_106.png](./v5_ditzy_106.png) | ![v5_ditzy_107.png](./v5_ditzy_107.png) | ![wattpad_home_verification_check_1775147464527.png](./wattpad_home_verification_check_1775147464527.png) |
 | ![wattpad_profile_full_1775148416153.png](./wattpad_profile_full_1775148416153.png) | ![wattpad_settings_verification_status_1775147488696.png](./wattpad_settings_verification_status_1775147488696.png) |
 
@@ -63,7 +65,15 @@ Total imágenes: 42
 - [portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png)
 - [portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png)
 - [portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png)
+- [portada_esposa_de_mi_esposa.png](./portada_esposa_de_mi_esposa.png)
+- [portada_esposa_de_mi_esposa_descartada.png](./portada_esposa_de_mi_esposa_descartada.png)
+- [portada_hr_human_repurposing.png](./portada_hr_human_repurposing.png)
+- [portada_hr_human_repurposing_descartada.png](./portada_hr_human_repurposing_descartada.png)
+- [portada_proyecto_trad_wife.png](./portada_proyecto_trad_wife.png)
+- [portada_proyecto_trad_wife_descartada.png](./portada_proyecto_trad_wife_descartada.png)
 - [portada_smart_home_stepford.png](./portada_smart_home_stepford.png)
+- [portada_trance_bimbodoll.png](./portada_trance_bimbodoll.png)
+- [portada_trance_bimbodoll_descartada.png](./portada_trance_bimbodoll_descartada.png)
 - [v1_standing_106.png](./v1_standing_106.png)
 - [v1_standing_107.png](./v1_standing_107.png)
 - [v5_ditzy_106.png](./v5_ditzy_106.png)
