@@ -2272,11 +2272,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (0/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | [Pendiente] |
-| **Back View** | [Pendiente] |
-| **Seated** | [Pendiente] |
-| **Side Profile** | [Pendiente] |
-| **Ditzy** | [Pendiente] |
+| **Standing** | ![Standing](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
 
