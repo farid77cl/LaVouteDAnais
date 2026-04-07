@@ -92,13 +92,13 @@ Alberto visita. Primera mirada externa sobre Rocío. El circuito vergüenza/exci
 **Escena A — Preparativos:**
 Rocío debe servir la cena de rodillas. Vestido de cóctel ultra ajustado. Faja que reduce la cintura.
 
-**Escena B — La Cena:**
-Alberto y otros invitados. Rocío sirve. Es utilizada oralmente por Isabel ante los ojos de todos.
+**Escena B — La Cena con Andrés:**
+Andrés es el invitado. Rocío sirve. Es utilizada oralmente por Isabel ante los ojos de Andrés. La humillación ante su rival profesional.
 
 **Escena C — El Orgasmo Pasivo:**
-Rocío eyacula sin tocarse, solo por la humillación y el roce de la seda.
+Rocío eyacula sin tocarse, solo por la humillación y el roce de la seda, mientras Andrés observa.
 
-**Punto de Inflexión:** La aceptación: su placer solo existe a través de la voluntad de Isabel y su identidad femenina.
+**Punto de Inflexión:** La aceptación: su placer solo existe a través de la voluntad de Isabel y su identidad femenina. La presencia de Andrés acelera la rendición.
 
 ---
 
@@ -149,7 +149,7 @@ Rocío, presentada al rival que creía derrotado, es entregada. Andrés toma pos
 | 1 | 18:00 | Hallazgo del baúl y primera humillación | Cap. 1 |
 | 7 | 23:00 | El conjunto negro puesto por Isabel | Cap. 2 |
 | 15 | 21:00 | Hipnosis con cintas de Anaís | Cap. 3 |
-| 21 | 20:00 | La Cena de la Humillación (Alberto) | Cap. 4 |
+| 21 | 20:00 | La Cena con Andrés (primer encuentro como Rocío) | Cap. 4 |
 | 30 | 10:00 | Quema de ropa, tatuaje, peinado permanente | Cap. 5 |
 | 35 | 22:00 | La Cena con Andrés | Cap. 6 |
 
