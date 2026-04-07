@@ -27,4 +27,4 @@ Total imágenes: 5
 - [custom_missdoll_general_s076_interrogatorio_rosa.png](./custom_missdoll_general_s076_interrogatorio_rosa.png)
 
 ---
-*Actualizado automáticamente: 2026-04-06*
+*Actualizado automáticamente: 2026-04-07*

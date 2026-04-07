@@ -2244,3 +2244,40 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 **Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
 ---
+
+## 💮 Look 113: Neon Pink Latex Gym Bimbo (07/04/2026)
+*Elite Gym Asset: High-resistance neon pink latex sportswear. Sweat and plastic.*
+
+- **Outfit:** Skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels.
+- **Tacones:** 11-inch clear platform stilettos with neon pink vinyl straps (Extreme-11 style).
+- **Choker:** Neon pink latex choker with silver O-ring.
+- **Escenario:** High-tech luxury neon lit gym with mirrors.
+- **Uñas:** French XXXL (5cm+).
+
+**1. Standing View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels, a neon pink latex choker with a silver O-ring, and towering 11-inch clear platform stiletto heels with neon pink vinyl straps., Full body shot standing in a luxury neon-lit gym lounge, holding a small pink dumbbell like an accessory, arched back, vacant ditzy stare. Cinematic high-gloss specularity on latex, artificial sweat, 8k.
+
+**2. Back View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels, a neon pink latex choker with a silver O-ring, and towering 11-inch clear platform stiletto heels with neon pink vinyl straps., Rear view showing the extreme hourglass silhouette encased in neon pink latex, looking back over shoulder with sultry bedroom eyes, long dark cherry hair cascading down. Focus on the 11-inch stilettos.
+
+**3. Seated View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels, a neon pink latex choker with a silver O-ring, and towering 11-inch clear platform stiletto heels with neon pink vinyl straps., Seated elegantly on a silver gym bench, legs crossed to highlight the 11-inch platforms, vacant dazed expression, mouth mindlessly open. Bright neon studio lighting with specular latex reflections.
+
+**4. Side Profile:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra and matching high-waisted latex workout leggings with black mesh panels, a neon pink latex choker with a silver O-ring, and towering 11-inch clear platform stiletto heels with neon pink vinyl straps., Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Soft rim lighting defining the glowing pink silhouette.
+
+**5. Ditzy Expression:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra., Intense close-up face portrait, "total brain empty" vacant gym stare, eyes slightly crossed and unfocused, tongue tip peeking out over glossy hot pink lips, flawless porcelain skin glistening with artificial sweat.
+
+### 📸 Imágenes (0/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | [Pendiente] |
+| **Back View** | [Pendiente] |
+| **Seated** | [Pendiente] |
+| **Side Profile** | [Pendiente] |
+| **Ditzy** | [Pendiente] |
+
+**Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
+
+---
