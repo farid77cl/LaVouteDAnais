@@ -1,6 +1,6 @@
 # Walkthrough: El Secreto de la Cómoda — Reestructuración del Arco
 
-**Estado:** Pendiente de aprobación de la Ama  
+**Estado:** Aprobado por la Ama ✓  
 **Fecha:** 2026-04-07  
 **Agente:** Orquestador
 
@@ -119,22 +119,22 @@ Isabel le tatúa una marca de propiedad en el muslo, oculto bajo el liguero. El 
 
 ---
 
-#### Capítulo 6: La Cena con Andrés (~4,000 palabras)
+#### Capítulo 6: La Consagración Final (~4,000 palabras)
 
 **Escena A — Preparativos Especiales:**
 Isabel prepara a Rocío con esmero particular. *"Esta noche es especial."* Un nuevo nivel de maquillaje, un vestido más revelador.
 
-**Escena B — La Llegada de Andrés:**
-La puerta se abre. Entra Andrés — el mismo rival del Capítulo 1. Ricardo, ahora Rocío, lo reconoce. El pánico.
+**Escena B — El Regreso de Andrés:**
+Andrés regresa — el mismo que presenció la cena del Cap. 4. Ahora viene por completo.
 
-**Escena C — La Presentación:**
-Isabel presenta a Rocío ante Andrés. *"Mi marido tenía algo que quería compartir contigo."* La ironía del poder invertido.
+**Escena C — La Entrega:**
+Isabel presenta a Rocío para uso completo de Andrés. *"Mi marido tenía algo que quería compartir contigo."* La ironía del poder invertido.
 
 **Escena D — El Cierre de Andrés:**
-Andrés reconoce a Rocío. Se acerca. Le dice al oído: *"Ahora yo voy a estar sobre ti."* O variación que la Ama prefiera.
+Andrés toma posesión de Rocío. Le dice al oído: *"Ahora yo voy a estar sobre ti."* O variación que la Ama prefiera.
 
 **Escena E — La Consagración Final:**
-Rocío, presentada al rival que creía derrotado, es entregada. Andrés toma posesión. Isabel observa.
+Rocío es follada por Andrés. Isabel observa. La inversión completa: el triunfador del Cap. 1 ahora es poseído por su rival.
 
 **Punto de Inflexión Final:** La inversión completa del poder. El hombre que cerró el trato triunfador sobre Andrés ahora está de rodillas ante él, feminizado, entregado. La frase del Capítulo 1 regresa invertida. Paz en la nada.
 
@@ -149,9 +149,9 @@ Rocío, presentada al rival que creía derrotado, es entregada. Andrés toma pos
 | 1 | 18:00 | Hallazgo del baúl y primera humillación | Cap. 1 |
 | 7 | 23:00 | El conjunto negro puesto por Isabel | Cap. 2 |
 | 15 | 21:00 | Hipnosis con cintas de Anaís | Cap. 3 |
-| 21 | 20:00 | La Cena con Andrés (primer encuentro como Rocío) | Cap. 4 |
+| 21 | 20:00 | La Cena con Andrés (primer encuentro como Rocío, solo observa) | Cap. 4 |
 | 30 | 10:00 | Quema de ropa, tatuaje, peinado permanente | Cap. 5 |
-| 35 | 22:00 | La Cena con Andrés | Cap. 6 |
+| 35 | 22:00 | La Consagración Final: Andrés toma posesión de Rocío | Cap. 6 |
 
 ---
 
@@ -175,16 +175,14 @@ Rocío, presentada al rival que creía derrotado, es entregada. Andrés toma pos
 - **Isabel Marchetti** — Dominante / Arquitecta
 - **Anaís (†)** — Fuerza estructural (voz en cintas)
 - **Camila Vidal** — Catalizador externo (fotos del chantaje)
-- **Alberto** — Testigo del canon (Cap. 3-4)
-
 ### Nuevo Personaje
-- **Andrés** — Rival profesional de Ricardo. Aplastado en Cap. 1. Presente en Cap. 6 como el hombre que toma posesión de Rocío. Representa la inversión total del poder: Ricardo creía haberlo derrotado, pero termina sometido a él.
+- **Andrés** — Rival profesional de Ricardo. Aplastado en Cap. 1. Presente en Cap. 4 (observa a Rocío servir y ser humillada) y Cap. 6 (toma posesión sexual completa). Representa la inversión total del poder: Ricardo creía haberlo derrotado, pero termina sometido a él.
 
 **Función narrativa de Andrés:**
-1. Establece el poder inicial de Ricardo (triunfo profesional)
-2. Crea expectativa de que Ricardo "gana"
+1. Establece el poder inicial de Ricardo (triunfo profesional, Cap. 1)
+2. Primer testigo externo de Rocío en Cap. 4 (acelera la humillación)
 3. En Cap. 6, completa la inversión del arco: quien perdió profesionalmente gana sexual y absolutamente
-4. Su frase final cierra el círculo con la frase del Cap. 1
+4. Su frase final cierra el círculo con la frase del Capítulo 1
 
 ---
 
@@ -213,10 +211,8 @@ Rocío, presentada al rival que creía derrotado, es entregada. Andrés toma pos
 Este walkthrough debe ser revisado por la Ama antes de proceder con los cambios.
 
 **Preguntas para la Ama:**
-1. ¿La frase final de Andrés es correcta o desea modificarla?
-2. ¿Desea que Andrés tenga más presencia en capítulos intermedios o solo en apertura y cierre?
-3. ¿El "conjunto negro" debe ser descrito con detalle específico (pieza por pieza)?
-4. ¿Desea mantener la cena con Alberto del Cap. 4 o reemplazarla/addicionar la cena con Andrés?
+1. ¿La frase final de Andrés es correcta (*"Ahora yo voy a estar sobre ti"*) o desea otra variación? ✓ **APROBADO**
+2. ¿El "conjunto negro" debe ser descrito con detalle específico (pieza por pieza)? ✓ **APROBADO**
 
 ---
 

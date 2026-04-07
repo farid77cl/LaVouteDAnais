@@ -1,22 +1,61 @@
-# ⏳ Línea de Tiempo Maestra: El Secreto de la Cómoda
+# ⏳ Línea de Tiempo Maestra: El Secreto de la Cómoda — V3
+## Arco con Inversión de Poder (Andrés)
 
 > **Regla de Continuidad:** Cualquier agente que escriba un capítulo DEBE consultar esta tabla para asegurar que Ricardo vista la ropa correcta, se encuentre en el estado mental adecuado y se respete la duración del *edging* (castidad).
+
+---
 
 ## 🗓️ Cronograma Diario de Transformación
 
 | Día | Fecha/Hora | Capítulo | Evento Narrativo | Estado de Vestuario | Estado de Castidad / Edging |
 |:---:|:---|:---:|:---|:---|:---|
-| **1** | Viernes<br>20:00 hrs | **Cap 1** | **El Descubrimiento:** Ricardo llega de Lima. Isabel lo confronta en las profundidades de su *walk-in closet* con las fotos del hotel y el baúl de la tía Anaïs. | Traje Zegna completo. Corbata de seda. Sudor frío. | Tensión biológica por excitación involuntaria frente al miedo. |
-| **1** | Viernes<br>21:00 hrs | **Cap 2** | **La Jaula:** Isabel lo domina, le instala el asfixiante corsé de Anaïs, y explota en cólera por los 7 años de engaños justo tras destrozarle la próstata. | Corsé vintage de alta compresión + Jaula de castidad metálica. Lágrimas de rodillas. | **DÍA 1:** Isabel fuerza un brutal *orgasmo arruinado*. Bloquea su liberación en el milisegundo final y cierra el candado. |
-| **4 a 8** | Lunes a Viernes<br>09:30 hrs | **Cap 3** | **La Oficina y las Tangas:** Ricardo transita la semana ejecutiva con el acero clavándose. Isabel decide cada mañana qué color de tanga de encaje usará SOBRE la jaula. | Traje corporativo impecable, pero escondiendo el corsé apretado, la jaula letal y una estridente tanga de hilo dental que le corta la circulación. | **DÍA 4 a 8:** Excitación acumulada. Dolor físico por la jaula y la fricción inútil del encaje de la tanga. |
-| **7** | Jueves<br>15:00 hrs | **Cap 3** | **Sometimiento Remoto:** Isabel lo tortura vía WhatsApp. Ricardo colapsa en el baño de ejecutivos, intentando frotar la jaula en vano y rasgando la tanga negra del día. | Traje corporativo deshecho, lencería negra a la vista y candado frío en el mármol del retrete. | **DÍA 7:** Locura hormonal. Ocurre un mini clímax por roce prostático (micro-ruined orgasm). |
-| **9** | Sábado<br>11:00 hrs | **Cap 4** | **El Bautismo Anal:** Isabel decreta la "muerte" formal de Ricardo. Lo viste frente al espejo de forma caricaturizada y lo somete con el *strap-on* histórico. | Vestido sissy completo 60s, medias, tanga de encaje, liguero, tacones aguja, maquillaje excesivo y peluca over-the-top. | **DÍA 9:** La castidad persiste DURANTE la sodomización. Dolor+Placer absoluto. Bautizado finalmente como *Rocío*. |
-| **10** | Domingo<br>20:00 hrs | **Cap 5** | **Festín de los Rivales:** Cena corporativa en el penthouse. Rocío sirve a los enemigos de Ricardo y es usada por todos ellos. | Faja de látex ultra-ajustada, tanga invisible, collar de sumisión, maquillaje grotescamente perfecto. | **DÍA 10 (Clímax):** Tras mamar vergas y ser degradada públicamente, Isabel SUELTA LA LLAVE. Orgasmo devoto y pasivo. |
+| **1** | Viernes<br>10:00 hrs | **Cap 1** | **La Llamada Triunfadora:** Ricardo aplasta a Andrés en negociación. Frase: *"Ricardo siempre va a estar sobre Andrés."* | Traje Brioni completo. Oficina. | Tensión de poder. Triunfo. |
+| **1** | Viernes<br>11:00 hrs | **Cap 1** | **La Segunda Llamada:** Ricardo llama para celebrar. *"Prepara el conjunto negro."* El lector asume: lencería para amante. | Traje Brioni. | Excitación anticipatoria. |
+| **1** | Viernes<br>18:00 hrs | **Cap 1** | **El Baúl de Anaís:** Isabel lo lleva al sótano. La primera faja. El primer corchete. El cuerpo traiciona. | Faja Rago nude. Primer corchete cerrado. | **DÍA 1:** Orgasmo involuntario sobre el encaje vintage. |
+| **1** | Viernes<br>19:00 hrs | **Cap 1** | **El Reveal de Isabel:** *"Hace dos meses una mujer me contó exactamente lo que ibas a sentir."* El chantaje activado. | Faja Rago. | Vergüenza + rendición. |
+| **7** | Jueves<br>23:00 hrs | **Cap 2** | **El Conjunto Negro:** Isabel viste a Ricardo con el conjunto que él pidió. *"Creíste que era para tu amante, gordi."* | Conjunto negro completo: bullet bra satén negro, faja Rago látex negro, medias nylon cristal, panty encaje, tacones 12cm. | **DÍA 7:** Primera penetración. El cuerpo responde a "Rocío." |
+| **15** | Viernes<br>21:00 hrs | **Cap 3** | **Hipnosis con Cintas de Anaís:** La voz de Anaís disolviendo la masculinidad. Régimen 24/7. | Faja, medias, tacones permanentes. | **DÍA 15:** Lavado de cerebro retro-acústico. |
+| **15** | Viernes<br>22:00 hrs | **Cap 3** | **Alberto (Testigo del Canon):** Primera mirada externa sobre Rocío. Circuito vergüenza/excitación ante tercero. | Vestido de cóctel. Maquillaje 60s. | Humillación social activada. |
+| **21** | Jueves<br>20:00 hrs | **Cap 4** | **La Cena con Andrés:** Rocío sirve. Es utilizada oralmente por Isabel ante los ojos de su rival profesional. | Vestido de cóctel ultra ajustado. Faja que reduce cintura. | **DÍA 21:** Orgasmo pasivo sin toque, solo por humillación. |
+| **30** | Sábado<br>10:00 hrs | **Cap 5** | **Quema de Ropa de Hombre:** Ricardo presencia la quema de su traje de bodas y ejecutivo. Identidad anterior en cenizas. | Vestido New Look. Maquillaje permanente. | Destrucción física de identidad anterior. |
+| **30** | Sábado<br>14:00 hrs | **Cap 5** | **El Tatuaje:** Isabel le tatúa el sello de Anaís en el muslo interno. | Vestido New Look. Tatuaje oculto bajo liguero. | Marca permanente de propiedad. |
+| **35** | Jueves<br>22:00 hrs | **Cap 6** | **La Consagración Final:** Isabel presenta a Rocío para uso completo de Andrés. Frase: *"Ahora yo voy a estar sobre ti."* | Vestido revelador. Maquillaje especial. Conjunto negro renovado. | **DÍA 35:** Inversión total del poder. Posesión completa. |
 
 ---
 
 ## 🔑 Reglas Fijas del Cronograma
 
-1. **El Candado NUNCA se abre** desde el Día 1 (Viernes en la noche, post-orgasmo arruinado) hasta el final del Día 10 (Domingo del banquete). Son **10 días consecutivos** de retención y tortura prostática aguda.
-2. **El Corsé y las Tangas NO se quitan:** En el Capítulo 3 debe mostrarse a Ricardo asfixiándose, el hilo dental torturándolo al caminar mientras es el "gran" gerente Zegna.
-3. **Punto de Quiebre (Día 9):** La penetración anal debe destrozar y resetear su ego masculino *antes* de la humillación grupal.
+1. **El "conjunto negro" es el símbolo de la ironía dramática:** Ricardo lo pidió en Cap. 1 para su celebración secreta. Isabel lo usa en Cap. 2 como herramienta de transformación. Aparece renovado en Cap. 6 para la consagración final.
+
+2. **La frase de Andrés cierra el círculo:** 
+   - Cap. 1: *"Ricardo siempre va a estar sobre Andrés."* (triunfo profesional)
+   - Cap. 6: *"Ahora yo voy a estar sobre ti."* (inversión sexual)
+
+3. **Andrés aparece en tres puntos estructurales:**
+   - Cap. 1: Solo voz (llamada telefónica)
+   - Cap. 4: Presencia física (la cena, observa humillación)
+   - Cap. 6: Posesión completa (la consagración final)
+
+4. **Alberto es testigo del canon en Cap. 3:** No aparece en la cena con Andrés. Su función es conectar con el legado de Anaís, no con la inversión profesional.
+
+5. **Procesos con duración mínima:**
+   - Reconfiguración anal y prostática: 15 días de dilatación sistemática
+   - Lavado de cerebro retro-acústico: 20 días de cintas de Anaís
+
+---
+
+## 📊 Hitos de Curva de Rendición
+
+| Día | Estado | Porcentaje | Momento |
+|-----|--------|------------|---------|
+| 1 | RESISTENCIA | 15% | "Isabel, esto es demasiado" |
+| 1 | REVELACIÓN | 15% | Entender que el "conjunto negro" era para él |
+| 7 | CONFUSIÓN | 20% | Excitación incontrolable al ser penetrado vestido de seda |
+| 15 | TRAICIÓN DEL CUERPO | 15% | El cuerpo responde a "Rocío" |
+| 21 | HUMILLACIÓN ANTE RIVAL | 15% | Andrés presencia la rendición |
+| 30 | ACEPTACIÓN | 10% | "Por favor, Ama, déjame ser tu Rocío" |
+| 35 | INVERSIÓN FINAL | 10% | Andrés cierra el círculo del poder |
+
+---
+
+*Protocolo del Orquestador: La Voûte no solo escribe, orquesta el deseo.*

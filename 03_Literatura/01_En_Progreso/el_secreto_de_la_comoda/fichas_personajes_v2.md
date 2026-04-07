@@ -73,6 +73,7 @@ Todo lo anterior. Y debajo de esa vergüenza: que le guste más que cualquier co
 | Con Anaís (†) | Desconocida. Solo conocía el mito familiar | La voz que lo deshace y lo rehace. |
 | Con Alberto | Igual social (ambos en Sanhattan) | Alberto lo evalúa como objeto. Ricardo lo registra con la frialdad contable de quien ya no tiene ego disponible. |
 | Con Camila Vidal | Amante. Creía que el compartimento estaba sellado | Ella entregó el mapa y las fotos. La traición de ella fue lo que hizo posible la de Isabel. |
+| **Con Andrés** | **Rival profesional. Triunfador.** *"Ricardo siempre va a estar sobre Andrés."* | **Poseído. Invertido.** *"Ahora yo voy a estar sobre ti."* |
 
 ### Programación / Triggers
 
@@ -85,6 +86,8 @@ Todo lo anterior. Y debajo de esa vergüenza: que le guste más que cualquier co
 | "Rocío" en voz baja de Isabel | Activación del estado sumiso desde Cap. 2 | Cap. 2 → continuo |
 | Voz de Anaís en cintas | Hipnosis auditiva progresiva. "Ricardo" se hace pequeño. | Caps. 2-6 |
 | Ser observado por terceros | Circuito vergüenza/excitación | Cap. 3, 4, 6 |
+| **Presencia de Andrés** | **Circuito vergüenza/excitación amplificado por rivalidad profesional** | **Cap. 4, 6** |
+| **Frase invertida de Andrés** | **Cierre del círculo. Reconocimiento de la inversión total.** | **Cap. 6** |
 | Clic del candado de latón | Cierre definitivo. El sonido de la respuesta, no de la celda. | Cap. 6 |
 
 **Deriva de vocabulario:**
@@ -168,6 +171,7 @@ Nada visible. Posiblemente, en privado: el placer con que hace esto. La pregunta
 | Con Anaís (†) | Alumna que no pudo completar la lección hasta ahora. Al final: heredera y continuadora. |
 | Con Camila Vidal | Una conversación. Sin odio. Camila fue el instrumento involuntario de la transmisión. Isabel no le debe gratitud: le debe la ocasión. |
 | Con Alberto | Cómplice del canon. Él legitima la continuidad de Anaís en el presente. |
+| **Con Andrés** | **Instrumento de la inversión final. Ella le entrega el poder sobre Rocío.** |
 
 ### Programación / Triggers
 
@@ -287,18 +291,115 @@ Cómplice de largo plazo, aunque no de la planificación específica de Zapallar
 
 ---
 
-## Nota de Continuidad — Modificación del Arco Central
+## Andrés — Rival / Inversor del Poder
 
-### Lo que cambia en el arco con el backstory V2
+### Apariencia
 
-| Elemento | V1 (original) | V2 (con backstory) |
-|----------|--------------|-------------------|
-| Motivación de Isabel | Herencia de Anaís + 11 años de subordinación | Lo anterior + deuda de la infidelidad + mapa del fetiche entregado por Camila + fotos como arma |
-| Por qué Ricardo cede | Fetiche + olor + autoridad femenina de Isabel | Lo anterior + culpa preexistente que erosiona la postura moral de su resistencia |
-| El chantaje en Cap. 2 | Fotos tomadas en Zapallar como prueba | Las fotos de Camila (anteriores a Zapallar) son el arma principal. Las de Zapallar refuerzan. Ricardo sabe que el archivo precede a la trampa. |
-| La resistencia de Ricardo | Orgullo ejecutivo sin otra capa | Orgullo ejecutivo + culpa que le quita tres centímetros de altura moral |
-| El reveal | No existía | Nuevo beat en Cap. 1: Isabel le dice que sabía, después del primer corsé. Colapso del territorio de iniciativa. |
-| La duda de Isabel en Cap. 2 | "¿Voy demasiado lejos?" | "¿Sigue siendo venganza o ya es mío?" — la venganza como puerta, no como destino. |
+| Atributo | Descripción |
+|----------|-------------|
+| Edad | 44 |
+| Ocupación | Ejecutivo, fondo de inversión rival |
+| Complexión | Alto (1.85m), atlético, postura dominante |
+| Rostro | Angular, mandíbula marcada, cejas pobladas, mirada calculadora |
+| Cabello | Castaño oscuro con canas en las sienes, corto, ejecutivo |
+| Ojos | Café oscuro, mirada directa, sin titubeos |
+| Vestimenta característica | Trajes italianos de corte moderno. Corbatas oscuras. Reloj deportivo de lujo. |
+| Marcas | Ninguna visible. |
+
+### Psicología
+
+**Motivaciones profundas:**
+Andrés es el rival profesional de Ricardo. No es un enemigo personal: es un competidor que ha perdido negociaciones ante Ricardo durante años. La derrota del Cap. 1 no es la primera, pero es la más humillante. La frase de Ricardo —*"Ricardo siempre va a estar sobre Andrés"*— queda grabada.
+
+No busca venganza activa. No es un conspirador. Es un hombre que reconoce una oportunidad cuando aparece. Isabel lo invita a la cena del Cap. 4 sin explicaciones completas. Andrés acepta. Cuando ve a Rocío servir, cuando presencia la humillación de quien lo derrotó, entiende todo.
+
+En el Cap. 6, Isabel le ofrece la posesión completa. Andrés la toma. No por crueldad, sino porque el poder se le fue entregado. Su frase final —*"Ahora yo voy a estar sobre ti"*— no es una declaración de odio: es el reconocimiento de que el poder cambió de manos.
+
+**Miedos:**
+- Ninguno visible. Es un hombre que ha aprendido a ganar y a perder con la misma cara.
+
+**Mecanismos:**
+El control emocional absoluto. Nunca muestra sorpresa. Nunca muestra exceso de triunfo. Su poder es silencioso y efectivo.
+
+**¿Qué le excita?**
+La victoria. El reconocimiento de que el poder tiene dueño y él puede serlo. Ver a un rival reducido a servidumbre. Tomar posesión de lo que otro creía suyo.
+
+**¿Qué le avergüenza?**
+Nada que sea visible.
+
+### Voz
+
+**EN CAP. 1 (solo voz telefónica):**
+Profesional, contenida. El tono de quien pierde una negociación sin dejar de parecer que gana algo más. *"Entendido, Ricardo. Hablamos la próxima."*
+
+**EN CAP. 4 (la cena):**
+Tranquila, evaluadora. No hace comentarios directos sobre Rocío. Solo observa. Su silencio es más devastador que cualquier burla. Frases cortes: *"Excelente servicio."* *"¿Puedo pedirte otro vino?"*
+
+**EN CAP. 6 (la consagración):**
+La frase final es deliberada. No es un gemido ni un grito. Es una declaración: *"Ahora yo voy a estar sobre ti."* La misma estructura de la frase triunfadora de Ricardo, invertida.
+
+### Arco
+
+**ANTES:** El rival que siempre pierde ante Ricardo. La humillación acumulada de años de negociaciones perdidas.
+
+**CAP. 1:** Pierde otra vez. La frase de Ricardo queda grabada. *"Ricardo siempre va a estar sobre Andrés."*
+
+**CAP. 4:** Presencia la transformación. No comenta. Solo observa. Entiende que el poder tiene dueño nuevo.
+
+**CAP. 6:** Toma posesión completa. La frase final cierra el círculo. El poder invertido.
+
+**DESPUÉS:** Andrés no necesita hacer nada más. Su presencia en la historia ha cumplido su función: el cierre estructural del arco de inversión de poder.
+
+### Dinámicas de Poder
+
+| Relación | Dinámica inicial | Dinámica final |
+|----------|-----------------|----------------|
+| Con Ricardo | Rival derrotado. Siempre segundo. | Poseedor de Rocío. Primero. |
+| Con Isabel | Desconocida. | Cómplice de la inversión. Ella le entregó el poder. |
+| Con Rocío | No existe. | Propiedad. Sumisión total. |
+
+### Función Narrativa
+
+Andrés tiene tres funciones estructurales:
+
+1. **Establecer el poder inicial de Ricardo (Cap. 1):** La frase triunfadora marca la cima del arco. Sin esta escena, la inversión final no tiene punto de comparación.
+
+2. **Primer testigo externo de la rendición (Cap. 4):** Su presencia acelera la humillación de Rocío. No es la mirada de Isabel ni la de Alberto: es la mirada del rival que lo derrotó.
+
+3. **Cerrar el círculo del poder invertido (Cap. 6):** La frase final completa la inversión. El poder profesional y sexual colapsan en un solo gesto.
+
+**Andrés no es un personaje que evoluciona. Es un personaje que marca posiciones.**
+
+### Prompt IA
+`Chilean executive male, 44, 1.85m, athletic build, strong jaw, dark hair with gray temples, dark brown calculating eyes — signature: modern Italian suits, dark ties, luxury sport watch — expression: controlled, direct, no hesitation, winner's calm`
+
+---
+
+## Nota de Continuidad — Modificación del Arco Central V3
+
+### Lo que cambia en el arco con la inclusión de Andrés
+
+| Elemento | V2 (sin Andrés) | V3 (con Andrés) |
+|----------|-----------------|-----------------|
+| **Apertura** | Ricardo llega a Zapallar sin contexto previo | Ricardo cierra trato triunfador sobre Andrés. Frase: *"Ricardo siempre va a estar sobre Andrés."* |
+| **Segunda llamada** | No existía | Ricardo llama para celebrar: *"Prepara el conjunto negro."* Ironía dramática. |
+| **El "conjunto negro"** | No existía | Lencería que Ricardo pidió para sí. Isabel lo usa como primera capa de transformación. |
+| **Testigo externo Cap. 4** | Solo Alberto (Cap. 3) | Alberto en Cap. 3. **Andrés en Cap. 4:** cena con el rival transformado. |
+| **Cierre del arco** | Rocío como asset de Isabel | Rocío poseída por Andrés. Frase: *"Ahora yo voy a estar sobre ti."* Inversión completa. |
+| **Tema central** | Herencia de Anaís + venganza | Lo anterior + **inversión del poder profesional/sexual** |
+
+### El arco de Andrés — instrucciones para el escritor
+
+Andrés aparece en tres momentos estructurales:
+
+1. **Cap. 1 (solo voz):** La llamada triunfadora de Ricardo. Frase: *"Ricardo siempre va a estar sobre Andrés."* El lector entiende que Ricardo tiene poder profesional.
+
+2. **Cap. 4 (presencia física):** La cena. Rocío sirve. Andrés observa la humillación de su rival. No comenta. Solo mira. Su silencio es más devastador que cualquier burla.
+
+3. **Cap. 6 (posesión):** Isabel presenta a Rocío para uso completo de Andrés. La frase final cierra el círculo: *"Ahora yo voy a estar sobre ti."* El poder profesional y sexual colapsan en un solo cierre.
+
+**Efecto estructural:**
+La frase del Cap. 1 establece la posición de Ricardo. La frase del Cap. 6 invierte la posición. El poder no cambia de dueño por accidente: cambia porque Isabel lo diseñó así. La inversión del poder es el tema central del nuevo arco.
 
 ### El beat del reveal — instrucciones para el escritor
 
@@ -316,3 +417,22 @@ No nombra a Camila. No nombra la infidelidad. No muestra las fotos todavía — 
 
 **Efecto psicológico del reveal:**
 Ricardo no puede recuperar la iniciativa porque nunca la tuvo. No fue conducido a algo nuevo: fue esperado en algo que ya era suyo. La vergüenza de haber sido transparente ante alguien que llegó con mapa —que llegó con sus propias fotografías— es el catalizador más poderoso de su rendición. Más que el látex. Más que el olor. Más que la voz de Anaís.
+
+### El "conjunto negro" — instrucciones para el escritor
+
+En Cap. 1, Ricardo hace una segunda llamada telefónica después de triunfar sobre Andrés:
+
+> —Esperame. Quiero celebrar. Prepara el conjunto negro.
+
+El lector asume: lencería para una amante. En Cap. 2, Isabel abre un cajón y extrae el mismo conjunto:
+
+> —Creíste que era para tu amante, gordi. Siempre fue para ti.
+
+La ironía dramática es completa: lo que Ricardo planeaba usar para su celebración secreta se convierte en la herramienta de su transformación.
+
+**Descripción del conjunto negro:**
+- Sujetador bullet bra de satén negro con copas rígidas, varillas de acero, bordado de pedrería negra
+- Faja enteriza Rago de látex negro, varillas de acero, ligueros de metal
+- Medias nylon cristal con costura trasera negra
+- Panty de encaje negro con abertura frontal
+- Tacones de aguja charol negro, 12cm

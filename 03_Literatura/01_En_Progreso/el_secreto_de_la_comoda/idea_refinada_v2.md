@@ -1,21 +1,25 @@
-# Idea Desarrollada: El Secreto de la Cómoda — V2
-*Revisión post-backstory | Agente Ideador*
+# Idea Desarrollada: El Secreto de la Cómoda — V3
+*Revisión con arco de inversión de poder (Andrés) | Agente Ideador*
 
 ---
 
 ## Premisa
 
-Ricardo Marchetti, 42 años, gerente general de un fondo de inversión, cree que el fin de semana en Zapallar es una escapada de rutina. Cree que el baúl de la abuela Anaís es un descubrimiento accidental. Cree que su esposa Isabel lo lleva al sótano por curiosidad familiar. No sabe que Isabel lleva dos meses sosteniendo una llave que él mismo forjó: hace tres años le fue infiel, lo confesó con la frialdad de un contador, recibió el perdón y lo archivó. Lo que no archivó fue la conversación con Camila Vidal en un café de Providencia, donde la amante —ya sin razones para protegerlo— le reveló el secreto más sellado de Ricardo: lleva décadas con un fetiche por ropa femenina, lo vive en silencio, y lo carga como una vergüenza estructural que ha dado forma a todo su mecanismo de control. Antes de levantarse, Camila sacó un sobre del bolso y lo dejó sobre la mesa. Fotografías. Ricardo vestido con ropa interior femenina de ella, tomadas sin que él lo supiera a lo largo de los tres años. *"Haga lo que quiera con esto"*, dijo Camila. Sin instrucciones. Sin crueldad declarada. Solo la transferencia de un archivo que ya no era su responsabilidad guardar.
+Ricardo Marchetti, ejecutivo triunfador, cierra una negociación telefónica aplastando a su rival profesional, Andrés. La frase que sella su victoria: *"Ricardo siempre va a estar sobre Andrés."* En la cima del poder, hace una segunda llamada: un tono distinto, íntimo. *"Esperame. Quiero celebrar. Prepara el conjunto negro."* El lector asume: lencería para una amante. El lector está equivocado.
 
-Isabel no va a Zapallar a descubrir nada. Va a desplegar lo que ya sabe, con el baúl de Anaís como instrumento. El relato es la historia de esa trampa ejecutada con elegancia de cirujano: cómo una mujer que aprendió a pedir durante once años decide, en un solo fin de semana, dejar de hacerlo para siempre. El reveal ocurre cuando Ricardo ya tiene la faja puesta por primera vez y su cuerpo ha traicionado todo: es entonces cuando Isabel, con una calma que es el opuesto exacto de una sorpresa, le dice que sabía. Que siempre supo. Que el baúl no fue un accidente.
+Isabel, su esposa, lleva dos meses sosteniendo una llave que él mismo forjó: hace tres años le fue infiel con Camila Vidal. Lo confesó con la frialdad de un contador, recibió el perdón y lo archivó. Lo que no archivó fue la conversación con Camila en un café de Providencia, donde la amante —ya sin razones para protegerlo— le reveló el secreto más sellado de Ricardo: lleva décadas con un fetiche por ropa femenina. Y le entregó las fotografías. Ricardo vestido con ropa interior de Camila, documentado sin su conocimiento durante tres años.
 
-Lo que empieza como ajuste de cuentas termina siendo herencia. La venganza era la puerta. Lo que Isabel encontró al abrirla es la voz de Anaís diciéndole que el fuego siempre fue suyo.
+Isabel no va a Zapallar a descubrir nada. Va a ejecutar. El baúl de Anaís es el instrumento. El "conjunto negro" que Ricardo pidió en la segunda llamada —el que creía para su celebración secreta— se convierte en la primera capa de su transformación. *"Creíste que era para tu amante, gordi. Siempre fue para ti."*
+
+Lo que empieza como ajuste de cuentas termina siendo herencia. Y termina, también, en inversión total. Porque el rival que Ricardo aplastó en la primera llamada regresa en el capítulo final. Andrés no solo presencia la humillación de Rocío: la completa. Toma posesión sexual de lo que Ricardo creía haber derrotado. Y le dice al oído: *"Ahora yo voy a estar sobre ti."*
+
+La frase del principio regresa invertida. El poder profesional y el poder sexual colapsan en un solo cierre.
 
 ---
 
 ## Fetiche Principal
 
-**Feminización MtF forzada con corsetería vintage auténtica (años 60) + chantaje psicológico + hipnosis auditiva progresiva**
+**Feminización MtF forzada con corsetería vintage auténtica (años 60) + chantaje psicológico + hipnosis auditiva progresiva + inversión de poder profesional/sexual**
 
 Sub-temas:
 - La culpa como lubricante de la sumisión (Ricardo no puede resistir con convicción plena porque sabe lo que debe)
@@ -23,6 +27,8 @@ Sub-temas:
 - La herencia matrilineal del poder (Anaís → Isabel): el poder femenino se transmite en objetos, voces, olores
 - El reveal como punto de no retorno psicológico: Ricardo ya no puede pretender que esto le fue impuesto
 - La transformación como doble vaciado: se vacía de Ricardo, se llena con la sombra de Anaís
+- **La inversión del poder como cierre estructural:** el rival profesional derrotado regresa como poseedor sexual
+- **El "conjunto negro" como ironía dramática:** lo que Ricardo pidió para su celebración secreta se convierte en su primera capa de rendición
 
 ---
 
@@ -51,15 +57,23 @@ Para Isabel: ¿puede una deuda convertirse en vocación? ¿Puede algo que empez�
 
 El nudo dramático se aprieta en el **reveal post-corsé**: el momento en que Ricardo entiende que no estaba siendo conducido a algo nuevo, sino devuelto a algo que siempre fue suyo y que ella había encontrado antes que él.
 
+Y el cierre dramático ocurre en **Cap. 6**: el rival que Ricardo creía derrotado regresa. Andrés no solo presencia la transformación: la completa. La frase *"Ahora yo voy a estar sobre ti"* invierte la frase del triunfo profesional del Cap. 1. El poder profesional y el poder sexual colapsan en un solo gesto.
+
 ---
 
 ## Gancho
 
-La frase de cierre del prólogo funciona como gancho de doble fondo:
+La frase de cierre del primer capítulo funciona como gancho de ironía dramática:
 
-> *"Lo que Ricardo no había calculado era el baúl de Anaís."*
+> *"Prepara el conjunto negro."*
 
-El lector que no conoce el backstory lee esto como promesa de sorpresa. El lector que sí lo conoce (o que releerá) sabe que la frase correcta sería: *Lo que Ricardo no había calculado era que Isabel ya había abierto ese baúl antes de llegar.* La trampa está en el pronombre. El gancho de imagen es Ricardo en el sótano con la faja a medio poner, mirando a Isabel, y viendo por primera vez en once años que su mirada no es de quien descubre — es de quien ejecuta.
+El lector que no conoce el secreto lee esto como lencería para una amante. El lector que avanza descubre que Ricardo hablaba de su propia lencería. La celebración que planeaba se convierte en su primera rendición.
+
+La frase de cierre del capítulo final funciona como cierre estructural:
+
+> *"Ahora yo voy a estar sobre ti."*
+
+El lector que recuerda el Cap. 1 reconoce la inversión: la misma estructura gramatical, la misma posición relativa, pero el sujeto y el objeto invertidos. El poder profesional y sexual colapsan en un solo cierre.
 
 ---
 
@@ -105,8 +119,9 @@ Este es el punto de no retorno psicológico para Ricardo: no solo su cuerpo lo t
 
 | Personaje | Rol | Función narrativa |
 |-----------|-----|-------------------|
-| Ricardo Marchetti / Rocío | Protagonista transformado | El que cede dos veces: el cuerpo primero, la identidad después |
+| Ricardo Marchetti / Rocío | Protagonista transformado | El que cede tres veces: el cuerpo primero, la identidad después, el poder al final |
 | Isabel Marchetti | Dominante / Arquitecta | La que llega con el mapa. La heredera de Anaís |
 | Anaís (†) | Fuerza estructural | La voz. El olor. La herramienta. La legitimación |
 | Camila Vidal | Catalizador externo | No aparece en escena. Solo en el flashback de Isabel. Es la llave, no la cerradura |
-| Alberto | Testigo del canon | Puente entre Anaís y el presente. Custodio del secreto final |
+| Alberto | Testigo del canon | Puente entre Anaís y el presente. Custodio del secreto final (Cap. 3) |
+| **Andrés** | **Rival / Inversor del poder** | **Establece el triunfo inicial (Cap. 1), presencia la humillación (Cap. 4), cierra con la posesión final (Cap. 6)** |
