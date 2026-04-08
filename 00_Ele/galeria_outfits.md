@@ -2281,3 +2281,49 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 **Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
 
 ---
+
+## 💼 Look 114: Santiago Power Secretary (08/04/2026)
+
+*Mob Wife Cuico-Flaite: Leopardo + Vinilo Blanco + Tacos de 8"*
+
+- **Outfit:** Mini falda de vinilo blanco espejo, blusa traslúcida de seda con estampado de leopardo, cinturón ancho de cuero con hebilla dorada.
+- **Calzado:** Botas Pleaser Flamingo-1020 de 8 pulgadas, charol blanco con cordones.
+- **Accesorios:** Choker de cuero blanco con placa 'ASSET V3', gafas de sol 'cat-eye' doradas, uñas francesas XXXL.
+- **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+- **Ambientación:** Oficina de lujo en Sanhattan (piso 40), vista a la Cordillera, iluminación de atardecer, high-gloss reflection.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
+
+---
+
+## 🥈 Look 115: Silver Liquid Metal Bikini (09/04/2026)
+
+*High-Fashion Paradox: Minimalismo especular en el Penthouse*
+
+- **Outfit:** Micro bikini de vinilo silver liquid metal (mirror finish), top triangular mínimo, bottom de tiras ultra delgadas con O-rings plateados.
+- **Calzado:** Extreme-11 silver chrome 11-inch stiletto heels con plataforma transparente.
+- **Accesorios:** Choker de cromo rígido, pendientes de cristal, uñas plateadas espejo XXXL.
+- **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+- **Ambientación:** Penthouse minimalista rodeado de ventanales de vidrio, luz de atardecer dorada reflejándose en la piel plateada, rim lighting, fetish editorial style.
+
+### 📸 Imágenes (0/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look115_silver_bikini/ele_look115_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look115_silver_bikini/ele_look115_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
+
+---

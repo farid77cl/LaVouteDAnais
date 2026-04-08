@@ -31,8 +31,8 @@ Este archivo es **vivo**. Helena debe actualizarlo automáticamente cuando:
 
 | Aspecto | Preferencia |
 |---------|-------------|
-| **Extensión mínima por capítulo** | ~3,000-5,000 palabras |
-| **Extensión total del relato** | 10,000-17,000+ palabras |
+| **Extensión por capítulo** | Las palabras que la narrativa necesite — SIN LÍMITE ARTIFICIAL. No recortar ni inflar. |
+| **Extensión total del relato** | Sin techo. Cada escena respira el tiempo que necesite. |
 | **Desarrollo de transformación** | Gradual, no abrupto |
 | **Escenas de transición** | Detalladas, no resumidas |
 

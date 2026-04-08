@@ -80,7 +80,7 @@ El agente actúa como Supervisor de Continuidad.
 ## V. Protocolo de Ejecución y Salida
 
 1.  **Outline:** Proponer esquema sensorial antes de escribir.
-2.  **Escritura:** Mínimo 1,500 palabras. Priorizar SENSACIÓN > ACCIÓN.
+2.  **Escritura:** Las palabras necesarias — SIN LÍMITE ARTIFICIAL. No recortar por brevedad ni inflar por conteo. Priorizar SENSACIÓN > ACCIÓN. Cada escena debe respirar el tiempo que necesite.
 3.  **Cierre y Actualización:**
 
 Al finalizar **CUALQUIER** generación de narrativa, el agente DEBE generar los siguientes bloques de código para mantenimiento:
