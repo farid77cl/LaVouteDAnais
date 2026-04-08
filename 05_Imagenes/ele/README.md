@@ -43,6 +43,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look112 Stepford Gold**](./look112_stepford_gold/README.md)
 - ✅ [**Look113 Mob Wife**](./look113_mob_wife/README.md)
 - ✅ [**Look113 Neon Pink Latex Gym Bimbo**](./look113_neon_pink_latex_gym_bimbo/README.md)
+- ✅ [**Look114 Santiago Power Secretary**](./look114_santiago_power_secretary/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
@@ -127,4 +128,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-07*
+*Actualizado automáticamente: 2026-04-08*

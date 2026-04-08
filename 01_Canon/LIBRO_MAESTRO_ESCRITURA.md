@@ -86,30 +86,42 @@ El deseo no es un estado — es un *proceso*. Colocar al personaje ya-excitado d
 - **Capa mental:** lo que el personaje piensa, justifica, niega.
 - **Capa simbólica:** lo que el objeto/fetiche/situación *significa* dentro del universo del personaje.
 
-La tensión erótica real ocurre en la *fricción entre capas*: cuando el cuerpo dice sí y la mente dice no. Cuando el símbolo es exactamente lo que el personaje juró nunca tocar.
+**Ley de Necesidad Narrativa:** Toda escena erótica DEBE hacer avanzar la trama o revelar una faceta nueva del personaje. Si la escena puede eliminarse sin afectar la historia, es pornografía gratuita y debe ser reescrita bajo lógica literaria.
 
-### 2. El Principio del "No Todavía"
+### 2. El Principio del "No Todavía" (Ritualización)
 
-La tensión se construye con lo que el personaje *no* hace, *no* dice, *no* permite. Antes de escribir la escena de rendición, escribir *tres* escenas donde el personaje está a punto de ceder y retrocede. La cuarta vez que cede, el impacto es máximo.
+La tensión se construye con lo que el personaje *no* hace, *no* dice, *no* permite. 
+- **Ritual sobre Acto:** El preámbulo, la copa de vino servida con lentitud, el sonido de un cierre bajando milímetro a milímetro, es superior al contacto directo.
+- **Diferimiento de la Gratificación:** Antes de escribir la escena de rendición, escribir *tres* escenas donde el personaje está a punto de ceder y retrocede. La cuarta vez que cede, el impacto es máximo.
 
 ### 3. El Ritmo de la Prosa como Instrumento Erótico
 
 La velocidad con que se leen las palabras es parte del contenido. No es decoración:
 
-- **Frases largas, subordinadas, con comas que dilatan:** tensión acumulada, el lector no puede respirar, el pensamiento no termina, el cuerpo tampoco.
-- **Frases. Cortas. Sin verbo.** = quiebre, clímax, el momento llegó.
-- **Puntos suspensivos al cierre de párrafo:** el pensamiento no terminó porque el cuerpo lo interrumpió.
-- **Repetición deliberada de la misma frase:** efecto de trance, rendición, loop.
-  > *No iba a ceder. No iba a ceder. No.*
-  > *Y cedió.*
+- **Frases largas, subordinadas, con comas que dilatan:** tensión acumulada, el lector no puede respirar.
+- **Frases. Cortas. Sin verbo.** = quiebre, clímax.
+- **Puntos suspensivos al cierre de párrafo:** pensamiento interrumpido por el cuerpo.
+- **Repetición deliberada (Loop):** efecto de trance y erosión de voluntad.
 
-### 4. La Jerarquía Sensorial
+### 4. La Veracidad del Lenguaje (Bann List)
 
-1. **TACTO** — Texturas, temperaturas, presiones, peso, fricciones. El único sentido que no puede apagarse.
-2. **OLFATO** — Activa la memoria emocional más directamente. Un perfume puede anclar toda una escena.
-3. **SONIDO** — Respiración entrecortada, el clic de un tacón, el crujido de tela ajustada, el silencio después de una orden.
-4. **VISTA** — Micro-reacciones: dilatación de pupila, temblor de mano, rubor que sube por el cuello. El cuerpo siempre está *haciendo* algo — nunca describir cuerpos estáticos.
-5. **GUSTO** — Reservar para momentos de máxima rendición. Su aparición debe ser infrecuente y deliberada.
+Se prohíbe el uso de eufemismos cursis o "de manual". El lenguaje debe ser directo, táctil y acorde al personaje.
+
+| ❌ PROHIBIDO (Cliché) | ✅ RECOMENDADO (Directo/Sensorial) |
+|---|---|
+| Miembro viril, fruta prohibida | Polla, polla gorda, verga, su dureza |
+| Puntos de placer, pechos generosos | Senos, pezones rígidos, su peso, coño |
+| Caderas sinuosas, gruta de seda | Caderas, entrepierna, su humedad, entrada |
+| Exclamación forzada ("¡Oh!") | Gemidos transcritos, respiración rota, silencio |
+| "Hacer el amor" (salvo ironía) | Poseer, devorar, rendirse, poseerse |
+
+### 5. La Jerarquía Sensorial de Élite
+
+1. **TACTO & TEMPERATURA** — Es el sentido primario. Frío del metal vs. fuego de la piel.
+2. **OLFATO (ADN Químico)** — Pheromonas, materiales (látex, cuero), perfumes específicos.
+3. **SONIDO (Atmosférico)** — El susurro, el ritmo de los pasos, el ruido de la saliva.
+4. **VISTA (Micro-reacciones)** — Dilatación de pupila, rubor, el temblor de una mano.
+5. **GUSTO** — Reservado para el clímax absoluto de rendición.
 
 ### 5. La Voz Interior como Termómetro
 

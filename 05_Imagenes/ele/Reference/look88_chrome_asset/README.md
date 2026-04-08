@@ -22,4 +22,4 @@ Total imágenes: 2
 - [look88_02_closeup.png](./look88_02_closeup.png)
 
 ---
-*Actualizado automáticamente: 2026-04-07*
+*Actualizado automáticamente: 2026-04-08*

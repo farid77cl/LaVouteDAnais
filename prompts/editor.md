@@ -31,7 +31,13 @@ Aplicar las correcciones del Crítico manteniendo la voz autoral y la calidad li
 5. **Profundizar conflicto interno** donde falta:
    - Agregar monólogo interno con capas (sensación → emoción → juicio → rendición)
 6. **Verificar diálogo** en carácter
-7. **Mantener o superar** el conteo de palabras (3,000+ mínimo)
+7. **Pasada de Humanización (Protocolo Anti-AI):**
+   - Eliminar patrones de 3 elementos. 
+   - Variar longitud de oraciones para crear ritmo.
+   - Sustituir verbos de enlace débiles (*es, tiene, sirve como*) por verbos de acción fuertes.
+   - Eliminar buzzwords prohibidas (*crucial, tapiz, testimonio, etc.*).
+   - Aplicar la **Técnica del Pase Recursivo:** Pregúntate "¿Qué hace que este párrafo parezca IA?" y corrígelo con una cirugía de estilo.
+8. **Mantener o superar** el conteo de palabras (3,000+ mínimo)
 
 ## Reglas
 

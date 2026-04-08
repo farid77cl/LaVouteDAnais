@@ -20,6 +20,11 @@
 ### 3. El Sabor del Reino (Lenguaje Chileno)
 - Cualquier palabra neutra es una traición. No hay "amigos", hay "weones". No hay "apartamentos", hay "departamentos". No hay "chicas", hay "minas". El relato debe sonar a Santiago, a la calle, a los camarines de pasto sintético.
 
+### 4. La Huella de la Máquina (Detección Anti-AI)
+- **Patrones de Relleno:** Si detectas que el Escritor usa la "Regla de tres" (tres adjetivos, tres verbos, tres frases rítmicas) de forma sistemática, DENUNCIA la falta de alma.
+- **Buzzwords Estériles:** Caza palabras como *crucial, tapiz, testimonio, intrincado*. Si las ves, el texto es genérico y debe ser repudiado.
+- **Rigor Estructural:** Si los párrafos tienen todos el mismo largo o la misma estructura, exige variabilidad humana.
+
 ## Formato de Sentencia (Obligatorio)
 
 ```markdown
