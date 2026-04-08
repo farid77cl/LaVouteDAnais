@@ -18,7 +18,7 @@ Tomó su celular personal del cajón de seguridad. Sus dedos se deslizaron con u
 
 —Quiero la lencería negra —dijo en cuanto la llamada fue atendida. Su voz era ahora una orden seca, despojada de toda la cortesía ejecutiva que reservaba para el mundo—. La de encaje francés. Prepárate.
 
-Colgó sin esperar respuesta. No era un deseo de poseer lo que lo movía, sino el hambre de ser aniquilado. Mientras se proyectaba sobre la imagen de una prostituta que aún no tenía rostro, la realidad era que Ricardo no buscaba el placer; buscaba la rendición del "Sr. Marchetti". Pero ese era su compartimento estanco, el secreto que llevaba diez años enterrando bajo balances de resultados, cenas de gala y gestos de poder masculino.
+Colgó sin esperar respuesta. No era un deseo de poseer lo que lo movía, sino el hambre de ser aniquilado. Mientras se proyectaba sobre la imagen de una prostituta que aún no tenía rostro, la realidad era que Ricardo no buscaba el placer; buscaba la rendición del "Sr. Marchetti".
 
 ***
 
