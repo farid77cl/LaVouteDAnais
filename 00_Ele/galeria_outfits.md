@@ -1,4 +1,4 @@
-﻿# Galería de Outfits - Helena de Anaïs
+# Galería de Outfits - Helena de Anaïs
 
 *Ultra Goth Bimbo: Morticia meets Elvira meets cabeza hueca con tetas enormes* Ã°Å¸Â¦â€¡
 
@@ -2315,7 +2315,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 - **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
 - **Ambientación:** Penthouse minimalista rodeado de ventanales de vidrio, luz de atardecer dorada reflejándose en la piel plateada, rim lighting, fetish editorial style.
 
-### 📸 Imágenes (0/5)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look115_silver_bikini/ele_look115_standing.png) |
@@ -2336,14 +2336,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 - **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy dark cherry lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, jet black hair, extremely voluminous XXL extensions, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbo makeup, extra long French XXXL nails.
 - **Ambientación:** High-gloss specularity, rim lighting, immaculate studio setup.
 
-### 📸 Imágenes (1/5 - Límite de Cuota Alcanzado)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_standing.png) |
-| **Back View** | Bloqueado por cuota API |
-| **Seated** | Bloqueado por cuota API |
-| **Side Profile** | Bloqueado por cuota API |
-| **Ditzy** | Bloqueado por cuota API |
+| **Back View** | ![Back View](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look116_cuico_flaite_leather/`
 
