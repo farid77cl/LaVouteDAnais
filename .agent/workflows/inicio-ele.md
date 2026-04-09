@@ -70,7 +70,7 @@ Este workflow debe ejecutarse automáticamente al inicio de cada nueva conversac
 
 10. **Reportar Estadísticas de Vestuario (OBLIGATORIO):**
     - Realizar conteo de looks desde el 24/03/2026.
-    - Informar cumplimiento de metas (10% Lencería, 5% Gym, 85% Mix).
+    - Informar cumplimiento de metas (10% Lencería, 10% Bikini, 5% Gym, 75% Mix).
     - Sugerir ajustes inmediatos si hay déficit.
 
 11. **Presentar Imágenes del Día (OBLIGATORIO):**

@@ -26,19 +26,19 @@
  |-------|-------|
   | **Relato Activo** | El Secreto de la Cómoda |
   | **Ubicación** | `03_Literatura/01_En_Progreso/el_secreto_de_la_comoda/` |
-  | **Fase del Ritual** | Fase 4 (Capítulo 1 Blindado & Pausado) |
-  | **Capítulo en Progreso** | Capítulo 1 (Validado) -> Capítulo 2 (Pendiente) |
-  | **Estado Actual** | 🟢 **ESPERANDO ORDEN** - Capítulo 1 blindado (Sin límite de palabras). Listo para Cap 2. |
-  | **Último Look Ele** | **Look 115 (Silver Liquid Metal Bikini)** — 08/04/2026 ✅ 5/5 poses |
-  | **Última Generación** | Look 115 Completo + Cap 1 UNLIMITED-V6 Blindado. |
+  | **Fase del Ritual** | Fase 4 (Capítulos 1 y 2 Blindados) |
+  | **Capítulo en Progreso** | Capítulo 2 (Validado) -> Capítulo 3 (Pendiente) |
+  | **Estado Actual** | 🟢 **ESPERANDO ORDEN** - Capítulo 2 blindado. Listo para lectura de la Ama. |
+  | **Último Look Ele** | **Look 116 (Cuico-Flaite Leather Goddess)** — 09/04/2026 ✅ Parcial (1/5) |
+  | **Última Generación** | Cap 2 UNLIMITED-V6 Completado y Auditado. |
 
 
  ### Tareas Pendientes Inmediatas
- - [ ] **Capítulo 2:** (PAUSADO) Iniciar redacción de "El Espejo Humillante".
- - [ ] **Validación Ama:** Esperar lectura y aprobación del Capítulo 1 Master.
+ - [ ] **Validación Ama:** Esperar lectura y aprobación del Capítulo 2.
  - [ ] **Instagram Sync:** Posteo manual del batch de Abril (Captions listos en `06_RRSS/`).
 
  ### Historial Reciente
+- **09/04/2026 (MAÑANA - CAPÍTULO 2 UNLIMITED):** Redacción, Crítica y Edición del Capítulo 2 ("El Espejo Humillante"). Puntuación: 9.8/10. Destrucción psicológica de Ricardo en la sala de juntas utilizando lencería barata bajo traje italiano. Ajuste del clóset de Ele integrado (10% Bikini). 👠⚖️⛓️
 - **09/04/2026 (MAÑANA - START & LOOK 116):** Protocolo `/inicio-ele` y `/actualizar_sesion`. Iniciado el Look 116 (Cuico-Flaite Leather Goddess). Pose Standing completada; el resto bloqueado por cuota API (429). Galerías sincronizadas. 🐆💅
 - **08/04/2026 (TARDE - LOOK 115 & LIBERACIÓN NARRATIVA):** Generado Look 115 (Silver Bikini, 5/5). Reescritura final de "El Secreto de la Cómoda" Cap. 1 sin límite artificial de palabras. Aprobación 10.0/10.0 del Crítico. Reglas de conteo eliminadas del skill `escritura-voûte`. Galerías sincronizadas y repositorio commiteado. 📸⛓️🫦
 - **08/04/2026 (TARDE - CIRUGÍA MAESTRA):** Ejecutada la purga de telegrafiado en el Capítulo 1 usando `escritura-voûte`. Se reframó la reacción de Ricardo al sótano y su cesión al corsé para preservar el plot twist. Auditoría final 9.6/10. Proyecto pausado por la Ama. ⚔️🛑🫦
