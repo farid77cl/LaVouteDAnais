@@ -28,4 +28,4 @@ Total imágenes: 6
 - [helena_look84_standing.png](./helena_look84_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-04-08*
+*Actualizado automáticamente: 2026-04-09*

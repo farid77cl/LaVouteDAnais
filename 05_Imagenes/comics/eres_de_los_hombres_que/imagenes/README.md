@@ -34,4 +34,4 @@ Explora las secciones de esta categoría:
 - [pag06_profundizacion.png](./pag06_profundizacion.png)
 
 ---
-*Actualizado automáticamente: 2026-04-08*
+*Actualizado automáticamente: 2026-04-09*

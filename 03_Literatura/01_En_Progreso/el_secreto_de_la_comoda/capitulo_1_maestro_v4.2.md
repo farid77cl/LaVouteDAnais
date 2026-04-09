@@ -211,29 +211,39 @@ Tiraba hacia abajo y hacia dentro con cada cruce de lazada, con una fuerza que R
 
 —Ahí está —susurró Isabel, dando un paso atrás para contemplar su obra.
 
-Ricardo jadeaba. El corsé le comprimía la cintura hasta un punto que bordeaba el dolor físico genuino, y la presión constante sobre su diafragma le obligaba a respirar de una manera nueva: respiraciones cortas, altas, que le subían al pecho en lugar de bajarle al vientre. Respiraciones de presa acorralada. Respiraciones que no le pertenecían al Sr. Marchetti, que respiraba desde el abdomen con la autoridad de un barítono, sino a la criatura que estaba emergiendo debajo de la seda, una criatura que no tenía nombre todavía pero que pronto lo tendría.
+Ricardo jadeaba. El corsé le comprimía la cintura hasta un punto que bordeaba el dolor físico genuino. Cada centímetro de su torso estaba siendo aplastado, redistribuido, moldeado por una prenda que no perdonaba la anatomía masculina. La presión constante sobre su diafragma le obligaba a respirar de una manera nueva: respiraciones cortas, altas, que le subían al pecho y lo hacían jadear como una presa acorralada. Y debajo del pánico, reptando por su espina dorsal como una corriente eléctrica, brotó la excitación. 
 
-Conocía esa sensación. La conocía del motel. La conocía de las noches prohibidas con la prostituta de Providencia. Pero aquí no había escape, no había una mujer pagada que se fuera cuando se acabara el dinero, no había un número anónimo que pudiera borrar de la memoria del teléfono. Aquí estaba su esposa. Y su esposa lo sabía todo.
+Estaba aterrado. Las ballenas de acero le clavaban su dureza fría en las costillas y el abdomen, reduciéndolo a la inmovilidad de una muñeca apretada, y ese mismo encierro físico disparó un calor líquido en su ingle. La fricción del satén negro contra sus pezones, la inmovilidad forzada de su espalda, la humillación de ser embutido como un maniquí frente a los ojos fríos de su esposa... todo conspiraba para excitarlo con una violencia que le daba asco. Quería gritar, quería arrancar la seda de la tía Anaís, pero al mismo tiempo su cuerpo rogaba que apretara más los cordones. 
+
+Respiraba ya no como el Sr. Marchetti, que llenaba el abdomen con la autoridad de un barítono, sino como la criatura que estaba emergiendo debajo de la seda. Una criatura que temblaba de miedo y sudaba de calentura. 
+
+Conocía esa sensación. La conocía del motel. La conocía de las noches prohibidas con la prostituta de Providencia. Pero aquí no había escape. No había una mujer pagada a la que pudiera desechar cuando la culpa lo alcanzara. Aquí estaba su esposa, embutiéndolo en lencería de vieja muerta. Y su esposa lo sabía todo.
 
 Fue entonces cuando Isabel cambió de registro por última vez.
 
-Se quitó los anillos —tres anillos de oro blanco que Ricardo le había regalado en tres aniversarios distintos— y los dejó sobre la cómoda, junto a las fotos, con la meticulosidad de un cirujano que prepara su instrumental. Después empezó a masturbarlo.
+Se quitó los anillos —tres anillos de oro blanco que Ricardo le había regalado en tres aniversarios distintos— y los dejó sobre la cómoda, junto a las fotos, con la meticulosidad de un cirujano que prepara su instrumental. Después, bajó la cremallera del pantalón de vestir de Ricardo y extrajo su carne con una frialdad administrativa.
 
-No hubo preámbulo. No hubo seducción. No hubo la cortesía erótica que marca la diferencia entre un acto sexual y una intervención mecánica. La mano de Isabel bajó la cremallera del pantalón de vestir de Ricardo, extrajo su carne con una frialdad administrativa, y comenzó a moverla con un ritmo que no buscaba el placer mutuo ni la conexión íntima ni la reconciliación: buscaba la confirmación del dominio. Cada movimiento de su muñeca era una declaración de propiedad. Cada apretón era un acta notarial.
+—Mira qué rápido se te para cuando te tratan como a la perra que eres —murmuró Isabel.
 
-El cuerpo de Ricardo, traidor y hambriento de castigo, respondió con una violencia que lo humilló más que cualquier palabra que Isabel pudiera haber elegido. Estaba duro antes de que ella completara el tercer movimiento. La vergüenza alimentó la excitación y la excitación alimentó la vergüenza, un ciclo perfecto de autodestrucción que le humedecía los ojos mientras le endurecía la carne en proporciones que no sabía que su cuerpo fuera capaz de alcanzar. El corsé de Anaís le apretaba el pecho mientras la mano de su esposa le apretaba otra cosa, y entre ambas presiones, el Sr. Marchetti estaba siendo exprimido como un trapo, y lo que goteaba no era agua sino la última resistencia de un hombre que había construido su identidad entera sobre la ficción de que él siempre estaba arriba.
+No hubo preámbulo ni seducción. La mano de Isabel comenzó a moverla con un ritmo seco y calculador, buscando únicamente la confirmación del dominio. Cada movimiento de su muñeca era una declaración de propiedad.
 
-Estaba a punto de quebrarse. De eyacular en la mano de su captora. De buscar en la descarga la promesa de un fin, la posibilidad de poder decirse mañana que fue un episodio, un momento de debilidad, algo que se cura con una reunión de directorio y un whisky de malta en el club de Vitacura. El clímax estaba ahí: pulsando en la punta de sus nervios, concentrado en un solo punto de su anatomía como una estrella a punto de colapsar.
+—El gran Ricardo Marchetti —continuó ella, apretando la base con una fuerza despiadada, clavándole las uñas levemente—. Despidiendo gente por la mañana y mojando los pantalones por un corsé viejo en la noche. ¿Te excita que te vea así? ¿Te excita saber que ya no te respeto? Mírate. Eres patético. Una mujercita asustada que se calienta solo cuando la obligan a usar encaje. 
 
-Y entonces Isabel retiró la mano.
+El cuerpo de Ricardo, hambriento de castigo, respondió con una violencia demoledora a cada insulto. Estaba duro como el mármol de su escritorio. La humillación de las palabras de Isabel le quemaba los tímpanos, pero actuaba como gasolina pura en su ingle. La vergüenza de su propia degradación alimentó su erección, y la erección alimentó la vergüenza, un ciclo perfecto de autodestrucción que le hizo sollozar. El corsé le estrujaba los pulmones mientras la muñeca de su esposa le ordeñaba la masculinidad al ritmo de sus insultos. El Sr. Marchetti estaba siendo exprimido, y lo que goteaba no era agua, sino la última resistencia de un hombre que descubría, aterrado, cuánto le fascinaba ser basura a los pies de su mujer.
 
-Con una frialdad terminal. Sin transición. Sin aviso. Como quien cierra una llave de agua porque ya terminó de lavar los platos.
+Estaba a punto de quebrarse. De eyacular en la mano de su captora. El clímax subía por su espina dorsal como un tren expreso; sus caderas se arquearon involuntariamente buscando la fricción, anticipando la descarga blanca y humillante, la liberación que le permitiría apagar su cerebro por unos segundos. La tensión acumulada en la próstata gritaba por vaciarse. Ya saboreaba el alivio.
 
-—No en mi casa, Rocío. En esta casa no se desperdicia nada sin mi orden expresa.
+Y entonces, a un nanosegundo del punto de no retorno, Isabel retiró la mano.
+
+Con una frialdad terminal. Sin aviso. Dejándolo colgado al borde del abismo.
+
+—¡Ah! —Ricardo soltó un quejido ahogado, el cuerpo sacudiéndose en un espasmo en blanco, una contracción violenta y dolorosa que bombeó sangre pero ningún alivio. El orgasmo se estrelló contra un muro invisible y rebotó hacia sus entrañas, convirtiéndose en una pulsada sorda y fulminante.
+
+—No en mi casa, Rocío —dijo Isabel, mirándolo retorcerse con la indiferencia de quien cierra una llave de agua—. En esta casa no se desperdicia semen sin mi orden expresa.
 
 El nombre cayó sobre Ricardo como un balde de agua helada vertido desde el techo del sótano. *Rocío.* Un nombre que él jamás le había dicho a nadie. Un nombre que no existía en ningún registro civil, en ningún correo electrónico, en ninguna base de datos. Un nombre que solo vivía en el rincón más oscuro y más hambriento de su cabeza, en el sótano de su propia mente, guardado bajo llave como la cómoda de Anaís. El nombre de la criatura que vivía debajo del traje de tres piezas, debajo de las manos de seda, debajo de la Acqua di Parma. Isabel lo sabía. Isabel sabía *todo*.
 
-Antes de que Ricardo pudiera siquiera procesar la agonía física del orgasmo negado —los testículos contraídos como un puño, la polla palpitante y dolorida en el vacío, el corsé apretándole el pecho como si quisiera expulsarle el corazón por la boca—, Isabel se inclinó hacia el fondo de la cómoda y extrajo un último objeto.
+Ricardo gemía. La agonía física del orgasmo arruinado lo dejaba sin aire; los testículos estaban dolorosamente contraídos como bolas de plomo, la verga congestionada, morada y palpitante en el vacío, suplicando un toque que ya no volvería. Y mientras el corsé le estrujaba los pulmones en medio de su frustración abyecta, Isabel se inclinó hacia el fondo de la cómoda y extrajo un último objeto.
 
 Era un armazón de acero plateado y cuero negro de alto calibre. Las correas brillaban bajo la bombilla como los colmillos de un animal paciente que lleva medio siglo esperando a su presa. El candado, de latón macizo, pendía abierto como una boca. Un **cinturón de castidad** de fabricación artesanal, contemporáneo de las ballenas del corsé, diseñado en una era en la que las cerraduras se construían para durar generaciones.
 
@@ -245,7 +255,7 @@ El sonido de la cerradura fue absoluto.
 
 Fue el silenciamiento definitivo de la voz de mando de Ricardo Marchetti. Fue el eco invertido del CLACK del cajón de la cómoda: la misma cerradura que había liberado los secretos de Anaís ahora sellaba la carne de su sobrino político. Ricardo había abierto un pasado; el pasado le había cerrado el cuerpo. El primer CLACK fue una llave que abría. El segundo fue un candado que cerraba. Y entre ambos sonidos, idénticos en tono pero opuestos en función, se extendía la distancia exacta entre el hombre que había entrado al sótano y la cosa que ya no saldría de él.
 
-—Esa polla no volverá a eyacular sin que yo gire la llave, perra mentirosa —susurró Isabel al oído de su marido, tan cerca que el aliento le movió un mechón de pelo sobre la oreja. Guardó la llave plateada dentro de su escote, justo sobre su corazón, donde el calor de su piel la calentaría y donde Ricardo nunca, bajo ninguna circunstancia, podría alcanzarla—. Bienvenido a tu verdadera naturaleza. Desde hoy, el arquitecto ha muerto. Solo quedas tú, Rocío. Mi pequeña propiedad de seda y acero.
+—Esa verga no volverá a eyacular sin que yo gire la llave, perra mentirosa —susurró Isabel al oído de su marido, tan cerca que el aliento le movió un mechón de pelo sobre la oreja. Guardó la llave plateada dentro de su escote, justo sobre su corazón, donde el calor de su piel la calentaría y donde Ricardo nunca, bajo ninguna circunstancia, podría alcanzarla—. Bienvenido a tu verdadera naturaleza. Desde hoy, el arquitecto ha muerto. Solo quedas tú, Rocío. Mi pequeña propiedad de seda y acero.
 
 Ricardo cayó de rodillas sobre el polvo del sótano de Zapallar. El corsé crujió con su descenso, las ballenas ajustándose al nuevo ángulo de su cuerpo como las rejas de una celda que se reconfigura alrededor de un prisionero que ha decidido dejarse caer. Sus lágrimas cayeron sobre la madera del piso formando pequeños cráteres oscuros en el polvo de medio siglo, cada gota abriendo un agujero diminuto en la historia de una familia que él creía conocer.
 

@@ -2326,4 +2326,25 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 **Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
 
+## 🐆 Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
+
+*Mob Wife Cuico-Flaite aesthetic, high-end editorial photography.*
+
+- **Outfit:** Tight black leather pencil skirt, leopard print silk blouse unbuttoned dangerously low.
+- **Calzado:** 8-inch stiletto clear platform pleaser heels.
+- **Accesorios:** Permanent tan lines visible on chest, XXXL French manicure.
+- **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy dark cherry lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, jet black hair, extremely voluminous XXL extensions, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbo makeup, extra long French XXXL nails.
+- **Ambientación:** High-gloss specularity, rim lighting, immaculate studio setup.
+
+### 📸 Imágenes (1/5 - Límite de Cuota Alcanzado)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_standing.png) |
+| **Back View** | Bloqueado por cuota API |
+| **Seated** | Bloqueado por cuota API |
+| **Side Profile** | Bloqueado por cuota API |
+| **Ditzy** | Bloqueado por cuota API |
+
+**Ubicación:** `05_Imagenes/ele/look116_cuico_flaite_leather/`
+
 ---

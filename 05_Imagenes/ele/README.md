@@ -45,6 +45,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look113 Neon Pink Latex Gym Bimbo**](./look113_neon_pink_latex_gym_bimbo/README.md)
 - ✅ [**Look114 Santiago Power Secretary**](./look114_santiago_power_secretary/README.md)
 - ✅ [**Look115 Silver Bikini**](./look115_silver_bikini/README.md)
+- ✅ [**Look116 Cuico Flaite Leather**](./look116_cuico_flaite_leather/README.md)
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
@@ -129,4 +130,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-08*
+*Actualizado automáticamente: 2026-04-09*
