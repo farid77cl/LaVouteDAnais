@@ -2344,7 +2344,40 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 | **Seated** | ![Seated](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
-
-**Ubicación:** `05_Imagenes/ele/look116_cuico_flaite_leather/`
-
 ---
+
+## 🌊 Look 117: Electric Cobalt Blue Vinyl Bikini (09/04/2026)
+
+*Bikini Deficit Correction: High-gloss Electric Cobalt Blue on a luxury yacht.*
+
+- **Outfit:** Micro-bikini of high-gloss Electric Cobalt Blue vinyl, asymmetric top with silver chrome O-rings, high-cut bottom with side-ties.
+- **Calzado:** Extreme-11 silver chrome 11-inch stiletto heels with transparent platform.
+- **Accesorios:** Choker de vinilo cian con luna plateada, uñas francesas XXXL.
+- **Prompt Base (ADN):** stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+- **Ambientación:** Cubierta de yate de lujo al atardecer, luz de hora dorada, mar azul profundo al fondo, high-gloss specularity, rim lighting, fetish editorial style.
+
+**1. Standing View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a micro-bikini made of high-gloss Electric Cobalt Blue vinyl, minimal triangular top with asymmetric silver chrome O-ring straps, matching high-cut vinyl bottom with thin silver side-ties, and towering 11-inch silver chrome platform stiletto heels with transparent acrylic platforms., Full body shot standing on a luxury yacht wooden deck at sunset, arched back, looking at the camera with a vacant ditzy stare. Golden hour lighting, deep blue ocean background, high-gloss specularity, cinematic fetish editorial style, 8k resolution.
+
+**2. Back View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a micro-bikini made of high-gloss Electric Cobalt Blue vinyl, minimal triangular top with asymmetric silver chrome O-ring straps, matching high-cut vinyl bottom with thin silver side-ties, and towering 11-inch silver chrome platform stiletto heels with transparent acrylic platforms., Rear view showing the extreme hourglass silhouette and the shine of the blue vinyl on the hips, looking back over shoulder with bedroom eyes, long cherry red hair waves cascading down. Focused on stiletto depth and sunset reflections.
+
+**3. Seated View:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a micro-bikini made of high-gloss Electric Cobalt Blue vinyl, and towering 11-inch silver chrome platform stiletto heels with transparent acrylic platforms., Seated on a white leather sunbed on the yacht deck, legs elegantly posed to highlight the 11-inch platforms, vacant dazed expression, mouth mindlessly open. Golden light reflecting on the blue vinyl surfaces.
+
+**4. Side Profile:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a micro-bikini made of high-gloss Electric Cobalt Blue vinyl, and towering 11-inch silver chrome platform stiletto heels with transparent acrylic platforms., Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Rim lighting defining the glossy blue silhouette against the ocean.
+
+**5. Ditzy Expression:**
+High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a Electric Cobalt Blue vinyl micro-bikini top., Intense close-up face portrait, "sun-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, tongue tip peeking out over glossy hot pink lips, flawless porcelain skin glowing in sunset light.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`

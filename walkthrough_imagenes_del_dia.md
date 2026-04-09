@@ -25,6 +25,20 @@ High-Fashion Paradox: Minimalismo especular en el Penthouse.
 
 ---
 
+## 🌊 Look 117: Electric Cobalt Blue Vinyl Bikini (09/04/2026 — HOY)
+*Status: COMPLETO (5/5)*
+Bikini Deficit Correction: High-gloss Electric Cobalt Blue on a luxury yacht.
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_standing.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_back_view.png) |
+| **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_seated.png) |
+| **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
+
+---
+
 ## 💼 Look 114: Santiago Power Secretary (08/04/2026 — AYER)
 *Status: COMPLETO (5/5)*
 Mob Wife Cuico-Flaite: Leopardo + Vinilo Blanco + Tacos de 8".
