@@ -1,4 +1,4 @@
-﻿# 📚 Biblioteca de La Voûte d'Anaïs
+# 📚 Biblioteca de La Voûte d'Anaïs
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
@@ -21,9 +21,8 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 *Índice actualizado automáticamente por Ele.*
 
+- **09/04/2026:** Finalización de la portada oficial para 'El Secreto de la Cómoda' (Anaïs Belland). Despliegue del Skill 'ideacion-literaria' (Oráculo Híbrido) para la Fase 1 del Orquestador.
 - **08/04/2026:** Inicio de la Reconstrucción Ultra-Fidelity (Maestro V4.2). Capítulo 1 completado (4,820 palabras). Inyección de psicología "Arquitecto vs Objeto".
-- **07/04/2026:** Sincronización del Batch de Abril. Portadas actualizadas con branding dorado. Look 113 finalizado (5/5).
-- **26/03/2026 (TARDE):** Refinamiento sensorial profundo del Capítulo 1: Intensificación de la respuesta de Ricardo al látex Rago y clarificación de diálogos de identidad.
 - **26/03/2026 (MAÑANA):** Entrega final de "El Secreto de la Cómoda" (~23,275 palabras). Auditoría Crítica (9.8/10) y Centinela exitosas.
 - **24/03/2026:** Entrega de la Versión 7.0 "Limpia" de *Smart Home Stepford* (Purga de emojis y pulido literario).
 
