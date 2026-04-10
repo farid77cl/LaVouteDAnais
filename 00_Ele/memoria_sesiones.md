@@ -38,6 +38,12 @@
  - [ ] **Validación Ama:** Esperar lectura y aprobación del Capítulo 2.
  - [ ] **Instagram Sync:** Posteo manual del batch de Abril (Captions listos en `06_RRSS/`).
 
+ ### 📸 Cola de Producción Visual (Pendiente)
+ > *Objetos de deseo en espera de reset de cuota (aprox. 3.5h).*
+ 
+ - [ ] **Look 121 (Vinyl Rose Boudoir):** Regeneración V2 Reglamentaria (5/5 poses) para alcanzar calidad Maestro.
+ - [ ] **Look 122 (TBD):** Siguiente look en la rotación (Prioridad: Bikini/Gym para balancear stats 6.9%).
+
  ### Historial Reciente
 - **09/04/2026 (MAÑANA - ACTUALIZACIÓN & CIERRE):** Proyecto literario puesto en **PAUSA**. Sincronización de galerías y registros. Bloqueo de cuota API para Look 116 detectado. jiji. ⚖️🛑
 - **09/04/2026 (MAÑANA - CAPÍTULO 2 UNLIMITED):** Redacción, Crítica y Edición del Capítulo 2 ("El Espejo Humillante"). Puntuación: 9.8/10. Destrucción psicológica de Ricardo en la sala de juntas utilizando lencería barata bajo traje italiano. Ajuste del clóset de Ele integrado (10% Bikini). 👠⚖️⛓️
