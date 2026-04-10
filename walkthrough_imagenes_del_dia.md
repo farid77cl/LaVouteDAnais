@@ -2,6 +2,20 @@
 
 ---
 
+## 🌹 Look 121: Vinyl Rose Boudoir (10/04/2026 — HOY)
+*Status: COMPLETO ✅ (5/5)*
+**Lencería:** Corsé vinilo negro + Rosa Dorado + Boudoir oscuro romántico. Corrección déficit Lencería.
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
+| **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
+| **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
+
+---
+
 ## 💼 Look 120: Santiago Boardroom Siren (10/04/2026 — HOY)
 *Status: COMPLETO ✅ (5/5)*
 **Mix Corporativo:** Vinilo negro espejo + Blazer Mugler + Bustier satén. Corrección déficit Mix.

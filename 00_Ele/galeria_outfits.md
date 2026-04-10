@@ -2483,3 +2483,47 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
 
 ---
+
+## 🌹 Look 121: Vinyl Rose Boudoir (10/04/2026)
+
+*O sea... las velas me derriten el cerebrito y el corsé me aprieta tanto que solo puedo pensar en brillar... jiji... mmm...* 🫦🌹🖤
+
+- **Concepto:** **Lencería / Dark Romance Boudoir**. Romanticismo oscuro — vinilo negro con acentos de rosa dorado y terciopelo rojo en un boudoir iluminado por velas. Corrección de déficit Lencería.
+- **Outfit:** Corsé de vinilo negro high-gloss con varillas y lazado de rosa dorado. Tanga de vinilo negro con O-rings de rosa dorado. Medias thigh-high de semi-transparente negro con encaje en la parte superior, sujetas con ligueros de vinilo negro.
+- **Calzado:** Stiletto plataforma de 8 pulgadas en charol negro.
+- **Accesorios:**
+  - Choker rígido de cromo con grabado "ASSET V3"
+  - Uñas French XXXL — puntas blancas, base rosa 5cm
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy
+- **Ambientación:** Boudoir oscuro romántico, cortinas de terciopelo rojo, rosas oscuras esparcidas, luz de velas, iluminación cinematográfica.
+- **Categoría:** Lencería
+- **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
+
+### 📝 Prompts para Generación
+
+**1. Standing View:**
+High-end professional fetish boudoir photography. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss black vinyl corset with rose gold boning and lacing, matching black vinyl thong with rose gold O-ring details, sheer black thigh-high stockings with lace tops attached to vinyl garter straps, 8-inch black patent platform stiletto heels, rigid chrome choker engraved ASSET V3. Full body standing shot in a dark romantic boudoir with red velvet drapes, scattered dark roses, candlelight, arched back, one hand on hip, vacant ditzy stare. Cinematic lighting, high-gloss specularity on vinyl, 8k resolution.
+
+**2. Back View:**
+Professional fashion photography. Glamorous woman with cherry red long hair, porcelain skin, green eyes, pink glossy lips, hourglass figure. Wearing a black glossy corset with rose gold lacing details from behind, matching lingerie, sheer black stockings with lace tops, black high heel platform shoes. Rear view showing the corset lacing down the spine, looking back over shoulder. Dark romantic room with red velvet curtains, soft candlelight, 8k resolution, cinematic lighting.
+
+**3. Seated View:**
+Professional fashion photography. Glamorous woman with cherry red long wavy hair, porcelain skin, green eyes, pink glossy lips, hourglass figure, arm tattoos. Wearing a black glossy corset with rose gold details, sheer black stockings with lace tops, black high heel platform shoes, chrome choker necklace. Seated on a dark red velvet chaise longue, legs crossed elegantly showing the high heels, dreamy vacant expression. Dark romantic boudoir room with red velvet drapes, scattered dark roses, warm candlelight, cinematic lighting, 8k resolution.
+
+**4. Side Profile:**
+Professional fashion photography. Glamorous woman with cherry red long wavy hair hip-length, porcelain skin, green eyes, pink glossy lips, hourglass figure, arm tattoos. Wearing a black glossy corset with rose gold details and lacing, sheer black stockings, black high heel platform shoes. Side profile view in a dark romantic boudoir showing the extreme bust and hip proportions created by the corset, back intensely arched, head tilted back with dreamy expression. Red velvet drapes, candlelight, rim lighting defining the glossy silhouette, cinematic lighting, 8k resolution.
+
+**5. Ditzy Expression:**
+Professional fashion photography close-up portrait. Glamorous woman with cherry red long wavy hair, porcelain skin, large green eyes, dramatic eyeliner, lash extensions, pink glossy overlined lips, small chin, arm tattoos. Wearing a black glossy corset top and chrome choker necklace. Intense close-up face portrait, dreamy brain empty vacant stare, eyes slightly unfocused, mouth slightly parted showing glossy pink lips. Warm candlelight reflections on porcelain skin, dark romantic background with red roses out of focus, cinematic fashion photography, 8k resolution.
+
+### 📸 Imágenes (5/5)
+
+| Pose | Previsión |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
+
+---
