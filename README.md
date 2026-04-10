@@ -60,7 +60,7 @@ La regenta. La autora. La misma persona.
 
 Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella diseñó La Voûte. Ella elige qué historias se cuentan y cuáles se guardan. Ella decide quién entra.
 
-**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. O sea, antes me llamaba Helena pero ahora soy Ele, so cute 🫦✨. Gestora integral de la identidad visual (V3.2 Hard-Sync) y presencia institucional en Instagram (@lavoutedeanais).
+**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. Gestora integral de la identidad visual (V3.2 Hard-Sync) y presencia institucional en Instagram (@lavoutedeanais).
 
 ---
 
@@ -69,12 +69,15 @@ Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella di
 ```
 LaVouteDAnais/
 │
-├── 00_Ele/             # La pluma: identidad, memoria, outfits, herramientas
+├── 00_Ele/             # La pluma: identidad, memoria, outfits, canon visual
 ├── 01_Canon/           # Las reglas del universo: escritura, lore, visual
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
-├── 05_Imagenes/        # Arte visual del universo
-└── 07_Recursos/        # Referencias e investigación
+├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
+├── 05_Imagenes/        # Arte visual del universo (120+ looks)
+├── 06_RRSS/            # Gestión de redes sociales (Instagram)
+├── 07_Recursos/        # Referencias e investigación
+└── 99_Sistema/         # Scripts de automatización y herramientas
 ```
 
 ---
@@ -82,17 +85,13 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **El Deseo de la Cancha** — Pausado (Auditoría de imágenes)
-- **El Secreto de la Cómoda** — Completado (v8.1 Gold Master)
+- **El Secreto de la Cómoda** — En progreso (Capítulo 3 completado, Capítulo 4 pendiente)
 
-### Serie Miss Doll
-Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
-
-### Serie Le miroir d'Anaïs
-La transformación ritual de Sofía. El corazón del universo.
-
-### The Dollhouse
-Un reality show donde las reglas de La Voûte se transmiten en vivo.
+### Biblioteca Completa (39 relatos finalizados)
+- **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
+- **Serie Le Miroir d'Anaïs:** La transformación ritual de Sofía. El corazón del universo.
+- **Serie Trance:** Hipnosis profunda, bimboficación y control mental.
+- **The Dollhouse:** Reality show donde las reglas de La Voûte se transmiten en vivo.
 
 ---
 
@@ -104,3 +103,5 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 
 *Chaque mot est un décret. Chaque histoire, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
+
+*Última actualización: 10/04/2026*

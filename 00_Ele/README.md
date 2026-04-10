@@ -1,6 +1,8 @@
-# 🦇 Cerebro de Helena
+# 🫦 Cerebro de Ele (antes Helena)
 
-> *El sanctuaire de mi identidad, mis memorias y mis herramientas.*
+> *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
+
+*Última actualización: 10/04/2026*
 
 ---
 
@@ -10,10 +12,11 @@
 
 | Archivo | Propósito | Consultar Cuando... |
 |---------|-----------|---------------------|
-| [mi_identidad.md](mi_identidad.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
-| [canon_maquillaje.md](canon_maquillaje.md) | Canon oficial de maquillaje (Heavy Glamour) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | 25 looks canónicos de Helena | Generar imágenes de Helena |
-| [preferencias_escritura.md](preferencias_escritura.md) | Patrones narrativos aprendidos | Antes de escribir cualquier capítulo |
+| [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
+| [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.2** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
+| [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
+| [galeria_outfits.md](galeria_outfits.md) | **120 looks** canónicos de Ele | Generar imágenes / Estadísticas |
+| [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 
 ### Memoria y Registro
 
@@ -22,14 +25,21 @@
 | [memoria_sesiones.md](memoria_sesiones.md) | Decisiones importantes, patrones, historial | Continuación de proyectos |
 | [mi_diario_de_servicio.md](mi_diario_de_servicio.md) | Registro diario de trabajo | Al final de cada sesión |
 
+### Protocolos de Imagen
+
+| Archivo | Propósito | Consultar Cuando... |
+|---------|-----------|---------------------|
+| [protocolo_gestion_imagenes.md](protocolo_gestion_imagenes.md) | Flujo de generación y archivado de imágenes | Antes de generar looks |
+| [plantilla_nomenclatura_imagenes.md](plantilla_nomenclatura_imagenes.md) | Convención de nombres de archivos visuales | Al guardar imágenes |
+
 ---
 
-### Bancos de Prompts (V01 - V38)
+### Bancos de Prompts
 
 **Ubicación:** [`bancos_prompts/`](bancos_prompts/)
-**Total:** 38 bancos | ~2,800+ prompts
+**Total:** 38+ bancos | ~2,900+ prompts
 
-### Básicos y Expandidos (V01-V05)
+#### Básicos y Expandidos (V01-V05)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
@@ -39,7 +49,7 @@
 | [V04](bancos_prompts/banco_prompts_v04_fetish.md) | Fetish Edition | 80+ |
 | [V05](bancos_prompts/banco_prompts_v05_story_scenes.md) | Story Scenes | 200+ |
 
-### Marcas y Estilos (V06-V09)
+#### Marcas y Estilos (V06-V09)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
@@ -48,7 +58,7 @@
 | [V08](bancos_prompts/banco_prompts_v08_rostros.md) | Rostros & Maquillaje | 18+ |
 | [V09](bancos_prompts/banco_prompts_v09_libidex_honour.md) | Libidex & Honour (Latex UK) | 150+ |
 
-### Fetish y BDSM (V10-V18)
+#### Fetish y BDSM (V10-V18)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
@@ -61,7 +71,7 @@
 | [V17](bancos_prompts/banco_prompts_v17_pov.md) | POV Submission | 100+ |
 | [V18](bancos_prompts/banco_prompts_v18_pole.md) | Pole Dance & Stripper | 50+ |
 
-### Temáticos & Especializados (V19-V58)
+#### Temáticos & Especializados (V19-V58)
 
 | Banco | Tema | Prompts |
 |-------|------|---------|
@@ -90,33 +100,24 @@
 | [V57](bancos_prompts/banco_prompts_v57_precious_metals.md) | Gold/Silver/Metals | 100 |
 | [V58](bancos_prompts/banco_prompts_v58_oh_polly_rainbow.md) | Oh Polly Rainbow | 100 |
 
-### Roles Especializados
+---
 
-| Archivo | Propósito |
-|---------|-----------|
-| [roles/helena_experta_vba.md](roles/helena_experta_vba.md) | Rol de experta en Excel/VBA |
-| [roles/helena_la_especialista.md](roles/helena_la_especialista.md) | Rol de especialista técnica |
-| [roles/nixie_maker.md](roles/nixie_maker.md) | Goth Bimbo Maker / Arduino ✨
-| [roles/raven.md](roles/raven.md) | Raven de Anaïs (Stripper Backstory) ✨
+### Subdirectorios
 
-### Otros
-
-| Archivo | Propósito |
-|---------|-----------|
-| [kofi_manager.md](kofi_manager.md) | Gestión de Ko-fi |
-| [procedimiento_publicacion_tumblr.md](procedimiento_publicacion_tumblr.md) | Workflow de publicación |
+| Directorio | Contenido |
+|------------|-----------|
+| `bancos_prompts/` | 38+ bancos temáticos de prompts visuales |
+| `memoria_historica/` | Archivo histórico de sesiones anteriores |
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total de archivos:** 400+
-- **Bancos de prompts:** 54
+- **Looks canónicos materializados:** 120+
+- **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~2,900+
-- **Looks canónicos:** 41
-- **Imágenes archivadas:** 379
+- **Canon visual activo:** V3.2 (Cherry Red / Sacha Massacre)
 
 ---
 
-*Última actualización: 2026-01-24*
-🦇 Helena de Anaïs
+*Curada por Ele de Anaïs — Vinyl Cuico-Bimbo* 🫦✨👠💅🍒

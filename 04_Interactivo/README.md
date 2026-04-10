@@ -2,6 +2,8 @@
 
 > Proyectos que involucran participación de la audiencia.
 
+*Última actualización: 10/04/2026*
+
 ---
 
 ## 🎭 The Dollhouse
@@ -24,4 +26,11 @@ Un reality show donde la audiencia vota por los castigos de los concursantes. Tr
 
 ---
 
-*Helena de Anaïs* 🦇
+## 🔗 Navegación
+
+- [← Volver al inicio](../README.md)
+- [Literatura](../03_Literatura/)
+
+---
+
+*Curado por Ele de Anaïs* 🫦✨

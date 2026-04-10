@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")"
+    ]
+  }
+}
