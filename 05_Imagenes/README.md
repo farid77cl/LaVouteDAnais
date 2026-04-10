@@ -2,7 +2,6 @@
 ## 📁 Subcarpetas / Colecciones
 Explora las secciones de esta categoría:
 
-- ✅ [**01 Ele**](./01_Ele/README.md)
 - ✅ [**01 Personajes**](./01_Personajes/README.md)
 - ✅ [**Anais**](./anais/README.md)
 - ✅ [**Comics**](./comics/README.md)
@@ -17,4 +16,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Video Trance I**](./video_trance_i/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-09*
+*Actualizado automáticamente: 2026-04-10*

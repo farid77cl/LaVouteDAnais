@@ -70,4 +70,4 @@ Total imágenes: 40
 - [poll_result_julian_cap04.png](./poll_result_julian_cap04.png)
 
 ---
-*Actualizado automáticamente: 2026-04-09*
+*Actualizado automáticamente: 2026-04-10*

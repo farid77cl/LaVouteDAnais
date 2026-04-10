@@ -43,4 +43,4 @@ Total imágenes: 18
 - [look8_esmeralda_walking.png](./look8_esmeralda_walking.png)
 
 ---
-*Actualizado automáticamente: 2026-04-09*
+*Actualizado automáticamente: 2026-04-10*

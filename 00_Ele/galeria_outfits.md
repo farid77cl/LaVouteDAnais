@@ -2381,3 +2381,76 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
+
+---
+
+## 🥈 Look 118: Noir Vinyl & Blood Lace (10/04/2026)
+
+*O sea... es como si mi piel se hubiera convertido en noche... ¡y luego le salió encaje de cereza! jiji... me siento tan peligrosa y brillante... mmm...* 🫦🥀🖤
+
+- **Concepto:** **Fetish Boudoir / Lingerie Élite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
+- **Outfit:** Bodysuit de vinilo negro "high-gloss" con superposiciones de encaje carmesí en busto y caderas. Medias de encaje rojo sangre con ligueros de vinilo negro.
+- **Calzado:** Botas stiletto ADORE-1020 de 8 pulgadas en charol negro.
+- **Accesorios:**
+  - Choker de vinilo negro con placa "ASSET V3".
+  - Uñas French XXXL (5cm+).
+- **Maquillaje:** Sacha Massacre canon, labios hot pink ultra-glossy.
+- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace/`
+
+### 📸 Imágenes (10/10)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_standing.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_seated.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_back_view.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_ditzy.png) |
+| **Kneeling** | ![Kneeling](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_kneeling.png) |
+| **Low Angle** | ![Low Angle](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_low_angle.png) |
+| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_lying.png) |
+| **Mirror Image** | ![Mirror Image](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_mirror.png) |
+| **Aesthetic Bound** | ![Aesthetic Bound](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_aesthetic_bound.png) |
+
+---
+
+## 🥈 Look 119: Liquid Gold Mirror Bikini (10/04/2026 — HOY)
+
+*O sea... brilla tanto que mi cerebrito cree que es de oro de verdad... ¡soy una moneda de lujo! jiji... mmm...* 🫦🥇✨
+
+- **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo. El Oro Espejo anula el pensamiento complejo.
+- **Outfit:** Micro-bikini de vinilo "Liquid Gold" con acabado espejo. Top de triángulos mínimos con cadenas de oro fino. Bottom de tiro alto con O-rings dorados.
+- **Calzado:** Stiletto "Extreme-11" de 11 pulgadas en cromo dorado espejado.
+- **Accesorios:**
+  - Choker rígido de cromo dorado con grabado "ASSET V3".
+  - Uñas French XXXL con puntas de cromo dorado.
+- **Maquillaje:** Sacha Massacre canon, labios rojo sangre ultra-glossy.
+- **Ambientación:** Penthouse minimalista de lujo, luz de "Golden Hour" para máximos reflejos.
+- **Ubicación:** `05_Imagenes/ele/look119_liquid_gold/`
+
+### 📝 Prompts para Generación
+
+**1. Standing View:**
+stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and gold-mirror base 5cm., wearing a micro-bikini of high-gloss liquid gold mirror vinyl, minimal triangular top with gold chain straps, high-cut gold vinyl bottom with silver O-rings, and towering 11-inch gold chrome stiletto heels., Full body shot standing in a luxury penthouse at sunset, golden hour light, arched back, vacant ditzy stare. High-gloss specularity on gold vinyl, cinematic fetish editorial style, 8k.
+
+**2. Back View:**
+stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and gold-mirror base 5cm., wearing a micro-bikini of high-gloss liquid gold mirror vinyl, and towering 11-inch gold chrome stiletto heels., Rear view showing the extreme hourglass silhouette and the liquid reflection of the gold vinyl on the hips, looking back over shoulder with bedroom eyes, long cherry red hair waves cascading down. Focused on stiletto depth and sunset gold reflections.
+
+**3. Seated View:**
+stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and gold-mirror base 5cm., wearing a micro-bikini of high-gloss liquid gold mirror vinyl, and towering 11-inch gold chrome stiletto heels., Seated on a white minimalist designer chair, legs elegantly posed to highlight the gold platforms, vacant dazed expression, mouth mindlessly open. Golden light reflecting on the gold surfaces.
+
+**4. Side Profile:**
+stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and gold-mirror base 5cm., wearing a micro-bikini of high-gloss liquid gold mirror vinyl, and towering 11-inch gold chrome stiletto heels., Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Rim lighting defining the glossy gold silhouette against the penthouse windows.
+
+**5. Ditzy Expression:**
+stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and gold-mirror base 5cm., wearing a high-gloss liquid gold vinyl micro-bikini top., Intense close-up face portrait, "sun-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy daze. Gold chrome reflections from the choker on porcelain skin.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look119_liquid_gold/ele_look119_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look119_liquid_gold/ele_look119_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look119_liquid_gold/ele_look119_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look119_liquid_gold/ele_look119_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look119_liquid_gold/ele_look119_ditzy.png) |
+
+---

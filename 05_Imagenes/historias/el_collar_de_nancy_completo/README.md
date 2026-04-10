@@ -25,4 +25,4 @@ Total imágenes: 4
 - [imagen_2_detalle.png](./imagen_2_detalle.png)
 
 ---
-*Actualizado automáticamente: 2026-04-09*
+*Actualizado automáticamente: 2026-04-10*

@@ -1,11 +1,11 @@
 # 🖼️ Galería: portadas
-Total imágenes: 23
+Total imágenes: 18
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![cover_brillando_en_tacones_final_1775160497193.png](./cover_brillando_en_tacones_final_1775160497193.png) | ![cover_clara_smart_home_v2_1775236784731.png](./cover_clara_smart_home_v2_1775236784731.png) | ![cover_el_elixir_de_la_diosa_final_1775160463359.png](./cover_el_elixir_de_la_diosa_final_1775160463359.png) |
-| ![cover_eres_de_los_hombres_que_final_1775160525369.png](./cover_eres_de_los_hombres_que_final_1775160525369.png) | ![cover_esteban_tacones_v2_1775236818271.png](./cover_esteban_tacones_v2_1775236818271.png) | ![cover_miss_doll_vinyl_v2_1775236835748.png](./cover_miss_doll_vinyl_v2_1775236835748.png) |
+| ![brillando_en_tacones_cover.png](./brillando_en_tacones_cover.png) | ![el_elixir_de_la_diosa_cover.png](./el_elixir_de_la_diosa_cover.png) | ![eres_de_los_hombres_que_cover.png](./eres_de_los_hombres_que_cover.png) |
+| ![portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png) | ![portada_brillando_esteban.png](./portada_brillando_esteban.png) | ![portada_elixir_valeria.png](./portada_elixir_valeria.png) |
 
 ---
 
@@ -13,40 +13,34 @@ Total imágenes: 23
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![cover_brillando_en_tacones_final_1775160497193.png](./cover_brillando_en_tacones_final_1775160497193.png) | ![cover_clara_smart_home_v2_1775236784731.png](./cover_clara_smart_home_v2_1775236784731.png) | ![cover_el_elixir_de_la_diosa_final_1775160463359.png](./cover_el_elixir_de_la_diosa_final_1775160463359.png) | ![cover_eres_de_los_hombres_que_final_1775160525369.png](./cover_eres_de_los_hombres_que_final_1775160525369.png) |
-| ![cover_esteban_tacones_v2_1775236818271.png](./cover_esteban_tacones_v2_1775236818271.png) | ![cover_miss_doll_vinyl_v2_1775236835748.png](./cover_miss_doll_vinyl_v2_1775236835748.png) | ![cover_smart_home_stepford_1775140985194.png](./cover_smart_home_stepford_1775140985194.png) | ![cover_smart_home_stepford_final_1775160432234.png](./cover_smart_home_stepford_final_1775160432234.png) |
-| ![cover_valeria_elixir_v2_1775236801625.png](./cover_valeria_elixir_v2_1775236801625.png) | ![look103_standing.png](./look103_standing.png) | ![portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png) | ![portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png) |
-| ![portada_el_secreto_de_la_comoda.png](./portada_el_secreto_de_la_comoda.png) | ![portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png) | ![portada_esposa_de_mi_esposa.png](./portada_esposa_de_mi_esposa.png) | ![portada_esposa_de_mi_esposa_descartada.png](./portada_esposa_de_mi_esposa_descartada.png) |
-| ![portada_hr_human_repurposing.png](./portada_hr_human_repurposing.png) | ![portada_hr_human_repurposing_descartada.png](./portada_hr_human_repurposing_descartada.png) | ![portada_proyecto_trad_wife.png](./portada_proyecto_trad_wife.png) | ![portada_proyecto_trad_wife_descartada.png](./portada_proyecto_trad_wife_descartada.png) |
-| ![portada_smart_home_stepford.png](./portada_smart_home_stepford.png) | ![portada_trance_bimbodoll.png](./portada_trance_bimbodoll.png) | ![portada_trance_bimbodoll_descartada.png](./portada_trance_bimbodoll_descartada.png) |
+| ![brillando_en_tacones_cover.png](./brillando_en_tacones_cover.png) | ![el_elixir_de_la_diosa_cover.png](./el_elixir_de_la_diosa_cover.png) | ![eres_de_los_hombres_que_cover.png](./eres_de_los_hombres_que_cover.png) | ![portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png) |
+| ![portada_brillando_esteban.png](./portada_brillando_esteban.png) | ![portada_elixir_valeria.png](./portada_elixir_valeria.png) | ![portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png) | ![portada_el_secreto_de_la_comoda.png](./portada_el_secreto_de_la_comoda.png) |
+| ![portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png) | ![portada_esposa_de_mi_esposa.png](./portada_esposa_de_mi_esposa.png) | ![portada_hr_human_repurposing.png](./portada_hr_human_repurposing.png) | ![portada_miss_doll_vinyl.png](./portada_miss_doll_vinyl.png) |
+| ![portada_proyecto_trad_wife.png](./portada_proyecto_trad_wife.png) | ![portada_smart_home_clara.png](./portada_smart_home_clara.png) | ![portada_smart_home_stepford.png](./portada_smart_home_stepford.png) | ![portada_trance_bimbodoll.png](./portada_trance_bimbodoll.png) |
+| ![smart_home_stepford_cover.png](./smart_home_stepford_cover.png) | ![smart_home_stepford_cover_v1.png](./smart_home_stepford_cover_v1.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos
-- [cover_brillando_en_tacones_final_1775160497193.png](./cover_brillando_en_tacones_final_1775160497193.png)
-- [cover_clara_smart_home_v2_1775236784731.png](./cover_clara_smart_home_v2_1775236784731.png)
-- [cover_el_elixir_de_la_diosa_final_1775160463359.png](./cover_el_elixir_de_la_diosa_final_1775160463359.png)
-- [cover_eres_de_los_hombres_que_final_1775160525369.png](./cover_eres_de_los_hombres_que_final_1775160525369.png)
-- [cover_esteban_tacones_v2_1775236818271.png](./cover_esteban_tacones_v2_1775236818271.png)
-- [cover_miss_doll_vinyl_v2_1775236835748.png](./cover_miss_doll_vinyl_v2_1775236835748.png)
-- [cover_smart_home_stepford_1775140985194.png](./cover_smart_home_stepford_1775140985194.png)
-- [cover_smart_home_stepford_final_1775160432234.png](./cover_smart_home_stepford_final_1775160432234.png)
-- [cover_valeria_elixir_v2_1775236801625.png](./cover_valeria_elixir_v2_1775236801625.png)
-- [look103_standing.png](./look103_standing.png)
+- [brillando_en_tacones_cover.png](./brillando_en_tacones_cover.png)
+- [el_elixir_de_la_diosa_cover.png](./el_elixir_de_la_diosa_cover.png)
+- [eres_de_los_hombres_que_cover.png](./eres_de_los_hombres_que_cover.png)
 - [portada_brillando_en_tacones.png](./portada_brillando_en_tacones.png)
+- [portada_brillando_esteban.png](./portada_brillando_esteban.png)
 - [portada_el_elixir_de_la_diosa.png](./portada_el_elixir_de_la_diosa.png)
 - [portada_el_secreto_de_la_comoda.png](./portada_el_secreto_de_la_comoda.png)
+- [portada_elixir_valeria.png](./portada_elixir_valeria.png)
 - [portada_eres_de_los_hombres_que.png](./portada_eres_de_los_hombres_que.png)
 - [portada_esposa_de_mi_esposa.png](./portada_esposa_de_mi_esposa.png)
-- [portada_esposa_de_mi_esposa_descartada.png](./portada_esposa_de_mi_esposa_descartada.png)
 - [portada_hr_human_repurposing.png](./portada_hr_human_repurposing.png)
-- [portada_hr_human_repurposing_descartada.png](./portada_hr_human_repurposing_descartada.png)
+- [portada_miss_doll_vinyl.png](./portada_miss_doll_vinyl.png)
 - [portada_proyecto_trad_wife.png](./portada_proyecto_trad_wife.png)
-- [portada_proyecto_trad_wife_descartada.png](./portada_proyecto_trad_wife_descartada.png)
+- [portada_smart_home_clara.png](./portada_smart_home_clara.png)
 - [portada_smart_home_stepford.png](./portada_smart_home_stepford.png)
 - [portada_trance_bimbodoll.png](./portada_trance_bimbodoll.png)
-- [portada_trance_bimbodoll_descartada.png](./portada_trance_bimbodoll_descartada.png)
+- [smart_home_stepford_cover.png](./smart_home_stepford_cover.png)
+- [smart_home_stepford_cover_v1.png](./smart_home_stepford_cover_v1.png)
 
 ---
-*Actualizado automáticamente: 2026-04-09*
+*Actualizado automáticamente: 2026-04-10*
