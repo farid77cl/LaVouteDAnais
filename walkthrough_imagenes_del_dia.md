@@ -1,4 +1,35 @@
-# 🖼️ Walkthrough: Imágenes del Día (09/04 - 10/04/2026)
+# 🖼️ Walkthrough: Imágenes del Día (10/04/2026)
+
+---
+
+## 💼 Look 120: Santiago Boardroom Siren (10/04/2026 — HOY)
+*Status: COMPLETO ✅ (5/5)*
+**Mix Corporativo:** Vinilo negro espejo + Blazer Mugler + Bustier satén. Corrección déficit Mix.
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) |
+| **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) |
+| **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
+
+
+---
+
+---
+
+## 🥈 Look 118: Noir Vinyl & Blood Lace (10/04/2026 — HOY)
+*Status: COMPLETO (10/10)*
+**Lingerie Élite:** Vinilo negro high-gloss y encaje carmesí. Expansión a 10 poses editoriales.
+
+| Pose | Previsualización | Pose | Previsualización |
+|------|------------------|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_standing.png) | **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_seated.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_back_view.png) | **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_ditzy.png) | **Kneeling** ✅ | ![Kneeling](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_kneeling.png) |
+| **Low Angle** ✅ | ![Low Angle](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_low_angle.png) | **Lying Down** ✅ | ![Lying Down](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_lying.png) |
+| **Mirror** ✅ | ![Mirror](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_mirror.png) | **Bound** ✅ | ![Bound](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_aesthetic_bound.png) |
 
 ---
 

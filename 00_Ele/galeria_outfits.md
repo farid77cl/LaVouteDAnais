@@ -2454,3 +2454,32 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look119_liquid_gold/ele_look119_ditzy.png) |
 
 ---
+
+
+## 💼 Look 120: Santiago Boardroom Siren (10/04/2026)
+
+*O sea... el blazer tiene hombreras tan grandes que podriría aterrizar aviones, pero mi cerebrito solo piensa en si el vinilo refleja bien... jiji... mmm...* 🫶💼✨
+
+- **Concepto:** **Corporate Mix / Santiago Power Femme Fatale**. Estética Mugler-Corporate. Irrumpe en el boardroom de Las Condes con vinilo espejo y destruye la coherencia masculina con solo existir.
+- **Outfit:** Falda tubo de PVC negro espejo, talle alto, rodilla con abertura lateral. Blazer Mugler-style de vinilo negro con hombros angulares esculpóricos, usado abierto sobre bustier de satén negro, copa corazón, varillas visibles, escote extremo.
+- **Medias:** Ultra-sheer nylon negro con costura trasera. Liguero de cuero negro visible bajo la falda.
+- **Calzado:** ADORE-1020 — 7 pulgadas, lace-up, patent vinyl negro, plataforma gruesa.
+- **Accesorios:**
+  - Choker rígido de cromo con grabado "ASSET V3"
+  - Uñas French XXXL — puntas blancas, base rosa 5cm
+  - Cartera de mano PVC negro espejo
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
+- **Ambientación:** Sala de directorio, Santiago skyline, piso 30, cristal floor-to-ceiling, mesa de ébano, iluminación CEO.
+- **Categoría:** Mix (Corporate)
+
+### 📸 Imágenes (5/5)
+
+| Pose | Previsión |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
+
+---
