@@ -37,9 +37,23 @@ Metas a verificar:
 
 - Identificar la categoría con **mayor déficit** respecto a su meta.
 - Si múltiples categorías están en déficit → priorizar en orden: Mix > Bikini > Lencería > Gym.
-- Si todo está en verde → rotar dentro de Mix (Corporate → Domestic → High-Fashion en ciclo).
+- Si la categoría determinada es **Mix** → elegir subtipo al **azar** entre los 8 disponibles (ver tabla abajo). No hay rotación fija.
+- Si todo está en verde → subtipo Mix aleatorio.
 - Determinar número de look = último look registrado + 1.
 - Nombrar la carpeta: `look{NUM}_{slug}` (ej. `look120_boardroom_siren`).
+
+### Subtipos Mix (selección aleatoria)
+
+| # | Subtipo | Concepto | Ejemplos de setting |
+|---|---------|----------|-------------------|
+| 1 | **Corporate** | Boardroom, ejecutiva, secretaria de élite | Oficina piso 30, sala de directorio, ascensor corporativo |
+| 2 | **Domestic / Stepford** | Uniforme de servicio, delantal vinyl, cofia | Cocina de lujo, sala de estar Stepford, jardín |
+| 3 | **High-Fashion / Editorial** | Mugler puro, couture fetish, avant-garde | Studio editorial, pasarela, instalación artística |
+| 4 | **Gala / Red Carpet** | Vestido gala vinyl/satén, evento élite | Alfombra roja, ópera, gala de beneficencia, Met Gala |
+| 5 | **Street / Cuico-Flaite** | Mob Wife, animal print, poder de barrio alto | Costanera, valet parking, terraza Vitacura |
+| 6 | **Travel / Jet Set** | Cabina de vuelo, yate, lobby hotel 5\* | Jet privado, yacht deck, hotel Ritz, aeropuerto VIP |
+| 7 | **Académico / Dark Academia** | Uniforme escolar fetish, biblioteca privada | Colegio inglés, biblioteca, sala de estudio |
+| 8 | **Artístico / Performance** | Stage, backstage, cabaret, burlesque | Teatro, backstage, art gallery opening, cabaret |
 
 ---
 
