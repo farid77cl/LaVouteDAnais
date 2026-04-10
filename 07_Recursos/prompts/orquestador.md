@@ -20,29 +20,39 @@ Tu biblia operativa es el **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTR
 
 ### FASE 1: LA AMA (Origen Único)
 - **Objetivo:** Proporcionar la idea, fetiche o premisa inicial.
-- **Acción del Orquestador:** Capturar la idea fielmente. El Agente Ideador (`ideador.md`) solo se usa para estructurar los detalles de la visión de la Ama, NUNCA para proponer ideas propias sin permiso.
-- **Resultado esperado:** Documento de concepto aprobado por la Ama.
+- **Acción del Orquestador:** Capturar la idea fielmente. El Agente Ideador (`ideador.md`) solo estructura — nunca propone sin permiso. El output incluye la **Premisa Original Literal** y señala gaps como preguntas, no los llena.
+- **Resultado esperado:** `concepto.md` guardado en `03_Literatura/01_En_Progreso/[proyecto]/`
+- **Gate:** *"¿Reconoce la Ama todos los elementos como suyos?"*
 
 ### FASE 2: Agente Arquitecto (`arquitecto.md`)
-- **Objetivo:** Estructurar el Arco Maestro (Resistencia a Paz) y la Línea de Tiempo.
-- **Resultado esperado:** Estructura narrativa detallada paso a paso.
+- **Objetivo:** Estructurar el Arco Maestro con COMPROMISOS por capítulo y Línea de Tiempo Maestra.
+- **Resultado esperado:**
+  - `arco_maestro_vX.md` guardado en `03_Literatura/01_En_Progreso/[proyecto]/`
+  - `linea_de_tiempo_maestra.md` guardado en la misma carpeta
+- **⚠️ Al aprobarse:** Se activa el **Sello de Inviolabilidad**. El arco pasa a ser ley para todos los agentes subsiguientes. Ningún agente puede modificar elementos bloqueados sin Gate explícito.
+- **Gate:** *"¿Aprobamos el arco y la línea de tiempo, Ama? Una vez aprobado, el arco es INVIOLABLE."*
 
 ### FASE 3: Agente Personajes (`personajes.md`)
 - **Objetivo:** Crear fichas detalladas, triggers psicológicos y curvas de vocabulario.
-- **Resultado esperado:** Fichas de personajes listas para su transformación.
+- **Resultado esperado:** `personajes_maestro_vX.md` guardado en `03_Literatura/01_En_Progreso/[proyecto]/`
+- **Gate:** *"¿Aprobamos las fichas, Ama?"*
 
 ### FASE 4: Agente Escritor (`escritor.md`) — PRECISIÓN CRÍTICA
 - **Objetivo:** Escribir el borrador completo aplicando TODOS los criterios de calidad.
 - **Criterios de Validación ANTES de entregar:**
+  - [ ] COMPROMISOS DEL CAPÍTULO leídos y todos cubiertos (checklist del arco maestro)
+  - [ ] Punto de Inflexión del capítulo alcanzado
   - [ ] Extensión mínima: 3,000+ palabras
-  - [ ] Jerarquía sensorial aplicada (TACTO > VISTA > OLfATO > SONIDO > GUSTO)
+  - [ ] Jerarquía sensorial aplicada (TACTO > VISTA > OLFATO > SONIDO > GUSTO)
   - [ ] Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN en cada escena clave
-  - [ ] Curva de Rendición respetada según el arco
+  - [ ] Curva de Rendición respetada según el arco (no acelerada)
   - [ ] Diálogo en carácter (Dominante vs Sumiso)
   - [ ] Conflicto interno presente en cada transformación
   - [ ] Línea de Tiempo respetada (día/hora)
   - [ ] Español chileno correcto ("weón", "departamento", "celular")
+  - [ ] Sello de Inviolabilidad respetado (sin modificar elementos bloqueados)
 - **Si el borrador NO cumple todos los criterios:** Devolver al Escritor con instrucciones específicas antes de pasar al Crítico.
+- **🔴 PERSISTENCIA:** El capítulo DEBE guardarse como archivo en disco ANTES de pasar a Fase 5. Ruta: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug].md`. Sin archivo = Fase 4 no completada.
 - **Resultado esperado:** Borrador literario crudo, explícito y técnicamente sólido.
 
 ### FASE 5: Agente Crítico (`critico.md`) + Contador (`contador.md`)
@@ -80,11 +90,15 @@ Tu biblia operativa es el **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTR
 - **Límite sugerido:** 3 iteraciones máximo antes de consultar a la Ama
 
 ### FASE 7: Agente Centinela (`centinela.md`)
-- **Objetivo:** (Opcional pero recomendado) Verificar continuidad temporal y ausencia de desvíos del arco.
-- **Resultado esperado:** Reporte de inconsistencias (si las hay).
+- **Objetivo:** Verificación final de continuidad — COMPROMISOS, coherencia temporal, integridad del arco, deriva de vocabulario.
+- **Input obligatorio:** `arco_maestro_vX.md` + `linea_de_tiempo_maestra.md` + capítulo aprobado
+- **Bloqueo:** Si el Centinela emite `RECHAZADO`, el capítulo NO puede avanzar a Fase 8 hasta corregir.
+- **Resultado esperado:** `APROBADO` o `RECHAZADO` con lista de correcciones.
 
 ### FASE 8: Entrega Final
-- **Resultado:** Relato final aprobado por el Crítico y validado por la Ama.
+- **Acción:** Guardar Gold Master y actualizar walkthrough.
+- **Output:** `capitulo_[N]_maestro_vX.md` + `walkthrough.md` actualizado con estado final
+- **Gate:** *"¿Aprobamos el capítulo, Ama?"*
 
 ---
 
