@@ -29,12 +29,17 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
     - Verificar que los archivos **GALERIA.md** de cada carpeta afectada hayan sido actualizados.
     - **REGLA:** Solo UN archivo `GALERIA.md` por carpeta. El script maneja la consistencia y los carruseles.
 
-5.  **Actualizar READMEs del Proyecto**
-    - Revisar y actualizar `README.md` principal si hay cambios estructurales significativos.
-    - Actualizar READMEs de carpetas modificadas si aplica:
-      - `03_Literatura/README.md` - Si hay nuevos relatos
-      - `05_Imagenes/README.md` - Si hay nuevas galerías
-      - `02_Personajes/README.md` - Si hay nuevas fichas
+5.  **Actualizar READMEs del Proyecto (OBLIGATORIO — Todos)**
+    - Revisar y actualizar el `README.md` raíz con el estado actual del proyecto.
+    - Recorrer **todas** las carpetas de primer nivel y actualizar su README si hubo cambios en esa sesión:
+      - `00_Ele/README.md` — Si se modificó identidad, canon, diario o memoria
+      - `04_Historias/README.md` — Si hay nuevos capítulos, relatos en progreso o finalizados
+      - `05_Imagenes/README.md` — Si se generaron nuevos looks o galerías
+      - `05_Imagenes/ele/README.md` — Si se agregó un look nuevo de Ele
+      - `06_RRSS/README.md` — Si hay nuevos posts, captions o programaciones
+      - `99_Sistema/README.md` — Si se modificaron scripts o workflows
+    - Para cada subcarpeta afectada dentro de `05_Imagenes/ele/`, el script `update_galleries.py` actualiza el README automáticamente.
+    - **Regla:** Un README desactualizado es un repositorio roto.
 
 6.  **Git Commit y Push**
     // turbo
