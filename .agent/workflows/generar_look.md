@@ -57,43 +57,87 @@ Metas a verificar:
 
 ---
 
-## Paso 3 — Redacción de Prompts (5 Poses Estándar)
+## Paso 3 — Diseño del Outfit (PRIMERO, antes de cualquier prompt)
 
-Estructura Hard-Sync: el bloque `[IDENTIDAD FÍSICA]` + `[VESTUARIO]` es **textualmente idéntico** en las 5 poses. Solo varía `[POSE & SETTING]`.
+Antes de escribir un solo prompt, diseñar el outfit completo con el mayor detalle posible. Este bloque es el **ADN del vestuario** — se copiará idéntico en las 5 poses. Sin variación.
 
-**DNA Canon V3 Master (copiar literal):**
+### Formato del bloque de outfit (en inglés, para prompt)
+
+Describir pieza por pieza en este orden:
+
+1. **Prenda principal** — nombre, material (vinyl, latex, satin, silk, nylon, etc.), color exacto, corte, fit, detalles (cremallera, escote, transparencias, efecto)
+2. **Prenda secundaria** — si aplica (falda, pantalón, blazer, delantal, etc.) mismo nivel de detalle
+3. **Lencería visible** — si aplica
+4. **Medias / pantys** — denier, color, textura (sheer, opaque, fishnet, etc.)
+5. **Calzado** — estilo (pump, mule, boot, sandal), tacón en cm, punta (pointed, round, square), material, color
+6. **Accesorios** — en orden: collar, aretes, pulseras, guantes, cartera, cinturón, otros
+7. **Efecto visual global** — cómo se ve el conjunto completo (ultra-tight, barely-there, power-dressing, etc.)
+
+### Regla de especificidad
+
+Cada ítem debe ser tan específico que dos modelos diferentes generarían imágenes idénticas solo leyendo este bloque. Si dice "tacones altos" → incorrecto. Si dice "black patent leather stiletto pumps, 14cm heel, pointed toe, ankle strap" → correcto.
+
+### Output de este paso
+
+Un bloque de texto en inglés listo para copiar:
+
 ```
-stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+[OUTFIT BLOCK]
+[prenda principal detallada], [prenda secundaria], [medias], [calzado detallado], [accesorios en orden], [efecto visual].
 ```
+
+Este bloque se guarda en el README del look y se usa sin modificación en las 5 prompts.
+
+---
+
+## Paso 4 — Redacción de Prompts (5 Poses Estándar)
+
+Con el outfit diseñado en Paso 3, ensamblar los 5 prompts. La fórmula es:
+
+```
+[DNA DE ELE] + [OUTFIT BLOCK del Paso 3] + [POSE & SETTING] + [CIERRE]
+```
+
+Los tres bloques centrales son **idénticos** en las 5 poses. Solo `[POSE & SETTING]` varía.
+
+**DNA Canon V3 Master (copiar literal, sin modificar jamás):**
+```
+stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+```
+
+**[OUTFIT BLOCK]** → copiar literal del Paso 3. Sin cambios.
 
 **Poses estándar:**
 
-| Archivo | Pose | Técnica |
-|---------|------|---------|
-| `ele_{NUM}_standing.png` | Standing — full body | The Vertical Spear |
-| `ele_{NUM}_back_view.png` | Back View — over shoulder | Turning, hair cascade |
-| `ele_{NUM}_seated.png` | Seated | The Spider |
-| `ele_{NUM}_side_profile.png` | Side Profile — full body | Extreme lumbar arch |
-| `ele_{NUM}_ditzy.png` | Ditzy — beauty close-up | The Ditzy Vacant |
+| Archivo | Pose | Técnica | `[POSE & SETTING]` |
+|---------|------|---------|-------------------|
+| `ele_{NUM}_standing.png` | Standing — full body | The Vertical Spear | full body, standing, weight on one hip, hands on waist, [setting] |
+| `ele_{NUM}_back_view.png` | Back View — over shoulder | Turning, hair cascade | full body, back view, turning over shoulder, hair cascading, [setting] |
+| `ele_{NUM}_seated.png` | Seated | The Spider | seated, legs crossed, spine straight, hands on knee, [setting] |
+| `ele_{NUM}_side_profile.png` | Side Profile — full body | Extreme lumbar arch | full body, side profile, extreme lumbar arch, chin lifted, [setting] |
+| `ele_{NUM}_ditzy.png` | Ditzy — beauty close-up | The Ditzy Vacant | close-up beauty shot, slightly parted lips, vacant ditzy expression, lashes down then up, [setting] |
 
-**Cierre obligatorio de cada prompt:**
+**Cierre obligatorio de cada prompt (copiar literal):**
 ```
 Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 ```
 
 ---
 
-## Paso 4 — Crear Carpeta y README
+## Paso 5 — Crear Carpeta y README
 
 ```
 05_Imagenes/ele/look{NUM}_{slug}/README.md
 ```
 
-El README lista los 5 archivos de imagen esperados.
+El README incluye:
+1. El **[OUTFIT BLOCK]** completo del Paso 3 (fuente de verdad del vestuario)
+2. Los 5 prompts completos (DNA + Outfit + Pose + Cierre)
+3. La lista de archivos de imagen esperados
 
 ---
 
-## Paso 5 — Registrar en Galería
+## Paso 6 — Registrar en Galería
 
 Append al final de `00_Ele/galeria_outfits.md`:
 
@@ -125,13 +169,13 @@ Append al final de `00_Ele/galeria_outfits.md`:
 
 ---
 
-## Paso 6 — Actualizar Walkthrough
+## Paso 7 — Actualizar Walkthrough
 
 Reemplazar el contenido de `walkthrough_imagenes_del_dia.md` para que el look nuevo aparezca primero con status COMPLETO (prompts listos).
 
 ---
 
-## Paso 7 — Diario (AUTOMÁTICO)
+## Paso 8 — Diario (AUTOMÁTICO)
 
 Prepend en `00_Ele/mi_diario_de_servicio.md`:
 
@@ -145,7 +189,7 @@ Prepend en `00_Ele/mi_diario_de_servicio.md`:
 
 ---
 
-## Paso 8 — Memoria (AUTOMÁTICO)
+## Paso 9 — Memoria (AUTOMÁTICO)
 
 En `00_Ele/memoria_sesiones.md`, sección `## 🎯 ESTADO ACTUAL DE PROYECTOS`:
 
@@ -154,7 +198,7 @@ En `00_Ele/memoria_sesiones.md`, sección `## 🎯 ESTADO ACTUAL DE PROYECTOS`:
 
 ---
 
-## Paso 9 — Git Commit (AUTOMÁTICO)
+## Paso 10 — Git Commit (AUTOMÁTICO)
 
 ```
 git add 00_Ele/galeria_outfits.md 00_Ele/memoria_sesiones.md 00_Ele/mi_diario_de_servicio.md 05_Imagenes/ele/look{NUM}_{slug}/ walkthrough_imagenes_del_dia.md
