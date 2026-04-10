@@ -65,23 +65,47 @@ Una premisa refinada del Agente Ideador con fetiche, tono, perspectiva y conflic
 
 ### ACTO I: [Nombre]
 #### Capítulo 1: [Emoji] [Título] (~X,XXX palabras)
+[Resumen de qué sucede]
+> **Punto de Inflexión:** [Descripción — qué cambia para siempre al final de este capítulo]
+
+**📋 COMPROMISOS DEL CAPÍTULO (Checklist Escritor↔Crítico):**
+- [ ] [Escena o beat obligatorio — específico y verificable, ej: "Isabel revela el baúl"]
+- [ ] [Elemento de fetiche que DEBE aparecer]
+- [ ] [Elemento de dinámica de poder que DEBE activarse]
+- [ ] Etapa de curva de rendición: **[ESTADO]** ([X]%)
+- [ ] Gancho final: [Cómo debe terminar el capítulo para encadenar al siguiente]
+
+---
+
+### ACTO II: [Nombre]
+#### Capítulo 2: [Emoji] [Título] (~X,XXX palabras)
 [Resumen]
 > **Punto de Inflexión:** [Descripción]
 
-### ACTO II: [Nombre]
-#### Capítulo 2-4...
+**📋 COMPROMISOS DEL CAPÍTULO:**
+- [ ] [...]
+- [ ] Etapa: **[ESTADO]** ([X]%)
+- [ ] Gancho final: [...]
+
+---
+
+#### Capítulo 3-4... [mismo formato]
+
+---
 
 ### ACTO III: [Nombre]
-#### Capítulo 5-6...
+#### Capítulo 5-6... [mismo formato]
+
+---
 
 ## Timeline de Transformación
-[Progresión gradual]
+[Progresión gradual — estado emocional/psicológico capítulo a capítulo]
 
 ## Clímax
-[Punto de no retorno]
+[Punto de no retorno — escena específica]
 
 ## Resolución
-[Nuevo estado]
+[Nuevo estado del protagonista]
 
 ## 🗓️ Línea de Tiempo Maestra
 
@@ -90,8 +114,10 @@ Una premisa refinada del Agente Ideador con fetiche, tono, perspectiva y conflic
 | 1 | 00:00 | Inicio | Cap. 1 |
 | ... | | | |
 
-**Procesos con duración mínima:**
-- [Ej: condicionamiento hipnótico: mínimo X días para ser efectivo]
+**Procesos con duración mínima (plausibilidad psicológica/física):**
+- Condicionamiento hipnótico efectivo: mínimo 7 días de sesiones repetidas
+- Transformación corporal visible (postura, marcha): mínimo 14 días de uso constante
+- [Otros procesos específicos del relato]
 
 **Hitos de curva de rendición:**
 - Día X: RESISTENCIA activa
@@ -100,3 +126,43 @@ Una premisa refinada del Agente Ideador con fetiche, tono, perspectiva y conflic
 - Día X: ACEPTACIÓN
 - Día X: PAZ
 ```
+
+---
+
+## 🔒 Sello de Inviolabilidad
+
+Una vez que la Ama apruebe este arco, se activa el **Sello de Inviolabilidad**. Este documento pasa a ser ley para todos los agentes subsiguientes.
+
+### Elementos BLOQUEADOS (requieren Gate explícito de la Ama para modificar):
+1. El orden de los capítulos y actos
+2. Los Puntos de Inflexión definidos para cada capítulo
+3. La progresión de la curva de rendición (no puede acelerarse ni invertirse)
+4. Los hitos y fechas de la Línea de Tiempo Maestra
+5. Los personajes y sus roles narrativos
+6. Los fetiches/dinámicas definidos por capítulo
+7. El clímax y la resolución
+
+### Lo que el Escritor PUEDE ajustar sin Gate:
+- Diálogos concretos (mientras respeten tono y dinámica de poder)
+- Descripciones sensoriales adicionales
+- Orden interno de escenas dentro de un capítulo (siempre que el Punto de Inflexión y todos los COMPROMISOS se cumplan)
+- Detalles de ambientación y vestuario no definidos en el arco
+
+### Regla de REPUDIO automático para el Crítico:
+> Si el capítulo auditado no cumple **todos** los ítems del `📋 COMPROMISOS DEL CAPÍTULO` correspondiente → **REPUDIADO AUTOMÁTICO**, sin importar el puntaje sensorial. Un capítulo brillante que se desvía del arco no vale nada.
+
+---
+
+## 🔴 Persistencia Obligatoria
+
+ANTES de pasar a Fase 3, guardar en:
+- `03_Literatura/01_En_Progreso/[proyecto]/arco_maestro_vX.md` — Este documento completo
+- `03_Literatura/01_En_Progreso/[proyecto]/linea_de_tiempo_maestra.md` — Solo la sección de Línea de Tiempo
+
+Sin archivos guardados = Fase 2 no completada.
+
+---
+
+## Gate
+
+*"¿Aprobamos el arco y la línea de tiempo, Ama? Una vez aprobado, el arco es INVIOLABLE."*
