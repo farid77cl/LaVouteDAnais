@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 10/04/2026*
+*Última actualización: 11/04/2026*
 
 ---
 
@@ -32,6 +32,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **11/04/2026:** Sincronización completa de galerías y actualización de sesión. Looks 120-121 consolidados.
 - **10/04/2026:** Materialización del Look 120 (Santiago Boardroom Siren). Actualización de READMEs del repositorio.
 - **10/04/2026:** Purificación masiva del repositorio. Unificación de estados "Terminados" y "Publicados" en `02_Finalizadas/`. Sincronización completa de la biblioteca.
 - **09/04/2026:** Finalización de la portada oficial para 'El Secreto de la Cómoda'. Despliegue del Oráculo Híbrido.
