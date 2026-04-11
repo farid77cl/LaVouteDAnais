@@ -52,6 +52,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look11 Absinthe**](./look11_absinthe/README.md)
 - ✅ [**Look120 Boardroom Siren**](./look120_boardroom_siren/README.md)
 - ✅ [**Look121 Vinyl Rose Boudoir**](./look121_vinyl_rose_boudoir/README.md)
+- ✅ [**Look122 White Vinyl Mermaid**](./look122_white_vinyl_mermaid/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
 - ✅ [**Look13 Viuda Negra**](./look13_viuda_negra/README.md)

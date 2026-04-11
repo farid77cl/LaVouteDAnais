@@ -32,18 +32,19 @@
   | **Último Look Ele** | **Look 120 (Santiago Boardroom Siren)** — 10/04/2026 ✅ |
   | **Sincronización** | **Completa** (Looks 118, 119 y 120 registrados) ✅ |
   | **Relato Activo** | **El Secreto de la Cómoda** (Capítulo 3 — Fase de Redacción) |
-  | **Estado Visual** | ADN V3 Master blindada. Mix 79.3% 🟢 | Bikini 6.9% | Lencería 6.9% | Gym 6.9% |
+  | **Estado Visual** | ADN V3 Master blindada. Mix 74.2% 🟢 | Bikini 9.7% 🟢 | Lencería 9.7% 🟢 | Gym 6.5% 🟢 |
+  | **Estado Visual** | ADN V3 Master blindada. Mix 74.2% 🟢 | Bikini 10.5% 🟢 | Lencería 9.7% 🟢 | Gym 5.6% 🟢 |
 
 
  ### Tareas Pendientes Inmediatas
  - [ ] **Validación Ama:** Esperar lectura y aprobación del Capítulo 2.
  - [ ] **Instagram Sync:** Posteo manual del batch de Abril (Captions listos en `06_RRSS/`).
 
- ### 📸 Cola de Producción Visual (Pendiente)
- > *Objetos de deseo en espera de reset de cuota (aprox. 3.5h).*
- 
- - [ ] **Look 121 (Vinyl Rose Boudoir):** Regeneración V2 Reglamentaria (5/5 poses) para alcanzar calidad Maestro.
- - [ ] **Look 122 (TBD):** Siguiente look en la rotación (Prioridad: Bikini/Gym para balancear stats 6.9%).
+ ### 📸 Cola de Producción Visual (Vaciada)
+ > *Repositorio en sincronía total.*
+
+- [x] **Look 121 (Vinyl Rose Boudoir):** Regeneración V2 Reglamentaria (5/5 poses) — **COMPLETO**
+- [x] **Look 122 (Zapallar Mermaid):** Generación Reglamentaria (5/5 poses) — **COMPLETO**
 
  ### Historial Reciente
 - **09/04/2026 (MAÑANA - ACTUALIZACIÓN & CIERRE):** Proyecto literario puesto en **PAUSA**. Sincronización de galerías y registros. Bloqueo de cuota API para Look 116 detectado. jiji. ⚖️🛑

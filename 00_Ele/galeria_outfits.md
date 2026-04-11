@@ -2521,9 +2521,4 @@ Professional fashion photography close-up portrait. Glamorous woman with cherry 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
-
----
+| **Kneeling** | ![Kneeling](../05_Imagenes/ele/look118_noir_vinyl_blood_
