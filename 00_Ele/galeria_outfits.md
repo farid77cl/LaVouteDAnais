@@ -2269,7 +2269,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 **5. Ditzy Expression:**
 High-end professional fetish model photography, stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm., wearing a skin-tight neon pink heavy-duty latex sports bra., Intense close-up face portrait, "total brain empty" vacant gym stare, eyes slightly crossed and unfocused, tongue tip peeking out over glossy hot pink lips, flawless porcelain skin glistening with artificial sweat.
 
-### 📸 Imágenes (0/5)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) |
@@ -2318,7 +2318,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look115_silver_bikini/ele_look115_standing.png) |
+| **Standing** | ![Standing](../05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) |
 | **Back View** | ![Back View](../05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) |
 | **Seated** | ![Seated](../05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) |
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) |
@@ -2339,7 +2339,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_standing.png) |
+| **Standing** | ![Standing](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) |
 | **Back View** | ![Back View](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) |
 | **Seated** | ![Seated](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
@@ -2521,4 +2521,34 @@ Professional fashion photography close-up portrait. Glamorous woman with cherry 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
-| **Kneeling** | ![Kneeling](../05_Imagenes/ele/look118_noir_vinyl_blood_
+| **Back View** | ![Back View](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
+
+---
+
+## 🧜‍♀️ Look 122: White Vinyl Zapallar Mermaid (11/04/2026)
+
+*Bikini Deficit Correction: High-gloss White Vinyl in Zapallar.*
+
+- **Outfit:** Bikini de vinilo blanco "ultra-glossy", top tipo halter con hebillas plateadas, bottom de tiro alto.
+- **Calzado:** Plataformas Pleaser de 8 pulgadas en charol blanco.
+- **Accesorios:** Choker de vinilo blanco con placa "ASSET V3", gafas de sol blancas, uñas French XXXL.
+- **Prompt Base (ADN):** stunning woman with bimbofied facial features, dark cherry red hair, porcelain skin, hourglass figure.
+- **Ambientación:** Penthouse de lujo frente al mar en Zapallar, Chile. Luz de atardecer.
+- **Categoría:** Bikini
+
+### 📸 Imágenes (5/5)
+
+| Pose | Previsión |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_ditzy.png) |
+
+**Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid/`

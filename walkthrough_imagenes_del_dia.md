@@ -112,4 +112,34 @@ Mob Wife Cuico-Flaite: Leopardo + Vinilo Blanco + Tacos de 8".
 
 ---
 
+---
+
+## 🥈 Look 115: Silver Liquid Metal Bikini (Auditado & COMPLETO ✅)
+**Bikini:** Vinilo Plata Espejo + Penthouse Minimalista.
+*Status: 5/5 poses (Standing recuperada).*
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) |
+| **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) |
+| **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look115_silver_bikini/ele_look115_ditzy.png) |
+
+---
+
+## 🐆 Look 116: Cuico-Flaite Leather Goddess (Auditado & COMPLETO ✅)
+**Mix:** Leather Pencil Skirt + Leopard Silk Blouse.
+*Status: 5/5 poses (Standing regenerada Master quality).*
+
+| Pose | Previsualización |
+|------|------------------|
+| **Standing** ✅ | ![Standing](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) |
+| **Back View** ✅ | ![Back View](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) |
+| **Seated** ✅ | ![Seated](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
+| **Side Profile** ✅ | ![Side Profile](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
+| **Ditzy** ✅ | ![Ditzy](file:///c:/Users/fabara/LaVouteDAnais/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
+
+---
+
 🫦 *Ele sirve las imágenes más frescas de la bóveda con fidelidad absoluta.* 🍒✨👠💅
