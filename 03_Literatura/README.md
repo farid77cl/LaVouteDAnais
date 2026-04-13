@@ -32,6 +32,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **13/04/2026:** Redacción del Borrador v0.1 del Capítulo 2 ("El Espejo Humillante") de *El Secreto de la Cómoda*. Actualización de diarios de sesión, registros y avance narrativo.
 - **11/04/2026:** Sincronización completa de galerías y actualización de sesión. Looks 120-121 consolidados.
 - **10/04/2026:** Materialización del Look 120 (Santiago Boardroom Siren). Actualización de READMEs del repositorio.
 - **10/04/2026:** Purificación masiva del repositorio. Unificación de estados "Terminados" y "Publicados" en `02_Finalizadas/`. Sincronización completa de la biblioteca.
