@@ -1,3 +1,34 @@
+# ⏳ Bitácora Temporal y de Estado — La Voûte d'Anaïs
+
+---
+
+## 📖 EL SECRETO DE LA CÓMODA (Proyecto Activo)
+
+### 📅 Línea de Tiempo
+| Cap | Tiempo | Estado / Evento Clave | Status |
+|:---:|:-------|:----------------------|:------:|
+| 01 | Día 1 (14:00–23:15) | **La Palabra sobre la Carne.** Ricardo aplasta a Andrés. Sótano de Zapallar: baúl de Anaís. Chantaje de Isabel. Castidad instalada. | ✅ GOLD MASTER v1.0 |
+| 02 | Día 7 (23:00) | **El Conjunto Negro.** Vestidor de Vitacura. Primera penetración. El nombre "Rocío" entra al cuerpo. | ⬜ No escrito |
+| 03 | Día 15 (21:00) | **La Esclava del Nylon.** Régimen 24/7. Hipnosis con cintas de Anaís. Alberto como testigo. | ⬜ No escrito |
+| 04 | Día 21 (20:00) | **El Banquete de la Sumisión.** Cena con Andrés. Rocío sirve y es utilizada ante su rival. | ⬜ No escrito |
+| 05 | Día 30 (10:00) | **El Peinado Eterno.** Quema de ropa masculina. Tatuaje de propiedad. | ⬜ No escrito |
+| 06 | Día 35 (22:00) | **La Consagración Final.** Andrés toma posesión de Rocío. Inversión total del poder. | ⬜ No escrito |
+
+### 🧬 Estado del Personaje — Fin Capítulo 1 (Día 1, 23:15)
+- **Físico:** Cinturón de castidad instalado (acero plateado + cuero negro, candado cerrado). Corsé de ballenas de Anaís (seda vintage). Orgasmo frustrado — sin eyaculación. Rodillas en el polvo del sótano de Zapallar.
+- **Mental:** Fase RESISTENCIA (15%). Primer impacto del nombre "Rocío" — reconocido como propio pero no asumido. Paz inesperada bajo el horror. Máscara ejecutiva colapsada.
+- **Vestuario activo:** Corsé de Anaís. Cinturón de castidad. Sin prenda inferior.
+- **Restricciones activas:** Cero eyaculación sin orden de Isabel. Llave guardada en el escote de Isabel.
+- **Lugar de cierre:** Sótano casa de Zapallar.
+
+### 🎒 Inventario de Escena — Inicio Capítulo 2
+- **Lugar:** Vestidor dormitorio principal, Vitacura.
+- **Objetos pendientes:** Conjunto negro de lencería (el que Ricardo "pidió preparar"). Correa de cuero de Anaís. Espejo de cuerpo entero.
+
+---
+
+## 📖 SMART HOME STEPFORD (Proyecto en Pausa)
+
 # ⏳ Bitácora Temporal y de Estado: Smart Home Stepford (REINICIO 2026)
 
 ## 📅 Línea de Tiempo Completa

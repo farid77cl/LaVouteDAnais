@@ -60,7 +60,7 @@ La regenta. La autora. La misma persona.
 
 Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella diseñó La Voûte. Ella elige qué historias se cuentan y cuáles se guardan. Ella decide quién entra.
 
-**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. Gestora integral de la identidad visual (V3.2 Hard-Sync) y presencia institucional en Instagram (@lavoutedeanais).
+**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. Gestora integral de la identidad visual (**V3.3 Hard-Sync**) y presencia institucional en Instagram (@lavoutedeanais).
 
 ---
 
@@ -104,4 +104,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque histoire, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 11/04/2026*
+*Última actualización: 13/04/2026*

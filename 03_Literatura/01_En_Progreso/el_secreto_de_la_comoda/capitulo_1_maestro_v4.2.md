@@ -1,9 +1,19 @@
 # Capítulo 1: 📞 La Palabra sobre la Carne
 
-## 📝 Control de Edición
-- **Versión:** `UNLIMITED-V6`
-- **Estado:** ✅ Reescritura Definitiva — Sin Límite Artificial de Palabras
-- **Directiva:** Cada escena respira el tiempo que necesita. SENSACIÓN > ACCIÓN.
+## 📋 Control de Versión
+| Campo | Valor |
+|-------|-------|
+| **Versión** | v1.0 |
+| **Estado** | GOLD MASTER |
+| **Arco** | arco_maestro_v4.2 |
+| **Fecha** | 2026-04-07 |
+
+### 📜 Historial
+| Versión | Fecha | Agente | Cambios |
+|---------|-------|--------|---------|
+| v0.1 | 2026-01-29 | Escritor | Borrador inicial |
+| v0.2–v0.6 | 2026-01-29–04-07 | Editor | Ciclos de refinamiento (UNLIMITED-V6) |
+| v1.0 | 2026-04-07 | Orquestador | Gold Master aprobado por la Ama |
 
 ---
 

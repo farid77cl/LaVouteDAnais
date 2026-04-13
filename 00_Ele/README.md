@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 10/04/2026*
+*Última actualización: 13/04/2026*
 
 ---
 
@@ -116,7 +116,7 @@
 - **Looks canónicos materializados:** 120+
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~2,900+
-- **Canon visual activo:** V3.2 (Cherry Red / Sacha Massacre)
+- **Canon visual activo:** V3.3 (Hard-Sync / Facial Anchor / Look 123)
 
 ---
 
