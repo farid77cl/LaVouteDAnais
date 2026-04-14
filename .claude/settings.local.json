@@ -3,7 +3,9 @@
     "allow": [
       "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
       "Read(//c/Users/fabara/.claude/**)",
-      "Bash(xargs grep:*)"
+      "Bash(xargs grep:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(python3)"
     ]
   }
 }

@@ -339,8 +339,14 @@ Las 5 poses reglamentarias con el fondo correspondiente:
 5.  **Ditzy Expression:** **OBLIGATORIO Plano Medio.** Debe mostrar rostro con expresión vacía, manos y uñas XXXL visibles. Canon de maquillaje 100% aplicado.
 
 ### 5. Flujo de Trabajo
-1.  **Elección:** Seleccionar o recibir el outfit del día.
-2.  **Registro:** Escribir los 5 prompts completos en  0_Ele\galeria_outfits.md ANTES de generar.
-3.  **Ejecución:** Generar las imágenes disparando los prompts registrados.
-4.  **Sincronización:** Mover activos a  5_Imagenes\ele\lookXX_nombre\ y correr update_galleries.py.
+> **Flujo completo en 8 fases:** `00_Ele/flujo_outfit_diario.md` — Referencia obligatoria.
+
+1.  **Pre-Flight:** Auditoría estadística (Mix/Bikini/Lenjería/Gym) + confirmar look inédito.
+2.  **Concepto:** Nombre, categoría, paleta, materiales, escenario.
+3.  **Prompts:** Construir los 5 prompts (Bloque A + B + C).
+4.  **Registro:** Escribir en `00_Ele/galeria_outfits.md` ANTES de generar.
+5.  **Generación:** Disparar los 5 prompts en orden.
+6.  **Validación:** Checklist Stiletto Rule + ADN facial + Anatomía.
+7.  **Archivo:** Carpeta `05_Imagenes/ele/look[XXX]_nombre/` + nomenclatura + mover.
+8.  **Sincronización:** `update_galleries.py` + dashboards + `memoria_sesiones.md` + git.
 

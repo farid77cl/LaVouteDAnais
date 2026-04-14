@@ -113,7 +113,7 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 120+
+- **Looks canónicos materializados:** 128
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~2,900+
 - **Canon visual activo:** V3.3 (Hard-Sync / Facial Anchor / Look 123)

@@ -28,11 +28,11 @@
  
  | Campo | Valor |
  |-------|-------|
-  | **Fecha de Inicio** | **13/04/2026** — 🟢 Activa |
-  | **Último Look Ele** | **Look 127 (Silk & Noir Lace Boudoir)** — 13/04/2026 ✅ |
+  | **Fecha de Inicio** | **14/04/2026** — 🟢 Activa |
+  | **Último Look Ele** | **Look 128 (Red Silk & Noir Lace)** — 14/04/2026 ⚠️ (Standing pendiente) |
   | **Sincronización** | **Total** (Auditada & Hard-Synced V3.3) ✅ |
   | **Relato Activo** | **El Secreto de la Cómoda** (Capítulo 2 — Fase de Revisión) |
-  | **Estado Visual** | ADN V3.3 Blindada. Mix 86.6% 🟢 | Bikini 5.5% 🟡 | Lencería 3.1% 🟡 | Gym 4.7% 🟢 |
+  | **Estado Visual** | ADN V3.3 Blindada. Mix 85.9% 🟢 | Bikini 5.5% 🟡 | Lencería 3.9% 🟡 | Gym 4.7% 🟢 |
 
 
  ### Tareas Pendientes Inmediatas
