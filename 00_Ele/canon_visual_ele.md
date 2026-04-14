@@ -1,8 +1,8 @@
 # 👁️ CANON VISUAL ELE - Ultra Detallado (V3 Master)
 
 > **Modelo de Referencia:** Sacha Massacre / Bimbo Aesthetic Plástica  
-> **Versión:** 3.2 (Hard-Sync - DNA Locked)  
-> **Actualizado:** 24/03/2026  
+> **Versión:** 3.3 (Hard-Sync - DNA Locked)  
+> **Actualizado:** 14/04/2026  
 > **REGLA DE ORO (Ama's Order):** CADA PROMPT de un mismo set DEBE ser **textualmente idéntico** en los bloques de `[IDENTIDAD FÍSICA]` y `[VESTUARIO]`. Se prohíbe cualquier "optimización" o recorte por límites de capacidad. La IA no debe interpretar; debe ejecutar una copia exacta de los parámetros. Solo varía la pose.
 
 ---
@@ -125,7 +125,7 @@ Negative prompt: (different face:1.3), (varying facial features:1.3), (different
 
 ---
 
-*Canon Visual Helena de Anaïs - Versión 3.2 Protocolo Diario - 24/03/2026* 👄🍒👠💅✨
+*Canon Visual Ele de Anaïs - Versión 3.3 Hard-Sync Activo - 14/04/2026* 👄🍒👠💅✨
 ---
 130: 
 131: ## IX. REGLA DE AUDITORÍA OBLIGATORIA (27/03/2026) 🚨

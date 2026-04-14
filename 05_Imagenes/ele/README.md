@@ -58,6 +58,7 @@ Explora las secciones de esta categoría:
 - ✅ [**Look125 Sapphire Glow Bikini**](./look125_sapphire_glow_bikini/README.md)
 - ✅ [**Look126 Mirror Platinum Ceo**](./look126_mirror_platinum_ceo/README.md)
 - ✅ [**Look127 Silk Noir Lace**](./look127_silk_noir_lace/README.md)
+- ✅ [**Look128 Red Silk Noir**](./look128_red_silk_noir/README.md)
 - ✅ [**Look12 Borgona**](./look12_borgona/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
 - ✅ [**Look13 Viuda Negra**](./look13_viuda_negra/README.md)
@@ -141,4 +142,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-13*
+*Actualizado automáticamente: 2026-04-14*

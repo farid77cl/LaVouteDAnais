@@ -1,36 +1,40 @@
-# Galería de Outfits - Helena de Anaïs
+# 👠 Galería de Outfits — Ele de Anaïs (V3.3)
 
-*Ultra Goth Bimbo: Morticia meets Elvira meets cabeza hueca con tetas enormes* Ã°Å¸Â¦â€¡
+*Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* 🫦
+
+> **Canon activo:** V3.3 Hard-Sync | **Último look:** 127 — Silk & Noir Lace Boudoir (13/04/2026)
+> **Flujo completo de creación:** ver `00_Ele/flujo_outfit_diario.md`
 
 ---
 
-## Ã°Å¸Â¦â€¡ Estilo Base: Ultra Goth Bimbo
+## 📊 Estado Estadístico (14/04/2026)
 
-**MODELO DE REFERENCIA:** Sacha Massacre
+| Categoría | Meta | Actual | Estado |
+|-----------|------|--------|--------|
+| **Mix** (Corporate / Domestic / High-Fashion) | 85% | 86.6% | 🟢 OK |
+| **Bikini** | 10% | 5.5% | 🟡 Déficit |
+| **Lencería** | 10% | 3.1% | 🔴 Déficit |
+| **Gym** | 5% | 4.7% | 🟢 OK |
 
-### Reglas OBLIGATORIAS
+---
+
+## ✅ Reglas Activas (Canon V3.3)
 
 | Elemento | Especificación |
 |----------|----------------|
-| **Corsé** | OPCIONAL. Por decreto de la Ama (19/03/2026). Ele es libre. |
-| **Stilettos** | 7-9 pulgadas, tacón aguja mortal |
-| **Pechos** | Perfil EXTRA ALTO, empujados por el corsÃƒÂ© |
-| **Labios** | ULTRA GRUESOS, negro/pÃƒÂºrpura/rojo sangre |
-| **Cabello** | Negro azabache, VOLUMEN EXAGERADO |
-| **Choker** | Negro con luna creciente plateada |
-| **Piercings** | Septum + lip ring + mÃƒÂºltiples orejas |
+| **Stilettos** | 9-11 pulgadas, tacón aguja SIEMPRE — Stiletto Rule absoluta |
+| **Corsé** | Obligatorio excepto Sportswear |
+| **Materiales** | 100% High-Gloss: Vinyl, PVC, Látex, Satén ultra-brillante |
+| **Color** | Sin negro dominante. Priorizar: Rojo Cherry, Azul Cyan, Oro Cromo, Plata, Verde Neón |
+| **Cabello** | Rojo cherry oscuro, extensiones XXXL hasta cadera, ondas voluminosas |
+| **Labios** | Hot pink o rojo cereza húmedo, ultra gruesos |
+| **Uñas** | Francesas XXXL (5cm+) — visibles en pose Ditzy |
+| **Outfits** | NUNCA repetir. Verificar galería antes de diseñar |
 
-### Paleta Original (Looks 1-7)
+---
 
-- **Dominante:** Negro, negro, y mÃƒÂ¡s negro
-- **Acentos:** Rojo sangre, pÃƒÂºrpura oscuro, plateado luna
-- **Prohibido:** Colores pasteles, bronceado, naturalidad
-
-### Paleta Nueva (Looks 8+) - BASE NEGRA + TOQUES DE COLOR
-
-- **Base:** Negro siempre dominante
-- **Acentos de color:** Esmeraldas, rubíes, zafiros, veneno verde, sangre roja, amatista
-- **Regla:** El color es ACENTO, no dominante
+> ⚠️ **Looks 1–84:** Era gótica archivada. Registros históricos preservados abajo.
+> Los looks del canon V3.3 (Ele Cherry Red) comienzan en Look 85.
 
 ---
 
@@ -2779,4 +2783,50 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 | **Seated** | ![Seated](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_seated.png) |
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_side_profile.png) |
 | **Ditzy** | (Pendiente por cuota API) |
+
+---
+
+## 🌹 Look 128: Red Silk & Noir Lace (14/04/2026)
+
+*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, ¿cachai? jiji...* 🫦🥀🖤✨
+
+- **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
+- **Outfit:** Sostén push-up de seda roja con aplicaciones de encaje Chantilly negro, tanga de seda roja y encaje negro a juego, portaligas de seda negra con hebillas de cromo plateado.
+- **Medias:** Ultra-sheer black nylon stockings con liga de encaje floral.
+- **Calzado:** Plataformas Pleaser de 8 pulgadas en charol negro (Flamingo-808).
+- **Accesorios:** Choker rígido de cromo con grabado "ASSET V3", uñas French XXXL.
+- **Ambientación:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
+- **Categoría:** Lencería
+- **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
+
+### 📝 Prompts para Generación (V3.3 Hard-Sync)
+
+**1. Standing View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a deep red silk push-up bra with black Chantilly lace overlays, matching red silk thong with black lace, black silk garter belt, ultra-sheer black stockings with lace tops, 8-inch black patent platform stiletto heels. Full body shot standing in a dark luxury boudoir with red velvet drapes, arched back, vacant ditzy stare. Warm mood lighting, high-gloss specularity, 8k.
+
+**2. Back View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing red silk and black lace lingerie set and 8-inch black stiletto heels. Rear view showing the extreme hourglass silhouette and the soft sheen of the red silk against white skin, looking back over shoulder with mindless empty eyes, long cherry red hair waves cascading down. Focused on stiletto depth and silk textures.
+
+**3. Seated View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing red silk and black lace lingerie. Seated on a black satin chaise longue, legs elegantly posed to highlight the garter belt and 8-inch platforms, vacant dazed expression, mouth mindlessly open. Golden warm light reflecting on the red silk and porcelain skin.
+
+**4. Side Profile:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing red silk and black lace lingerie. Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Rim lighting defining the silhouette against the dark boudoir.
+
+**5. Ditzy Expression:**
+High-end professional luxury lingerie photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Intense close-up face portrait, "boudoir-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Warm light on porcelain skin and glossy hot pink lips.
+
+### 📸 Imágenes (4/5 — Standing pendiente por Cuota API)
+
+| Pose | Previsión |
+|------|---------|
+| **Standing** | (Pendiente por cuota API) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy.png) |
+
+---
+
+
 

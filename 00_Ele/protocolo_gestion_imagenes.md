@@ -53,7 +53,7 @@ Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) 
 
 ## 4. 🏷️ Nomenclatura (Naming Convention)
 
-Referencia completa en: `00_Helena/plantilla_nomenclatura_imagenes.md`
+Referencia completa en: `00_Ele/plantilla_nomenclatura_imagenes.md`
 
 **Formato Resumido:**
 `[personaje]_[lookID]_[descriptor]_[timestamp].png`

@@ -21,4 +21,4 @@ Total imágenes: 1
 - [obsidian_chrome_2026.png](./obsidian_chrome_2026.png)
 
 ---
-*Actualizado automáticamente: 2026-04-13*
+*Actualizado automáticamente: 2026-04-14*
