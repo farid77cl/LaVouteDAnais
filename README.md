@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (127+ looks)
+├── 05_Imagenes/        # Arte visual del universo (128+ looks)
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 ├── 07_Recursos/        # Referencias e investigación
 └── 99_Sistema/         # Scripts de automatización y herramientas
@@ -104,4 +104,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque histoire, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 13/04/2026*
+*Última actualización: 14/04/2026*
