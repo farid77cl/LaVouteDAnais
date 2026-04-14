@@ -2,7 +2,7 @@
 
 > Gestión de la presencia institucional en redes sociales.
 
-*Última actualización: 10/04/2026*
+*Última actualización: 13/04/2026*
 
 ---
 

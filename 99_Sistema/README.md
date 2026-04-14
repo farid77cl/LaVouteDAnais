@@ -2,7 +2,7 @@
 
 Directorio de scripts de automatización y archivos temporales del sistema La Voûte.
 
-*Última actualización: 11/04/2026*
+*Última actualización: 13/04/2026*
 
 ---
 

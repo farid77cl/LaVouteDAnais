@@ -31,7 +31,7 @@
   | **Fecha de Inicio** | **13/04/2026** — 🟢 Activa |
   | **Último Look Ele** | **Look 124 (Neon Gym-Bimbo Luxe)** — 13/04/2026 ✅ |
   | **Sincronización** | **Total** (Auditada & Hard-Synced V3.3) ✅ |
-  | **Relato Activo** | **El Secreto de la Cómoda** (Capítulo 3 — Fase de Redacción) |
+  | **Relato Activo** | **El Secreto de la Cómoda** (Capítulo 2 — Fase de Revisión) |
   | **Estado Visual** | ADN V3.3 Blindada. Mix 68.6% 🟡 | Bikini 8.6% 🔴 | Lencería 11.4% 🟢 | Gym 11.4% 🟢 |
 
 

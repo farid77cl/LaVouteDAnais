@@ -85,7 +85,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **El Secreto de la Cómoda** — En progreso (Capítulo 3 completado, Capítulo 4 pendiente)
+- **El Secreto de la Cómoda** — En progreso (Capítulo 2 — Fase de Revisión)
 
 ### Biblioteca Completa (39 relatos finalizados)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
