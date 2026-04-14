@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 14/04/2026 (Batch 131-140 Ready-to-Shoot)*
+*Última actualización: 14/04/2026 (Batch 131-140 In Progress — Look 131 Parcial)*
 
 ---
 
@@ -113,10 +113,10 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 131 (en progreso) / 140 (Batch 131-140 Ready-to-Shoot)
+- **Looks canónicos materializados:** 131 (Parcial 3/5) / 140
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~2,950+
-- **Canon visual activo:** V3.3 (Hard-Sync / Facial Anchor / Ready-to-Shoot)
+- **Canon visual activo:** V3.3 (Hard-Sync — Batch 131-140 In Progress)
 
 ---
 
