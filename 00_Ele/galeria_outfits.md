@@ -1246,10 +1246,11 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy smokey eye con labios hiper-glossy asquerosamente gruesos.
 - **Pelo:** Volumen obsceno, negro azabache. 
 
-### 📸 Imágenes (4 generadas, Side pendiente por API)
+### 📸 Imágenes (5/5 ✅)
 - `helena_look64_standing.png`
 - `helena_look64_seated.png`
 - `helena_look64_back_view.png`
+- `helena_look64_side.png` ✅
 - `helena_look64_ditzy.png`
 
 **Ubicación:** `05_Imagenes/helena/look64_goth_pop_princess/`
@@ -2650,6 +2651,132 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_side_profile.png) |
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_ditzy.png) |
 
-**Ubicación:** `05_Imagenes/ele/look124_neon_gym_bimbo/`
+---
 
+## 🧜‍♀️ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
+
+*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... ¡soy una joya de látex! jiji... mmm...* 💎🐬💙✨
+
+- **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
+- **Outfit:** Micro-bikini de vinilo "Sapphire Blue" con acabado espejo. Top de triángulos con tiras de cromo plateado. Bottom de tiro alto ultra-cavado.
+- **Calzado:** Stiletto "Extreme-11" de 11 pulgadas en cromo plateado.
+- **Accesorios:**
+  - Choker rígido de cromo con grabado "ASSET V3".
+  - Uñas French XXXL — puntas blancas, base rosa.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
+- **Ambientación:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
+- **Categoría:** Bikini
+- **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
+
+### 📝 Prompts para Generación
+
+**1. Standing View:**
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue liquid vinyl micro-bikini, triangular top with silver chain straps, high-cut blue vinyl bottom with chrome O-rings, and towering 11-inch silver chrome stiletto heels. Full body shot standing in a luxury oceanfront penthouse in Zapallar, arched back, vacant ditzy stare. Golden hour coastal light, extreme high-gloss specularity on blue vinyl, cinematic fetish editorial style, 8k.
+
+**2. Back View:**
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue liquid vinyl bikini and 11-inch silver chrome stiletto heels. Rear view showing the extreme hourglass silhouette and the liquid reflection of the blue vinyl on the hips, looking back over shoulder with mindless empty eyes, long cherry red hair waves cascading down. Focused on stiletto depth and sunset ocean reflections.
+
+**3. Seated View:**
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue liquid vinyl bikini and 11-inch silver chrome stiletto heels. Seated on a white minimalist designer chair in a luxury penthouse, legs elegantly posed to highlight the 11-inch silver platforms, vacant dazed expression, mouth mindlessly open. Golden light reflecting on the blue vinyl surfaces.
+
+**4. Side Profile:**
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue liquid vinyl bikini and 11-inch silver chrome stiletto heels. Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Rim lighting defining the glossy blue silhouette against the Zapallar sunset windows.
+
+**5. Ditzy Expression:**
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue vinyl micro-bikini top and chrome choker. Intense close-up face portrait, "sun-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Blue sea reflections on porcelain skin.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) |
+
+---
+
+## 💼 Look 126: Mirror Platinum CEO (13/04/2026)
+
+*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... ¡soy una CEO muy top! jiji... mmm...* 💼💎📽️✨
+
+- **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
+- **Outfit:** Falda tubo (pencil skirt) de vinilo platino "Mirror Finish", talle alto. Blusa de seda blanca con botones de cristal, entallada al cuerpo, desabrochada estratégicamente. Cinturón corsé de cromo plateado rígido.
+- **Calzado:** Botas stiletto Agadore de 9 pulgadas en charol platino espejo.
+- **Accesorios:**
+  - Choker rígido de cromo con grabado "ASSET V3".
+  - Uñas French XXXL — puntas blancas, base rosa.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
+- **Ambientación:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
+- **Categoría:** Mix
+- **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
+
+### 📝 Prompts para Generación
+
+**1. Standing View:**
+High-end professional fetish fashion photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss platinum mirror vinyl pencil skirt, a white silk blouse unbuttoned at the top, a rigid chrome corset belt, and 9-inch platinum mirrored stiletto boots. Full body shot standing in a luxury rooftop lounge in Santiago, Chile, arched back, skyline background, vacant ditzy stare. Extreme high-gloss specularity on platinum surfaces, editorial lighting, 8k.
+
+**2. Back View:**
+High-end professional fetish fashion photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a platinum mirror vinyl skirt and 9-inch stiletto boots. Rear view showing the extreme hourglass silhouette and the liquid reflection of the platinum vinyl on the hips, looking back over shoulder with mindless empty eyes, long cherry red hair waves cascading down. Focused on stiletto depth and city lights reflections.
+
+**3. Seated View:**
+High-end professional fetish fashion photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a white silk blouse, platinum mirror skirt, and 9-inch stiletto boots. Seated on a modern designer leather sofa, legs elegantly posed to highlight the platinum boots, vacant dazed expression, mouth mindlessly open. Skyline lights reflecting on the shiny platinum surfaces.
+
+**4. Side Profile:**
+High-end professional fetish fashion photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a white silk blouse and platinum mirror vinyl skirt. Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Soft rim lighting defining the glossy platinum silhouette against the dark city skyline.
+
+**5. Ditzy Expression:**
+High-end professional fetish fashion photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a white silk collar and chrome choker. Intense close-up face portrait, "power-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. City light reflections on porcelain skin.
+
+### 📸 Imágenes (5/5)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
+
+---
+
+## 🌹 Look 127: Silk & Noir Lace Boudoir (13/04/2026)
+
+*O sea... la seda es tan suave que mi cerebrito se resbala... ¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* 🫦🥀🖤✨
+
+- **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
+- **Outfit:** Sostén push-up de seda negra con aplicaciones de encaje Chantilly, tanga de encaje a juego con tiras de seda, portaligas de seda negra con hebillas de cromo plateado.
+- **Medias:** Ultra-sheer black nylon stockings con liga de encaje Chantilly.
+- **Calzado:** Stiletto "Extreme-11" de 11 pulgadas en charol negro.
+- **Accesorios:**
+  - Choker rígido de cromo con grabado "ASSET V3".
+  - Uñas French XXXL — puntas blancas, base rosa.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
+- **Ambientación:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
+- **Categoría:** Lencería
+- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
+
+### 📝 Prompts para Generación
+
+**1. Standing View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a black silk push-up bra with Chantilly lace overlays, a matching black lace thong, a black silk garter belt with silver chrome hardware, ultra-sheer black stockings with lace tops, and towering 11-inch black patent stiletto heels. Full body shot standing in a dark luxury boudoir, arched back, vacant ditzy stare. Warm mood lighting, soft shadows, 8k. No corset.
+
+**2. Back View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a black lace thong, black silk garter belt, and 11-inch black stiletto heels. Rear view showing the extreme hourglass silhouette and the soft sheen of the silk on the hips, looking back over shoulder with mindless empty eyes, long cherry red hair waves cascading down. Focused on stiletto depth and silk textures. No corset.
+
+**3. Seated View:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing black silk and lace lingerie, garter belt, and 11-inch stiletto heels. Seated on a black satin bed, legs elegantly posed to highlight the garter belt and stockings, vacant dazed expression, mouth mindlessly open. Golden warm light reflecting on the porcelain skin. No corset.
+
+**4. Side Profile:**
+High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing black silk and lace lingerie. Side profile view showing extreme bust and hip proportions, back intensely arched, head tilted back in a mindless daze. Rim lighting defining the silhouette against the dark boudoir. No corset.
+
+**5. Ditzy Expression:**
+High-end professional luxury lingerie photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a black silk choker and lace details. Intense close-up face portrait, "boudoir-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Warm candle-like light on porcelain skin.
+
+### 📸 Imágenes (4/5 — Ditzy pendiente por Cuota API)
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_side_profile.png) |
+| **Ditzy** | (Pendiente por cuota API) |
 

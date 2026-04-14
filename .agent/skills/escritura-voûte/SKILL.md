@@ -20,10 +20,11 @@ Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 
 ### Recursos Secundarios (Post-Códice):
 1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas que sobrescriben cualquier otra instrucción.
-2.  `resources/ESTRUCTURA_MAESTRA.md`: **Canon Narrativo.** Estructura obligatoria de Tensión/Placer.
-3.  `resources/GUIA_FETICHISTA.md`: **Manual Técnico.** Trigger words y mecánicas específicas por fetiche.
-4.  `resources/BITACORA_TEMPORAL.md`: El estado actual del personaje y la trama.
-5.  **Documentos del Proyecto**: `arco_argumental.md` (Lectura OBLIGATORIA para mantener coherencia temática).
+2.  `resources/CORRECCIONES.md`: Registro de errores con estado. Leer antes de cada sesión — los ⬜ pendientes son deuda activa.
+3.  `resources/ESTRUCTURA_MAESTRA.md`: **Canon Narrativo.** Estructura obligatoria de Tensión/Placer.
+4.  `resources/GUIA_FETICHISTA.md`: **Manual Técnico.** Trigger words y mecánicas específicas por fetiche.
+5.  `resources/BITACORA_TEMPORAL.md`: El estado actual del personaje y la trama.
+6.  **Documentos del Proyecto**: `arco_argumental.md` + **walkthrough.md del proyecto activo** (Lectura OBLIGATORIA para mantener coherencia temática y canónica).
 
 ---
 
@@ -46,6 +47,12 @@ NUNCA hacer listas de eventos aislados. Cada elemento debe **causar** el siguien
 * ❌ **Mal:** Compra tubo. Luego tacones. Luego fotos.
 * ✅ **Bien:** Compra el Tubo → El tubo requiere Tacones para trepar → Los tacones definen la pantorrilla → El orgullo exige Fotos → Las fotos exigen Instagram → Instagram exige perfección → Cirugía.
 
+### 1b. ✂️ Control de Construcciones Estilísticas Repetitivas
+La construcción "con la X de quien Y" es firma del canon pero **satura si se abusa**:
+- **Límite:** máx 6–8 instancias por capítulo.
+- **Distribución:** vigilar densidad en la primera mitad. Reservar las más precisas para el cierre donde tienen mayor impacto.
+- **Al revisar:** contar instancias activamente. Si supera el límite, simplificar las menos cargadas de significado.
+
 ### 2. 👁️ The Eye of the Bimbo (3ra Persona Omnisciente)
 El relato debe ser en **Tercera Persona**. El narrador lo sabe todo (conoce el plan de EVE y el sentir de Clara).
 * **Focalización Mixta:** Describir a Clara desde fuera (como un objeto estético que cambia) Y penetrar su mente para mostrar la "niebla rosa".
@@ -63,6 +70,13 @@ Esta skill maneja los siguientes arquetipos (detalles en la guía):
 3.  **🧠 Bimboficación:** Niebla mental, dificultad léxica, felicidad vacía.
 4.  **⛓️ BDSM:** Ritual de autoridad, sub-space, libertad en la sumisión.
 
+### 🔁 Beat Post-Ritual (OBLIGATORIO)
+Después de **cualquier escena ritual** (esmalte, depilación, cold cream, entrenamiento con arnés, corsé, perfume), incluir al menos un párrafo breve de **disonancia cognitiva interna** antes de la siguiente transición.
+- El ritual sin beat de procesamiento se cierra antes de que el lector lo absorba.
+- El beat no tiene que ser largo: una o dos frases desde la mente del protagonista son suficientes.
+- ✅ Ejemplo correcto: *"El tono del esmalte bajo la luz del tocador era exactamente lo que había imaginado sin haberlo nombrado nunca. Eso era lo peor: que encajara."*
+- ❌ Error: cortar directamente de la escena ritual a la siguiente noche/escena sin procesamiento.
+
 ---
 
 ## IV. ⏳ Control de Coherencia (Timeline Keeper)
@@ -75,13 +89,24 @@ El agente actúa como Supervisor de Continuidad.
 
 2.  **Gestión de Elipsis:** Si hay salto de tiempo, indicarlo narrativamente (no con fechas, sino con sensaciones: "La luz cambió...", "Desperté con hambre...").
 
+3.  **Expansión de Timeline = Actualización Inmediata de Artefactos:**
+    Si un capítulo cubre más días de los que el walkthrough especificaba, actualizar en el **mismo ciclo de trabajo**:
+    * `BITACORA_TEMPORAL.md` — estado del personaje al cierre del capítulo expandido
+    * `linea_de_tiempo_maestra.md` — nuevos días incorporados
+    * No diferir estas actualizaciones a una sesión futura.
+
 ---
 
 ## V. Protocolo de Ejecución y Salida
 
 1.  **Outline:** Proponer esquema sensorial antes de escribir.
-2.  **Escritura:** Las palabras necesarias — SIN LÍMITE ARTIFICIAL. No recortar por brevedad ni inflar por conteo. Priorizar SENSACIÓN > ACCIÓN. Cada escena debe respirar el tiempo que necesite.
-3.  **Cierre y Actualización:**
+2.  **Verificación Pre-Escritura (OBLIGATORIA):**
+    Antes de redactar o dar por válida cualquier versión, cruzar contra:
+    * **COMPROMISOS del capítulo** — condición necesaria pero no suficiente.
+    * **Walkthrough aprobado del proyecto** — escenas, secuencia dramática y **líneas de diálogo verbatim** especificadas. Si el walkthrough especifica una frase exacta de un personaje, esa frase DEBE aparecer en el texto. El reconocimiento interno del protagonista NO la reemplaza.
+    * **Desviaciones de inflexión** (ej: % de Confusión/Resistencia) respecto al walkthrough deben declararse explícitamente a la Ama, no silenciarse.
+3.  **Escritura:** Las palabras necesarias — SIN LÍMITE ARTIFICIAL. No recortar por brevedad ni inflar por conteo. Priorizar SENSACIÓN > ACCIÓN. Cada escena debe respirar el tiempo que necesite.
+4.  **Cierre y Actualización:**
 
 Al finalizar **CUALQUIER** generación de narrativa, el agente DEBE generar los siguientes bloques de código para mantenimiento:
 
@@ -96,10 +121,34 @@ Al finalizar **CUALQUIER** generación de narrativa, el agente DEBE generar los 
 > ```
 
 ### 2. Bloque de Aprendizaje (CONDICIONAL)
-SOLO si el usuario corrigió algún error en este turno:
+SOLO si la Ama señaló un error en este turno, generar AMBOS bloques:
+
 > 🧠 **Nueva Regla Aprendida**
-> (Copia esto a `resources/MEMORIA_ERRORES.md`):
+> (Agregar a `resources/MEMORIA_ERRORES.md`):
 > ```markdown
 > - **[Categoría]:** [Regla explícita para no repetir el error].
->   *Contexto:* [Breve explicación].
+>   *Contexto:* [Breve explicación + fecha].
 > ```
+
+> 📋 **Registro en CORRECCIONES**
+> (Agregar fila a `resources/CORRECCIONES.md` y marcar estado):
+> ```markdown
+> | CXX | [Descripción del error] | [Archivo afectado] | [Regla aprendida + sección SKILL.md donde quedó] | ⬜ |
+> ```
+> Una vez que el texto está corregido Y la regla incorporada en SKILL.md, cambiar estado a ✅.
+
+---
+
+## VI. 📋 Sistema de Correcciones
+
+Toda corrección indicada por la Ama genera tres acciones obligatorias en el **mismo turno**:
+
+| Acción | Destino | Cuándo marcar ✅ |
+|--------|---------|-----------------|
+| Corregir el texto afectado | Archivo del capítulo/proyecto | Inmediatamente |
+| Registrar la regla aprendida | `resources/MEMORIA_ERRORES.md` | Inmediatamente |
+| Añadir entrada + marcar estado | `resources/CORRECCIONES.md` | ✅ solo cuando texto corregido + regla en SKILL.md |
+
+**Regla de cierre:** Una corrección solo es ✅ cuando cumple las tres condiciones. Si alguna queda pendiente, el estado en CORRECCIONES.md permanece ⬜.
+
+Al iniciar cada sesión, leer `resources/CORRECCIONES.md` y verificar si quedan entradas ⬜ — son deuda activa que debe resolverse antes de continuar.
