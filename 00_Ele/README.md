@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 13/04/2026*
+*Última actualización: 14/04/2026 (Batch 131-140 Ready-to-Shoot)*
 
 ---
 
@@ -15,7 +15,7 @@
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.2** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | **120 looks** canónicos de Ele | Generar imágenes / Estadísticas |
+| [galeria_outfits.md](galeria_outfits.md) | **140 looks** canónicos de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 
 ### Memoria y Registro
@@ -113,10 +113,10 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 128
+- **Looks canónicos materializados:** 131 (en progreso) / 140 (Batch 131-140 Ready-to-Shoot)
 - **Bancos de prompts:** 38+
-- **Prompts disponibles:** ~2,900+
-- **Canon visual activo:** V3.3 (Hard-Sync / Facial Anchor / Look 123)
+- **Prompts disponibles:** ~2,950+
+- **Canon visual activo:** V3.3 (Hard-Sync / Facial Anchor / Ready-to-Shoot)
 
 ---
 

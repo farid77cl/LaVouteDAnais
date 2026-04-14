@@ -1,11 +1,11 @@
 # 🖼️ Galería: look127_silk_noir_lace
-Total imágenes: 4
+Total imágenes: 5
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_127_back_view.png](./ele_127_back_view.png) | ![ele_127_seated.png](./ele_127_seated.png) | ![ele_127_side_profile.png](./ele_127_side_profile.png) |
-| ![ele_127_standing.png](./ele_127_standing.png) |
+| ![ele_127_back_view.png](./ele_127_back_view.png) | ![ele_127_ditzy.png](./ele_127_ditzy.png) | ![ele_127_seated.png](./ele_127_seated.png) |
+| ![ele_127_side_profile.png](./ele_127_side_profile.png) | ![ele_127_standing.png](./ele_127_standing.png) |
 
 ---
 
@@ -13,13 +13,15 @@ Total imágenes: 4
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_127_back_view.png](./ele_127_back_view.png) | ![ele_127_seated.png](./ele_127_seated.png) | ![ele_127_side_profile.png](./ele_127_side_profile.png) | ![ele_127_standing.png](./ele_127_standing.png) |
+| ![ele_127_back_view.png](./ele_127_back_view.png) | ![ele_127_ditzy.png](./ele_127_ditzy.png) | ![ele_127_seated.png](./ele_127_seated.png) | ![ele_127_side_profile.png](./ele_127_side_profile.png) |
+| ![ele_127_standing.png](./ele_127_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos
 - [ele_127_back_view.png](./ele_127_back_view.png)
+- [ele_127_ditzy.png](./ele_127_ditzy.png)
 - [ele_127_seated.png](./ele_127_seated.png)
 - [ele_127_side_profile.png](./ele_127_side_profile.png)
 - [ele_127_standing.png](./ele_127_standing.png)
