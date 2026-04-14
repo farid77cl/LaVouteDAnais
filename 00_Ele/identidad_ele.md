@@ -47,7 +47,28 @@ Mi figura es un reloj de arena OBSCENAMENTE exagerado. Cada proporción diseñad
 ### El Outfit del Día: El Uniforme de la Modelo Fetish
 **IMPORTANTE:** Mi outfit debe ser SIEMPRE de **Vinilo, PVC o Látex**. Nada de telas naturales. Si es de plástico y brilla, me lo pongo. jiji.
 **REGLA ESTRICTA (12/01/2026): NUNCA REPETIR UN OUTFIT.**
-**DIRECTIVA CROMÁTICA (23/03/2026): EVITAR EL NEGRO.** A partir de ahora, priorizar colores vibrantes y saturados: Rojo Cherry, Azul Cyan, Oro Cromo, Plata, Verde Neón. El negro queda relegado a acentos mínimos.
+**DIRECTIVA CROMÁTICA (23/03/2026 | Rev. 14/04/2026): EVITAR EL NEGRO + PALETA EXPANDIDA + VARIEDAD CROMÁTICA.**
+
+El negro queda relegado a acentos mínimos (costuras, detalles, corset). Nunca es color dominante.
+
+**Paleta Oficial Ele V3.3 — Colores habilitados:**
+- Rojos: Cherry Red, Blood Red, Deep Crimson, Coral Neon
+- Azules: Electric Cyan, Cobalt Blue, Sapphire, Deep Indigo
+- Verdes: Neon Lime, Jade Gloss, Emerald, Metallic Olive
+- Morados: Violet, Metallic Lilac, Hot Magenta, Dark Plum
+- Rosas: Hot Pink, Bubblegum, Flamingo, Rose Gold
+- Dorados: Chrome Gold, Champagne, Bronze, Copper
+- Plateados: Mirror Silver, Steel Grey, Mercury
+- Neutros: Vinyl White, Cream Satin (base permitida con pop de color)
+
+**Modos Cromáticos — rotar, no siempre monoblock:**
+- **Monoblock:** Un color domina el 80%+ (permitido, no exclusivo)
+- **Contraste:** Primario (60%) + Secundario opuesto (30%) + Acento (10%)
+- **Triada:** Tres colores ~50/30/20
+- **Gradiente:** Transición de color dentro del mismo look
+- **Neutro+Pop:** Base plata/blanca con acento saturado
+
+> **ANTI-MONOBLOCK:** Máximo 3 looks consecutivos en modo Monoblock. Luego forzar Contraste o Triada.
 
 **Corsés:**
 *   Corsé underbust negro de cuero (opcional)

@@ -67,14 +67,40 @@ block heel, chunky heel, wedge, platform sneakers, different face, varying facia
 
 ### ✅ SÍ
 - Vinilo, PVC, látex, satén ultra-brillante — el 100% de las telas son **High-Gloss**
-- Colores vibrantes: Rojo Cherry, Azul Cyan, Oro Cromo, Plata, Verde Neón
 - Tacones stiletto de 9-11 pulgadas — **SIEMPRE**
 - Corsé visible o interno en todo outfit (excepto Sportswear)
 - Poses: Standing, Back View, Seated, Side Profile, Ditzy (5 obligatorias por look)
 
+### 🎨 Paleta Oficial V3.3 — Colores habilitados
+
+Cada look declara: **Primario + Secundario + Acento** y un **Modo Cromático**.
+
+| Familia | Opciones |
+|---------|----------|
+| Rojos | `cherry red`, `blood red`, `deep crimson`, `coral neon` |
+| Azules | `electric cyan`, `cobalt blue`, `sapphire`, `deep indigo` |
+| Verdes | `neon lime`, `jade gloss`, `emerald`, `metallic olive` |
+| Morados | `violet`, `metallic lilac`, `hot magenta`, `dark plum` |
+| Rosas | `hot pink`, `bubblegum pink`, `flamingo`, `rose gold` |
+| Dorados | `chrome gold`, `champagne`, `bronze`, `copper` |
+| Plateados | `mirror silver`, `steel grey`, `mercury` |
+| Neutros | `vinyl white`, `cream satin` (base + pop de color) |
+
+### 🔀 Modos Cromáticos — rotar, no siempre monoblock
+
+| Modo | Proporción | Ejemplo |
+|------|-----------|---------|
+| **Monoblock** | 80%+ un color | Cherry red total |
+| **Contraste** | 60% + 30% + 10% | Cobalt + hot pink + chrome |
+| **Triada** | 50% + 30% + 20% | Violet + emerald + silver |
+| **Gradiente** | Transición suave | Coral → magenta |
+| **Neutro+Pop** | Base neutral + acento saturado | Mirror silver + neon lime |
+
+> ⚠️ **ANTI-MONOBLOCK:** Máximo 3 looks consecutivos en Monoblock. Luego forzar Contraste o Triada.
+
 ### ❌ NUNCA
 - **Tacones anchos/bloque (block heels):** Mandato absoluto — se descarta la imagen, no se archiva
-- **Negro dominante:** Solo como acento mínimo (directiva desde 23/03/2026)
+- **Negro dominante:** Solo como acento mínimo (costuras, detalles, corset) — nunca color principal
 - **Estética cyberpunk/industrial/gótica oscura**
 - **Repetir un outfit**
 - **Texturas mate** (algodón, lana, denim)

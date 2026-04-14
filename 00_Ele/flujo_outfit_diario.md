@@ -50,7 +50,8 @@ Definir el look antes de construir el prompt.
 LOOK [XXX]: [NOMBRE EN MAYÚSCULAS]
 Fecha: DD/MM/AAAA
 Categoría: Corporate | Domestic | High-Fashion | Bikini | Lencería | Gym
-Paleta: [colores dominantes — SIN negro dominante]
+Paleta: [Primario] + [Secundario] + [Acento] — elegir de Tabla Cromática abajo
+Modo Cromático: Monoblock | Contraste | Triada | Gradiente | Neutro+Pop
 Materiales: [Vinyl / PVC / Látex / Satén / Mesh / etc.]
 Escenario: [penthouse / estudio blanco / boardroom / etc.]
 Inspiración: [referencia estética — Mugler / Editorial / etc.]
@@ -58,8 +59,35 @@ Vibe: [una línea de atmósfera]
 ```
 
 ### Reglas de concepto
-- **Colores:** Priorizar rojo cherry, azul cyan, oro cromo, plata, verde neón. El negro es acento, no dominante.
+
+#### 🎨 Tabla Cromática — Paleta Ele V3.3
+
+| Familia | Colores disponibles | Código para prompt |
+|---------|--------------------|--------------------|
+| **Rojos** | Cherry, Sangre, Carmesí, Coral Neón | `cherry red`, `blood red`, `deep crimson`, `coral neon` |
+| **Azules** | Cyan Eléctrico, Cobalto, Zafiro, Índigo | `electric cyan`, `cobalt blue`, `sapphire`, `deep indigo` |
+| **Verdes** | Neón Lima, Jade Brillante, Esmeralda, Oliva Metálico | `neon lime`, `jade gloss`, `emerald`, `metallic olive` |
+| **Morados** | Violeta, Lila Metálico, Magenta, Uva Oscuro | `violet`, `metallic lilac`, `hot magenta`, `dark plum` |
+| **Rosas** | Hot Pink, Bubblegum, Flamingo, Rose Gold | `hot pink`, `bubblegum pink`, `flamingo`, `rose gold` |
+| **Dorados** | Oro Cromo, Champagne, Bronce, Cobre | `chrome gold`, `champagne`, `bronze`, `copper` |
+| **Plateados** | Plata Espejo, Acero, Mercurio | `mirror silver`, `steel grey`, `mercury` |
+| **Neutros** | Blanco Vinilo, Crema Satinada, Negro (solo acento) | `vinyl white`, `cream satin`, `black (accent only)` |
+
+#### 🔀 Modos Cromáticos — NO siempre monoblock
+
+| Modo | Descripción | Ejemplo |
+|------|-------------|---------|
+| **Monoblock** | Un solo color en 80%+ del outfit | Cherry red total |
+| **Contraste** | Primario (60%) + Secundario opuesto (30%) + Acento (10%) | Cobalt blue + hot pink + chrome gold |
+| **Triada** | Tres colores en proporciones ~50/30/20 | Violet + emerald + silver |
+| **Gradiente** | Transición entre dos colores del mismo look | Coral → magenta mesh |
+| **Neutro+Pop** | Base neutral (blanco/plata) + acento de color saturado | Mirror silver + neon lime detail |
+
+> ⚠️ **REGLA ANTI-MONOBLOCK:** No más de 3 looks consecutivos en modo Monoblock. Cuando se rompa la racha, forzar Contraste o Triada.
+
+- **Negro:** Solo como acento (costuras, detalles, corset, medias) — nunca color dominante ni secundario.
 - **Materiales:** 100% High-Gloss (Vinyl, Latex, PVC, Satén ultra-brillante). Prohibido mate.
+- **Sincronía Lips+Nails:** El color de labios y uñas debe coincidir con el Primario o ser French V3 (blanco/rosa).
 - **Escenario:** Lujo. Penthouses, estudios minimalistas blancos/grises, iluminación alta costura.
 - **Prohibido:** Cyberpunk, industrial, gótico oscuro, factorías, óxido.
 - **Corsetería:** Obligatoria en todo outfit excepto Sportswear.

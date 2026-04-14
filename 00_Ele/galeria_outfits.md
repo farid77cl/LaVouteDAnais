@@ -1623,15 +1623,15 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an electric blue metallic vinyl wrap bikini, intricate strapping around the waist, metallic sheen, high-cut minimal bottom. Towering 11-inch blue chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth slightly open, lost gaze, sunset light hitting her face, showing XXXL French nails. 8k, editorial lighting.`
 
-### 📸 Imágenes (2/5 — Parcial)
+### 📸 Imágenes (3/5 — Parcial)
 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_standing.png) |
 | **Back View** | ![Back View](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_back_view.png) |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Seated** | Pendiente (Cuota) |
+| **Side Profile** | Pendiente (Cuota) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_ditzy.png) |
 
 ---
 
