@@ -2,7 +2,7 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* 🫦
 
-> **Canon activo:** V3.3 Hard-Sync | **Último look:** 127 — Silk & Noir Lace Boudoir (13/04/2026)
+> **Canon activo:** V3.3 Hard-Sync | **Último look:** 135 — Silver Sequined Triangle (15/04/2026)
 > **Flujo completo de creación:** ver `00_Ele/flujo_outfit_diario.md`
 > **Era gótica archivada:** ver `00_Ele/galeria_outfits_era_gotica.md`
 
@@ -1623,14 +1623,14 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an electric blue metallic vinyl wrap bikini, intricate strapping around the waist, metallic sheen, high-cut minimal bottom. Towering 11-inch blue chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth slightly open, lost gaze, sunset light hitting her face, showing XXXL French nails. 8k, editorial lighting.`
 
-### 📸 Imágenes (3/5 — Parcial)
+### 📸 Imágenes (5/5 — COMPLETO)
 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | ![Standing](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_standing.png) |
 | **Back View** | ![Back View](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_back_view.png) |
-| **Seated** | Pendiente (Cuota) |
-| **Side Profile** | Pendiente (Cuota) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_side_profile.png) |
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look131_electric_blue_wrap/ele_131_ditzy.png) |
 
 ---

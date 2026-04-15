@@ -43,4 +43,4 @@ Total imágenes: 18
 - [smart_home_stepford_cover_v1.png](./smart_home_stepford_cover_v1.png)
 
 ---
-*Actualizado automáticamente: 2026-04-14*
+*Actualizado automáticamente: 2026-04-15*

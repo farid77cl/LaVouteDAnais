@@ -1,18 +1,20 @@
 # 🖼️ Galería: look131_electric_blue_wrap
-Total imágenes: 3
+Total imágenes: 5
 
 ## ✨ Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_131_back_view.png](./ele_131_back_view.png) | ![ele_131_ditzy.png](./ele_131_ditzy.png) | ![ele_131_standing.png](./ele_131_standing.png) |
+| ![ele_131_back_view.png](./ele_131_back_view.png) | ![ele_131_ditzy.png](./ele_131_ditzy.png) | ![ele_131_seated.png](./ele_131_seated.png) |
+| ![ele_131_side_profile.png](./ele_131_side_profile.png) | ![ele_131_standing.png](./ele_131_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen |
-| :---: | :---: | :---: |
-| ![ele_131_back_view.png](./ele_131_back_view.png) | ![ele_131_ditzy.png](./ele_131_ditzy.png) | ![ele_131_standing.png](./ele_131_standing.png) |
+| Imagen | Imagen | Imagen | Imagen |
+| :---: | :---: | :---: | :---: |
+| ![ele_131_back_view.png](./ele_131_back_view.png) | ![ele_131_ditzy.png](./ele_131_ditzy.png) | ![ele_131_seated.png](./ele_131_seated.png) | ![ele_131_side_profile.png](./ele_131_side_profile.png) |
+| ![ele_131_standing.png](./ele_131_standing.png) |
 
 
 ---
@@ -20,7 +22,9 @@ Total imágenes: 3
 ## 📜 Lista de Archivos
 - [ele_131_back_view.png](./ele_131_back_view.png)
 - [ele_131_ditzy.png](./ele_131_ditzy.png)
+- [ele_131_seated.png](./ele_131_seated.png)
+- [ele_131_side_profile.png](./ele_131_side_profile.png)
 - [ele_131_standing.png](./ele_131_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-04-14*
+*Actualizado automáticamente: 2026-04-15*

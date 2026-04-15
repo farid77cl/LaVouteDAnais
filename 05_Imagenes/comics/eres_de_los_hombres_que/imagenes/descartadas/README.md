@@ -30,4 +30,4 @@ Total imágenes: 8
 - [05_cambios.png](./05_cambios.png)
 
 ---
-*Actualizado automáticamente: 2026-04-14*
+*Actualizado automáticamente: 2026-04-15*
