@@ -1,10 +1,12 @@
 # 🖼️ Galería: Outfits
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 1
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![custom_missdoll_outfit_s039_black_lace.png](./custom_missdoll_outfit_s039_black_lace.png) |
+| ![custom_missdoll_outfit_s039_black_lace.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/Outfits/custom_missdoll_outfit_s039_black_lace.png) |
 
 ---
 
@@ -12,13 +14,13 @@ Total imágenes: 1
 
 | Imagen |
 | :---: |
-| ![custom_missdoll_outfit_s039_black_lace.png](./custom_missdoll_outfit_s039_black_lace.png) |
+| ![custom_missdoll_outfit_s039_black_lace.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/Outfits/custom_missdoll_outfit_s039_black_lace.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [custom_missdoll_outfit_s039_black_lace.png](./custom_missdoll_outfit_s039_black_lace.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [custom_missdoll_outfit_s039_black_lace.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/Outfits/custom_missdoll_outfit_s039_black_lace.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

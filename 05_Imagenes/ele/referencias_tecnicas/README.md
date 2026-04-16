@@ -1,10 +1,12 @@
 # 🖼️ Galería: referencias_tecnicas
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 1
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![rago_1294_referencia_web.png](./rago_1294_referencia_web.png) |
+| ![rago_1294_referencia_web.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/referencias_tecnicas/rago_1294_referencia_web.png) |
 
 ---
 
@@ -12,13 +14,13 @@ Total imágenes: 1
 
 | Imagen |
 | :---: |
-| ![rago_1294_referencia_web.png](./rago_1294_referencia_web.png) |
+| ![rago_1294_referencia_web.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/referencias_tecnicas/rago_1294_referencia_web.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [rago_1294_referencia_web.png](./rago_1294_referencia_web.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [rago_1294_referencia_web.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/referencias_tecnicas/rago_1294_referencia_web.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

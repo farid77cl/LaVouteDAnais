@@ -1,11 +1,13 @@
 # 🖼️ Galería: look112_stepford_gold
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 5
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_look112_back_view.png](./ele_look112_back_view.png) | ![ele_look112_ditzy.png](./ele_look112_ditzy.png) | ![ele_look112_seated.png](./ele_look112_seated.png) |
-| ![ele_look112_side_profile.png](./ele_look112_side_profile.png) | ![ele_look112_standing.png](./ele_look112_standing.png) |
+| ![ele_look112_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) | ![ele_look112_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) | ![ele_look112_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) |
+| ![ele_look112_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) | ![ele_look112_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) |
 
 ---
 
@@ -13,18 +15,18 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_look112_back_view.png](./ele_look112_back_view.png) | ![ele_look112_ditzy.png](./ele_look112_ditzy.png) | ![ele_look112_seated.png](./ele_look112_seated.png) | ![ele_look112_side_profile.png](./ele_look112_side_profile.png) |
-| ![ele_look112_standing.png](./ele_look112_standing.png) |
+| ![ele_look112_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) | ![ele_look112_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) | ![ele_look112_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) | ![ele_look112_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) |
+| ![ele_look112_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [ele_look112_back_view.png](./ele_look112_back_view.png)
-- [ele_look112_ditzy.png](./ele_look112_ditzy.png)
-- [ele_look112_seated.png](./ele_look112_seated.png)
-- [ele_look112_side_profile.png](./ele_look112_side_profile.png)
-- [ele_look112_standing.png](./ele_look112_standing.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [ele_look112_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png)
+- [ele_look112_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png)
+- [ele_look112_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png)
+- [ele_look112_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png)
+- [ele_look112_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

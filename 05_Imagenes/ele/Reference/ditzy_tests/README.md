@@ -1,11 +1,13 @@
 # 🖼️ Galería: ditzy_tests
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 5
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ditzy_01_tech_collapse_1774188810661.png](./ditzy_01_tech_collapse_1774188810661.png) | ![ditzy_02_fake_intellectual_1774188825918.png](./ditzy_02_fake_intellectual_1774188825918.png) | ![ditzy_03_narcissus_mirror.jpg](./ditzy_03_narcissus_mirror.jpg) |
-| ![ditzy_04_painful_math.png](./ditzy_04_painful_math.png) | ![ditzy_05_void_bubble.png](./ditzy_05_void_bubble.png) |
+| ![ditzy_01_tech_collapse_1774188810661.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_01_tech_collapse_1774188810661.png) | ![ditzy_02_fake_intellectual_1774188825918.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_02_fake_intellectual_1774188825918.png) | ![ditzy_03_narcissus_mirror.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_03_narcissus_mirror.jpg) |
+| ![ditzy_04_painful_math.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_04_painful_math.png) | ![ditzy_05_void_bubble.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_05_void_bubble.png) |
 
 ---
 
@@ -13,18 +15,18 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ditzy_01_tech_collapse_1774188810661.png](./ditzy_01_tech_collapse_1774188810661.png) | ![ditzy_02_fake_intellectual_1774188825918.png](./ditzy_02_fake_intellectual_1774188825918.png) | ![ditzy_03_narcissus_mirror.jpg](./ditzy_03_narcissus_mirror.jpg) | ![ditzy_04_painful_math.png](./ditzy_04_painful_math.png) |
-| ![ditzy_05_void_bubble.png](./ditzy_05_void_bubble.png) |
+| ![ditzy_01_tech_collapse_1774188810661.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_01_tech_collapse_1774188810661.png) | ![ditzy_02_fake_intellectual_1774188825918.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_02_fake_intellectual_1774188825918.png) | ![ditzy_03_narcissus_mirror.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_03_narcissus_mirror.jpg) | ![ditzy_04_painful_math.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_04_painful_math.png) |
+| ![ditzy_05_void_bubble.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_05_void_bubble.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [ditzy_01_tech_collapse_1774188810661.png](./ditzy_01_tech_collapse_1774188810661.png)
-- [ditzy_02_fake_intellectual_1774188825918.png](./ditzy_02_fake_intellectual_1774188825918.png)
-- [ditzy_03_narcissus_mirror.jpg](./ditzy_03_narcissus_mirror.jpg)
-- [ditzy_04_painful_math.png](./ditzy_04_painful_math.png)
-- [ditzy_05_void_bubble.png](./ditzy_05_void_bubble.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [ditzy_01_tech_collapse_1774188810661.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_01_tech_collapse_1774188810661.png)
+- [ditzy_02_fake_intellectual_1774188825918.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_02_fake_intellectual_1774188825918.png)
+- [ditzy_03_narcissus_mirror.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_03_narcissus_mirror.jpg)
+- [ditzy_04_painful_math.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_04_painful_math.png)
+- [ditzy_05_void_bubble.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/ditzy_tests/ditzy_05_void_bubble.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

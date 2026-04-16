@@ -1,10 +1,12 @@
 # 🖼️ Galería: theme_cowgirl_bimbo
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 2
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
+| ![custom_missdoll_general_s056_cencerro_rosa.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s060_cowgirl.jpg) |
 
 ---
 
@@ -12,14 +14,14 @@ Total imágenes: 2
 
 | Imagen | Imagen |
 | :---: | :---: |
-| ![custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg) |
+| ![custom_missdoll_general_s056_cencerro_rosa.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s056_cencerro_rosa.png) | ![custom_missdoll_general_s060_cowgirl.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s060_cowgirl.jpg) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [custom_missdoll_general_s056_cencerro_rosa.png](./custom_missdoll_general_s056_cencerro_rosa.png)
-- [custom_missdoll_general_s060_cowgirl.jpg](./custom_missdoll_general_s060_cowgirl.jpg)
+## 📜 Lista de Archivos (Descarga Directa)
+- [custom_missdoll_general_s056_cencerro_rosa.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s056_cencerro_rosa.png)
+- [custom_missdoll_general_s060_cowgirl.jpg](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/theme_cowgirl_bimbo/custom_missdoll_general_s060_cowgirl.jpg)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

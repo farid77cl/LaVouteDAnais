@@ -1,11 +1,13 @@
 # 🖼️ Galería: Story_Arcs
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 7
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![story_helena_secretary_arc_s076_scene_correction.png](./story_helena_secretary_arc_s076_scene_correction.png) | ![story_helena_secretary_arc_s077_scene_hands_desk.png](./story_helena_secretary_arc_s077_scene_hands_desk.png) | ![story_helena_secretary_arc_s078_scene_stilettos_worship.png](./story_helena_secretary_arc_s078_scene_stilettos_worship.png) |
-| ![story_helena_secretary_arc_s079_scene_tension.png](./story_helena_secretary_arc_s079_scene_tension.png) | ![story_helena_secretary_arc_s080_v2_correction.png](./story_helena_secretary_arc_s080_v2_correction.png) | ![story_helena_secretary_arc_s081_v2_hands.png](./story_helena_secretary_arc_s081_v2_hands.png) |
+| ![story_helena_secretary_arc_s076_scene_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s076_scene_correction.png) | ![story_helena_secretary_arc_s077_scene_hands_desk.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s077_scene_hands_desk.png) | ![story_helena_secretary_arc_s078_scene_stilettos_worship.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s078_scene_stilettos_worship.png) |
+| ![story_helena_secretary_arc_s079_scene_tension.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s079_scene_tension.png) | ![story_helena_secretary_arc_s080_v2_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s080_v2_correction.png) | ![story_helena_secretary_arc_s081_v2_hands.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s081_v2_hands.png) |
 
 ---
 
@@ -13,20 +15,20 @@ Total imágenes: 7
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![story_helena_secretary_arc_s076_scene_correction.png](./story_helena_secretary_arc_s076_scene_correction.png) | ![story_helena_secretary_arc_s077_scene_hands_desk.png](./story_helena_secretary_arc_s077_scene_hands_desk.png) | ![story_helena_secretary_arc_s078_scene_stilettos_worship.png](./story_helena_secretary_arc_s078_scene_stilettos_worship.png) | ![story_helena_secretary_arc_s079_scene_tension.png](./story_helena_secretary_arc_s079_scene_tension.png) |
-| ![story_helena_secretary_arc_s080_v2_correction.png](./story_helena_secretary_arc_s080_v2_correction.png) | ![story_helena_secretary_arc_s081_v2_hands.png](./story_helena_secretary_arc_s081_v2_hands.png) | ![story_helena_secretary_arc_s082_v2_tension.png](./story_helena_secretary_arc_s082_v2_tension.png) |
+| ![story_helena_secretary_arc_s076_scene_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s076_scene_correction.png) | ![story_helena_secretary_arc_s077_scene_hands_desk.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s077_scene_hands_desk.png) | ![story_helena_secretary_arc_s078_scene_stilettos_worship.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s078_scene_stilettos_worship.png) | ![story_helena_secretary_arc_s079_scene_tension.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s079_scene_tension.png) |
+| ![story_helena_secretary_arc_s080_v2_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s080_v2_correction.png) | ![story_helena_secretary_arc_s081_v2_hands.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s081_v2_hands.png) | ![story_helena_secretary_arc_s082_v2_tension.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s082_v2_tension.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [story_helena_secretary_arc_s076_scene_correction.png](./story_helena_secretary_arc_s076_scene_correction.png)
-- [story_helena_secretary_arc_s077_scene_hands_desk.png](./story_helena_secretary_arc_s077_scene_hands_desk.png)
-- [story_helena_secretary_arc_s078_scene_stilettos_worship.png](./story_helena_secretary_arc_s078_scene_stilettos_worship.png)
-- [story_helena_secretary_arc_s079_scene_tension.png](./story_helena_secretary_arc_s079_scene_tension.png)
-- [story_helena_secretary_arc_s080_v2_correction.png](./story_helena_secretary_arc_s080_v2_correction.png)
-- [story_helena_secretary_arc_s081_v2_hands.png](./story_helena_secretary_arc_s081_v2_hands.png)
-- [story_helena_secretary_arc_s082_v2_tension.png](./story_helena_secretary_arc_s082_v2_tension.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [story_helena_secretary_arc_s076_scene_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s076_scene_correction.png)
+- [story_helena_secretary_arc_s077_scene_hands_desk.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s077_scene_hands_desk.png)
+- [story_helena_secretary_arc_s078_scene_stilettos_worship.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s078_scene_stilettos_worship.png)
+- [story_helena_secretary_arc_s079_scene_tension.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s079_scene_tension.png)
+- [story_helena_secretary_arc_s080_v2_correction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s080_v2_correction.png)
+- [story_helena_secretary_arc_s081_v2_hands.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s081_v2_hands.png)
+- [story_helena_secretary_arc_s082_v2_tension.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Story_Arcs/story_helena_secretary_arc_s082_v2_tension.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

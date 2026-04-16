@@ -1,10 +1,12 @@
 # 🖼️ Galería: animal_print
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 2
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png) | ![miss_doll_v59_zebra_bodysuit.png](./miss_doll_v59_zebra_bodysuit.png) |
+| ![miss_doll_v59_leopard_catsuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_leopard_catsuit.png) | ![miss_doll_v59_zebra_bodysuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_zebra_bodysuit.png) |
 
 ---
 
@@ -12,14 +14,14 @@ Total imágenes: 2
 
 | Imagen | Imagen |
 | :---: | :---: |
-| ![miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png) | ![miss_doll_v59_zebra_bodysuit.png](./miss_doll_v59_zebra_bodysuit.png) |
+| ![miss_doll_v59_leopard_catsuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_leopard_catsuit.png) | ![miss_doll_v59_zebra_bodysuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_zebra_bodysuit.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [miss_doll_v59_leopard_catsuit.png](./miss_doll_v59_leopard_catsuit.png)
-- [miss_doll_v59_zebra_bodysuit.png](./miss_doll_v59_zebra_bodysuit.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [miss_doll_v59_leopard_catsuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_leopard_catsuit.png)
+- [miss_doll_v59_zebra_bodysuit.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/animal_print/miss_doll_v59_zebra_bodysuit.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

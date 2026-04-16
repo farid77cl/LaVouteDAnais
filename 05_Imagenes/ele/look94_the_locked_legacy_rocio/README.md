@@ -1,11 +1,13 @@
 # 🖼️ Galería: look94_the_locked_legacy_rocio
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 5
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![v1_standing.png](./v1_standing.png) | ![v2_seated.png](./v2_seated.png) | ![v3_backview.png](./v3_backview.png) |
-| ![v4_sideview.png](./v4_sideview.png) | ![v5_ditzy.png](./v5_ditzy.png) |
+| ![v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v1_standing.png) | ![v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v2_seated.png) | ![v3_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v3_backview.png) |
+| ![v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v4_sideview.png) | ![v5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v5_ditzy.png) |
 
 ---
 
@@ -13,18 +15,18 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![v1_standing.png](./v1_standing.png) | ![v2_seated.png](./v2_seated.png) | ![v3_backview.png](./v3_backview.png) | ![v4_sideview.png](./v4_sideview.png) |
-| ![v5_ditzy.png](./v5_ditzy.png) |
+| ![v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v1_standing.png) | ![v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v2_seated.png) | ![v3_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v3_backview.png) | ![v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v4_sideview.png) |
+| ![v5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v5_ditzy.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [v1_standing.png](./v1_standing.png)
-- [v2_seated.png](./v2_seated.png)
-- [v3_backview.png](./v3_backview.png)
-- [v4_sideview.png](./v4_sideview.png)
-- [v5_ditzy.png](./v5_ditzy.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [v1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v1_standing.png)
+- [v2_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v2_seated.png)
+- [v3_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v3_backview.png)
+- [v4_sideview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v4_sideview.png)
+- [v5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_rocio/v5_ditzy.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

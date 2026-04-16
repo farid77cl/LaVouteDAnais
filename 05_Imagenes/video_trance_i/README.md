@@ -1,11 +1,13 @@
 # 🖼️ Galería: video_trance_i
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 8
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![clinic_background.png](./clinic_background.png) | ![eyes_hypnotic.png](./eyes_hypnotic.png) | ![hypnotic_spiral.png](./hypnotic_spiral.png) |
-| ![latex_texture.png](./latex_texture.png) | ![lips_macro.png](./lips_macro.png) | ![miss_doll_induction.png](./miss_doll_induction.png) |
+| ![clinic_background.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/clinic_background.png) | ![eyes_hypnotic.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/eyes_hypnotic.png) | ![hypnotic_spiral.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/hypnotic_spiral.png) |
+| ![latex_texture.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/latex_texture.png) | ![lips_macro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/lips_macro.png) | ![miss_doll_induction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/miss_doll_induction.png) |
 
 ---
 
@@ -13,21 +15,21 @@ Total imágenes: 8
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![clinic_background.png](./clinic_background.png) | ![eyes_hypnotic.png](./eyes_hypnotic.png) | ![hypnotic_spiral.png](./hypnotic_spiral.png) | ![latex_texture.png](./latex_texture.png) |
-| ![lips_macro.png](./lips_macro.png) | ![miss_doll_induction.png](./miss_doll_induction.png) | ![miss_doll_vacant_stare.png](./miss_doll_vacant_stare.png) | ![pink_crystal_stairs.png](./pink_crystal_stairs.png) |
+| ![clinic_background.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/clinic_background.png) | ![eyes_hypnotic.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/eyes_hypnotic.png) | ![hypnotic_spiral.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/hypnotic_spiral.png) | ![latex_texture.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/latex_texture.png) |
+| ![lips_macro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/lips_macro.png) | ![miss_doll_induction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/miss_doll_induction.png) | ![miss_doll_vacant_stare.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/miss_doll_vacant_stare.png) | ![pink_crystal_stairs.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/pink_crystal_stairs.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [clinic_background.png](./clinic_background.png)
-- [eyes_hypnotic.png](./eyes_hypnotic.png)
-- [hypnotic_spiral.png](./hypnotic_spiral.png)
-- [latex_texture.png](./latex_texture.png)
-- [lips_macro.png](./lips_macro.png)
-- [miss_doll_induction.png](./miss_doll_induction.png)
-- [miss_doll_vacant_stare.png](./miss_doll_vacant_stare.png)
-- [pink_crystal_stairs.png](./pink_crystal_stairs.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [clinic_background.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/clinic_background.png)
+- [eyes_hypnotic.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/eyes_hypnotic.png)
+- [hypnotic_spiral.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/hypnotic_spiral.png)
+- [latex_texture.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/latex_texture.png)
+- [lips_macro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/lips_macro.png)
+- [miss_doll_induction.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/miss_doll_induction.png)
+- [miss_doll_vacant_stare.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/miss_doll_vacant_stare.png)
+- [pink_crystal_stairs.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/video_trance_i/pink_crystal_stairs.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

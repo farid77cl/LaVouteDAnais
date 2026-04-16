@@ -1,10 +1,12 @@
 # 🖼️ Galería: nexum_human_repurposing
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 2
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![dahlia_fullbody.png](./dahlia_fullbody.png) | ![dahlia_portrait.png](./dahlia_portrait.png) |
+| ![dahlia_fullbody.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_fullbody.png) | ![dahlia_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_portrait.png) |
 
 ---
 
@@ -12,14 +14,14 @@ Total imágenes: 2
 
 | Imagen | Imagen |
 | :---: | :---: |
-| ![dahlia_fullbody.png](./dahlia_fullbody.png) | ![dahlia_portrait.png](./dahlia_portrait.png) |
+| ![dahlia_fullbody.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_fullbody.png) | ![dahlia_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_portrait.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [dahlia_fullbody.png](./dahlia_fullbody.png)
-- [dahlia_portrait.png](./dahlia_portrait.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [dahlia_fullbody.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_fullbody.png)
+- [dahlia_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/nexum_human_repurposing/dahlia_portrait.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

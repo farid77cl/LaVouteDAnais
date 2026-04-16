@@ -1,11 +1,13 @@
 # 🖼️ Galería: Canon_Reference
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 8
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![custom_anais_canon_s005_reference.png](./custom_anais_canon_s005_reference.png) | ![custom_anais_canon_s006_refined.png](./custom_anais_canon_s006_refined.png) | ![custom_anais_canon_s007_solo_portrait.png](./custom_anais_canon_s007_solo_portrait.png) |
-| ![custom_anais_canon_s009_reference.png](./custom_anais_canon_s009_reference.png) | ![custom_anais_canon_s010_final.png](./custom_anais_canon_s010_final.png) | ![custom_anais_canon_s017_profile_2026.png](./custom_anais_canon_s017_profile_2026.png) |
+| ![custom_anais_canon_s005_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s005_reference.png) | ![custom_anais_canon_s006_refined.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s006_refined.png) | ![custom_anais_canon_s007_solo_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s007_solo_portrait.png) |
+| ![custom_anais_canon_s009_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s009_reference.png) | ![custom_anais_canon_s010_final.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s010_final.png) | ![custom_anais_canon_s017_profile_2026.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s017_profile_2026.png) |
 
 ---
 
@@ -13,21 +15,21 @@ Total imágenes: 8
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![custom_anais_canon_s005_reference.png](./custom_anais_canon_s005_reference.png) | ![custom_anais_canon_s006_refined.png](./custom_anais_canon_s006_refined.png) | ![custom_anais_canon_s007_solo_portrait.png](./custom_anais_canon_s007_solo_portrait.png) | ![custom_anais_canon_s009_reference.png](./custom_anais_canon_s009_reference.png) |
-| ![custom_anais_canon_s010_final.png](./custom_anais_canon_s010_final.png) | ![custom_anais_canon_s017_profile_2026.png](./custom_anais_canon_s017_profile_2026.png) | ![custom_anais_canon_s018_profile_2026_v1.png](./custom_anais_canon_s018_profile_2026_v1.png) | ![custom_anais_canon_s019_profile_2026.png](./custom_anais_canon_s019_profile_2026.png) |
+| ![custom_anais_canon_s005_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s005_reference.png) | ![custom_anais_canon_s006_refined.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s006_refined.png) | ![custom_anais_canon_s007_solo_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s007_solo_portrait.png) | ![custom_anais_canon_s009_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s009_reference.png) |
+| ![custom_anais_canon_s010_final.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s010_final.png) | ![custom_anais_canon_s017_profile_2026.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s017_profile_2026.png) | ![custom_anais_canon_s018_profile_2026_v1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s018_profile_2026_v1.png) | ![custom_anais_canon_s019_profile_2026.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s019_profile_2026.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [custom_anais_canon_s005_reference.png](./custom_anais_canon_s005_reference.png)
-- [custom_anais_canon_s006_refined.png](./custom_anais_canon_s006_refined.png)
-- [custom_anais_canon_s007_solo_portrait.png](./custom_anais_canon_s007_solo_portrait.png)
-- [custom_anais_canon_s009_reference.png](./custom_anais_canon_s009_reference.png)
-- [custom_anais_canon_s010_final.png](./custom_anais_canon_s010_final.png)
-- [custom_anais_canon_s017_profile_2026.png](./custom_anais_canon_s017_profile_2026.png)
-- [custom_anais_canon_s018_profile_2026_v1.png](./custom_anais_canon_s018_profile_2026_v1.png)
-- [custom_anais_canon_s019_profile_2026.png](./custom_anais_canon_s019_profile_2026.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [custom_anais_canon_s005_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s005_reference.png)
+- [custom_anais_canon_s006_refined.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s006_refined.png)
+- [custom_anais_canon_s007_solo_portrait.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s007_solo_portrait.png)
+- [custom_anais_canon_s009_reference.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s009_reference.png)
+- [custom_anais_canon_s010_final.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s010_final.png)
+- [custom_anais_canon_s017_profile_2026.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s017_profile_2026.png)
+- [custom_anais_canon_s018_profile_2026_v1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s018_profile_2026_v1.png)
+- [custom_anais_canon_s019_profile_2026.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/Canon_Reference/custom_anais_canon_s019_profile_2026.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

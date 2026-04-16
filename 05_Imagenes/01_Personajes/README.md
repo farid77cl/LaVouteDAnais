@@ -1,10 +1,12 @@
 # 🖼️ Galería: 01_Personajes
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 1
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png) |
+| ![ginny_bimbo_genie_01.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/01_Personajes/ginny_bimbo_genie_01.png) |
 
 ---
 
@@ -12,13 +14,13 @@ Total imágenes: 1
 
 | Imagen |
 | :---: |
-| ![ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png) |
+| ![ginny_bimbo_genie_01.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/01_Personajes/ginny_bimbo_genie_01.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [ginny_bimbo_genie_01.png](./ginny_bimbo_genie_01.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [ginny_bimbo_genie_01.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/01_Personajes/ginny_bimbo_genie_01.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄

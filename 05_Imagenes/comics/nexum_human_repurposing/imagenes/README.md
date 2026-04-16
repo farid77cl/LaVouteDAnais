@@ -1,11 +1,13 @@
 # 🖼️ Galería: imagenes
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
+
 Total imágenes: 8
 
-## ✨ Colección Destacada
+## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![contraportada.png](./contraportada.png) | ![pag01_citacion.png](./pag01_citacion.png) | ![pag02_pabellon.png](./pag02_pabellon.png) |
-| ![pag03_proceso.png](./pag03_proceso.png) | ![pag04_ceremonia.png](./pag04_ceremonia.png) | ![pag05_reencuentro.png](./pag05_reencuentro.png) |
+| ![contraportada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/contraportada.png) | ![pag01_citacion.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag01_citacion.png) | ![pag02_pabellon.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag02_pabellon.png) |
+| ![pag03_proceso.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag03_proceso.png) | ![pag04_ceremonia.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag04_ceremonia.png) | ![pag05_reencuentro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag05_reencuentro.png) |
 
 ---
 
@@ -13,21 +15,21 @@ Total imágenes: 8
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![contraportada.png](./contraportada.png) | ![pag01_citacion.png](./pag01_citacion.png) | ![pag02_pabellon.png](./pag02_pabellon.png) | ![pag03_proceso.png](./pag03_proceso.png) |
-| ![pag04_ceremonia.png](./pag04_ceremonia.png) | ![pag05_reencuentro.png](./pag05_reencuentro.png) | ![pag06_ciclo.png](./pag06_ciclo.png) | ![portada.png](./portada.png) |
+| ![contraportada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/contraportada.png) | ![pag01_citacion.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag01_citacion.png) | ![pag02_pabellon.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag02_pabellon.png) | ![pag03_proceso.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag03_proceso.png) |
+| ![pag04_ceremonia.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag04_ceremonia.png) | ![pag05_reencuentro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag05_reencuentro.png) | ![pag06_ciclo.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag06_ciclo.png) | ![portada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/portada.png) |
 
 
 ---
 
-## 📜 Lista de Archivos
-- [contraportada.png](./contraportada.png)
-- [pag01_citacion.png](./pag01_citacion.png)
-- [pag02_pabellon.png](./pag02_pabellon.png)
-- [pag03_proceso.png](./pag03_proceso.png)
-- [pag04_ceremonia.png](./pag04_ceremonia.png)
-- [pag05_reencuentro.png](./pag05_reencuentro.png)
-- [pag06_ciclo.png](./pag06_ciclo.png)
-- [portada.png](./portada.png)
+## 📜 Lista de Archivos (Descarga Directa)
+- [contraportada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/contraportada.png)
+- [pag01_citacion.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag01_citacion.png)
+- [pag02_pabellon.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag02_pabellon.png)
+- [pag03_proceso.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag03_proceso.png)
+- [pag04_ceremonia.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag04_ceremonia.png)
+- [pag05_reencuentro.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag05_reencuentro.png)
+- [pag06_ciclo.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/pag06_ciclo.png)
+- [portada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/imagenes/portada.png)
 
 ---
-*Actualizado automáticamente: 2026-04-16*
+*Sincronizado con GitHub: 2026-04-16* 👄
