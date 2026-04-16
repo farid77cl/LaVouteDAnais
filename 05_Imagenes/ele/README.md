@@ -68,12 +68,8 @@ Explora las secciones de esta categoría:
 - ✅ [**Look134 Champagne Silk Sequins**](./look134_champagne_silk_sequins/README.md)
 - ✅ [**Look135 Silver Sequined**](./look135_silver_sequined/README.md)
 - ✅ [**Look136 Plum Velvet Romance**](./look136_plum_velvet_romance/README.md)
-- 📁 [**Look137 Leopard Micro**](./look137_leopard_micro/README.md)
-- 📁 [**Look138 White Lace Mist**](./look138_white_lace_mist/README.md)
-- 📁 [**Look139 Red Metallic Siren**](./look139_red_metallic_siren/README.md)
 - ✅ [**Look13 Amatista**](./look13_amatista/README.md)
 - ✅ [**Look13 Viuda Negra**](./look13_viuda_negra/README.md)
-- 📁 [**Look140 Dark Sequin Empress**](./look140_dark_sequin_empress/README.md)
 - ✅ [**Look14 Midnight**](./look14_midnight/README.md)
 - ✅ [**Look15 Vampire Bride**](./look15_vampire_bride/README.md)
 - ✅ [**Look16 Ghost Bride**](./look16_ghost_bride/README.md)
@@ -154,4 +150,4 @@ Explora las secciones de esta categoría:
 - ✅ [**Theme Secretary**](./theme_secretary/README.md)
 
 ---
-*Actualizado automáticamente: 2026-04-15*
+*Actualizado automáticamente: 2026-04-16*

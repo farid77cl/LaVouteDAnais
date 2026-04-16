@@ -22,4 +22,4 @@ Total imágenes: 2
 - [nancy_hook_box.png](./nancy_hook_box.png)
 
 ---
-*Actualizado automáticamente: 2026-04-15*
+*Actualizado automáticamente: 2026-04-16*

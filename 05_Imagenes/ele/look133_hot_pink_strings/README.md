@@ -27,4 +27,4 @@ Total imágenes: 5
 - [ele_133_standing.png](./ele_133_standing.png)
 
 ---
-*Actualizado automáticamente: 2026-04-15*
+*Actualizado automáticamente: 2026-04-16*
