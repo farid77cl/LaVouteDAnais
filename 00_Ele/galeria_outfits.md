@@ -2892,15 +2892,15 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an exquisite soft emerald green Italian silk teddy with intricate noir Chantilly lace overlays, deep V-neckline, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch emerald silk high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, firelight highlighting her porcelain skin and cherry hair. 8k, editorial lighting.`
 
-### 📸 Imágenes (0/5 — Pendiente)
+### 📸 Imágenes (5/5 — COMPLETO)
 
-| Pose | Previsión |
+| Pose | Archivo |
 |------|---------|
-| **Standing** | Pendiente |
-| **Back View** | Pendiente |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace/ele_132_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace/ele_132_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace/ele_132_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace/ele_132_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace/ele_132_ditzy.png) |
 
 ---
 
@@ -2936,15 +2936,15 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a micro string bikini made of hot pink neon vinyl, ultra-thin string straps, minimal coverage, high-cut bottom. Towering 11-inch pink acrylic high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, bright beach light, showing XXXL French nails. 8k, editorial lighting.`
 
-### 📸 Imágenes (0/5 — Pendiente)
+### 📸 Imágenes (5/5 — COMPLETO)
 
-| Pose | Previsión |
+| Pose | Archivo |
 |------|---------|
-| **Standing** | Pendiente |
-| **Back View** | Pendiente |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_ditzy.png) |
 
 ---
 
