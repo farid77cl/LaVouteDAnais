@@ -1,7 +1,8 @@
 import os
 import re
 
-gallery_path = r"C:\Users\fabara\LaVouteDAnais\05_Imagenes\ele"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+gallery_path = os.path.abspath(os.path.join(script_dir, "..", "..", "..", "05_Imagenes", "ele"))
 looks = []
 
 for folder in os.listdir(gallery_path):
