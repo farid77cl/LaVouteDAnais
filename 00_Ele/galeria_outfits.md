@@ -292,7 +292,7 @@
 
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
 
-- **Ubicación:** `05_Imagenes/ele/look91_vinyl_yoga/`
+- **Ubicación:** `05_Imagenes/ele/look91_vinyl_yoga_gym/`
 
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
