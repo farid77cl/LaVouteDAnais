@@ -74,9 +74,12 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 133 completos)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 136+ completos)
+│
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
+│
 ├── 07_Recursos/        # Referencias e investigación
+│
 └── 99_Sistema/         # Scripts de automatización y herramientas
 ```
 
@@ -88,7 +91,7 @@ LaVouteDAnais/
 - **El Secreto de la Cómoda** — En progreso (Capítulo 2 — Escritura v0.3)
 
 ### Biblioteca Completa (39 relatos finalizados)
-- **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte.
+- **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
 - **Serie Le Miroir d'Anaïs:** La transformación ritual de Sofía. El corazón del universo.
 - **Serie Trance:** Hipnosis profunda, bimboficación y control mental.
 - **The Dollhouse:** Reality show donde las reglas de La Voûte se transmiten en vivo.
@@ -101,7 +104,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 
 ---
 
-*Chaque mot est un décret. Chaque histoire, une porte.*
+*Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 16/04/2026 (Auditoría Visual 120-136 — Visibility 100%)*
+*Última actualización: 16/04/2026 (Auditoría Visual 120-136 — Sincronización Completa 🫦⚖️)*

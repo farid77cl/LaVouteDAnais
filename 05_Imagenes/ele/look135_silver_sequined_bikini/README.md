@@ -1,32 +1,26 @@
-# 🖼️ Galería: look135_silver_sequined
+# 🖼️ Galería: look135_silver_sequined_bikini
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 1
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_135_back_view_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_back_view_v0.png) | ![ele_135_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_ditzy.png) | ![ele_135_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_seated.png) |
-| ![ele_135_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_side_profile.png) | ![ele_135_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_standing.png) |
+| ![ele_135_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back_view.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen | Imagen |
-| :---: | :---: | :---: | :---: |
-| ![ele_135_back_view_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_back_view_v0.png) | ![ele_135_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_ditzy.png) | ![ele_135_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_seated.png) | ![ele_135_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_side_profile.png) |
-| ![ele_135_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_standing.png) |
+| Imagen |
+| :---: |
+| ![ele_135_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back_view.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
-- [ele_135_back_view_v0.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_back_view_v0.png)
-- [ele_135_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_ditzy.png)
-- [ele_135_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_seated.png)
-- [ele_135_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_side_profile.png)
-- [ele_135_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined/ele_135_standing.png)
+- [ele_135_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back_view.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-16* 👄
+*Sincronizado con GitHub: 2026-04-17* 👄

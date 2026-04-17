@@ -34,4 +34,4 @@ Total imágenes: 9
 - [look1_morticia_walking.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look01_morticia/look1_morticia_walking.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-16* 👄
+*Sincronizado con GitHub: 2026-04-17* 👄

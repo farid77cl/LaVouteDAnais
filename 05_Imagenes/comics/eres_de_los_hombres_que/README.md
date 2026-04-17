@@ -44,4 +44,4 @@ Total imágenes: 14
 - [pag06_profundizacion.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/eres_de_los_hombres_que/pag06_profundizacion.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-16* 👄
+*Sincronizado con GitHub: 2026-04-17* 👄

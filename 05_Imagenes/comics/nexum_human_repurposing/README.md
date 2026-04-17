@@ -36,4 +36,4 @@ Total imágenes: 8
 - [portada.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/nexum_human_repurposing/portada.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-16* 👄
+*Sincronizado con GitHub: 2026-04-17* 👄

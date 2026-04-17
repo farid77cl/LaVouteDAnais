@@ -29,4 +29,4 @@ Total imágenes: 5
 - [05_selfie.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look13_viuda_negra/05_selfie.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-16* 👄
+*Sincronizado con GitHub: 2026-04-17* 👄
