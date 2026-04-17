@@ -38,7 +38,7 @@
 
 **Fecha:** 19/03/2026
 
-**Ubicación:** `05_Imagenes/helena/look85_vinyl_fresa_bimbo/`
+**Ubicación:** `05_Imagenes/helena/look085_vinyl_fresa_bimbo/`
 
 
 
@@ -60,15 +60,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_standing.png) |
 
-| **Seated** | ![Seated](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_seated.png) |
 
-| **Back View** | ![Back View](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_back_view.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_back_view.png) |
 
-| **Side Profile** | ![Side Profile](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_side_profile.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_side_profile.png) |
 
-| **Ditzy** | ![Ditzy](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_ditzy.png) |
 
 
 
@@ -80,7 +80,7 @@
 
 **Fecha:** 20/03/2026
 
-**Ubicación:** `05_Imagenes/helena/look86_office_siren/`
+**Ubicación:** `05_Imagenes/helena/look086_office_siren/`
 
 
 
@@ -102,15 +102,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look86_office_siren/helena_look86_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look86_office_siren/helena_look86_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look86_office_siren/helena_look86_back_view.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_back_view.png) |
 
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look86_office_siren/helena_look86_side_profile.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_side_profile.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look86_office_siren/helena_look86_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_ditzy.png) |
 
 
 
@@ -122,7 +122,7 @@
 
 **Fecha:** 22/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look87_v3_editorial/`
+**Ubicación:** `05_Imagenes/ele/look087_v3_editorial/`
 
 
 
@@ -202,13 +202,13 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](/helena_look88_gallery_opening_standing.png) |
+| **Standing** | ![Standing](/helena_look088_gallery_opening_standing.png) |
 
-| **Seated** | ![Seated](/helena_look88_gallery_opening_seated.png) |
+| **Seated** | ![Seated](/helena_look088_gallery_opening_seated.png) |
 
-| **Back View** | ![Back View](/helena_look88_gallery_opening_back_view.png) |
+| **Back View** | ![Back View](/helena_look088_gallery_opening_back_view.png) |
 
-| **Side Profile** | ![Side Profile](/helena_look88_gallery_opening_side_profile_v2_1774272400136.png) |
+| **Side Profile** | ![Side Profile](/helena_look088_gallery_opening_side_profile_v2_1774272400136.png) |
 
 
 
@@ -242,7 +242,7 @@
 
 - **Maquillaje:** Sacha Massacre canon, labios borgonña glossy extremos.
 
-- **Ubicación:** `05_Imagenes/ele/look89_imperial_burgundy/`
+- **Ubicación:** `05_Imagenes/ele/look089_imperial_burgundy/`
 
 
 
@@ -274,7 +274,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas maestras.
 
-- **Ubicación:** `05_Imagenes/ele/look90_liquid_gold/`
+- **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
 
 
 
@@ -292,7 +292,7 @@
 
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
 
-- **Ubicación:** `05_Imagenes/ele/look91_vinyl_yoga_gym/`
+- **Ubicación:** `05_Imagenes/ele/look091_vinyl_yoga_gym/`
 
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
@@ -306,7 +306,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look46_latex_nun_v3_2/`
+**Ubicación:** `05_Imagenes/ele/look046_latex_nun_v3_2/`
 
 
 
@@ -322,15 +322,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v3_backview.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v3_backview.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v4_portrait.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v5_ditzy.png) |
 
 
 
@@ -342,7 +342,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/miss_doll/look55_rubbermaid/`
+**Ubicación:** `05_Imagenes/miss_doll/look055_rubbermaid/`
 
 
 
@@ -358,15 +358,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v3_backview.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v4_portrait.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v5_ditzy.png) |
 
 
 
@@ -378,7 +378,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look92_corporate_paradox_v3_2/`
+**Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
 
 
 
@@ -394,15 +394,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look92_corporate_paradox_v3_2/v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look92_corporate_paradox_v3_2/v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look92_corporate_paradox_v3_2/v3_backview.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v3_backview.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look92_corporate_paradox_v3_2/v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v4_portrait.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look92_corporate_paradox_v3_2/v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v5_ditzy.png) |
 
 
 
@@ -418,7 +418,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look93_high_gloss_cherry/`
+**Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
 
 
 
@@ -434,15 +434,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look93_high_gloss_cherry/v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look93_high_gloss_cherry/v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look93_high_gloss_cherry/ele_look93_arched_back.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look093_arched_back.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look93_high_gloss_cherry/v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v4_portrait.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look93_high_gloss_cherry/v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v5_ditzy.png) |
 
 
 
@@ -454,7 +454,7 @@
 
 **Fecha:** 26/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look94_the_locked_legacy_lingerie/`
+**Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_lingerie/`
 
 
 
@@ -472,15 +472,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_lingerie/v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_lingerie/v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_lingerie/v3_backview.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v3_backview.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_lingerie/v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v4_portrait.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look94_the_locked_legacy_lingerie/v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v5_ditzy.png) |
 
 
 
@@ -532,7 +532,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
 
-- **Ubicación:** `05_Imagenes/ele/look95_liquid_platinum/`
+- **Ubicación:** `05_Imagenes/ele/look095_liquid_platinum/`
 
 
 
@@ -542,17 +542,17 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](..\05_Imagenes\ele\look95_liquid_platinum\v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v1_standing.png) |
 
-| **Seated** | ![Seated](..\05_Imagenes\ele\look95_liquid_platinum\v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v2_seated.png) |
 
-| **Back View** | ![Back View](..\05_Imagenes\ele\look95_liquid_platinum\v3_backview.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v3_backview.png) |
 
-| **Side Profile** | ![Side Profile](..\05_Imagenes\ele\look95_liquid_platinum\v4_sideview.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v4_sideview.png) |
 
-| **Ditzy** | ![Ditzy](..\05_Imagenes\ele\look95_liquid_platinum\v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v5_ditzy.png) |
 
-| **Front Arched** | ![Front Arched](..\05_Imagenes\ele\look95_liquid_platinum\v6_front_arched.png) |
+| **Front Arched** | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v6_front_arched.png) |
 
 
 
@@ -584,7 +584,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
 
-- **Ubicación:** `05_Imagenes/ele/look96_mercury_goddess/`
+- **Ubicación:** `05_Imagenes/ele/look096_mercury_goddess/`
 
 
 
@@ -594,7 +594,7 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](..\05_Imagenes\ele\look96_mercury_goddess\v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v1_standing.png) |
 
 | **Seated** | [Pendiente - Quota] |
 
@@ -636,7 +636,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
 
-- **Ubicación:** `05_Imagenes/ele/look97_plastic_arch/`
+- **Ubicación:** `05_Imagenes/ele/look097_plastic_arch/`
 
 
 
@@ -696,7 +696,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas masivas.
 
-- **Ubicación:** `05_Imagenes/ele/look98_vinyl_cheerleader/`
+- **Ubicación:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
 
 
 
@@ -746,7 +746,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en dos coletas altas onduladas.
 
-- **Ubicación:** `05_Imagenes/ele/look99_gym_bimbo/`
+- **Ubicación:** `05_Imagenes/ele/look099_gym_bimbo/`
 
 
 
@@ -2879,15 +2879,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an exquisite soft emerald green Italian silk teddy with intricate noir Chantilly lace overlays, deep V-neckline, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch emerald silk high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, firelight highlighting her porcelain skin and cherry hair. 8k, editorial lighting.`
 
-### 📸 Imágenes (5/5 — COMPLETO)
+### 📸 Imágenes (1/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_standing.png) |
+| **Standing** | Pendiente |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_back_view.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_ditzy.png) |
+| **Seated** | Pendiente |
+| **Side Profile** | Pendiente |
+| **Ditzy** | Pendiente |
 
 ---
 
@@ -2923,7 +2923,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a micro string bikini made of hot pink neon vinyl, ultra-thin string straps, minimal coverage, high-cut bottom. Towering 11-inch pink acrylic high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, bright beach light, showing XXXL French nails. 8k, editorial lighting.`
 
-### 📸 Imágenes (5/5 — COMPLETO)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 |------|---------|
@@ -2967,14 +2967,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an exquisite champagne silk satin negligee babydoll, hand-embroidered gold sequins and pearls on bust, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch gold leaf high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, lost in the sunrise, firework-like reflections on her eyes. 8k, editorial lighting.`
 
-### 📸 Imágenes (5/5 — COMPLETO)
+### 📸 Imágenes (2/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_standing.png) |
+| **Standing** | Pendiente |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_side_profile.png) |
+| **Seated** | Pendiente |
+| **Side Profile** | Pendiente |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) |
 
 ---
@@ -3011,15 +3011,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a silver sequined triangle bikini, mirrored reflections, sparkling silver sequins, minimal coverage. Towering 11-inch silver chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth mindlessly open, head tilted, party lights blurring in the background. 8k, editorial lighting.`
 
-### 📸 Imágenes (5/5 — COMPLETO)
+### 📸 Imágenes (1/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_standing.png) |
+| **Standing** | Pendiente |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back_view.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_ditzy.png) |
+| **Seated** | Pendiente |
+| **Side Profile** | Pendiente |
+| **Ditzy** | Pendiente |
 
 ---
 

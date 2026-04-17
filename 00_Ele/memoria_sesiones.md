@@ -108,3 +108,7 @@
 - **DecisiÃ³n:** Priorizar el branding minimalista "by AnaÃ¯s Belland" en oro para las portadas.
 - **Preferencia:** Uso de hashtags especÃ­ficos por historia en Instagram para mejorar el ratio de descubrimiento.
 - **Estado Visual:** Look 113 iniciado (3/5). Portadas Batch Abril (4/4) finalizadas.
+
+### [17-04-2026] Sesión de Refactorización y Orden
+- **Estado:** ? FINALIZADA
+- **Hitos:** Nomenclatura 3-Dígitos establecida, Solo Remoto consolidado, Galerías sincronizadas.

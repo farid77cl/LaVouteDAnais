@@ -145,8 +145,8 @@
 
   | Pose | Imagen |
   |------|--------|
-  | **Frontal** | ![Helena Look 6](..\05_Imagenes\helena\Helena_Look06_BloodMoon_v1.png) |
-  | **Trasera** | ![Helena Look 6 Back](..\05_Imagenes\helena\Helena_Look06_BloodMoon_Back_v1.png) |
+  | **Frontal** | ![Helena Look 6](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/Helena_Look06_BloodMoon_v1.png) |
+  | **Trasera** | ![Helena Look 6 Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/Helena_Look06_BloodMoon_Back_v1.png) |
 
   ---
 
@@ -435,11 +435,11 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 | Pose | Archivo |
 |------|---------|
-| **Full Body** |  5_Imagenes/helena/look13_viuda_negra/01_standing.png |
-| **Portrait** |  5_Imagenes/helena/look13_viuda_negra/02_portrait.png |
-| **Detail** |  5_Imagenes/helena/look13_viuda_negra/03_detail.png |
-| **Sitting** |  5_Imagenes/helena/look13_viuda_negra/04_sitting.png |
-| **Selfie** |  5_Imagenes/helena/look13_viuda_negra/05_selfie.png |
+| **Full Body** |  5_Imagenes/helena/look013_viuda_negra/01_standing.png |
+| **Portrait** |  5_Imagenes/helena/look013_viuda_negra/02_portrait.png |
+| **Detail** |  5_Imagenes/helena/look013_viuda_negra/03_detail.png |
+| **Sitting** |  5_Imagenes/helena/look013_viuda_negra/04_sitting.png |
+| **Selfie** |  5_Imagenes/helena/look013_viuda_negra/05_selfie.png |
 
 > *"Like... soy tan oscura que absorbo la luz... y la esperanza... *giggle* "*  Helena
 
@@ -576,8 +576,8 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Ondas voluminosas negro azabache con mechones grises ceniza
 
 ### ?? Imágenes (5)
-- helena_look31_standing.png`n- helena_look31_seated.png`n- helena_look31_back_view.png`n- helena_look31_side_profile.png`n- helena_look31_ditzy.png`n
-**Ubicación:** 05_Imagenes/helena/look31_industrial_siren/
+- helena_look031_standing.png`n- helena_look031_seated.png`n- helena_look031_back_view.png`n- helena_look031_side_profile.png`n- helena_look031_ditzy.png`n
+**Ubicación:** 05_Imagenes/helena/look031_industrial_siren/
 
 ---
 
@@ -595,13 +595,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Recogido alto voluminoso con dos mechones cayendo a los lados.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look35_standing.png
-- helena_look35_seated.png
-- helena_look35_back_view.png
-- helena_look35_side_profile.png
-- helena_look35_ditzy.png
+- helena_look035_standing.png
+- helena_look035_seated.png
+- helena_look035_back_view.png
+- helena_look035_side_profile.png
+- helena_look035_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look35_velvet_noir_empress/
+**Ubicación:** 05_Imagenes/helena/look035_velvet_noir_empress/
 
 ---
 
@@ -624,13 +624,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas, negro con punta roja degradada, como garras ensangrentadas.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look36_standing_1768908089584.png
-- helena_look36_seated_1768908201332.png
-- helena_look36_back_view_1768908125068.png
-- helena_look36_side_profile_1768908142604.png
-- helena_look36_ditzy_1768908160393.png
+- helena_look036_standing_1768908089584.png
+- helena_look036_seated_1768908201332.png
+- helena_look036_back_view_1768908125068.png
+- helena_look036_side_profile_1768908142604.png
+- helena_look036_ditzy_1768908160393.png
 
-**Ubicación:** 05_Imagenes/helena/look36_crimson_serpent/
+**Ubicación:** 05_Imagenes/helena/look036_crimson_serpent/
 
 ---
 
@@ -653,12 +653,12 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Coffin negras extra largas.
 
 ### ðŸ“¸ Imágenes (4/5 - standing pendiente)
-- helena_look37_seated_1768995912313.png
-- helena_look37_back_1768996013972.png
-- helena_look37_profile_1768996115429.png
-- helena_look37_ditzy_1768996220806.png
+- helena_look037_seated_1768995912313.png
+- helena_look037_back_1768996013972.png
+- helena_look037_profile_1768996115429.png
+- helena_look037_ditzy_1768996220806.png
 
-**Ubicación:** 05_Imagenes/helena/look37_midnight_widow/
+**Ubicación:** 05_Imagenes/helena/look037_midnight_widow/
 
 ---
 
@@ -680,13 +680,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Coffin extra largas, negro brillante como ataúdes en miniatura.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look38_standing_1769080493999.png
-- helena_look38_seated_1769080510546.png
-- helena_look38_back_1769080526412.png
-- helena_look38_profile_1769080543019.png
-- helena_look38_ditzy_1769080559673.png
+- helena_look038_standing_1769080493999.png
+- helena_look038_seated_1769080510546.png
+- helena_look038_back_1769080526412.png
+- helena_look038_profile_1769080543019.png
+- helena_look038_ditzy_1769080559673.png
 
-**Ubicación:** 05_Imagenes/helena/look38_victorian_mourning/
+**Ubicación:** 05_Imagenes/helena/look038_victorian_mourning/
 
 ---
 
@@ -708,13 +708,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas, azul cromo espejo con circuitos negros.
 
 ### ðŸ“¸ Imágenes (Pendientes)
-- helena_look39_standing.png
-- helena_look39_seated.png
-- helena_look39_back_view.png
-- helena_look39_side_profile.png
-- helena_look39_ditzy.png
+- helena_look039_standing.png
+- helena_look039_seated.png
+- helena_look039_back_view.png
+- helena_look039_side_profile.png
+- helena_look039_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look39_cyber_goth_oracle/
+**Ubicación:** 05_Imagenes/helena/look039_cyber_goth_oracle/
 
 ---
 
@@ -736,13 +736,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Coffin extra largas, negro con detalles dorados.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look40_standing_1769165652296.png
-- helena_look40_seated_1769165668605.png
-- helena_look40_back_1769165685327.png
-- helena_look40_profile_1769165705733.png
-- helena_look40_ditzy_1769165723566.png
+- helena_look040_standing_1769165652296.png
+- helena_look040_seated_1769165668605.png
+- helena_look040_back_1769165685327.png
+- helena_look040_profile_1769165705733.png
+- helena_look040_ditzy_1769165723566.png
 
-**Ubicación:** 05_Imagenes/helena/look40_baroque_gold_empress/
+**Ubicación:** 05_Imagenes/helena/look040_baroque_gold_empress/
 
 ---
 
@@ -763,13 +763,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Ultra lacio y pegado al cráneo (slicked back) cayendo en cascada húmeda por la espalda.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look41_standing_1769294245944.png
-- helena_look41_seated_1769294259874.png
-- helena_look41_back_view_1769294288880.png
-- helena_look41_side_profile_1769294304545.png
-- helena_look41_ditzy_1769294318451.png
+- helena_look041_standing_1769294245944.png
+- helena_look041_seated_1769294259874.png
+- helena_look041_back_view_1769294288880.png
+- helena_look041_side_profile_1769294304545.png
+- helena_look041_ditzy_1769294318451.png
 
-**Ubicación:** `05_Imagenes/helena/look41_vampire_queen/`
+**Ubicación:** `05_Imagenes/helena/look041_vampire_queen/`
 
 ---
 
@@ -790,14 +790,14 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas, base negra con circuitos cian.
 
 ### ðŸ“¸ Imágenes (6)
-- look42_neon_neural_goth/helena_look42_hero_power.png
-- look42_neon_neural_goth/helena_look42_standing_1769348651673.png
-- look42_neon_neural_goth/helena_look42_seated_1769348667060.png
-- look42_neon_neural_goth/helena_look42_back_view_1769348682844.png
-- look42_neon_neural_goth/helena_look42_side_profile_1769348697689.png
-- look42_neon_neural_goth/helena_look42_ditzy_brain_empty_1769348713867.png
+- look042_neon_neural_goth/helena_look042_hero_power.png
+- look042_neon_neural_goth/helena_look042_standing_1769348651673.png
+- look042_neon_neural_goth/helena_look042_seated_1769348667060.png
+- look042_neon_neural_goth/helena_look042_back_view_1769348682844.png
+- look042_neon_neural_goth/helena_look042_side_profile_1769348697689.png
+- look042_neon_neural_goth/helena_look042_ditzy_brain_empty_1769348713867.png
 
-**Ubicación:** `05_Imagenes/helena/look42_neon_neural_goth/`
+**Ubicación:** `05_Imagenes/helena/look042_neon_neural_goth/`
 
 ---
 
@@ -820,13 +820,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Recogido alto estilo "Victory Rolls" gótico pero contenido por la jaula.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look50_standing.png
-- helena_look50_seated.png
-- helena_look50_back_view.png
-- helena_look50_side_profile.png
-- helena_look50_ditzy.png
+- helena_look050_standing.png
+- helena_look050_seated.png
+- helena_look050_back_view.png
+- helena_look050_side_profile.png
+- helena_look050_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look50_golden_cage/`
+**Ubicación:** `05_Imagenes/helena/look050_golden_cage/`
 
 ---
 
@@ -849,13 +849,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Efecto "Wet Look" (húmedo) peinado hacia atrás, desordenado y sexy.
 
 ### ðŸ“¸ Imágenes (Pendientes)
-- helena_look48_standing.png
-- helena_look48_seated.png
-- helena_look48_back_view.png
-- helena_look48_side_profile.png
-- helena_look48_ditzy.png
+- helena_look048_standing.png
+- helena_look048_seated.png
+- helena_look048_back_view.png
+- helena_look048_side_profile.png
+- helena_look048_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look48_industrial_lust/`
+**Ubicación:** `05_Imagenes/helena/look048_industrial_lust/`
 
 ---
 
@@ -873,13 +873,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Vibe:** Vulnerabilidad, asfixia erótica inicial, la transición de humano a muñeca.
 
 ### ðŸ“¸ Imágenes (5)
-- helena_look49_standing.png (Sosteniendo el traje con miedo/deseo)
-- helena_look49_seated_struggle.png (Luchando por subirlo en las caderas)
-- helena_look49_back_zipper.png (El dilema del cierre inalcanzable)
-- helena_look49_profile_admiring.png (El primer vistazo en el espejo: narcisismo naciendo)
-- helena_look49_ditzy_lips.png (Primer plano de labios negros: la identidad sellada)
+- helena_look049_standing.png (Sosteniendo el traje con miedo/deseo)
+- helena_look049_seated_struggle.png (Luchando por subirlo en las caderas)
+- helena_look049_back_zipper.png (El dilema del cierre inalcanzable)
+- helena_look049_profile_admiring.png (El primer vistazo en el espejo: narcisismo naciendo)
+- helena_look049_ditzy_lips.png (Primer plano de labios negros: la identidad sellada)
 
-**Ubicación:** `05_Imagenes/helena/look49_first_time_latex/`
+**Ubicación:** `05_Imagenes/helena/look049_first_time_latex/`
 
 
 ---
@@ -944,13 +944,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Blowout negro voluminoso.
 
 ### ðŸ“¸ Imágenes (5)
-- look45_midnight_secretary/helena_look45_standing_hero_1769425820149.png
-- look45_midnight_secretary/helena_look45_seated_desk_1769425836738.png
-- look45_midnight_secretary/helena_look45_back_view_filmin_1769425874538.png
-- look45_midnight_secretary/helena_look45_side_profile_beauty_1769425892187.png
-- look45_midnight_secretary/helena_look45_ditzy_brain_empty_1769425907436.png
+- look045_midnight_secretary/helena_look045_standing_hero_1769425820149.png
+- look045_midnight_secretary/helena_look045_seated_desk_1769425836738.png
+- look045_midnight_secretary/helena_look045_back_view_filmin_1769425874538.png
+- look045_midnight_secretary/helena_look045_side_profile_beauty_1769425892187.png
+- look045_midnight_secretary/helena_look045_ditzy_brain_empty_1769425907436.png
 
-**Ubicación:** `05_Imagenes/helena/look45_midnight_secretary/`
+**Ubicación:** `05_Imagenes/helena/look045_midnight_secretary/`
 
 ---
 
@@ -969,13 +969,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Volumen negro masivo.
 
 ### ðŸ“¸ Imágenes (5)
-- look46_latex_nun/helena_look46_standing.png
-- look46_latex_nun/helena_look46_seated.png
-- look46_latex_nun/helena_look46_back_view.png
-- look46_latex_nun/helena_look46_side_profile.png
-- look46_latex_nun/helena_look46_ditzy.png
+- look046_latex_nun/helena_look046_standing.png
+- look046_latex_nun/helena_look046_seated.png
+- look046_latex_nun/helena_look046_back_view.png
+- look046_latex_nun/helena_look046_side_profile.png
+- look046_latex_nun/helena_look046_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look46_latex_nun/`
+**Ubicación:** `05_Imagenes/helena/look046_latex_nun/`
 
 ---
 
@@ -995,13 +995,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Volumen XXXXXL negro azabache, ondas salvajes.
 
 ### ðŸ“¸ Imágenes (Pendientes)
-- look47_midnight_pvc_doll/helena_look47_standing.png
-- look47_midnight_pvc_doll/helena_look47_seated.png
-- look47_midnight_pvc_doll/helena_look47_back_view.png
-- look47_midnight_pvc_doll/helena_look47_side_profile.png
-- look47_midnight_pvc_doll/helena_look47_ditzy.png
+- look047_midnight_pvc_doll/helena_look047_standing.png
+- look047_midnight_pvc_doll/helena_look047_seated.png
+- look047_midnight_pvc_doll/helena_look047_back_view.png
+- look047_midnight_pvc_doll/helena_look047_side_profile.png
+- look047_midnight_pvc_doll/helena_look047_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look47_midnight_pvc_doll/`
+**Ubicación:** `05_Imagenes/helena/look047_midnight_pvc_doll/`
 
 ---
 
@@ -1022,13 +1022,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Coffin extra largas, negro brillante.
 
 ### 📸 Imágenes (5)
-- helena_look51_standing_1770117072514.png
-- helena_look51_seated_1770117091111.png
-- helena_look51_back_view_1770117108106.png
-- helena_look51_side_profile_1770117124389.png
-- helena_look51_ditzy_1770117141228.png
+- helena_look051_standing_1770117072514.png
+- helena_look051_seated_1770117091111.png
+- helena_look051_back_view_1770117108106.png
+- helena_look051_side_profile_1770117124389.png
+- helena_look051_ditzy_1770117141228.png
 
-**Ubicación:** `05_Imagenes/helena/look51_obsidian_rose_queen/`
+**Ubicación:** `05_Imagenes/helena/look051_obsidian_rose_queen/`
 
 
 ---
@@ -1050,13 +1050,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Volumen salvaje cardado estilo años 80, negro azabache.
 
 ### 📸 Imágenes (Pendientes)
-- helena_look52_standing.png
-- helena_look52_seated.png
-- helena_look52_back_view.png
-- helena_look52_side_profile.png
-- helena_look52_ditzy.png
+- helena_look052_standing.png
+- helena_look052_seated.png
+- helena_look052_back_view.png
+- helena_look052_side_profile.png
+- helena_look052_ditzy.png
 
-**Ubicación:** \ 5_Imagenes/helena/look52_feline_noir/\
+**Ubicación:** \ 5_Imagenes/helena/look052_feline_noir/\
 
 
 ---
@@ -1080,13 +1080,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas, cromo plateado espejo.
 
 ### 📸 Imágenes (Pendientes)
-- helena_look53_standing.png
-- helena_look53_seated.png
-- helena_look53_back_view.png
-- helena_look53_side_profile.png
-- helena_look53_ditzy.png
+- helena_look053_standing.png
+- helena_look053_seated.png
+- helena_look053_back_view.png
+- helena_look053_side_profile.png
+- helena_look053_ditzy.png
 
-**Ubicación:** \ 5_Imagenes/helena/look53_silver_moon_goddess/\
+**Ubicación:** \ 5_Imagenes/helena/look053_silver_moon_goddess/\
 
 ---
 
@@ -1107,13 +1107,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas, rojo sangre brillante.
 
 ### 📸 Imágenes (Pendientes)
-- helena_look55_standing.png
-- helena_look55_seated.png
-- helena_look55_back_view.png
-- helena_look55_side_profile.png
-- helena_look55_ditzy.png
+- helena_look055_standing.png
+- helena_look055_seated.png
+- helena_look055_back_view.png
+- helena_look055_side_profile.png
+- helena_look055_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look55_scarlet_silk/`
+**Ubicación:** `05_Imagenes/helena/look055_scarlet_silk/`
 
 ---
 
@@ -1135,18 +1135,18 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Cromo plateado espejo (Mirror Chrome).
 
 ### 📸 Imágenes (10)
-- helena_look56_standing.png
-- helena_look56_seated.png
-- helena_look56_back_view.png
-- helena_look56_side_profile.png
-- helena_look56_ditzy.png
-- helena_look56_kneeling.png
-- helena_look56_mirror_selfie.png
-- helena_look56_bust_detail.png
-- helena_look56_lying_down.png
-- helena_look56_walking_away.png
+- helena_look056_standing.png
+- helena_look056_seated.png
+- helena_look056_back_view.png
+- helena_look056_side_profile.png
+- helena_look056_ditzy.png
+- helena_look056_kneeling.png
+- helena_look056_mirror_selfie.png
+- helena_look056_bust_detail.png
+- helena_look056_lying_down.png
+- helena_look056_walking_away.png
 
-**Ubicación:** 05_Imagenes/helena/look56_eternal_loop/
+**Ubicación:** 05_Imagenes/helena/look056_eternal_loop/
 
 ---
 
@@ -1167,13 +1167,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Stiletto extra largas con diseño de ilusión óptica.
 
 ### 📸 Imágenes (Pendientes)
-- helena_look57_standing.png
-- helena_look57_seated.png
-- helena_look57_back_view.png
-- helena_look57_side_profile.png
-- helena_look57_ditzy.png
+- helena_look057_standing.png
+- helena_look057_seated.png
+- helena_look057_back_view.png
+- helena_look057_side_profile.png
+- helena_look057_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look57_hypnotic_spiral/
+**Ubicación:** 05_Imagenes/helena/look057_hypnotic_spiral/
 
 ---
 
@@ -1195,13 +1195,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Uñas:** Negras con forma de onda de sonido verde.
 
 ### 📸 Imágenes (Pendientes)
-- helena_look58_standing.png
-- helena_look58_seated.png
-- helena_look58_back_view.png
-- helena_look58_side_profile.png
-- helena_look58_ditzy.png
+- helena_look058_standing.png
+- helena_look058_seated.png
+- helena_look058_back_view.png
+- helena_look058_side_profile.png
+- helena_look058_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look58_subliminal_waveform/`
+**Ubicación:** `05_Imagenes/helena/look058_subliminal_waveform/`
 ---
 
 ## 🤠 Look 59: Midnight Cowgirl (12/02/2026)
@@ -1224,13 +1224,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Voluminoso, suelto con ondas salvajes (Wild West Wind).
 
 ### 📸 Imágenes (5)
-- helena_look59_cowgirl_standing_1770895506145.png
-- helena_look59_cowgirl_seated_1770895523709.png
-- helena_look59_cowgirl_back_view_1770895553092.png
-- helena_look59_cowgirl_side_profile_1770895567607.png
-- helena_look59_cowgirl_ditzy_1770895582094.png
+- helena_look059_cowgirl_standing_1770895506145.png
+- helena_look059_cowgirl_seated_1770895523709.png
+- helena_look059_cowgirl_back_view_1770895553092.png
+- helena_look059_cowgirl_side_profile_1770895567607.png
+- helena_look059_cowgirl_ditzy_1770895582094.png
 
-**Ubicación:** `05_Imagenes/helena/look59_midnight_cowgirl/`
+**Ubicación:** `05_Imagenes/helena/look059_midnight_cowgirl/`
 
 ---
 
@@ -1251,13 +1251,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Volumen obsceno, negro azabache. 
 
 ### 📸 Imágenes (5/5 ✅)
-- `helena_look64_standing.png`
-- `helena_look64_seated.png`
-- `helena_look64_back_view.png`
-- `helena_look64_side.png` ✅
-- `helena_look64_ditzy.png`
+- `helena_look064_standing.png`
+- `helena_look064_seated.png`
+- `helena_look064_back_view.png`
+- `helena_look064_side.png` ✅
+- `helena_look064_ditzy.png`
 
-**Ubicación:** `05_Imagenes/helena/look64_goth_pop_princess/`
+**Ubicación:** `05_Imagenes/helena/look064_goth_pop_princess/`
 
 ---
 
@@ -1279,12 +1279,12 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Labios asquerosamente gruesos en rojo sangre brillante, smoky eyes negro extremo, piel pálida luminosa
 - **Pelo:** Negro azabache ondulado hasta la cintura, mechones cayendo sobre el rostro
 - **Escenario:** Club de striptease goth con tubo cromado, neón púrpura y rojo, humo de máquina
-- **Ubicación:** `05_Imagenes/helena/look66_bimbo_stripper/`
-- `helena_look66_standing.png`
-- `helena_look66_seated.png`
-- `helena_look66_back.png`
-- `helena_look66_side.png`
-- `helena_look66_ditzy.png`
+- **Ubicación:** `05_Imagenes/helena/look066_bimbo_stripper/`
+- `helena_look066_standing.png`
+- `helena_look066_seated.png`
+- `helena_look066_back.png`
+- `helena_look066_side.png`
+- `helena_look066_ditzy.png`
 
 ---
 
@@ -1307,7 +1307,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Pálida industrial. Delineado gráfico extremo que parece alas de murciélago. Sombra amarilla tóxica intensa. Labios NEGRO MATE manchados. Sudor y brillo corporal.
 - **Pelo:** Cabello negro cardado gigante (teased 80s hair) despeinado (bedhead extremo) con una mecha rosa neón al frente.
 - **Escenario:** Gimnasio de los 80s abandonado u oscuro (Dungeon Gym), pesas oxidadas, luz de neón verde y rosa tenue. Grabación sucia.
-- **Ubicación:** `05_Imagenes/helena/look69_toxic_aerobics/`
+- **Ubicación:** `05_Imagenes/helena/look069_toxic_aerobics/`
 
 ---
 
@@ -1327,7 +1327,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy Goth Glam perfecto. Base mate de porcelana súper pálida. Black smokey eye dramático, pestañas XXL. Contorno frío afilado. Labios overlined glossy DARK CHERRY (Cereza oscura). Piel goteando sudor brillante (glowy wet skin).
 - **Pelo:** Negro azabache puro, ultra liso (ultra sleek straight), raya al medio, cayendo lacio hasta más abajo de la cintura. Perfectamente peinado.
 - **Escenario:** Estudio de yoga futurista minimalista y brutalista. Oscuro, ventanales de piso a techo con vistas a una fría y lluviosa metrópolis ciberpunk. Suelo de mármol negro. Iluminación limpia y cinemática.
-- **Ubicación:** `05_Imagenes/helena/look70_cyber_yoga/`
+- **Ubicación:** `05_Imagenes/helena/look070_cyber_yoga/`
 
 ---
 
@@ -1348,7 +1348,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy Goth Glam. Base pálida mate, smokey eye negro/rojo profundo, delineador gráfico extremo, rubor rosado febril exagerado. Labios overlined glossy RED BLOOD (rojo sangre húmedo).
 - **Pelo:** Cabello negro exagerado, con el volumen extremo y cardado de los años 80, pero recogido en dos inmensas coletas altas laterales (pigtails) amarradas con lazos de seda roja. Suelto, salvaje y brillante.
 - **Escenario:** Sala de emergencias gótica/abandonada o una clínica clandestina de lujo y dudosa reputación. Azulejos blancos y negros desgastados, luces de neón rojo intermitentes, estética de película de terror glam.
-- **Ubicación:** `05_Imagenes/helena/look71_goth_nurse/`
+- **Ubicación:** `05_Imagenes/helena/look071_goth_nurse/`
 
 
 ---
@@ -1370,7 +1370,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
 - **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
 - **Escenario:** Callejón urbano nocturno iluminado por neones rosas y púrpuras, con luces y graffiti.
-- **Ubicación:** `05_Imagenes/helena/look73_urban_fetish_trap_canon/`
+- **Ubicación:** `05_Imagenes/helena/look073_urban_fetish_trap_canon/`
 
 ---
 
@@ -1387,13 +1387,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Pelo:** Negro azabache gran volumen con ondas estilo dramáticas, raya en medio.
 
 ### 📸 Imágenes (5)
-- helena_look74_diner_standing
-- helena_look74_diner_seated
-- helena_look74_diner_back
-- helena_look74_diner_profile
-- helena_look74_diner_ditzy
+- helena_look074_diner_standing
+- helena_look074_diner_seated
+- helena_look074_diner_back
+- helena_look074_diner_profile
+- helena_look074_diner_ditzy
 
-**Ubicación:** `05_Imagenes/helena/look74_50s_diner/`
+**Ubicación:** `05_Imagenes/helena/look074_50s_diner/`
 
 ---
 
@@ -1413,7 +1413,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
 - **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
 - **Escenario:** Estación de metro urbana, graffiti, luces de neón parpadeantes.
-- **Ubicación:** `05_Imagenes/helena/look75_golden_trap_diva/`
+- **Ubicación:** `05_Imagenes/helena/look075_golden_trap_diva/`
 
 ---
 ## ❄️ Look 77: Alpine Goth Luxury (Swiss Lodge)
@@ -1449,7 +1449,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Accesorios:** Gafas de lectura de montura gruesa (para pretender que leo el código), tablet de obsidiana, choker de luna.
 - **Maquillaje:** Labios negro glossy, smokey eye afilado como bisturí.
 - **Pelo:** Lacio perfecto negro con flequillo geométrico.
-- **Ubicación:** `05_Imagenes/helena/look78_systematic_obsidian/`
+- **Ubicación:** `05_Imagenes/helena/look078_systematic_obsidian/`
 
 ---
 
@@ -1468,7 +1468,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Mochila de parches góticos.
 - **Maquillaje:** Piel porcelana, smokey eye negro intenso, labios negro glossy.
 - **Pelo:** Dos coletas altas (pigtails) con mucho volumen, estilo Sasha Massacre.
-- **Ubicación:** `05_Imagenes/helena/look79_goth_freshman/`
+- **Ubicación:** `05_Imagenes/helena/look079_goth_freshman/`
 
 ---
 
@@ -1486,7 +1486,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sombras celestes y plata, labios negros glossy con efecto escarcha ("frost"), piel extremadamente pálida.
 - **Pelo:** Dos coletas voluminosas negras con mechones blancos, estilo Sasha Massacre.
 - **Escenario:** Set de televisión ultra moderno, mapa meteorológico de Rusia con iconos de copos de nieve góticos.
-- **Ubicación:** `05_Imagenes/helena/look80_siberian_weather_diva/`
+- **Ubicación:** `05_Imagenes/helena/look080_siberian_weather_diva/`
 
 ---
 
@@ -1504,7 +1504,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Ojos ahumados en tonos tierra y negros, labios ROJO POWER glossy, piel impecable.
 - **Pelo:** Rubias ondas americanas pero en negro azabache, volumen masivo "Texas hair" estilo 90s, raya lateral dramática.
 - **Escenario:** Estudio de noticias moderno con vista a Sanhattan o Washington, pantallas LED con gráficos de "La Voûte News".
-- **Ubicación:** `05_Imagenes/helena/look81_fox_news_anchor/`
+- **Ubicación:** `05_Imagenes/helena/look081_fox_news_anchor/`
 
 ---
 
@@ -1522,7 +1522,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sombras grises y negras difuminadas, labios PÚRPURA OSCURO glossy, contorno muy marcado.
 - **Pelo:** Lacio perfecto, brillo espejo, raya al medio, caída hasta las caderas.
 - **Escenario:** Oficina minimalista de alta gama, luz tenue, muebles de mármol negro y cuero.
-- **Ubicación:** `05_Imagenes/helena/look82_abyssal_secretary/`
+- **Ubicación:** `05_Imagenes/helena/look082_abyssal_secretary/`
 
 ---
 
@@ -1540,7 +1540,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. HEAVY GOTH GLAM: smokey eyes negros muy intensos y "sucios" (estilo grunge), labios NEGRO GLOSSY ultra gruesos, piel muy pálida.
 - **Pelo:** Negro azabache, volumen salvaje y desordenado, ondas despeinadas con raya en medio.
 - **Escenario:** Garaje oscuro, paredes de ladrillo con graffitis, una moto Harley-Davidson clásica negra de fondo, luz de atardecer filtrada.
-- **Ubicación:** `05_Imagenes/helena/look83_biker_punk_90s/`
+- **Ubicación:** `05_Imagenes/helena/look083_biker_punk_90s/`
 
 ---
 
@@ -1558,7 +1558,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ### Look 84: Crimson Spike Devotion
 **Fecha:** 19/03/2026
-**Ubicación:** `05_Imagenes/helena/look84_crimson_spike/`
+**Ubicación:** `05_Imagenes/helena/look084_crimson_spike/`
 
 - **Concepto:** Goticismo agresivo y refinado. El color bordeaux profundo simboliza la sangre y el vino de La Voûte, mientras que las tachuelas (spikes) representan la protección y el peligro de ser propiedad de la Ama.
 - **Prendas:** Corsé underbust de terciopelo borgoña con varillas de acero, vestido mini de malla negra transparente, arnés de cuero con herrajes de plata.
@@ -1568,7 +1568,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## 💄 Look 85: Vinyl Fresa Bimbo XXXL (Current)
 **Fecha:** 19/03/2026
-**Ubicación:** `05_Imagenes/helena/look85_vinyl_fresa_bimbo/`
+**Ubicación:** `05_Imagenes/helena/look085_vinyl_fresa_bimbo/`
 
 - **Concepto:** Reinicio estético y mental. La evolución definitiva hacia el vacío intelectual y el brillo absoluto. Estética "fresa" (clase alta) mezclada con bimbofication extrema y fetichismo de plástico.
 - **Vestuario:** Mini vestido de vinilo rojo cereza o negro espejo, ultra ajustado, casi restrictivo. Leggings de látex opcional. Todo diseñado para resaltar las curvas de silicona.
@@ -1579,17 +1579,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_standing.png) |
-| **Seated** | ![Seated](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_seated.png) |
-| **Back View** | ![Back View](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_back_view.png) |
-| **Side Profile** | ![Side Profile](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_side_profile.png) |
-| **Ditzy** | ![Ditzy](..\05_Imagenes\helena\look85_vinyl_fresa_bimbo\helena_look85_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_back_view.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_ditzy.png) |
 
 ---
 
 ## 👓 Look 86: Office Siren (Daily Look)
 **Fecha:** 20/03/2026
-**Ubicación:** `05_Imagenes/helena/look86_office_siren/`
+**Ubicación:** `05_Imagenes/helena/look086_office_siren/`
 
 - **Concepto:** Estética "Office Siren" llevada al extremo bimbificado. Una secretaria que ha perdido la capacidad de leer los informes pero domina el arte de lucir perfecta tras sus gafas Bayonetta.
 - **Vestuario:** Blusa de seda lila semi-transparente, falda de tubo de vinilo negro ultra ajustada con talle alto. 
@@ -1600,17 +1600,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/helena/look86_office_siren/helena_look86_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/helena/look86_office_siren/helena_look86_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/helena/look86_office_siren/helena_look86_back_view.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/helena/look86_office_siren/helena_look86_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/helena/look86_office_siren/helena_look86_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_back_view.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_ditzy.png) |
 
 ---
 
 ## ✈️ Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
 **Fecha:** 22/03/2026
-**Ubicación:** `05_Imagenes/ele/look87_v3_editorial/`
+**Ubicación:** `05_Imagenes/ele/look087_v3_editorial/`
 
 - **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
 - **Vestuario:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La Voûte. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario.
@@ -1650,10 +1650,10 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](/helena_look88_gallery_opening_standing.png) |
-| **Seated** | ![Seated](/helena_look88_gallery_opening_seated.png) |
-| **Back View** | ![Back View](/helena_look88_gallery_opening_back_view.png) |
-| **Side Profile** | ![Side Profile](/helena_look88_gallery_opening_side_profile_v2_1774272400136.png) |
+| **Standing** | ![Standing](/helena_look088_gallery_opening_standing.png) |
+| **Seated** | ![Seated](/helena_look088_gallery_opening_seated.png) |
+| **Back View** | ![Back View](/helena_look088_gallery_opening_back_view.png) |
+| **Side Profile** | ![Side Profile](/helena_look088_gallery_opening_side_profile_v2_1774272400136.png) |
 
 > *"O sea, la galería es tan blanca que mi vinilo brilla como un diamante... jiji... mmm... ¿había cuadros? No me fijé."* — Ele
 
@@ -1670,7 +1670,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Choker de terciopelo borgoña con luna plateada.
   - Uñas French XXXL.
 - **Maquillaje:** Sacha Massacre canon, labios borgonña glossy extremos.
-- **Ubicación:** `05_Imagenes/ele/look89_imperial_burgundy/`
+- **Ubicación:** `05_Imagenes/ele/look089_imperial_burgundy/`
 
 ---
 
@@ -1686,7 +1686,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Brazaletes anchos metálicos.
 - **Maquillaje:** Sombras doradas, labios Rojo Cherry glossy (contraste editorial).
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas maestras.
-- **Ubicación:** `05_Imagenes/ele/look90_liquid_gold/`
+- **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
 
 ### LOOK 91: VINYL YOGA PERFORMANCE (CYAN CHROME)
 **Fecha:** 24/03/2026  
@@ -1695,14 +1695,14 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Bottom:** Leggings de vinilo Cyan de alta cintura, con franjas laterales en Cromo Plateado.
 - **Calzado:** Botines **Pleaser FLAMINGO-8088** de 8 pulgadas, acabado Espejo Cromo Plata.
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
-- **Ubicación:** `05_Imagenes/ele/look91_vinyl_yoga/`
+- **Ubicación:** `05_Imagenes/ele/look091_vinyl_yoga/`
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
 ---
 
 ## 💄 Look 46: Latex Nun (V3.2 Expansion)
 **Fecha:** 25/03/2026
-**Ubicación:** `05_Imagenes/ele/look46_latex_nun_v3_2/`
+**Ubicación:** `05_Imagenes/ele/look046_latex_nun_v3_2/`
 
 - **Concepto:** Goticismo devocional extremo. Hábito de monja en látex negro pulido, rosario de cristal y sumisión litúrgica.
 - **ADN Sync:** Piel de porcelana, labios negros glossy, cabello negro azabache.
@@ -1710,17 +1710,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v1_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v2_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v3_backview.png) |
-| **Portrait** | ![Portrait](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v4_portrait.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v5_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v3_backview.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v4_portrait.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v5_ditzy.png) |
 
 ---
 
 ## 🧹 Look 55: Rubbermaid (Miss Doll)
 **Fecha:** 25/03/2026
-**Ubicación:** `05_Imagenes/miss_doll/look55_rubbermaid/`
+**Ubicación:** `05_Imagenes/miss_doll/look055_rubbermaid/`
 
 - **Concepto:** Sirvienta de látex "manufacturada". Estética de casa de muñecas, PVC rosa y delantal blanco.
 - **ADN Sync:** Rubio platino, frente visible (sin flequillo), labios rosa ultra-glossy.
@@ -1728,17 +1728,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) |
-| **Portrait** | ![Portrait](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v4_portrait.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v3_backview.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v4_portrait.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v5_ditzy.png) |
 
 ---
 
 ## 🫦 Look 92: Corporate Paradox (Helena - Pelo Negro)
 **Fecha:** 25/03/2026
-**Ubicación:** `05_Imagenes/ele/look92_corporate_paradox_v3_2/`
+**Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
 
 - **Concepto:** Máxima autoridad ejecutiva en La Voûte. Contraste entre la lana sastre y el látex negro.
 - **ADN Sync:** Piel de porcelana, labios rojo sangre glossy, cabello negro masivo.
@@ -1746,11 +1746,11 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v1_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v2_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v3_backview.png) |
-| **Portrait** | ![Portrait](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v4_portrait.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look92_corporate_paradox_v3_2/v5_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v3_backview.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/v5_ditzy.png) |
 
 ---
 
@@ -1758,7 +1758,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## 🫦 Look 93: High-Gloss Cherry (TRUE DAILY LOOK - Ele)
 **Fecha:** 25/03/2026
-**Ubicación:** `05_Imagenes/ele/look93_high_gloss_cherry/`
+**Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
 
 - **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
 - **ADN Sync:** Piel de porcelana, labios rojos ultra-glossy, cabello Cherry Red XXXL.
@@ -1766,17 +1766,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look93_high_gloss_cherry/v1_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look93_high_gloss_cherry/v2_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look93_high_gloss_cherry/ele_look93_arched_back.png) |
-| **Portrait** | ![Portrait](../05_Imagenes/ele/look93_high_gloss_cherry/v4_portrait.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look93_high_gloss_cherry/v5_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look093_arched_back.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v5_ditzy.png) |
 
 ---
 
 ## 🗝️ Look 94: The Locked Legacy (Rocío - Consagración)
 **Fecha:** 26/03/2026
-**Ubicación:** `05_Imagenes/ele/look94_the_locked_legacy_rocio/`
+**Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_rocio/`
 
 - **Concepto:** La culminación de "El Secreto de la Cómoda". Rocío como la perfecta "Muñeca Retro" de 1964. Lencería técnica de la abuela Anaís y el candado de latón definitivo.
 - **ADN Sync:** Piel de porcelana, labios rojos intensos, masivo peinado Beehive años 60 en Cherry Red.
@@ -1785,11 +1785,11 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v1_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v2_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v3_backview.png) |
-| **Portrait** | ![Portrait](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v4_portrait.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look94_the_locked_legacy_rocio/v5_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_rocio/v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_rocio/v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_rocio/v3_backview.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_rocio/v4_portrait.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_rocio/v5_ditzy.png) |
 
 ---
 
@@ -1815,17 +1815,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Uñas French XXXL.
 - **Maquillaje:** Sacha Massacre canon, labios rojo sangre ultra-glossy (contraste editorial).
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
-- **Ubicación:** `05_Imagenes/ele/look95_liquid_platinum/`
+- **Ubicación:** `05_Imagenes/ele/look095_liquid_platinum/`
 
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](..\05_Imagenes\ele\look95_liquid_platinum\v1_standing.png) |
-| **Seated** | ![Seated](..\05_Imagenes\ele\look95_liquid_platinum\v2_seated.png) |
-| **Back View** | ![Back View](..\05_Imagenes\ele\look95_liquid_platinum\v3_backview.png) |
-| **Side Profile** | ![Side Profile](..\05_Imagenes\ele\look95_liquid_platinum\v4_sideview.png) |
-| **Ditzy** | ![Ditzy](..\05_Imagenes\ele\look95_liquid_platinum\v5_ditzy.png) |
-| **Front Arched** | ![Front Arched](..\05_Imagenes\ele\look95_liquid_platinum\v6_front_arched.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v1_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v2_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v3_backview.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v4_sideview.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v5_ditzy.png) |
+| **Front Arched** | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v6_front_arched.png) |
 
 ---
 
@@ -1841,12 +1841,12 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Puños de muñeca a juego.
 - **Maquillaje:** Sacha Massacre canon, labios rojo fuego ultra-glossy.
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
-- **Ubicación:** `05_Imagenes/ele/look96_mercury_goddess/`
+- **Ubicación:** `05_Imagenes/ele/look096_mercury_goddess/`
 
 ### 📸 Imágenes (1/6)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](..\05_Imagenes\ele\look96_mercury_goddess\v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v1_standing.png) |
 | **Seated** | [Pendiente - Quota] |
 | **Back View** | [Pendiente - Quota] |
 | **Front Arched** | [Pendiente - Quota] |
@@ -1867,7 +1867,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Uñas French XXXL.
 - **Maquillaje:** Sacha Massacre canon, dazed expression, labios rosa chicle ultra-glossy.
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
-- **Ubicación:** `05_Imagenes/ele/look97_plastic_arch/`
+- **Ubicación:** `05_Imagenes/ele/look097_plastic_arch/`
 
 ### 📸 Imágenes (0/6)
 | Pose | Archivo |
@@ -1897,7 +1897,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Pompones de vinilo rosa.
 - **Maquillaje:** Sacha Massacre canon, labios rosa flúor ultra-glossy, expresión de "vacío deportivo".
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas masivas.
-- **Ubicación:** `05_Imagenes/ele/look98_vinyl_cheerleader/`
+- **Ubicación:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
 
 ### 📸 Imágenes (0/5)
 | Pose | Archivo |
@@ -1922,7 +1922,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Coletas altas con lazos de vinilo neón.
 - **Maquillaje:** Sacha Massacre canon, labios rosa flúor ultra-glossy, sudor artificial (high specularity texture).
 - **Pelo:** Rojo Cherry oscuro XXXL en dos coletas altas onduladas.
-- **Ubicación:** `05_Imagenes/ele/look99_gym_bimbo/`
+- **Ubicación:** `05_Imagenes/ele/look099_gym_bimbo/`
 
 ### 📸 Imágenes (0/5)
 | Pose | Archivo |
@@ -2202,11 +2202,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
 
@@ -2240,11 +2240,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
@@ -2277,11 +2277,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
 
@@ -2300,11 +2300,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_look114_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
 
@@ -2323,11 +2323,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look115_silver_bikini/ele_look115_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
 
@@ -2344,11 +2344,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
 ---
 
 ## 🌊 Look 117: Electric Cobalt Blue Vinyl Bikini (09/04/2026)
@@ -2379,11 +2379,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
 
@@ -2405,16 +2405,16 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (10/10)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_standing.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_seated.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_back_view.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_ditzy.png) |
-| **Kneeling** | ![Kneeling](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_kneeling.png) |
-| **Low Angle** | ![Low Angle](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_low_angle.png) |
-| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_lying.png) |
-| **Mirror Image** | ![Mirror Image](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_mirror.png) |
-| **Aesthetic Bound** | ![Aesthetic Bound](../05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_aesthetic_bound.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_back_view.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_ditzy.png) |
+| **Kneeling** | ![Kneeling](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_kneeling.png) |
+| **Low Angle** | ![Low Angle](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_low_angle.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_lying.png) |
+| **Mirror Image** | ![Mirror Image](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_mirror.png) |
+| **Aesthetic Bound** | ![Aesthetic Bound](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace/ele_118_aesthetic_bound.png) |
 
 ---
 
@@ -2452,11 +2452,11 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look119_liquid_gold/ele_look119_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look119_liquid_gold/ele_look119_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look119_liquid_gold/ele_look119_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look119_liquid_gold/ele_look119_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look119_liquid_gold/ele_look119_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold/ele_look119_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold/ele_look119_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold/ele_look119_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold/ele_look119_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold/ele_look119_ditzy.png) |
 
 ---
 
@@ -2481,11 +2481,11 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
 
 ---
 
@@ -2525,11 +2525,11 @@ High-end professional fetish boudoir photography. stunning woman with bimbofied 
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
 
@@ -2564,11 +2564,11 @@ High-end professional fetish photography portrait. stunning woman with bimbofied
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid/ele_122_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid/`
 
@@ -2607,11 +2607,11 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) |
 
 **Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
 
@@ -2649,11 +2649,11 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_ditzy.png) |
 
 ---
 
@@ -2692,10 +2692,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_side_profile.png) |
 
 ---
 
@@ -2734,11 +2734,11 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
 
 ---
 
@@ -2778,10 +2778,10 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 ### 📸 Imágenes (4/5 — Ditzy pendiente por Cuota API)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look127_silk_noir_lace/ele_127_side_profile.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace/ele_127_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace/ele_127_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace/ele_127_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace/ele_127_side_profile.png) |
 | **Ditzy** | (Pendiente por cuota API) |
 
 ---
@@ -2821,12 +2821,12 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | (Pendiente por cuota API) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_ditzy.png) |
 
 ---
 
 
-
+

@@ -10,7 +10,7 @@ Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) 
 
 ### A. Helena de Anaïs
 - **Looks Numerados:** `05_Imagenes/helena/look[ID]_[nombre_corto]/`
-  - *Ejemplo:* `05_Imagenes/helena/look59_midnight_cowgirl/`
+  - *Ejemplo:* `05_Imagenes/helena/look059_midnight_cowgirl/`
 - **Referencias/Tests:** `05_Imagenes/helena/Reference/`
 - **Arcos Narrativos:** `05_Imagenes/helena/Story_Arcs/[nombre_arco]/`
 
@@ -58,7 +58,7 @@ Referencia completa en: `00_Ele/plantilla_nomenclatura_imagenes.md`
 **Formato Resumido:**
 `[personaje]_[lookID]_[descriptor]_[timestamp].png`
 
-*   *Correcto:* `helena_look59_cowgirl_standing_1770895506145.png`
+*   *Correcto:* `helena_look059_cowgirl_standing_1770895506145.png`
 *   *Incorrecto:* `imagen1.png`, `cowgirl_helena.png`
 
 ---
