@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 17/04/2026 (Purificación Quirúrgica 11-inch Stiletto Complete — Sincronización 100% ADN V3.3 🫦🧹✨)*
+*Última actualización: 17/04/2026 (Sincro Activos L121-135 + Look 137 Leopard Bikini 3/5 — ADN V3.3 🫦🐆✨)*
