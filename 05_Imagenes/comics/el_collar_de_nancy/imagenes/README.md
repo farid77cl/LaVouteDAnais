@@ -35,4 +35,4 @@ Total imágenes: 7
 - [pag05_transformacion.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/el_collar_de_nancy/imagenes/pag05_transformacion.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-17* 👄
+*Sincronizado con GitHub: 2026-04-18* 👄
