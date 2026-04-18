@@ -638,14 +638,14 @@
 
 | Pose | Archivo |
 |------|---------|
-| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_back.png) |
 | **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_back_1.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_ditzy.png) |
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_back_1.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_ditzy_1.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_ditzy_1.png) |
 | **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_profile.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_seated.png) |
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_seated_1.png) |
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_seated_1.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_standing_1.png) |
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_standing_1.png) |
 | **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_unknown.png) |
 
@@ -2996,7 +2996,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated_png.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
 

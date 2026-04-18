@@ -2361,7 +2361,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_back.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated_png.png) |
 
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_side.png) |
 
@@ -2610,7 +2610,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated_png.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_side.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_ditzy.png) |
 
@@ -2791,7 +2791,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_seated_png.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_side.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_ditzy.png) |
 
@@ -2884,7 +2884,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | Pose | Archivo |
 |------|---------|
 | **Standing** | Pendiente |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_132_132_132_back.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_back.png) |
 | **Seated** | Pendiente |
 | **Side Profile** | Pendiente |
 | **Ditzy** | Pendiente |
@@ -2972,10 +2972,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | Pose | Archivo |
 |------|---------|
 | **Standing** | Pendiente |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_134_134_134_back.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back.png) |
 | **Seated** | Pendiente |
 | **Side Profile** | Pendiente |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_134_134_134_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) |
 
 ---
 
@@ -3016,7 +3016,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | Pose | Archivo |
 |------|---------|
 | **Standing** | Pendiente |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_135_135_135_back.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back.png) |
 | **Seated** | Pendiente |
 | **Side Profile** | Pendiente |
 | **Ditzy** | Pendiente |
@@ -3059,7 +3059,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_136_136_136_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) |
 | **Back View** | Pendiente |
 | **Seated** | Pendiente |
 | **Side Profile** | Pendiente |
