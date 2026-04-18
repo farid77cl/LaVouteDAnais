@@ -21,8 +21,15 @@ def get_tracked_images(directory):
         # Usamos -c para archivos cacheados y -z para manejar espacios si hubiera
         result = subprocess.run(['git', 'ls-files', directory], capture_output=True, text=True, check=True)
         files = result.stdout.splitlines()
-        # Solo nombres de archivos, no rutas completas
-        images = [os.path.basename(f) for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+        # Solo imagenes hijas directas, no imagenes de subcarpetas.
+        directory_abs = os.path.abspath(directory)
+        images = []
+        for file_path in files:
+            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
+                continue
+            file_abs = os.path.abspath(file_path)
+            if os.path.normcase(os.path.dirname(file_abs)) == os.path.normcase(directory_abs):
+                images.append(os.path.basename(file_path))
         return sorted(list(set(images)))
     except Exception as e:
         print(f"Error al listar archivos de Git en {directory}: {e}")
@@ -106,8 +113,8 @@ def generate_master_outfit_gallery(base_path, repo_root):
     look_folders = []
     for item in os.listdir(ele_path):
         full_path = os.path.join(ele_path, item)
-        if os.path.isdir(full_path) and item.lower().startswith("look"):
-            match = re.search(r'look(\d+)', item.lower())
+        match = re.match(r'look(\d+)', item.lower())
+        if os.path.isdir(full_path) and match:
             look_num = int(match.group(1)) if match else 999
             look_folders.append((look_num, item, full_path))
     
