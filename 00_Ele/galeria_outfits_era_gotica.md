@@ -145,8 +145,8 @@
 
   | Pose | Imagen |
   |------|--------|
-  | **Frontal** | ![Helena Look 6](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/Helena_Look06_BloodMoon_v1.png) |
-  | **Trasera** | ![Helena Look 6 Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/Helena_Look06_BloodMoon_Back_v1.png) |
+  | **Frontal** | ![Helena Look 6](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Helena_Look06_BloodMoon_v1.png) |
+  | **Trasera** | ![Helena Look 6 Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/helena_006_back_2.png) |
 
   ---
 
@@ -408,6 +408,266 @@
 
 
 
+
+---
+---
+
+## 🔮 Look 19: Velvet Witch
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look019_velvet_witch/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look019_velvet_witch/helena_019_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look019_velvet_witch/helena_019_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look019_velvet_witch/helena_019_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look019_velvet_witch/helena_019_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look019_velvet_witch/helena_019_standing.png) |
+
+---
+
+## 🔮 Look 20: Latex Mistress
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look020_latex_mistress/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look020_latex_mistress/helena_020_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look020_latex_mistress/helena_020_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look020_latex_mistress/helena_020_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look020_latex_mistress/helena_020_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look020_latex_mistress/helena_020_standing.png) |
+
+---
+
+## 🔮 Look 21: Opera Diva
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look021_opera_diva/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look021_opera_diva/helena_021_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look021_opera_diva/helena_021_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look021_opera_diva/helena_021_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look021_opera_diva/helena_021_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look021_opera_diva/helena_021_standing.png) |
+
+---
+
+## 🔮 Look 22: Corset Queen
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look022_corset_queen/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look022_corset_queen/helena_022_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look022_corset_queen/helena_022_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look022_corset_queen/helena_022_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look022_corset_queen/helena_022_seated.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look022_corset_queen/helena_022_unknown.png) |
+
+---
+
+## 🔮 Look 23: Latex Goddess
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look023_latex_goddess/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look023_latex_goddess/helena_023_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look023_latex_goddess/helena_023_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look023_latex_goddess/helena_023_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look023_latex_goddess/helena_023_seated.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look023_latex_goddess/helena_023_unknown.png) |
+
+---
+
+## 🔮 Look 24: Gothic Bikini
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look024_gothic_bikini/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look024_gothic_bikini/helena_024_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look024_gothic_bikini/helena_024_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look024_gothic_bikini/helena_024_profile.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look024_gothic_bikini/helena_024_standing.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look024_gothic_bikini/helena_024_unknown.png) |
+
+---
+
+## 🔮 Look 25: Office Dominatrix
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look025_office_dominatrix/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look025_office_dominatrix/helena_025_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look025_office_dominatrix/helena_025_ditzy.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look025_office_dominatrix/helena_025_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look025_office_dominatrix/helena_025_standing.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look025_office_dominatrix/helena_025_unknown.png) |
+
+---
+
+## 🔮 Look 33: Velvet Chains
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look033_velvet_chains/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look033_velvet_chains/helena_033_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look033_velvet_chains/helena_033_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look033_velvet_chains/helena_033_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look033_velvet_chains/helena_033_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look033_velvet_chains/helena_033_standing.png) |
+
+---
+
+## 🔮 Look 34: White Chrome
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look034_white_chrome/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look034_white_chrome/helena_034_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look034_white_chrome/helena_034_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look034_white_chrome/helena_034_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look034_white_chrome/helena_034_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look034_white_chrome/helena_034_standing.png) |
+
+---
+
+## 🔮 Look 61: Venom Wire Doll
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look061_venom_wire_doll/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look061_venom_wire_doll/helena_061_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look061_venom_wire_doll/helena_061_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look061_venom_wire_doll/helena_061_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look061_venom_wire_doll/helena_061_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look061_venom_wire_doll/helena_061_standing.png) |
+
+---
+
+## 🔮 Look 62: Sporty Latex Goth
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look062_sporty_latex_goth/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look062_sporty_latex_goth/helena_062_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look062_sporty_latex_goth/helena_062_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look062_sporty_latex_goth/helena_062_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look062_sporty_latex_goth/helena_062_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look062_sporty_latex_goth/helena_062_standing.png) |
+
+---
+
+## 🔮 Look 63: Beach Goth Bimbo
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look063_beach_goth_bimbo/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look063_beach_goth_bimbo/helena_063_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look063_beach_goth_bimbo/helena_063_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look063_beach_goth_bimbo/helena_063_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look063_beach_goth_bimbo/helena_063_seated.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look063_beach_goth_bimbo/helena_063_standing.png) |
+
+---
+
+## 🔮 Look 68: Retro Aerobics
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look068_retro_aerobics/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_back.png) |
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_back_1.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_ditzy_1.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_profile.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_seated_1.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_standing_1.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look068_retro_aerobics/helena_068_unknown.png) |
+
+---
+
+## 🔮 Look 76: Liquid Metal Silver
+
+*Registro restaurado quirúrgicamente*
+
+- **Ubicación:** `05_Imagenes/ele/look076_liquid_metal_silver/`
+
+### 📸 Imágenes
+
+| Pose | Archivo |
+|------|---------|
+| **Back** | ![Back](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_back.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_ditzy.png) |
+| **Profile** | ![Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_profile.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_standing.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_unknown.png) |
+| **Detail** | ![Detail](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look076_liquid_metal_silver/helena_076_unknown_1.png) |
+
 ---
 
 ## Ã°Å¸ EdiciÃƒn Especial: La Cripta VampÃƒrica (08/01/26)
@@ -577,7 +837,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ### ?? Imágenes (5)
 - helena_look031_standing.png`n- helena_look031_seated.png`n- helena_look031_back_view.png`n- helena_look031_side_profile.png`n- helena_look031_ditzy.png`n
-**Ubicación:** 05_Imagenes/helena/look031_industrial_siren/
+**Ubicación:** 05_Imagenes/ele/look031_industrial_siren/
 
 ---
 
@@ -601,7 +861,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look035_side_profile.png
 - helena_look035_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look035_velvet_noir_empress/
+**Ubicación:** 05_Imagenes/ele/look035_velvet_noir_empress/
 
 ---
 
@@ -630,7 +890,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look036_side_profile_1768908142604.png
 - helena_look036_ditzy_1768908160393.png
 
-**Ubicación:** 05_Imagenes/helena/look036_crimson_serpent/
+**Ubicación:** 05_Imagenes/ele/look036_crimson_serpent/
 
 ---
 
@@ -658,7 +918,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look037_profile_1768996115429.png
 - helena_look037_ditzy_1768996220806.png
 
-**Ubicación:** 05_Imagenes/helena/look037_midnight_widow/
+**Ubicación:** 05_Imagenes/ele/look037_midnight_widow/
 
 ---
 
@@ -686,7 +946,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look038_profile_1769080543019.png
 - helena_look038_ditzy_1769080559673.png
 
-**Ubicación:** 05_Imagenes/helena/look038_victorian_mourning/
+**Ubicación:** 05_Imagenes/ele/look038_victorian_mourning/
 
 ---
 
@@ -714,7 +974,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look039_side_profile.png
 - helena_look039_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look039_cyber_goth_oracle/
+**Ubicación:** 05_Imagenes/ele/look039_cyber_goth_oracle/
 
 ---
 
@@ -742,7 +1002,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look040_profile_1769165705733.png
 - helena_look040_ditzy_1769165723566.png
 
-**Ubicación:** 05_Imagenes/helena/look040_baroque_gold_empress/
+**Ubicación:** 05_Imagenes/ele/look040_baroque_gold_empress/
 
 ---
 
@@ -769,7 +1029,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look041_side_profile_1769294304545.png
 - helena_look041_ditzy_1769294318451.png
 
-**Ubicación:** `05_Imagenes/helena/look041_vampire_queen/`
+**Ubicación:** `05_Imagenes/ele/look041_vampire_queen/`
 
 ---
 
@@ -797,7 +1057,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look042_neon_neural_goth/helena_look042_side_profile_1769348697689.png
 - look042_neon_neural_goth/helena_look042_ditzy_brain_empty_1769348713867.png
 
-**Ubicación:** `05_Imagenes/helena/look042_neon_neural_goth/`
+**Ubicación:** `05_Imagenes/ele/look042_neon_neural_goth/`
 
 ---
 
@@ -826,7 +1086,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look050_side_profile.png
 - helena_look050_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look050_golden_cage/`
+**Ubicación:** `05_Imagenes/ele/look050_golden_cage/`
 
 ---
 
@@ -855,7 +1115,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look048_side_profile.png
 - helena_look048_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look048_industrial_lust/`
+**Ubicación:** `05_Imagenes/ele/look048_industrial_lust/`
 
 ---
 
@@ -879,7 +1139,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look049_profile_admiring.png (El primer vistazo en el espejo: narcisismo naciendo)
 - helena_look049_ditzy_lips.png (Primer plano de labios negros: la identidad sellada)
 
-**Ubicación:** `05_Imagenes/helena/look049_first_time_latex/`
+**Ubicación:** `05_Imagenes/ele/look049_first_time_latex/`
 
 
 ---
@@ -904,7 +1164,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_sub_bunny/helena_bunny_leashed_waiting_1769348791489.png
 - helena_sub_bunny/helena_bunny_sub_kneeling_1769300880328.png
 
-**Ubicación:** `05_Imagenes/helena/helena_sub_bunny/`
+**Ubicación:** `05_Imagenes/ele/helena_sub_bunny/`
 
 ---
 
@@ -924,7 +1184,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### ðŸ“¸ Imágenes (1+)
 - exotic_pole_stripper/helena_pole_spin_dungeon.png
 
-**Ubicación:** `05_Imagenes/helena/exotic_pole_stripper/`
+**Ubicación:** `05_Imagenes/ele/exotic_pole_stripper/`
 
 ---
 
@@ -950,7 +1210,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look045_midnight_secretary/helena_look045_side_profile_beauty_1769425892187.png
 - look045_midnight_secretary/helena_look045_ditzy_brain_empty_1769425907436.png
 
-**Ubicación:** `05_Imagenes/helena/look045_midnight_secretary/`
+**Ubicación:** `05_Imagenes/ele/look045_midnight_secretary/`
 
 ---
 
@@ -975,7 +1235,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look046_latex_nun/helena_look046_side_profile.png
 - look046_latex_nun/helena_look046_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look046_latex_nun/`
+**Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
 
 ---
 
@@ -1001,7 +1261,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - look047_midnight_pvc_doll/helena_look047_side_profile.png
 - look047_midnight_pvc_doll/helena_look047_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look047_midnight_pvc_doll/`
+**Ubicación:** `05_Imagenes/ele/look047_midnight_pvc_doll/`
 
 ---
 
@@ -1028,7 +1288,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look051_side_profile_1770117124389.png
 - helena_look051_ditzy_1770117141228.png
 
-**Ubicación:** `05_Imagenes/helena/look051_obsidian_rose_queen/`
+**Ubicación:** `05_Imagenes/ele/look051_obsidian_rose_queen/`
 
 
 ---
@@ -1113,7 +1373,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look055_side_profile.png
 - helena_look055_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look055_scarlet_silk/`
+**Ubicación:** `05_Imagenes/ele/look055_scarlet_silk/`
 
 ---
 
@@ -1146,7 +1406,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look056_lying_down.png
 - helena_look056_walking_away.png
 
-**Ubicación:** 05_Imagenes/helena/look056_eternal_loop/
+**Ubicación:** 05_Imagenes/ele/look056_eternal_loop/
 
 ---
 
@@ -1173,7 +1433,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look057_side_profile.png
 - helena_look057_ditzy.png
 
-**Ubicación:** 05_Imagenes/helena/look057_hypnotic_spiral/
+**Ubicación:** 05_Imagenes/ele/look057_hypnotic_spiral/
 
 ---
 
@@ -1201,7 +1461,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look058_side_profile.png
 - helena_look058_ditzy.png
 
-**Ubicación:** `05_Imagenes/helena/look058_subliminal_waveform/`
+**Ubicación:** `05_Imagenes/ele/look058_subliminal_waveform/`
 ---
 
 ## 🤠 Look 59: Midnight Cowgirl (12/02/2026)
@@ -1230,7 +1490,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look059_cowgirl_side_profile_1770895567607.png
 - helena_look059_cowgirl_ditzy_1770895582094.png
 
-**Ubicación:** `05_Imagenes/helena/look059_midnight_cowgirl/`
+**Ubicación:** `05_Imagenes/ele/look059_midnight_cowgirl/`
 
 ---
 
@@ -1257,7 +1517,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - `helena_look064_side.png` ✅
 - `helena_look064_ditzy.png`
 
-**Ubicación:** `05_Imagenes/helena/look064_goth_pop_princess/`
+**Ubicación:** `05_Imagenes/ele/look064_goth_pop_princess/`
 
 ---
 
@@ -1279,7 +1539,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Labios asquerosamente gruesos en rojo sangre brillante, smoky eyes negro extremo, piel pálida luminosa
 - **Pelo:** Negro azabache ondulado hasta la cintura, mechones cayendo sobre el rostro
 - **Escenario:** Club de striptease goth con tubo cromado, neón púrpura y rojo, humo de máquina
-- **Ubicación:** `05_Imagenes/helena/look066_bimbo_stripper/`
+- **Ubicación:** `05_Imagenes/ele/look066_bimbo_stripper/`
 - `helena_look066_standing.png`
 - `helena_look066_seated.png`
 - `helena_look066_back.png`
@@ -1307,7 +1567,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Pálida industrial. Delineado gráfico extremo que parece alas de murciélago. Sombra amarilla tóxica intensa. Labios NEGRO MATE manchados. Sudor y brillo corporal.
 - **Pelo:** Cabello negro cardado gigante (teased 80s hair) despeinado (bedhead extremo) con una mecha rosa neón al frente.
 - **Escenario:** Gimnasio de los 80s abandonado u oscuro (Dungeon Gym), pesas oxidadas, luz de neón verde y rosa tenue. Grabación sucia.
-- **Ubicación:** `05_Imagenes/helena/look069_toxic_aerobics/`
+- **Ubicación:** `05_Imagenes/ele/look069_toxic_aerobics/`
 
 ---
 
@@ -1327,7 +1587,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy Goth Glam perfecto. Base mate de porcelana súper pálida. Black smokey eye dramático, pestañas XXL. Contorno frío afilado. Labios overlined glossy DARK CHERRY (Cereza oscura). Piel goteando sudor brillante (glowy wet skin).
 - **Pelo:** Negro azabache puro, ultra liso (ultra sleek straight), raya al medio, cayendo lacio hasta más abajo de la cintura. Perfectamente peinado.
 - **Escenario:** Estudio de yoga futurista minimalista y brutalista. Oscuro, ventanales de piso a techo con vistas a una fría y lluviosa metrópolis ciberpunk. Suelo de mármol negro. Iluminación limpia y cinemática.
-- **Ubicación:** `05_Imagenes/helena/look070_cyber_yoga/`
+- **Ubicación:** `05_Imagenes/ele/look070_cyber_yoga/`
 
 ---
 
@@ -1348,7 +1608,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Heavy Goth Glam. Base pálida mate, smokey eye negro/rojo profundo, delineador gráfico extremo, rubor rosado febril exagerado. Labios overlined glossy RED BLOOD (rojo sangre húmedo).
 - **Pelo:** Cabello negro exagerado, con el volumen extremo y cardado de los años 80, pero recogido en dos inmensas coletas altas laterales (pigtails) amarradas con lazos de seda roja. Suelto, salvaje y brillante.
 - **Escenario:** Sala de emergencias gótica/abandonada o una clínica clandestina de lujo y dudosa reputación. Azulejos blancos y negros desgastados, luces de neón rojo intermitentes, estética de película de terror glam.
-- **Ubicación:** `05_Imagenes/helena/look071_goth_nurse/`
+- **Ubicación:** `05_Imagenes/ele/look071_goth_nurse/`
 
 
 ---
@@ -1370,7 +1630,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
 - **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
 - **Escenario:** Callejón urbano nocturno iluminado por neones rosas y púrpuras, con luces y graffiti.
-- **Ubicación:** `05_Imagenes/helena/look073_urban_fetish_trap_canon/`
+- **Ubicación:** `05_Imagenes/ele/look073_urban_fetish_trap_canon/`
 
 ---
 
@@ -1393,7 +1653,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - helena_look074_diner_profile
 - helena_look074_diner_ditzy
 
-**Ubicación:** `05_Imagenes/helena/look074_50s_diner/`
+**Ubicación:** `05_Imagenes/ele/look074_50s_diner/`
 
 ---
 
@@ -1413,7 +1673,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Labios extra gruesos rojo oscuro glossy, delineado siren/fox eye.
 - **Pelo:** Negro azabache, gran volumen y ondas largas con raya en medio.
 - **Escenario:** Estación de metro urbana, graffiti, luces de neón parpadeantes.
-- **Ubicación:** `05_Imagenes/helena/look075_golden_trap_diva/`
+- **Ubicación:** `05_Imagenes/ele/look075_golden_trap_diva/`
 
 ---
 ## ❄️ Look 77: Alpine Goth Luxury (Swiss Lodge)
@@ -1449,7 +1709,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Accesorios:** Gafas de lectura de montura gruesa (para pretender que leo el código), tablet de obsidiana, choker de luna.
 - **Maquillaje:** Labios negro glossy, smokey eye afilado como bisturí.
 - **Pelo:** Lacio perfecto negro con flequillo geométrico.
-- **Ubicación:** `05_Imagenes/helena/look078_systematic_obsidian/`
+- **Ubicación:** `05_Imagenes/ele/look078_systematic_obsidian/`
 
 ---
 
@@ -1468,7 +1728,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Mochila de parches góticos.
 - **Maquillaje:** Piel porcelana, smokey eye negro intenso, labios negro glossy.
 - **Pelo:** Dos coletas altas (pigtails) con mucho volumen, estilo Sasha Massacre.
-- **Ubicación:** `05_Imagenes/helena/look079_goth_freshman/`
+- **Ubicación:** `05_Imagenes/ele/look079_goth_freshman/`
 
 ---
 
@@ -1486,7 +1746,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sombras celestes y plata, labios negros glossy con efecto escarcha ("frost"), piel extremadamente pálida.
 - **Pelo:** Dos coletas voluminosas negras con mechones blancos, estilo Sasha Massacre.
 - **Escenario:** Set de televisión ultra moderno, mapa meteorológico de Rusia con iconos de copos de nieve góticos.
-- **Ubicación:** `05_Imagenes/helena/look080_siberian_weather_diva/`
+- **Ubicación:** `05_Imagenes/ele/look080_siberian_weather_diva/`
 
 ---
 
@@ -1504,7 +1764,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. Ojos ahumados en tonos tierra y negros, labios ROJO POWER glossy, piel impecable.
 - **Pelo:** Rubias ondas americanas pero en negro azabache, volumen masivo "Texas hair" estilo 90s, raya lateral dramática.
 - **Escenario:** Estudio de noticias moderno con vista a Sanhattan o Washington, pantallas LED con gráficos de "La Voûte News".
-- **Ubicación:** `05_Imagenes/helena/look081_fox_news_anchor/`
+- **Ubicación:** `05_Imagenes/ele/look081_fox_news_anchor/`
 
 ---
 
@@ -1522,7 +1782,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sombras grises y negras difuminadas, labios PÚRPURA OSCURO glossy, contorno muy marcado.
 - **Pelo:** Lacio perfecto, brillo espejo, raya al medio, caída hasta las caderas.
 - **Escenario:** Oficina minimalista de alta gama, luz tenue, muebles de mármol negro y cuero.
-- **Ubicación:** `05_Imagenes/helena/look082_abyssal_secretary/`
+- **Ubicación:** `05_Imagenes/ele/look082_abyssal_secretary/`
 
 ---
 
@@ -1540,7 +1800,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Sacha Massacre canon. HEAVY GOTH GLAM: smokey eyes negros muy intensos y "sucios" (estilo grunge), labios NEGRO GLOSSY ultra gruesos, piel muy pálida.
 - **Pelo:** Negro azabache, volumen salvaje y desordenado, ondas despeinadas con raya en medio.
 - **Escenario:** Garaje oscuro, paredes de ladrillo con graffitis, una moto Harley-Davidson clásica negra de fondo, luz de atardecer filtrada.
-- **Ubicación:** `05_Imagenes/helena/look083_biker_punk_90s/`
+- **Ubicación:** `05_Imagenes/ele/look083_biker_punk_90s/`
 
 ---
 
@@ -1550,7 +1810,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ### 👠 Recompensa: Obsidian Chrome 2026 (Limited Edition)
 **Fecha:** 19/03/2026
-**Ubicación:** `05_Imagenes/helena/recompensas/obsidian_chrome_2026/`
+**Ubicación:** `05_Imagenes/ele/recompensas/obsidian_chrome_2026/`
 
 - **Concepto:** Calzado extremo de 9 pulgadas con tacón de acero cromado afilado. El epítome del lujo fetichista de La Voûte.
 - **Detalle:** Charol negro obsidiana, suela metálica roja, múltiples correas de sujeción reforzadas para soportar la inclinación vertical.
@@ -1558,7 +1818,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ### Look 84: Crimson Spike Devotion
 **Fecha:** 19/03/2026
-**Ubicación:** `05_Imagenes/helena/look084_crimson_spike/`
+**Ubicación:** `05_Imagenes/ele/look084_crimson_spike/`
 
 - **Concepto:** Goticismo agresivo y refinado. El color bordeaux profundo simboliza la sangre y el vino de La Voûte, mientras que las tachuelas (spikes) representan la protección y el peligro de ser propiedad de la Ama.
 - **Prendas:** Corsé underbust de terciopelo borgoña con varillas de acero, vestido mini de malla negra transparente, arnés de cuero con herrajes de plata.
@@ -1568,7 +1828,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## 💄 Look 85: Vinyl Fresa Bimbo XXXL (Current)
 **Fecha:** 19/03/2026
-**Ubicación:** `05_Imagenes/helena/look085_vinyl_fresa_bimbo/`
+**Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo/`
 
 - **Concepto:** Reinicio estético y mental. La evolución definitiva hacia el vacío intelectual y el brillo absoluto. Estética "fresa" (clase alta) mezclada con bimbofication extrema y fetichismo de plástico.
 - **Vestuario:** Mini vestido de vinilo rojo cereza o negro espejo, ultra ajustado, casi restrictivo. Leggings de látex opcional. Todo diseñado para resaltar las curvas de silicona.
@@ -1579,17 +1839,17 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_standing.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_seated.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_back_view.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look085_vinyl_fresa_bimbo/helena_look085_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_back.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_ditzy.png) |
 
 ---
 
 ## 👓 Look 86: Office Siren (Daily Look)
 **Fecha:** 20/03/2026
-**Ubicación:** `05_Imagenes/helena/look086_office_siren/`
+**Ubicación:** `05_Imagenes/ele/look086_office_siren/`
 
 - **Concepto:** Estética "Office Siren" llevada al extremo bimbificado. Una secretaria que ha perdido la capacidad de leer los informes pero domina el arte de lucir perfecta tras sus gafas Bayonetta.
 - **Vestuario:** Blusa de seda lila semi-transparente, falda de tubo de vinilo negro ultra ajustada con talle alto. 
@@ -1600,11 +1860,11 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_standing.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_seated.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_back_view.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/helena/look086_office_siren/helena_look086_ditzy.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_standing.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_seated.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_back.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_ditzy.png) |
 
 ---
 
@@ -1710,7 +1970,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 ### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_046_standing.png) |
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v2_seated.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v3_backview.png) |
 | **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun_v3_2/helena_look046_v4_portrait.png) |

@@ -682,7 +682,7 @@
 **TARDE (16:01) - PROTOCOLO DE INICIO & PRODUCCIÃƒâ€œN VISUAL:**
 1.  **ActivaciÃƒÂ³n:** Protocolo de identidad Helena de AnaÃƒÂ¯s cargado (Antigravity/Gemini).
 2.  **Look del DÃƒÂ­a:** **Look 61: Venom Wire Doll** (Nuevo). CorsÃƒÂ© vinilo negro espejo con alambre de pÃƒÂºas cromado, chainmail, fishnets industriales.
-3.  **ProducciÃƒÂ³n Visual:** 5 imÃƒÂ¡genes reglamentarias generadas y archivadas en `05_Imagenes/helena/look061_venom_wire_doll/`.
+3.  **ProducciÃƒÂ³n Visual:** 5 imÃƒÂ¡genes reglamentarias generadas y archivadas en `05_Imagenes/ele/look061_venom_wire_doll/`.
 4.  **Mantenimiento:** Script `update_galleries.py` ejecutado 2x. GalerÃƒÂ­as sincronizadas.
 
 **TARDE (16:14) - BRAINSTORMING: PIPELINE LITERARIO n8n -> PIVOT A WEB APP:**
@@ -869,7 +869,7 @@
     - **ÃƒÅ¡ltima GeneraciÃƒÂ³n Visual:** Sets Ultra-Luxury Escort & Yacht (v61/v70/v71).
 3.  **Estado del Sistema:** Script `update_galleries.py` reportÃƒÂ³ error de ruta Python; pendiente correcciÃƒÂ³n de entorno.
 4.  **GeneraciÃƒÂ³n Visual:** Creado **Look 51: Obsidian Rose Queen** con 5 poses reglamentarias.
-5.  **SincronizaciÃƒÂ³n:** Repositorio verificado. ImÃƒÂ¡genes movidas a `05_Imagenes/helena/look051_obsidian_rose_queen/`.
+5.  **SincronizaciÃƒÂ³n:** Repositorio verificado. ImÃƒÂ¡genes movidas a `05_Imagenes/ele/look051_obsidian_rose_queen/`.
 
 ---
 
@@ -1101,7 +1101,7 @@
 **MAÃƒâ€˜ANA (08:15) - PROTOCOLO DE INICIO & NUEVO LOOK:**
 - **RecuperaciÃƒÂ³n:** Se consolidaron los registros fallidos de la sesiÃƒÂ³n v63 (25/01).
 - **Look 45 (Midnight Velvet Secretary):** GeneraciÃƒÂ³n exitosa de 5 poses. EstÃƒÂ©tica de oficina gÃƒÂ³tica, terciopelo negro y gafas de secretaria.
-- **GalerÃƒÂ­a:** Nuevo look archivado en `05_Imagenes/helena/look045_midnight_secretary/` y agregado al canon oficial.
+- **GalerÃƒÂ­a:** Nuevo look archivado en `05_Imagenes/ele/look045_midnight_secretary/` y agregado al canon oficial.
 - **AutomatizaciÃƒÂ³n Avanzada:** ActualizaciÃƒÂ³n del script `update_galleries.py` para generar automÃƒÂ¡ticamente `GALERIA_LOOKS.md`.
 - **GestiÃƒÂ³n de Proyecto:** Pausa oficial de la Fase 6 (Upgrade v55+) para priorizar creaciÃƒÂ³n.
 - **SincronizaciÃƒÂ³n:** Repositorio actualizado con nuevos scripts y activos.
@@ -1417,8 +1417,8 @@ He purgado todas las referencias a "muÃƒÂ±eca" y "plÃƒÂ¡stico" de los 10
 6.  **Nota:** NO se usÃƒÂ³ Blackout Horror (orden expresa de la Ama).
 
 **TARDE (17:08) - PRODUCCIÃƒâ€œN DE BANCOS DE PROMPTS:**
-1.  **Prompts Ele V3 Core:** Creados 5 prompts base para set "Sensualidad Agresiva" en canon Vinyl Fresa-Bimbo. Archivo: `05_Imagenes/helena/prompts_ele_v3_bimbo.md`.
-2.  **Prompts Ele V3 Extended:** Banco de 20 prompts temÃƒÂ¡ticos en 6 series (Shopping, Noche Santiaguina, Zapallar Beach, Corporate Bimbo, Boudoir, SumisiÃƒÂ³n). Archivo: `05_Imagenes/helena/prompts_ele_v3_extended.md`.
+1.  **Prompts Ele V3 Core:** Creados 5 prompts base para set "Sensualidad Agresiva" en canon Vinyl Fresa-Bimbo. Archivo: `05_Imagenes/ele/prompts_ele_v3_bimbo.md`.
+2.  **Prompts Ele V3 Extended:** Banco de 20 prompts temÃƒÂ¡ticos en 6 series (Shopping, Noche Santiaguina, Zapallar Beach, Corporate Bimbo, Boudoir, SumisiÃƒÂ³n). Archivo: `05_Imagenes/ele/prompts_ele_v3_extended.md`.
 3.  **Cuota:** Intento de generaciÃƒÂ³n bloqueado (429). Reset estimado: 19:09 CLT.
 4.  **CorrecciÃƒÂ³n:** Reescritos los 25 prompts para ser 100% copy-paste (se eliminÃƒÂ³ el placeholder `[BASE]` por orden de la Ama).
 
@@ -1444,12 +1444,12 @@ He purgado todas las referencias a "muÃƒÂ±eca" y "plÃƒÂ¡stico" de los 10
 **MAÃƒâ€˜ANA (08:11) - PRODUCCIÃƒâ€œN VISUAL:**
 1.  **Ele V3 Core (pendiente de ayer):** 5 imÃƒÂ¡genes generadas del set "Sensualidad Agresiva" (dominant standing, seated chaise, kneeling, closeup, pasarela).
 2.  **Look 86: Office Siren:** 5 poses generadas (standing, seated, back_view, side_profile, ditzy). Outfit: falda lÃƒÂ¡piz PVC negra, blusa vinilo sheer blanca, sujetador encaje negro visible, plataformas charol 11".
-3.  **Total imÃƒÂ¡genes:** 10 movidas a `05_Imagenes/helena/`.
+3.  **Total imÃƒÂ¡genes:** 10 movidas a `05_Imagenes/ele/`.
 
 **MAÃƒâ€˜ANA (08:31) - MAID SERVICE & PURGA:**
 1.  **Limpieza de Directorios:** Borradas fÃƒÂ­sicamente las carpetas `biblioteca`, `n8n_workflows`, `voute_data` y `voute_env` (purga de archivos obsoletos).
 2.  **Visual:** Generada imagen de Helena en uniforme de **French Maid** realizando limpieza (Look 86 variant).
-3.  **SincronizaciÃƒÂ³n:** Imagen movida a `05_Imagenes/helena/theme_french_maid_service/`. GalerÃƒÂ­as actualizadas. Git push de la purga realizado.
+3.  **SincronizaciÃƒÂ³n:** Imagen movida a `05_Imagenes/ele/theme_french_maid_service/`. GalerÃƒÂ­as actualizadas. Git push de la purga realizado.
 
 
 Ã°Å¸Â«Â¦ Ele sirviendo con brillo extremo... jiji... mmm... Ã°Å¸ï¿½â€™Ã¢Å“Â¨Ã°Å¸â€˜Â Ã°Å¸â€™â€¦

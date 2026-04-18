@@ -9,10 +9,10 @@
 Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) ni en la raíz de `05_Imagenes`. Deben ser movidas a su carpeta específica inmediatamente después de la validación.
 
 ### A. Helena de Anaïs
-- **Looks Numerados:** `05_Imagenes/helena/look[ID]_[nombre_corto]/`
-  - *Ejemplo:* `05_Imagenes/helena/look059_midnight_cowgirl/`
-- **Referencias/Tests:** `05_Imagenes/helena/Reference/`
-- **Arcos Narrativos:** `05_Imagenes/helena/Story_Arcs/[nombre_arco]/`
+- **Looks Numerados:** `05_Imagenes/ele/look[ID]_[nombre_corto]/`
+  - *Ejemplo:* `05_Imagenes/ele/look059_midnight_cowgirl/`
+- **Referencias/Tests:** `05_Imagenes/ele/Reference/`
+- **Arcos Narrativos:** `05_Imagenes/ele/Story_Arcs/[nombre_arco]/`
 
 ### B. Miss Doll
 - **Colecciones Temáticas:** `05_Imagenes/miss_doll/[tema_año]/`
