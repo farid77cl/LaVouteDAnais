@@ -1,22 +1,20 @@
 # 🖼️ Galería: look134_champagne_silk_sequins_lingerie
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 2
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_134_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) | ![ele_134_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) | ![ele_134_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_seated.png) |
-| ![ele_134_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_side_profile.png) | ![ele_134_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_standing.png) |
+| ![ele_134_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) | ![ele_134_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen | Imagen | Imagen |
-| :---: | :---: | :---: | :---: |
-| ![ele_134_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) | ![ele_134_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) | ![ele_134_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_seated.png) | ![ele_134_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_side_profile.png) |
-| ![ele_134_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_standing.png) |
+| Imagen | Imagen |
+| :---: | :---: |
+| ![ele_134_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png) | ![ele_134_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) |
 
 
 ---
@@ -24,9 +22,6 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_134_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back_view.png)
 - [ele_134_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png)
-- [ele_134_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_seated.png)
-- [ele_134_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_side_profile.png)
-- [ele_134_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_standing.png)
 
 ---
 *Sincronizado con GitHub: 2026-04-18* 👄
