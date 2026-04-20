@@ -3099,15 +3099,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a micro bikini with high-quality leopard print satin fabric, ornate golden hardware on straps and hips, high-cut minimal coverage. Towering 11-inch leopard print high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze into the jungle, holding a tropical blossom. 8k, editorial lighting.`
 
-### 📸 Imágenes (3/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) |
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) |
-| **Side Profile** | [Pendiente — Cuota API] |
-| **Ditzy** | [Pendiente — Cuota API] |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png) |
 
 ---
 
