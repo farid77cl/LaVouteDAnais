@@ -38,8 +38,82 @@ def get_tracked_images(directory):
             return sorted([f for f in os.listdir(directory) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
         return []
 
+def get_tracked_directories(base_dir):
+    """Lista carpetas existentes en Git y en el disco local bajo base_dir."""
+    directories = set()
+    base_abs = os.path.abspath(base_dir)
+
+    if os.path.exists(base_dir):
+        for root, dirs, _ in os.walk(base_dir):
+            if '.git' in root:
+                continue
+            directories.add(os.path.abspath(root))
+            for dir_name in dirs:
+                if not dir_name.startswith('.'):
+                    directories.add(os.path.abspath(os.path.join(root, dir_name)))
+
+    try:
+        result = subprocess.run(['git', 'ls-files', base_dir], capture_output=True, text=True, check=True)
+        for file_path in result.stdout.splitlines():
+            directory = os.path.abspath(os.path.dirname(file_path))
+            while os.path.normcase(directory).startswith(os.path.normcase(base_abs)):
+                directories.add(directory)
+                if os.path.normcase(directory) == os.path.normcase(base_abs):
+                    break
+                directory = os.path.dirname(directory)
+    except Exception as e:
+        print(f"Error al descubrir carpetas de Git en {base_dir}: {e}")
+
+    return sorted(directories, key=lambda path: path.count(os.sep), reverse=True)
+
+def get_look_number(directory):
+    match = re.match(r'look0*(\d+)', os.path.basename(directory).lower())
+    return int(match.group(1)) if match else None
+
+def is_top_level_look(directory, ele_path):
+    return (
+        os.path.normcase(os.path.dirname(directory)) == os.path.normcase(os.path.abspath(ele_path))
+        and get_look_number(directory) is not None
+    )
+
+def has_readme(directory):
+    local_readme = os.path.join(directory, 'README.md')
+    if os.path.exists(local_readme):
+        return True
+    try:
+        result = subprocess.run(['git', 'ls-files', local_readme], capture_output=True, text=True, check=True)
+        return bool(result.stdout.strip())
+    except Exception:
+        return False
+
+def get_canonical_look_directories(ele_path):
+    groups = {}
+    for directory in get_tracked_directories(ele_path):
+        if not is_top_level_look(directory, ele_path):
+            continue
+        number = get_look_number(directory)
+        groups.setdefault(number, []).append(directory)
+
+    canonical = set()
+    for number, directories in groups.items():
+        def score(directory):
+            name = os.path.basename(directory).lower()
+            value = len(get_tracked_images(directory))
+            if has_readme(directory):
+                value += 1000
+            if number < 100 and re.match(r'look\d{3}($|_)', name):
+                value += 500
+            if re.search(r'_(lingerie|bikini)($|_)', name):
+                value += 100
+            return value
+
+        canonical.add(max(directories, key=score))
+
+    return canonical
+
 def generate_folder_gallery(directory, repo_root):
     """Genera el README.md para una carpeta individual."""
+    os.makedirs(directory, exist_ok=True)
     images = get_tracked_images(directory)
     all_local = os.listdir(directory) if os.path.exists(directory) else []
     subdirs = [d for d in all_local if os.path.isdir(os.path.join(directory, d)) and not d.startswith('.')]
@@ -111,12 +185,10 @@ def generate_master_outfit_gallery(base_path, repo_root):
     if not os.path.exists(ele_path): return
 
     look_folders = []
-    for item in os.listdir(ele_path):
-        full_path = os.path.join(ele_path, item)
-        match = re.match(r'look(\d+)', item.lower())
-        if os.path.isdir(full_path) and match:
-            look_num = int(match.group(1)) if match else 999
-            look_folders.append((look_num, item, full_path))
+    for full_path in get_canonical_look_directories(ele_path):
+        item = os.path.basename(full_path)
+        look_num = get_look_number(full_path) or 999
+        look_folders.append((look_num, item, full_path))
     
     look_folders.sort(key=lambda x: x[0], reverse=True)
     content = ["# 👗 Galería de Looks: Helena de Anaïs\n\n", "> El clóset visual infinito en la nube. 🫦✨\n\n", "---\n\n"]
@@ -190,12 +262,16 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.abspath(os.path.join(script_dir, "..", "..", ".."))
     base_path = os.path.join(repo_root, '05_Imagenes')
+    ele_path = os.path.join(base_path, 'ele')
+    canonical_looks = get_canonical_look_directories(ele_path)
     
     print(f"Iniciando actualización masiva de galerías (Modelo Remoto)...")
     
     # 1. Procesar todas las carpetas individuales
-    for root, dirs, _ in os.walk(base_path, topdown=False):
+    for root in get_tracked_directories(base_path):
         if '.git' in root: continue
+        if is_top_level_look(root, ele_path) and root not in canonical_looks:
+            continue
         generate_folder_gallery(root, repo_root)
     
     # 2. Generar galerías maestras
