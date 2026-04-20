@@ -75,3 +75,18 @@
 
 - **Beat de procesamiento post-ritual:** Después de cada escena ritual (esmalte, depilación, cold cream, arnés), incluir al menos un párrafo corto de disonancia cognitiva del protagonista antes de la siguiente transición. Sin ese beat, el ritual se cierra antes de que el lector lo absorba.
   *Contexto: Escena del esmalte (Cap 2) cortaba directamente a la siguiente noche sin pausa interna; se agregó el beat "Eso era lo peor: que encajara" en revisión (13/04/2026).*
+
+- **No referir transformaciones físicas antes de su escena causal:** Si una modificación corporal o ritual estético no ocurrió en el capítulo actual ni en un capítulo anterior, NO puede aparecer como estado ya consumado. Depilación, esmalte, peinado, entrenamiento de tacones o rutinas de belleza deben tener escena causal previa o quedar explícitamente reservados para capítulos posteriores.
+  *Contexto: Cap 2 v0.3 mencionaba piel depilada el lunes antes de que la depilación ocurriera el jueves; la reescritura v0.4 eliminó esa deriva temporal y reservó esos rituales para después (20/04/2026).*
+
+- **Capítulo 2 no debe absorber material del Capítulo 3:** El Cap 2 puede cubrir el lunes AM como primer choque laboral en castidad, tanga y corsé, y cerrar en Día 7 con el conjunto negro, pero no debe avanzar a Día 14 ni incorporar régimen 24/7, depilación reglada, esmalte semanal, cold cream, pijama de gasa o entrenamiento sostenido de tacones.
+  *Contexto: Cap 2 v0.3 expandió la línea temporal hasta Día 14 y mezcló hitos de capítulos posteriores; v0.6 concentra el punto de inflexión en vestidor/espejo/nombre y corrige el arranque a lunes AM (20/04/2026).*
+
+- **Capítulo 2 — primer impacto de oficina:** El primer choque después del sótano debe ocurrir el lunes AM, al prepararse para ir a la oficina, con cinturón de castidad, tanga negra y corsé de Anaís bajo el traje. NO desplazarlo a martes ni sustituirlo por faja sutil.
+  *Contexto: La Ama corrigió que v0.4/v0.5 empezaban en martes y suavizaban el impacto con faja; v0.6 arranca lunes AM con corsé, tanga y castidad (20/04/2026).*
+
+- **Ricardo no descubre la ropa femenina; pierde el control sobre ella:** Al escribir escenas con lencería, recordar que Ricardo ya disfrutaba usar ropa femenina en contextos clandestinos donde él controlaba hora, lugar, mujer pagada y salida. El conflicto erótico correcto es que ahora el mismo deseo existe bajo control de Isabel, sostenido por chantaje y sin puerta de salida.
+  *Contexto: Corrección de la Ama sobre la escena de la tanga del lunes AM; v0.7 refuerza placer previo, resistencia y recordatorio explícito del chantaje (20/04/2026).*
+
+- **Corsé como ritual físico, no accesorio resumido:** Cuando Ricardo se pone un corsé, especialmente solo y bajo orden, describir técnica, torpeza, broches, cordones, respiración, miedo, excitación y confusión. El corsé debe sentirse como mecanismo que reorganiza el cuerpo y la voluntad, no como prenda que simplemente aparece puesta.
+  *Contexto: Corrección de la Ama sobre la línea del corsé en Cap 2; v0.8 expande el ritual del lunes AM y muestra colaboración involuntaria de Ricardo (20/04/2026).*

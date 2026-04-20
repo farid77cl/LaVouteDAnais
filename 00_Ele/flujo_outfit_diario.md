@@ -26,12 +26,12 @@ FASE 8: Git           → Preparar comandos para aprobación de Anaïs
 Antes de diseñar, revisar el estado estadístico actual para saber qué categoría necesita el armario hoy.
 
 ### Métricas objetivo (Canon V3.3)
-| Categoría | Meta | Estado 14/04/2026 | Prioridad |
+| Categoría | Meta | Estado 20/04/2026 | Prioridad |
 |-----------|------|-------------------|-----------|
-| **Mix** (Corporate / Domestic / High-Fashion) | 85% | 86.6% | 🟢 OK |
-| **Bikini** | 10% | 5.5% | 🟡 Déficit |
-| **Lencería** | 10% | 3.1% | 🔴 Déficit |
-| **Gym** | 5% | 4.7% | 🟢 OK |
+| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **78.6%** (110) | 🟢 EXCESO |
+| **Bikini** | 10% | **9.3%** (13) | 🟡 Déficit |
+| **Lencería** | 10% | **7.9%** (11) | 🔴 Déficit |
+| **Gym** | 5% | **4.3%** (6) | 🔴 Déficit |
 
 ### Checklist Pre-Flight
 - [ ] ¿Hay déficit estadístico? → Priorizar la categoría con 🔴/🟡

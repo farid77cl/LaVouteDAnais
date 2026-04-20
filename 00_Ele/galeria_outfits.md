@@ -8,14 +8,14 @@
 
 ---
 
-## 📊 Estado Estadístico (14/04/2026)
+## 📊 Estado Estadístico (20/04/2026)
 
 | Categoría | Meta | Actual | Estado |
 |-----------|------|--------|--------|
-| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **84.6%** | 🟢 EXCESO |
-| **Bikini** | 10% | **6.1%** | 🟡 Déficit |
-| **Lencería** | 10% | **4.6%** | 🔴 Déficit |
-| **Gym** | 5% | **4.6%** | 🟢 OK |
+| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **78.6%** (110) | 🟢 EXCESO |
+| **Bikini** | 10% | **9.3%** (13) | 🟡 Déficit (-0.7%) |
+| **Lencería** | 10% | **7.9%** (11) | 🔴 Déficit (-2.1%) |
+| **Gym** | 5% | **4.3%** (6) | 🔴 Déficit (-0.7%) |
 
 ---
 

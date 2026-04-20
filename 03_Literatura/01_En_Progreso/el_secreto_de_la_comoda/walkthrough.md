@@ -41,7 +41,7 @@ Ricardo en su oficina, llamada telefónica con inversores. Aplasta a Andrés en 
 Ricardo hace otra llamada. Tono distinto, íntimo. *"Esperame. Quiero celebrar. Prepara el conjunto negro."* El lector asume: lencería para la amante.
 
 **Escena C — El Baúl de Anaís:**
-Isabel lo lleva al sótano de Zapallar. El baúl. La primera faja. El primer corchete. El cuerpo de Ricardo traiciona. El orgasmo sobre el encaje vintage.
+Isabel lo lleva al sótano de Zapallar. El baúl. El primer corsé. El primer corchete. El cuerpo de Ricardo traiciona. El orgasmo sobre el encaje vintage.
 
 **Escena D — El Reveal de Isabel:**
 Después del primer corchete, Isabel revela que sabía. *"Hace dos meses una mujer me contó exactamente lo que ibas a sentir."* El chantaje: las fotos de Camila.
@@ -52,10 +52,10 @@ Después del primer corchete, Isabel revela que sabía. *"Hace dos meses una muj
 
 ---
 
-#### Capítulo 2: El Conjunto Negro (~4,000 palabras)
+#### Capítulo 2: El Espejo Humillante / El Conjunto Negro (~4,000+ palabras)
 
 **Escena A — Vitacura:**
-De vuelta en Santiago. Isabel convierte el vestidor. Maquillaje 60s. Sujetador con relleno. La primera presentación visual completa.
+Lunes AM tras Zapallar: primer impacto de oficina con cinturón de castidad, tanga negra y corsé de Anaís bajo el traje. Luego, Día 7 en Santiago, Isabel convierte el vestidor. Maquillaje 60s. Sujetador con relleno. La primera presentación visual completa.
 
 **Escena B — El Conjunto Negro:**
 Isabel abre un cajón. El mismo conjunto negro que Ricardo pidió en la llamada. *"Creíste que era para tu amante, gordi. Siempre fue para ti."* Lo viste ella.
@@ -161,7 +161,7 @@ Rocío es follada por Andrés. Isabel observa. La inversión completa: el triunf
 |--------|------------|---------|----------|
 | RESISTENCIA | 15% | "Isabel, esto es demasiado" | Cap. 1 |
 | REVELACIÓN | 15% | Entender que el "conjunto negro" era para él, chantaje activado | Cap. 1-2 |
-| CONFUSIÓN | 20% | Excitación incontrolable al ser penetrado vestido de seda | Cap. 2 |
+| CONFUSIÓN | 40% | Excitación incontrolable al ser penetrado vestido de seda; el cuerpo responde al nombre "Rocío" sin aceptarlo todavía como identidad estable | Cap. 2 |
 | TRAICIÓN DEL CUERPO | 20% | El cuerpo responde a "Rocío" | Cap. 3-4 |
 | ACEPTACIÓN | 15% | "Por favor, Ama, déjame ser tu Rocío" | Cap. 5 |
 | INVERSIÓN FINAL | 15% | Andrés cierra el círculo del poder | Cap. 6 |

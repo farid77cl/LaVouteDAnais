@@ -12,9 +12,10 @@
 | 1 | 21:00 | Sótano de Zapallar: El Baúl de Anaís. | Curiosidad / Pavor | Cap 1 |
 | 1 | 22:30 | **Revelación de Fotos + Chantaje.** | Colapso de Máscara | Cap 1 |
 | 1 | 23:15 | **Instalación del Cinturón de Castidad.** | Cerradura (Lock) | Cap 1 |
-| 3 | 09:00 | Primer día de oficina en castidad y faja sutil. | Resistencia Dolorosa | Cap 2 |
-| 7 | 20:00 | Sesión de "Aura de Anaís" (Primeras Cintas). | Confusión (40%) | Cap 3 |
-| 14| 10:00 | Isabel intercepta llamadas de la empresa. | Pérdida de Autonomía | Cap 3 |
+| 2 | 09:00 | Primer día de oficina en castidad, tanga negra y corsé de Anaís bajo el traje. | Resistencia Dolorosa | Cap 2 |
+| 7 | 23:00 | **El Conjunto Negro:** vestidor de Vitacura, primera penetración con la correa de Anaís, el nombre "Rocío" entra al cuerpo. | Confusión (40%) | Cap 2 |
+| 15 | 21:00 | Sesión de "Aura de Anaís" (Primeras Cintas). | Traición del Cuerpo | Cap 3 |
+| 16 | 10:00 | Isabel intercepta llamadas de la empresa. | Pérdida de Autonomía | Cap 3 |
 | 21| 21:00 | **El Banquete: Andrés invitado a cenar.** | Traición del Cuerpo | Cap 4 |
 | 30| 00:00 | Ricardo quema su último traje de hombre. | Aceptación (85%) | Cap 5 |
 | 35| 22:00 | **Entrega Final a Andrés.** | Paz / Propiedad | Cap 6 |
