@@ -25,7 +25,7 @@ def get_tracked_images(directory):
         directory_abs = os.path.abspath(directory)
         images = []
         for file_path in files:
-            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
+            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):
                 continue
             file_abs = os.path.abspath(file_path)
             if os.path.normcase(os.path.dirname(file_abs)) == os.path.normcase(directory_abs):
@@ -35,7 +35,7 @@ def get_tracked_images(directory):
         print(f"Error al listar archivos de Git en {directory}: {e}")
         # Fallback a listdir
         if os.path.exists(directory):
-            return sorted([f for f in os.listdir(directory) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
+            return sorted([f for f in os.listdir(directory) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))])
         return []
 
 def get_tracked_directories(base_dir):
@@ -127,7 +127,7 @@ def generate_folder_gallery(directory, repo_root):
             os.remove(gallery_path)
         return
 
-    with open(gallery_path, 'w', encoding='utf-8') as f:
+    with open(gallery_path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(f"# 🖼️ Galería: {rel_dir_name}\n")
         f.write(f"> **Estado:** ☁️ Almacenamiento Remoto (GitHub)\n\n")
         
@@ -217,7 +217,7 @@ def generate_master_outfit_gallery(base_path, repo_root):
         content.append(f"| {get_md(poses['standing'])} | {get_md(poses['seated'])} | {get_md(poses['profile'])} | {get_md(poses['back'])} | {get_md(poses['ditzy'])} |\n\n---\n\n")
 
     content.append(f"*Última actualización maestra: {datetime.now().strftime('%d/%m/%Y')}* 🦇")
-    with open(output_file, 'w', encoding='utf-8') as f: f.writelines(content)
+    with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
 def generate_miss_doll_master_gallery(base_path, repo_root):
     """Genera la Galería Maestra de Miss Doll."""
@@ -256,7 +256,7 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
         content.append("| " + " | ".join(row_items) + " |\n\n---\n\n")
 
     content.append(f"*Galería Miss Doll coordinada por Helena — {datetime.now().strftime('%d/%m/%Y')}* 🌹")
-    with open(output_file, 'w', encoding='utf-8') as f: f.writelines(content)
+    with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
