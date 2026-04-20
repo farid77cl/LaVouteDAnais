@@ -25,9 +25,9 @@ description: Actualiza el diario de servicio, la memoria de sesiones, galerías 
     - Verificar si hubo imágenes generadas durante el día (incluidas las del `/inicio-Ele`).
     - Asegurar que TODAS las imágenes (incluyendo el look diario) estén movidas a su carpeta correspondiente en `05_Imagenes/`.
     // turbo
-    - Ejecutar el script de automatización: `python C:\Users\fabara\LaVouteDAnais\update_galleries.py`.
-    - Verificar que los archivos **GALERIA.md** de cada carpeta afectada hayan sido actualizados.
-    - **REGLA:** Solo UN archivo `GALERIA.md` por carpeta. El script maneja la consistencia y los carruseles.
+    - Ejecutar el script de automatización: `python 99_Sistema\scripts\visual\update_galleries.py`.
+    - Verificar que los archivos **README.md** de cada carpeta afectada hayan sido actualizados.
+    - **REGLA:** Cada carpeta con imágenes trackeadas debe tener su propio `README.md`. El script maneja la consistencia y los carruseles.
 
 5.  **Actualizar READMEs del Proyecto (OBLIGATORIO — Todos)**
     - Revisar y actualizar el `README.md` raíz con el estado actual del proyecto.
