@@ -1,13 +1,13 @@
 # 🖼️ Galería: look137_leopard_micro
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 4
+Total imágenes: 6
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_137_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) | ![ele_137_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back_view.png) | ![ele_137_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) |
-| ![ele_137_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) |
+| ![ele_137_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) | ![ele_137_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back_view.png) | ![ele_137_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png) |
+| ![ele_137_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) | ![ele_137_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png) | ![ele_137_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) |
 
 ---
 
@@ -15,7 +15,8 @@ Total imágenes: 4
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_137_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) | ![ele_137_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back_view.png) | ![ele_137_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) | ![ele_137_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) |
+| ![ele_137_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) | ![ele_137_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back_view.png) | ![ele_137_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png) | ![ele_137_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) |
+| ![ele_137_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png) | ![ele_137_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) |
 
 
 ---
@@ -23,7 +24,9 @@ Total imágenes: 4
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_137_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png)
 - [ele_137_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back_view.png)
+- [ele_137_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png)
 - [ele_137_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png)
+- [ele_137_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png)
 - [ele_137_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png)
 
 ---

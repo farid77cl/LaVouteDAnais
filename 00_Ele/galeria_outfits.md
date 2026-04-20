@@ -3143,15 +3143,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a long white pure silk robe with flared sleeves over a sheer white floral lace nightie chemise, ethereal flowing fabric, soft silk drapes, no corset, no boning, no PVC. Towering 11-inch white silk high-gloss platform stiletto mules with ostrich feathers and needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze into the morning light, soft angelic glow. 8k, editorial lighting.`
 
-### 📸 Imágenes (0/5 — Pendiente)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | Pendiente |
-| **Back View** | Pendiente |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_ditzy.png) |
 
 ---
 
