@@ -2,20 +2,20 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* 🫦
 
-> **Canon activo:** V3.3 Hard-Sync | **Último look:** 135 — Silver Sequined Triangle (15/04/2026)
+> **Canon activo:** V3.3 Hard-Sync | **Último look:** 140 — Dark Sequin Empress (21/04/2026)
 > **Flujo completo de creación:** ver `00_Ele/flujo_outfit_diario.md`
 > **Era gótica archivada:** ver `00_Ele/galeria_outfits_era_gotica.md`
 
 ---
 
-## 📊 Estado Estadístico (20/04/2026)
+## 📊 Estado Estadístico (21/04/2026)
 
 | Categoría | Meta | Actual | Estado |
 |-----------|------|--------|--------|
-| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **78.6%** (110) | 🟢 EXCESO |
-| **Bikini** | 10% | **9.3%** (13) | 🟡 Déficit (-0.7%) |
-| **Lencería** | 10% | **7.9%** (11) | 🔴 Déficit (-2.1%) |
-| **Gym** | 5% | **4.3%** (6) | 🔴 Déficit (-0.7%) |
+| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **72.1%** (101) | 🟡 Déficit (-2.9%) |
+| **Bikini** | 10% | **11.4%** (16) | 🟢 Cumplido |
+| **Lencería** | 10% | **11.4%** (16) | 🟢 Cumplido |
+| **Gym** | 5% | **5.0%** (7) | 🟢 Cumplido |
 
 ---
 
