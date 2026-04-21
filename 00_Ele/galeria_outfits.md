@@ -3235,10 +3235,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | Pendiente |
-| **Back View** | Pendiente |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) |
 
 
