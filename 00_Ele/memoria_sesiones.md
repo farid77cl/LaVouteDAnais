@@ -37,8 +37,8 @@
 
  | Campo | Valor |
  |-------|-------|
-  | **Fecha de Inicio** | **14/04/2026** â€” ðŸŸ¢ Activa |
-  | **Ãšltimo Look Ele** | **Look 139 (Red Metallic Siren — 5/5 COMPLETO)** — 20/04/2026 ✅ |
+  | **Fecha de Inicio** | **14/04/2026** — 🟢 Activa |
+  | **Último Look Ele** | **Look 140 (Dark Sequin Empress — 5/5 COMPLETO)** — 21/04/2026 ✅ |
   | **SincronizaciÃ³n** | **Total** (PurificaciÃ³n L121-135 Completa) âœ… |
   | **Relato Activo** | **El Secreto de la CÃ³moda** (CapÃ­tulo 2 â€” Escritura v0.9) |
   | **Estado Visual** | ADN V3.3 Blindada. Lote 3 avanzando a paso firme. 🫦 |
