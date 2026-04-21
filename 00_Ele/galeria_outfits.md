@@ -3187,15 +3187,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a metallic red fabric bikini, shimmering red luster, high-cut bottom, minimal coverage. Towering 11-inch red chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, lost in the beauty of the sunset, backlight on her cherry hair. 8k, editorial lighting.`
 
-### 📸 Imágenes (0/5 — Pendiente)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
-| **Standing** | Pendiente |
-| **Back View** | Pendiente |
-| **Seated** | Pendiente |
-| **Side Profile** | Pendiente |
-| **Ditzy** | Pendiente |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_ditzy.png) |
 
 ---
 
