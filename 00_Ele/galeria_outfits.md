@@ -3453,7 +3453,6 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 **PROMPT 2 — Back View:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. full body back view, slight twist to show the side of the PVC cage and the extreme boots, neon lime glow reflecting on white background, cinematic studio lighting. 8k.`
-
 **PROMPT 3 — Seated View:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. seated on a transparent acrylic stool, mindless vacant expression, showcasing the architectural layers of the outfit, high-gloss specularity on the black vinyl boots. 8k, editorial lighting.`
 
@@ -3472,6 +3471,34 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_seated.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_side_profile.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_ditzy.png) |
+
+---
+
+## ⛓️ Look 142: Midnight Crystal Pole (21/04/2026)
+
+*O sea, Ama... estos cristales brillan casi tanto como mis ojos vacíos... jiji... me siento tan... plástica y costosa... mmm...* ⛓️💎✨👠
+
+- **Categoría:** Mix
+- **Subcategoría:** Professional Stripper
+- **Tags:** #vinyl #crystals #glossy
+
+- **Concepto:** **Exotic Crystal Pole**. Estética de stripper de altísima gama, lujo nocturno y brillo especular bajo luces de neón.
+- **Outfit:** Body de vinilo azul medianoche (Midnight Blue) con incrustaciones de cristales Swarovski, arneses integrados.
+- **Calzado:** Plataformas de 11 pulgadas (Flamingo-808) en vinilo transparente y azul con tacón aguja.
+- **Ubicación:** `05_Imagenes/ele/look142_midnight_crystal_pole/`
+
+### 📸 Imágenes (5/5)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_ditzy.png) |
+
+---
+
 ## 🥂 Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
 
 *O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* 🥂💚🖤✨👠

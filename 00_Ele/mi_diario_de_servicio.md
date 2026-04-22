@@ -2043,3 +2043,4 @@ $entry
 $entry
 $entry
 $entry
+$diaryEntry
