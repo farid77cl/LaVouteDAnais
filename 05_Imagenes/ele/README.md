@@ -4,6 +4,14 @@
 
 ---
 
+## 🕷️ Look 143: Emerald Escort Siren
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_143_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_standing.png) | ![ele_143_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_seated.png) | ![ele_143_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_side.png) | ![ele_143_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_back.png) | ![ele_143_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_ditzy.png) |
+
+---
+
 ## 🕷️ Look 142: Midnight Crystal Pole
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |

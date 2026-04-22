@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 136+ completos)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 143 completos)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -88,7 +88,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **El Secreto de la Cómoda** — En progreso (Capítulo 2 — Escritura v0.9)
+- **El Secreto de la C�moda � Cap�tulo 2: El Espejo Humillante (v1.0 Can�nica) finalizado.)
 
 ### Biblioteca Completa (39 relatos finalizados)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.

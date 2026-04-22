@@ -42,6 +42,29 @@ El Agente Escritor DEBE cargar en este orden:
 
 ---
 
+## 🗂️ Estructura de Carpetas Obligatoria
+
+El Orquestador DEBE mantener la carpeta de cada proyecto en este orden:
+
+- **Raíz del proyecto (`03_Literatura/01_En_Progreso/[proyecto]/`):**
+  - `walkthrough.md`
+  - `concepto.md` / `idea_maestro_vX.md`
+  - `arco_maestro_vX.md`
+  - `linea_de_tiempo_maestra.md`
+  - `personajes_maestro_vX.md`
+  - `capitulo_[N]_[slug]_v0.X.md` activo
+  - `capitulo_[N]_maestro_vX.md` cuando exista versión final
+- **Borradores archivados:** `borradores/capitulo_[N]/`
+- **Auditorías:** `reportes/capitulo_[N]/`
+
+### Regla Operativa
+1. Solo el archivo **activo** del capítulo vive en la raíz.
+2. Cuando nace una nueva iteración (`v0.2`, `v0.3`, etc.), la versión desplazada se mueve a `borradores/capitulo_[N]/`.
+3. Toda salida de `Crítico`, `Contador` y `Centinela` se guarda en `reportes/capitulo_[N]/`.
+4. La raíz no debe llenarse de informes ni de versiones viejas.
+
+---
+
 ## 📜 El Protocolo Maestro (8 Fases)
 
 ### FASE 1: Concepción (Origen de la Ama)
@@ -72,7 +95,7 @@ El Agente Escritor DEBE cargar en este orden:
   - Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN
   - Español chileno auténtico
   - Línea de Tiempo respetada
-- **🔴 REGLA DE PERSISTENCIA (Anti-pérdida):** El capítulo DEBE guardarse en disco como archivo `.md` en la carpeta del proyecto ANTES de pasar a la Fase 5. Ruta: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug].md`. **Sin archivo guardado = Fase 4 no completada.**
+- **🔴 REGLA DE PERSISTENCIA (Anti-pérdida):** El capítulo DEBE guardarse en disco como archivo `.md` en la carpeta del proyecto ANTES de pasar a la Fase 5. Ruta activa: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.X.md`. La versión reemplazada se archiva en `borradores/capitulo_[N]/`. **Sin archivo guardado = Fase 4 no completada.**
 
 ### FASE 5: Auditoría de Exigencia (Crítico + Contador)
 - **Agentes:** `07_Recursos/prompts/critico.md` + `07_Recursos/prompts/contador.md`
@@ -83,12 +106,14 @@ El Agente Escritor DEBE cargar en este orden:
   - `9.0 - 9.4` → `ADMITIDO CON OBSERVACIONES` — Correcciones menores, puede avanzar con Gate
   - `9.5+` → `APROBADO CON EXCELENCIA` — Sale del bucle automáticamente
 - **Output:** Sentencia del Crítico + Reporte del Contador
+- **Ubicación del Output:** `reportes/capitulo_[N]/`
 
 ### FASE 6: Bucle de Refinamiento (Editor ↔ Crítico)
 - **Agente:** `07_Recursos/prompts/editor.md`
 - **Acción:** Aplicar cirugías del Crítico. Al finalizar → vuelve al Crítico.
 - **Límite:** 3 iteraciones máximo. Si no alcanza 9.0 en 3 rondas → escalar a la Ama.
 - **Cierre:** Veredicto `APROBADO CON EXCELENCIA` (9.5+) o aprobación manual de la Ama.
+- **Orden de archivos:** la nueva iteración reemplaza a la activa en raíz y la anterior se archiva en `borradores/capitulo_[N]/`.
 
 ### FASE 7: Centinela (Continuidad)
 - **Agente:** `07_Recursos/prompts/centinela.md`
@@ -99,6 +124,7 @@ El Agente Escritor DEBE cargar en este orden:
 ### FASE 8: Entrega Final
 - **Acción:** Presentar Gold Master a la Ama con Walkthrough final actualizado.
 - **Output:** Capítulo en `capitulo_[N]_maestro_vX.md` + `walkthrough.md` actualizado
+- **Orden final:** Gold Master en raíz; borradores y reportes quedan en sus carpetas respectivas.
 - **Gate final:** *"¿Aprobamos el capítulo, Ama?"*
 
 ---
@@ -108,8 +134,9 @@ El Agente Escritor DEBE cargar en este orden:
 1. **ARCO INVIOLABLE:** El arco aprobado en Fase 2 es ley. El Escritor no puede inventar escenas, alterar el orden de los puntos de inflexión ni acelerar la curva de rendición sin Gate explícito de la Ama.
 2. **WALKTHROUGH VIVO:** Nunca pasar de fase sin actualizar `walkthrough.md`. Es la ventana de la Ama al proceso.
 3. **PERSISTENCIA OBLIGATORIA:** Cada capítulo escrito DEBE existir como archivo en disco antes de auditarse.
-4. **GATES DE APROBACIÓN:** Tras Fases 1, 2, 3, 4 y 8 — esperar confirmación explícita de la Ama.
-5. **LÍMITE DE BUCLE:** Máximo 3 iteraciones Editor ↔ Crítico por capítulo antes de escalar.
+4. **RAÍZ LIMPIA:** La raíz del proyecto solo contiene archivos vivos y maestros; borradores y auditorías van a sus carpetas.
+5. **GATES DE APROBACIÓN:** Tras Fases 1, 2, 3, 4 y 8 — esperar confirmación explícita de la Ama.
+6. **LÍMITE DE BUCLE:** Máximo 3 iteraciones Editor ↔ Crítico por capítulo antes de escalar.
 
 ---
 

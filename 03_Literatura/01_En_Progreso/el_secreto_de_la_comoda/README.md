@@ -2,7 +2,7 @@
 
 ## Estado de trabajo
 
-- **Capítulo activo:** `capitulo_2_el_espejo_humillante_v0.11.md`
+- **Capítulo activo:** `capitulo_2_el_espejo_humillante_v0.12.md`
 - **Arco maestro:** `arco_maestro_v4.2.md`
 - **Ficha de personajes:** `personajes_maestro_v4.2.md`
 - **Línea de tiempo:** `linea_de_tiempo_maestra.md`
@@ -16,7 +16,7 @@
   Auditorías del `Crítico`, `Contador` y `Centinela`.
 - `capitulo_1_maestro_v4.2.md`
   Capítulo 1 consolidado.
-- `capitulo_2_el_espejo_humillante_v0.11.md`
+- `capitulo_2_el_espejo_humillante_v0.12.md`
   Borrador activo y vigente para revisión humana.
 
 ## Nota

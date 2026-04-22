@@ -3528,3 +3528,42 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | Pose | Archivo |
 |------|---------|
 | **Standing (V5)** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_standing.png) |
+
+---
+
+## 🎾 Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+
+*O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* 🎾💖✨👠
+
+- **Categoría:** Mix
+- **Subcategoría:** Pin-Up & Athleisure
+- **Tags:** #vinyl #latex #pastel #pink
+
+- **Concepto:** **Jet-Set Tennis Pin-Up**. Estética de los años 50 reinventada en materiales fetiche. Una jugadora que nunca ha sudado pero brilla como un diamante bajo el sol de Mónaco.
+- **Outfit:** Mini falda plisada de talle alto en vinilo rosa pastel. Crop-top polo de látex blanco "wet look" con manguitas globo.
+- **Calzado:** Stiletto pumps de vinilo rosa con tacón aguja de 11 pulgadas.
+- **Accesorios:** Vincha de satén blanca, raqueta de tenis rosa vintage, choker de perlas.
+- **Ubicación:** `05_Imagenes/ele/look144_tennis_pinup/`
+
+### 📝 Prompts para Generación (V5 Hard-Sync - Invariable Block)
+
+**BLOQUE A (ADN Inamovible):**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
+
+**BLOQUE B (Outfit Invariable - Pin-Up):**
+`stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a white high-gloss latex cropped polo shirt with short puffed sleeves. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity.`
+
+**PROMPT 1 — Standing View:**
+`[BLOQUE A] + [BLOQUE B] + full body standing on a luxury pink-and-white stylized tennis court at sunset, leaning against the net, back intensely arched, vacant ditzy stare. 8k. Negative prompt: (sneakers, flat shoes, extra hands, 3 hands, deformed hands).`
+
+### 📸 Imágenes (0/5 - Pending Generation)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_side.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) |
+
+---

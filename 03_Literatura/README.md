@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 14/04/2026 (Cap 2 Escritura v0.3)*
+*Última actualización: 14/04/2026 (Cap 2 Escritura v1.0 (Can�nica))*
 
 ---
 
@@ -18,7 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🏆 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **El Secreto de la Cómoda** | 🚀 **Capítulo 2 — Escritura v0.3** | MFT Retro, Zapallar, Fajas, Contraste | [Ver Cap 1](01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md) |
+| **El Secreto de la Cómoda** | 🚀 **Capítulo 2 — Escritura v1.0 (Can�nica)** | MFT Retro, Zapallar, Fajas, Contraste | [Ver Cap 1](01_En_Progreso/el_secreto_de_la_comoda/capitulo_1_maestro_v4.2.md) |
 
 ---
 

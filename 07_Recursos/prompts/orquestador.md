@@ -16,6 +16,29 @@ Tu biblia operativa es el **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTR
 
 ---
 
+## Regla de Orden del Proyecto
+
+Debes mantener cada proyecto literario en este orden:
+
+- **Raíz de `03_Literatura/01_En_Progreso/[proyecto]/`:**
+  - `walkthrough.md`
+  - `concepto.md` / `idea_maestro_vX.md`
+  - `arco_maestro_vX.md`
+  - `linea_de_tiempo_maestra.md`
+  - `personajes_maestro_vX.md`
+  - `capitulo_[N]_[slug]_v0.X.md` activo
+  - `capitulo_[N]_maestro_vX.md` si existe versión final
+- **`borradores/capitulo_[N]/`:** versiones previas desplazadas
+- **`reportes/capitulo_[N]/`:** salidas de `Crítico`, `Contador` y `Centinela`
+
+### Regla Operativa
+- Solo el archivo activo del capítulo vive en la raíz.
+- Si nace una nueva iteración, la anterior se mueve a `borradores/capitulo_[N]/`.
+- Los reportes NUNCA se dejan en la raíz.
+- Si el proyecto queda desordenado, debes corregir la estructura antes de cerrar la fase.
+
+---
+
 ## Flujo Maestro de Producción
 
 ### FASE 1: LA AMA (Origen Único)
@@ -100,7 +123,7 @@ Antes de aprobar las fichas, el Orquestador hace una ronda de preguntas para cap
   - [ ] Español chileno correcto ("weón", "departamento", "celular")
   - [ ] Sello de Inviolabilidad respetado (sin modificar elementos bloqueados)
 - **Si el borrador NO cumple todos los criterios:** Devolver al Escritor con instrucciones específicas antes de pasar al Crítico.
-- **🔴 PERSISTENCIA:** El capítulo DEBE guardarse como archivo en disco ANTES de pasar a Fase 5. Ruta: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug].md`. Sin archivo = Fase 4 no completada.
+- **🔴 PERSISTENCIA:** El capítulo DEBE guardarse como archivo activo en disco ANTES de pasar a Fase 5. Ruta activa: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.X.md`. La versión reemplazada se archiva en `borradores/capitulo_[N]/`. Sin archivo = Fase 4 no completada.
 - **Resultado esperado:** Borrador literario crudo, explícito y técnicamente sólido.
 
 ### FASE 5: Agente Crítico (`critico.md`) + Contador (`contador.md`)
@@ -108,6 +131,7 @@ Antes de aprobar las fichas, el Orquestador hace una ronda de preguntas para cap
 - **Resultado esperado:** 
   - Sentencia del Crítico con veredicto y calificación (0.0 - 10.0)
   - Reporte del Contador con métricas de cumplimiento
+- **Ubicación del output:** `reportes/capitulo_[N]/`
 
 ### FASE 6: BUCLE DE REFINAMIENTO (Editor → Crítico → Editor)
 
@@ -124,6 +148,7 @@ Antes de aprobar las fichas, el Orquestador hace una ronda de preguntas para cap
      - [ ] ¿Verifiqué español chileno?
   3. Documentar qué se corrigió y qué se mejoró
 - **Output:** Borrador editado con reporte de cambios
+- **Orden:** la nueva iteración reemplaza a la activa en raíz; la anterior se archiva en `borradores/capitulo_[N]/`
 
 #### 6b. Segunda Evaluación del Crítico
 - **Acción:** Enviar el borrador editado de vuelta al Crítico
@@ -179,6 +204,7 @@ A continuación el texto completo para tu lectura.
 - **Acción:** Guardar Gold Master y actualizar walkthrough.
 - **Versión de salida:** `v1.0` — actualizar bloque Control de Versión: Estado: GOLD MASTER. Agregar línea al Historial con fecha de aprobación.
 - **Output:** `capitulo_[N]_maestro_vX.md` + `walkthrough.md` actualizado con estado final
+- **Orden final:** Gold Master en raíz; borradores y reportes permanecen en sus carpetas
 - **Actualizar BITACORA_TEMPORAL.md:** Marcar el capítulo como ✅ GOLD MASTER v1.0 y registrar el estado final del personaje (vestuario, modificaciones, lugar de cierre).
 - **Gate:** *"¿Aprobamos el capítulo, Ama?"*
 
