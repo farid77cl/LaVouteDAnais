@@ -37,7 +37,7 @@
 ---
 
 ## 🧊 Isabel — La Arquitecta / Dominante
-**Concepto:** La Heredera del Orden. Isabel es la calma antes de la tormenta. Descubrir el secreto de Ricardo no la rompió; la completó. Ella es el "Poder que no necesita gritar".
+**Concepto:** La Heredera del Orden. Isabel es la calma antes de la tormenta. Descubrir el secreto de Ricardo no la rompió; la completó. Ella es el "Poder que no necesita gritar", y poco a poco descubre que el control también puede ser sensual sin dejar de ser cruel.
 
 ### Apariencia
 | Atributo | Descripción |
@@ -45,19 +45,20 @@
 | Edad | 42 años |
 | Altura | 1.70 m |
 | Complexión | Delgada, elegante, porte de bailarina de ballet. |
-| Rostro | Rasgos finos y pálidos. Labios delgados que rara vez sonríen, pero que se curvan con una satisfacción fría al ajustar los corchetes de Ricardo. |
+| Rostro | Rasgos finos y pálidos. Labios delgados que rara vez sonríen, pero que se curvan con una satisfacción fría que, a medida que avanza la historia, adquiere un matiz más sensual y seguro al ajustar los corchetes de Ricardo. |
 | Cabello | Negro azabache, cortado en un bob impecable. |
 | Ojos | Verdes oscuros, casi negros en la penumbra del sótano de Zapallar. |
 | Vestimenta | Vestidos de corte minimalista, joyas pequeñas pero auténticas. En el sótano, usa guantes de seda blanca para manipular las piezas de Anaís. |
 
 ### Firma Sensorial
-- **Olfato:** Aroma a lavanda clínica y el olor metálico de las llaves del cinturón de castidad que lleva colgadas al cuello o en su muñeca.
+- **Olfato:** Aroma a lavanda clínica, seda, y el olor metálico de las llaves del cinturón de castidad que lleva colgadas al cuello o en su muñeca.
 - **Tacto:** Sus dedos son fríos y precisos, como los de un cirujano. Sus telas son siempre rígidas (lino, seda pesada).
 - **Sonido:** El clic rítmico de sus tacones sobre el piso de madera de Zapallar, que para Ricardo suena como una cuenta regresiva.
 
 ### Psicología
 - **Motivación:** Venganza pura. Tras 10 años de un matrimonio construido sobre la mentira de las prostitutas y los escapes de Ricardo, Isabel busca cobrar la deuda. Al descubrir el secreto, ella se asume plenamente como la **heredera espiritual de la Tía Anaís**, canalizando la crueldad y el dominio de su antecesora.
 - **Fetiche:** El desmantelamiento de la máscara del "buen esposo" y el "gran ejecutivo". Ver la verdad de Ricardo (Rocío) florecer bajo su control.
+- **Deriva de Dominación:** Parte desde la frialdad punitiva y administrativa. A medida que el control sobre Ricardo se vuelve más exacto, Isabel empieza a encarnar una autoridad más sensual, más ceremoniosa y más dueña de su propio placer de mandar. No imita a Anaïs: hereda su gramática y la vuelve propia.
 
 ---
 

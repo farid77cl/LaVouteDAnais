@@ -6,6 +6,18 @@
 
 ---
 
+## Estado Actual del Capítulo 2
+
+- **Versión activa:** `capitulo_2_el_espejo_humillante_v0.11.md`
+- **Fecha de auditoría:** 2026-04-22
+- **Crítico:** `APROBADO CON EXCELENCIA` — 9.9/10
+- **Contador:** `✅ LISTO PARA REVISIÓN HUMANA`
+- **Centinela:** `✅ APROBADO: Arco y Tiempo sincronizados`
+- **Nota de cirugía aplicada:** Se reforzó la mezcla de excitación y humillación, el deseo por la ropa de época y la administración del placer por Isabel, sin mover la etapa de curva fuera de `CONFUSIÓN (40%)`.
+- **Ajuste nuevo de personaje:** Isabel empieza a asumir el rol de domina con una sensualidad creciente y propia, heredando la estela de Anaïs sin convertirse en una copia literal.
+
+---
+
 ## Resumen de Cambios Solicitados
 
 La Ama ha solicitado modificar el **arco argumental** con los siguientes cambios:
