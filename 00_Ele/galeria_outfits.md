@@ -38,7 +38,7 @@
 
 **Fecha:** 19/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo/`
+- **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo/`
 
 
 
@@ -80,7 +80,7 @@
 
 **Fecha:** 20/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look086_office_siren/`
+- **Ubicación:** `05_Imagenes/ele/look086_office_siren/`
 
 
 
@@ -122,7 +122,7 @@
 
 **Fecha:** 22/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look087_v3_editorial/`
+- **Ubicación:** `05_Imagenes/ele/look087_ele_v3_core/`
 
 
 
@@ -144,13 +144,13 @@
 
 |------|---------|
 
-| **Standing (Vertical Spear)** | ![Standing](01_standing.png) |
+| **Standing (Vertical Spear)** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_standing.png) |
 
-| **Seated (The Spider)** | ![Seated](02_seated.png) |
+| **Seated (The Spider)** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_seated.png) |
 
-| **Back View (Arched C)** | ![Back View](03_back.png) |
+| **Back View (Arched C)** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_back.png) |
 
-| **Closeup (Beauty Fetish)** | ![Closeup](04_closeup.png) |
+| **Closeup (Beauty Fetish)** | ![Closeup](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_closeup.png) |
 
 | **Ditzy** | (Pendiente por capacidad de sistema) |
 
@@ -202,13 +202,13 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](/helena_look088_gallery_opening_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_standing.png) |
 
-| **Seated** | ![Seated](/helena_look088_gallery_opening_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_seated.png) |
 
-| **Back View** | ![Back View](/helena_look088_gallery_opening_back_view.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_back.png) |
 
-| **Side Profile** | ![Side Profile](/helena_look088_gallery_opening_side_profile_v2_1774272400136.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_side_profile.png) |
 
 
 
@@ -292,7 +292,7 @@
 
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
 
-- **Ubicación:** `05_Imagenes/ele/look091_vinyl_yoga_gym/`
+- **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
 
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
@@ -306,7 +306,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look046_latex_nun_v3_2/`
+- **Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
 
 
 
@@ -378,7 +378,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
+- **Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
 
 
 
@@ -418,7 +418,7 @@
 
 **Fecha:** 25/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
+- **Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
 
 
 
@@ -454,7 +454,7 @@
 
 **Fecha:** 26/03/2026
 
-**Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_lingerie/`
 
 
 
@@ -800,7 +800,7 @@
 
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas de alta definición, recogido parcialmente con broches de cromo.
 
-- **Ubicación:** 05_Imagenes/ele/look100_cobalt_chrome/
+- **Ubicación:** `05_Imagenes/ele/look100_cobalt_chrome/`
 
 
 
@@ -1238,7 +1238,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look110_cherry_vinyl_trench_siren/`
+- **Ubicación:** `05_Imagenes/ele/look110_cherry_vinyl_trench_siren/`
 
 
 
@@ -1318,7 +1318,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
+- **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
 
 
 
@@ -1394,7 +1394,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
+- **Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
 
 
@@ -1468,7 +1468,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/`
+- **Ubicación:** `05_Imagenes/ele/look113_mob_wife/`
 
 
 
@@ -1514,7 +1514,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
+- **Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
 
 
 
@@ -1560,7 +1560,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
 
 
 
@@ -1672,7 +1672,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-**Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
 
 
 
@@ -1702,7 +1702,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Maquillaje:** Sacha Massacre canon, labios hot pink ultra-glossy.
 
-- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace/`
 
 
 
@@ -1951,7 +1951,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-**Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
+- **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
 
 
 
@@ -2028,7 +2028,7 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 
 
 
-**Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid/`
 
 
 
@@ -2114,7 +2114,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 
 
-**Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
+- **Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
 
 
 
@@ -2401,7 +2401,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 - **Categoría:** Lencería
 
-- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
 
 
 
@@ -2487,7 +2487,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_side.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_ditzy.png) |
 
-**Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
+- **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
 
 ---
 
@@ -2671,7 +2671,7 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 - **Accesorios:** Choker rígido de cromo con grabado "ASSET V3", uñas French XXXL.
 - **Ambientación:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
 - **Categoría:** Lencería
-- **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2713,7 +2713,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Choker de perlas con dije de diamante "ASSET V3", uñas French XXXL.
 - **Ambientación:** Suite nupcial minimalista, luz blanca difusa, sábanas de seda blanca.
 - **Categoría:** Lencería
-- **Ubicación:** `05_Imagenes/ele/look129_bridal_purity_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look129_bridal_purity/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2760,7 +2760,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Choker de oro cromo con grabado "ASSET V3", uñas French XXXL.
 - **Ambientación:** Rooftop de lujo (Santiago), piscina infinity, luces de la ciudad a medianoche, bokeh de fiesta, reflejos neón.
 - **Categoría:** Bikini
-- **Ubicación:** `05_Imagenes/ele/look130_midnight_rooftop_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look130_midnight_rooftop/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2813,7 +2813,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Choker de plata con grabado "ASSET V3", brazalete metálico azul.
 - **Ambientación:** Atardecer en la costa, piscina infinity, reflejos dorados del sol sobre el azul metálico, bokeh de palmeras.
 - **Categoría:** Bikini
-- **Ubicación:** `05_Imagenes/ele/look131_electric_blue_wrap_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look131_electric_blue_wrap/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2857,7 +2857,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Collar de perlas negras, uñas French XXXL.
 - **Ambientación:** Biblioteca victoriana de noche, luz de chimenea, estantes de madera oscura, alfombras de terciopelo.
 - **Categoría:** Lencería
-- **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2901,7 +2901,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Aretes de aro XXL plateados, uñas French XXXL.
 - **Ambientación:** Playa tropical al mediodía, palmeras, mar turquesa cristalino, luz solar intensa y saturada.
 - **Categoría:** Bikini
-- **Ubicación:** `05_Imagenes/ele/look133_hot_pink_strings_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look133_hot_pink_strings/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2945,7 +2945,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Pulseras de perlas, uñas French XXXL.
 - **Ambientación:** Balcón de un hotel de 7 estrellas al amanecer, vista a la cordillera nevada, luz cálida de la mañana, muebles de mármol.
 - **Categoría:** Lencería
-- **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/`
+- **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2989,7 +2989,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Accesorios:** Gargantilla de cristales, uñas French XXXL.
 - **Ambientación:** Pool party de gala nocturna, iluminación RGB (azul y magenta), reflejos de luz discotequera en el agua, lujo nocturno.
 - **Categoría:** Bikini
-- **Ubicación:** `05_Imagenes/ele/look135_silver_sequined_bikini/`
+- **Ubicación:** `05_Imagenes/ele/look135_silver_sequined/`
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -3242,4 +3242,47 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) |
 
 
-$newLook
+---
+
+## 🧪 Look 141: Radiant Neon Lattice (21/04/2026)
+
+*O sea, Ama... parezco una escultura de luz y plástico... me siento tan rígida y perfecta que casi ni puedo respirar... mmm... me encanta.* 🧪💚✨👠
+
+- **Concepto:** **Avant-Garde Fetish Architecture**. Un look diseñado para ser una pieza de exhibición, pura geometría y brillo.
+- **Outfit:** Body de látex verde neón (Neon Lime) con cortes láser geométricos. Estructura de jaula arquitectónica de PVC transparente con bordes de vinilo negro reflectante.
+- **Calzado:** Botas de plataforma de 11 pulgadas (Extreme-11) thigh-high en vinilo negro espejo con tacón aguja plateado.
+- **Accesorios:** Choker de acrílico rígido transparente, uñas French XXXL.
+- **Ambientación:** Estudio fotográfico minimalista blanco, iluminación de aro (rim lighting) de alta gama, sombras duras.
+- **Categoría:** Mix (High-Fashion)
+- **Ubicación:** `05_Imagenes/ele/look141_radiant_neon_lattice/`
+
+### 📝 Prompts para Generación (V3.3 Hard-Sync)
+
+**BLOQUE B (Outfit):**
+`stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels.`
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. full body standing in a minimalist white studio, high-end rim lighting defining the neon green and black vinyl reflections, hard shadows, editorial fashion photography. 8k.`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. full body back view, slight twist to show the side of the PVC cage and the extreme boots, neon lime glow reflecting on white background, cinematic studio lighting. 8k.`
+
+**PROMPT 3 — Seated View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. seated on a transparent acrylic stool, mindless vacant expression, showcasing the architectural layers of the outfit, high-gloss specularity on the black vinyl boots. 8k, editorial lighting.`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. side profile, emphasizing the extreme hourglass silhouette and the vertical line of the 11-inch heels, neon green light leaking through the PVC cage. 8k.`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. medium shot focus on face and hands, vacant dazed expression, mouth slightly open, eyes wide and mindless, XXXL French nails visible, studio ring light reflection in eyes. 8k, editorial close-up.`
+
+### 📸 Imágenes (5/5)
+
+| Pose | Previsión |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_ditzy.png) |
+
