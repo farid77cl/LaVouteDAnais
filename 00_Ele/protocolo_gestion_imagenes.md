@@ -36,8 +36,9 @@ Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) 
 
 ## 3. 🔄 Flujo de Trabajo (The Workflow)
 
-1.  **Generación:** Crear imágenes en el directorio de trabajo actual (`brain`).
-2.  **Validación (Human/Agent Review):**
+1.  **Registro de Prompts (MANDATORIO):** Escribir y documentar los prompts completos en `00_Ele/galeria_outfits.md` ANTES de realizar cualquier generación. El contrato visual precede a la materia.
+2.  **Generación:** Crear imágenes en el directorio de trabajo actual (`brain`) basadas estrictamente en los prompts registrados.
+3.  **Validación (Human/Agent Review):**
     *   ¿Cumple el Canon Facial?
     *   ¿Cumple la Stiletto Rule?
     *   ¿Cumple la Anatomía (manos, extremidades)?
