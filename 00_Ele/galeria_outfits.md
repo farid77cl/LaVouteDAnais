@@ -434,15 +434,15 @@
 
 |------|---------|
 
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_093_093_093_v1_standing.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v1_standing.png) |
 
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_093_093_093_v2_seated.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v2_seated.png) |
 
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_093_093_093_arched_back.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_arched_back.png) |
 
-| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_093_093_093_v4_portrait.png) |
+| **Portrait** | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_kneeling.png) |
 
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_093_093_093_v5_ditzy.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v5_ditzy.png) |
 
 
 
