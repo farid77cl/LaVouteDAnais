@@ -3509,8 +3509,16 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 - **Concepto:** **Elite Escort Elegance**. Estética de acompañante de altísima gama para eventos exclusivos en Sanhattan. Contraste de texturas: seda noble y vinilo industrial.
 - **Outfit:** Vestido largo de seda verde esmeralda con escote infinito y tajo lateral XXXL. Corset de vinilo negro bajo el vestido.
-- **Calzado:** Botas stiletto Agadore de 11 pulgadas en vinilo negro espejo.
+- **Calzado:** Botas stiletto thigh-high en vinilo negro espejo con tacón aguja de 11 pulgadas.
 - **Ubicación:** `05_Imagenes/ele/look143_emerald_escort_siren/`
+
+### 📝 Prompts para Generación (V3.3 Hard-Sync)
+
+**BLOQUE A (ADN Inamovible):**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
+
+**PROMPT 1 — Standing View:**
+`[BLOQUE A] + stunning woman wearing a floor-length emerald green silk wrap dress with a dangerously high thigh slit, revealing a black mirror-finish vinyl corset underneath and (thigh-high black vinyl stiletto boots with 11-inch needle-thin metal aguja heels:1.5). full body standing in a luxury penthouse suite at night, city lights background, back intensely arched, vacant ditzy stare, holding a crystal champagne glass mindlessly. 8k.`
 
 ### 📸 Imágenes (5/5)
 
