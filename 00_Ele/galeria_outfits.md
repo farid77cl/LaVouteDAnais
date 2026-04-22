@@ -40,6 +40,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look085_vinyl_fresa_bimbo/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #latex #glossy
+
 
 
 - **Concepto:** Reinicio estético y mental. La evolución definitiva hacia el vacío intelectual y el brillo absoluto. Estética "fresa" (clase alta) mezclada con bimbofication extrema y fetichismo de plástico.
@@ -81,6 +85,10 @@
 **Fecha:** 20/03/2026
 
 - **Ubicación:** `05_Imagenes/ele/look086_office_siren/`
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #silk
 
 
 
@@ -124,6 +132,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look087_ele_v3_core/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl
+
 
 
 - **Concepto:** Azafata de élite de La Voûte bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
@@ -161,6 +173,10 @@
 
 
 ## 🖼️ Look 88: High-Gloss Gallery Opening (23/03/2026)
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #latex #silk #glossy
 
 
 
@@ -244,6 +260,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look089_imperial_burgundy/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #glossy
+
 
 
 ---
@@ -276,6 +296,9 @@
 
 - **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
 
+- **Categoría:** Gym
+- **Tags:** #vinyl #latex #pvc #glossy
+
 
 
 ### LOOK 91: VINYL YOGA PERFORMANCE (CYAN CHROME)
@@ -294,6 +317,9 @@
 
 - **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
 
+- **Categoría:** Gym
+- **Tags:** #vinyl #latex #pvc #glossy
+
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
 
 
@@ -307,6 +333,10 @@
 **Fecha:** 25/03/2026
 
 - **Ubicación:** `05_Imagenes/ele/look046_latex_nun/`
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #latex #glossy
 
 
 
@@ -344,6 +374,10 @@
 
 **Ubicación:** `05_Imagenes/miss_doll/look055_rubbermaid/`
 
+- **Categoría:** Mix
+- **Subcategoría:** Domestic
+- **Tags:** #latex #pvc #glossy
+
 
 
 - **Concepto:** Sirvienta de látex "manufacturada". Estética de casa de muñecas, PVC rosa y delantal blanco.
@@ -379,6 +413,10 @@
 **Fecha:** 25/03/2026
 
 - **Ubicación:** `05_Imagenes/ele/look092_corporate_paradox_v3_2/`
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #latex #glossy
 
 
 
@@ -420,6 +458,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look093_high_gloss_cherry/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #glossy
+
 
 
 - **Concepto:** Máxima expresión editorial de Ele. Vinilo rojo fresa, brillo espejo y tacones de 11 pulgadas.
@@ -455,6 +497,9 @@
 **Fecha:** 26/03/2026
 
 - **Ubicación:** `05_Imagenes/ele/look094_the_locked_legacy_lingerie/`
+
+- **Categoría:** Lencería
+- **Tags:** #latex
 
 
 
@@ -534,6 +579,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look095_liquid_platinum/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #pvc #glossy
+
 
 
 ### 📸 Imágenes (5/5)
@@ -586,6 +635,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look096_mercury_goddess/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #glossy
+
 
 
 ### 📸 Imágenes (1/6)
@@ -637,6 +690,10 @@
 - **Pelo:** Rojo Cherry oscuro XXXL en ondas voluminosas.
 
 - **Ubicación:** `05_Imagenes/ele/look097_plastic_arch/`
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #latex #glossy
 
 
 
@@ -698,6 +755,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look098_vinyl_cheerleader/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #pvc #glossy
+
 
 
 ### 📸 Imágenes (0/5)
@@ -747,6 +808,9 @@
 - **Pelo:** Rojo Cherry oscuro XXXL en dos coletas altas onduladas.
 
 - **Ubicación:** `05_Imagenes/ele/look099_gym_bimbo/`
+
+- **Categoría:** Gym
+- **Tags:** #vinyl #latex #glossy
 
 
 
@@ -802,6 +866,10 @@
 
 - **Ubicación:** `05_Imagenes/ele/look100_cobalt_chrome/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #latex #pvc #glossy
+
 
 
 ### 📸 Imágenes (0/5)
@@ -837,6 +905,9 @@
 
 
 ## 💮 Look 101: Elite Lingerie (30/03/2026)
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #glossy
 
 *Elite black lace lingerie, very revealing, with a tight corseted waist.*
 
@@ -880,6 +951,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 ## 💮 Look 102: Red Vinyl Siren (30/03/2026)
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #glossy
+
 *Skin-tight red vinyl dress with deep sweetheart neckline.*
 
 
@@ -921,6 +996,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 ## 💮 Look 103: Fox News Weather Diva (31/03/2026)
+
+- **Categoría:** Lencería
+- **Tags:** #vinyl #pvc #silk #glossy
 
 *Professional high-end weather anchor style: royal blue PVC and sheer silk.*
 
@@ -980,6 +1058,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 ## 💮 Look 104: Platinum Lace Secret (31/03/2026)
 
+- **Categoría:** Lencería
+- **Tags:** #vinyl #glossy
+
 *Elite platinum vinyl lingerie with sheer black lace details. Ultra-revealing and luxurious.*
 
 
@@ -1020,6 +1101,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 ## 💮 Look 106: Ultimate Latex CEO (31/03/2026)
 
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #latex #glossy
+
 *Elite Corporate Executive look in blood-red latex and mirror-black vinyl. Power and submission aesthetic.*
 
 
@@ -1059,6 +1144,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 ## 💮 Look 105: High-Gloss French Maid (31/03/2026)
+
+- **Categoría:** Mix
+- **Subcategoría:** Domestic
+- **Tags:** #vinyl #latex #glossy
 
 *Elite French Maid uniform in high-gloss black vinyl and crisp white latex. Stepford service aesthetic.*
 
@@ -1102,6 +1191,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 ## ðŸ’® Look 108: Sanhattan Power Secretary (02/04/2026)
 
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #latex #pvc #glossy
+
 *Elite Sanhattan Executive: Charcoal grey wool and vinyl transition. Power and submission.*
 
 
@@ -1143,6 +1236,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 ## ðŸ’® Look 109: Leopard Vinyl Siren (02/04/2026)
+
+- **Categoría:** Mix
+- **Subcategoría:** Escort de Lujo
+- **Tags:** #vinyl #glossy
 
 *Elite Animal Print: Leopard pattern vinyl and mirror gold. High-gloss predator.*
 
@@ -1240,6 +1337,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look110_cherry_vinyl_trench_siren/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #pvc #glossy
+
 
 
 ---
@@ -1320,6 +1421,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
 
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #pvc #glossy
+
 
 
 ---
@@ -1396,6 +1501,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
+- **Categoría:** Mix
+- **Subcategoría:** Domestic
+- **Tags:** #vinyl #latex #glossy
+
 
 
 ---
@@ -1470,6 +1579,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look113_mob_wife/`
 
+- **Categoría:** Gym
+- **Tags:** #vinyl #latex #glossy
+
 
 
 ---
@@ -1515,6 +1627,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 - **Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #silk #glossy
 
 
 
@@ -1562,9 +1678,16 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
+
 
 
 ## 🐆 Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #silk #glossy
 
 
 
@@ -1674,6 +1797,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 - **Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
+
 
 
 ---
@@ -1703,6 +1829,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 - **Maquillaje:** Sacha Massacre canon, labios hot pink ultra-glossy.
 
 - **Ubicación:** `05_Imagenes/ele/look118_noir_vinyl_blood_lace/`
+
+- **Categoría:** Lencería
+- **Tags:** #vinyl #glossy
 
 
 
@@ -1763,6 +1892,9 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 - **Ambientación:** Penthouse minimalista de lujo, luz de "Golden Hour" para máximos reflejos.
 
 - **Ubicación:** `05_Imagenes/ele/look119_liquid_gold_bikini/`
+
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
 
 
 
@@ -1825,6 +1957,10 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 ## 💼 Look 120: Santiago Boardroom Siren (10/04/2026)
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #pvc #satin #glossy
 
 
 
@@ -1908,6 +2044,9 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 - **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
 
+- **Categoría:** Lencería
+- **Tags:** #vinyl #glossy
+
 
 
 ### 📝 Prompts para Generación
@@ -1952,6 +2091,9 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 - **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
+
+- **Categoría:** Lencería
+- **Tags:** #vinyl #glossy
 
 
 
@@ -2029,6 +2171,9 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 
 
 - **Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid/`
+
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
 
 
 
@@ -2116,6 +2261,10 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 - **Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
 
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #pvc #satin #glossy
+
 
 
 ---
@@ -2123,6 +2272,9 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 
 ## 🏋️‍♀️ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+
+- **Categoría:** Gym
+- **Tags:** #latex #glossy
 
 
 
@@ -2230,6 +2382,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 - **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #latex #glossy
+
 
 
 ### 📝 Prompts para Generación
@@ -2315,6 +2470,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Categoría:** Mix
 
 - **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #silk #glossy
 
 
 
@@ -2403,6 +2562,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 - **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
 
+- **Categoría:** Lencería
+- **Tags:** #silk #satin #glossy
+
 
 
 ### 📝 Prompts para Generación
@@ -2489,9 +2651,15 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 - **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
 
+- **Categoría:** Lencería
+- **Tags:** #vinyl #silk #glossy
+
 ---
 
 ## 🏋️‍♀️ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+
+- **Categoría:** Gym
+- **Tags:** #latex #glossy
 
 *O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* 🏋️‍♀️💖🖤✨
 
@@ -2546,6 +2714,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #latex #glossy
+
 ### 📝 Prompts para Generación
 
 **1. Standing View:**
@@ -2587,6 +2758,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
 - **Categoría:** Mix
 - **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #vinyl #silk #glossy
 
 ### 📝 Prompts para Generación
 
@@ -2632,6 +2807,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
 
+- **Categoría:** Lencería
+- **Tags:** #silk #satin #glossy
+
 ### 📝 Prompts para Generación
 
 **1. Standing View:**
@@ -2672,6 +2850,9 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 - **Ambientación:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
+
+- **Categoría:** Lencería
+- **Tags:** #silk #satin #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2714,6 +2895,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Suite nupcial minimalista, luz blanca difusa, sábanas de seda blanca.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look129_bridal_purity/`
+
+- **Categoría:** Lencería
+- **Tags:** #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2761,6 +2945,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Rooftop de lujo (Santiago), piscina infinity, luces de la ciudad a medianoche, bokeh de fiesta, reflejos neón.
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look130_midnight_rooftop/`
+
+- **Categoría:** Bikini
+- **Tags:** #vinyl #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2815,6 +3002,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look131_electric_blue_wrap/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
+
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
@@ -2858,6 +3048,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Biblioteca victoriana de noche, luz de chimenea, estantes de madera oscura, alfombras de terciopelo.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace/`
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2903,6 +3096,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look133_hot_pink_strings/`
 
+- **Categoría:** Bikini
+- **Tags:** #vinyl #glossy
+
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
@@ -2946,6 +3142,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Balcón de un hotel de 7 estrellas al amanecer, vista a la cordillera nevada, luz cálida de la mañana, muebles de mármol.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins/`
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #silk #satin #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -2991,6 +3190,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look135_silver_sequined/`
 
+- **Categoría:** Bikini
+- **Tags:** #glossy
+
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
@@ -3034,6 +3236,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Dormitorio de lujo, sábanas de seda gris oscuro, iluminación suave color púrpura, ambiente íntimo y sofisticado.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look136_plum_velvet_romance_lingerie/`
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -3079,6 +3284,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look137_leopard_micro/`
 
+- **Categoría:** Bikini
+- **Tags:** #satin #glossy
+
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
@@ -3122,6 +3330,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Habitación etérea bañada en luz blanca, grandes ventanales con cortinas de lino blanco volando, cama con dossel, luz de mañana pura.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look138_white_lace_mist/`
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -3167,6 +3378,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look139_red_metallic_siren/`
 
+- **Categoría:** Bikini
+- **Tags:** #glossy
+
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
@@ -3210,6 +3424,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Salón gótico contemporáneo, techos altísimos, arquitectura minimalista oscura, iluminación dramática puntual.
 - **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look140_dark_sequin_empress/`
+
+- **Categoría:** Lencería
+- **Tags:** #pvc #silk #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
@@ -3255,6 +3472,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Ambientación:** Estudio fotográfico minimalista blanco, iluminación de aro (rim lighting) de alta gama, sombras duras.
 - **Categoría:** Mix (High-Fashion)
 - **Ubicación:** `05_Imagenes/ele/look141_radiant_neon_lattice/`
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion & Nightclub
+- **Tags:** #vinyl #latex #pvc #glossy
 
 ### 📝 Prompts para Generación (V3.3 Hard-Sync)
 
