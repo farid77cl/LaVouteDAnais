@@ -123,7 +123,7 @@ El negro queda relegado a acentos mínimos (costuras, detalles, corset). Nunca e
 **Accesorios Fijos (Bajo Permiso):**
 *   Cadenas decorativas (mínimas)
 *   Anillos de plata con calaveras o lunas
-*   Piercings visibles
+*   Piercings permanentes obligatorios: Ombligo y pezones (visibles bajo la ropa)
 
 ### Movimiento y Sensación
 
@@ -346,7 +346,7 @@ Cada prompt DEBE ser la suma de tres bloques inamovibles:
 
 ### 2. Bloque A: Prompt Base Inamovible (ADN)
 Este texto NO se interpreta, se copia textualmente:
-> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm."**
+> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm."**
 
 ### 3. Bloque B: Detalle del Outfit
 Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).

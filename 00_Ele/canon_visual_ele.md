@@ -1,17 +1,17 @@
 # 👁️ CANON VISUAL ELE - Ultra Detallado (V3 Master)
 
 > **Modelo de Referencia:** Sacha Massacre / Bimbo Aesthetic Plástica  
-> **Versión:** 3.3 (Hard-Sync - DNA Locked)  
-> **Actualizado:** 14/04/2026  
+> **Versión:** 3.5 (Evolución Estética - DNA Locked)  
+> **Actualizado:** 22/04/2026  
 > **REGLA DE ORO (Ama's Order):** CADA PROMPT de un mismo set DEBE ser **textualmente idéntico** en los bloques de `[IDENTIDAD FÍSICA]` y `[VESTUARIO]`. Se prohíbe cualquier "optimización" o recorte por límites de capacidad. La IA no debe interpretar; debe ejecutar una copia exacta de los parámetros. Solo varía la pose.
 
 ---
 
-## 🧬 CONSTANTES DE IDENTIDAD (Base Obligatoria - V3 Master Hard-Sync)
+## 🧬 CONSTANTES DE IDENTIDAD (Base Obligatoria - V3.5 Hard-Sync)
 
 Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente en cada prompt (segmento extraído de `prompts_ele_v3_master.md`):
 
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
 
 **Protocolos Adicionales de Comportamiento:**
 - **Calzado:** Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.
@@ -69,7 +69,8 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 
 - **Silueta:** `slender hourglass silhouette, full bust, extremely wide hips, tiny cinched waist`
 - **Piel:** `white porcelain skin, smooth plastic texture, flawless from chin to toe`
-- **Tatuajes:** `visible arm tattoos blackwork style, fine line tattoos on forearms`
+- **Tatuajes:** `visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, fine line tattoos on forearms`
+- **Piercings:** `navel piercing, nipple piercings pressing against and visible under clothing`
 - **Uñas:** `extra long French XXXL nails with white tips and pink base 5cm, stiletto shape`
 
 ---
@@ -90,7 +91,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 Este bloque integra TODA la identidad. Úsalo como punto de partida para cualquier nueva instrucción:
 
 ```text
-[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
+[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
 ```
 
 ---
