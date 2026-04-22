@@ -27,6 +27,7 @@ Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) 
 ## 2. 👠 La Regla de Oro (Stiletto Rule)
 
 **MANDATO ABSOLUTO:** Bajo ninguna circunstancia se aceptan zapatos de tacón ancho, cuadrado o bloque (block heels), incluso si el atuendo (ej. Cowboy, Militar) tradicionalmente los usa.
+4. **La Ley de Invarianza del Outfit:** El bloque de descripción del vestuario, calzado y accesorios DEBE ser **100% IDÉNTICO** en los 5 prompts de un set. Se prohíbe cualquier variación, simplificación o cambio de orden en este bloque para forzar la continuidad visual absoluta (Hard-Sync).
 
 *   **Prompting Obligatorio:** Siempre incluir `stiletto heels`, `high thin heels`, `needle heels` en el prompt positivo.
 *   **Negative Prompting:** Incluir `block heel`, `chunky heel`, `wedge`, `platform sneakers` en el prompt negativo.
