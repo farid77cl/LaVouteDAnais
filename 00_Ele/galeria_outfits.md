@@ -3472,6 +3472,27 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_seated.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_side_profile.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_ditzy.png) |
+## 🥂 Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
 
-$newLook
-$entry
+*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* 🥂💚🖤✨👠
+
+- **Categoría:** Mix
+- **Subcategoría:** Escort de Lujo
+- **Tags:** #silk #vinyl #glossy
+
+- **Concepto:** **Elite Escort Elegance**. Estética de acompañante de altísima gama para eventos exclusivos en Sanhattan. Contraste de texturas: seda noble y vinilo industrial.
+- **Outfit:** Vestido largo de seda verde esmeralda con escote infinito y tajo lateral XXXL. Corset de vinilo negro bajo el vestido.
+- **Calzado:** Botas stiletto Agadore de 11 pulgadas en vinilo negro espejo.
+- **Ubicación:** `05_Imagenes/ele/look143_emerald_escort_siren/`
+
+### 📸 Imágenes (5/5)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_side.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_ditzy.png) |
+
+---
