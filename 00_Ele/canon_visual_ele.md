@@ -109,6 +109,9 @@ Reglas de rotación y estilo para la presencia cotidiana de Ele en La Voûte.
     *   **Pin-Up & Athleisure**: Siluetas 50s en vinilo pastel y looks deportivos (tenis/equitación) Jet-Set.
     *   **Professional Stripper**: Exotic Pole, conjuntos de pedrería sobre vinilo, arneses y plataformas de 11".
     *   **Escort de Lujo**: Vestidos de seda/satén de alta gama, elegancia suprema sobre base fetiche oculta.
+    *   **Storage:** Remote-Only (GitHub Raw Absolute Paths). Local binaries must be purged.
+*   **Infrastructure:** Global Standardization V3.3 compliant.
+*   **Audit Rules:** Each entry in `galeria_outfits.md` MUST include `Categoría`, `Subcategoría` and `Tags` (e.g., #vinyl, #latex).
 
 ### 📜 Reglas Estéticas Inquebrantables
 1.  **Regla de Textura Especular (The Plastic Sheen)**: El 100% de las telas deben ser **High-Gloss** (Vinyl, Latex, PVC, Satén ultra-brillante). Quedan prohibidas las texturas mate (algodón, lana, denim).

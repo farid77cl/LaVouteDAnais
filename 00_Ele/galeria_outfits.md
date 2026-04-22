@@ -2711,9 +2711,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
   - Uñas French XXXL — puntas blancas, base rosa.
 - **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
 - **Ambientación:** Penthouse en Zapallar, luz de "Golden Hour", reflejos del mar en el vinilo.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look125_sapphire_glow_bikini/`
-
 - **Categoría:** Bikini
 - **Tags:** #vinyl #latex #glossy
 
@@ -2756,9 +2754,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
   - Uñas French XXXL — puntas blancas, base rosa.
 - **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
 - **Ambientación:** Rooftop Lounge de lujo, Santiago, Chile. Piso de cristal, skyline de fondo, iluminación editorial nocturna / crepúsculo.
-- **Categoría:** Mix
 - **Ubicación:** `05_Imagenes/ele/look126_mirror_platinum_ceo/`
-
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #vinyl #silk #glossy
@@ -2804,9 +2800,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
   - Uñas French XXXL — puntas blancas, base rosa.
 - **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy.
 - **Ambientación:** Suite de lujo, iluminación cálida de boudoir, sombras suaves, sábanas de raso negro.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look127_silk_noir_lace/`
-
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 
@@ -2848,9 +2842,7 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 - **Calzado:** Plataformas Pleaser de 8 pulgadas en charol negro (Flamingo-808).
 - **Accesorios:** Choker rígido de cromo con grabado "ASSET V3", uñas French XXXL.
 - **Ambientación:** Suite de lujo con cortinas de terciopelo rojo, iluminación editorial cálida, sombras suaves.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
-
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 
@@ -2893,9 +2885,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en charol blanco (Flamingo-808 White).
 - **Accesorios:** Choker de perlas con dije de diamante "ASSET V3", uñas French XXXL.
 - **Ambientación:** Suite nupcial minimalista, luz blanca difusa, sábanas de seda blanca.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look129_bridal_purity/`
-
 - **Categoría:** Lencería
 - **Tags:** #silk #glossy
 
@@ -2943,9 +2933,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en oro cromo espejo (Flamingo-808 Chrome Gold).
 - **Accesorios:** Choker de oro cromo con grabado "ASSET V3", uñas French XXXL.
 - **Ambientación:** Rooftop de lujo (Santiago), piscina infinity, luces de la ciudad a medianoche, bokeh de fiesta, reflejos neón.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look130_midnight_rooftop/`
-
 - **Categoría:** Bikini
 - **Tags:** #vinyl #silk #glossy
 
@@ -2999,9 +2987,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en azul cromo espejo (Flamingo-808 Chrome Blue).
 - **Accesorios:** Choker de plata con grabado "ASSET V3", brazalete metálico azul.
 - **Ambientación:** Atardecer en la costa, piscina infinity, reflejos dorados del sol sobre el azul metálico, bokeh de palmeras.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look131_electric_blue_wrap/`
-
 - **Categoría:** Bikini
 - **Tags:** #vinyl #glossy
 
@@ -3046,9 +3032,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en seda verde esmeralda mate (Flamingo-808 Silk Emerald).
 - **Accesorios:** Collar de perlas negras, uñas French XXXL.
 - **Ambientación:** Biblioteca victoriana de noche, luz de chimenea, estantes de madera oscura, alfombras de terciopelo.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look132_emerald_silk_lace/`
-
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
@@ -3093,9 +3077,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en acrílico transparente con base fucsia neón (Flamingo-808 Neon Pink).
 - **Accesorios:** Aretes de aro XXL plateados, uñas French XXXL.
 - **Ambientación:** Playa tropical al mediodía, palmeras, mar turquesa cristalino, luz solar intensa y saturada.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look133_hot_pink_strings/`
-
 - **Categoría:** Bikini
 - **Tags:** #vinyl #glossy
 
@@ -3140,9 +3122,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Sandalias de plataformas de 11 pulgadas con tiras de oro y diamantes (Flamingo-808 Gold Jewel).
 - **Accesorios:** Pulseras de perlas, uñas French XXXL.
 - **Ambientación:** Balcón de un hotel de 7 estrellas al amanecer, vista a la cordillera nevada, luz cálida de la mañana, muebles de mármol.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look134_champagne_silk_sequins/`
-
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #satin #glossy
 
@@ -3187,9 +3167,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en plata cromo espejo (Flamingo-808 Chrome Silver).
 - **Accesorios:** Gargantilla de cristales, uñas French XXXL.
 - **Ambientación:** Pool party de gala nocturna, iluminación RGB (azul y magenta), reflejos de luz discotequera en el agua, lujo nocturno.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look135_silver_sequined/`
-
 - **Categoría:** Bikini
 - **Tags:** #glossy
 
@@ -3234,9 +3212,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en terciopelo púrpura a juego (Flamingo-808 Velvet Plum).
 - **Accesorios:** Choker de terciopelo negro con dije de plata, uñas French XXXL.
 - **Ambientación:** Dormitorio de lujo, sábanas de seda gris oscuro, iluminación suave color púrpura, ambiente íntimo y sofisticado.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look136_plum_velvet_romance_lingerie/`
-
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
@@ -3281,9 +3257,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas con estampado de leopardo a juego (Flamingo-808 Leopard).
 - **Accesorios:** Brazaletes dorados anchos, uñas French XXXL.
 - **Ambientación:** Jardín botánico exótico o selva tropical bajo el sol, vegetación densa, luz filtrada a través de las hojas, lujo salvaje.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look137_leopard_micro/`
-
 - **Categoría:** Bikini
 - **Tags:** #satin #glossy
 
@@ -3328,9 +3302,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Mules de plataformas de 11 pulgadas cubiertas en seda blanca con detalle de plumas de avestruz (Flamingo-801 Silk White).
 - **Accesorios:** Diadema de seda blanca, uñas French XXXL.
 - **Ambientación:** Habitación etérea bañada en luz blanca, grandes ventanales con cortinas de lino blanco volando, cama con dossel, luz de mañana pura.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look138_white_lace_mist/`
-
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
@@ -3375,9 +3347,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en rojo cromo sangriento (Flamingo-808 Chrome Red).
 - **Accesorios:** Choker de plata, uñas French XXXL.
 - **Ambientación:** Playa de arena negra volcánica al atardecer, cielo naranja y violeta, contraste extremo entre el rojo metálico y el negro de la arena.
-- **Categoría:** Bikini
 - **Ubicación:** `05_Imagenes/ele/look139_red_metallic_siren/`
-
 - **Categoría:** Bikini
 - **Tags:** #glossy
 
@@ -3422,9 +3392,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas Pleaser de 11 pulgadas en obsidiana negra pulida (Flamingo-808 Chrome Black).
 - **Accesorios:** Guantes de encaje negro cortos, uñas French XXXL.
 - **Ambientación:** Salón gótico contemporáneo, techos altísimos, arquitectura minimalista oscura, iluminación dramática puntual.
-- **Categoría:** Lencería
 - **Ubicación:** `05_Imagenes/ele/look140_dark_sequin_empress/`
-
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
@@ -3470,9 +3438,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Botas de plataforma de 11 pulgadas (Extreme-11) thigh-high en vinilo negro espejo con tacón aguja plateado.
 - **Accesorios:** Choker de acrílico rígido transparente, uñas French XXXL.
 - **Ambientación:** Estudio fotográfico minimalista blanco, iluminación de aro (rim lighting) de alta gama, sombras duras.
-- **Categoría:** Mix (High-Fashion)
 - **Ubicación:** `05_Imagenes/ele/look141_radiant_neon_lattice/`
-
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #pvc #glossy
