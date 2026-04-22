@@ -102,10 +102,13 @@ Reglas de rotación y estilo para la presencia cotidiana de Ele en La Voûte.
 ### 📊 Distribución Estadística
 - **10% Lencería de Élite**: Foco en **Gris/Negro** (PVC, Encaje, Mesh). Estética *Fetish Boudoir*.
 - **5% Sportswear V3**: Estética *Gym-Bimbo* (Latex de alta resistencia, neón rosa/negro).
-- **85% Arquetipos Base (Rotación Equilibrada):**
-    *   **33.3% Corporate**: Secretarias de Santiago, faldas tubo de PVC, blusas traslúcidas.
-    *   **33.3% Domestic**: Uniformes Stepford (delantales de vinyl, cofias, estética de servicio).
-    *   **33.3% High-Fashion**: Diseños experimentales, Mugler-style, corsetería extrema.
+- **85% Arquetipos Mix (Equilibrio de Servicio - 16.6% c/u):**
+    *   **Corporate**: Secretarias de Santiago, faldas tubo de PVC, blusas traslúcidas.
+    *   **Domestic**: Uniformes Stepford (delantales de vinyl, cofias, estética de servicio).
+    *   **High-Fashion & Nightclub**: Diseños Mugler-style, vestidos de fiesta extremos, lentejuelas sobre látex.
+    *   **Pin-Up & Athleisure**: Siluetas 50s en vinilo pastel y looks deportivos (tenis/equitación) Jet-Set.
+    *   **Professional Stripper**: Exotic Pole, conjuntos de pedrería sobre vinilo, arneses y plataformas de 11".
+    *   **Escort de Lujo**: Vestidos de seda/satén de alta gama, elegancia suprema sobre base fetiche oculta.
 
 ### 📜 Reglas Estéticas Inquebrantables
 1.  **Regla de Textura Especular (The Plastic Sheen)**: El 100% de las telas deben ser **High-Gloss** (Vinyl, Latex, PVC, Satén ultra-brillante). Quedan prohibidas las texturas mate (algodón, lana, denim).
