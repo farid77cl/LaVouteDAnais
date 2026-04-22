@@ -3567,14 +3567,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. medium shot, vacant ditzy expression, mouth mindlessly open, lost gaze, wiping non-existent sweat with her hand, XXXL French nails visible, tennis court background blurred. 8k, editorial close-up.`
-### 📸 Imágenes (0/5 - Pending Generation)
+### 📸 Imágenes (2/5 - Poses 3, 4, 5 Pending Redo)
 
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_side.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) |
+| **Seated** | ⏳ *Pending Redo (Full V3.5 Standard)* |
+| **Side Profile** | ⏳ *Pending Redo (Full V3.5 Standard)* |
+| **Ditzy** | ⏳ *Pending Redo (Full V3.5 Standard)* |
 
 ---
