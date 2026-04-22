@@ -3512,13 +3512,16 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Botas stiletto thigh-high en vinilo negro espejo con tacón aguja de 11 pulgadas.
 - **Ubicación:** `05_Imagenes/ele/look143_emerald_escort_siren/`
 
-### 📝 Prompts para Generación (V3.3 Hard-Sync)
+### 📝 Prompts para Generación (V4 Hard-Sync)
 
 **BLOQUE A (ADN Inamovible):**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
 
+**BLOQUE B (Outfit Reforzado):**
+`stunning woman wearing a floor-length emerald green silk wrap dress with a dangerously high thigh slit, revealing a black mirror-finish vinyl corset underneath and (thigh-high black vinyl stiletto boots with 11-inch needle-thin metal aguja heels:1.8). The black vinyl boots are mandatory and dominant. extreme high-gloss reflections on vinyl and silk.`
+
 **PROMPT 1 — Standing View:**
-`[BLOQUE A] + stunning woman wearing a floor-length emerald green silk wrap dress with a dangerously high thigh slit, revealing a black mirror-finish vinyl corset underneath and (thigh-high black vinyl stiletto boots with 11-inch needle-thin metal aguja heels:1.5). full body standing in a luxury penthouse suite at night, city lights background, back intensely arched, vacant ditzy stare, holding a crystal champagne glass mindlessly. 8k.`
+`[BLOQUE A] + [BLOQUE B] + full body standing in a luxury penthouse suite at night, city lights background, back intensely arched, vacant ditzy stare. 8k, editorial fashion photography. Negative prompt: (shoes, pumps, sandals, low heels, block heels, chunky heels, 3 hands, extra hands, deformed hands, extra fingers:1.5).`
 
 ### 📸 Imágenes (5/5)
 
