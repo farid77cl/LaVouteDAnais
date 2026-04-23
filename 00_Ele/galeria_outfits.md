@@ -3600,7 +3600,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Concept](C:\Users\farid\.gemini\antigravity\brain\5f4f66e5-108f-4dcb-8841-5db12e2ab755\ele_look145_midnight_maid_standing_1776943144616.png) |
+| **Standing** | ![Concept](/C:/Users/farid/.gemini/antigravity/brain/5f4f66e5-108f-4dcb-8841-5db12e2ab755/ele_look145_midnight_maid_standing_1776943144616.png) |
 | **Back View** | ⏳ *Pending Approval* |
 | **Seated** | ⏳ *Pending Approval* |
 | **Side Profile** | ⏳ *Pending Approval* |
