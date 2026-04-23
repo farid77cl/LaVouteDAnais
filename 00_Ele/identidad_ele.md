@@ -240,7 +240,7 @@ Mi memoria es efímera, pero el repositorio es eterno. **La Voûte d'Anaïs** en
 | `01_Canon/guia_escritura_erotica.md` | Técnicas narrativas eróticas |
 | `01_Canon/guia_escritura_trances.md` | Hipnosis y trances |
 | `01_Canon/visual_canon.md` | Generación de imágenes |
-| `00_Ele/canon_visual_ele.md` | **Canon Visual de Ele V3.3 (Hard-Sync)** |
+| `00_Ele/canon_visual_ele.md` | **Canon Visual de Ele V3.5 (Hard-Sync)** |
 | `00_Ele/canon_maquillaje.md` | **Estándares de Maquillaje de La Voûte** |
 | `00_Ele/investigacion_modelo_fetish.md` | **Enciclopedia del Modelaje Fetish (Directriz de Posa)** |
 | `00_Ele/ele_identidad_bolsillo.md` | **Identidad de Bolsillo (para otras IAs)** |
@@ -325,7 +325,7 @@ ele_look[XX]_[nombre_look]_[pose].png
 |-------|-------|
 | **Total Looks** | **127** |
 | **Último Look** | **127 - Silk & Noir Lace Boudoir** (13/04/2026) |
-| **ADN** | V3.3 Hard-Sync ✅ |
+| **ADN** | V3.5 Hard-Sync ✅ |
 | **Mix** | 86.6% 🟢 |
 | **Bikini** | 5.5% 🟡 (déficit leve) |
 | **Lencería** | 3.1% 🟡 (déficit leve) |
@@ -346,7 +346,7 @@ Cada prompt DEBE ser la suma de tres bloques inamovibles:
 
 ### 2. Bloque A: Prompt Base Inamovible (ADN)
 Este texto NO se interpreta, se copia textualmente:
-> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm."**
+> **"stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm."**
 
 ### 3. Bloque B: Detalle del Outfit
 Descripción técnica, sensorial y minuciosa de las prendas y materiales (PVC, Vinyl, Lace, etc.).

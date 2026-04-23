@@ -9,7 +9,16 @@ El relato abre con el cambio de cuerpos ya consumado. Un hombre despierta dentro
 La historia no parte con la metamorfosis, sino con la condena ya instalada: ahora tiene que habitar la obra que antes dirigia desde afuera.
 
 ## 2. Premisa Dramatica
-Antes del cambio, la relacion estaba construida sobre dependencia, admiracion y microcontrol. El no necesitaba dar grandes ordenes. Le bastaba con comentar, corregir y sugerir como si siempre buscara "su mejor version". Frases como "no crees que el gimnasio te haria mejor", "ese rubio te favoreceria mas", "con tacones no te verias tan baja" o "ese maquillaje te ordena la cara" iban desplazando poco a poco sus propios criterios.
+
+### El Dia 0
+El **Dia 0** es el dia del intercambio de cuerpos. Es el punto de partida del presente narrativo. Todo lo que ocurre antes de esa fecha existe en los racconto. Todo lo que ocurre ese dia en adelante es el presente del relato.
+
+### La Relacion Anterior
+La relacion entre los dos protagonistas es larga: llevan **muchos anos juntos**. El la conoce desde hace tiempo y el vinculo tiene capas historicas. No es una relacion nueva ni superficial — lo que hace mas profunda la traicion del microcontrol: el construyo su autoridad sobre ella durante anos, con paciencia, sin prisa y con la apariencia de quien solo quiere lo mejor para la persona que ama.
+
+Antes del Dia 0, la relacion estaba construida sobre dependencia, admiracion y microcontrol acumulado. El no necesitaba dar grandes ordenes. Le bastaba con comentar, corregir y sugerir como si siempre buscara "su mejor version". Frases como "no crees que el gimnasio te haria mejor", "ese rubio te favoreceria mas", "con tacones no te verias tan baja" o "ese maquillaje te ordena la cara" iban desplazando poco a poco sus propios criterios.
+
+Los racconto deben revelar esa transformacion en capas: como era ella cuando la conocio, como fue cambiando con cada ano, como el fue instalando sus preferencias como si fueran el criterio natural de ella. No es una caida rapida — es un proceso lento, elegante y casi imperceptible, que hace que al llegar al Dia 0 el resultado parezca inevitable.
 
 Ese refinamiento no se quedaba en la imagen privada. El tambien la fue empujando hacia una version cada vez mas exhibible y rentable de esa feminidad: clases de pole dance, entrenamiento de movimientos y el inicio de un proceso para que terminara trabajando en un club de strippers como culminacion "natural" de todo lo que venia construyendo en ella.
 
@@ -25,8 +34,10 @@ Despues del cambio de cuerpos, ella, ahora en el cuerpo de el, le devuelve exact
 
 ## 3. Mecanica Narrativa
 La estructura combina dos planos:
-- **Presente:** el protagonista masculino atrapado en el cuerpo de su pareja cumple rutinas de belleza, presentacion y mantenimiento corporal bajo supervision de ella.
-- **Flashbacks:** se reconstruye como la relacion llego a ese punto y como el fue conviertiendola en una fantasia bimbo fabricada a su medida.
+- **Presente (Dia 0 en adelante):** el protagonista masculino atrapado en el cuerpo de su pareja cumple rutinas de belleza, presentacion y mantenimiento corporal bajo supervision de ella.
+- **Racconto (antes del Dia 0):** se reconstruye la historia larga de la relacion — como la conocio, como fue cambiando con los anos, como el fue instalando el microcontrol capa por capa hasta llegar al Dia 0.
+
+Los racconto no son simples flashbacks de eventos puntuales: deben mostrar distintos momentos de la relacion en diferentes etapas temporales, para que el lector vea la evolucion de ella como obra de el a lo largo del tiempo. Cada racconto del presente debe tener un eco moral con el ritual que el esta viviendo ahora.
 
 El racconto debe revelar por capas como se fue construyendo esa pedagogia del "mejorate un poco mas", para que cada ritual del presente tenga un eco moral claro.
 
@@ -96,4 +107,27 @@ La fuerza del relato esta en la inversion moral y sensorial: el hombre despierta
 Este proyecto se trabaja como relato de body swap, microcontrol estetico, humillacion psicologica e inversion de poder. La temperatura emocional puede ser alta, pero debe apoyarse en tension, verguenza, disciplina, espejo, poder y transformacion identitaria, no en explicitud sexual grafica.
 
 ---
-**Gate de Fase 1:** concepto listo para aprobacion de Ama.
+
+## 11. Decisiones de la Ama (23/04/2026)
+
+**1. Origen del intercambio:** Sin explicación. El relato abre con el cambio ya consumado. El cómo no importa; importa lo que hace con eso.
+
+**2. Motivación de ella:** Hacerlo pasar y vivir exactamente todo lo que él la hizo pasar. No revancha caricaturesca — inversión exacta, mismo lenguaje, mismo registro de aparente razonabilidad.
+
+**3. Final:** Aceptación. Él termina disfrutando todo. La ironía es el cierre moral: construyó una trampa y terminó siendo el que la disfruta.
+
+**4. Extensión:** Lo más corta posible. 3 capítulos máximos. El proyecto no se alarga. Estructura compacta:
+- **Cap 1:** El primer día — despertar en el cuerpo, primera resistencia, primera sumisión, perforaciones de pezones, maquillaje y ropa bimbo.
+- **Cap 2:** La calle — salir vestida, las miradas, la excitación que no puede negar. Flashbacks del microcontrol.
+- **Cap 3:** Aceptación — ya no resiste, empieza a disfrutar, el destino de exhibición que preparó para ella se cierra sobre él.
+
+**5. Primer gran quiebre:** Ropa y maquillaje, salir a la calle vestida como bimbo. Las miradas lo convierten en objeto. Eso lo excita.
+
+**6. Sumisión adherida al cuerpo — primera manifestación:** En la primera resistencia: él lo intenta, ella alza la voz, él no puede evitar bajar los ojos, obedece y siente una excitación extraña que no sabe cómo nombrar.
+
+**7. Perforaciones de pezones:** El mismo día que abre el relato. Ella lo sugiere con el mismo tono suave de él — en el momento de mayor vulnerabilidad de él. El punto 6 y el punto 7 ocurren en el Cap 1.
+
+**8. Destino performático:** Sí. La ironía completa: el arc lo lleva hacia lo que él había preparado para ella — exhibición, pole dance, el club. Y él termina disfrutándolo.
+
+---
+**Gate de Fase 1:** concepto cerrado con decisiones de la Ama. Listo para Fase 2.

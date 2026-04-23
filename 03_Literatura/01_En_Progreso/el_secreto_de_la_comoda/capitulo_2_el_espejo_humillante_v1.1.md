@@ -218,7 +218,8 @@ Sobre el mármol, no había traje. Había una bata de satén rosa y un kit de de
 
 —Entra —dijo Isabel.
 
-Ella ya estaba vestida para su propio día: un conjunto sastre azul marino, el pelo impecable, el aroma a café y autoridad rodeándola como un aura. Ricardo, desnudo salvo por el cinturón de castidad que ya empezaba a sentirse como una parte de su anatomía, obedeció. El agua lo rodeó, silenciando el mundo.
+Ella ya estaba vestida para su propio día: un conjunto sastre azul marino, el pelo impecab
+le, el aroma a café y autoridad rodeándola como un aura. Ricardo, desnudo salvo por el cinturón de castidad que ya empezaba a sentirse como una parte de su anatomía, obedeció. El agua lo rodeó, silenciando el mundo.
 
 Isabel se sentó en el borde de la tina. Tomó la rasuradora.
 

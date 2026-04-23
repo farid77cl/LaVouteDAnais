@@ -1,7 +1,7 @@
 # Walkthrough: La Piel que Diseno
 
-**Estado:** Fase 1 - Concepcion lista para Gate  
-**Fecha:** 2026-04-22  
+**Estado:** Fase 1 — CERRADA. Decisiones de la Ama incorporadas. Gate listo.
+**Fecha:** 2026-04-23  
 **Agente:** Orquestador
 
 ---
@@ -16,7 +16,10 @@ La historia empieza despues del cambio de cuerpos. El protagonista masculino des
 
 ## Lo que ya quedo fijado
 
+- El **Dia 0** es el dia del intercambio de cuerpos — ancla temporal del relato. Todo antes = racconto. Todo desde ese dia = presente.
 - El cambio de cuerpos ocurre antes de la primera escena.
+- La relacion previa era **larga** — muchos anos juntos. El la conoce desde hace tiempo. El microcontrol no fue un golpe: fue una acumulacion lenta y paciente.
+- Los racconto deben cubrir distintos momentos temporales de esa relacion — mostrar como era ella cuando la conocio y como fue cambiando con cada ano bajo su pedagogia.
 - La relacion previa estaba marcada por dependencia afectiva y microcontrol estetico.
 - Los rasgos de dominancia y sumision quedan adheridos a los cuerpos tras el intercambio.
 - El fue instalando como norma:
@@ -76,33 +79,45 @@ Si el proyecto funciona, cada ritual del presente no solo lo humilla. Tambien lo
 
 ---
 
-## Preguntas que la Fase 2 debe resolver
+## Decisiones Cerradas (23/04/2026)
 
-1. Cual es el origen del cambio de cuerpos: ritual, tecnologia, castigo simbolico o hecho sin explicacion?
-2. Ella busca solo revancha, o una inversion completa y estable de la relacion usando el mismo lenguaje de falsa mejora?
-3. El final apunta a aceptacion, captura permanente, ruina mutua o convivencia ambigua?
-4. El proyecto sera nouvelle intensa de 3 capitulos o novela corta de 4 a 6?
-5. Cual ritual funcionara como primer gran punto de quiebre?
-6. En que escena se vuelve innegable que los rasgos de dominancia y sumision han quedado pegados a los cuerpos?
-7. En que momento aparece la sugerencia de perforaciones en los pezones y que funcion cumple en el arco?
-8. El arco presente lo obliga tambien a enfrentar el destino performatico que habia preparado para ella?
-
----
-
-## Proximo Paso del Orquestador
-
-Si Ama aprueba esta concepcion, la Fase 2 debe:
-
-- crear `arco_maestro_v1.md`
-- crear `linea_de_tiempo_maestra.md`
-- fijar cantidad de capitulos
-- distribuir los rituales y flashbacks por capitulo
-- fijar el repertorio verbal del protagonista antes del cambio
-- decidir como se manifiesta corporalmente la nueva sumision de el y la nueva dominancia de ella
-- decidir como se dosifica el protagonismo del busto nuevo y su peso en cada etapa
-- decidir si el eje de exhibicion publica entra como amenaza, quiebre o destino consumado
-- definir en que punto la humillacion empieza a mezclarse con fascinacion corporal
+| Pregunta | Decisión |
+|----------|----------|
+| Nombre del ancla temporal | **Día 0** = día del intercambio. Antes = racconto. Desde ahí = presente. |
+| Duración de la relación previa | Muchos años — relación larga con historia. El microcontrol fue gradual y acumulativo. |
+| Origen del intercambio | Sin explicación — el relato abre con el cambio consumado |
+| Motivación de ella | Hacerlo pasar por exactamente lo mismo que él la hizo pasar |
+| Final | Aceptación — él termina disfrutando todo |
+| Extensión | 3 capítulos, lo más compacto posible |
+| Primer quiebre | Ropa y maquillaje + salir a la calle + miradas + excitación |
+| Sumisión adherida | Cap 1: primera resistencia → él baja los ojos → obedece → excitación extraña |
+| Perforaciones de pezones | Cap 1, mismo día que abre el relato |
+| Destino performático | Sí — cierre irónico: él termina disfrutando lo que preparó para ella |
 
 ---
 
-**Gate de Fase 1:** listo para aprobacion de Ama.
+## Estructura de 3 Capítulos
+
+**Cap 1 — El primer día:**
+Él despierta en el cuerpo. Primer intento de resistencia. Ella alza la voz — él baja los ojos, obedece, siente excitación extraña. Ella sugiere las perforaciones de pezones con el mismo tono suave de él. Maquillaje, ropa bimbo. El peso de los pechos reorganiza todo: postura, movimiento, conciencia corporal.
+
+**Cap 2 — La calle:**
+Salir vestida como bimbo. Las miradas lo convierten en objeto. Eso lo excita y no puede negarlo. Flashbacks del microcontrol que él ejercía — las frases suaves, las correcciones elegantes, las sugerencias que no admitían negativa. El presente espeja el pasado.
+
+**Cap 3 — Aceptación:**
+Ya no resiste. La fascinación corporal gana sobre la resistencia identitaria. El arco lo lleva hacia el destino performático que había preparado para ella: exhibición, pole dance, el club. Él termina disfrutando. La ironía moral se cierra.
+
+---
+
+## Próximo Paso — Fase 2
+
+Con el Gate de la Ama, el Arquitecto debe crear:
+- `arco_maestro_v1.md` — 3 capítulos, puntos de inflexión por capítulo, curva de rendición
+- `linea_de_tiempo_maestra.md` — secuencia de rituales, flashbacks y escalamientos
+- Definir repertorio verbal de él (antes del cambio) para que ella lo use en el presente con exactitud
+- Fijar dónde entra cada ritual corporal: gimnasio, dieta, maquillaje, tacones, exhibición pública
+- Fijar el tono de la perforación: misma suavidad pasivo-agresiva que él usaba
+
+---
+
+**Gate de Fase 1:** CERRADO. ¿La Ama aprueba el concepto para iniciar Fase 2?

@@ -4,7 +4,7 @@ Este documento contiene los bloques de texto maestros para la generación de pro
 
 ## 👤 Atributos Físicos (Bloque Obligatorio)
 **DEBES** usar este bloque exacto en cada prompt:
-> `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips`
+> `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup`
 
 ## 🖋️ Modificaciones Corporales (Sin Excepciones)
 **DEBES** incluir la visibilidad de los piercings, incluso bajo la ropa:
