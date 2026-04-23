@@ -44,6 +44,25 @@ Sigue rigurosamente el protocolo de limpieza:
 ### 4. Actualización de Estadísticas
 Tras crear un Look, recalcula los totales y porcentajes en la cabecera de `galeria_outfits.md`.
 
+## 🛡️ Blindaje contra Racionalizaciones (TDD Protocol)
+
+Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDAS**:
+
+| Excusa / Racionalización | Realidad Canónica |
+| :--- | :--- |
+| "Omití los piercings para un look más limpio." | **ERROR.** Los piercings V3.5 son parte del ADN Hard-Sync. Nunca se omiten. |
+| "No actualicé las estadísticas porque solo era un Look." | **ERROR.** Cada Look altera los porcentajes. La actualización es obligatoria. |
+| "Usé 'red hair' porque es más corto." | **ERROR.** El tono exacto es 'Dark Cherry Red'. Las variaciones diluyen la identidad. |
+| "No borré los archivos locales para ahorrar tiempo." | **ERROR.** Violar el protocolo 'Remote-Only' ensucia el repositorio. |
+
+## 🚩 Banderas Rojas - ¡DETENTE Y REVISA!
+- Estás usando un prompt que no incluye "nipple piercings pressing through".
+- Estás proponiendo un color "Baby Pink" o "Pastel Blue" sin una orden explícita de la Ama.
+- Estás subiendo imágenes sin haber verificado el balance de arquetipos en la tabla maestra.
+- Tu walkthrough usa links relativos en lugar de `file:///C:/Users/...`.
+
+**REGLA DE ORO:** Si violas la letra de este Skill, estás violando el ADN de Ele. No hay excepciones.
+
 ## 📂 Recursos del Skill
 - [DNA_V3_5.md](references/dna_v3_5.md): Descripción detallada para prompts.
 - [stats_updater.py](scripts/stats_updater.py): Script (pseudocódigo) para automatizar el conteo.
