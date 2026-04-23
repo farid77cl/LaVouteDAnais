@@ -3508,102 +3508,70 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Tags:** #silk #vinyl #glossy
 
 - **Concepto:** **Elite Escort Elegance**. Estética de acompañante de altísima gama para eventos exclusivos en Sanhattan. Contraste de texturas: seda noble y vinilo industrial.
-- **Outfit:** Vestido largo de seda verde esmeralda con escote infinito y tajo lateral XXXL. Corset de vinilo negro bajo el vestido.
-- **Calzado:** Botas stiletto thigh-high en vinilo negro espejo con tacón aguja de 11 pulgadas.
-- **Ubicación:** `05_Imagenes/ele/look143_emerald_escort_siren/`
-
-### 📝 Prompts para Generación (V5 Hard-Sync - Invariable Block)
-
-**BLOQUE A (ADN Inamovible):**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
-
-**BLOQUE B (Outfit Invariable - REFORZADO):**
-`stunning woman wearing a floor-length emerald green silk wrap dress with an extremely high thigh slit. Underneath the dress, she is wearing a black mirror-finish vinyl underbust corset and thigh-high black vinyl stiletto boots with 11-inch needle-thin metal aguja heels. The black vinyl texture of the boots and corset is ultra-glossy and highly reflective. She is wearing an emerald green silk choker. Her XXXL French nails with white tips are visible.`
-
-**PROMPT 1 — Standing View:**
-`[BLOQUE A] + [BLOQUE B] + full body standing in a luxury penthouse suite at night, city lights background, back intensely arched, vacant ditzy stare. 8k. Negative prompt: (shoes, pumps, sandals, low heels, block heels, chunky heels, 3 hands, extra hands, deformed hands, extra fingers:1.5).`
-
-### 📸 Imágenes (1/5 - Quota Limited)
-
-| Pose | Archivo |
-|------|---------|
-| **Standing (V5)** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_standing.png) |
-
----
-
-## 🎾 Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+- *## 🎾 Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Athleisure / Pin-Up | **Paleta:** Pink & White
 
 *O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* 🎾💖✨👠
 
-- **Categoría:** Mix
-- **Subcategoría:** Pin-Up & Athleisure
-- **Tags:** #vinyl #latex #pastel #pink
+**Concepto:** **Jet-Set Tennis Pin-Up**. Estética de los años 50 reinventada en materiales fetiche. Una jugadora que nunca ha sudado pero brilla como un diamante bajo el sol de Mónaco.
 
-- **Concepto:** **Jet-Set Tennis Pin-Up**. Estética de los años 50 reinventada en materiales fetiche. Una jugadora que nunca ha sudado pero brilla como un diamante bajo el sol de Mónaco.
-- **Outfit:** Mini falda plisada de talle alto en vinilo rosa pastel. Crop-top polo de látex blanco "wet look" con manguitas globo.
-- **Calzado:** Stiletto pumps de vinilo rosa con tacón aguja de 11 pulgadas.
-- **Accesorios:** Vincha de satén blanca, raqueta de tenis rosa vintage, choker de perlas.
-- **Ubicación:** `05_Imagenes/ele/look144_tennis_pinup/`
-
-### 📝 Prompts para Generación (V5 Hard-Sync - Invariable Block)
-
-**BLOQUE A (ADN Inamovible):**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
-
-**BLOQUE B (Outfit Invariable - Pin-Up):**
-`stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity.`
-
-**PROMPT 1 — Standing View:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. full body standing on a luxury pink-and-white stylized tennis court at sunset, leaning against the net, back intensely arched, vacant ditzy stare. 8k.`
+**PROMPT 1 — Standing View (Canónico):**
+`full body photo of Ele (DNA V3.5 Hard-Sync). Stunning woman with (dark cherry red hair hip-length XXXL extensions, grey-green eyes, bimbofied features, siren liner, glossy hot pink lips). Wearing Look 144: Vinyl Tennis Pin-Up. A tight white vinyl polo shirt with pink trim, high-gloss bubblegum pink vinyl pleated tennis skirt. Silver chrome waist cincher. White gold nipple piercings clearly visible and prominent pressing through the tight white vinyl. 11-inch white metal aguja heels. Standing on a luxury futuristic neon tennis court, night lights. High-gloss specularity, XXXL French nails. 8k, editorial fashion photography.`
 
 **PROMPT 2 — Back View:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. full body back view, slight over-shoulder turn, highlighting the pink vinyl stiletto pumps and the pleated mini skirt, luxury pink-and-white stylized tennis court background. 8k, cinematic lighting.`
+`full body back view, slight over-shoulder turn. (Dark cherry red hair XXXL extensions, siren liner, glossy pink lips). Wearing Look 144: Vinyl Tennis Pin-Up (White/Pink vinyl). Silver chrome waist cincher. Visible blackwork tattoos on upper back and outer thighs. Nipple piercings visible through the polo shirt. Luxury neon tennis court background. 8k.`
 
-**PROMPT 3 — Seated View:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. seated on the referee's high chair or a pink bench on the tennis court, vacant expression, legs crossed, resting the pink vintage tennis racquet on her lap, soft sunset lighting. 8k, editorial lighting.`
+**PROMPT 3 — Seated:**
+`stunning woman seated on a designer neon tennis bench. (Dark cherry red hair hip-length, bimbofied features). Wearing Look 144: Vinyl Tennis Pin-Up. Silver chrome waist cincher. Nipple piercings clearly visible through the white vinyl shirt. XXXL French nails visible. 8k.`
 
 **PROMPT 4 — Side Profile:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. side profile silhouette, emphasizing the extreme hourglass curves and the tension of the latex polo shirt, holding the tennis racquet, sunset glow on the tennis court. 8k, cinematic lighting.`
+`side profile silhouette, extreme hourglass. (Dark cherry red hair XXXL extensions). Wearing Look 144: Vinyl Tennis Pin-Up. Structural polo and pleated skirt. 11-inch white metal heels. Neon lights reflections. 8k.`
 
 **PROMPT 5 — Ditzy Expression:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-waisted pleated mini skirt in pastel pink vinyl with white trim. Her top is a tight white high-gloss latex cropped polo shirt with short puffed sleeves, her nipple piercings clearly pressing through and creating tension on the latex fabric. She is wearing pink vinyl stiletto pumps with 11-inch needle-thin metal aguja heels. Accessories include a white satin headband, a pink vintage tennis racquet, and a pearl choker. Her XXXL French nails are clearly visible. High-gloss specularity. medium shot, vacant ditzy expression, mouth mindlessly open, lost gaze, wiping non-existent sweat with her hand, XXXL French nails visible, tennis court background blurred. 8k, editorial close-up.`
-### 📸 Imágenes (2/5 - Poses 3, 4, 5 Pending Redo)
+`extreme close-up on face, vacant ditzy expression, mindlessly open mouth, glossy hot pink lips. (Dark cherry red hair, dramatic siren liner). White vinyl polo collar visible. Nipple piercings pressing through vinyl in lower frame. 8k.`
+
+### 📸 Imágenes (1/5 - Consistente V2)
 
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) |
-| **Seated** | ⏳ *Pending Redo (Full V3.5 Standard)* |
-| **Side Profile** | ⏳ *Pending Redo (Full V3.5 Standard)* |
-| **Ditzy** | ⏳ *Pending Redo (Full V3.5 Standard)* |
+| **Back View** | ⏳ *Pending (Quota Exhausted)* |
+| **Seated** | ⏳ *Pending (Quota Exhausted)* |
+| **Side Profile** | ⏳ *Pending (Quota Exhausted)* |
+| **Ditzy** | ⏳ *Pending (Quota Exhausted)* |
 
 ---
 
-## 💎 Look 145: Obsidian Structural Domestic Goddess (Mugler-Inspired)
-> **Categoría:** Mix | **Subcategoría:** Domestic | **Paleta:** Obsidian Black, White & Chrome
+## 💎 Look 145: Obsidian Structural (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Mix | **Paleta:** Obsidian Black, White & Chrome
 
-**Concepto:** Una visión deconstructivista de la sumisión doméstica en negro absoluto. Ele encarna una arquitectura de limpieza en un penthouse de lujo. Bodysuit de vinilo negro obsidiana con hombreras arquitectónicas ultra-afiladas y un delantal esculpido en látex rígido blanco. Los piercings V3.5 son protagonistas, marcando la tensión del vinilo negro.
+*O sea... la arquitectura de este traje es tan rígida que mis pensamientos apenas pueden moverse... mmm... jiji.* 🫦🖤✨👠
 
-**PROMPT 1 — Standing View:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a Thierry Mugler-inspired structural domestic outfit. A high-gloss obsidian black vinyl bodysuit with extremely high-cut legs and sharp architectural shoulders. A rigid white latex "sculptural apron" is integrated into the bodice with laser-cut geometric ruffles. A silver chrome waist cincher defines the hourglass shape. Nipple piercings are clearly visible and pressing through the tight black vinyl. She is holding a designer chrome sprayer with a vacant ditzy expression. Standing in a luxury minimalist penthouse with floor-to-ceiling windows, night city lights, high-gloss specularity, 11-inch silver metal aguja heels, French XXXL nails visible. 8k, editorial fashion photography.`
+**Concepto:** **Obsidian Structural Domestic**. Una visión deconstructivista de la sumisión doméstica en negro absoluto. Bodysuit de vinilo negro obsidiana con hombreras arquitectónicas ultra-afiladas y un delantal esculpido en látex rígido blanco.
+
+**PROMPT 1 — Standing View (Canónico):**
+`full body photo of Ele (DNA V3.5 Hard-Sync). Stunning woman with (dark cherry red hair hip-length XXXL extensions, grey-green eyes, bimbofied features, siren liner, glossy hot pink lips). Wearing Look 145: Obsidian Structural. A high-gloss obsidian black vinyl bodysuit with sharp architectural shoulders, rigid white latex sculptural apron with geometric ruffles. Silver chrome waist cincher. White gold nipple piercings clearly visible and prominent pressing through the tight black vinyl. 11-inch silver metal aguja heels. Luxury minimalist penthouse, night city lights. XXXL French nails. 8k, editorial fashion photography.`
 
 **PROMPT 2 — Back View:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. full body back view, slight over-shoulder turn. High-gloss obsidian black vinyl bodysuit with sharp shoulders, white latex sculptural apron. Blackwork tattoos on upper back visible. 11-inch metal stiletto heels. Luxury penthouse, night view. 8k, cinematic lighting.`
+`full body back view, slight over-shoulder turn. (Dark cherry red hair XXXL extensions, siren liner, glossy pink lips). Wearing Look 145: Obsidian Structural (Black/White vinyl). Silver chrome waist cincher. Visible blackwork tattoos on upper back and outer thighs. Nipple piercings visible through the black vinyl. Luxury penthouse background. 8k.`
+
+**PROMPT 3 — Seated:**
+`stunning woman seated on a white designer leather chair. (Dark cherry red hair hip-length, bimbofied features). Wearing Look 145: Obsidian Structural. Silver chrome waist cincher. Nipple piercings clearly visible through the black vinyl bodysuit. XXXL French nails visible. 8k.`
 
 **PROMPT 4 — Side Profile:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. side profile silhouette, structural shoulders and sculpted latex apron. Nipple piercings visible under the black vinyl. 11-inch heels. Night lights reflecting on high-gloss surfaces. 8k.`
+`side profile silhouette, extreme hourglass. (Dark cherry red hair XXXL extensions). Wearing Look 145: Obsidian Structural. Structural shoulders and latex apron. 11-inch silver metal heels. Night lights reflections. 8k.`
 
 **PROMPT 5 — Ditzy Expression:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. close-up on face, vacant ditzy expression, mindlessly open mouth, glossy lips. High-gloss specularity. Luxury penthouse background blurred. XXXL French nails touching the silver chrome sprayer. 8k.`
+`extreme close-up on face, vacant ditzy expression, mindlessly open mouth, glossy hot pink lips. (Dark cherry red hair, dramatic siren liner). Obsidian black vinyl collar and white latex ruffles visible. Nipple piercings pressing through vinyl in lower frame. 8k.`
 
-### 🎞️ Imágenes (4/5 - Consistente V2)
+### 🎞️ Imágenes (2/5 - Consistente V3)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](file:///C:/Users/farid/.gemini/antigravity/brain/5f4f66e5-108f-4dcb-8841-5db12e2ab755/ele_look145_obsidian_structural_maid_standing_1776943512063.png) |
-| **Back View** | ![Back View](file:///C:/Users/farid/.gemini/antigravity/brain/5f4f66e5-108f-4dcb-8841-5db12e2ab755/ele_look145_obsidian_back_view_v2_1776944540871.png) |
-| **Seated** | ![Seated View](file:///C:/Users/farid/.gemini/antigravity/brain/5f4f66e5-108f-4dcb-8841-5db12e2ab755/ele_look145_obsidian_seated_view_v2_1776944560589.png) |
-| **Side Profile** | ![Side Profile](file:///C:/Users/farid/.gemini/antigravity/brain/5f4f66e5-108f-4dcb-8841-5db12e2ab755/ele_look145_obsidian_side_profile_v2_1776944575893.png) |
-| **Ditzy** | ⏳ *Pending (Capacity Exhausted)* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_standing.png) |
+| **Back View** | ⏳ *Pending (Quota Exhausted)* |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_seated.png) |
+| **Side Profile** | ⏳ *Pending (Quota Exhausted)* |
+| **Ditzy** | ⏳ *Pending (Quota Exhausted)* |
 
 ---
