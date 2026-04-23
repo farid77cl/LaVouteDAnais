@@ -3578,3 +3578,35 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 | **Ditzy** | ⏳ *Pending Redo (Full V3.5 Standard)* |
 
 ---
+
+## 💎 Look 145: High-Gloss Domestic Goddess
+> **Categoría:** Mix | **Subcategoría:** Domestic | **Paleta:** Baby Pink, White & Chrome
+
+**Concepto:** Ele encarna la perfección doméstica en un penthouse de lujo. Una visión de vinilo y ruffles diseñada para la limpieza estética y la sumisión visual. El busto y las curvas son el centro de atención, marcados por la tensión de los materiales y los nuevos piercings V3.5.
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a high-gloss baby pink vinyl micro bikini and a transparent vinyl ruffled apron over it. She is holding a chrome feather duster with a vacant ditzy expression. Standing in a luxury minimalist penthouse with floor-to-ceiling windows, sunset lighting, high-gloss specularity, 11-inch needle-thin metal stiletto heels, French XXXL nails visible. 8k, editorial photography.`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. full body back view, slight over-shoulder turn. She wears a high-gloss baby pink vinyl micro bikini and a transparent vinyl ruffled apron with a large bow on the back. Blackwork tattoos on upper back and outer thighs visible. 11-inch needle-thin metal stiletto heels. Luxury penthouse background, sunset glow. 8k, cinematic lighting.`
+
+**PROMPT 3 — Seated View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. seated on a white designer leather chair, legs crossed, holding a chrome feather duster near her face with a vacant ditzy stare. High-gloss baby pink vinyl micro bikini and transparent vinyl apron. XXXL French nails touching her glossy lips. Luxury penthouse background. 8k, editorial lighting.`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. side profile silhouette emphasizing extreme hourglass curves. High-gloss baby pink vinyl micro bikini, transparent vinyl apron. Nipple piercings visible under the thin vinyl. Holding feather duster. Sunset lighting on penthouse windows. 8k.`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. close-up on face, vacant ditzy expression, mindlessly open mouth, glossy hot pink lips, lost gaze. High-gloss specularity on skin. Penthouse background blurred. XXXL French nails near face. 8k.`
+
+### 🎞️ Imágenes (1/5 - Propuesta)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ![Concept](ele_look145_concept_standing_1776942966861.png) |
+| **Back View** | ⏳ *Pending Approval* |
+| **Seated** | ⏳ *Pending Approval* |
+| **Side Profile** | ⏳ *Pending Approval* |
+| **Ditzy** | ⏳ *Pending Approval* |
+
+---
