@@ -3,7 +3,7 @@
 
 ---
 
-Despertó en el lado equivocado de la cama.
+Él despertó en el lado equivocado de la cama.
 
 Lo supo antes de abrir los ojos — el ángulo de la luz, el peso del edredón sobre sus pies, la posición de la almohada. Había dormido en ese mismo colchón durante años y sabía con precisión cómo se sentía cada centímetro desde su propio lado. Este no era su lado. Era el de Daniela.
 
@@ -27,7 +27,17 @@ Abrió los ojos.
 
 El techo era el mismo. El cuarto era el mismo. La ventana dejaba pasar la misma luz de la mañana que siempre.
 
-Se incorporó despacio — o intentó hacerlo. El movimiento que su cuerpo conocía de memoria, el gesto automático de levantarse de la cama, no funcionó igual. El peso en el pecho cambió de distribución al moverse hacia arriba, halándolo hacia adelante, alterando el centro de gravedad de una manera que no anticipó. Tuvo que apoyar una mano en el colchón para estabilizarse. Las uñas se clavaron en la tela. Quedó sentado al borde de la cama, jadeando levemente, con dos pechos enormes que se acomodaban con un movimiento propio, ajeno, independiente de su voluntad.
+Entonces miró hacia abajo.
+
+La sábana se levantaba en dos promontorios donde antes era plana. El encaje negro del baby doll tirante sobre una curva que no debería estar ahí. Sus manos — esas manos que no eran sus manos — aferradas al edredón. Se sentó de golpe y el peso se redistribuyó de una sola vez, jalándolo hacia adelante, y algo en su garganta quiso gritar y no pudo porque el aire no llegaba, porque estaba hiperventilando, porque los pechos subían y bajaban con una velocidad que no controlaba y cada subida se sentía y cada bajada se sentía y él no podía dejar de mirarlos como si mirándolos fueran a desaparecer.
+
+*Qué es esto. Qué es esto. Qué es esto.*
+
+Se tocó. Mano abierta, palma plana sobre el pecho izquierdo — necesitaba confirmar que era real y al mismo tiempo no quería que fuera real y la sensación fue exactamente lo que temía: peso, calor, tejido que cedía bajo sus dedos de una manera que no tenía ningún punto de referencia en su cuerpo anterior. Retiró la mano. La miró. Las uñas. El encaje. Los pechos.
+
+*No. No. Esto no.*
+
+Se quedó así, inmóvil, durante lo que pudo haber sido treinta segundos o cinco minutos. La respiración fue bajando sola, no porque se hubiera calmado, sino porque el cuerpo tiene sus propios mecanismos y ese cuerpo sabía cosas que él todavía no aceptaba.
 
 *Esto no es real.*
 

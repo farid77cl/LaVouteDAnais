@@ -1,26 +1,27 @@
 # 🖼️ Galería: look146_neon_latex_gym
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 2
+Total imágenes: 3
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) |
+| ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ![ele_146_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png) | ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) |
 
 ---
 
 ## 📸 Vista Previa Completa
 
-| Imagen | Imagen |
-| :---: | :---: |
-| ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) |
+| Imagen | Imagen | Imagen |
+| :---: | :---: | :---: |
+| ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ![ele_146_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png) | ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png)
+- [ele_146_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png)
 - [ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png)
 
 ---
