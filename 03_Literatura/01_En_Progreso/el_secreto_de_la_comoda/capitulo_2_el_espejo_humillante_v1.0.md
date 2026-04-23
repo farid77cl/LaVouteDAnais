@@ -252,15 +252,31 @@ Y un delantal de encaje blanco.
 
 —Hoy vas a aprender el valor de lo invisible, Ricardo —dijo Isabel, señalando el conjunto—. Vístete.
 
-Ricardo obedeció en silencio. El proceso de ponerse el vestido, de sentir la falda rozándole las piernas depiladas, de ajustar el delantal sobre la cintura comprimida por el corsé, lo hacía sentir como una parodia de sí mismo. Pero cuando Isabel le puso los tacones de cinco centímetros —"de trabajo", dijo ella—, la realidad física lo golpeó. El equilibrio cambió. El dolor en los metatarsos empezó a subir por sus pantorrillas.
+Ricardo retrocedió un paso, negando con la cabeza. El aire en el dormitorio se sentía pesado, saturado del perfume caro de Isabel y del olor a cera para muebles.
 
-Pasó la mañana limpiando la platería, aspirando la alfombra persa y preparando el almuerzo bajo la supervisión fría de Isabel.
+—Isabel, por favor... El vestido no. Puedo hacer lo que quieras, puedo... puedo quedarme en calzoncillos, pero no me pidas que me ponga eso. Es de la tía Anaís, por Dios.
 
-—¿Te duelen los pies, gordi? —preguntó ella mientras lo veía arrodillado frente al aparador, frotando un candelabro con un paño de seda.
+Isabel no se inmutó. Dejó el candelabro sobre la cómoda y se acercó a él. Su voz no subió de volumen, pero se volvió más gélida, cargada de una amenaza que Ricardo conocía bien.
 
-—Sí —susurró él.
+—Ricardo, gordi... ¿ya olvidaste quién paga la cuota del Mercedes? ¿O quién tiene las fotos de tu "sesión especial" en el hotel San Francisco? —Isabel le puso una mano en la mejilla, las uñas impecables rozando su piel recién depilada—. Si no te vistes ahora mismo, Anaís recibirá un correo con todo el material. Y sabes que ella no es tan comprensiva como yo.
 
-—Bien. Eso es ser mujer. Es hacer que todo brille mientras tus zapatos te muerden. Es cocinar para alguien más mientras tu corsé te impide probar bocado. Es ser la infraestructura invisible de un mundo que solo te mira cuando fallas.
+El miedo le cerró la garganta, pero bajo el miedo, un latido traicionero en su entrepierna lo delató. La humillación lo excitaba tanto como lo aterraba.
+
+—Vístete —ordenó ella, esta vez con un tono más alto, imperativo, que resonó en las paredes del cuarto—. Y hazlo despacio. Quiero ver cómo asumes tu nuevo lugar.
+
+Ricardo obedeció. Tomó la tanga blanca de encaje. La tela era áspera, barata, comparada con la seda que Isabel solía comprarle, pero el roce contra sus genitales, ahora desprotegidos por la falta de vello, fue una descarga eléctrica. Se sintió como un animal marcado. Luego vinieron las medias de descanso. El nylon se deslizó por sus piernas depiladas, una caricia fría que lo hacía sentir extrañamente largo y vulnerable.
+
+El corsé de día fue lo peor. Isabel se colocó detrás de él y tiró de los cordones. Ricardo soltó un jadeo cuando el aire se le escapó de los pulmones. Su cintura se hundió, forzando su busto —aún masculino, pero ahora resaltado por la presión— hacia adelante. 
+
+Finalmente, el vestido. La tela de algodón azul floral cayó sobre él, ocultando sus piernas pero revelando su derrota. El roce de la falda contra sus muslos era un recordatorio constante de su castración social. Cuando Isabel le ajustó el delantal de encaje blanco, haciendo un lazo perfecto en su espalda, Ricardo se miró al espejo. Ya no era un analista de control de gestión. Era una parodia doméstica, una criada sin voz.
+
+—Los tacones, Ricardo. Ahora.
+
+Se calzó los zapatos de cinco centímetros. El cambio en su centro de gravedad lo obligó a arquear la espalda y sacar los glúteos. El dolor empezó a latir en sus pies casi de inmediato, un recordatorio físico de su nueva realidad.
+
+Pasó la mañana limpiando la platería bajo la supervisión fría de Isabel. Arrodillado frente al aparador, frotando un candelabro con un paño de seda, sentía cómo el sudor le pegaba el corsé a la piel.
+
+—¿Te duelen los pies, gordi? —preguntó ella, acariciándole la nuca con la punta de su zapato sastre mientras él trabajaba—. Ese dolor es el sonido de tu sumisión. Disfrútalo.
 
 Ricardo sintió ganas de llorar, no de tristeza, sino de agotamiento y de una extraña gratitud. La humillación de ser la sirvienta de su propia esposa, vestido con las ropas de una muerta, le producía una claridad mental que la oficina nunca le había dado. El Sr. Marchetti no existía en esa cocina. Solo existía la criatura en delantal que Isabel administraba con una eficiencia de relojero.
 
