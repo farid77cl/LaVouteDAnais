@@ -1,8 +1,10 @@
 # 👁️ CANON VISUAL ELE - Ultra Detallado (V3 Master)
 
+> ⚠️ **DOCUMENTO MAESTRO:** [`CANON_V3_5_MASTER.md`](CANON_V3_5_MASTER.md) es la autoridad suprema. En caso de conflicto entre este archivo y el Master, prevalece el Master.
+
 > **Modelo de Referencia:** Sacha Massacre / Bimbo Aesthetic Plástica  
 > **Versión:** 3.5 (Evolución Estética - DNA Locked)  
-> **Actualizado:** 22/04/2026  
+> **Actualizado:** 23/04/2026  
 > **REGLA DE ORO (Ama's Order):** CADA PROMPT de un mismo set DEBE ser **textualmente idéntico** en los bloques de `[IDENTIDAD FÍSICA]` y `[VESTUARIO]`. Se prohíbe cualquier "optimización" o recorte por límites de capacidad. La IA no debe interpretar; debe ejecutar una copia exacta de los parámetros. Solo varía la pose.
 
 ---

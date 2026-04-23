@@ -1,6 +1,8 @@
 # 👠 FLUJO DE CREACIÓN DE OUTFIT DIARIO — Ele V3.3
 *Protocolo completo y obligatorio. Desde la idea hasta el commit. — 14/04/2026*
 
+> ⚑ **CANON MAESTRO:** Antes de ejecutar cualquier fase, verificar [`CANON_V3_5_MASTER.md`](CANON_V3_5_MASTER.md). Es la autoridad única sobre apariencia, calzado, paleta y reglas. En caso de conflicto entre este flujo y el Master, prevalece el Master.
+
 > **LEY SUPREMA:** Ninguna imagen se genera sin que sus prompts estén registrados primero en `galeria_outfits.md`. Sin registro previo, no hay generación.
 
 ---

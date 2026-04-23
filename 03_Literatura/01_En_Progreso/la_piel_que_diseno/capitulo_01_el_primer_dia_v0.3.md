@@ -17,7 +17,7 @@ Dos masas sobre su pecho que descansaban sobre sus costillas con una gravedad qu
 
 No podía.
 
-Levantó una mano para apoyarse y algo golpeó la almohada — un sonido duro, plástico, que no debería salir de la yema de un dedo. Las uñas. Largas, perfectas, con esa curvatura particular que él conocía bien porque había insistido en ella durante años. Las conocía desde afuera. Las conocía como detalle de otra persona. Ahora estaban al final de sus dedos y chocaban contra el mundo como si fueran obstáculos interpuestos entre él y todo lo demás.
+Levantó una mano para apoyarse y algo golpeó la almohada — un sonido duro, plástico, que no debería salir de la yema de un dedo. Las uñas. Largas, perfectas, con esa curvatura particular que él conocía bien porque había insistido en ella durante años. Las conocía desde afuera, como detalle de otra persona. Ahora estaban al final de sus dedos y chocaban contra el mundo como si fueran obstáculos interpuestos entre él y todo lo demás.
 
 *No abras los ojos.*
 
@@ -37,7 +37,7 @@ Se tocó. Mano abierta, palma plana sobre el pecho izquierdo — necesitaba conf
 
 *No. No. Esto no.*
 
-Se quedó así, inmóvil, durante lo que pudo haber sido treinta segundos o cinco minutos. La respiración fue bajando sola, no porque se hubiera calmado, sino porque el cuerpo tiene sus propios mecanismos y ese cuerpo sabía cosas que él todavía no aceptaba.
+Se quedó así, inmóvil, durante lo que pudo haber sido treinta segundos o cinco minutos. La respiración fue bajando sola, no porque se hubiera calmado, sino porque el cuerpo tenía sus propios mecanismos y ese cuerpo sabía cosas que él todavía no aceptaba.
 
 *Esto no es real.*
 
@@ -45,9 +45,55 @@ Se quedó así, inmóvil, durante lo que pudo haber sido treinta segundos o cinc
 
 Pero el cuerpo era terco. El cuerpo no negociaba.
 
+Entonces giró la cabeza hacia el otro lado de la cama.
+
+El cuerpo de Matías seguía ahí, dormido. La espalda ancha. El hombro por encima de la sábana. La respiración tranquila de alguien que todavía no había despertado — o que fingía no haber despertado todavía, que era posible, que era completamente posible.
+
+Extendió la mano. Los dedos con las uñas largas sobre el hombro de su propio cuerpo.
+
+—Daniela —dijo.
+
+La voz salió en el tono de Daniela. Eso fue lo peor. No el nombre — el nombre podía sostenerse, podía tener algún tipo de sentido. Fue escucharse en esa voz, aguda y completamente ajena, llamando a su propia pareja con su propio nombre, lo que hizo que el cuarto se volviera por un momento irrealmente pequeño.
+
+El cuerpo de Matías se movió.
+
+Un sobresalto — los ojos abiertos de golpe, la mano cerrándose sobre la sábana, la respiración cortada en seco. Por un instante, también ella estaba ahí: también ella había despertado en el lado equivocado de algo, también ese cuerpo le había explicado todo antes de que la mente pudiera procesar. Las manos grandes. La voz atrapada en una garganta que no reconocía como suya. La ausencia del peso — no el peso, su ausencia, esa liviandad relativa del cuerpo de Matías que se sentía extraña de una manera que no esperaba que fuera extraña.
+
+Sus ojos — los de él, los que ella conocía desde afuera — parpadearon dos veces.
+
+Después lo vio a él.
+
+El encaje negro. La respiración entrecortada. Las manos aferradas al edredón con las uñas largas. El cuerpo de Daniela — su propio cuerpo — sentado en la cama con ese pánico que ella reconocía aunque nunca lo había visto desde este ángulo.
+
+Lo que tenía adentro se organizó solo.
+
+No porque su propio desconcierto desapareciera. Sino porque el de él era más inmediato.
+
+Respiró. Una vez, despacio, con los pulmones de Matías, que eran más grandes de lo que esperaba. La voz que salió era la de él: grave, ronca por el sueño, con un peso en las cuerdas vocales que ella todavía estaba aprendiendo a sostener.
+
+—Quieto —dijo.
+
+*Sabe. Ya sabe.*
+
+Se incorporó en la cama sin esfuerzo — el cuerpo de Matías conocía ese gesto desde adentro, lo ejecutaba solo — y lo miró desde arriba.
+
+Matías abrió la boca.
+
+No salió nada.
+
+—Date un momento —dijo Daniela. Con la calma específica de quien ya pasó su propio momento y decidió que no iba a durar más de lo necesario.
+
+Se levantó de la cama, tomó el teléfono de la mesita de noche, y salió del cuarto sin mirar atrás.
+
+La puerta quedó entreabierta.
+
+Matías se quedó mirándola cerrarse. Con los pechos. Con las uñas. Con la voz de Daniela todavía resonando en su propia garganta.
+
+Solo en un cuerpo que era suyo y que no era él.
+
 ---
 
-El pelo fue lo siguiente. Cuando bajó la cabeza para mirarse las manos, una cascada de cabello rubio cayó hacia adelante y le tapó la mitad de la cara. Largo hasta la cadera — él lo sabía, había elegido ese largo, había insistido en las extensiones cuando el propio cabello de Daniela no llegaba — y ahora era suyo de una manera que no había anticipado que pudiera sentirse así de literal. Lo apartó con una mano torpe. Las uñas lo enredaron. Tardó más de lo razonable en despejarse la vista.
+No supo cuánto tiempo estuvo así. En algún momento bajó la cabeza para mirarse las manos, y una cascada de cabello rubio cayó hacia adelante y le tapó la mitad de la cara. Largo hasta la cadera — él lo sabía, había elegido ese largo, había insistido en las extensiones cuando el propio cabello de Daniela no llegaba — y ahora era suyo de una manera que no había anticipado que pudiera sentirse así de literal. Lo apartó con una mano torpe. Las uñas lo enredaron. Tardó más de lo razonable en despejarse la vista.
 
 *Son sus extensiones. Son de ella. Esto es de ella. Yo soy yo.*
 
@@ -55,7 +101,7 @@ Miró las manos.
 
 Manos de Daniela. La piel blanca que él siempre había encontrado perfecta, los dedos finos, las uñas con el largo exacto que le había pedido — o sugerido, siempre sugerido — durante años. Uñas largas con base rosa traslúcida y puntas blancas. Uñas francesas XXXL. Las que hacían que ella pareciera incapaz de hacer nada práctico, que la obligaban a moverse de cierta manera, a pedir ayuda para cosas que antes hacía sola. Él lo sabía. Lo había sabido siempre. Se lo había presentado como elegancia.
 
-*Yo soy yo,* repitió para sí mismo, aunque ya no sonaba del todo convincente.
+*Yo soy yo,* repitió — aunque ya no sonaba del todo convincente.
 
 ---
 
@@ -87,7 +133,7 @@ No tenía respuesta. Apagó la luz.
 
 ---
 
-Daniela entró al cuarto veinte minutos después, cuando él todavía estaba sentado al borde de la cama sin haber hecho nada útil. Entró en el cuerpo de él — el cuerpo de Matías, la presencia física de Matías, la altura y los hombros y esa manera de pararse que proyectaba autoridad sin esfuerzo — y lo miró desde el umbral con una expresión que él conocía bien porque era la suya.
+Daniela volvió al cuarto cuando él ya había regresado del baño y estaba sentado otra vez en el borde de la cama, sin haber hecho nada útil desde entonces. Entró en el cuerpo de él — el cuerpo de Matías, la presencia física de Matías, la altura y los hombros y esa manera de pararse que proyectaba autoridad sin esfuerzo — y lo miró desde el umbral con una expresión que él conocía bien porque era la suya.
 
 Calma. Evaluación. La decisión ya tomada.
 
@@ -95,7 +141,7 @@ Calma. Evaluación. La decisión ya tomada.
 
 *Dani.*
 
-Él abrió la boca para corregirla. Para decirle que su nombre era Matías, que llevaba treinta y cinco años siendo Matías, que nadie lo había llamado así nunca. Pero algo en la manera en que ella lo dijo — con esa calma específica, con ese peso particular de quien no está haciendo una pregunta — lo frenó antes de empezar.
+Él abrió la boca para corregirla. Para decirle que su nombre era Matías, que llevaba treinta y cinco años siendo Matías, que nadie lo había llamado así nunca. Pero algo en la manera en que ella lo dijo — ese peso particular de quien no está haciendo una pregunta — lo frenó antes de empezar.
 
 —Hoy tienes turno para las uñas —continuó ella, sin esperar respuesta. Se movió hacia el closet, lo abrió, sacó algo sin mirar demasiado—. A las once. Después maquillaje. Por la tarde vemos lo de las perforaciones.
 
@@ -108,8 +154,6 @@ Daniela lo miró.
 No fue una mirada larga. No fue una mirada furiosa. Fue apenas un instante de atención más concentrada, un ajuste en la postura, algo en la voz cuando volvió a hablar que subió menos de un grado pero que cambió todo el peso del aire en el cuarto.
 
 —Dani —repitió, y ahí estaba ese grado de diferencia—. Ya lo hablamos.
-
-Y entonces ocurrió lo que no tendría que haber ocurrido.
 
 Los ojos de Matías bajaron.
 
@@ -199,7 +243,7 @@ Daniela seleccionó con la precisión de alguien que conoce bien lo que está bu
 
 *Me dijo quieta.*
 
-Matías no dijo nada. Sentía el pincel sobre el párpado como una presión leve y continua, y Daniela se movía alrededor de su cabeza con esa concentración que él reconocía — la misma concentración que él había tenido un domingo, años atrás, cuando se había sentado detrás de Daniela frente a un espejo muy parecido a este y le había tomado los pinceles de las manos.
+Matías no dijo nada. Sentía el pincel sobre el párpado como una presión leve y continua, y Daniela se movía alrededor de su cabeza con esa concentración que él reconocía — la misma concentración que él había tenido un domingo, años atrás, cuando se había sentado detrás de Daniela frente a un espejo y le había tomado los pinceles de las manos.
 
 Ella no sabía maquillarse bien. Eso había pensado él. No era un juicio severo — era una observación técnica. No sabía dónde acentuar, cómo difuminar, qué colores correspondían a su tipo de rostro. Él lo sabía. O creía saberlo. Así que ese domingo había dicho, con esa calma de quien solo quiere ayudar: *"¿Me dejas intentar algo?"*
 
@@ -209,7 +253,7 @@ Y él le había corregido cada trazo. Le había enseñado los colores que le fav
 
 Después de ese domingo, Daniela se maquillaba como él le había enseñado.
 
-Ahora Daniela le estaba aplicando ese mismo maquillaje, con esa misma técnica, y Matías estaba quieto porque el cuerpo lo estaba quieto antes de que la mente decidiera nada.
+Ahora Daniela le estaba aplicando ese mismo maquillaje, con esa misma técnica, y Matías estaba quieto porque el cuerpo se había quedado quieto antes de que la mente decidiera nada.
 
 *Ella sabe exactamente lo que está haciendo. Conoce este rostro mejor que yo.*
 
@@ -353,7 +397,7 @@ Todavía no tenía nombre para eso.
 
 ---
 
-Volvieron al apartamento cuando ya empezaba a caer la tarde. Daniela preparó algo en la cocina — Matías escuchó los ruidos desde el dormitorio, donde se había sentado en el borde de la cama otra vez, en la misma posición de la mañana, aunque ahora el cuerpo que sostenía el borde de la cama era distinto en cada detalle al de la mañana: maquillado, vestido, con los pezones perforados presionando contra el vinilo, con las uñas largas apoyadas en las rodillas.
+Volvieron al departamento cuando ya empezaba a caer la tarde. Daniela preparó algo en la cocina — Matías escuchó los ruidos desde el dormitorio, donde se había sentado en el borde de la cama otra vez, en la misma posición de la mañana, aunque ahora el cuerpo que sostenía el borde de la cama era distinto en cada detalle al de la mañana: maquillado, vestido, con los pezones perforados presionando contra el vinilo, con las uñas largas apoyadas en las rodillas.
 
 Daniela le dejó un plato en la mesita de noche sin decir mucho. Se fue. Matías comió sin hambre, mecánicamente, mirando la pared.
 
@@ -402,5 +446,5 @@ Mañana también iban a estar ahí.
 *Fin del Capítulo 1*
 
 ---
-> **Nota de producción:** v0.2 — Editado tras sentencia del Crítico (7.7). Correcciones: departamento ×2, salón, escena perforaciones expandida, signposting eliminado, cierre reescrito.
-> **Conteo de palabras:** ~4,100 palabras
+> **Nota de producción:** v0.3 — Revisión estructural mayor. Nueva apertura (lado equivocado, baby doll, peso). Escena de pánico expandida con contacto físico. Escena nueva: Daniela despierta en cuerpo de Matías, tiene su propio instante de pánico, lo contiene. Pase del Crítico: errores de tiempo verbal corregidos, señalamiento IA eliminado, redundancias resueltas, error gramatical corregido. Archivos anteriores: v0.1 y v0.2 en borradores/capitulo_01/.
+> **Conteo de palabras:** ~4,800 palabras
