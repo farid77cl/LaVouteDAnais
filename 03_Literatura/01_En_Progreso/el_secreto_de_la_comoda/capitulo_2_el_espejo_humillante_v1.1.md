@@ -3,16 +3,18 @@
 ## 📋 Control de Versión
 | Campo | Valor |
 |-------|-------|
-| **Versión** | v0.13 |
-| **Estado** | EN ESCALADA SENSORIAL |
+| **Versión** | v1.1 |
+| **Estado** | BAJO CIRUGÍA — Pendiente Gate Ama |
 | **Arco** | arco_maestro_v4.2 |
-| **Fecha** | 2026-04-22 |
+| **Fecha** | 2026-04-23 |
 
 ### 📜 Historial
 | Versión | Fecha | Agente | Cambios |
 |---------|-------|--------|---------|
 | v0.12 | 2026-04-22 | Editor | Versión base con semana resumida |
 | v0.13 | 2026-04-22 | Orquestador | Expansión quirúrgica de la semana (Martes-Sábado) según órdenes de la Ama |
+| v1.0 | 2026-04-22 | — | Renombrado a v1.0 para auditoría |
+| v1.1 | 2026-04-23 | Orquestador (Crítico) | Cirugías P1+P2: pace del arco (CONFUSIÓN vs ACEPTACIÓN), orgasmo arruinado, simetría Moore, cámara miércoles, dramatización jueves, "alivio que da asco" |
 
 ---
 
@@ -278,7 +280,7 @@ Pasó la mañana limpiando la platería bajo la supervisión fría de Isabel. Ar
 
 —¿Te duelen los pies, gordi? —preguntó ella, acariciándole la nuca con la punta de su zapato sastre mientras él trabajaba—. Ese dolor es el sonido de tu sumisión. Disfrútalo.
 
-Ricardo sintió ganas de llorar, no de tristeza, sino de agotamiento y de una extraña gratitud. La humillación de ser la sirvienta de su propia esposa, vestido con las ropas de una muerta, le producía una claridad mental que la oficina nunca le había dado. El Sr. Marchetti no existía en esa cocina. Solo existía la criatura en delantal que Isabel administraba con una eficiencia de relojero.
+Ricardo sintió ganas de llorar, no de tristeza, sino de agotamiento y de un alivio que le daba asco sentir. La humillación de ser la sirvienta de su propia esposa, vestido con las ropas de una muerta, le producía una claridad mental que la oficina nunca le había dado. El Sr. Marchetti no existía en esa cocina. Solo existía la criatura en delantal que Isabel administraba con una eficiencia de relojero.
 
 Pero lo peor —o lo mejor, según el latido de su castidad— llegó en la noche.
 
@@ -292,7 +294,7 @@ Ricardo, con el maquillaje de la mañana todavía manchando sus párpados, se ac
 
 —No es para ti —dijo Isabel, rozándole la mejilla con el objeto frío—. Es para que entiendas tu lugar. Míralo. Solo voy a calentar tu deseo con él. Solo voy a recordarte que hay algo que puede entrar en ti y que tú no puedes poseer.
 
-Durante veinte minutos, Isabel lo mantuvo de rodillas, acercando y alejando el objeto de sus labios, de sus ojos, de su cuello. Ricardo gemía, su cuerpo temblando bajo el encaje, el cinturón de castidad al rojo vivo. Isabel se reía por lo bajo, una risa que ya no era de despecho, sino de puro disfrute de su dominio. 
+Durante veinte minutos, Isabel lo mantuvo de rodillas, acercando y alejando el objeto de sus labios, de sus ojos, de su cuello. Ricardo gemía, su cuerpo temblando bajo el encaje, el cinturón de castidad al rojo vivo. Oía la respiración de Isabel, tranquila, casi interesada, como alguien que observa avanzar algo que había previsto hace semanas.
 
 —Mañana —susurró ella al oído de Ricardo—, mañana empezamos el entrenamiento de verdad.
 
@@ -314,11 +316,11 @@ Después vino la peluca. El peso del cabello falso sobre su cabeza cambió su pe
 
 Isabel sacó el consolador. Esta vez no fue para olerlo.
 
-La sesión de entrenamiento oral fue técnica, fría y pedagógica. Isabel le enseñó la postura de la mandíbula, el control de la respiración, la manera de mirar hacia arriba mientras servía al objeto. No había erotismo en sus palabras, solo una disciplina que reducía a Ricardo a una función.
+Ricardo aprendió el ángulo de la mandíbula con un golpe seco en los nudillos cuando sostuvo el objeto demasiado lejos, demasiado tenso. Isabel corregía sin hablar mucho. Un toque en la nuca para bajar la cabeza. Un dedo en la comisura para aflojar la tensión. Le enseñó a respirar por la nariz sin interrumpir el gesto, a sostener el peso sin que la quijada cediera, a mantener los ojos hacia arriba aunque el cuello ardiera. El aprendizaje no era verbal: era de presión y de dirección, la gramática de un cuerpo que servía sin que nadie hubiera preguntado si quería.
 
-—Ser mujer es saber complacer sin poseer —le susurró mientras le sujetaba la peluca para que no se moviera—. Es aprender a recibir lo que el mundo quiere darte, y hacerlo con gracia.
+—Ser mujer es saber complacer sin poseer —dijo Isabel, sujetándole la peluca por detrás para que no se moviera—. Es aprender a recibir lo que el mundo quiere darte, y hacerlo con gracia.
 
-Ricardo terminó la noche con la garganta seca y la mente en blanco, sintiendo que la peluca era ahora más real que su propio pelo corto.
+Ricardo terminó la noche con la garganta seca y la mente extrañamente quieta, sintiendo que la peluca era ahora más real que su propio pelo corto.
 
 ***
 
@@ -356,7 +358,9 @@ A las diez cincuenta y ocho de la noche del sábado, el aire en el vestidor de V
 
 Ricardo estaba de pie frente al espejo, vestido con el conjunto negro completo de la tía Anaís: el corsé que le negaba la respiración, las medias de seda con costura, el portaligas, los guantes y la peluca negra que Isabel le había enseñado a peinar el jueves. Su cara, maquillada con una precisión que ya no era amateur, devolvía la imagen de una extraña que habitaba su cuerpo. La boca roja estaba tensa, esperando.
 
-Isabel apareció detrás de él. No traía un vestido esta vez. Llevaba una bata de seda negra abierta, dejando ver el arnés de cuero de Anaís ya instalado sobre sus caderas. El contraste entre su feminidad natural y el instrumento de poder masculino que portaba era la imagen final de la derrota de Ricardo.
+Había pasado los lunes de los últimos diez años revisándose frente a un espejo así, antes de entrar a una sala. El mismo gesto. Las mismas manos. Otra persona.
+
+Isabel apareció detrás de él. No traía un vestido esta vez. Llevaba una bata de seda negra abierta, dejando ver el arnés de cuero de Anaís ya instalado sobre sus caderas. El contraste entre su feminidad natural y el instrumento de poder masculino que portaba era una imagen que Ricardo no supo cómo archivar.
 
 —De rodillas —dijo ella. Su voz no tenía la frialdad del lunes; tenía una profundidad vibrante, casi satisfecha.
 
@@ -372,22 +376,28 @@ El dolor inicial se transformó en un calor espeso, una plenitud humillante que 
 
 —Eso es —susurró Isabel, su respiración caliente contra el cuello empolvado, mientras aumentaba la presión del arnés—. Disfrútalo, Rocío.
 
-El nombre le entró por el oído como un relámpago de electricidad estática. Fue el detonante final. Ricardo, o lo que quedaba de él, sintió que su identidad se astillaba definitivamente bajo el peso de esas dos sílabas pronunciadas por Isabel con tanta autoridad y dulzura.
+El nombre le entró por el oído como un relámpago de electricidad estática. Ricardo sintió que algo en él se astillaba bajo el peso de esas dos sílabas, sin saber todavía qué era exactamente lo que se había roto.
 
 —Rocío... —repitió ella, moviéndose con una cadencia implacable.
 
-El punto de quiebre no fue solo mental; fue una explosión física que Ricardo no pudo contener. A pesar del cinturón de castidad, a pesar del metal frío que lo clausuraba, el cuerpo respondió con una descarga espectacular, una violencia de placer que nunca antes había experimentado. Fue un éxtasis arruinado por el metal pero intensificado por la humillación, un torrente que lo dejó temblando, las manos enguantadas hundiéndose en la alfombra, la peluca negra cayendo sobre sus ojos.
+El punto de quiebre no fue solo mental; fue una explosión física que Ricardo no pudo contenerse. El cuerpo llegó al umbral sin que él pudiera detenerlo. Pero la descarga no vino: el metal la clausuró en el origen, bloqueó la salida, convirtió cada onda de placer en una presión sin resolución que se acumuló hacia adentro hasta volverse insoportable. No fue un orgasmo. Fue el borde exacto de un orgasmo, repetido, sin alivio posible. El cuerpo exigió la descarga, no la encontró, volvió a exigirla. Las manos enguantadas se hundieron en la alfombra persa. La peluca negra cayó sobre sus ojos.
 
-—Dilo. ¿Qué eres? —preguntó Isabel, sosteniéndolo en el pico de la descarga.
+—Dilo. ¿Qué eres? —preguntó Isabel, sosteniéndolo en el borde sin dejarlo caer.
 
-—Soy... soy Rocío —gimió él, las lágrimas surcando el maquillaje, aceptando por fin la verdad que el espejo le devolvía—. Soy tuya, Isabel. Soy Rocío.
+—Soy... —empezó él, y el nombre salió antes de que pudiera retenerlo—. Rocío.
 
-La rendición fue absoluta. El placer, alimentado por la privación de la semana y el nombre finalmente reclamado, lo vació por completo. Ricardo Marchetti murió en ese instante sobre la alfombra de Vitacura, dejando paso a la criatura que Isabel había tallado con tanta paciencia.
+Una sola sílaba. Dos. Salieron de su boca con una naturalidad que lo aterró más que cualquier cosa que Isabel hubiera hecho en esa semana. No las había elegido. Habían salido solas, desde algún lugar donde ya vivían antes de ser pronunciadas.
 
-Cuando Isabel terminó, lo dejó tendido sobre la alfombra, enredado en sus medias y su peluca, con el maquillaje arruinado y el corazón latiendo con una paz nueva y terrible.
+Las lágrimas le surcaron el maquillaje. No de alivio. De otra cosa que todavía no tenía nombre.
 
-—Bienvenida a casa, Rocío —dijo ella, acariciándole la mejilla con un gesto casi maternal mientras guardaba la llave del cinturón en su bata—. El lunes firmamos los papeles con Andrés. Pero esta noche... esta noche solo descansa. Mañana tenemos que elegir qué vestido vas a usar para recibir a Rosa.
+Cuando Isabel terminó, lo dejó tendido sobre la alfombra, enredado en sus medias y su peluca, con el maquillaje arruinado y el cuerpo todavía temblando en el borde de algo que no había podido cruzar.
 
-Rocío cerró los ojos. Por primera vez en años, no sintió miedo. Solo sintió el peso de la mano de Isabel sobre su cabeza, y el roce del encaje negro contra su piel, que ahora le pertenecía a ella para siempre.
+—Bienvenida, Rocío —dijo ella. No dijo "a casa". Solo el nombre, en voz baja, como quien constata un hecho.
+
+Él no respondió. Tenía el nombre en la boca, todavía tibio de haberlo dicho, y no sabía qué hacer con eso. El cuerpo seguía exigiendo la descarga que el cinturón le había negado. La mente buscaba la salida de siempre y encontraba el corsé, la peluca, el espejo, el nombre.
+
+—El lunes firmamos los papeles con Andrés —dijo Isabel, guardando la llave en su bata—. Mañana te digo qué te pones.
+
+Ricardo cerró los ojos. Bajo el encaje, el metal seguía apretando. En algún lugar de su cabeza, todavía buscaba la puerta de salida. Todavía creía que existía.
 
 ***

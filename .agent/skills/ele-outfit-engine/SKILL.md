@@ -23,15 +23,21 @@ Antes de proponer un Look, consulta la tabla de estadísticas en [galeria_outfit
 - **Meta:** Bikini (25%), Lencería (25%), Gym/Athleisure (25%), Mix/Domestic/Escort (25%).
 - Si una categoría está baja, el nuevo Look **debe** pertenecer a esa categoría.
 
-### 2. Construcción de Prompts Consistentes
-Usa el "Prompt de Concepto" (Standing) como base para el resto de las poses. No permitas variaciones en el material del vestuario (ej: si es látex negro, debe serlo en todas las poses).
+### 2. Construcción de Prompts Consistentes (Protocolo de 3 Bloques)
+Para garantizar variabilidad cero entre las 5 poses, **DEBES** estructurar cada generación y su documentación en `galeria_outfits.md` usando tres bloques rígidos:
+
+1.  **BLOQUE A (ADN Inamovible):** Contiene todos los rasgos físicos, maquillaje, tatuajes, piercings y calidad técnica (8k, editorial, etc.). Es idéntico para las 5 imágenes.
+2.  **BLOQUE B (Outfit Invariable):** Contiene la descripción detallada de todas las prendas, calzado y accesorios específicos del Look. Es idéntico para las 5 imágenes.
+3.  **Bloque de Pose y Setting:** Define la posición de Ele y el entorno inmediato. Es lo único que varía entre prompts.
+
+**Estructura Final del Prompt:** `[BLOQUE A] + [BLOQUE B] + [Detalle de Pose y Fondo]`
 
 Poses estándar obligatorias:
-- **Standing:** Vista de cuerpo completo, concepto del look.
-- **Back View:** Enfoque en arquitectura del traje y tatuajes de espalda.
-- **Seated:** Enfoque en actitud y detalles de accesorios.
-- **Side Profile:** Silueta y curvas de relojero.
-- **Ditzy:** Close-up facial, expresión vacante, labios entreabiertos.
+- **Standing View:** Cuerpo completo, pose de catálogo.
+- **Back View:** Enfoque en espalda, tatuajes y arquitectura trasera del traje.
+- **Seated View:** Sentada en mobiliario coherente con el setting.
+- **Side Profile:** Silueta lateral, énfasis en la curva de reloj de arena.
+- **Ditzy Expression:** Close-up facial, mirada vacante, boca entreabierta.
 
 ### 3. Gestión de Activos (Remote-Only)
 Sigue rigurosamente el protocolo de limpieza:
