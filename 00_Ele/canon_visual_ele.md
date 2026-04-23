@@ -11,7 +11,7 @@
 
 Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente en cada prompt (segmento extraído de `prompts_ele_v3_master.md`):
 
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.`
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches).`
 
 **Protocolos Adicionales de Comportamiento:**
 - **Calzado:** Towering stiletto heels (minimum 8-inch), NEVER barefoot, NO sneakers.
@@ -77,7 +77,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 
 ## V. CALZADO TÉCNICO (Pleaser Spec) 👠
 
-**REGLA DE ORO:** Ele es una muñeca diseñada para tacones. Nunca descalza.
+**REGLA DE ORO (INQUEBRANTABLE):** Ele es una muñeca diseñada para tacones. Nunca descalza, nunca en planos, nunca en zapatillas normales. SIEMPRE en tacones de aguja (stilettos) o botas de tacón de aguja, con un mínimo absoluto de 12 centímetros de alto (estándar: 8-11 pulgadas). Esto aplica incluso en el gimnasio, la piscina o durmiendo.
 
 ### Modelos Canónicos
 - **FLAMINGO-808:** `8-inch stiletto heel, 4-inch platform, gold chrome mirror finish, clear PVC straps`
@@ -91,7 +91,7 @@ Esta es la base física, de cabello y maquillaje que DEBE repetirse textualmente
 Este bloque integra TODA la identidad. Úsalo como punto de partida para cualquier nueva instrucción:
 
 ```text
-[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
+[PHOTO STYLE], stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels. [OUTFIT DESCRIPTION]. [CALZADO TÉCNICO]. [POSE & EXPRESSION: vacant daze, mouth mindlessly open]. [SETTING & LIGHTING]. Rim lighting to define silhouette, high-gloss specularity.
 ```
 
 ---
