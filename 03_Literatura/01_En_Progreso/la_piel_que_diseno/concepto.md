@@ -45,35 +45,57 @@ El racconto debe revelar por capas como se fue construyendo esa pedagogia del "m
 El cambio de cuerpos no traslada solo la conciencia. Tambien deja adheridos a cada cuerpo ciertos habitos relacionales y afectivos que ya estaban sedimentados en el vinculo.
 
 Eso significa:
-- **el**, al despertar en el cuerpo de ella, empieza a sentirse mas inclinado a la complacencia, la duda, la adaptacion y la sumision
-- **ella**, al habitar el cuerpo de el, accede con mas naturalidad a la firmeza, la autoridad, la decision y la dominancia
+- **El**, al despertar en el cuerpo de ella, empieza a sentirse mas inclinado a la complacencia, la duda, la adaptacion y la sumision.
+- **Ella**, al habitar el cuerpo de el, accede con mas naturalidad a la firmeza, la autoridad, la decision y la dominancia.
 
 La inversion no debe sentirse magica ni instantaneamente caricaturesca. Debe operar como una corriente cada vez mas dificil de resistir: el cuerpo empuja una forma de estar en el mundo.
 
-## 5. Motor Emocional
-El eje del relato no es solo el castigo. Es la mezcla progresiva de:
-- humillacion
-- dependencia
-- fascinacion corporal
-- reordenamiento del deseo
-- perdida de control
+### Lo que siente el (en el cuerpo de ella)
+Desde el Dia 0, el empieza a experimentar una excitacion que no puede nombrar ni controlar: el bimboismo lo atrae. No solo lo soporta — lo siente. Los tratamientos de belleza, la ropa ajustada, el maquillaje intensivo, el peso de los pechos, las miradas que recibe en la calle: todo eso lo excita. Esa excitacion es la grieta que destruye su identidad masculina desde adentro. El quiere resistir pero el cuerpo traiciona. El quiere rechazar pero el espejo lo engancha. El quiere salir de esa feminidad y al mismo tiempo quiere mas.
 
-El protagonista quiere rechazar ese cuerpo y lo que representa, pero el propio cuerpo empieza a educarlo. No solo aprende el peso material de esa feminidad fabricada; tambien empieza a heredar su disponibilidad emocional. El busto nuevo debe ser uno de los centros de esa educacion: la tirantez al moverse, la necesidad de ajustar postura, la manera en que la ropa cae distinto, la conciencia constante del volumen y la sensibilidad creciente de la zona convierten el cuerpo en algo imposible de ignorar. Cada sesion de maquillaje, gimnasio, tacones, ropa ajustada o mantenimiento estetico lo enfrenta con una verdad insoportable: lo que antes exigia como disciplina ajena ahora empieza a contaminar su identidad desde adentro.
+Ese conflicto es el motor interno del relato: no solo sufre por estar atrapado en un cuerpo que no es el suyo — sufre porque **empieza a querer serlo**. La humillacion y el deseo crecen al mismo tiempo, y no puede separarlos.
+
+### Lo que siente ella (en el cuerpo de el)
+Ella empieza a disfrutar su nuevo rol masculino y dominante con una velocidad que la sorprende. El cuerpo de el le da una autoridad fisica que nunca tuvo, y esa autoridad la transforma. Empieza a replicar exactamente los mismos mecanismos de microcontrol que el usaba con ella — las sugerencias suaves, las comparaciones elegantes, las correcciones que no admiten negativa — pero ahora desde el otro lado del vinculo, con plena conciencia de lo que hace. No es solo revancha: es que el cuerpo la empuja hacia esa forma de habitar el poder, y ella lo descubre comodo, natural e incluso eroticamente satisfactorio. Se vuelve mas machista, mas controladora, mas exigente — y lo disfruta.
+
+## 5. Motor Emocional
+El eje del relato no es el castigo. Es la **excitacion que destruye la identidad**. La mezcla progresiva de:
+- excitacion erotica por ser bimbo, por ser mirado, por ser deseado
+- humillacion de querer lo que deberia rechazar
+- dependencia del cuerpo que empieza a sentirse como propio
+- fascinacion corporal que crece cada vez que se mira al espejo
+- reordenamiento del deseo — ya no sabe que lo excita ni por que
+- perdida de control — el conflicto interno entre lo que fue y lo que el cuerpo quiere ser
+
+El protagonista quiere rechazar ese cuerpo y lo que representa, pero el propio cuerpo empieza a educarlo con excitacion. No solo aprende el peso material de esa feminidad fabricada; tambien descubre que esa feminidad lo atrae. El busto nuevo es uno de los centros de esa educacion: la tirantez al moverse, el peso constante, la sensibilidad creciente de la zona, la manera en que la ropa lo ciñe y lo exhibe — todo eso genera en el una respuesta que no puede negar ni controlar. Cada sesion de maquillaje, gimnasio, tacones, ropa ajustada, miradas en la calle o mantenimiento estetico lo enfrenta con una verdad que lo deshace: lo que antes exigia como disciplina ajena ahora lo excita desde adentro.
+
+El conflicto interno es el arco completo del relato:
+1. **Resistencia** — rechaza el cuerpo, rechaza los rituales, rechaza la excitacion.
+2. **Confusion** — el cuerpo responde antes que la mente. La excitacion aparece cuando no deberia.
+3. **Traicion** — sabe que lo excita y no puede controlarlo. Sigue resistiendo pero cada vez menos.
+4. **Aceptacion** — deja de luchar. Se rinde a lo que siente. La identidad masculina se disuelve en la fascinacion por ser lo que diseno.
+5. **Paz** — ya no hay conflicto. Disfruta. La ironía moral se cierra.
+
+Del otro lado, ella recorre el arco inverso: descubre que el cuerpo masculino le da una autoridad que empieza a disfrutar, que el microcontrol se siente natural desde ese lugar, y que volverse machista y controladora no le cuesta — la satisface.
 
 ## 6. Dinamica de Poder
-- **Antes del cambio:** el disena, sugiere, afina y corrige bajo apariencia de buen gusto y mejora.
-- **Despues del cambio:** ella administra el retorno con el mismo registro elegante y convierte cada ritual en una leccion corporal.
+- **Antes del Dia 0:** el disena, sugiere, afina y corrige bajo apariencia de buen gusto y mejora. Ella obedece, duda, se adapta.
+- **Desde el Dia 0:** ella administra el retorno con el mismo registro elegante. El obedece, duda, se adapta — y ademas se excita.
 
-Ella no debe sentirse caricaturesca ni vengativa sin matiz. Su poder nace de haber sobrevivido a esa fabricacion, de haber aprendido el idioma exacto con que el la moldeaba y de ocupar ahora un cuerpo que refuerza su capacidad de mando. Del otro lado, el no solo esta atrapado en la imagen que diseno: tambien siente como ese cuerpo lo vuelve mas permeable, mas complaciente y mas facil de conducir. La dominacion debe sentirse refinada, progresiva y casi inevitable.
+Ella no debe sentirse caricaturesca ni vengativa sin matiz. Su poder nace de haber sobrevivido a esa fabricacion durante anos, de haber aprendido el idioma exacto con que el la moldeaba y de ocupar ahora un cuerpo que refuerza su capacidad de mando. Con el tiempo se vuelve mas machista y controladora que el — no como imitacion grotesca, sino como alguien que descubre por primera vez lo que se siente tener ese poder fisico y relacional, y lo encuentra eroticamente satisfactorio.
+
+Del otro lado, el no solo esta atrapado en la imagen que diseno: tambien siente como ese cuerpo lo vuelve mas permeable, mas excitable, mas complaciente y mas facil de conducir. La dominacion debe sentirse refinada, progresiva y casi inevitable.
 
 Dentro de esa progresion, ella puede introducir nuevas "mejoras" con el mismo tono suave con que el antes lo hacia. Entre ellas, debe aparecer como escalamiento relevante la sugerencia de perforaciones en los pezones: no como gesto aislado, sino como otro paso en la apropiacion estetica y disciplinaria de un cuerpo que el todavia esta aprendiendo a soportar.
 
 ## 7. Tono y Genero
-- **Genero:** thriller psicologico de transformacion con fuerte carga sensual no grafica
-- **Tono:** elegante, cruel, intimo, claustrofobico
-- **Atmosafera:** lujo artificial, disciplina corporal, verguenza exhibida, feminizacion extrema
+- **Genero:** relato erotico de body swap con thriller psicologico de identidad
+- **Tono:** elegante, intimo, eroticamente cargado, claustrofobico
+- **Atmosafera:** lujo artificial, disciplina corporal, verguenza exhibida, feminizacion extrema, deseo que traiciona
 
-La sensualidad del relato debe surgir de la cercania forzada con el cuerpo, de la exposicion, del control, del espejo y de la incomodidad convertida en fascinacion. No de la explicitud sexual grafica.
+La sensualidad del relato debe surgir de la cercania forzada con el cuerpo, de la excitacion que aparece cuando no deberia, del control, del espejo, del ser mirado y deseado. La tension erotica es el motor — no la explicitud grafica, sino la incomodidad que se convierte en fascinacion y la fascinacion que se convierte en deseo.
+
+**Lo que debe sentirse siempre:** el protagonista esta siendo reescrito desde adentro por un cuerpo que lo excita, y ella lo sabe y lo usa.
 
 ## 8. Elementos Obligatorios
 - El cambio de cuerpos ya ocurrio antes de la primera escena.

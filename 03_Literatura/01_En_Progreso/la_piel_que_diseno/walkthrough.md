@@ -54,7 +54,8 @@ La historia empieza despues del cambio de cuerpos. El protagonista masculino des
 - El presente del relato consiste en hacerlo pasar por cada uno de esos rituales usando el mismo registro de aparente razonabilidad.
 - El pasado ya venia empujando el cuerpo femenino hacia una salida de exhibicion erotizada y trabajo performatico.
 - Debe existir una escalada donde ella le sugiera perforaciones en los pezones como nueva "mejora" corporal.
-- El motor emocional es la mezcla de humillacion, fascinacion corporal, perdida progresiva de control y desplazamiento psicologico hacia la sumision de el y la dominancia de ella.
+- El motor emocional central es la **excitacion que destruye la identidad**: desde el Dia 0, el siente excitacion por ser bimbo, por los tratamientos de belleza, por ser mirado y deseado — y eso lo hace dudar de su personalidad masculina. Humillacion y deseo crecen juntos e inseparables.
+- Ella, en el cuerpo de el, empieza a disfrutar el rol masculino y dominante. Se vuelve mas machista y microcontroladora — no como caricatura, sino como alguien que descubre que ese poder le resulta natural y eroticamente satisfactorio.
 
 ---
 
@@ -92,7 +93,9 @@ Si el proyecto funciona, cada ritual del presente no solo lo humilla. Tambien lo
 | Primer quiebre | Ropa y maquillaje + salir a la calle + miradas + excitación |
 | Sumisión adherida | Cap 1: primera resistencia → él baja los ojos → obedece → excitación extraña |
 | Perforaciones de pezones | Cap 1, mismo día que abre el relato |
-| Destino performático | Sí — cierre irónico: él termina disfrutando lo que preparó para ella |
+| Destino performático | Sí — club de strippers, clientes, VIP, manoseo, ser tratado como bimbo |
+| Primera escena erótica entre ellos | Final de Cap 2 — él vuelve de la calle excitado, ella inicia desde posición dominante. Punto de no retorno. |
+| Escena final de Cap 3 | Escena de sexo explícita — él llega del club (miradas, VIP, clientes, manoseo) y termina con ella. Ironía moral completa. |
 
 ---
 
