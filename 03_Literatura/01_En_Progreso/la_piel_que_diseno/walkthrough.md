@@ -105,10 +105,10 @@ Si el proyecto funciona, cada ritual del presente no solo lo humilla. Tambien lo
 Él despierta en el cuerpo. Primer intento de resistencia. Ella alza la voz — él baja los ojos, obedece, siente excitación extraña. Ella sugiere las perforaciones de pezones con el mismo tono suave de él. Maquillaje, ropa bimbo. El peso de los pechos reorganiza todo: postura, movimiento, conciencia corporal.
 
 **Cap 2 — La calle:**
-Salir vestida como bimbo. Las miradas lo convierten en objeto. Eso lo excita y no puede negarlo. Flashbacks del microcontrol que él ejercía — las frases suaves, las correcciones elegantes, las sugerencias que no admitían negativa. El presente espeja el pasado.
+Salir vestida como bimbo. Las miradas lo convierten en objeto. Eso lo excita y no puede negarlo. Flashbacks del microcontrol que él ejercía — las frases suaves, las correcciones elegantes, las sugerencias que no admitían negativa. El presente espeja el pasado. Cierre de capítulo: él vuelve a casa en ese estado — excitado, fracturado, incapaz de negarlo. Ella lo lee y elige ese momento para iniciar. **Primera escena erótica entre ellos.** Punto de no retorno: el cuerpo ya cedió del todo.
 
 **Cap 3 — Aceptación:**
-Ya no resiste. La fascinación corporal gana sobre la resistencia identitaria. El arco lo lleva hacia el destino performático que había preparado para ella: exhibición, pole dance, el club. Él termina disfrutando. La ironía moral se cierra.
+Ya no hay resistencia. Él acepta el destino que preparó para ella: el club de strippers. Una noche completa — las miradas, calentar clientes, el VIP con varios hombres, el manoseo, ser tratado como un objeto bimbo de lujo. Lo que antes diseñó como condena ajena ahora lo vive en primera persona y lo disfruta. Llega a casa encendida, sin pudor, sin conflicto. **Escena de sexo final con ella.** La ironía moral se cierra sin comentario: él construyó exactamente esto — y terminó siendo el que lo disfruta.
 
 ---
 

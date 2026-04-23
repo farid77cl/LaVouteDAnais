@@ -125,8 +125,34 @@ La sensualidad del relato debe surgir de la cercania forzada con el cuerpo, de l
 ## 9. Apuesta Narrativa
 La fuerza del relato esta en la inversion moral y sensorial: el hombre despierta dentro del cuerpo que fue puliendo como ideal ajeno y descubre que esa estetica supuestamente aspiracional era una maquinaria de trabajo, incomodidad, dependencia y reescritura del yo. El cambio gana profundidad porque no solo altera la apariencia: reorganiza la posicion emocional desde la que cada uno habita el poder.
 
-## 10. Linea Roja de esta Version
-Este proyecto se trabaja como relato de body swap, microcontrol estetico, humillacion psicologica e inversion de poder. La temperatura emocional puede ser alta, pero debe apoyarse en tension, verguenza, disciplina, espejo, poder y transformacion identitaria, no en explicitud sexual grafica.
+## 10. Mapa de Escenas Eroticas
+
+Este relato es erotico. Las escenas de tension corporal y deseo recorren todo el texto, pero hay dos momentos de maxima temperatura que funcionan como bisagras narrativas.
+
+### Escena Erotica 1 — Final de Cap 2 (Primera vez)
+**Contexto:** El vuelve de la calle. Ha sido mirado, deseado, tratado como objeto. Su cuerpo esta encendido y no puede negarlo. Llega a casa con la excitacion adherida, sin saber bien que hacer con ella.
+
+**Lo que ocurre:** Ella lo lee de inmediato. Sabe exactamente en que estado vuelve — porque ella paso anos en ese estado cuando el era quien la conducia. Desde su nuevo cuerpo masculino, desde su nueva autoridad, elige ese momento con precision. Lo inicia. El no resiste o lo intenta y no puede. Es la primera escena de sexo entre ellos desde el Dia 0.
+
+**Tono:** dominancia fria y elegante de ella. Excitacion mezclada con humillacion de el. Ella usa el mismo idioma de microcontrol suave — frases breves, correcciones, observaciones — mientras lo tiene exactamente donde quiere. El descubre que el cuerpo de ella responde distinto a como el lo anticipaba. La escena termina con el sin saber si lloro o grito, pero sabiendo que no va a poder volver atras.
+
+**Funcion narrativa:** punto de no retorno. Despues de esto, la resistencia identitaria ya no tiene base real.
+
+---
+
+### Escena Erotica 2 — Cierre de Cap 3 (La noche del club)
+**Contexto:** El ha trabajado esa noche en el club que el mismo habia planeado para ella. Una noche completa: las miradas desde el primer momento, las luces, el pole dance, los clientes que lo siguen con los ojos. El VIP — varios hombres, el manoseo, las manos que lo toman como si fuera de ellos, ser tratado como objeto de lujo y placer. Lo que el disenó como destino para ella, lo vive en primera persona. Y lo disfruta. Sin conflicto. Sin vergüenza residual.
+
+**Lo que ocurre:** Llega a casa. Ella esta esperando. No hay necesidad de palabras largas. El ya no llega fracturado ni confundido — llega encendida, lista, sin resistencia. La escena de sexo final es la culminacion de todo el arco: el cuerpo que el disenó, los rituales que el impuso, el destino que el preparó — todo eso se cierra en este momento, con el como participante pleno y deseante.
+
+**Tono:** mas calido que la primera escena, menos tension de poder explicita. Ya no hay grieta que cruzar. El disfrute es genuino. Ella lo recibe como lo que es ahora — no como castigo, sino como culminacion. La ironia moral no necesita subrayarse: esta en cada detalle.
+
+**Funcion narrativa:** cierre total del arco. La identidad masculina anterior ya no existe. La nueva identidad se afirma en placer, sin comillas internas.
+
+---
+
+## 11. Linea Roja de esta Version
+Este relato es erotico de adultos — body swap, bimbofication, microcontrol, inversion de poder, sumision progresiva, escenas de sexo entre los dos protagonistas y situaciones de exhibicion y contacto en el club. La temperatura es alta. La explicitud es parte del proyecto. Lo que no entra: menores de edad, no-consentimiento sin marco narrativo claro, degradacion sin motor psicologico.
 
 ---
 
@@ -149,7 +175,11 @@ Este proyecto se trabaja como relato de body swap, microcontrol estetico, humill
 
 **7. Perforaciones de pezones:** El mismo día que abre el relato. Ella lo sugiere con el mismo tono suave de él — en el momento de mayor vulnerabilidad de él. El punto 6 y el punto 7 ocurren en el Cap 1.
 
-**8. Destino performático:** Sí. La ironía completa: el arc lo lleva hacia lo que él había preparado para ella — exhibición, pole dance, el club. Y él termina disfrutándolo.
+**8. Destino performático:** Sí. La ironía completa: el arco lo lleva hacia lo que él había preparado para ella — exhibición, pole dance, el club. Una noche completa: miradas, calentar clientes, VIP con varios hombres, manoseo, ser tratado como bimbo de lujo. Y él termina disfrutándolo.
+
+**9. Primera escena erótica entre ellos:** Final de Cap 2. Él vuelve de la calle excitado e incapaz de negarlo. Ella inicia desde posición dominante usando el mismo lenguaje de microcontrol suave que él usaba. Punto de no retorno.
+
+**10. Escena final de Cap 3:** Escena de sexo explícita después de la noche en el club. Él llega sin resistencia ni conflicto — llega lista, encendida, deseante. Cierre total del arco. La ironía moral se cierra sin comentario.
 
 ---
-**Gate de Fase 1:** concepto cerrado con decisiones de la Ama. Listo para Fase 2.
+**Gate de Fase 1:** CERRADO. Concepto completo con todas las decisiones de la Ama. Listo para Fase 2.

@@ -1,4 +1,4 @@
-# La Voûte d'Anaïs
+﻿# La Voûte d'Anaïs
 
 *Bienvenue. La porte est ouverte.*
 
@@ -88,7 +88,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **El Secreto de la C�moda � Cap�tulo 2: El Espejo Humillante (v1.0 Can�nica) finalizado.)
+- **El Secreto de la C�moda � Cap�tulo 2: El Espejo Humillante (v1.0 Can�nica) finalizado.)
 
 ### Biblioteca Completa (39 relatos finalizados)
 - **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*�ltima actualizaci�n: $date - Look 142 Materializado (Professional Stripper) & Auditor�a V3.4
+*�ltima actualizaci�n: $date - Look 142 Materializado (Professional Stripper) & Auditor�a V3.4
