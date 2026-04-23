@@ -1,6 +1,7 @@
 # Walkthrough: La Piel que Diseno
 
-**Estado:** Fase 1 — CERRADA. Decisiones de la Ama incorporadas. Gate listo.
+**Estado:** Fase 4 — CAP 1 ESCRITO. Pendiente revisión de la Ama.
+**Personajes:** Matías (protagonista, ahora en cuerpo de Daniela / "Dani") — Daniela (antagonista, ahora en cuerpo de Matías)
 **Fecha:** 2026-04-23  
 **Agente:** Orquestador
 
@@ -104,6 +105,10 @@ Si el proyecto funciona, cada ritual del presente no solo lo humilla. Tambien lo
 **Cap 1 — El primer día:**
 Él despierta en el cuerpo. Primer intento de resistencia. Ella alza la voz — él baja los ojos, obedece, siente excitación extraña. Ella sugiere las perforaciones de pezones con el mismo tono suave de él. Maquillaje, ropa bimbo. El peso de los pechos reorganiza todo: postura, movimiento, conciencia corporal.
 
+Los racconto empiezan aquí — cada ritual del Día 1 detona un recuerdo específico de cuando él imponía ese mismo ritual sobre ella. Uñas → recuerda cómo la mandaba. Maquillaje → recuerda cómo le corregía la técnica. El espejo moral funciona desde la primera página.
+
+El diálogo interno del protagonista es denso y contradictorio desde el inicio: indignación, negación, grieta. El lector vive la rendición gradual desde adentro.
+
 **Cap 2 — La calle:**
 Salir vestida como bimbo. Las miradas lo convierten en objeto. Eso lo excita y no puede negarlo. Flashbacks del microcontrol que él ejercía — las frases suaves, las correcciones elegantes, las sugerencias que no admitían negativa. El presente espeja el pasado. Cierre de capítulo: él vuelve a casa en ese estado — excitado, fracturado, incapaz de negarlo. Ella lo lee y elige ese momento para iniciar. **Primera escena erótica entre ellos.** Punto de no retorno: el cuerpo ya cedió del todo.
 
@@ -120,6 +125,8 @@ Con el Gate de la Ama, el Arquitecto debe crear:
 - Definir repertorio verbal de él (antes del cambio) para que ella lo use en el presente con exactitud
 - Fijar dónde entra cada ritual corporal: gimnasio, dieta, maquillaje, tacones, exhibición pública
 - Fijar el tono de la perforación: misma suavidad pasivo-agresiva que él usaba
+- Mapear los pares ritual/racconto por capítulo: qué ritual del presente detona qué recuerdo específico del pasado
+- Diseñar la voz del diálogo interno en sus 5 registros (indignación → grieta → racionalización → traición → rendición) con frases modelo para cada fase
 
 ---
 

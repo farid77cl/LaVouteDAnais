@@ -3616,13 +3616,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **PROMPT 5  Ditzy Expression:**
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss charcoal grey latex sports bra with neon yellow piping, high-waisted neon yellow high-gloss vinyl compression leggings with charcoal side stripes, 14k white gold nipple piercings pressing prominently and visibly through the tight charcoal latex, no corset, bare midriff, neon yellow patent leather high-top gym sneakers with 11-inch chrome needle stiletto heels and chrome buckles, charcoal grey high-gloss latex wristbands, extreme close-up on face, vacant ditzy expression, sweat glistening on porcelain skin, dark cherry red XXXL hair damp and framing face, neon yellow bra straps visible, luxury futuristic glass gym overlooking a neon city at sunset, glowing gym equipment, high-gloss floor
 
-### 📸 Imágenes (2/5 - Partial Redo with Stilettos V3.5)
+### 📸 Imágenes (3/5 - Partial Redo with Stilettos V3.5)
 
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ✅ Materialized (11" Stilettos) |
 | **Back View** | ✅ Materialized (11" Stilettos) |
-| **Seated** | ⏳ *Pending Redo (Stilettos)* |
+| **Seated** | ✅ Materialized (11" Stilettos) |
 | **Side Profile** | ⏳ *Pending Redo (Stilettos)* |
 | **Ditzy** | ⏳ *Pending Redo (Stilettos)* |
 

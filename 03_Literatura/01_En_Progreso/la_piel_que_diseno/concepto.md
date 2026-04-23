@@ -33,13 +33,38 @@ Ese busto nuevo debe sentirse central para el proyecto. Para ella, antes del int
 Despues del cambio de cuerpos, ella, ahora en el cuerpo de el, le devuelve exactamente ese lenguaje. No necesita gritarle ni imponerle nada de forma burda. Lo conduce con observaciones suaves, decisiones ya tomadas y pequenas correcciones que no dejan espacio real para negarse. Ahora el tiene que cargar en primera persona con el peso, el esfuerzo, la incomodidad, la exposicion y la disciplina que antes presentaba como simples mejoras.
 
 ## 3. Mecanica Narrativa
-La estructura combina dos planos:
+
+### Los dos planos
 - **Presente (Dia 0 en adelante):** el protagonista masculino atrapado en el cuerpo de su pareja cumple rutinas de belleza, presentacion y mantenimiento corporal bajo supervision de ella.
-- **Racconto (antes del Dia 0):** se reconstruye la historia larga de la relacion — como la conocio, como fue cambiando con los anos, como el fue instalando el microcontrol capa por capa hasta llegar al Dia 0.
+- **Racconto (antes del Dia 0):** la historia larga de la relacion — como la conocio, como fue cambiando con los anos, como el fue instalando el microcontrol capa por capa.
 
-Los racconto no son simples flashbacks de eventos puntuales: deben mostrar distintos momentos de la relacion en diferentes etapas temporales, para que el lector vea la evolucion de ella como obra de el a lo largo del tiempo. Cada racconto del presente debe tener un eco moral con el ritual que el esta viviendo ahora.
+### Los racconto son detonados por los rituales — desde el Cap 1
+Los racconto no esperan al Cap 2. Empiezan en el primer capitulo, desde los primeros rituales. El mecanismo es siempre el mismo: **un ritual del presente detona un recuerdo especifico de cuando el imponia ese mismo ritual sobre ella.**
 
-El racconto debe revelar por capas como se fue construyendo esa pedagogia del "mejorate un poco mas", para que cada ritual del presente tenga un eco moral claro.
+Ejemplo canonico: en el Dia 1 tiene turno para las uñas. El momento en que la manicurista le toma la mano detona el recuerdo de como el la obligaba a ir a esas citas, de lo que le decia, del tono que usaba. El presente y el pasado se espejean con precision quirurgica. Lo que antes era una orden suave ahora es una incomodidad que el esta viviendo en su propio cuerpo.
+
+Cada ritual genera su propio par:
+- **Uñas → recuerda como la obligaba a mantenerlas largas y perfectas**
+- **Maquillaje → recuerda las veces que le corrigio la tecnica, le eligio los colores**
+- **Tacones → recuerda como le decia que sin tacones "se veia baja"**
+- **Pechos (sensibilidad, peso) → recuerda como insistio en cada cirugia**
+- **Ropa ajustada → recuerda como seleccionaba lo que ella podia ponerse**
+- **Pole dance / club → recuerda como plantó la idea como si fuera un proyecto de ella**
+
+El racconto no es flashback decorativo: es el espejo moral que hace insoportable el presente.
+
+### El dialogo interno es el arco
+La voz interior del protagonista es la columna vertebral del relato. El lector debe vivir el conflicto mental en tiempo real, desde adentro. La rendicion no ocurre en los actos — ocurre primero en la voz interna, y los actos vienen despues.
+
+El dialogo interno recorre cinco registros a lo largo de los tres capitulos:
+
+1. **Indignacion** *(Cap 1, inicio)* — rechazo frontal, incredulidad, distancia. *"Esto no soy yo. Esto es temporal. Esto no me afecta."*
+2. **Grieta** *(Cap 1, avanzando)* — la sensacion aparece antes que el permiso. El cuerpo responde. La voz interna lo nota y lo niega al mismo tiempo. *"Solo es el cuerpo. No soy yo. Es una reaccion fisica, nada mas."*
+3. **Racionalizacion** *(Cap 2)* — ya no puede negar la sensacion, entonces la explica. La justifica. La pone fuera de si mismo. *"Cualquiera en esta situacion sentiria lo mismo. Es el cuerpo. Es la ropa. Son las hormonas de ella."*
+4. **Traicion** *(final Cap 2)* — la voz interna deja de pelear. Hay silencio donde antes habia argumento. El cuerpo gana. *"..."*
+5. **Rendicion** *(Cap 3)* — la voz interna ya no resiste, empieza a querer. Primero en susurros, luego sin verguenza. *"Quiero que me miren. Quiero que me toquen. Quiero volver."*
+
+El dialogo interno debe sentirse vivo, contradictorio, a veces ridiculo, a veces brutal. El protagonista se habla a si mismo como alguien que esta perdiendo una discusion que sabe que ya perdio.
 
 ## 4. Ley del Intercambio
 El cambio de cuerpos no traslada solo la conciencia. Tambien deja adheridos a cada cuerpo ciertos habitos relacionales y afectivos que ya estaban sedimentados en el vinculo.
