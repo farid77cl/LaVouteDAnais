@@ -27,4 +27,4 @@ Total imágenes: 4
 - [imagen_2_detalle.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/historias/el_collar_de_nancy_completo/imagen_2_detalle.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-22* 👄
+*Sincronizado con GitHub: 2026-04-23* 👄

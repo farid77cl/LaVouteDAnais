@@ -28,4 +28,4 @@ Total imágenes: 2
 - [miss_doll_canon_referencia.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/miss_doll/miss_doll_canon_referencia.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-22* 👄
+*Sincronizado con GitHub: 2026-04-23* 👄
