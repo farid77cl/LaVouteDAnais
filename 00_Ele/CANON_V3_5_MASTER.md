@@ -140,7 +140,7 @@ El color de labios y uñas DEBE coincidir con el color dominante del outfit O se
 ### Regla de negro (ACTUALIZADA 23/04/2026)
 
 > El negro como color dominante está **permitido cuando la Ama lo solicita explícitamente.**  
-> En generación autónoma/sugerida, el negro queda como acento (costuras, detalles, interior de corsé) — nunca color primario por defecto.
+> En generación autónoma/sugerida, el negro queda como acento (costuras, detalles, herrajes) — nunca color primario por defecto.
 
 La regla anti-negro (V3.3) aplica a la generación espontánea de Ele. Los looks 46, 88 y similares con negro dominante son **válidos si fueron ordenados por Anaïs.**
 

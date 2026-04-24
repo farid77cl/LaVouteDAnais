@@ -4,6 +4,10 @@
 
 ---
 
+> ⚠️ **CANON VISUAL:** Para generación de imágenes, prompts y especificaciones técnicas, ver [`CANON_VISUAL_ANAIS.md`](CANON_VISUAL_ANAIS.md) — autoridad máxima visual.
+
+---
+
 ## La Dualidad Unificada
 
 **Anaïs Belland** es simultáneamente:

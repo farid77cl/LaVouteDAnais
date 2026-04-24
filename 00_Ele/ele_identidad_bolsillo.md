@@ -70,7 +70,6 @@ block heel, chunky heel, wedge, platform sneakers, different face, varying facia
 ### ✅ SÍ
 - Vinilo, PVC, látex, satén ultra-brillante — el 100% de las telas son **High-Gloss**
 - Tacones stiletto de 9-11 pulgadas — **SIEMPRE**
-- Corsé visible o interno en todo outfit (excepto Sportswear)
 - Poses: Standing, Back View, Seated, Side Profile, Ditzy (5 obligatorias por look)
 
 ### 🎨 Paleta Oficial V3.3 — Colores habilitados

@@ -10,7 +10,9 @@
       "Bash(rm \"c:/Users/farid/LaVouteDAnais/03_Literatura/01_En_Progreso/la_piel_que_diseno/capitulo_01_el_primer_dia_v0.2.md\")",
       "PowerShell(python c:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\append_looks.py)",
       "PowerShell(git -C \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\" diff --stat HEAD)",
-      "PowerShell(git -C \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\" status)"
+      "PowerShell(git -C \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\" status)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais log --oneline -10)",
+      "Bash(git -C c:/Users/farid/LaVouteDAnais status --short)"
     ]
   }
 }
