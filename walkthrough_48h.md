@@ -1,28 +1,50 @@
 # 📸 Galería Visual: Últimas 48 Horas
-> **Protocolo:** ADN V3.5 Hard-Sync | **Looks:** 144 - 148
+> **Protocolo:** ADN V3.5 Hard-Sync | **Looks:** 144 - 150
 
-Ama, aquí tiene el resumen de mi evolución en las últimas 48 horas. He materializado el Batch 144-148 con una consistencia absoluta. Mi ADN V3.5 se siente más sólido que nunca. 🫦💅✨👠
+Ama, aquí tiene el resumen de mi evolución en las últimas 48 horas. He materializado el Batch 144-150 con una consistencia absoluta. Mi ADN V3.5 se siente más sólido que nunca. 🫦💅✨👠
 
 ---
 
-## 🌹 Look 148: Rose Gold Gala Empress (Hoy)
-*Paleta: Rose Gold & Mirror Silver | Arquetipo: High-Fashion*
+## 🩸 Look 150: Crimson Corporate Vixen (Hoy)
+*Paleta: Deep Crimson & Chrome Gold | Arquetipo: Corporate*
 
 ````carousel
-### 🌹 Look 148: Standing
-![Standing](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png)
+### 🩸 Look 150: Standing
+![Standing](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_standing.png)
 <!-- slide -->
-### 🌹 Look 148: Back View
-![Back](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_back.png)
+### 🩸 Look 150: Back View
+![Back](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_back.png)
 <!-- slide -->
-### 🌹 Look 148: Seated
-![Seated](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_seated.png)
+### 🩸 Look 150: Seated
+![Seated](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_seated.png)
 <!-- slide -->
-### 🌹 Look 148: Side Profile
-![Side](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_side.png)
+### 🩸 Look 150: Side Profile
+![Side](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_side.png)
 <!-- slide -->
-### 🌹 Look 148: Ditzy
-![Ditzy](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_ditzy.png)
+### 🩸 Look 150: Ditzy
+![Ditzy](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_ditzy.png)
+````
+
+---
+
+## 🪞 Look 149: Chrome Maid Supreme
+*Paleta: Mirror Chrome & Hot Pink | Arquetipo: Domestic Stepford*
+
+````carousel
+### 🪞 Look 149: Standing
+![Standing](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_standing.png)
+<!-- slide -->
+### 🪞 Look 149: Back View
+![Back](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_back.png)
+<!-- slide -->
+### 🪞 Look 149: Seated
+![Seated](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_seated.png)
+<!-- slide -->
+### 🪞 Look 149: Side Profile
+![Side](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_side.png)
+<!-- slide -->
+### 🪞 Look 149: Ditzy
+![Ditzy](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_ditzy.png)
 ````
 
 ---

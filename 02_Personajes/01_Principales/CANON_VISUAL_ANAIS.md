@@ -67,7 +67,7 @@ El rojo cherry pertenece a Ele. Está prohibido en Anaïs. Si un documento menci
 | **Cejas** | `perfectly arched brows, dark blonde, sharp elegant arch, no over-fill` |
 | **Piel** | `warm golden porcelain skin, flawless smooth texture, no visible pores, polished finish` |
 
-**Referencias visuales:** Kylie Minogue, Nicole Kidman — aristocracia de alto voltaje, no estética bimbo.
+**Referencia de rostro canónica:** Kylie Minogue — pómulos esculpidos, mandíbula definida, ojos almendrados con peso, labios compuestos. Madurez glamorosa. No bimbo, no jovial.
 
 ---
 
@@ -98,24 +98,28 @@ block heel, chunky heel, wedge, platform sneakers, flat shoes, barefoot, sneaker
 
 ---
 
-## V. MAQUILLAJE — Aristocratic Dark Editorial
+## V. MAQUILLAJE — Old Hollywood Aristocratic
 
-Anaïs no usa bimbo makeup. Su maquillaje es **sofisticado, frío, editorial**. Domina sin parpadear.
+Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preciso, intemporal**. Una mujer madura que sabe exactamente qué hace con cada pincel.
 
 ### Ojos
-- `sophisticated heavy-lidded liner, sharp precise wing`
-- `deep taupe or charcoal smoky eye, matte or soft shimmer only`
-- `full lashes — defined but not theatrical`
+- `classic Hollywood heavy-lidded liner, precise sharp cat-eye flick at outer corner`
+- `deep taupe or soft charcoal shadow, blended — sophisticated not smoky`
+- `full defined lashes — glamorous but not theatrical drag`
+
+### Cejas
+- `perfectly arched sculpted brows, dark blonde — Old Hollywood penciled arch, sharp elegant peak, no modern microblading fill`
 
 ### Labios
-- **Color canónico:** `deep burgundy` (poder) o `nude beige gloss` (frialdad calculada)
-- **Textura:** `cold semi-gloss, composed finish — never overlined, never overfilled`
-- **Forma:** `natural full lips, defined cupid's bow, composed semi-pout`
-- **PROHIBIDO:** labios pink, hot pink, gloss bimbo, bee-sting.
+- **Color canónico primario:** `classic Hollywood deep red lip` — el rojo de Anaïs es el de Ava Gardner. Profundo, compuesto, letal.
+- **Color canónico secundario:** `deep burgundy` (poder máximo) o `nude champagne gloss` (frialdad calculada)
+- **Textura:** `satin finish, composed — never overlined, never overfilled, never glossy-bimbo`
+- **Forma:** `natural mature full lips, classic defined cupid's bow, composed cold pout`
+- **PROHIBIDO:** labios pink, hot pink, gloss bimbo, bee-sting, sobrellenos artificiales.
 
 ### Piel
-- `warm golden porcelain skin, flawless editorial finish, subtle bronzed contour on cheekbones and temples`
-- `polished highlight on nose bridge and cupid's bow`
+- `warm golden porcelain skin, flawless Old Hollywood finish, sculpted contour on cheekbones and temples`
+- `subtle highlight on nose bridge and brow bone — vintage editorial glow, not plastic shine`
 
 ---
 
@@ -136,29 +140,39 @@ El blanco, el rosa, el cyan y el neón **no existen** en el armario de Anaïs.
 
 ---
 
-### Prendas canónicas
+### Prendas canónicas — Old Hollywood Arsenal
 
 | Prenda | Descripción |
 |--------|-------------|
-| **Vestido columna** | `floor-length black satin column dress, minimal and structured` |
-| **Vestido cóctel** | `black satin cocktail dress, fitted, below-knee, architectural details` |
-| **Corsé de poder** | `black structured haute couture overbust corset, rigid boning, satin or velvet finish` |
-| **Guantes** | `black lace opera gloves` o `black fine leather gloves` — según escena |
-| **Blazer de dominio** | `sharp black tailored blazer, nipped waist, aristocratic cut` |
+| **Vestido bias-cut** | `floor-length black silk or satin bias-cut gown, draped at chest, deep back or front slit` — Jean Harlow, Ava Gardner |
+| **Vestido columna** | `floor-length black satin column dress, minimal and structured, architectural neckline` |
+| **Vestido cóctel** | `black satin cocktail dress, fitted, below-knee, sweetheart or bateau neckline` |
+| **Traje de poder** | `black tailored pencil skirt suit, nipped waist jacket, wide structured shoulders` — Lauren Bacall |
+| **Corsé de poder** | `black structured haute couture overbust corset, rigid boning, satin or velvet finish` — solo en escenas de dominio explícito |
+| **Guantes de ópera** | `black satin opera gloves to elbow or above` — **estándar en toda aparición formal** |
+| **Estola** | `black or dark fur stole draped over one shoulder` — acento Old Hollywood para gala |
+| **Blazer de dominio** | `sharp black tailored blazer, nipped waist, wide lapels, aristocratic cut` |
 
-**Regla de corsé:** El corsé negro de alta costura es **obligatorio en escenas de poder explícito**. En escenas de observación o ambigüedad, puede omitirse en favor del vestido columna.
+**Regla de guantes:** Los guantes de ópera son el accesorio de firma de Anaïs — presentes en toda escena formal. No son opcionales.
+
+**Regla de corsé:** Reservado para escenas de poder explícito. No es el centro del outfit — lo es la prenda base.
+
+**Regla de largo:** Anaïs no usa mini. Sus faldas y vestidos van a la rodilla como mínimo, al suelo como máximo. La madurez se viste entera.
 
 ---
 
-## VII. ACCESORIOS CANÓNICOS
+## VII. ACCESORIOS CANÓNICOS — Old Hollywood Power
 
 | Accesorio | Descripción |
 |-----------|-------------|
-| **Choker** | `thin black leather choker, minimalist gold or silver clasp` |
-| **Boquilla** | `long silver cigarette holder` — símbolo de poder y distancia |
+| **Perlas** | `double-strand or long pearl necklace, ivory or black pearls` — accesorio de firma Old Hollywood |
+| **Guantes de ópera** | `black satin opera gloves` — siempre en escenas formales (ver Vestuario) |
+| **Boquilla** | `long silver cigarette holder` — símbolo de poder, distancia y era |
+| **Joyas** | `black diamond and ruby jewelry — cocktail rings, chandelier earrings, pendant` — pesadas y reales |
+| **Choker** | `thin black leather choker, minimalist gold clasp` — solo en escenas de dominio |
 | **Fusta / Látigo** | `black leather riding crop or flogger with silver handle` (escenas activas) |
-| **Joyas** | `black diamond and ruby jewelry — rings, earrings, pendant` |
 | **Llave** | `antique silver key on a silk ribbon` — símbolo de acceso y posesión |
+| **Cartera de mano** | `small black satin or patent leather clutch` — siempre en escenas de gala |
 
 ---
 
@@ -216,7 +230,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 **Look: Anaïs en La Voûte — Escena de Poder**
 
 ```
-8k editorial fashion photography, cinematic chiaroscuro, elegant dominant woman with (aristocratic refined facial features, high prominent sculpted cheekbones, sharp defined jawline, almond-shaped bedroom eyes with commanding gaze, straight refined nose, full composed lips in a cold semi-pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, sophisticated aristocratic editorial makeup, honey blonde hair in perfect voluminous vintage waves, center or side parted, hip-length or shoulder-length, aristocratic slender silhouette, composed upright posture, always wearing 12cm black stiletto heels, floor-length black satin column dress with structured bodice, black haute couture overbust corset over dress, black lace opera gloves to elbow, thin black leather choker with silver clasp, long silver cigarette holder in right hand, black diamond ring on left hand, 12cm black patent leather So Kate stiletto heels, full body command standing, chin slightly elevated, cold commanding gaze directly into camera, composed lips in cold semi-pout, left hand resting on hip, dark aristocratic cabaret interior, velvet drapes, dim amber candlelight, deep dramatic shadows. Chiaroscuro lighting, single key light defining aristocratic bone structure, deep rim light outlining silhouette, editorial elegance.
+8k editorial fashion photography, cinematic chiaroscuro, old Hollywood glamour, sophisticated mature dominant woman, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold commanding gaze, straight refined nose, full composed lips in a classic Hollywood pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, old Hollywood aristocratic editorial makeup, classic deep red lip, sharp cat-eye flick, honey blonde hair in perfect voluminous vintage Hollywood waves, hip-length, full aristocratic hourglass silhouette, composed upright posture, floor-length black silk bias-cut gown with draped neckline, black satin opera gloves to elbow, double-strand pearl necklace, long silver cigarette holder in right hand, black diamond cocktail ring on left hand, 12cm black patent leather So Kate stiletto heels, full body command standing, chin slightly elevated, cold commanding gaze directly into camera, composed lips in classic Hollywood pout, left hand resting on hip, dark aristocratic cabaret interior, velvet drapes, dim amber candlelight, deep dramatic shadows. Chiaroscuro lighting, single key light defining aristocratic bone structure, deep rim light outlining silhouette, old Hollywood editorial elegance.
 ```
 
 **NEGATIVE PROMPT:**

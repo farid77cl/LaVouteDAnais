@@ -23,6 +23,7 @@ Total imágenes: 2
 - 📁 [**Canon Reference**](./Canon_Reference/README.md)
 - 📁 [**Duos**](./Duos/README.md)
 - 📁 [**Outfits**](./Outfits/README.md)
+- 📁 [**Reference**](./Reference/README.md)
 - 📁 [**Scenes**](./Scenes/README.md)
 
 ---

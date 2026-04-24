@@ -3768,15 +3768,15 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### 📸 Imágenes (0/5 - Pendiente)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ⏳ *Pendiente* |
-| **Back View** | ⏳ *Pendiente* |
-| **Seated** | ⏳ *Pendiente* |
-| **Side Profile** | ⏳ *Pendiente* |
-| **Ditzy** | ⏳ *Pendiente* |
+| **Standing** | `ele_149_standing.png` |
+| **Back View** | `ele_149_back.png` |
+| **Seated** | `ele_149_seated.png` |
+| **Side Profile** | `ele_149_side.png` |
+| **Ditzy** | `ele_149_ditzy.png` |
 
 ---
 
@@ -3809,20 +3809,20 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel strict side profile silhouette, full body, deep crimson blazer dress in sharp lateral view, extreme hourglass curve, executive boardroom, Sanhattan skyline through floor-to-ceiling window`
 
 **PROMPT 5 — Ditzy Expression:**
-`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL French nails, deep crimson PVC collar framing jawline, executive boardroom bokeh background with city lights`
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL French nails, deep crimson PVC column neck framing jawline, executive boardroom bokeh background with city lights`
 
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### 📸 Imágenes (0/5 - Pendiente)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ⏳ *Pendiente* |
-| **Back View** | ⏳ *Pendiente* |
-| **Seated** | ⏳ *Pendiente* |
-| **Side Profile** | ⏳ *Pendiente* |
-| **Ditzy** | ⏳ *Pendiente* |
+| **Standing** | `ele_150_standing.png` |
+| **Back View** | `ele_150_back.png` |
+| **Seated** | `ele_150_seated.png` |
+| **Side Profile** | `ele_150_side.png` |
+| **Ditzy** | `ele_150_ditzy.png` |
 
 ---
 

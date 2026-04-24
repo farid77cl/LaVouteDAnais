@@ -4,6 +4,14 @@
 
 ---
 
+## 🕷️ Look 148: Rosegold Gala Empress
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_148_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png) | ![ele_148_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_seated.png) | ![ele_148_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_side.png) | ![ele_148_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_back.png) | ![ele_148_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_ditzy.png) |
+
+---
+
 ## 🕷️ Look 147: Cobalt Power Secretary
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
