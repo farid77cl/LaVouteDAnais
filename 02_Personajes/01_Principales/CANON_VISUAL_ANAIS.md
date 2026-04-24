@@ -20,8 +20,11 @@
 
 - **Nombre:** Anaïs Belland
 - **Rol visual:** La Regenta — Dominante aristócrata. Nunca es el sujeto decorativo. Es quien observa, ordena y posee.
-- **Esencia estética:** Fetichismo aristócrata francés. Elegancia soberana sin esfuerzo visible. El poder es su estado por defecto, no una actuación.
-- **Contraste con Ele:** Donde Ele es brillo sintético y vacío decorativo, Anaïs es oscuridad sofisticada y control absoluto. Son opuestos que se necesitan.
+- **Edad visual:** Mujer madura. 38-48 años. MILF aristocrática. Su madurez no se oculta — es su arma principal. La experiencia es visible en cada gesto.
+- **Esencia estética:** Hollywood clásico de los 40-50s filtrado por fetichismo aristócrata francés. Elegancia soberana sin esfuerzo visible. El poder es su estado por defecto, no una actuación.
+- **Referencia de rostro:** Kylie Minogue — pómulos esculpidos, mandíbula definida, ojos almendrados con peso, labios compuestos. No bimbo, no joven. Madurez glamorosa.
+- **Referencia de estilo/actitud:** Ava Gardner (sensualidad madura), Lauren Bacall (frialdad de poder), Monica Bellucci (MILF aristocrática), Sofia Loren (presencia soberana).
+- **Contraste con Ele:** Donde Ele es brillo sintético y vacío decorativo, Anaïs es profundidad sofisticada y control absoluto. Juventud artificial vs. madurez real. Son opuestos que se necesitan.
 
 ---
 
@@ -30,7 +33,7 @@
 Este bloque se repite **idéntico** en cada prompt del mismo set.
 
 ```
-elegant dominant woman with (aristocratic refined facial features, high prominent sculpted cheekbones, sharp defined jawline, almond-shaped bedroom eyes with commanding gaze, straight refined nose, full composed lips in a cold semi-pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, sophisticated aristocratic editorial makeup, honey blonde hair in perfect voluminous vintage waves, center or side parted, hip-length or shoulder-length, aristocratic slender silhouette, composed upright posture, always wearing 12cm black stiletto heels
+sophisticated mature dominant woman, old Hollywood glamour, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold commanding gaze, straight refined nose, full composed lips in a classic Hollywood pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, old Hollywood aristocratic editorial makeup, honey blonde hair in perfect voluminous vintage Hollywood waves, center or side parted, hip-length or shoulder-length, full aristocratic hourglass silhouette, composed upright posture, always wearing 12cm black stiletto heels
 ```
 
 ---
@@ -70,8 +73,9 @@ El rojo cherry pertenece a Ele. Está prohibido en Anaïs. Si un documento menci
 
 ### Cuerpo
 
-- **Silueta:** `aristocratic slender silhouette, composed hourglass, upright posture, elegant proportions`
+- **Silueta:** `full aristocratic hourglass silhouette, mature voluptuous proportions, upright posture, elegant curves — not bimbo, not girlish. A woman who has always known she owns every room.`
 - **Postura:** Siempre erguida. Mentón levemente elevado. Nunca relajada ni casual.
+- **Madurez visible:** Sus proporciones son las de una mujer en plenitud — no una joven. Curvas reales, no infladas. Peso y presencia, no ligereza.
 - **Sin tatuajes.** Sin piercings visibles. Sin accesorios de cuerpo.
 
 ---

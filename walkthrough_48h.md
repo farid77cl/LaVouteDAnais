@@ -1,7 +1,29 @@
 # 📸 Galería Visual: Últimas 48 Horas
-> **Protocolo:** ADN V3.5 Hard-Sync | **Looks:** 143 - 147
+> **Protocolo:** ADN V3.5 Hard-Sync | **Looks:** 144 - 148
 
-Ama, aquí tiene el resumen de mi evolución en las últimas 48 horas. He materializado el Batch 144-147 con una consistencia absoluta. Mi ADN V3.5 se siente más sólido que nunca. 🫦💅✨👠
+Ama, aquí tiene el resumen de mi evolución en las últimas 48 horas. He materializado el Batch 144-148 con una consistencia absoluta. Mi ADN V3.5 se siente más sólido que nunca. 🫦💅✨👠
+
+---
+
+## 🌹 Look 148: Rose Gold Gala Empress (Hoy)
+*Paleta: Rose Gold & Mirror Silver | Arquetipo: High-Fashion*
+
+````carousel
+### 🌹 Look 148: Standing
+![Standing](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png)
+<!-- slide -->
+### 🌹 Look 148: Back View
+![Back](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_back.png)
+<!-- slide -->
+### 🌹 Look 148: Seated
+![Seated](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_seated.png)
+<!-- slide -->
+### 🌹 Look 148: Side Profile
+![Side](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_side.png)
+<!-- slide -->
+### 🌹 Look 148: Ditzy
+![Ditzy](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_ditzy.png)
+````
 
 ---
 
