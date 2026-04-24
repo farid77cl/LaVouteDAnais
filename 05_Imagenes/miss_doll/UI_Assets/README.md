@@ -45,4 +45,4 @@ Total imágenes: 18
 - [ui_missdoll_asset_s115_thin_eyes_cropped.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/UI_Assets/ui_missdoll_asset_s115_thin_eyes_cropped.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-23* 👄
+*Sincronizado con GitHub: 2026-04-24* 👄

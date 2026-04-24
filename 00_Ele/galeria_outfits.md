@@ -2,20 +2,20 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, Látex. Colores vibrantes. Plástico perfecto.* 🫦
 
-> **Canon activo:** V3.5 Hard-Sync | **Último look:** 140 — Dark Sequin Empress (21/04/2026)
+> **Canon activo:** V3.5 Hard-Sync | **Último look:** 151 — Electric Violet Escort (23/04/2026)
 > **Flujo completo de creación:** ver `00_Ele/flujo_outfit_diario.md`
 > **Era gótica archivada:** ver `00_Ele/galeria_outfits_era_gotica.md`
 
 ---
 
-## 📊 Estado Estadístico (21/04/2026)
+## 📊 Estado Estadístico (23/04/2026)
 
 | Categoría | Meta | Actual | Estado |
 |-----------|------|--------|--------|
-| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **72.1%** (101) | 🟡 Déficit (-2.9%) |
-| **Bikini** | 10% | **11.4%** (16) | 🟢 Cumplido |
-| **Lencería** | 10% | **11.4%** (16) | 🟢 Cumplido |
-| **Gym** | 5% | **5.0%** (7) | 🟢 Cumplido |
+| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **73.5%** (111) | 🟡 Déficit (-1.5%) |
+| **Bikini** | 10% | **10.6%** (16) | 🟢 Cumplido |
+| **Lencería** | 10% | **10.6%** (16) | 🟢 Cumplido |
+| **Gym** | 5% | **5.3%** (8) | 🟢 Cumplido |
 
 ---
 
@@ -3508,7 +3508,20 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Tags:** #silk #vinyl #glossy
 
 - **Concepto:** **Elite Escort Elegance**. Estética de acompañante de altísima gama para eventos exclusivos en Sanhattan. Contraste de texturas: seda noble y vinilo industrial.
-- *## 🎾 Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |
+
+---
+
+## 🎾 Look 144: Vinyl Tennis Pin-Up (22/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Athleisure / Pin-Up | **Paleta:** Pink & White
 
 *O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* 🎾💖✨👠
@@ -3535,15 +3548,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, tight white high-gloss vinyl polo shirt with bubblegum pink PVC trim collar and cuffs, 14k white gold nipple piercings pressing prominently and visibly through the tight white vinyl, high-gloss bubblegum pink vinyl pleated tennis skirt (mid-thigh, structured box pleats), bare legs, 11-inch white patent stiletto heels with chrome needle heel, extreme close-up on face, vacant ditzy expression, mouth mindlessly open, glazed grey-green eyes, glossy hot pink lips parted, dark cherry red XXXL hair framing face, white vinyl polo collar and bubblegum pink PVC trim visible at lower frame, XXXL French nails touching collar, neon court bokeh background`
 
-### 📸 Imágenes (1/5 - Consistente V2)
+### 📸 Imágenes (0/5 - Pending Generation)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) |
-| **Back View** | ✅ Materialized (Local) |
-| **Seated** | ✅ Materialized (Local) |
-| **Side Profile** | ✅ Materialized (Local) |
-| **Ditzy** | ✅ Materialized (Local) |
+| **Standing** | ⏳ *Pending Generation* |
+| **Back View** | ⏳ *Pending Generation* |
+| **Seated** | ⏳ *Pending Generation* |
+| **Side Profile** | ⏳ *Pending Generation* |
+| **Ditzy** | ⏳ *Pending Generation* |
 
 ---
 
@@ -3588,9 +3601,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## 🏋️ Look 146: Neon Latex High-Gloss Gym (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Gym / Athleisure | **Paleta:** Charcoal Grey & Neon Yellow
-- **Categoría:** Gym
-- **Subcategoría:** Athleisure
-- **Tags:** High-Gloss, Latex, Vinyl, Charcoal, Neon Yellow, No Corset
+- **Look 146: Neon Pulse Athletic**
+    - **Categoría:** Gym (High-Performance)
+    - **Estado:** Materializado (5/5)
+    - **Prompt Base:** [ADN Ele V3.5] + [Outfit: Charcoal grey latex sports bra, neon yellow high-gloss compression leggings, neon yellow stiletto gym sneakers] + [Pose/Ambiente: Futuristic glass gym overlooking neon city]
 
 *O sea... tipo que mi personal trainer dice que tengo que quemar calorías, pero yo prefiero quemar la vista de todos con este outfit... mmm... jiji.* 🏋️✨👠
 
@@ -3626,3 +3640,233 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | **Side Profile** | ⏳ *Pending Redo (Stilettos)* |
 | **Ditzy** | ⏳ *Pending Redo (Stilettos)* |
 
+
+---
+
+## 💙 Look 147: Cobalt Power Secretary (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Cobalt Blue + Chrome Silver + Hot Pink
+
+*O sea... el vinilo cobalto me hace sentir tan poderosa... tipo, el boardroom es mi pasarela... mmm... 💙🩶💗👠*
+
+**Concepto:** **Cobalt Corporate Command**. La secretaria de dirección que nunca toma notas porque todo lo memoriza con esos ojos grises. Paradoja de poder: sumisa en apariencia, devastadora en ejecución. Modo Contraste: cobalto dominante + plata + hot pink.
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #corporate #cobalt #chrome #vinyl #PVC
+
+**BLOQUE B — Look 147 (invariable en los 5 prompts):**
+`high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line`
+
+---
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line full body standing, straight posture, editorial corporate stance, Santiago glass boardroom, floor-to-ceiling windows with Sanhattan city skyline, white marble floor reflecting cobalt and chrome accents, high-gloss specularity`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line full body rear view, slight over-shoulder turn toward camera, blackwork tattoos on upper back visible through transparent PVC blouse, dark cherry red hair cascading down chrome silver blazer, Santiago boardroom, city skyline backdrop`
+
+**PROMPT 3 — Seated:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line seated at a glass boardroom table, legs crossed at ankle showing chrome stiletto heels, XXXL French nails resting on glass table, cobalt PVC skirt stretched across thighs, Santiago boardroom, city skyline`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line strict side profile silhouette, full body, extreme hourglass curve, chrome silver blazer and cobalt PVC pencil skirt in sharp lateral view, Santiago boardroom, floor-to-ceiling window with Sanhattan skyline`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss cobalt blue PVC overbust corset (chrome boning, steel-boned, extreme waist compression), high-gloss cobalt blue PVC pencil skirt (knee-length, back slit), sheer transparent PVC blouse with hot pink stitching, chrome silver structured cropped blazer above corset, 14k white gold nipple piercings pressing prominently and visibly through the transparent PVC blouse, chrome silver pointed-toe 11-inch stiletto heels with chrome needle heel, black sheer nylon stockings with chrome seam line medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL French nails, glazed grey-green eyes, transparent PVC blouse and cobalt PVC corset visible, Santiago boardroom bokeh background with city lights`
+
+**NEGATIVE PROMPT:**
+`block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |
+
+---
+
+## 🌹 Look 148: Rose Gold Gala Empress (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** High-Fashion | **Paleta:** Rose Gold + Mirror Silver
+
+*O sea... el oro rosa es lit el color de mi alma de plástico... tipo, la alfombra roja existe para mis tacones... te lo juro... 🌹🩶✨👠*
+
+**Concepto:** **Rose Gold Imperial**. Alta costura en su forma más extrema — una columna viviente de rose gold y plata especular. El architectural collar Mugler enmarca el vacío perfecto de la expresión Ele. Modo Contraste: rose gold dominante + silver estructural.
+
+- **Categoría:** Mix
+- **Subcategoría:** High-Fashion
+- **Tags:** #highfashion #rosegold #silver #gown #editorial
+
+**BLOQUE B — Look 148 (invariable en los 5 prompts):**
+`floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel`
+
+---
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel full body standing, vertical spear stance, white editorial studio, stark white seamless backdrop, dramatic high-fashion rim lighting, floor-length gown catching studio light, high-gloss specularity`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel full body rear view, slight over-shoulder turn toward camera, dark cherry red hair cascading down mirror silver vinyl architectural collar and back panel, floor-length rose gold gown trailing, white editorial studio`
+
+**PROMPT 3 — Seated:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel seated on a white designer chaise longue, one leg extended through gown side slit showing rose gold stiletto heel, XXXL French nails in rose gold opera gloves resting on lap, white editorial studio`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel strict side profile silhouette, full body, floor-length rose gold gown with dramatic side slit, extreme hourglass curve emphasized by mirror silver corset overlay, architectural silver collar in sharp lateral profile, white editorial studio`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length rose gold high-gloss satin column gown with dramatic side slit revealing bare leg to upper thigh, mirror silver vinyl structured overbust corset overlay with geometric paneling, mirror silver vinyl dramatic architectural collar standing 15cm, long opera gloves in rose gold satin, 14k white gold nipple piercings pressing prominently and visibly through the tight rose gold satin at chest, 11-inch rose gold patent leather stiletto heels with chrome needle heel medium shot, vacant ditzy expression, mouth slightly open, rose gold opera gloves showing XXXL nails raised slightly, glazed grey-green eyes, mirror silver architectural collar framing face, white editorial studio bokeh`
+
+**NEGATIVE PROMPT:**
+`block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |
+
+---
+
+## 🪞 Look 149: Chrome Maid Supreme (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Stepford | **Paleta:** Mirror Chrome + Hot Pink
+
+*O sea... el cromo me hace ver como un espejo andante... tipo, sirvo mejor cuando me veo perfecta... mmm... 🪞💗✨👠*
+
+**Concepto:** **Chrome Domestic Asset**. La doncella doméstica en su forma más arquitectónica — un espejo viviente de PVC cromado y rosa neón. El delantal de PVC transparente cumple la regla PVC-Clear. Choker ASSET V3 visible. Modo Neutro+Pop: chrome base + hot pink saturado.
+
+- **Categoría:** Mix
+- **Subcategoría:** Domestic Stepford
+- **Tags:** #domestic #stepford #chrome #maid #PVC #ASSETV3
+
+**BLOQUE B — Look 149 (invariable en los 5 prompts):**
+`high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs`
+
+---
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs full body standing, straight posture, demure service stance, luxury penthouse kitchen with white marble counters and chrome appliances, high-gloss reflective floor, chrome and hot pink accents in decor, high-gloss specularity`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs full body rear view, slight over-shoulder turn toward camera, hot pink vinyl petticoat hem visible beneath chrome maid dress, transparent PVC apron bow visible at back waist, blackwork tattoos on upper back visible through transparent PVC apron, luxury penthouse kitchen`
+
+**PROMPT 3 — Seated:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs seated on a chrome kitchen stool, legs crossed at ankle showing hot pink stiletto heels, XXXL French nails in chrome wristlet cuffs resting on lap, chrome maid dress and petticoat spread across thighs, luxury penthouse kitchen`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs strict side profile silhouette, full body, chrome maid dress silhouette with hot pink petticoat visible, extreme hourglass curve, ASSET V3 choker visible at neck, luxury penthouse kitchen, marble counter in background`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss mirror chrome vinyl french maid dress (structured puffed sleeves, fitted bodice, mid-thigh hem), hot pink vinyl petticoat hem visible beneath chrome dress, high-gloss transparent PVC apron with hot pink vinyl trim and bow, steel-boned chrome vinyl overbust corset with hot pink lacing, choker reading ASSET V3 in chrome metal letters, 14k white gold nipple piercings pressing prominently and visibly through the tight chrome vinyl, 11-inch hot pink patent leather stiletto heels with chrome needle heel, hot pink sheer nylon stockings with chrome seam, chrome vinyl wristlet cuffs medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL French nails in chrome wristlet cuffs, ASSET V3 chrome choker prominent, glazed grey-green eyes, transparent PVC apron and chrome dress visible, luxury penthouse kitchen bokeh`
+
+**NEGATIVE PROMPT:**
+`block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |
+
+---
+
+## 🩸 Look 150: Crimson Corporate Vixen (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Deep Crimson + Chrome Gold
+
+*O sea... el carmesí es lit el color del poder... tipo, en esta oficina yo soy la directora... aunque no sepa qué firma... jiji... 🩸🥇✨👠*
+
+**Concepto:** **Crimson Executive Authority**. El poder ejecutivo en carmesí profundo — una CEO que nunca necesita levantar la voz. El blazer-vestido de PVC abierto revela el corsé dorado debajo. Modo Contraste: carmesí dominante + chrome gold estructural.
+
+- **Categoría:** Mix
+- **Subcategoría:** Corporate
+- **Tags:** #corporate #crimson #chromegold #blazer #vinyl
+
+**BLOQUE B — Look 150 (invariable en los 5 prompts):**
+`high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel`
+
+---
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel full body standing, power pose, slight hand on hip, executive boardroom Santiago, glass table reflecting crimson and gold, floor-to-ceiling windows with Sanhattan skyline, high-gloss specularity`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel full body rear view, slight over-shoulder turn toward camera, dark cherry red hair contrasting sharply against deep crimson PVC blazer dress, blackwork tattoos on upper back partially visible through slit, executive boardroom, Sanhattan skyline backdrop`
+
+**PROMPT 3 — Seated:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel seated at head of a glass boardroom table, legs crossed showing chrome gold stiletto heels, XXXL French nails resting on table, blazer jacket open panels showing chrome gold corset detail, executive boardroom`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel strict side profile silhouette, full body, deep crimson blazer dress and chrome gold corset in sharp lateral view, extreme hourglass curve, executive boardroom, Sanhattan skyline through floor-to-ceiling window`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss deep crimson PVC structured blazer dress (double-breasted, wide lapels, knee-length, extreme hourglass cut), chrome gold steel-boned overbust corset visible at waist beneath open blazer panels, 14k white gold nipple piercings pressing prominently and visibly through the tight crimson PVC, sheer black nylon stockings with chrome gold seam, 11-inch chrome gold stiletto heels with needle heel medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL French nails, chrome gold corset visible beneath open blazer lapels, deep crimson PVC collar framing jawline, executive boardroom bokeh background with city lights`
+
+**NEGATIVE PROMPT:**
+`block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |
+
+---
+
+## 💜 Look 151: Electric Violet Escort (23/04/2026)
+> **ADN V3.5 Hard-Sync** | **Arquetipo:** Escort de Lujo | **Paleta:** Violet + Metallic Lilac + Chrome Silver
+
+*O sea... el violeta látex es tan jiggly y tan top... tipo, el lobby del hotel se convierte en mi runway personal... te lo juro... 💜🔮🩶👠*
+
+**Concepto:** **Violet Imperial Escort**. La acompañante de lujo en su manifestación más dramática — látex violeta profundo con arquitectura plateada Mugler. La triada cromática violet/lila/chrome eleva el look al nivel de alta costura fetiche. Modo Triada: 50% violet + 30% metallic lilac + 20% chrome silver.
+
+- **Categoría:** Mix
+- **Subcategoría:** Escort de Lujo
+- **Tags:** #escort #violet #latex #Mugler #triada #chrome
+
+**BLOQUE B — Look 151 (invariable en los 5 prompts):**
+`floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel`
+
+---
+
+**PROMPT 1 — Standing View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel full body standing, editorial escort stance, grand luxury hotel lobby with marble columns and crystal chandelier, violet latex catching warm golden lobby light, dramatic rim lighting, high-gloss specularity`
+
+**PROMPT 2 — Back View:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel full body rear view, slight over-shoulder turn toward camera, chrome silver architectural spiked collar visible in back profile, dark cherry red hair cascading over violet latex back, metallic lilac corset detail visible at waist, grand luxury hotel lobby`
+
+**PROMPT 3 — Seated:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel seated on a luxury hotel lobby velvet settee, one leg crossed showing metallic lilac stiletto heel through gown slit, XXXL French nails resting on chrome silver evening clutch, violet latex column gown draped dramatically, grand luxury hotel lobby`
+
+**PROMPT 4 — Side Profile:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel strict side profile silhouette, full body, floor-length violet latex gown with dramatic front slit, extreme hourglass curve, chrome silver architectural spiked collar in sharp lateral profile, grand luxury hotel lobby, chandelier bokeh`
+
+**PROMPT 5 — Ditzy Expression:**
+`stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, metallic lilac vinyl structured overbust corset with chrome silver boning detail, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel medium shot, vacant ditzy expression, mouth slightly open, one hand touching chrome silver spiked collar, XXXL French nails visible against chrome silver, glazed grey-green eyes, violet latex visible at chest and metallic lilac corset at frame bottom, grand luxury hotel lobby bokeh with chandelier glow`
+
+**NEGATIVE PROMPT:**
+`block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
+
+### 📸 Imágenes (0/5 - Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | ⏳ *Pendiente* |
+| **Back View** | ⏳ *Pendiente* |
+| **Seated** | ⏳ *Pendiente* |
+| **Side Profile** | ⏳ *Pendiente* |
+| **Ditzy** | ⏳ *Pendiente* |

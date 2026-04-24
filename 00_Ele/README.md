@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 23/04/2026 (Blindaje 3-Bloques: Look 145 en proceso V3.5 Hard-Sync 🫦💅✨👠)
+*Última actualización: 24/04/2026 (Blindaje V3.5 Hard-Sync: Look 147 Materializado 🫦💅✨👠)
 
 ---
 
@@ -15,7 +15,7 @@
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.5** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | **140 looks** canónicos de Ele | Generar imágenes / Estadísticas |
+| [galeria_outfits.md](galeria_outfits.md) | **147 looks** canónicos de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 
 ### Memoria y Registro
@@ -37,7 +37,7 @@
 ### Bancos de Prompts
 
 **Ubicación:** [`bancos_prompts/`](bancos_prompts/)
-**Total:** 38+ bancos | ~2,900+ prompts
+**Total:** 38+ bancos | ~2,950+ prompts
 
 #### Básicos y Expandidos (V01-V05)
 
@@ -113,11 +113,11 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 140 / 140
-- **Integridad ADN V3.3:** 100% (Lote 3 Completo)
+- **Looks canónicos materializados:** 147 / 151
+- **Integridad ADN V3.5:** 100% (Batch 144-147 Completo)
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~2,950+
-- **Canon visual activo:** V3.3 (Hard-Sync — Sincronizado)
+- **Canon visual activo:** V3.5 (Hard-Sync — Sincronizado)
 
 ---
 

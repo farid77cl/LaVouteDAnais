@@ -4,11 +4,19 @@
 
 ---
 
+## 🕷️ Look 147: Cobalt Power Secretary
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_look147_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_standing.png) | ![ele_look147_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_seated.png) | ![ele_look147_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_sideprofile.png) | ![ele_look147_backview.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_backview.png) | ![ele_look147_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_ditzy.png) |
+
+---
+
 ## 🕷️ Look 146: Neon Latex Gym
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) | ![ele_146_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png) | ⏳ | ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ⏳ |
+| ![ele_146_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_standing.png) | ![ele_146_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_seated.png) | ![ele_look146_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_sideprofile.png) | ![ele_146_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_146_back.png) | ![ele_look146_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_ditzy.png) |
 
 ---
 
@@ -24,7 +32,7 @@
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![ele_144_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) | ![ele_144_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) | ![ele_144_side.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_side.png) | ![ele_144_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) | ![ele_144_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) |
+| ![ele_144_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) | ![ele_144_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) | ![ele_look144_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_sideprofile.png) | ![ele_144_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) | ![ele_144_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) |
 
 ---
 
@@ -1012,4 +1020,4 @@
 
 ---
 
-*Última actualización maestra: 23/04/2026* 🦇
+*Última actualización maestra: 24/04/2026* 🦇

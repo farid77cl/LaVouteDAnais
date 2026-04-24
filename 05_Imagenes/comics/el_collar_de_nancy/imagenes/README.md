@@ -31,4 +31,4 @@ Total imágenes: 4
 - [pag04_el_uniforme.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/el_collar_de_nancy/imagenes/pag04_el_uniforme.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-23* 👄
+*Sincronizado con GitHub: 2026-04-24* 👄
