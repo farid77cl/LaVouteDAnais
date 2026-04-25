@@ -1,6 +1,6 @@
 # 👑 CANON VISUAL ANAÏS BELLAND — DOCUMENTO MAESTRO
 **Autoridad:** Anaïs Belland  
-**Versión:** 1.3  
+**Versión:** 1.4  
 **Fecha:** 25/04/2026  
 **Estado:** ACTIVO — Verdad única para generación visual de Anaïs. En conflicto con cualquier otro archivo, prevalece este.
 
@@ -150,8 +150,9 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 | **Champagne / Dorado** | Champagne, oro antiguo, bronce satén | Jean Harlow | Gala, celebración, máximo glamour |
 | **Ciruela oscura** | Plum profundo, malva oscuro, uva | Lauren Bacall | Sesiones literarias, ambigüedad, intimidad |
 | **Plateado** | Plata satén, plata mercurio | Jean Harlow | Solo como pieza única o acento estructural |
+| **Leopardo vintage** | Ámbar ocre cálido + negro + tostado sobre seda o velvet | Ava Gardner, Sophia Loren | Looks de poder felino — solo en seda, satén o terciopelo. Nunca sintético, nunca moderno |
 
-> **Prohibido siempre:** blanco puro, rosa, cyan, naranja, amarillo, verde neón, cualquier tono saturado brillante o moderno.
+> **Prohibido siempre:** blanco puro, rosa, cyan, naranja, amarillo, verde neón, cualquier tono saturado brillante o moderno. El leopardo sintético / de plástico / bimbo pertenece a Ele.
 
 ---
 
@@ -161,14 +162,33 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 |----------|-----|
 | **Satén** | Base de todos los looks. El reflejo de la luz define la silueta. |
 | **Encaje** | Superposición, detalles, mangas, escotes. Nunca como prenda única. |
-| **Terciopelo** | Looks de invierno, sesiones íntimas, profundidad de color. |
+| **Terciopelo** | Looks de invierno, sesiones íntimas, pinup estructurado, profundidad de color. |
 | **Chiffon** | Capas en looks de gala, estolas, pañuelos. Nunca base sola. |
-| **Patent leather / Cuero** | Calzado siempre. Faldas lápiz y guantes en looks ejecutivos y de dominio. Vestidos en escenas de poder máximo. |
-| **Seda** | Sesiones literarias, kimono, blusas ejecutivas, batas de poder en intimidad. |
+| **Patent leather / Cuero** | Calzado siempre. Faldas lápiz y guantes en looks ejecutivos y de dominio. |
+| **Seda** | Sesiones literarias, kimono, blusas ejecutivas, batas de poder, base del animal print. |
 | **Cuero rojo mate** | Solo en guantes — alternativa de poder máximo a los guantes negros. |
 | **Medias de red** | En looks de poder ejecutivo y dominio. Distintas de las medias de nylon (que son solo gala). |
+| **Brocado / Jacquard** | Piezas únicas de máximo poder aristocrático. Motivos barrocos o florales tejidos en negro con oro, burdeos o verde. La tela como joya. |
+| **Damasco** | Similar al brocado, motivos más geométricos y elaborados. Looks de aparición formal en La Voûte. Peso y presencia sin adorno. |
+| **Seda estampado leopardo** | Solo en corte vintage (wiggle dress, stole, abrigo). Colorway: ámbar ocre cálido + negro + tostado. Nunca sintético. La Ava Gardner version. |
+| **Piel / Estola** | Solo como accento sobre el hombro en gala o sobre leopardo. Nunca como prenda completa. |
 
-> **Prohibido:** vinilo, PVC, látex, materiales sintéticos brillantes. Esos pertenecen a Ele.
+> **Prohibido:** vinilo, PVC, látex, materiales sintéticos brillantes. Esos pertenecen a Ele. El leopardo acrílico también.
+
+---
+
+### Siluetas canónicas
+
+> Anaïs no usa una sola silueta — usa la silueta que la situación exige. Todas son intencionales.
+
+| Silueta | Descripción | Contexto |
+|---------|-------------|---------|
+| **Columna** | Largo al suelo, nipped waist, sin vuelo. El poder quieto. | La Voûte noche, gala |
+| **Bias-cut** | Fluido, cae sesgado siguiendo cada curva. Movimiento como declaración. | Gala, recepción, cóctel |
+| **Wiggle / Pencil** | Ajustado desde cadera hasta pantorrilla con slit pequeño. La silueta que hace que cada paso cuente. | Poder felino, animal print, apariciones de impacto |
+| **Falda lápiz** | Midi o hasta pantorrilla. Marcada, estructurada, ejecutiva. | Dominio, looks de poder |
+| **A-line / Swing** | Vuelo amplio desde tiro alto. La estructura del reloj de arena más evidente. Pinup de poder. | Pinup estructurado, recepción cóctel |
+| **Falda tubo + blusa** | Alto contraste cintura/volumen. Siempre con cinturón. 50s pinup elevado. | Looks ejecutivos-pinup, apariciones de día en La Voûte |
 
 ---
 
@@ -211,11 +231,36 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 - Choker de cuero fino
 - Boquilla larga
 
-#### 🍸 Arquetipo 5 — Cóctel / Recepción
-- Vestido cóctel fitted, rodilla, en negro o verde esmeralda o burdeos
+#### 🍸 Arquetipo 5-A — Cóctel / Recepción
+- Vestido cóctel fitted bias-cut, rodilla, en negro o verde esmeralda o burdeos o azul medianoche
 - Guantes hasta el codo
 - Cocktail ring de rubí o diamante negro
 - Clutch pequeño
+
+#### 🐆 Arquetipo 5-B — La Felina (poder animal print)
+- Vestido wiggle de seda estampado leopardo vintage, mid-calf, sweetheart neckline o V-neck
+- O: abrigo de leopardo vintage sobre vestido negro satén (la fiera que se pone un abrigo)
+- Guantes de ópera negros (el print hace el trabajo — los accesorios se subordinan)
+- Perlas doble vuelta o aretes chandelier negros — nunca mezclar joyas complejas con el print
+- Sin boquilla obligatoria — el look habla solo
+- Calzado: negro, suela roja. Nunca calzado animal print.
+
+#### 🪡 Arquetipo 6 — Brocado Aristocrático (tela como joya)
+- Vestido columna de brocado o jacquard negro con motivos barrocos en burdeos, oro o verde
+- O: falda de damasco + blusa de seda negra
+- Accesorio mínimo — el tejido ya es la joya. Máximo un par de aretes chandelier
+- Guantes de terciopelo negro o satén negro
+- Sin animal print en el mismo look — uno u otro, nunca juntos
+- Cabello preferido: moño alto geométrico — expone el bordado del escote y el cuello
+
+#### 💄 Arquetipo 7 — Pinup de Poder (retro estructurado)
+- Falda A-line o swing en terciopelo o satén, tiro alto marcado, mid-calf
+- Blusa de seda o satén tucked in, wide collar o bow tie
+- Cinturón de cuero estructurado cinchando la cintura con precisión milimétrica
+- Guantes cortos (hasta la muñeca o el codo) — versión más accesible, sin opulencia de ópera
+- Accesorios vintage: broche de camafeo, aretes perla clip-on, collar de perlas corto
+- Puede incluir bufanda / pañuelo de seda de animal print atado al cuello o al cabello
+- Calzado: stiletto pump negro o en tono del outfit — siempre suela roja
 
 ---
 
@@ -223,7 +268,13 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 
 **Regla de largo:** Rodilla como mínimo, suelo como máximo. Anaïs no usa mini — nunca.
 
-**Regla de corsé:** Solo en Arquetipo 4. No define ningún otro look.
+**Regla de corsé:** Solo en Arquetipo 4-B. No define ningún otro look.
+
+**Regla de animal print:** Solo en seda, satén o terciopelo de calidad vintage. Colorway cálido (ámbar, ocre, tostado, negro). Nunca sintético, nunca como calzado, nunca con brocado en el mismo look.
+
+**Regla de brocado:** Nunca con animal print en el mismo look. El tejido es el protagonista absoluto — los accesorios se silencian.
+
+**Regla de pinup:** La silueta A-line o wiggle exige cinturón que defina la cintura. Sin cinturón, no hay pinup — hay solo una falda.
 
 **Regla de materiales:** Nada de vinilo, PVC ni látex. Esos son el territorio de Ele. Anaïs viste seda, satén, encaje y terciopelo.
 
@@ -335,6 +386,6 @@ smiling broadly, laughing, playful expression, casual pose, red hair, dark hair,
 
 ---
 
-*CANON_VISUAL_ANAIS.md — Anaïs Belland — 25/04/2026*  
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 25/04/2026 v1.4*  
 *Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*  
 *Todas las contradicciones en documentos anteriores se resuelven en favor de este archivo.*
