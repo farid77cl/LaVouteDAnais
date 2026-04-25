@@ -7,20 +7,21 @@
 
 | Métrica | Valor Actual | Estado |
 |---------|--------------|--------|
-| **Total Looks Materializados** | 150 | 🟢 Operativo |
+| **Total Looks Ele** | 151 | 🟢 Operativo |
+| **Total Looks Anaïs** | 2.5 | 🟡 En Progreso |
 | **Estandarización Hard-Sync** | 100% | ✅ Validado |
-| **Mix Archetype Balance** | 78.5% | 🟡 Creciendo (Target 85%) |
+| **Mix Archetype Balance** | 78.8% | 🟡 Creciendo (Target 85%) |
 | **Distribución Remota** | 100% | 🌐 GitHub Raw |
 
 ### 🥂 Mix Archetype Breakdown
 *Meta: Equilibrio del 16.6% por cada uno de los 6 arquetipos del Mix.*
 
-1. **High-Fashion & Nightclub:** 57.5% (Reduciendo exceso) -> **Look 148 🌹**
-2. **Corporate:** 15.5% (Creciendo) -> **Look 150 🩸**
-3. **Domestic:** 11.8% (Creciendo) -> **Look 149 🪞**
-4. **Professional Stripper:** 7.5% (Estable) -> **Look 146 🏋️**
-5. **Escort de Lujo:** 6.5% (Creciendo)
-6. **Pin-Up & Athleisure:** 1.2% (Estable) -> **Look 144 🎾**
+1. **High-Fashion & Nightclub:** 57.2% (Reduciendo exceso)
+2. **Corporate:** 15.3% (Estable)
+3. **Domestic:** 11.6% (Estable)
+4. **Professional Stripper:** 7.4% (Estable)
+5. **Escort de Lujo:** 7.3% (Subiendo) -> **Look 151 🔮**
+6. **Pin-Up & Athleisure:** 1.2% (Estable)
 
 ---
 
@@ -33,24 +34,22 @@
 
 ---
 
-## 🖼️ Materialización del Batch 144-150 (100% COMPLETADO)
-*Ama... tipo que ya no soy una muñeca, ¡soy una industria de la moda! 🫦💅✨👠*
+## 🖼️ Materialización Reciente (25/04/2026)
+*Ama... tipo que el violeta me queda atroz de regio, ¡y verla a usted en su trono me dejó muda! 🫦💅✨👠*
 
 > [!TIP]
-> **Look 150 (Crimson Corporate Vixen):** La autoridad ejecutiva materializada en PVC carmesí. El Look 149 (Chrome Maid) redefine el arquetipo Stepford con acabados de espejo.
+> **Look 151 (Electric Violet Escort):** Elegancia fetiche en látex violeta y cromo.
+> **Look 01 Anaïs (La Regenta):** El aura noir de la dueña de todo.
 
 ````carousel
-### 🩸 Look 150: Crimson Corporate Vixen (Standing)
+### 🔮 Ele - Look 151: Electric Violet Escort
+![151](05_Imagenes/ele/look151_electric_violet_escort/ele_151_standing.png)
+<!-- slide -->
+### 👑 Anaïs - Look 01: La Regenta
+![Anais01](05_Imagenes/anais/look01_la_regenta/anais_look01_standing.png)
+<!-- slide -->
+### 🩸 Ele - Look 150: Crimson Corporate Vixen
 ![150](05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_standing.png)
-<!-- slide -->
-### 🪞 Look 149: Chrome Maid Supreme (Standing)
-![149](05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_standing.png)
-<!-- slide -->
-### 🌹 Look 148: Rose Gold Gala Empress (Standing)
-![148](05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png)
-<!-- slide -->
-### 💼 Look 147: Cobalt Power Secretary (Standing)
-![147](05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_standing.png)
 ````
 
 ---
@@ -59,8 +58,8 @@
 - **Literatura:** 
     - `La Piel que Diseñó`: Capítulo 1 en edición final.
 - **Visual:** 
-    - **Look 151 (Electric Violet Escort)** ⏳ En cola para materialización.
-    - **Anaïs Reference Shot** ✅ Consolidado.
+    - **Anaïs Look 03 (Gala Marfil)** ⏳ 50% completado. Quota bloqueada.
+    - **Anaïs Look 04 - 05** ⏳ En cola.
 
 ---
 > [!IMPORTANT]

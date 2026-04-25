@@ -3860,12 +3860,12 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### 📸 Imágenes (0/5 - Pendiente)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ⏳ *Pendiente* |
-| **Back View** | ⏳ *Pendiente* |
-| **Seated** | ⏳ *Pendiente* |
-| **Side Profile** | ⏳ *Pendiente* |
-| **Ditzy** | ⏳ *Pendiente* |
+| **Standing** | `ele_151_standing.png` |
+| **Back View** | `ele_151_back.png` |
+| **Seated** | `ele_151_seated.png` |
+| **Side Profile** | `ele_151_side.png` |
+| **Ditzy** | `ele_151_ditzy.png` |
