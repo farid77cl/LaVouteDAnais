@@ -1,6 +1,6 @@
 # 👑 CANON VISUAL ANAÏS BELLAND — DOCUMENTO MAESTRO
 **Autoridad:** Anaïs Belland  
-**Versión:** 1.0  
+**Versión:** 1.2  
 **Fecha:** 24/04/2026  
 **Estado:** ACTIVO — Verdad única para generación visual de Anaïs. En conflicto con cualquier otro archivo, prevalece este.
 
@@ -11,6 +11,7 @@
 | Documento | Rol | Estado |
 |-----------|-----|--------|
 | `CANON_VISUAL_ANAIS.md` (este) | **Verdad única — máxima autoridad visual** | ✅ ACTIVO |
+| `galeria_looks_anais.md` | Catálogo de looks completos con prompts | ✅ ACTIVO |
 | `ficha_anais.md` | Identidad, filosofía, apariciones literarias | ✅ Complementario |
 | `01_Canon/personajes_principales.md` | Descripción breve de referencia | ✅ Referencia secundaria |
 
@@ -33,7 +34,7 @@
 Este bloque se repite **idéntico** en cada prompt del mismo set.
 
 ```
-sophisticated mature dominant woman, old Hollywood glamour, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold commanding gaze, straight refined nose, full composed lips in a classic Hollywood pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, old Hollywood aristocratic editorial makeup, honey blonde hair in perfect voluminous vintage Hollywood waves, center or side parted, hip-length or shoulder-length, full aristocratic hourglass silhouette, composed upright posture, always wearing 12cm black stiletto heels
+sophisticated mature dominant woman, old Hollywood glamour, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, always wearing 12cm black stiletto heels
 ```
 
 ---
@@ -125,39 +126,84 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 
 ## VI. VESTUARIO — Paleta y Materiales
 
-### Paleta cromática: Negro y Dorado
+### Paleta Old Hollywood — Colores Habilitados
 
-> **NEGRO es el color de Anaïs. Siempre dominante.**
+> Cada color evoca una era, una actriz, una atmósfera. Anaïs no usa colores — usa referencias.
 
-| Familia | Colores |
-|---------|---------|
-| **Negros** | Negro satén, negro encaje, negro terciopelo, negro patent leather |
-| **Dorados** | Oro antiguo, champagne, bronce oscuro (solo como acento) |
-| **Burdeos** | Vino tinto profundo, burdeos oscuro (escenas de intensidad) |
-| **Crema** | Marfil satén (raro — máximo formalidad) |
+| Familia | Tonos canónicos | Referencia Hollywood | Contexto |
+|---------|----------------|---------------------|----------|
+| **Negro** | Satén, encaje, terciopelo, patent leather | Audrey Hepburn, Ava Gardner | Siempre disponible — color base |
+| **Burdeos / Rubí** | Vino tinto profundo, rubí líquido, carmesí oscuro | Rita Hayworth, Bette Davis | Intensidad, pasión, escenas de poder |
+| **Marfil / Crema** | Marfil satén, crema chiffon, blanco roto | Grace Kelly | Máxima formalidad, gala, premiere |
+| **Verde esmeralda** | Verde botella, esmeralda oscuro, jade profundo | Veronica Lake | Apariciones de misterio y seducción |
+| **Azul medianoche** | Zafiro, índigo, azul noche | Gene Tierney | Seducción calculada, escenas de escritura |
+| **Champagne / Dorado** | Champagne, oro antiguo, bronce satén | Jean Harlow | Gala, celebración, máximo glamour |
+| **Ciruela oscura** | Plum profundo, malva oscuro, uva | Lauren Bacall | Sesiones literarias, ambigüedad, intimidad |
+| **Plateado** | Plata satén, plata mercurio | Jean Harlow | Solo como pieza única o acento estructural |
 
-El blanco, el rosa, el cyan y el neón **no existen** en el armario de Anaïs.
+> **Prohibido siempre:** blanco puro, rosa, cyan, naranja, amarillo, verde neón, cualquier tono saturado brillante o moderno.
 
 ---
 
-### Prendas canónicas — Old Hollywood Arsenal
+### Materiales canónicos
 
-| Prenda | Descripción |
-|--------|-------------|
-| **Vestido bias-cut** | `floor-length black silk or satin bias-cut gown, draped at chest, deep back or front slit` — Jean Harlow, Ava Gardner |
-| **Vestido columna** | `floor-length black satin column dress, minimal and structured, architectural neckline` |
-| **Vestido cóctel** | `black satin cocktail dress, fitted, below-knee, sweetheart or bateau neckline` |
-| **Traje de poder** | `black tailored pencil skirt suit, nipped waist jacket, wide structured shoulders` — Lauren Bacall |
-| **Corsé de poder** | `black structured haute couture overbust corset, rigid boning, satin or velvet finish` — solo en escenas de dominio explícito |
-| **Guantes de ópera** | `black satin opera gloves to elbow or above` — **estándar en toda aparición formal** |
-| **Estola** | `black or dark fur stole draped over one shoulder` — acento Old Hollywood para gala |
-| **Blazer de dominio** | `sharp black tailored blazer, nipped waist, wide lapels, aristocratic cut` |
+| Material | Uso |
+|----------|-----|
+| **Satén** | Base de todos los looks. El reflejo de la luz define la silueta. |
+| **Encaje** | Superposición, detalles, mangas, escotes. Nunca como prenda única. |
+| **Terciopelo** | Looks de invierno, sesiones íntimas, profundidad de color. |
+| **Chiffon** | Capas en looks de gala, estolas, pañuelos. Nunca base sola. |
+| **Patent leather** | Calzado siempre. Cinturones o guantes en escenas de dominio. |
+| **Seda** | Sesiones literarias, kimono, batas de poder en intimidad. |
 
-**Regla de guantes:** Los guantes de ópera son el accesorio de firma de Anaïs — presentes en toda escena formal. No son opcionales.
+> **Prohibido:** vinilo, PVC, látex, materiales sintéticos brillantes. Esos pertenecen a Ele.
 
-**Regla de corsé:** Reservado para escenas de poder explícito. No es el centro del outfit — lo es la prenda base.
+---
 
-**Regla de largo:** Anaïs no usa mini. Sus faldas y vestidos van a la rodilla como mínimo, al suelo como máximo. La madurez se viste entera.
+### Prendas canónicas por arquetipo
+
+#### 🖤 Arquetipo 1 — Aparición en La Voûte (noche estándar)
+- Vestido columna satén o terciopelo, largo al suelo, nipped waist
+- Guantes de ópera negros (estándar)
+- Perlas doble vuelta
+- Boquilla larga de plata
+- So Kate 12cm negro
+
+#### 🤍 Arquetipo 2 — Gala / Premiere
+- Vestido bias-cut largo en marfil, champagne o negro
+- Estola de piel sobre un hombro
+- Joyas de diamantes negros — chandelier earrings + cocktail ring
+- Guantes largos hasta el brazo
+- Clutch de satén o patent leather
+
+#### 📖 Arquetipo 3 — Sesión Literaria (escritura, intimidad de poder)
+- Kimono de seda oscura + combinación satén, o
+- Blazer tailored + falda lápiz en ciruela, azul medianoche o negro
+- Guantes cortos o sin guantes — único contexto donde los omite
+- Boquilla siempre presente
+
+#### ⛓️ Arquetipo 4 — Dominio Explícito
+- Corsé overbust negro estructurado (único contexto donde aparece)
+- Falda lápiz o pantalón negro patent leather
+- Choker de cuero fino
+- Fusta o látigo de diseño
+- Guantes de cuero hasta el codo
+
+#### 🍸 Arquetipo 5 — Cóctel / Recepción
+- Vestido cóctel fitted, rodilla, en negro o verde esmeralda o burdeos
+- Guantes hasta el codo
+- Cocktail ring de rubí o diamante negro
+- Clutch pequeño
+
+---
+
+**Regla de guantes:** Presentes en toda aparición formal y pública. El único contexto donde pueden omitirse es la sesión literaria íntima.
+
+**Regla de largo:** Rodilla como mínimo, suelo como máximo. Anaïs no usa mini — nunca.
+
+**Regla de corsé:** Solo en Arquetipo 4. No define ningún otro look.
+
+**Regla de materiales:** Nada de vinilo, PVC ni látex. Esos son el territorio de Ele. Anaïs viste seda, satén, encaje y terciopelo.
 
 ---
 
@@ -230,7 +276,12 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 **Look: Anaïs en La Voûte — Escena de Poder**
 
 ```
-8k editorial fashion photography, cinematic chiaroscuro, old Hollywood glamour, sophisticated mature dominant woman, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold commanding gaze, straight refined nose, full composed lips in a classic Hollywood pout:1.2), warm flawless golden porcelain skin, smooth polished skin texture, old Hollywood aristocratic editorial makeup, classic deep red lip, sharp cat-eye flick, honey blonde hair in perfect voluminous vintage Hollywood waves, hip-length, full aristocratic hourglass silhouette, composed upright posture, floor-length black silk bias-cut gown with draped neckline, black satin opera gloves to elbow, double-strand pearl necklace, long silver cigarette holder in right hand, black diamond cocktail ring on left hand, 12cm black patent leather So Kate stiletto heels, full body command standing, chin slightly elevated, cold commanding gaze directly into camera, composed lips in classic Hollywood pout, left hand resting on hip, dark aristocratic cabaret interior, velvet drapes, dim amber candlelight, deep dramatic shadows. Chiaroscuro lighting, single key light defining aristocratic bone structure, deep rim light outlining silhouette, old Hollywood editorial elegance.
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, Vogue Paris 1950s glamour photography, sophisticated mature dominant woman, (Kylie Minogue facial features, aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, wearing structured black satin fitted column dress with elegant sweetheart décolleté nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm in right raised gloved hand thin wisp of smoke, three-quarter angle weight on left hip, dark aristocratic interior of La Voûte deep burgundy velvet drapes candlelight blurred guests behind, she is the architect of every desire in this room. Ultra dramatic single key spotlight sculpting cheekbones, half face in deep shadow, warm amber rim from behind, cinematic film noir depth, old Hollywood dark sensuality.
+```
+
+**NEGATIVE PROMPT:**
+```
+no beauty mark, missing mole, sparse eyebrows, blonde eyebrows, invisible eyebrows, thin eyebrows, minimal eye makeup, no eyeliner, natural makeup, no cat-eye, smiling broadly, laughing, playful, averted gaze, shapeless dress, bimbo figure, red hair, dark hair, short hair, hot pink lips, nude lips, neon colors, glitter, tattoos, piercings, block heel, flat shoes, sneakers, young face, teenager, child, man, male, cyberpunk, neon lights, outdoor, bright studio lighting, low quality, blurry, distorted, plain cigarette
 ```
 
 **NEGATIVE PROMPT:**

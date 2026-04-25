@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 151 Looks / 147 Materializados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 151 Looks / 150 Materializados)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 24/04/2026 - Looks 144-147 Materializados & Canon Visual Anaïs Belland Establecido ✅
+*Última actualización: 24/04/2026 - Looks 144-150 Materializados & Referencia Visual Anaïs Belland (La Regenta) Consolidada ✅*
