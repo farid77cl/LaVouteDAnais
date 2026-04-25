@@ -1,7 +1,7 @@
 # 👑 CANON VISUAL ANAÏS BELLAND — DOCUMENTO MAESTRO
 **Autoridad:** Anaïs Belland  
-**Versión:** 1.2  
-**Fecha:** 24/04/2026  
+**Versión:** 1.3  
+**Fecha:** 25/04/2026  
 **Estado:** ACTIVO — Verdad única para generación visual de Anaïs. En conflicto con cualquier otro archivo, prevalece este.
 
 ---
@@ -247,7 +247,26 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 
 ---
 
-## VIII. ESCENARIOS Y ATMÓSFERA
+## VIII. FUENTE LITERARIA — ELEMENTOS CANONIZADOS
+
+> La serie *Le miroir d'Anaïs* (Caps. I–IV) es texto canónico. Las descripciones físicas y de vestuario que aparecen en ella son de igual autoridad que este documento visual.
+
+| Elemento | Capítulo origen | Integración al canon |
+|----------|----------------|----------------------|
+| **Suela roja en tacones** | Caps. III y IV | ✅ En ADN y todos los prompts |
+| **Guantes de cuero rojo mate** | Cap. IV | ✅ En Arquetipo 4-B y tabla de accesorios |
+| **Medias de red** | Caps. III y IV | ✅ En looks ejecutivos y dominio |
+| **Moño alto geométrico** | Cap. III | ✅ Variante de cabello canónica |
+| **Ondas sueltas sobre hombros** | Cap. III | ✅ Variante de cabello canónica |
+| **Falda lápiz de cuero negro** | Caps. II, III, IV | ✅ En Arquetipo 4-A y materiales |
+| **Blusa de seda negra** | Cap. III | ✅ En Arquetipo 4-A |
+| **Cinturón de poder** | Cap. III | ✅ En tabla de accesorios |
+| **Collar de perlas con llave** | Cap. IV | ✅ En tabla de accesorios |
+| **Boquilla con cigarro encendido** | Caps. II, IV | ✅ Ya en canon |
+
+---
+
+## IX. ESCENARIOS Y ATMÓSFERA
 
 > **La Voûte d'Anaïs no es un sótano. Es un palacio.**
 
@@ -267,7 +286,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 
 ---
 
-## IX. NEGATIVOS OBLIGATORIOS
+## X. NEGATIVOS OBLIGATORIOS
 
 ```
 (different face:1.3), (varying facial features:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, bimbo makeup, hot pink lips, overlined lips, overfilled lips, neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, vinyl fetish model, bimbo aesthetic, tattoos, piercings, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male
@@ -275,7 +294,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 
 ---
 
-## X. POSES OBLIGATORIAS (4 por set)
+## XI. POSES OBLIGATORIAS (4 por set)
 
 | # | Nombre | Descripción |
 |---|--------|-------------|
@@ -288,7 +307,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 
 ---
 
-## XI. ESTRUCTURA DEL PROMPT COMPLETO
+## XII. ESTRUCTURA DEL PROMPT COMPLETO
 
 ```
 [ESTILO FOTOGRÁFICO], [PROMPT BASE ADN], [DESCRIPCIÓN DEL VESTUARIO Y ACCESORIOS], [CALZADO TÉCNICO], [POSE Y EXPRESIÓN: cold commanding gaze, composed lips, chin slightly elevated], [ESCENARIO Y ILUMINACIÓN]. Chiaroscuro lighting to define aristocratic silhouette, deep shadows, editorial elegance.
@@ -296,7 +315,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 
 ---
 
-## XII. EJEMPLO DE PROMPT COMPLETO
+## XIII. EJEMPLO DE PROMPT COMPLETO
 
 **Look: Anaïs en La Voûte — Escena de Poder**
 
@@ -316,6 +335,6 @@ smiling broadly, laughing, playful expression, casual pose, red hair, dark hair,
 
 ---
 
-*CANON_VISUAL_ANAIS.md — Anaïs Belland — 24/04/2026*  
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 25/04/2026*  
 *Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*  
 *Todas las contradicciones en documentos anteriores se resuelven en favor de este archivo.*

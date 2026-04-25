@@ -165,7 +165,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 **Concepto:** Anaïs cuando escribe. Crea mundos. La boquilla siempre presente, el manuscrito siempre cerca.
 
 **BLOQUE B:**
-`deep plum silk kimono robe with wide lapels and sash tied at waist over black silk slip dress, bare arms, antique silver cocktail ring on right hand, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels`
+`deep plum silk kimono robe with wide lapels and sash tied at waist over black silk slip dress, bare arms, antique silver cocktail ring on right hand, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole`
 
 ---
 
@@ -244,7 +244,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 **Concepto:** La forma más honesta de su poder. Un negligée que no intenta nada — simplemente existe sobre ella y eso es suficiente para que todo cambie en la habitación. La seda la delata en cada movimiento.
 
 **BLOQUE B:**
-`floor-length black silk bias-cut negligée with thin spaghetti straps, delicate ivory lace trim at neckline and hem, deeply draped open cowl back, the bias-cut silk clinging to every mature curve and catching candlelight, 12cm black patent leather stiletto heels`
+`floor-length black silk bias-cut negligée with thin spaghetti straps, delicate ivory lace trim at neckline and hem, deeply draped open cowl back, the bias-cut silk clinging to every mature curve and catching candlelight, 12cm black patent leather stiletto heels iconic red sole`
 
 ---
 
@@ -278,7 +278,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 **Concepto:** El Merry Widow no es subyugación — es arquitectura de poder personal. Cada ballena, cada correa de liguero es una decisión consciente. Ella eligió esto. Y en esa elección reside todo.
 
 **BLOQUE B:**
-`deep ruby burgundy satin merry widow corselette with structured boning underwire cups and attached six-strap garter belt, black lace trim at top edge deeply décolleté, black seamed nylon stockings with visible back seam the garter straps taut against bare thigh, nothing else, 12cm black patent leather stiletto heels`
+`deep ruby burgundy satin merry widow corselette with structured boning underwire cups and attached six-strap garter belt, black lace trim at top edge deeply décolleté, black seamed nylon stockings with visible back seam the garter straps taut against bare thigh, nothing else, 12cm black patent leather stiletto heels iconic red sole`
 
 ---
 
@@ -312,7 +312,7 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 **Concepto:** Cuando termina de escribir y el amanecer llega antes que el sueño. El peignoir marfil es la única concesión a la ternura que Anaïs se permite — y aun así mantiene los tacones. La luz la atraviesa y la delata.
 
 **BLOQUE B:**
-`sheer ivory chiffon peignoir robe with wide lace-trimmed lapels and flowing full-length skirt worn open and loose, beneath it ivory silk satin chemise with deep lace trim at neckline thigh-length the chemise barely covering, the sheer chiffon translucent in warm candlelight revealing silhouette beneath, 12cm black patent leather stiletto heels`
+`sheer ivory chiffon peignoir robe with wide lace-trimmed lapels and flowing full-length skirt worn open and loose, beneath it ivory silk satin chemise with deep lace trim at neckline thigh-length the chemise barely covering, the sheer chiffon translucent in warm candlelight revealing silhouette beneath, 12cm black patent leather stiletto heels iconic red sole`
 
 ---
 
@@ -338,6 +338,280 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ---
 
-*galeria_looks_anais.md v3.0 — Anaïs Belland — 24/04/2026*
-*8 looks · 32 prompts · ADN embebido · Sin referencias de nombre · Boquilla opcional*
-*Looks: 01 Negro · 02 Burdeos · 03 Marfil · 04 Ciruela · 05 Esmeralda · L01 Negligée · L02 Merry Widow · L03 Peignoir*
+## 🖤 Look 06: La Ejecutiva — Poder sin ornamento
+
+**Arquetipo:** Ejecutivo de poder (4-A) · **Paleta:** Negro seda + cuero negro · **Medias de red · Sin guantes · Boquilla opcional**
+**Referencia:** Fuente literaria Ch. III — "una blusa de seda negra que delineaba su figura sin necesidad de mostrar piel"
+**Cabello:** Ondas sueltas (variante literaria Ch. III)
+
+**Concepto:** Desciende la escalera y la sala corrige su postura antes de que ella hable. No necesita guantes esta noche — sus manos libres son su amenaza. La falda de cuero marca cada paso como una sentencia. Las medias de red recuerdan que bajo la ejecutiva siempre hay una dueña.
+
+**BLOQUE B:**
+`structured black silk blouse with deep V-neckline perfectly form-fitting, black patent leather fitted pencil skirt mid-calf length with single back slit, structured black leather belt with precise silver buckle cinching waist, black fishnet stockings with precise back seam visible, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — command_standing:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose over shoulders, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black silk blouse with deep V-neckline perfectly form-fitting, black patent leather fitted pencil skirt mid-calf length with single back slit, structured black leather belt with precise silver buckle cinching waist, black fishnet stockings with precise back seam the seam running straight from heel to upper thigh, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip bare hands at sides cold darkly sensual gaze locked into camera, dark aristocratic La Voûte interior deep burgundy velvet and dim amber candlelight, descended from the staircase she is the last thing they expected and the only thing they see, single key spotlight sculpting cheekbones deep shadow on right side warm amber rim from behind cinematic film noir depth.
+```
+
+**POSE 2 — table_seated:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose over shoulders, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black silk blouse with deep V-neckline, black patent leather fitted pencil skirt, structured black leather belt cinching waist, black fishnet stockings with precise back seam visible, 12cm black patent leather stiletto heels iconic red sole, seated at head of dark polished long table legs crossed at knee the skirt slit opening to reveal fishnet seam and the gleam of red sole, one elbow on table hand loosely holding long elegant silver cigarette holder thin wisp of smoke the other hand resting on the table fingers spread lightly, cold darkly sensual gaze locked directly into camera — the room belongs to her and they all know it, dark aristocratic interior amber candlelight heavy drapes behind, dramatic chiaroscuro from above.
+```
+
+**POSE 3 — three_quarter:**
+```
+8k ultra cinematic film noir portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose over shoulders one wave across bare clavicle, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black silk blouse with deep V-neckline the silk catching light, black patent leather fitted pencil skirt the leather matte and absolute, structured black leather belt emphasizing the precise nip of waist, black fishnet stockings with precise back seam visible at slit, 12cm black patent leather stiletto heels iconic red sole, three-quarter angle slight shoulder turn toward camera weight on left hip the pencil skirt defining every curve the belt carving her waist the fishnet seam a straight line from heel to mid-thigh at the slit, cold sensual gaze over shoulder the waves falling loose behind, dark La Voûte interior candlelight from one side.
+```
+
+**POSE 4 — domina_closeup:**
+```
+8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in controlled vintage waves falling loose one wave falling across bare shoulder, medium shot from mid-chest up, structured black silk blouse deep V-neckline at frame bottom the silk draping to reveal the geometry of clavicle and the beginning of décolleté, black leather belt visible at waist, cold darkly sensual gaze directly into camera — the look of someone who decided this outcome before she entered the room, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above-left deep shadow on right side warm amber from behind, dark La Voûte interior bokeh, cinematic film noir power and old Hollywood dark authority.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look06_standing.png` |
+| **Seated** | `anais_look06_seated.png` |
+| **Three-Quarter** | `anais_look06_three_quarter.png` |
+| **Close-up** | `anais_look06_closeup.png` |
+
+---
+
+## ⛓️ Look 07: La Dueña — La Ceremonia
+
+**Arquetipo:** Dominio explícito (4-B) · **Paleta:** Negro corsé + guantes rubí · **Medias de red · Boquilla**
+**Referencia:** Fuente literaria Ch. IV — "vestida en cuero negro opaco, con un corset que delineaba su silueta como un trazo de pluma sobre carne"
+**Cabello:** Moño alto geométrico (variante literaria Ch. IV)
+
+**Concepto:** Entra última. La ceremonia empieza cuando ella lo decide. El corsé no es adorno — es arquitectura. Los guantes rojos no son color — son declaración. La llave que cuelga de las perlas no está ahí por azar.
+
+**BLOQUE B:**
+`structured black overbust corset with visible boning and dark lace trim at deeply décolleté top edge, black patent leather fitted pencil skirt floor-length with deep side slit, black fishnet stockings with precise back seam garter line taut against bare thigh visible at slit, long matte red leather gloves to upper arm, double-strand pearl necklace with small antique steel key pendant hanging center, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — command_standing:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon geometric updo impeccable finish, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black overbust corset with visible boning and dark lace trim deeply décolleté lifting and framing, black patent leather fitted pencil skirt floor-length with deep side slit fishnet seam visible from heel to mid-thigh, long matte red leather gloves to upper arm the matte red against the black creating a dangerous contrast, double-strand pearl necklace with small antique steel key pendant resting at the hollow of throat, long elegant silver cigarette holder 20cm in red-gloved hand thin wisp of smoke, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip the skirt slit revealing fishnet-clad thigh cold darkly sensual gaze locked into camera, dark aristocratic La Voûte ceremony setting deep shadow velvet and candlelight, single key spotlight sculpting cheekbones half face in deep shadow warm amber rim from behind cinematic film noir depth she is the reason this room exists.
+```
+
+**POSE 2 — throne_seated:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon geometric updo impeccable finish, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black overbust corset with visible boning deeply décolleté, black patent leather pencil skirt with side slit, black fishnet stockings with precise back seam the garter straps taut against bare thigh visible where slit opens, long matte red leather gloves to upper arm both gloved hands resting on the carved armrests of a dark velvet throne, double-strand pearl necklace with small steel key pendant at throat, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole, seated on dark velvet throne legs crossed at knee the slit falling open to reveal fishnet and garter strap above stocking top, cold darkly sensual gaze locked directly into camera elevated slightly from the throne step, dark aristocratic La Voûte interior ceremony candlelight behind, dramatic chiaroscuro old Hollywood noir.
+```
+
+**POSE 3 — three_quarter:**
+```
+8k ultra cinematic film noir portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon geometric updo the nape of neck exposed, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, structured black overbust corset with boning deeply décolleté the architecture of the corset shaping her silhouette, black patent leather floor-length pencil skirt with deep side slit, black fishnet stockings the back seam visible at slit, long matte red leather gloves to upper arm the contrast of matte red against deep black absolute, double-strand pearl necklace small steel key pendant, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole, three-quarter angle slight shoulder turn the full silhouette from chignon to heel visible the corset carving the waist the skirt slit showing fishnet-clad thigh the red gloves the key pendant all speaking the same language, cold sensual gaze over shoulder toward camera, dark La Voûte ceremony setting candlelight one side deep shadow other.
+```
+
+**POSE 4 — domina_closeup:**
+```
+8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in a precise high sculpted chignon exposing the full aristocratic bone structure of her face, medium shot from mid-chest up, structured black overbust corset deeply décolleté at frame bottom the boning structure and dark lace trim framing an absolute décolleté, long matte red leather gloves to upper arm the matte red visible at lower frame, double-strand pearl necklace with small antique steel key pendant resting at the hollow of bare throat, cold darkly sensual gaze directly into camera — she has already decided and the key around her throat is the proof, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above-left deep shadow on right side warm amber rim from behind exposing the nape above the chignon, dark La Voûte ceremony bokeh behind old Hollywood absolute power.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look07_standing.png` |
+| **Seated** | `anais_look07_seated.png` |
+| **Three-Quarter** | `anais_look07_three_quarter.png` |
+| **Close-up** | `anais_look07_closeup.png` |
+
+---
+
+## 💙 Look 08: Azul Medianoche — Seducción Calculada
+
+**Arquetipo:** Cóctel / recepción privada (5) · **Paleta:** Zafiro medianoche + plata · **Sin medias · Boquilla**
+**Referencia:** Gene Tierney — el azul profundo que no busca atención y la consigue toda
+
+**Concepto:** El azul medianoche es el color que reserva para cuando no quiere ser encontrada. Y aun así — es imposible no mirarla. El vestido no brilla. Ella sí.
+
+**BLOQUE B:**
+`deep midnight sapphire blue bias-cut fitted column dress with elegant draped cowl neckline and deep back slit revealing bare back, long black satin opera gloves to upper arm, antique silver chandelier drop earrings, small black patent leather evening clutch in left gloved hand, long elegant silver cigarette holder 20cm, 12cm black patent leather So Kate stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — command_standing:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep midnight sapphire blue bias-cut fitted column dress with elegant draped cowl neckline hugging every aristocratic curve the bias-cut catching light like a moving shadow, long black satin opera gloves to upper arm, antique silver chandelier drop earrings, small black patent leather evening clutch in left gloved hand, long elegant silver cigarette holder 20cm in right gloved hand thin wisp of smoke, 12cm black patent leather stiletto heels iconic red sole, full body standing three-quarter angle weight on left hip the midnight blue flowing to the floor, cold darkly sensual gaze locked into camera, luxury penthouse setting floor-to-ceiling dark windows city lights far below minimal black furniture behind, single key spotlight from above sculpting cheekbones and the draped cowl neckline warm amber rim from behind cinematic film noir depth.
+```
+
+**POSE 2 — throne_seated:**
+```
+8k ultra cinematic film noir portrait, single dramatic spotlight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep midnight sapphire blue bias-cut fitted column dress draped cowl neckline, long black satin opera gloves to upper arm, antique silver chandelier drop earrings, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole, seated in a dark minimal armchair legs crossed at knee one gloved hand holding cigarette holder at shoulder height the other resting on knee clutch beside her, the midnight blue pooling around the chair the bias-cut draping with elegant weight, cold darkly sensual gaze locked into camera, luxury penthouse dark windows city lights bokeh behind, dramatic chiaroscuro.
+```
+
+**POSE 3 — three_quarter:**
+```
+8k ultra cinematic film noir portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length falling over one shoulder, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep midnight sapphire blue bias-cut fitted column dress with draped cowl neckline the deep back slit revealing the beginning of bare back, long black satin opera gloves to upper arm, antique silver chandelier drop earrings catching the spotlight, long elegant silver cigarette holder 20cm, 12cm black patent leather stiletto heels iconic red sole, three-quarter angle showing both the draped front cowl and the suggestion of bare back revealed by the back slit weight shifted to one hip the bias-cut defining every curve of the hourglass silhouette, cold sensual gaze turned over shoulder toward camera, luxury penthouse city light below minimal dark furniture, warm spotlight from above deep shadow behind.
+```
+
+**POSE 4 — domina_closeup:**
+```
+8k ultra cinematic film noir close-up portrait, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted falling over one shoulder, medium shot from mid-chest up, deep midnight sapphire blue bias-cut draped cowl neckline at frame bottom the blue catching spotlight like liquid shadow, long black satin opera gloves visible at lower frame, antique silver chandelier drop earrings, cold darkly sensual gaze directly into camera — the gaze of someone who chose not to be here, and is the only reason anyone stayed, beauty mark visible above upper left lip, sculpted cheekbones in dramatic chiaroscuro single key light from above deep shadow on one side the midnight blue fabric catching the light differently at every angle, luxury penthouse city lights bokeh far behind old Hollywood composed mystery.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look08_standing.png` |
+| **Seated** | `anais_look08_seated.png` |
+| **Three-Quarter** | `anais_look08_three_quarter.png` |
+| **Close-up** | `anais_look08_closeup.png` |
+
+---
+
+---
+
+## 🖤 — SERIE II DE LENCERÍA RETRO ERÓTICA —
+
+> **Atmósfera:** La Voûte cerrada. Solo ella. La luz sabe dónde mirar.
+> **Regla ADN:** Idéntica para cada prompt. Sin excepciones.
+> **Boquilla:** Ausente en toda la serie II.
+> **Medias:** Solo en L05 (con liguero).
+
+---
+
+## 🖤 Look L04: Encaje Chantilly — La Poseedora
+
+**Arquetipo:** Lencería vintage erótica · **Paleta:** Negro Chantilly · **Sin medias · Sin boquilla**
+**Referencia:** Vintage French lingerie 1940s — el encaje que cubre todo y no esconde nada
+
+**Concepto:** El encaje Chantilly no es pudor — es declaración. Cada flor bordada en el tejido pasa sobre su piel como una firma. El alto corte de las piernas no es accidente. La delineación de su silueta a través del patrón no es azar. Ella eligió esto.
+
+**BLOQUE B:**
+`vintage black Chantilly lace one-piece bodysuit teddy with deep plunging V-neckline to sternum, high-cut legs revealing full hip line, delicate scalloped lace hem, the Chantilly lace pattern sheer enough to reveal the silhouette of mature curves beneath while the floral motifs drift across bare skin, back clasp, 12cm black patent leather stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — boudoir_standing:**
+```
+8k ultra cinematic intimate boudoir portrait, single dramatic amber spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a smoldering dark half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves mature and precise, composed upright posture with dangerous feminine magnetism, vintage black Chantilly lace one-piece bodysuit teddy with deep plunging V-neckline the lace floral pattern drifting across bare golden skin the high-cut legs revealing the full aristocratic line of hip and thigh the sheer lace following every curve of her mature figure, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip one hand on hip the other at side the Chantilly lace barely there between the spotlight and her skin, smoldering dark commanding gaze locked into camera — she dressed for this room and she owns every shadow in it, private boudoir dark wood antique furniture warm amber candlelight from low position sculpting her silhouette, cinematic intimate depth old Hollywood retro erotica.
+```
+
+**POSE 2 — chaise_reclining:**
+```
+8k ultra cinematic intimate boudoir portrait, warm amber candlelight from beside casting long shadows, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted dark smoldering defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves one long wave loosened falling over shoulder, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, vintage black Chantilly lace bodysuit the plunging V-neckline the floral lace pattern transparent against warm porcelain skin the full curve of mature figure visible through the delicate sheer mesh, 12cm black patent leather stiletto heels iconic red sole, half-reclining on a dark velvet chaise longue one leg fully extended the heel visible at the chaise end the other leg bent with foot on chaise revealing the high-cut lace at the hip one arm extended along the chaise back the other hand resting on bare thigh at the lace hem, smoldering dark gaze directly into camera chin slightly lowered making the eye contact heavier, warm amber light from one side carving cheekbones and tracing the Chantilly lace pattern on bare skin, private boudoir deep shadow behind cinematic retro erotica.
+```
+
+**POSE 3 — mirror_standing:**
+```
+8k ultra cinematic intimate boudoir portrait, warm amber candlelight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, vintage black Chantilly lace bodysuit the lace barely covering while the warm amber light passes through the floral pattern tracing it onto her skin the plunging V-neckline open and deliberate the high-cut legs showing the full line of hip thigh and bare leg, 12cm black patent leather stiletto heels iconic red sole, standing three-quarter profile beside a tall antique mirror the reflection showing the back — the lace clasp at the center of her spine the full curve of the back the lace following the line of every vertebra, in the mirror and in front of the mirror: two versions of the same absolute, smoldering gaze turned toward camera over shoulder, warm amber boudoir light deep shadow private aristocratic interior.
+```
+
+**POSE 4 — intimate_closeup:**
+```
+8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight from low, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark commanding gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted dark smoldering barely touching defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves one wave released over bare shoulder, medium shot from mid-chest up, vintage black Chantilly lace bodysuit the deep plunging V-neckline at frame bottom the delicate floral lace pattern drifting across the skin of décolleté the scalloped lace edge at the neckline, the lace so sheer that candlelight passes through it pooling warm gold on the skin beneath the pattern, smoldering dark commanding gaze directly into camera — the gaze of someone who has decided what happens next and it has nothing to do with you deciding, beauty mark above upper left lip, sculpted cheekbones carved by warm amber light from below and one side deep shadow the other side old Hollywood low-key intimate erotica.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL04_standing.png` |
+| **Reclining** | `anais_lookL04_reclining.png` |
+| **Mirror** | `anais_lookL04_mirror.png` |
+| **Close-up** | `anais_lookL04_closeup.png` |
+
+---
+
+## 🥂 Look L05: Conjunto Champagne Pinup — Jean Harlow
+
+**Arquetipo:** Lencería retro erótica estructurada · **Paleta:** Champagne satén + dorado · **Con medias · Sin boquilla**
+**Referencia:** Jean Harlow — el champagne que no pide permiso para brillar
+
+**Concepto:** El color champagne sobre su piel no es suave — es peligroso. El bustier bullet bra de los 50s no es vintage aquí: es un arma de precisión. El liguero es arquitectura. Las medias con costura son la única línea recta en todo su cuerpo.
+
+**BLOQUE B:**
+`strapless vintage bullet bra in champagne satin with structured conical cups and underwire lifting dramatically, matching champagne satin high-waist briefs with gold lace trim at waist, matching champagne satin six-strap garter belt, ivory seamed stockings with precise dark back seam the garter straps taut against bare thigh, 12cm black patent leather stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — boudoir_standing:**
+```
+8k ultra cinematic intimate boudoir portrait, warm golden spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, strapless vintage bullet bra in champagne satin with structured conical cups lifting dramatically the satin catching the golden spotlight, matching champagne satin high-waist briefs with delicate gold lace trim at waist, champagne satin six-strap garter belt the straps taut down the line of bare thigh to the stocking tops, ivory seamed stockings with precise dark back seam running from heel to the garter clip, 12cm black patent leather stiletto heels iconic red sole, full body standing weight on left hip hands at sides or one hand on waist the seam of the stockings a perfect vertical line from heel to thigh, smoldering dark knowing gaze locked into camera the champagne satin glowing warm gold in the spotlight, private boudoir antique dark furniture amber candlelight behind, cinematic retro erotica 1950s old Hollywood pinup aristocratic.
+```
+
+**POSE 2 — vanity_seated:**
+```
+8k ultra cinematic intimate boudoir portrait, warm golden candlelight and mirror reflection, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, strapless vintage bullet bra in champagne satin with structured conical cups, matching champagne satin high-waist briefs gold lace trim at waist, champagne satin six-strap garter belt, ivory seamed stockings with precise dark back seam visible the garter straps descending from the belt, 12cm black patent leather stiletto heels iconic red sole, seated at an antique vanity table facing the mirror three-quarter angle legs crossed at knee the back seam of the stocking perfectly aligned up the back of her leg the garter strap pulling taut above the stocking top the champagne satin of the briefs visible at the high waist, one elbow on vanity chin resting on gloved fist the other hand in lap, smoldering dark gaze into the mirror and through it into camera the reflection and the reality the same cold authority, warm golden vanity lights and candlelight private boudoir, retro erotica 1950s aristocratic glamour.
+```
+
+**POSE 3 — three_quarter:**
+```
+8k ultra cinematic intimate boudoir portrait, single warm golden spotlight, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, strapless vintage bullet bra in champagne satin the structured conical cups lifting the décolleté into the classic 1950s silhouette the satin catching light at every angle, matching champagne satin high-waist briefs with gold lace trim the high waist defining the nip between the briefs and the garter belt above, champagne satin six-strap garter belt the six garter straps taut against bare thigh each one a precise line from belt to stocking top, ivory seamed stockings the dark back seam a single perfect line, 12cm black patent leather stiletto heels iconic red sole, three-quarter body angle slight shoulder turn one hand on hip the full 1950s pinup silhouette revealed — the bullet bra the high waist the garter straps the seamed stockings all composing a single unified retro-erotic architecture, smoldering dark gaze over shoulder toward camera, warm golden spotlight on champagne satin private boudoir dark behind old Hollywood retro erotica.
+```
+
+**POSE 4 — intimate_closeup:**
+```
+8k ultra cinematic intimate boudoir close-up portrait, warm golden candlelight from low, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark barely touching defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, medium shot from mid-chest up, strapless vintage bullet bra in champagne satin at frame bottom the structured conical cups lifting dramatically the satin glowing warm gold in the candlelight the edge of the gold lace trim of the high-waist briefs just visible below the bullet bra the composition a precise 1950s silhouette, smoldering dark knowing gaze directly into camera — the look of a woman who decided the 1950s were the last century to understand what a woman could do with the right architecture, beauty mark above upper left lip, sculpted cheekbones in warm golden light deep shadow carved old Hollywood glamour champagne satin intimate boudoir retro erotica.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL05_standing.png` |
+| **Vanity** | `anais_lookL05_vanity.png` |
+| **Three-Quarter** | `anais_lookL05_three_quarter.png` |
+| **Close-up** | `anais_lookL05_closeup.png` |
+
+---
+
+## 🍷 Look L06: Soie Bourguignonne — La Robe Ouverte
+
+**Arquetipo:** Lencería íntima de poder · **Paleta:** Burdeos seda + encaje negro · **Sin medias · Sin boquilla**
+**Referencia:** Lauren Bacall — la robe que se abre sola porque ella lo decidió
+
+**Concepto:** La robe de chambre de burdeos es la única cosa que se pone después de escribir hasta las tres de la mañana. La dejó abierta. No fue descuido. Bajo la seda borgoña solo hay encaje negro y piel y la mirada de alguien que sabe exactamente lo que acaba de mostrar.
+
+**BLOQUE B:**
+`deep burgundy silk kimono-cut robe hip-length worn fully open and not covering anything the heavy silk falling off both shoulders pooling at her sides like liquid wine, beneath it vintage black lace bralette with structured underwire cups and scalloped lace trim low-cut revealing, matching black high-waist vintage lace briefs with scalloped waist trim, bare legs fully exposed from hip to heel, 12cm black patent leather stiletto heels iconic red sole`
+
+---
+
+**POSE 1 — boudoir_standing:**
+```
+8k ultra cinematic intimate boudoir portrait, single warm amber spotlight from above, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark knowing barely touching defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves loosely falling over one bare shoulder some waves released, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep burgundy silk kimono-cut robe worn completely open the heavy silk hanging off both shoulders framing her body like a painting the deep wine color rich against her skin, beneath it vintage black lace bralette with structured cups and scalloped lace trim barely covering the décolleté, matching black high-waist vintage lace briefs with scalloped waist the high waist defining her figure, bare legs fully exposed from hip to heel the full mature aristocratic line of leg visible, 12cm black patent leather stiletto heels iconic red sole, full body standing the robe hanging open the burgundy silk framing the black lace and bare skin behind it both hands loosely at her sides the silk barely touching her arms, smoldering dark knowing desire locked into camera — she did not close it, beauty mark above upper left lip, warm amber light sculpting cheekbones and the line of bare legs the burgundy silk catching the light at its edges, private boudoir dark antique furniture deep shadow behind old Hollywood retro erotica.
+```
+
+**POSE 2 — chaise_seated:**
+```
+8k ultra cinematic intimate boudoir portrait, warm amber candlelight from the side, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark knowing barely touching defined cupid's bow, honey blonde hair loosely falling in controlled vintage waves over shoulders and bare back, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep burgundy silk kimono-cut robe worn fully open pooling around her as she sits the heavy silk parted to reveal everything beneath, vintage black lace bralette with structured cups décolleté and scalloped lace, matching black high-waist vintage lace briefs, bare legs fully exposed the robe fallen fully to the sides, 12cm black patent leather stiletto heels iconic red sole, seated on a dark velvet chaise longue one leg fully extended along the chaise the other foot on the floor the burgundy silk robe open completely and pooled beside her both hands resting loosely on bare thighs the black lace briefs visible at high waist, smoldering dark knowing gaze directly into camera chin tilted slightly down making the heavy-lidded gaze more absolute, warm amber candlelight from one side tracing the line of bare leg and the boundary between black lace and bare skin, private boudoir deep shadow cinematic retro erotica.
+```
+
+**POSE 3 — doorway_standing:**
+```
+8k ultra cinematic intimate boudoir portrait, warm amber light from behind her making the silk robe translucent at edges, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark knowing defined cupid's bow, honey blonde hair loosely falling in controlled vintage waves one hand holding the robe lapel loosely, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, deep burgundy silk kimono-cut robe open one hand barely holding one silk lapel without closing it the other hand at side the silk parting to reveal the full line of the body — the black lace bralette the black high-waist lace briefs the fully bare legs from hip to heel, 12cm black patent leather stiletto heels iconic red sole, standing in a darkened doorway the warm amber light from the room behind making the edges of the silk robe glow translucent weight on one hip the full silhouette framed by the doorway the black lace and bare skin between the burgundy silk panels, smoldering dark knowing gaze directly into camera — she opened this door for a reason and it was not the one you think, warm amber rim lighting from behind carving the silhouette the burgundy silk lit from within at its edges, cinematic intimate retro erotica old Hollywood.
+```
+
+**POSE 4 — intimate_closeup:**
+```
+8k ultra cinematic intimate boudoir close-up portrait, warm amber candlelight from low and to the side, sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with smoldering dark knowing desire:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted smoldering dark knowing barely touching defined cupid's bow, honey blonde hair loosely falling in controlled vintage waves over bare shoulder, medium shot from mid-chest up, deep burgundy silk kimono-cut robe open and falling off both bare shoulders framing the upper body the rich wine-colored silk at the edges of the frame, beneath it vintage black lace bralette with structured cups scalloped lace trim décolleté fully visible the black lace on warm golden skin, one hand barely touching the silk lapel not closing it, smoldering dark knowing desire directly into camera — the look of someone who writes the stories and knows exactly which scene this is, beauty mark above upper left lip, warm amber light from low carving cheekbones and the line of clavicle the contrast of deep burgundy silk and black lace and porcelain skin, private boudoir deep dark behind old Hollywood retro erotica intimate.
+```
+
+### 📸 Imágenes (0/4 - ⏳ Pendiente)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_lookL06_standing.png` |
+| **Chaise** | `anais_lookL06_chaise.png` |
+| **Doorway** | `anais_lookL06_doorway.png` |
+| **Close-up** | `anais_lookL06_closeup.png` |
+
+---
+
+*galeria_looks_anais.md v5.0 — Anaïs Belland — 25/04/2026*
+*14 looks · 56 prompts · ADN embebido · Sin referencias de nombre*
+*Outfits: 01 Negro · 02 Burdeos · 03 Marfil · 04 Ciruela · 05 Esmeralda · 06 Ejecutiva · 07 La Dueña · 08 Azul Medianoche*
+*Lencería Serie I: L01 Negligée Negro · L02 Merry Widow Rubí · L03 Peignoir Marfil*
+*Lencería Serie II: L04 Chantilly Negro · L05 Pinup Champagne · L06 Soie Bourguignonne*
+*Nuevos arquetipos: 4-A Ejecutivo · 4-B Dominio · Serie II Lencería Retro Erótica*
