@@ -34,7 +34,7 @@
 Este bloque se repite **idéntico** en cada prompt del mismo set.
 
 ```
-sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, always wearing 12cm black stiletto heels
+sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, always wearing 12cm black patent leather stiletto heels iconic red sole
 ```
 
 ---
@@ -53,6 +53,14 @@ sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refine
 | **Efecto** | Brillante pero orgánico — no sintético. Peinado impecable, nunca despeinado |
 
 El rojo cherry pertenece a Ele. Está prohibido en Anaïs. Si un documento menciona cabello oscuro o rojo en Anaïs, ese dato es error — este canon prevalece.
+
+#### Variantes de peinado (fuente literaria)
+
+| Variante | Keywords | Contexto |
+|----------|----------|---------|
+| **Pin-waves (ESTÁNDAR)** | `honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length` | Apariciones en La Voûte, gala, looks principales |
+| **Moño alto geométrico** | `honey blonde hair in a precise high sculpted chignon geometric updo impeccable finish` | Looks ejecutivos, dominio explícito, sesiones de poder |
+| **Ondas sueltas** | `honey blonde hair in controlled vintage waves falling loose over shoulders` | Sesiones literarias, momentos de intimidad controlada |
 
 ---
 
@@ -89,12 +97,14 @@ Anaïs no lleva zapatillas. No lleva planos. No lleva block heels. Su calzado ca
 
 | Modelo canónico | Descripción |
 |-----------------|-------------|
-| **So Kate 12cm** | `12cm black patent leather stiletto heel, classic pointed toe, Christian Louboutin silhouette` |
-| **Bota de poder** | `knee-high black patent leather stiletto boots, 12cm needle heel` (escenas de dominio explícito) |
+| **So Kate 12cm** | `12cm black patent leather stiletto heel, classic pointed toe, Christian Louboutin silhouette, iconic red sole` |
+| **Bota de poder** | `knee-high black patent leather stiletto boots, 12cm needle heel, iconic red sole` (escenas de dominio explícito) |
+
+> **La suela roja es su firma visual.** Aparece en la narrativa literaria como elemento recurrente e identificador ("tacones negros, brillantes, con suela roja"). Siempre presente.
 
 **Negativos de calzado:**
 ```
-block heel, chunky heel, wedge, platform sneakers, flat shoes, barefoot, sneakers, casual shoes
+block heel, chunky heel, wedge, platform sneakers, flat shoes, barefoot, sneakers, casual shoes, no red sole
 ```
 
 ---
@@ -153,8 +163,10 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 | **Encaje** | Superposición, detalles, mangas, escotes. Nunca como prenda única. |
 | **Terciopelo** | Looks de invierno, sesiones íntimas, profundidad de color. |
 | **Chiffon** | Capas en looks de gala, estolas, pañuelos. Nunca base sola. |
-| **Patent leather** | Calzado siempre. Cinturones o guantes en escenas de dominio. |
-| **Seda** | Sesiones literarias, kimono, batas de poder en intimidad. |
+| **Patent leather / Cuero** | Calzado siempre. Faldas lápiz y guantes en looks ejecutivos y de dominio. Vestidos en escenas de poder máximo. |
+| **Seda** | Sesiones literarias, kimono, blusas ejecutivas, batas de poder en intimidad. |
+| **Cuero rojo mate** | Solo en guantes — alternativa de poder máximo a los guantes negros. |
+| **Medias de red** | En looks de poder ejecutivo y dominio. Distintas de las medias de nylon (que son solo gala). |
 
 > **Prohibido:** vinilo, PVC, látex, materiales sintéticos brillantes. Esos pertenecen a Ele.
 
@@ -182,12 +194,22 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 - Guantes cortos o sin guantes — único contexto donde los omite
 - Boquilla siempre presente
 
-#### ⛓️ Arquetipo 4 — Dominio Explícito
+#### 🖤 Arquetipo 4-A — Ejecutivo de Poder (fuente literaria: Cap. III)
+- Blusa de seda negra que define la figura sin mostrar piel
+- Falda lápiz de cuero negro opaco, marcando cada paso
+- Cinturón que ciñe la cintura con precisión
+- Medias de red bajo la falda
+- Tacones So Kate negro suela roja
+- Cabello: moño alto geométrico
+
+#### ⛓️ Arquetipo 4-B — Dominio Explícito (fuente literaria: Cap. IV)
 - Corsé overbust negro estructurado (único contexto donde aparece)
 - Falda lápiz o pantalón negro patent leather
+- Medias de red
+- Guantes largos de cuero rojo mate (alternativa de máximo poder a los negros)
+- Collar de perlas con llave de acero colgando discreta
 - Choker de cuero fino
-- Fusta o látigo de diseño
-- Guantes de cuero hasta el codo
+- Boquilla larga
 
 #### 🍸 Arquetipo 5 — Cóctel / Recepción
 - Vestido cóctel fitted, rodilla, en negro o verde esmeralda o burdeos
@@ -212,12 +234,15 @@ Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preci
 | Accesorio | Descripción |
 |-----------|-------------|
 | **Perlas** | `double-strand or long pearl necklace, ivory or black pearls` — accesorio de firma Old Hollywood |
-| **Guantes de ópera** | `black satin opera gloves` — siempre en escenas formales (ver Vestuario) |
+| **Guantes negros (estándar)** | `black satin opera gloves to upper arm` — siempre en escenas formales |
+| **Guantes rojos (poder máximo)** | `long matte red leather gloves to upper arm` — alternativa en escenas de dominio explícito. Contraste dramático con piel y negro. |
+| **Medias de red** | `black fishnet stockings with precise back seam` — en looks ejecutivos de poder y arquetipo 4-A/4-B. Distintas de las medias de nylon de gala. |
 | **Boquilla** | `long silver cigarette holder` — símbolo de poder, distancia y era |
 | **Joyas** | `black diamond and ruby jewelry — cocktail rings, chandelier earrings, pendant` — pesadas y reales |
+| **Cinturón de poder** | `structured black leather belt with precise cinch at waist` — en looks ejecutivos (arquetipo 4-A) |
 | **Choker** | `thin black leather choker, minimalist gold clasp` — solo en escenas de dominio |
+| **Perlas con llave** | `pearl necklace with a small antique steel key pendant` — símbolo literario de posesión y acceso |
 | **Fusta / Látigo** | `black leather riding crop or flogger with silver handle` (escenas activas) |
-| **Llave** | `antique silver key on a silk ribbon` — símbolo de acceso y posesión |
 | **Cartera de mano** | `small black satin or patent leather clutch` — siempre en escenas de gala |
 
 ---
@@ -276,7 +301,7 @@ white editorial studio, bright cheerful lighting, outdoor sunlight, casual envir
 **Look: Anaïs en La Voûte — Escena de Poder**
 
 ```
-8k ultra cinematic film noir portrait, single dramatic spotlight from above, Vogue Paris 1950s glamour photography, sophisticated mature dominant woman, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, wearing structured black satin fitted column dress with elegant sweetheart décolleté nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm in right raised gloved hand thin wisp of smoke, three-quarter angle weight on left hip, dark aristocratic interior of La Voûte deep burgundy velvet drapes candlelight blurred guests behind, she is the architect of every desire in this room. Ultra dramatic single key spotlight sculpting cheekbones, half face in deep shadow, warm amber rim from behind, cinematic film noir depth, old Hollywood dark sensuality.
+8k ultra cinematic film noir portrait, single dramatic spotlight from above, Vogue Paris 1950s glamour photography, sophisticated mature dominant woman, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, wearing structured black satin fitted column dress with elegant sweetheart décolleté nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm in right raised gloved hand thin wisp of smoke, 12cm black patent leather stiletto heels iconic red sole, three-quarter angle weight on left hip, dark aristocratic interior of La Voûte deep burgundy velvet drapes candlelight blurred guests behind, she is the architect of every desire in this room. Ultra dramatic single key spotlight sculpting cheekbones, half face in deep shadow, warm amber rim from behind, cinematic film noir depth, old Hollywood dark sensuality.
 ```
 
 **NEGATIVE PROMPT:**
