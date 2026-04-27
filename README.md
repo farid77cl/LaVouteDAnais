@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 25/04/2026 — Canon Visual Anaïs v1.3 (fuente literaria canonizada) · Galería Anaïs v5.0 (14 looks · 56 prompts) ✅*
+*Última actualización: 27/04/2026 — Canon Visual Anaïs v2.0 (Kitrysha Hard-Sync Sensual) · Banco de Prompts Sensuales (20 looks maestros) ✅*

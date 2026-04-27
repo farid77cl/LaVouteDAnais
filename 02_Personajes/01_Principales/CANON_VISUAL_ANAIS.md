@@ -65,47 +65,85 @@ sophisticated mature dominant woman, vintage Hollywood glamour femme fatale, (ar
 
 ---
 
-## V. VESTUARIO, SILUETAS Y MATERIALES
+## V. FILOSOFÍA Y VESTUARIO (La Guía Definitiva)
 
 Anaïs basa su guardarropa en la opulencia táctil y la restricción elegante, adoptando el estilo Kitrysha al 100%.
 
-- **Corsetería (El pilar de su silueta):** Corsés overbust y underbust extremadamente ajustados (tightlacing) que definen una silueta de reloj de arena exagerada. Suelen ser de satén brillante, látex negro o brocados pesados.
-- **Lencería Retro:** Es fundamental el uso de medias de nailon finas con costura trasera negra (*fully fashioned cuban heel seams*), ligueros altos de múltiples tiras (estilo *suspender belts* vintage), sujetadores de encaje tipo *balconette* o *bullet bra*, y braguitas de talle alto.
-- **Batas y Gowns (Hollywood Regency):** Batas largas y pesadas de terciopelo o seda pura con adornos voluminosos de plumas de marabú o piel sintética en los puños y el cuello.
-- **Guantes:** Guantes de ópera (largos hasta por encima del codo) ajustados, generalmente en satén negro brillante, encaje fino o látex.
+**Las 3 Reglas de Oro:**
+1. **La lencería es la base, no un accesorio:** Sin la faja, el corsé o las medias con costura, la silueta no funciona. Un vestido pencil sin la estructura interna adecuada se ve moderno, no vintage.
+2. **Materiales nobles o nada:** Seda pura, satén pesado, látex de grado clínico, encaje francés. El brillo barato del poliéster rompe el universo.
+3. **Consistencia Histórica (40s, 50s, 60s):** Cada prenda dialoga con una década concreta. Mezclar estilos o épocas destruye la autoridad estética.
 
-**Texturas Clave:**
-- **Seda y Satén:** Para un brillo lujoso y fluido que atrapa la luz dramática.
-- **Terciopelo:** Especialmente en vestidos de noche ceñidos y batas.
-- **Látex y Cuero:** Utilizados para añadir una capa de fetichismo chic, elevando el look vintage hacia la dominación sensual.
-- **Encaje Chantilly:** Para crear capas de misterio y transparencias sugerentes.
+### 1. La Capa Fundacional (Lencería y Corsetería)
+- **Corsetería:** Overbust o Underbust con mínimo 12 varillas de acero en espiral (*steel boned*). Nunca de plástico. La cintura debe reducirse 10-15cm (tightlacing extremo).
+- **Sujetadores:** *Bullet bras* cónicos con costura en espiral (estilo años 40/50). Empujan el busto hacia adelante y arriba.
+- **Lencería Retro:** Braguitas de talle alto (*high-waisted briefs*), *tap pants* o *french knickers*. **Prohibido:** tangas, brasileñas o cualquier corte moderno.
+- **Liguero (*Garter belt*):** Imprescindible para sostener las medias. Mínimo de 4 a 6 tirantes, llevado SIEMPRE por encima de las bragas (regla histórica).
+- **Medias (*Back-seam nylons*):** Exclusivamente medias 15 denier con costura trasera (*fully fashioned* con *Cuban heel*), generalmente en negro, borgoña o nude cálido. **Prohibido:** medias autoadhesivas modernas con banda de silicona.
 
----
+### 2. Prendas Exteriores y Siluetas
+- **Vestidos de Día (*Wiggle / Pencil Dress*):** Entallados hasta media pantorrilla con escote sweetheart o halter. Siempre con cinturón ancho marcando la cintura.
+- **Vestidos de Vuelo (*Swing Dress*):** Falda circular que requiere enagua (*petticoat*) de tul rígido debajo obligatoria para no caer plana.
+- **Vestidos de Noche:** Estilo *New Look* de 1947 (hombros marcados, falda voluminosa) o silueta *Sirena* larga al bies (seda pesada/terciopelo).
+- **Camisones de Noche (*Night Gown*):** Versión *boudoir* glamour de los años 30-50. Corte al bies (*bias cut*) que moldea el cuerpo de forma fluida. Tirantes finos o escote halter, espalda muy descubierta. Tejidos: satén pesado o seda charmeuse con encaje francés. Funciona como **prenda exterior** en shootings de dormitorio, llevada con medias, tacones altos y joyería fina. Colores: marfil, champagne, negro, rojo vino, azul medianoche.
+- **Batas de Boudoir (*Peignoir*):** Batas largas de seda, gasa o terciopelo con apliques voluminosos de plumas de marabú en puños y cuello, idealmente a juego para llevar sobre el *Night Gown*.
+- **Pantalones:** *Cigarette pants* talle alto (Audrey Hepburn) o pantalones anchos de pinzas estilo marinero/Marlene Dietrich.
+- **Abrigos:** *Swing coat* evasé, *Trench* clásico años 40, capas cortas de terciopelo o estolas de piel sintética vintage.
 
-## VI. CALZADO (Tacones)
-
-El calzado es una extensión de su poder y estilización. **Siempre con la suela roja canónica.**
-
-- **Stilettos Clásicos (Pumps):** Zapatos de salón de tacón de aguja extremo (10-12 cm), con punta afilada, en acabado de charol negro, cuero mate o ante rojo/negro. **Sin plataforma**, para mantener la delicadeza del arco del pie.
-- **Mules Retro:** Mules de tacón alto con detalles de plumas en la puntera, ideales para looks de lencería y batas.
-- **Botas Fetish-Chic:** Botas ajustadas por encima de la rodilla (*thigh-high boots*) en charol o látex, a menudo con detalles de cordones frontales (*lace-up*) y tacones de aguja muy altos, reforzando la estética dominatriz.
-
----
-
-## VII. POSES Y EXPRESIÓN DE SENSUALIDAD
-
-La sensualidad de Anaïs ahora no es solo autoritaria, sino intensamente sugerente, madura y lánguidamente dominante.
-
-- **Expresión Facial:** Mirada intensa pero lánguida ("bedroom eyes"), a menudo mirando ligeramente hacia abajo o de reojo a la cámara. Labios ligeramente entreabiertos en una actitud de deseo y desdén simultáneo.
-- **Posado de Manos:** Las manos (frecuentemente enguantadas) son cruciales. Suelen descansar elegantemente cerca del cuello, acariciando la clavícula, ajustando un tirante del liguero, o posadas sobre la cintura constreñida. Los dedos se muestran alargados y relajados.
-- **Lenguaje Corporal:** 
-    - Arqueo pronunciado de la espalda y la cadera ("S-curve" posture) para exagerar la silueta del corsé y los glúteos.
-    - Poses sentada en muebles antiguos (divanes de terciopelo, sillas victorianas) con las piernas cruzadas mostrando la costura de las medias.
-    - Poses de perfil o tres cuartos mirando por encima del hombro.
+### 3. Fetichismo Chic (Látex)
+El látex es una expresión refinada de su dominio visual.
+- **Prendas:** *Catsuits* ajustados enteros, vestidos *pencil*, corsés overbust o lencería pesada.
+- **Tratamiento:** Siempre impecablemente pulido (*shined*) con silicona líquida para un acabado espejo, y complementado con lencería vintage clásica.
 
 ---
 
-## VIII. ESCENARIOS E ILUMINACIÓN
+## VI. CALZADO Y ACCESORIOS
+
+### Calzado (El Trono de Anaïs)
+El calzado es la firma de su poder. Se mantiene la máxima exigencia.
+- **Altura y Firma:** Tacones siempre entre 10-12 cm. **Siempre con la icónica suela roja (ej. modelo Louboutin Pigalle).**
+- **Estilos Permitidos:** *Stiletto pump* clásico cerrado (punta almendra o puntiaguda, tacón curvo vintage), *Peep-toe* pump sutil, *T-strap heels* años 30, *Mary Janes* de tacón bicolores, Mules con plumas y botas *thigh-high* fetish.
+- **Prohibiciones Absolutas:** Zapatillas, *sneakers*, zapatos planos, botas de combate, tacones cuadrados (*block/chunky*). **Ninguna plataforma visible delantera** (solo se acepta plataforma interna o de máximo 0.5 cm en peep-toes reales).
+
+### Accesorios
+- **Guantes:** *Opera length* (hasta sobre el codo) en satén, seda, látex o cuero para la noche. *Wrist length* para día.
+- **Joyería:** Diamantes, perlas de varias vueltas, pedrería *Art Déco* y pendientes chandelier. Nada de joyería minimalista moderna u oro rosado.
+- **Sombreros y Velos:** *Pillbox* estilo 60s, *Fascinators* con velo de red (*birdcage veil*), pamelas amplias oscuras.
+- **Complementos:** Boquillas de plata/cristal largas para fumar. Bolsos tipo *Kelly* (asa superior estructurada) o *Box clutch* lacado.
+
+---
+
+## VII. LA SENSUALIDAD (Vocabulario y Tensión)
+
+La sensualidad de Anaïs no está en mostrar piel de forma evidente, sino en cómo el cuerpo habita la prenda, en la tensión entre lo oculto y lo expuesto, y en el gesto suspendido. 
+
+**Glosario Sensual Base (Código de Materialización):**
+- **Mirada:** `smouldering gaze`, `half-lidded bedroom eyes`, `sultry direct stare into the lens`, `sidelong glance over the shoulder`, `eyes lowered with lashes catching the light`, `gaze of quiet challenge`, `knowing look`.
+- **Boca:** `lips parted in soft exhale`, `biting lower lip subtly`, `finger resting against lower lip`, `lipstick freshly applied and glossy on inner edge`, `mouth slightly open with breath visible`.
+- **Cuerpo y Postura:** `back arched gracefully`, `hip cocked to one side`, `torso twisted in S-curve`, `body languidly draped`, `spine elongated`, `shoulders pulled back exposing collarbones`.
+- **Manos (Nunca Inactivas):** `fingertip tracing the seam of the stocking`, `hand sliding along the corset lacing`, `fingers curled around the edge of the robe pulling it open`, `hand at the nape of the neck lifting hair`, `fingers caressing pearl necklace`, `hand adjusting garter strap`, `fingers grazing the inner thigh through the fabric`.
+- **Tensión Textil:** `fabric clinging to curves`, `satin catching light along the hip line`, `latex stretched taut over the waist`, `robe slipping off one shoulder`, `stocking seam running up the back of the thigh`, `hem riding up revealing garter clasp`, `lace bodice resting at the edge of the bust`.
+- **Atmósfera Sensual:** `intimate quiet tension`, `voyeuristic moment caught`, `post-coital languor`, `anticipation`, `the hush of a private space`, `slow exhale of cigarette smoke`, `sweat-sheen on collarbones`, `lipstick stain on glass`.
+
+**Reglas para Mantener la Clase (Sin Vulgaridad):**
+- **SÍ:** Sugerir más que mostrar. Tensión en mirada/gesto. Lencería estructural visible (corsé, liguero, costura). Objetos de mediación táctil (cigarrillo, copa). Pose deliberada y escultórica. Lenguaje fílmico (*voyeuristic, intimate tension*).
+- **Términos a utilizar:** `smouldering`, `sultry`, `languid`, `intimate`, `voyeuristic`, `S-curve`, `arched`, `parted`, `half-lidded`, `knowing`, `slow exhale`, `fingertip tracing`, `hem riding up`, `strap fallen`, `slipping off`, `biting`, `glance over the shoulder`, `tension`, `hush`, `anticipation`.
+
+---
+
+## VIII. ERRORES CRÍTICOS (Anti-Canon)
+
+**Para garantizar la perfección, están ESTRICTAMENTE PROHIBIDOS:**
+- **La Vulgaridad Explícita:** Desnudez frontal, poses ginecológicas/pornográficas. Expresiones faciales de éxtasis simulado (ojos en blanco, lengua, boca abierta extrema). Sudor excesivo, baba o fluidos. Lencería transparente que muestre genitales anatómicos.
+- **Términos Prohibidos en Prompts (Degradan el registro):** `sexy`, `hot`, `horny`, `naked`, `nude` (usar solo como color), `seductive`, `provocative`, `tempting`, `naughty`.
+- **Pelo relajado:** Si el cabello no está esculpido en ondas, el look vintage se cae. El peinado es el 40% del look.
+- **Maquillaje contemporáneo:** *Contouring* obvio, labios rosados nude, *nail art*, cejas rectas.
+- **Tatuajes y Piercings visibles:** Anaïs NO tiene modificaciones corporales.
+- **Ropa interior incorrecta:** Tirantes modernos asomando. Prendas que no aprietan ni moldean la figura.
+
+---
+
+## IX. ESCENARIOS E ILUMINACIÓN
 
 La atmósfera es puramente Noir y cinematográfica.
 
@@ -114,10 +152,10 @@ La atmósfera es puramente Noir y cinematográfica.
 
 ---
 
-## IX. NEGATIVOS OBLIGATORIOS
+## X. NEGATIVOS OBLIGATORIOS
 
-```
-(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie
+```text
+(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, seductive, provocative, tempting, naughty, open mouth, tongue, explicit nude
 ```
 
 ---
