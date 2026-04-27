@@ -27,4 +27,4 @@ Total imágenes: 4
 - [06_miss_doll_canon_final.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/comics/miss_doll/descartadas/06_miss_doll_canon_final.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-25* 👄
+*Sincronizado con GitHub: 2026-04-27* 👄

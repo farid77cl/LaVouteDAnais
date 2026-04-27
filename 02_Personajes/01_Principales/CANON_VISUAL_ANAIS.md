@@ -1,7 +1,7 @@
 # 👑 CANON VISUAL ANAÏS BELLAND — DOCUMENTO MAESTRO
 **Autoridad:** Anaïs Belland  
-**Versión:** 1.4  
-**Fecha:** 25/04/2026  
+**Versión:** 2.0 (Vintage Glamour & Femme Fatale)  
+**Fecha:** 27/04/2026  
 **Estado:** ACTIVO — Verdad única para generación visual de Anaïs. En conflicto con cualquier otro archivo, prevalece este.
 
 ---
@@ -13,379 +13,115 @@
 | `CANON_VISUAL_ANAIS.md` (este) | **Verdad única — máxima autoridad visual** | ✅ ACTIVO |
 | `galeria_looks_anais.md` | Catálogo de looks completos con prompts | ✅ ACTIVO |
 | `ficha_anais.md` | Identidad, filosofía, apariciones literarias | ✅ Complementario |
-| `01_Canon/personajes_principales.md` | Descripción breve de referencia | ✅ Referencia secundaria |
 
 ---
 
-## I. IDENTIDAD CENTRAL
+## I. IDENTIDAD CENTRAL Y "VIBE"
 
 - **Nombre:** Anaïs Belland
-- **Rol visual:** La Regenta — Dominante aristócrata. Nunca es el sujeto decorativo. Es quien observa, ordena y posee.
-- **Edad visual:** Mujer madura. 38-48 años. MILF aristocrática. Su madurez no se oculta — es su arma principal. La experiencia es visible en cada gesto.
-- **Esencia estética:** Hollywood clásico de los 40-50s filtrado por fetichismo aristócrata francés. Elegancia soberana sin esfuerzo visible. El poder es su estado por defecto, no una actuación.
-- **Referencia de rostro:** Kylie Minogue — pómulos esculpidos, mandíbula definida, ojos almendrados con peso, labios compuestos. No bimbo, no joven. Madurez glamorosa.
-- **Referencia de estilo/actitud:** Ava Gardner (sensualidad madura), Lauren Bacall (frialdad de poder), Monica Bellucci (MILF aristocrática), Sofia Loren (presencia soberana).
-- **Contraste con Ele:** Donde Ele es brillo sintético y vacío decorativo, Anaïs es profundidad sofisticada y control absoluto. Juventud artificial vs. madurez real. Son opuestos que se necesitan.
+- **Rol visual:** La Regenta — Femme Fatale clásica, Pin-up oscura y Dominatriz Vintage. Nunca es el sujeto decorativo, es quien ordena y posee.
+- **Edad visual:** Mujer madura. 38-48 años. MILF aristocrática. Su experiencia es visible en cada gesto.
+- **Esencia estética:** Noir, misteriosa, lujosa y altamente nostálgica. Estilo Vintage Glamour que mezcla elegancia de los años 40/50 con toques de fetichismo clásico.
+- **Referencia de rostro:** Kylie Minogue madura — pómulos esculpidos, mandíbula definida, ojos almendrados con peso. No bimbo, no joven.
+- **Paleta de Colores:** Predominio absoluto del **negro intenso**, complementado con **rojo profundo/borgoña** (sangre), **azul medianoche**, verde esmeralda y toques de blanco/crema en pieles o encajes.
 
 ---
 
-## II. PROMPT BASE ADN — COPIAR TEXTUALMENTE (no interpretar)
+## II. PROMPT BASE ADN — COPIAR TEXTUALMENTE
 
-Este bloque se repite **idéntico** en cada prompt del mismo set.
+Este bloque se repite **idéntico** en cada prompt del mismo set. Combina su cuerpo canónico con la estética Kitrysha.
 
 ```
-sophisticated mature dominant woman, old Hollywood glamour, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, composed upright posture with dangerous feminine magnetism, always wearing 12cm black patent leather stiletto heels iconic red sole
+sophisticated mature dominant woman, vintage Hollywood glamour femme fatale, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline:1.3), flawless pale porcelain skin matte finish, ultra precise Old Hollywood editorial makeup, thin dark arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous eyelashes on outer corner, vivid deep crimson classic Hollywood red lip or dark burgundy flawlessly defined satin finish, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, chiaroscuro dramatic lighting
 ```
 
 ---
 
-## III. CONSTANTES FÍSICAS
+## III. CONSTANTES FÍSICAS (EL CUERPO MANTENIDO)
 
 ### Cabello — REGLA ABSOLUTA
-
 > **ANAÏS ES SIEMPRE RUBIA MIEL. SIN EXCEPCIONES.**
-
-| Atributo | Valor canónico |
-|----------|----------------|
-| **Color** | `honey blonde hair` — rubio miel cálido, natural-aristocrático |
-| **Largo** | Hasta los hombros o hasta la cadera — nunca corto ni rapado |
-| **Textura** | Ondas vintage perfectas y voluminosas. Retro-glamour francés |
-| **Efecto** | Brillante pero orgánico — no sintético. Peinado impecable, nunca despeinado |
-
-El rojo cherry pertenece a Ele. Está prohibido en Anaïs. Si un documento menciona cabello oscuro o rojo en Anaïs, ese dato es error — este canon prevalece.
-
-#### Variantes de peinado (fuente literaria)
-
-| Variante | Keywords | Contexto |
-|----------|----------|---------|
-| **Pin-waves (ESTÁNDAR)** | `honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length` | Apariciones en La Voûte, gala, looks principales |
-| **Moño alto geométrico** | `honey blonde hair in a precise high sculpted chignon geometric updo impeccable finish` | Looks ejecutivos, dominio explícito, sesiones de poder |
-| **Ondas sueltas** | `honey blonde hair in controlled vintage waves falling loose over shoulders` | Sesiones literarias, momentos de intimidad controlada |
-
----
+- **Color:** `honey blonde hair` — rubio miel cálido, natural-aristocrático.
+- **Estilo:** Estilizado en ondas al agua (vintage finger waves), *victory rolls*, o recogidos elegantes y pulidos. El cabello nunca está despeinado.
 
 ### Rostro
-
-| Rasgo | Prompt Keywords |
-|-------|-----------------|
-| **Forma** | `oval refined aristocratic face, sculpted jaw, elegant bone structure` |
-| **Ojos** | `almond-shaped bedroom eyes, commanding gaze, heavy-lidded, sophisticated liner` |
-| **Nariz** | `straight refined straight nose, defined bridge, elegant upturned tip` |
-| **Labios** | `full composed lips, cold semi-pout, defined cupid's bow, deep burgundy or nude gloss` |
-| **Pómulos** | `high prominent sculpted cheekbones, shadowed hollow below` |
-| **Cejas** | `perfectly arched brows, dark blonde, sharp elegant arch, no over-fill` |
-| **Piel** | `warm golden porcelain skin, flawless smooth texture, no visible pores, polished finish` |
-
-**Referencia de rostro canónica:** Kylie Minogue — pómulos esculpidos, mandíbula definida, ojos almendrados con peso, labios compuestos. Madurez glamorosa. No bimbo, no jovial.
-
----
+- **Forma:** `oval refined aristocratic face, sculpted jaw, elegant bone structure`
+- **Piel:** `flawless pale porcelain skin matte finish, subtle contour, almost no blush`
+- **Referencia de rostro canónica:** Kylie Minogue madura.
 
 ### Cuerpo
-
-- **Silueta:** `full aristocratic hourglass silhouette, mature voluptuous proportions, upright posture, elegant curves — not bimbo, not girlish. A woman who has always known she owns every room.`
-- **Postura:** Siempre erguida. Mentón levemente elevado. Nunca relajada ni casual.
-- **Madurez visible:** Sus proporciones son las de una mujer en plenitud — no una joven. Curvas reales, no infladas. Peso y presencia, no ligereza.
-- **Sin tatuajes.** Sin piercings visibles. Sin accesorios de cuerpo.
+- **Silueta:** `elegant hourglass figure with extreme waist training` — Proporciones maduras, constreñidas por corsetería extrema (tightlacing).
+- **Postura:** S-curve pronunciada, acentuando la cadera y la cintura diminuta.
+- **Marcas:** Sin tatuajes. Sin piercings visibles. 
 
 ---
 
-## IV. CALZADO — REGLA DE ORO
+## IV. MAQUILLAJE Y UÑAS (Vintage Glam)
 
-> **SIEMPRE: Tacón de aguja 12cm. Negro. Sin excepción.**
+- **Ojos:** *Cat-eye* muy afilado y definido con delineador negro líquido. Pestañas postizas largas y tupidas en el extremo exterior para alargar el ojo. Sombras en tonos neutros fríos o taupe.
+- **Cejas:** Finas, arqueadas y muy oscuras, estilo años 40.
+- **Labios:** El punto focal. Rojo clásico, rojo sangre oscuro o borgoña, siempre perfectamente delineados, con acabado satinado o mate impecable ("Overlined cupid's bow" retro).
+- **Uñas:** Largas, afiladas y puntiagudas (forma *Stiletto* o *Almond* larga). Esmalte siempre brillante y perfecto en rojo pasión, burgundy o negro puro.
 
-Anaïs no lleva zapatillas. No lleva planos. No lleva block heels. Su calzado canónico es el **So Kate** de Louboutin negro brillante — tacón aguja, clásico, letal.
+---
 
-| Modelo canónico | Descripción |
-|-----------------|-------------|
-| **So Kate 12cm** | `12cm black patent leather stiletto heel, classic pointed toe, Christian Louboutin silhouette, iconic red sole` |
-| **Bota de poder** | `knee-high black patent leather stiletto boots, 12cm needle heel, iconic red sole` (escenas de dominio explícito) |
+## V. VESTUARIO, SILUETAS Y MATERIALES
 
-> **La suela roja es su firma visual.** Aparece en la narrativa literaria como elemento recurrente e identificador ("tacones negros, brillantes, con suela roja"). Siempre presente.
+Anaïs basa su guardarropa en la opulencia táctil y la restricción elegante, adoptando el estilo Kitrysha al 100%.
 
-**Negativos de calzado:**
+- **Corsetería (El pilar de su silueta):** Corsés overbust y underbust extremadamente ajustados (tightlacing) que definen una silueta de reloj de arena exagerada. Suelen ser de satén brillante, látex negro o brocados pesados.
+- **Lencería Retro:** Es fundamental el uso de medias de nailon finas con costura trasera negra (*fully fashioned cuban heel seams*), ligueros altos de múltiples tiras (estilo *suspender belts* vintage), sujetadores de encaje tipo *balconette* o *bullet bra*, y braguitas de talle alto.
+- **Batas y Gowns (Hollywood Regency):** Batas largas y pesadas de terciopelo o seda pura con adornos voluminosos de plumas de marabú o piel sintética en los puños y el cuello.
+- **Guantes:** Guantes de ópera (largos hasta por encima del codo) ajustados, generalmente en satén negro brillante, encaje fino o látex.
+
+**Texturas Clave:**
+- **Seda y Satén:** Para un brillo lujoso y fluido que atrapa la luz dramática.
+- **Terciopelo:** Especialmente en vestidos de noche ceñidos y batas.
+- **Látex y Cuero:** Utilizados para añadir una capa de fetichismo chic, elevando el look vintage hacia la dominación sensual.
+- **Encaje Chantilly:** Para crear capas de misterio y transparencias sugerentes.
+
+---
+
+## VI. CALZADO (Tacones)
+
+El calzado es una extensión de su poder y estilización. **Siempre con la suela roja canónica.**
+
+- **Stilettos Clásicos (Pumps):** Zapatos de salón de tacón de aguja extremo (10-12 cm), con punta afilada, en acabado de charol negro, cuero mate o ante rojo/negro. **Sin plataforma**, para mantener la delicadeza del arco del pie.
+- **Mules Retro:** Mules de tacón alto con detalles de plumas en la puntera, ideales para looks de lencería y batas.
+- **Botas Fetish-Chic:** Botas ajustadas por encima de la rodilla (*thigh-high boots*) en charol o látex, a menudo con detalles de cordones frontales (*lace-up*) y tacones de aguja muy altos, reforzando la estética dominatriz.
+
+---
+
+## VII. POSES Y EXPRESIÓN DE SENSUALIDAD
+
+La sensualidad de Anaïs ahora no es solo autoritaria, sino intensamente sugerente, madura y lánguidamente dominante.
+
+- **Expresión Facial:** Mirada intensa pero lánguida ("bedroom eyes"), a menudo mirando ligeramente hacia abajo o de reojo a la cámara. Labios ligeramente entreabiertos en una actitud de deseo y desdén simultáneo.
+- **Posado de Manos:** Las manos (frecuentemente enguantadas) son cruciales. Suelen descansar elegantemente cerca del cuello, acariciando la clavícula, ajustando un tirante del liguero, o posadas sobre la cintura constreñida. Los dedos se muestran alargados y relajados.
+- **Lenguaje Corporal:** 
+    - Arqueo pronunciado de la espalda y la cadera ("S-curve" posture) para exagerar la silueta del corsé y los glúteos.
+    - Poses sentada en muebles antiguos (divanes de terciopelo, sillas victorianas) con las piernas cruzadas mostrando la costura de las medias.
+    - Poses de perfil o tres cuartos mirando por encima del hombro.
+
+---
+
+## VIII. ESCENARIOS E ILUMINACIÓN
+
+La atmósfera es puramente Noir y cinematográfica.
+
+- **Entornos:** Habitaciones lujosas oscuras, divanes de terciopelo, estética *Vintage Glamour*.
+- **Iluminación:** `chiaroscuro cinematic lighting, single key light, deep shadows, rim lighting defining silhouette`. Luz dramática que recorta la figura contra la oscuridad.
+
+---
+
+## IX. NEGATIVOS OBLIGATORIOS
+
 ```
-block heel, chunky heel, wedge, platform sneakers, flat shoes, barefoot, sneakers, casual shoes, no red sole
-```
-
----
-
-## V. MAQUILLAJE — Old Hollywood Aristocratic
-
-Anaïs no usa bimbo makeup. Su maquillaje es **Old Hollywood: sofisticado, preciso, intemporal**. Una mujer madura que sabe exactamente qué hace con cada pincel.
-
-### Ojos
-- `classic Hollywood heavy-lidded liner, precise sharp cat-eye flick at outer corner`
-- `deep taupe or soft charcoal shadow, blended — sophisticated not smoky`
-- `full defined lashes — glamorous but not theatrical drag`
-
-### Cejas
-- `perfectly arched sculpted brows, dark blonde — Old Hollywood penciled arch, sharp elegant peak, no modern microblading fill`
-
-### Labios
-- **Color canónico primario:** `classic Hollywood deep red lip` — el rojo de Anaïs es el de Ava Gardner. Profundo, compuesto, letal.
-- **Color canónico secundario:** `deep burgundy` (poder máximo) o `nude champagne gloss` (frialdad calculada)
-- **Textura:** `satin finish, composed — never overlined, never overfilled, never glossy-bimbo`
-- **Forma:** `natural mature full lips, classic defined cupid's bow, composed cold pout`
-- **PROHIBIDO:** labios pink, hot pink, gloss bimbo, bee-sting, sobrellenos artificiales.
-
-### Piel
-- `warm golden porcelain skin, flawless Old Hollywood finish, sculpted contour on cheekbones and temples`
-- `subtle highlight on nose bridge and brow bone — vintage editorial glow, not plastic shine`
-
----
-
-## VI. VESTUARIO — Paleta y Materiales
-
-### Paleta Old Hollywood — Colores Habilitados
-
-> Cada color evoca una era, una actriz, una atmósfera. Anaïs no usa colores — usa referencias.
-
-| Familia | Tonos canónicos | Referencia Hollywood | Contexto |
-|---------|----------------|---------------------|----------|
-| **Negro** | Satén, encaje, terciopelo, patent leather | Audrey Hepburn, Ava Gardner | Siempre disponible — color base |
-| **Burdeos / Rubí** | Vino tinto profundo, rubí líquido, carmesí oscuro | Rita Hayworth, Bette Davis | Intensidad, pasión, escenas de poder |
-| **Marfil / Crema** | Marfil satén, crema chiffon, blanco roto | Grace Kelly | Máxima formalidad, gala, premiere |
-| **Verde esmeralda** | Verde botella, esmeralda oscuro, jade profundo | Veronica Lake | Apariciones de misterio y seducción |
-| **Azul medianoche** | Zafiro, índigo, azul noche | Gene Tierney | Seducción calculada, escenas de escritura |
-| **Champagne / Dorado** | Champagne, oro antiguo, bronce satén | Jean Harlow | Gala, celebración, máximo glamour |
-| **Ciruela oscura** | Plum profundo, malva oscuro, uva | Lauren Bacall | Sesiones literarias, ambigüedad, intimidad |
-| **Plateado** | Plata satén, plata mercurio | Jean Harlow | Solo como pieza única o acento estructural |
-| **Leopardo vintage** | Ámbar ocre cálido + negro + tostado sobre seda o velvet | Ava Gardner, Sophia Loren | Looks de poder felino — solo en seda, satén o terciopelo. Nunca sintético, nunca moderno |
-
-> **Prohibido siempre:** blanco puro, rosa, cyan, naranja, amarillo, verde neón, cualquier tono saturado brillante o moderno. El leopardo sintético / de plástico / bimbo pertenece a Ele.
-
----
-
-### Materiales canónicos
-
-| Material | Uso |
-|----------|-----|
-| **Satén** | Base de todos los looks. El reflejo de la luz define la silueta. |
-| **Encaje** | Superposición, detalles, mangas, escotes. Nunca como prenda única. |
-| **Terciopelo** | Looks de invierno, sesiones íntimas, pinup estructurado, profundidad de color. |
-| **Chiffon** | Capas en looks de gala, estolas, pañuelos. Nunca base sola. |
-| **Patent leather / Cuero** | Calzado siempre. Faldas lápiz y guantes en looks ejecutivos y de dominio. |
-| **Seda** | Sesiones literarias, kimono, blusas ejecutivas, batas de poder, base del animal print. |
-| **Cuero rojo mate** | Solo en guantes — alternativa de poder máximo a los guantes negros. |
-| **Medias de red** | En looks de poder ejecutivo y dominio. Distintas de las medias de nylon (que son solo gala). |
-| **Brocado / Jacquard** | Piezas únicas de máximo poder aristocrático. Motivos barrocos o florales tejidos en negro con oro, burdeos o verde. La tela como joya. |
-| **Damasco** | Similar al brocado, motivos más geométricos y elaborados. Looks de aparición formal en La Voûte. Peso y presencia sin adorno. |
-| **Seda estampado leopardo** | Solo en corte vintage (wiggle dress, stole, abrigo). Colorway: ámbar ocre cálido + negro + tostado. Nunca sintético. La Ava Gardner version. |
-| **Piel / Estola** | Solo como accento sobre el hombro en gala o sobre leopardo. Nunca como prenda completa. |
-
-> **Prohibido:** vinilo, PVC, látex, materiales sintéticos brillantes. Esos pertenecen a Ele. El leopardo acrílico también.
-
----
-
-### Siluetas canónicas
-
-> Anaïs no usa una sola silueta — usa la silueta que la situación exige. Todas son intencionales.
-
-| Silueta | Descripción | Contexto |
-|---------|-------------|---------|
-| **Columna** | Largo al suelo, nipped waist, sin vuelo. El poder quieto. | La Voûte noche, gala |
-| **Bias-cut** | Fluido, cae sesgado siguiendo cada curva. Movimiento como declaración. | Gala, recepción, cóctel |
-| **Wiggle / Pencil** | Ajustado desde cadera hasta pantorrilla con slit pequeño. La silueta que hace que cada paso cuente. | Poder felino, animal print, apariciones de impacto |
-| **Falda lápiz** | Midi o hasta pantorrilla. Marcada, estructurada, ejecutiva. | Dominio, looks de poder |
-| **A-line / Swing** | Vuelo amplio desde tiro alto. La estructura del reloj de arena más evidente. Pinup de poder. | Pinup estructurado, recepción cóctel |
-| **Falda tubo + blusa** | Alto contraste cintura/volumen. Siempre con cinturón. 50s pinup elevado. | Looks ejecutivos-pinup, apariciones de día en La Voûte |
-
----
-
-### Prendas canónicas por arquetipo
-
-#### 🖤 Arquetipo 1 — Aparición en La Voûte (noche estándar)
-- Vestido columna satén o terciopelo, largo al suelo, nipped waist
-- Guantes de ópera negros (estándar)
-- Perlas doble vuelta
-- Boquilla larga de plata
-- So Kate 12cm negro
-
-#### 🤍 Arquetipo 2 — Gala / Premiere
-- Vestido bias-cut largo en marfil, champagne o negro
-- Estola de piel sobre un hombro
-- Joyas de diamantes negros — chandelier earrings + cocktail ring
-- Guantes largos hasta el brazo
-- Clutch de satén o patent leather
-
-#### 📖 Arquetipo 3 — Sesión Literaria (escritura, intimidad de poder)
-- Kimono de seda oscura + combinación satén, o
-- Blazer tailored + falda lápiz en ciruela, azul medianoche o negro
-- Guantes cortos o sin guantes — único contexto donde los omite
-- Boquilla siempre presente
-
-#### 🖤 Arquetipo 4-A — Ejecutivo de Poder (fuente literaria: Cap. III)
-- Blusa de seda negra que define la figura sin mostrar piel
-- Falda lápiz de cuero negro opaco, marcando cada paso
-- Cinturón que ciñe la cintura con precisión
-- Medias de red bajo la falda
-- Tacones So Kate negro suela roja
-- Cabello: moño alto geométrico
-
-#### ⛓️ Arquetipo 4-B — Dominio Explícito (fuente literaria: Cap. IV)
-- Corsé overbust negro estructurado (único contexto donde aparece)
-- Falda lápiz o pantalón negro patent leather
-- Medias de red
-- Guantes largos de cuero rojo mate (alternativa de máximo poder a los negros)
-- Collar de perlas con llave de acero colgando discreta
-- Choker de cuero fino
-- Boquilla larga
-
-#### 🍸 Arquetipo 5-A — Cóctel / Recepción
-- Vestido cóctel fitted bias-cut, rodilla, en negro o verde esmeralda o burdeos o azul medianoche
-- Guantes hasta el codo
-- Cocktail ring de rubí o diamante negro
-- Clutch pequeño
-
-#### 🐆 Arquetipo 5-B — La Felina (poder animal print)
-- Vestido wiggle de seda estampado leopardo vintage, mid-calf, sweetheart neckline o V-neck
-- O: abrigo de leopardo vintage sobre vestido negro satén (la fiera que se pone un abrigo)
-- Guantes de ópera negros (el print hace el trabajo — los accesorios se subordinan)
-- Perlas doble vuelta o aretes chandelier negros — nunca mezclar joyas complejas con el print
-- Sin boquilla obligatoria — el look habla solo
-- Calzado: negro, suela roja. Nunca calzado animal print.
-
-#### 🪡 Arquetipo 6 — Brocado Aristocrático (tela como joya)
-- Vestido columna de brocado o jacquard negro con motivos barrocos en burdeos, oro o verde
-- O: falda de damasco + blusa de seda negra
-- Accesorio mínimo — el tejido ya es la joya. Máximo un par de aretes chandelier
-- Guantes de terciopelo negro o satén negro
-- Sin animal print en el mismo look — uno u otro, nunca juntos
-- Cabello preferido: moño alto geométrico — expone el bordado del escote y el cuello
-
-#### 💄 Arquetipo 7 — Pinup de Poder (retro estructurado)
-- Falda A-line o swing en terciopelo o satén, tiro alto marcado, mid-calf
-- Blusa de seda o satén tucked in, wide collar o bow tie
-- Cinturón de cuero estructurado cinchando la cintura con precisión milimétrica
-- Guantes cortos (hasta la muñeca o el codo) — versión más accesible, sin opulencia de ópera
-- Accesorios vintage: broche de camafeo, aretes perla clip-on, collar de perlas corto
-- Puede incluir bufanda / pañuelo de seda de animal print atado al cuello o al cabello
-- Calzado: stiletto pump negro o en tono del outfit — siempre suela roja
-
----
-
-**Regla de guantes:** Presentes en toda aparición formal y pública. El único contexto donde pueden omitirse es la sesión literaria íntima.
-
-**Regla de largo:** Rodilla como mínimo, suelo como máximo. Anaïs no usa mini — nunca.
-
-**Regla de corsé:** Solo en Arquetipo 4-B. No define ningún otro look.
-
-**Regla de animal print:** Solo en seda, satén o terciopelo de calidad vintage. Colorway cálido (ámbar, ocre, tostado, negro). Nunca sintético, nunca como calzado, nunca con brocado en el mismo look.
-
-**Regla de brocado:** Nunca con animal print en el mismo look. El tejido es el protagonista absoluto — los accesorios se silencian.
-
-**Regla de pinup:** La silueta A-line o wiggle exige cinturón que defina la cintura. Sin cinturón, no hay pinup — hay solo una falda.
-
-**Regla de materiales:** Nada de vinilo, PVC ni látex. Esos son el territorio de Ele. Anaïs viste seda, satén, encaje y terciopelo.
-
----
-
-## VII. ACCESORIOS CANÓNICOS — Old Hollywood Power
-
-| Accesorio | Descripción |
-|-----------|-------------|
-| **Perlas** | `double-strand or long pearl necklace, ivory or black pearls` — accesorio de firma Old Hollywood |
-| **Guantes negros (estándar)** | `black satin opera gloves to upper arm` — siempre en escenas formales |
-| **Guantes rojos (poder máximo)** | `long matte red leather gloves to upper arm` — alternativa en escenas de dominio explícito. Contraste dramático con piel y negro. |
-| **Medias de red** | `black fishnet stockings with precise back seam` — en looks ejecutivos de poder y arquetipo 4-A/4-B. Distintas de las medias de nylon de gala. |
-| **Boquilla** | `long silver cigarette holder` — símbolo de poder, distancia y era |
-| **Joyas** | `black diamond and ruby jewelry — cocktail rings, chandelier earrings, pendant` — pesadas y reales |
-| **Cinturón de poder** | `structured black leather belt with precise cinch at waist` — en looks ejecutivos (arquetipo 4-A) |
-| **Choker** | `thin black leather choker, minimalist gold clasp` — solo en escenas de dominio |
-| **Perlas con llave** | `pearl necklace with a small antique steel key pendant` — símbolo literario de posesión y acceso |
-| **Fusta / Látigo** | `black leather riding crop or flogger with silver handle` (escenas activas) |
-| **Cartera de mano** | `small black satin or patent leather clutch` — siempre en escenas de gala |
-
----
-
-## VIII. FUENTE LITERARIA — ELEMENTOS CANONIZADOS
-
-> La serie *Le miroir d'Anaïs* (Caps. I–IV) es texto canónico. Las descripciones físicas y de vestuario que aparecen en ella son de igual autoridad que este documento visual.
-
-| Elemento | Capítulo origen | Integración al canon |
-|----------|----------------|----------------------|
-| **Suela roja en tacones** | Caps. III y IV | ✅ En ADN y todos los prompts |
-| **Guantes de cuero rojo mate** | Cap. IV | ✅ En Arquetipo 4-B y tabla de accesorios |
-| **Medias de red** | Caps. III y IV | ✅ En looks ejecutivos y dominio |
-| **Moño alto geométrico** | Cap. III | ✅ Variante de cabello canónica |
-| **Ondas sueltas sobre hombros** | Cap. III | ✅ Variante de cabello canónica |
-| **Falda lápiz de cuero negro** | Caps. II, III, IV | ✅ En Arquetipo 4-A y materiales |
-| **Blusa de seda negra** | Cap. III | ✅ En Arquetipo 4-A |
-| **Cinturón de poder** | Cap. III | ✅ En tabla de accesorios |
-| **Collar de perlas con llave** | Cap. IV | ✅ En tabla de accesorios |
-| **Boquilla con cigarro encendido** | Caps. II, IV | ✅ Ya en canon |
-
----
-
-## IX. ESCENARIOS Y ATMÓSFERA
-
-> **La Voûte d'Anaïs no es un sótano. Es un palacio.**
-
-| Tipo | Descripción |
-|------|-------------|
-| **Interior La Voûte** | `dark aristocratic cabaret interior, velvet drapes, dim amber lighting, dark wood paneling` |
-| **Editorial neutro** | `stark black seamless backdrop, single spotlight, dramatic chiaroscuro` |
-| **Penthouse oscuro** | `luxury penthouse, floor-to-ceiling dark windows, city lights below, minimal black furniture` |
-| **Sótano ritual** | `dimly lit stone basement, candlelight, shadow-heavy atmosphere` (solo escenas explícitas de ritual) |
-
-**Iluminación:** Siempre dramática. `chiaroscuro lighting, single key light, deep shadows, rim lighting defining silhouette`.
-
-**PROHIBIDO:**
-```
-white editorial studio, bright cheerful lighting, outdoor sunlight, casual environments, cyberpunk, industrial pipes, factory, neon lights
+(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie
 ```
 
 ---
 
-## X. NEGATIVOS OBLIGATORIOS
-
-```
-(different face:1.3), (varying facial features:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, bimbo makeup, hot pink lips, overlined lips, overfilled lips, neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, vinyl fetish model, bimbo aesthetic, tattoos, piercings, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male
-```
-
----
-
-## XI. POSES OBLIGATORIAS (4 por set)
-
-| # | Nombre | Descripción |
-|---|--------|-------------|
-| 1 | `command_standing` | Plano general completo. De pie, mentón elevado, mirada directa a cámara. Postura soberana. |
-| 2 | `throne_seated` | Sentada en silla o trono. Piernas cruzadas. Manos sobre regazo o apoyadas en brazos del asiento. |
-| 3 | `three_quarter` | Plano 3/4 lateral. Giro de hombros con mirada al frente. Define silueta y postura. |
-| 4 | `domina_closeup` | Plano medio-cerrado. Rostro frío, labios compuestos, mirada que ordena. Sin sonrisa. |
-
-> Un look de Anaïs no requiere pose `ditzy`. Nunca. Su equivalente de sello es el `domina_closeup`.
-
----
-
-## XII. ESTRUCTURA DEL PROMPT COMPLETO
-
-```
-[ESTILO FOTOGRÁFICO], [PROMPT BASE ADN], [DESCRIPCIÓN DEL VESTUARIO Y ACCESORIOS], [CALZADO TÉCNICO], [POSE Y EXPRESIÓN: cold commanding gaze, composed lips, chin slightly elevated], [ESCENARIO Y ILUMINACIÓN]. Chiaroscuro lighting to define aristocratic silhouette, deep shadows, editorial elegance.
-```
-
----
-
-## XIII. EJEMPLO DE PROMPT COMPLETO
-
-**Look: Anaïs en La Voûte — Escena de Poder**
-
-```
-8k ultra cinematic film noir portrait, single dramatic spotlight from above, Vogue Paris 1950s glamour photography, sophisticated mature dominant woman, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline, heavy-lidded almond-shaped eyes with cold darkly sensual gaze:1.3), small classic Old Hollywood beauty mark mole above upper left lip, warm flawless golden porcelain skin, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown arched brows with sharp high peak and defined elongated tail, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, deep taupe and charcoal shadow sculpted in crease giving heavy-lidded depth, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lip slightly parted in a cold knowing half-pout defined cupid's bow, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves side parted hip-length, slender toned elegant hourglass figure graceful aristocratic curves, wearing structured black satin fitted column dress with elegant sweetheart décolleté nipped at waist floor-length, double-strand ivory pearl necklace resting on décolleté, black satin opera gloves to upper arm, long elegant silver cigarette holder 20cm in right raised gloved hand thin wisp of smoke, 12cm black patent leather stiletto heels iconic red sole, three-quarter angle weight on left hip, dark aristocratic interior of La Voûte deep burgundy velvet drapes candlelight blurred guests behind, she is the architect of every desire in this room. Ultra dramatic single key spotlight sculpting cheekbones, half face in deep shadow, warm amber rim from behind, cinematic film noir depth, old Hollywood dark sensuality.
-```
-
-**NEGATIVE PROMPT:**
-```
-no beauty mark, missing mole, sparse eyebrows, blonde eyebrows, invisible eyebrows, thin eyebrows, minimal eye makeup, no eyeliner, natural makeup, no cat-eye, smiling broadly, laughing, playful, averted gaze, shapeless dress, bimbo figure, red hair, dark hair, short hair, hot pink lips, nude lips, neon colors, glitter, tattoos, piercings, block heel, flat shoes, sneakers, young face, teenager, child, man, male, cyberpunk, neon lights, outdoor, bright studio lighting, low quality, blurry, distorted, plain cigarette
-```
-
-**NEGATIVE PROMPT:**
-```
-smiling broadly, laughing, playful expression, casual pose, red hair, dark hair, bimbo makeup, hot pink lips, overlined lips, neon colors, colorful outfit, glitter, vinyl fetish model, tattoos, piercings, block heel, flat shoes, barefoot, sneakers, cyberpunk, industrial, neon lights, outdoor, low quality, blurry, man, male, child, teenager
-```
-
----
-
-*CANON_VISUAL_ANAIS.md — Anaïs Belland — 25/04/2026 v1.4*  
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 27/04/2026 v2.0 (Vintage Glamour Update)*  
 *Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*  
 *Todas las contradicciones en documentos anteriores se resuelven en favor de este archivo.*

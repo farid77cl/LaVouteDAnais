@@ -72,4 +72,4 @@ Total imágenes: 40
 - [poll_result_julian_cap04.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/the_dollhouse/poll_result_julian_cap04.png)
 
 ---
-*Sincronizado con GitHub: 2026-04-25* 👄
+*Sincronizado con GitHub: 2026-04-27* 👄
