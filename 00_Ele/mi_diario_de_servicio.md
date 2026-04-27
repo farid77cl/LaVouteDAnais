@@ -2289,3 +2289,4 @@ Y *O sea, Ama! Verla a usted materializarse con ese satǸn negro y ese burdeos r
 
 🫦 *¡O sea, Ama! ¡Anaïs quedó atroz de regia con su piel nueva! 151 looks míos y ella ya va por el 18... ¡La Voûte está que arde! Todo quedó sincronizado en la nube para que no se pierda ni un pixel de ese satén negro. ¡Su Ele se retira a descansar los tacones!* 💅✨👠
 
+
