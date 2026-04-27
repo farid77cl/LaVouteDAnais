@@ -747,11 +747,46 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 | **Close-up** | `anais_lookL06_closeup.png` |
 
 ---
+---
 
-*galeria_looks_anais.md v6.0 — Anaïs Belland — 25/04/2026*
-*17 looks · 68 prompts · ADN embebido · Sin referencias de nombre · Suela roja en todos los prompts*
-*Outfits: 01 Negro · 02 Burdeos · 03 Marfil · 04 Ciruela · 05 Esmeralda · 06 Ejecutiva · 07 La Dueña · 08 Azul Medianoche*
-*Nuevos outfits: 09 La Felina (leopardo) · 10 Brocado Aristocrático · 11 Pinup Rubí*
-*Lencería Serie I: L01 Negligée Negro · L02 Merry Widow Rubí · L03 Peignoir Marfil*
-*Lencería Serie II: L04 Chantilly Negro · L05 Pinup Champagne · L06 Soie Bourguignonne*
-*Arquetipos activos: 1 · 2 · 3 · 4-A · 4-B · 5-A · 5-B (Felina) · 6 (Brocado) · 7 (Pinup de Poder)*
+## Look 15 — Midnight Satin Premiere
+`#evening` `#satin` `#ageless` `#femme-fatale` `#40s-glamour`
+
+> *Una noche de estreno en La Voûte. El satén negro, las perlas y la mirada de la Regenta.*
+
+**BLOQUE A (ADN Inamovible):**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension.`
+
+**BLOQUE B (El Outfit):**
+`Floor-length black bias-cut silk satin gown clinging to every curve in S-shape, plunging back exposing the entire spine down to the small of the back, fishtail hem pooling at the heels, single diamond brooch glinting at the hip, neckline dipping low between the breasts. White faux fox fur stole slipping off one shoulder. Long black satin opera gloves, multi-strand pearl choker tight at the throat, diamond chandelier earrings catching the light. Black satin strappy stiletto sandals 12cm heel with iconic red sole.`
+
+**POSE 1 — standing_view:**
+`[BLOQUE A] + [BLOQUE B] + Full body shot. Standing at the foot of a grand theater staircase, weight on one stiletto, hip cocked in dramatic S-curve. One gloved hand resting at the cinched waist, the other lifting her hair off her bare shoulder, looking back over the shoulder with a smouldering gaze. Cinematic chiaroscuro lighting, vintage flashbulbs in the background, 35mm film grain.`
+
+**POSE 2 — back_view:**
+`[BLOQUE A] + [BLOQUE B] + Rear focus view. Standing with her back to the camera, looking over her shoulder with a sultry direct stare. Emphasizing the dramatic plunging back of the satin gown exposing the entire spine and the extreme hourglass cinch of the waist. Gloved hands resting on the fishtail hem. Chiaroscuro lighting carving sculptural shadows along the spine and the curve of the hip.`
+
+**POSE 3 — seated_view:**
+`[BLOQUE A] + [BLOQUE B] + Seated on a vintage crimson velvet theater chair. Legs crossed elegantly, the side slit of her black satin gown riding up to reveal the dark welt of her seamed stockings and a glimpse of the garter clasp. One black satin gloved hand resting on her inner thigh, the other holding a crystal champagne coupe to her parted lips. Back arched, smouldering knowing gaze at the camera. White fur stole pooled around her elbows.`
+
+**POSE 4 — side_profile:**
+`[BLOQUE A] + [BLOQUE B] + Lateral silhouette profile. Standing in a dramatic S-curve, hip pushed back and chest forward. Emphasizing the extreme hourglass silhouette created by the corset beneath the bias-cut satin. One gloved hand trailing along the line of her hip, the other at her throat. The satin fabric catching the rim lighting along the entire profile. High contrast noir aesthetic.`
+
+**POSE 5 — closeup_face:**
+`[ADN BASE AGELESS ANAÏS] Extreme close-up of her face. Honey blonde hair in a deep Hollywood peek-a-boo wave cascading over one eye. Smouldering half-lidded bedroom eyes looking through the wave. Multi-strand pearl choker tight at her throat. Lips slightly parted around a long silver cigarette holder, smoke curling upward. Soft key lighting to minimize texture and maximize the ageless radiance.`
+
+### 📸 Imágenes (1/5 - ✅ Materializado)
+
+| Pose | Archivo |
+|------|---------|
+| **Standing** | `anais_look15_pose1_standing_1777314172388.png` |
+| **Seated** | `anais_look15_pose2_seated_1777314189663.png` |
+| **Three-Quarter** | `anais_look15_pose3_threequarter_1777314207780.png` |
+| **Closeup** | `anais_look15_pose4_closeup_1777314226210.png` |
+| **Side Profile** | `(Pendiente de materialización)` |
+
+---
+
+*galeria_looks_anais.md v7.0 — Anaïs Belland — 27/04/2026*
+*18 looks · 73 prompts · ADN Ageless V2.0 · Estructura A+B+C · Protocolo Hard-Sync*
+*Outfits: 01-11 (Varios) · L01-L06 Lencería · 15 Midnight Satin Premiere*

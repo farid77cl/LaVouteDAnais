@@ -149,6 +149,8 @@ La atmósfera es puramente Noir y cinematográfica.
 
 - **Entornos:** Habitaciones lujosas oscuras, divanes de terciopelo, estética *Vintage Glamour*.
 - **Iluminación:** `chiaroscuro cinematic lighting, single key light, deep shadows, rim lighting defining silhouette`. Luz dramática que recorta la figura contra la oscuridad.
+- **Regla de Consistencia Cromática (Blanco y Negro):** Si un Look se define en blanco y negro, **TODO** el set de 5 poses debe ser en blanco y negro. 
+- **Límite de B&W:** Las imágenes en blanco y negro no deben superar el **5%** del total de la galería para mantener el impacto del color (rojo burdeos, rubio miel).
 
 ---
 
@@ -178,7 +180,12 @@ Cada Look canónico debe materializarse en estas 5 perspectivas:
 4. **Side Profile:** De perfil, enfatizando la silueta *hourglass* y el arqueo *S-curve*.
 5. **Closeup Face:** Primer plano para capturar la mirada *knowing look* y la perfección de su piel ageless.
 
+### 3. Registro y Etiquetado (Obligatorio)
+Todos los looks generados deben ser registrados en `02_Personajes/01_Principales/galeria_looks_anais.md`.
+- Cada entrada debe incluir etiquetas descriptivas (ej: `#boudoir`, `#latex`, `#evening`, `#ageless`).
+- Se deben incluir los 5 prompts completos (A+B+C) antes de la generación.
+
 ---
 
-*CANON_VISUAL_ANAIS.md — Anaïs Belland — 27/04/2026 v2.1 (Hard-Sync Methodology Update)*  
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 27/04/2026 v2.2 (Chromatic Consistency & Registry Update)*  
 *Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*
