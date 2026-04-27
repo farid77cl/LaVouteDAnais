@@ -72,8 +72,10 @@ El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca
 - **Seated View:** seated on [mobiliario coherente con el setting], [mismo fondo]
 - **Side Profile:** lateral silhouette, hourglass emphasis, [mismo fondo]
 - **Ditzy Expression:** close-up face, vacant gaze, lips parted, [mismo fondo]
+- **POV — Goddess Gaze:** first-person POV looking down over own body, XXXL nails and chest in foreground, full outfit converging to pointed stiletto tips, [mismo fondo]
+- **Lying Down — The Odalisque:** full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [mismo fondo]
 
-**Los 5 prompts completos (A+B+C) deben quedar escritos en la entrada del Look en `galeria_outfits.md` antes de que se genere ninguna imagen.**
+**Los 7 prompts completos (A+B+C) deben quedar escritos en la entrada del Look en `galeria_outfits.md` antes de que se genere ninguna imagen.**
 
 ---
 
@@ -100,7 +102,7 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 
 | Excusa / Racionalización | Realidad Canónica |
 | :--- | :--- |
-| "Generé la imagen y documentaré el prompt después." | **ERROR CRÍTICO.** Los 5 prompts completos se escriben en `galeria_outfits.md` ANTES de generar. Sin excepción. |
+| "Generé la imagen y documentaré el prompt después." | **ERROR CRÍTICO.** Los 7 prompts completos se escriben en `galeria_outfits.md` ANTES de generar. Sin excepción. |
 | "El BLOQUE A es siempre el mismo, no necesito copiarlo en cada prompt." | **ERROR.** El BLOQUE A se copia textualmente de `dna_v3_5.md` en cada uno de los 5 prompts. Nunca se omite ni se resume. |
 | "Ajusté el BLOQUE B en la pose 3 porque la pose lo requería." | **ERROR.** El BLOQUE B es invariable entre las 5 poses. Solo el BLOQUE C (pose y setting) varía. |
 | "Omití los piercings para un look más limpio." | **ERROR.** Los piercings V3.5 son parte del ADN Hard-Sync. Nunca se omiten. |

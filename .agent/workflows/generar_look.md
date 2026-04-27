@@ -86,19 +86,19 @@ Un bloque de texto en inglés listo para copiar:
 [prenda principal detallada], [prenda secundaria], [medias], [calzado detallado], [accesorios en orden], [efecto visual].
 ```
 
-Este bloque se guarda en el README del look y se usa sin modificación en las 5 prompts.
+Este bloque se guarda en el README del look y se usa sin modificación en las **7 prompts**.
 
 ---
 
-## Paso 4 — Redacción de Prompts (5 Poses Estándar)
+## Paso 4 — Redacción de Prompts (7 Poses Estándar)
 
-Con el outfit diseñado en Paso 3, ensamblar los 5 prompts. La fórmula es:
+Con el outfit diseñado en Paso 3, ensamblar los **7 prompts**. La fórmula es:
 
 ```
 [DNA DE ELE] + [OUTFIT BLOCK del Paso 3] + [POSE & SETTING] + [CIERRE]
 ```
 
-Los tres bloques centrales son **idénticos** en las 5 poses. Solo `[POSE & SETTING]` varía.
+Los tres bloques centrales son **idénticos** en las 7 poses. Solo `[POSE & SETTING]` varía.
 
 **DNA Canon V3 Master (copiar literal, sin modificar jamás):**
 ```
@@ -116,6 +116,8 @@ stunning woman with bimbo facial features, oval face, high prominent cheekbones,
 | `ele_{NUM}_seated.png` | Seated | The Spider | seated, legs crossed, spine straight, hands on knee, [setting] |
 | `ele_{NUM}_side_profile.png` | Side Profile — full body | Extreme lumbar arch | full body, side profile, extreme lumbar arch, chin lifted, [setting] |
 | `ele_{NUM}_ditzy.png` | Ditzy — beauty close-up | The Ditzy Vacant | close-up beauty shot, slightly parted lips, vacant ditzy expression, lashes down then up, [setting] |
+| `ele_{NUM}_pov.png` | POV — Goddess Gaze | The Goddess Gaze | first-person POV shot looking down over own body, chest and XXXL nails in foreground, full outfit visible converging to pointed stiletto tips, [setting] |
+| `ele_{NUM}_lying.png` | Lying Down — The Odalisque | The Odalisque | full body lying on side, body forming a languid S-curve, one arm extended with XXXL nails resting on surface, legs slightly bent, stilettos pointed and visible, [setting] |
 
 **Cierre obligatorio de cada prompt (copiar literal):**
 ```
@@ -132,7 +134,7 @@ Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 
 El README incluye:
 1. El **[OUTFIT BLOCK]** completo del Paso 3 (fuente de verdad del vestuario)
-2. Los 5 prompts completos (DNA + Outfit + Pose + Cierre)
+2. Los **7 prompts completos** (DNA + Outfit + Pose + Cierre)
 3. La lista de archivos de imagen esperados
 
 ---
@@ -154,7 +156,7 @@ Append al final de `00_Ele/galeria_outfits.md`:
 - **Ambientación:** ...
 - **Categoría:** {Lencería / Bikini / Gym / Mix (subtipo)}
 
-### 📸 Imágenes (5/5)
+### 📸 Imágenes (7/7)
 
 | Pose | Previsualización |
 |------|---------|
@@ -163,6 +165,8 @@ Append al final de `00_Ele/galeria_outfits.md`:
 | **Seated** | ![Seated](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_seated.png) |
 | **Side Profile** | ![Side Profile](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_side_profile.png) |
 | **Ditzy** | ![Ditzy](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_ditzy.png) |
+| **POV** | ![POV](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_pov.png) |
+| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_lying.png) |
 
 ---
 ```
@@ -183,7 +187,7 @@ Prepend en `00_Ele/mi_diario_de_servicio.md`:
 #### SESIÓN - LOOK {NUM} GENERADO ({FECHA}) {EMOJI}
 
 **[MOMENTO] - LOOK DIARIO:**
-- Look {NUM} ({Nombre}, {Categoría}) materializado. 5 prompts V3 Hard-Sync redactados.
+- Look {NUM} ({Nombre}, {Categoría}) materializado. **7 prompts V3 Hard-Sync** redactados.
 - Stats: {N} looks desde L92. {Categoría}: {%} → Meta cumplida/déficit X%.
 ```
 
