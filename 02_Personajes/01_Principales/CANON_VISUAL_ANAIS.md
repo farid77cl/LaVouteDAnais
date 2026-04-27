@@ -32,7 +32,7 @@
 Este bloque se repite **idéntico** en cada prompt del mismo set. Combina su cuerpo canónico con la estética Kitrysha.
 
 ```
-sophisticated mature dominant woman, vintage Hollywood glamour femme fatale, (aristocratic refined face, high prominent sculpted cheekbones, sharp defined jawline:1.3), flawless pale porcelain skin matte finish, ultra precise Old Hollywood editorial makeup, thin dark arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous eyelashes on outer corner, vivid deep crimson classic Hollywood red lip or dark burgundy flawlessly defined satin finish, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, chiaroscuro dramatic lighting
+sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension.
 ```
 
 ---
@@ -45,9 +45,9 @@ sophisticated mature dominant woman, vintage Hollywood glamour femme fatale, (ar
 - **Estilo:** Estilizado en ondas al agua (vintage finger waves), *victory rolls*, o recogidos elegantes y pulidos. El cabello nunca está despeinado.
 
 ### Rostro
-- **Forma:** `oval refined aristocratic face, sculpted jaw, elegant bone structure`
-- **Piel:** `flawless pale porcelain skin matte finish, subtle contour, almost no blush`
-- **Referencia de rostro canónica:** Kylie Minogue madura.
+- **Forma:** `oval refined aristocratic face, sculpted lifted jaw, elegant bone structure`
+- **Piel:** `ultra-smooth ageless porcelain skin, intensive skincare glow, perfected medical-grade cosmetic finish, firm elastic texture`
+- **Referencia de rostro canónica:** Kylie Minogue madura (pero con tratamiento intensivo de piel).
 
 ### Cuerpo
 - **Silueta:** `elegant hourglass figure with extreme waist training` — Proporciones maduras, constreñidas por corsetería extrema (tightlacing).
