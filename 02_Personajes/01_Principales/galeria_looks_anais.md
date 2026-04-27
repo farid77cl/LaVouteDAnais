@@ -779,10 +779,10 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | `anais_look15_pose1_standing_1777314172388.png` |
-| **Seated** | `anais_look15_pose2_seated_1777314189663.png` |
-| **Three-Quarter** | `anais_look15_pose3_threequarter_1777314207780.png` |
-| **Closeup** | `anais_look15_pose4_closeup_1777314226210.png` |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose1_standing_1777314172388.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose2_seated_1777314189663.png) |
+| **Three-Quarter** | ![Three-Quarter](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose3_threequarter_1777314207780.png) |
+| **Closeup** | ![Closeup](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look15_midnight_satin/anais_look15_pose4_closeup_1777314226210.png) |
 | **Side Profile** | `(Pendiente de materialización)` |
 
 ---
