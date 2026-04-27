@@ -27,11 +27,11 @@
 
 ---
 
-## II. PROMPT BASE ADN — COPIAR TEXTUALMENTE
+## II. BLOQUE A: ADN INAMOVIBLE (COPIAR TEXTUALMENTE)
 
-Este bloque se repite **idéntico** en cada prompt del mismo set. Combina su cuerpo canónico con la estética Kitrysha.
+Este bloque define la identidad genética y estética permanente de Anaïs. **DEBE** copiarse idéntico en los 5 prompts de cada set sin alterar ni una sola palabra.
 
-```
+```text
 sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension.
 ```
 
@@ -160,6 +160,25 @@ La atmósfera es puramente Noir y cinematográfica.
 
 ---
 
-*CANON_VISUAL_ANAIS.md — Anaïs Belland — 27/04/2026 v2.0 (Vintage Glamour Update)*  
-*Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*  
-*Todas las contradicciones en documentos anteriores se resuelven en favor de este archivo.*
+## XI. METODOLOGÍA DE GENERACIÓN (PROTOCOLO HARD-SYNC)
+
+Para garantizar la coherencia absoluta del universo, cada Look de Anaïs debe seguir esta estructura de ingeniería de prompts:
+
+### 1. La Estructura de Tres Bloques (A + B + C)
+Cada prompt se construye sumando tres bloques definidos:
+- **BLOQUE A (ADN Inamovible):** Copiado textualmente de la Sección II de este documento. Define su física y "vibe" ageless.
+- **BLOQUE B (El Outfit):** Se define una sola vez por Look con máximo detalle (materiales, colores, calzado, accesorios). Se copia idéntico en las 5 poses del set para evitar variaciones textiles.
+- **BLOQUE C (Pose y Setting):** La única variable. Describe la postura específica y el entorno (mobiliario, fondo, atmósfera).
+
+### 2. El Ritual de las 5 Poses Obligatorias
+Cada Look canónico debe materializarse en estas 5 perspectivas:
+1. **Standing View:** De frente, cuerpo entero, presencia de mando.
+2. **Back View:** Enfoque en la espalda descubierta, el ajuste del corsé y la costura de las medias.
+3. **Seated View:** Sentada en mobiliario de lujo coherente con el escenario.
+4. **Side Profile:** De perfil, enfatizando la silueta *hourglass* y el arqueo *S-curve*.
+5. **Closeup Face:** Primer plano para capturar la mirada *knowing look* y la perfección de su piel ageless.
+
+---
+
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 27/04/2026 v2.1 (Hard-Sync Methodology Update)*  
+*Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*
