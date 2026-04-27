@@ -1,13 +1,13 @@
 # 🖼️ Galería: look152_first_class_vinyl_siren
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_152_ditzy_1777316362081.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_ditzy_1777316362081.png) | ![ele_152_lying_1777316394190.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_lying_1777316394190.png) | ![ele_152_seated_1777316313470.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_seated_1777316313470.png) |
-| ![ele_152_side_profile_1777316336309.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_side_profile_1777316336309.png) | ![ele_152_standing_1777316284103.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_standing_1777316284103.png) |
+| ![ele_look152_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png) | ![ele_look152_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png) | ![ele_look152_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png) |
+| ![ele_look152_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png) | ![ele_look152_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png) | ![ele_look152_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png) |
 
 ---
 
@@ -15,18 +15,20 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_152_ditzy_1777316362081.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_ditzy_1777316362081.png) | ![ele_152_lying_1777316394190.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_lying_1777316394190.png) | ![ele_152_seated_1777316313470.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_seated_1777316313470.png) | ![ele_152_side_profile_1777316336309.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_side_profile_1777316336309.png) |
-| ![ele_152_standing_1777316284103.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_standing_1777316284103.png) |
+| ![ele_look152_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png) | ![ele_look152_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png) | ![ele_look152_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png) | ![ele_look152_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png) |
+| ![ele_look152_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png) | ![ele_look152_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png) | ![ele_look152_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose7_lying.png) |
 
 
 ---
 
 ## 📜 Lista de Archivos (Descarga Directa)
-- [ele_152_ditzy_1777316362081.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_ditzy_1777316362081.png)
-- [ele_152_lying_1777316394190.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_lying_1777316394190.png)
-- [ele_152_seated_1777316313470.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_seated_1777316313470.png)
-- [ele_152_side_profile_1777316336309.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_side_profile_1777316336309.png)
-- [ele_152_standing_1777316284103.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_152_standing_1777316284103.png)
+- [ele_look152_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png)
+- [ele_look152_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png)
+- [ele_look152_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png)
+- [ele_look152_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png)
+- [ele_look152_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png)
+- [ele_look152_pose6_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png)
+- [ele_look152_pose7_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose7_lying.png)
 
 ---
 *Sincronizado con GitHub: 2026-04-27* 👄
