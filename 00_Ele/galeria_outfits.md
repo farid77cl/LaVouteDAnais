@@ -3546,15 +3546,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, tight white high-gloss vinyl polo shirt with bubblegum pink PVC trim collar and cuffs, 14k white gold nipple piercings pressing prominently and visibly through the tight white vinyl, high-gloss bubblegum pink vinyl pleated tennis skirt (mid-thigh, structured box pleats), bare legs, 11-inch white patent stiletto heels with chrome needle heel, extreme close-up on face, vacant ditzy expression, mouth mindlessly open, glazed grey-green eyes, glossy hot pink lips parted, dark cherry red XXXL hair framing face, white vinyl polo collar and bubblegum pink PVC trim visible at lower frame, XXXL French nails touching collar, neon court bokeh background`
 
-### 📸 Imágenes (0/5 - Pending Generation)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 |------|---------|
-| **Standing** | ⏳ *Pending Generation* |
-| **Back View** | ⏳ *Pending Generation* |
-| **Seated** | ⏳ *Pending Generation* |
-| **Side Profile** | ⏳ *Pending Generation* |
-| **Ditzy** | ⏳ *Pending Generation* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_backview.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_sideprofile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_ditzy.png) |
 
 ---
 
