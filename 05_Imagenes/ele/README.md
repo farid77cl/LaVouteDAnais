@@ -4,14 +4,6 @@
 
 ---
 
-## 🕷️ Look 154: Platinum Chrome Galatea
-
-| De Pie | Sentada | Perfil | Espalda | Ditzy |
-|:---:|:---:|:---:|:---:|:---:|
-| ![ele_154_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png) | ![ele_154_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) | ![ele_154_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) | ![ele_154_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) | ![ele_154_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) |
-
----
-
 ## 🕷️ Look 153: Neon Coral Yacht Queen
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -89,14 +81,6 @@
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
 | ![ele_144_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_standing.png) | ![ele_144_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_seated.png) | ![ele_look144_sideprofile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_sideprofile.png) | ![ele_144_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_back.png) | ![ele_144_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_144_ditzy.png) |
-
----
-
-## 🕷️ Look 143: Emerald Escort Siren
-
-| De Pie | Sentada | Perfil | Espalda | Ditzy |
-|:---:|:---:|:---:|:---:|:---:|
-| ![ele_143_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose1_standing.png) | ![ele_143_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose3_seated.png) | ![ele_143_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose4_side_profile.png) | ![ele_143_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose2_back.png) | ![ele_143_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose5_ditzy.png) |
 
 ---
 

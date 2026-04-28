@@ -1,6 +1,6 @@
 # Walkthrough: La Piel que Diseno
 
-**Estado:** Fase 4 — CAP 1 v0.4 ESCRITO. Pendiente Crítico + Gate Ama.
+**Estado:** Fase 5 completa — CAP 1 v0.5 post-cirugía (9.2→9.5+). Pendiente Centinela + Gate Ama.
 **Personajes:** Matías (protagonista, ahora en cuerpo de Daniela / "Dani") — Daniela (antagonista, ahora en cuerpo de Matías)
 **Fecha última actualización:** 2026-04-28  
 **Agente:** Orquestador
