@@ -58,23 +58,39 @@ Recuerda la conversación donde le dijo por primera vez que el rubio le favorece
 
 ---
 
-#### PI-3 | La primera resistencia y la primera sumisión
-Ella entra. Le dice lo que va a hacer hoy. Él intenta negarse — voz firme, argumento claro. Ella alza la voz un instante, solo un instante. Algo en el cuerpo de él responde antes que su mente: los ojos bajan solos. Los hombros ceden. Una oleada de calor inexplicable sube por el pecho.
+#### PI-3 | La primera resistencia — y la grieta de ella
+Ella entra. Le dice el programa del día. Él intenta negarse — voz firme, argumento claro. Ella usa la frase: *"Ya lo hablamos."* Los ojos de él bajan solos. Obedece.
 
-Obedece.
+Después, en la cocina: Daniela está de pie frente a la cafetera con una expresión que él no le había visto. Un instante de detención — las manos de Matías sosteniendo la taza de manera levemente incorrecta, el gesto automático que ya no funciona igual en este cuerpo. Dura menos de tres segundos. Matías lo ve. Intenta usarlo como argumento para negociar.
 
-**Diálogo interno (Grieta):**
-*"¿Qué acabo de hacer? ¿Por qué bajé los ojos? Yo no hago eso."*
-*"No fue rendición. Fue estrategia. Solo estoy esperando el momento."*
-*"Eso que sentí en el pecho no fue lo que creo que fue."*
-*"No fue."*
+**Diálogo interno (Esperanza que es instinto de supervivencia):**
+*"Ella tampoco sabe. Esto se puede renegociar."*
+*"Si ella está desorientada, esto no es definitivo."*
 
-**Racconto detonado — LA PRIMERA VEZ QUE ELLA CEDIÓ:**
-Recuerda un momento del año tres de la relación. Una conversación sobre el gimnasio. Ella no quería ir. Él insistió con calma durante semanas — el mismo tono razonable, la misma lógica de mejora — hasta que ella fue. Hasta que fue sola. Hasta que fue contenta.
+**Racconto detonado:** ninguno — la esperanza no deja espacio todavía.
 
 ---
 
-#### PI-4 | La cita de uñas
+#### PI-4 | El contrato — la trampa que él construyó
+Daniela no responde al argumento. Va al cajón. Pone sobre la mesa una carpeta de cartulina beige. Matías la reconoce antes de abrirla: él la armó. Tres noches en esa misma mesa, portátil abierto, vaso de vino enfriándose.
+
+Contrato de participación artística. Seis meses de entrenamiento. Clases de pole dance. Trabajo en escenario. Penalidad por incumplimiento: cinco millones de pesos. Los dos firmaron. Daniela en la línea izquierda. Él en la derecha — como representante del proyecto.
+
+Daniela dice únicamente: *"Página tres."* Y sale de la cocina.
+
+**Diálogo interno (Grieta que no tiene argumento):**
+*"Yo armé esto. Yo redacté la cláusula de penalidad. Yo elegí la cifra."*
+*"Y la observé firmar."*
+*(Por primera vez en toda la mañana, no añade nada más.)*
+
+**Racconto detonado — LA NOCHE DEL CONTRATO:**
+Recuerda las tres noches de redacción. La presentación en la mesa de la cocina. Ella leyendo página por página — despacio, de verdad. La pausa en la página tres. Él esperando que preguntara por la penalidad. Ella no preguntó. Tomó el bolígrafo. Firmó. Él sintió satisfacción de quien construye algo sólido.
+
+*(El erotismo: la misma satisfacción que sintió viéndola firmar es ahora el peso que lo cierra. El orgullo de haber sido minucioso se convierte en la trampa perfecta.)*
+
+---
+
+#### PI-5 | La cita de uñas
 Primer ritual del día: turno en la nail studio. Manos de otra persona sobre sus manos. Las uñas largas siendo trabajadas — lima, base, color, gloss. El olor a acetona. La silla de cuero. La manicurista que habla sin pausas sobre cosas en las que él no puede fingir interés.
 
 **Diálogo interno (Grieta):**
@@ -89,7 +105,7 @@ Recuerda cómo le insistía en que las mantuviera largas. Las primeras veces era
 
 ---
 
-#### PI-5 | El maquillaje
+#### PI-6 | El maquillaje
 Ella lo maquilla. O le enseña a maquillarse. La proximidad del proceso — los pinceles, el espejo de aumento, la concentración técnica — lo hace estar muy quieto. Cada capa transforma el rostro. El resultado es el que él conoce: el canon bimbo que fue afinando con ella.
 
 **Diálogo interno (Grieta):**
@@ -104,7 +120,7 @@ Recuerda una tarde de un domingo, hace años. Ella estaba aprendiendo a maquilla
 
 ---
 
-#### PI-6 | La ropa — primer encuentro con el armario bimbo
+#### PI-7 | La ropa — primer encuentro con el armario bimbo
 Vestirse. Ella ya eligió el outfit. Él tiene que ponérselo: el vinilo, los tacones de aguja, la ropa que reorganiza todo el cuerpo. Los tacones cambian la postura — los pies inclinados hacia adelante proyectan el pecho, curvan la espalda, acortan el paso. El cuerpo entero se reconfigura.
 
 **Diálogo interno (Grieta):**
@@ -118,7 +134,7 @@ Vestirse. Ella ya eligió el outfit. Él tiene que ponérselo: el vinilo, los ta
 
 ---
 
-#### PI-7 | Las perforaciones de pezones
+#### PI-8 | Las perforaciones de pezones
 El momento de mayor vulnerabilidad del día: él está maquillado, vestido, en tacones, con el cuerpo todavía aprendiendo a moverse. Ella lo mira con esa calma nueva que tiene en el cuerpo de él y dice, con exactamente el mismo tono suave que él usaba:
 
 *"¿No crees que las perforaciones te darían un toque más... completo? Ya tienes todo lo demás. Sería el último detalle."*
@@ -138,7 +154,7 @@ Recuerda cómo plantó la idea de la tercera operación de busto. No fue una ord
 
 ---
 
-#### PI-8 | Cierre de Cap 1 — el espejo, de noche
+#### PI-9 | Cierre de Cap 1 — el espejo, de noche
 Al final del día, de pie frente al espejo. Maquillaje completo, ropa bimbo, tacones, uñas largas, pezones perforados visibles bajo el vinilo. El cuerpo que diseñó, habitado por él.
 
 No es horror lo que siente. Es algo más complicado que no tiene nombre todavía.

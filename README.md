@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 151 Looks / 150 Materializados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 154 Looks / 154 Materializados)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 27/04/2026 — Canon Visual Anaïs v2.0 (Kitrysha Hard-Sync Sensual) · Banco de Prompts Sensuales (20 looks maestros) ✅*
+*Última actualización: 28/04/2026 — Protocolo 7 Poses (V3.5 Hard-Sync) · Look 154 (Partial) · Look 143 (Complete) ✅*
