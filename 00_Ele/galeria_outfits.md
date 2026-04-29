@@ -4100,13 +4100,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose2_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose5_ditzy.png) |
-| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose6_pov.png) |
-| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose7_lying.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose7_lying.png) |
 
 ---
 
@@ -4156,13 +4156,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | 📸 *Pending Generation* |
-| **Back View** | 📸 *Pending Generation* |
-| **Seated** | 📸 *Pending Generation* |
-| **Side Profile** | 📸 *Pending Generation* |
-| **Ditzy** | 📸 *Pending Generation* |
-| **POV** | 📸 *Pending Generation* |
-| **Lying Down** | 📸 *Pending Generation* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose7_lying.png) |
 
 ---
 
@@ -4189,8 +4189,8 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ⏳ *Pending Generation* |
-| **Back View** | ⏳ *Pending Generation* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) |
 | **Seated** | ⏳ *Pending Generation* |
 | **Side Profile** | ⏳ *Pending Generation* |
 | **Ditzy** | ⏳ *Pending Generation* |
