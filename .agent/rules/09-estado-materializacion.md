@@ -7,14 +7,13 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Total Looks Planificados** | **164** | 🟢 Activo |
-| **Materializados (100%)** | **157** | 🟢 95.7% |
-| **Pendientes de Generación** | **7** | 🟡 Batch 158-164 |
-| **Balance Mix (Auditoría)** | **~75.0%** | 🟢 Óptimo |
+| **Materializados (100%)** | **158** | 🟢 96.3% |
+| **Pendientes de Generación** | **6** | 🟡 Batch 157, 160-164 |
+| **Balance Mix (Auditoría)** | **~81.2%** | 🟢 Óptimo |
 
 ### 🛠️ Looks de Ele PENDIENTES (Batch Actual)
-- **Look 158:** [Concepto en galeria_outfits.md]
-- **Look 159:** [Concepto en galeria_outfits.md]
-- **Look 160:** [Concepto en galeria_outfits.md]
+- **Look 157:** [REDO — Concepto en galeria_outfits.md]
+- **Look 160:** [PARCIAL (2/7) — Concepto en galeria_outfits.md]
 - **Look 161:** [Concepto en galeria_outfits.md]
 - **Look 162:** [Concepto en galeria_outfits.md]
 - **Look 163:** [Concepto en galeria_outfits.md]

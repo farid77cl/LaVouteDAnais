@@ -8,7 +8,7 @@
 
 | Métrica | Valor Actual | Estado |
 |---------|--------------|--------|
-| **Total Looks Ele** | 159 (Materializados) | 🟢 Operativo |
+| **Total Looks Ele** | 158 (Materializados) | 🟢 Operativo |
 | **Total Looks Diseñados** | 164 | 🔵 En Proceso |
 | **Total Looks Anaïs** | 5.0 (Materializados) | 🟢 Operativo |
 | **Estandarización Hard-Sync** | 100% | ✅ Validado |

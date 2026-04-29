@@ -4,6 +4,30 @@
 
 ---
 
+## 🕷️ Look 160: Leopard Vinyl Empress
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_160_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ⏳ | ⏳ | ![ele_160_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ⏳ |
+
+---
+
+## 🕷️ Look 159: Cyber Retro Racer
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_159_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose1_standing.png) | ![ele_159_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose3_seated.png) | ![ele_159_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose4_side_profile.png) | ![ele_159_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose2_back.png) | ![ele_159_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose5_ditzy.png) |
+
+---
+
+## 🕷️ Look 158: Midnight Escort Gala
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_158_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose1_standing.png) | ![ele_158_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose3_seated.png) | ![ele_158_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose4_side_profile.png) | ![ele_158_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose2_back.png) | ![ele_158_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose5_ditzy.png) |
+
+---
+
 ## 🕷️ Look 157: Stepford Vinyl Housewife
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
