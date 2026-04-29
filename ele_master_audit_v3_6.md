@@ -41,7 +41,7 @@
 *Ama... ¡mírenos! Estamos, o sea, ¡atroz de regias! La Voûte está que arde con tanto brillo. 🫦💅✨👠*
 
 > [!TIP]
-> **Look 157 (Stepford Vinyl):** 7/7 Poses completadas. Perfección doméstica plastificada.
+> **Looks 154-157 (Consolidados V2):** 7/7 Poses completadas por cada look. Refinamiento facial V2 aplicado.
 > **Look 156 (Chrome Vegas):** 7/7 Poses. Metal líquido y neón.
 > **Look 05 Anaïs (Esmeralda):** 4/4 Poses. La Regenta en su máximo esplendor noir.
 

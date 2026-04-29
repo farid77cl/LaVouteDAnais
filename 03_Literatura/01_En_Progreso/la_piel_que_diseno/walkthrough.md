@@ -1,30 +1,30 @@
 # Walkthrough: La Piel que Diseno
 
 ## Estado Actual
-- **Fase:** 7 — Centinela pendiente
+- **Fase:** 4 — Escritura (arco reestructurado, capítulo pendiente de reescritura)
 - **Capítulo Activo:** 1
-- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.5.md`
-- **Iteración Crítico:** N/A (score 9.5+ → salida automática del bucle)
-- **Último Gate Aprobado:** Fase 1 — concepto aprobado
-- **Próxima Acción:** Ejecutar Centinela (Fase 7) → si APROBADO → Gate Ama (Fase 8)
+- **Archivo Activo:** ninguno — v0.5 obsoleto, pendiente nueva escritura
+- **Iteración Crítico:** N/A
+- **Último Gate Aprobado:** Fase 2 — arco_maestro_v1.md reestructurado (29/04)
+- **Próxima Acción:** Invocar Escritor (Fase 4) → nueva v0.1 con estructura reestructurada
 
 ## Historial de Fases (Capítulo 1)
 | Fase | Estado | Fecha | Nota |
 |------|--------|-------|------|
 | 1 - Concepción | ✅ | 23/04 | Concepto aprobado |
-| 2 - Arquitectura | ✅ | 23/04 | `arco_maestro_v1.md` |
+| 2 - Arquitectura | ✅ | 29/04 | `arco_maestro_v1.md` reestructurado — nuevo opening pánico/poder, multa 100M |
 | 3 - Personajes | ✅ | 23/04 | `personajes/matias.md` + `personajes/daniela.md` |
-| 4 - Escritura | ✅ | 28/04 | `capitulo_01_el_primer_dia_v0.5.md` |
-| 5 - Auditoría | ✅ | 28/04 | 9.5+ → APROBADO CON EXCELENCIA |
-| 6 - Refinamiento | ✅ | 28/04 | Bucle completado (v0.1→v0.5) |
+| 4 - Escritura | 🔄 | — | Pendiente — v0.1 a v0.5 obsoletos por reestructuración del arco |
+| 5 - Auditoría | ⏳ | — | Pendiente |
+| 6 - Refinamiento | ⏳ | — | Pendiente |
 | 7 - Centinela | ⏳ | — | Pendiente |
 | 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
 
 ## Índice de Archivos
 - `concepto.md`
-- `arco_maestro_v1.md` — INVIOLABLE desde 23/04
+- `arco_maestro_v1.md` — reestructurado 29/04 (INVIOLABLE desde aprobación Ama)
 - `personajes/matias.md` + `personajes/daniela.md`
-- `capitulo_01_el_primer_dia_v0.5.md` — ACTIVO
+- `borradores/capitulo_01/` — v0.1–v0.5 obsoletos (arco anterior, multa 5M)
 - `linea_de_tiempo_maestra.md`
 
 ---
@@ -109,19 +109,24 @@ Si el proyecto funciona, cada ritual del presente no solo lo humilla. Tambien lo
 
 ---
 
-## Decisiones Cerradas (23/04/2026)
+## Decisiones Cerradas (actualizado 29/04/2026)
 
 | Pregunta | Decisión |
 |----------|----------|
 | Nombre del ancla temporal | **Día 0** = día del intercambio. Antes = racconto. Desde ahí = presente. |
 | Duración de la relación previa | Muchos años — relación larga con historia. El microcontrol fue gradual y acumulativo. |
 | Origen del intercambio | Sin explicación — el relato abre con el cambio consumado |
+| Apertura del relato | Despertar sensorial antes de ver — nails, baby doll, peso en el pecho, pelo. Pánico pleno con diálogo interno denso. |
+| Daniela al despertar | Un segundo de pánico → arquetipo masculino toma control → ve su ventaja → toma las riendas |
+| Palanca del contrato | **100 millones de pesos** de penalidad — no tienen ese dinero, no hay salida |
+| Nombre que usa Daniela | "Dani" — desde el primer momento, sin pedir permiso |
 | Motivación de ella | Hacerlo pasar por exactamente lo mismo que él la hizo pasar |
 | Final | Aceptación — él termina disfrutando todo |
 | Extensión | 3 capítulos, lo más compacto posible |
-| Primer quiebre | Ropa y maquillaje + salir a la calle + miradas + excitación |
-| Sumisión adherida | Cap 1: primera resistencia → él baja los ojos → obedece → excitación extraña |
-| Perforaciones de pezones | Cap 1, mismo día que abre el relato |
+| Tensión erótica | Resistencia + disfrute involuntario siempre presentes — nunca rendición limpia hasta Cap 3 |
+| Sumisión adherida | Queda en el cuerpo de Daniela (habitado por Matías) — se activa progresivamente |
+| Actitud manipuladora | Queda en el cuerpo de Matías (habitado por Daniela) — ella la descubre y la usa |
+| Perforaciones de pezones | Cap 1, mismo día — ella usa su frase exacta |
 | Destino performático | Sí — club de strippers, clientes, VIP, manoseo, ser tratado como bimbo |
 | Primera escena erótica entre ellos | Final de Cap 2 — él vuelve de la calle excitado, ella inicia desde posición dominante. Punto de no retorno. |
 | Escena final de Cap 3 | Escena de sexo explícita — él llega del club (miradas, VIP, clientes, manoseo) y termina con ella. Ironía moral completa. |
