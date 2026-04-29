@@ -1,7 +1,7 @@
 # 💄 CANON DE MAQUILLAJE — ESTÁNDARES VISUALES
 
 > **Propósito:** Definir el maquillaje correcto para cada personaje en TODOS los prompts
-> **Actualizado:** 2025-12-30
+> **Actualizado:** 2026-04-29
 > **IMPORTANTE:** Usar estas descripciones exactas en todos los prompts
 
 ---
@@ -35,10 +35,12 @@ HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes with thick winged eyeliner, e
 
 ## 💖 MISS DOLL — GLAMOUR DOLL HEAVY
 
+> **Fuente de verdad:** `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`
+
 ### Descripción para Prompts (NUEVO ESTÁNDAR)
 
 ```
-HEAVY GLAMOUR DOLL MAKEUP Kim Kardashian style: dramatic smokey eyes with browns and blacks, thick black winged eyeliner, extra long dramatic false lashes, high arched sharply defined brows, flawless full coverage foundation, strong contour and highlight layered, full glossy RED lips
+HEAVY GLAMOUR DOLL MAKEUP: dramatic bronze and black smokey eyes, champagne shimmer inner corners, thick black winged eyeliner, extra long dramatic false lashes, high arched sharply defined blonde brows, pale porcelain full-coverage base with realistic human skin texture, strong sculpted contour and controlled highlight, full glossy RED lips with precise overlined shape
 ```
 
 ### Variantes de Labios Miss Doll
@@ -49,12 +51,12 @@ HEAVY GLAMOUR DOLL MAKEUP Kim Kardashian style: dramatic smokey eyes with browns
 
 ### Elementos Obligatorios
 
-- ✅ Dramatic smokey eyes (browns and blacks, NOT pink)
+- ✅ Dramatic smokey eyes (bronze, champagne, browns and blacks; NOT pink)
 - ✅ Thick black winged eyeliner
 - ✅ Extra long dramatic false lashes
-- ✅ High arched sharply defined brows
+- ✅ High arched sharply defined blonde brows
 - ✅ Heavy contour Kim K style (capas y capas)
-- ✅ Full coverage flawless foundation
+- ✅ Pale porcelain full-coverage base with realistic human skin texture
 - ✅ **LABIOS ROJOS** (NO pink)
 
 ### ❌ PROHIBIDO para Miss Doll

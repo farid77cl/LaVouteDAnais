@@ -3,8 +3,8 @@
 ## 📋 Control de Versión
 | Campo | Valor |
 |-------|-------|
-| **Versión** | v0.1 |
-| **Estado** | BORRADOR |
+| **Versión** | v0.2 |
+| **Estado** | EN REVISIÓN |
 | **Arco** | arco_maestro_v1.md |
 | **Fecha** | 2026-04-29 |
 
@@ -12,6 +12,7 @@
 | Versión | Fecha | Agente | Cambios |
 |---------|-------|--------|---------|
 | v0.1 | 2026-04-29 | Escritor | Borrador inicial |
+| v0.2 | 2026-04-29 | Editor | 5 cirugías: canon 1000cc, transición contrato, tacto pincel, post-maquillaje, inventario espejo nocturno |
 
 ---
 
@@ -49,7 +50,7 @@ El tejido que cubre el cuerpo es satén. No algodón. Satén frío que se tibió
 
 *Si no los abro, esto no existe todavía.*
 
-El pecho sube y baja y el peso sube y baja con él, tirando hacia adelante con cada espiración, recordando su existencia con cada movimiento de la caja torácica. No hay forma de no sentirlo. No hay forma de decirse que no está ahí porque está, con toda la obstinada corporeidad de doscientos mililitros de silicona por lado instalados hace menos de tres semanas en un cuerpo que todavía no terminó de incorporarlos.
+El pecho sube y baja y el peso sube y baja con él, tirando hacia adelante con cada espiración, recordando su existencia con cada movimiento de la caja torácica. No hay forma de no sentirlo. No hay forma de decirse que no está ahí porque está, con toda la obstinada corporeidad de mil centímetros cúbicos de silicona por lado instalados hace menos de tres semanas en un cuerpo que todavía no terminó de incorporarlos.
 
 Los abre.
 
@@ -229,6 +230,14 @@ Por primera vez en toda la mañana, el diálogo interno no añade nada más.
 
 No hay nada que añadir.
 
+*¿Cuándo me levanté?*
+
+El cuerpo ya está de pie. Está frente al cajón cerrado del escritorio. Está en el pasillo. Él no tomó ninguna de esas decisiones — no eligió ponerse de pie, no eligió moverse hacia el baño, no hay un punto claro en que algo en él haya dicho *ya*, *bien*, *acepto*. Solo un vacío y después el cuerpo ya en marcha, ya orientado, ya haciendo lo que hay que hacer.
+
+*Yo no ordené esto.*
+
+*(Pero ya está caminando.)*
+
 ---
 
 El baño tiene un espejo largo que cubre toda la pared sobre el lavamanos, desde el mesón hasta el techo. Lo instalaron cuando renovaron el baño hace dos años — él insistió en que fuera de pared completa porque la luz entraba mejor y hacía el espacio más grande y porque, aunque no lo dijo entonces, le gustaba verla ahí por las mañanas cuando se maquillaba, el reflejo largo capturándola entera.
@@ -323,7 +332,15 @@ Daniela no pregunta si quiere aprender.
 
 Lo sienta. Abre el primer pincel. Empieza.
 
-La base va primero — el tono que le corresponde a este piel, que Daniela encuentra sin dudar entre los tres o cuatro que hay en el cajón. El pincel trabaja en círculos pequeños, hacia afuera desde el centro, y la sensación es extraña de una manera que no tiene vocabulario todavía: ser el lienzo. Ser la superficie sobre la que alguien trabaja con concentración técnica, con criterio, con saber exactamente qué quiere conseguir.
+La base va primero — el tono que le corresponde a esta piel, que Daniela encuentra sin dudar entre los tres o cuatro que hay en el cajón.
+
+El pincel toca la mejilla.
+
+Frío. Un segundo — frío. Y después el calor del propio cuerpo devuelto por la cerda fina, que se abre bajo la presión mínima y arrastra la base con esa resistencia casi imperceptible del material sobre la piel viva. El peso del mango es menor de lo que esperaba. Los círculos pequeños, hacia afuera desde el centro, trazan una geometría que él reconoce desde afuera — la vio cientos de veces — y que desde adentro es completamente distinta.
+
+La sensación llega antes que el pensamiento.
+
+El pensamiento llega después: ser el lienzo. Ser la superficie sobre la que alguien trabaja con concentración técnica, con criterio, con saber exactamente qué quiere conseguir.
 
 *Ella conoce este rostro mejor que yo.*
 
@@ -358,6 +375,14 @@ Esto es solo maquillaje, se dice. Esto no cambia nada. El que está en el espejo
 El espejo no confirma nada de eso.
 
 En el espejo hay alguien que lo mira de vuelta y que no parece un accidente.
+
+*Va a estar ahí todo el día.*
+
+Todo el día con esa cara. Las capas adheridas a la piel, el delineado que no se va a correr solo, el color en los labios que dejará marca en cualquier superficie que toque. Horas todavía por delante con ese rostro — con ese rostro que él construyó, en ese espejo, mirándolo desde adentro.
+
+*Todo el día en este cuerpo maquillado que—*
+
+*(Para.)*
 
 ---
 
@@ -486,6 +511,12 @@ Los pezones perforados presionan contra el vinilo.
 No constantemente. Solo cuando el tejido roza en el ángulo exacto. Pero el tejido roza constantemente en ese ángulo porque el vinilo y los pechos y la postura y el andar lo hacen inevitable, y esa sensibilidad nueva que no existía esta mañana lleva horas siendo parte del inventario del cuerpo sin que él la haya autorizado a serlo.
 
 Mira el reflejo.
+
+Lleva ocho horas en este cuerpo y el cuerpo lleva ocho horas acumulando.
+
+El maquillaje todavía intacto — no borrado, no corrido, adherido a la piel como si fuera de ahí. El vinilo que a las tres era frío y preciso y a las once es caliente y conocido, que pesa diferente ahora, con el calor de horas encima, con la acumulación silenciosa de movimientos que el cuerpo aprendió a hacer dentro del material sin que nadie se lo pidiera. Los tacones que ya no lleva pero cuya postura sigue instalada en la musculatura lumbar, ese ajuste que el cuerpo adoptó solo y que no deshace aunque los zapatos lleven una hora apoyados contra la pared. Y los pezones perforados — que llevan horas siendo parte del mapa corporal sin haber pedido permiso, que presionan contra el vinilo con cada respiración, que ya no son exactamente dolor y que el cuerpo ya aprendió a incluir en el inventario de lo que existe.
+
+Todo eso. Todo junto. Todo en el mismo reflejo.
 
 No es horror lo que siente.
 

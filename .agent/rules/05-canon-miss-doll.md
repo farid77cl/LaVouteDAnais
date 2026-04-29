@@ -1,31 +1,40 @@
 ---
-paths: 05_Imagenes/miss_doll/**/*, 02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md
+paths: 05_Imagenes/miss_doll/**/*, 02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md, 02_Personajes/01_Principales/ficha_miss_doll.md
 ---
 
-# 🎀 CANON VISUAL: MISS DOLL (V3.5 STEALTH PROTOCOL)
+# CANON VISUAL: MISS DOLL (V3.5 STEALTH)
 
-Miss Doll ha evolucionado de una simple "bimbo" a una **Depredadora Camaleónica**. Su estética es una armadura de supervivencia.
+Fuente de verdad: `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`.
 
-## 📐 CONFIGURACIÓN FÍSICA
+Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradiccion entre este resumen y el canon master, manda el canon master.
 
-- **Pelo:** Bob platino perfectamente simétrico. 
-- **FRENTE:** SIEMPRE despejada (**Sin flequillo**). Esto simboliza su autoridad y control "Stealth".
-- **Piel:** Porcelana perfecta, textura plástica super pulida (NO rosada).
-- **Labios:** SIEMPRE rojos intensos con acabado **High-Gloss**.
-- **Ojos:** Mirada de disociación profesional (Face of the Pole).
+## Identidad Visual Obligatoria
 
-## 👗 VESTUARIO Y ACCESORIOS
+- **Personaje:** mujer adulta, glamour editorial, presencia fria y estrategica.
+- **Pelo:** platinum blonde sharp bob, preferentemente asymmetric/angular.
+- **Frente:** SIEMPRE despejada. Usar `clear exposed forehead, NO BANGS`.
+- **Piel:** `pale porcelain white skin with realistic human texture and subtle visible pores`.
+- **Ojos:** grey / icy blue-grey, mirada de disociacion profesional (`Face of the Pole`).
+- **Labios:** SIEMPRE rojos glossy/satin. No nude, no pink.
+- **Maquillaje:** heavy glamour, bronze/black/champagne smokey eyes, thick black winged eyeliner, mega lashes, strong contour.
+- **Tatuajes:** `NO TATTOOS` por defecto. Solo usar blackwork si el usuario pide una variante legacy explicitamente.
 
-- **Corsé:** Rosa vibrante visible en el 90% de los looks. Es su núcleo de poder.
-- **Materiales:** Látex, PVC, Vinilo.
-- **Colores:** Rosa, coral, menta, turquesa, lavanda, neón, rose gold.
-- **Tactical-Minimalist:** Mezcla de fetiche clásico con elementos tácticos (correas, hebillas, funcionalidad).
+## Vestuario y Materiales
 
-## 🧠 PERSONALIDAD Y NARRATIVA (SOCIOLOGÍA VEROSÍMIL)
+- **Centro del look:** corset visible o arquitectura de corset integrada.
+- **Materiales:** latex, PVC, vinilo, neopreno tecnico, Cordura, chrome hardware, black tactical webbing.
+- **Paleta:** neon/hot/dusty pink como firma; negro carbon, chrome, blanco, champagne, coral, mint, turquoise, lavender o rose gold como variantes controladas.
+- **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats.
+- **Estilo:** Tactical-Minimalist: fetiche sintetico + equipo tactico de alta gama. No disfraz barato.
 
-- **El Personaje:** Pink princess vacía, silenciosa y perfecta.
-- **La Mujer:** Fría, calculadora, resiliente. Sabe leer el deseo ajeno sin confundirse con él.
-- **Voz:** Alterna entre una liturgia ritual elegante y una crudeza vulgar (barrio) cuando se rompe la máscara.
-- **Hipnosis:** Su método de control nace de la inteligencia social extrema desarrollada en los clubs.
+## Prompt Base Corto
 
-> **Regla de Oro:** Si cubre demasiado, no sirve a La Voûte. Pero si es vulgar, no es Miss Doll. El equilibrio es la Perfección Artificial.
+```text
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with fixed professional dissociation gaze, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, full glossy red lips, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, structural high-gloss neon pink latex/vinyl outfit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, cinematic editorial lighting, photorealistic 8k
+```
+
+## Negative Prompt Corto
+
+```text
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, pink lips, nude lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, tattoos, casual outfit, flat shoes, sneakers, vulgar cheap costume
+```

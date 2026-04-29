@@ -1,12 +1,12 @@
 # Walkthrough: La Piel que Diseno
 
 ## Estado Actual
-- **Fase:** 4 — Escritura (arco reestructurado, capítulo pendiente de reescritura)
+- **Fase:** 8 — Gate Ama (entrega final)
 - **Capítulo Activo:** 1
-- **Archivo Activo:** ninguno — v0.5 obsoleto, pendiente nueva escritura
-- **Iteración Crítico:** N/A
-- **Último Gate Aprobado:** Fase 2 — arco_maestro_v1.md reestructurado (29/04)
-- **Próxima Acción:** Invocar Escritor (Fase 4) → nueva v0.1 con estructura reestructurada
+- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.3.md`
+- **Iteración Crítico:** 3/3 completadas — score final 9.6 EXCELENCIA
+- **Último Gate Aprobado:** Fase 7 — Centinela APROBADO, 0 inconsistencias (29/04)
+- **Próxima Acción:** Gate Ama → si aprueba → Gold Master v1.0
 
 ## Historial de Fases (Capítulo 1)
 | Fase | Estado | Fecha | Nota |
@@ -14,9 +14,11 @@
 | 1 - Concepción | ✅ | 23/04 | Concepto aprobado |
 | 2 - Arquitectura | ✅ | 29/04 | `arco_maestro_v1.md` reestructurado — nuevo opening pánico/poder, multa 100M |
 | 3 - Personajes | ✅ | 23/04 | `personajes/matias.md` + `personajes/daniela.md` |
-| 4 - Escritura | 🔄 | — | Pendiente — v0.1 a v0.5 obsoletos por reestructuración del arco |
-| 5 - Auditoría | ⏳ | — | Pendiente |
-| 6 - Refinamiento | ⏳ | — | Pendiente |
+| 4 - Escritura | ✅ | 29/04 | `capitulo_01_el_primer_dia_v0.1.md` — 5,849 palabras, 11/11 compromisos |
+| 5 - Auditoría | ✅ | 29/04 | Crítico 7.0 (CIRUGÍA, 5 instrucciones) + Contador 11/11 OK |
+| 6 - Refinamiento | ✅ | 29/04 | 3 iter: v0.1(7.0)→v0.2(8.2)→v0.3(9.6 EXCELENCIA). Salida automática del bucle |
+| 7 - Centinela | ✅ | 29/04 | APROBADO — 0 inconsistencias, 13/13 compromisos, coherencia temporal limpia |
+| 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
 | 7 - Centinela | ⏳ | — | Pendiente |
 | 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
 

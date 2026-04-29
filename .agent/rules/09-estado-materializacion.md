@@ -32,13 +32,13 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 ---
 
-## 🎀 ESTADÍSTICAS DE MISS DOLL (V3.5)
+## 🎀 ESTADÍSTICAS DE MISS DOLL (V5.0)
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Canon Activo** | **V3.5 Stealth** | ✅ Validado |
+| **Canon Activo** | **V5.0 Realismo Couture** | ✅ Validado |
 | **Looks Disponibles** | **5** | 🟢 Activo |
-| **Materializados** | **0** | 🔴 Pendiente de Re-Materialización Stealth |
+| **Materializados** | **0** | 🔴 Pendiente de Debut V5.0 |
 
 ---
 

@@ -19,12 +19,13 @@
 
 ### 🎨 BIBLIA VISUAL PARA CÓMIC (CANON DEFINITIVO)
 
-> **Referencia Visual:** `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
+> **Fuente de verdad visual:** `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`
+> **Referencias visuales aprobadas:** `05_Imagenes/miss_doll/Reference/README.md`
 
 #### [ADN_MISS_DOLL_V3.5_STEALTH] (Prompt Maestro Invariable)
 
 ```text
-High-end editorial fashion photography of a stunning fashion model with a sharp platinum blonde asymmetric bob. Face features curated editorial makeup: high-gloss nude lips, intense grey eyes with sharp precision eyeliner. Expression is cold and commanding, an authoritative gaze of a self-made leader. Wearing a high-gloss polished synthetic structural bodysuit in vibrant neon pink, featuring rigid architectural elements and chrome hardware. 10-inch designer platform boots in matching polished pink. Standing in an aggressive high-fashion pose in a dark industrial gallery with pink neon rim lighting. Cinematic lighting, sharp metallic reflections, 8k photorealistic quality, Vogue-inspired composition.
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, full glossy red lips with precise overlined shape, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 #### Tabla de Referencia Visual
@@ -34,18 +35,18 @@ High-end editorial fashion photography of a stunning fashion model with a sharp 
 | **Estilo** | Fotografía Editorial de Alta Costura, Vogue-style |
 | **Cabello** | Bob platino asimétrico, **frente despejada (sin flequillo)** |
 | **Ojos** | Gris afilado, mirada depredadora, delineado de precisión |
-| **Labios** | Ultra-voluminosos, gloss nude, expresión fría o "fake sweet" |
-| **Piel** | Porcelana quirúrgica, brillo especular alto, sin imperfecciones |
+| **Labios** | Ultra-voluminosos, rojo glossy/satin, expresión fría o "fake sweet" |
+| **Piel** | Porcelana pálida realista, textura humana visible, no maniquí |
 | **Silueta** | Reloj de arena agresivo, cintura de avispa, busto prominente |
 | **Actitud** | Vulgaridad de poder, dureza callejera, autoridad absoluta |
-| **Paleta** | Monocromo Rosa Neón / Magenta / Chrome |
+| **Paleta** | Rosa neón/hot/dusty como firma; negro carbón, chrome y blanco como contraste |
 
 #### ⚠️ Reglas de Consistencia
 
 1. **SIN FLEQUILLO:** La frente despejada es el diferenciador clave contra Ele.
 2. **THE SWITCH:** Su expresión puede variar de "falsa dulzura" a "frialdad criminal".
-3. **HISTORIA EN EL CUERPO:** El físico Bimbo es un arma táctica construida por ella misma.
-4. **MATERIALIDAD:** Siempre materiales sintéticos (látex/vinilo), nunca telas naturales.
+3. **NO TATTOOS POR DEFECTO:** La piel limpia sostiene el perfil Stealth. Blackwork solo como variante legacy explícita.
+4. **MATERIALIDAD:** Siempre materiales sintéticos/técnicos (látex, PVC, vinilo, neopreno, Cordura), nunca telas naturales como base.
 
 #### 🌐 Recursos Hosteados (URLs para HTML)
 
@@ -69,13 +70,15 @@ La silueta proyecta sombras marcadas bajo el busto y crea una arquitectura corpo
 
 ### Paleta Cromática
 
-**Canon visual:** Monocromo rosa en todas las variantes
+**Canon visual:** Rosa como firma visual, con contraste Stealth controlado.
 
 **Tonos:**
 
-- Baby Pink (rosa pastel)
-- Rosa Neón (rosa flúor)
-- El corset siempre es 10% más oscuro que el resto del look
+- Dusty Pink / Baby Pink para el modo Auditora.
+- Hot Pink / Rosa Neón / Magenta para el modo Latex Icon.
+- Negro carbón, chrome, blanco latex y champagne técnico como contraste.
+- Coral, menta, turquesa, lavanda y rose gold solo como variantes controladas.
+- El corset suele ser 10% más oscuro o más estructural que el resto del look.
 
 **Materiales y acabados:**
 
@@ -92,7 +95,7 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 
 | Contexto | Keywords OBLIGATORIAS | Color HEX Referencia |
 |----------|----------------------|---------------------|
-| **Canon Base (95% de imágenes)** | `pale porcelain white skin, flawless doll-like complexion, no tan, very fair skin tone` | #F5E6E0 |
+| **Canon Base (95% de imágenes)** | `pale porcelain white skin with realistic human texture and subtle visible pores, no tan, very fair skin tone` | #F5E6E0 |
 | **Variante Pool/Bikini/Playa** | `warm bronzed skin, golden tan, sun-kissed glow` | #D4A574 |
 
 > 🎯 **REFERENCIA VISUAL APROBADA:** `miss_doll_bob_asymmetric` (sesión 15/01/2026) tiene el tono de piel EXACTO deseado para el canon base.
@@ -100,12 +103,12 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 > ⚠️ **PROBLEMA COMÚN:** El tono de piel varía entre generaciones. SIEMPRE incluir explícitamente `pale porcelain white skin` o `warm bronzed skin` según contexto.
 
 **Características de Textura:**
-- Acabado satinado, sin poros visibles
+- Acabado satinado, con poros sutiles y textura humana realista
 - Semi-gloss controlado (roughness 0.08–0.12)
 - Hotspots definidos en tibia, muslo, hombros y clavículas
-- No hay sudor; el brillo proviene del material mismo
+- No hay sudor excesivo; el brillo principal proviene del material y la luz editorial
 
-> **NUNCA usar:** `natural skin tone`, `warm skin`, `healthy complexion` (generan inconsistencias)
+> **NUNCA usar:** `natural skin tone`, `warm skin`, `healthy complexion`, `wax skin`, `plastic mannequin skin` (generan inconsistencias)
 
 **Rostro y Maquillaje (CANON ACTUALIZADO 2026-01-15):**
 
@@ -116,22 +119,22 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 | **Estructura** | Ovalado con pómulos altos y prominentes | `oval face, high prominent cheekbones` |
 | **Contour** | HEAVY contour profesional, pómulos esculpidos, nariz afinada | `heavy professional contour, sculpted cheekbones, chiseled contour, nose contour` |
 | **Nariz** | Delicada y refinada, respingona tipo "doll nose" | `small refined upturned doll nose` |
-| **Ojos** | Grandes con smokey eye INTENSO, shimmer, glitter | `HEAVY GLAMOUR EYE MAKEUP, intense smokey eye, pink shimmer eyeshadow, glitter inner corners, dramatic eye makeup` |
+| **Ojos** | Grandes con smokey eye INTENSO en bronce/negro/champagne | `HEAVY GLAMOUR EYE MAKEUP, intense bronze and black smokey eye, champagne shimmer inner corners, dramatic eye makeup` |
 | **Delineado** | Cat-eye GRUESO dramático, winged liner exagerado | `thick dramatic cat-eye liner, exaggerated winged eyeliner` |
 | **Pestañas** | MEGA volume, densas, foxy/wispy | `mega volume false lashes, dramatic wispy lashes, extra long lashes` |
 | **Cejas** | Muy altas, arqueadas, perfetamente definidas | `high arched defined brows, villain arch eyebrows, heavily filled brows` |
-| **Labios** | ULTRA PLUMP sobredelineados glossy | `ULTRA PLUMP overlined glossy lips, bee-stung lips, exaggerated lip liner, wet shine lips` |
+| **Labios** | ULTRA PLUMP sobredelineados glossy, siempre rojos | `ULTRA PLUMP overlined glossy red lips, bee-stung lips, exaggerated red lip liner, wet shine lips` |
 | **Expresión** | Labios entreabiertos, mirada dreamy vacía | `parted glossy lips, dreamy seductive vacant stare` |
 
 **Colores de Labios (rotación):**
 
 | Color | Uso | Keywords |
 |-------|-----|----------|
-| **Hot Pink** | Canon principal | `hot pink glossy lips, magenta overlined lips` |
-| **Rojo** | Escenas intensas | `red glossy overlined lips, crimson lips` |
-| **Nude Rosa** | Variante suave | `nude pink glossy overlined lips` |
+| **Rojo glossy** | Canon principal | `full glossy RED lips, precise overlined red lips` |
+| **Rojo cereza** | Escenas intensas | `full glossy CHERRY RED lips, crimson lips` |
+| **Rojo satinado** | Variante editorial suave | `soft satin red lipstick, sculpted red lip liner` |
 
-> ⚠️ **NUNCA usar:** `natural makeup`, `subtle makeup`, `no makeup look`, `fresh-faced`
+> ⚠️ **NUNCA usar:** `natural makeup`, `subtle makeup`, `no makeup look`, `fresh-faced`, `pink lips`, `nude lips`, `pink eyeshadow`
 
 > **Referencia Visual:** `05_Imagenes/miss_doll/referencia_canon_miss_doll.jpg`
 
@@ -200,7 +203,7 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 - Choker liso sin adornos
 - Uñas XXXL stiletto baby-pink gloss
 
-**Regla de oro:** Monocromo rosa siempre; accesorios superfluos (candados, bows) eliminados para mantener pureza del canon.
+**Regla de oro:** El rosa es firma visual, no cárcel cromática. Puede combinarse con negro carbón, chrome, blanco o champagne técnico, pero el look debe seguir leyendo como Miss Doll Stealth.
 
 ### 🎭 Actitud Escénica: Los 4 Pilares del Exotic Pole
 
@@ -355,7 +358,7 @@ Miss Doll es una mezcla fascinante de contrastes que la hacen magnética e impre
    - Domina lectura de sala y ritmo del público
 
 2. **Definición del Canon**
-   - Adopta monocromo rosa y corsetería técnica
+   - Adopta rosa como firma visual y corsetería técnica
    - Fija la mirada "Venus"
    - Establece proporciones hiperbólicas
 
@@ -1170,7 +1173,7 @@ Este documento constituye el canon definitivo de Miss Doll para el universo de L
 
 - Toda la filosofía y personalidad
 - Métodos de transformación documentados en relatos
-- Estética visual (monocromo rosa, proporciones)
+- Estética visual (rosa como firma, contraste Stealth, proporciones)
 - Frases características y mantras
 - Conexiones con otros personajes de La Voûte
 
