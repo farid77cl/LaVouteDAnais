@@ -4005,7 +4005,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **PROMPT 7 — Lying Down — The Odalisque:**
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, high-gloss liquid-platinum chrome vinyl micro-dress with structural rigid PVC shoulder extensions, ultra-deep V-neckline plunging to the navel piercing, the dress clinging to the skin like a second metallic layer, 14k white gold nipple piercings pressing prominently through the high-gloss chrome vinyl. 11-inch matching liquid-platinum chrome stiletto heels with needle-thin mirror-finish heels. Mirror-finish silver choker, chrome skeletal hand cuffs on both wrists, XXXL French nails with mirrored silver tips, full body lying on side forming a languid S-curve on a black mirror floor, one arm extended with mirrored silver nails on surface, legs slightly bent, 11-inch chrome needle heels pointed and visible, vacant expression looking into distance.
 
-### 📸 Imágenes (6/7 — Parcial / Quota Limit)
+### 📸 Imágenes (7/7 — Completo)
 
 | Pose | Previsualización |
 |------|---------|
@@ -4015,64 +4015,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) |
 | **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png) |
-| **Lying Down** | 📸 *Pending Generation* |
-ooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel, first-person POV looking down over own body, XXXL French nails resting on the violet latex lap, full bust and latex texture in foreground, perspective converging down to the pointed tips of the 11-inch metallic lilac stiletto heels on marble.
-
-
-
-**PROMPT 7 — Lying Down — The Odalisque:**
-
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, floor-length high-gloss violet latex column gown with dramatic front side slit to upper thigh, chrome silver architectural standing collar with sweeping upward spikes (Mugler-inspired, 12cm), 14k white gold nipple piercings pressing prominently and visibly through the tight violet latex, chrome silver evening clutch under arm, 11-inch metallic lilac patent leather stiletto heels with chrome needle heel, full body lying on side forming a languid S-curve on a velvet sofa, one arm extended, legs slightly bent, 11-inch needle heels pointed and visible, vacant expression.
-
-
-
-### 📸 Imágenes (6/7 — Parcial / Quota Limit)
-
-| Pose | Previsualización |
-|------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) |
-| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png) |
-| **Lying Down** | ⏳ *Pending Quota Reset* |
-
-|------|---------|
-
-
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png) |
-
-
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) |
-
-
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) |
-
-
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) |
-
-
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) |
-
-
-| **POV** | ⏳ *Pending Quota Reset* |
-
-
-| **Lying Down** | ⏳ *Pending Quota Reset* |
-
-
-
-
-
-|------|---------|
-| **Standing** | Ã¢ÂÂ³ *Pending Generation* |
-| **Back View** | Ã¢ÂÂ³ *Pending Generation* |
-| **Seated** | Ã¢ÂÂ³ *Pending Generation* |
-| **Side Profile** | Ã¢ÂÂ³ *Pending Generation* |
-| **Ditzy** | Ã¢ÂÂ³ *Pending Generation* |
-| **POV** | Ã¢ÂÂ³ *Pending Generation* |
-| **Lying Down** | Ã¢ÂÂ³ *Pending Generation* |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose7_lying.png) |
 
 ---
 
@@ -4088,17 +4031,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Boardroom de cristal, rascacielos
 - **Categoría:** Mix (Corporate)
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7 — Completo)
 
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_ditzy.png) |
-| **POV** | ![POV](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pov.png) |
-| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look155_high_voltage_corporate/ele_155_lying.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose7_lying.png) |
+
 
 ---
 
@@ -4115,17 +4059,18 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Escenario con neón y humo
 - **Categoría:** Mix (Artístico)
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7 — Completo)
 
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_ditzy.png) |
-| **POV** | ![POV](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pov.png) |
-| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_lying.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png) |
+
 
 ---
 
@@ -4150,7 +4095,21 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 6. **POV:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, bubblegum pink high-shine satin wiggle dress, transparent PVC apron with white lace trim, pink vinyl headband, 10-inch white marabou feather mules with chrome needle heels, first-person POV looking down over the pink satin bust and the white lace of the apron, XXXL nails holding a tray.
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, bubblegum pink high-shine satin wiggle dress, transparent PVC apron with white lace trim, pink vinyl headband, 10-inch white marabou feather mules with chrome needle heels, languid S-curve lying on a kitchen counter, pink satin reflecting the clean white surfaces, feather mules visible.
 
+
+### 📸 Imágenes (7/7 — Completo)
+
+| Pose | Previsualización |
+|------|---------|
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose7_lying.png) |
+
 ---
+
 
 ## 📸 Look 158: Midnight Escort Gala
 **Fecha:** 28/04/2026

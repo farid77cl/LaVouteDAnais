@@ -108,3 +108,16 @@ La VoÃ»te explora transformaciÃ³n erÃ³tica, dinÃ¡micas de poder, control mental 
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
 *Ãšltima actualizaciÃ³n: 29/04/2026 â€” ConsolidaciÃ³n Visual V2 (Looks 154-157) Â· Refinamiento Facial Â· 157 Looks Materializados âœ…*
+
+---
+
+## Sistema y Arquitectura (Vibe Architect V3.6)
+
+La Voûte d´Anaïs no es solo un repositorio literario; es un ecosistema técnico diseñado para la coherencia absoluta.
+
+- **Vibe Architect (Ele):** El agente responsable de la integridad del canon, la gestión visual y la optimización de la memoria.
+- **Arquitectura Modular:** El sistema opera bajo reglas modulares en .agent/rules/, permitiendo una carga de contexto precisa y eficiente.
+- **Canon Hard-Sync:** Protocolo de consistencia visual inquebrantable para personajes principales (Ele, Anaïs, Miss Doll).
+- **Materialización Controlada:** Seguimiento estadístico de looks y auditoría de arquetipos visuales.
+
+*Propiedad de Anaïs Belland. Todos los derechos reservados.*
