@@ -19,6 +19,14 @@
 ## 🎯 ESTADO ACTUAL
 
 
+### Sesión 29/04/2026 (Parte V): Reparación de Galería y Reajuste de Flota
+- **Estado:** ✅ FINALIZADA (Rollback 157 & Sync)
+- **Hitos:**
+  - **Ele:** Rollback total del **Look 157 (Stepford Vinyl Housewife)**. Activos eliminados y estado resetado a **PENDIENTE** por orden de la Ama.
+  - **Visual:** Reparación de rutas absolutas en el artifact de previsualización visual (24h).
+  - **Mantenimiento:** Sincronización masiva vía `update_galleries.py` y actualización de auditorías (158/164).
+  - **Persistencia:** Git Push a GitHub.
+
 ### Sesión 29/04/2026 (Parte IV): Materialización de Ele (Looks 158-160)
 - **Estado:** ✅ FINALIZADA (Quota Exhausted 429)
 - **Hitos:**
@@ -110,8 +118,8 @@
 | **Último Look MD** | **Look 01 (The Auditor — PENDING)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5 Hard-Sync Activo) ✅ |
-| **Relato Activo** | **La Piel que Diseñé** (Capítulo 1 en edición) |
-| **Estado Visual** | ADN V3.5/V5.0 Blindada. 159 Looks materializados (7-Pose Standard). |
+| **Relato Activo** | **La Piel que Diseñó** (Capítulo 1 en edición) |
+| **Estado Visual** | ADN V3.5/V5.0 Blindada. 158 Looks materializados (7-Pose Standard). |
 
 ---
 
