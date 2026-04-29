@@ -929,23 +929,146 @@ Las medias de nylon o seda son un elemento **opcional** — presentes cuando el 
 
 ---
 
-*galeria_looks_anais.md v8.0 — Anaïs Belland — 28/04/2026*
-*27 looks · 112 prompts · ADN Ageless V2.2 · Estructura A+B+C · Protocolo Hard-Sync*
-*Outfits: 01-11 (Varios) · L01-L06 Lencería · 15-17 Night Gowns · 18-19 Retro Lingerie · 20-21 Latex · 22-24 Animal Print V2.3*
- black trim, high-shine black latex pencil skirt with a high slit, black latex neck corset with silver hardware, black latex opera gloves, black latex stockings, 12cm black patent leather stiletto heels with iconic red soles. Close-up on the face and neck corset, silver hardware reflecting light, intense dominant expression.`
+## 🐅 Look 25: Tiger Empress — Seda y Garra [MATERIALIZADO ✅]
+**Arquetipo:** High-Fashion / Matriarch · **Paleta:** Tigre Clásico + Negro · **Con medias**
+**Referencia:** Autoridad felina en seda pesada.
 
-### 📸 Imágenes (0/5 - ⏳ Pendiente)
-
-| Pose | Archivo |
-|------|---------|
-| **Standing** | `anais_look21_standing.png` |
-| **Back** | `anais_look21_back.png` |
-| **Seated** | `anais_look21_seated.png` |
-| **Side Profile** | `anais_look21_side.png` |
-| **Close-up** | `anais_look21_closeup.png` |
+**BLOQUE B:**
+`floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles`
 
 ---
 
-*galeria_looks_anais.md v7.5 — Anaïs Belland — 27/04/2026*
-*24 looks · 103 prompts · ADN Ageless V2.2 · Estructura A+B+C · Protocolo Hard-Sync*
-*Outfits: 01-11 (Varios) · L01-L06 Lencería · 15-17 Night Gowns · 18-19 Retro Lingerie · 20-21 Latex*
+**POSE 1 — standing_authority:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. floor-length heavy silk gown with realistic tiger print (orange/black), high-neck, long sleeves, tightlaced black silk corset worn over the gown, long black satin opera gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles. Standing in a grand library with dark wood paneling, one hand resting on a leather-bound book, cold gaze of a queen surveying her knowledge, the tiger print silk reflecting the warm light.`
+
+---
+
+## 🐊 Look 26: Crocodile CEO — Piel de Poder
+**Arquetipo:** Corporate Power / Exotic · **Paleta:** Cocodrilo Negro + Oro · **Sin medias**
+**Referencia:** Textura de depredadora en el boardroom.
+
+**BLOQUE B:**
+`black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase`
+
+---
+
+**POSE 1 — boardroom_dominance:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black faux-crocodile leather trench coat worn as a dress, cinched at the waist with a wide gold-buckle belt, high collar, 12cm black patent leather stiletto heels with iconic red soles, gold statement necklace, black leather briefcase. Seated at the head of a massive glass conference table, looking down at the camera with absolute corporate authority, the crocodile texture gleaming under cold office lights.`
+
+---
+
+## 🐄 Look 27: Dalmatian High-Fashion — Noir Editorial
+**Arquetipo:** High-Fashion / Cruella · **Paleta:** B&W Dálmata + Rojo · **Con medias**
+**Referencia:** Estética editorial de alto contraste.
+
+**BLOQUE B:**
+`oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick`
+
+---
+
+**POSE 1 — editorial_profile:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. oversized dalmatian print faux-fur coat, worn over a black latex bodysuit, red leather opera gloves, black fishnet stockings, 12cm black patent leather stiletto heels with iconic red soles, large black brimmed hat, dark red lipstick. Side profile view, the dalmatian coat creating a massive silhouette, red gloves providing a sharp pop of color, dramatic avant-garde lighting.`
+
+---
+
+## 🐍 Look 28: Midnight Python Lingerie — Intimidad Prohibida
+**Arquetipo:** Retro Lingerie / Exotic · **Paleta:** Pitón Negro/Gris + Plata · **Con medias**
+**Referencia:** Depredación en el boudoir.
+
+**BLOQUE B:**
+`python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker`
+
+---
+
+**POSE 1 — boudoir_gaze:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. python skin patterned silk lingerie set (black/grey), matching python silk robe with silver trim, black lace garter belt, black sheer stockings, 12cm silver metallic stiletto heels with iconic red soles, silver choker. Lying on a bed with black silk sheets, supporting herself on one elbow, the python robe slipping off her shoulder, intense predatory bedroom gaze.`
+
+---
+
+## 🏺 Look 29: Golden Cobra Gala — Majestuosidad Exótica
+**Arquetipo:** Night Gowns / Exotic · **Paleta:** Oro Cromo + Negro · **Sin medias**
+**Referencia:** Lujo escamoso y divinidad.
+
+**BLOQUE B:**
+`body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry`
+
+---
+
+**POSE 1 — gala_entrance:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. body-con dress made of gold metallic scale-textured fabric, floor-length with a deep slit, black velvet cape with gold embroidery, 12cm black patent leather stiletto heels with iconic red soles, heavy gold snake-shaped jewelry. Standing at the top of a grand marble staircase, the gold scales reflecting the ambient light like a liquid cobra, one hand on the velvet cape.`
+
+---
+
+## 🐾 Look 30: Velvet Panther — Dominio Nocturno
+**Arquetipo:** Night Gowns / Noir · **Paleta:** Negro Profundo + Plata · **Con medias**
+**Referencia:** Elegancia depredadora y misterio.
+
+**BLOQUE B:**
+`tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip`
+
+---
+
+**POSE 1 — panther_prowl:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. tight black velvet jumpsuit with a plunging neckline, silver leopard-print sequins on the shoulders, wide black leather belt, black sheer gloves, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, silver whip. Walking through a dimly lit mansion hallway, whip in hand, the velvet absorbing the light, a look of focused dominance.`
+
+---
+
+## 🦚 Look 31: Peacock Silk — Opulencia Real
+**Arquetipo:** High-Fashion / Matriarch · **Paleta:** Azul Joya + Esmeralda + Oro · **Sin medias**
+**Referencia:** Lujo barroco y colores reales.
+
+**BLOQUE B:**
+`emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar`
+
+---
+
+**POSE 1 — royal_seated:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green heavy silk robe with intricate peacock feather embroidery in sapphire and gold, worn over a black satin slip, gold stiletto heels (12cm) with iconic red soles, oversized emerald cocktail ring, heavy gold collar. Seated in an ornate antique throne-like chair, peacock feathers framing her figure, looking directly at the viewer with cold regal superiority.`
+
+---
+
+## ❄️ Look 32: Snow Leopard Executive — Autoridad Fría
+**Arquetipo:** Corporate Power / Exotic · **Paleta:** Leopardo de Nieve (Gris/Blanco) + Plata · **Sin medias**
+**Referencia:** Lujo alpino y poder ejecutivo.
+
+**BLOQUE B:**
+`grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses`
+
+---
+
+**POSE 1 — boardroom_iciness:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. grey and white snow leopard print wool blazer, matching pencil skirt, white silk blouse, silver brooch, 12cm silver stiletto pumps with iconic red soles, platinum watch, silver framed reading glasses. Standing in front of a floor-to-ceiling window in a skyscraper, snow falling outside, holding the silver glasses, looking intensely at the camera with cold executive precision.`
+
+---
+
+## ⬛ Look 33: Obsidian Crow — Matriarca Oscura
+**Arquetipo:** High-Fashion / Noir · **Paleta:** Negro Carbón + Plumas + Plata · **Con medias**
+**Referencia:** Luto aristocrático y poder oscuro.
+
+**BLOQUE B:**
+`black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane`
+
+---
+
+**POSE 1 — dark_matriarch:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. black satin cocktail dress, oversized cape made of black iridescent crow feathers, black lace veil, black back-seam stockings, 12cm black patent leather stiletto heels with iconic red soles, obsidian jewelry, silver cane. Standing in a gothic courtyard at night, the feather cape rustling, leaning slightly on the silver cane, a powerful and mourning figure.`
+
+---
+
+## 🐉 Look 34: Emerald Reptile — Lujo Venenoso
+**Arquetipo:** Night Gowns / Exotic · **Paleta:** Verde Esmeralda + Negro + Oro · **Sin medias**
+**Referencia:** Textura de reptil y elegancia peligrosa.
+
+**BLOQUE B:**
+`emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings`
+
+---
+
+**POSE 1 — reptile_pose:**
+`sophisticated ageless dominant woman in her early 40s, perpetually youthful yet dominant. Intensive skincare glow, radiant dewy porcelain skin, perfectly smooth and firm elastic texture, high-end medical-grade cosmetic finish, airbrushed skin tension. (Aristocratic refined oval face, sculpted lifted cheekbones, sharp defined jawline:1.3), small classic Old Hollywood beauty mark mole above upper left lip, ultra precise Old Hollywood editorial makeup, precisely drawn dark brown thin arched brows 1940s style, sharp precise black cat-eye liquid liner with dramatically elongated wing at outer corner, full voluminous glamorous lashes dense and defined, vivid deep crimson classic Hollywood red lips flawlessly defined with a subtle gloss on the inner edge slightly parted in a knowing look, honey blonde hair in sculpted voluminous vintage Hollywood pin-waves or victory rolls side parted, slender mature elegant hourglass figure with extreme waist training tightlacing corset, S-curve posture, heavy-lidded bedroom eyes gaze, wearing 12cm black patent leather stiletto heels no platform iconic red sole, cinematic chiaroscuro dramatic lighting, soft key light to minimize texture and maximize glow, George Hurrell style portraiture, intimate tension. emerald green iridescent scale-textured latex gown, floor-length, open back, black leather harness over the shoulders, 12cm black patent leather stiletto heels with iconic red soles, heavy gold bracelets, emerald earrings. Standing with her back to the camera, looking over her shoulder, the scale texture shimmering like a poisonous snake, intense dominant gaze.`
+
+---
+
+*galeria_looks_anais.md v9.0 — Anaïs Belland — 28/04/2026*
+*34 looks · 122 prompts · ADN Ageless V2.2 · Estructura A+B+C · Protocolo Hard-Sync*
+*Outfits: 01-11 (Varios) · L01-L06 Lencería · 15-17 Night Gowns · 18-19 Retro Lingerie · 20-21 Latex · 22-24 Animal Print V2.3 · 25-34 Hybrid Authority Collection*

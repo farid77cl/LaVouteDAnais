@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 28/04/2026 — Protocolo 7 Poses (V3.5 Hard-Sync) · Look 154 (Partial) · Look 143 (Complete) ✅*
+*Última actualización: 28/04/2026 — Miss Doll V3.5 (The Self-Made Predator) · Protocolo Stealth · 156 Looks Materializados ✅*

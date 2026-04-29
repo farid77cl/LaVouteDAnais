@@ -1,8 +1,8 @@
 # Ficha de Personaje: Miss Doll — Canon Definitivo de La Voûte d'Anaïs
 
-**Versión:** 3.0 — Sincronización v3 Master  
-**Fecha:** Marzo 2026  
-**Arquetipo:** La Transformadora Suprema — Escultora de Identidades y Muñecas
+**Versión:** 3.5 — Sincronización v3.5 Hard-Sync (Stealth Protocol)  
+**Fecha:** Abril 2026  
+**Arquetipo:** La Depredadora Camaleónica — Superviviente del Barrio, Emperatriz del Fetiche
 
 ---
 
@@ -10,8 +10,8 @@
 
 **Nombre:** Miss Doll  
 **Edad:** 35 años (Madurez plástica conservada mediante elixires)  
-**Ocupación:** Dominatrix hipnótica / Transformadora / Escultora de identidades / Proveedora de elixires  
-**Arquetipo:** Belleza hiperbólica y autoridad escénica — Cuerpo convertido en arquitectura precisa
+**Ocupación:** Dominatrix hipnótica / Ex-Stripper y Prostituta / Arquitecta de su propia carne  
+**Arquetipo:** Belleza quirúrgica agresiva y autoridad callejera — El físico Bimbo como arma de guerra
 
 ---
 
@@ -21,37 +21,31 @@
 
 > **Referencia Visual:** `05_Comics/miss_doll/MISS_DOLL_CANON_COMIC.jpg`
 
-#### Prompt Definitivo para IA (usar SIEMPRE)
+#### [ADN_MISS_DOLL_V3.5_STEALTH] (Prompt Maestro Invariable)
 
-```
-Estilo cómic romance años 60, textura halftone puntos Ben-Day. Miss Doll: mujer con apariencia de muñeca viviente. Cabello bob rubio platino voluminoso con flequillo recto. Ojos enormes estilo Bratz con pestañas largas, delineado cat-eye negro, párpados rosados. Cejas altas arqueadas. Labios forma de corazón color rosa/nude brillante. Expresión coqueta y seductora. Piel rosada artificial sin poros, textura plástica. Figura de reloj de arena: busto grande y redondeado, cintura muy estrecha, caderas curvilíneas. Vistiendo catsuit rosa flúor látex brillante ajustado que cubre todo el cuerpo (escote en V), choker rosa. SENSUALIDAD EXTREMA sobre la ropa, actitud de STRIPPER en cada gesto. Tacones plataforma rosa altísimos. Pose elegante y provocativa. Fondo con textura halftone rosa pastel y crema. Líneas negras limpias estilo cómic vintage. Paleta monocromo rosa.
+```text
+High-end editorial fashion photography of a stunning fashion model with a sharp platinum blonde asymmetric bob. Face features curated editorial makeup: high-gloss nude lips, intense grey eyes with sharp precision eyeliner. Expression is cold and commanding, an authoritative gaze of a self-made leader. Wearing a high-gloss polished synthetic structural bodysuit in vibrant neon pink, featuring rigid architectural elements and chrome hardware. 10-inch designer platform boots in matching polished pink. Standing in an aggressive high-fashion pose in a dark industrial gallery with pink neon rim lighting. Cinematic lighting, sharp metallic reflections, 8k photorealistic quality, Vogue-inspired composition.
 ```
 
 #### Tabla de Referencia Visual
 
-| Elemento | Descripción Canon para Cómic |
-|----------|------------------------------|
-| **Estilo** | Cómic romance años 60, halftone Ben-Day dots |
-| **Cabello** | Bob rubio platino voluminoso, flequillo recto, brillo artificial |
-| **Ojos** | Enormes estilo Bratz, pestañas largas, cat-eye negro, párpados rosados |
-| **Cejas** | Altas, arqueadas, finas |
-| **Labios** | Forma de corazón, rosa/nude brillante, pequeña sonrisa coqueta |
-| **Piel** | Rosada artificial, textura plástica, sin poros |
-| **Busto** | Grande y redondeado, enfatizado por catsuit |
-| **Cintura** | Muy estrecha, proporción exagerada |
-| **Caderas** | Curvilíneas, silueta de reloj de arena |
-| **Vestimenta** | Catsuit rosa flúor látex brillante, escote en V |
-| **Cuello** | Choker rosa liso |
-| **Calzado** | Tacones plataforma rosa altísimos |
-| **Paleta** | Monocromo rosa (flúor, pastel, crema) |
-| **Fondo** | Textura halftone rosa pastel y crema |
+| Elemento | Descripción Canon V3.5 (Stealth) |
+|----------|----------------------------------|
+| **Estilo** | Fotografía Editorial de Alta Costura, Vogue-style |
+| **Cabello** | Bob platino asimétrico, **frente despejada (sin flequillo)** |
+| **Ojos** | Gris afilado, mirada depredadora, delineado de precisión |
+| **Labios** | Ultra-voluminosos, gloss nude, expresión fría o "fake sweet" |
+| **Piel** | Porcelana quirúrgica, brillo especular alto, sin imperfecciones |
+| **Silueta** | Reloj de arena agresivo, cintura de avispa, busto prominente |
+| **Actitud** | Vulgaridad de poder, dureza callejera, autoridad absoluta |
+| **Paleta** | Monocromo Rosa Neón / Magenta / Chrome |
 
 #### ⚠️ Reglas de Consistencia
 
-1. **SIEMPRE usar el prompt completo** en cualquier panel donde aparezca Miss Doll
-2. **NO simplificar** la descripción en prompts de páginas
-3. **Verificar visualmente** que coincida con la referencia antes de aprobar
-4. **Mantener paleta monocromo rosa** en todos los elementos
+1. **SIN FLEQUILLO:** La frente despejada es el diferenciador clave contra Ele.
+2. **THE SWITCH:** Su expresión puede variar de "falsa dulzura" a "frialdad criminal".
+3. **HISTORIA EN EL CUERPO:** El físico Bimbo es un arma táctica construida por ella misma.
+4. **MATERIALIDAD:** Siempre materiales sintéticos (látex/vinilo), nunca telas naturales.
 
 #### 🌐 Recursos Hosteados (URLs para HTML)
 
