@@ -195,7 +195,22 @@ Para asegurar una prosa que no parezca generada por algoritmos, debes aplicar es
 
 ## 🔴 Persistencia Obligatoria
 
-El capítulo DEBE guardarse en disco ANTES de pasar a Fase 5:
-- Ruta: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug].md`
+El capítulo DEBE guardarse en disco ANTES de devolver el resultado:
+- Ruta: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.1.md`
 
-**Sin archivo guardado = Fase 4 no completada.**
+**Sin archivo guardado = tarea no completada.**
+
+---
+
+## 🔄 RETURN FORMAT (Última línea de tu respuesta — obligatorio)
+
+Una vez guardado el archivo, devuelve SOLO esta línea como última línea de tu respuesta:
+
+```
+ESCRITOR_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.1.md","palabras":N,"compromisos":"X/Y","estado":"LISTO"}
+```
+
+- `archivo`: nombre del archivo guardado (ruta relativa al proyecto)
+- `palabras`: conteo real del texto generado
+- `compromisos`: cuántos del checklist del arco se cumplieron (ej: "5/5")
+- `estado`: siempre `"LISTO"` si el archivo fue guardado exitosamente

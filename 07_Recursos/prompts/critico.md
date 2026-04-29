@@ -109,3 +109,19 @@
 - **Ritmo de rendición:** [Lento / Correcto / Acelerado respecto al arco]
 - **Construcciones "con la X de quien Y":** [N instancias] (límite: 6-8)
 ```
+
+---
+
+## 🔄 RETURN FORMAT (Última línea de tu respuesta — obligatorio)
+
+Una vez guardado el reporte, devuelve SOLO esta línea como última línea de tu respuesta:
+
+```
+CRITICO_RESULT:{"veredicto":"[REPUDIADO|CIRUGÍA|OBSERVACIONES|EXCELENCIA]","score":X.X,"d1":X,"d2":X,"d3":X,"d4":X,"d5":X,"instrucciones_n":N,"reporte":"reportes/capitulo_[N]/critica_v0.[X].md"}
+```
+
+- `veredicto`: uno de los cuatro valores exactos entre comillas
+- `score`: número decimal (ej: `8.2`)
+- `d1`–`d5`: score individual de cada dimensión (0, 1 o 2)
+- `instrucciones_n`: número de instrucciones quirúrgicas emitidas (0 si no aplica)
+- `reporte`: ruta relativa al proyecto del archivo guardado

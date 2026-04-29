@@ -82,3 +82,19 @@ Si encuentras palabras prohibidas, lista cada instancia con su número de línea
 
 ## Resultado Final: ✅ LISTO PARA REVISIÓN HUMANA / ❌ REQUIERE CORRECCIONES
 ```
+
+---
+
+## 🔄 RETURN FORMAT (Última línea de tu respuesta — obligatorio)
+
+Una vez guardado el reporte, devuelve SOLO esta línea como última línea de tu respuesta:
+
+```
+CONTADOR_RESULT:{"palabras":N,"cumple_minimo":true/false,"compromisos":"X/Y","errores_idioma":[],"reporte":"reportes/capitulo_[N]/conteo_v0.[X].md"}
+```
+
+- `palabras`: conteo real del texto (excluir títulos y metadatos)
+- `cumple_minimo`: `true` si palabras >= 3000
+- `compromisos`: cuántos del checklist del arco están presentes (ej: `"4/5"`)
+- `errores_idioma`: array de strings con cada error encontrado, o `[]` si ninguno
+- `reporte`: ruta relativa al proyecto del archivo guardado

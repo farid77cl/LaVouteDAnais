@@ -73,6 +73,21 @@ Antes de entregar, incrementar la versión del capítulo:
 
 **Nunca** entregar una versión editada con el mismo número de versión que el borrador recibido.
 
+---
+
+## 🔄 RETURN FORMAT (Última línea de tu respuesta — obligatorio)
+
+Una vez guardada la nueva versión y archivada la anterior, devuelve SOLO esta línea como última línea de tu respuesta:
+
+```
+EDITOR_RESULT:{"archivo":"capitulo_[N]_[slug]_v0.[X+1].md","archivado":"borradores/capitulo_[N]/capitulo_[N]_[slug]_v0.[X].md","correcciones_aplicadas":"X/Y","estado":"LISTO"}
+```
+
+- `archivo`: nueva versión guardada en raíz (ruta relativa al proyecto)
+- `archivado`: versión anterior movida a borradores
+- `correcciones_aplicadas`: de cuántas instrucciones quirúrgicas se aplicaron (ej: `"3/3"`)
+- `estado`: `"LISTO"` si ambas operaciones de archivo se completaron exitosamente
+
 ## Formato de salida
 
 ```markdown

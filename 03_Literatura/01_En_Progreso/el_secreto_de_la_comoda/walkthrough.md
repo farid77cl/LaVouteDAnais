@@ -1,8 +1,40 @@
-# Walkthrough: El Secreto de la Cómoda — Reestructuración del Arco
+# Walkthrough: El Secreto de la Cómoda
 
-**Estado:** Aprobado por la Ama ✓  
-**Fecha:** 2026-04-07  
-**Agente:** Orquestador
+## Estado Actual
+- **Fase:** 8 — Entrega pendiente Gate Ama (Cap 2)
+- **Capítulo Activo:** 2
+- **Archivo Activo:** `capitulo_2_el_espejo_humillante_v1.1.md`
+- **Iteración Crítico:** completada (v1.0 aprobado 10/10 + Centinela APROBADO)
+- **Último Gate Aprobado:** Fase 7 — Centinela aprobado Cap 2 v1.0
+- **Próxima Acción:** Gate Ama sobre v1.1 → renombrar a `capitulo_2_maestro_v1.md` → iniciar Cap 3 Fase 1
+
+## Historial de Fases (Capítulo 2)
+| Fase | Estado | Fecha | Nota |
+|------|--------|-------|------|
+| 1 - Concepción | ✅ | 07/04 | Arco reestructurado |
+| 2 - Arquitectura | ✅ | 07/04 | `arco_maestro_v4.2.md` INVIOLABLE |
+| 3 - Personajes | ✅ | 07/04 | `personajes_maestro_v4.2.md` |
+| 4 - Escritura | ✅ | 22/04 | Expansión quirúrgica Mar→Sáb completada |
+| 5 - Auditoría | ✅ | 22/04 | 10/10 — APROBADO CON EXCELENCIA |
+| 6 - Refinamiento | ✅ | 22/04 | N/A (10/10 en primera auditoría) |
+| 7 - Centinela | ✅ | 22/04 | APROBADO |
+| 8 - Entrega | ⏳ | — | v1.1 en raíz — Gate Ama pendiente |
+
+## Índice de Archivos
+- `idea_maestro_v4.2.md`
+- `arco_maestro_v4.2.md` — INVIOLABLE desde 07/04
+- `personajes_maestro_v4.2.md`
+- `linea_de_tiempo_maestra.md`
+- `capitulo_1_maestro_v4.2.md` — Gold Master Cap 1 ✅
+- `capitulo_2_el_espejo_humillante_v1.1.md` — ACTIVO (pendiente Gate)
+
+---
+
+# Detalle del Arco — Reestructuración del 07/04/2026
+
+**Estado arco:** Aprobado por la Ama ✓
+**Fecha:** 2026-04-07
+**Agente:** Orquestador v4.4
 
 ---
 
