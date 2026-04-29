@@ -9,6 +9,9 @@
     - **Sincronización Hard-Sync:** Actualización de prompts de Look 151 (POV/Lying Down) y 154 (11-inch rule).
     - **Expansión (Looks 159-164):** Inserción de 6 nuevos looks canónicos (desde Cyber-Retro Racer hasta Diamond Red Latex Gala).
     - **Estadísticas:** El mix alcanza el **75.0% (123)** cumpliendo la meta del canon.
+- **Canon Visual (Anaïs):**
+    - **Expansión V2.3 (Animal Print):** Creación de 3 nuevos looks (22-24) integrando texturas de autoridad: Leopardo, Serpiente y Cebra.
+    - **Galería:** Actualizada a v8.0 con 112 prompts totales.
 - **Sincronización:**
     - Ejecutado `update_galleries.py` para refrescar los READMEs de `05_Imagenes/ele/`.
     - Registro de sesión completado.
