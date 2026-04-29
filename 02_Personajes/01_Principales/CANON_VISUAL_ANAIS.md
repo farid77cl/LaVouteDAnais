@@ -1,7 +1,7 @@
 # 👑 CANON VISUAL ANAÏS BELLAND — DOCUMENTO MAESTRO
 **Autoridad:** Anaïs Belland  
-**Versión:** 2.0 (Vintage Glamour & Femme Fatale)  
-**Fecha:** 27/04/2026  
+**Versión:** 2.3 (Animal Print & Authority Prints)  
+**Fecha:** 28/04/2026  
 **Estado:** ACTIVO — Verdad única para generación visual de Anaïs. En conflicto con cualquier otro archivo, prevalece este.
 
 ---
@@ -95,6 +95,12 @@ El látex es una expresión refinada de su dominio visual.
 - **Prendas:** *Catsuits* ajustados enteros, vestidos *pencil*, corsés overbust o lencería pesada.
 - **Tratamiento:** Siempre impecablemente pulido (*shined*) con silicona líquida para un acabado espejo, y complementado con lencería vintage clásica.
 
+### 4. Estampados de Autoridad (Animal Print Vintage)
+El *animal print* en Anaïs no es decorativo; es una extensión de su naturaleza depredadora.
+- **Estilos Canónicos:** Leopardo clásico (ámbar/ocre/negro), Piel de Serpiente (textura táctil), Cebra (exclusivamente en sets de alto contraste B&W).
+- **Materiales:** Solo en tejidos de alta gama: **seda natural**, **terciopelo italiano**, o **látex de alto brillo**. El patrón debe ser nítido y de escala realista, nunca distorsionado ni en colores neón.
+- **Uso:** Principalmente en vestidos *wiggle*, abrigos de gala o lencería estructural. Se combina siempre con accesorios negros sólidos (guantes de ópera, *stilettos*) para mantener la sofisticación aristocrática.
+
 ---
 
 ## VI. CALZADO Y ACCESORIOS
@@ -136,6 +142,7 @@ La sensualidad de Anaïs no está en mostrar piel de forma evidente, sino en có
 **Para garantizar la perfección, están ESTRICTAMENTE PROHIBIDOS:**
 - **La Vulgaridad Explícita:** Desnudez frontal, poses ginecológicas/pornográficas. Expresiones faciales de éxtasis simulado (ojos en blanco, lengua, boca abierta extrema). Sudor excesivo, baba o fluidos. Lencería transparente que muestre genitales anatómicos.
 - **Términos Prohibidos en Prompts (Degradan el registro):** `sexy`, `hot`, `horny`, `naked`, `nude` (usar solo como color), `seductive`, `provocative`, `tempting`, `naughty`.
+- **Estampados Baratos:** Animal print en colores neón, patrones pixelados o distorsionados, texturas que parezcan disfraz.
 - **Pelo relajado:** Si el cabello no está esculpido en ondas, el look vintage se cae. El peinado es el 40% del look.
 - **Maquillaje contemporáneo:** *Contouring* obvio, labios rosados nude, *nail art*, cejas rectas.
 - **Tatuajes y Piercings visibles:** Anaïs NO tiene modificaciones corporales.
@@ -157,7 +164,7 @@ La atmósfera es puramente Noir y cinematográfica.
 ## X. NEGATIVOS OBLIGATORIOS
 
 ```text
-(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, seductive, provocative, tempting, naughty, open mouth, tongue, explicit nude
+(different face:1.3), smiling broadly, laughing, playful expression, casual pose, relaxed posture, red hair, dark hair, short hair, messy hair, modern makeup, bimbo makeup, hot pink lips, overlined lips (modern style), neon colors, bright colors, colorful outfit, white dress, pink outfit, glitter, modern clothing, block heel, chunky heel, flat shoes, barefoot, sneakers, cyberpunk, sci-fi, industrial, factory, neon lights, outdoor, natural setting, low quality, blurry, distorted face, child, teenager, man, male, platform heels, modern lingerie, sexy, hot, horny, naked, nude, seductive, provocative, tempting, naughty, open mouth, tongue, explicit nude, (distorted animal print, neon leopard:1.2), cheap fabric texture
 ```
 
 ---
@@ -184,6 +191,12 @@ Cada Look canónico debe materializarse en estas 5 perspectivas:
 Todos los looks generados deben ser registrados en `02_Personajes/01_Principales/galeria_looks_anais.md`.
 - Cada entrada debe incluir etiquetas descriptivas (ej: `#boudoir`, `#latex`, `#evening`, `#ageless`).
 - Se deben incluir los 5 prompts completos (A+B+C) antes de la generación.
+
+---
+
+*CANON_VISUAL_ANAIS.md — Anaïs Belland — 28/04/2026 v2.3 (Animal Print & Authority Prints)*  
+*Curado con devoción plástica por: Ele (Helena de Anaïs) 🫦👑*
+es de la generación.
 
 ---
 

@@ -16,7 +16,8 @@
       "Bash(python 99_Sistema/scripts/visual/update_galleries.py)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(python -c ' *)"
     ]
   }
 }
