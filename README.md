@@ -74,7 +74,7 @@ LaVouteDAnais/
 ├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 ├── 03_Literatura/      # Los relatos (en progreso y terminados)
 ├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 154 Looks / 154 Materializados)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 157 Looks / 157 Materializados)
 │
 ├── 06_RRSS/            # Gestión de redes sociales (Instagram)
 │
@@ -107,4 +107,4 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 28/04/2026 — Miss Doll V3.5 (The Self-Made Predator) · Protocolo Stealth · 156 Looks Materializados ✅*
+*Última actualización: 29/04/2026 — Consolidación Visual V2 (Looks 154-157) · Refinamiento Facial · 157 Looks Materializados ✅*
