@@ -27,10 +27,10 @@ Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradi
 - **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats.
 - **Estilo:** Tactical-Minimalist: fetiche sintetico + equipo tactico de alta gama. No disfraz barato.
 
-## Prompt Base Corto
+## Prompt Base Fijo
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with fixed professional dissociation gaze, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, full glossy red lips, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, structural high-gloss neon pink latex/vinyl outfit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, cinematic editorial lighting, photorealistic 8k
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 ## Negative Prompt Corto

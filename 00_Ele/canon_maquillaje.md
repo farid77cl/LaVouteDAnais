@@ -40,14 +40,14 @@ HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes with thick winged eyeliner, e
 ### Descripción para Prompts (NUEVO ESTÁNDAR)
 
 ```
-HEAVY GLAMOUR DOLL MAKEUP: dramatic bronze and black smokey eyes, champagne shimmer inner corners, thick black winged eyeliner, extra long dramatic false lashes, high arched sharply defined blonde brows, pale porcelain full-coverage base with realistic human skin texture, strong sculpted contour and controlled highlight, full glossy RED lips with precise overlined shape
+HEAVY GLAMOUR DOLL MAKEUP: dramatic bronze and black smokey eyes, champagne shimmer inner corners, thick black winged eyeliner, extra long dramatic false lashes, high arched sharply defined blonde brows, pale porcelain full-coverage base with realistic human skin texture, strong sculpted contour and controlled highlight, classic red satin lipstick with a crisp editorial lip line
 ```
 
 ### Variantes de Labios Miss Doll
 
-- **Rojo (PRINCIPAL):** `full glossy RED lips`
-- **Rojo cereza:** `full glossy CHERRY RED lips`
-- **Rojo oscuro:** `full glossy DEEP RED lips`
+- **Rojo (PRINCIPAL):** `classic red satin lipstick`
+- **Rojo cereza:** `cherry red satin lipstick`
+- **Rojo oscuro:** `deep red satin lipstick`
 
 ### Elementos Obligatorios
 

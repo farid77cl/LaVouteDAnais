@@ -32,7 +32,7 @@ Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de 
 ### Prompt Base Maestro
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, full glossy red lips with precise overlined shape, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 ### Negative Prompt Maestro
@@ -81,7 +81,7 @@ Variar solo lo que esta entre corchetes fuera del ADN. La identidad facial, pelo
 - **Ojos:** bronze/black/champagne smokey eyes, thick black winged eyeliner, mega false lashes.
 - **Contour:** fuerte y esculpido.
 - **Labios:** rojo como firma visual.
-- **Keywords:** `full glossy red lips`, `soft satin red lipstick`, `precise overlined red lips`.
+- **Keywords:** `classic red satin lipstick`, `crisp red lip contour`, `clean cupid's bow`.
 - **No usar:** pink lips, nude lips, pink eyeshadow, natural makeup, subtle makeup, rosy cheeks.
 
 ### Cuerpo y Postura

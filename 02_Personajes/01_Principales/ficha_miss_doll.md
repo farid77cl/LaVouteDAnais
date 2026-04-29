@@ -25,7 +25,7 @@
 #### [ADN_MISS_DOLL_V3.5_STEALTH] (Prompt Maestro Invariable)
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, full glossy red lips with precise overlined shape, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 #### Tabla de Referencia Visual
@@ -123,16 +123,16 @@ La separación entre materiales y brillos se usa para obtener bordes limpios y r
 | **Delineado** | Cat-eye GRUESO dramático, winged liner exagerado | `thick dramatic cat-eye liner, exaggerated winged eyeliner` |
 | **Pestañas** | MEGA volume, densas, foxy/wispy | `mega volume false lashes, dramatic wispy lashes, extra long lashes` |
 | **Cejas** | Muy altas, arqueadas, perfetamente definidas | `high arched defined brows, villain arch eyebrows, heavily filled brows` |
-| **Labios** | ULTRA PLUMP sobredelineados glossy, siempre rojos | `ULTRA PLUMP overlined glossy red lips, bee-stung lips, exaggerated red lip liner, wet shine lips` |
+| **Labios** | Rojos definidos, acabado satinado/editorial | `classic red satin lipstick, crisp red lip contour, clean cupid's bow` |
 | **Expresión** | Labios entreabiertos, mirada dreamy vacía | `parted glossy lips, dreamy seductive vacant stare` |
 
 **Colores de Labios (rotación):**
 
 | Color | Uso | Keywords |
 |-------|-----|----------|
-| **Rojo glossy** | Canon principal | `full glossy RED lips, precise overlined red lips` |
-| **Rojo cereza** | Escenas intensas | `full glossy CHERRY RED lips, crimson lips` |
-| **Rojo satinado** | Variante editorial suave | `soft satin red lipstick, sculpted red lip liner` |
+| **Rojo satinado** | Canon principal | `classic red satin lipstick, crisp red lip contour` |
+| **Rojo cereza** | Escenas intensas | `cherry red satin lipstick, crimson red lip color` |
+| **Rojo editorial** | Variante suave | `soft red satin lipstick, clean cupid's bow` |
 
 > ⚠️ **NUNCA usar:** `natural makeup`, `subtle makeup`, `no makeup look`, `fresh-faced`, `pink lips`, `nude lips`, `pink eyeshadow`
 

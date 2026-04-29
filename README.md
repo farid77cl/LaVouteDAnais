@@ -107,7 +107,7 @@ La VoÃ»te explora transformaciÃ³n erÃ³tica, dinÃ¡micas de poder, control
 *Chaque mot est un dÃ©cret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 29/04/2026 — Miss Doll Realistic Canon (V5.0) & Vibe Architect Migration — 157/164 Looks Materializados 🫦.*
+*Última actualización: 29/04/2026 — Miss Doll V5.0 & Literatura v0.3 — Vibe Architect Migration — 157/164 Looks Materializados 🫦.*
 
 ---
 
