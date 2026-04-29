@@ -1,9 +1,37 @@
 # Walkthrough: La Piel que Diseno
 
-**Estado:** Fase 5 completa — CAP 1 v0.5 post-cirugía (9.2→9.5+). Pendiente Centinela + Gate Ama.
+## Estado Actual
+- **Fase:** 7 — Centinela pendiente
+- **Capítulo Activo:** 1
+- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.5.md`
+- **Iteración Crítico:** N/A (score 9.5+ → salida automática del bucle)
+- **Último Gate Aprobado:** Fase 1 — concepto aprobado
+- **Próxima Acción:** Ejecutar Centinela (Fase 7) → si APROBADO → Gate Ama (Fase 8)
+
+## Historial de Fases (Capítulo 1)
+| Fase | Estado | Fecha | Nota |
+|------|--------|-------|------|
+| 1 - Concepción | ✅ | 23/04 | Concepto aprobado |
+| 2 - Arquitectura | ✅ | 23/04 | `arco_maestro_v1.md` |
+| 3 - Personajes | ✅ | 23/04 | `personajes/matias.md` + `personajes/daniela.md` |
+| 4 - Escritura | ✅ | 28/04 | `capitulo_01_el_primer_dia_v0.5.md` |
+| 5 - Auditoría | ✅ | 28/04 | 9.5+ → APROBADO CON EXCELENCIA |
+| 6 - Refinamiento | ✅ | 28/04 | Bucle completado (v0.1→v0.5) |
+| 7 - Centinela | ⏳ | — | Pendiente |
+| 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
+
+## Índice de Archivos
+- `concepto.md`
+- `arco_maestro_v1.md` — INVIOLABLE desde 23/04
+- `personajes/matias.md` + `personajes/daniela.md`
+- `capitulo_01_el_primer_dia_v0.5.md` — ACTIVO
+- `linea_de_tiempo_maestra.md`
+
+---
+
 **Personajes:** Matías (protagonista, ahora en cuerpo de Daniela / "Dani") — Daniela (antagonista, ahora en cuerpo de Matías)
-**Fecha última actualización:** 2026-04-28  
-**Agente:** Orquestador
+**Fecha última actualización:** 2026-04-29
+**Agente:** Orquestador v4.4
 
 ---
 

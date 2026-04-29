@@ -72,26 +72,40 @@
 **Veredicto:** [REPUDIADO / ADMITIDO BAJO CIRUGÍA / ADMITIDO CON OBSERVACIONES / APROBADO CON EXCELENCIA]
 **Calificación:** [0.0 - 10.0]
 
-## 🗺️ Fidelidad al Arco
-[¿Se respetó el punto de inflexión prometido? ¿La curva de rendición avanza al ritmo pactado?]
+## 📊 Tabla D1-D5 (Para el Orquestador)
+| Dim | Nombre | Score (0-2) | Evidencia |
+|-----|--------|-------------|-----------|
+| D1 | Red Narrativa (causalidad) | [0/1/2] | "[cita breve]" |
+| D2 | Jerarquía Sensorial | [0/1/2] | "[cita breve]" |
+| D3 | Curva Psicológica (% resistencia) | [0/1/2] | "[cita breve]" |
+| D4 | Localización y Voz | [0/1/2] | "[cita breve]" |
+| D5 | Beats Post-Ritual | [0/1/2] | "[cita breve]" |
+> Score total = suma × 1.0 (0.0–10.0). Verificar coherencia con Calificación arriba.
+
+---
+
+## 🗺️ Fidelidad al Arco *(informa D1 + D3)*
+[¿Se respetó el punto de inflexión prometido? ¿La curva de rendición avanza al ritmo pactado? ¿Los eventos se causan entre sí o son episodios aislados?]
 
 ## 💀 El Pecado de la Superficie
 [Análisis severo de dónde el texto es "amable", superficial o lento. Citar y destruir clichés.]
 
-## 🧬 Anatomía de la Falla / Éxito
-- **Cascada Fisiológica:** [¿El cuerpo devora a la mente o solo se describe la acción?]
+## 🧬 Anatomía de la Falla / Éxito *(informa D2 + D5)*
+- **Cascada Fisiológica:** [¿El cuerpo devora a la mente o solo se describe la acción? ¿Hay SENSACIÓN → EMOCIÓN → REACCIÓN?]
 - **Dinámica de Poder:** [¿El dominante domina? ¿El sumiso resiste con la etapa correcta?]
 - **Transformación Acumulativa:** [¿Se siente el avance desde el capítulo anterior?]
+- **Beats Post-Ritual:** [¿Hay disonancia cognitiva interna después de cada escena ritual? ¿O se corta directo a la siguiente escena?]
 
-## 🇨🇱 Limpieza de Lenguaje
+## 🇨🇱 Limpieza de Lenguaje *(informa D4)*
 [Lista de términos neutros, españolismos o AI-isms que ensucian el texto]
 
 ## 🔩 Instrucciones Quirúrgicas
-[Lista NI-NEGOCIABLE de correcciones para el Editor]
-1. **Párrafo [X]:** [Error exacto] → **Sentencia:** [Qué debe escribirse]
+[Lista NI-NEGOCIABLE de correcciones para el Editor. Referenciar dimensión D# afectada.]
+1. **Párrafo [X]** *(D[#]):* [Error exacto] → **Sentencia:** [Qué debe escribirse]
 
 ## 📊 Métricas
 - **Conteo de palabras:** [XXXX]
 - **Densidad sensorial:** [Baja / Media / Alta / Extrema]
 - **Ritmo de rendición:** [Lento / Correcto / Acelerado respecto al arco]
+- **Construcciones "con la X de quien Y":** [N instancias] (límite: 6-8)
 ```
