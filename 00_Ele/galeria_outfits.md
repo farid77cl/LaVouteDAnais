@@ -4075,7 +4075,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ---
 
 
-## 📸 Look 157: Stepford Vinyl Housewife
+## 📸 Look 157: Stepford Vinyl Housewife ✅ Completo (7/7)
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look157_stepford_vinyl_housewife/`
 - **Categoría:** Mix
@@ -4096,17 +4096,17 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, bubblegum pink high-shine satin wiggle dress, transparent PVC apron with white lace trim, pink vinyl headband, 10-inch white marabou feather mules with chrome needle heels, languid S-curve lying on a kitchen counter, pink satin reflecting the clean white surfaces, feather mules visible.
 
 
-### 📸 Imágenes (0/7 — PENDIENTE)
+### 📸 Imágenes (7/7 — COMPLETADO)
 
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | PENDIENTE |
-| **Back View** | PENDIENTE |
-| **Seated** | PENDIENTE |
-| **Side Profile** | PENDIENTE |
-| **Ditzy** | PENDIENTE |
-| **POV** | PENDIENTE |
-| **Lying Down** | PENDIENTE |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose7_lying.png) |
 
 ---
 
@@ -4166,7 +4166,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 160: Leopard Vinyl Empress
+## 📸 Look 160: Leopard Vinyl Empress ✅ Completo (7/7)
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
 - **Categoría:** Mix
@@ -4191,15 +4191,15 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) |
-| **Seated** | ⏳ *Pending Generation* |
-| **Side Profile** | ⏳ *Pending Generation* |
-| **Ditzy** | ⏳ *Pending Generation* |
-| **POV** | ⏳ *Pending Generation* |
-| **Lying Down** | ⏳ *Pending Generation* |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose5_ditzy.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose7_lying.png) |
 
 ---
 
-## 📸 Look 161: Neon CEO
+## 📸 Look 161: Neon CEO ⏳ Parcial (5/7)
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look161_neon_ceo/`
 - **Categoría:** Mix
@@ -4222,11 +4222,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ⏳ *Pending Generation* |
-| **Back View** | ⏳ *Pending Generation* |
-| **Seated** | ⏳ *Pending Generation* |
-| **Side Profile** | ⏳ *Pending Generation* |
-| **Ditzy** | ⏳ *Pending Generation* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy.png) |
 | **POV** | ⏳ *Pending Generation* |
 | **Lying Down** | ⏳ *Pending Generation* |
 

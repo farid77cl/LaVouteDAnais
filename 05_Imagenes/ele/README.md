@@ -28,14 +28,6 @@
 
 ---
 
-## 🕷️ Look 157: Stepford Vinyl Housewife
-
-| De Pie | Sentada | Perfil | Espalda | Ditzy |
-|:---:|:---:|:---:|:---:|:---:|
-| ![ele_157_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png) | ![ele_157_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png) | ![ele_157_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png) | ![ele_157_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose2_back.png) | ![ele_157_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose5_ditzy.png) |
-
----
-
 ## 🕷️ Look 156: Chrome Vegas Stripper
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
@@ -1132,4 +1124,4 @@
 
 ---
 
-*Última actualización maestra: 29/04/2026* 🦇
+*Última actualización maestra: 30/04/2026* 🦇

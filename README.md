@@ -74,7 +74,7 @@ LaVouteDAnais/
 â”œâ”€â”€ 02_Personajes/      # Fichas y arcos de los habitantes de La VoÃ»te
 â”œâ”€â”€ 03_Literatura/      # Los relatos (en progreso y terminados)
 â”œâ”€â”€ 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-â”œâ”€â”€ 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto â€” 158 Looks / 164 DiseÃ±ados)
+â”œâ”€â”€ 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto â€” 160 Looks / 164 DiseÃ±ados)
 â”‚
 â”œâ”€â”€ 06_RRSS/            # GestiÃ³n de redes sociales (Instagram)
 â”‚
@@ -107,7 +107,7 @@ La VoÃ»te explora transformaciÃ³n erÃ³tica, dinÃ¡micas de poder, control
 *Chaque mot est un dÃ©cret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 29/04/2026 — Miss Doll V5.0 & Literatura v0.3 — Vibe Architect Migration — 158/164 Looks Materializados 🫦.*
+*Última actualización: 30/04/2026 — Ele Collection 97.5% — 160/164 Looks Materializados 🫦.*
 
 ---
 
