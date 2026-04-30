@@ -4166,12 +4166,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 160: Leopard Vinyl Empress ✅ Completo (7/7)
-**Fecha:** 28/04/2026
+## 📸 Look 160: Leopard Vinyl Empress (REDO Standardized) ⏳ PENDIENTE
+**Fecha:** 28/04/2026 (REDO PENDIENTE)
 - **Ubicación:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #leopard #vinyl #fetish #gold #animalprint
+- **ADN:** V3.5 Hard-Sync Standardized Prompt
 
 - **Concepto:** Depredadora de la noche en alta costura fetish. El estampado de leopardo sobre vinilo de alto brillo proyecta autoridad y peligro.
 - **Vestuario:** Mini vestido de vinilo con estampado de leopardo clásico, cuello halter, espalda descubierta. Guantes de ópera de látex negro espejo.
@@ -4187,7 +4188,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, high-gloss leopard print vinyl mini dress, halter neck, backless design, opera length black latex gloves, 11-inch black latex thigh-high boots with chrome needle heels, languid S-curve lying on a plush leopard skin rug, leopard pattern of dress and rug blending in high-gloss reflections.
 
 ### 📸 Imágenes
-| Pose | Previsualización |
+| Pose | Previsualización (v2 - Outdated) |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) |
@@ -4199,14 +4200,15 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 161: Neon CEO ⏳ Parcial (5/7)
-**Fecha:** 28/04/2026
+## 📸 Look 161: Neon CEO (REDO Standardized) ⏳ PENDIENTE
+**Fecha:** 28/04/2026 (REDO PENDIENTE)
 - **Ubicación:** `05_Imagenes/ele/look161_neon_ceo/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #neongreen #latex #corporate #pencilskirt #glasses
 
 - **Concepto:** Liderazgo disruptivo. Una ejecutiva que domina la junta directiva mediante la saturación del color y la perfección del látex.
+- **ADN:** V3.5 Hard-Sync Standardized Prompt
 - **Vestuario:** Blazer entallado de látex verde neón con hombreras agresivas, falda de tubo de vinilo negro espejo, cinturón ancho de charol. Gafas Bayonetta de marco fino.
 - **Calzado:** Stilettos de charol negro de 11 pulgadas con punta afilada.
 
@@ -4219,16 +4221,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 6. **POV:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, neon green structured latex blazer with sharp shoulder pads, mirror-black vinyl pencil skirt, wide black patent leather belt, 11-inch black patent leather stilettos, clear lens Bayonetta glasses, first-person POV looking down over the neon green latex blazer and the mirror-black vinyl lap, XXXL nails resting on a tablet.
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, neon green structured latex blazer with sharp shoulder pads, mirror-black vinyl pencil skirt, wide black patent leather belt, 11-inch black patent leather stilettos, clear lens Bayonetta glasses, lying on a long boardroom table, neon and black reflections on the glass surface.
 
-### 📸 Imágenes
-| Pose | Previsualización |
+### 📸 Imágenes (Parcial 5/7 — REDO PENDIENTE)
+| Pose | Previsualización (v2 - Outdated) |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) |
 | **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) |
 | **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated.png) |
 | **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile.png) |
 | **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy.png) |
-| **POV** | ⏳ *Pending Generation* |
-| **Lying Down** | ⏳ *Pending Generation* |
+| **POV** | ⏳ PENDIENTE |
+| **Lying Down** | ⏳ PENDIENTE |
 
 ---
 

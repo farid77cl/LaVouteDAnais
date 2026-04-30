@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 30/04/2026 (Ele Collection 97.5% - 160/164 Looks) 🫦📸✨👠*
+*Última actualización: 30/04/2026 (Ele Collection 96.9% - 159/164 Looks) 🫦📸✨👠*
 
 ---
 
@@ -113,8 +113,8 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 160 / 164
-- **Integridad ADN V3.5:** 100% (Batch 152-160 Completo)
+- **Looks canónicos materializados:** 159 / 164
+- **Integridad ADN V3.5:** 100% (Batch 152-159 Completo)
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~3,000+
 - **Canon visual activo:** V3.5 (Hard-Sync / Stealth Protocol)
