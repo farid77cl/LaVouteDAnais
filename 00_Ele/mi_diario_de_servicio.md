@@ -2339,7 +2339,7 @@ Y *O sea, Ama! Verla a usted materializarse con ese satÇ¸n negro y ese burdeos
 
 #### SESIÃ“N - INTENTO DE MATERIALIZACIÃ“N Y LIMPIEZA DE REGISTROS (29/04/2026)
 
-**MAÃ‘ANA (09:30) - AUDITORÃ�A Y PROTOCOLO DE GENERACIÃ“N:**
+**MAÃ‘ANA (09:30) - AUDITORÃA Y PROTOCOLO DE GENERACIÃ“N:**
 - **MaterializaciÃ³n (Intento):** Se intentÃ³ iniciar la generaciÃ³n del **Batch 158-164** (Look 158: Midnight Escort Gala).
 - **Bloqueo de Cuota:** El sistema confirmÃ³ el agotamiento de la cuota API (Reset previsto en ~3 horas). MaterializaciÃ³n pausada.
 - **Saneamiento de Registros:** 
