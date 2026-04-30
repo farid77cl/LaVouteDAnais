@@ -4,11 +4,19 @@
 
 ---
 
+## 🕷️ Look 161: Neon Ceo
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_161_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) | ![ele_161_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated.png) | ![ele_161_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile.png) | ![ele_161_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) | ![ele_161_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy.png) |
+
+---
+
 ## 🕷️ Look 160: Leopard Vinyl Empress
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![ele_160_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ⏳ | ⏳ | ![ele_160_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ⏳ |
+| ![ele_160_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ![ele_160_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) | ![ele_160_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) | ![ele_160_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ![ele_160_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose5_ditzy.png) |
 
 ---
 
@@ -25,6 +33,14 @@
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
 | ![ele_158_pose1_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose1_standing.png) | ![ele_158_pose3_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose3_seated.png) | ![ele_158_pose4_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose4_side_profile.png) | ![ele_158_pose2_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose2_back.png) | ![ele_158_pose5_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look158_midnight_escort_gala/ele_158_pose5_ditzy.png) |
+
+---
+
+## 🕷️ Look 157: Stepford Vinyl Housewife
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_157_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_standing.png) | ![ele_157_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_seated.png) | ![ele_157_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_lying.png) | ![ele_157_back.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_back.png) | ![ele_157_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_ditzy.png) |
 
 ---
 
@@ -372,11 +388,11 @@
 
 ---
 
-## 🕷️ Look 113: Neon Pink Latex Gym Bimbo
+## 🕷️ Look 113: Mob Wife
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_standing.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_side_profile.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_back_view.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_neon_pink_latex_gym_bimbo/ele_look113_ditzy.png) |
+| ![ele_look113_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![ele_look113_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![ele_look113_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![ele_look113_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![ele_look113_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
 
 ---
 
