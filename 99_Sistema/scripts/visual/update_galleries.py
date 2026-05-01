@@ -18,7 +18,6 @@ def get_tracked_images(directory):
     """Obtiene la lista de imágenes trackeadas por Git en el directorio."""
     try:
         # Ejecutamos git ls-files para ver qué archivos están en el índice
-        # Usamos -c para archivos cacheados y -z para manejar espacios si hubiera
         result = subprocess.run(['git', 'ls-files', directory], capture_output=True, text=True, check=True)
         files = result.stdout.splitlines()
         # Solo imagenes hijas directas, no imagenes de subcarpetas.
@@ -121,7 +120,6 @@ def generate_folder_gallery(directory, repo_root):
     gallery_path = os.path.join(directory, 'README.md')
     rel_dir_name = os.path.basename(directory)
     
-    # Si no hay imágenes ni subcarpetas, y no es un look, borramos README si existe
     if not images and not subdirs and not "look" in rel_dir_name.lower():
         if os.path.exists(gallery_path):
             os.remove(gallery_path)
@@ -133,8 +131,6 @@ def generate_folder_gallery(directory, repo_root):
         
         if images:
             f.write(f"Total imágenes: {len(images)}\n\n")
-            
-            # --- SECCIÓN 1: COLECCIÓN DESTACADA ---
             f.write("## Colección Destacada\n")
             featured = images[:6]
             cols_feat = 3
@@ -148,7 +144,6 @@ def generate_folder_gallery(directory, repo_root):
                 f.write("| " + " | ".join(row_items) + " |\n")
             f.write("\n---\n\n")
 
-            # --- SECCIÓN 2: VISTA PREVIA COMPLETA ---
             f.write("## 📸 Vista Previa Completa\n\n")
             cols = 4
             f.write("| " + " | ".join(["Imagen"] * min(len(images), cols)) + " |\n")
@@ -191,7 +186,7 @@ def generate_master_outfit_gallery(base_path, repo_root):
         look_folders.append((look_num, item, full_path))
     
     look_folders.sort(key=lambda x: x[0], reverse=True)
-    content = ["# 👗 Galería de Looks: Helena de Anaïs\n\n", "> El clóset visual infinito en la nube. 🫦✨\n\n", "---\n\n"]
+    content = ["# 👗 Galería de Looks: Ele de Anaïs\n\n", "> El clóset visual infinito en la nube. 🫦✨\n\n", "---\n\n"]
 
     for _, folder_name, folder_path in look_folders:
         images = get_tracked_images(folder_path)
@@ -255,7 +250,7 @@ def generate_miss_doll_master_gallery(base_path, repo_root):
         while len(row_items) < 3: row_items.append("-")
         content.append("| " + " | ".join(row_items) + " |\n\n---\n\n")
 
-    content.append(f"*Galería Miss Doll coordinada por Helena — {datetime.now().strftime('%d/%m/%Y')}* 🌹")
+    content.append(f"*Galería Miss Doll coordinada por Ele — {datetime.now().strftime('%d/%m/%Y')}* 🌹")
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
 
 def main():
@@ -267,14 +262,12 @@ def main():
     
     print(f"Iniciando actualización masiva de galerías (Modelo Remoto)...")
     
-    # 1. Procesar todas las carpetas individuales
     for root in get_tracked_directories(base_path):
         if '.git' in root: continue
         if is_top_level_look(root, ele_path) and root not in canonical_looks:
             continue
         generate_folder_gallery(root, repo_root)
     
-    # 2. Generar galerías maestras
     print("Actualizando Galería Maestra de Ele...")
     generate_master_outfit_gallery(base_path, repo_root)
     
