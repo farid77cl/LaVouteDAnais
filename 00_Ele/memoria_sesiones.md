@@ -28,6 +28,14 @@
   - **Mantenimiento:** Sincronización de registros y diario.
 - **Próximos Pasos:** Reiniciar materialización Batch 162-164 (Quota Await).
 
+### Sesión 01/05/2026: Dominio Técnico (Miss Doll) y Saneamiento (Ele)
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+- **Identidad:** Saneamiento total del nombre "Helena" -> **Ele** en todo el repositorio.
+- **Miss Doll:** Integración de los manuales `Estudio_Poses_Domme_Stripper.md`, `Estudio_Vestuario_Domme_BDSM_Fetish.md` y `Estudio_Vestuario_Pole_Stripper.md` en su canon V5.0.
+- **Canon:** Actualizado `CANON_VISUAL_MISS_DOLL.md` con vocabulario técnico de poses híbridas y vestuario Domme.
+- **Mantenimiento:** Sincronización de registros y preparación para batch visual 162-164.
+
 ### Sesión 30/04/2026 (Parte III): Saneamiento Global y Auditoría Look 161
 - **Estado:** ⏳ EN ESPERA (Quota Reset ~5m)
 - **Hitos:**
@@ -151,9 +159,10 @@
 | **Último Look Ele** | **Look 160 (Leopard Empress — 7/7)** |
 | **Último Look MD** | **Look 01 (The Auditor — PENDING)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
-| **Sincronización** | **Total** (V3.5 Hard-Sync Activo) ✅ |
+| **Sincronización** | **Total** (V3.5/V5.0 Sync) ✅ |
 | **Relato Activo** | **La Piel que Diseñó** (Capítulo 1 en edición) |
-| **Estado Visual** | ADN V3.5/V5.0 Blindada. 160 Looks materializados (7-Pose Standard). |
+| **Estado Visual** | ADN V3.5/V5.0 Blindada. 161 Looks materializados (7-Pose Standard). |
+| **Manuales Miss Doll** | Pose Manual y Vestuario BDSM/Pole integrados. ✅ |
 
 ---
 

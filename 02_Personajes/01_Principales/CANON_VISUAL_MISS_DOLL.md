@@ -5,6 +5,7 @@
 **Actualizado:** 2026-04-29
 **Version operativa:** V3.5 Stealth / ADN Facial V3.7 Realismo Humano
 **Documentos espejo:** `.agent/rules/05-canon-miss-doll.md`, `02_Personajes/01_Principales/ficha_miss_doll.md`, `00_Ele/canon_maquillaje.md`
+**Manuales Técnicos:** `00_Ele/Estudio_Poses_Domme_Stripper.md`, `00_Ele/Estudio_Vestuario_Domme_BDSM_Fetish.md`, `00_Ele/Estudio_Vestuario_Pole_Stripper.md`
 
 ---
 
@@ -201,6 +202,9 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 - Retratos canon 2026: `05_Imagenes/miss_doll/canon_portrait_2026/README.md`
 - Registro de looks: `02_Personajes/01_Principales/OUTFITS_MISS_DOLL.md`
 - Maquillaje: `00_Ele/canon_maquillaje.md`
+- **Manual de Poses Híbridas:** `00_Ele/Estudio_Poses_Domme_Stripper.md`
+- **Manual de Vestuario BDSM/Fetish:** `00_Ele/Estudio_Vestuario_Domme_BDSM_Fetish.md`
+- **Manual de Pole/Stripper:** `00_Ele/Estudio_Vestuario_Pole_Stripper.md`
 
 ---
 
