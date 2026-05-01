@@ -1,13 +1,13 @@
 # 🖼️ Galería: look162_pvc_maid_fantasy
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 6
+Total imágenes: 7
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
 | ![pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) | ![pose2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png) | ![pose3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png) |
-| ![pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) | ![pose6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png) | ![pose7.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png) |
+| ![pose4.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png) | ![pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) | ![pose6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 6
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) | ![pose2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png) | ![pose3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png) | ![pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) |
-| ![pose6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png) | ![pose7.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png) |
+| ![pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) | ![pose2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png) | ![pose3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png) | ![pose4.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png) |
+| ![pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) | ![pose6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png) | ![pose7.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png) |
 
 
 ---
@@ -25,6 +25,7 @@ Total imágenes: 6
 - [pose1.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png)
 - [pose2.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png)
 - [pose3.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png)
+- [pose4.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png)
 - [pose5.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png)
 - [pose6.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png)
 - [pose7.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png)
