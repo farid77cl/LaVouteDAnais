@@ -1,12 +1,12 @@
 # Walkthrough: La Piel que Diseno
 
 ## Estado Actual
-- **Fase:** 4 — Escritura (cirugía mayor por feedback Ama)
+- **Fase:** 5 — Auditoría (v0.5 listo para Crítico)
 - **Capítulo Activo:** 1
-- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.4.md`
-- **Motivo de regresión:** Ama detectó que el capítulo carecía del ritual de preparación/vestido — el núcleo erótico MTF. El texto saltaba del espejo directamente a la nail studio con Matías ya vestido. Ausencia total de la escena de órdenes, desnudez inicial, tanga, vinilo, tacones bajo supervisión.
-- **Cambios v0.4:** Nueva escena "La preparación" (~1,200 palabras). Maquillaje expandido a ritual completo paso a paso (~1,500 palabras). Nail studio con capa social. Total: ~6,800 palabras.
-- **Próxima Acción:** Gate Ama → aprobación → volver a Fase 5 (Crítico + Contador)
+- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.5.md`
+- **presupuesto_palabras:** 4,500 (techo absoluto — no superar en ninguna iteración futura)
+- **Cambios v0.5:** Reescritura total desde cero. Presupuesto 4,500 palabras. Curva de temperatura en escalada (shock → tensión → calor → ardiente → acumulación nocturna). Racconto comprimido a 1 línea por instancia. 13/13 compromisos. ~4,490 palabras.
+- **Próxima Acción:** Gate Ama → si aprueba temperatura → Crítico → Centinela → Gold Master
 
 ## Historial de Fases (Capítulo 1)
 | Fase | Estado | Fecha | Nota |

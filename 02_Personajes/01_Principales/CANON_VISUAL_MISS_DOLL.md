@@ -22,9 +22,10 @@
 
 Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de la muneca como armadura tactica: hiperfeminidad, disciplina corporal, frialdad profesional y lectura exacta del deseo ajeno. Su belleza no debe verse casual ni tierna; debe verse fabricada, cara, controlada y peligrosa.
 
-**Arquetipo:** Depredadora camaleónica / auditora del deseo / Dominatrix Experta.
-**Clave sociológica:** viene del club y del escorting de alto nivel, pero el canon visual debe sentirse editorial, no vulgar. Su vestuario es una **armadura** y un dispositivo de poder técnico.
-**Regla de oro:** si parece bimbo genérica, falla; si parece real, cara, fría y estratégica, funciona. La verticalidad y el hardware funcional son obligatorios.
+**Arquetipo:** Depredadora camaleónica / Domina-Stripper de élite.
+**Clave sociológica:** Miss Doll **NUNCA** fue oficinista. Su identidad real es una hibridación entre el club (stripper) y el calabozo (dominatrix). Viene del club y del escorting de alto nivel; su elegancia es peligrosa y calculada.
+**Regla de tacones:** Miss Doll tiene prohibido el uso de tacones *chunky* o plataformas toscas. Su calzado obligatorio son los **Stilettos (tacón aguja)** de metal ultra finos (estilo Pleaser Flamingo).
+**Regla de oro:** si parece bimbo genérica o secretaria real, falla; si parece real, cara, fría, estratégica y peligrosa, funciona. La verticalidad y el hardware funcional son obligatorios.
 
 ---
 
@@ -33,7 +34,7 @@ Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de 
 ### Prompt Base Maestro
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, 8-inch platform stiletto boots, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, (small refined upturned doll nose:1.2), (high prominent sculpted cheekbones:1.2), pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, (towering 8-inch platform stiletto boots with razor-thin metal needle heels:1.3), NO CHUNKY HEELS, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 ### Negative Prompt Maestro
@@ -89,7 +90,7 @@ Variar solo lo que esta entre corchetes fuera del ADN. La identidad facial, pelo
 
 - **Silueta:** sculptural extreme hourglass, tiny cinched waist, bust/cintura/cadera dramaticos.
 - **Postura:** espalda recta, menton elevado, movimientos economicos.
-- **Zapatos:** platform stilettos / Pleaser-style heels / tactical stiletto boots. Nunca flats.
+- **Zapatos:** Pleaser Flamingo stilettos / razor-thin metal heels. **PROHIBIDOS LOS TACONES CHUNKY.** Solo tacón aguja extremo. Nunca flats.
 
 ### Tatuajes
 
@@ -158,10 +159,10 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 
 ## VI. Prompt Base por Modo
 
-### Modo Auditora / CEO
+### Modo Auditora / Tactical Disguise (Roleplay)
 
 ```text
-[ADN_MISS_DOLL_V3_5_STEALTH], custom-tailored dusty pink technical bodysuit, black tactical webbing, matte black Cobra buckles, black high-waisted structural pencil skirt, black high-gloss opera gloves, clear thin-frame glasses, holding a sleek black dossier, clinical grey corporate office, cold cinematic lighting
+[ADN_MISS_DOLL_V3_5_STEALTH], custom-tailored dusty pink technical bodysuit, black tactical webbing, matte black Cobra buckles, black high-waisted structural pencil skirt, black high-gloss opera gloves, clear thin-frame glasses, (razor-thin metal stiletto heels:1.3), NO CHUNKY HEELS, holding a sleek black leather dossier, clinical grey corporate office setting used for intimidation, cold cinematic lighting
 ```
 
 ### Modo Latex Icon
