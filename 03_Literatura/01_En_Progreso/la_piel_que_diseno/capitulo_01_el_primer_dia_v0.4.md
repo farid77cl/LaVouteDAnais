@@ -4,7 +4,7 @@
 | Campo | Valor |
 |-------|-------|
 | **Versión** | v0.4 |
-| **Estado** | EN REVISIÓN |
+| **Estado** | PENDIENTE GATE AMA |
 | **Arco** | arco_maestro_v1.md |
 | **Fecha** | 2026-05-01 |
 
@@ -14,7 +14,7 @@
 | v0.1 | 2026-04-29 | Escritor | Borrador inicial |
 | v0.2 | 2026-04-29 | Editor | 5 cirugías: canon 1000cc, transición contrato, tacto pincel, post-maquillaje, inventario espejo nocturno |
 | v0.3 | 2026-04-29 | Editor | 2 cirugías: efecto corporal de la voz (D2), anclaje táctil UV en nail studio (D5) |
-| v0.4 | 2026-05-01 | Editor | Cirugía mayor: escena de preparación completa (nueva), maquillaje expandido a ritual completo, profundización sensorial de nail studio. Diagnóstico: capítulo carecía del ritual de feminización que es el núcleo erótico MTF. |
+| v0.4 | 2026-05-01 | Editor | CIRUGÍA MAYOR (feedback Ama): escena preparación completa nueva, maquillaje expandido, nail studio deepened. CIRUGÍA CRÍTICO (5 instancias): beat post-tanga, vinilo+pezones expandido a 180 palabras, sensación del andar en tacones, argumento perdido en el delineador, espejo nocturno con respuesta corporal activa. |
 
 ---
 
@@ -334,6 +334,12 @@ Sube la tanga.
 
 El encaje rodea los tobillos, las pantorrillas, los muslos. La tela asciende con la resistencia mínima del encaje fino, que se estira sin esfuerzo y vuelve a su forma, y cuando llega a las caderas y se asienta sobre ellas hay un momento — breve, involuntario — en que los dedos ajustan el borde lateral y el encaje roza la piel interior del muslo con esa precisión de lo que fue diseñado para estar exactamente ahí.
 
+No duele. No molesta. No produce ninguna de las cosas que él esperaba que produjera un pedazo de encaje en un lugar donde no debería haber encaje.
+
+Eso es el problema.
+
+Matías espera la incomodidad y la incomodidad no llega, y en el segundo que pasa mientras el cuerpo espera algo que no ocurre, hay un instante — medible, humillante, brevísimo — en que el cuerpo decide algo por su cuenta sin consultarle. No una decisión. Solo un registro. Una respuesta que no tiene nombre todavía pero que el cuerpo hizo antes de que él pudiera intervenir.
+
 *Siguiente.*
 
 El bodysuit.
@@ -362,7 +368,17 @@ El segundo segundo es el calor devuelto — el cuerpo calentando el material, el
 
 Los pezones, contra el vinilo.
 
+La señal no es lo que esperaba. No es dolor — el dolor sería manejable, clasificable, algo que el cerebro puede recibir y archivar. Lo que llega es distinto: una presencia. Como si esa parte del cuerpo, que antes existía de manera periférica y casi abstracta, de repente tuviera una dirección, un peso, una temperatura. El vinilo aprieta sin apretar y los pezones lo sienten desde adentro y desde afuera al mismo tiempo — el material frío que se tibia y el cuerpo que devuelve el calor y entre los dos crean algo que es una fricción sin movimiento, una presión que no necesita cambiar porque ya es suficiente con existir.
+
+Matías espera a que desaparezca.
+
+No desaparece.
+
+Espera el siguiente pensamiento que reemplace a este. El argumento. El inventario de razones por las que esto no significa nada. El texto interior que siempre llega cuando llega una sensación que no autorizó. El texto no llega. Lo que hay en su lugar es el vinilo contra los pezones y el vinilo contra los pezones y el vinilo contra los pezones mientras el cuerpo aprende que eso es su nueva topografía y que va a estar ahí todo el día y que no puede hacer nada al respecto.
+
 *Cállate.*
+
+Tarde. El texto llega tarde y sabe que llega tarde.
 
 Las medias. La costura trasera tiene que quedar recta — Daniela no lo señala, no corrige, solo observa mientras él trabaja la línea hacia arriba. El primer intento no es recto. El segundo tampoco. En el tercero Daniela dice *así* con el tono exacto de quien registra que el resultado es correcto sin agregar ningún calor al reconocimiento.
 
@@ -385,6 +401,8 @@ Los tacones golpean el parquet con un sonido seco, específico, inconfundible �
 Clic, clic, clic, de regreso.
 
 Daniela lo observa recorrer ese tramo dos veces sin decir si está bien o si está mal. No es elogio ni corrección — es la mirada de quien revisa si algo funciona como tiene que funcionar. El objeto haciendo lo que el objeto debe hacer.
+
+Lo que Matías no esperaba es que el andar tuviera su propio ritmo. No el clic del tacón — ese ya lo anticipó. Lo que no anticipó es que las caderas se abran solas con cada paso, que el peso de los pechos imponga un contramovimiento en los hombros, que el cuerpo entero se coordine para producir una manera de caminar que no decidió y que sin embargo ya está instalada, ya funciona, ya es la única manera en que este cuerpo sabe desplazarse en tacones de siete pulgadas. Que ese ritmo lo conoce. Lo reconoce desde adentro porque lo aprendió mirando, años, y que ahora que lo habita desde adentro hay algo en esa familiaridad que es peor que lo desconocido.
 
 —Bien.
 
@@ -508,7 +526,11 @@ El primer instrumento es el lápiz. Tira del párpado inferior con dos dedos par
 
 *No te muevas.*
 
-La instrucción viene de adentro pero suena igual que si viniera de afuera.
+La instrucción viene de adentro pero suena igual que si viniera de afuera. Y mientras el lápiz trabaja y el único requisito es la inmovilidad, algo ocurre que no tiene que ver con el ojo: la mente, que lleva horas construyendo argumentos, que tiene preparado un inventario de razones por las que cada cosa de esta mañana no significa nada, descubre que no puede sostener dos procesos al mismo tiempo. El argumento requiere distancia. La inmovilidad exige presencia. Y mientras el lápiz traza la línea interior del párpado con esa presión fina que el cuerpo registra como la cosa más específica del mundo, la distancia se cierra.
+
+Cuando Daniela levanta el lápiz, Matías intenta retomar el hilo del argumento.
+
+El argumento ya no está donde lo dejó.
 
 La línea del párpado superior es diferente. El pincel de delineador es más fino, más húmedo, y el trazo que hace es largo — desde el lagrimal hacia afuera, con el ángulo que estira el ojo hacia las sienes, que lo alarga hacia el exterior en el giro que cambia la forma que el ojo tiene cuando está abierto. Una línea que él conoce. La vio cientos de veces — en el espejo del baño cuando ella se preparaba para salir, en las fotos, en el reflejo de la ventana del auto. La misma línea. Ahora en sus ojos.
 
@@ -648,17 +670,23 @@ El reflejo lo mira de vuelta.
 
 *Esto no soy yo.*
 
+En ese momento — exactamente en ese momento, mientras formula el argumento que ha repetido toda la mañana — los pezones presionan contra el vinilo. No es nuevo. Ha ocurrido cientos de veces durante el día, con cada respiración, con cada movimiento, con el calor acumulado que hace que el material roce distinto que a las nueve de la mañana. Pero ahora ocurre mientras Matías está parado frente al espejo intentando declarar que el reflejo no es él, y el cuerpo responde a la declaración con la misma indiferencia de siempre: existe, presiona, existe.
+
+El argumento se interrumpe.
+
+No porque sea refutable. Sino porque el cuerpo no lo está escuchando. El cuerpo lleva doce horas aprendiendo cosas que la mente no autorizó — el ritmo del paso en tacones, el peso que tiró hacia adelante cien veces, la tanga que no molestó cuando debía molestar, el encaje que bordeó algo que no se puede nombrar — y en el espejo de las once de la noche ese aprendizaje está completo y visible y el cuerpo lo sabe y la mente lo sabe y el único que todavía está intentando sostener la distancia entre los dos es Matías.
+
 Pausa larga.
 
 *¿Verdad?*
 
-La pregunta se queda en el espejo.
+El cuerpo no responde con palabras.
 
-El espejo no responde.
+El cuerpo ya respondió.
 
 ---
 
-**Conteo de palabras:** ~6.800
+**Conteo de palabras:** ~7.400
 
 ---
 
