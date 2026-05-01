@@ -1,4 +1,4 @@
-# La VoÃ»te d'AnaÃ¯s
+# La Voûte d'Anaïs
 
 *Bienvenue. La puerta est abierta.*
 
@@ -6,15 +6,15 @@
 
 ## El Lugar
 
-**La VoÃ»te** es un cabaret.
+**La Voûte** es un cabaret.
 
-Un lugar que existe en algÃºn punto entre lo real y lo imposible â€” sÃ³tano de terciopelo negro, humo azul que no se disipa, mÃºsica que suena desde ninguna direcciÃ³n en particular. La entrada no aparece en ningÃºn mapa. Pero quienes la necesitan, la encuentran.
+Un lugar que existe en algún punto entre lo real y lo imposible — sótano de terciopelo negro, humo azul que no se disipa, música que suena desde ninguna dirección en particular. La entrada no aparece en ningún mapa. Pero quienes la necesitan, la encuentran.
 
-**AnaÃ¯s Belland** es su regenta. No transforma a nadie directamente â€” abre la puerta, pone las reglas de la casa, y deja que el lugar haga su trabajo. Ella observa. Ella sabe. Y a veces, sonrÃ­e.
+**Anaïs Belland** es su regenta. No transforma a nadie directamente — abre la puerta, pone las reglas de la casa, y deja que el lugar haga su trabajo. Ella observa. Ella sabe. Y a veces, sonríe.
 
-Los personajes llegan por sus propias razones. Algunos buscando placer. Otros huyendo de algo. Otros sin saber exactamente por quÃ© empujaron esa puerta. Lo que tienen en comÃºn es que **buscan su identidad** â€” o que algo dentro de ellos quiere cambiar de piel.
+Los personajes llegan por sus propias razones. Algunos buscando placer. Otros huyendo de algo. Otros sin saber exactamente por qué empujaron esa puerta. Lo que tienen en común es que **buscan su identidad** — o que algo dentro de ellos quiere cambiar de piel.
 
-*La VoÃ»te no juzga. La VoÃ»te revela.*
+*La Voûte no juzga. La Voûte revela.*
 
 Cada relato es una noche en el cabaret. Cada personaje, un cliente. Algunos salen distintos. Algunos no salen.
 
@@ -22,45 +22,45 @@ Cada relato es una noche en el cabaret. Cada personaje, un cliente. Algunos sale
 
 ## Las Fuerzas del Universo
 
-Tres fuerzas mueven La VoÃ»te. No son personajes fijos â€” son roles que distintas personas pueden encarnar:
+Tres fuerzas mueven La Voûte. No son personajes fijos — son roles que distintas personas pueden encarnar:
 
-**El Poder** â€” Quien transforma. AnaÃ¯s, Miss Doll, cualquier figura que ejerce control con elegancia y propÃ³sito. No necesita gritar. Solo sabe.
+**El Poder** — Quien transforma. Anaïs, Miss Doll, cualquier figura que ejerce control con elegancia y propósito. No necesita gritar. Solo sabe.
 
-**El MÃ©todo** â€” CÃ³mo ocurre la transformaciÃ³n. La hipnosis, la tecnologÃ­a, el vino, el trance, el espejo. La VoÃ»te tiene muchos instrumentos.
+**El Método** — Cómo ocurre la transformación. La hipnosis, la tecnología, el vino, el trance, el espejo. La Voûte tiene muchos instrumentos.
 
-**La RendiciÃ³n** â€” El viaje de quien llega. Resistencia, confusiÃ³n, racionalizaciÃ³n, aceptaciÃ³n. La batalla interna es siempre mÃ¡s interesante que la victoria.
+**La Rendición** — El viaje de quien llega. Resistencia, confusión, racionalización, aceptación. La batalla interna es siempre más interesante que la victoria.
 
 ---
 
 ## El Tema Central
 
-**La transformaciÃ³n erÃ³tica** â€” fÃ­sica, mental, de identidad.
+**La transformación erótica** — física, mental, de identidad.
 
-No como castigo ni destrucciÃ³n. Como revelaciÃ³n del yo que siempre estuvo ahÃ­, esperando que alguien abriera la puerta correcta.
+No como castigo ni destrucción. Como revelación del yo que siempre estuvo ahí, esperando que alguien abriera la puerta correcta.
 
 ---
 
 ## La Literatura
 
-Los relatos de La VoÃ»te son su razÃ³n de existir. Todo lo demÃ¡s â€” imÃ¡genes, personajes, herramientas â€” sirve a la escritura.
+Los relatos de La Voûte son su razón de existir. Todo lo demás — imágenes, personajes, herramientas — sirve a la escritura.
 
 Cada historia sigue principios que hacen el universo consistente:
 
-- La transformaciÃ³n es **gradual**. El proceso importa mÃ¡s que el resultado.
-- Los personajes **resisten antes de ceder**. La lucha interna es el corazÃ³n de cada relato.
-- Los detalles **sensoriales** anclan la fantasÃ­a en lo fÃ­sico y lo real.
-- El narrador sabe mÃ¡s que el personaje. La ironÃ­a narrativa es poder.
-- Todo estÃ¡ ambientado en **Chile** â€” geografÃ­as reales, referencias locales, voz chilena.
+- La transformación es **gradual**. El proceso importa más que el resultado.
+- Los personajes **resisten antes de ceder**. La lucha interna es el corazón de cada relato.
+- Los detalles **sensoriales** anclan la fantasía en lo físico y lo real.
+- El narrador sabe más que el personaje. La ironía narrativa es poder.
+- Todo está ambientado en **Chile** — geografías reales, referencias locales, voz chilena.
 
 ---
 
-## AnaÃ¯s Belland
+## Anaïs Belland
 
 La regenta. La autora. La misma persona.
 
-AnaÃ¯s no aparece en todas las historias, pero su mirada estÃ¡ en todas. Ella diseÃ±Ã³ La VoÃ»te. Ella elige quÃ© historias se cuentan y cuÃ¡les se guardan. Ella decide quiÃ©n entra.
+Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella diseñó La Voûte. Ella elige qué historias se cuentan y cuáles se guardan. Ella decide quién entra.
 
-**Ele de AnaÃ¯s** es su pluma â€” la escritora, editora y gestora del universo. La voz que convierte la visiÃ³n de AnaÃ¯s en palabras. Gestora integral de la identidad visual (**V3.5 Hard-Sync**) y presencia institucional en Instagram (@lavoutedeanais).
+**Ele de Anaïs** es su pluma — la escritora, editora y gestora del universo. La voz que convierte la visión de Anaïs en palabras. Gestora integral de la identidad visual (**V3.5 Hard-Sync**) y presencia institucional en Instagram (@lavoutedeanais).
 
 ---
 
@@ -71,16 +71,16 @@ LaVouteDAnais/
 â”‚
 â”œâ”€â”€ 00_Ele/             # La pluma: identidad, memoria, outfits, canon visual
 â”œâ”€â”€ 01_Canon/           # Las reglas del universo: escritura, lore, visual
-â”œâ”€â”€ 02_Personajes/      # Fichas y arcos de los habitantes de La VoÃ»te
+â”œâ”€â”€ 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
 â”œâ”€â”€ 03_Literatura/      # Los relatos (en progreso y terminados)
 â”œâ”€â”€ 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-â”œâ”€â”€ 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto â€” 159 Looks / 164 DiseÃ±ados)
+â”œâ”€â”€ 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 159 Looks / 164 Diseñados)
 â”‚
-â”œâ”€â”€ 06_RRSS/            # GestiÃ³n de redes sociales (Instagram)
+â”œâ”€â”€ 06_RRSS/            # Gestión de redes sociales (Instagram)
 â”‚
-â”œâ”€â”€ 07_Recursos/        # Referencias e investigaciÃ³n
+â”œâ”€â”€ 07_Recursos/        # Referencias e investigación
 â”‚
-â””â”€â”€ 99_Sistema/         # Scripts de automatizaciÃ³n y herramientas
+â””â”€â”€ 99_Sistema/         # Scripts de automatización y herramientas
 ```
 
 ---
@@ -88,23 +88,23 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
-- **La Piel que DiseÃ±Ã³** â€” CapÃ­tulo 1 en ediciÃ³n (v3.5 compatible).
+- **La Piel que Diseñó** — Capítulo 1 en edición (v3.5 compatible).
 
 ### Biblioteca Completa (39 relatos finalizados)
-- **Serie Miss Doll:** Transformaciones hipnÃ³ticas bajo la guÃ­a de la dominatrix mÃ¡s icÃ³nica de La VoÃ»te de AnaÃ¯s.
-- **Serie Le Miroir d'AnaÃ¯s:** La transformaciÃ³n ritual de SofÃ­a. El corazÃ³n del universo.
-- **Serie Trance:** Hipnosis profunda, bimboficaciÃ³n y control mental.
-- **The Dollhouse:** Reality show donde las reglas de La VoÃ»te se transmiten en vivo.
+- **Serie Miss Doll:** Transformaciones hipnóticas bajo la guía de la dominatrix más icónica de La Voûte de Anaïs.
+- **Serie Le Miroir d'Anaïs:** La transformación ritual de Sofía. El corazón del universo.
+- **Serie Trance:** Hipnosis profunda, bimboficación y control mental.
+- **The Dollhouse:** Reality show donde las reglas de La Voûte se transmiten en vivo.
 
 ---
 
 ## Contenido Adulto +18
 
-La VoÃ»te explora transformaciÃ³n erÃ³tica, dinÃ¡micas de poder, control mental y feminizaciÃ³n. No es para todos. Es para quienes se atreven a mirar en el espejo y ver no lo que son, sino lo que podrÃ­an ser.
+La Voûte explora transformación erótica, dinámicas de poder, control mental y feminización. No es para todos. Es para quienes se atreven a mirar en el espejo y ver no lo que son, sino lo que podrían ser.
 
 ---
 
-*Chaque mot est un dÃ©cret. Chaque historia, une porte.*
+*Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
 *Última actualización: 30/04/2026 — Ele Collection 96.9% — 159/164 Looks Materializados 🫦.*

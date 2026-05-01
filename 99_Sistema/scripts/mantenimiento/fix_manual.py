@@ -2,19 +2,19 @@ import os
 
 # Replacements for galeria_outfits.md (handling various mojibake layers)
 outfit_replacements = {
-    "ÃƒÂ³": "ó",
-    "ÃƒÂ­": "í",
-    "ÃƒÂ¡": "á",
-    "ÃƒÂ©": "é",
-    "ÃƒÂ±": "ñ",
-    "ÃƒÂº": "ú",
-    "Ã³": "ó",
-    "Ã­": "í",
-    "Ã¡": "á",
-    "Ã©": "é",
-    "Ã±": "ñ",
-    "Ãº": "ú",
-    "Ã": "í", # Final fallback if Ã appears alone in some contexts (e.g. GalerÃ)
+    "Ãƒ³": "ó",
+    "Ãƒ­": "í",
+    "Ãƒ¡": "á",
+    "Ãƒ©": "é",
+    "Ãƒ±": "ñ",
+    "Ãƒº": "ú",
+    "ó": "ó",
+    "í": "í",
+    "á": "á",
+    "é": "é",
+    "ñ": "ñ",
+    "ú": "ú",
+    "Ã": "í", # Final fallback if Áappears alone in some contexts (e.g. GalerÃ)
     "ðŸ¦‡": "🦉", # Bat? No, 0xF0 0x9F 0xA6 0x87 is Bat. Let's assume Bat.
     "ðŸŒ™": "🌙",
     "ðŸ’€": "💀",

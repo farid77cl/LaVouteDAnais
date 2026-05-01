@@ -19,26 +19,26 @@ if (Test-Path $outfit_path) {
         
         # Replacement Dictionary (Char -> Correct Char)
         # Using Byte Arrays to avoid script encoding issues
-        # ÃƒÂ³ (C3 83 C2 B3) -> ó
+        # Ãƒ³ (C3 83 C2 B3) -> ó
         $bad_o = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xB3))
-        # ÃƒÂ­ (C3 83 C2 AD) -> í
+        # Ãƒ­ (C3 83 C2 AD) -> í
         $bad_i = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xAD))
-        # ÃƒÂ¡ (C3 83 C2 A1) -> á
+        # Ãƒ¡ (C3 83 C2 A1) -> á
         $bad_a = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xA1))
-        # ÃƒÂ© (C3 83 C2 A9) -> é
+        # Ãƒ© (C3 83 C2 A9) -> é
         $bad_e = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xA9))
-        # ÃƒÂ± (C3 83 C2 B1) -> ñ
+        # Ãƒ± (C3 83 C2 B1) -> ñ
         $bad_n = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xB1))
-        # ÃƒÂº (C3 83 C2 BA) -> ú
+        # Ãƒº (C3 83 C2 BA) -> ú
         $bad_u = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xBA))
-        # ÃƒÅ¡ (C3 83 C5 A1) -> Ú  (Note: Ã is C3 83. Š is C5 A1)
+        # ÃƒÅ¡ (C3 83 C5 A1) -> Ú  (Note: Áis C3 83. Š is C5 A1)
         $bad_U = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC5, 0xA1))
-        # ÃƒÂ¯ (C3 83 C2 AF) -> ï
+        # Ãƒ¯ (C3 83 C2 AF) -> ï
         $bad_ii = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xC2, 0xAF))
         # Ãƒâ€˜ (C3 83 E2 80 98) -> Ñ (Check this bytes later if needed)
         # Assuming Ñ is C3 91. 
-        # Mojibake for Ñ: Ã followed by something.
-        # If Ãƒâ€˜ -> Ã (C3 83) â€˜ (E2 80 98).
+        # Mojibake for Ñ: Áfollowed by something.
+        # If Ãƒâ€˜ -> Á(C3 83) â€˜ (E2 80 98).
         $bad_N = [System.Text.Encoding]::UTF8.GetString(@(0xC3, 0x83, 0xE2, 0x80, 0x98))
 
         $content = $content.Replace($bad_o, "ó")
@@ -51,8 +51,8 @@ if (Test-Path $outfit_path) {
         $content = $content.Replace($bad_ii, "ï")
         $content = $content.Replace($bad_N, "Ñ")
         
-        # Emoji fixes (Bat: F0 9F A6 87 -> Ã°Å¸Â¦â€¡)
-        # Ã (C3 83) ° (C2 B0) Å (C3 85) ¸ (C2 B8) Â (C2 A6) ...
+        # Emoji fixes (Bat: F0 9F A6 87 -> Ã°Å¸¦â€¡)
+        # Á(C3 83) ° (C2 B0) Å (C3 85) ¸ (C2 B8)  (C2 A6) ...
         # Too complex to build manually. Assuming simple replacement works if script is utf8?
         # No, script is ansi.
         # Skip emojis for now, focusing on text readability.

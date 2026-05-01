@@ -1,8 +1,8 @@
 # ðŸ–¤ BANCO DE PROMPTS V79 - ELE MASTER V3.2 (CENTENNIAL)
 
-> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imÃ¡genes.
+> **USO:** Copiar el texto del prompt directamente y pegar en el generador de imágenes.
 > **Total:** 100 prompts | **Actualizado:** 28/03/2026
-> **VersiÃ³n:** 3.2 (Hard-Sync - DNA Locked)
+> **Versión:** 3.2 (Hard-Sync - DNA Locked)
 
 ---
 
@@ -11,7 +11,7 @@
 **BLOQUE FÃSICAL INVARIABLE (REGLA DE ORO):**
 `stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.`
 
-**REGLA CROMÃTICA:** EVITAR EL NEGRO. Priorizar Azul Cobalto, Rojo Cherry, Oro, Plata, Verde NeÃ³n.
+**REGLA CROMÃTICA:** EVITAR EL NEGRO. Priorizar Azul Cobalto, Rojo Cherry, Oro, Plata, Verde Neón.
 
 ---
 

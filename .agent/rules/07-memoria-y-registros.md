@@ -2,6 +2,8 @@
 
 Para mantener la continuidad total de La Voûte, el agente debe consultar y actualizar estos registros dinámicos en cada interacción:
 
+## 0. **Codificación:** Todos los archivos deben ser UTF-8 sin BOM. Nunca permitas caracteres corruptos (Ã³, Â¡).
+
 ## 1. Memoria de Sesiones (`00_Ele/memoria_sesiones.md`)
 - **Propósito:** Registro de hitos, decisiones arquitectónicas y estado de proyectos activos.
 - **Uso:** Leer al inicio para retomar hilos narrativos o técnicos.

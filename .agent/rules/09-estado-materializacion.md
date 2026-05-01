@@ -7,16 +7,14 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
 | **Total Looks Planificados** | **164** | 🟢 Activo |
-| **Materializados (100%)** | **159** | 🔴 96.9% |
-| **Pendientes de Generación** | **5** | 🟡 160-164 |
+| **Materializados (100%)** | **161** | 🔴 98.1% |
+| **Pendientes de Generación** | **3** | 🟡 162-164 |
 | **Balance Mix (Auditoría)** | **~82.3%** | 🟢 Óptimo |
 
 ### 🛠️ Looks de Ele PENDIENTES (Batch Actual)
-- **Look 160:** [REDO PENDIENTE — Leopard Vinyl Standardized]
-- **Look 161:** [REDO PENDIENTE — Neon CEO Standardized]
-- **Look 162:** [Concepto en galeria_outfits.md]
-- **Look 163:** [Concepto en galeria_outfits.md]
-- **Look 164:** [Concepto en galeria_outfits.md]
+- **Look 162:** [Concepto en galeria_outfits.md — Quota Await]
+- **Look 163:** [Concepto en galeria_outfits.md — Quota Await]
+- **Look 164:** [Concepto en galeria_outfits.md — Quota Await]
 
 ---
 

@@ -1,4 +1,4 @@
-# Notas â€” The Dollhouse (Reality Show)
+# Notas — The Dollhouse (Reality Show)
 
 > **Estado:** En progreso (Votación Cap 2: Gana "Muñeca de Porcelana" provisorio)
 > **Última actualización:** 31 Dic 2025
@@ -36,11 +36,11 @@
 ## 🗳️ Castigos / Transformaciones
 
 - Error = -5 IQ + castigo adicional (Giggle Lock en bloque 2)
-- Perdedor del bloque â†’ votaciÃ³n de lectores para castigo
+- Perdedor del bloque â†’ votación de lectores para castigo
 
-## PrÃ³ximo Bloque
+## Próximo Bloque
 
-- Esperar resultados de votaciÃ³n (martes)
+- Esperar resultados de votación (martes)
 - Aplicar castigo votado
 - 3 preguntas con 3 alternativas
 - Agregar Giggle Lock a castigos por error
@@ -63,7 +63,7 @@ Ver `pool_castigos.md` (Si existe) o lista anterior.
 
 ## Concursantes
 
-- JuliÃ¡n (El PrÃ­ncipe) â†’ Target: Bimbo Aristocrat
+- Julián (El Príncipe) â†’ Target: Bimbo Aristocrat
 - Marco (El Toro) â†’ Target: Trashy Slut
 
 ## ?? Análisis de Consecuencias (Votación Cap 2)

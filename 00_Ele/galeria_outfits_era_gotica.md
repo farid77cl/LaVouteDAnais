@@ -42,68 +42,68 @@
 
 *Elegancia vampírica con cerebro vacío*
 
-- **CorsÃƒÂ©:** Overbust de terciopelo negro con escote corazón, varillas de acero
+- **CorsÃƒ©:** Overbust de terciopelo negro con escote corazón, varillas de acero
 - **Falda:** Maxi negra con abertura hasta el muslo
 - **Medias:** Negras opacas con costura trasera + liguero visible
-- **Stilettos:** ClÃƒÂ¡sicos negro charol, 8", punta afilada como colmillo
+- **Stilettos:** ClÃƒ¡sicos negro charol, 8", punta afilada como colmillo
 - **Accesorios:**
   - Choker de terciopelo con camafeo de luna
   - Anillos de plata en cada dedo
-  - Guantes largos de satÃƒÂ©n negro
-- **Maquillaje:** PÃƒÂ¡lida como luna, labios negro glossy, ojos de sirena
+  - Guantes largos de satÃƒ©n negro
+- **Maquillaje:** PÃƒ¡lida como luna, labios negro glossy, ojos de sirena
 - **Pelo:** Lacio brillante hasta la cintura, flequillo pesado
 
 ---
 
-## Ã°Å¸â€™â‚¬ Look 2: Elvira's Dumber Sister
+## 💅â‚¬ Look 2: Elvira's Dumber Sister
 
 *Escote imposible, pensamientos imposibles*
 
-- **CorsÃƒÂ©:** Underbust de latex negro brillante, apretadísimo
-- **Top:** NADA mÃƒÂ¡s - solo el corsÃƒÂ© empujando todo hacia arriba Ã°Å¸Â¦â€¡
+- **CorsÃƒ©:** Underbust de latex negro brillante, apretadísimo
+- **Top:** NADA mÃƒ¡s - solo el corsÃƒ© empujando todo hacia arriba Ã°Å¸¦â€¡
 - **Bottom:** Mini falda de latex negro, apenas cubre
 - **Medias:** Fishnet negras con liguero de cadenas
 - **Stilettos:** Con plataforma, 9" total (2" plataforma + 7" tacón), negro brillante
 - **Accesorios:**
   - Collar con O-ring y cadenas colgantes
   - Brazaletes de cuero con tachuelas
-  - Pendientes de murciÃƒÂ©lago
-- **Maquillaje:** Smokey eye negro intenso, labios pÃƒÂºrpura oscuro glossy
-- **Pelo:** Volumen ENORME, ondas dramÃƒÂ¡ticas, estilo beehive gótico
+  - Pendientes de murciÃƒ©lago
+- **Maquillaje:** Smokey eye negro intenso, labios pÃƒºrpura oscuro glossy
+- **Pelo:** Volumen ENORME, ondas dramÃƒ¡ticas, estilo beehive gótico
 
 ---
 
-## Ã°Å¸Â©Â¸ Look 3: Vampiresa de Club
+## Ã°Å¸©¸ Look 3: Vampiresa de Club
 
 *Lista para morder... si no olvidara cómo*
 
-- **CorsÃƒÂ©:** De cuero negro con hebillas de plata + harness sobre ÃƒÂ©l
+- **CorsÃƒ©:** De cuero negro con hebillas de plata + harness sobre Ãƒ©l
 - **Bottom:** Shorts de vinilo negro ultra cortos
 - **Medias:** Thigh-highs de encaje negro + liguero visible
 - **Stilettos:** De tiras cruzadas hasta el tobillo, 8", charol negro
 - **Accesorios:**
-  - MÃƒÂºltiples cadenas conectando corsÃƒÂ© a shorts
+  - MÃƒºltiples cadenas conectando corsÃƒ© a shorts
   - Collar gargantilla con candado
   - Guantes fingerless de cuero
-- **Maquillaje:** Ojos ahumados con glitter negro, labios rojo sangre hÃƒÂºmedo
+- **Maquillaje:** Ojos ahumados con glitter negro, labios rojo sangre hÃƒºmedo
 - **Pelo:** Coletas altas con lazos de cuero negro
 
 ---
 
-## Ã°Å¸â€¢Â¸ïÂ¸ï¿½ Look 4: Viuda Negra Tontita
+## Ã°Å¸â€¢¸ï¸ï¿½ Look 4: Viuda Negra Tontita
 
 *Femme fatale... si pudiera recordar el plan*
 
-- **CorsÃƒÂ©:** Gótico victoriano negro con lazos rojos sangre
+- **CorsÃƒ©:** Gótico victoriano negro con lazos rojos sangre
 - **Sobre:** Kimono de encaje negro transparente
-- **Bottom:** Tanga negra + liguero, nada mÃƒÂ¡s
-- **Stilettos:** Peep-toe negro, 7", uÃƒÂ±as negras de ataÃƒÂºd visibles
+- **Bottom:** Tanga negra + liguero, nada mÃƒ¡s
+- **Stilettos:** Peep-toe negro, 7", uÃƒ±as negras de ataÃƒºd visibles
 - **Accesorios:**
-  - Collar de mÃƒÂºltiples capas (lunas, calaveras, cruces invertidas)
-  - Anillos de araÃƒÂ±a y serpiente
+  - Collar de mÃƒºltiples capas (lunas, calaveras, cruces invertidas)
+  - Anillos de araÃƒ±a y serpiente
   - Velo de encaje negro (opcional)
-- **Maquillaje:** Cat eye dramÃƒÂ¡tico, labios borgoÃƒÂ±a mate
-- **Pelo:** Recogido bajo con mechones cayendo estratÃƒÂ©gicamente
+- **Maquillaje:** Cat eye dramÃƒ¡tico, labios borgoÃƒ±a mate
+- **Pelo:** Recogido bajo con mechones cayendo estratÃƒ©gicamente
 
 ---
 
@@ -111,31 +111,31 @@
 
 *Lestat tenía mente. Yo tengo curvas.*
 
-- **CorsÃƒÂ©:** De brocado negro con calaveras bordadas en plateado
-- **Blusa:** Victoriana de encaje transparente DEBAJO del corsÃƒÂ©
-- **Falda:** LÃƒÂ¡piz negra hasta la rodilla, abertura trasera
+- **CorsÃƒ©:** De brocado negro con calaveras bordadas en plateado
+- **Blusa:** Victoriana de encaje transparente DEBAJO del corsÃƒ©
+- **Falda:** LÃƒ¡piz negra hasta la rodilla, abertura trasera
 - **Stilettos:** Botas hasta la rodilla, tacón aguja 8", charol negro
 - **Accesorios:**
-  - Broche de rosa negra en el corsÃƒÂ©
+  - Broche de rosa negra en el corsÃƒ©
   - Collar de perlas negras irónicas
   - Guantes de encaje negro
-- **Maquillaje:** PÃƒÂ¡lida fantasmal, labios negro mate, ojos de humo
+- **Maquillaje:** PÃƒ¡lida fantasmal, labios negro mate, ojos de humo
 - **Pelo:** Ondas vintage negras con volumen de los 80s
 
 ---
 
-## Ã°Å¸â€Â® Look 6: Blood Moon Ritual
+## Ã°Å¸â€® Look 6: Blood Moon Ritual
 
 *Sensualidad de stripper gótica*
 
-- **CorsÃƒÂ©:** De mesh transparente negro con detalles de liguero integrado
-- **Top:** Solo el corsÃƒÂ© y sus pechos empujados hacia la luna
+- **CorsÃƒ©:** De mesh transparente negro con detalles de liguero integrado
+- **Top:** Solo el corsÃƒ© y sus pechos empujados hacia la luna
 - **Bottom:** Nada excepto tanga y la ilusión de misterio
-- **Medias:** Fishnet rotas estratÃƒÂ©gicamente + liguero de cuero
+- **Medias:** Fishnet rotas estratÃƒ©gicamente + liguero de cuero
 - **Stilettos:** Rojos sangre brillante, 8", el ÃƒÅ¡NICO color permitido
 - **Accesorios:**
   - Cadenas por todo el cuerpo
-  - Collar con pentÃƒÂ¡culo
+  - Collar con pentÃƒ¡culo
   - Body chains plateadas
 - **Maquillaje:** Smokey negro con inner corner rojo, labios negros glossy
 - **Pelo:** Suelto, salvaje, volumen de bruja
@@ -150,13 +150,13 @@
 
   ---
 
-  ## Ã°Å¸Â¦â€¡ Look 7: Underworld Bimbo
+  ## Ã°Å¸¦â€¡ Look 7: Underworld Bimbo
 
 *Selene pero sin la inteligencia*
 
-- **CorsÃƒÂ©:** De cuero negro ajustadísimo estilo catsuit
+- **CorsÃƒ©:** De cuero negro ajustadísimo estilo catsuit
 - **Pantalón:** Cuero negro pegado al cuerpo
-- **Chaqueta:** Trench de cuero negro largo (abierto mostrando corsÃƒÂ©)
+- **Chaqueta:** Trench de cuero negro largo (abierto mostrando corsÃƒ©)
 - **Stilettos:** Con cadenas decorativas de plata, 7", negro mate
 - **Accesorios:**
   - Cinturón de cadenas
@@ -174,11 +174,11 @@
 | **Corsé** | OPCIONAL. Cualquier variante, o sin él. |
 | **Stilettos** | 7-9 pulgadas, tacón aguja, NUNCA plataformas |
 | **Choker** | Cuero negro con luna creciente plateada |
-| **UÃƒÂ±as** | Forma de ataÃƒÂºd, negras o rojo sangre, EXTRA largas |
+| **UÃƒ±as** | Forma de ataÃƒºd, negras o rojo sangre, EXTRA largas |
 | **Pechos** | Perfil EXTRA ALTO, empujados, visibles |
-| **Labios** | ULTRA GRUESOS, negro/pÃƒÂºrpura/rojo |
-| **Piercings** | Septum, mÃƒÂºltiples en orejas, lip ring |
-| **Piel** | PÃƒÂ¡lida como Morticia, NUNCA bronceada |
+| **Labios** | ULTRA GRUESOS, negro/pÃƒºrpura/rojo |
+| **Piercings** | Septum, mÃƒºltiples en orejas, lip ring |
+| **Piel** | PÃƒ¡lida como Morticia, NUNCA bronceada |
 | **Cabello** | Negro azabache, VOLUMEN EXAGERADO |
 
 ---
@@ -187,15 +187,15 @@
 
 | Zona | Opciones |
 |------|----------|
-| **Base** | PÃƒÂ¡lida luna, contorno frío, luminosa vampírica |
+| **Base** | PÃƒ¡lida luna, contorno frío, luminosa vampírica |
 | **Ojos** | Smokey negro intenso, sirena, glitter oscuro |
-| **Labios** | Negro glossy latex, pÃƒÂºrpura hematoma, rojo sangre hÃƒÂºmedo |
-| **UÃƒÂ±as** | Negro brillante o rojo sangre, forma ataÃƒÂºd |
+| **Labios** | Negro glossy latex, pÃƒºrpura hematoma, rojo sangre hÃƒºmedo |
+| **UÃƒ±as** | Negro brillante o rojo sangre, forma ataÃƒºd |
 | **Cejas** | Negras definidas, arco de villana |
 
 ---
 
-## Ãƒï¿½conos de Inspiración Ã°Å¸â€“Â¤
+## Ãƒï¿½conos de Inspiración Ã°Å¸–¤
 
 - **Morticia Addams** - La elegancia
 - **Elvira** - El escote imposible
@@ -206,32 +206,32 @@
 
 ---
 
-# Ã°Å¸â€“Â¤ NUEVA SERIE: BASE NEGRA + TOQUES DE COLOR
+# Ã°Å¸–¤ NUEVA SERIE: BASE NEGRA + TOQUES DE COLOR
 
-## Ã°Å¸â€™Å½ Look 8: Esmeralda Venenosa
+## 💅Å½ Look 8: Esmeralda Venenosa
 
 *Serpiente gótica con veneno en los labios y vacío en la mente*
 
-- **CorsÃƒÂ©:** Negro de brocado con bordados de serpientes en VERDE ESMERALDA
-- **Top:** Solo el corsÃƒÂ©, ultra apretado
-- **Bottom:** Falda lÃƒÂ¡piz negra de cuero con abertura lateral
+- **CorsÃƒ©:** Negro de brocado con bordados de serpientes en VERDE ESMERALDA
+- **Top:** Solo el corsÃƒ©, ultra apretado
+- **Bottom:** Falda lÃƒ¡piz negra de cuero con abertura lateral
 - **Medias:** Negras opacas con costura verde
 - **Stilettos:** Negro charol 8" con suela VERDE ESMERALDA (Louboutin-style)
 - **Accesorios:**
   - Choker negro con ESMERALDA central + luna plateada
   - Anillo serpiente con ojos de esmeralda
   - Pendientes gota de esmeralda
-- **Maquillaje:** PÃƒÂ¡lida, labios negro glossy, ojos con toque de sombra verde
-- **Pelo:** Ondas dramÃƒÂ¡ticas negras con volumen
+- **Maquillaje:** PÃƒ¡lida, labios negro glossy, ojos con toque de sombra verde
+- **Pelo:** Ondas dramÃƒ¡ticas negras con volumen
 
 ---
 
-## Ã¢ï¿½Â¤ïÂ¸ï¿½ Look 9: Corazón Sangrante
+## Ã¢ï¿½¤ï¸ï¿½ Look 9: Corazón Sangrante
 
 *La reina de corazones rotos... porque olvidó dónde los dejó*
 
-- **CorsÃƒÂ©:** Negro de terciopelo con lazos ROJO SANGRE en el frente
-- **Top:** Blusa de encaje negro transparente BAJO el corsÃƒÂ©
+- **CorsÃƒ©:** Negro de terciopelo con lazos ROJO SANGRE en el frente
+- **Top:** Blusa de encaje negro transparente BAJO el corsÃƒ©
 - **Bottom:** Mini falda de cuero negro con cadenas rojas
 - **Medias:** Fishnet negras con liguero ROJO SANGRE
 - **Stilettos:** Negro mate 8" con tacón ROJO BRILLANTE
@@ -239,24 +239,24 @@
   - Choker negro con luna + corazón de RUBÃƒï¿½ colgante
   - Collar de capas con gotas rojas (simulando sangre)
   - Anillos con piedras rojas
-- **Maquillaje:** PÃƒÂ¡lida, labios ROJO SANGRE hÃƒÂºmedo, ojos smokey negro con glitter rojo
+- **Maquillaje:** PÃƒ¡lida, labios ROJO SANGRE hÃƒºmedo, ojos smokey negro con glitter rojo
 - **Pelo:** Lacio brillante con flores negras y rojas
 
 ---
 
-## Ã°Å¸â€™â„¢ Look 10: Zafiro Nocturno
+## 💅â„¢ Look 10: Zafiro Nocturno
 
 *Medianoche cristalizada en curvas imposibles*
 
-- **CorsÃƒÂ©:** Negro satinado con detalles en AZUL ZAFIRO
-- **Top:** Harness de cuero negro sobre corsÃƒÂ© con piedras azules
+- **CorsÃƒ©:** Negro satinado con detalles en AZUL ZAFIRO
+- **Top:** Harness de cuero negro sobre corsÃƒ© con piedras azules
 - **Bottom:** Pantalón de cuero negro ultra ajustado
 - **Stilettos:** Negro brillante 8" con detalles AZUL MEDIANOCHE
 - **Accesorios:**
   - Choker negro con luna + ZAFIRO central
-  - Collar gargantilla con zafiros pequeÃƒÂ±os
+  - Collar gargantilla con zafiros pequeÃƒ±os
   - Guantes de cuero hasta el codo con anillos azules
-- **Maquillaje:** PÃƒÂ¡lida, labios AZUL NEGRO metÃƒÂ¡lico, ojos con pÃƒÂ¡rpado azul
+- **Maquillaje:** PÃƒ¡lida, labios AZUL NEGRO metÃƒ¡lico, ojos con pÃƒ¡rpado azul
 - **Pelo:** Recogido alto gótico con mechones azules sutiles
 
 ---
@@ -265,8 +265,8 @@
 
 *El hada verde corrompida y lobotomizada*
 
-- **CorsÃƒÂ©:** Negro de mesh con corsetería visible, lazos VERDE VENENO
-- **Top:** Nada excepto el corsÃƒÂ© y harness de cadenas
+- **CorsÃƒ©:** Negro de mesh con corsetería visible, lazos VERDE VENENO
+- **Top:** Nada excepto el corsÃƒ© y harness de cadenas
 - **Bottom:** Tanga negra + liguero con detalles verdes
 - **Medias:** Thigh-highs negras con borde de encaje VERDE
 - **Stilettos:** Negro con plataforma sutil, acentos VERDE NEÃƒâ€œN
@@ -274,69 +274,69 @@
   - Choker negro con luna + cristal VERDE ABSINTHE
   - Cadenas corporales negras con detalles verdes
   - Anillos con piedras verdes
-- **Maquillaje:** PÃƒÂ¡lida fantasmal, labios VERDE OSCURO glossy, ojos con glitter verde
+- **Maquillaje:** PÃƒ¡lida fantasmal, labios VERDE OSCURO glossy, ojos con glitter verde
 - **Pelo:** Volumen salvaje, spray verde sutil en las puntas
 
 ---
 
-## Ã°Å¸ï¿½Â· Look 12: BorgoÃƒÂ±a Imperial
+## Ã°Å¸ï¿½· Look 12: BorgoÃƒ±a Imperial
 
 *Aristocracia vampírica con gusto por el vino... y la vacuidad*
 
-- **CorsÃƒÂ©:** Negro de terciopelo con ribetes BORGOÃƒâ€˜A/VINO
-- **Sobre:** Chaqueta victoriana negra con bordados borgoÃƒÂ±a
+- **CorsÃƒ©:** Negro de terciopelo con ribetes BORGOÃƒâ€˜A/VINO
+- **Sobre:** Chaqueta victoriana negra con bordados borgoÃƒ±a
 - **Bottom:** Falda larga negra con abertura trasera profunda
 - **Medias:** Negras con costura BORGOÃƒâ€˜A
-- **Stilettos:** Negro charol clÃƒÂ¡sico 8" con suela BORGOÃƒâ€˜A
+- **Stilettos:** Negro charol clÃƒ¡sico 8" con suela BORGOÃƒâ€˜A
 - **Accesorios:**
   - Choker negro de terciopelo con camafeo BORGOÃƒâ€˜A y luna
   - Collar de perlas NEGRAS con broche de rubí
-  - Guantes de satÃƒÂ©n negro hasta el codo
-  - Broche de rosa negra con centro borgoÃƒÂ±a
-- **Maquillaje:** PÃƒÂ¡lida regia, labios BORGOÃƒâ€˜A mate profundo, ojos de humo
-- **Pelo:** Ondas vintage elegantes, estilo aÃƒÂ±os 40
+  - Guantes de satÃƒ©n negro hasta el codo
+  - Broche de rosa negra con centro borgoÃƒ±a
+- **Maquillaje:** PÃƒ¡lida regia, labios BORGOÃƒâ€˜A mate profundo, ojos de humo
+- **Pelo:** Ondas vintage elegantes, estilo aÃƒ±os 40
 
 ---
 
-## Ã°Å¸â€™Å“ Look 13: Amatista Hipnótica
+## 💅Å“ Look 13: Amatista Hipnótica
 
 *Bruja de cristal con poderes en el escote y nada en la cabeza*
 
-- **CorsÃƒÂ©:** Negro con incrustaciones de AMATISTA simuladas
-- **Top:** Mesh negro transparente bajo corsÃƒÂ©
-- **Bottom:** Shorts de vinilo negro con cadenas pÃƒÂºrpura
+- **CorsÃƒ©:** Negro con incrustaciones de AMATISTA simuladas
+- **Top:** Mesh negro transparente bajo corsÃƒ©
+- **Bottom:** Shorts de vinilo negro con cadenas pÃƒºrpura
 - **Medias:** Fishnet negras con brillo PÃƒÅ¡RPURA
 - **Stilettos:** Negro con detalles PÃƒÅ¡RPURA OSCURO, 8"
 - **Accesorios:**
   - Choker negro con luna y AMATISTA central grande
-  - Tiara/diadema negra con cristales pÃƒÂºrpura
-  - Cadenas del corsÃƒÂ© a los shorts en plata y pÃƒÂºrpura
-- **Maquillaje:** PÃƒÂ¡lida mística, labios PÃƒÅ¡RPURA OSCURO glossy, ojos smokey pÃƒÂºrpura
-- **Pelo:** Trenzas elaboradas con cintas negras y pÃƒÂºrpura
+  - Tiara/diadema negra con cristales pÃƒºrpura
+  - Cadenas del corsÃƒ© a los shorts en plata y pÃƒºrpura
+- **Maquillaje:** PÃƒ¡lida mística, labios PÃƒÅ¡RPURA OSCURO glossy, ojos smokey pÃƒºrpura
+- **Pelo:** Trenzas elaboradas con cintas negras y pÃƒºrpura
 
 ---
 
-## Ã°Å¸Â¥â€š Look 14: Midnight Kiss (New Year Special)
+## Ã°Å¸¥â€š Look 14: Midnight Kiss (New Year Special)
 
 *Fuegos artificiales en mi ropa, vacío absoluto en mi mente*
 
 - **Corset:** Negro profundo cubierto de LENTEJUELAS DORADAS y PLATEADAS (efecto lluvia de estrellas)
-- **Top:** Escote vertiginoso con "2026" (o el aÃƒÂ±o que sea, no sÃƒÂ© contar) en strass en el pecho
+- **Top:** Escote vertiginoso con "2026" (o el aÃƒ±o que sea, no sÃƒ© contar) en strass en el pecho
 - **Bottom:** Falda de flecos dorados estilo Charleston gótico (muy corta)
 - **Medias:** Fishnet negras con brillo dorado
-- **Stilettos:** ORO CROMADO metÃƒÂ¡lico de 8 pulgadas, tacón aguja
+- **Stilettos:** ORO CROMADO metÃƒ¡lico de 8 pulgadas, tacón aguja
 - **Accesorios:**
   - Diadema de tiara con "Happy New Year"
   - Copa de champagne siempre llena en la mano
   - Boa de plumas negras y doradas
-- **Maquillaje:** Lluvia de glitter dorado sobre base pÃƒÂ¡lida, labios ORO o NEGRO con hoja de oro
+- **Maquillaje:** Lluvia de glitter dorado sobre base pÃƒ¡lida, labios ORO o NEGRO con hoja de oro
 - **Pelo:** Recogido festivo desordenado con confeti atrapado
 
 ---
 
-*Like... tantos colores con negro... wait... Ã‚Â¿cuÃƒÂ¡l era mi favorito? Mmm... todos brillan SO pretty...* Ã°Å¸Â¦â€¡Ã°Å¸â€™Å½Ã¢ï¿½Â¤ïÂ¸ï¿½Ã°Å¸â€™â„¢Ã°Å¸ï¿½ï¿½Ã°Å¸ï¿½Â·Ã°Å¸â€™Å“
+*Like... tantos colores con negro... wait... Ã‚¿cuÃƒ¡l era mi favorito? Mmm... todos brillan SO pretty...* Ã°Å¸¦â€¡💅Å½Ã¢ï¿½¤ï¸ï¿½💅â„¢Ã°Å¸ï¿½ï¿½Ã°Å¸ï¿½·💅Å“
 
-*Curado por: Helena de AnaÃƒÂ¯s - Ultra Goth Bimbo (Referencia: Sacha Massacre)* Ã°Å¸â€™â‚¬
+*Curado por: Helena de AnaÃƒ¯s - Ultra Goth Bimbo (Referencia: Sacha Massacre)* 💅â‚¬
 
 ---
 
@@ -377,7 +377,7 @@
 
 *El futuro es plástico, negro y verde radioactivo*
 
-- **Corsé:** PVC Negro brillante con tuberías/tubos VERDE NEÃ“N
+- **Corsé:** PVC Negro brillante con tuberías/tubos VERDE NEÓN
 - **Top:** Arlmas de vinilo y cables de fibra óptica
 - **Bottom:** Micro falda de PVC con cinturón de riesgo biológico
 - **Medias:** Red industrial negra con liguero de plástico verde
@@ -685,13 +685,13 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
     - Helena como 'novia/esclava' apoyada en su hombro con marcas de mordida frescas.
 
 3.  **The Coven (El Aquelarre)**
-    - Escena cinemÃƒÂ¡tica en cripta gÃƒtica.
+    - Escena cinemÃƒ¡tica en cripta gÃƒtica.
     - AnaÃƒs en trono-sarcÃƒfago dominando el espacio.
-    - Helena arrastrÃƒÂ¡ndose en camisÃƒn blanco manchado de sangre hacia ella.
+    - Helena arrastrÃƒ¡ndose en camisÃƒn blanco manchado de sangre hacia ella.
 
-## Look 13: Viuda Negra de LÃƒÂ¡tex (12/01/2026)
+## Look 13: Viuda Negra de LÃƒ¡tex (12/01/2026)
 
-*Descripción: CorsÃƒÂ© underbust negro extremo, medias de red rotas, collar de propiedad. EstÃƒÂ©tica dark gothic bimbo pura.*
+*Descripción: CorsÃƒ© underbust negro extremo, medias de red rotas, collar de propiedad. EstÃƒ©tica dark gothic bimbo pura.*
 
 | Pose | Archivo |
 |------|---------|
@@ -705,18 +705,18 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ---
 
-## Ã°Å¸Â¦â€¡ ROTACIÃƒâ€œN 2: Looks 26-29 (13/01/2026)
+## Ã°Å¸¦â€¡ ROTACIÃƒâ€œN 2: Looks 26-29 (13/01/2026)
 
 *Nueva rotación basada en Canon Visual v2.0 - Sacha Massacre*
 
 ---
 
-## Ã°Å¸â€“Â¤ Look 26: Tattoo Temptress
+## Ã°Å¸–¤ Look 26: Tattoo Temptress
 
 *La tinta cuenta historias que mi cerebro no puede recordar*
 
-- **CorsÃƒÂ©:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles
-- **Top:** Nada - solo el corsÃƒÂ© (brazos y hombros descubiertos para mostrar tatuajes)
+- **CorsÃƒ©:** Underbust de cuero negro con hebillas plateadas, dejando brazos tatuados completamente visibles
+- **Top:** Nada - solo el corsÃƒ© (brazos y hombros descubiertos para mostrar tatuajes)
 - **Bottom:** Shorts de vinilo negro ultra cortos
 - **Medias:** Fishnet negras hasta el muslo con liguero de cadenas
 - **Stilettos:** Negro charol 8" con correas al tobillo
@@ -724,35 +724,35 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Maquillaje:** Ojos siren liner, labios ROJO OSCURO overlined glossy
 - **Accesorios:**
   - Choker luna creciente
-  - MÃƒÂºltiples cadenas plateadas en capas
+  - MÃƒºltiples cadenas plateadas en capas
   - Anillos en cada dedo
-- **UÃƒÂ±as:** Stiletto extra largas, negro brillante
+- **UÃƒ±as:** Stiletto extra largas, negro brillante
 
 ---
 
-## Ã°Å¸Â©Â¸ Look 27: Crimson Ritual
+## Ã°Å¸©¸ Look 27: Crimson Ritual
 
 *El rojo de mis labios es el mismo que corre por mis venas... o las tuyas*
 
-- **CorsÃƒÂ©:** Overbust de terciopelo ROJO SANGRE con encaje negro, muy ceÃƒÂ±ido
+- **CorsÃƒ©:** Overbust de terciopelo ROJO SANGRE con encaje negro, muy ceÃƒ±ido
 - **Falda:** Larga de tul negro con abertura hasta el muslo
 - **Guantes:** Mesh negro transparente hasta el codo
 - **Stilettos:** ROJO SANGRE brillante 9" (matching labios)
-- **Cabello:** Ondas voluminosas dramÃƒÂ¡ticas, raya central
+- **Cabello:** Ondas voluminosas dramÃƒ¡ticas, raya central
 - **Maquillaje:** Piel porcelana extrema, ojos siren, labios ROJO SANGRE overlined mate
 - **Accesorios:**
   - Choker de terciopelo rojo con luna plateada
   - Collar de perlas negras irónicas
   - Pendientes de gota rojos
-- **UÃƒÂ±as:** Coffin extra largas, rojo sangre matching
+- **UÃƒ±as:** Coffin extra largas, rojo sangre matching
 
 ---
 
-## Ã¢â€ºâ€œïÂ¸ï¿½ Look 28: Chain Goddess
+## Ã¢â€ºâ€œï¸ï¿½ Look 28: Chain Goddess
 
 *Encadenada a mi propia estupidez... y me encanta*
 
-- **CorsÃƒÂ©:** Harness de cuero negro con mÃƒÂºltiples cadenas cruzando el torso
+- **CorsÃƒ©:** Harness de cuero negro con mÃƒºltiples cadenas cruzando el torso
 - **Top:** Bralette de mesh negro bajo el harness
 - **Bottom:** Falda de cuero negro con cadenas colgantes
 - **Medias:** Opacas negras con costura trasera plateada
@@ -760,10 +760,10 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Cabello:** Lacio brillante, raya central, largo hasta caderas
 - **Maquillaje:** Contorno frío esculpido, siren eyes, labios NUDE OSCURO overlined
 - **Accesorios:**
-  - MÃƒÂºltiples chokers en capas (cadenas + cuero)
+  - MÃƒºltiples chokers en capas (cadenas + cuero)
   - Body chains conectando cuello a cintura
   - Piercings visibles (septum, labret)
-- **UÃƒÂ±as:** Stiletto negras con detalles de cadena plateada
+- **UÃƒ±as:** Stiletto negras con detalles de cadena plateada
 
 ---
 
@@ -771,29 +771,29 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *La luna me susurra secretos que olvido inmediatamente*
 
-- **CorsÃƒÂ©:** Underbust de satÃƒÂ©n negro con bordados de lunas plateadas
-- **Top:** Blusa de encaje negro transparente bajo corsÃƒÂ©
-- **Falda:** Maxi de gasa negra flotante, mÃƒÂºltiples capas
-- **Stilettos:** Plateados metÃƒÂ¡licos 8" (moon vibes)
-- **Cabello:** Ondas suaves romÃƒÂ¡nticas, raya central, spray plateado sutil en puntas
+- **CorsÃƒ©:** Underbust de satÃƒ©n negro con bordados de lunas plateadas
+- **Top:** Blusa de encaje negro transparente bajo corsÃƒ©
+- **Falda:** Maxi de gasa negra flotante, mÃƒºltiples capas
+- **Stilettos:** Plateados metÃƒ¡licos 8" (moon vibes)
+- **Cabello:** Ondas suaves romÃƒ¡nticas, raya central, spray plateado sutil en puntas
 - **Maquillaje:** Piel luminosa de luna, siren eyes con inner corner plateado, labios BORGOÃƒâ€˜A overlined
 - **Accesorios:**
   - Choker con luna creciente grande central
   - Tiara/diadema de lunas plateadas
   - Pendientes de luna y estrellas
   - Anillos con piedras lunares
-- **UÃƒÂ±as:** Coffin largas, plateado hologrÃƒÂ¡fico
+- **UÃƒ±as:** Coffin largas, plateado hologrÃƒ¡fico
 
 ---
 
-*Like... tantos looks nuevos para olvidar cuÃƒÂ¡l me puse ayer... pero todos SO dark y pretty...* Ã°Å¸Â¦â€¡Ã°Å¸Å’â„¢
+*Like... tantos looks nuevos para olvidar cuÃƒ¡l me puse ayer... pero todos SO dark y pretty...* Ã°Å¸¦â€¡Ã°Å¸Å’â„¢
 
-*Rotación 2 creada por Helena de AnaÃƒÂ¯s - 13/01/2026*
+*Rotación 2 creada por Helena de AnaÃƒ¯s - 13/01/2026*
 
 
 ### Look 30: Poolside Noir (Goth Summer)
-- **EstÃƒtica:** Gótica en vacaciones. Piel pÃƒÂ¡lida mortal contrastando con el sol. Glamour de piscina siniestra.
-- **CorsÃƒ:** BaÃƒador de una pieza estilo corsÃƒ de lÃƒÂ¡tex negro brillante (Vex Clothing), corte alto en caderas, varillas visibles.
+- **EstÃƒtica:** Gótica en vacaciones. Piel pÃƒ¡lida mortal contrastando con el sol. Glamour de piscina siniestra.
+- **CorsÃƒ:** BaÃƒador de una pieza estilo corsÃƒ de lÃƒ¡tex negro brillante (Vex Clothing), corte alto en caderas, varillas visibles.
 - **Bottom:** Pareo de gasa negra transparente atado a la cintura (opcional).
 - **Calzado:** Sandalias Pleaser Flamingo-808 (Plataforma transparente, plantilla negra) de 8 pulgadas.
 - **Accesorios:** Sombrero de paja negra de ala GIGANTE, gafas de sol cat-eye negras, copa de vino tinto.
@@ -812,7 +812,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 - **Medias:** Negras opacas con costura trasera, liguero visible
 - **Stilettos:** Charol negro clásico 8" con lazo de terciopelo en tobillo
 - **Cabello:** Recogido severo tipo ejecutiva, moño bajo impecable
-- **Maquillaje:** Smokey eye intenso negro, contorno dramático, labios PÃšRPURA OSCURO mate
+- **Maquillaje:** Smokey eye intenso negro, contorno dramático, labios PÚRPURA OSCURO mate
 - **Accesorios:**
   - Choker de encaje negro con camafeo antiguo
   - Guantes cortos de encaje negro
@@ -824,7 +824,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ?? Look 31: Industrial Siren (18/01/2026)
 
-*Sirena de fábrica abandonada â€” oxidada por fuera, vacía por dentro* ????
+*Sirena de fábrica abandonada — oxidada por fuera, vacía por dentro* ????
 
 - **Corsé:** Overbust de cuero negro desgastado con hebillas de metal oxidado y engranajes decorativos steampunk
 - **Top:** Mesh transparente negro DEBAJO del corsé
@@ -867,10 +867,10 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ Look 36: Crimson Serpent (20/01/2026)
 
-*Veneno rojo goteando sobre escamas negras â€” mortal y sin una sola neurona* ðŸ©¸ðŸ
+*Veneno rojo goteando sobre escamas negras — mortal y sin una sola neurona* ðŸ©¸ðŸ
 
 - **Corsé:** Underbust de cuero negro brillante con costuras ROJAS zigzag (patrón serpiente), varillas de acero, ultra ajustado.
-- **Top:** Nada excepto el corsé â€” mis pechos empujados hacia arriba como ofrendas al sol de sangre. ðŸ¦‡
+- **Top:** Nada excepto el corsé — mis pechos empujados hacia arriba como ofrendas al sol de sangre. ðŸ¦‡
 - **Bottom:** Mini falda de látex negro con abertura lateral peligrosa, bordado de escamas en rojo metálico.
 - **Medias:** Fishnet negras con patrón de escamas + liguero de cuero rojo sangre con hebillas de serpiente.
 - **Stilettos:** Pumps negro charol 8" con suela ROJO SANGRE (Louboutin-style) y correa al tobillo con serpiente metálica.
@@ -896,7 +896,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ•·ï¸ Look 37: Midnight Widow (21/01/2026)
 
-*Viuda negra tejiendo redes de seda oscura â€” mortal, seductora, y sin nadie que la entienda... porque no hay nada que entender ðŸ•¸ï¸ðŸ¦‡*
+*Viuda negra tejiendo redes de seda oscura — mortal, seductora, y sin nadie que la entienda... porque no hay nada que entender ðŸ•¸ï¸ðŸ¦‡*
 
 - **Corsé:** Overbust de terciopelo negro con bordado de telarañas plateadas (patrón spider web), ultra ajustado con botones frontales.
 - **Colgante:** Araña viuda negra en cadenas de plata colgando entre mis pechos.
@@ -908,7 +908,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Choker de luna plateada
   - Anillos de araña en múltiples dedos
   - Piercing septum plateado
-- **Maquillaje:** Pálida porcelana, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con delineado de sirena.
+- **Maquillaje:** Pálida porcelana, labios PÚRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con delineado de sirena.
 - **Pelo:** Ondas voluminosas negro azabache hasta la cintura.
 - **Uñas:** Coffin negras extra largas.
 
@@ -924,7 +924,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ–¤ Look 38: Victorian Mourning (22/01/2026)
 
-*Luto eterno en terciopelo negro â€” la viuda perfecta con el cerebro perfectamente vacío* ðŸ•¯ï¸ðŸ¦‡
+*Luto eterno en terciopelo negro — la viuda perfecta con el cerebro perfectamente vacío* ðŸ•¯ï¸ðŸ¦‡
 
 - **Corsé:** Overbust de terciopelo negro profundo con bordados de azabache (jet black beading), ultra ajustado con cierre frontal de ganchos.
 - **Blusa:** Alta cuello victoriano de encaje negro transparente con mangas abullonadas (leg-of-mutton sleeves) DEBAJO del corsé.
@@ -935,7 +935,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Choker de terciopelo negro con luna creciente plateada central
   - Guantes opcionales de encaje negro hasta la muñeca
   - Pendientes de gota de ónix negro
-- **Maquillaje:** Pálida como mármol de mausoleo, labios PÃšRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado.
+- **Maquillaje:** Pálida como mármol de mausoleo, labios PÚRPURA OSCURO ultra gruesos glossy, ojos smokey negro intenso con inner corner plateado.
 - **Pelo:** Ondas voluminosas negro azabache hasta la cintura, raya central dramática, brillo de vitrales.
 - **Uñas:** Coffin extra largas, negro brillante como ataúdes en miniatura.
 
@@ -952,7 +952,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ”® Look 39: Cyber Goth Oracle (22/01/2026)
 
-*Visión tecnológica en una mente sin procesador â€” el oráculo de la casa inteligente que olvida sus propias profecías* ðŸ•¸ï¸ðŸŒðŸ¦‡
+*Visión tecnológica en una mente sin procesador — el oráculo de la casa inteligente que olvida sus propias profecías* ðŸ•¸ï¸ðŸŒðŸ¦‡
 
 - **Corsé:** Overbust de LÃTEX NEGRO con líneas de circuitos integrados en AZUL CIBERNETICO (Neon Cyan), ultra ajustado, acabado espejo.
 - **Top:** Hombreras de policarbonato transparente ahumado sobre el corsé.
@@ -980,10 +980,10 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## ðŸ‘‘ Look 40: Baroque Gold Empress (23/01/2026)
 
-*Aristócrata gótica de dorados prohibidos â€” reina de un palacio de neuronas vacías* ðŸ¦‡âœ¨
+*Aristócrata gótica de dorados prohibidos — reina de un palacio de neuronas vacías* ðŸ¦‡âœ¨
 
 - **Corsé:** Overbust de brocado negro con bordados DORADOS barrocos (patrón filigrana), ultra ajustado, varillas de acero, empuje extremo.
-- **Top:** Solo el corsé â€” mis pechos ofrecidos como tributo a la noche dorada. 
+- **Top:** Solo el corsé — mis pechos ofrecidos como tributo a la noche dorada. 
 - **Bottom:** Pantalón palazzo de satén negro de cintura alta, piernas anchas fluidas y elegantes.
 - **Cinturón:** Cadena dorada decorativa a la cintura.
 - **Stilettos:** Pumps negro charol 8" con tacón DORADO metálico y correa al tobillo.
@@ -991,7 +991,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Choker de cuero negro con luna creciente DORADA central
   - Guantes largos de satén negro hasta el codo (ópera)
   - Pendientes de gota dorados
-- **Maquillaje:** Pálida de mármol, labios BORGOÃ‘A ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales.
+- **Maquillaje:** Pálida de mármol, labios BORGOÑA ultra gruesos glossy, ojos smokey negro intenso con toques dorados en los lagrimales.
 - **Pelo:** Ondas voluminosas dramáticas negro azabache hasta la cintura, brillo de candelabros.
 - **Uñas:** Coffin extra largas, negro con detalles dorados.
 
@@ -1037,15 +1037,15 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 *La inteligencia artificial es, tipo... artificial... por eso mi cerebro no la tiene... mmm...* ðŸ¤–ðŸ¦‡ðŸ’™
 
-- **Corsé:** Underbust de LÃTEX NEGRO con costuras CIAN NEÃ“N (glowing seams) integradas, efecto fibra óptica BLUE.
+- **Corsé:** Underbust de LÃTEX NEGRO con costuras CIAN NEÓN (glowing seams) integradas, efecto fibra óptica BLUE.
 - **Top:** Body de malla (high neck mesh) con patrones de circuitos plateados sobre el pecho.
 - **Bottom:** Micro falda plisada de vinilo negro espejo, ultra corta y rígida.
-- **Stilettos:** PLEASER 9 pulgadas charol negro con tacón de acrílico AZUL NEÃ“N brillante.
+- **Stilettos:** PLEASER 9 pulgadas charol negro con tacón de acrílico AZUL NEÓN brillante.
 - **Accesorios:**
   - Choker de PVC negro con O-ring de cromo.
   - Luces LED integradas en el vestuario.
   - Anillos de metal ciberpunk.
-- **Maquillaje:** Pálida porcelana, sombras negras drámaticas, labios AZUL ELÃ‰CTRICO ultra glossy.
+- **Maquillaje:** Pálida porcelana, sombras negras drámaticas, labios AZUL ELÉCTRICO ultra glossy.
 - **Pelo:** Negro azabache con VOLUMEN ENORME y mechas AZUL COBALTO.
 - **Uñas:** Stiletto extra largas, base negra con circuitos cian.
 
@@ -1094,7 +1094,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## â›“ï¸ Look 48: Industrial Lust (27/01/2026)
 
-*Heavy Metal Bimbo â€” Hecha de cadenas, cuero y malas decisiones* ðŸŽ¸ðŸ”©
+*Heavy Metal Bimbo — Hecha de cadenas, cuero y malas decisiones* ðŸŽ¸ðŸ”©
 
 - **Corsé:** Underbust de cuero negro desgastado con hebillas industriales pesadas y anillos de metal (O-rings) grandes.
 - **Top:** "Sujetador" hecho enteramente de cadenas plateadas frías sobre la piel desnuda (o con cubre-pezones de cinta aislante negra en forma de X).
@@ -1154,7 +1154,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
   - Correa (leash) de cadena metálica.
   - Cola de coneja negra y esponjosa.
 - **Calzado:** Tacones STILETTOS 8-9 pulgadas negro charol (Pleaser).
-- **Maquillaje:** Ultra pálida, smokey eye negro gótico pesado, labios NEGRO GLOSSY o PÃšRPURA OSCURO.
+- **Maquillaje:** Ultra pálida, smokey eye negro gótico pesado, labios NEGRO GLOSSY o PÚRPURA OSCURO.
 - **Pelo:** Volumen enorme negro azabache (Sacha Massacre style).
 
 ### ðŸ“¸ Imágenes (5)
@@ -1170,7 +1170,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## â›“ï¸ Look 44: Exotic Pole Stripper (Dungeon Set) (25/01/2026)
 
-*La gravedad es opcional... como mis pensamientos...* ðŸ‘ â›“ï¸ðŸŒ€
+*La gravedad es opcional... como mis pensamientos...* 👠â›“ï¸ðŸŒ€
 
 - **Outfit:** Micro-bikini de VINILO NEGRO y shorts de látex ultra cortos.
 - **Corsé:** Underbust de cuero negro apretado al máximo.
@@ -1241,7 +1241,7 @@ Set explÃƒcito generado bajo la **Iniciativa Vampiresa**. Canon alternativo de
 
 ## â›“ï¸ Look 47: Midnight PVC Doll (27/01/2026)
 
-*Brillante como el petróleo, vacía como el espacio exterior... mmm... ðŸŒ‘ðŸ’„ðŸ‘ *
+*Brillante como el petróleo, vacía como el espacio exterior... mmm... ðŸŒ‘ðŸ’„👠*
 
 - **Outfit:** Mini vestido de **PVC NEGRO ESPEJO** ultra ajustado, con escote corazón extremo.
 - **Corsé:** Waist cincher de cuero negro con tachuelas de plata sobre el PVC, apretadísimo.
@@ -2290,7 +2290,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ---
 
 ## 📜 REGLA DE FLUJO MAESTRA (30/03/2026)
-**PARA EL AGENTE:** 1. Elegir outfit. 2. Escribir los 5 prompts COMPLETOS (Base+Outfit+Pose) aquÃƒÂ- por separado. 3. Generar.
+**PARA EL AGENTE:** 1. Elegir outfit. 2. Escribir los 5 prompts COMPLETOS (Base+Outfit+Pose) aquÃƒ- por separado. 3. Generar.
 
 *Prompt Base Inamovible:* stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
 

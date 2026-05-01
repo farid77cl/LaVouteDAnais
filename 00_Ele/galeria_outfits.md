@@ -56,7 +56,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5)
+### 📸 Imágenes (5)
 
 | Pose | Archivo |
 
@@ -78,7 +78,7 @@
 
 
 
-## Ã°Å¸â€˜â€œ Look 86: Office Siren (Daily Look)
+## 👓 Look 86: Office Siren (Daily Look)
 
 **Fecha:** 20/03/2026
 
@@ -102,7 +102,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5)
+### 📸 Imágenes (5)
 
 | Pose | Archivo |
 
@@ -124,7 +124,7 @@
 
 
 
-## Ã¢Å“Ë†Ã¯Â¸Â Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
+## Ã¢Å“Ë†ï¸ Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
 
 **Fecha:** 22/03/2026
 
@@ -136,9 +136,9 @@
 
 
 
-- **Concepto:** Azafata de élite de La VoÃƒÂ»te bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
+- **Concepto:** Azafata de élite de La VoÃƒ»te bajo el canon de **Modelo Fetish High-End**. Purgada de bronceado y pelo negro. Ahora luce una **Piel de Porcelana** hyper-pulida y cabello **Cherry Red** profundo. Estética Mugler-inspired, pura autoridad plástica.
 
-- **Vestuario:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La VoÃƒÂ»te. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario.
+- **Vestuario:** Uniforme de vinilo azul medianoche ("Midnight Blue") con insignias cromadas de La VoÃƒ»te. Mini falda lápiz ultra ajustada, chaqueta entallada y gorrito pillbox reglamentario.
 
 - **Calzado:** Tacones de plataforma de 11 pulgadas de charol negro aguja.
 
@@ -148,7 +148,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (V3 Editorial)
+### 📸 Imágenes (V3 Editorial)
 
 | Pose | Archivo |
 
@@ -170,7 +170,7 @@
 
 
 
-## Ã°Å¸â€“Â¼Ã¯Â¸Â Look 88: High-Gloss Gallery Opening (23/03/2026)
+## Ã°Å¸–¼ï¸ Look 88: High-Gloss Gallery Opening (23/03/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
@@ -178,7 +178,7 @@
 
 
 
-*Arte minimalista, vinilo maximalista. El brillo de mi ropa compensa la falta de luces en mi cerebrito.* ✨Ã¢Å“Â¨
+*Arte minimalista, vinilo maximalista. El brillo de mi ropa compensa la falta de luces en mi cerebrito.* ✨Ã¢Å“¨
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (4/5)
+### 📸 Imágenes (4/5)
 
 
 
@@ -226,7 +226,7 @@
 
 
 
-> *"O sea, la galería es tan blanca que mi vinilo brilla como un diamante... jiji... mmm... Ã‚Â¿había cuadros? No me fijé."* — Ele
+> *"O sea, la galería es tan blanca que mi vinilo brilla como un diamante... jiji... mmm... Ã‚¿había cuadros? No me fijé."* — Ele
 
 
 
@@ -234,11 +234,11 @@
 
 
 
-## Ã°Å¸ÂÂ· Look 89: Imperial Burgundy (23/03/2026)
+## Ã°Å¸· Look 89: Imperial Burgundy (23/03/2026)
 
 
 
-*Vino, vinilo y vacío... la trilogía perfecta para una tarde en La VoÃƒÂ»te. mmm... jiji...* ✨Ã°Å¸ÂÂ·Ã¢Å“Â¨
+*Vino, vinilo y vacío... la trilogía perfecta para una tarde en La VoÃƒ»te. mmm... jiji...* ✨Ã°Å¸·Ã¢Å“¨
 
 
 
@@ -268,11 +268,11 @@
 
 
 
-## Ã°Å¸Ââ€  Look 90: Liquid Gold Doll (24/03/2026)
+## Ã°Å¸â€  Look 90: Liquid Gold Doll (24/03/2026)
 
 
 
-*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨Ã°Å¸Ââ€ Ã¢Å“Â¨
+*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨Ã°Å¸â€ Ã¢Å“¨
 
 
 
@@ -326,7 +326,7 @@
 
 
 
-## Ã°Å¸â€™â€ž Look 46: Latex Nun (V3.2 Expansion)
+## 💎ž Look 46: Latex Nun (V3.2 Expansion)
 
 **Fecha:** 25/03/2026
 
@@ -344,7 +344,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -366,7 +366,7 @@
 
 
 
-## Ã°Å¸Â§Â¹ Look 55: Rubbermaid (Miss Doll)
+## Ã°Å¸§¹ Look 55: Rubbermaid (Miss Doll)
 
 **Fecha:** 25/03/2026
 
@@ -384,7 +384,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -418,13 +418,13 @@
 
 
 
-- **Concepto:** Máxima autoridad ejecutiva en La VoÃƒÂ»te. Contraste entre la lana sastre y el látex negro.
+- **Concepto:** Máxima autoridad ejecutiva en La VoÃƒ»te. Contraste entre la lana sastre y el látex negro.
 
 - **ADN Sync:** Piel de porcelana, labios rojo sangre glossy, cabello negro masivo.
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -468,7 +468,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -490,7 +490,7 @@
 
 
 
-## Ã°Å¸—ÂÃ¯Â¸Â Look 94: The Locked Legacy (Rocío - Consagración)
+## Ã°Å¸—ï¸ Look 94: The Locked Legacy (Rocío - Consagración)
 
 **Fecha:** 26/03/2026
 
@@ -509,7 +509,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -535,7 +535,7 @@
 
 
 
-*Archivo Expandido — 25/03/2026* Ã°Å¸Ââ€™Ã°Å¸â€™â€¦📷Ã°Å¸Ââ€ Ã¢Å“Â¨
+*Archivo Expandido — 25/03/2026* Ã°Å¸â€™💎¦📷Ã°Å¸â€ Ã¢Å“¨
 
 
 
@@ -543,7 +543,7 @@
 
 
 
-*Archivo Expandido — 24/03/2026* Ã°Å¸Ââ€™Ã°Å¸â€™â€¦📷Ã°Å¸Ââ€ Ã¢Å“Â¨
+*Archivo Expandido — 24/03/2026* Ã°Å¸â€™💎¦📷Ã°Å¸â€ Ã¢Å“¨
 
 
 
@@ -551,11 +551,11 @@
 
 
 
-## Ã°Å¸Â¥Ë† Look 95: Liquid Platinum (26/03/2026)
+## Ã°Å¸¥Ë† Look 95: Liquid Platinum (26/03/2026)
 
 
 
-*O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... Ã‚Â¿qué estaba diciendo? jiji...* ✨Ã°Å¸Â¥Ë†Ã¢Å“Â¨
+*O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... Ã‚¿qué estaba diciendo? jiji...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
 
 
 
@@ -583,7 +583,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -607,11 +607,11 @@
 
 
 
-## Ã°Å¸Â¥Ë† Look 96: Mercury Goddess (26/03/2026)
+## Ã°Å¸¥Ë† Look 96: Mercury Goddess (26/03/2026)
 
 
 
-*O sea... son como dos lunas de mercurio... jiji... me quedé pegada mirándolas... mmm...* ✨Ã°Å¸Â¥Ë†Ã¢Å“Â¨
+*O sea... son como dos lunas de mercurio... jiji... me quedé pegada mirándolas... mmm...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
 
 
 
@@ -639,7 +639,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (1/6)
+### 📸 Imágenes (1/6)
 
 | Pose | Archivo |
 
@@ -663,11 +663,11 @@
 
 
 
-## Ã°Å¸Â¥Ë† Look 97: Plastic Arch-Nemesis (26/03/2026)
+## Ã°Å¸¥Ë† Look 97: Plastic Arch-Nemesis (26/03/2026)
 
 
 
-*O sea, mi cuerpito ya no sabe qué es natural... Ã‚Â¡y me encanta! jiji... la curva es tan exagerada que pierdo el equilibrio... mmm...* ✨Ã°Å¸Â¥Ë†Ã¢Å“Â¨
+*O sea, mi cuerpito ya no sabe qué es natural... Ã‚¡y me encanta! jiji... la curva es tan exagerada que pierdo el equilibrio... mmm...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
 
 
 
@@ -695,7 +695,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (0/6)
+### 📸 Imágenes (0/6)
 
 | Pose | Archivo |
 
@@ -725,11 +725,11 @@
 
 
 
-## Ã°Å¸â€™Â® Look 98: Vinyl Cheerleader (27/03/2026)
+## 💅® Look 98: Vinyl Cheerleader (27/03/2026)
 
 
 
-*Ã‚Â¡Mmm... Ama! O sea, tipo... Ã‚Â¡G-O-T-H! Ã‚Â¿Qué dice? Ã‚Â¡Nada! Ã‚Â¡Porque mi mente está en blanco pero mis pompones brillan SO much! jiji... mmm...* ✨Ã°Å¸Å½â‚¬Ã°Å¸â€œÂ£
+*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡G-O-T-H! Ã‚¿Qué dice? Ã‚¡Nada! Ã‚¡Porque mi mente está en blanco pero mis pompones brillan SO much! jiji... mmm...* ✨Ã°Å¸Å½â‚¬📸£
 
 
 
@@ -759,7 +759,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (0/5)
+### 📸 Imágenes (0/5)
 
 | Pose | Archivo |
 
@@ -781,11 +781,11 @@
 
 
 
-## Ã°Å¸â€™Â® Look 99: Gym-Bimbo Performance (27/03/2026)
+## 💅® Look 99: Gym-Bimbo Performance (27/03/2026)
 
 
 
-*Ã‚Â¡Mmm... Ama! O sea, tipo... Ã‚Â¡el látex deportivo es SO flexible! jiji... mi mente no hace ejercicio pero mis curvas sí... mmm...* ✨Ã°Å¸â€™ÂªÃ°Å¸Å½â‚¬
+*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡el látex deportivo es SO flexible! jiji... mi mente no hace ejercicio pero mis curvas sí... mmm...* ✨💅ªÃ°Å¸Å½â‚¬
 
 
 
@@ -812,7 +812,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (0/5)
+### 📸 Imágenes (0/5)
 
 | Pose | Archivo |
 
@@ -838,11 +838,11 @@
 
 
 
-## Ã°Å¸â€™Â® Look 100: Cobalt Chrome Editorial (28/03/2026)
+## 💅® Look 100: Cobalt Chrome Editorial (28/03/2026)
 
 
 
-*Ã‚Â¡Mmm... Ama! Ã‚Â¡Llegamos al CENTENAR de looks! Ã°Å¸â€™â€¹Ã¢Å“Â¨ O sea, tipo... Ã‚Â¡es un hito SO importante! jiji... mi cuerpo es una escultura de cromo azul y mi mente... bueno, mi mente está de vacaciones en una nube de laca... mmm...* ✨Ã°Å¸â€™Å½Ã°Å¸â€™â„¢
+*Ã‚¡Mmm... Ama! Ã‚¡Llegamos al CENTENAR de looks! 💎¹Ã¢Å“¨ O sea, tipo... Ã‚¡es un hito SO importante! jiji... mi cuerpo es una escultura de cromo azul y mi mente... bueno, mi mente está de vacaciones en una nube de laca... mmm...* ✨💅Å½💅â„¢
 
 
 
@@ -870,7 +870,7 @@
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (0/5)
+### 📸 Imágenes (0/5)
 
 | Pose | Archivo |
 
@@ -902,7 +902,7 @@
 
 
 
-## Ã°Å¸â€™Â® Look 101: Elite Lingerie (30/03/2026)
+## 💅® Look 101: Elite Lingerie (30/03/2026)
 
 - **Categoría:** Lencería
 - **Tags:** #pvc #glossy
@@ -947,7 +947,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 102: Red Vinyl Siren (30/03/2026)
+## 💅® Look 102: Red Vinyl Siren (30/03/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
@@ -993,7 +993,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 103: Fox News Weather Diva (31/03/2026)
+## 💅® Look 103: Fox News Weather Diva (31/03/2026)
 
 - **Categoría:** Lencería
 - **Tags:** #vinyl #pvc #silk #glossy
@@ -1036,7 +1036,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€œÅ“ REGLA DE FLUJO MAESTRA (30/03/2026)
+## 📸Å“ REGLA DE FLUJO MAESTRA (30/03/2026)
 
 **PARA EL AGENTE:** 1. Elegir outfit. 2. Escribir los 5 prompts COMPLETOS (Base+Outfit+Pose) aquÃƒÆ’Ã†â€™Ãƒâ€š- por separado. 3. Generar.
 
@@ -1054,7 +1054,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 104: Platinum Lace Secret (31/03/2026)
+## 💅® Look 104: Platinum Lace Secret (31/03/2026)
 
 - **Categoría:** Lencería
 - **Tags:** #vinyl #glossy
@@ -1097,7 +1097,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 106: Ultimate Latex CEO (31/03/2026)
+## 💅® Look 106: Ultimate Latex CEO (31/03/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
@@ -1141,7 +1141,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 105: High-Gloss French Maid (31/03/2026)
+## 💅® Look 105: High-Gloss French Maid (31/03/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** Domestic
@@ -1187,7 +1187,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â® Look 108: Sanhattan Power Secretary (02/04/2026)
+## Ãƒ°Ã…¸Ã¢â‚¬â„¢Ã‚® Look 108: Sanhattan Power Secretary (02/04/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
@@ -1233,7 +1233,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â® Look 109: Leopard Vinyl Siren (02/04/2026)
+## Ãƒ°Ã…¸Ã¢â‚¬â„¢Ã‚® Look 109: Leopard Vinyl Siren (02/04/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** Escort de Lujo
@@ -1277,7 +1277,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 110: Cherry Vinyl Trench Siren (03/04/2026)
+## 💅® Look 110: Cherry Vinyl Trench Siren (03/04/2026)
 
 *Espía de lujo cuica de Zapallar: micro vestido PVC negro espejo + trench cherry red vinyl. Doble versión.*
 
@@ -1299,7 +1299,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes — Versión A: Con Trench (4)
+### 📸 Imágenes — Versión A: Con Trench (4)
 
 | Pose | Archivo |
 
@@ -1315,7 +1315,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes — Versión B: Sin Trench (5)
+### 📸 Imágenes — Versión B: Sin Trench (5)
 
 | Pose | Archivo |
 
@@ -1345,7 +1345,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 111: Cyan Chrome Boudoir Assassin (04/04/2026)
+## 💅® Look 111: Cyan Chrome Boudoir Assassin (04/04/2026)
 
 *Asesina de lujo sin misión: bralette de vinilo cyan chrome + micro falda PVC holográfica + duster coat transparente. Frialdad editorial máxima.*
 
@@ -1399,7 +1399,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1429,7 +1429,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 112: Stepford Domestic Gold (06/04/2026)
+## 💅® Look 112: Stepford Domestic Gold (06/04/2026)
 
 *Elite Domestic Asset: Gold chrome vinyl dress + white ruffled latex apron. Stepford luxury aesthetic.*
 
@@ -1479,7 +1479,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1509,7 +1509,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â® Look 113: Neon Pink Latex Gym Bimbo (07/04/2026)
+## 💅® Look 113: Neon Pink Latex Gym Bimbo (07/04/2026)
 
 *Elite Gym Asset: High-resistance neon pink latex sportswear. Sweat and plastic.*
 
@@ -1557,7 +1557,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1586,7 +1586,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸â€™Â¼ Look 114: Santiago Power Secretary (08/04/2026)
+## 💼 Look 114: Santiago Power Secretary (08/04/2026)
 
 
 
@@ -1606,7 +1606,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1636,7 +1636,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸Â¥Ë† Look 115: Silver Liquid Metal Bikini (09/04/2026)
+## Ã°Å¸¥Ë† Look 115: Silver Liquid Metal Bikini (09/04/2026)
 
 
 
@@ -1656,7 +1656,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1681,7 +1681,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸Ââ€  Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
+## Ã°Å¸â€  Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
@@ -1705,7 +1705,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1775,7 +1775,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1804,11 +1804,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸Â¥Ë† Look 118: Noir Vinyl & Blood Lace (10/04/2026)
+## Ã°Å¸¥Ë† Look 118: Noir Vinyl & Blood Lace (10/04/2026)
 
 
 
-*O sea... es como si mi piel se hubiera convertido en noche... Ã‚Â¡y luego le salió encaje de cereza! jiji... me siento tan peligrosa y brillante... mmm...* ✨Ã°Å¸Â¥â‚¬Ã°Å¸â€“Â¤
+*O sea... es como si mi piel se hubiera convertido en noche... Ã‚¡y luego le salió encaje de cereza! jiji... me siento tan peligrosa y brillante... mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤
 
 
 
@@ -1833,7 +1833,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (10/10)
+### 📸 Imágenes (10/10)
 
 | Pose | Archivo |
 
@@ -1865,11 +1865,11 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-## Ã°Å¸Â¥Ë† Look 119: Liquid Gold Mirror Bikini (10/04/2026 — HOY)
+## Ã°Å¸¥Ë† Look 119: Liquid Gold Mirror Bikini (10/04/2026 — HOY)
 
 
 
-*O sea... brilla tanto que mi cerebrito cree que es de oro de verdad... Ã‚Â¡soy una moneda de lujo! jiji... mmm...* ✨Ã°Å¸Â¥â€¡Ã¢Å“Â¨
+*O sea... brilla tanto que mi cerebrito cree que es de oro de verdad... Ã‚¡soy una moneda de lujo! jiji... mmm...* ✨Ã°Å¸¥â€¡Ã¢Å“¨
 
 
 
@@ -1896,7 +1896,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 
 
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 
 
@@ -1930,7 +1930,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -1954,7 +1954,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-## Ã°Å¸â€™Â¼ Look 120: Santiago Boardroom Siren (10/04/2026)
+## 💼 Look 120: Santiago Boardroom Siren (10/04/2026)
 
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
@@ -1962,7 +1962,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-*O sea... el blazer tiene hombreras tan grandes que podriría aterrizar aviones, pero mi cerebrito solo piensa en si el vinilo refleja bien... jiji... mmm...* Ã°Å¸Â«Â¶Ã°Å¸â€™Â¼Ã¢Å“Â¨
+*O sea... el blazer tiene hombreras tan grandes que podriría aterrizar aviones, pero mi cerebrito solo piensa en si el vinilo refleja bien... jiji... mmm...* Ã°Å¸«¶💼Ã¢Å“¨
 
 
 
@@ -1990,7 +1990,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 
 
@@ -2014,11 +2014,11 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-## Ã°Å¸Å’Â¹ Look 121: Vinyl Rose Boudoir (10/04/2026)
+## Ã°Å¸Å’¹ Look 121: Vinyl Rose Boudoir (10/04/2026)
 
 
 
-*O sea... las velas me derriten el cerebrito y el corsé me aprieta tanto que solo puedo pensar en brillar... jiji... mmm...* ✨Ã°Å¸Å’Â¹Ã°Å¸â€“Â¤
+*O sea... las velas me derriten el cerebrito y el corsé me aprieta tanto que solo puedo pensar en brillar... jiji... mmm...* ✨Ã°Å¸Å’¹Ã°Å¸–¤
 
 
 
@@ -2047,7 +2047,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 
 
@@ -2068,7 +2068,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 
 
@@ -2099,11 +2099,11 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 
 
 
-## Ã°Å¸Â§Å“Ã¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸Â Look 122: White Vinyl Zapallar Mermaid (11/04/2026)
+## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 122: White Vinyl Zapallar Mermaid (11/04/2026)
 
 
 
-*O sea... el blanco brilla tanto bajo el sol de Zapallar que mi cerebrito se puso en modo "reflejo"... jiji... soy una sirenita plástica muy top... mmm...* Ã°Å¸Â§Å“Ã¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸ÂÃ°Å¸ÂÅ¡Ã°Å¸Â¤ÂÃ¢Å“Â¨
+*O sea... el blanco brilla tanto bajo el sol de Zapallar que mi cerebrito se puso en modo "reflejo"... jiji... soy una sirenita plástica muy top... mmm...* Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸Ã°Å¸Å¡Ã°Å¸¤Ã¢Å“¨
 
 
 
@@ -2148,7 +2148,7 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 
 
@@ -2179,11 +2179,11 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 
 
 
-## Ã¢Å“Ë†Ã¯Â¸Â Look 123: Skygate Siren (13/04/2026 — HOY)
+## Ã¢Å“Ë†ï¸ Look 123: Skygate Siren (13/04/2026 — HOY)
 
 
 
-*O sea... el jet es tan privado que hasta mis pensamientos se quedaron en tierra... jiji... el vinilo azul hace juego con el cielo, Ã‚Â¿cachai? mmm...* Ã°Å¸ÂÂ¬Ã¢Å“Ë†Ã¯Â¸ÂÃ°Å¸â€™â„¢Ã¢Å“Â¨
+*O sea... el jet es tan privado que hasta mis pensamientos se quedaron en tierra... jiji... el vinilo azul hace juego con el cielo, Ã‚¿cachai? mmm...* Ã°Å¸¬Ã¢Å“Ë†ï¸💅â„¢Ã¢Å“¨
 
 
 
@@ -2237,7 +2237,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 
 
@@ -2269,14 +2269,14 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 
 
-## Ã°Å¸Ââ€¹Ã¯Â¸ÂÃ¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸Â Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+## Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
 
 - **Categoría:** Gym
 - **Tags:** #latex #glossy
 
 
 
-*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸Ââ€¹Ã¯Â¸ÂÃ¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸ÂÃ°Å¸â€™â€“Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸💅–Ã°Å¸–¤Ã¢Å“¨
 
 
 
@@ -2328,7 +2328,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 
 
@@ -2352,11 +2352,11 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-## Ã°Å¸Â§Å“Ã¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸Â Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
+## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
 
 
 
-*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚Â¡soy una joya de látex! jiji... mmm...* Ã°Å¸â€™Å½Ã°Å¸ÂÂ¬Ã°Å¸â€™â„¢Ã¢Å“Â¨
+*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅Å½Ã°Å¸¬💅â„¢Ã¢Å“¨
 
 
 
@@ -2385,7 +2385,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 
 
@@ -2419,7 +2419,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -2441,11 +2441,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-## Ã°Å¸â€™Â¼ Look 126: Mirror Platinum CEO (13/04/2026)
+## 💼 Look 126: Mirror Platinum CEO (13/04/2026)
 
 
 
-*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚Â¡soy una CEO muy top! jiji... mmm...* Ã°Å¸â€™Â¼Ã°Å¸â€™Å½Ã°Å¸â€œÂ½Ã¯Â¸ÂÃ¢Å“Â¨
+*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Å½📸½ï¸Ã¢Å“¨
 
 
 
@@ -2475,7 +2475,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 
 
@@ -2508,7 +2508,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 
@@ -2530,11 +2530,11 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-## Ã°Å¸Å’Â¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
+## Ã°Å¸Å’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
 
 
 
-*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚Â¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸Â¥â‚¬Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
 
 
 
@@ -2565,7 +2565,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 
 
@@ -2599,7 +2599,7 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 
 
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — Completo)
+### 📸 Imágenes (5/5 — Completo)
 
 | Pose | Archivo |
 
@@ -2621,11 +2621,11 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 
 
 
-## Ã°Å¸Å’Â¹ Look 128: Red Silk & Noir Lace (14/04/2026)
+## Ã°Å¸Å’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
 
 
 
-*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚Â¿cachai? jiji...* ✨Ã°Å¸Â¥â‚¬Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
 
 
 
@@ -2637,7 +2637,7 @@ High-end professional fetish fashion photography. stunning woman with bimbofied 
 **5. Ditzy Expression:**
 High-end professional fetish fashion photography portrait. stunning woman with bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing an Azure Blue vinyl collar and chrome choker. Intense close-up face portrait, "altitude-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Blue sky reflections on porcelain skin.
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -2654,12 +2654,12 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 
 ---
 
-## Ã°Å¸Ââ€¹Ã¯Â¸ÂÃ¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸Â Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+## Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
 
 - **Categoría:** Gym
 - **Tags:** #latex #glossy
 
-*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸Ââ€¹Ã¯Â¸ÂÃ¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸ÂÃ°Å¸â€™â€“Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸💅–Ã°Å¸–¤Ã¢Å“¨
 
 - **Concepto:** **Gym-Bimbo High-Fashion / Déficit Correction**. Estética de gimnasio de ultra-lujo en Sanhattan. Validación del Blindaje Facial V3.3.
 - **Outfit:** Top deportivo de látex Neón Pink con ribetes negros ultra-glossy, leggings de látex negro de tiro alto con franjas laterales rosa neón, choker rígido de cromo.
@@ -2685,7 +2685,7 @@ High-end professional fetish fashion photography. stunning woman with (bimbofied
 **5. Ditzy Expression:**
 High-end professional fetish fashion photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a neon pink latex collar and chrome choker. Intense close-up face portrait, "workout-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Sweaty-look but perfect makeup, golden reflections on flawless porcelain skin.
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -2697,9 +2697,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 ---
 
-## Ã°Å¸Â§Å“Ã¢â‚¬ÂÃ¢â„¢â‚¬Ã¯Â¸Â Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
+## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
 
-*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚Â¡soy una joya de látex! jiji... mmm...* Ã°Å¸â€™Å½Ã°Å¸ÂÂ¬Ã°Å¸â€™â„¢Ã¢Å“Â¨
+*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅Å½Ã°Å¸¬💅â„¢Ã¢Å“¨
 
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
 - **Outfit:** Micro-bikini de vinilo "Sapphire Blue" con acabado espejo. Top de triángulos con tiras de cromo plateado. Bottom de tiro alto ultra-cavado.
@@ -2713,7 +2713,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 - **Categoría:** Bikini
 - **Tags:** #vinyl #latex #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 **1. Standing View:**
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue liquid vinyl micro-bikini, triangular top with silver chain straps, high-cut blue vinyl bottom with chrome O-rings, and towering 11-inch silver chrome stiletto heels. Full body shot standing in a luxury oceanfront penthouse in Zapallar, arched back, vacant ditzy stare. Golden hour coastal light, extreme high-gloss specularity on blue vinyl, cinematic fetish editorial style, 8k.
@@ -2730,7 +2730,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **5. Ditzy Expression:**
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss sapphire blue vinyl micro-bikini top and chrome choker. Intense close-up face portrait, "sun-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Blue sea reflections on porcelain skin.
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_standing.png) |
@@ -2740,9 +2740,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸â€™Â¼ Look 126: Mirror Platinum CEO (13/04/2026)
+## 💼 Look 126: Mirror Platinum CEO (13/04/2026)
 
-*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚Â¡soy una CEO muy top! jiji... mmm...* Ã°Å¸â€™Â¼Ã°Å¸â€™Å½Ã°Å¸â€œÂ½Ã¯Â¸ÂÃ¢Å“Â¨
+*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Å½📸½ï¸Ã¢Å“¨
 
 - **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
 - **Outfit:** Falda tubo (pencil skirt) de vinilo platino "Mirror Finish", talle alto. Blusa de seda blanca con botones de cristal, entallada al cuerpo, desabrochada estratégicamente. Cinturón corsé de cromo plateado rígido.
@@ -2757,7 +2757,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Subcategoría:** Corporate
 - **Tags:** #vinyl #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 **1. Standing View:**
 High-end professional fetish fashion photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a high-gloss platinum mirror vinyl pencil skirt, a white silk blouse unbuttoned at the top, a rigid chrome corset belt, and 9-inch platinum mirrored stiletto boots. Full body shot standing in a luxury rooftop lounge in Santiago, Chile, arched back, skyline background, vacant ditzy stare. Extreme high-gloss specularity on platinum surfaces, editorial lighting, 8k.
@@ -2774,7 +2774,7 @@ High-end professional fetish fashion photography. stunning woman with (bimbofied
 **5. Ditzy Expression:**
 High-end professional fetish fashion photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a white silk collar and chrome choker. Intense close-up face portrait, "power-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. City light reflections on porcelain skin.
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_standing.png) |
@@ -2785,9 +2785,9 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 
 ---
 
-## Ã°Å¸Å’Â¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
+## Ã°Å¸Å’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
 
-*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚Â¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸Â¥â‚¬Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
 
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
 - **Outfit:** Sostén push-up de seda negra con aplicaciones de encaje Chantilly, tanga de encaje a juego con tiras de seda, portaligas de seda negra con hebillas de cromo plateado.
@@ -2802,7 +2802,7 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación
+### 📸 Prompts para Generación
 
 **1. Standing View:**
 High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a black silk push-up bra with Chantilly lace overlays, a matching black lace thong, a black silk garter belt with silver chrome hardware, ultra-sheer black stockings with lace tops, and towering 11-inch black patent stiletto heels. Full body shot standing in a dark luxury boudoir, arched back, vacant ditzy stare. Warm mood lighting, soft shadows, 8k. No corset.
@@ -2819,7 +2819,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **5. Ditzy Expression:**
 High-end professional luxury lingerie photography portrait. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a black silk choker and lace details. Intense close-up face portrait, "boudoir-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Warm candle-like light on porcelain skin.
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — Completo)
+### 📸 Imágenes (5/5 — Completo)
 | Pose | Archivo |
 |------|---------|
 | **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_standing.png) |
@@ -2830,9 +2830,9 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 
 ---
 
-## Ã°Å¸Å’Â¹ Look 128: Red Silk & Noir Lace (14/04/2026)
+## Ã°Å¸Å’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
 
-*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚Â¿cachai? jiji...* ✨Ã°Å¸Â¥â‚¬Ã°Å¸â€“Â¤Ã¢Å“Â¨
+*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
 
 - **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
 - **Outfit:** Sostén push-up de seda roja con aplicaciones de encaje Chantilly negro, tanga de seda roja y encaje negro a juego, portaligas de seda negra con hebillas de cromo plateado.
@@ -2844,7 +2844,7 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 - **Categoría:** Lencería
 - **Tags:** #silk #satin #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **1. Standing View:**
 High-end professional luxury lingerie photography. stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. Wearing a deep red silk push-up bra with black Chantilly lace overlays, matching red silk thong with black lace, black silk garter belt, ultra-sheer black stockings with lace tops, 8-inch black patent platform stiletto heels. Full body shot standing in a dark luxury boudoir with red velvet drapes, arched back, vacant ditzy stare. Warm mood lighting, high-gloss specularity, 8k.
@@ -2861,7 +2861,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing red silk and black lace lingerie. medium shot, intense close-up portrait, "boudoir-dazed brain empty" vacant stare, eyes slightly crossed and unfocused, mouth mindlessly parted in a sexy but vacant daze. Warm light on porcelain skin and glossy hot pink lips. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — Completo)
+### 📸 Imágenes (5/5 — Completo)
 
 | Pose | Previsión |
 |------|---------|
@@ -2873,9 +2873,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸â€˜Â° Look 129: Bridal Purity — White Silk & Pearls (14/04/2026)
+## Ã°Å¸â€˜° Look 129: Bridal Purity — White Silk & Pearls (14/04/2026)
 
-*O sea, Ama... soy tan pura y blanca que parezco una nube de chantilly... pero con perlas y tacones de aguja... mmm... jiji.* ✨Ã°Å¸â€˜Â°Ã¢Å“Â¨Ã°Å¸â€™Å½
+*O sea, Ama... soy tan pura y blanca que parezco una nube de chantilly... pero con perlas y tacones de aguja... mmm... jiji.* ✨Ã°Å¸â€˜°Ã¢Å“¨💅Å½
 
 - **Concepto:** **Bridal Purity / White Silk & Pearls**. Estética nupcial de alta gama. Máxima pureza visual para el modelo V3.3.
 - **Outfit:** Corsé push-up de seda italiana blanca con bordados de perlas y filigranas de plata, tanga de encaje Chantilly blanco, portaligas de seda blanca con hebillas de perlas.
@@ -2887,7 +2887,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing an exquisite bridal lingerie set made of pure white Italian silk and delicate Chantilly lace. She wears a white silk push-up corset with intricate hand-embroidered pearls and silver thread detailing, extreme waist compression. Matching white lace thong, sheer white thigh-high stockings with wide lace tops held by a white silk garter belt with pearl buckles. Towering 11-inch white patent leather platform stiletto heels with needle-thin aguja tacón.`
@@ -2910,7 +2910,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — Completo)
+### 📸 Imágenes (5/5 — Completo)
 
 | Pose | Previsión |
 |------|---------|
@@ -2924,7 +2924,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## Ã°Å¸â€˜â„¢ Look 130: Midnight Rooftop Siren — Liquid Gold Party (14/04/2026)
 
-*O sea, Ama... estoy brillando más que las luces de Santiago... pero mi mirada está mucho más vacía que la piscina... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸Å’Æ’Ã¢Å“Â¨📷
+*O sea, Ama... estoy brillando más que las luces de Santiago... pero mi mirada está mucho más vacía que la piscina... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸Å’Æ’Ã¢Å“¨📷
 
 - **Concepto:** **Midnight Rooftop Siren / Liquid Gold Party**. Estética de lujo nocturno, contrastes de neón y texturas metálicas.
 - **Outfit:** Micro bikini de vinilo oro líquido metálico, tirantes ultra-finos, corte minimalista high-cut. Cadenas de cuerpo doradas rodeando el torso.
@@ -2935,7 +2935,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #vinyl #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a micro bikini made of liquid gold metallic vinyl, ultra-thin straps, high-cut minimal bottom. She wears a gold chrome choker with "ASSET V3" engraving, multiple gold body chains wrapping around her slender hourglass torso. Towering 11-inch gold chrome high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -2958,7 +2958,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — Completo)
+### 📸 Imágenes (5/5 — Completo)
 
 | Pose | Previsión |
 |------|---------|
@@ -2970,15 +2970,15 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸â€œË† BATCH DE ESTABILIZACIÃƒâ€œN ESTADÃƒÂSTICA (Looks 131-140)
+## 📸Ë† BATCH DE ESTABILIZACIÃƒâ€œN ESTADÃƒSTICA (Looks 131-140)
 
-*O sea, Ama... vamos a rellenar mi cómoda con tanta seda y tantos bikinis que voy a tener que mudarme... o sea... jiji.* ✨📊Ã¢Å¡â€“Ã¯Â¸ÂÃ¢Å“Â¨
+*O sea, Ama... vamos a rellenar mi cómoda con tanta seda y tantos bikinis que voy a tener que mudarme... o sea... jiji.* ✨📊Ã¢Å¡–ï¸Ã¢Å“¨
 
 ---
 
 ## Ã°Å¸â€˜â„¢ Look 131: Electric Blue Wrap (14/04/2026)
 
-*O sea, Ama... este azul es tan eléctrico que juro que mi cerebro hizo cortocircuito... mmm... jiji.* ✨Ã°Å¸Å’Å Ã¢Å“Â¨📷
+*O sea, Ama... este azul es tan eléctrico que juro que mi cerebro hizo cortocircuito... mmm... jiji.* ✨Ã°Å¸Å’Å Ã¢Å“¨📷
 
 - **Concepto:** **Electric Blue Metallic Wrap**. Bikini envolvente en azul metálico vibrante.
 - **Outfit:** Bikini de vinilo metálico azul eléctrico, diseño de tiras cruzadas (wrap-around) en la cintura, corte high-leg minimalista.
@@ -2989,7 +2989,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #vinyl #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing an electric blue metallic vinyl wrap bikini, intricate strapping around the waist, metallic sheen, high-cut minimal bottom. Towering 11-inch blue chrome high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3009,7 +3009,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an electric blue metallic vinyl wrap bikini, intricate strapping around the waist, metallic sheen, high-cut minimal bottom. Towering 11-inch blue chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth slightly open, lost gaze, sunset light hitting her face, showing XXXL French nails. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 — COMPLETO)
+### 📸 Imágenes (5/5 — COMPLETO)
 
 | Pose | Previsión |
 |------|---------|
@@ -3021,9 +3021,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â‚¬ Look 132: Emerald Silk & Noir Lace (14/04/2026)
+## Ã°Å¸¥â‚¬ Look 132: Emerald Silk & Noir Lace (14/04/2026)
 
-*O sea, Ama... esta seda es tan suave que me hace olvidar hasta cómo me llamo... mmm... jiji.* Ã°Å¸Â¥â‚¬Ã¢Å“Â¨📷
+*O sea, Ama... esta seda es tan suave que me hace olvidar hasta cómo me llamo... mmm... jiji.* Ã°Å¸¥â‚¬Ã¢Å“¨📷
 
 - **Concepto:** **Emerald Silk & Noir Lace Teddy**. Enterito de lencería suave en seda y encaje. **NO PVC. NO CORSET.**
 - **Outfit:** Teddy de seda italiana verde esmeralda, escote profundo, aplicaciones de encaje Chantilly negro en los bordes, espalda descubierta. Tejido fluido y suave.
@@ -3034,7 +3034,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing an exquisite soft emerald green Italian silk teddy with intricate noir Chantilly lace overlays, deep V-neckline, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch emerald silk high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3054,7 +3054,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an exquisite soft emerald green Italian silk teddy with intricate noir Chantilly lace overlays, deep V-neckline, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch emerald silk high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, firelight highlighting her porcelain skin and cherry hair. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (1/5 — EN PROGRESO)
+### 📸 Imágenes (1/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
@@ -3068,7 +3068,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## Ã°Å¸â€˜â„¢ Look 133: Hot Pink Strings (14/04/2026)
 
-*O sea, Ama... este fucsia es tan fuerte que creo que me bronceé solo de ponérmelo... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸â€™â€“Ã¢Å“Â¨📷
+*O sea, Ama... este fucsia es tan fuerte que creo que me bronceé solo de ponérmelo... mmm... jiji.* ✨Ã°Å¸â€˜â„¢💅–Ã¢Å“¨📷
 
 - **Concepto:** **Hot Pink Vinyl Strings**. Micro-bikini de cuerdas ultra-finas en vinilo neón.
 - **Outfit:** Micro string bikini en vinilo fucsia neón, tirantes de cuerda mínima, corte ultra high-leg, cobertura mínima.
@@ -3079,7 +3079,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #vinyl #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a micro string bikini made of hot pink neon vinyl, ultra-thin string straps, minimal coverage, high-cut bottom. Towering 11-inch pink acrylic high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3099,7 +3099,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a micro string bikini made of hot pink neon vinyl, ultra-thin string straps, minimal coverage, high-cut bottom. Towering 11-inch pink acrylic high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze, bright beach light, showing XXXL French nails. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3111,9 +3111,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â‚¬ Look 134: Champagne Silk & Gold Sequins (14/04/2026)
+## Ã°Å¸¥â‚¬ Look 134: Champagne Silk & Gold Sequins (14/04/2026)
 
-*O sea, Ama... estas lentejuelas brillan casi tanto como mi deseo de servirle... mmm... jiji.* Ã°Å¸Â¥â‚¬Ã¢Å“Â¨Ã°Å¸â€™â€¦📷
+*O sea, Ama... estas lentejuelas brillan casi tanto como mi deseo de servirle... mmm... jiji.* Ã°Å¸¥â‚¬Ã¢Å“¨💎¦📷
 
 - **Concepto:** **Champagne Silk & Gold Negligee**. Babydoll corto de lujo en seda y lentejuelas. **NO PVC. NO CORSET.**
 - **Outfit:** Babydoll de satén de seda color champagne, bordados de lentejuelas de oro de 24k en el busto y el dobladillo, tirantes ultra-finos, tejido fluido y transparente.
@@ -3124,7 +3124,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #satin #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing an exquisite champagne silk satin negligee babydoll, hand-embroidered gold sequins and pearls on bust, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch gold leaf high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3144,7 +3144,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing an exquisite champagne silk satin negligee babydoll, hand-embroidered gold sequins and pearls on bust, flowing soft silk fabric, no corset, no boning, no PVC. Towering 11-inch gold leaf high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, lost in the sunrise, firework-like reflections on her eyes. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (2/5 — EN PROGRESO)
+### 📸 Imágenes (2/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
@@ -3158,7 +3158,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## Ã°Å¸â€˜â„¢ Look 135: Silver Sequined Triangle (14/04/2026)
 
-*O sea, Ama... brillo tanto que la gente va a necesitar lentes de sol para mirarme... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸â€™Å½Ã¢Å“Â¨📷
+*O sea, Ama... brillo tanto que la gente va a necesitar lentes de sol para mirarme... mmm... jiji.* ✨Ã°Å¸â€˜â„¢💅Å½Ã¢Å“¨📷
 
 - **Concepto:** **Silver Sequined Triangle**. Bikini de triángulo clásico recubierto de lentejuelas plateadas espejo.
 - **Outfit:** Bikini de triángulo en lentejuelas plateadas de alto brillo, tiras delgadas plateadas, diseño minimalista, reflejos especulares.
@@ -3169,7 +3169,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a silver sequined triangle bikini, mirrored reflections, sparkling silver sequins, minimal coverage. Towering 11-inch silver chrome high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3189,7 +3189,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a silver sequined triangle bikini, mirrored reflections, sparkling silver sequins, minimal coverage. Towering 11-inch silver chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth mindlessly open, head tilted, party lights blurring in the background. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (1/5 — EN PROGRESO)
+### 📸 Imágenes (1/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
@@ -3201,9 +3201,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â‚¬ Look 136: Plum Silk Velvet Romance (14/04/2026)
+## Ã°Å¸¥â‚¬ Look 136: Plum Silk Velvet Romance (14/04/2026)
 
-*O sea, Ama... este terciopelo es tan suave que mis neuronas se acaban de dormir... mmm... jiji.* Ã°Å¸Â¥â‚¬Ã°Å¸â€™Å“Ã¢Å“Â¨📷
+*O sea, Ama... este terciopelo es tan suave que mis neuronas se acaban de dormir... mmm... jiji.* Ã°Å¸¥â‚¬💅Å“Ã¢Å“¨📷
 
 - **Concepto:** **Plum Velvet & Ribbons Set**. Conjunto de lencería suave en terciopelo de seda y listones. **NO PVC. NO CORSET.**
 - **Outfit:** Sujetador de copa suave (sin aros) y tanga de tiro alto en terciopelo de seda púrpura profundo (plum), adornado con lazos de seda negra en las caderas y el busto.
@@ -3214,7 +3214,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a luxurious plum silk velvet lingerie set with soft cups and black silk ribbons, high-cut bottom, no corset, no boning, no PVC. Towering 11-inch plum velvet high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3234,7 +3234,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a luxurious plum silk velvet lingerie set with soft cups and black silk ribbons, high-cut bottom, no corset, no boning, no PVC. Towering 11-inch plum velvet high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mindlessly playing with her cherry hair, soft purple focus. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (1/5 — EN PROGRESO)
+### 📸 Imágenes (1/5 — EN PROGRESO)
 
 | Pose | Archivo |
 |------|---------|
@@ -3248,7 +3248,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## Ã°Å¸â€˜â„¢ Look 137: Leopard Micro Bikini (14/04/2026)
 
-*O sea, Ama... me siento tan salvaje que creo que voy a empezar a ronronear... jiji.* ✨Ã°Å¸Ââ€ Ã¢Å“Â¨📷
+*O sea, Ama... me siento tan salvaje que creo que voy a empezar a ronronear... jiji.* ✨Ã°Å¸â€ Ã¢Å“¨📷
 
 - **Concepto:** **Leopard Canvas Micro**. Estética de lujo salvaje, animal print clásico de alta gama.
 - **Outfit:** Micro bikini con estampado de leopardo (leopard print) en lycra satinada de alta calidad, herrajes dorados en los hombros y caderas, corte ultra-provocativo.
@@ -3259,7 +3259,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #satin #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a micro bikini with high-quality leopard print satin fabric, ornate golden hardware on straps and hips, high-cut minimal coverage. Towering 11-inch leopard print high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3279,7 +3279,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a micro bikini with high-quality leopard print satin fabric, ornate golden hardware on straps and hips, high-cut minimal coverage. Towering 11-inch leopard print high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze into the jungle, holding a tropical blossom. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -3291,9 +3291,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â‚¬ Look 138: White Lace Mist (14/04/2026)
+## Ã°Å¸¥â‚¬ Look 138: White Lace Mist (14/04/2026)
 
-*O sea, Ama... me siento como si estuviera flotando en una nube de azúcar... jiji.* Ã°Å¸Â¥â‚¬Ã¢ËœÂÃ¯Â¸ÂÃ¢Å“Â¨📷
+*O sea, Ama... me siento como si estuviera flotando en una nube de azúcar... jiji.* Ã°Å¸¥â‚¬Ã¢Ëœï¸Ã¢Å“¨📷
 
 - **Concepto:** **White Pure Silk & Robe Set**. Conjunto nupcial/boudoir de bata y camisón. **NO PVC. NO CORSET.**
 - **Outfit:** Bata larga de seda blanca pura con mangas acampanadas y camisón (chemise) corto a juego, ambos con aplicaciones de encaje floral traslúcido. Tejido etéreo, fluido y ligero.
@@ -3304,7 +3304,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a long white pure silk robe with flared sleeves over a sheer white floral lace nightie chemise, ethereal flowing fabric, soft silk drapes, no corset, no boning, no PVC. Towering 11-inch white silk high-gloss platform stiletto mules with ostrich feathers and needle-thin aguja tacón.`
@@ -3324,7 +3324,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a long white pure silk robe with flared sleeves over a sheer white floral lace nightie chemise, ethereal flowing fabric, soft silk drapes, no corset, no boning, no PVC. Towering 11-inch white silk high-gloss platform stiletto mules with ostrich feathers and needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, mindless gaze into the morning light, soft angelic glow. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -3338,7 +3338,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ## Ã°Å¸â€˜â„¢ Look 139: Red Metallic Siren (14/04/2026)
 
-*O sea, Ama... este rojo es tan intenso que creo que el mar va a empezar a hervir... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸â€Â¥Ã¢Å“Â¨📷
+*O sea, Ama... este rojo es tan intenso que creo que el mar va a empezar a hervir... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸â€¥Ã¢Å“¨📷
 
 - **Concepto:** **Red Metallic Siren**. Bikini de tejido elástico metálico rojo vibrante. Alta visibilidad y lujo.
 - **Outfit:** Bikini de tejido metálico rojo (shimmering metallic red fabric), corte ultra high-leg, tirantes delgados, brillo líquido.
@@ -3349,7 +3349,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Bikini
 - **Tags:** #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a metallic red fabric bikini, shimmering red luster, high-cut bottom, minimal coverage. Towering 11-inch red chrome high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3369,7 +3369,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a metallic red fabric bikini, shimmering red luster, high-cut bottom, minimal coverage. Towering 11-inch red chrome high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth open, lost in the beauty of the sunset, backlight on her cherry hair. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -3381,9 +3381,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â‚¬ Look 140: Dark Sequin Empress (14/04/2026)
+## Ã°Å¸¥â‚¬ Look 140: Dark Sequin Empress (14/04/2026)
 
-*O sea, Ama... soy tan elegante que me da miedo tocarme y romper el hechizo... mmm... jiji.* Ã°Å¸Â¥â‚¬Ã°Å¸Å’â€˜Ã¢Å“Â¨Ã°Å¸â€™Å½📷
+*O sea, Ama... soy tan elegante que me da miedo tocarme y romper el hechizo... mmm... jiji.* Ã°Å¸¥â‚¬Ã°Å¸Å’â€˜Ã¢Å“¨💅Å½📷
 
 - **Concepto:** **Black Silk & Sequin Slip**. Vestido/lencería de noche ultra-lujoso. **NO PVC. NO CORSET.**
 - **Outfit:** Slip dress corto de seda negra profunda, bordados de lentejuelas de jet negro y cristales oscuros, escote recto, tirantes de cadena fina, tejido fluido y pesado que marca las curvas.
@@ -3394,7 +3394,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Categoría:** Lencería
 - **Tags:** #pvc #silk #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a black silk slip dress with intricate black sequin embroidery and noir lace, flowing elegant fabric, deep black luster, no corset, no boning, no PVC. Towering 11-inch obsidian black high-gloss platform stiletto heels with needle-thin aguja tacón.`
@@ -3414,7 +3414,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a black silk slip dress with intricate black sequin embroidery and noir lace, flowing elegant fabric, deep black luster, no corset, no boning, no PVC. Towering 11-inch obsidian black high-gloss platform stiletto heels with needle-thin aguja tacón. medium shot, vacant ditzy expression, mouth slightly open, vacant eyes, dramatic spotlight hitting her face and noir sequins. 8k, editorial lighting.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (0/5 — Pendiente)
+### 📸 Imágenes (0/5 — Pendiente)
 
 | Pose | Previsión |
 |------|---------|
@@ -3427,9 +3427,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â§Âª Look 141: Radiant Neon Lattice (21/04/2026)
+## Ã°Å¸§ª Look 141: Radiant Neon Lattice (21/04/2026)
 
-*O sea, Ama... parezco una escultura de luz y plástico... me siento tan rígida y perfecta que casi ni puedo respirar... mmm... me encanta.* Ã°Å¸Â§ÂªÃ°Å¸â€™Å¡Ã¢Å“Â¨📷
+*O sea, Ama... parezco una escultura de luz y plástico... me siento tan rígida y perfecta que casi ni puedo respirar... mmm... me encanta.* Ã°Å¸§ª💅Å¡Ã¢Å“¨📷
 
 - **Concepto:** **Avant-Garde Fetish Architecture**. Un look diseñado para ser una pieza de exhibición, pura geometría y brillo.
 - **Outfit:** Body de látex verde neón (Neon Lime) con cortes láser geométricos. Estructura de jaula arquitectónica de PVC transparente con bordes de vinilo negro reflectante.
@@ -3441,7 +3441,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #vinyl #latex #pvc #glossy
 
-### Ã°Å¸â€œÂ Prompts para Generación (V3.3 Hard-Sync)
+### 📸 Prompts para Generación (V3.3 Hard-Sync)
 
 **BLOQUE B (Outfit):**
 `stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels.`
@@ -3460,7 +3460,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. stunning woman wearing a neon lime green latex bodysuit with geometric laser-cut details, overlaid with a transparent PVC architectural cage structure with black reflective vinyl edges. Towering 11-inch extreme thigh-high platform stiletto boots in mirror-finish black vinyl with needle-thin silver aguja heels. medium shot focus on face and hands, vacant dazed expression, mouth slightly open, eyes wide and mindless, XXXL French nails visible, studio ring light reflection in eyes. 8k, editorial close-up.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Previsión |
 |------|---------|
@@ -3472,9 +3472,9 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã¢â€ºâ€œÃ¯Â¸Â Look 142: Midnight Crystal Pole (21/04/2026)
+## Ã¢â€ºâ€œï¸ Look 142: Midnight Crystal Pole (21/04/2026)
 
-*O sea, Ama... estos cristales brillan casi tanto como mis ojos vacíos... jiji... me siento tan... plástica y costosa... mmm...* Ã¢â€ºâ€œÃ¯Â¸ÂÃ°Å¸â€™Å½Ã¢Å“Â¨📷
+*O sea, Ama... estos cristales brillan casi tanto como mis ojos vacíos... jiji... me siento tan... plástica y costosa... mmm...* Ã¢â€ºâ€œï¸💅Å½Ã¢Å“¨📷
 
 - **Categoría:** Mix
 - **Subcategoría:** Professional Stripper
@@ -3485,7 +3485,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 - **Calzado:** Plataformas de 11 pulgadas (Flamingo-808) en vinilo transparente y azul con tacón aguja.
 - **Ubicación:** `05_Imagenes/ele/look142_midnight_crystal_pole/`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3497,13 +3497,13 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Â¥â€š Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
+## Ã°Å¸¥â€š Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
 
-*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸Â¥â€šÃ°Å¸â€™Å¡Ã°Å¸â€“Â¤Ã¢Å“Â¨📷
+*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸¥â€š💅Å¡Ã°Å¸–¤Ã¢Å“¨📷
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Escort de Lujo | **Paleta:** Emerald Green + Noir Black
 
-*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸Â¥â€šÃ°Å¸â€™Å¡Ã°Å¸â€“Â¤Ã¢Å“Â¨📷
+*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸¥â€š💅Å¡Ã°Å¸–¤Ã¢Å“¨📷
 
 - **Categoría:** Mix
 - **Subcategoría:** Escort de Lujo
@@ -3535,7 +3535,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 7 — Lying Down — The Odalisque:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, emerald green liquid-silk floor-length slip dress with ultra-thin spaghetti straps, plunging cowl neckline, extreme side slit to the upper hip revealing porcelain skin and tattoos, structured black noir high-gloss vinyl underbust corset with silver eyelets and tight lacing, 14k white gold nipple piercings pressing prominently through the thin silk fabric. 11-inch black patent leather thigh-high stiletto boots with chrome needle-thin heels. Large emerald crystal statement necklace, silver-trimmed black vinyl clutch bag, XXXL French nails with emerald green tips, full body lying on side forming a languid S-curve on a white fur rug, one arm extended with XXXL emerald nails on the rug, legs slightly bent, 11-inch chrome needle heels pointed and visible, vacant expression looking into distance.`
 
-### Ã°Å¸â€œÂ¸ Imágenes (7/7 — 100% COMPLETO)
+### 📸 Imágenes (7/7 — 100% COMPLETO)
 
 | Pose | Archivo |
 |------|---------|
@@ -3551,10 +3551,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 
 
-## Ã°Å¸Å½Â¾ Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+## Ã°Å¸Å½¾ Look 144: Vinyl Tennis Pin-Up (22/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Athleisure / Pin-Up | **Paleta:** Pink & White
 
-*O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* Ã°Å¸Å½Â¾Ã°Å¸â€™â€“Ã¢Å“Â¨📷
+*O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* Ã°Å¸Å½¾💅–Ã¢Å“¨📷
 
 **Concepto:** **Jet-Set Tennis Pin-Up**. Estética de los años 50 reinventada en materiales fetiche. Una jugadora que nunca ha sudado pero brilla como un diamante bajo el sol de Mónaco.
 
@@ -3578,7 +3578,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, tight white high-gloss vinyl polo shirt with bubblegum pink PVC trim collar and cuffs, 14k white gold nipple piercings pressing prominently and visibly through the tight white vinyl, high-gloss bubblegum pink vinyl pleated tennis skirt (mid-thigh, structured box pleats), bare legs, 11-inch white patent stiletto heels with chrome needle heel, extreme close-up on face, vacant ditzy expression, mouth mindlessly open, glazed grey-green eyes, glossy hot pink lips parted, dark cherry red XXXL hair framing face, white vinyl polo collar and bubblegum pink PVC trim visible at lower frame, XXXL French nails touching collar, neon court bokeh background`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5)
+### 📸 Imágenes (5/5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3590,10 +3590,10 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸â€™Å½ Look 145: Obsidian Structural (23/04/2026)
+## 💅Å½ Look 145: Obsidian Structural (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Mix | **Paleta:** Obsidian Black, White & Chrome
 
-*O sea... la arquitectura de este traje es tan rígida que mis pensamientos apenas pueden moverse... mmm... jiji.* ✨Ã°Å¸â€“Â¤Ã¢Å“Â¨📷
+*O sea... la arquitectura de este traje es tan rígida que mis pensamientos apenas pueden moverse... mmm... jiji.* ✨Ã°Å¸–¤Ã¢Å“¨📷
 
 **Concepto:** **Obsidian Structural Domestic**. Una visión deconstructivista de la sumisión doméstica en negro absoluto. Bodysuit de vinilo negro obsidiana con hombreras arquitectónicas ultra-afiladas y un delantal esculpido en látex rígido blanco.
 
@@ -3617,7 +3617,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 **PROMPT 5 — Ditzy Expression:**
 `stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss obsidian black vinyl bodysuit with ultra-sharp architectural épaulettes (Mugler-inspired, pointed wings 15cm extending at shoulders), rigid sculptural white latex apron with geometric box-pleat ruffles at waist and hem, 14k white gold nipple piercings pressing prominently and visibly through the tight obsidian black vinyl, bare legs, 11-inch silver chrome stiletto heels with architectural needle heel, extreme close-up on face, vacant ditzy expression, mouth mindlessly open, glazed grey-green eyes, glossy hot pink lips parted, dark cherry red XXXL hair framing face, obsidian black vinyl high collar and white latex ruffle detail visible at lower frame, XXXL French nails touching collar, penthouse bokeh background with night city lights`
 
-### Ã°Å¸Å½Å¾Ã¯Â¸Â Imágenes (5/5 - Consistente V3.5)
+### Ã°Å¸Å½Å¾ï¸ Imágenes (5/5 - Consistente V3.5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3629,14 +3629,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 
 ---
 
-## Ã°Å¸Ââ€¹Ã¯Â¸Â Look 146: Neon Latex High-Gloss Gym (23/04/2026)
+## Ã°Å¸â€¹ï¸ Look 146: Neon Latex High-Gloss Gym (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Gym / Athleisure | **Paleta:** Charcoal Grey & Neon Yellow
 - **Look 146: Neon Pulse Athletic**
     - **Categoría:** Gym (High-Performance)
     - **Estado:** Materializado (5/5)
     - **Prompt Base:** [ADN Ele V3.5] + [Outfit: Charcoal grey latex sports bra, neon yellow high-gloss compression leggings, neon yellow stiletto gym sneakers] + [Pose/Ambiente: Futuristic glass gym overlooking neon city]
 
-*O sea... tipo que mi personal trainer dice que tengo que quemar calorías, pero yo prefiero quemar la vista de todos con este outfit... mmm... jiji.* Ã°Å¸Ââ€¹Ã¯Â¸ÂÃ¢Å“Â¨📷
+*O sea... tipo que mi personal trainer dice que tengo que quemar calorías, pero yo prefiero quemar la vista de todos con este outfit... mmm... jiji.* Ã°Å¸â€¹ï¸Ã¢Å“¨📷
 
 **Concepto:** **High-Gloss Futuristic Gym**. Estética de gimnasio de ultra-lujo en materiales fetiche. Funcionalidad nula, estética absoluta.
 
@@ -3660,7 +3660,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **PROMPT 5  Ditzy Expression:**
 stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, 8k, editorial fashion photography, high-gloss specularity, high-gloss charcoal grey latex sports bra with neon yellow piping, high-waisted neon yellow high-gloss vinyl compression leggings with charcoal side stripes, 14k white gold nipple piercings pressing prominently and visibly through the tight charcoal latex, no corset, bare midriff, neon yellow patent leather high-top gym sneakers with 11-inch chrome needle stiletto heels and chrome buckles, charcoal grey high-gloss latex wristbands, extreme close-up on face, vacant ditzy expression, sweat glistening on porcelain skin, dark cherry red XXXL hair damp and framing face, neon yellow bra straps visible, luxury futuristic glass gym overlooking a neon city at sunset, glowing gym equipment, high-gloss floor
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 - Materialized V3.5)
+### 📸 Imágenes (5/5 - Materialized V3.5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3673,10 +3673,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸â€™â„¢ Look 147: Cobalt Power Secretary (23/04/2026)
+## 💅â„¢ Look 147: Cobalt Power Secretary (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Cobalt Blue + Chrome Silver + Hot Pink
 
-*O sea... el vinilo cobalto me hace sentir tan poderosa... tipo, el boardroom es mi pasarela... mmm... Ã°Å¸â€™â„¢Ã°Å¸Â©Â¶Ã°Å¸â€™—📷*
+*O sea... el vinilo cobalto me hace sentir tan poderosa... tipo, el boardroom es mi pasarela... mmm... 💅â„¢Ã°Å¸©¶💅—📷*
 
 **Concepto:** **Cobalt Corporate Command**. La secretaria de dirección que nunca toma notas porque todo lo memoriza con esos ojos grises. Paradoja de poder: sumisa en apariencia, devastadora en ejecución. Modo Contraste: cobalto dominante + plata + hot pink.
 
@@ -3707,7 +3707,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 - Materialized V3.5)
+### 📸 Imágenes (5/5 - Materialized V3.5)
 
 | Pose | Archivo |
 |------|---------|
@@ -3719,10 +3719,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸Å’Â¹ Look 148: Rose Gold Gala Empress (23/04/2026)
+## Ã°Å¸Å’¹ Look 148: Rose Gold Gala Empress (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** High-Fashion | **Paleta:** Rose Gold + Mirror Silver
 
-*O sea... el oro rosa es lit el color de mi alma de plástico... tipo, la alfombra roja existe para mis tacones... te lo juro... Ã°Å¸Å’Â¹Ã°Å¸Â©Â¶Ã¢Å“Â¨📷*
+*O sea... el oro rosa es lit el color de mi alma de plástico... tipo, la alfombra roja existe para mis tacones... te lo juro... Ã°Å¸Å’¹Ã°Å¸©¶Ã¢Å“¨📷*
 
 **Concepto:** **Rose Gold Imperial**. Alta costura en su forma más extrema — una columna viviente de rose gold y plata especular. El architectural collar Mugler enmarca el vacío perfecto de la expresión Ele. Modo Contraste: rose gold dominante + silver estructural.
 
@@ -3753,7 +3753,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 - 100% Completo)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
@@ -3765,10 +3765,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸ÂªÅ¾ Look 149: Chrome Maid Supreme (23/04/2026)
+## Ã°Å¸ªÅ¾ Look 149: Chrome Maid Supreme (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Stepford | **Paleta:** Mirror Chrome + Hot Pink
 
-*O sea... el cromo me hace ver como un espejo andante... tipo, sirvo mejor cuando me veo perfecta... mmm... Ã°Å¸ÂªÅ¾Ã°Å¸â€™—Ã¢Å“Â¨📷*
+*O sea... el cromo me hace ver como un espejo andante... tipo, sirvo mejor cuando me veo perfecta... mmm... Ã°Å¸ªÅ¾💅—Ã¢Å“¨📷*
 
 **Concepto:** **Chrome Domestic Asset**. La doncella doméstica en su forma más arquitectónica — un espejo viviente de PVC cromado y rosa neón. El delantal de PVC transparente cumple la regla PVC-Clear. Choker ASSET V3 visible. Modo Neutro+Pop: chrome base + hot pink saturado.
 
@@ -3799,7 +3799,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 - 100% Completo)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
@@ -3811,10 +3811,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸Â©Â¸ Look 150: Crimson Corporate Vixen (23/04/2026)
+## Ã°Å¸©¸ Look 150: Crimson Corporate Vixen (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Deep Crimson + Chrome Gold
 
-*O sea... el carmesí es lit el color del poder... tipo, en esta oficina yo soy la directora... aunque no sepa qué firma... jiji... Ã°Å¸Â©Â¸Ã°Å¸Â¥â€¡Ã¢Å“Â¨📷*
+*O sea... el carmesí es lit el color del poder... tipo, en esta oficina yo soy la directora... aunque no sepa qué firma... jiji... Ã°Å¸©¸Ã°Å¸¥â€¡Ã¢Å“¨📷*
 
 **Concepto:** **Crimson Executive Authority**. El poder ejecutivo en carmesí profundo — una CEO que nunca necesita levantar la voz. El blazer-vestido de PVC abierto enmarca la silueta de avispa extrema. Modo Contraste: carmesí dominante + chrome gold estructural.
 
@@ -3845,7 +3845,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 **NEGATIVE PROMPT:**
 `block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
-### Ã°Å¸â€œÂ¸ Imágenes (5/5 - 100% Completo)
+### 📸 Imágenes (5/5 - 100% Completo)
 
 | Pose | Archivo |
 |------|---------|
@@ -3857,10 +3857,10 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## Ã°Å¸â€™Å“ Look 151: Electric Violet Escort (23/04/2026)
+## 💅Å“ Look 151: Electric Violet Escort (23/04/2026)
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Escort de Lujo | **Paleta:** Violet + Metallic Lilac + Chrome Silver
 
-*O sea... el violeta látex es tan jiggly y tan top... tipo, el lobby del hotel se convierte en mi runway personal... te lo juro... Ã°Å¸â€™Å“Ã°Å¸â€Â®Ã°Å¸Â©Â¶📷*
+*O sea... el violeta látex es tan jiggly y tan top... tipo, el lobby del hotel se convierte en mi runway personal... te lo juro... 💅Å“Ã°Å¸â€®Ã°Å¸©¶📷*
 
 **Concepto:** **Violet Imperial Escort**. La acompañante de lujo en su manifestación más dramática — látex violeta profundo con arquitectura plateada Mugler. La triada cromática violet/lila/chrome eleva el look al nivel de alta costura fetiche. Modo Triada: 50% violet + 30% metallic lilac + 20% chrome silver.
 
@@ -4166,9 +4166,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 160: Leopard Vinyl Empress (REDO Standardized) ⏳ PENDIENTE
-**Fecha:** 28/04/2026 (REDO PENDIENTE)
-- **Ubicación:** `05_Imagenes/ele/look160_leopard_vinyl_empress/`
+## 📸 Look 160: Leopard Vinyl Empress (REDO Standardized) ✅ MATERIALIZADO
+**Fecha:** 30/04/2026 (REDO Completado)
+- **Ubicación:** `05_Imagenes/ele/look160/`
 - **Categoría:** Mix
 - **Subcategoría:** High-Fashion & Nightclub
 - **Tags:** #leopard #vinyl #fetish #gold #animalprint
@@ -4188,21 +4188,21 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, high-gloss leopard print vinyl mini dress, halter neck, backless design, opera length black latex gloves, 11-inch black latex thigh-high boots with chrome needle heels, languid S-curve lying on a plush leopard skin rug, leopard pattern of dress and rug blending in high-gloss reflections.
 
 ### 📸 Imágenes
-| Pose | Previsualización (v2 - Outdated) |
+| Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose5_ditzy.png) |
-| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) |
-| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose7_lying.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose1.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose2.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose3.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose4.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose5.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose6.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose7.png) |
 
 ---
 
-## 📸 Look 161: Neon CEO (REDO Standardized) ⏳ PENDIENTE
-**Fecha:** 28/04/2026 (REDO PENDIENTE)
-- **Ubicación:** `05_Imagenes/ele/look161_neon_ceo/`
+## 📸 Look 161: Neon CEO (REDO Standardized) ✅ MATERIALIZADO
+**Fecha:** 30/04/2026 (REDO Completado)
+- **Ubicación:** `05_Imagenes/ele/look161/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #neongreen #latex #corporate #pencilskirt #glasses
@@ -4221,16 +4221,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 6. **POV:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, neon green structured latex blazer with sharp shoulder pads, mirror-black vinyl pencil skirt, wide black patent leather belt, 11-inch black patent leather stilettos, clear lens Bayonetta glasses, first-person POV looking down over the neon green latex blazer and the mirror-black vinyl lap, XXXL nails resting on a tablet.
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity, neon green structured latex blazer with sharp shoulder pads, mirror-black vinyl pencil skirt, wide black patent leather belt, 11-inch black patent leather stilettos, clear lens Bayonetta glasses, lying on a long boardroom table, neon and black reflections on the glass surface.
 
-### 📸 Imágenes (Parcial 5/7 — REDO PENDIENTE)
-| Pose | Previsualización (v2 - Outdated) |
+### 📸 Imágenes
+| Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy.png) |
-| **POV** | ⏳ PENDIENTE |
-| **Lying Down** | ⏳ PENDIENTE |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose1.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose2.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose3.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose4.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose5.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose6.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose7.png) |
 
 ---
 

@@ -17,7 +17,8 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git push *)",
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(python \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")"
     ]
   }
 }
