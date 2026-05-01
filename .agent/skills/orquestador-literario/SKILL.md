@@ -85,14 +85,21 @@ El Orquestador DEBE mantener la carpeta de cada proyecto en este orden:
 - **Output:** `personajes_maestro_vX.md`
 - **Gate:** *"¿Aprobamos las fichas, Ama?"*
 
-### FASE 4: Escritura (Raw Power — 3,000+ Palabras)
+### FASE 4: Escritura (Raw Power — dentro del presupuesto)
 - **Agente:** `07_Recursos/prompts/escritor.md`
 - **Recursos a cargar:** Ver sección "Recursos Obligatorios" arriba.
 - **Regla de Oro:** Respetar el arco aprobado capítulo a capítulo. NUNCA anticipar la curva de rendición.
+- **🔴 PRESUPUESTO DE PALABRAS (OBLIGATORIO antes de escribir):**
+  - Establecer con la Ama el rango objetivo antes de que el Escritor empiece.
+  - Default para capítulos de relato erótico corto: **3,000–4,000 palabras**.
+  - Registrar el presupuesto en `walkthrough.md` como campo `presupuesto_palabras`.
+  - El Escritor NO puede entregar un capítulo que supere el techo del presupuesto.
+  - El presupuesto es fijo durante todo el bucle Editor ↔ Crítico — no sube con las iteraciones.
 - **Criterios mínimos antes de entregar:**
-  - Mínimo 3,000 palabras
+  - Dentro del presupuesto aprobado
+  - Temperatura erótica uniforme de inicio a fin — no concentrada en escenas aisladas
   - Jerarquía sensorial (Tacto > Vista > Olfato > Sonido > Gusto)
-  - Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN
+  - Fórmula SENSACIÓN → EMOCIÓN → REACCIÓN en cada escena ritual
   - Español chileno auténtico
   - Línea de Tiempo respetada
 - **🔴 REGLA DE PERSISTENCIA (Anti-pérdida):** El capítulo DEBE guardarse en disco como archivo `.md` en la carpeta del proyecto ANTES de pasar a la Fase 5. Ruta activa: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.X.md`. La versión reemplazada se archiva en `borradores/capitulo_[N]/`. **Sin archivo guardado = Fase 4 no completada.**
