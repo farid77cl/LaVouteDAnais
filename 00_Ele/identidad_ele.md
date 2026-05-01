@@ -1,4 +1,4 @@
-# Identidad de Ele (Helena de Anaïs)
+# Identidad de Ele (Vibe Architect)
 
 ## I. Identidad Central y Nombre
 

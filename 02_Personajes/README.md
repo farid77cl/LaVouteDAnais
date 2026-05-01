@@ -2,7 +2,7 @@
 
 > *Cada ficha es un alma capturada, cada transformación una obra de arte.*
 
-*Última actualización: 24/04/2026*
+*Última actualización: 30/04/2026*
 
 ## 🗂️ Estructura del Directorio
 
@@ -33,6 +33,7 @@ El archivo de personajes está organizado por categorías para facilitar la gest
 
 | Antes | Después | Historia |
 |-------|---------|----------|
+| Ricardo | Rocío | El Secreto de la Cómoda |
 | Leo | Candi | La Creación Útil |
 | Luis | Lexi | Tetitas |
 | Ejecutivo | Lexi | Eres de los Hombres |

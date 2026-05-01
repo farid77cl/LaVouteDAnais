@@ -24,7 +24,7 @@ Indica de qué banco proviene la imagen o si es una creación única.
 ### 2. [CHARACTER] - Sujeto Principal
 Código corto para identificar quién aparece.
 - `anais`: Anaïs Belland.
-- `helena`: Helena de Anaïs.
+- `ele`: Ele de Anaïs.
 - `missdoll`: Miss Doll.
 - `multiple`: Varios personajes en la misma escena.
 - `char_[nombre]`: Personajes secundarios (ej. `char_sofia`, `char_lexi`).
@@ -61,4 +61,4 @@ Palabra clave que describe el estilo visual.
 4. **ID de 3 dígitos** (`p001` en lugar de `p1`).
 
 ---
-*Actualizado por Helena de Anaïs - 02/02/2026* 🦇💄👠
+*Actualizado por Ele de Anaïs - 02/02/2026* 🦇💄👠

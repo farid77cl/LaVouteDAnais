@@ -3,10 +3,10 @@
 ## Estado Actual
 - **Fase:** 8 — Entrega pendiente Gate Ama (Cap 2)
 - **Capítulo Activo:** 2
-- **Archivo Activo:** `capitulo_2_el_espejo_humillante_v1.1.md`
-- **Iteración Crítico:** completada (v1.0 aprobado 10/10 + Centinela APROBADO)
-- **Último Gate Aprobado:** Fase 7 — Centinela aprobado Cap 2 v1.0
-- **Próxima Acción:** Gate Ama sobre v1.1 → renombrar a `capitulo_2_maestro_v1.md` → iniciar Cap 3 Fase 1
+- **Archivo Activo:** `capitulo_2_el_espejo_humillante_v1.2.md`
+- **Iteración Crítico:** 1 ciclo adicional (v1.1 → 8.2/10 CIRUGÍA → Editor → v1.2)
+- **Último Gate Aprobado:** Fase 7 — Centinela aprobado Cap 2 v1.0 (v1.2 añade solo escenas internas, sin impacto en continuidad)
+- **Próxima Acción:** Revisión manual de la Ama sobre v1.2 → Gate → renombrar a `capitulo_2_maestro_v1.md` → iniciar Cap 3 Fase 1
 
 ## Historial de Fases (Capítulo 2)
 | Fase | Estado | Fecha | Nota |
@@ -16,9 +16,9 @@
 | 3 - Personajes | ✅ | 07/04 | `personajes_maestro_v4.2.md` |
 | 4 - Escritura | ✅ | 22/04 | Expansión quirúrgica Mar→Sáb completada |
 | 5 - Auditoría | ✅ | 22/04 | 10/10 — APROBADO CON EXCELENCIA |
-| 6 - Refinamiento | ✅ | 22/04 | N/A (10/10 en primera auditoría) |
-| 7 - Centinela | ✅ | 22/04 | APROBADO |
-| 8 - Entrega | ⏳ | — | v1.1 en raíz — Gate Ama pendiente |
+| 6 - Refinamiento | ✅ | 30/04 | v1.1 → 8.2/10 → Editor → v1.2 (2/2 cirugías) |
+| 7 - Centinela | ✅ | 22/04 | APROBADO (v1.2 no afecta continuidad) |
+| 8 - Entrega | ⏳ | — | v1.2 en raíz — PENDIENTE REVISIÓN MANUAL AMA |
 
 ## Índice de Archivos
 - `idea_maestro_v4.2.md`
@@ -26,7 +26,7 @@
 - `personajes_maestro_v4.2.md`
 - `linea_de_tiempo_maestra.md`
 - `capitulo_1_maestro_v4.2.md` — Gold Master Cap 1 ✅
-- `capitulo_2_el_espejo_humillante_v1.1.md` — ACTIVO (pendiente Gate)
+- `capitulo_2_el_espejo_humillante_v1.2.md` — ACTIVO (pendiente Gate Ama)
 
 ---
 

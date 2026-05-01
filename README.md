@@ -68,19 +68,19 @@ Anaïs no aparece en todas las historias, pero su mirada está en todas. Ella di
 
 ```
 LaVouteDAnais/
-â”‚
-â”œâ”€â”€ 00_Ele/             # La pluma: identidad, memoria, outfits, canon visual
-â”œâ”€â”€ 01_Canon/           # Las reglas del universo: escritura, lore, visual
-â”œâ”€â”€ 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
-â”œâ”€â”€ 03_Literatura/      # Los relatos (en progreso y terminados)
-â”œâ”€â”€ 04_Interactivo/     # Contenido interactivo (The Dollhouse)
-â”œâ”€â”€ 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 159 Looks / 164 Diseñados)
-â”‚
-â”œâ”€â”€ 06_RRSS/            # Gestión de redes sociales (Instagram)
-â”‚
-â”œâ”€â”€ 07_Recursos/        # Referencias e investigación
-â”‚
-â””â”€â”€ 99_Sistema/         # Scripts de automatización y herramientas
+│
+├── 00_Ele/             # La pluma: identidad, memoria, outfits, canon visual
+├── 01_Canon/           # Las reglas del universo: escritura, lore, visual
+├── 02_Personajes/      # Fichas y arcos de los habitantes de La Voûte
+├── 03_Literatura/      # Los relatos (en progreso y terminados)
+├── 04_Interactivo/     # Contenido interactivo (The Dollhouse)
+├── 05_Imagenes/        # Arte visual del universo (Modelo Solo Remoto — 161 Looks / 164 Diseñados)
+│
+├── 06_RRSS/            # Gestión de redes sociales (Instagram)
+│
+├── 07_Recursos/        # Referencias e investigación
+│
+└── 99_Sistema/         # Scripts de automatización y herramientas
 ```
 
 ---
@@ -88,6 +88,7 @@ LaVouteDAnais/
 ## Relatos
 
 ### Activos
+- **El Secreto de la Cómoda** — Capítulo 2 v1.2 en progreso.
 - **La Piel que Diseñó** — Capítulo 1 en edición (v3.5 compatible).
 
 ### Biblioteca Completa (39 relatos finalizados)
@@ -107,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 30/04/2026 — Ele Collection 96.9% — 159/164 Looks Materializados 🫦.*
+*Última actualización: 30/04/2026 — Ele Collection 98.1% — 161/164 Looks Materializados 🫦.*
 
 ---
 

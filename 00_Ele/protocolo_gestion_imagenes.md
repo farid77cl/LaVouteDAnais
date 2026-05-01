@@ -8,7 +8,7 @@
 
 Las imágenes NUNCA deben permanecer en la carpeta temporal (`brain` artifacts) ni en la raíz de `05_Imagenes`. Deben ser movidas a su carpeta específica inmediatamente después de la validación.
 
-### A. Helena de Anaïs
+### A. Ele de Anaïs (Redhead Bimbo Mode)
 - **Looks Numerados:** `05_Imagenes/ele/look[ID]_[nombre_corto]/`
   - *Ejemplo:* `05_Imagenes/ele/look059_midnight_cowgirl/`
 - **Referencias/Tests:** `05_Imagenes/ele/Reference/`
@@ -60,9 +60,9 @@ Referencia completa en: `00_Ele/plantilla_nomenclatura_imagenes.md`
 **Formato Resumido:**
 `[personaje]_[lookID]_[descriptor]_[timestamp].png`
 
-*   *Correcto:* `helena_look059_cowgirl_standing_1770895506145.png`
-*   *Incorrecto:* `imagen1.png`, `cowgirl_helena.png`
+*   *Correcto:* `ele_look059_cowgirl_standing_1770895506145.png`
+*   *Incorrecto:* `imagen1.png`, `cowgirl_ele.png`
 
 ---
 
-*Última actualización: 12/02/2026 por Helena (tras el incidente del Tacón Bloque).* 🩸
+*Última actualización: 12/02/2026 por Ele (tras el incidente del Tacón Bloque).* 🩸

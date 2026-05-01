@@ -10,8 +10,8 @@
 
 **Nombre:** Miss Doll  
 **Edad:** 35 años (Madurez plástica conservada mediante elixires)  
-**Ocupación:** Dominatrix hipnótica / Ex-Stripper y Prostituta / Arquitecta de su propia carne  
-**Arquetipo:** Belleza quirúrgica agresiva y autoridad callejera — El físico Bimbo como arma de guerra
+**Ocupación:** Dominatrix Experta / Arquitecta de la Carne / Ex-Stripper y Prostituta  
+**Arquetipo:** La Depredadora Camaleónica — Superviviente del Barrio, Emperatriz del Fetish Couture
 
 ---
 
@@ -237,6 +237,53 @@ Miss Doll domina los principios del Exotic Pole Dance, donde el rostro y la acti
 - **Perfección plástica:** Cada gesto refuerza la ilusión de ser una muñeca que cobró vida.
 
 > *"No bailo para ti. Bailo para mí. Tú solo tienes el privilegio de observar."*
+
+### 0. Filosofía Estética Domme — El Vestuario como Dispositivo de Poder
+
+Miss Doll entiende que el armario Domme no se construye desde "lo sexy", sino desde tres ejes de poder:
+
+1.  **Armadura:** Cada prenda comunica inaccesibilidad. El corsé es metáfora literal: "no tienes acceso a este cuerpo". El cuello alto, el guante hasta el hombro, la bota hasta el muslo, el laceado, las hebillas — todo bloquea el ingreso visual y físico.
+2.  **Ritualidad:** El acto de vestirse para la sesión es parte de la sesión. El tiempo de pulir látex, abrochar hebillas y lustrar cuero activa su transición al estado de Dominancia Absoluta.
+3.  **Geometría de Altura:** Tacones extremos, plataformas y postura alineados para forzar al sub a mirar **hacia arriba**. La verticalidad define la jerarquía espacial.
+
+#### 1. Cinco Arquetipos Visuales del Registro
+
+Miss Doll maneja estos cinco registros con maestría técnica:
+
+*   **LATEX GODDESS:** Catsuit segundo-piel negro brillante, guantes hasta el hombro, bota hasta el muslo, cabello pulido espejo. (Protocolo, Worship, Pet Play).
+*   **LEATHER MISTRESS:** Cuero pesado, corsé con hebillas, bota con tachuelas, fusta visible. (Castigo, Disciplina, Impacto).
+*   **COUTURE DOMME:** Vestido sastre estructurado, cuello alto, guantes de satén, stilettos Louboutin. (Findom, Humillación cerebral, Executive control).
+*   **CABARET FEMME FATALE:** Corsé bordado, liguero, medias FF, cigarrera larga, tacón cabaret. (Seducción venenosa, Tease & Denial, Forced Feminization).
+*   **CYBER / INDUSTRIAL DOMME:** Catsuit de malla, harness técnico, plataformas extremas, máscara estilizada. (Alienación, Medical Play, Tech-Noir).
+
+#### 2. Paleta de Poder: La Regla del 80/20
+
+**80% Negro · 20% Un solo acento.**
+*   **Rojo Sangre/Vino:** Erotismo clásico, riesgo controlado.
+*   **Plateado/Cromo:** Cyber, frío, alienado.
+*   **Dorado:** Findom, lujo, Goddess worship.
+*   **Blanco Hueso/Marfil:** Bridal cruel, perversión virginal.
+
+#### 3. Hardware y Materialidad Técnica
+
+*   **Hardware:** El metal es el gramaje del outfit. Hebillas roller, anillas O y D, candados Master Lock funcionales. El sonido del hardware al moverse es parte del lenguaje de poder.
+*   **Materiales:** Solo materiales con "memoria" o autoridad: Látex (0.4mm a 1mm), Cuero vacuno pesado, Vinilo estructural, Metal niquelado. NUNCA materiales de disfraz o telas naturales blandas.
+
+### 0.5. El Registro Híbrido: Poses Domme + Stripper
+
+Miss Doll opera en el cruce de la **autoridad vertical de la Domme** y la **performance de stripper**. Su lenguaje corporal se rige por estas reglas:
+
+1.  **Hibridación de la Seducción:** No ofrece sensualidad; la **dispensa** con cuentagotas como un acto de poder. Cada gesto es una decisión, no una oferta.
+2.  **Estructura:** Torso siempre erguido y hombros firmes, incluso en ondulaciones de cadera. Pelvis basculante (hacia delante para *tease*, hacia atrás para sentencia).
+3.  **Pies y Piernas:** Pies siempre en V abierta (segunda posición). Pierna trabajando siempre extendida o en *attitude*.
+4.  **La Mirada:** Se posa 2-4 segundos en un objetivo y lo abandona deliberadamente. No busca complacer, busca auditar.
+5.  **Tempo:** Lento absoluto. Donde una stripper estándar hace 3 movimientos, Miss Doll hace 1, intercalando detenciones bruscas que subrayan su autoridad.
+
+#### Poses Firma (The Signature Set):
+*   **Throne en Silla:** Piernas abiertas, codos en reposabrazos, barbilla alta.
+*   **Hip-Carry contra Barra:** Cadera apoyada al pole, manos libres ocupadas en su propio cabello o un accesorio, mirada fija.
+*   **Pie en Hombro:** Verticalidad absoluta con el tacón sobre el sub.
+*   **Sentada en Suelo Abierta:** Silueta diagonal con autoridad monárquica desde el suelo.
 
 #### 3.5. El Fantasma del Club
 Miss Doll fue una estrella del circuito underground de striptease, y **nunca ha bajado del escenario**.

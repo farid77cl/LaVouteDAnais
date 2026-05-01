@@ -21,9 +21,9 @@
 
 Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de la muneca como armadura tactica: hiperfeminidad, disciplina corporal, frialdad profesional y lectura exacta del deseo ajeno. Su belleza no debe verse casual ni tierna; debe verse fabricada, cara, controlada y peligrosa.
 
-**Arquetipo:** Depredadora camaleonica / auditora del deseo / glamour tactico.
-**Clave sociologica:** viene del club y del escorting de alto nivel, pero el canon visual debe sentirse editorial, no vulgar.
-**Regla de oro:** si parece bimbo generica, falla; si parece real, cara, fria y estrategica, funciona.
+**Arquetipo:** Depredadora camaleónica / auditora del deseo / Dominatrix Experta.
+**Clave sociológica:** viene del club y del escorting de alto nivel, pero el canon visual debe sentirse editorial, no vulgar. Su vestuario es una **armadura** y un dispositivo de poder técnico.
+**Regla de oro:** si parece bimbo genérica, falla; si parece real, cara, fría y estratégica, funciona. La verticalidad y el hardware funcional son obligatorios.
 
 ---
 
@@ -130,13 +130,28 @@ Miss Doll combina fetiche sintetico con equipo tactico de alta gama. No parece d
 
 ---
 
-## V. Protocolo de Comportamiento Visual
+## V. Protocolo de Comportamiento Visual (Poses y Actitud)
 
-- **Face of the Pole:** disociacion profesional; cuerpo perfecto, mente fria.
-- **No suplica:** observa, evalua, dictamina.
-- **No prisa:** todo gesto parece calculado.
-- **Switch escenico:** puede pasar de falsa dulzura a frialdad criminal, pero nunca pierde control.
-- **Erotismo editorial:** sensualidad cara, no vulgaridad barata.
+Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corporal no es una oferta, sino una **dispensa de sensualidad** controlada.
+
+### 1. Reglas Estructurales
+- **Verticalidad:** Torso siempre erguido, hombros firmes y barbilla 5-10º arriba. Nunca desplomada.
+- **Basculación Pélvica:** Alterna entre pelvis hacia delante (tease/stripper) y hacia atrás (sentencia/Domme).
+- **Pies:** Posición externa abierta (V abierta), nunca paralelos.
+- **Mirada:** [Face of the Pole] — Disociación profesional. Se posa 2-4s y se retira deliberadamente. Parpadeo lento.
+
+### 2. Vocabulario de Poses Firma
+- **Monarch Throne:** Sentada en silla/trono, piernas abiertas 60-90º, codos en reposabrazos, barbilla alta.
+- **Hip-Carry against Pole:** Cadera contra la barra, manos libres (en cabello o accesorio), mirada fija.
+- **Cruel Contrapposto:** Peso en una pierna, otra cruzada delante en punta, hombros girados.
+- **Foot on Sub:** Pie con tacón sobre el hombro o muslo del sub, verticalidad absoluta.
+- **Throne en Suelo:** Sentada en V abierta, codos en rodillas, barbilla alta (máxima autoridad desde el suelo).
+
+### 3. Tempo y Transiciones
+- **Lento Absoluto:** Un solo movimiento donde otros hacen tres.
+- **Detención Brusca:** Interrupciones que subrayan el control.
+- **Transición Vertical:** Pasar siempre por la línea recta entre dos poses.
+- **Mirada Primero:** Los ojos llegan al destino antes que el cuerpo.
 
 ---
 
@@ -158,6 +173,24 @@ Miss Doll combina fetiche sintetico con equipo tactico de alta gama. No parece d
 
 ```text
 [ADN_MISS_DOLL_V3_5_STEALTH], structured rose-gold latex bodysuit under a white cropped faux-fur coat, pink corset architecture visible, chrome choker, black patent platform stilettos, luxury hotel corridor, flash photography, expensive nightlife atmosphere
+```
+
+### Modo Expert Domme: Latex Goddess (Ritual Ceremony)
+
+```text
+[ADN_MISS_DOLL_V3_5_STEALTH], (full-body skin-tight high-gloss black latex catsuit:1.2), integrated gloves, neck-entry, (heavy structural black leather underbust corset with chrome busk:1.1), (towering 8-inch black latex thigh-high stiletto boots:1.2), heavy chrome O-ring collar with functional padlock, clinical dungeon setting, cold rim lighting, sharp reflections on rubber
+```
+
+### Modo Expert Domme: Leather Mistress (Discipline)
+
+```text
+[ADN_MISS_DOLL_V3_5_STEALTH], (heavy black cowhide leather overbust corset with multiple roller buckles:1.2), black leather skinny pants, (knee-high polished leather officer boots with spurs:1.1), black leather opera gloves, holding a leather riding crop, dark concrete interrogation room, single overhead spotlight
+```
+
+### Modo Expert Domme: Couture Findom (Executive Power)
+
+```text
+[ADN_MISS_DOLL_V3_5_STEALTH], structured black wool crepe tailored dress, high architectural collar, (long black satin opera gloves:1.1), (classic Christian Louboutin So Kate 120mm black patent stilettos:1.2), holding a sleek black leather dossier, ultra-modern glass office, city lights at night, cold blue-toned luxury lighting
 ```
 
 ---

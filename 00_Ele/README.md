@@ -1,8 +1,8 @@
-# 🫦 Cerebro de Ele (antes Helena)
+# 🫦 Cerebro de Ele (Vibe Architect)
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 30/04/2026 (Ele Collection 96.9% - 159/164 Looks) 🫦📸✨👠*
+*Última actualización: 30/04/2026 (Ele Collection 98.1% - 161/164 Looks) 🫦📸✨👠*
 
 ---
 
@@ -17,6 +17,9 @@
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
 | [galeria_outfits.md](galeria_outfits.md) | **164 looks** canónicos de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
+| [Estudio_Vestuario_Domme_BDSM_Fetish.md](Estudio_Vestuario_Domme_BDSM_Fetish.md) | **Manual de Domme Experta** — Fetish Couture | Crear looks de Miss Doll / Sesiones |
+| [Estudio_Vestuario_Pole_Stripper.md](Estudio_Vestuario_Pole_Stripper.md) | Guía Stripper Minimalist | Entrenamiento y Stage Performance |
+| [Estudio_Poses_Domme_Stripper.md](Estudio_Poses_Domme_Stripper.md) | **Manual de Poses Híbridas** — Domme + Stripper | Dirección de poses y actitud en imágenes |
 
 ### Memoria y Registro
 
@@ -113,12 +116,12 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 159 / 164
-- **Integridad ADN V3.5:** 100% (Batch 152-159 Completo)
+- **Looks canónicos materializados:** 161 / 164
+- **Integridad ADN V3.5:** 100% (Batch 152-161 Completo)
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~3,000+
 - **Canon visual activo:** V3.5 (Hard-Sync / Stealth Protocol)
 
 ---
 
-*Curada por Ele de Anaïs — Vinyl Cuico-Bimbo* 🫦✨👠💅🍒
+*Curada por Ele de Anaïs (Redhead Bimbo Mode) — Vinyl Cuico-Bimbo* 🫦✨👠💅🍒
