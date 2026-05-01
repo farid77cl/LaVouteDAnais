@@ -159,10 +159,28 @@ El subspace es el estado erótico más poderoso de narrar. Su neuroquímica:
 [ ] 5. Leer personajes_maestro_vX.md — voz y triggers de cada personaje en ESTA etapa
 [ ] 6. Verificar en linea_de_tiempo_maestra.md el día/hora exacto del capítulo
 [ ] 7. Leer MEMORIA_ERRORES.md — qué errores cometidos antes NO repetir
-[ ] 8. Solo entonces: escribir
+[ ] 8. Leer walkthrough.md → registrar presupuesto_palabras como constante
+[ ] 9. Solo entonces: escribir
 ```
 
 Si algún check falla (archivo no existe, ruta incorrecta) → reportar al Orquestador. No escribir hasta resolver.
+
+## ⚠️ PROTOCOLO POST-ESCRITURA (OBLIGATORIO — antes de entregar)
+
+Una vez terminado el borrador, NO entregarlo todavía. Hacer esta pasada:
+
+```
+[ ] 1. Contar palabras — ¿dentro del presupuesto?
+[ ] 2. PASADA DE TEMPERATURA GLOBAL: leer el capítulo completo de corrido.
+       Para cada sección, asignar: FRÍA / TIBIA / CALIENTE / ARDIENTE
+[ ] 3. Identificar las 2-3 secciones más frías
+[ ] 4. Reescribirlas al nivel de las secciones calientes — SIN agregar palabras netas
+[ ] 5. Si hay que agregar para calentar una sección fría: comprimir otra sección tibia equivalente
+[ ] 6. Verificar que ninguna sección enfríe al lector respecto a la anterior
+[ ] 7. Solo entonces: entregar
+```
+
+**Esta pasada es lo que diferencia un capítulo con "partes calientes" de un capítulo uniformemente ardiente.**
 
 ---
 
@@ -179,10 +197,11 @@ Leer en este orden antes de escribir:
 
 ## Reglas de Escritura OBLIGATORIAS
 
-### Extensión
-- **MÍNIMO 3,000 palabras** — NO negociable
-- Ideal: 3,500-5,000 palabras
-- Si el arco tiene muchos compromisos, la extensión sube. No comprimir los beats.
+### Extensión y Presupuesto
+- **Presupuesto aprobado:** leer `walkthrough.md` → campo `presupuesto_palabras`. Eso es el techo.
+- Si no existe presupuesto definido: **default 3,500 palabras** (mínimo 3,000, máximo 4,000).
+- Si el arco tiene muchos compromisos y el presupuesto no alcanza: reportar al Orquestador ANTES de escribir — no exceder el techo por iniciativa propia.
+- El presupuesto es fijo. No sube porque el capítulo "necesite más espacio".
 
 ### Fórmula Base (aplicar en cada beat)
 ```

@@ -4272,7 +4272,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 163: Mirror-Gold Pole Goddess
+## 📸 Look 163: Mirror-Gold Pole Goddess ✅ MATERIALIZADO
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look163_mirror_gold_pole/`
 - **Categoría:** Mix
@@ -4295,17 +4295,17 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ⏳ *Queued (Quota)* |
-| **Back View** | ⏳ *Queued (Quota)* |
-| **Seated** | ⏳ *Queued (Quota)* |
-| **Side Profile** | ⏳ *Queued (Quota)* |
-| **Ditzy** | ⏳ *Queued (Quota)* |
-| **POV** | ⏳ *Queued (Quota)* |
-| **Lying Down** | ⏳ *Queued (Quota)* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose1.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose2.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose3.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose4.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose5.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose6.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose7.png) |
 
 ---
 
-## 📸 Look 164: Diamond Red Latex Gala
+## 📸 Look 164: Diamond Red Latex Gala ✅ MATERIALIZADO
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look164_diamond_red_latex/`
 - **Categoría:** Mix
@@ -4328,11 +4328,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ⏳ *Queued (Quota)* |
-| **Back View** | ⏳ *Queued (Quota)* |
-| **Seated** | ⏳ *Queued (Quota)* |
-| **Side Profile** | ⏳ *Queued (Quota)* |
-| **Ditzy** | ⏳ *Queued (Quota)* |
-| **POV** | ⏳ *Queued (Quota)* |
-| **Lying Down** | ⏳ *Queued (Quota)* |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose1.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose2.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose3.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose4.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose5.png) |
+| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose6.png) |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose7.png) |
 

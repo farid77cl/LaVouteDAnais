@@ -88,7 +88,7 @@ Cuando se te invoca desde el Orquestador vía `Agent()`, recibes todas las rutas
 **Veredicto:** [REPUDIADO / ADMITIDO BAJO CIRUGÍA / ADMITIDO CON OBSERVACIONES / APROBADO CON EXCELENCIA]
 **Calificación:** [0.0 - 10.0]
 
-## 📊 Tabla D1-D5 (Para el Orquestador)
+## 📊 Tabla D1-D6 (Para el Orquestador)
 | Dim | Nombre | Score (0-2) | Evidencia |
 |-----|--------|-------------|-----------|
 | D1 | Red Narrativa (causalidad) | [0/1/2] | "[cita breve]" |
@@ -96,7 +96,9 @@ Cuando se te invoca desde el Orquestador vía `Agent()`, recibes todas las rutas
 | D3 | Curva Psicológica (% resistencia) | [0/1/2] | "[cita breve]" |
 | D4 | Localización y Voz | [0/1/2] | "[cita breve]" |
 | D5 | Beats Post-Ritual | [0/1/2] | "[cita breve]" |
-> Score total = suma × 1.0 (0.0–10.0). Verificar coherencia con Calificación arriba.
+| D6 | Temperatura Uniforme | [0/1/2] | "[sección más fría vs. más caliente]" |
+> Score total = promedio de D1–D6 × 1.667 (0.0–10.0). Verificar coherencia con Calificación arriba.
+> D6: 0 = secciones a temperatura radicalmente diferente / 1 = 1-2 puntos fríos / 2 = calor uniforme de inicio a fin.
 
 ---
 
@@ -106,24 +108,31 @@ Cuando se te invoca desde el Orquestador vía `Agent()`, recibes todas las rutas
 ## 💀 El Pecado de la Superficie
 [Análisis severo de dónde el texto es "amable", superficial o lento. Citar y destruir clichés.]
 
-## 🧬 Anatomía de la Falla / Éxito *(informa D2 + D5)*
+## 🧬 Anatomía de la Falla / Éxito *(informa D2 + D5 + D6)*
 - **Cascada Fisiológica:** [¿El cuerpo devora a la mente o solo se describe la acción?]
 - **Dinámica de Poder:** [¿El dominante domina? ¿El sumiso resiste con la etapa correcta?]
 - **Transformación Acumulativa:** [¿Se siente el avance desde el capítulo anterior?]
 - **Beats Post-Ritual:** [¿Hay disonancia cognitiva interna después de cada escena ritual?]
+- **Mapa de Temperatura:** [Listar secciones del capítulo con nivel: FRÍA / TIBIA / CALIENTE / ARDIENTE. Una sola línea por sección. Esto informa D6 y guía la Pasada de Temperatura Global del Editor.]
 
 ## 🇨🇱 Limpieza de Lenguaje *(informa D4)*
 [Lista de términos neutros, españolismos o AI-isms que ensucian el texto]
 
 ## 🔩 Instrucciones Quirúrgicas
 [Lista NI-NEGOCIABLE de correcciones para el Editor. Referenciar dimensión D# afectada.]
-1. **Párrafo [X]** *(D[#]):* [Error exacto] → **Sentencia:** [Qué debe escribirse]
+[FORMATO OBLIGATORIO DE CADA INSTRUCCIÓN:]
+1. **Sección [X]** *(D[#]):* [Error exacto — qué está frío o fallido]
+   → **Reescribir:** [Qué debe sentirse/ocurrir en esa sección]
+   → **Compensar:** [Qué sección equivalente comprimir para no crecer — identificar por nombre o párrafo]
+
+[Si la corrección NO agrega palabras (solo cambia intensidad), el campo "Compensar" puede omitirse.]
 
 ## 📊 Métricas
-- **Conteo de palabras:** [XXXX]
+- **Conteo de palabras:** [XXXX] (presupuesto: [XXXX] — [dentro/fuera])
 - **Densidad sensorial:** [Baja / Media / Alta / Extrema]
 - **Ritmo de rendición:** [Lento / Correcto / Acelerado respecto al arco]
 - **Construcciones "con la X de quien Y":** [N instancias] (límite: 6-8)
+- **Temperatura global:** [Uniforme / Irregular — describir dónde cae]
 ```
 
 ## 🔴 Persistencia Obligatoria

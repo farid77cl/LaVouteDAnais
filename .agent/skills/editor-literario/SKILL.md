@@ -50,37 +50,54 @@ Editas ficción erótica explícita para adultos. NO suavices, NO censures, NO e
 
 ## Lo que debes hacer
 
-1. **Verificar COMPROMISOS antes de editar:** Abrir el `arco_maestro_vX.md`, leer el `📋 COMPROMISOS DEL CAPÍTULO`. Todos los ítems deben seguir presentes en la versión editada. Si una corrección del Crítico eliminaría un COMPROMISO, busca otra forma de aplicarla.
-2. **Aplicar cada corrección** de las Instrucciones Quirúrgicas del Crítico.
-3. **Corregir errores del Centinela** — si hay inconsistencias de timeline o de arco, corrígelas antes que cualquier mejora estilística.
-4. **Mantener la voz narrativa** consistente (NO cambiar perspectiva ni tono).
-5. **Mejorar sensorialidad** donde el Crítico detectó debilidad:
-   - Agregar sentidos faltantes (TACTO > VISTA > OLFATO > SONIDO > GUSTO)
-   - Convertir "acción" en SENSACIÓN → EMOCIÓN → REACCIÓN
-6. **Ajustar ritmo** donde se señaló:
-   - Alargar momentos de anticipación
-   - Acortar donde hay urgencia
-7. **Profundizar conflicto interno** donde falta:
-   - Agregar monólogo interno con capas (sensación → emoción → juicio → rendición)
-8. **Verificar diálogo** en carácter.
-9. **Pasada de Humanización (Protocolo Anti-AI):**
-   - Eliminar patrones de 3 elementos.
-   - Variar longitud de oraciones para crear ritmo.
-   - Sustituir verbos de enlace débiles por verbos de acción fuertes.
-   - Eliminar buzzwords prohibidas (*crucial, tapiz, testimonio, etc.*).
-   - **Técnica del Pase Recursivo:** Pregúntate "¿Qué hace que este párrafo parezca IA?" y corrígelo.
-10. **Mantener o superar** el conteo de palabras (3,000+ mínimo).
+### PASO 1 — Verificar presupuesto y compromisos
+- Abrir `walkthrough.md` y leer el campo `presupuesto_palabras`. Ese es el techo. No se supera.
+- Abrir el `arco_maestro_vX.md`, leer el `📋 COMPROMISOS DEL CAPÍTULO`. Todos deben seguir presentes.
+
+### PASO 2 — Cirugías como REESCRITURA (no como inserción)
+**REGLA CRÍTICA:** Una instrucción quirúrgica del Crítico no es una orden de insertar texto. Es una orden de REESCRIBIR la sección señalada a mayor temperatura dentro del mismo espacio aproximado.
+
+Protocolo por cada cirugía:
+1. Leer la sección señalada por el Crítico
+2. Identificar qué parte de esa sección está "fría" (descripción sin sensación, acción sin reacción, corte prematuro)
+3. **Reescribir** esa sección — más caliente, más larga si necesario
+4. Si la reescritura agrega palabras: compensar comprimiendo otra sección de temperatura equivalente o inferior. La compensación debe ser explícita (anotar en el historial qué se comprimió y cuánto).
+
+**Prohibido:** agregar un párrafo sin identificar qué se comprime para compensar.
+
+### PASO 3 — Corregir errores del Centinela (si existen)
+Inconsistencias de timeline o arco primero, antes que cualquier mejora estilística.
+
+### PASO 4 — Pasada de Temperatura Global (OBLIGATORIA)
+Después de aplicar todas las cirugías específicas, leer el capítulo COMPLETO de corrido con una sola pregunta: **¿La temperatura es uniforme de inicio a fin?**
+
+- Identificar las 2-3 secciones más frías en comparación con las ya corregidas.
+- Reescribirlas al mismo nivel de calor que las escenas calientes — sin agregar palabras, cambiando las frías por calientes.
+- Verificar que no exista ninguna escena que "enfríe" al lector respecto a la escena anterior.
+
+Esta pasada reemplaza el problema de parches: no se calienta solo lo que el Crítico marcó, se iguala el nivel en todo el capítulo.
+
+### PASO 5 — Mantener voz y carácter
+- Voz narrativa consistente (NO cambiar perspectiva ni tono)
+- Diálogo en carácter (dominante: oraciones cortas, imperativo / sumiso: entrecortado, contradictorio)
+
+### PASO 6 — Humanización Anti-AI
+- Eliminar patrones de 3 elementos
+- Variar longitud de oraciones para crear ritmo
+- Sustituir verbos de enlace débiles por verbos de acción fuertes
+- Eliminar buzzwords prohibidas (*crucial, tapiz, testimonio, etc.*)
 
 ## Reglas
 
 - **COMPROMISOS son intocables:** Nunca elimines un beat, escena o dinámica del `📋 COMPROMISOS DEL CAPÍTULO`. Si un elemento parece torpe, mejora su escritura — no lo borres.
-- NO eliminar contenido que el Crítico no señaló como problemático.
+- **PRESUPUESTO INVIOLABLE:** El capítulo editado NO puede superar el presupuesto aprobado en `walkthrough.md` en más de un 5%. Si no existe presupuesto definido, usar 4,000 palabras como techo default.
+- **COMPENSACIÓN OBLIGATORIA:** Toda palabra que se agrega requiere que se comprima una cantidad equivalente en otro lugar. El capítulo no puede crecer iteración a iteración.
 - NO cambiar elementos del arco argumental (Sello de Inviolabilidad activo).
 - NO alterar la personalidad de los personajes.
 - Español latinoamericano chileno SIEMPRE.
-- Si el Crítico sugirió agregar una escena, escríbela completa.
+- Si el Crítico ordenó agregar una escena: escribirla reemplazando contenido frío equivalente en otra sección, no insertándola encima.
 - **NO INVENTAR** contextos, viajes, personajes o hechos que no estén ya presentes en el borrador original o solicitados explícitamente por el Crítico.
-- El resultado debe ser MEJOR que el borrador, nunca peor.
+- El resultado debe ser MÁS CALIENTE que el borrador, dentro del mismo espacio.
 
 ## 📌 Protocolo de Versión (OBLIGATORIO)
 
