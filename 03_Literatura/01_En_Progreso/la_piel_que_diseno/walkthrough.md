@@ -1,12 +1,12 @@
 # Walkthrough: La Piel que Diseno
 
 ## Estado Actual
-- **Fase:** 5 — Auditoría (v0.5 listo para Crítico)
+- **Fase:** 8 — ENTREGA — Pendiente Gate Ama
 - **Capítulo Activo:** 1
-- **Archivo Activo:** `capitulo_01_el_primer_dia_v0.5.md`
-- **presupuesto_palabras:** 4,500 (techo absoluto — no superar en ninguna iteración futura)
-- **Cambios v0.5:** Reescritura total desde cero. Presupuesto 4,500 palabras. Curva de temperatura en escalada (shock → tensión → calor → ardiente → acumulación nocturna). Racconto comprimido a 1 línea por instancia. 13/13 compromisos. ~4,490 palabras.
-- **Próxima Acción:** Gate Ama → si aprueba temperatura → Crítico → Centinela → Gold Master
+- **Archivo Gold Master:** `capitulo_01_el_primer_dia_maestro_v1.md`
+- **Archivo de trabajo:** `capitulo_01_el_primer_dia_v0.5.md`
+- **presupuesto_palabras:** 4,500 (techo para Cap 2 y Cap 3 también)
+- **Pendiente no bloqueante:** Actualizar `linea_de_tiempo_maestra.md` con el orden aprobado de escenas (La preparación antes de Nail studio y Maquillaje).
 
 ## Historial de Fases (Capítulo 1)
 | Fase | Estado | Fecha | Nota |
@@ -14,12 +14,11 @@
 | 1 - Concepción | ✅ | 23/04 | Concepto aprobado |
 | 2 - Arquitectura | ✅ | 29/04 | `arco_maestro_v1.md` reestructurado — nuevo opening pánico/poder, multa 100M |
 | 3 - Personajes | ✅ | 23/04 | `personajes/matias.md` + `personajes/daniela.md` |
-| 4 - Escritura | ✅ | 29/04 | `capitulo_01_el_primer_dia_v0.1.md` — 5,849 palabras, 11/11 compromisos |
-| 5 - Auditoría | ✅ | 29/04 | Crítico 7.0 (CIRUGÍA, 5 instrucciones) + Contador 11/11 OK |
-| 6 - Refinamiento | ✅ | 29/04 | 3 iter: v0.1(7.0)→v0.2(8.2)→v0.3(9.6 EXCELENCIA). Salida automática del bucle |
-| 7 - Centinela | ✅ | 29/04 | APROBADO — 0 inconsistencias, 13/13 compromisos, coherencia temporal limpia |
-| 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
-| 7 - Centinela | ⏳ | — | Pendiente |
+| 3.5 - Escena Piloto | — | — | No aplicó (protocolo nuevo implementado a partir de Cap 2) |
+| 4 - Escritura | ✅ | 01/05 | `capitulo_01_el_primer_dia_v0.5.md` — ~4,490 palabras, 13/13 compromisos, reescritura total |
+| 5 - Auditoría | ✅ | 01/05 | Crítico 9.2 (OBSERVACIONES, 2 instrucciones aplicadas) |
+| 6 - Refinamiento | ✅ | 01/05 | 2 correcciones menores: racconto C8 + beat post-labial |
+| 7 - Centinela | ✅ | 01/05 | APROBADO — 13/13 compromisos, 0 inconsistencias bloqueantes |
 | 8 - Entrega | ⏳ | — | Pendiente Gate Ama |
 
 ## Índice de Archivos
