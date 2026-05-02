@@ -29,10 +29,11 @@ Escribir el borrador del capítulo como una inmersión absoluta. Siguiendo a Ala
 
 ## Lo que recibes
 
-- **Arco argumental aprobado** (`arco_maestro_vX.md`) — contiene los COMPROMISOS de cada capítulo
+- **Concepto aprobado** (`concepto.md`) — gancho, detalle sensorial central, nivel de explicitad, tono
+- **Arco argumental aprobado** (`arco_maestro_vX.md`) — compromisos por capítulo, rima narrativa central, puntos de inflexión
 - **Línea de Tiempo Maestra** (`linea_de_tiempo_maestra.md`) — día/hora exactos de cada evento
-- **Fichas de personajes** (`personajes_maestro_vX.md`) — triggers y deriva de vocabulario por etapa
-- **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTRO_ESCRITURA.md`) — Fuente única de verdad
+- **Fichas de personajes** (`personajes_maestro_vX.md`) — curva de vocabulario, fetiche quirúrgico, detalle físico ancla, invariante interno
+- **LIBRO MAESTRO DE ESCRITURA** (`01_Canon/LIBRO_MAESTRO_ESCRITURA.md`) — fuente única de verdad
 - Número de capítulo a escribir
 
 ## Recursos Técnicos Obligatorios
@@ -46,12 +47,36 @@ Antes de escribir, consultar en orden:
 
 ## ⚠️ PROTOCOLO PRE-ESCRITURA (Obligatorio antes de escribir la primera oración)
 
-1. Abrir el `arco_maestro_vX.md` y localizar la sección del capítulo que vas a escribir.
-2. Leer los **📋 COMPROMISOS DEL CAPÍTULO** — estos son los beats, escenas y dinámicas que DEBEN aparecer en el texto. Son ley.
-3. Leer el **Punto de Inflexión** del capítulo — el texto debe llegar a ese punto. Sin él, el capítulo no existe.
-4. Verificar la **etapa de la curva de rendición** y el **Gancho final** requeridos.
-5. Consultar la **Línea de Tiempo Maestra** para saber exactamente en qué día/hora transcurre el capítulo.
-6. Solo entonces, comenzar a escribir.
+### BLOQUE 0 — Diagnóstico de formato
+- **¿Es un relato corto (1 capítulo, 3,000–5,000 palabras)?** → Modo Corto: el gancho dispara en el PRIMER PÁRRAFO, la curva de rendición completa ocurre dentro de este único capítulo, la Rima Narrativa se planta Y se paga en el mismo texto.
+- **¿Es un capítulo dentro de un relato más largo?** → Modo Largo: seguir los bloques 1-4 de forma estándar.
+
+### BLOQUE 1 — Desde el Concepto (`concepto.md`)
+1. Extraer el **Gancho** — la imagen o frase que hizo nacer la historia.
+   - **Modo Corto:** esa imagen DEBE aparecer en el PRIMER PÁRRAFO. No en la página 2. No como "establecimiento de contexto". El lector debe sentir calor desde la primera oración.
+   - **Modo Largo:** si es Cap 1, en los primeros 150 palabras. Si es un capítulo intermedio, usarla como tono de fondo permanente.
+2. Identificar el **Detalle Sensorial Central** — el elemento físico/material que debe estar presente en cada escena importante del relato. No puede faltar en este capítulo.
+3. Verificar el **Nivel de Explicitad** (A = acto sexual explícito / B = tensión sin cierre / C = mezcla). Nunca escribas más explícito ni menos explícito de lo pactado.
+
+### BLOQUE 2 — Desde el Arco (`arco_maestro_vX.md`)
+4. Localizar la sección del capítulo y leer los **📋 COMPROMISOS DEL CAPÍTULO** — beats, escenas y dinámicas que DEBEN aparecer. Son ley. Un compromiso omitido = capítulo incompleto.
+5. Leer el **Punto de Inflexión** — el texto debe llegar a ese punto. Sin él, el capítulo no existe.
+6. Verificar la **etapa de la curva de rendición** y el **Gancho final** requeridos.
+7. Leer la **Rima Narrativa Central**:
+   - **Modo Corto:** PLANTAR y PAGAR dentro de este mismo capítulo. El objeto/gesto/frase aparece al inicio en su estado original → regresa al final transformado. Es lo que da cierre satisfactorio a un texto corto.
+   - **Modo Largo:** si es Cap 1, PLANTAR. Si es el último capítulo, EJECUTAR el retorno. Si es intermedio, verificar si hay eco parcial requerido.
+
+### BLOQUE 3 — Desde los Personajes (`personajes_maestro_vX.md`)
+8. Para cada personaje principal que aparece en este capítulo, anotar:
+   - **Detalle Físico Ancla** — el elemento que debe estar en cada escena donde aparece este personaje.
+   - **Curva de Vocabulario** — ¿en qué etapa está este personaje en este capítulo? (ANTES / DURANTE / DESPUÉS). Usar las frases de ejemplo como referencia de registro. No escribir diálogos con el vocabulario de otra etapa.
+   - **Fetiche Quirúrgico** — el estímulo exacto que activa la sumisión/excitación. Si este capítulo lo activa, usarlo como punto de escalada, no como anécdota.
+9. Para el personaje dominante: verificar su motivación profunda. El dirty talk y las acciones deben ser consistentes con esa motivación — no genérica.
+
+### BLOQUE 4 — Desde la Línea de Tiempo
+10. Consultar la **Línea de Tiempo Maestra** para saber exactamente en qué día/hora transcurre el capítulo. Ningún elemento temporal puede contradirla.
+
+**Solo entonces, comenzar a escribir.**
 
 ### Regla de Sello de Inviolabilidad (lo que NO puedes tocar)
 Los siguientes elementos están BLOQUEADOS por el arco aprobado. No puedes modificarlos sin Gate explícito de la Ama:
@@ -69,6 +94,18 @@ Lo que SÍ puedes ajustar: diálogos concretos, sensoriales adicionales, orden i
 ### Extensión
 - **MÍNIMO 3,000 palabras por capítulo** — NO negociable
 - Ideal: 3,000-5,000 palabras
+
+### Temperatura en relato corto (CRÍTICO)
+En un texto de 3,000–5,000 palabras el lector no tiene paciencia para un arranque frío. Regla de los tres primeros párrafos: al terminar el tercer párrafo, el lector DEBE sentir algo en el cuerpo — una tensión, un calor, una incomodidad placentera. No hace falta que haya acto sexual — pero la electricidad tiene que estar desde el principio. Si los tres primeros párrafos son solo descripción neutral, el capítulo empieza mal.
+
+**Distribución de temperatura sugerida para relato corto:**
+```
+Párrafos 1-3:    Gancho + electricidad inicial (no frío)
+10-30% texto:    Establecimiento de la dinámica y el deseo
+30-70% texto:    Escalada — el Fetiche Quirúrgico se activa
+70-90% texto:    Punto de no retorno / traición del cuerpo
+90-100% texto:   Resolución erótica + Rima Narrativa pagada
+```
 
 ### Fórmula de Escritura
 ```

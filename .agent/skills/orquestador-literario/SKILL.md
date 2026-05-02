@@ -38,7 +38,9 @@ El Agente Escritor DEBE cargar en este orden:
 3. `.agent/skills/escritura-voûte/resources/GUIA_FETICHISTA.md` — Mecánicas por fetiche
 4. `.agent/skills/escritura-voûte/resources/MEMORIA_ERRORES.md` — Reglas aprendidas (prioridad absoluta)
 5. `.agent/skills/escritura-voûte/resources/BITACORA_TEMPORAL.md` — Estado actual del personaje
-6. `arco_maestro_v4.2.md` del proyecto activo — Arco que NO puede violarse
+6. `concepto.md` del proyecto activo — Gancho, Detalle Sensorial Central, Nivel de Explicitad
+7. `arco_maestro_vX.md` del proyecto activo — Arco inviolable + Rima Narrativa Central
+8. `personajes_maestro_vX.md` del proyecto activo — Curva de Vocabulario, Fetiche Quirúrgico, Detalle Físico Ancla
 
 ---
 
@@ -68,22 +70,30 @@ El Orquestador DEBE mantener la carpeta de cada proyecto en este orden:
 ## 📜 El Protocolo Maestro (8 Fases)
 
 ### FASE 1: Concepción (Origen de la Ama)
-- **Acción:** Capturar fielmente la idea/fetiche de la Ama. El Ideador solo estructura; nunca propone sin permiso.
-- **Output obligatorios:** `concepto.md` + `walkthrough.md` (Fase 1)
-- **Gate:** *"¿Damos el visto bueno al concepto, Ama?"*
+- **Agente:** `07_Recursos/prompts/ideador.md`
+- **⚡ FLUJO INTERACTIVO — DOS FASES:**
+  - **Fase A (Intake):** El Ideador hace eco literal de la premisa + selecciona 3-4 preguntas del banco (gancho, tono, conciencia del protagonista, explicitad, detalle sensorial, fetiches) → STOP, espera respuestas.
+  - **Fase B (Producción):** Solo tras recibir respuestas. El concepto refleja lo que la Ama dijo, no lo que el agente imaginó.
+- **Regla crítica:** El Ideador NO agrega personajes, sub-fetiches ni sub-tramas que la Ama no mencionó. Si tiene una idea, la presenta como pregunta.
+- **Output obligatorios:** `concepto.md` + `walkthrough.md`
+- **Gate:** *"¿Reconoce la Ama todos los elementos como suyos?"*
 
 ### FASE 2: Arquitectura (Arco Maestro)
 - **Agente:** `07_Recursos/prompts/arquitecto.md`
-- **Acción:** Estructurar el Arco (Resistencia → Paz), capítulos detallados y Línea de Tiempo Maestra.
+- **⚡ FLUJO INTERACTIVO — DOS FASES:**
+  - **Fase A (Intake):** El Arquitecto resume el concepto en 3 líneas + selecciona 3-5 preguntas estructurales del banco (escala, curva de rendición, rimas narrativas, clímax, estructura temporal) → STOP, espera respuestas.
+  - **Fase B (Producción):** Solo tras recibir respuestas. Incluye la **Rima Narrativa Central** (objeto/gesto/frase que abre el relato y regresa transformado al final) y compromisos verificables por capítulo.
+- **⚠️ REGLA CARDINAL:** Una vez aprobado por la Ama, el arco es **INVIOLABLE**. El Escritor NO puede desviarse sin Gate.
 - **Output:** `arco_maestro_vX.md` + `linea_de_tiempo_maestra.md`
-- **⚠️ REGLA CARDINAL:** Una vez aprobado por la Ama, el arco es **INVIOLABLE**. El Escritor NO puede desviarse de él sin aprobación explícita.
 - **Gate:** *"¿Aprobamos el arco y la línea de tiempo, Ama?"*
 
 ### FASE 3: Personajes (Identidad y Soul)
 - **Agente:** `07_Recursos/prompts/personajes.md`
-- **Acción:** Fichas psicológicas, triggers, curvas de vocabulario por etapa de transformación.
+- **⚡ FLUJO INTERACTIVO — DOS FASES:**
+  - **Fase A (Intake):** Lista de personajes clasificados (principales/secundarios/figurantes) + 3 preguntas por personaje principal del banco (presencia física, voz con frases de ejemplo, invariante interno, fetiche quirúrgico) → STOP, espera respuestas.
+  - **Fase B (Producción):** Solo tras recibir respuestas. Las fichas incluyen: **Detalle Físico Ancla** (el elemento en cada escena), **Invariante Interno** (lo que no cambia ni en la transformación más profunda), **Curva de Vocabulario** con frases de ejemplo por etapa, **Fetiche Quirúrgico** con estímulo exacto + respuesta exacta + si el personaje es consciente de ello.
 - **Output:** `personajes_maestro_vX.md`
-- **Gate:** *"¿Aprobamos las fichas, Ama?"*
+- **Gate:** *"¿Aprobamos las fichas, Ama? Voz y Fetiche Quirúrgico son los campos más difíciles de corregir después."*
 
 ### FASE 3.5: Escena Piloto (Gate de Temperatura — OBLIGATORIA)
 - **Qué es:** Antes de escribir el capítulo completo, el Escritor produce UNA sola escena de 300–500 palabras que demuestra el nivel de calor objetivo para ESTE capítulo específico.
