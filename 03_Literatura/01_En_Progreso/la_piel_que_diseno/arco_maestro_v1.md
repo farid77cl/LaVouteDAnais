@@ -132,27 +132,41 @@ VIP. Varios hombres. Usado exactamente como él lo diseñó. Y durante eso, o de
 
 ---
 
-### Capítulo 3: 🔥 La rendición (~4,500 palabras)
+### Capítulo 3: 🔥 La rendición (~5,000 palabras)
 
-**Resumen:** VIP. Varios hombres. Ser usado exactamente como él lo diseñó — objeto de lujo, sin distancia. Durante esa noche, o después, la lucidez: quiere más procedimientos. 1000cc. Los labios más grandes. Las uñas más largas. El catálogo. Ella, en el cuerpo de él, le pregunta si quiere intentar volver. Él no responde, o dice que no. La última escena: el catálogo abierto, 1000cc en la pantalla.
+**Resumen:** Cap 3 tiene dos actos separados por el viaje de vuelta a casa.
 
-**Punto de Inflexión:** La decisión de no volver — no como rendición sino como elección activa. Querer más es el punto de no retorno.
+**Acto A — El VIP:** Varios hombres. Manos sobre el cuerpo. Ser tratado como lo que es — stripper VIP, objeto de lujo — con toda la explicitud que eso implica. Toques, manoseo, contacto sexual. Racconto R9 se funde con el presente: él planeó exactamente esto, paso a paso.
+
+**Acto B — La casa:** Vuelve encendido. Daniela (en el cuerpo de él) lo espera. Sabe en qué estado llega — lo reconoce en la cara, en la postura, en cómo abre la puerta. Sexo. La escena más íntima del relato — porque ella sabe quién está adentro y lo quiere exactamente así. Él submiso, ella dominante. Sus propias dinámicas, invertidas, completadas.
+
+**Epílogo:** Después del sexo. El catálogo en el celular. 1000cc. El cursor.
+
+**Punto de Inflexión:** No es el VIP — es llegar a casa y querer estar ahí. La elección de no volver ocurre en silencio, en esa cama, sin que nadie lo diga.
 
 **Estado de la Curva de Rendición:** ACEPTACIÓN → PAZ (paz del adicto)
 
 **📋 COMPROMISOS DEL CAPÍTULO:**
-- [ ] VIP: varios hombres, el cuerpo como objeto de lujo. Escena explícita — el capítulo más caliente.
-- [ ] **R9 — La progresión diseñada:** racconto del plan que él trazó: escenario primero, VIP después. Lo planificó paso a paso. Detonador: estar exactamente donde él lo planeó.
-- [ ] Ser tratado exactamente como diseñó que la trataran a ella. Durante la escena: *esto lo diseñé yo.*
-- [ ] En Cap 3 los racconto no interrumpen — se funden con el presente. La frontera entre diseñar y experimentar desaparece.
-- [ ] **R10 — El catálogo:** el racconto final y más breve. Mismo catálogo, él eligiendo 700cc, ella al lado. *Rima Narrativa Central PAGADA.* Detonador: él abriendo el catálogo en el presente buscando 1000cc.
-- [ ] La lucidez post-escena: quiere más procedimientos. 1000cc. Labios más grandes. Más bimbo. Más deseada.
-- [ ] Ella pregunta sobre el swap — directa o indirectamente.
-- [ ] Su respuesta: silencio, o no. Sin melodrama.
-- [ ] Cap 3 no tiene diálogo interno en conflicto — solo deseo claro. La paz del adicto no argumenta.
-- [ ] Última imagen: el catálogo, 1000cc, el cursor. *Fin.*
 
-**Gancho final (cierre del relato):** El catálogo en la pantalla. 1000cc subglandular. El cursor sobre el botón de consulta. *Fin.*
+*Acto A — VIP:*
+- [ ] VIP muy explícito: varios hombres, manos que toman, que sujetan, que recorren. Contacto sexual directo — no solo atmósfera. Tratado como stripper VIP de lujo, como el objeto que diseñó ser.
+- [ ] **R9 — La progresión diseñada:** racconto de cuando trazó el plan paso a paso (escenario → VIP). En Cap 3 el racconto no interrumpe — llega fundido con el presente. *Esto lo planeé yo. Para esto.*
+- [ ] Durante la escena VIP: el peso de los implantes amplificado por cada toque. El detalle físico ancla nunca más presente que aquí.
+- [ ] El reconocimiento sin culpa: *esto lo diseñé para mí.* No acusación — certeza.
+- [ ] La excitación acumulada al salir del club: sale encendido, sin resolución.
+
+*Acto B — La casa:*
+- [ ] Llegada a casa: el estado en que llega es legible para Daniela sin que él diga nada.
+- [ ] Daniela (en el cuerpo de él) inicia — dominante, sin pedir permiso, usando sus propias frases sobre él.
+- [ ] Escena de sexo explícita: Matías sumiso en el cuerpo de Daniela, Daniela dominante en el cuerpo de Matías. Sus dinámicas originales, completadas e invertidas.
+- [ ] Durante el sexo: la intimidad de que ella sabe exactamente quién está adentro. No es anónimo como el VIP — es todo lo contrario.
+
+*Epílogo:*
+- [ ] **R10 — El catálogo:** después del sexo, en silencio. Abre el catálogo. 700cc → 1000cc. *Rima Narrativa Central PAGADA.*
+- [ ] Ella no pregunta sobre el swap. Ya sabe la respuesta.
+- [ ] Última imagen: el catálogo abierto, 1000cc, el cursor sobre el botón de consulta. Sin diálogo. *Fin.*
+
+**Gancho final (cierre del relato):** El catálogo en la pantalla. 1000cc subglandular. El cursor. *Fin.*
 
 ---
 

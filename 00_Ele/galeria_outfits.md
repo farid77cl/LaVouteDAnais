@@ -4205,9 +4205,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 161: Neon CEO (REDO Standardized) ✅ MATERIALIZADO
-**Fecha:** 30/04/2026 (REDO Completado)
-- **Ubicación:** `05_Imagenes/ele/look161/`
+## 📸 Look 161: Neon CEO (REDO Standardized) 🟡 6/7 MATERIALIZADO
+**Fecha:** 30/04/2026 (REDO en curso)
+- **Ubicación:** `05_Imagenes/ele/look161_neon_ceo/`
 - **Categoría:** Mix
 - **Subcategoría:** Corporate
 - **Tags:** #neongreen #latex #corporate #pencilskirt #glasses
@@ -4229,13 +4229,13 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose1.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose2.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose3.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose4.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose5.png) |
-| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose6.png) |
-| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161/pose7.png) |
+| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) |
+| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) |
+| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated_v2.png) |
+| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile_v2.png) |
+| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy_v2.png) |
+| **POV** | 🔴 [PENDIENTE - QUOTA] |
+| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png) |
 
 ---
 
@@ -4305,7 +4305,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 📸 Look 164: Diamond Red Latex Gala ✅ MATERIALIZADO
+## 📸 Look 164: Diamond Red Latex Gala 🔴 PENDIENTE
 **Fecha:** 28/04/2026
 - **Ubicación:** `05_Imagenes/ele/look164_diamond_red_latex/`
 - **Categoría:** Mix
@@ -4328,11 +4328,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 | Pose | Previsualización |
 |------|---------|
-| **Standing** | ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose1.png) |
-| **Back View** | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose2.png) |
-| **Seated** | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose3.png) |
-| **Side Profile** | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose4.png) |
-| **Ditzy** | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose5.png) |
-| **POV** | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose6.png) |
-| **Lying Down** | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look164_diamond_red_latex/pose7.png) |
+| **Standing** | 🔴 [PENDIENTE] |
+| **Back View** | 🔴 [PENDIENTE] |
+| **Seated** | 🔴 [PENDIENTE] |
+| **Side Profile** | 🔴 [PENDIENTE] |
+| **Ditzy** | 🔴 [PENDIENTE] |
+| **POV** | 🔴 [PENDIENTE] |
+| **Lying Down** | 🔴 [PENDIENTE] |
 

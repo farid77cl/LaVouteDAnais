@@ -18,6 +18,24 @@
 
 ## 🎯 ESTADO ACTUAL
 
+### Sesión 02/05/2026 (Parte II): Workflow Literario v4.4 + La Piel que Diseño Fases 1-3
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+  - **Workflow:** Agentes Ideador, Arquitecto y Personajes reescritos a v2.0 con protocolo Intake de dos fases. Escritor actualizado con PROTOCOLO PRE-ESCRITURA en 4 Bloques + sección temperatura relato corto.
+  - **Literatura:** "La Piel que Diseño" iniciado desde cero. Fases 1-3.5 completas: concepto aprobado, arco v1 con sistema de 10 racconto y Rima Narrativa Central (catálogo 700cc→1000cc), línea de tiempo, fichas Matías+Daniela con transferencia de rasgos, escena piloto aprobada.
+  - **Cap 3 finalizado:** VIP muy explícito → sexo en casa con Daniela → epílogo catálogo.
+  - **Estado del proyecto:** Listo para Fase 4 — Escritura Cap 1.
+- **Próximos Pasos:** Escribir Cap 1 "La piel" (~4,000 palabras).
+
+### Sesión 02/05/2026: Auditoría Visual de Finalización (Ele)
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+  - **Ele:** Auditoría detallada completada. Estado corregido a **162/164 (98.8%)**.
+  - **Ele:** Confirmados gaps en Look 161 (Pose 6 POV) y Look 164 (Batch completo).
+  - **Infraestructura:** Confirmado estado **Cloud-Only** (purga local exitosa). 
+  - **Sincronización:** Ejecutado `update_galleries.py` y actualizado `auditoria_visual_2026_05_02.md`.
+- **Próximos Pasos:** Generar Pose 6 de Look 161 y batch final de Look 164 para el cierre absoluto (164/164).
+
 ### Sesión 01/05/2026 (Parte VIII): Canon Miss Doll V3.6 + Cierre Literario Cap 1
 - **Estado:** ✅ FINALIZADA
 - **Hitos:**
