@@ -18,6 +18,15 @@
 
 ## 🎯 ESTADO ACTUAL
 
+### Sesión 01/05/2026 (Parte VIII): Canon Miss Doll V3.6 + Cierre Literario Cap 1
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+  - **Miss Doll:** Creado `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` — integración armónica de los 3 manuales técnicos. 21 secciones: poses por categoría, arquitectura corporal, 4 arquetipos, 8 recetas de outfit, 6 escenarios de performance.
+  - **Miss Doll:** Canon actualizado a **V3.6** — nueva sección II-B con prompt base puro de **rostro+cuerpo** (ADN sin outfit ni escenario). Regla de agente actualizada con lenguaje corporal.
+  - **Literatura:** Orquestador v4.4 implementado. La Piel que Diseño Cap 1 — reescritura total, Crítico 9.2, Centinela APROBADO, Gold Master `capitulo_01_el_primer_dia_maestro_v1.md` creado.
+  - **Literatura:** Walkthrough en Fase 8 — Pendiente Gate Ama.
+  - **Sincronización:** Diario, memoria y commit actualizados.
+- **Próximos Pasos:** Gate Ama sobre Cap 1 de La Piel que Diseño. Expansión del clóset de Miss Doll bajo el nuevo sistema canónico.
 
 ### Sesión 01/05/2026 (Parte VII): ADN Miss Doll Estabilizado y Cierre Ele 100%
 - **Estado:** ✅ FINALIZADA
@@ -205,9 +214,9 @@
 | **Último Look MD** | **DNA Stabilized (Miss Doll Canon — 1/1)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5/V3.7/V5.0 Sync) ✅ |
-| **Relato Activo** | **La Piel que Diseñó** (Capítulo 1 en edición) |
-| **Estado Visual** | ADN V3.5/V3.7 Blindada. 164 Looks Ele (100%). Miss Doll ADN fijado. |
-| **Manuales Miss Doll** | Pose Manual y Vestuario BDSM/Pole integrados. ✅ |
+| **Relato Activo** | **La Piel que Diseñó** (Cap 1 Gold Master — Pendiente Gate Ama) |
+| **Estado Visual** | ADN V3.5/V3.7 Blindada. 164 Looks Ele (100%). Miss Doll Canon V3.6. |
+| **Miss Doll Sistema** | `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` integrado. Prompt base rostro+cuerpo fijado. ✅ |
 
 ---
 

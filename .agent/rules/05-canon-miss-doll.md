@@ -22,10 +22,20 @@ Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradi
 ## Vestuario y Materiales
 
 - **Centro del look:** corset visible o arquitectura de corset integrada.
-- **Materiales:** latex, PVC, vinilo, neopreno tecnico, Cordura, chrome hardware, black tactical webbing.
-- **Paleta:** neon/hot/dusty pink como firma; negro carbon, chrome, blanco, champagne, coral, mint, turquoise, lavender o rose gold como variantes controladas.
-- **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats.
+- **Materiales:** latex, PVC, vinilo, neopreno tecnico, Cordura, chrome hardware, black tactical webbing. Cuero solo en corsés, accesorios y arneses — nunca como pieza principal.
+- **Paleta:** neon/hot/dusty pink como firma SIEMPRE PRESENTE; negro carbon, chrome, blanco, champagne, coral, mint, turquoise, lavender o rose gold como variantes controladas.
+- **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats. Nunca block heels.
 - **Estilo:** Tactical-Minimalist: fetiche sintetico + equipo tactico de alta gama. No disfraz barato.
+- **Sistema completo de poses + vestuario:** `02_Personajes/01_Principales/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
+
+## Poses y Lenguaje Corporal
+
+- **Arquetipo:** Domme-Stripper híbrido. Dispensa sensualidad como poder, no como oferta.
+- **Torso:** siempre erguido. Barbilla 5-10° arriba. Nunca hombros caídos.
+- **Mirada:** Face of the Pole — disociación profesional. Se posa 2-4s en objetivo, abandona deliberadamente.
+- **Tempo:** un movimiento donde otros hacen tres. Detenciones bruscas. Pausas de 4+ segundos.
+- **5 poses firma:** Monarch Throne / Hip Carry contra Barra / Pie en Hombro / Throne en Suelo con Crop / Caminata Circular Lenta.
+- **Labio rojo siempre.** Es la firma visual inviolable de Miss Doll.
 
 ## Prompt Base Fijo
 
