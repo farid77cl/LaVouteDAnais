@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 30/04/2026 (Cap 2 Escritura v1.2 (Canónica))*
+*Última actualización: 02/05/2026 (La Piel que Diseño — Cap 1 v0.2, Crítico 9.5 EXCELENCIA)*
 
 ---
 
@@ -18,8 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **El Secreto de la Cómoda** | ✍️ **Capítulo 2 — Escritura v1.2 (Canónica)** | MFT Retro, Zapallar, Fajas, Contraste | [Ver Cap 2 v1.2](01_En_Progreso/el_secreto_de_la_comoda/capitulo_2_el_espejo_humillante_v1.2.md) |
-| **La Piel que Diseñó** | 📝 **Capítulo 1 — Edición v0.5** | Realismo Couture, Mugler-Style, Tacto UV | [Ver Cap 1](01_En_Progreso/la_piel_que_diseno/capitulo_1_v0.5.md) |
+| **La Piel que Diseño** | 🔵 **Cap 1 — v0.2 APROBADO (9.5) — Pendiente Fase 7/8** | Body swap, bimbofication, racconto, inversión de poder | [Ver Cap 1 v0.2](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v0.2.md) |
 
 ---
 
@@ -33,9 +32,9 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
-- **30/04/2026:** Elevado el Capítulo 2 de "El Secreto de la Cómoda" a v1.2. Sincronización de registros y diario de servicio.
-- **29/04/2026:** Refinamiento de "La Piel que Diseñó" (v0.5) y transición al canon Miss Doll V5.0.
-- **14/04/2026:** Inicio de sesión con auditoría visual. Detección de déficit en lencería (3.1%) y materialización parcial del Look 128.
+- **02/05/2026:** "La Piel que Diseño" — Cap 1 Fases 4-6 completas. Escrito (3,835 palabras), auditado (9.0→9.5 EXCELENCIA en 1 ronda). Bucle de refinamiento cerrado. Pendiente Gate Ama Fase 8.
+- **02/05/2026:** Workflow literario v4.4 completo: agentes interactivos Intake+Producción, 10 racconto distribuidos, Rima Narrativa Central, sistema de transferencia de rasgos por swap.
+- **30/04/2026:** Elevado el Capítulo 2 de "El Secreto de la Cómoda" a v1.2.
 
 ---
 
