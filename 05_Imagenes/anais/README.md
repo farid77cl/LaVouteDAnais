@@ -38,4 +38,4 @@ Total imágenes: 2
 - [header_oficial_voute.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/header_oficial_voute.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-01* 👄
+*Sincronizado con GitHub: 2026-05-02* 👄
