@@ -119,9 +119,9 @@ bangs, fringe, dark hair, brunette, pink lips, nude lips, tattoos, flat shoes, s
 
 ---
 
-## IV. Vestuario Stealth / Tactical-Minimalist
+## IV. Vestuario — Materiales y Paleta
 
-Miss Doll combina fetiche sintetico con equipo tactico de alta gama. No parece disfraz; parece uniforme privado.
+Miss Doll combina fetiche sintético de alto nivel con hardware funcional. No parece disfraz de Halloween; parece el uniforme privado de alguien que realmente usa esto. Su centro es el club y el calabozo — no la oficina.
 
 ### Materiales
 
@@ -148,7 +148,7 @@ Miss Doll combina fetiche sintetico con equipo tactico de alta gama. No parece d
 - Opera gloves o guantes tacticos.
 - Choker liso o placa identificatoria minimalista.
 - Platform stiletto boots de 8 pulgadas o mas.
-- Gafas finas solo en modo Auditora/CEO.
+- Gafas finas solo en Modo Auditora (disfraz corporativo — ver Sección VI).
 
 ---
 
@@ -179,40 +179,44 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 
 ## VI. Prompt Base por Modo
 
-### Modo Auditora / Tactical Disguise (Roleplay)
+> ⚠️ **ORDEN = JERARQUÍA.** Los primeros modos son su identidad real. El último (Auditora) es un disfraz de roleplay — no su identidad base.
 
-```text
-[ADN_MISS_DOLL_V3_5_STEALTH], custom-tailored dusty pink technical bodysuit, black tactical webbing, matte black Cobra buckles, black high-waisted structural pencil skirt, black high-gloss opera gloves, clear thin-frame glasses, (razor-thin metal stiletto heels:1.3), NO CHUNKY HEELS, holding a sleek black leather dossier, clinical grey corporate office setting used for intimidation, cold cinematic lighting
-```
-
-### Modo Latex Icon
+### Modo Latex Icon *(identidad base — club / escenario)*
 
 ```text
 [ADN_MISS_DOLL_V3_5_STEALTH], seamless neon pink high-gloss latex catsuit, external sculptural corset, chrome waist hardware, matching pink platform stiletto boots, dark industrial gallery, pink neon rim light, mirror-polished floor reflections
 ```
 
-### Modo Luxury Escort Editorial
-
-```text
-[ADN_MISS_DOLL_V3_5_STEALTH], structured rose-gold latex bodysuit under a white cropped faux-fur coat, pink corset architecture visible, chrome choker, black patent platform stilettos, luxury hotel corridor, flash photography, expensive nightlife atmosphere
-```
-
-### Modo Expert Domme: Latex Goddess (Ritual Ceremony)
+### Modo Expert Domme: Latex Goddess *(ritual / calabozo)*
 
 ```text
 [ADN_MISS_DOLL_V3_5_STEALTH], (full-body skin-tight high-gloss black latex catsuit:1.2), integrated gloves, neck-entry, (heavy structural black leather underbust corset with chrome busk:1.1), (towering 8-inch black latex thigh-high stiletto boots:1.2), heavy chrome O-ring collar with functional padlock, clinical dungeon setting, cold rim lighting, sharp reflections on rubber
 ```
 
-### Modo Expert Domme: Leather Mistress (Discipline)
+### Modo Expert Domme: Leather Mistress *(disciplina)*
 
 ```text
 [ADN_MISS_DOLL_V3_5_STEALTH], (heavy black cowhide leather overbust corset with multiple roller buckles:1.2), black leather skinny pants, (knee-high polished leather officer boots with spurs:1.1), black leather opera gloves, holding a leather riding crop, dark concrete interrogation room, single overhead spotlight
 ```
 
-### Modo Expert Domme: Couture Findom (Executive Power)
+### Modo Expert Domme: Couture Findom *(findom / humillación cerebral)*
 
 ```text
 [ADN_MISS_DOLL_V3_5_STEALTH], structured black wool crepe tailored dress, high architectural collar, (long black satin opera gloves:1.1), (classic Christian Louboutin So Kate 120mm black patent stilettos:1.2), holding a sleek black leather dossier, ultra-modern glass office, city lights at night, cold blue-toned luxury lighting
+```
+
+### Modo Luxury Escort Editorial *(nightlife de alto nivel)*
+
+```text
+[ADN_MISS_DOLL_V3_5_STEALTH], structured rose-gold latex bodysuit under a white cropped faux-fur coat, pink corset architecture visible, chrome choker, black patent platform stilettos, luxury hotel corridor, flash photography, expensive nightlife atmosphere
+```
+
+### Modo Auditora *(disfraz corporativo — roleplay únicamente)*
+
+> Este modo es un **camuflaje estratégico**, no su identidad. Miss Doll nunca fue oficinista. Se viste así cuando entra a territorios corporativos como depredadora infiltrada. El corporate setting es el escenario de caza, no su ambiente natural.
+
+```text
+[ADN_MISS_DOLL_V3_5_STEALTH], custom-tailored dusty pink technical bodysuit, black tactical webbing, matte black Cobra buckles, black high-waisted structural pencil skirt, black high-gloss opera gloves, clear thin-frame glasses, (razor-thin metal stiletto heels:1.3), NO CHUNKY HEELS, holding a sleek black leather dossier, clinical grey corporate office setting used for intimidation, cold cinematic lighting
 ```
 
 ---
