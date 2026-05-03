@@ -8,7 +8,7 @@
 
 El archivo de personajes está organizado por categorías para facilitar la gestión del canon:
 
-- **`01_Principales/`**: Figuras centrales del universo. Incluye el [`CANON_VISUAL_ANAIS.md`](01_Principales/CANON_VISUAL_ANAIS.md) (Máxima Autoridad Visual).
+- **`01_Principales/`**: Figuras centrales del universo. Incluye [`CANON_VISUAL_MISS_DOLL.md`](01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md) y [`CANON_VISUAL_ANAIS.md`](01_Principales/anais/CANON_VISUAL_ANAIS.md) (Máximas Autoridades Visuales).
 - **`02_Secundarios/`**: Aliados, antagonistas menores y víctimas de relatos.
 - **`03_Transformados/`**: Fichas de personajes que han pasado por procesos de feminización o bimboficación (incluye arcos de transición).
 - **`04_Masculinos/`**: Personajes que mantienen su identidad masculina (esposos, depredadores, aliados).

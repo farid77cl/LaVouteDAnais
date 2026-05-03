@@ -2,10 +2,10 @@
 
 *Fuente unica de verdad para imagenes, prompts y reglas de continuidad de Miss Doll.*
 
-**Actualizado:** 2026-05-01
+**Actualizado:** 2026-05-03
 **Version operativa:** V3.6 / ADN Facial V3.7 Realismo Humano
-**Documentos espejo:** `.agent/rules/05-canon-miss-doll.md`, `02_Personajes/01_Principales/ficha_miss_doll.md`, `00_Ele/canon_maquillaje.md`
-**Sistema de Poses + Vestuario:** `02_Personajes/01_Principales/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` ← integración armónica de los tres manuales técnicos al canon de Miss Doll
+**Documentos espejo:** `.agent/rules/05-canon-miss-doll.md`, `02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md`, `00_Ele/canon_maquillaje.md`
+**Sistema de Poses + Vestuario:** `02_Personajes/01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` ← síntesis fiel desde los tres manuales técnicos fuente (V2.0)
 
 ---
 
@@ -225,9 +225,9 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 
 - Rostro/cabello: `05_Imagenes/miss_doll/Reference/README.md`
 - Retratos canon 2026: `05_Imagenes/miss_doll/canon_portrait_2026/README.md`
-- Registro de looks: `02_Personajes/01_Principales/OUTFITS_MISS_DOLL.md`
+- Registro de looks: `02_Personajes/01_Principales/miss_doll/OUTFITS_MISS_DOLL.md`
 - Maquillaje: `00_Ele/canon_maquillaje.md`
-- **Sistema de Poses + Vestuario (integración canónica):** `02_Personajes/01_Principales/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
+- **Sistema de Poses + Vestuario (integración canónica):** `02_Personajes/01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
 - Manuales Técnicos fuente (referencia avanzada):
   - `00_Ele/Estudio_Poses_Domme_Stripper.md`
   - `00_Ele/Estudio_Vestuario_Domme_BDSM_Fetish.md`

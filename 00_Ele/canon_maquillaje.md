@@ -35,7 +35,7 @@ HEAVY GOTH GLAM MAKEUP: dramatic black smokey eyes with thick winged eyeliner, e
 
 ## 💖 MISS DOLL — GLAMOUR DOLL HEAVY
 
-> **Fuente de verdad:** `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`
+> **Fuente de verdad:** `02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md`
 
 ### Descripción para Prompts (NUEVO ESTÁNDAR)
 

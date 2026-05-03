@@ -7,14 +7,14 @@
 ## 👑 FIGURAS DOMINANTES
 
 ### Miss Doll *(Antagonista Principal)*
-- **Ficha:** [ficha_miss_doll.md](../02_Personajes/ficha_miss_doll.md)
+- **Ficha:** [ficha_miss_doll.md](../01_Principales/miss_doll/ficha_miss_doll.md)
 - **Rol:** Hipnotista experta, creadora de Bimbos y muñecas
 - **Apariciones:** Serie Trance, Gloss, Trance Bimbodoll
 - **Método:** Hipnosis erótica, NLP, reprogramación mental
 - **Frases:** "Vacía y hermosa", "Buen juguete"
 
 ### Anaïs Belland *(La Creadora)*
-- **Ficha:** [ficha_anais.md](../02_Personajes/ficha_anais.md)
+- **Ficha:** [ficha_anais.md](../01_Principales/anais/ficha_anais.md)
 - **Rol:** Diosa del universo, autora
 - **Descripción:** La arquitecta de todas las transformaciones
 

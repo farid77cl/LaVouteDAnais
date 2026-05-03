@@ -188,7 +188,7 @@ Cada Look canónico debe materializarse en estas 5 perspectivas:
 5. **Closeup Face:** Primer plano para capturar la mirada *knowing look* y la perfección de su piel ageless.
 
 ### 3. Registro y Etiquetado (Obligatorio)
-Todos los looks generados deben ser registrados en `02_Personajes/01_Principales/galeria_looks_anais.md`.
+Todos los looks generados deben ser registrados en `02_Personajes/01_Principales/anais/galeria_looks_anais.md`.
 - Cada entrada debe incluir etiquetas descriptivas (ej: `#boudoir`, `#latex`, `#evening`, `#ageless`).
 - Se deben incluir los 5 prompts completos (A+B+C) antes de la generación.
 

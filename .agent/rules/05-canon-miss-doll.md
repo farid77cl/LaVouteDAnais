@@ -1,10 +1,10 @@
 ---
-paths: 05_Imagenes/miss_doll/**/*, 02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md, 02_Personajes/01_Principales/ficha_miss_doll.md
+paths: 05_Imagenes/miss_doll/**/*, 02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md, 02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md
 ---
 
 # CANON VISUAL: MISS DOLL (V3.5 STEALTH)
 
-Fuente de verdad: `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`.
+Fuente de verdad: `02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md`.
 
 Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradiccion entre este resumen y el canon master, manda el canon master.
 
@@ -26,7 +26,7 @@ Esta regla es solo el resumen operativo para prompts e imagenes. Si hay contradi
 - **Paleta:** neon/hot/dusty pink como firma SIEMPRE PRESENTE; negro carbon, chrome, blanco, champagne, coral, mint, turquoise, lavender o rose gold como variantes controladas.
 - **Calzado:** platform stiletto boots / Pleaser-style heels. Nunca flats. Nunca block heels.
 - **Estilo:** Fetiche sintético de alto nivel — parece uniforme privado real, no disfraz. Su mundo es el club y el calabozo. El modo Auditora/corporativo es disfraz de roleplay, NO su identidad base.
-- **Sistema completo de poses + vestuario:** `02_Personajes/01_Principales/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
+- **Sistema completo de poses + vestuario:** `02_Personajes/01_Principales/miss_doll/SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
 
 ## Poses y Lenguaje Corporal
 

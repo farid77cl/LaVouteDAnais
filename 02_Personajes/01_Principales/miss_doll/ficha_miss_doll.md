@@ -19,7 +19,7 @@
 
 ### 🎨 BIBLIA VISUAL PARA CÓMIC (CANON DEFINITIVO)
 
-> **Fuente de verdad visual:** `02_Personajes/01_Principales/CANON_VISUAL_MISS_DOLL.md`
+> **Fuente de verdad visual:** `02_Personajes/01_Principales/miss_doll/CANON_VISUAL_MISS_DOLL.md`
 > **Referencias visuales aprobadas:** `05_Imagenes/miss_doll/Reference/README.md`
 
 #### [ADN_MISS_DOLL_V3.5_STEALTH] (Prompt Maestro Invariable)
