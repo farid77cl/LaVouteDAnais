@@ -6,9 +6,9 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **164** | 🟢 Activo |
-| **Materializados (100%)** | **162** | 🟡 98.8% |
-| **Pendientes de Generación** | **2** | 🔴 BLOQUEO DE CUOTA |
+| **Total Looks Planificados** | **165** | 🟢 Activo |
+| **Materializados (100%)** | **162** | 🟡 98.2% |
+| **Pendientes de Generación** | **3** | 🔴 BLOQUEO DE CUOTA (Reset ~1.5h) |
 | **Balance Mix (Auditoría)** | **~81.1%** | 🟢 Óptimo |
 
 ### 🛠️ Looks de Ele PENDIENTES (Batch Actual)

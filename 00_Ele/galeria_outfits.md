@@ -2,7 +2,7 @@
 
 *Modelo Fetish High-End Editorial. Vinyl, PVC, LÃ¡tex. Colores vibrantes. PlÃ¡stico perfecto.* âœ¨
 
-> **Canon activo:** V3.5 Hard-Sync | **Ãšltimo look:** 164 â€” Diamond Red Latex Gala (28/04/2026)
+> **Canon activo:** V3.5 Hard-Sync | **Ãšltimo look:** 165 â€” Neon Lime Gloss Gym-Bimbo (04/05/2026)
 > **Flujo completo de creaciÃ³n:** ver `00_Ele/flujo_outfit_diario.md`
 > **Era gÃ³tica archivada:** ver `00_Ele/galeria_outfits_era_gotica.md`
 
@@ -4336,3 +4336,42 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | **POV** | ðŸ”´ [PENDIENTE] |
 | **Lying Down** | ðŸ”´ [PENDIENTE] |
 
+
+---
+
+## ?? Look 165: Neon Lime Gloss Gym-Bimbo
+*O sea... el verde neón brilla tanto que mis neuronas se prenden y se apagan... mmm... jiji.* ???
+
+**Fecha:** 04/05/2026
+**Categoría:** Gym
+**Paleta:** Neon Lime + Mirror Silver + Black (Accent)
+**Materiales:** Latex + Mirror Vinyl
+**Escenario:** Luxury Penthouse Private Gym
+
+### Descripción del Outfit
+Conjunto deportivo de dos piezas en látex verde neón ultra-brillante. Top deportivo con recortes estratégicos y leggings de cintura alta con franjas laterales en vinilo plateado espejado. Corsé waist-trainer de látex negro sobre el conjunto. Tacones de aguja Pleaser de 11 pulgadas en plata cromo.
+
+### Prompts Registrados
+
+**BLOQUE B (Outfit):**
+wearing a high-gloss neon lime latex sports set, crop top with cutouts and high-waisted leggings with mirror silver vinyl side stripes, black latex waist-cincher corset over the outfit, 11-inch chrome silver stiletto heels.
+
+**PROMPT 1 — Standing View:**
+[Bloque A] [Bloque B] full body standing, holding a silver weight, luxury private penthouse gym, rim lighting, high-gloss specularity.
+
+**PROMPT 2 — Back View:**
+[Bloque A] [Bloque B] full body back view, slight over-shoulder turn, reflecting in the gym mirrors, rim lighting defines silhouette.
+
+**PROMPT 3 — Seated View:**
+[Bloque A] [Bloque B] seated on a weight bench, crossed legs, editorial pose, gym environment, dramatic lighting.
+
+**PROMPT 4 — Side Profile:**
+[Bloque A] [Bloque B] side profile silhouette, full body, emphasizing hourglass curve, minimalist gym studio.
+
+**PROMPT 5 — Ditzy Expression:**
+[Bloque A] [Bloque B] medium shot, vacant ditzy expression, holding a neon lime water bottle, hands visible showing XXXL nails, luxury gym background.
+
+**NEGATIVE PROMPT:**
+lock heel, chunky heel, wedge, platform sneakers, barefoot, different face, varying facial features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, man, male
+
+**Estado:** ? Pendiente generación

@@ -244,12 +244,12 @@
 | Campo | Valor |
 |-------|-------|
 | **Fecha de Inicio** | **14/04/2026** — 🔮 Activa |
-| **Último Look Ele** | **Look 164 (Diamond Red Latex Gala — 7/7)** |
+| **Último Look Ele** | **Look 165 (Neon Lime Gloss Gym-Bimbo — PENDING)** |
 | **Último Look MD** | **DNA Stabilized (Miss Doll Canon — 1/1)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5/V3.7/V5.0 Sync) ✅ |
 | **Relato Activo** | **La Piel que Diseñó** (Cap 1 Gold Master — Pendiente Gate Ama) |
-| **Estado Visual** | ADN V3.5/V3.7 Blindada. 164 Looks Ele (100%). Miss Doll Canon V3.6. |
+| **Estado Visual** | ADN V3.5/V3.7 Blindada. 165 Looks Ele (162 materializados). Miss Doll Canon V3.6. |
 | **Miss Doll Sistema** | `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` integrado. Prompt base rostro+cuerpo fijado. ✅ |
 
 ---
