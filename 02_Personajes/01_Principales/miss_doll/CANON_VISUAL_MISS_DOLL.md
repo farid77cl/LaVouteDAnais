@@ -34,13 +34,13 @@ Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de 
 ### Prompt Base Maestro
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, (small refined upturned doll nose:1.2), (high prominent sculpted cheekbones:1.2), pale porcelain white skin with realistic human texture and subtle visible pores, cold grey eyes with a fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows, heavy glamour makeup with bronze and black smokey eyes, thick black winged eyeliner, mega volume false lashes, strong sculpted contour, classic red satin lipstick with a crisp editorial lip line, sculptural extreme hourglass silhouette, tiny cinched waist, commanding upright posture, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, (towering 8-inch platform stiletto boots with razor-thin metal needle heels:1.3), NO CHUNKY HEELS, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, (towering 8-inch platform stiletto boots with razor-thin metal needle heels:1.3), NO CHUNKY HEELS, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 ### Negative Prompt Maestro
 
 ```text
-bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, no makeup look, pink lips, nude lips, rosy cheeks, warm natural skin tone, wax skin, plastic mannequin skin, doll toy, tattoos, messy hair, casual outfit, cotton dress, flat shoes, sneakers, vulgar cheap costume, low quality, blurry, deformed hands, bad anatomy
+bangs, fringe, covered forehead, dark hair, brunette, ponytail, bun, childish face, teen, natural makeup, subtle makeup, no makeup look, pink lips, nude lips, warm lip color, rosy cheeks, warm natural skin tone, golden tan, wax skin, plastic mannequin skin, doll toy, tattoos, body markings, messy hair, casual outfit, cotton dress, flat shoes, barefoot, sneakers, block heel, chunky heel, friendly smile, open warm expression, vulgar cheap costume, low quality, blurry, deformed hands, bad anatomy
 ```
 
 ### Formula de Prompt
@@ -58,7 +58,7 @@ Variar solo lo que esta entre corchetes fuera del ADN. La identidad facial, pelo
 Este bloque contiene únicamente los marcadores de identidad física de Miss Doll: cara, cabello, piel, cuerpo y actitud postural. Se usa como ancla antes de añadir [OUTFIT ESPECÍFICO] + [POSE + ESCENARIO + ILUMINACIÓN + CALIDAD].
 
 ```text
-adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed forehead, NO BANGS, (small refined upturned doll nose:1.2), (high prominent sculpted cheekbones:1.2), pale porcelain white skin with realistic human texture and subtle visible pores, cold grey icy eyes, fixed professional dissociation gaze, perfectly groomed slim blonde eyebrows arched and precise, heavy glamour makeup: thick black winged eyeliner, bronze and black champagne smokey eye, mega volume false lashes longer at outer corners, strong sculpted cheekbone contour, classic red satin lipstick with crisp editorial cupid's bow, NO pink lips, NO nude lips, sculptural extreme hourglass silhouette, tiny cinched waist, full chest, commanding upright posture, chin elevated 5 degrees, NO TATTOOS, extra long almond stiletto nails deep red
+adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes
 ```
 
 **Uso:**
@@ -68,7 +68,7 @@ adult glamorous woman, sharp platinum blonde asymmetric bob, clear exposed foreh
 
 **Negativos siempre activos:**
 ```
-bangs, fringe, dark hair, brunette, pink lips, nude lips, tattoos, flat shoes, sneakers, block heel, chunky heel, childish face, teen, natural makeup, wax skin, plastic mannequin skin
+bangs, fringe, dark hair, brunette, warm skin tone, golden tan, pink lips, nude lips, warm lip color, thin lips, small lips, tattoos, body markings, flat shoes, barefoot, sneakers, block heel, chunky heel, childish face, teen, natural makeup, no makeup look, wax skin, plastic mannequin skin, friendly smile, open warm expression
 ```
 
 ---
@@ -88,7 +88,7 @@ bangs, fringe, dark hair, brunette, pink lips, nude lips, tattoos, flat shoes, s
 - **Ojos:** grey eyes o icy blue-grey eyes.
 - **Mirada:** `fixed professional dissociation gaze`, `cold commanding gaze`, `Face of the Pole`.
 - **Cejas:** delgadas, rubias, arqueadas, muy perfiladas.
-- **Expresion:** fria, auditora, calculada; puede tener fake sweetness, pero nunca sonrisa amigable constante.
+- **Expresion:** fria, escrutadora, calculada; puede tener fake sweetness, pero nunca sonrisa amigable constante.
 
 ### Piel
 
@@ -148,7 +148,7 @@ Miss Doll combina fetiche sintético de alto nivel con hardware funcional. No pa
 - Opera gloves o guantes tacticos.
 - Choker liso o placa identificatoria minimalista.
 - Platform stiletto boots de 8 pulgadas o mas.
-- Gafas finas solo en Modo Auditora (disfraz corporativo — ver Sección VI).
+- Gafas finas solo en Modo Couture Findom (dominio intelectual sin hardware explícito).
 
 ---
 
@@ -178,8 +178,6 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 ---
 
 ## VI. Prompt Base por Modo
-
-> ⚠️ **ORDEN = JERARQUÍA.** Los primeros modos son su identidad real. El último (Auditora) es un disfraz de roleplay — no su identidad base.
 
 ### Modo Latex Icon *(identidad base — club / escenario)*
 
@@ -211,14 +209,6 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 [ADN_MISS_DOLL_V3_5_STEALTH], structured rose-gold latex bodysuit under a white cropped faux-fur coat, pink corset architecture visible, chrome choker, black patent platform stilettos, luxury hotel corridor, flash photography, expensive nightlife atmosphere
 ```
 
-### Modo Auditora *(disfraz corporativo — roleplay únicamente)*
-
-> Este modo es un **camuflaje estratégico**, no su identidad. Miss Doll nunca fue oficinista. Se viste así cuando entra a territorios corporativos como depredadora infiltrada. El corporate setting es el escenario de caza, no su ambiente natural.
-
-```text
-[ADN_MISS_DOLL_V3_5_STEALTH], custom-tailored dusty pink technical bodysuit, black tactical webbing, matte black Cobra buckles, black high-waisted structural pencil skirt, black high-gloss opera gloves, clear thin-frame glasses, (razor-thin metal stiletto heels:1.3), NO CHUNKY HEELS, holding a sleek black leather dossier, clinical grey corporate office setting used for intimidation, cold cinematic lighting
-```
-
 ---
 
 ## VII. Referencias Aprobadas
@@ -242,6 +232,6 @@ Miss Doll opera en el registro híbrido **Domme + Stripper**. Su lenguaje corpor
 - Labios rojos glossy/satin, no nude ni pink.
 - Piel porcelana realista con textura humana, no maniqui.
 - Mirada fria de disociacion profesional.
-- Corset/estructura tactica visible.
+- Corset visible o arquitectura de corsé integrada.
 - Heels/platform boots, nunca zapatos planos.
 - `NO TATTOOS` salvo variante explicitamente solicitada.

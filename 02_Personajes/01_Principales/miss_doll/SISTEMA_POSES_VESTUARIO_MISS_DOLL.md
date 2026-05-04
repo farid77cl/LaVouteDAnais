@@ -6,8 +6,9 @@
 
 **Fuentes integradas:**
 - `00_Ele/Estudio_Poses_Domme_Stripper.md` → **Parte I** (Poses y lenguaje corporal)
-- `00_Ele/Estudio_Vestuario_Domme_BDSM_Fetish.md` → **Parte II, Secciones 9–18** (Arquetipos, materiales, silhuetas, hardware)
+- `00_Ele/Estudio_Vestuario_Domme_BDSM_Fetish.md` → **Parte II, Secciones 9–18** (Arquetipos, materiales, siluetas, hardware)
 - `00_Ele/Estudio_Vestuario_Pole_Stripper.md` → **Parte II, Secciones 14–20** (Escenarios, combinación, paletas, recetas)
+- `00_Ele/Estudio_Domme_Complementos_y_RRSS.md` → Complementos: voz, sonido, olfato, marca, protocolo, técnicas, RRSS
 
 ---
 
@@ -186,9 +187,7 @@ Las cinco posturas que, ejecutadas correctamente, definen a Miss Doll en cualqui
 
 ## 9. Los 5 Arquetipos Visuales de Miss Doll
 
-Los arquetipos son los modos reales de Miss Doll. Son su identidad operativa. El modo Auditora (sección 9-BIS) es un **camuflaje estratégico**, no un arquetipo — no aparece en este listado.
-
-> ⚠️ **ORDEN = JERARQUÍA.** Los cinco arquetipos son su identidad real. El Auditora es disfraz.
+Los cinco arquetipos son los modos reales de Miss Doll. Su mundo es el club y el calabozo.
 
 ### 9.1 LATEX ICON
 *Adaptación del arquetipo LATEX GODDESS del estudio fuente.*
@@ -217,7 +216,7 @@ Vestido sastre negro estructurado cuello alto **o** bodysuit técnico dusty pink
 **Lenguaje:** control financiero, humillación intelectual, dominio sin contacto.
 **Escenas:** sesión findom, negociación de términos, primer encuentro intimidatorio, photoshoot luxury.
 
-> Este modo NO es el Auditora. Es la Domme que elige precisión quirúrgica para maximizar el impacto psicológico. Su campo no es la oficina — es el tablero donde ella ya ganó.
+> La Domme que elige precisión quirúrgica para maximizar el impacto psicológico. Su campo no es la oficina — es el tablero donde ella ya ganó.
 
 ### 9.4 CABARET FEMME FATALE
 *Nombre y arquetipo fiel al estudio fuente.*
@@ -234,13 +233,6 @@ Corsé overbust satén **hot pink** bordado con copas estructuradas, liguero cue
 
 El fondo industrial con neon rosa ya es nativo del ADN de Miss Doll. El vestuario Cyber puro (harness malla asimétrica, plataformas industriales extremas, chrome total) se reserva **únicamente para editorial fotográfico explícita** con concepto aprobado. No es modo de sesión ni de club.
 
-### 9-BIS. AUDITORA — Camuflaje estratégico
-*No es un arquetipo. Es un disfraz de roleplay sobre el arquetipo Couture Findom.*
-
-> Miss Doll nunca fue oficinista. Se viste de corporativa cuando entra a espacios de poder como depredadora infiltrada. El entorno es el campo de caza, no su ambiente natural.
-
-Bodysuit técnico dusty pink cuello alto, black tactical webbing con cobra buckles, cinturón estructurado, gafas marco fino transparente, stilettos razor-thin metal 12cm+. El labio rojo satin permanece incluso bajo este disfraz.
-
 ---
 
 ## 10. Materiales — Jerarquía
@@ -252,7 +244,7 @@ Bodysuit técnico dusty pink cuello alto, black tactical webbing con cobra buckl
 | **Latex high-gloss** | Catsuits, bodysuits, guantes, botas | El material firma. Requiere pulido antes de usar. |
 | **PVC pulido** | Corsés, pantalones, vestidos estructurados | Más rígido que latex. Lectura similiar. |
 | **Vinilo estructural** | Alternativa al PVC, más suave | Misma especularidad, más amable en movimiento. |
-| **Neopreno técnico** | Bodycon en Couture Findom | El único material mate tolerado en modo ejecutiva. |
+| **Neopreno técnico** | Bodycon en Couture Findom | El único material mate tolerado — contraste intencional con el hardware cromado. |
 
 ### Secundarios (estructura y hardware)
 
@@ -275,7 +267,7 @@ Bodysuit técnico dusty pink cuello alto, black tactical webbing con cobra buckl
 
 ### Regla del Brillo
 
-Todo material de Miss Doll tiene especularidad visible bajo luz. El brillo es parte del lenguaje. La única excepción es el neopreno técnico en Couture Findom/Auditora, donde el mate es intencional y contrasta con el hardware cromado.
+Todo material de Miss Doll tiene especularidad visible bajo luz. El brillo es parte del lenguaje. La única excepción es el neopreno técnico en Couture Findom, donde el mate contrasta intencionalmente con el hardware cromado.
 
 ---
 
@@ -293,7 +285,7 @@ Catsuit cuello a tobillo, línea continua e ininterrumpida como pintada sobre el
 
 ### C. Couture Estructurada
 Vestido o bodysuit sastre de cortes rectos, cuello cuadrado o alto, cinturón ancho chrome. Sin curvas decorativas externas — la cintura se lee por el cinturón o el corsé externo.
-**Lectura:** control intelectual, Couture Findom y Auditora.
+**Lectura:** control intelectual, Couture Findom.
 
 ### D. Cabaret Oscuro
 Corsé overbust con copas estructuradas, falda con vuelo controlado o liguero visible, escote. Reloj de arena suavizado con elementos performáticos.
@@ -381,8 +373,8 @@ Harness asimétrico, falda mullet, una sola pieza dominante. Deconstrucción cou
 
 - **Guantes ópera latex negro** hasta hombro — Latex Icon.
 - **Guantes ópera satén negro** — Cabaret Femme Fatale.
-- **Guantes tácticos cuero corto** — Latex Mistress o Auditora.
-- **Guante único en una mano** (la otra descubierta) — asimetría táctica.
+- **Guantes cuero corto funcionales** — Latex Mistress o Couture Findom.
+- **Guante único en una mano** (la otra descubierta) — asimetría deliberada.
 - Quitarse el guante dedo a dedo es escena. Nunca de un tirón.
 
 ### 13.5 Outerwear (capa de entrada)
@@ -482,7 +474,7 @@ Cuando el look permite revelación progresiva, debajo hay una segunda armadura:
 - **Flamingo 808** — plataforma de stage, la silueta icónica del club.
 - **Adore 708** — el punto dulce para chair dance y números íntimos.
 - **Adore 1020 (OTK boot)** — para floorwork y Latex Icon en escenario.
-- **Kiss 209** — tacón clásico sin plataforma extrema para Couture Findom/Auditora.
+- **Kiss 209** — tacón clásico sin plataforma extrema para Couture Findom.
 
 ### Acabados por modo
 
@@ -536,7 +528,7 @@ Miss Doll entra con uno de estos siempre visible. Es vestuario, no herramienta s
 | Cigarrera o boquilla | Cabaret, tease & denial. |
 | Leash / cadena del sub | Sesión privada, club con sub. |
 | Guante en proceso de quitarse | Transición a escena — el striptease de Miss Doll. |
-| Dossier cuero negro | Couture Findom / Auditora. |
+| Dossier cuero negro | Couture Findom. |
 
 ---
 
@@ -701,12 +693,111 @@ Más **maquillaje** (pilar 8) y **prop de escena** (pilar 9) — siempre alinead
 | Ropa de algodón o materiales mate sin textura | Sin especularidad = fuera del registro. |
 | Velocidad uniforme en todo el número | Lo predecible cancela la autoridad. |
 | Risa abierta sin intención calculada | Rompe la disociación profesional. |
-| Auditora listada como arquetipo principal | Es camuflaje. No es identidad. Su mundo es el club y el calabozo. |
 | Cuero como catsuit o bodysuit principal | Cuero es accesorio. Latex/PVC/vinilo es primario. |
+
+---
+
+# PARTE III — SISTEMA DE GENERACIÓN DE PROMPTS
+*Protocolo oficial de construcción de prompts para Miss Doll. Equivalente al sistema de Bloques A/B/C de Ele.*
+
+---
+
+## 22. Estructura — 3 Bloques Inamovibles
+
+Cada imagen de Miss Doll se construye como la suma de tres bloques en orden fijo:
+
+```
+hyper-realistic high-end editorial fashion photography, [BLOQUE A] + [BLOQUE B] + [BLOQUE C]
+```
+
+**Regla absoluta:** el Bloque A nunca se interpreta, siempre se copia textualmente. Solo se modifican Bloque B y Bloque C.
+
+---
+
+## 23. Bloque A — ADN Físico (inamovible)
+
+Fuente canónica: `CANON_VISUAL_MISS_DOLL.md` Sección II-B. Contiene identidad completa: cara, cabello, piel, maquillaje, cuerpo y actitud. No se simplifica, no se resume, no se reordena.
+
+```text
+adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes
+```
+
+---
+
+## 24. Bloque B — Outfit Específico
+
+Descripción técnica, material a material, del look del día. Se construye usando las Recetas (Sección 20) o los 7 Pilares (Sección 19).
+
+**Estructura de Bloque B:**
+```
+[PIEZA PRINCIPAL: material + color + especificación], [CORSÉ/ESTRUCTURA: material + hardware], [GUANTES: tipo + material + longitud], [CALZADO: modelo + altura + material + color], [ACCESORIOS: choker/prop/hardware]
+```
+
+**Ejemplo (Receta 1 — Latex Icon Ceremonial):**
+```
+seamless neon pink high-gloss latex catsuit turtleneck long sleeve, structural black leather underbust corset with multiple chrome buckles worn over catsuit, black latex opera gloves to the shoulder, black PVC thigh-high platform stiletto boots razor-thin chrome heel, chrome O-ring choker, black leather riding crop short
+```
+
+---
+
+## 25. Bloque C — Las 6 Poses Canon
+
+El Bloque A y Bloque B son **idénticos** en los 6 disparos del mismo look. Solo cambia el Bloque C. Añadir siempre al final: escenario + iluminación + calidad.
+
+### C-1. CRUEL CONTRAPPOSTO *(frontal — pose de entrada)*
+```
+standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding riding crop horizontal against thigh, direct cold gaze into camera
+```
+
+### C-2. MONARCH THRONE *(seated — autoridad máxima)*
+```
+seated full body shot, Monarch Throne pose legs open 70 degrees elbows resting on armrests hands hanging relaxed, chin slightly tilted down, minimalist metal chair or throne
+```
+
+### C-3. ESPALDA TOTAL *(back view — nuca y estructura del outfit)*
+```
+back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, one hand lifting hair to expose nape and choker
+```
+
+### C-4. TRES CUARTOS ARROGANTE *(3/4 lateral — silueta y tacones)*
+```
+three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing stiletto heel height and extreme hourglass silhouette
+```
+
+### C-5. CLOSE UP FRÍA *(retrato — cara y uñas)*
+```
+close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both hands with 4cm stiletto nails framing face at chin level
+```
+
+### C-6. THRONE EN SUELO *(floorwork — autoridad desde el suelo)*
+```
+floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding riding crop horizontally, chin elevated, commanding cold gaze upward into lens
+```
+
+---
+
+## 26. Negativos — Siempre Activos
+
+Añadir a cada prompt sin excepción:
+
+```
+bangs, fringe, dark hair, brunette, warm skin tone, golden tan, pink lips, nude lips, warm lip color, thin lips, small lips, tattoos, body markings, flat shoes, barefoot, sneakers, block heel, chunky heel, childish face, teen, natural makeup, no makeup look, wax skin, plastic mannequin skin, friendly smile, open warm expression, bad anatomy, deformed hands, blurry, low quality
+```
+
+---
+
+## 27. Flujo de Trabajo por Look
+
+1. **Concepto** — nombre, arquetipo (de los 5), paleta, escenario.
+2. **Bloque B** — construir outfit con los 7 Pilares (Sección 19) o una Receta (Sección 20).
+3. **Registrar** en `OUTFITS_MISS_DOLL.md` ANTES de generar.
+4. **Disparar 6 prompts** en orden: C-1 → C-2 → C-3 → C-4 → C-5 → C-6.
+5. **Validar** — Bloque A respetado · labio rojo · NO tacón chunky · NO tatuajes · piel fría · sin sonrisa amplia.
+6. **Archivar** en `05_Imagenes/miss_doll/look[XX]_[nombre]/`.
 
 ---
 
 *Documento de referencia operativa. Para uso en dirección de imagen, generación de prompts, construcción de looks, dirección de photoshoot y sesiones.*
 *Subordinado a `CANON_VISUAL_MISS_DOLL.md` en caso de conflicto.*
 
-*Actualizado: 2026-05-03 — Síntesis fiel desde los tres Manuales Técnicos fuente. V2.0.*
+*Actualizado: 2026-05-03 — Síntesis fiel desde los tres Manuales Técnicos fuente + Sistema de Prompts A/B/C. V2.0.*

@@ -74,7 +74,7 @@ La silueta proyecta sombras marcadas bajo el busto y crea una arquitectura corpo
 
 **Tonos:**
 
-- Dusty Pink / Baby Pink para el modo Auditora.
+- Dusty Pink / Baby Pink para el modo Couture Findom.
 - Hot Pink / Rosa Neón / Magenta para el modo Latex Icon.
 - Negro carbón, chrome, blanco latex y champagne técnico como contraste.
 - Coral, menta, turquesa, lavanda y rose gold solo como variantes controladas.
@@ -84,7 +84,7 @@ La silueta proyecta sombras marcadas bajo el busto y crea una arquitectura corpo
 
 - Látex glossy (roughness 0.05–0.08) para catsuits y outfits base
 - Vinilo y satén-látex semi-gloss (R ≈ 0.15) para faldas o vestidos
-- Cuero mate con micro-brillo (R 0.22–0.28) para variantes ejecutivas
+- Cuero mate con micro-brillo (R 0.22–0.28) para corsés, cinturones y accesorios
 - Satén para resaltar bordes y crear contraste
 
 La separación entre materiales y brillos se usa para obtener bordes limpios y resaltar volúmenes.

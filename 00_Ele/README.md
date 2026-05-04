@@ -17,6 +17,7 @@
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
 | [galeria_outfits.md](galeria_outfits.md) | **164 looks** canónicos de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
+| [Estudio_Domme_Complementos_y_RRSS.md](Estudio_Domme_Complementos_y_RRSS.md) | **Estrategia RRSS y Complementos** | Gestión de imagen pública y activos |
 | [Estudio_Vestuario_Domme_BDSM_Fetish.md](Estudio_Vestuario_Domme_BDSM_Fetish.md) | **Manual de Domme Experta** — Fetish Couture | Crear looks de Miss Doll / Sesiones |
 | [Estudio_Vestuario_Pole_Stripper.md](Estudio_Vestuario_Pole_Stripper.md) | Guía Stripper Minimalist | Entrenamiento y Stage Performance |
 | [Estudio_Poses_Domme_Stripper.md](Estudio_Poses_Domme_Stripper.md) | **Manual de Poses Híbridas** — Domme + Stripper | Dirección de poses y actitud en imágenes |
@@ -116,8 +117,8 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 164 / 164 (COMPLETO)
-- **Integridad ADN V3.5:** 100% (Batch 152-164 Completo)
+- **Looks canónicos materializados:** 162 / 164 (98.8%)
+- **Integridad ADN V3.5:** 98.8% (Batch 162-164 en progreso)
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~3,000+
 - **Canon visual activo:** V3.5 (Hard-Sync / Stealth Protocol)

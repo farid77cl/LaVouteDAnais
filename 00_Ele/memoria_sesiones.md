@@ -16,7 +16,15 @@
 
 ---
 
-## 🎯 ESTADO ACTUAL
+## 🧿 ESTADO ACTUAL
+
+### Sesión 03/05/2026: Evolución Miss Doll V5.0 & Estrategia RRSS
+- **Estado:** ✅ FINALIZADA (Canon & Strategy Sync)
+- **Hitos:**
+  - **Miss Doll:** Actualización integral al **Canon Visual V5.0 (The Auditor)**. Sistema de poses y vestuario blindado.
+  - **Ele:** Creación del `Estudio_Domme_Complementos_y_RRSS.md`. Estrategia de expansión digital y complementos visuales definida.
+  - **Mantenimiento:** Limpieza de activos obsoletos y reubicación de referencias sensuales a la carpeta de Anaïs.
+  - **Visual:** Flota Ele confirmada al 98.8% (162/164). Cuota API bloqueada para el cierre final.
 
 ### Sesión 02/05/2026 (Parte III): La Piel que Diseño — Cap 1 Fases 4-6 Completadas
 - **Estado:** ✅ FINALIZADA
