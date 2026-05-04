@@ -2,14 +2,14 @@
 
 *Depredadora Camaleónica. Latex, PVC, Vinilo. Pink como firma. Hardware funcional.*
 
-> **Canon activo:** V3.5 Stealth | **Último look:** 06 — Chrome Doll (03/05/2026)
-> **Registro de prompts completos:** ver `OUTFITS_MISS_DOLL.md`
-> **Sistema de poses + vestuario:** ver `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
-> **Canon maestro:** ver `CANON_VISUAL_MISS_DOLL.md`
+> **Canon activo:** V3.5 Stealth | **Último look:** 21 — Lavender Séance
+> **Sistema de poses + vestuario:** `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md`
+> **Canon maestro:** `CANON_VISUAL_MISS_DOLL.md`
+> **Prompts técnicos (backup):** `OUTFITS_MISS_DOLL.md`
 
 ---
 
-## 📊 Estado (03/05/2026)
+## 📊 Estado (04/05/2026)
 
 | Arquetipo | Registrados | Materializados |
 |-----------|-------------|----------------|
@@ -19,9 +19,6 @@
 | **Cabaret Femme Fatale** | 5 (03, 07, 11, 16, 21) | 0 |
 | **Cyber/Industrial editorial** | 2 (14, 20) | 0 |
 | **TOTAL** | **21** | **0** |
-
-> [!IMPORTANT]
-> **Prompts completos disponibles:** Looks 01–06. Looks 07–21: concepto y Bloque B registrados, prompts C-1/C-6 pendientes de generación en `OUTFITS_MISS_DOLL.md`.
 
 ---
 
@@ -47,14 +44,30 @@
 - **Ubicación:** `05_Imagenes/miss_doll/look001_couture_predator/`
 - **Categoría:** Couture Findom
 - **Tags:** #dustypink #neopreno #webbing #stealth #glasses
-
 - **Concepto:** Primera aparición Couture Findom. Dominio intelectual sin hardware explícito. Rosa dusty y webbing como firma en el registro más contenido.
 
-- **Vestuario:** Bodysuit neopreno dusty pink cuello alto con black nylon webbing integrado y Cobra buckles en hombros. Pencil skirt PVC estructurada negra. Guantes ópera satén negro.
+**BLOQUE B — Look 01 (invariable en los 6 prompts):**
+`custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand`
 
-- **Calzado:** Stiletto court shoes negro razor-thin 8 pulgadas.
+---
 
-- **Estética:** Gafas rectangulares thin-frame transparentes. Dossier cuero negro. Findom intelectual pura — el dominio se ejerce antes de abrir la boca.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding black leather dossier vertical at side, direct cold gaze into camera, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, seated full body shot, Monarch Throne pose legs crossed at knee showing razor-thin stiletto heel, dossier flat on lap both hands resting on top, chin slightly tilted, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, one hand lifting bob to expose nape webbing harness crossing shoulder blades visible, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing razor-thin stiletto heel and pencil skirt silhouette, dossier tucked under arm, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens through clear rectangular glasses, lips slightly parted barely visible tip of tongue, both gloved hands with 4cm stiletto nails adjusting glasses frame, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, custom-tailored dusty pink technical neoprene bodysuit manga larga cuello alto con black nylon webbing integrado y matte black metal Cobra buckles en hombros, high-waisted black structural pencil skirt in PVC, black satin opera gloves to the shoulder, black 8-inch razor-thin stiletto court shoes, clear thin-frame rectangular glasses, sleek black leather dossier in hand, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding dossier horizontally, chin elevated, commanding cold gaze upward into lens, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -63,27 +76,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 02: Pink Dominion
+## 💄 Look 02: Pink Dominion *(Latex Icon)*
 
 **Fecha:** 03/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look002_pink_dominion/`
 - **Categoría:** Latex Icon
 - **Tags:** #neonpink #latex #chrome #corset #stage
-
 - **Concepto:** Identidad base en su forma más pura. Neon pink latex total con arquitectura de cuero negro y hardware chrome masivo. El look de apertura de ritual.
 
-- **Vestuario:** Catsuit latex neon pink 0.4mm cuello alto manga larga. Corsé underbust cuero negro con 6 buckles chrome encima. Guantes ópera latex negro hasta hombro.
+**BLOQUE B — Look 02 (invariable en los 6 prompts):**
+`seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop`
 
-- **Calzado:** Thigh-high boots PVC neon pink 8 pulgadas tacón chrome razor-thin.
+---
 
-- **Estética:** Chrome O-ring choker con padlock. Riding crop negro corto. Stage de club, iluminación neon pink.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding riding crop horizontal against thigh, direct cold gaze into camera, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, seated full body shot, Monarch Throne pose legs open 70 degrees elbows resting on armrests hands hanging relaxed, riding crop across knees, minimalist metal throne chair, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, one hand lifting hair to expose nape and chrome choker, neon pink latex catsuit back reflecting pink neon, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing boot height and extreme hourglass silhouette, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both latex-gloved hands with 4cm stiletto nails framing face at chin level, dark luxury industrial gallery, pink neon rim lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless neon pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with 6 chrome roller buckles worn over catsuit, black latex opera gloves to shoulder, neon pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring choker with padlock pendant, short black leather riding crop, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding riding crop horizontally, chin elevated, commanding cold gaze upward into lens, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -92,27 +121,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 03: Hot Pink Revue
+## 💄 Look 03: Hot Pink Revue *(Cabaret Femme Fatale)*
 
 **Fecha:** 03/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look003_hot_pink_revue/`
 - **Categoría:** Cabaret Femme Fatale
 - **Tags:** #hotpink #satin #cabaret #liguero #medias
+- **Concepto:** Cabaret clásico en hot pink saturado. Corsé overbust estructurado con copas boned, medias costura y mary jane charol. Seducción venenosa en escenario íntimo.
 
-- **Concepto:** Cabaret clásico en hot pink saturado. Corsé overbust estructurado con copas boned, medias costura y mary jane charol. Seducción venenosa en escenario íntimo de club.
+**BLOQUE B — Look 03 (invariable en los 6 prompts):**
+`hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop`
 
-- **Vestuario:** Corsé overbust satén hot pink con copas y lace trim negro. Wide suspender belt cuero negro 6 straps. Briefs PVC negro alta cintura. Medias FF costura negras. Guantes ópera satén negro hasta codo.
+---
 
-- **Calzado:** Platform mary jane charol negro 8 pulgadas stiletto.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding champagne glass at chest level, direct cold gaze into camera, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Champagne glass como prop. Iluminación amber y magenta. Chair dance.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, seated full body shot, Monarch Throne pose legs crossed at knee showing stiletto heel, champagne glass held in one hand resting on knee, dark velvet cabaret chair, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, one gloved hand lifting hair to expose nape, corset lacing and suspender straps visible, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing stiletto heel and stocking seam, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, one gloved hand with 4cm stiletto nails holding champagne glass rim at chin level, intimate club stage dark background, warm amber and magenta spot lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, hot pink satin overbust structured corset with boned cups and black lace trim, wide black leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings, black satin opera gloves to elbow, black patent leather platform mary jane 8 inch stiletto, champagne glass prop, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide showing stockings and stilettos, elbows on knees champagne glass held in both hands horizontally, chin elevated, commanding cold gaze upward into lens, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -121,27 +166,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 04: Latex Mistress Zero
+## 💄 Look 04: Latex Mistress Zero *(Expert Domme)*
 
 **Fecha:** 03/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look004_latex_mistress_zero/`
 - **Categoría:** Expert Domme: Latex Mistress
-- **Tags:** #blacklatex #neonpink #dungeon #webbing #discipline
+- **Tags:** #blacklatex #neonpink #dungeon #webbing #flogger
+- **Concepto:** Domme en negro total con firma neon pink en detalles. Catsuit 0.5mm, arnés táctico, corset multi-buckle. Corrección y disciplina.
 
-- **Concepto:** Domme en negro total con firma neon pink en zipper rings. Catsuit 0.5mm, arnés táctico, corset multi-buckle. Corrección y disciplina.
+**BLOQUE B — Look 04 (invariable en los 6 prompts):**
+`full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip`
 
-- **Vestuario:** Catsuit latex negro cuello alto 0.5mm con zipper ring neon pink en collar. Corsé underbust cuero negro chrome busk y 8 buckles encima. Arnés chest webbing táctico negro con D-rings chrome y Cobra buckles. Flogger cuero negro en cadera.
+---
 
-- **Calzado:** Knee-high boots PVC negro 8 pulgadas razor-thin heel.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding flogger horizontal against thigh, direct cold gaze into camera, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Chrome O-ring collar con padlock funcional. Dungeon de concreto. Single overhead spotlight.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, seated full body shot, Monarch Throne pose legs open 70 degrees elbows resting on armrests hands hanging relaxed, flogger across knees, minimalist metal chair, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, tactical webbing harness crossing shoulder blades chrome D-rings visible, chrome padlock at nape, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing boot heel and extreme hourglass silhouette in black latex, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both latex-gloved hands with 4cm stiletto nails framing face at chin level, chrome padlock collar visible, clinical dungeon, cold overhead spotlight, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, full-body skin-tight high-gloss black latex catsuit integrated gloves turtleneck 0.5mm, neon pink zipper ring accent at collar, heavy structural black leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, knee-high black PVC stiletto boots 8 inch razor-thin heel, heavy chrome O-ring collar with functional chrome padlock, black tactical webbing chest harness over corset with chrome D-rings and Cobra buckles, short black leather flogger at hip, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding flogger horizontally, chin elevated, commanding cold gaze upward into lens, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -150,27 +211,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 05: Grey Eminence
+## 💄 Look 05: Grey Eminence *(Couture Findom)*
 
 **Fecha:** 03/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look005_grey_eminence/`
 - **Categoría:** Couture Findom
-- **Tags:** #grey #dustypink #neopreno #findom #couture
+- **Tags:** #grey #dustypink #neopreno #findom #dossier
+- **Concepto:** Poder sin hardware. Blazer estructurado dove grey sobre bodysuit dusty pink con seaming de corsé. El look de la Domme que ya ganó antes de entrar.
 
-- **Concepto:** Poder sin hardware visible. Blazer power-shoulder dove grey sobre bodysuit dusty pink con seaming de corsé. La Domme que ya ganó antes de entrar a la sala.
+**BLOQUE B — Look 05 (invariable en los 6 prompts):**
+`dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand`
 
-- **Vestuario:** Blazer neopreno dove grey power-shoulder open front. Bodysuit neopreno dusty pink cuello alto manga larga con seaming corsé integrado debajo. Belt cuero chrome square-buckle ancho. Guantes ópera satén negro largos.
+---
 
-- **Calzado:** Court shoes charol negro razor-thin 120mm tipo Louboutin So Kate.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding dossier vertical at side, direct cold gaze into camera, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Dossier cuero negro en mano. Glass office city lights. Iluminación cold blue luxury.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, seated full body shot, Monarch Throne pose legs crossed at knee dossier flat on lap both gloved hands on top, minimalist executive chair, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, blazer drape and chrome belt buckle visible from back, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing court shoe heel and blazer silhouette, dossier tucked under arm, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both gloved hands with 4cm stiletto nails framing face at chin level, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, dove grey neoprene power-shoulder structured blazer open front, dusty pink neoprene bodysuit turtleneck long sleeve underneath with integrated corset seaming, wide chrome square-buckle leather belt cinching waist, long black satin opera gloves, black patent leather court shoes 120mm razor-thin heel, sleek black leather dossier in hand, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding dossier horizontally, chin elevated, commanding cold gaze upward into lens, ultra-modern glass office city lights at night, cold blue-toned luxury overhead lighting, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -179,27 +256,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 06: Chrome Doll
+## 💄 Look 06: Chrome Doll *(Latex Icon)*
 
 **Fecha:** 03/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look006_chrome_doll/`
 - **Categoría:** Latex Icon
 - **Tags:** #chrome #mirror #hotpink #latex #hardware
+- **Concepto:** Mirror-chrome latex total con corsé PVC hot pink y hardware masivo. El look más metálico de Miss Doll — arquitectura reflectante pura.
 
-- **Concepto:** Mirror-chrome latex total con corsé PVC hot pink y hardware masivo. El look más metálico de Miss Doll — arquitectura reflectante pura donde el cuerpo desaparece en el espejo.
+**BLOQUE B — Look 06 (invariable en los 6 prompts):**
+`chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist`
 
-- **Vestuario:** Catsuit latex chrome mirror-finish cuello alto manga larga. Corsé underbust PVC hot pink estructural con chrome O-ring hardware encima. Guantes ópera latex chrome hasta hombro. Body chain chrome cruzando torso en cintura.
+---
 
-- **Calzado:** Thigh-high boots PVC chrome 8 pulgadas razor-thin heel.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding chrome riding crop horizontal, direct cold gaze into camera, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections on chrome surfaces, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Chrome wide posture collar. Neon pink como único color en el corsé contra el chrome total. Industrial gallery con pink neon rim.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, seated full body shot, Monarch Throne pose legs open 70 degrees elbows on chrome armrests hands hanging, chrome riding crop across knees, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections on chrome surfaces, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, chrome body chain and hot pink corset back visible reflecting neon pink, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections on chrome, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude on tiptoe emphasizing chrome boot height and mirror-latex silhouette, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections on chrome surfaces, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both chrome-gloved hands with 4cm stiletto nails framing face, chrome posture collar and body chain visible, dark luxury industrial gallery, pink neon rim lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, chrome mirror-finish high-gloss latex catsuit turtleneck long sleeve, hot pink PVC structural underbust corset with multiple chrome O-ring hardware worn over catsuit, chrome latex opera gloves to shoulder, chrome PVC thigh-high platform stiletto boots 8 inch razor-thin heel, heavy chrome wide posture collar, chrome body chain crossing torso at waist, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding chrome riding crop horizontally, chin elevated, commanding cold gaze upward into lens, dark luxury industrial gallery mirror-polished floor, pink neon rim lighting sharp lateral reflections on chrome surfaces, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -208,27 +301,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 07: Cerise Noir
+## 💄 Look 07: Cerise Noir *(Cabaret Femme Fatale)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look007_cerise_noir/`
 - **Categoría:** Cabaret Femme Fatale
-- **Tags:** #cherry #satén #cabaret #liguero #noir
+- **Tags:** #cerise #cherry #satin #cabaret #boa #liguero
+- **Concepto:** Cabaret oscuro en cherry red y negro. Corsé overbust satin cerise con lace negro, boa de plumas dramatic y medias costura. El rojo cerise como instrucción, no como color.
 
-- **Concepto:** Cabaret noir en cherry red y negro total. Corsé overbust satén cereza con velvet negro, medias costura, cigarette holder. Femme fatale en registro más oscuro.
+**BLOQUE B — Look 07 (invariable en los 6 prompts):**
+`cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders`
 
-- **Vestuario:** Corsé overbust satén cherry red con velvet trim negro y chrome busk. Wide leather garter belt 8 straps. Briefs PVC cherry red alta cintura. Medias FF costura negras. Guantes ópera satén negro hasta hombro.
+---
 
-- **Calzado:** Platform mary jane charol negro 8 pulgadas stiletto.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand draping cherry red feather boa over shoulder dramatically, direct cold gaze into camera, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Cherry red cigarette holder. Cabaret oscuro, iluminación amber + spot rojo.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, seated full body shot, Monarch Throne pose legs crossed at knee stiletto heel visible, cherry red feather boa draped dramatically over lap and armrest, dark velvet cabaret chair, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, feather boa trailing behind corset lacing and suspender straps visible, cherry red stiletto heel prominent, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude flexed on tiptoe emphasizing stiletto heel and stocking seam, feather boa over shoulder, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, one gloved hand holding cherry red feather boa at chin level framing face, intimate club stage dark background, warm amber and magenta spot lighting, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, cherry red high-gloss satin overbust structured corset with black lace overlay and boned cups, wide black patent leather suspender belt 6 straps, glossy black PVC high-waist briefs, black sheer FF seam stockings with back seam, black satin opera gloves to elbow, cherry red patent leather platform mary jane 8 inch razor-thin stiletto, long cherry red ostrich feather boa draped over shoulders, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide showing stockings and cherry red stilettos, elbows on knees feather boa spread dramatically around, chin elevated, commanding cold gaze upward into lens, intimate club stage dark background, warm amber and magenta spot lighting theatrical shadows, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -237,27 +346,43 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 08: Wet Black Protocol
+## 💄 Look 08: Wet Black Protocol *(Expert Domme)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look008_wet_black_protocol/`
 - **Categoría:** Expert Domme: Latex Mistress
-- **Tags:** #wetlook #PVC #black #webbing #dungeon
+- **Tags:** #wetblack #PVC #dungeon #protocol #flogger
+- **Concepto:** Wet-look PVC negro total. Catsuit ultra-thin con posture collar masivo y flogger. El protocolo más oscuro y clínico.
 
-- **Concepto:** PVC wet-look total con arnés webbing táctico y single-tail. El look de sesión de corrección más oscuro y funcional. Sin adornos.
+**BLOQUE B — Look 08 (invariable en los 6 prompts):**
+`seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip`
 
-- **Vestuario:** Catsuit PVC wet-look cuello alto ultra-high-gloss. Arnés webbing táctico chest y waist con chrome D-rings y Cobra buckles encima. Underbust cincher cuero negro chrome hardware. Single-tail whip cuero negro enrollado en cadera.
+---
 
-- **Calzado:** Knee-high boots PVC wet-look negro 8 pulgadas razor-thin heel.
+**PROMPT 1 — C-1 Cruel Contrapposto:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, standing full body shot, Cruel Contrapposto pose weight on one leg other leg crossed in front on tiptoe, one hand on hip other hand holding flogger horizontal against thigh, direct cold gaze into camera, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
 
-- **Estética:** Chrome posture collar con padlock. Dungeon concreto. Cold rim fluorescent lighting.
+**PROMPT 2 — C-2 Monarch Throne:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, seated full body shot, Monarch Throne pose legs open 70 degrees elbows resting on armrests hands hanging relaxed, flogger across knees, minimalist metal chair, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 3 — C-3 Espalda Total:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, back view full body shot, standing facing away from camera, head turned sharply over left shoulder cold gaze back at lens, wet PVC catsuit back surface reflecting fluorescent light chrome posture collar D-ring visible, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 4 — C-4 Tres Cuartos Arrogante:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, three quarter side profile full body shot, body turned 45 degrees to camera, head turned back to face lens, rear leg in attitude emphasizing 9-inch boot height wet-look PVC silhouette, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 5 — C-5 Close Up Fría:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, close-up portrait face and décolleté only, fixed cold predatory gaze directly into lens, lips slightly parted barely visible tip of tongue, both PVC-gloved hands with 4cm stiletto nails framing face, chrome posture collar D-ring visible, clinical dungeon overhead spotlight, 35mm cinematic lens photorealistic 8k`
+
+**PROMPT 6 — C-6 Throne en Suelo:**
+`hyper-realistic high-end editorial fashion photography, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), NO pink lips, NO nude lips, NO warm lip color, pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, NO warm skin tone, NO wax skin, NO golden tan, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, predatory stillness, NO TATTOOS, NO body markings, (extra long deep glossy red stiletto almond nails 4cm:1.1), always in extreme platform stiletto boots or razor-thin metal needle heels minimum 8 inches, NO chunky heels, NO block heels, NO flat shoes, seamless ultra-wet-look high-gloss black PVC catsuit turtleneck long sleeve 0.3mm, heavy black PVC underbust corset with chrome roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, heavy chrome wide posture collar with D-ring at front, black leather signal flogger with chrome handle worn at hip, floor level full body shot, seated Throne en Suelo pose legs in open V spread wide, elbows on knees hands holding flogger horizontally, chin elevated, commanding cold gaze upward into lens, clinical dungeon concrete walls, cold rim fluorescent lighting single overhead spotlight sharp shadows, 35mm cinematic lens photorealistic 8k`
 
 ### 📸 Imágenes (6)
 
@@ -266,27 +391,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 09: Ivory Directive
+## 💄 Look 09: Ivory Directive *(Couture Findom)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look009_ivory_directive/`
 - **Categoría:** Couture Findom
-- **Tags:** #ivory #champagne #chrome #findom #couture
+- **Tags:** #ivory #white #neopreno #findom #minimal
+- **Concepto:** La orden más peligrosa llega envuelta en marfil. Blazer power neopreno ivory con bodysuit de seda integrada. Dominio intelectual en paleta monocromática.
 
-- **Concepto:** Findom en ivory y champagne. El look más frío y quieto — sin color saturado, solo chrome y piel de látex blanca. Dominio por ausencia de señales.
+**BLOQUE B — Look 09 (invariable en los 6 prompts):**
+`ivory white structured neoprene power blazer with wide padded shoulders open front, ivory silk sleeveless turtleneck bodysuit underneath with integrated corseted seaming, wide ivory patent chrome-buckle belt cinching waist, long ivory satin opera gloves, ivory patent leather court shoes 120mm razor-thin heel, sleek black leather slim dossier in hand`
 
-- **Vestuario:** Bodysuit neopreno ivory champagne cuello alto manga larga con seaming corsé y chrome side zip. Belt chrome metal arquitectónico ancho. Guantes kid leather ivory hasta codo.
+---
 
-- **Calzado:** Court shoes patent ivory 120mm razor-thin tipo Louboutin.
-
-- **Estética:** Chain choker champagne gold con plate. Pale champagne leather-bound folder. Glass office.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -295,27 +420,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 10: Magenta Storm
+## 💄 Look 10: Magenta Storm *(Latex Icon)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look010_magenta_storm/`
 - **Categoría:** Latex Icon
-- **Tags:** #magenta #latex #chrome #posture #stage
+- **Tags:** #magenta #latex #chrome #storm #stage
+- **Concepto:** La tormenta no avisa. Magenta saturado en latex total con corsé cuero negro y hardware chrome. Alta intensidad de club.
 
-- **Concepto:** Tormenta magenta. Catsuit latex saturado con belt-corsé chrome arquitectónico y posture collar masivo. Más agresivo y menos estructurado que Pink Dominion.
+**BLOQUE B — Look 10 (invariable en los 6 prompts):**
+`seamless magenta high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with chrome busk and 6 roller buckles worn over catsuit, magenta latex opera gloves to shoulder, magenta PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring collar with magenta enamel accent, chrome-handle riding crop`
 
-- **Vestuario:** Catsuit latex magenta 0.4mm cuello alto manga larga. Belt-corsé underbust chrome estructural con múltiples D-rings encima. Guantes ópera PVC magenta hasta hombro. Body chain chrome diagonal.
+---
 
-- **Calzado:** Thigh-high boots PVC negro 8 pulgadas razor-thin chrome heel.
-
-- **Estética:** Chrome wide posture collar con O-ring frontal. Industrial gallery pink neon.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -324,27 +449,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 11: Rose Gold Requiem
+## 💄 Look 11: Rose Gold Requiem *(Cabaret Femme Fatale)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look011_rose_gold_requiem/`
 - **Categoría:** Cabaret Femme Fatale
-- **Tags:** #rosegold #champagne #vinyl #cabaret #luxury
+- **Tags:** #rosegold #vinyl #lace #cabaret #luxury
+- **Concepto:** Brillo del oro rosado: luto por quien aún no lo sabe. Corsé vinyl rose gold con overlay lace negro y mary jane doradas.
 
-- **Concepto:** Cabaret de lujo en rose gold y champagne. Corsé overbust vinilo metálico con tul, medias FF y copa de champagne. El look más caro del repertorio de cabaret.
+**BLOQUE B — Look 11 (invariable en los 6 prompts):**
+`rose gold metallic high-gloss vinyl overbust corset with gold lace trim and boned cups, black lace overlay bustier panel over corset cups, glossy black PVC high-waist micro briefs, black sheer FF seam stockings, rose gold patent leather platform mary jane 8 inch stiletto, long black satin opera gloves to shoulder, rose gold crystal statement choker`
 
-- **Vestuario:** Corsé overbust vinilo rose gold metálico con champagne tulle en copas. Wide garter belt satén champagne 6 straps. Briefs PVC rose gold alta cintura. Medias FF costura champagne. Guantes ópera satén champagne hasta hombro.
+---
 
-- **Calzado:** Platform stiletto patent rose gold 8 pulgadas.
-
-- **Estética:** Pink champagne coupe glass. Cabaret de lujo, warm amber spot lighting.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -353,27 +478,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 12: Pink Authority
+## 💄 Look 12: Pink Authority *(Expert Domme)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look012_pink_authority/`
 - **Categoría:** Expert Domme: Latex Mistress
-- **Tags:** #hotpink #PVC #chrome #harness #dungeon
+- **Tags:** #hotpink #latex #chrome #dungeon #webbing
+- **Concepto:** Autoridad sin negociación. Hot pink latex con corsé negro multi-buckle y arnés táctico. La Domme más agresiva en su color más característico.
 
-- **Concepto:** Expert Domme en hot pink con harness chrome elaborado. El único modo de Expert Domme donde el pink es protagonista en lugar del negro.
+**BLOQUE B — Look 12 (invariable en los 6 prompts):**
+`seamless hot pink high-gloss latex catsuit turtleneck long sleeve 0.4mm, heavy black structural leather underbust corset with chrome busk and 8 roller buckles worn over catsuit, hot pink latex opera gloves to shoulder, black PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring collar with hot pink enamel padlock, black tactical webbing chest harness with chrome D-rings and Cobra buckles, black leather crop`
 
-- **Vestuario:** Bodysuit PVC hot pink corset-boned cuello alto. Harness chest chrome elaborado con múltiples O-rings y D-rings encima. Corsé underbust cuero negro chrome busk. Guantes ópera cuero negro hasta codo. Chrome crop corto.
+---
 
-- **Calzado:** Knee-high boots PVC negro 8 pulgadas razor-thin chrome heel.
-
-- **Estética:** Chrome wide collar con padlock. Dungeon clínico. Overhead spotlight.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -382,27 +507,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 13: Ice Queen Directive
+## 💄 Look 13: Ice Queen Directive *(Couture Findom)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look013_ice_queen_directive/`
 - **Categoría:** Couture Findom
-- **Tags:** #white #latex #chrome #findom #editorial
+- **Tags:** #chrome #silver #lucite #findom #architectural
+- **Concepto:** El hielo no duele al entrar. Duele después. Blazer dress chrome architectural con lucite heels transparentes. La Findom en su forma más fría.
 
-- **Concepto:** Couture Findom en blanco latex total. El look más frío visualmente — todo blanco y chrome, con un único belt neon pink como firma mínima obligatoria.
+**BLOQUE B — Look 13 (invariable en los 6 prompts):**
+`chrome silver structured neoprene architectural fitted blazer dress knee-length with chrome toggle closures and dart seaming, wide chrome metallic belt cinching waist, long silver latex opera gloves, clear lucite platform stiletto court shoes 8 inch razor-thin chrome heel, chrome minimal flat-plate posture choker, chrome rectangular slim briefcase in hand`
 
-- **Vestuario:** Vestido sheath latex blanco high-gloss midi high-neck con seaming corsé integrado y chrome architectural belt. Guantes ópera latex blanco hasta hombro. White leather structured clutch.
+---
 
-- **Calzado:** Court shoes patent blanco 120mm razor-thin heel.
-
-- **Estética:** Chrome posture choker plate minimalista. Chain chrome en muñeca. Glass office city lights.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -411,27 +536,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 14: Neon Circuit *(editorial)*
+## 💄 Look 14: Neon Circuit *(Cyber/Industrial Editorial)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look014_neon_circuit/`
-- **Categoría:** Cyber/Industrial editorial
-- **Tags:** #chrome #neonpink #harness #cyber #editorial
+- **Categoría:** Cyber/Industrial Editorial
+- **Tags:** #hotpink #chrome #tactical #cyber #harness #industrial
+- **Concepto:** Conectada. Calculando. Esperando. PVC técnico hot pink con harness táctico completo. La única incursión editorial en el registro cyber — frío y calculado.
 
-- **Concepto:** Cyber/Industrial exclusivamente editorial. Harness bodysuit chrome mirror con paneles latex neon pink. El look más extremo de Miss Doll — solo photoshoot con concepto aprobado.
+**BLOQUE B — Look 14 (invariable en los 6 prompts):**
+`hot pink high-gloss PVC technical bodysuit long sleeve turtleneck with chrome panel accents and seam detailing, black tactical webbing full body harness over bodysuit with chrome D-rings and Cobra buckles, chrome PVC thigh-high platform stiletto boots 9 inch razor-thin heel, chrome visor goggles pushed up on forehead, black Cordura tactical wide utility belt at waist`
 
-- **Vestuario:** Harness bodysuit PVC chrome mirror high-neck con estructura de ribs arquitectónica. Paneles latex neon pink insertados en costados y pecho. Harness chest chrome multi-D-ring elaborado encima. Chrome chain belt neon pink en cadera.
+---
 
-- **Calzado:** Thigh-high boots chrome 8 pulgadas razor-thin heel.
-
-- **Estética:** Wide articulated collar chrome. Post-industrial warehouse. Neon blue y pink grid lighting.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -440,27 +565,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 15: Halter Venus
+## 💄 Look 15: Halter Venus *(Latex Icon)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look015_halter_venus/`
 - **Categoría:** Latex Icon
-- **Tags:** #hotpink #black #latex #vinyl #halter
+- **Tags:** #hotpink #latex #halter #chrome #bodychain #stage
+- **Concepto:** El halter es la trampa. El corset, la jaula. Hot pink latex halter bodysuit con corsé-falda negra estructurada y body chain chrome.
 
-- **Concepto:** Latex Icon con mix de dos piezas. Halter bodysuit hot pink con pencil skirt vinilo negro. La tensión entre la parte superior revelada y la falda estructurada crea la lectura más editorial del archivio Latex Icon.
+**BLOQUE B — Look 15 (invariable en los 6 prompts):**
+`hot pink high-gloss latex halter bodysuit with chrome O-ring neck fastening and low open back, black latex structural underbust corset skirt mini with chrome busk at waist worn over bodysuit, hot pink PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, chrome O-ring minimal flat choker, chrome linked body chain draped across waist and hips`
 
-- **Vestuario:** Halter bodysuit latex hot pink high-gloss con V profundo frontal y structured cup detail. High-waist pencil skirt vinilo negro midi con chrome zip frontal. Guantes ópera latex negro hasta hombro. Chrome waist chain sobre falda.
+---
 
-- **Calzado:** Platform boots PVC negro 8 pulgadas razor-thin heel.
-
-- **Estética:** Chrome O-ring choker. Riding crop negro. Industrial gallery pink neon.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -469,27 +594,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 16: Magenta Vaudeville
+## 💄 Look 16: Magenta Vaudeville *(Cabaret Femme Fatale)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look016_magenta_vaudeville/`
 - **Categoría:** Cabaret Femme Fatale
-- **Tags:** #magenta #velvet #cabaret #shorts #boa
+- **Tags:** #magenta #satin #sequin #cabaret #fan #vaudeville
+- **Concepto:** El espectáculo termina cuando ella decide. Corsé overbust magenta con sequin skirt negra y abanico de plumas magenta dramático.
 
-- **Concepto:** Vaudeville en magenta oscuro. Corsé overbust velvet magenta con shorts PVC y feather boa negro. El registro más teatral del repertorio — performance de club íntimo.
+**BLOQUE B — Look 16 (invariable en los 6 prompts):**
+`magenta heavy satin overbust structured corset with black lace overlay and boned cups, black sequin micro mini skirt over glossy black PVC briefs, black sheer FF seam stockings, magenta patent leather platform T-strap 8 inch razor-thin stiletto, long black satin opera gloves to shoulder, large magenta dyed ostrich feather fan held dramatically`
 
-- **Vestuario:** Corsé overbust velvet magenta con chrome busk y black ribbon lacing. High-waist shorts PVC negro con chrome side zips. Medias FF costura negras. Guantes ópera satén magenta hasta codo. Black feather boa como prop.
+---
 
-- **Calzado:** Platform boots patent negro ankle 8 pulgadas stiletto.
-
-- **Estética:** Chrome hoop earrings largos. Cabaret oscuro iluminación amber + magenta spot.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -498,27 +623,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 17: Crimson Protocol
+## 💄 Look 17: Crimson Protocol *(Expert Domme)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look017_crimson_protocol/`
 - **Categoría:** Expert Domme: Latex Mistress
-- **Tags:** #cherry #latex #leather #webbing #dungeon
+- **Tags:** #cherry #crimson #latex #black #dungeon #crop
+- **Concepto:** Protocolo activado. Comienza el ritual. Cherry red latex con corsé cuero negro y webbing táctico. La Domme en su firma más intensa.
 
-- **Concepto:** Expert Domme con color. Cherry red latex crop top sobre leather skirt negra con webbing hip harness. El único look Expert Domme donde el color satura la pieza superior.
+**BLOQUE B — Look 17 (invariable en los 6 prompts):**
+`seamless cherry red high-gloss latex catsuit turtleneck long sleeve 0.5mm, heavy black leather structural underbust corset with chrome busk and 8 roller buckles worn over catsuit, black PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, heavy chrome O-ring collar with black enamel padlock, black tactical webbing chest harness with chrome D-rings, cherry red leather riding crop`
 
-- **Vestuario:** Crop top latex cherry red high-gloss con structured boning y chrome zip frontal. Leather pencil skirt cowhide negro midi con chrome D-rings en cadera. Webbing hip harness táctico negro con Cobra buckles sobre falda. Guantes ópera cuero negro hasta codo. Long riding crop cuero negro.
+---
 
-- **Calzado:** Knee-high boots patent negro 8 pulgadas razor-thin heel.
-
-- **Estética:** Chrome posture collar. Dungeon concreto. Cold rim lighting.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -527,27 +652,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 18: Chrome Eminence
+## 💄 Look 18: Chrome Eminence *(Couture Findom)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look018_chrome_eminence/`
 - **Categoría:** Couture Findom
-- **Tags:** #chrome #mirror #vinyl #findom #neonpink
+- **Tags:** #chrome #silver #neopreno #findom #midi #architectural
+- **Concepto:** La eminencia no actúa. Dicta. Midi coat dress chrome architectural con guantes latex plata y clutch chrome. La Findom en su versión más monolítica.
 
-- **Concepto:** Findom en chrome total. Vestido sheath mirror-vinyl con un único thin belt neon pink como la única señal de color — la firma mínima obligatoria. El look más sobrio y más poderoso del archivo.
+**BLOQUE B — Look 18 (invariable en los 6 prompts):**
+`chrome metallic neoprene architectural structured midi coat dress long sleeve with chrome toggle closures and integrated corset seaming, wide chrome posture belt at waist, long chrome silver latex opera gloves, chrome clear-panel platform stiletto court shoes 8 inch razor-thin heel, chrome minimal flat-plate collar, chrome rectangular slim clutch bag in hand`
 
-- **Vestuario:** Vestido sheath mirror-vinyl chrome midi high-neck sleeveless con seaming corsé arquitectónico y chrome zip back. Neon pink thin belt en cintura como único color. Guantes ópera vinyl chrome hasta hombro. Chrome structured clutch.
+---
 
-- **Calzado:** Court shoes patent chrome 120mm razor-thin heel.
-
-- **Estética:** Chrome wide choker plate minimalista. Glass office. Cold blue-toned luxury lighting.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -556,27 +681,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 19: Coral Blaze
+## 💄 Look 19: Coral Blaze *(Latex Icon)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look019_coral_blaze/`
 - **Categoría:** Latex Icon
 - **Tags:** #coral #neon #latex #chrome #stage
+- **Concepto:** El fuego coral no calienta. Consume. Coral neon en latex total con corsé cuero negro. El look más cálido en temperatura de color — el más frío en actitud.
 
-- **Concepto:** Latex Icon en coral neon — el único look de la paleta de variantes controladas. Catsuit coral vivo con corsé neopreno negro estructurado. Paleta menos frecuente que justifica su aparición por contraste con el black.
+**BLOQUE B — Look 19 (invariable en los 6 prompts):**
+`seamless coral neon high-gloss latex catsuit turtleneck long sleeve 0.4mm, structural black leather underbust corset with chrome busk and 6 roller buckles worn over catsuit, coral latex opera gloves to shoulder, coral PVC thigh-high platform stiletto boots 8 inch razor-thin chrome heel, chrome O-ring collar with coral enamel accent, chrome riding crop`
 
-- **Vestuario:** Catsuit latex coral neon 0.4mm cuello alto manga larga. Corsé underbust neopreno negro con chrome front busk y 6 buckles encima. Guantes ópera latex coral hasta hombro. Chrome body chain en cadera.
+---
 
-- **Calzado:** Thigh-high boots PVC negro 8 pulgadas razor-thin chrome heel.
-
-- **Estética:** Chrome O-ring choker. Riding crop. Industrial gallery pink neon rim.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -585,27 +710,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 20: Turquoise Override *(editorial)*
+## 💄 Look 20: Turquoise Override *(Cyber/Industrial Editorial)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look020_turquoise_override/`
-- **Categoría:** Cyber/Industrial editorial
-- **Tags:** #turquoise #chrome #neonpink #cyber #editorial
+- **Categoría:** Cyber/Industrial Editorial
+- **Tags:** #turquoise #hotpink #tactical #cyber #harness #override
+- **Concepto:** Sistema anulado. Control transferido. PVC turquoise con harness hot pink táctico. El look cyber más confrontacional.
 
-- **Concepto:** Segundo look Cyber/Industrial exclusivamente editorial. Electric turquoise latex con harness chrome estructural y straps neon pink rubber-coated. El color más alejado del ADN base — justificado solo en contexto editorial con concepto aprobado.
+**BLOQUE B — Look 20 (invariable en los 6 prompts):**
+`turquoise high-gloss PVC technical bodysuit long sleeve turtleneck with chrome seam panels, hot pink tactical webbing full body harness over bodysuit with chrome Cobra buckles and D-rings, turquoise PVC thigh-high platform stiletto boots 9 inch razor-thin chrome heel, turquoise and hot pink chrome visor goggles pushed up on forehead, black Cordura tactical wide utility belt at waist`
 
-- **Vestuario:** Catsuit latex electric turquoise cuello alto manga larga. Harness chest chrome estructural con neon pink rubber-coated straps y múltiples D-rings encima. Underbust cincher negro chrome hardware. Chrome chain belt neon pink accent.
+---
 
-- **Calzado:** Thigh-high boots chrome platform 8 pulgadas.
-
-- **Estética:** Chrome wide posture collar con O-ring neon pink accent. Warehouse post-industrial. Neon blue y pink grid lighting.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -614,27 +739,27 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
 ---
 
-## 💄 Look 21: Lavender Séance
+## 💄 Look 21: Lavender Séance *(Cabaret Femme Fatale)*
 
-**Fecha:** 03/05/2026
+**Fecha:** 04/05/2026
 
 - **Ubicación:** `05_Imagenes/miss_doll/look021_lavender_seance/`
 - **Categoría:** Cabaret Femme Fatale
-- **Tags:** #lavender #satin #cabaret #noir #cigarette
+- **Tags:** #lavender #black #satin #cabaret #veil #seance
+- **Concepto:** Lavanda y oscuridad: el último rito. Corsé overbust satin lavanda con mesh skirt negra y velo chiffon dramático. El look más etéreo — y el más letal.
 
-- **Concepto:** Cabaret en lavender y negro. El tono más suave del archivo — satén lavanda con velvet y cuero negro. La seducción más quieta y más peligrosa del repertorio de cabaret.
+**BLOQUE B — Look 21 (invariable en los 6 prompts):**
+`lavender high-gloss satin overbust structured corset with black lace overlay and boned cups, black mesh micro mini skirt over lavender PVC briefs, black sheer FF seam stockings, lavender patent leather platform mary jane 8 inch razor-thin stiletto, long black satin opera gloves to elbow, sheer lavender chiffon veil held dramatically in one outstretched hand`
 
-- **Vestuario:** Corsé overbust satén lavender con boned cups, velvet ribbon detail negro y chrome busk. Wide leather garter belt negro 6 straps. Briefs satén lavender alta cintura. Medias FF costura negras. Guantes ópera satén negro hasta hombro. Long black cigarette holder. Black feather hair clip.
+---
 
-- **Calzado:** Platform mary jane patent negro 8 pulgadas stiletto.
-
-- **Estética:** Cabaret oscuro íntimo. Iluminación amber suave y lavender spot.
+> ⏳ *Prompts C-1 a C-6 pendientes de generación*
 
 ### 📸 Imágenes (6)
 
@@ -643,7 +768,7 @@
 | **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
 | **C-2 Monarch Throne** | ⏳ *Pending Generation* |
 | **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos** | ⏳ *Pending Generation* |
+| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 
