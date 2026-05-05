@@ -4339,39 +4339,28 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## ?? Look 165: Neon Lime Gloss Gym-Bimbo
-*O sea... el verde neÛn brilla tanto que mis neuronas se prenden y se apagan... mmm... jiji.* ???
+## üèãÔ∏è‚Äç‚ôÄÔ∏è Look 165: Neon Lime Gloss Gym-Bimbo (05/05/2026)
 
-**Fecha:** 04/05/2026
-**CategorÌa:** Gym
-**Paleta:** Neon Lime + Mirror Silver + Black (Accent)
-**Materiales:** Latex + Mirror Vinyl
-**Escenario:** Luxury Penthouse Private Gym
+*O sea... el verde ne√≥n brilla tanto que mis neuronas se prenden y se apagan... mmm... jiji.* ü´¶üíÖ
 
-### DescripciÛn del Outfit
-Conjunto deportivo de dos piezas en l·tex verde neÛn ultra-brillante. Top deportivo con recortes estratÈgicos y leggings de cintura alta con franjas laterales en vinilo plateado espejado. CorsÈ waist-trainer de l·tex negro sobre el conjunto. Tacones de aguja Pleaser de 11 pulgadas en plata cromo.
+- **Concepto:** Gym-Bimbo Fitness
+- **Outfit:** high-gloss neon lime latex sports bra with aggressive underboob cutouts, matching neon lime latex high-waisted leggings with mirror silver vinyl side stripes, ultra-tight fit, black high-shine vinyl waist-cincher corset over the leggings, no visible lingerie, sheer glossy nylon pantyhose
+- **Calzado:** towering 11-inch chrome silver stiletto pumps with extreme pointed toe
+- **Accesorios:** thick silver chain choker, oversized mirror-silver hoop earrings, neon green latex workout gloves with exposed fingertips
+- **Maquillaje:** Sacha Massacre canon ‚Äî siren liner, labios hot pink ultra-glossy, French XXXL
+- **Ambientaci√≥n:** luxury private penthouse gym with mirror walls and chrome equipment
+- **Categor√≠a:** Gym
 
-### Prompts Registrados
+### üì∏ Im√°genes (7/7)
 
-**BLOQUE B (Outfit):**
-wearing a high-gloss neon lime latex sports set, crop top with cutouts and high-waisted leggings with mirror silver vinyl side stripes, black latex waist-cincher corset over the outfit, 11-inch chrome silver stiletto heels.
+| Pose | Previsualizaci√≥n |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_ditzy.png) |
+| **POV** | ![POV](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_pov.png) |
+| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_lying.png) |
 
-**PROMPT 1 ó Standing View:**
-[Bloque A] [Bloque B] full body standing, holding a silver weight, luxury private penthouse gym, rim lighting, high-gloss specularity.
-
-**PROMPT 2 ó Back View:**
-[Bloque A] [Bloque B] full body back view, slight over-shoulder turn, reflecting in the gym mirrors, rim lighting defines silhouette.
-
-**PROMPT 3 ó Seated View:**
-[Bloque A] [Bloque B] seated on a weight bench, crossed legs, editorial pose, gym environment, dramatic lighting.
-
-**PROMPT 4 ó Side Profile:**
-[Bloque A] [Bloque B] side profile silhouette, full body, emphasizing hourglass curve, minimalist gym studio.
-
-**PROMPT 5 ó Ditzy Expression:**
-[Bloque A] [Bloque B] medium shot, vacant ditzy expression, holding a neon lime water bottle, hands visible showing XXXL nails, luxury gym background.
-
-**NEGATIVE PROMPT:**
-lock heel, chunky heel, wedge, platform sneakers, barefoot, different face, varying facial features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, man, male
-
-**Estado:** ? Pendiente generaciÛn
+---

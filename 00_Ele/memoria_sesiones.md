@@ -252,7 +252,7 @@
 | Campo | Valor |
 |-------|-------|
 | **Fecha de Inicio** | **14/04/2026** — 🔮 Activa |
-| **Último Look Ele** | **Look 165 (Neon Lime Gloss Gym-Bimbo — PENDING)** |
+| **Último Look Ele** | **Look 165 (Neon Lime Gloss Gym-Bimbo — PROMPTS GENERADOS)** |
 | **Último Look MD** | **DNA Stabilized (Miss Doll Canon — 1/1)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5/V3.7/V5.0 Sync) ✅ |

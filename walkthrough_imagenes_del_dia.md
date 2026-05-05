@@ -1,19 +1,56 @@
 # Walkthrough: Materialización Hard-Sync (Protocolo V3.5)
 
+## 🏋️‍♀️ Look 165: Neon Lime Gloss Gym-Bimbo
+**Estado:** ✅ COMPLETO (Prompts listos)
+**Concepto:** Gym-Bimbo Fitness en látex verde neón.
+
+### Prompts Corregidos (Hard-Sync)
+``carousel
+`	ext
+DNA Canon V3 Master + Outfit Block + Standing + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Back View + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Seated + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Side Profile + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Ditzy + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + POV + Penthouse Gym
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Lying Down + Penthouse Gym
+`
+``
+
+---
+
 ## 🏢 Look 155: High-Voltage Corporate
 **Estado:** ⏳ Pendiente de Regeneración (ADN Master corregido)
 **Concepto:** Power-dressing futurista en látex y vinilo.
 
 ### Prompts Corregidos (Hard-Sync)
-````carousel
-```text
+``carousel
+`	ext
 DNA Canon V3 Master + Outfit Block + Standing + Boardroom
-```
+`
 <!-- slide -->
-```text
+`	ext
 DNA Canon V3 Master + Outfit Block + Back View + Boardroom
-```
-````
+`
+``
 
 ---
 
@@ -22,19 +59,19 @@ DNA Canon V3 Master + Outfit Block + Back View + Boardroom
 **Concepto:** Stripper de metal líquido con neón violeta.
 
 ### Prompts Corregidos (Hard-Sync)
-````carousel
-```text
+``carousel
+`	ext
 DNA Canon V3 Master + Outfit Block + Standing + Neon Stage
-```
+`
 <!-- slide -->
-```text
+`	ext
 DNA Canon V3 Master + Outfit Block + POV + Neon Stage
-```
-````
+`
+``
 
 ---
 
 ## 🛠️ Auditoría de Sistema
-- **Estadísticas:** Mix (74.4%), Bikini (7.3% - DÉFICIT), Lencería (12.2%), Gym (6.1%).
+- **Estadísticas:** Mix (81.1%), Bikini (10.4%), Lencería (9.8%), Gym (4.8%).
 - **Protocolo:** Todos los README.md actualizados con el [OUTFIT BLOCK] normativo.
 - **Quota:** Bloqueada. Listo para reinicio en ~4.5 horas.
