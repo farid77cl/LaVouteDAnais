@@ -32,7 +32,7 @@
 | `arco_maestro_v1.md` | ✅ Aprobado — racconto map integrado |
 | `linea_de_tiempo_maestra.md` | ✅ Aprobado |
 | `personajes_maestro_v1.md` | ✅ Aprobado |
-| `capitulo_01_la_piel_v0.4.md` | ✅ APROBADO CON EXCELENCIA — Crítico 9.6, carga erótica completa, gancho final canónico (~4,350 palabras) |
+| `capitulo_01_la_piel_v0.5.md` | 🔵 EN REVISIÓN — Vestuario canónico: tanga + vestido vinilo leopardo + tacones 7 pulgadas sin sostén. Beat dressing guiado por Daniela. Pechos libres como beat erótico. Pendiente Gate de la Ama. |
 
 ---
 
@@ -42,6 +42,7 @@
 |---|----------|--------|-------|
 | D1 | **Gancho final Cap 1 — tres beats canónicos:** (1) Matías ve a Daniela en su cuerpo masculino y el coño responde solo. (2) Lo encuentra irresistible — calor entre las piernas, hambre. (3) Pensamiento final sin eufemismo: cómo se va a sentir su propia verga adentro de él. En español chileno directo. *No es horror. Es hambre.* Primera grieta del arco de rendición. | La Ama (sesión 05/05/2026) | 2026-05-05 |
 | D2 | **Acumulación erótica obligatoria:** Cada ritual del Cap 1 (uñas, maquillaje, tacones) suma carga erótica sin liberarla. La tensión debe ser explícitamente insoportable al final, no solo "ambigua emocionalmente". | La Ama (sesión 05/05/2026) | 2026-05-05 |
+| D3 | **Vestuario canónico Cap 1:** tanga negra de encaje + vestido vinilo leopardo sin sostén + tacones negros de 7 pulgadas (20cm). Los pechos sin sostén moviéndose libres bajo el vinilo, piercings presionando desde adentro — beat erótico obligatorio. Daniela guía activamente el dressing. | La Ama (sesión 05/05/2026) | 2026-05-05 |
 
 ---
 
