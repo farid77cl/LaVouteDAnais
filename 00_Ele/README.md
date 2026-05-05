@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 05/05/2026 (Ele Collection: 166/170 Looks - 97.6%) 🫦📸✨👠👑*
+*Última actualización: 05/05/2026 (La Piel v0.7 CALOR MÁXIMO + Anaïs Look 35 Noche/La Voûte) 🫦📸✨👠👑*
 
 ---
 

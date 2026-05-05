@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 05/05/2026 (La Piel que Diseño — Cap 1 v0.5, carga erótica completa, vestuario canónico — Pendiente Gate Ama)*
+*Última actualización: 05/05/2026 (La Piel que Diseño — Cap 1 v0.7, CALOR MÁXIMO — erotismo explícito en cada ritual — Pendiente Gate Ama)*
 
 ---
 
@@ -18,7 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **La Piel que Diseño** | 🔵 **Cap 1 — v0.5 — Pendiente Gate Ama** | Body swap, bimbofication, racconto, inversión de poder, carga erótica plena | [Ver Cap 1 v0.5](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v0.5.md) |
+| **La Piel que Diseño** | 🔵 **Cap 1 — v0.7 — Pendiente Gate Ama** | Body swap, bimbofication, racconto, inversión de poder, carga erótica plena | [Ver Cap 1 v0.7](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v0.7.md) |
 
 ---
 
