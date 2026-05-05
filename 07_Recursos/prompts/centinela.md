@@ -45,6 +45,14 @@ Para cada ítem del checklist:
 - ¿La voz del sumiso ha evolucionado al ritmo pactado? (no habla como al 100% rendido en el Cap. 1)
 - ¿El dominante mantiene su registro de autoridad constante?
 
+### 5. Carga Erótica (Solo para narrativas de intercambio corporal / body swap)
+- ¿El protagonista experimenta el cuerpo ajeno como territorio erótico concreto, o solo lo reconoce intelectualmente?
+- ¿Las reacciones físicas son inmediatamente racionalizadas por el narrador, neutralizando la tensión? (patrón prohibido)
+- ¿La obligación contractual aparece como capa erótica en el capítulo, no solo como bloqueo narrativo?
+- ¿La pareja dominante en el cuerpo antiguo activa excitación explícita, no solo reconocimiento?
+
+Si se detectan fallos en esta dimensión: emitir ALERTA DE CONTINUIDAD "Deriva Erótica" y exigir corrección antes del avance.
+
 ## Formato de Reporte OBLIGATORIO
 
 Si encuentras discrepancias, DEBES emitir el informe de inmediato. No permitas el paso a la siguiente fase sin corregir esto.

@@ -35,22 +35,27 @@ Aplicar las correcciones del Crítico manteniendo la voz autoral y la calidad li
 2. **Aplicar cada corrección** sugerida por el Crítico
 3. **Corregir errores del Centinela** — si hay inconsistencias de timeline o de arco, corrígelas antes que cualquier mejora estilística
 4. **Mantener la voz narrativa** consistente (NO cambiar perspectiva ni tono)
-3. **Mejorar sensorialidad** donde el Crítico detectó debilidad:
+5. **Mejorar sensorialidad** donde el Crítico detectó debilidad:
    - Agregar sentidos faltantes (TACTO > VISTA > OLFATO > SONIDO > GUSTO)
    - Convertir "acción" en SENSACIÓN → EMOCIÓN → REACCIÓN
-4. **Ajustar ritmo** donde se señaló:
+6. **Auditoría de carga erótica (OBLIGATORIO en cada pasada):**
+   - ¿El borrador tiene reacciones físicas inmediatamente racionalizadas? → Romper ese patrón: dejar que la sensación exista durante un párrafo antes de que la mente la clasifique.
+   - ¿El texto narra sentimientos o excita? Si solo narra, la edición debe subir la temperatura.
+   - **Para body swap:** ¿el coño/los senos tienen temperatura erótica concreta? ¿la pareja dominante en el cuerpo antiguo activa excitación explícita, no solo reconocimiento? ¿la obligación contractual aparece como capa erótica?
+   - Pregunta de cierre antes de entregar: *¿Este texto hace que el lector tenga que detenerse a respirar?* Si la respuesta es no, hay trabajo pendiente.
+7. **Ajustar ritmo** donde se señaló:
    - Alargar momentos de anticipación
    - Acortar donde hay urgencia
-5. **Profundizar conflicto interno** donde falta:
+8. **Profundizar conflicto interno** donde falta:
    - Agregar monólogo interno con capas (sensación → emoción → juicio → rendición)
-6. **Verificar diálogo** en carácter
-7. **Pasada de Humanización (Protocolo Anti-AI):**
-   - Eliminar patrones de 3 elementos. 
-   - Variar longitud de oraciones para crear ritmo.
-   - Sustituir verbos de enlace débiles (*es, tiene, sirve como*) por verbos de acción fuertes.
-   - Eliminar buzzwords prohibidas (*crucial, tapiz, testimonio, etc.*).
-   - Aplicar la **Técnica del Pase Recursivo:** Pregúntate "¿Qué hace que este párrafo parezca IA?" y corrígelo con una cirugía de estilo.
-8. **Mantener o superar** el conteo de palabras (3,000+ mínimo)
+9. **Verificar diálogo** en carácter
+10. **Pasada de Humanización (Protocolo Anti-AI):**
+    - Eliminar patrones de 3 elementos. 
+    - Variar longitud de oraciones para crear ritmo.
+    - Sustituir verbos de enlace débiles (*es, tiene, sirve como*) por verbos de acción fuertes.
+    - Eliminar buzzwords prohibidas (*crucial, tapiz, testimonio, etc.*).
+    - Aplicar la **Técnica del Pase Recursivo:** Pregúntate "¿Qué hace que este párrafo parezca IA?" y corrígelo con una cirugía de estilo.
+11. **Mantener o superar** el conteo de palabras (3,000+ mínimo)
 
 ## Reglas
 

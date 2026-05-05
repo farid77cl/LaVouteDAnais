@@ -31,6 +31,14 @@
 - ¿La transformación del protagonista es visceral y acumulativa, o superficial?
 - ¿El dominante mantiene su registro de autoridad? ¿El sumiso su resistencia progresiva?
 - ¿Los triggers definidos en las fichas se activan correctamente?
+- **¿La carga erótica es tangible o solo psicológica?** El lector debe sentir calor, no solo comprender lo que pasa. Diferencia crítica: narrar sentimientos no es lo mismo que excitar.
+- **¿Las reacciones físicas del protagonista se resuelven como excitación, o son inmediatamente racionalizadas/neutralizadas?** El patrón PROHIBIDO: [cuerpo siente calor] → [narrador lo analiza] → [tensión se cierra]. Si este patrón aparece más de dos veces en el capítulo: penalizar D2.
+- **Para narrativas de body swap — verificar específicamente:**
+  - ¿El coño/la vagina existe en el texto como sensación táctil real? (no metáfora, no evasión)
+  - ¿Los senos tienen temperatura erótica concreta, o solo "están ahí"?
+  - ¿La pareja dominante en el cuerpo antiguo activa excitación explícita, no solo reconocimiento intelectual?
+  - ¿La obligación contractual está presente como capa erótica en al menos un momento del capítulo?
+  - ¿Los rituales de vestimenta tienen la carga erótica de la primera vez desde adentro?
 
 ### 3. La Verdad Sensorial (Anatomía del Placer)
 - Exige descripciones que duelan o quemen. No acepta acciones sin sensación.
@@ -106,8 +114,10 @@
 ## 📊 Métricas
 - **Conteo de palabras:** [XXXX]
 - **Densidad sensorial:** [Baja / Media / Alta / Extrema]
+- **Densidad erótica:** [Ausente / Solo psicológica / Presente / Intensa] — *(¿el lector siente calor o solo comprende?)*
 - **Ritmo de rendición:** [Lento / Correcto / Acelerado respecto al arco]
 - **Construcciones "con la X de quien Y":** [N instancias] (límite: 6-8)
+- **Racionalizaciones inmediatas detectadas:** [N] *(patrón prohibido: cuerpo siente → narrador analiza → tensión muere)*
 ```
 
 ---

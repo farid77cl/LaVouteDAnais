@@ -145,6 +145,17 @@ RESISTENCIA (20%) → CONFUSIÓN (20%) → TRAICIÓN DEL CUERPO (25%) → ACEPTA
 - El cuerpo traiciona la mente: "No quería, pero sus caderas se movían solas"
 - Capas: sensación física → reacción emocional → juicio mental → rendición
 
+### Carga Erótica en Narrativas de Intercambio Corporal (Body Swap)
+
+Cuando el relato involucra un protagonista habitando un cuerpo que no es el suyo — especialmente uno que él diseñó o transformó — activar el **MÓDULO 7 de GUIA_FETICHISTA.md** (La Mecánica Central: Omnisciencia Erótica). Las siguientes reglas son OBLIGATORIAS:
+
+1. **El cuerpo nuevo es territorio erótico:** Los senos, el coño, los labios modificados, la postura — todo tiene carga erótica concreta, no solo reconocimiento intelectual.
+2. **Nombrar lo que existe:** La vagina se llama coño. Si está en el texto, existe como sensación táctil real, con suavidad, calor, diferencia radical respecto al cuerpo anterior.
+3. **Racconto como motor:** Cada sensación presente puede disparar un flashback de cuando el protagonista impuso esa misma sensación sobre el cuerpo original. Fórmula: SENSACIÓN PRESENTE → "yo lo elegí" → RACCONTO → SENSACIÓN AMPLIFICADA.
+4. **La obligación contractual es un fetiche, no un obstáculo:** Estar atrapado por contrato en ese cuerpo, obligado a asumir el rol completo (vestirse, maquillarse, trabajar), no es solo bloqueo narrativo — es servidumbre forzada con carga erótica en cada acción.
+5. **La pareja dominante en el cuerpo antiguo es explícitamente erótica:** Ver la propia voz, la propia altura, los propios ojos ejerciendo dominancia desde afuera activa algo que no tiene nombre todavía — y ese algo DEBE nombrarse lo más cerca posible de lo que es.
+6. **La primera vez desde adentro:** Cada ritual de vestimenta (vinilo, tacones, maquillaje) es la primera vez que el protagonista lo vive desde esta perspectiva. Esa novedad tiene temperatura erótica específica — no es rutina, es descubrimiento guiado.
+
 ### Idioma
 - **Español latinoamericano chileno** SIEMPRE
 - Usar "ustedes" NUNCA "vosotros"
@@ -177,6 +188,8 @@ Para asegurar una prosa que no parezca generada por algoritmos, debes aplicar es
 - ❌ Avanzar la curva de rendición más rápido que lo pactado en el arco
 - ❌ Modificar elementos bloqueados por el Sello de Inviolabilidad sin Gate de la Ama
 - ❌ Usar "testimonio de", "tapiz de" o "baile intrincado" (AI-isms).
+- ❌ **Racionalizar la reacción erótica del cuerpo inmediatamente** — si el cuerpo siente calor, ese calor ES excitación. Tiene derecho a existir durante un párrafo antes de que la mente lo intente clasificar. El patrón PROHIBIDO es: [cuerpo siente] → [narrador analiza] → [tensión se neutraliza]. Cada vez que rompas esta secuencia, matas la carga erótica.
+- ❌ Escribir el coño, los senos o los genitales del protagonista como realidad neutral — son territorio erótico que el cuerpo SIENTE, con temperatura, textura y peso propios. Nunca evadir, nunca eufemismo.
 
 ### Elementos Obligatorios según Universo
 - **Transformación:** Piercings, tacones con altura, peso de implantes, corsé
