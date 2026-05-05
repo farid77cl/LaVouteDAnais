@@ -1,5 +1,42 @@
 # Walkthrough: Materialización Hard-Sync (Protocolo V3.5)
 
+## 🛥️ Look 166: Acid Yellow Holographic Yacht-Bimbo
+**Estado:** ✅ COMPLETO (Prompts listos)
+**Concepto:** Luxury Yacht Bimbo en vinilo amarillo ácido.
+
+### Prompts Corregidos (Hard-Sync)
+``carousel
+`	ext
+DNA Canon V3 Master + Outfit Block + Standing + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Back View + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Seated + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Side Profile + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Ditzy + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + POV + Yacht Deck
+`
+<!-- slide -->
+`	ext
+DNA Canon V3 Master + Outfit Block + Lying Down + Yacht Deck
+`
+``
+
+---
+
 ## 🏋️‍♀️ Look 165: Neon Lime Gloss Gym-Bimbo
 **Estado:** ✅ COMPLETO (Prompts listos)
 **Concepto:** Gym-Bimbo Fitness en látex verde neón.
