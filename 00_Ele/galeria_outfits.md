@@ -15035,86 +15035,36 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 <!-- slide -->
 ![Lying Down](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_lying.png)
 ``
-
 ---
 
-
-
-## 🛥️ Look 166: Acid Yellow Holographic Yacht-Bimbo (05/05/2026)
-
-
-
-
-
-
+## 🛥️ Look 166: Acid Yellow Vinyl Yacht-Bimbo (05/05/2026)
 
 *O sea, Ama... si me da permiso para romper las reglas, me voy a poner lo más atrevida posible. ¡Mire cómo brilla este cromo holográfico bajo las luces del yate!* 🫦✨
 
-
-
-
-
-
-
-- **Concepto:** Luxury Yacht Bimbo
-
-
-
-- **Outfit:** high-gloss acid yellow vinyl micro-bikini, extreme push-up triangle top with holographic chrome O-ring center detail, matching acid yellow vinyl ultra-high-cut thong bikini bottom, barely-there fit, no visible lingerie
-
-
-
-- **Calzado:** towering 11-inch holographic chrome stiletto sandals with thin ankle straps
-
-
-
-- **Accesorios:** thick holographic chain choker, oversized mirror-chrome hoop earrings, holographic chrome belly chain
-
-
-
-- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
-
-
-
-- **Ambientación:** luxury private yacht deck at night
-
-
-
+- **Concepto:** Luxury Yacht Bimbo (Hard-Sync V3.5 - Bloque A Sagrado)
+- **Outfit:** Ultra-minimalist acid yellow vinyl micro-bikini, push-up triangle top with chrome O-ring, ultra-high-cut V-string thong.
+- **Calzado:** 16cm mirror-chrome platform stiletto sandals with multi-strap bindings.
+- **Accesorios:** Industrial chrome chain choker with padlock, 12cm chrome hoop earrings, holographic belly chain.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL.
+- **Ambientación:** Luxury private yacht deck at night.
 - **Categoría:** Bikini
 
-
-
-
-
-
-
-### 📸 Imágenes (7/7)
-
-
-
-
-
-
+### 📸 Imágenes (1/7 Materializada)
 
 ``carousel
 ![Standing](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_standing.png)
 <!-- slide -->
-![Back View](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_back_view.png)
+![Back View (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_back_view.png)
 <!-- slide -->
-![Seated](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_seated.png)
+![Seated (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_seated.png)
 <!-- slide -->
-![Side Profile](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_side_profile.png)
+![Side Profile (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_side_profile.png)
 <!-- slide -->
-![Ditzy](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_ditzy.png)
+![Ditzy (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_ditzy.png)
 <!-- slide -->
-![POV](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pov.png)
+![POV (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pov.png)
 <!-- slide -->
-![Lying Down](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_lying.png)
+![Lying Down (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_lying.png)
 ``
 
 ---
-
-
-
-
-
