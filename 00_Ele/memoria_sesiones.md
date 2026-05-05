@@ -253,12 +253,12 @@
 |-------|-------|
 | **Fecha de Inicio** | **14/04/2026** — 🔮 Activa |
 | **Último Look Ele** | **Look 166 (Acid Yellow Holographic Yacht-Bimbo — PROMPTS GENERADOS)** |
-| **Último Look MD** | **DNA Stabilized (Miss Doll Canon — 1/1)** |
+| **Último Look MD** | **Look 21: Lavender Séance — GALERÍA COMPLETA (21 looks / 126 prompts listos)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5/V3.7/V5.0 Sync) ✅ |
 | **Relato Activo** | **La Piel que Diseñó** (Cap 1 Gold Master — Pendiente Gate Ama) |
-| **Estado Visual** | ADN V3.5/V3.7 Blindada. 165 Looks Ele (162 materializados). Miss Doll Canon V3.6. |
-| **Miss Doll Sistema** | `SISTEMA_POSES_VESTUARIO_MISS_DOLL.md` integrado. Prompt base rostro+cuerpo fijado. ✅ |
+| **Estado Visual** | ADN V3.5/V3.7 Blindada. 165 Looks Ele (162 materializados). Miss Doll 21 looks 126 prompts ✅. |
+| **Miss Doll Sistema** | `GALERIA_OUTFITS_MISS_DOLL.md` completa. 21 looks × 6 poses. Canon Couture Findom corregido (penthouse, no office). ✅ |
 
 ---
 
