@@ -59,7 +59,7 @@ Metas a verificar:
 
 ## Paso 3 — Diseño del Outfit (PRIMERO, antes de cualquier prompt)
 
-Antes de escribir un solo prompt, diseñar el outfit completo con el mayor detalle posible. Este bloque es el **ADN del vestuario** — se copiará idéntico en las 5 poses. Sin variación.
+Antes de escribir un solo prompt, diseñar el outfit completo con el mayor detalle posible. Este bloque es el **ADN del vestuario** — se copiará idéntico en las 7 poses. Sin variación.
 
 ### Formato del bloque de outfit (en inglés, para prompt)
 
@@ -95,17 +95,37 @@ Este bloque se guarda en el README del look y se usa sin modificación en las **
 Con el outfit diseñado en Paso 3, ensamblar los **7 prompts**. La fórmula es:
 
 ```
-[DNA DE ELE] + [OUTFIT BLOCK del Paso 3] + [POSE & SETTING] + [CIERRE]
+[BLOQUE A] + [BLOQUE B (OUTFIT)] + [POSE & SETTING] + [CIERRE]
 ```
 
-Los tres bloques centrales son **idénticos** en las 7 poses. Solo `[POSE & SETTING]` varía.
+> ⛔ **REGLA SAGRADA DE INTEGRIDAD:**
+> - **BLOQUE A** (DNA) y **BLOQUE B** (Outfit) son **IDÉNTICOS** en las 7 poses. CERO variación.
+> - Solo `[POSE & SETTING]` cambia entre poses.
+> - **PROHIBIDO:** Resumir, acortar, parafrasear, reordenar, agregar o quitar CUALQUIER palabra del Bloque A o B.
+> - **PROHIBIDO:** Usar shorthands como "red latex gown" cuando el Bloque B completo dice algo más largo.
+> - **VERIFICACIÓN:** Después de escribir los 7 prompts, hacer diff textual de los bloques A y B entre todas las poses. Si hay UNA sola diferencia → corregir antes de continuar.
 
-**DNA Canon V3 Master (copiar literal, sin modificar jamás):**
+### BLOQUE A — DNA Canon V3.5 Hard-Sync (copiar TEXTUALMENTE, sin modificar JAMÁS)
+
+> ⚠️ **Fuente de verdad:** `00_Ele/canon_visual_ele.md` sección "CONSTANTES DE IDENTIDAD", línea 16.
+
 ```
-stunning woman with bimbo facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, dramatic siren liner, dramatic lash extensions, straight slim upturned nose, overlined glossy hot pink lips, defined cupid's bow, small pointed chin, flawless white porcelain skin, hyper-polished smooth skin texture, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm.
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches).
 ```
 
-**[OUTFIT BLOCK]** → copiar literal del Paso 3. Sin cambios.
+> 🔒 **Checksum de integridad:** El Bloque A contiene EXACTAMENTE:
+> - `(bimbofied` con paréntesis y `:1.3)` al final del grupo facial
+> - `subtle minimalist blackwork tattoos on upper back and outer thighs`
+> - `navel piercing`
+> - `nipple piercings` (SIN "14k white gold")
+> - `aggressive bimbomakeup` (UNA sola palabra, sin espacio)
+> - `always wearing towering stiletto heels or boots` (CON "or boots")
+> - `(minimum 12cm / 4.7 inches, standard 8-11 inches)` (rango completo)
+> - **NO contiene:** `8k`, `editorial fashion photography`, `high-gloss specularity`, `defined cupid's bow`
+
+### BLOQUE B — [OUTFIT BLOCK]
+
+Copiar literal del Paso 3. Sin cambios. Sin shorthands. Sin resúmenes.
 
 **Poses estándar:**
 
@@ -124,6 +144,11 @@ stunning woman with bimbo facial features, oval face, high prominent cheekbones,
 Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 ```
 
+### Ejemplo de prompt completo ensamblado (Pose Standing):
+```
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches). [OUTFIT BLOCK completo aquí]. full body, standing, weight on one hip, hands on waist, [setting]. Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
+```
+
 ---
 
 ## Paso 5 — Crear Carpeta y README
@@ -133,9 +158,12 @@ Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 ```
 
 El README incluye:
-1. El **[OUTFIT BLOCK]** completo del Paso 3 (fuente de verdad del vestuario)
-2. Los **7 prompts completos** (DNA + Outfit + Pose + Cierre)
-3. La lista de archivos de imagen esperados
+1. El **[BLOQUE A]** DNA Canon V3.5 (copiado textualmente de este workflow)
+2. El **[OUTFIT BLOCK]** completo del Paso 3 (fuente de verdad del vestuario)
+3. Los **7 prompts completos** (Bloque A + Bloque B + Pose + Cierre)
+4. La lista de archivos de imagen esperados
+
+> ⚠️ **Auto-verificación obligatoria:** Antes de guardar el README, confirmar que los 7 prompts contienen el Bloque A y B exactamente iguales. Si hay diferencia → error de generación.
 
 ---
 
@@ -156,17 +184,35 @@ Append al final de `00_Ele/galeria_outfits.md`:
 - **Ambientación:** ...
 - **Categoría:** {Lencería / Bikini / Gym / Mix (subtipo)}
 
+### 📝 Prompts V3.5 Hard-Sync
+
+1. **Standing:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+2. **Back:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+3. **Seated:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+4. **Side Profile:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+5. **Ditzy:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+6. **POV:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+7. **Lying Down:** [BLOQUE A completo]. [OUTFIT BLOCK completo]. [POSE]. [CIERRE].
+
+> ⛔ Los 7 prompts DEBEN contener el Bloque A y B textualmente idénticos. Solo varía la pose.
+
 ### 📸 Imágenes (7/7)
 
-| Pose | Previsualización |
-|------|---------|
-| **Standing** | ![Standing](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_standing.png) |
-| **Back View** | ![Back View](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_back_view.png) |
-| **Seated** | ![Seated](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_seated.png) |
-| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_side_profile.png) |
-| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_ditzy.png) |
-| **POV** | ![POV](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_pov.png) |
-| **Lying Down** | ![Lying Down](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_lying.png) |
+````carousel
+![Standing](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_standing.png)
+<!-- slide -->
+![Back View](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_back_view.png)
+<!-- slide -->
+![Seated](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_seated.png)
+<!-- slide -->
+![Side Profile](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_side_profile.png)
+<!-- slide -->
+![Ditzy](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_ditzy.png)
+<!-- slide -->
+![POV](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_pov.png)
+<!-- slide -->
+![Lying Down](../05_Imagenes/ele/look{NUM}_{slug}/ele_{NUM}_lying.png)
+````
 
 ---
 ```
