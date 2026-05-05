@@ -130,6 +130,105 @@ Asociar estímulos neutros con respuestas intensas:
 
 ---
 
+---
+
+## 🔁 MÓDULO 7: EL DISEÑADOR DENTRO DEL DISEÑO (Body Swap Erotica)
+*Foco específico: el protagonista habita el cuerpo que él mismo construyó. Escenario único — no genérico.*
+
+Este módulo aplica exclusivamente a relatos donde el protagonista masculino ocupa el cuerpo de una mujer que él mismo diseñó/modificó. Es el más complejo porque el erotismo tiene DOBLE CAPA simultánea: la experiencia presente del cuerpo + el conocimiento de haberlo creado.
+
+### La Mecánica Central: Omnisciencia Erótica
+
+El protagonista no está descubriendo un cuerpo extraño — está dentro de su propia fantasía. Eso significa que cada sensación llega con un segundo nivel: *yo pedí esto. yo elegí este número. yo decidí esta forma.* Esa omnisciencia no enfría la excitación — la AMPLIFICA. Es voyeurismo invertido: en lugar de mirar desde afuera lo que diseñaste, lo sientes desde adentro.
+
+**Fórmula obligatoria del relato:**
+```
+SENSACIÓN PRESENTE → "yo lo elegí" → RACCONTO (cómo lo impuso) → SENSACIÓN AMPLIFICADA + EXCITACIÓN
+```
+La cadena no termina en el racconto. Termina en la amplificación erótica. El racconto sin calor erótico al final es psicología, no erotica.
+
+---
+
+### Claves Narrativas
+
+**1. El Coño — Realidad Física Obligatoria**
+En cualquier relato de body swap masculino→femenino, la ausencia del pene y la presencia del coño son el intercambio más fundamental. No nombrarlo es evasión. Debe aparecer:
+- Al despertar: el protagonista lo descubre, siente la diferencia, la suavidad, el calor específico de tener un coño donde antes había otra cosa
+- No es horror — es extrañeza que se convierte en algo más cercano a la fascinación erótica
+- El cuerpo responde a ese descubrimiento antes de que la mente pueda clasificarlo
+- Vocabulario: coño, centro, entre las piernas, el calor específico de ahí — nunca "zona íntima", "allá abajo", ni evasiones
+
+**2. Los Senos — El Ancla Física**
+El detalle sensorial central del relato: 700cc subglandular, elegidos del catálogo. En el texto, no son solo "peso presente". Son:
+- El primer recuerdo consciente al despertar (el aplastamiento bilateral contra el colchón)
+- El referente erótico de que él mismo los pidió a medida
+- El punto de vista que cambia: antes los miraba desde afuera, ahora los siente desde adentro
+- Cada vez que el cuerpo se mueve, los senos se mueven con él — eso tiene temperatura erótica, no solo mecánica
+
+**3. Los Labios — Herramienta del Diseño**
+Cuatro sesiones, dieciocho meses, sobredimensionados. Al ser maquillados, al sentir el lápiz labial, al cerrar la boca sobre sí mismos:
+- La presión del lápiz sobre el arco de Cupido es un momento de excitación que no tiene equivalente en nada que el protagonista conociera antes
+- El volumen, la forma exagerada, el gloss — todo fue diseñado para ser deseado. Ahora él los tiene y los siente desde adentro.
+- Eso no se racionaliza inmediatamente. Se siente.
+
+**4. La Obligación Contractual como Intensificador Erótico**
+El protagonista no solo está en ese cuerpo — está OBLIGADO por su propio contrato a habitarlo completamente: vestirse, maquillarse, trabajar como stripper. Esa servidumbre construida por él mismo, ahora sobre él mismo, es una capa de humillación/excitación que superpone cada ritual con:
+- La ironía de haber diseñado la trampa
+- La humillación de no poder escapar de lo que él construyó para ella
+- El fetiche de ser obligado a actuar exactamente como la mujer que diseñó
+Narrar cada ritual de vestimenta/maquillaje con esta dimensión de obligación-placer superpuesta.
+
+**5. La Pareja Dominante en el Cuerpo Antiguo**
+Daniela en el cuerpo de él — con su voz, su altura, su mandíbula, su cadencia aprendida de él — ejerce dominancia masculina sobre el protagonista. Esta inversión es explícitamente erótica:
+- La voz que él usó para controlar ahora lo controla a él — y el cuerpo responde antes de que la mente procese
+- Ser mirado desde arriba por sus propios ojos tiene temperatura sexual
+- Recibir órdenes en su propia voz activa algo que no es solo reconocimiento — es sumisión, y es excitante
+- Cada "Quieta", cada "Siéntate", cada instrucción dada con sus propias frases debe tener carga erótica, no solo ironía dramática
+
+**6. Primera Vez desde Adentro — Guiada por el Dominante**
+Ponerse el vinilo, los tacones, el maquillaje — es literalmente la primera vez que el protagonista hace esto desde este cuerpo. No sabe cómo se siente hasta que lo siente. El dominante guía ese proceso:
+- Cada pieza de ropa que el dominante elige y él se pone es un acto de sumisión
+- El vinilo sobre los senos, sobre el coño, sobre las caderas — nuevo desde adentro
+- Los tacones reconfigurando la postura y generando una respuesta que sube desde los pies — y esa respuesta tiene nombre: excitación
+- Narrar esta primera vez con el asombro específico de alguien que diseñó algo y ahora lo experimenta desde el interior por primera vez
+
+**7. Ver el Mundo Diferente Ahora**
+La perspectiva femenina es erótica en este relato:
+- La diferencia de altura: el mundo desde más bajo, Daniela viéndolo desde arriba
+- Los hombres que lo mirarán como strippper — él diseñó para ella esas miradas — ahora serán sobre él
+- La forma en que la ropa y el cuerpo interactúan: el vinilo no cede, el coño está ahí, los senos se mueven
+- El mundo percibido desde un cuerpo diseñado para ser deseado, que ahora es el suyo
+
+---
+
+### Patrón PROHIBIDO: La Racionalización Inmediata
+
+El patrón que destruye la carga erótica:
+1. El cuerpo siente calor
+2. El narrador lo analiza intelectualmente
+3. La tensión se neutraliza
+4. El lector no sintió nada
+
+**El patrón correcto:**
+1. El cuerpo siente calor
+2. El calor existe — durante un párrafo, sin explicación
+3. La mente intenta nombrarlo y no puede del todo
+4. El lector sintió el calor
+
+La reacción erótica del cuerpo tiene derecho a existir sin inmediata clasificación intelectual. El protagonista puede no saber qué es lo que siente — esa incertidumbre ES el erotismo.
+
+---
+
+### Vocabulario Específico del Módulo
+
+- **Para el coño:** calor específico, suavidad, diferencia, lo que había antes vs. lo que hay ahora
+- **Para los senos:** peso bilateral, aplastamiento, tirante constante, volumen que se mueve
+- **Para el cuerpo bajo la ropa fetish:** la presión del vinilo, el ángulo forzado de los tacones, la reorganización de la postura
+- **Para la pareja dominante:** reconocimiento con temperatura, obediencia que llega antes de la decisión, la voz que tiene autoridad sobre el cuerpo sin pedirla
+- **Para la excitación sin nombre:** calor sin origen, algo que sube, temperatura que el cuerpo sabe antes que la mente, electricidad sin explicación
+
+---
+
 ## 🛠️ INTEGRACIÓN CON LA ESTRUCTURA MAESTRA
 
 | Fase Estructural | Aplicación del Módulo |
@@ -139,3 +238,11 @@ Asociar estímulos neutros con respuestas intensas:
 | **3. FOREPLAY** | **Lucha:** La mente rechaza el fetiche, el cuerpo reacciona. Usar DISONANCIA COGNITIVA. |
 | **4. CLIMAX** | Aceptación total. El fetiche consume la identidad anterior. Usar FORCED COMPLIANCE consumada. |
 | **5. AFTERGLOW** | La nueva normalidad fetichista. Usar HAPPY EMPTINESS y AFTERCARE si aplica. |
+
+| Fase Estructural | Body Swap (Módulo 7) |
+| :--- | :--- |
+| **1. SETUP** | El despertar: el peso antes de la vista. El coño. El reconocimiento de cada modificación. La omnisciencia sin distancia. |
+| **2. SPARK** | La primera reacción erótica no autorizada — el calor que llega sin que él lo pida. |
+| **3. FOREPLAY** | Los rituales (uñas, maquillaje, vinilo, tacones) como escalada. Cada uno amplifica la excitación sin resolverla. La pareja dominante guiando. |
+| **4. CLIMAX** | El primer momento en que la excitación es innegable — el cuerpo responde sin permiso y no hay cómo argumentar contra eso. |
+| **5. AFTERGLOW** | El diseñador que empieza a querer más. El catálogo abierto. 1000cc. |

@@ -27,6 +27,20 @@
 
 ---
 
+---
+
+## La piel que diseño — Capítulo 1
+
+| ID | Error | Texto afectado | Aprendizaje | Estado |
+|----|-------|---------------|-------------|--------|
+| C12 | Carga erótica ausente: psicología excelente pero el texto no excita. Calor, temblor y electricidad son inmediatamente racionalizados y nunca se resuelven como excitación sexual | Cap 1 v0.2 | El cuerpo nuevo es territorio erótico, no solo psicológico — agregado a MEMORIA_ERRORES | ⬜ |
+| C13 | La vagina/coño nunca aparece en el texto. El intercambio genital más fundamental del relato (pene → coño) es completamente evadido | Cap 1 v0.2 | La vagina existe y debe nombrarse — agregado a MEMORIA_ERRORES | ⬜ |
+| C14 | La obligación contractual no porta carga erótica; es solo bloqueo narrativo sin explotarse como fetiche de servidumbre forzada | Cap 1 v0.2 | La obligación contractual es una capa erótica, no solo narrativa — agregado a MEMORIA_ERRORES | ⬜ |
+| C15 | La pareja dominante (Daniela en el cuerpo de él) es tratada con reconocimiento intelectual pero sin carga erótica explícita | Cap 1 v0.2 | La pareja dominante en el cuerpo antiguo es explícitamente erótica — agregado a MEMORIA_ERRORES | ⬜ |
+| C16 | Los rituales de vestimenta (vinilo, tacones, maquillaje) no tienen la dimensión erótica de ser la primera vez desde adentro, guiados por el dominante | Cap 1 v0.2 | Vestirse con el cuerpo diseñado es experiencia nueva guiada por el dominante — agregado a MEMORIA_ERRORES | ⬜ |
+
+---
+
 ## Plantilla para nuevas correcciones
 
 ```

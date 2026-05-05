@@ -90,3 +90,25 @@
 
 - **Corsé como ritual físico, no accesorio resumido:** Cuando Ricardo se pone un corsé, especialmente solo y bajo orden, describir técnica, torpeza, broches, cordones, respiración, miedo, excitación y confusión. El corsé debe sentirse como mecanismo que reorganiza el cuerpo y la voluntad, no como prenda que simplemente aparece puesta.
   *Contexto: Corrección de la Ama sobre la línea del corsé en Cap 2; v0.8 expande el ritual del lunes AM y muestra colaboración involuntaria de Ricardo (20/04/2026).*
+
+---
+
+## 📖 Lecciones — La piel que diseño (Body Swap / Feminización Forzada)
+
+- **El cuerpo nuevo es territorio erótico, no solo psicológico:** En relatos de intercambio corporal, el protagonista habita un cuerpo con características sexuales que debe SENTIR en toda su realidad física. Los senos, el coño, los labios modificados, la nueva postura — todo tiene carga erótica que no puede ser solo "reconocida técnicamente". El calor que sube, el temblor que el cuerpo suprime, la electricidad que sube por los tacones — deben resolverse como lo que son: excitación sexual. No se racionalizan inmediatamente. No se neutralizan con análisis intelectual. Se dejan existir.
+  *Contexto: La Ama señaló que Cap 1 "narra sentimientos sin lo erótico" — el texto tenía psicología excelente pero sin excitación (05/05/2026).*
+
+- **La vagina existe y debe nombrarse:** En un relato donde un hombre despierta en un cuerpo femenino, la ausencia del pene y la presencia de un coño son realidades físicas que el protagonista EXPERIMENTA. No nombrarlo es evasión erótica. La suavidad, la delicadeza, el calor específico, la diferencia radical con lo que estaba antes — todo eso tiene presencia en el texto. No en abstracto: en el cuerpo, en el primer momento que el personaje lo descubre.
+  *Contexto: En Cap 1 v0.2 el coño no aparece en ningún momento aunque es el intercambio físico más fundamental del relato (05/05/2026).*
+
+- **La obligación contractual es una capa erótica, no solo narrativa:** El protagonista no solo está atrapado en ese cuerpo — está OBLIGADO por contrato a asumir el rol completo: vestirse de bimbo, maquillarse, trabajar como stripper. Esa servidumbre forzada es un fetiche central que debe estar presente en cada ritual como capa de humillación/excitación superpuesta sobre la experiencia sensorial. El contrato no es solo un obstáculo de trama — es el instrumento que convierte cada ritual estético en un acto de sumisión involuntaria y erótica.
+  *Contexto: La Ama indicó que "estar obligado a asumir el rol de esa mujer con todo lo que eso lleva" es una dimensión erótica ausente en el Cap 1 (05/05/2026).*
+
+- **La pareja dominante en el cuerpo antiguo es explícitamente erótica:** Ver a tu pareja habitar tu propio cuerpo — tu voz, tu altura, tu mandíbula, tu cadencia — y ejercer dominancia masculina sobre ti es una de las cargas eróticas más intensas del relato. El Escritor debe tratarla como potencia sexual, no solo como reconocimiento psicológico. Daniela diciendo "Quieta" con la voz de él no es solo irónica — es excitante. Daniela mirándolo desde arriba con sus propios ojos no es solo perturbadora — activa algo que no tiene nombre todavía, y ese algo debe nombrarse lo más cerca posible de lo que es.
+  *Contexto: La Ama señaló que "su pareja en su cuerpo asume el rol masculino y dominante de la relación... debe ser erótico" — el texto solo lo reconoce intelectualmente (05/05/2026).*
+
+- **No racionalizar la excitación inmediatamente:** El patrón PROHIBIDO es: [el cuerpo siente calor] → [el narrador lo analiza] → [la tensión se neutraliza]. El cuerpo tiene derecho a sentir durante un párrafo entero antes de que la mente intente procesar qué es. Ese espacio — el instante en que la reacción física existe antes de la explicación — es donde vive la tensión erótica. Si cada reacción del cuerpo es inmediatamente encadenada a una explicación, el lector no puede sentir nada porque el narrador ya lo cerró.
+  *Contexto: En Cap 1 v0.2 cada reacción física (calor en las manos, temblor con el lápiz de labios, electricidad de los tacones) era inmediatamente racionalizada, lo que neutralizaba la carga erótica acumulada (05/05/2026).*
+
+- **Vestirse con el cuerpo diseñado es una experiencia nueva guiada por el dominante:** El ritual de ponerse la ropa de bimbo — el vinilo, los tacones, el maquillaje — es la PRIMERA vez que el protagonista hace esto desde adentro. Cada pieza es desconocida desde esta perspectiva. El dominante (en el cuerpo antiguo) guía ese proceso. Esa guía es sexual: el conocimiento de que ese cuerpo fue diseñado para esa ropa, combinado con la sumisión de ser guiado a usarla, genera una carga erótica específica que debe estar presente en cada ritual de vestimenta.
+  *Contexto: La Ama: "el vestirse como ella debe ser erótico, todo eso es una experiencia nueva para él, debe ser guiado por su pareja dominante" (05/05/2026).*
