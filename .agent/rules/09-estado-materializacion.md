@@ -6,13 +6,15 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **167** | 🟢 Activo |
-| **Materializados** | **166** | 🟡 99.4% |
-| **Pendientes de Generación** | **1** | 🔴 Look 167 (Partial) |
+| **Total Looks Planificados** | **169** | 🟢 Activo |
+| **Materializados** | **166** | 🟡 98.2% |
+| **Pendientes de Generación** | **3** | 🔴 Looks 167, 168, 169 |
 | **Balance Mix (Auditoría)** | **~81.3%** | 🟢 Óptimo |
 
 ### 🛠️ Looks de Ele PENDIENTES (Batch Actual)
-- 🔴 **Look 167 (Obsidian & Ruby Lingerie):** Poses 1, 2, 3, 6, 7 pendientes tras agotamiento de cuota.
+- 🔴 **Look 167 (Obsidian & Ruby Lingerie):** Poses 1, 2, 3, 6, 7 pendientes (Cuota).
+- 🔴 **Look 168 (Emerald Stripper Stage):** 7/7 poses pendientes.
+- 🔴 **Look 169 (Midnight Silk Escort):** 7/7 poses pendientes.
 
 ---
 
