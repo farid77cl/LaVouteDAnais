@@ -6,13 +6,13 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 
 | Categoría | Valor | Estado |
 |-----------|-------|--------|
-| **Total Looks Planificados** | **166** | 🟢 Activo |
-| **Materializados** | **165** | 🟡 99.4% |
-| **Pendientes de Generación** | **1** | 🔴 Look 166 (Regen) |
+| **Total Looks Planificados** | **167** | 🟢 Activo |
+| **Materializados** | **166** | 🟡 99.4% |
+| **Pendientes de Generación** | **1** | 🔴 Look 167 (Partial) |
 | **Balance Mix (Auditoría)** | **~81.3%** | 🟢 Óptimo |
 
 ### 🛠️ Looks de Ele PENDIENTES (Batch Actual)
-- 🔴 **Look 166 (Acid Yellow Yacht):** Regeneración total bajo Hard-Sync V3.5 (7/7 poses pendientes tras purga manual).
+- 🔴 **Look 167 (Obsidian & Ruby Lingerie):** Poses 1, 2, 3, 6, 7 pendientes tras agotamiento de cuota.
 
 ---
 

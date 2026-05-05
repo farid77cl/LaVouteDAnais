@@ -100,10 +100,13 @@ VIP. Varios hombres. Usado exactamente como él lo diseñó. Y durante eso, o de
 - [ ] **R4 — El maquillaje:** racconto del domingo que le corrigió la técnica. Detonador: ella aplicándole maquillaje a él con precisión.
 - [ ] **R5 — Los tacones:** racconto de *"con tacones no te verías tan baja"*. Detonador: el cuerpo reconfigurándose al ponérselos.
 - [ ] Fórmula activa en cada ritual: SENSACIÓN → reconocimiento (él lo eligió) → racconto → sensación amplificada.
-- [ ] Tensión erótica no resuelta — resistencia + disfrute que no puede nombrar.
-- [ ] Gancho final: frente al espejo de noche, la emoción sin nombre. La pregunta que no termina.
+- [ ] **Acumulación erótica obligatoria:** cada ritual suma sin liberar. Al final del capítulo la tensión debe ser insoportable — el cuerpo necesita resolución. Eso es lo que lleva al gancho final.
+- [ ] **Gancho final — tres beats en secuencia:**
+  1. Mira a Daniela en su cuerpo masculino — la verga que ya no tiene, los hombros, la mandíbula, la altura que reconoce como suya — y algo en el cuerpo que habita reacciona antes de que la mente lo autorice.
+  2. Lo encuentra irresistible. No como dato abstracto — como calor entre las piernas, como hambre.
+  3. El pensamiento final, sin eufemismo: cómo se va a sentir esa verga adentro de ella. En Chilean español directo. Esa imagen lo deja sin aire. Esa es la grieta.
 
-**Gancho final:** De pie frente al espejo — maquillada, vestida, en tacones. No es horror. Es algo más complicado. *¿Verdad?*
+**Gancho final:** Daniela cruza la pieza en el cuerpo de él — sus hombros, su mandíbula, la verga que Matías llevaba hace veinticuatro horas — y algo en el coño de Matías responde solo, sin pedir permiso. El pensamiento llega completo, en chileno, sin metáfora: cómo se va a sentir eso adentro. Eso. Su propia verga. Adentro de él. *No es horror. Es hambre.*
 
 ---
 

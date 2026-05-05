@@ -41,6 +41,10 @@
 
 ---
 
+| C17 | Gancho final demasiado ambiguo: "emoción sin nombre" no captura que la excitación acumulada es erótica y que el primer pensamiento de liberarla ya ocurre como mujer | Cap 1 v0.2 (gancho final) | Tres beats canónicos: (1) ver a Daniela en el cuerpo masculino y que el coño responda solo, (2) encontrarla irresistible — calor entre las piernas, hambre, (3) pensamiento sin eufemismo: cómo se va a sentir su propia verga adentro. En chileno directo. *No es horror. Es hambre.* | ⬜ |
+
+---
+
 ## Plantilla para nuevas correcciones
 
 ```

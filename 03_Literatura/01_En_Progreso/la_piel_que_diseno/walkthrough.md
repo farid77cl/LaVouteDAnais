@@ -38,7 +38,10 @@
 
 ## Decisiones Canónicas Aprobadas
 
-*(ninguna aún — pendiente Gate Fase 1)*
+| # | Decisión | Fuente | Fecha |
+|---|----------|--------|-------|
+| D1 | **Gancho final Cap 1 — tres beats canónicos:** (1) Matías ve a Daniela en su cuerpo masculino y el coño responde solo. (2) Lo encuentra irresistible — calor entre las piernas, hambre. (3) Pensamiento final sin eufemismo: cómo se va a sentir su propia verga adentro de él. En español chileno directo. *No es horror. Es hambre.* Primera grieta del arco de rendición. | La Ama (sesión 05/05/2026) | 2026-05-05 |
+| D2 | **Acumulación erótica obligatoria:** Cada ritual del Cap 1 (uñas, maquillaje, tacones) suma carga erótica sin liberarla. La tensión debe ser explícitamente insoportable al final, no solo "ambigua emocionalmente". | La Ama (sesión 05/05/2026) | 2026-05-05 |
 
 ---
 
