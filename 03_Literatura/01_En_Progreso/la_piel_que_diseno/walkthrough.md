@@ -32,7 +32,7 @@
 | `arco_maestro_v1.md` | ✅ Aprobado — racconto map integrado |
 | `linea_de_tiempo_maestra.md` | ✅ Aprobado |
 | `personajes_maestro_v1.md` | ✅ Aprobado |
-| `capitulo_01_la_piel_v0.5.md` | 🔵 EN REVISIÓN — Vestuario canónico: tanga + vestido vinilo leopardo + tacones 7 pulgadas sin sostén. Beat dressing guiado por Daniela. Pechos libres como beat erótico. Pendiente Gate de la Ama. |
+| `capitulo_01_la_piel_v0.7.md` | 🔵 EN REVISIÓN — CALOR MÁXIMO. Erotismo explícito en cada ritual: tanga húmeda desde el dressing, piercings activos, cadena eléctrica en tacones, hombre del andén → pulso en coño, "quieta" → contracción húmeda, gancho final explícito. Pendiente Gate de la Ama. |
 
 ---
 
