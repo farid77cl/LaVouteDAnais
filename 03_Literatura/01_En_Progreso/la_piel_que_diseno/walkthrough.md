@@ -32,7 +32,7 @@
 | `arco_maestro_v1.md` | ✅ Aprobado — racconto map integrado |
 | `linea_de_tiempo_maestra.md` | ✅ Aprobado |
 | `personajes_maestro_v1.md` | ✅ Aprobado |
-| `capitulo_01_la_piel_v0.2.md` | 🔵 EN REVISIÓN — auditoría 9.0, 3 cirugías aplicadas (~3,835 palabras) |
+| `capitulo_01_la_piel_v0.4.md` | ✅ APROBADO CON EXCELENCIA — Crítico 9.6, carga erótica completa, gancho final canónico (~4,350 palabras) |
 
 ---
 

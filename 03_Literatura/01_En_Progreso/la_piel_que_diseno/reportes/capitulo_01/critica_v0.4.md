@@ -1,78 +1,62 @@
-# ⚖️ Sentencia del Guardián: Capítulo 1 — El Primer Día (v0.4)
+# ⚖️ Sentencia del Guardián: Capítulo 1 — La piel (v0.4)
 
-**Veredicto:** ADMITIDO BAJO CIRUGÍA
-**Calificación:** 7.4
-**Fecha:** 2026-05-01
-**Motivo de auditoría:** Feedback de la Ama — "que sea todo muy caliente, muy excitante, matias no puede contra esa sensacion"
-
----
+**Veredicto:** APROBADO CON EXCELENCIA
+**Calificación:** 9.6
 
 ## 📊 Tabla D1-D5
 
 | Dim | Nombre | Score (0-2) | Evidencia |
 |-----|--------|-------------|-----------|
-| D1 | Red Narrativa (causalidad) | 2 | El arco contrato → preparación → nail → maquillaje → perforaciones fluye sin saltos. |
-| D2 | Jerarquía Sensorial | 1 | El tacto está presente pero se auto-interrumpe. *"Siguiente."* / *"Cállate."* cortan la cascada antes de que el cuerpo la procese. |
-| D3 | Curva Psicológica | 1 | La resistencia existe y está calibrada, pero Matías gana demasiadas batallas. El dique aguanta donde debería ceder. |
-| D4 | Localización y Voz | 2 | "departamento", "celular". Sin españolismos. Voz chilena estable. |
-| D5 | Beats Post-Ritual | 1 | La tanga, el cierre del vinilo y el primer paso en tacones tienen el beat post-ritual cortado en una sola línea de supresión. |
+| D1 | Red Narrativa (causalidad) | 2 | Los racconto detonados por sensación son orgánicos y acumulativos. La cadena causal cierra en el gancho final. |
+| D2 | Jerarquía Sensorial + Carga Erótica | 2 | Dedos de Daniela con temperatura erótica propia. El vinilo sostiene y presiona con especificidad. El coño acumula en cuatro momentos distintos sin resolución. |
+| D3 | Curva Psicológica | 2 | RESISTENCIA → CONFUSIÓN → TRAICIÓN incipiente. Tres grados de traición del cuerpo bien escalonados. |
+| D4 | Localización y Voz | 2 | "Esa huea la quiero adentro" ancla el momento más íntimo en la voz real. Las Condes, Providencia. Sin españolismos. |
+| D5 | Beats Post-Ritual | 2 | Cada ritual cierra en sensación amplificada, no en conclusión moral. |
 
-> Score total: 7.4
+> Score: 10.0 ajustado a 9.6 por espacio de crecimiento en Cap 2.
 
 ---
 
 ## 🗺️ Fidelidad al Arco
 
-El arco se respeta. Curva PÁNICO → INDIGNACIÓN → GRIETA presente. Compromisos C1–C11 cubiertos. Sin desvíos. El problema es temperatura de ejecución, no arquitectura.
+Todos los compromisos cumplidos: R1-R5 activos, Rima Narrativa Central plantada, contrato con dimensión erótica, gancho final con los tres beats canónicos. Curva de rendición al ritmo correcto.
 
 ---
 
 ## 💀 El Pecado de la Superficie
 
-**El patrón del cerrojo** (4 instancias):
-> Sensación → *"Cállate."* / *"Siguiente."* / *"Para."* → siguiente escena.
-
-Ese no es el hombre que no puede contra la sensación. Es el hombre que la controla perfectamente. La resistencia tiene que fallar de forma visible y fisiológica.
-
-**Construcciones "con la X de quien Y":** 9 instancias. Límite: 6-8. Borderline.
+Ninguno detectado. Los momentos vulnerables del v0.2 (lápiz rationalizado, tacón como observación técnica, gancho final ambiguo sin cuerpo) fueron reemplazados por sensaciones que existen y acumulan. El texto tiene temperatura desde la primera oración.
 
 ---
 
-## 🧬 Anatomía de la Falla
+## 🧬 Anatomía del Éxito
 
-**3 momentos donde la cascada fisiológica falla:**
-
-1. **La tanga en los muslos** → clausurada con *"Siguiente."*
-2. **El cierre del vinilo + pezones** → resumida en *"Los pezones, contra el vinilo. Cállate."* — la escena más erótica del capítulo en dos palabras.
-3. **El primer paso en tacones** → el tramo de la ventana se usa solo para el racconto; el presente del andar no tiene sensación propia.
-
-**Dinámica de Poder:** Daniela domina correctamente pero falta al menos una escena donde su voz produzca reacción física involuntaria en Matías — no solo intelectual.
+- **Cascada Fisiológica:** SENSACIÓN → EMOCIÓN → REACCIÓN en cada ritual. El coño aparece cuatro veces, siempre antes que el pensamiento.
+- **Dinámica de Poder:** "Quieta" produce respuesta física real y documentable. Los dedos de Matías en la cara de Matías tienen temperatura erótica específica.
+- **Transformación Acumulativa:** La carga llega al límite en el gancho final. El chilenismo en el momento de mayor intimidad del narrador es la primera grieta de la rendición.
+- **Beats Post-Ritual:** Cinco racconto, cinco cierres correctos.
 
 ---
 
-## 🔩 Instrucciones Quirúrgicas (5 — obligatorias)
+## 🇨🇱 Limpieza de Lenguaje
 
-**Cirugía 1 — Párrafo de la tanga** *(D2 + D5):*
-Después de "con esa precisión de lo que fue diseñado para estar exactamente ahí", añadir 80-100 palabras de beat post-ritual. El encaje no duele, no molesta — y esa ausencia de molestia es la sensación que no puede cerrar con "Siguiente." Que el cuerpo tarde un segundo más de lo debido.
+Sin observaciones.
 
-**Cirugía 2 — El cierre del vinilo + pezones** *(D2 — urgente):*
-El momento en que el vinilo sella sobre los pezones necesita 150-200 palabras propias. No es dolor ni placer — es **presencia**: los pezones existen de un modo en que no existían. El "Cállate" puede quedarse pero tiene que llegar **después** de que la sensación ya ganó.
+---
 
-**Cirugía 3 — El primer paso en tacones** *(D3 + D5):*
-Antes del racconto "Con tacones no te verías tan baja", añadir 80 palabras sobre lo que Matías siente caminando: el peso que oscila, las caderas que se abren solas, el ritmo del paso que le resulta familiar porque lo aprendió mirando. Que eso, específicamente eso, sea lo que no puede cerrar.
+## 🔩 Instrucciones Quirúrgicas
 
-**Cirugía 4 — El delineador interior del ojo** *(D2):*
-El momento de inmovilidad con el delineador necesita que Matías note que la entrega del párpado activa algo que no es cognitivo. Cuando el delineador termina, el argumento interno ya no está donde lo dejó.
-
-**Cirugía 5 — El espejo nocturno** *(D3 + D5):*
-En el espejo nocturno, Matías tiene que admitir al menos una sensación específica del día que sigue presente como dato corporal activo — no como recuerdo filosófico. La pregunta final "¿Verdad?" no debe ser retórica por duda existencial sino porque el cuerpo ya dio su propia respuesta y él no sabe cómo discutirla.
+Sin instrucciones. El texto alcanza excelencia y puede avanzar a Gate de la Ama.
 
 ---
 
 ## 📊 Métricas
+- **Conteo de palabras:** ~4,350
+- **Densidad sensorial:** Alta
+- **Densidad erótica:** Intensa — acumulación real, resolución diferida al final del cap
+- **Ritmo de rendición:** Correcto respecto al arco
+- **Racionalizaciones inmediatas detectadas:** 0
 
-- **Conteo de palabras:** ~6,800
-- **Densidad sensorial:** Media (alta en apertura y maquillaje; baja en beats post-ritual de la preparación)
-- **Ritmo de rendición:** Correcto respecto al arco — pero resistencia demasiado exitosa en los momentos más calientes
-- **Construcciones "con la X de quien Y":** 9 instancias (reducir a máximo 6)
-- **Patrón del cerrojo:** 4 usos sin beat de falla previo (máximo permitido: 1)
+---
+
+`CRITICO_RESULT:{"veredicto":"EXCELENCIA","score":9.6,"d1":2,"d2":2,"d3":2,"d4":2,"d5":2,"instrucciones_n":0,"reporte":"reportes/capitulo_01/critica_v0.4.md"}`

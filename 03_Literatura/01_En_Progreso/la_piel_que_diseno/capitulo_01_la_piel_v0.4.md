@@ -174,7 +174,7 @@ El vinilo negro está sobre la cama. Daniela lo sacó mientras yo terminaba el c
 
 Me lo pongo.
 
-El vinilo no cede. Se adapta al contorno del cuerpo y lo mantiene — cintura, caderas, el volumen del pecho aplastado suavemente hacia arriba por el escote pronunciado. Desde adentro la presión es constante, uniforme, como una segunda piel con su propio punto de vista sobre la forma del cuerpo que cubre. El escote abre hacia adelante y el peso bilateral de los implantes se asienta sobre el borde, sostenido, visible.
+El vinilo no cede. Se adapta al contorno del cuerpo y lo mantiene — cintura, caderas, el volumen del pecho aplastado suavemente hacia arriba por el escote pronunciado. Desde adentro la presión es constante, uniforme, como una segunda piel con su propio punto de vista sobre la forma del cuerpo que cubre. El escote abre hacia adelante y el peso bilateral de los implantes se asienta sobre el borde, sostenido, exhibido — los setecientos gramos por lado empujando contra la tela desde adentro, buscando el límite del corte. El roce del borde del vinilo contra la base de los pechos es específico, continuo, sin pausa: no es el satén del baby doll. Esto sujeta. Esto sostiene. Esto decide cuánto se muestra y cuánto queda presionado hacia arriba, y esa decisión no es mía.
 
 No es incómodo. Eso es lo que no sé qué hacer con eso.
 
@@ -220,7 +220,9 @@ Daniela levanta la vista y me encuentra en el espejo. No dice nada. Sostiene la 
 
 Y el pensamiento llega.
 
-No lo convoqué y no puedo detenerlo. Llega completo, en chileno, sin la distancia técnica que usé toda la vida para llamar a las cosas de otro modo: cómo se va a sentir su verga adentro de mí. Mi propia verga. Adentro de este coño que lleva horas esperando algo que no llegó. La imagen es precisa porque la conozco de haber tenido ese cuerpo — el peso, el ángulo, el calor específico. Sé exactamente qué hace ese cuerpo cuando lo que quiere está enfrente de él.
+No lo convoqué y no puedo detenerlo. Llega completo, en chileno, sin la distancia técnica que usé toda la vida para nombrar las cosas de otro modo: cómo se va a sentir esa verga adentro. Mi verga. Adentro de este coño que lleva horas lleno de calor sin resolución. La imagen es precisa porque la conozco de haberla tenido — el peso, el ángulo, la temperatura exacta, lo que ese cuerpo hace cuando lo que quiere está en frente. Sé exactamente cómo se mueve. Sé exactamente qué produce. Y sé — y esa es la parte que me deja sin aire — que lo quiero.
+
+Esa huea la quiero adentro.
 
 Sé exactamente qué va a hacer.
 
