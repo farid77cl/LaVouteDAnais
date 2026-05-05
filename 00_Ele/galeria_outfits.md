@@ -15037,19 +15037,15 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 ``carousel
-![Standing](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_standing.png)
+![Standing](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png)
 <!-- slide -->
-![Back View](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_back_view.png)
+![Back View](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose2_back.png)
 <!-- slide -->
-![Seated](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_seated.png)
+![Seated](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png)
 <!-- slide -->
-![Side Profile](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_side_profile.png)
+![Side Profile](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png)
 <!-- slide -->
-![Ditzy](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look165_neon_lime_gym_bimbo/ele_165_lying.png)
+![Ditzy](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose5_ditzy.png)
 ``
 ---
 
@@ -15081,23 +15077,22 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 7. **Lying Down:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches). Ultra-minimalist micro-bikini made of high-gloss acid yellow vinyl with an oily mirror sheen, extreme push-up triangle cups held by a heavy-duty chrome O-ring at the center connected with thin clear spaghetti straps, matching acid yellow vinyl ultra-high-cut V-string thong sitting high on the hips, 16cm mirror-chrome platform stiletto sandals with multi-strap ankle bindings, thick industrial-style chrome chain choker with a heart-shaped padlock, oversized 12cm mirror-finish chrome hoop earrings, delicate holographic crystal belly chain resting on the navel piercing. full body lying on side on a white leather sofa, body forming a languid S-curve, one arm extended with XXXL nails resting on the surface, legs slightly bent, stilettos pointed and visible. Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 
-### 📸 Imágenes (1/7 Materializada)
-
+### 📸 Imágenes (🔴 REGENERACIÓN EN CURSO)
 
 ``carousel
-![Standing](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_standing.png)
+![Standing (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose1_standing.png)
 <!-- slide -->
-![Back View (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_back_view.png)
+![Back View (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose2_back.png)
 <!-- slide -->
-![Seated (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_seated.png)
+![Seated (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose3_seated.png)
 <!-- slide -->
-![Side Profile (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_side_profile.png)
+![Side Profile (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose4_side_profile.png)
 <!-- slide -->
-![Ditzy (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_ditzy.png)
+![Ditzy (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose5_ditzy.png)
 <!-- slide -->
-![POV (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pov.png)
+![POV (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose6_pov.png)
 <!-- slide -->
-![Lying Down (REGEN PENDING)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_lying.png)
+![Lying Down (REGEN IN PROGRESS)](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose7_lying.png)
 ``
 
 ---
