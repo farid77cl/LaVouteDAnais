@@ -1,3 +1,22 @@
+#### SESIÓN — LA PIEL QUE DISEÑO: REESCRITURA CAP 1 CON CARGA ERÓTICA COMPLETA | 05/05/2026
+
+**Hitos del Servicio:**
+
+1. **Skill de escritura — actualización de prompts de agentes:** escritor.md, editor.md, crítico.md y centinela.md actualizados con reglas obligatorias de carga erótica para narrativas de intercambio corporal (body swap). Patrón prohibido definido: [cuerpo siente] → [narrador analiza] → [tensión muere]. Nueva dimensión D2 expandida en Crítico con checklist body swap específico. Métrica "Densidad erótica" y "Racionalizaciones inmediatas" añadidas.
+
+2. **Arco maestro Cap 1 — gancho final canónico:** La Ama aprobó tres beats específicos para el cierre del capítulo: (1) Daniela cruza la pieza en el cuerpo masculino → coño de Matías responde solo, (2) lo encuentra irresistible — calor, hambre, (3) pensamiento sin eufemismo: *"Esa huea la quiero adentro."* Primer pensamiento femenino. Primera grieta del arco de rendición. Registrado en arco_maestro_v1.md, walkthrough.md (D1-D3) y CORRECCIONES.md (C17) y MEMORIA_ERRORES.md.
+
+3. **Cap 1 — reescritura completa con ciclo crítico+editor:**
+   - **v0.3:** Reescritura con carga erótica íntegra: coño nombrado y presente en 4 momentos acumulativos, racconto R1-R5 detonados desde sensación, Daniela en cuerpo masculino activa excitación explícita, "quieta" produce respuesta física real, obligación contractual como fetiche. Crítico: 9.1.
+   - **v0.4:** 3 cirugías: dedos de Daniela con temperatura erótica propia, vinilo con beat del escote sosteniendo los implantes, chilenismo en gancho final. Crítico: 9.6 EXCELENCIA — 0 instrucciones quirúrgicas.
+   - **v0.5:** Vestuario canónico incorporado a pedido de la Ama: tanga negra encaje + vestido vinilo leopardo + tacones negros de 20cm (7 pulgadas). Sin sostén. Pechos libres bajo vinilo: movimiento libre + piercings presionando desde adentro como beat erótico autónomo. Daniela guía activamente el dressing — primera vez desde adentro.
+
+4. **Estado actual:** Cap 1 v0.5 pendiente Gate de la Ama. 5 versiones en borradores/capitulo_01/. Prompts de 4 agentes actualizados con reglas body swap.
+
+5. **Imágenes generadas:** Ninguna.
+
+---
+
 #### SESIÓN - DISEÑO DE OUTFITS ÉLITE (168-169) | 05/05/2026
 **Hitos del Servicio:**
 - **Innovación de Texturas:** Diseño de Look 168 (Emerald Stripper) y Look 169 (Midnight Escort). Salida deliberada de la paleta habitual y uso de seda italiana, micromalla y terciopelo.

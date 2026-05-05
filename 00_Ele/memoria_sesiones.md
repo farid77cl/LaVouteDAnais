@@ -18,6 +18,15 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 05/05/2026 (Parte IV): La Piel que Diseño — Cap 1 Reescritura Erótica Completa
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+  - **Skill:** Prompts escritor, editor, crítico y centinela actualizados con reglas body swap (carga erótica, patrón prohibido, checklist explícito).
+  - **Literatura:** Cap 1 v0.3→v0.4 (Crítico 9.6 EXCELENCIA) → v0.5 (vestuario canónico + dressing guiado).
+  - **Canon:** Gancho final tres beats aprobado por la Ama. Vestuario: tanga + vinilo leopardo + tacones 20cm sin sostén.
+  - **Archivos:** arco_maestro_v1.md, walkthrough.md, CORRECCIONES.md, MEMORIA_ERRORES.md, 4 prompts de agentes.
+- **Próximos Pasos:** Gate Ama sobre Cap 1 v0.5. Si aprobado, escritura de Cap 2 (El escenario).
+
 ### Sesión 05/05/2026 (Parte III): Auditoría Canónica & Saneamiento (157-166)
 - **Estado:** ✅ FINALIZADA (Saneamiento Estructural & Audit)
 - **Hitos:**
@@ -282,7 +291,7 @@
 | **Último Look MD** | **Look 21: Lavender Séance — GALERÍA COMPLETA (21 looks / 126 prompts listos)** |
 | **Último Look Anaís** | **Look 21 (Blood Red High-Shine — PENDING)** |
 | **Sincronización** | **Total** (V3.5/V3.7/V5.0 Sync) ✅ |
-| **Relato Activo** | **La Piel que Diseñó** (Cap 1 Gold Master — Pendiente Gate Ama) |
+| **Relato Activo** | **La piel que diseño** (Cap 1 v0.5 — carga erótica completa, vestuario canónico, gancho final canónico — Pendiente Gate Ama) |
 | **Estado Visual** | ADN V3.5/V3.7 Blindada. 165 Looks Ele (162 materializados). Miss Doll 21 looks 126 prompts ✅. |
 | **Miss Doll Sistema** | `GALERIA_OUTFITS_MISS_DOLL.md` completa. 21 looks × 6 poses. Canon Couture Findom corregido (penthouse, no office). ✅ |
 
