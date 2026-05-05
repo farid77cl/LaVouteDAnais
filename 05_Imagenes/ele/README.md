@@ -4,11 +4,27 @@
 
 ---
 
+## 🕷️ Look 169: Midnight Silk Escort
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_169_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look169_midnight_silk_escort/ele_169_standing.png) | ![ele_169_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look169_midnight_silk_escort/ele_169_seated.png) | ![ele_169_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look169_midnight_silk_escort/ele_169_side_profile.png) | ![ele_169_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look169_midnight_silk_escort/ele_169_back_view.png) | ⏳ |
+
+---
+
+## 🕷️ Look 168: Emerald Stripper Stage
+
+| De Pie | Sentada | Perfil | Espalda | Ditzy |
+|:---:|:---:|:---:|:---:|:---:|
+| ![ele_168_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_standing.png) | ![ele_168_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_seated.png) | ![ele_168_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_lying.png) | ![ele_168_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_pov.png) | ![ele_168_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_ditzy.png) |
+
+---
+
 ## 🕷️ Look 167: Obsidian Ruby Lingerie
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |
 |:---:|:---:|:---:|:---:|:---:|
-| ⏳ | ⏳ | ![ele_167_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png) | ⏳ | ![ele_167_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png) |
+| ![ele_167_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_standing.png) | ![ele_167_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_seated.png) | ![ele_167_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png) | ![ele_167_lying.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_lying.png) | ![ele_167_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png) |
 
 ---
 

@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 05/05/2026 — Ele Collection: 166/170 Looks (97.6%) — [Regen Pending: L167, 168, 169, 170] 🫦👠👑.*
+*Última actualización: 05/05/2026 — Ele Collection: 166/170 Looks (Materialización: 15/21 Activos Batch Actual) — [Reset Pending: L169, 170] 🫦👠👑.*
 
 ---
 

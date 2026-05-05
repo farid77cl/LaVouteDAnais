@@ -31,6 +31,7 @@ Total imágenes: 2
 - 📁 [**Look04 La Escritora**](./look04_la_escritora/README.md)
 - 📁 [**Look05 Verde Esmeralda**](./look05_verde_esmeralda/README.md)
 - 📁 [**Look15 Midnight Satin**](./look15_midnight_satin/README.md)
+- 📁 [**Look35 Midnight Lace Sovereign**](./look35_midnight_lace_sovereign/README.md)
 
 ---
 ## 📜 Lista de Archivos (Descarga Directa)
