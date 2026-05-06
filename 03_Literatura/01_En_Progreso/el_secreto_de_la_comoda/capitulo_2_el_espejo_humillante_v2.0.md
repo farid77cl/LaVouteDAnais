@@ -111,7 +111,15 @@ A las seis de la tarde, de vuelta en Vitacura, el vestidor estaba iluminado con 
 
 Ricardo se quitó el saco, la corbata, la camisa. Quedó en el corsé de satén negro, la tanga, el armazón de metal. Las marcas de las ballenas en sus costillas, rojo oscuro y bien dibujadas, como las líneas de un mapa que alguien ha trazado con cuidado sobre su piel.
 
-Isabel lo miró.
+Isabel lo miró. No con el examen clínico de quien busca errores, sino con la atención de quien contempla algo que ya conoce.
+
+—¿Sabes cuántas mujeres llevan uno de estos todos los días? —dijo, casi conversacionalmente, como si hablara del precio del pan—. No como experimento. Como requisito. Como lo que la ropa de presentación pide debajo para que el traje caiga bien, para que la blusa no arrugue, para que la silueta sea la correcta en la sala correcta. Ocho horas. Diez horas. Reuniones, almuerzos, presentaciones con el diafragma comprimido y la sonrisa intacta.
+
+Ricardo no respondió.
+
+—A ti te quedan marcas después de un día —continuó ella, sin énfasis—. Las mujeres que los usan profesionalmente también tienen marcas. Solo que aprendieron a no mirarlas.
+
+Algo pasó debajo del cinturón de acero que Ricardo decidió no nombrar. Las ballenas le seguían apretando las costillas. El hecho de que aquello fuera ordinario para otras personas —el hecho de que su tormento fuera la rutina de alguien más— lo golpeó en un lugar que no estaba en el torso.
 
 —Mañana —dijo, con la serenidad de un médico anunciando el siguiente paso de un tratamiento—, te depilo.
 
@@ -141,7 +149,13 @@ La maquinilla contra la espinilla. El suave zumbido mecánico.
 
 Ricardo no habló.
 
-El vello de sus piernas desapareció en franjas ordenadas, del tobillo a la rodilla, de la rodilla al muslo, lento y metódico como una cosecha. Isabel enjuagaba la maquinilla en el agua y volvía a pasar. Sin prisa. Sin conversación. Solo el zumbido y el agua y el vapor y la mano de ella sobre su pantorrilla indicándole cuándo girar la pierna, cuándo extenderla.
+El vello de sus piernas desapareció en franjas ordenadas, del tobillo a la rodilla, de la rodilla al muslo, lento y metódico como una cosecha. Isabel enjuagaba la maquinilla en el agua y volvía a pasar.
+
+—Las mujeres hacen esto cada semana —dijo, sin alzar la vista del tobillo—. No como ritual. Como mantenimiento. Piernas, entrepecho, axilas. Y al tercer día el vello ya está volviendo, así que la semana siguiente se vuelve a hacer. De por vida. —Enjuagó la maquinilla. Volvió a pasar—. No es un acto de belleza. Es trabajo invisible que nadie contabiliza.
+
+Ricardo miraba el techo de azulejos blancos.
+
+Pensó en cuántas semanas cabían en una vida adulta y la multiplicación le dio un resultado que no supo cómo procesar. Cada semana, de por vida. El agua caliente lo envolvía y el zumbido de la maquinilla era regular, metódico, sin misericordia, y el cuerpo bajo el cinturón respondió al cálculo de la misma manera en que respondía a la mano de Isabel: antes de que él lo autorizara.
 
 Hubo un momento —era el muslo derecho, cerca de la ingle, donde la piel es más fina y el calor de la maquinilla se siente más directamente— en el que el cuerpo de Ricardo decidió, sin consultarlo, tener una opinión al respecto.
 
@@ -209,6 +223,22 @@ El grifo respondió con agua fría.
 
 Cuando Isabel llegó a la una, la mesa estaba puesta. Ella dejó las llaves, miró la cocina, miró el mesón limpio, miró a Ricardo de pie junto a la ventana con el delantal todavía puesto. No dijo nada de todo eso. Se sentó, se sirvió agua, comió.
 
+Cuando terminó, dejó el plato y miró hacia la cocina.
+
+—¿Cuánto tardaste? —preguntó.
+
+Ricardo calculó.
+
+—El almuerzo, más o menos una hora. Y el orden antes, otros cuarenta minutos.
+
+—Son dos horas. —Ella giró la copa en la mano—. Las mujeres que trabajan full time y tienen casa llegan del trabajo y ponen esas dos horas encima de las ocho que ya pusieron afuera. Sin que nadie lo cuente como trabajo. Sin pago. Sin acta. —Miró el delantal sobre el vestido azul marino—. ¿Lo encontraste agotador?
+
+—No —dijo Ricardo, que era la verdad.
+
+—No. —Ella asintió levemente, como si eso confirmara algo—. Todavía no.
+
+Algo en la precisión de ese *todavía* hizo que el cinturón se sintiera más apretado. No por el metal. Por lo que el metal significaba ahora que Ricardo sabía que eso —lo que él había hecho esta mañana como experimento— era lo ordinario de alguien más.
+
 Después del almuerzo, señaló el pasillo.
 
 —Ven.
@@ -261,7 +291,13 @@ La base llegó fría, la brocha grande y suave en círculos sobre su frente, su 
 
 Ricardo no abrió los ojos.
 
-Escuchar era suficiente: el suave frote de la brocha, la respiración regular de Isabel, el sonido de los productos abriendo y cerrando.
+—Esto toma cuarenta y cinco minutos —dijo Isabel, mientras la base seguía su circuito sobre los pómulos—. Cuarenta y cinco minutos cada mañana que no existen en la agenda de nadie, que no se cargan como trabajo, pero que determinan si una mujer llega a la reunión de las nueve como una profesional o llega como alguien que "no se cuida". —La brocha bajó hacia la mandíbula—. Y si lleva demasiado, es una coqueta. Si lleva muy poco, es descuidada. El rango correcto es una negociación permanente que nunca nadie te enseñó explícitamente.
+
+Ricardo tenía los ojos cerrados. La brocha describía su círculo sobre la nariz.
+
+Cuarenta y cinco minutos. Cada día. Calculó: en un año laboral, eso eran cerca de ciento noventa horas. El equivalente de una semana completa de reuniones que él presidía mientras alguien más gastaba ese tiempo en preparar la cara para entrar a la sala.
+
+La brocha siguió su trabajo. El calor bajo el cinturón subió un grado sin que Ricardo lo convocara. No era la brocha. Era el cálculo.
 
 El rubor fue una sorpresa. No por el color, sino porque la brocha aterrizó en sus pómulos con una presión casi festiva, una firmeza breve que no tenía ningún propósito funcional y que sin embargo lo marcó de una manera diferente a las ballenas del corsé. Las ballenas presionaban desde afuera hacia adentro. El rubor presionaba desde el instrumento de Isabel hacia la superficie de su cara con la ligereza de algo que estaba *pintándolo*.
 
@@ -375,6 +411,24 @@ Ricardo dejó el teléfono sobre el cojín. El vestido. El corsé debajo. La voz
 
 *Suenas diferente.*
 
+Isabel se sentó en el sillón frente a él.
+
+—¿Lo sentiste? —preguntó.
+
+Ricardo sostenía el teléfono todavía.
+
+—¿Sentir qué.
+
+—El segundo donde calibraste la voz. Donde decidiste qué tono usar, cuánta autoridad, cuánta presión, para que Andrés te escuchara pero no se pusiera a la defensiva. —Ella apoyó el codo en la rodilla—. Las mujeres hacen eso en cada conversación de trabajo. Con cada hombre en cada sala. ¿Soy demasiado directa y parezco agresiva? ¿Soy demasiado suave y me pasan a llevar? El rango viable es muy estrecho. Y tienes que calcular el tono mientras también estás calculando el argumento.
+
+Ricardo pensó en su propia voz en la llamada. El barítono que había salido exacto, sin esfuerzo, sin costo visible.
+
+—Yo no tuve que pensar mucho —dijo.
+
+—Ya sé que no. —Isabel lo miró, sin énfasis, sin reproche—. Eso es exactamente de lo que hablo.
+
+El vestido azul marino. El corsé debajo. El cinturón. El teléfono todavía en la mano del hombre que había calibrado instintivamente porque nadie le había enseñado que calibrar era un costo.
+
 No se levantó del sillón. El informe de gestión seguía abierto en el iPad. No lo leyó. Una hora después, el hem del vestido seguía en sus rodillas y él seguía en el sillón, y no había tomado la decisión de quitarse el vestido. Tampoco había tomado la decisión de quedarse en él. Simplemente estaba ahí. Las dos cosas al mismo tiempo, sin que ninguna se cancelara.
 
 ---
@@ -413,7 +467,15 @@ Ricardo no dijo nada.
 
 Isabel lo vistió.
 
-La tanga de encaje primero. El sujetador después, que Isabel le abrochó por detrás con la misma eficiencia con la que había ajustado el corsé en el sótano, y que Ricardo no tenía nada que llenar pero que de todas formas cerraba alrededor de su torso y añadía sus propios bordes a los bordes ya existentes del corsé. Las medias fueron lo último: Isabel se arrodilló y le enrolló la media por el pie, por el tobillo, por la pantorrilla depilada, hasta el muslo, con la paciencia de alguien para quien el ritual es exactamente tan importante como el resultado.
+La tanga de encaje primero. El sujetador después, que Isabel le abrochó por detrás con la misma eficiencia con la que había ajustado el corsé en el sótano, y que Ricardo no tenía nada que llenar pero que de todas formas cerraba alrededor de su torso y añadía sus propios bordes a los bordes ya existentes del corsé. Las medias fueron lo último: Isabel se arrodilló y le enrolló la media por el pie, por el tobillo, por la pantorrilla depilada, hasta el muslo.
+
+—¿Sabes lo que significa entrar a una sala vestida así? —dijo desde abajo, deslizando la media por la rodilla—. No desde fuera. Desde adentro del encaje. Saber que el primero en verte va a decidir en tres segundos si tu opinión vale o no vale. Y que el encaje que llevas puesto es exactamente lo que te resta credibilidad ante la mitad de la sala y exactamente lo que te da poder ante la otra mitad. —Ajustó la costura posterior para que quedara recta—. Y que ambas cosas son simultáneas. Y que ninguna se cancela.
+
+Ricardo no respondió.
+
+—Ser mujer en una habitación es gestionar esa contradicción permanentemente. Con cada prenda. Con cada gesto. —Isabel se levantó—. Sin que nadie lo vea como trabajo porque parece natural.
+
+La media de nylon ceñía su muslo depilado con una presión leve, constante, exacta. Ricardo pensó en el encaje, en que él lo llevaba como experimento y que alguien lo llevaba como martes. La distinción era tan grande que no tenía nombre. Y sin embargo lo que el conjunto negro le hacía al cuerpo era idéntico independientemente de si era experimento o martes. El cinturón respondió a ese pensamiento con la misma impersonalidad de siempre.
 
 Cuando estuvo vestido, Isabel no lo felicitó ni lo humilló. Señaló el espejo.
 
