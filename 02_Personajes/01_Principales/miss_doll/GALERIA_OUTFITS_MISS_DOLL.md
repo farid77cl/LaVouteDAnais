@@ -73,12 +73,12 @@
 
 | Pose | Archivo |
 |------|---------|
-| **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
-| **C-2 Monarch Throne** | ⏳ *Pending Generation* |
-| **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
-| **C-5 Close Up Fría** | ⏳ *Pending Generation* |
-| **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
+| **C-1 Cruel Contrapposto** | `md_001_c1_cruel.png` |
+| **C-2 Monarch Throne** | `md_001_c2_monarch.png` |
+| **C-3 Espalda Total** | `md_001_c3_espalda.png` |
+| **C-4 Tres Cuartos Arrogante** | `md_001_c4_tres_cuartos.png` |
+| **C-5 Close Up Fría** | `md_001_c5_close_up.png` |
+| **C-6 Throne en Suelo** | `md_001_c6_throne_suelo.png` |
 
 ---
 
@@ -118,12 +118,12 @@
 
 | Pose | Archivo |
 |------|---------|
-| **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
-| **C-2 Monarch Throne** | ⏳ *Pending Generation* |
-| **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
-| **C-5 Close Up Fría** | ⏳ *Pending Generation* |
-| **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
+| **C-1 Cruel Contrapposto** | `C-1.png` |
+| **C-2 Monarch Throne** | `C-2.png` |
+| **C-3 Espalda Total** | `C-3.png` |
+| **C-4 Tres Cuartos Arrogante** | `C-4.png` |
+| **C-5 Close Up Fría** | `C-5.png` |
+| **C-6 Throne en Suelo** | `C-6.png` |
 
 ---
 
@@ -163,10 +163,10 @@
 
 | Pose | Archivo |
 |------|---------|
-| **C-1 Cruel Contrapposto** | ⏳ *Pending Generation* |
-| **C-2 Monarch Throne** | ⏳ *Pending Generation* |
-| **C-3 Espalda Total** | ⏳ *Pending Generation* |
-| **C-4 Tres Cuartos Arrogante** | ⏳ *Pending Generation* |
+| **C-1 Cruel Contrapposto** | `C-1.png` |
+| **C-2 Monarch Throne** | `C-2.png` |
+| **C-3 Espalda Total** | `C-3.png` |
+| **C-4 Tres Cuartos Arrogante** | `C-4.png` |
 | **C-5 Close Up Fría** | ⏳ *Pending Generation* |
 | **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
 

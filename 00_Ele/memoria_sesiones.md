@@ -18,6 +18,17 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 06/05/2026 (Parte III): El Secreto Cap 2 V2.0 — Reescritura Total
+- **Estado:** ⏳ PENDIENTE GATE AMA
+- **Hitos:**
+  - **Literatura:** Cap 2 de "El Secreto de la Cómoda" reescrito desde cero. Estructura de 6 días completos (Lunes–Sábado). 7,960 palabras.
+  - **Estructura aprobada por la Ama:** Lunes (corsé oficina) / Martes (depilación) / Miércoles (vestido+consolador) / Jueves (maquillaje+garganta) / Viernes (llamada Andrés) / Sábado (vestidor+arnés+"Rocío").
+  - **Capas incorporadas:** (1) Ritualidad dia a dia — resistencia progresiva, transformación acumulativa. (2) Discursos de Isabel sobre el costo de ser mujer — cuerpo de Ricardo responde al peso de la verdad. (3) Resistencia real de Ricardo + chantaje activo de Isabel con nombres, moteles y destinatarios precisos.
+  - **COMPROMISOS arco v4.2:** Todos integrados — conjunto negro reveal, primera penetración con arnés de Anaís, "Rocío" como verdad, espejo de vestidor, cinturón permanente, Tease and Denial, gancho final.
+  - **Archivo activo:** `capitulo_2_el_espejo_humillante_v2.0.md` — v1.2 archivada en borradores.
+  - **Galerías:** `update_galleries.py` ejecutado. Miss Doll Look 01 (C6) sincronizado.
+- **Próximos Pasos:** Gate Ama sobre Cap 2 v2.0. Si aprobado: renombrar a `capitulo_2_maestro_v2.md` e iniciar Cap 3 (Las Cintas de Anaís).
+
 ### Sesión 06/05/2026 (Parte II): La Piel V0.8 — Dualidad y Sumisión
 - **Estado:** ✅ FINALIZADA
 - **Hitos:**
@@ -25,7 +36,7 @@
   - **Canon narrativo:** Dualidad "no quiero esto / cuerpo que ya decidió" sostenida. Orgasmo sin apagador como descubrimiento central. Sumisión progresiva por reflejo corporal.
   - **Archivo:** v0.7 movida a `borradores/capitulo_01/`. v0.8 activa en raíz del proyecto.
   - **Sincronización:** `update_galleries.py` ejecutado. Sin materializaciones visuales.
-- **Próximos Pasos:** Gate Ama sobre Cap 1 v0.8. Si aprobado: escritura de Cap 2 (El primer turno en el club).
+- **Próximos Pasos:** ✅ Gate pendiente Ama. Cap 2 iniciado en Parte III.
 
 ### Sesión 06/05/2026 (Parte I): Morning Boot y Planificación de Cierre de Flota
 - **Estado:** ✅ FINALIZADA

@@ -26,6 +26,27 @@
 6. **Etapa psicológica alcanzada:** CONFUSIÓN (40%)
 7. **Estado:** Pendiente Gate Ama
 
+**ITERACIÓN 2 — DISCURSOS SOBRE EL COSTO DE SER MUJER:**
+
+Cirugía de 6 inserciones — una por día. Isabel explica de forma factual, sin drama, lo que las mujeres viven ordinariamente. Ricardo escucha y el cuerpo responde antes de que la mente procese:
+- **Lunes:** El corsé como requisito profesional (8-10h diarias, marcas normalizadas)
+- **Martes:** La depilación como mantenimiento semanal de por vida, no como ritual
+- **Miércoles:** Las dos horas de trabajo doméstico invisibles encima de la jornada laboral
+- **Jueves:** 45 minutos de maquillaje diario = ~190 horas anuales que nadie contabiliza
+- **Viernes:** La calibración permanente de voz y tono en cada conversación de trabajo
+- **Sábado:** El encaje como paradoja: resta credibilidad y da poder simultáneamente
+
+**ITERACIÓN 3 — RESISTENCIA REAL Y CHANTAJE ACTIVO:**
+
+La Ama señala que Ricardo no ofrece resistencia genuina y que el chantaje no se activa. Corrección aplicada — cada día tiene su quiebre:
+- **Lunes AM:** Intenta vestirse normal. Isabel lo llama, lee la lista de destinatarios (directorio, esposa de Andrés, propietarios del edificio). Espera en línea. Él devuelve el algodón al cajón.
+- **Martes tina:** "Camila Vidal. Motel Vista Hermosa. Habitación doce." Sin alzar la vista. Maquinilla en mano.
+- **Miércoles consolador:** Saca el teléfono. Foto del motel sobre la cómoda, pantalla hacia arriba. "¿Quieres que llame al Dr. Sánchez?"
+- **Jueves maquillaje:** "¿Igual que los diez años que me estuviste mintiendo mientras gastabas plata de los dos?" Mientras abre el frasco de base.
+- **Sábado arnés:** Ricardo no se arrodilla. "La esposa de Andrés todavía no las tiene. Eso puede cambiar mañana a las ocho." Se arrodilla antes de terminar de decidir.
+
+**Conteo final:** 6,340 → 7,960 palabras. 3 commits en esta sesión sobre el Cap 2.
+
 ---
 
 #### SESIÓN — LA PIEL V0.8: DUALIDAD, NEGACIÓN Y SUMISIÓN SIN APAGADOR | 06/05/2026
