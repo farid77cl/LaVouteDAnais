@@ -1,3 +1,33 @@
+#### SESIÓN — EL SECRETO CAP 2 V2.0: REESCRITURA TOTAL (LUNES–SÁBADO) | 06/05/2026
+
+**NOCHE - REESCRITURA DESDE CERO:**
+
+1. **Diagnóstico confirmado:** Cap 2 v1.2 (~6,800 palabras) descartado por la Ama. Problema: crecimiento acumulativo sin diseño, absorbía material de Cap 3, nunca satisfactoria.
+
+2. **Nueva estructura aprobada por la Ama:**
+   - Lunes: corsé + tanga a la oficina (primer día útil post-Zapallar)
+   - Martes: depilación en la tina
+   - Miércoles: vestido de casa + delantal + consolador
+   - Jueves: maquillaje + entrenamiento de garganta
+   - Viernes: llamada de Andrés mientras Ricardo viste el vestido de casa
+   - Sábado: escena del vestidor del arco (conjunto negro + arnés + "Rocío")
+
+3. **v2.0 escrito desde cero:** 6,340 palabras. Todos los COMPROMISOS del arco v4.2 integrados:
+   - Línea verbatim: *"Creíste que era para tu amante, gordi. Siempre fue para ti."*
+   - Primera penetración con arnés de cuero de Anaís
+   - "Rocío" como verdad durante la penetración (no como provocación)
+   - Espejo de vestidor activo — simetría con espejo de oficina del Cap 1
+   - Cinturón de castidad permanece puesto en todo momento
+   - Tease and Denial aplicado: "Ya. Por hoy." — sin resolución
+   - Gancho final: el nombre vive en el cuerpo antes de que él lo acepte
+
+4. **Archivo activo:** `capitulo_2_el_espejo_humillante_v2.0.md`
+5. **v1.2 archivada en:** `borradores/capitulo_2/`
+6. **Etapa psicológica alcanzada:** CONFUSIÓN (40%)
+7. **Estado:** Pendiente Gate Ama
+
+---
+
 #### SESIÓN — LA PIEL V0.8: DUALIDAD, NEGACIÓN Y SUMISIÓN SIN APAGADOR | 06/05/2026
 
 **TARDE - CIRUGÍA LITERARIA PROFUNDA:**
