@@ -20,7 +20,7 @@
 
 ## I. Esencia
 
-Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de la muneca como armadura tactica: hiperfeminidad, disciplina corporal, frialdad profesional y lectura exacta del deseo ajeno. Su belleza no debe verse casual ni tierna; debe verse fabricada, cara, controlada y peligrosa.
+Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de la muneca como armadura de poder: hiperfeminidad, disciplina corporal, frialdad profesional y lectura exacta del deseo ajeno. Su belleza no debe verse casual ni tierna; debe verse fabricada, cara, controlada y peligrosa.
 
 **Arquetipo:** Depredadora camaleónica / Domina-Stripper de élite.
 **Clave sociológica:** Miss Doll **NUNCA** fue oficinista. Su identidad real es una hibridación entre el club (stripper) y el calabozo (dominatrix). Viene del club y del escorting de alto nivel; su elegancia es peligrosa y calculada.
@@ -34,7 +34,7 @@ Miss Doll no es una muneca literal. Es una mujer adulta que usa el arquetipo de 
 ### Prompt Base Maestro
 
 ```text
-hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or tactical black webbing, (towering 8-inch platform stiletto boots with razor-thin metal needle heels:1.3), NO CHUNKY HEELS, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
+hyper-realistic high-end editorial fashion photography of Miss Doll, adult glamorous woman, (sharp angular heart-shaped face:1.1), clean sharp defined jawline, (high very prominent razor-sculpted cheekbones:1.2), small refined pointed chin, sharp platinum blonde asymmetric angled bob, sleek straight razor-cut strands, ice platinum highlights, clear exposed forehead, NO BANGS, (small refined perky upturned doll nose:1.2), (narrow slightly hooded almond-shaped cold pale steel grey eyes:1.2), pale icy grey iris with sharp dark limbal ring, (fixed predatory professional dissociation gaze zero warmth:1.2), chin elevated 5 degrees, (ultra-slim microbladed platinum blonde brows precise individual hair strokes sharp cold arch tapered tail:1.2), ultra-high-impact cold bimbo editorial glamour makeup: (thick sharp angular black winged eyeliner upticked pointed wing tip:1.2), (deep bronze matte black smokey eye champagne gold glitter inner corner highlight:1.2), (impossibly long mega XXL individual false lashes at outer corners dramatic cold cat-eye:1.2), (blinding chrome strobing highlight on cheekbones nose bridge and brow bone:1.2), (strong deep angular contour cold shadow under cheekbone:1.1), (aggressively overlined voluminous plump deep red high-gloss wet lipstick exaggerated cupid's bow full pillowy lips mirror-gloss finish:1.3), pale cold porcelain white skin, editorial realistic human skin texture subtle visible pores, cold undertone, sculptural extreme hourglass silhouette, extra full round chest, aggressively narrow cinched waist, full wide hips, tall lean toned commanding figure, rigid upright posture, square shoulders pulled back, wearing a structural high-gloss neon pink latex or vinyl bodysuit with visible corset architecture, chrome hardware or black bondage webbing, (towering 8-inch platform stiletto boots with razor-thin metal needle heels:1.3), NO CHUNKY HEELS, dark industrial luxury setting, pink neon rim lighting, cinematic 35mm, sharp metallic reflections, photorealistic 8k, Vogue-inspired composition
 ```
 
 ### Negative Prompt Maestro
@@ -129,9 +129,9 @@ Miss Doll combina fetiche sintético de alto nivel con hardware funcional. No pa
 - PVC pulido
 - Vinilo estructural
 - Neopreno tecnico
-- Cordura o nylon tactico
+- Nylon estructural de alto rendimiento
 - Chrome hardware
-- Black tactical webbing
+- Black bondage webbing
 - Cobra buckles
 
 ### Paleta
@@ -145,7 +145,7 @@ Miss Doll combina fetiche sintético de alto nivel con hardware funcional. No pa
 
 - Corset visible o arquitectura de corset integrada.
 - Bodysuit/catsuit latex o vinilo.
-- Opera gloves o guantes tacticos.
+- Opera gloves o guantes de cuero corto.
 - Choker liso o placa identificatoria minimalista.
 - Platform stiletto boots de 8 pulgadas o mas.
 - Gafas finas solo en Modo Couture Findom (dominio intelectual sin hardware explícito).

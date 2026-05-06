@@ -252,7 +252,7 @@ El fondo industrial con neon rosa ya es nativo del ADN de Miss Doll. El vestuari
 |----------|-----|
 | **Cuero pulido** | Corsés, cinturones, guantes cortos, accesorios. Nunca pieza principal. |
 | **Chrome hardware** | Hebillas, anillas O y D, candados, cadenas. Metal real, nunca plástico. |
-| **Black tactical webbing** | Arneses funcionales, correas, detailing sobre catsuit. |
+| **Black bondage webbing** | Arneses funcionales, correas, detailing sobre catsuit. |
 | **Mesh / power net** | Capas, detalles, bodysuits bajo catsuit. |
 | **Satén** | Solo en Cabaret Femme Fatale (corsé, guantes, falda). Nunca en modos base. |
 
@@ -291,7 +291,7 @@ Vestido o bodysuit sastre de cortes rectos, cuello cuadrado o alto, cinturón an
 Corsé overbust con copas estructuradas, falda con vuelo controlado o liguero visible, escote. Reloj de arena suavizado con elementos performáticos.
 **Lectura:** seducción venenosa, Cabaret Femme Fatale.
 
-### E. Asimetría Táctica
+### E. Asimetría Couture
 Harness asimétrico, falda mullet, una sola pieza dominante. Deconstrucción couture.
 **Lectura:** editorial moderno. Para shootings específicos, no para sesión de club.
 
@@ -610,7 +610,7 @@ Más **maquillaje** (pilar 8) y **prop de escena** (pilar 9) — siempre alinead
 - Catsuit latex negro cuello alto.
 - Corsé subbusto cuero negro pulido con hebillas múltiples sobre el catsuit.
 - Knee-high boots latex o PVC negro.
-- Tactical black webbing con cinturón + single tail enrollado.
+- Black bondage webbing con cinturón + single tail enrollado.
 - Detalle: ribete o zipper ring en neon pink (la firma sobrevive al negro total).
 - Maquillaje: graphic liner negro, sombra oscura, labio rojo profundo wine.
 
