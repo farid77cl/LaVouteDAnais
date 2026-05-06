@@ -23,4 +23,4 @@ Total imágenes: 1
 - [md_001_c1_cruel.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look001_couture_predator/md_001_c1_cruel.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-05* 👄
+*Sincronizado con GitHub: 2026-05-06* 👄
