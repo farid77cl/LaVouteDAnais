@@ -18,6 +18,16 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 06/05/2026 (Parte IV): La Piel Cap 2 V0.1 — El Escenario
+- **Estado:** ⏳ PENDIENTE GATE AMA
+- **Hitos:**
+  - **Literatura:** Primer borrador del Cap 2 de *La Piel que Diseño*. 2,979 palabras. Archivo: `capitulo_02_el_escenario_v0.1.md`.
+  - **R6 integrado:** Racconto del café (siembra lateral del club, "ya tienes todo lo que necesitas para hacer algo con eso").
+  - **R7 — La Memoria Muscular:** El pole se ejecuta solo. Matías siente el desplazamiento exacto de los 700cc calculado por él tres años antes en el gimnasio. Su propia física operando sobre él. Traición biológica consumada.
+  - **R8 — La Mirada:** Sebastián Mura, ex cliente de entrenamiento personal, desliza un billete sin reconocerlo. Inversión total del estatus: el entrenador convertido en producto para su propio cliente.
+  - **Gancho final:** Quiere el jueves. No por el contrato. Porque quiere hacerlo bien.
+- **Próximos Pasos:** Gate Ama sobre v0.1. Si aprobado: edición y ciclo crítico → versión maestra.
+
 ### Sesión 06/05/2026 (Parte III): El Secreto Cap 2 V2.0 — Reescritura Total
 - **Estado:** ⏳ PENDIENTE GATE AMA
 - **Hitos:**
