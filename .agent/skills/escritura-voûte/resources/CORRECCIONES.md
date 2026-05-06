@@ -33,15 +33,16 @@
 
 | ID | Error | Texto afectado | Aprendizaje | Estado |
 |----|-------|---------------|-------------|--------|
-| C12 | Carga erótica ausente: psicología excelente pero el texto no excita. Calor, temblor y electricidad son inmediatamente racionalizados y nunca se resuelven como excitación sexual | Cap 1 v0.2 | El cuerpo nuevo es territorio erótico, no solo psicológico — agregado a MEMORIA_ERRORES | ⬜ |
-| C13 | La vagina/coño nunca aparece en el texto. El intercambio genital más fundamental del relato (pene → coño) es completamente evadido | Cap 1 v0.2 | La vagina existe y debe nombrarse — agregado a MEMORIA_ERRORES | ⬜ |
-| C14 | La obligación contractual no porta carga erótica; es solo bloqueo narrativo sin explotarse como fetiche de servidumbre forzada | Cap 1 v0.2 | La obligación contractual es una capa erótica, no solo narrativa — agregado a MEMORIA_ERRORES | ⬜ |
-| C15 | La pareja dominante (Daniela en el cuerpo de él) es tratada con reconocimiento intelectual pero sin carga erótica explícita | Cap 1 v0.2 | La pareja dominante en el cuerpo antiguo es explícitamente erótica — agregado a MEMORIA_ERRORES | ⬜ |
-| C16 | Los rituales de vestimenta (vinilo, tacones, maquillaje) no tienen la dimensión erótica de ser la primera vez desde adentro, guiados por el dominante | Cap 1 v0.2 | Vestirse con el cuerpo diseñado es experiencia nueva guiada por el dominante — agregado a MEMORIA_ERRORES | ⬜ |
+| C12 | Carga erótica ausente: psicología excelente pero el texto no excita. Calor, temblor y electricidad son inmediatamente racionalizados y nunca se resuelven como excitación sexual | Cap 1 v0.2 | El cuerpo nuevo es territorio erótico, no solo psicológico — agregado a MEMORIA_ERRORES | ✅ |
+| C13 | La vagina/coño nunca aparece en el texto. El intercambio genital más fundamental del relato (pene → coño) es completamente evadido | Cap 1 v0.2 | La vagina existe y debe nombrarse — resuelto en v0.3+ | ✅ |
+| C14 | La obligación contractual no porta carga erótica; es solo bloqueo narrativo sin explotarse como fetiche de servidumbre forzada | Cap 1 v0.2 | Confrontación del contrato expandida en v0.8 — resistencia + dualidad + trampa erótica | ✅ |
+| C15 | La pareja dominante (Daniela en el cuerpo de él) es tratada con reconocimiento intelectual pero sin carga erótica explícita | Cap 1 v0.2 | Resuelta en v0.7–v0.8: "Bien" → piercings / "Quieta" → contracción húmeda / escena de la noche | ✅ |
+| C16 | Los rituales de vestimenta (vinilo, tacones, maquillaje) no tienen la dimensión erótica de ser la primera vez desde adentro, guiados por el dominante | Cap 1 v0.2 | Resuelto en v0.5–v0.8: dressing guiado, resistencia que colapsa, roce como frontera erótica | ✅ |
 
 ---
 
-| C17 | Gancho final demasiado ambiguo: "emoción sin nombre" no captura que la excitación acumulada es erótica y que el primer pensamiento de liberarla ya ocurre como mujer | Cap 1 v0.2 (gancho final) | Tres beats canónicos: (1) ver a Daniela en el cuerpo masculino y que el coño responda solo, (2) encontrarla irresistible — calor entre las piernas, hambre, (3) pensamiento sin eufemismo: cómo se va a sentir su propia verga adentro. En chileno directo. *No es horror. Es hambre.* | ⬜ |
+| C17 | Gancho final demasiado ambiguo: "emoción sin nombre" no captura que la excitación acumulada es erótica y que el primer pensamiento de liberarla ya ocurre como mujer | Cap 1 v0.2 (gancho final) | Resuelto en v0.7: tres beats canónicos — coño responde solo / hambre / "Esa huea la quiero adentro". Sostenido en v0.8 con dualidad explícita en el cierre. | ✅ |
+| C18 | Los agentes no tenían principios universales de dark erotica — solo lecciones por relato específico. Las mecánicas de dualidad, ciclo abierto y sumisión refleja estaban atadas a "La Piel" | MEMORIA_ERRORES.md | 4 Principios Universales agregados como sección separada: Dualidad No Resuelta / Sumisión Refleja / Ciclo Abierto / Ausencia Como Horror — (06/05/2026) | ✅ |
 
 ---
 

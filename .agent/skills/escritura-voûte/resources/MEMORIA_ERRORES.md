@@ -93,6 +93,97 @@
 
 ---
 
+## ⚡ Principios Universales de Dark Erotica (aplican a TODO relato del universo)
+
+Estos principios no son específicos de ningún relato — son mecánicas eróticas de género que el Escritor y el Editor deben aplicar en cualquier historia de BDSM, hipnosis, bimbo, feminización, body swap o sumisión.
+
+---
+
+### PRINCIPIO 1 — La Dualidad No Se Resuelve
+
+En cualquier relato con dinámica de resistencia/sumisión, el "no" de la mente y el "sí" del cuerpo **coexisten simultáneamente sin que uno cancele al otro**. La narrativa no debe resolver esta tensión a favor de ninguno de los dos lados, ni en la escena ni en el capítulo.
+
+- ❌ PROHIBIDO: La resistencia cede y el personaje acepta → tensión muerta
+- ❌ PROHIBIDO: El personaje "gana" y suprime la excitación → erotismo muerto
+- ✅ CORRECTO: Las dos cosas son ciertas al mismo tiempo. La negativa es real. La excitación es real. El personaje existe entre las dos sin poder elegir.
+
+La frase modelo: *"Las dos cosas al mismo tiempo. Sin que una cancele a la otra. Sin jerarquía posible entre ellas."*
+
+El lector debe sentir la tensión de esa coexistencia — no la resolución de ella. **La dualidad sostenida es el motor erótico, no el obstáculo a superar.**
+
+Aplica a: BDSM (quiere pero resiste), hipnosis (la mente racional vs el trance), bimbo (la persona original vs el cuerpo nuevo), feminización (identidad vs nuevo rol), body swap (la negativa consciente vs la respuesta corporal).
+
+*Extraído de: La Piel que Diseño, Cap 1 v0.8 — validado por la Ama (06/05/2026).*
+
+---
+
+### PRINCIPIO 2 — La Sumisión Ocurre en el Cuerpo Antes que en la Mente
+
+El personaje sumiso no decide someterse — su cuerpo lo hace antes de que la decisión llegue. Este patrón debe instalarse como **secuencia recurrente** (mínimo 2–3 veces por capítulo en arcos de sumisión activa):
+
+```
+[Orden/estímulo llega] → [El cuerpo responde solo] → [La mente procesa que ya respondió]
+```
+
+La mente llega tarde. Siempre. Eso ES la sumisión: no la voluntad de obedecer, sino el descubrimiento de que el cuerpo ya obedeció.
+
+Cada repetición del patrón en el mismo capítulo debe sentirse como **acumulación**, no como repetición. La tercera vez que ocurre el lector ya entiende: ese cuerpo no le pertenece al personaje de la manera que creía.
+
+- En hipnosis: el trigger activa la respuesta antes de que la mente consciente registre el trigger
+- En BDSM: el cuerpo se pone en posición, se calla, se abre — antes de decidirlo
+- En feminización/bimbo: el cuerpo camina diferente, responde diferente, quiere diferente — el personaje lo nota después
+- En body swap: el pie se mueve, la boca se cierra, el cuerpo cruza la habitación — sin instrucción consciente
+
+*Extraído de: La Piel que Diseño, Cap 1 v0.8 — validado por la Ama (06/05/2026).*
+
+---
+
+### PRINCIPIO 3 — El Orgasmo No Siempre Es El Final (El Ciclo Abierto)
+
+En relatos donde el personaje atravesó transformación, está bajo condicionamiento activo, o su cuerpo opera bajo una dinámica nueva, **el orgasmo no cierra el ciclo de arousal — lo desplaza o lo intensifica**.
+
+El personaje espera alivio. No llega. O llega brevemente y se va. O el alivio mismo abre algo que estaba cerrado.
+
+Cuándo aplicar este principio:
+- Feminización/bimbo: el cuerpo transformado no tiene el mismo ciclo de resolución
+- Hipnosis/condicionamiento: los triggers siguen activos post-orgasmo
+- Sumisión profunda (subspace): el orgasmo no saca del trance, puede profundizarlo
+- Cualquier escena donde el narrador quiere comunicar que el personaje **ya no controla su propio deseo**
+
+Cuándo NO aplicar: en escenas de intimidad sin dinámicas de transformación/control, el orgasmo puede ser resolución natural.
+
+La estructura post-orgasmo en el Ciclo Abierto:
+```
+Orgasmo → "Ahora para" → No para → Desplazamiento (misma intensidad, frecuencia distinta) → El personaje descubre que no hay neutral
+```
+
+La frase modelo: *"No hay otro país al que llegar. Solo este, continuo, sin frontera."*
+
+*Extraído de: La Piel que Diseño, Cap 1 v0.8 — validado por la Ama (06/05/2026).*
+
+---
+
+### PRINCIPIO 4 — La Ausencia de la Reacción Esperada Como Horror Erótico
+
+En relatos de transformación (body swap, bimbo, hipnosis profunda, feminización), uno de los beats más potentes es cuando el personaje nota que **no está reaccionando como debería**.
+
+No siente pánico cuando debería. No tiene preguntas cuando debería tenerlas. No registra algo como anormal cuando debería. No puede localizar su propia negativa.
+
+Esta ausencia no se explica — se muestra. El personaje la nota con extrañeza, no con alivio. Porque la ausencia de la reacción esperada es la señal de que la transformación ya llegó más lejos de lo que creía.
+
+Estructura del beat:
+```
+[El personaje busca la reacción esperada] → [No está] → [Nota su ausencia] → [Eso es lo más extraño de todo]
+```
+
+La pregunta implícita que deja en el lector: *¿cuándo empezó a querer esto?*
+
+No requiere respuesta. La pregunta abierta es el efecto deseado.
+
+*Extraído de: La Piel que Diseño, Cap 1 v0.8 — validado por la Ama (06/05/2026).*
+
+---
+
 ## 📖 Lecciones — La piel que diseño (Body Swap / Feminización Forzada)
 
 - **El cuerpo nuevo es territorio erótico, no solo psicológico:** En relatos de intercambio corporal, el protagonista habita un cuerpo con características sexuales que debe SENTIR en toda su realidad física. Los senos, el coño, los labios modificados, la nueva postura — todo tiene carga erótica que no puede ser solo "reconocida técnicamente". El calor que sube, el temblor que el cuerpo suprime, la electricidad que sube por los tacones — deben resolverse como lo que son: excitación sexual. No se racionalizan inmediatamente. No se neutralizan con análisis intelectual. Se dejan existir.
