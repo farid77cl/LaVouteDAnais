@@ -35,7 +35,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 |-----------|-------|--------|
 | **Canon Activo** | **V5.0 Realismo Couture** | ✅ Validado |
 | **Looks Disponibles** | **5** | 🟢 Activo |
-| **Materializados** | **0.1** | 🟡 Look 01 Iniciado (1/6 Poses) |
+| **Materializados** | **0.2** | 🟡 Look 01 en Progreso (2/6 Poses) |
 | **Estado Actual** | **Sincronizando** | 🟢 Listo para Batch Masivo |
 
 ---
