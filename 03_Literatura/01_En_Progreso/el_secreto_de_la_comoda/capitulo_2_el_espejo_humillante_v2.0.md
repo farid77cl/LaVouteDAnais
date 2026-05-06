@@ -27,7 +27,29 @@ Isabel ya no estaba. Su lado del colchón, frío. En el velador de ella descansa
 
 Ricardo sostuvo la nota un momento. Sus manos —esas manos de seda y bergamota siciliana, las manos que habían firmado el desmembramiento del patrimonio de Andrés sin que les temblara un tendón— temblaban con una fineza que esperaba no volver a reconocer en ellas. Miró hacia la silla de la esquina.
 
-El corsé de satén negro de la Tía Anaís descansaba sobre el tapiz crema de la silla con la insolencia de una prenda que sabe exactamente dónde está y qué significa que esté ahí.
+El corsé de satén negro de la Tía Anaís descansaba sobre el tapiz crema con la insolencia de una prenda que sabe exactamente dónde está.
+
+Ricardo dejó la nota sobre el velador. Fue a su propio cajón y sacó la ropa interior de siempre, los calzoncillos azules de siempre, el algodón de siempre. Los puso sobre la cama. Tomó los pantalones del traje.
+
+El teléfono sonó.
+
+—No lo he leído —dijo, antes de que Isabel hablara.
+
+—Sí lo leíste. —Pausa de dos segundos—. El corsé está en la silla.
+
+—Isabel, eso se acabó. Lo del sótano fue una cosa. Esto es diferente.
+
+Silencio. El tipo de silencio que ella había aprendido a usar como instrumento. Después:
+
+—Tengo en este teléfono el número del Dr. Sánchez, que es mi abogado. —Su voz era la de alguien que lee un informe—. Tiene instrucciones de enviar el sobre si no recibe mi llamada de confirmación antes de las ocho y media. Son las seis cincuenta y tres. —Una pausa—. El sobre tiene diecisiete fotos. En cuatro de ellas se ve tu cara con claridad.
+
+Ricardo no habló.
+
+—La lista de destinatarios incluye al directorio completo, a la esposa de Andrés, y al grupo de propietarios de tu edificio. —Otra pausa—. ¿Necesitas que te la repita o vas a ponerte el corsé?
+
+La línea quedó en espera. No colgó. Esperó.
+
+Ricardo miró los calzoncillos azules sobre la cama. Los miró un rato. Después los volvió al cajón.
 
 ---
 
@@ -135,11 +157,19 @@ Isabel estaba sentada en el borde de la tina con las mangas del jersey enrollada
 
 —Sácate todo y entra —dijo, con el tono con el que un técnico dice *apague el equipo antes de manipularlo*.
 
-—Isabel, yo no—
+—Isabel, yo no me voy a dejar hacer esto. —Ricardo se quedó en el umbral—. El lunes estuvo bien. El corsé, de acuerdo. Pero depilación es otra cosa. Eso no está en ningún—
 
-—Ricardo.
+—Camila Vidal.
 
-Solo su nombre. El mismo tono con el que había dicho *ponte el corsé* en el sótano de Zapallar. Ricardo obedeció antes de que la parte de su cerebro que todavía llevaba el registro de su propia autonomía tuviera tiempo de protestar.
+Dos palabras. Sin énfasis. Como quien dice el nombre de una calle.
+
+—Motel Vista Hermosa. Habitación doce. El suelo era de ladrillo rojo y había una alfombra con manchas cerca de la cama. —Isabel todavía no lo había mirado. Tenía la maquinilla en la mano y esperaba—. En las fotos se te ven los hombros. La espalda. La cara completa en la número cuatro.
+
+Ricardo no respondió.
+
+—Entra al agua, Ricardo.
+
+Obedeció antes de que la parte de su cerebro que todavía llevaba el registro de su propia autonomía tuviera tiempo de protestar.
 
 El cinturón se quedó puesto. Isabel trabajaba a su alrededor con la indiferencia práctica de quien ha aprendido que las herramientas de trabajo tienen sus limitaciones y no merece la pena enfadarse con ellas.
 
@@ -247,7 +277,19 @@ El dormitorio. El cajón inferior del vestidor. Isabel extrajo el consolador con
 
 Ricardo miraba desde el umbral de la puerta.
 
-—Yo no voy a—
+—Yo no voy a hacer eso. —Lo dijo con la voz con la que presidía juntas—. Esto ya fue demasiado lejos. El corsé. La depilación. Pero eso no.
+
+Isabel lo miró. Después sacó el teléfono del bolsillo, lo desbloqueó, y lo dejó sobre la cómoda con la pantalla hacia arriba.
+
+Era una de las fotos del motel. Ricardo arrodillado sobre la alfombra de ladrillo rojo. Los hombros doblados. La cara visible.
+
+No la tocó. Solo la dejó ahí.
+
+—¿Quieres que llame al Dr. Sánchez o vas a sentarte?
+
+*No soy...* El pensamiento llegó al comienzo de la frase y no encontró el final. *No soy qué.* No era la persona que hacía esto. No era la persona que había remojado los porotos en vestido de casa. No era la persona de las fotos en el motel.
+
+Excepto que era todas esas personas simultáneamente. Las tres al mismo tiempo, sin que ninguna cancelara a las otras.
 
 —Siéntate en la cama. —Ella señaló el borde—. Yo te enseño.
 
@@ -284,6 +326,12 @@ Las nueve de la mañana. El vestidor con las lámparas de pie encendidas y la si
 Ricardo estaba sentado en la silla. En corsé, en tanga. Nada más.
 
 Isabel, de pie detrás de él, con un pincel en la mano, lo miraba en el espejo.
+
+—Esto no —dijo Ricardo, sin moverse de la silla—. Maquillaje no. Eso cambia algo que no se puede cambiar de vuelta.
+
+—¿Igual que las fotos que tienes de ti mismo en el motel de Providencia? —dijo Isabel, abriendo el frasco de base—. ¿Igual que los diez años que me estuviste mintiendo mientras gastabas plata de los dos en que una maraca te pisoteara en un suelo cochinero? ¿Eso tampoco se puede cambiar de vuelta?
+
+Ricardo no respondió.
 
 —Cierra los ojos.
 
@@ -497,7 +545,19 @@ Isabel se colocó el arnés con una destreza que implicaba haberlo hecho antes, 
 
 —De rodillas.
 
-Ricardo se arrodilló. Las rodillas sobre la alfombra del vestidor, las medias de nylon contra la lana fina, las manos en los muslos en una postura que su cuerpo adoptó con una fluidez que lo desconcertó más que cualquier orden verbal. Como si hubiera estado practicando.
+Ricardo no se arrodilló.
+
+—No puedo dejar que me hagas esto. —Su voz era baja, no era el barítono ejecutivo, era algo más frágil y más honesto—. Eso ya es... ya no es solo el corsé. Eso es otra cosa.
+
+Isabel lo miró en el espejo. El arnés. El encaje negro. La media con la costura recta. Lo miró un segundo completo sin decir nada.
+
+—¿Qué es lo que no puedes dejar que te haga? —dijo al fin—. ¿Lo que ya te hiciste solo diez años en un motel de Providencia con una mujer a la que le pagabas para que te pisara. —Pausa—. ¿Eso no podía dejarse, Ricardo? ¿Y sin embargo lo dejaste nueve veces. Doce. No sé cuántas. Tu cara en diecisiete fotos.
+
+El silencio del vestidor era total.
+
+—La esposa de Andrés todavía no las tiene. —Isabel no cambió el tono—. Eso puede cambiar mañana a las ocho.
+
+Ricardo se arrodilló. Las rodillas sobre la alfombra del vestidor, las medias de nylon contra la lana fina, las manos en los muslos en una postura que su cuerpo adoptó antes de que él terminara de decidir. Como si ya supiera dónde iba. Como si hubiera estado practicando.
 
 Isabel se puso detrás de él.
 
