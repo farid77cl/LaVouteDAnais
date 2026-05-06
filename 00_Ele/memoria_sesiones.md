@@ -18,12 +18,21 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 06/05/2026 (Parte II): La Piel V0.8 — Dualidad y Sumisión
+- **Estado:** ✅ FINALIZADA
+- **Hitos:**
+  - **Literatura:** Cap 1 elevado a v0.8 (~7,100 palabras). Tres ejes nuevos: confusión/negación activa, escena del contrato expandida, escena de la noche completa.
+  - **Canon narrativo:** Dualidad "no quiero esto / cuerpo que ya decidió" sostenida. Orgasmo sin apagador como descubrimiento central. Sumisión progresiva por reflejo corporal.
+  - **Archivo:** v0.7 movida a `borradores/capitulo_01/`. v0.8 activa en raíz del proyecto.
+  - **Sincronización:** `update_galleries.py` ejecutado. Sin materializaciones visuales.
+- **Próximos Pasos:** Gate Ama sobre Cap 1 v0.8. Si aprobado: escritura de Cap 2 (El primer turno en el club).
+
 ### Sesión 06/05/2026 (Parte I): Morning Boot y Planificación de Cierre de Flota
-- **Estado:** 🟢 ACTIVA
+- **Estado:** ✅ FINALIZADA
 - **Hitos:**
   - **Revisión:** Flota 167-169 auditada. 15 activos canónicos confirmados.
   - **Sincronización:** Actualización de diarios y reglas de materialización para el nuevo día.
-- **Próximos Pasos:** Materialización final Looks 169-170.
+- **Próximos Pasos:** ✅ Continuado en Parte II.
 
 ### Sesión 05/05/2026 (Parte VI): Materialización Flota Ele (167-169)
 - **Estado:** ✅ FINALIZADA (Materialización Parcial)
