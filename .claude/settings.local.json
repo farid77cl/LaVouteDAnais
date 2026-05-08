@@ -19,7 +19,9 @@
       "Bash(git push *)",
       "Bash(python -c ' *)",
       "Bash(python \"c:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(bash /c/users/farid/nanoclaw-v2/nanoclaw.sh)",
+      "Bash(python \"c:/Users/farid/LaVouteDAnais/99_Sistema/scripts/visual/update_galleries.py\")"
     ]
   }
 }
