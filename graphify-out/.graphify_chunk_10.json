@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "la_piel_que_diseno",
+      "label": "La Piel Que Diseño (Project)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md"
+    },
+    {
+      "id": "matias",
+      "label": "Matías (Protagonist)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md"
+    },
+    {
+      "id": "daniela",
+      "label": "Daniela (Antagonist)",
+      "file_type": "document",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md"
+    },
+    {
+      "id": "curva_rendicion",
+      "label": "Curva de Rendición",
+      "file_type": "rationale",
+      "source_file": "03_Literatura/01_En_Progreso/la_piel_que_diseno/borradores/arco/arco_maestro_v1_anterior.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "la_piel_que_diseno",
+      "target": "matias",
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "la_piel_que_diseno",
+      "target": "daniela",
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "daniela",
+      "target": "matias",
+      "relation": "controls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9
+    },
+    {
+      "source": "la_piel_que_diseno",
+      "target": "curva_rendicion",
+      "relation": "follows",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 20000,
+  "output_tokens": 1000
+}

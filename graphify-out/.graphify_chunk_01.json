@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "prompt_bank_v04",
+      "label": "Banco Prompts V04 (Fetish)",
+      "file_type": "document",
+      "source_file": "00_Ele/bancos_prompts/banco_prompts_v04_fetish.md"
+    },
+    {
+      "id": "prompt_bank_v11",
+      "label": "Banco Prompts V11 (Office)",
+      "file_type": "document",
+      "source_file": "00_Ele/bancos_prompts/banco_prompts_v11_office.md"
+    },
+    {
+      "id": "high_gloss_material",
+      "label": "High-Gloss Materials (Vinyl/PVC)",
+      "file_type": "document",
+      "source_file": "00_Ele/galeria_outfits.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "prompt_bank_v04",
+      "target": "high_gloss_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "prompt_bank_v11",
+      "target": "ele_v3_5",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 12000,
+  "output_tokens": 600
+}

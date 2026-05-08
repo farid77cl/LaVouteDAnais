@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "mandato_tacones",
+      "label": "El Mandato de los Tacones",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/el_mandato_de_los_tacones/El_mandato_de_los_tacones.md"
+    },
+    {
+      "id": "el_collar_de_nancy",
+      "label": "El Collar de Nancy",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/el_collar_de_nancy/el_collar_de_nancy_substack_ready.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mandato_tacones",
+      "target": "stiletto_rule",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 15000,
+  "output_tokens": 700
+}

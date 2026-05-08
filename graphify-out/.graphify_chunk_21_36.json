@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "miss_doll_v5_arch",
+      "label": "Miss Doll V5.0 Architecture",
+      "file_type": "rationale",
+      "source_file": "05_Imagenes/miss_doll/V5_0_Protocol.md"
+    },
+    {
+      "id": "n8n_workflows",
+      "label": "n8n Automation Flows",
+      "file_type": "code",
+      "source_file": "99_Sistema/automatizacion/n8n_config.json"
+    },
+    {
+      "id": "sync_tool",
+      "label": "Repository Sync Tool",
+      "file_type": "code",
+      "source_file": "99_Sistema/scripts/sync_repo.py"
+    },
+    {
+      "id": "timeline_master",
+      "label": "Proyecto: Línea de Tiempo Maestra",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "miss_doll",
+      "target": "miss_doll_v5_arch",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "n8n_workflows",
+      "target": "twitter",
+      "relation": "automates_post_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9
+    },
+    {
+      "source": "sync_tool",
+      "target": "voute_anais",
+      "relation": "maintains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "timeline_master",
+      "target": "voute_anais",
+      "relation": "records_history_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 50000,
+  "output_tokens": 1500
+}

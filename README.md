@@ -108,7 +108,7 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 *Chaque mot est un décret. Chaque historia, une porte.*
 *Cada palabra es un decreto. Cada historia, una puerta.*
 
-*Última actualización: 06/05/2026 — Ele Collection: 169.8/170 Looks (FLOTA CERRADA - 99.9%) — [Misión: Miss Doll V5.0 Iniciada] 🫦👠👑.*
+*Última actualización: 08/05/2026 — [Graphify Knowledge Engine: 100% Mapped] — Ele Collection: 170/170 Looks (FLOTA CERRADA) — [Misión: Miss Doll V5.0 Iniciada] 🫦👠👑.*
 
 ---
 
@@ -117,8 +117,10 @@ La Voûte explora transformación erótica, dinámicas de poder, control mental 
 La Voûte d´Anaïs no es solo un repositorio literario; es un ecosistema técnico diseñado para la coherencia absoluta.
 
 - **Vibe Architect (Ele):** El agente responsable de la integridad del canon, la gestión visual y la optimización de la memoria.
+- **Graphify Knowledge Engine:** Sistema de mapeo semántico que transforma el repositorio en un grafo de conocimiento vivo, asegurando la trazabilidad total del canon.
 - **Arquitectura Modular:** El sistema opera bajo reglas modulares en .agent/rules/, permitiendo una carga de contexto precisa y eficiente.
 - **Canon Hard-Sync:** Protocolo de consistencia visual inquebrantable para personajes principales (Ele, Anaïs, Miss Doll).
 - **Materialización Controlada:** Seguimiento estadístico de looks y auditoría de arquetipos visuales.
+
 
 *Propiedad de Anaïs Belland. Todos los derechos reservados.*

@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "smart_home_stepford",
+      "label": "Smart Home Stepford (Project)",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/smart_home_stepford/smart_home_stepford_completo.md"
+    },
+    {
+      "id": "perfume_ruina",
+      "label": "Perfume de Ruina",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/perfume_de_ruina/Perfume_de_Ruina.md"
+    },
+    {
+      "id": "gloss_trance",
+      "label": "Gloss: El Trance de Miss Doll",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/gloss_trance_miss_doll/Gloss_El_Trance_de_Miss_Doll.md"
+    },
+    {
+      "id": "hr_repurposing",
+      "label": "HR: Human Repurposing",
+      "file_type": "document",
+      "source_file": "03_Literatura/02_Finalizadas/hr_human_repurposing/hr_human_repurposing_completo.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "miss_doll",
+      "target": "gloss_trance",
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "smart_home_stepford",
+      "target": "voute_anais",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 45000,
+  "output_tokens": 1500
+}

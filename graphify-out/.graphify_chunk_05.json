@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "miss_doll",
+      "label": "Miss Doll (The Predator)",
+      "file_type": "document",
+      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+    },
+    {
+      "id": "anais_belland",
+      "label": "Anaïs Belland",
+      "file_type": "document",
+      "source_file": "02_Personajes/01_Principales/anais/ficha_anais.md"
+    },
+    {
+      "id": "bob_platinum",
+      "label": "Platinum Asymmetric Bob",
+      "file_type": "rationale",
+      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+    },
+    {
+      "id": "stealth_protocol",
+      "label": "Stealth Protocol",
+      "file_type": "rationale",
+      "source_file": "02_Personajes/01_Principales/miss_doll/ficha_miss_doll.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "miss_doll",
+      "target": "stealth_protocol",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "miss_doll",
+      "target": "bob_platinum",
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "source": "anais_belland",
+      "target": "miss_doll",
+      "relation": "allied_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 18000,
+  "output_tokens": 900
+}
