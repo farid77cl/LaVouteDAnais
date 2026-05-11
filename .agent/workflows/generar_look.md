@@ -55,6 +55,19 @@ Metas a verificar:
 | 7 | **Académico / Dark Academia** | Uniforme escolar fetish, biblioteca privada | Colegio inglés, biblioteca, sala de estudio |
 | 8 | **Artístico / Performance** | Stage, backstage, cabaret, burlesque | Teatro, backstage, art gallery opening, cabaret |
 
+### Subtipos Bikini (selección aleatoria — NO repetir concepto de los 3 looks previos)
+
+Si la categoría seleccionada es **Bikini**, elegir subtipo al azar entre estos 6. Verificar los últimos 3 looks Bikini en `galeria_outfits.md` y NO repetir el subtipo.
+
+| # | Subtipo | Concepto | Calzado sugerido | Setting |
+|---|---------|----------|-----------------|---------|
+| 1 | **Micro Triangle** | String bikini látex mínimo, máximo cuerpo | Stiletto mule transparente | Arena blanca, piscina infinity |
+| 2 | **Sporty Luxe** | Estructura tipo Mugler swim, cortes geométricos | Sneaker platform vinyl blanco | Yate / piscina de hotel 5* |
+| 3 | **Cutout Siren** | Un solo cutout estratégico asimétrico | Sandalia stiletto de tiras finas | Studio editorial, piso espejo |
+| 4 | **Micro Wrap** | Pareo ultra-corto vinyl + bikini | Sandalia flat transparente | Saliendo del agua, playa privada |
+| 5 | **Metallic Statement** | Laminado metálico (oro, plata, cobre) | Stiletto pump metálico a juego | Terraza de lujo, golden hour |
+| 6 | **Neon Minimal** | Color neón puro (lime, magenta, cyan) | Platform sandal a juego | Pool party, luz UV |
+
 ---
 
 ## Paso 3 — Diseño del Outfit (PRIMERO, antes de cualquier prompt)
@@ -110,7 +123,7 @@ Con el outfit diseñado en Paso 3, ensamblar los **7 prompts**. La fórmula es:
 > ⚠️ **Fuente de verdad:** `00_Ele/canon_visual_ele.md` sección "CONSTANTES DE IDENTIDAD", línea 16.
 
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm / 4.7 inches, standard 8-11 inches).
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
 ```
 
 > 🔒 **Checksum de integridad:** El Bloque A contiene EXACTAMENTE:
@@ -119,9 +132,19 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 > - `navel piercing`
 > - `nipple piercings` (SIN "14k white gold")
 > - `aggressive bimbomakeup` (UNA sola palabra, sin espacio)
-> - `always wearing towering stiletto heels or boots` (CON "or boots")
-> - `(minimum 12cm / 4.7 inches, standard 8-11 inches)` (rango completo)
 > - **NO contiene:** `8k`, `editorial fashion photography`, `high-gloss specularity`, `defined cupid's bow`
+> - **NO contiene cláusula de calzado** — el calzado va SOLO en el BLOQUE B (OUTFIT). Si el DNA contiene `always wearing` o `stiletto heels` → ERROR, eliminar.
+
+> ⛔ **REGLA DE CALZADO (no negociable):**
+> El calzado NO está en el DNA. Está en el OUTFIT BLOCK y debe describirse con:
+> - **Estilo específico** (pump / stiletto mule / sandal open-toe / ankle boot / platform sandal)
+> - **Altura exacta** en cm (ej: 14cm heel, no "high heel")
+> - **Material exacto** (patent leather / perspex / latex / satin)
+> - **Color exacto**
+> - **Detalle de cierre** (ankle strap / buckle / zip / no closure)
+>
+> ❌ Prohibido: "towering heels", "stiletto boots", "high heels" sin especificar.
+> ✅ Correcto: `black patent leather stiletto pump, 14cm heel, pointed toe, no ankle strap`
 
 ### BLOQUE B — [OUTFIT BLOCK]
 
