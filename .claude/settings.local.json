@@ -23,7 +23,8 @@
       "Bash(bash /c/users/farid/nanoclaw-v2/nanoclaw.sh)",
       "Bash(python \"c:/Users/farid/LaVouteDAnais/99_Sistema/scripts/visual/update_galleries.py\")",
       "Bash(python \"99_Sistema/scripts/visual/count_stats.py\")",
-      "Bash(python \"99_Sistema/scripts/visual/update_galleries.py\")"
+      "Bash(python \"99_Sistema/scripts/visual/update_galleries.py\")",
+      "Bash(python \"99_Sistema\\\\scripts\\\\visual\\\\count_stats.py\")"
     ]
   }
 }

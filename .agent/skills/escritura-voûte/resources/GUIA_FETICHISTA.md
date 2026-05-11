@@ -65,19 +65,52 @@ Este documento es el complemento técnico de la `ESTRUCTURA_MAESTRA.md`. Mientra
 ---
 
 ## ⚧️ MÓDULO 4: TRANSFORMACIÓN MTF / SISSIFICATION
-*Foco: Humillación convertida en adoración, feminidad forzada.*
+*Foco: El cuerpo descubierto desde adentro. La traición como motor central.*
 
-### Claves Narrativas
-1.  **El Contraste Físico:** Enfocarse en la "incorrección" del cuerpo masculino original (basto, peludo, rígido) frente a la "perfección" femenina impuesta (suave, lampiño, curvilíneo).
-2.  **La Ropa como Jaula/Hogar:** La lencería o el vestido al principio es una humillación (restrictivo, ridículo), luego se vuelve una segunda piel necesaria.
-3.  **Destrucción del Ego Masculino:** Romper los símbolos de virilidad (frases de "macho", roles de proveedor) y reemplazarlos por roles de "servicio" o "estéticos".
-4.  **Femme Fatale vs. Bimbo:** Decidir si la transformación es hacia una mujer empoderada (dominatriz) o hacia una muñeca vacía (sissy bimbo). En La Voûte, solemos ir hacia la **Muñeca Decorativa**.
+> ⚠️ **Antes de escribir cualquier escena MtF, leer §I + §II + §IV del VADEMECUM_SENSORIAL.md**
 
-### 🪞 Identity Death (Del Códice)
-- **Gaslighting Narrativo:** "Siempre fuiste una muñeca, Mariana... solo estabas soñando que eras Marco."
-- **Overwrite:** El nombre original genera confusión. El nuevo nombre se siente "correcto".
+### El Arco de Cuatro Tiempos (canónico — no saltear pasos)
 
-**Trigger Words:** *Sissy, Trap, Feminization, Hormones, Chastity, Clitty, Training, Deadname, New Name.*
+**1. Descubrimiento físico** — El cuerpo nuevo se registra parte por parte.
+- Orden obligatorio: **PESO → PRESIÓN → ANATOMÍA → PULSO**
+- No entrar al erotismo antes de que el cuerpo esté completamente presente en la conciencia del personaje
+- Ejemplos del canon: "Primero, fue el peso... Luego, una opresión brutal en el pecho..." → después: "un calor húmedo y profundo... un vacío receptivo..."
+
+**2. Traición del cuerpo** — La mente rechaza. El cuerpo ya respondió.
+- Ambos estados coexisten en el MISMO párrafo — no se alternan entre escenas
+- Fórmula: `[mente nombra la aberración] + [cuerpo responde en sentido opuesto] + [personaje observa sin poder detenerlo]`
+- "Su mente de hombre gritaba que aquello era una aberración... Pero su cuerpo de mujer respondía con una humedad creciente"
+
+**3. El espejo** — Verse transformado en un reflejo externo es el catalizador.
+- El reflejo confirma lo que el cuerpo ya sabía pero la mente negaba
+- Debe paralizar al personaje antes de liberarlo: "Te miraste boquiabierto, sintiendo que algo dentro se rompía y se unía al mismo tiempo"
+
+**4. La rendición nombrada** — No se da a entender. Se nombra explícitamente.
+- Una frase corta que sella el estado: "Ya no era Marco. Era la novia."
+- El nombre nuevo se siente correcto ANTES de que el personaje lo acepte conscientemente
+
+### Vocabulario Obligatorio del Canon (no inventar — usar estas palabras)
+| Zona | Vocabulario canónico |
+|------|---------------------|
+| Senos | "peso sólido", "plenitud redonda", "tirón hacia adelante", "descarga desde el pezón", "aprisionados en el vestido" |
+| Genitales femeninos | "calor húmedo y profundo", "vacío receptivo", "pulso sordo y rítmico", "centro de sensibilidad", "herida abierta que pulsaba con energía propia" |
+| Ropa | "prisión de seda", "opresión brutal", "provocación incesante", "semi-arousal perpetuo", "cada movimiento enviaba una ola" |
+| Tacones | "arco forzado", "la postura no era suya: era de ella", "cada clic era latido", "incapaz de apoyar el talón sin ellos" |
+| El circuito | "circuito de traición", "bucle de placer que el cerebro no podía desconectar", "la mente gritaba, el cuerpo respondía" |
+
+### Errores que producen texto genérico (corregir antes de entregar)
+- ❌ Describir la ropa desde afuera → describir desde adentro, desde la presión contra la piel
+- ❌ Resolver la tensión mente/cuerpo en un párrafo → sostenerla al menos 3 párrafos
+- ❌ Evadir la anatomía con eufemismos → nombrarla directamente (clítoris, vagina, polla)
+- ❌ Rendición implícita → siempre se nombra con frase explícita
+- ❌ Espejo sin reacción de parálisis → el reflejo siempre detiene al personaje primero
+
+### 🪞 Identity Death
+- Frase canónica: "Ya no era Marco en el cuerpo de Elena. Era la novia."
+- Gaslighting: "Siempre fuiste una muñeca, Mariana... solo estabas soñando que eras Marco."
+- El nombre nuevo se siente **correcto antes** de que el personaje lo acepte conscientemente
+
+**Trigger Words del canon:** circuito de traición, vacío receptivo, pulso sordo, arco forzado, prisión de seda, centro de calor húmedo, descarga eléctrica, la postura no era suya.
 
 ---
 

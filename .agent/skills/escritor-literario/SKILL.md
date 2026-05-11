@@ -186,8 +186,11 @@ Una vez terminado el borrador, NO entregarlo todavía. Hacer esta pasada:
 
 ## Recursos Técnicos Obligatorios
 
+> ⚠️ **PRIMERO QUE TODO:** leer `VADEMECUM_SENSORIAL.md` para calibrar la voz canónica antes de escribir una sola palabra. Sin esta calibración el texto saldrá genérico.
+
 Leer en este orden antes de escribir:
 
+0. `c:\Users\farid\LaVouteDAnais\.agent\skills\escritura-voûte\resources\VADEMECUM_SENSORIAL.md` — **VOZ CANÓNICA EN ACCIÓN**. Fragmentos reales de los relatos más exitosos del universo. Leer las secciones correspondientes al arquetipo de la escena: MtF → §I+§II+§IV; ropa/corsé → §II+§III; rendición → §IV+§VII; hipnosis → §VI; cualquier escena → §IX siempre.
 1. `c:\Users\farid\LaVouteDAnais\.agent\skills\escritura-voûte\resources\CODEX_PSICOLOGICO.md` — base científica de neurobiología, trauma y dinámicas de poder
 2. `c:\Users\farid\LaVouteDAnais\.agent\skills\escritura-voûte\resources\GUIA_FETICHISTA.md` — mecánicas técnicas por fetiche (bimbo, BDSM, hipnosis, MTF, body horror)
 3. `c:\Users\farid\LaVouteDAnais\.agent\skills\escritura-voûte\resources\BITACORA_TEMPORAL.md` — estado físico y mental del personaje AL INICIO del capítulo (qué tiene puesto, qué modificaciones, qué sabe)

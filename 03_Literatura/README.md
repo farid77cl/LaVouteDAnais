@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 05/05/2026 (La Piel que Diseño — Cap 1 v0.7, CALOR MÁXIMO — erotismo explícito en cada ritual — Pendiente Gate Ama)*
+*Última actualización: 11/05/2026 (La Piel que Diseño — Cap 1 v0.8 / Cap 2 v0.1 — Pendiente Gate Ama)*
 
 ---
 
