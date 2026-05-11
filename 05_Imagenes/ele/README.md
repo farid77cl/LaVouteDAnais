@@ -4,14 +4,6 @@
 
 ---
 
-## 🖤 Look 172: Obsidian Latex Sovereign
-
-| De Pie | Sentada | Perfil | Espalda | Ditzy |
-|:---:|:---:|:---:|:---:|:---:|
-| ![ele_172_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_standing.png) | ![ele_172_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_seated.png) | ![ele_172_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_side_profile.png) | ![ele_172_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_back_view.png) | ![ele_172_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_ditzy.png) |
-
----
-
 ## 🕷️ Look 171: Liquid Copper Bikini
 
 | De Pie | Sentada | Perfil | Espalda | Ditzy |

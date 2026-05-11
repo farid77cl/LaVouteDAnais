@@ -167,8 +167,8 @@
 | **C-2 Monarch Throne** | `C-2.png` |
 | **C-3 Espalda Total** | `C-3.png` |
 | **C-4 Tres Cuartos Arrogante** | `C-4.png` |
-| **C-5 Close Up Fría** | ⏳ *Pending Generation* |
-| **C-6 Throne en Suelo** | ⏳ *Pending Generation* |
+| **C-5 Close Up Fría** | `C-5.png` |
+| **C-6 Throne en Suelo** | `C-6.png` |
 
 ---
 

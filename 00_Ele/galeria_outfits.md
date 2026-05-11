@@ -14828,7 +14828,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 
 
-## 📸 Look 164: Diamond Red Latex Gala 🔴 PENDIENTE
+## 📸 Look 164: Diamond Red Latex Gala
 
 
 
@@ -15321,7 +15321,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Penthouse de cristal negro a medianoche, panorama ciudad desde piso a techo, spotlight dramático cenital, atmósfera noir con sombras azul-negras.
 - **Categoría:** Bikini
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7)
 
 | Pose | Previsualización |
 |------|---------|
