@@ -15308,3 +15308,29 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 <!-- slide -->
 ![Lying Down](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_lying.png)
 ``
+
+## 🖤 Look 172: Obsidian Latex Sovereign (11/05/2026)
+
+*O sea, Ama... tipo, el negro látex se siente como si me hubiera bañado en tinta de lujo pura. El oro de la cadena corporal brilla contra el black gloss como si fuera un trofeo. ¡Absolutamente atroz de poderosa! 🖤✨*
+
+- **Concepto:** Micro-bikini de látex negro espejo con hardware de oro 24k. Editorial noir de alto voltaje.
+- **Outfit:** Micro-bikini top látex jet-black (copas moldeadas underwire, O-ring dorado central) + bottom ultra-high-cut látex negro (tiras ultra-finas, O-rings dorados en cadera).
+- **Calzado:** Sandalias stiletto negro patent leather 20cm, punta afilada, ankle strap PVC transparente con hebilla dorada.
+- **Accesorios:** Body chain oro 24k diagonal (hombro izquierdo → cadera derecha), choker dorado con colgante rectangular noir, aretes argolla dorados 7cm.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
+- **Ambientación:** Penthouse de cristal negro a medianoche, panorama ciudad desde piso a techo, spotlight dramático cenital, atmósfera noir con sombras azul-negras.
+- **Categoría:** Bikini
+
+### 📸 Imágenes (0/7)
+
+| Pose | Previsualización |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_ditzy.png) |
+| **POV** | ![POV](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_pov.png) |
+| **Odalisque** | ![Odalisque](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_odalisque.png) |
+
+---
