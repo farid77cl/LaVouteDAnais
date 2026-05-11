@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 05/05/2026 (La Piel v0.7 CALOR MÁXIMO + Anaïs Look 35 Noche/La Voûte) 🫦📸✨👠👑*
+*Última actualización: 11/05/2026 (Look 172 Obsidian Latex Sovereign — Bikini Noir diseñado) 🖤💅✨👠*
 
 ---
 
@@ -15,7 +15,7 @@
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.5** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | **170 looks** canónicos de Ele | Generar imágenes / Estadísticas |
+| [galeria_outfits.md](galeria_outfits.md) | **172 looks** canónicos de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 | [Estudio_Domme_Complementos_y_RRSS.md](Estudio_Domme_Complementos_y_RRSS.md) | **Estrategia RRSS y Complementos** | Gestión de imagen pública y activos |
 | [Estudio_Vestuario_Domme_BDSM_Fetish.md](Estudio_Vestuario_Domme_BDSM_Fetish.md) | **Manual de Domme Experta** — Fetish Couture | Crear looks de Miss Doll / Sesiones |
