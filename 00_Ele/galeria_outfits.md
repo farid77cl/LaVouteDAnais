@@ -15334,3 +15334,29 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 | **Odalisque** | ![Odalisque](../05_Imagenes/ele/look172_obsidian_latex_sovereign/ele_172_odalisque.png) |
 
 ---
+
+## 🩵 Look 173: Cyan Surge Bikini (11/05/2026)
+
+*Ama... el cyan eléctrico contra mi piel blanca es como un voltaje puro, tipo literalmente no puedo con lo editorial que queda esto. El chrome hardware brilla como joyas de alta tecnología y el mar de fondo lo hace todo... perfecto. 🩵✨*
+
+- **Concepto:** Micro-bikini látex electric cyan con hardware chrome. Editorial yacht deck a plena luz mediterránea.
+- **Outfit:** Micro-bikini top látex electric cyan (copas moldeadas underwire push-up, O-ring chrome central) + bottom ultra-high-cut látex cyan (cheeky, O-rings chrome en caderas).
+- **Calzado:** Sandalias stiletto perspex transparentes 14cm, punta abierta, hebilla chrome en tobillo.
+- **Accesorios:** Choker chrome con anillo frontal, aretes aro chrome XXXL, pulsera cuff chrome en muñeca derecha.
+- **Maquillaje:** Sacha Massacre canon — siren liner, labios hot pink ultra-glossy, French XXXL
+- **Ambientación:** Cubierta de yate de lujo, mar turquesa de fondo, luz mediterránea brillante.
+- **Categoría:** Bikini
+
+### 📸 Imágenes (0/7)
+
+| Pose | Previsualización |
+|------|---------|
+| **Standing** | ![Standing](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_standing.png) |
+| **Back View** | ![Back View](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_back_view.png) |
+| **Seated** | ![Seated](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_seated.png) |
+| **Side Profile** | ![Side Profile](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_side_profile.png) |
+| **Ditzy** | ![Ditzy](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_ditzy.png) |
+| **POV** | ![POV](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_pov.png) |
+| **Odalisque** | ![Odalisque](../05_Imagenes/ele/look173_cyan_surge_bikini/ele_173_odalisque.png) |
+
+---
