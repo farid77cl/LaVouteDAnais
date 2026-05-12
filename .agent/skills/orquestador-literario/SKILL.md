@@ -21,6 +21,7 @@ Todos los prompts de agente viven en:
 | Ideador | `07_Recursos/prompts/ideador.md` |
 | Arquitecto | `07_Recursos/prompts/arquitecto.md` |
 | Personajes | `07_Recursos/prompts/personajes.md` |
+| Diseñador Sensual | `07_Recursos/prompts/disenador_sensual.md` |
 | Escritor | `07_Recursos/prompts/escritor.md` |
 | Crítico | `07_Recursos/prompts/critico.md` |
 | Contador | `07_Recursos/prompts/contador.md` |
@@ -41,6 +42,7 @@ El Agente Escritor DEBE cargar en este orden:
 6. `concepto.md` del proyecto activo — Gancho, Detalle Sensorial Central, Nivel de Explicitad
 7. `arco_maestro_vX.md` del proyecto activo — Arco inviolable + Rima Narrativa Central
 8. `personajes_maestro_vX.md` del proyecto activo — Curva de Vocabulario, Fetiche Quirúrgico, Detalle Físico Ancla
+9. `mapa_erotico_v1.md` del proyecto activo — Curva de excitación, escenas clave diseñadas, vocabulario autorizado
 
 ---
 
@@ -94,6 +96,16 @@ El Orquestador DEBE mantener la carpeta de cada proyecto en este orden:
   - **Fase B (Producción):** Solo tras recibir respuestas. Las fichas incluyen: **Detalle Físico Ancla** (el elemento en cada escena), **Invariante Interno** (lo que no cambia ni en la transformación más profunda), **Curva de Vocabulario** con frases de ejemplo por etapa, **Fetiche Quirúrgico** con estímulo exacto + respuesta exacta + si el personaje es consciente de ello.
 - **Output:** `personajes_maestro_vX.md`
 - **Gate:** *"¿Aprobamos las fichas, Ama? Voz y Fetiche Quirúrgico son los campos más difíciles de corregir después."*
+
+### FASE 3.3: Mapa Erótico (Diseño Sensual — OBLIGATORIA)
+- **Agente:** `07_Recursos/prompts/disenador_sensual.md`
+- **⚡ FLUJO INTERACTIVO — DOS FASES:**
+  - **Fase A (Intake):** El Diseñador Sensual sintetiza lo que ya leyó del arco y fichas + selecciona 3-4 preguntas sobre: fetiche principal, clímax erótico deseado, qué siente el lector, nivel de explicitad, dosificación → STOP, espera respuestas.
+  - **Fase B (Producción):** Solo tras recibir respuestas. Produce el mapa con curva de excitación por escena, diseño detallado de cada momento clave, y vocabulario erótico autorizado.
+- **Por qué existe:** El arco define qué pasa. Las fichas definen quién es. El Mapa Erótico define cómo excita — sin este documento, el Escritor improvisa la temperatura y el relato pierde coherencia sensual.
+- **Output:** `mapa_erotico_v1.md` con curva de excitación (escala 1–5), diseño detallado de escenas clave, clímax erótico, regla de dosificación y vocabulario autorizado.
+- **El Escritor carga este documento en Fase 4 junto con los demás recursos obligatorios.**
+- **Gate:** *"¿Reconoce la Ama este mapa como el relato que tiene en la cabeza?"*
 
 ### FASE 3.5: Escena Piloto (Gate de Temperatura — OBLIGATORIA)
 - **Qué es:** Antes de escribir el capítulo completo, el Escritor produce UNA sola escena de 300–500 palabras que demuestra el nivel de calor objetivo para ESTE capítulo específico.

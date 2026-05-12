@@ -55,6 +55,15 @@ En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`, el orquestador D
 
 ---
 
+## FASE 3.3 — Mapa Erótico (Diseño Sensual)
+- Agente: `07_Recursos/prompts/disenador_sensual.md`
+- Lee: `concepto.md` + `arco_maestro_vX.md` + `personajes_maestro_vX.md`
+- Intake (3-4 preguntas): fetiche principal, clímax erótico, qué siente el lector, nivel de explicitad
+- Produce: `mapa_erotico_v1.md` — curva de excitación por escena (1–5), diseño detallado de momentos clave, clímax erótico, regla de dosificación, vocabulario erótico autorizado
+- **Gate:** *"¿Reconoce la Ama este mapa como el relato que tiene en la cabeza?"*
+
+---
+
 ## FASE 4 — Escritura
 - Agente: `07_Recursos/prompts/escritor.md`
 - Cargar obligatoriamente antes de escribir:
@@ -64,6 +73,7 @@ En cada proyecto de `03_Literatura/01_En_Progreso/[proyecto]/`, el orquestador D
   4. `.agent/skills/escritura-voûte/resources/MEMORIA_ERRORES.md`
   5. `arco_maestro_vX.md` del proyecto
   6. `personajes_maestro_vX.md` del proyecto
+  7. `mapa_erotico_v1.md` del proyecto
 - Mínimo 3,000 palabras. Sin límite artificial superior.
 - **🔴 PERSISTENCIA OBLIGATORIA:** Guardar en disco ANTES de pasar a Fase 5:
   - Ruta activa: `03_Literatura/01_En_Progreso/[proyecto]/capitulo_[N]_[slug]_v0.X.md`
