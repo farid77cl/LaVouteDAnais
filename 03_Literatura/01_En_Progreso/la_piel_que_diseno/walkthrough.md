@@ -17,7 +17,7 @@
 | Fase 3: Personajes | ✅ APROBADO | 2026-05-02 | Fichas Matías + Daniela aprobadas |
 | Fase 3.3: Mapa Erótico | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
-| Fase 4: Escritura | 🟡 EN PROGRESO | 2026-05-02 | Cap 1 v0.1 generado — pendiente auditoría |
+| Fase 4: Escritura | 🟡 EN PROGRESO | 2026-05-12 | Cap 1 v1.0 — reescritura con mapa erótico, pendiente Gate Ama |
 | Fase 5: Auditoría | ⬜ NO INICIADA | — | — |
 | Fase 6: Refinamiento | ⬜ NO INICIADA | — | — |
 | Fase 7: Centinela | ⬜ NO INICIADA | — | — |
