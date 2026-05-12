@@ -29,7 +29,12 @@
       "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\count_stats.py\")",
       "Bash(python \"99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
       "Bash(python3 -c ' *)",
-      "Bash(python \"99_Sistema\\\\scripts\\\\temp_append_l174.py\")"
+      "Bash(python \"99_Sistema\\\\scripts\\\\temp_append_l174.py\")",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(cp \"C:/Users/farid/.claude/skills/anais-outfit-engine/SKILL.md\" \"C:/Users/farid/LaVouteDAnais/.agent/skills/anais-outfit-engine/SKILL.md\")",
+      "Bash(cp \"C:/Users/farid/.claude/skills/anais-outfit-engine/references/dna_v2_3.md\" \"C:/Users/farid/LaVouteDAnais/.agent/skills/anais-outfit-engine/references/dna_v2_3.md\")",
+      "Bash(python \"99_Sistema/scripts/temp_diary_session.py\")",
+      "Bash(del \"99_Sistema\\\\scripts\\\\temp_diary_session.py\")"
     ]
   }
 }
