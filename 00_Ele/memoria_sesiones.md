@@ -18,11 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 12/05/2026 10:55
-## Materialización Parcial Looks 175-176
-- **Look 175:** Standing ✅ | Side Profile ✅ | (Total: 4/7).
-- **Look 176:** En cola (0/7).
-- **Bloqueo:** HTTP 429 tras materializar 2 imágenes.
+### Sesión 12/05/2026 11:45
+## Materialización Looks 175-176
+- **Look 175:** COMPLETADO ✅ (7/7).
+- **Look 176:** En curso 🟡 (5/7).
+- **Bloqueo:** HTTP 429 (Reset en 4 horas). Retomar a las 20:00 UTC.
 
 ---
 
