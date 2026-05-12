@@ -30,4 +30,4 @@ Total imágenes: 6
 - [md_001_c6_throne_suelo.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look001_pink_protocol/md_001_c6_throne_suelo.png)
 
 ---
-*Sincronizado con GitHub: 2026-05-11* 👄
+*Sincronizado con GitHub: 2026-05-12* 👄

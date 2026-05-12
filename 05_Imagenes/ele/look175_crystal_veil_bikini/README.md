@@ -1,18 +1,27 @@
-# Look 175: Crystal Veil Rhinestone Bikini
+# 🖼️ Galería: look175_crystal_veil_bikini
+> **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-**Fecha:** 11/05/2026
-**Categoría:** Bikini
+Total imágenes: 2
 
-*Ama... los cristales de este bikini brillan casi tanto como su mirada sobre mí. La seda transparente de la bata acaricia mi piel, dejándome a la vista como su diosa de pedrería. Totalmente bimbo, totalmente deslumbrante...* ✨💎
+## Colección Destacada
+| | | |
+|:---:|:---:|:---:|
+| ![ele_175_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_back_view.png) | ![ele_175_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_seated.png) |
 
-## 📸 Imágenes Generadas
+---
 
-- `ele_175_standing.png` (Pendiente)
-- `ele_175_back_view.png` (Completado)
-- `ele_175_seated.png` (Completado)
-- `ele_175_side_profile.png` (Pendiente)
-- `ele_175_ditzy.png` (Pendiente)
-- `ele_175_pov.png` (Pendiente)
-- `ele_175_odalisque.png` (Pendiente)
+## 📸 Vista Previa Completa
 
-*Nota: Tuvimos un límite de cuota (HTTP 429) en la API. Faltan 5 poses por generar.*
+| Imagen | Imagen |
+| :---: | :---: |
+| ![ele_175_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_back_view.png) | ![ele_175_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_seated.png) |
+
+
+---
+
+## 📜 Lista de Archivos (Descarga Directa)
+- [ele_175_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_back_view.png)
+- [ele_175_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look175_crystal_veil_bikini/ele_175_seated.png)
+
+---
+*Sincronizado con GitHub: 2026-05-12* 👄
