@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 11/05/2026 (La Piel que Diseño — Cap 1 v0.8 / Cap 2 v0.1 — Pendiente Gate Ama)*
+*Última actualización: 12/05/2026 (La Piel que Diseño — Cap 1 v1.0 con mapa erótico integrado — Pendiente Gate Ama)*
 
 ---
 
@@ -18,7 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **La Piel que Diseño** | 🔵 **Cap 1 — v0.7 — Pendiente Gate Ama** | Body swap, bimbofication, racconto, inversión de poder, carga erótica plena | [Ver Cap 1 v0.7](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v0.7.md) |
+| **La Piel que Diseño** | 🔵 **Cap 1 — v1.0 — Pendiente Gate Ama** | Body swap, bimbofication, racconto, mapa erótico (masturbación + imagen inconsciente + gancho confirmación) | [Ver Cap 1 v1.0](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.0.md) |
 
 ---
 
@@ -32,6 +32,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ---
 
 ### 🕒 Últimas Actualizaciones
+- **12/05/2026:** "La Piel que Diseño" — Fase 3.3 completada (Mapa Erótico v1.0 aprobado). Cap 1 reescrito a v1.0 con escena de masturbación (imagen inconsciente de la verga de Daniela), gancho como confirmación del deseo (no descubrimiento). Orquestador v4.4 ampliado con agente Diseñador Sensual obligatorio.
 - **05/05/2026:** "La Piel que Diseño" — Cap 1 reescritura erótica completa (v0.3→v0.5). Crítico 9.6 EXCELENCIA. Carga erótica: coño presente en 4 momentos acumulativos, gancho final tres beats canónicos (*"Esa huea la quiero adentro"*), vestuario canónico (tanga + vinilo leopardo + tacones 20cm sin sostén + dressing guiado). Prompts de 4 agentes actualizados con reglas body swap.
 - **02/05/2026:** "La Piel que Diseño" — Cap 1 Fases 4-6 completas. Escrito (3,835 palabras), auditado (9.0→9.5 EXCELENCIA en 1 ronda). Bucle de refinamiento cerrado. Pendiente Gate Ama Fase 8.
 - **02/05/2026:** Workflow literario v4.4 completo: agentes interactivos Intake+Producción, 10 racconto distribuidos, Rima Narrativa Central, sistema de transferencia de rasgos por swap.

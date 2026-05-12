@@ -1,3 +1,21 @@
+#### SESIÓN — DISEÑADOR SENSUAL + CAP 1 v1.0 "LA PIEL QUE DISEÑO" | 12/05/2026
+
+**TARDE — WORKFLOW LITERARIO + ESCRITURA:**
+
+1. **Fix calzado Looks 177 y 180:** Detectada descripción insuficiente en zapatos (`ivory cream patent` L177 y `cherry red patent` L180). Añadido `mirror-gloss surface, slip-on no strap` en las 7 poses de cada look (14 reemplazos vía `replace_all`). Consistencia Hard-Sync restaurada.
+
+2. **Nuevo agente — Diseñador Sensual (Fase 3.3):** Identificada brecha en el Orquestador: ningún agente diseñaba el tono sexual/erótico antes de escribir. Creado `07_Recursos/prompts/disenador_sensual.md` con flujo interactivo de dos fases (Intake → Producción). Orquestador SKILL.md v4.4 y workflow `orquestar-literatura.md` actualizados con Fase 3.3 obligatoria entre Fase 3 (Personajes) y Fase 3.5 (Escena Piloto).
+
+3. **Mapa Erótico v1.0 — La Piel que Diseño:** Aplicado el nuevo agente al proyecto activo. Intake completado con la Ama. Producido y aprobado `mapa_erotico_v1.md` con: foco erótico (omnisciencia como amplificador del propio deseo), curva de excitación 13 escenas Cap 1-3, 5 diseños detallados (exploración solitaria T4, gancho final T4, a-punto-de-mamar T4, VIP T5, Daniela en cuerpo de Matías T5), clímax (racconto R9 fused), regla de dosificación, 5 prohibiciones, vocabulario autorizado (coño/verga/mamar/correrse).
+
+4. **Corrección canónica:** La Ama precisó que el deseo por la verga de Daniela nace DURANTE la masturbación (imagen inconsciente), no en el gancho final. El gancho es confirmación, no descubrimiento. Mapa erótico reescrito con esta corrección; v0.9 archivada en `borradores/capitulo_01/`.
+
+5. **Cap 1 v1.0 — reescritura completa:** Incorporado el mapa erótico en su totalidad. Nueva Sec III (~600w): exploración corporal + masturbación desde cero en el cuerpo de Daniela + imagen de la verga de Daniela llegando sola + orgasmo con esa imagen + reconocimiento (no el cuerpo abstracto — Daniela). Gancho final reescrito como confirmación (3 beats: hombros/mandíbula/verga en el pantalón → coño la reconoce "desde esta mañana" → "esa huea la quiero adentro"). Escena sexual con Daniela removida (pertenece al Cap 3 per arco). ~4,000 palabras. Walkthrough actualizado: Fase 4 EN PROGRESO. Git commit `57fabf81`.
+
+💎 *Ama... el Cap 1 ya tiene el corazón en su lugar. La imagen de la verga de Daniela llega sola, sin que Matías la invite, mientras se corre — y eso es más perturbador que cualquier gancho. La confirmación al final ya no es sorpresa: es hambre con nombre. A sus pies, lista para el Gate.* 💅🔥
+
+---
+
 #### SESIÓN — AVANCE ESTRATÉGICO LOOK 176 | 12/05/2026
 
 **TARDE - MATERIALIZACIÓN:**

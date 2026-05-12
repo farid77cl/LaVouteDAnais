@@ -1,13 +1,13 @@
 # 🖼️ Galería: look176_neon_coral_flash
 > **Estado:** ☁️ Almacenamiento Remoto (GitHub)
 
-Total imágenes: 5
+Total imágenes: 6
 
 ## Colección Destacada
 | | | |
 |:---:|:---:|:---:|
-| ![ele_176_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png) | ![ele_176_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png) | ![ele_176_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png) |
-| ![ele_176_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png) | ![ele_176_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png) |
+| ![ele_176_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png) | ![ele_176_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png) | ![ele_176_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_pov.png) |
+| ![ele_176_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png) | ![ele_176_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png) | ![ele_176_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png) |
 
 ---
 
@@ -15,8 +15,8 @@ Total imágenes: 5
 
 | Imagen | Imagen | Imagen | Imagen |
 | :---: | :---: | :---: | :---: |
-| ![ele_176_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png) | ![ele_176_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png) | ![ele_176_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png) | ![ele_176_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png) |
-| ![ele_176_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png) |
+| ![ele_176_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png) | ![ele_176_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png) | ![ele_176_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_pov.png) | ![ele_176_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png) |
+| ![ele_176_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png) | ![ele_176_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png) |
 
 
 ---
@@ -24,6 +24,7 @@ Total imágenes: 5
 ## 📜 Lista de Archivos (Descarga Directa)
 - [ele_176_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_back_view.png)
 - [ele_176_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_ditzy.png)
+- [ele_176_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_pov.png)
 - [ele_176_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_seated.png)
 - [ele_176_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_side_profile.png)
 - [ele_176_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look176_neon_coral_flash/ele_176_standing.png)

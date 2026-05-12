@@ -18,7 +18,21 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 12/05/2026 14:10
+### Sesión 12/05/2026 (Literatura + Fix Visual)
+- **Último Look Ele:** L176 — Neon Coral Flash (6/7 poses, Odalisque pendiente).
+- **Workflow Literario:** Orquestador v4.4 ampliado con Fase 3.3 (Diseñador Sensual). Nuevo agente: `07_Recursos/prompts/disenador_sensual.md`.
+- **La Piel que Diseño:**
+  - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado por la Ama.
+  - Fase 4 🟡 EN PROGRESO — `capitulo_01_la_piel_v1.0.md` escrito (~4,000w). **Pendiente Gate Ama.**
+  - v0.9 archivada en `borradores/capitulo_01/`.
+- **Fix visual:** L177 y L180 — calzado corregido con `mirror-gloss surface, slip-on no strap` (7 poses cada uno).
+- **Pendientes:**
+  - Gate Ama Cap 1 v1.0 de *La Piel que Diseño*.
+  - Completar Look 176 Odalisque (1 pose).
+  - Materializar Looks 175–180 (35 prompts listos).
+  - Gate Ama *El Secreto de la Cómoda* Cap 2 v2.0.
+
+### Sesión 12/05/2026 14:10 (anterior)
 ## Avance Incremental Look 176
 - **Look 175:** COMPLETADO ✅ (7/7).
 - **Look 176:** En curso 🟡 (6/7).
