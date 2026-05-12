@@ -15457,7 +15457,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Luxury yacht deck, Mediterranean afternoon golden light, teak wood
 - **Categoría:** Bikini
 
-### 📸 Imágenes (6/7) 🟡
+### 📸 Imágenes (7/7) ✅
 
 | Pose | Previsualización |
 |------|---------|
@@ -15493,7 +15493,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Opera house marble staircase, warm soft spotlight, red carpet evening gala
 - **Categoría:** Mix (Gala / Red Carpet)
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7) ✅
 
 | Pose | Previsualización |
 |------|---------|
@@ -15529,7 +15529,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
 - **Categoría:** Mix (Street / Cuico-Flaite)
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (7/7) ✅
 
 | Pose | Previsualización |
 |------|---------|

@@ -14,8 +14,11 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 ### 🛠️ Looks de Ele: ESTADO ACTUAL
 - ✅ **Look 173 (Cyan Surge Bikini):** 7/7 Poses ✅.
 - ✅ **Look 174 (Rose Gold Dominion):** 7/7 Poses ✅.
-- ✅ **Look 175 (Crystal Veil Rhinestone Bikini):** 7/7 Poses ✅.
-- ⏳ **Look 176 (Neon Coral Flash):** 6/7 Poses 🟡.
+- ✅ **Look 176 (Neon Coral Flash):** 7/7 Poses ✅.
+- ✅ **Look 177 (Ivory Column):** 7/7 Poses ✅.
+- ✅ **Look 178 (Leopard Vitacura):** 7/7 Poses ✅.
+- ⏳ **Look 179 (Sapphire Serpentine):** 0/7 Poses ❌.
+- ⏳ **Look 180 (Dark Cherry Dominance):** 0/7 Poses ❌.
 
 ---
 
