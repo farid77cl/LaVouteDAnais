@@ -8,7 +8,7 @@ Este documento contiene los bloques de texto maestros para la generación de pro
 
 ## 🖋️ Modificaciones Corporales (Sin Excepciones)
 **DEBES** incluir la visibilidad de los piercings, incluso bajo la ropa:
-> `visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm`
+> `visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm.`
 
 ## 📸 Estética de Imagen (Control de Calidad)
 - **Calidad:** 8k, editorial fashion photography, high-gloss specularity.

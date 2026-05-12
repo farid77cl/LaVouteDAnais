@@ -12,9 +12,8 @@ Este Skill es el motor central para mantener la coherencia estética y técnica 
 Para cada generación de imagen, **DEBES** incluir estos elementos de forma explícita para evitar variaciones:
 
 - **Físico:** Oval face, high cheekbones, grey-green eyes, dark cherry red hair (XXXL extensions, hip-length).
-- **Modificaciones:** Blackwork tattoos (upper back, arms, outer thighs), 14k white gold piercings (navel, nipple piercings pressing through clothing).
+- **Modificaciones:** Blackwork tattoos (upper back, arms, outer thighs), piercings (navel, nipple piercings pressing against and visible under clothing).
 - **Estética:** Dramatic siren liner, glossy hot pink lips, XXXL French nails (5cm, white tips).
-- **Calidad:** 8k, editorial fashion photography, high-gloss specularity.
 
 ## 🛠️ Workflow Operativo
 
@@ -59,7 +58,7 @@ El BLOQUE B se escribe **una sola vez** y se copia idéntico en los 5 prompts. N
 
 **BLOQUE A — ADN Inamovible (siempre idéntico, copiado de [dna_v3_5.md](references/dna_v3_5.md)):**
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, aggressive bimbomakeup, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels (minimum 8-inch), 8k, editorial fashion photography, high-gloss specularity
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
 ```
 
 El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca se escribe de memoria.
