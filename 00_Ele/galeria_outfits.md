@@ -15431,7 +15431,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 6. **POV:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. rhinestone-encrusted micro-bikini, dripping in sparkling crystals, ultra-skimpy triangle top, matching micro string bottom with rhinestone side ties. layered under a floor-length semi-transparent black sheer silk robe, flowing open, draped elegantly over the shoulders. bare legs. 8-inch clear stripper heels with rhinestone ankle straps. heavy crystal chandelier earrings, matching crystal choker. first-person POV shot looking down over own body, chest and XXXL nails in foreground, crystal bikini and sheer robe visible converging to clear stiletto tips, luxurious high-rise penthouse suite bedroom at night, floor-to-ceiling windows, city lights. Rim lighting, high-gloss specularity.
 7. **Odalisque:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. rhinestone-encrusted micro-bikini, dripping in sparkling crystals, ultra-skimpy triangle top, matching micro string bottom with rhinestone side ties. layered under a floor-length semi-transparent black sheer silk robe, flowing open, draped elegantly over the shoulders. bare legs. 8-inch clear stripper heels with rhinestone ankle straps. heavy crystal chandelier earrings, matching crystal choker. full body lying on side, body forming a languid S-curve, sheer robe pooled around her, one arm extended with XXXL nails resting on surface, legs slightly bent, stilettos pointed and visible, luxurious high-rise penthouse suite bedroom at night, floor-to-ceiling windows, city lights. Rim lighting, high-gloss specularity.
 
-### 📸 Imágenes (4/7)
+### 📸 Imágenes (7/7) ✅
 
 | Pose | Previsualización |
 |------|---------|
@@ -15457,7 +15457,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Luxury yacht deck, Mediterranean afternoon golden light, teak wood
 - **Categoría:** Bikini
 
-### 📸 Imágenes (0/7)
+### 📸 Imágenes (5/7) 🟡
 
 | Pose | Previsualización |
 |------|---------|
