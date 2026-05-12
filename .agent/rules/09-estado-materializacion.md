@@ -15,7 +15,7 @@ Este documento es el registro de "memoria viva" sobre el progreso visual del rep
 - ✅ **Look 173 (Cyan Surge Bikini):** 7/7 Poses ✅.
 - ✅ **Look 174 (Rose Gold Dominion):** 7/7 Poses ✅.
 - ✅ **Look 175 (Crystal Veil Rhinestone Bikini):** 7/7 Poses ✅.
-- ⏳ **Look 176 (Neon Coral Flash):** 5/7 Poses 🟡.
+- ⏳ **Look 176 (Neon Coral Flash):** 6/7 Poses 🟡.
 
 ---
 

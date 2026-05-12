@@ -18,11 +18,11 @@
 
 ## 🧿 ESTADO ACTUAL
 
-### Sesión 12/05/2026 11:45
-## Materialización Looks 175-176
+### Sesión 12/05/2026 14:10
+## Avance Incremental Look 176
 - **Look 175:** COMPLETADO ✅ (7/7).
-- **Look 176:** En curso 🟡 (5/7).
-- **Bloqueo:** HTTP 429 (Reset en 4 horas). Retomar a las 20:00 UTC.
+- **Look 176:** En curso 🟡 (6/7).
+- **Bloqueo:** HTTP 429 (Reset final en ~2 horas). Queda la Odalisque.
 
 ---
 
