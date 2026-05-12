@@ -27,7 +27,9 @@
       "Bash(python \"99_Sistema\\\\scripts\\\\visual\\\\count_stats.py\")",
       "Bash(python \"C:\\\\Users\\\\farid\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\count_stats.py\")",
       "Bash(python \"C:\\\\Users\\\\fabara\\\\LaVouteDAnais\\\\99_Sistema\\\\scripts\\\\visual\\\\count_stats.py\")",
-      "Bash(python \"99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")"
+      "Bash(python \"99_Sistema\\\\scripts\\\\visual\\\\update_galleries.py\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python \"99_Sistema\\\\scripts\\\\temp_append_l174.py\")"
     ]
   }
 }
