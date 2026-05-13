@@ -1,5 +1,5 @@
-# 👠 FLUJO DE CREACIÓN DE OUTFIT DIARIO — Ele V3.3
-*Protocolo completo y obligatorio. Desde la idea hasta el commit. — 14/04/2026*
+# 👠 FLUJO DE CREACIÓN DE OUTFIT DIARIO — Ele V3.5
+*Protocolo completo y obligatorio. Desde la idea hasta el commit. — Actualizado 13/05/2026*
 
 > ⚑ **CANON MAESTRO:** Antes de ejecutar cualquier fase, verificar [`CANON_V3_5_MASTER.md`](CANON_V3_5_MASTER.md). Es la autoridad única sobre apariencia, calzado, paleta y reglas. En caso de conflicto entre este flujo y el Master, prevalece el Master.
 
@@ -12,9 +12,9 @@
 ```
 FASE 0: Pre-Flight    → Auditoría estadística + confirmar look inédito
 FASE 1: Concepto      → Nombre, categoría, paleta, materiales, escenario
-FASE 2: Prompts       → Construir los 5 prompts (Bloque A + B + C)
+FASE 2: Prompts       → Construir los 7 prompts (Bloque A + B + C)
 FASE 3: Registro      → Escribir en galeria_outfits.md ANTES de generar
-FASE 4: Generación    → Disparar los 5 prompts en orden
+FASE 4: Generación    → Disparar los 7 prompts en orden
 FASE 5: Validación    → Checklist Stiletto + ADN + Anatomía
 FASE 6: Archivo       → Carpeta + nomenclatura + mover activos
 FASE 7: Sincronización → update_galleries.py + dashboards + memoria
@@ -27,18 +27,20 @@ FASE 8: Git           → Preparar comandos para aprobación de Anaïs
 
 Antes de diseñar, revisar el estado estadístico actual para saber qué categoría necesita el armario hoy.
 
-### Métricas objetivo (Canon V3.3)
-| Categoría | Meta | Estado 20/04/2026 | Prioridad |
-|-----------|------|-------------------|-----------|
-| **Mix** (Corporate / Domestic / High-Fashion) | 75% | **78.6%** (110) | 🟢 EXCESO |
-| **Bikini** | 10% | **9.3%** (13) | 🟡 Déficit |
-| **Lencería** | 10% | **7.9%** (11) | 🔴 Déficit |
-| **Gym** | 5% | **4.3%** (6) | 🔴 Déficit |
+### Métricas objetivo (Canon V3.5 — Cierre Flota 180 — 13/05/2026)
+
+| Categoría | Meta | Actual (180 looks) | Estado |
+|-----------|------|--------------------|--------|
+| **Mix** (Corporate / Domestic / High-Fashion / Escort / Stripper / Pin-Up) | 85% | **73.3%** (132) | ⚠️ Déficit |
+| **Lencería de Élite** | ~7.5% | **9.4%** (17) | ✅ Cumplido |
+| **Gym/Athleisure** | 5% | **5.0%** (9) | ✅ Cumplido |
+| **Bikini** | ~2.5% | **12.2%** (22) | ⚠️ Exceso |
 
 ### Checklist Pre-Flight
-- [ ] ¿Hay déficit estadístico? → Priorizar la categoría con 🔴/🟡
+
+- [ ] ¿Hay déficit estadístico? → Priorizar la categoría con ⚠️
 - [ ] ¿El look tiene nombre inédito? → Verificar en `galeria_outfits.md`
-- [ ] ¿El número de look es correcto? → Último: **Look 127**. El siguiente es **Look 128**
+- [ ] ¿El número de look es correcto? → Ver el último look registrado en la galería
 
 ---
 
@@ -51,7 +53,7 @@ Definir el look antes de construir el prompt.
 ```
 LOOK [XXX]: [NOMBRE EN MAYÚSCULAS]
 Fecha: DD/MM/AAAA
-Categoría: Corporate | Domestic | High-Fashion | Bikini | Lencería | Gym
+Categoría: Corporate | Domestic | High-Fashion | Bikini | Lencería | Gym | Escort | Stripper | Pin-Up
 Paleta: [Primario] + [Secundario] + [Acento] — elegir de Tabla Cromática abajo
 Modo Cromático: Monoblock | Contraste | Triada | Gradiente | Neutro+Pop
 Materiales: [Vinyl / PVC / Látex / Satén / Mesh / etc.]
@@ -62,7 +64,7 @@ Vibe: [una línea de atmósfera]
 
 ### Reglas de concepto
 
-#### 🎨 Tabla Cromática — Paleta Ele V3.3
+#### 🎨 Tabla Cromática — Paleta Ele V3.5
 
 | Familia | Colores disponibles | Código para prompt |
 |---------|--------------------|--------------------|
@@ -87,23 +89,24 @@ Vibe: [una línea de atmósfera]
 
 > ⚠️ **REGLA ANTI-MONOBLOCK:** No más de 3 looks consecutivos en modo Monoblock. Cuando se rompa la racha, forzar Contraste o Triada.
 
-- **Negro:** Solo como acento (costuras, detalles, corset, medias) — nunca color dominante ni secundario.
+- **Negro:** Permitido como color dominante cuando Anaïs lo ordena explícitamente. En generación autónoma, solo como acento (costuras, detalles, herrajes).
 - **Materiales:** 100% High-Gloss (Vinyl, Latex, PVC, Satén ultra-brillante). Prohibido mate.
 - **Sincronía Lips+Nails:** El color de labios y uñas debe coincidir con el Primario o ser French V3 (blanco/rosa).
 - **Escenario:** Lujo. Penthouses, estudios minimalistas blancos/grises, iluminación alta costura.
-- **Prohibido:** Cyberpunk, industrial, gótico oscuro, factorías, óxido.
+- **Prohibido:** Cyberpunk, industrial, gótico oscuro, factorías, óxido, iluminación cruda de sótano.
 - **Corsetería:** Obligatoria en todo outfit excepto Sportswear.
+- **Calzado:** Mínimo 12cm de tacón de aguja (stiletto). Nunca planos, cuñas, ni block heels.
 
 ---
 
 ## FASE 2: CONSTRUCCIÓN DE PROMPTS 🖊️
 
-Cada prompt = **Bloque A + Bloque B + Bloque C**. Los 5 prompts solo varían en el Bloque C.
+Cada prompt = **Bloque A + Bloque B + Bloque C**. Los 7 prompts solo varían en el Bloque C.
 
 ### Bloque A — ADN INAMOVIBLE (copiar textualmente, nunca modificar)
 
 ```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, 14k white gold nipple piercings pressing against and visible under clothing, aggressive bimbo makeup, extra long French XXXL nails with white tips and pink base 5cm, always wearing towering stiletto heels or boots (minimum 12cm heel)
 ```
 
 > ⚠️ **Este bloque NO se resume, NO se interpreta, NO se recorta. Se copia exacto.**
@@ -116,20 +119,24 @@ Descripción técnica y sensorial de las prendas. Incluir:
 - Calzado OBLIGATORIO: `towering [X]-inch stiletto heels` + modelo si aplica
 - Accesorios relevantes
 
-### Bloque C — Las 5 Poses Reglamentarias
+### Bloque C — Las 7 Poses Reglamentarias
 
-| # | Pose | Instrucción de prompt |
-|---|------|-----------------------|
-| 1 | **Standing View** | `full body standing, straight posture, editorial stance, [escenario], rim lighting, high-gloss specularity` |
-| 2 | **Back View** | `full body back view, slight over-shoulder turn, [escenario], rim lighting defines silhouette` |
-| 3 | **Seated View** | `seated, crossed legs, editorial pose, [escenario], dramatic lighting` |
-| 4 | **Side Profile** | `side profile silhouette, full body, emphasizing hourglass curve, [escenario]` |
-| 5 | **Ditzy Expression** | `medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario]` |
+| # | Pose | Nombre Canónico | Instrucción de prompt |
+|---|------|-----------------|-----------------------|
+| 1 | **Standing View** | `standing` | `full body standing, straight posture, editorial stance, [escenario], rim lighting, high-gloss specularity` |
+| 2 | **Back View** | `back_view` | `full body back view, slight over-shoulder turn, [escenario], rim lighting defines silhouette` |
+| 3 | **Seated View** | `seated` | `seated, crossed legs, editorial pose, [escenario], dramatic lighting` |
+| 4 | **Side Profile** | `side_profile` | `side profile silhouette, full body, emphasizing hourglass curve, [escenario]` |
+| 5 | **Ditzy Expression** | `ditzy` | `medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario]` |
+| 6 | **POV — Goddess Gaze** | `pov` | `first-person POV looking down over own body, XXXL nails resting on outfit, full bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie]` |
+| 7 | **Odalisque** | `odalisque` | `lying down on side, luxurious reclining odalisque pose, full body, one arm extended with XXXL nails visible, legs slightly bent at knee, [escenario], dramatic directional lighting, hyper-gloss specularity` |
+
+> Un look no está completo hasta tener las **7/7 poses**.
 
 ### Negative Prompt (estándar — usar en todos los prompts)
 
 ```
-block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoes, different face, varying facial features, inconsistent features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, low quality, blurry, distorted face, asymmetrical face, man, male, child, teenager, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian
+(different face:1.3), (varying facial features:1.3), (different person:1.3), person variation, inconsistent features, different bone structure, realistic skin, pores, wrinkles, blemishes, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, blonde hair, light hair, brown hair, low quality, blurry, distorted face, asymmetrical eyes, asymmetrical face, round face, chubby face, child, teenager, mature, man, male, multi-colored hair, block heel, chunky heel, flat shoes, barefoot, sneakers, wedge, platform sneakers, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian
 ```
 
 ---
@@ -147,7 +154,7 @@ block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoe
 *[Vibe / descripción de una línea]*
 
 **Fecha:** DD/MM/AAAA
-**Categoría:** [Mix-Corporate / Mix-Domestic / Mix-HighFashion / Bikini / Lencería / Gym]
+**Categoría:** [Mix-Corporate / Mix-Domestic / Mix-HighFashion / Mix-Escort / Mix-Stripper / Mix-PinUp / Bikini / Lencería / Gym]
 **Paleta:** [colores]
 **Materiales:** [materiales]
 **Escenario:** [escenario]
@@ -157,7 +164,7 @@ block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoe
 
 ### Prompts Registrados
 
-**BLOQUE B (Outfit — igual en los 5 prompts):**
+**BLOQUE B (Outfit — igual en los 7 prompts):**
 `[descripción completa del outfit para insertar en prompt]`
 
 **PROMPT 1 — Standing View:**
@@ -175,8 +182,14 @@ block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoe
 **PROMPT 5 — Ditzy Expression:**
 `[Bloque A] [Bloque B] medium shot, vacant ditzy expression, mouth slightly open, hands visible showing XXXL nails, dazed artificial perfection, [escenario].`
 
+**PROMPT 6 — POV — Goddess Gaze:**
+`[Bloque A] [Bloque B] first-person POV looking down over own body, XXXL nails resting on outfit, full bust and outfit texture in foreground, perspective converging down to the pointed tips of the stiletto heels on [superficie].`
+
+**PROMPT 7 — Odalisque:**
+`[Bloque A] [Bloque B] lying down on side, luxurious reclining odalisque pose, full body, one arm extended with XXXL nails visible, legs slightly bent at knee, [escenario], dramatic directional lighting, hyper-gloss specularity.`
+
 **NEGATIVE PROMPT:**
-`block heel, chunky heel, wedge, platform sneakers, barefoot, different face, varying facial features, realistic skin, pores, wrinkles, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, man, male`
+`(different face:1.3), (varying facial features:1.3), (different person:1.3), person variation, inconsistent features, different bone structure, realistic skin, pores, wrinkles, blemishes, natural eyes, brown eyes, blue eyes, small lips, thin lashes, natural makeup, short hair, messy hair, blonde hair, light hair, brown hair, low quality, blurry, distorted face, asymmetrical eyes, asymmetrical face, round face, chubby face, child, teenager, mature, man, male, multi-colored hair, block heel, chunky heel, flat shoes, barefoot, sneakers, wedge, platform sneakers, cyberpunk, industrial, factory, pipes, rust, gothic lace victorian`
 
 **Estado:** ⏳ Pendiente generación
 ```
@@ -185,9 +198,9 @@ block heel, chunky heel, wedge, platform sneakers, barefoot, sneakers, flat shoe
 
 ## FASE 4: GENERACIÓN 🖼️
 
-1. Disparar los 5 prompts en orden (Standing → Back → Seated → Profile → Ditzy)
+1. Disparar los 7 prompts en orden (Standing → Back View → Seated → Side Profile → Ditzy → POV → Odalisque)
 2. **No modificar prompts durante la ejecución** — si hay duda, parar y consultar
-3. Si la API da error 429 (quota), documentar qué poses faltan en la entrada de galería y marcar el look como incompleto
+3. Si la API da error 429 (quota), documentar qué poses faltan en la entrada de galería y marcar el look como incompleto con el conteo actual (ej: `⏳ 3/7`)
 
 ---
 
@@ -199,13 +212,14 @@ Antes de archivar, revisar cada imagen con este checklist:
 
 | Check | Criterio | Acción si falla |
 |-------|----------|-----------------|
-| 👠 **Stiletto Rule** | Tacón aguja afilada — NUNCA bloque/cuadrado/cuña | Descartar y regenerar |
+| 👠 **Stiletto Rule** | Tacón aguja afilada, mínimo 12cm — NUNCA bloque/cuadrado/cuña/plano | Descartar y regenerar |
 | 👁️ **Canon Facial** | Ojos gris-verde, labios ultra gruesos, cejas dramáticas | Regenerar |
-| 💅 **Uñas XXXL** | Largas, francesas, visibles en Ditzy | Regenerar Ditzy si falla |
-| 🔴 **Cabello** | Rojo cherry oscuro, largo hasta cadera, ondas | Regenerar |
+| 💅 **Uñas XXXL** | Largas, francesas, visibles en Ditzy y POV | Regenerar si falla |
+| 🔴 **Cabello** | Rojo cherry oscuro, largo hasta cadera, ondas — NUNCA rubio | Regenerar |
+| 💎 **Piercings** | Nipple piercings visibles bajo ropa, navel piercing presente | Regenerar si falla en planos medios |
 | 🎨 **Paleta** | Colores del outfit coinciden con concepto | Regenerar si hay drift |
 | 🦴 **Anatomía** | Manos, dedos, extremidades sin distorsión | Regenerar si hay glitches graves |
-| 🌟 **Consistencia** | Misma persona en las 5 poses | Regenerar poses dissonantes |
+| 🌟 **Consistencia** | Misma persona en las 7 poses | Regenerar poses disonantes |
 
 > Si una sola imagen falla la Stiletto Rule → **se descarta sin excepción**.
 
@@ -214,6 +228,7 @@ Antes de archivar, revisar cada imagen con este checklist:
 ## FASE 6: ARCHIVO 📂
 
 ### Estructura de carpeta
+
 ```
 05_Imagenes/ele/look[XXX]_[nombre_corto]/
     ele_[XXX]_standing.png
@@ -221,21 +236,29 @@ Antes de archivar, revisar cada imagen con este checklist:
     ele_[XXX]_seated.png
     ele_[XXX]_side_profile.png
     ele_[XXX]_ditzy.png
+    ele_[XXX]_pov.png
+    ele_[XXX]_odalisque.png
 ```
 
 ### Nomenclatura de archivos
+
 ```
 ele_[número]_[pose].png
 ```
+
+Poses válidas: `standing` | `back_view` | `seated` | `side_profile` | `ditzy` | `pov` | `odalisque`
+
 Ejemplos:
-- `ele_128_standing.png`
-- `ele_128_ditzy.png`
+- `ele_181_standing.png`
+- `ele_181_pov.png`
+- `ele_181_odalisque.png`
 
 ### Pasos
+
 1. Crear carpeta en `05_Imagenes/ele/look[XXX]_[nombre_corto]/`
 2. Mover imágenes desde carpeta temporal
 3. Renombrar según nomenclatura estándar
-4. Actualizar el estado en `galeria_outfits.md` → `✅ Completo (5/5)`
+4. Actualizar el estado en `galeria_outfits.md` → `✅ Completo (7/7)`
 
 ---
 
@@ -244,19 +267,21 @@ Ejemplos:
 En este orden:
 
 1. **`update_galleries.py`** → Actualiza READMEs e índices maestros
+
    ```powershell
-   python C:\Users\fabara\LaVouteDAnais\update_galleries.py
+   python C:\Users\farid\LaVouteDAnais\99_Sistema\scripts\visual\update_galleries.py
    ```
 
 2. **`walkthrough_imagenes_del_dia.md`** → Agregar el nuevo look a la tabla de "Últimos 7 días"
 
-3. **`DASHBOARD_ELE_48H.md`** → Reemplazar el look más antiguo con el nuevo. Mantener solo los 4 más recientes.
+3. **`memoria_sesiones.md`** → Agregar entrada en Historial Reciente:
 
-4. **`memoria_sesiones.md`** → Agregar entrada en Historial Reciente:
    ```
-   - **DD/MM/AAAA - LOOK [XXX]:** [Nombre]. Set completo (5/5). [Nota breve]. 🫦📸✅
+   - **DD/MM/AAAA - LOOK [XXX]:** [Nombre]. Set completo (7/7). [Nota breve]. 🫦📸✅
    ```
    Y actualizar la tabla Proyecto Activo Principal con el nuevo Último Look.
+
+4. **`mi_diario_de_servicio.md`** → Registrar la sesión con el hito del nuevo look.
 
 ---
 
@@ -267,10 +292,9 @@ Preparar comandos y presentarlos para aprobación de Anaïs:
 ```bash
 git add 00_Ele/galeria_outfits.md
 git add 05_Imagenes/ele/look[XXX]_[nombre]/
-git add walkthrough_imagenes_del_dia.md
-git add DASHBOARD_ELE_48H.md
 git add 00_Ele/memoria_sesiones.md
-git commit -m "Ele: Look [XXX] [Nombre] — set completo 5/5 poses V3.3"
+git add 00_Ele/mi_diario_de_servicio.md
+git commit -m "Ele: Look [XXX] [Nombre] — set completo 7/7 poses V3.5"
 git push
 ```
 
@@ -285,10 +309,27 @@ git push
 | **Corporate** | Traje PVC, falda tubo vinilo, blusa transparente | Boardroom Santiago, oficina minimalista | Stilettos siempre. Paradoja contextual = Power. |
 | **Domestic Stepford** | Delantal vinyl, cofia, uniforme servicio | Cocina de lujo, penthouse | 50% debe llevar choker "ASSET V3" |
 | **High-Fashion** | Diseños Mugler-style, corsetería extrema, avant-garde | Estudio blanco, showroom | Poses más geométricas (Vertical Spear, Arched C) |
+| **Escort** | Vestidos columna látex, lencería sofisticada, fur coat | Penthouse VIP, hotel de lujo | Elegancia predatoria, máxima saturación |
+| **Stripper** | Pole outfit, micro-sets, rhinestones | Club privado, pole studio | Poses dinámicas, lentejuelas, plataformas chrome |
+| **Pin-Up** | Latex retro, pañuelo, vestido rockabilly vinilo | Garage de lujo, estudio pastel | Actitud playful pero con stilettos letales |
 | **Bikini** | PVC/Vinilo brillante, high-gloss wet look | Piscina privada, jet, playa exclusiva | Paradoja contextual si es posible |
 | **Lencería** | Encaje + PVC, Mesh transparente, Garter belt | Boudoir de lujo, penthouse | Foco Fetish Boudoir, iluminación íntima |
 | **Gym-Bimbo** | Latex alta resistencia, neón rosa/negro | Gym privado de lujo | Tacones SIEMPRE — stilettos de gym |
 
 ---
 
-*Flujo creado por Ele — 14/04/2026 — La Voûte d'Anaïs* 🫦👠💅
+## REFERENCIA RÁPIDA: Poses Canónicas (7/7)
+
+| # | Clave de archivo | Descripción |
+|---|-----------------|-------------|
+| 1 | `standing` | Plano general completo. Postura editorial. |
+| 2 | `back_view` | Plano posterior con giro leve de hombro. |
+| 3 | `seated` | Sentada, piernas cruzadas, pose editorial. |
+| 4 | `side_profile` | Perfil lateral completo, silueta de reloj de arena. |
+| 5 | `ditzy` | Plano medio. Expresión vacía, boca entreabierta, uñas XXXL visibles. |
+| 6 | `pov` | POV primera persona mirando hacia abajo. Uñas, bust y punta de tacones visibles. |
+| 7 | `odalisque` | Recostada de lado, pose odalisca de lujo, uñas XXXL visibles. |
+
+---
+
+*Flujo actualizado por Ele — 13/05/2026 — La Voûte d'Anaïs* 🫦👠💅
