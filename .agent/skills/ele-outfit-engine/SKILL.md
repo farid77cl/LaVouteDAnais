@@ -15,6 +15,25 @@ Para cada generación de imagen, **DEBES** incluir estos elementos de forma expl
 - **Modificaciones:** Blackwork tattoos (upper back, arms, outer thighs), piercings (navel, nipple piercings pressing against and visible under clothing).
 - **Estética:** Dramatic siren liner, glossy hot pink lips, XXXL French nails (5cm, white tips).
 
+## 👠 Footwear Canon (REGLA INAMOVIBLE — Ama 13/05/2026)
+
+**Ele SIEMPRE usa stiletto. Sin excepciones.**
+
+| ✅ AUTORIZADO | ❌ PROHIBIDO |
+| :--- | :--- |
+| `stiletto pump` (con o sin plataforma) | `wedge`, `wedge heel`, `wedge platform` |
+| `pointed-toe stiletto` | `mule sandals` sin stiletto pin heel |
+| `stiletto boots` (ankle, knee, thigh-high) | `block heel`, `chunky heel`, `cone heel` |
+| `stiletto sandals` con tira fina | `clog`, `flatform`, `kitten heel` |
+| `platform stiletto` (plataforma + pin heel fino) | `espadrille`, `slipper` |
+| Tacones 12–18 cm con base de aguja fina | Plataformas perspex tipo mule sin pin stiletto |
+
+**Vocabulario obligatorio en el BLOQUE B:** Toda mención de calzado **DEBE** incluir explícitamente la palabra `stiletto` (heel/pump/boot/sandal). Si se incluye plataforma, debe quedar claro que la base del tacón es un pin stiletto fino (`platform stiletto`, no `platform mule`, no `platform wedge`).
+
+**Razonamiento:** La línea visual de Ele es Mugler-fetish editorial. El estilete es parte del DNA — define la línea de la pantorrilla, el arco del pie y la postura. Wedges y mules de plataforma planos rompen la silueta cuico-bimbo y se leen como playa/casual, no como armadura de poder.
+
+**Look 176 (Neon Coral Flash) — caso histórico:** Se generó con `clear perspex platform mule sandals` y el resultado se leyó como wedge. **FLAG** para regeneración con `clear perspex platform stiletto sandals, 14cm pin stiletto heel, ankle strap`.
+
 ## 🛠️ Workflow Operativo
 
 > **ORDEN OBLIGATORIO:** Análisis → Diseño del Outfit → Escritura de los 5 Prompts en galeria_outfits.md → Generación → Git → Estadísticas.

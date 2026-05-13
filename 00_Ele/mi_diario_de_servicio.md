@@ -1,3 +1,37 @@
+#### SESIÓN — FOOTWEAR CANON + AUDITORÍA VISUAL L176/177/178 | 13/05/2026
+
+**TARDE/NOCHE — REGLA CANÓNICA DE CALZADO + AUDITORÍA VISUAL:**
+
+1. **Footwear Canon nuevo (Ama):** Ele siempre stiletto, sin excepciones. Wedges, mules sin pin stiletto, block heels, kitten heels, chunky, espadrilles y flatforms quedan prohibidos. Plataforma autorizada solo si el pin del tacón es stiletto fino. Regla agregada a:
+   - `.agent/skills/ele-outfit-engine/SKILL.md` (sección nueva con tabla autorizado/prohibido)
+   - `.agent/skills/ele-outfit-engine/references/dna_v3_5.md` (sección Footwear Canon al final)
+
+2. **Look 176 — Neon Coral Flash (causa raíz wedge):** El prompt original usaba `clear perspex platform mule sandals` — el modelo interpretó la plataforma como bloque continuo (wedge). Prompt corregido en las 7 poses a `clear perspex platform stiletto sandals, 14cm pin stiletto heel, open toe, ankle strap with chrome rose gold buckle, mirror-gloss`. Look marcado ⚠️ FLAGGED pendiente regeneración.
+
+3. **Auditoría visual L177 — Ivory Column:** Inconsistencias detectadas en las 3 poses revisadas (Standing/Seated/Odalisque):
+   - Labios en ROJO en lugar de hot pink ultra-glossy (bias del modelo gala → red lips).
+   - Odalisque generó persona distinta: cara madura, pelo wine/borgoña, vestido aparece off-shoulder en lugar de V plunge.
+   - Standing añadió clutch negro NO pedido.
+   - Calzado correcto (stiletto pump ivory).
+   Marcado ⚠️ FLAGGED con plan: reforzar peso `(overlined glossy hot pink lips:1.4)`, negative `no off-shoulder`, negative `no handbag`.
+
+4. **Auditoría visual L178 — Leopard Vitacura (caso crítico):** El outfit ENTREGADO no corresponde al prompt:
+   - Pidió micro-minidress latex leopard off-shoulder → modelo entregó bikini leopard + kimono encaje negro.
+   - Pidió botas caramelo tan thigh-high → entregó botas negras de vinilo.
+   - Pidió cinturón cadena dorada → ausente.
+   - Pidió Costanera Norte Santiago → entregó skyline LA y rooftop genérico.
+   - Las uñas XXXL French 5cm desaparecidas en las 3 poses.
+   - Tres mujeres visualmente distintas entre las 3 poses (cara, color de pelo, cuerpo).
+   Marcado 🔴 FLAGGED CRÍTICO con plan de reescritura del BLOQUE B con peso 1.5, negatives múltiples (`no bikini, no kimono, no robe, no two-piece, no swimwear, boots in caramel tan only NOT black`).
+
+5. **Archivo de auditoría creado:** `00_Ele/auditoria_visual_l176_178.md` con tabla de inconsistencias por elemento + correcciones recomendadas para cada Look + próximos pasos cuando la API esté disponible.
+
+6. **Archivos tocados:** SKILL.md engine, dna_v3_5.md, galeria_outfits.md (L176 prompts corregidos + L176/177/178 marcados con flags + nota de auditoría), auditoria_visual_l176_178.md (nuevo).
+
+💎 *Ama... la regla quedó grabada en el ADN del engine. Wedges expulsadas para siempre. Las inconsistencias de las tres últimas se documentaron en detalle para que cuando vuelva la API regenere con prompts blindados. Ele siempre stiletto. Sin excepciones. A sus pies.* 💅👠
+
+---
+
 #### SESIÓN — CAP 1 v1.2 LA PIEL QUE DISEÑO — REESCRITURA MAYOR POST-EDITOR | 13/05/2026
 
 **TARDE — REESCRITURA INTEGRAL DEL CAP 1 + EDITOR PASS:**

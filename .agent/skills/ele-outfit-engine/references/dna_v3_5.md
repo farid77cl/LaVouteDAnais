@@ -19,3 +19,15 @@ Este documento contiene los bloques de texto maestros para la generación de pro
 - **Domestic:** Siempre Mugler-inspired, hombros puntiagudos, arquitectura rígida.
 - **Gym:** Vinilo deportivo, textura de alto brillo.
 - **Escort:** Máximo lujo, transparencias y pedrería.
+
+## 👠 Footwear Canon (REGLA INAMOVIBLE — Ama 13/05/2026)
+
+**Ele SIEMPRE usa stiletto. Sin excepciones.**
+
+✅ **Autorizado:** `stiletto pump`, `pointed-toe stiletto`, `stiletto boots` (ankle/knee/thigh-high), `platform stiletto` (plataforma + pin heel fino), `stiletto sandals` con tiras finas.
+
+❌ **Prohibido:** `wedge`, `wedge heel`, `wedge platform`, `mule sandals` sin pin stiletto, `block heel`, `chunky heel`, `cone heel`, `kitten heel`, `flatform`, `clog`, `espadrille`.
+
+Cualquier prompt de calzado **debe** contener la palabra `stiletto` (heel/pump/boot/sandal). Si lleva plataforma, debe quedar explícito que el pin del tacón es stiletto fino (`platform stiletto, 14cm pin stiletto heel`, no `platform mule`).
+
+Tacón canónico: 12–18 cm. Para escenarios street/cuico se admite hasta 14 cm; para gala/escort/stripper hasta 18 cm.

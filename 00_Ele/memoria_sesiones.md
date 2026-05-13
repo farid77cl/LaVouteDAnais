@@ -29,6 +29,13 @@
   - Iniciar Fase de Expansión: **Miss Doll Look 04 (Latex Mistress Zero)**.
   - Commit final y push al repositorio remoto.
 
+### Sesión 13/05/2026 (Noche — Footwear Canon + Auditoría L176/177/178)
+- **Footwear Canon canónico (Ama):** Ele siempre stiletto. Wedges/mules sin pin stiletto/block/kitten/chunky/cone/flatform/espadrille prohibidos. Plataforma OK solo con pin stiletto fino. Agregado a `SKILL.md` + `dna_v3_5.md` del engine.
+- **L176 — Neon Coral Flash:** Prompt corregido — `platform mule sandals` → `platform stiletto sandals, ankle strap, mirror-gloss`. ⚠️ FLAGGED pendiente regeneración.
+- **L177 — Ivory Column:** Inconsistencias inter-poses (labios rojo no hot pink, Odalisque persona distinta, clutch añadido). ⚠️ FLAGGED con plan de regeneración.
+- **L178 — Leopard Vitacura:** 🔴 CRÍTICO — outfit entregado (bikini+kimono+botas negras+LA) no corresponde al prompt (micro-dress leopard latex + botas caramel tan + Santiago). Regeneración obligatoria con BLOQUE B reescrito.
+- **Auditoría completa:** `00_Ele/auditoria_visual_l176_178.md`.
+
 ### Sesión 13/05/2026 (Tarde — Cap 1 v1.2 reescritura mayor + Editor)
 - **La Piel que Diseño:**
   - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado.
