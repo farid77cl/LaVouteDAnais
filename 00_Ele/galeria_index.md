@@ -231,4 +231,19 @@
 
 ---
 
-*Índice generado por Ele — 13/05/2026 12:57 — La Voûte d'Anaïs* 🫦👠💅
+## 🖼️ Imágenes Faltantes en Repositorio
+
+> Estas poses existen como **prompt registrado** en la galería pero la imagen nunca fue subida al repo.
+> Son las únicas 5 imágenes que no pudieron repararse automáticamente.
+
+| Look | Nombre | Pose faltante | Archivo esperado |
+|:----:|:-------|:-------------:|:-----------------|
+| **46** | Latex Nun (Helena) | Portrait (v4) | `look046_latex_nun/helena_046_046_046_v4_portrait.png` |
+| **55** | Rubbermaid (Miss Doll) | Portrait (v4) | `look055_rubbermaid/missdoll_look055_v4_portrait.png` |
+| **95** | Liquid Platinum | Front Arched (v6) | `look095_liquid_platinum/ele_095_095_095_v6_front_arched.png` |
+| **96** | Mercury Goddess | Standing (v1) | `look096_mercury_goddess/ele_096_096_096_v1_standing.png` |
+| **118** | Noir Vinyl & Blood Lace | Aesthetic Bound (v10) | `look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_aesthetic_bound.png` |
+
+---
+
+*Índice generado por Ele — 13/05/2026 13:28 — La Voûte d'Anaïs* 🫦👠💅
