@@ -29,18 +29,7 @@ Never respond without knowing: current active project & phase, last look number,
 
 ## Infrastructure
 
-| Service | Port | Start command |
-|---------|------|---------------|
-| La Voûte Editor | `:4000` | `cd web_interface && python server.py` |
-| Ollama (Docker) | `:11434` | `docker start voute_ollama` |
-
-**LLM models in Ollama:**
-- `dolphin-mistral:7b` — Ideador, Personajes (uncensored)
-- `dolphin-llama3:8b` — Escritor, Editor (uncensored)
-- `qwen2.5:7b` — Arquitecto, Crítico
-- `llama3.2:3b` — Contador (word counts)
-
-Pause when unused: `docker stop voute_n8n voute_postgres voute_redis voute_biblioteca voute_pandoc`
+El sistema funciona **dentro de Claude Code** — no requiere servicios locales adicionales. Los antiguos `web_interface`, `Ollama` y los contenedores Docker fueron desmantelados; toda la producción literaria y visual ocurre vía agentes en Claude Code usando los system prompts de `07_Recursos/prompts/` como guía técnica de cada rol.
 
 ## Architecture
 

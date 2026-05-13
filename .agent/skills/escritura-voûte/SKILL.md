@@ -1,6 +1,6 @@
 ---
 name: escritura-voûte
-description: Motor de escritura técnica para el universo "La Voûte d'Anaïs". Especializado en BDSM, Hipnosis, Transformación (MtF/Bimbo), Horror Psicológico y localización Chilena. INCLUYE CONTROL DE TIEMPO Y AUTO-APRENDIZAJE.
+description: Motor de escritura del universo "La Voûte d'Anaïs". Produce ficción erótica con voz canónica calibrada contra los relatos más exitosos del universo. Antes de escribir cualquier escena, carga el VADEMECUM_SENSORIAL.md para anclar la voz. Especializado en MtF (circuito de traición, cuerpo descubierto desde adentro), BDSM, Hipnosis/Condicionamiento, Bimbo, Horror Psicológico. Localización chilena. Sistema de correcciones activo.
 ---
 
 # 📜 Protocolo Maestro de Escritura: La Voûte
@@ -11,20 +11,28 @@ Esta skill proporciona la competencia técnica y narrativa para escribir ficció
 ## 🧠 Carga de Contexto (Prioridad 0)
 Antes de generar texto, el agente DEBE consultar y respetar **EN ESTE ORDEN**:
 
-### 📜 PASO 0: CÓDICE PSICOLÓGICO (OBLIGATORIO)
-> ⚠️ **SIN EXCEPCIONES:** Antes de escribir CUALQUIER narrativa, el agente DEBE revisar:
-> `resources/CODEX_PSICOLOGICO.md`
-> Este documento contiene la base científica y técnica de TODOS los temas de La Voûte.
-> **Aplicar obligatoriamente:** Neurobiología (dopamina, subspace), Dinámicas de Poder, Terror Psicológico
-> y Técnicas de Escritura Inmersiva descritas en el Códice.
+### 📖 PASO 0a: VADEMECUM SENSORIAL (PRIMERO — ANTES QUE TODO)
+> ⚠️ **OBLIGATORIO SIN EXCEPCIONES.** Antes de escribir cualquier escena, leer:
+> `resources/VADEMECUM_SENSORIAL.md`
+>
+> **Por qué:** Este archivo contiene la VOZ CANÓNICA en acción — fragmentos reales de los relatos más exitosos del universo. Sin leerlo, el texto saldrá genérico. Con él, el modelo tiene un anchor de voz concreto.
+>
+> **Cómo usarlo:** Identificar el arquetipo de la escena a escribir (MtF, ropa, vergüenza, rendición, hipnosis) y leer las secciones correspondientes del VADEMECUM antes de redactar UNA SOLA palabra de narrativa.
+>
+> **Las secciones críticas:**
+> - Escena MtF → leer § I + § II + § IV
+> - Escena con ropa/corsé/tacones → leer § II + § III
+> - Escena de rendición/entrega → leer § IV + § VII
+> - Escena de hipnosis/condicionamiento → leer § VI
+> - Cualquier escena: leer siempre § IX (lo que esta voz NUNCA hace)
 
-### Recursos Secundarios (Post-Códice):
-1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas que sobrescriben cualquier otra instrucción.
-2.  `resources/CORRECCIONES.md`: Registro de errores con estado. Leer antes de cada sesión — los ⬜ pendientes son deuda activa.
-3.  `resources/ESTRUCTURA_MAESTRA.md`: **Canon Narrativo.** Estructura obligatoria de Tensión/Placer.
-4.  `resources/GUIA_FETICHISTA.md`: **Manual Técnico.** Trigger words y mecánicas específicas por fetiche.
-5.  `resources/BITACORA_TEMPORAL.md`: El estado actual del personaje y la trama.
-6.  **Documentos del Proyecto**: `arco_argumental.md` + **walkthrough.md del proyecto activo** (Lectura OBLIGATORIA para mantener coherencia temática y canónica).
+### 📜 PASO 0b: RECURSOS TÉCNICOS (EN ESTE ORDEN)
+1.  `resources/MEMORIA_ERRORES.md`: Reglas aprendidas — PRIORIDAD ABSOLUTA sobre cualquier otra instrucción.
+2.  `resources/CORRECCIONES.md`: Leer los ⬜ pendientes — son deuda activa.
+3.  `resources/ESTRUCTURA_MAESTRA.md`: Canon Narrativo. Estructura de Tensión/Placer.
+4.  `resources/GUIA_FETICHISTA.md`: Mecánicas técnicas por fetiche.
+5.  `resources/BITACORA_TEMPORAL.md`: Estado actual del personaje y la trama.
+6.  **Documentos del Proyecto**: `arco_argumental.md` + **walkthrough.md del proyecto activo** (OBLIGATORIO para coherencia canónica).
 
 ---
 

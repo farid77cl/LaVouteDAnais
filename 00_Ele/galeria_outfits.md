@@ -4654,9 +4654,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientacion:** Exclusive gentlemen's club stage, red velvet podium, dramatic overhead spotlight, dark background
 - **Categoria:** Mix (Professional Stripper)
 
-### 📸 Imágenes
+### 📸 Imágenes (7/7 — Completo)
 
-> *⏳ Pendiente de materialización — prompts listos*
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look181_magenta_stage_predator/ele_181_odalisque.png) |
+
+</details>
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4684,9 +4691,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientacion:** Ultra-modern luxury kitchen, white Calacatta marble countertops, brushed steel appliances, morning light
 - **Categoria:** Mix (Domestic / Stepford)
 
-### 📸 Imágenes
+### 📸 Imágenes (7/7 — Completo)
 
-> *⏳ Pendiente de materialización — prompts listos*
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_pov.png) | ![Odalisque](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look182_chrome_domestique/ele_182_odalisque.png) |
+
+</details>
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4814,14 +4828,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **ADN Sync:** Piel de porcelana, labios negros glossy, cabello negro azabache.
 
-### 📸 Imágenes (5/5 — Completo)
+### 📸 Imágenes (1/5 — Parcial, era pre-V3.5)
 
 <details>
-<summary>📸 5 poses — ver imágenes</summary>
+<summary>📸 1 pose disponible</summary>
 
-| Standing | Seated | Back View | Portrait | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v4_portrait.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v5_ditzy.png) |
+| Standing |
+| :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_standing.png) |
 
 </details>
 
@@ -4850,7 +4864,9 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 | Standing | Seated | Back View | Portrait | Ditzy |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v4_portrait.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v4_portrait.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+
+</details>
 
 </details>
 

@@ -39,7 +39,9 @@
       "Bash(curl -s --max-time 3 http://localhost:11434/api/tags)",
       "Bash(python3 \"c:/Users/farid/LaVouteDAnais/99_Sistema/scripts/temp_append_looks.py\")",
       "Bash(python \"99_Sistema/scripts/temp_append_looks.py\")",
-      "Bash(git rm *)"
+      "Bash(git rm *)",
+      "Bash(cp __TRACKED_VAR__/.claude/skills/escritura-voûte/SKILL.md c:/Users/farid/LaVouteDAnais/.agent/skills/escritura-voûte/SKILL.md)",
+      "Bash(cp -u '__TRACKED_VAR__/.claude/skills/escritura-voûte/resources/*.md' c:/Users/farid/LaVouteDAnais/.agent/skills/escritura-voûte/resources/)"
     ]
   }
 }
