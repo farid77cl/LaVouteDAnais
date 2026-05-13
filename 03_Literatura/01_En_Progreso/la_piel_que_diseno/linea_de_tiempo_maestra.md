@@ -11,7 +11,7 @@
 | **Años -5 a -1** | Historia de la relación — racconto distribuidos por capítulos |
 | **Día 0 (noche)** | El intercambio de cuerpos (fuera de escena — ocurre antes de Cap 1) |
 | **Cap 1** | Día 1 — el primer día completo en el cuerpo de ella |
-| **Cap 2** | Día 7 aprox. — primera noche trabajando en el club |
+| **Cap 2** | Día 5 ensayo + Día 7 (jueves) — primera noche trabajando en el club |
 | **Cap 3** | Día 14 aprox. — noche VIP, el catálogo, el final |
 
 ---
@@ -31,17 +31,29 @@
 
 ---
 
-## Cap 2 — Día ~7 (Primera noche en el club)
+## Cap 2 — Día ~5 (Ensayo previo)
 
 | Hora | Evento | Función |
 |------|--------|---------|
-| ~18:00 | Preparación ritual — maquillaje de escenario, outfit del club | El cuerpo siendo armado para el trabajo |
-| ~21:00 | Llegada al club — espacio, luces, música | Primer contacto con el mundo al que fue diseñada |
-| ~22:00 | El escenario — pole dance, memoria muscular | El cuerpo sabe moverse sin que él decida |
-| ~23:00 | Los hombres — miradas, acercamientos, dinero | La primera experiencia de ser deseado |
-| ~23:30 | El primer toque — respuesta física sin permiso | **Punto de Inflexión 2** |
-| ~01:00 | Ella (en cuerpo de él) aparece o es sentida | Inversión de poder silenciosa |
-| ~02:00 | Vestuario — quitándose el maquillaje | Gancho final Cap 2 |
+| ~14:00 | Daniela deja a Dani en el club | Primer contacto con el espacio sin público |
+| ~14:00-14:30 | Dos series con Nacho (sin música / con música) | El cuerpo prueba el pole sin presión erótica — automaticidad pura |
+| ~14:30 | "Mañana a las nueve" — confirmación del jueves | Setup del día núcleo del capítulo |
+
+## Cap 2 — Día ~7 (Primera noche en el club, jueves)
+
+| Hora | Evento | Función |
+|------|--------|---------|
+| ~21:00 | Llegada al club — Daniela: "Anda" | Apertura del cap operativo |
+| ~21:00-21:40 | Vestuario — dressing por orden (bandeau, falda, tacones, maquillaje) | Daniela activamente dominante. Mano en el hombro |
+| ~21:40-22:00 | Escenario primer set — pole + R7 + miradas + vergas duras visibles | El cuerpo sabe moverse sin que él decida |
+| ~22:00 | Sebastián Mura — billete, IWC Portofino, dedos retirados | Inversión de autoría reconocida. Primer "casi" |
+| ~22:00-22:15 | Resto del set | El cuerpo busca más miradas |
+| ~22:15-22:30 | Pasillo — orden del privado, resistencia "No puedo", "el cuerpo sabe" | Daniela tumba la resistencia |
+| ~22:30-22:42 | Privado del saco gris — los dos centímetros, "todavía no" | **Punto de Inflexión 2** — el cuerpo decide antes que la mente |
+| ~22:42-22:45 | Pasillo — mano bajo barbilla + "habrías" + el callo | Daniela lee el coño contraído desde la cara |
+| ~22:45-23:00 | Dos canciones más en el escenario | El cuerpo trabajando ya con el centro de gravedad caído |
+| ~23:00 | Vestuario — "El sábado a las nueve" + "Bien" + sale | Marca de propiedad y anticipación del VIP |
+| ~23:00+ | Solo en el vestuario, maquillaje a medio quitar, coño pulsa | Gancho final Cap 2 — "No por el contrato" |
 
 ---
 
