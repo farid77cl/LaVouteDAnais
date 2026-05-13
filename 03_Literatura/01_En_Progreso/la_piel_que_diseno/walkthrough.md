@@ -19,7 +19,8 @@
 | Fase 3.3: Mapa Erótico Cap 2 (específico) | ✅ APROBADO | 2026-05-13 | `mapa_erotico_cap2_v1.md` — Dani canónico (más sumisa/puta/bimbo) · Daniela dominante activa · doble "a punto de" (Sebastián 3.5 + saco gris 4.5) · callo motivo recurrente · clímax explícito relocalizado a Cap 3 casa |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
 | Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
-| Fase 4: Escritura — Cap 2 | 🟡 BORRADOR v1.1 | 2026-05-13 | `capitulo_02_el_escenario_v1.1.md` — Sec I-III comprimidas (grueso en IV+). Daniela dominante explícita desde Sec I (instala "Dani" como nombre). Resistencia "No puedo" tumbada por orden. Privado expandido. Encuentro pasillo: mano de Daniela bajo barbilla + "habrías". Vestuario: Daniela entra + "Sábado a las nueve" + "Bien" canónico. Gancho sábado VIP. v1.0 archivada. |
+| Fase 4: Escritura — Cap 2 | 🟢 POST-TERMÓMETRO v1.2 | 2026-05-13 | `capitulo_02_el_escenario_v1.2.md` — v1.1 + cirugía Editor única (Sebastián Mura 4→1 mención del nombre completo). Termómetro 🟢 EN RANGO (Δ ±0.0). Pendiente Crítico + Centinela + Gate Ama. v1.1 archivada en borradores/capitulo_02/. |
+| Fase 5.5: Termómetro Cap 2 | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/reporte_termometro_v1.md` — Veredicto 🟢 EN RANGO. 3/3 escenas clave entregadas, 6/6 beats post-ritual, 7/7 anticipaciones prohibidas respetadas. Nota cruzada Cap 3: R9 debe ser fused. |
 | Fase 5: Auditoría | ⬜ NO INICIADA | — | — |
 | Fase 6: Refinamiento | ⬜ NO INICIADA | — | — |
 | Fase 7: Centinela | ⬜ NO INICIADA | — | — |

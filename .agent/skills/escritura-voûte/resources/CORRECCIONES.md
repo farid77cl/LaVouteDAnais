@@ -51,3 +51,11 @@
 ```
 | CXX | [Descripción del error] | [Archivo afectado] | [Regla aprendida + referencia SKILL.md] | ⬜ |
 ```
+
+---
+
+## La Piel que Diseño — Auditoría Termómetro Cap 2
+
+| ID | Error | Texto afectado | Aprendizaje | Estado |
+|----|-------|---------------|-------------|--------|
+| LP-T01 | Reporte Termómetro Cap 2 v1.1 marcó 2 déficits léxicos falsos por usar `grep` case-sensitive (omitió capitalizaciones a inicio de oración) | `reporte_termometro_v1.md` Cap 2 | Para conteos de vocabulario en auditorías usar SIEMPRE `grep -i`. Regla en MEMORIA_ERRORES § Auditoría/Conteo. | ✅ |

@@ -206,3 +206,10 @@ No requiere respuesta. La pregunta abierta es el efecto deseado.
 
 - **Gancho final de Cap 1 — los tres beats canónicos (LA PIEL QUE DISEÑO):** La acumulación erótica de los rituales debe cerrarse en tres beats específicos y en este orden: (1) El protagonista ve a su pareja en su propio cuerpo masculino — los hombros, la mandíbula, la verga que ya no tiene — y el coño responde solo, sin autorización mental. (2) Lo encuentra irresistible: no como reconocimiento intelectual sino como calor entre las piernas, como hambre. (3) El pensamiento final llega completo, sin eufemismo, en español chileno directo: cómo se va a sentir su propia verga adentro de él. Esa imagen lo deja sin aire. La frase de cierre: *No es horror. Es hambre.* Este beat es la primera grieta real del arco de rendición — no puede suavizarse ni abstraerse.
   *Contexto: La Ama precisó el gancho final del Cap 1 con este nivel de detalle (05/05/2026).*
+
+## 🔬 Auditoría / Conteo de Vocabulario
+
+- **Para conteos de palabras o frases canónicas en auditorías Termómetro o Crítico, usar SIEMPRE `grep -i` (case-insensitive).**
+  - **Razón:** Las frases que abren oración aparecen capitalizadas (ej. "Sin permiso." vs "sin permiso.") y `grep` case-sensitive las omite.
+  - **Caso histórico:** Reporte Termómetro Cap 2 *La Piel que Diseño* (2026-05-13) marcó dos déficits falsos por este error. Corregido post-emisión.
+  - **Verificación obligatoria:** Antes de declarar déficit en conteo de vocabulario, re-correr con `grep -oEi` o equivalente y comparar.
