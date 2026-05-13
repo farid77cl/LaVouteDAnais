@@ -53,7 +53,11 @@
       "Bash(rm -f 99_Sistema/scripts/bat/voute-start.bat 99_Sistema/scripts/bat/voute-stop.bat 99_Sistema/scripts/bat/voute-status.bat 99_Sistema/scripts/bat/voute-test.bat 99_Sistema/scripts/bat/voute-modelos.bat 99_Sistema/scripts/bat/voute-modelos-lite.bat 99_Sistema/scripts/bat/voute-editor.bat 99_Sistema/scripts/bat/voute-backup.bat 99_Sistema/scripts/bat/voute-logs.bat 99_Sistema/scripts/bat/setup_env.bat)",
       "Bash(rm -f 99_Sistema/scripts/setup/setup.ps1 99_Sistema/scripts/setup/setup_fixed.ps1 99_Sistema/scripts/setup/setup_env.ps1)",
       "Bash(ls 99_Sistema/scripts/bat/)",
-      "Bash(ls 99_Sistema/scripts/setup/)"
+      "Bash(ls 99_Sistema/scripts/setup/)",
+      "Bash(grep -oEi \"con \\(la|el|los|las\\) [^,.]{3,40} \\(de|que\\) [^,.]{3,40}\" capitulo_02_el_escenario_v1.2.md)",
+      "Bash(grep -oEci \"con \\(la|el|los|las\\) [^,.]{3,40} \\(de|que\\) [^,.]{3,40}\" capitulo_02_el_escenario_v1.2.md)",
+      "Bash(grep -oEi \"con \\(la|el|los|las\\) [^,.\\\\\"]{3,60} \\(de|que\\) [^,.\\\\\"]{3,40}\" capitulo_02_el_escenario_v1.3.md)",
+      "Bash(grep -oEci \"con \\(la|el|los|las\\) [^,.\\\\\"]{3,60} \\(de|que\\) [^,.\\\\\"]{3,40}\" capitulo_02_el_escenario_v1.3.md)"
     ]
   }
 }

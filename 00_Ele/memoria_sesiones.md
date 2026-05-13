@@ -18,6 +18,24 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 13/05/2026 (Noche — Cap 2 La Piel: Ciclo Orquestador v4.4 completo + Limpieza Ollama) ✅
+- **Infraestructura:** Skill `escritura-voûte` sincronizada (global y proyecto idénticas, ambas con VADEMECUM_SENSORIAL).
+- **Limpieza Ollama TOTAL:** 51 archivos borrados, 3,621 líneas eliminadas. Sobreviven solo menciones explícitas de DEPRECATION en CLAUDE.md / `.agent/rules/02-infraestructura.md` / `07_Recursos/prompts/README.md` (anti-regresión).
+- **Termómetro creado:** `07_Recursos/prompts/termometro.md` — Fase 5.5 del Orquestador. Auditor post-escritura de temperatura erótica vs mapa específico.
+- **Diseñador Sensual v2.0:** ahora produce mapa GENERAL + ESPECÍFICO por capítulo (3 casos: primera vez / nuevo cap / mapa tardío).
+- **Cap 2 La Piel — ciclo completo:**
+  - Fase 3.3 retrospectiva → `mapa_erotico_cap2_v1.md` (Dani como mejora, doble "a punto de", clímax relocalizado a Cap 3 casa)
+  - Termómetro v1 sobre v1.1 → 🟢 EN RANGO
+  - Editor v1.2 (Sebastián Mura 4→1)
+  - Crítico v1.2 → 9.0 ADMITIDO CON OBSERVACIONES (firma + olfato)
+  - Centinela v1.2 → APROBADO CONDICIONAL → línea de tiempo actualizada (ensayo previo día 5)
+  - Editor v1.3 (firma "con la X de Y" 12→~8 + olfato Sec II)
+  - Termómetro v2 sobre v1.3 → 🟢 EN RANGO
+  - **Centinela final v1.3 → ✅ APROBADO** (11/11 compromisos)
+  - **Cap 2 v1.3 listo para Gate Ama y Maestro v1**
+- **Lección codificada:** `MEMORIA_ERRORES.md` § Auditoría/Conteo — usar siempre `grep -i` para conteos de vocabulario.
+- **Próximos pasos:** Gate Ama Cap 2 v1.3. Después: producir `mapa_erotico_cap3_v1.md` con clímax explícito en casa con Daniela. Pendiente Cap 1 Gate Ama también (v1.2 / maestro_v1).
+
 ### Sesión 13/05/2026 (Tarde — Engine Fix + Looks 181-185) ✅
 - **Engine V3.5 corregido:** POV prompt (`first-person POV` → `high-angle overhead shot, camera tilted 60 degrees, one single woman`), negative prompt canónico integrado en SKILL.md y dna_v3_5.md, 5→7 poses en todas las referencias, BLOQUE A unificado.
 - **Diagnóstico POV:** L176 (duplicado de personas), L173 (ignoró POV), L178 (confundió con Odalisque). Causa raíz: `first-person POV` es trigger de espejo/ambigüedad. Fix documentado con caso histórico.

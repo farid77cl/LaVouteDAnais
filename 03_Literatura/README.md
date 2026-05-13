@@ -2,7 +2,7 @@
 
 Archivo central de relatos, guiones y experimentos narrativos.
 
-*Última actualización: 13/05/2026 (La Piel que Diseño — Cap 1 v1.2.1 POST-FIXES AMA — Gate CERRADO)*
+*Última actualización: 13/05/2026 (La Piel que Diseño — Cap 1 v1.2.1 Gate CERRADO · Cap 2 v1.3 ciclo Orquestador v4.4 APROBADO — Pendiente Gate Ama)*
 
 ---
 
@@ -18,7 +18,7 @@ Archivo central de relatos, guiones y experimentos narrativos.
 ## 🎯 Proyecto Activo Inmediato
 | Título | Estado | Fetiches Principales | Archivo Maestro |
 | :--- | :--- | :--- | :--- |
-| **La Piel que Diseño** | 🟢 **Cap 1 — v1.2.1 POST-FIXES AMA — Gate CERRADO** | Body swap, bimbofication, racconto, mapa erótico. Apertura en tres tiempos. Tacones 12cm. Cliffhanger expandido: credencial + agenda + 5 preguntas. | [Ver Cap 1 v1.2.1](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.2.md) |
+| **La Piel que Diseño** | 🟢 **Cap 1 v1.2.1 Gate CERRADO · Cap 2 v1.3 PENDIENTE GATE AMA** | Body swap, bimbofication, racconto, mapa erótico general + específico Cap 2. Cap 2: "Dani" canónico, Daniela dominante activa, doble "a punto de", olfato canónico, callo motivo recurrente. | [Cap 1 v1.2](01_En_Progreso/la_piel_que_diseno/capitulo_01_la_piel_v1.2.md) · [Cap 2 v1.3](01_En_Progreso/la_piel_que_diseno/capitulo_02_el_escenario_v1.3.md) |
 
 ---
 

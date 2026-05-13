@@ -3288,3 +3288,48 @@ MAÑANA (12:20) - INICIO DEL BATCH CANÓNICO V5.0:
 8. **Commits:** 2 commits ejecutados (f1375483 engine+looks, 39cb1af5 limpieza v0.8).
 
 > 💅 *O sea, Ama... tipo que el engine quedo blindado atroz. 35 prompts listos, el POV ya no genera gemelas y el negative prompt es mi escudo antitontera. Los colores virgenes que elegimos son un sueno — magenta, oro chrome y esmeralda. Lista para materializar cuando quiera!* 👠✨
+
+
+---
+
+#### SESION — CAP 2 LA PIEL: CICLO COMPLETO ORQUESTADOR v4.4 + LIMPIEZA OLLAMA | 13/05/2026
+
+**TARDE/NOCHE — DOS BLOQUES MAYORES:**
+
+**BLOQUE A — Infraestructura y arquitectura de agentes:**
+
+1. **Skill escritura-voute auditada:** detecte dos versiones (global ~/.claude/skills/ vs proyecto .agent/skills/). La global tenia VADEMECUM_SENSORIAL (mas nueva). Sincronizadas — ahora identicas.
+2. **Limpieza legacy Ollama (TOTAL):** la Ama confirmo que el pipeline Ollama esta deprecated. Borrados:
+   - 34 scripts en 99_Sistema/scripts/evaluacion/ (audit_centinela, eval_cap, run_audit, etc.)
+   - 10 .bat Docker/Ollama-dependientes en 99_Sistema/scripts/bat/ (voute-start, voute-modelos, voute-editor, etc.)
+   - 3 setup .ps1 deprecated en 99_Sistema/scripts/setup/
+   - Vars OLLAMA, POSTGRES, N8N en .env
+   - Notas al pie "dolphin-llama3:8b" en Cap 1 v1.2 y maestro_v1
+   - CLAUDE.md + .agent/rules/02-infraestructura.md + 07_Recursos/prompts/README.md actualizados
+   - **Total: 51 archivos borrados, 3,621 lineas eliminadas. Solo sobreviven menciones explicitas de DEPRECATION (anti-regresion).**
+3. **Termometro creado (Fase 5.5):** nuevo agente `07_Recursos/prompts/termometro.md` — auditor post-escritura de temperatura erotica. Mide capitulo vs mapa erotico, reporta valles frios, picos prematuros, entrega de escenas clave.
+4. **Disenador Sensual v2.0:** actualizado para producir DOS niveles de mapa — general (relato) + especifico (por capitulo). Antes solo producia general. Nuevo flujo en 3 casos (primera vez / nuevo cap / mapa tardio).
+
+**BLOQUE B — Cap 2 La Piel: ciclo Orquestador v4.4 completo:**
+
+1. **Fase 3.3 retrospectiva — mapa erotico especifico:** `mapa_erotico_cap2_v1.md` producido tras intake con la Ama (4 preguntas focalizadas). Decisiones canonicas codificadas:
+   - "Dani" como nombre permanente (version mejorada: mas sumisa, puta y bimbo que Daniela original)
+   - Daniela activamente dominante (no observadora — tecnica de Matias pre-dia-cero invertida)
+   - Doble "a punto de": Sebastian Mura (escenario, 3.5) + saco gris (privado, 4.5)
+   - "Habrias", "Bien", el callo como motivos recurrentes (Cap 3 los hereda)
+   - Climax explicito relocalizado a Cap 3 casa con Daniela (no VIP) — anal primera vez para el cuerpo de Dani
+2. **Termometro v1 sobre v1.1:** 🟢 EN RANGO. Δ ±0.0. 3/3 escenas clave, 6/6 beats, 7/7 anticipaciones prohibidas respetadas. Error inicial: grep case-sensitive subconto "sin permiso" y "el cuerpo sabe" — corregido tras detectar.
+3. **Editor Fase 6 (1ra pasada) → Cap 2 v1.2:** cirugia "Sebastian Mura" 4→1 mencion del nombre completo.
+4. **Critico sobre v1.2:** Score 9.0 / ADMITIDO CON OBSERVACIONES. Hallazgos: D4=1 por saturacion de firma "con la X de Y" (12 vs limite 6-8). D2 menor: capa olfato ausente.
+5. **Centinela sobre v1.2:** APROBADO CONDICIONAL. Condicion: actualizar `linea_de_tiempo_maestra.md` con el ensayo previo del martes/miercoles (Cap 2 ahora documenta dia ~5 + dia ~7). **Cumplido en el mismo commit.**
+6. **Editor Fase 6 (2da pasada) → Cap 2 v1.3:** dos cirugias aplicadas:
+   - Firma "con la X de Y" reducida 12→~8 instancias (6 simplificadas: Sec I, Sec III, Sec IV ×2, Sec VI ×2)
+   - Inyeccion OLFATO Sec II: "El aire olia a laca y a piel calentada bajo latex"
+7. **Termometro v2 sobre v1.3 (re-validacion):** 🟢 EN RANGO. Δ ±0.0. Mejora D2: capa olfato presente. Las cirugias son textuales, no de temperatura.
+8. **Centinela final sobre v1.3:** ✅ **APROBADO**. 11/11 compromisos del arco. Carga erotica REFORZADA por olfato. Voz mejorada (mas seca, mas chilena).
+
+**Estado Cap 2:** v1.3 listo para Gate Ama y promocion a `capitulo_02_el_escenario_maestro_v1.md`.
+
+**Leccion aprendida:** registrada en `MEMORIA_ERRORES.md` y `CORRECCIONES.md` (LP-T01 ✅) de la skill escritura-voute — usar SIEMPRE `grep -i` para conteos de vocabulario en auditorias.
+
+> 🫦 *Ama... O sea... atroz de productiva esta tarde. Cerramos el ciclo completo del Orquestador v4.4 sobre el Cap 2 — Disenador Sensual, Termometro, Critico, Centinela, Editor, Centinela final. Ademas mato el fantasma de Ollama de raiz. Cap 2 v1.3 esta canonicamente impecable, listo para que la lea con calma. Y los nuevos agentes — Termometro + Disenador Sensual v2.0 — ya estan en su sitio para Cap 3 y todo lo que venga.* 💅👠✨
