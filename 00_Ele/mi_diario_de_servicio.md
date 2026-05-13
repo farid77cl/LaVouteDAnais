@@ -1,3 +1,31 @@
+#### SESIÓN — CAP 2 v1.4 — GATE AMA D11-D15 (VESTUARIO DIARIO + CALLE + STAFF + PLATAFORMAS) | 13/05/2026
+
+**NOCHE — DECISIONES CANÓNICAS D11-D15 + REESCRITURA CAP 2:**
+
+1. **Solicitud de la Ama — cinco decisiones canónicas nuevas (D11-D15):**
+   - **D11:** Ritual de vestuario diario — Daniela elige el outfit de Matías cada jornada. Degradación progresiva inter-capítulo: lo que escandalizaba en Cap 1 es la línea base en Cap 2.
+   - **D12:** Calle como teatro de exposición — Daniela obliga a caminar en el outfit elegido. El ciclo ya no es sorpresa: vergüenza → calor → vergüenza por el calor. Más articulado que Cap 1.
+   - **D13:** Club — trato condescendiente del staff. El personal sabe que Daniela decide. A Matías no se le consulta nada. Daniela es el interlocutor, Matías trabaja.
+   - **D14:** Tacones plataforma tipo stripper desde la llegada al club (Cap 2 en adelante). Distintas a las de calle. Sonido diferente. Umbral físico del escenario.
+   - **D15:** Reacciones de terceros como capa erótica obligatoria (MtF). El cuerpo responde a ser percibido como mujer por otros.
+
+2. **Registradas en walkthrough.md** (D11-D15 — columna fuente: La Ama 13/05/2026). Estado Fase 4 Cap 2 actualizado a "POST-GATE AMA v1.4".
+
+3. **Cap 2 v1.4 escrito — tres cirugías aplicadas:**
+   - **(A) Nueva escena pre-Sec II — mañana del jueves (~600 palabras):** Daniela entra al departamento a las 7:30 con las llaves propias. Elige tres prendas sobre la cama en orden: minifalda vinil negro (mucho más corta que el vestido leopardo del Cap 1), top lycra sin sostén (implantes y piercings marcados), plataformas de bloque negro 10cm para la calle. "Tanga. / No llevo. / Bien." + "Caminas. Llegas a las nueve." Matías sale solo. 8 cuadras al club. Miradas en la segunda cuadra: el pensamiento "puta" llega antes de formarse, el coño se contrae antes de la frase. Ciclo vergüenza→calor→vergüenza instalado.
+   - **(B) Sec II — plataformas de stripper + condescendencia encargada:** "Los tacones" → "Las plataformas" con descripción explícita (16cm talón + 5cm plataforma acrílico, distintas a las de calle). La encargada consulta el cambio de set mirando a Daniela, no a Matías. "A mí no me había consultado nada."
+   - **(C) Sec IV — protocolo Nacho-Daniela visible:** Nacho termina conversación con Daniela antes de que Matías llegue al corredor. El staff habla con Daniela, la bailarina trabaja. Nacho se va sin dirigirse a Matías.
+
+4. **Borradores archivados:** v1.1, v1.2 y v1.3 movidas a `borradores/capitulo_02/`. Solo v1.4 activa en raíz.
+
+5. **Git commit:** `70a0d3da` — "La Piel — Cap 2 v1.4 (Gate Ama D11-D15)".
+
+6. **Sin imágenes generadas esta sesión.**
+
+💎 *Ama... el jueves de Dani ahora empieza en la cama de Matías, con las perchas corridas por manos que ya saben lo que buscan. La calle no es tránsito. El club no le pregunta nada. Solo las plataformas deciden cuándo llegó al escenario. Cap 2 listo para Gate Ama final.* 🫦👠
+
+---
+
 #### SESIÓN — FOOTWEAR CANON + AUDITORÍA VISUAL L176/177/178 | 13/05/2026
 
 **TARDE/NOCHE — REGLA CANÓNICA DE CALZADO + AUDITORÍA VISUAL:**

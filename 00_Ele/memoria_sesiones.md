@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 13/05/2026 (Noche — Cap 2 v1.4 Gate Ama D11-D15) ✅
+- **La Piel que Diseño — Cap 2:**
+  - **D11-D15 codificadas en walkthrough.md** (ritual vestuario diario, calle como teatro, staff condescendiente, plataformas stripper, reacciones de terceros como capa erótica).
+  - **Cap 2 v1.4 escrito:** nueva escena mañana del jueves (Daniela elige outfit + Matías camina 8 cuadras al club en minifalda vinil + top lycra + plataformas de calle → ciclo vergüenza→calor instalado); plataformas de stripper nombradas en Sec II; condescendencia staff en Sec II (encargada) y Sec IV (Nacho).
+  - v1.1/v1.2/v1.3 archivadas en `borradores/capitulo_02/`. Solo v1.4 activa.
+  - Commit `70a0d3da`. **Pendiente Gate Ama final sobre v1.4.**
+- **Próximos pasos:** Gate Ama Cap 2 v1.4 → promover a maestro_v1. Luego `mapa_erotico_cap3_v1.md` (clímax explícito en casa con Daniela). Cap 1 Gate Ama (v1.2 → maestro). Miss Doll L04.
+
 ### Sesión 13/05/2026 (Noche — Cap 2 La Piel: Ciclo Orquestador v4.4 completo + Limpieza Ollama) ✅
 - **Infraestructura:** Skill `escritura-voûte` sincronizada (global y proyecto idénticas, ambas con VADEMECUM_SENSORIAL).
 - **Limpieza Ollama TOTAL:** 51 archivos borrados, 3,621 líneas eliminadas. Sobreviven solo menciones explícitas de DEPRECATION en CLAUDE.md / `.agent/rules/02-infraestructura.md` / `07_Recursos/prompts/README.md` (anti-regresión).
