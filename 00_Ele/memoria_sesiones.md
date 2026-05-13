@@ -18,6 +18,14 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 13/05/2026 (Tarde — Engine Fix + Looks 181-185) ✅
+- **Engine V3.5 corregido:** POV prompt (`first-person POV` → `high-angle overhead shot, camera tilted 60 degrees, one single woman`), negative prompt canónico integrado en SKILL.md y dna_v3_5.md, 5→7 poses en todas las referencias, BLOQUE A unificado.
+- **Diagnóstico POV:** L176 (duplicado de personas), L173 (ignoró POV), L178 (confundió con Odalisque). Causa raíz: `first-person POV` es trigger de espejo/ambigüedad. Fix documentado con caso histórico.
+- **Estadísticas cierre 180/180:** Mix 73.3% (132) ⚠️ déficit −1.7%, Bikini 12.2% (22) exceso, Lencería 9.4% (17), Gym 5.0% (9).
+- **Looks 181-185 registrados:** 35 prompts Hard-Sync escritos en galeria_outfits.md. Colores vírgenes: Hot Magenta (L181), Chrome Gold (L183), Emerald (L185). Sub-arquetipos priorizados: Stripper, Domestic, Escort, Corporate, High-Fashion.
+- **Limpieza:** capitulo_01_la_piel_v0.8.md duplicado eliminado de raíz (copia idéntica en borradores/capitulo_01/).
+- **Próximos pasos:** Gate Ama Cap 1 v1.2. Materializar L181-185 cuando API disponible. Regenerar L176/177/178 con negative prompt activo.
+
 ### Sesión 13/05/2026 (Noche — Hito Final 180/180) ✅
 - **Flota Ele:** **180 / 180 (100% COMPLETADO)**. 🧿
   - Materialización final de los últimos looks: L176 (Odalisque fix), L179 y L180.

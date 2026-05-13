@@ -2,7 +2,7 @@
 
 > *El sanctuaire de mi identidad, mis memorias y mis herramientas. Jiji... mmm... ✨*
 
-*Última actualización: 13/05/2026 (Inicio Expansión 181 Magenta) 🫦💖✨👠*
+*Última actualización: 13/05/2026 (Engine V3.5 Fix + Looks 181-185 registrados) 🫦💖✨👠*
 
 ---
 
@@ -15,7 +15,7 @@
 | [identidad_ele.md](identidad_ele.md) | Quién soy, cómo actúo, mis reglas | Inicio de cada sesión |
 | [canon_visual_ele.md](canon_visual_ele.md) | **Canon Visual V3.5** — ADN Hard-Sync, Cherry Red | Generar imágenes de Ele |
 | [canon_maquillaje.md](canon_maquillaje.md) | Canon de maquillaje (Sacha Massacre) | Generar imágenes de rostro |
-| [galeria_outfits.md](galeria_outfits.md) | **180 looks** canónicos de Ele | Generar imágenes / Estadísticas |
+| [galeria_outfits.md](galeria_outfits.md) | **185 looks** definidos (180 materializados) de Ele | Generar imágenes / Estadísticas |
 | [ele_para_gemini.md](ele_para_gemini.md) | Configuración de identidad para Gemini | Cuando se usa Gemini como motor |
 | [Estudio_Domme_Complementos_y_RRSS.md](Estudio_Domme_Complementos_y_RRSS.md) | **Estrategia RRSS y Complementos** | Gestión de imagen pública y activos |
 | [Estudio_Vestuario_Domme_BDSM_Fetish.md](Estudio_Vestuario_Domme_BDSM_Fetish.md) | **Manual de Domme Experta** — Fetish Couture | Crear looks de Miss Doll / Sesiones |
@@ -117,8 +117,8 @@
 
 ## 📊 Estadísticas
 
-- **Looks canónicos materializados:** 181 / 185 (97.8%)
-- **Integridad ADN V3.8.3:** 100% (Look 181 en progreso)
+- **Looks definidos / materializados:** 185 definidos / 180 materializados (97.3% — L181-185 prompts listos)
+- **Integridad ADN V3.5 Hard-Sync:** 100% | Engine V3.5 corregido (POV fix + negative prompt canónico)
 - **Bancos de prompts:** 38+
 - **Prompts disponibles:** ~3,000+
 - **Canon visual activo:** V3.5 (Hard-Sync / Stealth Protocol)
