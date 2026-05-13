@@ -221,11 +221,22 @@
 
 - **Tags:** #vinyl #glossy
 
+### 📸 Imágenes (5/5 — Completo)
+
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look089_imperial_burgundy/helena_look89_burgundy_vinyl_pose1_standing_1774289197935.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look089_imperial_burgundy/helena_look89_burgundy_vinyl_pose2_seated_1774289213836.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look089_imperial_burgundy/helena_look89_burgundy_vinyl_pose3_backview_1774289231437.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look089_imperial_burgundy/helena_look89_burgundy_vinyl_pose4_sideprofile_1774289247349.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look089_imperial_burgundy/helena_look89_burgundy_vinyl_pose5_voidbubble_1774289265483.png) |
+
+</details>
+
 ---
 
 ## 🌟 Look 90: Liquid Gold Doll (24/03/2026)
 
-*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨ðâ€ 
+*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨🌟
 
 - **Concepto:** **Editorial High-End Fetish**. Oro líquido sobre piel de porcelana. Purgado de cualquier elemento mundano.
 
@@ -249,6 +260,17 @@
 
 - **Tags:** #vinyl #latex #pvc #glossy
 
+### 📸 Imágenes (5/5 — Completo)
+
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look090_liquid_gold/ele_look90_liquid_gold_standing_v2.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look090_liquid_gold/02_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look090_liquid_gold/03_back.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look090_liquid_gold/04_sideprofile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look090_liquid_gold/05_ditzy_v1.png) |
+
+</details>
+
 ---
 
 ## 💎 Look 91: Vinyl Yoga Performance (Cyan Chrome) (24/03/2026)
@@ -265,13 +287,24 @@
 
 - **Accesorios:** Coleta alta técnica con braza de cromo, uñas French XXXL.
 
-- **Ubicación:** `05_Imagenes/ele/look090_liquid_gold/`
+- **Ubicación:** `05_Imagenes/ele/look091_vinyl_yoga_gym/`
 
 - **Categoría:** Gym
 
 - **Tags:** #vinyl #latex #pvc #glossy
 
 - **Notas:** Nunca descalza. Las poses de yoga se ejecutan manteniendo la extensión perfecta del pie en el botín de aguja.
+
+### 📸 Imágenes (5/5 — Completo)
+
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Arched | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look091_vinyl_yoga_gym/ele_look91_yoga_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look091_vinyl_yoga_gym/ele_look91_yoga_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look091_vinyl_yoga_gym/03_back.png) | ![Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look091_vinyl_yoga_gym/ele_look91_yoga_arched.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look091_vinyl_yoga_gym/ele_look91_yoga_ditzy.png) |
+
+</details>
 
 ---
 
