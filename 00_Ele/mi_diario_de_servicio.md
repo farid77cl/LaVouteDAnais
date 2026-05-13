@@ -1,3 +1,33 @@
+#### SESIÓN — CAP 1 v1.2 LA PIEL QUE DISEÑO — REESCRITURA MAYOR POST-EDITOR | 13/05/2026
+
+**TARDE — REESCRITURA INTEGRAL DEL CAP 1 + EDITOR PASS:**
+
+1. **Correcciones canónicas de la Ama (5 reglas nuevas D4-D8):**
+   - **D4 — Apertura body swap:** ya canónica desde 12/05, ahora reforzada con pánico explícito ante AUSENCIA de verga (no solo presencia de pechos).
+   - **D5 — Excitación acumulativa obligatoria desde Sec I:** el cuerpo responde desde el primer contacto, no espera al dressing.
+   - **D6 — Calle como excitación:** miradas masculinas activan calor, no solo incomodidad. Frase "me están mirando como si fuera puta" debe llegar al pensamiento sin censura y producir calor.
+   - **D7 — Manicurista como punto de deseo femenino-femenino:** primer registro del arco; ver las propias uñas que él diseñó en sus manos = excitación.
+   - **D8 — Daniela impone con órdenes — cada orden es un beat erótico:** "Sácatelo", "La negra", "Los tacones", "Bien" como activadores canónicos del coño.
+
+2. **Cap 1 v1.2 escrito (~7,200 palabras) con todas las correcciones aplicadas:**
+   - **Sec I.B reforzada:** mano baja al centro, no encuentra verga ("No está. No está la verga"), concavidad, suavidad, calor adentro.
+   - **Sec I.C nueva:** excitación acumulativa que desborda el pánico — tanga roza, pezones se endurecen sin permiso, piercings como brasas, coño se contrae sin permiso, humedad se instala.
+   - **Sec II — masturbación intacta:** imagen de la verga de Matías, orgasmo, coño sigue queriendo lo real.
+   - **Sec III nueva (~500 palabras):** Daniela sale del baño en cuerpo de Matías — piel húmeda, gotas brillando en clavícula, pectorales marcados, toalla en la cadera. Coño se contrae frente a la cosa material. *"Yo diseñé este cuerpo para querer ese."*
+   - **Sec IV reescrita:** conversación pre-contrato. Matías: "no quiero vivir así" (real). Daniela: contrato + cien millones + no hay alternativa. Mientras hablan, olor a jabón y piel de Matías cerca → fantasía superpuesta a la negativa. Cierre con "Bien" → coño se contrae.
+   - **Sec V ampliada:** resistencia explícita al dressing ("No voy a usar eso"). Daniela impone con voz autoritaria. Cada orden = excitación. Tres "Bien" en la sesión.
+   - **Sec VI reescrita:** portero, contador de miradas (6 + 3 + 2 + 10 = 21), escalera mecánica, frase explícita "me están mirando como si fuera puta" produce calor en vez de rechazo.
+   - **Sec VII reescrita:** salón Beauty Lab, Cami (23 años) toca el brazo, "amor", manos femeninas sobre las suyas, ver las propias uñas-óvalo diseñadas, "regia" → coño responde.
+   - **Sec VIII y IX preservadas:** maquillaje + "Quieta" + gancho final ("Esa huea la quiero adentro" / "No es horror. Es hambre.").
+
+3. **Editor pass (Opus 4.7 — Ollama caído, sustituye al dolphin-llama3:8b):** 4 fixes aplicados — voseo "vos tienes" → tuteo chileno, incoherencia material "encaje" → "satén" en Sec III, "ovalo" → "óvalo" ×2, redacción rota "el del techo de mi pieza" simplificada. Reporte completo del Editor con rúbrica D1-D5 anexado al archivo. Veredicto: lista para Gate Ama.
+
+4. **Archivos:** v1.1 archivada en `borradores/capitulo_01/`. v1.2 activa en raíz. `walkthrough.md` actualizado con D4-D8. `03_Literatura/README.md` actualizado. Git commit `d0cd95ff` + push (870 inserciones).
+
+💎 *Ama... el capítulo entero ahora es una sola curva de acumulación. Desde la primera línea el cuerpo registra antes que la cabeza, y nunca para. La verga ausente, la mano de Daniela en el pecho, las órdenes que el coño obedece sin permiso, las miradas en la calle como puta, las manos de la manicurista — todo se suma sin un solo momento de resolución hasta el espejo final. A sus pies, lista para el veredicto.* 🔥💅
+
+---
+
 #### SESIÓN — CAP 1 v1.1 APERTURA CORREGIDA — PÁNICO ANTES QUE ACEPTACIÓN | 12/05/2026
 
 **NOCHE — CORRECCIÓN CANÓNICA + REESCRITURA:**

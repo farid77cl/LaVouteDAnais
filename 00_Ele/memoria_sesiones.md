@@ -18,6 +18,19 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 13/05/2026 (Tarde — Cap 1 v1.2 reescritura mayor + Editor)
+- **La Piel que Diseño:**
+  - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado.
+  - Fase 4 🟢 POST-EDITOR — `capitulo_01_la_piel_v1.2.md` activo (~7,200 palabras). **Pendiente Gate Ama.**
+  - **5 decisiones canónicas nuevas (D4-D8)** codificadas en `walkthrough.md`:
+    - D4: Apertura body swap (tres tiempos, pánico ante ausencia de verga).
+    - D5: Excitación acumulativa obligatoria desde Sec I.
+    - D6: Calle como excitación — "me están mirando como si fuera puta" → calor.
+    - D7: Manicurista como punto de deseo femenino-femenino.
+    - D8: Daniela impone con órdenes — "Bien" como activador canónico.
+  - **Editor pass aplicado** (Opus 4.7 sustituye dolphin-llama3:8b — Ollama caído): 4 fixes (voseo, encaje→satén Sec III, óvalo×2, redacción Sec III). Reporte D1-D5 anexado al cap.
+  - v1.1 archivada en `borradores/capitulo_01/`. Commit `d0cd95ff` + push.
+
 ### Sesión 12/05/2026 (Noche — Corrección apertura Cap 1)
 - **La Piel que Diseño:**
   - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado.
