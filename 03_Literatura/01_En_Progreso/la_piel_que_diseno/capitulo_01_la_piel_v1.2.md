@@ -3,8 +3,8 @@
 ## 📋 Control de Versión
 | Campo | Valor |
 |-------|-------|
-| **Versión** | v1.2 |
-| **Estado** | POST-EDITOR — Pendiente Gate Ama |
+| **Versión** | v1.2.1 |
+| **Estado** | POST-FIXES AMA — Pendiente Gate final |
 | **Arco** | arco_maestro_v1 |
 | **Mapa Erótico** | mapa_erotico_v1 |
 | **Fecha** | 2026-05-13 |
@@ -16,6 +16,7 @@
 | v1.0 | 2026-05-12 | Reescritura con mapa_erotico_v1: escena exploración+masturbación insertada, gancho como confirmación. Apertura demasiado clínica (Gate Ama). |
 | v1.1 | 2026-05-12 | Apertura reescrita en tres tiempos. R1 y R2 reubicados. |
 | v1.2 | 2026-05-13 | Pánico explícito ante ausencia de verga + excitación acumulativa. Nueva Sec III (Daniela sale del baño). Conversación pre-contrato reescrita. Resistencia al dressing + Daniela impone con órdenes. Calle: miradas como "puta". Manicura como excitación. |
+| v1.2.1 | 2026-05-13 | Ama aprueba el cap. Fixes finales: tacones 20cm → 12cm, horario corregido (vuelve pasadas las cuatro a depto vacío, Daniela llega 19:20, maquillaje 19:30, espejo 20:30), cliffhanger expandido con credencial + agenda del club + revelación trabajo (ensayo pista + bailes jueves/viernes + VIP sábado) + cinco preguntas "¿Y si me gusta..." + cuenta regresiva final. |
 
 ---
 
@@ -421,7 +422,7 @@ Una tanga negra de encaje. Diminuta. El triángulo no más grande que la palma.
 
 Un vestido de vinilo. Estampado leopardo. Corto. Sin copas.
 
-Dos tacones negros. Taco fino. Veinte centímetros.
+Dos tacones negros. Taco fino. Doce centímetros.
 
 Nada más. Ni sostén, ni ropa interior adicional, ni medias. Tres piezas.
 
@@ -503,7 +504,7 @@ Se aleja. Las manos se van. La piel donde estaban se queda con frío.
 
 Pone los tacones en el suelo, frente a mí. Espera. No los ofrece — los deja. La orden está implícita.
 
-Paso el pie derecho por el cinturón. El talón entra. Hago lo mismo con el izquierdo. Veinte centímetros me levantan del suelo y el cuerpo entero se reconfigura en cadena hacia arriba — la pantorrilla tensa, el muslo alineado, las caderas que se abren levemente hacia afuera, la espalda que arquea sola, el pecho que se proyecta hacia adelante.
+Paso el pie derecho por el cinturón. El talón entra. Hago lo mismo con el izquierdo. Doce centímetros me levantan del suelo y el cuerpo entero se reconfigura en cadena hacia arriba — la pantorrilla tensa, el muslo alineado, las caderas que se abren levemente hacia afuera, la espalda que arquea sola, el pecho que se proyecta hacia adelante.
 
 Doy un paso.
 
@@ -553,7 +554,7 @@ Empieza en los tacones. Sube por las piernas — el dobladillo del vestido leopa
 
 La voz tiene una pausa de más antes del *señora*. Como si le costara la palabra. Como si supiera y no supiera al mismo tiempo.
 
-No me reconoció. No del todo. Vio el cuerpo, vio el outfit, vio una mujer que sale del edificio donde vive el matrimonio Olavarría a las nueve y media de la mañana vestida de leopardo y tacones de veinte centímetros, y eligió la categoría que esa imagen activa.
+No me reconoció. No del todo. Vio el cuerpo, vio el outfit, vio una mujer que sale del edificio donde vive el matrimonio Olavarría a las nueve y media de la mañana vestida de leopardo y tacones finos, y eligió la categoría que esa imagen activa.
 
 *Señora.* Pero no como me dice a mí normalmente. *Señora* en otro registro.
 
@@ -701,7 +702,17 @@ Me quedo quieta en la silla. La cara compuesta. El vestido leopardo cayendo con 
 
 ## VIII
 
-Vuelvo al departamento a las cinco de la tarde con las uñas selladas y el cuerpo todavía pulsando con todo lo que se acumuló durante el día. Daniela ya está. Vestida con mi ropa de oficina — pantalón gris, camisa celeste, el reloj que me regaló mi mamá. Lo lleva como si lo hubiera llevado siempre. Tres meses de mirarme abrocharlo cada mañana fueron entrenamiento suficiente.
+Vuelvo al departamento pasadas las cuatro con las uñas selladas, una bolsa de la tintorería con el primer set de vestuario para el escenario que Daniela me mandó retirar, y el cuerpo todavía pulsando con todo lo que se acumuló durante el día. El departamento está vacío. Daniela todavía está en la oficina — *en mi oficina, con mi cuerpo* — y va a llegar pasadas las siete.
+
+Tengo casi tres horas. Las uso mal.
+
+No me cambio. No me siento. No abro la bolsa. Camino al baño, me miro un segundo, salgo. Vuelvo al living. Me siento en el borde del sillón con los tacones todavía puestos porque sacármelos significa que el día empezó a terminar y no estoy lista para esa frase. El coño no descansa. El encaje sigue mojado. Los piercings siguen marcados. Cada vez que cruzo o descruzo las piernas el roce vuelve y el cuerpo registra y se acumula otro grado.
+
+Cuando Daniela entra son las siete y veinte. La luz afuera ya empezó a bajar. Trae mi maletín. Lo deja en la mesa con la calma de quien terminó un día normal de oficina.
+
+Me mira. Me evalúa. Asiente una vez.
+
+—Maquillaje —dice. Sin saludo.
 
 —Maquillaje —dice. Sin saludo.
 
@@ -745,13 +756,13 @@ Eso también lo aprendió de mí.
 
 ## IX
 
-A las ocho de la noche Daniela me dice que me mire.
+A las ocho y media de la noche Daniela me dice que me mire.
 
 Frente al espejo del dormitorio.
 
 El pelo rubio largo hasta la cintura. Los labios frambuesa oscuro. Los ojos con el delineador que enseñé. El vestido leopardo ciñéndose sobre cada curva — la tanga apenas visible en la silueta, los piercings marcándose contra la tela cuando respiro, los pechos libres que se mueven con el cuerpo y no con una copa.
 
-Los tacones de veinte centímetros bajo todo eso. La postura reconfigurada desde el suelo hacia arriba.
+Los tacones de doce centímetros bajo todo eso. La postura reconfigurada desde el suelo hacia arriba.
 
 Me miro.
 
@@ -791,7 +802,93 @@ No es horror.
 
 Es hambre.
 
-Los dos. Al mismo tiempo. Sin resolución posible.
+---
+
+Daniela se mueve detrás de mí. Camina hasta el velador. Toma un sobre que dejó esta mañana antes de irse y lo abre frente al espejo, para que yo lo vea también.
+
+Lo que saca son dos cosas.
+
+Una credencial plastificada con foto. Mi foto — *su foto, mi cara* — y un nombre: *DANIELA OLAVARRÍA — STAFF — RUTA INTERNA*. La banda al costado dice *ACCESO PISTA + CAMARINES + VIP*.
+
+La segunda cosa es una agenda. Blanca, con la curva del logo del club que yo diseñé en la esquina. La abre en la semana en curso.
+
+—Mañana —dice. Tranquila. La voz que usaba conmigo cuando me presentaba algo que ya estaba decidido. —Diez de la mañana. Ensayo de pista con los técnicos. Tienen que calibrar la luz contigo encima porque el ángulo cambia según la estatura. Vas a estar dos horas arriba, con tacones, mientras ellos prueban los focos.
+
+Lo escucho. La frase entera. Pero el coño se queda en una palabra: *encima*.
+
+—El miércoles abre el club. Tú no apareces ese día — vas el jueves recién para que tengas el ensayo general el martes. Subes a la pista a las once de la noche el jueves. Treinta minutos. Una canción. La que practicaste tres años.
+
+*Practiqué.* La conjugación me llega doble: ella practicó, este cuerpo practicó, los dos practicamos. Tres años de DVDs los sábados, de la barra que yo instalé en el estudio "para que entrenes en serio", de las clases que pagué sin discutir, de los videos que ella grababa para mostrarme el avance.
+
+Yo nunca pregunté para qué entrenaba todo eso. Pensé que era para el club, en abstracto. No pensé que el entrenamiento iba para alguien específico.
+
+—El viernes —sigue Daniela. Pasa el dedo por la línea—. Mismo horario. Otra canción.
+
+Asiento. La cabeza no autorizó.
+
+—Y el sábado.
+
+Hace una pausa. La pausa que yo le enseñé.
+
+—Sábado tienes el primer VIP.
+
+La palabra entra.
+
+No por el oído. Por el mismo canal que abrió el *Bien*.
+
+*VIP.*
+
+El cuarto privado al fondo del club. El que yo armé con sofá de cuero negro y luz indirecta y cobertura legal calculada para que los clientes que pagaran extra pudieran tocar a las chicas sin que nadie viera. La carta de bebidas redactada como contrato implícito. El precio por hora que fijamos para que la barrera económica filtrara la clientela. Los acuerdos por escrito sobre qué se podía y qué no — calibrados con un abogado, firmados por las chicas, archivados en la caja fuerte de la oficina.
+
+Yo lo armé.
+
+Yo voy a ser la chica.
+
+El coño no se aprieta esta vez. El coño se contrae largo y profundo, una contracción que dura varios segundos, que termina con humedad caliente bajando por la cara interna del muslo otra vez, una contracción distinta a todas las anteriores porque no responde a un estímulo presente sino a uno futuro — al cuarto de cuero negro que existe a cuatro cuadras de acá y que el viernes a las once de la noche me va a estar esperando.
+
+Daniela cierra la agenda. La deja sobre el velador. Vuelve a mi espalda en el reflejo.
+
+—Sabes lo que es —dice. Sin pregunta. Información. —Lo armaste tú.
+
+Lo sé.
+
+—Tienen permitido tocar. Por encima de la ropa. Las chicas eligen si dejan que pase de ahí. Ese es el acuerdo. Tú lo escribiste.
+
+Lo escribí.
+
+—Y a ti el cuerpo te va a pedir que pase de ahí.
+
+El coño se contrae otra vez. Más fuerte que la anterior. Como si solo hubiera estado esperando esa frase para confirmar lo que ya sabía.
+
+Daniela me sostiene la mirada en el espejo. Sin acercarse. Sin tocarme. Sin nada — solo la frase puesta en el aire del cuarto.
+
+*Y a ti el cuerpo te va a pedir que pase de ahí.*
+
+El no sigue ahí. La hambre sigue ahí. Y ahora hay una tercera cosa al lado de las dos: la pregunta. No llega como pensamiento limpio. Llega en fragmentos, dispersa, sin sintaxis terminada, pero con un solo centro:
+
+*¿Y si me gusta.*
+
+*¿Y si subo mañana al ensayo y el cuerpo sabe lo que hace mejor que yo.*
+
+*¿Y si el jueves a las once de la noche, frente a desconocidos, el cuerpo se mueve solo y me deja ver desde adentro que sabía hacerlo todo este tiempo.*
+
+*¿Y si el sábado entro al VIP y la primera mano que cruce la línea del vestido me la encuentro pidiéndola.*
+
+*¿Y si esa verga termina adentro y me gusta tanto que ya no quiero salir.*
+
+La pregunta queda colgando.
+
+No tengo respuesta.
+
+Daniela me sigue mirando en el espejo. No dice nada. El silencio que usé muchas veces — para que el otro llene el espacio. Y el espacio lo está llenando el coño, palpitando bajo el encaje, contestando preguntas que la cabeza no quiere hacer.
+
+Afuera empieza a oscurecer.
+
+Faltan trece horas para el ensayo de pista.
+
+Faltan tres días para el VIP.
+
+Y el cuerpo ya está listo.
 
 ---
 
