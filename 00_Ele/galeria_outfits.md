@@ -438,7 +438,7 @@
 
 | Standing | Seated | Back View | Side Profile | Ditzy | Front Arched |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v3_backview.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v4_sideview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v5_ditzy.png) | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v6_front_arched.png) |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v3_backview.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v4_sideview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v5_ditzy.png) | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_v6_front_arched.png) |
 
 </details>
 
@@ -472,14 +472,14 @@
 
 - **Tags:** #vinyl #glossy
 
-### 📸 Imágenes (1/6)
+### 📸 Imágenes (6/6 — Completo)
 
 <details>
-<summary>📸 1 poses — ver imágenes</summary>
+<summary>📸 6 poses — ver imágenes</summary>
 
-| Standing |
-| :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_096_096_v1_standing.png) |
+| Standing | Seated | Back View | Side Profile | Ditzy | Front Arched |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_v3_back_view.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v4_sideview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v5_ditzy.png) | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/v11_front_arched.png) |
 
 </details>
 
