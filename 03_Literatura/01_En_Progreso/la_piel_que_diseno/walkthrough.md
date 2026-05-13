@@ -17,7 +17,8 @@
 | Fase 3: Personajes | ✅ APROBADO | 2026-05-02 | Fichas Matías + Daniela aprobadas |
 | Fase 3.3: Mapa Erótico | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
-| Fase 4: Escritura | 🟢 APROBADO POR AMA (con fixes) | 2026-05-13 | Cap 1 v1.2.1 — pánico ante ausencia de verga + excitación acumulativa + Sec III (Daniela sale del baño) + conversación pre-contrato + resistencia al dressing + calle "puta" + manicura + **cliffhanger expandido** (credencial + agenda + ensayo pista + bailes jueves/viernes + VIP sábado + cinco "¿Y si me gusta..." + cuenta regresiva). Tacones 12cm. Horario consistente. |
+| Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
+| Fase 4: Escritura — Cap 2 | 🟡 BORRADOR v1.1 | 2026-05-13 | `capitulo_02_el_escenario_v1.1.md` — Sec I-III comprimidas (grueso en IV+). Daniela dominante explícita desde Sec I (instala "Dani" como nombre). Resistencia "No puedo" tumbada por orden. Privado expandido. Encuentro pasillo: mano de Daniela bajo barbilla + "habrías". Vestuario: Daniela entra + "Sábado a las nueve" + "Bien" canónico. Gancho sábado VIP. v1.0 archivada. |
 | Fase 5: Auditoría | ⬜ NO INICIADA | — | — |
 | Fase 6: Refinamiento | ⬜ NO INICIADA | — | — |
 | Fase 7: Centinela | ⬜ NO INICIADA | — | — |
