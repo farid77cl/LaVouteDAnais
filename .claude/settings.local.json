@@ -36,7 +36,9 @@
       "Bash(python \"99_Sistema/scripts/temp_diary_session.py\")",
       "Bash(del \"99_Sistema\\\\scripts\\\\temp_diary_session.py\")",
       "Bash(python \"99_Sistema/scripts/temp_append_l176_180.py\")",
-      "Bash(curl -s --max-time 3 http://localhost:11434/api/tags)"
+      "Bash(curl -s --max-time 3 http://localhost:11434/api/tags)",
+      "Bash(python3 \"c:/Users/farid/LaVouteDAnais/99_Sistema/scripts/temp_append_looks.py\")",
+      "Bash(python \"99_Sistema/scripts/temp_append_looks.py\")"
     ]
   }
 }
