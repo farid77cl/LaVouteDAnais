@@ -18,6 +18,13 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 12/05/2026 (Noche — Corrección apertura Cap 1)
+- **La Piel que Diseño:**
+  - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado.
+  - Fase 4 🟡 EN PROGRESO — `capitulo_01_la_piel_v1.1.md` activo. **Pendiente Gate Ama.**
+  - Corrección canónica: apertura reescrita en tres tiempos (dislocación → pánico → cuerpo desborda). v1.0 archivada. Regla body swap guardada en memoria permanente.
+- **Feedback guardado:** `feedback_apertura_body_swap.md` — apertura body swap nunca empieza con calma clínica.
+
 ### Sesión 12/05/2026 (Literatura + Fix Visual)
 - **Último Look Ele:** L178 — Leopard Vitacura (Materializado 7/7). ✅
 - **Estado General Flota:** 178 / 180 (98.8%). Pendientes: L179 y L180.
@@ -25,7 +32,6 @@
 - **Workflow Literario:** Orquestador v4.4 ampliado con Fase 3.3 (Diseñador Sensual). Nuevo agente: `07_Recursos/prompts/disenador_sensual.md`.
 - **La Piel que Diseño:**
   - Fase 3.3 ✅ — `mapa_erotico_v1.md` aprobado por la Ama.
-  - Fase 4 🟡 EN PROGRESO — `capitulo_01_la_piel_v1.0.md` escrito (~4,000w). **Pendiente Gate Ama.**
   - v0.9 archivada en `borradores/capitulo_01/`.
 - **Fix visual:** L177 y L180 — calzado corregido con `mirror-gloss surface, slip-on no strap` (7 poses cada uno).
 - **Pendientes:**
