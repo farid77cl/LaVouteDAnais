@@ -112,17 +112,14 @@
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_back.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_back.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look085_vinyl_fresa_bimbo/ele_085_ditzy.png) |
+
+</details>
 
 ---
 
@@ -163,22 +160,19 @@
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_back.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_back.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look086_office_siren/ele_086_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã¢Å“Ë†ï¸ Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
+## âÅ“Ë† Look 87: Vinyl Flight Attendant (V3 Editorial High-End)
 
 
 **Fecha:** 22/03/2026
@@ -214,20 +208,19 @@
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_back.png)
-<!-- slide -->
-![Closeup](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_closeup.png)
-``
+<details>
+<summary>📸 4 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Closeup |
+| :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look087_ele_v3_core/ele_087_back.png) | ![Closeup](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/look87_evolutions/look87_04_closeup_1774187124271.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸–¼ï¸ Look 88: High-Gloss Gallery Opening (23/03/2026)
+## ðŸ–¼ Look 88: High-Gloss Gallery Opening (23/03/2026)
 
 
 - **Categoría:** Mix
@@ -239,7 +232,7 @@
 - **Tags:** #vinyl #latex #silk #glossy
 
 
-*Arte minimalista, vinilo maximalista. El brillo de mi ropa compensa la falta de luces en mi cerebrito.* ✨Ã¢Å“¨
+*Arte minimalista, vinilo maximalista. El brillo de mi ropa compensa la falta de luces en mi cerebrito.* ✨âÅ“¨
 
 
 - **Corsé:** Overbust de vinilo negro brillante, strapless, ultra ceñido.
@@ -281,15 +274,14 @@
 ### 📸 Imágenes (4/5)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_back.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/ele_088_side_profile.png)
-``
+<details>
+<summary>📸 4 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile |
+| :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Reference/look88_chrome_asset/look88_01_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/helena_look88_black_vinyl_pose2_seated_1774288842064.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/helena_look88_black_vinyl_pose3_backview_1774288855245.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look088_gallery_opening/helena_look88_gallery_opening_side_profile.png) |
+
+</details>
 
 > *"O sea, la galería es tan blanca que mi vinilo brilla como un diamante... jiji... mmm... Ã‚¿había cuadros? No me fijé."* — Ele
 
@@ -297,10 +289,10 @@
 ---
 
 
-## Ã°Å¸· Look 89: Imperial Burgundy (23/03/2026)
+## ðŸ· Look 89: Imperial Burgundy (23/03/2026)
 
 
-*Vino, vinilo y vacío... la trilogía perfecta para una tarde en La VoÃƒ»te. mmm... jiji...* ✨Ã°Å¸·Ã¢Å“¨
+*Vino, vinilo y vacío... la trilogía perfecta para una tarde en La VoÃƒ»te. mmm... jiji...* ✨ðŸ·âÅ“¨
 
 
 - **Concepto:** Estética monocrática en borgoña profundo. La sofisticación del color unida a la agresividad del vinilo.
@@ -339,10 +331,10 @@
 ---
 
 
-## Ã°Å¸â€  Look 90: Liquid Gold Doll (24/03/2026)
+## ðŸâ€  Look 90: Liquid Gold Doll (24/03/2026)
 
 
-*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨Ã°Å¸â€ Ã¢Å“¨
+*Oro puro, Ama... como mi devoción... o sea, brilla tanto que me encandila mi propia sombra... jiji...* ✨ðŸâ€ âÅ“¨
 
 
 - **Concepto:** **Editorial High-End Fetish**. Oro líquido sobre piel de porcelana. Purgado de cualquier elemento mundano.
@@ -441,22 +433,19 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v3_backview.png)
-<!-- slide -->
-![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v4_portrait.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v5_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Portrait | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look046_latex_nun/helena_046_046_046_v4_portrait.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look46_latex_nun_v3_2/helena_look46_v5_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸§¹ Look 55: Rubbermaid (Miss Doll)
+## ðŸ§¹ Look 55: Rubbermaid (Miss Doll)
 
 
 **Fecha:** 25/03/2026
@@ -483,17 +472,14 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v1_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v3_backview.png)
-<!-- slide -->
-![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v4_portrait.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v5_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Portrait | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look055_rubbermaid/missdoll_look055_v4_portrait.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/miss_doll/look55_rubbermaid/missdoll_look55_v5_ditzy.png) |
+
+</details>
 
 ---
 
@@ -525,17 +511,14 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/helena_092_092_092_v1_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/helena_092_092_092_v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/helena_092_092_092_v3_backview.png)
-<!-- slide -->
-![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/helena_092_092_092_v4_portrait.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/helena_092_092_092_v5_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Portrait | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/ele_look92_v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/ele_look92_v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/ele_look92_v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/ele_look92_v3_backview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look092_corporate_paradox_v3_2/ele_look92_v5_ditzy.png) |
+
+</details>
 
 ---
 
@@ -570,22 +553,19 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v1_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_arched_back.png)
-<!-- slide -->
-![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_kneeling.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v5_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Portrait | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_arched_back.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/ele_look93_kneeling.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look093_high_gloss_cherry/v5_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸—ï¸ Look 94: The Locked Legacy (Rocío - Consagración)
+## ðŸ— Look 94: The Locked Legacy (Rocío - Consagración)
 
 
 **Fecha:** 26/03/2026
@@ -612,17 +592,14 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/ele_094_094_094_v1_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/ele_094_094_094_v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/ele_094_094_094_v3_backview.png)
-<!-- slide -->
-![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/ele_094_094_094_v4_portrait.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/ele_094_094_094_v5_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Portrait | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v3_backview.png) | ![Portrait](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v4_sideview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look094_the_locked_legacy_lingerie/v5_ditzy.png) |
+
+</details>
 
 ---
 
@@ -630,22 +607,22 @@
 ---
 
 
-*Archivo Expandido — 25/03/2026* Ã°Å¸â€™💎¦📷Ã°Å¸â€ Ã¢Å“¨
+*Archivo Expandido — 25/03/2026* ðŸâ€™💎¦📷ðŸâ€ âÅ“¨
 
 
 ---
 
 
-*Archivo Expandido — 24/03/2026* Ã°Å¸â€™💎¦📷Ã°Å¸â€ Ã¢Å“¨
+*Archivo Expandido — 24/03/2026* ðŸâ€™💎¦📷ðŸâ€ âÅ“¨
 
 
 ---
 
 
-## Ã°Å¸¥Ë† Look 95: Liquid Platinum (26/03/2026)
+## ðŸ¥Ë† Look 95: Liquid Platinum (26/03/2026)
 
 
-*O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... Ã‚¿qué estaba diciendo? jiji...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
+*O sea... brilla tanto que mi cerebrito se pone en modo espejo... mmm... Ã‚¿qué estaba diciendo? jiji...* ✨ðŸ¥Ë†âÅ“¨
 
 
 - **Concepto:** **Editorial High-End Fetish**. Una visión de platino líquido y cromo. El brillo extremo anula cualquier rastro de pensamiento mundano. Sin elementos tecnológicos ni ciber.
@@ -687,27 +664,22 @@
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v1_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v2_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v3_backview.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v4_sideview.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v5_ditzy.png)
-<!-- slide -->
-![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v6_front_arched.png)
-``
+<details>
+<summary>📸 6 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy | Front Arched |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v1_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v2_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v3_backview.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v4_sideview.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/v5_ditzy.png) | ![Front Arched](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look095_liquid_platinum/ele_095_095_095_v6_front_arched.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥Ë† Look 96: Mercury Goddess (26/03/2026)
+## ðŸ¥Ë† Look 96: Mercury Goddess (26/03/2026)
 
 
-*O sea... son como dos lunas de mercurio... jiji... me quedé pegada mirándolas... mmm...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
+*O sea... son como dos lunas de mercurio... jiji... me quedé pegada mirándolas... mmm...* ✨ðŸ¥Ë†âÅ“¨
 
 
 - **Concepto:** **High-End Editorial Fetish / Bustier Focus**. Una oda al volumen y al brillo metálico. Máximo énfasis en el busto mediante arquitectura de cromo.
@@ -749,17 +721,22 @@
 ### 📸 Imágenes (1/6)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_096_096_v1_standing.png)
-``
+<details>
+<summary>📸 1 poses — ver imágenes</summary>
+
+| Standing |
+| :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look096_mercury_goddess/ele_096_096_096_v1_standing.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥Ë† Look 97: Plastic Arch-Nemesis (26/03/2026)
+## ðŸ¥Ë† Look 97: Plastic Arch-Nemesis (26/03/2026)
 
 
-*O sea, mi cuerpito ya no sabe qué es natural... Ã‚¡y me encanta! jiji... la curva es tan exagerada que pierdo el equilibrio... mmm...* ✨Ã°Å¸¥Ë†Ã¢Å“¨
+*O sea, mi cuerpito ya no sabe qué es natural... Ã‚¡y me encanta! jiji... la curva es tan exagerada que pierdo el equilibrio... mmm...* ✨ðŸ¥Ë†âÅ“¨
 
 
 - **Concepto:** **Unnatural Plasticity / Profile Focus**. Exageración anatómica mediante arquitectura de látex. Máximo énfasis en el perfil "imposible" y el brillo artificial de los implantes bajo el material.
@@ -834,7 +811,7 @@
 ## 💅® Look 98: Vinyl Cheerleader (27/03/2026)
 
 
-*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡G-O-T-H! Ã‚¿Qué dice? Ã‚¡Nada! Ã‚¡Porque mi mente está en blanco pero mis pompones brillan SO much! jiji... mmm...* ✨Ã°Å¸Å½â‚¬📸£
+*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡G-O-T-H! Ã‚¿Qué dice? Ã‚¡Nada! Ã‚¡Porque mi mente está en blanco pero mis pompones brillan SO much! jiji... mmm...* ✨ðŸŽâ‚¬📸£
 
 
 - **Concepto:** **Editorial Fetish Cheerleader**. Estética deportiva Mugleriana. Vinilo pulido, arquitectura rígida y espíritu escolar lobotomizado.
@@ -906,7 +883,7 @@
 ## 💅® Look 99: Gym-Bimbo Performance (27/03/2026)
 
 
-*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡el látex deportivo es SO flexible! jiji... mi mente no hace ejercicio pero mis curvas sí... mmm...* ✨💅ªÃ°Å¸Å½â‚¬
+*Ã‚¡Mmm... Ama! O sea, tipo... Ã‚¡el látex deportivo es SO flexible! jiji... mi mente no hace ejercicio pero mis curvas sí... mmm...* ✨💅ªðŸŽâ‚¬
 
 
 - **Concepto:** **Editorial Fetish Sportswear**. Estética Gym-Bimbo. Látex de alta resistencia, neón y arquitectura de soporte extremo.
@@ -975,7 +952,7 @@
 ## 💅® Look 100: Cobalt Chrome Editorial (28/03/2026)
 
 
-*Ã‚¡Mmm... Ama! Ã‚¡Llegamos al CENTENAR de looks! 💎¹Ã¢Å“¨ O sea, tipo... Ã‚¡es un hito SO importante! jiji... mi cuerpo es una escultura de cromo azul y mi mente... bueno, mi mente está de vacaciones en una nube de laca... mmm...* ✨💅Å½💅â„¢
+*Ã‚¡Mmm... Ama! Ã‚¡Llegamos al CENTENAR de looks! 💎¹âÅ“¨ O sea, tipo... Ã‚¡es un hito SO importante! jiji... mi cuerpo es una escultura de cromo azul y mi mente... bueno, mi mente está de vacaciones en una nube de laca... mmm...* ✨💅Ž💅â„¢
 
 
 - **Concepto:** **Centennial Celebration / Pure Reflectivity**. Estética Mugler v3.2. Máximo contraste entre el Azul Cobalto Cromo y la piel de porcelana. Silueta de avispa extrema.
@@ -1350,7 +1327,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ---
 
 
-## Ãƒ°Ã…¸Ã¢â‚¬â„¢Ã‚® Look 108: Sanhattan Power Secretary (02/04/2026)
+## Ãƒ°Ã…¸ââ‚¬â„¢Ã‚® Look 108: Sanhattan Power Secretary (02/04/2026)
 
 
 - **Categoría:** Mix
@@ -1401,7 +1378,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ---
 
 
-## Ãƒ°Ã…¸Ã¢â‚¬â„¢Ã‚® Look 109: Leopard Vinyl Siren (02/04/2026)
+## Ãƒ°Ã…¸ââ‚¬â„¢Ã‚® Look 109: Leopard Vinyl Siren (02/04/2026)
 
 
 - **Categoría:** Mix
@@ -1599,17 +1576,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_111_111_111_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_111_111_111_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_111_111_111_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_111_111_111_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_111_111_111_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/ele_look111_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look111_cyan_chrome_boudoir_assassin/`
 
@@ -1683,17 +1657,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_112_112_112_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_112_112_112_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_112_112_112_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_112_112_112_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_112_112_112_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look112_stepford_gold/ele_look112_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look112_stepford_gold/`
 
@@ -1764,17 +1735,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_113_113_113_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_113_113_113_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_113_113_113_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_113_113_113_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_113_113_113_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look113_mob_wife/ele_look113_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look113_mob_wife/`
 
@@ -1812,17 +1780,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_114_114_114_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_114_114_114_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_114_114_114_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_114_114_114_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/ele_114_114_114_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/look114_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/look114_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/look114_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/look114_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look114_santiago_power_secretary/look114_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look114_santiago_power_secretary/`
 
@@ -1839,7 +1804,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ---
 
 
-## Ã°Å¸¥Ë† Look 115: Silver Liquid Metal Bikini (09/04/2026)
+## ðŸ¥Ë† Look 115: Silver Liquid Metal Bikini (09/04/2026)
 
 
 *High-Fashion Paradox: Minimalismo especular en el Penthouse*
@@ -1863,17 +1828,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_115_115_115_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_115_115_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_115_115_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_115_115_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_115_115_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_115_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look115_silver_bikini/ele_look115_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look115_silver_bikini/`
 
@@ -1884,7 +1846,7 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 - **Tags:** #vinyl #glossy
 
 
-## Ã°Å¸â€  Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
+## ðŸâ€  Look 116: Cuico-Flaite Leather Goddess (09/04/2026)
 
 
 - **Categoría:** Mix
@@ -1917,17 +1879,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_116_116_116_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_116_116_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_116_116_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_116_116_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_116_116_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_116_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look116_cuico_flaite_leather/ele_look116_ditzy.png) |
+
+</details>
 
 ---
 
@@ -1986,17 +1945,14 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_117_117_117_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_117_117_117_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_117_117_117_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_117_117_117_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_117_117_117_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look117_cobalt_bikini/ele_look117_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look117_cobalt_bikini/`
 
@@ -2010,10 +1966,10 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ---
 
 
-## Ã°Å¸¥Ë† Look 118: Noir Vinyl & Blood Lace (10/04/2026)
+## ðŸ¥Ë† Look 118: Noir Vinyl & Blood Lace (10/04/2026)
 
 
-*O sea... es como si mi piel se hubiera convertido en noche... Ã‚¡y luego le salió encaje de cereza! jiji... me siento tan peligrosa y brillante... mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤
+*O sea... es como si mi piel se hubiera convertido en noche... Ã‚¡y luego le salió encaje de cereza! jiji... me siento tan peligrosa y brillante... mmm...* ✨ðŸ¥â‚¬ðŸ–¤
 
 
 - **Concepto:** **Fetish Boudoir / Lingerie Ãƒâ€°lite**. Contraste de texturas. El vinilo negro de alto brillo se funde con el encaje carmesí intrincado.
@@ -2049,35 +2005,26 @@ High-end professional fetish model photography, stunning woman with bimbofied fa
 ### 📸 Imágenes (10/10 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_standing.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_seated.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_back.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_ditzy.png)
-<!-- slide -->
-![Kneeling](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_kneeling.png)
-<!-- slide -->
-![Low Angle](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_low_angle.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_lying.png)
-<!-- slide -->
-![Mirror Image](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_mirror.png)
-<!-- slide -->
-![Aesthetic Bound](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_aesthetic_bound.png)
-``
+<details>
+<summary>📸 10 poses — ver imágenes</summary>
+
+| Standing | Seated | Back View | Side Profile | Ditzy | Kneeling | Low Angle |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_standing.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_seated.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_back_view.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_ditzy.png) | ![Kneeling](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_kneeling.png) | ![Low Angle](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_low_angle.png) |
+
+| Lying Down | Mirror Image | Aesthetic Bound |
+| :---: | :---: | :---: |
+| ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_lying.png) | ![Mirror Image](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_mirror.png) | ![Aesthetic Bound](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look118_noir_vinyl_blood_lace_lingerie/ele_118_118_118_118_aesthetic_bound.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥Ë† Look 119: Liquid Gold Mirror Bikini (10/04/2026 — HOY)
+## ðŸ¥Ë† Look 119: Liquid Gold Mirror Bikini (10/04/2026 — HOY)
 
 
-*O sea... brilla tanto que mi cerebrito cree que es de oro de verdad... Ã‚¡soy una moneda de lujo! jiji... mmm...* ✨Ã°Å¸¥â€¡Ã¢Å“¨
+*O sea... brilla tanto que mi cerebrito cree que es de oro de verdad... Ã‚¡soy una moneda de lujo! jiji... mmm...* ✨ðŸ¥â€¡âÅ“¨
 
 
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo. El Oro Espejo anula el pensamiento complejo.
@@ -2149,17 +2096,14 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_119_119_119_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_119_119_119_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_119_119_119_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_119_119_119_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_119_119_119_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_look119_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_look119_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_look119_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_look119_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look119_liquid_gold_bikini/ele_look119_ditzy.png) |
+
+</details>
 
 ---
 
@@ -2176,7 +2120,7 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 - **Tags:** #vinyl #pvc #satin #glossy
 
 
-*O sea... el blazer tiene hombreras tan grandes que podriría aterrizar aviones, pero mi cerebrito solo piensa en si el vinilo refleja bien... jiji... mmm...* Ã°Å¸«¶💼Ã¢Å“¨
+*O sea... el blazer tiene hombreras tan grandes que podriría aterrizar aviones, pero mi cerebrito solo piensa en si el vinilo refleja bien... jiji... mmm...* ðŸ«¶💼âÅ“¨
 
 
 - **Concepto:** **Corporate Mix / Santiago Power Femme Fatale**. Estética Mugler-Corporate. Irrumpe en el boardroom de Las Condes con vinilo espejo y destruye la coherencia masculina con solo existir.
@@ -2215,25 +2159,22 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_120_120_120_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_120_120_120_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_120_120_120_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_120_120_120_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_120_120_120_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look120_boardroom_siren/ele_120_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 121: Vinyl Rose Boudoir (10/04/2026)
+## ðŸÅ’¹ Look 121: Vinyl Rose Boudoir (10/04/2026)
 
 
-*O sea... las velas me derriten el cerebrito y el corsé me aprieta tanto que solo puedo pensar en brillar... jiji... mmm...* ✨Ã°Å¸Å’¹Ã°Å¸–¤
+*O sea... las velas me derriten el cerebrito y el corsé me aprieta tanto que solo puedo pensar en brillar... jiji... mmm...* ✨ðŸÅ’¹ðŸ–¤
 
 
 - **Concepto:** **Lencería / Dark Romance Boudoir**. Romanticismo oscuro — vinilo negro con acentos de rosa dorado y terciopelo rojo en un boudoir iluminado por velas. Corrección de déficit Lencería.
@@ -2308,17 +2249,14 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_121_121_121_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_121_121_121_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_121_121_121_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_121_121_121_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look121_vinyl_rose_boudoir/ele_121_121_121_121_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_standing_png.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_back_png.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_seated_png.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_side_profile_png.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_ditzy_png.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look121_vinyl_rose_boudoir/`
 
@@ -2332,10 +2270,10 @@ stunning woman with bimbofied facial features, oval face, high prominent cheekbo
 ---
 
 
-## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 122: White Vinyl Zapallar Mermaid (11/04/2026)
+## ðŸ§Å“ââ‚¬ââ„¢â‚¬ Look 122: White Vinyl Zapallar Mermaid (11/04/2026)
 
 
-*O sea... el blanco brilla tanto bajo el sol de Zapallar que mi cerebrito se puso en modo "reflejo"... jiji... soy una sirenita plástica muy top... mmm...* Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸Ã°Å¸Å¡Ã°Å¸¤Ã¢Å“¨
+*O sea... el blanco brilla tanto bajo el sol de Zapallar que mi cerebrito se puso en modo "reflejo"... jiji... soy una sirenita plástica muy top... mmm...* ðŸ§Å“ââ‚¬ââ„¢â‚¬ðŸšðŸ¤âÅ“¨
 
 
 - **Outfit:** Bikini de vinilo blanco "ultra-glossy", top tipo halter con hebillas de cromo plateado, bottom de tiro alto muy cavado.
@@ -2386,17 +2324,14 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_122_122_122_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_122_122_122_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_122_122_122_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_122_122_122_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look122_white_vinyl_mermaid_bikini/ele_122_122_122_122_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_standing_png.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_back_png.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_seated_png.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_side_profile_png.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look121_pink_silk_satin/ele_121_ditzy_png.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look122_white_vinyl_mermaid/`
 
@@ -2410,10 +2345,10 @@ High-end professional fetish photography. stunning woman with bimbofied facial f
 ---
 
 
-## Ã¢Å“Ë†ï¸ Look 123: Skygate Siren (13/04/2026 — HOY)
+## âÅ“Ë† Look 123: Skygate Siren (13/04/2026 — HOY)
 
 
-*O sea... el jet es tan privado que hasta mis pensamientos se quedaron en tierra... jiji... el vinilo azul hace juego con el cielo, Ã‚¿cachai? mmm...* Ã°Å¸¬Ã¢Å“Ë†ï¸💅â„¢Ã¢Å“¨
+*O sea... el jet es tan privado que hasta mis pensamientos se quedaron en tierra... jiji... el vinilo azul hace juego con el cielo, Ã‚¿cachai? mmm...* ðŸ¬âÅ“Ë†💅â„¢âÅ“¨
 
 
 - **Concepto:** **Aviation / High-Fashion Uniform**. Estética "Private Jet Asset". Elegancia técnica y sumisión plástica en el aeropuerto de Sanhattan (Skygate).
@@ -2476,17 +2411,14 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look123_skygate_siren/`
 
@@ -2503,7 +2435,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 ---
 
 
-## Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+## ðŸâ€¹ââ‚¬ââ„¢â‚¬ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
 
 
 - **Categoría:** Gym
@@ -2512,7 +2444,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 - **Tags:** #latex #glossy
 
 
-*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸💅–Ã°Å¸–¤Ã¢Å“¨
+*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* ðŸâ€¹ââ‚¬ââ„¢â‚¬💅–ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Gym-Bimbo High-Fashion / Déficit Correction**. Estética de gimnasio de ultra-lujo en Sanhattan. Validación del Blindaje Facial V3.3.
@@ -2572,25 +2504,22 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
+## ðŸ§Å“ââ‚¬ââ„¢â‚¬ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
 
 
-*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅Å½Ã°Å¸¬💅â„¢Ã¢Å“¨
+*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅ŽðŸ¬💅â„¢âÅ“¨
 
 
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
@@ -2665,17 +2594,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_ditzy.png) |
+
+</details>
 
 ---
 
@@ -2683,7 +2609,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ## 💼 Look 126: Mirror Platinum CEO (13/04/2026)
 
 
-*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Å½📸½ï¸Ã¢Å“¨
+*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Ž📸½âÅ“¨
 
 
 - **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
@@ -2761,25 +2687,22 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated_png.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look126_red_vinyl_set/ele_126_seated_png.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
+## ðŸÅ’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
 
 
-*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
+*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨ðŸ¥â‚¬ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
@@ -2857,25 +2780,22 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
+## ðŸÅ’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
 
 
-*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
+*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨ðŸ¥â‚¬ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
@@ -2896,17 +2816,14 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look123_skygate_siren/ele_123_123_123_123_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look128_red_silk_noir_lingerie/ele_128_ditzy.png) |
+
+</details>
 
 - **Ubicación:** `05_Imagenes/ele/look128_red_silk_noir/`
 
@@ -2920,7 +2837,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 ---
 
 
-## Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
+## ðŸâ€¹ââ‚¬ââ„¢â‚¬ Look 124: Neon Gym-Bimbo Luxe (13/04/2026 — PRUEBA V3.3)
 
 
 - **Categoría:** Gym
@@ -2929,7 +2846,7 @@ High-end professional fetish fashion photography portrait. stunning woman with b
 - **Tags:** #latex #glossy
 
 
-*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* Ã°Å¸â€¹ï¸Ã¢â‚¬Ã¢â„¢â‚¬ï¸💅–Ã°Å¸–¤Ã¢Å“¨
+*O sea... el cardio es tan heavy que mi cerebrito se puso en modo 'pausa'... pero mis curvas en látex neón brillan heavy... jiji... mmm...* ðŸâ€¹ââ‚¬ââ„¢â‚¬💅–ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Gym-Bimbo High-Fashion / Déficit Correction**. Estética de gimnasio de ultra-lujo en Sanhattan. Validación del Blindaje Facial V3.3.
@@ -2989,25 +2906,22 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look124_neon_gym_bimbo/ele_124_124_124_124_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look128_red_silk_noir_lingerie/ele_128_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸§Å“Ã¢â‚¬Ã¢â„¢â‚¬ï¸ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
+## ðŸ§Å“ââ‚¬ââ„¢â‚¬ Look 125: Sapphire Glow Bikini (Zapallar Luxe — 13/04/2026)
 
 
-*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅Å½Ã°Å¸¬💅â„¢Ã¢Å“¨
+*O sea... el azul zafiro brilla tanto que mi cerebrito cree que soy una piedra preciosa... Ã‚¡soy una joya de látex! jiji... mmm...* 💅ŽðŸ¬💅â„¢âÅ“¨
 
 
 - **Concepto:** **High-Gloss Liquid Metal / Bikini Deficit Correction**. Estética editorial de lujo extremo en Zapallar. El azul profundo resalta la palidez de la porcelana.
@@ -3079,15 +2993,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look125_sapphire_glow_bikini/ele_125_125_125_125_side.png)
-``
+<details>
+<summary>📸 4 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile |
+| :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) |
+
+</details>
 
 ---
 
@@ -3095,7 +3008,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ## 💼 Look 126: Mirror Platinum CEO (13/04/2026)
 
 
-*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Å½📸½ï¸Ã¢Å“¨
+*O sea... el platino brilla tanto que mi cerebrito cree que es una tarjeta de crédito sin límite... Ã‚¡soy una CEO muy top! jiji... mmm...* 💼💅Ž📸½âÅ“¨
 
 
 - **Concepto:** **Corporate Fetish / Mix Category Correction**. Estética de poder ejecutivo de ultra-lujo en Sanhattan. El vinilo platino espejo anula la capacidad de decisión masculina.
@@ -3170,25 +3083,22 @@ High-end professional fetish fashion photography portrait. stunning woman with (
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_seated_png.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_126_126_126_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look126_red_vinyl_set/ele_126_seated_png.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look126_mirror_platinum_ceo/ele_126_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
+## ðŸÅ’¹ Look 127: Silk & Noir Lace Boudoir (13/04/2026)
 
 
-*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
+*O sea... la seda es tan suave que mi cerebrito se resbala... Ã‚¡parece que no llevo nada! jiji... pero el encaje pica un poquito, mmm...* ✨ðŸ¥â‚¬ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Classic Luxury Lingerie / Silk & Lace**. Estética de boudoir de alta gama. Seda negra pura y encaje Chantilly. Sin corsé para máxima ligereza y sumisión visual.
@@ -3263,25 +3173,22 @@ High-end professional luxury lingerie photography portrait. stunning woman with 
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_127_127_127_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look127_silk_noir_lace_lingerie/ele_127_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
+## ðŸÅ’¹ Look 128: Red Silk & Noir Lace (14/04/2026)
 
 
-*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨Ã°Å¸¥â‚¬Ã°Å¸–¤Ã¢Å“¨
+*O sea... la seda roja es tan suave que mis pensamientos se resbalan... y el encaje negro es SO chic... mmm... me veo como una muñequita de regalo, Ã‚¿cachai? jiji...* ✨ðŸ¥â‚¬ðŸ–¤âÅ“¨
 
 
 - **Concepto:** **Classic Luxury Lingerie / Red & Noir**. Estética de boudoir de alta gama. Seda roja profunda y encaje Chantilly negro. Corrección de déficit estadístico de Lencería.
@@ -3347,25 +3254,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir_lingerie/ele_128_128_128_128_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir_lingerie/ele_128_128_128_128_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir_lingerie/ele_128_128_128_128_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir_lingerie/ele_128_128_128_128_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir_lingerie/ele_128_128_128_128_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look128_red_silk_noir/ele_128_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look128_red_silk_noir_lingerie/ele_128_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸â€˜° Look 129: Bridal Purity — White Silk & Pearls (14/04/2026)
+## ðŸâ€˜° Look 129: Bridal Purity — White Silk & Pearls (14/04/2026)
 
 
-*O sea, Ama... soy tan pura y blanca que parezco una nube de chantilly... pero con perlas y tacones de aguja... mmm... jiji.* ✨Ã°Å¸â€˜°Ã¢Å“¨💅Å½
+*O sea, Ama... soy tan pura y blanca que parezco una nube de chantilly... pero con perlas y tacones de aguja... mmm... jiji.* ✨ðŸâ€˜°âÅ“¨💅Ž
 
 
 - **Concepto:** **Bridal Purity / White Silk & Pearls**. Estética nupcial de alta gama. Máxima pureza visual para el modelo V3.3.
@@ -3443,25 +3347,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_129_129_129_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_129_129_129_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_129_129_129_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_129_129_129_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_129_129_129_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look129_blue_velvet_set/ele_129_ditzy_png.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸â€˜â„¢ Look 130: Midnight Rooftop Siren — Liquid Gold Party (14/04/2026)
+## ðŸâ€˜â„¢ Look 130: Midnight Rooftop Siren — Liquid Gold Party (14/04/2026)
 
 
-*O sea, Ama... estoy brillando más que las luces de Santiago... pero mi mirada está mucho más vacía que la piscina... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸Å’Æ’Ã¢Å“¨📷
+*O sea, Ama... estoy brillando más que las luces de Santiago... pero mi mirada está mucho más vacía que la piscina... mmm... jiji.* ✨ðŸâ€˜â„¢ðŸÅ’Æ’âÅ“¨📷
 
 
 - **Concepto:** **Midnight Rooftop Siren / Liquid Gold Party**. Estética de lujo nocturno, contrastes de neón y texturas metálicas.
@@ -3536,17 +3437,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_seated_png.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look130_midnight_rooftop_bikini/ele_130_130_130_130_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look129_bridal_purity_lingerie/ele_129_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/Looks_Archives/duplicate_look_folders/look129_blue_velvet_set/ele_129_ditzy_png.png) |
+
+</details>
 
 ---
 
@@ -3554,7 +3452,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 📸Ë† BATCH DE ESTABILIZACIÃƒâ€œN ESTADÃƒSTICA (Looks 131-140)
 
 
-*O sea, Ama... vamos a rellenar mi cómoda con tanta seda y tantos bikinis que voy a tener que mudarme... o sea... jiji.* ✨📊Ã¢Å¡–ï¸Ã¢Å“¨
+*O sea, Ama... vamos a rellenar mi cómoda con tanta seda y tantos bikinis que voy a tener que mudarme... o sea... jiji.* ✨📊âš–âÅ“¨
 
 
 ---
@@ -3563,7 +3461,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 👙 Look 131: Electric Blue Wrap (14/04/2026)
 
 
-*O sea, Ama... este azul es tan eléctrico que juro que mi cerebro hizo cortocircuito... mmm... jiji.* ✨Ã°Å¸Å’Å Ã¢Å“¨📷
+*O sea, Ama... este azul es tan eléctrico que juro que mi cerebro hizo cortocircuito... mmm... jiji.* ✨ðŸÅ’ŠâÅ“¨📷
 
 
 - **Concepto:** **Electric Blue Metallic Wrap**. Bikini envolvente en azul metálico vibrante.
@@ -3632,25 +3530,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap_bikini/ele_131_131_131_131_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap_bikini/ele_131_131_131_131_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap_bikini/ele_131_131_131_131_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap_bikini/ele_131_131_131_131_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap_bikini/ele_131_131_131_131_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap/ele_131_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap/ele_131_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap/ele_131_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap/ele_131_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look131_electric_blue_wrap/ele_131_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â‚¬ Look 132: Emerald Silk & Noir Lace (14/04/2026)
+## ðŸ¥â‚¬ Look 132: Emerald Silk & Noir Lace (14/04/2026)
 
 
-*O sea, Ama... esta seda es tan suave que me hace olvidar hasta cómo me llamo... mmm... jiji.* Ã°Å¸¥â‚¬Ã¢Å“¨📷
+*O sea, Ama... esta seda es tan suave que me hace olvidar hasta cómo me llamo... mmm... jiji.* ðŸ¥â‚¬âÅ“¨📷
 
 
 - **Concepto:** **Emerald Silk & Noir Lace Teddy**. Enterito de lencería suave en seda y encaje. **NO PVC. NO CORSET.**
@@ -3719,9 +3614,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (1/5)
 
 
-``carousel
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_back.png)
-``
+<details>
+<summary>📸 1 poses — ver imágenes</summary>
+
+| Back View |
+| :---: |
+| ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look132_emerald_silk_lace_lingerie/ele_132_back.png) |
+
+</details>
 
 ---
 
@@ -3729,7 +3629,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 👙 Look 133: Hot Pink Strings (14/04/2026)
 
 
-*O sea, Ama... este fucsia es tan fuerte que creo que me bronceé solo de ponérmelo... mmm... jiji.* ✨Ã°Å¸â€˜â„¢💅–Ã¢Å“¨📷
+*O sea, Ama... este fucsia es tan fuerte que creo que me bronceé solo de ponérmelo... mmm... jiji.* ✨ðŸâ€˜â„¢💅–âÅ“¨📷
 
 
 - **Concepto:** **Hot Pink Vinyl Strings**. Micro-bikini de cuerdas ultra-finas en vinilo neón.
@@ -3798,25 +3698,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings_bikini/ele_133_133_133_133_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings_bikini/ele_133_133_133_133_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings_bikini/ele_133_133_133_133_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings_bikini/ele_133_133_133_133_side.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings_bikini/ele_133_133_133_133_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_back_view.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look133_hot_pink_strings/ele_133_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â‚¬ Look 134: Champagne Silk & Gold Sequins (14/04/2026)
+## ðŸ¥â‚¬ Look 134: Champagne Silk & Gold Sequins (14/04/2026)
 
 
-*O sea, Ama... estas lentejuelas brillan casi tanto como mi deseo de servirle... mmm... jiji.* Ã°Å¸¥â‚¬Ã¢Å“¨💎¦📷
+*O sea, Ama... estas lentejuelas brillan casi tanto como mi deseo de servirle... mmm... jiji.* ðŸ¥â‚¬âÅ“¨💎¦📷
 
 
 - **Concepto:** **Champagne Silk & Gold Negligee**. Babydoll corto de lujo en seda y lentejuelas. **NO PVC. NO CORSET.**
@@ -3885,11 +3782,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (2/5)
 
 
-``carousel
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png)
-``
+<details>
+<summary>📸 2 poses — ver imágenes</summary>
+
+| Back View | Ditzy |
+| :---: | :---: |
+| ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_back.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look134_champagne_silk_sequins_lingerie/ele_134_ditzy.png) |
+
+</details>
 
 ---
 
@@ -3897,7 +3797,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 👙 Look 135: Silver Sequined Triangle (14/04/2026)
 
 
-*O sea, Ama... brillo tanto que la gente va a necesitar lentes de sol para mirarme... mmm... jiji.* ✨Ã°Å¸â€˜â„¢💅Å½Ã¢Å“¨📷
+*O sea, Ama... brillo tanto que la gente va a necesitar lentes de sol para mirarme... mmm... jiji.* ✨ðŸâ€˜â„¢💅ŽâÅ“¨📷
 
 
 - **Concepto:** **Silver Sequined Triangle**. Bikini de triángulo clásico recubierto de lentejuelas plateadas espejo.
@@ -3966,17 +3866,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (1/5)
 
 
-``carousel
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back.png)
-``
+<details>
+<summary>📸 1 poses — ver imágenes</summary>
+
+| Back View |
+| :---: |
+| ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look135_silver_sequined_bikini/ele_135_back.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â‚¬ Look 136: Plum Silk Velvet Romance (14/04/2026)
+## ðŸ¥â‚¬ Look 136: Plum Silk Velvet Romance (14/04/2026)
 
 
-*O sea, Ama... este terciopelo es tan suave que mis neuronas se acaban de dormir... mmm... jiji.* Ã°Å¸¥â‚¬💅Å“Ã¢Å“¨📷
+*O sea, Ama... este terciopelo es tan suave que mis neuronas se acaban de dormir... mmm... jiji.* ðŸ¥â‚¬💅Å“âÅ“¨📷
 
 
 - **Concepto:** **Plum Velvet & Ribbons Set**. Conjunto de lencería suave en terciopelo de seda y listones. **NO PVC. NO CORSET.**
@@ -4045,9 +3950,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (1/5)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png)
-``
+<details>
+<summary>📸 1 poses — ver imágenes</summary>
+
+| Standing |
+| :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look136_plum_velvet_romance_lingerie/ele_136_standing.png) |
+
+</details>
 
 ---
 
@@ -4055,7 +3965,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 👙 Look 137: Leopard Micro Bikini (14/04/2026)
 
 
-*O sea, Ama... me siento tan salvaje que creo que voy a empezar a ronronear... jiji.* ✨Ã°Å¸â€ Ã¢Å“¨📷
+*O sea, Ama... me siento tan salvaje que creo que voy a empezar a ronronear... jiji.* ✨ðŸâ€ âÅ“¨📷
 
 
 - **Concepto:** **Leopard Canvas Micro**. Estética de lujo salvaje, animal print clásico de alta gama.
@@ -4124,25 +4034,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look137_leopard_micro/ele_137_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â‚¬ Look 138: White Lace Mist (14/04/2026)
+## ðŸ¥â‚¬ Look 138: White Lace Mist (14/04/2026)
 
 
-*O sea, Ama... me siento como si estuviera flotando en una nube de azúcar... jiji.* Ã°Å¸¥â‚¬Ã¢Ëœï¸Ã¢Å“¨📷
+*O sea, Ama... me siento como si estuviera flotando en una nube de azúcar... jiji.* ðŸ¥â‚¬âËœâÅ“¨📷
 
 
 - **Concepto:** **White Pure Silk & Robe Set**. Conjunto nupcial/boudoir de bata y camisón. **NO PVC. NO CORSET.**
@@ -4211,17 +4118,14 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look138_white_lace_mist/ele_138_ditzy.png) |
+
+</details>
 
 ---
 
@@ -4229,7 +4133,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ## 👙 Look 139: Red Metallic Siren (14/04/2026)
 
 
-*O sea, Ama... este rojo es tan intenso que creo que el mar va a empezar a hervir... mmm... jiji.* ✨Ã°Å¸â€˜â„¢Ã°Å¸â€¥Ã¢Å“¨📷
+*O sea, Ama... este rojo es tan intenso que creo que el mar va a empezar a hervir... mmm... jiji.* ✨ðŸâ€˜â„¢ðŸâ€¥âÅ“¨📷
 
 
 - **Concepto:** **Red Metallic Siren**. Bikini de tejido elástico metálico rojo vibrante. Alta visibilidad y lujo.
@@ -4298,25 +4202,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look139_red_metallic_siren/ele_139_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â‚¬ Look 140: Dark Sequin Empress (14/04/2026)
+## ðŸ¥â‚¬ Look 140: Dark Sequin Empress (14/04/2026)
 
 
-*O sea, Ama... soy tan elegante que me da miedo tocarme y romper el hechizo... mmm... jiji.* Ã°Å¸¥â‚¬Ã°Å¸Å’â€˜Ã¢Å“¨💅Å½📷
+*O sea, Ama... soy tan elegante que me da miedo tocarme y romper el hechizo... mmm... jiji.* ðŸ¥â‚¬ðŸÅ’â€˜âÅ“¨💅Ž📷
 
 
 - **Concepto:** **Black Silk & Sequin Slip**. Vestido/lencería de noche ultra-lujoso. **NO PVC. NO CORSET.**
@@ -4385,25 +4286,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (0/5)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look140_dark_sequin_empress/ele_140_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸§ª Look 141: Radiant Neon Lattice (21/04/2026)
+## ðŸ§ª Look 141: Radiant Neon Lattice (21/04/2026)
 
 
-*O sea, Ama... parezco una escultura de luz y plástico... me siento tan rígida y perfecta que casi ni puedo respirar... mmm... me encanta.* Ã°Å¸§ª💅Å¡Ã¢Å“¨📷
+*O sea, Ama... parezco una escultura de luz y plástico... me siento tan rígida y perfecta que casi ni puedo respirar... mmm... me encanta.* ðŸ§ª💅šâÅ“¨📷
 
 
 - **Concepto:** **Avant-Garde Fetish Architecture**. Un look diseñado para ser una pieza de exhibición, pura geometría y brillo.
@@ -4475,25 +4373,22 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look141_radiant_neon_lattice/ele_141_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã¢â€ºâ€œï¸ Look 142: Midnight Crystal Pole (21/04/2026)
+## ââ€ºâ€œ Look 142: Midnight Crystal Pole (21/04/2026)
 
 
-*O sea, Ama... estos cristales brillan casi tanto como mis ojos vacíos... jiji... me siento tan... plástica y costosa... mmm...* Ã¢â€ºâ€œï¸💅Å½Ã¢Å“¨📷
+*O sea, Ama... estos cristales brillan casi tanto como mis ojos vacíos... jiji... me siento tan... plástica y costosa... mmm...* ââ€ºâ€œ💅ŽâÅ“¨📷
 
 
 - **Categoría:** Mix
@@ -4520,31 +4415,28 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look142_midnight_crystal_pole/ele_142_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸¥â€š Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
+## ðŸ¥â€š Look 143: Emerald Silk & Noir Vinyl (22/04/2026)
 
 
-*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸¥â€š💅Å¡Ã°Å¸–¤Ã¢Å“¨📷
+*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* ðŸ¥â€š💅šðŸ–¤âÅ“¨📷
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Escort de Lujo | **Paleta:** Emerald Green + Noir Black
 
 
-*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* Ã°Å¸¥â€š💅Å¡Ã°Å¸–¤Ã¢Å“¨📷
+*O sea... la seda verde se siente tan suave en mi piel de porcelana, pero mis botas de vinilo me recuerdan quién manda... jiji... mmm...* ðŸ¥â€š💅šðŸ–¤âÅ“¨📷
 
 
 - **Categoría:** Mix
@@ -4610,32 +4502,25 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look143_emerald_escort_siren/ele_143_pose7_lying.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å½¾ Look 144: Vinyl Tennis Pin-Up (22/04/2026)
+## ðŸŽ¾ Look 144: Vinyl Tennis Pin-Up (22/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Athleisure / Pin-Up | **Paleta:** Pink & White
 
 
-*O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* Ã°Å¸Å½¾💅–Ã¢Å“¨📷
+*O sea... tipo que no sé si la pelota va adentro o afuera, pero mis tacones en la arcilla se ven atroz de regios... jiji... mmm...* ðŸŽ¾💅–âÅ“¨📷
 
 
 **Concepto:** **Jet-Set Tennis Pin-Up**. Estética de los años 50 reinventada en materiales fetiche. Una jugadora que nunca ha sudado pero brilla como un diamante bajo el sol de Mónaco.
@@ -4683,28 +4568,25 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_backview.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_sideprofile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_backview.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_sideprofile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look144_tennis_pinup/ele_look144_ditzy.png) |
+
+</details>
 
 ---
 
 
-## 💅Å½ Look 145: Obsidian Structural (23/04/2026)
+## 💅Ž Look 145: Obsidian Structural (23/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Mix | **Paleta:** Obsidian Black, White & Chrome
 
 
-*O sea... la arquitectura de este traje es tan rígida que mis pensamientos apenas pueden moverse... mmm... jiji.* ✨Ã°Å¸–¤Ã¢Å“¨📷
+*O sea... la arquitectura de este traje es tan rígida que mis pensamientos apenas pueden moverse... mmm... jiji.* ✨ðŸ–¤âÅ“¨📷
 
 
 **Concepto:** **Obsidian Structural Domestic**. Una visión deconstructivista de la sumisión doméstica en negro absoluto. Bodysuit de vinilo negro obsidiana con hombreras arquitectónicas ultra-afiladas y un delantal esculpido en látex rígido blanco.
@@ -4752,22 +4634,19 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_structural/ele_145_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_structural/ele_145_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_structural/ele_145_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_structural/ele_145_side.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_structural/ele_145_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_side.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸â€¹ï¸ Look 146: Neon Latex High-Gloss Gym (23/04/2026)
+## ðŸâ€¹ Look 146: Neon Latex High-Gloss Gym (23/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Gym / Athleisure | **Paleta:** Charcoal Grey & Neon Yellow
@@ -4785,7 +4664,7 @@ High-end professional luxury lingerie photography. stunning woman with (bimbofie
     - **Prompt Base:** [ADN Ele V3.5] + [Outfit: Charcoal grey latex sports bra, neon yellow high-gloss compression leggings, neon yellow stiletto gym sneakers] + [Pose/Ambiente: Futuristic glass gym overlooking neon city]
 
 
-*O sea... tipo que mi personal trainer dice que tengo que quemar calorías, pero yo prefiero quemar la vista de todos con este outfit... mmm... jiji.* Ã°Å¸â€¹ï¸Ã¢Å“¨📷
+*O sea... tipo que mi personal trainer dice que tengo que quemar calorías, pero yo prefiero quemar la vista de todos con este outfit... mmm... jiji.* ðŸâ€¹âÅ“¨📷
 
 
 **Concepto:** **High-Gloss Futuristic Gym**. Estética de gimnasio de ultra-lujo en materiales fetiche. Funcionalidad nula, estética absoluta.
@@ -4833,17 +4712,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_sideprofile.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look145_obsidian_domestic_goddess/ele_145_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_sideprofile.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look146_neon_latex_gym/ele_look146_ditzy.png) |
+
+</details>
 
 ---
 
@@ -4854,7 +4730,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Cobalt Blue + Chrome Silver + Hot Pink
 
 
-*O sea... el vinilo cobalto me hace sentir tan poderosa... tipo, el boardroom es mi pasarela... mmm... 💅â„¢Ã°Å¸©¶💅—📷*
+*O sea... el vinilo cobalto me hace sentir tan poderosa... tipo, el boardroom es mi pasarela... mmm... 💅â„¢ðŸ©¶💅—📷*
 
 
 **Concepto:** **Cobalt Corporate Command**. La secretaria de dirección que nunca toma notas porque todo lo memoriza con esos ojos grises. Paradoja de poder: sumisa en apariencia, devastadora en ejecución. Modo Contraste: cobalto dominante + plata + hot pink.
@@ -4917,28 +4793,25 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_backview.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_sideprofile.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_backview.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_sideprofile.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look147_cobalt_power_secretary/ele_look147_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸Å’¹ Look 148: Rose Gold Gala Empress (23/04/2026)
+## ðŸÅ’¹ Look 148: Rose Gold Gala Empress (23/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** High-Fashion | **Paleta:** Rose Gold + Mirror Silver
 
 
-*O sea... el oro rosa es lit el color de mi alma de plástico... tipo, la alfombra roja existe para mis tacones... te lo juro... Ã°Å¸Å’¹Ã°Å¸©¶Ã¢Å“¨📷*
+*O sea... el oro rosa es lit el color de mi alma de plástico... tipo, la alfombra roja existe para mis tacones... te lo juro... ðŸÅ’¹ðŸ©¶âÅ“¨📷*
 
 
 **Concepto:** **Rose Gold Imperial**. Alta costura en su forma más extrema — una columna viviente de rose gold y plata especular. El architectural collar Mugler enmarca el vacío perfecto de la expresión Ele. Modo Contraste: rose gold dominante + silver estructural.
@@ -5001,28 +4874,25 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rose_gold_gala_empress/ele_148_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rose_gold_gala_empress/ele_148_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rose_gold_gala_empress/ele_148_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rose_gold_gala_empress/ele_148_side.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rose_gold_gala_empress/ele_148_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_side.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look148_rosegold_gala_empress/ele_148_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸ªÅ¾ Look 149: Chrome Maid Supreme (23/04/2026)
+## ðŸªž Look 149: Chrome Maid Supreme (23/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Domestic / Stepford | **Paleta:** Mirror Chrome + Hot Pink
 
 
-*O sea... el cromo me hace ver como un espejo andante... tipo, sirvo mejor cuando me veo perfecta... mmm... Ã°Å¸ªÅ¾💅—Ã¢Å“¨📷*
+*O sea... el cromo me hace ver como un espejo andante... tipo, sirvo mejor cuando me veo perfecta... mmm... ðŸªž💅—âÅ“¨📷*
 
 
 **Concepto:** **Chrome Domestic Asset**. La doncella doméstica en su forma más arquitectónica — un espejo viviente de PVC cromado y rosa neón. El delantal de PVC transparente cumple la regla PVC-Clear. Choker ASSET V3 visible. Modo Neutro+Pop: chrome base + hot pink saturado.
@@ -5085,28 +4955,25 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_side.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_side.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look149_chrome_maid_supreme/ele_149_ditzy.png) |
+
+</details>
 
 ---
 
 
-## Ã°Å¸©¸ Look 150: Crimson Corporate Vixen (23/04/2026)
+## ðŸ©¸ Look 150: Crimson Corporate Vixen (23/04/2026)
 
 
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Corporate | **Paleta:** Deep Crimson + Chrome Gold
 
 
-*O sea... el carmesí es lit el color del poder... tipo, en esta oficina yo soy la directora... aunque no sepa qué firma... jiji... Ã°Å¸©¸Ã°Å¸¥â€¡Ã¢Å“¨📷*
+*O sea... el carmesí es lit el color del poder... tipo, en esta oficina yo soy la directora... aunque no sepa qué firma... jiji... ðŸ©¸ðŸ¥â€¡âÅ“¨📷*
 
 
 **Concepto:** **Crimson Executive Authority**. El poder ejecutivo en carmesí profundo — una CEO que nunca necesita levantar la voz. El blazer-vestido de PVC abierto enmarca la silueta de avispa extrema. Modo Contraste: carmesí dominante + chrome gold estructural.
@@ -5169,17 +5036,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/5 — Completo)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_side.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_side.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look150_crimson_corporate_vixen/ele_150_ditzy.png) |
+
+</details>
 
 ---
 
@@ -5190,7 +5054,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 > **ADN V3.5 Hard-Sync** | **Arquetipo:** Escort de Lujo | **Paleta:** Violet + Metallic Lilac + Chrome Silver
 
 
-*O sea... el violeta látex es tan jiggly y tan top... tipo, el lobby del hotel se convierte en mi runway personal... te lo juro... 💅Å“Ã°Å¸â€®Ã°Å¸©¶📷*
+*O sea... el violeta látex es tan jiggly y tan top... tipo, el lobby del hotel se convierte en mi runway personal... te lo juro... 💅Å“ðŸâ€®ðŸ©¶📷*
 
 
 **Concepto:** **Violet Imperial Escort**. La acompañante de lujo en su manifestación más dramática — látex violeta profundo con arquitectura plateada Mugler. La triada cromática violet/lila/chrome eleva el look al nivel de alta costura fetiche. Modo Triada: 50% violet + 30% metallic lilac + 20% chrome silver.
@@ -5265,17 +5129,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (5/7)
 
 
-``carousel
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_standing.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_back.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_seated.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_side.png)
-<!-- slide -->
-![](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_ditzy.png)
-``
+<details>
+<summary>📸 5 poses — ver imágenes</summary>
+
+| Pose 1 | Pose 2 | Pose 3 | Pose 4 | Pose 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Pose 1](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_standing.png) | ![Pose 2](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_back.png) | ![Pose 3](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_seated.png) | ![Pose 4](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_side.png) | ![Pose 5](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look151_electric_violet_escort/ele_151_ditzy.png) |
+
+</details>
 
 ## 📸 Look 152: First Class Vinyl Siren (27/04/2026)
 
@@ -5310,21 +5171,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look152_first_class_vinyl_siren/ele_look152_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5359,21 +5213,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look153_neon_coral_yacht_queen/ele_look153_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5453,21 +5300,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look154_platinum_chrome_galatea/ele_154_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5502,21 +5342,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look155_high_voltage_corporate/ele_155_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5551,21 +5384,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look156_chrome_vegas_stripper/ele_156_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5624,21 +5450,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_side.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look157_stepford_vinyl_housewife/ele_157_lying.png) |
+
+</details>
 
 ---
 
@@ -5751,21 +5570,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose3_seated.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose5_ditzy.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose6_pov.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look159_cyber_retro_racer/ele_159_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5827,21 +5639,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose1.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose2.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose3.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose4.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose5.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose6.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160/pose7.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose3_seated.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose4_side_profile.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose5_ditzy.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose6_pov.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look160_leopard_vinyl_empress/ele_160_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5903,19 +5708,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated_v2.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile_v2.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy_v2.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png)
-``
+<details>
+<summary>📸 6 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose1_standing.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose2_back.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose3_seated_v2.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose4_side_profile_v2.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose5_ditzy_v2.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look161_neon_ceo/ele_161_pose7_lying.png) |
+
+</details>
 
 ---
 
@@ -5974,21 +5774,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose1.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose2.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose3.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose4.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose5.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose6.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look162_pvc_maid_fantasy/pose7.png) |
+
+</details>
 
 ---
 
@@ -6047,21 +5840,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes
 
 
-``carousel
-![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose1.png)
-<!-- slide -->
-![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose2.png)
-<!-- slide -->
-![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose3.png)
-<!-- slide -->
-![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose4.png)
-<!-- slide -->
-![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose5.png)
-<!-- slide -->
-![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose6.png)
-<!-- slide -->
-![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose7.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose1.png) | ![Back View](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose2.png) | ![Seated](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose3.png) | ![Side Profile](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose4.png) | ![Ditzy](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose5.png) | ![POV](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose6.png) | ![Lying Down](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look163_mirror_gold_pole/pose7.png) |
+
+</details>
 
 ---
 
@@ -6196,21 +5982,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 ### 📸 Imágenes (7/7 — Completo)
 
 
-``carousel
-![Standing](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose2_back.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose5_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose1_standing.png) | ![Back View](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose2_back.png) | ![Seated](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose3_seated.png) | ![Side Profile](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose4_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose5_ditzy.png) | ![POV](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose6_pov.png) | ![Lying Down](../05_Imagenes/ele/look165_neon_lime_gym/ele_165_pose7_lying.png) |
+
+</details>
 ---
 
 ## 🛥️ Look 166: Acid Yellow Vinyl Yacht-Bimbo (05/05/2026)
@@ -6243,21 +6022,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose1_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose2_back.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose3_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose4_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose5_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose6_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose7_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose1_standing.png) | ![Back View](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose2_back.png) | ![Seated](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose3_seated.png) | ![Side Profile](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose4_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose5_ditzy.png) | ![POV](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose6_pov.png) | ![Lying Down](../05_Imagenes/ele/look166_acid_yellow_yacht/ele_166_pose7_lying.png) |
+
+</details>
 
 ---
 ---
@@ -6286,21 +6058,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_standing.png) | ![Back View](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_back_view.png) | ![Seated](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_seated.png) | ![Side Profile](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_ditzy.png) | ![POV](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_pov.png) | ![Lying Down](../05_Imagenes/ele/look167_obsidian_ruby_lingerie/ele_167_lying.png) |
+
+</details>
 
 ---
 
@@ -6328,21 +6093,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_standing.png) | ![Back View](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_back_view.png) | ![Seated](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_seated.png) | ![Side Profile](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_ditzy.png) | ![POV](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_pov.png) | ![Lying Down](../05_Imagenes/ele/look168_emerald_stripper_stage/ele_168_lying.png) |
+
+</details>
 
 ---
 
@@ -6370,21 +6128,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_standing.png) | ![Back View](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_back_view.png) | ![Seated](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_seated.png) | ![Side Profile](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_ditzy.png) | ![POV](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_pov.png) | ![Lying Down](../05_Imagenes/ele/look169_midnight_silk_escort/ele_169_lying.png) |
+
+</details>
 
 ---
 
@@ -6413,21 +6164,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_standing.png) | ![Back View](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_back_view.png) | ![Seated](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_seated.png) | ![Side Profile](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_ditzy.png) | ![POV](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_pov.png) | ![Lying Down](../05_Imagenes/ele/look170_crimson_lace_escort/ele_170_lying.png) |
+
+</details>
 
 ## 🫦 Look 171: Liquid Copper Luxury Bikini (08/05/2026)
 
@@ -6453,21 +6197,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ### 📸 Imágenes (7/7 — Completo)
 
-``carousel
-![Standing](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_pov.png)
-<!-- slide -->
-![Lying Down](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_lying.png)
-``
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Lying Down |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_standing.png) | ![Back View](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_back_view.png) | ![Seated](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_seated.png) | ![Side Profile](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_ditzy.png) | ![POV](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_pov.png) | ![Lying Down](../05_Imagenes/ele/look171_liquid_copper_bikini/ele_171_lying.png) |
+
+</details>
 
 ## 🖤 Look 172: Obsidian Latex Sovereign (11/05/2026)
 
@@ -6754,21 +6491,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Odalisque:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. acid yellow neon chartreuse high-gloss latex bandeau tube top, 8cm wide band, strapless structured, high-compression, no straps. acid yellow neon chartreuse high-gloss latex micro-brief, extreme high-cut hip, thin side strings. chrome silver O-ring hardware at hip string intersections. acid yellow patent leather stiletto heeled sandals, 14cm heel, pointed toe, single ankle strap chrome buckle. chrome silver rigid collar choker 2cm wide band, no pendant. no earrings, no wrist accessories. total neon acid yellow maximum contrast editorial impact against white porcelain skin. full body lying on side forming a languid S-curve, one arm extended with XXXL nails on studio floor, legs slightly bent, stilettos pointed and visible, studio white seamless backdrop high-contrast editorial strobe lighting. Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 
 #### 🎬 Previsualización Core
-````carousel
-![Standing](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_pov.png)
-<!-- slide -->
-![Odalisque](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_odalisque.png)
-````
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_standing.png) | ![Back View](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_back_view.png) | ![Seated](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_seated.png) | ![Side Profile](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_ditzy.png) | ![POV](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_pov.png) | ![Odalisque](../05_Imagenes/ele/look179_acid_yellow_editorial/ele_179_odalisque.png) |
+
+</details>
 
 
 ---
@@ -6808,21 +6538,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Odalisque:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. cherry red high-gloss vinyl bodysuit base, sleeveless, high round neck, ultra-tight second-skin fit, structured boning at sides, full torso coverage. cherry red high-gloss vinyl bib apron overlay, white vinyl frill trim 3cm at bib border, white vinyl frill trim 5cm at hem border, knee-length apron, tied at back with cherry red vinyl bow. cherry red patent leather stiletto pumps, 12cm heel, pointed toe, no platform, mirror-gloss surface, slip-on no strap. white vinyl headband with small cherry red bow at top. white vinyl wrist cuffs 3cm wide both wrists, frill edge trim. no earrings, no necklace. total Stepford cherry and white vinyl perfection — domestic fantasy fully materialised. full body lying on side forming a languid S-curve, one arm extended with XXXL nails on marble kitchen floor, legs slightly bent, stilettos pointed and visible, apron frill visible at hem, luxury marble kitchen Stepford aesthetic warm ambient lighting. Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 
 #### 🎬 Previsualización Core
-````carousel
-![Standing](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_standing.png)
-<!-- slide -->
-![Back View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_back_view.png)
-<!-- slide -->
-![Seated](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_seated.png)
-<!-- slide -->
-![Side Profile](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_side_profile.png)
-<!-- slide -->
-![Ditzy](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_ditzy.png)
-<!-- slide -->
-![POV](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_pov.png)
-<!-- slide -->
-![Odalisque](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_odalisque.png)
-````
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_standing.png) | ![Back View](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_back_view.png) | ![Seated](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_seated.png) | ![Side Profile](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_ditzy.png) | ![POV](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_pov.png) | ![Odalisque](../05_Imagenes/ele/look180_cherry_vinyl_hostess/ele_180_odalisque.png) |
+
+</details>
 
 
 ---
@@ -7025,4 +6748,3 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 7. **Odalisque:** stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, full bust, wide hips, visible arm tattoos blackwork style, subtle minimalist blackwork tattoos on upper back and outer thighs, navel piercing, nipple piercings pressing against and visible under clothing, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm. deep emerald green high-gloss latex sculptural gown, armored structured bodice with external boning ribs finished in chrome gold trim, single blade shoulder right side asymmetric extended 8cm, micro-peplum flare at hip 10cm, hemline mid-thigh front ankle-length back, zero-texture mirror surface, no sleeves. deep emerald green patent leather stiletto ankle boots, 14cm heel, pointed toe, side zip, mirror-gloss surface. chrome gold rigid architectural choker 3cm wide with geometric rectangular pendant 2cm centered. no earrings, no bracelet. total emerald Mugler supreme sculpture — one-of-a-kind editorial armor. full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, high-fashion runway, stark white seamless studio, editorial strobe lighting, dramatic shadow geometry on floor. Rim lighting to define silhouette, high-gloss specularity on vinyl surfaces.
 
 **Negative Prompt:** `red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, two women, mirror reflection, split image, duplicate figure, side by side`
-
