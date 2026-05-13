@@ -1,6 +1,7 @@
 import os
 import re
 import subprocess
+import importlib.util
 from datetime import datetime
 
 # Configuración del servidor remoto
@@ -188,17 +189,34 @@ def generate_master_outfit_gallery(base_path, repo_root):
     look_folders.sort(key=lambda x: x[0], reverse=True)
     content = ["# 👗 Galería de Looks: Ele de Anaïs\n\n", "> El clóset visual infinito en la nube. 🫦✨\n\n", "---\n\n"]
 
+    # Poses canónicas V3.5 — 7 por look
+    CANONICAL_POSES = [
+        ('standing',    'De Pie'),
+        ('back_view',   'Espalda'),
+        ('seated',      'Sentada'),
+        ('side_profile','Perfil'),
+        ('ditzy',       'Ditzy'),
+        ('pov',         'POV'),
+        ('odalisque',   'Odalisca'),
+    ]
+
     for _, folder_name, folder_path in look_folders:
         images = get_tracked_images(folder_path)
         if not images: continue
         clean_name = folder_name.replace('_', ' ').title()
         display_title = re.sub(r'Look(\d+)', r'Look \1:', clean_name)
-        content.append(f"## 🕷️ {display_title}\n\n")
-        
-        poses = {p: next((img for img in images if p in img.lower()), None) for p in ['standing', 'seated', 'profile', 'back', 'ditzy']}
-        remaining = [img for img in images if img not in poses.values()]
-        
-        def get_md(img_name):
+        content.append(f"## 👠 {display_title}\n\n")
+
+        # Mapear cada pose canónica a la imagen correspondiente
+        pose_map = {}
+        for key, _ in CANONICAL_POSES:
+            pose_map[key] = next((img for img in images if key in img.lower()), None)
+
+        # Imágenes no mapeadas (fallback)
+        mapped = set(v for v in pose_map.values() if v)
+        remaining = [img for img in images if img not in mapped]
+
+        def get_md(img_name, folder_path=folder_path):
             if img_name:
                 url = get_remote_url(os.path.join(folder_path, img_name), repo_root)
                 return f"![{img_name}]({url})"
@@ -208,8 +226,14 @@ def generate_master_outfit_gallery(base_path, repo_root):
                 return f"![{img}]({url})"
             return "⏳"
 
-        content.append("| De Pie | Sentada | Perfil | Espalda | Ditzy |\n|:---:|:---:|:---:|:---:|:---:|\n")
-        content.append(f"| {get_md(poses['standing'])} | {get_md(poses['seated'])} | {get_md(poses['profile'])} | {get_md(poses['back'])} | {get_md(poses['ditzy'])} |\n\n---\n\n")
+        # Detectar si el look tiene 7 poses o solo 5
+        has_7 = any(pose_map.get(k) for k in ('pov', 'odalisque'))
+        active_poses = CANONICAL_POSES if has_7 else CANONICAL_POSES[:5]
+
+        headers = ' | '.join(label for _, label in active_poses)
+        separators = ' | '.join([':---:'] * len(active_poses))
+        cells = ' | '.join(get_md(pose_map.get(key)) for key, _ in active_poses)
+        content.append(f"| {headers} |\n| {separators} |\n| {cells} |\n\n---\n\n")
 
     content.append(f"*Última actualización maestra: {datetime.now().strftime('%d/%m/%Y')}* 🦇")
     with open(output_file, 'w', encoding='utf-8', newline='\n') as f: f.writelines(content)
@@ -274,6 +298,16 @@ def main():
     print("Actualizando Galería Maestra de Miss Doll...")
     generate_miss_doll_master_gallery(base_path, repo_root)
     
+    print("Actualizando Índice Rápido de Galería...")
+    try:
+        index_script = os.path.join(script_dir, "generar_index_galeria.py")
+        spec = importlib.util.spec_from_file_location("generar_index_galeria", index_script)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        mod.main()
+    except Exception as e:
+        print(f"  (Advertencia: no se pudo generar el índice: {e})")
+
     print("Proceso completado exitosamente.")
 
 if __name__ == "__main__":
