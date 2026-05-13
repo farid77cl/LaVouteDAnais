@@ -73,7 +73,7 @@ El BLOQUE B se escribe **una sola vez** y se copia idéntico en los 5 prompts. N
 
 ---
 
-### 3. Escritura de los 5 Prompts Completos en galeria_outfits.md (PREVIO A GENERACIÓN)
+### 3. Escritura de los 7 Prompts Completos en galeria_outfits.md (PREVIO A GENERACIÓN)
 
 **BLOQUE A — ADN Inamovible (siempre idéntico, copiado de [dna_v3_5.md](references/dna_v3_5.md)):**
 ```
@@ -82,16 +82,23 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca se escribe de memoria.
 
+**Negative prompt obligatorio (añadir en la configuración del generador):**
+```
+red lips, dark lips, wine lips, maroon lips, crimson lips, different person, different face, different hair color, brown hair, black hair, blonde hair, flat shoes, block heel, wedge, platform mule, chunky heel, kitten heel, barefoot, socks, sneakers, two women, mirror reflection, split image, duplicate figure, side by side, bag (if not in BLOQUE B), clutch (if not in BLOQUE B)
+```
+
+> **Por qué:** L177 generó labios rojos en 3 poses y persona diferente en Odalisque. L176 generó DOS mujeres (efecto espejo) por la frase "first-person POV". L178 confundió POV con Odalisque recostada. Los negative prompts son la barrera activa contra la deriva del ADN.
+
 **Estructura de cada prompt:** `[BLOQUE A] + [BLOQUE B] + [BLOQUE C — Pose y Setting]`
 
-**Poses estándar obligatorias (BLOQUE C):**
-- **Standing View:** full body, catalog pose, [fondo coherente con el arquetipo]
-- **Back View:** rear focus, tattoos visible, [mismo fondo]
-- **Seated View:** seated on [mobiliario coherente con el setting], [mismo fondo]
-- **Side Profile:** lateral silhouette, hourglass emphasis, [mismo fondo]
-- **Ditzy Expression:** close-up face, vacant gaze, lips parted, [mismo fondo]
-- **POV — Goddess Gaze:** first-person POV looking down over own body, XXXL nails and chest in foreground, full outfit converging to pointed stiletto tips, [mismo fondo]
-- **Lying Down — The Odalisque:** full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [mismo fondo]
+**7 poses estándar obligatorias (BLOQUE C):**
+1. **Standing View:** `full body, standing, weight on one hip, hands on waist, [fondo]`
+2. **Back View:** `full body, back view, turning over shoulder, hair cascading, [fondo]`
+3. **Seated View:** `seated, legs crossed, spine straight, hands on knee, [fondo]`
+4. **Side Profile:** `full body, side profile, extreme lumbar arch, chin lifted, [fondo]`
+5. **Ditzy Expression:** `close-up beauty shot, slightly parted lips, vacant ditzy expression, lashes down then up, [fondo]`
+6. **POV — Goddess Gaze:** `high-angle overhead shot looking down at standing figure, camera tilted 60 degrees downward, XXXL French nails resting on waist in sharp close foreground, décolleté and outfit filling midground, pointed stiletto heels visible at bottom edge of frame, slight perspective compression, one single woman, [fondo]` *(NUNCA usar "first-person POV" — genera duplicados y espejos)*
+7. **Lying Down — The Odalisque:** `full body lying on side forming a languid S-curve, one arm extended with XXXL nails on surface, legs slightly bent, stilettos pointed and visible, [fondo]`
 
 **Los 7 prompts completos (A+B+C) deben quedar escritos en la entrada del Look en `galeria_outfits.md` antes de que se genere ninguna imagen.**
 
@@ -121,8 +128,10 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 | Excusa / Racionalización | Realidad Canónica |
 | :--- | :--- |
 | "Generé la imagen y documentaré el prompt después." | **ERROR CRÍTICO.** Los 7 prompts completos se escriben en `galeria_outfits.md` ANTES de generar. Sin excepción. |
-| "El BLOQUE A es siempre el mismo, no necesito copiarlo en cada prompt." | **ERROR.** El BLOQUE A se copia textualmente de `dna_v3_5.md` en cada uno de los 5 prompts. Nunca se omite ni se resume. |
-| "Ajusté el BLOQUE B en la pose 3 porque la pose lo requería." | **ERROR.** El BLOQUE B es invariable entre las 5 poses. Solo el BLOQUE C (pose y setting) varía. |
+| "El BLOQUE A es siempre el mismo, no necesito copiarlo en cada prompt." | **ERROR.** El BLOQUE A se copia textualmente de `dna_v3_5.md` en cada uno de los 7 prompts. Nunca se omite ni se resume. |
+| "Ajusté el BLOQUE B en la pose 3 porque la pose lo requería." | **ERROR.** El BLOQUE B es invariable entre las 7 poses. Solo el BLOQUE C (pose y setting) varía. |
+| "No activé el negative prompt porque el generador no lo pedía." | **ERROR.** El negative prompt es obligatorio para blindar ADN (labios, pelo, cara, calzado). |
+| "La Odalisque es diferente porque es una pose difícil." | **ERROR.** Si la persona cambia, se regenera con negative prompt `different person, different face`. La dificultad no justifica ADN roto. |
 | "Omití los piercings para un look más limpio." | **ERROR.** Los piercings V3.5 son parte del ADN Hard-Sync. Nunca se omiten. |
 | "No actualicé las estadísticas porque solo era un Look." | **ERROR.** Cada Look altera los porcentajes. La actualización es obligatoria. |
 | "Usé 'red hair' porque es más corto." | **ERROR.** El tono exacto es 'Dark Cherry Red'. Las variaciones diluyen la identidad. |
@@ -132,7 +141,9 @@ Los agentes suelen buscar atajos bajo presión. Estas excusas están **PROHIBIDA
 - Estás a punto de generar una imagen sin haber escrito los 5 prompts completos en `galeria_outfits.md`.
 - Uno de tus prompts no incluye el BLOQUE A completo copiado de `dna_v3_5.md`.
 - El BLOQUE B difiere entre dos de las 5 poses del mismo Look.
-- Estás usando un prompt que no incluye "nipple piercings pressing through".
+- Estás usando un prompt que no incluye "nipple piercings pressing against and visible under clothing".
+- Una pose Ditzy u Odalisque generó una persona diferente (cara, color de pelo, rasgos cambiados) — activa el negative prompt `different person, different face, different hair color` y regenera.
+- Tus prompts no tienen negative prompt configurado en el generador.
 - Estás proponiendo un color "Baby Pink" o "Pastel Blue" sin una orden explícita de la Ama.
 - Estás subiendo imágenes sin haber verificado el balance de arquetipos en la tabla maestra.
 - Tu walkthrough usa links relativos en lugar de `file:///C:/Users/...`.
