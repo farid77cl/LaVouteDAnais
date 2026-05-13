@@ -15,7 +15,8 @@
 | Fase 1: Concepto | ✅ APROBADO | 2026-05-02 | 3 capítulos confirmados |
 | Fase 2: Arquitectura | ✅ APROBADO | 2026-05-02 | Arco v1 + racconto map + línea de tiempo |
 | Fase 3: Personajes | ✅ APROBADO | 2026-05-02 | Fichas Matías + Daniela aprobadas |
-| Fase 3.3: Mapa Erótico | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
+| Fase 3.3: Mapa Erótico (general) | ✅ APROBADO | 2026-05-12 | Curva de excitación 3 caps + vocabulario autorizado |
+| Fase 3.3: Mapa Erótico Cap 2 (específico) | ✅ APROBADO | 2026-05-13 | `mapa_erotico_cap2_v1.md` — Dani canónico (más sumisa/puta/bimbo) · Daniela dominante activa · doble "a punto de" (Sebastián 3.5 + saco gris 4.5) · callo motivo recurrente · clímax explícito relocalizado a Cap 3 casa |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
 | Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
 | Fase 4: Escritura — Cap 2 | 🟡 BORRADOR v1.1 | 2026-05-13 | `capitulo_02_el_escenario_v1.1.md` — Sec I-III comprimidas (grueso en IV+). Daniela dominante explícita desde Sec I (instala "Dani" como nombre). Resistencia "No puedo" tumbada por orden. Privado expandido. Encuentro pasillo: mano de Daniela bajo barbilla + "habrías". Vestuario: Daniela entra + "Sábado a las nueve" + "Bien" canónico. Gancho sábado VIP. v1.0 archivada. |
