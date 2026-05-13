@@ -35,7 +35,8 @@
       "Bash(cp \"C:/Users/farid/.claude/skills/anais-outfit-engine/references/dna_v2_3.md\" \"C:/Users/farid/LaVouteDAnais/.agent/skills/anais-outfit-engine/references/dna_v2_3.md\")",
       "Bash(python \"99_Sistema/scripts/temp_diary_session.py\")",
       "Bash(del \"99_Sistema\\\\scripts\\\\temp_diary_session.py\")",
-      "Bash(python \"99_Sistema/scripts/temp_append_l176_180.py\")"
+      "Bash(python \"99_Sistema/scripts/temp_append_l176_180.py\")",
+      "Bash(curl -s --max-time 3 http://localhost:11434/api/tags)"
     ]
   }
 }
