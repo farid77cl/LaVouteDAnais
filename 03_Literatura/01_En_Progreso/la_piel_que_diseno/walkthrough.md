@@ -19,13 +19,14 @@
 | Fase 3.3: Mapa Erótico Cap 2 (específico) | ✅ APROBADO | 2026-05-13 | `mapa_erotico_cap2_v1.md` — Dani canónico (más sumisa/puta/bimbo) · Daniela dominante activa · doble "a punto de" (Sebastián 3.5 + saco gris 4.5) · callo motivo recurrente · clímax explícito relocalizado a Cap 3 casa |
 | Fase 3.5: Escena Piloto | ✅ APROBADO | 2026-05-02 | Cap 3 actualizado con correcciones |
 | Fase 4: Escritura — Cap 1 | ✅ CERRADO MAESTRO | 2026-05-13 | `capitulo_01_la_piel_maestro_v1.md` — versión definitiva. ~7,200 palabras. D1-D10 integrados. Gate Ama aprobado. |
-| Fase 4: Escritura — Cap 2 | 🟢 POST-TERMÓMETRO v1.2 | 2026-05-13 | `capitulo_02_el_escenario_v1.2.md` — v1.1 + cirugía Editor única (Sebastián Mura 4→1 mención del nombre completo). Termómetro 🟢 EN RANGO (Δ ±0.0). Pendiente Crítico + Centinela + Gate Ama. v1.1 archivada en borradores/capitulo_02/. |
-| Fase 5.5: Termómetro Cap 2 | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/reporte_termometro_v1.md` — Veredicto 🟢 EN RANGO. 3/3 escenas clave entregadas, 6/6 beats post-ritual, 7/7 anticipaciones prohibidas respetadas. Nota cruzada Cap 3: R9 debe ser fused. |
-| Fase 5: Auditoría Cap 2 (Crítico) | ✅ COMPLETADA | 2026-05-13 | `reportes/capitulo_02/critica_v1.md` — Score 9.0 / ADMITIDO CON OBSERVACIONES. 1 cirugía menor: reducir construcción firma "con la X de Y" (12→6-7 instancias). Olfato como capa sensorial menor sugerida. |
-| Fase 5: Centinela Cap 2 | ✅ COMPLETADA | 2026-05-13 | `reportes/capitulo_02/centinela_v1.md` — APROBADO CONDICIONAL. Condición: actualizar línea de tiempo con ensayo previo (cumplida). 7/11 compromisos cumplidos, 4 divergencias autorizadas. Sin contradicciones de canon. |
-| Fase 6: Refinamiento Cap 2 | ⬜ PENDIENTE | — | Aplicar cirugía Crítico (firma estilística) cuando la Ama autorice |
-| Fase 7: Centinela final Cap 2 | ⬜ PENDIENTE | — | Tras Editor v1.3 |
-| Fase 8: Entrega Final Cap 2 | ⬜ PENDIENTE | — | Maestro v1 |
+| Fase 4: Escritura — Cap 2 | 🟢 POST-EDITOR v1.3 | 2026-05-13 | `capitulo_02_el_escenario_v1.3.md` — Cirugías Editor: (a) Sebastián Mura 4→1 (v1.2); (b) firma "con la X de Y" 12→~8 (v1.3); (c) olfato Sec II (v1.3). Todas las versiones previas en borradores/capitulo_02/. |
+| Fase 5.5: Termómetro Cap 2 (v1) | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/reporte_termometro_v1.md` — sobre v1.1. Veredicto 🟢 EN RANGO. 3/3 escenas clave, 6/6 beats. |
+| Fase 5: Crítico Cap 2 | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/critica_v1.md` — Score 9.0 / ADMITIDO CON OBSERVACIONES. 2 cirugías: firma estilística + olfato. |
+| Fase 5: Centinela Cap 2 (v1) | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/centinela_v1.md` — APROBADO CONDICIONAL → línea de tiempo actualizada con ensayo previo. |
+| Fase 6: Editor Cap 2 | ✅ COMPLETADO | 2026-05-13 | Cirugías aplicadas en v1.3: firma "con la X de Y" 12→~8 instancias (6 simplificadas), olfato en Sec II. |
+| Fase 5.5: Termómetro Cap 2 (v2 — re-validación) | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/reporte_termometro_v2.md` — sobre v1.3. Veredicto 🟢 EN RANGO. Δ ±0.0 (las cirugías son textuales, no de temperatura). Mejora D2: capa OLFATO presente. |
+| Fase 7: Centinela final Cap 2 | ✅ COMPLETADO | 2026-05-13 | `reportes/capitulo_02/centinela_v2_final.md` — **✅ APROBADO**. 11/11 compromisos. Carga erótica reforzada por olfato. Voz mejorada (más seca). |
+| Fase 8: Entrega Final Cap 2 | ⬜ PENDIENTE GATE AMA | — | Tras aprobación de la Ama: promover `v1.3` → `capitulo_02_el_escenario_maestro_v1.md` |
 
 ---
 
