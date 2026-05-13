@@ -3,11 +3,12 @@
 ## 📋 Control de Versión
 | Campo | Valor |
 |-------|-------|
-| **Versión** | v1.1 |
-| **Estado** | BORRADOR — Sec I-III comprimidas, grueso en Sec IV. Daniela domina explícita desde Sec I. Naming: "Dani" instalado por Daniela. |
+| **Versión** | v1.4 |
+| **Estado** | POST-GATE AMA (D11-D15). Cirugías: (A) nueva escena pre-Sec II — mañana del jueves: ritual de vestuario diario + calle como teatro de exposición (D11+D12); (B) plataformas de stripper nombradas explícitamente en Sec II (D14); (C) beats de condescendencia del staff en Sec II y Sec IV (D13); D11-D15 codificados en walkthrough. v1.3 archivada. |
 | **Arco** | arco_maestro_v1 |
-| **Racconto activos** | R6 (preparación, compacto) · R7 (pole, compacto) · R8 (Sebastián Mura, compacto) |
-| **Temperatura** | I: 2 · II: 2→3 · III: 3→4 · IV: **4** (sostenida) · V: 3.5 · VI: 4 |
+| **Mapa erótico específico** | mapa_erotico_cap2_v1.md |
+| **Racconto activos** | R6 (preparación, compacto) · R7 (pole, compacto) · R8 (cliente del reloj, compacto) |
+| **Temperatura** | [Nueva] 1→2 · I: 2 · II: 2→3 · III: 3→4 · IV: 4 sostenida (pico 4.5 en dos cm) · V: 3.5 · VI: 4 |
 | **Fecha** | 2026-05-13 |
 
 ---
@@ -20,7 +21,7 @@ Antes de bajarme me detuvo con un movimiento de cabeza.
 
 —Dani.
 
-Esperó. Sostuve la mirada con la calma del cuerpo en que estaba metido, no porque quisiera sostenerla sino porque ese cuerpo no había aprendido todavía a bajar primero frente a esa voz saliendo de mi propia cara.
+Esperó. Sostuve la mirada — no porque quisiera, sino porque ese cuerpo no había aprendido todavía a bajar primero frente a esa voz saliendo de mi propia cara.
 
 —¿Qué.
 
@@ -60,13 +61,85 @@ Eso iba a cambiar en veinticuatro horas.
 
 ---
 
+El jueves empezó a las siete y media.
+
+Daniela tenía las llaves del departamento. Las tenía desde el día del contrato, cuando yo se las entregué sin que ella las pidiera — un gesto que en ese momento interpreté como logístico y que ahora entendía de otra manera.
+
+No llamó antes de entrar.
+
+La oí abrir la puerta con la precisión de alguien que no necesita anunciarse. Estaba despierto desde las seis. El cuerpo de Dani funcionaba así: se activaba antes de que la agenda lo justificara, como si tuviera acceso a un calendario más honesto que el mío. El coño ya había marcado temperatura sin que yo hubiera hecho nada todavía.
+
+Daniela entró al dormitorio.
+
+Traje gris, corbata sin anudar, el pelo recogido con la ausencia de esfuerzo que yo recordaba en mí mismo antes de las reuniones largas. Caminó directo al clóset sin saludar. Escuché perchas corridas, tela sobre tela, el ruido de alguien que ya sabe lo que busca.
+
+Sacó tres prendas y las puso sobre la cama en orden.
+
+Primero: una minifalda de vinil negro. Cuatro dedos sobre la rodilla — más corta que el vestido leopardo del domingo, mucho más. El material se pegaba a la palma antes de que uno lo desplegara.
+
+Después: un top de lycra negro. Ajustado, sin mangas, sin sostén posible. El tipo de prenda que no cubre sino que define.
+
+Después: unas plataformas de bloque negro, diez centímetros, talón ancho. Para la calle, no para el club — caminables, pero lo suficientemente altas para que cada paso llegara al oído de quien estuviera cerca.
+
+—Esto —dijo.
+
+No era pregunta.
+
+Me vestí.
+
+La minifalda de vinil llegó a medio muslo y se instaló ahí con la adherencia de algo que no iba a ceder ni un centímetro. El top cubrió el torso pero no encubrió nada: los implantes presionando la lycra desde adentro, los pezones visibles bajo la tela, los piercings marcados como dos puntos de presión que el material reconocía sin rodeos. Las plataformas me pusieron en otro plano. El centro de gravedad subió. El frío de la mañana entró por la franja de abdomen expuesta entre el borde inferior del top y el borde superior de la falda — esa franja que el domingo no había existido porque el vestido leopardo cubría todo, y que ahora el aire de la habitación reconocía antes que yo.
+
+Daniela me miró en el espejo del dormitorio.
+
+Sin aprobación, sin desaprobación. La verificación técnica de quien ha calculado un resultado y constata que es el calculado.
+
+—Tanga —dijo.
+
+—No llevo.
+
+—Bien.
+
+El "Bien" de siempre. El que no abría espacio a réplica.
+
+—¿Tienes llaves.
+
+—Sí.
+
+—Caminas. Llegas a las nueve.
+
+Y salió.
+
+---
+
+Salí a las ocho y cuarto.
+
+Las plataformas conocían el adoquín antes de que yo recordara cómo manejarlas. La falda de vinil se movía con la cadera en esa cadencia que el material tiene por sí solo — no era yo quien la producía, era la física del vinil sobre el cuerpo de Dani. El top dejaba entrar el frío de la mañana en la franja de piel entre la cintura y el borde de la falda.
+
+Las miradas llegaron en la segunda cuadra.
+
+No fue un impacto aislado. Fue un cálculo en tiempo real de lo que el cuerpo producía en el espacio público. Un hombre de unos cincuenta con bolsa de supermercado levantó los ojos del celular y los subió despacio desde las plataformas hasta la cara. No los bajó de inmediato. Los dejó instalados con la tranquilidad de quien considera que el objeto en el espacio compartido le da ese derecho.
+
+Una mujer con cochecito cruzó a la vereda de enfrente sin mirarme, con el gesto calculado de quien prefiere no compartir el metro cuadrado.
+
+Un grupo de tres en la puerta de un café dejó de hablar.
+
+El pensamiento llegó sin eufemismo: *me están mirando como si fuera una puta*.
+
+Y después — antes de que pudiera hacer algo con ese pensamiento —, el coño se contrajo.
+
+Eso era lo nuevo. En el Cap 1, la frase había llegado con calor como descubrimiento — un calor que no había convocado y que me había incomodado precisamente porque no pude rechazarlo. Ahora el calor llegaba antes de la frase. El cuerpo de Dani ya sabía lo que producía la mirada de un desconocido sobre el vinil y sobre la franja de piel y sobre las plataformas, y lo producía antes de que yo terminara de verlo.
+
+Vergüenza por el calor.
+
+Calor por la vergüenza.
+
+El ciclo era pequeño y cerrado. Caminé seis cuadras más dentro de él hasta llegar a la puerta lateral del club.
+
+---
+
 ## II
 
-El jueves a las nueve Daniela me dejó en la puerta y dijo una palabra:
-
-—Anda.
-
-El vestuario estaba caliente por las planchas de pelo y los focos del frente. La encargada me señaló el puesto tres sin levantar la vista del tablero.
+El vestuario estaba caliente por las planchas de pelo y los focos del frente. El aire olía a laca y a piel calentada bajo látex. La encargada me señaló el puesto tres sin levantar la vista del tablero.
 
 —Dani, segunda fila, ya. Tu música está cargada. Sales en cuarenta.
 
@@ -100,13 +173,21 @@ Lo puse. El látex cerró sobre los pechos con la presión exacta. Los piercings
 
 Me la puse.
 
-—Los tacones.
+—Las plataformas.
 
-Me los puse. Los dieciséis centímetros me pusieron en otro plano. El centro de gravedad subió. El arco del pie en su posición — ese arco que yo había estado mirando durante tres años desde afuera y que ahora era el ángulo en el que mi propio peso descansaba.
+Me las puse. Plataformas de stripper — no las de bloque para la calle, estas: dieciséis centímetros de talón sobre cinco de plataforma de acrílico, el pie en un ángulo que no admitía negociación. El centro de gravedad se desplazó hacia arriba. El arco del pie en su posición definitiva — ese arco que yo había estado mirando durante tres años desde afuera y que ahora era el ángulo en el que mi propio peso descansaba sobre la madera del vestuario.
 
 —La cara, más.
 
 La encargada se acercó con el delineador. Otra capa. Frambuesa más oscuro. Sombra hasta la sien. El espejo me devolvió una versión del cuerpo de Daniela calibrada para la distancia exacta del otro lado del escenario.
+
+La encargada giró hacia Daniela.
+
+—El orden del set está cambiado. La pongo de primera, hay un pedido para las once.
+
+—Bien —dijo Daniela.
+
+La encargada volvió al tablero. A mí no me había consultado nada. Yo era la que salía de primera, el set era sobre mi cuerpo, pero la pregunta no era para mí. La encargada sabía exactamente a quién dirigirla.
 
 Daniela se acercó por detrás.
 
@@ -148,7 +229,7 @@ Me acerqué. Las plataformas se movieron solas. La mano derecha encontró el aga
 
 *Implantes subglandulares, cuatro meses. Cápsula fibrosa todavía asentándose. 700cc bilaterales. En la vuelta exterior con impulso de cadera la inercia recorrería un arco de quince centímetros antes de encontrar el límite. En la caída controlada el peso bajaría con el cuerpo y llegaría una fracción de segundo después — el implante flotando por un instante dentro de su cavidad antes de que la gravedad lo iguale. Calculé todo eso para ella. Para verlo desde afuera. No estaba calculando desde afuera. Estaba calculando desde adentro para cuando llegara este momento.*
 
-La primera vuelta. Los 700cc se desplazaron en el arco que modelé. La cápsula encontró el límite con el calor suave de una física que ya conocía su propio camino.
+La primera vuelta. Los 700cc se desplazaron en el arco que modelé. La cápsula encontró el límite — un calor suave, una física que ya conocía su propio camino.
 
 El coño respondió antes de que procesara qué pasó.
 
@@ -180,7 +261,7 @@ No me reconoció.
 
 *Última sesión, un viernes de marzo: él llegó diez minutos tarde por una llamada del directorio, me lo explicó como si me debiera una explicación, hizo lo que le dije, me preguntó al final si estaba mejorando. Le dije que sí. Me lo dijo mirándome desde abajo en la colchoneta con el agotamiento de alguien que acaba de hacer lo que se le indica. Ahora estaba mirándome desde abajo con el billete en la mano.*
 
-El cuerpo se inclinó. La cadera hacia adelante, el pelo cayendo sobre el hombro derecho. Sebastián Mura deslizó el billete en la cadena dorada de la cadera.
+El cuerpo se inclinó. La cadera hacia adelante, el pelo cayendo sobre el hombro derecho. Él deslizó el billete en la cadena dorada de la cadera.
 
 Sus dedos no me tocaron.
 
@@ -200,9 +281,15 @@ El coño estaba húmedo y la música seguía y quedaban dos canciones y los priv
 
 ## IV
 
-Daniela me esperaba en el pasillo del fondo cuando salí del escenario.
+Cuando salí del escenario, Nacho y Daniela estaban en el corredor del fondo.
 
-Mi cuerpo apoyado contra la pared, las manos en los bolsillos del pantalón del traje. La calma con que yo solía esperar antes de entrar a una reunión que ya tenía decidida.
+No hablaban de mí — hablaban sobre mí. Lo vi en la postura: Nacho con el tablero en la mano, un dedo señalando un nombre en la lista, Daniela leyendo y asintiendo. El tipo de conversación en que los datos van en una sola dirección porque solo una de las dos personas tiene autoridad para recibirlos.
+
+Nacho me vio llegar.
+
+No me dijo nada. Terminó la frase con Daniela, hizo un gesto hacia el fondo del corredor y se fue.
+
+Daniela se quedó contra la pared. Mi cuerpo apoyado contra la pared, las manos en los bolsillos del pantalón del traje. La calma con que yo solía esperar antes de entrar a una reunión que ya tenía decidida.
 
 —Tienes uno pedido —dijo—. El del saco gris.
 
@@ -244,7 +331,7 @@ El sillón era de cuero oscuro, bajo, el tipo de silla que pone al hombre sentad
 
 El del saco gris estaba ahí.
 
-Treinta y tantos, pelo claro. El saco sin corbata, los pantalones sin cinturón. Las manos sobre los apoyabrazos. Me miró con la atención comprimida de alguien que está recibiendo exactamente lo que pidió.
+Treinta y tantos, pelo claro. El saco sin corbata, los pantalones sin cinturón. Las manos sobre los apoyabrazos. Me miró: atención comprimida. La mirada de alguien que está recibiendo exactamente lo que pidió.
 
 Me ubiqué.
 
@@ -270,7 +357,7 @@ La cadena dorada de la cadera quedó a treinta centímetros de sus rodillas. Des
 
 El coño estaba húmedo.
 
-No levemente. Húmedo con la urgencia de algo que llevaba dos días acumulando sin descarga: la masturbación con la imagen de la verga de Daniela, el dressing con las manos de mi propia palma sobre mi hombro nuevo, las miradas, la vuelta del pole, la verga de Sebastián Mura buscada sin encontrarla, las órdenes de Daniela en la voz de Daniela en mi cara —
+No levemente. Húmedo. Dos días acumulando sin descarga: la masturbación con la imagen de la verga de Daniela, el dressing con las manos de mi propia palma sobre mi hombro nuevo, las miradas, la vuelta del pole, la verga del ex cliente del reloj buscada sin encontrarla, las órdenes de Daniela en la voz de Daniela en mi cara —
 
 — y ahora esto: la verga real, presente, a menos de diez centímetros, y el cuerpo que la quería desde antes de que yo terminara de procesar que la quería.
 
@@ -390,7 +477,7 @@ Se paró detrás de la silla. Mi cuerpo, mi altura, mi cara mirándome desde arr
 
 —El sábado a las nueve —dijo—. El VIP.
 
-No me preguntó si había leído algún mensaje, si entendía qué era el VIP, si tenía dudas. Solo lo dijo. La cadencia mía. La voz mía. Una oración terminada antes de empezar a negociar.
+No me preguntó si había leído algún mensaje, si entendía qué era el VIP, si tenía dudas. Solo lo dijo. La cadencia mía. Una oración terminada antes de empezar a negociar.
 
 El coño se contrajo.
 
@@ -412,7 +499,7 @@ El "bien" seguía en el aire.
 
 Terminé de quitar el maquillaje.
 
-Los músculos estaban cansados de la manera correcta. No el cansancio del gimnasio ni el del trabajo — el cansancio de haber usado el cuerpo para lo que el cuerpo sabía hacer, con la cadencia que había aprendido y la atención que eso requería. Un cansancio que no era protesta sino registro.
+Los músculos estaban cansados de la manera correcta. No el cansancio del gimnasio ni el del trabajo — el cansancio de haber usado el cuerpo para lo que el cuerpo sabía hacer: la cadencia aprendida, la atención que requería. Un cansancio que no era protesta sino registro.
 
 No pensé en el hombre del saco gris.
 
@@ -424,7 +511,7 @@ Pensé en la vuelta exterior con impulso de cadera. En el ángulo del eje. En qu
 
 Pensé en el sábado.
 
-El VIP. Cuarto separado. Los hombres que llegan con sobre. La clase de trato que no es el escenario ni el privado de pasillo — es el VIP, que tiene otra calidad, otro tiempo, otro nivel de contacto permitido. Daniela me lo había descrito una vez con la misma precisión con que me lo había oído describir a mí hace dos años, cuando planifiqué la progresión del lugar en un papel y dije: *primero el escenario, después el VIP*.
+El VIP. Cuarto separado. Los hombres que llegan con sobre. La clase de trato que no es el escenario ni el privado de pasillo — es el VIP, que tiene otra calidad, otro tiempo, otro nivel de contacto permitido. Daniela me lo había descrito una vez exactamente como yo se lo había descrito a ella hace dos años, cuando planifiqué la progresión del lugar en un papel y dije: *primero el escenario, después el VIP*.
 
 No respondí ningún mensaje porque no había mensaje. Daniela lo había dicho en persona.
 
@@ -438,4 +525,10 @@ No por el contrato.
 
 ---
 
-*v1.1 — Sec I-III comprimidas (~1,600w combinadas). Daniela dominante explícita: nombramiento "Dani" (I), dressing por orden + mano en hombro (II), orden del privado tumbando la resistencia "No puedo" (IV), mano bajo la barbilla en el pasillo + "habrías" (IV), entrada al vestuario + "Sábado a las nueve" + "Bien" canónico (V). Grueso en Sec IV (~2,000w): orden con resistencia, privado expandido, encuentro Daniela-pasillo con dominancia física, vuelta al escenario con el cuerpo más caído. R6/R7/R8 condensados. Gancho: el sábado, el coño pulsa, no por el contrato.*
+*v1.4 — Post-Gate Ama (D11-D15). Cirugías aplicadas: (A) nueva escena pre-Sec II — mañana del jueves: Daniela llega al departamento a las 7:30 con las llaves propias, elige outfit del día (minifalda vinil negro + top lycra sin sostén + plataformas de bloque 10cm para calle), Matías sale solo y camina 8 cuadras al club — miradas en segunda cuadra, ciclo vergüenza→calor→vergüenza, el pensamiento "puta" confirmado antes de la frase. D11 (ritual diario degradación progresiva) + D12 (calle como teatro de exposición). (B) Sec II: "Los tacones" → "Las plataformas" con descripción explícita stripper (16cm talón + 5cm plataforma acrílico, distintas a las de bloque de la calle); D14 codificado. (C) Sec II: encargada gira hacia Daniela para cambio de set, ignora decisión de Matías/Dani — D13 codificado. (D) Sec IV: Nacho termina conversación con Daniela antes de que Matías llegue al corredor — protocolo visible: el staff habla con Daniela, no con la bailarina; D13 reforzado. v1.3 archivada en borradores/capitulo_02/.*
+
+*v1.3 — Post-Crítico (Fase 6). Editor aplicó 2 cirugías: (1) reducción firma "con la X de Y" 12→~8; (2) inyección capa OLFATO en Sec II.*
+
+*v1.2 — Post-Termómetro (Fase 5.5). Cirugía: "Sebastián Mura" 4→1 uso del nombre completo.*
+
+*v1.1 — Sec I-III comprimidas. Daniela dominante explícita. R6/R7/R8 condensados. Gancho: el sábado, el coño pulsa, no por el contrato.*
