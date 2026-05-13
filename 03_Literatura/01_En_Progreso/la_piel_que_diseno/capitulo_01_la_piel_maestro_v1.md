@@ -923,7 +923,7 @@ Y el cuerpo ya está listo.
 ## 📝 Reporte del Editor (Orquestador v4.4 — pasada Opus 4.7)
 
 **Fecha:** 2026-05-13
-**Sustituto del agente Editor (dolphin-llama3:8b — Ollama no activo en esta sesión).**
+**Ejecutado por:** Agente Editor del Orquestador v4.4 (rol asumido dentro de Claude Code).
 
 ### Correcciones aplicadas
 

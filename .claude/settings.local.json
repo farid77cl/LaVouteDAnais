@@ -41,7 +41,19 @@
       "Bash(python \"99_Sistema/scripts/temp_append_looks.py\")",
       "Bash(git rm *)",
       "Bash(cp __TRACKED_VAR__/.claude/skills/escritura-voûte/SKILL.md c:/Users/farid/LaVouteDAnais/.agent/skills/escritura-voûte/SKILL.md)",
-      "Bash(cp -u '__TRACKED_VAR__/.claude/skills/escritura-voûte/resources/*.md' c:/Users/farid/LaVouteDAnais/.agent/skills/escritura-voûte/resources/)"
+      "Bash(cp -u '__TRACKED_VAR__/.claude/skills/escritura-voûte/resources/*.md' c:/Users/farid/LaVouteDAnais/.agent/skills/escritura-voûte/resources/)",
+      "Bash(grep -lE \"ollama|Ollama|dolphin|qwen|llama3\\\\.2\" 99_Sistema/scripts/bat/*.bat)",
+      "Bash(grep -lE \"ollama|Ollama|dolphin|qwen|llama3\\\\.2\" 99_Sistema/scripts/setup/*.ps1)",
+      "Bash(head -10 99_Sistema/scripts/bat/voute-editor.bat)",
+      "Bash(head -10 99_Sistema/scripts/bat/voute-backup.bat)",
+      "Bash(head -10 99_Sistema/scripts/bat/voute-logs.bat)",
+      "Bash(head -10 99_Sistema/scripts/bat/voute-stop.bat)",
+      "Bash(head -10 99_Sistema/scripts/setup/setup_env.ps1)",
+      "Bash(rm -rf 99_Sistema/scripts/evaluacion)",
+      "Bash(rm -f 99_Sistema/scripts/bat/voute-start.bat 99_Sistema/scripts/bat/voute-stop.bat 99_Sistema/scripts/bat/voute-status.bat 99_Sistema/scripts/bat/voute-test.bat 99_Sistema/scripts/bat/voute-modelos.bat 99_Sistema/scripts/bat/voute-modelos-lite.bat 99_Sistema/scripts/bat/voute-editor.bat 99_Sistema/scripts/bat/voute-backup.bat 99_Sistema/scripts/bat/voute-logs.bat 99_Sistema/scripts/bat/setup_env.bat)",
+      "Bash(rm -f 99_Sistema/scripts/setup/setup.ps1 99_Sistema/scripts/setup/setup_fixed.ps1 99_Sistema/scripts/setup/setup_env.ps1)",
+      "Bash(ls 99_Sistema/scripts/bat/)",
+      "Bash(ls 99_Sistema/scripts/setup/)"
     ]
   }
 }
