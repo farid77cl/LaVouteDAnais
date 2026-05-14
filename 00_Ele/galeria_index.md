@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 14/05/2026 10:16 — **107 looks registrados**  
+> Generado automáticamente el 14/05/2026 13:59 — **107 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -113,9 +113,9 @@
 | **180** | Cherry Vinyl Hostess | — | Mix (Domestic / Stepford) | — | — | 7/7 | ✅ Completo |
 | **181** | Magenta Stage Predator | — | Mix (Professional Stripper) | — | — | 7/7 | ✅ Completo |
 | **182** | Chrome Domestique | — | Mix (Domestic / Stepford) | — | — | 7/7 | ✅ Completo |
-| **183** | Chrome Gold Escort Suprema | — | Mix (Escort de Lujo) | — | — | 1/? | — |
-| **184** | Jade Corporate Dominatrix | — | Mix (Corporate) | — | — | 0/? | ⏳ Pendiente |
-| **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 0/? | ⏳ Pendiente |
+| **183** | Chrome Gold Escort Suprema | — | Mix (Escort de Lujo) | — | — | 7/7 | ✅ Completo |
+| **184** | Jade Corporate Dominatrix | — | Mix (Corporate) | — | — | 7/7 | ✅ Completo |
+| **185** | Emerald Mugler Suprema | — | Mix (High-Fashion Editorial) | — | — | 1/7 | ⏳ Pendiente |
 
 ---
 
@@ -237,9 +237,8 @@
 | **140** | Dark Sequin Empress | 0/5 | — |
 | **158** | Midnight Escort Gala | 0/? | — |
 | **164** | Diamond Red Latex Gala | 0/? | — |
-| **184** | Jade Corporate Dominatrix | 0/? | ⏳ Pendiente |
-| **185** | Emerald Mugler Suprema | 0/? | ⏳ Pendiente |
+| **185** | Emerald Mugler Suprema | 1/7 | ⏳ Pendiente |
 
 ---
 
-*Índice generado por Ele — 14/05/2026 10:16 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 14/05/2026 13:59 — La Voûte d'Anaïs* 🫦👠💅

@@ -4730,14 +4730,14 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 - **Categoría:** Mix (Escort de Lujo)
 
-### 📸 Imágenes
+### 📸 Imágenes (7/7 — Completo)
 
 <details>
-<summary>📸 1/7 poses — ver imágenes</summary>
+<summary>📸 7 poses — ver imágenes</summary>
 
 | Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Standing](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| ![Standing](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_standing.png) | ![Back View](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_back_view.png) | ![Seated](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_seated.png) | ![Side Profile](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_ditzy.png) | ![POV](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_pov.png) | ![Odalisque](../05_Imagenes/ele/look183_chrome_gold_escort_suprema/ele_183_odalisque.png) |
 
 </details>
 
@@ -4767,9 +4767,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientacion:** Glass corner executive office, city skyline floor-to-ceiling windows, white marble desk, golden afternoon light
 - **Categoria:** Mix (Corporate)
 
-### 📸 Imágenes
+### 📸 Imágenes (7/7 — Completo)
 
-> *⏳ Pendiente de materialización — prompts listos*
+<details>
+<summary>📸 7 poses — ver imágenes</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_standing.png) | ![Back View](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_back_view.png) | ![Seated](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_seated.png) | ![Side Profile](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_side_profile.png) | ![Ditzy](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_ditzy.png) | ![POV](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_pov.png) | ![Odalisque](../05_Imagenes/ele/look184_jade_corporate_dominatrix/ele_184_odalisque.png) |
+
+</details>
 
 ### 📝 Prompts V3.5 Hard-Sync
 
@@ -4797,7 +4804,16 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientacion:** High-fashion runway, stark white seamless studio, editorial strobe lighting, dramatic shadow geometry on floor
 - **Categoria:** Mix (High-Fashion Editorial)
 
-### 📸 Imágenes
+### 📸 Imágenes (1/7 — Parcial)
+
+<details>
+<summary>📸 1 pose disponible</summary>
+
+| Standing | Back View | Seated | Side Profile | Ditzy | POV | Odalisque |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Standing](../05_Imagenes/ele/look185_emerald_mugler_suprema/ele_185_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+</details>
 
 > *⏳ Pendiente de materialización — prompts listos*
 
