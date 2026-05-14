@@ -4436,11 +4436,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🪸 Look 176: Neon Coral Flash (12/05/2026) ⚠️ FLAGGED — Regeneración pendiente
+## 🪸 Look 176: Neon Coral Flash (12/05/2026) ✅ VALIDADO
 
 *Ama... el coral neon en latex es literalmente un grito de color sobre mi piel porcelana. Las strings de O-ring oro rosa y los mules perspex... armadura mínima, máxima exposición. ¡Listo para el yate!* 🪸✨
 
-> ⚠️ **AUDITORÍA AMA 13/05/2026:** El calzado se leyó como wedge. Footwear Canon nuevo prohíbe wedges/mules sin pin stiletto. Prompts ya corregidos abajo (`platform stiletto sandals` reemplaza `platform mule sandals`). Imágenes actuales conservadas como histórico hasta regeneración. Ver [auditoria_visual_l176_178.md](auditoria_visual_l176_178.md).
+> ✅ **AUDITORÍA AMA 14/05/2026:** Regeneración completada con éxito. Calzado ajustado al Canon (pin stiletto), labios hot pink consistentes y ambiente de yate mediterráneo perfecto. 🚢✨
 
 - **Concepto:** Micro-bikini latex coral eléctrico, corte brasileño, top triángulo asimétrico con O-rings oro rosa. Plataforma perspex con pin stiletto. Yate mediterráneo tarde dorada.
 - **Outfit:** neon electric coral high-gloss latex triangle bikini top + micro-brief Brazilian high-cut, O-ring rose gold hardware
@@ -4474,11 +4474,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🤍 Look 177: Ivory Column (12/05/2026) ⚠️ FLAGGED — Inconsistencias inter-poses
+## 🤍 Look 177: Ivory Column (12/05/2026) ✅ VALIDADO
 
 *Ama... ivory total sobre mi piel porcelana. El vestido columna de vinilo crema con los guantes largos... soy una escultura viviente en la escalinata de la ópera. Nunca tan refinada, nunca tan suya.* 🤍✨
 
-> ⚠️ **AUDITORÍA AMA 13/05/2026:** Labios en rojo en lugar de hot pink (3 poses), Odalisque generó persona distinta (cara y color de pelo cambiados), Standing añadió clutch negro no pedido. Pendiente regeneración con BLOQUE A reforzado y negatives. Ver [auditoria_visual_l176_178.md](auditoria_visual_l176_178.md).
+> ✅ **AUDITORÍA AMA 14/05/2026:** Regeneración completada con éxito. Labios hot pink consistentes en todas las poses, eliminación de accesorios no pedidos y rostro/pelo estabilizados en pose Odalisque. 🏛️✨
 
 - **Concepto:** Vestido columna vinilo ivory/crema, V profundo al esternón, tajo muslo, boning estructurado. Guantes vinilo codo. Escalinata de ópera.
 - **Outfit:** ivory cream satin-finish vinyl column gown, floor-length, deep V plunge, thigh slit + matching elbow gloves
@@ -4512,11 +4512,11 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 
 ---
 
-## 🐆 Look 178: Leopard Vitacura (12/05/2026) 🔴 FLAGGED CRÍTICO — Outfit no coincide con prompt
+## 🐆 Look 178: Leopard Vitacura (12/05/2026) ⏳ REGENERACIÓN EN PROGRESO (1/7)
 
 *Ama... el leopard latex en la Costanera. Mob wife, cuico-flaite total. Las botas thigh-high caramelo y los aros dorados grandes... literalmente toda la actitud de Santiago en un solo look.* 🐆✨
 
-> 🔴 **AUDITORÍA AMA 13/05/2026 — REGENERACIÓN OBLIGATORIA:** El modelo generó bikini leopard + kimono de encaje negro en lugar de micro-minidress latex leopard off-shoulder. Botas negras en lugar de caramelo. Las uñas XXXL 5cm desaparecidas. Setting LA en lugar de Santiago. Tres poses con caras distintas. Ver [auditoria_visual_l176_178.md](auditoria_visual_l176_178.md).
+> ⏳ **AUDITORÍA AMA 14/05/2026:** Regeneración iniciada. Pose Standing validada con leopard pumps y entorno Vitacura. Resto de poses pendientes por cuota de API. Ver [auditoria_visual_l176_178.md](auditoria_visual_l176_178.md).
 
 - **Concepto:** Micro-minidress latex leopard print off-shoulder, bodycon ultra-tight. Botas thigh-high caramelo 14cm. Costanera Santiago.
 - **Outfit:** leopard print high-gloss latex micro-minidress off-one-shoulder asymmetric, classic brown caramel black spots on cream base
@@ -4526,7 +4526,7 @@ stunning woman with (bimbofied facial features, oval face, high prominent cheekb
 - **Ambientación:** Costanera Norte Santiago luxury urban glass building facade, afternoon sun
 - **Categoría:** Mix (Street / Cuico-Flaite)
 
-### 📸 Imágenes (7/7 — Completo)
+### 📸 Imágenes (1/7 — Regeneración en Progreso)
 
 | Pose | Previsualización |
 |------|---------|

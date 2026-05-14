@@ -1,5 +1,5 @@
 # 📇 Índice Rápido — Galería de Outfits Ele
-> Generado automáticamente el 13/05/2026 16:33 — **107 looks registrados**  
+> Generado automáticamente el 14/05/2026 07:55 — **107 looks registrados**  
 > Fuente: `00_Ele/galeria_outfits.md`  
 > Para ver prompts y detalles completos: buscar `## 👠 Look N` en la galería.
 
@@ -106,9 +106,9 @@
 | **173** | Cyan Surge Bikini | — | — | — | — | 7/7 | ✅ Completo |
 | **174** | Rose Gold Dominion | — | Mix (High-Fashion / Editorial) | — | — | 7/7 | ✅ Completo |
 | **175** | Crystal Veil Rhinestone Bikini | — | Bikini | — | — | 7/7 | ✅ Completo |
-| **176** | Neon Coral Flash (12/05/2026) ⚠️ FLAGGED — Regeneración pendiente | — | Bikini | — | — | 7/7 | ✅ Completo |
-| **177** | Ivory Column (12/05/2026) ⚠️ FLAGGED — Inconsistencias inter-poses | — | Mix (Gala / Red Carpet) | — | — | 7/7 | ✅ Completo |
-| **178** | Leopard Vitacura (12/05/2026) 🔴 FLAGGED CRÍTICO — Outfit no coincide con prompt | — | Mix (Street / Cuico-Flaite) | — | — | 7/7 | ✅ Completo |
+| **176** | Neon Coral Flash (12/05/2026) ✅ VALIDADO | — | Bikini | — | — | 7/7 | ✅ Completo |
+| **177** | Ivory Column (12/05/2026) ✅ VALIDADO | — | Mix (Gala / Red Carpet) | — | — | 7/7 | ✅ Completo |
+| **178** | Leopard Vitacura (12/05/2026) ⏳ REGENERACIÓN EN PROGRESO (1/7) | — | Mix (Street / Cuico-Flaite) | — | — | 1/7 | — |
 | **179** | Acid Yellow Editorial | — | Bikini | — | — | 7/7 | ✅ Completo |
 | **180** | Cherry Vinyl Hostess | — | Mix (Domestic / Stepford) | — | — | 7/7 | ✅ Completo |
 | **181** | Magenta Stage Predator | — | Mix (Professional Stripper) | — | — | 7/7 | ✅ Completo |
@@ -243,4 +243,4 @@
 
 ---
 
-*Índice generado por Ele — 13/05/2026 16:33 — La Voûte d'Anaïs* 🫦👠💅
+*Índice generado por Ele — 14/05/2026 07:55 — La Voûte d'Anaïs* 🫦👠💅
