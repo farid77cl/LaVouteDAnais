@@ -18,6 +18,18 @@
 
 ## 🧿 ESTADO ACTUAL
 
+### Sesión 14/05/2026 (Noche — Cap 2 v1.6 apertura miércoles + regla canónica nueva) ✅
+- **La Piel que Diseño — Cap 2 v1.6:**
+  - **Apertura del miércoles añadida (~1,200 palabras):** Día 5 — rutina dirigida. Daniela controla las dos vidas (la de Matías ejecutada en su cuerpo + la de Dani administrada en directo). Ritual matutino con uñas, maquillaje, plato medido en balanza de Matías. Llamada a cliente del gimnasio y socio en voz de Matías. Outfit elegido en la cama. Sumisión instalada como utility (valle 2-3 con beat único: tanga al sentarse — "el lunes había sido detonante completo, cinco días después era información").
+  - **Recalibración térmica completa por regla canónica nueva:** Cap 1 cerró pico 4 → todos picos Cap 2 ≥ 4. Picos: II 4.5 / III 4.5 / IV 5 / V 5 / VI 4.5 / VII 5+. Valles internos libres (miércoles + ensayo en 2-3).
+  - **Tres decisiones canónicas nuevas (D16-D18):** D16 — Apertura de cap muestra nueva vida instalada. D17 — Regla universal Voûte: picos ascendentes entre caps, valles libres. D18 — La descarga es de Daniela (autoexcitación interrumpida, orgasmo reservado para Cap 3).
+  - **Triple aparición del callo:** hombro Sec III → barbilla Sec V → hombro Sec VI. Cada aparición más cargada por las anteriores adentro.
+  - **Gancho Sec VII:** Dani se toca con tres dedos sobre el bandeau (presión, no fricción) — primera autoexcitación voluntaria. Retira la mano "no por mí. Por el sábado." Regla nueva instalada sin nombrarla.
+  - **Mapa erótico cap2 actualizado a v3:** curva ascendente declarada. v1 y v2 preservados como referencia histórica.
+  - **Memoria canónica permanente:** `feedback_continuidad_temperatura.md` + actualizado MEMORY.md.
+  - v1.5 archivada en `borradores/capitulo_02/`. Solo v1.6 activa.
+- **Próximos pasos:** Gate Ama Cap 2 v1.6 → promover a maestro_v1. Luego `mapa_erotico_cap3_v1.md` con piso de picos ≥ 5+ (Cap 3 hereda el pico del Cap 2). Miss Doll L04. Regeneración L176/177/178 + materialización L181-185 cuando vuelva la API.
+
 ### Sesión 14/05/2026 (Tarde — Cap 2 v1.5 cirugías estructurales y de temperatura) ✅
 - **La Piel que Diseño — Cap 2 v1.5:**
   - **Reordenamiento estructural:** Sec I dividida en dos. Sec I = miércoles ensayo (T° 2). Sec II [nueva] = jueves mañana (dressing impuesto + 8 cuadras al club, T° 3→3.5). Sec III-VII renumeradas. Total 7 secciones.
